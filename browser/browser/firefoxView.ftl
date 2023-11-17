@@ -147,6 +147,26 @@ firefoxview-opentabs-focus-tab =
     .title = Bu sekmeye geç
 firefoxview-show-more = Daha fazla göster
 firefoxview-show-less = Daha az göster
+firefoxview-search-text-box-clear-button =
+    .title = Temizle
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Arama geçmişi
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = “{ $query }” arama sonuçları
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } site
+       *[other] { $count } site
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = “{ $query }” için sonuç yok
 firefoxview-sort-history-by-date-label = Tarihe göre sırala
 firefoxview-sort-history-by-site-label = Siteye göre sırala
 # Variables:
