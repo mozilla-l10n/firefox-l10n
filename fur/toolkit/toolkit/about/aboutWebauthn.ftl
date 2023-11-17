@@ -43,16 +43,57 @@ about-webauthn-results-pin-blocked-error = Erôr: no ti restin altris tentatîfs
 about-webauthn-results-pin-too-short-error = Erôr: il PIN indicât al è masse curt.
 about-webauthn-results-pin-too-long-error = Erôr: il PIN indicât al è masse lunc.
 about-webauthn-results-pin-auth-blocked-error = Erôr: a son stâts fats masse tentatîfs sbaliâts in file e la autenticazion cul PIN e je stade disativade in mût temporani. Al covente completâ un cicli di alimentazion (distacâlu e tornâ a colegâlu).
+about-webauthn-results-cancelled-by-user-error = Erôr: la operazion e je stade anulade dal utent.
 
 ## Labels
 
+about-webauthn-new-pin-label = Gnûf PIN:
+about-webauthn-repeat-pin-label = Ripet il gnûf PIN:
+about-webauthn-current-pin-label = PIN corint:
+about-webauthn-pin-required-label = Inserìs il to PIN:
+about-webauthn-credential-list-subsection-title = Credenziâls:
+about-webauthn-credential-list-empty = Nissune credenziâl cjatade tal dispositîf.
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = Stabilìs PIN
+about-webauthn-current-change-pin-button = Cambie PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Liste credenziâls
+about-webauthn-cancel-button = Anule
+about-webauthn-send-pin-button = Va ben
+about-webauthn-delete-button = Elimine
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Verifiche utent
+about-webauthn-auth-option-up = Presince utent
+about-webauthn-auth-option-clientpin = PIN client
+about-webauthn-auth-option-rk = Clâf residente
+about-webauthn-auth-option-plat = Dispositîf di plateforme
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Permès dal comant (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Nissun permès MakeCredential / GetAssertion cun PIN client
+about-webauthn-auth-option-largeblobs = Blobs grancj
+about-webauthn-auth-option-ep = Atestazion aziendâl
+about-webauthn-auth-option-bioenroll = Regjistrazion biometriche
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototip di regjistrazion biometriche (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Permès di regjistrazion biometriche
+about-webauthn-auth-option-authnrcfg = Configurazion autenticadôr
+about-webauthn-auth-option-uvacfg = Permès configurazion autenticadôr
+about-webauthn-auth-option-credmgmt = Gjestion credenziâls
+about-webauthn-auth-option-credentialmgmtpreview = Prototip di gjestion credenziâls
+about-webauthn-auth-option-setminpinlength = Stabilìs la lungjece minime dal PIN
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential cence verifiche utent
+about-webauthn-auth-option-alwaysuv = Domande simpri la verifiche utent
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
