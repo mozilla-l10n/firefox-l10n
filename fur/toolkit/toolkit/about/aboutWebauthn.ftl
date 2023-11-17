@@ -102,3 +102,15 @@ about-webauthn-auth-option-null = No supuartât
 
 about-webauthn-auth-info-vendor-prototype-config-commands = Comants di configurazion dal prototip pal produtôr
 about-webauthn-auth-info-remaining-discoverable-credentials = Credenziâls individuabilis che a restin
+about-webauthn-auth-info-certifications = Certificazions
+about-webauthn-auth-info-uv-modality = Modalitât verifiche utent
+about-webauthn-auth-info-preferred-platform-uv-attempts = Plateforme preferide pai tentatîfs di verifiche utent
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Numar massim di Relying Party IDs par stabilî la lungjece massime dal PIN
+about-webauthn-auth-info-max-cred-blob-length = Lungjece massime dal blob des credenziâls
+about-webauthn-auth-info-firmware-version = Version firmware
+about-webauthn-auth-info-min-pin-length = Lungjece minime dal PIN
+about-webauthn-auth-info-force-pin-change = Oblee cambi dal PIN
+about-webauthn-auth-info-max-ser-large-blob-array = Dimension massime dal array di blobs grancj
+about-webauthn-auth-info-algorithms = Algoritmis
+about-webauthn-auth-info-transports = Traspuarts
+about-webauthn-auth-info-max-credential-id-length = Lungjece massime dal ID de credenziâl
