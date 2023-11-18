@@ -294,4 +294,5 @@ appmenu-developer-tools-subheader = Strumenti del browser
 appmenu-developer-tools-extensions =
     .label = Estensioni per sviluppatori
 
-
+appmenuitem-report-broken-site =
+  .label = Segnala problemi con il sito

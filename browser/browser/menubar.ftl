@@ -337,4 +337,5 @@ menu-help-not-deceptive =
     .label = Non è un sito ingannevole…
     .accesskey = e
 
-
+menu-report-broken-site =
+  .label = Segnala problemi con il sito
