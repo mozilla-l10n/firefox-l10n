@@ -76,11 +76,20 @@ about-webauthn-auth-option-plat = Plattformsanordning
 about-webauthn-auth-option-pinuvauthtoken = Kommandobehörigheter (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Inga MakeCredential / GetAssertion-behörigheter med klient-PIN
+about-webauthn-auth-option-largeblobs = Stora blobbar
 about-webauthn-auth-option-ep = Företagsintyg
 about-webauthn-auth-option-bioenroll = Biometrisk registrering
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Prototyp för biometrisk registrering (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Biometrisk registreringstillstånd
+about-webauthn-auth-option-authnrcfg = Autentiseringskonfiguration
+about-webauthn-auth-option-uvacfg = Autentiseringsbehörighet för konfiguration
+about-webauthn-auth-option-credmgmt = Behörighetshantering
+about-webauthn-auth-option-credentialmgmtpreview = Behörighetshantering för prototyp
+about-webauthn-auth-option-setminpinlength = Ställ in minsta PIN-längd
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential utan användarverifiering
+about-webauthn-auth-option-alwaysuv = Kräv alltid användarverifiering
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Sant
 # Shows when boolean value of an option is False. False should not be translated.
@@ -96,10 +105,16 @@ about-webauthn-auth-info-remaining-discoverable-credentials = Återstående uppt
 about-webauthn-auth-info-certifications = Certifieringar
 about-webauthn-auth-info-uv-modality = Användarverifieringsmodalitet
 about-webauthn-auth-info-preferred-platform-uv-attempts = Föredragna försök att verifiera plattformsanvändare
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Max förtroendeparts-ID för att ställa in minsta PIN-längd
+about-webauthn-auth-info-max-cred-blob-length = Maxlängd på behörighetsblobb
+about-webauthn-auth-info-firmware-version = Programvaruversion
 about-webauthn-auth-info-min-pin-length = Minsta PIN-kodslängd
 about-webauthn-auth-info-force-pin-change = Framtvinga PIN-ändring
 about-webauthn-auth-info-max-ser-large-blob-array = Max storlek på stor blob-array
 about-webauthn-auth-info-algorithms = Algoritmer
+about-webauthn-auth-info-transports = Transporter
+about-webauthn-auth-info-max-credential-id-length = Maxlängd på legitimations-ID
+about-webauthn-auth-info-max-credential-count-in-list = Max antal inloggningsuppgifter i listan
 about-webauthn-auth-info-pin-protocols = PIN-protokoll
 about-webauthn-auth-info-max-msg-size = Max meddelandestorlek
 # AAGUID should not be translated.
