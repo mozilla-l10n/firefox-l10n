@@ -185,6 +185,7 @@ media-codec-support-codec-name = Codec adı
 media-codec-support-supported = Destekleniyor
 media-codec-support-unsupported = Desteklenmiyor
 media-codec-support-error = Codec destek bilgisi mevcut değil. Bir medya dosyasını oynattıktan sonra tekrar deneyin.
+media-codec-support-lack-of-extension = Uzantı yükle
 
 ##
 

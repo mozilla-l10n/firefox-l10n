@@ -86,6 +86,7 @@ about-webauthn-auth-info-max-ser-large-blob-array = Büyük blob dizisinin maksi
 about-webauthn-auth-info-algorithms = Algoritmalar
 about-webauthn-auth-info-transports = Aktarımlar
 about-webauthn-auth-info-pin-protocols = PIN protokolleri
+about-webauthn-auth-info-max-msg-size = Maksimum ileti boyutu
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Uzantılar
