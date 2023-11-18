@@ -188,6 +188,7 @@ media-codec-support-codec-name = 编解码器名称
 media-codec-support-supported = 已支持
 media-codec-support-unsupported = 不支持
 media-codec-support-error = 无法获取编解码器支持信息，请在播放媒体文件后重试。
+media-codec-support-lack-of-extension = 安装扩展
 
 ##
 
