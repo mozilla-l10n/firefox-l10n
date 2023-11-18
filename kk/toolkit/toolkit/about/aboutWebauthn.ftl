@@ -100,10 +100,21 @@ about-webauthn-auth-option-null = Қолдауы жоқ
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Жеткізушінің прототипін баптау командалары
+about-webauthn-auth-info-remaining-discoverable-credentials = Қалған анықталатын тіркелу мәліметтері
+about-webauthn-auth-info-certifications = Сертификаттаулар
+about-webauthn-auth-info-uv-modality = Пайдаланушыны тексеру тәсілі
+about-webauthn-auth-info-preferred-platform-uv-attempts = Платформаның таңдаулы пайдаланушыны растау әрекеттері
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = PIN кодының минималды ұзындығын орнату үшін сенімді тараптың максималды идентификаторлары
+about-webauthn-auth-info-max-cred-blob-length = Тіркелу мәліметтері blob максималды ұзындығы
+about-webauthn-auth-info-firmware-version = Микробағдарлама нұсқасы
 about-webauthn-auth-info-min-pin-length = PIN кодының минималды ұзындығы
 about-webauthn-auth-info-force-pin-change = PIN кодты мәжбүрлеп өзгерту
+about-webauthn-auth-info-max-ser-large-blob-array = Үлкен blob-массивінің максималды өлшемі
 about-webauthn-auth-info-algorithms = Алгоритмдер
 about-webauthn-auth-info-transports = Көліктер
+about-webauthn-auth-info-max-credential-id-length = Тіркелу мәліметтері анықтағышының максималды ұзындығы
+about-webauthn-auth-info-max-credential-count-in-list = Тізімдегі тіркелу мәліметтерінің максималды саны
 about-webauthn-auth-info-pin-protocols = PIN хаттамалары
 about-webauthn-auth-info-max-msg-size = Хабарламаның максималды өлшемі
 # AAGUID should not be translated.
