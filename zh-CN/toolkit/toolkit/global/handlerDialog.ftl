@@ -18,6 +18,8 @@ permission-dialog-description-app = 要允许此网站使用“{ $appName }”�
 permission-dialog-description-host-app = 要允许 { $host } 使用“{ $appName }”打开 { $scheme } 链接吗？
 permission-dialog-description-file-app = 要允许此文件使用“{ $appName }”打开 { $scheme } 链接吗？
 permission-dialog-description-extension-app = 要允许扩展“{ $extension }”使用“{ $appName }”打开 { $scheme } 链接吗？
+permission-dialog-description-system-app = 要使用 { $appName } 打开 { $scheme } 链接吗？
+permission-dialog-description-system-noapp = 要打开 { $scheme } 链接吗？
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
