@@ -47,4 +47,4 @@ report-broken-site-panel-report-sent-label = La segnalazione è stata inviata
 report-broken-site-panel-report-sent-header =
   .label = La segnalazione è stata inviata
   .title = La segnalazione è stata inviata
-
+report-broken-site-panel-report-sent-text = Grazie per aiutare { -brand-product-name } a rendere il Web più aperto, accessibile e migliore per tutti.
