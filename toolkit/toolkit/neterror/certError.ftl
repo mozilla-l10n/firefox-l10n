@@ -30,10 +30,10 @@ cert-error-expired-now = නිශ්චිත කාල සීමාවක් �
 cert-error-not-yet-valid-now = නිශ්චිත කාල සීමාවක් සඳහා වලංගු වන සහතික හරහා අඩවි ඔවුන්ගේ අනන්‍යතාවය ඔප්පු කරයි. { $hostname } සඳහා සහතිකය { $not-before-local-time } දක්වා වලංගු නොවේ.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = දෝෂ කේතය: { $error }
+cert-error-code-prefix = දෝෂයේ කේතය: { $error }
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix-link = දෝෂ කේතය: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-code-prefix-link = දෝෂයේ කේතය: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 #   $hostname (string) - Hostname of the website with SSL error.
 #   $errorMessage (string) - Error message corresponding to the type of error we are experiencing.
@@ -72,7 +72,7 @@ proxyConnectFailure-title = ප්‍රතියුක්ත සේවාදා
 proxyResolveFailure-title = ප්‍රතියුක්ත සේවාදායකය සොයා ගැනීමට නොහැකිය
 redirectLoop-title = පිටුව නිසි අයුරින් හරවා යවන්නේ නැත
 unknownSocketType-title = සේවාදායකයෙන් අනපේක්‍ෂිත ප්‍රතිචාරයකි
-nssFailure2-title = ආරක්‍ෂිත සම්බන්ධතාවය බිඳ වැටුණි
+nssFailure2-title = ආරක්‍ෂිත සම්බන්‍ධතාවය බිඳ වැටුණි
 csp-xfo-error-title = { -brand-short-name } සඳහා පිටුව විවෘත කළ නොහැකිය
 corruptedContentError-title = හානි වූ අන්තර්ගත දෝෂයකි
 sslv3Used-title = ආරක්‍ෂිතව සම්බන්ධ වීමට නොහැකිය
