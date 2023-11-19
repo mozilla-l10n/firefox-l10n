@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = 了解新信息
 shopping-message-bar-warning-stale-analysis-button = 立即了解
-shopping-message-bar-generic-error-title2 = 目前没有可提供的信息
-shopping-message-bar-generic-error-message = 我们正努力解决此问题，请稍后再试。
-shopping-message-bar-warning-not-enough-reviews-title = 还没有足够数量的评价
-shopping-message-bar-warning-not-enough-reviews-message2 = 此商品获得更多评价后，我们就能开始分析其评价的质量。
-shopping-message-bar-warning-product-not-available-title = 商品无货
-shopping-message-bar-warning-product-not-available-message2 = 若您发现此商品已有货，请向我们反馈，以便我们核查评价。
-shopping-message-bar-warning-product-not-available-button = 反馈此商品已有货
-shopping-message-bar-thanks-for-reporting-title = 感谢反馈！
-shopping-message-bar-thanks-for-reporting-message2 = 我们会在 24 小时内提供此商品的评价分析信息，请记得回来查看。
-shopping-message-bar-warning-product-not-available-reported-title2 = 分析信息即将就绪
-shopping-message-bar-warning-product-not-available-reported-message2 = 我们会在 24 小时内提供此商品的评价分析信息，请记得回来查看。
 shopping-message-bar-generic-error =
     .heading = 目前没有可提供的信息
     .message = 我们正努力解决此问题，请稍后再试。
@@ -69,8 +58,6 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = 我们会在 24 小时内提供此商品的评价分析信息，请记得回来查看。
 shopping-message-bar-analysis-in-progress-title2 = 正在核查评价质量
 shopping-message-bar-analysis-in-progress-message2 = 这可能需要大约 60 秒。
-shopping-message-bar-page-not-supported-title = 无法核查这些评价
-shopping-message-bar-page-not-supported-message = 很抱歉，我们无法核查某些类型商品的评价质量，例如礼品卡、流媒体视频、音乐、游戏。
 shopping-message-bar-page-not-supported =
     .heading = 无法核查这些评价
     .message = 很抱歉，我们无法核查某些类型商品的评价质量，例如礼品卡、流媒体视频、音乐、游戏。
@@ -96,7 +83,6 @@ shopping-settings-label =
     .label = 设置
 shopping-settings-recommendations-toggle =
     .label = 在核查评价中展示广告
-shopping-settings-recommendations-learn-more = 您偶尔会看到相关商品的广告，所有广告均符合我们的评价质量标准。<a data-l10n-name="review-quality-url">详细了解</a>
 shopping-settings-recommendations-learn-more2 = 您会偶尔看到相关产品的广告。我们只宣传获得可靠评价的产品。<a data-l10n-name="review-quality-url">了解更多</a>
 shopping-settings-opt-out-button = 关闭核查评价
 powered-by-fakespot = 核查评价由 <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> 提供支持。
@@ -107,7 +93,7 @@ powered-by-fakespot = 核查评价由 <a data-l10n-name="fakespot-link">{ -fakes
 # reliable reviews.
 shopping-adjusted-rating-label =
     .label = 调整后的评分
-shopping-adjusted-rating-unreliable-reviews = 已移除不可信的评价
+shopping-adjusted-rating-unreliable-reviews = 已排除不可信的评价
 
 ## Strings for the review reliability component
 
@@ -179,7 +165,6 @@ shopping-survey-q2-radio-3-label = 说不准
 shopping-survey-next-button-label = 下一步
 shopping-survey-submit-button-label = 提交
 shopping-survey-terms-link = 使用条款
-shopping-survey-thanks-message = 感谢反馈！
 shopping-survey-thanks =
     .heading = 感谢反馈！
 
@@ -196,12 +181,6 @@ shopping-callout-closed-not-opted-in-subtitle = 点击“价签”图标即可�
 ## Onboarding message strings.
 
 shopping-onboarding-headline = 试试我们可信赖的商品评价向导
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = 在购买前先看看 <b>{ $currentSite }</b> 上商品评价的可信度如何。核查评价是 { -vendor-short-name } 的一项实验性功能，内置于 { -brand-product-name } 中，在 <b>{ $secondSite }</b> 和 <b>{ $thirdSite }</b> 网站上同样可用。
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
