@@ -87,7 +87,11 @@ about-webauthn-auth-option-uvbioenroll = Prawo za biometriske přizjewjenje
 about-webauthn-auth-option-authnrcfg = Konfiguracija awtentifikatora
 about-webauthn-auth-option-uvacfg = Prawo za konfiguraciju awtentifikatora
 about-webauthn-auth-option-credmgmt = Rjadowanje přizjewjenskich datow
+about-webauthn-auth-option-credentialmgmtpreview = Prototyp rjadowanja přizjewjenskich datow
 about-webauthn-auth-option-setminpinlength = Minimalnu dołhosć PIN nastajić
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential bjez wužiwarskeho wobkrućenja
+about-webauthn-auth-option-alwaysuv = Wužaduje sej přeco wužiwarske wobkrućenje
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
@@ -99,6 +103,7 @@ about-webauthn-auth-option-null = Njepodpěrany
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-certifications = Certifikowanja
+about-webauthn-auth-info-uv-modality = Modalnosć za wužiwarske wobkrućenje
 about-webauthn-auth-info-firmware-version = Wersija Firmware
 about-webauthn-auth-info-min-pin-length = Minimalna dołhosć PIN
 about-webauthn-auth-info-force-pin-change = Změnu PIN wunuzować
