@@ -205,6 +205,7 @@ cfr-cbh-confirm-button = Rejectar bandieras pro cookies
 cfr-cbh-dismiss-button = Non ora
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name } justo blocava cookies pro te
+cookie-banner-blocker-cfr-body = Nos automaticamente refusa plure quadros resaltante de cookie pro render difficile pro le sitos traciar te.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
