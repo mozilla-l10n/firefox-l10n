@@ -203,6 +203,8 @@ cfr-cbh-confirm-button = Rechazar los avisos de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Ahora no
     .accesskey = n
+cookie-banner-blocker-cfr-header = { -brand-short-name } acaba de bloquear las cookies por ti
+cookie-banner-blocker-cfr-body = Rechazamos automáticamente muchas ventanas emergentes de cookies para dificultar que los sitios le rastreen.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
