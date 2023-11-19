@@ -74,7 +74,18 @@ about-webauthn-auth-option-up = Přitomnosć wužiwarja
 about-webauthn-auth-option-clientpin = PIN klienta
 about-webauthn-auth-option-rk = Rezidentny kluč
 about-webauthn-auth-option-plat = Platformowy grat
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Přikazowe prawa (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Žane prawa MakeCredential/GetAssertion z klientowym PIN
 about-webauthn-auth-option-largeblobs = Wulke bloby
+about-webauthn-auth-option-ep = Předewzaćelske wobkrućenje
+about-webauthn-auth-option-bioenroll = Biometriske přizjewjenje
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototyp biometriskeho přizjewjenja (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Prawo za biometriske přizjewjenje
+about-webauthn-auth-option-authnrcfg = Konfiguracija awtentifikatora
+about-webauthn-auth-option-uvacfg = Prawo za konfiguraciju awtentifikatora
 about-webauthn-auth-option-credmgmt = Rjadowanje přizjewjenskich datow
 about-webauthn-auth-option-setminpinlength = Minimalnu dołhosć PIN nastajić
 # Shows when boolean value for an option is True. True should not be translated.
