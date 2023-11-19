@@ -131,8 +131,8 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 protections-panel-cookie-banner-handling-header = Riduzione banner per i cookie
 protections-panel-cookie-banner-blocker-header = Blocco banner per i cookie
-protections-panel-cookie-banner-handling-enabled = Attiva per questo sito
-protections-panel-cookie-banner-handling-disabled = Disattivata per questo sito
+protections-panel-cookie-banner-handling-enabled = Attivo per questo sito
+protections-panel-cookie-banner-handling-disabled = Disattivato per questo sito
 protections-panel-cookie-banner-handling-undetected = Sito attualmente non supportato
 protections-panel-cookie-banner-view-title =
     .title = Riduzione banner per i cookie
