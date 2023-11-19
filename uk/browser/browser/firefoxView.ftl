@@ -147,6 +147,27 @@ firefoxview-opentabs-focus-tab =
     .title = Перемкнутись на цю вкладку
 firefoxview-show-more = Показати ще
 firefoxview-show-less = Показати менше
+firefoxview-search-text-box-clear-button =
+    .title = Очистити
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Шукати в історії
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Результати пошуку для “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } сайт
+        [few] { $count } сайти
+       *[many] { $count } сайтів
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Немає результатів для “{ $query }”
 firefoxview-sort-history-by-date-label = Сортувати за датою
 firefoxview-sort-history-by-site-label = Сортувати за сайтом
 # Variables:
@@ -206,9 +227,6 @@ firefoxview-import-history-description = Зробіть { -brand-short-name } с
 firefoxview-recentlyclosed-empty-header = Завчасно закрили вкладку?
 firefoxview-recentlyclosed-empty-description = Тут ви знайдете нещодавно закриті вкладки, які можна за потреби знову швидко відкрити.
 firefoxview-recentlyclosed-empty-description-two = Щоб знайти давніші вкладки, перегляньте свою <a data-l10n-name="history-url">історію перегляду</a>.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
