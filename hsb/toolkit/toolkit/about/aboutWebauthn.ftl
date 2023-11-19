@@ -20,6 +20,11 @@ about-webauthn-pin-required-section-title = PIN trěbny
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Prošu zwjazajće wěstotne znamjo.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Prošu podótkńće so grata, zo byšće swoje požadane wěstotne znamjo wubrał.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Njeje móžno nastajenja rjadować, dokelž waše wěstotne znamjo CTAP2 njepodpěruje.
 about-webauthn-text-not-available = Njeje na tutej platformje k dispoziciji
 
 ## Results label
