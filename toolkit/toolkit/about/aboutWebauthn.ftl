@@ -16,7 +16,7 @@ about-webauthn-info-subsection-title = 身份验证器信息
 about-webauthn-options-subsection-title = 身份验证器选项
 about-webauthn-pin-section-title = PIN 管理
 about-webauthn-credential-management-section-title = 管理凭据
-about-webauthn-pin-required-section-title = 需要 PIN 码
+about-webauthn-pin-required-section-title = 需输入 PIN
 
 ## Info field texts
 
@@ -67,7 +67,9 @@ about-webauthn-delete-button = 删除
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
 about-webauthn-auth-option-uv = 用户验证
+about-webauthn-auth-option-up = 用户存在
 about-webauthn-auth-option-clientpin = 客户端 PIN
+about-webauthn-auth-option-rk = Resident key
 about-webauthn-auth-option-plat = 平台设备
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = 命令权限（pinUvAuthToken）
@@ -84,6 +86,8 @@ about-webauthn-auth-option-uvacfg = 身份验证器配置权限
 about-webauthn-auth-option-credmgmt = 凭据管理
 about-webauthn-auth-option-credentialmgmtpreview = 原型凭据管理
 about-webauthn-auth-option-setminpinlength = 设置最小 PIN 长度
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = 无需用户验证的 MakeCredential
 about-webauthn-auth-option-alwaysuv = 总是要求用户验证
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
