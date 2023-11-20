@@ -61,7 +61,7 @@ webext-perms-update-menu-item = Mae { $addonName } angen caniatâd newydd
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
-webext-imported-addons = Gorffen gosod estyniadau a fewnforiwyd i { -brand-short-name }
+webext-imported-addons = Wrthi'n gorffen gosod estyniadau a fewnforiwyd i { -brand-short-name }
 
 ## Add-on removal warning
 
