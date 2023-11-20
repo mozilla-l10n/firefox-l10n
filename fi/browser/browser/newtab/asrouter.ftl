@@ -203,6 +203,8 @@ cfr-cbh-confirm-button = Vastaa evästepyyntöihin kieltävästi
     .accesskey = V
 cfr-cbh-dismiss-button = Ei nyt
     .accesskey = N
+cookie-banner-blocker-cfr-header = { -brand-short-name } esti juuri evästeet
+cookie-banner-blocker-cfr-body = Estämme automaattisesti monet evästeiden ponnahdusilmoitukset, jotta sivustojen on vaikea seurata sinua.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

@@ -184,6 +184,7 @@ media-codec-support-codec-name = Koodekin nimi
 media-codec-support-supported = Tuettu
 media-codec-support-unsupported = Ei tuettu
 media-codec-support-error = Koodekkitukitietoja ei ole saatavilla. Yritä uudelleen mediatiedoston toiston jälkeen.
+media-codec-support-lack-of-extension = Asenna laajennus
 
 ##
 
