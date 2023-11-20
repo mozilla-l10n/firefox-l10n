@@ -44,6 +44,7 @@ neterror-captive-portal = تحتاج الولوج إلى هذه الشبكة أ�
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-third-party-warning2 = يمكنك المتابعة مع محلل DNS الافتراضي الخاص بك. ومع ذلك، قد يتمكن طرف ثالث من رؤية مواقع الوب التي تزورها.
 neterror-dns-not-found-trr-unknown-problem = خطأ غير متوقّع.
 
 ## Native fallback specific messages
