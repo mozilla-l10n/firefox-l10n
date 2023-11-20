@@ -45,6 +45,9 @@ neterror-captive-portal = تحتاج الولوج إلى هذه الشبكة أ�
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = هل قصدت الانتقال إلى <a data-l10n-name="website">{ $hostAndPath }</a>؟
+neterror-dns-not-found-hint-header = <strong>إذا أدخلت العنوان الصحيح، فيمكنك:</strong>
+neterror-dns-not-found-hint-try-again = حاول مجددًا لاحقاً
+neterror-dns-not-found-hint-check-network = افحص اتصال الشبكة
 
 ## TRR-only specific messages
 ## Variables:
@@ -52,6 +55,9 @@ neterror-dns-not-found-with-suggestion = هل قصدت الانتقال إلى <
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-third-party-warning2 = يمكنك المتابعة مع محلل DNS الافتراضي الخاص بك. ومع ذلك، قد يتمكن طرف ثالث من رؤية مواقع الوب التي تزورها.
+neterror-dns-not-found-trr-offline = أنت غير متصل بالإنترنت.
+neterror-dns-not-found-trr-unknown-host2 = لم يتم العثور على موقع الوب هذا بواسطة { $trrDomain }.
+neterror-dns-not-found-bad-trr-url = مسار غير صحيح.
 neterror-dns-not-found-trr-unknown-problem = خطأ غير متوقّع.
 
 ## Native fallback specific messages
