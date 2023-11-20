@@ -24,7 +24,11 @@ neterror-pref-reset-button = استرجع الإعدادات الأصلية
 neterror-return-to-previous-page-button = عُد للخلف
 neterror-return-to-previous-page-recommended-button = عُد للخلف (يُنصح به)
 neterror-try-again-button = حاول مجددًا
+neterror-add-exception-button = واصِل دائمًا لهذا الموقع
+neterror-settings-button = غيّر إعدادات DNS
 neterror-view-certificate-link = اعرض الشهادة
+neterror-trr-continue-this-time = واصِل هذه المرة
+neterror-disable-native-feedback-warning = واصِل دائمًا
 
 ##
 
@@ -38,6 +42,9 @@ neterror-load-error-try-again = قد يكون الموقع متوقفًا مؤق
 neterror-load-error-connection = إذا كنت غير قادر على تحميل أي صفحة، افحص اتصال الحاسوب بالشبكة.
 neterror-load-error-firewall = إذا كان حاسوبك محميًا بجدار ناري أو وسيط، تأكد من السماح ل‍{ -brand-short-name } بالنفاذ إلى الوِب.
 neterror-captive-portal = تحتاج الولوج إلى هذه الشبكة أولا لتستطيع الوصول إلى الإنترنت.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = هل قصدت الانتقال إلى <a data-l10n-name="website">{ $hostAndPath }</a>؟
 
 ## TRR-only specific messages
 ## Variables:

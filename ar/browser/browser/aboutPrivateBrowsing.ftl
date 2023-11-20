@@ -53,6 +53,12 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = حرية التصفح الخاص بنقرة واحدة
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] أبق في الDock
+       *[other] ثبّت في شريط المهام
+    }
 about-private-browsing-pin-promo-title = لن تحفظ ملفات تعريف الارتباط ولا التاريخ، مباشرة من سطح مكتبك. تصفح وكأن لا أحد يراقبك.
 
 ## Strings used in a promotion message for cookie banner reduction
