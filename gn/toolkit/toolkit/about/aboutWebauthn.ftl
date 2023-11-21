@@ -31,6 +31,15 @@ about-webauthn-text-not-available = Ndaipóri ko pyendavusúpe.
 
 about-webauthn-results-success = ¡Tandepo’a!
 about-webauthn-results-general-error = ¡Javy!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Javy: PIN oiko’ỹva. Eha’ãjey.
+        [one] Javy: PIN oiko’ỹva. Eha’ãjey. Ejapokuaa { $retriesLeft } jey.
+       *[other] Javy: PIN oiko’ỹva. Eha’ãjey. Ejapokuaa { $retriesLeft } jey.
+    }
+about-webauthn-results-pin-blocked-error = Jejavy: Anive ejapo ha mba’e’oka ojejokóma ndehegui eme’ẽ haguére PIN oiko’ỹva hetaitereijey. Pe mba’e’oka oikotevẽ ñemoñepyrũjey.
 about-webauthn-results-pin-too-short-error = Javy: pe PIN eme’ẽva mbykyeterei.
 about-webauthn-results-pin-too-long-error = Javy: pe PIN eme’ẽva ipukueterei.
 about-webauthn-results-cancelled-by-user-error = Javy: Pe tembiapo ojokóma poruhára.
