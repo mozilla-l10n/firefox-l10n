@@ -255,7 +255,13 @@ cfr-cbh-confirm-button = Odmítat cookie lišty
     .accesskey = c
 cfr-cbh-dismiss-button = Teď ne
     .accesskey = n
-cookie-banner-blocker-cfr-header = { -brand-short-name } pro vás právě zablokoval cookies
+cookie-banner-blocker-cfr-header =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } pro vás právě zablokoval cookies
+        [feminine] { -brand-short-name } pro vás právě zablokovala cookies
+        [neuter] { -brand-short-name } pro vás právě zablokovalo cookies
+       *[other] Aplikace { -brand-short-name } pro vás právě zablokovala cookies
+    }
 cookie-banner-blocker-cfr-body = Automaticky odmítáme mnoho vyskakovacích oken se soubory cookie, aby vás weby nemohly sledovat.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
