@@ -18,6 +18,8 @@ permission-dialog-description-app = ¿Emoneĩ ko tendápe tombojuruja juajuha { 
 permission-dialog-description-host-app = ¿Emoneĩ { $host } tombojuruja juajuha { $scheme } { $appName } ndive?
 permission-dialog-description-file-app = ¿Emoneĩ ko marandurendápe tombojuruja juajuha { $scheme } { $appName } ndive?
 permission-dialog-description-extension-app = ¿Emoneĩ ko tenda { $extension } tombojuruja juajuha { $scheme } { $appName } ndive?
+permission-dialog-description-system-app = ¿ Embojuruja { $scheme } juajuha { $appName } ndive?
+permission-dialog-description-system-noapp = ¿Embojuruja { $scheme } juajuha?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
