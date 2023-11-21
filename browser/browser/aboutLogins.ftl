@@ -98,7 +98,7 @@ login-item-cancel-button = Atcelt
 
 # Variables
 #   $datetime (date) - Event date
-login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "numeric", year: "numeric") }
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Izveidots
 login-item-timeline-action-updated = Atjaunots
 login-item-timeline-action-used = Izmantots
