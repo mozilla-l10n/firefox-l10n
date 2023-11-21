@@ -21,6 +21,10 @@ about-webauthn-pin-required-section-title = PIN tekotevẽva
 ## Info field texts
 
 about-webauthn-text-connect-device = Emoĩ peteĩ token tekorosãrã.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Eiporavo pe token tekorosãgua eipotáva eikutúvo pe mba’e’oka.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Nereñangarkokuaái poravorãre token tekorosãgua ndojokupytýire CTAP2 ndive.
 about-webauthn-text-not-available = Ndaipóri ko pyendavusúpe.
 
 ## Results label
