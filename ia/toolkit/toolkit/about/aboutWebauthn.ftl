@@ -8,12 +8,16 @@
 
 ## Section titles
 
+about-webauthn-info-section-title = Information del apparato
+about-webauthn-info-subsection-title = Information del authenticator
+about-webauthn-options-subsection-title = Optiones del authenticator
 about-webauthn-pin-section-title = Gestion de PIN
 about-webauthn-credential-management-section-title = Gerer le credentiales
 about-webauthn-pin-required-section-title = PIN obligatori
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Per favor connecte un token de securitate.
 about-webauthn-text-not-available = Non disponibile pro iste platteforma
 
 ## Results label
