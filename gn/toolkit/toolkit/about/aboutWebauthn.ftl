@@ -100,12 +100,17 @@ about-webauthn-auth-option-null = Oñepytyvõ’ỹva
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Ñemboheko mbopya’eha me’ẽhára prototipo
 about-webauthn-auth-info-remaining-discoverable-credentials = Terachaukaha ojehechakuaáva
 about-webauthn-auth-info-certifications = Mboajepyréva
 about-webauthn-auth-info-uv-modality = Mba’éicha poruhára jehechajey
+about-webauthn-auth-info-preferred-platform-uv-attempts = Ojejapose poruhára jehechajey pyendavusu ojehayhúvape
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Tuichavéva IDs mbohapyháva jeroviaha emboheko hag̃ua PIN tuichakue
+about-webauthn-auth-info-max-cred-blob-length = Terachaukaha blob tuichakue
 about-webauthn-auth-info-firmware-version = Firmware peteĩchagua
 about-webauthn-auth-info-min-pin-length = PIN pukukue sa’ivéva
 about-webauthn-auth-info-force-pin-change = PIN moambue mbaretépe
+about-webauthn-auth-info-max-ser-large-blob-array = Blobs array kakuaáva tuichakue
 about-webauthn-auth-info-algorithms = Algoritmo
 about-webauthn-auth-info-transports = Mba’ereraha
 about-webauthn-auth-info-max-credential-id-length = Terachaukaha ID tuichavekue
