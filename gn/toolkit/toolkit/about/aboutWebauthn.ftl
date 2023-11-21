@@ -42,6 +42,7 @@ about-webauthn-results-pin-invalid-error =
 about-webauthn-results-pin-blocked-error = Jejavy: Anive ejapo ha mba’e’oka ojejokóma ndehegui eme’ẽ haguére PIN oiko’ỹva hetaitereijey. Pe mba’e’oka oikotevẽ ñemoñepyrũjey.
 about-webauthn-results-pin-too-short-error = Javy: pe PIN eme’ẽva mbykyeterei.
 about-webauthn-results-pin-too-long-error = Javy: pe PIN eme’ẽva ipukueterei.
+about-webauthn-results-pin-auth-blocked-error = Jejavy: Hetaitereíma reha’ã ha pe PIN ñemoneĩ ojejokóma sapy’aguamínteva. Pe mba’e’oka oikotevẽ ñemboguete ha upéi eha’ãkuaajey.
 about-webauthn-results-cancelled-by-user-error = Javy: Pe tembiapo ojokóma poruhára.
 
 ## Labels
@@ -73,6 +74,8 @@ about-webauthn-auth-option-rk = Mba’eñemi pypeguáva
 about-webauthn-auth-option-plat = Pyendavusu mba’e’oka
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Mbopya’eha ñemoneĩ (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = MakeCredential / GetAssertion moneĩ’ỹre PIN ñemuharagua ndive
 about-webauthn-auth-option-largeblobs = Para guasu
 about-webauthn-auth-option-ep = Ñemba’apohaguasu mboajepyre
 about-webauthn-auth-option-bioenroll = Biométrica ñemboheraguapy
@@ -82,6 +85,10 @@ about-webauthn-auth-option-uvbioenroll = Emoneĩ biométrica ñemboheraguapy
 about-webauthn-auth-option-authnrcfg = Ñemoñeĩha marandu
 about-webauthn-auth-option-uvacfg = Emboaje ñemoneĩha japopyre
 about-webauthn-auth-option-credmgmt = Terachaukaha ñangarekoha
+about-webauthn-auth-option-credentialmgmtpreview = Prototipo terachaukaha ñangarekohára
+about-webauthn-auth-option-setminpinlength = PIN pukukue sa’ivéva
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential poruhára jehechajey’ỹre
 about-webauthn-auth-option-alwaysuv = Ejerurememe poruhára jehechajey
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Añetéva
