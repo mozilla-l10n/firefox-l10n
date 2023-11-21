@@ -5,6 +5,9 @@
 
 ### Localization for about:webauthn, a security token management page
 
+# Page title
+# 'WebAuthn' is a protocol name and should not be translated
+about-webauthn-page-title = A proposito de WebAuthn
 
 ## Section titles
 
@@ -36,6 +39,8 @@ about-webauthn-credential-list-subsection-title = Credentiales:
 ## Buttons
 
 about-webauthn-current-change-pin-button = Cambiar PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Listar credentiales
 about-webauthn-cancel-button = Cancellar
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Deler
@@ -47,6 +52,12 @@ about-webauthn-auth-option-uv = Verification del usator
 about-webauthn-auth-option-up = Presentia del usator
 about-webauthn-auth-option-clientpin = PIN del cliente
 about-webauthn-auth-option-rk = Clave residente
+about-webauthn-auth-option-ep = Attestation de interprisa
+about-webauthn-auth-option-bioenroll = Registration biometric
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototypo de registration biometric (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Permisso de registration biometric
+about-webauthn-auth-option-authnrcfg = Configuration del authenticator
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Ver
 # Shows when boolean value of an option is False. False should not be translated.
