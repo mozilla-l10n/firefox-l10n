@@ -28,6 +28,7 @@ about-webauthn-text-not-available = Non disponibile pro iste platteforma
 about-webauthn-results-success = Successo!
 about-webauthn-results-general-error = Error!
 about-webauthn-results-pin-blocked-error = Error: Il non ha plus tentativas disponibile e tu apparato ha essite blocate perque le PIN errate era fornite troppe vices. Le apparato besonia de esser reinitiate.
+about-webauthn-results-pin-auth-blocked-error = Error: Il habeva troppe tentativas fallite in un rango e le authentication del PIN ha essite temporarimente blocate. Tu apparato besonia de un cyclo de extinction (distaccar le spina e re-inserer lo).
 
 ## Labels
 
