@@ -14,7 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Αποστολή αιτήματος μη πώλησης ή κοινοποίησης των δεδομένων μου στους ιστοτόπους
     .accesskey = σ
-non-technical-privacy-header = Προτιμήσεις απορρήτου ιστοτόπου
+non-technical-privacy-header = Προτιμήσεις απορρήτου ιστοτόπων
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
