@@ -188,6 +188,7 @@ media-codec-support-codec-name = Ime kodeka
 media-codec-support-supported = Podprt
 media-codec-support-unsupported = Nepodprt
 media-codec-support-error = Podatki o podpori kodeka niso na voljo. Poskusite znova po predvajanju predstavnostne datoteke.
+media-codec-support-lack-of-extension = Namesti razširitev
 
 ##
 
