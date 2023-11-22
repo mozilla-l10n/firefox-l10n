@@ -147,6 +147,28 @@ firefoxview-opentabs-focus-tab =
     .title = Preklopi na ta zavihek
 firefoxview-show-more = Prikaži več
 firefoxview-show-less = Prikaži manj
+firefoxview-search-text-box-clear-button =
+    .title = Počisti
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Iskanje po zgodovini
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Rezultati iskanja za "{ $query }"
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } spletno mesto
+        [two] { $count } spletni mesti
+        [few] { $count } spletna mesta
+       *[other] { $count } spletnih mest
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Ni rezultatov za "{ $query }"
 firefoxview-sort-history-by-date-label = Razvrsti po datumu
 firefoxview-sort-history-by-site-label = Razvrsti po spletnem mestu
 # Variables:

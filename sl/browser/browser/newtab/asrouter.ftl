@@ -210,6 +210,7 @@ cfr-cbh-confirm-button = Zavračaj pasice s piškotki
     .accesskey = Z
 cfr-cbh-dismiss-button = Ne zdaj
     .accesskey = N
+cookie-banner-blocker-cfr-header = { -brand-short-name } je za vas pravkar zavrnil piškotke
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
