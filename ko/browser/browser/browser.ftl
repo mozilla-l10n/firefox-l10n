@@ -279,6 +279,9 @@ quickactions-cmd-plugins = 플러그인, plugins
 # Opens the print dialog
 quickactions-print2 = 페이지 인쇄
 quickactions-cmd-print = 인쇄, print
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = 페이지를 PDF로 저장
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = 사생활 보호 창 열기
 quickactions-cmd-private = 사생활 보호 모드, private browsing
@@ -556,8 +559,6 @@ urlbar-result-action-search-w-engine = { $engine } 검색
 urlbar-result-action-sponsored = 스폰서
 urlbar-result-action-switch-tab = 탭 전환
 urlbar-result-action-visit = 방문
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = 클립보드에서 방문
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = 클립보드에서 방문
 # Directs a user to press the Tab key to perform a search with the specified
