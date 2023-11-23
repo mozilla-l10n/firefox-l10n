@@ -279,6 +279,9 @@ quickactions-cmd-plugins = ategion
 # Opens the print dialog
 quickactions-print2 = Argraffu tudalen
 quickactions-cmd-print = argraffu
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Cadw tudalen fel PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Agor ffenestr breifat
 quickactions-cmd-private = pori preifat
@@ -579,8 +582,6 @@ urlbar-result-action-search-w-engine = Chwilio gyda { $engine }
 urlbar-result-action-sponsored = Noddwyd
 urlbar-result-action-switch-tab = Newid i'r Tab
 urlbar-result-action-visit = Ymweld â
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Ymweld o'ch clipfwrdd
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Ymweld o'ch clipfwrdd
 # Directs a user to press the Tab key to perform a search with the specified

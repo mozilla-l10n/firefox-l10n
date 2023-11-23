@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Diffodd
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Troi Ymlaen
+protections-panel-report-broken-site =
+    .label = Adrodd ar wefan wedi torri
+    .title = Adrodd ar wefan wedi torri
