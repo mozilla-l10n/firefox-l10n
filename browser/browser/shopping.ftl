@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Новая информация для проверки
 shopping-message-bar-warning-stale-analysis-button = Проверить сейчас
-shopping-message-bar-generic-error-title2 = На данный момент нет доступной информации
-shopping-message-bar-generic-error-message = Мы работаем над решением проблемы. Пожалуйста, зайдите в ближайшее время.
-shopping-message-bar-warning-not-enough-reviews-title = Пока недостаточно отзывов
-shopping-message-bar-warning-not-enough-reviews-message2 = Когда у этого товара будет больше отзывов, мы сможем проверить его качество.
-shopping-message-bar-warning-product-not-available-title = Товар недоступен
-shopping-message-bar-warning-product-not-available-message2 = Если вы увидите, что этот товар снова в наличии, сообщите об этом, и мы проверим отзывы.
-shopping-message-bar-warning-product-not-available-button = Сообщить, что этот товар снова в наличии
-shopping-message-bar-thanks-for-reporting-title = Спасибо за сообщение!
-shopping-message-bar-thanks-for-reporting-message2 = Мы должны получить информацию об отзывах на этот продукт в течение 24 часов. Пожалуйста, зайдите позже.
-shopping-message-bar-warning-product-not-available-reported-title2 = Информация скоро появится
-shopping-message-bar-warning-product-not-available-reported-message2 = Мы должны получить информацию об отзывах на этот продукт в течение 24 часов. Пожалуйста, зайдите позже.
 shopping-message-bar-generic-error =
     .heading = На данный момент нет доступной информации
     .message = Мы работаем над решением проблемы. Пожалуйста, зайдите в ближайшее время.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Мы должны получить информацию об отзывах на этот продукт в течение 24 часов. Пожалуйста, зайдите позже.
 shopping-message-bar-analysis-in-progress-title2 = Проверяем качество отзывов
 shopping-message-bar-analysis-in-progress-message2 = Это может занять около 60 секунд.
-shopping-message-bar-page-not-supported-title = Мы не можем проверить эти отзывы
-shopping-message-bar-page-not-supported-message = К сожалению, мы не можем проверить качество отзывов на некоторые виды товаров. Например, подарочные карты и потоковое видео, музыку и игры.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Проверяем качество отзывов ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Мы не можем проверить эти отзывы
     .message = К сожалению, мы не можем проверить качество отзывов на некоторые виды товаров. Например, подарочные карты и потоковое видео, музыку и игры.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Настройки
 shopping-settings-recommendations-toggle =
     .label = Показывать рекламу в инструменте проверки отзывов
-shopping-settings-recommendations-learn-more = Время от времени вы будете видеть рекламу похожих продуктов. Все объявления должны соответствовать нашим стандартам качества проверки. <a data-l10n-name="review-quality-url">Подробнее</a>
 shopping-settings-recommendations-learn-more2 = Время от времени вы будете видеть рекламу соответствующих продуктов. Мы рекламируем только товары с достоверными отзывами. <a data-l10n-name="review-quality-url">Подробнее</a>
 shopping-settings-opt-out-button = Отключить инструмент проверки отзывов
 powered-by-fakespot = Инструмент проверки отзывов работает на основе <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = Я не знаю
 shopping-survey-next-button-label = Далее
 shopping-survey-submit-button-label = Отправить
 shopping-survey-terms-link = Условия использования
-shopping-survey-thanks-message = Спасибо за ваш отзыв!
 shopping-survey-thanks =
     .heading = Спасибо за ваш отзыв!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Используйте инст�
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Оцените наше руководство по достоверности отзывов на продукты
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Прежде чем совершить покупку, проверьте, насколько надежны отзывы о продуктах на <b>{ $currentSite }</b>. Проверка отзывов, экспериментальная функция от { -vendor-short-name }, встроена прямо в { -brand-product-name } и работает на <b>{ $secondSite }</b>, а также <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
