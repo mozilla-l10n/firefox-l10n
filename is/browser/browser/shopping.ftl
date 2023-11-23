@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Nýjar upplýsingar til að skoða
 shopping-message-bar-warning-stale-analysis-button = Athuga núna
-shopping-message-bar-generic-error-title2 = Engar upplýsingar tiltækar í augnablikinu
-shopping-message-bar-generic-error-message = Við erum að vinna að því að leysa málið. Athugaðu aftur fljótlega.
-shopping-message-bar-warning-not-enough-reviews-title = Ekki nægar umsagnir ennþá
-shopping-message-bar-warning-not-enough-reviews-message2 = Þegar þessi vara hefur fleiri umsagnir getum við athugað gæði þeirra.
-shopping-message-bar-warning-product-not-available-title = Vara er ekki fáanleg
-shopping-message-bar-warning-product-not-available-message2 = Ef þú sérð að þessi vara er aftur komin á lager skaltu tilkynna það til okkar og við munum vinna að því að uppfæra greininguna.
-shopping-message-bar-warning-product-not-available-button = Tilkynna að þessi vara sé aftur á lager
-shopping-message-bar-thanks-for-reporting-title = Takk fyrir að tilkynna þetta!
-shopping-message-bar-thanks-for-reporting-message2 = Við ættum að vera með uppfærða greiningu innan 24 klukkustunda. Komdu aftur síðar.
-shopping-message-bar-warning-product-not-available-reported-title2 = Upplýsingar koma fljótlega
-shopping-message-bar-warning-product-not-available-reported-message2 = Við ættum að vera með uppfærða greiningu innan 24 klukkustunda. Komdu aftur síðar.
 shopping-message-bar-generic-error =
     .heading = Engar upplýsingar tiltækar í augnablikinu
     .message = Við erum að vinna að því að leysa málið. Athugaðu aftur fljótlega.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Við ættum að vera með uppfærða greiningu innan 24 klukkustunda. Komdu aftur síðar.
 shopping-message-bar-analysis-in-progress-title2 = Athugar gæði umsagna
 shopping-message-bar-analysis-in-progress-message2 = Þetta gæti tekið um 60 sekúndur.
-shopping-message-bar-page-not-supported-title = Við getum ekki athugað þessar umsagnir
-shopping-message-bar-page-not-supported-message = Því miður getum við ekki athugað gæði umsagna fyrir ákveðnar tegundir af vörum. Til dæmis gjafakort og streymd myndskeið, tónlist og leiki.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Athugar gæði umsagna ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Við getum ekki athugað þessar umsagnir
     .message = Því miður getum við ekki athugað gæði umsagna fyrir ákveðnar tegundir af vörum. Til dæmis gjafakort og streymd myndskeið, tónlist og leiki.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Stillingar
 shopping-settings-recommendations-toggle =
     .label = Birta auglýsingar í umsagnaskoðun
-shopping-settings-recommendations-learn-more = Þú munt sjá einstaka auglýsingar fyrir tengdar vörur. Allar auglýsingar verða að uppfylla gæðastaðla okkar vegna umsagna. <a data-l10n-name="review-quality-url">Frekari upplýsingar</a>
 shopping-settings-recommendations-learn-more2 = Þú munt sjá einstaka auglýsingar fyrir tengdar vörur. Allar auglýsingar verða að uppfylla gæðastaðla okkar vegna umsagna. <a data-l10n-name="review-quality-url">Frekari upplýsingar</a>
 shopping-settings-opt-out-button = Slökkva á umsagnaskoðun
 powered-by-fakespot = Umsagnaskoðunin er knúin áfram af <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -181,7 +170,6 @@ shopping-survey-q2-radio-3-label = Veit ekki
 shopping-survey-next-button-label = Næsta
 shopping-survey-submit-button-label = Senda inn
 shopping-survey-terms-link = Notkunarskilmálar
-shopping-survey-thanks-message = Takk fyrir álit þitt!
 shopping-survey-thanks =
     .heading = Takk fyrir álit þitt!
 
@@ -198,12 +186,6 @@ shopping-callout-closed-not-opted-in-subtitle = Prófaðu umsagnaskoðun í hver
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Prófaðu traustar leiðbeiningar okkar um vöruumsagnir
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Sjáðu hversu áreiðanlegar vöruumsagnir eru á <b>{ $currentSite }</b> áður en þú verslar. Umsagnaskoðun, tilraunaeiginleiki frá { -vendor-short-name }, er innbyggður beint í { -brand-product-name } - og þetta virkar líka á <b>{ $secondSite }</b> og <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
