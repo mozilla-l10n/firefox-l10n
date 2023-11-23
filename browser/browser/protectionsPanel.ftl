@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Отключить
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Включить
+protections-panel-report-broken-site =
+    .label = Сообщить о сломанном сайте
+    .title = Сообщить о сломанном сайте
