@@ -279,6 +279,9 @@ quickactions-cmd-plugins = תוספים חיצוניים
 # Opens the print dialog
 quickactions-print2 = הדפסת הדף
 quickactions-cmd-print = הדפסה, הדפס, להדפיס
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = שמירת הדף בתור PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = פתיחת חלון פרטי
 quickactions-cmd-private = גלישה פרטית, גלישה אנונימית
@@ -560,8 +563,6 @@ urlbar-result-action-search-w-engine = חיפוש באמצעות { $engine }
 urlbar-result-action-sponsored = ממומן
 urlbar-result-action-switch-tab = מעבר ללשונית
 urlbar-result-action-visit = ביקור
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = לבקר מלוח העריכה שלך
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = לבקר מלוח העריכה
 # Directs a user to press the Tab key to perform a search with the specified

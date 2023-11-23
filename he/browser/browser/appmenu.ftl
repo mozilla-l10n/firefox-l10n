@@ -254,3 +254,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = כלי דפדפן
 appmenu-developer-tools-extensions =
     .label = הרחבות עבור מפתחים
+appmenuitem-report-broken-site =
+    .label = דיווח על אתר שבור
