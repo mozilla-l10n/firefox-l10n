@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Uitschakelen
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Inschakelen
+protections-panel-report-broken-site =
+    .label = Niet-werkende website melden
+    .title = Niet-werkende website melden
