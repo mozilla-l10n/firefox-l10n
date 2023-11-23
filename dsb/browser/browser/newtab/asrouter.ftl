@@ -211,6 +211,7 @@ cfr-cbh-confirm-button = Cookiejowe chórgoji reducěrowaś
 cfr-cbh-dismiss-button = Nic něnto
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name } jo rowno blokěrował cookieje za was
+cookie-banner-blocker-cfr-body = Awtomatiski wótpokazujomy wjele cookiejowych wuskokujucych woknow, aby sedłam póśěžyli, wam slědowaś.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

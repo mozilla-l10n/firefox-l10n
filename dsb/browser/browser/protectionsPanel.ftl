@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Znjemóžniś
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Zmóžniś
+protections-panel-report-broken-site =
+    .label = Wobškóźone sedło k wěsći daś
+    .title = Wobškóźone sedło k wěsći daś

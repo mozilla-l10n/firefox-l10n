@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Rědy wobglědowaka
 appmenu-developer-tools-extensions =
     .label = Rozšyrjenja za wuwijarje
+appmenuitem-report-broken-site =
+    .label = Wobškóźone sedło k wěsći daś
