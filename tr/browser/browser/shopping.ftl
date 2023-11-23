@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Kontrol edilecek yeni bilgiler
 shopping-message-bar-warning-stale-analysis-button = Şimdi kontrol et
-shopping-message-bar-generic-error-title2 = Şu anda bilgi yok
-shopping-message-bar-generic-error-message = Sorunu çözmek için çalışıyoruz. Lütfen kısa süre sonra tekrar kontrol edin.
-shopping-message-bar-warning-not-enough-reviews-title = Henüz yeterli değerlendirme yok
-shopping-message-bar-warning-not-enough-reviews-message2 = Bu ürüne daha fazla değerlendirme geldiğinde değerlendirmelerin kalitelerini kontrol edebileceğiz.
-shopping-message-bar-warning-product-not-available-title = Ürün mevcut değil
-shopping-message-bar-warning-product-not-available-message2 = Bu ürünün yeniden stoğa girdiğini görürseniz bize bildirin, biz de değerlendirmeleri kontrol etmeye çalışalım.
-shopping-message-bar-warning-product-not-available-button = Bu ürünün tekrar stokta olduğunu bildir
-shopping-message-bar-thanks-for-reporting-title = Bildirdiğiniz için teşekkürler!
-shopping-message-bar-thanks-for-reporting-message2 = Bu ürünün değerlendirmeleriyle ilgili 24 saat içinde bilgi alacağız. Lütfen daha sonra tekrar kontrol edin.
-shopping-message-bar-warning-product-not-available-reported-title2 = Bilgiler yakında gelecek
-shopping-message-bar-warning-product-not-available-reported-message2 = Bu ürünün değerlendirmeleriyle ilgili 24 saat içinde bilgi alacağız. Lütfen daha sonra tekrar kontrol edin.
 shopping-message-bar-generic-error =
     .heading = Şu anda bilgi yok
     .message = Sorunu çözmek için çalışıyoruz. Lütfen kısa süre sonra tekrar kontrol edin.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Bu ürünün değerlendirmeleriyle ilgili 24 saat içinde bilgi alacağız. Lütfen daha sonra tekrar kontrol edin.
 shopping-message-bar-analysis-in-progress-title2 = Değerlendirme kalitesi kontrol ediliyor
 shopping-message-bar-analysis-in-progress-message2 = Yaklaşık 60 saniye sürebilir.
-shopping-message-bar-page-not-supported-title = Bu değerlendirmeleri kontrol edemiyoruz
-shopping-message-bar-page-not-supported-message = Maalesef bazı ürün türlerinin değerlendirme kalitelerini kontrol edemiyoruz. Örneğin, hediye kartları ve video, müzik ve oyun akışı.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Değerlendirme kalitesi kontrol ediliyor (%{ $percentage })
 shopping-message-bar-page-not-supported =
     .heading = Bu değerlendirmeleri kontrol edemiyoruz
     .message = Maalesef bazı ürün türlerinin değerlendirme kalitelerini kontrol edemiyoruz. Örneğin, hediye kartları ve video, müzik ve oyun akışı.
@@ -150,6 +140,8 @@ shopping-unanalyzed-product-analyze-button = Değerlendirme kalitesini kontrol e
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = İlginizi çekebilir
 ad-by-fakespot = { -fakespot-brand-name } reklamı
 
 ## Shopping survey strings.
@@ -168,7 +160,6 @@ shopping-survey-q2-radio-3-label = Bilmiyorum
 shopping-survey-next-button-label = İleri
 shopping-survey-submit-button-label = Gönder
 shopping-survey-terms-link = Kullanım koşulları
-shopping-survey-thanks-message = Geri bildiriminiz için teşekkürler!
 shopping-survey-thanks =
     .heading = Geri bildiriminiz için teşekkürler!
 
