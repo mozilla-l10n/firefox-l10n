@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-alert-title = 內容分析
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-slow-agent-notification = 內容分析功能花了很長一段時間才能回應資源「{ $content }」
 contentanalysis-slow-agent-dialog-title = 正在進行內容分析
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
