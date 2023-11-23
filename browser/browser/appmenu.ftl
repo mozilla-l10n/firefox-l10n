@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Vafraverkfæri
 appmenu-developer-tools-extensions =
     .label = Viðbætur fyrir forritara
+appmenuitem-report-broken-site =
+    .label = Tilkynna bilað vefsvæði

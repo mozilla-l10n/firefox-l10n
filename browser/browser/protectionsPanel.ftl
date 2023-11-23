@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Slökkva á
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Kveikja á
+protections-panel-report-broken-site =
+    .label = Tilkynna bilað vefsvæði
+    .title = Tilkynna bilað vefsvæði
