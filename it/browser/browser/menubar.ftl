@@ -339,3 +339,4 @@ menu-help-not-deceptive =
 
 menu-report-broken-site =
   .label = Segnala problemi con il sito
+

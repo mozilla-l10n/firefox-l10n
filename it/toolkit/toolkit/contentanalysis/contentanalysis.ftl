@@ -27,3 +27,4 @@ contentanalysis-block-message = La tua organizzazione utilizza un software per l
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Si è verificato un errore nella comunicazione con il software per la prevenzione della perdita di dati. Trasferimento negato per la risorsa: { $content }.
 
+
