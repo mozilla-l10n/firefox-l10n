@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Fortell nettsteder om ikke å selge eller dele mine data
     .accesskey = o
+non-technical-privacy-header = Nettstedets personverninnstillinger
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -465,6 +466,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Vis alltid rullefelt
     .accesskey = V
+browsing-always-underline-links =
+    .label = Understrek alltid lenker
+    .accesskey = U
 browsing-use-onscreen-keyboard =
     .label = Vis et touch-tastatur når nødvendig
     .accesskey = t
@@ -706,6 +710,9 @@ sync-signedin-login-failure = Logg inn for å koble til på nytt { $email }
 sync-resend-verification =
     .label = Send bekreftelse på nytt
     .accesskey = d
+sync-verify-account =
+    .label = Bekreft konto
+    .accesskey = B
 sync-remove-account =
     .label = Fjern konto
     .accesskey = k
@@ -973,6 +980,7 @@ cookie-banner-handling-description = { -brand-short-name } prøver automatisk å
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blokkering av infokapselbanner
+cookie-banner-blocker-description = Når et nettsted spør om de kan bruke infokapsler i privat nettlesingsmodus, så avviser { -brand-short-name } forespørselen automatisk for deg. Bare på støttede nettsteder.
 cookie-banner-learn-more = Les mer
 forms-handle-cookie-banners =
     .label = Reduser infokapselbannere
@@ -1008,9 +1016,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hurtige handlinger
     .accesskey = H
-addressbar-locbar-recentsearches-option =
-    .label = Nylige søk
-    .accesskey = N
+addressbar-locbar-showrecentsearches-option =
+    .label = Vis nylige søk
+    .accesskey = V
 addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 addressbar-quickactions-learn-more = Les mer
 
