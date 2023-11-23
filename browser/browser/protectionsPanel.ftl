@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Kapat
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Aç
+protections-panel-report-broken-site =
+    .label = Bozuk siteyi rapor et
+    .title = Bozuk siteyi rapor et

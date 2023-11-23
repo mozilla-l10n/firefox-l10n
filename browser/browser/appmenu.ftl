@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Tarayıcı araçları
 appmenu-developer-tools-extensions =
     .label = Geliştiricilere özel uzantılar
+appmenuitem-report-broken-site =
+    .label = Bozuk siteyi rapor et
