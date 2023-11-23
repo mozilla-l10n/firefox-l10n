@@ -279,6 +279,9 @@ quickactions-cmd-plugins = bővítmények
 # Opens the print dialog
 quickactions-print2 = Oldal nyomtatása
 quickactions-cmd-print = nyomtatás
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Oldal mentése PDF-ként
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Privát ablak megnyitása
 quickactions-cmd-private = privát böngészés
@@ -563,8 +566,6 @@ urlbar-result-action-search-w-engine = { $engine } keresés
 urlbar-result-action-sponsored = Szponzorált
 urlbar-result-action-switch-tab = Váltás erre a lapra
 urlbar-result-action-visit = Keresse fel:
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Felkeresés a vágólapról
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Felkeresés a vágólapról
 # Directs a user to press the Tab key to perform a search with the specified

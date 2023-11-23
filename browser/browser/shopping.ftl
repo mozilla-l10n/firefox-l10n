@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Új ellenőrizendő információk
 shopping-message-bar-warning-stale-analysis-button = Ellenőrzés most
-shopping-message-bar-generic-error-title2 = Jelenleg nem érhető el információ
-shopping-message-bar-generic-error-message = Dolgozunk a probléma megoldásán. Nézzen vissza később.
-shopping-message-bar-warning-not-enough-reviews-title = Még nincs elég értékelés
-shopping-message-bar-warning-not-enough-reviews-message2 = Ha több értékelése lesz a terméknek, akkor fogjuk tudni ellenőrizni a minőségüket.
-shopping-message-bar-warning-product-not-available-title = A termék nem érhető el
-shopping-message-bar-warning-product-not-available-message2 = Ha úgy látja, hogy a termék újra raktáron van, akkor jelentse, és akkor dolgozni fogunk az értékelések ellenőrzésén.
-shopping-message-bar-warning-product-not-available-button = Jelentés, hogy a termék újra raktáron van
-shopping-message-bar-thanks-for-reporting-title = Köszönjük, hogy jelentette!
-shopping-message-bar-thanks-for-reporting-message2 = 24 órán belül lesznek információink a termék értékeléseiről. Nézzen vissza később.
-shopping-message-bar-warning-product-not-available-reported-title2 = Az információk hamarosan érkeznek
-shopping-message-bar-warning-product-not-available-reported-message2 = 24 órán belül lesznek információink a termék értékeléseiről. Nézzen vissza később.
 shopping-message-bar-generic-error =
     .heading = Jelenleg nem érhető el információ
     .message = Dolgozunk a probléma megoldásán. Nézzen vissza később.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = 24 órán belül lesznek információink a termék értékeléseiről. Nézzen vissza később.
 shopping-message-bar-analysis-in-progress-title2 = Értékelési minőség ellenőrzése
 shopping-message-bar-analysis-in-progress-message2 = Ez körülbelül 60 másodpercig tarthat.
-shopping-message-bar-page-not-supported-title = Nem tudjuk ellenőrizni ezeket az értékeléseket
-shopping-message-bar-page-not-supported-message = Sajnos bizonyos terméktípusok esetén nem tudjuk ellenőrizni az értékelés minőségét. Például az ajándékutalványok, videóközvetítések, zenék és játékok esetén.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Értékelések minőségének ellenőrzése ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Nem tudjuk ellenőrizni ezeket az értékeléseket
     .message = Sajnos bizonyos terméktípusok esetén nem tudjuk ellenőrizni az értékelés minőségét. Például az ajándékutalványok, videóközvetítések, zenék és játékok esetén.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Beállítások
 shopping-settings-recommendations-toggle =
     .label = Reklámok megjelenítése az értékelés-ellenőrzőben
-shopping-settings-recommendations-learn-more = Alkalmanként releváns termékek hirdetéseit fogja látni. Minden hirdetésnek meg kell felelnie az ellenőrzési minőségi követelményeinknek. <a data-l10n-name="review-quality-url">További tudnivalók</a>
 shopping-settings-recommendations-learn-more2 = Alkalmanként releváns termékek hirdetéseit fogja látni. Csak megbízható értékeléssel rendelkező termékeket hirdetünk. <a data-l10n-name="review-quality-url">További tudnivalók</a>
 shopping-settings-opt-out-button = Értékelés-ellenőrző kikapcsolása
 powered-by-fakespot = Az értékelés-ellenőrzőt a <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> szolgáltatja.
@@ -181,7 +170,6 @@ shopping-survey-q2-radio-3-label = Nem tudom
 shopping-survey-next-button-label = Következő
 shopping-survey-submit-button-label = Elküldés
 shopping-survey-terms-link = Használati feltételek
-shopping-survey-thanks-message = Köszönjük visszajelzését!
 shopping-survey-thanks =
     .heading = Köszönjük visszajelzését!
 
@@ -198,12 +186,6 @@ shopping-callout-closed-not-opted-in-subtitle = Próbálja ki az értékelés-el
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Próbálja ki megbízható termékértékelési útmutatónkat
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Vásárlás előtt nézze meg, hogy mennyire megbízhatók a termékértékelések a(z) <b>{ $currentSite }</b> oldalon. Az értékelés-ellenőrző, a { -vendor-short-name } kísérleti funkciója, közvetlenül a { -brand-product-name }ba van építve – és működik a következő oldalakon is: <b>{ $secondSite }</b> és <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
