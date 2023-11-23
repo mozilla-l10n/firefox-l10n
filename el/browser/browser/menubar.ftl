@@ -347,3 +347,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Αυτός δεν είναι παραπλανητικός ιστότοπος…
     .accesskey = δ
+menu-report-broken-site =
+    .label = Αναφορά προβληματικού ιστοτόπου
