@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Kundahára Rembiporu
 appmenu-developer-tools-extensions =
     .label = Jepysokue mboguatahárape g̃uarã
+appmenuitem-report-broken-site =
+    .label = Emombe’u tenda vai
