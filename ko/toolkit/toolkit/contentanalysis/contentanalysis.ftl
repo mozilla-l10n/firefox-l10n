@@ -20,3 +20,6 @@ contentanalysis-genericresponse-message = 내용 분석이 { $content } 리소�
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = 사용자의 조직에서는 { $content } 내용을 차단하는 데이터 손실 방지 소프트웨어를 사용하고 있습니다.
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-error-message = 데이터 손실 방지 소프트웨어와 통신하는 동안 오류가 발생했습니다. { $content } 리소스에 대한 전송이 거부되었습니다.
