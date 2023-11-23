@@ -96,3 +96,10 @@ css-compatibility-deprecated-supported-message = Mae <strong>{ $property }</stro
 css-compatibility-experimental-message = Mae <strong>{ $property }</strong> yn briodwedd arbrofol. Nid yw'n cael ei gefnogi gan y porwyr canlynol:
 css-compatibility-experimental-supported-message = Mae <strong>{ $property }</strong> yn briodwedd arbrofol.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Darllen rhagor</span> am <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Mae'r dewisydd hwn yn defnyddio <strong>:has()</strong> heb ei gyfyngu, a all fod yn araf
