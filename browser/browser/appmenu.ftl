@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Graty wobhladowaka
 appmenu-developer-tools-extensions =
     .label = Rozšěrjenja za wuwiwarjow
+appmenuitem-report-broken-site =
+    .label = Wobškodźene sydło zdźělić
