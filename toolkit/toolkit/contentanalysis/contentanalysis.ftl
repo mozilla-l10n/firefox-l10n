@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-alert-title = Analyza wobsaha
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-slow-agent-notification = Nastroj Analyza wobsaha dołho trjeba, zo by za resursu „{ $content }“ wotmołwił
 contentanalysis-slow-agent-dialog-title = Analyza wobsaha běži
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
