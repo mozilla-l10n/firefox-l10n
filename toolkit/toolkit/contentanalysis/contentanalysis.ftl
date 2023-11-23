@@ -9,7 +9,7 @@ contentanalysis-slow-agent-notification = Nastroj Analyza wobsaha dołho trjeba,
 contentanalysis-slow-agent-dialog-title = Analyza wobsaha běži
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Analyza resursu „{ $content }“ analyzuje
+contentanalysis-slow-agent-dialog-body = Analyza wobsaha resursu „{ $content }“ analyzuje
 contentanalysis-operationtype-clipboard = mjezyskład
 contentanalysis-operationtype-dropped-text = pušćeny tekst
 contentanalysis-notification-title = Analyza wobsaha
