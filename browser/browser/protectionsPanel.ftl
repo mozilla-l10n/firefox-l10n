@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = 끄기
 protections-panel-cookie-banner-view-turn-on-label =
     .label = 켜기
+protections-panel-report-broken-site =
+    .label = 깨진 사이트 신고
+    .title = 깨진 사이트 신고

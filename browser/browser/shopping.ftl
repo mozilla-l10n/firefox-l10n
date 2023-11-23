@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = 확인해야 할 새로운 정보
 shopping-message-bar-warning-stale-analysis-button = 지금 확인
-shopping-message-bar-generic-error-title2 = 현재 사용 가능한 정보가 없음
-shopping-message-bar-generic-error-message = 문제를 해결하기 위해 노력하고 있습니다. 곧 다시 확인하시기 바랍니다.
-shopping-message-bar-warning-not-enough-reviews-title = 아직 리뷰가 충분하지 않음
-shopping-message-bar-warning-not-enough-reviews-message2 = 이 제품에 대한 리뷰가 더 많아지면 품질을 확인할 수 있을 것입니다.
-shopping-message-bar-warning-product-not-available-title = 제품을 사용할 수 없음
-shopping-message-bar-warning-product-not-available-message2 = 이 제품이 재입고된 것을 확인하시면, 보고해 주시면 리뷰를 확인하도록 하겠습니다.
-shopping-message-bar-warning-product-not-available-button = 이 제품이 재입고되었다고 보고
-shopping-message-bar-thanks-for-reporting-title = 보고해 주셔서 감사합니다!
-shopping-message-bar-thanks-for-reporting-message2 = 24시간 이내에 이 제품의 리뷰에 대한 정보를 받아야 합니다. 다시 확인해 주세요.
-shopping-message-bar-warning-product-not-available-reported-title2 = 곧 정보 제공 예정
-shopping-message-bar-warning-product-not-available-reported-message2 = 24시간 이내에 이 제품의 리뷰에 대한 정보를 받아야 합니다. 다시 확인해 주세요.
 shopping-message-bar-generic-error =
     .heading = 현재 사용 가능한 정보가 없음
     .message = 문제를 해결하기 위해 노력하고 있습니다. 곧 다시 확인하시기 바랍니다.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = 24시간 이내에 이 제품의 리뷰에 대한 정보를 받아야 합니다. 다시 확인해 주세요.
 shopping-message-bar-analysis-in-progress-title2 = 리뷰 품질 확인 중
 shopping-message-bar-analysis-in-progress-message2 = 이 작업은 약 60초 정도 걸릴 수 있습니다.
-shopping-message-bar-page-not-supported-title = 리뷰를 확인할 수 없음
-shopping-message-bar-page-not-supported-message = 안타깝게도 특정 유형의 제품에 대해서는 리뷰 품질을 확인할 수 없습니다. 예를 들어 기프트 카드, 스트리밍 동영상, 음악, 게임 등이 있습니다.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = 리뷰 품질 확인 중 ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = 리뷰를 확인할 수 없음
     .message = 안타깝게도 특정 유형의 제품에 대해서는 리뷰 품질을 확인할 수 없습니다. 예를 들어 기프트 카드, 스트리밍 동영상, 음악, 게임 등이 있습니다.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = 설정
 shopping-settings-recommendations-toggle =
     .label = 리뷰 검사기에 광고 표시
-shopping-settings-recommendations-learn-more = 관련 제품에 대한 광고가 가끔 표시됩니다. 모든 광고는 리뷰 품질 기준을 충족합니다. <a data-l10n-name="review-quality-url">더 알아보기</a>
 shopping-settings-recommendations-learn-more2 = 관련 제품에 대한 광고가 가끔 표시됩니다. 믿을 수 있는 리뷰가 있는 제품만을 광고합니다. <a data-l10n-name="review-quality-url">더 알아보기</a>
 shopping-settings-opt-out-button = 리뷰 검사기 끄기
 powered-by-fakespot = 리뷰 검사기는 <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>을 통해 제공됩니다.
@@ -181,7 +170,6 @@ shopping-survey-q2-radio-3-label = 모름
 shopping-survey-next-button-label = 다음
 shopping-survey-submit-button-label = 제출
 shopping-survey-terms-link = 사용 약관
-shopping-survey-thanks-message = 피드백 주셔서 감사합니다!
 shopping-survey-thanks =
     .heading = 피드백 주셔서 감사합니다!
 
@@ -198,12 +186,6 @@ shopping-callout-closed-not-opted-in-subtitle = 가격표를 볼 때마다 리�
 ## Onboarding message strings.
 
 shopping-onboarding-headline = 제품 리뷰에 대한 신뢰할 수 있는 가이드를 사용해 보세요
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = 구매하기 전에 <b>{ $currentSite }</b>에서 제품 리뷰가 얼마나 신뢰할 수 있는지 확인하세요. { -vendor-short-name }의 실험적 기능인 리뷰 검사기는 { -brand-product-name }에 바로 내장되어 있으며 <b>{ $secondSite }</b> 및 <b>{ $thirdSite }</b>에서도 마찬가지로 작동합니다.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
