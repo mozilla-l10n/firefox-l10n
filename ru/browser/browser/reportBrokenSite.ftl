@@ -38,3 +38,4 @@ report-broken-site-panel-report-sent-label = Ваш отчёт отправле�
 report-broken-site-panel-report-sent-header =
     .label = Ваш отчёт отправлен
     .title = Ваш отчёт отправлен
+report-broken-site-panel-report-sent-text = Благодарим вас за то, что вы помогаете { -brand-product-name } сделать Интернет более открытым, доступным и лучше для всех.
