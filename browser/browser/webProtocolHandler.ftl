@@ -18,3 +18,4 @@ protocolhandler-mailto-handler-yes-confirm = { $url } è ora il sito predefinito
 
 protocolhandler-mailto-handler-yes-button = Imposta come predefinito
 protocolhandler-mailto-handler-no-button = Non adesso
+

@@ -160,3 +160,4 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
   .label = Segnala problemi con il sito
   .title = Segnala problemi con il sito
+
