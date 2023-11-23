@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Webbläsarverktyg
 appmenu-developer-tools-extensions =
     .label = Tillägg för utvecklare
+appmenuitem-report-broken-site =
+    .label = Rapportera trasig webbplats
