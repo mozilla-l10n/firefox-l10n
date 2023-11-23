@@ -19,14 +19,34 @@ autofill-manage-edit-button = Rediger…
 
 address-capture-save-doorhanger-header = Lagre adresse?
 address-capture-save-doorhanger-description = Lagre informasjon i { -brand-short-name } slik at du raskt kan fylle ut skjemaer.
+address-capture-update-doorhanger-header = Oppdater adresse?
+address-capture-edit-doorhanger-header = Rediger adresse
+address-capture-save-button =
+    .label = Lagre
+    .accessKey = L
+address-capture-not-now-button =
+    .label = Ikke nå
+    .accessKey = I
+address-capture-cancel-button =
+    .label = Avbryt
+    .accessKey = A
+address-capture-update-button =
+    .label = Oppdater
+    .accessKey = O
+address-capture-manage-address-button =
+    .label = Adresseinnstillinger
+address-capture-learn-more-button =
+    .label = Les mer
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Legg til ny adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediger adresse
+autofill-address-name = Navn
 autofill-address-given-name = Fornavn
 autofill-address-additional-name = Mellomnavn
 autofill-address-family-name = Etternavn
 autofill-address-organization = Organisasjon
+autofill-address-street-address = Gateadresse
 autofill-address-street = Gateadresse
 
 ## address-level-3 (Sublocality) names
@@ -84,6 +104,7 @@ autofill-address-eircode = Eircode
 ##
 
 autofill-address-country = Land eller region
+autofill-address-country-only = Land
 autofill-address-tel = Telefon
 autofill-address-email = E-post
 autofill-cancel-button = Avbryt

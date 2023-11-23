@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Nettleserverktøy
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers
+appmenuitem-report-broken-site =
+    .label = Rapporter problem med et nettsted

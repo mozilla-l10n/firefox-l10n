@@ -279,6 +279,9 @@ quickactions-cmd-plugins = programtillegg
 # Opens the print dialog
 quickactions-print2 = Skriv ut side
 quickactions-cmd-print = utskrift, skriv ut
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Lagre side som PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Åpne privat vindu
 quickactions-cmd-private = privat nettlesing
@@ -560,8 +563,6 @@ urlbar-result-action-search-w-engine = Søk med { $engine }
 urlbar-result-action-sponsored = Sponset
 urlbar-result-action-switch-tab = Bytt til fane
 urlbar-result-action-visit = Besøk
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Besøk fra utklippstavlen
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Besøk fra utklippstavlen
 # Directs a user to press the Tab key to perform a search with the specified
