@@ -4,5 +4,13 @@
 
 contentanalysis-alert-title = Analyza wobsaha
 contentanalysis-slow-agent-dialog-title = Analyza wobsaha běži
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-slow-agent-dialog-body = Analyza resursu „{ $content }“ analyzuje
 contentanalysis-operationtype-clipboard = mjezyskład
+contentanalysis-operationtype-dropped-text = pušćeny tekst
 contentanalysis-notification-title = Analyza wobsaha
+# Variables:
+#   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
+#   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
+contentanalysis-genericresponse-message = Analyza wobsaha je z { $response } za resursu wotmołwi: { $content }
