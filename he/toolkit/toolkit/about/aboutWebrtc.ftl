@@ -94,6 +94,7 @@ about-webrtc-save-page-label = שמירת דף
 about-webrtc-debug-mode-msg-label = מצב ניפוי שגיאות
 about-webrtc-debug-mode-off-state-label = הפעלת מצב ניפוי שגיאות
 about-webrtc-debug-mode-on-state-label = עצירת מצב ניפוי שגיאות
+about-webrtc-enable-logging-label = הפעלת ערכת רישום של WebRTC
 about-webrtc-stats-heading = סטטיסטיקת הפעלה
 about-webrtc-stats-clear = ניקוי היסטוריה
 about-webrtc-log-heading = יומן חיבור
