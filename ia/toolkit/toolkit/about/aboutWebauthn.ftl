@@ -29,7 +29,9 @@ about-webauthn-results-success = Successo!
 about-webauthn-results-general-error = Error!
 about-webauthn-results-pin-blocked-error = Error: Il non ha plus tentativas disponibile e tu apparato ha essite blocate perque le PIN errate era fornite troppe vices. Le apparato besonia de esser reinitiate.
 about-webauthn-results-pin-too-short-error = Error: le PIN fornite es troppo curte.
+about-webauthn-results-pin-too-long-error = Error: le PIN fornite es troppo longe.
 about-webauthn-results-pin-auth-blocked-error = Error: Il habeva troppe tentativas fallite in un rango e le authentication del PIN ha essite temporarimente blocate. Tu apparato besonia de un cyclo de extinction (distaccar le spina e re-inserer lo).
+about-webauthn-results-cancelled-by-user-error = Error: Operation cancellate per le usator.
 
 ## Labels
 
@@ -54,12 +56,15 @@ about-webauthn-auth-option-uv = Verification del usator
 about-webauthn-auth-option-up = Presentia del usator
 about-webauthn-auth-option-clientpin = PIN del cliente
 about-webauthn-auth-option-rk = Clave residente
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Permissos del commando (pinUvAuthToken)
 about-webauthn-auth-option-ep = Attestation de interprisa
 about-webauthn-auth-option-bioenroll = Registration biometric
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Prototypo de registration biometric (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Permisso de registration biometric
 about-webauthn-auth-option-authnrcfg = Configuration del authenticator
+about-webauthn-auth-option-credmgmt = Gestion de credentiales
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Ver
 # Shows when boolean value of an option is False. False should not be translated.
@@ -71,6 +76,7 @@ about-webauthn-auth-option-null = Non supportate
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-certifications = Certificationes
+about-webauthn-auth-info-uv-modality = Modalitate de verification de usator
 about-webauthn-auth-info-firmware-version = Version de firmware
 about-webauthn-auth-info-algorithms = Algorithmos
 about-webauthn-auth-info-transports = Transportos
