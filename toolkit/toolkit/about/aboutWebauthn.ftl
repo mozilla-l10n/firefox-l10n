@@ -20,6 +20,11 @@ about-webauthn-pin-required-section-title = PIN trjebny
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Pšosym zwěžćo wěstotne znamje.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Pšosym pótusniśo rěd, aby swóje póžedane wěstotne znamje wubrał.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Njejo móžno nastajenja zastojaś, dokulaž wašo wěstotne znamje CTAP2 njepódpěra.
 about-webauthn-text-not-available = Njejo na toś tej platformje k dispoziciji
 
 ## Results label
@@ -69,8 +74,24 @@ about-webauthn-auth-option-up = Pśibytnosć wužywarja
 about-webauthn-auth-option-clientpin = PIN klienta
 about-webauthn-auth-option-rk = Rezidentny kluc
 about-webauthn-auth-option-plat = Platformowy rěd
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Pśikazowe pšawa (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Žedne pšawa MakeCredential/GetAssertion z klientowym PIN
 about-webauthn-auth-option-largeblobs = Wjelike bloby
+about-webauthn-auth-option-ep = Wobkšuśenje pśedewześa
+about-webauthn-auth-option-bioenroll = Biometriske pśizjawjenje
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototyp biometriskego pśizjawjenja (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Pšawo za biometriske pśizjawjenje
+about-webauthn-auth-option-authnrcfg = Konfiguracija awtentifikatora
+about-webauthn-auth-option-uvacfg = Pšawo za konfiguraciju awtentifikatora
+about-webauthn-auth-option-credmgmt = Zastojanje pśizjawjeńskich datow
+about-webauthn-auth-option-credentialmgmtpreview = Prototyp zastojanja pśizjawjeńskich datow
 about-webauthn-auth-option-setminpinlength = Minimalnu dłujkosć PIN nastajiś
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential bźez wužywaŕskego wobkšuśenja
+about-webauthn-auth-option-alwaysuv = Pomina se pśecej wužywaŕske wobkšuśenje
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
@@ -81,7 +102,9 @@ about-webauthn-auth-option-null = Njepódprěty
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-remaining-discoverable-credentials = Zbytne spóznajobne pśizjawjeńske daty
 about-webauthn-auth-info-certifications = Certificěrowanja
+about-webauthn-auth-info-uv-modality = Modalnosć za wužywaŕske wobkšuśenje
 about-webauthn-auth-info-firmware-version = Wersija Firmware
 about-webauthn-auth-info-min-pin-length = Minimalna dłujkosć PIN
 about-webauthn-auth-info-force-pin-change = Změnu PIN wunuzkaś
