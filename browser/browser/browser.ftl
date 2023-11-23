@@ -279,6 +279,9 @@ quickactions-cmd-plugins = tykace
 # Opens the print dialog
 quickactions-print2 = Bok śišćaś
 quickactions-cmd-print = śišćaś
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Bok ako PDF składowaś
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Priwatne wokno wócyniś
 quickactions-cmd-private = priwatny modus
@@ -571,8 +574,6 @@ urlbar-result-action-search-w-engine = Z { $engine } pytaś
 urlbar-result-action-sponsored = Sponserowany
 urlbar-result-action-switch-tab = K rejtarikoju pśejś
 urlbar-result-action-visit = Woglědaś se
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Z mjazywótkłada woglědaś
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Z mjazywótkłada se woglědaś
 # Directs a user to press the Tab key to perform a search with the specified
