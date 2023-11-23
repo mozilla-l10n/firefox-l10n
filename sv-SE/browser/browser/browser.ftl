@@ -279,6 +279,9 @@ quickactions-cmd-plugins = insticksmoduler
 # Opens the print dialog
 quickactions-print2 = Skriv ut sida
 quickactions-cmd-print = skriva ut
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Spara sida som PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Öppna privat fönster
 quickactions-cmd-private = privat surfning
@@ -560,8 +563,6 @@ urlbar-result-action-search-w-engine = Sök med { $engine }
 urlbar-result-action-sponsored = Sponsrad
 urlbar-result-action-switch-tab = Växla till flik
 urlbar-result-action-visit = Besök
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Besök från ditt urklipp
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Besök från urklipp
 # Directs a user to press the Tab key to perform a search with the specified

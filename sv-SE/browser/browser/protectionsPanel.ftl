@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Stäng av
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Slå på
+protections-panel-report-broken-site =
+    .label = Rapportera trasig webbplats
+    .title = Rapportera trasig webbplats
