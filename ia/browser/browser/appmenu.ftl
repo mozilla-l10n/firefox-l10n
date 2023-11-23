@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Instrumentos de navigator
 appmenu-developer-tools-extensions =
     .label = Extensiones pro disveloppatores
+appmenuitem-report-broken-site =
+    .label = Reportar sito corrupte
