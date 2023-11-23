@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Kikapcsolás
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Bekapcsolás
+protections-panel-report-broken-site =
+    .label = Hibás webhely bejelentése
+    .title = Hibás webhely bejelentése
