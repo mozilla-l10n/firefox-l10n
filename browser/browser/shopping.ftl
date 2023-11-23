@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = 要檢查的新資訊
 shopping-message-bar-warning-stale-analysis-button = 立刻檢查
-shopping-message-bar-generic-error-title2 = 目前沒有可用資訊
-shopping-message-bar-generic-error-message = 我們正在努力解決此問題，請稍候再回來。
-shopping-message-bar-warning-not-enough-reviews-title = 還沒有足夠的評論數
-shopping-message-bar-warning-not-enough-reviews-message2 = 當此商品有足夠的評論後，即可檢查其評論品質。
-shopping-message-bar-warning-product-not-available-title = 商品已下架
-shopping-message-bar-warning-product-not-available-message2 = 若您發現此產品又上架了，請回報給我們，我們將盡快檢查評論內容。
-shopping-message-bar-warning-product-not-available-button = 回報此商品已重新上架
-shopping-message-bar-thanks-for-reporting-title = 感謝您回報！
-shopping-message-bar-thanks-for-reporting-message2 = 我們將在 24 小時內提供更新過的評論分析資訊，請稍後再回來。
-shopping-message-bar-warning-product-not-available-reported-title2 = 即將提供資訊
-shopping-message-bar-warning-product-not-available-reported-message2 = 我們將在 24 小時內提供更新過的評論分析資訊，請稍後再回來。
 shopping-message-bar-generic-error =
     .heading = 目前沒有可用資訊
     .message = 我們正在努力解決此問題，請稍候再回來。
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = 我們將在 24 小時內提供更新過的評論分析資訊，請稍後再回來。
 shopping-message-bar-analysis-in-progress-title2 = 正在檢查評論品質
 shopping-message-bar-analysis-in-progress-message2 = 可能需要 60 秒左右的時間。
-shopping-message-bar-page-not-supported-title = 我們無法檢查這些評論
-shopping-message-bar-page-not-supported-message = 很可惜，我們無法確認某些類型產品（例如：儲值卡、影音串流服務、遊戲）的評論品質。
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = 正在確認評論品質（{ $percentage }%）
 shopping-message-bar-page-not-supported =
     .heading = 我們無法檢查這些評論
     .message = 很可惜，我們無法確認某些類型產品（例如：儲值卡、影音串流服務、遊戲）的評論品質。
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = 設定
 shopping-settings-recommendations-toggle =
     .label = 在商品評論檢查器中顯示廣告
-shopping-settings-recommendations-learn-more = 您偶而會看到相關商品的廣告，所有的廣告皆須符合我們的商品評論品質標準。<a data-l10n-name="review-quality-url">了解更多資訊</a>
 shopping-settings-recommendations-learn-more2 = 您會偶而看到相關商品的廣告，我們僅會推薦評論品質可靠的商品。<a data-l10n-name="review-quality-url">了解更多資訊</a>
 shopping-settings-opt-out-button = 關閉商品評論檢查器
 powered-by-fakespot = 商品評論檢查器是由 <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> 提供。
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = 我不知道
 shopping-survey-next-button-label = 下一題
 shopping-survey-submit-button-label = 送出
 shopping-survey-terms-link = 使用條款
-shopping-survey-thanks-message = 感謝您的意見回饋！
 shopping-survey-thanks =
     .heading = 感謝您的意見回饋！
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = 看到標價的時候，就可�
 ## Onboarding message strings.
 
 shopping-onboarding-headline = 試用我們可信任的商品評論
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = 購物前先看看商品在 <b>{ $currentSite }</b> 的評論有多可靠。「商品評論檢查器」是 { -vendor-short-name } 最新推出的實驗性功能並內建於 { -brand-product-name }。也可以用來確認 <b>{ $secondSite }</b>、<b>{ $thirdSite }</b> 當中的商品評論。
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name

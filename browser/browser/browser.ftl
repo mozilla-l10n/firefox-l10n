@@ -279,6 +279,9 @@ quickactions-cmd-plugins = 外掛程式
 # Opens the print dialog
 quickactions-print2 = 列印頁面
 quickactions-cmd-print = 列印, print
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = 儲存頁面為 PDF 檔
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = 開啟隱私視窗
 quickactions-cmd-private = 隱私瀏覽, 無痕模式, private browsing
@@ -560,8 +563,6 @@ urlbar-result-action-search-w-engine = 使用 { $engine } 進行搜尋
 urlbar-result-action-sponsored = 贊助項目
 urlbar-result-action-switch-tab = 切換至該分頁
 urlbar-result-action-visit = 前往
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = 開啟您剪貼簿中的網址
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = 開啟剪貼簿中的網址
 # Directs a user to press the Tab key to perform a search with the specified
