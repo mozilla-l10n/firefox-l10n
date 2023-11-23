@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = 瀏覽器工具
 appmenu-developer-tools-extensions =
     .label = 開發者專用的擴充套件
+appmenuitem-report-broken-site =
+    .label = 回報網站問題
