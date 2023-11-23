@@ -279,6 +279,9 @@ quickactions-cmd-plugins = плагины
 # Opens the print dialog
 quickactions-print2 = Распечатать страницу
 quickactions-cmd-print = печать
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Сохранить страницу как PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Открыть приватное окно
 quickactions-cmd-private = приватный просмотр
@@ -565,8 +568,6 @@ urlbar-result-action-search-w-engine = Поиск через { $engine }
 urlbar-result-action-sponsored = Спонсировано
 urlbar-result-action-switch-tab = Перейти на вкладку
 urlbar-result-action-visit = Посетить
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Посетить из буфера обмена
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Посетить из буфера обмена
 # Directs a user to press the Tab key to perform a search with the specified
