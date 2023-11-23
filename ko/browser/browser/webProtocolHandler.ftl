@@ -18,3 +18,5 @@ protocolhandler-mailto-handler-yes-confirm = { $url }은(는) 이제 이메일�
 
 ##
 
+protocolhandler-mailto-handler-yes-button = 기본으로 설정
+protocolhandler-mailto-handler-no-button = 나중에
