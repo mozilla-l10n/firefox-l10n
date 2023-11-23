@@ -21,12 +21,24 @@ about-webauthn-pin-required-section-title = PIN obligatori
 ## Info field texts
 
 about-webauthn-text-connect-device = Per favor connecte un token de securitate.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Elige tu jeton de securitate desirate toccante le apparato.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Impossibile gerer optiones perque tu jeton de securitate non supporta CTAP2.
 about-webauthn-text-not-available = Non disponibile pro iste platteforma
 
 ## Results label
 
 about-webauthn-results-success = Successo!
 about-webauthn-results-general-error = Error!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Error: PIN errate. Retenta.
+        [one] Error: PIN errate. Retenta. Tu ha un sol tentativa restante.
+       *[other] Error: PIN errate. Retenta. Tu ha { $retriesLeft } tentativas restante.
+    }
 about-webauthn-results-pin-blocked-error = Error: Il non ha plus tentativas disponibile e tu apparato ha essite blocate perque le PIN errate era fornite troppe vices. Le apparato besonia de esser reinitiate.
 about-webauthn-results-pin-too-short-error = Error: le PIN fornite es troppo curte.
 about-webauthn-results-pin-too-long-error = Error: le PIN fornite es troppo longe.
@@ -36,12 +48,15 @@ about-webauthn-results-cancelled-by-user-error = Error: Operation cancellate per
 ## Labels
 
 about-webauthn-new-pin-label = Nove PIN:
+about-webauthn-repeat-pin-label = Repeter le nove PIN:
 about-webauthn-current-pin-label = PIN actual:
 about-webauthn-pin-required-label = Insere tu PIN:
 about-webauthn-credential-list-subsection-title = Credentiales:
+about-webauthn-credential-list-empty = Nulle credentiales trovate sur le apparato.
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = Definir PIN
 about-webauthn-current-change-pin-button = Cambiar PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Listar credentiales
@@ -56,15 +71,21 @@ about-webauthn-auth-option-uv = Verification del usator
 about-webauthn-auth-option-up = Presentia del usator
 about-webauthn-auth-option-clientpin = PIN del cliente
 about-webauthn-auth-option-rk = Clave residente
+about-webauthn-auth-option-plat = Apparato del platteforma
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Permissos del commando (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Nulle MakeCredential/GetAssertion permissos con le PIN cliente
+about-webauthn-auth-option-largeblobs = Large blobs
 about-webauthn-auth-option-ep = Attestation de interprisa
 about-webauthn-auth-option-bioenroll = Registration biometric
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Prototypo de registration biometric (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Permisso de registration biometric
 about-webauthn-auth-option-authnrcfg = Configuration del authenticator
+about-webauthn-auth-option-uvacfg = Permisso de configuration authenticator
 about-webauthn-auth-option-credmgmt = Gestion de credentiales
+about-webauthn-auth-option-credentialmgmtpreview = Sempre require verification del usator
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Ver
 # Shows when boolean value of an option is False. False should not be translated.
