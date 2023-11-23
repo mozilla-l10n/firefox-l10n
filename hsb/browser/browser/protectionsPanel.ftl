@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Znjemóžnić
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Zmóžnić
+protections-panel-report-broken-site =
+    .label = Wobškodźene sydło zdźělić
+    .title = Wobškodźene sydło zdźělić
