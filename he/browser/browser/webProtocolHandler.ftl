@@ -13,6 +13,10 @@ protocolhandler-mailto-handler-notificationbox = לפתוח קישורי דוא�
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
+protocolhandler-mailto-handler-notificationbox-always = תמיד לפתוח קישורי דוא״ל באמצעות { $url }?
+protocolhandler-mailto-handler-yes-confirm = { $url }‏ הוא כעת אתר ברירת המחדל שלך לפתיחת קישורים ששולחים דוא״ל.
 
 ##
 
+protocolhandler-mailto-handler-yes-button = הגדרה כברירת מחדל
+protocolhandler-mailto-handler-no-button = לא כעת
