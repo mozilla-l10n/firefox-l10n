@@ -86,6 +86,10 @@ about-webauthn-auth-option-authnrcfg = Configuration del authenticator
 about-webauthn-auth-option-uvacfg = Permisso de configuration authenticator
 about-webauthn-auth-option-credmgmt = Gestion de credentiales
 about-webauthn-auth-option-credentialmgmtpreview = Sempre require verification del usator
+about-webauthn-auth-option-setminpinlength = Definir le longor minime del PIN
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential sin verification del usator
+about-webauthn-auth-option-alwaysuv = Sempre require verification del usator
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Ver
 # Shows when boolean value of an option is False. False should not be translated.
@@ -96,11 +100,21 @@ about-webauthn-auth-option-null = Non supportate
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Commandos de configuration del prototypo pro le venditor
+about-webauthn-auth-info-remaining-discoverable-credentials = Credentiales detectabile restante
 about-webauthn-auth-info-certifications = Certificationes
 about-webauthn-auth-info-uv-modality = Modalitate de verification de usator
+about-webauthn-auth-info-preferred-platform-uv-attempts = Longor minime del PIN
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Max longor de ID del credential
 about-webauthn-auth-info-firmware-version = Version de firmware
+about-webauthn-auth-info-min-pin-length = Longor minime del PIN
+about-webauthn-auth-info-force-pin-change = Fortiar le cambiamento de PIN
 about-webauthn-auth-info-algorithms = Algorithmos
 about-webauthn-auth-info-transports = Transportos
+about-webauthn-auth-info-pin-protocols = Protocollos de PIN
+about-webauthn-auth-info-max-msg-size = Max dimension del message
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Extensiones
 about-webauthn-auth-info-versions = Versiones
 # Shows when boolean value for an info field is True. True should not be translated.

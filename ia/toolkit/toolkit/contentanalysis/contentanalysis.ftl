@@ -3,7 +3,23 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-alert-title = Analyse de contento
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-slow-agent-notification = Le instrumento de analyse de contento prende un longe tempore a responder pro le ressource “{ $content }”
 contentanalysis-slow-agent-dialog-title = Analyse de contento in progresso
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-slow-agent-dialog-body = Le analyse de contento analysa le ressource “{ $content }”
 contentanalysis-operationtype-clipboard = area de transferentia
 contentanalysis-operationtype-dropped-text = texto deponite
 contentanalysis-notification-title = Analyse de contento
+# Variables:
+#   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
+#   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
+contentanalysis-genericresponse-message = Le analyse de contento respondeva con { $response } pro le ressource: { $content }
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-block-message = Tu organisation usa un software de prevention de perdita de datos que ha blocate iste contento: { $content }.
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-error-message = Un error occurreva communicante con le software de prevention del perdita de datos. Transferentia denegate pro le ressource: { $content }.
