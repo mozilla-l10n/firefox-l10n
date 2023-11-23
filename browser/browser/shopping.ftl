@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Gwybodaeth newydd i’w wirio
 shopping-message-bar-warning-stale-analysis-button = Gwirio nawr
-shopping-message-bar-generic-error-title2 = Dim gwybodaeth ar gael ar hyn o bryd
-shopping-message-bar-generic-error-message = Rydym yn gweithio i ddatrys y mater. Dewch nôl cyn bo hir.
-shopping-message-bar-warning-not-enough-reviews-title = Dim digon o adolygiadau eto
-shopping-message-bar-warning-not-enough-reviews-message2 = Pan fydd gan y cynnyrch hwn fwy o adolygiadau, byddwn yn gallu gwirio eu hansawdd.
-shopping-message-bar-warning-product-not-available-title = Nid yw'r cynnyrch ar gael
-shopping-message-bar-warning-product-not-available-message2 = Os ydych yn gweld fod y cynnyrch hwn nôl mewn stoc, rhowch wybod i ni ac fe wnawn ni ddiweddaru’r dadansoddiad.
-shopping-message-bar-warning-product-not-available-button = Adrodd fod y cynnyrch hwn nôl mewn stoc
-shopping-message-bar-thanks-for-reporting-title = Diolch am adrodd!
-shopping-message-bar-thanks-for-reporting-message2 = Dylai fod gennym dadansoddiad wedi’i ddiweddaru o fewn 24 awr. Dewch nôl i weld.
-shopping-message-bar-warning-product-not-available-reported-title2 = Gwybodaeth yn dod cyn hir
-shopping-message-bar-warning-product-not-available-reported-message2 = Dylai fod gennym dadansoddiad wedi’i ddiweddaru o fewn 24 awr. Dewch nôl i weld.
 shopping-message-bar-generic-error =
     .heading = Dim gwybodaeth ar gael ar hyn o bryd
     .message = Rydym yn gweithio i ddatrys y mater. Dewch nôl cyn bo hir.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Dylai fod gennym dadansoddiad wedi’i ddiweddaru o fewn 24 awr. Dewch nôl i weld.
 shopping-message-bar-analysis-in-progress-title2 = Gwirio ansawdd yr adolygiadau
 shopping-message-bar-analysis-in-progress-message2 = Gall hyn gymryd tua 60 eiliad.
-shopping-message-bar-page-not-supported-title = Methu gwirio’r adolygiadau hyn
-shopping-message-bar-page-not-supported-message = Yn anffodus, nid oes modd i ni wirio ansawdd adolygu ar gyfer rhai mathau o gynnyrch. Er enghraifft, cardiau rhodd a ffrydio fideo, cerddoriaeth a gemau.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Wrthi'n gwirio ansawdd adolygu ( { $percent }%)
 shopping-message-bar-page-not-supported =
     .heading = Methu gwirio’r adolygiadau hyn
     .message = Yn anffodus, nid oes modd i ni wirio ansawdd adolygu ar gyfer rhai mathau o gynnyrch. Er enghraifft, cardiau rhodd a ffrydio fideo, cerddoriaeth a gemau.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Gosodiadau
 shopping-settings-recommendations-toggle =
     .label = Dangos hysbysebion yn y Gwirydd Adolygiadau
-shopping-settings-recommendations-learn-more = Fe welwch hysbysebion achlysurol am gynnyrch perthnasol. Rhaid i bob hysbyseb fodloni ein safonau ansawdd adolygiadau. <a data-l10n-name="review-quality-url">Darllen rhagor</a>
 shopping-settings-recommendations-learn-more2 = Byddwch yn gweld hysbysebion achlysurol am gynnyrch perthnasol. Rhaid i bob hysbyseb fodloni ein safonau ansawdd adolygiadau. <a data-l10n-name="review-quality-url">Darllen rhagor</a>
 shopping-settings-opt-out-button = Diffodd y Gwirydd Adolygiadau
 powered-by-fakespot = Mae'r Gwirydd Adolygiadau yn cael ei bweru gan <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -181,7 +170,6 @@ shopping-survey-q2-radio-3-label = Wn i ddim
 shopping-survey-next-button-label = Nesaf
 shopping-survey-submit-button-label = Cyflwyno
 shopping-survey-terms-link = Amodau defnydd
-shopping-survey-thanks-message = Diolch am eich adborth!
 shopping-survey-thanks =
     .heading = Diolch am eich adborth!
 
@@ -198,12 +186,6 @@ shopping-callout-closed-not-opted-in-subtitle = Rhowch gynnig ar y Gwirydd Adoly
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Ein canllaw dibynadwy i adolygiadau cynnyrch
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Dyma sut mae gweld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r Gwirydd Adolygiadau, nodwedd arbrofol gan { -vendor-short-name }, wedi'i hymgorffori yn { -brand-product-name } — ac mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
