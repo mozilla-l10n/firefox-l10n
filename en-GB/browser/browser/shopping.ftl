@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = New info to check
 shopping-message-bar-warning-stale-analysis-button = Check now
-shopping-message-bar-generic-error-title2 = No info available right now
-shopping-message-bar-generic-error-message = We’re working to resolve the issue. Please check back soon.
-shopping-message-bar-warning-not-enough-reviews-title = Not enough reviews yet
-shopping-message-bar-warning-not-enough-reviews-message2 = When this product has more reviews, we’ll be able to check their quality.
-shopping-message-bar-warning-product-not-available-title = Product is not available
-shopping-message-bar-warning-product-not-available-message2 = If you see this product is back in stock, report it and we’ll work on checking the reviews.
-shopping-message-bar-warning-product-not-available-button = Report this product is back in stock
-shopping-message-bar-thanks-for-reporting-title = Thanks for reporting!
-shopping-message-bar-thanks-for-reporting-message2 = We should have info about this product’s reviews within 24 hours. Please check back.
-shopping-message-bar-warning-product-not-available-reported-title2 = Info coming soon
-shopping-message-bar-warning-product-not-available-reported-message2 = We should have info about this product’s reviews within 24 hours. Please check back.
 shopping-message-bar-generic-error =
     .heading = No info available right now
     .message = We’re working to resolve the issue. Please check back soon.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = We should have info about this product’s reviews within 24 hours. Please check back.
 shopping-message-bar-analysis-in-progress-title2 = Checking review quality
 shopping-message-bar-analysis-in-progress-message2 = This could take about 60 seconds.
-shopping-message-bar-page-not-supported-title = We can’t check these reviews
-shopping-message-bar-page-not-supported-message = Unfortunately, we can’t check the review quality for certain types of products. For example, gift cards and streaming video, music, and games.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Checking review quality ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = We can’t check these reviews
     .message = Unfortunately, we can’t check the review quality for certain types of products. For example, gift cards and streaming video, music, and games.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Settings
 shopping-settings-recommendations-toggle =
     .label = Show ads in Review Checker
-shopping-settings-recommendations-learn-more = You’ll see occasional ads for relevant products. All ads must meet our review quality standards. <a data-l10n-name="review-quality-url">Learn more</a>
 shopping-settings-recommendations-learn-more2 = You’ll see occasional ads for relevant products. We only advertise products with reliable reviews. <a data-l10n-name="review-quality-url">Learn more</a>
 shopping-settings-opt-out-button = Turn off Review Checker
 powered-by-fakespot = Review Checker is powered by <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = I don’t know
 shopping-survey-next-button-label = Next
 shopping-survey-submit-button-label = Submit
 shopping-survey-terms-link = Terms of use
-shopping-survey-thanks-message = Thanks for your feedback!
 shopping-survey-thanks =
     .heading = Thanks for your feedback!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Give Review Checker a try whenev
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Try our trusted guide to product reviews
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = See how reliable product reviews are on <b>{ $currentSite }</b> before you buy. Review checker, an experimental feature from { -vendor-short-name }, is built right into { -brand-product-name } — and it works on <b>{ $secondSite }</b> and <b>{ $thirdSite }</b>, too.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
