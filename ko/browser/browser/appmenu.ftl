@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = 브라우저 도구
 appmenu-developer-tools-extensions =
     .label = 개발자용 확장 기능
+appmenuitem-report-broken-site =
+    .label = 깨진 사이트 신고
