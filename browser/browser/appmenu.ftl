@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Εργαλεία προγράμματος περιήγησης
 appmenu-developer-tools-extensions =
     .label = Επεκτάσεις για προγραμματιστές
+appmenuitem-report-broken-site =
+    .label = Αναφορά προβληματικού ιστοτόπου
