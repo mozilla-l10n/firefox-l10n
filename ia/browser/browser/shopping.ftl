@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Nove info a controlar
 shopping-message-bar-warning-stale-analysis-button = Controlar ora
-shopping-message-bar-generic-error-title2 = Nulle info disponibile al momento
-shopping-message-bar-generic-error-message = Nos labora pro resolver le problema. Retenta tosto.
-shopping-message-bar-warning-not-enough-reviews-title = Revisiones ancora non bastante
-shopping-message-bar-warning-not-enough-reviews-message2 = Quando iste producto habera plus de recensiones, nos potera controlar su qualitate.
-shopping-message-bar-warning-product-not-available-title = Le producto non es disponibile
-shopping-message-bar-warning-product-not-available-message2 = Si tu videra que iste producto es retro in stock, reporta lo e nos laborara pro controlar le recensiones.
-shopping-message-bar-warning-product-not-available-button = Reporta que iste producto es retro in stock
-shopping-message-bar-thanks-for-reporting-title = Gratias pro reportar
-shopping-message-bar-thanks-for-reporting-message2 = Nos deberea haber info re iste recensiones de producto in 24 horas. Controla plus tarde.
-shopping-message-bar-warning-product-not-available-reported-title2 = Info a venir tosto
-shopping-message-bar-warning-product-not-available-reported-message2 = Nos deberea haber info re iste recensiones de producto in 24 horas. Controla plus tarde.
 shopping-message-bar-generic-error =
     .heading = Nulle info disponibile al momento
     .message = Nos labora pro resolver le problema. Retenta tosto.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Nos deberea haber info re iste recensiones de producto in 24 horas. Controla plus tarde.
 shopping-message-bar-analysis-in-progress-title2 = Controlante qualitate de recension
 shopping-message-bar-analysis-in-progress-message2 = Isto pote prender circa 60 secundas.
-shopping-message-bar-page-not-supported-title = Nos non pote controlar iste recensiones
-shopping-message-bar-page-not-supported-message = Infortunatemente, nos non pote verificar le qualitate de recension pro certe typos de productos. Per exemplo, cartas dono e diffusion multimedial de video, musica, e jocos.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Controlo qualitate de recension ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Nos non pote controlar iste recensiones
     .message = Infortunatemente, nos non pote verificar le qualitate de recension pro certe typos de productos. Per exemplo, cartas dono e diffusion multimedial de video, musica, e jocos.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Parametros
 shopping-settings-recommendations-toggle =
     .label = Monstrar avisos publicitari in verificator de recension
-shopping-settings-recommendations-learn-more = Tu videra occasional avisos publicitari pro productos pertinente. Tote le avisos publicitari debe satisfacer nostre standards de revision de qualitate. <a data-l10n-name="review-quality-url">Pro saper plus</a>
 shopping-settings-recommendations-learn-more2 = Tu videra avisos publicitari occasional pro productos pertinente. Nos solo clama productos con recensiones fidabile. <a data-l10n-name="review-quality-url">Pro saper plus</a>
 shopping-settings-opt-out-button = Disactivar verificator de recension
 powered-by-fakespot = Verificator de recension es supportate per <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = Io non sape
 shopping-survey-next-button-label = Sequente
 shopping-survey-submit-button-label = Inviar
 shopping-survey-terms-link = Terminos de uso
-shopping-survey-thanks-message = Gratias pro tu commentario!
 shopping-survey-thanks =
     .heading = Gratias pro tu commentario!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Prova le verificator de recensio
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Prova nostre guida digne de fide pro recensiones de producto
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Vide quanto fidabile es le recensiones de producto sur <b>{ $currentSite }</b> ante que tu compra. Verificator de recension, un function experimental de { -vendor-short-name }, es producite justo in { -brand-product-name }, e illo functiona sur <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>, alsi.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
