@@ -204,6 +204,7 @@ cfr-cbh-confirm-button = Avvis infokapselbannere
 cfr-cbh-dismiss-button = Ikke nå
     .accesskey = k
 cookie-banner-blocker-cfr-header = { -brand-short-name } blokkerte nettopp infokapsler for deg
+cookie-banner-blocker-cfr-body = Vi nekter automatisk mange sprettoppvinduer for infokapsler for å gjøre det vanskelig for nettsteder å spore deg.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

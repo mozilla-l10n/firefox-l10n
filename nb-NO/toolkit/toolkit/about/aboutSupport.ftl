@@ -185,6 +185,7 @@ media-codec-support-codec-name = Kodeknavn
 media-codec-support-supported = Støttet
 media-codec-support-unsupported = Ikke støttet
 media-codec-support-error = Kodek-støtteinformasjon utilgjengelig. Prøv igjen etter å ha spilt av en mediefil.
+media-codec-support-lack-of-extension = Installer utvidelse
 
 ##
 
