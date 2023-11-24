@@ -245,6 +245,10 @@ device-migration-fxa-spotlight-header = StaršI grat wužiwać?
 device-migration-fxa-spotlight-body = Zawěsćće swoje daty, zo njebyšće wažne informacije kaž zapołožki a hesła zhubił — předewšěm, jeli k nowemu gratej přeńdźeće.
 device-migration-fxa-spotlight-primary-button = Kak móžu swoje daty zawěsćić
 device-migration-fxa-spotlight-link = Pozdźišo dopomnić
+device-migration-fxa-spotlight-heavy-user-header = Njezabywajće swoje date zawěsćić
+device-migration-fxa-spotlight-heavy-user-body = Zawěsćće, zo so wažne informacije – na přikład zapołožki a hesła “ aktualizuja a na wšěch wašich gratach škitaja.
+device-migration-fxa-spotlight-heavy-user-primary-button = Prěnje kroki
+device-migration-fxa-spotlight-older-device-primary-button = Konto załožić
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kak móžu swoje daty zawěsćić
 
 ## Set as Default PDF Reader Infobar
