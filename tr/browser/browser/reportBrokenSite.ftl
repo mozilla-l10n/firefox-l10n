@@ -37,3 +37,4 @@ report-broken-site-panel-report-sent-label = Raporunuz gönderildi
 report-broken-site-panel-report-sent-header =
     .label = Raporunuz gönderildi
     .title = Raporunuz gönderildi
+report-broken-site-panel-report-sent-text = { -brand-product-name }’un web’i daha açık, erişilebilir ve herkes için daha iyi hale getirmesine yardım ettiğiniz için teşekkür ederiz.
