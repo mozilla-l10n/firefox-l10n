@@ -4,3 +4,6 @@
 
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = ᱪᱮᱫ ᱨᱟᱹᱯᱩᱫ ᱮᱱᱟ ?
+report-broken-site-panel-reason-optional-label = ᱪᱮᱫ ᱨᱟᱹᱯᱩᱫ ᱮᱱᱟ ? (ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ)
+report-broken-site-panel-reason-choose =
+    .label = ᱠᱟᱨᱚᱬ ᱵᱟᱛᱟᱣ ᱢᱮ
