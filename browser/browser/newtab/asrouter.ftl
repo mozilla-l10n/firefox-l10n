@@ -236,6 +236,15 @@ device-migration-fxa-spotlight-header = Ескі құрылғыны пайдал
 device-migration-fxa-spotlight-body = Бетбелгілер мен парольдер сияқты маңызды ақпаратты жоғалтпау үшін деректердің сақтық көшірмесін жасаңыз, әсіресе жаңа құрылғыға ауыссаңыз.
 device-migration-fxa-spotlight-primary-button = Деректерімнің сақтық көшірмесін қалай жасауға болады
 device-migration-fxa-spotlight-link = Кейінірек еске салу
+device-migration-fxa-spotlight-heavy-user-header = Деректеріңіздің сақтық көшірмесін жасауды ұмытпаңыз
+device-migration-fxa-spotlight-heavy-user-body = Бетбелгілер мен парольдер сияқты маңызды ақпараттың барлық құрылғыларыңызда жаңартылғанын және қорғалғанын тексеріңіз.
+device-migration-fxa-spotlight-heavy-user-primary-button = Бастау
+device-migration-fxa-spotlight-older-device-header = Жан тыныштығы, { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Тіркелгі маңызды ақпаратыңызды жаңартылған және сіз қосылған кез келген құрылғыда қорғалған түрде ұстайды.
+device-migration-fxa-spotlight-older-device-primary-button = Тіркелгі жасау
+device-migration-fxa-spotlight-getting-new-device-header = Осы маусымда жаңа құрылғыны үміттенесіз бе?
+device-migration-fxa-spotlight-getting-new-device-body = Құрылғыңыз келгенде жұмыс істеуге дайын болу үшін, деректеріңіздің сақтық көшірмесін қазір жасаңыз.
+device-migration-fxa-spotlight-getting-new-device-primary-button = Деректерімнің сақтық көшірмесін қалай жасауға болады
 
 ## Set as Default PDF Reader Infobar
 
