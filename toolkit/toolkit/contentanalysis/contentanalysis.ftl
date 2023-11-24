@@ -11,4 +11,15 @@ contentanalysis-slow-agent-dialog-title = Análise de conteúdo em andamento
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = A análise de conteúdo está analisando o recurso “{ $content }”
 contentanalysis-operationtype-clipboard = área de transferência
+contentanalysis-operationtype-dropped-text = texto arrastado
 contentanalysis-notification-title = Análise de conteúdo
+# Variables:
+#   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
+#   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
+contentanalysis-genericresponse-message = A análise de conteúdo respondeu { $response } ao recurso: { $content }
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-block-message = Sua organização usa software de prevenção contra perda de dados que bloqueou este conteúdo: { $content }.
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-error-message = Ocorreu um erro na comunicação com o software de prevenção contra perda de dados. Transferência negada do recurso: { $content }.
