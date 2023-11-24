@@ -23,9 +23,9 @@ inactive-css-not-grid-container = <strong>{ $property }</strong> ไม่มี
 inactive-css-not-flex-item = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่รายการแบบยืดหยุ่น
 inactive-css-not-flex-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่คอนเทนเนอร์แบบยืดหยุ่น
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่อิลิเมนต์แบบอินไลน์หรือแบบเซลล์ตาราง
-inactive-css-first-line-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนซูโดอิลิเมนต์ ::first-line
-inactive-css-first-letter-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนซูโดอิลิเมนต์ ::first-letter
-inactive-css-placeholder-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนซูโดอิลิเมนต์ ::placeholder
+inactive-css-first-line-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง ::first-line
+inactive-css-first-letter-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง ::first-letter
+inactive-css-placeholder-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง ::placeholder
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากมีค่าคุณสมบัติ display เป็น <strong>{ $display }</strong>
 inactive-css-not-display-block-on-floated = ค่า <strong>display</strong> ได้ถูกเปลี่ยนโดยเอนจินเป็น <strong>block</strong> เนื่องจากมีอิลิเมนต์แบบ <strong>floated</strong>
 inactive-css-property-is-impossible-to-override-in-visited = ไม่สามารถเขียนทับ <strong>{ $property }</strong> เนื่องจากข้อจำกัดของ <strong>:visited</strong>
@@ -38,8 +38,8 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> ไม่มีผ�
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่มีการเลื่อน
 inactive-css-border-image = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้ เนื่องจากไม่สามารถใช้กับอิลิเมนต์ตารางภายในที่ตั้งค่า <strong>border-collapse</strong> เป็น <strong>collapse</strong> บนอิลิเมนต์ตารางแม่ได้
 inactive-css-ruby-element = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้ เนื่องจากเป็นอิลิเมนต์ ruby ขนาดของอิลิเมนต์นี้ถูกกำหนดโดยขนาดตัวอักษรของข้อความ ruby
-inactive-css-highlight-pseudo-elements-not-supported = ไม่รองรับ <strong>{ $property }</strong> บน highlight pseudo-elements
-inactive-css-cue-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนซูโดอิลิเมนต์ ::cue
+inactive-css-highlight-pseudo-elements-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง highlight
+inactive-css-cue-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง ::cue
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -82,3 +82,8 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> เป็นคุณสมบัติทดลอง โดยไม่รองรับในเบราว์เซอร์ต่อไปนี้:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> เป็นคุณสมบัติทดลอง
 css-compatibility-learn-more-message = <span data-l10n-name="link">เรียนรู้เพิ่มเติม</span>เกี่ยวกับ <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
