@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Wobškodźene sydło zdźělić
 report-broken-site-panel-header =
     .label = Wobškodźene sydło zdźělić
     .title = Wobškodźene sydło zdźělić
+report-broken-site-panel-intro = Pomhajće, { -brand-product-name } za wšěch polěpšił. { -vendor-short-name } informacije wužiwa, kotrež sćeleće, zo byšće problemy z websydłom rozrisał.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Što je wobškodźene?
 report-broken-site-panel-reason-optional-label = Što je wobškodźene? (na přeće)
