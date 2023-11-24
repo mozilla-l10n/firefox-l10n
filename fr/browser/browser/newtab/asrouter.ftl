@@ -236,6 +236,7 @@ device-migration-fxa-spotlight-header = Vous utilisez un appareil plus ancien ?
 device-migration-fxa-spotlight-body = Sauvegardez vos données pour vous assurer de ne pas perdre d’informations importantes comme des marque-pages ou des mots de passe, surtout si vous changez d’appareil.
 device-migration-fxa-spotlight-primary-button = Comment sauvegarder mes données
 device-migration-fxa-spotlight-link = Me le rappeler plus tard
+device-migration-fxa-spotlight-getting-new-device-primary-button = Comment sauvegarder mes données
 
 ## Set as Default PDF Reader Infobar
 
