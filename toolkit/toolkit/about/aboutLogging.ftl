@@ -35,6 +35,7 @@ about-logging-preset-networking-websocket-label = WebSockets
 about-logging-preset-networking-websocket-description = Atvikaskráningareiningar til að greina vandamál með WebSocket
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-description = Atvikaskráningareiningar til að greina vandamál með HTTP/3 og QUIC
+about-logging-preset-networking-http3-upload-speed-label = HTTP/3 innsendingarhraði
 about-logging-preset-media-playback-label = Afspilun margmiðlunar
 about-logging-preset-media-playback-description = Atvikaskráningareiningar til að greina vandamál við spilun myndefnis (ekki vandamál með myndfundi)
 about-logging-preset-webrtc-label = WebRTC
