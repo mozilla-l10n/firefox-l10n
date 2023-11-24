@@ -222,6 +222,13 @@ device-migration-fxa-spotlight-header = משתמשים במכשיר ישן?
 device-migration-fxa-spotlight-body = כדאי לגבות את הנתונים שלכם כדי לוודא שלא תאבדו מידע חשוב כמו סימניות וססמאות - במיוחד אם אתם עוברים למכשיר חדש.
 device-migration-fxa-spotlight-primary-button = כיצד לגבות את הנתונים שלי
 device-migration-fxa-spotlight-link = להזכיר לי מאוחר יותר
+device-migration-fxa-spotlight-heavy-user-header = לא לשכוח לגבות את הנתונים שלך
+device-migration-fxa-spotlight-heavy-user-body = באפשרותך לוודא שמידע חשוב - כמו סימניות וססמאות - מעודכנים ומוגנים בכל המכשירים שלך.
+device-migration-fxa-spotlight-heavy-user-primary-button = תחילת עבודה
+device-migration-fxa-spotlight-older-device-header = שקט נפשי, מאת { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = השימוש בחשבון שומר על המידע החשוב שלך מעודכן ומוגן בכל מכשיר שיחובר אליו.
+device-migration-fxa-spotlight-older-device-primary-button = יצירת חשבון
+device-migration-fxa-spotlight-getting-new-device-header = מקווה לקבל מכשיר חדש בקרוב?
 device-migration-fxa-spotlight-getting-new-device-primary-button = כיצד לגבות את הנתונים שלי
 
 ## Set as Default PDF Reader Infobar
