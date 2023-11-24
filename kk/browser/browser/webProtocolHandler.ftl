@@ -11,3 +11,5 @@ protocolhandler-mailto-os-handler-no-button = Қазір емес
 
 ##
 
+protocolhandler-mailto-handler-yes-button = Үнсіз келісім ретінде орнату
+protocolhandler-mailto-handler-no-button = Қазір емес
