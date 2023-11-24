@@ -38,3 +38,4 @@ report-broken-site-panel-report-sent-label = Ihr Bericht wurde gesendet
 report-broken-site-panel-report-sent-header =
     .label = Ihr Bericht wurde gesendet
     .title = Ihr Bericht wurde gesendet
+report-broken-site-panel-report-sent-text = Vielen Dank, dass Sie { -brand-product-name } dabei helfen, das Internet für alle offener, zugänglicher und besser zu machen.
