@@ -239,6 +239,10 @@ device-migration-fxa-spotlight-header = Régebbi eszközt használ?
 device-migration-fxa-spotlight-body = Készítsen biztonsági mentést az adatairól, hogy ne veszítsen el olyan fontos információkat, mint a könyvjelzők és a jelszavak – különösen, ha új eszközre vált.
 device-migration-fxa-spotlight-primary-button = Hogyan kell biztonsági mentést készíteni az adatokról
 device-migration-fxa-spotlight-link = Figyelmeztetés később
+device-migration-fxa-spotlight-heavy-user-header = Ne felejtsen el biztonsági mentést készíteni az adatairól
+device-migration-fxa-spotlight-heavy-user-body = Győződjön meg arról, hogy a fontos információk – mint a könyvjelzők és jelszavak – legyenek naprakészek és védettek az összes eszközén.
+device-migration-fxa-spotlight-heavy-user-primary-button = Első lépések
+device-migration-fxa-spotlight-older-device-header = Nyugalom, a { -brand-product-name }tól
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hogyan kell biztonsági mentést készíteni az adatokról
 
 ## Set as Default PDF Reader Infobar
