@@ -213,6 +213,7 @@ set-default-pdf-handler-primary = Awi-t
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Ibenk amaynut ɣer sdat?
 fxa-sync-cfr-primary = Issin ugar
     .accesskey = I
 fxa-sync-cfr-secondary = Smekti-y-id ticki
