@@ -251,6 +251,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Prěnje kroki
 device-migration-fxa-spotlight-older-device-body = Konto waše wažne informacije aktualizuje a na kóždym graće škita, z kotrymž zwjazujeće.
 device-migration-fxa-spotlight-older-device-primary-button = Konto załožić
 device-migration-fxa-spotlight-getting-new-device-header = Nadźijeće so tutu sezonu na nowy grat?
+device-migration-fxa-spotlight-getting-new-device-body = Zawěsćće nětko swoje daty, zo byšće přihotowany był, hdyž waš grat dóńdźe.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kak móžu swoje daty zawěsćić
 
 ## Set as Default PDF Reader Infobar
