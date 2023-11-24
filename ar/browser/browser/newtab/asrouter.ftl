@@ -241,6 +241,7 @@ device-migration-fxa-spotlight-header = هل تستخدم جهازًا قديم�
 device-migration-fxa-spotlight-body = انسخ بياناتك إحتياطياً لتتأكد من عدم خسارة المعلومات المهمة مثل العلامات وكلمات السر — خصوصاً إذا انتقلت إلى جهاز جديد.
 device-migration-fxa-spotlight-primary-button = كيفية عمل نسخة احتياطية من بياناتي
 device-migration-fxa-spotlight-link = ذكّرني لاحقًا
+device-migration-fxa-spotlight-getting-new-device-primary-button = كيفية عمل نسخة احتياطية من بياناتي
 
 ## Set as Default PDF Reader Infobar
 
