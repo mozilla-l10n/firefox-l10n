@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xpinstall-prompt = منع { -brand-short-name } هذا الموقع من سؤالك تنصيب برمجيّات على حاسوبك.
+xpinstall-prompt = منع { -brand-short-name } هذا الموقع من سؤالك بتثبيت برمجيّات على حاسوبك.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -39,8 +39,8 @@ site-permission-install-first-prompt-midi-message = لا يضمن هذا الو�
 
 ##
 
-xpinstall-disabled-locked = منع مدير النظام تنصيب البرمجيات.
-xpinstall-disabled = تنصيب البرمجيات معطل حاليًا. انقر فعّل و حاول مجددًا.
+xpinstall-disabled-locked = منع مدير النظام تثبيت البرمجيّات.
+xpinstall-disabled = تثبيت البرمجيّات معطل حاليًا. انقر فعّل و حاول مجددًا.
 xpinstall-disabled-button =
     .label = فعّل
     .accesskey = ع
@@ -125,17 +125,17 @@ addon-confirm-install-some-unsigned-message =
 ##   $addonName (String): the add-on name.
 
 addon-install-error-network-failure = تعذر تنزيل الإضافة بسبب فشل في الاتصال مع.
-addon-install-error-incorrect-hash = تعذر تنصيب هذه الإضافة لأنها لم تطابق الإضافة المتوقعة { -brand-short-name }.
-addon-install-error-corrupt-file = تعذر تنصيب الإضافة المنزلة من هذا الموقع لأنها تبدو تالفة.
-addon-install-error-file-access = تعذر تنصيب الإضافة { $addonName } لأن { -brand-short-name } عجز عن تعديل الملف المطلوب.
-addon-install-error-not-signed = منع { -brand-short-name } هذا الموقع من تنصيب إضافة لم يتحقق منها.
+addon-install-error-incorrect-hash = تعذر تثبيت هذه الإضافة لأنها لم تطابق الإضافة المتوقعة { -brand-short-name }.
+addon-install-error-corrupt-file = تعذر تثبيت الإضافة المنزلة من هذا الموقع لأنها تبدو تالفة.
+addon-install-error-file-access = تعذر تثبيت الإضافة { $addonName } لأن { -brand-short-name } عجز عن تعديل الملف المطلوب.
+addon-install-error-not-signed = منع { -brand-short-name } هذا الموقع من تثبيت إضافة لم يتحقق منها.
 addon-install-error-invalid-domain = تعذر تثبيت إضافة { $addonName } من هذا المكان.
-addon-local-install-error-network-failure = تعذر تنصيب هذه الإضافة بسبب عطل في نظام الملفات.
-addon-local-install-error-incorrect-hash = تعذر تنصيب هذه الإضافة لأنها لم تتوافق مع توقعات { -brand-short-name }.
-addon-local-install-error-corrupt-file = تعذر تنصيب هذه الإضافة لأنها تبدو تالفة.
-addon-local-install-error-file-access = تعذر تنصيب الإضافة { $addonName } لأن { -brand-short-name } عجز عن تعديل الملف المطلوب.
-addon-local-install-error-not-signed = تعذر تنصيب هذه الإضافة إذ لم يُتحقق منها.
+addon-local-install-error-network-failure = تعذر تثبيت هذه الإضافة بسبب عطل في نظام الملفات.
+addon-local-install-error-incorrect-hash = تعذر تثبيت هذه الإضافة لأنها لم تتوافق مع توقعات { -brand-short-name }.
+addon-local-install-error-corrupt-file = تعذر تثبيت هذه الإضافة لأنها تبدو تالفة.
+addon-local-install-error-file-access = تعذر تثبيت الإضافة { $addonName } لأن { -brand-short-name } عجز عن تعديل الملف المطلوب.
+addon-local-install-error-not-signed = تعذر تثبيت هذه الإضافة إذ لم يُتحقق منها.
 # Variables:
 #   $appVersion (String): the application version.
-addon-install-error-incompatible = تعذر تنصيب الإضافة { $addonName } لأنها غير متوافقة مع { -brand-short-name }‏ { $appVersion }.
-addon-install-error-blocklisted = تعذر تنصيب الإضافة { $addonName } بسبب احتمال كبير في تسببها لمشاكل في الأمن أو الثبات.
+addon-install-error-incompatible = تعذر تثبيت الإضافة { $addonName } لأنها غير متوافقة مع { -brand-short-name }‏ { $appVersion }.
+addon-install-error-blocklisted = تعذر تثبيت الإضافة { $addonName } بسبب احتمال كبير في تسببها لمشاكل في الأمن أو الثبات.

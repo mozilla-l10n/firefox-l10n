@@ -110,9 +110,9 @@ permissions-exceptions-saved-logins-desc = لن تُحفظ جلسات الولو
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = مواقع الوِب المسموح لها - تنصيب الإضافات
+    .title = مواقع الوِب المسموح لها - تثبيت الإضافات
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = يمكنك تحديد أي مواقع يسمح لها بتنصيب إضافات. اكتب العنوان الكامل للموقع الذي تريد السماح له و اضغط اسمح.
+permissions-exceptions-addons-desc = يمكنك تحديد أي مواقع يسمح لها بتثبيت إضافات. اكتب العنوان الكامل للموقع الذي تريد السماح له و اضغط اسمح.
 
 ## Site Permissions - Autoplay
 

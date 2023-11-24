@@ -8,12 +8,10 @@
 ## Variables
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
-opensearch-error-duplicate-title = خطأ في التنصيب
-opensearch-error-duplicate-desc = تعذر على { -brand-short-name } تنصيب ملحق البحث من ”{ $location-url }“ بسبب وجود محرك بحث له نفس الاسم.
-
+opensearch-error-duplicate-title = خطأ في التثبيت
+opensearch-error-duplicate-desc = تعذر على { -brand-short-name } تثبيت ملحق البحث من ”{ $location-url }“ بسبب وجود محرك بحث له نفس الاسم.
 opensearch-error-format-title = تنسيق غير سليم
-opensearch-error-format-desc = تعذّر على { -brand-short-name } تنصيب محرك البحث من: { $location-url }
-
+opensearch-error-format-desc = تعذّر على { -brand-short-name } تثبيت محرك البحث من: { $location-url }
 opensearch-error-download-title = خطأ في التنزيل
 opensearch-error-download-desc = تعذر على { -brand-short-name } تحميل ملحق البحث من: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = تعذر على { -brand-short-name } تحمي�
 
 searchbar-submit =
     .tooltiptext = أرسل البحث
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = ابحث
-
 searchbar-icon =
     .tooltiptext = ابحث
 

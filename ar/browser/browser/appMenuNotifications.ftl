@@ -36,8 +36,7 @@ appmenu-update-other-instance =
     .buttonaccesskey = د
     .secondarybuttonlabel = ليس الآن
     .secondarybuttonaccesskey = ل
-appmenu-update-other-instance-message = يتوفّر تحديث { -brand-shorter-name } جديد، لكن تعذّر تنصيبه بسبب تشغيل نسخة أخرى من { -brand-shorter-name }. أغلِق هذه النسخة لمتابعة التحديث، أو اختر التحديث على أية حال (قد لا تعمل النسخة الأخرى كما ينبغي حتّى تعيد تشغيلها).
-
+appmenu-update-other-instance-message = يتوفّر تحديث { -brand-shorter-name } جديد، لكن تعذّر تثبيته بسبب تشغيل نسخة أخرى من { -brand-shorter-name }. أغلِق هذه النسخة لمتابعة التحديث، أو اختر التحديث على أية حال (قد لا تعمل النسخة الأخرى كما ينبغي حتّى تعيد تشغيلها).
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = حسنا
     .buttonaccesskey = ح
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = أدِر الإضافات والسمات �
 appmenu-addon-post-install-incognito-checkbox =
     .label = اسمح لهذا الامتداد بأن يعمل في النوافذ الخاصة
     .accesskey = س
-    
 appmenu-new-tab-controlled-changes =
     .label = تغيّرت صفحة اللسان الجديد.
     .buttonlabel = أبقِ التغييرات
