@@ -245,6 +245,13 @@ device-migration-fxa-spotlight-header = Staršy rěd wužywaś?
 device-migration-fxa-spotlight-body = Zawěsććo swóje daty, až njeby wy wažne informacije ako cytańske znamjenja a groidła zgubił — pśedewšym, jolic k nowemu rědoju pśejźośo.
 device-migration-fxa-spotlight-primary-button = Kak mógu swóje daty zawěsćiś
 device-migration-fxa-spotlight-link = Pózdźej dopomnjeś
+device-migration-fxa-spotlight-heavy-user-header = Njezabywajśo swóje daty zawěsćiś
+device-migration-fxa-spotlight-heavy-user-body = Zawěsććo, až se wažne informacije – na pśikład cytańske znamjenja a gronidła – aktualizěruju a na wšych wašych rědach šćitaju.
+device-migration-fxa-spotlight-heavy-user-primary-button = Prědne kšace
+device-migration-fxa-spotlight-older-device-body = Konto waše wažne informacije aktualizěrujo a na kuždem rěźe šćita, z kótarymž zwězujośo.
+device-migration-fxa-spotlight-older-device-primary-button = Konto załožyś
+device-migration-fxa-spotlight-getting-new-device-header = Naźejaśo se na nowy rěd toś tu sezonu?
+device-migration-fxa-spotlight-getting-new-device-body = Zawěsććo něnto swóje daty, aby pśigótowany był, gaž waš rěd dojźo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kak mógu swóje daty zawěsćiś
 
 ## Set as Default PDF Reader Infobar

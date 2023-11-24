@@ -37,3 +37,4 @@ report-broken-site-panel-report-sent-label = Waša rozpšawa jo se pósłała
 report-broken-site-panel-report-sent-header =
     .label = Waša rozpšawa jo se pósłała
     .title = Waša rozpšawa jo se pósłała
+report-broken-site-panel-report-sent-text = Wjeliki źěk, až { -brand-product-name } pomagaśo, až buźo web wěcej wótwórjony, pśistupny a lěpšy.

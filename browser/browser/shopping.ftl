@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Nowe informacije, kótarež se maju pśeglědowaś
 shopping-message-bar-warning-stale-analysis-button = Něnto kontrolěrowaś
-shopping-message-bar-generic-error-title2 = Tuchylu informacije njejsu k dispoziciji
-shopping-message-bar-generic-error-message = Źěłamy na rozwězanju toś togo problema. Pśiźćo pšosym skóro zasej mimo.
-shopping-message-bar-warning-not-enough-reviews-title = Hyšći njejo dosć pógódnośenjow
-shopping-message-bar-warning-not-enough-reviews-message2 = Gaž toś ten produkt ma wěcej pógódnośenjow, móžomy jich kwalitu kontrolěrowaś.
-shopping-message-bar-warning-product-not-available-title = Produkt njejo k dispoziciji
-shopping-message-bar-warning-product-not-available-message2 = Jolic wiźiśo, až toś ten produkt jo zasej na skłaźe, dajśo to k wěsći a buźomy na kontrolěrowanju pógódnośenjow źěłaś.
-shopping-message-bar-warning-product-not-available-button = K wěsći daś, až toś ten produkt jo zasej na skłaźe
-shopping-message-bar-thanks-for-reporting-title = Wjeliki źěk za powěźeńku!
-shopping-message-bar-thanks-for-reporting-message2 = My dejali w běgu 24 góźin informacije wó pógódnośenjach toś togo produkta měś. Pśiźćo pšosym mimo.
-shopping-message-bar-warning-product-not-available-reported-title2 = Informacije skóro pśidu
-shopping-message-bar-warning-product-not-available-reported-message2 = My dejali w běgu 24 góźin informacije wó pógódnośenjach toś togo produkta měś. Pśiźćo pšosym mimo.
 shopping-message-bar-generic-error =
     .heading = Tuchylu informacije njejsu k dispoziciji
     .message = Źěłamy na rozwězanju toś togo problema. Pśiźćo pšosym skóro zasej mimo.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = My dejali w běgu 24 góźin informacije wó pógódnośenjach toś togo produkta měś. Pśiźćo pšosym mimo.
 shopping-message-bar-analysis-in-progress-title2 = Kontrola kwalitu pógódnośenjow
 shopping-message-bar-analysis-in-progress-message2 = To mógło na 60 sekundow traś.
-shopping-message-bar-page-not-supported-title = Njamóžomy toś te pógódnośenja pśeglědowaś
-shopping-message-bar-page-not-supported-message = Bóžko  njamóžomy kwalitu pógódnośenja za wěste produktowe typy kontrolěrowaś. Na pśikład za darjeńske kórty a tšugajuce wideo, muziku a graśa.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Kontrola kwality pógódnośenja ({ $percentage } %)
 shopping-message-bar-page-not-supported =
     .heading = Njamóžomy toś te pógódnośenja pśeglědowaś
     .message = Bóžko  njamóžomy kwalitu pógódnośenja za wěste produktowe typy kontrolěrowaś. Na pśikład za darjeńske kórty a tšugajuce wideo, muziku a graśa.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Nastajenja
 shopping-settings-recommendations-toggle =
     .label = Wabjenje w kontroli pógódnośenjow pokazaś
-shopping-settings-recommendations-learn-more = Buźośo wótergi wabjenje za relewantne produkty wiźeś. Wšykne wabjeńske anonse našym standardam za kwalitu pógódnośenjow wótpowěduju. <a data-l10n-name="review-quality-url">Dalšne informacije</a>
 shopping-settings-recommendations-learn-more2 = Buźośo wótergi wabjenje za relewantne produkty wiźeś. Wabimy jano za produkty ze spušćobnymi pógódnośenjami. <a data-l10n-name="review-quality-url">Dalšne informacije</a>
 shopping-settings-opt-out-button = Kontrolu pógódnośenjow znjemóžniś
 powered-by-fakespot = Kontrola pógódnośenjow se wót <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name } spěchujo</a>.
@@ -181,7 +170,6 @@ shopping-survey-q2-radio-3-label = Njewěm
 shopping-survey-next-button-label = Dalej
 shopping-survey-submit-button-label = Wótpósłaś
 shopping-survey-terms-link = Wužywańske wuměnjenja
-shopping-survey-thanks-message = Źěkujomy se za waš komentar!
 shopping-survey-thanks =
     .heading = Źěkujomy se za waš komentar!
 
@@ -198,12 +186,6 @@ shopping-callout-closed-not-opted-in-subtitle = Dajśo kontroli pógódnośenjow
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Cytajśo naš dowěry gódny pśewodnik wó pógódnośenjach produktow
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Glědajśo, kak spušćobne produktowe pógódnośenja su na <b>{ $currentSite }</b>, nježli až kupujośo. Kontrola pógódnośenjow, eksperimentalna funkcija wót { -vendor-short-name }, jo w { -brand-product-name } zatwarjona – a funkcioněrujo teke na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
