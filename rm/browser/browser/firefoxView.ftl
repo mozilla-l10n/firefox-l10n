@@ -207,9 +207,6 @@ firefoxview-recentlyclosed-empty-header = Serrà memia svelt in tab?
 firefoxview-recentlyclosed-empty-description = Qua vegns ti a chattar ils tabs serrads dacurt, uschia che ti pos reavrir mintgin en in batterdegl.
 firefoxview-recentlyclosed-empty-description-two = Per chattar tabs serrads gia daditg, consultescha tia <a data-l10n-name="history-url">cronologia da navigaziun</a>.
 
-##
-
-
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Nagins tabs averts sin quest apparat
