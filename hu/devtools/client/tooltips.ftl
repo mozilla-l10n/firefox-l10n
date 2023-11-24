@@ -92,3 +92,10 @@ css-compatibility-deprecated-supported-message = A(z) <strong>{ $property }</str
 css-compatibility-experimental-message = A(z) <strong>{ $property }</strong> egy kísérleti tulajdonság. A következő böngészőkben nem támogatott:
 css-compatibility-experimental-supported-message = A(z) <strong>{ $property }</strong> egy kísérleti tulajdonság.
 css-compatibility-learn-more-message = <span data-l10n-name="link">További tudnivalók</span> a(z) <strong>{ $rootProperty }</strong> tulajdonságról
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Ez a választó nem korlátozott <strong>:has()</strong> paramétert használ, amely lassú lehet
