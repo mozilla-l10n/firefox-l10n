@@ -243,6 +243,8 @@ device-migration-fxa-spotlight-heavy-user-header = Ne felejtsen el biztonsági m
 device-migration-fxa-spotlight-heavy-user-body = Győződjön meg arról, hogy a fontos információk – mint a könyvjelzők és jelszavak – legyenek naprakészek és védettek az összes eszközén.
 device-migration-fxa-spotlight-heavy-user-primary-button = Első lépések
 device-migration-fxa-spotlight-older-device-header = Nyugalom, a { -brand-product-name }tól
+device-migration-fxa-spotlight-older-device-body = Egy fiók naprakészen tartja a fontos információit, és védi őket az összes csatlakoztatott eszközén.
+device-migration-fxa-spotlight-older-device-primary-button = Fiók létrehozása
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hogyan kell biztonsági mentést készíteni az adatokról
 
 ## Set as Default PDF Reader Infobar
