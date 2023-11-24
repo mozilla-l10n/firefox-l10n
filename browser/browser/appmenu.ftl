@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Công cụ của trình duyệt
 appmenu-developer-tools-extensions =
     .label = Tiện ích mở rộng dành cho nhà phát triển
+appmenuitem-report-broken-site =
+    .label = Báo cáo trang web bị hỏng
