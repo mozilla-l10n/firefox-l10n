@@ -203,6 +203,8 @@ cfr-cbh-confirm-button = Refuser les bannières de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Plus tard
     .accesskey = P
+cookie-banner-blocker-cfr-header = { -brand-short-name } vient de bloquer des cookies pour vous
+cookie-banner-blocker-cfr-body = Nous refusons automatiquement beaucoup de demandes de dépôt de cookies pour compliquer la tâche des sites qui veulent vous pister.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -236,6 +238,8 @@ device-migration-fxa-spotlight-header = Vous utilisez un appareil plus ancien ?
 device-migration-fxa-spotlight-body = Sauvegardez vos données pour vous assurer de ne pas perdre d’informations importantes comme des marque-pages ou des mots de passe, surtout si vous changez d’appareil.
 device-migration-fxa-spotlight-primary-button = Comment sauvegarder mes données
 device-migration-fxa-spotlight-link = Me le rappeler plus tard
+device-migration-fxa-spotlight-heavy-user-header = N’oubliez pas de sauvegarder vos données
+device-migration-fxa-spotlight-older-device-primary-button = Créer un compte
 device-migration-fxa-spotlight-getting-new-device-primary-button = Comment sauvegarder mes données
 
 ## Set as Default PDF Reader Infobar
