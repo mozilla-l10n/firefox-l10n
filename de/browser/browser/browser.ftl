@@ -279,6 +279,9 @@ quickactions-cmd-plugins = Plugins
 # Opens the print dialog
 quickactions-print2 = Seite drucken
 quickactions-cmd-print = Drucken
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Seite als PDF speichern
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Privates Fenster öffnen
 quickactions-cmd-private = Privater Modus
@@ -560,8 +563,6 @@ urlbar-result-action-search-w-engine = Mit "{ $engine }" suchen
 urlbar-result-action-sponsored = Gesponsert
 urlbar-result-action-switch-tab = Zum Tab wechseln
 urlbar-result-action-visit = Aufrufen
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Aus der Zwischenablage aufrufen
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Aus der Zwischenablage aufrufen
 # Directs a user to press the Tab key to perform a search with the specified
