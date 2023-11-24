@@ -85,6 +85,7 @@ about-webauthn-auth-option-uvbioenroll = Biometrikus regisztrációs engedély
 about-webauthn-auth-option-authnrcfg = Hitelesítő konfigurációja
 about-webauthn-auth-option-uvacfg = Hitelesítő konfigurációs engedélye
 about-webauthn-auth-option-credmgmt = Hitelesítőadat-kezelés
+about-webauthn-auth-option-setminpinlength = PIN-kód minimális hosszának beállítása
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
