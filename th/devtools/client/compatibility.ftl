@@ -5,7 +5,7 @@
 
 ## Messages used as headers in the main pane
 
-compatibility-selected-element-header = องค์ประกอบที่ถูกเลือก
+compatibility-selected-element-header = อิลิเมนต์ที่ถูกเลือก
 compatibility-all-elements-header = ปัญหาทั้งหมด
 
 ## Message used as labels for the type of issue
@@ -38,11 +38,9 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] { $number } ครั้งที่ปรากฏ
     }
-
 compatibility-no-issues-found = ไม่พบปัญหาความเข้ากันได้
 compatibility-close-settings-button =
     .title = ปิดการตั้งค่า
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

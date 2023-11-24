@@ -42,7 +42,7 @@ options-inspector-draggable-properties-tooltip =
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = ใช้ตัวเน้นสีแบบง่ายขึ้นด้วย prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
-    .title = เปิดใช้งานตัวเน้นสีแบบง่ายเมื่อ prefers-reduced-motion เปิดใช้งาน วาดเส้นแทนสี่เหลี่ยมเติมสีรอบๆ องค์ประกอบที่เน้นสีไว้เพื่อหลีกเลี่ยงเอฟเฟกต์กะพริบ
+    .title = เปิดใช้งานตัวเน้นสีแบบง่ายเมื่อ prefers-reduced-motion เปิดใช้งาน วาดเส้นแทนสี่เหลี่ยมเติมสีรอบๆ อิลิเมนต์ที่เน้นสีไว้เพื่อหลีกเลี่ยงเอฟเฟกต์กะพริบ
 
 ## "Default Color Unit" options for the Inspector
 
