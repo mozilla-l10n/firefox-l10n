@@ -245,6 +245,7 @@ device-migration-fxa-spotlight-header = Staršy rěd wužywaś?
 device-migration-fxa-spotlight-body = Zawěsććo swóje daty, až njeby wy wažne informacije ako cytańske znamjenja a groidła zgubił — pśedewšym, jolic k nowemu rědoju pśejźośo.
 device-migration-fxa-spotlight-primary-button = Kak mógu swóje daty zawěsćiś
 device-migration-fxa-spotlight-link = Pózdźej dopomnjeś
+device-migration-fxa-spotlight-getting-new-device-primary-button = Kak mógu swóje daty zawěsćiś
 
 ## Set as Default PDF Reader Infobar
 
