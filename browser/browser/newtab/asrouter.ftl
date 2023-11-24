@@ -234,6 +234,7 @@ fxa-sync-cfr-secondary = Gogora iezadazu geroago
 device-migration-fxa-spotlight-header = Gailu zaharragoa darabilzu?
 device-migration-fxa-spotlight-primary-button = Nola egin nire datuen babeskopia
 device-migration-fxa-spotlight-link = Gogora iezadazu geroago
+device-migration-fxa-spotlight-getting-new-device-primary-button = Nola egin nire datuen babeskopia
 
 ## Set as Default PDF Reader Infobar
 
