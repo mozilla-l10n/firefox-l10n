@@ -18,6 +18,9 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-ab = Ilɣa inaflasen
+shopping-letter-grade-description-c = Axlaḍ n yilɣa inaflasen d yirinaflasen
+shopping-letter-grade-description-df = Ilɣa yirinaflasen
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -30,16 +33,18 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Talɣut tamaynut ara yettusneqden
 shopping-message-bar-warning-stale-analysis-button = Senqed tura
-shopping-message-bar-warning-not-enough-reviews-title = Ulac ddeqs n tamiwin akka tura
-shopping-message-bar-warning-product-not-available-title = Afaris ulac-it
-shopping-message-bar-thanks-for-reporting-title = Tanemmirt ɣef tuzna n uneqqis!
-shopping-message-bar-warning-product-not-available-reported-title2 = Talɣut i d-iteddun
+shopping-message-bar-analysis-in-progress-title2 = Adenqed n tɣara n yilɣa
 shopping-message-bar-analysis-in-progress-message2 = Aya yezmer ad yeṭṭef 60 tsinin.
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Tamuɣli s wazal-is seg yilɣa imaynuten
 shopping-highlight-price = Ssuma
 shopping-highlight-quality = Taɣara
+shopping-highlight-shipping = Tanemzagt
+shopping-highlight-competitiveness = Amḥizwer
+shopping-highlight-packaging = Akemmus
 
 ## Strings for show more card
 
@@ -50,18 +55,33 @@ shopping-show-less-button = Sken drus
 
 shopping-settings-label =
     .label = Iɣewwaren
+shopping-settings-recommendations-toggle =
+    .label = Sken adellel deg umsenqad n tamawt
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Aktazal yettwaseɣta
+shopping-adjusted-rating-unreliable-reviews = Yir alɣu yettwakkes
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = D acu-tt tneflest n yilɣa-a?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Amek ara nettguccul alɣu n tɣara
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Ldi Amsenqed n tamiwin
+shopping-sidebar-close-button2 =
+    .tooltiptext = Mdel amsenqad n teskant
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -78,11 +98,14 @@ shopping-settings-label =
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Ulac talɣut ɣef yilɣa-a akka ar tura
+shopping-unanalyzed-product-analyze-button = Senqed tɣara n yilɣa
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Ugar n tamawt
+ad-by-fakespot = Adellel sɣur { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
@@ -92,7 +115,6 @@ shopping-survey-q2-radio-3-label = Ur zriɣ ara
 shopping-survey-next-button-label = Aḍris
 shopping-survey-submit-button-label = Azen
 shopping-survey-terms-link = Tiwtilin n useqdec
-shopping-survey-thanks-message = Tanemmirt ɣef tekti yinek!
 shopping-survey-thanks =
     .heading = Tanemmirt ɣef tekti yinek!
 

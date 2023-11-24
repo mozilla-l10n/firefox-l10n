@@ -40,3 +40,5 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = Kra n yiseɣzaf ur yettusireg ara
+unified-extensions-mb-quarantined-domain-learn-more = Issin ugar
+    .aria-label = Issin ugar: Kra n yisiɣzaf ur ttusirgen ara
