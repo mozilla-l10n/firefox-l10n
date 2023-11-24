@@ -236,6 +236,15 @@ device-migration-fxa-spotlight-header = Sử dụng thiết bị cũ hơn?
 device-migration-fxa-spotlight-body = Sao lưu dữ liệu của bạn để đảm bảo bạn không bị mất thông tin quan trọng như dấu trang và mật khẩu — đặc biệt nếu bạn chuyển sang một thiết bị mới.
 device-migration-fxa-spotlight-primary-button = Cách sao lưu dữ liệu của tôi
 device-migration-fxa-spotlight-link = Nhắc tôi sau
+device-migration-fxa-spotlight-heavy-user-header = Đừng quên sao lưu dữ liệu của bạn
+device-migration-fxa-spotlight-heavy-user-body = Đảm bảo thông tin quan trọng — như dấu trang và mật khẩu — được cập nhật và bảo vệ trên tất cả các thiết bị của bạn.
+device-migration-fxa-spotlight-heavy-user-primary-button = Bắt đầu
+device-migration-fxa-spotlight-older-device-header = Yên tâm và tin tưởng, từ { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Tài khoản giúp thông tin quan trọng của bạn được cập nhật và bảo vệ trên mọi thiết bị bạn kết nối.
+device-migration-fxa-spotlight-older-device-primary-button = Tạo tài khoản
+device-migration-fxa-spotlight-getting-new-device-header = Chuẩn bị có thiết bị mới trong mùa này?
+device-migration-fxa-spotlight-getting-new-device-body = Hãy sao lưu dữ liệu của bạn ngay bây giờ để bạn có thể sẵn sàng sử dụng ngay khi có thiết bị mới đó.
+device-migration-fxa-spotlight-getting-new-device-primary-button = Làm thế nào để sao lưu dữ liệu của tôi
 
 ## Set as Default PDF Reader Infobar
 
