@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = การป้องกันการติดตามแบบพิเศษ
     .description = ปิดสำหรับไซต์นี้
     .aria-label = เปิดใช้งานการป้องกันสำหรับ { $host }
+protections-panel-etp-toggle-on =
+    .label = การป้องกันการติดตามแบบพิเศษ
+    .description = เปิดสำหรับไซต์นี้
+    .aria-label = การป้องกันการติดตามแบบพิเศษ: เปิดสำหรับ { $host }
+protections-panel-etp-toggle-off =
+    .label = การป้องกันการติดตามแบบพิเศษ
+    .description = ปิดสำหรับไซต์นี้
+    .aria-label = การป้องกันการติดตามแบบพิเศษ: ปิดสำหรับ { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ไซต์ไม่ทำงาน?
 # The heading/title of the sub-panel view
@@ -123,6 +131,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = การลดแบนเนอร์คุกกี้
+protections-panel-cookie-banner-blocker-header = ตัวปิดกั้นแบนเนอร์คุกกี้
 protections-panel-cookie-banner-handling-enabled = เปิดสำหรับไซต์นี้
 protections-panel-cookie-banner-handling-disabled = ปิดสำหรับไซต์นี้
 protections-panel-cookie-banner-handling-undetected = ไม่รองรับไซต์ในขณะนี้
@@ -132,6 +141,12 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = ต้องการปิดการลดแบนเนอร์คุกกี้สำหรับ { $host } หรือไม่?
 protections-panel-cookie-banner-view-turn-on-for-site = ต้องการเปิดการลดแบนเนอร์คุกกี้สำหรับไซต์นี้หรือไม่?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = ตัวปิดกั้นแบนเนอร์คุกกี้
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = ปิดตัวปิดกั้นแบนเนอร์คุกกี้สำหรับ { $host } หรือไม่?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = ปิดตัวปิดกั้นแบนเนอร์คุกกี้สำหรับไซต์นี้หรือไม่?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } จะล้างคุกกี้ของไซต์นี้และรีเฟรชหน้า การล้างคุกกี้ทั้งหมดอาจนำคุณออกจากระบบหรือล้างรถเข็นช็อปปิ้ง
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } จะพยายามปฏิเสธคำขอคุกกี้ทั้งหมดบนไซต์ที่รองรับโดยอัตโนมัติ
 protections-panel-cookie-banner-view-cancel = ยกเลิก

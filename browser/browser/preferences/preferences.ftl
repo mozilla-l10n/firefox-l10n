@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = บอกเว็บไซต์ไม่ให้ขายหรือแบ่งปันข้อมูลของฉัน
     .accesskey = บ
+non-technical-privacy-header = การกำหนดลักษณะความเป็นส่วนตัวของเว็บ
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -955,9 +956,13 @@ cookie-banner-handling-description = { -brand-short-name } จะพยายา
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = ตัวปิดกั้นแบนเนอร์คุกกี้
+cookie-banner-blocker-description = เมื่อมีไซต์ขอใช้คุกกี้ในโหมดการเรียกดูแบบส่วนตัว { -brand-short-name } จะปฏิเสธให้คุณโดยอัตโนมัติ ใช้ได้กับไซต์ที่รองรับเท่านั้น
 cookie-banner-learn-more = เรียนรู้เพิ่มเติม
 forms-handle-cookie-banners =
     .label = ลดแบนเนอร์คุกกี้
+cookie-banner-blocker-checkbox-label =
+    .label = ปฏิเสธแบนเนอร์คุกกี้โดยอัตโนมัติ
 
 ## Privacy Section - Address Bar
 
@@ -988,6 +993,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = คำสั่งด่วน
     .accesskey = ด
+addressbar-locbar-showrecentsearches-option =
+    .label = แสดงการค้นหาล่าสุด
+    .accesskey = ล
 addressbar-suggestions-settings = เปลี่ยนการกำหนดลักษณะสำหรับข้อเสนอแนะของเครื่องมือค้นหา
 addressbar-quickactions-learn-more = เรียนรู้เพิ่มเติม
 
@@ -997,6 +1005,10 @@ content-blocking-enhanced-tracking-protection = การป้องกัน�
 content-blocking-section-top-level-description = ตัวติดตามจะติดตามคุณทางออนไลน์เพื่อรวบรวมข้อมูลเกี่ยวกับพฤติกรรมการค้นหาและความสนใจของคุณ { -brand-short-name } ปิดกั้นตัวติดตามและสคริปต์ที่เป็นอันตรายอื่น ๆ จำนวนมาก
 content-blocking-learn-more = เรียนรู้เพิ่มเติม
 content-blocking-fpi-incompatibility-warning = คุณกำลังใช้ First Party Isolation (FPI) ซึ่งจะเขียนทับการตั้งค่าคุกกี้บางอย่างของ { -brand-short-name }
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = คุณกำลังใช้ Resist Fingerprinting (RFP) ซึ่งจะแทนที่การตั้งค่าการป้องกันการตรวจลายนิ้วมือของ { -brand-short-name } บางส่วน ซึ่งอาจทำให้บางไซต์ทำงานผิดพลาดได้
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
