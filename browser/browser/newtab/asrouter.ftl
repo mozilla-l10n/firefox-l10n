@@ -242,6 +242,7 @@ device-migration-fxa-spotlight-header = Používate staršie zariadenie?
 device-migration-fxa-spotlight-body = Zálohujte si údaje, aby ste nestratili dôležité informácie, ako sú záložky a heslá – najmä ak prejdete na nové zariadenie.
 device-migration-fxa-spotlight-primary-button = Ako zálohovať moje údaje
 device-migration-fxa-spotlight-link = Pripomenúť neskôr
+device-migration-fxa-spotlight-getting-new-device-primary-button = Ako zálohovať moje údaje
 
 ## Set as Default PDF Reader Infobar
 
