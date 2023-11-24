@@ -239,6 +239,12 @@ device-migration-fxa-spotlight-header = Está usando um dispositivo mais antigo?
 device-migration-fxa-spotlight-body = Faça backup de seus dados para garantir que você não perca informações importantes, como favoritos e senhas, especialmente se for mudar para um novo dispositivo.
 device-migration-fxa-spotlight-primary-button = Como fazer backup dos meus dados
 device-migration-fxa-spotlight-link = Lembrar mais tarde
+device-migration-fxa-spotlight-heavy-user-header = Não se esqueça de salvar seus dados
+device-migration-fxa-spotlight-heavy-user-body = Certifique-se de que informações importantes, como favoritos e senhas, estejam atualizadas e protegidas em todos os seus dispositivos.
+device-migration-fxa-spotlight-heavy-user-primary-button = Iniciar
+device-migration-fxa-spotlight-older-device-header = Tranquilidade, do { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Uma conta mantém suas informações importantes atualizadas e protegidas em qualquer dispositivo conectado.
+device-migration-fxa-spotlight-older-device-primary-button = Criar uma conta
 device-migration-fxa-spotlight-getting-new-device-primary-button = Como fazer backup dos meus dados
 
 ## Set as Default PDF Reader Infobar
