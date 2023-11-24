@@ -57,7 +57,7 @@ urlbar-identity-button =
 ## Tooltips for images appearing in the address bar
 
 urlbar-services-notification-anchor =
-    .tooltiptext = افتح لوحة رسائل التنصيب
+    .tooltiptext = افتح لوحة رسائل التثبيت
 urlbar-web-notification-anchor =
     .tooltiptext = غيّر ما إذا ما كنت تسمح باستلام تنبيهات من الموقع
 urlbar-midi-notification-anchor =
@@ -97,7 +97,7 @@ urlbar-autoplay-notification-anchor =
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = حفظ البيانات في مساحة تخزين دائمة
 urlbar-addons-notification-anchor =
-    .tooltiptext = افتح لوحة رسائل تنصيب الإضافات
+    .tooltiptext = افتح لوحة رسائل تثبيت الإضافات
 urlbar-tip-help-icon =
     .title = احصل على مُساعدة
 urlbar-search-tips-confirm = حسنًا، فهمت
@@ -555,8 +555,6 @@ urlbar-result-action-search-w-engine = ابحث مستخدمًا { $engine }
 urlbar-result-action-sponsored = نتيجة مموّلة
 urlbar-result-action-switch-tab = انتقل إلى اللسان
 urlbar-result-action-visit = زُر
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = زر من الحافظة
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables

@@ -152,6 +152,7 @@ spotlight-pin-primary-button =
         [macos] إبقِ في الإرساء
        *[other] ثبّت في شريط المهام
     }
+spotlight-pin-secondary-button = ليس الآن
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -173,6 +174,11 @@ mr2022-background-update-toast-text = جرب أحدث { -brand-short-name } ال
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = افتح { -brand-shorter-name } الآن
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = ذكّرني لاحقًا
 
 ## Firefox View CFR
 
@@ -188,6 +194,8 @@ firefoxview-cfr-body-v2 = استعد الألسنة المغلقة مؤخرًا�
 firefoxview-spotlight-promo-title = قل مرحبًا لـ { -firefoxview-brand-name }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = أتريد أن يكون هذا اللسان مفتوحا على هاتفك؟ أمسكها. أتحتاج ذلك الموقع الذي زرته للتو؟ ها قد عاد مع { -firefoxview-brand-name }.
+firefoxview-spotlight-promo-primarybutton = اطلع على طريقة عملها
+firefoxview-spotlight-promo-secondarybutton = تخطَّ
 
 ## Colorways expiry reminder CFR
 
@@ -241,14 +249,31 @@ device-migration-fxa-spotlight-header = هل تستخدم جهازًا قديم�
 device-migration-fxa-spotlight-body = انسخ بياناتك إحتياطياً لتتأكد من عدم خسارة المعلومات المهمة مثل العلامات وكلمات السر — خصوصاً إذا انتقلت إلى جهاز جديد.
 device-migration-fxa-spotlight-primary-button = كيفية عمل نسخة احتياطية من بياناتي
 device-migration-fxa-spotlight-link = ذكّرني لاحقًا
+device-migration-fxa-spotlight-heavy-user-primary-button = ابدأ
+device-migration-fxa-spotlight-older-device-header = راحة البال من { -brand-product-name }
+device-migration-fxa-spotlight-older-device-primary-button = أنشئ حسابًا
+device-migration-fxa-spotlight-getting-new-device-header = هل تأمل في الحصول على جهاز جديد هذا الموسم؟
 device-migration-fxa-spotlight-getting-new-device-primary-button = كيفية عمل نسخة احتياطية من بياناتي
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>هل تريد جعل { -brand-short-name } قارئ PDF الافتراضي؟</strong> استخدم { -brand-short-name } لقراءة وتحرير ملفات PDF المحفوظة على جهاز الكمبيوتر الخاص بك.
+pdf-default-notification-set-default-button =
+    .label = اجعله المبدئي
+pdf-default-notification-decline-button =
+    .label = ليس الآن
 
 ## Launch on login infobar notification
 
+launch-on-login-learnmore = اطّلع على المزيد
+launch-on-login-infobar-confirm-button = نعم، افتح { -brand-short-name }
+    .accesskey = ف
+launch-on-login-infobar-reject-button = ليس الآن
+    .accesskey = ن
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-reject-button = لا، شكرًا
+    .accesskey = { "" }

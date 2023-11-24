@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = الموقع القادم مخادع
 safeb-blocked-malware-page-title = قد تؤذي زيارة هذا الموقع حاسوبك
 safeb-blocked-unwanted-page-title = قد يحتوي هذا الموقع برنامج ضارة
 safeb-blocked-harmful-page-title = قد يحتوي هذا الموقع برمجيات خبيثة
-safeb-blocked-phishing-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول خداعك لفعل شيء خطير مثل تنصيب برمجيات أو كشف معلوماتك الشخصية مثل كلمات السر أو بطاقات الائتمان.
-safeb-blocked-malware-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول تنصيب برمجيات خبيثة قد تسرق معلوماتك الشخصية على الحاسوب أو تحذفها.
-safeb-blocked-unwanted-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول خداعك لتنصيب برمجيات تضرك في تصفح الوب (مثل تغيير صفحتك الرئيسية أو عرض إعلانات إضافية في المواقع التي تزورها).
+safeb-blocked-phishing-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول خداعك لفعل شيء خطير مثل تثبيت برمجيات أو كشف معلوماتك الشخصية مثل كلمات السر أو بطاقات الائتمان.
+safeb-blocked-malware-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول تثبيت برمجيات خبيثة قد تسرق معلوماتك الشخصية على الحاسوب أو تحذفها.
+safeb-blocked-unwanted-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول خداعك لتثبيت برمجيات تضرك في تصفح الوب (مثل تغيير صفحتك الرئيسية أو عرض إعلانات إضافية في المواقع التي تزورها).
 safeb-blocked-harmful-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول تثبيت تطبيقات خطرة تحاول سرقة معلوماتك أو حذفها (معلوماتك مثل الصور، وكلمات السر، والرسائل والبطاقات الائتمانية).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = تقرير من <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = عُد للسابق
 safeb-palm-see-details-label = اعرض التفاصيل
