@@ -239,6 +239,12 @@ device-migration-fxa-spotlight-header = Notarðu eldra tæki?
 device-migration-fxa-spotlight-body = Taktu öryggisafrit af gögnunum þínum til að tryggja að þú glatir ekki mikilvægum upplýsingum, eins og bókamerkjum og lykilorðum - sérstaklega ef þú skiptir yfir í nýtt tæki.
 device-migration-fxa-spotlight-primary-button = Hvernig á að taka öryggisafrit af gögnunum mínum
 device-migration-fxa-spotlight-link = Minna mig á seinna
+device-migration-fxa-spotlight-heavy-user-header = Ekki gleyma að taka öryggisafrit af gögnunum þínum
+device-migration-fxa-spotlight-heavy-user-body = Gakktu úr skugga um að mikilvægar upplýsingar - eins og bókamerki og lykilorð - séu uppfærðar og verndaðar í öllum tækjunum þínum.
+device-migration-fxa-spotlight-heavy-user-primary-button = Hefjast handa
+device-migration-fxa-spotlight-older-device-header = Hugarró, frá { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Reikningur heldur mikilvægum upplýsingum uppfærðum og vernduðum á hverju því tæki sem þú tengir.
+device-migration-fxa-spotlight-older-device-primary-button = Búa til reikning
 
 ## Set as Default PDF Reader Infobar
 
