@@ -60,7 +60,7 @@ shopping-message-bar-analysis-in-progress-title2 = Gwirio ansawdd yr adolygiadau
 shopping-message-bar-analysis-in-progress-message2 = Gall hyn gymryd tua 60 eiliad.
 # Variables:
 #  $percentage (Number) - The percentage complete that the analysis is, per our servers.
-shopping-message-bar-analysis-in-progress-with-amount = Wrthi'n gwirio ansawdd adolygu ( { $percent }%)
+shopping-message-bar-analysis-in-progress-with-amount = Wrthi'n gwirio ansawdd adolygu ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Methu gwirio’r adolygiadau hyn
     .message = Yn anffodus, nid oes modd i ni wirio ansawdd adolygu ar gyfer rhai mathau o gynnyrch. Er enghraifft, cardiau rhodd a ffrydio fideo, cerddoriaeth a gemau.
