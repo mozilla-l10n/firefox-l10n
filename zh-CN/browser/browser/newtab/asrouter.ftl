@@ -236,6 +236,7 @@ device-migration-fxa-spotlight-header = 使用的是旧设备？
 device-migration-fxa-spotlight-body = 备份您的数据，以确保书签和密码等重要数据安全无虞。在换到新设备前更是如此。
 device-migration-fxa-spotlight-primary-button = 如何备份数据
 device-migration-fxa-spotlight-link = 稍后提醒我
+device-migration-fxa-spotlight-getting-new-device-primary-button = 如何备份数据
 
 ## Set as Default PDF Reader Infobar
 
