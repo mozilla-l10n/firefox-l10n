@@ -238,6 +238,8 @@ device-migration-fxa-spotlight-header = Χρησιμοποιείτε παλαι�
 device-migration-fxa-spotlight-body = Δημιουργήστε αντίγραφα ασφαλείας των δεδομένων σας για να βεβαιωθείτε ότι δεν θα χάσετε σημαντικές πληροφορίες, όπως σελιδοδείκτες και κωδικούς πρόσβασης — ειδικά εάν μεταβείτε σε μια νέα συσκευή.
 device-migration-fxa-spotlight-primary-button = Δημιουργία αντιγράφων ασφαλείας δεδομένων
 device-migration-fxa-spotlight-link = Υπενθύμιση αργότερα
+device-migration-fxa-spotlight-heavy-user-primary-button = Έναρξη
+device-migration-fxa-spotlight-older-device-primary-button = Δημιουργία λογαριασμού
 device-migration-fxa-spotlight-getting-new-device-primary-button = Δημιουργία αντιγράφων ασφαλείας δεδομένων
 
 ## Set as Default PDF Reader Infobar
