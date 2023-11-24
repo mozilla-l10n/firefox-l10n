@@ -240,3 +240,15 @@ device-migration-fxa-spotlight-header = ᱢᱟᱨᱮ ᱥᱟᱫᱷᱚᱱ ᱵᱮ�
 device-migration-fxa-spotlight-body = ᱵᱩᱠᱢᱟᱨᱠ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱞᱮᱠᱷᱟ ᱟᱹᱰᱤ ᱡᱟᱹᱨᱩᱲ ᱡᱤᱱᱤᱥ ᱟᱞᱚ ᱟᱫᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱵᱮᱠᱚᱯ ᱢᱮ — ᱵᱤᱥᱮᱥ ᱛᱮ ᱚᱠᱚ ᱡᱷᱚᱜ ᱟᱢ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱵᱚᱫᱚᱞ ᱡᱷᱚᱜ ᱾
 device-migration-fxa-spotlight-primary-button = ᱤᱧᱟᱜ ᱰᱟᱴᱟ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱵᱮᱠᱚᱯᱟᱹᱧ
 device-migration-fxa-spotlight-link = ᱛᱟᱭᱚᱢ ᱛᱮ ᱵᱟᱛᱟᱣ ᱤᱧ ᱢᱮ
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = ᱵᱟᱝᱟ ᱥᱟᱨᱦᱟᱣ
+    .accesskey = N
