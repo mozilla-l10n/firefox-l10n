@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Neue Informationen zum Überprüfen
 shopping-message-bar-warning-stale-analysis-button = Jetzt prüfen
-shopping-message-bar-generic-error-title2 = Derzeit sind keine Informationen verfügbar
-shopping-message-bar-generic-error-message = Wir arbeiten an einer Lösung des Problems. Bitte schauen Sie bald wieder vorbei.
-shopping-message-bar-warning-not-enough-reviews-title = Noch nicht genügend Bewertungen
-shopping-message-bar-warning-not-enough-reviews-message2 = Wenn dieses Produkt mehr Bewertungen hat, können wir deren Qualität überprüfen.
-shopping-message-bar-warning-product-not-available-title = Produkt ist nicht verfügbar
-shopping-message-bar-warning-product-not-available-message2 = Wenn Sie sehen, dass dieses Produkt wieder auf Lager ist, melden Sie es und wir arbeiten an der Überprüfung der Bewertungen.
-shopping-message-bar-warning-product-not-available-button = Melden, dass dieses Produkt wieder auf Lager ist
-shopping-message-bar-thanks-for-reporting-title = Danke für die Meldung!
-shopping-message-bar-thanks-for-reporting-message2 = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
-shopping-message-bar-warning-product-not-available-reported-title2 = Informationen kommen bald
-shopping-message-bar-warning-product-not-available-reported-message2 = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
 shopping-message-bar-generic-error =
     .heading = Derzeit sind keine Informationen verfügbar
     .message = Wir arbeiten an einer Lösung des Problems. Bitte schauen Sie bald wieder vorbei.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
 shopping-message-bar-analysis-in-progress-title2 = Qualität der Bewertung wird überprüft
 shopping-message-bar-analysis-in-progress-message2 = Dies kann etwa 60 Sekunden dauern.
-shopping-message-bar-page-not-supported-title = Wir können diese Bewertungen nicht überprüfen
-shopping-message-bar-page-not-supported-message = Leider können wir die Qualität der Bewertungen für bestimmte Arten von Produkten nicht überprüfen. Zum Beispiel Geschenkkarten und Video-Streaming, Musik und Spiele.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Qualität der Bewertung wird überprüft ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Wir können diese Bewertungen nicht überprüfen
     .message = Leider können wir die Qualität der Bewertungen für bestimmte Arten von Produkten nicht überprüfen. Zum Beispiel Geschenkkarten und Video-Streaming, Musik und Spiele.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Einstellungen
 shopping-settings-recommendations-toggle =
     .label = Werbung im Rezensionsprüfer anzeigen
-shopping-settings-recommendations-learn-more = Sie sehen gelegentlich Anzeigen für relevante Produkte. Alle Anzeigen müssen unseren Qualitätsstandards für Bewertungen entsprechen. <a data-l10n-name="review-quality-url">Weitere Informationen</a>
 shopping-settings-recommendations-learn-more2 = Sie sehen gelegentlich Anzeigen für relevante Produkte. Wir bewerben nur Produkte mit vertrauenswürdigen Bewertungen. <a data-l10n-name="review-quality-url">Weitere Informationen</a>
 shopping-settings-opt-out-button = Rezensionsprüfer abschalten
 powered-by-fakespot = Der Rezensionsprüfer wird bereitgestellt von <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = Ich weiß nicht
 shopping-survey-next-button-label = Weiter
 shopping-survey-submit-button-label = Absenden
 shopping-survey-terms-link = Nutzungsbedingungen
-shopping-survey-thanks-message = Danke für Ihr Feedback!
 shopping-survey-thanks =
     .heading = Danke für Ihr Feedback!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Probieren Sie den Rezensionsprü
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Lesen Sie unseren vertrauenswürdigen Leitfaden zur Produktbewertung
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Sehen Sie sich vor dem Kauf an, wie zuverlässig die Produktbewertungen auf <b>{ $currentSite }</b> sind. Der Rezensionsprüfer, eine experimentelle Funktion von { -vendor-short-name }, ist direkt in { -brand-product-name } integriert – und funktioniert auch auf <b>{ $secondSite }</b> und <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
