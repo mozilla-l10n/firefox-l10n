@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Nowe informacije, kotrež so maja přepruwować
 shopping-message-bar-warning-stale-analysis-button = Nětko kontrolować
-shopping-message-bar-generic-error-title2 = Tuchwilu informacije k dispoziciji njejsu
-shopping-message-bar-generic-error-message = Dźěłamy na rozrisanju tutoho problema. Hladajće prošu bórze zaso za tym.
-shopping-message-bar-warning-not-enough-reviews-title = Hišće dosć pohódnoćenjow njeje
-shopping-message-bar-warning-not-enough-reviews-message2 = Hdyž tutón produkt ma wjace pohódnoćenjow, móžemy jich kwalitu kontrolować.
-shopping-message-bar-warning-product-not-available-title = Produkt k dispoziciji njeje
-shopping-message-bar-warning-product-not-available-message2 = Jeli widźiće, zo tutón produkt je zaso na składźe, zdźělće to a budźemy na kontrolowanju pohódnoćenjow dźěłać.
-shopping-message-bar-warning-product-not-available-button = Zdźělić, zo tutón produkt je zaso na składźe
-shopping-message-bar-thanks-for-reporting-title = Wulki dźak za zdźělenku!
-shopping-message-bar-thanks-for-reporting-message2 = My dyrbjeli w běhu 24 hodźin informacije wo pohódnoćenjach tutoho produkta měć. Přińdźće prošu nimo.
-shopping-message-bar-warning-product-not-available-reported-title2 = Informacije bórze přińdu
-shopping-message-bar-warning-product-not-available-reported-message2 = My dyrbjeli w běhu 24 hodźin informacije wo pohódnoćenjach tutoho produkta měć. Přińdźće prošu nimo.
 shopping-message-bar-generic-error =
     .heading = Tuchwilu informacije k dispoziciji njejsu
     .message = Dźěłamy na rozrisanju tutoho problema. Hladajće prošu bórze zaso za tym.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = My dyrbjeli w běhu 24 hodźin informacije wo pohódnoćenjach tutoho produkta měć. Přińdźće prošu nimo.
 shopping-message-bar-analysis-in-progress-title2 = Kontrola kwalitu pohódnoćenjow
 shopping-message-bar-analysis-in-progress-message2 = To móhło na 60 sekundow trać.
-shopping-message-bar-page-not-supported-title = Njemóžemy tute pohódnoćenja přepruwować
-shopping-message-bar-page-not-supported-message = Bohužel njemóžemy kwalitu pohódnoćenja za wěste produktowe typy kontrolować. Na přikład za darne karty a prudźace widejo, hudźbu a hry.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Kontrola kwality pohódnoćenja ({ $percentage } %)
 shopping-message-bar-page-not-supported =
     .heading = Njemóžemy tute pohódnoćenja přepruwować
     .message = Bohužel njemóžemy kwalitu pohódnoćenja za wěste produktowe typy kontrolować. Na přikład za darne karty a prudźace widejo, hudźbu a hry.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Nastajenja
 shopping-settings-recommendations-toggle =
     .label = Wabjenje w kontroli pohódnoćenjow pokazać
-shopping-settings-recommendations-learn-more = Budźeće hdys a hdys wabjenje za relewantne produkty widźeć. Wšě wabjenske anonsy našim standardam za kwalitu pohódnoćenjow wotpowěduja. <a data-l10n-name="review-quality-url">Dalše informacije</a>
 shopping-settings-recommendations-learn-more2 = Budźeće hdys a hdys wabjenje za relewantne produkty widźeć. Wabimy jenož za produkty ze spušćomnymi pohódnoćenjemi. <a data-l10n-name="review-quality-url">Dalše informacije</a>
 shopping-settings-opt-out-button = Kontrolu pohódnoćenjow znjemóžnić
 powered-by-fakespot = Kontrola pohódnoćenjow so wot <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name } spěchuje</a>.
@@ -181,7 +170,6 @@ shopping-survey-q2-radio-3-label = Njewěm
 shopping-survey-next-button-label = Dale
 shopping-survey-submit-button-label = Wotpósłać
 shopping-survey-terms-link = Wužiwanske wuměnjenja
-shopping-survey-thanks-message = Dźakujemy so za waš komentar!
 shopping-survey-thanks =
     .heading = Dźakujemy so za waš komentar!
 
@@ -198,12 +186,6 @@ shopping-callout-closed-not-opted-in-subtitle = Dajće kontroli pohódnoćenjow 
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Čitajće naš dowěry hódny přewodnik wo pohódnoćenjach produktow
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Hladajće, kak spušćomne produktowe pohódnoćenja su na <b>{ $currentSite }</b>, prjedy hač kupujeće. Kontrola pohódnoćenjow, eksperimentalna funkcija wot { -vendor-short-name }, je w { -brand-product-name } zatwarjena – a funguje tež na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
