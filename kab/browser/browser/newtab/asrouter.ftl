@@ -223,6 +223,10 @@ fxa-sync-cfr-secondary = Smekti-y-id ticki
 device-migration-fxa-spotlight-header = Aseqdec n yibenk aqbur?
 device-migration-fxa-spotlight-primary-button = Amek ara ḥerzeɣ isefka-w
 device-migration-fxa-spotlight-link = Smekti-y-id ticki
+device-migration-fxa-spotlight-heavy-user-primary-button = Bdu
+device-migration-fxa-spotlight-older-device-header = Lehna n uqerru, seg { -brand-product-name }
+device-migration-fxa-spotlight-older-device-primary-button = Rnu amiḍan
+device-migration-fxa-spotlight-getting-new-device-primary-button = Amek ara ḥerzeɣ isefka-w
 
 ## Set as Default PDF Reader Infobar
 
@@ -234,6 +238,8 @@ pdf-default-notification-decline-button =
 ## Launch on login infobar notification
 
 launch-on-login-learnmore = Issin ugar
+launch-on-login-infobar-confirm-button = Ih, ldi { -brand-short-name }
+    .accesskey = I
 launch-on-login-infobar-reject-button = Mačči tura
     .accesskey = M
 

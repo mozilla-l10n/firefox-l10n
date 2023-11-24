@@ -25,6 +25,7 @@ firefoxview-tabpickup-progress-label = Yemmed { $percentValue }%
 firefoxview-tabpickup-step-signin-header = Ttnaqal gar yibenkan s tefses
 firefoxview-tabpickup-step-signin-description = I wakken ad d-tawiḍ accaren n tiliɣri-inek·inem ɣer dagi, qqen qbel neɣ rnu amiḍan.
 firefoxview-tabpickup-step-signin-primarybutton = Kemmel
+firefoxview-syncedtabs-signin-primarybutton = Qqen neɣ kcem
 firefoxview-tabpickup-adddevice-header = Mtawi { -brand-product-name } ɣef tiliɣri-inek·inem neɣ ɣef tfelwit n uselken
 firefoxview-tabpickup-adddevice-description = Sader { -brand-product-name } i uziraz syen qqen ɣer-s.
 firefoxview-tabpickup-adddevice-learn-how = Issin amek
@@ -136,6 +137,29 @@ firefoxview-opentabs-focus-tab =
     .title = Uɣal ɣer yiccer-a
 firefoxview-show-more = Sken ugar
 firefoxview-show-less = Sken drus
+firefoxview-search-text-box-clear-button =
+    .title = Sfeḍ
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Nadi deg umazray
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Nadi accaren yettwamedlen melmi kan
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Nadi igmaḍ i “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } usmel
+       *[other] { $count } yismal
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Ulac igmaḍ i “{ $query }”
 firefoxview-sort-history-by-date-label = Asmizzwer s wazemz
 firefoxview-sort-history-by-site-label = Smizzwer s usmel
 # Variables:
@@ -182,6 +206,7 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Kter-d azray seg yiminig niḍen
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 

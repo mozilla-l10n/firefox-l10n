@@ -944,6 +944,7 @@ cookie-banner-handling-header = Asenqes n yiɣarracen n yinagan n tuqqna
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Amsewḥel n yiɣarracen n yinagan n tuqqna
 cookie-banner-learn-more = Issin ugar
 forms-handle-cookie-banners =
     .label = Senqes iɣarracen n yinagan n tuqqna

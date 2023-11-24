@@ -12,6 +12,7 @@ confirmation-hint-password-saved = Awal uffir yettwakles!
 confirmation-hint-password-created = Awal uffir yettwasekles
 confirmation-hint-password-updated = Awal uffir yettuleqqem
 confirmation-hint-address-created = Tansa yettwasekles
+confirmation-hint-address-updated = Tansa tettwaleqqem
 confirmation-hint-credit-card-created = Takarḍa tettwasekles
 confirmation-hint-credit-card-updated = Takarḍa tettwaleqqem
 confirmation-hint-pin-tab = Ittwasenten!

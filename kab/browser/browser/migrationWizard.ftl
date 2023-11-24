@@ -52,6 +52,7 @@ migration-imported-edge-reading-list = Tabdart n tɣuṛi (seg Safari)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-instructions-step1 = Fren “Kemmel”
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -208,6 +209,23 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } usiɣzef
+       *[other] { $quantity } yisiɣzaf
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } n { $quantity } yisiɣzaf
 
 ##
 
