@@ -12,33 +12,25 @@ cfr-doorhanger-feature-heading = Preporučena funkcija
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zašto ovo vidim
-
 cfr-doorhanger-extension-cancel-button = Ne sada
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Dodaj
     .accesskey = D
-
 cfr-doorhanger-extension-manage-settings-button = Upravljaj postavkama preporuka
     .accesskey = U
-
 cfr-doorhanger-extension-never-show-recommendation = Ne prikazuj ovu preporuku
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Saznaj više
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = od { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Preporuka
 cfr-doorhanger-extension-notification2 = Preporuka
     .tooltiptext = Preporuka dodatka
     .a11y-announcement = Dostupna je preporuka dodatka
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Preporuka
@@ -87,11 +79,9 @@ cfr-protections-panel-link-text = Saznaj više
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funkcija:
-
 cfr-whatsnew-button =
     .label = Što je novo
     .tooltiptext = Što je novo
-
 cfr-whatsnew-release-notes-link-text = Pročitaj napomene o izdanju
 
 ## Enhanced Tracking Protection Milestones
@@ -119,16 +109,12 @@ cfr-doorhanger-doh-primary-button-2 = U redu
 cfr-doorhanger-doh-secondary-button = Deaktiviraj
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videozapisi na ovoj stranici možda se neće ispravno reproducirati na ovoj { -brand-short-name } verziji. Za potpunu podršku za videozapise, nadogradi { -brand-short-name } sada.
 cfr-doorhanger-video-support-header = Nadogradi { -brand-short-name } za reprodukciju videozapisa
 cfr-doorhanger-video-support-primary-button = Nadogradi sada
     .accesskey = N
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -143,8 +129,6 @@ spotlight-public-wifi-vpn-primary-button = Sačuvaj privatnost uz { -mozilla-vpn
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ne sada
     .accesskey = N
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -170,13 +154,11 @@ spotlight-pin-secondary-button = Ne sada
 
 mr2022-background-update-toast-title = Novi { -brand-short-name }. Privatniji. Manje programa za praćenje. Bez kompromisa.
 mr2022-background-update-toast-text = Isprobaj sada najnoviji { -brand-short-name }, nadograđen našom dosad najjačom zaštitom od praćenja.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Otvori { -brand-shorter-name } sada
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -199,7 +181,6 @@ firefoxview-spotlight-promo-secondarybutton = Preskoči
 
 colorways-cfr-primarybutton = Odaberi kolorit
     .accesskey = O
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Oboji preglednik s ekskluzivnim { -brand-short-name } nijansama inspiriranim glasovima koji su promijenili kulturu.
 
@@ -224,3 +205,14 @@ fxa-sync-cfr-secondary = Podsjeti me kasnije
 device-migration-fxa-spotlight-header = Koristiš stariji uređaj?
 device-migration-fxa-spotlight-primary-button = Kako napraviti sigurnosnu kopiju mojih podataka
 device-migration-fxa-spotlight-link = Podsjeti me kasnije
+device-migration-fxa-spotlight-getting-new-device-primary-button = Kako napraviti sigurnosnu kopiju mojih podataka
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
