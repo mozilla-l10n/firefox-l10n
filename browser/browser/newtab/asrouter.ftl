@@ -239,6 +239,7 @@ device-migration-fxa-spotlight-header = Verwenden Sie ein älteres Gerät?
 device-migration-fxa-spotlight-body = Sichern Sie Ihre Daten, um wichtige Informationen wie Lesezeichen und Passwörter nicht zu verlieren – insbesondere, wenn Sie zu einem neuen Gerät wechseln.
 device-migration-fxa-spotlight-primary-button = Wie die Datensicherung funktioniert
 device-migration-fxa-spotlight-link = Später erinnern
+device-migration-fxa-spotlight-getting-new-device-primary-button = Wie die Datensicherung funktioniert
 
 ## Set as Default PDF Reader Infobar
 
