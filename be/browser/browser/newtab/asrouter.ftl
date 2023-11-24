@@ -240,6 +240,7 @@ device-migration-fxa-spotlight-header = Карыстаецеся старой п
 device-migration-fxa-spotlight-body = Зрабіце рэзервовую копію дадзеных, каб упэўніцца, што вы не страціце важную інфармацыю, такую як закладкі і паролі, асабліва калі вы пераходзіце на новую прыладу.
 device-migration-fxa-spotlight-primary-button = Як зрабіць рэзервовую копію маіх дадзеных
 device-migration-fxa-spotlight-link = Нагадаць пазней
+device-migration-fxa-spotlight-getting-new-device-primary-button = Як зрабіць рэзервовую копію маіх дадзеных
 
 ## Set as Default PDF Reader Infobar
 
