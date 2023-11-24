@@ -149,6 +149,7 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = ปิดตั
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = ปิดตัวปิดกั้นแบนเนอร์คุกกี้สำหรับไซต์นี้หรือไม่?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } จะล้างคุกกี้ของไซต์นี้และรีเฟรชหน้า การล้างคุกกี้ทั้งหมดอาจนำคุณออกจากระบบหรือล้างรถเข็นช็อปปิ้ง
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } จะพยายามปฏิเสธคำขอคุกกี้ทั้งหมดบนไซต์ที่รองรับโดยอัตโนมัติ
+protections-panel-cookie-banner-blocker-view-turn-on-description = เปิดใช้งานแล้ว { -brand-short-name } จะพยายามปฏิเสธแบนเนอร์คุกกี้บนไซต์นี้โดยอัตโนมัติ
 protections-panel-cookie-banner-view-cancel = ยกเลิก
 protections-panel-cookie-banner-view-turn-off = ปิด
 protections-panel-cookie-banner-view-turn-on = เปิด

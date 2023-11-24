@@ -41,8 +41,9 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = ส่วนขยายบางตัวไม่ได้รับอนุญาต
 unified-extensions-mb-quarantined-domain-message = ไซต์นี้อนุญาตเฉพาะส่วนขยายบางตัวที่ตรวจสอบโดย { -vendor-short-name } เท่านั้นเพื่อปกป้องข้อมูลของคุณ
-unified-extensions-mb-quarantined-domain-message-2 = เพื่อเป็นการปกป้องข้อมูลของคุณ ส่วนขยายบางอย่างจะไม่สามารถอ่านหรือเปลี่ยนแปลงข้อมูลบนไซต์นี้ได้ โปรดใช้การตั้งค่าส่วนขยายเพื่ออนุญาตบนไซต์ที่ถูกจำกัดโดย { -vendor-short-name }
 # .heading is processed by moz-message-bar to be used as a heading attribute
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = ส่วนขยายบางตัวไม่ได้รับอนุญาต
     .message = เพื่อเป็นการปกป้องข้อมูลของคุณ ส่วนขยายบางอย่างจะไม่สามารถอ่านหรือเปลี่ยนแปลงข้อมูลบนไซต์นี้ได้ โปรดใช้การตั้งค่าส่วนขยายเพื่ออนุญาตบนไซต์ที่ถูกจำกัดโดย { -vendor-short-name }
+unified-extensions-mb-quarantined-domain-learn-more = เรียนรู้เพิ่มเติม
+    .aria-label = เรียนรู้เพิ่มเติม: ไม่อนุญาตให้ใช้ส่วนขยายบางตัว
