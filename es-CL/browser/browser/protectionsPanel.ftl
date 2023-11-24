@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Desactivar
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Activar
+protections-panel-report-broken-site =
+    .label = Informar sitio que no carga
+    .title = Informar sitio que no carga
