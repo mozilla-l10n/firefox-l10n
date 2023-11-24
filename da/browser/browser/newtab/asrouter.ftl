@@ -236,6 +236,7 @@ device-migration-fxa-spotlight-header = Bruger du en ældre enhed?
 device-migration-fxa-spotlight-body = Tag en sikkerhedskopi af dine data for at sikre, at du ikke mister vigtige oplysninger som bogmærker og adgangskoder - især hvis du skifter til en ny enhed.
 device-migration-fxa-spotlight-primary-button = Sådan sikkerhedskopierer du dine data
 device-migration-fxa-spotlight-link = Påmind mig senere
+device-migration-fxa-spotlight-getting-new-device-primary-button = Sådan sikkerhedskopierer du dine data
 
 ## Set as Default PDF Reader Infobar
 
