@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Браузер құралдары
 appmenu-developer-tools-extensions =
     .label = Әзірлеушілерге арналған кеңейтулер
+appmenuitem-report-broken-site =
+    .label = Сынған сайт туралы хабарлау
