@@ -27,9 +27,9 @@ options-select-dev-tools-theme-label = ชุดรูปแบบ
 # The heading
 options-context-inspector = ตัวตรวจสอบ
 # The label for the checkbox option to show user agent styles
-options-show-user-agent-styles-label = แสดงลักษณะของเบราว์เซอร์
+options-show-user-agent-styles-label = แสดงสไตล์ของเบราว์เซอร์
 options-show-user-agent-styles-tooltip =
-    .title = การเปิดสิ่งนี้จะแสดงลักษณะเริ่มต้นที่ถูกโหลดโดยเบราว์เซอร์
+    .title = การเปิดตัวเลือกนี้จะแสดงสไตล์เริ่มต้นที่เบราว์เซอร์ได้ทำการโหลดขึ้นมา
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = ตัดทอนแอตทริบิวต์ DOM
 options-collapse-attrs-tooltip =
@@ -57,7 +57,7 @@ options-default-color-unit-name = ชื่อสี
 ## Style Editor section
 
 # The heading
-options-styleeditor-label = ตัวแก้ไขลักษณะ
+options-styleeditor-label = ตัวแก้ไขสไตล์
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = เติมเต็ม CSS อัตโนมัติ
 options-stylesheet-autocompletion-tooltip =
