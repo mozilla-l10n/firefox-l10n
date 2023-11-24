@@ -239,11 +239,11 @@ device-migration-fxa-spotlight-link = 待會提醒我
 device-migration-fxa-spotlight-heavy-user-header = 別忘記備份您的資料
 device-migration-fxa-spotlight-heavy-user-body = 確保您所有的裝置上，隨時都能有最新、同步的書籤、密碼等重要資訊。
 device-migration-fxa-spotlight-heavy-user-primary-button = 開始使用
-device-migration-fxa-spotlight-older-device-header = 請放心，來自 { -brand-product-name }
+device-migration-fxa-spotlight-older-device-header = 移動資料免擔心，來自 { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = 註冊帳號後，可確保您任何連結起來的裝置上，都能有最新、同步的重要資訊。
 device-migration-fxa-spotlight-older-device-primary-button = 註冊帳號
-device-migration-fxa-spotlight-getting-new-device-header = 佳節期間，會買新裝置嗎？
-device-migration-fxa-spotlight-getting-new-device-body = 現在就開始備份資料，這樣收到裝置時就可以立即還原。
+device-migration-fxa-spotlight-getting-new-device-header = 佳節期間，想換新機嗎？
+device-migration-fxa-spotlight-getting-new-device-body = 現在就開始備份資料，這樣收到裝置時就可以立即同步移轉。
 device-migration-fxa-spotlight-getting-new-device-primary-button = 如何備份我的資料
 
 ## Set as Default PDF Reader Infobar
