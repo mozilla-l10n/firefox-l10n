@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Informar sitio que no carga
 report-broken-site-panel-header =
     .label = Informar sitio que no carga
     .title = Informar sitio que no carga
+report-broken-site-panel-intro = Ayuda a que { -brand-product-name } sea mejor para todos. { -vendor-short-name } utiliza la información que envías para solucionar problemas del sitio web.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = ¿Qué es lo que falla?
 report-broken-site-panel-reason-optional-label = ¿Qué es lo que falla? (opcional)

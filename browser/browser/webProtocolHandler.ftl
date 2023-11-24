@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protocolhandler-mailto-os-handler-notificationbox = ¿Utilizas siempre { -brand-short-name } para abrir enlaces que envían correos electrónicos?
 protocolhandler-mailto-os-handler-yes-confirm = { -brand-short-name } es ahora tu aplicación predeterminada para abrir enlaces que envían correos electrónicos.
 protocolhandler-mailto-os-handler-yes-button = Establecer como predeterminado
 protocolhandler-mailto-os-handler-no-button = Ahora no
