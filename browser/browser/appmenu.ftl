@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Herramientas del navegador
 appmenu-developer-tools-extensions =
     .label = Extensiones para desarrolladores
+appmenuitem-report-broken-site =
+    .label = Informar sitio que no carga
