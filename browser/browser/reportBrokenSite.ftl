@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Wobškóźone sedło k wěsći daś
 report-broken-site-panel-header =
     .label = Wobškóźone sedło k wěsći daś
     .title = Wobškóźone sedło k wěsći daś
+report-broken-site-panel-intro = Pomagajśo, { -brand-product-name } za wšych pólěpšył. { -vendor-short-name } informacije wužywa, kótarež sćelośo, aby problemy z websedłom rozwězał.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Co jo wobškóźone?
 report-broken-site-panel-reason-optional-label = Co jo wobškóźone? (na žycenje)
