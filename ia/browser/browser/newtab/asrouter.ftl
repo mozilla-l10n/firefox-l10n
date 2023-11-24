@@ -239,10 +239,14 @@ device-migration-fxa-spotlight-header = Usa tu un apparato plus vetule?
 device-migration-fxa-spotlight-body = Preserva tu datos pro assecurar te que tu non perde importante info como marcapaginas e contrasignos, specialmente si tu passa a un nove apparato.
 device-migration-fxa-spotlight-primary-button = Como reservar mi datos
 device-migration-fxa-spotlight-link = Rememora me plus tarde
+device-migration-fxa-spotlight-heavy-user-header = Non oblida de reservar tu datos
 device-migration-fxa-spotlight-heavy-user-body = Cura que le informationes importante, como marcapaginas e contrasignos, sia actualisate e protegite inter tote tu apparatos.
 device-migration-fxa-spotlight-heavy-user-primary-button = Comenciar
+device-migration-fxa-spotlight-older-device-header = Tranquillitate, ab { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Un conto mantene actualisate e protegite tu informationes importante sur ulle apparato al qual tu te connecte.
 device-migration-fxa-spotlight-older-device-primary-button = Crea un conto
 device-migration-fxa-spotlight-getting-new-device-header = Spera tu pro un nove apparato iste saison?
+device-migration-fxa-spotlight-getting-new-device-body = Reserva subito tu datos, assi tu sera preste a initiar quando arrivara tu apparato.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Como reservar mi datos
 
 ## Set as Default PDF Reader Infobar
