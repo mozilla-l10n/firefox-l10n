@@ -28,11 +28,13 @@ cfr-doorhanger-extension-author = di { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Suggerimento
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Suggerimento
     .tooltiptext = Estensione suggerita
     .a11y-announcement = È disponibile un suggerimento per un’estensione
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Suggerimento
     .tooltiptext = Funzione suggerita
     .a11y-announcement = È disponibile un suggerimento per una funzione
@@ -233,6 +235,14 @@ device-migration-fxa-spotlight-header = Stai utilizzando un dispositivo meno rec
 device-migration-fxa-spotlight-body = Salva i tuoi dati per non perdere informazioni importanti come segnalibri e password, soprattutto se hai in programma di passare a un nuovo dispositivo.
 device-migration-fxa-spotlight-primary-button = Come posso salvare i miei dati
 device-migration-fxa-spotlight-link = Ricordamelo più tardi
+device-migration-fxa-spotlight-heavy-user-header = Non dimenticarti di salvare i tuoi dati
+device-migration-fxa-spotlight-heavy-user-body = Assicurati che le informazioni importanti, come segnalibri e password, siano aggiornate e protette su tutti i tuoi dispositivi.
+device-migration-fxa-spotlight-heavy-user-primary-button = Inizia
+device-migration-fxa-spotlight-older-device-header = Tranquillità, da { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Un account mantiene le tue informazioni importanti aggiornate e protette su qualsiasi dispositivo connesso.
+device-migration-fxa-spotlight-older-device-primary-button = Crea un account
+device-migration-fxa-spotlight-getting-new-device-header = Speri in un nuovo dispositivo per questa stagione?
+device-migration-fxa-spotlight-getting-new-device-body = Salva subito i tuoi dati, così sarai pronto per partire quando arriverà il tuo dispositivo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Come posso salvare i miei dati
 
 ## Set as Default PDF Reader Infobar

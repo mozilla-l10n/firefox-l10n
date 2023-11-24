@@ -38,6 +38,8 @@ about-logging-preset-networking-websocket-label = WebSocket
 about-logging-preset-networking-websocket-description = Moduli di registrazione per diagnosticare problemi con WebSocket
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-description = Moduli di registrazione per diagnosticare problemi con HTTP/3 e QUIC
+about-logging-preset-networking-http3-upload-speed-label = Velocità di caricamento HTTP/3
+about-logging-preset-networking-http3-upload-speed-description = Moduli di registrazione per diagnosticare problemi con la velocità di caricamento con HTTP/3
 about-logging-preset-media-playback-label = Riproduzione file multimediali
 about-logging-preset-media-playback-description = Moduli di registrazione per diagnosticare problemi con la riproduzione di file multimediali (non relativi ad applicazioni di videoconferenza)
 about-logging-preset-webrtc-label = WebRTC
@@ -51,7 +53,6 @@ about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = Moduli di registrazione per diagnosticare problemi specifici con Microsoft Windows
 about-logging-preset-custom-label = Personalizzato
 about-logging-preset-custom-description = Moduli di registrazione selezionati manualmente
-
 # Error handling
 about-logging-error = Errore:
 
@@ -65,9 +66,4 @@ about-logging-unknown-profiler-preset = Preset del profiler “{ $v }“ sconosc
 about-logging-unknown-option = Opzione sconosciuta “{ $k }“ per about:logging
 about-logging-configuration-url-ignored = URL di configurazione ignorato
 about-logging-file-and-profiler-override = Impossibile forzare un file di output e allo stesso tempo ignorare le opzioni del profiler
-
 about-logging-configured-via-url = Opzione configurata tramite URL
-
-
-
-
