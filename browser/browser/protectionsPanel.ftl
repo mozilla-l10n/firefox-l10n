@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Сөндіру
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Іске қосу
+protections-panel-report-broken-site =
+    .label = Сынған сайт туралы хабарлау
+    .title = Сынған сайт туралы хабарлау
