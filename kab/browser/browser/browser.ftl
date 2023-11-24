@@ -279,6 +279,9 @@ quickactions-cmd-plugins = Izegrar
 # Opens the print dialog
 quickactions-print2 = Siggez asebter
 quickactions-cmd-print = siggez
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Sekles asebter s PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Ldi asfaylu uslig
 quickactions-cmd-private = tunigin tusligt
@@ -561,7 +564,7 @@ urlbar-result-action-sponsored = S lmendad
 urlbar-result-action-switch-tab = Ddu ɣer yiccer
 urlbar-result-action-visit = Rzu
 # Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Rzu seg tecfawt
+urlbar-result-action-visit-from-clipboard = Rzu seg tecfawt
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -913,9 +916,20 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Tiɣimit tusligt tekfa
+    .tooltiptext = Tiɣimit tusligt tekfa
+reset-pbm-panel-heading = Fakk tiɣimit-ik·im tusligt?
+reset-pbm-panel-always-ask-checkbox =
+    .label = Sutur yal tikkelt
+    .accesskey = S
 reset-pbm-panel-cancel-button =
     .label = Sefsex
     .accesskey = S
+reset-pbm-panel-confirm-button =
+    .label = Kkes isefka n tɣimit
+    .accesskey = K
+reset-pbm-panel-complete = Isefka n tɣimit tusligt ttwakksen
 
 ## Autorefresh blocker
 
