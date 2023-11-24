@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Hibás webhely bejelentése
 report-broken-site-panel-header =
     .label = Hibás webhely bejelentése
     .title = Hibás webhely bejelentése
+report-broken-site-panel-intro = Segítsen abban, hogy a { -brand-product-name } mindenki számára jobb legyen. A { -vendor-short-name } a küldött információkat a webhelyproblémák javítására használja.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Mi hibás?
 report-broken-site-panel-reason-optional-label = Mi hibás? (nem kötelező)

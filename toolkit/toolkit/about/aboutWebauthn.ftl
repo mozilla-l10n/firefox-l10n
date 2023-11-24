@@ -70,10 +70,21 @@ about-webauthn-delete-button = Törlés
 about-webauthn-auth-option-uv = Felhasználó ellenőrzése
 about-webauthn-auth-option-up = Felhasználói jelenlét
 about-webauthn-auth-option-clientpin = PIN-kód beállítása
+about-webauthn-auth-option-rk = Rezidens kulcs
+about-webauthn-auth-option-plat = Platformeszköz
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Parancsengedélyek (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Nincs MakeCredential / GetAssertion jogosultság a kliens PIN-kódjával
+about-webauthn-auth-option-largeblobs = Nagy blobok
+about-webauthn-auth-option-ep = Vállalati tanúsítás
+about-webauthn-auth-option-bioenroll = Biometrikus regisztráció
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Biometrikus regisztráció prototípusa (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Biometrikus regisztrációs engedély
+about-webauthn-auth-option-authnrcfg = Hitelesítő konfigurációja
+about-webauthn-auth-option-uvacfg = Hitelesítő konfigurációs engedélye
+about-webauthn-auth-option-credmgmt = Hitelesítőadat-kezelés
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
