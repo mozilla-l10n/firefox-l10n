@@ -1,3 +1,22 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+report-broken-site-mainview-title = Problem mit Website melden
+report-broken-site-panel-header =
+    .label = Problem mit Website melden
+    .title = Problem mit Website melden
+report-broken-site-panel-intro = Helfen Sie, { -brand-product-name } für alle zu verbessern. { -vendor-short-name } verwendet die gesendeten Informationen, um Probleme mit Websites zu beheben.
+report-broken-site-panel-url = URL
+report-broken-site-panel-reason-label = Was funktioniert nicht?
+report-broken-site-panel-reason-optional-label = Was funktioniert nicht? (freiwillig)
+report-broken-site-panel-reason-choose =
+    .label = Grund auswählen
+report-broken-site-panel-reason-slow =
+    .label = Website langsam oder funktioniert nicht
+report-broken-site-panel-reason-media =
+    .label = Grafiken oder Videos
+report-broken-site-panel-reason-content =
+    .label = Schaltflächen, Links und andere Inhalte
+report-broken-site-panel-reason-account =
+    .label = An- oder Abmeldung
