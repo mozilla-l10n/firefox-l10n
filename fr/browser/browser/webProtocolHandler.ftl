@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protocolhandler-mailto-os-handler-notificationbox = Toujours utiliser { -brand-short-name } pour ouvrir des liens d’envoi d’e-mail ?
+protocolhandler-mailto-os-handler-yes-confirm = { -brand-short-name } est désormais votre application par défaut pour ouvrir des liens d’envoi d’e-mails.
 protocolhandler-mailto-os-handler-yes-button = Définir par défaut
 protocolhandler-mailto-os-handler-no-button = Plus tard
 

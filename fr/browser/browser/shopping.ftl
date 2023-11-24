@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Nouvelles informations à évaluer
 shopping-message-bar-warning-stale-analysis-button = Vérifier maintenant
-shopping-message-bar-generic-error-title2 = Aucune information disponible actuellement
-shopping-message-bar-generic-error-message = Nous travaillons à résoudre ce problème. Veuillez réessayer ultérieurement.
-shopping-message-bar-warning-not-enough-reviews-title = Pas encore assez d’avis
-shopping-message-bar-warning-not-enough-reviews-message2 = Quand ce produit aura reçu suffisamment d’avis, leur qualité pourra être évaluée.
-shopping-message-bar-warning-product-not-available-title = Le produit n’est pas disponible
-shopping-message-bar-warning-product-not-available-message2 = Si vous constatez le retour de ce produit en stock, signalez-le et nous travaillerons à évaluer les avis.
-shopping-message-bar-warning-product-not-available-button = Signaler que ce produit est de retour en stock
-shopping-message-bar-thanks-for-reporting-title = Merci de nous l’avoir signalé !
-shopping-message-bar-thanks-for-reporting-message2 = Nous devrions avoir des informations au sujet des avis sur ce produit d’ici 24 heures. Revenez plus tard.
-shopping-message-bar-warning-product-not-available-reported-title2 = Plus d’informations prochainement
-shopping-message-bar-warning-product-not-available-reported-message2 = Nous devrions avoir des informations au sujet des avis sur ce produit d’ici 24 heures. Revenez plus tard.
 shopping-message-bar-generic-error =
     .heading = Aucune information disponible actuellement
     .message = Nous travaillons à résoudre ce problème. Veuillez réessayer ultérieurement.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Nous devrions avoir des informations au sujet des avis sur ce produit d’ici 24 heures. Revenez plus tard.
 shopping-message-bar-analysis-in-progress-title2 = Évaluation de la qualité des avis
 shopping-message-bar-analysis-in-progress-message2 = L’opération peut prendre environ 60 secondes.
-shopping-message-bar-page-not-supported-title = Nous ne pouvons pas vérifier ces avis
-shopping-message-bar-page-not-supported-message = Malheureusement, nous ne pouvons pas vérifier la qualité des avis pour certains types de produits. Par exemple, les cartes cadeaux, le streaming vidéo, la musique et les jeux.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Vérification de la qualité des avis ({ $percentage } %)
 shopping-message-bar-page-not-supported =
     .heading = Nous ne pouvons pas vérifier ces avis
     .message = Malheureusement, nous ne pouvons pas vérifier la qualité des avis pour certains types de produits. Par exemple, les cartes-cadeau et le streaming vidéo, la musique et les jeux.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Paramètres
 shopping-settings-recommendations-toggle =
     .label = Afficher des publicités dans le vérificateur d’avis
-shopping-settings-recommendations-learn-more = Vous verrez à l’occasion des publicités pour des produits pertinents. Ces produits doivent disposer d’avis qui répondent à nos critères de qualité. <a data-l10n-name="review-quality-url">En savoir plus</a>
 shopping-settings-recommendations-learn-more2 = Vous verrez à l’occasion des publicités pour des produits pertinents.  Nous faisons uniquement la promotion de produits dont les avis sont fiables. <a data-l10n-name="review-quality-url">En savoir plus</a>
 shopping-settings-opt-out-button = Désactiver le vérificateur d’avis
 powered-by-fakespot = Le vérificateur d’avis fonctionne grâce à <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = Je ne sais pas
 shopping-survey-next-button-label = Suivant
 shopping-survey-submit-button-label = Envoyer
 shopping-survey-terms-link = Conditions d’utilisation
-shopping-survey-thanks-message = Merci de votre retour !
 shopping-survey-thanks =
     .heading = Merci de votre retour !
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Essayez le vérificateur d’avi
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Essayez notre guide de confiance pour les avis de produits
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Regardez quelle fiabilité accorder aux avis de produits sur <b>{ $currentSite }</b> avant d’acheter. Le vérificateur d’avis, une fonctionnalité expérimentale de { -vendor-short-name }, est intégré à { -brand-product-name }. Il fonctionne aussi pour <b>{ $secondSite }</b> et <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
