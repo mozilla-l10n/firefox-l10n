@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Tắt
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Bật
+protections-panel-report-broken-site =
+    .label = Báo cáo trang web bị hỏng
+    .title = Báo cáo trang web bị hỏng

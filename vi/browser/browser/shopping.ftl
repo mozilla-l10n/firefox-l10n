@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Thông tin mới cần kiểm tra
 shopping-message-bar-warning-stale-analysis-button = Kiểm tra ngay
-shopping-message-bar-generic-error-title2 = Hiện không có thông tin nào
-shopping-message-bar-generic-error-message = Chúng tôi đang làm việc để giải quyết sự cố. Hãy kiểm tra lại sau.
-shopping-message-bar-warning-not-enough-reviews-title = Chưa đủ đánh giá
-shopping-message-bar-warning-not-enough-reviews-message2 = Khi sản phẩm này có nhiều đánh giá hơn, chúng tôi sẽ có thể kiểm tra chất lượng của chúng.
-shopping-message-bar-warning-product-not-available-title = Sản phẩm không có sẵn
-shopping-message-bar-warning-product-not-available-message2 = Nếu bạn thấy sản phẩm này đã có hàng trở lại, hãy báo cáo và chúng tôi sẽ kiểm tra đánh giá.
-shopping-message-bar-warning-product-not-available-button = Báo sản phẩm này đã có hàng trở lại
-shopping-message-bar-thanks-for-reporting-title = Cảm ơn bạn đã báo cáo!
-shopping-message-bar-thanks-for-reporting-message2 = Chúng tôi sẽ có thông tin về đánh giá của sản phẩm này trong vòng 24 giờ. Hãy kiểm tra lại sau.
-shopping-message-bar-warning-product-not-available-reported-title2 = Thông tin sắp ra mắt
-shopping-message-bar-warning-product-not-available-reported-message2 = Chúng tôi sẽ có thông tin về đánh giá của sản phẩm này trong vòng 24 giờ. Hãy kiểm tra lại sau.
 shopping-message-bar-generic-error =
     .heading = Hiện không có thông tin nào
     .message = Chúng tôi đang làm việc để giải quyết sự cố. Hãy kiểm tra lại sau.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Chúng tôi sẽ có thông tin về đánh giá của sản phẩm này trong vòng 24 giờ. Hãy kiểm tra lại sau.
 shopping-message-bar-analysis-in-progress-title2 = Đang kiểm tra chất lượng đánh giá
 shopping-message-bar-analysis-in-progress-message2 = Quá trình này có thể mất khoảng 60 giây.
-shopping-message-bar-page-not-supported-title = Chúng tôi không thể kiểm tra những đánh giá này
-shopping-message-bar-page-not-supported-message = Rất tiếc, chúng tôi không thể kiểm tra chất lượng đánh giá đối với một số loại sản phẩm nhất định. Ví dụ: thẻ quà tặng và truyền phát video, âm nhạc và trò chơi.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Kiểm tra chất lượng đánh giá ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Chúng tôi không thể kiểm tra những đánh giá này
     .message = Rất tiếc, chúng tôi không thể kiểm tra chất lượng đánh giá đối với một số loại sản phẩm nhất định. Ví dụ: thẻ quà tặng và truyền phát video, âm nhạc và trò chơi.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Cài đặt
 shopping-settings-recommendations-toggle =
     .label = Hiển thị quảng cáo trong trình kiểm tra đánh giá
-shopping-settings-recommendations-learn-more = Bạn sẽ thấy quảng cáo không thường xuyên cho các sản phẩm có liên quan. Tất cả quảng cáo phải đáp ứng các tiêu chuẩn chất lượng đánh giá của chúng tôi. <a data-l10n-name="review-quality-url">Tìm hiểu thêm</a>
 shopping-settings-recommendations-learn-more2 = Bạn sẽ thấy quảng cáo không thường xuyên cho các sản phẩm có liên quan. Chúng tôi chỉ quảng cáo những sản phẩm có đánh giá đáng tin cậy. <a data-l10n-name="review-quality-url">Tìm hiểu thêm</a>
 shopping-settings-opt-out-button = Tắt trình kiểm tra đánh giá
 powered-by-fakespot = Trình kiểm tra đánh giá được cung cấp bởi <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = Tôi không biết
 shopping-survey-next-button-label = Tiếp
 shopping-survey-submit-button-label = Gửi
 shopping-survey-terms-link = Điều khoản sử dụng
-shopping-survey-thanks-message = Cảm ơn phản hồi của bạn!
 shopping-survey-thanks =
     .heading = Cảm ơn phản hồi của bạn!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Hãy dùng thử trình kiểm t
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Hãy thử hướng dẫn đáng tin cậy của chúng tôi để đánh giá sản phẩm
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Xem mức độ tin cậy của các đánh giá sản phẩm trên <b>{ $currentSite }</b> trước khi bạn mua. Trình kiểm tra đánh giá, một tính năng thử nghiệm của { -vendor-short-name }, được tích hợp ngay vào { -brand-product-name } — và nó cũng hoạt động trên <b>{ $secondSite }</b> và <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
