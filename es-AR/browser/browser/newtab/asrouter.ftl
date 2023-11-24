@@ -239,6 +239,7 @@ device-migration-fxa-spotlight-header = ¿Usando un dispositivo más viejo?
 device-migration-fxa-spotlight-body = Haga una copia de seguridad de sus datos para asegurarse de no perder información importante como marcadores y contraseñas — especialmente si cambia a un nuevo dispositivo.
 device-migration-fxa-spotlight-primary-button = Cómo hacer una copia de seguridad de mis datos
 device-migration-fxa-spotlight-link = Recordarme más tarde
+device-migration-fxa-spotlight-getting-new-device-primary-button = Cómo hacer una copia de seguridad de mis datos
 
 ## Set as Default PDF Reader Infobar
 
