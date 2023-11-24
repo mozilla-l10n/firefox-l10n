@@ -239,6 +239,8 @@ device-migration-fxa-spotlight-header = Eski bir cihaz mı kullanıyorsunuz?
 device-migration-fxa-spotlight-body = Yeni bir cihaza geçiş yaparken yer imleri ve parolalar gibi önemli bilgilerinizin kaybolmaması için için verilerinizi yedekleyin.
 device-migration-fxa-spotlight-primary-button = Verilerimi nasıl yedekleyebilirim?
 device-migration-fxa-spotlight-link = Daha sonra hatırlat
+device-migration-fxa-spotlight-heavy-user-header = Verilerinizi yedeklemeyi unutmayın
+device-migration-fxa-spotlight-getting-new-device-body = Verilerinizi hemen yedekleyin, cihazınız gelince kullanıma hazır olun.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Verilerimi nasıl yedekleyebilirim?
 
 ## Set as Default PDF Reader Infobar
