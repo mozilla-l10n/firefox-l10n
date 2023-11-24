@@ -38,6 +38,7 @@ about-logging-preset-networking-websocket-label = WebSockets
 about-logging-preset-networking-websocket-description = 用來診斷 WebSocket 問題的記錄模組
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-description = 用來診斷 HTTP/3 與 QUIC 問題的記錄模組
+about-logging-preset-networking-http3-upload-speed-label = HTTP/3 上傳速度
 about-logging-preset-media-playback-label = 媒體播放
 about-logging-preset-media-playback-description = 用來診斷媒體播放問題（非網路會議問題）的記錄模組
 about-logging-preset-webrtc-label = WebRTC

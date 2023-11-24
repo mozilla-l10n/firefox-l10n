@@ -236,6 +236,9 @@ device-migration-fxa-spotlight-header = 使用的是舊裝置？
 device-migration-fxa-spotlight-body = 備份您的資料，以確保不會遺失書籤、密碼等重要資訊。尤其是換新裝置轉移資料時更要小心。
 device-migration-fxa-spotlight-primary-button = 如何備份我的資料
 device-migration-fxa-spotlight-link = 待會提醒我
+device-migration-fxa-spotlight-heavy-user-header = 別忘記備份您的資料
+device-migration-fxa-spotlight-heavy-user-primary-button = 開始使用
+device-migration-fxa-spotlight-older-device-primary-button = 註冊帳號
 device-migration-fxa-spotlight-getting-new-device-primary-button = 如何備份我的資料
 
 ## Set as Default PDF Reader Infobar
