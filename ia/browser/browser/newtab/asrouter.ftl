@@ -239,6 +239,7 @@ device-migration-fxa-spotlight-header = Usa tu un apparato plus vetule?
 device-migration-fxa-spotlight-body = Preserva tu datos pro assecurar te que tu non perde importante info como marcapaginas e contrasignos, specialmente si tu passa a un nove apparato.
 device-migration-fxa-spotlight-primary-button = Como reservar mi datos
 device-migration-fxa-spotlight-link = Rememora me plus tarde
+device-migration-fxa-spotlight-heavy-user-body = Cura que le informationes importante, como marcapaginas e contrasignos, sia actualisate e protegite inter tote tu apparatos.
 device-migration-fxa-spotlight-heavy-user-primary-button = Comenciar
 device-migration-fxa-spotlight-older-device-primary-button = Crea un conto
 device-migration-fxa-spotlight-getting-new-device-header = Spera tu pro un nove apparato iste saison?
