@@ -39,6 +39,7 @@ about-logging-preset-networking-websocket-description = Module za diagnosticěro
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-description = Module za diagnosticěrowanje problemow z HTTP/3 a QUIC protokolować
 about-logging-preset-networking-http3-upload-speed-label = Nahrawanska spěšnosć HTTP/3
+about-logging-preset-networking-http3-upload-speed-description = Module za diagnosticěrowanje problemow z nahrawanskej spěšnosću HTTP/3 protokolować
 about-logging-preset-media-playback-label = Wothraće medijow
 about-logging-preset-media-playback-description = Module konfigurować, zo byšće problemy medijoweho wothraća diagnosticěrował (nic problemy z widejokonferencami)
 about-logging-preset-webrtc-label = WebRTC
