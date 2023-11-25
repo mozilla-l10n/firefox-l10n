@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Ifecka n yiminig
 appmenu-developer-tools-extensions =
     .label = Isiɣzaf i tnefliyin
+appmenuitem-report-broken-site =
+    .label = Cegger asmel yerẓen

@@ -25,11 +25,13 @@ firefoxview-tabpickup-progress-label = Yemmed { $percentValue }%
 firefoxview-tabpickup-step-signin-header = Ttnaqal gar yibenkan s tefses
 firefoxview-tabpickup-step-signin-description = I wakken ad d-tawiḍ accaren n tiliɣri-inek·inem ɣer dagi, qqen qbel neɣ rnu amiḍan.
 firefoxview-tabpickup-step-signin-primarybutton = Kemmel
+firefoxview-syncedtabs-signin-header = Err-d accaren-ik·im seg yal adeg
 firefoxview-syncedtabs-signin-primarybutton = Qqen neɣ kcem
 firefoxview-tabpickup-adddevice-header = Mtawi { -brand-product-name } ɣef tiliɣri-inek·inem neɣ ɣef tfelwit n uselken
 firefoxview-tabpickup-adddevice-description = Sader { -brand-product-name } i uziraz syen qqen ɣer-s.
 firefoxview-tabpickup-adddevice-learn-how = Issin amek
 firefoxview-tabpickup-adddevice-primarybutton = Awi { -brand-product-name } i uziraz
+firefoxview-syncedtabs-adddevice-header = Qqen ɣer { -brand-product-name } ɣef yibenkan-ik·im niḍen
 firefoxview-syncedtabs-adddevice-primarybutton = Ɛreḍ { -brand-product-name } i uziraz
 firefoxview-tabpickup-synctabs-header = Rmed amtawi n waccaren…
 firefoxview-tabpickup-synctabs-description = Sireg { -brand-short-name } ad yebḍu accaren gar yibenkan.
@@ -56,6 +58,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Sekcem awal uffir agejdan
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Issin ugar</a>
 firefoxview-tabpickup-signed-out-header = Kcem akken ad talseḍ tuqqna
 firefoxview-tabpickup-signed-out-description = I wakken a talseḍ tuqqna s tririt n waccaren-ik·im, qqen ɣer { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = I wakken a talseḍ tuqqna s tririt n waccaren, qqen ɣer umiḍan-ik·im.
 firefoxview-tabpickup-signed-out-primarybutton = Kcem
 firefoxview-tabpickup-syncing = Seqɛed tiɣimit mi ara tessemtawayeḍ accaren-ik·im. Ur yettɛeṭṭil ara.
 firefoxview-mobile-promo-header = Awi-d accaren seg tiliɣri-inek·inem neɣ seg tfelwit n uselken
@@ -186,6 +189,7 @@ firefoxview-view-more-browsing-history = Sken ugar seg uzray n tunigin
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Kemmel seg wanda i tḥebseḍ
 
 ##
 
@@ -210,6 +214,7 @@ firefoxview-import-history-header = Kter-d azray seg yiminig niḍen
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Tmedleḍ iccer ur tfaqqeḍ?
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

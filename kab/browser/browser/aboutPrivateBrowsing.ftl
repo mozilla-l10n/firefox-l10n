@@ -71,3 +71,4 @@ about-private-browsing-cookie-banners-promo-button = Senqes iɣarracen n yinagan
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Ur ttaǧǧa ara akk later ɣef yibenk-a
+about-private-browsing-felt-privacy-v1-info-link = Anwa i izemren ad iwali armud-iw?
