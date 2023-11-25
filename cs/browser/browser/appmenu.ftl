@@ -287,3 +287,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Nástroje prohlížeče
 appmenu-developer-tools-extensions =
     .label = Rozšíření pro vývojáře
+appmenuitem-report-broken-site =
+    .label = Nahlásit nefunkční stránku

@@ -44,17 +44,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Nové informace ke zkontrolování
 shopping-message-bar-warning-stale-analysis-button = Zkontrolovat
-shopping-message-bar-generic-error-title2 = V tuto chvíli nejsou k dispozici žádné informace
-shopping-message-bar-generic-error-message = Pracujeme na vyřešení problému. Zkuste to prosím později.
-shopping-message-bar-warning-not-enough-reviews-title = Zatím nemá dostatek recenzí
-shopping-message-bar-warning-not-enough-reviews-message2 = Až bude mít tento produkt více recenzí, budeme moci zkontrolovat jejich kvalitu.
-shopping-message-bar-warning-product-not-available-title = Produkt není k dispozici
-shopping-message-bar-warning-product-not-available-message2 = Pokud zjistíte, že je tento produkt opět skladem, nahlaste to a my se pokusíme recenze zkontrolovat.
-shopping-message-bar-warning-product-not-available-button = Nahlaste, že je tento produkt opět skladem
-shopping-message-bar-thanks-for-reporting-title = Děkujeme za nahlášení!
-shopping-message-bar-thanks-for-reporting-message2 = Informace o hodnocení tohoto produktu bychom měli mít k dispozici do 24 hodin. Prosím, zkontrolujte to znovu.
-shopping-message-bar-warning-product-not-available-reported-title2 = Informace již brzy
-shopping-message-bar-warning-product-not-available-reported-message2 = Informace o hodnocení tohoto produktu bychom měli mít k dispozici do 24 hodin. Prosím, zkontrolujte to znovu.
 shopping-message-bar-generic-error =
     .heading = V tuto chvíli nejsou k dispozici žádné informace
     .message = Pracujeme na vyřešení problému. Zkuste to prosím později.
@@ -73,8 +62,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Informace o hodnocení tohoto produktu bychom měli mít k dispozici do 24 hodin. Prosím, zkontrolujte to znovu.
 shopping-message-bar-analysis-in-progress-title2 = Kontroluje se kvalita recenzí
 shopping-message-bar-analysis-in-progress-message2 = Může to trvat asi 60 sekund.
-shopping-message-bar-page-not-supported-title = Tyto recenze nemůžeme zkontrolovat
-shopping-message-bar-page-not-supported-message = Kvalitu recenzí některých typů produktů bohužel nemůžeme kontrolovat. Například dárkové karty a streamovaná videa, hudbu a hry.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Kontrola kvality recenzí ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Tyto recenze nemůžeme zkontrolovat
     .message = Kvalitu recenzí některých typů produktů bohužel nemůžeme kontrolovat. Například dárkové karty a streamovaná videa, hudbu a hry.
@@ -100,7 +90,6 @@ shopping-settings-label =
     .label = Nastavení
 shopping-settings-recommendations-toggle =
     .label = Zobrazovat reklamy v kontrole recenzí
-shopping-settings-recommendations-learn-more = Občas uvidíte reklamy na související produkty. Všechny reklamy musí splnit naše standardy kvality. <a data-l10n-name="review-quality-url">Zjistit více</a>
 shopping-settings-recommendations-learn-more2 = Občas se vám zobrazí reklamy na příslušné produkty. Inzerujeme pouze produkty se spolehlivými recenzemi. <a data-l10n-name="review-quality-url">Dozvědět se více</a>
 shopping-settings-opt-out-button = Vypnout kontrolu recenzí
 powered-by-fakespot = Kontrolu recenzí zajišťuje <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -191,7 +180,6 @@ shopping-survey-q2-radio-3-label = Nevím
 shopping-survey-next-button-label = Další
 shopping-survey-submit-button-label = Odeslat
 shopping-survey-terms-link = Zásady používání
-shopping-survey-thanks-message = Děkujeme za vaši zpětnou vazbu!
 shopping-survey-thanks =
     .heading = Děkujeme za vaši zpětnou vazbu!
 
@@ -208,24 +196,6 @@ shopping-callout-closed-not-opted-in-subtitle = Vyzkoušejte nástroj pro kontro
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Vyzkoušejte našeho důvěryhodného průvodce recenzemi produktů
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle =
-    { -brand-product-name.case-status ->
-        [with-cases]
-            { -vendor-short-name.case-status ->
-                [with-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce od { -vendor-short-name(case: "gen") }, je zabudována přímo do { -brand-product-name(case: "gen") }. - a funguje také na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
-               *[no-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce od organizace { -vendor-short-name }, je zabudována přímo do { -brand-product-name(case: "gen") }. - a funguje také na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
-            }
-       *[no-cases]
-            { -vendor-short-name.case-status ->
-                [with-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce od { -vendor-short-name(case: "gen") }, je zabudována přímo do aplikace { -brand-product-name }. - a funguje také na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
-               *[no-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce od organizace { -vendor-short-name }, je zabudována přímo do aplikace { -brand-product-name }. - a funguje také na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
-            }
-    }
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
