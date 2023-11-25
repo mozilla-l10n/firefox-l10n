@@ -34,6 +34,7 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-message = Taɣellist n unekcum-a ur yettwaḍman ara. Ur ttkemmil ara alamma tḍemneḍ asmel-a.
 
 ##
 
@@ -56,6 +57,10 @@ webext-perms-sideload-menu-item = { $addonName } ittwarna ɣer { -brand-short-na
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } yesra tisirag-nniḍen
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Smed asebded n yisiɣzaf i d-ttwaketren seg { -brand-short-name }.
 
 ## Add-on removal warning
 
