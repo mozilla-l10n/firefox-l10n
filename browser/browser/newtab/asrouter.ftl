@@ -204,7 +204,7 @@ cfr-cbh-confirm-button = ფუნთუშის მოთხოვნები
     .accesskey = უ
 cfr-cbh-dismiss-button = ახლა არა
     .accesskey = ა
-cookie-banner-blocker-cfr-header = { -brand-short-name } ზღუდავს ფუნთუშებს თქვენთვის
+cookie-banner-blocker-cfr-header = { -brand-short-name } ახლახან დაგეხმარათ ფუნთუშების არიდებაში
 cookie-banner-blocker-cfr-body = თავისთავად იზღუდება ფუნთუშების ამომხტომი მოთხოვნები, რომ გაუძნელდეს საიტებს თქვენს მოქმედებეზე თვალის დევნება.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
