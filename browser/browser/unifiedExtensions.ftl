@@ -20,22 +20,22 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Buka menu untuk { $extensionName }
-
 unified-extensions-item-message-manage = Kelola ekstensi
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Sematkan ke Bilah Alat
-
 unified-extensions-context-menu-manage-extension =
     .label = Kelola Ekstensi
-
 unified-extensions-context-menu-remove-extension =
     .label = Hapus Ekstensi
-
 unified-extensions-context-menu-report-extension =
     .label = Laporkan Ekstensi
 
 ## Notifications
 
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Beberapa ekstensi mungkin tidak akan diizinkan
+    .message = Untuk melindungi data Anda, beberapa ekstensi tidak dapat membaca atau mengubah data pada situs ini. Gunakan pengaturan ekstensi untuk mengizinkan situs yang dibatasi oleh { -vendor-short-name }.
