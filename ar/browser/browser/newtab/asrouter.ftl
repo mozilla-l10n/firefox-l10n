@@ -276,4 +276,4 @@ launch-on-login-infobar-reject-button = ليس الآن
 ## notification is displayed for a second time.
 
 launch-on-login-infobar-final-reject-button = لا، شكرًا
-    .accesskey = { "" }
+    .accesskey = ا
