@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Marandu pyahu ehechajey hag̃ua
 shopping-message-bar-warning-stale-analysis-button = Ehechajey ko’ág̃a
-shopping-message-bar-generic-error-title2 = Ndaipóri marandu ko’ág̃aite
-shopping-message-bar-generic-error-message = Romba’apo opa hag̃ua apañuãi. Ikatúpiko, eha’ãjey ag̃ave.
-shopping-message-bar-warning-not-enough-reviews-title = Noĩri gueteri heta marandu’i
-shopping-message-bar-warning-not-enough-reviews-message2 = Ko apopyre ojehecha hetajey rire, rohesa’ỹijóta iporãngue.
-shopping-message-bar-warning-product-not-available-title = Apopyre ndojeporukuaái
-shopping-message-bar-warning-product-not-available-message2 = Ehechárõ ko apopyre ojejoguakuaajeyma, oremomarandu ha romba’apóta ijehechajey ñehesa’ijópe.
-shopping-message-bar-warning-product-not-available-button = Emombe’u ko apopyre ojeporukuaajeymaha
-shopping-message-bar-thanks-for-reporting-title = ¡Aguyje emomarandúre!
-shopping-message-bar-thanks-for-reporting-message2 = Oĩva’erã marandu ko apopyre jehechajey rehegua 24 aravo oútavape. Ehechajey upéi.
-shopping-message-bar-warning-product-not-available-reported-title2 = Marandu og̃uahẽtáma
-shopping-message-bar-warning-product-not-available-reported-message2 = Oĩva’erã marandu ko apopyre jehechajey rehegua 24 aravo oútavape. Ehechajey upéi.
 shopping-message-bar-generic-error =
     .heading = Ndaipóri marandu ko’ág̃aite
     .message = Romba’apo opa hag̃ua apañuãi. Ikatúpiko, eha’ãjey ag̃ave.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Oĩva’erã marandu ko apopyre jehechajey rehegua 24 aravo oútavape. Ehechajey upéi.
 shopping-message-bar-analysis-in-progress-title2 = Ehechajey marandu’i porãngue
 shopping-message-bar-analysis-in-progress-message2 = Kóva ipukukuaa 60 aravo’ive rupi.
-shopping-message-bar-page-not-supported-title = Ndorohechajeykuaái ko marandu’i.
-shopping-message-bar-page-not-supported-message = Rombyasy, ndorohechajeykuaái marandu’i porãngue peteĩchagua apopyrépe. Techapyrã, jopói kuatia’atã ha ta’ãngamýi ñemyasãi, purahéi ha ñembosarái.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Ahechajey jehechakue ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Ndorohechajeykuaái ko marandu’i.
     .message = Rombyasy, ndorohechajeykuaái marandu’i porãngue peteĩchagua apopyrépe. Techapyrã, jopói kuatia’atã ha ta’ãngamýi ñemyasãi, purahéi ha ñembosarái.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Ñemboheko
 shopping-settings-recommendations-toggle =
     .label = Ehechauka ñemurã marandu’i rechajeyhápe
-shopping-settings-recommendations-learn-more = Ehecháta ñemurã sapy’apy’a apopyre iporãvare. Opaite ñemurã ohecháta mba’épa ejapóta omoneĩ hag̃ua ne rembiapo. <a data-l10n-name="review-quality-url">Eikuaave</a>
 shopping-settings-recommendations-learn-more2 = Ehecháta ñemurã sapy’apy’a apopyre iporãva rehegua. Romoherakuã apopyre ojejeroviaha oñónte. <a data-l10n-name="review-quality-url">Eikuaave</a>
 shopping-settings-opt-out-button = Eipe’a marandu’i rechajeyha
 powered-by-fakespot = Pe marandu’i jehechajey oioo <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> ndive.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = Ndaikuaái
 shopping-survey-next-button-label = Upeigua
 shopping-survey-submit-button-label = Emondo
 shopping-survey-terms-link = Jeporurã reko
-shopping-survey-thanks-message = ¡Aguyje nde jehaipyrére!
 shopping-survey-thanks =
     .heading = ¡Aguyje nde jehaipyrére!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Eiporu marandu’i rechajeyha eh
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Eiporu ore apopyre guataha rechajey jeroviahápe
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Ehechajey iporãha umi marandu’i apopyre rehegua <b>{ $currentSite }</b> ndive ejogua mboyve. Pe marandu’i rechajeyha, { -vendor-short-name } rembiapoite pyahu, ojuaju { -brand-product-name } ndive ha ojeporu <b>{ $secondSite }</b> ha <b>{ $thirdSite }</b> ndive.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
