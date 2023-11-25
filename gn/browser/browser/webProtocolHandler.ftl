@@ -8,6 +8,7 @@ protocolhandler-mailto-os-handler-no-button = Ani ko’ág̃a
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
+protocolhandler-mailto-handler-notificationbox-always = ¿Embojuruja ñanduti veve juajuha eiporúvo { $url }?
 
 ##
 

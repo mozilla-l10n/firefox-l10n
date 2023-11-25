@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-alert-title = Tetepy resa’ỹijo
+contentanalysis-slow-agent-dialog-title = Tetepy resa’ỹijo oikovahína
 contentanalysis-operationtype-clipboard = kuatiajokoha
 contentanalysis-operationtype-dropped-text = moñe’ẽrã ho’áva
 contentanalysis-notification-title = Tetepy resa’ỹijo
