@@ -122,6 +122,10 @@ ad-by-fakespot = Adellel sɣur { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Ɛawen i usemɣer n { -brand-product-name }
+shopping-survey-q1-radio-1-label = Yumer aṭas
+shopping-survey-q1-radio-2-label = Y·Tumer
+shopping-survey-q1-radio-3-label = War tamawt
 shopping-survey-q2-radio-1-label = Ih
 shopping-survey-q2-radio-2-label = Ala
 shopping-survey-q2-radio-3-label = Ur zriɣ ara
@@ -138,6 +142,7 @@ shopping-survey-thanks =
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Ɛreḍ amnir-nneɣ yettwamanen i timawin n ufaris
 shopping-onboarding-opt-in-button = Ih, ɛreḍ tikkelt niḍen
 shopping-onboarding-not-now-button = Mačči tura
 shopping-onboarding-dialog-close-button =

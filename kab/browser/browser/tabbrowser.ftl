@@ -135,6 +135,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Kkes tasusmi n waccaren
     .accesskey = g
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Taɣuri n umeslaw
 
 ## Ctrl-Tab dialog
 
