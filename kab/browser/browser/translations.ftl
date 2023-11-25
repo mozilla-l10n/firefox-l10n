@@ -10,6 +10,19 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Suqel asebter-a - Biṭa
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Ɛreḍ tisuqqilin tusligin deg { -brand-shorter-name } - Biṭa
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = Asebter yettwasuqqel seg { $fromLanguage } ɣer { $toLanguage }
 urlbar-translations-button-loading =
     .tooltiptext = Tasuqqilt tettedduḍ
 translations-panel-settings-button =
@@ -58,6 +71,7 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Sefsex
 translations-panel-learn-more-link = Issin ugar
+translations-panel-intro-header = Ɛreḍ tisuqqilin tusligin deg { -brand-shorter-name }
 translations-panel-error-translating = Yella wugur deg usuqqel. Ttxil-k ɛreḍ tikkelt niḍen.
 translations-panel-error-load-languages = Ggumant ad d-alint tutlayin
 translations-panel-error-load-languages-hint = Senqed tuqqna ɣer internet sakin ɛreḍ tikkelt niḍen.
@@ -75,6 +89,7 @@ translations-panel-error-change-button =
 # Variables:
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known = Nesḥassef, ur nessefrak ara { $language } akka tura.
+translations-panel-error-unsupported-hint-unknown = Nesḥassef, ur nessefrak ara tutlayt-a akka tura.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -87,6 +102,14 @@ translations-panel-to-label = Suqqel ɣer
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Asebter-a yettwasuqqel seg { $fromLanguage } ɣer { $toLanguage }
 translations-panel-choose-language =
     .label = Fren tutlayt
 translations-panel-restore-button =
@@ -102,6 +125,8 @@ translations-manage-description = Sader tutlayin i usuqqel aruqqin.
 translations-manage-all-language = Meṛṛa tutlayin
 translations-manage-download-button = Sader
 translations-manage-delete-button = Kkes
+translations-manage-error-download = Yella-d wugur deg usader n yifuyla n tutlayt. Ttxil-k·m ɛreḍ tikkelt niḍen.
+translations-manage-error-delete = Tella-d tuccḍa deg tukksa n yifuyla n tutlayt. ttxil-k·m ɛreḍ tikkelt niḍen.
 translations-manage-install-description = Sebded tutlayin i usuqqel aruqqin.
 translations-manage-language-install-button =
     .label = Sebded
@@ -113,6 +138,8 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Kkes kullec
     .accesskey = e
+translations-manage-error-install = Yella-d wugur deg usebded n yifuyla n tutlayt. Ttxil-k·m ɛreḍ tikkelt niḍen.
+translations-manage-error-remove = Tella-d tuccḍa deg tukksa n yifuyla n tutlayt. ttxil-k·m ɛreḍ tikkelt niḍen.
 translations-settings-title =
     .title = Iɣewwaren n tsuqqilin
     .style = min-width: 36em

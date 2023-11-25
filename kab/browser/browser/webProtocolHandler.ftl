@@ -9,6 +9,8 @@ protocolhandler-mailto-os-handler-no-button = Mačči tura
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
+protocolhandler-mailto-handler-notificationbox-always = Ttalday yal tikkelt iseɣwan n yimayl s useqdec n { $url }?
+protocolhandler-mailto-handler-yes-confirm = Akka tura, { $url } d asmel-ik·im amezwer i twaledyawt n yiseɣwan n tuzna n yimaylen.
 
 ##
 
