@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Browser Tools
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers
+appmenuitem-report-broken-site =
+    .label = Ilmoita rikkinäisestä sivustosta
