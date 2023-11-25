@@ -24,6 +24,7 @@ about-logging-logging-to-profiler = Atvikaskráning í { -profiler-brand-name }
 about-logging-no-log-modules = Ekkert
 about-logging-no-log-file = Ekkert
 about-logging-logging-preset-selector-text = Forstilling atvikaskráningar:
+about-logging-with-profiler-stacks-checkbox = Virkja staflarakningu fyrir skilaboð í atvikaskráningu
 
 ## Logging presets
 
@@ -36,6 +37,7 @@ about-logging-preset-networking-websocket-description = Atvikaskráningareininga
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-description = Atvikaskráningareiningar til að greina vandamál með HTTP/3 og QUIC
 about-logging-preset-networking-http3-upload-speed-label = HTTP/3 innsendingarhraði
+about-logging-preset-networking-http3-upload-speed-description = Atvikaskráningareiningar til að greina vandamál með innsendingarhraða HTTP/3
 about-logging-preset-media-playback-label = Afspilun margmiðlunar
 about-logging-preset-media-playback-description = Atvikaskráningareiningar til að greina vandamál við spilun myndefnis (ekki vandamál með myndfundi)
 about-logging-preset-webrtc-label = WebRTC
@@ -46,6 +48,7 @@ about-logging-preset-gfx-label = Myndefni
 about-logging-preset-gfx-description = Atvikaskráningareiningar til að greina vandamál með skjá/myndgerð
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Atvikaskráningareiningar til að greina sértæk vandamál varðandi Microsoft Windows
 about-logging-preset-custom-label = Sérsniðið
 about-logging-preset-custom-description = Handvirkt valdar atvikaskráningareiningar
 # Error handling
@@ -57,5 +60,6 @@ about-logging-error = Villa:
 
 about-logging-invalid-output = Ógilt gildi „{ $v }“ fyrir lykil „{ $k }“
 about-logging-unknown-logging-preset = Óþekkt skráningarforstilling „{ $v }“
+about-logging-unknown-option = Óþekktur about:logging valkostur “{ $k }“
 about-logging-configuration-url-ignored = Stillingaslóð hunsuð
 about-logging-configured-via-url = Valkostur stilltur í gegnum slóð
