@@ -279,6 +279,9 @@ quickactions-cmd-plugins = zásuvné moduly
 # Opens the print dialog
 quickactions-print2 = Vytisknout stránku
 quickactions-cmd-print = tisk
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Uložit stránku jako PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otevřít anonymní okno
 quickactions-cmd-private = anonymní prohlížení
@@ -621,8 +624,6 @@ urlbar-result-action-search-w-engine = Vyhledat pomocí { $engine }
 urlbar-result-action-sponsored = Sponzorováno
 urlbar-result-action-switch-tab = Přepnout na panel
 urlbar-result-action-visit = Navštívit
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Otevřít zkopírovanou adresu
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Použít adresu ze schránky
 # Directs a user to press the Tab key to perform a search with the specified
