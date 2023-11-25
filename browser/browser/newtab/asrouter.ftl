@@ -239,6 +239,11 @@ device-migration-fxa-spotlight-header = ძველ მოწყობილო
 device-migration-fxa-spotlight-body = გადაინახეთ მონაცემები, რომ არ დაგეკარგოთ მნიშვნელოვანი ინფორმაცია, მათ შორის სანიშნები და პაროლები — მით უფრო, თუ ახალ მოწყობილობაზე აპირებთ გადასვლას.
 device-migration-fxa-spotlight-primary-button = როგორაა შესაძლებელი დამარქაფება
 device-migration-fxa-spotlight-link = მოგვიანებით შეხსენება
+device-migration-fxa-spotlight-heavy-user-header = არ დაგავიწყდეთ მონაცემების დამარქაფება
+device-migration-fxa-spotlight-heavy-user-body = დარწმუნდით, რომ მნიშვნელოვანი მონაცემები – მათ შორის სანიშნები და პაროლები – განახლებული და დაცულია თქვენს ყველა მოწყობილობაზე.
+device-migration-fxa-spotlight-heavy-user-primary-button = დაიწყეთ
+device-migration-fxa-spotlight-older-device-body = ანგარიში უზრუნველყოფს თქვენი მნიშვნელოვანი მონაცემების მზადყოფნასა და დაცულობას ყველა დაკავშირებულ მოწყობილობაზე.
+device-migration-fxa-spotlight-older-device-primary-button = შექმენით ანგარიში
 
 ## Set as Default PDF Reader Infobar
 
