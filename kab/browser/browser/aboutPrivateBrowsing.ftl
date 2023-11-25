@@ -74,5 +74,5 @@ about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } yec�
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Ur ttaǧǧa ara akk later ɣef yibenk-a
-about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } itekkes inagan n tuqqna, azray, akked yisefka n yismal web mi ara tmedleḍ akk isfuyla usligen. %2$s
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } itekkes inagan n tuqqna, azray, akked yisefka n yismal web mi ara tmedleḍ akk isfuyla usligen.
 about-private-browsing-felt-privacy-v1-info-link = Anwa i izemren ad iwali armud-iw?
