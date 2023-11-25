@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Vypnúť
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Zapnúť
+protections-panel-report-broken-site =
+    .label = Nahlásiť nefunkčnú stránku
+    .title = Nahlásiť nefunkčnú stránku
