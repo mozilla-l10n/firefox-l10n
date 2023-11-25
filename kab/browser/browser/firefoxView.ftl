@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Wali tunigin tamirant gar yisfuyla d yibenkan
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
@@ -38,6 +41,7 @@ firefoxview-tabpickup-synctabs-description = Sireg { -brand-short-name } ad yeb�
 firefoxview-tabpickup-synctabs-learn-how = Issin amek
 firefoxview-tabpickup-synctabs-primarybutton = Mtawi accaren yeldin
 firefoxview-syncedtabs-synctabs-header = Leqqem iɣewwaren n umtawi
+firefoxview-syncedtabs-synctabs-description = I wakken ad twaliḍ accaren seg yibenkan niḍen, tesriḍ ad temtawiḍ accaren-ik·im yeldin.
 firefoxview-syncedtabs-synctabs-checkbox = Sireg accaren yeldin i umtawi
 firefoxview-syncedtabs-loading-header = Amtawi iteddu
 firefoxview-tabpickup-fxa-admin-disabled-header = Takebbanit-ik·im tessens amtawi
@@ -190,6 +194,7 @@ firefoxview-view-more-browsing-history = Sken ugar seg uzray n tunigin
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Kemmel seg wanda i tḥebseḍ
+firefoxview-history-empty-description = Akken ara tettinigeḍ, isebtar wuɣur terziḍ ad d-ttwabdaren dagi.
 
 ##
 
