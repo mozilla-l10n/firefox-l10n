@@ -14,7 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ei löytänyt uu
 ##
 
 firefox-relay-must-login-to-fxa = Sinun on kirjauduttava sisään { -fxaccount-brand-name }llesi, jotta voit käyttää { -relay-brand-name }-palvelua.
-firefox-relay-must-login-to-account = Kirjaudu sisään tiliisi käyttääksesi { -relay-brand-name }-sähköpostimaskeja.
+firefox-relay-must-login-to-account = Kirjaudu sisään tiliisi käyttääksesi { -relay-brand-name } -sähköpostimaskeja.
 firefox-relay-get-unlimited-masks =
     .label = Hallitse maskeja
     .accesskey = m
@@ -22,8 +22,8 @@ firefox-relay-get-unlimited-masks =
 firefox-relay-opt-in-title-1 = Suojaa sähköpostiosoitteesi:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
-firefox-relay-opt-in-subtitle-1 = Käytä { -relay-brand-name }-sähköpostimaskia
-firefox-relay-use-mask-title = Käytä { -relay-brand-name }-sähköpostimaskia
+firefox-relay-opt-in-subtitle-1 = Käytä { -relay-brand-name } -sähköpostimaskia
+firefox-relay-use-mask-title = Käytä { -relay-brand-name } -sähköpostimaskia
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Käytä sähköpostimaskia
     .accesskey = U
