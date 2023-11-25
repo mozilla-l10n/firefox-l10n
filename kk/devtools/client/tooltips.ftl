@@ -92,3 +92,10 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> эксперименталды қасиет болып тұр. Оған келесі браузерлерде қолдау көрсетілмейді:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> - эксперименталдық қасиет.
 css-compatibility-learn-more-message = <strong>{ $rootProperty }</strong> туралы <span data-l10n-name="link">Көбірек білу</span>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Бұл селектор шектелмеген <strong>:has()</strong> пайдаланады, ол баяу болуы мүмкін
