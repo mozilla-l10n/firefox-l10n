@@ -73,7 +73,28 @@ about-webauthn-auth-option-uv = Overenie používateľa
 about-webauthn-auth-option-up = Prítomnosť používateľa
 about-webauthn-auth-option-clientpin = PIN klienta
 about-webauthn-auth-option-rk = Rezidentný kľúč
+about-webauthn-auth-option-alwaysuv = Vždy vyžadovať overenie používateľa
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Nepodporované
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Certifikácie
+about-webauthn-auth-info-firmware-version = Verzia firmvéru
+about-webauthn-auth-info-min-pin-length = Minimálna dĺžka PIN
+about-webauthn-auth-info-force-pin-change = Vynútiť zmenu PIN
+about-webauthn-auth-info-algorithms = Algoritmy
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Rozšírenia
+about-webauthn-auth-info-versions = Verzie
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Nepodporované
