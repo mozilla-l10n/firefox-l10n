@@ -127,11 +127,16 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Ldi asfaylu d waccaren yezrin
     .accesskey = s
+windows-launch-on-login =
+    .label = Ldi { -brand-short-name } s wudem awurman mi ara yekker uselkim-ik·im
+    .accesskey = L
+windows-launch-on-login-disabled = Asmenyif-a yensa deg Windows. I ubeddel-is, rzu ɣer <a data-l10n-name="startup-link">Asnas n usenker</a> deg yiɣewwaren n unagraw.
 startup-restore-warn-on-quit =
     .label = Lɣu ticki tettefɣeḍ seg iminig
 disable-extension =
     .label = Sens aseɣzif
 preferences-data-migration-header = Kter-d isefka seg yiminig
+preferences-data-migration-description = Kter ticraḍ n yisebtar, awalen uffiren, azray, akked yisefka n taččart tawurmant deg { -brand-short-name }.
 preferences-data-migration-button =
     .label = Kter isefka
     .accesskey = t
@@ -461,12 +466,18 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Sken yal tikkelt ifeggagen n udrurem
     .accesskey = k
+browsing-always-underline-links =
+    .label = Ttderrir yal tikkelt iseɣwan
+    .accesskey = d
 browsing-use-onscreen-keyboard =
     .label = Sken anasiw amennalan ticki terra tmara
     .accesskey = n
 browsing-use-cursor-navigation =
     .label = Seqdec yal tikkelt tiqeffalin n tunigin i tikli deg usebter
     .accesskey = S
+browsing-use-full-keyboard-navigation =
+    .label = Seqdec taqeffalt tab i usenkez n ufukus gar yimsenqaden n tferra d yiseɣwan
+    .accesskey = t
 browsing-search-on-start-typing =
     .label = Nadi aḍris ticki tebda tira
     .accesskey = N
@@ -604,6 +615,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Sken isumar n unadi deg ugmuḍ n ufeggag n tansa
     .accesskey = u
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Sken tanfalit n unadi deg wadeg n tansa web ɣef usebter n yigmaḍ n umsedday n unadi s wudem amezwer
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -694,6 +710,9 @@ sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email
 sync-resend-verification =
     .label = Ales tuzna n usentem
     .accesskey = d
+sync-verify-account =
+    .label = Sentem amiḍan
+    .accesskey = S
 sync-remove-account =
     .label = Kkes amiḍan
     .accesskey = R
