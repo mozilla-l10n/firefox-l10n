@@ -238,6 +238,10 @@ device-migration-fxa-spotlight-header = ¿Eiporuhína mba’e’oka itujavéva?
 device-migration-fxa-spotlight-body = Eñongatu ne mba’ekuaarã ambue hendápe ani hag̃ua okañy marandu takate’ỹha ikatúva techaukaha ha ñe’ẽñemi — eiporu mba’éramo ambue mba’e’oka.
 device-migration-fxa-spotlight-primary-button = Mba’éichapa añongatúta che mba’ekuaarã
 device-migration-fxa-spotlight-link = Chemomandu’a ag̃ave
+device-migration-fxa-spotlight-heavy-user-header = Eñongatu ne mba’ekuaarã tekorosãverã
+device-migration-fxa-spotlight-heavy-user-body = Ehecha ne marandu emomba’evéva, ha’éva techaukaha ha ñe’ẽñemi, tahekopyahu ha tahekorosã opaite mba’e’okápe.
+device-migration-fxa-spotlight-heavy-user-primary-button = Eñepyrũ
+device-migration-fxa-spotlight-older-device-header = { -brand-product-name } rekoguapy
 device-migration-fxa-spotlight-getting-new-device-primary-button = Mba’éichapa añongatúta che mba’ekuaarã
 
 ## Set as Default PDF Reader Infobar
