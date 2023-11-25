@@ -242,6 +242,14 @@ device-migration-fxa-spotlight-header = Používate staršie zariadenie?
 device-migration-fxa-spotlight-body = Zálohujte si údaje, aby ste nestratili dôležité informácie, ako sú záložky a heslá – najmä ak prejdete na nové zariadenie.
 device-migration-fxa-spotlight-primary-button = Ako zálohovať moje údaje
 device-migration-fxa-spotlight-link = Pripomenúť neskôr
+device-migration-fxa-spotlight-heavy-user-header = Nezabudnite si zálohovať údaje
+device-migration-fxa-spotlight-heavy-user-body = Uistite sa, že dôležité informácie – ako sú záložky a heslá – sú aktualizované a chránené na všetkých vašich zariadeniach.
+device-migration-fxa-spotlight-heavy-user-primary-button = Začíname
+device-migration-fxa-spotlight-older-device-header = Pokoj v duši, od { -brand-product-name(case: "gen") }
+device-migration-fxa-spotlight-older-device-body = Účet udržuje vaše dôležité informácie aktualizované a chránené na akomkoľvek zariadení, ktoré pripojíte.
+device-migration-fxa-spotlight-older-device-primary-button = Vytvoriť účet
+device-migration-fxa-spotlight-getting-new-device-header = Očakávate v blízkom čase nové zariadenie?
+device-migration-fxa-spotlight-getting-new-device-body = Zálohujte si svoje údaje už teraz, aby ste boli pripravení, keď vám zariadenie dorazí.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Ako zálohovať moje údaje
 
 ## Set as Default PDF Reader Infobar

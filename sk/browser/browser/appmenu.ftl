@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Nástroje prehliadača
 appmenu-developer-tools-extensions =
     .label = Rozšírenia pre vývojárov
+appmenuitem-report-broken-site =
+    .label = Nahlásiť nefunkčnú stránku
