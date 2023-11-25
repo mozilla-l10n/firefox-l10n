@@ -149,7 +149,7 @@ addon-category-sitepermission-title =
     .title = Izin Situs
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Izin Situs untuk { $host }
 
 ## These are global warnings
@@ -240,6 +240,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Sudah digunakan oleh { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Tampilkan { $numberToShow } Lainnya
@@ -376,6 +378,8 @@ addon-detail-private-browsing-disallow = Jangan Izinkan
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Jalnkan pada situs yang dibatasi
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -404,6 +408,8 @@ addon-permissions-optional = Izin opsional untuk fungsi tambahan:
 addon-permissions-learnmore = Pelajari lebih lanjut tentang perizinan
 recommended-extensions-heading = Ekstensi yang Disarankan
 recommended-themes-heading = Tema yang Disarankan
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Berikan kemampuan berikut untuk <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -431,7 +437,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } tidak kompatibel dengan { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.
