@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Mbogue
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Myandy
+protections-panel-report-broken-site =
+    .label = Emombe’u tenda vai
+    .title = Emombe’u tenda vai
