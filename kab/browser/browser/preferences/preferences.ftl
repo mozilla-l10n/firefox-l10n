@@ -1015,6 +1015,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Tigawin tiruradin
     .accesskey = T
+addressbar-locbar-showrecentsearches-option =
+    .label = Sken inadiyen imaynuten
+    .accesskey = m
 addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 addressbar-quickactions-learn-more = Issin ugar
 
@@ -1164,6 +1167,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Alqqaḍ d useqdec n isefka { -brand-short-name }
+collection-header2 = Alqqaḍ d useqdec n yisefka { -brand-short-name }
+    .searchkeywords = telemetry
 collection-description = Ad k-d-nefk afus akken ad tferneḍ aleqqwaḍ n wayen kan ilaqen i weqaεed n { -brand-short-name } i yal yiwen. Ad k-d-nsuter yal tikkelt tasiregt send ad nawi talɣut tudmawant.
 collection-privacy-notice = Tasertit n tbaḍnit
 collection-health-report-telemetry-disabled = Ur tezgiḍ teǧǧiḍ { -vendor-short-name } ad d-yelqeḍ isefka itiknikanen akked wid n temyigawt. Meṛṛa isefka yezrin ad ttwakksen deg 30 n wussan.
