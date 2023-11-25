@@ -106,6 +106,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Değerlendirme kalitesini nasıl belirliyoruz?
+shopping-analysis-explainer-intro2 = Ürün değerlendirmelerinin güvenilirliğini denetlemek için { -fakespot-brand-full-name } yapay zekâ teknolojisini kullanıyoruz. Bu araç yalnızca değerlendirmelerin kalitesini anlamanıza yardımcı olur, ürün kalitesi hakkında yorum yapmaz.
 shopping-analysis-explainer-grades-intro = Her ürünün değerlendirmelerine A’dan F’ye kadar bir <strong>harf notu</strong> veriyoruz.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Düzeltilmiş puan</strong> yalnızca güvenilir olduğunu düşündüğümüz değerlendirmelere dayanır.
 shopping-analysis-explainer-learn-more = <a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name }’un değerlendirme kalitesini nasıl belirlediğini</a> öğrenin.
