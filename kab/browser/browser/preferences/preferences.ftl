@@ -740,6 +740,7 @@ prefs-syncing-button =
 
 ## The list of things currently syncing.
 
+sync-syncing-across-devices-heading = LA tessemtawayeḍ iferdisen-a gar meṛṛa ibenkan-ik·im yeqqnen:
 sync-currently-syncing-bookmarks = Ticraḍ n yisebtar
 sync-currently-syncing-history = Azray
 sync-currently-syncing-tabs = Ldi iccaren
@@ -761,6 +762,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = b
     .buttonlabelextra2 = Se déconnecter…
     .buttonaccesskeyextra2 = S
+sync-choose-dialog-subtitle = Isenfal yettwagen i tebdart n yiferdisen ara yemtawin ad ḥazen akk ibenkan yeqqnen.
 sync-engine-bookmarks =
     .label = Ticraḍ n yisebtar
     .accesskey = c
@@ -839,6 +841,8 @@ forms-breach-alerts =
     .label = Sken ilɣa i wawalen uffiren n yismal i teɛna trewla n yisefka
     .accesskey = k
 forms-breach-alerts-learn-more-link = Issin ugar
+preferences-relay-integration-checkbox =
+    .label = Sumer igelmusen n yimayl { -relay-brand-name } i ummesten n tansa-k·m n yimayl
 relay-integration-learn-more-link = Issin ugar
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -971,6 +975,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Asenqes n yiɣarracen n yinagan n tuqqna
+cookie-banner-handling-description = { -brand-short-name } yettaɛraḍ s wudem awurman ad yagi issutar n trusi n yinagan n tuqqna n yiɣarracen n yinagan n tuqqna ɣef yismal i ten-yessefraken.
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -978,6 +983,8 @@ cookie-banner-blocker-header = Amsewḥel n yiɣarracen n yinagan n tuqqna
 cookie-banner-learn-more = Issin ugar
 forms-handle-cookie-banners =
     .label = Senqes iɣarracen n yinagan n tuqqna
+cookie-banner-blocker-checkbox-label =
+    .label = Agi s wudem awurman iɣarracen n yinagan n tuqqna
 
 ## Privacy Section - Address Bar
 
