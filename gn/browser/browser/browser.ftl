@@ -279,6 +279,8 @@ quickactions-cmd-plugins = Mba’ejoajurã
 # Opens the print dialog
 quickactions-print2 = Emonguatia kuatiarogue
 quickactions-cmd-print = Mbokuatia
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Eñongatu kuatiarogue PDF ramo
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Embojuruja ovetã ñemi
