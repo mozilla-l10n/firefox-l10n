@@ -198,6 +198,7 @@ cfr-cbh-confirm-button = Agi iɣarracen n yinagan n tuqqna
     .accesskey = A
 cfr-cbh-dismiss-button = Mačči tura
     .accesskey = M
+cookie-banner-blocker-cfr-header = { -brand-short-name } yessewḥel inagan n tuqqna
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -224,6 +225,7 @@ fxa-sync-cfr-secondary = Smekti-y-id ticki
 device-migration-fxa-spotlight-header = Aseqdec n yibenk aqbur?
 device-migration-fxa-spotlight-primary-button = Amek ara ḥerzeɣ isefka-w
 device-migration-fxa-spotlight-link = Smekti-y-id ticki
+device-migration-fxa-spotlight-heavy-user-header = Ɣur-k·m ad tettuḍ aḥraz n yisefka-k·m
 device-migration-fxa-spotlight-heavy-user-primary-button = Bdu
 device-migration-fxa-spotlight-older-device-header = Lehna n uqerru, seg { -brand-product-name }
 device-migration-fxa-spotlight-older-device-primary-button = Rnu amiḍan

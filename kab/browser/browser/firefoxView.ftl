@@ -218,4 +218,5 @@ firefoxview-recentlyclosed-empty-header = Tmedleḍ iccer ur tfaqqeḍ?
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Ulac accaren yeldin ɣef yibenk-a
 firefoxview-syncedtabs-connect-another-device = Qqen ibenk-nniḍen

@@ -118,6 +118,8 @@ migration-wizard-progress-success-updated-passwords =
 migration-bookmarks-from-file-picker-title = Kter afaylu n tecraḍ n yisebtar
 migration-bookmarks-from-file-progress-header = Aktar n tecraḍ n yisebtar
 migration-bookmarks-from-file = Ticraḍ n isebtar
+migration-bookmarks-from-file-success-header = Ticraḍ n yisebtar ttwasifḍent-d akken iwata
+migration-bookmarks-from-file-no-valid-data = Afaylu-a ulac deg-s isefka n tecreḍt n usebter. Fren afaylu niḍen.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -226,6 +228,11 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } n { $quantity } yisiɣzaf
+migration-wizard-progress-extensions-support-link = Issin amek { -brand-product-name } ttemṣadan d yisiɣzaf
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Ulac isiɣzaf yemṣadan
+migration-wizard-progress-extensions-addons-link = Nadi isiɣzaf i { -brand-short-name }
 
 ##
 
@@ -250,4 +257,15 @@ migration-wizard-progress-success-history =
        *[other] Seg wass aneggaru { $maxAgeInDays } wussan
     }
 migration-wizard-progress-success-formdata = Amazray n tferkit
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } tarrayt n uxelleṣ
+       *[other] { $quantity } tarrayin n uxelleṣ
+    }
 migration-wizard-safari-instructions-continue = Fren “Kemmel”
+migration-wizard-safari-instructions-folder = Fren akaram Safari deg tebdart syen fren “Ldi”
