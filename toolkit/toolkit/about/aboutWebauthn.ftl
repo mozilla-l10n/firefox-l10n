@@ -73,6 +73,14 @@ about-webauthn-auth-option-uv = Overenie používateľa
 about-webauthn-auth-option-up = Prítomnosť používateľa
 about-webauthn-auth-option-clientpin = PIN klienta
 about-webauthn-auth-option-rk = Rezidentný kľúč
+about-webauthn-auth-option-ep = Podniková atestácia
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototyp biometrickej registrácie (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Povolenie na biometrickú registráciu
+about-webauthn-auth-option-credmgmt = Správa prihlasovacích údajov
+about-webauthn-auth-option-setminpinlength = Nastaviť minimálnu dĺžku PIN
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential bez overenia používateľa
 about-webauthn-auth-option-alwaysuv = Vždy vyžadovať overenie používateľa
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
@@ -85,10 +93,16 @@ about-webauthn-auth-option-null = Nepodporované
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-certifications = Certifikácie
+about-webauthn-auth-info-uv-modality = Spôsob overenia používateľa
 about-webauthn-auth-info-firmware-version = Verzia firmvéru
 about-webauthn-auth-info-min-pin-length = Minimálna dĺžka PIN
 about-webauthn-auth-info-force-pin-change = Vynútiť zmenu PIN
 about-webauthn-auth-info-algorithms = Algoritmy
+about-webauthn-auth-info-transports = Transporty
+about-webauthn-auth-info-max-credential-id-length = Maximálna dĺžka prihlasovacieho ID
+about-webauthn-auth-info-max-credential-count-in-list = Maximálny počet prihlasovacích údajov v zozname
+about-webauthn-auth-info-pin-protocols = PIN protokoly
+about-webauthn-auth-info-max-msg-size = Maximálna veľkosť správy
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Rozšírenia
