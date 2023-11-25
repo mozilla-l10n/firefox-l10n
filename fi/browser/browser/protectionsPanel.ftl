@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Poista käytöstä
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Ota käyttöön
+protections-panel-report-broken-site =
+    .label = Ilmoita rikkinäisestä sivustosta
+    .title = Ilmoita rikkinäisestä sivustosta
