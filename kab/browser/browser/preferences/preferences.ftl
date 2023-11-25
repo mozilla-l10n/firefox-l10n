@@ -1267,6 +1267,7 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Ammesten s wudem amezwer
     .accesskey = A
+preferences-doh-default-detailed-desc-3 = Seqdec asaǧǧaw adigan, ma yella tettunefk tegnit
 preferences-doh-setting-enabled =
     .label = Ammesten yettwasghden
     .accesskey = A

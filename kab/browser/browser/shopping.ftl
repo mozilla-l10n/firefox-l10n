@@ -2,10 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Tiɣin seg { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Amsenqad n tamawt
 shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Amsenqad n tamawin - biṭa
 shopping-close-button =
     .title = Mdel
 # This string is for notifying screen reader users that the
@@ -33,8 +40,12 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Talɣut tamaynut ara yettusneqden
 shopping-message-bar-warning-stale-analysis-button = Senqed tura
+shopping-message-bar-warning-product-not-available-button2 = Mmel tuɣalin n ufaris deg tawsa
 shopping-message-bar-analysis-in-progress-title2 = Adenqed n tɣara n yilɣa
 shopping-message-bar-analysis-in-progress-message2 = Aya yezmer ad yeṭṭef 60 tsinin.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Asenqed n tɣara n tamawin ({ $percentage }%)
 
 ## Strings for the product review snippets card
 
@@ -57,6 +68,8 @@ shopping-settings-label =
     .label = Iɣewwaren
 shopping-settings-recommendations-toggle =
     .label = Sken adellel deg umsenqad n tamawt
+shopping-settings-opt-out-button = Sens Amsenqed n tamawin
+powered-by-fakespot = Amsenqad n tamiwin yella d lmendad n <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 

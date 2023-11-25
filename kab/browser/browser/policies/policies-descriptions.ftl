@@ -87,6 +87,7 @@ policy-LocalFileLinks = Sireg ismal usdiden i useqdec n yiseɣqan ɣer yifuyla i
 policy-ManagedBookmarks = Swel tabdart n tecraḍ n yisebtar yettusefraken sɣur anedbal ur nezmir ara ad ttusneflen sɣur aseqdac.
 policy-ManualAppUpdateOnly = Mudd kan tisirag i yileqman s ufus, ur ttalɣu ara aseqdac ɣef yileqman.
 policy-PrimaryPassword = Suter neɣ agi aseqdec n wawal uffir agejdan.
+policy-PrintingEnabled = Rmed neɣ sens asiggez.
 policy-NetworkPrediction = Ad yeǧǧ neɣ ad yegdel tifin n yiẓeḍwa (taɣuri tuzwirt DNS)
 policy-NewTabPage = Ad yermed neɣ ad yessens asebter agejdan n yiccer amaynut.
 policy-NoDefaultBookmarks = Sens timerna n tecraḍ n isebtar s wudem imezwer yettunefken akked { -brand-short-name }, akked tecraḍ n isebtar tuḥricin (Yettwarzan aṭas, tibzimin n melmi kan). Awennit: tasertit-agi ad teddu akken ilaq ticki tettwarmed send asenker amenzu n umaƔnu.
