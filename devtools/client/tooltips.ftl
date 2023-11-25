@@ -94,3 +94,10 @@ css-compatibility-deprecated-supported-message = Vlastnosť <strong>{ $property 
 css-compatibility-experimental-message = Vlastnosť <strong>{ $property }</strong> je experimentálnou vlastnosťou. Nie je podporovaná v nasledujúcich prehliadačoch:
 css-compatibility-experimental-supported-message = Vlastnosť <strong>{ $property }</strong> je experimentálnou vlastnosťou.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Ďalšie informácie</span> o vlastnosti <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Tento selektor používa nijako neobmedzenú metódu <strong>:has()</strong>, čo môže byť pomalé
