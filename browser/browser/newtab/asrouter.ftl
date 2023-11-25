@@ -239,6 +239,14 @@ device-migration-fxa-spotlight-header = Använder du en äldre enhet?
 device-migration-fxa-spotlight-body = Säkerhetskopiera dina data för att se till att du inte förlorar viktig information som bokmärken och lösenord — speciellt om du byter till en ny enhet.
 device-migration-fxa-spotlight-primary-button = Hur man säkerhetskopierar mina data
 device-migration-fxa-spotlight-link = Påminn mig senare
+device-migration-fxa-spotlight-heavy-user-header = Glöm inte att säkerhetskopiera din data
+device-migration-fxa-spotlight-heavy-user-body = Se till att viktig information — som bokmärken och lösenord — uppdateras och skyddas på alla dina enheter.
+device-migration-fxa-spotlight-heavy-user-primary-button = Kom igång
+device-migration-fxa-spotlight-older-device-header = Trygghet, från { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Ett konto håller din viktiga information uppdaterad och skyddad på alla enheter du ansluter.
+device-migration-fxa-spotlight-older-device-primary-button = Skapa ett konto
+device-migration-fxa-spotlight-getting-new-device-header = Hoppas du på en ny enhet den här säsongen?
+device-migration-fxa-spotlight-getting-new-device-body = Säkerhetskopiera din data nu, så att du är redo att börja när din enhet kommer.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hur man säkerhetskopierar mina data
 
 ## Set as Default PDF Reader Infobar
