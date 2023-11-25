@@ -80,6 +80,7 @@ migration-passwords-from-file-success-header = Awalen uffiren ttwasifḍen-d akk
 migration-passwords-from-file = Asenqed n wawalen uffiren deg ufaylu
 migration-passwords-new = Awalen uffiren imaynuten
 migration-passwords-updated = Awalen uffiren yellan
+migration-passwords-from-file-no-valid-data = Afaylu-a ulac akk deg-s isefka n wawalen uffiren imeɣta. Fren afaylu niḍen.
 migration-passwords-from-file-picker-title = Kter afaylu n wawalen uffiren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -181,7 +182,9 @@ migration-wizard-progress-icon-completed =
     .aria-label = Immed
 migration-safari-password-import-header = Sifeḍ awalen uffiren seg Safari
 migration-safari-password-import-steps-header = I wakken ad d-tsifḍeḍ awalen uffiren seg Safari:
+migration-safari-password-import-step2 = Fren taqeffalt <img data-l10n-name="safari-icon-3dots"/> syen fren "Kter meṛṛa awalen uffiren"
 migration-safari-password-import-step3 = Sekles afaylu n wawalen uffiren
+migration-safari-password-import-step4 = Seqdec “Fren afaylu” ddaw i ufran n ufaylu n wawalen uffiren i teskelseḍ
 migration-safari-password-import-skip-button = Suref
 migration-safari-password-import-select-button = Fren afaylu
 # Shown in the migration wizard after importing bookmarks from another
@@ -267,5 +270,6 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } tarrayt n uxelleṣ
        *[other] { $quantity } tarrayin n uxelleṣ
     }
+migration-wizard-safari-permissions-sub-header = I uktar n tecraḍ n yisebtar akked uzray n tunigin n Safari:
 migration-wizard-safari-instructions-continue = Fren “Kemmel”
 migration-wizard-safari-instructions-folder = Fren akaram Safari deg tebdart syen fren “Ldi”
