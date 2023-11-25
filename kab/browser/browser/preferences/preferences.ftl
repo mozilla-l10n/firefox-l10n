@@ -3,11 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Ad yazen asɣal “ur sfuɣul ara” ɣer ismal web akken ad gzun belli ur tebɣiḍ ara asfuɣel
+do-not-track-description2 =
+    .label = Ssuter i yismal web “Ur yi-ṭṭafaren ara”
+    .accesskey = s
 do-not-track-learn-more = Issin ugar
 do-not-track-option-default-content-blocking-known =
     .label = Kan ticki { -brand-short-name } yettusbadu ɣer sewḥel ineḍfaṛen
 do-not-track-option-always =
     .label = Yal tikkelt
+global-privacy-control-description =
+    .label = Ssuter i yismal web ur snuzuyen, ur beṭṭun isefka-w
+    .accesskey = s
+non-technical-privacy-header = Ismenyifen n tbaḍnit n yismal web
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Iɣewwaren
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -1236,6 +1247,10 @@ preferences-doh-strict-detailed-desc-1 = Seqdec kan asaǧǧaw i tferneḍ
 preferences-doh-setting-off =
     .label = Yensa
     .accesskey = s
+preferences-doh-off-desc = Seqdec aqeddacn uṣeggem DNS s wudem amezwer
+preferences-doh-checkbox-warn =
+    .label = Ɛeggen ma yella wis kraḍ yessewḥal aseqdec n DNS n tɣellist
+    .accesskey = Ɛ
 preferences-doh-select-resolver = Fren asaǧǧaw:
 preferences-doh-exceptions-description = { -brand-short-name } ur isseqdac ara DNS n tɣellist ɣef usmel-a
 preferences-doh-manage-exceptions =
