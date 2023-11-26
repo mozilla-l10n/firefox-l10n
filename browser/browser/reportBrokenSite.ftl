@@ -6,4 +6,39 @@ report-broken-site-mainview-title = Nahlášení nefunkční stránky
 report-broken-site-panel-header =
     .label = Nahlásit nefunkční stránku
     .title = Nahlášení nefunkční stránky
-report-broken-site-panel-intro = Pomozte zlepšit { -brand-product-name } pro všechny. { -vendor-short-name } používá vámi zaslané informace k řešení problémů s webovými stránkami.
+report-broken-site-panel-intro =
+    { -brand-product-name.case-status ->
+        [with-cases] Pomozte zlepšit { -brand-product-name(case: "acc") } pro všechny. { -vendor-short-name } používá vámi zaslané informace k řešení problémů s webovými stránkami.
+       *[no-cases] Pomozte zlepšit aplikaci { -brand-product-name } pro všechny. { -vendor-short-name } používá vámi zaslané informace k řešení problémů s webovými stránkami.
+    }
+report-broken-site-panel-url = Adresa URL
+report-broken-site-panel-reason-label = Co je nefunkční?
+report-broken-site-panel-reason-optional-label = Co je nefunkční? (volitelné)
+report-broken-site-panel-reason-choose =
+    .label = Vyberte důvod
+report-broken-site-panel-reason-slow =
+    .label = Stránka je pomalá nebo nefunguje
+report-broken-site-panel-reason-media =
+    .label = Obrázky nebo videa
+report-broken-site-panel-reason-content =
+    .label = Tlačítka, odkazy a další obsah
+report-broken-site-panel-reason-account =
+    .label = Přihlášení nebo odhlášení
+report-broken-site-panel-reason-adblockers =
+    .label = Blokátory reklam
+report-broken-site-panel-reason-other =
+    .label = Něco jiného
+report-broken-site-panel-description-label = Popis problému
+report-broken-site-panel-description-optional-label = Popis problému (volitelné)
+report-broken-site-panel-send-more-info-link = Odeslat více informací
+report-broken-site-panel-button-cancel =
+    .label = Zrušit
+report-broken-site-panel-button-okay =
+    .label = OK
+report-broken-site-panel-button-send =
+    .label = Odeslat
+report-broken-site-panel-unspecified = Neurčeno
+report-broken-site-panel-report-sent-label = Vaše hlášení bylo odesláno
+report-broken-site-panel-report-sent-header =
+    .label = Vaše hlášení bylo odesláno
+    .title = Vaše hlášení bylo odesláno
