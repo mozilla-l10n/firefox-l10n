@@ -4,5 +4,8 @@
 
 contentanalysis-alert-title = Ανάλυση περιεχομένου
 contentanalysis-slow-agent-dialog-title = Ανάλυση περιεχομένου σε εξέλιξη
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-slow-agent-dialog-body = Η Ανάλυση περιεχομένου αναλύει τον πόρο «{ $content }»
 contentanalysis-operationtype-clipboard = πρόχειρο
 contentanalysis-notification-title = Ανάλυση περιεχομένου
