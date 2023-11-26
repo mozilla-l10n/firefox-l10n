@@ -242,6 +242,14 @@ device-migration-fxa-spotlight-header = Используете старое ус
 device-migration-fxa-spotlight-body = Сделайте резервную копию своих данных, чтобы не потерять важную информацию, такую как закладки и пароли, особенно при переходе на новое устройство.
 device-migration-fxa-spotlight-primary-button = Как сделать резервную копию моих данных
 device-migration-fxa-spotlight-link = Напомнить позже
+device-migration-fxa-spotlight-heavy-user-header = Не забудьте создать резервную копию своих данных
+device-migration-fxa-spotlight-heavy-user-body = Убедитесь, что важная информация, такая как закладки и пароли, обновляется и защищается на всех ваших устройствах.
+device-migration-fxa-spotlight-heavy-user-primary-button = Начало работы
+device-migration-fxa-spotlight-older-device-header = Душевное спокойствие от { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Аккаунт позволяет обновлять и защищать вашу важную информацию на любом устройстве, которое вы подключаете.
+device-migration-fxa-spotlight-older-device-primary-button = Создать аккаунт
+device-migration-fxa-spotlight-getting-new-device-header = Надеетесь на новое устройство в этом сезоне?
+device-migration-fxa-spotlight-getting-new-device-body = Сделайте резервную копию своих данных прямо сейчас, чтобы быть готовыми к работе, когда устройство прибудет.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Как сделать резервную копию моих данных
 
 ## Set as Default PDF Reader Infobar
