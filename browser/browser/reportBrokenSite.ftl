@@ -42,3 +42,8 @@ report-broken-site-panel-report-sent-label = Vaše hlášení bylo odesláno
 report-broken-site-panel-report-sent-header =
     .label = Vaše hlášení bylo odesláno
     .title = Vaše hlášení bylo odesláno
+report-broken-site-panel-report-sent-text =
+    { -brand-product-name.case-status ->
+        [with-cases] Děkujeme, že pomáháte { -brand-product-name(case: "dat") } utvářet web otevřenější, přístupnější a lepší pro všechny.
+       *[no-cases] Děkujeme, že pomáháte aplikaci { -brand-product-name } utvářet web otevřenější, přístupnější a lepší pro všechny.
+    }
