@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Абзорҳои браузер
 appmenu-developer-tools-extensions =
     .label = Васеъшавиҳо барои барномасозон
+appmenuitem-report-broken-site =
+    .label = Гузориш дар бораи сомонаи вайроншуда
