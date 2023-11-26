@@ -640,9 +640,9 @@ reader-view-close-button =
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 picture-in-picture-urlbar-button-open =
-    .tooltiptext = Abrir Imagen en imagen ({ $shortcut })
+    .tooltiptext = Cerrar Picture-in-Picture ({ $shortcut })
 picture-in-picture-urlbar-button-close =
-    .tooltiptext = Cerrar imagen en imagen ({ $shortcut })
+    .tooltiptext = Cerrar Picture-in-Picture ({ $shortcut })
 picture-in-picture-panel-header = Picture-in-Picture
 picture-in-picture-panel-headline = Este sitio web no recomienda Picture-in-Picture
 picture-in-picture-panel-body = Es posible que los videos no se muestren como el desarrollador pretendía mientras Picture-in-Picture está habilitado.
