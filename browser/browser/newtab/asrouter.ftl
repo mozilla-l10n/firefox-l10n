@@ -239,6 +239,7 @@ device-migration-fxa-spotlight-body = Δημιουργήστε αντίγραφ�
 device-migration-fxa-spotlight-primary-button = Δημιουργία αντιγράφων ασφαλείας δεδομένων
 device-migration-fxa-spotlight-link = Υπενθύμιση αργότερα
 device-migration-fxa-spotlight-heavy-user-primary-button = Έναρξη
+device-migration-fxa-spotlight-older-device-body = Ένας λογαριασμός διατηρεί ενημερωμένες και ασφαλείς τις σημαντικές πληροφορίες σας σε όποια συσκευή κάνετε σύνδεση.
 device-migration-fxa-spotlight-older-device-primary-button = Δημιουργία λογαριασμού
 device-migration-fxa-spotlight-getting-new-device-primary-button = Δημιουργία αντιγράφων ασφαλείας δεδομένων
 
