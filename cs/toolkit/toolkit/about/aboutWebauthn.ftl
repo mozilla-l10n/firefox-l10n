@@ -27,12 +27,25 @@ about-webauthn-text-not-available = Na této platformě není k dispozici.
 
 about-webauthn-results-success = Úspěch!
 about-webauthn-results-general-error = Chyba!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Chyba: Neplatný PIN. Zkuste to znovu.
+        [one] Chyba: Neplatný PIN. Zkuste to znovu. Zbývá vám jeden pokus.
+        [few] Chyba: Neplatný PIN. Zkuste to znovu. Zbývají vám { $retriesLeft } pokusy.
+        [many] Chyba: Neplatný PIN. Zkuste to znovu. Zbývá vám { $retriesLeft } pokusů.
+       *[other] Chyba: Neplatný PIN. Zkuste to znovu. Zbývá vám { $retriesLeft } pokusů.
+    }
+about-webauthn-results-pin-too-short-error = Chyba: Zadaný PIN je příliš krátký.
+about-webauthn-results-pin-too-long-error = Chyba: Zadaný PIN je příliš dlouhý.
 
 ## Labels
 
 about-webauthn-new-pin-label = Nový PIN:
 about-webauthn-repeat-pin-label = Zopakovat nový PIN:
 about-webauthn-current-pin-label = Aktuální PIN:
+about-webauthn-pin-required-label = Zadejte svůj PIN:
 about-webauthn-credential-list-subsection-title = Přihlašovací údaje:
 
 ## Buttons
@@ -47,16 +60,26 @@ about-webauthn-delete-button = Smazat
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
 about-webauthn-auth-option-uv = Ověření uživatele
+about-webauthn-auth-option-clientpin = PIN klienta
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
 about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Nepodporováno
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Certifikace
+about-webauthn-auth-info-firmware-version = Verze firmwaru
+about-webauthn-auth-info-min-pin-length = Minimální délka PIN
+about-webauthn-auth-info-force-pin-change = Vynutit změnu PIN
 about-webauthn-auth-info-algorithms = Algoritmy
 about-webauthn-auth-info-transports = Transporty
+about-webauthn-auth-info-pin-protocols = Protokoly PIN
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Rozšíření
 about-webauthn-auth-info-versions = Verze
 # Shows when boolean value for an info field is True. True should not be translated.
