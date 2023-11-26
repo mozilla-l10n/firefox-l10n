@@ -92,3 +92,10 @@ css-compatibility-deprecated-supported-message = Το <strong>{ $property }</str
 css-compatibility-experimental-message = Το <strong>{ $property }</strong> είναι μια πειραματική ιδιότητα. Δεν υποστηρίζεται στα εξής προγράμματα περιήγησης:
 css-compatibility-experimental-supported-message = Το <strong>{ $property }</strong> είναι μια πειραματική ιδιότητα.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Μάθετε περισσότερα</span> σχετικά με το <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Αυτός ο επιλογέας χρησιμοποιεί απεριόριστο <strong>:has()</strong>, το οποίο μπορεί να είναι αργό
