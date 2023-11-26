@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Απενεργοποίηση
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Ενεργοποίηση
+protections-panel-report-broken-site =
+    .label = Αναφορά προβληματικού ιστοτόπου
+    .title = Αναφορά προβληματικού ιστοτόπου
