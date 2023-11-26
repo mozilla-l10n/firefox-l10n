@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Хомӯш кардан
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Фаъол кардан
+protections-panel-report-broken-site =
+    .label = Гузориш дар бораи сомонаи вайроншуда
+    .title = Гузориш дар бораи сомонаи вайроншуда

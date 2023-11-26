@@ -237,6 +237,10 @@ device-migration-fxa-spotlight-header = Аз дастгоҳи куҳна ист�
 device-migration-fxa-spotlight-body = Барои мутмаин шудан, ки шумо маълумоти муҳимро ба монанди хатбаракҳо ва ниҳонвожаҳо гум намекунед, нусхаи эҳтиётии маълумоти худро таҳия намоед, хусусан агар шумо ба дастгоҳи нав гузаронед.
 device-migration-fxa-spotlight-primary-button = Тарзи таҳия кардани нусхаи эҳтиётии маълумоти ман
 device-migration-fxa-spotlight-link = Баъдтар ёдоварӣ кунед
+device-migration-fxa-spotlight-heavy-user-header = Фаромӯш накунед, ки нусхаи эҳтиётии маълумоти худро таҳия намоед
+device-migration-fxa-spotlight-heavy-user-primary-button = Оғози кор
+device-migration-fxa-spotlight-older-device-primary-button = Эҷод кардани ҳисоб
+device-migration-fxa-spotlight-getting-new-device-primary-button = Тарзи таҳия кардани нусхаи эҳтиётии маълумоти ман
 
 ## Set as Default PDF Reader Infobar
 
