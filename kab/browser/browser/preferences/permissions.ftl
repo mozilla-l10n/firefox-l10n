@@ -179,6 +179,7 @@ permissions-site-speaker-window =
 permissions-exceptions-doh-window =
     .title = Tisuraf n usmel web i DNS s HTTPS
     .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } ur isseqdac ara DNS n tɣellist ɣef usmel-a akked taɣulin-is tirnawin.
 permissions-doh-entry-field = Sekcem isem n taɣult n usmel web
     .accesskey = t
 permissions-doh-add-exception =

@@ -26,6 +26,9 @@ policy-Bookmarks = Rnu ticraḍ n isebtar deg ufeggag n tecraḍ, Umuɣ n tecra�
 policy-CaptivePortal = Rmed neɣ gdel asefrek n uwwur yettwaṭṭfen.
 policy-CertificatesDescription = Rnu iselkinen neɣ seqdec iselkinen usliɣen.
 policy-Cookies = Sireg neɣ gdel asbadu n inagan n tuqqna i yisebtar.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Sbadu tisertiyen yeqqnen ɣer yimagbaren.
+policy-DisableAccounts = Sens imeẓla i d-yessuturen amiḍan, ula d amtawi.
 policy-DisabledCiphers = Sens allalen n uwgelhen.
 policy-DefaultDownloadDirectory = Ad yesbadu akaram n usader s wudem amezwer.
 policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.

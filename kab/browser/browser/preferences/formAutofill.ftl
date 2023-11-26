@@ -18,6 +18,7 @@ autofill-manage-edit-button = Ẓreg…
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = Sekles tansa?
+address-capture-save-doorhanger-description = Sekles talɣut deg { -brand-short-name } i wakken ad tizmireḍ ad teččareḍ tiferkiyin s zzerb.
 address-capture-update-doorhanger-header = Leqqem tansa?
 address-capture-edit-doorhanger-header = Ẓreg tansa
 address-capture-save-button =

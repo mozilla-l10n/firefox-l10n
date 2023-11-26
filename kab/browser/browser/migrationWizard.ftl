@@ -53,6 +53,12 @@ migration-imported-edge-reading-list = Tabdart n tɣuṛi (seg Safari)
 ## is installed as a Snap.
 
 migration-no-permissions-instructions-step1 = Fren “Kemmel”
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = Deg umefran n ufaylu, ddu ɣer <code>{ $permissionsPath }</code> syen fren “Fren”
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -148,6 +154,7 @@ migration-cancel-button-label = Sefsex
 migration-done-button-label = Immed
 migration-continue-button-label = Kemmel
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ur issaweḍ ara ad yaf kra n wahi ideg llant tecraḍ n yisebtar, azray neɣ isefka n wawalen uffiren.
+migration-wizard-import-browser-no-resources = Tella tuccḍa. { -brand-short-name } ur yezmir ara akk ad yaf iisefka ara d-yekter seg umaɣnu-a n yiminig.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
