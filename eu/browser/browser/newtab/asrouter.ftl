@@ -203,6 +203,8 @@ cfr-cbh-confirm-button = Ukatu cookie iragarki-bandak
     .accesskey = k
 cfr-cbh-dismiss-button = Une honetan ez
     .accesskey = n
+cookie-banner-blocker-cfr-header = { -brand-short-name }(e)k cookieak blokeatu berri ditu
+cookie-banner-blocker-cfr-body = Automatikoki ukatzen ditugu cookie laster-leihoak, guneentzat zailagoa izan dadin zure jarraipena egitea.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -224,6 +226,7 @@ set-default-pdf-handler-primary = Ulertuta
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Gailu berririk ba al da zure etorkizunean?
+fxa-sync-cfr-body = Ziurtatu zure azken laster-markak, pasahitzak eta fitxak zurekin daudela { -brand-product-name } nabigatzaile berri bat irekitzen duzun bakoitzean.
 fxa-sync-cfr-primary = Argibide gehiago
     .accesskey = A
 fxa-sync-cfr-secondary = Gogora iezadazu geroago
@@ -232,8 +235,12 @@ fxa-sync-cfr-secondary = Gogora iezadazu geroago
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Gailu zaharragoa darabilzu?
+device-migration-fxa-spotlight-body = Egin zure datuen babeskopia laster-markak, pasahitzak eta bestelako informazio garrantzitsua galtzen ez dituzula ziurtatzeko — batez ere gailu berri batera aldatzen bazara.
 device-migration-fxa-spotlight-primary-button = Nola egin nire datuen babeskopia
 device-migration-fxa-spotlight-link = Gogora iezadazu geroago
+device-migration-fxa-spotlight-heavy-user-header = Ez ahaztu zure datuen babeskopia egitea
+device-migration-fxa-spotlight-heavy-user-body = Ziurtatu informazio garrantzitsua — hala nola laster-markak eta pasahitzak — egunean eta babestuta dagoela zure gailu guztien artean.
+device-migration-fxa-spotlight-heavy-user-primary-button = Hasi erabiltzen
 device-migration-fxa-spotlight-getting-new-device-primary-button = Nola egin nire datuen babeskopia
 
 ## Set as Default PDF Reader Infobar
