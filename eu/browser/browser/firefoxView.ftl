@@ -147,6 +147,9 @@ firefoxview-opentabs-focus-tab =
     .title = Aldatu fitxa honetara
 firefoxview-show-more = Erakutsi gehiago
 firefoxview-show-less = Erakutsi gutxiago
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Bilatu historia
 firefoxview-sort-history-by-date-label = Ordenatu dataren arabera
 firefoxview-sort-history-by-site-label = Ordenatu gunearen arabera
 # Variables:
