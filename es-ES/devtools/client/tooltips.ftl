@@ -92,3 +92,10 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> es una propiedad experimental. No es compatible con los siguientes navegadores:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> es una propiedad experimental.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Saber más</span> sobre <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Este selector utiliza <strong>:has()</strong> sin restricciones, lo que puede ser lento.

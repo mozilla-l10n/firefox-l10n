@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Desactivar
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Activar
+protections-panel-report-broken-site =
+    .label = Informar de problemas con un sitio
+    .title = Informar de problemas con un sitio
