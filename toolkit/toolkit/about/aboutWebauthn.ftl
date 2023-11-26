@@ -12,11 +12,16 @@ about-webauthn-page-title = Co je WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Informace o zařízení
+about-webauthn-info-subsection-title = Informace o autentikátoru
+about-webauthn-options-subsection-title = Možnosti autentikátoru
+about-webauthn-pin-section-title = Správa PIN
+about-webauthn-credential-management-section-title = Správa přihlašovacích údajů
 about-webauthn-pin-required-section-title = Vyžadován PIN
 
 ## Info field texts
 
 about-webauthn-text-connect-device = Připojte prosím bezpečnostní token.
+about-webauthn-text-not-available = Na této platformě není k dispozici.
 
 ## Results label
 
