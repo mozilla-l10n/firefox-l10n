@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Нова інформація для перевірки
 shopping-message-bar-warning-stale-analysis-button = Перевірити зараз
-shopping-message-bar-generic-error-title2 = Наразі інформація недоступна
-shopping-message-bar-generic-error-message = Ми працюємо над усуненням проблеми. Поверніться згодом.
-shopping-message-bar-warning-not-enough-reviews-title = Ще недостатньо відгуків
-shopping-message-bar-warning-not-enough-reviews-message2 = Коли на цей продукт буде більше відгуків, ми зможемо їх проаналізувати.
-shopping-message-bar-warning-product-not-available-title = Товар відсутній
-shopping-message-bar-warning-product-not-available-message2 = Якщо цей товар знову з'явиться, повідомте про це нам, і ми його проаналізуємо.
-shopping-message-bar-warning-product-not-available-button = Повідомити, що цей товар знову в наявності
-shopping-message-bar-thanks-for-reporting-title = Дякуємо за повідомлення!
-shopping-message-bar-thanks-for-reporting-message2 = Оновлені результати мають з'явитися впродовж 24 годин. Перевірте знову пізніше.
-shopping-message-bar-warning-product-not-available-reported-title2 = Інформація незабаром надійде
-shopping-message-bar-warning-product-not-available-reported-message2 = Оновлені результати мають з'явитися впродовж 24 годин. Перевірте знову пізніше.
 shopping-message-bar-generic-error =
     .heading = Наразі інформація недоступна
     .message = Ми працюємо над усуненням проблеми. Поверніться згодом.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Оновлені результати мають з'явитися впродовж 24 годин. Перевірте знову пізніше.
 shopping-message-bar-analysis-in-progress-title2 = Перевірка якості відгуку
 shopping-message-bar-analysis-in-progress-message2 = Це може тривати близько 60 секунд.
-shopping-message-bar-page-not-supported-title = Ми не можемо перевірити ці відгуки
-shopping-message-bar-page-not-supported-message = На жаль, ми не можемо перевірити якість відгуків для певних типів товарів, як-от: подарункових карток, стримінгових відео, музики й ігор.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Перевірка якості відгуку ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Ми не можемо перевірити ці відгуки
     .message = На жаль, ми не можемо перевірити якість відгуків для певних типів товарів, як-от: подарункових карток, стримінгових відео, музики й ігор.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Налаштування
 shopping-settings-recommendations-toggle =
     .label = Показувати рекламу в засобі перевірки відгуків
-shopping-settings-recommendations-learn-more = Ви періодично бачитимете рекламу схожих товарів. Усі оголошення мають відповідати нашим стандартам якості відгуків. <a data-l10n-name="review-quality-url">Докладніше</a>
 shopping-settings-recommendations-learn-more2 = Ви періодично бачитимете рекламу схожих товарів. Ми рекламуємо лише продукти, які мають надійні відгуки. <a data-l10n-name="review-quality-url">Докладніше</a>
 shopping-settings-opt-out-button = Вимкнути засіб перевірки відгуків
 powered-by-fakespot = Засіб перевірки відгуків розроблено на базі <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = Не знаю
 shopping-survey-next-button-label = Далі
 shopping-survey-submit-button-label = Надіслати
 shopping-survey-terms-link = Умови користування
-shopping-survey-thanks-message = Дякуємо за ваш відгук!
 shopping-survey-thanks =
     .heading = Дякуємо за ваш відгук!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Користуйтесь зас�
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Спробуйте наш надійний путівник відгуками про товари
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Впевніться у надійності відгуків про товар на <b>{ $currentSite }</b> перед купівлею. Перевірка відгуків, експериментальна функція від { -vendor-short-name }, вбудована безпосередньо у { -brand-product-name } — і вона також працює на <b>{ $secondSite }</b> і <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name

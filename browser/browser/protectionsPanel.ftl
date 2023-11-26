@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Вимкнути
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Увімкнути
+protections-panel-report-broken-site =
+    .label = Повідомити про пошкоджений сайт
+    .title = Повідомити про пошкоджений сайт
