@@ -29,6 +29,18 @@ protections-panel-etp-off-header = Ammesten yettwaseǧehden mgal aḍfaṛ yensa
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-on-toggle =
+    .label = Ammesten mgal aḍfaṛ yettwaseǧhed
+    .description = Rmed i usmel-a
+    .aria-label = Sens ammesten i { $host }
+protections-panel-etp-off-toggle =
+    .label = Ammesten mgal aḍfaṛ yettwaseǧhed
+    .description = Sens i usmel-a
+    .aria-label = Rmed ammesten i { $host }
+protections-panel-etp-toggle-on =
+    .label = Ammesten mgal aḍfaṛ yettwaseǧhed
+    .description = Rmed i usmel-a
+    .aria-label = Ammesten mgal aḍfaṛ yettwaseǧhed: Rmed i { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Ur iteddu ara usmel?
 # The heading/title of the sub-panel view
