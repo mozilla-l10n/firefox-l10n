@@ -18,3 +18,4 @@ report-broken-site-panel-report-sent-label = თქვენი მოხსე�
 report-broken-site-panel-report-sent-header =
     .label = თქვენი მოხსენება გაგზავნილია
     .title = თქვენი მოხსენება გაგზავნილია
+report-broken-site-panel-report-sent-text = გმადლობთ რომ გვეხმარებით, თქვენი მხარდაჭერით { -brand-product-name } ცდილობს აქციოს ვებსივრცე მეტად გახსნილი, ხელმისაწვდომი და საყოველთაო სარგებლის მომტანი.
