@@ -11,6 +11,7 @@ contentanalysis-slow-agent-dialog-title = 正在分析内容
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = 内容分析正在分析资源“{ $content }”
 contentanalysis-operationtype-clipboard = 剪贴板
+contentanalysis-operationtype-dropped-text = 拖放的文本
 contentanalysis-notification-title = 内容分析
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
