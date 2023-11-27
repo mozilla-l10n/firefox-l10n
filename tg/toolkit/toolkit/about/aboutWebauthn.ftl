@@ -12,6 +12,8 @@ about-webauthn-page-title = Дар бораи «WebAuthn»
 ## Section titles
 
 about-webauthn-info-section-title = Маълумот дар бораи дастгоҳ
+about-webauthn-info-subsection-title = Маълумот дар бораи «Authenticator»
+about-webauthn-options-subsection-title = Имконоти «Authenticator»
 about-webauthn-pin-section-title = Идоракунии рамзҳои PIN
 about-webauthn-credential-management-section-title = Идоракунии маълумоти корбар
 about-webauthn-pin-required-section-title = Рамзи PIN ҳатмӣ аст
