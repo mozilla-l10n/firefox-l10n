@@ -301,6 +301,8 @@ pdfjs-editor-ink-button-label = Расмкашӣ
 pdfjs-editor-stamp-button =
     .title = Илова ё таҳрир кардани тасвирҳо
 pdfjs-editor-stamp-button-label = Илова ё таҳрир кардани тасвирҳо
+pdfjs-editor-remove-button =
+    .title = Тоза кардан
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Ранг
 pdfjs-editor-free-text-size-input = Андоза

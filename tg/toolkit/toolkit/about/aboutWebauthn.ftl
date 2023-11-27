@@ -47,6 +47,7 @@ about-webauthn-delete-button = Нест кардан
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
 about-webauthn-auth-option-clientpin = Рамзи PIN-и муштарӣ
+about-webauthn-auth-option-plat = Дастгоҳи платформа
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Дуруст
 # Shows when boolean value of an option is False. False should not be translated.

@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Маълумоти нав барои тафтиш
 shopping-message-bar-warning-stale-analysis-button = Ҳозир тафтиш карда шавад
-shopping-message-bar-generic-error-title2 = Ҳоло ягон маълумот дастрас нест
-shopping-message-bar-generic-error-message = Мо барои ҳал кардани ин масъала кор карда истодаем. Лутфан, дертар аз нав тафтиш кунед.
-shopping-message-bar-warning-not-enough-reviews-title = Ҳоло шумораи тақризҳо кофӣ намебошад
-shopping-message-bar-warning-not-enough-reviews-message2 = Вақте ки ин маҳсул дорои тақризҳои сершумор мебошад, мо метавонем сифати он тақризҳоро тафтиш намоем.
-shopping-message-bar-warning-product-not-available-title = Маҳсул дастнорас аст
-shopping-message-bar-warning-product-not-available-message2 = Агар шумо бинед, ки ин маҳсул аз нав дастрас бошад, гузориш диҳед ва мо тақризҳои онро тафтиш мекунем.
-shopping-message-bar-warning-product-not-available-button = Гузориш диҳед, ки ин маҳсул аз нав дастрас аст
-shopping-message-bar-thanks-for-reporting-title = Ташаккур барои гузориш!
-shopping-message-bar-thanks-for-reporting-message2 = Мо бояд дар муддати 24 соат дар бораи тақризҳои ин маҳсул маълумот гирем. Лутфан, аз нав дертар тафтиш кунед.
-shopping-message-bar-warning-product-not-available-reported-title2 = Маълумот ба наздикӣ дастрас мешавад
-shopping-message-bar-warning-product-not-available-reported-message2 = Мо бояд дар муддати 24 соат дар бораи тақризҳои ин маҳсул маълумот гирем. Лутфан, аз нав дертар тафтиш кунед.
 shopping-message-bar-generic-error =
     .heading = Ҳоло ягон маълумот дастрас нест
     .message = Мо барои ҳал кардани ин масъала кор карда истодаем. Лутфан, дертар аз нав тафтиш кунед.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Мо бояд дар муддати 24 соат дар бораи тақризҳои ин маҳсул маълумот гирем. Лутфан, аз нав дертар тафтиш кунед.
 shopping-message-bar-analysis-in-progress-title2 = Дар ҳоли санҷиши сифати тақризҳо
 shopping-message-bar-analysis-in-progress-message2 = Ин метавонад тахминан то 60 сония вақт гирад.
-shopping-message-bar-page-not-supported-title = Мо ин тақризҳоро тафтиш карда наметавонем
-shopping-message-bar-page-not-supported-message = Мутаассифона, мо наметавонем сифати тақризҳоро барои баъзе намудҳои маҳсулот тафтиш кунем. Масалан, барои кортҳои ёдгорӣ, видеоҳои пахши мустақим, мусиқӣ ва бозиҳо.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Санҷиши сифати тақризҳо ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Мо ин тақризҳоро тафтиш карда наметавонем
     .message = Мутаассифона, мо наметавонем сифати тақризҳоро барои баъзе намудҳои маҳсулот тафтиш кунем. Масалан, барои кортҳои ёдгорӣ, видеоҳои пахши мустақим, мусиқӣ ва бозиҳо.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Танзимот
 shopping-settings-recommendations-toggle =
     .label = Намоиш додани реклама дар абзори тафтиши тақризҳо
-shopping-settings-recommendations-learn-more = Баъзе вақт шумо рекламаи тасодуфиро барои маҳсулоти дахлдор мебинед. Тамоми реклама бояд ба стандартҳои сифати тақризҳои мо ҷавобгӯ бошад. <a data-l10n-name="review-quality-url">Маълумоти бештар</a>
 shopping-settings-recommendations-learn-more2 = Баъзе вақт шумо рекламаи тасодуфиро барои маҳсулоти дахлдор мебинед. Мо танҳо он маҳсулотеро таблиғ мекунем, ки дорои тақризҳои боэътимод мебошад. <a data-l10n-name="review-quality-url">Маълумоти бештар</a>
 shopping-settings-opt-out-button = Ғайрифаъол кардани абзори тафтиши тақризҳо
 powered-by-fakespot = Абзори тафтиши тақризҳо аз ҷониби «<a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>» таҳия карда шудааст
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = Ман намедонам
 shopping-survey-next-button-label = Навбатӣ
 shopping-survey-submit-button-label = Пешниҳод кардан
 shopping-survey-terms-link = Шартҳои истифода
-shopping-survey-thanks-message = Ташаккур барои изҳори назари шумо!
 shopping-survey-thanks =
     .heading = Ташаккур барои изҳори назари шумо!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Ҳар вақте ки шумо 
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Дастури моро дар бораи эътимоднокӣ нисбат ба тақризҳои маҳсулот озмоед
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Пеш аз хариди маҳсул, дар <b>{ $currentSite }</b> аз назар гузаронед, ки то чӣ андоза тақризҳо дар бораи ин маҳсул боэътимод мебошанд. Абзори тафтиши тақризҳо ҳамчун хусусияти озмоишӣ аз тарафи «{ -vendor-short-name }» бевосита ба браузери «{ -brand-product-name }» дарунсохт карда шудааст — ва ин хусусият ҳам дар <b>{ $secondSite }</b> ва ҳам дар <b>{ $thirdSite }</b> кор мекунад.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
