@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Struments dal navigadôr
 appmenu-developer-tools-extensions =
     .label = Estension pai svilupadôrs
+appmenuitem-report-broken-site =
+    .label = Segnale problemis cul sît
