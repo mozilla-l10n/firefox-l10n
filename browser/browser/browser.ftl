@@ -279,6 +279,8 @@ quickactions-cmd-plugins = 插件
 # Opens the print dialog
 quickactions-print2 = 打印页面
 quickactions-cmd-print = 打印, print
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = 另存页面为 PDF
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = 打开隐私窗口

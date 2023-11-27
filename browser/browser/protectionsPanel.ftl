@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = 关闭
 protections-panel-cookie-banner-view-turn-on-label =
     .label = 开启
+protections-panel-report-broken-site =
+    .label = 反馈网站问题
+    .title = 反馈网站问题
