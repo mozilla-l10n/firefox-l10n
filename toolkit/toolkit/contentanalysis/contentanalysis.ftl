@@ -16,7 +16,7 @@ contentanalysis-notification-title = Inhoudsanalyse
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
 #   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
-contentanalysis-genericresponse-message = Inhoudsanalyse antwoordde met { $respons } voor bron: { $content }
+contentanalysis-genericresponse-message = Inhoudsanalyse antwoordde met { $response } voor bron: { $content }
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Uw organisatie gebruikt software voor het voorkomen van gegevensverlies die de volgende inhoud heeft geblokkeerd: { $content }.
