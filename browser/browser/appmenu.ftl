@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = ბრაუზერის ხელსაწყოები
 appmenu-developer-tools-extensions =
     .label = გაფართოებები შემმუშავებელთათვის
+appmenuitem-report-broken-site =
+    .label = მოხსენება დაზიანებული საიტის შესახებ

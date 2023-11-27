@@ -58,9 +58,12 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = ამ ნაწარმის მიმოხილვების შესახებ მონაცემები გვექნება 24 საათში. გთხოვთ, მოგვიანებით დაუბრუნდეთ.
 shopping-message-bar-analysis-in-progress-title2 = მოწმდება მიმოხილვის ხარისხი
 shopping-message-bar-analysis-in-progress-message2 = შეიძლება გასტანოს 60 წამს.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = მოწმდება მიმოხილვის ხარისხი ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = ვერ მოწმდება ეს მიმოხილვები
-    .message = სამწუხაროდ, გარკვეული სახის ნაწარმზე მიმოხილვის ხარისხი ვერ შემოწმდება. ასეთებია მაგალითად, სასაჩუქრე ბარათები, ეთერით გადასაცემი ვიდეო, მუსიკა და თამაშები.
+    .message = სამწუხაროდ, გარკვეული სახის ნაწარმზე მიმოხილვის ხარისხი ვერ შემოწმდება. ასეთებია მაგალითად სასაჩუქრე ბარათები, ეთერით გადასაცემი ვიდეო, მუსიკა და თამაშები.
 
 ## Strings for the product review snippets card
 
