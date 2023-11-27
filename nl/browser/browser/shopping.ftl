@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Nieuwe te controleren informatie
 shopping-message-bar-warning-stale-analysis-button = Nu controleren
-shopping-message-bar-generic-error-title2 = Er is momenteel geen info beschikbaar
-shopping-message-bar-generic-error-message = We werken eraan om het probleem op te lossen. Kom binnenkort nog eens terug.
-shopping-message-bar-warning-not-enough-reviews-title = Nog niet genoeg beoordelingen
-shopping-message-bar-warning-not-enough-reviews-message2 = Wanneer dit product meer beoordelingen heeft, kunnen we hun kwaliteit beoordelen.
-shopping-message-bar-warning-product-not-available-title = Product is niet beschikbaar
-shopping-message-bar-warning-product-not-available-message2 = Als u ziet dat dit product weer op voorraad is, meld dit dan aan ons en wij zullen eraan werken om de beoordelingen te controleren.
-shopping-message-bar-warning-product-not-available-button = Melden dat dit product weer op voorraad is
-shopping-message-bar-thanks-for-reporting-title = Bedankt voor het melden!
-shopping-message-bar-thanks-for-reporting-message2 = We zouden binnen 24 uur info over de beoordelingen van dit product moeten hebben. Kom later nog eens terug.
-shopping-message-bar-warning-product-not-available-reported-title2 = Binnenkort info
-shopping-message-bar-warning-product-not-available-reported-message2 = We zouden binnen 24 uur info over de beoordelingen van dit product moeten hebben. Kom later nog eens terug.
 shopping-message-bar-generic-error =
     .heading = Er is momenteel geen info beschikbaar
     .message = We werken eraan om het probleem op te lossen. Kom binnenkort nog eens terug.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = We zouden binnen 24 uur info over de beoordelingen van dit product moeten hebben. Kom later nog eens terug.
 shopping-message-bar-analysis-in-progress-title2 = Beoordelingskwaliteit controleren
 shopping-message-bar-analysis-in-progress-message2 = Dit kan ongeveer 60 seconden duren.
-shopping-message-bar-page-not-supported-title = We kunnen deze beoordelingen niet controleren
-shopping-message-bar-page-not-supported-message = Helaas kunnen we de beoordelingskwaliteit voor bepaalde soorten producten niet controleren. Dit betreft bijvoorbeeld cadeaubonnen en streaming video, muziek en games.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Beoordelingskwaliteit controleren ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = We kunnen deze beoordelingen niet controleren
     .message = Helaas kunnen we de beoordelingskwaliteit voor bepaalde soorten producten niet controleren. Dit betreft bijvoorbeeld cadeaubonnen en streaming video, muziek en games.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Instellingen
 shopping-settings-recommendations-toggle =
     .label = Advertenties tonen in beoordelingscontrole
-shopping-settings-recommendations-learn-more = U ziet af en toe advertenties voor relevante producten. Alle advertenties moeten voldoen aan onze kwaliteitsnormen voor beoordelingen. <a data-l10n-name="review-quality-url">Meer info</a>
 shopping-settings-recommendations-learn-more2 = U ziet af en toe advertenties voor relevante producten. We adverteren alleen voor producten met betrouwbare beoordelingen. <a data-l10n-name="review-quality-url">Meer info</a>
 shopping-settings-opt-out-button = Beoordelingscontrole uitschakelen
 powered-by-fakespot = Beoordelingscontrole wordt mogelijk gemaakt door <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = Ik weet het niet
 shopping-survey-next-button-label = Volgende
 shopping-survey-submit-button-label = Verzenden
 shopping-survey-terms-link = Gebruiksvoorwaarden
-shopping-survey-thanks-message = Bedankt voor uw feedback!
 shopping-survey-thanks =
     .heading = Bedankt voor uw feedback!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Probeer beoordelingscontrole een
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Probeer onze vertrouwde gids voor productbeoordelingen
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Bekijk hoe betrouwbaar productbeoordelingen op <b>{ $currentSite }</b> zijn, voordat u een aankoop doet. Beoordelingscontrole, een experimentele functie van { -vendor-short-name }, is rechtstreeks in { -brand-product-name } ingebouwd – en het werkt in <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
