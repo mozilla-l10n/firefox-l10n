@@ -20,6 +20,8 @@ about-webauthn-pin-required-section-title = Рамзи PIN ҳатмӣ аст
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Лутфан, токени бехатариро пайваст намоед.
+about-webauthn-text-not-available = Дар ин платформа дастнорас аст.
 
 ## Results label
 

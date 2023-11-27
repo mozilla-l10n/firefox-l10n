@@ -8,6 +8,7 @@ protocolhandler-mailto-os-handler-no-button = Ҳоло не
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
+protocolhandler-mailto-handler-notificationbox-always = Ҳамеша пайвандҳои почтаи электрониро ба воситаи «{ $url }» мекушоед?
 
 ##
 
