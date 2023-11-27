@@ -301,6 +301,8 @@ pdfjs-editor-ink-button-label = Rajzolás
 pdfjs-editor-stamp-button =
     .title = Képek hozzáadása vagy szerkesztése
 pdfjs-editor-stamp-button-label = Képek hozzáadása vagy szerkesztése
+pdfjs-editor-remove-button =
+    .title = Eltávolítás
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Szín
 pdfjs-editor-free-text-size-input = Méret

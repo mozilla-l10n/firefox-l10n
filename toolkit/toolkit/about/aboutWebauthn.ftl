@@ -101,3 +101,15 @@ about-webauthn-auth-option-null = Nem támogatott
 
 about-webauthn-auth-info-remaining-discoverable-credentials = Fennmaradó felfedezhető hitelesítő adatok
 about-webauthn-auth-info-certifications = Tanúsítványok
+about-webauthn-auth-info-algorithms = Algoritmusok
+about-webauthn-auth-info-pin-protocols = PIN protokollok
+about-webauthn-auth-info-max-msg-size = Legnagyobb üzenetméret
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Kiegészítők
+about-webauthn-auth-info-versions = Verziók
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = Igaz
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = Hamis
+about-webauthn-auth-info-null = Nem támogatott
