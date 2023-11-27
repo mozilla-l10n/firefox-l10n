@@ -58,6 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = 我们会在 24 小时内提供此商品的评价分析信息，请记得回来查看。
 shopping-message-bar-analysis-in-progress-title2 = 正在核查评价质量
 shopping-message-bar-analysis-in-progress-message2 = 这可能需要大约 60 秒。
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = 正在检查评价质量（{ $percentage }%）
 shopping-message-bar-page-not-supported =
     .heading = 无法核查这些评价
     .message = 很抱歉，我们无法核查某些类型商品的评价质量，例如礼品卡、流媒体视频、音乐、游戏。
