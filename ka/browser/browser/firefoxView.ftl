@@ -147,6 +147,29 @@ firefoxview-opentabs-focus-tab =
     .title = ამ ჩანართზე გადართვა
 firefoxview-show-more = ვრცლად
 firefoxview-show-less = მოკლედ
+firefoxview-search-text-box-clear-button =
+    .title = გასუფთავება
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = ძიება მონახულებულ გვერდებში
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = ძიება ბოლოს დახურული ჩანართებში
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = ძიების შედეგი ფრაზისთვის „{ $query }“
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } საიტი
+       *[other] { $count } საიტი
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = ვერ მოიძებნა შედეგები ფრაზისთვის „{ $query }“
 firefoxview-sort-history-by-date-label = თარიღის მიხედვით
 firefoxview-sort-history-by-site-label = საიტის მიხედვით
 # Variables:
@@ -206,9 +229,6 @@ firefoxview-import-history-description = აქციეთ { -brand-short-name 
 firefoxview-recentlyclosed-empty-header = ადრე დაგეხურათ ჩანართი?
 firefoxview-recentlyclosed-empty-description = აქ იხილავთ ბოლოს დახურულ ყველა ჩანართს, ასე რომ, სწრაფადვე შეგეძლებათ კვლავ გახსნა.
 firefoxview-recentlyclosed-empty-description-two = უფრო ადრინდელი ჩანართებისთვის იხილეთ <a data-l10n-name="history-url">მონახულებული გვერდების ისტორია</a>.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

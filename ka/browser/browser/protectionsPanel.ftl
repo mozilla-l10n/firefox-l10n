@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = გამორთვა
 protections-panel-cookie-banner-view-turn-on-label =
     .label = ჩართვა
+protections-panel-report-broken-site =
+    .label = მოხსენება დაზიანებული საიტის შესახებ
+    .title = მოხსენება დაზიანებული საიტის შესახებ
