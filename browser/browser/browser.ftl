@@ -279,6 +279,9 @@ quickactions-cmd-plugins = მოდულები
 # Opens the print dialog
 quickactions-print2 = გვერდის ამობეჭდვა
 quickactions-cmd-print = ამობეჭდვა
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = გვერდის PDF-სახით შენახვა
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = პირადი ფანჯრის გახსნა
 quickactions-cmd-private = პირადი თვალიერება
@@ -560,8 +563,6 @@ urlbar-result-action-search-w-engine = { $engine } ძიება
 urlbar-result-action-sponsored = დაფინანსებული
 urlbar-result-action-switch-tab = ჩანართზე გადასვლა
 urlbar-result-action-visit = მონახულება
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = აღებულ ბმულზე გადასვლა
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = აღებულ ბმულზე გადასვლა
 # Directs a user to press the Tab key to perform a search with the specified
