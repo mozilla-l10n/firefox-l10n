@@ -88,3 +88,10 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> 为实验性属性，在下列浏览器中已不支持：
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> 为实验性属性。
 css-compatibility-learn-more-message = <span data-l10n-name="link">详细了解</span>“<strong>{ $rootProperty }</strong>”
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = 此选择器使用了不受约束的 <strong>:has()</strong>，可能拖慢速度
