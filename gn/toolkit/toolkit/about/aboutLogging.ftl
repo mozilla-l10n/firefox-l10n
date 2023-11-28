@@ -39,6 +39,7 @@ about-logging-preset-networking-websocket-description = Mboheraguapy ra’ãha e
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-description = Mboheraguapy ra’ãha ehecha hag̃ua HTTP/3 ha QUIC apañuãi
 about-logging-preset-networking-http3-upload-speed-label = Tenyhẽ pohyikue HTTP/3
+about-logging-preset-networking-http3-upload-speed-description = Mboheraguapy ra’ãha eikuaa hag̃ua HTTP/3 apañuãi pya’ekue jehupi
 about-logging-preset-media-playback-label = Hekoetáva mboheta
 about-logging-preset-media-playback-description = Teraguapy ra’ãha ojehechakuaa hag̃ua apañuãi ñembohetaha (ha’e’ỹva videoconferencia apañuãi)
 about-logging-preset-webrtc-label = WebRTC
