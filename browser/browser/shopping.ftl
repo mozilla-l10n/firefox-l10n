@@ -116,9 +116,16 @@ shopping-analysis-explainer-learn-more2 = Les mer om <a data-l10n-name="review-q
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Høydepunkter</strong> er fra { $retailer }-vurderinger i løpet av de siste 80 dagene som vi mener er pålitelige.
+shopping-analysis-explainer-review-grading-scale-reliable = Pålitelige vurderinger. Vi tror at vurderingene sannsynligvis kommer fra ekte kunder som har gitt ærlige, objektive vurderinger.
+shopping-analysis-explainer-review-grading-scale-mixed = Vi tror det er en blanding av pålitelige og upålitelige vurderinger.
+shopping-analysis-explainer-review-grading-scale-unreliable = Upålitelige vurderinger. Vi mener vurderingene sannsynligvis er falske eller fra partiske vurderere.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Åpne vurderingskontrolløren
+shopping-sidebar-close-button2 =
+    .tooltiptext = Lukk vurderingskontrolløren
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -135,12 +142,19 @@ shopping-analysis-explainer-highlights-description = <strong>Høydepunkter</stro
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Ingen informasjon om disse vurderingene ennå
+shopping-unanalyzed-product-message-2 = For å vite om dette produktets vurderinger er pålitelige, sjekk kvaliteten på vurderingen. Det tar bare omtrent 60 sekunder.
+shopping-unanalyzed-product-analyze-button = Kontrollerer kvaliteten på vurderingen
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Mer å vurdere
+ad-by-fakespot = Reklame fra { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Hjelp til med å forbedre { -brand-product-name }
 shopping-survey-question-one = Hvor fornøyd er du med vurderingskontrollen i { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Veldig fornøyd
 shopping-survey-q1-radio-2-label = Fornøyd
@@ -161,6 +175,10 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Gå tilbake til <strong>vurderingskontrolløren</strong> hver gang du ser prislappen.
+shopping-callout-pdp-opted-in-title = Er disse vurderingene pålitelige? Finn raskt ut av det.
+shopping-callout-pdp-opted-in-subtitle = Åpne vurderingskontrolløren for å se en justert vurdering med upålitelige vurderinger fjernet. I tillegg kan du se høydepunkter fra nylige autentiske vurderinger.
+shopping-callout-closed-not-opted-in-title = Ett klikk til pålitelige vurderinger
 
 ## Onboarding message strings.
 
