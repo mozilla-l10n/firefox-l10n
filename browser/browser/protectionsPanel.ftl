@@ -128,6 +128,8 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = כיבוי
 protections-panel-report-broken-site =
     .label = דיווח על אתר שבור
     .title = דיווח על אתר שבור
