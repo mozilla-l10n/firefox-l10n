@@ -40,8 +40,9 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Informacions novèlas d’evaluar
 shopping-message-bar-warning-stale-analysis-button = Verificar ara
-shopping-message-bar-generic-error-title2 = Cap d’informacion pas disponibla pel moment
-shopping-message-bar-thanks-for-reporting-title = Mercés pel senhalament !
+shopping-message-bar-generic-error =
+    .heading = Cap d’informacion pas disponibla pel moment
+    .message = Sèm a trabalhar per resòlver aquesta anomalia. Mercés de tornar mai tard.
 
 ## Strings for the product review snippets card
 
