@@ -279,6 +279,9 @@ quickactions-cmd-plugins = shtojca
 # Opens the print dialog
 quickactions-print2 = Shtypni faqe
 quickactions-cmd-print = shtype
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Ruaje faqen si PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Hap dritare private
 quickactions-cmd-private = shfletim privat
