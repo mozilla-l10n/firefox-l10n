@@ -147,6 +147,14 @@ firefoxview-opentabs-focus-tab =
     .title = สลับไปยังแท็บนี้
 firefoxview-show-more = แสดงเพิ่มเติม
 firefoxview-show-less = แสดงน้อยลง
+firefoxview-search-text-box-clear-button =
+    .title = ล้าง
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = ค้นหาประวัติ
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = ค้นหาแท็บที่เพิ่งปิดล่าสุด
 firefoxview-sort-history-by-date-label = เรียงตามวันที่
 firefoxview-sort-history-by-site-label = เรียงตามไซต์
 # Variables:
