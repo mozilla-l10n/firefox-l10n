@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Aisinas del navegador
 appmenu-developer-tools-extensions =
     .label = Extensions pels desvolopaires
+appmenuitem-report-broken-site =
+    .label = Senhalar un site copat

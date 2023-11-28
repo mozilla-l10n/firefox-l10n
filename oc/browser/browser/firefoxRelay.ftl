@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } a pas pogut trob
 ##
 
 firefox-relay-must-login-to-fxa = Devètz vos connectar a { -fxaccount-brand-name } per poder utilizar { -relay-brand-name }.
+firefox-relay-must-login-to-account = Connectatz-vos a vòstre compte per utilizar vòstres àlias de messatjariá { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Gerir los alisas
     .accesskey = G
