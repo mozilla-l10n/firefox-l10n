@@ -36,6 +36,7 @@ firefoxview-tabpickup-adddevice-description = Telecargatz { -brand-product-name 
 firefoxview-tabpickup-adddevice-learn-how = Ne saber mai
 firefoxview-tabpickup-adddevice-primarybutton = Installatz { -brand-product-name } per mobil
 firefoxview-syncedtabs-adddevice-header = Connectatz-vos a { -brand-product-name } sus vòstres autres aparelhs
+firefoxview-syncedtabs-adddevice-description = Per veire los onglets ont qu’utilizetz { -brand-product-name }, connectatz-vos sus totes vòstres aparelhs. Vejatz tanben <a data-l10n-name="url">cossí connectar d’aparelhs addicionals</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Ensajar { -brand-product-name } per mobil
 firefoxview-tabpickup-synctabs-header = Activar la sincronizacion dels onglets
 firefoxview-tabpickup-synctabs-description = Autorizatz { -brand-short-name } a partejar los onglets entre vòstres aparelhs.
@@ -151,6 +152,9 @@ firefoxview-search-text-box-clear-button =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Cercar dins l’istoric
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Recercar dins los onglets recentament tampats
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
@@ -205,6 +209,7 @@ firefoxview-choose-browser-button = Causir lo navegador
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Pas res a mostrar
+firefoxview-dont-remember-history-empty-description = Nòstra prioritat es de protegir vòstra vida privada. Es per aquò que podètz contrarotlar l'activitat que { -brand-short-name } memoriza.
 
 ##
 
