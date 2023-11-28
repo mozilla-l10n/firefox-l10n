@@ -159,7 +159,7 @@ main-context-menu-copy-link-simple =
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
-    .label = Copiar link sem rastreamento de site
+    .label = Copiar link sem rastreamento de sites
     .accesskey = i
 
 ## Media (video/audio) controls
