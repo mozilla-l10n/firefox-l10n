@@ -164,6 +164,7 @@ shopping-survey-thanks =
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Ved å velge «{ shopping-onboarding-opt-in-button }» godtar du { -fakespot-brand-name } sine <a data-l10n-name="privacy_policy">personvernbestemmelser</a> og <a data-l10n-name="terms_of_use">brukervilkår.</a>
 shopping-onboarding-opt-in-button = Ja, prøv det
 shopping-onboarding-not-now-button = Ikke nå
 shopping-onboarding-dialog-close-button =
