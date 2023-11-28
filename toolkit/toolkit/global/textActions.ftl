@@ -25,7 +25,7 @@ text-action-copy-shortcut =
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 text-action-strip-on-share =
-    .label = Copiar sem rastreamento de site
+    .label = Copiar sem rastreamento de sites
     .accesskey = i
 text-action-paste =
     .label = Colar
