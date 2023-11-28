@@ -279,6 +279,9 @@ quickactions-cmd-plugins = ปลั๊กอิน
 # Opens the print dialog
 quickactions-print2 = พิมพ์หน้า
 quickactions-cmd-print = พิมพ์
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = บันทึกหน้าเป็น PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = เปิดหน้าต่างส่วนตัว
 quickactions-cmd-private = การเรียกดูแบบส่วนตัว
@@ -556,8 +559,6 @@ urlbar-result-action-search-w-engine = ค้นหาด้วย { $engine }
 urlbar-result-action-sponsored = ได้รับการสนับสนุน
 urlbar-result-action-switch-tab = สลับไปยังแท็บ
 urlbar-result-action-visit = เยี่ยมชม
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = เยี่ยมชมจากคลิปบอร์ดของคุณ
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = เยี่ยมชมจากคลิปบอร์ด
 # Directs a user to press the Tab key to perform a search with the specified
