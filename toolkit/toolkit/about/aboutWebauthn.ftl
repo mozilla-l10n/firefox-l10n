@@ -101,6 +101,8 @@ about-webauthn-auth-option-null = Nem támogatott
 
 about-webauthn-auth-info-remaining-discoverable-credentials = Fennmaradó felfedezhető hitelesítő adatok
 about-webauthn-auth-info-certifications = Tanúsítványok
+about-webauthn-auth-info-firmware-version = Firmware verziója
+about-webauthn-auth-info-min-pin-length = PIN-kód minimális hossza
 about-webauthn-auth-info-algorithms = Algoritmusok
 about-webauthn-auth-info-pin-protocols = PIN protokollok
 about-webauthn-auth-info-max-msg-size = Legnagyobb üzenetméret
