@@ -6,8 +6,10 @@
 ## Confirmation hints
 
 confirmation-hint-breakage-report-sent = Докладът е изпратен. Благодарим ви!
+confirmation-hint-login-removed = Входните данни са премахнати!
 confirmation-hint-page-bookmarked = Добавено към отметките
 confirmation-hint-password-saved = Паролата е запазена!
 confirmation-hint-pin-tab = Закачен!
 confirmation-hint-pin-tab-description = Щракнете с десния бутон върху раздела, за да го махнете от леснодостъпните.
 confirmation-hint-send-to-device = Изпратено!
+confirmation-hint-firefox-relay-mask-created = Създадена е нова маска!
