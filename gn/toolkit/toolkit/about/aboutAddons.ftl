@@ -25,7 +25,7 @@ list-empty-recent-updates =
 list-empty-find-updates =
     .label = Ñembohekopyahu jeheka
 list-empty-button =
-    .label = Eikuaave moĩmbahakuéra rehegua
+    .label = Eikuaave moĩmbaha rehegua
 help-button = Moĩmbaha jokoha
 sidebar-help-button-title =
     .title = Moĩmbaha jokoha
@@ -42,10 +42,10 @@ detail-last-updated =
     .label = Ñembohekopyahu ramovéva
 addon-detail-description-expand = Ehechaukave
 addon-detail-description-collapse = Ehechauka’ive
-detail-contributions-description = Ko moĩmbaha mboguatahára ojerure eipytyvõ okueve hag̃ua mboguatahápe ejapóvo peteĩ michĩmíva mba’eme’ẽ.
+detail-contributions-description = Ko moĩmbaha mboguatahára ojerure eipytyvõ oku’eve hag̃ua mboguatahápe ejapóvo peteĩ michĩmíva mba’eme’ẽ.
 detail-contributions-button = Ñepytyvõ
     .title = Eipytyvõ ko moĩmbaha okakuaa hag̃ua
-    .accesskey = Ñ
+    .accesskey = C
 detail-update-type =
     .value = Ñembohekopyahu ijeheguíva
 detail-update-default =
@@ -108,7 +108,7 @@ disabled-unsigned-heading =
     .value = Heta moĩmbaha ojepe’aitéma
 disabled-unsigned-description = Ko’ã moĩmbaha ndojehechajeýi ojeporu hag̃uáicha { -brand-short-name }-pe. Ikatu<label data-l10n-name="find-addons">Myengoviarã juhu</label> térã ejerure mboguatahárape ojehechajey hag̃ua.
 disabled-unsigned-learn-more = Eikuaave oreñeha’ã rehegua ikatu hag̃uáicha roipytyvõ peime hag̃ua jeikekatúpe.
-disabled-unsigned-devinfo = Umi mboguatahára oipotáva moĩmbaha jehechapyréva ikatu omoñe’ẽve ohóvo ko <label data-l10n-name="learn-more">popeguáva</label>.
+disabled-unsigned-devinfo = Umi mboguatahára oipotáva moĩmbaha ojehechapyréva ikatu omoñe’ẽve ohóvo ko <label data-l10n-name="learn-more">popeguáva</label>.
 plugin-deprecation-description = ¿Oĩ nderejuhúiva? Sapy’ánte oĩ mba’ejoajurã ndaikatuvéima ojeporu { -brand-short-name } ndive. <label data-l10n-name="learn-more">Jeikuaave.</label>
 legacy-warning-show-legacy = Opaite mba’ejoapyrã jehecha
 legacy-extensions =
@@ -160,12 +160,12 @@ extensions-warning-safe-mode2 =
 extensions-warning-check-compatibility2 =
     .message = Ojueheguáva jehechajey moĩmbaha reheguáva oñemongéma. Ikatu oguereko heta juehegua’ỹva.
 extensions-warning-check-compatibility-button = Myandy
-    .title = Ojueheguáva jehechajey moĩmbaha reheguáva myandy.
+    .title = Ojueheguáva jehechajey moĩmbaha reheguáva myandy
 extensions-warning-update-security = Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.
 extensions-warning-update-security2 =
     .message = Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.
 extensions-warning-update-security-button = Myandy
-    .title = Emyandy jehechajey moĩmbaha rekorosãrã reheguáva
+    .title = Emyandy jehechajey moĩmbaha rekorosãrã rehegua
 extensions-warning-imported-addons2 =
     .message = Emohu’ã jepysokue guerupyre ñemohenda { -brand-short-name } peve
 extensions-warning-imported-addons-button = Emohenda Jepysokue
@@ -189,7 +189,7 @@ addon-updates-update-addons-automatically = Moĩmbaha ijeheguietéva mbohekopyah
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = Emboheko opaite umi moĩmbaha oñembohekopyahu hag̃ua ijeheguiete
+addon-updates-reset-updates-to-automatic = Emboheko opaite moĩmbaha oñembohekopyahu hag̃ua ijeheguiete
     .accesskey = R
 addon-updates-reset-updates-to-manual = Emboheko opaite moĩmbaha oñembohekopyahu hag̃uáicha pópe
     .accesskey = R

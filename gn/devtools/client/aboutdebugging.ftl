@@ -232,7 +232,7 @@ about-debugging-debug-target-inspect-button = Ma’ẽag̃ui
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Emyanyhẽ moĩmbaha sapy’aguáva…
 # Text displayed when trying to install a temporary extension in the "This Firefox" page.
-about-debugging-tmp-extension-install-error = Oiko jejavy emohendakuévo moĩmbaha sapy’agua.
+about-debugging-tmp-extension-install-error = Oiko jejavy guasu emohendakuévo moĩmbaha sapy’agua.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Myanyhẽjey

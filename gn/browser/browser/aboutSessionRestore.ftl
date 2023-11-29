@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = Ovetã ha tendayke mbojevyjey
 welcome-back-restore-some-label = Embojevyjey reipotávante
-welcome-back-page-info-link = Umi moĩmbaha ha ñemomba’eguáva oñemboguepáma ha Kundahára ñemboheko porãma ojevyjeývo ijypykuetépe. Ko apañuãi guasu ñoñemoĩ porãiramo, <a data-l10n-name="link-more">Reñemoaranduve upe ejaposévape.</a>
+welcome-back-page-info-link = Umi moĩmbaha ha ñemomba’eguáva oñemboguepáma ha Kundahára oñemboheko porãma ojevyjeývo ijypykuetépe. Ko apañuãi guasu ñoñemoĩporãiramo, <a data-l10n-name="link-more">Reñemoaranduve upe ejaposévape.</a>

@@ -112,7 +112,7 @@ permissions-exceptions-saved-logins-desc = Tembiapo ñepyrũ ko’ã ñanduti re
 permissions-exceptions-addons-window2 =
     .title = Tenda ñemoneĩmbyre - Moĩmbaha ñemohenda
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = Ikatu rehechauka mba’e ñanduti renda guivépa ikatu remohenda moĩmbaha. Ehai kundaharape ha’etéva tenda remoneĩséva ha ejopy Moneĩ.
+permissions-exceptions-addons-desc = Ikatu rehechauka mba’e ñanduti renda guivépa ikatu emohenda moĩmbaha. Ehai kundaharape ha’etéva tenda emoneĩséva ha ejopy Moneĩ.
 
 ## Site Permissions - Autoplay
 
