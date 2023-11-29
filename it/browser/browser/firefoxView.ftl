@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Chiudi
     .aria-label = Chiudi
+firefoxview-empty-state-icon =
+  .alt = Attenzione:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = adesso
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
