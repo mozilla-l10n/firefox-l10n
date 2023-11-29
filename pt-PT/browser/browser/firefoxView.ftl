@@ -147,6 +147,18 @@ firefoxview-opentabs-focus-tab =
     .title = Trocar para este separador
 firefoxview-show-more = Mostrar mais
 firefoxview-show-less = Mostrar menos
+firefoxview-search-text-box-clear-button =
+    .title = Limpar
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Pesquisar histórico
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Pesquisar separadores fechados recentemente
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Nenhum resultado para “{ $query }”
 firefoxview-sort-history-by-date-label = Ordenar por data
 firefoxview-sort-history-by-site-label = Ordenar por site
 # Variables:
