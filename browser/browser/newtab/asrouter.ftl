@@ -237,6 +237,9 @@ device-migration-fxa-spotlight-header = A utilizar um dispositivo mais antigo?
 device-migration-fxa-spotlight-body = Faça uma cópia dos seus dados para garantir que não perde informações importantes, tais como marcadores e palavras-passe — especialmente se mudar para um novo dispositivo.
 device-migration-fxa-spotlight-primary-button = Como fazer uma cópia dos meus dados
 device-migration-fxa-spotlight-link = Lembrar mais tarde
+device-migration-fxa-spotlight-heavy-user-header = Não se esqueça de fazer uma cópia de segurança dos seus dados
+device-migration-fxa-spotlight-heavy-user-primary-button = Começar
+device-migration-fxa-spotlight-older-device-primary-button = Criar uma conta
 
 ## Set as Default PDF Reader Infobar
 
