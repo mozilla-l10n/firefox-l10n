@@ -189,6 +189,8 @@ firefoxview-spotlight-promo-secondarybutton = Suref
 
 colorways-cfr-primarybutton = Fren afran n yiniten
     .accesskey = F
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = Seɣmu iminig-ik·im s { -brand-short-name } s tiɣma tufrinin n { -brand-short-name } i d-yettwaddmen seg tuɣac i ibeddlen udem i yidles.
 colorways-cfr-header-28days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg 16 deg yennayer
 colorways-cfr-header-14days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg sin n yimalasen
 colorways-cfr-header-7days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg yimalas-a.
