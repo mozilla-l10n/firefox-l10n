@@ -158,6 +158,8 @@ mr2022-onboarding-secondary-skip-button-label = Пропускане
 
 # Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
 mr2022-onboarding-easy-setup-primary-button-label = Запазване и продължаване
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Внасяне от предишен браузър
 
 ## MR2022 New User Pin Firefox screen strings
 
