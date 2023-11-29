@@ -90,6 +90,12 @@ main-context-menu-bookmark-page =
     .aria-label = Отмятане на страница...
     .accesskey = О
     .tooltiptext = Отмятане на страница
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Отмятане на страница…
+    .accesskey = О
 main-context-menu-open-link =
     .label = Отваряне на препратката
     .accesskey = п
@@ -104,6 +110,9 @@ main-context-menu-open-link-new-window =
     .accesskey = п
 main-context-menu-open-link-new-private-window =
     .label = Отваряне в поверителен прозорец
+    .accesskey = в
+main-context-menu-bookmark-link-2 =
+    .label = Отмятане на връзка...
     .accesskey = в
 main-context-menu-save-link =
     .label = Запазване на препратката като…
