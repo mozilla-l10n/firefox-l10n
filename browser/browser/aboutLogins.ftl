@@ -6,7 +6,7 @@
 about-logins-page-title = Регистрации и пароли
 about-logins-login-filter =
     .placeholder = Търсене на влизания
-    .key = р
+    .key = F
 create-new-login-button =
     .title = Нова регистрация
 fxaccounts-sign-in-text = Вземете паролите си на всички ваши устройства
