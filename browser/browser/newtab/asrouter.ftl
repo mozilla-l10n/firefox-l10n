@@ -248,6 +248,7 @@ device-migration-fxa-spotlight-link = Pozdźišo dopomnić
 device-migration-fxa-spotlight-heavy-user-header = Njezabywajće swoje daty zawěsćić
 device-migration-fxa-spotlight-heavy-user-body = Zawěsćće, zo so wažne informacije – na přikład zapołožki a hesła – aktualizuja a na wšěch wašich gratach škitaja.
 device-migration-fxa-spotlight-heavy-user-primary-button = Prěnje kroki
+device-migration-fxa-spotlight-older-device-header = Dušiny měr, wot { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Konto waše wažne informacije aktualizuje a na kóždym graće škita, z kotrymž zwjazujeće.
 device-migration-fxa-spotlight-older-device-primary-button = Konto załožić
 device-migration-fxa-spotlight-getting-new-device-header = Nadźijeće so tutu sezonu na nowy grat?
