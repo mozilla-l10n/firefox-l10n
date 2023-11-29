@@ -147,6 +147,14 @@ firefoxview-opentabs-focus-tab =
     .title = Byt til denne fana
 firefoxview-show-more = Vis meir
 firefoxview-show-less = Vis mindre
+firefoxview-search-text-box-clear-button =
+    .title = Tøm
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Søkjehistorikk
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Søk i nyleg attlatne faner
 firefoxview-sort-history-by-date-label = Sorter etter dato
 firefoxview-sort-history-by-site-label = Sorter etter nettstad
 # Variables:

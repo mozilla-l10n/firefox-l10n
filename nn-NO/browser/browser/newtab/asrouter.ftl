@@ -236,6 +236,9 @@ device-migration-fxa-spotlight-header = Brukar du ei gammal eining?
 device-migration-fxa-spotlight-body = Sikkerheitskopier dine data for å sikre at du ikkje mistar viktig informasjon som bokmerke og passord — spesielt viss du byter til ei ny eining.
 device-migration-fxa-spotlight-primary-button = Korleis tryggingskopiere mine data
 device-migration-fxa-spotlight-link = Minn meg på det seinare
+device-migration-fxa-spotlight-heavy-user-primary-button = Kom i gang
+device-migration-fxa-spotlight-older-device-primary-button = Opprett ein konto
+device-migration-fxa-spotlight-getting-new-device-primary-button = Korleis tryggingskopiere mine data
 
 ## Set as Default PDF Reader Infobar
 
