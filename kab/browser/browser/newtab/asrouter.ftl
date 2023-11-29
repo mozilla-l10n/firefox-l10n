@@ -180,6 +180,8 @@ firefoxview-cfr-body-v2 = Err-d accaren i tmedleḍ melmi kan, yellan gar yibenk
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Ini azul i { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Tebɣiḍ iccer yeldin ɣef tiliɣri-k? Err-it-id. Tesriḍ asmel wuɣur i tkecmeḍ melmi kan? Yeshel, ha-t-an deg { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Wali amek i itteddu
 firefoxview-spotlight-promo-secondarybutton = Suref
 
