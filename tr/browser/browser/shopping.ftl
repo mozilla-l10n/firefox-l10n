@@ -181,6 +181,13 @@ shopping-callout-closed-not-opted-in-title = Güvenilir değerlendirmeler bir t�
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Ürün değerlendirmelerine ilişkin güvenilir kılavuzumuzu deneyin
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Yeni bir şey satın almadan önce <b>{ $currentSite }</b> sitesindeki ürün değerlendirmelerinin güvenilirliğini görün. Deneysel bir { -brand-product-name } özelliği olan değerlendirme kontrolcüsü, tarayıcınızla birlikte geliyor. <b>{ $secondSite }</b> ve <b>{ $thirdSite }</b> ile de uyumlu.
+shopping-onboarding-body = { -fakespot-brand-full-name } sayesinde önyargılı ve sahte değerlendirmelerden kaçınabilirsiniz. Alışverişlerinizde sizi korumak için yapay zekâ modelimizi sürekli geliştiriyoruz. <a data-l10n-name="learn_more">Daha fazla bilgi alın</a>
 shopping-onboarding-opt-in-button = Evet, deneyeceğim
 shopping-onboarding-not-now-button = Şimdi değil
 shopping-onboarding-dialog-close-button =
