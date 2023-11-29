@@ -251,6 +251,11 @@ device-migration-fxa-spotlight-header = Yn defnyddio dyfais hŷn?
 device-migration-fxa-spotlight-body = Gwnewch gopi wrth gefn o'ch data i wneud yn siŵr nad ydych chi'n colli manylion pwysig fel nodau tudalen a chyfrineiriau — yn enwedig os byddwch chi'n newid i ddyfais newydd.
 device-migration-fxa-spotlight-primary-button = Sut i wneud copi wrth gefn o fy nata
 device-migration-fxa-spotlight-link = Atgoffwch fi yn nes ymlaen
+device-migration-fxa-spotlight-heavy-user-header = Peidiwch ag anghofio gwneud copi wrth gefn o'ch data
+device-migration-fxa-spotlight-heavy-user-primary-button = Cychwyn arni
+device-migration-fxa-spotlight-older-device-header = Tawelwch meddwl gan { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Mae cyfrif yn cadw eich manylion pwysig wedi ei diweddaru ac yn diogelu ar unrhyw ddyfais rydych chi'n ei chysylltu.
+device-migration-fxa-spotlight-older-device-primary-button = Crëwch gyfrif
 device-migration-fxa-spotlight-getting-new-device-primary-button = Sut i wneud copi wrth gefn o fy nata
 
 ## Set as Default PDF Reader Infobar
