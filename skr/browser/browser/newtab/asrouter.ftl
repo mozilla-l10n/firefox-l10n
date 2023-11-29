@@ -204,6 +204,8 @@ cfr-cbh-confirm-button = کوکی بینراں کوں مسترد کرو
     .accesskey = R
 cfr-cbh-dismiss-button = ہݨ کائناں
     .accesskey = N
+cookie-banner-blocker-cfr-header = { -brand-short-name } ہݨے تہاݙے کیتے کوکیاں بلاک کیتیاں ہن
+cookie-banner-blocker-cfr-body = سائٹاں کیتے تہاکوں ٹریک کرݨ اوکھا بݨاوݨ کیتے اساں ٻہوں ساریاں کوکیاں پوپ اپ دا آپݨے آپ انکار کر ݙیندے ہیں۔
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -237,7 +239,9 @@ device-migration-fxa-spotlight-primary-button = میں آپݨے ڈیٹا کوں 
 device-migration-fxa-spotlight-link = میکوں بعد اِچ یاد ݙیواؤ
 device-migration-fxa-spotlight-heavy-user-header = آپݨے ڈیٹا کوں بیک اپ کرݨ نہ بھُلو
 device-migration-fxa-spotlight-heavy-user-primary-button = شروع کرو
+device-migration-fxa-spotlight-older-device-header = { -brand-product-name } نال، ذہنی سکون
 device-migration-fxa-spotlight-older-device-primary-button = کھاتہ بݨاؤ
+device-migration-fxa-spotlight-getting-new-device-header = ایں موسم وچ بھلا کہیں نویں ڈیوائس دی امید ہے؟
 device-migration-fxa-spotlight-getting-new-device-primary-button = میں آپݨے ڈیٹا کوں بیک اپ کین٘ویں کراں
 
 ## Set as Default PDF Reader Infobar
