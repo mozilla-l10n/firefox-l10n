@@ -17,3 +17,9 @@ contentanalysis-notification-title = Analyza wopśimjeśa
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
 #   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
 contentanalysis-genericresponse-message = Analyza wopśimjeśa jo wótegroniła z { $response } za resursu: { $content }
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-block-message = Waša organizacija software pśeśiwo tšuśeju datow wužywa, kótaraž jo blokěrowała toś to wopśimjeśe: { $content }.
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-error-message = Pśi komunikaciji ze software pśeśiwo tšuśeju datow jo zmólka nastała. Pśenjasenje jo se wótpokazało za resursu: { $content }.
