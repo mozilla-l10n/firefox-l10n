@@ -235,6 +235,10 @@ fxa-sync-cfr-secondary = میکوں بعد اِچ یاد ݙیواؤ
 device-migration-fxa-spotlight-header = بھلا پراݨی ڈیوائس ورتیندے پئے ہو؟
 device-migration-fxa-spotlight-primary-button = میں آپݨے ڈیٹا کوں بیک اپ کین٘ویں کراں
 device-migration-fxa-spotlight-link = میکوں بعد اِچ یاد ݙیواؤ
+device-migration-fxa-spotlight-heavy-user-header = آپݨے ڈیٹا کوں بیک اپ کرݨ نہ بھُلو
+device-migration-fxa-spotlight-heavy-user-primary-button = شروع کرو
+device-migration-fxa-spotlight-older-device-primary-button = کھاتہ بݨاؤ
+device-migration-fxa-spotlight-getting-new-device-primary-button = میں آپݨے ڈیٹا کوں بیک اپ کین٘ویں کراں
 
 ## Set as Default PDF Reader Infobar
 
@@ -246,6 +250,8 @@ pdf-default-notification-decline-button =
 ## Launch on login infobar notification
 
 launch-on-login-learnmore = ٻیا سِکھو
+launch-on-login-infobar-confirm-button = جیا، { -brand-short-name } کھولو
+    .accesskey = Y
 launch-on-login-infobar-reject-button = ہݨ کائناں
     .accesskey = N
 
