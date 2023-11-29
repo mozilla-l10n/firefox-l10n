@@ -19,7 +19,7 @@ contentanalysis-notification-title = Analyza wobsaha
 contentanalysis-genericresponse-message = Analyza wobsaha je z { $response } za resursu wotmołwi: { $content }
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-block-message = Waša organizacija software přećiwo straće datow wužiwa, kotraž je tutón wobsah zablokował: { $content }.
+contentanalysis-block-message = Waša organizacija software přećiwo straće datow wužiwa, kotraž je tutón wobsah zablokowała: { $content }.
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Při komunikaciji ze software přećiwo straće datow je zmylk nastał. Přenjesenje je so za resursu wotpokazało: { $content }.
