@@ -34,10 +34,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = ข้อมูลใหม่ที่ต้องตรวจสอบ
 shopping-message-bar-warning-stale-analysis-button = ตรวจสอบตอนนี้
-shopping-message-bar-generic-error-title2 = ไม่มีข้อมูลในขณะนี้
-shopping-message-bar-warning-product-not-available-title = สินค้าไม่พร้อมจำหน่าย
-shopping-message-bar-thanks-for-reporting-title = ขอบคุณสำหรับการรายงาน!
-shopping-message-bar-warning-product-not-available-reported-title2 = ข้อมูลจะมาเร็ว ๆ นี้
 
 ## Strings for the product review snippets card
 
@@ -99,6 +95,8 @@ shopping-analysis-explainer-label =
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = ลองดูเพิ่ม
 
 ## Shopping survey strings.
 
@@ -113,7 +111,6 @@ shopping-survey-q2-radio-3-label = ฉันไม่ทราบ
 shopping-survey-next-button-label = ถัดไป
 shopping-survey-submit-button-label = ส่ง
 shopping-survey-terms-link = เงื่อนไขการใช้งาน
-shopping-survey-thanks-message = ขอบคุณสำหรับข้อคิดเห็นของคุณ!
 shopping-survey-thanks =
     .heading = ขอบคุณสำหรับข้อคิดเห็นของคุณ!
 

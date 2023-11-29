@@ -155,6 +155,17 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = ค้นหาแท็บที่เพิ่งปิดล่าสุด
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = ผลการค้นหาสำหรับ “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count = { $count } ไซต์
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = ไม่มีผลลัพธ์สำหรับ “{ $query }”
 firefoxview-sort-history-by-date-label = เรียงตามวันที่
 firefoxview-sort-history-by-site-label = เรียงตามไซต์
 # Variables:

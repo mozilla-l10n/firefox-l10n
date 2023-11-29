@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = ปิด
 protections-panel-cookie-banner-view-turn-on-label =
     .label = เปิด
+protections-panel-report-broken-site =
+    .label = รายงานไซต์ที่ใช้งานไม่ได้
+    .title = รายงานไซต์ที่ใช้งานไม่ได้
