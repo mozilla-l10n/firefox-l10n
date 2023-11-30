@@ -176,12 +176,17 @@ about-logins-confirm-remove-dialog-confirm-button = Ukloni
 
 about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-confirm-button = Izvoz…
+about-logins-alert-import-title = Uvoz završen
+about-logins-alert-import-message = Pogledajte detaljan sažetak uvoza
 confirm-discard-changes-dialog-title = Odbaci nespašene promjene?
 confirm-discard-changes-dialog-message = Sve nespašene promjene će biti izgubljene.
 confirm-discard-changes-dialog-confirm-button = Odbaci
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Povreda podataka web stranice
+breach-alert-text = Lozinke su procurile ili ukradene sa ove web stranice otkako ste zadnji put ažurirali svoje podatke za prijavu. Promijenite lozinku da zaštitite svoj račun.
+about-logins-breach-alert-date = Ovo curenje podataka se dogodilo { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Posjeti { $hostname }
