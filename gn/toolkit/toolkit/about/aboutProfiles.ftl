@@ -33,7 +33,7 @@ profiles-set-as-default = Ejapo chugui mba’ete ijypykuéva
 profiles-launch-profile = Mba’ete moherakuã kundahára pyahúpe
 profiles-cannot-set-as-default-title = Ndaikatúi ehechakuaa ijypykuepyre
 profiles-cannot-set-as-default-message = Pe mba’ete ijypykuepyréva ndaikatúi emoambue { -brand-short-name } peg̃uarã.
-profiles-yes = hẽe
+profiles-yes = héẽ
 profiles-no = Nahániri
 profiles-rename-profile-title = Mba’ete Mboherajey
 # Variables:

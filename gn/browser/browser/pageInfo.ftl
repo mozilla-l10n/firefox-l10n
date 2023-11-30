@@ -114,9 +114,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = Hẽe, umi kookie ha { $value } { $unit } tendakuéra mba’ekuaarã
-security-site-data-only = Hẽe,{ $value } { $unit } tendakuéra mba’ekuaarã
-security-site-data-cookies-only = Hẽe, umi kookie
+security-site-data-cookies = Héẽ, umi kookie ha { $value } { $unit } tendakuéra mba’ekuaarã
+security-site-data-only = Héẽ,{ $value } { $unit } tendakuéra mba’ekuaarã
+security-site-data-cookies-only = Héẽ, umi kookie
 security-site-data-no = Ahániri
 
 ##
