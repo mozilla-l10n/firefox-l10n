@@ -186,11 +186,34 @@ mr2022-onboarding-get-started-primary-button-label = Настройва се з�
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-existing-colorway-checkbox-label = Направете вашата { -firefox-home-brand-name }  начална страница цветна
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Текущи { -brand-short-name } цветове
+mr2022-onboarding-colorway-label-playmaker = Плеймейкър
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Плеймейкър (червен)
+mr2022-onboarding-colorway-label-expressionist = Експресионист
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Експресионист (жълт)
+mr2022-onboarding-colorway-label-visionary = Визионер
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Визионерски (зелен)
+mr2022-onboarding-colorway-label-activist = Активист
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Активист (син)
+mr2022-onboarding-colorway-label-dreamer = Мечтател
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Мечтател (лилав)
+mr2022-onboarding-colorway-label-innovator = Изобретател
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Иноватор (оранжев)
 
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Прескачайте от лаптопа на телефона и обратно
 mr2022-onboarding-mobile-download-subtitle = Вземете разделите от вашето устройство и продължете на друго устройство от там, от където сте спрели. Синхронизирайте своите отметки и пароли навсякъде, където използвате { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Сканирайте QR кода, за да получите { -brand-product-name } за мобилно устройство или <a data-l10n-name="download-label">изпратете си връзка за изтегляне.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Сканирайте QR кода, за да получите { -brand-product-name } за мобилни устройства.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -198,12 +221,18 @@ mr2022-onboarding-mobile-download-subtitle = Вземете разделите �
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Ние винаги уважаваме вашата поверителност
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Показване на подробна информация
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Вие ни помагате да изградим по-добра мрежа
+mr2022-onboarding-gratitude-primary-button-label = Вижте какво е ново
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Чувствайте се като у дома си
+onboarding-infrequent-import-primary-button = Внасяне към { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
@@ -211,3 +240,6 @@ mr2022-onboarding-mobile-download-subtitle = Вземете разделите �
 
 ## Device migration onboarding
 
+onboarding-device-migration-title = Добре дошли отново!
+onboarding-device-migration-subtitle = Влезте в { -fxaccount-brand-name(capitalization: "sentence") }, за да пренесете своите отметки, пароли и история със себе си на новото ви устройство.
+onboarding-device-migration-primary-button-label = Вход
