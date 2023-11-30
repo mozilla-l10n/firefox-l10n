@@ -80,7 +80,7 @@ translations-panel-error-load-languages-hint-button =
     .label = Eha’ãjey
 translations-panel-error-unsupported = Pe ñe’ẽasa ndahekói ko kuatiaroguépe g̃uarã
 translations-panel-error-dismiss-button =
-    .label = Aikumby
+    .label = Aikũmby
 translations-panel-error-change-button =
     .label = Emoambue ñe’ẽ ypyguáva
 # If your language requires declining the language name, a possible solution
