@@ -1262,7 +1262,8 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS su HTTPS
-preferences-doh-description = Il meccanismo di risoluzione dei nomi di dominio tramite HTTPS (DNS su HTTPS) invia le richieste per i nomi di dominio tramite una connessione crittata, creando un sistema sicuro che rende più difficile ad altri soggetti scoprire quali siti stai per visitare.
+preferences-doh-description = Il meccanismo di risoluzione dei nomi di dominio tramite HTTPS (DNS su HTTPS) invia le richieste per i nomi di dominio tramite una connessione crittata, creando un sistema sicuro che rende più difficile scoprire quali siti stai per visitare.
+preferences-doh-description2 = Il meccanismo di risoluzione dei nomi di dominio tramite HTTPS (DNS su HTTPS) invia le richieste per i nomi di dominio tramite una connessione crittata, fornendo un sistema sicuro che rende più difficile scoprire quali siti stai per visitare.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Stato: { $status }
@@ -1279,6 +1280,7 @@ preferences-doh-status-disabled = Disattivato
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Non attivo ({ $reason })
 preferences-doh-group-message = Attiva DNS sicuro utilizzando:
+preferences-doh-group-message2 = Attiva DNS su HTTPS utilizzando:
 preferences-doh-expand-section =
     .tooltiptext = Ulteriori informazioni
 preferences-doh-setting-default =
