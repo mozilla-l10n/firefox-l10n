@@ -188,6 +188,7 @@ shopping-onboarding-headline = Ürün değerlendirmelerine ilişkin güvenilir k
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Yeni bir şey satın almadan önce <b>{ $currentSite }</b> sitesindeki ürün değerlendirmelerinin güvenilirliğini görün. Deneysel bir { -brand-product-name } özelliği olan değerlendirme kontrolcüsü, tarayıcınızla birlikte geliyor. <b>{ $secondSite }</b> ve <b>{ $thirdSite }</b> ile de uyumlu.
 shopping-onboarding-body = { -fakespot-brand-full-name } sayesinde önyargılı ve sahte değerlendirmelerden kaçınabilirsiniz. Alışverişlerinizde sizi korumak için yapay zekâ modelimizi sürekli geliştiriyoruz. <a data-l10n-name="learn_more">Daha fazla bilgi alın</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = “{ shopping-onboarding-opt-in-button }“ seçeneğini seçtiğinizde { -fakespot-brand-name } <a data-l10n-name="privacy_policy">gizlilik politikasını</a> ve <a data-l10n-name="terms_of_use">kullanım koşullarını</a> kabul etmiş olursunuz.
 shopping-onboarding-opt-in-button = Evet, deneyeceğim
 shopping-onboarding-not-now-button = Şimdi değil
 shopping-onboarding-dialog-close-button =
