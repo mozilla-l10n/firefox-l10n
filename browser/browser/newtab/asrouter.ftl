@@ -241,7 +241,10 @@ device-migration-fxa-spotlight-link = Minn meg på det seinare
 device-migration-fxa-spotlight-heavy-user-header = Ikkje gløym å sikkerheitskopiere dataa dine
 device-migration-fxa-spotlight-heavy-user-body = Sørg for at viktig informasjon — som bokmerke og passord — er oppdaterte og beskytta på alle einingane dine.
 device-migration-fxa-spotlight-heavy-user-primary-button = Kom i gang
+device-migration-fxa-spotlight-older-device-header = Tryggleik, frå { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Ein konto held viktig informasjon oppdatert og beskytta på alle einingar du koplar til
 device-migration-fxa-spotlight-older-device-primary-button = Opprett ein konto
+device-migration-fxa-spotlight-getting-new-device-header = Håpar du på ei ny eining denne sesongen?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Korleis tryggingskopiere mine data
 
 ## Set as Default PDF Reader Infobar
