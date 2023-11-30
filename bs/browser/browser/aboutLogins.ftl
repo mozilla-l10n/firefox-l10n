@@ -245,6 +245,27 @@ about-logins-import-file-picker-csv-filter-title =
 
 about-logins-import-dialog-title = Uvoz završen
 about-logins-import-dialog-done = Gotovo
+about-logins-import-dialog-error-title = Greška pri uvozu
+about-logins-import-dialog-error-conflicting-values-title = Više suprotstavljenih vrijednosti za jednu prijavu
+about-logins-import-dialog-error-conflicting-values-description = Na primjer: više korisničkih imena, lozinki, URL-ova, itd. za jednu prijavu.
+about-logins-import-dialog-error-file-format-title = Problem formata datoteke
+about-logins-import-dialog-error-file-format-description = Zaglavlja kolona su netačna ili nedostaju. Pobrinite se da datoteka sadrži kolone za korisničko ime, lozinku i URL.
+about-logins-import-dialog-error-file-permission-title = Nije moguće pročitati datoteku
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nema dozvolu za čitanje datoteke. Pokušajte promijeniti dozvole za datoteku.
+about-logins-import-dialog-error-unable-to-read-title = Nije moguće obraditi datoteku
+about-logins-import-dialog-error-unable-to-read-description = Provjerite jeste li odabrali CSV ili TSV datoteku.
+about-logins-import-dialog-error-no-logins-imported = Nisu uvezene prijave
+about-logins-import-dialog-error-learn-more = Saznajte više
+about-logins-import-dialog-error-try-import-again = Pokušaj ponovo uvesti…
+about-logins-import-dialog-error-cancel = Otkaži
+about-logins-import-report-title = Sažetak uvoza
+about-logins-import-report-description = Prijave i lozinke uvezene u { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Red { $number }
+about-logins-import-report-row-description-no-change = Duplikat: Tačno podudaranje postojeće prijave
+about-logins-import-report-row-description-modified = Postojeća prijava je ažurirana
 
 ##
 ## Variables:
