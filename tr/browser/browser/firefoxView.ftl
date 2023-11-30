@@ -208,6 +208,7 @@ firefoxview-choose-browser-button = Tarayıcı seç
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Gösterilecek bir şey yok
+firefoxview-dont-remember-history-empty-description = Yaptığımız işin merkezinde gizliliğinizi korumak var. Bu yüzden, { -brand-short-name } tarayıcınızın hatırlayacağı etkinlikleri kendiniz seçebilirsiniz.
 
 ##
 

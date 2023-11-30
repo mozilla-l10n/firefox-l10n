@@ -240,7 +240,10 @@ device-migration-fxa-spotlight-body = Yeni bir cihaza geçiş yaparken yer imler
 device-migration-fxa-spotlight-primary-button = Verilerimi nasıl yedekleyebilirim?
 device-migration-fxa-spotlight-link = Daha sonra hatırlat
 device-migration-fxa-spotlight-heavy-user-header = Verilerinizi yedeklemeyi unutmayın
+device-migration-fxa-spotlight-heavy-user-primary-button = Başla
+device-migration-fxa-spotlight-older-device-body = Hesabınıza bağladığınız tüm cihazlarınızda önemli bilgileriniz güncel ve güvende kalır.
 device-migration-fxa-spotlight-older-device-primary-button = Hesap oluştur
+device-migration-fxa-spotlight-getting-new-device-header = Yakında yeni bir bilgisayar almayı mı düşünüyorsunuz?
 device-migration-fxa-spotlight-getting-new-device-body = Verilerinizi hemen yedekleyin, cihazınız gelince kullanıma hazır olun.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Verilerimi nasıl yedekleyebilirim?
 
