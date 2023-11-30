@@ -154,6 +154,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = izvezi spašene pri
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Molimo unesite svoju primarnu lozinku da vidite sačuvane prijave i lozinke
 master-password-reload-button =
     .label = Prijavi
     .accesskey = P
