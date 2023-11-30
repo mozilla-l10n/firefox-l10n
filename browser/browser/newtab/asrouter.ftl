@@ -203,6 +203,8 @@ cfr-cbh-confirm-button = Afvis cookie-bannere
     .accesskey = A
 cfr-cbh-dismiss-button = Ikke nu
     .accesskey = n
+cookie-banner-blocker-cfr-header = { -brand-short-name } har lige blokeret cookies for dig
+cookie-banner-blocker-cfr-body = Vi afviser automatisk mange cookie-bannere for at gøre det svært for websteder at spore dig.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -236,6 +238,14 @@ device-migration-fxa-spotlight-header = Bruger du en ældre enhed?
 device-migration-fxa-spotlight-body = Tag en sikkerhedskopi af dine data for at sikre, at du ikke mister vigtige oplysninger som bogmærker og adgangskoder - især hvis du skifter til en ny enhed.
 device-migration-fxa-spotlight-primary-button = Sådan sikkerhedskopierer du dine data
 device-migration-fxa-spotlight-link = Påmind mig senere
+device-migration-fxa-spotlight-heavy-user-header = Husk at sikkerhedskopiere dine data
+device-migration-fxa-spotlight-heavy-user-body = Sørg for at vigtige oplysninger — som bogmærker og adgangskoder — er opdaterede og beskyttet på tværs af alle dine enheder.
+device-migration-fxa-spotlight-heavy-user-primary-button = Kom i gang
+device-migration-fxa-spotlight-older-device-header = Tryghed, fra { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = En konto sørger for, at dine vigtige oplysninger er opdaterede og beskyttede på alle dine tilsluttede enheder.
+device-migration-fxa-spotlight-older-device-primary-button = Opret en konto
+device-migration-fxa-spotlight-getting-new-device-header = Har du ønsket dig en ny telefon eller computer til jul?
+device-migration-fxa-spotlight-getting-new-device-body = Sikkerhedskopier dine data nu for at være forberedt, når du får din nye enhed.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Sådan sikkerhedskopierer du dine data
 
 ## Set as Default PDF Reader Infobar
