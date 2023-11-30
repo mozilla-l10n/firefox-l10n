@@ -147,6 +147,29 @@ firefoxview-opentabs-focus-tab =
     .title = Skift til dette faneblad
 firefoxview-show-more = Vis flere
 firefoxview-show-less = Vis færre
+firefoxview-search-text-box-clear-button =
+    .title = Ryd
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Søg i historik
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Søg i senest lukkede faneblade
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Søgeresultater for "{ $query }"
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } websted
+       *[other] { $count } websteder
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Ingen resultater for "{ $query }"
 firefoxview-sort-history-by-date-label = Sorter efter dato
 firefoxview-sort-history-by-site-label = Sorter efter websted
 # Variables:
