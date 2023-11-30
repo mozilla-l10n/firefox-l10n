@@ -194,6 +194,7 @@ about-logins-breach-alert-link = Posjeti { $hostname }
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ranjiva lozinka
+about-logins-vulnerable-alert-text2 = Ova lozinka je korištena na drugom računu za koji je vjerovatno došlo do povrede podataka. Ponovno korištenje podataka za prijavu dovodi sve vaše račune u opasnost. Promijenite ovu lozinku.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Posjeti { $hostname }
@@ -201,6 +202,11 @@ about-logins-vulnerable-alert-learn-more-link = Saznajte više
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Unos za { $loginTitle } sa tim korisničkim imenom već postoji. <a data-l10n-name="duplicate-link">Ići na postojeći unos?</a>
 # This is a generic error message.
 about-logins-error-message-default = Desila se greška prilikom spašavanja ove lozinke.
 
@@ -237,6 +243,8 @@ about-logins-import-file-picker-csv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Uvoz završen
+about-logins-import-dialog-done = Gotovo
 
 ##
 ## Variables:
