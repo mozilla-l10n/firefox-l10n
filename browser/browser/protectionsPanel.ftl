@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Slå fra
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Slå til
+protections-panel-report-broken-site =
+    .label = Rapporter problem med websted
+    .title = Rapporter problem med websted

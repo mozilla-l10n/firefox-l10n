@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Nye oplysninger at kontrollere
 shopping-message-bar-warning-stale-analysis-button = Kontroller nu
-shopping-message-bar-generic-error-title2 = Ingen oplysninger tilgængelige i øjeblikket
-shopping-message-bar-generic-error-message = Vi arbejder på at løse problemet. Prøv igen om lidt.
-shopping-message-bar-warning-not-enough-reviews-title = Ikke nok anmeldelser lige nu
-shopping-message-bar-warning-not-enough-reviews-message2 = Når dette produkt har flere anmeldelser, kan vi kontrollere deres kvalitet.
-shopping-message-bar-warning-product-not-available-title = Produktet er ikke tilgængeligt
-shopping-message-bar-warning-product-not-available-message2 = Hvis du har set, at produktet er på lager igen, må du gerne rapportere det. Så kan vi kontrollere anmeldelserne.
-shopping-message-bar-warning-product-not-available-button = Rapporter at produktet er på lager igen
-shopping-message-bar-thanks-for-reporting-title = Tak for hjælpen!
-shopping-message-bar-thanks-for-reporting-message2 = Vi burde have oplysninger om anmeldelser af dette produkt indenfor 24 timer. Prøv igen senere.
-shopping-message-bar-warning-product-not-available-reported-title2 = Oplysninger kommer snart
-shopping-message-bar-warning-product-not-available-reported-message2 = Vi burde have oplysninger om anmeldelser af dette produkt indenfor 24 timer. Prøv igen senere.
 shopping-message-bar-generic-error =
     .heading = Ingen oplysninger tilgængelige i øjeblikket
     .message = Vi arbejder på at løse problemet. Prøv igen om lidt.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Vi burde have oplysninger om anmeldelser af dette produkt indenfor 24 timer. Prøv igen senere.
 shopping-message-bar-analysis-in-progress-title2 = Kontrollerer kvalitet af anmeldelser
 shopping-message-bar-analysis-in-progress-message2 = Dette burde tage omkring 60 sekunder.
-shopping-message-bar-page-not-supported-title = Vi kan ikke kontrollere disse anmeldelser
-shopping-message-bar-page-not-supported-message = Desværre kan vi ikke kontrollere kvaliteten af anmeldelser for visse typer af produkter. For eksempel gavekort og streaming af video, musik og spil.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Kontrollerer kvaliteten af anmeldelser ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Vi kan ikke kontrollere disse anmeldelser
     .message = Desværre kan vi ikke kontrollere kvaliteten af anmeldelser for visse typer af produkter. For eksempel gavekort og streaming af video, musik og spil.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Indstillinger
 shopping-settings-recommendations-toggle =
     .label = Vis reklamer i verificering af anmeldelser
-shopping-settings-recommendations-learn-more = Du vil til tider få vist reklamer for relevante produkter. Alle reklamer skal overholde vores standarder for anmeldelses-kvalitet. <a data-l10n-name="review-quality-url">Læs mere</a>
 shopping-settings-recommendations-learn-more2 = Du vil til tider få vist reklamer for relevante produkter. Vi reklamerer kun for produkter med pålidelige anmeldelser. <a data-l10n-name="review-quality-url">Læs mere</a>
 shopping-settings-opt-out-button = Slå verificering af anmeldelser fra
 powered-by-fakespot = Verificering af anmeldelser er leveret af <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = Ved ikke
 shopping-survey-next-button-label = Næste
 shopping-survey-submit-button-label = Indsend
 shopping-survey-terms-link = Betingelser for brug
-shopping-survey-thanks-message = Tak for tilbagemeldingen!
 shopping-survey-thanks =
     .heading = Tak for tilbagemeldingen!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Prøv verificering af anmeldelse
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Prøv vores guide til pålidelige produktanmeldelser
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Se hvor pålidelige anmeldelserne af produkter er på <b>{ $currentSite }</b> før du køber. Verificering af anmeldelser, en eksperimentel funktion fra { -vendor-short-name } er indbygget i { -brand-product-name } - og virker også på <b>{ $secondSite }</b> og <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
