@@ -4,10 +4,13 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Prijave & lozinke
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
+about-logins-login-filter =
+    .placeholder = Pretraži prijave
+    .key = F
+create-new-login-button =
+    .title = Kreirajte novu prijavu
 fxaccounts-sign-in-text = Pristupite lozinkama na drugim uređajima
+fxaccounts-sign-in-sync-button = Prijavite se za sinhronizaciju
 fxaccounts-avatar-button =
     .title = Upravljanje računom
 
@@ -31,15 +34,28 @@ about-logins-menu-menuitem-help = Pomoć
 
 login-list =
     .aria-label = Prijave koje odgovaraju pretrazi
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } prijava
         [few] { $count } prijave
        *[other] { $count } prijava
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } od { $total } prijava
+        [few] { $count } od { $total } prijave
+       *[other] { $count } od { $total } prijava
+    }
 login-list-sort-label-text = Sortiraj po:
 login-list-name-option = Nazivu (A-Z)
 login-list-name-reverse-option = Naziv (A-Z)
+login-list-username-option = Korisničko ime (A-Z)
+login-list-username-reverse-option = Korisničko ime (Z-A)
 about-logins-login-list-alerts-option = Upozorenja
 login-list-last-changed-option = Zadnja promjena
 login-list-last-used-option = Zadnja upotreba
@@ -54,12 +70,23 @@ about-logins-list-item-breach-icon =
     .title = Hakirana web stranica
 about-logins-list-item-vulnerable-password-icon =
     .title = Ranjiva lozinka
+about-logins-list-section-breach = Hakirane web stranice
+about-logins-list-section-vulnerable = Ranjive lozinke
+about-logins-list-section-nothing = Nema upozorenja
+about-logins-list-section-today = Danas
+about-logins-list-section-yesterday = Jučer
+about-logins-list-section-week = Zadnjih 7 dana
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = Tražite svoje sačuvane prijave? Uključite sinhronizaciju ili ih uvezite.
 about-logins-login-intro-heading-logged-in = Nema pronađenih sinhronizovanih prijava.
 login-intro-description = Ako ste spasili prijave u { -brand-product-name } na drugom uređaju, evo kako im možete pristupiti:
-
+login-intro-instructions-fxa = Kreirajte ili prijavite se na svoj { -fxaccount-brand-name } na uređaju gdje su sačuvane vaše prijave.
+login-intro-instructions-fxa2 = Kreirajte ili se prijavite na vaš račun na uređaju na kojem su sačuvane vaše prijave.
+login-intro-instructions-fxa-settings = Idite na Postavke > Sinhronizacija > Uključi sinhronizaciju… Označite polje za potvrdu Prijava i lozinke.
+login-intro-instructions-fxa-passwords-help = Posjetite <a data-l10n-name="passwords-help-link">podršku za lozinke</a> za dodatnu pomoć.
+about-logins-intro-browser-only-import = Ako su vaše prijave sačuvane u drugom pretraživaču, možete ih <a data-l10n-name="import-link">uvesti u { -brand-product-name }</a>
 about-logins-intro-import2 = Ako su tvoje prijave spremljene izvan { -brand-product-name }a, možeš ih <a data-l10n-name="import-browser-link">uvesti iz jednog drugog browsera</a> ili <a data-l10n-name="import-file-link">iz jedne datoteke</a>
 
 ## Login
@@ -89,6 +116,13 @@ login-item-cancel-button = Otkaži
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Kreirano
+login-item-timeline-action-updated = Ažurirano
+login-item-timeline-action-used = Korišteno
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -102,21 +136,18 @@ about-logins-edit-login-os-auth-dialog-message-win = Za uređivanje prijave, une
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = uredite sačuvanu prijavu
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Za prikaz vaše lozinke, unesite svoje podatke za prijavu na Windows. To pomaže zaštiti sigurnost vaših računa.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = prikaži spašenu lozinku
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Za kopiranje vaše lozinke, unesite svoje podatke za prijavu na Windows. To pomaže zaštiti sigurnost vaših računa.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopiraj spašenu lozinku
-
-## Master Password notification
-
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Da biste izvezli svoje prijave, unesite svoje Windows podatke za prijavu. Ovo pomaže u zaštiti sigurnosti vaših računa.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = izvezi spašene prijave i lozinke
@@ -127,14 +158,11 @@ master-password-reload-button =
     .label = Prijavi
     .accesskey = P
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Otkaži
 confirmation-dialog-dismiss-button =
     .title = Otkaži
-
 about-logins-confirm-remove-dialog-title = Ukloniti ovu prijavu?
 confirm-delete-dialog-message = Ova radnja se ne može poništiti.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
@@ -142,11 +170,11 @@ about-logins-confirm-remove-dialog-confirm-button = Ukloni
 ## Variables
 ##   $count (number) - Number of items
 
+
 ##
 
 about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-confirm-button = Izvoz…
-
 confirm-discard-changes-dialog-title = Odbaci nespašene promjene?
 confirm-discard-changes-dialog-message = Sve nespašene promjene će biti izgubljene.
 confirm-discard-changes-dialog-confirm-button = Odbaci
@@ -169,7 +197,6 @@ about-logins-vulnerable-alert-learn-more-link = Saznajte više
 
 # This is a generic error message.
 about-logins-error-message-default = Desila se greška prilikom spašavanja ove lozinke.
-
 
 ## Login Export Dialog
 
@@ -209,9 +236,11 @@ about-logins-import-file-picker-csv-filter-title =
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
