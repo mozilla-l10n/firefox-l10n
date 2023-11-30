@@ -239,7 +239,11 @@ device-migration-fxa-spotlight-body = Sauvegardez vos données pour vous assurer
 device-migration-fxa-spotlight-primary-button = Comment sauvegarder mes données
 device-migration-fxa-spotlight-link = Me le rappeler plus tard
 device-migration-fxa-spotlight-heavy-user-header = N’oubliez pas de sauvegarder vos données
+device-migration-fxa-spotlight-heavy-user-primary-button = Commencer
+device-migration-fxa-spotlight-older-device-header = La tranquillité d’esprit, grâce à { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Un compte garde vos informations importantes à jour et les protège sur tous les appareils auxquels vous vous connectez.
 device-migration-fxa-spotlight-older-device-primary-button = Créer un compte
+device-migration-fxa-spotlight-getting-new-device-body = Sauvegardez vos données maintenant pour préparer l’arrivée de votre appareil.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Comment sauvegarder mes données
 
 ## Set as Default PDF Reader Infobar
