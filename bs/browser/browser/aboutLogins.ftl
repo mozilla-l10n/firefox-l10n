@@ -266,11 +266,15 @@ about-logins-import-report-description = Prijave i lozinke uvezene u { -brand-sh
 about-logins-import-report-row-index = Red { $number }
 about-logins-import-report-row-description-no-change = Duplikat: Tačno podudaranje postojeće prijave
 about-logins-import-report-row-description-modified = Postojeća prijava je ažurirana
+about-logins-import-report-row-description-added = Dodana je nova prijava
+about-logins-import-report-row-description-error = Greška: nedostaje polje
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Greška: Više vrijednosti za { $field }
+about-logins-import-report-row-description-error-missing-field = Greška: nedostaje { $field }
 
 ##
 ## Variables:
@@ -279,3 +283,4 @@ about-logins-import-report-row-description-modified = Postojeća prijava je ažu
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Izvještaj o sažetku uvoza
