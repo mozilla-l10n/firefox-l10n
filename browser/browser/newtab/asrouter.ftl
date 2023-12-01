@@ -237,6 +237,7 @@ device-migration-fxa-spotlight-link = เตือนฉันภายหลั
 device-migration-fxa-spotlight-heavy-user-header = อย่าลืมสำรองข้อมูลของคุณ
 device-migration-fxa-spotlight-heavy-user-primary-button = เริ่มต้นใช้งาน
 device-migration-fxa-spotlight-older-device-primary-button = สร้างบัญชี
+device-migration-fxa-spotlight-getting-new-device-header-2 = คิดจะมีอุปกรณ์ใหม่ในภายหลังใช่ไหม?
 device-migration-fxa-spotlight-getting-new-device-primary-button = วิธีสำรองข้อมูลของฉัน
 
 ## Set as Default PDF Reader Infobar
