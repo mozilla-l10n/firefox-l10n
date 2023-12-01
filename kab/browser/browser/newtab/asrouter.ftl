@@ -241,6 +241,7 @@ device-migration-fxa-spotlight-heavy-user-header = Ɣur-k·m ad tettuḍ aḥraz
 device-migration-fxa-spotlight-heavy-user-primary-button = Bdu
 device-migration-fxa-spotlight-older-device-header = Lehna n uqerru, seg { -brand-product-name }
 device-migration-fxa-spotlight-older-device-primary-button = Rnu amiḍan
+device-migration-fxa-spotlight-getting-new-device-header-2 = Ibenk amaynut ɣer sdat?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Amek ara ḥerzeɣ isefka-w
 
 ## Set as Default PDF Reader Infobar
