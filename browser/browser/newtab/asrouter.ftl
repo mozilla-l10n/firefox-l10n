@@ -242,7 +242,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = 開始使用
 device-migration-fxa-spotlight-older-device-header = 移動資料免擔心，來自 { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = 註冊帳號後，可確保您任何連結起來的裝置上，都能有最新、同步的重要資訊。
 device-migration-fxa-spotlight-older-device-primary-button = 註冊帳號
-device-migration-fxa-spotlight-getting-new-device-header = 佳節期間，想換新機嗎？
+device-migration-fxa-spotlight-getting-new-device-header-2 = 打算要換新裝置？
 device-migration-fxa-spotlight-getting-new-device-body = 現在就開始備份資料，這樣收到裝置時就可以立即同步移轉。
 device-migration-fxa-spotlight-getting-new-device-primary-button = 如何備份我的資料
 
