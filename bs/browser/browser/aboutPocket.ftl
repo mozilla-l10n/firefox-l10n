@@ -61,6 +61,11 @@ pocket-panel-home-new-user-message = Pogledajte svoje nedavne sačuvane podatke 
 
 ## Pocket panel header component
 
+pocket-panel-header-my-saves = Prikaži sačuvano
+pocket-panel-header-sign-in = Prijava
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = Prikaži sve
+pocket-panel-button-activate = Aktivirajte { -pocket-brand-name } u { -brand-product-name }u
+pocket-panel-button-remove = Ukloni
