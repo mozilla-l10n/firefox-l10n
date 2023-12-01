@@ -245,7 +245,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Comenciar
 device-migration-fxa-spotlight-older-device-header = Tranquillitate, ab { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Un conto mantene actualisate e protegite tu informationes importante sur ulle apparato al qual tu te connecte.
 device-migration-fxa-spotlight-older-device-primary-button = Crea un conto
-device-migration-fxa-spotlight-getting-new-device-header = Spera tu pro un nove apparato iste saison?
+device-migration-fxa-spotlight-getting-new-device-header-2 = Nove apparato in tu futuro?
 device-migration-fxa-spotlight-getting-new-device-body = Reserva subito tu datos, assi tu sera preste a initiar quando arrivara tu apparato.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Como reservar mi datos
 
