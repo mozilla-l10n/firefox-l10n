@@ -48,7 +48,7 @@ printui-two-sided-printing-long-edge = Ehasa mombyryveha rupi
 printui-two-sided-printing-short-edge = Ehasa ag̃uiveha rupi
 # Section title for miscellaneous print options
 printui-options = Poravorã
-printui-headers-footers-checkbox = Emongutia myakãha ha kuatiarogue guy gotyo
+printui-headers-footers-checkbox = Emongutia moakãha ha kuatiarogue guy gotyo
 printui-backgrounds-checkbox = Tugua ñembokuatia
 
 ## The "Format" section, select a version of the website to print. Radio

@@ -6,7 +6,7 @@
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } oiporu mboajepyre rekorosã oiko’ỹva.
 cert-error-mitm-intro = Ko’ã ñanduti renda ohechauka heratee mboajepyre rupi oguenohẽva mboajepyre umi mburuvicha.
-cert-error-mitm-mozilla = { -brand-short-name } oykeko Mozilla, atyguasu viru’ỹgua oñangarekóva tendaguasu mboajepyre myakãha ijurujáva. Ko mboajepyre myakãha oipytyvõ oñemoañete hag̃ua mboajepyre myakãha rembiapo potĩ poruhára rekorosãrã rekávo.
+cert-error-mitm-mozilla = { -brand-short-name } oykeko Mozilla, atyguasu viru’ỹgua oñangarekóva tendaguasu mboajepyre moakãha ijurujáva. Ko mboajepyre moakãha oipytyvõ oñemoañete hag̃ua mboajepyre moakãha rembiapo potĩ poruhára rekorosãrã rekávo.
 cert-error-mitm-connection = { -brand-short-name } oiporu Mozilla ñemuha CA ohecha hag̃ua hekorosãpa jeike, mboajepyre ome’ẽva poruhára apopyvusu rendaguépe. Upéicha rupi, pe tembiaporape mba’echu’i jukaha térã ñanduti ohapejokórõ jeike mboajepyre hekorosãva ndive ome’ẽva peteĩ CA oĩ’ỹva Mozilla ñemuhápe, pe jeike nahekorosãmo’ãi.
 cert-error-trust-unknown-issuer-intro = Ikatu hína peteĩva oha’ãnga tendápe ha nde repytamava’erã.
 # Variables:
@@ -17,7 +17,7 @@ cert-error-trust-untrusted-issuer = Ndojejeroviái pe mboajepyréva rehe pe ime�
 cert-error-trust-signature-algorithm-disabled = Ndojejeroviái pe mboajepyréva rehe omboheraguapy rupi oiporúvo algoritmo mboheraguapy rehegua ojejokomava’ekue nahekorosãi haguére.
 cert-error-trust-expired-issuer = Ndojejeroviái pe mboajepyre rehe pe ime’ẽhare ndoikovéima rupi.
 cert-error-trust-self-signed = Ndojejeroviái pe mboajepyre rehe oñemboheraguapyjehegui rupi.
-cert-error-trust-symantec = Umi mboajepyre oguenohẽva GeoTrust, RapidSSL, Symantec, Thawte y VeriSign nahekorosãvéima mboajepyre myakãharakuéra ndoguatái tekorosã rapére ymave.
+cert-error-trust-symantec = Umi mboajepyre oguenohẽva GeoTrust, RapidSSL, Symantec, Thawte y VeriSign nahekorosãvéima mboajepyre moakãharakuéra ndoguatái tekorosã rapére ymave.
 cert-error-untrusted-default = Pe mboajepyre ndoúi peteĩ teñoiha ijeroviahávagui.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -54,7 +54,7 @@ cert-error-code-prefix-link = Ayvu jejavy; <a data-l10n-name="error-code-link">{
 cert-error-ssl-connection-error = Oiko jejavy eikévo { $hostname }. { $errorMessage }
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Umi ñanduti renda ohechauka heratee mboajepyre rupive, oguenohẽva mboajepyre myakãharakuéra. Hetave umi kundaha ndojeroviái oguenohẽva GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } oiporu peteĩ mboajepyre peteĩva ko’ã myakãhárava ha, upéicha rupi, ndaikatúi eikua pe ñanduti renda réra.
+cert-error-symantec-distrust-description = Umi ñanduti renda ohechauka heratee mboajepyre rupive, oguenohẽva mboajepyre moakãharakuéra. Hetave umi kundaha ndojeroviái oguenohẽva GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } oiporu peteĩ mboajepyre peteĩva ko’ã moakãhárava ha, upéicha rupi, ndaikatúi eikua pe ñanduti renda réra.
 cert-error-symantec-distrust-admin = Ikatu emomarandu ñanduti renda ñangarekohárape ko apañuãi rehegua.
 cert-error-old-tls-version = Ikatu ko ñanduti renda nomoneĩri pe taperekoite TLS 1.2, ha’éva tembiapokue michĩve omoneĩva { -brand-short-name }.
 # Variables:

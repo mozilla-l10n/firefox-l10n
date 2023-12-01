@@ -5,11 +5,11 @@
 print-setup =
     .title = Kuatiarogue ñembohekopyahu
 custom-prompt-title = Ñemomba’epyre…
-custom-prompt-prompt = Emoinge nemoñe’ẽrã mba’etéva myakãha/pýva
+custom-prompt-prompt = Emoinge nemoñe’ẽrã mba’etéva moakãha/pýva
 basic-tab =
     .label = Ysaja ha poravopyrã
 advanced-tab =
-    .label = Tembe’y ha kuatiarogue myakãha/py
+    .label = Tembe’y ha kuatiarogue moakãha/py
 format-group-label =
     .value = Ysaja
 orientation-label =
@@ -58,7 +58,7 @@ margin-right =
 margin-right-invisible =
     .value = Akatúa:
 header-footer-label =
-    .value = Myakãha ha py
+    .value = Moakãha ha py
 hf-left-label =
     .value = Asu:
 hf-center-label =
@@ -66,11 +66,11 @@ hf-center-label =
 hf-right-label =
     .value = Akatúa:
 header-left-tip =
-    .tooltiptext = Myakãha asúva
+    .tooltiptext = Moakãha asúva
 header-center-tip =
-    .tooltiptext = Myakãha mbyteguáva
+    .tooltiptext = Moakãha mbyteguáva
 header-right-tip =
-    .tooltiptext = Myakãha akatuagua
+    .tooltiptext = Moakãha akatuagua
 footer-left-tip =
     .tooltiptext = Py asugua
 footer-center-tip =
@@ -103,7 +103,6 @@ print-window =
     .title = Oñembokuatiahína
 print-complete =
     .value = Ñembokuatia opáma.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

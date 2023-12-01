@@ -16,7 +16,7 @@ csp-error-illegal-protocol = ‘{ $directive }’ mba’ejerure oguereko { $sche
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
-csp-error-missing-host = { $scheme }: Pe mba’ete oikotevẽ peteĩ myakãha ryepy pegua ‘{ $directive }’
+csp-error-missing-host = { $scheme }: Pe mba’ete oikotevẽ peteĩ moakãha ryepy pegua ‘{ $directive }’
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
