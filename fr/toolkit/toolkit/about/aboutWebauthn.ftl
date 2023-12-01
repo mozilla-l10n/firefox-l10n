@@ -11,15 +11,26 @@ about-webauthn-page-title = À propos de WebAuthn
 
 ## Section titles
 
+about-webauthn-info-section-title = Informations de l’appareil
+about-webauthn-pin-section-title = Gestion du code PIN
+about-webauthn-pin-required-section-title = Code PIN requis
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Veuillez connecter un jeton d’authentification.
 
 ## Results label
 
+about-webauthn-results-general-error = Erreur !
+about-webauthn-results-pin-too-short-error = Erreur : le code PIN saisi est trop court.
+about-webauthn-results-pin-too-long-error = Erreur : le code PIN saisi est trop long.
 
 ## Labels
 
+about-webauthn-new-pin-label = Nouveau code PIN :
+about-webauthn-repeat-pin-label = Répétez le nouveau code PIN :
+about-webauthn-current-pin-label = Code PIN actuel :
+about-webauthn-pin-required-label = Veuillez saisir votre code PIN :
 
 ## Buttons
 
