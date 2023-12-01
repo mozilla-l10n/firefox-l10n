@@ -244,6 +244,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Έναρξη
 device-migration-fxa-spotlight-older-device-header = Ηρεμία και ασφάλεια, από το { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Ένας λογαριασμός διατηρεί ενημερωμένες και ασφαλείς τις σημαντικές πληροφορίες σας σε όποια συσκευή κάνετε σύνδεση.
 device-migration-fxa-spotlight-older-device-primary-button = Δημιουργία λογαριασμού
+device-migration-fxa-spotlight-getting-new-device-header-2 = Νέα συσκευή στο μέλλον;
 device-migration-fxa-spotlight-getting-new-device-body = Δημιουργήστε αντίγραφα ασφαλείας των δεδομένων σας τώρα, ώστε να είστε έτοιμοι όταν φτάσει η συσκευή σας.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Δημιουργία αντιγράφων ασφαλείας δεδομένων
 
