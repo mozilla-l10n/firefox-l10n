@@ -237,6 +237,7 @@ device-migration-fxa-spotlight-header = Utiliseschas ti in apparat pli vegl?
 device-migration-fxa-spotlight-body = Fa copias da segirezza da tias datas per far la segira che ti na perdas betg infurmaziuns impurtantas sco segnapaginas e pleds-clav – specialmain sche ti midas ad in nov apparat.
 device-migration-fxa-spotlight-primary-button = Co far copias da segirezza da mias datas
 device-migration-fxa-spotlight-link = Ma regurdar pli tard
+device-migration-fxa-spotlight-getting-new-device-header-2 = In nov apparat en tes futur?
 
 ## Set as Default PDF Reader Infobar
 
