@@ -252,6 +252,7 @@ device-migration-fxa-spotlight-link = ذكّرني لاحقًا
 device-migration-fxa-spotlight-heavy-user-primary-button = ابدأ
 device-migration-fxa-spotlight-older-device-header = راحة البال من { -brand-product-name }
 device-migration-fxa-spotlight-older-device-primary-button = أنشئ حسابًا
+device-migration-fxa-spotlight-getting-new-device-header-2 = جهاز جديد في مستقبلك؟
 device-migration-fxa-spotlight-getting-new-device-primary-button = كيفية عمل نسخة احتياطية من بياناتي
 
 ## Set as Default PDF Reader Infobar
