@@ -237,6 +237,7 @@ device-migration-fxa-spotlight-header = Brûke jo in âlder apparaat?
 device-migration-fxa-spotlight-body = Meitsje in reservekopy fan jo gegevens om derfoar te soargjen dat jo gjin wichtige ynformaasje, lykas blêdwizers en wachtwurden kwytreitsje, foaral as jo oerskeakelje nei in nij apparaat.
 device-migration-fxa-spotlight-primary-button = Hoe meitsje in reservekopy fan myn gegevens
 device-migration-fxa-spotlight-link = Letter werinnerje
+device-migration-fxa-spotlight-getting-new-device-header-2 = Nij apparaat yn de takomst?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hoe meitsje in reservekopy fan myn gegevens
 
 ## Set as Default PDF Reader Infobar
