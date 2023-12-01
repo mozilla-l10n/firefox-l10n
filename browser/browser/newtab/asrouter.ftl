@@ -244,7 +244,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Fillojani
 device-migration-fxa-spotlight-older-device-header = Mendje të fjetur, nga { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Një llogari i mban informacionet tuaja të rëndësishme të përditësuara dhe të mbrojtura në cilëndo pajisje që lidhni.
 device-migration-fxa-spotlight-older-device-primary-button = Krijoni një llogari
-device-migration-fxa-spotlight-getting-new-device-header = Po shpresoni për një pajisje të re këtë sezon?
+device-migration-fxa-spotlight-getting-new-device-header-2 = Pajisje e re e juaj në të ardhmen?
 device-migration-fxa-spotlight-getting-new-device-body = Kopjeruani tani të dhënat tuaja, që të jeni gati, kur të mbërrijë pajisja juaj.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Si të kopjeruaj të dhënat e mia
 
