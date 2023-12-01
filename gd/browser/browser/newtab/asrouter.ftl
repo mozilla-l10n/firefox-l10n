@@ -241,6 +241,7 @@ device-migration-fxa-spotlight-header = A bheil uidheam nas sine agad?
 device-migration-fxa-spotlight-body = Dèan lethbhreacan-glèidhidh dhen dàta agad a dhèanamh cinnteach nach caill thu fiosrachadh cudromach mar chomharran-lìn is faclan-faire – gu sònraichte nuair a ghluaiseas tu gu uidheam ùr.
 device-migration-fxa-spotlight-primary-button = Ciamar a nì mi lethbhreac-glèidhidh dhen dàta agam
 device-migration-fxa-spotlight-link = Cuir nam chuimhne an ceann greis
+device-migration-fxa-spotlight-getting-new-device-header-2 = Uidheam ùr gu bhith agad?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Ciamar a nì mi lethbhreac-glèidhidh dhen dàta agam
 
 ## Set as Default PDF Reader Infobar
