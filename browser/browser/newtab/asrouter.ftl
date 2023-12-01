@@ -244,7 +244,6 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Hasi erabiltzen
 device-migration-fxa-spotlight-older-device-header = Bakea eta lasaitasuna, { -brand-product-name } bidez
 device-migration-fxa-spotlight-older-device-body = Kontuak zure informazio garrantzitsua egunean eta babestuta mantentzen du konektatzen zaren edozein gailutan.
 device-migration-fxa-spotlight-older-device-primary-button = Sortu kontua
-device-migration-fxa-spotlight-getting-new-device-header = Gailu berri batera aldatzera zoaz urte-garai honetan?
 device-migration-fxa-spotlight-getting-new-device-body = Egin orain zure datuen babeskopia, gailu berria heltzen zaizunean dena prest izan dezazun.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Nola egin nire datuen babeskopia
 
