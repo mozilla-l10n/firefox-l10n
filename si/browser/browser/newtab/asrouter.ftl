@@ -232,3 +232,14 @@ device-migration-fxa-spotlight-header = පරණ උපාංගයක් භ�
 device-migration-fxa-spotlight-body = පොත්යොමු සහ මුරපද වැනි වැදගත් තොරතුරු ඔබට අහිමි නොවීමට ඔබගේ දත්ත උපස්ථ කරන්න — විශේෂයෙන් ඔබ නව උපාංගයකට මාරු වන්නේ නම්.
 device-migration-fxa-spotlight-primary-button = මාගේ දත්ත උපස්ථ කරන්නේ කෙසේද?
 device-migration-fxa-spotlight-link = පසුව මතක් කරන්න
+device-migration-fxa-spotlight-getting-new-device-header-2 = අනාගතයේදී අළුත් උපාංගයක්?
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
