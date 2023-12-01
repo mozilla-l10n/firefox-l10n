@@ -243,6 +243,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = شروع کرو
 device-migration-fxa-spotlight-older-device-header = { -brand-product-name } نال، ذہنی سکون
 device-migration-fxa-spotlight-older-device-body = تساں جہڑی وی ڈیوائس تے کنکٹ تھیوو کھاتہ تہاݙیاں اہم معلومات اپ ڈیٹ تے حفاظت نال رکھدے۔
 device-migration-fxa-spotlight-older-device-primary-button = کھاتہ بݨاؤ
+device-migration-fxa-spotlight-getting-new-device-header-2 = تہاݙے مستقبل وچ نویں ڈیوائس؟
 device-migration-fxa-spotlight-getting-new-device-body = ہݨ آپݨاں ڈیٹا بیک اپ کرو، ایں کیتے جہڑے ویلے تہاݙی ڈیوائس آندی ہے، تساں ون٘ڄݨ کیتے تیار ہو۔
 device-migration-fxa-spotlight-getting-new-device-primary-button = میں آپݨے ڈیٹا کوں بیک اپ کین٘ویں کراں
 
