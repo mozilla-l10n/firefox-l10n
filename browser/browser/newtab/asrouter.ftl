@@ -243,6 +243,7 @@ device-migration-fxa-spotlight-heavy-user-header = Verilerinizi yedeklemeyi unut
 device-migration-fxa-spotlight-heavy-user-primary-button = Başla
 device-migration-fxa-spotlight-older-device-body = Hesabınıza bağladığınız tüm cihazlarınızda önemli bilgileriniz güncel ve güvende kalır.
 device-migration-fxa-spotlight-older-device-primary-button = Hesap oluştur
+device-migration-fxa-spotlight-getting-new-device-header-2 = Yeni bir cihaza geçmeyi düşünüyor musunuz?
 device-migration-fxa-spotlight-getting-new-device-body = Verilerinizi hemen yedekleyin, cihazınız gelince kullanıma hazır olun.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Verilerimi nasıl yedekleyebilirim?
 
