@@ -15,3 +15,10 @@ webconsole-commands-usage-block =
     
       Akceptuje jenož jedyn argument URLSTRING, znamješkowy rjećazk bjez pazorkow, kotryž so wužiwa, zo by wšě naprašowanja blokował, kotrychž URL tutón znamješkowy rjećazk wobsahuje.
       Wužiwajće :unblock abo bóčnicu naprašowanja syćoweho monitora, zo byšće to cofnył.
+# Usage string for :unblock command
+webconsole-commands-usage-unblock =
+    :unblock URL_STRING
+    
+    Blokowanje syćowych naprašowanjow skónčić
+    
+      Akceptuje jenož jedyn argument, eksaktnje samsny znamješkowy rjećazk je so do toho do :block přepodał.
