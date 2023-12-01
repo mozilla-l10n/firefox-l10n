@@ -239,6 +239,7 @@ device-migration-fxa-spotlight-header = Stâstu doprant un dispositîf plui vier
 device-migration-fxa-spotlight-body = Fâs un backup dai tiei dâts par no pierdi informazions impuartantis come segnelibris e passwords — soredut se tu passis a un gnûf dispositîf.
 device-migration-fxa-spotlight-primary-button = Cemût salvâ i miei dâts
 device-migration-fxa-spotlight-link = Visimi plui indevant
+device-migration-fxa-spotlight-getting-new-device-header-2 = Gnûf dispositîf tal to futûr?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Cemût salvâ i miei dâts
 
 ## Set as Default PDF Reader Infobar
