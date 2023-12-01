@@ -244,6 +244,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Kom i gang
 device-migration-fxa-spotlight-older-device-header = Tryggleik, frå { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Ein konto held viktig informasjon oppdatert og beskytta på alle einingar du koplar til
 device-migration-fxa-spotlight-older-device-primary-button = Opprett ein konto
+device-migration-fxa-spotlight-getting-new-device-header-2 = Planlegg du å kjøpe ei ny eining i framtida?
 device-migration-fxa-spotlight-getting-new-device-body = Sikkerheitskopier dataa dine no, slik at du er klar til å byrje når eininga di kjem.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Korleis tryggingskopiere mine data
 
