@@ -245,7 +245,6 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Aan de slag
 device-migration-fxa-spotlight-older-device-header = Gemoedsrust, van { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Een account houdt uw belangrijke gegevens bijgewerkt en beschermd op elk apparaat dat u verbindt.
 device-migration-fxa-spotlight-older-device-primary-button = Een account aanmaken
-device-migration-fxa-spotlight-getting-new-device-header = Hoopt u deze feestdagen op een nieuw apparaat?
 device-migration-fxa-spotlight-getting-new-device-body = Maak nu een reservekopie van uw gegevens, zodat u direct aan de slag kunt als uw apparaat arriveert.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hoe maak ik een reservekopie van mijn gegevens
 
