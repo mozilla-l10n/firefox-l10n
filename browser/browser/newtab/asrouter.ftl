@@ -245,6 +245,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Hefjast handa
 device-migration-fxa-spotlight-older-device-header = Hugarró, frá { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Reikningur heldur mikilvægum upplýsingum uppfærðum og vernduðum á hverju því tæki sem þú tengir.
 device-migration-fxa-spotlight-older-device-primary-button = Búa til reikning
+device-migration-fxa-spotlight-getting-new-device-header-2 = Nýtt tæki í framtíðinni?
 device-migration-fxa-spotlight-getting-new-device-body = Taktu öryggisafrit af gögnunum þínum núna, svo þú sért til í tuskið þegar tækið þitt kemur.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hvernig tek ég öryggisafrit af gögnunum mínum
 
