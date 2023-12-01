@@ -236,6 +236,7 @@ device-migration-fxa-spotlight-header = Utilitzeu un dispositiu més antic?
 device-migration-fxa-spotlight-body = Feu una còpia de seguretat de les vostres dades per assegurar-vos de no perdre informació important, com les adreces d'interès i les contrasenyes, sobretot si canvieu a un dispositiu nou.
 device-migration-fxa-spotlight-primary-button = Com puc fer una còpia de seguretat de les meves dades
 device-migration-fxa-spotlight-link = Recorda-m'ho més tard
+device-migration-fxa-spotlight-getting-new-device-header-2 = Penseu adquirir un dispositiu nou en el futur?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Com puc fer una còpia de seguretat de les meves dades
 
 ## Set as Default PDF Reader Infobar
