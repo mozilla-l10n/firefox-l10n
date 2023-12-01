@@ -244,7 +244,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Оғози кор
 device-migration-fxa-spotlight-older-device-header = Оромии дил аз «{ -brand-product-name }»
 device-migration-fxa-spotlight-older-device-body = Ҳисобе маълумоти муҳими шуморо дар ҳар дастгоҳе, ки шумо пайваст мекунед, нав ва ҳифзшуда нигоҳ медорад.
 device-migration-fxa-spotlight-older-device-primary-button = Эҷод кардани ҳисоб
-device-migration-fxa-spotlight-getting-new-device-header = Дар ин мавсим ба дастгоҳи нав умед доред?
+device-migration-fxa-spotlight-getting-new-device-header-2 = Шумо мехоҳед, ки дар оянда аз дастгоҳи дигари нав истифода баред?
 device-migration-fxa-spotlight-getting-new-device-body = Ҳозир нусхаи эҳтиётии маълумоти худро таҳия кунед, то вақте ки дастгоҳи нави шумо меояд, шумо омода мешавед.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Тарзи таҳия кардани нусхаи эҳтиётии маълумоти ман
 
