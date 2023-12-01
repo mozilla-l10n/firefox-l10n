@@ -12,7 +12,7 @@ webconsole-commands-usage-block =
 
   Inizia blocco delle richieste di rete
 
-    Accetta un solo parametro URLSTRING, una stringa senza virgolette che verrà utilizzata per bloccare tutte le richieste il cui URL include questa stringa.
+    Accetta un solo parametro URL_STRING, una stringa senza virgolette che verrà utilizzata per bloccare tutte le richieste il cui URL include questa stringa.
     Utilizzare :unblock o la barra laterale in Monitor di rete per rimuovere il blocco.
 
 # Usage string for :unblock command
