@@ -237,6 +237,7 @@ device-migration-fxa-spotlight-header = Utilizatz un aparelh mai ancian ?
 device-migration-fxa-spotlight-body = Salvagardatz vòstras donadas per vos assegurar de pèrdre pas d’informacions importantas coma los marcapaginas o los senhals, mai que mai se cambiatz d’aparelh.
 device-migration-fxa-spotlight-primary-button = Cossí salvagardar las donadas
 device-migration-fxa-spotlight-link = Lo me remembrar mai tard
+device-migration-fxa-spotlight-getting-new-device-header-2 = Sètz per aver un aparelh novèl lèu ?
 
 ## Set as Default PDF Reader Infobar
 
