@@ -236,6 +236,7 @@ device-migration-fxa-spotlight-header = Ĉu vi uzas malnovan aparaton?
 device-migration-fxa-spotlight-body = Faru sekurkopion de viaj datumoj por certi ne perdi iun gravan informon, kiel legosignojn kaj pasvortojn — ĉefe se vi iras al nova aparato.
 device-migration-fxa-spotlight-primary-button = Kiel fari sekurkopion de miaj datumoj
 device-migration-fxa-spotlight-link = Rememorigi poste
+device-migration-fxa-spotlight-getting-new-device-header-2 = Ĉu vi planas akiri novan aparaton?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kiel fari sekurkopion de miaj datumoj
 
 ## Set as Default PDF Reader Infobar
