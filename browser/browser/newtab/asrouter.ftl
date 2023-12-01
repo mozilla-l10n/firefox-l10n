@@ -248,7 +248,6 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Початок роб
 device-migration-fxa-spotlight-older-device-header = Будьте спокійними з { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Завдяки обліковому запису ваша важлива інформація завжди оновлена та захищена на будь-якому пристрої.
 device-migration-fxa-spotlight-older-device-primary-button = Створити обліковий запис
-device-migration-fxa-spotlight-getting-new-device-header = Збираєтеся змінити свій пристрій?
 device-migration-fxa-spotlight-getting-new-device-body = Створіть резервну копію даних зараз, щоб бути готовими до роботи на новому пристрої.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Як створити резервну копію моїх даних
 
