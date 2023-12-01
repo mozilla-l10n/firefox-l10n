@@ -384,4 +384,16 @@ onboarding-device-migration-subtitle = Accedi al tuo { -fxaccount-brand-name } p
 onboarding-device-migration-subtitle2 = Accedi al tuo account per portare con te segnalibri, password e cronologia di navigazione su un nuovo dispositivo.
 onboarding-device-migration-primary-button-label = Accedi
 
+## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Ci piace mantenerti al sicuro
+onboarding-easy-setup-security-and-privacy-subtitle = Il nostro browser, supportato da un’organizzazione senza fini di lucro, blocca automaticamente le società che, di nascosto, cercano di seguire le tue attività sul Web.
+
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Proteggiti con la crittografia quando passi da un dispositivo all’altro
+onboarding-mobile-download-security-and-privacy-subtitle = Una volta completata la sincronizzazione, { -brand-short-name } critta password, segnalibri e altro ancora. In più, puoi recuperare le schede da tuoi altri dispositivi.
+
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } è sempre dalla tua parte
+onboarding-gratitude-security-and-privacy-subtitle = Grazie per aver scelto di utilizzare { -brand-short-name }, il browser supportato da Mozilla Foundation. Con il tuo supporto, lavoriamo per rendere Internet più sicuro e accessibile per tutti.
