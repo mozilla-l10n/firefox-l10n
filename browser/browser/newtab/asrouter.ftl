@@ -242,7 +242,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Bắt đầu
 device-migration-fxa-spotlight-older-device-header = Yên tâm và tin tưởng, từ { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Tài khoản giúp thông tin quan trọng của bạn được cập nhật và bảo vệ trên mọi thiết bị bạn kết nối.
 device-migration-fxa-spotlight-older-device-primary-button = Tạo tài khoản
-device-migration-fxa-spotlight-getting-new-device-header = Chuẩn bị có thiết bị mới trong mùa này?
+device-migration-fxa-spotlight-getting-new-device-header-2 = Thiết bị mới trong tương lai của bạn?
 device-migration-fxa-spotlight-getting-new-device-body = Hãy sao lưu dữ liệu của bạn ngay bây giờ để bạn có thể sẵn sàng sử dụng ngay khi có thiết bị mới đó.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Làm thế nào để sao lưu dữ liệu của tôi
 
