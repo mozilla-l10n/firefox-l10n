@@ -244,6 +244,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Commencer
 device-migration-fxa-spotlight-older-device-header = La tranquillité d’esprit, grâce à { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Un compte garde vos informations importantes à jour et les protège sur tous les appareils auxquels vous vous connectez.
 device-migration-fxa-spotlight-older-device-primary-button = Créer un compte
+device-migration-fxa-spotlight-getting-new-device-header-2 = Prévoyez-vous d’acquérir un nouvel appareil ?
 device-migration-fxa-spotlight-getting-new-device-body = Sauvegardez vos données maintenant pour préparer l’arrivée de votre appareil.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Comment sauvegarder mes données
 
