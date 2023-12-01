@@ -242,7 +242,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Бастау
 device-migration-fxa-spotlight-older-device-header = Жан тыныштығы, { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Тіркелгі маңызды ақпаратыңызды жаңартылған және сіз қосылған кез келген құрылғыда қорғалған түрде ұстайды.
 device-migration-fxa-spotlight-older-device-primary-button = Тіркелгі жасау
-device-migration-fxa-spotlight-getting-new-device-header = Осы маусымда жаңа құрылғыны үміттенесіз бе?
+device-migration-fxa-spotlight-getting-new-device-header-2 = Болашақта жаңа құрылғыңыз бола ма?
 device-migration-fxa-spotlight-getting-new-device-body = Құрылғыңыз келгенде жұмыс істеуге дайын болу үшін, деректеріңіздің сақтық көшірмесін қазір жасаңыз.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Деректерімнің сақтық көшірмесін қалай жасауға болады
 
