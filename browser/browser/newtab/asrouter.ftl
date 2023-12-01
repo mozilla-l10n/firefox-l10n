@@ -248,6 +248,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Začíname
 device-migration-fxa-spotlight-older-device-header = Pokoj v duši, od { -brand-product-name(case: "gen") }
 device-migration-fxa-spotlight-older-device-body = Účet udržuje vaše dôležité informácie aktualizované a chránené na akomkoľvek zariadení, ktoré pripojíte.
 device-migration-fxa-spotlight-older-device-primary-button = Vytvoriť účet
+device-migration-fxa-spotlight-getting-new-device-header-2 = Plánujete v blízkej budúcnosti nové zariadenie?
 device-migration-fxa-spotlight-getting-new-device-body = Zálohujte si svoje údaje už teraz, aby ste boli pripravení, keď vám zariadenie dorazí.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Ako zálohovať moje údaje
 
