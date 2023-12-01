@@ -245,7 +245,6 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Iniciar
 device-migration-fxa-spotlight-older-device-header = Tranquilidade, do { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Uma conta mantém suas informações importantes atualizadas e protegidas em qualquer dispositivo conectado.
 device-migration-fxa-spotlight-older-device-primary-button = Criar uma conta
-device-migration-fxa-spotlight-getting-new-device-header = Espera receber um novo dispositivo nesta temporada?
 device-migration-fxa-spotlight-getting-new-device-body = Salve seus dados agora, para estar pronto para mudar quando seu dispositivo chegar.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Como fazer backup dos meus dados
 
