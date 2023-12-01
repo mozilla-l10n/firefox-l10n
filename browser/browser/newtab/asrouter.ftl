@@ -242,6 +242,7 @@ device-migration-fxa-spotlight-header = Używasz starszego urządzenia?
 device-migration-fxa-spotlight-body = Utwórz kopię zapasową swoich danych, aby mieć pewność, że nie utracisz ważnych informacji, takich jak zakładki czy hasła — zwłaszcza jeśli zmienisz urządzenie na nowe.
 device-migration-fxa-spotlight-primary-button = Jak utworzyć kopię zapasową
 device-migration-fxa-spotlight-link = Przypomnij później
+device-migration-fxa-spotlight-getting-new-device-header-2 = Będziesz mieć nowe urządzenie?
 
 ## Set as Default PDF Reader Infobar
 
