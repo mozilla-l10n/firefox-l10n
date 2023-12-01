@@ -240,6 +240,7 @@ device-migration-fxa-spotlight-link = Lembrar mais tarde
 device-migration-fxa-spotlight-heavy-user-header = Não se esqueça de fazer uma cópia de segurança dos seus dados
 device-migration-fxa-spotlight-heavy-user-primary-button = Começar
 device-migration-fxa-spotlight-older-device-primary-button = Criar uma conta
+device-migration-fxa-spotlight-getting-new-device-header-2 = Novo dispositivo no seu futuro?
 
 ## Set as Default PDF Reader Infobar
 
