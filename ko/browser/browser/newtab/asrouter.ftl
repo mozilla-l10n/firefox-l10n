@@ -242,7 +242,6 @@ device-migration-fxa-spotlight-heavy-user-primary-button = 시작하기
 device-migration-fxa-spotlight-older-device-header = 안심하세요, { -brand-product-name } 제공
 device-migration-fxa-spotlight-older-device-body = 계정은 연결된 모든 기기에서 중요한 정보를 업데이트하고 보호합니다.
 device-migration-fxa-spotlight-older-device-primary-button = 계정 만들기
-device-migration-fxa-spotlight-getting-new-device-header = 이번 시즌에 새로운 기기를 원하시나요?
 device-migration-fxa-spotlight-getting-new-device-body = 지금 데이터를 백업하면, 기기가 도착했을 때 바로 사용할 수 있습니다.
 device-migration-fxa-spotlight-getting-new-device-primary-button = 내 데이터를 백업하는 방법
 
