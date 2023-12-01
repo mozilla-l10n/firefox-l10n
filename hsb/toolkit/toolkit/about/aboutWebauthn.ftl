@@ -107,11 +107,16 @@ about-webauthn-auth-info-remaining-discoverable-credentials = Zbytne spóznajomn
 about-webauthn-auth-info-certifications = Certifikowanja
 about-webauthn-auth-info-uv-modality = Modalnosć za wužiwarske wobkrućenje
 about-webauthn-auth-info-preferred-platform-uv-attempts = Preferowana platforma za pospyty wužiwarskeho přepruwowanja
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maksimalne ID dowěrjaceje strony za nastajenje minimalneje dołhosće PIN
+about-webauthn-auth-info-max-cred-blob-length = Maksimalna dołhosć objekta blob přizjewjenskich datow
 about-webauthn-auth-info-firmware-version = Wersija Firmware
 about-webauthn-auth-info-min-pin-length = Minimalna dołhosć PIN
 about-webauthn-auth-info-force-pin-change = Změnu PIN wunuzować
+about-webauthn-auth-info-max-ser-large-blob-array = Maksimalna wulkosć wulkeho pólneje wariable objekta blob
 about-webauthn-auth-info-algorithms = Algoritmusy
 about-webauthn-auth-info-transports = Transporty
+about-webauthn-auth-info-max-credential-id-length = Maksimalna dołhosć ID přizjewjenskich datow
+about-webauthn-auth-info-max-credential-count-in-list = Maksimalna ličba přizjewjenskich datow w lisćinje
 about-webauthn-auth-info-pin-protocols = Protokole PIN
 about-webauthn-auth-info-max-msg-size = Maksimalna wulkosć powěsće
 # AAGUID should not be translated.
