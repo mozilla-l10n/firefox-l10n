@@ -43,6 +43,9 @@ pocket-panel-signup-tagline = Spasite članke i video klipove iz { -brand-produc
 pocket-panel-signup-tagline-story-one = Kliknite { -pocket-brand-name } dugme da spasite bilo koji članak, video ili stranicu iz { -brand-product-name }a.
 pocket-panel-signup-tagline-story-two = Pregledajte u { -pocket-brand-name }u na bilo kojem uređaju u bilo koje vrijeme.
 pocket-panel-signup-cta-a-fix = Vaše dugme da sačuvate internet sadržaj
+pocket-panel-signup-cta-b-updated = Kliknite na dugme { -pocket-brand-name } da sačuvate članke, video zapise i linkove. Pogledajte svoje sačuvane podatke na bilo kojem uređaju, u bilo koje vrijeme.
+pocket-panel-signup-cta-b-short = Kliknite na dugme { -pocket-brand-name } da sačuvate članke, video zapise i linkove.
+pocket-panel-signup-cta-c-updated = Pogledajte svoje sačuvane podatke na bilo kojem uređaju, u bilo koje vrijeme.
 
 ## about:pocket-home panel
 
@@ -51,6 +54,10 @@ pocket-panel-home-paragraph = Možete koristiti { -pocket-brand-name } da istra�
 pocket-panel-home-explore-popular-topics = Istražite popularne teme
 pocket-panel-home-discover-more = Istražite više
 pocket-panel-home-explore-more = Istraži
+pocket-panel-home-most-recent-saves = Evo vaših najnovijih sačuvanih podataka:
+pocket-panel-home-most-recent-saves-loading = Učitavanje nedavno sačuvanih podataka…
+pocket-panel-home-new-user-cta = Kliknite na dugme { -pocket-brand-name } da sačuvate članke, video zapise i linkove.
+pocket-panel-home-new-user-message = Pogledajte svoje nedavne sačuvane podatke ovdje.
 
 ## Pocket panel header component
 
