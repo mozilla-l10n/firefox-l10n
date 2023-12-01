@@ -236,6 +236,7 @@ device-migration-fxa-spotlight-header = Using an older device?
 device-migration-fxa-spotlight-body = Back up your data to make sure you don’t lose important info like bookmarks and passwords — especially if you switch to a new device.
 device-migration-fxa-spotlight-primary-button = How to back up my data
 device-migration-fxa-spotlight-link = Remind me later
+device-migration-fxa-spotlight-getting-new-device-header-2 = New device in your future?
 device-migration-fxa-spotlight-getting-new-device-primary-button = How to back up my data
 
 ## Set as Default PDF Reader Infobar
