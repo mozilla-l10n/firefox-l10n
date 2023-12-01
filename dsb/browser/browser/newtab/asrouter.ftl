@@ -251,7 +251,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Prědne kšace
 device-migration-fxa-spotlight-older-device-header = Dušyny měr, wót { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Konto waše wažne informacije aktualizěrujo a na kuždem rěźe šćita, z kótarymž zwězujośo.
 device-migration-fxa-spotlight-older-device-primary-button = Konto załožyś
-device-migration-fxa-spotlight-getting-new-device-header = Naźejaśo se na nowy rěd toś tu sezonu?
+device-migration-fxa-spotlight-getting-new-device-header-2 = Nowy rěd we wašom pśichoźe?
 device-migration-fxa-spotlight-getting-new-device-body = Zawěsććo něnto swóje daty, aby pśigótowany był, gaž waš rěd dojźo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kak mógu swóje daty zawěsćiś
 
