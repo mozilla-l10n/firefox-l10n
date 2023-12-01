@@ -165,6 +165,10 @@ firefoxview-search-text-box-recentlyclosed =
 firefoxview-search-text-box-syncedtabs =
   .placeholder = Cerca nelle schede sincronizzate
 
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+  .placeholder = Cerca nelle schede aperte
+
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
@@ -249,5 +253,3 @@ firefoxview-recentlyclosed-empty-description-two = Per trovare schede che hai ch
 
 firefoxview-syncedtabs-device-notabs = Nessuna scheda aperta in questo dispositivo
 firefoxview-syncedtabs-connect-another-device = Connetti un altro dispositivo
-
-
