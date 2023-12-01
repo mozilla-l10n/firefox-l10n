@@ -245,7 +245,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Kom igång
 device-migration-fxa-spotlight-older-device-header = Trygghet, från { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Ett konto håller din viktiga information uppdaterad och skyddad på alla enheter du ansluter.
 device-migration-fxa-spotlight-older-device-primary-button = Skapa ett konto
-device-migration-fxa-spotlight-getting-new-device-header = Hoppas du på en ny enhet den här säsongen?
+device-migration-fxa-spotlight-getting-new-device-header-2 = Tänker du skaffa en ny enhet i framtiden?
 device-migration-fxa-spotlight-getting-new-device-body = Säkerhetskopiera din data nu, så att du är redo att börja när din enhet kommer.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hur man säkerhetskopierar mina data
 
