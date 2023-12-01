@@ -243,7 +243,7 @@ device-migration-fxa-spotlight-link = Нагадаць пазней
 device-migration-fxa-spotlight-heavy-user-primary-button = Пачаць
 device-migration-fxa-spotlight-older-device-body = Уліковы запіс дазваляе абнаўляць і абараняць вашу важную інфармацыю на любой падключанай прыладзе.
 device-migration-fxa-spotlight-older-device-primary-button = Стварыць уліковы запіс
-device-migration-fxa-spotlight-getting-new-device-header = Спадзеяцеся на новую прыладу ў гэтым сезоне?
+device-migration-fxa-spotlight-getting-new-device-header-2 = Новая прылада ў вашай будучыні?
 device-migration-fxa-spotlight-getting-new-device-body = Стварыце рэзервовую копію дадзеных зараз, каб вы былі гатовыя да працы, калі ваша прылада прыбудзе.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Як зрабіць рэзервовую копію маіх дадзеных
 
