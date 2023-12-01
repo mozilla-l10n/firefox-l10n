@@ -238,6 +238,7 @@ device-migration-fxa-spotlight-header = Käytätkö vanhempaa laitetta?
 device-migration-fxa-spotlight-body = Varmuuskopioi tietosi varmistaaksesi, ettet menetä tärkeitä tietoja, kuten kirjanmerkkejä ja salasanoja – varsinkin jos vaihdat uuteen laitteeseen.
 device-migration-fxa-spotlight-primary-button = Kuinka varmuuskopioida omat tiedot
 device-migration-fxa-spotlight-link = Muistuta myöhemmin
+device-migration-fxa-spotlight-getting-new-device-header-2 = Uusi laite tulevaisuudessa?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kuinka varmuuskopioida omat tiedot
 
 ## Set as Default PDF Reader Infobar
