@@ -244,6 +244,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = Kom i gang
 device-migration-fxa-spotlight-older-device-header = Tryghed, fra { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = En konto sørger for, at dine vigtige oplysninger er opdaterede og beskyttede på alle dine tilsluttede enheder.
 device-migration-fxa-spotlight-older-device-primary-button = Opret en konto
+device-migration-fxa-spotlight-getting-new-device-header-2 = Skal du snart have en ny enhed?
 device-migration-fxa-spotlight-getting-new-device-body = Sikkerhedskopier dine data nu for at være forberedt, når du får din nye enhed.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Sådan sikkerhedskopierer du dine data
 
