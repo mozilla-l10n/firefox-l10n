@@ -34,6 +34,9 @@ about-webauthn-pin-required-label = Veuillez saisir votre code PIN :
 
 ## Buttons
 
+about-webauthn-cancel-button = Annuler
+about-webauthn-send-pin-button = OK
+about-webauthn-delete-button = Supprimer
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
