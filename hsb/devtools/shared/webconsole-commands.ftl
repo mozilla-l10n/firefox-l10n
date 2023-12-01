@@ -22,3 +22,13 @@ webconsole-commands-usage-unblock =
     Blokowanje syćowych naprašowanjow skónčić
     
       Akceptuje jenož jedyn argument, eksaktnje samsny znamješkowy rjećazk je so do toho do :block přepodał.
+# Usage string for :trace command
+webconsole-commands-usage-trace =
+    :trace
+    
+    Přepina slědowak JavaScript
+    
+      Podpěruje slědowace argumenty:
+        --logMethod, kotryž dyrbi so na ‘console’ nastajić, zo by so do webkonsole protokolował (standard), abo ‘stdout’, zo by do standardneho wudaća protokolował,
+        --prefix Znamješkowy rjećazk na přeće, kotryž so před wšěmi protokolemi slědowanja protokoluje,
+        --help abo --usage, zo by so zdźělenka pokazała.
