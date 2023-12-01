@@ -102,14 +102,21 @@ about-webauthn-auth-option-null = Njepódprěty
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Pśikaze konfiguracije prototypa librowarja
 about-webauthn-auth-info-remaining-discoverable-credentials = Zbytne spóznajobne pśizjawjeńske daty
 about-webauthn-auth-info-certifications = Certificěrowanja
 about-webauthn-auth-info-uv-modality = Modalnosć za wužywaŕske wobkšuśenje
+about-webauthn-auth-info-preferred-platform-uv-attempts = Nejlubša platforma za wopyty wužywaŕskego pśeglědanja
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maksimalne ID dowěrjecego boka za nastajenje minimalneje dłujkosći PIN
+about-webauthn-auth-info-max-cred-blob-length = Maksimalna dłujkosć objekta blob pśizjawjeńskich datow
 about-webauthn-auth-info-firmware-version = Wersija Firmware
 about-webauthn-auth-info-min-pin-length = Minimalna dłujkosć PIN
 about-webauthn-auth-info-force-pin-change = Změnu PIN wunuzkaś
+about-webauthn-auth-info-max-ser-large-blob-array = Maksimalna wjelikosć wjelikeje pólneje wariable objekta blob
 about-webauthn-auth-info-algorithms = Algoritmuse
 about-webauthn-auth-info-transports = Transporty
+about-webauthn-auth-info-max-credential-id-length = Maksimalna dłujkosć ID pśizjawjeńskich datow
+about-webauthn-auth-info-max-credential-count-in-list = Maksimalna licba pśizjawjeńskich datow w lisćinje
 about-webauthn-auth-info-pin-protocols = Protokole PIN
 about-webauthn-auth-info-max-msg-size = Maksimalna wjelikosć powěsći
 # AAGUID should not be translated.
