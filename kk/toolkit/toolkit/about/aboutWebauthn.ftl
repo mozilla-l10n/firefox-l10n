@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Authenticator опциялары
 about-webauthn-pin-section-title = PIN кодтарын басқару
 about-webauthn-credential-management-section-title = Тіркелу деректерін басқару
 about-webauthn-pin-required-section-title = PIN коды керек
+about-webauthn-confirm-deletion-section-title = Өшіруді растау
 
 ## Info field texts
 
@@ -53,6 +54,7 @@ about-webauthn-current-pin-label = Ағымдағы PIN коды:
 about-webauthn-pin-required-label = PIN кодыңызды енгізіңіз:
 about-webauthn-credential-list-subsection-title = Тіркелу мәліметтері:
 about-webauthn-credential-list-empty = Құрылғыда тіркелу мәліметтері табылмады.
+about-webauthn-confirm-deletion-label = Сіз өшіргелі тұрсыз:
 
 ## Buttons
 

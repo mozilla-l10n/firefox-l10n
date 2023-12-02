@@ -331,3 +331,11 @@ onboarding-device-migration-title = Қайта келуіңізбен!
 onboarding-device-migration-subtitle = Бетбелгілер, парольдер және тарихты жаңа құрылғыда өзіңізбен бірге алып келу үшін{ -fxaccount-brand-name(capitalization: "sentence") } тіркегісіне кіріңіз.
 onboarding-device-migration-subtitle2 = Жаңа құрылғыңызға бетбелгілер, парольдер және тарихты өзіңізбен бірге алып келу үшін өз тіркелгіңізге кіріңіз.
 onboarding-device-migration-primary-button-label = Кіру
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Біз сіздің қауіпсіздігіңізді қамтамасыз етуді жақсы көреміз
+onboarding-easy-setup-security-and-privacy-subtitle = Коммерциялық емес ұйымы қолдауымен жасалатын біздің браузер компанияларды интернетте сізді жасырын түрде бақылауын автоматты түрде тоқтатуға көмектеседі.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Құрылғылар арасында өткенде шифрленген күйде қала беріңіз
