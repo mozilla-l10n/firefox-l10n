@@ -332,3 +332,12 @@ onboarding-device-migration-title = Velkomin aftur!
 onboarding-device-migration-subtitle = Skráðu þig inn á { -fxaccount-brand-name(capitalization: "sentence") } til að taka bókamerkin þín, lykilorð og feril með þér á nýja tækið þitt.
 onboarding-device-migration-subtitle2 = Skráðu þig inn á reikninginn þinn til að hafa bókamerkin þín, lykilorð og feril með þér yfir á nýja tækið þitt.
 onboarding-device-migration-primary-button-label = Skrá inn
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Við fáum kikk út úr því að halda þér öruggum
+onboarding-easy-setup-security-and-privacy-subtitle = Vafrinn okkar, sem ekki er rekinn í hagnaðarskyni, hjálpar til við að koma í veg fyrir að fyrirtæki laumist til að fylgjast með þér á ferðum þínum um vefinn.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Haltu dulritun þegar þú hoppar á milli tækja
+onboarding-gratitude-security-and-privacy-subtitle = Takk fyrir að nota { -brand-short-name }, sem stutt er af Mozilla stofnuninni. Með stuðningi þínum erum við að vinna að því að gera internetið öruggara, aðgengilegra og betra fyrir alla.

@@ -303,6 +303,18 @@ pdfjs-editor-stamp-button =
 pdfjs-editor-stamp-button-label = Bæta við eða breyta myndum
 pdfjs-editor-remove-button =
     .title = Fjarlægja
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Fjarlægja teikningu
+pdfjs-editor-remove-freetext-button =
+    .title = Fjarlægja texta
+pdfjs-editor-remove-stamp-button =
+    .title = Fjarlægja mynd
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Litur
 pdfjs-editor-free-text-size-input = Stærð
