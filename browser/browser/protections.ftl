@@ -29,7 +29,7 @@ protection-report-page-summary-default = { -brand-short-name }는 탐색하는 �
 protection-report-settings-link = 개인 정보 및 보안 설정 관리
 etp-card-title-always = 향상된 추적 방지: 항상 사용
 etp-card-title-custom-not-blocking = 향상된 추적 방지: 꺼짐
-etp-card-content-description = { -brand-short-name }는 회사가 웹에서 사용자를 몰래 따라 다니는 것을 자동으로 중지합니다.
+etp-card-content-description = { -brand-short-name }는 회사가 웹에서 사용자를 몰래 추적하는 것을 자동으로 차단합니다.
 protection-report-etp-card-content-custom-not-blocking = 현재 모든 보호 기능이 꺼져 있습니다. { -brand-short-name } 보호 설정에서 차단할 추적기를 선택하세요.
 protection-report-manage-protections = 설정 관리
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,

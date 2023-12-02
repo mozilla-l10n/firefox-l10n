@@ -331,3 +331,15 @@ onboarding-device-migration-title = 환영합니다
 onboarding-device-migration-subtitle = { -fxaccount-brand-name(capitalization: "sentence") }에 로그인하여 새 기기에 북마크, 비밀번호 및 기록을 가져오세요.
 onboarding-device-migration-subtitle2 = 새 기기에서 북마크, 비밀번호, 기록을 가져오려면 계정에 로그인하세요.
 onboarding-device-migration-primary-button-label = 로그인
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = 사용자의 안전을 지키기 위해 최선을 다합니다.
+onboarding-easy-setup-security-and-privacy-subtitle = 이 비영리 지원 브라우저는 회사가 웹에서 사용자를 몰래 추적하는 것을 차단하는 데 도움이 됩니다.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = 기기 간 이동 시 암호화 상태를 유지하세요
+onboarding-mobile-download-security-and-privacy-subtitle = 동기화되면 { -brand-short-name }가 비밀번호, 북마크 등을 암호화합니다.  다른 기기에서 탭을 가져올 수도 있습니다.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name }가 여러분을 도와드립니다.
+onboarding-gratitude-security-and-privacy-subtitle = Mozilla 재단이 지원하는 { -brand-short-name }를 사용해 주셔서 감사합니다. 여러분의 지원으로 우리는 인터넷을 더 안전하고 더 쉽게 이용할 수 있도록 노력하고 있습니다.
