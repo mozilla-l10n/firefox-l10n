@@ -89,6 +89,10 @@ login-item-edit-button = 편집
 about-logins-login-item-remove-button = 삭제
 login-item-origin-label = 웹 사이트 주소
 login-item-tooltip-message = 로그인 한 웹 사이트의 정확한 주소와 일치하는지 확인하세요.
+about-logins-origin-tooltip = 로그인 한 웹 사이트의 정확한 주소와 일치하는지 확인하세요.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = 이 사이트의 현재 비밀번호를 저장하고 있는지 확인하세요. 여기에서 비밀번호를 변경해도 { $webTitle }의 비밀번호는 변경되지 않습니다.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = 사용자 이름
