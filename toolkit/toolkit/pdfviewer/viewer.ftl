@@ -307,6 +307,18 @@ pdfjs-editor-stamp-button =
 pdfjs-editor-stamp-button-label = Wobraze pśidaś abo wobźěłaś
 pdfjs-editor-remove-button =
     .title = Wótwónoźeś
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Kreslanku wótwónoźeś
+pdfjs-editor-remove-freetext-button =
+    .title = Tekst wótwónoźeś
+pdfjs-editor-remove-stamp-button =
+    .title = Wobraz wótwónoźeś
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Barwa
 pdfjs-editor-free-text-size-input = Wjelikosć

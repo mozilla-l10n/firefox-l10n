@@ -332,3 +332,15 @@ onboarding-device-migration-title = Witajśo slědk!
 onboarding-device-migration-subtitle = Pśizjawśo se pla { -fxaccount-brand-name(capitalization: "sentence") }, aby swóje cytańske znamjenja, gronidła a historiju na swójom nowem rěźe sobu wzeł.
 onboarding-device-migration-subtitle2 = Pśizjawśo se pla swójogo konta, aby swóje cytańske znamjenja, gronidła a swóju historiju na swój nowy rěd pśenosował.
 onboarding-device-migration-primary-button-label = Pśizjawiś
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Šćitamy was rad
+onboarding-easy-setup-security-and-privacy-subtitle = Naš za wšykne wužytny wobglědowak pśedewześam zawoborujo, wam kšajźu pó interneśe slědowaś.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Wóstańśo skoděrowany, gaž někotare rědy wužywaśo
+onboarding-mobile-download-security-and-privacy-subtitle = Gaž sćo synchronizěrował, { -brand-short-name } waše gronidła, cytańske znamjenja a wěcej koděrujo. Mimo togo maśo pśistup k rejtarikam na swójich drugich rědach.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } za wami stoj
+onboarding-gratitude-security-and-privacy-subtitle = Wjeliki źěk, až { -brand-short-name } wužywaśo, kótaryž se wót załožby Mozilla Foundation spěchujo. Z wašeju pomocu źěłamy na tom, internet wěsćejšy a pśistupnjejšy za kuždego cyniś.
