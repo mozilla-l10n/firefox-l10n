@@ -1255,7 +1255,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = 基于 HTTPS 的 DNS
-preferences-doh-description = 基于 HTTPS 的 DNS 会加密发送您对域名的请求，从而建立安全 DNS，使他人更难得知您要访问的网站。
+preferences-doh-description = 基于 HTTPS 的 DNS 会通过加密的连接发送您对域名的请求，从而建立安全 DNS 连接，使他人更难得知您要访问的网站。
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = 状态：{ $status }
