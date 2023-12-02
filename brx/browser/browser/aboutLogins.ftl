@@ -4,7 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = लगिन & पासवर्डखौ
-
+about-logins-login-filter =
+    .placeholder = लोगिनफोर नागिर
+    .key = फ
+create-new-login-button =
+    .title = गोदान लोगिन बानाय
 fxaccounts-sign-in-text = नोंनि पासवर्दखौ गुबुन डिभाइस आव लाबो
 fxaccounts-avatar-button =
     .title = एकाउन्ट सामलाय
@@ -27,6 +31,8 @@ about-logins-menu-menuitem-help = हेफाजाब
 
 login-list =
     .aria-label = लाग इनफोरजों मिलायनाय नागिरसंनाय
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } ल'गइन
@@ -76,6 +82,7 @@ login-item-cancel-button = नेवसि
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -96,13 +103,13 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = नेवसि
 confirmation-dialog-dismiss-button =
     .title = नेवसि
-
 about-logins-confirm-remove-dialog-title = बे ल'गइनखौ बोखारनो?
 confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
 about-logins-confirm-remove-dialog-confirm-button = बोखार
 
 ## Variables
 ##   $count (number) - Number of items
+
 
 ##
 
@@ -125,7 +132,6 @@ about-logins-vulnerable-alert-learn-more-link = गोबां सोलों
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = बे { $loginTitle } इउजार नेमजों सोगा्या दंखायो,  <a data-l10n-name="duplicate-link"> थाखानाय सोनायाव थां</a>
-
 # This is a generic error message.
 about-logins-error-message-default = बे फासवाद खौ लाखिनो नाजानायाव गोरोनथि जादों
 

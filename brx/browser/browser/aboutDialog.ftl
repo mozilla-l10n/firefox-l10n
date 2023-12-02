@@ -36,6 +36,7 @@ aboutdialog-update-manual-with-link = ..आव आपडेटफोर दं<l
 settings-update-manual-with-link = ..आव आपडेटफोर दं<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = नोंथाङा बे सिस्टेमआव आरोबाव आपडेट खालामनो हाया।<label data-l10n-name="unsupported-link">गोबां सोलों</label>
 update-restarting = फिन जागाय गासिनो दङ...
+update-internal-error2 = इसिङारि गोरोन्थि थाखाय, आफदेट चेक खालामनायाव फेलें जाबाय | <label data-l10n-name="manual-link">{ $displayUrl }</label> अव आफदेटआ दं |
 
 ##
 
