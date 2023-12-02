@@ -151,6 +151,10 @@ addon-install-from-file-filter-name = Add-ons
 
 ## Extension shortcut management
 
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = सिगांनिफ्रायनो बाहायजागासिनो { $addon } जों
 shortcuts-card-collapse-button = इसेल' दिन्थि
 header-back-button =
     .title = थांफिन
@@ -163,6 +167,7 @@ privacy-policy = गुमुरगोनां पलिसि
 # Variables:
 #   $author (string) - The name of the add-on developer.
 created-by-author = जों <a data-l10n-name="author">{ $author }</a>
+install-extension-button = दाजाबहै { -brand-product-name }
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = मेनेज खालाम
@@ -243,7 +248,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } आ { -brand-short-name } { $version } जों गोरोबा।
 # Variables:
 #   $version (string) - Application version.

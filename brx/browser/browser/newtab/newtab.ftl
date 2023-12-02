@@ -21,7 +21,6 @@ newtab-topsites-edit-topsites-header = गिबि साइटखौ सुज
 newtab-topsites-title-label = बिमुं
 newtab-topsites-title-input =
     .placeholder = मोनसे बिमुं हो
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-validation = बाहाय जाथाव URL नांगौ
 
@@ -33,9 +32,6 @@ newtab-topsites-save-button = थिना दोन
 newtab-topsites-preview-button = गिबि नुथाय
 newtab-topsites-add-button = दाजाबदेर
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 # "This action" refers to deleting a page from history.
@@ -43,13 +39,13 @@ newtab-confirm-delete-history-p2 = बे हाबाखौ मावनो ह
 
 ## Top Sites - Sponsored label
 
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
     .title = मेनु खेव
     .aria-label = मेनु खेव
-
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = बे साइटखौ सुजु
@@ -62,7 +58,7 @@ newtab-menu-open-new-window = मोनसे गोदान उइन्ड'�
 newtab-menu-open-new-private-window = मोनसे गोदान प्राइभेट उइन्ड'खौ खेव
 newtab-menu-dismiss = फोजोब
 newtab-menu-pin = पिन खालाम
-newtab-menu-unpin = पिन दिहुन
+newtab-menu-unpin = आनपिन
 newtab-menu-delete-history = जारिमिन निफ्राय खोमोर
 newtab-menu-save-to-pocket = { -pocket-brand-name } आव थिना दोन
 newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खोमोर
@@ -71,18 +67,12 @@ newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खो�
 
 newtab-privacy-modal-button-done = जाखांबाइ
 
-
-
 ##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = बुकमाकॅखौ बोखार
 # Bookmark is a verb here.
 newtab-menu-bookmark = बुकमार्क
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -113,10 +103,6 @@ newtab-label-recommended = त्रेन्दिगं
 newtab-label-saved = { -pocket-brand-name } आव थिना दोनबाय
 newtab-label-download = डाउनल'ड खालामबाय
 
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
-
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
@@ -134,7 +120,7 @@ newtab-section-menu-privacy-notice = गुमुरथि मिथिसार
 
 newtab-section-header-topsites = गिबि साइटफोर
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } आ बसोन होनाइ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -149,13 +135,12 @@ newtab-discovery-empty-section-topstories-loading = ल'ड खालाम ग�
 
 newtab-pocket-cta-button = { -pocket-brand-name } ला
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
+
 
 ## Customization Menu
 

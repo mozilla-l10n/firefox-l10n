@@ -2,16 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ##
 ## Localization for remote types defined in RemoteType.h
 ##
 
 process-type-web = वेब आयदा
-
 process-type-extension = बारायनायफोर
-
 # process used to open file:// URLs
 process-type-file = जायगानि फाइल
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = आलादा वेब आयदा
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h

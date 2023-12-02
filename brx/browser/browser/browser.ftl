@@ -434,6 +434,9 @@ toolbar-settings-button =
 toolbar-button-email-link =
     .label = लिंकखौ इ-मेइल खालाम
     .tooltiptext = मोनसे लिंकखौ बे बिलाइआव इ-मेइल खालाम
+toolbar-button-logins =
+    .label = पासवार्डफोर
+    .tooltiptext = { "" }
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -452,12 +455,20 @@ toolbar-button-new-private-window =
 
 ## EME notification panel
 
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = फोजोब
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = बाहायग्रा मुं
+panel-save-update-password = पासवर्ड
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = गोबां…
 ui-tour-info-panel-close =
     .tooltiptext = बन्द खालाम
 
@@ -500,6 +511,9 @@ navbar-overflow =
 navbar-print =
     .label = साफाय
     .tooltiptext = बे बिलाइखौ साफाय... ({ $shortcut })
+navbar-home =
+    .label = ह'म
+    .tooltiptext = { -brand-short-name } ह'म पेज
 navbar-search =
     .title = नागिर
 # Name for the tabs toolbar as spoken by screen readers. The word
@@ -515,6 +529,7 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+restore-session-startup-suggestion-button = आगंनो दिन्थि माबोरै
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -522,20 +537,37 @@ data-reporting-notification-message = { -brand-short-name } आ माखास�
 data-reporting-notification-button =
     .label = आं जायखौ शेयार खालामो बेखौ बासिख
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = निजि ब्राउजिं
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = बारायनायफोर
+    .tooltiptext = बारायनायफोर
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = बारायनायफोर
+    .tooltiptext = बारायनायफोर
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = बारायनायफोर
+    .tooltiptext = बारायनायफोर
 
 ## Private browsing reset button
 
+reset-pbm-panel-always-ask-checkbox =
+    .label = जेब्लाबो आंनाव सों
+    .accesskey = अ
+reset-pbm-panel-cancel-button =
+    .label = नेवसि
+    .accesskey = न
 
 ## Autorefresh blocker
 
