@@ -276,3 +276,6 @@ onboarding-device-migration-title = ברוכים השבים!
 onboarding-device-migration-subtitle = באפשרותך להיכנס אל { -fxaccount-brand-name(case: "the") } שלך כדי להביא איתך את הסימניות, הססמאות וההיסטוריה שלך במכשיר החדש שלך.
 onboarding-device-migration-subtitle2 = באפשרותך להיכנס לחשבון שלך כדי להביא איתך את הסימניות, הססמאות וההיסטוריה שלך במכשיר החדש שלך.
 onboarding-device-migration-primary-button-label = כניסה
+
+## The following screens have been updated to use security and privacy focused strings:
+

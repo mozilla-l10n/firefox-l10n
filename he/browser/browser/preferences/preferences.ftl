@@ -1252,6 +1252,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = ‏DNS על גבי HTTPS
 preferences-doh-description = מערכת שמות מתחם (DNS) על גבי HTTPS שולחת את הבקשה שלך לשם מתחם דרך חיבור מוצפן, יוצרת DNS מאובטח ומקשה על אחרים לראות לאיזה אתר הדפדפן עומד לגשת.
+preferences-doh-description2 = מערכת שמות מתחם (DNS) על גבי HTTPS שולחת את הבקשה שלך לשם מתחם דרך חיבור מוצפן, מספקת DNS מאובטח ומקשה על אחרים לראות לאיזה אתר הדפדפן עומד לגשת.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = מצב: { $status }
@@ -1268,6 +1269,7 @@ preferences-doh-status-disabled = כבוי
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = לא פעיל ({ $reason })
 preferences-doh-group-message = הפעלת DNS מאובטח באמצעות:
+preferences-doh-group-message2 = הפעלת DNS על גבי HTTPS באמצעות:
 preferences-doh-expand-section =
     .tooltiptext = מידע נוסף
 preferences-doh-setting-default =
