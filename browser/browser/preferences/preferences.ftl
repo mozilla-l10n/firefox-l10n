@@ -1272,6 +1272,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS přez HTTPS
 preferences-doh-description = System domenowych mjenow (DNS) přez HTTPS waše naprašowanje za domenowym mjenom přez zaklučowane zwisk sćele, wutworja wěsty DNS a poćežuje druhim wosobam widźeć, kotre websydła wopytujeće.
+preferences-doh-description2 = System domenowych mjenow (DNS) přez HTTPS waše naprašowanje za domenowym mjenom přez zaklučowane zwisk sćele, staja  wěsty DNS k dispoziciji a poćežuje druhim wosobam widźeć, kotre websydła wopytujeće.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Status: { $status }
@@ -1288,6 +1289,7 @@ preferences-doh-status-disabled = Wupinjeny
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Njeaktiwny ({ $reason })
 preferences-doh-group-message = Wěsty DNS zmóžnić z pomocu:
+preferences-doh-group-message2 = DNS přez HTTPS zmóžnić z pomocu:
 preferences-doh-expand-section =
     .tooltiptext = Dalše informacije
 preferences-doh-setting-default =

@@ -340,3 +340,5 @@ onboarding-easy-setup-security-and-privacy-title = Škitamy was rady
 onboarding-easy-setup-security-and-privacy-subtitle = Naš powšitkownosći wužitny wobhladowak zadźěwa tomu, zo předewzaća wam skradźu po interneće slěduja.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Wostańće zaklučowany, hdyž wjacore graty wužiwaće
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } za wami steji
