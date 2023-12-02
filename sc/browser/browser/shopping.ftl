@@ -111,9 +111,19 @@ shopping-unanalyzed-product-analyze-button = Controlla sa calidade de sa retzint
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Àteru de cunsiderare
+ad-by-fakespot = Publitzidade dae { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Agiuda a megiorare { -brand-product-name }
+shopping-survey-q2-radio-1-label = Eja
+shopping-survey-q2-radio-2-label = Nono
+shopping-survey-q2-radio-3-label = No ddu iscio
+shopping-survey-next-button-label = Imbeniente
+shopping-survey-submit-button-label = Imbia
+shopping-survey-terms-link = Cunditziones de su servìtziu
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -122,3 +132,14 @@ shopping-unanalyzed-product-analyze-button = Controlla sa calidade de sa retzint
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = Eja, dd'apo a proare
+shopping-onboarding-not-now-button = Immoe nono
+shopping-onboarding-dialog-close-button =
+    .title = Serra
+    .aria-label = Serra
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progressu: passu { $current } de { $total }
