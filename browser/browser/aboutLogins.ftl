@@ -93,6 +93,7 @@ about-logins-origin-tooltip = 로그인 한 웹 사이트의 정확한 주소와
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = 이 사이트의 현재 비밀번호를 저장하고 있는지 확인하세요. 여기에서 비밀번호를 변경해도 { $webTitle }의 비밀번호는 변경되지 않습니다.
+about-logins-add-password-tooltip = 이 사이트의 현재 비밀번호를 저장하고 있는지 확인하세요.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = 사용자 이름
