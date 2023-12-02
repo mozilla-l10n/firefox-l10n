@@ -162,14 +162,20 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = गावनिनो  उइनद नि थाखाय दिफलथ सारस इनजिन आव थिना हो
     .accesskey = फ
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName }({ $alias })
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
     .label = { $engineName } दाजाब
-    .tooltiptext = { $engineName } सार्रच इनजिनखौ दाजाब
-    .aria-label = { $engineName } सार्रच इनजिनखौ दाजाब
+    .tooltiptext = { $engineName } सार्रच इन्जिनखौ दाजाब
+    .aria-label = { $engineName } सार्रच इन्जिनखौ दाजाब
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -184,12 +190,33 @@ search-one-offs-add-engine-menu =
 
 search-one-offs-history =
     .tooltiptext = जारिमिन ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = एक्खोनफोर ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+quickactions-cmd-bookmarks = बुकमार्कफोर
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = जारिमिनखौ खोमोर
+quickactions-cmd-clearhistory = जारिमिनखौ खोमोर
+quickactions-cmd-downloads = डाउनल'डफोर
+# Opens about:logins
+quickactions-logins2 = पासवर्डफोरखौ सोमलाय
+quickactions-cmd-logins = लगिनफोर, पासवर्डफोर
+quickactions-cmd-print = साफाय
 quickactions-cmd-savepdf = pdf
+# Opens a new private browsing window
+quickactions-private2 = प्राइभेट उइन्ड'खौ खेव
+quickactions-cmd-private = निजि ब्राउजिं
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = { -brand-short-name }खौ थाजा खालाम
+quickactions-cmd-refresh = थाजा खालाम
+# Restarts the browser
+quickactions-restart = { -brand-short-name } फिन जागाय
+quickactions-cmd-restart = फिन जागाय
+quickactions-cmd-update = आपडेट
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = बिलाइ फुंखाखौ नाय
 quickactions-cmd-viewsource = फुंखाखौ नाय, फुंखा
@@ -208,6 +235,8 @@ bookmark-panel-remove =
            *[other] { $count } बुकमार्कफोरखौ बोखार
         }
     .accesskey = R
+bookmark-panel-save-button =
+    .label = थिना दोन
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -216,6 +245,16 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-secure = रोखाथि गोनां फोनांजाब
+identity-connection-failure = फोनांजाब फेलें
+identity-https-only-label = HTTPS-लो म'ड
+identity-https-only-dropdown-on =
+    .label = अन
+identity-https-only-dropdown-off =
+    .label = बन्द'
+identity-https-only-dropdown-off-temporarily =
+    .label = दानदिसेनि थाखाय बन्द'
+identity-permissions-storage-access-learn-more = गोबां सोलों
 identity-clear-site-data =
     .label = कुकिज आरो साइट दाटा फोरखौ खोमोर...
 identity-disable-mixed-content-blocking =
@@ -233,6 +272,10 @@ browser-window-close-button =
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = दामगासिनो
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = सावगारि सिङाव सावगारि
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -244,6 +287,16 @@ browser-window-close-button =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = केमेरा:
+    .accesskey = क
+popup-select-camera-icon =
+    .tooltiptext = केमेरा
+popup-select-microphone-device =
+    .value = मायक्रोॱफोन:
+    .accesskey = म
+popup-select-microphone-icon =
+    .tooltiptext = मायक्रोॱफोन
 popup-all-windows-shared = नोंथांनि स्क्रिननि गासै नुथाव उइन्ड'खौ शेयार खालामगोन।
 
 ## WebRTC window or screen share tab switch warning
@@ -258,6 +311,14 @@ popup-all-windows-shared = नोंथांनि स्क्रिननि 
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = थंखौ नागिर एबा हाबहो
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = वेबौ नागिर
+    .aria-label = { $name }जों नागिर
 urlbar-switch-to-tab =
     .value = टेबाव थां:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -276,11 +337,21 @@ urlbar-go-button =
 urlbar-result-action-search-w-engine = { $engine } जों नागिर
 urlbar-result-action-switch-tab = टेबाव थां
 urlbar-result-action-visit = थां
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = कपि खालाम
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = बुकमार्कफोरखौ नागिर
+urlbar-result-action-search-history = जारिमिनखौ नागिर
+urlbar-result-action-search-tabs = गासै टेबफोरौ नागिर
 
 ## Labels shown above groups of urlbar results
 
@@ -342,12 +413,24 @@ library-bookmarks-menu =
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name } आव थिना दोन
+    .tooltiptext = { -pocket-brand-name } आव थिना दोन
 
 ## Repair text encoding toolbar button
 
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = सेटिं
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] सेटिं खेव ({ $shortcut })
+           *[other] सेटिं खेव
+        }
 toolbar-button-email-link =
     .label = लिंकखौ इ-मेइल खालाम
     .tooltiptext = मोनसे लिंकखौ बे बिलाइआव इ-मेइल खालाम

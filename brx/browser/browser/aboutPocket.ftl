@@ -22,6 +22,8 @@ pocket-panel-signup-signup-email = इ-मेइलजों साइन-आप
 ## about:pocket-home panel
 
 pocket-panel-home-welcome-back = बरायफिनबाय
+pocket-panel-home-explore-popular-topics = मुंदांखा आयदाफोरखौ नायबिजिर
+pocket-panel-home-explore-more = एक्सप्लोर खालाम
 
 ## Pocket panel header component
 

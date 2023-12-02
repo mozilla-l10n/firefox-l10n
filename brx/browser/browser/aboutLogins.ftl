@@ -19,6 +19,7 @@ menu =
     .title = मेनु बेखेव
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = गुबुन मोनसे ब्राउजार निफ्राय लाबो...
+about-logins-menu-menuitem-import-from-a-file = फाइल निफ्राय लाबो…
 about-logins-menu-menuitem-remove-all-logins = गासै दिन्थिनाय ल'गइनफोर बोखार
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -96,6 +97,9 @@ login-item-cancel-button = नेवसि
 # Variables
 #   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = सोरजिनाय
+login-item-timeline-action-updated = आपदेट नि सोम
+login-item-timeline-action-used = बाहायनाय सोम
 
 ## OS Authentication dialog
 
@@ -105,6 +109,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = सेभ थानाय लगइनखौ एडिट खालाम
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = सेभ थानाय पासवार्दखौ खोंन्धा
 
 ## Primary Password notification
 
@@ -124,6 +134,23 @@ about-logins-confirm-remove-dialog-confirm-button = बोखार
 ## Variables
 ##   $count (number) - Number of items
 
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] बोखार
+        [one] बोखारजोब
+       *[other] बोखारजोब
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] औ, बेयो लोगइनखौ बोखार
+        [one] औ, बेयो लोगइनखौ बोखार
+       *[other] औ, बे लोगइनफोरखौ बोखार
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] बे { $count } लोहइनखौ बोखारनो ?
+       *[other] बे { $count } लोहइनफोरखौ बोखारनो ?
+    }
 
 ##
 
@@ -134,9 +161,15 @@ confirm-discard-changes-dialog-confirm-button = नागार
 ## Breach Alert notification
 
 breach-alert-text = नाोंनि लक इन दिथेनगजों लास्थ आवदेथ खालामनायाव बे साइथनिफा्य फासवादखौ खावबाय. नोंनि एखावनखौ रैखा खालामनो थाखाय फासवादखौ सोलाइ
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname }आव थां
 
 ## Vulnerable Password notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname }आव थां
 about-logins-vulnerable-alert-learn-more-link = गोबां सोलों
 
 ## Error Messages
@@ -159,6 +192,13 @@ about-logins-error-message-default = बे फासवाद खौ लाख�
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-done = जाखांबाइ
+about-logins-import-dialog-error-learn-more = गोबां सोलों
+about-logins-import-dialog-error-cancel = नेवसि
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = { $number } सारि
 
 ##
 ## Variables:
