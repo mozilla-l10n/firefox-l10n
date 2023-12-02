@@ -98,6 +98,11 @@ login-item-edit-button = Wobźěłaś
 about-logins-login-item-remove-button = Wótwónoźeś
 login-item-origin-label = Adresa websedła
 login-item-tooltip-message = Pśeznańśo se, až to eksaktnej adresy websedła wótpowědujo, źož se cośo pśizjawiś.
+about-logins-origin-tooltip = Pśeznańśo se, až to eksaktnej adresy websedła wótpowědujo, źož se cośo pśizjawiś.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Zawěsććo, až swójo aktualne gronidło za toś to sedło składujośo. Gaž se gronidło how njezměnja, njezměnijo se z { $webTitle }.
+about-logins-add-password-tooltip = Zawěsććo, až swójo aktualne gronidło za toś to sedło składujośo
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Wužywaŕske mě
