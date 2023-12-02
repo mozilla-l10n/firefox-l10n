@@ -366,3 +366,4 @@ pdfjs-editor-resizer-label-bottom-left = Angolo in basso a sinistra — ridimens
 pdfjs-editor-resizer-label-middle-left = Lato sinistro nel mezzo — ridimensiona
 
 
+
