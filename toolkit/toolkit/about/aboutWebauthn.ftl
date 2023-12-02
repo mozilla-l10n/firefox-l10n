@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = אפשרויות הגורם המאמת
 about-webauthn-pin-section-title = ניהול PIN
 about-webauthn-credential-management-section-title = ניהול אישורים
 about-webauthn-pin-required-section-title = נדרש PIN
+about-webauthn-confirm-deletion-section-title = אישור מחיקה
 
 ## Info field texts
 
