@@ -21,7 +21,10 @@ pocket-panel-signup-signup-email = इ-मेइलजों साइन-आप
 
 ## about:pocket-home panel
 
+pocket-panel-home-welcome-back = बरायफिनबाय
+
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 
