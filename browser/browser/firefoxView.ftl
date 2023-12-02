@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = סגירה
     .aria-label = סגירה
+firefoxview-empty-state-icon =
+    .alt = לתשומת ליבך:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ממש עכשיו
 firefoxview-tabpickup-description = פתיחת דפים ממכשירים אחרים.
@@ -61,6 +63,7 @@ firefoxview-tabpickup-password-locked-primarybutton = נא להכניס את ה�
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">מידע נוסף</a>
 firefoxview-tabpickup-signed-out-header = יש להיכנס כדי להתחבר מחדש
 firefoxview-tabpickup-signed-out-description = כדי להתחבר מחדש ולקבל את הלשוניות שלך, יש להיכנס אל { -fxaccount-brand-name(case: "the") } שלך.
+firefoxview-tabpickup-signed-out-description2 = כדי להתחבר מחדש ולקבל את הלשוניות שלך, יש להיכנס לחשבון שלך.
 firefoxview-tabpickup-signed-out-primarybutton = כניסה
 firefoxview-tabpickup-syncing = נא להמתין בזמן שהלשוניות שלך מסתנכרנות. זה יקח ממש רגע.
 firefoxview-mobile-promo-header = קבלת לשוניות מהטלפון או למחשב הלוח שלך
@@ -146,6 +149,12 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = חיפוש בלשוניות שנסגרו לאחרונה
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = חיפוש לשוניות מסונכרנות
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = חיפוש לשוניות פתוחות
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.

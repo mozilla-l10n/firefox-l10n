@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = הגדרות כתובות
 address-capture-learn-more-button =
     .label = מידע נוסף
+address-capture-open-menu-button =
+    .aria-label = פתיחת תפריט
+address-capture-edit-address-button =
+    .aria-label = עריכת כתובת
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = הוספת כתובת חדשה
 # The dialog title for editing addresses in browser preferences.
