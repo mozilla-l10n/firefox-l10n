@@ -295,6 +295,18 @@ pdfjs-editor-stamp-button =
 pdfjs-editor-stamp-button-label = 이미지 추가 또는 편집
 pdfjs-editor-remove-button =
     .title = 제거
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = 그리기 제거
+pdfjs-editor-remove-freetext-button =
+    .title = 텍스트 제거
+pdfjs-editor-remove-stamp-button =
+    .title = 이미지 제거
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = 색상
 pdfjs-editor-free-text-size-input = 크기
