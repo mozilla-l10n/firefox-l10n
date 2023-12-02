@@ -465,3 +465,11 @@ onboarding-device-migration-title = Vítejte zpět!
 onboarding-device-migration-subtitle = Přihlaste se ke svému { -fxaccount-brand-name(capitalization: "sentence", case: "dat") } a přeneste si své záložky, hesla a historii do nového zařízení.
 onboarding-device-migration-subtitle2 = Přihlaste se ke svému účtu a přeneste své záložky, hesla a historii na vaše nové zařízení.
 onboarding-device-migration-primary-button-label = Přihlásit se
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Rádi vás udržujeme v bezpečí
+onboarding-easy-setup-security-and-privacy-subtitle = Náš neziskový prohlížeč pomáhá zabránit společnostem v tajném sledování vašeho prohlížení webu.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Při přecházení mezi zařízeními buďte šifrovaní
