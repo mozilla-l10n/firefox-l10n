@@ -331,3 +331,13 @@ onboarding-device-migration-title = ¡Te damos nuevamente la bienvenida!
 onboarding-device-migration-subtitle = Conéctate a tu { -fxaccount-brand-name(capitalization: "sentence") } para traer tus marcadores, contraseñas e historial a tu nuevo dispositivo.
 onboarding-device-migration-subtitle2 = Conéctate a tu cuenta para llevar tus marcadores, contraseñas e historial a tu nuevo dispositivo.
 onboarding-device-migration-primary-button-label = Conectarse
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Nos encanta mantenerte a salvo
+onboarding-easy-setup-security-and-privacy-subtitle = Nuestro navegador respaldado por una organización sin fines de lucro ayuda a evitar que las empresas te sigan en secreto por la web.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Mantén todo cifrado cuando saltes entre dispositivos
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } te respalda
