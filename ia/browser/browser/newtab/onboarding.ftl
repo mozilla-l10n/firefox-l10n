@@ -331,3 +331,12 @@ onboarding-device-migration-title = Bentornate!
 onboarding-device-migration-subtitle = Accede a tu { -fxaccount-brand-name } pro portar con te sur tu nove apparato tu marcapaginas, contrasignos, e chronologia.
 onboarding-device-migration-subtitle2 = Accede a tu conto pro portar con te marcapaginas, contrasignos, e chronologia sur tu nove apparato.
 onboarding-device-migration-primary-button-label = Aperir session
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = A nos place mantener te secur
+onboarding-easy-setup-security-and-privacy-subtitle = Nostre navigator supportate per un organisation sin fin d lucro adjuta stoppar le companias de sequer secretemente tu movimentos circum le web.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Resta cryptate dum tu passa inter tu apparatos
+onboarding-gratitude-security-and-privacy-subtitle = Gratias pro usar { -brand-short-name }, supportate per Mozilla Foundation. Con tu supporto, nos labora pro render internet plus secur r plus accessibile pro totes.
