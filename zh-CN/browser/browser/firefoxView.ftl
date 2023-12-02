@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = 关闭
     .aria-label = 关闭
+firefoxview-empty-state-icon =
+    .alt = 注意：
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = 刚刚
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -155,6 +157,12 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = 搜索最近关闭的标签页
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = 搜索同步的标签页
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = 搜索打开的标签页
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
