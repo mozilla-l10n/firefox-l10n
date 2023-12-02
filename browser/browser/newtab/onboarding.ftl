@@ -319,3 +319,14 @@ onboarding-device-migration-title = 歡迎回來！
 onboarding-device-migration-subtitle = 登入您的 { -fxaccount-brand-name(capitalization: "sentence") }後即可將書籤、密碼、瀏覽紀錄等資料帶到新裝置上。
 onboarding-device-migration-subtitle2 = 登入帳號後，即可將書籤、密碼、上網紀錄帶到新裝置。
 onboarding-device-migration-primary-button-label = 登入
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = 我們希望確保您上網安全
+onboarding-easy-setup-security-and-privacy-subtitle = 我們這套由非營利組織所開發的瀏覽器會自動封鎖讓大企業在網路上偷偷跟蹤您的程式。
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = 在不同裝置間切換時保持加密
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } 是您的堅強後盾
+onboarding-gratitude-security-and-privacy-subtitle = 感謝您使用由 Mozilla Foundation 所支持開發的 { -brand-short-name }。透過您的支援，我們努力讓網路環境變得更安全、更可被所有人使用。

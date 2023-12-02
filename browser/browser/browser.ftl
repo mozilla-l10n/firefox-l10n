@@ -351,6 +351,7 @@ identity-connection-secure = 安全連線
 identity-connection-failure = 連線失敗
 identity-connection-internal = 這是安全的 { -brand-short-name } 頁面。
 identity-connection-file = 此頁面位於您的電腦上。
+identity-connection-associated = 此頁面是從其他頁面載入的。
 identity-extension-page = 此頁面是擴充套件頁面。
 identity-active-blocked = { -brand-short-name } 已經封鎖此頁面中不安全的部分。
 identity-custom-root = 連線是由 Mozilla 不認識的憑證簽發者所驗證。
