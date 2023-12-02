@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Stillingar póstfangs
 address-capture-learn-more-button =
     .label = Frekari upplýsingar
+address-capture-open-menu-button =
+    .aria-label = Opna valmynd
+address-capture-edit-address-button =
+    .aria-label = Breyta tölvupóstfangi
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Bæta við nýju heimilisfangi
 # The dialog title for editing addresses in browser preferences.

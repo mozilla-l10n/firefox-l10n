@@ -1264,6 +1264,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS yfir HTTPS
 preferences-doh-description = DNS yfir HTTPS (Domain Name System) sendir beiðni þína um lén í gegnum dulritaða tengingu, útbýr öruggt DNS og gerir erfiðara fyrir aðra að sjá hvaða vefsvæði þú ert að fara að fara á.
+preferences-doh-description2 = DNS yfir HTTPS (Domain Name System) sendir beiðni þína um lén í gegnum dulritaða tengingu, veitir öruggt DNS og gerir erfiðara fyrir aðra að sjá hvaða vefsvæði þú ert að fara að fara á.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Staða: { $status }
@@ -1280,6 +1281,7 @@ preferences-doh-status-disabled = Óvirkt
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Ekki virkt ({ $reason })
 preferences-doh-group-message = Virkja öruggt DNS með því að nota:
+preferences-doh-group-message2 = Virkja DNS yfir HTTPS með því að nota:
 preferences-doh-expand-section =
     .tooltiptext = Nánari upplýsingar
 preferences-doh-setting-default =

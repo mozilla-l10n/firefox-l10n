@@ -340,4 +340,7 @@ onboarding-easy-setup-security-and-privacy-title = Við fáum kikk út úr því
 onboarding-easy-setup-security-and-privacy-subtitle = Vafrinn okkar, sem ekki er rekinn í hagnaðarskyni, hjálpar til við að koma í veg fyrir að fyrirtæki laumist til að fylgjast með þér á ferðum þínum um vefinn.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Haltu dulritun þegar þú hoppar á milli tækja
+onboarding-mobile-download-security-and-privacy-subtitle = Þegar þú hefur samstillt, dulkóðar { -brand-short-name } lykilorðin þín, bókamerki og fleira. Að auki geturðu tekið með þér flipa úr öðrum tækjum þínum.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } hefur stuðning af þér
 onboarding-gratitude-security-and-privacy-subtitle = Takk fyrir að nota { -brand-short-name }, sem stutt er af Mozilla stofnuninni. Með stuðningi þínum erum við að vinna að því að gera internetið öruggara, aðgengilegra og betra fyrir alla.
