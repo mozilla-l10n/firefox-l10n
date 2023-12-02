@@ -189,6 +189,10 @@ search-one-offs-history =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+quickactions-cmd-savepdf = pdf
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = बिलाइ फुंखाखौ नाय
+quickactions-cmd-viewsource = फुंखाखौ नाय, फुंखा
 
 ## Bookmark Panel
 
