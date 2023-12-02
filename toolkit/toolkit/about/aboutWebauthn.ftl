@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = 인증기 옵션
 about-webauthn-pin-section-title = PIN 관리
 about-webauthn-credential-management-section-title = 자격 증명 관리
 about-webauthn-pin-required-section-title = PIN 필요
+about-webauthn-confirm-deletion-section-title = 삭제 확인
 
 ## Info field texts
 
@@ -52,6 +53,7 @@ about-webauthn-current-pin-label = 현재 PIN:
 about-webauthn-pin-required-label = PIN을 입력하세요:
 about-webauthn-credential-list-subsection-title = 자격 증명:
 about-webauthn-credential-list-empty = 기기에서 자격 증명을 찾을 수 없습니다.
+about-webauthn-confirm-deletion-label = 다음 항목 삭제:
 
 ## Buttons
 
