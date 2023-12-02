@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Osoiteasetukset
 address-capture-learn-more-button =
     .label = Lue lisää
+address-capture-open-menu-button =
+    .aria-label = Avaa valikko
+address-capture-edit-address-button =
+    .aria-label = Muokkaa osoitetta
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Lisää uusi osoite
 # The dialog title for editing addresses in browser preferences.
