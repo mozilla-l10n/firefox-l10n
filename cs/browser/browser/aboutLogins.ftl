@@ -119,6 +119,7 @@ login-item-edit-button = Upravit
 about-logins-login-item-remove-button = Odstranit
 login-item-origin-label = Adresa serveru
 login-item-tooltip-message = Zkontrolujte, že toto pole přesně odpovídá adrese serveru, kde se přihlašujete.
+about-logins-origin-tooltip = Zkontrolujte, že toto pole přesně odpovídá adrese serveru, kde se přihlašujete.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Uživatelské jméno

@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Možnosti autentikátoru
 about-webauthn-pin-section-title = Správa PIN
 about-webauthn-credential-management-section-title = Správa přihlašovacích údajů
 about-webauthn-pin-required-section-title = Vyžadován PIN
+about-webauthn-confirm-deletion-section-title = Potvrzení smazání
 
 ## Info field texts
 
@@ -47,6 +48,7 @@ about-webauthn-repeat-pin-label = Zopakovat nový PIN:
 about-webauthn-current-pin-label = Aktuální PIN:
 about-webauthn-pin-required-label = Zadejte svůj PIN:
 about-webauthn-credential-list-subsection-title = Přihlašovací údaje:
+about-webauthn-confirm-deletion-label = Chystáte se smazat:
 
 ## Buttons
 
@@ -78,6 +80,7 @@ about-webauthn-auth-info-force-pin-change = Vynutit změnu PIN
 about-webauthn-auth-info-algorithms = Algoritmy
 about-webauthn-auth-info-transports = Transporty
 about-webauthn-auth-info-pin-protocols = Protokoly PIN
+about-webauthn-auth-info-max-msg-size = Maximální velikost zprávy
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Rozšíření

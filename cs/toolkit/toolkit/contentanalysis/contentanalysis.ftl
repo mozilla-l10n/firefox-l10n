@@ -5,4 +5,5 @@
 contentanalysis-alert-title = Analýza obsahu
 contentanalysis-slow-agent-dialog-title = Probíhá analýza obsahu
 contentanalysis-operationtype-clipboard = schránka
+contentanalysis-operationtype-dropped-text = přetažený text
 contentanalysis-notification-title = Analýza obsahu

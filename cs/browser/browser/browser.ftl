@@ -368,6 +368,7 @@ identity-connection-internal =
        *[no-cases] Toto je zabezpečená stránka aplikace { -brand-short-name }.
     }
 identity-connection-file = Tato stránka je uložena ve vašem počítači.
+identity-connection-associated = Tato stránka je načtena z jiné stránky.
 identity-extension-page = Tato stránka je načtena z doplňku.
 identity-active-blocked =
     { -brand-short-name.gender ->
