@@ -98,6 +98,7 @@ login-item-edit-button = Wobdźěłać
 about-logins-login-item-remove-button = Wotstronić
 login-item-origin-label = Adresa websydła
 login-item-tooltip-message = Přeswědčće so, zo to eksaktnej adresy websydła wotpowěduje, hdźež so chceće přizjewić.
+about-logins-origin-tooltip = Přeswědčće so, zo to eksaktnej adresy websydła wotpowěduje, hdźež so chceće přizjewić.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Wužiwarske mjeno
