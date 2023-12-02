@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Opciones de autenticador
 about-webauthn-pin-section-title = Administrador de PIN
 about-webauthn-credential-management-section-title = Administrar credenciales
 about-webauthn-pin-required-section-title = PIN requerido
+about-webauthn-confirm-deletion-section-title = Confirmar borrado
 
 ## Info field texts
 
@@ -53,6 +54,7 @@ about-webauthn-current-pin-label = PIN actual:
 about-webauthn-pin-required-label = Ingrese el PIN:
 about-webauthn-credential-list-subsection-title = Credenciales:
 about-webauthn-credential-list-empty = No se encontraron credenciales en el dispositivo.
+about-webauthn-confirm-deletion-label = Está a punto de borrar:
 
 ## Buttons
 
