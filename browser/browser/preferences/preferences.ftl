@@ -1264,6 +1264,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS sobre HTTPS
 preferences-doh-description = El Sistema de nombres de dominio (DNS) a través de HTTPS envía tu solicitud de un nombre de dominio a través de una conexión cifrada, lo que crea un DNS seguro y dificulta que otros vean a qué sitio web estás a punto de acceder.
+preferences-doh-description2 = El Sistema de nombres de dominio (DNS) a través de HTTPS envía tu solicitud de un nombre de dominio a través de una conexión cifrada, lo que entrega un DNS seguro y dificulta que otros vean a qué sitio web estás a punto de acceder.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Estado: { $status }
@@ -1280,6 +1281,7 @@ preferences-doh-status-disabled = No
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = No activo ({ $reason })
 preferences-doh-group-message = Habilita el DNS seguro usando:
+preferences-doh-group-message2 = Activar DNS sobre HTTPS usando:
 preferences-doh-expand-section =
     .tooltiptext = Más información
 preferences-doh-setting-default =
