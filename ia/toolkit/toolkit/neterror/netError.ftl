@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Verificar que { -brand-short-name } ha pe
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } non pote proteger tu requesta pro le adresse de iste sito per nostre resolutor de DNS digne de fide. Ecce perque:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } non pote proteger tu requesta pro le adresse de iste sito per nostre fornitor secur de DNS. Ecce perque:
 neterror-dns-not-found-trr-third-party-warning2 = Tu pote continuar con tu predefinite resolutor de DNS. Comocunque, un tertie-parte poterea vider que sitos web tu visita.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } non poteva connecter se a { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Le connexion a { $trrDomain } prendeva plus tempore que expectate.
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Problema inexpectate.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } non pote proteger tu requesta pro le adresse de iste sito per nostre resolutor de DNS digne de fide. Ecce perque:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } non pote proteger tu requesta pro le adresse de iste sito per nostre fornitor secur de DNS. Ecce perque:
 neterror-dns-not-found-native-fallback-heuristic = DNS super HTTPS ha essite disactivate sur tu rete.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } non poteva connecter se a { $trrDomain }.
 
