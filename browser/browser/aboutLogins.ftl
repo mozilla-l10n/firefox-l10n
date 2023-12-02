@@ -90,6 +90,11 @@ login-item-edit-button = Muokkaa
 about-logins-login-item-remove-button = Poista
 login-item-origin-label = Verkkosivuston osoite
 login-item-tooltip-message = Tarkista, että tämä on sama osoite, josta kirjaudut sisään.
+about-logins-origin-tooltip = Tarkista, että tämä on sama osoite, josta kirjaudut sisään.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Varmista, että tallennat tämän sivuston nykyisen salasanasi. Salasanan vaihtaminen tässä ei muuta sitä sivustolla { $webTitle }.
+about-logins-add-password-tooltip = Varmista, että tallennat tämän sivuston nykyisen salasanasi.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Käyttäjätunnus

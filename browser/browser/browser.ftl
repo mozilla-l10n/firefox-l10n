@@ -351,6 +351,7 @@ identity-connection-secure = Yhteys on suojattu
 identity-connection-failure = Yhteysvirhe
 identity-connection-internal = Tämä on suojattu { -brand-short-name }-sivu.
 identity-connection-file = Sivu on tallennettu tietokoneellesi.
+identity-connection-associated = Tämä sivu on ladattu toiselta sivulta.
 identity-extension-page = Tämän sivun latasi laajennus.
 identity-active-blocked = { -brand-short-name } on estänyt suojaamattoman sisällön näyttämisen.
 identity-custom-root = Yhteys on suojattu varmenteella, jonka myöntäjää Mozilla ei tunnista.

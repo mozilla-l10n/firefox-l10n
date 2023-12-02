@@ -332,3 +332,11 @@ onboarding-device-migration-title = Tervetuloa takaisin!
 onboarding-device-migration-subtitle = Kirjaudu sisään { -fxaccount-brand-name(capitalization: "sentence") }llesi, niin voit tuoda kirjanmerkkisi, salasanasi ja historiasi uudelle laitteellesi.
 onboarding-device-migration-subtitle2 = Kirjaudu tilillesi tuodaksesi kirjanmerkkisi, salasanasi ja historiasi uudelle laitteellesi.
 onboarding-device-migration-primary-button-label = Kirjaudu sisään
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Turvaamisesi on tärkeää meille
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Pysy salattuna, kun vaihtelet laitteiden välillä
+onboarding-mobile-download-security-and-privacy-subtitle = Synkronoinnin myötä { -brand-short-name } salaa salasanasi, kirjanmerkkisi ja paljon muuta. Lisäksi voit valita välilehtiä muilta laitteiltasi.

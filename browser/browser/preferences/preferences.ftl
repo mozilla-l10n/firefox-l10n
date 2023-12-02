@@ -1264,6 +1264,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS HTTPS:n kautta
 preferences-doh-description = DNS (Domain Name System eli nimipalvelujärjestelmä) HTTPS:n kautta lähettää verkkotunnuksen nimeä koskevan pyyntösi salatun yhteyden kautta, luoden suojatun DNS:n ja vaikeuttaen muiden nähdä, mihin verkkosivustoon olet siirtymässä.
+preferences-doh-description2 = DNS (Domain Name System eli nimipalvelujärjestelmä) HTTPS:n kautta lähettää verkkotunnuksen nimeä koskevan pyyntösi salatun yhteyden kautta, tarjoten suojatun DNS:n ja vaikeuttaen muiden nähdä, mihin verkkosivustoon olet siirtymässä.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Tila: { $status }
@@ -1280,6 +1281,7 @@ preferences-doh-status-disabled = Ei käytössä
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Ei aktiivinen ({ $reason })
 preferences-doh-group-message = Aseta suojattu DNS päälle käyttämällä:
+preferences-doh-group-message2 = Käytä DNS:ää HTTPS:n välityksellä hyödyntäen:
 preferences-doh-expand-section =
     .tooltiptext = Lisätietoja
 preferences-doh-setting-default =
