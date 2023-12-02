@@ -315,3 +315,11 @@ onboarding-device-migration-title = 欢迎回来！
 onboarding-device-migration-subtitle = 登录 { -fxaccount-brand-name(capitalization: "sentence") }，把书签、密码、历史记录同步到新设备上。
 onboarding-device-migration-subtitle2 = 登录账户即可将您的书签、密码、历史记录同步到新设备。
 onboarding-device-migration-primary-button-label = 登录
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = 我们乐于为您护航
+onboarding-easy-setup-security-and-privacy-subtitle = 这款由非营利组织支持的浏览器会自动阻止大公司在网上偷偷跟踪您。
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = 在设备间流转，数据照样密不透风
