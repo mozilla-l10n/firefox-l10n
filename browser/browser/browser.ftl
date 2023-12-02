@@ -347,6 +347,7 @@ identity-connection-secure = 안전한 연결
 identity-connection-failure = 연결 실패
 identity-connection-internal = 안전한 { -brand-short-name } 페이지입니다.
 identity-connection-file = 이 페이지는 컴퓨터에 저장되어 있습니다.
+identity-connection-associated = 이 페이지는 다른 페이지가 로드했습니다.
 identity-extension-page = 이 페이지는 확장 기능이 로드했습니다.
 identity-active-blocked = { -brand-short-name }가 안전하지 않은 페이지의 일부를 차단했습니다.
 identity-custom-root = Mozilla에서 인식하지 못하는 인증서 발급자가 연결을 확인했습니다.
