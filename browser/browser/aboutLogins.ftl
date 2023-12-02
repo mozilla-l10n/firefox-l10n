@@ -89,6 +89,11 @@ login-item-edit-button = Chỉnh sửa
 about-logins-login-item-remove-button = Xóa
 login-item-origin-label = Địa chỉ trang web
 login-item-tooltip-message = Đảm bảo rằng địa chỉ này khớp với địa chỉ chính xác của trang web mà bạn đăng nhập.
+about-logins-origin-tooltip = Đảm bảo rằng địa chỉ này khớp với địa chỉ chính xác của trang web mà bạn đăng nhập.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Đảm bảo bạn đang lưu mật khẩu hiện tại của mình cho trang web này. Thay đổi mật khẩu ở đây không có nghĩa là đã thay đổi nó trong { $webTitle }.
+about-logins-add-password-tooltip = Đảm bảo bạn đang lưu mật khẩu hiện tại của mình cho trang web này.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Tên đăng nhập

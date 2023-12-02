@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Cài đặt địa chỉ
 address-capture-learn-more-button =
     .label = Tìm hiểu thêm
+address-capture-open-menu-button =
+    .aria-label = Mở menu
+address-capture-edit-address-button =
+    .aria-label = Sửa địa chỉ
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Thêm địa chỉ mới
 # The dialog title for editing addresses in browser preferences.

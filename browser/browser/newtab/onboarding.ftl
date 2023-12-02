@@ -331,3 +331,15 @@ onboarding-device-migration-title = Chào mừng trở lại!
 onboarding-device-migration-subtitle = Đăng nhập vào { -fxaccount-brand-name(capitalization: "sentence") } của bạn để mang theo dấu trang, mật khẩu và lịch sử của bạn trên thiết bị mới.
 onboarding-device-migration-subtitle2 = Đăng nhập vào tài khoản của bạn để mang theo dấu trang, mật khẩu và lịch sử trên thiết bị mới của bạn.
 onboarding-device-migration-primary-button-label = Đăng nhập
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Chúng tôi thích việc giữ an toàn cho bạn
+onboarding-easy-setup-security-and-privacy-subtitle = Trình duyệt được hỗ trợ phi lợi nhuận của chúng tôi giúp ngăn các công ty bí mật theo dõi bạn trên web.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Luôn được mã hóa khi bạn chuyển đổi giữa các thiết bị
+onboarding-mobile-download-security-and-privacy-subtitle = Khi bạn đồng bộ hóa, { -brand-short-name } sẽ mã hóa mật khẩu, dấu trang, v.v. Ngoài ra, bạn có thể lấy các thẻ từ các thiết bị khác của mình.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } luôn ủng hộ bạn
+onboarding-gratitude-security-and-privacy-subtitle = Cảm ơn bạn đã sử dụng { -brand-short-name }, được hỗ trợ bởi Mozilla Foundation. Với sự hỗ trợ của bạn, chúng tôi đang nỗ lực làm cho Internet an toàn hơn và dễ truy cập hơn cho mọi người.

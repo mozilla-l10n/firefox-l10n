@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Kiểm tra xem { -brand-short-name } có 
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } không thể bảo vệ yêu cầu của bạn về địa chỉ trang web này thông qua trình phân giải DNS đáng tin cậy của chúng tôi. Đây là lý do tại sao:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } không thể bảo vệ yêu cầu của bạn về địa chỉ trang web này thông qua nhà cung cấp DNS an toàn của chúng tôi. Đây là lý do tại sao:
 neterror-dns-not-found-trr-third-party-warning2 = Bạn có thể tiếp tục với trình phân giải DNS mặc định của mình. Tuy nhiên, bên thứ ba có thể xem những trang web bạn truy cập.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } không thể kết nối đến { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Kết nối tới { $trrDomain } mất nhiều thời gian hơn dự kiến.
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Sự cố không xác định.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } không thể bảo vệ yêu cầu của bạn về địa chỉ trang web này thông qua trình phân giải DNS đáng tin cậy của chúng tôi. Đây là lý do tại sao:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } không thể bảo vệ yêu cầu của bạn về địa chỉ trang web này thông qua nhà cung cấp DNS an toàn của chúng tôi. Đây là lý do tại sao:
 neterror-dns-not-found-native-fallback-heuristic = DNS qua HTTPS đã bị tắt trên mạng của bạn.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } không thể kết nối với { $trrDomain }.
 
