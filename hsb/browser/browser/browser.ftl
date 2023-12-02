@@ -353,6 +353,7 @@ identity-connection-secure = Zwisk wěsty
 identity-connection-failure = Zwiskowy zmylk
 identity-connection-internal = To je wěsta strona { -brand-short-name }.
 identity-connection-file = Tuta strona je so na wašim ličaku składowała.
+identity-connection-associated = Tuta strona je so z druheje strony začitała.
 identity-extension-page = Tuta strona je so z rozšěrjenja začitała.
 identity-active-blocked = { -brand-short-name } je dźěle tuteje strony zablokował, kotrež wěste njejsu.
 identity-custom-root = Zwisk je so přez certifikatoweho wudawarja přepruwował, kotryž wot Mozilla připóznaty njeje.

@@ -332,3 +332,11 @@ onboarding-device-migration-title = Witajće wróćo!
 onboarding-device-migration-subtitle = Přizjewće so pola { -fxaccount-brand-name(capitalization: "sentence") }, zo byšće swoje zapołožki, hesła a historiju na swojim nowym graće sobu wzał.
 onboarding-device-migration-subtitle2 = Přizjewće so pola swojeho konta, zo byšće swoje zapołožki, hesła a swoju historiju na swój nowy grat přenošował.
 onboarding-device-migration-primary-button-label = Přizjewić
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Škitamy was rady
+onboarding-easy-setup-security-and-privacy-subtitle = Naš powšitkownosći wužitny wobhladowak zadźěwa tomu, zo předewzaća wam skradźu po interneće slěduja.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Wostańće zaklučowany, hdyž wjacore graty wužiwaće
