@@ -94,6 +94,7 @@ login-item-edit-button = עריכה
 about-logins-login-item-remove-button = הסרה
 login-item-origin-label = כתובת אתר
 login-item-tooltip-message = יש לוודא שערך זה תואם לכתובת המדויקת של האתר אליו מתחברים.
+about-logins-origin-tooltip = יש לוודא שערך זה תואם לכתובת המדויקת של האתר אליו מתחברים.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = שם משתמש
