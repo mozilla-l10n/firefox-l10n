@@ -38,6 +38,14 @@ login-list-count =
         [one] { $count } ल'गइन
        *[other] { $count } ल'हइनफोर
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $total } नि { $current } लोगइन
+       *[other] { $total } नि { $current } लोगइनफोर
+    }
 login-list-sort-label-text = बासिदों
 login-list-name-option = मुं (A-Z)
 login-list-name-reverse-option = मुं (Z-A)
@@ -52,6 +60,9 @@ login-list-item-title-new-login = गोदान लगइन
 login-list-item-subtitle-missing-username = (बाहायग्रा मुं गया)
 about-logins-list-item-breach-icon =
     .title = गाजि् जानाय वेवसाइथ
+about-logins-list-section-today = दिनै
+about-logins-list-section-yesterday = मैया
+about-logins-list-section-week = थांनाय 7 सान
 
 ## Introduction screen
 
@@ -82,6 +93,9 @@ login-item-cancel-button = नेवसि
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 
 ## OS Authentication dialog
 
