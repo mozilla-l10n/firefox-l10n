@@ -351,6 +351,7 @@ identity-connection-secure = Tenging er örugg
 identity-connection-failure = Tenging mistókst
 identity-connection-internal = Þetta er örugg { -brand-short-name } síða.
 identity-connection-file = Þessi síða er vistuð á tölvunni þinni.
+identity-connection-associated = Þessari síðu er hlaðið inn af annarri síðu.
 identity-extension-page = Þessari síðu er hlaðið inn af viðbót.
 identity-active-blocked = { -brand-short-name } hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.
 identity-custom-root = Tenging staðfest af útgefanda skilríkis sem ekki er viðurkennt af Mozilla.
