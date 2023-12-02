@@ -1468,6 +1468,7 @@ preferences-doh-status-disabled = Vypnuto
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Neaktivní ({ $reason })
 preferences-doh-group-message = Povolit zabezpečené DNS:
+preferences-doh-group-message2 = Zapnout DNS over HTTPS pomocí:
 preferences-doh-expand-section =
     .tooltiptext = Více informací
 preferences-doh-setting-default =
