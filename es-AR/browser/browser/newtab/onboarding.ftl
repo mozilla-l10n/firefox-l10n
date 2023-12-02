@@ -340,3 +340,5 @@ onboarding-easy-setup-security-and-privacy-title = Nos encanta mantenerlo seguro
 onboarding-easy-setup-security-and-privacy-subtitle = Nuestro navegador respaldado sin fines de lucro ayuda a evitar que las empresas lo sigan en secreto por la web.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Manténgase cifrado cuando cambie entre dispositivos
+onboarding-mobile-download-security-and-privacy-subtitle = Cuando tenga todo sincronizado, { -brand-short-name } cifra las contraseñas, marcadores y más. Además, puede traer pestañas desde los otros dispositivos.
+onboarding-gratitude-security-and-privacy-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con su apoyo, estamos trabajando para que Internet sea más más segura y accesible para todos.
