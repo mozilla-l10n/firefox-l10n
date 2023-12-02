@@ -351,6 +351,7 @@ identity-connection-secure = החיבור מאובטח
 identity-connection-failure = כשל בחיבור
 identity-connection-internal = דף זה הנו דף מאובטח של { -brand-short-name }.
 identity-connection-file = דף זה מאוחסן במחשב שלך.
+identity-connection-associated = עמוד זה נטען מתוך עמוד אחר.
 identity-extension-page = עמוד זה נטען מתוך הרחבה.
 identity-active-blocked = { -brand-short-name } חסם חלקים מהדף שאינם בטוחים.
 identity-custom-root = חיבור מאומת על־ידי מנפיק אישורים שאינו מזוהה על־ידי Mozilla.
