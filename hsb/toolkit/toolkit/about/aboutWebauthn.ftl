@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Nastajenja awtentifikatora
 about-webauthn-pin-section-title = Rjadowanje PIN
 about-webauthn-credential-management-section-title = Přizjewjenske daty rjadować
 about-webauthn-pin-required-section-title = PIN trěbny
+about-webauthn-confirm-deletion-section-title = Zhašenje wobkrućić
 
 ## Info field texts
 
@@ -55,6 +56,7 @@ about-webauthn-current-pin-label = Aktualny PIN:
 about-webauthn-pin-required-label = Prošu zapodajće swój PIN:
 about-webauthn-credential-list-subsection-title = Přizjewjenske daty:
 about-webauthn-credential-list-empty = Žane přizjewjenske daty na graće namakane.
+about-webauthn-confirm-deletion-label = Chceće zhašeć:
 
 ## Buttons
 

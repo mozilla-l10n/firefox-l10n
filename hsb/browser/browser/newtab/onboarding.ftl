@@ -342,3 +342,4 @@ onboarding-easy-setup-security-and-privacy-subtitle = Naš powšitkownosći wuž
 onboarding-mobile-download-security-and-privacy-title = Wostańće zaklučowany, hdyž wjacore graty wužiwaće
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } za wami steji
+onboarding-gratitude-security-and-privacy-subtitle = Wulki dźak, zo { -brand-short-name } wužiwaće, kotryž so wot załožby Mozilla Foundation spěchuje. Z wašej pomocu dźěłamy na tym, internet wěsćiši a přistupniši za kóždeho činić.
