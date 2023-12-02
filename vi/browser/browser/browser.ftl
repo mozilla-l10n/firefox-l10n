@@ -347,6 +347,7 @@ identity-connection-secure = Kết nối an toàn
 identity-connection-failure = Kết nối thất bại
 identity-connection-internal = Đây là một trang an toàn của { -brand-short-name }
 identity-connection-file = Trang này đã được lưu ở máy tính của bạn.
+identity-connection-associated = Trang này được tải từ một trang khác.
 identity-extension-page = Trang này được tải từ một tiện ích mở rộng.
 identity-active-blocked = { -brand-short-name } đã chặn những phần không an toàn của trang này.
 identity-custom-root = Kết nối được xác minh bởi nhà phát hành chứng chỉ không được Mozilla công nhận.

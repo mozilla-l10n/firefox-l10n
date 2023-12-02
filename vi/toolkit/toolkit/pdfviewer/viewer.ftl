@@ -295,6 +295,18 @@ pdfjs-editor-stamp-button =
 pdfjs-editor-stamp-button-label = Thêm hoặc chỉnh sửa hình ảnh
 pdfjs-editor-remove-button =
     .title = Xóa
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Xóa bản vẽ
+pdfjs-editor-remove-freetext-button =
+    .title = Xóa văn bản
+pdfjs-editor-remove-stamp-button =
+    .title = Xóa ảnh
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Màu
 pdfjs-editor-free-text-size-input = Kích cỡ

@@ -1248,6 +1248,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS qua HTTPS
 preferences-doh-description = Hệ thống tên miền (DNS) qua HTTPS gửi yêu cầu tên miền của bạn thông qua kết nối được mã hóa, tạo một DNS an toàn và khiến người khác khó nhìn thấy trang web bạn sắp truy cập hơn.
+preferences-doh-description2 = Hệ thống phân giải tên miền (DNS) trên HTTPS gửi yêu cầu tên miền của bạn thông qua kết nối được mã hóa, cung cấp DNS an toàn và khiến người khác khó biết bạn sắp truy cập trang web nào.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Trạng thái: { $status }
@@ -1264,6 +1265,7 @@ preferences-doh-status-disabled = Đã tắt
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Không hoạt động ({ $reason })
 preferences-doh-group-message = Kích hoạt DNS an toàn sử dụng:
+preferences-doh-group-message2 = Bật DNS trên HTTPS sử dụng:
 preferences-doh-expand-section =
     .tooltiptext = Thông tin chi tiết
 preferences-doh-setting-default =
