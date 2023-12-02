@@ -353,6 +353,7 @@ identity-connection-secure = Zwisk jo wěsty
 identity-connection-failure = Zwiskowa zmólka
 identity-connection-internal = To jo wěsty bok { -brand-short-name }.
 identity-connection-file = Toś ten bok jo se na wašom licadle składł.
+identity-connection-associated = Toś ten bok jo se zacytał z drugego boka.
 identity-extension-page = Toś ten bok jo se z rozšyrjenja zacytał.
 identity-active-blocked = { -brand-short-name } jo źěle toś togo boka blokěrował, kótarež njejsu wěste.
 identity-custom-root = Zwisk jo se pśeglědował pśez certifikatowego wudawarja, kótaryž njejo pśipóznaty wót Mozilla.
