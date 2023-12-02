@@ -99,6 +99,10 @@ about-logins-login-item-remove-button = Wotstronić
 login-item-origin-label = Adresa websydła
 login-item-tooltip-message = Přeswědčće so, zo to eksaktnej adresy websydła wotpowěduje, hdźež so chceće přizjewić.
 about-logins-origin-tooltip = Přeswědčće so, zo to eksaktnej adresy websydła wotpowěduje, hdźež so chceće přizjewić.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Zawěsćće, zo swoje aktualne hesło za tute sydło składujeće. Hdyž so hesło tu njeměnja, njezměni so z { $webTitle }.
+about-logins-add-password-tooltip = Zawěsćće, zo swoje aktualne hesło za tute sydło składujeće.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Wužiwarske mjeno
