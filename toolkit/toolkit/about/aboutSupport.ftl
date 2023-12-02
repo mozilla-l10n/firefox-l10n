@@ -90,7 +90,7 @@ show-dir-label =
     { PLATFORM() ->
         [macos] Afficher dans le Finder
         [windows] Ouvrir le dossier correspondant
-       *[other] Ouvrir le dossier correspondant
+       *[other] Ouvrir le répertoire correspondant
     }
 environment-variables-title = Variables d’environnement
 environment-variables-name = Nom
