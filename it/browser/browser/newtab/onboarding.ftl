@@ -397,3 +397,4 @@ onboarding-mobile-download-security-and-privacy-subtitle = Una volta completata 
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } è sempre dalla tua parte
 onboarding-gratitude-security-and-privacy-subtitle = Grazie per aver scelto di utilizzare { -brand-short-name }, il browser supportato da Mozilla Foundation. Con il tuo supporto, lavoriamo per rendere Internet più sicuro e accessibile per tutti.
+
