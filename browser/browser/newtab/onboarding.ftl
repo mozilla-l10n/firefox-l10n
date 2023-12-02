@@ -341,4 +341,6 @@ onboarding-easy-setup-security-and-privacy-subtitle = Nuestro navegador respalda
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Manténgase cifrado cuando cambie entre dispositivos
 onboarding-mobile-download-security-and-privacy-subtitle = Cuando tenga todo sincronizado, { -brand-short-name } cifra las contraseñas, marcadores y más. Además, puede traer pestañas desde los otros dispositivos.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } lo cuida
 onboarding-gratitude-security-and-privacy-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con su apoyo, estamos trabajando para que Internet sea más más segura y accesible para todos.
