@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = 關閉
     .aria-label = 關閉
+firefoxview-empty-state-icon =
+    .alt = 注意：
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = 剛剛
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.

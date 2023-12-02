@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = 驗證器選項
 about-webauthn-pin-section-title = PIN 碼管理
 about-webauthn-credential-management-section-title = 管理登入資訊
 about-webauthn-pin-required-section-title = 必須輸入 PIN 碼
+about-webauthn-confirm-deletion-section-title = 確認刪除
 
 ## Info field texts
 
@@ -52,6 +53,7 @@ about-webauthn-current-pin-label = 目前的 PIN 碼：
 about-webauthn-pin-required-label = 請輸入您的 PIN 碼：
 about-webauthn-credential-list-subsection-title = 帳號密碼：
 about-webauthn-credential-list-empty = 裝置上未儲存登入資訊。
+about-webauthn-confirm-deletion-label = 即將刪除：
 
 ## Buttons
 

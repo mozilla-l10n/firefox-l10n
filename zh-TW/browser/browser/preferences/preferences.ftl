@@ -1252,6 +1252,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS over HTTPS
 preferences-doh-description = DNS over HTTPS 會將您的網域名稱查詢請求加密後傳送，使其他人更難得知您要開啟的網站，讓 DNS 查詢變得安全。
+preferences-doh-description2 = DNS over HTTPS 會將您的網域名稱查詢請求加密後傳送，使其他人更難得知您要開啟的網站，讓 DNS 查詢變得安全。
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = 狀態：{ $status }
@@ -1268,6 +1269,7 @@ preferences-doh-status-disabled = 關閉
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = 未啟用（{ $reason }）
 preferences-doh-group-message = 使用下列方式開啟安全 DNS 功能：
+preferences-doh-group-message2 = 使用下列方式開啟 DNS over HTTPS：
 preferences-doh-expand-section =
     .tooltiptext = 更多資訊
 preferences-doh-setting-default =
