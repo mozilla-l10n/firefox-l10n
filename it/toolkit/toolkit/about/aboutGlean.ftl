@@ -68,7 +68,9 @@ about-glean-li-for-visit-gdpv =
 
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
-  Per effettuare test più specifici è possibile determinare il valore corrente di uno specifico elemento della strumentazione aprendo la console degli strumenti di sviluppo in <code>about:glean</code> e utilizzando API <code>testGetValue()</code>, come ad esempio <code>Glean.metricCategory.metricName.testGetValue()</code>.
+  Per effettuare test più specifici è possibile determinare il valore corrente di uno specifico elemento della strumentazione aprendo la console degli strumenti di sviluppo in <code>about:glean</code> e utilizzando le API <code>testGetValue()</code>, come ad esempio <code>Glean.metricCategory.metricName.testGetValue()</code>.
+about-glean-adhoc-explanation2 =
+  Per effettuare test più specifici è possibile determinare il valore corrente di uno specifico elemento della strumentazione aprendo la console degli strumenti di sviluppo in <code>about:glean</code> e utilizzando le API <code>testGetValue()</code>, come ad esempio <code>Glean.metricCategory.metricName.testGetValue()</code>, per una metrica chiamata <code>metric.category.metric_name</code>.
 
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
