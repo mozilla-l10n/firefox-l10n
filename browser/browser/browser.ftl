@@ -351,6 +351,7 @@ identity-connection-secure = Байланыс қауіпсіз
 identity-connection-failure = Байланысу сәтсіз аяқталды
 identity-connection-internal = Бұл - қауіпсіз { -brand-short-name } беті.
 identity-connection-file = Бұл парақ сіздің компьютеріңізде сақталған.
+identity-connection-associated = Бұл парақ басқа парақтан жүктелген.
 identity-extension-page = Бұл парақ кеңейтуден жүктелген.
 identity-active-blocked = { -brand-short-name } бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.
 identity-custom-root = Байланысты растайтын сертификат шығарушысы Mozilla-ға бейтаныс.
