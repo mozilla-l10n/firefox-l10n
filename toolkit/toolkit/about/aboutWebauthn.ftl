@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Параметры Authenticator
 about-webauthn-pin-section-title = Управление PIN-кодами
 about-webauthn-credential-management-section-title = Управление учётными данными
 about-webauthn-pin-required-section-title = Требуется PIN-код
+about-webauthn-confirm-deletion-section-title = Подтвердить удаление
 
 ## Info field texts
 
@@ -54,6 +55,7 @@ about-webauthn-current-pin-label = Текущий PIN-код:
 about-webauthn-pin-required-label = Пожалуйста, введите свой PIN-код:
 about-webauthn-credential-list-subsection-title = Параметры входа:
 about-webauthn-credential-list-empty = На устройстве не найдены учётные данные.
+about-webauthn-confirm-deletion-label = Вы собираетесь удалить:
 
 ## Buttons
 
