@@ -94,6 +94,7 @@ login-item-edit-button = Bewerken
 about-logins-login-item-remove-button = Verwijderen
 login-item-origin-label = Websiteadres
 login-item-tooltip-message = Zorg ervoor dat dit precies overeenkomt met het adres van de website waar u zich aanmeldt.
+about-logins-origin-tooltip = Zorg ervoor dat dit precies overeenkomt met het adres van de website waar u zich aanmeldt.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Gebruikersnaam

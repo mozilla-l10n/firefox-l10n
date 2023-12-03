@@ -351,6 +351,7 @@ identity-connection-secure = Verbinding beveiligd
 identity-connection-failure = Verbindingsfout
 identity-connection-internal = Dit is een beveiligde { -brand-short-name }-pagina.
 identity-connection-file = Deze pagina is op uw computer opgeslagen.
+identity-connection-associated = Deze pagina is geladen vanuit een andere pagina.
 identity-extension-page = Deze pagina is geladen vanuit een extensie.
 identity-active-blocked = { -brand-short-name } heeft onderdelen van deze pagina die niet zijn beveiligd geblokkeerd.
 identity-custom-root = Verbinding geverifieerd door een certificaatuitgever die niet door Mozilla wordt herkend.
