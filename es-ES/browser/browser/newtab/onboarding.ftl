@@ -331,3 +331,15 @@ onboarding-device-migration-title = Le damos de nuevo la bienvenida
 onboarding-device-migration-subtitle = Inicie sesión en su { -fxaccount-brand-name(capitalization: "sentence") } para recuperar sus marcadores, contraseñas e historial en su nuevo dispositivo.
 onboarding-device-migration-subtitle2 = Inicie sesión en su cuenta para llevar sus marcadores, contraseñas e historial a su nuevo dispositivo.
 onboarding-device-migration-primary-button-label = Iniciar sesión
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Nos encanta mantenerte a salvo
+onboarding-easy-setup-security-and-privacy-subtitle = Nuestro navegador respaldado por una organización sin ánimo de lucro ayuda a evitar que las empresas le sigan en secreto por la web.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Mantenga todo cifrado cuando pase de un dispositivo a otro
+onboarding-mobile-download-security-and-privacy-subtitle = Cuando tenga todo sincronizado, { -brand-short-name } cifra las contraseñas, marcadores y más. Además, puede traer pestañas desde otros dispositivos.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } siempre está de tu parte
+onboarding-gratitude-security-and-privacy-subtitle = Gracias por usar { -brand-short-name }, respaldado por la Fundación Mozilla. Con su apoyo, estamos trabajando para que Internet sea más seguro y accesible para todos.
