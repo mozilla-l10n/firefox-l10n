@@ -97,6 +97,11 @@ login-item-edit-button = Upraviť
 about-logins-login-item-remove-button = Odstrániť
 login-item-origin-label = Adresa webovej stránky
 login-item-tooltip-message = Uistite sa, že zodpovedá adrese stránky, na ktorú sa prihlasujete.
+about-logins-origin-tooltip = Uistite sa, že sa zhoduje s presnou adresou webovej stránky, na ktorej sa prihlasujete.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Uistite sa, že ukladáte svoje aktuálne heslo pre túto stránku. Zmena hesla tu nezmení heslo na stránke { $webTitle }.
+about-logins-add-password-tooltip = Uistite sa, že ukladáte svoje aktuálne heslo pre túto stránku.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Používateľské meno
