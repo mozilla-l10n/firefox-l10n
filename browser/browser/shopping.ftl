@@ -179,6 +179,7 @@ shopping-callout-closed-opted-in-subtitle = Gå tilbake til <strong>vurderingsko
 shopping-callout-pdp-opted-in-title = Er disse vurderingene pålitelige? Finn raskt ut av det.
 shopping-callout-pdp-opted-in-subtitle = Åpne vurderingskontrolløren for å se en justert vurdering med upålitelige vurderinger fjernet. I tillegg kan du se høydepunkter fra nylige autentiske vurderinger.
 shopping-callout-closed-not-opted-in-title = Ett klikk til pålitelige vurderinger
+shopping-callout-closed-not-opted-in-subtitle = Prøv vurderingskontrolløren hver gang du ser prislappen. Få innsikt fra ekte kunder raskt, før du kjøper.
 
 ## Onboarding message strings.
 
