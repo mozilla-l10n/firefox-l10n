@@ -351,6 +351,7 @@ identity-connection-secure = Bağlantı güvenli
 identity-connection-failure = Bağlantı hatası
 identity-connection-internal = Burası güvenli bir { -brand-short-name } sayfasıdır.
 identity-connection-file = Bu sayfa bilgisayarınızda depolanıyor.
+identity-connection-associated = Bu sayfa başka bir sayfa üzerinden yüklendi.
 identity-extension-page = Bu sayfa bir uzantı üzerinden yüklendi.
 identity-active-blocked = { -brand-short-name } bu sayfanın güvenli olmayan kısımlarını engelledi.
 identity-custom-root = Bağlantı, Mozilla’nın tanımadığı bir sertifika yayıncısı tarafından doğrulandı.

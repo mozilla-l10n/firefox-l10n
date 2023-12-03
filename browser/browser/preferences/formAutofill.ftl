@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Adres ayarları
 address-capture-learn-more-button =
     .label = Daha fazla bilgi alın
+address-capture-open-menu-button =
+    .aria-label = Menüyü aç
+address-capture-edit-address-button =
+    .aria-label = Adresi düzenle
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Yeni Adres Ekle
 # The dialog title for editing addresses in browser preferences.

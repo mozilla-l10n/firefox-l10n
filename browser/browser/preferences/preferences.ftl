@@ -1264,6 +1264,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = HTTPS Üzerinden DNS
 preferences-doh-description = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS oluşturur. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
+preferences-doh-description2 = HTTPS Üzerinden Alan Adı Sistemi (DNS), alan adı isteklerinizi şifreli bir bağlantı üzerinden göndererek güvenli bir DNS sağlar. Böylece hangi web sitelerine eriştiğinizi başkalarının görmesi zorlaştır.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Durum: { $status }
@@ -1280,6 +1281,7 @@ preferences-doh-status-disabled = Kapalı
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Etkin değil ({ $reason })
 preferences-doh-group-message = Güvenli DNS’i etkinleştir:
+preferences-doh-group-message2 = HTTPS üzerinden DNS’i etkinleştir:
 preferences-doh-expand-section =
     .tooltiptext = Daha fazla bilgi
 preferences-doh-setting-default =
