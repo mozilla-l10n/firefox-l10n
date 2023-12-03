@@ -5,6 +5,7 @@
 
 ## Web Console API (in GeckoViewConsole.sys.mjs)
 
+console-stacktrace-anonymous-function = <anonimo>
 # Variables:
 #   $filename (String): Source file name
 #   $functionName (String): JavaScript function name
