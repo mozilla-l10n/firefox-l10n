@@ -307,6 +307,18 @@ pdfjs-editor-stamp-button =
 pdfjs-editor-stamp-button-label = Pridať alebo upraviť obrázky
 pdfjs-editor-remove-button =
     .title = Odstrániť
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Odstrániť kresbu
+pdfjs-editor-remove-freetext-button =
+    .title = Odstrániť text
+pdfjs-editor-remove-stamp-button =
+    .title = Odstrániť obrázok
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Farba
 pdfjs-editor-free-text-size-input = Veľkosť
