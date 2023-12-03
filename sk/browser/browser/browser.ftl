@@ -352,6 +352,7 @@ identity-connection-secure = Pripojenie je zabezpečené
 identity-connection-failure = Chyba spojenia
 identity-connection-internal = Toto je bezpečná stránka prehliadača { -brand-short-name }
 identity-connection-file = Táto stránka je uložená vo vašom počítači.
+identity-connection-associated = Táto stránka je načítaná z inej stránky.
 identity-extension-page = Táto stránka je načítaná z doplnku.
 identity-active-blocked = { -brand-short-name } zablokoval nezabezpečené časti tejto stránky.
 identity-custom-root = Pripojenie je overené vydavateľom certifikátov, ktorého Mozilla nepozná.
