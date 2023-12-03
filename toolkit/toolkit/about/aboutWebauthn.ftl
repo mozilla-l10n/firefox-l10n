@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Možnosti autentifikátora
 about-webauthn-pin-section-title = Správa PIN
 about-webauthn-credential-management-section-title = Správa prihlasovacích údajov
 about-webauthn-pin-required-section-title = Vyžaduje sa PIN
+about-webauthn-confirm-deletion-section-title = Potvrdenie vymazania
 
 ## Info field texts
 
@@ -55,6 +56,7 @@ about-webauthn-current-pin-label = Aktuálny PIN:
 about-webauthn-pin-required-label = Zadajte svoj PIN:
 about-webauthn-credential-list-subsection-title = Prihlasovacie údaje:
 about-webauthn-credential-list-empty = Na zariadení sa nenašli žiadne prihlasovacie údaje.
+about-webauthn-confirm-deletion-label = Chystáte sa odstrániť:
 
 ## Buttons
 

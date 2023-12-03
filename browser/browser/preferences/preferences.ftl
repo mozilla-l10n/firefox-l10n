@@ -1268,6 +1268,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS cez HTTPS
 preferences-doh-description = Systém názvov domén (Domain Name System, skr. DNS) cez HTTPS odošle vašu požiadavku na názov domény cez šifrované pripojenie, čím vytvorí zabezpečené DNS a sťaží tým ostatným, aby videli, na ktorú webovú stránku sa chystáte vstúpiť.
+preferences-doh-description2 = Systém názvov domén (Domain Name System, skr. DNS) cez HTTPS odošle vašu požiadavku na názov domény cez šifrované pripojenie, čím zabezpečí DNS a sťaží tým ostatným, aby videli, na ktorú webovú stránku sa chystáte vstúpiť.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Stav: { $status }
@@ -1284,6 +1285,7 @@ preferences-doh-status-disabled = Vypnuté
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Neaktívne ({ $reason })
 preferences-doh-group-message = Povoliť zabezpečené DNS pomocou:
+preferences-doh-group-message2 = Zapnúť DNS cez HTTPS s použitím:
 preferences-doh-expand-section =
     .tooltiptext = Ďalšie informácie
 preferences-doh-setting-default =

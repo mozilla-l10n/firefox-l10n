@@ -331,3 +331,15 @@ onboarding-device-migration-title = Vitajte späť
 onboarding-device-migration-subtitle = Prihláste sa do svojho { -fxaccount-brand-name(capitalization: "sentence", case: "gen") } a vezmite si svoje záložky, heslá a históriu so sebou na nové zariadenie.
 onboarding-device-migration-subtitle2 = Prihláste sa do svojho účtu a preneste si svoje záložky, heslá a históriu na vaše nové zariadenie.
 onboarding-device-migration-primary-button-label = Prihlásiť sa
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Radi vás držíme v bezpečí
+onboarding-easy-setup-security-and-privacy-subtitle = Náš neziskový prehliadač pomáha zabrániť spoločnostiam, aby vás tajne sledovali na webe.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Pri preskakovaní medzi zariadeniami zostaňte šifrovaní
+onboarding-mobile-download-security-and-privacy-subtitle = Počas synchronizácie { -brand-short-name } zašifruje vaše heslá, záložky a ďalšie položky. A okrem toho môžete získať karty z iných zariadení.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vám kryje chrbát
+onboarding-gratitude-security-and-privacy-subtitle = Ďakujeme, že používate { -brand-short-name } podporovaný Mozilla Foundation. S vašou podporou pracujeme na tom, aby bol internet bezpečnejší a prístupnejší pre každého.
