@@ -332,3 +332,12 @@ onboarding-device-migration-title = Welkom terug!
 onboarding-device-migration-subtitle = Meld u aan bij uw { -fxaccount-brand-name } om uw bladwijzers, wachtwoorden en geschiedenis mee te nemen op uw nieuwe apparaat.
 onboarding-device-migration-subtitle2 = Meld u aan bij uw account om uw bladwijzers, wachtwoorden en geschiedenis mee te nemen op uw nieuwe apparaat.
 onboarding-device-migration-primary-button-label = Aanmelden
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = We houden u graag veilig
+onboarding-easy-setup-security-and-privacy-subtitle = Onze door een non-profitorganisatie gesteunde browser helpt voorkomen dat bedrijven u stiekem volgen op internet.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Blijf versleuteld wanneer u van apparaat wisselt
+onboarding-gratitude-security-and-privacy-subtitle = Bedankt voor het gebruik van { -brand-short-name }, ondersteund door de Mozilla Foundation. Met uw steun werken we eraan om het internet voor iedereen veiliger en meer toegankelijk te maken.

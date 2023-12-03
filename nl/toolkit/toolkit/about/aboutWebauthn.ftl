@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Authenticatoropties
 about-webauthn-pin-section-title = Pincodebeheer
 about-webauthn-credential-management-section-title = Referenties beheren
 about-webauthn-pin-required-section-title = Pincode vereist
+about-webauthn-confirm-deletion-section-title = Verwijdering bevestigen
 
 ## Info field texts
 
@@ -53,6 +54,7 @@ about-webauthn-current-pin-label = Huidige pincode:
 about-webauthn-pin-required-label = Voer uw pincode in:
 about-webauthn-credential-list-subsection-title = Referenties:
 about-webauthn-credential-list-empty = Geen referenties op apparaat gevonden.
+about-webauthn-confirm-deletion-label = U gaat verwijderen:
 
 ## Buttons
 

@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Adresinstellingen
 address-capture-learn-more-button =
     .label = Meer info
+address-capture-open-menu-button =
+    .aria-label = Menu openen
+address-capture-edit-address-button =
+    .aria-label = Adres bewerken
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Nieuw adres toevoegen
 # The dialog title for editing addresses in browser preferences.
