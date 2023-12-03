@@ -331,3 +331,11 @@ onboarding-device-migration-title = Bom ver você de volta!
 onboarding-device-migration-subtitle = Entre na sua { -fxaccount-brand-name(capitalization: "sentence") } para ter com você seus favoritos, senhas e histórico em seu novo dispositivo.
 onboarding-device-migration-subtitle2 = Entre na sua conta para ter seus favoritos, senhas e histórico em seu novo dispositivo.
 onboarding-device-migration-primary-button-label = Entrar
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Adoramos manter você seguro
+onboarding-easy-setup-security-and-privacy-subtitle = Nosso navegador, respaldado por uma entidade sem fins lucrativos, ajuda a impedir que empresas sigam você secretamente pela web.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Proteja-se com criptografia ao alternar entre dispositivos
