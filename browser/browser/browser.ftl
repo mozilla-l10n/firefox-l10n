@@ -352,6 +352,7 @@ identity-connection-secure = Защищённое соединение
 identity-connection-failure = Ошибка соединения
 identity-connection-internal = Это встроенная страница { -brand-short-name }.
 identity-connection-file = Эта страница хранится на вашем компьютере.
+identity-connection-associated = Эта страница загружается с другой страницы.
 identity-extension-page = Эта страница загружена из расширения.
 identity-active-blocked = { -brand-short-name } заблокировал незащищённые части этой страницы.
 identity-custom-root = Соединение удостоверено сертификатом, издатель которого не распознан Mozilla.
