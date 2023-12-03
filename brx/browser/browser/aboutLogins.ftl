@@ -6,7 +6,7 @@
 about-logins-page-title = लगिन & पासवर्डखौ
 about-logins-login-filter =
     .placeholder = लोगिनफोर नागिर
-    .key = फ
+    .key = F
 create-new-login-button =
     .title = गोदान लोगिन बानाय
 fxaccounts-sign-in-text = नोंनि पासवर्दखौ गुबुन डिभाइस आव लाबो
@@ -38,14 +38,6 @@ login-list-count =
     { $count ->
         [one] { $count } ल'गइन
        *[other] { $count } ल'हइनफोर
-    }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count =
-    { $total ->
-        [one] { $total } नि { $current } लोगइन
-       *[other] { $total } नि { $current } लोगइनफोर
     }
 login-list-sort-label-text = बासिदों
 login-list-name-option = मुं (A-Z)
