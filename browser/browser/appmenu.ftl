@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Browserhelpmidelen
 appmenu-developer-tools-extensions =
     .label = Utwreidingen foar ûntwikkelers
+appmenuitem-report-broken-site =
+    .label = Net-wurkjende website melde

@@ -204,6 +204,8 @@ cfr-cbh-confirm-button = Cookiebanners wegerje
     .accesskey = w
 cfr-cbh-dismiss-button = No net
     .accesskey = N
+cookie-banner-blocker-cfr-header = { -brand-short-name } hat krekt cookies foar jo blokkearre
+cookie-banner-blocker-cfr-body = Wy wegerje automatysk in protte cookiepop-ups, om it foar websites swierder te meitsjen jo te folgjen.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -237,7 +239,14 @@ device-migration-fxa-spotlight-header = Brûke jo in âlder apparaat?
 device-migration-fxa-spotlight-body = Meitsje in reservekopy fan jo gegevens om derfoar te soargjen dat jo gjin wichtige ynformaasje, lykas blêdwizers en wachtwurden kwytreitsje, foaral as jo oerskeakelje nei in nij apparaat.
 device-migration-fxa-spotlight-primary-button = Hoe meitsje in reservekopy fan myn gegevens
 device-migration-fxa-spotlight-link = Letter werinnerje
+device-migration-fxa-spotlight-heavy-user-header = Ferjit net in reservekopy fan jo gegevens te meitsjen
+device-migration-fxa-spotlight-heavy-user-body = Soargje derfoar dat wichtige ynformaasje – lykas blêdwizers en wachtwurden – bywurke en beskerme wurdt op al jo apparaten.
+device-migration-fxa-spotlight-heavy-user-primary-button = Begjinne
+device-migration-fxa-spotlight-older-device-header = Gemoedsrêst, fan { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = In account hâldt jo wichtige gegevens bywurke en beskerme op elk apparaat dat jo ferbine.
+device-migration-fxa-spotlight-older-device-primary-button = In account oanmeitsje
 device-migration-fxa-spotlight-getting-new-device-header-2 = Nij apparaat yn de takomst?
+device-migration-fxa-spotlight-getting-new-device-body = Meitsje no in reservekopy fan jo gegevens, sadat jo daliks oan de slach kinne as jo apparaat oankomt.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hoe meitsje in reservekopy fan myn gegevens
 
 ## Set as Default PDF Reader Infobar
