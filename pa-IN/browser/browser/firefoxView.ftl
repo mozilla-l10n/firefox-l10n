@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = ਬੰਦ ਕਰੋ
     .aria-label = ਬੰਦ ਕਰੋ
+firefoxview-empty-state-icon =
+    .alt = ਸਾਵਧਾਨ:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ਹੁਣੇ ਹੁਣੇ
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -147,6 +149,35 @@ firefoxview-opentabs-focus-tab =
     .title = ਇਸ ਟੈਬ ਲਈ ਬਦਲੋ
 firefoxview-show-more = ਹੋਰ ਵੇਖਾਓ
 firefoxview-show-less = ਘੱਟ ਵੇਖਾਓ
+firefoxview-search-text-box-clear-button =
+    .title = ਮਿਟਾਓ
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = ਅਤੀਤ ਖੋਜੋ
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = ਸੱਜਰੀਆਂ ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਖੋਜੋ
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਨੂੰ ਖੋਜੋ
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਖੋਜੋ
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = “{ $query }” ਲਈ ਖੋਜ ਨਤੀਜੇ
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } ਸਾਈਟ
+       *[other] { $count } ਸਾਈਟ
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = “{ $query }” ਲਈ ਕੋਈ ਖੋਜ ਨਤੀਜੇ ਨਹੀਂ ਹਨ
 firefoxview-sort-history-by-date-label = ਤਾਰੀਖ ਰਾਹੀਂ ਲੜੀਬੱਧ
 firefoxview-sort-history-by-site-label = ਸਾਈਟ ਰਾਹੀਂ ਲੜੀਬੱਧ
 # Variables:
@@ -206,9 +237,6 @@ firefoxview-import-history-description = { -brand-short-name } ਨੂੰ ਆਪ�
 firefoxview-recentlyclosed-empty-header = ਟੈਬ ਬਹੁਤ ਕਾਹਲੀ ਵਿੱਚ ਬੰਦ ਕਰ ਦਿੱਤੀ ਸੀ?
 firefoxview-recentlyclosed-empty-description = ਇੱਥੇ ਤੁਸੀਂ ਆਪਣੀਆਂ ਸੱਜਰੀਆਂ ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਵੇਖੋਗੇ, ਤਾਂ ਕਿ ਉਹਨਾਂ ਵਿੱਚੋਂ ਕਿਸੇ ਨੂੰ ਵੀ ਫ਼ੌਰਨ ਖੋਲ੍ਹ ਸਕੋ।
 firefoxview-recentlyclosed-empty-description-two = ਲੰਮਾ ਸਮਾਂ ਪਹਿਲਾਂ ਦੀਆਂ ਟੈਬਾਂ ਲੱਭਣ ਲਈ ਆਪਣੇ <a data-l10n-name="history-url">ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ</a> ਨੂੰ ਵੇਖੋ।
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
