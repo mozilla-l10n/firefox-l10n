@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Nije te kontrolearjen ynformaasje
 shopping-message-bar-warning-stale-analysis-button = No kontrolearje
-shopping-message-bar-generic-error-title2 = Der is op dit stuit gjin ynfo beskikber
-shopping-message-bar-generic-error-message = Wy wurkje deroan om it probleem op te lossen. Kom ynkoarten gau werom.
-shopping-message-bar-warning-not-enough-reviews-title = Noch net genôch beoardielingen
-shopping-message-bar-warning-not-enough-reviews-message2 = As dit produkt mear beoardielingen hat, kinne wy harren kwaliteit beoardiele.
-shopping-message-bar-warning-product-not-available-title = Produkt is net beskikber
-shopping-message-bar-warning-product-not-available-message2 = As jo sjogge dat dit produkt wer op foarried is, meld it dan oan ús en wy sille wurkje om de beoardielingen te kontrolearjen.
-shopping-message-bar-warning-product-not-available-button = Melde dat dit produkt wer op foarried is
-shopping-message-bar-thanks-for-reporting-title = Tank foar it melden!
-shopping-message-bar-thanks-for-reporting-message2 = Wy soene binnen 24 oeren ynfo oer de beoardieling fan dit produkt hawwe moatte. Kom letter noch ris werom.
-shopping-message-bar-warning-product-not-available-reported-title2 = Ynkoarten mear
-shopping-message-bar-warning-product-not-available-reported-message2 = Wy soene binnen 24 oeren ynfo oer de beoardieling fan dit produkt hawwe moatte. Kom letter noch ris werom.
 shopping-message-bar-generic-error =
     .heading = Der is op dit stuit gjin ynfo beskikber
     .message = Wy wurkje deroan om it probleem op te lossen. Kom ynkoarten gau werom.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Wy soene binnen 24 oeren ynfo oer de beoardieling fan dit produkt hawwe moatte. Kom letter noch ris werom.
 shopping-message-bar-analysis-in-progress-title2 = Beoardielingskwaliteit kontrolearje
 shopping-message-bar-analysis-in-progress-message2 = Dit kin ûngefear 60 sekonden duorje.
-shopping-message-bar-page-not-supported-title = Wy kinne dizze beoardieling net kontrolearje
-shopping-message-bar-page-not-supported-message = Spitigernôch kinne wy de beoardielingskwaliteit net kontrolearje foar bepaalde soarten produkten. Bygelyks kadokaarten en streaming fideo, muzyk en spultsjes.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Beoardielingskwaliteit kontrolearje ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Wy kinne dizze beoardieling net kontrolearje
     .message = Spitigernôch kinne wy de beoardielingskwaliteit net kontrolearje foar bepaalde soarten produkten. Bygelyks kadokaarten en streaming fideo, muzyk en spultsjes.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Ynstellingen
 shopping-settings-recommendations-toggle =
     .label = Advertinsjes toane yn beoardielingskontrôle
-shopping-settings-recommendations-learn-more = Jo sille sa no en dan advertinsjes sjen foar relevante produkten. Alle advertinsjes moatte foldwaan oan ús kwaliteitsnoarmen foar beoardielingen. <a data-l10n-name="review-quality-url">Mear ynfo</a>
 shopping-settings-recommendations-learn-more2 = Jo sjogge sa no en dan advertinsjes foar relevante produkten. Wy advertearje allinnich foar produkten mei betroubere beoardielingen. <a data-l10n-name="review-quality-url">Mear ynfo</a>
 shopping-settings-opt-out-button = Beoardielingskontrôle útskeakelje
 powered-by-fakespot = Beoardielingskontrôle wurdt mooglik makke troch <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -181,7 +170,6 @@ shopping-survey-q2-radio-3-label = Ik wit it net
 shopping-survey-next-button-label = Folgjende
 shopping-survey-submit-button-label = Ferstjoere
 shopping-survey-terms-link = Brûkersbetingsten
-shopping-survey-thanks-message = Tank foar jo kommentaar!
 shopping-survey-thanks =
     .heading = Tank foar jo kommentaar!
 
@@ -198,12 +186,6 @@ shopping-callout-closed-not-opted-in-subtitle = Probearje beoardielingskontrôle
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Probearje ús fertroude gids foar produktbeoardielingen
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Besjoch hoe betrouber produktbeoardielingen op <b>{ $currentSite }</b>  binne, eardat jo in oankeap dogge. Beoardelingskontrôle, in eksperimintele funksje fan { -vendor-short-name }, is streekrjocht yn { -brand-product-name } ynboud – en it wurket ek op <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
