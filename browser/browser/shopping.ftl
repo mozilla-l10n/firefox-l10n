@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = ਜਾਂਚ ਲਈ ਨਵੀਂ ਜਾਣਕਾਰੀ
 shopping-message-bar-warning-stale-analysis-button = ਹੁਣੇ ਜਾਂਚੋ
-shopping-message-bar-generic-error-title2 = ਹਾਲੇ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਨਹੀਂ ਹੈ
-shopping-message-bar-generic-error-message = ਅਸੀਂ ਮਸਲਾ ਠੀਕ ਕਰਨ ਲਈ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ। ਫ਼ੇਰ ਵਾਪਸ ਦੇਖਿਓ।
-shopping-message-bar-warning-not-enough-reviews-title = ਹਾਲੇ ਚੋਖੇ ਰੀਵਿਊ ਨਹੀਂ ਹਨ
-shopping-message-bar-warning-not-enough-reviews-message2 = ਜਦੋਂ ਉਪਤਾਦ ਲਈ ਹੋਰ ਰੀਵਿਊ ਹੁੰਦੇ ਹਨ ਤਾਂ ਅਸੀਂ ਉਹਨਾਂ ਦੀ ਕੁਆਲਟੀ ਚੈਕ ਕਰ ਸਕਦੇ ਹਾਂ।
-shopping-message-bar-warning-product-not-available-title = ਉਤਪਾਦ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
-shopping-message-bar-warning-product-not-available-message2 = ਜੇ ਤੁਹਾਨੂੰ ਉਹ ਉਤਪਾਦ ਵਾਪਸ ਸਟਾਕ ਵਿੱਚ ਮਿਲੇ ਤਾਂ ਸਾਨੂੰ ਇਸ ਬਾਰੇ ਦੱਸਿਓ ਅਤੇ ਅਸੀਂ ਰੀਵਿਊ ਦੀ ਜਾਂਚ ਕਰਾਂਗੇ।
-shopping-message-bar-warning-product-not-available-button = ਇਸ ਉਤਪਾਦ ਦੇ ਸਟਾਕ ਵਿੱਚ ਵਾਪਸ ਹੋਣ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ
-shopping-message-bar-thanks-for-reporting-title = ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਧੰਨਵਾਦ!
-shopping-message-bar-thanks-for-reporting-message2 = ਸਾਡੇ ਕੋਲ ਇਸ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਅੱਪਡੇਟ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ। ਬਾਅਦ ਵਿੱਚ ਵੇਖਿਓ।
-shopping-message-bar-warning-product-not-available-reported-title2 = ਜਾਣਕਾਰੀ ਛੇਤੀ ਹੀ ਆ ਰਹੀ ਹੈ
-shopping-message-bar-warning-product-not-available-reported-message2 = ਸਾਡੇ ਕੋਲ ਇਸ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਅੱਪਡੇਟ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ। ਬਾਅਦ ਵਿੱਚ ਵੇਖਿਓ।
 shopping-message-bar-generic-error =
     .heading = ਹਾਲੇ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਨਹੀਂ ਹੈ
     .message = ਅਸੀਂ ਮਸਲਾ ਠੀਕ ਕਰਨ ਲਈ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ। ਫ਼ੇਰ ਵਾਪਸ ਦੇਖਿਓ।
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = ਸਾਡੇ ਕੋਲ ਇਸ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਅੱਪਡੇਟ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ। ਬਾਅਦ ਵਿੱਚ ਵੇਖਿਓ।
 shopping-message-bar-analysis-in-progress-title2 = ਰੀਵਿਊ ਕੁਆਲਟੀ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
 shopping-message-bar-analysis-in-progress-message2 = ਇਸ ਨੂੰ ਲਗਭਗ 60 ਸਕਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ।
-shopping-message-bar-page-not-supported-title = ਅਸੀਂ ਇਹ ਰੀਵਿਊਆਂ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ
-shopping-message-bar-page-not-supported-message = ਅਫ਼ਸੋਸ ਹੈ ਪਰ ਅਸੀਂ ਉਤਪਾਦਾਂ ਦੀਆਂ ਕੁਝ ਕਿਸਮਾਂ ਲਈ ਰੀਵਿਊ ਕੁਆਲਟੀ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ। ਮਿਸਾਲ ਵਜੋਂ ਗਿਫ਼ਟ ਕਾਰਡ ਅਤੇ ਸਟਰੀਮਿੰਗ ਵੀਡੀਓ, ਸੰਗੀਤ ਤੇ ਖੇਡਾਂ।
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = ਰੀਵਿਊ ਕੁਆਲਟੀ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = ਅਸੀਂ ਇਹ ਰੀਵਿਊਆਂ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ
     .message = ਅਫ਼ਸੋਸ ਹੈ ਪਰ ਅਸੀਂ ਉਤਪਾਦਾਂ ਦੀਆਂ ਕੁਝ ਕਿਸਮਾਂ ਲਈ ਰੀਵਿਊ ਕੁਆਲਟੀ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ। ਮਿਸਾਲ ਵਜੋਂ ਗਿਫ਼ਟ ਕਾਰਡ ਅਤੇ ਸਟਰੀਮਿੰਗ ਵੀਡੀਓ, ਸੰਗੀਤ ਤੇ ਖੇਡਾਂ।
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = ਸੈਟਿੰਗਾਂ
 shopping-settings-recommendations-toggle =
     .label = ਰੀਵਿਊ ਚੈਕਰ ਵਿੱਚ ਇਸ਼ਤਿਹਾਰ ਵੇਖਾਓ
-shopping-settings-recommendations-learn-more = ਤੁਸੀਂ ਕਦੇ ਕਦਾਈ ਸੰਬੰਧਿਤ ਉਤਪਾਦਾਂ ਲਈ ਇਸ਼ਤਿਹਾਰ ਵੇਖੋਗੇ। ਸਾਰੇ ਇਸ਼ਤਿਹਾਰ ਸਾਡੇ ਰੀਵਿਊ ਕੁਆਲਟੀ ਮਿਆਰ ਮੁਤਾਬਕ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ। <a data-l10n-name="review-quality-url">ਹੋਰ ਜਾਣੋ</a>
 shopping-settings-recommendations-learn-more2 = ਤੁਸੀਂ ਕਦੇ ਕਦਾਈ ਸੰਬੰਧਿਤ ਉਤਪਾਦਾਂ ਲਈ ਇਸ਼ਤਿਹਾਰ ਵੇਖੋਗੇ। ਅਸੀਂ ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ ਵਾਲੇ ਉਤਪਾਦ ਲਈ ਹੀ ਇਸ਼ਤਿਹਾਰ ਦਿੰਦੇ ਹਾਂ। <a data-l10n-name="review-quality-url">ਹੋਰ ਸਿੱਖੋ</a>
 shopping-settings-opt-out-button = ਰੀਵਿਊ ਚੈਕਰ ਬੰਦ ਕਰੋ
 powered-by-fakespot = <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> ਵਲੋਂ ਰੀਵਿਊ ਚੈਕਰ ਹੈ।
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = ਮੈਨੂੰ ਨਹੀ ਪਤਾ
 shopping-survey-next-button-label = ਅੱਗੇ
 shopping-survey-submit-button-label = ਭੇਜੋ
 shopping-survey-terms-link = ਵਰਤਣ ਦੀ ਸ਼ਰਤਾਂ
-shopping-survey-thanks-message = ਤੁਹਾਡੀ ਫ਼ੀਡਬੈਕ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ!
 shopping-survey-thanks =
     .heading = ਤੁਹਾਡੀ ਫ਼ੀਡਬੈਕ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = ਜਿੱਥੇ ਵੀ ਤੁਸ
 ## Onboarding message strings.
 
 shopping-onboarding-headline = ਉਤਪਾਦ ਰੀਵਿਊ ਲਈ ਸਾਡੀ ਭਰੋਸੇਯੋਗ ਗਾਈਡ ਨੂੰ ਅਜ਼ਮਾਓ
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = ਖਰੀਦਣ ਤੋਂ ਪਹਿਲਾਂ ਵੇਖੋ ਕਿ <b>{ $currentSite }</b> ਉੱਤੇ ਉਤਪਾਦ ਰੀਵਿਊ ਕਿੰਨੇ ਭਰੋਸੇਯੋਗ ਹਨ। ਰੀਵਿਊ ਚੈਕਰ, { -vendor-short-name } ਵਲੋਂ ਹਾਲੇ ਤਜਰਬੇ ਅਧੀਨ ਫ਼ੀਚਰ ਹੈ, ਜੋ { -brand-product-name } ਵਿੱਚ ਮੌਜੂਦ ਹੈ — ਅਤੇ ਇਹ <b>{ $secondSite }</b> ਅਤੇ <b>{ $thirdSite }</b> ਨਾਲ ਵੀ ਕੰਮ ਕਰਦਾ ਹੈ।
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name

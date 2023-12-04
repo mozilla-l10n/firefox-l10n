@@ -332,3 +332,15 @@ onboarding-device-migration-title = ਫਿਰ ਜੀ ਆਇਆਂ ਨੂੰ!
 onboarding-device-migration-subtitle = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਪਾਸਵਰਡਾਂ ਅਤੇ ਅਤੀਤ ਨੂੰ ਆਪਣੇ ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਆਪਣੇ ਨਾਲ ਲਿਆਉਣ ਵਾਸਤੇ ਆਪਣੇ { -fxaccount-brand-name(capitalization: "sentence") } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 onboarding-device-migration-subtitle2 = ਆਪਣੇ ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਅਤੀਤ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲਿਆਉਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 onboarding-device-migration-primary-button-label = ਸਾਈਨ ਇਨ
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = ਅਸੀਂ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹਾਂ
+onboarding-easy-setup-security-and-privacy-subtitle = ਕੰਪਨੀਆਂ ਨੂੰ ਚੋਰੀ ਚੋਰੀ ਵੈੱਬ ਉੱਤੇ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਸਾਡਾ ਗ਼ੈਰ-ਫਾਇਦਾ ਸਮਰੱਥ ਬਰਾਊਜ਼ਰ ਆਪਣੇ-ਆਪ ਹੀ ਰੋਕਦਾ ਹੈ।
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = ਜਦੋਂ ਤੁਸੀਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਤਬਾਦਲਾ ਕਰੋ ਤਾਂ ਇੰਕ੍ਰਿਪਟ ਰਹੋ
+onboarding-mobile-download-security-and-privacy-subtitle = ਜਦੋਂ ਤੱਕ ਤੁਹਾਡੇ ਲਈ ਸਿੰਕ ਹੋ ਰਿਹਾ ਹੈ, ਤਦ ਤੱਕ { -brand-short-name } ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ, ਬੁੱਕਮਾਰਕਾਂ ਅਤੇ ਹੋਰਾਂ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰਦਾ ਹੈ। ਇਸ ਦੇ ਇਲਾਵਾ ਤੁਸੀਂ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਵੀ ਲੈ ਸਕਦੇ ਹੋ।
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ਤੁਹਾਡੇ ਨਾਲ ਖੜ੍ਹਾ ਹੈ
+onboarding-gratitude-security-and-privacy-subtitle = { -brand-short-name }, ਜਿਸ ਨੂੰ Mozilla Foundation ਵਲੋਂ ਸਹਿਯੋਗ ਮਿਲਦਾ ਹੈ, ਵਰਤਣ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ। ਤੁਹਾਡੀ ਮਦਦ ਨਾਲ ਅਸੀਂ ਇੰਟਰਨੈੱਟ ਨੂੰ ਹਰ ਕਿਸੇ ਲਈ ਵੱਧ ਸੁਰੱਖਿਅਤ ਅਤੇ ਵੱਧ ਪਹੁੰਚ ਵਿੱਚ ਲਿਆਉਣ ਲਈ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ।
