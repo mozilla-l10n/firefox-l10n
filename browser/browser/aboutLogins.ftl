@@ -95,6 +95,10 @@ about-logins-login-item-remove-button = Verwijderen
 login-item-origin-label = Websiteadres
 login-item-tooltip-message = Zorg ervoor dat dit precies overeenkomt met het adres van de website waar u zich aanmeldt.
 about-logins-origin-tooltip = Zorg ervoor dat dit precies overeenkomt met het adres van de website waar u zich aanmeldt.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Zorg ervoor dat u uw huidige wachtwoord voor deze website opslaat. Als u het wachtwoord hier wijzigt, wordt het niet gewijzigd bij { $webTitle }.
+about-logins-add-password-tooltip = Zorg ervoor dat u uw huidige wachtwoord voor deze website opslaat.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Gebruikersnaam

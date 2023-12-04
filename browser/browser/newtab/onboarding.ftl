@@ -340,4 +340,7 @@ onboarding-easy-setup-security-and-privacy-title = We houden u graag veilig
 onboarding-easy-setup-security-and-privacy-subtitle = Onze door een non-profitorganisatie gesteunde browser helpt voorkomen dat bedrijven u stiekem volgen op internet.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Blijf versleuteld wanneer u van apparaat wisselt
+onboarding-mobile-download-security-and-privacy-subtitle = Wanneer u bent gesynchroniseerd, versleutelt { -brand-short-name } uw wachtwoorden, bladwijzers en meer. Bovendien kunt u tabbladen van uw andere apparaten ophalen.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } is er voor u
 onboarding-gratitude-security-and-privacy-subtitle = Bedankt voor het gebruik van { -brand-short-name }, ondersteund door de Mozilla Foundation. Met uw steun werken we eraan om het internet voor iedereen veiliger en meer toegankelijk te maken.
