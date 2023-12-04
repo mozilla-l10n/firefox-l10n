@@ -474,4 +474,13 @@ onboarding-easy-setup-security-and-privacy-subtitle = Náš neziskový prohlíž
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Při přecházení mezi zařízeními buďte šifrovaní
 # Gratitude screen
-onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vám kryje záda
+onboarding-gratitude-security-and-privacy-title =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } vám kryje záda
+       *[no-cases] Aplikace { -brand-short-name } vám kryje záda
+    }
+onboarding-gratitude-security-and-privacy-subtitle =
+    { -brand-short-name.case-status ->
+        [with-cases] Děkujeme, že používáte { -brand-short-name(case: "acc") }, za kterým stojí nadace Mozilla Foundation. S vaší podporou pracujeme na tom, aby byl internet bezpečnější a přístupnější pro všechny.
+       *[no-cases] Děkujeme, že používáte aplikaci { -brand-short-name }, za kterým stojí nadace Mozilla Foundation. S vaší podporou pracujeme na tom, aby byl internet bezpečnější a přístupnější pro všechny.
+    }
