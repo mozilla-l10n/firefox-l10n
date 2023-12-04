@@ -301,6 +301,20 @@ pdfjs-editor-ink-button-label = Tekenje
 pdfjs-editor-stamp-button =
     .title = Ofbyldingen tafoegje of bewurkje
 pdfjs-editor-stamp-button-label = Ofbyldingen tafoegje of bewurkje
+pdfjs-editor-remove-button =
+    .title = Fuortsmite
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Tekening fuortsmite
+pdfjs-editor-remove-freetext-button =
+    .title = Tekst fuortsmite
+pdfjs-editor-remove-stamp-button =
+    .title = Ofbylding fuortsmite
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Kleur
 pdfjs-editor-free-text-size-input = Grutte

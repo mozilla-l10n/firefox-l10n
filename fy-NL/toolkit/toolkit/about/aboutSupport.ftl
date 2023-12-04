@@ -188,6 +188,7 @@ media-codec-support-codec-name = Codecnamme
 media-codec-support-supported = Stipe
 media-codec-support-unsupported = Net stipe
 media-codec-support-error = Codec-stipeynformaasje net beskikber. Probearje it nochris nei it ôfspyljen fan in mediabestân.
+media-codec-support-lack-of-extension = Utwreiding ynstallearje
 
 ##
 
