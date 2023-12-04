@@ -13,14 +13,19 @@ about-webauthn-page-title = À propos de WebAuthn
 
 about-webauthn-info-section-title = Informations de l’appareil
 about-webauthn-pin-section-title = Gestion du code PIN
+about-webauthn-credential-management-section-title = Gérer les informations d’authentification
 about-webauthn-pin-required-section-title = Code PIN requis
+about-webauthn-confirm-deletion-section-title = Confirmer la suppression
 
 ## Info field texts
 
 about-webauthn-text-connect-device = Veuillez connecter un jeton d’authentification.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Veuillez sélectionner le jeton de sécurité de votre choix en appuyant sur l’appareil.
 
 ## Results label
 
+about-webauthn-results-success = Opération réussie.
 about-webauthn-results-general-error = Erreur !
 about-webauthn-results-pin-too-short-error = Erreur : le code PIN saisi est trop court.
 about-webauthn-results-pin-too-long-error = Erreur : le code PIN saisi est trop long.
@@ -31,9 +36,16 @@ about-webauthn-new-pin-label = Nouveau code PIN :
 about-webauthn-repeat-pin-label = Répétez le nouveau code PIN :
 about-webauthn-current-pin-label = Code PIN actuel :
 about-webauthn-pin-required-label = Veuillez saisir votre code PIN :
+about-webauthn-credential-list-subsection-title = Informations d’authentification :
+about-webauthn-credential-list-empty = Aucune information d’authentification trouvée sur l’appareil.
+about-webauthn-confirm-deletion-label = Vous êtes sur le point de supprimer :
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = Définir un code PIN
+about-webauthn-current-change-pin-button = Modifier le code PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Lister les informations d’authentification
 about-webauthn-cancel-button = Annuler
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Supprimer
