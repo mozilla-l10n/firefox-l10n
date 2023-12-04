@@ -22,11 +22,29 @@ about-webauthn-confirm-deletion-section-title = Fuortsmiten befêstigje
 ## Info field texts
 
 about-webauthn-text-connect-device = Keppel in befveiligingstoken.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Selektearje it winske befeiligingstoken troch it apparaat oan te reitsjen.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Kin opsjes net beheare, omdat jo befeiligingstoken CTAP2 net stipet.
+about-webauthn-text-not-available = Net beskikber op dit platfoarm.
 
 ## Results label
 
 about-webauthn-results-success = Slagge!
 about-webauthn-results-general-error = Flater!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Flater: ferkearde pinkoade. Besykje it opnij.
+        [one] Flater: ferkearde pinkoade. Besykje it opnij. Jo hawwe noch ien besykjen oer.
+       *[other] Flater: ferkearde pinkoade. Besykje it opnij. Jo hawwe noch { $retriesLeft } besykjen oer.
+    }
+about-webauthn-results-pin-blocked-error = Flater: der binne gjin besykjen mear en jo apparaat is beskoattele, omdat te faak de ferkearde pinkoade ynfierd is. It apparaat moat opnij inisjalisearre wurde.
+about-webauthn-results-pin-too-short-error = Flater: de opjûne pinkoade is te koart.
+about-webauthn-results-pin-too-long-error = Flater: de opjûne pinkoade is te lang.
+about-webauthn-results-pin-auth-blocked-error = Flater: der binne te folle mislearre besykjen efter inoar probearre en pinautentikaasje is tydlik blokkearre. Jo apparaat hat in streamsyklus nedich (loskeppeljen en opnij ynstekke).
+about-webauthn-results-cancelled-by-user-error = Flater: bewurking is annulearre troch de brûker.
 
 ## Labels
 

@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Kontrolearje oft { -brand-short-name } ta
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } kin jo oanfraach om it adres fan dizze website net beskermje fia ús fertroude DNS-resolver. Dit is de reden:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } kin jo oanfraach om it adres fan dizze website net beskermje fia ús feilige DNS-provider. Dit is de reden:
 neterror-dns-not-found-trr-third-party-warning2 = Jo kinne trochgean mei jo standert DNS-resolver, in tredde partij kin lykwols mooglik sjen hokker websites jo besykje
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } koe gjin ferbining meitsje mei { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = De ferbining mei { $trrDomain } duorre langer as ferwachte.
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Unferwachte probleem.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } kin jo oanfraach om it adres fan dizze website net beskermje fia ús fertroude DNS-resolver. Dit is de reden:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } kin jo oanfraach om it adres fan dizze website net beskermje fia ús feilige DNS-provider. Dit is de reden:
 neterror-dns-not-found-native-fallback-heuristic = DNS oer HTTPS is útskeakele op jo netwurk.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } koe gjin ferbining meitsje mei { $trrDomain }.
 
