@@ -94,6 +94,7 @@ login-item-edit-button = Таҳрир кардан
 about-logins-login-item-remove-button = Тоза кардан
 login-item-origin-label = Нишонии сомона
 login-item-tooltip-message = Мутмаин шавед, ки ин ба нишонии дақиқи сомонае, ки шумо ворид мешавед, мувофиқат мекунад.
+about-logins-origin-tooltip = Боварӣ ҳосил кунед, ки ин ба нишонии дақиқи сомонае, ки шумо ворид мешавед, мувофиқат мекунад.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Номи корбар

@@ -332,3 +332,8 @@ onboarding-device-migration-title = Бозгаштатон муборак!
 onboarding-device-migration-subtitle = Барои интиқол додани хатбаракҳо, ниҳонвожаҳо ва таърихи тамошокунии худ ба дастгоҳи нав, ба { -fxaccount-brand-name(capitalization: "sentence") } ворид шавед.
 onboarding-device-migration-subtitle2 = Барои интиқол кардани хатбаракҳо, ниҳонвожаҳо ва таърихи худ ба дастгоҳи нав, ба ҳисоби худ ворид шавед.
 onboarding-device-migration-primary-button-label = Ворид шудан
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Мо нигоҳдории бехатарии шуморо дӯст медорем
