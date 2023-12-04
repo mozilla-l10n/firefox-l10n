@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Κλείσιμο
     .aria-label = Κλείσιμο
+firefoxview-empty-state-icon =
+    .alt = Προσοχή:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Μόλις τώρα
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
