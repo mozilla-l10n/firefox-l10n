@@ -239,7 +239,14 @@ device-migration-fxa-spotlight-header = Stâstu doprant un dispositîf plui vier
 device-migration-fxa-spotlight-body = Fâs un backup dai tiei dâts par no pierdi informazions impuartantis come segnelibris e passwords — soredut se tu passis a un gnûf dispositîf.
 device-migration-fxa-spotlight-primary-button = Cemût salvâ i miei dâts
 device-migration-fxa-spotlight-link = Visimi plui indevant
+device-migration-fxa-spotlight-heavy-user-header = No sta dismenteâti di salvâ i tiei dâts
+device-migration-fxa-spotlight-heavy-user-body = Siguriti che lis informazions impuartantis — come segnelibris e passwords — a sedin inzornadis e protetis su ducj i tiei dispositîfs.
+device-migration-fxa-spotlight-heavy-user-primary-button = Scomence
+device-migration-fxa-spotlight-older-device-header = Trancuilitât, di { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Un account al ten inzornadis e protetis lis tôs informazions impuartantis su cualsisei dispositîf conetût.
+device-migration-fxa-spotlight-older-device-primary-button = Cree un account
 device-migration-fxa-spotlight-getting-new-device-header-2 = Gnûf dispositîf tal to futûr?
+device-migration-fxa-spotlight-getting-new-device-body = Salve daurman i tiei dâts, in mût di jessi pront par cuant che al rive il to dispositîf.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Cemût salvâ i miei dâts
 
 ## Set as Default PDF Reader Infobar

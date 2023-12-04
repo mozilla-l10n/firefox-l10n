@@ -351,6 +351,7 @@ identity-connection-secure = Conession sigure
 identity-connection-failure = Erôr di conession
 identity-connection-internal = Cheste e je une pagjine di { -brand-short-name } sigure.
 identity-connection-file = Cheste pagjine e je archiviade sul to computer.
+identity-connection-associated = Cheste pagjine e je cjariade di une altre pagjine.
 identity-extension-page = Cheste pagjine e je cjariade di une estension.
 identity-active-blocked = { -brand-short-name } al à blocât parts di cheste pagjine che no son siguris.
 identity-custom-root = Conession verificade di un emitent di certificâts che nol è ricognossût de bande di Mozilla.

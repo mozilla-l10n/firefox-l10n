@@ -94,6 +94,11 @@ login-item-edit-button = Modifiche
 about-logins-login-item-remove-button = Gjave
 login-item-origin-label = Direzion sît web
 login-item-tooltip-message = Siguriti che cheste e corispuindi ae direzion esate dal sît web dulà che tu stâs jentrant.
+about-logins-origin-tooltip = Siguriti che cheste direzion e corispuindi a chê esate dal sît web dulà che tu stâs jentrant.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Siguriti di salvâ la password atuâl par chest sît. La modifiche de password achì no cambiarà chê in { $webTitle }.
+about-logins-add-password-tooltip = Siguriti di salvâ la password atuâl par chest sît.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Non utent
