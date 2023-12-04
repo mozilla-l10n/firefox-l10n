@@ -54,6 +54,13 @@ about-webauthn-auth-option-bioenroll = Biometryske ynskriuwing
 about-webauthn-auth-option-userverificationmgmtpreview = Prototype fan biometryske ynskriuwing (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Tastimming foar biometryske ynskriuwing
 about-webauthn-auth-option-authnrcfg = Autenticatorkonfiguraasje
+about-webauthn-auth-option-uvacfg = Autenticatorkonfiguraasjemachtiging
+about-webauthn-auth-option-credmgmt = Referinsjebehear
+about-webauthn-auth-option-credentialmgmtpreview = Behear fan prototypereferinsjes
+about-webauthn-auth-option-setminpinlength = Minimale pinkoadelingte ynstelle
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential sûnder brûkersferifikaasje
+about-webauthn-auth-option-alwaysuv = Altyd brûkersferifikaasje fereaskje
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Ja
 # Shows when boolean value of an option is False. False should not be translated.
@@ -64,10 +71,23 @@ about-webauthn-auth-option-null = Net stipe
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Konfiguraasjeopdrachten foar leveransiersprototype
+about-webauthn-auth-info-remaining-discoverable-credentials = Restearjende te finen referinsjes
 about-webauthn-auth-info-certifications = Sertifisearringen
+about-webauthn-auth-info-uv-modality = Modaliteit foar brûkersferifikaasje
+about-webauthn-auth-info-preferred-platform-uv-attempts = Ferifikaasjebesykjen fan platfoarmbrûker fan foarkar
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maksimale ôfhinklike partij-ID’s foar ynstelde minimale pinkoadelingte
+about-webauthn-auth-info-max-cred-blob-length = Maksimale blob-lingte referinsje
 about-webauthn-auth-info-firmware-version = Firmwareferzje
+about-webauthn-auth-info-min-pin-length = Minimale lingte pinkoade
+about-webauthn-auth-info-force-pin-change = Wiziging pinkoade forsearje
+about-webauthn-auth-info-max-ser-large-blob-array = Maksimale grutte fan grutte blob-array
 about-webauthn-auth-info-algorithms = Algoritmen
 about-webauthn-auth-info-transports = Transporten
+about-webauthn-auth-info-max-credential-id-length = Maks. lingte referinsje-ID
+about-webauthn-auth-info-max-credential-count-in-list = Maks. tal referinsjes yn list
+about-webauthn-auth-info-pin-protocols = Pinkoadeprotokollen
+about-webauthn-auth-info-max-msg-size = Maks. berjochtgrutte
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Utwreidingen
