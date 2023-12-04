@@ -8,15 +8,21 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Credenziali e password
+about-logins-page-title-name = Password
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
 about-logins-login-filter =
    .placeholder = Cerca nelle credenziali
    .key = F
+about-logins-login-filter2 =
+   .placeholder = Cerca nelle password
+   .key = w
 
 create-new-login-button =
   .title = Inserisci nuove credenziali
+create-login-button =
+  .title = Aggiungi password
 
 fxaccounts-sign-in-text = Ritrova le tue password su tutti i tuoi dispositivi
 fxaccounts-sign-in-sync-button = Accedi per sincronizzare
@@ -44,12 +50,10 @@ about-logins-menu-menuitem-help = Supporto
 login-list =
     .aria-label = Credenziali corrispondenti ai criteri di ricerca
 login-list-count = { $count } credenziali
+login-list-count2 = { $count } password
 
-login-list-filtered-count =
-  { $total ->
-      [one] { $count } di { $total } credenziale
-     *[other] { $count } di { $total } credenziali
-  }
+login-list-filtered-count = { $count } di { $total } credenziali
+login-list-filtered-count2 = { $count } di { $total } password
 
 login-list-sort-label-text = Ordina per:
 login-list-name-option = Nome (A-Z)
@@ -60,10 +64,13 @@ about-logins-login-list-alerts-option = Avvisi
 login-list-last-changed-option = Ultima modifica
 login-list-last-used-option = Ultimo utilizzo
 login-list-intro-title = Credenziali non trovate
+login-list-intro-title2 = Nessuna password salvata
 login-list-intro-description = Le password salvate in { -brand-product-name } verranno visualizzate qui.
 about-logins-login-list-empty-search-title = Credenziali non trovate
+about-logins-login-list-empty-search-title2 = Nessuna password trovata
 about-logins-login-list-empty-search-description = Non ci sono risultati corrispondenti ai criteri di ricerca inseriti.
 login-list-item-title-new-login = Nuove credenziali
+login-list-item-title-new-login2 = Aggiungi password
 login-list-item-subtitle-new-login = Inserisci le credenziali di accesso
 login-list-item-subtitle-missing-username = (nessun nome utente)
 about-logins-list-item-breach-icon =
