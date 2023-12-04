@@ -332,3 +332,13 @@ onboarding-device-migration-title = Heureux de vous revoir !
 onboarding-device-migration-subtitle = Connectez-vous à votre { -fxaccount-brand-name } pour prendre vos marque-pages, mots de passe et historique avec vous sur votre nouvel appareil.
 onboarding-device-migration-subtitle2 = Connectez-vous à votre compte pour récupérer marque-pages, mots de passe et historique de navigation sur votre nouvel appareil.
 onboarding-device-migration-primary-button-label = Se connecter
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Votre protection compte pour nous
+onboarding-easy-setup-security-and-privacy-subtitle = Notre navigateur soutenu par une organisation à but non lucratif empêche les entreprises de vous suivre secrètement sur le Web.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Protégez-vous grâce au chiffrement lorsque vous passez d’un appareil à un autre
+onboarding-mobile-download-security-and-privacy-subtitle = Lorsque la synchronisation est activée, { -brand-short-name } chiffre vos mots de passe, vos marque-pages et bien plus. Et en prime, vous pouvez récupérer des onglets de vos autres appareils.
+onboarding-gratitude-security-and-privacy-subtitle = Merci d’utiliser { -brand-short-name }, soutenu par la Fondation Mozilla. Avec votre soutien, nous nous efforçons de rendre Internet plus sûr et accessible pour tout le monde.
