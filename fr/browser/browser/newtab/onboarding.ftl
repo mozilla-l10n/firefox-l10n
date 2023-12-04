@@ -341,4 +341,6 @@ onboarding-easy-setup-security-and-privacy-subtitle = Notre navigateur soutenu p
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Protégez-vous grâce au chiffrement lorsque vous passez d’un appareil à un autre
 onboarding-mobile-download-security-and-privacy-subtitle = Lorsque la synchronisation est activée, { -brand-short-name } chiffre vos mots de passe, vos marque-pages et bien plus. Et en prime, vous pouvez récupérer des onglets de vos autres appareils.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } est toujours de votre côté
 onboarding-gratitude-security-and-privacy-subtitle = Merci d’utiliser { -brand-short-name }, soutenu par la Fondation Mozilla. Avec votre soutien, nous nous efforçons de rendre Internet plus sûr et accessible pour tout le monde.
