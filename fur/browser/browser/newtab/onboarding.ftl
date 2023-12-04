@@ -332,3 +332,15 @@ onboarding-device-migration-title = Bentornâts!
 onboarding-device-migration-subtitle = Jentre tal to { -fxaccount-brand-name(capitalization: "sentence") } par puartâti daûr i tiei segnelibris, lis passwords e la cronologjie sul to gnûf dispositîf.
 onboarding-device-migration-subtitle2 = Jentre tal to account par puartâ cun te, sul to gnûf dispositîf, i tiei segnelibris, lis passwords e la cronologjie.
 onboarding-device-migration-primary-button-label = Jentre
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Nus plâs tignîti di cont
+onboarding-easy-setup-security-and-privacy-subtitle = Il nestri navigadôr, supuartât di une organizazion cence fins di vuadagn, al bloche in automatic lis societâts che, di scuindon, a cirin di stâti daûr tes tôs ativitâts ator pal web.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Reste cifrât cuant che tu passis di un dispositîf a chel altri
+onboarding-mobile-download-security-and-privacy-subtitle = Une volte completade la sincronizazion, { -brand-short-name } al cifre passwords, segnelibris e altris dâts. Sore, tu puedis recuperâ lis schedis dai tiei altris dispositîfs.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ti pare simpri
+onboarding-gratitude-security-and-privacy-subtitle = Graciis par vê sielt di doprâ { -brand-short-name }, il navigadôr supuartât de Mozilla Foundation. Cul to supuart, o lavorìn par rindi internet plui sigûr e acessibil par ducj.

@@ -710,6 +710,9 @@ sync-signedin-login-failure = Jentre par tornâ a coneti { $email }
 sync-resend-verification =
     .label = Torne invie la verifiche
     .accesskey = d
+sync-verify-account =
+    .label = Verifiche account
+    .accesskey = V
 sync-remove-account =
     .label = Gjave l'account
     .accesskey = G
@@ -1261,6 +1264,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS sore HTTPS
 preferences-doh-description = La risoluzion dai nons di domini (DNS) sore HTTPS e mande lis richiestis pai nons dai dominis midiant une conession cifrade, creant un DNS sigûr e fasint in mût che al sedi plui dificil par altris sogjets viodi i sîts che tu stâs par visitâ.
+preferences-doh-description2 = Il sisteme di risoluzion dai nons di domini (DNS) sore HTTPS al invie lis richiestis pai nons di domini a traviers di une conession cifrade, furnint un DNS sigûr e fasint in mût che al sedi plui dificil scuvierzi i sîts web che tu stâs par visitâ.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Stât: { $status }
@@ -1277,6 +1281,7 @@ preferences-doh-status-disabled = Disativât
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = No atîf ({ $reason })
 preferences-doh-group-message = Ative il DNS sigûr doprant:
+preferences-doh-group-message2 = Ative DNS sore HTTPS doprant:
 preferences-doh-expand-section =
     .tooltiptext = Altris informazions
 preferences-doh-setting-default =

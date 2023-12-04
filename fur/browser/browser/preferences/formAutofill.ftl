@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Impostazions direzions
 address-capture-learn-more-button =
     .label = Plui informazions
+address-capture-open-menu-button =
+    .aria-label = Vierç menù
+address-capture-edit-address-button =
+    .aria-label = Modifiche direzion
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Zonte gnûf recapit
 # The dialog title for editing addresses in browser preferences.
