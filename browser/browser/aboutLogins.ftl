@@ -94,6 +94,11 @@ login-item-edit-button = ਸੋਧੋ
 about-logins-login-item-remove-button = ਹਟਾਓ
 login-item-origin-label = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ
 login-item-tooltip-message = ਪੱਕਾ ਕਰੋ ਕਿ ਇਹ ਉਸ ਵੈੱਬਸਾਈਟ ਦੇ ਸਿਰਨਾਵੇਂ ਨਾਲ ਪੂਰੀ ਤਰ੍ਹਾਂ ਮਿਲਦਾ ਹੈ, ਜਿੱਥੇ ਤੁਸੀਂ ਲਾਗਇਨ ਕਰਦੇ ਹੋ।
+about-logins-origin-tooltip = ਪੱਕਾ ਕਰੋ ਕਿ ਇਹ ਉਸ ਵੈੱਬਸਾਈਟ ਦੇ ਸਿਰਨਾਵੇਂ ਨਾਲ ਪੂਰੀ ਤਰ੍ਹਾਂ ਮਿਲਦਾ ਹੈ, ਜਿੱਥੇ ਤੁਸੀਂ ਲਾਗਇਨ ਕਰਦੇ ਹੋ।
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਆਪਣੇ ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਨੂੰ ਸੰਭਾਲ ਰਹੇ ਹੋ। ਇੱਥੇ ਪਾਸਵਰਡ ਬਦਲਣ ਨਾਲ ਇਸ ਨੂੰ { $webTitle } ਲਈ ਬਦਲਿਆ ਨਹੀਂ ਜਾਂਦਾ ਹੈ।
+about-logins-add-password-tooltip = ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਆਪਣੇ ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਨੂੰ ਸੰਭਾਲ ਰਹੇ ਹੋ।
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ਵਰਤੋਂਕਾਰ ਨਾਂ

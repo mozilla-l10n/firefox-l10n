@@ -279,6 +279,9 @@ quickactions-cmd-plugins = ਪਲੱਗਇਨ
 # Opens the print dialog
 quickactions-print2 = ਸਫ਼਼ਾ ਪਰਿੰਟ ਕਰੋ
 quickactions-cmd-print = ਪਰਿੰਟ ਕਰੋ
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = ਸਫ਼ੇ ਨੂੰ PDF ਵਜੋਂ ਸੰਭਾਲੋ
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = ਨਿੱਜੀ ਵਿੰਡੋ ਖੋਲ੍ਹੋ
 quickactions-cmd-private = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
@@ -348,6 +351,7 @@ identity-connection-secure = ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਹੈ
 identity-connection-failure = ਕਨੈਕਸ਼ਨ ਅਸਫ਼ਲ
 identity-connection-internal = ਇਹ ਸੁਰੱਖਿਅਤ { -brand-short-name } ਸਫ਼ਾ ਹੈ।
 identity-connection-file = ਇਹ ਸਫ਼ਾ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸੰਭਾਲਿਆ ਹੈ।
+identity-connection-associated = ਇਸ ਸਫ਼ੇ ਨੂੰ ਹੋਰ ਸਫ਼ੇ ਤੋਂ ਲੋਡ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।
 identity-extension-page = ਇਸ ਸਫ਼ੇ ਨੂੰ ਇਕਸਟੈਨਸ਼ਨ ਤੋਂ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
 identity-active-blocked = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਦੇ ਕੁਝ ਭਾਗਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹਨ।
 identity-custom-root = ਕਨੈਕਸ਼ਨ ਨੂੰ ਅਜਿਹੇ ਸਰਟੀਫਿਕੇਟ ਜਾਰੀ ਕਰਤੇ ਵਲੋਂ ਤਸਦੀਕ ਕੀਤਾ ਹੈ, ਜਿਸ ਨੂੰ ਮੌਜ਼ੀਲਾ ਵਲੋਂ ਮਾਨਤਾ ਨਹੀਂ ਹੈ।
@@ -568,8 +572,6 @@ urlbar-result-action-search-w-engine = { $engine } ਨਾਲ ਖੋਜੋ
 urlbar-result-action-sponsored = ਸਪੌਂਸਰ ਕੀਤਾ
 urlbar-result-action-switch-tab = ਟੈਬ ਲਈ ਸਵਿੱਚ ਕਰੋ
 urlbar-result-action-visit = ਖੋਲ੍ਹੋ
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = ਤੁਹਾਡੇ ਕਲਿੱਪਬੋਰਡ ਤੋਂ ਖੋਲ੍ਹੇ
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = ਕਲਿੱਪਬੋਰਡ ਤੋਂ ਖੋਲ੍ਹੋ
 # Directs a user to press the Tab key to perform a search with the specified
