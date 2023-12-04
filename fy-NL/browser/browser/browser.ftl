@@ -279,6 +279,9 @@ quickactions-cmd-plugins = ynstekkers
 # Opens the print dialog
 quickactions-print2 = Side ôfdrukke
 quickactions-cmd-print = ôfdrukke
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Side bewarje as PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Priveefinster iepenje
 quickactions-cmd-private = priveenavigaasje
@@ -348,6 +351,7 @@ identity-connection-secure = Ferbining befeilige
 identity-connection-failure = Ferbiningsflater
 identity-connection-internal = Dit is in befeilige { -brand-short-name }-side.
 identity-connection-file = Dizze side is op jo kompjûter bewarre.
+identity-connection-associated = Dizze side is laden fan in oare side út.
 identity-extension-page = Dizze side is laden fan in útwreiding út.
 identity-active-blocked = { -brand-short-name } hat ûnderdielen fan dizze side dy’t net befeilige binne blokkearre.
 identity-custom-root = Ferbining ferifiearre troch in sertifikaatútjouwer dy’t net troch Mozilla werkend wurdt.
@@ -563,8 +567,6 @@ urlbar-result-action-search-w-engine = Sykje mei { $engine }
 urlbar-result-action-sponsored = Sponsore
 urlbar-result-action-switch-tab = Wikselje nei ljepblêd
 urlbar-result-action-visit = Besykje
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Besykje fan jo klamboerd ôf
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Besykje fan klamboerd ôf
 # Directs a user to press the Tab key to perform a search with the specified

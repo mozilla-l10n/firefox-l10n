@@ -94,6 +94,11 @@ login-item-edit-button = Bewurkje
 about-logins-login-item-remove-button = Fuortsmite
 login-item-origin-label = Websiteadres
 login-item-tooltip-message = Soargje derfoar dat dit eksakt oerienkomt mei it adres fan de website wêr’t jo jo oanmelde.
+about-logins-origin-tooltip = Soargje derfoar dat dit eksakt oerienkomt mei it adres fan de website wêr't jo jo oanmelde.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Soargje derfoar dat jo jo aktuele wachtwurd foar dizze website bewarje. It wizigjen fan it wachtwurd hjir wiziget it net by { $webTitle }.
+about-logins-add-password-tooltip = Soargje derfoar dat jo jo aktuele wachtwurd foar dizze website bewarje.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Brûkersnamme

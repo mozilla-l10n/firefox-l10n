@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Slute
     .aria-label = Slute
+firefoxview-empty-state-icon =
+    .alt = Attinsje:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Sa krekt
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -147,6 +149,35 @@ firefoxview-opentabs-focus-tab =
     .title = Wikselje nei dit ljepblêd
 firefoxview-show-more = Mear toane
 firefoxview-show-less = Minder toane
+firefoxview-search-text-box-clear-button =
+    .title = Wiskje
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Skiednis trochsykje
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Koartlyn sluten ljepblêden trochsykje
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Sykje syngronisearre ljepblêden
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Iepen ljepblêden trochsykje
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Sykresultaten foar ‘{ $query }’
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } website
+       *[other] { $count } websites
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Gjin resultaten foar ‘{ $query }’
 firefoxview-sort-history-by-date-label = Sortearje op datum
 firefoxview-sort-history-by-site-label = Sortearje op website
 # Variables:
@@ -206,9 +237,6 @@ firefoxview-import-history-description = Meitsje fan { -brand-short-name } jo fa
 firefoxview-recentlyclosed-empty-header = Te betiid in ljepblêd sluten?
 firefoxview-recentlyclosed-empty-description = Hjir fine jo de ljepblêden dy’t jo koartlyn sluten hawwe, sadat jo elk fan har fluch opnij iepenje kinne.
 firefoxview-recentlyclosed-empty-description-two = Besjoch jo <a data-l10n-name="history-url">navigaasjeskiednis</a> om ljepblêden fan langer lyn te finen.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
