@@ -473,3 +473,5 @@ onboarding-easy-setup-security-and-privacy-title = Rádi vás udržujeme v bezpe
 onboarding-easy-setup-security-and-privacy-subtitle = Náš neziskový prohlížeč pomáhá zabránit společnostem v tajném sledování vašeho prohlížení webu.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Při přecházení mezi zařízeními buďte šifrovaní
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vám kryje záda
