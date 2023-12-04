@@ -466,6 +466,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Skowbalken altyd toane
     .accesskey = o
+browsing-always-underline-links =
+    .label = Keppelingen altyd ûnderstreekje
+    .accesskey = { "" }
 browsing-use-onscreen-keyboard =
     .label = In skermtoetseboerd toane wannear nedich
     .accesskey = k
@@ -706,6 +709,9 @@ sync-signedin-login-failure = Meld jo oan om wer te ferbinen { $email }
 
 sync-resend-verification =
     .label = Ferifikaasje opnij ferstjoere
+    .accesskey = f
+sync-verify-account =
+    .label = Account ferifiearje
     .accesskey = f
 sync-remove-account =
     .label = Account fuortsmite
@@ -1258,6 +1264,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS oer HTTPS
 preferences-doh-description = Domain Name System (DNS) oer HTTPS ferstjoert jo oanfraach foar in domeinnamme fia in fersifere ferbining, wêrtroch in feilige DNS makke wurdt en it foar oaren dreger wurdt om te sjen hokker website jo besykje gean.
+preferences-doh-description2 = Domain Name System (DNS) oer HTTPS ferstjoert jo oanfraach foar in domeinnamme fia in fersifere ferbining, wêrtroch in feilige DNS jûn wurdt en it foar oaren dreger wurdt om te sjen hokker website jo besykje gean.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Steat: { $status }
@@ -1274,6 +1281,7 @@ preferences-doh-status-disabled = Ut
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Net aktyf ({ $reason })
 preferences-doh-group-message = Befeilige DNS ynskeakelje mei:
+preferences-doh-group-message2 = DNS oer HTTPS ynskeakelje fia:
 preferences-doh-expand-section =
     .tooltiptext = Mear ynformaasje
 preferences-doh-setting-default =

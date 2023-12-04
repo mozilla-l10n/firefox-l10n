@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Utskeakelje
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Ynskeakelje
+protections-panel-report-broken-site =
+    .label = Net-wurkjende website melde
+    .title = Net-wurkjende website melde
