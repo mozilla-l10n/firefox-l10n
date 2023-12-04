@@ -48,10 +48,20 @@ about-webauthn-results-cancelled-by-user-error = Flater: bewurking is annulearre
 
 ## Labels
 
+about-webauthn-new-pin-label = Nije pinkoade:
+about-webauthn-repeat-pin-label = Werhelje nije pinkoade:
+about-webauthn-current-pin-label = Aktuele pinkoade:
+about-webauthn-pin-required-label = Fier jo pinkoade yn:
 about-webauthn-credential-list-subsection-title = Referinsjes:
+about-webauthn-credential-list-empty = Gjin referinsjes op apparaat fûn.
+about-webauthn-confirm-deletion-label = Jo geane fuortsmite:
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = Pinkoade ynstelle
+about-webauthn-current-change-pin-button = Pinkoade wizigje
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Referinsjes toane
 about-webauthn-cancel-button = Annulearje
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Fuortsmite
@@ -59,6 +69,9 @@ about-webauthn-delete-button = Fuortsmite
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Brûkersferifikaasje
+about-webauthn-auth-option-up = Brûkersoanwêzichheid
+about-webauthn-auth-option-clientpin = Client-pinkoade
 about-webauthn-auth-option-rk = Ynterne kaai
 about-webauthn-auth-option-plat = Platfoarmapparaat
 # pinUvAuthToken should not be translated.
