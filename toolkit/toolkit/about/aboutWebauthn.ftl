@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Autentiseringsalternativ
 about-webauthn-pin-section-title = PIN-hantering
 about-webauthn-credential-management-section-title = Hantera autentiseringsuppgifter
 about-webauthn-pin-required-section-title = PIN krävs
+about-webauthn-confirm-deletion-section-title = Bekräfta radering
 
 ## Info field texts
 
@@ -53,6 +54,7 @@ about-webauthn-current-pin-label = Aktuell PIN-kod:
 about-webauthn-pin-required-label = Ange din PIN-kod:
 about-webauthn-credential-list-subsection-title = Inloggningsuppgifter:
 about-webauthn-credential-list-empty = Inga inloggningsuppgifter hittades på enheten.
+about-webauthn-confirm-deletion-label = Du är på väg att radera:
 
 ## Buttons
 
