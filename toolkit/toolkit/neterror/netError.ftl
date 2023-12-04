@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Ellenőrizze, hogy a { -brand-short-name 
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a megbízható DNS-feloldónkon keresztül. Ennek ez az oka:
+neterror-dns-not-found-trr-only-reason2 = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a biztonságos DNS-szolgáltatónkon keresztül. Ennek ez az oka:
 neterror-dns-not-found-trr-third-party-warning2 = Folytathatja az alapértelmezett DNS-feloldóval. Előfordulhat azonban, hogy egy harmadik fél láthatja, hogy milyen webhelyeket keres fel.
 neterror-dns-not-found-trr-only-could-not-connect = A { -brand-short-name } nem tudott csatlakozni a következő domainhoz: { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = A következőhöz kapcsolódás a vártnál tovább tartott: { $trrDomain }.
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Váratlan probléma.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a megbízható DNS-feloldónkon keresztül. Ennek ez az oka:
+neterror-dns-not-found-native-fallback-reason2 = A { -brand-short-name } nem tudja megvédeni a webhely címére vonatkozó kérését a biztonságos DNS-szolgáltatónkon keresztül. Ennek ez az oka:
 neterror-dns-not-found-native-fallback-heuristic = A HTTP-n keresztüli DNS le van tiltva a hálózatán.
 neterror-dns-not-found-native-fallback-not-confirmed2 = A { -brand-short-name } nem tudott csatlakozni a következő domainhoz: { $trrDomain }.
 

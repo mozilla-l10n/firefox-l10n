@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Címbeállítások
 address-capture-learn-more-button =
     .label = További tudnivalók
+address-capture-open-menu-button =
+    .aria-label = Menü megnyitása
+address-capture-edit-address-button =
+    .aria-label = Cím szerkesztése
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Új cím hozzáadása
 # The dialog title for editing addresses in browser preferences.

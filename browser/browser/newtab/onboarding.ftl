@@ -331,3 +331,12 @@ onboarding-device-migration-title = Üdvözöljük újra!
 onboarding-device-migration-subtitle = Jelentkezzen be a { -fxaccount-brand-name }jába, hogy könyvjelzőit, jelszavait és előzményeit magával vigye az új eszközén.
 onboarding-device-migration-subtitle2 = Jelentkezzen be a fiókjába, hogy áthozza a könyvjelzőit, jelszavait és előzményeit az új eszközére.
 onboarding-device-migration-primary-button-label = Bejelentkezés
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Szeretjük biztonságban tartani Önt
+onboarding-easy-setup-security-and-privacy-subtitle = A nonprofit szervezet által támogatott böngészőnk segít megakadályozni, hogy a cégek titokban kövessék Önt a weben.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Maradjon titkosítva, amikor az eszközök között vált
+onboarding-gratitude-security-and-privacy-subtitle = Köszönjük, hogy a { -brand-short-name(case: "accusative") } használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára biztonságosabbá, és mindenki számára hozzáférhetőbbé tegyük.

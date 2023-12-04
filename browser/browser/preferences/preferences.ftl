@@ -1264,6 +1264,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = HTTPS feletti DNS
 preferences-doh-description = A HTTPS feletti domainnévrendszer (DNS) a domain nevek lekérését titkosított kapcsolaton keresztül küldi el, biztonságos DNS-t hozva létre, így nehezebbé téve mások számára, hogy lássak, hogy melyik weboldalakat éri el.
+preferences-doh-description2 = A HTTPS feletti domainnévrendszer (DNS) a domain nevek lekérését titkosított kapcsolaton keresztül küldi el, biztonságos DNS-t biztosítva, így nehezebbé téve mások számára, hogy lássak, hogy melyik weboldalakat éri el.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Állapot: { $status }
@@ -1280,6 +1281,7 @@ preferences-doh-status-disabled = Ki
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Nem aktív ({ $reason })
 preferences-doh-group-message = Biztonságos DNS engedélyezése a következővel:
+preferences-doh-group-message2 = HTTPS feletti DNS bekapcsolása a következővel:
 preferences-doh-expand-section =
     .tooltiptext = További információk
 preferences-doh-setting-default =

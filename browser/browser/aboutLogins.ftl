@@ -94,6 +94,7 @@ login-item-edit-button = Szerkesztés
 about-logins-login-item-remove-button = Eltávolítás
 login-item-origin-label = Honlap címe
 login-item-tooltip-message = Győződjön meg róla, hogy ez megegyezik annak a webhelynek a pontos címével, ahová bejelentkezik.
+about-logins-origin-tooltip = Győződjön meg róla, hogy ez megegyezik annak a webhelynek a pontos címével, ahová bejelentkezik.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Felhasználónév

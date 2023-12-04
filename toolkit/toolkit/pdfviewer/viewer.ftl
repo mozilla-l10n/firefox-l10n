@@ -303,6 +303,18 @@ pdfjs-editor-stamp-button =
 pdfjs-editor-stamp-button-label = Képek hozzáadása vagy szerkesztése
 pdfjs-editor-remove-button =
     .title = Eltávolítás
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Rajz eltávolítása
+pdfjs-editor-remove-freetext-button =
+    .title = Szöveg eltávolítása
+pdfjs-editor-remove-stamp-button =
+    .title = Kép eltávolítása
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Szín
 pdfjs-editor-free-text-size-input = Méret
