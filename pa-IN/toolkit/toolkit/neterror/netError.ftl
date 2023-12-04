@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = ਜਾਂਚ ਕਰੋ ਕਿ { -brand-sh
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } ਸਾਡੇ ਭਰੋਸੇਯੋਗ DNS ਹੱਲ਼ ਕਰਨ ਵਾਲੇ ਰਾਹੀਂ ਇਸ ਸਾਈਟ ਦੇ ਸਿਰਨਾਵਾਂ ਲਈ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕਰ ਸਕਦੀ ਹੈ। ਇਸ ਦੇ ਕਾਰਨ ਹਨ:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ਇਸ ਸਾਈਟ ਦੇ ਸਿਰਨਾਵੇਂ ਦੀ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਸਾਡੇ ਸੁਰੱਖਿਅਤ DNS ਪੂਰਕ ਨਾਲ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ। ਕਾਰਨ ਇਹ ਹਨ:
 neterror-dns-not-found-trr-third-party-warning2 = ਤੁਸੀਂ ਆਪਣੇ ਮੂਲ DNS ਹੱਲਕਰਤਾ ਨਾਲ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹੋ। ਪਰ ਤੀਜੀ-ਧਿਰ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੂੰ ਵੇਖ ਸਕਦੀ ਹੈ।
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trrDomain } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੋਵੇਗਾ।
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } ਲਈ ਕਨੈਕਸ਼ਨ ਨੂੰ ਆਸ ਤੋਂ ਵੱਧ ਸਮਾਂ ਲੱਗਾ ਹੈ।
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = ਅਚਾਨਕ ਗਲਤੀ ਆਈ
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ਸਾਡੇ ਭਰੋਸੇਯੋਗ DNS ਹੱਲ਼ ਕਰਨ ਵਾਲੇ ਰਾਹੀਂ ਇਸ ਸਾਈਟ ਦੇ ਸਿਰਨਾਵਾਂ ਲਈ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕਰ ਸਕਦੀ ਹੈ। ਇਸ ਦੇ ਕਾਰਨ ਹਨ:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } ਇਸ ਸਾਈਟ ਦੇ ਸਿਰਨਾਵੇਂ ਦੀ ਤੁਹਾਡੀ ਬੇਨਤੀ ਨੂੰ ਸਾਡੇ ਸੁਰੱਖਿਅਤ DNS ਪੂਰਕ ਨਾਲ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ। ਕਾਰਨ ਇਹ ਹਨ:
 neterror-dns-not-found-native-fallback-heuristic = HTTPS ਰਾਹੀਂ DNS ਨੂੰ ਤੁਹਾਡੇ ਨੈੱਟਵਰਕ ਨੇ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ।
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { $trrDomain } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੋਵੇਗਾ।
 

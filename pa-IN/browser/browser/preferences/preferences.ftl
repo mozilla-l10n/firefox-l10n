@@ -466,6 +466,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = ਹਮੇਸ਼ਾਂ ਸਕਰੋਲ-ਪੱਟੀਆਂ ਵੇਖਾਓ
     .accesskey = o
+browsing-always-underline-links =
+    .label = ਲਿੰਕਾਂ ਦੇ ਹੇਠਾਂ ਹਮੇਸ਼ਾਂ ਲੀਕ ਮਾਰੋ
+    .accesskey = u
 browsing-use-onscreen-keyboard =
     .label = ਜਦੋਂ ਲੋੜ ਹੋਵੇ ਤਾਂ ਟੱਚ ਕੀਬੋਰਡ ਨੂੰ ਵੇਖਾਓ
     .accesskey = k
@@ -707,6 +710,9 @@ sync-signedin-login-failure = { $email } ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕ
 sync-resend-verification =
     .label = ਤਸਦੀਕ ਮੁੜ-ਭੇਜੋ
     .accesskey = d
+sync-verify-account =
+    .label = ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰੋ
+    .accesskey = V
 sync-remove-account =
     .label = ਖਾਤੇ ਨੂੰ ਹਟਾਓ
     .accesskey = R
@@ -1263,6 +1269,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = HTTPS ਉੱਤੇ DNS
 preferences-doh-description = HTTPS ਰਾਹੀਂ ਡੋਮੇਨ ਨੇਮ ਸਿਸਟਮ (DNS) ਤੁਹਾਡੇ ਵਲੋਂ ਮੰਗ ਕੀਤੀ ਡੋਮੇਨ ਦੀ ਬੇਨਤੀ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਕਨੈਕਸ਼ਨ ਰਾਹੀਂ ਭੇਜਦਾ ਹੈ, ਸੁਰੱਖਿਅਤ DNS ਬਣਾਉਂਦਾ ਹੈ ਅਤੇ ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹੋਰਾਂ ਵੱਲੋਂ ਵੇਖਣ ਨੂੰ ਵੱਧ ਔਖਾ ਬਣਾ ਦਿੰਦਾ ਹੈ।
+preferences-doh-description2 = HTTPS ਰਾਹੀਂ ਡੋਮੇਨ ਨੇਮ ਸਿਸਟਮ (DNS) ਤੁਹਾਡੇ ਵਲੋਂ ਮੰਗ ਕੀਤੀ ਡੋਮੇਨ ਦੀ ਬੇਨਤੀ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕੀਤੇ ਕਨੈਕਸ਼ਨ ਰਾਹੀਂ ਭੇਜਦਾ ਹੈ, ਸੁਰੱਖਿਅਤ DNS ਦਿੰਦਾ ਹੈ ਅਤੇ ਇਸ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਜਾ ਰਹੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹੋਰਾਂ ਵੱਲੋਂ ਵੇਖਣ ਨੂੰ ਵੱਧ ਔਖਾ ਬਣਾ ਦਿੰਦਾ ਹੈ।
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = ਹਾਲਤ: { $status }
@@ -1279,6 +1286,7 @@ preferences-doh-status-disabled = ਬੰਦ
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = ਸਰਗਰਮ ਨਹੀਂ ({ $reason })
 preferences-doh-group-message = ਇਹ ਵਰਤ ਕੇ ਸੁਰੱਖਿਅਤ DNS ਸਮਰੱਥ ਕਰੋ:
+preferences-doh-group-message2 = ਇਹ ਵਰਤ ਕੇ HTTPS ‘ਤੇ DNS ਸਮਰੱਥ ਕਰੋ:
 preferences-doh-expand-section =
     .tooltiptext = ਹੋਰ ਜਾਣਕਾਰੀ
 preferences-doh-setting-default =
