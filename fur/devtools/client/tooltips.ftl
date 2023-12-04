@@ -92,3 +92,10 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> e je une proprietât sperimentâl. No je supuartade in chescj navigadôrs:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> e je une proprietât sperimentâl.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Plui informazions</span> su <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Chest seletôr al dopre <strong>:has()</strong> cence vincui, al podarès jessi lent
