@@ -5,10 +5,10 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Pretraži tabove
-
 all-tabs-menu-new-user-context =
     .label = Novi Container tab
-
 all-tabs-menu-hidden-tabs =
     .label = Skriveni tabovi
-
+all-tabs-menu-manage-user-context =
+    .label = Upravljaj kontejnerima
+    .accesskey = o
