@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Gnovis informazions di controlâ
 shopping-message-bar-warning-stale-analysis-button = Controle cumò
-shopping-message-bar-generic-error-title2 = Nissune informazion disponibile in chest moment
-shopping-message-bar-generic-error-message = O stin lavorant par risolvi il probleme. Torne controle ca di pôc.
-shopping-message-bar-warning-not-enough-reviews-title = No son ancjemò vonde recensions
-shopping-message-bar-warning-not-enough-reviews-message2 = A pene che chest prodot al varà plui recensions, o rivarìn a verificâ la lôr cualitât.
-shopping-message-bar-warning-product-not-available-title = Il prodot nol è disponibil
-shopping-message-bar-warning-product-not-available-message2 = Se tu viodis che chest prodot al è di gnûf disponibil, visinus cuntune segnalazion e nô o lavorarìn par verificâ lis recensions.
-shopping-message-bar-warning-product-not-available-button = Segnale che chest prodot al è di gnûf disponibil
-shopping-message-bar-thanks-for-reporting-title = Graciis pe segnalazion!
-shopping-message-bar-thanks-for-reporting-message2 = O varessin di vê informazions su lis recensions di chest prodot dentri di 24 oris. Torne controle plui tart.
-shopping-message-bar-warning-product-not-available-reported-title2 = Informazions disponibilis ca di pôc
-shopping-message-bar-warning-product-not-available-reported-message2 = O varessin di vê informazions su lis recensions di chest prodot dentri di 24 oris. Torne controle plui tart.
 shopping-message-bar-generic-error =
     .heading = Nissune informazion disponibile in chest moment
     .message = O stin lavorant par risolvi il probleme. Torne controle ca di pôc.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = O varessin di vê informazions su lis recensions di chest prodot dentri di 24 oris. Torne controle plui tart.
 shopping-message-bar-analysis-in-progress-title2 = Daûr a verificâ la cualitât recensions
 shopping-message-bar-analysis-in-progress-message2 = Cheste operazion e podarès puartâ vie cirche 60 seconts.
-shopping-message-bar-page-not-supported-title = Impussibil verificâ chestis recensions
-shopping-message-bar-page-not-supported-message = Magari cussì no, ma nol è pussibil verificâ la cualitât des recensions par cualchi gjenar di prodot, come par esempli lis cjartis regâl, trasmissions video, musiche e zûcs.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Daûr a verificâ la cualitât des recensions ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Impussibil verificâ chestis recensions
     .message = Magari cussì no, ma nol è pussibil verificâ la cualitât des recensions par cualchi gjenar di prodot, come par esempli lis cjartis regâl, trasmissions video, musiche e zûcs.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Impostazions
 shopping-settings-recommendations-toggle =
     .label = Mostre anunzis te verifiche recensions
-shopping-settings-recommendations-learn-more = A vignaran mostrâts anunzis ocasionâi pai prodots pertinents. Ducj i anunzis a scugnin sodifâ i nestris standards di cualitât. <a data-l10n-name="review-quality-url">Plui informazions</a>
 shopping-settings-recommendations-learn-more2 = Tu viodarâs anuncis ocasionâi par prodots pertinents. O promovìn dome prodots cun recensions afidabilis. <a data-l10n-name="review-quality-url">Plui informazions</a>
 shopping-settings-opt-out-button = Disative la verifiche recensions
 powered-by-fakespot = Verifiche recensions al è basât su tecnologjie <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = No sai
 shopping-survey-next-button-label = Sucessîf
 shopping-survey-submit-button-label = Invie
 shopping-survey-terms-link = Cundizions di utilizazion dal servizi
-shopping-survey-thanks-message = Graciis di vê condividude la tô opinion.
 shopping-survey-thanks =
     .heading = Graciis di vê condividude la tô opinion.
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Prove “verifiche recensions”
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Prove la nestre vuide pes recensions dai prodots
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Scuvierç trop che lis recensions dai prodots a son afidabilis su <b>{ $currentSite }</b> prime di comprâju. Verifiche recensions, une funzion sperimentâl di { -vendor-short-name }, e je integrade dret in { -brand-product-name } — e funzione ancje su <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name

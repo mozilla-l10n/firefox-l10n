@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Disative
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Ative
+protections-panel-report-broken-site =
+    .label = Segnale problemis cul sît
+    .title = Segnale problemis cul sît
