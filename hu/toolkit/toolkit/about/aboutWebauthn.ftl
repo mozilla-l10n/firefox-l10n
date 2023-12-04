@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Hitelesítő beállításai
 about-webauthn-pin-section-title = PIN-kezelés
 about-webauthn-credential-management-section-title = Hitelesítő adatok kezelése
 about-webauthn-pin-required-section-title = PIN szükséges
+about-webauthn-confirm-deletion-section-title = Törlés megerősítése
 
 ## Info field texts
 
@@ -53,6 +54,7 @@ about-webauthn-current-pin-label = Jelenlegi PIN:
 about-webauthn-pin-required-label = Adja meg a PIN-kódját:
 about-webauthn-credential-list-subsection-title = Hitelesítő adatok:
 about-webauthn-credential-list-empty = Nem találhatók hitelesítő adatok az eszközön.
+about-webauthn-confirm-deletion-label = A következő törlésére készül:
 
 ## Buttons
 

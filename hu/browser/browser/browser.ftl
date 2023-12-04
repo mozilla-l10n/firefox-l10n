@@ -351,6 +351,7 @@ identity-connection-secure = A kapcsolat biztonságos
 identity-connection-failure = Kapcsolódási hiba
 identity-connection-internal = Ez egy biztonságos { -brand-short-name } oldal.
 identity-connection-file = Ez az oldal a számítógépén van tárolva.
+identity-connection-associated = Ez az oldal egy másik oldalról lett betöltve.
 identity-extension-page = Ez az oldal kiegészítőből lett betöltve.
 identity-active-blocked = A { -brand-short-name } blokkolta az oldal néhány nem biztonságos elemét.
 identity-custom-root = A kapcsolatot egy olyan tanúsítványkibocsátó igazolta, amelyet a Mozilla nem ismeri fel.
