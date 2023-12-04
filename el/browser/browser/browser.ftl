@@ -351,6 +351,7 @@ identity-connection-secure = Ασφαλής σύνδεση
 identity-connection-failure = Αποτυχία σύνδεσης
 identity-connection-internal = Αυτή είναι μια ασφαλής σελίδα του { -brand-short-name }.
 identity-connection-file = Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.
+identity-connection-associated = Αυτή η σελίδα φορτώνεται από άλλη σελίδα.
 identity-extension-page = Αυτή η σελίδα έχει φορτωθεί από μια επέκταση.
 identity-active-blocked = Το { -brand-short-name } έχει αποκλείσει επισφαλή τμήματα αυτής της σελίδας.
 identity-custom-root = Η σύνδεση επαληθεύτηκε από έναν εκδότη πιστοποιητικών που δεν αναγνωρίζεται από τη Mozilla.
