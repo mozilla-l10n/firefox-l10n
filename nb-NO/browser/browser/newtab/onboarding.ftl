@@ -336,3 +336,9 @@ onboarding-device-migration-primary-button-label = Logg inn
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Vi beskytter deg gjerne
+onboarding-easy-setup-security-and-privacy-subtitle = Vår ideelle nettleser forhindrer selskaper i å spore aktiviteten din i hemmelighet på nettet.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Krypter dataene dine når du arbeider på tvers av enheter
+onboarding-mobile-download-security-and-privacy-subtitle = Når du er synkronisert, krypterer { -brand-short-name } passordene, bokmerkene og mer. I tillegg kan du hente faner fra de andre enhetene dine.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } passer på deg
