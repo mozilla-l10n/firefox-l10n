@@ -102,6 +102,11 @@ login-item-edit-button = Golygu
 about-logins-login-item-remove-button = Tynnu
 login-item-origin-label = Cyfeiriad Gwefan
 login-item-tooltip-message = Gwnewch yn siŵr fod hyn yn cyfateb i union gyfeiriad y wefan lle rydych yn mewngofnodi.
+about-logins-origin-tooltip = Gwnewch yn siŵr fod hwn yn cyfateb i union gyfeiriad y wefan lle rydych yn mewngofnodi.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Gwnewch yn siŵr eich bod yn cadw'ch cyfrinair cyfredol ar gyfer y wefan hon. Nid yw newid y cyfrinair yma yn ei newid yn { $webTitle }.
+about-logins-add-password-tooltip = Gwnewch yn siŵr eich bod yn cadw'ch cyfrinair cyfredol ar gyfer y wefan hon.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Enw Defnyddiwr

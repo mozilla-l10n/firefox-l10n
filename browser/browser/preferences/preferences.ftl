@@ -1280,6 +1280,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS dros HTTPS
 preferences-doh-description = Mae System Enw Parth (DNS) dros HTTPS yn anfon eich cais am enw parth trwy gysylltiad wedi'i amgryptio, gan greu DNS diogel a'i gwneud hi'n anoddach i eraill weld pa wefan rydych chi ar fin mynd iddi.
+preferences-doh-description2 = Mae System Enw Parth (DNS) dros HTTPS yn anfon eich cais am enw parth trwy gysylltiad wedi'i amgryptio, gan greu DNS diogel a'i gwneud hi'n anoddach i eraill weld pa wefan rydych chi ar fin mynd iddi.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Statws: { $status }
@@ -1296,6 +1297,7 @@ preferences-doh-status-disabled = Diffodd
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Ddim yn weithredol ( { $reason } )
 preferences-doh-group-message = Galluogi DNS diogel gan ddefnyddio:
+preferences-doh-group-message2 = Galluogi DNS dros HTTPS
 preferences-doh-expand-section =
     .tooltiptext = Rhagor o wybodaeth
 preferences-doh-setting-default =

@@ -355,6 +355,7 @@ identity-connection-secure = Cysylltiad yn ddiogel
 identity-connection-failure = Methiant cysylltiad
 identity-connection-internal = Mae hon yn dudalen { -brand-short-name } diogel.
 identity-connection-file = Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.
+identity-connection-associated = Mae'r dudalen hon wedi'i llwytho o dudalen arall.
 identity-extension-page = Mae'r dudalen wedi ei llwytho o estyniad.
 identity-active-blocked = Mae { -brand-short-name } wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.
 identity-custom-root = Dilyswyd y cysylltiad gan gyhoeddwr tystysgrif nad yw'n cael ei gydnabod gan Mozilla.

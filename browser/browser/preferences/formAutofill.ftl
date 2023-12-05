@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Gosodiadau cyfeiriad
 address-capture-learn-more-button =
     .label = Darllen rhagor
+address-capture-open-menu-button =
+    .aria-label = Agor dewislen
+address-capture-edit-address-button =
+    .aria-label = Golygu cyfeiriad
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Ychwanegu Cyfeiriad Newydd
 # The dialog title for editing addresses in browser preferences.

@@ -332,3 +332,15 @@ onboarding-device-migration-title = Croeso nôl
 onboarding-device-migration-subtitle = Mewngofnodwch i'ch { -fxaccount-brand-name(capitalization: "sentence") } i ddod â'ch nodau tudalen, cyfrineiriau a hanes gyda chi ar eich dyfais newydd.
 onboarding-device-migration-subtitle2 = Mewngofnodwch i'ch cyfrif i ddod â'ch nodau tudalen, cyfrineiriau, a hanes gyda chi ar eich dyfais newydd.
 onboarding-device-migration-primary-button-label = Mewngofnodi
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Rydyn ni wrth ein bodd yn eich cadw chi’n ddiogel
+onboarding-easy-setup-security-and-privacy-subtitle = Mae ein porwr gan gorff dim-er-elw'n atal cwmnïau rhag eich dilyn yn gyfrinachol o amgylch y we.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Cadwch wedi’ch amgryptio pan fyddwch chi’n symud rhwng dyfeisiau
+onboarding-mobile-download-security-and-privacy-subtitle = Pan fyddwch wedi'ch cydweddu, mae { -brand-short-name } yn amgryptio eich cyfrineiriau, nodau tudalen a mwy. Hefyd, gallwch fachu tabiau o'ch dyfeisiau eraill.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = Mae { -brand-short-name } yn eich cefnogi
+onboarding-gratitude-security-and-privacy-subtitle = Diolch am ddefnyddio { -brand-short-name }, gan y Mozilla Foundation. Gyda'ch cefnogaeth chi, rydyn ni'n gweithio i wneud y rhyngrwyd yn fwy agored, hygyrch, ac yn well i bawb.

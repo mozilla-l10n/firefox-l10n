@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Cau
     .aria-label = Cau
+firefoxview-empty-state-icon =
+    .alt = Sylw:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Newydd ddigwydd
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -155,6 +157,12 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Chwilio tabiau a gaewyd yn ddiweddar
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Chwilio tabiau wedi'u cydweddu
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Chwilio tabiau agored
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
