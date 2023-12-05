@@ -10,7 +10,6 @@ protocolhandler-mailto-os-handler-no-button = Non adesso
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
-protocolhandler-mailto-handler-notificationbox = Aprire link a indirizzi email con { $url }?
 protocolhandler-mailto-handler-notificationbox-always = Aprire sempre i link a indirizzi email con { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } è ora il sito predefinito per la gestione dei link che inviano email.
 
