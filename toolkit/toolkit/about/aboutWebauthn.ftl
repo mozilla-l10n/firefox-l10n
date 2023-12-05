@@ -106,9 +106,17 @@ about-webauthn-auth-info-vendor-prototype-config-commands = Gyártó prototípus
 about-webauthn-auth-info-remaining-discoverable-credentials = Fennmaradó felfedezhető hitelesítő adatok
 about-webauthn-auth-info-certifications = Tanúsítványok
 about-webauthn-auth-info-uv-modality = Felhasználó-ellenőrzés módozata
+about-webauthn-auth-info-preferred-platform-uv-attempts = Platform felhasználó-ellenőrzési kísérleteinek előnyben részesített száma
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = A függő felek azonosítóinak legnagyobb száma a megadott legrövidebb PIN-kódhosszhoz
+about-webauthn-auth-info-max-cred-blob-length = A hitelesítő adatblobok legnagyobb hossza
 about-webauthn-auth-info-firmware-version = Firmware verziója
 about-webauthn-auth-info-min-pin-length = PIN-kód minimális hossza
+about-webauthn-auth-info-force-pin-change = PIN-kód módosításának kényszerítése
+about-webauthn-auth-info-max-ser-large-blob-array = A nagy blobtömg legnagyobb mérete
 about-webauthn-auth-info-algorithms = Algoritmusok
+about-webauthn-auth-info-transports = Átviteli módok
+about-webauthn-auth-info-max-credential-id-length = A hitelesítő azonosítók legnagyobb hossza
+about-webauthn-auth-info-max-credential-count-in-list = Hitelesítő adatok legnagyobb száma a listában
 about-webauthn-auth-info-pin-protocols = PIN protokollok
 about-webauthn-auth-info-max-msg-size = Legnagyobb üzenetméret
 # AAGUID should not be translated.
