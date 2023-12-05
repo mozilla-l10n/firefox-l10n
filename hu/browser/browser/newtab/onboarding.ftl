@@ -339,4 +339,7 @@ onboarding-easy-setup-security-and-privacy-title = Szeretjük biztonságban tart
 onboarding-easy-setup-security-and-privacy-subtitle = A nonprofit szervezet által támogatott böngészőnk segít megakadályozni, hogy a cégek titokban kövessék Önt a weben.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Maradjon titkosítva, amikor az eszközök között vált
+onboarding-mobile-download-security-and-privacy-subtitle = Ha befejeződik a szinkronizálás, akkor a { -brand-short-name } titkosítja jelszavait, könyvjelzőit és egyebeit. Továbbá átvehet lapokat a többi eszközéről.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = Számíthat a { -brand-short-name }ra
 onboarding-gratitude-security-and-privacy-subtitle = Köszönjük, hogy a { -brand-short-name(case: "accusative") } használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára biztonságosabbá, és mindenki számára hozzáférhetőbbé tegyük.
