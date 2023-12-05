@@ -331,3 +331,8 @@ onboarding-device-migration-title = Καλώς ορίσατε και πάλι!
 onboarding-device-migration-subtitle = Συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας για να έχετε μαζί σας τους σελιδοδείκτες, τους κωδικούς πρόσβασης και το ιστορικό σας στη νέα σας συσκευή.
 onboarding-device-migration-subtitle2 = Συνδεθείτε στον λογαριασμό σας για να μεταφέρετε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και το ιστορικό σας στη νέα σας συσκευή.
 onboarding-device-migration-primary-button-label = Σύνδεση
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Διατηρήστε την κρυπτογράφηση κατά την εναλλαγή των συσκευών

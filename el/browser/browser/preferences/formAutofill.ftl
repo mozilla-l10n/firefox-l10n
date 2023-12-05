@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Ρυθμίσεις διεύθυνσης
 address-capture-learn-more-button =
     .label = Μάθετε περισσότερα
+address-capture-open-menu-button =
+    .aria-label = Άνοιγμα μενού
+address-capture-edit-address-button =
+    .aria-label = Επεξεργασία διεύθυνσης
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Προσθήκη νέας διεύθυνσης
 # The dialog title for editing addresses in browser preferences.
