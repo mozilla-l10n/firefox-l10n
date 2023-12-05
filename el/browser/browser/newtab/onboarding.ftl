@@ -336,3 +336,4 @@ onboarding-device-migration-primary-button-label = Σύνδεση
 
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Διατηρήστε την κρυπτογράφηση κατά την εναλλαγή των συσκευών
+onboarding-mobile-download-security-and-privacy-subtitle = Όταν κάνετε συγχρονισμό, το { -brand-short-name } κρυπτογραφεί τους κωδικούς πρόσβασης, τους σελιδοδείκτες σας και πολλά άλλα. Επιπλέον, μπορείτε να μεταφέρετε καρτέλες από τις άλλες συσκευές σας.

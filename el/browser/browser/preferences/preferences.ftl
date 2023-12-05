@@ -1262,9 +1262,9 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
-preferences-doh-header = DNS over HTTPS
-preferences-doh-description = Το DNS (Domain Name System) over HTTPS στέλνει το αίτημά σας για όνομα τομέα μέσω κρυπτογραφημένης σύνδεσης, δημιουργώντας ένα ασφαλές DNS και δυσκολεύοντας τους άλλους να δουν σε ποιον ιστότοπο πρόκειται να αποκτήσετε πρόσβαση.
-preferences-doh-description2 = Το DNS (Domain Name System) over HTTPS στέλνει το αίτημά σας για όνομα τομέα μέσω κρυπτογραφημένης σύνδεσης, παρέχοντας ένα ασφαλές DNS και δυσκολεύοντας τους άλλους να δουν σε ποιον ιστότοπο πρόκειται να αποκτήσετε πρόσβαση.
+preferences-doh-header = DNS μέσω HTTPS
+preferences-doh-description = Το DNS (Domain Name System) μέσω HTTPS στέλνει το αίτημά σας για όνομα τομέα μέσω κρυπτογραφημένης σύνδεσης, δημιουργώντας ένα ασφαλές DNS και δυσκολεύοντας τους άλλους να δουν σε ποιον ιστότοπο πρόκειται να αποκτήσετε πρόσβαση.
+preferences-doh-description2 = Το DNS (Domain Name System) μέσω HTTPS στέλνει το αίτημά σας για όνομα τομέα μέσω κρυπτογραφημένης σύνδεσης, παρέχοντας ένα ασφαλές DNS και δυσκολεύοντας τους άλλους να δουν σε ποιον ιστότοπο πρόκειται να αποκτήσετε πρόσβαση.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Κατάσταση: { $status }
@@ -1281,6 +1281,7 @@ preferences-doh-status-disabled = Ανενεργό
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Μη ενεργό ({ $reason })
 preferences-doh-group-message = Ενεργοποίηση ασφαλούς DNS με:
+preferences-doh-group-message2 = Ενεργοποίηση DNS μέσω HTTPS χρησιμοποιώντας:
 preferences-doh-expand-section =
     .tooltiptext = Περισσότερες πληροφορίες
 preferences-doh-setting-default =
