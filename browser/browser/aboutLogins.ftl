@@ -95,6 +95,10 @@ about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Webstedets adresse
 login-item-tooltip-message = Kontrollér at dette er adressen på det websted, hvor du logger ind.
 about-logins-origin-tooltip = Kontrollér at dette er adressen på det websted, hvor du logger ind.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Sørg for at gemme din aktuelle adgangsode til dette websted. At ændre adgangskoden her ændrer den ikke på { $webTitle }.
+about-logins-add-password-tooltip = Sørg for at gemme din aktuelle adgangskode til dette websted.
 login-item-origin =
     .placeholder = https://www.eksempel.dk
 login-item-username-label = Brugernavn
