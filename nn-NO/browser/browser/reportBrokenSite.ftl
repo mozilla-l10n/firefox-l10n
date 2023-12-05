@@ -9,6 +9,7 @@ report-broken-site-panel-reason-adblockers =
     .label = Annonseblokkering
 report-broken-site-panel-reason-other =
     .label = Noko anna
+report-broken-site-panel-description-optional-label = Beskriv problemet (valfritt)
 report-broken-site-panel-send-more-info-link = Send meir informasjon
 report-broken-site-panel-button-cancel =
     .label = Avbryt
