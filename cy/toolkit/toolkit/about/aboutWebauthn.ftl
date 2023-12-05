@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Dewisiadau dilysydd
 about-webauthn-pin-section-title = Rheoli PIN
 about-webauthn-credential-management-section-title = Rheoli manylion
 about-webauthn-pin-required-section-title = Mae angen PIN
+about-webauthn-confirm-deletion-section-title = Cadarnhau dileu
 
 ## Info field texts
 
@@ -57,6 +58,7 @@ about-webauthn-current-pin-label = Y PIN cyfredol:
 about-webauthn-pin-required-label = Rhowch eich PIN:
 about-webauthn-credential-list-subsection-title = Manylion:
 about-webauthn-credential-list-empty = Dim manylion adnabod ar y ddyfais.
+about-webauthn-confirm-deletion-label = Rydych ar fin dileu:
 
 ## Buttons
 
