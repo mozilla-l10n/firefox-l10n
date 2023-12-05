@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Επιλογές ελέγχου ταυ
 about-webauthn-pin-section-title = Διαχείριση PIN
 about-webauthn-credential-management-section-title = Διαχείριση διαπιστευτηρίων
 about-webauthn-pin-required-section-title = Απαιτείται PIN
+about-webauthn-confirm-deletion-section-title = Επιβεβαίωση διαγραφής
 
 ## Info field texts
 
@@ -53,6 +54,7 @@ about-webauthn-current-pin-label = Τρέχον PIN:
 about-webauthn-pin-required-label = Εισαγάγετε το PIN σας:
 about-webauthn-credential-list-subsection-title = Διαπιστευτήρια:
 about-webauthn-credential-list-empty = Δεν βρέθηκαν διαπιστευτήρια στη συσκευή.
+about-webauthn-confirm-deletion-label = Πρόκειται να διαγράψετε:
 
 ## Buttons
 

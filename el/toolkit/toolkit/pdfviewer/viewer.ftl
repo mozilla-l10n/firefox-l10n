@@ -303,6 +303,18 @@ pdfjs-editor-stamp-button =
 pdfjs-editor-stamp-button-label = Προσθήκη ή επεξεργασία εικόνων
 pdfjs-editor-remove-button =
     .title = Αφαίρεση
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Αφαίρεση σχεδίου
+pdfjs-editor-remove-freetext-button =
+    .title = Αφαίρεση κειμένου
+pdfjs-editor-remove-stamp-button =
+    .title = Αφαίρεση εικόνας
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Χρώμα
 pdfjs-editor-free-text-size-input = Μέγεθος
