@@ -148,7 +148,7 @@ fx100-thank-you-hero-text =
     100
     Aguyje
     <span data-l10n-name="zap">Ndéve</span>
-fx100-thank-you-subtitle = ¡Ore ñemyasãi 100! Aguyje orepytyvõ haguére rojapóvo Ñanduti iporã ha hesãivéva.
+fx100-thank-you-subtitle = ¡Ore ñemoasãi 100! Aguyje orepytyvõ haguére rojapóvo Ñanduti iporã ha hesãivéva.
 fx100-thank-you-pin-primary-button-label =
     { PLATFORM() ->
         [macos] Ereko { -brand-short-name } Dock ndive
@@ -157,9 +157,9 @@ fx100-thank-you-pin-primary-button-label =
 fx100-upgrade-thanks-header = 100 Aguyje
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
-fx100-upgrade-thank-you-body = Ore ñemyasãi 100 { -brand-short-name } rehegua. Aguyje <em>ndéve</em> orepytyvõ haguére rojapóvo Ñanduti iporã ha hesãivéva.
+fx100-upgrade-thank-you-body = Ore ñemoasãi 100 { -brand-short-name } rehegua. Aguyje <em>ndéve</em> orepytyvõ haguére rojapóvo Ñanduti iporã ha hesãivéva.
 # Message shown with either a pin-to-taskbar or set-default button.
-fx100-upgrade-thanks-keep-body = ¡Ore ñemyasãi 100! Aguyje reime haguére ore rekohápe. Eguereko { -brand-short-name } nde ykére ouvétava 100 ndiveguápe.
+fx100-upgrade-thanks-keep-body = ¡Ore ñemoasãi 100! Aguyje reime haguére ore rekohápe. Eguereko { -brand-short-name } nde ykére ouvétava 100 ndiveguápe.
 mr2022-onboarding-secondary-skip-button-label = Ehejánte kóva
 
 ## MR2022 New User Easy Setup screen strings
@@ -332,3 +332,6 @@ onboarding-device-migration-title = ¡Eg̃uahẽporã jey!
 onboarding-device-migration-subtitle = Emoñepyrũ tembiapo { -fxaccount-brand-name(capitalization: "sentence") } eguerujey hag̃ua techaukaha, ñe’ẽñemi ha tembiasakue mba’e’oka pyahúpe.
 onboarding-device-migration-subtitle2 = Eñepyrũ tembiapo ne mba’etépe eru hag̃ua nde rechaukaha, ñe’ẽñemi ha tembiasakue ne mba’e’oka pyahúpe.
 onboarding-device-migration-primary-button-label = Eñepyrũ tembiapo
+
+## The following screens have been updated to use security and privacy focused strings:
+

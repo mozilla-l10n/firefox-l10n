@@ -174,7 +174,7 @@ newtab-label-source-read-time = { $source } · { $timeToRead } min
 
 newtab-section-menu-remove-section = Emboguete vore
 newtab-section-menu-collapse-section = Embopytupa vore
-newtab-section-menu-expand-section = Emyasãi vore
+newtab-section-menu-expand-section = Emoasãi vore
 newtab-section-menu-manage-section = Eñangareko vorére
 newtab-section-menu-manage-webext = Emongu’e jepysokue
 newtab-section-menu-add-topsite = Embojuaju Tenda ojeikeveha
@@ -188,7 +188,7 @@ newtab-section-menu-privacy-notice = Marandu’i ñemiguáva
 newtab-section-collapse-section-label =
     .aria-label = Emonichĩ vore
 newtab-section-expand-section-label =
-    .aria-label = Emyasãi vore
+    .aria-label = Emoasãi vore
 
 ## Section Headers.
 

@@ -36,7 +36,7 @@ app-basics-title = Tembiporu’i ñemboheko ypy
 app-basics-name = Téra
 app-basics-version = Peteĩchagua
 app-basics-build-id = ID jejapo
-app-basics-distribution-id = Ñemyasãi ID
+app-basics-distribution-id = Ñemoasãi ID
 app-basics-update-channel = Ñembohekopyahu mbohapeha
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -160,7 +160,7 @@ audio-backend = Mba’epu ñangarekoha huguapeguáva
 max-audio-channels = Max mbohapeha
 sample-rate = Techaukarã py’ỹigua ojererohorýva
 roundtrip-latency = Latencia ou ha ohóva (ojeréva ypykuete)
-media-title = Marandu myasãiha
+media-title = Marandu moasãiha
 media-output-devices-title = Mba’e’oka osẽha
 media-input-devices-title = Mba’e’oka oikeha
 media-device-name = Téra

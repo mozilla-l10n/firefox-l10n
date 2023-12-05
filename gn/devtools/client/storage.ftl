@@ -88,7 +88,7 @@ storage-tree-labels-extension-storage = Jepysokue ñembyaty
 # Tooltip for the button that collapses the right panel in the
 # storage UI when the panel is closed.
 storage-expand-pane =
-    .title = Ta’ãngarupa myasãi
+    .title = Ta’ãngarupa moasãi
 # Tooltip for the button that collapses the right panel in the
 # storage UI when the panel is open.
 storage-collapse-pane =
