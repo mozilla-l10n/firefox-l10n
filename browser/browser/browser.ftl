@@ -351,6 +351,7 @@ identity-connection-secure = Forbindelsen er sikker
 identity-connection-failure = Forbindelsesfejl
 identity-connection-internal = Dette er en sikker { -brand-short-name }-side.
 identity-connection-file = Denne side er gemt på din computer.
+identity-connection-associated = Denne side er indlæst fra en anden side.
 identity-extension-page = Denne side er indlæst fra en udvidelse.
 identity-active-blocked = { -brand-short-name } har blokeret usikre dele af denne side.
 identity-custom-root = Forbindelsen blev bekræftet af en certifikatudsteder, som Mozilla ikke kender.
