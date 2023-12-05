@@ -94,6 +94,7 @@ login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Nettstadadresse
 login-item-tooltip-message = Forsikre deg om at dette samsvarar med den eksakte adressa til nettstaden der du logar inn.
+about-logins-origin-tooltip = Forsikre deg om at dette samsvarar med den eksakte adressa til nettstaden der du logar inn.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Brukarnamn
