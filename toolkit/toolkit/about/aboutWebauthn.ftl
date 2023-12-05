@@ -5,6 +5,9 @@
 
 ### Localization for about:webauthn, a security token management page
 
+# Page title
+# 'WebAuthn' is a protocol name and should not be translated
+about-webauthn-page-title = Om WebAuthn
 
 ## Section titles
 
