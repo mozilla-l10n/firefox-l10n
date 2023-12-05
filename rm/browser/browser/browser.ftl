@@ -279,6 +279,9 @@ quickactions-cmd-plugins = plug-ins
 # Opens the print dialog
 quickactions-print2 = Stampar la pagina
 quickactions-cmd-print = stampar
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Memorisar la pagina sco PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Avrir ina fanestra en il modus privat
 quickactions-cmd-private = modus privat
@@ -560,8 +563,6 @@ urlbar-result-action-search-w-engine = Tschertgar cun { $engine }
 urlbar-result-action-sponsored = Sponsurisà
 urlbar-result-action-switch-tab = Midar al tab
 urlbar-result-action-visit = Visitar
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Visitar l'adressa da l'archiv provisoric
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Visitar l'URL da l'archiv provisoric
 # Directs a user to press the Tab key to perform a search with the specified

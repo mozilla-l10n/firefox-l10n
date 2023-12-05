@@ -204,6 +204,8 @@ cfr-cbh-confirm-button = Refusar las bandieras da cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Betg ussa
     .accesskey = B
+cookie-banner-blocker-cfr-header = { -brand-short-name } ha gist bloccà cookies per tai
+cookie-banner-blocker-cfr-body = Nus refusain automaticamain blers pop-ups da cookies per render difficil a websites da ta fastizar.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -237,6 +239,7 @@ device-migration-fxa-spotlight-header = Utiliseschas ti in apparat pli vegl?
 device-migration-fxa-spotlight-body = Fa copias da segirezza da tias datas per far la segira che ti na perdas betg infurmaziuns impurtantas sco segnapaginas e pleds-clav – specialmain sche ti midas ad in nov apparat.
 device-migration-fxa-spotlight-primary-button = Co far copias da segirezza da mias datas
 device-migration-fxa-spotlight-link = Ma regurdar pli tard
+device-migration-fxa-spotlight-heavy-user-header = N'emblida betg da far copias da segirezza da tias datas
 device-migration-fxa-spotlight-getting-new-device-header-2 = In nov apparat en tes futur?
 
 ## Set as Default PDF Reader Infobar

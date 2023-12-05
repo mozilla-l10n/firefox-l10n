@@ -147,6 +147,27 @@ firefoxview-opentabs-focus-tab =
     .title = Midar a quest tab
 firefoxview-show-more = Mussar dapli
 firefoxview-show-less = Mussar damain
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Tschertgar en la cronologia
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Tschertgar en ils tabs serrads dacurt
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Resultats da tschertga per «{ $query }»
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } website
+       *[other] { $count } websites
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Nagins resultats per «{ $query }»
 firefoxview-sort-history-by-date-label = Zavrar tenor data
 firefoxview-sort-history-by-site-label = Zavrar tenor website
 # Variables:
