@@ -342,3 +342,4 @@ onboarding-mobile-download-security-and-privacy-title = Krypter dataene dine nå
 onboarding-mobile-download-security-and-privacy-subtitle = Når du er synkronisert, krypterer { -brand-short-name } passordene, bokmerkene og mer. I tillegg kan du hente faner fra de andre enhetene dine.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } passer på deg
+onboarding-gratitude-security-and-privacy-subtitle = Takk for at du bruker { -brand-short-name }, støttet av Mozilla Foundation. Med din støtte jobber vi for å gjøre internett tryggere og mer tilgjengelig for alle.
