@@ -332,3 +332,12 @@ onboarding-device-migration-title = Yeniden hoş geldiniz!
 onboarding-device-migration-subtitle = Yer imlerinizi, parolalarınızı ve geçmişinizi yeni cihazınıza taşımak için { -fxaccount-brand-name(capitalization: "sentence") }nıza giriş yapın.
 onboarding-device-migration-subtitle2 = Yer imlerinizi, parolalarınızı ve geçmişinizi yeni cihazınızda yanınızda taşımak için hesabınıza giriş yapın.
 onboarding-device-migration-primary-button-label = Giriş yap
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Sizi güvende tutmayı seviyoruz
+onboarding-easy-setup-security-and-privacy-subtitle = Kâr amacı gütmeyen tarayıcımız, şirketlerin sizi web’de gizlice takip etmesini engelliyor.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Cihazlarınız arasında güvenle geçiş yapın
+onboarding-gratitude-security-and-privacy-subtitle = Mozilla Vakfı tarafından geliştirilen { -brand-short-name } tarayıcısını kullandığınız için teşekkür ederiz. Desteğinizle interneti herkes için daha güvenli ve daha erişilebilir bir yere dönüştürüyoruz.

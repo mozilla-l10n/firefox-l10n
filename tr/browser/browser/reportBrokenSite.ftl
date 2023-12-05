@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Bozuk siteyi rapor et
 report-broken-site-panel-header =
     .label = Bozuk siteyi rapor et
     .title = Bozuk siteyi rapor et
+report-broken-site-panel-intro = { -brand-product-name } tarayıcısını herkes için daha iyi hale getirmemize yardım edin. { -vendor-short-name }, gönderdiğiniz bilgileri web sitesi sorunlarını çözmek için kullanır.
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = Bozuk olan nedir?
 report-broken-site-panel-reason-optional-label = Bozuk olan nedir? (isteğe bağlı)
