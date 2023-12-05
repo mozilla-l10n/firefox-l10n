@@ -148,18 +148,18 @@ main-context-menu-save-link-to-pocket =
 ## are mutually exclusive.
 
 main-context-menu-copy-email =
-    .label = Скопировать адрес электронной почты
+    .label = Копировать адрес электронной почты
     .accesskey = а
 main-context-menu-copy-phone =
-    .label = Скопировать номер телефона
+    .label = Копировать номер телефона
     .accesskey = н
 main-context-menu-copy-link-simple =
-    .label = Скопировать ссылку
+    .label = Копировать ссылку
     .accesskey = ы
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
-    .label = Скопировать ссылку без параметров отслеживания
+    .label = Копировать ссылку без параметров отслеживания
     .accesskey = н
 
 ## Media (video/audio) controls
@@ -233,16 +233,16 @@ main-context-menu-video-view-new-tab =
     .label = Открыть видео в новой вкладке
     .accesskey = и
 main-context-menu-image-copy =
-    .label = Скопировать изображение
+    .label = Копировать изображение
     .accesskey = ж
 main-context-menu-image-copy-link =
-    .label = Скопировать ссылку на изображение
+    .label = Копировать ссылку на изображение
     .accesskey = б
 main-context-menu-video-copy-link =
-    .label = Скопировать ссылку на видео
+    .label = Копировать ссылку на видео
     .accesskey = в
 main-context-menu-audio-copy-link =
-    .label = Скопировать ссылку на аудио
+    .label = Копировать ссылку на аудио
     .accesskey = д
 main-context-menu-image-save-as =
     .label = Сохранить изображение как…
@@ -254,7 +254,7 @@ main-context-menu-image-set-image-as-background =
     .label = Сделать фоновым рисунком рабочего стола…
     .accesskey = у
 main-context-menu-image-copy-text =
-    .label = Скопировать текст из изображения
+    .label = Копировать текст из изображения
     .accesskey = е
 main-context-menu-image-info =
     .label = Информация об изображении

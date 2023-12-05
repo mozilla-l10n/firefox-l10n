@@ -131,7 +131,7 @@ newtab-menu-bookmark = Добавить в закладки
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
-newtab-menu-copy-download-link = Скопировать ссылку на загрузку
+newtab-menu-copy-download-link = Копировать ссылку на загрузку
 newtab-menu-go-to-download-page = Перейти на страницу загрузки
 newtab-menu-remove-download = Удалить из истории
 
