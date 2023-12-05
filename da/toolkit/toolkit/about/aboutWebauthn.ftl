@@ -53,6 +53,7 @@ about-webauthn-confirm-deletion-label = Du er ved at slette:
 ## Buttons
 
 about-webauthn-current-set-pin-button = Indstil pinkode
+about-webauthn-current-change-pin-button = Skift pinkode
 about-webauthn-cancel-button = Annuller
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Slet
@@ -66,6 +67,15 @@ about-webauthn-auth-option-clientpin = Klient-pinkode
 about-webauthn-auth-option-plat = Platformsenhed
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Kommando-tilladelser (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Ingen MakeCredential- / GetAssertion-tilladelser med klient-pinkode
+about-webauthn-auth-option-largeblobs = Store blobs
+about-webauthn-auth-option-ep = Virksomheds-attestering
+about-webauthn-auth-option-bioenroll = Biometrisk registrering
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototype for biometrisk registrering (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Tilladelse for biometrisk registrering
+about-webauthn-auth-option-setminpinlength = Indstil mindste længde for pinkoder
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 
