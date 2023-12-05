@@ -5,10 +5,15 @@
 
 ### Localization for about:webauthn, a security token management page
 
+# Page title
+# 'WebAuthn' is a protocol name and should not be translated
+about-webauthn-page-title = Om WebAuthn
 
 ## Section titles
 
+about-webauthn-info-section-title = Enheds-oplysninger
 about-webauthn-pin-required-section-title = Pinkode påkrævet
+about-webauthn-confirm-deletion-section-title = Bekræft sletning
 
 ## Info field texts
 
