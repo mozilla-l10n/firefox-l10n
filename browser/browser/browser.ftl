@@ -592,7 +592,7 @@ urlbar-result-action-tabtosearch-web = Ищите в { $engine } прямо в �
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Ищите на { $engine } прямо в адресной строке
 # Action text for copying to clipboard.
-urlbar-result-action-copy-to-clipboard = Скопировать
+urlbar-result-action-copy-to-clipboard = Копировать
 # Shows the result of a formula expression being calculated, the last = sign will be shown
 # as part of the result (e.g. "= 2").
 # Variables

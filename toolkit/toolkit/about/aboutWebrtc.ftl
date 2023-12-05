@@ -111,8 +111,8 @@ about-webrtc-log-section-show-msg = Показать журнал
     .title = Нажмите, чтобы развернуть этот раздел
 about-webrtc-log-section-hide-msg = Скрыть журнал
     .title = Нажмите, чтобы свернуть этот раздел
-about-webrtc-copy-report-button = Скопировать отчёт
-about-webrtc-copy-report-history-button = Скопировать историю отчетов
+about-webrtc-copy-report-button = Копировать отчёт
+about-webrtc-copy-report-history-button = Копировать историю отчетов
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -229,8 +229,6 @@ about-webrtc-aec-logging-off-state-msg = файлы журнала захват�
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Страница сохранена в: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Журнал отслеживания можно найти в: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Режим отладки активен, журнал отслеживания в: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -308,6 +306,9 @@ about-webrtc-sdp-set-timestamp = Метка времени { NUMBER($timestamp, 
 about-webrtc-show-msg-sdp = Показать SDP
 about-webrtc-hide-msg-sdp = Скрыть SDP
 
+##
+
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
@@ -315,9 +316,6 @@ about-webrtc-hide-msg-sdp = Скрыть SDP
 about-webrtc-media-context-show-msg = Показать контекст медиа
 about-webrtc-media-context-hide-msg = Скрыть контекст медиа
 about-webrtc-media-context-heading = Контекст медиа
-
-##
-
 
 ##
 
