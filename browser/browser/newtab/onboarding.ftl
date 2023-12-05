@@ -332,3 +332,15 @@ onboarding-device-migration-title = З поверненням!
 onboarding-device-migration-subtitle = Увійдіть у свій { -fxaccount-brand-name(capitalization: "sentence") }, щоб перенести свої закладки, паролі та історію на новий пристрій.
 onboarding-device-migration-subtitle2 = Увійдіть в обліковий запис, щоб перенести свої закладки, паролі та історію на новий пристрій.
 onboarding-device-migration-primary-button-label = Увійти
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Ми дбаємо про вашу безпеку
+onboarding-easy-setup-security-and-privacy-subtitle = Наш некомерційний браузер допомагає блокувати таємне стеження компаній за вами в інтернеті.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Ваші дані надійно шифруються на різних пристроях
+onboarding-mobile-download-security-and-privacy-subtitle = Під час синхронізації { -brand-short-name } шифрує ваші паролі, закладки та інші дані. Крім того, ви отримуєте доступ до вкладок зі своїх інших пристроїв.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } працює для вас
+onboarding-gratitude-security-and-privacy-subtitle = Дякуємо вам за користування { -brand-short-name } від Mozilla Foundation. Завдяки вашій підтримці ми докладаємо зусиль для розвитку безпечнішого інтернету, доступного для всіх.
