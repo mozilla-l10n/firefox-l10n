@@ -97,6 +97,11 @@ login-item-edit-button = Змінити
 about-logins-login-item-remove-button = Вилучити
 login-item-origin-label = Адреса вебсайту
 login-item-tooltip-message = Переконайтесь, що це точно відповідає адресі вебсайту, на який ви входите.
+about-logins-origin-tooltip = Переконайтеся у правильності адреси вебсайту, на який ви входите.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Обов'язково збережіть поточний пароль для цього сайту. Змінивши пароль тут, ви не змінюєте його для { $webTitle }.
+about-logins-add-password-tooltip = Обов'язково збережіть поточний пароль для цього сайту.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Ім'я користувача

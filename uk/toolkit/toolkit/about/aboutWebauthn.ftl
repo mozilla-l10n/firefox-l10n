@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Параметри автентифі�
 about-webauthn-pin-section-title = Керування PIN-кодом
 about-webauthn-credential-management-section-title = Керування обліковими даними
 about-webauthn-pin-required-section-title = Потрібен PIN-код
+about-webauthn-confirm-deletion-section-title = Підтвердити видалення
 
 ## Info field texts
 
@@ -54,6 +55,7 @@ about-webauthn-current-pin-label = Поточний PIN-код:
 about-webauthn-pin-required-label = Введіть свій PIN-код:
 about-webauthn-credential-list-subsection-title = Облікові дані:
 about-webauthn-credential-list-empty = На пристрої не знайдено облікових даних.
+about-webauthn-confirm-deletion-label = Ви збираєтеся видалити:
 
 ## Buttons
 
