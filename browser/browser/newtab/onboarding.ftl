@@ -334,6 +334,12 @@ onboarding-device-migration-primary-button-label = Σύνδεση
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Μας αρέσει να σας προστατεύουμε
+onboarding-easy-setup-security-and-privacy-subtitle = Το πρόγραμμα περιήγησής μας, με την υποστήριξη ενός μη κερδοσκοπικού οργανισμού, βοηθάει στο να σταματήσουν εταιρείες να σας ακολουθούν κρυφά στο διαδίκτυο.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Διατηρήστε την κρυπτογράφηση κατά την εναλλαγή των συσκευών
 onboarding-mobile-download-security-and-privacy-subtitle = Όταν κάνετε συγχρονισμό, το { -brand-short-name } κρυπτογραφεί τους κωδικούς πρόσβασης, τους σελιδοδείκτες σας και πολλά άλλα. Επιπλέον, μπορείτε να μεταφέρετε καρτέλες από τις άλλες συσκευές σας.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = Το { -brand-short-name } στο πλευρό σας
+onboarding-gratitude-security-and-privacy-subtitle = Σας ευχαριστούμε που χρησιμοποιείτε το { -brand-short-name }, που υποστηρίζεται από το Mozilla Foundation. Με την υποστήριξή σας, εργαζόμαστε για να κάνουμε το διαδίκτυο ασφαλέστερο και πιο προσβάσιμο για όλους.
