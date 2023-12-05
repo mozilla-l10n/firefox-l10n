@@ -87,6 +87,7 @@ about-webauthn-auth-option-uvbioenroll = Biometrikus regisztrációs engedély
 about-webauthn-auth-option-authnrcfg = Hitelesítő konfigurációja
 about-webauthn-auth-option-uvacfg = Hitelesítő konfigurációs engedélye
 about-webauthn-auth-option-credmgmt = Hitelesítőadat-kezelés
+about-webauthn-auth-option-credentialmgmtpreview = Hitelesítőadat-kezelési prototípus
 about-webauthn-auth-option-setminpinlength = PIN-kód minimális hosszának beállítása
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential felhasználó-ellenőrzés nélkül
@@ -101,8 +102,10 @@ about-webauthn-auth-option-null = Nem támogatott
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Gyártó prototípus-beállítási parancsai
 about-webauthn-auth-info-remaining-discoverable-credentials = Fennmaradó felfedezhető hitelesítő adatok
 about-webauthn-auth-info-certifications = Tanúsítványok
+about-webauthn-auth-info-uv-modality = Felhasználó-ellenőrzés módozata
 about-webauthn-auth-info-firmware-version = Firmware verziója
 about-webauthn-auth-info-min-pin-length = PIN-kód minimális hossza
 about-webauthn-auth-info-algorithms = Algoritmusok
