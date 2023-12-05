@@ -283,6 +283,7 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importazione credenziali da file
+about-logins-import-file-picker-title2 = Importazione password in { -brand-short-name }
 about-logins-import-file-picker-import-button = Importa
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -306,10 +307,14 @@ about-logins-import-file-picker-tsv-filter-title =
 
 about-logins-import-dialog-title = Importazione completata
 about-logins-import-dialog-items-added = <span>Nuove credenziali aggiunte:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-added2 = <span>Nuove password aggiunte:</span> <span data-l10n-name="count">{ $count }</span>
 
 about-logins-import-dialog-items-modified = <span>Credenziali esistenti aggiornate:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-modified2 = <span>Elementi aggiornati:</span> <span data-l10n-name="count">{ $count }</span>
 
 about-logins-import-dialog-items-no-change = <span>Credenziali duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
+about-logins-import-dialog-items-no-change2 = <span>Elementi duplicati:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importati)</span>
+
 about-logins-import-dialog-items-error = <span>Errori:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
 about-logins-import-dialog-done = Fatto
 
@@ -329,6 +334,7 @@ about-logins-import-dialog-error-cancel = Annulla
 
 about-logins-import-report-title = Riepilogo importazione
 about-logins-import-report-description = Credenziali e password importate in { -brand-short-name }.
+about-logins-import-report-description2 = Password importate in { -brand-short-name }.
 
 #
 # Variables:
@@ -337,6 +343,9 @@ about-logins-import-report-row-index = Riga { $number }
 about-logins-import-report-row-description-no-change = Duplicata (corrisponde esattamente a una credenziale esistente)
 about-logins-import-report-row-description-modified = Credenziale esistente aggiornata
 about-logins-import-report-row-description-added = Nuova credenziale aggiunta
+about-logins-import-report-row-description-no-change2 = Duplicata (corrisponde esattamente a un elemento esistente)
+about-logins-import-report-row-description-modified2 = Elemento esistente aggiornato
+about-logins-import-report-row-description-added2 = Nuova password aggiunta
 about-logins-import-report-row-description-error = Errore: campo mancante
 
 ##
@@ -364,6 +373,17 @@ about-logins-import-report-no-change =
   { $count ->
        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziale duplicata</div> <div data-l10n-name="not-imported">(non importata)</div>
       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziali duplicate</div> <div data-l10n-name="not-imported">(non importate)</div>
+  }
+about-logins-import-report-added2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nuove password aggiunte</div>
+about-logins-import-report-modified2 =
+  { $count ->
+       [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elemento esistente aggiornato</div>
+      *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elementi esistenti aggiornati</div>
+  }
+about-logins-import-report-no-change2 =
+  { $count ->
+       [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elemento duplicato</div> <div data-l10n-name="not-imported">(non importato)</div>
+      *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elementi duplicati</div> <div data-l10n-name="not-imported">(non importati)</div>
   }
 about-logins-import-report-error =
   { $count ->
