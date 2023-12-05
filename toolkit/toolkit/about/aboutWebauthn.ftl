@@ -66,6 +66,8 @@ about-webauthn-auth-option-clientpin = Klient-pinkode
 about-webauthn-auth-option-plat = Platformsenhed
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Kommando-tilladelser (pinUvAuthToken)
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
