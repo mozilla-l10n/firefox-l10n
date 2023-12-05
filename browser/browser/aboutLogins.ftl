@@ -95,6 +95,9 @@ about-logins-login-item-remove-button = Αφαίρεση
 login-item-origin-label = Διεύθυνση ιστοτόπου
 login-item-tooltip-message = Βεβαιωθείτε ότι ταιριάζει ακριβώς με τη διεύθυνση του ιστότοπου όπου συνδέεστε.
 about-logins-origin-tooltip = Βεβαιωθείτε ότι αντιστοιχεί στην ακριβή διεύθυνση του ιστοτόπου στον οποίο συνδέεστε.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Βεβαιωθείτε ότι αποθηκεύετε τον τρέχοντα κωδικό πρόσβασής σας για αυτόν τον ιστότοπο. Η αλλαγή του κωδικού πρόσβασης εδώ δεν θα τον αλλάξει στο { $webTitle }.
 about-logins-add-password-tooltip = Βεβαιωθείτε ότι αποθηκεύετε τον τρέχοντα κωδικό πρόσβασής σας για αυτόν τον ιστότοπο.
 login-item-origin =
     .placeholder = https://www.example.com

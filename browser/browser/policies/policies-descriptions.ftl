@@ -56,7 +56,7 @@ policy-DisableTelemetry = Απενεργοποίηση τηλεμετρίας.
 policy-DisableThirdPartyModuleBlocking = Αποτροπή του χρήστη από το να αποκλείει μονάδες τρίτων που εισάγονται στη διεργασία του { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Προβολή της γραμμής σελιδοδεικτών από προεπιλογή.
 policy-DisplayMenuBar = Προβολή γραμμής μενού από προεπιλογή.
-policy-DNSOverHTTPS = Ρύθμιση παραμέτρων DNS over HTTPS.
+policy-DNSOverHTTPS = Ρύθμιση παραμέτρων DNS μέσω HTTPS.
 policy-DontCheckDefaultBrowser = Απενεργοποίηση ελέγχου για το προεπιλεγμένο πρόγραμμα περιήγησης κατά την εκκίνηση.
 policy-DownloadDirectory = Ορισμός και κλείδωμα καταλόγου λήψης.
 # “lock” means that the user won’t be able to change this setting
