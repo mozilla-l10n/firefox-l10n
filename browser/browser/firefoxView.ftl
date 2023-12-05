@@ -206,6 +206,7 @@ firefoxview-view-more-browsing-history = Daha fazla gezinti geçmişini görünt
 
 firefoxview-history-empty-header = Kaldığınız yere geri dönün
 firefoxview-history-empty-description = Siz gezindikçe, ziyaret ettiğiniz sayfalar burada listelenecektir.
+firefoxview-history-empty-description-two = Yaptığımız işin merkezinde gizliliğinizi korumak var. Bu yüzden, { -brand-short-name } tarayıcınızın hatırlayacağı etkinlikleri <a data-l10n-name="history-settings-url">geçmiş ayarlarınızdan</a> kendiniz seçebilirsiniz.
 
 ##
 
@@ -217,6 +218,7 @@ firefoxview-choose-browser-button = Tarayıcı seç
 
 firefoxview-dont-remember-history-empty-header = Gösterilecek bir şey yok
 firefoxview-dont-remember-history-empty-description = Yaptığımız işin merkezinde gizliliğinizi korumak var. Bu yüzden, { -brand-short-name } tarayıcınızın hatırlayacağı etkinlikleri kendiniz seçebilirsiniz.
+firefoxview-dont-remember-history-empty-description-two = Mevcut ayarlarınıza göre { -brand-short-name } siz internette gezinirken etkinliklerinizi hatırlamıyor. Bunu değiştirmek için <a data-l10n-name="history-settings-url-two">geçmiş ayarlarınızı geçmişinizi hatırlayacak şekilde değiştirebilirsiniz</a>.
 
 ##
 
