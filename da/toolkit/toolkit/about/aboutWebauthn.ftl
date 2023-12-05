@@ -17,10 +17,14 @@ about-webauthn-confirm-deletion-section-title = Bekræft sletning
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Tilslut en sikkerheds-token
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Kan ikke håndtere indstillinger, fordi din sikkerheds-token ikke understøtter CTAP 2.
 about-webauthn-text-not-available = Ikke tilgængelig på denne platform.
 
 ## Results label
 
+about-webauthn-results-success = Succes!
 about-webauthn-results-general-error = Fejl!
 # Variables:
 #  $retriesLeft (Number): number of tries left
@@ -30,6 +34,7 @@ about-webauthn-results-pin-invalid-error =
         [one] Fejl: Forkert pinkode. Prøv igen. Du har et forsøg tilbage.
        *[other] Fejl: Forkert pinkode. Prøv igen. Du har { $retriesLeft } forsøg tilbage.
     }
+about-webauthn-results-pin-blocked-error = Fejl. Der er ikke flere forsøg tilbage, og din enhed er blevet låst, fordi den forkerte pinkode blev indtastet for mange gange. Enheden behøver at blive nulstillet.
 about-webauthn-results-pin-too-short-error = Fejl: Den angivne pinkode er for kort.
 about-webauthn-results-pin-too-long-error = Fejl: Den angivne pinkode er for lang.
 about-webauthn-results-pin-auth-blocked-error = Fejl. Der er foretaget for mange forsøg i træk, og autentificering via pinkode er midlertidigt blevet blokeret. Enheden behøver at blive genstartet (fjern strømkablet og sæt det i igen).
@@ -42,9 +47,12 @@ about-webauthn-repeat-pin-label = Gentag ny pinkode:
 about-webauthn-current-pin-label = Nuværende pinkode:
 about-webauthn-pin-required-label = Indtast din pinkode:
 about-webauthn-credential-list-subsection-title = Login-informationer:
+about-webauthn-credential-list-empty = Ingen login-informationer fundet på enheden.
+about-webauthn-confirm-deletion-label = Du er ved at slette:
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = Indstil pinkode
 about-webauthn-cancel-button = Annuller
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Slet
@@ -52,6 +60,12 @@ about-webauthn-delete-button = Slet
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Bruger-godkendelse
+about-webauthn-auth-option-up = Tilstedeværelse af bruger
+about-webauthn-auth-option-clientpin = Klient-pinkode
+about-webauthn-auth-option-plat = Platformsenhed
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Kommando-tilladelser (pinUvAuthToken)
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
