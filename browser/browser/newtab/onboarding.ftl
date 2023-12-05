@@ -331,3 +331,8 @@ onboarding-device-migration-title = Velkommen tilbake!
 onboarding-device-migration-subtitle = Logg på { -fxaccount-brand-name } for å ta med deg bokmerkene, passordene og historikken din på den nye enheten.
 onboarding-device-migration-subtitle2 = Logg på kontoen din for å ta med deg bokmerkene, passordene og historikken din på den nye enheten.
 onboarding-device-migration-primary-button-label = Logg inn
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Vi beskytter deg gjerne
