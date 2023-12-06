@@ -347,3 +347,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ky s'është Sajt i Rremë…
     .accesskey = r
+menu-report-broken-site =
+    .label = Njoftoni Sajt të Dëmtuar

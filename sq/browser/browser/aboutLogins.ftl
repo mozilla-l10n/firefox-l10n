@@ -94,6 +94,7 @@ login-item-edit-button = Përpunojeni
 about-logins-login-item-remove-button = Hiqi
 login-item-origin-label = Adresë sajti
 login-item-tooltip-message = Sigurohuni që kjo përputhet me adresën e saktë të sajtit ku hyni.
+about-logins-origin-tooltip = Sigurohuni që kjo përputhet me adresën e saktë të sajtit ku hyni.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Emër përdoruesi

@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Informacion i ri për t’u kontrolluar
 shopping-message-bar-warning-stale-analysis-button = Kontrolloje tani
-shopping-message-bar-generic-error-title2 = S’ka informacion tani
-shopping-message-bar-generic-error-message = Po punojmë për ta zgjidhur çështjen. Ju lutemi, rikontrolloni së shpejti.
-shopping-message-bar-warning-not-enough-reviews-title = Ende pa shqyrtime të mjafta
-shopping-message-bar-warning-not-enough-reviews-message2 = Kur ky produkt të ketë më tepër shqyrtime, do të jemi në gjendje të kontrollojmë cilësinë e tyre.
-shopping-message-bar-warning-product-not-available-title = Produkti s’është i passhëm
-shopping-message-bar-warning-product-not-available-message2 = Nëse e shihni sërish në stok këtë produkt, raportojeni dhe do të merremi me kontrollin e shqyrtimeve.
-shopping-message-bar-warning-product-not-available-button = Njoftoni se për këtë produkt ka prapë stok
-shopping-message-bar-thanks-for-reporting-title = Faleminderit për raportimin!
-shopping-message-bar-thanks-for-reporting-message2 = Brenda 24 orësh do të duhet të kemi informacion rreth shqyrtimeve të këtij produkti. Ju lutemi, rikontrolloni më vonë.
-shopping-message-bar-warning-product-not-available-reported-title2 = Informacion së shpejti
-shopping-message-bar-warning-product-not-available-reported-message2 = Duhet të kemi informacion rreth shqyrtimeve të këtij produkti brenda 24 orësh. Ju lutemi, shihni më vonë.
 shopping-message-bar-generic-error =
     .heading = S’ka informacion tani
     .message = Po punojmë ta zgjidhim problemin. Ju lutemi, rikontrolloni së shpejti.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Duhet të kemi informacion rreth shqyrtimeve të këtij produkti brenda 24 orësh. Ju lutemi, shihni më vonë.
 shopping-message-bar-analysis-in-progress-title2 = Kontroll cilësie shqyrtimesh
 shopping-message-bar-analysis-in-progress-message2 = Kjo mund të zgjasë rresh 60 sekonda.
-shopping-message-bar-page-not-supported-title = S’mund t’i kontrollojmë këto shqyrtime
-shopping-message-bar-page-not-supported-message = Mjerisht, s’mund të kontrollojmë cilësinë e shqyrtimit për disa lloje produktesh. Për shembull, karta dhuratë dhe transmetim videosh, muzike dhe lojërash.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Po kontrollohet cilësi shqyrtimesh ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = S’mund t’i kontrollojmë këto shqyrtime
     .message = Mjerisht, s’mund të kontrollojmë cilësinë e shqyrtimit për disa lloje produktesh. Për shembull, karta dhuratë dhe transmetim videosh, muzike dhe lojërash.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Rregullime
 shopping-settings-recommendations-toggle =
     .label = Shfaq reklama te kontrollori i shqyrtimeve
-shopping-settings-recommendations-learn-more = Do të shihni reklama me raste, për produkte të afërt. Krejt reklamat duhet të plotësojnë standarde cilësie të shqyrtimeve tona. <a data-l10n-name="review-quality-url">Mësoni më tepër</a>
 shopping-settings-recommendations-learn-more2 = Do të shihni reklama me raste, për produkte të afërt. Shfaqim reklama vetëm për produkte me shqyrtime të besueshme. <a data-l10n-name="review-quality-url">Mësoni më tepër</a>
 shopping-settings-opt-out-button = Çaktivizoje kontrollorin e shqyrtimeve
 powered-by-fakespot = Kontrollori i shqyrtimeve bazohet në <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -179,7 +168,6 @@ shopping-survey-q2-radio-3-label = Nuk e di
 shopping-survey-next-button-label = Pasuesi
 shopping-survey-submit-button-label = Parashtrojeni
 shopping-survey-terms-link = Kushte përdorimi
-shopping-survey-thanks-message = Faleminderit për përshtypjet tuaja!
 shopping-survey-thanks =
     .heading = Faleminderit për përshtypjet tuaja!
 
@@ -196,12 +184,6 @@ shopping-callout-closed-not-opted-in-subtitle = Provojeni Kontrollorin e Shqyrti
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Provoni udhërrëfyesin tonë të besuar për shqyrtime produktesh
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Shihni sa të besueshme janë shqyrtimet e produkteve në <b>{ $currentSite }</b>, para se të blini. Kontrollori i shqyrtimeve, një veçori eksperimentale nga { -vendor-short-name }, është ngritur drejt e në { -brand-product-name } — dhe funksionon edhe në <b>{ $secondSite }</b> dhe <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
