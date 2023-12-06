@@ -304,7 +304,7 @@ download-always-ask-where =
     .label = Pyet përherë ku të ruhen kartelat
     .accesskey = u
 applications-header = Aplikacione
-applications-description = Zgjidhni se si i trajton { -brand-short-name }-i kartelat që shkarkoni nga interneti ose aplikacionet që përdoren kur shfletoni.
+applications-description = Zgjidhni se si i trajton { -brand-short-name }-i kartelat që shkarkoni nga interneti, ose aplikacionet që përdoren kur shfletoni.
 applications-filter =
     .placeholder = Kërkoni për lloje kartelash ose aplikacione
 applications-type-column =
@@ -490,17 +490,17 @@ browsing-media-control =
     .accesskey = K
 browsing-media-control-learn-more = Mësoni më tepër
 browsing-cfr-recommendations =
-    .label = Rekomandoni zgjerime teksa shfletoni
+    .label = Rekomandim zgjerimesh, teksa shfletoni
     .accesskey = R
 browsing-cfr-features =
-    .label = Rekomandim veçorish teksa shfletoni
+    .label = Rekomandim veçorish, teksa shfletoni
     .accesskey = R
 browsing-cfr-recommendations-learn-more = Mësoni më tepër
 
 ## General Section - Proxy
 
 network-settings-title = Rregullime Rrjeti
-network-proxy-connection-description = Formësoni se si lidhet në internet { -brand-short-name }-i.
+network-proxy-connection-description = Formësoni si lidhet në internet { -brand-short-name }-i.
 network-proxy-connection-learn-more = Mësoni më tepër
 network-proxy-connection-settings =
     .label = Rregullime…
@@ -509,7 +509,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Dritare dhe Skeda të Reja
-home-new-windows-tabs-description2 = Zgjidhni çfarë shihni, kur hapni faqen tuaj hyrëse, dritare të reja dhe skeda të reja.
+home-new-windows-tabs-description2 = Zgjidhni çfarë shihet, kur hapni faqen tuaj hyrëse, dritare të reja dhe skeda të reja.
 
 ## Home Section - Home Page Customization
 
