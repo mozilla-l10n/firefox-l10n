@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Gun soitheach
     .accesskey = n
+user-context-manage-containers =
+    .label = Stiùirich na soithichean
+    .accesskey = O
