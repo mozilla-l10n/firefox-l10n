@@ -93,9 +93,9 @@ about-webauthn-auth-option-setminpinlength = Ställ in minsta PIN-längd
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential utan användarverifiering
 about-webauthn-auth-option-alwaysuv = Kräv alltid användarverifiering
 # Shows when boolean value for an option is True. True should not be translated.
-about-webauthn-auth-option-true = Sant
+about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
-about-webauthn-auth-option-false = Falskt
+about-webauthn-auth-option-false = False
 # If the value is missing (null), it means a certain feature is not supported.
 about-webauthn-auth-option-null = Stöds inte
 
