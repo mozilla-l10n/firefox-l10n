@@ -14,3 +14,9 @@ console-stacktrace = Stackspårning från { $filename }, funktion { $functionNam
 # Variables:
 #   $name (String): user-defined name for the timer
 console-timer-start = { $name }: tidur startad
+# This string is used to display the result of the console.timeEnd() call.
+#
+# Variables:
+#   $name (String): user-defined name for the timer
+#   $duration (String): number of milliseconds
+console-timer-end = { $name }: { $duration }ms
