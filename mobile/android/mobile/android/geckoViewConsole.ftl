@@ -7,6 +7,11 @@
 
 console-stacktrace-anonymous-function = <névtelen>
 # Variables:
+#   $filename (String): Source file name
+#   $functionName (String): JavaScript function name
+#   $lineNumber (String): The line number of the stacktrace call
+console-stacktrace = Veremkiíratás innen: { $filename }, függvény: { $functionName }, sor: { $lineNumber }.
+# Variables:
 #   $name (String): user-defined name for the timer
 console-timer-start = { $name }: óra elindult
 # This string is used to display the result of the console.timeEnd() call.
