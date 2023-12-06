@@ -332,3 +332,14 @@ onboarding-device-migration-title = Willkommen zurück!
 onboarding-device-migration-subtitle = Melden Sie sich mit Ihrem { -fxaccount-brand-name } an, um Ihre Lesezeichen, Passwörter und Chronik auf Ihr neues Gerät zu bringen.
 onboarding-device-migration-subtitle2 = Melden Sie sich bei Ihrem Konto an, um Ihre Lesezeichen, Passwörter und Chronik auf Ihr neues Gerät mitzunehmen.
 onboarding-device-migration-primary-button-label = Anmelden
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Wir schützen Sie gerne
+onboarding-easy-setup-security-and-privacy-subtitle = Unser gemeinnütziger Browser verhindert, dass Unternehmen heimlich Ihre Aktivitäten im Internet verfolgen.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Verschlüsseln Sie Ihre Daten, wenn Sie geräteübergreifend arbeiten
+onboarding-mobile-download-security-and-privacy-subtitle = Wenn Sie Ihre Daten synchronisieren, verschlüsselt { -brand-short-name } Ihre Passwörter, Lesezeichen und mehr. Außerdem können Sie Tabs von Ihren anderen Geräten holen.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } gibt dir Rückendeckung
