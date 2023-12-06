@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Gjin kontener
     .accesskey = G
+user-context-manage-containers =
+    .label = Konteners beheare
+    .accesskey = K
