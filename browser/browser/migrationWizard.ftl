@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Bókamerki
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Eftirlæti
 migration-logins-and-passwords-option-label = Vistaðar innskráningar og lykilorð
+migration-passwords-option-label = Vistuð lykilorð
 migration-history-option-label = Vafurferill
 migration-extensions-option-label = Forritsaukar
 migration-form-autofill-option-label = Sjálfvirk útfyllingargögn reita

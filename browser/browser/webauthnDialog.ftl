@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Rangt PIN-númer. Reyndu aftur.
 webauthn-pin-required-prompt = Settu inn PIN-númerið fyrir tækið þitt.
 webauthn-select-sign-result-unknown-account = Óþekktur reikningur
+webauthn-a-passkey-label = Nota aðgangslykil
+webauthn-another-passkey-label = Nota annan aðgangslykil
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Aðgangslykill fyrir { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

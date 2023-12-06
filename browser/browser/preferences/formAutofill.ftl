@@ -114,6 +114,7 @@ autofill-address-email = Tölvupóstfang
 autofill-cancel-button = Hætta við
 autofill-save-button = Vista
 autofill-country-warning-message = Sjálfvirkar útfyllingar er bara tiltækar fyrir sum lönd.
+autofill-message-tooltip = Skoða skilaboð um sjálfvirka útfyllingu
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Bæta við nýju kortanúmeri
 # The dialog title for editing credit cards in browser preferences.
