@@ -90,3 +90,10 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> deneysel bir özelliktir. Şu tarayıcılarda desteklenmemektedir:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> deneysel bir özelliktir.
 css-compatibility-learn-more-message = <strong>{ $rootProperty }</strong> hakkında <span data-l10n-name="link">daha fazla bilgi alın</span>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Bu seçici, kısıtlanmamış <strong>:has()</strong> kullanıyor. Yavaş olabilir
