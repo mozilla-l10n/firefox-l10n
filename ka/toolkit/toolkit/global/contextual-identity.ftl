@@ -6,6 +6,9 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
+user-context-personal =
+    .label = კერძო
+    .accesskey = კ
 user-context-work =
     .label = სამუშაო
     .accesskey = ს
@@ -18,3 +21,9 @@ user-context-shopping =
 
 ##
 
+user-context-none =
+    .label = უსათავსოდ
+    .accesskey = ა
+user-context-manage-containers =
+    .label = სათავსების მართვა
+    .accesskey = თ
