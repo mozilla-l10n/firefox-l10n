@@ -6,6 +6,9 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
+user-context-personal =
+    .label = Personeigais
+    .accesskey = P
 user-context-work =
     .label = Work
     .accesskey = W
@@ -18,3 +21,9 @@ user-context-shopping =
 
 ##
 
+user-context-none =
+    .label = Nav skreines
+    .accesskey = N
+user-context-manage-containers =
+    .label = Porvaļdēt skreines
+    .accesskey = O
