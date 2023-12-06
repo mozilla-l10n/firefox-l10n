@@ -343,3 +343,4 @@ onboarding-mobile-download-security-and-privacy-title = Pysy salattuna, kun vaih
 onboarding-mobile-download-security-and-privacy-subtitle = Synkronoinnin myötä { -brand-short-name } salaa salasanasi, kirjanmerkkisi ja paljon muuta. Lisäksi voit valita välilehtiä muilta laitteiltasi.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } huolehtii sinusta
+onboarding-gratitude-security-and-privacy-subtitle = Kiitos, että käytät Mozilla-säätiön tukemaa { -brand-short-name }ia. Tukesi avulla pyrimme tekemään Internetistä entistä turvallisemman ja helpommin saavutettavan kaikille.
