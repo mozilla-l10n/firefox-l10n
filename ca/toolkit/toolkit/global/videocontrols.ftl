@@ -10,7 +10,6 @@ videocontrols-volume-control =
     .aria-label = Volum
 videocontrols-closed-caption-button =
     .aria-label = Subtítols
-
 videocontrols-play-button =
     .aria-label = Reprodueix
 videocontrols-pause-button =
@@ -25,13 +24,17 @@ videocontrols-exitfullscreen-button =
     .aria-label = Surt de la pantalla completa
 videocontrols-casting-button-label =
     .aria-label = Transmet a la pantalla
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Desactivat
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Imatge sobre imatge
-
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = Com més pantalles, més diversió. Reproduïu aquest vídeo mentre feu altres coses.
 videocontrols-error-aborted = S'ha aturat la càrrega del vídeo.
 videocontrols-error-network = S'ha interromput la reproducció del vídeo a causa d'un problema de la xarxa.
 videocontrols-error-decode = No es pot reproduir el vídeo perquè el fitxer està malmès.
@@ -39,7 +42,6 @@ videocontrols-error-src-not-supported = El format del vídeo o el tipus MIME no 
 videocontrols-error-no-source = No s'ha trobat cap vídeo amb un format o un tipus MIME compatibles.
 videocontrols-error-generic = S'ha interromput la reproducció del vídeo a causa d'un problema desconegut.
 videocontrols-status-picture-in-picture = Aquest vídeo s'està reproduint en mode d'Imatge sobre imatge.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -53,7 +55,6 @@ videocontrols-status-picture-in-picture = Aquest vídeo s'està reproduint en mo
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

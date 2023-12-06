@@ -93,6 +93,9 @@ abuse-report-broken-example = Exemple: les funcions són lentes, difícils d’u
 abuse-report-broken-suggestions-extension =
     Sembla que heu identificat un error. A més d'enviar un informe aquí, la millor manera de resoldre un problema de funcionalitat, és contactar amb el desenvolupador de l'extensió.
     <a data-l10n-name="support-link">Visiteu el lloc web de l'extensió</a> per obtenir informació del desenvolupador.
+abuse-report-broken-suggestions-sitepermission =
+    Sembla que heu identificat un error. A més d'enviar un informe aquí, la millor manera de resoldre un problema de funcionalitat és contactar amb el desenvolupador del lloc web.
+    <a data-l10n-name="support-link">Visiteu el lloc web</a> per obtenir la informació del desenvolupador.
 abuse-report-broken-suggestions-theme =
     Sembla que heu identificat un error. A més d'enviar un informe aquí, la millor manera de resoldre un problema de funcionalitat és contactar amb el desenvolupador del tema.
     <a data-l10n-name="support-link">Visiteu el lloc web del tema</a> per obtenir la informació del desenvolupador.
