@@ -37,15 +37,13 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Jo Tani
     .secondarybuttonaccesskey = J
 appmenu-update-other-instance-message = Ka gati një përditësim të ri të { -brand-shorter-name }-it, por s’mund të instalohet, ngaqë është në punë një kopje tjetër e { -brand-shorter-name }-it. Mbylleni, që të vazhdohet përditësimi, ose zgiidhni të përditësohet sido qoftë (kopja tjetër mund të mos punojë saktë, deri sa pa e rinisur).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = OK
     .buttonaccesskey = O
-appmenu-addon-post-install-message3 = Administroni shtesa dhe temat tuaja përmes menusë së aplikacionit
+appmenu-addon-post-install-message3 = Administroni shtesat dhe temat tuaja përmes menusë së aplikacionit
 appmenu-addon-post-install-incognito-checkbox =
     .label = Lejoje këtë zgjerim të xhirojë në Dritare Private
     .accesskey = L
-    
 appmenu-new-tab-controlled-changes =
     .label = Skeda juaj e re ka ndryshuar.
     .buttonlabel = Mbaji Ndryshimet

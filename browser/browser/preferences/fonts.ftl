@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Shkronja
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Shkronja për
     .accesskey = S
-
 fonts-langgroup-arabic =
     .label = Arabe
 fonts-langgroup-armenian =
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionale
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Madhësi
     .accesskey = d
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Madhësi
     .accesskey = h
-
 fonts-minsize = Madhësi shkronjash minimum
     .accesskey = u
-
 fonts-minsize-none =
     .label = Asnjë
-
 fonts-allow-own =
-    .label = Lejoji faqet të përdorin shkronja të vetat, në vend se përzgjedhjen tuaj më sipër
+    .label = Lejojini faqet të përdorin shkronja të vetat, në vend se përzgjedhjen tuaj më sipër
     .accesskey = L
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
