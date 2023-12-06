@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Mjete Shfletuesi
 appmenu-developer-tools-extensions =
     .label = Zgjerime për Zhvillues
+appmenuitem-report-broken-site =
+    .label = Njoftoni për sajt të dëmtuar

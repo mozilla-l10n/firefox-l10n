@@ -1264,6 +1264,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS përmes HTTPS-je
 preferences-doh-description = Domain Name System (DNS) përmes HTTPS-së e dërgon kërkesën tuaj për një emër përkatësie përmes një lidhjeje të fshehtëzuar, duke krijuar një DNS të siguruar dhe duke e bërë më të vështirë për të tjerët të shohin se në cilin sajt po shkoni.
+preferences-doh-description2 = Domain Name System (DNS) përmes HTTPS-së e dërgon kërkesën tuaj për një emër përkatësie përmes një lidhjeje të fshehtëzuar, duke furnizuar një DNS të siguruar dhe duke e bërë më të vështirë për të tjerët të shohin se në cilin sajt po shkoni.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Gjendje: { $status }
@@ -1280,6 +1281,7 @@ preferences-doh-status-disabled = Off
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Jo aktive ({ $reason })
 preferences-doh-group-message = Aktivizoni DNS të siguruar, duke përdorur:
+preferences-doh-group-message2 = Aktivizoni DNS përmes HTTPS-je duke përdorur:
 preferences-doh-expand-section =
     .tooltiptext = Më tepër hollësi
 preferences-doh-setting-default =

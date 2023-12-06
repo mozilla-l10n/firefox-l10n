@@ -351,6 +351,7 @@ identity-connection-secure = Lidhje e sigurt
 identity-connection-failure = Dështim lidhjeje
 identity-connection-internal = Kjo është një faqe { -brand-short-name } e sigurt.
 identity-connection-file = Kjo është faqe e depozituar në kompjuterin tuaj.
+identity-connection-associated = Kjo faqe është ngarkuar nga një tjetër faqe.
 identity-extension-page = Kjo faqe është ngarkuar nga një zgjerim.
 identity-active-blocked = { -brand-short-name }-i ka bllokuar pjesë të kësaj faqeje që s'janë të sigurta.
 identity-custom-root = Lidhje e verifikuar nga një lëshues dëshmish që s’njihet nga Mozilla.
