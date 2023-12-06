@@ -21,3 +21,9 @@ user-context-shopping =
 
 ##
 
+user-context-none =
+    .label = కంటెయినరు లేదు
+    .accesskey = N
+user-context-manage-containers =
+    .label = కంటెయినర్లను నిర్వహించండి
+    .accesskey = O
