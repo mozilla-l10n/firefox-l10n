@@ -21,3 +21,6 @@ user-context-shopping =
 
 ##
 
+user-context-none =
+    .label = Walang Container
+    .accesskey = N
