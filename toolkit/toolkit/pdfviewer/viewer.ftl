@@ -301,6 +301,20 @@ pdfjs-editor-ink-button-label = Dissegnar
 pdfjs-editor-stamp-button =
     .title = Agiuntar u modifitgar maletgs
 pdfjs-editor-stamp-button-label = Agiuntar u modifitgar maletgs
+pdfjs-editor-remove-button =
+    .title = Allontanar
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Allontanar il dissegn
+pdfjs-editor-remove-freetext-button =
+    .title = Allontanar il text
+pdfjs-editor-remove-stamp-button =
+    .title = Allontanar la grafica
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Colur
 pdfjs-editor-free-text-size-input = Grondezza

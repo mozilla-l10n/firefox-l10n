@@ -58,6 +58,9 @@ neterror-dns-not-found-hint-firewall = Verifitgar che { -brand-short-name } ha i
 neterror-dns-not-found-trr-only-reason =
     { -brand-short-name } na po betg proteger tia dumonda per l'adressa da questa website via noss server DNS fidà.
     Il motiv:
+neterror-dns-not-found-trr-only-reason2 =
+    { -brand-short-name } na po betg proteger tia dumonda per l'adressa da questa website via noss server DNS segirà.
+    Il motiv:
 neterror-dns-not-found-trr-third-party-warning2 = Ti pos cuntinuar cun il servetsch da resoluziun DNS predefinì. Ma ina terza partida po eventualmain vesair tge websites che ti visitas.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } n'ha betg pudì stabilir ina connexiun cun { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La connexiun cun { $trrDomain } ha cuzzà pli ditg che spetgà.
@@ -73,6 +76,9 @@ neterror-dns-not-found-trr-unknown-problem = Problem nunspetgà.
 
 neterror-dns-not-found-native-fallback-reason =
     { -brand-short-name } na po betg proteger tia dumonda per l'adressa da questa website via noss server DNS fidà.
+    Il motiv:
+neterror-dns-not-found-native-fallback-reason2 =
+    { -brand-short-name } na po betg proteger tia dumonda per l'adressa da questa website via noss server DNS segirà.
     Il motiv:
 neterror-dns-not-found-native-fallback-heuristic = DNS via HTTPS è vegnì deactivà en tia rait.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } n'ha betg pudì stabilir ina connexiun cun { $trrDomain }.
