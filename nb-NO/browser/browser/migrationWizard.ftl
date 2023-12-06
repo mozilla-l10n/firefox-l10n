@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Bokmerker
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoritter
 migration-logins-and-passwords-option-label = Lagrede innlogginger og passord
+migration-passwords-option-label = Lagrede passord
 migration-history-option-label = Nettleserhistorikk
 migration-extensions-option-label = Utvidelser
 migration-form-autofill-option-label = Autofylldata for skjema

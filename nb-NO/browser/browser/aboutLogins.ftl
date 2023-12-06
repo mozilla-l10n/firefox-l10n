@@ -361,6 +361,9 @@ about-logins-import-report-row-index = Rad { $number }
 about-logins-import-report-row-description-no-change = Duplikat: Nøyaktig samsvar med eksisterende innlogging
 about-logins-import-report-row-description-modified = Eksisterende innlogging oppdatert
 about-logins-import-report-row-description-added = Ny innlogging lagt til
+about-logins-import-report-row-description-no-change2 = Duplikat: Nøyaktig samsvar med eksisterende oppføring
+about-logins-import-report-row-description-modified2 = Eksisterende oppføring oppdatert
+about-logins-import-report-row-description-added2 = Nytt passord lagt til
 about-logins-import-report-row-description-error = Feil: Mangler felt
 
 ##
