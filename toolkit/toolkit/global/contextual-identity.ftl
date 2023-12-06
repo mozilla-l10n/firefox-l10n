@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Garra contenedor
     .accesskey = G
+user-context-manage-containers =
+    .label = Chestionar contenedors
+    .accesskey = o
