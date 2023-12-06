@@ -5,6 +5,10 @@
 
 ## Web Console API (in GeckoViewConsole.sys.mjs)
 
+console-stacktrace-anonymous-function = <ไม่ระบุชื่อ>
+# Variables:
+#   $name (String): user-defined name for the timer
+console-timer-start = { $name }: เริ่มจับเวลา
 # This string is used to display the result of the console.timeEnd() call.
 #
 # Variables:
