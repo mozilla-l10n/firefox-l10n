@@ -104,6 +104,7 @@ autofill-address-email = דוא״ל
 autofill-cancel-button = ביטול
 autofill-save-button = שמירה
 autofill-country-warning-message = מילוי טפסים אוטומטי זמין כרגע למדינות מסוימות בלבד.
+autofill-message-tooltip = הצגת הודעה על מילוי אוטומטי
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = הוספת כרטיס אשראי חדש
 # The dialog title for editing credit cards in browser preferences.
