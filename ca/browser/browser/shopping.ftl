@@ -56,24 +56,49 @@ shopping-message-bar-warning-product-not-available-reported =
     .heading = Informació disponible pròximament
     .message = Hauríem de tenir informació sobre les ressenyes d'aquest producte en un termini de 24 hores. Torneu a comprovar-ho.
 shopping-message-bar-analysis-in-progress-message2 = Això podria trigar uns 60 segons.
+shopping-message-bar-page-not-supported =
+    .heading = No podem comprovar aquestes ressenyes
+    .message = Malauradament, no podem comprovar la qualitat de les ressenyes per certs tipus de productes. Per exemple, targetes de regal, transmissions de vídeo, música i jocs.
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Punts destacats de les ressenyes recents
+shopping-highlight-price = Preu
+shopping-highlight-quality = Qualitat
+shopping-highlight-shipping = Enviament
+shopping-highlight-competitiveness = Competitivitat
+shopping-highlight-packaging = Embalatge
 
 ## Strings for show more card
 
+shopping-show-more-button = Mostra'n més
+shopping-show-less-button = Mostra'n menys
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Paràmetres
+shopping-settings-opt-out-button = Desactiva el verificador de ressenyes
+powered-by-fakespot = El verificador de ressenyes funciona amb tecnologia de <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Valoració ajustada
+shopping-adjusted-rating-unreliable-reviews = S’han eliminat les ressenyes poc fiables
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Són fiables aquestes ressenyes?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Com es determina la qualitat de la ressenya
 
 ## Strings for UrlBar button
 
@@ -93,6 +118,7 @@ shopping-message-bar-analysis-in-progress-message2 = Això podria trigar uns 60 
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-message-2 = Per saber si les ressenyes són fiables, comproveu-ne la qualitat. Només són 60 segons.
 
 ## Strings for the advertisement
 
