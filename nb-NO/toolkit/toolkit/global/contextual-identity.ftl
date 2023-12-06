@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Ingen beholder
     .accesskey = I
+user-context-manage-containers =
+    .label = Behandle beholdere
+    .accesskey = o
