@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Novas infurmaziuns da consultar
 shopping-message-bar-warning-stale-analysis-button = Controllar ussa
-shopping-message-bar-generic-error-title2 = Naginas infurmaziuns disponiblas actualmain
-shopping-message-bar-generic-error-message = Nus lavurain per schliar quest problem. Dà svelt puspè in tgit.
-shopping-message-bar-warning-not-enough-reviews-title = Anc betg avunda recensiuns
-shopping-message-bar-warning-not-enough-reviews-message2 = Uschespert che quest product ha dapli recensiuns, vegnin nus a pudair controllar lur qualitad.
-shopping-message-bar-warning-product-not-available-title = Il product n'è betg disponibel
-shopping-message-bar-warning-product-not-available-message2 = Sche ti vesas che quest product è puspè disponibel, annunzia quai e nus vegnin a lavurar per controllar las recensiuns.
-shopping-message-bar-warning-product-not-available-button = Rapportar che quest product è puspè disponibel
-shopping-message-bar-thanks-for-reporting-title = Grazia per rapportar!
-shopping-message-bar-thanks-for-reporting-message2 = Nus stuessan avair infurmaziuns davart las recensiuns da quest product entaifer las proximas 24 uras. Controllescha pli tard anc ina giada.
-shopping-message-bar-warning-product-not-available-reported-title2 = Proximamain datti ulteriuras infurmaziuns
-shopping-message-bar-warning-product-not-available-reported-message2 = Nus stuessan avair infurmaziuns davart las recensiuns da quest product entaifer las proximas 24 uras. Controllescha pli tard anc ina giada.
 shopping-message-bar-generic-error =
     .heading = Naginas infurmaziuns disponiblas per il mument
     .message = Nus lavurain per schliar il problem. Controllescha per plaschair pli tard anc ina giada.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Nus stuessan avair infurmaziuns davart las recensiuns da quest product entaifer las proximas 24 uras. Controllescha pli tard anc ina giada.
 shopping-message-bar-analysis-in-progress-title2 = Controllar la qualitad da las recensiuns
 shopping-message-bar-analysis-in-progress-message2 = Quai po cuzzar var 60 secundas.
-shopping-message-bar-page-not-supported-title = Nus na pudain betg controllar questas recensiuns
-shopping-message-bar-page-not-supported-message = Deplorablamain na pudain nus betg controllar la qualitad da las recensiuns da tscherts tips da products. Per exempel cartas da regal e videostreaming, musica e gieus.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Controllar la qualitad da las recensiuns ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Nus na pudain betg controllar questas recensiuns
     .message = Deplorablamain na pudain nus betg controllar la qualitad da las recensiuns da tscherts tips da products. Per exempel cartas da regal e videostreaming, musica e gieus.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Parameters
 shopping-settings-recommendations-toggle =
     .label = Mussar reclamas en la verificaziun da recensiuns
-shopping-settings-recommendations-learn-more = I vegnan mussadas reclamas occasiunalas per products relevants. Tut las reclamas ston resguardar noss standards da qualitad per recensiuns. <a data-l10n-name="review-quality-url">Ulteriuras infurmaziuns</a>
 shopping-settings-recommendations-learn-more2 = Ti vegns a vesair reclamas occasiunalas per products relevants. Nus faschain mo reclama per products cun recensiuns fidablas. <a data-l10n-name="review-quality-url">Ulteriuras infurmaziuns</a>
 shopping-settings-opt-out-button = Deactivar la verificaziun da recensiuns
 powered-by-fakespot = La verificaziun da recensiuns sa basa sin tecnologia da <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -181,7 +170,6 @@ shopping-survey-q2-radio-3-label = Na sai betg
 shopping-survey-next-button-label = Enavant
 shopping-survey-submit-button-label = Trametter
 shopping-survey-terms-link = Cundiziuns d'utilisaziun
-shopping-survey-thanks-message = Grazia per tes resun!
 shopping-survey-thanks =
     .heading = Grazia per tes resun!
 
@@ -198,12 +186,6 @@ shopping-callout-closed-not-opted-in-subtitle = Emprova la controlla da recensiu
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Emprova noss guid fidà per recensiuns da products
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Ve a savair quant fidablas che las recensiuns da products èn sin <b>{ $currentSite }</b> avant che far ina cumpra. La controlla da recensiuns, ina funcziun experimentala da { -vendor-short-name }, è integrada directamain en { -brand-product-name } – ed i funcziuna era sin <b>{ $secondSite }</b> e sin <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name

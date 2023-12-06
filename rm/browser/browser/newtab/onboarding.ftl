@@ -337,3 +337,10 @@ onboarding-device-migration-primary-button-label = S'annunziar
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Nus ta protegin cun plaschair
+onboarding-easy-setup-security-and-privacy-subtitle = Noss navigatur dad in'organisaziun senza finamira da profit, gida ad evitar che interpresas ta persequiteschian a la zuppada en il web.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Criptescha tias datas cun midar dad in apparat a tschel
+onboarding-mobile-download-security-and-privacy-subtitle = Sche ti la sincronisaziun è activada, criptescha { -brand-short-name } tes pleds-clav, segnapaginas e dapli. En pli pos ti acceder als tabs da tes auters apparats.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ta sustegna adina
+onboarding-gratitude-security-and-privacy-subtitle = Grazia per utilisar { -brand-short-name } da la Mozilla Foundation. Cun tes agid lavurain nus per crear in internet pli segir ed accessibel per ina e mintgin.

@@ -466,6 +466,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Adina mussar las travs da defilar
     .accesskey = i
+browsing-always-underline-links =
+    .label = Adina sutlingiar colliaziuns
+    .accesskey = u
 browsing-use-onscreen-keyboard =
     .label = Mussar ina tastatura tactila sche necessari
     .accesskey = t
@@ -707,6 +710,9 @@ sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
 sync-resend-verification =
     .label = Reenviar la verificaziun
     .accesskey = v
+sync-verify-account =
+    .label = Verifitgar il conto
+    .accesskey = V
 sync-remove-account =
     .label = Stizzar il conto
     .accesskey = r
@@ -1258,6 +1264,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS via HTTPS
 preferences-doh-description = Domain Name System (DNS) via HTTPS trametta tia dumonda per ina domena via ina connexiun criptada cun crear in DNS segirà. Quai renda pli difficil ad auters da vesair tge websites che ti visitas.
+preferences-doh-description2 = Domain Name System (DNS) via HTTPS trametta tia dumonda per ina domena via ina connexiun criptada cun porscher in DNS segirà. Quai renda pli difficil ad auters da vesair tge websites che ti visitas.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Status: { $status }
@@ -1274,6 +1281,7 @@ preferences-doh-status-disabled = Deactivà
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Betg activ ({ $reason })
 preferences-doh-group-message = Activar il DNS segirà cun:
+preferences-doh-group-message2 = Activar DNS via HTTPS cun:
 preferences-doh-expand-section =
     .tooltiptext = Ulteriuras infurmaziuns
 preferences-doh-setting-default =
