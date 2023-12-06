@@ -5,5 +5,5 @@
 about-about-title = About rehegua:
 about-about-note =
     Kóva kuatirogue rysýi “about” nde rekopytu’urã.<br/>
-    Oĩ heta ikatúva nemyangekoireínte. Ambuékatu ha’éva ñemyesakãrã añónte.<br/>
+    Oĩ heta ikatúva nemyangekoireínte. Ambuékatu ha’éva ñemoesakãrã añónte.<br/>
     Ha avei oĩ oñeñomínte oiporu haguére ñeporandu reheguáva.

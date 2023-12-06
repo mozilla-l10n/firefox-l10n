@@ -26,7 +26,7 @@ about-glean-upload-fake-enabled =
     Haipy: emoĩramo teramoĩ ñemboguaha, umi pings henyhẽta
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> ndive ha’eño ñembohekógui.
 # This message is followed by a bulleted list.
-about-glean-prefs-and-defines = Umi <a data-l10n-name="fog-prefs-and-defines-doc-link">erohoryvéva ha ñemyesakã</a> iporãva ogueroike:
+about-glean-prefs-and-defines = Umi <a data-l10n-name="fog-prefs-and-defines-doc-link">erohoryvéva ha ñemoesakã</a> iporãva ogueroike:
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.

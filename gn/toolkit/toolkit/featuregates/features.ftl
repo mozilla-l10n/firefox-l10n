@@ -19,7 +19,7 @@ experimental-features-media-jxl =
 experimental-features-media-jxl-description = Ko tembiapoite hendýva ndive, { -brand-short-name } omoneĩ pe JPEG XL (JXL) ysaja. Kóva ha’e ta’ãnga marandurenda iporãvéva ysaja omoneĩva jeku’e okañy’ỹre marandurenda JPEG guive. Eikuaave hag̃ua, eporandu <a data-l10n-name="bugzilla">bug 1539075</a>-pe.
 experimental-features-devtools-compatibility-panel =
     .label = Mboguatahára rembiporu: Ojokupytyva Rupa
-experimental-features-devtools-compatibility-panel-description = Ta’ãngarupa yke kuatiarogue Moambuekuaaha ohechaukáva marandu omyesakãva jokupyty reko tembiporu’i kundahára pa’ũme. Eporandu <a data-l10n-name="bugzilla">bug 1584464</a> erekove hag̃ua mba’emimi.
+experimental-features-devtools-compatibility-panel-description = Ta’ãngarupa yke kuatiarogue Moambuekuaaha ohechaukáva marandu omoesakãva jokupyty reko tembiporu’i kundahára pa’ũme. Eporandu <a data-l10n-name="bugzilla">bug 1584464</a> erekove hag̃ua mba’emimi.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Kookie: SameSite=None oikotevẽ tekome’ẽ hekorosãva
