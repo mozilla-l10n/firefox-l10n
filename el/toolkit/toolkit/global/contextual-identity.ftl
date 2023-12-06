@@ -6,6 +6,9 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
+user-context-personal =
+    .label = Προσωπικά
+    .accesskey = π
 user-context-work =
     .label = Εργασία
     .accesskey = ε
