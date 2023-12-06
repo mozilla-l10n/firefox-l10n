@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Ni galetes, ni historial, directament d
 about-private-browsing-cookie-banners-promo-header = Adeu als bàners de galetes!
 about-private-browsing-cookie-banners-promo-button = Reduïu els bàners de galetes
 about-private-browsing-cookie-banners-promo-message = Permeteu que el { -brand-short-name } gestioni automàticament les finestres emergents de galetes per a una navegació sense distraccions. El { -brand-short-name } rebutjarà totes les sol·licituds, si és possible.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = El { -brand-short-name } s'encarrega dels bàners de galetes
+about-private-browsing-cookie-banners-promo-body = Per a ser menys rastrejats i navegar amb menys distraccions, ara rebutgem automàticament molts bàners de galetes.
 
 ## Strings for Felt Privacy v1 experiments in 119
 

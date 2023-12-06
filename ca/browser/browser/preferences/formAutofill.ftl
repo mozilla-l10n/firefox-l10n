@@ -7,23 +7,40 @@
 
 autofill-manage-addresses-title = Adreces desades
 autofill-manage-addresses-list-header = Adreces
-
 autofill-manage-credit-cards-title = Targetes de crèdit desades
 autofill-manage-credit-cards-list-header = Targetes de crèdit
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Elimina
 autofill-manage-add-button = Afegeix…
 autofill-manage-edit-button = Edita…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Vols desar l'adreça?
+address-capture-update-doorhanger-header = Voleu actualitzar l'adreça?
+address-capture-edit-doorhanger-header = Edita l'adreça
+address-capture-save-button =
+    .label = Desa
+    .accessKey = s
+address-capture-not-now-button =
+    .label = Ara no
+    .accessKey = n
+address-capture-cancel-button =
+    .label = Cancel·la
+    .accessKey = C
+address-capture-update-button =
+    .label = Actualitza
+    .accessKey = A
+address-capture-learn-more-button =
+    .label = Més informació
+address-capture-edit-address-button =
+    .aria-label = Edita l'adreça
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Afegeix una adreça nova
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edita l'adreça
-
+autofill-address-name = Nom
 autofill-address-given-name = Nom
 autofill-address-additional-name = Segon nom
 autofill-address-family-name = Cognoms
@@ -81,19 +98,20 @@ autofill-address-eircode = Codi postal (Eircode)
 
 ##
 
+
+##
+
 autofill-address-country = País o regió
+autofill-address-country-only = País
 autofill-address-tel = Telèfon
 autofill-address-email = Adreça electrònica
-
 autofill-cancel-button = Cancel·la
 autofill-save-button = Desa
 autofill-country-warning-message = Actualment l'emplenament automàtic de formularis només està disponible per a alguns països.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Afegeix una targeta de crèdit
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Edita la targeta de crèdit
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +120,6 @@ autofill-edit-card-password-prompt =
         [windows] El { -brand-short-name } està provant de mostrar informació d'una targeta de crèdit. Confirmeu l'accés a aquest compte del Windows a continuació.
        *[other] El { -brand-short-name } està provant de mostrar informació d'una targeta de crèdit.
     }
-
 autofill-card-number = Número de targeta
 autofill-card-invalid-number = Introduïu un número de targeta vàlid
 autofill-card-name-on-card = Nom del titular
