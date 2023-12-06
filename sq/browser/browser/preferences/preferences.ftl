@@ -626,7 +626,7 @@ search-show-search-term-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Shfaq te përfundimet në shtyllën e adresave sugjerime kërkimi përpara se historik shfletimi
+    .label = Te përfundimet në shtyllën e adresave shfaq sugjerime kërkimi, përpara se historik shfletimi
 search-show-suggestions-private-windows =
     .label = Shfaq sugjerime kërkimesh në Dritare Private
 suggestions-addressbar-settings-generic2 = Ndryshoni rregullime për sugjerime të tjera shtylle adresash
@@ -1217,11 +1217,11 @@ privacy-segmentation-radio-on =
 security-header = Siguri
 security-browsing-protection = Mbrojtje Nga Lëndë e Rrejshme dhe Software i Rrezikshëm
 security-enable-safe-browsing =
-    .label = Bllokoni lëndë të rrezikshme dhe të rrejshme
+    .label = Blloko lëndë të rrezikshme dhe të rrejshme
     .accesskey = B
 security-enable-safe-browsing-link = Mësoni më tepër
 security-block-downloads =
-    .label = Bllokoni shkarkime të rrezikshme
+    .label = Blloko shkarkime të rrezikshme
     .accesskey = z
 security-block-uncommon-software =
     .label = Sinjalizo rreth software-i të padëshiruar dhe jo të zakonshëm
@@ -1231,7 +1231,7 @@ security-block-uncommon-software =
 
 certs-header = Dëshmi
 certs-enable-ocsp =
-    .label = Kërkojuni shërbyesve me përgjigje OCSP të ripohojnë vlefshmërinë e tanishme të dëshmive
+    .label = Kërkoju shërbyesve me përgjigje OCSP të ripohojnë vlefshmërinë e tanishme të dëshmive
     .accesskey = K
 certs-view =
     .label = Shihni Dëshmi…
