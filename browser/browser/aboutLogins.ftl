@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Búa til nýja innskráningu
+about-logins-page-title-name = Lykilorð
+about-logins-login-filter2 =
+    .placeholder = Leita að lykilorðum
+    .key = F
+create-login-button =
+    .title = Bæta við lykilorði
 fxaccounts-sign-in-text = Fáðu lykilorðin þín í önnur tæki
 fxaccounts-sign-in-sync-button = Skráðu þig inn til að samstilla
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } af { $total } innskráningum
        *[other] { $count } af { $total } innskráningum
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } lykilorð
+       *[other] { $count } lykilorð
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } af { $total } lykilorði
+       *[other] { $count } af { $total } lykilorðum
+    }
 login-list-sort-label-text = Raða eftir:
 login-list-name-option = Nafn (A-Ö)
 login-list-name-reverse-option = Nafn (Ö-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Aðvaranir
 login-list-last-changed-option = Síðast breytt
 login-list-last-used-option = Síðast notað
 login-list-intro-title = Engar innskráningar fundust
+login-list-intro-title2 = Engin lykilorð vistuð
 login-list-intro-description = Þegar þú vistar lykilorð í { -brand-product-name } mun það birtast hér.
 about-logins-login-list-empty-search-title = Engar innskráningar fundust
+about-logins-login-list-empty-search-title2 = Engin lykilorð fundust
 about-logins-login-list-empty-search-description = Engar niðurstöður passa við leitina þína.
 login-list-item-title-new-login = Ný innskráning
 login-list-item-subtitle-new-login = Settu inn innskráningarauðkennin þín
+login-list-item-title-new-login2 = Bæta við lykilorði
 login-list-item-subtitle-missing-username = (ekkert notandanafn)
 about-logins-list-item-breach-icon =
     .title = Vefsvæði hefur orðið fyrir gagnaráni
@@ -274,6 +298,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Flytja inn skrá með innskráningum
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Flytja lykilorð inn í { -brand-short-name }
 about-logins-import-file-picker-import-button = Flytja inn
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -310,6 +336,21 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Tvítekin innskráning fannst:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span >
        *[other] <span>Tvíteknar innskráningar fundust:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span >
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nýju lykilorði bætt við:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nýjum lykilorðum bætt við:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Fyrirliggjandi færsla uppfærð:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Fyrirliggjandi færslur uppfærðar:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Tvítekin færsla fannst:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span >
+       *[other] <span>Tvíteknar færslur fundust:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span >
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Villa:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ekki flutt inn)</span>
@@ -331,6 +372,7 @@ about-logins-import-dialog-error-try-import-again = Reyna að flytja inn aftur�
 about-logins-import-dialog-error-cancel = Hætta við
 about-logins-import-report-title = Samantekt innflutnings
 about-logins-import-report-description = Innskráningar og lykilorð flutt inn í { -brand-short-name }.
+about-logins-import-report-description2 = Lykilorð flutt inn í { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -338,6 +380,9 @@ about-logins-import-report-row-index = Röð { $number }
 about-logins-import-report-row-description-no-change = Tvítak: Nákvæm samsvörun við fyrirliggjandi innskráningu
 about-logins-import-report-row-description-modified = Fyrirliggjandi innskráning uppfærð
 about-logins-import-report-row-description-added = Nýrri innskráningu bætt við
+about-logins-import-report-row-description-no-change2 = Tvítak: Nákvæm samsvörun við fyrirliggjandi færslu
+about-logins-import-report-row-description-modified2 = Fyrirliggjandi færsla uppfærð
+about-logins-import-report-row-description-added2 = Nýju lykilorði bætt við
 about-logins-import-report-row-description-error = Villa: Vantar reit
 
 ##
@@ -365,6 +410,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvítekin innskráning</div> <div data-l10n-name="not-imported">(ekki flutt inn)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvíteknar innskráningar</div> <div data-l10n-name="not-imported">(ekki flutt inn)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nýju lykilorði bætt við</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nýjum lykilorðum bætt við</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fyrirliggjandi færsla uppfærð</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fyrirliggjandi færslur uppfærðar</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvítekin færsla</div> <div data-l10n-name="not-imported ">(ekki flutt inn)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvíteknar færslur</div> <div data-l10n-name="not-imported ">(ekki flutt inn)</div>
     }
 about-logins-import-report-error =
     { $count ->
