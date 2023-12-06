@@ -338,8 +338,17 @@ about-logins-import-dialog-items-no-change =
 about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>ססמאות חדשות שנוספו:</span> <span data-l10n-name="count">{ $count }</span>
-        [two] { "" }
-       *[other] { "" }
+       *[other] <span>כניסות חדשות שנוספו:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>רשומות קיימות שעודכנו:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>רשומות קיימות שעודכנו:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>רשומות כפולות שנמצאו:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
+       *[other] <span>רשומות כפולות שנמצאו:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
@@ -362,11 +371,15 @@ about-logins-import-dialog-error-try-import-again = ניסיון ייבוא חו
 about-logins-import-dialog-error-cancel = ביטול
 about-logins-import-report-title = סיכום הייבוא
 about-logins-import-report-description = כניסות וססמאות יובאו אל { -brand-short-name }.
+about-logins-import-report-description2 = ססמאות יובאו אל { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = שורה { $number }
 about-logins-import-report-row-description-no-change = כפיל: התאמה מדויקת של כניסה קיימת
+about-logins-import-report-row-description-no-change2 = כפיל: התאמה מדויקת של רשומה קיימת
+about-logins-import-report-row-description-modified2 = רשומה קיימת עודכנה
+about-logins-import-report-row-description-added2 = נוספה ססמה חדשה
 about-logins-import-report-row-description-error = שגיאה: שדה חסר
 
 ##
@@ -394,6 +407,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות כפולות</div> <div data-l10n-name="not-imported">(לא יובאו)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">כניסות כפולות</div> <div data-l10n-name="not-imported">(לא יובאו)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ססמה חדשה נוספה</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ססמאות חדשות נוספות</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">רשומה קיימת עודכנה</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">רשומות קיימות עודכנו</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">רשומה כפולה</div> <div data-l10n-name="not-imported">(לא יובא)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">רשומות כפולות</div> <div data-l10n-name="not-imported">(לא יובאו)</div>
     }
 about-logins-import-report-error =
     { $count ->
