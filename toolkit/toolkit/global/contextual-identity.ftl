@@ -6,6 +6,18 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
+user-context-personal =
+    .label = Privat
+    .accesskey = P
+user-context-work =
+    .label = Lavur
+    .accesskey = L
+user-context-banking =
+    .label = Banca
+    .accesskey = B
+user-context-shopping =
+    .label = Cumpras
+    .accesskey = C
 
 ##
 
