@@ -18,6 +18,7 @@ autofill-manage-edit-button = Edita…
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = Vols desar l'adreça?
+address-capture-save-doorhanger-description = Deseu la informació al { -brand-short-name } per poder emplenar els formularis ràpidament.
 address-capture-update-doorhanger-header = Voleu actualitzar l'adreça?
 address-capture-edit-doorhanger-header = Edita l'adreça
 address-capture-save-button =
@@ -32,8 +33,12 @@ address-capture-cancel-button =
 address-capture-update-button =
     .label = Actualitza
     .accessKey = A
+address-capture-manage-address-button =
+    .label = Paràmetres de les adreces
 address-capture-learn-more-button =
     .label = Més informació
+address-capture-open-menu-button =
+    .aria-label = Obre el menú
 address-capture-edit-address-button =
     .aria-label = Edita l'adreça
 # The dialog title for creating addresses in browser preferences.
@@ -45,6 +50,7 @@ autofill-address-given-name = Nom
 autofill-address-additional-name = Segon nom
 autofill-address-family-name = Cognoms
 autofill-address-organization = Organització
+autofill-address-street-address = Adreça postal
 autofill-address-street = Adreça postal
 
 ## address-level-3 (Sublocality) names
