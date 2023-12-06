@@ -378,6 +378,13 @@ about-logins-import-dialog-items-modified2 =
         [few] <span>Eksistowace zapiski zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Eksistowace zapiski zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Dwójny zapisk namakany:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
+        [two] <span>Dwójnej zapiskaj namakanej:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
+        [few] <span>Dwójne zapiski namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
+       *[other] <span>Dwójne zapiski namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Zmylk:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowany)</span>
@@ -401,6 +408,7 @@ about-logins-import-dialog-error-try-import-again = Spytajće znowa importować�
 about-logins-import-dialog-error-cancel = Přetorhnyć
 about-logins-import-report-title = Zjeće importować
 about-logins-import-report-description = Přizjewjenja a hesła su so do { -brand-short-name } importowali.
+about-logins-import-report-description2 = Hesła su so do { -brand-short-name } importowali.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -408,6 +416,9 @@ about-logins-import-report-row-index = Linka { $number }
 about-logins-import-report-row-description-no-change = Dwójny: Eksaktna kopija eksistowaceho přizjewjenja
 about-logins-import-report-row-description-modified = Eksistowace přizjewjenje je so zaktualizowało
 about-logins-import-report-row-description-added = Nowe přizjewjenje je so přidało
+about-logins-import-report-row-description-no-change2 = Dwójny: Eksaktna kopija eksistowaceho zapiska
+about-logins-import-report-row-description-modified2 = Eksistowacy zapisk je so zaktualizował
+about-logins-import-report-row-description-added2 = Nowe hesło je so přidało
 about-logins-import-report-row-description-error = Zmylk: Falowace polo
 
 ##
@@ -441,6 +452,27 @@ about-logins-import-report-no-change =
         [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójnej přizjewjeni</div><div data-l10n-name="not-imported">(njeimportowanej)</div>
         [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójne přizjewjenja</div><div data-l10n-name="not-imported">(njeimportowane)</div>
        *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójnych přizjewjenjow</div><div data-l10n-name="not-imported">(njeimportowane)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe hesło přidate</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowej hesle přidate</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe hesła přidate</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowych hesłow přidate</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowacy zapisk je so zaktualizował</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowacej zapiskaj stej so zaktualizowałoj</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowace zapiski su so zaktualizowali</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistowacych zapiskow je so zaktualizowało</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójny zapisk</div><div data-l10n-name="not-imported">(njeimportowany)</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójnej zapiskaj</div><div data-l10n-name="not-imported">(njeimportowanej)</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójne zapiski</div><div data-l10n-name="not-imported">(njeimportowane)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójnych zapiskow</div><div data-l10n-name="not-imported">(njeimportowane)</div>
     }
 about-logins-import-report-error =
     { $count ->
