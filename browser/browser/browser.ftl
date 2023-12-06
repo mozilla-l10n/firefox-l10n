@@ -279,6 +279,9 @@ quickactions-cmd-plugins = connectors
 # Opens the print dialog
 quickactions-print2 = Imprimeix la pàgina
 quickactions-cmd-print = imprimir, impressió, imprimeix
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Desa la pàgina com a PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Obre una finestra privada
 quickactions-cmd-private = navegació privada
@@ -348,6 +351,7 @@ identity-connection-secure = Connexió segura
 identity-connection-failure = La connexió ha fallat
 identity-connection-internal = Aquesta és una pàgina del { -brand-short-name } segura.
 identity-connection-file = Aquesta pàgina està desada a l'ordinador.
+identity-connection-associated = Aquesta pàgina s'ha carregat des d'una altra pàgina.
 identity-extension-page = Aquesta pàgina s'ha carregat des d'una extensió.
 identity-active-blocked = El { -brand-short-name } ha blocat parts d'aquesta pàgina que no són segures.
 identity-custom-root = Connexió verificada per un emissor de certificats que no és reconegut per Mozilla.
@@ -561,7 +565,7 @@ urlbar-result-action-sponsored = Patrocinat
 urlbar-result-action-switch-tab = Canvia a la pestanya
 urlbar-result-action-visit = Visita
 # Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Obre l'adreça del porta-retalls
+urlbar-result-action-visit-from-clipboard = Obre l'adreça del porta-retalls
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -614,6 +618,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Accions ràpides
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Cerques recents
 
 ## Reader View toolbar buttons
 

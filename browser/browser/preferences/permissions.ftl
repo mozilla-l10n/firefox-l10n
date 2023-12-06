@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Excepcions
     .style = min-width: 48em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adreça del lloc web
     .accesskey = d
-
 permissions-block =
     .label = Bloca
     .accesskey = B
-
 permissions-disable-etp =
     .label = Afegeix una excepció
     .accesskey = e
-
 permissions-session =
     .label = Permet durant la sessió
     .accesskey = s
-
 permissions-allow =
     .label = Permet
     .accesskey = P
-
 permissions-button-off =
     .label = Desactiva
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Desactiva temporalment
     .accesskey = t
-
 permissions-site-name =
     .label = Lloc web
-
 permissions-status =
     .label = Estat
-
 permissions-remove =
     .label = Elimina el lloc web
     .accesskey = E
-
 permissions-remove-all =
     .label = Elimina tots els llocs web
     .accesskey = E
-
 permission-dialog =
     .buttonlabelaccept = Desa els canvis
     .buttonaccesskeyaccept = s
-
 permissions-autoplay-menu = Per defecte per a tots els llocs web:
-
 permissions-searchbox =
     .placeholder = Cerca el lloc web
-
 permissions-capabilities-autoplay-allow =
     .label = Permet àudio i vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloca àudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloca àudio i vídeo
-
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloca
 permissions-capabilities-prompt =
     .label = Demana-m'ho sempre
-
 permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
     .value = Bloca
 permissions-capabilities-listitem-allow-session =
     .value = Permet durant la sessió
-
 permissions-capabilities-listitem-off =
     .value = Desactivat
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Excepcions - Mode només HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura actualitzar per a aquests llocs. Les excepcions no s'apliquen a les finestres privades.
+permissions-exceptions-https-only-desc2 = Podeu desactivar el mode només HTTPS per a llocs web específics. El { -brand-short-name } no intentarà canviar a una connexió HTTPS segura per a aquests llocs.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Paràmetres - Permisos d'altaveu
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Els llocs web següents han sol·licitat accés per a seleccionar un dispositiu de sortida d'àudio. Podeu indicar quins llocs web tenen permís per a seleccionar un dispositiu de sortida d'àudio.
-
 permissions-exceptions-doh-window =
     .title = Excepcions de llocs web per a DNS sobre HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = El { -brand-short-name } no utilitzarà el DNS segur en aquests llocs ni en llurs subdominis.
-
 permissions-doh-entry-field = Introduïu el nom de domini del lloc web
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Afegeix
     .accesskey = A
-
 permissions-doh-col =
     .label = Domini
-
 permissions-doh-remove =
     .label = Elimina
     .accesskey = m
-
 permissions-doh-remove-all =
     .label = Elimina-ho tot
     .accesskey = t
