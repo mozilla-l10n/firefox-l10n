@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Rregullime adrese
 address-capture-learn-more-button =
     .label = Mësoni më tepër
+address-capture-open-menu-button =
+    .aria-label = Hape menunë
+address-capture-edit-address-button =
+    .aria-label = Përpunoni adresë
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Shtoni Adresë të Re
 # The dialog title for editing addresses in browser preferences.

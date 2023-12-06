@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Çaktivizoje
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Aktivizoje
+protections-panel-report-broken-site =
+    .label = Njoftoni për sajt të dëmtuar
+    .title = Njoftoni për sajt të dëmtuar

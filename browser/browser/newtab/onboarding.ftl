@@ -329,3 +329,14 @@ onboarding-device-migration-title = Mirë se u kthyet!
 onboarding-device-migration-subtitle = Që të sillni në pajisjen tuaj të re faqerojtësit tuaj, fjalëkalime dhe historik, bëni hyrjen te { -fxaccount-brand-name(capitalization: "sentence") } juaj.
 onboarding-device-migration-subtitle2 = Që të sillni në pajisjen tuaj të re faqerojtësit tuaj, fjalëkalime dhe historik, bëni hyrjen te llogaria juaj.
 onboarding-device-migration-primary-button-label = Hyni
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Duam fort t’ju mbajmë të parrezik
+onboarding-easy-setup-security-and-privacy-subtitle = Shfletuesi ynë, me entin jofitimprurës nga pas, ndihmon të ndalen shoqëri t’ju ndjekin fshehtazi nëpër internet.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Jini i fshehtëzuar, kur hidheni nga një pajisje në tjetrën
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ju mbron krahët
+onboarding-gratitude-security-and-privacy-subtitle = Faleminderit që përdorni { -brand-short-name }-in, që ka nga pas Mozilla Foundation. Me përkrahjen tuaj, po punojmë për ta bërë internetin më të hapur dhe të përdorshëm për këdo.
