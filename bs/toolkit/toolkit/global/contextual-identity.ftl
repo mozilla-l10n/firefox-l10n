@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Bez Containera
     .accesskey = n
+user-context-manage-containers =
+    .label = Upravljaj kontejnerima
+    .accesskey = o
