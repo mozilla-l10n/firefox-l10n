@@ -6,9 +6,24 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
+user-context-personal =
+    .label = Личное
+    .accesskey = Л
+user-context-work =
+    .label = Работа
+    .accesskey = Р
+user-context-banking =
+    .label = Банкинг
+    .accesskey = Б
+user-context-shopping =
+    .label = Покупки
+    .accesskey = П
 
 ##
 
+user-context-none =
+    .label = Без контейнера
+    .accesskey = К
 user-context-manage-containers =
     .label = Управление контейнерами
     .accesskey = й
