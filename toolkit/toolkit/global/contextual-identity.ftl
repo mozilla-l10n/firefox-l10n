@@ -21,6 +21,9 @@ user-context-shopping =
 
 ##
 
+user-context-none =
+    .label = Niciun container
+    .accesskey = n
 user-context-manage-containers =
     .label = Gestionează containerele
     .accesskey = O
