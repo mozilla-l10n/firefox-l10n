@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Sol·licita als llocs web que no venguin ni comparteixin les meves dades
     .accesskey = S
+non-technical-privacy-header = Preferències de privadesa del lloc web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -465,6 +466,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Mostra sempre les barres de desplaçament
     .accesskey = o
+browsing-always-underline-links =
+    .label = Subratlla sempre els enllaços
+    .accesskey = S
 browsing-use-onscreen-keyboard =
     .label = Mostra un teclat tàctil quan calgui
     .accesskey = M
@@ -706,6 +710,9 @@ sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $e
 sync-resend-verification =
     .label = Torna a enviar la verificació
     .accesskey = v
+sync-verify-account =
+    .label = Verifica el compte
+    .accesskey = V
 sync-remove-account =
     .label = Elimina el compte
     .accesskey = E
@@ -969,9 +976,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Reducció de bàners de galetes
 cookie-banner-handling-description = El { -brand-short-name } intenta rebutjar automàticament les sol·licituds de bàners de galetes de tots els llocs compatibles.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Blocador de bàners de galetes
+cookie-banner-blocker-description = Quan un lloc demana si es poden utilitzar galetes en mode de navegació privada, el { -brand-short-name } ho rebutjarà automàticament. Només s'aplica als llocs compatibles.
 cookie-banner-learn-more = Més informació
 forms-handle-cookie-banners =
     .label = Reduïu els bàners de galetes
+cookie-banner-blocker-checkbox-label =
+    .label = Rebutja automàticament els bàners de galetes
 
 ## Privacy Section - Address Bar
 
@@ -1001,6 +1015,9 @@ addressbar-locbar-engines-option =
     .accesskey = M
 addressbar-locbar-quickactions-option =
     .label = Accions ràpides
+    .accesskey = r
+addressbar-locbar-showrecentsearches-option =
+    .label = Mostra les cerques recents
     .accesskey = r
 addressbar-suggestions-settings = Canvia les preferències dels suggeriments de motors de cerca
 addressbar-quickactions-learn-more = Més informació
@@ -1247,6 +1264,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS sobre HTTPS
 preferences-doh-description = El sistema de noms de domini (DNS) sobre HTTPS envia la vostra sol·licitud d'un nom de domini mitjançant una connexió xifrada, creant un DNS segur i dificultant que els altres vegin a quin lloc web esteu a punt d'accedir.
+preferences-doh-description2 = El sistema de noms de domini (DNS) sobre HTTPS envia la vostra sol·licitud d'un nom de domini mitjançant una connexió xifrada, proporcionant un DNS segur i dificultant que els altres vegin a quin lloc web esteu a punt d'accedir.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Estat: { $status }
@@ -1263,6 +1281,7 @@ preferences-doh-status-disabled = Desactivat
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Inactiu ({ $reason })
 preferences-doh-group-message = Activa el DNS segur mitjançant:
+preferences-doh-group-message2 = Habilita DNS sobre HTTPS mitjançant:
 preferences-doh-expand-section =
     .tooltiptext = Més informació
 preferences-doh-setting-default =
