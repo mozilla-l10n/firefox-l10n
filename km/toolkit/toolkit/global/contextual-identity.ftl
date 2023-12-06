@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = គ្មាន​ឧបករណ៍​ផ្ទុក
     .accesskey = N
+user-context-manage-containers =
+    .label = គ្រប់គ្រង​ប្រអប់​ផ្ទុក
+    .accesskey = o
