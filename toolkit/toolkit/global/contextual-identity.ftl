@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Không ngăn chứa
     .accesskey = N
+user-context-manage-containers =
+    .label = Quản lý ngăn chứa
+    .accesskey = O
