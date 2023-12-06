@@ -203,6 +203,8 @@ cfr-cbh-confirm-button = Rebutja els bàners de galetes
     .accesskey = R
 cfr-cbh-dismiss-button = Ara no
     .accesskey = n
+cookie-banner-blocker-cfr-header = El { -brand-short-name } ha blocat galetes
+cookie-banner-blocker-cfr-body = Rebutgem automàticament moltes finestres emergents de galetes perquè sigui difícil que els llocs us facin un seguiment.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

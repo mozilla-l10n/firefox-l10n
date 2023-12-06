@@ -246,6 +246,7 @@ migration-wizard-progress-extensions-support-link = Més informació sobre com e
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = No s'ha trobat cap extensió equivalent
+migration-wizard-progress-extensions-addons-link = Exploreu les extensions per al { -brand-short-name }
 
 ##
 
@@ -270,6 +271,16 @@ migration-wizard-progress-success-history =
        *[other] Dels últims { $maxAgeInDays } dies
     }
 migration-wizard-progress-success-formdata = Historial de formularis
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } forma de pagament
+       *[other] { $quantity } formes de pagament
+    }
 migration-wizard-safari-permissions-sub-header = Per a importar les adreces d'interès i l'historial de navegació del Safari:
 migration-wizard-safari-instructions-continue = Seleccioneu «Continuar»
 migration-wizard-safari-instructions-folder = Seleccioneu la carpeta del Safari a la llista i trieu «Obre»
