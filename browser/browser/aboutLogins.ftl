@@ -453,6 +453,27 @@ about-logins-import-report-no-change =
         [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójne pśizjawjenja</div><div data-l10n-name="not-imported">(njeimportěrowane)</div>
        *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójnych pśizjawjenja</div><div data-l10n-name="not-imported">(njeimportěrowane)</div>
     }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe gronidło pśidane</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowej gronidle pśidanej</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowe gronidła pśidane</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nowych gronidłow pśidane</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistěrujucy zapisk jo se zaktualizěrował</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistěrujucej zapiska stej se zaktualizěrowałej</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistěrujucy zapiski su se zaktualizěrowali</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">eksistěrujucych zapiskow jo se zaktualizěrowało</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójny zapisk</div><div data-l10n-name="not-imported">(njeimportěrowany)</div>
+        [two] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójnej zapiska</div><div data-l10n-name="not-imported">(njeimportěrowanej)</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójne zapiski</div><div data-l10n-name="not-imported">(njeimportěrowane)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">dwójnych zapiskow</div><div data-l10n-name="not-imported">(njeimportěrowane)</div>
+    }
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">zmólka</div><div data-l10n-name="not-imported">(njeimportěrowany)</div>

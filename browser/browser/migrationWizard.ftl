@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Cytańske znamjenja
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Fawority
 migration-logins-and-passwords-option-label = Skłaźone pśizjawjenja a gronidła
+migration-passwords-option-label = Skłaźone gronidła
 migration-history-option-label = Pśeglědowańska historija
 migration-extensions-option-label = Rozšyrjenja
 migration-form-autofill-option-label = Daty za awtomatiske wupołnjenje formularow
