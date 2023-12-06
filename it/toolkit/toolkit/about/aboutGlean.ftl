@@ -89,3 +89,4 @@ about-glean-about-data-header = Informazioni sui dati
 about-glean-about-data-explanation =
   Per sfogliare l’elenco dei dati raccolti, consultare il <a data-l10n-name="glean-dictionary-link">Dizionario { -glean-brand-name }</a>.
 
+

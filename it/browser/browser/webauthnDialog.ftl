@@ -27,3 +27,4 @@ webauthn-uv-invalid-long-prompt =
        *[other] Verifica utente non riuscita. Rimangono { $retriesLeft } tentativi. Riprova.
     }
 webauthn-uv-invalid-short-prompt = Verifica utente non riuscita. Riprova.
+

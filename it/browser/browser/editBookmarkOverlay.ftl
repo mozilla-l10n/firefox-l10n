@@ -62,3 +62,4 @@ bookmark-overlay-tags-caption-label = Utilizza le etichette per organizzare i tu
 
 bookmark-overlay-keyword-caption-label-2 = Utilizza una singola parola chiave per aprire il segnalibro direttamente dalla barra degli indirizzi
 
+
