@@ -94,6 +94,11 @@ login-item-edit-button = Modificar
 about-logins-login-item-remove-button = Suprimir
 login-item-origin-label = Adreça web
 login-item-tooltip-message = Asseguratz-vos que correspond a l’adreça exacta del site web ont vos autentificatz.
+about-logins-origin-tooltip = Asseguratz-vos que correspond a l’adreça exacta del site web ont vos autentificatz.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Asseguratz-vos d’enregistrar vòstre senhal actual per aqueste site. Lo cambiar aquí lo càmbia pas sus { $webTitle }.
+about-logins-add-password-tooltip = Asseguratz-vos d’enregistrar vòstre senhal actual per aqueste site.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nom d'utilizaire
