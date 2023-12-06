@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Δημιουργία νέας σύνδεσης
+about-logins-page-title-name = Κωδικοί πρόσβασης
+about-logins-login-filter2 =
+    .placeholder = Αναζήτηση κωδικών πρόσβασης
+    .key = F
+create-login-button =
+    .title = Προσθήκη κωδικού πρόσβασης
 fxaccounts-sign-in-text = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασής σας από άλλες συσκευές
 fxaccounts-sign-in-sync-button = Σύνδεση για συγχρονισμό
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } από { $total } σύνδεση
        *[other] { $count } από { $total } συνδέσεις
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } κωδικός πρόσβασης
+       *[other] { $count } κωδικοί πρόσβασης
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } από { $total } κωδικός πρόσβασης
+       *[other] { $count } από { $total } κωδικοί πρόσβασης
+    }
 login-list-sort-label-text = Ταξινόμηση:
 login-list-name-option = Όνομα (Α-Ω)
 login-list-name-reverse-option = Όνομα (Ω-Α)
@@ -63,6 +84,7 @@ about-logins-login-list-empty-search-title = Δεν βρέθηκαν συνδέ�
 about-logins-login-list-empty-search-description = Δεν βρέθηκαν αποτελέσματα για την αναζήτησή σας.
 login-list-item-title-new-login = Νέα σύνδεση
 login-list-item-subtitle-new-login = Εισαγάγετε τα διαπιστευτήριά σας
+login-list-item-title-new-login2 = Προσθήκη κωδικού πρόσβασης
 login-list-item-subtitle-missing-username = (χωρίς όνομα χρήστη)
 about-logins-list-item-breach-icon =
     .title = Παραβιασμένος ιστότοπος
