@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Sin contenedor
     .accesskey = N
+user-context-manage-containers =
+    .label = Gestionar contenedores
+    .accesskey = O
