@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Be sudėtinės kortelės
     .accesskey = B
+user-context-manage-containers =
+    .label = Tvarkyti sudėtines korteles
+    .accesskey = u
