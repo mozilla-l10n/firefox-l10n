@@ -301,6 +301,20 @@ pdfjs-editor-ink-button-label = Zeichnen
 pdfjs-editor-stamp-button =
     .title = Grafiken hinzufügen oder bearbeiten
 pdfjs-editor-stamp-button-label = Grafiken hinzufügen oder bearbeiten
+pdfjs-editor-remove-button =
+    .title = Entfernen
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Zeichnung entfernen
+pdfjs-editor-remove-freetext-button =
+    .title = Text entfernen
+pdfjs-editor-remove-stamp-button =
+    .title = Grafik entfernen
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Farbe
 pdfjs-editor-free-text-size-input = Größe
