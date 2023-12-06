@@ -94,6 +94,11 @@ login-item-edit-button = Modifitgar
 about-logins-login-item-remove-button = Allontanar
 login-item-origin-label = Adressa da la website
 login-item-tooltip-message = Controllescha che quai correspunda exact a l'adressa da la website a la quala ti t'annunzias.
+about-logins-origin-tooltip = Controllescha che quai correspunda exact a l'adressa da la website a la quala ti t'annunzias.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Fa la segira che ti memoriseschas tes pled-clav actual per questa website. Cun midar qua il pled-clav na sa mida il pled-clav da { $webTitle } betg.
+about-logins-add-password-tooltip = Fa la segira che ti memoriseschas tes pled-clav actual per questa website.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Num d'utilisader

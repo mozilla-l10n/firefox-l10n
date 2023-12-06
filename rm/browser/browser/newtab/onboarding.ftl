@@ -332,3 +332,8 @@ onboarding-device-migration-title = Bel da ta vesair puspè!
 onboarding-device-migration-subtitle = T'annunzia en tes { -fxaccount-brand-name(capitalization: "sentence") } per prender cun tai tes segnapaginas, pleds-clav e tia cronologia sin tes nov apparat.
 onboarding-device-migration-subtitle2 = T'annunzia en tes conto per purtar cun tai tes segnapaginas, pleds-clav e la cronologia sin tes nov apparat.
 onboarding-device-migration-primary-button-label = S'annunziar
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Nus ta protegin cun plaschair
