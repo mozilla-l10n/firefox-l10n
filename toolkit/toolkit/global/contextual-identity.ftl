@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Ingen behållare
     .accesskey = n
+user-context-manage-containers =
+    .label = Hantera behållare
+    .accesskey = b
