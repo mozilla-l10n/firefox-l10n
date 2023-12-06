@@ -8,6 +8,11 @@ webauthn-pin-invalid-long-prompt = PIN이 잘못되었습니다. 이 기기의 �
 webauthn-pin-invalid-short-prompt = PIN이 잘못되었습니다. 다시 시도하세요.
 webauthn-pin-required-prompt = 기기의 PIN을 입력하세요.
 webauthn-select-sign-result-unknown-account = 알 수 없는 계정
+webauthn-a-passkey-label = 암호 키
+webauthn-another-passkey-label = 다른 암호 키 사용
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = { $domain }의 암호 키
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt = 사용자 확인에 실패했습니다. { $retriesLeft }번의 시도가 남았습니다. 다시 시도하세요.
