@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Žiadny kontajner
     .accesskey = Ž
+user-context-manage-containers =
+    .label = Spravovať kontajnery
+    .accesskey = S
