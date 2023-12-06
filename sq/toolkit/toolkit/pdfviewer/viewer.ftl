@@ -292,6 +292,20 @@ pdfjs-editor-ink-button-label = Vizatoni
 pdfjs-editor-stamp-button =
     .title = Shtoni ose përpunoni figura
 pdfjs-editor-stamp-button-label = Shtoni ose përpunoni figura
+pdfjs-editor-remove-button =
+    .title = Hiqe
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Hiq vizatim
+pdfjs-editor-remove-freetext-button =
+    .title = Hiq tekst
+pdfjs-editor-remove-stamp-button =
+    .title = Hiq figurë
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Ngjyrë
 pdfjs-editor-free-text-size-input = Madhësi
