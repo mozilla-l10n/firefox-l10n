@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Неизолиран
     .accesskey = Н
+user-context-manage-containers =
+    .label = Управление на изолатори
+    .accesskey = з
