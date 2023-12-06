@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Tradueix aquesta pàgina
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Tradueix aquesta pàgina - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +64,8 @@ translations-panel-translate-button-loading =
     .label = Espereu…
 translations-panel-translate-cancel =
     .label = Cancel·la
+translations-panel-learn-more-link = Més informació
+translations-panel-intro-description = Per a la vostra privadesa, les traduccions no surten mai del dispositiu. Aviat hi hauran llengües noves i millores disponibles.
 translations-panel-error-translating = Hi ha hagut un problema en traduir. Torneu-ho a provar.
 translations-panel-error-load-languages = No s’han pogut carregar les llengües
 translations-panel-error-load-languages-hint = Comproveu la connexió a Internet i torneu-ho a provar.
@@ -112,14 +119,20 @@ translations-manage-description = Baixeu llengües per a la traducció fora de l
 translations-manage-all-language = Totes les llengües
 translations-manage-download-button = Baixa
 translations-manage-delete-button = Suprimeix
-translations-manage-language-download-button =
-    .label = Baixa
-    .accesskey = B
-translations-manage-language-delete-button =
-    .label = Suprimeix
-    .accesskey = S
 translations-manage-error-download = Hi ha hagut un problema en baixar els fitxers de la llengua. Torneu-ho a provar.
 translations-manage-error-delete = Hi ha hagut un problema en suprimir els fitxers de la llengua. Torneu-ho a provar.
+translations-manage-intro = Definiu les preferències de llengua i de traducció dels llocs, i gestioneu les llengües instal·lades per a la traducció fora de línia.
+translations-manage-install-description = Instal·la llengües per a la traducció fora de línia
+translations-manage-language-install-button =
+    .label = Instal·la
+translations-manage-language-install-all-button =
+    .label = Instal·la-ho tot
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = Elimina
+translations-manage-language-remove-all-button =
+    .label = Elimina-ho tot
+    .accesskey = E
 translations-manage-error-list = No s'ha pogut obtenir la llista de llengües disponibles per a la traducció. Actualitzeu la pàgina per tornar-ho a provar.
 translations-settings-title =
     .title = Paràmetres de les traduccions
