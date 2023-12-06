@@ -15,6 +15,12 @@ user-context-work =
 user-context-banking =
     .label = ബാങ്കിങ്ങ്
     .accesskey = ബ
+user-context-shopping =
+    .label = ഷോപ്പിംഗ്
+    .accesskey = S
 
 ##
 
+user-context-none =
+    .label = കണ്ടെയ്നര്‍ ഇല്ല
+    .accesskey = N
