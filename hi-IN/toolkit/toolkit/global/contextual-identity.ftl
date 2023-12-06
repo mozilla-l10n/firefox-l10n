@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = कोई पात्र नही
     .accesskey = N
+user-context-manage-containers =
+    .label = कंटेनर को प्रबंधित करें
+    .accesskey = O
