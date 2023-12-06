@@ -5,6 +5,15 @@
 
 ## Web Console API (in GeckoViewConsole.sys.mjs)
 
+console-stacktrace-anonymous-function = <alaxam>
+# Variables:
+#   $filename (String): Source file name
+#   $functionName (String): JavaScript function name
+#   $lineNumber (String): The line number of the stacktrace call
+console-stacktrace = Bàyyiiti tegle gu { $filename }, solo { $functionName }, rëdd { $lineNumber }.
+# Variables:
+#   $name (String): user-defined name for the timer
+console-timer-start = { $name } : nattkaayu-waxtu bi tambali na
 # This string is used to display the result of the console.timeEnd() call.
 #
 # Variables:
