@@ -5,6 +5,12 @@
 
 ## Web Console API (in GeckoViewConsole.sys.mjs)
 
+console-stacktrace-anonymous-function = <anónima>
+# Variables:
+#   $filename (String): Source file name
+#   $functionName (String): JavaScript function name
+#   $lineNumber (String): The line number of the stacktrace call
+console-stacktrace = Rastreo de pila desde { $filename }, función { $functionName }, línea { $lineNumber }.
 # Variables:
 #   $name (String): user-defined name for the timer
 console-timer-start = { $name }: temporizador iniciado
