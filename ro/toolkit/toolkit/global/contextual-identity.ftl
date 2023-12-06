@@ -9,6 +9,15 @@
 user-context-personal =
     .label = Personale
     .accesskey = P
+user-context-work =
+    .label = Lucru
+    .accesskey = W
+user-context-banking =
+    .label = Banking
+    .accesskey = B
+user-context-shopping =
+    .label = Cumpărături
+    .accesskey = S
 
 ##
 
