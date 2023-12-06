@@ -14,6 +14,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Wopacny PIN. Wopytajśo hyšći raz.
 webauthn-pin-required-prompt = Pšosym zapódajśo PIN za swój rěd.
 webauthn-select-sign-result-unknown-account = Njeznate konto
+webauthn-a-passkey-label = Gronidłowy kluc wužywaś
+webauthn-another-passkey-label = Drugi gronidłowy kluc wužywaś
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Gronidłowy kluc za { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
