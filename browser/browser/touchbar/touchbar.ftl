@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Strings in this file are used to localize button titles displayed on the 
+# Strings in this file are used to localize button titles displayed on the
 # MacBook Touch Bar.
 back = Mbrapsht
 forward = Përpara
@@ -19,9 +19,8 @@ open-location = Bëni kërkim ose jepni adresë
 share = Ndajeni me të tjerët
 close-window = Mbylleni Dritaren
 open-sidebar = Anështylla
-
 # This string describes shortcuts for search.
-search-popover = Kërko për shkurtore
+search-popover = Shkurtore kërkimi
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
 search-search-in = Kërko te:
