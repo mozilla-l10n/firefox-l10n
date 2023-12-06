@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Žeden kontejner
     .accesskey = n
+user-context-manage-containers =
+    .label = Kontejnery zastojaś
+    .accesskey = K
