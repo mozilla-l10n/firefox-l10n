@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Nincs konténer
     .accesskey = N
+user-context-manage-containers =
+    .label = Konténerek kezelése
+    .accesskey = O
