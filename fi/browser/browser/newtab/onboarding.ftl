@@ -337,6 +337,9 @@ onboarding-device-migration-primary-button-label = Kirjaudu sisään
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Turvaamisesi on tärkeää meille
+onboarding-easy-setup-security-and-privacy-subtitle = Voittoa tavoittelemattoman tahon tukema selaimemme auttaa estämään yrityksiä seuraamasta sinua salaa verkossa.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Pysy salattuna, kun vaihtelet laitteiden välillä
 onboarding-mobile-download-security-and-privacy-subtitle = Synkronoinnin myötä { -brand-short-name } salaa salasanasi, kirjanmerkkisi ja paljon muuta. Lisäksi voit valita välilehtiä muilta laitteiltasi.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } huolehtii sinusta
