@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = بدون زبانه حامل
     .accesskey = ب
+user-context-manage-containers =
+    .label = مدیریت کانتینرها
+    .accesskey = O
