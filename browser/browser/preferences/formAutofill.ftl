@@ -114,6 +114,7 @@ autofill-address-email = 이메일
 autofill-cancel-button = 취소
 autofill-save-button = 저장
 autofill-country-warning-message = 양식 자동 채우기는 현재 일부 국가에서만 사용할 수 있습니다.
+autofill-message-tooltip = 자동 채우기에 대한 메시지 보기
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = 새 신용 카드 추가
 # The dialog title for editing credit cards in browser preferences.

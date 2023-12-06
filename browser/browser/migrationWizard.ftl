@@ -76,6 +76,7 @@ migration-bookmarks-option-label = 북마크
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = 즐겨찾기
 migration-logins-and-passwords-option-label = 저장된 로그인 및 비밀번호
+migration-passwords-option-label = 저장된 비밀번호
 migration-history-option-label = 방문 기록
 migration-extensions-option-label = 확장 기능
 migration-form-autofill-option-label = 양식 자동 채우기 데이터
