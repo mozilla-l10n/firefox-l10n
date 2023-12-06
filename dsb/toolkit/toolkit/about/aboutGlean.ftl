@@ -86,6 +86,14 @@ about-glean-adhoc-explanation =
     a API <code>testGetValue()</code> takle wužywaśo:
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Za dalšne testy <i>ad hoc</i>
+    móžośo teke aktualnu gódnotu wěstego źěla instrumentacije póstajiś,
+    gaž konsolu wuwijaŕskich rědow how w <code>about:glean</code> wócynjaśo
+    a API <code>testGetValue()</code> takle wužywaśo:
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    za metriku z mjenim <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Pšosym źiwajśo na to, až API Glean JS z pomocu konsole wuwijaŕskichrědow wužywaś.
     To groni, až se metriska kategorija a metriske mě w
