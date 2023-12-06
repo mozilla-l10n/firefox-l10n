@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Nieuwe aanmelding maken
+about-logins-page-title-name = Wachtwoorden
+about-logins-login-filter2 =
+    .placeholder = Wachtwoorden zoeken
+    .key = F
+create-login-button =
+    .title = Wachtwoord toevoegen
 fxaccounts-sign-in-text = Breng uw wachtwoorden naar uw andere apparaten
 fxaccounts-sign-in-sync-button = Aanmelden om te synchroniseren
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } van { $total } aanmelding
        *[other] { $count } van { $total } aanmeldingen
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $quantity } wachtwoord
+       *[other] { $quantity } wachtwoorden
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } van { $total } wachtwoord
+       *[other] { $count } van { $total } wachtwoorden
+    }
 login-list-sort-label-text = Sorteren op:
 login-list-name-option = Naam (A-Z)
 login-list-name-reverse-option = Naam (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Waarschuwingen
 login-list-last-changed-option = Laatst gewijzigd
 login-list-last-used-option = Laatst gebruikt
 login-list-intro-title = Geen aanmeldingen gevonden
+login-list-intro-title2 = Geen opgeslagen wachtwoorden
 login-list-intro-description = Wanneer u een wachtwoord opslaat in { -brand-product-name }, wordt dit hier weergegeven.
 about-logins-login-list-empty-search-title = Geen aanmeldingen gevonden
+about-logins-login-list-empty-search-title2 = Geen wachtwoorden gevonden
 about-logins-login-list-empty-search-description = Uw zoekopdracht heeft geen resultaten opgeleverd.
 login-list-item-title-new-login = Nieuwe aanmelding
 login-list-item-subtitle-new-login = Voer uw aanmeldgegevens in
+login-list-item-title-new-login2 = Wachtwoord toevoegen
 login-list-item-subtitle-missing-username = (geen gebruikersnaam)
 about-logins-list-item-breach-icon =
     .title = Website met datalek
@@ -274,6 +298,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Bestand met aanmeldingen importeren
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Wachtwoorden importeren in { -brand-short-name }
 about-logins-import-file-picker-import-button = Importeren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -331,6 +357,7 @@ about-logins-import-dialog-error-try-import-again = Probeer nogmaals te importer
 about-logins-import-dialog-error-cancel = Annuleren
 about-logins-import-report-title = Importsamenvatting
 about-logins-import-report-description = Aanmeldingen en wachtwoorden geïmporteerd in { -brand-short-name }.
+about-logins-import-report-description2 = Wachtwoorden geïmporteerd in { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -338,6 +365,9 @@ about-logins-import-report-row-index = Rij { $number }
 about-logins-import-report-row-description-no-change = Duplicaat: exacte overeenkomst met bestaande aanmelding
 about-logins-import-report-row-description-modified = Bestaande aanmelding bijgewerkt
 about-logins-import-report-row-description-added = Nieuwe aanmelding toegevoegd
+about-logins-import-report-row-description-no-change2 = Duplicaat: exacte overeenkomst met bestaande invoer
+about-logins-import-report-row-description-modified2 = Bestaande invoer bijgewerkt
+about-logins-import-report-row-description-added2 = Nieuw wachtwoord toegevoegd
 about-logins-import-report-row-description-error = Fout: veld ontbreekt
 
 ##
