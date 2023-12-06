@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Überprüfen Sie, ob { -brand-short-name 
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } kann Ihre Anfrage für die Adresse dieser Website nicht durch unseren vertrauenswürdigen DNS-Resolver schützen. Der Grund ist:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } kann Ihre Anfrage für die Adresse dieser Website nicht durch unseren sicheren DNS-Anbieter schützen. Der Grund ist:
 neterror-dns-not-found-trr-third-party-warning2 = Sie können mit Ihrem Standard-DNS-Resolver fortfahren. Ein Drittanbieter kann jedoch möglicherweise sehen, welche Websites Sie besuchen.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } konnte keine Verbindung zu { $trrDomain } herstellen.
 neterror-dns-not-found-trr-only-timeout = Die Verbindung zu { $trrDomain } dauerte länger als erwartet.
