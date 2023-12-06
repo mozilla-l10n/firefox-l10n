@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Cap contenidor
     .accesskey = C
+user-context-manage-containers =
+    .label = Gestiona els contenidors
+    .accesskey = o
