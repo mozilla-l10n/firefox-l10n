@@ -351,6 +351,7 @@ identity-connection-secure = Connexion segura
 identity-connection-failure = Fracàs de connexion
 identity-connection-internal = Aquò es una pagina segura de { -brand-short-name }.
 identity-connection-file = Aquela pagina es enregistrada dins vòstre ordinador.
+identity-connection-associated = Aquela pagina es estada cargada d’una autra pagina.
 identity-extension-page = Aquela pagina es estada cargada d’una extension.
 identity-active-blocked = { -brand-short-name } a blocat d'elements pas segurs sus aquela pagina.
 identity-custom-root = Connexion verificada per un emissor de certificat pas reconegut per Mozilla.

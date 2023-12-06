@@ -36,6 +36,10 @@ address-capture-manage-address-button =
     .label = Paramètres d’adreça
 address-capture-learn-more-button =
     .label = Ne saber mai
+address-capture-open-menu-button =
+    .aria-label = Dobrir lo menú
+address-capture-edit-address-button =
+    .aria-label = Modificar l’adreça
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Apondre una novèla adreça
 # The dialog title for editing addresses in browser preferences.
