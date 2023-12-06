@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Ingen behaldar
     .accesskey = I
+user-context-manage-containers =
+    .label = Handsam behaldarar
+    .accesskey = H
