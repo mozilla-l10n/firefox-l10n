@@ -9,6 +9,7 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Стварыць новы лагін
+about-logins-page-title-name = Паролі
 fxaccounts-sign-in-text = Атрымайце доступ да сваіх пароляў на іншых прыладах
 fxaccounts-sign-in-sync-button = Увайсці ў сінхранізацыю
 fxaccounts-avatar-button =
