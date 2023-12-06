@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = கொள்கலன் இல்லை
     .accesskey = N
+user-context-manage-containers =
+    .label = கலன்களை நிர்வகி
+    .accesskey = O
