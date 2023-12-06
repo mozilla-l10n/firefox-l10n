@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Nowe pśizjawjenje załožyś
+about-logins-page-title-name = Gronidła
+about-logins-login-filter2 =
+    .placeholder = Gronidła pytaś
+    .key = F
+create-login-button =
+    .title = Gronidło pśidaś
 fxaccounts-sign-in-text = Pśinjasćo swóje gronidła do wašych drugich rědow
 fxaccounts-sign-in-sync-button = Pla Sync pśizjawiś
 fxaccounts-avatar-button =
@@ -53,6 +59,25 @@ login-list-filtered-count =
         [few] { $count } z { $total } přizjewjenjow
        *[other] { $count } z { $total } přizjewjenjow
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } gronidło
+        [two] { $count } gronidle
+        [few] { $count } gronidła
+       *[other] { $count } gronidłow
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } z { $total } gronidła
+        [two] { $count } z { $total } gronidłowu
+        [few] { $count } z { $total } gronidłow
+       *[other] { $count } z { $total } gronidłow
+    }
 login-list-sort-label-text = Sortěrowaś pó:
 login-list-name-option = Mjenju (A-Z)
 login-list-name-reverse-option = Mě (A-Z)
@@ -62,11 +87,14 @@ about-logins-login-list-alerts-option = Warnowanja
 login-list-last-changed-option = Slědnej změnje
 login-list-last-used-option = Slědnem wužyśu
 login-list-intro-title = Žedne pśizjawjenja namakane
+login-list-intro-title2 = Žedne gronidła skłaźone
 login-list-intro-description = Gaž gronidło w { -brand-product-name } składujośo, wóno se how pokažo.
 about-logins-login-list-empty-search-title = Žedne pśizjawjenja namakane
+about-logins-login-list-empty-search-title2 = Žedne gronidła namakane
 about-logins-login-list-empty-search-description = Njejsu žedne wuslědki, kótarež wašomu pytanjeju wótpowěduju.
 login-list-item-title-new-login = Nowe pśizjawjenje
 login-list-item-subtitle-new-login = Zapódajśo swóje pśizjawjeńske daty
+login-list-item-title-new-login2 = Gronidło pśidaś
 login-list-item-subtitle-missing-username = (žedno wužywaŕske mě)
 about-logins-list-item-breach-icon =
     .title = Zranjone websedło
@@ -292,6 +320,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Dataju pśizjawjenjow importěrowaś
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Gronidła do { -brand-short-name } importěrowaś
 about-logins-import-file-picker-import-button = Importěrowaś
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -334,6 +364,27 @@ about-logins-import-dialog-items-no-change =
         [few] <span>Dwójne pśizjawjenja namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportěrowane)</span>
        *[other] <span>Dwójne pśizjawjenja namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportěrowane)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nowe gronidło pśidane:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Nowej gronidle pśidanej:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Nowe gronidła pśidane:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nowe gronidła pśidane:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Eksistěrujucy zapisk zaktualizěrowany:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Eksistěrujucej zapiska zaktualizěrowanej:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Eksistěrujuce zapiski zaktualizěrowane:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Eksistěrujuce zapiski zaktualizěrowane:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Dwójny zapisk namakany:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportěrowany)</span>
+        [two] <span>Dwójnej zapiska namakanej:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportěrowanej)</span>
+        [few] <span>Dwójne zapiski namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportěrowane)</span>
+       *[other] <span>Dwójne zapiski namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportěrowane)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Zmólka:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportěrowana)</span>
@@ -357,6 +408,7 @@ about-logins-import-dialog-error-try-import-again = Wopytajśo znowego importěr
 about-logins-import-dialog-error-cancel = Pśetergnuś
 about-logins-import-report-title = Zespominanje importěrowaś
 about-logins-import-report-description = Pśizjawjenja a gronidła su se importěrowali do { -brand-short-name }.
+about-logins-import-report-description2 = Gronidła su se importěrowali do { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -364,6 +416,9 @@ about-logins-import-report-row-index = Smužka { $number }
 about-logins-import-report-row-description-no-change = Dwójny: Eksaktna kopija eksistěrujucego pśizjawjenja
 about-logins-import-report-row-description-modified = Eksistěrujuce pśizjawjenje jo se zaktualizěrowało
 about-logins-import-report-row-description-added = Nowe pśizjawjenje jo se pśidało
+about-logins-import-report-row-description-no-change2 = Dwójny: Eksaktna kopija eksistěrujucego zapiska
+about-logins-import-report-row-description-modified2 = Eksistěrujucy zapisk jo se zaktualizěrował
+about-logins-import-report-row-description-added2 = Nowe gronidło pśidane
 about-logins-import-report-row-description-error = Zmólka: Felujuce pólo
 
 ##
