@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Żodyn kōntyner
     .accesskey = Z
+user-context-manage-containers =
+    .label = Regyruj kōntynerami
+    .accesskey = k
