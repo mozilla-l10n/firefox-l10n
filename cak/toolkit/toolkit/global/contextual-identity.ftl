@@ -12,9 +12,18 @@ user-context-personal =
 user-context-work =
     .label = Samaj
     .accesskey = S
+user-context-banking =
+    .label = Pwaqb'äl
+    .accesskey = P
+user-context-shopping =
+    .label = Loq'oj
+    .accesskey = q
 
 ##
 
 user-context-none =
     .label = Manäq ajk'wayöl
     .accesskey = M
+user-context-manage-containers =
+    .label = Kenuk'samajïx K'wayöl
+    .accesskey = w
