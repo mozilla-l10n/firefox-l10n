@@ -95,6 +95,10 @@ about-logins-login-item-remove-button = Hiqi
 login-item-origin-label = Adresë sajti
 login-item-tooltip-message = Sigurohuni që kjo përputhet me adresën e saktë të sajtit ku hyni.
 about-logins-origin-tooltip = Sigurohuni që kjo përputhet me adresën e saktë të sajtit ku hyni.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Sigurohuni se po e ruani fjalëkalimin tuaj të tanishëm për këtë sajt. Ndryshimi i fjalëkalimit këtu nuk e ndryshon atë me { $webTitle }.
+about-logins-add-password-tooltip = Sigurohuni se po e ruiani fjalëkalimin tuaj të tanishëm për këtë sajt.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Emër përdoruesi
