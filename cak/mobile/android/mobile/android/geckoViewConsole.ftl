@@ -6,6 +6,14 @@
 ## Web Console API (in GeckoViewConsole.sys.mjs)
 
 console-stacktrace-anonymous-function = <man etaman ta ruwäch>
+# Variables:
+#   $filename (String): Source file name
+#   $functionName (String): JavaScript function name
+#   $lineNumber (String): The line number of the stacktrace call
+console-stacktrace = Retal royonik { $filename }, rusamaj { $functionName }, k'amab'ey { $lineNumber }.
+# Variables:
+#   $name (String): user-defined name for the timer
+console-timer-start = { $name }: xtikïr ri tz'etöy ramaj
 # This string is used to display the result of the console.timeEnd() call.
 #
 # Variables:
