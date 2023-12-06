@@ -6,9 +6,24 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
+user-context-personal =
+    .label = Pearsanta
+    .accesskey = P
+user-context-work =
+    .label = Obair
+    .accesskey = O
+user-context-banking =
+    .label = Baincéireacht
+    .accesskey = B
+user-context-shopping =
+    .label = Siopadóireacht
+    .accesskey = S
 
 ##
 
+user-context-none =
+    .label = Gan Coimeádán
+    .accesskey = G
 user-context-manage-containers =
     .label = Bainistigh Coimeádáin
     .accesskey = o
