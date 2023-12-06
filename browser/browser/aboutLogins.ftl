@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Nowe přizjewjenje załožić
+about-logins-page-title-name = Hesła
+about-logins-login-filter2 =
+    .placeholder = Hesła pytać
+    .key = F
+create-login-button =
+    .title = Hesło přidać
 fxaccounts-sign-in-text = Přinjesće swoje hesła do wašich druhich gratow
 fxaccounts-sign-in-sync-button = Pola Sync přizjewić
 fxaccounts-avatar-button =
@@ -53,6 +59,25 @@ login-list-filtered-count =
         [few] { $count } z { $total } přizjewjenjow
        *[other] { $count } z { $total } přizjewjenjow
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } hesło
+        [two] { $count } hesle
+        [few] { $count } hesła
+       *[other] { $count } hesłow
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } z { $total } hesła
+        [two] { $count } z { $total } hesłow
+        [few] { $count } z { $total } hesłow
+       *[other] { $count } z { $total } hesłow
+    }
 login-list-sort-label-text = Sortěrować po:
 login-list-name-option = Mjenje (A-Z)
 login-list-name-reverse-option = Mjeno (Z - A)
@@ -62,11 +87,14 @@ about-logins-login-list-alerts-option = Warnowanja
 login-list-last-changed-option = Poslednjej změnje
 login-list-last-used-option = Poslednim wužiću
 login-list-intro-title = Žane přizjewjenja namakane
+login-list-intro-title2 = Žane hesła składowane
 login-list-intro-description = Hdyž hesło w { -brand-product-name } składujeće, wono so tu pokaza.
 about-logins-login-list-empty-search-title = Žane přizjewjenja namakane
+about-logins-login-list-empty-search-title2 = Žane hesła namakane
 about-logins-login-list-empty-search-description = Njejsu žane wuslědki, kotrež wašemu pytanju wotpowěduja.
 login-list-item-title-new-login = Nowe přizjewjenje
 login-list-item-subtitle-new-login = Zapodajće swoje přizjewjenske daty
+login-list-item-title-new-login2 = Hesło přidać
 login-list-item-subtitle-missing-username = (žane wužiwarske mjeno)
 about-logins-list-item-breach-icon =
     .title = Zranjene websydło
@@ -292,6 +320,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Dataju přizjewjenjow importować
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Hesła do { -brand-short-name } importować
 about-logins-import-file-picker-import-button = Importować
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -333,6 +363,20 @@ about-logins-import-dialog-items-no-change =
         [two] <span>Dwójnej přizjewjeni namakanej:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowanej)</span>
         [few] <span>Dwójne přizjewjenja namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
        *[other] <span>Dwójne přizjewjenja namakane:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(njeimportowane)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nowe hesło přidate:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Nowej hesle přidatej:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Nowe hesła přidate:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nowe hesła přidate:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Eksistowacy zapisk zaktualizowany:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Eksistowacej zapiskaj zaktualizowanej:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Eksistowace zapiski zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Eksistowace zapiski zaktualizowane:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
