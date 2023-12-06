@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Endalc'her ebet
     .accesskey = E
+user-context-manage-containers =
+    .label = Merañ an endalc'herioù
+    .accesskey = e
