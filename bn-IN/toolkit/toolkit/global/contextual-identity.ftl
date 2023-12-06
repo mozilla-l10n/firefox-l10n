@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = কোনো কন্টেইনার নেই
     .accesskey = N
+user-context-manage-containers =
+    .label = কন্টেইনারগুলিকে পরিচালনা করুন
+    .accesskey = O
