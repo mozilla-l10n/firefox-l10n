@@ -6,3 +6,8 @@
 ## Web Console API (in GeckoViewConsole.sys.mjs)
 
 console-stacktrace-anonymous-function = <ناشناس>
+# Variables:
+#   $filename (String): Source file name
+#   $functionName (String): JavaScript function name
+#   $lineNumber (String): The line number of the stacktrace call
+console-stacktrace = ردیابی انبوه از { $filename }، تابع { $functionName }، خط { $lineNumber }.
