@@ -9,6 +9,11 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = 새 로그인 만들기
+about-logins-login-filter2 =
+    .placeholder = 비밀번호 검색
+    .key = F
+create-login-button =
+    .title = 비밀번호 추가
 fxaccounts-sign-in-text = 다른 기기에서 비밀번호 받기
 fxaccounts-sign-in-sync-button = Sync에 로그인
 fxaccounts-avatar-button =
@@ -44,6 +49,17 @@ login-list-count =
 #   $count (number) - Number of filtered logins
 #   $total (number) - Total number of logins
 login-list-filtered-count = { $count } / { $total } 로그인
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 = 비밀번호 { $count }개
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } / { $total } 비밀번호
+       *[other] { $count } / { $total } 비밀번호
+    }
 login-list-sort-label-text = 정렬 기준:
 login-list-name-option = 이름 (A-Z)
 login-list-name-reverse-option = 이름 (Z-A)
@@ -53,8 +69,10 @@ about-logins-login-list-alerts-option = 알림
 login-list-last-changed-option = 마지막 수정
 login-list-last-used-option = 마지막 사용
 login-list-intro-title = 로그인을 찾을 수 없음
+login-list-intro-title2 = 저장된 비밀번호 없음
 login-list-intro-description = { -brand-product-name }에 비밀번호를 저장하면, 여기에 표시됩니다.
 about-logins-login-list-empty-search-title = 로그인을 찾을 수 없음
+about-logins-login-list-empty-search-title2 = 비밀번호를 찾을 수 없음
 about-logins-login-list-empty-search-description = 검색어와 일치하는 결과가 없습니다.
 login-list-item-title-new-login = 새 로그인
 login-list-item-subtitle-new-login = 로그인 자격 증명을 입력하세요
