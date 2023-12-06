@@ -33,6 +33,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = No pot llegir ni canviar les dades d'aquest lloc
+origin-controls-state-quarantined = { -vendor-short-name } no en permet l'ús en aquest lloc
 origin-controls-state-always-on = Sempre pot llegir i canviar les dades d'aquest lloc
 origin-controls-state-when-clicked = Necessita permís per llegir i canviar les dades
 origin-controls-state-hover-run-visit-only = Executa-ho només per aquesta visita
@@ -54,3 +55,10 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Cal  permís
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        { -vendor-short-name } no en permet l'ús en aquest lloc
