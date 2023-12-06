@@ -351,6 +351,7 @@ identity-connection-secure = Connexiun segirada
 identity-connection-failure = Sbagl da connexiun
 identity-connection-internal = Quai è ina pagina segira da { -brand-short-name }.
 identity-connection-file = Questa pagina è memorisada sin tes computer.
+identity-connection-associated = Questa pagina è vegnida chargiada dad in'autra pagina.
 identity-extension-page = Ina extensiun ha chargià questa pagina.
 identity-active-blocked = { -brand-short-name } ha bloccà parts da questa pagina che n'èn betg segiradas.
 identity-custom-root = Connexiun verifitgada dad in certificat emess dad post da certificaziun betg renconuschì da Mozilla.
