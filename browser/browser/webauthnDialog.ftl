@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = קוד PIN שגוי. נא לנסות שוב.
 webauthn-pin-required-prompt = נא להזין את קוד ה־PIN עבור המכשיר שלך.
 webauthn-select-sign-result-unknown-account = חשבון לא ידוע
+webauthn-a-passkey-label = שימוש במפתח גישה
+webauthn-another-passkey-label = שימוש במפתח גישה נוסף
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = מפתח גישה עבור { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
