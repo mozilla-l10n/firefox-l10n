@@ -343,3 +343,4 @@ onboarding-mobile-download-security-and-privacy-title = Verschlüsseln Sie Ihre 
 onboarding-mobile-download-security-and-privacy-subtitle = Wenn Sie Ihre Daten synchronisieren, verschlüsselt { -brand-short-name } Ihre Passwörter, Lesezeichen und mehr. Außerdem können Sie Tabs von Ihren anderen Geräten holen.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } gibt dir Rückendeckung
+onboarding-gratitude-security-and-privacy-subtitle = Vielen Dank, dass du { -brand-short-name } verwendest, unterstützt von der Mozilla Foundation. Mit deiner Unterstützung arbeiten wir daran, das Internet für alle sicherer und zugänglicher zu machen.
