@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Mundësi mirëfilltësuesi
 about-webauthn-pin-section-title = Administrim PIN-i
 about-webauthn-credential-management-section-title = Administroni kredenciale
 about-webauthn-pin-required-section-title = PIN është i domosdoshëm
+about-webauthn-confirm-deletion-section-title = Ripohoni fshirjen
 
 ## Info field texts
 
@@ -53,6 +54,7 @@ about-webauthn-current-pin-label = PIN-i i tanishëm:
 about-webauthn-pin-required-label = Ju lutemi, jepni PIN-in tuaj:
 about-webauthn-credential-list-subsection-title = Kredenciale:
 about-webauthn-credential-list-empty = S’u gjetën kredenciale te pajisja.
+about-webauthn-confirm-deletion-label = Ju ndan një hap nga fshirja e:
 
 ## Buttons
 
@@ -91,11 +93,13 @@ about-webauthn-auth-option-null = E pambuluar
 about-webauthn-auth-info-certifications = Dëshmi
 about-webauthn-auth-info-uv-modality = Mënyrë verifikimi përdoruesi
 about-webauthn-auth-info-preferred-platform-uv-attempts = Përpjekje verifikimi përdoruesi në platformën e parapëlqyer
+about-webauthn-auth-info-max-cred-blob-length = Gjatësi maksimum copëze kredencialesh
 about-webauthn-auth-info-firmware-version = Version firmware-i
 about-webauthn-auth-info-min-pin-length = Gjatësi minimum PIN-i
 about-webauthn-auth-info-force-pin-change = Detyro ndryshim PIN-i
 about-webauthn-auth-info-algorithms = Algoritme
 about-webauthn-auth-info-transports = Transporte
+about-webauthn-auth-info-max-credential-id-length = Gjatësi maksimum ID-je kredencialesh
 about-webauthn-auth-info-max-credential-count-in-list = Numër maksimum kredencialesh në listë
 about-webauthn-auth-info-pin-protocols = Protokolle PIN-i
 about-webauthn-auth-info-max-msg-size = Madhësi maksimum mesazhesh
