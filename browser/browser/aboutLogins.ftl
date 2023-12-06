@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = יצירת כניסה חדשה
+about-logins-page-title-name = ססמאות
+about-logins-login-filter2 =
+    .placeholder = חיפוש ססמאות
+    .key = ח
+create-login-button =
+    .title = הוספת ססמה
 fxaccounts-sign-in-text = קבלת הססמאות שלך במכשירים האחרים שלך
 fxaccounts-sign-in-sync-button = כניסה כדי לסנכרן
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } מתוך כניסה אחת
        *[other] { $count } מתוך { $total } כניסות
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] ססמה אחת
+       *[other] { $count } ססמאות
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } מתוך { $total } ססמאות
+       *[other] { $count } מתוך { $total } ססמאות
+    }
 login-list-sort-label-text = מיון לפי:
 login-list-name-option = שם (A-Z)
 login-list-name-reverse-option = שם (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = התרעות
 login-list-last-changed-option = שינוי אחרון
 login-list-last-used-option = שימוש אחרון
 login-list-intro-title = לא נמצאו כניסות
+login-list-intro-title2 = לא נשמרו ססמאות
 login-list-intro-description = ססמאות שיישמרו ב־{ -brand-product-name } יופיעו כאן.
 about-logins-login-list-empty-search-title = לא נמצאו כניסות
+about-logins-login-list-empty-search-title2 = לא נמצאו ססמאות
 about-logins-login-list-empty-search-description = אין תוצאות התואמות לחיפוש שלך.
 login-list-item-title-new-login = כניסה חדשה
 login-list-item-subtitle-new-login = נא להזין את פרטי הכניסה שלך
+login-list-item-title-new-login2 = הוספת ססמה
 login-list-item-subtitle-missing-username = (אין שם משתמש)
 about-logins-list-item-breach-icon =
     .title = אתר שנפרץ
@@ -95,6 +119,10 @@ about-logins-login-item-remove-button = הסרה
 login-item-origin-label = כתובת אתר
 login-item-tooltip-message = יש לוודא שערך זה תואם לכתובת המדויקת של האתר אליו מתחברים.
 about-logins-origin-tooltip = יש לוודא שערך זה תואם לכתובת המדויקת של האתר אליו מתחברים.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = לא לשכוח לשמור את הססמה הנוכחית שלך עבור אתר זה. שינוי הססמה כאן אינו משנה אותה אצל { $webTitle }.
+about-logins-add-password-tooltip = לא לשכוח לשמור את הססמה הנוכחית שלך עבור אתר זה.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = שם משתמש
@@ -269,6 +297,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = ייבוא קובץ כניסות
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = ייבוא ססמאות אל { -brand-short-name }
 about-logins-import-file-picker-import-button = ייבוא
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -304,6 +334,12 @@ about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>כניסות כפולות שנמצאו:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
        *[other] <span>כניסות כפולות שנמצאו:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(לא יובאו)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>ססמאות חדשות שנוספו:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] { "" }
+       *[other] { "" }
     }
 about-logins-import-dialog-items-error =
     { $count ->
