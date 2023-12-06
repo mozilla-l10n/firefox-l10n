@@ -7,6 +7,11 @@
 
 console-stacktrace-anonymous-function = <বেনামী>
 # Variables:
+#   $filename (String): Source file name
+#   $functionName (String): JavaScript function name
+#   $lineNumber (String): The line number of the stacktrace call
+console-stacktrace = { $filename }, ফলন { $functionName }, শাৰী { $lineNumber } ৰ পৰা স্টেক ট্ৰেইচ।
+# Variables:
 #   $name (String): user-defined name for the timer
 console-timer-start = { $name }: টাইমাৰ আৰম্ভ কৰা হল
 # This string is used to display the result of the console.timeEnd() call.
