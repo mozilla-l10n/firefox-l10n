@@ -21,3 +21,9 @@ user-context-shopping =
 
 ##
 
+user-context-none =
+    .label = Eristämätön
+    .accesskey = E
+user-context-manage-containers =
+    .label = Muokkaa eristystiloja
+    .accesskey = M
