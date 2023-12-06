@@ -6,3 +6,8 @@
 ## Web Console API (in GeckoViewConsole.sys.mjs)
 
 console-stacktrace-anonymous-function = <anonimno>
+# Variables:
+#   $filename (String): Source file name
+#   $functionName (String): JavaScript function name
+#   $lineNumber (String): The line number of the stacktrace call
+console-stacktrace = Sled sklada v { $filename }, funkcija { $functionName }, vrstica { $lineNumber }.
