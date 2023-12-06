@@ -114,6 +114,7 @@ autofill-address-email = Adreça electrònica
 autofill-cancel-button = Cancel·la
 autofill-save-button = Desa
 autofill-country-warning-message = Actualment l'emplenament automàtic de formularis només està disponible per a alguns països.
+autofill-message-tooltip = Mostra el missatge sobre l'emplenament automàtic
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Afegeix una targeta de crèdit
 # The dialog title for editing credit cards in browser preferences.
