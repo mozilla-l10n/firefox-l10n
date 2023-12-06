@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = غير حاوِ
     .accesskey = ح
+user-context-manage-containers =
+    .label = أدِر الحاويات
+    .accesskey = ح
