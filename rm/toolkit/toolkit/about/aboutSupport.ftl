@@ -188,6 +188,7 @@ media-codec-support-codec-name = Num dal codec
 media-codec-support-supported = Sustegnì
 media-codec-support-unsupported = Betg sustegnì
 media-codec-support-error = Naginas infurmaziuns disponiblas davart il sustegn da codecs. Emprova anc ina giada suenter avair reproducì ina datoteca da multimedia.
+media-codec-support-lack-of-extension = Installar l'extensiun
 
 ##
 
