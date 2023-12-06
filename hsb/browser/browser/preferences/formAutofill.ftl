@@ -114,6 +114,7 @@ autofill-address-email = E-mejlowa adresa
 autofill-cancel-button = Přetorhnyć
 autofill-save-button = Składować
 autofill-country-warning-message = Awtomatiske wupjelnjenje formularow je tuchwilu jenož za wěste kraje k dispoziciji.
+autofill-message-tooltip = Zdźělenku wo awtomatiskim wupjelnjenju pokazać
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nowu kreditnu kartu přidać
 # The dialog title for editing credit cards in browser preferences.
