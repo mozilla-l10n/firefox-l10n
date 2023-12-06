@@ -340,6 +340,7 @@ about-logins-import-dialog-error-try-import-again = 가져오기 다시 시도�
 about-logins-import-dialog-error-cancel = 취소
 about-logins-import-report-title = 가져오기 요약
 about-logins-import-report-description = 로그인과 비밀번호를 { -brand-short-name }로 가져왔습니다.
+about-logins-import-report-description2 = { -brand-short-name }로 비밀번호를 가져옴
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -375,6 +376,9 @@ about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }개</div> <div data-l10n-name="details">중복 로그인</div> <div data-l10n-name="not-imported">(가져오지 않음)</div>
     }
+about-logins-import-report-added2 = <div data-l10n-name="count">{ $count }개</div> <div data-l10n-name="details"> 새 비밀번호 추가됨</div>
+about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }개</div> <div data-l10n-name="details">기존 항목 업데이트됨</div>
+about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }개</div> <div data-l10n-name="details">중복 항목</div> <div data-l10n-name="not-imported">(가져오지 않음)</div>
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }개</div> <div data-l10n-name="details">오류</div> <div data-l10n-name="not-imported">(가져오지 않음)</div>
