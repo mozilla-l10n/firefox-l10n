@@ -12,6 +12,9 @@ user-context-work =
 user-context-banking =
     .label = საბანკო
     .accesskey = ბ
+user-context-shopping =
+    .label = სავაჭრო
+    .accesskey = ჭ
 
 ##
 
