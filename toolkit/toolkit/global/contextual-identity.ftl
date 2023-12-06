@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = 无身份
     .accesskey = N
+user-context-manage-containers =
+    .label = 管理身份
+    .accesskey = O
