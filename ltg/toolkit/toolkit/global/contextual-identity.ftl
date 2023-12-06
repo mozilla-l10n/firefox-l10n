@@ -6,6 +6,12 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
+user-context-work =
+    .label = Work
+    .accesskey = W
+user-context-banking =
+    .label = Banking
+    .accesskey = B
 user-context-shopping =
     .label = Shopping
     .accesskey = S
