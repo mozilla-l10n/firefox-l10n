@@ -334,3 +334,9 @@ onboarding-device-migration-primary-button-label = Se connectar
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Nos impòrta vòstra vida privada
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Demoratz en lòc segur amb lo chiframent quand basculatz d’aparelh
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } es totjorn aquí per vos
