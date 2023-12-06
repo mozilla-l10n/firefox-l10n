@@ -6,12 +6,24 @@
 ## Names of the default containers in Firefox.
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
+user-context-personal =
+    .label = පෞද්ගලික
+    .accesskey = P
 user-context-work =
     .label = වැඩ
     .accesskey = W
 user-context-banking =
     .label = බැංකුකරණ
     .accesskey = B
+user-context-shopping =
+    .label = සාප්පු සවාරි
+    .accesskey = S
 
 ##
 
+user-context-none =
+    .label = අඩංගු නැත
+    .accesskey = N
+user-context-manage-containers =
+    .label = අඩංගු කළමනාකරණය
+    .accesskey = o
