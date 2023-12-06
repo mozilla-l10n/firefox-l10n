@@ -125,7 +125,7 @@ set-as-my-default-browser =
     .label = Vëre Parazgjedhje…
     .accesskey = V
 startup-restore-windows-and-tabs =
-    .label = Hapni dritare dhe skeda të mëparshme
+    .label = Hap dritare dhe skeda të mëparshme
     .accesskey = H
 windows-launch-on-login =
     .label = Hape { -brand-short-name }-in automatikisht, kur niset kompjuteri juaj
@@ -162,7 +162,7 @@ warn-on-open-many-tabs =
     .label = Sinjalizo kur hapja e shumë skedave njëherësh do të mund të ngadalësonte { -brand-short-name }-in
     .accesskey = z
 switch-to-new-tabs =
-    .label = Kur hapni një lidhje, figurë ose media si një skedë të re, kalo në të menjëherë
+    .label = Kur hapet një lidhje, figurë ose media si një skedë të re, kalo në të menjëherë
     .accesskey = K
 show-tabs-in-taskbar =
     .label = Shfaq paraparje skedash te "Windows taskbar"
@@ -229,7 +229,7 @@ preferences-web-appearance-choice-input-dark =
 preferences-web-appearance-override-warning = Përzgjedhjet tuaja për ngjyrat po anashkalojnë pamjen e sajtit. <a data-l10n-name="colors-link">Administroni ngjyra</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Administroni { -brand-short-name } tema, që nga <a data-l10n-name="themes-link">Zgjerime & Tema</a>
+preferences-web-appearance-footer = Administroni tema { -brand-short-name }, që nga <a data-l10n-name="themes-link">Zgjerime & Tema</a>
 preferences-colors-header = Ngjyra
 preferences-colors-description = Anashkalo ngjyrat parazgjedhje të { -brand-short-name }-it për tekst, sfonde sajtesh dhe lidhje.
 preferences-colors-manage-button =
@@ -966,7 +966,7 @@ sitedata-clear =
     .label = Spastroni të Dhëna…
     .accesskey = S
 sitedata-settings =
-    .label = Administroni Të dhëna…
+    .label = Administroni të Dhëna…
     .accesskey = A
 sitedata-cookies-exceptions =
     .label = Administroni Përjashtime…
