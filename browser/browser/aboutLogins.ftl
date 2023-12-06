@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Opprett ny innlogging
+about-logins-page-title-name = Passord
+about-logins-login-filter2 =
+    .placeholder = Søk etter passord
+    .key = F
+create-login-button =
+    .title = Legg til passord
 fxaccounts-sign-in-text = Få passordene dine på de andre enheter dine
 fxaccounts-sign-in-sync-button = Logg inn for å synkronisere
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } av { $total } innlogging
        *[other] { $count } av { $total } innlogginger
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } passord
+       *[other] { $count } passord
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } av { $total } passord
+       *[other] { $count } av { $total } passord
+    }
 login-list-sort-label-text = Sorter etter:
 login-list-name-option = Navn (A-Å)
 login-list-name-reverse-option = Navn (Å-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Varsler
 login-list-last-changed-option = Sist endret
 login-list-last-used-option = Sist brukt
 login-list-intro-title = Fant ingen innlogginger
+login-list-intro-title2 = Ingen passord lagret
 login-list-intro-description = Når du lagrer et passord i { -brand-product-name }, vil det vises her.
 about-logins-login-list-empty-search-title = Fant ingen innlogginger
+about-logins-login-list-empty-search-title2 = Ingen passord funnet
 about-logins-login-list-empty-search-description = Det er ingen resultater som samsvarer med søket ditt.
 login-list-item-title-new-login = Ny innlogging
 login-list-item-subtitle-new-login = Skriv inn innloggingsinformasjon
+login-list-item-title-new-login2 = Legg til passord
 login-list-item-subtitle-missing-username = (uten brukernavn)
 about-logins-list-item-breach-icon =
     .title = Nettsted med datalekkasje
@@ -269,6 +293,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importer fil med innlogginger
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importer passord til { -brand-short-name }
 about-logins-import-file-picker-import-button = Importer
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -302,6 +328,11 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Duplikate innlogginger funnet:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importert)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nytt passord lagt til: </span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nye passord lagt til: </span> <span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Feil:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importert)</span>
@@ -322,6 +353,7 @@ about-logins-import-dialog-error-try-import-again = Prøv å importere igjen …
 about-logins-import-dialog-error-cancel = Avbryt
 about-logins-import-report-title = Importsammendrag
 about-logins-import-report-description = Innlogginger og passord importert til { -brand-short-name }.
+about-logins-import-report-description2 = Passord importert til { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
