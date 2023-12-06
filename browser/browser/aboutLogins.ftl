@@ -282,6 +282,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = 로그인 파일 가져오기
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = { -brand-short-name }로 비밀번호 가져오기
 about-logins-import-file-picker-import-button = 가져오기
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -315,6 +317,9 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>찾은 중복 로그인:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(가져오지 않음)</span>
     }
+about-logins-import-dialog-items-added2 = <span>추가된 새 비밀번호:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-modified2 = <span>업데이트된 기존 항목:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-no-change2 = <span>찾은 중복 항목:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(가져오지 않음)</span>
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>오류:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(가져오지 않음)</span>
