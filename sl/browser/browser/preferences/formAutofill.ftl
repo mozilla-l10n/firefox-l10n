@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Nastavitve naslovov
 address-capture-learn-more-button =
     .label = Več o tem
+address-capture-open-menu-button =
+    .aria-label = Odpri meni
+address-capture-edit-address-button =
+    .aria-label = Uredi naslov
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Dodaj nov naslov
 # The dialog title for editing addresses in browser preferences.

@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Izključi
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Vključi
+protections-panel-report-broken-site =
+    .label = Prijavi nedelujočo stran
+    .title = Prijavi nedelujočo stran

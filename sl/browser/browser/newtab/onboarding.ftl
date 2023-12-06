@@ -331,3 +331,13 @@ onboarding-device-migration-title = Dobrodošli nazaj!
 onboarding-device-migration-subtitle = Prijavite se v { -fxaccount-brand-name(capitalization: "sentence") } in prenesite svoje zaznamke, gesla in zgodovino s seboj na svojo novo napravo.
 onboarding-device-migration-subtitle2 = Prijavite se v svoj račun in si prenesite zaznamke, gesla in zgodovino na novi računalnik.
 onboarding-device-migration-primary-button-label = Prijava
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Z veseljem skrbimo za vašo varnost
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Ostanite šifrirani pri skakanju z naprave na napravo
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vam krije hrbet
+onboarding-gratitude-security-and-privacy-subtitle = Hvala, ker uporabljate { -brand-short-name }, ki ga podpira Mozilla Foundation. Z vašo podporo si prizadevamo narediti internet varnejši in dostopnejši za vse.

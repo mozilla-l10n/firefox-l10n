@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = preverite, da ima { -brand-short-name } d
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } ne more zavarovati vašega zahtevka za naslov tega spletnega mesta prek našega zaupanja vrednega razreševalnika DNS. Razlog:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ne more zavarovati vašega zahtevka za naslov tega spletnega mesta prek našega varnega ponudnika DNS. Razlog:
 neterror-dns-not-found-trr-third-party-warning2 = Nadaljujete lahko s privzetim razreševalnikom DNS. V tem primeru obstaja možnost, da bi tretje osebe spremljale, katera spletna mesta obiskujete.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } se ni mogel povezati s spletnim mestom { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Povezovanje s spletnim mestom { $trrDomain } je trajalo dlje kot običajno.
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Nepričakovana težava.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ne more zavarovati vašega zahtevka za naslov tega spletnega mesta prek našega zaupanja vrednega razreševalnika DNS. Razlog:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } ne more zavarovati vašega zahtevka za naslov tega spletnega mesta prek našega varnega ponudnika DNS. Razlog:
 neterror-dns-not-found-native-fallback-heuristic = DNS prek HTTPS je v vašem omrežju onemogočen.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } se ni mogel povezati s spletnim mestom { $trrDomain }.
 

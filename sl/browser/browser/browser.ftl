@@ -279,6 +279,9 @@ quickactions-cmd-plugins = vtičniki
 # Opens the print dialog
 quickactions-print2 = Natisni stran
 quickactions-cmd-print = natisni, tiskanje, print
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Shrani stran kot PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Odpri zasebno okno
 quickactions-cmd-private = zasebno brskanje
@@ -350,6 +353,7 @@ identity-connection-secure = Povezava varna
 identity-connection-failure = Napaka pri povezovanju
 identity-connection-internal = To je varna stran { -brand-short-name(sklon: "rodilnik") }.
 identity-connection-file = Ta stran je shranjena na vašem računalniku.
+identity-connection-associated = Ta stran se je naložila z druge strani.
 identity-extension-page = To stran je naložila razširitev.
 identity-active-blocked = { -brand-short-name } je zavrnil dele strani, ki niso varni.
 identity-custom-root = Povezavo je preveril izdajatelj digitalnega potrdila, ki ga Mozilla ne prepozna.
@@ -571,8 +575,6 @@ urlbar-result-action-search-w-engine = Išči z iskalnikom { $engine }
 urlbar-result-action-sponsored = Sponzorirano
 urlbar-result-action-switch-tab = Preklopi na zavihek
 urlbar-result-action-visit = Obišči
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Odpri kopirani naslov
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Odpri kopirani naslov
 # Directs a user to press the Tab key to perform a search with the specified
