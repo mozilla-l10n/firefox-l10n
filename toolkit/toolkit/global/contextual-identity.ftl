@@ -15,9 +15,15 @@ user-context-work =
 user-context-banking =
     .label = Banca
     .accesskey = B
+user-context-shopping =
+    .label = Compras
+    .accesskey = C
 
 ##
 
+user-context-none =
+    .label = Sen contedor
+    .accesskey = N
 user-context-manage-containers =
     .label = Xestionar contedores
     .accesskey = o
