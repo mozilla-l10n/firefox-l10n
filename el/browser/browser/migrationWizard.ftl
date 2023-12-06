@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Σελιδοδείκτες
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Αγαπημένα
 migration-logins-and-passwords-option-label = Αποθηκευμένες συνδέσεις και κωδικοί πρόσβασης
+migration-passwords-option-label = Αποθηκευμένοι κωδικοί πρόσβασης
 migration-history-option-label = Ιστορικό περιήγησης
 migration-extensions-option-label = Επεκτάσεις
 migration-form-autofill-option-label = Δεδομένα αυτόματης συμπλήρωσης φορμών
