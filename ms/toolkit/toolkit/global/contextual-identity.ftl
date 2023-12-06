@@ -9,9 +9,18 @@
 user-context-personal =
     .label = Peribadi
     .accesskey = P
+user-context-banking =
+    .label = Perbankan
+    .accesskey = P
 user-context-shopping =
     .label = Beli-belah
     .accesskey = B
 
 ##
 
+user-context-none =
+    .label = Tiada Penyimpan
+    .accesskey = T
+user-context-manage-containers =
+    .label = Urus Penyimpan
+    .accesskey = U
