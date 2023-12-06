@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Не ў кантэйнеры
     .accesskey = Н
+user-context-manage-containers =
+    .label = Кіраваць кантэйнерамі
+    .accesskey = К
