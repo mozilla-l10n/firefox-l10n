@@ -9,6 +9,9 @@
 user-context-personal =
     .label = Personal
     .accesskey = P
+user-context-work =
+    .label = Trabajo
+    .accesskey = W
 user-context-banking =
     .label = Banca
     .accesskey = B
