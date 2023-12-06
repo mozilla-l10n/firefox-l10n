@@ -9,12 +9,21 @@
 user-context-personal =
     .label = Pessoal
     .accesskey = P
+user-context-work =
+    .label = Trabalho
+    .accesskey = T
+user-context-banking =
+    .label = Financeiro
+    .accesskey = F
 user-context-shopping =
     .label = Compras
     .accesskey = C
 
 ##
 
+user-context-none =
+    .label = Sem contêiner
+    .accesskey = N
 user-context-manage-containers =
     .label = Gerenciar contêineres
     .accesskey = O
