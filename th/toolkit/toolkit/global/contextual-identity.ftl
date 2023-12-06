@@ -12,6 +12,18 @@ user-context-personal =
 user-context-work =
     .label = งาน
     .accesskey = ง
+user-context-banking =
+    .label = ธนาคาร
+    .accesskey = น
+user-context-shopping =
+    .label = การซื้อของ
+    .accesskey = อ
 
 ##
 
+user-context-none =
+    .label = ไม่มีการแยกข้อมูล
+    .accesskey = ม
+user-context-manage-containers =
+    .label = จัดการการแยกข้อมูล
+    .accesskey = จ
