@@ -14,3 +14,9 @@ console-stacktrace = Stafla eiginleika frá { $filename }, falli { $functionName
 # Variables:
 #   $name (String): user-defined name for the timer
 console-timer-start = { $name }: tímataka hafin
+# This string is used to display the result of the console.timeEnd() call.
+#
+# Variables:
+#   $name (String): user-defined name for the timer
+#   $duration (String): number of milliseconds
+console-timer-end = { $name }: { $duration }ms
