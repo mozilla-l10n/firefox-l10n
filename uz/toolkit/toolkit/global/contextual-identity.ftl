@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Konteyner yo‘q
     .accesskey = y
+user-context-manage-containers =
+    .label = Konteynerlarni boshqarish
+    .accesskey = O
