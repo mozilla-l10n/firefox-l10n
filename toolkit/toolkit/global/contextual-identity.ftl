@@ -21,3 +21,6 @@ user-context-shopping =
 
 ##
 
+user-context-none =
+    .label = Ingen behaldar
+    .accesskey = I
