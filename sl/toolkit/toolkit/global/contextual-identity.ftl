@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Brez vsebnika
     .accesskey = B
+user-context-manage-containers =
+    .label = Upravljanje vsebnikov
+    .accesskey = U
