@@ -9,6 +9,7 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = 새 로그인 만들기
+about-logins-page-title-name = 비밀번호
 about-logins-login-filter2 =
     .placeholder = 비밀번호 검색
     .key = F
@@ -76,6 +77,7 @@ about-logins-login-list-empty-search-title2 = 비밀번호를 찾을 수 없음
 about-logins-login-list-empty-search-description = 검색어와 일치하는 결과가 없습니다.
 login-list-item-title-new-login = 새 로그인
 login-list-item-subtitle-new-login = 로그인 자격 증명을 입력하세요
+login-list-item-title-new-login2 = 비밀번호 추가
 login-list-item-subtitle-missing-username = (사용자 이름 없음)
 about-logins-list-item-breach-icon =
     .title = 유출된 웹 사이트
@@ -340,6 +342,9 @@ about-logins-import-report-row-index = { $number } 행
 about-logins-import-report-row-description-no-change = 중복: 기존 로그인과 정확히 일치
 about-logins-import-report-row-description-modified = 기존 로그인 업데이트됨
 about-logins-import-report-row-description-added = 새 로그인 추가됨
+about-logins-import-report-row-description-no-change2 = 중복: 기존 항목과 정확히 일치
+about-logins-import-report-row-description-modified2 = 기존 항목 업데이트됨
+about-logins-import-report-row-description-added2 = 새 비밀번호 추가됨
 about-logins-import-report-row-description-error = 오류: 누락된 필드
 
 ##
