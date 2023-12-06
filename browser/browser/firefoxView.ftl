@@ -147,6 +147,26 @@ firefoxview-opentabs-focus-tab =
     .title = Canvia a aquesta pestanya
 firefoxview-show-more = Mostra'n més
 firefoxview-show-less = Mostra'n menys
+firefoxview-search-text-box-clear-button =
+    .title = Esborra
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Cerca en l'historial
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Resultats de la cerca «{ $query }»
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] un lloc
+       *[other] { $count } llocs
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = No hi ha resultats per a «{ $query }»
 firefoxview-sort-history-by-date-label = Ordena per data
 firefoxview-sort-history-by-site-label = Ordena per lloc
 # Variables:
