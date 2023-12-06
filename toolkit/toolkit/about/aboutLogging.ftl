@@ -26,6 +26,7 @@ about-logging-logging-to-profiler = Regjistrim te { -profiler-brand-name }
 about-logging-no-log-modules = Asnjë
 about-logging-no-log-file = Asnjë
 about-logging-logging-preset-selector-text = Paracaktim regjistrimi:
+about-logging-with-profiler-stacks-checkbox = Aktivizo “stack traces” pëer mesazhe regjistrimi
 
 ## Logging presets
 
@@ -37,6 +38,8 @@ about-logging-preset-networking-websocket-label = Socket-e Web
 about-logging-preset-networking-websocket-description = Module regjistrimi për diagnostikim problemesh Socket-esh Web
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-description = Module regjistrimi për diagnostikim problemesh HTTP/3 dhe QUIC
+about-logging-preset-networking-http3-upload-speed-label = Shpejtës ngarkimesh iHTTP/3
+about-logging-preset-networking-http3-upload-speed-description = Module regjistrash për diagnostikim problemesh shpejtësie ngarkimi HTTP/3
 about-logging-preset-media-playback-label = Luajtje media
 about-logging-preset-media-playback-description = Module regjistrimi për diagnostikim problemesh luajtjeje media (jo probleme me konferencë video)
 about-logging-preset-webrtc-label = WebRTC
@@ -62,4 +65,5 @@ about-logging-unknown-logging-preset = Paracaktim i panjohur regjistrimi “{ $v
 about-logging-unknown-profiler-preset = Paracaktim i panjohur profilizuesi “{ $v }“
 about-logging-unknown-option = Mundësi e panjohur about:logging “{ $k }“
 about-logging-configuration-url-ignored = URL-ja e formësimi u shpërfill
+about-logging-file-and-profiler-override = S’mund të deytorohen në të njëjtën kohë mundësintë “file output” dhe “override profiler”
 about-logging-configured-via-url = Mundësi e formësuar përmes URL-je
