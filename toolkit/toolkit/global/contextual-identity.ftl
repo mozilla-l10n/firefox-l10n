@@ -15,3 +15,6 @@ user-context-shopping =
 
 ##
 
+user-context-manage-containers =
+    .label = Gerenciar contêineres
+    .accesskey = O
