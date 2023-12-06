@@ -98,6 +98,11 @@ login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Odstrani
 login-item-origin-label = Naslov spletnega mesta
 login-item-tooltip-message = Prepričajte se, da se to ujema s točnim naslovom spletne strani, na katero se prijavljate.
+about-logins-origin-tooltip = Prepričajte se, da se ujema s točnim naslovom spletnega mesta, v katero se prijavljate.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Prepričajte se, da shranjujete svoje trenutno geslo. Če tukaj spremenite geslo, se s tem ne bo spremenilo tudi na { $webTitle }.
+about-logins-add-password-tooltip = Prepričajte se, da shranjujete svoje trenutno geslo za to spletno mesto.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Uporabniško ime

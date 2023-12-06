@@ -305,6 +305,20 @@ pdfjs-editor-ink-button-label = Riši
 pdfjs-editor-stamp-button =
     .title = Dodajanje ali urejanje slik
 pdfjs-editor-stamp-button-label = Dodajanje ali urejanje slik
+pdfjs-editor-remove-button =
+    .title = Odstrani
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Odstrani risbo
+pdfjs-editor-remove-freetext-button =
+    .title = Odstrani besedilo
+pdfjs-editor-remove-stamp-button =
+    .title = Odstrani sliko
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Barva
 pdfjs-editor-free-text-size-input = Velikost

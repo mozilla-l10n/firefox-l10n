@@ -718,6 +718,9 @@ sync-signedin-login-failure = Prijavite se za ponovno povezavo računa { $email 
 sync-resend-verification =
     .label = Ponovno pošlji potrditev
     .accesskey = n
+sync-verify-account =
+    .label = Potrdi račun
+    .accesskey = t
 sync-remove-account =
     .label = Odstrani račun
     .accesskey = O
@@ -1285,6 +1288,7 @@ preferences-doh-status-disabled = izključeno
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = nedejavno ({ $reason })
 preferences-doh-group-message = Omogoči zavarovan DNS. Stopnja zaščite:
+preferences-doh-group-message2 = Omogoči DNS preko HTTPS z uporabo:
 preferences-doh-expand-section =
     .tooltiptext = Več informacij
 preferences-doh-setting-default =

@@ -244,7 +244,14 @@ device-migration-fxa-spotlight-header = Uporabljate starejšo napravo?
 device-migration-fxa-spotlight-body = Varnostno kopirajte svoje podatke in poskrbite, da jih ne boste izgubili – še posebej, če boste zamenjali računalnik.
 device-migration-fxa-spotlight-primary-button = Kako varnostno kopirati podatke
 device-migration-fxa-spotlight-link = Opomni me pozneje
+device-migration-fxa-spotlight-heavy-user-header = Ne pozabite varnostno kopirati podatkov
+device-migration-fxa-spotlight-heavy-user-body = Poskrbite, da bodo pomembni podatki – kot so zaznamki in gesla – posodobljeni in zaščiteni na vseh vaših napravah.
+device-migration-fxa-spotlight-heavy-user-primary-button = Začnite
+device-migration-fxa-spotlight-older-device-body = Račun ohranja vaše pomembne podatke posodobljene in zaščitene na katerikoli napravi, ki jo povežete.
+device-migration-fxa-spotlight-older-device-primary-button = Ustvarite račun
 device-migration-fxa-spotlight-getting-new-device-header-2 = Se vam obeta nov računalnik?
+device-migration-fxa-spotlight-getting-new-device-body = Varnostno kopirajte podatke zdaj, da boste takoj, ko prejmete napravo, pripravljeni na selitev.
+device-migration-fxa-spotlight-getting-new-device-primary-button = Kako varnostno kopirati podatke
 
 ## Set as Default PDF Reader Infobar
 
