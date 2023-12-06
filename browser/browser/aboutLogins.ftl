@@ -95,6 +95,10 @@ about-logins-login-item-remove-button = Kaldır
 login-item-origin-label = Web sitesi adresi
 login-item-tooltip-message = Giriş yaptığınız web sitesinin tam adresiyle aynı olmalı.
 about-logins-origin-tooltip = Giriş yaptığınız web sitesinin tam adresiyle aynı olmalı.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Bu sitede kullanmakta olduğunuz parolayı kaydettiğinizden emin olun. Buradaki parolayı değiştirmek { $webTitle } sitesindeki parolanızı değiştirmez.
+about-logins-add-password-tooltip = Bu sitede kullanmakta olduğunuz parolayı kaydettiğinizden emin olun.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Kullanıcı adı
