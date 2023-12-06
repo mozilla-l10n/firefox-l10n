@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = Nisciun Contegnitô
     .accesskey = C
+user-context-manage-containers =
+    .label = Gestisci contegnitoî
+    .accesskey = O
