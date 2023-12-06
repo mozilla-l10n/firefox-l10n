@@ -24,3 +24,6 @@ user-context-shopping =
 user-context-none =
     .label = ကွန်တိန်နာ မရှိပါ
     .accesskey = N
+user-context-manage-containers =
+    .label = ကွန်တိန်နာများ စီမံရန်
+    .accesskey = က
