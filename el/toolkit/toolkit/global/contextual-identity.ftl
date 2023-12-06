@@ -21,3 +21,9 @@ user-context-shopping =
 
 ##
 
+user-context-none =
+    .label = Χωρίς θεματική ενότητα
+    .accesskey = Κ
+user-context-manage-containers =
+    .label = Διαχείριση θεματικών ενοτήτων
+    .accesskey = Θ
