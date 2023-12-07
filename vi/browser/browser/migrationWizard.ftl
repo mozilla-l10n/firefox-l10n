@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Dấu trang
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Trang ưa thích
 migration-logins-and-passwords-option-label = Thông tin đăng nhập và mật khẩu đã lưu
+migration-passwords-option-label = Mật khẩu đã lưu
 migration-history-option-label = Lịch sử duyệt web
 migration-extensions-option-label = Tiện ích mở rộng
 migration-form-autofill-option-label = Dữ liệu tự động điền biểu mẫu

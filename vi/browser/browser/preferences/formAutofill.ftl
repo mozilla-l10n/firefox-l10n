@@ -114,6 +114,7 @@ autofill-address-email = Thư điện tử
 autofill-cancel-button = Hủy bỏ
 autofill-save-button = Lưu
 autofill-country-warning-message = Tự động điền biểu mẫu hiện chỉ có sẵn cho một số quốc gia nhất định.
+autofill-message-tooltip = Xem thông báo về tự động điền
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Thêm thẻ tín dụng mới
 # The dialog title for editing credit cards in browser preferences.
