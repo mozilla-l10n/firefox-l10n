@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Lesezeichen
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoriten
 migration-logins-and-passwords-option-label = Gespeicherte Zugangsdaten und Passwörter
+migration-passwords-option-label = Gespeicherte Passwörter
 migration-history-option-label = Chronik
 migration-extensions-option-label = Erweiterungen
 migration-form-autofill-option-label = Daten für Formular-Autovervollständigung
