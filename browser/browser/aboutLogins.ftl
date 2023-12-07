@@ -10,6 +10,9 @@ about-logins-login-filter =
 create-new-login-button =
     .title = Neue Zugangsdaten erstellen
 about-logins-page-title-name = Passwörter
+about-logins-login-filter2 =
+    .placeholder = Passwörter durchsuchen
+    .key = F
 create-login-button =
     .title = Passwort hinzufügen
 fxaccounts-sign-in-text = Nutzen Sie Ihre Passwörter auf anderen Geräten
@@ -295,6 +298,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Zugangsdaten aus Datei importieren
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Passwörter in { -brand-short-name } importieren
 about-logins-import-file-picker-import-button = Importieren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -330,6 +335,21 @@ about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Doppelte Zugangsdaten gefunden:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
        *[other] <span>Doppelte Zugangsdaten gefunden:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Neue Passwörter hinzugefügt:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Neue Passwörter hinzugefügt:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Bestehende Einträge aktualisiert:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Bestehende Einträge aktualisiert:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Doppelte Einträge gefunden:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span >
+       *[other] <span>Doppelte Einträge gefunden:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nicht importiert)</span >
     }
 about-logins-import-dialog-items-error =
     { $count ->
