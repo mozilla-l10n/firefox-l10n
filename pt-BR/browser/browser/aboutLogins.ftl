@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Criar nova conta
+about-logins-page-title-name = Senhas
+about-logins-login-filter2 =
+    .placeholder = Pesquisar senhas
+    .key = P
+create-login-button =
+    .title = Adicionar senha
 fxaccounts-sign-in-text = Tenha suas senhas em outros dispositivos
 fxaccounts-sign-in-sync-button = Entrar na conta para sincronizar
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } de { $total } conta
        *[other] { $count } de { $total } contas
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } senha
+       *[other] { $count } senhas
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } de { $total } senha
+       *[other] { $count } de { $total } senhas
+    }
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
 login-list-name-reverse-option = Nome (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Última modificação
 login-list-last-used-option = Último uso
 login-list-intro-title = Nenhuma conta encontrada
+login-list-intro-title2 = Nenhuma senha salva
 login-list-intro-description = Quando você salva uma senha no { -brand-product-name }, ela aparece aqui.
 about-logins-login-list-empty-search-title = Nenhuma conta encontrada
+about-logins-login-list-empty-search-title2 = Nenhuma senha encontrada
 about-logins-login-list-empty-search-description = Nenhum resultado corresponde à sua busca.
 login-list-item-title-new-login = Nova conta
 login-list-item-subtitle-new-login = Informe as credenciais da sua conta
+login-list-item-title-new-login2 = Adicionar senha
 login-list-item-subtitle-missing-username = (sem nome de usuário)
 about-logins-list-item-breach-icon =
     .title = Site vazado
@@ -273,6 +297,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importar arquivo de contas
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importar senhas para o { -brand-short-name }
 about-logins-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -308,6 +334,15 @@ about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Conta duplicada encontrada:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importada)</span>
        *[other] <span>Contas duplicadas encontradas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importadas)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nova senha adicionada:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Novas senhas adicionadas:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+       *[other] <span>Itens existentes atualizados:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
