@@ -92,13 +92,17 @@ about-webauthn-auth-option-null = Ikke understøttet
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Certificeringer
+about-webauthn-auth-info-uv-modality = Modalitet for bruger-godkendelse
+about-webauthn-auth-info-preferred-platform-uv-attempts = Foretrukken platform for forsøg på bruger-godkendelse
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maksimalt antal relying party id'er til indstilling af mindste længde af pinkoder
 about-webauthn-auth-info-firmware-version = Firmware-version
 about-webauthn-auth-info-min-pin-length = Mindste længde på pinkoder
 about-webauthn-auth-info-force-pin-change = Gennemtving ændring af pinkode
 about-webauthn-auth-info-max-ser-large-blob-array = Maximal størrelse på large blob-array
 about-webauthn-auth-info-algorithms = Algoritmer
 about-webauthn-auth-info-pin-protocols = Pinkode-protokoller
-about-webauthn-auth-info-max-msg-size = Maximal størrelse på besked
+about-webauthn-auth-info-max-msg-size = Maksimal størrelse på besked
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Udvidelser
