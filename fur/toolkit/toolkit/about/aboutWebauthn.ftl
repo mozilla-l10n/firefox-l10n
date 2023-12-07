@@ -53,6 +53,7 @@ about-webauthn-current-pin-label = PIN corint:
 about-webauthn-pin-required-label = Inserìs il to PIN:
 about-webauthn-credential-list-subsection-title = Credenziâls:
 about-webauthn-credential-list-empty = Nissune credenziâl cjatade tal dispositîf.
+about-webauthn-confirm-deletion-label = Tu stâs par eliminâ:
 
 ## Buttons
 
