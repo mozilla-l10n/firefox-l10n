@@ -76,6 +76,7 @@ migration-bookmarks-option-label = 書籤
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = 我的最愛
 migration-logins-and-passwords-option-label = 儲存的登入資訊與密碼
+migration-passwords-option-label = 已存密碼
 migration-history-option-label = 瀏覽紀錄
 migration-extensions-option-label = 擴充套件
 migration-form-autofill-option-label = 表單自動填寫資料
