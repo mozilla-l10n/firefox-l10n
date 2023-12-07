@@ -62,6 +62,14 @@ login-list-count2 =
         [one] { $count } mot de passe
        *[other] { $count } mots de passe
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } sur { $total } mot de passe
+       *[other] { $count } sur { $total } mots de passe
+    }
 login-list-sort-label-text = Trier par :
 login-list-name-option = Nom (A-Z)
 login-list-name-reverse-option = Nom (Z-A)
@@ -315,6 +323,16 @@ about-logins-import-dialog-items-no-change =
     { $count ->
         [1] <span>Identifiants en double trouvés :</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(non importé)</span>
        *[other] <span>Identifiants en double trouvés :</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(non importés)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nouveau mot de passe ajouté :</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nouveaux mots de passe ajoutés :</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Entrée existante mise à jour :</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Entrées existantes mises à jour :</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
