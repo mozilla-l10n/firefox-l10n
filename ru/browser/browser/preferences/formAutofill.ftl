@@ -114,6 +114,7 @@ autofill-address-email = Эл. почта
 autofill-cancel-button = Отмена
 autofill-save-button = Сохранить
 autofill-country-warning-message = В настоящее время автозаполнение форм доступно только для некоторых стран.
+autofill-message-tooltip = Посмотреть сообщение об автозаполнении
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Добавить новую банковскую карту
 # The dialog title for editing credit cards in browser preferences.

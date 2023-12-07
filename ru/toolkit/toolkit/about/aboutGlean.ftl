@@ -84,6 +84,14 @@ about-glean-adhoc-explanation =
     и используя API <code>testGetValue()</code>, например,
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Чтобы узнать больше о <i>специальном</i> тестировании,
+    вы также можете определить текущее значение конкретного инструмента,
+    открыв консоль devtools здесь, в <code>about:glean</code>,
+    и используя API <code>testGetValue()</code>, например,
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    для метрики с именем <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Обратите внимание, что вы используете Glean JS API с помощью консоли devtools.
     Это означает, что категория метрики и имя метрики отформатированы в
