@@ -422,8 +422,8 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplicerad post</div> <div data-l10n-name="not-imported ">(ej importerad)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplicerade poster</div> <div data-l10n-name="not-imported ">(ej importerad)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplicerad post</div> <div data-l10n-name="not-imported">(ej importerad)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplicerade poster</div> <div data-l10n-name="not-imported">(ej importerad)</div>
     }
 about-logins-import-report-error =
     { $count ->
