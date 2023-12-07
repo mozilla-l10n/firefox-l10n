@@ -17,7 +17,7 @@ about-logins-login-filter =
    .key = F
 about-logins-login-filter2 =
    .placeholder = Cerca nelle password
-   .key = w
+   .key = F
 
 create-new-login-button =
   .title = Inserisci nuove credenziali
