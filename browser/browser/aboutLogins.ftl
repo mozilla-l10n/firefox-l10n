@@ -12,7 +12,7 @@ create-new-login-button =
 about-logins-page-title-name = Пароли
 about-logins-login-filter2 =
     .placeholder = Поиск паролей
-    .key = а
+    .key = F
 create-login-button =
     .title = Добавить пароль
 fxaccounts-sign-in-text = Получайте доступ к своим паролям на других устройствах
@@ -447,9 +447,9 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющаяся запись</div> <div data-l10n-name="not-imported" ">(не импортирована)</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющиеся записи</div> <div data-l10n-name="not-imported" ">(не импортированы)</div>
-       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющиеся записи</div> <div data-l10n-name="not-imported" ">(не импортированы)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющаяся запись</div> <div data-l10n-name="not-imported">(не импортирована)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющиеся записи</div> <div data-l10n-name="not-imported">(не импортированы)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющиеся записи</div> <div data-l10n-name="not-imported">(не импортированы)</div>
     }
 about-logins-import-report-error =
     { $count ->
