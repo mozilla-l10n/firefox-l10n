@@ -423,8 +423,8 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvítekin færsla</div> <div data-l10n-name="not-imported ">(ekki flutt inn)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvíteknar færslur</div> <div data-l10n-name="not-imported ">(ekki flutt inn)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvítekin færsla</div> <div data-l10n-name="not-imported">(ekki flutt inn)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tvíteknar færslur</div> <div data-l10n-name="not-imported">(ekki flutt inn)</div>
     }
 about-logins-import-report-error =
     { $count ->
