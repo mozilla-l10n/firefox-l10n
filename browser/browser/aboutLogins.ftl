@@ -379,6 +379,7 @@ about-logins-import-report-row-index = Linha { $number }
 about-logins-import-report-row-description-no-change = Duplicado: Corresponde exatamente a uma conta já existente
 about-logins-import-report-row-description-modified = Conta existente atualizada
 about-logins-import-report-row-description-added = Nova conta adicionada
+about-logins-import-report-row-description-no-change2 = Duplicado: Corresponde exatamente a um item já existente
 about-logins-import-report-row-description-modified2 = Item existente atualizado
 about-logins-import-report-row-description-added2 = Nova senha adicionada
 about-logins-import-report-row-description-error = Erro: Falta um campo
