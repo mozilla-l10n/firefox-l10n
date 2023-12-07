@@ -12,7 +12,7 @@ create-new-login-button =
 about-logins-page-title-name = Cyfrineiriau
 about-logins-login-filter2 =
     .placeholder = Chwilio Cyfrineiriau
-    .key = C
+    .key = F
 create-login-button =
     .title = Ychwanegu cyfrinair
 fxaccounts-sign-in-text = Defnyddiwch eich cyfrineiriau ar eich dyfeisiau eraill
@@ -515,12 +515,12 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Mewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb ei fewnforio)</div>
-        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
-        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
-        [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"><div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb ei fewnforio)</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+        [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mewngofnodion dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
     }
 about-logins-import-report-error =
     { $count ->
