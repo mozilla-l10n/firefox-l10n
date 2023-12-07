@@ -58,6 +58,8 @@ about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">Visit
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation = Para testes mais específicos, você também pode determinar o valor atual de um elemento de instrumentação, abrindo um console do devtools aqui em <code>about:glean</code> e usando a API <code>testGetValue()</code> como <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 = Para testes mais específicos, você também pode determinar o valor atual de um elemento de instrumentação, abrindo um console do devtools aqui em <code>about:glean</code> e usando a API <code>testGetValue()</code> como <code>Glean.metricCategory.metricName.testGetValue()</code> de uma métrica de nome <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Observe que você está usando a API Glean JS usando o console do devtools.
     Significa que a categoria e o nome da métrica são formatados em
