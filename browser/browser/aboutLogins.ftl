@@ -336,6 +336,16 @@ about-logins-import-dialog-items-added2 =
     { $count ->
        *[other] <span>ਨਵੇਂ ਪਾਸਵਰਡ ਜੋੜੇ ਗਏ</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>ਮੌਜੂਦਾ ਐੰਟਰੀ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>ਮੌਜੂਦਾ ਐੰਟਰੀਆਂ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>ਡੁਪਲੀਕੇਟ ਐੰਟਰੀ ਲੱਭੀ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤਾ ਗਿਆ)</span>
+       *[other] <span>ਡੁਪਲੀਕੇਟ ਐਂਟਰੀਆਂ ਲੱਭੀਆਂ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤੀਆਂ)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>ਗ਼ਲਤੀ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤੇ)</span>
@@ -356,6 +366,7 @@ about-logins-import-dialog-error-try-import-again = …ਮੁੜ ਦਰਾਮਦ
 about-logins-import-dialog-error-cancel = ਰੱਦ ਕਰੋ
 about-logins-import-report-title = ਦਰਾਮਦ ਦਾ ਸਾਰ
 about-logins-import-report-description = ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ { -brand-short-name } ਲਈ ਦਰਾਮਦ ਕੀਤੇ।
+about-logins-import-report-description2 = { -brand-short-name } ਵਿੱਚ ਪਾਸਵਰਡ ਇੰਪੋਰਟ ਕਰੋ
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -363,6 +374,9 @@ about-logins-import-report-row-index = ਕਤਾਰ { $number }
 about-logins-import-report-row-description-no-change = ਡੁਪਲੀਕੇਟ: ਪੂਰੀ ਤਰ੍ਹਾਂ ਮਿਲਦਾ ਹੋਇਆ ਮੌਜੂਦਾ ਲਾਗਇਨ
 about-logins-import-report-row-description-modified = ਮੌਜੂਦਾ ਲਾਗਇਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ
 about-logins-import-report-row-description-added = ਨਵਾਂ ਲਾਗਇਨ ਜੋੜਿਆ
+about-logins-import-report-row-description-no-change2 = ਡੁਪਲੀਕੇਟ: ਮੌਜੂਦਾ ਐੰਟਰੀ ਨਾਲ ਪੂਰੀ ਤਰ੍ਹਾਂ ਮਿਲਦੀ
+about-logins-import-report-row-description-modified2 = ਮੌਜੂਦਾ ਐਂਟਰੀ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ
+about-logins-import-report-row-description-added2 = ਨਵਾਂ ਪਾਸਵਰਡ ਜੋੜਿਆ ਗਿਆ
 about-logins-import-report-row-description-error = ਗ਼ਲਤੀ: ਖੇਤਰ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
 
 ##
@@ -387,6 +401,11 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਡੁਪਲੀਕੇਟ ਲਾਗਇਨ</div> <div data-l10n-name="not-imported">(ਦਰਾਮਦ ਨਹੀਂ ਕੀਤੇ)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਨਵਾਂ ਪਾਸਵਰਡ ਜੋੜਿਆ ਗਿਆ</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਨਵੇਂ ਪਾਸਵਰਡ ਜੋੜੇ ਗਏ</div>
     }
 about-logins-import-report-error =
     { $count ->
