@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Segnelibris
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Preferîts
 migration-logins-and-passwords-option-label = Credenziâls e passwords salvadis
+migration-passwords-option-label = Passwords salvadis
 migration-history-option-label = Cronologjie di navigazion
 migration-extensions-option-label = Estensions
 migration-form-autofill-option-label = Dâts pe compilazion automatiche dai formularis

@@ -78,6 +78,14 @@ about-glean-adhoc-explanation =
     e doprant la API <code>testGetValue()</code> come par esempli
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Par fâ provis plui smiradis,
+    tu puedis ancje determinâ il valôr atuâl di un particolâr toc di strumentazion
+    vierzint achì une console dai struments di svilup su <code>about:glean</code>
+    e doprant la API <code>testGetValue()</code> come par esempli
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    par une metriche clamade <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Viôt che la console dai struments di svilup che tu stâs doprant e dopre lis API
     Glean par JavaScript. Chest al significhe che i nons e lis categoriis des metrichis

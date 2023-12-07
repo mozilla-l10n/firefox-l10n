@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = PIN sbaliât. Torne prove.
 webauthn-pin-required-prompt = Inserìs il PIN pal to dispositîf.
 webauthn-select-sign-result-unknown-account = Account no cognossût
+webauthn-a-passkey-label = Dopre une passkey
+webauthn-another-passkey-label = Dopre une altre passkey
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Passkey par { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
