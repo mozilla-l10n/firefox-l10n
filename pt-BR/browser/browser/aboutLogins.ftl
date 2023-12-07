@@ -342,7 +342,13 @@ about-logins-import-dialog-items-added2 =
     }
 about-logins-import-dialog-items-modified2 =
     { $count ->
+        [one] <span>Item existente atualizado:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Itens existentes atualizados:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Item duplicado encontrado:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importado)</span>
+       *[other] <span>Itens duplicados encontrados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(não importados)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
@@ -365,6 +371,7 @@ about-logins-import-dialog-error-try-import-again = Tentar importar novamente…
 about-logins-import-dialog-error-cancel = Cancelar
 about-logins-import-report-title = Resumo da importação
 about-logins-import-report-description = Contas e senhas importadas para o { -brand-short-name }.
+about-logins-import-report-description2 = Senhas importadas para o { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -372,6 +379,8 @@ about-logins-import-report-row-index = Linha { $number }
 about-logins-import-report-row-description-no-change = Duplicado: Corresponde exatamente a uma conta já existente
 about-logins-import-report-row-description-modified = Conta existente atualizada
 about-logins-import-report-row-description-added = Nova conta adicionada
+about-logins-import-report-row-description-modified2 = Item existente atualizado
+about-logins-import-report-row-description-added2 = Nova senha adicionada
 about-logins-import-report-row-description-error = Erro: Falta um campo
 
 ##
@@ -399,6 +408,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Conta duplicada</div> <div data-l10n-name="not-imported">(não importada)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Contas duplicadas</div> <div data-l10n-name="not-imported">(não importadas)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nova senha adicionada</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novas senhas adicionadas</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">item existente atualizado</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">itens existentes atualizados</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">item duplicado</div> <div data-l10n-name="not-imported">(não importado)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">itens duplicados</div> <div data-l10n-name="not-imported">(não importados)</div>
     }
 about-logins-import-report-error =
     { $count ->
