@@ -56,6 +56,14 @@ about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">Navš
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation = Pre ďalšie <i>ad hoc</i> testovanie môžete tiež určiť aktuálnu hodnotu konkrétnej časti inštrumentácie otvorením konzoly devtools tu na stránke <code>about:glean</code> a použitím API <code>testGetValue()</code> ako <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Pre ďalšie <i>ad hoc</i> testovanie
+    môžete určiť aj aktuálnu hodnotu konkrétnej časti inštrumentácie 
+    otvorením konzoly devtools tu na <code>about:glean</code>
+    a použitím API metódy <code>testGetValue()</code>
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    pre metriku s názvom <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Upozorňujeme, že Glean JS API používate pomocou konzoly devtools.
     To znamená, že kategória a názov metriky sú naformátované ako 
