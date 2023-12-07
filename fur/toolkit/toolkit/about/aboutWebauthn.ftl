@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Opzions autenticadôr
 about-webauthn-pin-section-title = Gjestion PIN
 about-webauthn-credential-management-section-title = Gjestìs credenziâls
 about-webauthn-pin-required-section-title = PIN necessari
+about-webauthn-confirm-deletion-section-title = Conferme eliminazion
 
 ## Info field texts
 
