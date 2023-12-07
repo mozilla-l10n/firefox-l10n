@@ -62,6 +62,21 @@ about-webauthn-delete-button = Löschen
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Benutzerverifizierung
+about-webauthn-auth-option-up = Benutzeranwesenheit
+about-webauthn-auth-option-clientpin = Client-PIN
+about-webauthn-auth-option-plat = Plattform-Gerät
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Kommandoberechtigungen (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Keine MakeCredential-/GetAssertion-Berechtigungen mit Client-PIN
+about-webauthn-auth-option-largeblobs = Große Blobs
+about-webauthn-auth-option-ep = Unternehmens-Attestierung
+about-webauthn-auth-option-bioenroll = Biometrische Erfassung
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototyp der biometrischen Erfassung (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Berechtigung zur biometrischen Erfassung
+about-webauthn-auth-option-credmgmt = Zugangsdatenverwaltung
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
