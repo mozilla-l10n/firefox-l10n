@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Tạo thông tin đăng nhập mới
+about-logins-page-title-name = Mật khẩu
+about-logins-login-filter2 =
+    .placeholder = Tìm kiếm mật khẩu
+    .key = F
+create-login-button =
+    .title = Thêm mật khẩu
 fxaccounts-sign-in-text = Nhận mật khẩu của bạn trên các thiết bị khác của bạn
 fxaccounts-sign-in-sync-button = Đăng nhập vào đồng bộ hóa
 fxaccounts-avatar-button =
@@ -44,6 +50,13 @@ login-list-count =
 #   $count (number) - Number of filtered logins
 #   $total (number) - Total number of logins
 login-list-filtered-count = { $count }/{ $total } thông tin đăng nhập
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 = { $count } mật khẩu
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 = { $count }/{ $total } mật khẩu
 login-list-sort-label-text = Sắp xếp theo:
 login-list-name-option = Tên (A-Z)
 login-list-name-reverse-option = Tên (Z-A)
@@ -53,11 +66,14 @@ about-logins-login-list-alerts-option = Cảnh báo
 login-list-last-changed-option = Sửa đổi lần cuối
 login-list-last-used-option = Sử dụng lần cuối
 login-list-intro-title = Không tìm thấy thông tin đăng nhập
+login-list-intro-title2 = Không có mật khẩu đã lưu
 login-list-intro-description = Khi bạn lưu mật khẩu trong { -brand-product-name }, nó sẽ hiển thị ở đây.
 about-logins-login-list-empty-search-title = Không tìm thấy thông tin đăng nhập
+about-logins-login-list-empty-search-title2 = Không có mật khẩu nào
 about-logins-login-list-empty-search-description = Không có kết quả phù hợp với tìm kiếm của bạn.
 login-list-item-title-new-login = Đăng nhập mới
 login-list-item-subtitle-new-login = Nhập thông tin đăng nhập của bạn
+login-list-item-title-new-login2 = Thêm mật khẩu
 login-list-item-subtitle-missing-username = (không có tên người dùng)
 about-logins-list-item-breach-icon =
     .title = Trang web bị rò rỉ
@@ -262,6 +278,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Nhập tập tin đăng nhập
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Nhập mật khẩu sang { -brand-short-name }
 about-logins-import-file-picker-import-button = Nhập
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -295,6 +313,18 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Tìm thấy thông tin đăng nhập bị trùng:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(không nhập)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] <span>Đã thêm các mật khẩu mới:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+       *[other] <span>Đã cập nhật các mục hiện có:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+       *[other] <span>Đã thấy các mục bị trùng:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(không được nhập)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Lỗi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(không nhập)</span>
@@ -315,6 +345,7 @@ about-logins-import-dialog-error-try-import-again = Thử nhập lần nữa...
 about-logins-import-dialog-error-cancel = Hủy bỏ
 about-logins-import-report-title = Tóm tắt nhập
 about-logins-import-report-description = Thông tin đăng nhập và mật khẩu được nhập vào { -brand-short-name }.
+about-logins-import-report-description2 = Mật khẩu được nhập vào { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -322,6 +353,9 @@ about-logins-import-report-row-index = Hàng { $number }
 about-logins-import-report-row-description-no-change = Trùng lặp: Đối sánh chính xác thông tin đăng nhập hiện có
 about-logins-import-report-row-description-modified = Thông tin đăng nhập hiện tại đã được cập nhật
 about-logins-import-report-row-description-added = Đã thêm thông tin đăng nhập mới
+about-logins-import-report-row-description-no-change2 = Trùng lặp: Kết hợp chính xác với mục nhập hiện có
+about-logins-import-report-row-description-modified2 = Đã cập nhật mục hiện tại
+about-logins-import-report-row-description-added2 = Đã thêm mật khẩu mới
 about-logins-import-report-row-description-error = Lỗi: Thiếu trường
 
 ##
@@ -346,6 +380,18 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">thông tin đăng nhập trùng lặp</div> <div data-l10n-name="not-imported">(không nhập)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mật khẩu mới đã được thêm</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mục đã được cập nhật</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mục bị trùng</div> <div data-l10n-name="not-imported">(không được nhập)</div>
     }
 about-logins-import-report-error =
     { $count ->

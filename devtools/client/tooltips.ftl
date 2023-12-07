@@ -40,6 +40,10 @@ inactive-css-border-image = <strong>{ $property }</strong> không ảnh hưởng
 inactive-css-ruby-element = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó là phần tử ruby. Kích thước của nó được xác định bởi kích thước phông chữ của văn bản ruby.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên pseudo-elements được tô sáng.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::cue pseudo-elements.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded = <strong>{ $property }</strong> không có tác dụng lên phần tử này vì nó có nhiều hơn { $lineCount } dòng.
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> không có tác dụng gì với phần tử này vì nó bị phân mảnh, tức là nội dung của nó bị chia thành nhiều cột hoặc nhiều trang.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +70,8 @@ inactive-css-not-table-cell-fix = Hãy thử thêm <strong>display:table-cell</s
 inactive-scroll-padding-when-not-scroll-container-fix = Hãy thử thêm <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, hoặc <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Trên bảng phần tử mẹ, hãy xóa thuộc tính hoặc thay đổi giá trị của <strong>border-collapse</strong> sang một giá trị khác <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Hãy thử thay đổi <strong>font-size</strong> của văn bản ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Hãy thử giảm số lượng dòng. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Tránh phân chia nội dung của phần tử, ví dụ bằng cách xóa các cột hoặc bằng cách sử dụng <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -82,3 +88,10 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> là thuộc tính thử nghiệm. Nó không được hỗ trợ trong các trình duyệt sau:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> là thuộc tính thử nghiệm.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Tìm hiểu thêm</span> về <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Selector này sử dụng <strong>:has()</strong> không bị ràng buộc, có thể khiến bị chậm

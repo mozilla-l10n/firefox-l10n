@@ -11,6 +11,7 @@ contentanalysis-slow-agent-dialog-title = Đang phân tích nội dung
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Trình phân tích nội dung đang phân tích tài nguyên “{ $content }”
 contentanalysis-operationtype-clipboard = khay nhớ tạm
+contentanalysis-operationtype-dropped-text = văn bản đã kéo thả
 contentanalysis-notification-title = Trình phân tích nội dung
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
