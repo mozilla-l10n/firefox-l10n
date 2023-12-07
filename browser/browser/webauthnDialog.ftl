@@ -8,6 +8,11 @@ webauthn-pin-invalid-long-prompt = PIN 碼不正確，剩下 { $retriesLeft } �
 webauthn-pin-invalid-short-prompt = PIN 碼不正確，請再試一次。
 webauthn-pin-required-prompt = 請輸入您裝置的 PIN 碼。
 webauthn-select-sign-result-unknown-account = 未知帳號
+webauthn-a-passkey-label = 使用密碼金鑰
+webauthn-another-passkey-label = 使用另一把密碼金鑰
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = { $domain } 的密碼金鑰
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt = 使用者驗證失敗。您還有 { $retriesLeft } 次機會，請再試一次。
