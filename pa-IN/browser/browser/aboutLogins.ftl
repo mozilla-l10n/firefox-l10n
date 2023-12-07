@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = ਨਵਾਂ ਲਾਗਇਨ ਬਣਾਓ
+about-logins-page-title-name = ਪਾਸਵਰਡ
+about-logins-login-filter2 =
+    .placeholder = ਪਾਸਵਰਡ ਲੱਭੋ
+    .key = F
+create-login-button =
+    .title = ਪਾਸਵਰਡ ਜੋੜੋ
 fxaccounts-sign-in-text = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਪਾਸਵਰਡ ਲਵੋ
 fxaccounts-sign-in-sync-button = ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
 fxaccounts-avatar-button =
@@ -48,6 +54,21 @@ login-list-filtered-count =
     { $total ->
         [one] { $total } ਲਾਗਇਨ ਵਿੱਚੋਂ { $count }
        *[other] { $total } ਲਾਗਇਨ ਵਿੱਚੋਂ { $count }
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } ਪਾਸਵਰਡ
+       *[other] { $count } ਪਾਸਵਰਡ
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $total } ਪਾਸਵਰਡ ਵਿੱਚੋਂ { $count }
+       *[other] { $total } ਪਾਸਵਰਡਾਂ ਵਿੱਚੋਂ { $count }
     }
 login-list-sort-label-text = ਲੜੀਬੱਧ:
 login-list-name-option = ਨਾਂ (A-Z)
