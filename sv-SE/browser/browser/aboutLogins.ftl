@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Skapa ny inloggning
+about-logins-page-title-name = Lösenord
+about-logins-login-filter2 =
+    .placeholder = Sök lösenord
+    .key = F
+create-login-button =
+    .title = Lägg till lösenord
 fxaccounts-sign-in-text = Få dina lösenord på dina andra enheter
 fxaccounts-sign-in-sync-button = Logga in för att synkronisera
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } av { $total } inloggning
        *[other] { $count } av { $total } inloggningar
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } lösenord
+       *[other] { $count } lösenord
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } av { $total } lösenord
+       *[other] { $count } av { $total } lösenord
+    }
 login-list-sort-label-text = Sortera efter:
 login-list-name-option = Namn (A-Ö)
 login-list-name-reverse-option = Namn (Ö-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Varningar
 login-list-last-changed-option = Senast ändrad
 login-list-last-used-option = Senast använd
 login-list-intro-title = Inga inloggningar hittades
+login-list-intro-title2 = Inga lösenord sparade
 login-list-intro-description = När du sparar ett lösenord i { -brand-product-name }, kommer det att visas här.
 about-logins-login-list-empty-search-title = Inga inloggningar hittades
+about-logins-login-list-empty-search-title2 = Inga lösenord hittades
 about-logins-login-list-empty-search-description = Det finns inga resultat som matchar din sökning.
 login-list-item-title-new-login = Ny inloggning
 login-list-item-subtitle-new-login = Ange dina inloggningsuppgifter
+login-list-item-title-new-login2 = Lägg till lösenord
 login-list-item-subtitle-missing-username = (inget användarnamn)
 about-logins-list-item-breach-icon =
     .title = Webbplats med dataintrång
@@ -273,6 +297,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importera inloggningsfil
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importera lösenord till { -brand-short-name }
 about-logins-import-file-picker-import-button = Importera
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -309,6 +335,21 @@ about-logins-import-dialog-items-no-change =
         [one] <span data-l10n-name="count">{ $count }</span><span>duplicerad inloggning hittades</span><span data-l10n-name="meta">(ej importerad)</span>
        *[other] <span data-l10n-name="count">{ $count }</span><span>duplicerad inloggningar hittades</span><span data-l10n-name="meta">(ej importerade)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nytt lösenord har lagts till:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nya lösenord har lagts till:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Befintlig post uppdaterad:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Befintliga poster uppdaterade:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Duplicerad post hittad:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ej importerad)</span >
+       *[other] <span>Duplicerade poster hittades:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ej importerad)</span >
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span><span>fel</span><span data-l10n-name="meta">(ej importerad)</span>
@@ -330,6 +371,7 @@ about-logins-import-dialog-error-try-import-again = Försök importera igen…
 about-logins-import-dialog-error-cancel = Avbryt
 about-logins-import-report-title = Importera sammanfattning
 about-logins-import-report-description = Inloggningar och lösenord importerade till { -brand-short-name }.
+about-logins-import-report-description2 = Lösenord importerade till { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -337,6 +379,9 @@ about-logins-import-report-row-index = Rad { $number }
 about-logins-import-report-row-description-no-change = Dubblett: Exakt matchning av befintlig inloggning
 about-logins-import-report-row-description-modified = Befintlig inloggning uppdaterad
 about-logins-import-report-row-description-added = Ny inloggning tillagd
+about-logins-import-report-row-description-no-change2 = Dubblett: Exakt matchning av befintlig post
+about-logins-import-report-row-description-modified2 = Befintlig post uppdaterad
+about-logins-import-report-row-description-added2 = Nytt lösenord har lagts till
 about-logins-import-report-row-description-error = Fel: Fält saknas
 
 ##
@@ -364,6 +409,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dubbel inloggning</div> <div data-l10n-name="not-imported">(not imported)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dubbla inloggningar</div> <div data-l10n-name="not-imported">(not imported)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nytt lösenord har lagts till</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nya lösenord har lagts till</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Befintlig post uppdaterad</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Befintliga poster uppdaterade</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplicerad post</div> <div data-l10n-name="not-imported ">(ej importerad)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplicerade poster</div> <div data-l10n-name="not-imported ">(ej importerad)</div>
     }
 about-logins-import-report-error =
     { $count ->
