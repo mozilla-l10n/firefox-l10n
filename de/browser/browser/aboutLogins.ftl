@@ -9,6 +9,9 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Neue Zugangsdaten erstellen
+about-logins-page-title-name = Passwörter
+create-login-button =
+    .title = Passwort hinzufügen
 fxaccounts-sign-in-text = Nutzen Sie Ihre Passwörter auf anderen Geräten
 fxaccounts-sign-in-sync-button = Zum Synchronisieren anmelden
 fxaccounts-avatar-button =
@@ -49,6 +52,21 @@ login-list-filtered-count =
         [one] { $count } von { $total } Zugangsdaten
        *[other] { $count } von { $total } Zugangsdaten
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } Passwort
+       *[other] { $count } Passwörter
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } von { $total } Passwörtern
+       *[other] { $count } von { $total } Passwörtern
+    }
 login-list-sort-label-text = Sortieren nach:
 login-list-name-option = Name (A-Z)
 login-list-name-reverse-option = Name (Z-A)
@@ -58,6 +76,7 @@ about-logins-login-list-alerts-option = Warnungen
 login-list-last-changed-option = Zuletzt geändert
 login-list-last-used-option = Zuletzt verwendet
 login-list-intro-title = Keine Zugangsdaten gefunden
+login-list-intro-title2 = Keine Passwörter gespeichert
 login-list-intro-description = Wenn Sie ein Passwort in { -brand-product-name } speichern, wird es hier angezeigt.
 about-logins-login-list-empty-search-title = Keine Zugangsdaten gefunden
 about-logins-login-list-empty-search-description = Keine mit der Suche übereinstimmenden Zugangsdaten
