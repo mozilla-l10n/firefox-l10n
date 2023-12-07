@@ -328,6 +328,21 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Βρέθηκαν διπλές συνδέσεις:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(δεν έγινε εισαγωγή)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Προστέθηκε νέος κωδικός πρόσβασης:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Προστέθηκαν νέοι κωδικοί πρόσβασης:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Ενημερώθηκε υπάρχουσα καταχώρηση:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ενημερώθηκαν υπάρχουσες καταχωρήσεις:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Βρέθηκε διπλή καταχώρηση:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(δεν έγινε εισαγωγή)</span>
+       *[other] <span>Βρέθηκαν διπλές καταχωρήσεις:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(δεν έγινε εισαγωγή)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Σφάλματα:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(δεν έγινε εισαγωγή)</span>
@@ -348,6 +363,7 @@ about-logins-import-dialog-error-try-import-again = Εισαγωγή ξανά…
 about-logins-import-dialog-error-cancel = Ακύρωση
 about-logins-import-report-title = Περίληψη εισαγωγής
 about-logins-import-report-description = Εισήχθησαν συνδέσεις και κωδικοί πρόσβασης στο { -brand-short-name }.
+about-logins-import-report-description2 = Εισήχθησαν κωδικοί πρόσβασης στο { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -355,6 +371,9 @@ about-logins-import-report-row-index = Σειρά { $number }
 about-logins-import-report-row-description-no-change = Διπλότυπο: ακριβής αντιστοίχιση υπαρχουσών συνδέσεων
 about-logins-import-report-row-description-modified = Η υπάρχουσα σύνδεση ενημερώθηκε
 about-logins-import-report-row-description-added = Προστέθηκε νέα σύνδεση
+about-logins-import-report-row-description-no-change2 = Διπλότυπο: ακριβής αντιστοίχιση υπαρχουσών καταχωρήσεων
+about-logins-import-report-row-description-modified2 = Η υπάρχουσα καταχώρηση ενημερώθηκε
+about-logins-import-report-row-description-added2 = Προστέθηκε νέος κωδικός πρόσβασης
 about-logins-import-report-row-description-error = Σφάλμα: Απουσία πεδίου
 
 ##
@@ -379,6 +398,21 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">διπλότυπες συνδέσεις</div> <div data-l10n-name="not-imported">(δεν έγινε εισαγωγή)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Προστέθηκε νέος κωδικός πρόσβασης</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Προστέθηκαν νέοι κωδικοί πρόσβασης</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ενημερώθηκε υπάρχουσα καταχώρηση</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ενημερώθηκαν υπάρχουσες καταχωρήσεις</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">διπλότυπη καταχώρηση</div> <div data-l10n-name="not-imported">(δεν έγινε εισαγωγή)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">διπλότυπες καταχωρήσεις</div> <div data-l10n-name="not-imported">(δεν έγινε εισαγωγή)</div>
     }
 about-logins-import-report-error =
     { $count ->
