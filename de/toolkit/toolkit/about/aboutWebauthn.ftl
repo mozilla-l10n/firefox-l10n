@@ -77,6 +77,11 @@ about-webauthn-auth-option-bioenroll = Biometrische Erfassung
 about-webauthn-auth-option-userverificationmgmtpreview = Prototyp der biometrischen Erfassung (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Berechtigung zur biometrischen Erfassung
 about-webauthn-auth-option-credmgmt = Zugangsdatenverwaltung
+about-webauthn-auth-option-credentialmgmtpreview = Prototyp-Zugangsdatenverwaltung
+about-webauthn-auth-option-setminpinlength = Mindestlänge der PIN festlegen
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential ohne Benutzerverifizierung
+about-webauthn-auth-option-alwaysuv = Benutzerverifizierung immer erfordern
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
@@ -87,6 +92,22 @@ about-webauthn-auth-option-null = Nicht unterstützt
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Zertifizierungen
+about-webauthn-auth-info-max-cred-blob-length = Maximale Länge eines Zugangsdaten-Blobs
+about-webauthn-auth-info-firmware-version = Firmware-Version
+about-webauthn-auth-info-min-pin-length = Mindestlänge der PIN
+about-webauthn-auth-info-force-pin-change = PIN-Änderung erzwingen
+about-webauthn-auth-info-max-ser-large-blob-array = Maximale Größe eines Arrays großer Blobs
+about-webauthn-auth-info-algorithms = Algorithmen
+about-webauthn-auth-info-transports = Übertragungsarten
+about-webauthn-auth-info-max-credential-id-length = Maximale Länge der Zugangsdaten-ID
+about-webauthn-auth-info-max-credential-count-in-list = Maximale Anzahl der Zugangsdaten in der Liste
+about-webauthn-auth-info-pin-protocols = PIN-Protokolle
+about-webauthn-auth-info-max-msg-size = Maximale Nachrichtengröße
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Erweiterungen
+about-webauthn-auth-info-versions = Versionen
 # Shows when boolean value for an info field is True. True should not be translated.
 about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
