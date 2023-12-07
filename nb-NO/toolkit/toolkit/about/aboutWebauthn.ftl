@@ -83,6 +83,7 @@ about-webauthn-auth-option-bioenroll = Biometrisk registrering
 about-webauthn-auth-option-userverificationmgmtpreview = Prototype for biometrisk registrering (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Biometrisk registreringstillatelse
 about-webauthn-auth-option-authnrcfg = Autentiseringskonfigurasjon
+about-webauthn-auth-option-uvacfg = Tillatelse for autentiseringskonfigurasjon
 about-webauthn-auth-option-credmgmt = Behandling av innloggingsdetaljer
 about-webauthn-auth-option-credentialmgmtpreview = Prototype behandling av innlogginsdetaljer
 about-webauthn-auth-option-setminpinlength = Angi minste PIN-kodelengde
