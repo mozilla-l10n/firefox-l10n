@@ -79,11 +79,14 @@ about-logins-login-list-alerts-option = ਚੇਤਾਵਨੀ
 login-list-last-changed-option = ਆਖਰੀ ਵਾਰ ਸੋਧੇ
 login-list-last-used-option = ਆਖਰੀ ਵਾਰ ਵਰਤੇ
 login-list-intro-title = ਕੋਈ ਲਾਗਇਨ ਨਹੀਂ ਲੱਭਿਆ
+login-list-intro-title2 = ਕੋਈ ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਨਹੀਂ ਹਨ
 login-list-intro-description = ਜਦੋਂ ਤੁਸੀਂ { -brand-product-name } ‘ਚ ਪਾਸਵਰਡ ਸੰਭਾਲਦੇ ਹੋ ਤਾਂ ਇਸ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਂਦਾ ਹੈ।
 about-logins-login-list-empty-search-title = ਕੋਈ ਲਾਗਇਨ ਨਹੀਂ ਲੱਭੇ
+about-logins-login-list-empty-search-title2 = ਕੋਈ ਪਾਸਵਰਡ ਨਹੀਂ ਲੱਭਿਆ
 about-logins-login-list-empty-search-description = ਤੁਹਾਡੀ ਖੋਜ ਨਾਲ ਮਿਲਦਾ ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ ਹੈ।
 login-list-item-title-new-login = ਨਵਾਂ ਲਾਗਇਨ
 login-list-item-subtitle-new-login = ਆਪਣੀ ਲਾਗਇਨ ਸਨਦ ਦਿਓ
+login-list-item-title-new-login2 = ਪਾਸਵਰਡ ਜੋੜੋ
 login-list-item-subtitle-missing-username = (ਕੋਈ ਵਰਤੋਂਕਾਰ ਨਾਂ ਨਹੀਂ)
 about-logins-list-item-breach-icon =
     .title = ਉਲੰਘਣ ਕਰਨ ਵਾਲੀ ਵੈੱਬਸਾਈਟ
@@ -294,6 +297,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = ਲਾਗਇਨਾਂ ਵਾਲੀ ਫਾਇਲ ਇੰਪੋਰਟ ਕਰੋ
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = ਪਾਸਵਰਡ { -brand-short-name } ਵਿੱਚ ਇੰਪੋਰਟ ਕਰੋ
 about-logins-import-file-picker-import-button = ਇੰਪੋਰਟ ਕਰੋ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -326,6 +331,10 @@ about-logins-import-dialog-items-modified =
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>ਡੁਪਲੀਕੇਟ ਲਾਗਇਨ ਲੱਭੇ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤੇ)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] <span>ਨਵੇਂ ਪਾਸਵਰਡ ਜੋੜੇ ਗਏ</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
