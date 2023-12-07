@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Бетбелгілер
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Таңдамалы
 migration-logins-and-passwords-option-label = Сақталған логиндер мен парольдер
+migration-passwords-option-label = Сақталған парольдер
 migration-history-option-label = Шолу тарихы
 migration-extensions-option-label = Кеңейтулер
 migration-form-autofill-option-label = Формаларды автотолтыру деректері
