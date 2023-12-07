@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Новая інфармацыя для праверкі
 shopping-message-bar-warning-stale-analysis-button = Праверыць зараз
-shopping-message-bar-generic-error-title2 = Зараз інфармацыя адсутнічае
-shopping-message-bar-generic-error-message = Мы працуем над вырашэннем праблемы. Калі ласка, праверце пазней.
-shopping-message-bar-warning-not-enough-reviews-title = Пакуль недастаткова водгукаў
-shopping-message-bar-warning-not-enough-reviews-message2 = Калі на гэты прадукт будзе больш водгукаў, мы зможам праверыць іх якасць.
-shopping-message-bar-warning-product-not-available-title = Прадукт недаступны
-shopping-message-bar-warning-product-not-available-message2 = Калі вы ўбачыце гэты прадукт ізноў у наяўнасці, паведаміце нам пра гэта, і мы будзем правяраць водгукі.
-shopping-message-bar-warning-product-not-available-button = Паведаміць, што гэты прадукт ізноў у наяўнасці
-shopping-message-bar-thanks-for-reporting-title = Дзякуй за паведамленне!
-shopping-message-bar-thanks-for-reporting-message2 = Мы павінны атрымаць інфармацыю аб водгуках аб гэтым прадукце на працягу 24 гадзін. Праверце зноў пазней.
-shopping-message-bar-warning-product-not-available-reported-title2 = Інфармацыя хутка будзе
-shopping-message-bar-warning-product-not-available-reported-message2 = Мы павінны атрымаць інфармацыю аб водгуках аб гэтым прадукце на працягу 24 гадзін. Праверце зноў пазней.
 shopping-message-bar-generic-error =
     .heading = Зараз інфармацыя адсутнічае
     .message = Мы працуем над вырашэннем праблемы. Калі ласка, праверце пазней.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Мы павінны атрымаць інфармацыю аб водгуках на гэты прадукт цягам 24 гадзін. Калі ласка, праверце пазней.
 shopping-message-bar-analysis-in-progress-title2 = Праверка якасці водгукаў
 shopping-message-bar-analysis-in-progress-message2 = Гэта можа заняць каля 60 секунд.
-shopping-message-bar-page-not-supported-title = Мы не можам праверыць гэтыя водгукі
-shopping-message-bar-page-not-supported-message = На жаль, мы не можам праверыць якасць водгукаў для некаторых відаў прадукцыі. Напрыклад, падарункавыя карты і струменевае відэа, музыка і гульні.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Правяраем якасць водгукаў ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Мы не можам праверыць гэтыя водгукі
     .message = На жаль, мы не можам праверыць якасць водгукаў для некаторых відаў прадукцыі. Напрыклад, падарункавыя карты і струменевае відэа, музыка і гульні.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Налады
 shopping-settings-recommendations-toggle =
     .label = Паказваць рэкламу ў сродку праверкі водгукаў
-shopping-settings-recommendations-learn-more = Вы будзеце час ад часу бачыць рэкламу адпаведных тавараў. Усе аб'явы павінны адпавядаць нашым стандартам якасці водгукаў. <a data-l10n-name="review-quality-url">Падрабязней</a>
 shopping-settings-recommendations-learn-more2 = Вы будзеце час ад часу бачыць рэкламу адпаведных тавараў. Мы рэкламуем толькі прадукты з надзейнымі водгукамі. <a data-l10n-name="review-quality-url">Падрабязней</a>
 shopping-settings-opt-out-button = Адключыць сродак праверкі водгукаў
 powered-by-fakespot = Сродак праверкі водгукаў працуе на аснове  <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -181,7 +170,6 @@ shopping-survey-q2-radio-3-label = Не ведаю
 shopping-survey-next-button-label = Далей
 shopping-survey-submit-button-label = Даслаць
 shopping-survey-terms-link = Умовы выкарыстання
-shopping-survey-thanks-message = Дзякуй за ваш водгук!
 shopping-survey-thanks =
     .heading = Дзякуй за ваш водгук!
 
@@ -198,12 +186,6 @@ shopping-callout-closed-not-opted-in-subtitle = Паспрабуйце прав�
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Паспрабуйце наш надзейны даведнік па водгуках на прадукты
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Паглядзіце, наколькі надзейныя водгукі на прадукт на <b>{ $currentSite }</b>, перш чым купляць. Праверка водгукаў, эксперыментальная функцыя ад { -vendor-short-name }, убудавана наўпрост у { -brand-product-name } — і працуе на <b>{ $secondSite }</b> і <b>{ $thirdSite }</b> таксама.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
