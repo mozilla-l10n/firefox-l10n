@@ -15,6 +15,7 @@ about-webauthn-info-section-title = Geräteinformationen
 about-webauthn-pin-section-title = PIN-Verwaltung
 about-webauthn-credential-management-section-title = Zugangsdaten verwalten
 about-webauthn-pin-required-section-title = PIN erforderlich
+about-webauthn-confirm-deletion-section-title = Löschen bestätigen
 
 ## Info field texts
 
