@@ -352,6 +352,7 @@ about-logins-import-dialog-error-try-import-again = Prøv at importere igen…
 about-logins-import-dialog-error-cancel = Annuller
 about-logins-import-report-title = Oversigt over import
 about-logins-import-report-description = Logins og adgangskoder importeret til { -brand-short-name }.
+about-logins-import-report-description2 = Adgangskoder importeret til { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -359,6 +360,9 @@ about-logins-import-report-row-index = Række { $number }
 about-logins-import-report-row-description-no-change = Dublet: Login eksisterer allerede
 about-logins-import-report-row-description-modified = Eksisterende login opdateret
 about-logins-import-report-row-description-added = Nyt login tilføjet
+about-logins-import-report-row-description-no-change2 = Dublet: Præcis magen til eksisterende element.
+about-logins-import-report-row-description-modified2 = Eksisterende element blev opdateret
+about-logins-import-report-row-description-added2 = Ny adgangskode tilføjet
 about-logins-import-report-row-description-error = Fejl: Manglende felt
 
 ##
@@ -386,6 +390,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dublet-login</div> <div data-l10n-name="not-imported">(ikke importeret)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dublet-logins</div> <div data-l10n-name="not-imported">(ikke importeret)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div>  <div data-l10n-name="details">ny adgangskode tilføjet</div>
+       *[other] <div data-l10n-name="count">{ $count }</div>  <div data-l10n-name="details">nye adgangskoder tilføjet</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eksisterende element blev opdateret</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eksisterende elementer blev opdateret</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">element fandtes allerede</div> <div data-l10n-name="not-imported">(ikke importeret)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elementer fandtes allerede</div> <div data-l10n-name="not-imported">(ikke importeret)</div>
     }
 about-logins-import-report-error =
     { $count ->
