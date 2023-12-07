@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Создать новый логин
+about-logins-page-title-name = Пароли
+about-logins-login-filter2 =
+    .placeholder = Поиск паролей
+    .key = а
+create-login-button =
+    .title = Добавить пароль
 fxaccounts-sign-in-text = Получайте доступ к своим паролям на других устройствах
 fxaccounts-sign-in-sync-button = Войдите для синхронизации
 fxaccounts-avatar-button =
@@ -52,6 +58,23 @@ login-list-filtered-count =
         [many] { $count } из { $total } логинов
        *[other] { $count } из { $total } логинов
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } пароль
+        [few] { $count } пароля
+       *[many] { $count } паролей
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } из { $total } пароля
+        [few] { $count } из { $total } паролей
+       *[many] { $count } из { $total } паролей
+    }
 login-list-sort-label-text = Упорядочивать:
 login-list-name-option = По имени (А-Я)
 login-list-name-reverse-option = По имени (Я-А)
@@ -61,11 +84,14 @@ about-logins-login-list-alerts-option = Уведомления
 login-list-last-changed-option = По последнему изменению
 login-list-last-used-option = По последнему использованию
 login-list-intro-title = Логины не найдены
+login-list-intro-title2 = Пароли не сохранены
 login-list-intro-description = Когда вы сохраните пароль в { -brand-product-name }, он появится здесь.
 about-logins-login-list-empty-search-title = Логины не найдены
+about-logins-login-list-empty-search-title2 = Пароли не найдены
 about-logins-login-list-empty-search-description = Результатов, подходящих под ваш запрос, не найдено
 login-list-item-title-new-login = Новый логин
 login-list-item-subtitle-new-login = Введите свои учётные данные
+login-list-item-title-new-login2 = Добавить пароль
 login-list-item-subtitle-missing-username = (нет имени пользователя)
 about-logins-list-item-breach-icon =
     .title = Взломанный сайт
@@ -284,6 +310,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Импорт файла логинов
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Импорт паролей в { -brand-short-name }
 about-logins-import-file-picker-import-button = Импортировать
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -323,6 +351,24 @@ about-logins-import-dialog-items-no-change =
         [few] <span>Найдены повторяющие логины:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
        *[many] <span>Найдены повторяющие логины:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Добавлен новый пароли:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Добавлены новые пароли:</span> <span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Добавлены новые пароли:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Обновлена существующая запись:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Обновлены существующие записи:</span> <span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Обновлены существующие записи:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Обнаружена повторяющаяся запись:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортирована)</span >
+        [few] <span>Обнаружены повторяющиеся записи:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span >
+       *[many] <span>Обнаружены повторяющиеся записи:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span >
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Ошибки:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортирован)</span>
@@ -345,6 +391,7 @@ about-logins-import-dialog-error-try-import-again = Повторить попы�
 about-logins-import-dialog-error-cancel = Отмена
 about-logins-import-report-title = Сводка импорта
 about-logins-import-report-description = Логины и пароли, импортированные в { -brand-short-name }.
+about-logins-import-report-description2 = Пароли импортированы в { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -352,6 +399,9 @@ about-logins-import-report-row-index = Строка { $number }
 about-logins-import-report-row-description-no-change = Дубликат: Такой логин уже существует
 about-logins-import-report-row-description-modified = Существующий логин обновлен
 about-logins-import-report-row-description-added = Новый логин добавлен
+about-logins-import-report-row-description-no-change2 = Дубликат: точное совпадение с существующей записью
+about-logins-import-report-row-description-modified2 = Существующая запись обновлена
+about-logins-import-report-row-description-added2 = Добавлен новый пароль
 about-logins-import-report-row-description-error = Ошибка: Отсутствует поле
 
 ##
@@ -382,6 +432,24 @@ about-logins-import-report-no-change =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющийся логин</div> <div data-l10n-name="not-imported">(не импортировано)</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логина</div> <div data-l10n-name="not-imported">(не импортировано)</div>
        *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">повторяющихся логинов</div> <div data-l10n-name="not-imported">(не импортировано)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавлен новый пароль</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавлены новые пароли</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавлены новые пароли</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновлена существующая запись</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновлены существующие записи</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновлены существующие записи</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющаяся запись</div> <div data-l10n-name="not-imported" ">(не импортирована)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющиеся записи</div> <div data-l10n-name="not-imported" ">(не импортированы)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Повторяющиеся записи</div> <div data-l10n-name="not-imported" ">(не импортированы)</div>
     }
 about-logins-import-report-error =
     { $count ->
