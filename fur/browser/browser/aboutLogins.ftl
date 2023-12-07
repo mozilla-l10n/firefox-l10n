@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Cree gnove credenziâl
+about-logins-page-title-name = Passwords
+about-logins-login-filter2 =
+    .placeholder = Cîr tes passwords
+    .key = C
+create-login-button =
+    .title = Zonte password
 fxaccounts-sign-in-text = Torne a cjatâ lis tôs passwords sui tiei altris dispositîfs
 fxaccounts-sign-in-sync-button = Jentre par sincronizâ
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } di { $total } credenziâl
        *[other] { $count } di { $total } credenziâls
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } password
+       *[other] { $count } passwords
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } di { $total } password
+       *[other] { $count } di { $total } passwords
+    }
 login-list-sort-label-text = Ordene par:
 login-list-name-option = Non (A-Z)
 login-list-name-reverse-option = Non (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Alertis
 login-list-last-changed-option = Ultime modificade
 login-list-last-used-option = Ultime doprade
 login-list-intro-title = Nissune credenziâl cjatade
+login-list-intro-title2 = Nissune password salvade
 login-list-intro-description = Cuant che tu salvis une password in { -brand-product-name }, ti vignarà fûr achì.
 about-logins-login-list-empty-search-title = Nissune credenziâl cjatade
+about-logins-login-list-empty-search-title2 = Nissune password cjatade
 about-logins-login-list-empty-search-description = No si à nissun risultât corispondent ai criteris de tô ricercje.
 login-list-item-title-new-login = Gnove credenziâl
 login-list-item-subtitle-new-login = Inserìs la credenziâl di acès
+login-list-item-title-new-login2 = Zonte password
 login-list-item-subtitle-missing-username = (nissun non utent)
 about-logins-list-item-breach-icon =
     .title = Sît web comprometût
@@ -274,6 +298,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importazion file des credenziâls
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Impuarte passwords su { -brand-short-name }
 about-logins-import-file-picker-import-button = Impuarte
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -307,6 +333,21 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Cjatadis credenziâls doplis::</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no impuartadis)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Gnovis passwords zontadis:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Gnovis passwords zontadis:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Elements inzornâts:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Elements inzornâts:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Elements doplis:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no impuartât)</span>
+       *[other] <span>Elements doplis:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no impuartâts)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Erôrs:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no impuartadis)</span>
@@ -327,6 +368,7 @@ about-logins-import-dialog-error-try-import-again = Prove torne a impuartâ…
 about-logins-import-dialog-error-cancel = Anule
 about-logins-import-report-title = Sintesi di importazion
 about-logins-import-report-description = Credenziâls e passwords impuartadis su { -brand-short-name }.
+about-logins-import-report-description2 = Passwords impuartadis su { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -334,6 +376,9 @@ about-logins-import-report-row-index = Rie { $number }
 about-logins-import-report-row-description-no-change = Dopli: coincidence esate des credenziâls esistentis
 about-logins-import-report-row-description-modified = Credenziâls esistentis inzornadis
 about-logins-import-report-row-description-added = Zontadis gnovis credenziâls
+about-logins-import-report-row-description-no-change2 = Doplis: corispondence esate di un element esistent
+about-logins-import-report-row-description-modified2 = Element esistent inzornât
+about-logins-import-report-row-description-added2 = Gnove password zontade
 about-logins-import-report-row-description-error = Erôr: al mancje un cjamp
 
 ##
@@ -361,6 +406,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dopli di credenziâl</div> <div data-l10n-name="not-imported">(no impuartât)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">doplis di credenziâls</div> <div data-l10n-name="not-imported">(no impuartâts)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">gnove password zontade</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">gnovis passwords zontadis</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">element esistent inzornât</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elements esistents inzornats</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">element dopli</div> <div data-l10n-name="not-imported">(no impuartât)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elements doplis</div> <div data-l10n-name="not-imported">(no impuartâts)</div>
     }
 about-logins-import-report-error =
     { $count ->
