@@ -66,6 +66,7 @@ inactive-css-not-table-cell-fix = ลองเพิ่ม <strong>display:table
 inactive-scroll-padding-when-not-scroll-container-fix = ลองเพิ่ม <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> หรือ <strong>overflow:hidden</strong> { learn-more }
 inactive-css-border-image-fix = บนอิลิเมนต์ตารางแม่ ให้เอาคุณสมบัติออก หรือเปลี่ยนค่าของ <strong>border-collapse</strong> เป็นค่าอื่น ๆ ที่ไม่ใช่ <strong>collapse</strong> { learn-more }
 inactive-css-ruby-element-fix = ลองเปลี่ยน <strong>font-size</strong> ของข้อความ ruby { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = โปรดลองลดจำนวนบรรทัด { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
