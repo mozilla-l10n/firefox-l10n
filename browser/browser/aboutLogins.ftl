@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Жаңа логинді жасау
+about-logins-page-title-name = Парольдер
+about-logins-login-filter2 =
+    .placeholder = Парольдерді іздеу
+    .key = F
+create-login-button =
+    .title = Парольді қосу
 fxaccounts-sign-in-text = Парольдеріңізді басқа құрылғыларыңызды алыңыз
 fxaccounts-sign-in-sync-button = Синхрондау үшін кіру
 fxaccounts-avatar-button =
@@ -48,6 +54,21 @@ login-list-filtered-count =
         [one] { $count } логин, барлығы { $total }
        *[other] { $count } логин, барлығы { $total }
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } пароль
+       *[other] { $count } пароль
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } пароль, барлығы { $total }
+       *[other] { $count } пароль, барлығы { $total }
+    }
 login-list-sort-label-text = Бойынша сұрыптау:
 login-list-name-option = Аты (A-Z)
 login-list-name-reverse-option = Аты (A-Z)
@@ -57,8 +78,10 @@ about-logins-login-list-alerts-option = Ескертулер
 login-list-last-changed-option = Соңғы рет өзгертілген
 login-list-last-used-option = Соңғы қолданылған
 login-list-intro-title = Логиндер табылмады
+login-list-intro-title2 = Сақталған парольдер жоқ
 login-list-intro-description = { -brand-product-name } ішінде парольді сақтағаннан кейін, ол осында көрсетіледі.
 about-logins-login-list-empty-search-title = Логиндер табылмады
+about-logins-login-list-empty-search-title2 = Парольдер табылмады
 about-logins-login-list-empty-search-description = Іздеуіңізге сәйкес нәтижелер жоқ.
 login-list-item-title-new-login = Жаңа логин
 login-list-item-subtitle-new-login = Логин мәліметтерін енгізіңіз
