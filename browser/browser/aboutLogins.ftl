@@ -372,6 +372,7 @@ about-logins-import-dialog-error-try-import-again = Import erneut versuchen…
 about-logins-import-dialog-error-cancel = Abbrechen
 about-logins-import-report-title = Import-Zusammenfassung
 about-logins-import-report-description = Zugangsdaten und Passwörter wurden in { -brand-short-name } importiert.
+about-logins-import-report-description2 = Passwörter wurden in { -brand-short-name } importiert.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -409,6 +410,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Doppelte Zugangsdaten</div> <div data-l10n-name="not-imported">(nicht importiert)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Doppelte Zugangsdaten</div> <div data-l10n-name="not-imported">(nicht importiert)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Neue Passwörter hinzugefügt</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Neue Passwörter hinzugefügt</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Bestehende Einträge aktualisiert</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Bestehende Einträge aktualisiert</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Doppelte Einträge</div> <div data-l10n-name="not-imported ">(nicht importiert)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Doppelte Einträge</div> <div data-l10n-name="not-imported ">(nicht importiert)</div>
     }
 about-logins-import-report-error =
     { $count ->
