@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Crear nuevo inicio de sesión
+about-logins-page-title-name = Contraseñas
+about-logins-login-filter2 =
+    .placeholder = Buscar contraseñas
+    .key = B
+create-login-button =
+    .title = Agregar contraseña
 fxaccounts-sign-in-text = Obtenga sus contraseñas en sus otros dispositivos
 fxaccounts-sign-in-sync-button = Iniciar sesión para sincronizar
 fxaccounts-avatar-button =
@@ -50,6 +56,21 @@ login-list-filtered-count =
         [many] { $count } de { $total } ingresos
        *[other] { $count } de { $total } ingresos
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } contraseña
+       *[other] { $count } contraseñas
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } de { $total } contraseña
+       *[other] { $count } de { $total } contraseñas
+    }
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nombre (A-Z)
 login-list-name-reverse-option = Nombre (Z-A)
@@ -59,11 +80,14 @@ about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Última modificación
 login-list-last-used-option = Usado por última vez
 login-list-intro-title = No se encontraron inicios de sesión
+login-list-intro-title2 = No se guardaron contraseñas
 login-list-intro-description = Cuando guarde una contraseña en { -brand-product-name }, va a aparecer aquí.
 about-logins-login-list-empty-search-title = No se encontraron inicios de sesión
+about-logins-login-list-empty-search-title2 = No se encontraron contraseñas
 about-logins-login-list-empty-search-description = No hay resultados que coincidan con su búsqueda.
 login-list-item-title-new-login = Nuevo inicio de sesión
 login-list-item-subtitle-new-login = Ingrese sus credenciales de inicio de sesión
+login-list-item-title-new-login2 = Agregar contraseña
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
 about-logins-list-item-breach-icon =
     .title = Sitio web filtrado
@@ -275,6 +299,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importar archivos de inicio de sesión
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importar contraseñas a { -brand-short-name }
 about-logins-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -311,6 +337,18 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Se encontraron inicios de sesión duplicados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
        *[other] <span>Se encontraron inicios de sesión duplicados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] <span>Se agregaron nuevas contraseñas:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+       *[other] <span>Se actualizaron entradas existentes:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+       *[other] <span>Se encontraron entradas duplicadas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no se importaron)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
@@ -332,6 +370,7 @@ about-logins-import-dialog-error-try-import-again = Intente importar de nuevo…
 about-logins-import-dialog-error-cancel = Cancelar
 about-logins-import-report-title = Importar resumen
 about-logins-import-report-description = Inicios de sesión y contraseñas importados a { -brand-short-name }.
+about-logins-import-report-description2 = Contraseñas importadas a { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -339,6 +378,9 @@ about-logins-import-report-row-index = Fila { $number }
 about-logins-import-report-row-description-no-change = Duplicado: Coincidencia exacta con inicio de sesión existente
 about-logins-import-report-row-description-modified = Inicio de sesión actual actualizado
 about-logins-import-report-row-description-added = Se agregó nuevo inicio de sesión
+about-logins-import-report-row-description-no-change2 = Duplicado: Coincidencia exacta con entrada existente
+about-logins-import-report-row-description-modified2 = Entrada existente actualizada
+about-logins-import-report-row-description-added2 = Nueva contraseña agregada
 about-logins-import-report-row-description-error = Error: campo faltante
 
 ##
@@ -365,6 +407,18 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión duplicados</div> <div data-l10n-name="not-imported">(no importado)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión duplicados</div> <div data-l10n-name="not-imported">(no importado)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nuevas contraseñas agregadas</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Entradas existentes actualizadas</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Entradas duplicadas</div> <div data-l10n-name="not-imported">(no se importaron)</div>
     }
 about-logins-import-report-error =
     { $count ->
