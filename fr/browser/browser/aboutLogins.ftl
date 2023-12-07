@@ -334,6 +334,11 @@ about-logins-import-dialog-items-modified2 =
         [one] <span>Entrée existante mise à jour :</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Entrées existantes mises à jour :</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Doublon trouvé :</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(non importé)</span>
+       *[other] <span>Doublons trouvés :</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(non importés)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [1] <span>Erreurs :</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(non importée)</span>
@@ -393,6 +398,16 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">identifiant en double</div> <div data-l10n-name="not-imported">(non importé)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">identifiants en double</div> <div data-l10n-name="not-imported">(non importés)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nouveau mot de passe ajouté</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nouveaux mots de passe ajoutés</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">doublon</div> <div data-l10n-name="not-imported">(non importé)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">doublons</div> <div data-l10n-name="not-imported">(non importés)</div>
     }
 about-logins-import-report-error =
     { $count ->
