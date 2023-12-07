@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Zadať nové prihlasovacie údaje
+about-logins-page-title-name = Heslá
+about-logins-login-filter2 =
+    .placeholder = Hľadať v heslách
+    .key = F
+create-login-button =
+    .title = Pridať heslo
 fxaccounts-sign-in-text = Synchronizujte svoje heslá aj do ostatných zariadení
 fxaccounts-sign-in-sync-button = Prihlásiť sa a synchronizovať
 fxaccounts-avatar-button =
@@ -52,6 +58,25 @@ login-list-filtered-count =
         [many] { $count } z { $total } záznamov
        *[other] { $count } z { $total } záznamov
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } heslo
+        [few] { $count } heslá
+        [many] { $count } hesiel
+       *[other] { $count } hesiel
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } z { $total } hesla
+        [few] { $count } z { $total } hesiel
+        [many] { $count } z { $total } hesiel
+       *[other] { $count } z { $total } hesiel
+    }
 login-list-sort-label-text = Zoradiť podľa:
 login-list-name-option = názvu (A-Z)
 login-list-name-reverse-option = názvu (Z-A)
@@ -61,11 +86,14 @@ about-logins-login-list-alerts-option = Upozornenia
 login-list-last-changed-option = poslednej úpravy
 login-list-last-used-option = posledného použitia
 login-list-intro-title = Nenašli sa žiadne prihlasovacie údaje
+login-list-intro-title2 = Nie sú uložené žiadne heslá
 login-list-intro-description = Tu sa zobrazia prihlasovacie údaje uložené v prehliadači { -brand-product-name }.
 about-logins-login-list-empty-search-title = Nenašli sa žiadne prihlasovacie údaje
+about-logins-login-list-empty-search-title2 = Nenašli sa žiadne heslá
 about-logins-login-list-empty-search-description = Vášmu vyhľadávaniu nezodpovedajú žiadne výsledky.
 login-list-item-title-new-login = Nové prihlasovacie údaje
 login-list-item-subtitle-new-login = Zadajte svoje prihlasovacie údaje
+login-list-item-title-new-login2 = Pridať heslo
 login-list-item-subtitle-missing-username = (žiadne používateľské meno)
 about-logins-list-item-breach-icon =
     .title = Únik dát
@@ -285,6 +313,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importovať súbor s prihlasovacími údajmi
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importovať heslá do { -brand-short-name(case: "gen") }
 about-logins-import-file-picker-import-button = Importovať
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -318,6 +348,27 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Duplicitné prihlasovacie údaje:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Pridané nové heslá:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Pridané nové heslá:</span> <span data-l10n-name="count">{ $count }</span>
+        [many] <span>Pridané nové heslá:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Pridané nové heslá:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Aktualizované heslá:</span><span data-l10n-name="count">{ $count }</span>
+        [few] <span>Aktualizované heslá:</span><span data-l10n-name="count">{ $count }</span>
+        [many] <span>Aktualizované heslá:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Aktualizované heslá:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Duplicitné heslá:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
+        [few] <span>Duplicitné heslá:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
+        [many] <span>Duplicitné heslá:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
+       *[other] <span>Duplicitné heslá:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(neboli importované)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Chyby:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neboli importované)</span>
@@ -338,6 +389,7 @@ about-logins-import-dialog-error-try-import-again = Skúste importovať znova…
 about-logins-import-dialog-error-cancel = Zrušiť
 about-logins-import-report-title = Súhrn
 about-logins-import-report-description = Prihlasovacie mená a heslá boli importované do { -brand-short-name(case: "gen") }.
+about-logins-import-report-description2 = Heslá boli importované do { -brand-short-name(case: "gen") }.
 #
 # Variables:
 #  $number (number) - The number of the row
