@@ -79,8 +79,10 @@ about-logins-login-list-alerts-option = Ειδοποιήσεις
 login-list-last-changed-option = Τελευταία αλλαγή
 login-list-last-used-option = Τελευταία χρήση
 login-list-intro-title = Δεν βρέθηκαν συνδέσεις
+login-list-intro-title2 = Δεν έχουν αποθηκευτεί κωδικοί πρόσβασης
 login-list-intro-description = Οι κωδικοί πρόσβασης που αποθηκεύετε στο { -brand-product-name } θα εμφανίζονται εδώ.
 about-logins-login-list-empty-search-title = Δεν βρέθηκαν συνδέσεις
+about-logins-login-list-empty-search-title2 = Δεν βρέθηκαν κωδικοί πρόσβασης
 about-logins-login-list-empty-search-description = Δεν βρέθηκαν αποτελέσματα για την αναζήτησή σας.
 login-list-item-title-new-login = Νέα σύνδεση
 login-list-item-subtitle-new-login = Εισαγάγετε τα διαπιστευτήριά σας
@@ -291,6 +293,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Εισαγωγή αρχείου συνδέσεων
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Εισαγωγή κωδικών πρόσβασης στο { -brand-short-name }
 about-logins-import-file-picker-import-button = Εισαγωγή
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
