@@ -79,9 +79,11 @@ login-list-intro-title = Keine Zugangsdaten gefunden
 login-list-intro-title2 = Keine Passwörter gespeichert
 login-list-intro-description = Wenn Sie ein Passwort in { -brand-product-name } speichern, wird es hier angezeigt.
 about-logins-login-list-empty-search-title = Keine Zugangsdaten gefunden
+about-logins-login-list-empty-search-title2 = Keine Passwörter gefunden
 about-logins-login-list-empty-search-description = Keine mit der Suche übereinstimmenden Zugangsdaten
 login-list-item-title-new-login = Neue Zugangsdaten
 login-list-item-subtitle-new-login = Zugangsdaten eingeben
+login-list-item-title-new-login2 = Passwort hinzufügen
 login-list-item-subtitle-missing-username = (kein Benutzername)
 about-logins-list-item-breach-icon =
     .title = Website mit Datenleck
@@ -357,6 +359,9 @@ about-logins-import-report-row-index = Zeile { $number }
 about-logins-import-report-row-description-no-change = Duplikat: Exakte Übereinstimmung mit bestehenden Zugangsdaten
 about-logins-import-report-row-description-modified = Bestehende Zugangsdaten aktualisiert
 about-logins-import-report-row-description-added = Neue Zugangsdaten hinzugefügt
+about-logins-import-report-row-description-no-change2 = Duplikat: Exakte Übereinstimmung mit bestehendem Eintrag
+about-logins-import-report-row-description-modified2 = Bestehenden Eintrag aktualisiert
+about-logins-import-report-row-description-added2 = Neues Passwort hinzugefügt
 about-logins-import-report-row-description-error = Fehler: Fehlendes Feld
 
 ##
