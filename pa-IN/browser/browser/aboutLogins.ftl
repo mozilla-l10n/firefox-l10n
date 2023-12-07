@@ -407,6 +407,16 @@ about-logins-import-report-added2 =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਨਵਾਂ ਪਾਸਵਰਡ ਜੋੜਿਆ ਗਿਆ</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਨਵੇਂ ਪਾਸਵਰਡ ਜੋੜੇ ਗਏ</div>
     }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਮੌਜੂਦਾ ਐੰਟਰੀ ਅੱਪਡੇਟ ਕੀਤੀ</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਮੌਜੂਦਾ ਐੰਟਰੀਆਂ ਅੱਪਡੇਟ ਕੀਤੀਆਂ</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਡੁਪਲੀਕੇਟ ਐੰਟਰੀ</div> <div data-l10n-name="not-imported">(ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤੀ)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਡੁਪਲੀਕੇਟ ਐੰਟਰੀਆਂ</div> <div data-l10n-name="not-imported">(ਇੰਪੋਰਟ ਨਹੀਂ ਕੀਤੀਆਂ)</div>
+    }
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ਗ਼ਲਤੀਆਂ</div> <div data-l10n-name="not-imported">(ਦਰਾਮਦ ਨਹੀਂ ਕੀਤੇ ਗਏ)</div>
