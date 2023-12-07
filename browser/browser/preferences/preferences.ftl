@@ -1268,6 +1268,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS via HTTPS
 preferences-doh-description = DNS-opslag foretaget med DNS via HTTPS sender din forespørgsel efter et domænenavn via en krypteret forbindelse. På denne måde håndteres DNS sikkert, og det bliver sværere for andre at se, hvilket websted du har tænkt dig at besøge.
+preferences-doh-description2 = Domain Name System (DNS) via HTTPS sender din forespørgsel efter et domænenavn over en krypteret forbindelse for at sikre DNS og gøre det sværere for andre at se, hvilket websted du skal til at besøge.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Status: { $status }
