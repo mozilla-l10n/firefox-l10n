@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Creu mewngofnod newydd
+about-logins-page-title-name = Cyfrineiriau
+about-logins-login-filter2 =
+    .placeholder = Chwilio Cyfrineiriau
+    .key = C
+create-login-button =
+    .title = Ychwanegu cyfrinair
 fxaccounts-sign-in-text = Defnyddiwch eich cyfrineiriau ar eich dyfeisiau eraill
 fxaccounts-sign-in-sync-button = Mewngofnodi i gydweddu
 fxaccounts-avatar-button =
@@ -57,6 +63,29 @@ login-list-filtered-count =
         [many] { $count } o { $total } mewngofnod
        *[other] { $count } o { $total } mewngofnod
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [zero] { $count } cyfrineiriau
+        [one] { $count } cyfrinair
+        [two] { $count } gyfrinair
+        [few] { $count } cyfrinair
+        [many] { $count } chyfrinair
+       *[other] { $count } cyfrinair
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [zero] { $count } o { $total } cyfrineiriau
+        [one] { $count } o { $total } cyfrinair
+        [two] { $count } o { $total } gyfrinair
+        [few] { $count } o { $total } cyfrinair
+        [many] { $count } o { $total } chyfrinair
+       *[other] { $count } o { $total } cyfrinair
+    }
 login-list-sort-label-text = Trefnu yn ôl
 login-list-name-option = Enw (A-Z)
 login-list-name-reverse-option = Enw (Z-A)
@@ -66,11 +95,14 @@ about-logins-login-list-alerts-option = Rhybuddion
 login-list-last-changed-option = Newidiwyd Diwethaf
 login-list-last-used-option = Defnyddiwyd Diwethaf
 login-list-intro-title = Heb ganfod mewngofnodion
+login-list-intro-title2 = Dim cyfrineiriau wedi'u cadw
 login-list-intro-description = Pan fyddwch yn cadw cyfrinair yn { -brand-product-name }, bydd yn ymddangos yma.
 about-logins-login-list-empty-search-title = Heb ganfod mewngofnodion
+about-logins-login-list-empty-search-title2 = Dim cyfrineiriau wedi'u canfod
 about-logins-login-list-empty-search-description = Nid oes unrhyw ganlyniadau sy'n cyfateb i'ch chwiliad.
 login-list-item-title-new-login = Mewngofnod Newydd
 login-list-item-subtitle-new-login = Rhowch eich manylion mewngofnodi
+login-list-item-title-new-login2 = Ychwanegu cyfrinair
 login-list-item-subtitle-missing-username = (dim enw defnyddwyr)
 about-logins-list-item-breach-icon =
     .title = Gwefan wedi dioddef tor-data
@@ -310,6 +342,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Allforio Ffeil Mewngofnodion
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Mewnforio Cyfrineiriau i { -brand-short-name }
 about-logins-import-file-picker-import-button = Mewnforio
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -358,6 +392,33 @@ about-logins-import-dialog-items-no-change =
         [many] <span>Mewngofnodion dyblyg wedi'u darganfod: </span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(heb ei fewnforio)</span>
        *[other] <span>Mewngofnodion dyblyg wedi'u darganfod: </span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(heb ei fewnforio)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [zero] <span>Ychwanegwyd cyfrineiriau newydd:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Ychwanegwyd cyfrineiriau newydd:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Ychwanegwyd cyfrineiriau newydd:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Ychwanegwyd cyfrineiriau newydd:</span> <span data-l10n-name="count">{ $count }</span>
+        [many] <span>Ychwanegwyd cyfrineiriau newydd:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ychwanegwyd cyfrineiriau newydd:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [zero] <span>Diweddarwyd y cofnodion cyfredol:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Diweddarwyd y cofnodion cyfredol:</span> <span data-l10n-name="count">{ $count }</span>
+        [two] <span>Diweddarwyd y cofnodion cyfredol:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Diweddarwyd y cofnodion cyfredol:</span> <span data-l10n-name="count">{ $count }</span>
+        [many] <span>Diweddarwyd y cofnodion cyfredol:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Diweddarwyd y cofnodion cyfredol:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [zero] <span>Canfuwyd cofnodion dyblyg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(heb eu mewnforio)</span> >
+        [one] <span>Canfuwyd cofnodion dyblyg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(heb ei fewnforio)</span> >
+        [two] <span>Canfuwyd cofnodion dyblyg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(heb eu mewnforio)</span> >
+        [few] <span>Canfuwyd cofnodion dyblyg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(heb eu mewnforio)</span> >
+        [many] <span>Canfuwyd cofnodion dyblyg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(heb eu mewnforio)</span> >
+       *[other] <span>Canfuwyd cofnodion dyblyg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(heb eu mewnforio)</span> >
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [zero] <span>Gwallau:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(heb ei fewnforio)</span>
@@ -383,6 +444,7 @@ about-logins-import-dialog-error-try-import-again = Ceisiwch Fewnforio Eto…
 about-logins-import-dialog-error-cancel = Diddymu
 about-logins-import-report-title = Crynodeb Mewnforio
 about-logins-import-report-description = Mewngofnodion a chyfrineiriau wedi'u mewnforio i { -brand-short-name }.
+about-logins-import-report-description2 = Cyfrineiriau wedi'u mewnforio i { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -390,6 +452,9 @@ about-logins-import-report-row-index = Rhes { $number }
 about-logins-import-report-row-description-no-change = Dyblyg: Cydweddiad union o'r mewngofnod presennol
 about-logins-import-report-row-description-modified = Wedi diweddaru'r mewngofnod presennol
 about-logins-import-report-row-description-added = Ychwanegwyd mewngofnod newydd
+about-logins-import-report-row-description-no-change2 = Dyblyg: Cydweddiad union â'r cofnod presennol
+about-logins-import-report-row-description-modified2 = Diweddarwyd y cofnod presennol
+about-logins-import-report-row-description-added2 = Ychwanegwyd cyfrinair newydd
 about-logins-import-report-row-description-error = Gwall: Maes ar goll
 
 ##
@@ -429,6 +494,15 @@ about-logins-import-report-no-change =
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
         [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Fewngofnod dyblyg</div> <div data-l10n-name="not-imported">(heb eu mewnforio)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ychwanegwyd cyfrineiriau newydd</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ychwanegwyd cyfrineiriau newydd</div>
+        [two] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ychwanegwyd cyfrineiriau newydd</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ychwanegwyd cyfrineiriau newydd</div>
+        [many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ychwanegwyd cyfrineiriau newydd</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ychwanegwyd cyfrineiriau newydd</div>
     }
 about-logins-import-report-error =
     { $count ->
