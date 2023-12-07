@@ -12,12 +12,15 @@ about-webauthn-page-title = Om WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Enheds-oplysninger
+about-webauthn-pin-section-title = Håndtering af pinkoder
 about-webauthn-pin-required-section-title = Pinkode påkrævet
 about-webauthn-confirm-deletion-section-title = Bekræft sletning
 
 ## Info field texts
 
 about-webauthn-text-connect-device = Tilslut en sikkerheds-token
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Vælg din ønskede sikkerheds-token ved at berøre enheden.
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Kan ikke håndtere indstillinger, fordi din sikkerheds-token ikke understøtter CTAP 2.
 about-webauthn-text-not-available = Ikke tilgængelig på denne platform.
@@ -76,8 +79,15 @@ about-webauthn-auth-option-bioenroll = Biometrisk registrering
 about-webauthn-auth-option-userverificationmgmtpreview = Prototype for biometrisk registrering (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Tilladelse for biometrisk registrering
 about-webauthn-auth-option-setminpinlength = Indstil mindste længde for pinkoder
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential uden bruger-godkendelse
+about-webauthn-auth-option-alwaysuv = Kræv altid bruger-godkendelse
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Ikke understøttet
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
