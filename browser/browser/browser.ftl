@@ -279,6 +279,9 @@ quickactions-cmd-plugins = плагіны
 # Opens the print dialog
 quickactions-print2 = Друкаваць старонку
 quickactions-cmd-print = друк
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Захаваць старонку як PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Адкрыць прыватнае акно
 quickactions-cmd-private = прыватнае агляданне
@@ -349,6 +352,7 @@ identity-connection-secure = Бяспечнае злучэнне
 identity-connection-failure = Збой злучэння
 identity-connection-internal = Гэта бяспечная { -brand-short-name } старонка.
 identity-connection-file = Гэта старонка захоўваецца на вашым камп'ютары.
+identity-connection-associated = Гэтая старонка загружаецца з іншай старонкі.
 identity-extension-page = Гэтая старонка загружана з пашырэння.
 identity-active-blocked = { -brand-short-name } заблакаваў небяспечныя часткі старонкі.
 identity-custom-root = Злучэнне пацверджана сертыфікатам эмітэнта, які не прызнаны Mozilla.
@@ -567,8 +571,6 @@ urlbar-result-action-search-w-engine = Пошук з дапамогай { $engin
 urlbar-result-action-sponsored = Спонсарскі
 urlbar-result-action-switch-tab = Пераключыцца ў картку
 urlbar-result-action-visit = Наведаць
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Наведаць з буфера абмену
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Наведаць з буфера абмену
 # Directs a user to press the Tab key to perform a search with the specified
