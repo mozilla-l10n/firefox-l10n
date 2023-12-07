@@ -8,6 +8,11 @@ webauthn-pin-invalid-long-prompt = Mã PIN không chính xác. Bạn còn { $ret
 webauthn-pin-invalid-short-prompt = PIN không đúng. Thử lại.
 webauthn-pin-required-prompt = Vui lòng nhập mã PIN cho thiết bị của bạn.
 webauthn-select-sign-result-unknown-account = Tài khoản không xác định
+webauthn-a-passkey-label = Sử dụng một passkey
+webauthn-another-passkey-label = Sử dụng passkey khác
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Passkey cho { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt = Xác minh người dùng không thành công. Bạn còn { $retriesLeft } lần thử. Hãy thử lại.
