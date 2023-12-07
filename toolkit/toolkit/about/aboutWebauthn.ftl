@@ -15,7 +15,7 @@ about-webauthn-info-section-title = Enhetsinformasjon
 about-webauthn-info-subsection-title = Autentiseringsinformasjon
 about-webauthn-options-subsection-title = Autentiseringsalternativer
 about-webauthn-pin-section-title = PIN-kodebehandling
-about-webauthn-credential-management-section-title = Behandle legitimasjon
+about-webauthn-credential-management-section-title = Behandle innloggingsdetaljer
 about-webauthn-pin-required-section-title = PIN-kode kreves
 about-webauthn-confirm-deletion-section-title = Bekreft sletting
 
@@ -83,6 +83,12 @@ about-webauthn-auth-option-bioenroll = Biometrisk registrering
 about-webauthn-auth-option-userverificationmgmtpreview = Prototype for biometrisk registrering (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Biometrisk registreringstillatelse
 about-webauthn-auth-option-authnrcfg = Autentiseringskonfigurasjon
+about-webauthn-auth-option-credmgmt = Behandling av innloggingsdetaljer
+about-webauthn-auth-option-credentialmgmtpreview = Prototype behandling av innlogginsdetaljer
+about-webauthn-auth-option-setminpinlength = Angi minste PIN-kodelengde
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential uten brukerbekreftelse
+about-webauthn-auth-option-alwaysuv = Krever alltid brukerbekreftelse
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
@@ -93,5 +99,24 @@ about-webauthn-auth-option-null = Ikke støttet
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Leverandørprototypekonfigurasjonskommandoer
+about-webauthn-auth-info-certifications = Sertifiseringer
+about-webauthn-auth-info-firmware-version = Fastvareversjon
 about-webauthn-auth-info-min-pin-length = Minste PIN-kodelengde
 about-webauthn-auth-info-force-pin-change = Tving PIN-kodeendring
+about-webauthn-auth-info-max-ser-large-blob-array = Maksimal størrelse på stor blobb-array
+about-webauthn-auth-info-algorithms = Algoritmer
+about-webauthn-auth-info-transports = Transporter
+about-webauthn-auth-info-max-credential-id-length = Maks lengde på innloggingsdetaljer-ID
+about-webauthn-auth-info-max-credential-count-in-list = Maks antall innloggingsdetaljer i listen
+about-webauthn-auth-info-pin-protocols = PIN-kodeprotokoller
+about-webauthn-auth-info-max-msg-size = Maks meldingsstørrelse
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Utvidelser
+about-webauthn-auth-info-versions = Versjoner
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Ikke støttet
