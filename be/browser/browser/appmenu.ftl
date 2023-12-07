@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Інструменты браўзера
 appmenu-developer-tools-extensions =
     .label = Пашырэнні для распрацоўшчыкаў
+appmenuitem-report-broken-site =
+    .label = Паведаміць пра пашкоджаны сайт
