@@ -85,6 +85,7 @@ about-logins-login-list-empty-search-title2 = Парольдер табылма�
 about-logins-login-list-empty-search-description = Іздеуіңізге сәйкес нәтижелер жоқ.
 login-list-item-title-new-login = Жаңа логин
 login-list-item-subtitle-new-login = Логин мәліметтерін енгізіңіз
+login-list-item-title-new-login2 = Парольді қосу
 login-list-item-subtitle-missing-username = (пайдаланушы аты жоқ)
 about-logins-list-item-breach-icon =
     .title = Шабуылданған сайт
