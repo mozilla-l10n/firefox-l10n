@@ -9,7 +9,13 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Opret nyt login
-fxaccounts-sign-in-text = Få dine adgangkoder på alle dine enheder
+about-logins-page-title-name = Adgangskoder
+about-logins-login-filter2 =
+    .placeholder = Søg efter adgangskoder
+    .key = F
+create-login-button =
+    .title = Tilføj adgangskode
+fxaccounts-sign-in-text = Få dine adgangskoder på alle dine enheder
 fxaccounts-sign-in-sync-button = Log ind for at synkronisere
 fxaccounts-avatar-button =
     .title = Håndter konto
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } af { $total } login
        *[other] { $count } af { $total } logins
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } adgangskode
+       *[other] { $count } adgangskoder
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } af { $total } adgangskode
+       *[other] { $count } af { $total } adgangskoder
+    }
 login-list-sort-label-text = Sorter efter:
 login-list-name-option = Navn (A-Z)
 login-list-name-reverse-option = Navn (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Advarsler
 login-list-last-changed-option = Senest ændret
 login-list-last-used-option = Senest anvendt
 login-list-intro-title = Ingen logins fundet
+login-list-intro-title2 = Ingen adgangskoder gemt
 login-list-intro-description = Når du gemmer et login i { -brand-product-name } vil det blive vist hér.
 about-logins-login-list-empty-search-title = Ingen logins fundet
+about-logins-login-list-empty-search-title2 = Ingen adgangskoder fundet
 about-logins-login-list-empty-search-description = Din søgning gav ingen resultater
 login-list-item-title-new-login = Nyt login
 login-list-item-subtitle-new-login = Indtast login-oplysninger
+login-list-item-title-new-login2 = Tilføj adgangskode
 login-list-item-subtitle-missing-username = (intet brugernavn)
 about-logins-list-item-breach-icon =
     .title = Websted med datalæk
