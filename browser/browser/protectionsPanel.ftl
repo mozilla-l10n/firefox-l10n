@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = ਬੰਦ ਕਰੋ
 protections-panel-cookie-banner-view-turn-on-label =
     .label = ਚਾਲੂ ਕਰੋ
+protections-panel-report-broken-site =
+    .label = ਖ਼ਰਾਬ ਸਾਈਟ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
+    .title = ਖ਼ਰਾਬ ਸਾਈਟ ਬਾਰੇ ਰਿਪੋਰਟ

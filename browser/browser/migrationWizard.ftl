@@ -76,6 +76,7 @@ migration-bookmarks-option-label = ਬੁੱਕਮਾਰਕ
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = ਪਸੰਦਾਂ
 migration-logins-and-passwords-option-label = ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ
+migration-passwords-option-label = ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ
 migration-history-option-label = ਬਰਾਊਜ਼ਰ ਅਤੀਤ
 migration-extensions-option-label = ਇਕਸਟੈਨਸ਼ਨ
 migration-form-autofill-option-label = ਫ਼ਾਰਮ ਆਪੇ-ਭਰਨ ਵਾਲਾ ਡਾਟਾ

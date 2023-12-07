@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = ਪਿੰਨ ਗਲਤ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 webauthn-pin-required-prompt = ਆਪਣੇ ਡਿਵਾਈਸ ਲਈ ਪਿੰਨ ਦਿਓ।
 webauthn-select-sign-result-unknown-account = ਅਣਪਛਾਤਾ ਖਾਤਾ
+webauthn-a-passkey-label = ਪਾਸ-ਕੀ ਵਰਤੋਂ
+webauthn-another-passkey-label = ਹੋਰ ਪਾਸ-ਕੀ ਵਰਤੋਂ
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = { $domain } ਲਈ ਪਾਸ-ਕੀ
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
