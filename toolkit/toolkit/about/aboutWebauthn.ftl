@@ -12,6 +12,8 @@ about-webauthn-page-title = Om WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Enheds-oplysninger
+about-webauthn-info-subsection-title = Info om autentifikator
+about-webauthn-options-subsection-title = Indstillinger for autentifikator
 about-webauthn-pin-section-title = Håndtering af pinkoder
 about-webauthn-pin-required-section-title = Pinkode påkrævet
 about-webauthn-confirm-deletion-section-title = Bekræft sletning
