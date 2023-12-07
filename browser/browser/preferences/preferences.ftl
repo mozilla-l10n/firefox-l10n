@@ -130,6 +130,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = เปิด { -brand-short-name } โดยอัตโนมัติตอนเปิดเครื่องคอมพิวเตอร์
     .accesskey = ป
+windows-launch-on-login-disabled = การกำหนดลักษณะนี้ถูกปิดใช้งานใน Windows เมื่อต้องการเปลี่ยน ให้ไปที่ <a data-l10n-name="startup-link">แอปเริ่มต้น</a> ในการตั้งค่าระบบ
 startup-restore-warn-on-quit =
     .label = เตือนคุณเมื่อออกจากเบราว์เซอร์
 disable-extension =
