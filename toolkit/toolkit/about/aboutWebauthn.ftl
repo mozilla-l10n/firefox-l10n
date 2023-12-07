@@ -19,9 +19,25 @@ about-webauthn-confirm-deletion-section-title = Löschen bestätigen
 
 ## Info field texts
 
+about-webauthn-text-not-available = Auf dieser Plattform nicht verfügbar.
 
 ## Results label
 
+about-webauthn-results-success = Erfolg!
+about-webauthn-results-general-error = Fehler!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Fehler: Falsche PIN. Versuchen Sie es erneut.
+        [one] Fehler: Falsche PIN. Versuchen Sie es erneut. Sie haben noch einen Versuch.
+       *[other] Fehler: Falsche PIN. Versuchen Sie es erneut. Sie haben noch { $retriesLeft } Versuche.
+    }
+about-webauthn-results-pin-blocked-error = Fehler: Es sind keine Versuche mehr möglich und Ihr Gerät wurde gesperrt, weil zu oft die falsche PIN eingegeben wurde. Das Gerät muss zurückgesetzt werden.
+about-webauthn-results-pin-too-short-error = Fehler: Die angegebene PIN ist zu kurz.
+about-webauthn-results-pin-too-long-error = Fehler: Die angegebene PIN ist zu lang.
+about-webauthn-results-pin-auth-blocked-error = Fehler: Es gab zu viele Fehlversuche hintereinander und die PIN-Authentifizierung wurde temporär gesperrt. Das Gerät muss aus- und wieder eingeschaltet werden (ausstecken und wieder einstecken).
+about-webauthn-results-cancelled-by-user-error = Fehler: Die Aktion wurde vom Benutzer abgebrochen.
 
 ## Labels
 
@@ -31,6 +47,7 @@ about-webauthn-current-pin-label = Aktuelle PIN:
 about-webauthn-pin-required-label = Bitte geben Sie Ihre PIN ein:
 about-webauthn-credential-list-subsection-title = Zugangsdaten:
 about-webauthn-credential-list-empty = Keine Zugangsdaten auf dem Gerät gefunden.
+about-webauthn-confirm-deletion-label = Sie löschen Folgendes:
 
 ## Buttons
 
