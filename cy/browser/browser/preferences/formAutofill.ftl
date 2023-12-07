@@ -114,6 +114,7 @@ autofill-address-email = E-bost
 autofill-cancel-button = Diddymu
 autofill-save-button = Cadw
 autofill-country-warning-message = Dim ond ar gyfer rhai gwledydd y mae Awtolanw Ffurflenni ar gael ar hyn o bryd.
+autofill-message-tooltip = Gweld neges am awtolenwi
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Ychwanegu Cerdyn Credyd Newydd
 # The dialog title for editing credit cards in browser preferences.

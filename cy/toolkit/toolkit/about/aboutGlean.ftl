@@ -85,6 +85,14 @@ about-glean-adhoc-explanation =
     a defnyddio'r API <code>testGetValue()</code> fel
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Am ragor o brofion <i>ad hoc</i>,
+    gallwch hefyd bennu gwerth cyfredol darn penodol o offeryniaeth
+    trwy agor consol devtools yma ar <code>about:glean</code>
+    a defnyddio'r API <code>testGetValue()</code> fel
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    ar gyfer metrig o'r enw <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Sylwch eich bod yn defnyddio'r API Glean JS trwy ddefnyddio'r consol devtools.
     Mae hyn yn golygu bod y categori metrig a'r enw metrig wedi'u fformatio

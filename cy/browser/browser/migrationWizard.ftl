@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Nodau Tudalen
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Ffefrynnau
 migration-logins-and-passwords-option-label = Mewngofnodion a chyfrineiriau a gadwyd
+migration-passwords-option-label = Cyfrineiriau wedi'u cadw
 migration-history-option-label = Hanes pori
 migration-extensions-option-label = Estyniadau
 migration-form-autofill-option-label = Data awtolenwi ffurflenni

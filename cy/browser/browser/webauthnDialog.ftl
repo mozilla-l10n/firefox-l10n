@@ -16,6 +16,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = PIN anghywir. Ceisiwch eto.
 webauthn-pin-required-prompt = Rhowch y PIN ar gyfer eich dyfais.
 webauthn-select-sign-result-unknown-account = Cyfrif anhysbys
+webauthn-a-passkey-label = Defnyddiwch gyfrinallwedd
+webauthn-another-passkey-label = Defnyddiwch gyfrinallwedd arall
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Cyfrinallwedd { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
