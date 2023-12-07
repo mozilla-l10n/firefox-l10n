@@ -86,6 +86,14 @@ about-glean-adhoc-explanation =
     và sử dụng API <code>testGetValue()</code> như
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Để biết thêm về kiểm thử <i>đặc biệt</i>,
+    bạn cũng có thể xác định giá trị hiện tại của một thiết bị cụ thể
+    bằng cách mở bảng điều khiển devtools tại đây trên <code>about:glean</code>
+    và sử dụng API <code>testGetValue()</code> như
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    cho một số liệu có tên <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Xin lưu ý rằng bạn đang sử dụng API Glean JS bằng cách sử dụng bảng điều khiển devtools.
     Điều này có nghĩa là danh mục chỉ số và tên chỉ số được định dạng trong
