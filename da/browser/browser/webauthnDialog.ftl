@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Forkert pinkode. Prøv igen.
 webauthn-pin-required-prompt = Indtast pinkoden for din enhed.
 webauthn-select-sign-result-unknown-account = Ukendt konto
+webauthn-a-passkey-label = Brug en adgangsnøgle
+webauthn-another-passkey-label = Brug en anden adgangsnøgle
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Adgangsnøgle for { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
