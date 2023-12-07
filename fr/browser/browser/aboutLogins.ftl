@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Créer un nouvel identifiant
+about-logins-page-title-name = Mots de passe
+about-logins-login-filter2 =
+    .placeholder = Rechercher des mots de passe
+    .key = R
+create-login-button =
+    .title = Ajouter un mot de passe
 fxaccounts-sign-in-text = Accédez à vos mots de passe sur vos autres appareils
 fxaccounts-sign-in-sync-button = Se connecter pour synchroniser
 fxaccounts-avatar-button =
@@ -49,6 +55,13 @@ login-list-filtered-count =
         [one] { $count } identifiant sur { $total }
        *[other] { $count } identifiants sur { $total }
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } mot de passe
+       *[other] { $count } mots de passe
+    }
 login-list-sort-label-text = Trier par :
 login-list-name-option = Nom (A-Z)
 login-list-name-reverse-option = Nom (Z-A)
@@ -58,11 +71,14 @@ about-logins-login-list-alerts-option = Alertes
 login-list-last-changed-option = Dernière modification
 login-list-last-used-option = Dernière utilisation
 login-list-intro-title = Aucun identifiant trouvé
+login-list-intro-title2 = Aucun mot de passe enregistré
 login-list-intro-description = Lorsque vous enregistrez un mot de passe dans { -brand-product-name }, il apparaît ici.
 about-logins-login-list-empty-search-title = Aucun identifiant trouvé
+about-logins-login-list-empty-search-title2 = Aucun mot de passe trouvé
 about-logins-login-list-empty-search-description = Aucun résultat ne correspond à votre recherche.
 login-list-item-title-new-login = Nouvel identifiant
 login-list-item-subtitle-new-login = Saisissez vos informations de connexion
+login-list-item-title-new-login2 = Ajouter un mot de passe
 login-list-item-subtitle-missing-username = (aucun nom d’utilisateur)
 about-logins-list-item-breach-icon =
     .title = Site victime d’une fuite de données
@@ -321,6 +337,7 @@ about-logins-import-dialog-error-try-import-again = Réessayer d’importer…
 about-logins-import-dialog-error-cancel = Annuler
 about-logins-import-report-title = Résumé de l’importation
 about-logins-import-report-description = Identifiants et mots de passe importés dans { -brand-short-name }.
+about-logins-import-report-description2 = Mots de passe importés dans { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -328,6 +345,9 @@ about-logins-import-report-row-index = Ligne { $number }
 about-logins-import-report-row-description-no-change = Doublon : correspondance exacte avec un identifiant existant
 about-logins-import-report-row-description-modified = Identifiant existant mis à jour
 about-logins-import-report-row-description-added = Nouvel identifiant ajouté
+about-logins-import-report-row-description-no-change2 = Doublon : correspondance exacte avec une entrée existante
+about-logins-import-report-row-description-modified2 = Entrée existante mise à jour
+about-logins-import-report-row-description-added2 = Nouveau mot de passe ajouté
 about-logins-import-report-row-description-error = Erreur : champ manquant
 
 ##
