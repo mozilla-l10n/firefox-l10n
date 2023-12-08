@@ -367,6 +367,8 @@ about-logins-import-report-added2 =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Sandi baru ditambahkan</div>
     }
+about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Entri yang sudah ada yang diperbarui</div>
+about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Entri duplikat</div> <div data-l10n-name="not-imported">(tidak diimpor)</div>
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Kesalahan</div> <div data-l10n-name="not-imported">(tidak diimpor)</div>

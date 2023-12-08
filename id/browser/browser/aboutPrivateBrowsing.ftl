@@ -22,12 +22,10 @@ about-private-browsing-not-private = Anda tidak sedang dalam jendela pribadi.
 about-private-browsing-info-description-private-window = Jendela pribadi: { -brand-short-name } menghapus riwayat pencarian dan penjelajahan saat Anda menutup semua jendela pribadi. Ini tidak membuat Anda anonim.
 about-private-browsing-info-description-simplified = { -brand-short-name } membersihkan riwayat pencarian dan penjelajahan Anda ketika Anda menutup semua jendela privat, namun tidak membuat Anda terlihat anonim.
 about-private-browsing-learn-more-link = Pelajari lebih lanjut
-
 about-private-browsing-hide-activity = Sembunyikan aktivitas dan lokasi Anda, di mana pun Anda menjelajah
 about-private-browsing-get-privacy = Dapatkan perlindungan privasi di mana pun saat Anda menjelajah
 about-private-browsing-hide-activity-1 = Sembunyikan aktivitas dan lokasi penjelajahan dengan { -mozilla-vpn-brand-name }. Satu klik menciptakan koneksi aman, bahkan di Wi-Fi publik.
 about-private-browsing-prominent-cta = Jaga privasi dengan { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Unduh { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Penjelajahan pribadi di mana saja
 about-private-browsing-focus-promo-text = Aplkasi seluler penjelajahan pribadi khusus dari kami untuk menghapus riwayat dan kuki Anda setiap saat.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Bawa penjelajahan pribadi ke ponse
 about-private-browsing-focus-promo-text-b = Gunakan { -focus-brand-name } untuk pencarian pribadi yang tidak ingin terlihat dari peramban utama Anda.
 about-private-browsing-focus-promo-header-c = Privasi tingkat lanjut di ponsel
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } menghapus riwayat Anda setiap saat sekaligus memblokir iklan dan pelacak.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Tutup
-
 about-private-browsing-promo-close-button =
     .title = Tutup
 
@@ -72,3 +68,13 @@ about-private-browsing-pin-promo-title = Tidak ada kuki tersimpan atau riwayat, 
 about-private-browsing-cookie-banners-promo-header = Lenyapkan spanduk kuki!
 about-private-browsing-cookie-banners-promo-button = Kurangi Spanduk Kuki
 about-private-browsing-cookie-banners-promo-message = Izinkan { -brand-short-name } menjawab pop-up kuki secara otomatis agar Anda dapat kembali ke penjelajahan bebas gangguan. { -brand-short-name } akan menolak semua permintaan jika memungkinkan.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } mengurus spanduk kuki untuk Anda
+about-private-browsing-cookie-banners-promo-body = Kini kami menolak banyak spanduk kuki secara otomatis agar Anda bisa lebih sedikit dilacak dan kembali ke penjelajahan bebas gangguan.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = Jangan tinggalkan jejak di perangkat ini
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } menghapus kuki, riwayat, dan data situs ketika Anda menutup semua jendela pribadi.
+about-private-browsing-felt-privacy-v1-info-link = Siapa yang mungkin bisa melihat aktivitas saya?
