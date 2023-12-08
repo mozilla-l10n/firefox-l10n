@@ -10,6 +10,11 @@ about-logins-login-filter =
 create-new-login-button =
     .title = 新建登录信息
 about-logins-page-title-name = 密码
+about-logins-login-filter2 =
+    .placeholder = 搜索密码
+    .key = F
+create-login-button =
+    .title = 添加密码
 fxaccounts-sign-in-text = 跨设备使用已保存的密码
 fxaccounts-sign-in-sync-button = 登录同步服务
 fxaccounts-avatar-button =
@@ -45,6 +50,13 @@ login-list-count =
 #   $count (number) - Number of filtered logins
 #   $total (number) - Total number of logins
 login-list-filtered-count = { $count } 次/共 { $total } 次登录
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 = { $count } 个密码
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 = { $count }/{ $total } 个密码
 login-list-sort-label-text = 顺序：
 login-list-name-option = 名称（A-Z）
 login-list-name-reverse-option = 名称（Z-A）
@@ -54,11 +66,14 @@ about-logins-login-list-alerts-option = 警报
 login-list-last-changed-option = 最后修改
 login-list-last-used-option = 上次使用
 login-list-intro-title = 未找到登录信息
+login-list-intro-title2 = 没有已保存的密码
 login-list-intro-description = 保存到 { -brand-product-name } 的密码会显示在这里。
 about-logins-login-list-empty-search-title = 未找到登录信息
+about-logins-login-list-empty-search-title2 = 找不到相关密码
 about-logins-login-list-empty-search-description = 没有符合您搜索条件的结果。
 login-list-item-title-new-login = 新建登录信息
 login-list-item-subtitle-new-login = 输入您的登录凭据
+login-list-item-title-new-login2 = 添加密码
 login-list-item-subtitle-missing-username = （无用户名）
 about-logins-list-item-breach-icon =
     .title = 发生数据外泄的网站
@@ -90,6 +105,10 @@ login-item-edit-button = 编辑
 about-logins-login-item-remove-button = 移除
 login-item-origin-label = 网址
 login-item-tooltip-message = 请确保其与您所登录的网站地址精确匹配。
+about-logins-origin-tooltip = 请确保此处填写的网址与需登录网站的网址一致。
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = 请确保此处填写的密码是您当前所用的密码。在此处更改密码后，{ $webTitle } 上的密码并不会随之更改。
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = 用户名
@@ -257,6 +276,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = 导入登录信息文件
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = 将密码导入 { -brand-short-name }
 about-logins-import-file-picker-import-button = 导入
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -290,6 +311,9 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>重复的登录信息：</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">（未导入）</span>
     }
+about-logins-import-dialog-items-added2 = <span>已添加新密码：</span><span data-l10n-name="count">{ $count } 个</span>
+about-logins-import-dialog-items-modified2 = <span>已更新现有项：</span><span data-l10n-name="count">{ $count } 个</span>
+about-logins-import-dialog-items-no-change2 = <span>发现重复的项：</span><span data-l10n-name="count">{ $count } 个</span><span data-l10n-name="meta">（未导入）</span>
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>错误：</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">（未导入）</span>
@@ -310,6 +334,7 @@ about-logins-import-dialog-error-try-import-again = 再次尝试导入…
 about-logins-import-dialog-error-cancel = 取消
 about-logins-import-report-title = 导入摘要
 about-logins-import-report-description = 导入到 { -brand-short-name } 的登录名和密码。
+about-logins-import-report-description2 = 密码已导入 { -brand-short-name }｡
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -317,6 +342,9 @@ about-logins-import-report-row-index = 第 { $number } 行
 about-logins-import-report-row-description-no-change = 重复：与现有登录信息完全一致
 about-logins-import-report-row-description-modified = 更新的现有登录信息
 about-logins-import-report-row-description-added = 新增的登录信息
+about-logins-import-report-row-description-no-change2 = 重复：与现有项完全一致
+about-logins-import-report-row-description-modified2 = 已更新现有项
+about-logins-import-report-row-description-added2 = 已添加新密码
 about-logins-import-report-row-description-error = 错误：缺少字段
 
 ##

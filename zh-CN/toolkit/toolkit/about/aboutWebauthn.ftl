@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = 身份验证器选项
 about-webauthn-pin-section-title = PIN 管理
 about-webauthn-credential-management-section-title = 管理凭据
 about-webauthn-pin-required-section-title = 需输入 PIN
+about-webauthn-confirm-deletion-section-title = 确认删除
 
 ## Info field texts
 
@@ -52,6 +53,7 @@ about-webauthn-current-pin-label = 当前 PIN：
 about-webauthn-pin-required-label = 请输入您的 PIN：
 about-webauthn-credential-list-subsection-title = 凭据：
 about-webauthn-credential-list-empty = 在设备上找不到凭据。
+about-webauthn-confirm-deletion-label = 您将要删除：
 
 ## Buttons
 

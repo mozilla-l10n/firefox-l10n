@@ -295,6 +295,16 @@ pdfjs-editor-stamp-button =
 pdfjs-editor-stamp-button-label = 添加或编辑图像
 pdfjs-editor-remove-button =
     .title = 移除
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-freetext-button =
+    .title = 移除文本
+pdfjs-editor-remove-stamp-button =
+    .title = 移除图像
+
+##
+
 # Editor Parameters
 pdfjs-editor-free-text-color-input = 颜色
 pdfjs-editor-free-text-size-input = 字号
