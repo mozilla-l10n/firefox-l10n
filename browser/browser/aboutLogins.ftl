@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Yeni hesap oluştur
+about-logins-page-title-name = Parolalar
+about-logins-login-filter2 =
+    .placeholder = Parolalarda ara
+    .key = F
+create-login-button =
+    .title = Parola ekle
 fxaccounts-sign-in-text = Parolalarınızı tüm cihazlarınıza aktarın
 fxaccounts-sign-in-sync-button = Eşitlemek için giriş yap
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $total } hesaptan { $count } hesap
        *[other] { $total } hesaptan { $count } hesap
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } parola
+       *[other] { $count } parola
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $total } paroladan { $count } parola
+       *[other] { $total } paroladan { $count } parola
+    }
 login-list-sort-label-text = Sıralama:
 login-list-name-option = Ad (A-Z)
 login-list-name-reverse-option = Ad (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Uyarılar
 login-list-last-changed-option = Son değişiklik
 login-list-last-used-option = Son kullanım
 login-list-intro-title = Hiç hesap bulunamadı
+login-list-intro-title2 = Kayıtlı parola yok
 login-list-intro-description = { -brand-product-name } tarayıcısında kaydettiğiniz parolalar burada görünecektir.
 about-logins-login-list-empty-search-title = Hiç hesap bulunamadı
+about-logins-login-list-empty-search-title2 = Parola bulunamadı
 about-logins-login-list-empty-search-description = Aramanızla eşleşen sonuç bulunamadı.
 login-list-item-title-new-login = Yeni hesap
 login-list-item-subtitle-new-login = Hesap bilgilerinizi girin
+login-list-item-title-new-login2 = Parola ekle
 login-list-item-subtitle-missing-username = (kullanıcı adı yok)
 about-logins-list-item-breach-icon =
     .title = Bu site ihlale uğramış
@@ -274,6 +298,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Hesaplar Dosyasını İçe Aktar
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Parolaları { -brand-short-name } tarayıcısına aktar
 about-logins-import-file-picker-import-button = İçe aktar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -309,6 +335,21 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Bulunan mükerrer hesap:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılmadı)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Eklenen parola sayısı:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Eklenen parola sayısı:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Güncellenen kayıt sayısı:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Güncellenen kayıt sayısı:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Bulunan mükerrer kayıt:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılmadı)</span>
+       *[other] <span>Bulunan mükerrer kayıt:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılmadı)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Hata:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılamadı)</span>
@@ -330,6 +371,7 @@ about-logins-import-dialog-error-try-import-again = Tekrar içe aktarmayı dene�
 about-logins-import-dialog-error-cancel = Vazgeç
 about-logins-import-report-title = İçe Aktarma Özeti
 about-logins-import-report-description = { -brand-short-name } tarayıcınıza aktarılan hesap ve parolalar.
+about-logins-import-report-description2 = Parolalar { -brand-short-name } tarayıcısına aktarıldı.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -337,6 +379,9 @@ about-logins-import-report-row-index = { $number }. satır
 about-logins-import-report-row-description-no-change = Mükerrer: Mevcut hesabın aynısı
 about-logins-import-report-row-description-modified = Mevcut hesap güncellendi
 about-logins-import-report-row-description-added = Yeni hesap eklendi
+about-logins-import-report-row-description-no-change2 = Mükerrer: Mevcut kaydın aynısı
+about-logins-import-report-row-description-modified2 = Mevcut kayıt güncellendi
+about-logins-import-report-row-description-added2 = Yeni parola eklendi
 about-logins-import-report-row-description-error = Hata: Eksik alan
 
 ##
@@ -364,6 +409,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mükerrer hesap</div> <div data-l10n-name="not-imported">(İçe aktarılmadı)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mükerrer hesap</div> <div data-l10n-name="not-imported">(İçe aktarılmadı)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">yeni parola eklendi</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">yeni parola eklendi</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mevcut kayıt güncellendi</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mevcut kayıt güncellendi</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mükerrer kayıt</div> <div data-l10n-name="not-imported">(içe aktarılmadı)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">mükerrer kayıt</div> <div data-l10n-name="not-imported">(içe aktarılmadı)</div>
     }
 about-logins-import-report-error =
     { $count ->

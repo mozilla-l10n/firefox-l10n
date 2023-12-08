@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Yer imleri
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Sık kullanılanlar
 migration-logins-and-passwords-option-label = Kayıtlı hesaplar ve parolalar
+migration-passwords-option-label = Kayıtlı parolalar
 migration-history-option-label = Gezinti geçmişi
 migration-extensions-option-label = Uzantılar
 migration-form-autofill-option-label = Otomatik form doldurma verileri
