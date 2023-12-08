@@ -102,6 +102,7 @@ about-webauthn-auth-option-null = Ikke støttet
 
 about-webauthn-auth-info-vendor-prototype-config-commands = Leverandørprototypekonfigurasjonskommandoer
 about-webauthn-auth-info-certifications = Sertifiseringer
+about-webauthn-auth-info-max-cred-blob-length = Maks lengde på innloggingsdetaljer-blobb
 about-webauthn-auth-info-firmware-version = Fastvareversjon
 about-webauthn-auth-info-min-pin-length = Minste PIN-kodelengde
 about-webauthn-auth-info-force-pin-change = Tving PIN-kodeendring
