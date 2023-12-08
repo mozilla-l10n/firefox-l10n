@@ -314,7 +314,7 @@ about-logins-import-dialog-items-no-change =
     }
 about-logins-import-dialog-items-added2 = <span>已添加新密码：</span><span data-l10n-name="count">{ $count } 个</span>
 about-logins-import-dialog-items-modified2 = <span>已更新现有项：</span><span data-l10n-name="count">{ $count } 个</span>
-about-logins-import-dialog-items-no-change2 = <span>发现重复的项：</span><span data-l10n-name="count">{ $count } 个</span><span data-l10n-name="meta">（未导入）</span>
+about-logins-import-dialog-items-no-change2 = <span>发现的重复项：</span><span data-l10n-name="count">{ $count } 个</span><span data-l10n-name="meta">（未导入）</span>
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>错误：</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">（未导入）</span>
@@ -371,6 +371,9 @@ about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">重复的登录信息</div> <div data-l10n-name="not-imported">（未导入）</div>
     }
+about-logins-import-report-added2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> 个新密码已添加</div>
+about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> 个现有项已更新</div>
+about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> 个重复项</div><div data-l10n-name="not-imported">（未导入）</div>
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">错误</div> <div data-l10n-name="not-imported">（未导入）</div>
