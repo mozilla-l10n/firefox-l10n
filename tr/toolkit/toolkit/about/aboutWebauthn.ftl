@@ -14,7 +14,10 @@ about-webauthn-page-title = WebAuthn Hakkında
 about-webauthn-info-section-title = Cihaz bilgileri
 about-webauthn-info-subsection-title = Kimlik doğrulayıcı bilgileri
 about-webauthn-options-subsection-title = Kimlik doğrulayıcı seçenekleri
+about-webauthn-pin-section-title = PIN yönetimi
+about-webauthn-credential-management-section-title = Kimlik bilgilerini yönetme
 about-webauthn-pin-required-section-title = PIN gerekli
+about-webauthn-confirm-deletion-section-title = Silme işlemini onayla
 
 ## Info field texts
 
@@ -60,11 +63,15 @@ about-webauthn-delete-button = Sil
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Kullanıcı doğrulaması
+about-webauthn-auth-option-up = Kullanıcı varlığı
 about-webauthn-auth-option-clientpin = İstemci PIN’i
 about-webauthn-auth-option-rk = Yerleşik anahtar
 about-webauthn-auth-option-plat = Platform cihazı
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Komut izinleri (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = İstemci PIN’i için MakeCredential / GetAssertion izni yok
 about-webauthn-auth-option-largeblobs = Büyük blob’lar
 about-webauthn-auth-option-bioenroll = Biyometrik kayıt
 # FIDO_2_1_PRE should not be translated.
@@ -88,6 +95,7 @@ about-webauthn-auth-option-null = Desteklenmiyor
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Sertifikalar
 about-webauthn-auth-info-max-cred-blob-length = Maksimum kimlik bilgisi blob uzunluğu
 about-webauthn-auth-info-firmware-version = Firmware sürümü
 about-webauthn-auth-info-min-pin-length = Minimum PIN uzunluğu

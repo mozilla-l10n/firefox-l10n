@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Yanlış PIN. Yeniden deneyin.
 webauthn-pin-required-prompt = Lütfen cihazınızın PIN’ini yazın.
 webauthn-select-sign-result-unknown-account = Bilinmeyen hesap
+webauthn-a-passkey-label = Geçiş anahtarı kullan
+webauthn-another-passkey-label = Başka bir geçiş anahtarı kullan
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = { $domain } geçiş anahtarı
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
