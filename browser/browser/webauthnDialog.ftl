@@ -8,6 +8,11 @@ webauthn-pin-invalid-long-prompt = PIN 码不正确。在永久失去对此设�
 webauthn-pin-invalid-short-prompt = PIN 不正确，请重试。
 webauthn-pin-required-prompt = 请输入您设备的 PIN。
 webauthn-select-sign-result-unknown-account = 未知账户
+webauthn-a-passkey-label = 使用通行密钥
+webauthn-another-passkey-label = 使用另一个通行密钥
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = { $domain } 的通行密钥
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt = 用户验证失败。您还有 { $retriesLeft } 次尝试机会，请重试。
