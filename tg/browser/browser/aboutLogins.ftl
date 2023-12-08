@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Эҷод кардани воридшавии нав
+about-logins-page-title-name = Ниҳонвожаҳо
+about-logins-login-filter2 =
+    .placeholder = Ҷустуҷӯи ниҳонвожаҳо
+    .key = F
+create-login-button =
+    .title = Илова кардани ниҳонвожа
 fxaccounts-sign-in-text = Ниҳонвожаҳои худро дар дастгоҳҳои дигари худ ба даст оред
 fxaccounts-sign-in-sync-button = Барои ҳамоҳангсозӣ ворид шавед
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } аз { $total } воридшавӣ
        *[other] { $count } аз { $total } воридшавӣ
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } ниҳонвожа
+       *[other] { $count } ниҳонвожа
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } аз { $total } ниҳонвожа
+       *[other] { $count } аз { $total } ниҳонвожа
+    }
 login-list-sort-label-text = Мураттаб аз рӯи:
 login-list-name-option = Ном (А-Я)
 login-list-name-reverse-option = Ном (Я-А)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Огоҳиҳо
 login-list-last-changed-option = Санаи тағйири охирин
 login-list-last-used-option = Санаи истифодаи охирин
 login-list-intro-title = Ягон воридшавӣ ёфт нашуд
+login-list-intro-title2 = Ягон ниҳонвожа нигоҳ дошта нашуд
 login-list-intro-description = Вақте ки шумо ниҳонвожаеро дар { -brand-product-name } нигоҳ медоред, он дар ин ҷо нишон дода мешавад.
 about-logins-login-list-empty-search-title = Ягон воридшавӣ ёфт нашуд
+about-logins-login-list-empty-search-title2 = Ягон ниҳонвожа ёфт нашуд
 about-logins-login-list-empty-search-description = Ягон натиҷа мувофиқи ҷустуҷӯи шумо ёфт нашуд.
 login-list-item-title-new-login = Воридшавии нав
 login-list-item-subtitle-new-login = Маълумоти воридшавии худро ворид намоед
+login-list-item-title-new-login2 = Илова кардани ниҳонвожа
 login-list-item-subtitle-missing-username = (номи корбар нест)
 about-logins-list-item-breach-icon =
     .title = Сомонаи ҳамлашуда

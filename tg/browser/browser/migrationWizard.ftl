@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Хатбаракҳо
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Баргузидаҳо
 migration-logins-and-passwords-option-label = Воридшавиҳо ва ниҳонвожаҳои нигоҳдошташуда
+migration-passwords-option-label = Ниҳонвожаҳои нигоҳдошташуда
 migration-history-option-label = Таърихи тамошо
 migration-extensions-option-label = Васеъшавиҳо
 migration-form-autofill-option-label = Маълумоти пуркунии худкори шакл
