@@ -57,6 +57,8 @@ about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">请�
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation = 如需进行 <i>ad hoc 临时测试</i>，也可在 <code>about:glean</code> 页面打开开发者控制台，并使用 <code>Glean.metricCategory.metricName.testGetValue()</code> 等 <code>testGetValue()</code> API 确定测试仪器的当前值。
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 = 如需进行 <i>ad hoc 临时测试</i>，也可在 <code>about:glean</code> 页面打开开发者控制台，并使用 <code>Glean.metricCategory.metricName.testGetValue()</code> 等 <code>testGetValue()</code> API 来获取名称为 <code>metric.category.metric_name</code> 的指标，以确定测试仪器的当前值。
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     请注意您正在通过开发工具控制台使用 Glean JS API。
     这意味着指标类别和指标名称的格式为
