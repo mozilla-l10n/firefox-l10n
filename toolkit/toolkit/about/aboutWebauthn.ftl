@@ -49,6 +49,7 @@ about-webauthn-current-pin-label = Mevcut PIN:
 about-webauthn-pin-required-label = Lütfen PIN’inizi yazın:
 about-webauthn-credential-list-subsection-title = Kimlik bilgileri:
 about-webauthn-credential-list-empty = Cihazda kimlik bilgisi bulunamadı.
+about-webauthn-confirm-deletion-label = Şunu silmek üzeresiniz:
 
 ## Buttons
 
