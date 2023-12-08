@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Krijoni kredenciale të reja hyrjeje
+about-logins-page-title-name = Fjalëkalime
+about-logins-login-filter2 =
+    .placeholder = Kërko te Fjalëkalimet
+    .key = F
+create-login-button =
+    .title = Shtoni fjalëkalim
 fxaccounts-sign-in-text = Merrini fjalëkalimet tuaj në pajisjet tuaja të tjera
 fxaccounts-sign-in-sync-button = Për njëkohësime, bëni hyrjen
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } nga { $total } hyrje
        *[other] { $count } nga { $total } hyrje
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } fjalëkalim
+       *[other] { $count } fjalëkalime
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } nga { $total } fjalëkalim
+       *[other] { $count } nga { $total } fjalëkalime
+    }
 login-list-sort-label-text = Renditi sipas:
 login-list-name-option = Emrash (A-Z)
 login-list-name-reverse-option = Emrash (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Sinjalizime
 login-list-last-changed-option = Ndryshuar Së Fundi Më
 login-list-last-used-option = Përdorur Së Fundi Më
 login-list-intro-title = S’u gjetën kredenciale hyrjesh
+login-list-intro-title2 = S’janë ruajtur fjalëkalime
 login-list-intro-description = Kur ruani një fjalëkalim në { -brand-product-name }, do të shfaqet këtu.
 about-logins-login-list-empty-search-title = S’u gjetën kredenciale hyrjesh
+about-logins-login-list-empty-search-title2 = S’u gjetën fjalëkalime
 about-logins-login-list-empty-search-description = S’ka përfundime me përputhje me kërkimin tuaj.
 login-list-item-title-new-login = Kredenciale të Reja Hyrjeje
 login-list-item-subtitle-new-login = Jepni kredencialet tuaja të hyrjes
+login-list-item-title-new-login2 = Shtoni fjalëkalim
 login-list-item-subtitle-missing-username = (pa emër përdoruesi)
 about-logins-list-item-breach-icon =
     .title = Sajt i cenuar
@@ -269,6 +293,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importoni Kartelë Kredencialesh Hyrjesh
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importoni Fjalëkalime te { -brand-short-name }
 about-logins-import-file-picker-import-button = Importo
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -302,6 +328,10 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>U gjetën kredenciale të përsëdytur:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(jo të importuara)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] { "" }
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Gabime:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(jo të importuara)</span>
@@ -322,6 +352,7 @@ about-logins-import-dialog-error-try-import-again = Riprovoni Importim…
 about-logins-import-dialog-error-cancel = Anuloje
 about-logins-import-report-title = Përmbledhje Importimi
 about-logins-import-report-description = Kredenciale hyrjesh dhe fjalëkalime të importuar te { -brand-short-name }.
+about-logins-import-report-description2 = Fjalëkalimet u importuan te { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -329,6 +360,7 @@ about-logins-import-report-row-index = Rreshti { $number }
 about-logins-import-report-row-description-no-change = Përsëdytje: Përputhje ekzakte kredenciale ekzistuese hyrjeje
 about-logins-import-report-row-description-modified = U përditësuan kredenciale ekzistuese hyrjeje
 about-logins-import-report-row-description-added = U shtuan kredenciale të reja hyrjeje
+about-logins-import-report-row-description-no-change2 = Përsëdytje: Përputhje ekzakte e një zëri ekzistues
 about-logins-import-report-row-description-error = Gabim: Fushë që mungon
 
 ##
