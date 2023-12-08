@@ -413,8 +413,8 @@ about-logins-import-report-no-change =
     }
 about-logins-import-report-added2 =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nieuw wachtwoord toegevoegd</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nieuwe wachtwoorden toegevoegd</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nieuw wachtwoord toegevoegd</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nieuwe wachtwoorden toegevoegd</div>
     }
 about-logins-import-report-modified2 =
     { $count ->
@@ -423,8 +423,8 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dubbele vermelding</div> <div data-l10n-name="not-imported">(niet geïmporteerd)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dubbele vermeldingen</div> <div data-l10n-name="not-imported">(niet geïmporteerd)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dubbele vermelding</div> <div data-l10n-name="not-imported">(niet geïmporteerd)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dubbele vermeldingen</div> <div data-l10n-name="not-imported">(niet geïmporteerd)</div>
     }
 about-logins-import-report-error =
     { $count ->
