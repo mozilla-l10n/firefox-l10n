@@ -381,6 +381,8 @@ about-logins-import-report-row-description-no-change = Duplikaat: eksakte oerien
 about-logins-import-report-row-description-modified = Besteande oanmelding bywurke
 about-logins-import-report-row-description-added = Nije oanmelding tafoege
 about-logins-import-report-row-description-no-change2 = Duplikaat: eksakte oerienkomst mei besteande ynfier
+about-logins-import-report-row-description-modified2 = Besteande ynfier bywurke
+about-logins-import-report-row-description-added2 = Nij wachtwurd tafoege
 about-logins-import-report-row-description-error = Flater: fjild ûntbrekt
 
 ##
@@ -408,6 +410,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dûbele oanmelding</div> <div data-l10n-name="not-imported">(net ymportearre)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dûbele oanmeldingen</div> <div data-l10n-name="not-imported">(net ymportearre)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nij wachtwurd tafoege</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nije wachtwurden tafoege</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">besteand item bywurke</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">besteande items bywurke</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dûbele fermelding</div> <div data-l10n-name="not-imported">(net ymportearre)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">dûbele fermeldingen</div> <div data-l10n-name="not-imported">(net ymportearre)</div>
     }
 about-logins-import-report-error =
     { $count ->
