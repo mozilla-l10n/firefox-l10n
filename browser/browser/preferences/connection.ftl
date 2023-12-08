@@ -47,7 +47,7 @@ connection-proxy-socks4 =
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
-connection-proxy-noproxy = Tidak Perlu Proxy untuk
+connection-proxy-noproxy = Tanpa proksi untuk
     .accesskey = n
 connection-proxy-noproxy-desc = Contoh: .mozilla.org, .net.id, 192.168.1.0/24
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)

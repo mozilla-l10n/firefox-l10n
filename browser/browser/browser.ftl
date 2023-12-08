@@ -623,8 +623,9 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Buka Gambar dalam Gambar ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Tutup Gambar dalam Gambar ({ $shortcut })
-picture-in-picture-panel-header = Gambar-dalam-Gambar
-picture-in-picture-panel-headline = Situs web ini tidak merekomendasikan Gambar-dalam-Gambar
+picture-in-picture-panel-header = Gambar dalam Gambar
+picture-in-picture-panel-headline = Situs web ini tidak merekomendasikan Gambar dalam Gambar
+picture-in-picture-panel-body = Video mungkin tidak ditampilkan seperti yang dinginkan pengembang saat fitur Gambar dalam Gambar diaktifkan.
 picture-in-picture-enable-toggle =
     .label = Tetap aktifkan
 
@@ -899,6 +900,9 @@ unified-extensions-button-permissions-needed =
 unified-extensions-button-quarantined =
     .label = Ekstensi
     .tooltiptext = Ekstensi
+
+## Private browsing reset button
+
 
 ## Autorefresh blocker
 

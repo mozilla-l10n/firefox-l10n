@@ -6,4 +6,4 @@
 ### Speech Dispatches is the name of a speech synthesis tool and shouldn’t be
 ### localized (https://freebsoft.org/speechd).
 
-speech-dispatcher-open-fail = Anda tidak dapat menggunakan sintesis wicara karena Switch Dispatcher Tidak akan terbuka.
+speech-dispatcher-open-fail = Anda tidak dapat menggunakan sintesis wicara karena Switch Dispatcher tidak akan terbuka.
