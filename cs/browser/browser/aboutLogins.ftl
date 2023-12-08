@@ -103,6 +103,7 @@ about-logins-login-list-empty-search-title2 = Nebyla nalezena žádná hesla
 about-logins-login-list-empty-search-description = Vašemu vyhledávání neodpovídají žádné přihlašovací údaje.
 login-list-item-title-new-login = Nové přihlašovací údaje
 login-list-item-subtitle-new-login = Zadejte své přihlašovací údaje
+login-list-item-title-new-login2 = Přidat heslo
 login-list-item-subtitle-missing-username = (žádné uživatelské jméno)
 about-logins-list-item-breach-icon =
     .title = Na tomto serveru došlo k úniku dat
@@ -147,6 +148,10 @@ about-logins-login-item-remove-button = Odstranit
 login-item-origin-label = Adresa serveru
 login-item-tooltip-message = Zkontrolujte, že toto pole přesně odpovídá adrese serveru, kde se přihlašujete.
 about-logins-origin-tooltip = Zkontrolujte, že toto pole přesně odpovídá adrese serveru, kde se přihlašujete.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Ujistěte se, že pro tuto stránku ukládáte svoje aktuální heslo. Změna hesla zde nezmění heslo na stránce { $webTitle }.
+about-logins-add-password-tooltip = Ujistěte se, že si pro tuto stránku ukládáte aktuální heslo.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Uživatelské jméno
