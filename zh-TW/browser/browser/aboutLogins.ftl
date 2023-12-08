@@ -57,11 +57,11 @@ login-list-count2 = { $count } 筆密碼
 #   $count (number) - Number of filtered logins
 #   $total (number) - Total number of logins
 login-list-filtered-count2 = 找到 { $count } 筆，共 { $total } 筆密碼
-login-list-sort-label-text = 排序依照:
-login-list-name-option = 名稱（A-Z 排序）
-login-list-name-reverse-option = 名稱（Z-A 排序）
-login-list-username-option = 使用者名稱（A-Z 排序）
-login-list-username-reverse-option = 使用者名稱（Z-A 排序）
+login-list-sort-label-text = 排序方式：
+login-list-name-option = 名稱（A-Z）
+login-list-name-reverse-option = 名稱（Z-A）
+login-list-username-option = 使用者名稱（A-Z）
+login-list-username-reverse-option = 使用者名稱（Z-A）
 about-logins-login-list-alerts-option = 警報
 login-list-last-changed-option = 上次修改
 login-list-last-used-option = 上次使用
