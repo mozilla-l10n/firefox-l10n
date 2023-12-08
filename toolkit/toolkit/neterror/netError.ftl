@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = { -brand-short-name } tarayıcısının w
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name }, güvenilir DNS çözümleyicimiz aracılığıyla bu sitenin adresiyle ilgili isteğinizi koruyamıyor. Nedeni:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name }, güvenli DNS sağlayıcımız aracılığıyla bu sitenin adresiyle ilgili isteğinizi koruyamıyor. Nedeni:
 neterror-dns-not-found-trr-third-party-warning2 = Varsayılan DNS çözümleyicinizi kullanmaya devam edebilirsiniz ama bu durumda üçüncü taraflar hangi web sitelerini ziyaret ettiğinizi görebilir.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }, { $trrDomain } adresine bağlanamadı.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } ile bağlantı beklenenden uzun sürdü.
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Beklenmeyen sorun.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name }, güvenilir DNS çözümleyicimiz aracılığıyla bu sitenin adresiyle ilgili isteğinizi koruyamıyor. Nedeni:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name }, güvenli DNS sağlayıcımız aracılığıyla bu sitenin adresiyle ilgili isteğinizi koruyamıyor. Nedeni:
 neterror-dns-not-found-native-fallback-heuristic = Ağınızda HTTP üzerinden DNS devre dışı bırakıldı.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { $trrDomain } adresine bağlanamadı.
 
