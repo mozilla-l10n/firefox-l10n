@@ -109,6 +109,7 @@ about-logins-origin-tooltip = 请确保此处填写的网址与需登录网站�
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = 请确保此处填写的密码是您当前所用的密码。在此处更改密码后，{ $webTitle } 上的密码并不会随之更改。
+about-logins-add-password-tooltip = 请确保此处填写的密码是您当前所用的密码。
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = 用户名
