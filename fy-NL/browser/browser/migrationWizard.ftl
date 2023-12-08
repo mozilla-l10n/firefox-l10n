@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Blêdwizers
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoriten
 migration-logins-and-passwords-option-label = Bewarre oanmeldingen en wachtwurden
+migration-passwords-option-label = Bewarre wachtwurden
 migration-history-option-label = Navigaasjeskiednis
 migration-extensions-option-label = Utwreidingen
 migration-form-autofill-option-label = Gegevens foar automatysk ynfoljen fan formulieren

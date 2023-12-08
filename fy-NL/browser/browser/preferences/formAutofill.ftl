@@ -114,6 +114,7 @@ autofill-address-email = E-mailadres
 autofill-cancel-button = Annulearje
 autofill-save-button = Bewarje
 autofill-country-warning-message = Formulieren automatysk ynfolje is op dit stuit allinnich foar bepaalde lannen beskikber.
+autofill-message-tooltip = Berjocht oer automatysk ynfoljen besjen
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nije creditcard tafoegje
 # The dialog title for editing credit cards in browser preferences.
