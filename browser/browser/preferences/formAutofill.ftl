@@ -114,6 +114,7 @@ autofill-address-email = E-posta
 autofill-cancel-button = Vazgeç
 autofill-save-button = Kaydet
 autofill-country-warning-message = Otomatik form doldurma şimdilik yalnızca belli ülkelerde kullanılabilir.
+autofill-message-tooltip = Otomatik doldurma ile ilgili iletiyi görüntüle
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Yeni Kredi Kartı Ekle
 # The dialog title for editing credit cards in browser preferences.
