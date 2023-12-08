@@ -86,6 +86,14 @@ about-glean-adhoc-explanation =
     <code>testGetValue()</code> API пайдалану арқылы
     белгілі бір құрал бөлігінің ағымдағы мәнін анықтауға болады.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Қосымша <i>ad hoc</i> тестілеу үшін, сондай-ақ, осы жерде
+    <code>about:glean</code> ішінде devtools консолін ашу және
+    <code>metric.category.metric_name</code> деп аталатын метрика үшін
+    <code>Glean.metricCategory.metricName.testGetValue()</code> сияқты
+    <code>testGetValue()</code> API пайдалану арқылы
+    белгілі бір құрал бөлігінің ағымдағы мәнін анықтауға болады.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     devtools консолін пайдалану арқылы Glean JS API қолданып жатқаныңызды ескеріңіз.
     Бұл Rust және C++ API интерфейстерінен айырмашылығы метрика санаты мен метрика атауы

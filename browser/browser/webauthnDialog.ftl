@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Жарасыз PIN. Қайталап көріңіз.
 webauthn-pin-required-prompt = Құрылғыңыз үшін дұрыс PIN кодын енгізіңіз.
 webauthn-select-sign-result-unknown-account = Белгісіз тіркелгі
+webauthn-a-passkey-label = Қол жеткізу кілтін пайдалану
+webauthn-another-passkey-label = Басқа қол жеткізу кілтін пайдалану
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = { $domain } үшін қол жеткізу кілті
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
