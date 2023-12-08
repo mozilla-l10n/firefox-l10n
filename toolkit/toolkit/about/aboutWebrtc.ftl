@@ -108,6 +108,9 @@ about-webrtc-debug-mode-off-state-label = Avvia modalità di debug
 about-webrtc-debug-mode-on-state-label = Interrompi modalità di debug
 about-webrtc-enable-logging-label = Attiva preset di registrazione per WebRTC
 about-webrtc-stats-heading = Statistiche di sessione
+about-webrtc-peerconnections-section-heading = Statistiche RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Mostra statistiche RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Nascondi statistiche RTCPeerConnection
 about-webrtc-stats-clear = Cancella cronologia
 about-webrtc-log-heading = Registro di connessione
 about-webrtc-log-clear = Cancella registro
@@ -205,6 +208,15 @@ about-webrtc-configuration-element-not-provided = Non fornito
 
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Impostazioni WebRTC modificate dall’utente
+about-webrtc-user-modified-configuration-heading = Impostazioni WebRTC modificate dall’utente
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Mostra impostazioni WebRTC modificate dall’utente
+about-webrtc-user-modified-configuration-hide-msg = Nascondi impostazioni WebRTC modificate dall’utente
+
+##
 
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Larghezza di banda stimata
