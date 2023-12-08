@@ -339,4 +339,7 @@ onboarding-easy-setup-security-and-privacy-title = Vi älskar att hålla dig sä
 onboarding-easy-setup-security-and-privacy-subtitle = Vår icke-vinstdrivande webbläsare hjälper till att hindra företag från att i hemlighet följa dig på webben.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Håll dig krypterad när du byter enhet
+onboarding-mobile-download-security-and-privacy-subtitle = När du synkroniserar dina data krypterar { -brand-short-name } dina lösenord, bokmärken och mer. Du kan också hämta flikar från dina andra enheter.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } tar hand om dig
 onboarding-gratitude-security-and-privacy-subtitle = Tack för att du använder { -brand-short-name }, med stöd av Mozilla Foundation. Med ditt stöd arbetar vi för att göra internet säkrare och mer tillgängligt för alla.
