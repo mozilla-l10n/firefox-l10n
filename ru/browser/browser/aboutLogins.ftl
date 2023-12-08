@@ -177,7 +177,7 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = показать с
 about-logins-copy-password-os-auth-dialog-message-win = Чтобы скопировать свой пароль введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-copy-password-os-auth-dialog-message-macosx = скопировать сохранённый пароль
+about-logins-copy-password-os-auth-dialog-message-macosx = копировать сохранённый пароль
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Чтобы экспортировать свои логины, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen when attempting to export a password in about:logins
