@@ -36,9 +36,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = 缓冲区大小：
-
 perftools-custom-threads-label = 按名称添加自定义线程：
-
 perftools-devtools-interval-label = 间隔：
 perftools-devtools-threads-label = 线程：
 perftools-devtools-settings-label = 设置
@@ -56,8 +54,8 @@ perftools-request-to-get-profile-and-stop-profiler = 正在抓取性能分析
 ##
 
 perftools-button-start-recording = 开始记录
-perftools-button-capture-recording = 抓取中
-perftools-button-cancel-recording = 取消抓取
+perftools-button-capture-recording = 捕获记录
+perftools-button-cancel-recording = 取消记录
 perftools-button-save-settings = 保存设置并返回
 perftools-button-restart = 重新启动
 perftools-button-add-directory = 添加路径
@@ -106,7 +104,6 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = 忽略上面选择的项目，记录所有注册的线程
-
 perftools-tools-threads-input-label =
     .title = 下方列表是要在分析器中测量性能的线程名称（以逗号分隔）。名称须与要测量的线程的名称部分匹配，且对空格敏感。
 
@@ -114,7 +111,6 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>新变化</b>：{ -profiler-brand-name } 现已集成于开发者工具。<a>详细了解</a>这个功能强大的新工具。
-
 perftools-onboarding-close-button =
     .aria-label = 关闭导览消息
 
@@ -122,32 +118,22 @@ perftools-onboarding-close-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# The same labels and descriptions are also defined in appmenu.ftl.
-
-# Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Web 开发者
 perftools-presets-web-developer-description = 适合调试大部分 Web 应用程序，开销较低。
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = 适合用来分析 { -brand-shorter-name } 的性能。
-
 perftools-presets-graphics-label = 图形
 perftools-presets-graphics-description = 排查 { -brand-shorter-name } 图形（显卡、显示）Bug 时使用。
-
 perftools-presets-media-label = 媒体
 perftools-presets-media-description2 = 排查 { -brand-shorter-name } 音视频 Bug 时使用。
-
 perftools-presets-networking-label = 网络
 perftools-presets-networking-description = 排查 { -brand-shorter-name } 网络 Bug 时使用。
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = 功耗
 perftools-presets-power-description = 排查 { -brand-shorter-name } 功耗 Bug 时使用，开销较低。
-
 perftools-presets-custom-label = 自定义
 
 ##
