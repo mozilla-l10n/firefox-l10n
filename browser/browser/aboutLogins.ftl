@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Nij oanmelding meitsje
+about-logins-page-title-name = Wachtwurden
+about-logins-login-filter2 =
+    .placeholder = Wachtwurden sykje
+    .key = F
+create-login-button =
+    .title = Wachtwurd tafoegje
 fxaccounts-sign-in-text = Bring jo wachtwurden nei jo oare apparaten
 fxaccounts-sign-in-sync-button = Oanmelde om te syngronisearjen
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } fan { $total } oanmelding
        *[other] { $count } fan { $total } oanmeldingen
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $quantity } wachtwurd
+       *[other] { $quantity } wachtwurden
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } fan { $total } wachtwurd
+       *[other] { $count } fan { $total } wachtwurden
+    }
 login-list-sort-label-text = Sortearje op:
 login-list-name-option = Namme (A-Z)
 login-list-name-reverse-option = Namme (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Warskôgingen
 login-list-last-changed-option = Lêst wizige
 login-list-last-used-option = Lêst brûkt
 login-list-intro-title = Gjin oanmeldingen fûn
+login-list-intro-title2 = Gjin bewarre wachtwurden
 login-list-intro-description = Wannear jo in wachtwurd bewarje yn { -brand-product-name }, wurdt dit hjir werjûn.
 about-logins-login-list-empty-search-title = Gjin oanmeldingen fûn
+about-logins-login-list-empty-search-title2 = Gjin wachtwurden fûn
 about-logins-login-list-empty-search-description = Jo sykopdracht hat gjin resultaten oplevere.
 login-list-item-title-new-login = Nije oanmelding
 login-list-item-subtitle-new-login = Fier jo oanmeldgegevens yn
+login-list-item-title-new-login2 = Wachtwurd tafoegje
 login-list-item-subtitle-missing-username = (gjin brûkersnamme)
 about-logins-list-item-breach-icon =
     .title = Troffen website
@@ -274,6 +298,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Bestân mei oanmeldingen ymportearje
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Wachtwurden ymportearje yn { -brand-short-name }
 about-logins-import-file-picker-import-button = Ymportearje
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -310,6 +336,21 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Dûbele oanmelding fûn:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
        *[other] <span>Dûbele oanmeldingen fûn:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nij wachtwurd tafoege:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nije wachtwurden tafoege:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Besteand item bywurke:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Besteande items bywurke:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Dûbele fermelding fûn:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
+       *[other] <span>Dûbele fermeldingen fûn:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Flater:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(net ymportearre)</span>
@@ -331,6 +372,7 @@ about-logins-import-dialog-error-try-import-again = Probearje nochris te ymporte
 about-logins-import-dialog-error-cancel = Annulearje
 about-logins-import-report-title = Ymportgearfetting
 about-logins-import-report-description = Oanmeldingen en wachtwurden ymportearre yn { -brand-short-name }.
+about-logins-import-report-description2 = Wachtwurden ymportearre yn { -brand-short-name }
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -338,6 +380,7 @@ about-logins-import-report-row-index = Rige { $number }
 about-logins-import-report-row-description-no-change = Duplikaat: eksakte oerienkomst mei besteande oanmelding
 about-logins-import-report-row-description-modified = Besteande oanmelding bywurke
 about-logins-import-report-row-description-added = Nije oanmelding tafoege
+about-logins-import-report-row-description-no-change2 = Duplikaat: eksakte oerienkomst mei besteande ynfier
 about-logins-import-report-row-description-error = Flater: fjild ûntbrekt
 
 ##
