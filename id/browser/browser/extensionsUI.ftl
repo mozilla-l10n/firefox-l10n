@@ -20,6 +20,10 @@ addon-post-install-message = { $addonName } telah ditambahkan
 
 ## A modal confirmation dialog to allow an extension on quarantined domains.
 
+# Variables:
+#   $addonName (String): localized name of the extension.
+webext-quarantine-confirmation-title = Jalankan { $addonName } di situs terbatas?
+webext-quarantine-confirmation-line-1 = Untuk melindungi data Anda, ekstensi ini tidak diizinkan pada situs ini.
 webext-quarantine-confirmation-allow =
     .label = Izinkan
     .accesskey = I

@@ -279,6 +279,9 @@ quickactions-cmd-plugins = plugin
 # Opens the print dialog
 quickactions-print2 = Cetak halaman
 quickactions-cmd-print = cetak
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Simpan laman sebagai PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Buka jendela pribadi
 quickactions-cmd-private = penjelajahan pribadi
@@ -344,6 +347,7 @@ identity-connection-secure = Sambungan aman
 identity-connection-failure = Sambungan gagal
 identity-connection-internal = Ini adalah laman { -brand-short-name } aman.
 identity-connection-file = Laman ini tersimpan di komputer Anda.
+identity-connection-associated = Laman ini dimuat dari laman lainnya.
 identity-extension-page = Laman ini dimuat dari ekstensi.
 identity-active-blocked = { -brand-short-name } telah memblokir bagian dari laman ini yang tidak aman.
 identity-custom-root = Koneksi diverifikasi oleh penerbit sertifikat yang tidak dikenali oleh Mozilla.
@@ -353,6 +357,7 @@ identity-weak-encryption = Laman ini menggunakan enkripsi lemah.
 identity-insecure-login-forms = Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.
 identity-https-only-connection-upgraded = (ditingkatkan ke HTTPS)
 identity-https-only-label = Mode Hanya HTTPS
+identity-https-only-label2 = Tingkatkan sambungan situs ini secara otomatis ke sambungan aman
 identity-https-only-dropdown-on =
     .label = Aktif
 identity-https-only-dropdown-off =
@@ -361,6 +366,8 @@ identity-https-only-dropdown-off-temporarily =
     .label = Nonaktif sementara
 identity-https-only-info-turn-on2 = Nyalakan Mode HTTPS-Only untuk situs ini jika Anda ingin { -brand-short-name } meningkatkan sambungan bila memungkinkan.
 identity-https-only-info-turn-off2 = Jika laman terlihat bermasalah, Anda mungkin ingin menonaktifkan Mode HTTPS-Only lalu memuat ulang situsnya dengan HTTP yang tidak aman.
+identity-https-only-info-turn-on3 = Nyalakan peningkatan HTTPS untuk situs ini jika Anda ingin { -brand-short-name } meningkatkan sambungan bila memungkinkan.
+identity-https-only-info-turn-off3 = Jika laman terlihat bermasalah, Anda mungkin ingin menonaktifkan peningkatan HTTPS lalu memuat ulang situsnya menggunakan HTTP yang tidak aman.
 identity-https-only-info-no-upgrade = Tidak dapat meningkatkan koneksi dari HTTP.
 identity-permissions-storage-access-header = Kuki lintas situs
 identity-permissions-storage-access-hint = Pihak berikut dapat menggunakan kuki lintas situs dan data situs saat Anda berada di situs ini.
@@ -553,6 +560,8 @@ urlbar-result-action-search-w-engine = Cari lewat { $engine }
 urlbar-result-action-sponsored = Bersponsor
 urlbar-result-action-switch-tab = Pindah ke Tab
 urlbar-result-action-visit = Kunjungi
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Kunjungi dari papan klip
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -605,6 +614,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Tindakan Cepat
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Pencarian Terkini
 
 ## Reader View toolbar buttons
 
@@ -903,6 +917,21 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Akhiri Sesi Pribadi
+    .tooltiptext = Akhiri Sesi Pribadi
+reset-pbm-panel-heading = Akhiri sesi pribadi Anda?
+reset-pbm-panel-description = Tutup semua tab pribadi dan hapus riwayat, kuki, dan semua data situs lainnya.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Selalu tanyakan
+    .accesskey = t
+reset-pbm-panel-cancel-button =
+    .label = Batal
+    .accesskey = B
+reset-pbm-panel-confirm-button =
+    .label = Hapus  data sesi
+    .accesskey = d
+reset-pbm-panel-complete = Data sesi pribadi dihapus
 
 ## Autorefresh blocker
 
@@ -914,6 +943,10 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = Topeng aman dan mudah digunakan dari kami dapat melindungi identitas Anda dan mencegah spam dengan menyembunyikan alamat email Anda.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Semua surel yang dikirim ke topeng surel Anda akan diteruskan ke <strong>{ $useremail }</strong> (kecuali jika Anda memutuskan untuk memblokir mereka).
 
 ## Add-on Pop-up Notifications
 
