@@ -9,6 +9,7 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = 新建登录信息
+about-logins-page-title-name = 密码
 fxaccounts-sign-in-text = 跨设备使用已保存的密码
 fxaccounts-sign-in-sync-button = 登录同步服务
 fxaccounts-avatar-button =
