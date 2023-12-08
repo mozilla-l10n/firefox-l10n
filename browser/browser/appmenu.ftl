@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Mengunduh pembaruan { -brand-shorter-name }
-
 appmenuitem-banner-update-available =
     .label = Pembaruan tersedia — unduh sekarang
-
 appmenuitem-banner-update-manual =
     .label = Pembaruan tersedia — unduh sekarang
-
 appmenuitem-banner-update-unsupported =
     .label = Pembaruan tersedia — sistem tidak kompatibel
-
 appmenuitem-banner-update-restart =
     .label = Pembaruan tersedia — mulai ulang sekarang
-
 appmenuitem-new-tab =
     .label = Tab Baru
 appmenuitem-new-window =
@@ -58,7 +53,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Tutup Menu Aplikasi
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -79,34 +73,28 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Masuk ke Sinkronisasi…
 appmenu-remote-tabs-turn-on-sync =
     .label = Aktifkan Sinkronisasi…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Tampilkan Tab Lainnya
     .tooltiptext = Tampilkan lebih banyak dari perangkat ini
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Tak ada tab terbuka
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Aktifkan sinkronisasi tab untuk melihat daftar tab dari perangkat Anda lainnya.
-
 appmenu-remote-tabs-opensettings =
     .label = Pengaturan
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ingin melihat tab dari perangkat Anda yang lain di sini?
-
 appmenu-remote-tabs-connectdevice =
     .label = Sambungkan Perangkat Lainnya
 appmenu-remote-tabs-welcome = Lihat daftar tab dari perangkat Anda lainnya.
 appmenu-remote-tabs-unverified = Akun Anda perlu diverifikasi.
-
 appmenuitem-fxa-toolbar-sync-now2 = Sinkronkan Sekarang
 appmenuitem-fxa-sign-in = Masuk ke { -brand-product-name }
 appmenuitem-fxa-manage-account = Kelola Akun
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Akun
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -116,14 +104,12 @@ appmenu-fxa-sync-and-save-data2 = Sinkronkan dan Simpan Data
 appmenu-fxa-signed-in-label = Masuk
 appmenu-fxa-setup-sync =
     .label = Aktifkan Sinkronisasi…
-
 appmenuitem-save-page =
     .label = Simpan Laman dengan Nama…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Yang Baru
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -137,52 +123,37 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Rekam profil kinerja
-
 profiler-popup-button-recording =
     .label = Profiler
     .tooltiptext = Profiler melakukan perekaman profil
-
 profiler-popup-button-capturing =
     .label = Profiler
     .tooltiptext = Profiler sedang melakukan perekaman profil
-
 profiler-popup-header-text = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Tampilkan informasi lebih lanjut
-
 profiler-popup-description-title =
     .value = Rekam, analisis, bagikan
-
 profiler-popup-description = Berkolaborasi dalam masalah kinerja dengan mempublikasikan profil untuk dibagikan dengan tim Anda.
-
 profiler-popup-learn-more-button =
     .label = Pelajari lebih lanjut
-
 profiler-popup-settings =
     .value = Pengaturan
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Edit Pengaturan…
-
 profiler-popup-recording-screen = Merekam…
-
 profiler-popup-start-recording-button =
     .label = Mulai Rekam
-
 profiler-popup-discard-button =
     .label = Buang
-
 profiler-popup-capture-button =
     .label = Tangkap
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -194,39 +165,28 @@ profiler-popup-capture-shortcut =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Prasetel yang direkomendasikan untuk sebagian besar debugging aplikasi web, dengan overhead yang rendah.
 profiler-popup-presets-web-developer-label =
     .label = Pengembang Web
-
 profiler-popup-presets-firefox-description = Prasetel yang disarankan untuk pembuatan profil { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = Prasetel untuk menyelidiki bug grafis di { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Grafik
-
 profiler-popup-presets-media-description2 = Prasetel untuk menyelidiki bug audio dan video di { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
-
 profiler-popup-presets-networking-description = Prasetel untuk menyelidiki bug jaringan di { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Jaringan
-
 profiler-popup-presets-power-description = Prasetel untuk menyelidiki bug penggunaan daya di { -brand-shorter-name }, dengan overhead rendah.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Daya
-
 profiler-popup-presets-custom-label =
     .label = Khusus
 
@@ -292,7 +252,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Ubahsuai Bilah Alat…
-
 appmenu-developer-tools-subheader = Alat Peramban
 appmenu-developer-tools-extensions =
     .label = Ekstensi untuk Pengembang
+appmenuitem-report-broken-site =
+    .label = Laporkan situs yang rusak
