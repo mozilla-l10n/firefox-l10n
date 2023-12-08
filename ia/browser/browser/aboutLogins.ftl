@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Crear nove credentiales
+about-logins-page-title-name = Contrasignos
+about-logins-login-filter2 =
+    .placeholder = Cercar contrasignos
+    .key = C
+create-login-button =
+    .title = Adder contrasigno
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
 fxaccounts-sign-in-sync-button = Aperi session pro synchronisar
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } de { $total } credential
        *[other] { $count } de { $total } credentiales
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } contrasigno
+       *[other] { $count } contrasignos
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } de { $total } contrasigno
+       *[other] { $count } de { $total } contrasignos
+    }
 login-list-sort-label-text = Ordinar per:
 login-list-name-option = Nomine (A-Z)
 login-list-name-reverse-option = Nomine (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Ultime modification
 login-list-last-used-option = Ultime uso
 login-list-intro-title = Nulle credentiales trovate
+login-list-intro-title2 = Nulle contrasignos salvate
 login-list-intro-description = Le contrasignos salvate in { -brand-product-name } apparera hic.
 about-logins-login-list-empty-search-title = Nulle credentiales trovate
+about-logins-login-list-empty-search-title2 = Nulle contrasignos trovate
 about-logins-login-list-empty-search-description = Le recerca non ha producite resultatos.
 login-list-item-title-new-login = Nove credentiales
 login-list-item-subtitle-new-login = Insere le credentiales de accesso
+login-list-item-title-new-login2 = Adder contrasigno
 login-list-item-subtitle-missing-username = (nulle nomine de usator)
 about-logins-list-item-breach-icon =
     .title = Sito web violate
@@ -329,6 +353,9 @@ about-logins-import-report-row-index = Linea { $number }
 about-logins-import-report-row-description-no-change = Duplicato: correspondentia exacte con un credential existente
 about-logins-import-report-row-description-modified = Credential existente actualisate
 about-logins-import-report-row-description-added = Nove credential addite
+about-logins-import-report-row-description-no-change2 = Duplicato: correspondentia exacte con un entrata existente
+about-logins-import-report-row-description-modified2 = Entrata existente actualisate
+about-logins-import-report-row-description-added2 = Nove contrasigno addite
 about-logins-import-report-row-description-error = Error: campo mancante
 
 ##

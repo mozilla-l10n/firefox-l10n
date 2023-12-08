@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = PIN errate. Retenta.
 webauthn-pin-required-prompt = Insere le PIN pro tu apparato.
 webauthn-select-sign-result-unknown-account = Conto incognite
+webauthn-a-passkey-label = Usar un clave de accesso
+webauthn-another-passkey-label = Usar un altere clave de accesso
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Clave de accesso pro { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
