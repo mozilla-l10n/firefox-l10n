@@ -332,6 +332,21 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Dublet-logins fundet:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importeret)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> <span>ny adgangskode tilføjet</span>
+       *[other] <span data-l10n-name="count">{ $count }</span> <span>nye adgangskoder tilføjet</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> <span>eksisterende element blev opdateret</span>
+       *[other] <span data-l10n-name="count">{ $count }</span> <span>eksisterende elementer blev opdateret</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> <span>element findes allerede</span> <span data-l10n-name="meta">(ikke importeret)</span>
+       *[other] <span data-l10n-name="count">{ $count }</span> <span>elementer findes allerede</span> <span data-l10n-name="meta">(ikke importeret)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Fejl:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importeret)</span>
