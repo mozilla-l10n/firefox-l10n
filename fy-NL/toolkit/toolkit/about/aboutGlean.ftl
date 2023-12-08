@@ -86,6 +86,14 @@ about-glean-adhoc-explanation =
     en de <code>testGetValue()</code>-API te brûken lykas
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Foar mear <i>ad hoc</i>-testen,
+    kinne jo ek de aktuele wearde bepale fan in spesifyk stik ynstrumintaasje
+    troch hjir in devtools-console te iepenjen op <code>about:glean</code>
+    en de <code>testGetValue()</code>-API te brûken lykas
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    foar in metryk mei de naam <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Hâld der rekkening mei dat jo de Glean JS-API brûke yn de devtools-console.
     Dit betsjut dat de metryske kategory en de metryske namme opmakke binne yn
