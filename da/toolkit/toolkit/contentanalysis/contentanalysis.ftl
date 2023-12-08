@@ -3,7 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-alert-title = Indholdsanalyse
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-slow-agent-notification = Værktøjet til indholdsanalyse er længe om at svare for ressourcen "{ $content }"
 contentanalysis-slow-agent-dialog-title = Indholdsanalyse er i gang
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-slow-agent-dialog-body = Indholdsanalyse analyserer ressourcen "{ $content }"
 contentanalysis-operationtype-clipboard = udklipsholder
 contentanalysis-notification-title = Indholdsanalyse
 # Variables:
