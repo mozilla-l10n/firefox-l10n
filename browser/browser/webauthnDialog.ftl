@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Feil PIN-kode. Prøv igjen.
 webauthn-pin-required-prompt = Skriv inn PIN-kode for denne enheten.
 webauthn-select-sign-result-unknown-account = Ukjent konto
+webauthn-a-passkey-label = Bruk en passnøkkel
+webauthn-another-passkey-label = Bruk en annen passnøkkel
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Passnøkkel for { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
