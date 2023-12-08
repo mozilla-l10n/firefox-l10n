@@ -298,6 +298,8 @@ pdfjs-editor-remove-button =
 
 ## Remove button for the various kind of editor.
 
+pdfjs-editor-remove-ink-button =
+    .title = 移除绘图
 pdfjs-editor-remove-freetext-button =
     .title = 移除文本
 pdfjs-editor-remove-stamp-button =
