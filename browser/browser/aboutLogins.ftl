@@ -290,6 +290,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importer un fichier d’identifiants
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importer des mots de passe dans { -brand-short-name }
 about-logins-import-file-picker-import-button = Importer
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
