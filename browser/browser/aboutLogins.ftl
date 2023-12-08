@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Nové přihlašovací údaje
+about-logins-page-title-name = Hesla
+about-logins-login-filter2 =
+    .placeholder = Hledat v heslech
+    .key = F
+create-login-button =
+    .title = Přidat heslo
 fxaccounts-sign-in-text = Synchronizujte svá hesla i do ostatních zařízení
 fxaccounts-sign-in-sync-button = Přihlásit se k synchronizaci
 fxaccounts-avatar-button =
@@ -56,6 +62,25 @@ login-list-filtered-count =
         [many] { $count } z { $total } záznamů
        *[other] { $count } z { $total } záznamů
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } heslo
+        [few] { $count } hesla
+        [many] { $count } hesel
+       *[other] { $count } hesel
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } z { $total } hesla
+        [few] { $count } ze { $total } hesel
+        [many] { $count } z { $total } hesel
+       *[other] { $count } z { $total } hesel
+    }
 login-list-sort-label-text = Seřadit podle:
 login-list-name-option = názvu (A-Z)
 login-list-name-reverse-option = názvu (Z-A)
@@ -65,6 +90,7 @@ about-logins-login-list-alerts-option = upozornění
 login-list-last-changed-option = naposledy změněno
 login-list-last-used-option = naposledy použito
 login-list-intro-title = Nenalezeny žádné přihlašovací údaje
+login-list-intro-title2 = Žádná hesla nejsou uložena
 login-list-intro-description =
     Tady se zobrazí přihlašovací údaje uložené { -brand-product-name.gender ->
         [masculine] ve { -brand-product-name(case: "loc") }
@@ -73,6 +99,7 @@ login-list-intro-description =
        *[other] v aplikaci { -brand-product-name }
     }.
 about-logins-login-list-empty-search-title = Nenalezeny žádné přihlašovací údaje
+about-logins-login-list-empty-search-title2 = Nebyla nalezena žádná hesla
 about-logins-login-list-empty-search-description = Vašemu vyhledávání neodpovídají žádné přihlašovací údaje.
 login-list-item-title-new-login = Nové přihlašovací údaje
 login-list-item-subtitle-new-login = Zadejte své přihlašovací údaje
