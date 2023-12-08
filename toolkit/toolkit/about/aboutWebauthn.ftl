@@ -69,6 +69,7 @@ about-webauthn-delete-button = Slet
 about-webauthn-auth-option-uv = Bruger-godkendelse
 about-webauthn-auth-option-up = Tilstedeværelse af bruger
 about-webauthn-auth-option-clientpin = Klient-pinkode
+about-webauthn-auth-option-rk = Resident key
 about-webauthn-auth-option-plat = Platformsenhed
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Kommando-tilladelser (pinUvAuthToken)
@@ -80,6 +81,8 @@ about-webauthn-auth-option-bioenroll = Biometrisk registrering
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Prototype for biometrisk registrering (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Tilladelse for biometrisk registrering
+about-webauthn-auth-option-authnrcfg = Konfiguration for autentifikator
+about-webauthn-auth-option-uvacfg = Konfigurations-tilladelse for autentifikator
 about-webauthn-auth-option-setminpinlength = Indstil mindste længde for pinkoder
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential uden bruger-godkendelse
@@ -94,6 +97,7 @@ about-webauthn-auth-option-null = Ikke understøttet
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Konfigurations-kommandoer for leverandør-prototype
 about-webauthn-auth-info-certifications = Certificeringer
 about-webauthn-auth-info-uv-modality = Modalitet for bruger-godkendelse
 about-webauthn-auth-info-preferred-platform-uv-attempts = Foretrukken platform for forsøg på bruger-godkendelse
