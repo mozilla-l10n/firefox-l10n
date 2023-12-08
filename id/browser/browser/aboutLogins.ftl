@@ -269,6 +269,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Impor Berkas Info Masuk
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Impor Sandi ke { -brand-short-name }
 about-logins-import-file-picker-import-button = Impor
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -302,6 +304,9 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Info masuk ganda ditemukan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(tidak diimpor)</span>
     }
+about-logins-import-dialog-items-added2 = <span>Sandi baru ditambahkan:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-modified2 = <span>Entri yang ada diperbarui:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-no-change2 = <span>Entri ganda ditemukan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(tidak diimpor)</span>
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Kesalahan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(tidak diimpor)</span>
@@ -322,6 +327,7 @@ about-logins-import-dialog-error-try-import-again = Coba Impor Lagi…
 about-logins-import-dialog-error-cancel = Batalkan
 about-logins-import-report-title = Ringkasan Impor
 about-logins-import-report-description = Info masuk dan kata sandi yang diimpor ke { -brand-short-name }.
+about-logins-import-report-description2 = Sandi diimpor ke { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -329,6 +335,9 @@ about-logins-import-report-row-index = Baris { $number }
 about-logins-import-report-row-description-no-change = Duplikat: Persis sama dengan info masuk yang ada
 about-logins-import-report-row-description-modified = Info masuk yang sudah ada yang diperbarui
 about-logins-import-report-row-description-added = Info masuk baru yang ditambahkan
+about-logins-import-report-row-description-no-change2 = Duplikat: Persis sama dengan entri yang ada
+about-logins-import-report-row-description-modified2 = Entri yang sudah ada telah diperbarui
+about-logins-import-report-row-description-added2 = Sandi baru ditambahkan
 about-logins-import-report-row-description-error = Kesalahan: Bidang tidak ada
 
 ##
@@ -353,6 +362,10 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Info masuk duplikat</div> <div data-l10n-name="not-imported">(tidak diimpor)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Sandi baru ditambahkan</div>
     }
 about-logins-import-report-error =
     { $count ->
