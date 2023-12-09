@@ -12,6 +12,8 @@ about-webauthn-page-title = Über WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Geräteinformationen
+about-webauthn-info-subsection-title = Authenticator-Informationen
+about-webauthn-options-subsection-title = Authenticator-Einstellungen
 about-webauthn-pin-section-title = PIN-Verwaltung
 about-webauthn-credential-management-section-title = Zugangsdaten verwalten
 about-webauthn-pin-required-section-title = PIN erforderlich
@@ -19,6 +21,11 @@ about-webauthn-confirm-deletion-section-title = Löschen bestätigen
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Bitte verbinden Sie einen Security-Token.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Bitte wählen Sie den gewünschten Security-Token durch Berühren des Geräts.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Die Optionen können nicht verwaltet werden, weil Ihr Security-Token CTAP2 nicht unterstützt.
 about-webauthn-text-not-available = Auf dieser Plattform nicht verfügbar.
 
 ## Results label
@@ -65,6 +72,7 @@ about-webauthn-delete-button = Löschen
 about-webauthn-auth-option-uv = Benutzerverifizierung
 about-webauthn-auth-option-up = Benutzeranwesenheit
 about-webauthn-auth-option-clientpin = Client-PIN
+about-webauthn-auth-option-rk = Resident-Key
 about-webauthn-auth-option-plat = Plattform-Gerät
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Kommandoberechtigungen (pinUvAuthToken)
@@ -76,6 +84,8 @@ about-webauthn-auth-option-bioenroll = Biometrische Erfassung
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Prototyp der biometrischen Erfassung (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Berechtigung zur biometrischen Erfassung
+about-webauthn-auth-option-authnrcfg = Authenticator-Konfiguration
+about-webauthn-auth-option-uvacfg = Berechtigungen für Authenticator-Konfiguration
 about-webauthn-auth-option-credmgmt = Zugangsdatenverwaltung
 about-webauthn-auth-option-credentialmgmtpreview = Prototyp-Zugangsdatenverwaltung
 about-webauthn-auth-option-setminpinlength = Mindestlänge der PIN festlegen
@@ -92,7 +102,12 @@ about-webauthn-auth-option-null = Nicht unterstützt
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Hersteller-Prototyp-Konfigurationsbefehle
+about-webauthn-auth-info-remaining-discoverable-credentials = Verbleibende auffindbare Zugangsdaten
 about-webauthn-auth-info-certifications = Zertifizierungen
+about-webauthn-auth-info-uv-modality = Modalität der Benutzerverifizierung
+about-webauthn-auth-info-preferred-platform-uv-attempts = Bevorzugte Benutzer-Verifizierungsversuche der Plattform
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Max. IDs der Relying-Party zum Einstellen der minimalen PIN-Länge
 about-webauthn-auth-info-max-cred-blob-length = Maximale Länge eines Zugangsdaten-Blobs
 about-webauthn-auth-info-firmware-version = Firmware-Version
 about-webauthn-auth-info-min-pin-length = Mindestlänge der PIN
