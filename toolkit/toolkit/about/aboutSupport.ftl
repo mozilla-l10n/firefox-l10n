@@ -190,6 +190,20 @@ media-codec-support-unsupported = 不支援
 media-codec-support-error = 無法取得 Codec 支援資訊，請在播放媒體檔案後再試一次。
 media-codec-support-lack-of-extension = 安裝擴充套件
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = 內容解密模組資訊
+media-key-system-name = 金鑰系統名稱
+media-video-robustness = 視訊穩健性
+media-audio-robustness = 音訊穩健性
+media-cdm-capabilities = 系統能力
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = 不加密片頭（Clear Lead）
+
 ##
 
 intl-title = 國際化與在地化

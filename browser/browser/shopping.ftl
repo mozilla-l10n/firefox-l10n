@@ -190,6 +190,10 @@ shopping-onboarding-headline = 試用我們可信任的商品評論
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = 購物前先看看商品在 <b>{ $currentSite }</b> 的評論有多可靠。「商品評論檢查器」是 { -brand-product-name } 最新推出的實驗性功能並內建於瀏覽器中。也可以用來確認 <b>{ $secondSite }</b>、<b>{ $thirdSite }</b> 當中的商品評論。
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = 購買商品之前，先看看 <b>{ $currentSite }</b> 上的商品評論可不可靠。{ -brand-product-name } 的實驗性功能「商品評論檢查器」直接內建於瀏覽器中。
 shopping-onboarding-body = 透過 { -fakespot-brand-full-name } 的威力，我們協助您避免帶有偏見與虛偽的評論。我們會隨您在線上購物，持續改進 AI 模型。<a data-l10n-name="learn_more">了解更多資訊</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = 選擇「{ shopping-onboarding-opt-in-button }」，代表您同意 { -fakespot-brand-full-name } 的<a data-l10n-name="privacy_policy">隱私權保護政策</a>與<a data-l10n-name="terms_of_use">使用條款</a>。
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = 選擇「{ shopping-onboarding-opt-in-button }」，代表您同意 { -fakespot-brand-name } 的<a data-l10n-name="privacy_policy">隱私權保護政策</a>與<a data-l10n-name="terms_of_use">使用條款</a>。
