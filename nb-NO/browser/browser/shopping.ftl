@@ -190,6 +190,10 @@ shopping-onboarding-headline = Prøv vår pålitelige guide til produktvurdering
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Se hvor pålitelige produktvurderinger er på <b>{ $currentSite }</b> før du handler. Vurderingskontrollør, en eksperimentell funksjon fra { -brand-product-name }, er innebygd rett i nettleseren. Det fungerer på <b>{ $secondSite }</b> og <b>{ $thirdSite }</b> også.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Se hvor pålitelige produktvurderinger er på <b>{ $currentSite }</b> før du handler. Vurderingskontrollør, en eksperimentell funksjon fra { -brand-product-name }, er innebygd rett i nettleseren.
 shopping-onboarding-body = Ved å bruke kraften til { -fakespot-brand-full-name } hjelper vi deg å unngå ensidige og ikke-troverdige vurderinger. AI-modellen vår blir alltid bedre for å beskytte deg mens du handler. <a data-l10n-name="learn_more">Les mer</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Ved å velge «{ shopping-onboarding-opt-in-button }» godtar du { -fakespot-brand-full-name } sine <a data-l10n-name="privacy_policy">personvernbestemmelser</a> og <a data-l10n-name="terms_of_use">brukervilkår.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Ved å velge «{ shopping-onboarding-opt-in-button }» godtar du { -fakespot-brand-name } sine <a data-l10n-name="privacy_policy">personvernbestemmelser</a> og <a data-l10n-name="terms_of_use">brukervilkår.</a>
