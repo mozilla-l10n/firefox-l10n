@@ -322,6 +322,12 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Import souboru s přihlašovacími údaji
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Import hesel do { -brand-short-name(case: "gen") }
+       *[no-cases] Import hesel do aplikace { -brand-short-name }
+    }
 about-logins-import-file-picker-import-button = Importovat
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -346,6 +352,27 @@ about-logins-import-dialog-title = Import byl dokončen
 about-logins-import-dialog-items-added = <span>Nově přidané přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span>
 about-logins-import-dialog-items-modified = <span>Aktualizované přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span>
 about-logins-import-dialog-items-no-change = <span>Duplicitní přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportováno)</span>
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nové heslo přidáno:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Nová hesla přidána:</span> <span data-l10n-name="count">{ $count }</span>
+        [many] <span>Nových hesel přidáno:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nových hesel přidáno:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Aktualizované heslo:</span><span data-l10n-name="count">{ $count }</span>
+        [few] <span>Aktualizované hesla:</span><span data-l10n-name="count">{ $count }</span>
+        [many] <span>Aktualizované hesla:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Aktualizované hesla:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Duplicitní hesla:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nenahrána)</span>
+        [few] <span>Duplicitní hesla:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nenahrány)</span>
+        [many] <span>Duplicitní hesla:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nenahráno)</span>
+       *[other] <span>Duplicitní hesla:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nenahráno)</span>
+    }
 about-logins-import-dialog-items-error = <span>Chyby:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportováno)</span>
 about-logins-import-dialog-done = Hotovo
 about-logins-import-dialog-error-title = Chyba při importu
@@ -367,6 +394,11 @@ about-logins-import-report-description =
         [with-cases] Přihlašovací údaje importované do { -brand-short-name(case: "gen") }.
        *[no-cases] Přihlašovací údaje importované do aplikace { -brand-short-name }.
     }
+about-logins-import-report-description2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Hesla byla importována do { -brand-short-name(case: "gen") }
+       *[no-cases] Hesla byla importována do aplikace { -brand-short-name }
+    }
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -374,6 +406,9 @@ about-logins-import-report-row-index = Řádek č. { $number }
 about-logins-import-report-row-description-no-change = Duplicitní: Přesná shoda se stávajícími údaji
 about-logins-import-report-row-description-modified = Přihlašovací údaje aktualizovány
 about-logins-import-report-row-description-added = Přidány nové přihlašovací údaje
+about-logins-import-report-row-description-no-change2 = Duplikát: přesná shoda s již existující položkou
+about-logins-import-report-row-description-modified2 = Existující položka byla aktualizována
+about-logins-import-report-row-description-added2 = Přidáno nové heslo
 about-logins-import-report-row-description-error = Chyba: chybějící pole
 
 ##
