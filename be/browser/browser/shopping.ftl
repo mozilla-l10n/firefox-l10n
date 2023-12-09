@@ -192,6 +192,10 @@ shopping-onboarding-headline = Паспрабуйце наш надзейны д
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Паглядзіце, наколькі надзейныя водгукі на прадукт на <b>{ $currentSite }</b>, перш чым купляць. Праверка водгукаў, эксперыментальная функцыя ад { -brand-product-name }, убудавана прама ў браўзер. Яна працуе на <b>{ $secondSite }</b> і <b>{ $thirdSite }</b> таксама.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Паглядзіце, наколькі надзейныя водгукі аб прадукце на <b>{ $currentSite }</b>, перш чым купляць. Праверка водгукаў, эксперыментальная функцыя ад { -brand-product-name }, убудавана наўпрост у браўзер.
 shopping-onboarding-body = Выкарыстоўваючы магчымасці { -fakespot-brand-full-name }, мы дапамагаем вам пазбегнуць неаб’ектыўных і несапраўдных водгукаў. Наша мадэль штучнага інтэлекту пастаянна ўдасканальваецца, каб абараніць вас у часе куплі. <a data-l10n-name="learn_more">Падрабязней</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Выбіраючы “{ shopping-onboarding-opt-in-button }“, вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> і <a data-l10n-name="terms_of_use">ўмовамі выкарыстання</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Выбіраючы “{ shopping-onboarding-opt-in-button }“, вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> і <a data-l10n-name="terms_of_use">ўмовамі выкарыстання</a> { -fakespot-brand-name }.
