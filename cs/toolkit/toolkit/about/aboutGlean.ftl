@@ -94,6 +94,14 @@ about-glean-adhoc-explanation =
     a pomocí rozhraní API <code>testGetValue()</code> jako např.
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Pro další <i>ad hoc</i> testování,
+    můžete také zjistit aktuální hodnotu určitého prvku instrumentace.
+    otevřením konzoly devtools zde na <code>about:glean</code>.
+    a pomocí rozhraní API <code>testGetValue()</code> jako např.
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    pro metriku s názvem <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Upozorňujeme, že používáte rozhraní API Glean JS pomocí konzole devtools.
     To znamená, že kategorie metriky a název metriky jsou formátovány ve formátu
