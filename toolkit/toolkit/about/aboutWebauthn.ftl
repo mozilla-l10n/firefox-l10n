@@ -113,4 +113,19 @@ about-webauthn-auth-info-max-cred-blob-length = Максімальная даў�
 about-webauthn-auth-info-firmware-version = Версія прашыўкі
 about-webauthn-auth-info-min-pin-length = Мінімальная даўжыня PIN-кода
 about-webauthn-auth-info-force-pin-change = Прымусова змяніць PIN-код
+about-webauthn-auth-info-max-ser-large-blob-array = Максімальны памер вялікага масіву аб'ектаў blob
 about-webauthn-auth-info-algorithms = Алгарытмы
+about-webauthn-auth-info-transports = Транспарты
+about-webauthn-auth-info-max-credential-id-length = Максімальная даўжыня ідэнтыфікатара ўліковых дадзеных
+about-webauthn-auth-info-max-credential-count-in-list = Максімальная колькасць уліковых дадзеных у спісе
+about-webauthn-auth-info-pin-protocols = PIN-пратаколы
+about-webauthn-auth-info-max-msg-size = Максімальны памер паведамлення
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Пашырэнні
+about-webauthn-auth-info-versions = Версіі
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Не падтрымліваецца
