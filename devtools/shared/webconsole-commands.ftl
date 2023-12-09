@@ -23,3 +23,13 @@ webconsole-commands-usage-unblock =
     停止拦截网络请求
     
       仅接受一个参数（需与之前传递给 :block 的字符串相同）
+# Usage string for :trace command
+webconsole-commands-usage-trace =
+    :trace
+    
+    切换 JavaScript 跟踪器
+    
+      它支持下列参数
+        --logMethod：设置为 ‘console’ 记录到 Web 控制台（默认值）或设置为 ‘stdout’ 记录到标准输出。
+        --prefix：可选字符串，会被添加到所有跟踪日志的前面。
+        --help 或 --usage：显示此消息。
