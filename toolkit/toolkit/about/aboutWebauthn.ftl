@@ -22,6 +22,8 @@ about-webauthn-confirm-deletion-section-title = Potvrzení smazání
 ## Info field texts
 
 about-webauthn-text-connect-device = Připojte prosím bezpečnostní token.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Nelze spravovat možnosti, protože váš bezpečnostní token nepodporuje CTAP2.
 about-webauthn-text-not-available = Na této platformě není k dispozici.
 
 ## Results label
