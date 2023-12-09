@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Сіздің хабарламаңыз жіберілді
     .title = Сіздің хабарламаңыз жіберілді
 report-broken-site-panel-report-sent-text = { -brand-product-name } интернетті ашық, қолжетімді және барлығына жақсырақ етуге көмектескеніңіз үшін рахмет.
+report-broken-site-panel-invalid-url-label = Дұрыс URL енгізіңіз
+report-broken-site-panel-missing-reason-label = Себебін таңдаңыз

@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Жөндеу режимін іске �
 about-webrtc-debug-mode-on-state-label = Жөндеу режимін тоқтату
 about-webrtc-enable-logging-label = WebRTC журналының алдын ала баптауын іске қосу
 about-webrtc-stats-heading = Сессия статистикасы
+about-webrtc-peerconnections-section-heading = RTCPeerConnection статистикасы
+about-webrtc-peerconnections-section-show-msg = RTCPeerConnection статистикасын көрсету
+about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection статистикасын жасыру
 about-webrtc-stats-clear = Тарихты тазарту
 about-webrtc-log-heading = Байланыстар логы
 about-webrtc-log-clear = Логты тазарту
@@ -194,6 +197,16 @@ about-webrtc-configuration-element-provided = Ұсынылған
 about-webrtc-configuration-element-not-provided = Ұсынылмаған
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = WebRTC пайдаланушы баптаулары
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Пайдаланушы өзгерткен WebRTC конфигурациясы
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Пайдаланушы өзгерткен конфигурацияны көрсету
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Болжалды өткізу қабілеттілігі
 # The ID of the MediaStreamTrack
@@ -229,8 +242,6 @@ about-webrtc-aec-logging-off-state-msg = жиналған лог файлдар�
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Бет сақталған жері: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Трейс логын келесі жерден табу мүмкін емес: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Жөндеу режимі іске қосулы, трей лог жері: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -307,9 +318,6 @@ about-webrtc-hide-msg-sdp = SDP жасыру
 about-webrtc-media-context-show-msg = Медиа контекстін көрсету
 about-webrtc-media-context-hide-msg = Медиа контекстін жасыру
 about-webrtc-media-context-heading = Медиа контексті
-
-##
-
 
 ##
 

@@ -312,6 +312,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Мәтінді өшіру
 pdfjs-editor-remove-stamp-button =
     .title = Суретті өшіру
+pdfjs-editor-remove-highlight-button =
+    .title = Түспен ерекшелеуді өшіру
 
 ##
 
@@ -361,3 +363,22 @@ pdfjs-editor-resizer-label-bottom-right = Төменгі оң жақ бұрыш 
 pdfjs-editor-resizer-label-bottom-middle = Төменгі ортасы — өлшемін өзгерту
 pdfjs-editor-resizer-label-bottom-left = Төменгі сол жақ бұрыш — өлшемін өзгерту
 pdfjs-editor-resizer-label-middle-left = Ортаңғы сол жақ — өлшемін өзгерту
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Ерекшелеу түсі
+pdfjs-editor-colorpicker-button =
+    .title = Түсті өзгерту
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Түс таңдаулары
+pdfjs-editor-colorpicker-yellow =
+    .title = Сары
+pdfjs-editor-colorpicker-green =
+    .title = Жасыл
+pdfjs-editor-colorpicker-blue =
+    .title = Көк
+pdfjs-editor-colorpicker-pink =
+    .title = Қызғылт
+pdfjs-editor-colorpicker-red =
+    .title = Қызыл
