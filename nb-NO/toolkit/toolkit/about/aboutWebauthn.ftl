@@ -101,7 +101,9 @@ about-webauthn-auth-option-null = Ikke støttet
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-vendor-prototype-config-commands = Leverandørprototypekonfigurasjonskommandoer
+about-webauthn-auth-info-remaining-discoverable-credentials = Gjenværende oppdagbar innloggingsinformasjon
 about-webauthn-auth-info-certifications = Sertifiseringer
+about-webauthn-auth-info-uv-modality = Modalitet for brukerbekreftelse
 about-webauthn-auth-info-max-cred-blob-length = Maks lengde på innloggingsdetaljer-blobb
 about-webauthn-auth-info-firmware-version = Fastvareversjon
 about-webauthn-auth-info-min-pin-length = Minste PIN-kodelengde

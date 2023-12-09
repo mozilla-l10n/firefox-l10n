@@ -192,6 +192,9 @@ media-codec-support-lack-of-extension = Installer utvidelse
 ## https://w3c.github.io/encrypted-media/
 
 media-content-decryption-modules-title = Informasjon om innholdsdekrypteringsmoduler
+media-key-system-name = Nøkkelsystemnavn
+media-video-robustness = Videorobusthet
+media-audio-robustness = Lydrobusthet
 
 ##
 
