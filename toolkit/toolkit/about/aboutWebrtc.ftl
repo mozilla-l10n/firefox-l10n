@@ -204,6 +204,7 @@ about-webrtc-user-modified-configuration-heading = Пайдаланушы өзг
 ## user modified configuration disclosure
 
 about-webrtc-user-modified-configuration-show-msg = Пайдаланушы өзгерткен конфигурацияны көрсету
+about-webrtc-user-modified-configuration-hide-msg = Пайдаланушы өзгерткен конфигурацияны жасыру
 
 ##
 
