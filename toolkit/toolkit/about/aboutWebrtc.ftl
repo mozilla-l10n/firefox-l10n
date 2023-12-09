@@ -194,6 +194,15 @@ about-webrtc-configuration-element-provided = 提供
 about-webrtc-configuration-element-not-provided = 不提供
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = WebRTC 用户设置项
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = 显示用户修改过的配置
+about-webrtc-user-modified-configuration-hide-msg = 隐藏用户修改过的配置
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = 估计带宽
 # The ID of the MediaStreamTrack
@@ -229,8 +238,6 @@ about-webrtc-aec-logging-off-state-msg = 捕捉到的日志文件在这里: { $p
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = 页面已保存到: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = 跟踪日志可以在这里找到: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = 调试模式已激活，跟踪日志在: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -305,9 +312,6 @@ about-webrtc-hide-msg-sdp = 隐藏SDP
 about-webrtc-media-context-show-msg = 显示媒体内容
 about-webrtc-media-context-hide-msg = 隐藏媒体内容
 about-webrtc-media-context-heading = 媒体内容
-
-##
-
 
 ##
 
