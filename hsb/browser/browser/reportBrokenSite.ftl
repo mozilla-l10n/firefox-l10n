@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Waša rozprawa je so pósłała
     .title = Waša rozprawa je so pósłała
 report-broken-site-panel-report-sent-text = Wulki dźak, zo { -brand-product-name } pomhaće, zo budźe web bóle wotewrjeny, přistupny a lěpši.
+report-broken-site-panel-invalid-url-label = Prošu zapodajće płaćiwy URL
+report-broken-site-panel-missing-reason-label = Prošu wubjerće přičinu
