@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = PIN i pasaktë. Riprovoni.
 webauthn-pin-required-prompt = Ju lutemi, jepni PIN-in për pajisjen tuaj.
 webauthn-select-sign-result-unknown-account = Llogari e panjohur
+webauthn-a-passkey-label = Përdor një kyçkalim
+webauthn-another-passkey-label = Përdorni një tjetër kyçkalim
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Kyçkalim për { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

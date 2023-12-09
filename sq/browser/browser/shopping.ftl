@@ -190,6 +190,10 @@ shopping-onboarding-headline = Provoni udhërrëfyesin tonë të besuar për shq
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Shihni sa të besueshme janë shqyrtimet e produkteve në <b>{ $currentSite }</b>, para se të blini. Kontrollori i Shqyrtimeve, një veçori eksperimentale nga { -brand-product-name }, është ngritur drejt e në shfletues — dhe funksionon edhe në <b>{ $secondSite }</b> dhe <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Shihni se sa të besueshme janë shqyrtime produktesh në <b>{ $currentSite }</b>, para se të blini. Kontrollori i Shqyrtimeve, një veçori eksperimentale prej { -brand-product-name }, është ndërtuar drejt e në shfletues.
 shopping-onboarding-body = Duke përdorur fuqinë e { -fakespot-brand-full-name }, ju ndihmojmë të shmangni shqyrtime të njëanshme dhe jo të mirëfillta. Modeli ynë IA përmirësohet përherë, për t’ju mbrojtur teksa blini. <a data-l10n-name="learn_more">Mësoni më tepër</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Duke përzgjedhur “{ shopping-onboarding-opt-in-button }“ pajtoheni me <a data-l10n-name="privacy_policy">rregulla privatësie</a> dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> të { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Duke përzgjedhur “{ shopping-onboarding-opt-in-button }“ pajtoheni me <a data-l10n-name="privacy_policy">rregulla privatësie</a> dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> të { -fakespot-brand-name }.
