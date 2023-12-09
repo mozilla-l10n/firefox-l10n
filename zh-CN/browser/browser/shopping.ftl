@@ -190,6 +190,10 @@ shopping-onboarding-headline = 试试我们可信赖的商品评价向导
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = 在购买前先看看 <b>{ $currentSite }</b> 上商品评价的可信度如何。核查评价是 { -brand-product-name } 的一项实验性功能，内置于浏览器中，在 <b>{ $secondSite }</b> 和 <b>{ $thirdSite }</b> 网站上同样可用。
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = 决定购买前，先看看 <b>{ $currentSite }</b> 上的商品评价是否可信。核查评价是 { -brand-product-name } 的一项实验功能，内置于浏览器中。
 shopping-onboarding-body = { -fakespot-brand-full-name } 可帮助您规避不真实、不公允的评价。在您购物时，我们的人工智能模型也会不断改进，以更好地保护您的权益。<a data-l10n-name="learn_more">详细了解</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = 选择“{ shopping-onboarding-opt-in-button }”即表明您同意 { -fakespot-brand-full-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和<a data-l10n-name="terms_of_use">使用条款</a>。
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = 选择“{ shopping-onboarding-opt-in-button }”即表示您同意 { -fakespot-brand-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和<a data-l10n-name="terms_of_use">使用条款</a>。
