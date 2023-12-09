@@ -330,7 +330,7 @@ about-logins-import-dialog-items-no-change =
     }
 about-logins-import-dialog-items-added2 =
     { $count ->
-       *[other] { "" }
+       *[other] <span>U shtua fjalëkalim i ri:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
