@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Skýrslan þín hefur verið send
     .title = Skýrslan þín hefur verið send
 report-broken-site-panel-report-sent-text = Þakka þér fyrir að hjálpa { -brand-product-name } við að gera vefinn opnari, aðgengilegri og betri fyrir alla.
+report-broken-site-panel-invalid-url-label = Settu inn gilda slóð
+report-broken-site-panel-missing-reason-label = Veldu ástæðu
