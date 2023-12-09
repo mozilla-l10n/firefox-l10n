@@ -312,6 +312,8 @@ pdfjs-editor-remove-freetext-button =
     .title = הסרת טקסט
 pdfjs-editor-remove-stamp-button =
     .title = הסרת תמונה
+pdfjs-editor-remove-highlight-button =
+    .title = הסרת הדגשה
 
 ##
 
@@ -361,3 +363,22 @@ pdfjs-editor-resizer-label-bottom-right = פינה ימנית תחתונה - ש�
 pdfjs-editor-resizer-label-bottom-middle = למטה באמצע - שינוי גודל
 pdfjs-editor-resizer-label-bottom-left = פינה שמאלית תחתונה - שינוי גודל
 pdfjs-editor-resizer-label-middle-left = שמאלה באמצע - שינוי גודל
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = צבע הדגשה
+pdfjs-editor-colorpicker-button =
+    .title = שינוי צבע
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = בחירת צבע
+pdfjs-editor-colorpicker-yellow =
+    .title = צהוב
+pdfjs-editor-colorpicker-green =
+    .title = ירוק
+pdfjs-editor-colorpicker-blue =
+    .title = כחול
+pdfjs-editor-colorpicker-pink =
+    .title = ורוד
+pdfjs-editor-colorpicker-red =
+    .title = אדום
