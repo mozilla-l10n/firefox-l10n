@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Войти в режим отладк�
 about-webrtc-debug-mode-on-state-label = Выйти из режима отладки
 about-webrtc-enable-logging-label = Включить предварительную настройку журнала WebRTC
 about-webrtc-stats-heading = Статистика сессии
+about-webrtc-peerconnections-section-heading = Статистика RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Показать статистику RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Скрыть статистику RTCPeerConnection
 about-webrtc-stats-clear = Удалить историю
 about-webrtc-log-heading = Журнал соединения
 about-webrtc-log-clear = Удалить журнал
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Установлено
 about-webrtc-configuration-element-not-provided = Не установлено
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Пользовательские настройки WebRTC
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Пользователь изменил конфигурацию WebRTC
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Показать измененную пользователем конфигурацию
+about-webrtc-user-modified-configuration-hide-msg = Скрыть измененную пользователем конфигурацию
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Расчётная пропускная способность
 # The ID of the MediaStreamTrack
@@ -305,9 +319,6 @@ about-webrtc-sdp-set-timestamp = Метка времени { NUMBER($timestamp, 
 
 about-webrtc-show-msg-sdp = Показать SDP
 about-webrtc-hide-msg-sdp = Скрыть SDP
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs

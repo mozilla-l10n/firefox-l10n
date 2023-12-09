@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Ваш отчёт отправлен
     .title = Ваш отчёт отправлен
 report-broken-site-panel-report-sent-text = Благодарим вас за то, что вы помогаете { -brand-product-name } сделать Интернет более открытым, доступным и лучше для всех.
+report-broken-site-panel-invalid-url-label = Введите корректный URL
+report-broken-site-panel-missing-reason-label = Пожалуйста, выберите причину
