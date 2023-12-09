@@ -147,9 +147,20 @@ firefoxview-opentabs-focus-tab =
     .title = Aldatu fitxa honetara
 firefoxview-show-more = Erakutsi gehiago
 firefoxview-show-less = Erakutsi gutxiago
+firefoxview-search-text-box-clear-button =
+    .title = Garbitu
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Bilatu historia
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Bilatu itxitako azken fitxak
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Bilatu sinkronizatutako fitxak
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Bilatu irekitako fitxak
 firefoxview-sort-history-by-date-label = Ordenatu dataren arabera
 firefoxview-sort-history-by-site-label = Ordenatu gunearen arabera
 # Variables:

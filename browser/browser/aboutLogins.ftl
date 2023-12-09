@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Sortu saio-hasiera berria
+about-logins-page-title-name = Pasahitzak
+about-logins-login-filter2 =
+    .placeholder = Bilatu pasahitzak
+    .key = B
+create-login-button =
+    .title = Gehitu pasahitza
 fxaccounts-sign-in-text = Eskuratu zure pasahitzak zure beste gailuetan
 fxaccounts-sign-in-sync-button = Hasi saioa sinkronizatzeko
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $total } / { $count } saio-hasiera
        *[other] { $total } / { $count } saio-hasiera
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] pasahitz { $count }
+       *[other] { $count } pasahitz
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $total } / { $count } pasahitz
+       *[other] { $total } / { $count } pasahitz
+    }
 login-list-sort-label-text = Ordenatze-irizpidea:
 login-list-name-option = Izena (A-Z)
 login-list-name-reverse-option = Izena (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Alertak
 login-list-last-changed-option = Azken aldaketa
 login-list-last-used-option = Azkenekoz erabilia
 login-list-intro-title = Ez da saio-hasierarik aurkitu
+login-list-intro-title2 = Gordetako pasahitzik ez
 login-list-intro-description = { -brand-product-name }(e)n pasahitza gordetzean, hemen agertuko da.
 about-logins-login-list-empty-search-title = Ez da saio-hasierarik aurkitu
+about-logins-login-list-empty-search-title2 = Ez da pasahitzik aurkitu
 about-logins-login-list-empty-search-description = Ez dago zure bilaketarekin bat datorren emaitzarik.
 login-list-item-title-new-login = Saio-hasiera berria
 login-list-item-subtitle-new-login = Idatzi zure saio-hasierako kredentzialak
+login-list-item-title-new-login2 = Gehitu pasahitza
 login-list-item-subtitle-missing-username = (erabiltzaile-izenik ez)
 about-logins-list-item-breach-icon =
     .title = Datu-urratzea izandako webgunea
@@ -94,6 +118,7 @@ login-item-edit-button = Editatu
 about-logins-login-item-remove-button = Kendu
 login-item-origin-label = Webgunearen helbidea
 login-item-tooltip-message = Ziurtatu hau bat datorrela saioa hasten duzun webgunearen helbide zehatzarekin.
+about-logins-origin-tooltip = Ziurtatu hau bat datorrela saioa hasten duzun webgunearen helbide zehatzarekin.
 login-item-origin =
     .placeholder = https://www.adibidea.eus
 login-item-username-label = Erabiltzaile-izena

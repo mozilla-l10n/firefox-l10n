@@ -279,6 +279,9 @@ quickactions-cmd-plugins = pluginak
 # Opens the print dialog
 quickactions-print2 = Inprimatu orria
 quickactions-cmd-print = inprimatu
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Gorde orria PDF gisa
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Ireki leiho pribatua
 quickactions-cmd-private = nabigatze pribatua
@@ -348,6 +351,7 @@ identity-connection-secure = Konexio segurua
 identity-connection-failure = Konexioak huts egin du
 identity-connection-internal = { -brand-short-name } orri segurua da hau.
 identity-connection-file = Orri hau zure ordenagailuan biltegiratuta dago.
+identity-connection-associated = Orri hau beste orri batetik kargatu da.
 identity-extension-page = Orri hau hedapen batetik kargatu da.
 identity-active-blocked = { -brand-short-name }(e)k seguruak ez diren orri honetako zatiak blokeatu ditu.
 identity-custom-root = Mozillak onetsi gabeko ziurtagiri-jaulkitzaile batek egiaztatu du konexioa.
@@ -560,8 +564,6 @@ urlbar-result-action-search-w-engine = Bilatu { $engine } erabiliz
 urlbar-result-action-sponsored = Babesleak hornituta
 urlbar-result-action-switch-tab = Aldatu fitxara
 urlbar-result-action-visit = Bisitatu
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Bisitatu zure arbeletik
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Bisitatu arbeletik
 # Directs a user to press the Tab key to perform a search with the specified
