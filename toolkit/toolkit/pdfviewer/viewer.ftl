@@ -361,3 +361,20 @@ pdfjs-editor-resizer-label-bottom-right = Esquina inferior derecha — cambiar e
 pdfjs-editor-resizer-label-bottom-middle = Borde inferior en el medio — cambiar el tamaño
 pdfjs-editor-resizer-label-bottom-left = Esquina inferior izquierda — cambiar el tamaño
 pdfjs-editor-resizer-label-middle-left = Borde izquierdo en el medio — cambiar el tamaño
+
+## Color picker
+
+pdfjs-editor-colorpicker-button =
+    .title = Cambiar color
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Opciones de color
+pdfjs-editor-colorpicker-yellow =
+    .title = Amarillo
+pdfjs-editor-colorpicker-green =
+    .title = Verde
+pdfjs-editor-colorpicker-blue =
+    .title = Azul
+pdfjs-editor-colorpicker-pink =
+    .title = Rosa
+pdfjs-editor-colorpicker-red =
+    .title = Rojo
