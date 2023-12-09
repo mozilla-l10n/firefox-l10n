@@ -72,7 +72,7 @@ addon-removal-title = { $name } entfernen?
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { $name } aus { -brand-shorter-name } entfernen?
 addon-removal-button = Entfernen
-addon-removal-abuse-report-checkbox = Erweiterung melden an { -vendor-short-name }
+addon-removal-abuse-report-checkbox = Erweiterung an { -vendor-short-name } melden
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
