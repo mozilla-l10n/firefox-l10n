@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Uw rapport is verzonden
     .title = Uw rapport is verzonden
 report-broken-site-panel-report-sent-text = Bedankt dat u { -brand-product-name } helpt om het internet voor iedereen opener, toegankelijker en beter te maken.
+report-broken-site-panel-invalid-url-label = Voer een geldige URL in
+report-broken-site-panel-missing-reason-label = Kies een reden
