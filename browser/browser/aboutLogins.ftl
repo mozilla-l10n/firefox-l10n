@@ -332,6 +332,16 @@ about-logins-import-dialog-items-added2 =
     { $count ->
        *[other] <span>U shtua fjalëkalim i ri:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>U përditësua zë ekzistues:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>U përditësuan zëra ekzistues:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>U gjet zë i përsëdytur:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(i paimportuar)</span>
+       *[other] <span>U gjetën zëra të përsëdytur:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(të paimportuar)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Gabime:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(jo të importuara)</span>
@@ -361,6 +371,8 @@ about-logins-import-report-row-description-no-change = Përsëdytje: Përputhje 
 about-logins-import-report-row-description-modified = U përditësuan kredenciale ekzistuese hyrjeje
 about-logins-import-report-row-description-added = U shtuan kredenciale të reja hyrjeje
 about-logins-import-report-row-description-no-change2 = Përsëdytje: Përputhje ekzakte e një zëri ekzistues
+about-logins-import-report-row-description-modified2 = U përditësua zë ekzistues
+about-logins-import-report-row-description-added2 = U shtua fjalëkalim i ri
 about-logins-import-report-row-description-error = Gabim: Fushë që mungon
 
 ##
@@ -385,6 +397,21 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Kredenciale të përsëdytur hyrjesh</div> <div data-l10n-name="not-imported">(të paimportuar)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">U shtua fjalëkalim i ri</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">U shtuan fjalëkalime të rinj</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">U përditësua zë ekzistues</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">U përditësuan zëra ekzistues</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Zë i përsëdytur</div> <div data-l10n-name="not-imported">(i paimportuar)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Zëra të përsëdytur</div> <div data-l10n-name="not-imported">(të paimportuar)</div>
     }
 about-logins-import-report-error =
     { $count ->

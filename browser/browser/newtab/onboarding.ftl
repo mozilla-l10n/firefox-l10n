@@ -337,6 +337,7 @@ onboarding-easy-setup-security-and-privacy-title = Duam fort t’ju mbajmë të 
 onboarding-easy-setup-security-and-privacy-subtitle = Shfletuesi ynë, me entin jofitimprurës nga pas, ndihmon të ndalen shoqëri t’ju ndjekin fshehtazi nëpër internet.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Jini i fshehtëzuar, kur hidheni nga një pajisje në tjetrën
+onboarding-mobile-download-security-and-privacy-subtitle = Kur keni bërë njëkohësimin, { -brand-short-name }-i fshehtëzon fjalëkalimet tuaja, faqerojtësit, etj. Veç kësaj, mund të merrni skeda që nga pajisjet tuaja të tjera.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ju mbron krahët
 onboarding-gratitude-security-and-privacy-subtitle = Faleminderit që përdorni { -brand-short-name }-in, që ka nga pas Mozilla Foundation. Me përkrahjen tuaj, po punojmë për ta bërë internetin më të hapur dhe të përdorshëm për këdo.

@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Faqerojtës
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Më të pëlqyerit
 migration-logins-and-passwords-option-label = Kredenciale hyrjesh dhe fjalëkalime të ruajtur
+migration-passwords-option-label = Fjalëkalime të ruajtur
 migration-history-option-label = Historik shfletimesh
 migration-extensions-option-label = Zgjerime
 migration-form-autofill-option-label = Të dhëna vetëplotësimi formularësh
