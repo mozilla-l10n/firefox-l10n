@@ -45,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
 about-webauthn-results-pin-blocked-error = Chyba: Váš přístroj byl uzamčen, protože byl příliš mnohokrát zadán špatný PIN. Zařízení je třeba obnovit.
 about-webauthn-results-pin-too-short-error = Chyba: Zadaný PIN je příliš krátký.
 about-webauthn-results-pin-too-long-error = Chyba: Zadaný PIN je příliš dlouhý.
+about-webauthn-results-pin-auth-blocked-error = Chyba: vyskytlo se příliš mnoho neúspěšných pokusů za sebou a ověření PINu bylo dočasně zablokováno. Zařízení potřebuje cyklus napájení (odpojení a opětovné zapojení).
 about-webauthn-results-cancelled-by-user-error = Chyba: operace byla zrušena uživatelem.
 
 ## Labels
@@ -61,6 +62,8 @@ about-webauthn-confirm-deletion-label = Chystáte se smazat:
 
 about-webauthn-current-set-pin-button = Nastavit PIN
 about-webauthn-current-change-pin-button = Změna PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Zobrazit přihlašovací údaje
 about-webauthn-cancel-button = Zrušit
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Smazat
@@ -69,8 +72,18 @@ about-webauthn-delete-button = Smazat
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
 about-webauthn-auth-option-uv = Ověření uživatele
+about-webauthn-auth-option-up = Přítomnost uživatele
 about-webauthn-auth-option-clientpin = PIN klienta
+about-webauthn-auth-option-rk = Klíč rezidenta
+about-webauthn-auth-option-plat = Zařízení platformy
+about-webauthn-auth-option-ep = Podnikové atesty
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototyp biometrického zápisu (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Povolení k biometrickému zápisu
+about-webauthn-auth-option-credmgmt = Správa přihlašovacích údajů
 about-webauthn-auth-option-setminpinlength = Nastavit minimální délku PIN
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential bez ověření uživatele
 about-webauthn-auth-option-alwaysuv = Vždy vyžadovat ověření uživatele
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
@@ -83,11 +96,14 @@ about-webauthn-auth-option-null = Nepodporováno
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-certifications = Certifikace
+about-webauthn-auth-info-uv-modality = Způsob ověření uživatele
 about-webauthn-auth-info-firmware-version = Verze firmwaru
 about-webauthn-auth-info-min-pin-length = Minimální délka PIN
 about-webauthn-auth-info-force-pin-change = Vynutit změnu PIN
 about-webauthn-auth-info-algorithms = Algoritmy
 about-webauthn-auth-info-transports = Transporty
+about-webauthn-auth-info-max-credential-id-length = Maximální délka ID pověření
+about-webauthn-auth-info-max-credential-count-in-list = Maximální počet pověření v seznamu
 about-webauthn-auth-info-pin-protocols = Protokoly PIN
 about-webauthn-auth-info-max-msg-size = Maximální velikost zprávy
 # AAGUID should not be translated.
