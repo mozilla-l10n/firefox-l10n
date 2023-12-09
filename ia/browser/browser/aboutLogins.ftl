@@ -331,6 +331,21 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Credential duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
        *[other] <span>Credentiales duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nove contrasigno addite:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Nove contrasignos addite:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Entrata existente actualisate:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Entrataa existente actualisate:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Entrata duplicate trovate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
+       *[other] <span>Entrata duplicate trovate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
+    }
 about-logins-import-dialog-items-error = <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
 about-logins-import-dialog-done = Facite
 about-logins-import-dialog-error-title = Error de importation
@@ -385,6 +400,21 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentiales duplicate</div> <div data-l10n-name="not-imported">(non importate)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nove contrasigno addite</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nove contrasignos addite</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">contrasigno existente actualisate</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">contrasignos existente actualisate</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Entrata duplicate</div> <div data-l10n-name="not-imported">(non importate)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Entratas duplicate</div> <div data-l10n-name="not-imported">(non importate)</div>
     }
 about-logins-import-report-error =
     { $count ->

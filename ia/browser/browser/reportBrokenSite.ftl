@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Tu reporto ha essite inviate.
     .title = Tu reporto ha essite inviate.
 report-broken-site-panel-report-sent-text = Gratias pro adjutar { -brand-product-name } a render le web plus aperte, accessibile, e melior pro totes.
+report-broken-site-panel-invalid-url-label = Insere un URL valide
+report-broken-site-panel-missing-reason-label = Elige un ration

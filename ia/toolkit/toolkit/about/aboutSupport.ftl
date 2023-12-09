@@ -190,6 +190,16 @@ media-codec-support-unsupported = Non supportate
 media-codec-support-error = Informationes de supporto codecs indisponibile.
 media-codec-support-lack-of-extension = Installar le extension
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Information re le modulos de decryptation del contento
+media-key-system-name = Nomine de systema clave
+media-video-robustness = Vigor del video
+media-audio-robustness = Vigor del audio
+media-cdm-capabilities = Capacitates
+
 ##
 
 intl-title = Internationalisation & Localisation
