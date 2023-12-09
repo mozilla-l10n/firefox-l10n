@@ -86,6 +86,14 @@ about-glean-adhoc-explanation =
     і скарыстаўшы API <code>testGetValue()</code>, напрыклад
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Для дадатковага <i>ad hoc</i> тэставання,
+    вы таксама можаце вызначыць бягучае значэнне пэўнай часткі інструментарыю
+    адкрыўшы кансоль devtools тут на <code>about:glean</code>
+    і скарыстаўшы API <code>testGetValue()</code>, напрыклад
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    для метрыкі з назвай <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Звярніце ўвагу, што вы выкарыстоўваеце Glean JS API з дапамогай кансолі devtools.
     Гэта азначае, што катэгорыя метрыкі і назва метрыкі адфарматаваны ў
