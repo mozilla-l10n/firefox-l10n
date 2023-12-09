@@ -243,6 +243,7 @@ mr2022-onboarding-no-mobile-download-cta-text = Skannit ar c'hod QR evit tapout 
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-header = Tapit frankiz ar merdeiñ prevez en ur c'hlik
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Toupin ha roll istor ebet enrollet. Merdeit hep bezañ gwelet.
 
 ## MR2022 Privacy Segmentation screen strings
 
