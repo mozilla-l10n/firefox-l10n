@@ -316,6 +316,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Odebrat text
 pdfjs-editor-remove-stamp-button =
     .title = Odebrat obrázek
+pdfjs-editor-remove-highlight-button =
+    .title = Odebrat zvýraznění
 
 ##
 
@@ -365,3 +367,22 @@ pdfjs-editor-resizer-label-bottom-right = Pravý dolní roh — změna velikosti
 pdfjs-editor-resizer-label-bottom-middle = Střed dole — změna velikosti
 pdfjs-editor-resizer-label-bottom-left = Levý dolní roh — změna velikosti
 pdfjs-editor-resizer-label-middle-left = Vlevo uprostřed — změna velikosti
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Barva zvýraznění
+pdfjs-editor-colorpicker-button =
+    .title = Změna barvy
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Výběr barev
+pdfjs-editor-colorpicker-yellow =
+    .title = Žlutá
+pdfjs-editor-colorpicker-green =
+    .title = Zelená
+pdfjs-editor-colorpicker-blue =
+    .title = Modrá
+pdfjs-editor-colorpicker-pink =
+    .title = Růžová
+pdfjs-editor-colorpicker-red =
+    .title = Červená

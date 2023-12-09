@@ -439,6 +439,13 @@ about-logins-import-report-modified2 =
         [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">aktualizovaných položek</div>
        *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">aktualizovaných položek</div>
     }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">duplicitní položka</div><div data-l10n-name="not-imported">(neimportována)</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">duplicitní položky</div><div data-l10n-name="not-imported">(neimportovány)</div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">duplicitních položek</div><div data-l10n-name="not-imported">(neimportovány)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">duplicitních položek</div><div data-l10n-name="not-imported">(neimportováno)</div>
+    }
 about-logins-import-report-error = <div data-l10n-name="details">Chyby:</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="not-imported">(neimportováno)</div>
 
 ## Logins import report page
