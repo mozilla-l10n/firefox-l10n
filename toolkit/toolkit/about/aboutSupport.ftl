@@ -187,6 +187,12 @@ media-codec-support-unsupported = Ikke støttet
 media-codec-support-error = Kodek-støtteinformasjon utilgjengelig. Prøv igjen etter å ha spilt av en mediefil.
 media-codec-support-lack-of-extension = Installer utvidelse
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Informasjon om innholdsdekrypteringsmoduler
+
 ##
 
 intl-title = Internasjonalisering og lokalisering
