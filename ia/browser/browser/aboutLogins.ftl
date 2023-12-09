@@ -348,6 +348,7 @@ about-logins-import-dialog-error-try-import-again = Probar importar de novo…
 about-logins-import-dialog-error-cancel = Cancellar
 about-logins-import-report-title = Summario del importation
 about-logins-import-report-description = Credentiales e contrasignos importate in { -brand-short-name }.
+about-logins-import-report-description2 = Contrasignos importate in { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
