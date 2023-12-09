@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Modus pytanja zmólkow startowaś
 about-webrtc-debug-mode-on-state-label = Modus pytanja zmólkow zastajiś
 about-webrtc-enable-logging-label = Protokolowe pśednastajenje WebRTC zmóžniś
 about-webrtc-stats-heading = Pósejźeńska statistika
+about-webrtc-peerconnections-section-heading = Statistika RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Statistiku RTCPeerConnection pokazaś
+about-webrtc-peerconnections-section-hide-msg = Statistiku RTCPeerConnection schowaś
 about-webrtc-stats-clear = Historiju wuprozniś
 about-webrtc-log-heading = Zwiskowy protokol
 about-webrtc-log-clear = Protokol lašowaś
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Pódany
 about-webrtc-configuration-element-not-provided = Njepódany
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = WebRTC-nastajenja wužywarja
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Wót wužywarja změnjona WebRTC-konfiguracija
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Wót wužywarja změnjonu konfiguraciju pokazaś
+about-webrtc-user-modified-configuration-hide-msg = Wót wužywarja změnjonu konfiguraciju schowaś
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Pówoblicona šyrokosć pasma
 # The ID of the MediaStreamTrack
@@ -229,8 +243,6 @@ about-webrtc-aec-logging-off-state-msg = móžośo nagrane protokolowe dataje na
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Bok jo se składł do: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Slědowański protokol dajo se namakaś na: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Modus pytanja zmólkow jo aktiwny, slědowański protokol jo na: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -320,9 +332,6 @@ about-webrtc-hide-msg-sdp = SDP schowaś
 about-webrtc-media-context-show-msg = Medijowy kontekst pokazaś
 about-webrtc-media-context-hide-msg = Medijowy kontekst schowaś
 about-webrtc-media-context-heading = Medijowy kontekst
-
-##
-
 
 ##
 
