@@ -204,6 +204,7 @@ cfr-cbh-confirm-button = Regetar las bandièras de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Mai tard
     .accesskey = M
+cookie-banner-blocker-cfr-header = { -brand-short-name } ven de blocar de cookies per vos
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
