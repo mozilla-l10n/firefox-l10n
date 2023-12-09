@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = 反馈已发送
     .title = 反馈已发送
 report-broken-site-panel-report-sent-text = 感谢您帮助 { -brand-product-name } 打造更开放、更美好且人人可用的网络。
+report-broken-site-panel-invalid-url-label = 请输入有效的网址
+report-broken-site-panel-missing-reason-label = 请选择原因
