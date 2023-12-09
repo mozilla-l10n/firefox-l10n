@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Debugmodus starten
 about-webrtc-debug-mode-on-state-label = Debugmodus stoppen
 about-webrtc-enable-logging-label = WebRTC-logboekvoorinstelling inschakelen
 about-webrtc-stats-heading = Sessiestatistieken
+about-webrtc-peerconnections-section-heading = RTCPeerConnection-statistieken
+about-webrtc-peerconnections-section-show-msg = RTCPeerConnection-statistieken tonen
+about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection-statistieken verbergen
 about-webrtc-stats-clear = Geschiedenis wissen
 about-webrtc-log-heading = Verbindingslogboek
 about-webrtc-log-clear = Logboek wissen
@@ -194,6 +197,13 @@ about-webrtc-configuration-element-provided = Voorzien
 about-webrtc-configuration-element-not-provided = Niet voorzien
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Door gebruiker ingestelde WebRTC-voorkeuren
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Geschatte bandbreedte
 # The ID of the MediaStreamTrack
@@ -229,8 +239,6 @@ about-webrtc-aec-logging-off-state-msg = vastgelegde logbestanden zijn te vinden
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Pagina opgeslagen in: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Traceerlogboek is te vinden in: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Debugmodus actief, traceerlogboek in: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -310,9 +318,6 @@ about-webrtc-hide-msg-sdp = SDP verbergen
 about-webrtc-media-context-show-msg = Mediacontext tonen
 about-webrtc-media-context-hide-msg = Mediacontext verbergen
 about-webrtc-media-context-heading = Mediacontext
-
-##
-
 
 ##
 

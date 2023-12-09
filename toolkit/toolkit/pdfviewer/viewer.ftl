@@ -312,6 +312,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Tekst verwijderen
 pdfjs-editor-remove-stamp-button =
     .title = Afbeelding verwijderen
+pdfjs-editor-remove-highlight-button =
+    .title = Markering verwijderen
 
 ##
 
@@ -361,3 +363,22 @@ pdfjs-editor-resizer-label-bottom-right = Rechterbenedenhoek – formaat wijzige
 pdfjs-editor-resizer-label-bottom-middle = Midden onder – formaat wijzigen
 pdfjs-editor-resizer-label-bottom-left = Linkerbenedenhoek – formaat wijzigen
 pdfjs-editor-resizer-label-middle-left = Links midden – formaat wijzigen
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Markeringskleur
+pdfjs-editor-colorpicker-button =
+    .title = Kleur wijzigen
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Kleurkeuzes
+pdfjs-editor-colorpicker-yellow =
+    .title = Geel
+pdfjs-editor-colorpicker-green =
+    .title = Groen
+pdfjs-editor-colorpicker-blue =
+    .title = Blauw
+pdfjs-editor-colorpicker-pink =
+    .title = Roze
+pdfjs-editor-colorpicker-red =
+    .title = Rood
