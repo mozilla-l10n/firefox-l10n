@@ -207,6 +207,8 @@ cfr-cbh-confirm-button = Адхіляць банеры кукі
     .accesskey = к
 cfr-cbh-dismiss-button = Не зараз
     .accesskey = Н
+cookie-banner-blocker-cfr-header = { -brand-short-name } толькі што заблакаваў для вас кукі
+cookie-banner-blocker-cfr-body = Мы аўтаматычна адмаўляемся ад многіх выплыўных вокнаў пра кукі, каб сайтам было цяжэй асочваць вас.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -240,7 +242,10 @@ device-migration-fxa-spotlight-header = Карыстаецеся старой п
 device-migration-fxa-spotlight-body = Зрабіце рэзервовую копію дадзеных, каб упэўніцца, што вы не страціце важную інфармацыю, такую як закладкі і паролі, асабліва калі вы пераходзіце на новую прыладу.
 device-migration-fxa-spotlight-primary-button = Як зрабіць рэзервовую копію маіх дадзеных
 device-migration-fxa-spotlight-link = Нагадаць пазней
+device-migration-fxa-spotlight-heavy-user-header = Не забудзьцеся стварыць рэзервовую копію дадзеных
+device-migration-fxa-spotlight-heavy-user-body = Пераканайцеся, што важная інфармацыя — напрыклад, закладкі і паролі — абнаўляецца і абаронена на ўсіх вашых прыладах.
 device-migration-fxa-spotlight-heavy-user-primary-button = Пачаць
+device-migration-fxa-spotlight-older-device-header = Душэўны спакой ад { -brand-product-name }
 device-migration-fxa-spotlight-older-device-body = Уліковы запіс дазваляе абнаўляць і абараняць вашу важную інфармацыю на любой падключанай прыладзе.
 device-migration-fxa-spotlight-older-device-primary-button = Стварыць уліковы запіс
 device-migration-fxa-spotlight-getting-new-device-header-2 = Новая прылада ў вашай будучыні?

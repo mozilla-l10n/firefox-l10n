@@ -154,6 +154,31 @@ firefoxview-search-text-box-clear-button =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Шукаць у гісторыі
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Шукаць у нядаўна закрытых картках
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Шукаць у сінхранізаваных картках
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Шукаць у адкрытых картках
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Вынікі пошуку для “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } сайт
+        [few] { $count } сайты
+       *[many] { $count } сайтаў
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Няма вынікаў для «{ $query }»
 firefoxview-sort-history-by-date-label = Сартаваць па даце
 firefoxview-sort-history-by-site-label = Сартаваць па сайтах
 # Variables:
