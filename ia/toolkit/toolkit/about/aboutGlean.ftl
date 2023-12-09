@@ -85,6 +85,14 @@ about-glean-adhoc-explanation =
     e per le API de <code>testGetValue()</code> como
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Pro altere tests <i>ad hoc</i>,
+    tu pote alsi definir le currente valor de un particular pecia de instrumentation
+    aperiente un consola de instrumentos de disveloppamento ci sur <code>about:glean</code>
+    e per le API de <code>testGetValue()</code> como
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    pro un metrica denominate <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note = Nota que que on usa le API de Glean JS per le consola del utensiles de disveloppamento. Isto significa que le categoria e le nomine metric es formattate in <code>camelCase</code> diversemente del APIs in le Rust e C++.
 controls-button-label-verbose = Applicar parametros e inviar ping
 about-glean-about-data-header = Re datos
