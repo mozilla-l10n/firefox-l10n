@@ -79,8 +79,38 @@ about-webauthn-auth-option-plat = Прылада платформы
 about-webauthn-auth-option-pinuvauthtoken = Дазволы для каманд (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Няма дазволаў MakeCredential/GetAssertion з PIN-кодам кліента
+about-webauthn-auth-option-largeblobs = Вялікія blobs
+about-webauthn-auth-option-ep = Атэстацыя прадпрыемства
+about-webauthn-auth-option-bioenroll = Біяметрычная рэгістрацыя
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Прататып біяметрычнай рэгістрацыі (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Дазвол на біяметрычную рэгістрацыю
+about-webauthn-auth-option-authnrcfg = Канфігурацыя аўтэнтыфікатара
+about-webauthn-auth-option-uvacfg = Дазвол канфігурацыі аўтэнтыфікатара
+about-webauthn-auth-option-credmgmt = Кіраванне ўліковымі дадзенымі
+about-webauthn-auth-option-credentialmgmtpreview = Прататып кіравання ўліковымі дадзенымі
+about-webauthn-auth-option-setminpinlength = Усталяваць мінімальную даўжыню PIN-кода
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential без праверкі карыстальніка
+about-webauthn-auth-option-alwaysuv = Заўсёды патрабаваць праверку карыстальніка
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Не падтрымліваецца
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Каманды канфігурацыі прататыпа пастаўшчыка
+about-webauthn-auth-info-remaining-discoverable-credentials = Астатнія даступныя для выяўлення ўліковыя дадзеныя
+about-webauthn-auth-info-certifications = Сертыфікацыі
+about-webauthn-auth-info-uv-modality = Спосаб праверкі карыстальніка
+about-webauthn-auth-info-preferred-platform-uv-attempts = Спробы праверкі пажаданага карыстальніка платформы
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Максімальная колькасць ідэнтыфікатараў бакоў, якія правяраюць, для ўстаноўленай мінімальнай даўжыні PIN-кода
+about-webauthn-auth-info-max-cred-blob-length = Максімальная даўжыня blob уліковых дадзеных
+about-webauthn-auth-info-firmware-version = Версія прашыўкі
+about-webauthn-auth-info-min-pin-length = Мінімальная даўжыня PIN-кода
+about-webauthn-auth-info-force-pin-change = Прымусова змяніць PIN-код
 about-webauthn-auth-info-algorithms = Алгарытмы
