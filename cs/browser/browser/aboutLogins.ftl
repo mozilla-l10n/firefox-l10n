@@ -425,6 +425,20 @@ about-logins-import-report-row-description-error-missing-field = Chyba: chyběj�
 about-logins-import-report-added = <div data-l10n-name="details">Nově přidané přihlašovací údaje:</div> <div data-l10n-name="count">{ $count }</div>
 about-logins-import-report-modified = <div data-l10n-name="details">Aktualizované přihlašovací údaje:</div> <div data-l10n-name="count">{ $count }</div>
 about-logins-import-report-no-change = <div data-l10n-name="details">Duplicitní přihlašovací údaje:</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="not-imported">(neimportováno)</div>
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nové přidané heslo</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nové přidané hesla</div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nových přidaných hesel</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">nových přidaných hesel</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">aktualizovaná položka</div>
+        [few] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">aktualizované položka</div>
+        [many] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">aktualizovaných položek</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">aktualizovaných položek</div>
+    }
 about-logins-import-report-error = <div data-l10n-name="details">Chyby:</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="not-imported">(neimportováno)</div>
 
 ## Logins import report page
