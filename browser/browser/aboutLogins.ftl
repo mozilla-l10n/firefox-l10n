@@ -10,6 +10,11 @@ about-logins-login-filter =
 create-new-login-button =
     .title = Стварыць новы лагін
 about-logins-page-title-name = Паролі
+about-logins-login-filter2 =
+    .placeholder = Пошук пароляў
+    .key = F
+create-login-button =
+    .title = Дадаць пароль
 fxaccounts-sign-in-text = Атрымайце доступ да сваіх пароляў на іншых прыладах
 fxaccounts-sign-in-sync-button = Увайсці ў сінхранізацыю
 fxaccounts-avatar-button =
@@ -53,6 +58,23 @@ login-list-filtered-count =
         [many] { $count } з { $total } лагінаў
        *[other] { $count } з { $total } лагінаў
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } пароль
+        [few] { $count } паролі
+       *[many] { $count } пароляў
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } з { $total } пароля
+        [few] { $count } з { $total } пароляў
+       *[many] { $count } з { $total } пароляў
+    }
 login-list-sort-label-text = Парадкаванне:
 login-list-name-option = Назва (А-Я)
 login-list-name-reverse-option = Назва (Я-А)
@@ -62,11 +84,14 @@ about-logins-login-list-alerts-option = Папярэджанні
 login-list-last-changed-option = Апошняе змяненне
 login-list-last-used-option = Апошняе выкарыстанне
 login-list-intro-title = Лагіны не знойдзены
+login-list-intro-title2 = Паролі не захаваны
 login-list-intro-description = Калі вы захоўваеце пароль у { -brand-product-name }, ён з'явіцца тут.
 about-logins-login-list-empty-search-title = Лагіны не знойдзены
+about-logins-login-list-empty-search-title2 = Паролі не знойдзены
 about-logins-login-list-empty-search-description = Няма вынікаў, якія адпавядаюць вашаму пошуку.
 login-list-item-title-new-login = Новы лагін
 login-list-item-subtitle-new-login = Увядзіце свае ўліковыя дадзеныя
+login-list-item-title-new-login2 = Дадаць пароль
 login-list-item-subtitle-missing-username = (без імя карыстальніка)
 about-logins-list-item-breach-icon =
     .title = Узламаны сайт
@@ -98,6 +123,7 @@ login-item-edit-button = Змяніць
 about-logins-login-item-remove-button = Выдаліць
 login-item-origin-label = Адрас сайта
 login-item-tooltip-message = Упэўніцеся, што гэта дакладны адрас сайта, на якім вы ўваходзіце ў сістэму.
+about-logins-origin-tooltip = Упэўніцеся, што гэта дакладны адрас сайта, на якім вы ўваходзіце ў сістэму.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Імя карыстальніка
