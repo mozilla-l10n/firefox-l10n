@@ -124,6 +124,10 @@ about-logins-login-item-remove-button = Выдаліць
 login-item-origin-label = Адрас сайта
 login-item-tooltip-message = Упэўніцеся, што гэта дакладны адрас сайта, на якім вы ўваходзіце ў сістэму.
 about-logins-origin-tooltip = Упэўніцеся, што гэта дакладны адрас сайта, на якім вы ўваходзіце ў сістэму.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Пераканайцеся, што вы захоўваеце свой дзейны пароль для гэтага сайта. Змена пароля тут не мяняе яго на { $webTitle }.
+about-logins-add-password-tooltip = Пераканайцеся, што вы захоўваеце свой дзейны пароль для гэтага сайта.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Імя карыстальніка
@@ -306,6 +310,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Імпартаваць файл лагінаў
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Імпарт пароляў у { -brand-short-name }
 about-logins-import-file-picker-import-button = Імпартаваць
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -345,6 +351,24 @@ about-logins-import-dialog-items-no-change =
         [few] <span>Знойдзены дублікатныя лагіны:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартаваны)</span>
        *[many] <span>Знойдзена дублікатных лагінаў:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартавана)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Дададзена новых пароляў:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Дададзена новых пароляў:</span> <span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Дададзена новых пароляў:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Абноўлена наяўных пароляў:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Абноўлена наяўных пароляў:</span> <span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Абноўлена наяўных пароляў:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Знойдзена дублікатных запісаў:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартавана)</span>
+        [few] <span>Знойдзена дублікатных запісаў:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартавана)</span>
+       *[many] <span>Знойдзена дублікатных запісаў:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартавана)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Памылка:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не імпартаваны)</span>
@@ -367,6 +391,7 @@ about-logins-import-dialog-error-try-import-again = Паўтарыць спро�
 about-logins-import-dialog-error-cancel = Скасаваць
 about-logins-import-report-title = Падсумаванне імпарту
 about-logins-import-report-description = Лагіны і паролі імпартаваны ў { -brand-short-name }.
+about-logins-import-report-description2 = Паролі імпартаваны ў { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -374,6 +399,9 @@ about-logins-import-report-row-index = Радок { $number }
 about-logins-import-report-row-description-no-change = Дублікат: дакладнае супадзенне з наяўным лагінам
 about-logins-import-report-row-description-modified = Наяўны лагін абноўлены
 about-logins-import-report-row-description-added = Новы лагін дададзены
+about-logins-import-report-row-description-no-change2 = Дублікат: дакладнае супадзенне з наяўным запісам
+about-logins-import-report-row-description-modified2 = Наяўны запіс абноўлены
+about-logins-import-report-row-description-added2 = Дададзены новы пароль
 about-logins-import-report-row-description-error = Памылка: адсутнічае поле
 
 ##
@@ -404,6 +432,24 @@ about-logins-import-report-no-change =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікат лагіна</div> <div data-l10n-name="not-imported">(не імпартаваны)</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікаты лагінаў</div> <div data-l10n-name="not-imported">(не імпартаваны)</div>
        *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікатаў лагінаў</div> <div data-l10n-name="not-imported">(не імпартавана)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новы пароль дададзены</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новыя паролі дададзены</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">новых пароляў дададзена</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наяўны запіс абноўлены</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наяўныя запісы абноўлены</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">наяўных запісаў абноўлена</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікатны запіс</div> <div data-l10n-name="not-imported">(не імпартаваны)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікатныя запісы</div> <div data-l10n-name="not-imported">(не імпартаваны)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">дублікатных запісаў</div> <div data-l10n-name="not-imported">(не імпартавана)</div>
     }
 about-logins-import-report-error =
     { $count ->
