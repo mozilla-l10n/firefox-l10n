@@ -60,8 +60,8 @@ login-list-filtered-count =
 #   $count (number) - Number of logins
 login-list-count2 =
     { $count ->
-        [one] { $quantity } contraseña
-       *[other] { $quantity } contraseñas
+        [one] { $count } contraseña
+       *[other] { $count } contraseñas
     }
 # Variables
 #   $count (number) - Number of filtered logins
