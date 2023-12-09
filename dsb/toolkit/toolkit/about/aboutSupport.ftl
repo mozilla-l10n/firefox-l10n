@@ -187,6 +187,16 @@ media-codec-support-unsupported = Njepódprěty
 media-codec-support-error = Informacije wó pódprětych kodekach njestoje k dispoziciji. Wopytajśo hyšći raz, za tym až sćo wótgrał medijowu dataju.
 media-codec-support-lack-of-extension = Rozšyrjenje instalěrowaś
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Informacije wó modulach wopśimjeśowego koděrowanja
+media-key-system-name = Mě systemowego kluca
+media-video-robustness = Wideorobustnosć
+media-audio-robustness = Awdiorobustnosć
+media-cdm-capabilities = Zamóžnosći
+
 ##
 
 intl-title = Internacionalizacija a lokalizacija
