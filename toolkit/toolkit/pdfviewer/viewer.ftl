@@ -312,6 +312,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Fjarlægja texta
 pdfjs-editor-remove-stamp-button =
     .title = Fjarlægja mynd
+pdfjs-editor-remove-highlight-button =
+    .title = Fjarlægja áherslulit
 
 ##
 
@@ -361,3 +363,22 @@ pdfjs-editor-resizer-label-bottom-right = Neðst í hægra horni - breyta stær�
 pdfjs-editor-resizer-label-bottom-middle = Neðst á miðju - breyta stærð
 pdfjs-editor-resizer-label-bottom-left = Neðst í vinstra horni - breyta stærð
 pdfjs-editor-resizer-label-middle-left = Miðja til vinstri - breyta stærð
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Áherslulitur
+pdfjs-editor-colorpicker-button =
+    .title = Skipta um lit
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Val lita
+pdfjs-editor-colorpicker-yellow =
+    .title = Gult
+pdfjs-editor-colorpicker-green =
+    .title = Grænt
+pdfjs-editor-colorpicker-blue =
+    .title = Blátt
+pdfjs-editor-colorpicker-pink =
+    .title = Bleikt
+pdfjs-editor-colorpicker-red =
+    .title = Rautt
