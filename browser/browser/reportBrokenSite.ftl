@@ -38,3 +38,6 @@ report-broken-site-panel-report-sent-label = Ваша справаздача а�
 report-broken-site-panel-report-sent-header =
     .label = Ваша справаздача адпраўлена
     .title = Ваша справаздача адпраўлена
+report-broken-site-panel-report-sent-text = Дзякуем, што дапамагаеце { -brand-product-name } зрабіць Інтэрнэт больш адкрытым, даступным і лепшым для ўсіх.
+report-broken-site-panel-invalid-url-label = Калі ласка, увядзіце сапраўдны URL
+report-broken-site-panel-missing-reason-label = Калі ласка, выберыце прычыну
