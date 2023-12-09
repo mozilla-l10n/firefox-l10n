@@ -194,6 +194,15 @@ about-webrtc-configuration-element-provided = Poskytnuto
 about-webrtc-configuration-element-not-provided = Neposkytnuto
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Uživatelská nastavení WebRTC
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Zobrazit uživatelem upravenou konfiguraci
+about-webrtc-user-modified-configuration-hide-msg = Skrýt uživatelem upravenou konfiguraci
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Odhadovaná šířka pásma
 # The ID of the MediaStreamTrack
@@ -229,8 +238,6 @@ about-webrtc-aec-logging-off-state-msg = soubory sběru protokolu můžete nalé
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Stránka uložena do: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Trasu protokolu lze nalézt na adrese: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Režim ladění aktivní, protokol v: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -315,9 +322,6 @@ about-webrtc-hide-msg-sdp = Skrýt SDP
 about-webrtc-media-context-show-msg = Zobrazit kontext médií
 about-webrtc-media-context-hide-msg = Skrýt kontext médií
 about-webrtc-media-context-heading = Informace o kontextu médií
-
-##
-
 
 ##
 

@@ -14,6 +14,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Nesprávný PIN. Zkuste to znovu.
 webauthn-pin-required-prompt = Zajdete prosím PIN pro vaše zařízení.
 webauthn-select-sign-result-unknown-account = Neznámý účet
+webauthn-a-passkey-label = Použít přístupový klíč
+webauthn-another-passkey-label = Použít jiný přístupový klíč
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Přístupový klíč pro { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

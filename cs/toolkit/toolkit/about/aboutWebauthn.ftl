@@ -22,6 +22,8 @@ about-webauthn-confirm-deletion-section-title = Potvrzení smazání
 ## Info field texts
 
 about-webauthn-text-connect-device = Připojte prosím bezpečnostní token.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Dotykem na zařízení vyberte požadovaný bezpečnostní token.
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Nelze spravovat možnosti, protože váš bezpečnostní token nepodporuje CTAP2.
 about-webauthn-text-not-available = Na této platformě není k dispozici.
@@ -40,8 +42,10 @@ about-webauthn-results-pin-invalid-error =
         [many] Chyba: Neplatný PIN. Zkuste to znovu. Zbývá vám { $retriesLeft } pokusů.
        *[other] Chyba: Neplatný PIN. Zkuste to znovu. Zbývá vám { $retriesLeft } pokusů.
     }
+about-webauthn-results-pin-blocked-error = Chyba: Váš přístroj byl uzamčen, protože byl příliš mnohokrát zadán špatný PIN. Zařízení je třeba obnovit.
 about-webauthn-results-pin-too-short-error = Chyba: Zadaný PIN je příliš krátký.
 about-webauthn-results-pin-too-long-error = Chyba: Zadaný PIN je příliš dlouhý.
+about-webauthn-results-cancelled-by-user-error = Chyba: operace byla zrušena uživatelem.
 
 ## Labels
 
@@ -50,6 +54,7 @@ about-webauthn-repeat-pin-label = Zopakovat nový PIN:
 about-webauthn-current-pin-label = Aktuální PIN:
 about-webauthn-pin-required-label = Zadejte svůj PIN:
 about-webauthn-credential-list-subsection-title = Přihlašovací údaje:
+about-webauthn-credential-list-empty = Na tomto zařízení nebyly nalezeny žádné přihlašovací údaje.
 about-webauthn-confirm-deletion-label = Chystáte se smazat:
 
 ## Buttons
@@ -65,6 +70,8 @@ about-webauthn-delete-button = Smazat
 
 about-webauthn-auth-option-uv = Ověření uživatele
 about-webauthn-auth-option-clientpin = PIN klienta
+about-webauthn-auth-option-setminpinlength = Nastavit minimální délku PIN
+about-webauthn-auth-option-alwaysuv = Vždy vyžadovat ověření uživatele
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.

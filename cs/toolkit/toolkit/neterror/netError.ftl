@@ -60,6 +60,7 @@ neterror-dns-not-found-hint-firewall = Zkontrolujte, zda má { -brand-short-name
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } nemůže ochránit vaše požadavky pro tento server pomocí důvěryhodného překladače DNS z těchto důvodů:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } nemůže ochránit váš požadavek na adresu tohoto webu prostřednictvím našeho zabezpečeného poskytovatele DNS. Zde je důvod:
 neterror-dns-not-found-trr-third-party-warning2 = Můžete pokračovat s použitím svého výchozího překladače DNS. Třetí strany pak ale mohou zjistit, jaké webové stránky navštěvujete.
 neterror-dns-not-found-trr-only-could-not-connect =
     { -brand-short-name.case-status ->
@@ -78,6 +79,7 @@ neterror-dns-not-found-trr-unknown-problem = Neočekávaný problém.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nemůže ochránit vaše požadavky pro tento server pomocí důvěryhodného překladače DNS z těchto důvodů:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } nemůže ochránit váš požadavek na adresu tohoto webu prostřednictvím našeho zabezpečeného poskytovatele DNS. Zde je důvod:
 neterror-dns-not-found-native-fallback-heuristic = DNS over HTTPS je ve vaší síti zakázáno.
 neterror-dns-not-found-native-fallback-not-confirmed2 =
     { -brand-short-name.case-status ->
