@@ -197,10 +197,14 @@ about-webrtc-configuration-element-provided = Παρέχεται
 about-webrtc-configuration-element-not-provided = Δεν παρέχεται
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Προτιμήσεις χρήστη για το WebRTC
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Tροποποιημένη διαμόρφωση WebRTC χρήστη
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-show-msg = Εμφάνιση τροποποιημένης διαμόρφωσης χρήστη
+about-webrtc-user-modified-configuration-hide-msg = Απόκρυψη τροποποιημένης διαμόρφωσης χρήστη
 
 ##
 
