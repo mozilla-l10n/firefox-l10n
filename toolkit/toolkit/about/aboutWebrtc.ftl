@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = 디버그 모드 시작
 about-webrtc-debug-mode-on-state-label = 디버그 모드 중지
 about-webrtc-enable-logging-label = WebRTC 로그 프리셋 활성화
 about-webrtc-stats-heading = 세션 통계
+about-webrtc-peerconnections-section-heading = RTCPeerConnection 통계
+about-webrtc-peerconnections-section-show-msg = RTCPeerConnection 통계 표시
+about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection 통계 숨기기
 about-webrtc-stats-clear = 기록 지우기
 about-webrtc-log-heading = 연결 로그
 about-webrtc-log-clear = 로그 지우기
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = 제공됨
 about-webrtc-configuration-element-not-provided = 제공되지 않음
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = 사용자 WebRTC 설정
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = 사용자가 수정한 WebRTC 구성
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = 사용자가 수정한 구성 표시
+about-webrtc-user-modified-configuration-hide-msg = 사용자가 수정한 구성 숨기기
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = 예상 대역폭
 # The ID of the MediaStreamTrack
@@ -229,8 +243,6 @@ about-webrtc-aec-logging-off-state-msg = 캡처된 로그파일 위치: { $path 
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = 페이지 저장됨: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = 추적로그 위치: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = 디버그 모드 활성화, 추적로그 위치: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -307,9 +319,6 @@ about-webrtc-hide-msg-sdp = SDP 숨기기
 about-webrtc-media-context-show-msg = 미디어 컨텍스트 표시
 about-webrtc-media-context-hide-msg = 미디어 컨텍스트 숨기기
 about-webrtc-media-context-heading = 미디어 컨텍스트
-
-##
-
 
 ##
 

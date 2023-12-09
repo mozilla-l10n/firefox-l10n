@@ -11,7 +11,7 @@ rights-intro-point-4 = 저희가 { -vendor-short-name }부터 { -brand-short-nam
 rights-intro-point-4-unbranded = 모든 적용 가능한 개인정보처리방침은 아래에 기술되어 있습니다.
 rights-intro-point-5 = { -brand-short-name }는 몇 가지 웹 사이트 서비스를 제공합니다. 하지만 이 서비스는 정확성 및 무결성을 보장하지 않습니다. 더 자세한 것은 서비스 약관을 참고하세요.<a data-l10n-name="mozilla-service-terms-link">서비스 약관</a>.
 rights-intro-point-5-unbranded = 이 제품이 웹 서비스를 지원하지 않으면 당 서비스의 서비스 조건은 링크에서 찾을 수 있습니다.<a data-l10n-name="mozilla-website-services-link">자세히</a> 보기
-rights-intro-point-6 = 특정 형식의 동영상 재생을 위해 { -brand-short-name }는 특정 제 삼자 콘텐츠 해석 모듈을 다운받습니다.
+rights-intro-point-6 = 특정 유형의 동영상 콘텐츠를 재생하기 위해 { -brand-short-name }는 제3자로부터 특정 콘텐츠 복호화 모듈을 다운로드합니다.
 rights-webservices-header = { -brand-full-name } 웹 기반 정보 서비스
 rights-webservices = { -brand-full-name }는 이용자 조건에 따라 { -brand-short-name }에서 웹 기반 서비스(이하 "서비스")를 제공합니다. 제공 서비스를 이용하기 원하지 않으시면 기능을 중단할 수 있습니다. 다음 특정 서비스 중단 방법을 참고하세요.:<a data-l10n-name="mozilla-disable-service-link">자세히 보기</a> (기타 기능이나 서비스는 애플리케이션 설정에서 해제할 수 있습니다.)
 rights-safebrowsing = <strong>SafeBrowsing: </strong>안전한 탐색 기능을 사용하지 않는 것은 안전하지 않은 사이트로 이동할 수 있기 때문에 권장되지 않습니다. 기능을 완전히 비활성화하려면 다음 단계를 수행하세요:
