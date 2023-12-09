@@ -52,6 +52,7 @@ migration-imported-edge-reading-list = Roll al lennadurioù (diouzh Edge)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-instructions-step1 = Dibabit “Kenderc’hel”
 
 ## These strings will be displayed based on how many resources are selected to import
 

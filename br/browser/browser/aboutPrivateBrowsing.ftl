@@ -68,3 +68,12 @@ about-private-browsing-pin-promo-title = Toupin ha roll istor ebet enrollet. Mer
 about-private-browsing-cookie-banners-promo-header = Echu gant ar bannieloù toupin!
 about-private-browsing-cookie-banners-promo-button = Bihanaat ar bannieloù toupin
 about-private-browsing-cookie-banners-promo-message = Leuskel { -brand-short-name } da respont ent emgefreek d'ar bannieloù toupin evit merdeiñ en un doare disoursi. Argas a raio { -brand-short-name } an holl c'houlennoù m'eo posupl.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } a ra war-dro ar goulennoù toupinoù evidoc'h.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = Na lezel roud ebet war an trevnad-mañ
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } a skarzh ho toupinoù, ho roll istor ha roadennoù al lec'hiennoù pa serrit an holl brenestroù prevez.
+about-private-browsing-felt-privacy-v1-info-link = Piv a c'hallfe gwelet ar pezh a ran?

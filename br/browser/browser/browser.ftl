@@ -279,6 +279,9 @@ quickactions-cmd-plugins = enlugelladoù
 # Opens the print dialog
 quickactions-print2 = Moullañ ar bajenn
 quickactions-cmd-print = moullañ
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Enrollañ ar bajenn evel PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Digeriñ ur prenestr prevez
 quickactions-cmd-private = Merdeiñ prevez
@@ -351,6 +354,7 @@ identity-connection-secure = Kennask suraet
 identity-connection-failure = Fazi kennaskañ
 identity-connection-internal = Ur bajenn { -brand-short-name } diarvar eo.
 identity-connection-file = War hoc'h urzhiataer eo kadavet ar bajenn-mañ.
+identity-connection-associated = Diwar ur bajenn all eo karget ar bajenn-mañ.
 identity-extension-page = Diwar un askouezh eo karget ar bajenn-mañ.
 identity-active-blocked = Stanket eo bet gant { -brand-short-name } lodennoù arvarus er bajennad.
 identity-custom-root = Gwiriet eo bet ar c'hennask hag ur pourchaser testenioù n'eo ket adanavezet gant Mozilla.
@@ -575,6 +579,8 @@ urlbar-result-action-search-w-engine = Klask gant { $engine }
 urlbar-result-action-sponsored = Paeroniet
 urlbar-result-action-switch-tab = Mont d'an ivinell
 urlbar-result-action-visit = Gweladenniñ
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Gweladenniñ adalek ho kolver
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -627,6 +633,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Oberoù prim
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Klaskoù nevesañ
 
 ## Reader View toolbar buttons
 
@@ -924,6 +935,24 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Askouezhioù
         Ul lodenn eus an askouezhioù n'int ket aotreet
+
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Paouez gant an estez prevez
+    .tooltiptext = Paouez gant an estez prevez
+reset-pbm-panel-heading = Lakaat un termen d'ho estez prevez?
+reset-pbm-panel-description = Serriñ an holl ivinelloù prevez ha skarzhañ ar roll istor, an toupinoù ha kement roadenn all eus al lec'hienn.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Goulenn bewech
+    .accesskey = G
+reset-pbm-panel-cancel-button =
+    .label = Nullañ
+    .accesskey = N
+reset-pbm-panel-confirm-button =
+    .label = Dilemel roadennoù an estez
+    .accesskey = D
+reset-pbm-panel-complete = Roadennoù an estez prevez dilamet
 
 ## Autorefresh blocker
 

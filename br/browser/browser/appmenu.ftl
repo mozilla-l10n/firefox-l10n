@@ -94,6 +94,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Goubredañ bremañ
 appmenuitem-fxa-sign-in = Kennaskañ ouzh { -brand-product-name }
 appmenuitem-fxa-manage-account = Merañ ar gont
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Kont
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -254,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Ostilhoù ar merdeer
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers
+appmenuitem-report-broken-site =
+    .label = Danevelliñ ul lec'hienn torret

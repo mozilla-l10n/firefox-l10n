@@ -10,3 +10,4 @@ expressionist-colorway-name = Ekspresionour
 visionary-colorway-name = Dreistweler
 activist-colorway-name = Stourmer
 dreamer-colorway-name = Huñvreour
+innovator-colorway-name = Nevesaer

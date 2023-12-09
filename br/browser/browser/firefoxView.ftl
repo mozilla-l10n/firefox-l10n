@@ -9,9 +9,13 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Serriñ
     .aria-label = Serriñ
+firefoxview-empty-state-icon =
+    .alt = Diwallit:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Diouzhtu
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -40,6 +44,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Goubredañ an ivinelloù digor
 firefoxview-syncedtabs-synctabs-header = Hizivait hoc’h arventennoù goubredañ
 firefoxview-syncedtabs-synctabs-description = Evit gwelet ivinelloù eus trevnadoù all ho peus ezhomm da c'houbredañ hoc’h ivinelloù digor.
 firefoxview-syncedtabs-synctabs-checkbox = Aotren an ivinelloù digor da c'houbredañ
+firefoxview-syncedtabs-loading-header = O c'houbredañ
 firefoxview-tabpickup-fxa-admin-disabled-header = Diweredekaet eo bet ar c'houbredañ gant hoc'h aozadur
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } n'eo ket gouest da c'houbredañ ivinelloù etre trevnadoù peogwir eo bet diweredekaet ar c'houbredañ gant ho merour.
 firefoxview-tabpickup-network-offline-header = Gweredekait oc'h kevreet mat ouzh internet
@@ -58,6 +63,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Enankañ ar ger-tremen pen
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Gouzout hiroc’h</a>
 firefoxview-tabpickup-signed-out-header = Kennaskit en-dro
 firefoxview-tabpickup-signed-out-description = Evit adkennaskañ ha tapout hoc’h ivinelloù, kennaskit ouzh ho { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Evit adkennaskañ ha tapout hoc'h ivinelloù, kennaskit ouzh ho kont.
 firefoxview-tabpickup-signed-out-primarybutton = Kennaskañ
 firefoxview-tabpickup-syncing = Gortozit e-pad ma vez goubredet hoc'h ivinelloù. Ne bado ket pell.
 firefoxview-mobile-promo-header = Adtapit ivinelloù ho pellgomz pe dablezenn
@@ -139,8 +145,44 @@ firefoxview-opentabs-focus-tab =
     .title = Mont d'an ivinell-mañ
 firefoxview-show-more = Diskouez muioc’h
 firefoxview-show-less = Diskouez nebeutoc’h
+firefoxview-search-text-box-clear-button =
+    .title = Skarzhañ
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Klask er roll istor
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Klask en ivinelloù nevez serret
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Klask en ivinelloù goubredet
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Klask en ivinelloù digor
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Disoc'hoù ar c'hlask evit "{ $query }"
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } lec'hienn
+        [two] { $count } lec'hienn
+        [few] { $count } lec'hienn
+        [many] { $count } lec'hienn
+       *[other] { $count } lec'hienn
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = N'ez eus bet kavet disoc'h ebet evit "{ $query }"
 firefoxview-sort-history-by-date-label = Rummañ dre zeiziad
 firefoxview-sort-history-by-site-label = Rummañ dre lec'hienn
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Mont da { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -195,5 +237,7 @@ firefoxview-recentlyclosed-empty-header = Serret ho peus un ivinell re abred?
 firefoxview-recentlyclosed-empty-description = Amañ e kavoc’h an ivinelloù serret nevez 'zo, evit gallout digeriñ anezho en-dro buan.
 firefoxview-recentlyclosed-empty-description-two = Evit kavout ivinelloù koshoc’h, sellit en ho <a data-l10n-name="history-url">roll istor merdeiñ</a>.
 
-##
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Ivinell digor ebet war an trevnad-mañ
+firefoxview-syncedtabs-connect-another-device = Kennaskañ un trevnad all

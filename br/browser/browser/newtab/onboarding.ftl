@@ -163,6 +163,12 @@ mr2022-onboarding-secondary-skip-button-label = Tremen ar bazenn-mañ
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Enrollañ ha kenderc'hel
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Lakaat { -brand-short-name } da verdeer dre-ziouer
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Enporzhiañ diouzh ar merdeer diwezhañ
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -180,30 +186,63 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Trugarez da vourrañ gant { -brand-product-name }
+mr2022-onboarding-existing-pin-checkbox-label = Lakait ouzhpenn merdeiñ prevez { -brand-short-name } ivez
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Lakait { -brand-short-name } evel ho merdeer pennañ
+mr2022-onboarding-set-default-primary-button-label = Lakaat { -brand-short-name } da verdeer dre ziouer
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = Staliañ en un nebeut eilennoù
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = Emporzhiañ diouzh ar merdeer diwezhañ
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Dibabit al liv a awen ac’hanoc’h
+mr2022-onboarding-colorway-subtitle = Mouezhioù dizalc’h a c'hall cheñch ur sevenadur.
+mr2022-onboarding-colorway-primary-button-label-continue = Arventennañ ha kenderc’hel
+mr2022-onboarding-existing-colorway-checkbox-label = Lakait { -firefox-home-brand-name } da vezañ ho pennbajenn livet
+mr2022-onboarding-colorway-label-default = Dre ziouer
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Livioù { -brand-short-name } a-vremañ
+mr2022-onboarding-colorway-description-default = <b>Ober gant ma livioù { -brand-short-name } a-vremañ.</b>
+mr2022-onboarding-colorway-label-expressionist = Eztaolour⋅ez
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Eztaolour⋅ez (melen)
+mr2022-onboarding-colorway-label-visionary = Dreistweler⋅ez
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Dreistweler⋅ez (gwer)
+mr2022-onboarding-colorway-label-activist = Stourmer⋅ez
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Stourmer⋅ez (glas)
+mr2022-onboarding-colorway-label-dreamer = Huñvreour⋅ez
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Huñvreour⋅ez (mouk)
+mr2022-onboarding-colorway-label-innovator = Nevesaer⋅ez
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Nevesaer⋅ez (orañjez)
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-no-mobile-download-cta-text = Skannit ar c'hod QR evit tapout { -brand-product-name } war ho pellgomzer hezoug.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Tapit frankiz ar merdeiñ prevez en ur c'hlik
 
 ## MR2022 Privacy Segmentation screen strings
 
@@ -219,4 +258,7 @@ mr2022-onboarding-pin-primary-button-label =
 
 
 ## Device migration onboarding
+
+
+## The following screens have been updated to use security and privacy focused strings:
 

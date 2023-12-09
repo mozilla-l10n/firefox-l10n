@@ -4,25 +4,20 @@
 
 fxviewtabrow-open-menu-button =
     .title = Digeriñ al lañser
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Digeriñ { $targetURI } en un ivinell nevez
-
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Skarzhañ { $tabTitle }
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Diouzhtu
 
@@ -44,3 +39,19 @@ fxviewtabrow-save-to-pocket = Enrollañ e{ -pocket-brand-name }
     .accesskey = E
 fxviewtabrow-copy-link = Eilañ an ere
     .accesskey = i
+fxviewtabrow-close-tab = Serriñ an ivinell
+    .accesskey = S
+fxviewtabrow-move-tab = Dilec'hiañ an ivinell
+    .accesskey = D
+fxviewtabrow-move-tab-start = Dilec'hiañ etrezek ar penn-kentañ
+    .accesskey = k
+fxviewtabrow-move-tab-end = Dilec'hiañ etrezek an dibenn
+    .accesskey = d
+fxviewtabrow-move-tab-window = Dilec'hiañ d'ur prenestr nevez
+    .accesskey = n
+fxviewtabrow-send-tab = Kas an ivinell d'un trevnad
+    .accesskey = K
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Dibarzhioù evit { $tabTitle }
