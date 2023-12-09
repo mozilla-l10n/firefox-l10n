@@ -190,6 +190,16 @@ media-codec-support-unsupported = 不支持
 media-codec-support-error = 无法获取编解码器支持信息，请在播放媒体文件后重试。
 media-codec-support-lack-of-extension = 安装扩展
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = 内容解密模块信息
+media-key-system-name = 密钥系统名称
+media-video-robustness = 视频稳定性
+media-audio-robustness = 音频稳定性
+media-cdm-capabilities = 功能
+
 ##
 
 intl-title = 国际化与本地化
