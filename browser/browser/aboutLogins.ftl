@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Crear un identificant novèl
+about-logins-page-title-name = Senhals
+about-logins-login-filter2 =
+    .placeholder = Recercar de senhals
+    .key = R
+create-login-button =
+    .title = Apondre un senhal
 fxaccounts-sign-in-text = Accedissètz a vòstres senhals sus vòstres periferics
 fxaccounts-sign-in-sync-button = Se connectar per sincronizar
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } de { $total } identificant
        *[other] { $count } de { $total } identificants
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } senhal
+       *[other] { $count } senhals
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } de { $total } senhal
+       *[other] { $count } de { $total } senhals
+    }
 login-list-sort-label-text = Triar per :
 login-list-name-option = Nom (A-Z)
 login-list-name-reverse-option = Nom (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Alèrtas
 login-list-last-changed-option = Darrièra modificacion
 login-list-last-used-option = Darrièra utilizacion
 login-list-intro-title = Cap d’identificant pas trobat
+login-list-intro-title2 = Cap de senhal pas salvat
 login-list-intro-description = Veiretz vòstre senhal aquí se lo gardatz dins { -brand-product-name }.
 about-logins-login-list-empty-search-title = Cap d’identificant pas trobat
+about-logins-login-list-empty-search-title2 = Cap de senhal pas trobat
 about-logins-login-list-empty-search-description = Cap de resultat per vòstra recèrca.
 login-list-item-title-new-login = Identificant novèl
 login-list-item-subtitle-new-login = Picatz vòstras informacions de connexion
+login-list-item-title-new-login2 = Apondre un senhal
 login-list-item-subtitle-missing-username = (Pas cap de nom d’utilizaire)
 about-logins-list-item-breach-icon =
     .title = Site amb contengut expausat al public
@@ -208,6 +232,12 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Suprimirà l’identificant qu’enregistrèretz dins { -brand-short-name } de totes los periferics sincronizats a vòstre { -fxaccount-brand-name }. Aquò suprimirà tanben las alèrtas de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
        *[other] Suprimirà totes los identificants qu’enregistrèretz dins { -brand-short-name } de totes los periferics sincronizats a vòstre { -fxaccount-brand-name }. Aquò suprimirà tanben las alèrtas de pèrda qu’apareis aquí. Poiretz pas anullar aquesta accion.
     }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] Aquò suprimirà l’identificant qu’enregistrèretz dins { -brand-short-name } de totes vòstres aparelhs sincronizats a aqueste compte. Poiriá levar las alèrtas de pèrdas de donadas qu’apareisson aicí. Aquesta accion es irreversibla.
+        [one] Aquò suprimirà l’identificant qu’enregistrèretz dins { -brand-short-name } de totes vòstres aparelhs sincronizats a aqueste compte. Poiriá levar las alèrtas de pèrdas de donadas qu’apareisson aicí. Aquesta accion es irreversibla.
+       *[other] Aquò suprimirà totes los identificants qu’enregistrèretz dins { -brand-short-name } de totes vòstres aparelhs sincronizats a aqueste compte. Poiriá levar las alèrtas de pèrdas de donadas qu’apareisson aicí. Aquesta accion es irreversibla.
+    }
 
 ##
 
@@ -268,6 +298,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importar fichièr d’identificants
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importar lo senhals dins { -brand-short-name }
 about-logins-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -301,6 +333,21 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Identificants en doble trobats :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(pas importats)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Senhal novèl apondut :</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Senhals novèls aponduts :</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Entrada existenta mesa a jorn :</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Entradas existentas mesas a jorn :</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Doblon trobat :</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(non importat)</span>
+       *[other] <span>Doblons trobats :</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(non importats)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Errors :</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(pas importats)</span>
@@ -321,6 +368,7 @@ about-logins-import-dialog-error-try-import-again = Ensajar d’importar de nòu
 about-logins-import-dialog-error-cancel = Anullar
 about-logins-import-report-title = Resumit d’importacion
 about-logins-import-report-description = Identificants e senhals importats dins { -brand-short-name }.
+about-logins-import-report-description2 = Senhals importats dins { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
