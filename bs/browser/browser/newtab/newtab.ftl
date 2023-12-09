@@ -22,12 +22,10 @@ newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Unesi naslov
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Upišite ili zalijepite URL
 newtab-topsites-url-validation = Potrebno je unijeti ispravan URL
-
 newtab-topsites-image-url-label = Prilagođena URL slika
 newtab-topsites-use-image-link = Koristite prilagođenu sliku…
 newtab-topsites-image-validation = Neuspjelo učitavanje slike. Probajte drugi URL.
@@ -107,15 +105,13 @@ newtab-label-removed-bookmark = Zabilješka uklonjena
 newtab-label-recommended = Popularno
 newtab-label-saved = Sačuvano u { -pocket-brand-name }
 newtab-label-download = Preuzeto
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponzorisano
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponzorisano od { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -137,18 +133,16 @@ newtab-section-menu-privacy-notice = Polica privatnosti
 
 newtab-section-header-topsites = Najposjećenije stranice
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Preporučeno od { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Započnite pretraživati i pokazat ćemo vam neke od izvrsnih članaka, videa i drugih web stranica prema vašim nedavno posjećenim stranicama ili zabilješkama.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Provjerite kasnije za više najpopularnijih priča od { $provider }. Ne možete čekati? Odaberite popularne teme kako biste pronašli više kvalitetnih priča s cijelog weba.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -158,10 +152,8 @@ newtab-empty-section-topstories = Provjerite kasnije za više najpopularnijih pr
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularne teme:
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -171,3 +163,4 @@ newtab-error-fallback-refresh-link = Osvježite stranicu da biste pokušali pono
 
 ## Customization Menu
 
+newtab-custom-close-button = Zatvori

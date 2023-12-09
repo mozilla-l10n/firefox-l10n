@@ -11,6 +11,13 @@ tab-context-play-tab =
 duplicate-tab =
     .label = Dupliciraj tab
     .accesskey = D
+# The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
+close-tabs-to-the-start =
+    .label = Zatvori tabove nalijevo
+    .accesskey = { "" }
+# The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = Zatvori tabove na desno
     .accesskey = i
@@ -26,7 +33,28 @@ unpin-tab =
 move-to-new-window =
     .label = Premjesti u novi prozor
     .accesskey = P
+tab-context-close-multiple-tabs =
+    .label = Zatvori više tabova
+    .accesskey = { "" }
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Otvori zatvorene tabove
+            [one] Otvori zatvoreni tab
+            [few] Otvori zatvorene tabove
+           *[other] Otvori zatvorene tabove
+        }
+    .accesskey = { "" }
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Zatvori tab
+            [one] Zatvori { $tabCount } taba
+            [few] Zatvori { $tabCount } taba
+           *[other] Zatvori tab
+        }
+    .accesskey = { "" }
