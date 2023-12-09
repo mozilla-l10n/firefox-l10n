@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = 開始除錯模式
 about-webrtc-debug-mode-on-state-label = 停止除錯模式
 about-webrtc-enable-logging-label = 開啟 WebRTC 保留紀錄
 about-webrtc-stats-heading = 使用階段統計
+about-webrtc-peerconnections-section-heading = RTCPeerConnection 統計資訊
+about-webrtc-peerconnections-section-show-msg = 顯示 RTCPeerConnection 統計資訊
+about-webrtc-peerconnections-section-hide-msg = 隱藏 RTCPeerConnection 統計資訊
 about-webrtc-stats-clear = 清除紀錄
 about-webrtc-log-heading = 連線記錄
 about-webrtc-log-clear = 清除紀錄
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = 提供
 about-webrtc-configuration-element-not-provided = 不提供
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = 使用者設定的 WebRTC 偏好設定
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = 使用者修改的 WebRTC 設定
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = 顯示使用者修改的 WebRTC 設定
+about-webrtc-user-modified-configuration-hide-msg = 隱藏使用者修改的 WebRTC 設定
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = 估計頻寬
 # The ID of the MediaStreamTrack
@@ -229,8 +243,6 @@ about-webrtc-aec-logging-off-state-msg = 捕捉到的記錄檔位於: { $path }
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = 已將頁面儲存至: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = 追蹤紀錄位於: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = 已進入除錯模式，追蹤紀錄位於: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -305,9 +317,6 @@ about-webrtc-hide-msg-sdp = 隱藏 SDP
 about-webrtc-media-context-show-msg = 顯示媒體內容環境
 about-webrtc-media-context-hide-msg = 隱藏媒體內容環境
 about-webrtc-media-context-heading = 媒體內容環境
-
-##
-
 
 ##
 
