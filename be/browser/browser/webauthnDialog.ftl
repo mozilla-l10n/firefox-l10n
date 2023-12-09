@@ -13,6 +13,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Няправільны PIN-код. Паспрабуйце зноў.
 webauthn-pin-required-prompt = Калі ласка, увядзіце PIN-код для вашай прылады.
 webauthn-select-sign-result-unknown-account = Невядомы ўліковы запіс
+webauthn-a-passkey-label = Выкарыстоўваць ключ доступу
+webauthn-another-passkey-label = Выкарыстаць іншы ключ доступу
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Ключ доступу для { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
