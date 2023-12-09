@@ -51,3 +51,4 @@ report-broken-site-panel-report-sent-text = Grazie per aiutare { -brand-product-
 
 report-broken-site-panel-invalid-url-label = Inserire un URL valido
 report-broken-site-panel-missing-reason-label = Scegliere un motivo
+

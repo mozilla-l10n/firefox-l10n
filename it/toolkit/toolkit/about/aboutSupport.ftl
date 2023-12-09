@@ -436,3 +436,4 @@ pointing-device-pen-digitizer = Penna digitale
 pointing-device-none = Nessuno dispositivo di puntamento
 
 
+
