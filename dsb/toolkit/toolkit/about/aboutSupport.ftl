@@ -196,6 +196,10 @@ media-key-system-name = Mě systemowego kluca
 media-video-robustness = Wideorobustnosć
 media-audio-robustness = Awdiorobustnosć
 media-cdm-capabilities = Zamóžnosći
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Zawod wuprozniś
 
 ##
 

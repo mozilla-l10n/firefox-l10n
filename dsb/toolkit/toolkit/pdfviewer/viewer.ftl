@@ -316,6 +316,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Tekst wótwónoźeś
 pdfjs-editor-remove-stamp-button =
     .title = Wobraz wótwónoźeś
+pdfjs-editor-remove-highlight-button =
+    .title = Wuzwignjenje wótpóraś
 
 ##
 
@@ -365,3 +367,22 @@ pdfjs-editor-resizer-label-bottom-right = Dołojce napšawo – wjelikosć změn
 pdfjs-editor-resizer-label-bottom-middle = Dołojce wesrjejź – wjelikosć změniś
 pdfjs-editor-resizer-label-bottom-left = Dołojce nalěwo – wjelikosć změniś
 pdfjs-editor-resizer-label-middle-left = Wesrjejź nalěwo – wjelikosć změniś
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Barwa wuzwignjenja
+pdfjs-editor-colorpicker-button =
+    .title = Barwu změniś
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Wuběrk barwow
+pdfjs-editor-colorpicker-yellow =
+    .title = Žołty
+pdfjs-editor-colorpicker-green =
+    .title = Zeleny
+pdfjs-editor-colorpicker-blue =
+    .title = Módry
+pdfjs-editor-colorpicker-pink =
+    .title = Pink
+pdfjs-editor-colorpicker-red =
+    .title = Cerwjeny
