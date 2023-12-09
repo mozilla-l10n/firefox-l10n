@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = הדיווח שלך נשלח
     .title = הדיווח שלך נשלח
 report-broken-site-panel-report-sent-text = תודה שעזרת ל־{ -brand-product-name } להפוך את האינטרנט פתוח, נגיש וטוב יותר עבור כולם.
+report-broken-site-panel-invalid-url-label = נא להכניס כתובת חוקית
+report-broken-site-panel-missing-reason-label = נא לבחור בסיבה
