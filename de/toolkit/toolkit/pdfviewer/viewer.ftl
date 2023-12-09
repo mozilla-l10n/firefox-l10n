@@ -361,3 +361,20 @@ pdfjs-editor-resizer-label-bottom-right = Rechte untere Ecke - Größe ändern
 pdfjs-editor-resizer-label-bottom-middle = Unten mittig - Größe ändern
 pdfjs-editor-resizer-label-bottom-left = Linke untere Ecke - Größe ändern
 pdfjs-editor-resizer-label-middle-left = Mitte links - Größe ändern
+
+## Color picker
+
+pdfjs-editor-colorpicker-button =
+    .title = Farbe ändern
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Farbauswahl
+pdfjs-editor-colorpicker-yellow =
+    .title = Gelb
+pdfjs-editor-colorpicker-green =
+    .title = Grün
+pdfjs-editor-colorpicker-blue =
+    .title = Blau
+pdfjs-editor-colorpicker-pink =
+    .title = Pink
+pdfjs-editor-colorpicker-red =
+    .title = Rot
