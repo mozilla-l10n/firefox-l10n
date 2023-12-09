@@ -187,6 +187,12 @@ media-codec-support-unsupported = Óstutt
 media-codec-support-error = Upplýsingar um stuðning við kóðunarlykil eru ekki tiltækar. Reyndu aftur eftir að hafa spilað margmiðlunarskrá.
 media-codec-support-lack-of-extension = Setja upp forritsauka
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-cdm-capabilities = Hæfni
+
 ##
 
 intl-title = Alþjóðavæðing og þýðingar
