@@ -376,6 +376,9 @@ about-logins-import-report-row-index = Linha { $number }
 about-logins-import-report-row-description-no-change = Doblon : correspondéncia exacta d’un identificant existent
 about-logins-import-report-row-description-modified = Identificant existent actualizat
 about-logins-import-report-row-description-added = Identificant novèl apondut
+about-logins-import-report-row-description-no-change2 = Doblon : correspondéncia exacta amb una entrada existenta
+about-logins-import-report-row-description-modified2 = Entrada existenta mesa a jorn
+about-logins-import-report-row-description-added2 = Senhal novèl apondut
 about-logins-import-report-row-description-error = Error : camp mancant
 
 ##
@@ -401,6 +404,14 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">identificant en doble</div> <div data-l10n-name="not-imported">(pas importat)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">identificants en doble</div> <div data-l10n-name="not-imported">(pas importats)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">senhals novèls aponduts</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">entradas existentas mesas a jorn</div>
     }
 about-logins-import-report-error =
     { $count ->

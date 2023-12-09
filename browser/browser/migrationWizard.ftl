@@ -68,6 +68,7 @@ migration-bookmarks-option-label = Marcapaginas
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favorits
 migration-logins-and-passwords-option-label = Identificants e senhals salvats
+migration-passwords-option-label = Senhals enregistrats
 migration-history-option-label = Istoric de navegacion
 migration-extensions-option-label = Extensions
 migration-form-autofill-option-label = Donadas d’emplenatge automatic
