@@ -190,6 +190,14 @@ media-codec-support-unsupported = Δεν υποστηρίζεται
 media-codec-support-error = Οι πληροφορίες υποστήριξης κωδικοποίησης δεν είναι διαθέσιμες. Δοκιμάστε ξανά μετά την αναπαραγωγή ενός αρχείου πολυμέσων.
 media-codec-support-lack-of-extension = Εγκατάσταση επέκτασης
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Πληροφορίες μονάδων αποκρυπτογράφησης περιεχομένου
+media-key-system-name = Όνομα συστήματος κλειδιών
+media-cdm-capabilities = Δυνατότητες
+
 ##
 
 intl-title = Διεθνοποίηση και μετάφραση
