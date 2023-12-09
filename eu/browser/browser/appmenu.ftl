@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Nabigatzailearen tresnak
 appmenu-developer-tools-extensions =
     .label = Garatzaileentzako hedapenak
+appmenuitem-report-broken-site =
+    .label = Eman hondatutako gunearen berri

@@ -68,6 +68,7 @@ migration-bookmarks-option-label = Laster-markak
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Gogokoak
 migration-logins-and-passwords-option-label = Gordetako saio-hasierak eta pasahitzak
+migration-passwords-option-label = Gordetako pasahitzak
 migration-history-option-label = Nabigatze-historia
 migration-extensions-option-label = Hedapenak
 migration-form-autofill-option-label = Inprimakien betetze automatikorako datuak
