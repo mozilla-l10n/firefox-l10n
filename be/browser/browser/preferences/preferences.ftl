@@ -717,6 +717,9 @@ sync-signedin-login-failure = Увайдіце, калі ласка, каб пе
 sync-resend-verification =
     .label = Паўторна адправіць пацвярджэнне
     .accesskey = т
+sync-verify-account =
+    .label = Пацвердзіць уліковы запіс
+    .accesskey = і
 sync-remove-account =
     .label = Выдаліць уліковы запіс
     .accesskey = з
@@ -783,6 +786,10 @@ sync-engine-logins-passwords =
     .label = Лагіны і паролі
     .tooltiptext = Уліковыя дадзеныя для ўваходу, якія вы захавалі
     .accesskey = Л
+sync-engine-passwords =
+    .label = Паролі
+    .tooltiptext = Паролі, якія вы захавалі
+    .accesskey = о
 sync-engine-addresses =
     .label = Адрасы
     .tooltiptext = Паштовыя адрасы, якія вы захавалі (толькі для камп'ютара)
@@ -791,6 +798,10 @@ sync-engine-creditcards =
     .label = Крэдытныя карты
     .tooltiptext = Імёны, нумары і тэрміны дзеяння (толькі для камп'ютара)
     .accesskey = К
+sync-engine-payment-methods =
+    .label = Спосабы аплаты
+    .tooltiptext = Назвы, нумары карт і тэрміны дзеяння (толькі для камп'ютара)
+    .accesskey = т
 sync-engine-addons =
     .label = Дадаткі
     .tooltiptext = Пашырэнні і тэмы для настольнага Firefox
@@ -1270,6 +1281,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS праз HTTPS
 preferences-doh-description = Сістэма даменных імёнаў (DNS) праз HTTPS адпраўляе ваш запыт на даменнае імя праз зашыфраванае злучэнне, ствараючы бяспечны DNS і ўскладняючы для іншых бачыць, да якога сайта вы збіраецеся атрымаць доступ.
+preferences-doh-description2 = Сістэма даменных імёнаў (DNS) праз HTTPS адпраўляе ваш запыт на даменнае імя праз зашыфраванае злучэнне, прадстаўляючы бяспечны DNS і ўскладняючы для іншых бачыць, да якога сайта вы збіраецеся атрымаць доступ.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Статус: { $status }
@@ -1286,6 +1298,7 @@ preferences-doh-status-disabled = Адключаны
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Неактыўны ({ $reason })
 preferences-doh-group-message = Уключыць бяспечны DNS з дапамогай:
+preferences-doh-group-message2 = Уключыць DNS праз HTTPS, выкарыстоўваючы:
 preferences-doh-expand-section =
     .tooltiptext = Дадатковая інфармацыя
 preferences-doh-setting-default =
