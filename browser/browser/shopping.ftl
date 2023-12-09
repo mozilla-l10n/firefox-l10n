@@ -190,6 +190,10 @@ shopping-onboarding-headline = Probeer onze vertrouwde gids voor productbeoordel
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Bekijk hoe betrouwbaar productbeoordelingen op <b>{ $currentSite }</b> zijn, voordat u een aankoop doet. Beoordelingscontrole, een experimentele functie van { -brand-product-name }, is rechtstreeks in de browser ingebouwd. Het werkt ook in <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Bekijk hoe betrouwbaar de productbeoordelingen op <b>{ $currentSite }</b> zijn voordat u koopt. Beoordelingscontrole, een experimentele functie van { -brand-product-name }, is rechtstreeks in de browser ingebouwd.
 shopping-onboarding-body = Met behulp van de kracht van { -fakespot-brand-full-name } helpen we u bevooroordeelde en niet-authentieke beoordelingen te voorkomen. Ons AI-model wordt voortdurend verbeterd om u te beschermen terwijl u winkelt. <a data-l10n-name="learn_more">Meer info</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Door ‘{ shopping-onboarding-opt-in-button }’ te selecteren, gaat u akkoord met het <a data-l10n-name="privacy_policy">privacybeleid</a> en  de <a data-l10n-name="terms_of_use">gebruiksvoorwaarden</a> van { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Door ‘{ shopping-onboarding-opt-in-button }’ te selecteren, gaat u akkoord met het <a data-l10n-name="privacy_policy">privacybeleid</a> en  de <a data-l10n-name="terms_of_use">gebruiksvoorwaarden</a> van { -fakespot-brand-name }.
