@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = 신고가 전송됨
     .title = 신고가 전송됨
 report-broken-site-panel-report-sent-text = { -brand-product-name }가 웹을 모두에게 더 개방적이고 접근 가능하며 더 나은 환경으로 만드는 데 도움을 주셔서 감사합니다.
+report-broken-site-panel-invalid-url-label = 올바른 URL을 입력하세요
+report-broken-site-panel-missing-reason-label = 이유를 선택하세요
