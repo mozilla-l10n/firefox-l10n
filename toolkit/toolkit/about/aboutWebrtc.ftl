@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Έναρξη λειτουργίας ε
 about-webrtc-debug-mode-on-state-label = Διακοπή λειτουργίας ελέγχου σφαλμάτων
 about-webrtc-enable-logging-label = Ενεργοποίηση προεπιλογής καταγραφής WebRTC
 about-webrtc-stats-heading = Στατιστικά συνεδρίας
+about-webrtc-peerconnections-section-heading = Στατιστικά RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Εμφάνιση στατιστικών RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Απόκρυψη στατιστικών RTCPeerConnection
 about-webrtc-stats-clear = Απαλοιφή ιστορικού
 about-webrtc-log-heading = Αρχείο καταγραφής σύνδεσης
 about-webrtc-log-clear = Απαλοιφή αρχείου καταγραφής
@@ -194,6 +197,13 @@ about-webrtc-configuration-element-provided = Παρέχεται
 about-webrtc-configuration-element-not-provided = Δεν παρέχεται
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Προτιμήσεις χρήστη για το WebRTC
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Εκτιμώμενο εύρος ζώνης
 # The ID of the MediaStreamTrack
@@ -300,9 +310,6 @@ about-webrtc-sdp-set-timestamp = Χρονική σήμανση { NUMBER($timesta
 
 about-webrtc-show-msg-sdp = Εμφάνιση SDP
 about-webrtc-hide-msg-sdp = Απόκρυψη SDP
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs

@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Η αναφορά σας έχει σταλεί
     .title = Η αναφορά σας έχει σταλεί
 report-broken-site-panel-report-sent-text = Σας ευχαριστούμε που βοηθήσατε το { -brand-product-name } να κάνει το διαδίκτυο πιο ανοικτό, προσβάσιμο και καλό για όλους.
+report-broken-site-panel-invalid-url-label = Παρακαλώ εισαγάγετε ένα έγκυρο URL
+report-broken-site-panel-missing-reason-label = Παρακαλώ επιλέξτε έναν λόγο
