@@ -197,10 +197,14 @@ about-webrtc-configuration-element-provided = Podaty
 about-webrtc-configuration-element-not-provided = NJepodaty
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = WebRTC-nastajenja wužiwarja
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Wot wužiwarja změnjena WebRTC-konfiguracija
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-show-msg = Wot wužiwarja změnjenu konfiguraciju pokazać
+about-webrtc-user-modified-configuration-hide-msg = Wot wužiwarja změnjenu konfiguraciju schować
 
 ##
 
