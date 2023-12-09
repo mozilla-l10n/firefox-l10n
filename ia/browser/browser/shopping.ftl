@@ -190,6 +190,10 @@ shopping-onboarding-headline = Prova nostre guida digne de fide pro recensiones 
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Vide quanto es fidabile le recensiones de producto sur<b> { $currentSite }</b> ante que tu compra. Verificator de recension, un function experimental de { -brand-product-name }, es producite solo in le navigator, e illo alsi functiona sur <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Vide quanto fidabile es le recensiones de producto sur <b>{ $currentSite }</b> ante que tu compra. Verificator de recension, un function experimental per { -brand-product-name }, es integrate justo in le navigator.
 shopping-onboarding-body = Per le potentia de { -fakespot-brand-full-name }, nos te adjuta a evitar recensiones prevenite e inauthentic. Nostre modello de intelligentia artificial sempre meliora pro proteger te dum tu compra. <a data-l10n-name="learn_more">Pro saper plus</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Seligente “{ shopping-onboarding-opt-in-button }“ tu concorda con le <a data-l10n-name="privacy_policy">politica de confidentialitate</a> e le <a data-l10n-name="terms_of_use">conditiones de uso de { -fakespot-brand-full-name }.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Seligente “{ shopping-onboarding-opt-in-button }“ tu concorda con le <a data-l10n-name="privacy_policy">politica de confidentialitate</a> e le <a data-l10n-name="terms_of_use">conditiones de uso de { -fakespot-brand-name }.</a>
