@@ -206,6 +206,10 @@ shopping-onboarding-dynamic-subtitle-1 =
         [with-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na stránkách <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce z { -brand-product-name(case: "gen") }, je zabudována přímo do prohlížeče. Funguje také na stránkách <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
        *[no-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na stránkách <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce od aplikace { -brand-product-name }, je zabudována přímo do prohlížeče. Funguje také na stránkách <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
     }
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce z { -brand-product-name }, je zabudována přímo do prohlížeče.
 shopping-onboarding-body = Pomocí funkce { -fakespot-brand-full-name } vám pomůžeme vyhnout se neobjektivním a neautentickým recenzím. Náš model umělé inteligence se neustále zdokonaluje, aby vás při nakupování chránil. <a data-l10n-name="learn_more">Dozvědět se více</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Výběrem možnosti “{ shopping-onboarding-opt-in-button }“ souhlasíte se <a data-l10n-name="privacy_policy">zásadami { -fakespot-brand-full-name(case: "gen") } pro ochranu osobních údajů</a> a <a data-l10n-name="terms_of_use">podmínkami používání.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Výběrem možnosti “{ shopping-onboarding-opt-in-button }“ souhlasíte se <a data-l10n-name="privacy_policy">zásadami { -fakespot-brand-name(case: "gen") } pro ochranu osobních údajů</a> a <a data-l10n-name="terms_of_use">podmínkami používání.</a>
