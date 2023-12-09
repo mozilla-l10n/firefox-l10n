@@ -192,6 +192,10 @@ shopping-onboarding-headline = Cytajśo naš dowěry gódny pśewodnik wó póg�
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Glědajśo, kak spušćobne produktowe pógódnośenja su na <b>{ $currentSite }</b>, nježli až kupujośo. Kontrola pógódnośenjow, eksperimentalna funkcija wót { -brand-product-name }, jo we wobglědowaku zatwarjona. Funkcioněrujo teke na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Glědajśo, kak spušćobne pógódnośenja produktow na <b>{ $currentSite }</b> su, nježli až produkty kupujośo. Kontrola pógódnośenjow, eksperimentalna funkcija z { -brand-product-name }, jo direktnje do wobglědowaka zatwarjona.
 shopping-onboarding-body = Z pomocu potenciala { -fakespot-brand-full-name }, pomagamy wam, se njeawtentiskich pógódnośenjow a pógódnośenjow połnych pśedsudkow wobinuś. Naš model KI se stawnje pólěpšujo, aby was šćitał, gaž nakupujośo. <a data-l10n-name="learn_more">Dalšne informacije</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Gaž “{ shopping-onboarding-opt-in-button }“ wuběraśo, zwólijośo do<a data-l10n-name="privacy_policy">pšawidłow priwatnosći</a> a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Gaž “{ shopping-onboarding-opt-in-button }“ wuběraśo, zwólijośo do<a data-l10n-name="privacy_policy">pšawidłow priwatnosći</a> a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-name }.
