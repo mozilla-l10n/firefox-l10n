@@ -333,6 +333,16 @@ about-logins-import-dialog-items-added2 =
         [one] <span>Nytt passord lagt til: </span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Nye passord lagt til: </span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Eksisterende elementer oppdatert:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Eksisterende elementer oppdatert:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Duplikate elementer funnet:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importert)</span >
+       *[other] <span>Duplikate elementer funnet:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importert)</span >
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Feil:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikke importert)</span>
@@ -388,6 +398,21 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplikate innlogginger</div> <div data-l10n-name="not-imported">(ikke importerrt)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nye passord lagt til</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nye passord lagt til</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eksisterende elementer oppdatert</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">eksisterende elementer oppdatert</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplikate elementer</div> <div data-l10n-name="not-imported">(ikke importert)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duplikate elementer</div> <div data-l10n-name="not-imported">(ikke importert)</div>
     }
 about-logins-import-report-error =
     { $count ->
