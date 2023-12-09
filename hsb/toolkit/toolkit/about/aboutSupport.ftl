@@ -191,10 +191,15 @@ media-codec-support-lack-of-extension = Rozšěrjenje instalować
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-content-decryption-modules-title = Informacije wo modulach wobsahoweho zaklučowanja
 media-key-system-name = Mjeno systemoweho kluča
 media-video-robustness = Widejorobustnosć
 media-audio-robustness = Awdiorobustnosć
 media-cdm-capabilities = Kmanosće
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Zawod wuprózdnić
 
 ##
 
