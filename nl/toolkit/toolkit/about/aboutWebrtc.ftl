@@ -197,10 +197,14 @@ about-webrtc-configuration-element-provided = Voorzien
 about-webrtc-configuration-element-not-provided = Niet voorzien
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Door gebruiker ingestelde WebRTC-voorkeuren
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Door gebruiker aangepaste WebRTC-configuratie
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-show-msg = Door gebruiker gewijzigde configuratie tonen
+about-webrtc-user-modified-configuration-hide-msg = Door gebruiker gewijzigde configuratie verbergen
 
 ##
 
