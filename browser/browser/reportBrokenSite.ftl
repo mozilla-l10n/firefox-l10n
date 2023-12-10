@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Vaša správa bola odoslaná
     .title = Vaša správa bola odoslaná
 report-broken-site-panel-report-sent-text = Ďakujeme, že pomáhate { -brand-product-name(case: "dat") } urobiť web otvorenejším, prístupnejším a lepším pre každého.
+report-broken-site-panel-invalid-url-label = Zadajte platnú adresu URL
+report-broken-site-panel-missing-reason-label = Vyberte dôvod

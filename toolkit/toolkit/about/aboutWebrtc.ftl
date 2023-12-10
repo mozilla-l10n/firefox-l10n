@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Spustiť režim ladenia
 about-webrtc-debug-mode-on-state-label = Zastaviť režim ladenia
 about-webrtc-enable-logging-label = Povoliť protokolovanie WebRTC
 about-webrtc-stats-heading = Štatistiky relácie
+about-webrtc-peerconnections-section-heading = Štatistiky RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Zobraziť štatistiky RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Skryť štatistiky RTCPeerConnection
 about-webrtc-stats-clear = Vymazať históriu
 about-webrtc-log-heading = Denník pripojenia
 about-webrtc-log-clear = Vymazať protokol
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Poskytnuté
 about-webrtc-configuration-element-not-provided = Neposkytnuté
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Používateľom nastavené predvoľby WebRTC
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Používateľom upravená konfigurácia WebRTC
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Zobraziť používateľom upravenú konfiguráciu
+about-webrtc-user-modified-configuration-hide-msg = Skryť používateľom upravenú konfiguráciu
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Odhadovaná šírka pásma
 # The ID of the MediaStreamTrack
@@ -229,8 +243,6 @@ about-webrtc-aec-logging-off-state-msg = zachytené záznamy je možné nájsť 
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Stránka uložená do: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Denník sledovania je možné nájsť tu: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Režim ladenia je aktivovaný, denník sledovania tu: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -315,9 +327,6 @@ about-webrtc-hide-msg-sdp = Skryť SDP
 about-webrtc-media-context-show-msg = Zobraziť kontext médií
 about-webrtc-media-context-hide-msg = Skryť kontext médií
 about-webrtc-media-context-heading = Informácie o kontexte médií
-
-##
-
 
 ##
 
