@@ -85,9 +85,16 @@ about-glean-adhoc-explanation =
     i korzystając z API <code>testGetValue()</code>, np.
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Aby przeprowadzić więcej testów <i>ad hoc</i>,
+    możesz także ustalić obecną wartość konkretnej części instrumentacji
+    otwierając konsolę programistyczną tutaj na stronie <code>about:glean</code>
+    i korzystając z API <code>testGetValue()</code>, np.
+    <code>Glean.metricCategory.metricName.testGetValue()</code> dla statystyki o nazwie <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Proszę pamiętać, że za pomocą konsoli programistycznej używane jest API Glean języka JavaScript.
-    Oznacza to, że kategoria i nazwa metryki jest sformatowana w konwencji <code>camelCase</code>, inaczej niż w API języków Rust i C++.
+    Oznacza to, że kategoria i nazwa statystyki jest sformatowana w konwencji <code>camelCase</code>, inaczej niż w API języków Rust i C++.
 controls-button-label-verbose = Zastosuj ustawienia i wyślij ping
 about-glean-about-data-header = Informacje o danych
 about-glean-about-data-explanation =
