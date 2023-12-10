@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Имконоти «Authenticator»
 about-webauthn-pin-section-title = Идоракунии рамзҳои PIN
 about-webauthn-credential-management-section-title = Идоракунии маълумоти корбар
 about-webauthn-pin-required-section-title = Рамзи PIN ҳатмӣ аст
+about-webauthn-confirm-deletion-section-title = Тасдиқи хориҷкунӣ
 
 ## Info field texts
 
@@ -27,6 +28,9 @@ about-webauthn-text-not-available = Дар ин платформа дастно�
 
 about-webauthn-results-success = Тайёр!
 about-webauthn-results-general-error = Хато!
+about-webauthn-results-pin-too-short-error = Хато: Рамзи PIN-и пешниҳодшуда хеле кутоҳ аст.
+about-webauthn-results-pin-too-long-error = Хато: Рамзи PIN-и пешниҳодшуда хеле дароз аст.
+about-webauthn-results-cancelled-by-user-error = Хато: Амалиёт аз тарафи корбар бекор карда шуд.
 
 ## Labels
 
@@ -36,6 +40,7 @@ about-webauthn-current-pin-label = Рамзи PIN-и ҷорӣ:
 about-webauthn-pin-required-label = Лутфан, рамзи PIN-и худро ворид намоед:
 about-webauthn-credential-list-subsection-title = Маълумоти корбар:
 about-webauthn-credential-list-empty = Ягон маълумоти корбар дар ин дастгоҳ ёфт нашуд.
+about-webauthn-confirm-deletion-label = Шумо зеринро нест мекунед:
 
 ## Buttons
 
@@ -68,6 +73,7 @@ about-webauthn-auth-info-pin-protocols = Протоколҳои рамзи PIN
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Васеъшавиҳо
+about-webauthn-auth-info-versions = Версияҳо
 # Shows when boolean value for an info field is True. True should not be translated.
 about-webauthn-auth-info-true = Дуруст
 # Shows when boolean value for an info field is False. False should not be translated.

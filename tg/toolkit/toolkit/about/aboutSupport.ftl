@@ -195,7 +195,14 @@ media-codec-support-lack-of-extension = Насб кардани васеъшав
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-key-system-name = Номи низоми калидӣ
+media-video-robustness = Тавонмандии видео
+media-audio-robustness = Тавонмандии аудио
 media-cdm-capabilities = Имкониятҳо
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Оғози рамзгузоринашуда
 
 ##
 

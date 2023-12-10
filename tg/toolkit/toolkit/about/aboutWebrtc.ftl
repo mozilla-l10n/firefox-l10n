@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Оғоз кардани реҷаи и�
 about-webrtc-debug-mode-on-state-label = Қатъ кардани реҷаи ислоҳи нуқсонҳо
 about-webrtc-enable-logging-label = Фаъол кардани танзими пешфарзи сабти рӯйдодҳои «WebRTC»
 about-webrtc-stats-heading = Омори ҷаласа
+about-webrtc-peerconnections-section-heading = Омори «RTCPeerConnection»
+about-webrtc-peerconnections-section-show-msg = Намоиш додани омори «RTCPeerConnection»
+about-webrtc-peerconnections-section-hide-msg = Пинҳон кардани омори «RTCPeerConnection»
 about-webrtc-stats-clear = Пок кардани таърих
 about-webrtc-log-heading = Сабти рӯйдодҳои пайваст
 about-webrtc-log-clear = Пок кардани сабти рӯйдодҳо
@@ -194,6 +197,13 @@ about-webrtc-configuration-element-provided = Таъмин шудааст
 about-webrtc-configuration-element-not-provided = Таъмин нашудааст
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Хусусиятҳои WebRTC-и танзими корбарӣ
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Ҳисоббарории паҳноии навор
 # The ID of the MediaStreamTrack
@@ -229,8 +239,6 @@ about-webrtc-aec-logging-off-state-msg = файлҳои сабти рӯйдод�
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Саҳифа ба масири зерин нигоҳ дошта шуд: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Сабти рӯйдодҳои пайгирӣ метавонад дар масири зерин пайдо шавад: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Реҷаи ислоҳи хатоҳо фаъол аст, сабти рӯйдодҳо дар: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -310,9 +318,6 @@ about-webrtc-hide-msg-sdp = Пинҳон кардани SDP
 about-webrtc-media-context-show-msg = Намоиш додани муҳтавои расона
 about-webrtc-media-context-hide-msg = Пинҳон кардани муҳтавои расона
 about-webrtc-media-context-heading = Муҳтавои расона
-
-##
-
 
 ##
 
