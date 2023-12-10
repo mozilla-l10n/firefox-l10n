@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Báo cáo của bạn đã được gửi
     .title = Báo cáo của bạn đã được gửi
 report-broken-site-panel-report-sent-text = Cảm ơn bạn đã giúp { -brand-product-name } làm cho web cởi mở hơn, dễ truy cập hơn và tốt hơn cho mọi người.
+report-broken-site-panel-invalid-url-label = Vui lòng nhập một URL hợp lệ
+report-broken-site-panel-missing-reason-label = Hãy chọn một lý do

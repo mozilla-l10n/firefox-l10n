@@ -304,6 +304,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Xóa văn bản
 pdfjs-editor-remove-stamp-button =
     .title = Xóa ảnh
+pdfjs-editor-remove-highlight-button =
+    .title = Xóa phần đánh dấu
 
 ##
 
@@ -353,3 +355,22 @@ pdfjs-editor-resizer-label-bottom-right = Dưới cùng bên phải — thay đ�
 pdfjs-editor-resizer-label-bottom-middle = Ở giữa dưới cùng — thay đổi kích thước
 pdfjs-editor-resizer-label-bottom-left = Góc dưới bên trái — thay đổi kích thước
 pdfjs-editor-resizer-label-middle-left = Ở giữa bên trái — thay đổi kích thước
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Màu đánh dấu
+pdfjs-editor-colorpicker-button =
+    .title = Thay đổi màu
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Lựa chọn màu sắc
+pdfjs-editor-colorpicker-yellow =
+    .title = Vàng
+pdfjs-editor-colorpicker-green =
+    .title = Xanh lục
+pdfjs-editor-colorpicker-blue =
+    .title = Xanh dương
+pdfjs-editor-colorpicker-pink =
+    .title = Hồng
+pdfjs-editor-colorpicker-red =
+    .title = Đỏ
