@@ -187,6 +187,12 @@ media-codec-support-unsupported = Không hỗ trợ
 media-codec-support-error = Không có thông tin Codec được hỗ trợ. Hãy thử lại sau khi phát tập tin phương tiện.
 media-codec-support-lack-of-extension = Cài đặt tiện ích mở rộng
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Thông tin module giải mã nội dung
+
 ##
 
 intl-title = Quốc tế hóa & bản địa hóa

@@ -190,6 +190,10 @@ shopping-onboarding-headline = Hãy thử hướng dẫn đáng tin cậy của 
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Xem đánh giá sản phẩm đáng tin cậy như thế nào trên <b>{ $currentSite }</b> trước khi bạn mua. Trình kiểm tra đánh giá, một tính năng thử nghiệm từ { -brand-product-name }, được tích hợp ngay vào trình duyệt. Nó cũng hoạt động trên <b>{ $secondSite }</b> và <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Xem đánh giá sản phẩm đáng tin cậy trên <b>{ $currentSite }</b> trước khi bạn mua. Trình kiểm tra đánh giá, một tính năng thử nghiệm từ { -brand-product-name }, được tích hợp ngay trong trình duyệt.
 shopping-onboarding-body = Sử dụng { -fakespot-brand-full-name }, chúng tôi giúp bạn tránh những đánh giá thiên vị và không xác thực. Mô hình AI của chúng tôi luôn cải tiến để bảo vệ bạn khi bạn mua sắm. <a data-l10n-name="learn_more">Tìm hiểu thêm</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Bằng việc chọn “{ shopping-onboarding-opt-in-button }“ bạn đồng ý với <a data-l10n-name="privacy_policy">chính sách riêng tư</a> và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Bằng cách lựa chọn “{ shopping-onboarding-opt-in-button }“ bạn đã đồng ý với <a data-l10n-name="privacy_policy">chính sách riêng tư</a> và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-name }.
