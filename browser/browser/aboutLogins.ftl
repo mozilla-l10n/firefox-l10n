@@ -84,7 +84,7 @@ login-list-last-changed-option = Ostatnia modyfikacja
 login-list-last-used-option = Ostatnie użycie
 login-list-intro-title = Brak danych logowania
 login-list-intro-title2 = Nie zachowano żadnych haseł
-login-list-intro-description = Tutaj będą wyświetlane hasła zachowane w przeglądarce { -brand-product-name }.
+login-list-intro-description = Tutaj będą wyświetlane hasła zachowane w { -brand-product-name(case: "loc") }.
 about-logins-login-list-empty-search-title = Nie odnaleziono danych logowania
 about-logins-login-list-empty-search-title2 = Nie odnaleziono żadnych haseł
 about-logins-login-list-empty-search-description = Brak wyników pasujących do wyszukiwania.
@@ -107,13 +107,13 @@ about-logins-list-section-week = Ostatnie 7 dni
 
 about-logins-login-intro-heading-logged-out2 = Szukasz swoich zachowanych haseł? Włącz synchronizację lub je zaimportuj.
 about-logins-login-intro-heading-logged-in = Brak synchronizowanych danych logowania.
-login-intro-description = Aby przenieść tutaj dane logowania zachowane w przeglądarce { -brand-product-name } na innym urządzeniu:
+login-intro-description = Aby przenieść tutaj dane logowania zachowane w { -brand-product-name(case: "loc") } na innym urządzeniu:
 login-intro-instructions-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand-name(case: "loc", capitalization: "lower") } na urządzeniu, w którym zachowano dane logowania.
 login-intro-instructions-fxa2 = Zarejestruj się lub zaloguj na koncie na urządzeniu, w którym zachowano dane logowania.
 login-intro-instructions-fxa-settings = Otwórz Ustawienia → Synchronizacja → Włącz synchronizację… i zaznacz pole „dane logowania i hasła”.
 login-intro-instructions-fxa-passwords-help = <a data-l10n-name="passwords-help-link">Pomoc na temat haseł</a> zawiera więcej informacji.
-about-logins-intro-browser-only-import = Jeśli dane logowania są zachowane w innej przeglądarce, możesz <a data-l10n-name="import-link">zaimportować je do przeglądarki { -brand-product-name }</a>
-about-logins-intro-import2 = Jeśli dane logowania są zachowane poza przeglądarką { -brand-product-name }, możesz <a data-l10n-name="import-browser-link">zaimportować je z innej przeglądarki</a> lub <a data-l10n-name="import-file-link">z pliku</a>
+about-logins-intro-browser-only-import = Jeśli dane logowania są zachowane w innej przeglądarce, możesz <a data-l10n-name="import-link">zaimportować je do { -brand-product-name(case: "gen") }</a>
+about-logins-intro-import2 = Jeśli dane logowania są zachowane poza { -brand-product-name(case: "ins") }, możesz <a data-l10n-name="import-browser-link">zaimportować je z innej przeglądarki</a> lub <a data-l10n-name="import-file-link">z pliku</a>
 
 ## Login
 
@@ -222,10 +222,10 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [one] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [few] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-       *[many] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [1] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [one] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [few] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[many] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
@@ -235,17 +235,17 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [one] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [few] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-       *[many] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [1] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [one] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [few] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[many] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
     }
 about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
-        [1] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [one] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [few] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-       *[many] Spowoduje to usunięcie danych logowania zachowanych w przeglądarce { -brand-short-name } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [1] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [one] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+        [few] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[many] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
     }
 
 ##
@@ -283,7 +283,7 @@ about-logins-vulnerable-alert-learn-more-link = Więcej informacji
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = Dane logowania dla witryny „{ $loginTitle }” z tą nazwą użytkownika już istnieją. <a data-l10n-name="duplicate-link">Przejść do istniejących danych?</a>
+about-logins-error-message-duplicate-login-with-link = Dane logowania dla witryny { $loginTitle } z tą nazwą użytkownika już istnieją. <a data-l10n-name="duplicate-link">Przejść do istniejących danych?</a>
 # This is a generic error message.
 about-logins-error-message-default = Wystąpił błąd podczas zapisywania tego hasła.
 
@@ -342,6 +342,24 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Odnaleziono podwójne dane logowania:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nie zaimportowano)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Dodano nowe hasło:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Dodano nowe hasła:</span> <span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Dodano nowe hasła:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Zaktualizowano istniejące dane logowania:</span> <span data-l10n-name="count">{ $count }</span>
+        [few] <span>Zaktualizowano istniejące dane logowania:</span> <span data-l10n-name="count">{ $count }</span>
+       *[many] <span>Zaktualizowano istniejące dane logowania:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Odnaleziono podwójne dane logowania:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nie zaimportowano)</span>
+        [few] <span>Odnaleziono podwójne dane logowania:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nie zaimportowano)</span>
+       *[many] <span>Odnaleziono podwójne dane logowania:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nie zaimportowano)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Błędy:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nie zaimportowano)</span>
@@ -361,7 +379,8 @@ about-logins-import-dialog-error-learn-more = Więcej informacji
 about-logins-import-dialog-error-try-import-again = Spróbuj zaimportować ponownie…
 about-logins-import-dialog-error-cancel = Anuluj
 about-logins-import-report-title = Podsumowanie importowania
-about-logins-import-report-description = Dane logowania i hasła zaimportowane do przeglądarki { -brand-short-name }.
+about-logins-import-report-description = Dane logowania i hasła zaimportowane do { -brand-short-name(case: "gen") }.
+about-logins-import-report-description2 = Hasła zaimportowane do { -brand-short-name(case: "gen") }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -369,6 +388,9 @@ about-logins-import-report-row-index = { $number }. wiersz
 about-logins-import-report-row-description-no-change = Duplikat: dokładnie pasuje do istniejących danych logowania
 about-logins-import-report-row-description-modified = Zaktualizowano istniejące dane logowania
 about-logins-import-report-row-description-added = Dodano nowe dane logowania
+about-logins-import-report-row-description-no-change2 = Duplikat: dokładnie pasuje do istniejących danych logowania
+about-logins-import-report-row-description-modified2 = Zaktualizowano istniejące dane logowania
+about-logins-import-report-row-description-added2 = Dodano nowe hasło
 about-logins-import-report-row-description-error = Błąd: brak pola
 
 ##
@@ -395,6 +417,24 @@ about-logins-import-report-modified =
        *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Zaktualizowane istniejące dane logowania</div>
     }
 about-logins-import-report-no-change =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Podwójne dane logowania</div> <div data-l10n-name="not-imported">(nie zaimportowano)</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Podwójne dane logowania</div> <div data-l10n-name="not-imported">(nie zaimportowano)</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Podwójne dane logowania</div> <div data-l10n-name="not-imported">(nie zaimportowano)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dodane nowe hasło</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dodane nowe hasła</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Dodane nowe hasła</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Zaktualizowane istniejące dane logowania</div>
+        [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Zaktualizowane istniejące dane logowania</div>
+       *[many] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Zaktualizowane istniejące dane logowania</div>
+    }
+about-logins-import-report-no-change2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Podwójne dane logowania</div> <div data-l10n-name="not-imported">(nie zaimportowano)</div>
         [few] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Podwójne dane logowania</div> <div data-l10n-name="not-imported">(nie zaimportowano)</div>
