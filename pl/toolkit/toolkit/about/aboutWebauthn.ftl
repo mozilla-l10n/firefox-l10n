@@ -79,7 +79,7 @@ about-webauthn-auth-option-plat = Urządzenie systemowe
 about-webauthn-auth-option-pinuvauthtoken = Uprawnienia do poleceń (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Brak uprawnień MakeCredential/GetAssertion z PIN-em klienta
-about-webauthn-auth-option-largeblobs = Duże dane
+about-webauthn-auth-option-largeblobs = Duże dane typu „blob”
 about-webauthn-auth-option-ep = Poświadczenie firmowe
 about-webauthn-auth-option-bioenroll = Rejestracja biometryczna
 # FIDO_2_1_PRE should not be translated.
@@ -109,11 +109,17 @@ about-webauthn-auth-info-certifications = Certyfikacje
 about-webauthn-auth-info-uv-modality = Modalność weryfikacji użytkownika
 about-webauthn-auth-info-preferred-platform-uv-attempts = Próby weryfikacji użytkownika preferowanego systemu
 about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maksymalne identyfikatory stron zależnych dla ustawionej minimalnej długości PIN-u
+about-webauthn-auth-info-max-cred-blob-length = Maksymalna długość danych uwierzytelniających typu „blob”
 about-webauthn-auth-info-firmware-version = Wersja oprogramowania sprzętowego
 about-webauthn-auth-info-min-pin-length = Minimalna długość PIN-u
 about-webauthn-auth-info-force-pin-change = Wymuś zmianę PIN-u
+about-webauthn-auth-info-max-ser-large-blob-array = Maksymalny rozmiar tablicy dużych danych typu „blob”
 about-webauthn-auth-info-algorithms = Algorytmy
+about-webauthn-auth-info-transports = Transporty
+about-webauthn-auth-info-max-credential-id-length = Maksymalna długość identyfikatora danych uwierzytelniających
+about-webauthn-auth-info-max-credential-count-in-list = Maksymalna liczba danych uwierzytelniających na liście
 about-webauthn-auth-info-pin-protocols = Protokoły PIN
+about-webauthn-auth-info-max-msg-size = Maksymalny rozmiar komunikatu
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Rozszerzenia
