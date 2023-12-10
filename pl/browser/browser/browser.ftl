@@ -279,6 +279,9 @@ quickactions-cmd-plugins = wtyczki
 # Opens the print dialog
 quickactions-print2 = Drukuj stronę
 quickactions-cmd-print = drukuj, wydrukuj
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Zapisz stronę jako PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otwórz okno prywatne
 quickactions-cmd-private = tryb prywatny, przeglądanie prywatne, okno prywatne, incognito, tryb incognito
@@ -349,6 +352,7 @@ identity-connection-secure = Zabezpieczone połączenie
 identity-connection-failure = Błąd połączenia
 identity-connection-internal = To jest bezpieczna strona { -brand-short-name(case: "gen") }.
 identity-connection-file = Strona wczytana z tego komputera.
+identity-connection-associated = Ta strona została wczytana z innej strony.
 identity-extension-page = Ta strona została wczytana przez rozszerzenie.
 identity-active-blocked = { -brand-short-name } zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.
 identity-custom-root = Połączenie zweryfikowane przez wystawcę certyfikatu, który nie jest rozpoznawany przez Mozillę.
@@ -567,8 +571,6 @@ urlbar-result-action-search-w-engine = szukaj w { $engine }
 urlbar-result-action-sponsored = sponsorowane
 urlbar-result-action-switch-tab = przełącz na kartę
 urlbar-result-action-visit = otwórz stronę
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = otwórz stronę ze schowka
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = otwórz stronę ze schowka
 # Directs a user to press the Tab key to perform a search with the specified
