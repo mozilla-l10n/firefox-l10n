@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Luo uusi kirjautumistieto
+about-logins-page-title-name = Salasanat
+about-logins-login-filter2 =
+    .placeholder = Etsi salasanoja
+    .key = E
+create-login-button =
+    .title = Lisää salasana
 fxaccounts-sign-in-text = Käytä salasanojasi kaikilla laitteillasi
 fxaccounts-sign-in-sync-button = Kirjaudu synkronoidaksesi
 fxaccounts-avatar-button =
@@ -45,6 +51,21 @@ login-list-filtered-count =
         [one] { $count }/{ $total } kirjautumistieto
        *[other] { $count }/{ $total } kirjautumistietoa
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } salasana
+       *[other] { $count } salasanaa
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count }/{ $total } salasana
+       *[other] { $count }/{ $total } salasanaa
+    }
 login-list-sort-label-text = Järjestys:
 login-list-name-option = Nimi (A–Ö)
 login-list-name-reverse-option = Nimi (Ö–A)
@@ -54,11 +75,14 @@ about-logins-login-list-alerts-option = Hälytykset
 login-list-last-changed-option = Viimeksi muokattu
 login-list-last-used-option = Viimeksi käytetty
 login-list-intro-title = Kirjautumistietoja ei löytynyt
+login-list-intro-title2 = Salasanoja ei ole tallennettu
 login-list-intro-description = Kun tallennat salasanan { -brand-product-name }-selaimeen, se ilmestyy tänne.
 about-logins-login-list-empty-search-title = Kirjautumistietoja ei löytynyt
+about-logins-login-list-empty-search-title2 = Salasanoja ei löytynyt
 about-logins-login-list-empty-search-description = Hakuasi vastaavia tuloksia ei löytynyt.
 login-list-item-title-new-login = Uusi kirjautumistieto
 login-list-item-subtitle-new-login = Anna kirjautumistietosi
+login-list-item-title-new-login2 = Lisää salasana
 login-list-item-subtitle-missing-username = (ei käyttäjätunnusta)
 about-logins-list-item-breach-icon =
     .title = Tietovuodon kokenut sivusto
@@ -266,6 +290,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Tuo kirjautumistietojen tiedosto
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Tuo salasanat { -brand-short-name }iin
 about-logins-import-file-picker-import-button = Tuo
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -299,6 +325,18 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Löydettiin kirjautumistietojen kopioita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei tuotu)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] <span>Uusia salasanoja lisätty:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+       *[other] <span>Olemassa olevia kohteita päivitetty:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+       *[other] <span>Löytyneitä kaksoiskappaleita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei tuotu)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Virheitä:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ei tuotu)</span>
@@ -319,6 +357,7 @@ about-logins-import-dialog-error-try-import-again = Yritä tuontia uudelleen…
 about-logins-import-dialog-error-cancel = Peruuta
 about-logins-import-report-title = Tuonnin yhteenveto
 about-logins-import-report-description = { -brand-short-name }iin tuotavat käyttäjätunnukset ja salasanat.
+about-logins-import-report-description2 = Salasanat tuotu { -brand-short-name }iin.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -326,6 +365,9 @@ about-logins-import-report-row-index = Rivi { $number }
 about-logins-import-report-row-description-no-change = Kopio: Olemassa olevan kirjautumistiedon tarkka kopio
 about-logins-import-report-row-description-modified = Olemassa oleva kirjautumistieto päivitetty
 about-logins-import-report-row-description-added = Uusi kirjautumistieto lisätty
+about-logins-import-report-row-description-no-change2 = Kaksoiskappale: täysin vastaava olemassa oleva kohde
+about-logins-import-report-row-description-modified2 = Olemassa oleva kohde päivitetty
+about-logins-import-report-row-description-added2 = Uusi salasana lisätty
 about-logins-import-report-row-description-error = Virhe: Puuttuva kenttä
 
 ##
@@ -350,6 +392,18 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">kirjautumistietojen kopiota</div> <div data-l10n-name="not-imported">(ei tuotu)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">uutta salasanaa lisätty</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">olemassa olevaa kohdetta päivitetty</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">kaksoiskappaletta</div> <div data-l10n-name="not-imported">(ei tuotu)</div>
     }
 about-logins-import-report-error =
     { $count ->

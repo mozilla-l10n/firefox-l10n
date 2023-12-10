@@ -26,6 +26,7 @@ about-webauthn-results-success = Onnistui!
 about-webauthn-results-general-error = Virhe!
 about-webauthn-results-pin-too-short-error = Virhe: Annettu PIN on liian lyhyt.
 about-webauthn-results-pin-too-long-error = Virhe: Annettu PIN on liian pitkä.
+about-webauthn-results-cancelled-by-user-error = Virhe: Käyttäjä on perunut toiminnon.
 
 ## Labels
 
@@ -33,6 +34,9 @@ about-webauthn-new-pin-label = Uusi PIN-koodi:
 about-webauthn-repeat-pin-label = Toista uusi PIN-koodi:
 about-webauthn-current-pin-label = Nykyinen PIN-koodi:
 about-webauthn-pin-required-label = Anna PIN-koodisi:
+about-webauthn-credential-list-subsection-title = Kirjautumistiedot:
+about-webauthn-credential-list-empty = Laitteelta ei löytynyt kirjautumistietoja.
+about-webauthn-confirm-deletion-label = Olet poistamassa:
 
 ## Buttons
 
