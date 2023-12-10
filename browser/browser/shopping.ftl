@@ -190,6 +190,10 @@ shopping-onboarding-headline = Vyskúšajte nášho dôveryhodného sprievodcu r
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Pred nákupom sa presvedčte, aké spoľahlivé sú recenzie produktov na stránkach <b>{ $currentSite }</b>. Kontrola recenzií je experimentálna funkcia zabudovaná priamo do prehliadača { -brand-product-name }. Funguje aj v obchodoch <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Pred nákupom sa presvedčte, aké spoľahlivé sú recenzie produktov predajcu <b>{ $currentSite }</b>. Kontrola recenzií, experimentálna funkcia { -brand-product-name(case: "gen") }, je zabudovaná priamo do prehliadača.
 shopping-onboarding-body = Využitím sily { -fakespot-brand-full-name } vám pomôžeme vyhnúť sa neobjektívnym a neautentickým recenziám. Náš model AI sa neustále zlepšuje, aby vás chránil pri nakupovaní. <a data-l10n-name="learn_more">Ďalšie informácie</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Kliknutím na tlačidlo “{ shopping-onboarding-opt-in-button }“ súhlasíte so <a data-l10n-name="privacy_policy">Zásadami ochrany osobných údajov</a> a <a data-l10n-name="terms_of_use">Podmienkami používania</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Kliknutím na tlačidlo “{ shopping-onboarding-opt-in-button }“ súhlasíte so <a data-l10n-name="privacy_policy">Zásadami ochrany osobných údajov</a> a <a data-l10n-name="terms_of_use">Podmienkami používania</a> { -fakespot-brand-name }.
