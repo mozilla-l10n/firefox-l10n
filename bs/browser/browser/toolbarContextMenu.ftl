@@ -12,7 +12,7 @@ toolbar-context-menu-reopen-closed-tabs =
             [few] Otvori zatvorene tabove
            *[other] Otvori zatvorene tabove
         }
-    .accesskey = { "" }
+    .accesskey = z
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
