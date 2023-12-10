@@ -312,6 +312,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Poista teksti
 pdfjs-editor-remove-stamp-button =
     .title = Poista kuva
+pdfjs-editor-remove-highlight-button =
+    .title = Poista korostus
 
 ##
 
@@ -361,3 +363,22 @@ pdfjs-editor-resizer-label-bottom-right = Oikea alakulma - muuta kokoa
 pdfjs-editor-resizer-label-bottom-middle = Alhaalla keskellä - muuta kokoa
 pdfjs-editor-resizer-label-bottom-left = Vasen alakulma - muuta kokoa
 pdfjs-editor-resizer-label-middle-left = Keskellä vasemmalla - muuta kokoa
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Korostusväri
+pdfjs-editor-colorpicker-button =
+    .title = Vaihda väri
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Värivalinnat
+pdfjs-editor-colorpicker-yellow =
+    .title = Keltainen
+pdfjs-editor-colorpicker-green =
+    .title = Vihreä
+pdfjs-editor-colorpicker-blue =
+    .title = Sininen
+pdfjs-editor-colorpicker-pink =
+    .title = Pinkki
+pdfjs-editor-colorpicker-red =
+    .title = Punainen

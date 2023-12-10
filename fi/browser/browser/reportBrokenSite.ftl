@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Raporttisi on lähetetty
     .title = Raporttisi on lähetetty
 report-broken-site-panel-report-sent-text = Kiitos, että autat { -brand-product-name }ia tekemään verkosta avoimemman, helppokäyttöisemmän ja paremman kaikille.
+report-broken-site-panel-invalid-url-label = Kirjoita kelvollinen URL-osoite
+report-broken-site-panel-missing-reason-label = Valitse syy
