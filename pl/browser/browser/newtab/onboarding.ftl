@@ -331,3 +331,15 @@ onboarding-device-migration-title = Witamy z powrotem!
 onboarding-device-migration-subtitle = Zaloguj się na { -fxaccount-brand-name(case: "loc", capitalization: "lower") }, aby przenieść swoje zakładki, hasła i historię na nowe urządzenie.
 onboarding-device-migration-subtitle2 = Zaloguj się na swoje konto, aby przenieść zakładki, hasła i historię na nowe urządzenie.
 onboarding-device-migration-primary-button-label = Zaloguj się
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Uwielbiamy zapewniać Ci bezpieczeństwo
+onboarding-easy-setup-security-and-privacy-subtitle = Nasza przeglądarka wspierana przez organizację non-profit pomaga powstrzymywać firmy przed potajemnym śledzeniem Cię w Internecie.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Nie trać szyfrowania podczas przełączania się między urządzeniami
+onboarding-mobile-download-security-and-privacy-subtitle = Po synchronizacji { -brand-short-name } szyfruje Twoje hasła, zakładki i inne dane. Możesz też otwierać karty z pozostałych swoich urządzeń.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } jest po Twojej stronie
+onboarding-gratitude-security-and-privacy-subtitle = Dziękujemy za używanie { -brand-short-name(case: "gen") }, wspieranego przez Mozilla Foundation. Z waszą pomocą pracujemy nad tym, aby Internet był bezpieczniejszy i bardziej dostępny dla wszystkich.
