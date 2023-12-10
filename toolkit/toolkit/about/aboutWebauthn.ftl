@@ -80,7 +80,7 @@ about-webauthn-auth-option-plat = Zariadenie platformy
 about-webauthn-auth-option-pinuvauthtoken = Príkazové povolenia (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Žiadne povolenia MakeCredential / GetAssertion s kódom PIN klienta
-about-webauthn-auth-option-largeblobs = Veľké blobs
+about-webauthn-auth-option-largeblobs = Veľké bloby
 about-webauthn-auth-option-ep = Podniková atestácia
 about-webauthn-auth-option-bioenroll = Biometrický zápis
 # FIDO_2_1_PRE should not be translated.
@@ -89,6 +89,7 @@ about-webauthn-auth-option-uvbioenroll = Povolenie na biometrickú registráciu
 about-webauthn-auth-option-authnrcfg = Konfigurácia autentifikátora
 about-webauthn-auth-option-uvacfg = Nastavenia oprávnení autentifikátora
 about-webauthn-auth-option-credmgmt = Správa prihlasovacích údajov
+about-webauthn-auth-option-credentialmgmtpreview = Správa poverení prototypu
 about-webauthn-auth-option-setminpinlength = Nastaviť minimálnu dĺžku PIN
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential bez overenia používateľa
@@ -103,8 +104,12 @@ about-webauthn-auth-option-null = Nepodporované
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Konfiguračné príkazy prototypu dodávateľa
+about-webauthn-auth-info-remaining-discoverable-credentials = Zostávajúce zistiteľné poverenia
 about-webauthn-auth-info-certifications = Certifikácie
 about-webauthn-auth-info-uv-modality = Spôsob overenia používateľa
+about-webauthn-auth-info-preferred-platform-uv-attempts = Pokusy o overenie používateľov preferovanej platformy
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maximálne ID spoliehajúcej sa strany pre nastavenú minimálnu dĺžku PIN
 about-webauthn-auth-info-max-cred-blob-length = Maximálna dĺžka blobu poverení
 about-webauthn-auth-info-firmware-version = Verzia firmvéru
 about-webauthn-auth-info-min-pin-length = Minimálna dĺžka PIN
