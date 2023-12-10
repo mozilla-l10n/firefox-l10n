@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Rozpocznij debugowanie
 about-webrtc-debug-mode-on-state-label = Zatrzymaj debugowanie
 about-webrtc-enable-logging-label = Włącz ustawienie dziennika WebRTC
 about-webrtc-stats-heading = Statystyki sesji
+about-webrtc-peerconnections-section-heading = Statystyki RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Pokaż statystyki RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Ukryj statystyki RTCPeerConnection
 about-webrtc-stats-clear = Wyczyść historię
 about-webrtc-log-heading = Dziennik połączenia
 about-webrtc-log-clear = Wyczyść dziennik
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Podano
 about-webrtc-configuration-element-not-provided = Nie podano
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferencje WebRTC ustawione przez użytkownika
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Konfiguracja WebRTC zmodyfikowana przez użytkownika
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Pokaż konfigurację zmodyfikowaną przez użytkownika
+about-webrtc-user-modified-configuration-hide-msg = Ukryj konfigurację zmodyfikowaną przez użytkownika
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Szacowana przepustowość
 # The ID of the MediaStreamTrack
@@ -229,8 +243,6 @@ about-webrtc-aec-logging-off-state-msg = Pliki dziennika znajdują się w katal
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Strona zapisana jako { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Dziennik debugowania jest zapisywany w pliku { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Debugowanie aktywne, dziennik w { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -315,9 +327,6 @@ about-webrtc-hide-msg-sdp = Ukryj informacje SDP
 about-webrtc-media-context-show-msg = Pokaż kontekst mediów
 about-webrtc-media-context-hide-msg = Ukryj kontekst mediów
 about-webrtc-media-context-heading = Kontekst mediów
-
-##
-
 
 ##
 
