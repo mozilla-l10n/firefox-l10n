@@ -381,6 +381,8 @@ about-logins-import-report-row-description-no-change = Duplicado: Coincidencia e
 about-logins-import-report-row-description-modified = Inicio de sesión existente actualizado
 about-logins-import-report-row-description-added = Nuevo inicio de sesión añadido
 about-logins-import-report-row-description-no-change2 = Duplicado: coincidencia exacta con elemento existente
+about-logins-import-report-row-description-modified2 = Elemento existente actualizado
+about-logins-import-report-row-description-added2 = Nueva contraseña añadida
 about-logins-import-report-row-description-error = Error: Campo faltante
 
 ##
@@ -407,6 +409,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicio de sesión duplicado</div> <div data-l10n-name="not-imported">(no importado)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión duplicados</div> <div data-l10n-name="not-imported">(no importado)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nueva contraseña añadida</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nuevas contraseñas añadidas</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Elemento existente actualizado</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Elementos existentes actualizados</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Elemento duplicado</div> <div data-l10n-name="not-imported">(no importado)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Elementos duplicados</div> <div data-l10n-name="not-imported">(no importados)</div>
     }
 about-logins-import-report-error =
     { $count ->
