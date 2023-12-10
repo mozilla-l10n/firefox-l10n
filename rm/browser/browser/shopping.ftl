@@ -192,6 +192,10 @@ shopping-onboarding-headline = Emprova noss guid fidà per recensiuns da product
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Ve a savair quant fidablas che recensiuns da products èn sin <b>{ $currentSite }</b> avant che ti als cumpras. La verificaziun da recensiuns, ina funcziun experimentala da { -brand-product-name }, è integrada directamain en il navigatur. Quai funcziuna cun <b>{ $secondSite }</b> ed era cun <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Ve a savair quant fidablas che las recensiuns dals products èn sin <b>{ $currentSite }</b> avant che ti als cumpras. La verificaziun da recensiuns, ina funcziun experimentala da { -brand-product-name }, è integrada directamain en il navigatur.
 shopping-onboarding-body = Nus duvrain il potenzial da { -fakespot-brand-full-name } per ta gidar ad evitar recensiuns nunautenticas e tendenziusas. Noss model dad intelligenza artifiziala vegn meglierà permanentamain per ta proteger durant che ti fas cumpras. <a data-l10n-name="learn_more">Ulteriuras infurmaziuns</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Cun tscherner «{ shopping-onboarding-opt-in-button }» acceptas ti las <a data-l10n-name="privacy_policy">directivas per la protecziun da datas</a>  e las <a data-l10n-name="terms_of_use">cundiziuns d'utilisaziun</a> da { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Cun tscherner «{ shopping-onboarding-opt-in-button }» acceptas ti las <a data-l10n-name="privacy_policy">directivas per la protecziun da datas</a>  e las <a data-l10n-name="terms_of_use">cundiziuns d'utilisaziun</a> da { -fakespot-brand-name }.

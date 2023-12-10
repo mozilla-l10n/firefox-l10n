@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Lantschar il modus per chattar sbagls
 about-webrtc-debug-mode-on-state-label = Fermar il modus per chattar sbagls
 about-webrtc-enable-logging-label = Activar la preselecziun da protocollaziun per WebRTC
 about-webrtc-stats-heading = Statistica da la sesida
+about-webrtc-peerconnections-section-heading = Statisticas RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Mussar statisticas RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Zuppentar statisticas RTCPeerConnection
 about-webrtc-stats-clear = Stizzar la cronologia
 about-webrtc-log-heading = Connection Log
 about-webrtc-log-clear = Svidar il protocol
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Inditgà
 about-webrtc-configuration-element-not-provided = Betg inditgà
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferenzas WebRTC definidas da l'utilisader
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Configuraziun WebRTC modifitgada da l'utilisad:ra
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Mussar la configuraziun modifitgada da l'utilisad:ra
+about-webrtc-user-modified-configuration-hide-msg = Zuppentar la configuraziun modifitgada da l'utilisad:ra
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Volumen da datas transmissibel stimà
 # The ID of the MediaStreamTrack
@@ -229,8 +243,6 @@ about-webrtc-aec-logging-off-state-msg = datotecas da protocols registrads sa ch
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Memorisà la pagina sut: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Il protocol dal decurs sa chatta qua: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Modus per chattar sbagls activ, protocol dal decurs sut: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -310,9 +322,6 @@ about-webrtc-hide-msg-sdp = Zuppentar il SDP
 about-webrtc-media-context-show-msg = Mussar il context da multimedia
 about-webrtc-media-context-hide-msg = Zuppentar il context da multimedia
 about-webrtc-media-context-heading = Context multimedia
-
-##
-
 
 ##
 
