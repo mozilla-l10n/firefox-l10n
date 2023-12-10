@@ -12,11 +12,20 @@ about-webauthn-page-title = Informacje o protokole WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Informacje o urządzeniu
+about-webauthn-info-subsection-title = Informacje o uwierzytelniaczu
+about-webauthn-options-subsection-title = Opcje uwierzytelniacza
+about-webauthn-pin-section-title = Zarządzanie kodem PIN
+about-webauthn-credential-management-section-title = Zarządzaj danymi uwierzytelniającymi
 about-webauthn-pin-required-section-title = Wymagany jest PIN
 about-webauthn-confirm-deletion-section-title = Potwierdź usunięcie
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Proszę podłączyć token zabezpieczeń.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Proszę wybrać token zabezpieczeń, dotykając urządzenia.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Nie można zarządzać opcjami, ponieważ token zabezpieczeń nie obsługuje CTAP2.
 about-webauthn-text-not-available = Niedostępne dla tego systemu.
 
 ## Results label
@@ -44,11 +53,16 @@ about-webauthn-new-pin-label = Nowy PIN:
 about-webauthn-repeat-pin-label = Powtórz nowy PIN:
 about-webauthn-current-pin-label = Obecny PIN:
 about-webauthn-pin-required-label = Proszę podać PIN:
+about-webauthn-credential-list-subsection-title = Dane uwierzytelniające:
+about-webauthn-credential-list-empty = Na urządzeniu nie odnaleziono danych uwierzytelniających.
+about-webauthn-confirm-deletion-label = Zamierzasz usunąć:
 
 ## Buttons
 
 about-webauthn-current-set-pin-button = Ustaw PIN
 about-webauthn-current-change-pin-button = Zmień PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Wyświetl listę danych uwierzytelniających
 about-webauthn-cancel-button = Anuluj
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Usuń
@@ -56,6 +70,9 @@ about-webauthn-delete-button = Usuń
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Weryfikacja użytkownika
+about-webauthn-auth-option-up = Obecność użytkownika
+about-webauthn-auth-option-clientpin = PIN klienta
 about-webauthn-auth-option-setminpinlength = Ustaw minimalną długość PIN-u
 about-webauthn-auth-option-alwaysuv = Zawsze wymagaj weryfikacji użytkownika
 # Shows when boolean value for an option is True. True should not be translated.
