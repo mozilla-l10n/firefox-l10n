@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Start feilsøkingsmodus
 about-webrtc-debug-mode-on-state-label = Stopp feilsøkingsmodus
 about-webrtc-enable-logging-label = Aktiver forhåndsinnstilling av WebRTC-logg
 about-webrtc-stats-heading = Øktstatistikk
+about-webrtc-peerconnections-section-heading = RTCPeerConnection-statistikk
+about-webrtc-peerconnections-section-show-msg = Vis RTCPeerConnection-statistikk
+about-webrtc-peerconnections-section-hide-msg = Skjul RTCPeerConnection-statistikk
 about-webrtc-stats-clear = Slett historikk
 about-webrtc-log-heading = Tilkoblingslogg
 about-webrtc-log-clear = Slett logg
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Oppgitt
 about-webrtc-configuration-element-not-provided = Ikke oppgitt
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Egendefinerte WebRTC-innstillinger
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Brukermodifisert WebRTC-konfigurasjon
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Vis brukermodifisert konfigurasjon
+about-webrtc-user-modified-configuration-hide-msg = Skjul brukermodifisert konfigurasjon
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Anslått båndbredde
 # The ID of the MediaStreamTrack
@@ -300,9 +314,6 @@ about-webrtc-sdp-set-timestamp = Tidsstempel { NUMBER($timestamp, useGrouping: "
 
 about-webrtc-show-msg-sdp = Vis SDP
 about-webrtc-hide-msg-sdp = Skjul SDP
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
