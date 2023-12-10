@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Utwórz nowe dane logowania
+about-logins-page-title-name = Hasła
+about-logins-login-filter2 =
+    .placeholder = Szukaj haseł
+    .key = F
+create-login-button =
+    .title = Dodaj hasło
 fxaccounts-sign-in-text = Korzystaj ze swoich haseł na innych urządzeniach
 fxaccounts-sign-in-sync-button = Zaloguj się do synchronizacji
 fxaccounts-avatar-button =
@@ -51,6 +57,23 @@ login-list-filtered-count =
         [few] { $count } z { $total } danych logowania
        *[many] { $count } z { $total } danych logowania
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } hasło
+        [few] { $count } hasła
+       *[many] { $count } haseł
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } z { $total } hasła
+        [few] { $count } z { $total } haseł
+       *[many] { $count } z { $total } haseł
+    }
 login-list-sort-label-text = Sortuj wg:
 login-list-name-option = Nazwa (A-Z)
 login-list-name-reverse-option = Nazwa (Z-A)
@@ -60,11 +83,14 @@ about-logins-login-list-alerts-option = Powiadomienia
 login-list-last-changed-option = Ostatnia modyfikacja
 login-list-last-used-option = Ostatnie użycie
 login-list-intro-title = Brak danych logowania
+login-list-intro-title2 = Nie zachowano żadnych haseł
 login-list-intro-description = Tutaj będą wyświetlane hasła zachowane w przeglądarce { -brand-product-name }.
 about-logins-login-list-empty-search-title = Nie odnaleziono danych logowania
+about-logins-login-list-empty-search-title2 = Nie odnaleziono żadnych haseł
 about-logins-login-list-empty-search-description = Brak wyników pasujących do wyszukiwania.
 login-list-item-title-new-login = Nowe dane logowania
 login-list-item-subtitle-new-login = Wprowadź dane logowania
+login-list-item-title-new-login2 = Dodaj hasło
 login-list-item-subtitle-missing-username = (bez nazwy użytkownika)
 about-logins-list-item-breach-icon =
     .title = Witryna z wyciekiem haseł
@@ -96,6 +122,11 @@ login-item-edit-button = Edytuj
 about-logins-login-item-remove-button = Usuń
 login-item-origin-label = Adres witryny
 login-item-tooltip-message = Upewnij się, że jest to dokładny adres witryny, na której się logujesz.
+about-logins-origin-tooltip = Upewnij się, że jest to dokładny adres witryny, na której się logujesz.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Upewnij się, że zachowujesz obecne hasło do tej witryny. Zmiana hasła w tym miejscu nie powoduje jego zmiany na witrynie { $webTitle }.
+about-logins-add-password-tooltip = Upewnij się, że zachowujesz obecne hasło do tej witryny.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nazwa użytkownika
@@ -276,6 +307,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importuj plik z danymi logowania
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importuj hasła do { -brand-short-name(case: "gen") }
 about-logins-import-file-picker-import-button = Importuj
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

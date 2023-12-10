@@ -248,7 +248,11 @@ device-migration-fxa-spotlight-heavy-user-header = Nie zapomnij zrobić kopii za
 device-migration-fxa-spotlight-heavy-user-body = Upewnij się, że ważne informacje — takie jak zakładki i hasła — są aktualne i chronione na wszystkich Twoich urządzeniach.
 device-migration-fxa-spotlight-heavy-user-primary-button = Zacznij teraz
 device-migration-fxa-spotlight-older-device-header = Zero obaw dzięki { -brand-product-name(case: "dat") }
+device-migration-fxa-spotlight-older-device-body = Konto zapewnia, że Twoje ważne informacje są aktualne i chronione na każdym połączonym urządzeniu.
+device-migration-fxa-spotlight-older-device-primary-button = Utwórz konto
 device-migration-fxa-spotlight-getting-new-device-header-2 = Będziesz mieć nowe urządzenie?
+device-migration-fxa-spotlight-getting-new-device-body = Zrób kopię zapasową swoich danych już teraz, aby od razu przywrócić ją na nowym urządzeniu.
+device-migration-fxa-spotlight-getting-new-device-primary-button = Jak utworzyć kopię zapasową
 
 ## Set as Default PDF Reader Infobar
 
