@@ -75,10 +75,19 @@ about-webauthn-auth-option-uv = Overenie používateľa
 about-webauthn-auth-option-up = Prítomnosť používateľa
 about-webauthn-auth-option-clientpin = PIN klienta
 about-webauthn-auth-option-rk = Rezidentný kľúč
+about-webauthn-auth-option-plat = Zariadenie platformy
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Príkazové povolenia (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Žiadne povolenia MakeCredential / GetAssertion s kódom PIN klienta
+about-webauthn-auth-option-largeblobs = Veľké blobs
 about-webauthn-auth-option-ep = Podniková atestácia
+about-webauthn-auth-option-bioenroll = Biometrický zápis
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Prototyp biometrickej registrácie (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Povolenie na biometrickú registráciu
+about-webauthn-auth-option-authnrcfg = Konfigurácia autentifikátora
+about-webauthn-auth-option-uvacfg = Nastavenia oprávnení autentifikátora
 about-webauthn-auth-option-credmgmt = Správa prihlasovacích údajov
 about-webauthn-auth-option-setminpinlength = Nastaviť minimálnu dĺžku PIN
 # MakeCredential should not be translated.
@@ -96,9 +105,11 @@ about-webauthn-auth-option-null = Nepodporované
 
 about-webauthn-auth-info-certifications = Certifikácie
 about-webauthn-auth-info-uv-modality = Spôsob overenia používateľa
+about-webauthn-auth-info-max-cred-blob-length = Maximálna dĺžka blobu poverení
 about-webauthn-auth-info-firmware-version = Verzia firmvéru
 about-webauthn-auth-info-min-pin-length = Minimálna dĺžka PIN
 about-webauthn-auth-info-force-pin-change = Vynútiť zmenu PIN
+about-webauthn-auth-info-max-ser-large-blob-array = Maximálna veľkosť veľkého poľa blob
 about-webauthn-auth-info-algorithms = Algoritmy
 about-webauthn-auth-info-transports = Transporty
 about-webauthn-auth-info-max-credential-id-length = Maximálna dĺžka prihlasovacieho ID
