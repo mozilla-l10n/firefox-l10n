@@ -93,3 +93,10 @@ css-compatibility-deprecated-supported-message = Własność <strong>{ $property
 css-compatibility-experimental-message = <strong>{ $property }</strong> to eksperymentalna własność. Nie jest obsługiwana przez następujące przeglądarki:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> to eksperymentalna własność.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Więcej informacji</span> o <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Ten selektor używa nieograniczonego <strong>:has()</strong>, co może być powolne

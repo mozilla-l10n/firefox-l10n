@@ -159,3 +159,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Wyłącz
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Włącz
+protections-panel-report-broken-site =
+    .label = Zgłoś niepoprawnie działającą stronę
+    .title = Zgłoś niepoprawnie działającą stronę
