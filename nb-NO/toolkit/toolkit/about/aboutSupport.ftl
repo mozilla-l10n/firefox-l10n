@@ -195,6 +195,7 @@ media-content-decryption-modules-title = Informasjon om innholdsdekrypteringsmod
 media-key-system-name = Nøkkelsystemnavn
 media-video-robustness = Videorobusthet
 media-audio-robustness = Lydrobusthet
+media-cdm-capabilities = Egenskaper
 
 ##
 

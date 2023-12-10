@@ -72,12 +72,14 @@ about-webauthn-delete-button = Slett
 about-webauthn-auth-option-uv = Brukerbekreftelse
 about-webauthn-auth-option-up = Brukertilstedeværelse
 about-webauthn-auth-option-clientpin = Klient-PIN-kode
+about-webauthn-auth-option-rk = Resident-nøkkel
 about-webauthn-auth-option-plat = Plattformsenhet
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Kommando-tillatelser (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Ingen MakeCredential- / GetAssertion-tillatelser med klient-PIN-kode
 about-webauthn-auth-option-largeblobs = Store blobber
+about-webauthn-auth-option-ep = Virksomhetssertifisering
 about-webauthn-auth-option-bioenroll = Biometrisk registrering
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Prototype for biometrisk registrering (FIDO_2_1_PRE)
