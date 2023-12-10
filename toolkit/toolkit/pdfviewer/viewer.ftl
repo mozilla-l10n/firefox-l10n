@@ -361,3 +361,22 @@ pdfjs-editor-resizer-label-bottom-right = Sağ alt köşe — yeniden boyutland�
 pdfjs-editor-resizer-label-bottom-middle = Alt orta — yeniden boyutlandır
 pdfjs-editor-resizer-label-bottom-left = Sol alt köşe — yeniden boyutlandır
 pdfjs-editor-resizer-label-middle-left = Orta sol — yeniden boyutlandır
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Vurgu rengi
+pdfjs-editor-colorpicker-button =
+    .title = Rengi değiştir
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Renk seçenekleri
+pdfjs-editor-colorpicker-yellow =
+    .title = Sarı
+pdfjs-editor-colorpicker-green =
+    .title = Yeşil
+pdfjs-editor-colorpicker-blue =
+    .title = Mavi
+pdfjs-editor-colorpicker-pink =
+    .title = Pembe
+pdfjs-editor-colorpicker-red =
+    .title = Kırmızı
