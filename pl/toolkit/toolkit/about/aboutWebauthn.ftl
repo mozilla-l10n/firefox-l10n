@@ -73,7 +73,25 @@ about-webauthn-delete-button = Usuń
 about-webauthn-auth-option-uv = Weryfikacja użytkownika
 about-webauthn-auth-option-up = Obecność użytkownika
 about-webauthn-auth-option-clientpin = PIN klienta
+about-webauthn-auth-option-rk = Klucz rezydentny
+about-webauthn-auth-option-plat = Urządzenie systemowe
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Uprawnienia do poleceń (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Brak uprawnień MakeCredential/GetAssertion z PIN-em klienta
+about-webauthn-auth-option-largeblobs = Duże dane
+about-webauthn-auth-option-ep = Poświadczenie firmowe
+about-webauthn-auth-option-bioenroll = Rejestracja biometryczna
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototyp rejestracji biometrycznej (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Uprawnienie rejestracji biometrycznej
+about-webauthn-auth-option-authnrcfg = Konfiguracja uwierzytelniacza
+about-webauthn-auth-option-uvacfg = Uprawnienie konfiguracji uwierzytelniacza
+about-webauthn-auth-option-credmgmt = Zarządzanie danymi uwierzytelniającymi
+about-webauthn-auth-option-credentialmgmtpreview = Prototypowe zarządzanie danymi uwierzytelniającymi
 about-webauthn-auth-option-setminpinlength = Ustaw minimalną długość PIN-u
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential bez weryfikacji użytkownika
 about-webauthn-auth-option-alwaysuv = Zawsze wymagaj weryfikacji użytkownika
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Prawda
@@ -85,7 +103,12 @@ about-webauthn-auth-option-null = Nieobsługiwane
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Polecenia konfiguracji prototypu dostawcy
+about-webauthn-auth-info-remaining-discoverable-credentials = Pozostałe wykrywalne dane uwierzytelniające
 about-webauthn-auth-info-certifications = Certyfikacje
+about-webauthn-auth-info-uv-modality = Modalność weryfikacji użytkownika
+about-webauthn-auth-info-preferred-platform-uv-attempts = Próby weryfikacji użytkownika preferowanego systemu
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maksymalne identyfikatory stron zależnych dla ustawionej minimalnej długości PIN-u
 about-webauthn-auth-info-firmware-version = Wersja oprogramowania sprzętowego
 about-webauthn-auth-info-min-pin-length = Minimalna długość PIN-u
 about-webauthn-auth-info-force-pin-change = Wymuś zmianę PIN-u
