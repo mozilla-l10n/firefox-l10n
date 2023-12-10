@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Zamknij
     .aria-label = Zamknij
+firefoxview-empty-state-icon =
+    .alt = Uwaga:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Przed chwilą
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -147,6 +149,36 @@ firefoxview-opentabs-focus-tab =
     .title = Przełącz na tę kartę
 firefoxview-show-more = Więcej
 firefoxview-show-less = Mniej
+firefoxview-search-text-box-clear-button =
+    .title = Wyczyść
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Szukaj w historii
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Szukaj w ostatnio zamkniętych kartach
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Szukaj w kartach z innych urządzeń
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Szukaj w otwartych kartach
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Wyniki wyszukiwania „{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } witryna
+        [few] { $count } witryny
+       *[many] { $count } witryn
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Brak wyników dla „{ $query }”
 firefoxview-sort-history-by-date-label = Sortuj według dat
 firefoxview-sort-history-by-site-label = Sortuj według witryn
 # Variables:
@@ -206,9 +238,6 @@ firefoxview-import-history-description = Używaj przeglądarki { -brand-short-na
 firefoxview-recentlyclosed-empty-header = Karta zamknęła się za wcześnie?
 firefoxview-recentlyclosed-empty-description = Tutaj znajdziesz ostatnio zamknięte karty, dzięki czemu możesz szybko otworzyć jakąś z powrotem.
 firefoxview-recentlyclosed-empty-description-two = Karty sprzed dłuższego czasu znajdziesz w <a data-l10n-name="history-url">historii przeglądania</a>.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
