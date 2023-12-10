@@ -114,6 +114,7 @@ autofill-address-email = Email
 autofill-cancel-button = Cancelar
 autofill-save-button = Guardar
 autofill-country-warning-message = El autocompletado de formularios solo está disponible para ciertos países.
+autofill-message-tooltip = Ver mensaje sobre autocompletar
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Añadir nueva tarjeta de crédito
 # The dialog title for editing credit cards in browser preferences.
