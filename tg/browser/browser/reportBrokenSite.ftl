@@ -37,3 +37,5 @@ report-broken-site-panel-report-sent-label = Гузориши шумо фири�
 report-broken-site-panel-report-sent-header =
     .label = Гузориши шумо фиристода шуд
     .title = Гузориши шумо фиристода шуд
+report-broken-site-panel-invalid-url-label = Лутфан, нишонии URL-и эътиборро ворид намоед
+report-broken-site-panel-missing-reason-label = Лутфан, сабаберо интихоб намоед

@@ -351,6 +351,7 @@ identity-connection-secure = Пайвастшавӣ бехатар аст
 identity-connection-failure = Пайвастшавӣ қатъ шуд
 identity-connection-internal = Ин саҳифаи бехатари «{ -brand-short-name }» мебошад.
 identity-connection-file = Ин саҳифа дар компютери шумо нигоҳ дошта мешавад.
+identity-connection-associated = Ин саҳифа аз саҳифаи дигар бор карда шудааст.
 identity-extension-page = Ин саҳифа аз васеъшавӣ бор карда шудааст.
 identity-active-blocked = «{ -brand-short-name }» қисмҳои ин саҳифаро манъ кард, зеро ки онҳо бехатар нестанд.
 identity-custom-root = Пайвастшавӣ аз тарафи барорандаи гувоҳномае тасдиқ карда шудааст, ки Mozilla онро эътироф намекунад.

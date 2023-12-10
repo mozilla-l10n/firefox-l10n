@@ -337,3 +337,5 @@ onboarding-device-migration-primary-button-label = Ворид шудан
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Мо нигоҳдории бехатарии шуморо дӯст медорем
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Ҳангоми гузариш байни дастгоҳҳо интиқолро рамзгузорӣ намоед

@@ -191,6 +191,12 @@ media-codec-support-unsupported = Дастгирӣ намешавад
 media-codec-support-error = Маълумоти дастгирии кодек дастнорас аст. Пас аз пахш кардани файли расона аз нав кӯшиш кунед.
 media-codec-support-lack-of-extension = Насб кардани васеъшавӣ
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-cdm-capabilities = Имкониятҳо
+
 ##
 
 intl-title = Байналмилалисозӣ ва маҳаллисозӣ

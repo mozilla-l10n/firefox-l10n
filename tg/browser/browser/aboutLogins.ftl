@@ -368,6 +368,7 @@ about-logins-import-report-row-index = Сатри { $number }
 about-logins-import-report-row-description-no-change = Такрор: Мувофиқати дақиқ барои воридшавии мавҷудбуда
 about-logins-import-report-row-description-modified = Воридшавии мавҷудбуда навсозӣ карда шуд
 about-logins-import-report-row-description-added = Воридшавии нав илова шуд
+about-logins-import-report-row-description-no-change2 = Такрорӣ: Мувофиқати дақиқ барои сабти мавҷудбуда
 about-logins-import-report-row-description-modified2 = Сабти мавҷудбуда нав карда шуд
 about-logins-import-report-row-description-added2 = Ниҳонвожаи нав илова шуд
 about-logins-import-report-row-description-error = Хато: Як майдон намерасад

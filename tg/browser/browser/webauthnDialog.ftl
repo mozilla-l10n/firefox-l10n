@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Рамзи PIN нодуруст аст. Аз нав кӯшиш кунед.
 webauthn-pin-required-prompt = Лутфан, рамзи PIN-ро барои дастгоҳи худ ворид намоед.
 webauthn-select-sign-result-unknown-account = Ҳисоби номаълум
+webauthn-a-passkey-label = Аз шоҳкалид истифода баред
+webauthn-another-passkey-label = Аз шоҳкалиди дигар истифода баред
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Шоҳкалид барои { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

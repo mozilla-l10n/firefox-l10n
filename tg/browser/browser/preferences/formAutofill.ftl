@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Танзимоти нишонӣ
 address-capture-learn-more-button =
     .label = Маълумоти бештар
+address-capture-open-menu-button =
+    .aria-label = Кушодани меню
+address-capture-edit-address-button =
+    .aria-label = Таҳрир кардани нишонӣ
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Илова кардани нишонии нав
 # The dialog title for editing addresses in browser preferences.
