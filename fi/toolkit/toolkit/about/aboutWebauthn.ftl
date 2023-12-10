@@ -15,6 +15,7 @@ about-webauthn-info-section-title = Laitetiedot
 about-webauthn-pin-section-title = PIN-koodin hallinta
 about-webauthn-credential-management-section-title = Hallitse kirjautumistietoja
 about-webauthn-pin-required-section-title = PIN vaaditaan
+about-webauthn-confirm-deletion-section-title = Vahvista poistaminen
 
 ## Info field texts
 
