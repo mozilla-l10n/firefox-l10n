@@ -190,6 +190,20 @@ media-codec-support-unsupported = Betg sustegnì
 media-codec-support-error = Naginas infurmaziuns disponiblas davart il sustegn da codecs. Emprova anc ina giada suenter avair reproducì ina datoteca da multimedia.
 media-codec-support-lack-of-extension = Installar l'extensiun
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Infurmaziuns davart Content Decryption Modules (CDM)
+media-key-system-name = Num dal sistem da clavs
+media-video-robustness = Robustadad dal video
+media-audio-robustness = Robustadad dal audio
+media-cdm-capabilities = Funcziunalitads
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Cumenzar senza criptadi
+
 ##
 
 intl-title = Internaziunalisaziun & lingua

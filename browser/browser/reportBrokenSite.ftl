@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Tes rapport è vegnì tramess
     .title = Tes rapport è vegnì tramess
 report-broken-site-panel-report-sent-text = Grazia per gidar { -brand-product-name } a render il web pli avert, accessibel e meglier per ina e mintgin.
+report-broken-site-panel-invalid-url-label = Endatescha per plaschair in URL valid
+report-broken-site-panel-missing-reason-label = Tscherna per plaschair in motiv
