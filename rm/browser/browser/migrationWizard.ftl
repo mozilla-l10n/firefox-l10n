@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Segnapaginas
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favurits
 migration-logins-and-passwords-option-label = Infurmaziuns d'annunzia e pleds-clav memorisads
+migration-passwords-option-label = Pleds-clav memorisads
 migration-history-option-label = Cronologia da navigaziun
 migration-extensions-option-label = Extensiuns
 migration-form-autofill-option-label = Datas da l'endataziun automatica en formulars

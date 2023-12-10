@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Crear novas datas d'annunzia
+about-logins-page-title-name = Pleds-clav
+about-logins-login-filter2 =
+    .placeholder = Tschertgar en ils pleds-clav
+    .key = T
+create-login-button =
+    .title = Agiuntar in pled-clav
 fxaccounts-sign-in-text = Acceda a tes pleds-clav cun tut tes apparats
 fxaccounts-sign-in-sync-button = S'annunziar per sincronisar
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] { $count } data d'annunzia dad { $total }
        *[other] { $count } datas d'annunzia da { $total }
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } pled-clav
+       *[other] { $count } pleds-clav
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } dad { $total } pled-clav
+       *[other] { $count } da { $total } pleds-clav
+    }
 login-list-sort-label-text = Zavrar tenor:
 login-list-name-option = Num (A-Z)
 login-list-name-reverse-option = Num (Z-A)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = Avertiments
 login-list-last-changed-option = Ultima midada
 login-list-last-used-option = Ultima utilisaziun
 login-list-intro-title = Chattà naginas infurmaziuns d'annunzia
+login-list-intro-title2 = Nagins pleds-clav memorisads
 login-list-intro-description = Pleds-clav memorisads en { -brand-product-name } cumparan qua.
 about-logins-login-list-empty-search-title = Chattà naginas infurmaziuns d'annunzia
+about-logins-login-list-empty-search-title2 = Nagins pleds-clav chattads
 about-logins-login-list-empty-search-description = I na dat nagins resultats che correspundan a tia tschertga.
 login-list-item-title-new-login = Nova infurmaziun d'annunzia
 login-list-item-subtitle-new-login = Endatescha tias infurmaziuns d'annunzia
+login-list-item-title-new-login2 = Agiuntar in pled-clav
 login-list-item-subtitle-missing-username = (nagin num d'utilisader)
 about-logins-list-item-breach-icon =
     .title = Website che ha pers datas
@@ -270,6 +294,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importar ina datoteca cun infurmaziuns d'annunzia
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Import da pleds-clav en { -brand-short-name }
 about-logins-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -303,6 +329,18 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Duplicats dad infurmaziuns d'annunzia:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(betg importà)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] <span>Novs pleds-clav agiuntads:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+       *[other] <span>Endataziuns existentas actualisadas:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+       *[other] <span>Endataziuns duplitgadas chattadas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(betg importà)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Errurs:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(betg importà)</span>
@@ -323,6 +361,7 @@ about-logins-import-dialog-error-try-import-again = Reempruvar dad importar…
 about-logins-import-dialog-error-cancel = Interrumper
 about-logins-import-report-title = Resumaziun da l'import
 about-logins-import-report-description = Annunzias e pleds-clav importads en { -brand-short-name }.
+about-logins-import-report-description2 = Pleds-clav importads en { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -330,6 +369,9 @@ about-logins-import-report-row-index = Lingia { $number }
 about-logins-import-report-row-description-no-change = Duplicat: Correspundenza exacta dad ina annunzia existenta
 about-logins-import-report-row-description-modified = Actualisà ina annunzia existenta
 about-logins-import-report-row-description-added = Agiuntà ina nova annunzia
+about-logins-import-report-row-description-no-change2 = Duplicat: Correspundenza exacta dad ina endataziun existenta
+about-logins-import-report-row-description-modified2 = Actualisà ina endataziun existenta
+about-logins-import-report-row-description-added2 = Agiuntà in nov pled-clav
 about-logins-import-report-row-description-error = Errur: champ che manca
 
 ##
@@ -354,6 +396,21 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duplicats dad annunzias</div> <div data-l10n-name="not-imported">(betg importà)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nov pled-clav agiuntà</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">novs pleds-clav agiuntads</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">endataziun existenta actualisada</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">endataziuns existentas actualisadas</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">endataziun duplitgada</div> <div data-l10n-name="not-imported">(betg importada)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">endataziuns duplitgadas</div> <div data-l10n-name="not-imported">(betg importadas)</div>
     }
 about-logins-import-report-error =
     { $count ->
