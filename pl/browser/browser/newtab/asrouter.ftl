@@ -209,6 +209,8 @@ cfr-cbh-confirm-button = Odrzucaj prośby o akceptację ciasteczek
     .accesskey = O
 cfr-cbh-dismiss-button = Nie teraz
     .accesskey = N
+cookie-banner-blocker-cfr-header = { -brand-short-name } właśnie zablokował ciasteczka za Ciebie
+cookie-banner-blocker-cfr-body = Automatycznie odrzucamy wiele próśb o akceptację ciasteczek, aby utrudnić witrynom śledzenie Cię.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -242,6 +244,10 @@ device-migration-fxa-spotlight-header = Używasz starszego urządzenia?
 device-migration-fxa-spotlight-body = Utwórz kopię zapasową swoich danych, aby mieć pewność, że nie utracisz ważnych informacji, takich jak zakładki czy hasła — zwłaszcza jeśli zmienisz urządzenie na nowe.
 device-migration-fxa-spotlight-primary-button = Jak utworzyć kopię zapasową
 device-migration-fxa-spotlight-link = Przypomnij później
+device-migration-fxa-spotlight-heavy-user-header = Nie zapomnij zrobić kopii zapasowej swoich danych
+device-migration-fxa-spotlight-heavy-user-body = Upewnij się, że ważne informacje — takie jak zakładki i hasła — są aktualne i chronione na wszystkich Twoich urządzeniach.
+device-migration-fxa-spotlight-heavy-user-primary-button = Zacznij teraz
+device-migration-fxa-spotlight-older-device-header = Zero obaw dzięki { -brand-product-name(case: "dat") }
 device-migration-fxa-spotlight-getting-new-device-header-2 = Będziesz mieć nowe urządzenie?
 
 ## Set as Default PDF Reader Infobar
