@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = 开始调试模式
 about-webrtc-debug-mode-on-state-label = 停止调试模式
 about-webrtc-enable-logging-label = 启用 WebRTC 日志预设
 about-webrtc-stats-heading = 会话统计
+about-webrtc-peerconnections-section-heading = RTCPeerConnection 统计信息
+about-webrtc-peerconnections-section-show-msg = 显示 RTCPeerConnection 统计信息
+about-webrtc-peerconnections-section-hide-msg = 隐藏 RTCPeerConnection 统计信息
 about-webrtc-stats-clear = 清除历史记录
 about-webrtc-log-heading = 连接日志
 about-webrtc-log-clear = 清除日志
@@ -194,6 +197,8 @@ about-webrtc-configuration-element-provided = 提供
 about-webrtc-configuration-element-not-provided = 不提供
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = WebRTC 用户设置项
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = 用户修改过的 WebRTC 配置
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
