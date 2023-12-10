@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Iniciar modo de depuración
 about-webrtc-debug-mode-on-state-label = Detener el modo de depuración
 about-webrtc-enable-logging-label = Activar el registro preestablecido de WebRTC
 about-webrtc-stats-heading = Estadísticas de la sesión
+about-webrtc-peerconnections-section-heading = Estadísticas de RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Mostrar estadísticas de RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Ocultar estadísticas de RTCPeerConnection
 about-webrtc-stats-clear = Limpiar historial
 about-webrtc-log-heading = Registro de conexión
 about-webrtc-log-clear = Limpiar registro
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Proporcionado
 about-webrtc-configuration-element-not-provided = No porporcionado
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferencias de WebRTC establecidas por el usuario
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Configuración WebRTC modificada por el usuario
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Mostrar configuración modificada por el usuario
+about-webrtc-user-modified-configuration-hide-msg = Ocultar configuración modificada por el usuario
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Ancho de banda estimado
 # The ID of the MediaStreamTrack
@@ -300,9 +314,6 @@ about-webrtc-sdp-set-timestamp = Marca de tiempo { NUMBER($timestamp, useGroupin
 
 about-webrtc-show-msg-sdp = Mostrar SDP
 about-webrtc-hide-msg-sdp = Ocultar SDP
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
