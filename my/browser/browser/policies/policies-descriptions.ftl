@@ -36,11 +36,23 @@ policy-DisablePrivateBrowsing = သီးသန့်ရှာဖွေမှု
 policy-DisableSystemAddonUpdate = ဘရောက်ဇာကို စနစ်အက်အွန်းများကို ထည့်သွင်းခြင်းနှင့် မွမ်းမံခြင်းများမှ တားဆီးပါ
 policy-DisableTelemetry = ပေးပို့စနစ်များကိုပိတ်ထားပါ။
 policy-DisplayBookmarksToolbar = စာမှတ်တူးဘားကို ပုံသေဖြင့်ပြပါ။
+policy-DisplayMenuBar = မီနူးဘားကို ပုံမှန် အတိုင်း ပြပါ။
+policy-DontCheckDefaultBrowser = စဖွင့်ချိန်တွင် ပုံမှန်  ဘရောင်ဇာ ဖြစ်မဖြစ် စစ်ဆေး ခြင်း ပိတ်ပါ။
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = ထပ်တိုးအပို ကို ထည့်သွင်းခြင်း ၊ ဖယ်ရှားခြင်း သို့မဟုတ် ရပ်တန့်တားထားခြင်း။ တပ်ဆင်လျှင် URLs သို့မဟုတ် ပါရာမီတာ လမ်းကြောင်း ကိုယူသည်။ ဖယ်ရှားခြင်း နှင့် ရပ်တန့်တားထားလျှင် IDs ကိုယူသည်။
+policy-ExtensionSettings = ထပ်တိုးအပို ထည်သွင်းခြင်း တွင် အလုံးစုံ စီမံပါ။
+policy-ExtensionUpdate = အလိုလျှောက် ထပ်တိုးအပို အဆင့်မြှင့်တင်မှု့ ဖွင့် ခြင်း ပိတ်ခြင်း။
+policy-InstallAddonsPermission = အချို့သောဝက်ဘ်ဆိုက်များ မှ add-ons များတပ်ဆင်ရန်ခွင့်ပြုမှာလား။
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 
 ##
 
+policy-LocalFileLinks = ကြိုတင် စီစဉ်ထားသော ဝက်ဘ်ဆိုင်များမှ စက်ထဲရှိ ဖိုင်များနဲ့ လင့်ချိတ်ခွင့်ပြုမှာလား။
+policy-NoDefaultBookmarks = { -brand-short-name } က ပုံမှန် စာမှတ်စု နဲ့ စမတ် စာမှတ်စု ( အကြည့်များဆုံး၊ မကြာသေးသော တပ်ဗ်ဗ်တေတွေ)  ဖန်တီးတာကို ပိတ်လိုက်ပါ။ မှတ်ချက်။ ။ ဤ မူဝါဒ သည် ပထမအကြိမ် ပရိုဖိုင်မဖန်တီးခင် သုံးမှသာ အလုပ်ဖြစ်ပါမည်။
+policy-PopupBlocking = အချို့သော ဝက်ဘ်ဆိုက်များကို popups ပုံမှန် ဖော်ပြရန်ခွင့်ပြုမှာလာ။
 policy-Proxy = ပရောက်ဆီ စနစ်များ နေရာချပါ
 policy-SearchSuggestEnabled = ရှာဖွေအကြံပြုမှုများကို စွမ်းဆောင်ခြင်း ဖွင့် သို့မဟုတ် ပိတ်ပါ
