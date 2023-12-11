@@ -107,6 +107,7 @@ about-webauthn-auth-info-remaining-discoverable-credentials = Gjenværende oppda
 about-webauthn-auth-info-certifications = Sertifiseringer
 about-webauthn-auth-info-uv-modality = Modalitet for brukerbekreftelse
 about-webauthn-auth-info-preferred-platform-uv-attempts = Foretrukket plattform for forsøk på brukergodkjenning
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maks Relying Party ID-er for å angi minimum PIN-lengde
 about-webauthn-auth-info-max-cred-blob-length = Maks lengde på innloggingsdetaljer-blobb
 about-webauthn-auth-info-firmware-version = Fastvareversjon
 about-webauthn-auth-info-min-pin-length = Minste PIN-kodelengde

@@ -196,6 +196,10 @@ media-key-system-name = Nøkkelsystemnavn
 media-video-robustness = Videorobusthet
 media-audio-robustness = Lydrobusthet
 media-cdm-capabilities = Egenskaper
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Fri start
 
 ##
 
