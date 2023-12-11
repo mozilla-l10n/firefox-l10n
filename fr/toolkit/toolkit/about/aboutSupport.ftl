@@ -190,6 +190,12 @@ media-codec-support-unsupported = Non pris en charge
 media-codec-support-error = Les informations sur la prise en charge des codecs ne sont pas disponibles. Réessayez après avoir lu un fichier multimédia.
 media-codec-support-lack-of-extension = Installer une extension
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Informations sur les modules de déchiffrement de contenu
+
 ##
 
 intl-title = Langue et internationalisation
