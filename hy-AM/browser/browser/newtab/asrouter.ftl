@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Առաջարկվող հատկություն
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Ինչու եմ ես սա տեսնում
-
 cfr-doorhanger-extension-cancel-button = Ոչ հիմա
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Ավելացնել հիմա
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Կառավարել երաշխավորվող կարգավորումները
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Չցուցադրել ինձ այս երաշխավորությունները
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Իմանալ ավելին
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name }-ի կողմից
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Երաշխավորություն
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Երաշխավորություն
     .tooltiptext = Ընդլայնման երաշխավորություն
     .a11y-announcement = Հասանելի ընդլայնման երաշխավորություն
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Երաշխավորություն
     .tooltiptext = Հատկության երաշխավորություն
     .a11y-announcement = Հասանլի հատկության երաշխավորություն
@@ -76,7 +70,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
-cfr-protections-panel-header = Զննել առանց հետևվելու
+cfr-protections-panel-header = Զննել առանց հետագծվելու
 cfr-protections-panel-body = Ձեր տվյալները պահեք ձեզ մոտ: { -brand-short-name }-ը ձեզ պաշտպանում է ամենատարածված վնասներից, որոնք հետևում են այն ամենին, ինչ դուք անում եք առցանց:
 cfr-protections-panel-link-text = Իմանալ ավելին
 
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Իմանալ ավելին
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Նոր հատկություն․
-
 cfr-whatsnew-button =
     .label = Ինչն է նոր
     .tooltiptext = Ինչն է նոր
-
 cfr-whatsnew-release-notes-link-text = Կարդալ թողարկման գրառումները
 
 ## Enhanced Tracking Protection Milestones
@@ -116,16 +108,12 @@ cfr-doorhanger-doh-primary-button-2 = Լավ
 cfr-doorhanger-doh-secondary-button = Անջատել
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = { -brand-short-name }-ի այս տարբերակում տեսանյութերը կարող են ճիշտ չնվագարկվել: Տեսանյութի լրիվ աջակցման համար թարմացրեք { -brand-short-name }-ը հիմա:
 cfr-doorhanger-video-support-header = Թարմացրեք { -brand-short-name }-ը՝ տեսանյութը նվագարկելու համար
 cfr-doorhanger-video-support-primary-button = Թարմացնել Հիմա
     .accesskey = U
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -137,8 +125,6 @@ spotlight-public-wifi-vpn-primary-button = Մնացեք գաղտնի { -mozilla-
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ոչ հիմա
     .accesskey = N
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -173,7 +159,6 @@ firefoxview-cfr-secondarybutton = Ոչ հիմա
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Ասեք բարև { -firefoxview-brand-name }-ին
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Ցանկանո՞ւմ եք բացել ներդիրը ձեր հեռախոսում: Արեք դա: Պետք է բացել այն կայքը, որը նոր էիք այցելել: Պահ, այն { -firefoxview-brand-name }-ում է:
 firefoxview-spotlight-promo-primarybutton = Տեսեք, թե ինչպես է այն աշխատում
@@ -190,7 +175,19 @@ firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
 
