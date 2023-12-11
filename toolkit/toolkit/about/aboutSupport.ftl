@@ -205,6 +205,10 @@ media-codec-support-lack-of-extension = Nainstalovat rozšíření
 ## https://w3c.github.io/encrypted-media/
 
 media-content-decryption-modules-title = Informace o modulech pro dešifrování obsahu
+media-key-system-name = Název systémového klíče
+media-video-robustness = Odolnost videa
+media-audio-robustness = Odolnost zvuku
+media-cdm-capabilities = Schopnosti
 
 ##
 
