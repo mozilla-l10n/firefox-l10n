@@ -357,3 +357,16 @@ pdfjs-editor-resizer-label-bottom-right = Coin inférieur droit — redimensionn
 pdfjs-editor-resizer-label-bottom-middle = Centre bas — redimensionner
 pdfjs-editor-resizer-label-bottom-left = Coin inférieur gauche — redimensionner
 pdfjs-editor-resizer-label-middle-left = Milieu gauche — redimensionner
+
+## Color picker
+
+pdfjs-editor-colorpicker-yellow =
+    .title = Jaune
+pdfjs-editor-colorpicker-green =
+    .title = Vert
+pdfjs-editor-colorpicker-blue =
+    .title = Bleu
+pdfjs-editor-colorpicker-pink =
+    .title = Rose
+pdfjs-editor-colorpicker-red =
+    .title = Rouge
