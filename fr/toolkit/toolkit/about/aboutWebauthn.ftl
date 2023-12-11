@@ -53,6 +53,9 @@ about-webauthn-delete-button = Supprimer
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-clientpin = Code PIN du client
+about-webauthn-auth-option-credmgmt = Gestion des informations d’authentification
+about-webauthn-auth-option-setminpinlength = Définir la longueur minimale du code PIN
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Vrai
 # Shows when boolean value of an option is False. False should not be translated.
@@ -64,7 +67,13 @@ about-webauthn-auth-option-null = Non pris en charge
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-certifications = Certifications
+about-webauthn-auth-info-max-cred-blob-length = Longueur maximale des blobs pour les informations d’authentification
+about-webauthn-auth-info-firmware-version = Version du micrologiciel
+about-webauthn-auth-info-min-pin-length = Taille minimale du code PIN
+about-webauthn-auth-info-force-pin-change = Forcer le changement du code PIN
 about-webauthn-auth-info-algorithms = Algorithmes
+about-webauthn-auth-info-pin-protocols = Protocoles du code PIN
+about-webauthn-auth-info-max-msg-size = Taille maximale des messages
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Extensions
