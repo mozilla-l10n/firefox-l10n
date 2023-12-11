@@ -28,6 +28,14 @@ about-webauthn-text-not-available = Дар ин платформа дастно�
 
 about-webauthn-results-success = Тайёр!
 about-webauthn-results-general-error = Хато!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Хато: Рамзи PIN нодуруст аст. Аз нав кӯшиш кунед.
+        [one] Хато: Рамзи PIN нодуруст аст. Аз нав кӯшиш кунед. Шумо як кӯшиши дигар доред.
+       *[other] Хато: Рамзи PIN нодуруст аст. Аз нав кӯшиш кунед. Шумо { $retriesLeft } кӯшиши дигар доред.
+    }
 about-webauthn-results-pin-too-short-error = Хато: Рамзи PIN-и пешниҳодшуда хеле кутоҳ аст.
 about-webauthn-results-pin-too-long-error = Хато: Рамзи PIN-и пешниҳодшуда хеле дароз аст.
 about-webauthn-results-cancelled-by-user-error = Хато: Амалиёт аз тарафи корбар бекор карда шуд.
@@ -55,8 +63,13 @@ about-webauthn-delete-button = Нест кардан
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Санҷиши ҳаққонияти корбар
+about-webauthn-auth-option-up = Ҳузури корбар
 about-webauthn-auth-option-clientpin = Рамзи PIN-и муштарӣ
+about-webauthn-auth-option-rk = Калиди муқим
 about-webauthn-auth-option-plat = Дастгоҳи платформа
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Иҷозатҳои фармон (pinUvAuthToken)
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Дуруст
 # Shows when boolean value of an option is False. False should not be translated.
