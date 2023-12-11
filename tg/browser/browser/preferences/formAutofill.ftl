@@ -114,6 +114,7 @@ autofill-address-email = Почтаи электронӣ
 autofill-cancel-button = Бекор кардан
 autofill-save-button = Нигоҳ доштан
 autofill-country-warning-message = Айни ҳол, пуркунии шакл ба таври худкор танҳо барои баъзе кишварҳо дастрас аст.
+autofill-message-tooltip = Дидани паём дар бораи пуркунии худкор
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Илова кардани корти кредитии нав
 # The dialog title for editing credit cards in browser preferences.

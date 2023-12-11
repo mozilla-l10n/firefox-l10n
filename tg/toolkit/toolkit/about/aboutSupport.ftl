@@ -195,6 +195,7 @@ media-codec-support-lack-of-extension = Насб кардани васеъшав
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-content-decryption-modules-title = Маълумот дар бораи модулҳои рамзкушоии муҳтаво
 media-key-system-name = Номи низоми калидӣ
 media-video-robustness = Тавонмандии видео
 media-audio-robustness = Тавонмандии аудио
