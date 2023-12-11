@@ -312,6 +312,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Tekst fuortsmite
 pdfjs-editor-remove-stamp-button =
     .title = Ofbylding fuortsmite
+pdfjs-editor-remove-highlight-button =
+    .title = Markearring fuortsmite
 
 ##
 
@@ -361,3 +363,22 @@ pdfjs-editor-resizer-label-bottom-right = Rjochterûnderhoek – formaat wizigje
 pdfjs-editor-resizer-label-bottom-middle = Midden ûnder – formaat wizigje
 pdfjs-editor-resizer-label-bottom-left = Linkerûnderhoek – formaat wizigje
 pdfjs-editor-resizer-label-middle-left = Links midden – formaat wizigje
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Markearringskleur
+pdfjs-editor-colorpicker-button =
+    .title = Kleur wizigje
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Kleurkarren
+pdfjs-editor-colorpicker-yellow =
+    .title = Giel
+pdfjs-editor-colorpicker-green =
+    .title = Grien
+pdfjs-editor-colorpicker-blue =
+    .title = Blau
+pdfjs-editor-colorpicker-pink =
+    .title = Roze
+pdfjs-editor-colorpicker-red =
+    .title = Read

@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Jo rapport is ferstjoerd
     .title = Jo rapport is ferstjoerd
 report-broken-site-panel-report-sent-text = Tank dat jo { -brand-product-name } helpt om it ynternet foar elkenien iepener, tagonkliker en better te meitsjen.
+report-broken-site-panel-invalid-url-label = Fier in jildige URL yn
+report-broken-site-panel-missing-reason-label = Kies in reden

@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Debugmodus starte
 about-webrtc-debug-mode-on-state-label = Debugmodus stopje
 about-webrtc-enable-logging-label = WebRTC-lochboekfoarynstelling ynskeakelje
 about-webrtc-stats-heading = Sesjestatistiken
+about-webrtc-peerconnections-section-heading = RTCPeerConnection-statistiken
+about-webrtc-peerconnections-section-show-msg = RTCPeerConnection-statistiken toane
+about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection-statistiken ferstopje
 about-webrtc-stats-clear = Skiednis wiskje
 about-webrtc-log-heading = Ferbiningslochboek
 about-webrtc-log-clear = Lochboek wiskje
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Opjûn
 about-webrtc-configuration-element-not-provided = Net opjûn
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Troch brûker ynstelde WebRTC-foarkarren
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Troch brûker oanpaste WebRTC-konfiguraasje
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Troch brûker wizige konfiguraasje toane
+about-webrtc-user-modified-configuration-hide-msg = Troch brûker wizige konfiguraasje ferstopje
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Skatte bânbreedte
 # The ID of the MediaStreamTrack
@@ -229,8 +243,6 @@ about-webrtc-aec-logging-off-state-msg = fêstleine lochbestannen binne te finen
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Side bewarre yn: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Trasearlochboek is te finen yn: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Debugmodus aktyf, trasearlochboek yn: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -310,9 +322,6 @@ about-webrtc-hide-msg-sdp = SDP ferstopje
 about-webrtc-media-context-show-msg = Mediakontekst toane
 about-webrtc-media-context-hide-msg = Mediakontekst ferstopje
 about-webrtc-media-context-heading = Mediakontekst
-
-##
-
 
 ##
 
