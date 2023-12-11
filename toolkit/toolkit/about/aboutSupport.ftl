@@ -187,6 +187,20 @@ media-codec-support-unsupported = Não suportado
 media-codec-support-error = Informações de suporte a codec não disponíveis. Tente novamente após reproduzir de novo um arquivo de mídia.
 media-codec-support-lack-of-extension = Instalar extensão
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Informações sobre módulos de descriptografia de conteúdo
+media-key-system-name = Nome do Key System
+media-video-robustness = Robustez de vídeo
+media-audio-robustness = Robustez de áudio
+media-cdm-capabilities = Funcionalidades
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Início agilizado
+
 ##
 
 intl-title = Internacionalização e localização

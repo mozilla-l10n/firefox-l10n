@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Iniciar modo de depuração
 about-webrtc-debug-mode-on-state-label = Parar modo de depuração
 about-webrtc-enable-logging-label = Ativar predefinição de log de WebRTC
 about-webrtc-stats-heading = Estatísticas da sessão
+about-webrtc-peerconnections-section-heading = Estatísticas de RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Exibir estatísticas de RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Ocultar estatísticas de RTCPeerConnection
 about-webrtc-stats-clear = Limpar histórico
 about-webrtc-log-heading = Registro de conexão
 about-webrtc-log-clear = Limpar registro
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Fornecido
 about-webrtc-configuration-element-not-provided = Não fornecido
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferências de WebRTC definidas pelo usuário
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Configuração WebRTC modificada pelo usuário
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Exibir configuração modificada pelo usuário
+about-webrtc-user-modified-configuration-hide-msg = Ocultar configuração modificada pelo usuário
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Largura de banda estimada
 # The ID of the MediaStreamTrack
@@ -229,8 +243,6 @@ about-webrtc-aec-logging-off-state-msg = arquivos de log capturados podem ser en
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Página salva em: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = O registro de acompanhamento pode ser encontrado em: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Modo de depuração ativo, registro de execução em: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -310,9 +322,6 @@ about-webrtc-hide-msg-sdp = Ocultar SDP
 about-webrtc-media-context-show-msg = Exibir contexto de mídia
 about-webrtc-media-context-hide-msg = Ocultar contexto de mídia
 about-webrtc-media-context-heading = Contexto de mídia
-
-##
-
 
 ##
 
