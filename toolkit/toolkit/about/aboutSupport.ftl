@@ -190,6 +190,20 @@ media-codec-support-unsupported = Net stipe
 media-codec-support-error = Codec-stipeynformaasje net beskikber. Probearje it nochris nei it ôfspyljen fan in mediabestân.
 media-codec-support-lack-of-extension = Utwreiding ynstallearje
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Ynformaasje oer ynhâldsûntsiferingsmodulen
+media-key-system-name = Kaaisysteemnamme
+media-video-robustness = Fideo-robústheid
+media-audio-robustness = Audio-robústheid
+media-cdm-capabilities = Mooglikheden
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Skjinne start
+
 ##
 
 intl-title = Ynternasjonalisaasje & lokalisaasje
