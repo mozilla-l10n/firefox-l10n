@@ -56,3 +56,19 @@ about-debugging-tmp-extension-remove-button = ဖယ်ရှား
 about-debugging-tmp-extension-install-message = manifest.json ဖိုင် သို့မဟုတ် .xpi/.zip ချုံသိမ်းဖိုင် ကိုရွေးပါ
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = ဤ WebExtension တွင် ယာယီ ID ရှိသည်။ <a>ပိုမို လေ့လာရန်</a>
+# Text displayed for extensions in "runtime" pages, before displaying a link the extension's
+# manifest URL.
+about-debugging-extension-manifest-url =
+    .label = အသိပေးကြော်ငြာ URL
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = အတွင်းရေး UUID
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = လမ်းကြောင်း
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = ထပ်တိုးအပို အိုင်ဒီ
