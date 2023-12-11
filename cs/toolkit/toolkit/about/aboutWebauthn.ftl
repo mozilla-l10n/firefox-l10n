@@ -76,10 +76,14 @@ about-webauthn-auth-option-up = Přítomnost uživatele
 about-webauthn-auth-option-clientpin = PIN klienta
 about-webauthn-auth-option-rk = Klíč rezidenta
 about-webauthn-auth-option-plat = Zařízení platformy
+about-webauthn-auth-option-largeblobs = Velké bloby
 about-webauthn-auth-option-ep = Podnikové atesty
+about-webauthn-auth-option-bioenroll = Biometrický zápis
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Prototyp biometrického zápisu (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Povolení k biometrickému zápisu
+about-webauthn-auth-option-authnrcfg = Konfigurace autentikátoru
+about-webauthn-auth-option-uvacfg = Nastavení oprávnění autentifikátoru
 about-webauthn-auth-option-credmgmt = Správa přihlašovacích údajů
 about-webauthn-auth-option-setminpinlength = Nastavit minimální délku PIN
 # MakeCredential should not be translated.
