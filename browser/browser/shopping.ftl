@@ -190,6 +190,10 @@ shopping-onboarding-headline = Essayez notre guide de confiance pour les avis de
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Regardez quelle fiabilité accorder aux avis de produits sur <b>{ $currentSite }</b> avant d’acheter. Le vérificateur d’avis, une fonctionnalité expérimentale de { -brand-product-name }, est intégré au navigateur. Il fonctionne aussi pour <b>{ $secondSite }</b> et <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Regardez quelle fiabilité accorder aux avis de produits sur <b>{ $currentSite }</b> avant d’acheter. Le vérificateur d’avis, une fonctionnalité expérimentale de { -brand-product-name }, est intégré au navigateur.
 shopping-onboarding-body = En utilisant la puissance de { -fakespot-brand-full-name }, nous vous aidons à éviter les avis partiaux et mensongers. Notre modèle d’intelligence artificielle s’améliore en permanence pour vous protéger pendant vos achats. <a data-l10n-name="learn_more">En savoir plus</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = En sélectionnant « { shopping-onboarding-opt-in-button } », vous acceptez la <a data-l10n-name="privacy_policy">politique de confidentialité</a> et les <a data-l10n-name="terms_of_use">conditions d’utilisation</a> de { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = En sélectionnant « { shopping-onboarding-opt-in-button } », vous acceptez la <a data-l10n-name="privacy_policy">politique de confidentialité</a> et les <a data-l10n-name="terms_of_use">conditions d’utilisation</a> de { -fakespot-brand-name }.
