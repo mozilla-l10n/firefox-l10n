@@ -5,49 +5,37 @@
 permissions-window2 =
     .title = ခြွင်းချက်များ
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = ၀ဘ်ဆိုက်လိပ်စာ
     .accesskey = d
-
 permissions-block =
     .label = Bပိတ်ဆို့ပါ
     .accesskey = B
-
 permissions-session =
     .label = အသုံးပြုနေစဉ်အတွင်း ခွင့်ပြုပါ
     .accesskey = S
-
 permissions-allow =
     .label = ခွင့်ပြုပါ
     .accesskey = A
-
 permissions-site-name =
     .label = ဝဘ်ဆိုက်
-
 permissions-status =
     .label = လက်ရှိအခြေအနေ
-
 permissions-remove =
     .label = ဝဘ်ဆိုက်ကို ဖျက်
     .accesskey = R
-
 permissions-remove-all =
     .label = ဝဘ်ဆိုက်အားလုံးကို ဖယ်ရှားပါ
     .accesskey = e
-
 permissions-searchbox =
     .placeholder = ဝဘ်ဆိုက်ကို ရှာဖွေရန်
-
 permissions-capabilities-allow =
     .label = ခွင့်ပြုပါ
 permissions-capabilities-block =
     .label = ပိတ်ဆို့ပါ
 permissions-capabilities-prompt =
     .label = အမြဲမေးပါ
-
 permissions-capabilities-listitem-allow =
     .value = ခွင့်ပြုပါ
 permissions-capabilities-listitem-block =
@@ -68,6 +56,7 @@ permissions-invalid-uri-label = အလုပ်လုပ်သောတည်ရ
 permissions-exceptions-cookie-window2 =
     .title = ခြွင်းချက်များ - ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်
     .style = { permissions-window2.style }
+permissions-exceptions-cookie-desc = သင်သည် မည်သည့် ၀တ်ဆိုက်အား ကွတ်ကီးများနှင့် ဆိုက်ဒေတာများ အမြဲခွင့်မြဲမည် အမြဲငြင်မည် ကို သတ်မှတ်နိုင်သည်။   တိကျသော၀တ်ဆိုက်လိပ်စာအားရိုက်ကာ ပိတ်မည်(သို့)ခွင့်ပြုမည်တစ်ခုခုလုပ်နိုင်သည်။ ဆိုက်လိပ်စာ ကို တိတိကျကျ ရိုက်ကာ ဆက်အလိုက်ဖြစ်စေ အမြဲဖြစ်စေ ခွင့်ပြုနိုင် ငြင်ပယ်နိုင်သည်။
 
 ## Exceptions - HTTPS-Only Mode
 
