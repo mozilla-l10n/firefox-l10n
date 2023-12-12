@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = නව පිවිසුමක් සාදන්න
+about-logins-page-title-name = මුරපද
+about-logins-login-filter2 =
+    .placeholder = මුරපද සොයන්න
+    .key = F
+create-login-button =
+    .title = මුරපදය එක් කරන්න
 fxaccounts-sign-in-text = ඔබගේ වෙනත් උපාංගවල තිබෙන මුරපද ගන්න
 fxaccounts-sign-in-sync-button = සමමුහූර්තයට පිවිසෙන්න
 fxaccounts-avatar-button =
@@ -49,6 +55,21 @@ login-list-filtered-count =
         [one] පිවිසුම් { $count } / { $total }
        *[other] පිවිසුම් { $count } / { $total }
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] මුරපද { $count }
+       *[other] මුරපද { $count }
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] මුරපද { $total } න් { $count }
+       *[other] මුරපද { $total } න් { $count }
+    }
 login-list-sort-label-text = වර්ග කරන්න:
 login-list-name-option = නම (අ-ෆ)
 login-list-name-reverse-option = නම (ෆ-අ)
@@ -58,11 +79,14 @@ about-logins-login-list-alerts-option = ඇඟවීම්
 login-list-last-changed-option = අවසන් සංශෝධනය
 login-list-last-used-option = අවසන් භාවිතය
 login-list-intro-title = පිවිසුම් හමු නොවුණි
+login-list-intro-title2 = සුරැකි මුරපද නැත
 login-list-intro-description = ඔබ මුරපදයක් { -brand-product-name } හි සුරකින විට, එය මෙහි පෙන්වනු ඇත.
 about-logins-login-list-empty-search-title = පිවිසුම් හමු නොවුණි
+about-logins-login-list-empty-search-title2 = මුරපද හමු නොවිණි
 about-logins-login-list-empty-search-description = ඔබගේ සෙවුමට ගැළපෙන ප්‍රතිඵල නැත.
 login-list-item-title-new-login = නව පිවිසුම
 login-list-item-subtitle-new-login = ඔබගේ පිවිසුම් අක්තපත්‍ර යොදන්න
+login-list-item-title-new-login2 = මුරපදය එක් කරන්න
 login-list-item-subtitle-missing-username = (පරිශීලක නාමය නැත)
 about-logins-list-item-breach-icon =
     .title = උල්ලංඝනය වූ අඩවියකි
@@ -304,6 +328,8 @@ about-logins-import-report-description = { -brand-short-name } වෙත පි�
 about-logins-import-report-row-index = පේළිය { $number }
 about-logins-import-report-row-description-modified = පවතින පිවිසුමක් යාවත්කාල විය
 about-logins-import-report-row-description-added = නව පිවිසුමක් එක් කෙරිණි
+about-logins-import-report-row-description-modified2 = පවතින නිවේශිතය යාවත්කාල විය
+about-logins-import-report-row-description-added2 = නව මුරපදය එක් කෙරිණි
 about-logins-import-report-row-description-error = දෝෂය: මඟ හැරුණු ක්‍ෂේත්‍රයකි
 
 ##
