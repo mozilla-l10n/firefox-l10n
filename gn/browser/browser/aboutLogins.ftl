@@ -299,6 +299,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Egueru marandurenda tembiapo ñepyrũgui
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Emba’egueru ñe’ẽñemi { -brand-short-name }-pe
 about-logins-import-file-picker-import-button = Mba’egueru
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -334,6 +336,21 @@ about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Tembiapo ñepyrũ ikõiva:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(ndojeguerúiva)</span>
        *[other] <span>Tembiapo ñepyrũ ikõiva:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(ndojeguerúiva)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Ñe’ẽñemi pyahu mbojuajupyre:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ñe’ẽñemi pyahu mbojuajupyre:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Mba’eporu oĩva hekopyahupyréva:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Mba’eporu oĩva hekopyahupyréva:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Mba’eporu ikõiva jejuhupyre:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(noñemba’eguerúiva)</span>
+       *[other] <span>Mba’eporu ikõiva jejuhupyre:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(noñemba’eguerúiva)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
