@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-alert-title = Таҳлили муҳтаво
+contentanalysis-operationtype-clipboard = ҳофизаи муваққатӣ
+contentanalysis-notification-title = Таҳлили муҳтаво

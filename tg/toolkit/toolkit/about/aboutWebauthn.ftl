@@ -85,8 +85,10 @@ about-webauthn-auth-option-null = Дастгирӣ намешавад
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-certifications = Гувоҳномаҳо
+about-webauthn-auth-info-min-pin-length = Дарозии ҳадди ақали рамзи PIN
 about-webauthn-auth-info-algorithms = Алгоритмҳо
 about-webauthn-auth-info-pin-protocols = Протоколҳои рамзи PIN
+about-webauthn-auth-info-max-msg-size = Андозаи ҳадди аксари паём
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Васеъшавиҳо
