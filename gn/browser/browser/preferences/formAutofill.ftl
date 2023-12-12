@@ -37,6 +37,10 @@ address-capture-manage-address-button =
     .label = Kundaharape ñemboheko
 address-capture-learn-more-button =
     .label = Kuaave
+address-capture-open-menu-button =
+    .aria-label = Embojuruja poravorã
+address-capture-edit-address-button =
+    .aria-label = Embosako’i kundaharape
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Embojuaju kundaharape pyahu
 # The dialog title for editing addresses in browser preferences.
@@ -110,6 +114,7 @@ autofill-address-email = Ñandutiveve
 autofill-cancel-button = Heja
 autofill-save-button = Ñongatu
 autofill-country-warning-message = Pe myanyhẽha ijeheguíva ko’ág̃a ikatu ojeporu ndahetái tetãme.
+autofill-message-tooltip = Ehecha ñe’ẽmondo myanyhẽjehegui rehegua
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Embojoaju kuatia’atã ñemurã pyahu
 # The dialog title for editing credit cards in browser preferences.

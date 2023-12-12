@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = PIN ndoikóiva. Eha’ãjey.
 webauthn-pin-required-prompt = Emoingemína PIN oikóva ne mba’e’okápe.
 webauthn-select-sign-result-unknown-account = Mba’ete ojeikuaa’ỹva
+webauthn-a-passkey-label = Eiporu mba’eñemi jeikerã
+webauthn-another-passkey-label = Eiporu ambue mba’eñemi jeikerã
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Mba’eñemi jeikerã { $domain }-pe g̃uarã
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
