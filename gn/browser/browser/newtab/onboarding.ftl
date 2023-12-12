@@ -337,3 +337,5 @@ onboarding-device-migration-primary-button-label = Eñepyrũ tembiapo
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Rovy’ã eimére tekorosãme
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } oĩ tapiaite nendive

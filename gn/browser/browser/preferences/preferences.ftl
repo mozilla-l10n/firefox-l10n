@@ -1289,6 +1289,7 @@ preferences-doh-status-disabled = Mboguepyre
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Oku’e’ỹva ({ $reason })
 preferences-doh-group-message = Embojuruja DNS hekorosãva eiporúvo:
+preferences-doh-group-message2 = Emyandy DNS HTTPS ári eiporúvo:
 preferences-doh-expand-section =
     .tooltiptext = Maranduve
 preferences-doh-setting-default =

@@ -368,3 +368,17 @@ pdfjs-editor-resizer-label-middle-left = Mbyte asu gotyo — emoambue tuichakue
 
 # This means "Color used to highlight text"
 pdfjs-editor-highlight-colorpicker-label = Jehechaveha sa’y
+pdfjs-editor-colorpicker-button =
+    .title = Emoambue sa’y
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Sa’y poravopyrã
+pdfjs-editor-colorpicker-yellow =
+    .title = Sa’yju
+pdfjs-editor-colorpicker-green =
+    .title = Hovyũ
+pdfjs-editor-colorpicker-blue =
+    .title = Hovy
+pdfjs-editor-colorpicker-pink =
+    .title = Pytãngy
+pdfjs-editor-colorpicker-red =
+    .title = Pyha
