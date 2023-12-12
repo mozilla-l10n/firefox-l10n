@@ -187,6 +187,19 @@ media-codec-support-unsupported = Oñepytyvõ’ỹva
 media-codec-support-error = Pe marandu códec jokupyty ndojeporukuaái. Eha’ãjey ehecha rire marandurenda ñongatuha.
 media-codec-support-lack-of-extension = Emohenda jepysokue
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-key-system-name = Apopyvusu mba’eñemi réra
+media-video-robustness = Ta’ãngamýi rusukue
+media-audio-robustness = Mba’epu rusukue
+media-cdm-capabilities = Tembiapoite
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Ñepyrũ Potĩ
+
 ##
 
 intl-title = Mongakuaa & ñemohenda
