@@ -361,6 +361,10 @@ main-context-menu-manage-logins2 =
     .label = Gestisci credenziali
     .accesskey = G
 
+main-context-menu-manage-passwords =
+    .label = Gestisci password
+    .accesskey = G
+
 main-context-menu-keyword =
     .label = Aggiungi una parola chiave per questa ricerca…
     .accesskey = p
