@@ -54,6 +54,7 @@ about-webauthn-current-pin-label = PIN ag̃agua:
 about-webauthn-pin-required-label = Emoinge pe PIN:
 about-webauthn-credential-list-subsection-title = Terachaukaha:
 about-webauthn-credential-list-empty = Ndojejuhúi terachaukaha mba’e’okápe.
+about-webauthn-confirm-deletion-label = Oñemboguetátama ag̃aite:
 
 ## Buttons
 

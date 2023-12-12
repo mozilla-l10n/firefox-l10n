@@ -191,6 +191,7 @@ media-codec-support-lack-of-extension = Emohenda jepysokue
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-content-decryption-modules-title = Marandu módulo de descifrado de contenido rehegua
 media-key-system-name = Apopyvusu mba’eñemi réra
 media-video-robustness = Ta’ãngamýi rusukue
 media-audio-robustness = Mba’epu rusukue
