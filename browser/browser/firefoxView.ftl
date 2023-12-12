@@ -136,6 +136,35 @@ firefoxview-opentabs-focus-tab =
     .title = මෙම පටිත්තට මාරුවන්න
 firefoxview-show-more = තව පෙන්වන්න
 firefoxview-show-less = අඩුවෙන් පෙන්වන්න
+firefoxview-search-text-box-clear-button =
+    .title = මකන්න
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = සෙවුම් ඉතිහාසය
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = මෑත දී වසා දැමූ පටිති සොයන්න
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = සමමුහූර්ත පටිති සොයන්න
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = විවෘත පටිති සොයන්න
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = “{ $query }” සඳහා සෙවුම් ප්‍රතිඵල
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] අඩවි { $count }
+       *[other] අඩවි { $count }
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = “{ $query }” සඳහා ප්‍රතිඵල නැත
 firefoxview-sort-history-by-date-label = දිනය අනුව පිළිවෙළට
 firefoxview-sort-history-by-site-label = අඩවිය අනුව පිළිවෙළට
 # Variables:

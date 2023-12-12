@@ -345,8 +345,7 @@ about-logins-import-report-row-description-error-missing-field = දෝෂය: {
 
 about-logins-import-report-added =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">නව පිවිසුමක් එක් කෙරිණි</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">නව පිවිසුම් එක් කෙරිණි</div>
+       *[other] <div data-l10n-name="details">නව පිවිසුම් එක් කෙරිණි:</div> <div data-l10n-name="count">{ $count }</div>
     }
 about-logins-import-report-modified =
     { $count ->
@@ -356,6 +355,14 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="details">පිවිසුම් අනුපිටපත්</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="not-imported">(ආයාත නොකෙරිණි)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+       *[other] <div data-l10n-name="details">නව මුරපද එක් කෙරිණි:</div> <div data-l10n-name="count">{ $count }</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+       *[other] <div data-l10n-name="details">පවතින නිවේශිත යාවත්කාල විය:</div> <div data-l10n-name="count">{ $count }</div>
     }
 about-logins-import-report-error =
     { $count ->

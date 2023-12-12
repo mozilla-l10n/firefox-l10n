@@ -880,6 +880,19 @@ unified-extensions-button-quarantined =
         දිගු
         ඇතැම් දිගු සඳහා ඉඩ නොදේ
 
+## Private browsing reset button
+
+reset-pbm-panel-always-ask-checkbox =
+    .label = සැමවිට අසන්න
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = අවලංගු
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = වාරයේ දත්ත මකන්න
+    .accesskey = D
+reset-pbm-panel-complete = පෞද්. වාරයේ දත්ත මැකිණි
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } මෙම පිටුව ස්වයංක්‍රීයව යළි පූරණය වීම වළක්වා ඇත.
