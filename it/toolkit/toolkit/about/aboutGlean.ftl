@@ -51,6 +51,9 @@ about-glean-no-ping-label = (non inviare alcun ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings =
   Assicurarsi di avere indicato un tag di debug facile da ricordare, in modo da poter riconoscere i ping in seguito.
+about-glean-label-for-tag-pings-with-requirements =
+  Impostare un tag di debug facile da ricordare <span>(massimo 20 caratteri, consentiti solo caratteri alfanumerici e -)</span>, in modo da poter riconoscere i ping in seguito.
+
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
