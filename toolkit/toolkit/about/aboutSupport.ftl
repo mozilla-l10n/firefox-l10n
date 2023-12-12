@@ -195,6 +195,7 @@ media-codec-support-lack-of-extension = Instalar extensión
 ## https://w3c.github.io/encrypted-media/
 
 media-content-decryption-modules-title = Información de los módulos de descifrado de contenido
+media-key-system-name = Nombre del sistema de clave
 media-video-robustness = Robustez del video
 media-audio-robustness = Robustez del audio
 media-cdm-capabilities = Funcionalidades
