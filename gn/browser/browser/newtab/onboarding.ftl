@@ -335,3 +335,5 @@ onboarding-device-migration-primary-button-label = Eñepyrũ tembiapo
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Rovy’ã eimére tekorosãme

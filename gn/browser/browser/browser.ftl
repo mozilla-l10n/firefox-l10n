@@ -351,6 +351,7 @@ identity-connection-secure = Jeikekatu
 identity-connection-failure = Jeike oiko’ỹva
 identity-connection-internal = Kóva { -brand-short-name } jeroviáva; kuatiarogue.
 identity-connection-file = Ko kuatiarogue oñeñongatu mohendahápe.
+identity-connection-associated = Ko kuatiarogue oñemyanyhẽ ambue kuatiarogue guive.
 identity-extension-page = Ko kuatiarogue oñemyanyhẽ jepysokue guive.
 identity-active-blocked = { -brand-short-name } ojokóma ko kuatiarogue pehẽ ijerovia’ỹha.
 identity-custom-root = Jeike ohechapyréva mboajepyre me’ẽha Mozilla omoneĩ’ỹva.

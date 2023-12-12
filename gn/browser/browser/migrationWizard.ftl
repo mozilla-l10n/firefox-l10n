@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Techaukaha
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Takate’ỹha
 migration-logins-and-passwords-option-label = Poruhára ha ñe’ẽñemi ñongatupyre
+migration-passwords-option-label = Ñe’ẽñemi ñongatupyre
 migration-history-option-label = Kundaha rembiasakue
 migration-extensions-option-label = Jepysokue
 migration-form-autofill-option-label = Myanyhẽha henyhẽjeheguíva

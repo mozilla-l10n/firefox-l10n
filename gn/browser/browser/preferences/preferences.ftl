@@ -745,6 +745,7 @@ sync-currently-syncing-bookmarks = Techaukaha
 sync-currently-syncing-history = Tembiasakue
 sync-currently-syncing-tabs = Tendayke ijurujáva
 sync-currently-syncing-logins-passwords = Tembiapo ñepyrũ ha ñe’ẽñemi
+sync-currently-syncing-passwords = Ñe’ẽñemi
 sync-currently-syncing-addresses = Kundaharape
 sync-currently-syncing-creditcards = Kuatia’atã ñemurã
 sync-currently-syncing-addons = Moĩmbaha
