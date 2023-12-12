@@ -373,6 +373,7 @@ about-logins-import-dialog-error-try-import-again = Eñeha’ã emba’eguerujey
 about-logins-import-dialog-error-cancel = Heja
 about-logins-import-report-title = Mba’egueru Ñemomichĩ
 about-logins-import-report-description = Tembiapo ñepyrũ ha ñe’ẽñemi eguerupyre { -brand-short-name }-gui.
+about-logins-import-report-description2 = Ñe’ẽñemi mba’eguerupyre { -brand-short-name }-gui.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -380,6 +381,9 @@ about-logins-import-report-row-index = Tysyi’i { $number }
 about-logins-import-report-row-description-no-change = Mokõimbyre: Ojokupyty tembiapo ñepyrũ oĩvare
 about-logins-import-report-row-description-modified = Tembiapo ñepyrũ oĩva hekopyahúma
 about-logins-import-report-row-description-added = Tembiapo ñepyrũ pyahu mbojuajupyre
+about-logins-import-report-row-description-no-change2 = Ikõimbyre: ojokupyty mba’eporu oĩvavoi ndive
+about-logins-import-report-row-description-modified2 = Mba’eporu oĩvavoi hekopyahupyréva
+about-logins-import-report-row-description-added2 = Ñe’ẽñemi pyahu mbojuajupyre
 about-logins-import-report-row-description-error = Javy: Kora oĩ’ỹva
 
 ##
@@ -406,6 +410,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tembiapo ñepyrũ mokõimbyre</div> <div data-l10n-name="not-imported">(ndojeguerúiva)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Tembiapo ñepyrũ mokõimbyre</div> <div data-l10n-name="not-imported">(ndojeguerúiva)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ñe’ẽñemi pyahu mbojuajupyre</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ñe’ẽñemi pyahu mbojuajupyre</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mba’eporu oĩvavoi hekopyahupyréva</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mba’eporu oĩvavoi hekopyahupyréva</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mba’eporu  ikõimbyre</div> <div data-l10n-name="not-imported">(noñemba’eguerúiva)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Mba’eporu  ikõimbyre</div> <div data-l10n-name="not-imported">(noñemba’eguerúiva)</div>
     }
 about-logins-import-report-error =
     { $count ->
