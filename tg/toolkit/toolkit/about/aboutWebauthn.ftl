@@ -70,6 +70,10 @@ about-webauthn-auth-option-rk = Калиди муқим
 about-webauthn-auth-option-plat = Дастгоҳи платформа
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Иҷозатҳои фармон (pinUvAuthToken)
+about-webauthn-auth-option-authnrcfg = Танзимоти «Authenticator»
+about-webauthn-auth-option-uvacfg = Иҷозати танзимоти «Authenticator»
+about-webauthn-auth-option-credmgmt = Идоракунии маълумоти корбар
+about-webauthn-auth-option-credentialmgmtpreview = Намунаи идоракунии маълумоти корбар
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Дуруст
 # Shows when boolean value of an option is False. False should not be translated.
