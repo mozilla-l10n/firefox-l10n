@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Tembiapo ñepyrũ pyahu moheñói
+about-logins-page-title-name = Ñe’ẽñemi
+about-logins-login-filter2 =
+    .placeholder = Eheka Ñe’ẽñemi
+    .key = F
+create-login-button =
+    .title = Embojuaju ñe’ẽñemi
 fxaccounts-sign-in-text = Egueru umi ne ñe’ẽñemi ne ambue mba’e’okágui
 fxaccounts-sign-in-sync-button = Eike embojuehe hag̃ua
 fxaccounts-avatar-button =
@@ -50,6 +56,21 @@ login-list-filtered-count =
         [many] { $count } { $total } rembiapo ñepyrũ
        *[other] { $count } { $total } rembiapokuéra ñepyrũ
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } ñe’ẽñemi
+       *[other] { $count } ñe’ẽñemi
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } oĩva { $total } ñe’ẽñemi
+       *[other] { $count } oĩva { $total } ñe’ẽñemikuéra
+    }
 login-list-sort-label-text = Omoĩporã:
 login-list-name-option = Téra  (A-Z)
 login-list-name-reverse-option = Téra (Z-A)
@@ -59,11 +80,14 @@ about-logins-login-list-alerts-option = Kyhyjerã
 login-list-last-changed-option = Ñemoambue ipyahuvéva
 login-list-last-used-option = Ojeporúva ipahápe
 login-list-intro-title = Ndojejuhúi jeikeha
+login-list-intro-title2 = Ndaipóri ñe’ẽñemi ñongatupyre
 login-list-intro-description = Eñongatúvo ñe’ẽñemi { -brand-product-name } ndive, kóva ojehecháta ápe.
 about-logins-login-list-empty-search-title = Ndojejuhúi tembiapo ñepyrũ
+about-logins-login-list-empty-search-title2 = Ndojejuhúi ñe’ẽñemi ñongatupyre
 about-logins-login-list-empty-search-description = Ndaipóri pe ehekáva.
 login-list-item-title-new-login = Tembiapo ñepyrũ pyahu
 login-list-item-subtitle-new-login = Emoinge nde reraite tembiapo ñepyrũme
+login-list-item-title-new-login2 = Embojuaju ñe’ẽñemi
 login-list-item-subtitle-missing-username = (poruhára hera’ỹva)
 about-logins-list-item-breach-icon =
     .title = Ñanduti renda imarãva
@@ -95,6 +119,11 @@ login-item-edit-button = Mbosako’i
 about-logins-login-item-remove-button = Mboguete
 login-item-origin-label = Ñanduti kundaharape
 login-item-tooltip-message = Emoñondivéke pe kundaharape ñanduti renda emoñepyrũhápe tembiapo rehe.
+about-logins-origin-tooltip = Emoñondive ñanduti renda kundaharape emoñepyrũhápe tembiapo.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Eñongatúke katuete ne ñe’ẽñemi ag̃aguáva ko tendápe g̃uarã. Emoambuévo ñe’ẽñemi ko’ápe nomoambuéi { $webTitle } pegua.
+about-logins-add-password-tooltip = Eñongatúke katuete ne ñe’ẽñemi ag̃aguáva ko tendápe g̃uarã.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Poruhára réra
