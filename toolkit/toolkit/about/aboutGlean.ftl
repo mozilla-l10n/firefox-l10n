@@ -53,6 +53,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (핑을 제출하지 마세요)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = 앞의 필드에서 기억할 수 있는 디버그 태그가 있는지 확인하여 나중에 핑을 인식할 수 있습니다.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = 나중에 핑을 인식할 수 있도록 기억하기 쉬운 디버그 태그<span>(20자 이하, 영숫자 및 -만)</span>를 설정하세요.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
