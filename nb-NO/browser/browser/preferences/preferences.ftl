@@ -851,18 +851,28 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Passord
     .searchkeywords = innlogginger
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Spør om å lagre passord
+    .accesskey = S
 forms-exceptions =
     .label = Unntak …
     .accesskey = n
 forms-generate-passwords =
     .label = Foreslå og generer sterke passord
     .accesskey = o
+forms-suggest-passwords =
+    .label = Foreslå sterkt passord …
+    .accesskey = F
 forms-breach-alerts =
     .label = Vis varsler om passord for datalekkasjer på nettsteder
     .accesskey = p
 forms-breach-alerts-learn-more-link = Les mer
 preferences-relay-integration-checkbox =
     .label = Foreslå { -relay-brand-name } e-postalias for å beskytte e-postadressen din
+preferences-relay-integration-checkbox2 =
+    .label = Foreslå { -relay-brand-name } e-postalias for å beskytte e-postadressen din
+    .accesskey = F
 relay-integration-learn-more-link = Les mer
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -870,6 +880,13 @@ forms-fill-logins-and-passwords =
     .accesskey = i
 forms-saved-logins =
     .label = Lagrede innlogginger …
+    .accesskey = L
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Fyll ut brukernavn og passord automatisk
+    .accesskey = F
+forms-saved-passwords =
+    .label = Lagrede passord
     .accesskey = L
 forms-primary-pw-use =
     .label = Bruk et hovedpassord
@@ -908,6 +925,17 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Autofyll
+autofill-addresses-checkbox = Lagre og fyll ut adresser
+    .accesskey = L
+autofill-saved-addresses-button = Lagrede adresser
+    .accesskey = L
+autofill-payment-methods-checkbox-message = Lagre og fyll inn betalingsmetoder
+    .accesskey = L
+autofill-payment-methods-checkbox-submessage = Inkluderer kreditt- og debetkort
+    .accesskey = I
+autofill-saved-payment-methods-button = Lagrede betalingsmetoder
+    .accesskey = e
 
 ## Privacy Section - History
 
