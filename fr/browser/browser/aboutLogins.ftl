@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importer depuis un autr
 about-logins-menu-menuitem-import-from-a-file = Importer depuis un fichier…
 about-logins-menu-menuitem-export-logins = Exporter les identifiants…
 about-logins-menu-menuitem-remove-all-logins = Supprimer tous les identifiants…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Supprimer tous les mots de passe…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Options
@@ -114,11 +116,13 @@ about-logins-intro-import2 = Si vos identifiants de connexion et mots de passe s
 ## Login
 
 login-item-new-login-title = Créer un nouvel identifiant
+# Header for adding a password
+about-logins-login-item-new-login-title = Ajouter un mot de passe
 login-item-edit-button = Modifier
 about-logins-login-item-remove-button = Supprimer
 login-item-origin-label = Adresse web
 login-item-tooltip-message = Assurez-vous que cela correspond à l’adresse exacte du site web où vous vous connectez.
-about-logins-origin-tooltip = Assurez-vous de la correspondance exacte avec l’adresse du site web auquel vous vous connectez.
+about-logins-origin-tooltip2 = Saisissez l’adresse complète et assurez-vous de sa correspondance exacte avec l’adresse depuis laquelle vous vous connectez.
 about-logins-add-password-tooltip = Assurez-vous d’enregistrer votre mot de passe actuel pour ce site.
 login-item-origin =
     .placeholder = https://www.example.com
