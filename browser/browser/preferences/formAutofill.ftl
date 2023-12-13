@@ -5,7 +5,7 @@
 
 ## The address and credit card autofill management dialog in browser preferences
 
-autofill-manage-addresses-title = Saved Addresses
+autofill-manage-addresses-title = Saved addresses
 autofill-manage-addresses-list-header = Addresses
 autofill-manage-credit-cards-title = Saved Credit Cards
 autofill-manage-credit-cards-list-header = Credit Cards
@@ -48,7 +48,7 @@ address-capture-edit-address-button =
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Add address
 # The dialog title for editing addresses in browser preferences.
-autofill-edit-address-title = Edit Address
+autofill-edit-address-title = Edit address
 autofill-address-name = Name
 autofill-address-given-name = First Name
 autofill-address-additional-name = Middle Name
