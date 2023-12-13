@@ -802,10 +802,10 @@ sync-engine-creditcards =
     .label = Kreditne karty
     .tooltiptext = Mjena, ličby a datumy spadnjenja (jenož desktop)
     .accesskey = K
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Płaćenske metody
-    .tooltiptext = Mjena, kartowe čisła a datumy spadnjenja (jenož desktop)
-    .accesskey = n
+    .tooltiptext = Mjena, kartowe čisła a datumy spadnjenja
+    .accesskey = m
 sync-engine-addons =
     .label = Přidatki
     .tooltiptext = Rozšěrjenja a drasty za desktopowy Firefox
@@ -852,18 +852,35 @@ pane-privacy-logins-and-passwords-header = Přizjewjenja a hesła
 forms-ask-to-save-logins =
     .label = Prašeć so, hač so maja přizjewjenja a hesła składować
     .accesskey = r
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Hesła
+    .searchkeywords = přizjewjenja
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Prašeć so, hač so maja hesła składować
+    .accesskey = P
 forms-exceptions =
     .label = Wuwzaća…
     .accesskey = u
 forms-generate-passwords =
     .label = Mócne hesła wutworić a namjetować
     .accesskey = h
+forms-suggest-passwords =
+    .label = Sylne hesła namjetować
+    .accesskey = S
 forms-breach-alerts =
     .label = Warnowanja za hesła přez datowu dźěru potrjechenych websydłow
     .accesskey = z
 forms-breach-alerts-learn-more-link = Dalše informacije
 preferences-relay-integration-checkbox =
     .label = E-mejlowe maski { -relay-brand-name } namjetować, zo by so e-mejlowa adresa škitała
+preferences-relay-integration-checkbox2 =
+    .label = E-mejlowe maski { -relay-brand-name } namjetować, zo by so e-mejlowa adresa škitała
+    .accesskey = E
 relay-integration-learn-more-link = Dalše informacije
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -871,6 +888,9 @@ forms-fill-logins-and-passwords =
     .accesskey = z
 forms-saved-logins =
     .label = Składowane přizjewjenja…
+    .accesskey = S
+forms-saved-passwords =
+    .label = Składowane hesła
     .accesskey = S
 forms-primary-pw-use =
     .label = Hłowne hesło wužiwać
@@ -906,6 +926,18 @@ primary-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske da
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Hłowne hesło wutworić
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Awtomatisce wupjelnić
+autofill-addresses-checkbox = Adresy składować a wupjelnić
+    .accesskey = A
+autofill-saved-addresses-button = Składowane adresy
+    .accesskey = k
+autofill-payment-methods-checkbox-message = Płaćenske metody składować a wupjelnić
+    .accesskey = m
+autofill-saved-payment-methods-button = Składowane płaćenske metody
+    .accesskey = d
 
 ## Privacy Section - History
 
