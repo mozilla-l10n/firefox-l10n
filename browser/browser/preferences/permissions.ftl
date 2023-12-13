@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Innskráningar fyrir eftirfarandi vefsvæði verða ekki vistuð
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Undantekningar - Vistuð lykilorð
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } mun ekki vista lykilorð fyrir vefsvæði sem skráð eru hér.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
