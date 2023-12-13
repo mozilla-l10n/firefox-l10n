@@ -123,6 +123,9 @@ about-logins-login-item-remove-button = Supprimer
 login-item-origin-label = Adresse web
 login-item-tooltip-message = Assurez-vous que cela correspond à l’adresse exacte du site web où vous vous connectez.
 about-logins-origin-tooltip2 = Saisissez l’adresse complète et assurez-vous de sa correspondance exacte avec l’adresse depuis laquelle vous vous connectez.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Assurez-vous de bien enregistrer votre mot de passe actuel pour ce site. Changer le mot de passe ici ne suffit pas à le changer pour { $webTitle }.
 about-logins-add-password-tooltip = Assurez-vous d’enregistrer votre mot de passe actuel pour ce site.
 login-item-origin =
     .placeholder = https://www.example.com
@@ -137,6 +140,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Copier
 login-item-copied-password-button-text = Copié !
 login-item-save-changes-button = Enregistrer les modifications
+about-logins-login-item-save-changes-button = Enregistrer
 login-item-save-new-button = Enregistrer
 login-item-cancel-button = Annuler
 
@@ -164,6 +168,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Pour modifier votre identif
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifier l’identifiant enregistré
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Pour modifier votre mot de passe, utilisez vos informations de connexion à Windows. Cela contribue à protéger la sécurité de vos comptes.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = modifier le mot de passe enregistré
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pour afficher votre mot de passe, entrez vos informations de connexion Windows. Cela permet de conserver la sécurité de vos comptes.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -179,6 +188,11 @@ about-logins-export-password-os-auth-dialog-message-win = Pour exporter vos iden
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exporter les identifiants et mots de passe enregistrés
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Pour exporter vos mots de passe, utilisez vos informations de connexion à Windows. Cela contribue à protéger la sécurité de vos comptes.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exporter les mots de passe enregistrés
 
 ## Primary Password notification
 
@@ -194,6 +208,10 @@ confirmation-dialog-dismiss-button =
     .title = Annuler
 about-logins-confirm-remove-dialog-title = Supprimer cet identifiant ?
 confirm-delete-dialog-message = Cette action est irréversible.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Supprimer le mot de passe ?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Cette action ne peut être annulée.
 about-logins-confirm-remove-dialog-confirm-button = Supprimer
 
 ## Variables
@@ -233,6 +251,26 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Cette action supprimera l’identifiant enregistré dans { -brand-short-name } de tous vos appareils synchronisés à votre compte. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
        *[other] Cette action supprimera tous les identifiants enregistrés dans { -brand-short-name } de tous vos appareils synchronisés à votre compte. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Oui, supprimer le mot de passe
+        [one] Oui, supprimer le mot de passe
+       *[other] Oui, supprimer les mots de passe
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Cette action supprime le mot de passe enregistré dans { -brand-short-name } et toutes les alertes de fuite de données. Elle ne peut être annulée.
+        [one] Cette action supprime le mot de passe enregistré dans { -brand-short-name } et toutes les alertes de fuite de données. Elle ne peut être annulée.
+       *[other] Cette action supprime les mots de passe enregistrés dans { -brand-short-name } et toutes les alertes de fuite de données. Elle ne peut être annulée.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Supprimer le mot de passe de tous les appareils ?
+       *[other] Supprimer les { $count } mots de passe de tous les appareils ?
     }
 
 ##
