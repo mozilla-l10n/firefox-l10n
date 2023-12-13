@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importeren vanuit een a
 about-logins-menu-menuitem-import-from-a-file = Uit een bestand importeren…
 about-logins-menu-menuitem-export-logins = Aanmeldingen exporteren…
 about-logins-menu-menuitem-remove-all-logins = Alle aanmeldingen verwijderen…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Alle wachtwoorden verwijderen…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opties
@@ -114,11 +116,13 @@ about-logins-intro-import2 = Als uw aanmeldingen buiten { -brand-product-name } 
 ## Login
 
 login-item-new-login-title = Nieuwe aanmelding maken
+# Header for adding a password
+about-logins-login-item-new-login-title = Wachtwoord toevoegen
 login-item-edit-button = Bewerken
 about-logins-login-item-remove-button = Verwijderen
 login-item-origin-label = Websiteadres
 login-item-tooltip-message = Zorg ervoor dat dit precies overeenkomt met het adres van de website waar u zich aanmeldt.
-about-logins-origin-tooltip = Zorg ervoor dat dit precies overeenkomt met het adres van de website waar u zich aanmeldt.
+about-logins-origin-tooltip2 = Voer het volledige adres in en zorg ervoor dat het exact overeenkomt met waar u zich aanmeldt.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Zorg ervoor dat u uw huidige wachtwoord voor deze website opslaat. Als u het wachtwoord hier wijzigt, wordt het niet gewijzigd bij { $webTitle }.
@@ -136,6 +140,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopiëren
 login-item-copied-password-button-text = Gekopieerd!
 login-item-save-changes-button = Wijzigingen opslaan
+about-logins-login-item-save-changes-button = Opslaan
 login-item-save-new-button = Opslaan
 login-item-cancel-button = Annuleren
 
@@ -163,6 +168,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Voer uw aanmeldgegevens voo
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = bewerk de opgeslagen aanmelding
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te bewerken. Hierdoor wordt de beveiliging van uw accounts beschermd.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = het opgeslagen wachtwoord te bewerken
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te bekijken. Hierdoor wordt de beveiliging van uw accounts beschermd.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -178,6 +188,11 @@ about-logins-export-password-os-auth-dialog-message-win = Voer uw aanmeldgegeven
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = opgeslagen aanmeldingen en wachtwoorden te exporteren
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoorden te exporteren. Hierdoor wordt de beveiliging van uw accounts beschermd.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = opgeslagen wachtwoorden te exporteren
 
 ## Primary Password notification
 
@@ -193,6 +208,10 @@ confirmation-dialog-dismiss-button =
     .title = Annuleren
 about-logins-confirm-remove-dialog-title = Deze aanmelding verwijderen?
 confirm-delete-dialog-message = Deze actie kan niet ongedaan worden gemaakt.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Wachtwoord verwijderen?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = U kunt deze actie niet ongedaan maken.
 about-logins-confirm-remove-dialog-confirm-button = Verwijderen
 
 ## Variables
@@ -237,6 +256,32 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw account zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
         [one] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw account zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
        *[other] Dit verwijdert de aanmeldingen die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw account zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ja, wachtwoord verwijderen
+        [one] Ja, wachtwoord verwijderen
+       *[other] Ja, wachtwoorden verwijderen
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] { $count } wachtwoord verwijderen?
+       *[other] Alle { $count } wachtwoorden verwijderen?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Dit verwijdert het wachtwoord dat is opgeslagen in { -brand-short-name } en alle waarschuwingen over datalekken. U kunt deze actie niet ongedaan maken.
+        [one] Dit verwijdert het wachtwoord dat is opgeslagen in { -brand-short-name } en alle waarschuwingen over datalekken. U kunt deze actie niet ongedaan maken.
+       *[other] Dit verwijdert de wachtwoorden die zijn opgeslagen in { -brand-short-name } en alle waarschuwingen over datalekken. U kunt deze actie niet ongedaan maken.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] { $count } wachtwoord van alle apparaten verwijderen?
+       *[other] Alle { $count } wachtwoorden van alle apparaten verwijderen?
     }
 
 ##
