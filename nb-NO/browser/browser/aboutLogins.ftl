@@ -188,6 +188,11 @@ about-logins-export-password-os-auth-dialog-message-win = Skriv inn innloggingsi
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = eksporter lagrede innlogginger og passord
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Skriv inn innloggingsinformasjonen for Windows for å eksportere dine passord. Dette vil gjøre kontoene dine tryggere.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = eksporter lagrede passord
 
 ## Primary Password notification
 
@@ -203,6 +208,10 @@ confirmation-dialog-dismiss-button =
     .title = Avbryt
 about-logins-confirm-remove-dialog-title = Fjerne denne innloggingen?
 confirm-delete-dialog-message = Denne handlingen kan ikke angres.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Vil du fjerne passordet?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Du kan ikke angre denne handlingen.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
 
 ## Variables
@@ -242,6 +251,18 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Dette fjerner innloggingen du har lagret i { -brand-short-name } på alle enheter som er synkronisert med kontoen din. Dette vil også fjerne varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
        *[other] Dette fjerner alle innlogginger du har lagret i { -brand-short-name } på alle enheter som er synkronisert med kontoen din. Dette vil også fjerne varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ja, fjern passordet
+       *[other] Ja, fjern passordene
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Fjerne { $count } passord?
+       *[other] Fjerne alle { $count } passordene?
     }
 
 ##
