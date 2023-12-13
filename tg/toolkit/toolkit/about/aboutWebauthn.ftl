@@ -70,6 +70,11 @@ about-webauthn-auth-option-rk = Калиди муқим
 about-webauthn-auth-option-plat = Дастгоҳи платформа
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Иҷозатҳои фармон (pinUvAuthToken)
+about-webauthn-auth-option-ep = Баҳодиҳии корхона
+about-webauthn-auth-option-bioenroll = Бақайдгирии биометрӣ
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Намунаи бақайдгирии биометрӣ (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Иҷозати бақайдгирии биометрӣ
 about-webauthn-auth-option-authnrcfg = Танзимоти «Authenticator»
 about-webauthn-auth-option-uvacfg = Иҷозати танзимоти «Authenticator»
 about-webauthn-auth-option-credmgmt = Идоракунии маълумоти корбар
