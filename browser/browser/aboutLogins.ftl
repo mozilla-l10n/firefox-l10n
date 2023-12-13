@@ -244,6 +244,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Eliminare la password da tutti i dispositivi?
        *[other] Eliminare { $count } password da tutti i dispositivi?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Questa operazione rimuoverà la password salvata in { -brand-short-name } su tutti i dispositivi sincronizzati con il tuo account. Anche i relativi avvisi sulle violazioni verranno eliminati. Non sarà possibile annullare questa operazione.
+       *[other] Questa operazione rimuoverà le password salvate in { -brand-short-name } su tutti i dispositivi sincronizzati con il tuo account. Anche i relativi avvisi sulle violazioni verranno eliminati. Non sarà possibile annullare questa operazione.
+    }
 
 ##
 

@@ -11,18 +11,14 @@ do-not-track-option-default-content-blocking-known =
     .label = Solo quando { -brand-short-name } è impostato per bloccare gli elementi traccianti conosciuti
 do-not-track-option-always =
     .label = Sempre
-
 global-privacy-control-description =
     .label = Segnala ai siti web di non vendere o condividere i miei dati
     .accesskey = S
-
 non-technical-privacy-header = Preferenze per la privacy dei siti web
-
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
-
 settings-page-title = Impostazioni
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -131,12 +127,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Apri finestre e schede esistenti
     .accesskey = r
-
 windows-launch-on-login =
     .label = Apri automaticamente { -brand-short-name } quando si avvia il computer
     .accesskey = A
 windows-launch-on-login-disabled = Questa opzione è stata disattivata in Windows. Per modificarla, apri <a data-l10n-name="startup-link">App di avvio</a> in Impostazioni.
-
 startup-restore-warn-on-quit =
     .label = Avvisa quando si chiude il browser
 disable-extension =
@@ -431,7 +425,7 @@ update-setting-write-failure-title2 = Errore durante il salvataggio delle impost
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-
+    
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -472,7 +466,7 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Mostra sempre le barre di scorrimento
     .accesskey = o
-browsing-always-underline-links=
+browsing-always-underline-links =
     .label = Sottolinea sempre i link
     .accesskey = k
 browsing-use-onscreen-keyboard =
@@ -800,9 +794,9 @@ sync-engine-creditcards =
     .label = Carte di credito
     .tooltiptext = Nome, numero e data di scadenza (solo per desktop)
     .accesskey = r
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Metodi di pagamento
-    .tooltiptext = Nomi, numeri di carte e date di scadenza (solo desktop)
+    .tooltiptext = Nomi, numeri di carta, date di scadenza
     .accesskey = M
 sync-engine-addons =
     .label = Componenti aggiuntivi
@@ -850,11 +844,25 @@ pane-privacy-logins-and-passwords-header = Credenziali e password
 forms-ask-to-save-logins =
     .label = Chiedi se salvare le credenziali di accesso ai siti web
     .accesskey = C
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Password
+    .searchkeywords = credenziali
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Chiedi se salvare le password
+    .accesskey = h
 forms-exceptions =
     .label = Eccezioni…
     .accesskey = z
 forms-generate-passwords =
     .label = Suggerisci e genera password complesse
+    .accesskey = u
+forms-suggest-passwords =
+    .label = Suggerisci password complesse
     .accesskey = u
 forms-breach-alerts =
     .label = Visualizza avvisi per le password di siti coinvolti in violazioni di dati
@@ -862,6 +870,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Ulteriori informazioni
 preferences-relay-integration-checkbox =
     .label = Suggerisci alias di posta elettronica { -relay-brand-name } per proteggere il tuo indirizzo email
+preferences-relay-integration-checkbox2 =
+    .label = Suggerisci alias di posta elettronica { -relay-brand-name } per proteggere il tuo indirizzo email
+    .accesskey = e
 relay-integration-learn-more-link = Ulteriori informazioni
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -870,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Credenziali salvate…
     .accesskey = s
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Compila automaticamente nomi utente e password
+    .accesskey = u
+forms-saved-passwords =
+    .label = Password salvate
+    .accesskey = w
 forms-primary-pw-use =
     .label = Utilizza una password principale
     .accesskey = U
@@ -904,6 +922,16 @@ primary-password-os-auth-dialog-message-win = Per creare una password principale
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = creare una password principale
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Compilazione automatica
+autofill-addresses-checkbox = Salva e compila indirizzi
+    .accesskey = z
+autofill-saved-addresses-button = Indirizzi salvati
+    .accesskey = v
+autofill-payment-methods-checkbox-message = Salva e compila i metodi di pagamento
+    .accesskey = n
 
 ## Privacy Section - History
 
@@ -995,12 +1023,14 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Riduzione banner per i cookie
 cookie-banner-handling-description = { -brand-short-name } cerca di rifiutare automaticamente le richieste dei banner per i cookie nei siti supportati.
-cookie-banner-learn-more = Ulteriori informazioni
-forms-handle-cookie-banners =
-    .label = Riduci banner per i cookie
+
+## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blocco dei banner per i cookie
 cookie-banner-blocker-description = Quando un sito chiede di poter utilizzare i cookie in una finestra anonima, { -brand-short-name } rifiuta automaticamente la richiesta. La funzione è disponibile solo nei siti supportati.
+cookie-banner-learn-more = Ulteriori informazioni
+forms-handle-cookie-banners =
+    .label = Riduci banner per i cookie
 cookie-banner-blocker-checkbox-label =
     .label = Rifiuta automaticamente i banner per i cookie
 
@@ -1045,6 +1075,9 @@ content-blocking-enhanced-tracking-protection = Protezione antitracciamento avan
 content-blocking-section-top-level-description = Gli elementi traccianti ti seguono online al fine di raccogliere informazioni sui tuoi interessi e le tue abitudini di navigazione. { -brand-short-name } blocca molti di questi traccianti e altri script dannosi.
 content-blocking-learn-more = Ulteriori informazioni
 content-blocking-fpi-incompatibility-warning = La funzione First Party Isolation (FPI) è al momento attiva e sostituisce alcune impostazioni di { -brand-short-name } relative ai cookie.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
 content-blocking-rfp-incompatibility-warning = La funzione Resist Fingerprinting (RFP) è al momento attiva e sostituisce alcune impostazioni di { -brand-short-name } relative alla protezione dai fingerprinter. Questo potrebbe causare il malfunzionamento di alcuni siti.
 
 ## These strings are used to define the different levels of
@@ -1079,6 +1112,9 @@ content-blocking-all-windows-tracking-content = Contenuti traccianti in qualunqu
 content-blocking-all-cross-site-cookies = Tutti i cookie intersito
 content-blocking-cryptominers = Cryptominer
 content-blocking-fingerprinters = Fingerprinter
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = Fingerprinter conosciuti e sospetti
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
@@ -1253,7 +1289,6 @@ certs-devices =
 certs-thirdparty-toggle =
     .label = Considera automaticamente affidabili i certificati radice installati dall’utente in { -brand-short-name }
     .accesskey = t
-
 space-alert-over-5gb-settings-button =
     .label = Apri impostazioni
     .accesskey = A
@@ -1336,7 +1371,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
-
-
-
