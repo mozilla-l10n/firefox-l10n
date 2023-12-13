@@ -831,12 +831,23 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = 비밀번호
+    .searchkeywords = 로그인
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = 비밀번호 저장 요청
+    .accesskey = A
 forms-exceptions =
     .label = 예외…
     .accesskey = x
 forms-generate-passwords =
     .label = 강력한 비밀번호 제안 및 생성
     .accesskey = u
+forms-suggest-passwords =
+    .label = 강력한 비밀번호 제안
+    .accesskey = S
 forms-breach-alerts =
     .label = 유출된 웹 사이트의 비밀번호에 대한 경고 표시
     .accesskey = b
@@ -851,6 +862,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = 저장된 로그인…
     .accesskey = L
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = 사용자 이름과 비밀번호를 자동으로 채우기
+    .accesskey = F
+forms-saved-passwords =
+    .label = 저장된 비밀번호
+    .accesskey = d
 forms-primary-pw-use =
     .label = 기본 비밀번호 사용
     .accesskey = U
@@ -888,12 +906,25 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = 자동 채우기
+autofill-addresses-checkbox = 주소 저장 및 채우기
+    .accesskey = a
+autofill-saved-addresses-button = 저장된 주소
+    .accesskey = S
 autofill-payment-methods-checkbox-message = 결제 방법 저장 및 채우기
     .accesskey = m
 autofill-payment-methods-checkbox-submessage = 신용/직불 카드 포함
     .accesskey = I
 autofill-saved-payment-methods-button = 저장된 결제 방법
     .accesskey = v
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] 결제 방법을 채우고 편집하려면 macOS 인증이 필요합니다.
+        [windows] 결제 방법을 채우고 편집하려면 Windows 인증이 필요합니다.
+        [linux] 결제 방법을 채우고 편집하려면 Linux 인증이 필요합니다.
+       *[other] 결제 방법을 채우고 편집하려면 인증이 필요합니다.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
