@@ -190,6 +190,9 @@ about-logins-export-password-os-auth-dialog-message-win = Fier jo oanmeldgegeven
 about-logins-export-password-os-auth-dialog-message-macosx = bewarren oanmeldingen en wachtwurden te eksportearjen
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Fier jo oanmeldgegevens foar Windows yn om jo wachtwurd te eksportearjen. Hjirtroch wurdt de befeiliging fan jo accounts beskerme.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = bewarre wachtwurden te eksportearjen
 
 ## Primary Password notification
 
@@ -205,6 +208,10 @@ confirmation-dialog-dismiss-button =
     .title = Annulearje
 about-logins-confirm-remove-dialog-title = Dizze oanmelding fuortsmite?
 confirm-delete-dialog-message = Dizze aksje kin net ûngedien makke wurde.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Wachtwurd fuortsmite?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Jo kinne dizze aksje net ûngedien meitsje.
 about-logins-confirm-remove-dialog-confirm-button = Fuortsmite
 
 ## Variables
@@ -249,6 +256,39 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Dit smyt de oanmelding fuort dy’t jo yn { -brand-short-name } bewarre hawwe fan alle apparaten dy’t mei jo account syngronisearre binne. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
         [one] Dit smyt de oanmelding fuort dy’t jo yn { -brand-short-name } bewarre hawwe fan alle apparaten dy’t mei jo account syngronisearre binne. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
        *[other] Dit smyt de oanmeldingen fuort dy’t jo yn { -brand-short-name } bewarre hawwe fan alle apparaten dy’t mei jo account syngronisearre binne. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ja, wachtwurd fuortsmite
+        [one] Ja, wachtwurd fuortsmite
+       *[other] Ja, wachtwurden fuortsmite
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] { $count } wachtwurd fuortsmite?
+       *[other] Alle { $count } wachtwurden fuortsmite?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Dit smyt it wachtwurd dat bewarre is yn { -brand-short-name } en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
+        [one] Dit smyt it wachtwurd dat bewarre is yn { -brand-short-name } en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
+       *[other] Dit smyt de wachtwurden dy’t bewarre binne yn { -brand-short-name } en alle warskôgingen oer datalekken fuort. Jo kinne dizze aksje net ûngedien meitsje.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] { $count } wachtwurd fan alle apparaten fuortsmite?
+       *[other] Alle { $count } wachtwurden fan alle apparaten fuortsmite?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Dit smyt it wachtwurd dat yn { -brand-short-name } bewarre is fan al jo syngronisearre apparaten fuort. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
+        [one] Dit smyt it wachtwurd dat yn { -brand-short-name } bewarre is fan al jo syngronisearre apparaten fuort. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
+       *[other] Dit smyt alle wachtwurden dy’t yn { -brand-short-name } bewarre binne fan al jo syngronisearre apparaten fuort. Dit smyt ek alle warskôgingen foar datalekken dy’t hjir ferskine fuort. Jo kinne dizze aksje net ûngedien meitsje.
     }
 
 ##
