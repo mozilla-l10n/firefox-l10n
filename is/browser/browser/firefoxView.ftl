@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Skipta yfir á þennan flipa
 firefoxview-show-more = Sýna meira
 firefoxview-show-less = Sýna minna
+firefoxview-show-all = Birta allt
 firefoxview-search-text-box-clear-button =
     .title = Hreinsa
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Leita
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Leitarferill
