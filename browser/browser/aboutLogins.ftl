@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = 從另一套瀏覽器�
 about-logins-menu-menuitem-import-from-a-file = 從檔案匯入…
 about-logins-menu-menuitem-export-logins = 匯出登入資訊…
 about-logins-menu-menuitem-remove-all-logins = 移除所有登入資料…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = 刪除所有密碼…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] 選項
@@ -101,11 +103,12 @@ about-logins-intro-import2 = 若您的登入資訊並未儲存於 { -brand-produ
 ## Login
 
 login-item-new-login-title = 新增登入資訊
+# Header for adding a password
+about-logins-login-item-new-login-title = 新增密碼
 login-item-edit-button = 編輯
 about-logins-login-item-remove-button = 移除
 login-item-origin-label = 網站網址
 login-item-tooltip-message = 請確定此欄位與您登入網站的網址完全相符。
-about-logins-origin-tooltip = 請確認此欄位與您登入網站的網址完全相符。
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = 請確認您更改過此網站的密碼，再於此處修改。單純於此處修改並不會更改 { $webTitle } 上的密碼。
@@ -123,6 +126,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = 複製
 login-item-copied-password-button-text = 已複製！
 login-item-save-changes-button = 儲存變更
+about-logins-login-item-save-changes-button = 儲存
 login-item-save-new-button = 儲存
 login-item-cancel-button = 取消
 
@@ -150,6 +154,9 @@ about-logins-edit-login-os-auth-dialog-message-win = 請在下方輸入您的 Wi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 編輯儲存的登入資訊
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = 編輯儲存的網站密碼
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = 請在下方輸入您的 Windows 登入帳號密碼才能檢視密碼。這個動作是為了保護您的登入資訊安全。
 # This message can be seen when attempting to reveal a password in about:logins
@@ -165,6 +172,9 @@ about-logins-export-password-os-auth-dialog-message-win = 請在下方輸入您�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = 匯出儲存的登入資訊與密碼
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = 匯出儲存的網站密碼
 
 ## Primary Password notification
 
