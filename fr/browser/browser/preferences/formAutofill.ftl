@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Adresses enregistrées
 autofill-manage-addresses-list-header = Adresses
 autofill-manage-credit-cards-title = Cartes bancaires enregistrées
 autofill-manage-credit-cards-list-header = Cartes bancaires
+autofill-manage-payment-methods-title = Moyens de paiement enregistrés
+autofill-manage-cards-list-header = Cartes
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Supprimer
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Paramètres des adresses
 address-capture-learn-more-button =
     .label = En savoir plus
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Ajouter une nouvelle adresse
 address-capture-open-menu-button =
     .aria-label = Ouvrir le menu
 address-capture-edit-address-button =
     .aria-label = Modifier l’adresse
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Ajouter une nouvelle adresse
+autofill-add-address-title = Ajouter une adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modifier l’adresse
 autofill-address-name = Nom
@@ -114,11 +118,15 @@ autofill-address-email = Adresse e-mail
 autofill-cancel-button = Annuler
 autofill-save-button = Enregistrer
 autofill-country-warning-message = Pour le moment, le remplissage automatique des formulaires est uniquement disponible dans certains pays.
-autofill-message-tooltip = Afficher le message concernant le remplissage automatique
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Ajouter une nouvelle carte bancaire
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modifier la carte bancaire
+autofill-message-tooltip = Afficher le message concernant le remplissage automatique
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Ajouter une carte
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Modifier la carte
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
