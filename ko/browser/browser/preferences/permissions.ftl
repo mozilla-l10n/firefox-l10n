@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = 다음 웹 사이트의 로그인이 기억되지 않음
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = 예외 - 저장된 비밀번호
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name }는 다음 사이트의 비밀번호를 저장하지 않습니다.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
