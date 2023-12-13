@@ -794,6 +794,10 @@ sync-engine-creditcards =
     .label = Kredi kartları
     .tooltiptext = Adlar, numaralar ve son kullanma tarihleri (yalnızca masaüstü)
     .accesskey = K
+sync-engine-payment-methods2 =
+    .label = Ödeme yöntemleri
+    .tooltiptext = Adlar, kart numaraları ve son kullanma tarihleri
+    .accesskey = n
 sync-engine-addons =
     .label = Eklentiler
     .tooltiptext = Masaüstü Firefox uzantıları ve temaları
@@ -840,18 +844,31 @@ pane-privacy-logins-and-passwords-header = Hesaplar ve parolalar
 forms-ask-to-save-logins =
     .label = Sitelerdeki kullanıcı adı ve parolalarımı kaydetmeyi öner
     .accesskey = r
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Parolalar
+    .searchkeywords = hesaplar
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = s
 forms-generate-passwords =
     .label = Güçlü parolalar öner ve oluştur
     .accesskey = G
+forms-suggest-passwords =
+    .label = Güçlü parola öner
+    .accesskey = ö
 forms-breach-alerts =
     .label = Veri ihlaline uğrayan sitelerdeki parolalarla ilgili uyarı göster
     .accesskey = V
 forms-breach-alerts-learn-more-link = Daha fazla bilgi al
 preferences-relay-integration-checkbox =
     .label = E-posta adresimi korumak için { -relay-brand-name } e-posta maskeleri öner
+preferences-relay-integration-checkbox2 =
+    .label = E-posta adresimi korumak için { -relay-brand-name } e-posta maskeleri öner
+    .accesskey = r
 relay-integration-learn-more-link = Daha fazla bilgi al
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -860,6 +877,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Kayıtlı hesaplar…
     .accesskey = K
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Kullanıcı adı ve parolaları otomatik doldur
+    .accesskey = d
+forms-saved-passwords =
+    .label = Kayıtlı parolalar
+    .accesskey = o
 forms-primary-pw-use =
     .label = Ana parola kullan
     .accesskey = n
@@ -894,6 +918,26 @@ primary-password-os-auth-dialog-message-win = Ana parola oluşturmak için Windo
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ana parola oluşturma
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Otomatik doldurma
+autofill-addresses-checkbox = Adresleri kaydet ve doldur
+    .accesskey = a
+autofill-saved-addresses-button = Kayıtlı adresler
+    .accesskey = S
+autofill-payment-methods-checkbox-message = Ödeme yöntemlerini kaydet ve doldur
+    .accesskey = m
+autofill-saved-payment-methods-button = Kayıtlı ödeme yöntemleri
+    .accesskey = ö
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Ödeme yöntemlerini doldurmak ve düzenlemek için macOS kimlik doğrulaması iste.
+        [windows] Ödeme yöntemlerini doldurmak ve düzenlemek için Windows kimlik doğrulaması iste.
+        [linux] Ödeme yöntemlerini doldurmak ve düzenlemek için Linux kimlik doğrulaması iste.
+       *[other] Ödeme yöntemlerini doldurmak ve düzenlemek için kimlik doğrulaması iste.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
