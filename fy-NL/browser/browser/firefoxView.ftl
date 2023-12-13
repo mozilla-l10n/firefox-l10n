@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Wikselje nei dit ljepblêd
 firefoxview-show-more = Mear toane
 firefoxview-show-less = Minder toane
+firefoxview-show-all = Alles toane
 firefoxview-search-text-box-clear-button =
     .title = Wiskje
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Sykje
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Skiednis trochsykje

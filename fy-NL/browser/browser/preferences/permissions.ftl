@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Oanmeldingen foar de folgjende websites sille net bewarre wurde
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Utsûnderingen - Bewarre wachtwurden
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } bewarret gjin wachtwurden foar hjir fermelde websites.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
