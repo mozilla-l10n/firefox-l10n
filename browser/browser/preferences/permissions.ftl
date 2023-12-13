@@ -107,6 +107,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Les identifiants pour les sites suivants ne seront pas enregistrés
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Exceptions - Mots de passe enregistrés
+    .style = { permissions-window2.style }
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
