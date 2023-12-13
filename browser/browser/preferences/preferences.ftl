@@ -889,6 +889,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Składowane přizjewjenja…
     .accesskey = S
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Wužiwarske mjena a hesła awtomatisce wupjelnić
+    .accesskey = u
 forms-saved-passwords =
     .label = Składowane hesła
     .accesskey = S
@@ -936,6 +940,8 @@ autofill-saved-addresses-button = Składowane adresy
     .accesskey = k
 autofill-payment-methods-checkbox-message = Płaćenske metody składować a wupjelnić
     .accesskey = m
+autofill-payment-methods-checkbox-submessage = Zapřijima kreditne a debetowe karty
+    .accesskey = Z
 autofill-saved-payment-methods-button = Składowane płaćenske metody
     .accesskey = d
 
