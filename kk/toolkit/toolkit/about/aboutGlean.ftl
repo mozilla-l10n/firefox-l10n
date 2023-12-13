@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (ешқандай пинг жібермеу)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Алдыңғы өрісте пингтерді кейінірек тануға болатын есте қаларлық жөндеу тегі бар екеніне көз жеткізіңіз.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Пингтерді кейін тану үшін есте қалатын жөндеу тегін <span>(20 таңба немесе одан аз, әріптік-сандық және тек - таңбасы)</span> орнатыңыз.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
