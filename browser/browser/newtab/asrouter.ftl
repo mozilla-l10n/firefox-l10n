@@ -243,7 +243,7 @@ device-migration-fxa-spotlight-older-device-header = 안심하세요, { -brand-p
 device-migration-fxa-spotlight-older-device-body = 계정은 연결된 모든 기기에서 중요한 정보를 업데이트하고 보호합니다.
 device-migration-fxa-spotlight-older-device-primary-button = 계정 만들기
 device-migration-fxa-spotlight-getting-new-device-header-2 = 미래의 새 기기?
-device-migration-fxa-spotlight-getting-new-device-body = 지금 데이터를 백업하면, 기기가 도착했을 때 바로 사용할 수 있습니다.
+device-migration-fxa-spotlight-getting-new-device-body-2 = 새 기기를 시작할 때 몇 가지 간단한 단계를 따르면 북마크, 기록, 비밀번호를 가져올 수 있습니다.
 device-migration-fxa-spotlight-getting-new-device-primary-button = 내 데이터를 백업하는 방법
 
 ## Set as Default PDF Reader Infobar
