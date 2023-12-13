@@ -794,10 +794,6 @@ sync-engine-creditcards =
     .label = Cartões de crédito
     .tooltiptext = Nomes, números e datas de expiração (computador apenas)
     .accesskey = C
-sync-engine-payment-methods =
-    .label = Métodos de pagamento
-    .tooltiptext = Nomes, números de cartões e datas de validade (somente em computador)
-    .accesskey = n
 sync-engine-addons =
     .label = Extensões
     .tooltiptext = Extensões e temas para o Firefox no computador
@@ -844,6 +840,9 @@ pane-privacy-logins-and-passwords-header = Contas e senhas
 forms-ask-to-save-logins =
     .label = Perguntar se deve salvar contas e senhas de sites
     .accesskey = r
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Exceções…
     .accesskey = x
@@ -898,6 +897,14 @@ primary-password-os-auth-dialog-message-win = Para criar uma senha principal, in
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = criar uma senha principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Preenchimento automático
+autofill-addresses-checkbox = Salvar e preencher endereços
+    .accesskey = n
+autofill-saved-addresses-button = Endereços salvos
+    .accesskey = E
 
 ## Privacy Section - History
 

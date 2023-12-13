@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Usar conta salva
     .accesskey = o
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Usar senha salva
     .accesskey = e
@@ -305,6 +306,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = S
 main-context-menu-manage-logins2 =
     .label = Gerenciar contas
+    .accesskey = G
+main-context-menu-manage-passwords =
+    .label = Gerenciar senhas
     .accesskey = G
 main-context-menu-keyword =
     .label = Adicionar um atalho a esta pesquisa…

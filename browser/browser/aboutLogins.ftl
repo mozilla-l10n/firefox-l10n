@@ -170,6 +170,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar a conta, insira
 about-logins-edit-login-os-auth-dialog-message-macosx = editar a conta salva
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Para editar a senha, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = editar a senha salva
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para ver a senha, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -185,6 +188,11 @@ about-logins-export-password-os-auth-dialog-message-win = Para exportar suas con
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportar contas e senhas salvas
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Para exportar suas senhas, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportar senhas salvas
 
 ## Primary Password notification
 
@@ -200,6 +208,10 @@ confirmation-dialog-dismiss-button =
     .title = Cancelar
 about-logins-confirm-remove-dialog-title = Remover esta conta?
 confirm-delete-dialog-message = Esta ação não pode ser desfeita.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Remover senha?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Você não pode desfazer esta ação.
 about-logins-confirm-remove-dialog-confirm-button = Remover
 
 ## Variables
@@ -243,6 +255,19 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua conta. Também serão removidos alertas de vazamentos que aparecem aqui. Você não pode desfazer esta ação.
        *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Sim, remover senha
+        [one] Sim, remover senha
+       *[other] Sim, remover senhas
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Remover { $count } senha?
+       *[other] Remover todas as { $count } senhas?
     }
 
 ##
