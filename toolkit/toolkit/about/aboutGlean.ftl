@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (skicka inte in någon ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Se till att det finns en minnesvärd felsökningstagg i föregående fält så att du kan känna igen dina pingar senare.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Ställ in en minnesvärd felsökningstagg <span>(20 tecken eller färre, alfanumeriska och - endast)</span> så att du kan känna igen dina pingar senare.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
