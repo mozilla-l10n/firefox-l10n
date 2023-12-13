@@ -187,6 +187,14 @@ media-codec-support-unsupported = Desteklenmiyor
 media-codec-support-error = Codec destek bilgisi mevcut değil. Bir medya dosyasını oynattıktan sonra tekrar deneyin.
 media-codec-support-lack-of-extension = Uzantı yükle
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = İçerik çözme modülleri bilgileri
+media-key-system-name = Anahtar sistemi adı
+media-cdm-capabilities = Yetenekler
+
 ##
 
 intl-title = Uluslararasılaştırma ve yerelleştirme

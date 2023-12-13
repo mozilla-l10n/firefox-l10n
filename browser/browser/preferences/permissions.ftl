@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Aşağıdaki sitelere giriş bilgileri kaydedilmeyecek
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = İstisnalar - Kayıtlı Parolalar
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } bu listedeki sitelerin parolalarını kaydetmeyecektir.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

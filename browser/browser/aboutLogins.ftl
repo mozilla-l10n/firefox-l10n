@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Başka bir tarayıcıda
 about-logins-menu-menuitem-import-from-a-file = Dosyadan içe aktar…
 about-logins-menu-menuitem-export-logins = Hesapları dışa aktar…
 about-logins-menu-menuitem-remove-all-logins = Tüm hesapları kaldır…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Tüm parolaları sil…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Seçenekler
@@ -114,11 +116,13 @@ about-logins-intro-import2 = Hesaplarınız { -brand-product-name } dışında k
 ## Login
 
 login-item-new-login-title = Yeni hesap oluştur
+# Header for adding a password
+about-logins-login-item-new-login-title = Parola ekle
 login-item-edit-button = Düzenle
 about-logins-login-item-remove-button = Kaldır
 login-item-origin-label = Web sitesi adresi
 login-item-tooltip-message = Giriş yaptığınız web sitesinin tam adresiyle aynı olmalı.
-about-logins-origin-tooltip = Giriş yaptığınız web sitesinin tam adresiyle aynı olmalı.
+about-logins-origin-tooltip2 = Tam adresi yazın ve giriş yaptığınız adresle tam olarak aynı olduğundan emin olun.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Bu sitede kullanmakta olduğunuz parolayı kaydettiğinizden emin olun. Buradaki parolayı değiştirmek { $webTitle } sitesindeki parolanızı değiştirmez.
@@ -136,6 +140,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopyala
 login-item-copied-password-button-text = Kopyalandı!
 login-item-save-changes-button = Değişiklikleri kaydet
+about-logins-login-item-save-changes-button = Kaydet
 login-item-save-new-button = Kaydet
 login-item-cancel-button = İptal
 
@@ -163,6 +168,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Hesabınızı düzenlemek i
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = kayıtlı hesabı düzenleme
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Parolanızı düzenlemek için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = kayıtlı parolayı düzenleme
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Parolanızı görmek için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -178,6 +188,11 @@ about-logins-export-password-os-auth-dialog-message-win = Hesaplarınızı dış
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = kayıtlı hesapları ve parolaları dışa aktarma
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Parolalarınızı dışa aktarmak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = kayıtlı parolaları dışa aktarma
 
 ## Primary Password notification
 
@@ -193,6 +208,10 @@ confirmation-dialog-dismiss-button =
     .title = İptal
 about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Parola silinsin mi?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Bu işlemi geri alamazsınız.
 about-logins-confirm-remove-dialog-confirm-button = Kaldır
 
 ## Variables
@@ -237,6 +256,32 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesap bilgilerini eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
         [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesap bilgilerini eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
        *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesap bilgilerini eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Evet, parolayı sil
+        [one] Evet, parolayı sil
+       *[other] Evet, parolaları sil
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] { $count } parola silinsin mi?
+       *[other] { $count } parolanın hepsi silinsin mi?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolanızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcınızda kayıtlı parolalarınızı ve tüm ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] { $count } parola tüm cihazlardan silinsin mi?
+       *[other] { $count } parolanın hepsi tüm cihazlardan silinsin mi?
     }
 
 ##

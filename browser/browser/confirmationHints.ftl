@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Rapor gönderildi. Teşekkürler!
 confirmation-hint-login-removed = Hesap kaldırıldı!
+confirmation-hint-password-removed = Parola silindi
 confirmation-hint-page-bookmarked = Yer imlerine kaydedildi
 confirmation-hint-password-saved = Parola kaydedildi!
 confirmation-hint-password-created = Parola kaydedildi

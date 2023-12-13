@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Bu sekmeye geç
 firefoxview-show-more = Daha fazla göster
 firefoxview-show-less = Daha az göster
+firefoxview-show-all = Tümünü göster
 firefoxview-search-text-box-clear-button =
     .title = Temizle
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Ara
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Arama geçmişi
