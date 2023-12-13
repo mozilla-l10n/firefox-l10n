@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importera från en anna
 about-logins-menu-menuitem-import-from-a-file = Importera från en fil…
 about-logins-menu-menuitem-export-logins = Exportera inloggningar...
 about-logins-menu-menuitem-remove-all-logins = Ta bort alla inloggningar…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Ta bort alla lösenord...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Inställningar
@@ -114,11 +116,13 @@ about-logins-intro-import2 = Om dina inloggningar sparas utanför { -brand-produ
 ## Login
 
 login-item-new-login-title = Skapa ny inloggning
+# Header for adding a password
+about-logins-login-item-new-login-title = Lägg till lösenord
 login-item-edit-button = Redigera
 about-logins-login-item-remove-button = Ta bort
 login-item-origin-label = Webbadress
 login-item-tooltip-message = Se till att detta matchar den exakta adressen till webbplatsen där du loggar in.
-about-logins-origin-tooltip = Se till att detta matchar den exakta adressen till webbplatsen där du loggar in.
+about-logins-origin-tooltip2 = Ange hela adressen och se till att den stämmer exakt med var du loggar in.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Se till att du sparar ditt nuvarande lösenord för den här webbplatsen. Att ändra lösenordet här ändrar det inte med { $webTitle }.
@@ -136,6 +140,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopiera
 login-item-copied-password-button-text = Kopierad!
 login-item-save-changes-button = Spara ändringar
+about-logins-login-item-save-changes-button = Spara
 login-item-save-new-button = Spara
 login-item-cancel-button = Avbryt
 
@@ -163,6 +168,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Om du vill redigera din inl
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = redigera den sparade inloggningen
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = För att redigera ditt lösenord, ange dina Windows-inloggningsuppgifter. Detta hjälper till att skydda dina konton.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = redigera det sparade lösenordet
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ange dina inloggningsuppgifter för Windows för att se ditt lösenord. Detta skyddar dina kontons säkerhet.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -178,6 +188,11 @@ about-logins-export-password-os-auth-dialog-message-win = För att exportera din
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportera sparade inloggningar och lösenord
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = För att exportera dina lösenord anger du dina Windows-inloggningsuppgifter. Detta hjälper till att skydda dina konton.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportera sparade lösenord
 
 ## Primary Password notification
 
@@ -193,6 +208,10 @@ confirmation-dialog-dismiss-button =
     .title = Avbryt
 about-logins-confirm-remove-dialog-title = Ta bort denna inloggning?
 confirm-delete-dialog-message = Den här åtgärden kan inte ångras.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Ta bort lösenord?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Du kan inte ångra den här åtgärden.
 about-logins-confirm-remove-dialog-confirm-button = Ta bort
 
 ## Variables
@@ -236,6 +255,25 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Detta tar bort inloggningen som du har sparat till { -brand-short-name } på alla enheter som synkroniseras med ditt konto. Detta tar också bort intrångsvarningar som visas här. Du kommer inte att kunna ångra den här åtgärden.
        *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Ta bort { $count } lösenord?
+       *[other] Ta bort alla { $count } lösenord?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Detta kommer att ta bort lösenordet som sparats i { -brand-short-name } och eventuella intrångsvarningar. Du kan inte ångra den här åtgärden.
+        [one] Detta kommer att ta bort lösenordet som sparats i { -brand-short-name } och eventuella intrångsvarningar. Du kan inte ångra den här åtgärden.
+       *[other] Detta kommer att ta bort lösenorden som sparats i { -brand-short-name } och eventuella intrångsvarningar. Du kan inte ångra den här åtgärden.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Vill du ta bort { $count } lösenord från alla enheter?
+       *[other] Vill du ta bort alla { $count } lösenorden från alla enheter?
     }
 
 ##
