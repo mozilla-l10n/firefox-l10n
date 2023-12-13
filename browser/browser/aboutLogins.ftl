@@ -283,6 +283,13 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] { $count } wachtwoord van alle apparaten verwijderen?
        *[other] Alle { $count } wachtwoorden van alle apparaten verwijderen?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Dit verwijdert het wachtwoord dat in { -brand-short-name } is opgeslagen van al uw gesynchroniseerde apparaten. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
+        [one] Dit verwijdert het wachtwoord dat in { -brand-short-name } is opgeslagen van al uw gesynchroniseerde apparaten. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
+       *[other] Dit verwijdert alle wachtwoorden die in { -brand-short-name } zijn opgeslagen van al uw gesynchroniseerde apparaten. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
+    }
 
 ##
 

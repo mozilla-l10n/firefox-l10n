@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Wisselen naar dit tabblad
 firefoxview-show-more = Meer tonen
 firefoxview-show-less = Minder tonen
+firefoxview-show-all = Alles tonen
 firefoxview-search-text-box-clear-button =
     .title = Wissen
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Zoeken
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Geschiedenis doorzoeken

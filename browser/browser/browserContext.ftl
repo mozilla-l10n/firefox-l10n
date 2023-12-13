@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Opgeslagen aanmelding gebruiken
     .accesskey = O
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Opgeslagen wachtwoord gebruiken
     .accesskey = O
@@ -305,6 +306,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = S
 main-context-menu-manage-logins2 =
     .label = Aanmeldingen beheren
+    .accesskey = b
+main-context-menu-manage-passwords =
+    .label = Wachtwoorden beheren
     .accesskey = b
 main-context-menu-keyword =
     .label = Sleutelwoord voor deze zoekopdracht toevoegen…
