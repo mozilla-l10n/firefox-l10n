@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Сақталған логинді қолдану
     .accesskey = о
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Сақталған парольді қолдану
     .accesskey = о
@@ -306,6 +307,9 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins2 =
     .label = Логиндерді басқару
     .accesskey = с
+main-context-menu-manage-passwords =
+    .label = Парольдерді басқару
+    .accesskey = б
 main-context-menu-keyword =
     .label = Осы ізденісті белгілейтін кілт сөзін енгізу…
     .accesskey = к
