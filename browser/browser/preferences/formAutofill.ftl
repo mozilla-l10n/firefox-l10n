@@ -5,25 +5,22 @@
 
 ## The address and credit card autofill management dialog in browser preferences
 
-autofill-manage-addresses-title = Saved Addresses
+autofill-manage-addresses-title = Saved addresses
 autofill-manage-addresses-list-header = Addresses
-
 autofill-manage-credit-cards-title = Saved Credit Cards
 autofill-manage-credit-cards-list-header = Credit Cards
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Remove
 autofill-manage-add-button = Add…
 autofill-manage-edit-button = Edit…
 
-##
+## The address capture doorhanger
 
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Add New Address
 # The dialog title for editing addresses in browser preferences.
-autofill-edit-address-title = Edit Address
-
+autofill-edit-address-title = Edit address
 autofill-address-given-name = First Name
 autofill-address-additional-name = Middle Name
 autofill-address-family-name = Last Name
@@ -81,19 +78,19 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Country or Region
 autofill-address-tel = Phone
 autofill-address-email = Email
-
 autofill-cancel-button = Cancel
 autofill-save-button = Save
 autofill-country-warning-message = Form Autofill is currently available only for certain countries.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Add New Credit Card
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Edit Credit Card
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +99,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } is trying to show credit card information. Confirm access to this Windows account below.
        *[other] { -brand-short-name } is trying to show credit card information.
     }
-
 autofill-card-number = Card Number
 autofill-card-invalid-number = Please enter a valid card number
 autofill-card-name-on-card = Name on Card
