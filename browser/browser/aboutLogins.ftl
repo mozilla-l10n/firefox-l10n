@@ -185,6 +185,8 @@ confirmation-dialog-dismiss-button =
     .title = 취소
 about-logins-confirm-remove-dialog-title = 이 로그인을 삭제하시겠습니까?
 confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
 about-logins-confirm-remove-dialog-confirm-button = 삭제
 
 ## Variables
@@ -239,6 +241,12 @@ about-logins-confirm-remove-all-dialog-message2 =
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 = 모든 기기에서 비밀번호 { $count }개를 제거하시겠습니까?
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] 동기화된 모든 기기에서 { -brand-short-name }에 저장한 비밀번호가 제거됩니다. 여기에 표시되는 유출 알림도 제거됩니다. 이 작업은 취소할 수 없습니다.
+       *[other] 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 비밀번호가 제거됩니다. 여기에 표시되는 유출 알림도 제거됩니다. 이 작업은 취소할 수 없습니다.
+    }
 
 ##
 
