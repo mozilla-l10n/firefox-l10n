@@ -9,6 +9,7 @@ autofill-manage-addresses-title = 저장된 주소
 autofill-manage-addresses-list-header = 주소
 autofill-manage-credit-cards-title = 저장된 신용 카드
 autofill-manage-credit-cards-list-header = 신용 카드
+autofill-manage-payment-methods-title = 저장된 결제 방법
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = 삭제
@@ -37,12 +38,12 @@ address-capture-manage-address-button =
     .label = 주소 설정
 address-capture-learn-more-button =
     .label = 더 알아보기
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = 새 주소 추가
 address-capture-open-menu-button =
     .aria-label = 메뉴 열기
 address-capture-edit-address-button =
     .aria-label = 주소 편집
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = 새 주소 추가
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = 주소 편집
 autofill-address-name = 이름
@@ -114,11 +115,11 @@ autofill-address-email = 이메일
 autofill-cancel-button = 취소
 autofill-save-button = 저장
 autofill-country-warning-message = 양식 자동 채우기는 현재 일부 국가에서만 사용할 수 있습니다.
-autofill-message-tooltip = 자동 채우기에 대한 메시지 보기
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = 새 신용 카드 추가
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = 신용 카드 수정
+autofill-message-tooltip = 자동 채우기에 대한 메시지 보기
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
