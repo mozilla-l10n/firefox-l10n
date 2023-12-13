@@ -22,3 +22,4 @@ common-dialog-copy-cmd =
 common-dialog-select-all-cmd =
     .label = Seleziona tutto
     .accesskey = S
+
