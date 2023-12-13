@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Ба ин варақа гузаштан
 firefoxview-show-more = Бештар нишон диҳед
 firefoxview-show-less = Камтар нишон диҳед
+firefoxview-show-all = Ҳамаро намоиш додан
 firefoxview-search-text-box-clear-button =
     .title = Пок кардан
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Ҷустуҷӯ
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Ҷустуҷӯ дар таърих

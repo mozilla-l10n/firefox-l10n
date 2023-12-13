@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Истифода кардани воридшавии нигоҳдошташуда
     .accesskey = И
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Истифода кардани ниҳонвожаи нигоҳдошташуда
     .accesskey = И
@@ -306,6 +307,9 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins2 =
     .label = Идоракунии воридшавиҳо
     .accesskey = И
+main-context-menu-manage-passwords =
+    .label = Идоракунии ниҳонвожаҳо
+    .accesskey = д
 main-context-menu-keyword =
     .label = Илова кардани калимаи калидӣ барои ин ҷустуҷӯ…
     .accesskey = И

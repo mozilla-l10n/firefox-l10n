@@ -74,6 +74,7 @@ about-webauthn-auth-option-authnrcfg = Танзимоти «Authenticator»
 about-webauthn-auth-option-uvacfg = Иҷозати танзимоти «Authenticator»
 about-webauthn-auth-option-credmgmt = Идоракунии маълумоти корбар
 about-webauthn-auth-option-credentialmgmtpreview = Намунаи идоракунии маълумоти корбар
+about-webauthn-auth-option-setminpinlength = Танзими дарозии ҳадди ақали рамзи PIN
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Дуруст
 # Shows when boolean value of an option is False. False should not be translated.
@@ -86,7 +87,9 @@ about-webauthn-auth-option-null = Дастгирӣ намешавад
 
 about-webauthn-auth-info-certifications = Гувоҳномаҳо
 about-webauthn-auth-info-min-pin-length = Дарозии ҳадди ақали рамзи PIN
+about-webauthn-auth-info-force-pin-change = Маҷбуран иваз кардани рамзи PIN
 about-webauthn-auth-info-algorithms = Алгоритмҳо
+about-webauthn-auth-info-transports = Нақлиётҳо
 about-webauthn-auth-info-pin-protocols = Протоколҳои рамзи PIN
 about-webauthn-auth-info-max-msg-size = Андозаи ҳадди аксари паём
 # AAGUID should not be translated.
