@@ -313,6 +313,15 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [few] { $count } hesła ze wšěch gratow wotstronić?
        *[other] { $count } hesłow ze wšěch gratow wotstronić?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] To hesła wotstroni, kotrež sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+        [one] To $count hesło wotstroni, kotrež sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+        [two] To $count hesle wotstroni, kotrejž sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+        [few] To $count hesła wotstroni, kotrež sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+       *[other] To $count hesłow wotstroni, kotrež sće w { -brand-short-name } na wšěch swojich synchronizowanych gratach składował. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+    }
 
 ##
 
