@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = 이 탭으로 전환
 firefoxview-show-more = 자세히 보기
 firefoxview-show-less = 간단히 보기
+firefoxview-show-all = 모두 보기
 firefoxview-search-text-box-clear-button =
     .title = 지우기
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = 검색
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = 기록 검색
