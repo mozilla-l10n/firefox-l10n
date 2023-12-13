@@ -936,6 +936,14 @@ autofill-payment-methods-checkbox-submessage = Inkluderer kreditt- og debetkort
     .accesskey = I
 autofill-saved-payment-methods-button = Lagrede betalingsmetoder
     .accesskey = e
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Krev macOS-autentisering for å fylle ut og redigere betalingsmetoder.
+        [windows] Krev Windows-autentisering for å fylle ut og redigere betalingsmetoder.
+        [linux] Krev Linux-autentisering for å fylle ut og redigere betalingsmetoder.
+       *[other] Krev autentisering for å fylle ut og redigere betalingsmetoder.
+    }
+    .accesskey = a
 
 ## Privacy Section - History
 
