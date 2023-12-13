@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Aanmeldingen voor de volgende websites zullen niet worden opgeslagen
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Uitzonderingen - Opgeslagen wachtwoorden
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } slaat geen wachtwoorden op voor hier vermelde websites.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
