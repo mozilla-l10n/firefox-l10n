@@ -53,6 +53,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (не отправлять никаких пингов)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = В предыдущем поле убедитесь, что установлен запоминающийся тег отладки, чтобы вы смогли позже распознать свои пинги.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Установите запоминающийся тег отладки <span>(не более 20 символов, только буквенно-цифровые и -)</span>, чтобы вы могли распознавать свои пинги позже.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
