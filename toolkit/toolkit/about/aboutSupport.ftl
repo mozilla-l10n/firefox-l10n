@@ -199,6 +199,10 @@ media-key-system-name = 密钥系统名称
 media-video-robustness = 视频稳定性
 media-audio-robustness = 音频稳定性
 media-cdm-capabilities = 功能
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = 不加密的前导段
 
 ##
 
