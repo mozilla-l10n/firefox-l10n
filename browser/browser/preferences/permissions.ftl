@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Inloggningar för följande webbplatser kommer inte att sparas
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Undantag - Sparade lösenord
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } sparar inte lösenord för webbplatser som listas här.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
