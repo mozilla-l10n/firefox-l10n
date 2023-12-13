@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Składowane adresy
 autofill-manage-addresses-list-header = Adresy
 autofill-manage-credit-cards-title = Składowane kreditne karty
 autofill-manage-credit-cards-list-header = Kreditne karty
+autofill-manage-payment-methods-title = Składowane płaćenske metody
+autofill-manage-cards-list-header = Karty
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Wotstronić
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Adresowe nastajenja
 address-capture-learn-more-button =
     .label = Dalše informacije
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Nowu adresu přidać
 address-capture-open-menu-button =
     .aria-label = Meni wočinić
 address-capture-edit-address-button =
     .aria-label = Adresu wobdźěłać
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Nowu adresu přidać
+autofill-add-address-title = Adresu přidać
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresu wobdźěłać
 autofill-address-name = Mjeno
@@ -114,11 +118,15 @@ autofill-address-email = E-mejlowa adresa
 autofill-cancel-button = Přetorhnyć
 autofill-save-button = Składować
 autofill-country-warning-message = Awtomatiske wupjelnjenje formularow je tuchwilu jenož za wěste kraje k dispoziciji.
-autofill-message-tooltip = Zdźělenku wo awtomatiskim wupjelnjenju pokazać
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nowu kreditnu kartu přidać
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kreditnu kartu wobdźěłać
+autofill-message-tooltip = Zdźělenku wo awtomatiskim wupjelnjenju pokazać
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Kartu přidać
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Kartu wobdźěłać
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =

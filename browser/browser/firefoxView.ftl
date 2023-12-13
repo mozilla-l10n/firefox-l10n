@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = K tutomu rajtarkej přeńć
 firefoxview-show-more = Wjace pokazać
 firefoxview-show-less = Mjenje pokazać
+firefoxview-show-all = Wšě pokazać
 firefoxview-search-text-box-clear-button =
     .title = Zhašeć
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Pytać
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Historiju přepytać

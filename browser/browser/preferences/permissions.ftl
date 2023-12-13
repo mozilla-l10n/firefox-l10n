@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Přizjewjenja za slědowace sydła njebudu so składować
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Wuwzaća - składowane hesła
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } njebudźe hesła sydłow składować, kotrež su tu nalistowane.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
