@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Імпартаваць 
 about-logins-menu-menuitem-import-from-a-file = Імпартаваць з файла…
 about-logins-menu-menuitem-export-logins = Экспартаваць лагіны…
 about-logins-menu-menuitem-remove-all-logins = Выдаліць усе лагіны…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Выдаліць усе паролі…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Налады
@@ -119,11 +121,12 @@ about-logins-intro-import2 = Калі вашы лагіны захоўваюцц
 ## Login
 
 login-item-new-login-title = Дадаць новы лагін
+# Header for adding a password
+about-logins-login-item-new-login-title = Дадаць пароль
 login-item-edit-button = Змяніць
 about-logins-login-item-remove-button = Выдаліць
 login-item-origin-label = Адрас сайта
 login-item-tooltip-message = Упэўніцеся, што гэта дакладны адрас сайта, на якім вы ўваходзіце ў сістэму.
-about-logins-origin-tooltip = Упэўніцеся, што гэта дакладны адрас сайта, на якім вы ўваходзіце ў сістэму.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Пераканайцеся, што вы захоўваеце свой дзейны пароль для гэтага сайта. Змена пароля тут не мяняе яго на { $webTitle }.
@@ -141,6 +144,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Капіяваць
 login-item-copied-password-button-text = Скапіяваны!
 login-item-save-changes-button = Захаваць змены
+about-logins-login-item-save-changes-button = Захаваць
 login-item-save-new-button = Захаваць
 login-item-cancel-button = Скасаваць
 
