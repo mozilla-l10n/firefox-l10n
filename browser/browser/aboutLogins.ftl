@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = 다른 브라우저에�
 about-logins-menu-menuitem-import-from-a-file = 파일에서 가져오기…
 about-logins-menu-menuitem-export-logins = 로그인 내보내기…
 about-logins-menu-menuitem-remove-all-logins = 모든 로그인 삭제…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = 모든 비밀번호 제거…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] 설정
@@ -109,7 +111,6 @@ login-item-edit-button = 편집
 about-logins-login-item-remove-button = 삭제
 login-item-origin-label = 웹 사이트 주소
 login-item-tooltip-message = 로그인 한 웹 사이트의 정확한 주소와 일치하는지 확인하세요.
-about-logins-origin-tooltip = 로그인 한 웹 사이트의 정확한 주소와 일치하는지 확인하세요.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = 이 사이트의 현재 비밀번호를 저장하고 있는지 확인하세요. 여기에서 비밀번호를 변경해도 { $webTitle }의 비밀번호는 변경되지 않습니다.
@@ -222,6 +223,22 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] 계정에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 로그인 정보가 제거됩니다. 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
        *[other] 계정에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 로그인 정보가 제거됩니다. 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] 예, 비밀번호 제거
+       *[other] 예, 비밀번호 제거
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 = 비밀번호 { $count }개를 제거하시겠습니까?
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] { -brand-short-name }에 저장한 비밀번호와 모든 유출 알림이 제거됩니다. 이 작업은 취소할 수 없습니다.
+       *[other] { -brand-short-name }에 저장한 비밀번호와 모든 유출 알림이 제거됩니다. 이 작업은 취소할 수 없습니다.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 = 모든 기기에서 비밀번호 { $count }개를 제거하시겠습니까?
 
 ##
 
