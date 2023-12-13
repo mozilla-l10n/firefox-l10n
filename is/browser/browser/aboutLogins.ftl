@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Flytja inn úr öðrum 
 about-logins-menu-menuitem-import-from-a-file = Flytja inn úr skrá...
 about-logins-menu-menuitem-export-logins = Flytja út innskráningar...
 about-logins-menu-menuitem-remove-all-logins = Fjarlægja allar innskráningar...
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Fjarlægja öll lykilorð…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Valkostir
@@ -114,11 +116,13 @@ about-logins-intro-import2 = Ef innskráningar þínar eru vistaðar utan { -bra
 ## Login
 
 login-item-new-login-title = Búa til nýja innskráningu
+# Header for adding a password
+about-logins-login-item-new-login-title = Bæta við lykilorði
 login-item-edit-button = Breyta
 about-logins-login-item-remove-button = Fjarlægja
 login-item-origin-label = Vistfang vefsvæðis
 login-item-tooltip-message = Gakktu úr skugga um að þetta passi nákvæmlega við vistfang vefsíðunnar þar sem þú skráir þig inn.
-about-logins-origin-tooltip = Gakktu úr skugga um að þetta passi nákvæmlega við vistfang vefsíðunnar þar sem þú skráir þig inn.
+about-logins-origin-tooltip2 = Sláðu inn allt vistfangið og vertu viss um að það passi nákvæmlega við þar sem þú skráir þig inn.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Gakktu úr skugga um að þú sért að vista núverandi lykilorð fyrir þetta vefsvæði. Að breyta lykilorðinu hér breytir því ekki hjá { $webTitle }.
@@ -136,6 +140,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Afrita
 login-item-copied-password-button-text = Afritað!
 login-item-save-changes-button = Vista breytingar
+about-logins-login-item-save-changes-button = Vista
 login-item-save-new-button = Vista
 login-item-cancel-button = Hætta við
 
@@ -163,6 +168,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Til að breyta innskráning
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = breyta vistuðu innskráningunni
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Til að breyta lykilorðinu þínu, skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = breyta vistaða lykilorðinu
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Til að skoða lykilorðið þitt, skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -178,6 +188,11 @@ about-logins-export-password-os-auth-dialog-message-win = Til að flytja út inn
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = flytja út vistaðar innskráningar og lykilorð
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Til að flytja út lykilorðið þitt, skaltu setja inn Windows-innskráningarauðkennin þín. Þetta hjálpar til við að tryggja öryggi reikninganna þinna.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = flytja út vistaða lykilorðið
 
 ## Primary Password notification
 
@@ -193,6 +208,10 @@ confirmation-dialog-dismiss-button =
     .title = Hætta við
 about-logins-confirm-remove-dialog-title = Fjarlægja þessa innskráningu?
 confirm-delete-dialog-message = Þessa aðgerð er ekki hægt að afturkalla.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Fjarlægja lykilorð?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Þú getur ekki afturkallað þessa aðgerð.
 about-logins-confirm-remove-dialog-confirm-button = Fjarlægja
 
 ## Variables
@@ -237,6 +256,39 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Þetta mun fjarlægja innskráningar sem þú hefur vistað á { -brand-short-name } á öllum tækjum sem eru samstillt við aðganginn þinn. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
         [one] Þetta mun fjarlægja innskráninguna sem þú hefur vistað á { -brand-short-name } á öllum tækjum sem eru samstillt við aðganginn þinn. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
        *[other] Þetta mun fjarlægja allar innskráningar sem þú hefur vistað á { -brand-short-name } á öllum tækjum sem eru samstillt við aðganginn þinn. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Já, fjarlægja lykilorðið
+        [one] Já, fjarlægja lykilorðið
+       *[other] Já, fjarlægja lykilorðin
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Fjarlægja { $count } lykilorð?
+       *[other] Fjarlægja öll { $count } lykilorðin?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Þetta mun fjarlægja lykilorðið sem vistað er á { -brand-short-name } og allar tilkynningar um innbrot. Þú getur ekki afturkallað þessa aðgerð.
+        [one] Þetta mun fjarlægja lykilorðið sem vistað er á { -brand-short-name } og allar tilkynningar um innbrot. Þú getur ekki afturkallað þessa aðgerð.
+       *[other] Þetta mun fjarlægja lykilorðin sem vistuð eru á { -brand-short-name } og allar tilkynningar um innbrot. Þú getur ekki afturkallað þessa aðgerð.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Fjarlægja { $count } lykilorð úr öllum tækjum?
+       *[other] Fjarlægja öll { $count } lykilorð úr öllum tækjum?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Þetta mun fjarlægja lykilorð sem þú hefur vistað á { -brand-short-name } á öllum tækjum sem eru samstillt við aðganginn þinn. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
+        [one] Þetta mun fjarlægja lykilorð sem þú hefur vistað á { -brand-short-name } á öllum tækjum sem eru samstillt við aðganginn þinn. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
+       *[other] Þetta mun fjarlægja öll lykilorð sem þú hefur vistað á { -brand-short-name } á öllum tækjum sem eru samstillt við aðganginn þinn. Þetta mun einnig fjarlægja innbrotaviðvaranir sem birtast hér. Þú munt ekki geta afturkallað þessa aðgerð.
     }
 
 ##
