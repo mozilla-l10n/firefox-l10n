@@ -118,7 +118,6 @@ login-item-edit-button = Modificar
 about-logins-login-item-remove-button = Remover
 login-item-origin-label = Adresse web
 login-item-tooltip-message = Verifica que isto concorda con le adresse exacte del sito web ubi tu aperi session.
-about-logins-origin-tooltip = Verifica que isto concorda con le adresse exacte del sito web ubi tu aperi session.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Verifica que tu reserva tu contrasigno actual pro iste sito. Cambiar le contrasigno ci non lo cambia in { $webTitle }.
@@ -193,6 +192,8 @@ confirmation-dialog-dismiss-button =
     .title = Cancellar
 about-logins-confirm-remove-dialog-title = Remover iste credentiales?
 confirm-delete-dialog-message = Iste action es irreversibile.
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Tu non potera disfacer iste action.
 about-logins-confirm-remove-dialog-confirm-button = Remover
 
 ## Variables
@@ -232,6 +233,12 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Isto removera le credentiales que tu ha salvate pro { -brand-short-name } sur tote le apparatos synchronisate a tu conto. Isto removera etiam le alertas de violation que appare hic. Tu non potera disfacer iste action.
        *[other] Isto removera le credentiales que tu ha salvate pro { -brand-short-name } sur tote le apparatos synchronisate a tu conto. Isto removera etiam le alertas de violation que appare hic. Tu non potera disfacer iste action.
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Isto removera le  contrasigno salvate in { -brand-short-name } e tote le alertas de violation. Tu non potera disfacer iste action.
+       *[other] Isto removera le  contrasigno salvate in { -brand-short-name } e tote le alertas de violation. Tu non potera disfacer iste action.
     }
 
 ##
