@@ -190,6 +190,10 @@ confirmation-dialog-dismiss-button =
     .title = 取消
 about-logins-confirm-remove-dialog-title = 要移除這筆登入資訊嗎？
 confirm-delete-dialog-message = 此動作無法復原。
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = 要移除密碼嗎？
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = 無法復原此動作。
 about-logins-confirm-remove-dialog-confirm-button = 移除
 
 ## Variables
@@ -227,6 +231,16 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] 將在您所有同步的裝置中，移除儲存到 { -brand-short-name } 的登入資訊，以及在此顯示的任何資料外洩警報。將無法還原此操作。
        *[other] 將在您所有同步的裝置中，移除儲存到 { -brand-short-name } 的登入資訊，以及在此顯示的任何資料外洩警報。將無法還原此操作。
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] 好，請移除密碼
+       *[other] 好，請移除密碼
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 = 要移除全部共 { $count } 筆密碼嗎？
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 = 要從所有裝置移除共 { $count } 筆密碼嗎？
 
 ##
 
