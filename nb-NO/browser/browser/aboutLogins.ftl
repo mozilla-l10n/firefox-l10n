@@ -116,10 +116,13 @@ about-logins-intro-import2 = Hvis innloggingene dine er lagret utenfor { -brand-
 ## Login
 
 login-item-new-login-title = Lag ny innlogging
+# Header for adding a password
+about-logins-login-item-new-login-title = Legg til passord
 login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Nettadresse
 login-item-tooltip-message = Forsikre deg om at dette samsvarer med den eksakte adressen til nettstedet der du logger inn.
+about-logins-origin-tooltip2 = Skriv inn hele adressen og sørg for at den stemmer nøyaktig overens med hvor du logger på.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Sørg for at du lagrer ditt nåværende passord for dette nettstedet. Hvis du endrer passordet her, endres det ikke med { $webTitle }.
@@ -137,6 +140,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopier
 login-item-copied-password-button-text = Kopiert!
 login-item-save-changes-button = Lagre endringer
+about-logins-login-item-save-changes-button = Lagre
 login-item-save-new-button = Lagre
 login-item-cancel-button = Avbryt
 
@@ -164,6 +168,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Skriv inn innloggingsinform
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = rediger lagret innlogging
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Skriv inn innloggingsinformasjonen for Windows for å redigere passordet. Dette vil gjøre kontoene dine tryggere.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = redigere det lagrede passordet
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å vise passordet. Dette vil gjøre kontoene dine tryggere.
 # This message can be seen when attempting to reveal a password in about:logins
