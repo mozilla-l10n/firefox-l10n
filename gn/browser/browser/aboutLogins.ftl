@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Egueru ambue kundahára
 about-logins-menu-menuitem-import-from-a-file = Marandurendágui jegueru…
 about-logins-menu-menuitem-export-logins = Emba’ereraha tembiapo ñepyrũ…
 about-logins-menu-menuitem-remove-all-logins = Emboguepaite tembiapo ñepyrũ…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Emboguepaite ñe’ẽñeminguéra…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Jeporavorã
@@ -166,6 +168,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Embosako’ívo tembiapo ñ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = embosako’i tembiapo ñepyrũ ñongatupyre
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = embosako’i ñe’ẽñemi ñongatupyre
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ehecha hag̃ua ñe’ẽñemi, emoinge nde reraite tembiapo ñepyrũ pegua. Oipytyvõta emo’ãvo ne mba’etekuéra rekorosã.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -181,6 +186,9 @@ about-logins-export-password-os-auth-dialog-message-win = Erahaukávo ne rembiap
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = erahauka poruhára ha ñe’ẽñemi ñongatupyre
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = erahauka ñe’ẽñemi ñongatupyre
 
 ## Primary Password notification
 
@@ -196,6 +204,10 @@ confirmation-dialog-dismiss-button =
     .title = Heja
 about-logins-confirm-remove-dialog-title = ¿Emboguete ko tembiapo ñepyrũ?
 confirm-delete-dialog-message = Ko tembiapoite ndaikatúi emboguevi.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = ¿Eipe’a ñe’ẽñemi?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Ndaikatúi embojevy ko mba’e.
 about-logins-confirm-remove-dialog-confirm-button = Mboguete
 
 ## Variables
@@ -240,6 +252,19 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Kóva omboguéta tembiapo ñepyrũ eñongatúva { -brand-short-name }-pe opaite mba’e’oka ojuehéva ne mba’ete rehe. Kóva avei omboguéta umi ñembogua kyhyjerã asẽva ko’ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
         [one] Kóva omboguéta tembiapo ñepyrũ eñongatúva { -brand-short-name }-pe opaite mba’e’oka ojuehéva ne mba’ete rehe. Kóva avei omboguéta umi ñembogua kyhyjerã asẽva ko’ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
        *[other] Kóva omboguéta tembiapo ñepyrũ eñongatúva { -brand-short-name }-pe opaite mba’e’oka ojuehéva ne mba’ete rehe. Kóva avei omboguéta umi ñembogua kyhyjerã asẽva ko’ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Héẽ, emboguete ñe’ẽñemi
+        [one] Héẽ, emboguete ñe’ẽñemi
+       *[other] Héẽ, emboguete ñe’ẽñeminguéra
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] ¿Emboguete { $count } ñe’ẽñemi?
+       *[other] ¿Emboguete { $count } ñe’ẽñeminguéra?
     }
 
 ##
