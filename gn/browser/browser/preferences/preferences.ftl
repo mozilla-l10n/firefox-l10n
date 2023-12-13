@@ -794,10 +794,6 @@ sync-engine-creditcards =
     .label = Kuatia’atã ñemurã
     .tooltiptext = Téra, papapy ha ndoikoveimaha arange (mohendahápe g̃uarã)
     .accesskey = C
-sync-engine-payment-methods =
-    .label = Mba’éicha ehepyme’ẽta
-    .tooltiptext = Téra, kuatia’atã papapy ha araka'épa hu'ã (mesa arigua año)
-    .accesskey = n
 sync-engine-addons =
     .label = Moĩmbaha
     .tooltiptext = Firefox mohendahápe g̃uarã Moĩmbaha ha Jeguaha
@@ -844,6 +840,13 @@ pane-privacy-logins-and-passwords-header = Tembiapo ñepyrũ ha ñe’ẽñemi
 forms-ask-to-save-logins =
     .label = Eporandu eñongatu hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñandutípe
     .accesskey = E
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Ñe’ẽñemi
+    .searchkeywords = eñepyrũ tembiapo
 forms-exceptions =
     .label = Oĩ’ỹva…
     .accesskey = x
@@ -864,6 +867,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Emoñepyrũ tembiapo ñongatupyre…
     .accesskey = L
+forms-saved-passwords =
+    .label = Ñe’ẽñemi ñongatupyre
+    .accesskey = d
 forms-primary-pw-use =
     .label = Eiporu ñe’ẽñemi ñepyrũgua
     .accesskey = U
@@ -898,6 +904,12 @@ primary-password-os-auth-dialog-message-win = Emoheñói hag̃ua ñe’ẽñemi 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = emoheñói Ñe’ẽñemi Ñepyrũgua
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Myanyhẽjehegui
+autofill-saved-addresses-button = Kundaharape ñongatupyre
+    .accesskey = S
 
 ## Privacy Section - History
 

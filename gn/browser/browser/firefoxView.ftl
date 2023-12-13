@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Emoambue tendayképe
 firefoxview-show-more = Ehechaukave
 firefoxview-show-less = Ehechauka’ive
+firefoxview-show-all = Ehechaukapaite
 firefoxview-search-text-box-clear-button =
     .title = Mopotĩ
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Heka
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Eheka tembiasakuépe

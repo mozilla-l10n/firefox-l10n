@@ -107,6 +107,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Tembiapo ñepyrũ ko’ã ñanduti renda noñeñongatumo’ãi
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Oĩ’ỹva: ñe’ẽñemi ñongatupyre
+    .style = { permissions-window2.style }
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

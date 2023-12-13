@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Eiporu tembiapo ñepyrũ ñongatupyre
     .accesskey = o
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Eiporu ñe’ẽñemi ñongatupyre
     .accesskey = o
@@ -305,6 +306,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = S
 main-context-menu-manage-logins2 =
     .label = Eñangareko terarendáre
+    .accesskey = M
+main-context-menu-manage-passwords =
+    .label = Eñangareko Ñe’ẽñemíre
     .accesskey = M
 main-context-menu-keyword =
     .label = Jehero mbojoapy ko jehekápe g̃uarã…

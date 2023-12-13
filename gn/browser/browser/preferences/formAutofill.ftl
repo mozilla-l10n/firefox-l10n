@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Kundaharape ñongatupyre
 autofill-manage-addresses-list-header = Kundaharape
 autofill-manage-credit-cards-title = Kuatia’atã ñemurã ñongatupyre
 autofill-manage-credit-cards-list-header = Kuatia’atã ñemurã
+autofill-manage-payment-methods-title = Mba’éicha ehepyme’ẽta
+autofill-manage-cards-list-header = Kuatia’atã
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Mboguete
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Kundaharape ñemboheko
 address-capture-learn-more-button =
     .label = Kuaave
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Embojuaju kundaharape pyahu
 address-capture-open-menu-button =
     .aria-label = Embojuruja poravorã
 address-capture-edit-address-button =
     .aria-label = Embosako’i kundaharape
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Embojuaju kundaharape pyahu
+autofill-add-address-title = Embojuaju kundaharape
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Embosako’i kundaharape
 autofill-address-name = Téra
@@ -114,11 +118,15 @@ autofill-address-email = Ñandutiveve
 autofill-cancel-button = Heja
 autofill-save-button = Ñongatu
 autofill-country-warning-message = Pe myanyhẽha ijeheguíva ko’ág̃a ikatu ojeporu ndahetái tetãme.
-autofill-message-tooltip = Ehecha ñe’ẽmondo myanyhẽjehegui rehegua
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Embojoaju kuatia’atã ñemurã pyahu
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Embosako’i kuatia’atã ñemurã
+autofill-message-tooltip = Ehecha ñe’ẽmondo myanyhẽjehegui rehegua
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Embojuaju kuatia’atã
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Embosako’i kuatia’atã
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =

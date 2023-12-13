@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Marandu’i ñemigua. ¡Aguyje!
 confirmation-hint-login-removed = ¡Tembiapo ñepyrũ mboguepyre!
+confirmation-hint-password-removed = ¡Ñe’ẽñemi mboguetepyre!
 confirmation-hint-page-bookmarked = Techaukahápe ñongatupyre
 confirmation-hint-password-saved = ¡Ñe’ẽñemi ñongatupyre!
 confirmation-hint-password-created = Ñe’ẽñemi ñongatupyre
