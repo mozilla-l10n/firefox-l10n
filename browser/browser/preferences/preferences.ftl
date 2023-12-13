@@ -794,9 +794,9 @@ sync-engine-creditcards =
     .label = Creditcards
     .tooltiptext = Nammen, nûmers en ferrindatums (allinnich desktop)
     .accesskey = C
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Betellingsmetoaden
-    .tooltiptext = Nammen, kaartnûmers en ferrindatum (allinnich desktop)
+    .tooltiptext = Nammen, kaartnûmers en ferrindata
     .accesskey = n
 sync-engine-addons =
     .label = Add-ons
@@ -844,18 +844,35 @@ pane-privacy-logins-and-passwords-header = Oanmeldingen & Wachtwurden
 forms-ask-to-save-logins =
     .label = Freegje om oanmeldingen en wachtwurden foar websites te ûnthâlden
     .accesskey = F
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Wachtwurden
+    .searchkeywords = oanmeldingen
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Freegje om wachtwurden te bewarjen
+    .accesskey = F
 forms-exceptions =
     .label = Utsûnderingen…
     .accesskey = s
 forms-generate-passwords =
     .label = Sterke wachtwurden foarstelle en generearje
     .accesskey = w
+forms-suggest-passwords =
+    .label = Sterke wachtwurden foarstelle
+    .accesskey = S
 forms-breach-alerts =
     .label = Warskôgingen oer wachtwurden foar troffen websites toane
     .accesskey = f
 forms-breach-alerts-learn-more-link = Mear ynfo
 preferences-relay-integration-checkbox =
     .label = { -relay-brand-name }-e-mailmaskers foarstelle om jo e-mailadres te beskermjen
+preferences-relay-integration-checkbox2 =
+    .label = { -relay-brand-name }-e-mailmaskers foarstelle om jo e-mailadres te beskermjen
+    .accesskey = r
 relay-integration-learn-more-link = Mear ynfo
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -864,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Bewarre oanmeldingen…
     .accesskey = m
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Brûkersnammen en wachtwurden automatysk ynfolje
+    .accesskey = f
+forms-saved-passwords =
+    .label = Bewarre wachtwurden
+    .accesskey = d
 forms-primary-pw-use =
     .label = In haadwachtwurd brûke
     .accesskey = h
@@ -898,6 +922,28 @@ primary-password-os-auth-dialog-message-win = Fier jo oanmeldgegevens foar Windo
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = in haadwachtwurd oanmeitsje
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Automatysk ynfolje
+autofill-addresses-checkbox = Adressen bewarje en ynfolje
+    .accesskey = a
+autofill-saved-addresses-button = Bewarre adressen
+    .accesskey = B
+autofill-payment-methods-checkbox-message = Betellingsmetoaden bewarje en ynfolje
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Omfettet creditcards en bankpassen
+    .accesskey = a
+autofill-saved-payment-methods-button = Bewarre betellingsmetoaden
+    .accesskey = l
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] macOS-autentikaasje fereaskje foar it ynfoljen en bewurkjen fan betellingsmetoaden.
+        [windows] Windows-autentikaasje fereaskje foar it ynfoljen en bewurkjen fan betellingsmetoaden.
+        [linux] Linux-autentikaasje fereaskje foar it ynfoljen en bewurkjen fan betellingsmetoaden.
+       *[other] Autentikaasje fereaskje foar it ynfoljen en bewurkjen fan betellingsmetoaden.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 

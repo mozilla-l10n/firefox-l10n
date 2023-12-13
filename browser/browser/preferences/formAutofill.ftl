@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Bewarre adressen
 autofill-manage-addresses-list-header = Adressen
 autofill-manage-credit-cards-title = Bewarre creditcards
 autofill-manage-credit-cards-list-header = Creditcards
+autofill-manage-payment-methods-title = Bewarre betellingsmetoaden
+autofill-manage-cards-list-header = Kaarten
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Fuortsmite
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Adresynstellingen
 address-capture-learn-more-button =
     .label = Mear ynfo
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Nij adres tafoegje
 address-capture-open-menu-button =
     .aria-label = Menu iepenje
 address-capture-edit-address-button =
     .aria-label = Adres bewurkje
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Nij adres tafoegje
+autofill-add-address-title = Adres tafoegje
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adres bewurkje
 autofill-address-name = Namme
@@ -114,11 +118,15 @@ autofill-address-email = E-mailadres
 autofill-cancel-button = Annulearje
 autofill-save-button = Bewarje
 autofill-country-warning-message = Formulieren automatysk ynfolje is op dit stuit allinnich foar bepaalde lannen beskikber.
-autofill-message-tooltip = Berjocht oer automatysk ynfoljen besjen
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nije creditcard tafoegje
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Creditcard bewurkje
+autofill-message-tooltip = Berjocht oer automatysk ynfoljen besjen
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Kaart tafoegje
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Kaart bewurkje
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =

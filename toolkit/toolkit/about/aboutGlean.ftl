@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (gjin ping yntsjinje)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Soargje yn it foargeande fjild dat in goed te ûnthâlden debuglabel stiet, sadat jo letter jo pings werkenne.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Stel in maklik te ûnthâlden debug-label <span>(20 tekens of minder, allinnich alfanumeryk en -)</span> yn, sadat jo jo pings letter werkenne kinne.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =

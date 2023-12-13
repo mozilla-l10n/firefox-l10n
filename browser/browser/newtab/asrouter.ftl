@@ -246,7 +246,7 @@ device-migration-fxa-spotlight-older-device-header = Gemoedsrêst, fan { -brand-
 device-migration-fxa-spotlight-older-device-body = In account hâldt jo wichtige gegevens bywurke en beskerme op elk apparaat dat jo ferbine.
 device-migration-fxa-spotlight-older-device-primary-button = In account oanmeitsje
 device-migration-fxa-spotlight-getting-new-device-header-2 = Nij apparaat yn de takomst?
-device-migration-fxa-spotlight-getting-new-device-body = Meitsje no in reservekopy fan jo gegevens, sadat jo daliks oan de slach kinne as jo apparaat oankomt.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Folgje in pear ienfâldige stappen om jo blêdwizers, skiednis en wachtwurden mei te nimmen as jo begjinne mei in nij apparaat.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hoe meitsje in reservekopy fan myn gegevens
 
 ## Set as Default PDF Reader Infobar
