@@ -112,6 +112,7 @@ permissions-exceptions-saved-logins-desc = 將不會儲存下列網站的登入�
 permissions-exceptions-saved-passwords-window =
     .title = 儲存的密碼 - 例外
     .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } 不會儲存下列網站的密碼。
 
 ## Exceptions - Add-ons
 

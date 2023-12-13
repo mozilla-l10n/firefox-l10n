@@ -924,6 +924,14 @@ autofill-payment-methods-checkbox-submessage = 包含信用卡與 Debit Card
     .accesskey = I
 autofill-saved-payment-methods-button = 儲存的付款方式
     .accesskey = v
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] 需要進行 macOS 驗證才能填寫或編輯付款方式資訊。
+        [windows] 需要進行 Windows 驗證才能填寫或編輯付款方式資訊。
+        [linux] 需要進行 Linux 驗證才能填寫或編輯付款方式資訊。
+       *[other] 需要進行驗證才能填寫或編輯付款方式資訊。
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
