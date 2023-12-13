@@ -9,6 +9,7 @@ autofill-manage-addresses-title = Lagrede adresser
 autofill-manage-addresses-list-header = Adresser
 autofill-manage-credit-cards-title = Lagrede betalingskort
 autofill-manage-credit-cards-list-header = Betalingskort
+autofill-manage-payment-methods-title = Lagrede betalingsmetoder
 autofill-manage-cards-list-header = Kort
 autofill-manage-dialog =
     .style = min-width: 560px
