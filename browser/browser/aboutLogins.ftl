@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importer fra en annen n
 about-logins-menu-menuitem-import-from-a-file = Importer fra en fil…
 about-logins-menu-menuitem-export-logins = Eksporter innlogginger…
 about-logins-menu-menuitem-remove-all-logins = Fjern alle innlogginger …
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Slett alle passord…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Innstillinger
@@ -118,7 +120,6 @@ login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Nettadresse
 login-item-tooltip-message = Forsikre deg om at dette samsvarer med den eksakte adressen til nettstedet der du logger inn.
-about-logins-origin-tooltip = Forsikre deg om at dette samsvarer med den eksakte adressen til nettstedet der du logger inn.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Sørg for at du lagrer ditt nåværende passord for dette nettstedet. Hvis du endrer passordet her, endres det ikke med { $webTitle }.
