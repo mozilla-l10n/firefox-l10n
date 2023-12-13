@@ -849,12 +849,18 @@ forms-exceptions =
 forms-generate-passwords =
     .label = 產生強密碼
     .accesskey = u
+forms-suggest-passwords =
+    .label = 建議一組安全的密碼
+    .accesskey = S
 forms-breach-alerts =
     .label = 針對發生過資料外洩的網站顯示密碼警告
     .accesskey = b
 forms-breach-alerts-learn-more-link = 了解更多
 preferences-relay-integration-checkbox =
     .label = 為您建議 { -relay-brand-name } 郵件轉寄信箱，幫助您保護實際信箱
+preferences-relay-integration-checkbox2 =
+    .label = 為您建議 { -relay-brand-name } 郵件轉寄信箱，幫助您保護實際信箱
+    .accesskey = r
 relay-integration-learn-more-link = 了解更多
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -863,6 +869,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = 已存登入資訊…
     .accesskey = L
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = 自動填寫帳號與密碼
+    .accesskey = F
+forms-saved-passwords =
+    .label = 已存密碼
+    .accesskey = d
 forms-primary-pw-use =
     .label = 使用主控密碼
     .accesskey = U
@@ -900,6 +913,17 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = 自動填寫
+autofill-addresses-checkbox = 儲存並自動填寫地址
+    .accesskey = a
+autofill-saved-addresses-button = 已存地址
+    .accesskey = S
+autofill-payment-methods-checkbox-message = 儲存並自動填寫付款方式
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = 包含信用卡與 Debit Card
+    .accesskey = I
+autofill-saved-payment-methods-button = 儲存的付款方式
+    .accesskey = v
 
 ## Privacy Section - History
 
