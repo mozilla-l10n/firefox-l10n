@@ -244,8 +244,20 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 = 要移除全部共 { $count } 筆密碼嗎？
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] 將移除所有儲存到 { -brand-short-name } 的密碼與資料外洩警報，無法還原此行為。
+       *[other] 將移除所有儲存到 { -brand-short-name } 的密碼與資料外洩警報，無法還原此行為。
+    }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 = 要從所有裝置移除共 { $count } 筆密碼嗎？
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] 將從您所有同步的裝置中，移除儲存到 { -brand-short-name } 的密碼，也會清除此處列出的資料外洩警報，無法還原此行為。
+       *[other] 將從您所有同步的裝置中，移除儲存到 { -brand-short-name } 的密碼，也會清除此處列出的資料外洩警報，無法還原此行為。
+    }
 
 ##
 
