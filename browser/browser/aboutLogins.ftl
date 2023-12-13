@@ -130,6 +130,7 @@ login-item-edit-button = Wobdźěłać
 about-logins-login-item-remove-button = Wotstronić
 login-item-origin-label = Adresa websydła
 login-item-tooltip-message = Přeswědčće so, zo to eksaktnej adresy websydła wotpowěduje, hdźež so chceće přizjewić.
+about-logins-origin-tooltip2 = Zapodajće dospołnu adresu a zawěsćće, zo je eksaktny wotpowědnik za město, hdźež so přizjewjeće.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Zawěsćće, zo swoje aktualne hesło za tute sydło składujeće. Hdyž so hesło tu njeměnja, njezměni so z { $webTitle }.
