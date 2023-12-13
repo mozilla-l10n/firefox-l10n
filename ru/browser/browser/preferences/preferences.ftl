@@ -798,9 +798,9 @@ sync-engine-creditcards =
     .label = Банковские карты
     .tooltiptext = Имена, номера и сроки действия (только для компьютера)
     .accesskey = н
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Способы оплаты
-    .tooltiptext = Имена, номера карт и даты окончания срока действия (только ПК)
+    .tooltiptext = Имена, номера карт и даты истечения срока действия
     .accesskey = т
 sync-engine-addons =
     .label = Дополнения
@@ -848,18 +848,35 @@ pane-privacy-logins-and-passwords-header = Логины и пароли
 forms-ask-to-save-logins =
     .label = Запрашивать сохранение логинов и паролей для веб-сайтов
     .accesskey = ш
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Пароли
+    .searchkeywords = логины
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Просить сохранить пароли
+    .accesskey = ф
 forms-exceptions =
     .label = Исключения…
     .accesskey = ю
 forms-generate-passwords =
     .label = Предлагать и генерировать надежные пароли
     .accesskey = н
+forms-suggest-passwords =
+    .label = Предлагайть надежные пароли
+    .accesskey = ы
 forms-breach-alerts =
     .label = Показывать уведомления о паролях для взломанных сайтов
     .accesskey = ы
 forms-breach-alerts-learn-more-link = Подробнее
 preferences-relay-integration-checkbox =
     .label = Предлагать псевдонимы электронной почты { -relay-brand-name } для защиты вашего адреса электронной почты
+preferences-relay-integration-checkbox2 =
+    .label = Предлагать псевдонимы электронной почты { -relay-brand-name } для защиты вашего адреса электронной почты
+    .accesskey = к
 relay-integration-learn-more-link = Подробнее
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -868,6 +885,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Сохранённые логины…
     .accesskey = х
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Автоматически заполнять имена пользователей и пароли
+    .accesskey = а
+forms-saved-passwords =
+    .label = Сохранённые пароли
+    .accesskey = в
 forms-primary-pw-use =
     .label = Использовать основной пароль
     .accesskey = с
@@ -902,6 +926,28 @@ primary-password-os-auth-dialog-message-win = Чтобы создать осно
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = создать основной пароль
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Автозаполнение
+autofill-addresses-checkbox = Сохранять и заполнять адреса
+    .accesskey = ф
+autofill-saved-addresses-button = Сохранённые адреса
+    .accesskey = ы
+autofill-payment-methods-checkbox-message = Сохранить и заполнять способы оплаты
+    .accesskey = ь
+autofill-payment-methods-checkbox-submessage = Включая кредитные и дебетовые карты
+    .accesskey = ш
+autofill-saved-payment-methods-button = Сохраненные способы оплаты
+    .accesskey = м
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Требовать аутентификацию macOS для заполнения и изменения способов оплаты.
+        [windows] Требовать аутентификацию Windows для заполнения и изменения способов оплаты.
+        [linux] Требовать аутентификацию Linux для заполнения и изменения способов оплаты.
+       *[other] Требовать аутентификацию для заполнения и изменения способов оплаты.
+    }
+    .accesskey = щ
 
 ## Privacy Section - History
 

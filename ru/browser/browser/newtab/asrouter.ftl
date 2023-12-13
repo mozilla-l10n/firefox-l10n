@@ -249,7 +249,7 @@ device-migration-fxa-spotlight-older-device-header = Душевное споко
 device-migration-fxa-spotlight-older-device-body = Аккаунт позволяет обновлять и защищать вашу важную информацию на любом устройстве, которое вы подключаете.
 device-migration-fxa-spotlight-older-device-primary-button = Создать аккаунт
 device-migration-fxa-spotlight-getting-new-device-header-2 = Собираетесь перейти на новое устройство?
-device-migration-fxa-spotlight-getting-new-device-body = Сделайте резервную копию своих данных прямо сейчас, чтобы быть готовыми к работе, когда устройство прибудет.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Выполните несколько простых шагов, чтобы перенести свои закладки, историю и пароли, когда начнете работу на новом устройстве.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Как сделать резервную копию моих данных
 
 ## Set as Default PDF Reader Infobar

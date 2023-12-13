@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Сохранённые адреса
 autofill-manage-addresses-list-header = Адреса
 autofill-manage-credit-cards-title = Сохранённые банковские карты
 autofill-manage-credit-cards-list-header = Банковские карты
+autofill-manage-payment-methods-title = Сохраненные способы оплаты
+autofill-manage-cards-list-header = Карты
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Удалить
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Настройки адреса
 address-capture-learn-more-button =
     .label = Подробнее
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Добавить новый адрес
 address-capture-open-menu-button =
     .aria-label = Открыть меню
 address-capture-edit-address-button =
     .aria-label = Изменить адрес
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Добавить новый адрес
+autofill-add-address-title = Добавить адрес
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Изменить адрес
 autofill-address-name = Имя
@@ -114,11 +118,15 @@ autofill-address-email = Эл. почта
 autofill-cancel-button = Отмена
 autofill-save-button = Сохранить
 autofill-country-warning-message = В настоящее время автозаполнение форм доступно только для некоторых стран.
-autofill-message-tooltip = Посмотреть сообщение об автозаполнении
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Добавить новую банковскую карту
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Изменить банковскую карту
+autofill-message-tooltip = Посмотреть сообщение об автозаполнении
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Добавить карту
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Изменить карту
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =

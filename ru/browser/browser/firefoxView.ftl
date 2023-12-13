@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Переключаться на эту вкладку
 firefoxview-show-more = Показать больше
 firefoxview-show-less = Показать меньше
+firefoxview-show-all = Показать все
 firefoxview-search-text-box-clear-button =
     .title = Очистить
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Поиск
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = История поиска
