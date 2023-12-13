@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importar desde otro nav
 about-logins-menu-menuitem-import-from-a-file = Importar desde un archivo…
 about-logins-menu-menuitem-export-logins = Exportar inicios de sesión…
 about-logins-menu-menuitem-remove-all-logins = Eliminar todos los inicios de sesión…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Eliminar todas las contraseñas…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opciones
@@ -115,11 +117,13 @@ about-logins-intro-import2 = Si sus inicios de sesión están guardados fuera de
 ## Login
 
 login-item-new-login-title = Crear nuevo inicio de sesión
+# Header for adding a password
+about-logins-login-item-new-login-title = Agregar contraseña
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Dirección web
 login-item-tooltip-message = Asegúrese de que esto coincida con la dirección exacta del sitio web en el que inicia la sesión.
-about-logins-origin-tooltip = Asegúrese de que esto coincida con la dirección exacta del sitio web en el que inicia la sesión.
+about-logins-origin-tooltip2 = Ingrese la dirección completa y asegúrese de que coincida exactamente con la que usa para iniciar la sesión.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Asegúrese de guardar su contraseña actual para este sitio. Cambiar la contraseña acá no la cambia con { $webTitle }.
@@ -137,6 +141,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = ¡Copiada!
 login-item-save-changes-button = Guardar cambios
+about-logins-login-item-save-changes-button = Guardar
 login-item-save-new-button = Guardar
 login-item-cancel-button = Cancelar
 
@@ -164,6 +169,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar su inicio de se
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = edite el inicio de sesión guardado
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Para editar su contraseña, ingrese sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = editar la contraseña guardada
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para ver su contraseña, ingrese sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -179,6 +189,11 @@ about-logins-export-password-os-auth-dialog-message-win = Para exportar los inic
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportar inicios de sesión y contraseñas
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Para exportar las contraseñas, ingrese sus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de sus cuentas.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportar las contraseñas guardadas
 
 ## Primary Password notification
 
@@ -194,6 +209,10 @@ confirmation-dialog-dismiss-button =
     .title = Cancelar
 about-logins-confirm-remove-dialog-title = ¿Eliminar este inicio de sesión?
 confirm-delete-dialog-message = Esta acción no puede deshacerse.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = ¿Eliminar la  contraseña?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = No puede deshacer esta acción.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
 
 ## Variables
@@ -238,6 +257,19 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Esto eliminará el inicio de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
         [one] Esto eliminará el inicio de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
        *[other] Esto eliminará todos los inicios de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Sí, eliminar la contraseña
+        [one] Sí, eliminar la contraseña
+       *[other] Sí, eliminar las contraseñas
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] ¿Eliminar { $count } contraseña?
+       *[other] ¿Eliminar todas las { $count } contraseñas?
     }
 
 ##
