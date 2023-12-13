@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = 切換至此分頁
 firefoxview-show-more = 顯示更多
 firefoxview-show-less = 顯示更少
+firefoxview-show-all = 顯示全部
 firefoxview-search-text-box-clear-button =
     .title = 清除
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = 搜尋
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = 搜尋紀錄
