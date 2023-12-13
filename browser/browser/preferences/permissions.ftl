@@ -112,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Les identifiants pour les sites suiva
 permissions-exceptions-saved-passwords-window =
     .title = Exceptions - Mots de passe enregistrés
     .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } n’enregistre pas les mots de passe pour les sites listés ici.
 
 ## Exceptions - Add-ons
 
