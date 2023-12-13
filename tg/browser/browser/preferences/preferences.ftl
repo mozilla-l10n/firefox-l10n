@@ -793,10 +793,6 @@ sync-engine-creditcards =
     .label = Кортҳои кредитӣ
     .tooltiptext = Номҳо, рақамҳо ва санаҳои анҷоми муҳлат (танҳо барои мизи корӣ)
     .accesskey = К
-sync-engine-payment-methods =
-    .label = Тарзҳои пардохт
-    .tooltiptext = Номҳо, рақамҳои кортҳо, санаҳои анҷоми муҳлати корт (танҳо версияи мизи корӣ)
-    .accesskey = а
 sync-engine-addons =
     .label = Ҷузъҳои иловагӣ
     .tooltiptext = Ҷузъҳои иловагӣ ва мавзуъҳо барои Firefox-и мизи корӣ
@@ -843,6 +839,9 @@ pane-privacy-logins-and-passwords-header = Воридшавиҳо ва ниҳо�
 forms-ask-to-save-logins =
     .label = Пурсидани имкони нигоҳ доштани воридшавиҳо ва ниҳонвожаҳо барои сомонаҳо
     .accesskey = П
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Истисноҳо…
     .accesskey = И
@@ -897,6 +896,10 @@ primary-password-os-auth-dialog-message-win = Барои эҷод кардани
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ниҳонвожаи асосиро эҷод кунад
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Пуркунии худкор
 
 ## Privacy Section - History
 

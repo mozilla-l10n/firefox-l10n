@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Гузориш фиристода шуд! Ташаккур!
 confirmation-hint-login-removed = Воридшавӣ тоза карда шуд!
+confirmation-hint-password-removed = Ниҳонвожа тоза карда шуд!
 confirmation-hint-page-bookmarked = Ба хатбаракҳо нигоҳ дошта шуд
 confirmation-hint-password-saved = Ниҳонвожа нигоҳ дошта шуд!
 confirmation-hint-password-created = Ниҳонвожа нигоҳ дошта шуд

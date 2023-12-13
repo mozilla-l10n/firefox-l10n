@@ -9,6 +9,7 @@ autofill-manage-addresses-title = Нишониҳои нигоҳдошташуд�
 autofill-manage-addresses-list-header = Нишониҳо
 autofill-manage-credit-cards-title = Кортҳои кредитии нигоҳдошташуда
 autofill-manage-credit-cards-list-header = Кортҳои кредитӣ
+autofill-manage-cards-list-header = Кортҳо
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Тоза кардан
@@ -37,12 +38,14 @@ address-capture-manage-address-button =
     .label = Танзимоти нишонӣ
 address-capture-learn-more-button =
     .label = Маълумоти бештар
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Илова кардани нишонии нав
 address-capture-open-menu-button =
     .aria-label = Кушодани меню
 address-capture-edit-address-button =
     .aria-label = Таҳрир кардани нишонӣ
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Илова кардани нишонии нав
+autofill-add-address-title = Илова кардани нишонӣ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Таҳрир кардани нишонӣ
 autofill-address-name = Ном
@@ -114,11 +117,15 @@ autofill-address-email = Почтаи электронӣ
 autofill-cancel-button = Бекор кардан
 autofill-save-button = Нигоҳ доштан
 autofill-country-warning-message = Айни ҳол, пуркунии шакл ба таври худкор танҳо барои баъзе кишварҳо дастрас аст.
-autofill-message-tooltip = Дидани паём дар бораи пуркунии худкор
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Илова кардани корти кредитии нав
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Таҳрир кардани корти кредитӣ
+autofill-message-tooltip = Дидани паём дар бораи пуркунии худкор
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Илова кардани корт
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Таҳрир кардани корт
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =

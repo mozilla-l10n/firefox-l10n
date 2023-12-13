@@ -114,11 +114,12 @@ about-logins-intro-import2 = Агар воридшавиҳои шумо беру
 ## Login
 
 login-item-new-login-title = Эҷод кардани воридшавии нав
+# Header for adding a password
+about-logins-login-item-new-login-title = Илова кардани ниҳонвожа
 login-item-edit-button = Таҳрир кардан
 about-logins-login-item-remove-button = Тоза кардан
 login-item-origin-label = Нишонии сомона
 login-item-tooltip-message = Мутмаин шавед, ки ин ба нишонии дақиқи сомонае, ки шумо ворид мешавед, мувофиқат мекунад.
-about-logins-origin-tooltip = Боварӣ ҳосил кунед, ки ин ба нишонии дақиқи сомонае, ки шумо ворид мешавед, мувофиқат мекунад.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Мутмаин шавед, ки шумо ниҳонвожаи ҷории худро барои ин сомона нигоҳ доштед. Ивазкунии ниҳонвожа дар ин ҷой, онро дар «{ $webTitle }» иваз намекунад.
@@ -136,6 +137,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Нусха бардоштан
 login-item-copied-password-button-text = Нусха бардошта шуд!
 login-item-save-changes-button = Нигоҳ доштани тағйирот
+about-logins-login-item-save-changes-button = Нигоҳ доштан
 login-item-save-new-button = Нигоҳ доштан
 login-item-cancel-button = Бекор кардан
 
