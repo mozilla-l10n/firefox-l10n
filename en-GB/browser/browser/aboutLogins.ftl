@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Import from Another Bro
 about-logins-menu-menuitem-import-from-a-file = Import from a File…
 about-logins-menu-menuitem-export-logins = Export Logins…
 about-logins-menu-menuitem-remove-all-logins = Remove All Logins…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Remove All Passwords…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Options
@@ -114,11 +116,13 @@ about-logins-intro-import2 = If your logins are saved outside of { -brand-produc
 ## Login
 
 login-item-new-login-title = Create New Login
+# Header for adding a password
+about-logins-login-item-new-login-title = Add password
 login-item-edit-button = Edit
 about-logins-login-item-remove-button = Remove
 login-item-origin-label = Web site address
 login-item-tooltip-message = Make sure this matches the exact address of the web site where you log in.
-about-logins-origin-tooltip = Make sure this matches the exact address of the web site where you log in.
+about-logins-origin-tooltip2 = Enter the full address and make sure it’s an exact match for where you sign in.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Make sure you’re saving your current password for this site. Changing the password here does not change it with { $webTitle }.
@@ -136,6 +140,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Copy
 login-item-copied-password-button-text = Copied!
 login-item-save-changes-button = Save Changes
+about-logins-login-item-save-changes-button = Save
 login-item-save-new-button = Save
 login-item-cancel-button = Cancel
 
