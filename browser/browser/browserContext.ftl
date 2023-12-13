@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Bruk lagret innlogging
     .accesskey = B
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Bruk lagret passord
     .accesskey = B
@@ -305,6 +306,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = s
 main-context-menu-manage-logins2 =
     .label = Behandle innlogginger…
+    .accesskey = B
+main-context-menu-manage-passwords =
+    .label = Behandle passord
     .accesskey = B
 main-context-menu-keyword =
     .label = Lag nøkkelord for dette søket …

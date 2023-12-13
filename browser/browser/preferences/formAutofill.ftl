@@ -9,6 +9,7 @@ autofill-manage-addresses-title = Lagrede adresser
 autofill-manage-addresses-list-header = Adresser
 autofill-manage-credit-cards-title = Lagrede betalingskort
 autofill-manage-credit-cards-list-header = Betalingskort
+autofill-manage-cards-list-header = Kort
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Fjern
@@ -37,12 +38,14 @@ address-capture-manage-address-button =
     .label = Adresseinnstillinger
 address-capture-learn-more-button =
     .label = Les mer
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Legg til ny adresse
 address-capture-open-menu-button =
     .aria-label = Åpne meny
 address-capture-edit-address-button =
     .aria-label = Rediger adresse
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Legg til ny adresse
+autofill-add-address-title = Legg til adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediger adresse
 autofill-address-name = Navn
@@ -114,11 +117,15 @@ autofill-address-email = E-post
 autofill-cancel-button = Avbryt
 autofill-save-button = Lagre
 autofill-country-warning-message = Automatisk utfylling av skjema er for tiden bare tilgjengelig i enkelte land.
-autofill-message-tooltip = Se melding om autofyll
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Legg til nytt betalingskort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Rediger betalingskort
+autofill-message-tooltip = Se melding om autofyll
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Legg til kort
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Rediger kort
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
