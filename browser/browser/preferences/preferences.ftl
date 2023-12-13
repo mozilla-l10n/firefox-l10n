@@ -794,9 +794,9 @@ sync-engine-creditcards =
     .label = Betalingskort
     .tooltiptext = Navn, numre og forfallsdato (bare datamaskin)
     .accesskey = K
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Betalingsmetoder
-    .tooltiptext = Navn, kortnumre og utløpsdatoer (kun datamaskin)
+    .tooltiptext = Navn, kortnummer og utløpsdatoer
     .accesskey = n
 sync-engine-addons =
     .label = Utvidelser
@@ -844,6 +844,13 @@ pane-privacy-logins-and-passwords-header = Innlogginger og passord
 forms-ask-to-save-logins =
     .label = Spør om å lagre brukernavn og passord for nettsteder
     .accesskey = r
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Passord
+    .searchkeywords = innlogginger
 forms-exceptions =
     .label = Unntak …
     .accesskey = n
@@ -898,6 +905,9 @@ primary-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = opprett et hovedpassord
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
