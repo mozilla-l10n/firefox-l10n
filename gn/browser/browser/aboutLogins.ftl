@@ -115,11 +115,12 @@ about-logins-intro-import2 = Ne rembiapo ñepyrũ oñeñongatu { -brand-product-
 ## Login
 
 login-item-new-login-title = Tembiapo ñepyrũ pyahu moheñói
+# Header for adding a password
+about-logins-login-item-new-login-title = Embojuaju ñe’ẽñemi
 login-item-edit-button = Mbosako’i
 about-logins-login-item-remove-button = Mboguete
 login-item-origin-label = Ñanduti kundaharape
 login-item-tooltip-message = Emoñondivéke pe kundaharape ñanduti renda emoñepyrũhápe tembiapo rehe.
-about-logins-origin-tooltip = Emoñondive ñanduti renda kundaharape emoñepyrũhápe tembiapo.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Eñongatúke katuete ne ñe’ẽñemi ag̃aguáva ko tendápe g̃uarã. Emoambuévo ñe’ẽñemi ko’ápe nomoambuéi { $webTitle } pegua.
@@ -137,6 +138,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Monguatia
 login-item-copied-password-button-text = Monguatiapyre!
 login-item-save-changes-button = Moambue ñongatu
+about-logins-login-item-save-changes-button = Ñongatu
 login-item-save-new-button = Ñongatu
 login-item-cancel-button = Heja
 
