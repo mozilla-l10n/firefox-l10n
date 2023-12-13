@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = 从其他浏览器导�
 about-logins-menu-menuitem-import-from-a-file = 从文件导入…
 about-logins-menu-menuitem-export-logins = 导出登录信息…
 about-logins-menu-menuitem-remove-all-logins = 移除所有登录信息…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = 移除所有密码…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] 选项
@@ -101,11 +103,13 @@ about-logins-intro-import2 = 若您的登录信息并未存储在 { -brand-produ
 ## Login
 
 login-item-new-login-title = 新建登录信息
+# Header for adding a password
+about-logins-login-item-new-login-title = 添加密码
 login-item-edit-button = 编辑
 about-logins-login-item-remove-button = 移除
 login-item-origin-label = 网址
 login-item-tooltip-message = 请确保其与您所登录的网站地址精确匹配。
-about-logins-origin-tooltip = 请确保此处填写的网址与需登录网站的网址一致。
+about-logins-origin-tooltip2 = 请输入完整地址，确保其与需登录网站的地址一致。
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = 请确保此处填写的密码是您当前所用的密码。在此处更改密码后，{ $webTitle } 上的密码并不会随之更改。
@@ -123,6 +127,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = 复制
 login-item-copied-password-button-text = 已复制！
 login-item-save-changes-button = 保存更改
+about-logins-login-item-save-changes-button = 保存
 login-item-save-new-button = 保存
 login-item-cancel-button = 取消
 
@@ -150,6 +155,11 @@ about-logins-edit-login-os-auth-dialog-message-win = 请输入 Windows 登录凭
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 编辑保存的登录信息
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = 请输入 Windows 登录凭据，以查看密码。这有助于保护您的账户安全。
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = 编辑已存密码
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，以查看密码。这有助于保护您的账户安全。
 # This message can be seen when attempting to reveal a password in about:logins
@@ -165,6 +175,11 @@ about-logins-export-password-os-auth-dialog-message-win = 请输入 Windows 登�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = 导出保存的登录名和密码
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = 请输入 Windows 登录凭据，以导出密码。这有助于保护您的账户安全。
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = 导出已存密码
 
 ## Primary Password notification
 
@@ -180,6 +195,10 @@ confirmation-dialog-dismiss-button =
     .title = 取消
 about-logins-confirm-remove-dialog-title = 要移除此登录信息吗？
 confirm-delete-dialog-message = 此操作不可撤销。
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = 确定要移除密码吗？
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = 此操作不可撤销。
 about-logins-confirm-remove-dialog-confirm-button = 移除
 
 ## Variables
@@ -216,6 +235,28 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] 将在您所有受同步的设备上，移除保存在 { -brand-short-name } 中的登录信息，以及在此显示的数据外泄警报。此操作不可撤销。
        *[other] 将在您所有受同步的设备上，移除保存在 { -brand-short-name } 中的登录信息，以及在此显示的数据外泄警报。此操作不可撤销。
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] 是，移除密码
+       *[other] 是，移除密码
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 = 确定移除 { $count } 个密码吗？
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] 将移除保存在 { -brand-short-name } 中的全部密码，以及所有数据外泄警报。此操作不可撤销。
+       *[other] 将移除保存在 { -brand-short-name } 中的全部密码，以及所有数据外泄警报。此操作不可撤销。
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 = 确定在所有设备上移除共 { $count } 个密码吗？
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] 将在您所有受同步的设备上，移除保存在 { -brand-short-name } 中的全部密码，以及在此显示的所有数据外泄警报。此操作不可撤销。
+       *[other] 将在您所有受同步的设备上，移除保存在 { -brand-short-name } 中的全部密码，以及在此显示的所有数据外泄警报。此操作不可撤销。
     }
 
 ##

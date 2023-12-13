@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = 下列网站的登录信息将不被保存
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = 例外 - 已存密码
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } 将不会保存这些网站的密码。
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

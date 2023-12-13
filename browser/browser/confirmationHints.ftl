@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = 反馈发送成功。感谢您！
 confirmation-hint-login-removed = 已移除登录信息！
+confirmation-hint-password-removed = 密码已移除！
 confirmation-hint-page-bookmarked = 已保存至书签
 confirmation-hint-password-saved = 密码已保存！
 confirmation-hint-password-created = 密码已保存

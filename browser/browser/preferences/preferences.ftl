@@ -786,9 +786,9 @@ sync-engine-creditcards =
     .label = 信用卡
     .tooltiptext = 姓名、号码、有效期限（仅限桌面版）
     .accesskey = C
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = 付款方式
-    .tooltiptext = 姓名、卡号、有效期（仅桌面版）
+    .tooltiptext = 姓名、卡号、有效期
     .accesskey = n
 sync-engine-addons =
     .label = 附加组件
@@ -836,18 +836,35 @@ pane-privacy-logins-and-passwords-header = 登录信息与密码
 forms-ask-to-save-logins =
     .label = 向您询问是否保存网站的登录名和密码
     .accesskey = r
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = 密码
+    .searchkeywords = 登录信息
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = 询问是否保存密码
+    .accesskey = A
 forms-exceptions =
     .label = 例外…
     .accesskey = x
 forms-generate-passwords =
     .label = 建议并生成高强度密码
     .accesskey = u
+forms-suggest-passwords =
+    .label = 建议高强度密码…
+    .accesskey = S
 forms-breach-alerts =
     .label = 显示有关网站密码外泄的提醒
     .accesskey = b
 forms-breach-alerts-learn-more-link = 详细了解
 preferences-relay-integration-checkbox =
     .label = 建议使用 { -relay-brand-name } 马甲邮箱以保护您的电子邮箱
+preferences-relay-integration-checkbox2 =
+    .label = 建议使用 { -relay-brand-name } 马甲邮箱来保护邮箱地址
+    .accesskey = r
 relay-integration-learn-more-link = 详细了解
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -856,6 +873,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = 已保存的登录信息…
     .accesskey = L
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = 自动填写用户名和密码
+    .accesskey = F
+forms-saved-passwords =
+    .label = 已存密码
+    .accesskey = d
 forms-primary-pw-use =
     .label = 使用主密码
     .accesskey = U
@@ -890,6 +914,28 @@ primary-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = 创建主密码
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = 自动填写
+autofill-addresses-checkbox = 保存和自动填写密码
+    .accesskey = a
+autofill-saved-addresses-button = 已存地址
+    .accesskey = S
+autofill-payment-methods-checkbox-message = 保存和填写付款方式
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = 包括信用卡和借记卡
+    .accesskey = I
+autofill-saved-payment-methods-button = 已存付款方式
+    .accesskey = v
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] 需要进行 macOS 身份验证以填写和编辑付款方式。
+        [windows] 需要进行 Windows 身份验证以填写和编辑付款方式。
+        [linux] 需要进行 Linux 身份验证以填写和编辑付款方式。
+       *[other] 需要进行身份验证以填写和编辑付款方式。
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
