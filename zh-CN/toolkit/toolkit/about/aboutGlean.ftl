@@ -44,6 +44,8 @@ about-glean-manual-testing = 完整说明文档请见 <a data-l10n-name="fog-ins
 about-glean-no-ping-label = （不提交任何 Ping）
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = 在此栏设置好记的调试标签，方便之后快速找到您的 ping。
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = 设置一个容易记忆的调试标签<span>（20个字符以内，仅限字母数字和短横线）</span>以便您随后可以识别您的 ping。
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names = 请从下拉列表选择您测试仪器所在的位置。若位于<a data-l10n-name="custom-ping-link">自定义 ping</a>，则选择该项；否则默认的 <code>event</code> 指标是 <code>event</code>，而其他所有指标的默认值为 <code>metrics</code> ping。
