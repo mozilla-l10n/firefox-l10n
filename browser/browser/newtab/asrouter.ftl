@@ -245,7 +245,7 @@ device-migration-fxa-spotlight-older-device-header = Trygghet, fra { -brand-prod
 device-migration-fxa-spotlight-older-device-body = En konto holder viktig informasjon oppdatert og beskyttet på alle enheter du kobler til.
 device-migration-fxa-spotlight-older-device-primary-button = Opprett en konto
 device-migration-fxa-spotlight-getting-new-device-header-2 = Planlegger du å kjøpe en ny enhet i fremtiden?
-device-migration-fxa-spotlight-getting-new-device-body = Sikkerhetskopier dine data nå, så du er klar til å gå når enheten din kommer.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Følg noen få enkle trinn for å ta med deg bokmerkene, historikken og passordene dine når du tar i bruk en ny enhet.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hvordan sikkerhetskopiere mine data
 
 ## Set as Default PDF Reader Infobar
