@@ -262,15 +262,22 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
-        [1] Cette action supprime le mot de passe enregistré dans { -brand-short-name } et toutes les alertes de fuite de données. Elle ne peut être annulée.
-        [one] Cette action supprime le mot de passe enregistré dans { -brand-short-name } et toutes les alertes de fuite de données. Elle ne peut être annulée.
-       *[other] Cette action supprime les mots de passe enregistrés dans { -brand-short-name } et toutes les alertes de fuite de données. Elle ne peut être annulée.
+        [1] Cette action supprime le mot de passe enregistré dans { -brand-short-name } et toutes les alertes de fuites de données. Elle ne peut être annulée.
+        [one] Cette action supprime le mot de passe enregistré dans { -brand-short-name } et toutes les alertes de fuites de données. Elle ne peut être annulée.
+       *[other] Cette action supprime les mots de passe enregistrés dans { -brand-short-name } et toutes les alertes de fuites de données. Elle ne peut être annulée.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Supprimer le mot de passe de tous les appareils ?
        *[other] Supprimer les { $count } mots de passe de tous les appareils ?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Cette action supprime le mot de passe enregistré dans { -brand-short-name } de tous vos appareils synchronisés. Elle supprime également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
+        [one] Cette action supprime le mot de passe enregistré dans { -brand-short-name } de tous vos appareils synchronisés. Elle supprime également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
+       *[other] Cette action supprime tous les mots de passe enregistrés dans { -brand-short-name } de tous vos appareils synchronisés. Elle supprime également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
     }
 
 ##
