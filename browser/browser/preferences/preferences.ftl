@@ -932,6 +932,18 @@ autofill-saved-addresses-button = Indirizzi salvati
     .accesskey = v
 autofill-payment-methods-checkbox-message = Salva e compila i metodi di pagamento
     .accesskey = n
+autofill-payment-methods-checkbox-submessage = Include carte di credito e di debito
+    .accesskey = d
+autofill-saved-payment-methods-button = Metodi di pagamento salvati
+    .accesskey = o
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Richiedi autenticazione con macOS per compilare e modificare i metodi di pagamento.
+        [windows] Richiedi autenticazione con Windows per compilare e modificare i metodi di pagamento.
+        [linux] Richiedi autenticazione con Linux per compilare e modificare i metodi di pagamento.
+       *[other] Richiedi autenticazione per compilare e modificare i metodi di pagamento.
+    }
+    .accesskey = u
 
 ## Privacy Section - History
 
