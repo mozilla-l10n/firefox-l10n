@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Ymportearje fan in oare
 about-logins-menu-menuitem-import-from-a-file = Ut in bestân ymportearje…
 about-logins-menu-menuitem-export-logins = Oanmeldingen eksportearje…
 about-logins-menu-menuitem-remove-all-logins = Alle oanmeldingen fuortsmite…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Alle wachtwurden fuortsmite…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opsjes
@@ -114,11 +116,13 @@ about-logins-intro-import2 = As jo oanmeldingen bûten { -brand-product-name } b
 ## Login
 
 login-item-new-login-title = Nij oanmelding meitsje
+# Header for adding a password
+about-logins-login-item-new-login-title = Wachtwurd tafoegje
 login-item-edit-button = Bewurkje
 about-logins-login-item-remove-button = Fuortsmite
 login-item-origin-label = Websiteadres
 login-item-tooltip-message = Soargje derfoar dat dit eksakt oerienkomt mei it adres fan de website wêr’t jo jo oanmelde.
-about-logins-origin-tooltip = Soargje derfoar dat dit eksakt oerienkomt mei it adres fan de website wêr't jo jo oanmelde.
+about-logins-origin-tooltip2 = Fier it folsleine adres yn en soargje derfoar dat it krekt oerienkomt mei wêr’t jo jo oanmelde.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Soargje derfoar dat jo jo aktuele wachtwurd foar dizze website bewarje. It wizigjen fan it wachtwurd hjir wiziget it net by { $webTitle }.
@@ -136,6 +140,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopiearje
 login-item-copied-password-button-text = Kopiearre!
 login-item-save-changes-button = Wizigingen bewarje
+about-logins-login-item-save-changes-button = Bewarje
 login-item-save-new-button = Bewarje
 login-item-cancel-button = Annulearje
 
@@ -163,6 +168,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Fier jo oanmeldgegevens foa
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = bewurkje de bewarre oanmelding
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Fier jo oanmeldgegevens foar Windows yn om jo wachtwurd te bewurkjen. Hjirtroch wurdt de befeiliging fan jo accounts beskerme.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = it bewarre wachtwurd te bewurkjen
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Fier jo oanmeldgegevens foar Windows yn om jo wachtwurd te besjen. Hjirtroch wurdt de befeiliging fan jo accounts beskerme.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -178,6 +188,8 @@ about-logins-export-password-os-auth-dialog-message-win = Fier jo oanmeldgegeven
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = bewarren oanmeldingen en wachtwurden te eksportearjen
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Fier jo oanmeldgegevens foar Windows yn om jo wachtwurd te eksportearjen. Hjirtroch wurdt de befeiliging fan jo accounts beskerme.
 
 ## Primary Password notification
 
