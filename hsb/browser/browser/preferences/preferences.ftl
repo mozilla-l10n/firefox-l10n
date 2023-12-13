@@ -944,6 +944,14 @@ autofill-payment-methods-checkbox-submessage = Zapřijima kreditne a debetowe ka
     .accesskey = Z
 autofill-saved-payment-methods-button = Składowane płaćenske metody
     .accesskey = d
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Awtentifikaciju macOS za wupjelnjenje a wobdźěłowanje płaćenskich metodow žadać.
+        [windows] Awtentifikaciju Windows za wupjelnjenje a wobdźěłowanje płaćenskich metodow žadać.
+        [linux] Awtentifikaciju Linux za wupjelnjenje a wobdźěłowanje płaćenskich metodow žadać.
+       *[other] Awtentifikaciju za wupjelnjenje a wobdźěłowanje płaćenskich metodow žadać.
+    }
+    .accesskey = A
 
 ## Privacy Section - History
 
