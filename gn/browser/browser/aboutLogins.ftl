@@ -168,6 +168,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Embosako’ívo tembiapo ñ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = embosako’i tembiapo ñepyrũ ñongatupyre
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Embosako’i hag̃ua ñe’ẽñemi, emoinge nde reraite Windows emoñepyrũvo. Oipytyvõta emo’ãvo ne mba’etekuéra rekorosã.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = embosako’i ñe’ẽñemi ñongatupyre
@@ -186,6 +188,8 @@ about-logins-export-password-os-auth-dialog-message-win = Erahaukávo ne rembiap
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = erahauka poruhára ha ñe’ẽñemi ñongatupyre
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Erahauka hag̃ua ñe’ẽñemi, emoinge nde reraite Windows emoñepyrũvo. Oipytyvõta emo’ãvo ne mba’etekuéra rekorosã.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = erahauka ñe’ẽñemi ñongatupyre
