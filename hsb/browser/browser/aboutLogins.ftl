@@ -296,6 +296,15 @@ about-logins-confirm-remove-all-dialog-title2 =
         [few] { $count } hesła wotstronić?
        *[other] { $count } hesłow wotstronić?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] To hesło, kotrež je so w { -brand-short-name } składowało a datowe dźěry wotstroni.
+        [one] To $count hesło, kotrež je so w { -brand-short-name } składowało a datowe dźěry wotstroni.
+        [two] To $count hesle, kotrejž stej so w { -brand-short-name } składowałoj a datowe dźěry wotstroni.
+        [few] To $count hesła, kotrež su so w { -brand-short-name } składowali a datowe dźěry wotstroni.
+       *[other] To $count hesłow, kotrež je so w { -brand-short-name } składowało a datowe dźěry wotstroni.
+    }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
