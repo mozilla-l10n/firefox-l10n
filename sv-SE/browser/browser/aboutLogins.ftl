@@ -256,6 +256,13 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Detta tar bort inloggningen som du har sparat till { -brand-short-name } på alla enheter som synkroniseras med ditt konto. Detta tar också bort intrångsvarningar som visas här. Du kommer inte att kunna ångra den här åtgärden.
        *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ja, ta bort lösenordet
+        [one] Ja, ta bort lösenord
+       *[other] Ja, ta bort lösenorden
+    }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
@@ -274,6 +281,13 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Vill du ta bort { $count } lösenord från alla enheter?
        *[other] Vill du ta bort alla { $count } lösenorden från alla enheter?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Detta tar bort lösenordet som sparats i { -brand-short-name } på alla dina synkroniserade enheter. Detta tar också bort alla intrångsvarningar som visas här. Du kan inte ångra den här åtgärden.
+        [one] Detta tar bort lösenord som sparats i { -brand-short-name } på alla dina synkroniserade enheter. Detta tar också bort alla intrångsvarningar som visas här. Du kan inte ångra den här åtgärden.
+       *[other] Detta tar bort alla lösenorden som sparats i { -brand-short-name } på alla dina synkroniserade enheter. Detta tar också bort alla intrångsvarningar som visas här. Du kan inte ångra den här åtgärden.
     }
 
 ##

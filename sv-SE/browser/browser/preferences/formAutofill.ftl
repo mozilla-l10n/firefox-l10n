@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Sparade adresser
 autofill-manage-addresses-list-header = Adresser
 autofill-manage-credit-cards-title = Sparade kreditkort
 autofill-manage-credit-cards-list-header = Kreditkort
+autofill-manage-payment-methods-title = Sparade betalningsmetoder
+autofill-manage-cards-list-header = Kort
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Ta bort
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Adressinställningar
 address-capture-learn-more-button =
     .label = Läs mer
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Lägg till ny adress
 address-capture-open-menu-button =
     .aria-label = Öppna meny
 address-capture-edit-address-button =
     .aria-label = Redigera adress
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Lägg till ny adress
+autofill-add-address-title = Lägg till adress
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Redigera adress
 autofill-address-name = Namn
@@ -114,11 +118,15 @@ autofill-address-email = E-post
 autofill-cancel-button = Avbryt
 autofill-save-button = Spara
 autofill-country-warning-message = Autofyll av formulär är för närvarande endast tillgänglig för vissa länder.
-autofill-message-tooltip = Visa meddelande om autofyll
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Lägg till nytt kreditkort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Redigera kreditkort
+autofill-message-tooltip = Visa meddelande om autofyll
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Lägg till kort
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Redigera kort
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
