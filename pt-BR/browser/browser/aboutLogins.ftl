@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importar de outro naveg
 about-logins-menu-menuitem-import-from-a-file = Importar de um arquivo…
 about-logins-menu-menuitem-export-logins = Exportar contas…
 about-logins-menu-menuitem-remove-all-logins = Remover todas as contas…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Remover todas as senhas…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opções
@@ -114,11 +116,13 @@ about-logins-intro-import2 = Se suas contas foram salvas fora do { -brand-produc
 ## Login
 
 login-item-new-login-title = Criar nova conta
+# Header for adding a password
+about-logins-login-item-new-login-title = Adicionar senha
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Remover
 login-item-origin-label = Endereço do site
 login-item-tooltip-message = Certifique-se de que corresponde ao endereço exato do site onde você acessou a conta.
-about-logins-origin-tooltip = Certifique-se de que corresponde ao endereço exato do site onde você entrou na conta.
+about-logins-origin-tooltip2 = Insira o endereço completo e certifique-se de corresponder exatamente a onde você fez entrou na conta.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Certifique-se de salvar a senha atual da sua conta deste site. Mudar a senha aqui não a altera em { $webTitle }.
@@ -136,6 +140,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = Copiado!
 login-item-save-changes-button = Salvar alterações
+about-logins-login-item-save-changes-button = Salvar
 login-item-save-new-button = Salvar
 login-item-cancel-button = Cancelar
 
@@ -163,6 +168,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar a conta, insira
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar a conta salva
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Para editar a senha, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para ver a senha, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
 # This message can be seen when attempting to reveal a password in about:logins
