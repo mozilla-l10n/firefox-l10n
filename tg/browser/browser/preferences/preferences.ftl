@@ -862,6 +862,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Воридшавиҳои нигоҳдошташуда…
     .accesskey = В
+forms-saved-passwords =
+    .label = Ниҳонвожаҳои нигоҳдошташуда
+    .accesskey = и
 forms-primary-pw-use =
     .label = Истифода кардани ниҳонвожаи асосӣ
     .accesskey = И
@@ -900,6 +903,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Пуркунии худкор
+autofill-addresses-checkbox = Нигоҳ доштан ва пур кардани нишониҳо
+    .accesskey = г
+autofill-saved-addresses-button = Нишониҳои нигоҳдошташуда
+    .accesskey = и
 
 ## Privacy Section - History
 
