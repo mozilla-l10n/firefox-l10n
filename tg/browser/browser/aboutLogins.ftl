@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Аз браузери �
 about-logins-menu-menuitem-import-from-a-file = Аз файл ворид кардан…
 about-logins-menu-menuitem-export-logins = Содиркунии воридшавиҳо…
 about-logins-menu-menuitem-remove-all-logins = Ҳамаи воридшавиҳоро нест кардан…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Тоза кардани ҳамаи ниҳонвожаҳо…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Имконот
@@ -195,6 +197,10 @@ confirmation-dialog-dismiss-button =
     .title = Бекор кардан
 about-logins-confirm-remove-dialog-title = Ин воридшавиро тоза мекунед?
 confirm-delete-dialog-message = Ин амал бекор карда намешавад.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Ниҳонвожаро нест мекунед?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Шумо ин амалро бекор карда наметавонед.
 about-logins-confirm-remove-dialog-confirm-button = Тоза кардан
 
 ## Variables
@@ -234,6 +240,12 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Ин амал воридшавиеро, ки шумо дар «{ -brand-short-name }» нигоҳ доштед, дар ҳамаи дастгоҳҳои бо ҳисоби шумо ҳамоҳангшуда тоза мекунад. Аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷой пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
        *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ҳа, ниҳонвожаро тоза намоед
+       *[other] Yes, remove passwords
     }
 
 ##
