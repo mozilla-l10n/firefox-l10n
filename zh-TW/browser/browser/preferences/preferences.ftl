@@ -782,9 +782,9 @@ sync-engine-creditcards =
     .label = 信用卡
     .tooltiptext = 姓名、卡號及到期日（僅桌機）
     .accesskey = C
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = 付款方式
-    .tooltiptext = 持卡人姓名、卡號、到期日（僅桌面版）
+    .tooltiptext = 持卡人姓名、卡號、到期日
     .accesskey = n
 sync-engine-addons =
     .label = 附加元件
@@ -832,6 +832,17 @@ pane-privacy-logins-and-passwords-header = 登入資訊與密碼
 forms-ask-to-save-logins =
     .label = 向您詢問是否要記住網站的登入帳號與密碼
     .accesskey = r
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = 密碼
+    .searchkeywords = 登入資訊
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = 提示儲存密碼
+    .accesskey = A
 forms-exceptions =
     .label = 例外網站…
     .accesskey = x
@@ -886,6 +897,9 @@ primary-password-os-auth-dialog-message-win = 請在下方輸入您的 Windows �
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = 建立主控密碼
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 

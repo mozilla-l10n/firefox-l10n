@@ -9,6 +9,8 @@ autofill-manage-addresses-title = 已存地址
 autofill-manage-addresses-list-header = 地址
 autofill-manage-credit-cards-title = 已存信用卡資料
 autofill-manage-credit-cards-list-header = 信用卡
+autofill-manage-payment-methods-title = 儲存的付款方式
+autofill-manage-cards-list-header = 付款卡片
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = 移除
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = 地址設定
 address-capture-learn-more-button =
     .label = 了解更多
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = 新增地址
 address-capture-open-menu-button =
     .aria-label = 開啟選單
 address-capture-edit-address-button =
     .aria-label = 編輯地址
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = 新增地址
+autofill-add-address-title = 新增地址
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = 編輯地址
 autofill-address-name = 姓名
@@ -114,11 +118,15 @@ autofill-address-email = 電子郵件
 autofill-cancel-button = 取消
 autofill-save-button = 儲存
 autofill-country-warning-message = 目前僅能在表單中自動填寫部分國家的地址。
-autofill-message-tooltip = 檢視有關自動填寫的訊息
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = 新增信用卡
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = 編輯信用卡
+autofill-message-tooltip = 檢視有關自動填寫的訊息
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = 新增付款卡片
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = 編輯卡片資訊
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
