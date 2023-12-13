@@ -141,8 +141,12 @@ firefoxview-opentabs-focus-tab =
     .title = מעבר ללשונית זו
 firefoxview-show-more = להציג יותר
 firefoxview-show-less = להציג פחות
+firefoxview-show-all = הצגת הכול
 firefoxview-search-text-box-clear-button =
     .title = ניקוי
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = חיפוש
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = חיפוש בהיסטוריה

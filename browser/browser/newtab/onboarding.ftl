@@ -279,3 +279,5 @@ onboarding-device-migration-primary-button-label = כניסה
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = להישאר מוצפן במעבר בין מכשירים
