@@ -242,7 +242,7 @@ device-migration-fxa-spotlight-older-device-header = Tranquillità, da { -brand-
 device-migration-fxa-spotlight-older-device-body = Un account mantiene le tue informazioni importanti aggiornate e protette su qualsiasi dispositivo connesso.
 device-migration-fxa-spotlight-older-device-primary-button = Crea un account
 device-migration-fxa-spotlight-getting-new-device-header-2 = Nuovo dispositivo nel tuo futuro?
-device-migration-fxa-spotlight-getting-new-device-body = Salva subito i tuoi dati, così sarai pronto per partire quando arriverà il tuo dispositivo.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Segui alcuni semplici passaggi per portare con te segnalibri, cronologia e password quando inizi a utilizzare un nuovo dispositivo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Come posso salvare i miei dati
 
 ## Set as Default PDF Reader Infobar
@@ -269,4 +269,3 @@ launch-on-login-infobar-reject-button = Non adesso
 launch-on-login-infobar-final-message = <strong>Vuoi aprire { -brand-short-name } quando riavvii il computer?</strong> Per gestire le impostazioni di avvio, cerca “avvio” nelle impostazioni.
 launch-on-login-infobar-final-reject-button = No grazie
     .accesskey = N
-
