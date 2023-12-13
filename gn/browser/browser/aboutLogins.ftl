@@ -270,6 +270,12 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] ¿Emboguete { $count } ñe’ẽñemi?
        *[other] ¿Emboguete { $count } ñe’ẽñeminguéra?
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] ¿Emboguete ñe’ẽñemi { $count } opaite mba’e’okágui?
+       *[other] ¿Emboguete ñe’ẽñemi { $count } opaite mba’e’okágui?
+    }
 
 ##
 
