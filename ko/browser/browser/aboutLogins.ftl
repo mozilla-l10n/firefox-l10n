@@ -107,6 +107,8 @@ about-logins-intro-import2 = 로그인이 { -brand-product-name }의 외부에 �
 ## Login
 
 login-item-new-login-title = 새 로그인 만들기
+# Header for adding a password
+about-logins-login-item-new-login-title = 비밀번호 추가
 login-item-edit-button = 편집
 about-logins-login-item-remove-button = 삭제
 login-item-origin-label = 웹 사이트 주소
@@ -128,6 +130,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = 복사
 login-item-copied-password-button-text = 복사됨!
 login-item-save-changes-button = 변경 내용 저장
+about-logins-login-item-save-changes-button = 저장
 login-item-save-new-button = 저장
 login-item-cancel-button = 취소
 
@@ -155,6 +158,9 @@ about-logins-edit-login-os-auth-dialog-message-win = 로그인을 편집하려�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 저장된 로그인 편집
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = 저장된 비밀번호 편집
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = 비밀번호를 보려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -170,6 +176,9 @@ about-logins-export-password-os-auth-dialog-message-win = 로그인을 내보내
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = 저장된 로그인과 비밀번호 내보내기
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = 저장된 비밀번호 내보내기
 
 ## Primary Password notification
 
@@ -185,6 +194,8 @@ confirmation-dialog-dismiss-button =
     .title = 취소
 about-logins-confirm-remove-dialog-title = 이 로그인을 삭제하시겠습니까?
 confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = 비밀번호를 제거하시겠습니까?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
 about-logins-confirm-remove-dialog-confirm-button = 삭제
