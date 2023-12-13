@@ -54,6 +54,7 @@ about-webauthn-current-pin-label = ‏PIN נוכחי:
 about-webauthn-pin-required-label = נא להכניס את ה־PIN שלך:
 about-webauthn-credential-list-subsection-title = אישורים:
 about-webauthn-credential-list-empty = לא נמצאו אישורים במכשיר.
+about-webauthn-confirm-deletion-label = הפריטים הבאים יימחקו:
 
 ## Buttons
 

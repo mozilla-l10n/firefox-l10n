@@ -174,6 +174,16 @@ media-codec-support-unsupported = לא נתמך
 media-codec-support-error = מידע תמיכה במקודדים אינו זמין. יש לנסות שוב לאחר הפעלת קובץ מדיה.
 media-codec-support-lack-of-extension = התקנת הרחבה
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-cdm-capabilities = יכולות
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Clear Lead
+
 ##
 
 intl-title = בינלאומי ושפות
