@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Импорт из др�
 about-logins-menu-menuitem-import-from-a-file = Импорт из файла…
 about-logins-menu-menuitem-export-logins = Экспорт логинов…
 about-logins-menu-menuitem-remove-all-logins = Удалить все логины…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Удалить все пароли…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Настройки
@@ -119,11 +121,13 @@ about-logins-intro-import2 = Если ваши логины сохранены �
 ## Login
 
 login-item-new-login-title = Создать новый логин
+# Header for adding a password
+about-logins-login-item-new-login-title = Добавить пароль
 login-item-edit-button = Изменить
 about-logins-login-item-remove-button = Удалить
 login-item-origin-label = Адрес веб-сайта
 login-item-tooltip-message = Проверьте, что он действительно соответствует адресу веб-сайта, на который вы входите.
-about-logins-origin-tooltip = Проверьте, что он действительно соответствует адресу веб-сайта, на который вы входите.
+about-logins-origin-tooltip2 = Введите полный адрес и убедитесь, что он точно соответствует тому, где вы входите в систему.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Убедитесь, что вы сохранили свой текущий пароль для этого сайта. Изменение пароля здесь не приводит к его изменению на { $webTitle }.
@@ -141,6 +145,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Копировать
 login-item-copied-password-button-text = Скопировано!
 login-item-save-changes-button = Сохранить изменения
+about-logins-login-item-save-changes-button = Сохранить
 login-item-save-new-button = Сохранить
 login-item-cancel-button = Отмена
 
@@ -168,6 +173,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Чтобы изменить
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = изменить сохранённый логин
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Чтобы изменить свой пароль, введите свои учетные данные для входа в Windows. Это помогает защитить безопасность ваших аккаунтов.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = изменить сохраненный пароль
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Чтобы просмотреть свой пароль, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -183,6 +193,11 @@ about-logins-export-password-os-auth-dialog-message-win = Чтобы экспо�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = экспортировать сохранённые логины и пароли
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Чтобы экспортировать пароли, введите свои учетные данные для входа в Windows. Это помогает защитить безопасность ваших аккаунтов.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = экспорт сохраненных паролей
 
 ## Primary Password notification
 
@@ -198,6 +213,10 @@ confirmation-dialog-dismiss-button =
     .title = Отмена
 about-logins-confirm-remove-dialog-title = Удалить этот логин?
 confirm-delete-dialog-message = Это действие нельзя отменить.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Удалить пароль?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Вы не можете отменить это действие.
 about-logins-confirm-remove-dialog-confirm-button = Удалить
 
 ## Variables
@@ -249,6 +268,36 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [one] Это приведет к удалению всех логинов, сохранённых вами в { -brand-short-name } на всех устройствах, синхронизируемых с вашим аккаунтом. Также будут удалены предупреждения об утечках, появляющиеся здесь. Вы не сможете отменить это действие.
         [few] Это приведет к удалению всех логинов, сохранённых вами в { -brand-short-name } на всех устройствах, синхронизируемых с вашим аккаунтом. Также будут удалены предупреждения об утечках, появляющиеся здесь. Вы не сможете отменить это действие.
        *[many] Это приведет к удалению всех логинов, сохранённых вами в { -brand-short-name } на всех устройствах, синхронизируемых с вашим аккаунтом. Также будут удалены предупреждения об утечках, появляющиеся здесь. Вы не сможете отменить это действие.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Да, удалить пароль
+        [one] Да, удалить пароль
+        [few] Да, удалить пароли
+       *[many] Да, удалить пароли
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Удалить { $count } пароль?
+        [few] Удалить { $count } пароля?
+       *[many] Удалить все { $count } паролей?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] При этом будут удален пароль, сохраненный в { -brand-short-name }, и все предупреждения о взломе. Вы не можете отменить это действие.
+        [one] При этом будут удален пароль, сохраненный в { -brand-short-name }, и все предупреждения о взломе. Вы не можете отменить это действие.
+        [few] При этом будут удалены пароли, сохраненные в { -brand-short-name }, и все предупреждения о взломе. Вы не можете отменить это действие.
+       *[many] При этом будут удалены пароли, сохраненные в { -brand-short-name }, и все предупреждения о взломе. Вы не можете отменить это действие.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Удалить { $count } пароль со всех устройств?
+        [few] Удалить { $count } пароля со всех устройств?
+       *[many] Удалить все { $count } пролей со всех устройств?
     }
 
 ##
