@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = שימוש בכניסה שמורה
     .accesskey = ש
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = שימוש בססמה שמורה
     .accesskey = ש
@@ -306,6 +307,9 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins2 =
     .label = ניהול כניסות
     .accesskey = כ
+main-context-menu-manage-passwords =
+    .label = ניהול ססמאות
+    .accesskey = נ
 main-context-menu-keyword =
     .label = הוספת מילת מפתח לחיפוש זה…
     .accesskey = ס
