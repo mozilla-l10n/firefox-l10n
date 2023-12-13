@@ -778,9 +778,9 @@ sync-engine-creditcards =
     .label = 신용카드
     .tooltiptext = 이름, 숫자 그리고 만료 날짜 (데스크톱만)
     .accesskey = C
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = 결제 방법
-    .tooltiptext = 이름, 카드 번호, 만료일 (데스크톱만 해당)
+    .tooltiptext = 이름, 카드 번호, 만료일
     .accesskey = n
 sync-engine-addons =
     .label = 부가 기능
@@ -828,6 +828,9 @@ pane-privacy-logins-and-passwords-header = 로그인과 비밀번호
 forms-ask-to-save-logins =
     .label = 웹 사이트의 로그인과 비밀번호를 기억할지 묻기
     .accesskey = r
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = 예외…
     .accesskey = x
@@ -882,6 +885,15 @@ primary-password-os-auth-dialog-message-win = 기본 비밀번호를 만들려�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = 기본 비밀번호 만들기
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+autofill-payment-methods-checkbox-message = 결제 방법 저장 및 채우기
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = 신용/직불 카드 포함
+    .accesskey = I
+autofill-saved-payment-methods-button = 저장된 결제 방법
+    .accesskey = v
 
 ## Privacy Section - History
 
