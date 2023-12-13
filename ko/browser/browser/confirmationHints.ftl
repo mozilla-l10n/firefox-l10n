@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = 보고됨. 감사합니다!
 confirmation-hint-login-removed = 로그인 삭제됨!
+confirmation-hint-password-removed = 비밀번호 제거됨!
 confirmation-hint-page-bookmarked = 북마크에 저장됨
 confirmation-hint-password-saved = 비밀번호 저장됨!
 confirmation-hint-password-created = 비밀번호 저장됨
