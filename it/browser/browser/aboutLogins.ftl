@@ -28,6 +28,7 @@ menu =
 about-logins-menu-menuitem-import-from-another-browser = Importa da un altro browser…
 about-logins-menu-menuitem-import-from-a-file = Importa da file…
 about-logins-menu-menuitem-export-logins = Esporta credenziali…
+about-logins-menu-menuitem-export-logins2 = Esporta password…
 about-logins-menu-menuitem-remove-all-logins = Rimuovi tutte le credenziali…
 # Item that appears when the user clicks the ⋯  menu
 about-logins-menu-menuitem-remove-all-logins2 = Elimina tutte le password…
@@ -261,6 +262,13 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Esportazione credenziali e password
 about-logins-confirm-export-dialog-message = Le password verranno salvate come testo leggibile (ad esempio “Password123”). Chiunque abbia accesso al file esportato potrà vederle.
 about-logins-confirm-export-dialog-confirm-button = Esporta…
+
+about-logins-confirm-export-dialog-title2 = Avviso relativo all’esportazione di password
+about-logins-confirm-export-dialog-message2 =
+    Il processo di esportazione salva le password in un file con testo leggibile.
+    Ti consigliamo di eliminare il file dopo averlo utilizzato, così da impedire ad altri utenti che utilizzano questo dispositivo di vedere le tue password.
+about-logins-confirm-export-dialog-confirm-button2 = Prosegui l’esportazione
+
 about-logins-alert-import-title = Importazione completata
 about-logins-alert-import-message = Visualizza riepilogo dettagliato dell’importazione
 confirm-discard-changes-dialog-title = Ignorare le modifiche non salvate?
@@ -299,9 +307,11 @@ about-logins-error-message-default = Si è verificato un errore durante il salva
 
 # Title of the file picker dialog
 about-logins-export-file-picker-title = Esportazione credenziali
+about-logins-export-file-picker-title2 = Esporta password da { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = credenziali.csv
+about-logins-export-file-picker-default-filename2 = password.csv
 about-logins-export-file-picker-export-button = Esporta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
