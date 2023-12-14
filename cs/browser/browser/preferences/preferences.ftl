@@ -910,10 +910,6 @@ sync-engine-creditcards =
     .label = Platební karty
     .tooltiptext = Jména, čísla a data expirace (pouze na počítači)
     .accesskey = K
-sync-engine-payment-methods =
-    .label = Způsoby platby
-    .tooltiptext = Jména, čísla karet a data expirace (pouze na desktopu)
-    .accesskey = p
 sync-engine-addons =
     .label = Doplňky
     .tooltiptext = Rozšíření a motivy vzhledu ve Firefoxu pro počítač
@@ -960,6 +956,9 @@ pane-privacy-logins-and-passwords-header = Přihlašovací údaje
 forms-ask-to-save-logins =
     .label = Ptát se na ukládání přihlašovacích údajů
     .accesskey = P
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Výjimky…
     .accesskey = k
@@ -980,6 +979,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Uložené přihlašovací údaje…
     .accesskey = l
+forms-saved-passwords =
+    .label = Uložená hesla
+    .accesskey = U
 forms-primary-pw-use =
     .label = Použít hlavní heslo
     .accesskey = P
@@ -1014,6 +1016,12 @@ primary-password-os-auth-dialog-message-win = Pro nastavení hlavního hesla pro
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = vytvořit hlavní heslo
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Automatické vyplňování
+autofill-addresses-checkbox = Ukládat a vyplňovat adresy
+    .accesskey = a
 
 ## Privacy Section - History
 
