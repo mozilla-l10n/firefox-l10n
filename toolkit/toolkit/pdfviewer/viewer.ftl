@@ -303,6 +303,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Hiq tekst
 pdfjs-editor-remove-stamp-button =
     .title = Hiq figurë
+pdfjs-editor-remove-highlight-button =
+    .title = Hiqe theksimin
 
 ##
 
@@ -352,3 +354,22 @@ pdfjs-editor-resizer-label-bottom-right = Cepi i poshtëm djathtas — ripërmas
 pdfjs-editor-resizer-label-bottom-middle = Mesi i pjesës poshtë — ripërmasojeni
 pdfjs-editor-resizer-label-bottom-left = Cepi i poshtëm — ripërmasojeni
 pdfjs-editor-resizer-label-middle-left = Majtas në mes — ripërmasojeni
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Ngjyrë theksimi
+pdfjs-editor-colorpicker-button =
+    .title = Ndryshoni ngjyrë
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Zgjedhje ngjyre
+pdfjs-editor-colorpicker-yellow =
+    .title = E verdhë
+pdfjs-editor-colorpicker-green =
+    .title = E gjelbër
+pdfjs-editor-colorpicker-blue =
+    .title = Blu
+pdfjs-editor-colorpicker-pink =
+    .title = Rozë
+pdfjs-editor-colorpicker-red =
+    .title = E kuqe

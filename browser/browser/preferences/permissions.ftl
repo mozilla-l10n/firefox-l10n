@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Për sajtet vijues s’do të ruhen kredenciale hyrjesh
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Përjashtime - Fjalëkalime të Ruajtur
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } s’do të ruajë fjalëkalime për sajtet që tregohen këtu.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

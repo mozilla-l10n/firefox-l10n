@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Kalo te kjo skedë
 firefoxview-show-more = Shfaq më tepër
 firefoxview-show-less = Shfaq më pak
+firefoxview-show-all = Shfaqi krejt
 firefoxview-search-text-box-clear-button =
     .title = Spastroje
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Kërko
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Kërkoni në historik
