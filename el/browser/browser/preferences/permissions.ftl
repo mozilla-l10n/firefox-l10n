@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Οι συνδέσεις για τους εξής ιστοτόπους δεν θα αποθηκεύονται
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Εξαιρέσεις - Αποθηκευμένοι κωδικοί πρόσβασης
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = Το { -brand-short-name } δεν θα αποθηκεύει τους κωδικούς πρόσβασης για τους ιστοτόπους που αναφέρονται εδώ.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
