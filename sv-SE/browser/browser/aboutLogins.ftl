@@ -271,22 +271,20 @@ about-logins-confirm-remove-all-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
-        [1] Detta kommer att ta bort lösenordet som sparats i { -brand-short-name } och eventuella intrångsvarningar. Du kan inte ångra den här åtgärden.
-        [one] Detta kommer att ta bort lösenordet som sparats i { -brand-short-name } och eventuella intrångsvarningar. Du kan inte ångra den här åtgärden.
-       *[other] Detta kommer att ta bort lösenorden som sparats i { -brand-short-name } och eventuella intrångsvarningar. Du kan inte ångra den här åtgärden.
+        [1] Detta kommer att ta bort lösenordet som sparas till { -brand-short-name } och eventuella intrångsvarningar. Du kan inte ångra den här åtgärden.
+       *[other] Detta kommer att ta bort lösenorden som sparas till { -brand-short-name } och eventuella intrångsvarningar. Du kan inte ångra den här åtgärden.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Vill du ta bort { $count } lösenord från alla enheter?
-       *[other] Vill du ta bort alla { $count } lösenorden från alla enheter?
+       *[other] Vill du ta bort alla { $count } lösenord från alla enheter?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
-        [1] Detta tar bort lösenordet som sparats i { -brand-short-name } på alla dina synkroniserade enheter. Detta tar också bort alla intrångsvarningar som visas här. Du kan inte ångra den här åtgärden.
-        [one] Detta tar bort lösenord som sparats i { -brand-short-name } på alla dina synkroniserade enheter. Detta tar också bort alla intrångsvarningar som visas här. Du kan inte ångra den här åtgärden.
-       *[other] Detta tar bort alla lösenorden som sparats i { -brand-short-name } på alla dina synkroniserade enheter. Detta tar också bort alla intrångsvarningar som visas här. Du kan inte ångra den här åtgärden.
+        [1] Detta kommer att ta bort lösenorden som sparas till { -brand-short-name } på alla dina synkroniserade enheter. Detta kommer också att ta bort eventuella intrångsvarningar som visas här. Du kan inte ångra den här åtgärden.
+       *[other] Detta kommer att ta bort alla lösenord som sparas till { -brand-short-name } på alla dina synkroniserade enheter. Detta kommer också att ta bort eventuella intrångsvarningar som visas här. Du kan inte ångra den här åtgärden.
     }
 
 ##
