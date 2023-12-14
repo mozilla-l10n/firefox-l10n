@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ
     .title = ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ
 report-broken-site-panel-report-sent-text = ਵੈੱਬ ਨੂੰ ਹਰ ਕਿਸੇ ਲਈ ਵੱਧ ਆਜ਼ਾਦ, ਪਹੁੰਵ ਵਿੱਚ ਅਤੇ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ { -brand-product-name } ਦੀ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ।
+report-broken-site-panel-invalid-url-label = ਵਾਜਬ URL ਦਿਓ ਜੀ
+report-broken-site-panel-missing-reason-label = ਕਾਰਨ ਚੁਣੋ ਜੀ
