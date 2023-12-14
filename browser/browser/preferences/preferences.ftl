@@ -899,7 +899,7 @@ forms-saved-logins =
     .accesskey = M
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-usernames-and-passwords =
-    .label = Llenw enwau defnyddwyr a chyfrineiriau'n awtomatig
+    .label = Llanw enwau defnyddwyr a chyfrineiriau'n awtomatig
     .accesskey = L
 forms-saved-passwords =
     .label = Cyfrineiriau wedi'u cadw
@@ -942,11 +942,11 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Awtolanw
-autofill-addresses-checkbox = Cadw a llenwi cyfeiriadau
+autofill-addresses-checkbox = Cadw a llanw cyfeiriadau
     .accesskey = l
 autofill-saved-addresses-button = Cyfeiriadau wedi'u cadw
     .accesskey = y
-autofill-payment-methods-checkbox-message = Cadw a llenwi dulliau talu
+autofill-payment-methods-checkbox-message = Cadw a llanw dulliau talu
     .accesskey = d
 autofill-payment-methods-checkbox-submessage = Yn cynnwys cardiau credyd a debyd
     .accesskey = Y
@@ -954,10 +954,10 @@ autofill-saved-payment-methods-button = Dulliau talu wedi'u cadw
     .accesskey = D
 autofill-reauth-checkbox =
     { PLATFORM() ->
-        [macos] Angen dilysu macOSi lenwi a golygu dulliau talu.
-        [windows] Angen dilysu Windows i lenwi a golygu dulliau talu.
-        [linux] Angen dilysu Linux i lenwi a golygu dulliau talu.
-       *[other] Angen dilysu i lenwi a golygu dulliau talu.
+        [macos] Angen dilysu macOSi lanw a golygu dulliau talu.
+        [windows] Angen dilysu Windows i lanw a golygu dulliau talu.
+        [linux] Angen dilysu Linux i lanw a golygu dulliau talu.
+       *[other] Angen dilysu i lanw a golygu dulliau talu.
     }
     .accesskey = d
 

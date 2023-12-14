@@ -186,7 +186,7 @@ shopping-onboarding-dynamic-subtitle-1 = Dyma sut mae gweld pa mor ddibynadwy yw
 # Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
 # Variables:
 #   $currentSite (str) - The current shopping page name
-shopping-onboarding-single-subtitle = Gweld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae Gwirydd Adolygiadau, nodwedd arbrofol gan { -brand-product-name }, wedi'i chynnwys yn y porwr.
+shopping-onboarding-single-subtitle = Gweld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r Gwirydd Adolygiadau, nodwedd arbrofol gan { -brand-product-name }, wedi'i gynnwys yn y porwr.
 shopping-onboarding-body = Gan ddefnyddio pŵer { -fakespot-brand-full-name }, rydym yn eich helpu i osgoi adolygiadau rhagfarnllyd ac annilys. Mae ein model AI yn gwella'n barhaus i’ch diogelu wrth i chi siopa. <a data-l10n-name="learn_more">Darllen rhagor</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Drwy ddewis “ { shopping-onboarding-opt-in-button }" rydych yn cytuno i <a data-l10n-name="privacy_policy">bolisi preifatrwydd</a> a <a data-l10n-name="terms_of_use">thelerau defnydd { -fakespot-brand-name }.</a>
 shopping-onboarding-opt-in-button = Iawn, rhoi cynnig arno
