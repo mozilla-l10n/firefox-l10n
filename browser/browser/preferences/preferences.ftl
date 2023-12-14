@@ -794,10 +794,10 @@ sync-engine-creditcards =
     .label = כרטיסי אשראי
     .tooltiptext = שמות, מספרים ותאריכי תפוגה (שולחן עבודה בלבד)
     .accesskey = א
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = אמצעי תשלום
-    .tooltiptext = שמות, מספרי כרטיס ותאריכי תפוגה (למחשבים שולחניים בלבד)
-    .accesskey = א
+    .tooltiptext = שמות, כרטיסי מספרים ותאריכי תפוגה
+    .accesskey = { "" }
 sync-engine-addons =
     .label = תוספות
     .tooltiptext = הרחבות וערכות נושא עבור Firefox שולחני
@@ -844,18 +844,35 @@ pane-privacy-logins-and-passwords-header = כניסות וססמאות
 forms-ask-to-save-logins =
     .label = הצגת בקשה לשמירת פרטי כניסה וססמאות לאתרים
     .accesskey = צ
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = ססמאות
+    .searchkeywords = כניסות
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = לבקש לשמור ססמאות
+    .accesskey = ל
 forms-exceptions =
     .label = חריגות…
     .accesskey = ר
 forms-generate-passwords =
     .label = הצעה ויצירת ססמאות חזקות
     .accesskey = ס
+forms-suggest-passwords =
+    .label = קבלת הצעה לססמה חזקה
+    .accesskey = ת
 forms-breach-alerts =
     .label = הצגת התרעות על ססמאות עבור אתרים שנפרצו
     .accesskey = ס
 forms-breach-alerts-learn-more-link = מידע נוסף
 preferences-relay-integration-checkbox =
     .label = הצעת מסיכות דוא״ל של { -relay-brand-name } כדי להגן על כתובת הדוא״ל שלך
+preferences-relay-integration-checkbox2 =
+    .label = הצעת מסיכות דוא״ל של { -relay-brand-name } כדי להגן על כתובת הדוא״ל שלך
+    .accesskey = { "" }
 relay-integration-learn-more-link = מידע נוסף
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -895,6 +912,9 @@ primary-password-os-auth-dialog-message-win = כדי ליצור ססמה ראש�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ליצור ססמה ראשית
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
