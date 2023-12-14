@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Symud i'r tab hwn
 firefoxview-show-more = Dangos rhagor
 firefoxview-show-less = Dangos llai
+firefoxview-show-all = Dangos y cyfan
 firefoxview-search-text-box-clear-button =
     .title = Clirio
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Chwilio
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Hanes chwilio

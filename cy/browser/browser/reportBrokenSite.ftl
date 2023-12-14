@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Mae eich adroddiad wedi'i anfon
     .title = Mae eich adroddiad wedi'i anfon
 report-broken-site-panel-report-sent-text = Diolch am helpu { -brand-product-name } i wneud y we yn fwy agored, hygyrch, ac yn well i bawb.
+report-broken-site-panel-invalid-url-label = Rhowch URL dilys
+report-broken-site-panel-missing-reason-label = Dewiswch reswm
