@@ -156,7 +156,7 @@ about-logins-edit-login-os-auth-dialog-message-win = 请输入 Windows 登录凭
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 编辑保存的登录信息
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message2-win = 请输入 Windows 登录凭据，以查看密码。这有助于保护您的账户安全。
+about-logins-edit-login-os-auth-dialog-message2-win = 请输入 Windows 登录凭据，以编辑密码。这有助于保护您的账户安全。
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = 编辑已存密码
