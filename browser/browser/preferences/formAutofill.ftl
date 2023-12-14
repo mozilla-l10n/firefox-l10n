@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Сақталған адрестер
 autofill-manage-addresses-list-header = Адрестер
 autofill-manage-credit-cards-title = Сақталған несиелік карталар
 autofill-manage-credit-cards-list-header = Несиелік карталар
+autofill-manage-payment-methods-title = Сақталған төлем әдістері
+autofill-manage-cards-list-header = Карталар
 autofill-manage-dialog =
     .style = min-width: 660px
 autofill-manage-remove-button = Өшіру
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Адрес баптаулары
 address-capture-learn-more-button =
     .label = Көбірек білу
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Жаңа адресті қосу
 address-capture-open-menu-button =
     .aria-label = Мәзірді ашу
 address-capture-edit-address-button =
     .aria-label = Адресті түзету
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Жаңа адресті қосу
+autofill-add-address-title = Адресті қосу
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Адресті түзету
 autofill-address-name = Аты
@@ -114,11 +118,15 @@ autofill-address-email = Эл. пошта
 autofill-cancel-button = Бас тарту
 autofill-save-button = Сақтау
 autofill-country-warning-message = Формаларды автотолтыру ағымдағы уақытта тек кейбір елдер үшін қолжетімді.
-autofill-message-tooltip = Автоматты толтыру туралы хабарламаны қарау
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Жаңа несиелік картаны қосу
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Несиелік картаны түзету
+autofill-message-tooltip = Автоматты толтыру туралы хабарламаны қарау
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Картаны қосу
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Картаны түзету
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
