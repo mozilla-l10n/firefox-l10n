@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Skłaźone pśizjawjenje wužywaś
     .accesskey = S
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Skłaźone gronidło wužywaś
     .accesskey = r
@@ -306,6 +307,9 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins2 =
     .label = Pśizjawjenja zastojaś
     .accesskey = P
+main-context-menu-manage-passwords =
+    .label = Gronidła zastojaś
+    .accesskey = z
 main-context-menu-keyword =
     .label = Gronidło za toś to pytanje pśidaś…
     .accesskey = G
