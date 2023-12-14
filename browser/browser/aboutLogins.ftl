@@ -130,6 +130,7 @@ login-item-edit-button = Wobźěłaś
 about-logins-login-item-remove-button = Wótwónoźeś
 login-item-origin-label = Adresa websedła
 login-item-tooltip-message = Pśeznańśo se, až to eksaktnej adresy websedła wótpowědujo, źož se cośo pśizjawiś.
+about-logins-origin-tooltip2 = Zapódajśo dopołnu adresu a zawěsććo, až jo eksaktny wótpowědnik za město, źož se pśizjawjaśo.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Zawěsććo, až swójo aktualne gronidło za toś to sedło składujośo. Gaž se gronidło how njezměnja, njezměnijo se z { $webTitle }.
@@ -294,6 +295,15 @@ about-logins-confirm-remove-all-dialog-title2 =
         [two] { $count } gronidle wótwónoźeś?
         [few] { $count } gronidła wótwónoźeś?
        *[other] { $count } gronidłow wótwónoźeś?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] To gronidło, kótarež jo se składło w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
+        [one] To { $count } gronidło, kótarež jo se składło w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
+        [two] To { $count } gronidle, kótarejž stej se składłej w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
+        [few] To { $count } gronidła, kótarež su se składli w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
+       *[other] To { $count } gronidłow, kótarež jo se składło w { -brand-short-name } a warnowanja wó datowych źěrach wótwónoźijo.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =

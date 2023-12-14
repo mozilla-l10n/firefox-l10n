@@ -940,6 +940,18 @@ autofill-saved-addresses-button = Skłaźone adrese
     .accesskey = S
 autofill-payment-methods-checkbox-message = Płaśeńske metody składowaś a wupołniś
     .accesskey = m
+autofill-payment-methods-checkbox-submessage = Zapśimujo kreditowe a debetowe kórty
+    .accesskey = Z
+autofill-saved-payment-methods-button = Skłaźone płaśeńske metody
+    .accesskey = k
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Awtentificěrowanje macOS za wupołnjenje a wobźěłowanje płaśeńskich metodow pominaś.
+        [windows] Awtentificěrowanje Windows za wupołnjenje a wobźěłowanje płaśeńskich metodow pominaś.
+        [linux] Awtentificěrowanje Linux za wupołnjenje a wobźěłowanje płaśeńskich metodow pominaś.
+       *[other] Awtentificěrowanje za wupołnjenje a wobźěłowanje płaśeńskich metodow pominaś.
+    }
+    .accesskey = t
 
 ## Privacy Section - History
 
