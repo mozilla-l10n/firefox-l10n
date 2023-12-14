@@ -9,6 +9,7 @@ autofill-manage-addresses-title = Нишониҳои нигоҳдошташуд�
 autofill-manage-addresses-list-header = Нишониҳо
 autofill-manage-credit-cards-title = Кортҳои кредитии нигоҳдошташуда
 autofill-manage-credit-cards-list-header = Кортҳои кредитӣ
+autofill-manage-payment-methods-title = Тарзҳои пардохти нигоҳдошташуда
 autofill-manage-cards-list-header = Кортҳо
 autofill-manage-dialog =
     .style = min-width: 560px

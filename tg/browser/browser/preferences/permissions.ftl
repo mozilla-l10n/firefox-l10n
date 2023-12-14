@@ -103,9 +103,15 @@ permissions-exceptions-popup-desc = Шумо метавонед муайян к�
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window2 =
-    .title = Истисно - Воридшавиҳои нигоҳдошташуда
+    .title = Истисноҳо - Воридшавиҳои нигоҳдошташуда
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Воридшавиҳо барои сомонаҳои зерин нигоҳ дошта намешаванд
+
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Истисноҳо - Ниҳонвожаҳои нигоҳдошташуда
+    .style = { permissions-window2.style }
 
 ## Exceptions - Add-ons
 
