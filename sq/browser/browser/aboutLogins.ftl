@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importoni nga Tjetër S
 about-logins-menu-menuitem-import-from-a-file = Importoni prej një Kartele…
 about-logins-menu-menuitem-export-logins = Eksportoni Kredenciale Hyrjesh…
 about-logins-menu-menuitem-remove-all-logins = Hiqni Krejt Kredencialet e Hyrjeve…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Hiqini Tërë Fjalëkalimet…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Mundësi
@@ -114,11 +116,13 @@ about-logins-intro-import2 = Nëse kredencialet tuaja për hyrje janë ruajtur j
 ## Login
 
 login-item-new-login-title = Krijoni Kredenciale të Reja Hyrjeje
+# Header for adding a password
+about-logins-login-item-new-login-title = Shtoni fjalëkalim
 login-item-edit-button = Përpunojeni
 about-logins-login-item-remove-button = Hiqi
 login-item-origin-label = Adresë sajti
 login-item-tooltip-message = Sigurohuni që kjo përputhet me adresën e saktë të sajtit ku hyni.
-about-logins-origin-tooltip = Sigurohuni që kjo përputhet me adresën e saktë të sajtit ku hyni.
+about-logins-origin-tooltip2 = Jepni adresën e plotë dhe sigurohuni se përputhet plotësisht, kur bëni hyrjen.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Sigurohuni se po e ruani fjalëkalimin tuaj të tanishëm për këtë sajt. Ndryshimi i fjalëkalimit këtu nuk e ndryshon atë me { $webTitle }.
@@ -136,6 +140,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopjoje
 login-item-copied-password-button-text = U kopjua!
 login-item-save-changes-button = Ruaji Ndryshimet
+about-logins-login-item-save-changes-button = Ruaje
 login-item-save-new-button = Ruaje
 login-item-cancel-button = Anuloje
 
@@ -163,6 +168,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Që të përpunoni kredenci
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = që të përpunoni kredenciale të ruajtura hyrjeje
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Që të përpunoni fjalëkalimin tuaj, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = që të përpunohet fjalëkalimi i ruajtur
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Që të shihni fjalëkalimin tuaj, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -178,6 +188,11 @@ about-logins-export-password-os-auth-dialog-message-win = Që të eksportoni kre
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = eksporto kredenciale hyrjesh dhe fjalëkalime të ruajtur
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Që të eksportoni fjalëkalimet tuaja, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = që të eksportohen fjalëkalimet e ruajtura
 
 ## Primary Password notification
 
@@ -193,6 +208,10 @@ confirmation-dialog-dismiss-button =
     .title = Anulim
 about-logins-confirm-remove-dialog-title = Të hiqen këto kredenciale hyrjesh?
 confirm-delete-dialog-message = Ky veprim s’mund të zhbëhet.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Të hiqet fjalëkalimi?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = S’mund ta zhbëni këtë veprim.
 about-logins-confirm-remove-dialog-confirm-button = Hiqi
 
 ## Variables
@@ -232,6 +251,38 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Kjo do të heqë kredencialet e hyrjes që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara me llogarinë tuaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S’do të jeni në gjendje të zhbëni këtë veprim.
        *[other] Kjo do të heqë krejt kredencialet e hyrjeve që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara me llogarinë tuaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S’do të jeni në gjendje të zhbëni këtë veprim.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Po, hiqe fjalëkalimin
+        [one] Po, hiqi fjalëkalimet
+       *[other] { "" }
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Të hiqet { $count } fjalëkalim?
+       *[other] Të hiqen { $count } fjalëkalime?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Kjo do të heqë fjalëkalimin e ruajtur në { -brand-short-name } dhe çfarëdo sinjalizimesh për shkelje. Këtë veprim s’mund ta zhbëni.
+       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Të hiqet { $count } fjalëkalim nga krejt pajisjet?
+       *[other] Të hiqen { $count } fjalëkalime nga krejt pajisjet?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Kjo do të heqë fjalëkalimet e ruajtur te { -brand-short-name } në krejt pajisjet tuaja të njëkohësuara. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. Këtë veprim s’mund ta zhbëni.
+        [one] Kjo do të heqë fjalëkalimin e ruajtur te { -brand-short-name } në krejt pajisjet tuaja të njëkohësuara. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. Këtë veprim s’mund ta zhbëni.
+       *[other] Kjo do të heqë fjalëkalimet e ruajtur te { -brand-short-name } në krejt pajisjet tuaja të njëkohësuara. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. Këtë veprim s’mund ta zhbëni.
     }
 
 ##
@@ -330,7 +381,7 @@ about-logins-import-dialog-items-no-change =
     }
 about-logins-import-dialog-items-added2 =
     { $count ->
-       *[other] <span>U shtua fjalëkalim i ri:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>U shtuan fjalëkalime të rinj:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-modified2 =
     { $count ->

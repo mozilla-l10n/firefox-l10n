@@ -41,7 +41,7 @@ neterror-generic-error = { -brand-short-name }-i, për ndonjë arsye, nuk mund t
 neterror-load-error-try-again = Sajti mund të jetë përkohësisht jashtë pune ose tepër i zënë. Riprovoni pas pak çastesh.
 neterror-load-error-connection = Nëse nuk arrini të ngarkoni qoftë edhe një faqe, kontrolloni lidhjen në rrjet për kompjuterin tuaj.
 neterror-load-error-firewall = Nëse kompjuteri apo rrjeti juaj mbrohet nga një “firewall”, ose ndërmjetës, sigurohuni që { -brand-short-name }-it i është lejuar hyrja në Web.
-neterror-captive-portal = YouDuhet të bëni hyrjen në këtë rrjet, përpara se të hyni në Internet.
+neterror-captive-portal = Duhet të bëni hyrjen në këtë rrjet, përpara se të përdorni Internetin.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = E kishit fjalën të shkohej te <a data-l10n-name="website">{ $hostAndPath }</a>?
