@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Εισαγωγή από
 about-logins-menu-menuitem-import-from-a-file = Εισαγωγή από αρχείο…
 about-logins-menu-menuitem-export-logins = Εξαγωγή συνδέσεων…
 about-logins-menu-menuitem-remove-all-logins = Αφαίρεση όλων των συνδέσεων…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Αφαίρεση όλων των κωδικών πρόσβασης…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Επιλογές
@@ -114,11 +116,12 @@ about-logins-intro-import2 = Εάν οι συνδέσεις σας έχουν α
 ## Login
 
 login-item-new-login-title = Δημιουργία νέας σύνδεσης
+# Header for adding a password
+about-logins-login-item-new-login-title = Προσθήκη κωδικού πρόσβασης
 login-item-edit-button = Επεξεργασία
 about-logins-login-item-remove-button = Αφαίρεση
 login-item-origin-label = Διεύθυνση ιστοτόπου
 login-item-tooltip-message = Βεβαιωθείτε ότι ταιριάζει ακριβώς με τη διεύθυνση του ιστότοπου όπου συνδέεστε.
-about-logins-origin-tooltip = Βεβαιωθείτε ότι αντιστοιχεί στην ακριβή διεύθυνση του ιστοτόπου στον οποίο συνδέεστε.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Βεβαιωθείτε ότι αποθηκεύετε τον τρέχοντα κωδικό πρόσβασής σας για αυτόν τον ιστότοπο. Η αλλαγή του κωδικού πρόσβασης εδώ δεν θα τον αλλάξει στο { $webTitle }.
@@ -136,6 +139,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Αντιγραφή
 login-item-copied-password-button-text = Αντιγράφηκε!
 login-item-save-changes-button = Αποθήκευση αλλαγών
+about-logins-login-item-save-changes-button = Αποθήκευση
 login-item-save-new-button = Αποθήκευση
 login-item-cancel-button = Ακύρωση
 
@@ -163,6 +167,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Για να επεξεργ�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = επεξεργαστεί την αποθηκευμένη σύνδεση
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Για να επεξεργαστείτε τον κωδικό πρόσβασής σας, εισάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = επεξεργαστεί τον αποθηκευμένο κωδικό πρόσβασης
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Για να δείτε τον κωδικό πρόσβασής σας, εισαγάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -178,6 +187,11 @@ about-logins-export-password-os-auth-dialog-message-win = Για να εξαγά
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = εξαγάγει αποθηκευμένες συνδέσεις και κωδικούς πρόσβασης
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Για να εξαγάγετε τους κωδικούς πρόσβασής σας, εισάγετε τα διαπιστευτήρια σύνδεσης των Windows. Αυτό συμβάλλει στην προστασία των λογαριασμών σας.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = εξαγάγει τους αποθηκευμένους κωδικούς πρόσβασης
 
 ## Primary Password notification
 
@@ -193,6 +207,10 @@ confirmation-dialog-dismiss-button =
     .title = Ακύρωση
 about-logins-confirm-remove-dialog-title = Αφαίρεση σύνδεσης;
 confirm-delete-dialog-message = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Αφαίρεση κωδικού πρόσβασης;
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
 about-logins-confirm-remove-dialog-confirm-button = Αφαίρεση
 
 ## Variables
@@ -232,6 +250,18 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Θα γίνει διαγραφή της σύνδεσης που έχετε αποθηκεύσει στο { -brand-short-name } από όλες τις συγχρονισμένες συσκευές του λογαριασμού σας. Θα αφαιρεθούν και οι ειδοποιήσεις παραβίασης που εμφανίζονται εδώ. Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
        *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ναι, αφαίρεση κωδικού πρόσβασης
+       *[other] Yes, remove passwords
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Αφαίρεση { $count } κωδικού πρόσβασης;
+       *[other] Αφαίρεση και των { $count } κωδικών πρόσβασης;
     }
 
 ##

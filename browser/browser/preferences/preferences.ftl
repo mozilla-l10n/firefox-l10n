@@ -794,10 +794,10 @@ sync-engine-creditcards =
     .label = Πιστωτικές κάρτες
     .tooltiptext = Ονόματα, αριθμοί και ημερομηνίες λήξης (μόνο για υπολογιστές)
     .accesskey = Π
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Μέθοδοι πληρωμής
-    .tooltiptext = Ονόματα, αριθμοί καρτών και ημερομηνίες λήξης (μόνο για υπολογιστές)
-    .accesskey = π
+    .tooltiptext = Ονόματα, αριθμοί καρτών και ημερομηνίες λήξης
+    .accesskey = δ
 sync-engine-addons =
     .label = Πρόσθετα
     .tooltiptext = Επεκτάσεις και θέματα για το Firefox για υπολογιστές
@@ -844,18 +844,35 @@ pane-privacy-logins-and-passwords-header = Συνδέσεις και κωδικ�
 forms-ask-to-save-logins =
     .label = Ερώτηση για αποθήκευση στοιχείων σύνδεσης για ιστοτόπους
     .accesskey = ρ
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Κωδικοί πρόσβασης
+    .searchkeywords = συνδέσεις
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Ερώτηση για αποθήκευση κωδικών πρόσβασης
+    .accesskey = Ε
 forms-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = ξ
 forms-generate-passwords =
     .label = Πρόταση και δημιουργία ισχυρών κωδικών πρόσβασης
     .accesskey = ρ
+forms-suggest-passwords =
+    .label = Πρόταση ισχυρών κωδικών πρόσβασης
+    .accesskey = Π
 forms-breach-alerts =
     .label = Εμφάνιση ειδοποιήσεων για κωδικούς πρόσβασης από παραβιασμένους ιστοτόπους
     .accesskey = μ
 forms-breach-alerts-learn-more-link = Μάθετε περισσότερα
 preferences-relay-integration-checkbox =
     .label = Πρόταση μασκών email του { -relay-brand-name } για την προστασία της διεύθυνσης email σας
+preferences-relay-integration-checkbox2 =
+    .label = Πρόταση μασκών email του { -relay-brand-name } για την προστασία της διεύθυνσης email σας
+    .accesskey = ρ
 relay-integration-learn-more-link = Μάθετε περισσότερα
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -864,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Αποθηκευμένες συνδέσεις…
     .accesskey = π
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Αυτόματη συμπλήρωση ονομάτων χρήστη και κωδικών πρόσβασης
+    .accesskey = υ
+forms-saved-passwords =
+    .label = Αποθηκευμένοι κωδικοί πρόσβασης
+    .accesskey = θ
 forms-primary-pw-use =
     .label = Χρήση κύριου κωδικού πρόσβασης
     .accesskey = Χ
@@ -898,6 +922,20 @@ primary-password-os-auth-dialog-message-win = Για να δημιουργήσε
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = δημιουργήσει κύριο κωδικό πρόσβασης
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Αυτόματη συμπλήρωση
+autofill-addresses-checkbox = Αποθήκευση και συμπλήρωση διευθύνσεων
+    .accesskey = π
+autofill-saved-addresses-button = Αποθηκευμένες διευθύνσεις
+    .accesskey = Α
+autofill-payment-methods-checkbox-message = Αποθήκευση και συμπλήρωση μεθόδων πληρωμής
+    .accesskey = μ
+autofill-payment-methods-checkbox-submessage = Περιλαμβάνει πιστωτικές και χρεωστικές κάρτες
+    .accesskey = Π
+autofill-saved-payment-methods-button = Αποθηκευμένες μέθοδοι πληρωμής
+    .accesskey = κ
 
 ## Privacy Section - History
 

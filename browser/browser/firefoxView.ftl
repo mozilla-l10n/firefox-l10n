@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Εναλλαγή σε αυτήν την καρτέλα
 firefoxview-show-more = Εμφάνιση περισσότερων
 firefoxview-show-less = Εμφάνιση λιγότερων
+firefoxview-show-all = Εμφάνιση όλων
 firefoxview-search-text-box-clear-button =
     .title = Απαλοιφή
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Αναζήτηση
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Αναζήτηση ιστορικού

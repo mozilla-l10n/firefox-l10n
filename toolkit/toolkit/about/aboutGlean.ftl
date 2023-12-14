@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (χωρίς υποβολή ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Στο προηγούμενο πεδίο, βεβαιωθείτε ότι υπάρχει μια ετικέτα ελέγχου σφαλμάτων που θα θυμάστε εύκολα, ώστε να μπορέσετε να αναγνωρίσετε τα ping σας αργότερα.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Ορίστε μια ετικέτα ελέγχου σφαλμάτων που θα θυμάστε εύκολα <span>(20 χαρακτήρες ή λιγότεροι, μόνο αλφαριθμητικά και -)</span>, ώστε να αναγνωρίσετε αργότερα τα ping σας.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
