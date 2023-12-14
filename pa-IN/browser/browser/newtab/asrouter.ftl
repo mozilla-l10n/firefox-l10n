@@ -245,7 +245,7 @@ device-migration-fxa-spotlight-older-device-header = { -brand-product-name } ਵ
 device-migration-fxa-spotlight-older-device-body = ਖਾਤਾ ਤੁਹਾਡੀ ਖਾਸ ਜਾਣਕਾਰੀ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਕਨੈਕਟ ਕੀਤੇ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਅੱਪਡੇਟ ਅਤੇ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।
 device-migration-fxa-spotlight-older-device-primary-button = ਖਾਤਾ ਬਣਾਓ
 device-migration-fxa-spotlight-getting-new-device-header-2 = ਤੁਹਾਡੇ ਭਵਿੱਖ ਲਈ ਨਵਾਂ ਡਿਵਾਈਸ?
-device-migration-fxa-spotlight-getting-new-device-body = ਆਪਣੇ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਹੁਣੇ ਲਵੋ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੇ ਮਿਲਣ ਉੱਤੇ ਤੁਸੀਂ ਤਿਆਰ ਹੋਵੋ।
+device-migration-fxa-spotlight-getting-new-device-body-2 = ਜਦੋਂ ਤੁਸੀਂ ਨਵੇਂ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤਣਾ ਸ਼ੁਰੂ ਕਰਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਪਾਸਵਰਡ ਲਿਆਉਣ ਲਈ ਅੱਗੇ ਦਿੱਤੇ ਕੁਝ ਪੜਾਅ ਪੂਰੇ ਕਰੋ।
 device-migration-fxa-spotlight-getting-new-device-primary-button = ਆਪਣੇ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਕਿਵੇਂ ਲਈਏ
 
 ## Set as Default PDF Reader Infobar
