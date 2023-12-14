@@ -24,7 +24,7 @@
 -send-brand-name = Firefox Send
 -screenshots-brand-name = Firefox skjámyndir
 -mozilla-vpn-brand-name = Mozilla VPN
--profiler-brand-name = Firefox Profiler
+-profiler-brand-name = Firefox Profiler afkastavakt
 -translations-brand-name = Firefox Translations
 -focus-brand-name = Firefox Focus
 -relay-brand-name = Firefox Relay

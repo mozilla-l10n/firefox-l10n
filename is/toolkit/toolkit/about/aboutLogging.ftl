@@ -15,6 +15,8 @@ about-logging-set-log-file = Setja skráningarskrá
 about-logging-set-log-modules = Setja skráningareiningar
 about-logging-start-logging = Hefja skráningu
 about-logging-stop-logging = Stöðva skráningu
+about-logging-buttons-disabled = Atvikaskráning stillt með umhverfisbreytum, breytileg uppsetning ekki tiltæk.
+about-logging-some-elements-disabled = Atvikaskráning stillt í gegnum vefslóð, sumir uppsetningarvalkostir ekki tiltækir
 about-logging-info = Upplýsingar:
 about-logging-log-modules-selection = Val á skráningareiningum
 about-logging-new-log-modules = Nýjar skráningareiningar:
@@ -60,6 +62,8 @@ about-logging-error = Villa:
 
 about-logging-invalid-output = Ógilt gildi „{ $v }“ fyrir lykil „{ $k }“
 about-logging-unknown-logging-preset = Óþekkt skráningarforstilling „{ $v }“
+about-logging-unknown-profiler-preset = Óþekkt forstilling afkastavaktar „{ $v }“
 about-logging-unknown-option = Óþekktur about:logging valkostur “{ $k }“
 about-logging-configuration-url-ignored = Stillingaslóð hunsuð
+about-logging-file-and-profiler-override = Ekki er hægt að þvinga fram skráarúttak og yfirtaka valkosti afkastavaktar á sama tíma
 about-logging-configured-via-url = Valkostur stilltur í gegnum slóð
