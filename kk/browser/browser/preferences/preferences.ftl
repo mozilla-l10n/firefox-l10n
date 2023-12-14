@@ -881,6 +881,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Сақталған логиндер…
     .accesskey = л
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Пайдаланушы аттары мен парольдерді автоматты түрде толтыру
+    .accesskey = т
 forms-saved-passwords =
     .label = Сақталған парольдер
     .accesskey = д
@@ -926,6 +930,20 @@ autofill-addresses-checkbox = Адрестерді сақтау және тол�
     .accesskey = а
 autofill-saved-addresses-button = Сақталған адрестер
     .accesskey = С
+autofill-payment-methods-checkbox-message = Төлем әдістерін сақтау және толтыру
+    .accesskey = м
+autofill-payment-methods-checkbox-submessage = Несиелік және дебеттік карталарды қамту
+    .accesskey = и
+autofill-saved-payment-methods-button = Сақталған төлем әдістері
+    .accesskey = т
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Төлем әдістерін толтыру және түзету үшін macOS аутентификациясын талап ету.
+        [windows] Төлем әдістерін толтыру және түзету үшін Windows аутентификациясын талап ету.
+        [linux] Төлем әдістерін толтыру және түзету үшін Linux аутентификациясын талап ету.
+       *[other] Төлем әдістерін толтыру және түзету үшін аутентификацияны талап ету.
+    }
+    .accesskey = о
 
 ## Privacy Section - History
 
