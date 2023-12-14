@@ -10,7 +10,7 @@ autofill-manage-addresses-list-header = 地址
 autofill-manage-credit-cards-title = 已保存的信用卡
 autofill-manage-credit-cards-list-header = 信用卡
 autofill-manage-payment-methods-title = 已存付款方式
-autofill-manage-cards-list-header = 信用卡
+autofill-manage-cards-list-header = 卡片
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = 移除
@@ -124,9 +124,9 @@ autofill-add-new-card-title = 添加新信用卡
 autofill-edit-card-title = 编辑信用卡
 autofill-message-tooltip = 查看关于自动填写的信息
 # The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = 添加信用卡
+autofill-add-card-title = 添加卡片
 # The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = 编辑信用卡
+autofill-edit-card-title2 = 编辑卡片
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
