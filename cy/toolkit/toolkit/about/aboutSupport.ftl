@@ -191,7 +191,7 @@ media-codec-support-lack-of-extension = Gosod estyniad
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
-media-content-decryption-modules-title = Gwybodaeth Modiwlau Dadgryptio Cynnwys
+media-content-decryption-modules-title = Manylion Modiwlau Dadgryptio Cynnwys
 media-key-system-name = Enw System Allwedd
 media-video-robustness = Cadernid Fideo
 media-audio-robustness = Cadernid Sain
