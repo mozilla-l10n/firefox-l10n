@@ -201,8 +201,12 @@ firefoxview-opentabs-focus-tab =
     .title = Přepnout na tento panel
 firefoxview-show-more = Zobrazit více
 firefoxview-show-less = Zobrazit méně
+firefoxview-show-all = Zobrazit vše
 firefoxview-search-text-box-clear-button =
     .title = Vymazat
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Hledat
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Hledat v historii
