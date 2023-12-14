@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = ייבוא מדפדפן
 about-logins-menu-menuitem-import-from-a-file = ייבוא מקובץ…
 about-logins-menu-menuitem-export-logins = ייצוא כניסות…
 about-logins-menu-menuitem-remove-all-logins = הסרת כל הכניסות…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = הסרת כל הססמאות…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] אפשרויות
@@ -114,11 +116,12 @@ about-logins-intro-import2 = אם הכניסות שלך שמורות מחוץ ל
 ## Login
 
 login-item-new-login-title = יצירת כניסה חדשה
+# Header for adding a password
+about-logins-login-item-new-login-title = הוספת ססמה
 login-item-edit-button = עריכה
 about-logins-login-item-remove-button = הסרה
 login-item-origin-label = כתובת אתר
 login-item-tooltip-message = יש לוודא שערך זה תואם לכתובת המדויקת של האתר אליו מתחברים.
-about-logins-origin-tooltip = יש לוודא שערך זה תואם לכתובת המדויקת של האתר אליו מתחברים.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = לא לשכוח לשמור את הססמה הנוכחית שלך עבור אתר זה. שינוי הססמה כאן אינו משנה אותה אצל { $webTitle }.
@@ -136,6 +139,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = העתקה
 login-item-copied-password-button-text = הועתק!
 login-item-save-changes-button = שמירת שינויים
+about-logins-login-item-save-changes-button = שמירה
 login-item-save-new-button = שמירה
 login-item-cancel-button = ביטול
 
@@ -163,6 +167,11 @@ about-logins-edit-login-os-auth-dialog-message-win = כדי לערוך את הכ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = לערוך את הכניסה השמורה
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = כדי לערוך את הססמה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = לערוך את הססמה השמורה
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = כדי להציג את הססמה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -178,6 +187,11 @@ about-logins-export-password-os-auth-dialog-message-win = כדי לייצא את
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = לייצא את הכניסות והססמאות השמורות
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = כדי לייצא את הססמאות שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = לייצא את הססמאות השמורות
 
 ## Primary Password notification
 
@@ -193,6 +207,10 @@ confirmation-dialog-dismiss-button =
     .title = ביטול
 about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = להסיר ססמה?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = אין באפשרותך לבטל פעולה זו.
 about-logins-confirm-remove-dialog-confirm-button = הסרה
 
 ## Variables
@@ -236,6 +254,12 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] פעולה זו תסיר את הכניסה ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים לחשבון שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
        *[other] פעולה זו תסיר את כל הכניסות ששמרת ב־{ -brand-short-name } בכל המכשירים המסונכרנים לחשבון שלך. יוסרו גם ההתרעות על הדליפות שמופיעות כאן. לא יהיה באפשרותך לבטל פעולה זו.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] כן, להסיר את הססמה
+       *[other] כן, להסיר את הססמאות
     }
 
 ##
