@@ -915,6 +915,8 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+autofill-saved-addresses-button = Adresses salvate
+    .accesskey = s
 
 ## Privacy Section - History
 
