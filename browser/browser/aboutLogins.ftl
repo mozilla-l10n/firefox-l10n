@@ -122,6 +122,7 @@ login-item-edit-button = Επεξεργασία
 about-logins-login-item-remove-button = Αφαίρεση
 login-item-origin-label = Διεύθυνση ιστοτόπου
 login-item-tooltip-message = Βεβαιωθείτε ότι ταιριάζει ακριβώς με τη διεύθυνση του ιστότοπου όπου συνδέεστε.
+about-logins-origin-tooltip2 = Εισαγάγετε την πλήρη διεύθυνση και βεβαιωθείτε ότι αντιστοιχεί ακριβώς στη σελίδα όπου πραγματοποιείτε σύνδεση.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Βεβαιωθείτε ότι αποθηκεύετε τον τρέχοντα κωδικό πρόσβασής σας για αυτόν τον ιστότοπο. Η αλλαγή του κωδικού πρόσβασης εδώ δεν θα τον αλλάξει στο { $webTitle }.
@@ -262,6 +263,24 @@ about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
         [one] Αφαίρεση { $count } κωδικού πρόσβασης;
        *[other] Αφαίρεση και των { $count } κωδικών πρόσβασης;
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Αυτή η ενέργεια θα αφαιρέσει τον κωδικό πρόσβασης που έχει αποθηκευτεί στο { -brand-short-name }, καθώς και τυχόν ειδοποιήσεις παραβιάσεων. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
+       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Αφαίρεση { $count } κωδικού πρόσβασης από όλες τις συσκευές;
+       *[other] Αφαίρεση και των { $count } κωδικών πρόσβασης από όλες τις συσκευές;
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Αυτή η ενέργεια θα αφαιρέσει τον κωδικό πρόσβασης που έχει αποθηκευτεί στο { -brand-short-name }, σε όλες τις συγχρονισμένες σας συσκευές. Θα καταργηθούν επίσης οι τυχόν ειδοποιήσεις παραβιάσεων που εμφανίζονται εδώ. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
+       *[other] Αυτή η ενέργεια θα αφαιρέσει όλους τους κωδικούς πρόσβασης που έχουν αποθηκευτεί στο { -brand-short-name }, σε όλες τις συγχρονισμένες σας συσκευές. Θα καταργηθούν επίσης οι τυχόν ειδοποιήσεις παραβιάσεων που εμφανίζονται εδώ. Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
     }
 
 ##
