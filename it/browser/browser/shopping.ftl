@@ -109,7 +109,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Utilizziamo la tecnologia IA di { -fakespot-brand-full-name } per analizzare l’affidabilità delle recensioni sui prodotti. Questa analisi ti aiuterà a valutare solo la qualità delle recensioni, non quella del prodotto.
 shopping-analysis-explainer-grades-intro = Assegniamo alle recensioni di ogni prodotto un <strong>voto in lettere</strong> dalla A alla F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>valutazione rettificata</strong> si basa esclusivamente su recensioni che riteniamo affidabili.
-shopping-analysis-explainer-learn-more = Scopri ulteriori informazioni su <a data-l10n-name="review-quality-url">come { -fakespot-brand-full-name } determina la qualità delle recensioni</a>.
 shopping-analysis-explainer-learn-more2 = Scopri ulteriori informazioni su <a data-l10n-name="review-quality-url">come { -fakespot-brand-name } determina la qualità delle recensioni</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -183,7 +182,6 @@ shopping-onboarding-headline = Prova la nostra guida alle recensioni di prodotti
 shopping-onboarding-dynamic-subtitle-1 = Scopri quanto sono affidabili le recensioni dei prodotti su <b>{ $currentSite }</b> prima di acquistarli. Verifica recensioni, una funzione sperimentale di { -brand-product-name }, è integrata direttamente nel browser. Funziona anche su <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
 shopping-onboarding-single-subtitle = Scopri quanto sono affidabili le recensioni dei prodotti su <b>{ $currentSite }</b> prima di acquistarli. Verifica recensioni, una funzione sperimentale di { -brand-product-name }, è integrata direttamente nel browser.
 shopping-onboarding-body = Utilizzando la tecnologia di { -fakespot-brand-full-name }, ti aiutiamo a evitare recensioni di parte e non autentiche. Il nostro modello di intelligenza artificiale migliora costantemente per proteggerti mentre fai acquisti. <a data-l10n-name="learn_more">Ulteriori informazioni</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Selezionando “{ shopping-onboarding-opt-in-button }“ accetti l’<a data-l10n-name="privacy_policy">informativa sulla privacy</a> e le <a data-l10n-name="terms_of_use">condizioni di utilizzo del servizio</a> di { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Selezionando “{ shopping-onboarding-opt-in-button }“ accetti l’<a data-l10n-name="privacy_policy">informativa sulla privacy</a> e le <a data-l10n-name="terms_of_use">condizioni di utilizzo del servizio</a> di { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Sì, provala
 shopping-onboarding-not-now-button = Non adesso
