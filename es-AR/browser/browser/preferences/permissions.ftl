@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Los inicios de sesión para los siguientes sitios no se guardarán
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Excepciones - Contraseñas guardadas
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } no guardará contraseñas de los sitios listados aquí.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
