@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Le credentiales pro le sitos web sequente non essera salvate
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Exceptiones - Contrasignos salvate
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } non salvara contrasignos pro le sitos ci listate.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

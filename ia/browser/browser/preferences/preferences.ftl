@@ -794,9 +794,9 @@ sync-engine-creditcards =
     .label = Cartas de credito
     .tooltiptext = Nomines, numeros e datas de expiration (solo scriptorio)
     .accesskey = C
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Methodos de pagamento
-    .tooltiptext = Nomines, numeros de carta, e datas de expiration (solo pro scriptorio)
+    .tooltiptext = Nomines, numeros de carta, e datas de expiration
     .accesskey = n
 sync-engine-addons =
     .label = Additivos
@@ -844,12 +844,26 @@ pane-privacy-logins-and-passwords-header = Contos e contrasignos
 forms-ask-to-save-logins =
     .label = Proponer de salvar contos e contrasignos pro sitos web
     .accesskey = r
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Contrasignos
+    .searchkeywords = credentiales
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Demandar si salvar contrasignos
+    .accesskey = D
 forms-exceptions =
     .label = Exceptiones…
     .accesskey = x
 forms-generate-passwords =
     .label = Suggerer e generar contrasignos robuste
     .accesskey = u
+forms-suggest-passwords =
+    .label = Suggerer contrasignos complexe
+    .accesskey = S
 forms-breach-alerts =
     .label = Monstrar avisos pro contrasignos de sitos web violate
     .accesskey = v
@@ -898,6 +912,9 @@ primary-password-os-auth-dialog-message-win = Pro crear un contrasigno primari, 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Crear un contrasigno primari
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 

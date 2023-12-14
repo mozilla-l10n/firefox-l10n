@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Adresses salvate
 autofill-manage-addresses-list-header = Adresses
 autofill-manage-credit-cards-title = Cartas de credito salvate
 autofill-manage-credit-cards-list-header = Cartas de credito
+autofill-manage-payment-methods-title = Methodos de pagamento salvate
+autofill-manage-cards-list-header = Cartas
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Remover
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Parametros del adresse
 address-capture-learn-more-button =
     .label = Pro saper plus
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Adder un nove adresse
 address-capture-open-menu-button =
     .aria-label = Aperir le menu
 address-capture-edit-address-button =
     .aria-label = Modificar le adresse
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Adder un nove adresse
+autofill-add-address-title = Adder adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modificar le adresse
 autofill-address-name = Nomine
@@ -114,11 +118,15 @@ autofill-address-email = E-mail
 autofill-cancel-button = Cancellar
 autofill-save-button = Salvar
 autofill-country-warning-message = Le completion automatic de formularios es disponibile solmente pro certe paises.
-autofill-message-tooltip = Monstrar le message re le compilation automatic de formularios
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Adder un nove carta de credito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modificar le carta de credito
+autofill-message-tooltip = Monstrar le message re le compilation automatic de formularios
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Adder carta
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Rediger carta
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
