@@ -122,6 +122,7 @@ login-item-edit-button = עריכה
 about-logins-login-item-remove-button = הסרה
 login-item-origin-label = כתובת אתר
 login-item-tooltip-message = יש לוודא שערך זה תואם לכתובת המדויקת של האתר אליו מתחברים.
+about-logins-origin-tooltip2 = יש להכניס את הכתובת המלאה ולוודא שהיא תואמת בדיוק לאתר שבו מתחברים לחשבון.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = לא לשכוח לשמור את הססמה הנוכחית שלך עבור אתר זה. שינוי הססמה כאן אינו משנה אותה אצל { $webTitle }.
