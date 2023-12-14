@@ -261,6 +261,18 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [1] כן, להסיר את הססמה
        *[other] כן, להסיר את הססמאות
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] להסיר ססמה אחת?
+       *[other] Remove all { $count } passwords?
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] להסיר ססמה אחת מכל המכשירים?
+       *[other] Remove all { $count } passwords from all devices?
+    }
 
 ##
 
