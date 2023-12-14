@@ -166,6 +166,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Логиніңізді тү
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = сақталған логинді түзету
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = сақталған парольді түзету
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Пароліңізді қарау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -181,6 +184,9 @@ about-logins-export-password-os-auth-dialog-message-win = Логиндеріңі
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = сақталған логиндер және парольдерді экспорттау
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = сақталған парольдерді экспорттау
 
 ## Primary Password notification
 
@@ -196,6 +202,10 @@ confirmation-dialog-dismiss-button =
     .title = Бас тарту
 about-logins-confirm-remove-dialog-title = Бұл логинді өшіру керек пе?
 confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес болады.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Парольді өшіру керек пе?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес.
 about-logins-confirm-remove-dialog-confirm-button = Өшіру
 
 ## Variables
@@ -234,6 +244,19 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Бұл { -brand-short-name } ішіне сақтаған логинді сіздің тіркелгіңізге синхрондалған барлық құрылғылардан өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
         [one] Бұл { -brand-short-name } ішіне сақтаған логинді сіздің тіркелгіңізге синхрондалған барлық құрылғылардан өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
        *[other] Бұл { -brand-short-name } ішіне сақтаған барлық логиндерді сіздің тіркелгіңізге синхрондалған барлық құрылғылардан өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Иә, парольді өшіру
+        [one] Иә, парольді өшіру
+       *[other] Иә, парольдерді өшіру
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] { $count } парольді өшіру керек пе?
+       *[other] Барлық { $count } парольді өшіру керек пе?
     }
 
 ##

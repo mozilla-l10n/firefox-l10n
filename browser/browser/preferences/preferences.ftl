@@ -912,6 +912,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Автотолтыру
+autofill-addresses-checkbox = Адрестерді сақтау және толтыру
+    .accesskey = а
+autofill-saved-addresses-button = Сақталған адрестер
+    .accesskey = С
 
 ## Privacy Section - History
 
