@@ -276,6 +276,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Fjern { $count } passord fra alle enhetene?
        *[other] Fjern alle { $count } passord fra alle enhetene?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Dette vil fjerne passordet som er lagret i { -brand-short-name } på alle de synkroniserte enhetene dine. Dette vil også fjerne alle varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
+       *[other] Dette vil fjerne alle passord som er lagret i { -brand-short-name } på alle de synkroniserte enhetene dine. Dette vil også fjerne alle varsler om datalekkasjer som vises her. Du kan ikke angre denne handlingen.
+    }
 
 ##
 
