@@ -854,7 +854,7 @@ pane-privacy-passwords-header = Lösenord
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Fråga om att få spara lösenord
-    .accesskey = g
+    .accesskey = F
 forms-exceptions =
     .label = Undantag…
     .accesskey = d
@@ -884,10 +884,10 @@ forms-saved-logins =
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-usernames-and-passwords =
     .label = Fyll i användarnamn och lösenord automatiskt
-    .accesskey = y
+    .accesskey = F
 forms-saved-passwords =
     .label = Sparade lösenord
-    .accesskey = S
+    .accesskey = d
 forms-primary-pw-use =
     .label = Använd ett huvudlösenord
     .accesskey = A
@@ -927,23 +927,23 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 pane-privacy-autofill-header = Autofyll
 autofill-addresses-checkbox = Spara och fyll i adresser
-    .accesskey = p
+    .accesskey = a
 autofill-saved-addresses-button = Sparade adresser
     .accesskey = S
 autofill-payment-methods-checkbox-message = Spara och fyll betalningsmetoder
-    .accesskey = b
+    .accesskey = m
 autofill-payment-methods-checkbox-submessage = Inkluderar kredit- och betalkort
     .accesskey = n
 autofill-saved-payment-methods-button = Sparade betalningsmetoder
-    .accesskey = m
+    .accesskey = e
 autofill-reauth-checkbox =
     { PLATFORM() ->
-        [macos] Kräv macOS autentisering för att fylla och redigera betalningsmetoder.
-        [windows] Kräv Windows autentisering för att fylla och redigera betalningsmetoder.
-        [linux] Kräv Linux autentisering för att fylla och redigera betalningsmetoder.
+        [macos] Kräv macOS-autentisering för att fylla och redigera betalningsmetoder.
+        [windows] Kräv Windows-autentisering för att fylla och redigera betalningsmetoder.
+        [linux] Kräv Linux-autentisering för att fylla och redigera betalningsmetoder.
        *[other] Kräv autentisering för att fylla och redigera betalningsmetoder.
     }
-    .accesskey = a
+    .accesskey = v
 
 ## Privacy Section - History
 
