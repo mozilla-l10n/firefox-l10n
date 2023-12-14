@@ -243,7 +243,7 @@ device-migration-fxa-spotlight-older-device-header = Жан тыныштығы, 
 device-migration-fxa-spotlight-older-device-body = Тіркелгі маңызды ақпаратыңызды жаңартылған және сіз қосылған кез келген құрылғыда қорғалған түрде ұстайды.
 device-migration-fxa-spotlight-older-device-primary-button = Тіркелгі жасау
 device-migration-fxa-spotlight-getting-new-device-header-2 = Болашақта жаңа құрылғыңыз бола ма?
-device-migration-fxa-spotlight-getting-new-device-body = Құрылғыңыз келгенде жұмыс істеуге дайын болу үшін, деректеріңіздің сақтық көшірмесін қазір жасаңыз.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Жаңа құрылғыны пайдалануды бастаған кезде бетбелгілер, тарих және парольдерді өзіңізбен бірге алып келу үшін бірнеше қарапайым қадамдарды орындаңыз.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Деректерімнің сақтық көшірмесін қалай жасауға болады
 
 ## Set as Default PDF Reader Infobar
