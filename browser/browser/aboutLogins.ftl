@@ -269,6 +269,19 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] Remover { $count } senha?
        *[other] Remover todas as { $count } senhas?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Esta operação remove a senha salva no { -brand-short-name } e quaisquer alertas de vazamento de dados. Não pode ser desfeita.
+        [one] Esta operação remove a senha salva no { -brand-short-name } e quaisquer alertas de vazamento de dados. Não pode ser desfeita.
+       *[other] Esta operação remove as senhas salvas no { -brand-short-name } e quaisquer alertas de vazamento de dados. Não pode ser desfeita.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Remover { $count } senha de todos os dispositivos?
+       *[other] Remover todas as { $count } senhas de todos os dispositivos?
+    }
 
 ##
 

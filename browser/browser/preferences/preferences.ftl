@@ -794,6 +794,10 @@ sync-engine-creditcards =
     .label = Cartões de crédito
     .tooltiptext = Nomes, números e datas de expiração (computador apenas)
     .accesskey = C
+sync-engine-payment-methods2 =
+    .label = Métodos de pagamento
+    .tooltiptext = Nomes, números de cartões e datas de validade
+    .accesskey = n
 sync-engine-addons =
     .label = Extensões
     .tooltiptext = Extensões e temas para o Firefox no computador
@@ -843,18 +847,32 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Senhas
+    .searchkeywords = contas
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Perguntar se quer salvar senhas
+    .accesskey = P
 forms-exceptions =
     .label = Exceções…
     .accesskey = x
 forms-generate-passwords =
     .label = Sugerir e gerar senhas fortes
     .accesskey = u
+forms-suggest-passwords =
+    .label = Sugerir senhas fortes
+    .accesskey = S
 forms-breach-alerts =
     .label = Exibir alertas sobre senhas de sites vazados
     .accesskey = v
 forms-breach-alerts-learn-more-link = Saiba mais
 preferences-relay-integration-checkbox =
     .label = Sugerir máscaras de email do { -relay-brand-name } para proteger seu endereço de email
+preferences-relay-integration-checkbox2 =
+    .label = Sugerir máscaras de email do { -relay-brand-name } para proteger seu endereço de email
+    .accesskey = r
 relay-integration-learn-more-link = Saiba mais
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -863,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Contas salvas…
     .accesskey = s
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Preencher nomes de usuário e senhas automaticamente
+    .accesskey = P
+forms-saved-passwords =
+    .label = Senhas salvas
+    .accesskey = d
 forms-primary-pw-use =
     .label = Usar uma senha principal
     .accesskey = U
