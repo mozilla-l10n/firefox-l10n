@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Gespeicherte Adressen
 autofill-manage-addresses-list-header = Adressen
 autofill-manage-credit-cards-title = Gespeicherte Kreditkarten
 autofill-manage-credit-cards-list-header = Kreditkarten
+autofill-manage-payment-methods-title = Gespeicherte Zahlungsmethoden
+autofill-manage-cards-list-header = Karten
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Entfernen
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Adress-Einstellungen
 address-capture-learn-more-button =
     .label = Weitere Informationen
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Adresse hinzufügen
 address-capture-open-menu-button =
     .aria-label = Menü öffnen
 address-capture-edit-address-button =
     .aria-label = Adresse bearbeiten
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Adresse hinzufügen
+autofill-add-address-title = Adresse hinzufügen
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresse bearbeiten
 autofill-address-name = Name
@@ -114,11 +118,15 @@ autofill-address-email = E-Mail-Adresse
 autofill-cancel-button = Abbrechen
 autofill-save-button = Speichern
 autofill-country-warning-message = Das automatische Ausfüllen von Adressen ist derzeit nur für Adressen in einigen Ländern verfügbar.
-autofill-message-tooltip = Nachricht über automatisches Ausfüllen ansehen
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Neue Kreditkarte hinzufügen
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kreditkarte bearbeiten
+autofill-message-tooltip = Nachricht über automatisches Ausfüllen ansehen
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Karte hinzufügen
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Karte bearbeiten
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =

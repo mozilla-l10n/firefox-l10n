@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Zugangsdaten importiere
 about-logins-menu-menuitem-import-from-a-file = Zugangsdaten importieren aus Datei…
 about-logins-menu-menuitem-export-logins = Zugangsdaten exportieren…
 about-logins-menu-menuitem-remove-all-logins = Alle Zugangsdaten entfernen…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Alle Passwörter entfernen…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Einstellungen
@@ -114,11 +116,12 @@ about-logins-intro-import2 = Wenn Ihre Zugangsdaten außerhalb von { -brand-prod
 ## Login
 
 login-item-new-login-title = Neue Zugangsdaten hinzufügen
+# Header for adding a password
+about-logins-login-item-new-login-title = Passwort hinzufügen
 login-item-edit-button = Bearbeiten
 about-logins-login-item-remove-button = Entfernen
 login-item-origin-label = Adresse der Website
 login-item-tooltip-message = Stellen Sie sicher, dass dies genau mit der Adresse der Website übereinstimmt, auf der Sie sich anmelden.
-about-logins-origin-tooltip = Stellen Sie sicher, dass dies genau mit der Adresse der Website übereinstimmt, auf der Sie sich anmelden.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Stellen Sie sicher, dass Sie Ihr aktuelles Passwort für diese Website speichern. Das Ändern des Passworts hier ändert es nicht für { $webTitle }.
@@ -136,6 +139,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopieren
 login-item-copied-password-button-text = Kopiert
 login-item-save-changes-button = Änderungen speichern
+about-logins-login-item-save-changes-button = Speichern
 login-item-save-new-button = Speichern
 login-item-cancel-button = Abbrechen
 
