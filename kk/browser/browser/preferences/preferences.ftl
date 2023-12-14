@@ -794,6 +794,10 @@ sync-engine-creditcards =
     .label = Несиелік карталар
     .tooltiptext = Аттар, сандар және мерзімі аяқталу күндері (тек жұмыс үстелі)
     .accesskey = Н
+sync-engine-payment-methods2 =
+    .label = Төлем әдістері
+    .tooltiptext = Аттар, карталар нөмірлері және аяқталу мерзімдері
+    .accesskey = м
 sync-engine-addons =
     .label = Қосымшалар
     .tooltiptext = Firefox жұмыс үстелі үшін кеңейтулер және темалар
@@ -843,6 +847,10 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Парольдер
+    .searchkeywords = логиндер
 forms-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = р
