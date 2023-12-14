@@ -794,10 +794,10 @@ sync-engine-creditcards =
     .label = Karta krediti
     .tooltiptext = Emra, numra dhe data skadimi (vetëm për desktop)
     .accesskey = K
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Metoda pagesash
-    .tooltiptext = Emra, numra kartash dhe data skadimi (vetëm për desktop)
-    .accesskey = M
+    .tooltiptext = Emra, karta krediti dhe data skadimi
+    .accesskey = E
 sync-engine-addons =
     .label = Shtesa
     .tooltiptext = Zgjerime dhe tema për Firefox Desktop
@@ -844,11 +844,25 @@ pane-privacy-logins-and-passwords-header = Kredenciale Hyrjesh dhe Fjalëkalime
 forms-ask-to-save-logins =
     .label = Pyet të ruhen apo jo kredenciale hyrjesh dhe fjalëkalime për sajte
     .accesskey = P
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Fjalëkalime
+    .searchkeywords = kredenciale hyrjesh
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Pyet të ruhen fjalëkalimet a jo
+    .accesskey = P
 forms-exceptions =
     .label = Përjashtime…
     .accesskey = a
 forms-generate-passwords =
     .label = Sugjero dhe prodho fjalëkalime të fuqishëm
+    .accesskey = S
+forms-suggest-passwords =
+    .label = Sugjero fjalëkalime të fuqishëm
     .accesskey = S
 forms-breach-alerts =
     .label = Shfaq sinjalizime rreth fjalëkalimesh për sajte të cenuar
@@ -856,6 +870,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Mësoni më tepër
 preferences-relay-integration-checkbox =
     .label = Sugjero maska { -relay-brand-name } email-i, për të mbrojtur adresën tuaj email
+preferences-relay-integration-checkbox2 =
+    .label = Sugjero maska { -relay-brand-name } email-i, për të mbrojtur adresën tuaj email
+    .accesskey = S
 relay-integration-learn-more-link = Mësoni më tepër
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -864,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Kredenciale Hyrjeje të Ruajtura…
     .accesskey = K
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Plotëso automatikisht emra përdoruesish dhe fjalëkalime
+    .accesskey = P
+forms-saved-passwords =
+    .label = Fjalëkalime të ruajtur
+    .accesskey = r
 forms-primary-pw-use =
     .label = Përdorni një Fjalëkalim të Përgjithshëm
     .accesskey = P
@@ -898,6 +922,28 @@ primary-password-os-auth-dialog-message-win = Që të krijoni një Fjalëkalim t
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = të krijojë një Fjalëkalim të Përgjithshëm
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Vetëplotësime
+autofill-addresses-checkbox = Ruaj dhe vetëplotëso adresa
+    .accesskey = v
+autofill-saved-addresses-button = Adresa të ruajtura
+    .accesskey = A
+autofill-payment-methods-checkbox-message = Ruaj dhe plotëso metoda pagesash
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Përfshin karta krediti dhe debiti
+    .accesskey = P
+autofill-saved-payment-methods-button = Metoda pagesash të ruajtura
+    .accesskey = u
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Kërko mirëfilltësim macOS, për të plotësuar dhe përpunuar metoda pagimi.
+        [windows] Kërko mirëfilltësim Windows, për të plotësuar dhe përpunuar metoda pagimi.
+        [linux] Kërko mirëfilltësim Linux, për të plotësuar dhe përpunuar metoda pagimi.
+       *[other] Kërko mirëfilltësim, për të plotësuar dhe përpunuar metoda pagimi.
+    }
+    .accesskey = { "" }
 
 ## Privacy Section - History
 
