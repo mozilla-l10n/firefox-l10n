@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = פרטי הכניסה לאתרים הבאים לא יישמרו
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = חריגות - ססמאות שמורות
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } לא ישמור ססמאות לאתרים המפורטים כאן.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
