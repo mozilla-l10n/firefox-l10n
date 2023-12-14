@@ -121,6 +121,7 @@ login-item-edit-button = Түзету
 about-logins-login-item-remove-button = Өшіру
 login-item-origin-label = Веб-сайт адресі
 login-item-tooltip-message = Бұл сіз кірген веб-сайттың нақты адресіне сәйкес келетініне көз жеткізіңіз.
+about-logins-origin-tooltip2 = Толық адресті енгізіңіз және ол адрес жүйеге кіретін адресіне сәйкес келетініне көз жеткізіңіз.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Бұл сайт үшін ағымдағы пароліңізді сақтап тұрғаныңызға көз жеткізіңіз. Парольді осында өзгерту оны { $webTitle } сайтында өзгертпейді.
@@ -166,6 +167,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Логиніңізді тү
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = сақталған логинді түзету
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Пароліңізді түзету  үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = сақталған парольді түзету
@@ -184,6 +187,8 @@ about-logins-export-password-os-auth-dialog-message-win = Логиндеріңі
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = сақталған логиндер және парольдерді экспорттау
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Парольдеріңізді экспорттау үшін, Windows ішіне кірудің есептік жазба мәліметтерін енгізіңіз. Бұл тіркелгілеріңіздің қауіпсіздігін қорғауға көмектеседі.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = сақталған парольдерді экспорттау
@@ -257,6 +262,26 @@ about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
         [one] { $count } парольді өшіру керек пе?
        *[other] Барлық { $count } парольді өшіру керек пе?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Бұл { -brand-short-name } ішінде сақталған парольді және кез келген бұзу ескертулерін өшіреді. Бұл әрекетті болдырмау мүмкін емес.
+        [one] Бұл { -brand-short-name } ішінде сақталған парольдерді және кез келген бұзу ескертулерін өшіреді. Бұл әрекетті болдырмау мүмкін емес.
+       *[other] Бұл { -brand-short-name } ішінде сақталған парольдерді және кез келген бұзу ескертулерін өшіреді. Бұл әрекетті болдырмау мүмкін емес.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] { $count } парольді барлық құрылғылардан өшіру керек пе?
+       *[other] { $count } парольді барлық құрылғылардан өшіру керек пе?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Бұл сіздің барлық синхрондалған құрылғылараңызда { -brand-short-name } ішіне сақталған барлық парольдерді өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
+        [one] Бұл сіздің барлық синхрондалған құрылғылараңызда { -brand-short-name } ішіне сақталған барлық парольдерді өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
+       *[other] Бұл сіздің барлық синхрондалған құрылғылараңызда { -brand-short-name } ішіне сақталған барлық парольдерді өшіреді. Сонымен қатар, осы жерде көрсетілетін бұзушылық туралы ескертулерді өшіреді. Бұл әрекетті болдырмау мүмкін болмайды.
     }
 
 ##
