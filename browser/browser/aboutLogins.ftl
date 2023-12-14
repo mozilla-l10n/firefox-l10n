@@ -271,6 +271,12 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] ¿Eliminar { $count } contraseña?
        *[other] ¿Eliminar todas las { $count } contraseñas?
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] ¿Eliminar { $count } contraseña de todos los dispositivos?
+       *[other] ¿Eliminar todas las { $count } contraseñas de todos los dispositivos?
+    }
 
 ##
 

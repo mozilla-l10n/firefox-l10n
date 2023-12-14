@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Informe enviado. ¡Gracias!
 confirmation-hint-login-removed = ¡Inicio de sesión eliminado!
+confirmation-hint-password-removed = ¡Contraseña eliminada!
 confirmation-hint-page-bookmarked = Guardado en Marcadores
 confirmation-hint-password-saved = ¡Contraseña guardada!
 confirmation-hint-password-created = Contraseña guardada
