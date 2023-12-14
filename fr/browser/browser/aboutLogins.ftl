@@ -259,6 +259,12 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [one] Oui, supprimer le mot de passe
        *[other] Oui, supprimer les mots de passe
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Supprimer un mot de passe ?
+       *[other] Supprimer les { $count } mots de passe ?
+    }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
@@ -454,6 +460,11 @@ about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nouveau mot de passe ajouté</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nouveaux mots de passe ajoutés</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">entrée existante mise à jour</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">entrées existantes mises à jour</div>
     }
 about-logins-import-report-no-change2 =
     { $count ->

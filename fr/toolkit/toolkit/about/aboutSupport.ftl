@@ -195,6 +195,7 @@ media-codec-support-lack-of-extension = Installer une extension
 ## https://w3c.github.io/encrypted-media/
 
 media-content-decryption-modules-title = Informations sur les modules de déchiffrement de contenu
+media-key-system-name = Nom du système de clé
 
 ##
 
