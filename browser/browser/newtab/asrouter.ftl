@@ -258,7 +258,7 @@ device-migration-fxa-spotlight-older-device-header = Tawelwch meddwl gan { -bran
 device-migration-fxa-spotlight-older-device-body = Mae cyfrif yn cadw eich manylion pwysig wedi ei diweddaru ac yn diogelu ar unrhyw ddyfais rydych chi'n ei chysylltu.
 device-migration-fxa-spotlight-older-device-primary-button = Crëwch gyfrif
 device-migration-fxa-spotlight-getting-new-device-header-2 = Dyfais newydd yn eich dyfodol?
-device-migration-fxa-spotlight-getting-new-device-body = Gwnewch gopi wrth gefn o'ch data nawr, fel eich bod chi'n barod i fynd pan fydd eich dyfais yn cyrraedd.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Dilynwch ychydig o gamau syml i ddod â'ch nodau tudalen, hanes, a chyfrineiriau gyda chi pan fyddwch chi'n dechrau ar ddyfais newydd.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Sut i wneud copi wrth gefn o fy nata
 
 ## Set as Default PDF Reader Infobar

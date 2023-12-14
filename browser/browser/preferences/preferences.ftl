@@ -810,9 +810,9 @@ sync-engine-creditcards =
     .label = Cardiau Credyd
     .tooltiptext = Enwau, rhifau a dyddiadau dod i ben (bwrdd gwaith yn unig)
     .accesskey = r
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Dulliau talu
-    .tooltiptext = Enwau, rhifau cardiau a dyddiadau dod i ben (bwrdd gwaith yn unig)
+    .tooltiptext = Enwau, rhifau cardiau a dyddiau dod i ben
     .accesskey = D
 sync-engine-addons =
     .label = Ychwanegion
@@ -860,11 +860,25 @@ pane-privacy-logins-and-passwords-header = Mewngofnodion a Chyfrineiriau
 forms-ask-to-save-logins =
     .label = Gofyn i gadw mewngofnodion a chyfrineiriau ar gyfer gwefannau
     .accesskey = G
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Cyfrineiriau
+    .searchkeywords = mewngofnodion
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Gofyn i gadw cyfrineiriau
+    .accesskey = G
 forms-exceptions =
     .label = Eithriadau…
     .accesskey = i
 forms-generate-passwords =
     .label = Awgrymu a chynhyrchu cyfrineiriau cryf
+    .accesskey = A
+forms-suggest-passwords =
+    .label = Awgrymu cyfrineiriau cryf
     .accesskey = A
 forms-breach-alerts =
     .label = Dangos rhybuddion am gyfrineiriau ar gyfer gwefannau sydd wedi' cael tor-data
@@ -872,6 +886,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Darllen rhagor
 preferences-relay-integration-checkbox =
     .label = Awgrymu arallewnau e-byst { -relay-brand-name } i ddiogelu eich cyfeiriad e-bost
+preferences-relay-integration-checkbox2 =
+    .label = Awgrymu arallenwau e-byst { -relay-brand-name } i ddiogelu eich cyfeiriad e-bost
+    .accesskey = w
 relay-integration-learn-more-link = Darllen rhagor
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -880,6 +897,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Mewngofnodion wedi eu Cadw…
     .accesskey = M
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Llenw enwau defnyddwyr a chyfrineiriau'n awtomatig
+    .accesskey = L
+forms-saved-passwords =
+    .label = Cyfrineiriau wedi'u cadw
+    .accesskey = C
 forms-primary-pw-use =
     .label = Defnyddio Prif Gyfrinair
     .accesskey = P
@@ -914,6 +938,28 @@ primary-password-os-auth-dialog-message-win = I greu Prif Gyfrinair, nodwch fany
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = creu Prif Gyfrinair
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Awtolanw
+autofill-addresses-checkbox = Cadw a llenwi cyfeiriadau
+    .accesskey = l
+autofill-saved-addresses-button = Cyfeiriadau wedi'u cadw
+    .accesskey = y
+autofill-payment-methods-checkbox-message = Cadw a llenwi dulliau talu
+    .accesskey = d
+autofill-payment-methods-checkbox-submessage = Yn cynnwys cardiau credyd a debyd
+    .accesskey = Y
+autofill-saved-payment-methods-button = Dulliau talu wedi'u cadw
+    .accesskey = D
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Angen dilysu macOSi lenwi a golygu dulliau talu.
+        [windows] Angen dilysu Windows i lenwi a golygu dulliau talu.
+        [linux] Angen dilysu Linux i lenwi a golygu dulliau talu.
+       *[other] Angen dilysu i lenwi a golygu dulliau talu.
+    }
+    .accesskey = d
 
 ## Privacy Section - History
 
