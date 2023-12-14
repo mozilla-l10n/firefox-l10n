@@ -887,7 +887,7 @@ forms-fill-usernames-and-passwords =
     .accesskey = P
 forms-saved-passwords =
     .label = Senhas salvas
-    .accesskey = d
+    .accesskey = h
 forms-primary-pw-use =
     .label = Usar uma senha principal
     .accesskey = U
@@ -930,6 +930,20 @@ autofill-addresses-checkbox = Salvar e preencher endereços
     .accesskey = n
 autofill-saved-addresses-button = Endereços salvos
     .accesskey = E
+autofill-payment-methods-checkbox-message = Salvar e preencher métodos de pagamento
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Incluir cartões de crédito e débito
+    .accesskey = I
+autofill-saved-payment-methods-button = Métodos de pagamento salvos
+    .accesskey = v
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Exigir autenticação do macOS para preencher e editar métodos de pagamento.
+        [windows] Exigir autenticação do Windows para preencher e editar métodos de pagamento.
+        [linux] Exigir autenticação do Linux para preencher e editar métodos de pagamento.
+       *[other] Exigir autenticação para preencher e editar métodos de pagamento.
+    }
+    .accesskey = x
 
 ## Privacy Section - History
 
