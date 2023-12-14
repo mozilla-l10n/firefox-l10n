@@ -851,18 +851,28 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Парольдер
     .searchkeywords = логиндер
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Парольдерді сақтауды сұрау
+    .accesskey = а
 forms-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = р
 forms-generate-passwords =
     .label = Қатаң парольдерді ұсыну және генерациялау
     .accesskey = ы
+forms-suggest-passwords =
+    .label = Мықты парольдерді ұсыну…
+    .accesskey = с
 forms-breach-alerts =
     .label = Бұзылған веб-сайттардың парольдері туралы ескертулерді көрсету
     .accesskey = б
 forms-breach-alerts-learn-more-link = Көбірек білу
 preferences-relay-integration-checkbox =
     .label = Электрондық пошта адресіңізді қорғау үшін { -relay-brand-name } эл. пошта маскаларын ұсыну
+preferences-relay-integration-checkbox2 =
+    .label = Электрондық пошта адресіңізді қорғау үшін { -relay-brand-name } эл. пошта маскаларын ұсыну
+    .accesskey = р
 relay-integration-learn-more-link = Көбірек білу
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
