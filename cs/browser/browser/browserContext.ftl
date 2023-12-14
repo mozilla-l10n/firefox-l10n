@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Použit uložené uživatelské jméno
     .accesskey = u
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Použít uložené heslo
     .accesskey = u
@@ -304,6 +305,9 @@ main-context-menu-suggest-strong-password =
     .label = Navrhnout bezpečně vygenerované heslo…
     .accesskey = g
 main-context-menu-manage-logins2 =
+    .label = Správa přihlašovacích údajů
+    .accesskey = S
+main-context-menu-manage-passwords =
     .label = Správa přihlašovacích údajů
     .accesskey = S
 main-context-menu-keyword =

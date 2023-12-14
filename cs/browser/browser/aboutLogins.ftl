@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importovat z jiného pr
 about-logins-menu-menuitem-import-from-a-file = Importovat ze souboru
 about-logins-menu-menuitem-export-logins = Exportovat přihlašovací údaje
 about-logins-menu-menuitem-remove-all-logins = Smazat všechny přihlašovací údaje
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Odstranit všechna hesla…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Možnosti
@@ -143,11 +145,12 @@ about-logins-intro-import2 =
 ## Login
 
 login-item-new-login-title = Nové přihlašovací údaje
+# Header for adding a password
+about-logins-login-item-new-login-title = Přidání hesla
 login-item-edit-button = Upravit
 about-logins-login-item-remove-button = Odstranit
 login-item-origin-label = Adresa serveru
 login-item-tooltip-message = Zkontrolujte, že toto pole přesně odpovídá adrese serveru, kde se přihlašujete.
-about-logins-origin-tooltip = Zkontrolujte, že toto pole přesně odpovídá adrese serveru, kde se přihlašujete.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Ujistěte se, že pro tuto stránku ukládáte svoje aktuální heslo. Změna hesla zde nezmění heslo na stránce { $webTitle }.
@@ -165,6 +168,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopírovat
 login-item-copied-password-button-text = Zkopírováno!
 login-item-save-changes-button = Uložit změny
+about-logins-login-item-save-changes-button = Uložit
 login-item-save-new-button = Uložit
 login-item-cancel-button = Zrušit
 
@@ -192,6 +196,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Pro úpravu přihlašovací
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = upravit uložené přihlašovací údaje
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = upravit uložené heslo
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pro zobrazení hesla prosím zadejte své přihlašovací údaje k systému Windows. Toto opatření pomáhá v zabezpečení vašich účtů.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -207,6 +214,9 @@ about-logins-export-password-os-auth-dialog-message-win = Pro export přihlašov
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportovat uložené přihlašovací údaje a hesla
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportovat uložená hesla
 
 ## Primary Password notification
 
@@ -222,6 +232,8 @@ confirmation-dialog-dismiss-button =
     .title = Zrušit
 about-logins-confirm-remove-dialog-title = Odstranit tyto přihlašovací údaje?
 confirm-delete-dialog-message = Tuto akci nelze vzít zpět.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Odstranit heslo?
 about-logins-confirm-remove-dialog-confirm-button = Odstranit
 
 ## Variables
@@ -261,6 +273,22 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { -brand-short-name.case-status ->
         [with-cases] Tímto odstraníte přihlašovací údaje, které jste uložili do { -brand-short-name(case: "gen") } na všech zařízeních synchronizovaných s vaším účtem. Tím se také odstraní upozornění na úniky, která se zde zobrazují. Tuto akci nebude možné vrátit zpět.
        *[no-cases] Tímto odstraníte přihlašovací údaje, které jste uložili do aplikace { -brand-short-name } na všech zařízeních synchronizovaných s vaším účtem. Tím se také odstraní upozornění na úniky, která se zde zobrazují. Tuto akci nebude možné vrátit zpět.
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Odstranit { $count } heslo?
+        [few] Odstranit { $count } hesla?
+        [many] Odstranit { $count } hesel?
+       *[other] Odstranit { $count } hesel?
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Odebrat { $count } heslo ze všech zařízení?
+        [few] Odebrat všechna { $count } hesla ze všech zařízení?
+        [many] Odebrat všech { $count } hesel ze všech zařízení?
+       *[other] Odebrat všech { $count } hesel ze všech zařízení?
     }
 
 ##
