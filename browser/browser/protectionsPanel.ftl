@@ -28,14 +28,6 @@ protections-panel-etp-off-header = La protezione antitracciamento avanzata è DI
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Protezione antitracciamento avanzata
-    .description = Attiva per questo sito
-    .aria-label = Disattiva protezioni per { $host }
-protections-panel-etp-off-toggle =
-    .label = Protezione antitracciamento avanzata
-    .description = Disattivata per questo sito
-    .aria-label = Attiva protezioni per { $host }
 protections-panel-etp-toggle-on =
     .label = Protezione antitracciamento avanzata
     .description = Attiva per questo sito
