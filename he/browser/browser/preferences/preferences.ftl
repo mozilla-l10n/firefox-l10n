@@ -797,7 +797,7 @@ sync-engine-creditcards =
 sync-engine-payment-methods2 =
     .label = אמצעי תשלום
     .tooltiptext = שמות, כרטיסי מספרים ותאריכי תפוגה
-    .accesskey = { "" }
+    .accesskey = ל
 sync-engine-addons =
     .label = תוספות
     .tooltiptext = הרחבות וערכות נושא עבור Firefox שולחני
@@ -872,7 +872,7 @@ preferences-relay-integration-checkbox =
     .label = הצעת מסיכות דוא״ל של { -relay-brand-name } כדי להגן על כתובת הדוא״ל שלך
 preferences-relay-integration-checkbox2 =
     .label = הצעת מסיכות דוא״ל של { -relay-brand-name } כדי להגן על כתובת הדוא״ל שלך
-    .accesskey = { "" }
+    .accesskey = ת
 relay-integration-learn-more-link = מידע נוסף
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
