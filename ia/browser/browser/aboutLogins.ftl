@@ -252,6 +252,12 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Isto removera le credentiales que tu ha salvate pro { -brand-short-name } sur tote le apparatos synchronisate a tu conto. Isto removera etiam le alertas de violation que appare hic. Tu non potera disfacer iste action.
        *[other] Isto removera le credentiales que tu ha salvate pro { -brand-short-name } sur tote le apparatos synchronisate a tu conto. Isto removera etiam le alertas de violation que appare hic. Tu non potera disfacer iste action.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Si, remover le contrasigno
+       *[other] Si, remover le contrasignos
+    }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
