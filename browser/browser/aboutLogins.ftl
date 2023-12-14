@@ -234,6 +234,8 @@ about-logins-confirm-remove-dialog-title = Odstranit tyto přihlašovací údaje
 confirm-delete-dialog-message = Tuto akci nelze vzít zpět.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Odstranit heslo?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Tuto akci nelze vrátit zpět.
 about-logins-confirm-remove-dialog-confirm-button = Odstranit
 
 ## Variables

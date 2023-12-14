@@ -9,6 +9,7 @@ autofill-manage-addresses-title = Uložené adresy
 autofill-manage-addresses-list-header = Adresy
 autofill-manage-credit-cards-title = Uložené platební karty
 autofill-manage-credit-cards-list-header = Platební karty
+autofill-manage-cards-list-header = Karty
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Odstranit
@@ -41,12 +42,14 @@ address-capture-manage-address-button =
     .label = Nastavení adresy
 address-capture-learn-more-button =
     .label = Dozvědět se více
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Přidat novou adresu
 address-capture-open-menu-button =
     .aria-label = Otevřít nabídku
 address-capture-edit-address-button =
     .aria-label = Upravit adresu
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Přidat novou adresu
+autofill-add-address-title = Přidat adresu
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Upravit adresu
 autofill-address-name = Název
@@ -118,11 +121,15 @@ autofill-address-email = E-mailová adresa
 autofill-cancel-button = Zrušit
 autofill-save-button = Uložit
 autofill-country-warning-message = Automatické vyplňování formulářů nyní funguje jenom pro některé země.
-autofill-message-tooltip = Zobrazit zprávu o automatickém vyplňování
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Přidat novou platební kartu
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Upravit informace o platební kartě
+autofill-message-tooltip = Zobrazit zprávu o automatickém vyplňování
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Přidat kartu
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Upravit kartu
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
