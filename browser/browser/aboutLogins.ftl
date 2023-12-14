@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Mewnforio o Borwr Arall
 about-logins-menu-menuitem-import-from-a-file = Mewnforio o Ffeil…
 about-logins-menu-menuitem-export-logins = Allforio Mewngofnodion…
 about-logins-menu-menuitem-remove-all-logins = Tynnu Pob Mewngofnod…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Tynnu Pob Cyfrinair
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opsiynau
@@ -130,11 +132,13 @@ about-logins-intro-import2 = Os yw eich mewngofnodion wedi'u cadw y tu allan i {
 ## Login
 
 login-item-new-login-title = Creu Mewngofnod Newydd
+# Header for adding a password
+about-logins-login-item-new-login-title = Ychwanegu cyfrinair
 login-item-edit-button = Golygu
 about-logins-login-item-remove-button = Tynnu
 login-item-origin-label = Cyfeiriad Gwefan
 login-item-tooltip-message = Gwnewch yn siŵr fod hyn yn cyfateb i union gyfeiriad y wefan lle rydych yn mewngofnodi.
-about-logins-origin-tooltip = Gwnewch yn siŵr fod hwn yn cyfateb i union gyfeiriad y wefan lle rydych yn mewngofnodi.
+about-logins-origin-tooltip2 = Rhowch y cyfeiriad llawn a gwnewch yn siŵr ei fod yn cyfateb yn union i ble rydych chi'n mewngofnodi.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Gwnewch yn siŵr eich bod yn cadw'ch cyfrinair cyfredol ar gyfer y wefan hon. Nid yw newid y cyfrinair yma yn ei newid yn { $webTitle }.
@@ -152,6 +156,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Copïo
 login-item-copied-password-button-text = Copïwyd
 login-item-save-changes-button = Cadw Newidiadau
+about-logins-login-item-save-changes-button = Cadw
 login-item-save-new-button = Cadw
 login-item-cancel-button = Diddymu
 
@@ -179,6 +184,11 @@ about-logins-edit-login-os-auth-dialog-message-win = I olygu eich mewngofnod, rh
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = golygu'r mewngofnod sydd wedi'i gadw
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = I olygu'ch cyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i ddiogelu diogelwch eich cyfrifon.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = golygu'r cyfrinair sydd wedi'i gadw
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = I weld eich cyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -194,6 +204,11 @@ about-logins-export-password-os-auth-dialog-message-win = I allforio'ch mewngofn
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = allforio mewngofnodion a chyfrineiriau wedi'u cadw
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = I allforio eich cyfrineiriau, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i ddiogelu diogelwch eich cyfrifon.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = allforio cyfrineiriau sydd wedi'u cadw
 
 ## Primary Password notification
 
@@ -209,6 +224,10 @@ confirmation-dialog-dismiss-button =
     .title = Diddymu
 about-logins-confirm-remove-dialog-title = Tynnu'r mewngofnod?
 confirm-delete-dialog-message = Nid oes modd dadwneud y weithred hon.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Tynnu cyfrinair?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Nid oes modd i chi ddadwneud y weithred hon.
 about-logins-confirm-remove-dialog-confirm-button = Tynnu
 
 ## Variables
@@ -281,6 +300,27 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [few] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
         [many] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
        *[other] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Iawn, tynnu'r cyfrinair
+        [zero] Iawn, tynnu'r cyfrineiriau
+        [one] Iawn, tynnu'r cyfrinair
+        [two] Iawn, tynnu'r cyfrineiriau
+        [few] Iawn, tynnu'r cyfrineiriau
+        [many] Iawn, tynnu'r cyfrineiriau
+       *[other] Iawn, tynnu'r cyfrineiriau
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [zero] Tynnu { $count } cyfrineiriau
+        [one] Tynnu { $count } cyfrinair
+        [two] Tynnu { $count } gyfrinair
+        [few] Tynnu { $count } cyfrinair
+        [many] Tynnu { $count } chyfrinair
+       *[other] Tynnu { $count } cyfrinair
     }
 
 ##
