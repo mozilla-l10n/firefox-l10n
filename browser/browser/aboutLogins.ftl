@@ -268,6 +268,12 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] { $count } ਪਾਸਵਰਡ ਹਟਾਉਣਾ ਹੈ?
        *[other] ਸਾਰੇ { $count } ਪਾਸਵਰਡ ਹਟਾਉਣੇ ਹਨ?
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੋਂ { $count } ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+       *[other] ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਤੋਂ { $count } ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+    }
 
 ##
 
