@@ -794,10 +794,6 @@ sync-engine-creditcards =
     .label = Несиелік карталар
     .tooltiptext = Аттар, сандар және мерзімі аяқталу күндері (тек жұмыс үстелі)
     .accesskey = Н
-sync-engine-payment-methods =
-    .label = Төлем әдістері
-    .tooltiptext = Аттар, карталар нөмірлері және мерзімдері (тек жұмыс үстел)
-    .accesskey = м
 sync-engine-addons =
     .label = Қосымшалар
     .tooltiptext = Firefox жұмыс үстелі үшін кеңейтулер және темалар
@@ -844,6 +840,9 @@ pane-privacy-logins-and-passwords-header = Логиндер және парол�
 forms-ask-to-save-logins =
     .label = Веб-сайттар үшін логиндер мен парольдерді сақтауды сұрау
     .accesskey = с
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = р
@@ -864,6 +863,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Сақталған логиндер…
     .accesskey = л
+forms-saved-passwords =
+    .label = Сақталған парольдер
+    .accesskey = д
 forms-primary-pw-use =
     .label = Басты парольді қолдану
     .accesskey = ы
@@ -898,6 +900,10 @@ primary-password-os-auth-dialog-message-win = Басты парольді жас
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = басты парольді жасау
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Автотолтыру
 
 ## Privacy Section - History
 

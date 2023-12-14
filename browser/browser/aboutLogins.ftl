@@ -115,6 +115,8 @@ about-logins-intro-import2 = Егер сіздің логиндеріңіз { -b
 ## Login
 
 login-item-new-login-title = Жаңа логинді жасау
+# Header for adding a password
+about-logins-login-item-new-login-title = Парольді қосу
 login-item-edit-button = Түзету
 about-logins-login-item-remove-button = Өшіру
 login-item-origin-label = Веб-сайт адресі
@@ -136,6 +138,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Көшіріп алу
 login-item-copied-password-button-text = Көшірілді!
 login-item-save-changes-button = Өзгерістерді сақтау
+about-logins-login-item-save-changes-button = Сақтау
 login-item-save-new-button = Сақтау
 login-item-cancel-button = Бас тарту
 
