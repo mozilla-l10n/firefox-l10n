@@ -272,15 +272,22 @@ about-logins-confirm-remove-all-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
-        [1] Esta operação remove a senha salva no { -brand-short-name } e quaisquer alertas de vazamento de dados. Não pode ser desfeita.
-        [one] Esta operação remove a senha salva no { -brand-short-name } e quaisquer alertas de vazamento de dados. Não pode ser desfeita.
-       *[other] Esta operação remove as senhas salvas no { -brand-short-name } e quaisquer alertas de vazamento de dados. Não pode ser desfeita.
+        [1] Esta operação remove a senha salva no { -brand-short-name } e quaisquer alertas de vazamento de dados. Esta ação não pode ser desfeita.
+        [one] Esta operação remove a senha salva no { -brand-short-name } e quaisquer alertas de vazamento de dados. Esta ação não pode ser desfeita.
+       *[other] Esta operação remove as senhas salvas no { -brand-short-name } e quaisquer alertas de vazamento de dados. Esta ação não pode ser desfeita.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Remover { $count } senha de todos os dispositivos?
        *[other] Remover todas as { $count } senhas de todos os dispositivos?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Esta operação remove a senha salva no { -brand-short-name } em todos os seus dispositivos sincronizados. Também remove quaisquer alertas de vazamento de dados presentes aqui. Esta ação não pode ser desfeita.
+        [one] Esta operação remove a senha salva no { -brand-short-name } em todos os seus dispositivos sincronizados. Também remove quaisquer alertas de vazamento de dados presentes aqui. Esta ação não pode ser desfeita.
+       *[other] Esta operação remove todas as senhas salvas no { -brand-short-name } em todos os seus dispositivos sincronizados. Também remove quaisquer alertas de vazamento de dados presentes aqui. Esta ação não pode ser desfeita.
     }
 
 ##
