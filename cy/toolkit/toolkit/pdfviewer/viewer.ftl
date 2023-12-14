@@ -320,6 +320,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Dileu testun
 pdfjs-editor-remove-stamp-button =
     .title = Dileu delwedd
+pdfjs-editor-remove-highlight-button =
+    .title = Tynnu amlygiad
 
 ##
 
@@ -369,3 +371,22 @@ pdfjs-editor-resizer-label-bottom-right = Y gornel dde isaf — newid maint
 pdfjs-editor-resizer-label-bottom-middle = Canol gwaelod — newid maint
 pdfjs-editor-resizer-label-bottom-left = Y gornel chwith isaf — newid maint
 pdfjs-editor-resizer-label-middle-left = Chwith canol — newid maint
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Lliw amlygu
+pdfjs-editor-colorpicker-button =
+    .title = Newid lliw
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Dewisiadau lliw
+pdfjs-editor-colorpicker-yellow =
+    .title = Melyn
+pdfjs-editor-colorpicker-green =
+    .title = Gwyrdd
+pdfjs-editor-colorpicker-blue =
+    .title = Glas
+pdfjs-editor-colorpicker-pink =
+    .title = Pinc
+pdfjs-editor-colorpicker-red =
+    .title = Coch

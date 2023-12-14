@@ -187,6 +187,20 @@ media-codec-support-unsupported = Heb eu Cynnal
 media-codec-support-error = Nid yw manylion cymorth codec ar gael. Ceisiwch eto ar ôl chwarae ffeil cyfryngau.
 media-codec-support-lack-of-extension = Gosod estyniad
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Gwybodaeth Modiwlau Dadgryptio Cynnwys
+media-key-system-name = Enw System Allwedd
+media-video-robustness = Cadernid Fideo
+media-audio-robustness = Cadernid Sain
+media-cdm-capabilities = Galluoedd
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Cychwyn Clir (Clear Lead)
+
 ##
 
 intl-title = Rhyngwladoli a Lleoleiddio
