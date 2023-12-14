@@ -889,6 +889,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Skłaźone pśizjawjenja…
     .accesskey = S
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Wužywaŕske mjenja a gronidła awtomatiski wupołniś
+    .accesskey = u
 forms-saved-passwords =
     .label = Skłaźone gronidła
     .accesskey = k
@@ -934,6 +938,8 @@ autofill-addresses-checkbox = Adrese składowaś a wupołniś
     .accesskey = d
 autofill-saved-addresses-button = Skłaźone adrese
     .accesskey = S
+autofill-payment-methods-checkbox-message = Płaśeńske metody składowaś a wupołniś
+    .accesskey = m
 
 ## Privacy Section - History
 

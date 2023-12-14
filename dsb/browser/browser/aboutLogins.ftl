@@ -295,6 +295,14 @@ about-logins-confirm-remove-all-dialog-title2 =
         [few] { $count } gronidła wótwónoźeś?
        *[other] { $count } gronidłow wótwónoźeś?
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] { $count } gronidło ze wšych rědow wótwónoźeś?
+        [two] { $count } gronidle ze wšych rědow wótwónoźeś?
+        [few] { $count } gronidła ze wšych rědow wótwónoźeś?
+       *[other] { $count } gronidłow ze wšych rědow wótwónoźeś?
+    }
 
 ##
 
