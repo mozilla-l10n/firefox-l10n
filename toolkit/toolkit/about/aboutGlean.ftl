@@ -53,6 +53,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (peidiwch â chyflwyno unrhyw pingiau)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Yn y maes blaenorol sicrhewch fod tag dadfygio cofiadwy fel y gallwch adnabod eich pingiau'n ddiweddarach.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Gosodwch dag dadfygio cofiadwy <span>(20 nod neu lai, alffaniwmerig a - yn unig)</span> er mwyn i chi allu adnabod eich pings yn nes ymlaen.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =

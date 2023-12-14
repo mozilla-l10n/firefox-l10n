@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Cychwyn y Modd Dadfygio
 about-webrtc-debug-mode-on-state-label = Atal y Modd Dadfygio
 about-webrtc-enable-logging-label = Galluogi Rhagosodiad Cofnod WebRTC
 about-webrtc-stats-heading = Ystadegau'r Sesiwn
+about-webrtc-peerconnections-section-heading = Ystadegau RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Dangos Ystadegau RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Cuddio Ystadegau RTCPeerConnection
 about-webrtc-stats-clear = Clirio Hanes
 about-webrtc-log-heading = Cofnod Cysylltu
 about-webrtc-log-clear = Clirio'r Cofnod
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Wedi'i Ddarparu
 about-webrtc-configuration-element-not-provided = Heb ei Ddarparu
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Dewisiadau WebRTC Gosodedig y Defnyddiwr
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Ffurfweddiad WebRTC wedi'i Addasu gan Ddefnyddiwr
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Dangos Ffurfweddiad Defnyddiwr Wedi'i Addasu
+about-webrtc-user-modified-configuration-hide-msg = Cuddio Ffurfweddiad Defnyddiwr Wedi'i Addasu
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Amcangyfrif Lled Band
 # The ID of the MediaStreamTrack
@@ -229,8 +243,6 @@ about-webrtc-aec-logging-off-state-msg = mae'r ffeiliau cofnod y cipio yn: { $pa
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Cadwyd y dudalen i: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Mae modd canfod y cofnod olrhain yn: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Modd dadfygio'n weithredol, cofnod olrhain yn { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -330,9 +342,6 @@ about-webrtc-hide-msg-sdp = Cuddio SDP
 about-webrtc-media-context-show-msg = Dangos Cyd-destun Cyfryngau
 about-webrtc-media-context-hide-msg = Cuddio Cyd-destun Cyfryngau
 about-webrtc-media-context-heading = Cyd-destun Cyfryngau
-
-##
-
 
 ##
 

@@ -30,7 +30,7 @@ about-logins-menu-menuitem-import-from-a-file = Mewnforio o Ffeil…
 about-logins-menu-menuitem-export-logins = Allforio Mewngofnodion…
 about-logins-menu-menuitem-remove-all-logins = Tynnu Pob Mewngofnod…
 # Item that appears when the user clicks the ⋯  menu
-about-logins-menu-menuitem-remove-all-logins2 = Tynnu Pob Cyfrinair
+about-logins-menu-menuitem-remove-all-logins2 = Tynnu Pob Cyfrinair…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opsiynau
@@ -327,7 +327,7 @@ about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
         [1] Bydd hyn yn dileu'r cyfrinair sydd wedi'i gadw i { -brand-short-name } ac unrhyw rybuddion tor-data. Nid oes moddi chi ddadwneud y weithred hon.
         [zero] Bydd hyn yn dileu'r cyfrineiriau sydd wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
-        [one] { "" }
+        [one] Bydd hyn yn dileu'r cyfrinair sydd wedi'i gadw i { -brand-short-name } ac unrhyw rybuddion tor-data. Nid oes moddi chi ddadwneud y weithred hon.
         [two] Bydd hyn yn dileu'r cyfrineiriau sydd wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
         [few] Bydd hyn yn dileu'r cyfrineiriau sydd wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
         [many] Bydd hyn yn dileu'r cyfrineiriau sydd wedi'u cadw i { -brand-short-name } ac unrhyw rybuddion tor-data.  Nid oes moddi chi ddadwneud y weithred hon.
