@@ -300,10 +300,10 @@ about-logins-confirm-remove-all-dialog-title2 =
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
         [1] To hesło, kotrež je so w { -brand-short-name } składowało a warnowanja wo datowych dźěrach wotstroni.
-        [one] To $count hesło, kotrež je so w { -brand-short-name } składowało a warnowanja wo datowych dźěrach wotstroni.
-        [two] To $count hesle, kotrejž stej so w { -brand-short-name } składowałoj a warnowanja wo datowych dźěrach wotstroni.
-        [few] To $count hesła, kotrež su so w { -brand-short-name } składowali a warnowanja wo datowych dźěrach wotstroni.
-       *[other] To $count hesłow, kotrež je so w { -brand-short-name } składowało a warnowanja wo datowych dźěrach wotstroni.
+        [one] To { $count } hesło, kotrež je so w { -brand-short-name } składowało a warnowanja wo datowych dźěrach wotstroni.
+        [two] To { $count } hesle, kotrejž stej so w { -brand-short-name } składowałoj a warnowanja wo datowych dźěrach wotstroni.
+        [few] To { $count } hesła, kotrež su so w { -brand-short-name } składowali a warnowanja wo datowych dźěrach wotstroni.
+       *[other] To { $count } hesłow, kotrež je so w { -brand-short-name } składowało a warnowanja wo datowych dźěrach wotstroni.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
