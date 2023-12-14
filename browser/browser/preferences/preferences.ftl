@@ -881,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = כניסות שמורות…
     .accesskey = כ
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = מילוי שמות משתמשים וססמאות באופן אוטומטי
+    .accesskey = מ
+forms-saved-passwords =
+    .label = ססמאות שמורות
+    .accesskey = ס
 forms-primary-pw-use =
     .label = שימוש בססמה ראשית
     .accesskey = ש
@@ -915,6 +922,25 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = מילוי אוטומטי
+autofill-addresses-checkbox = שמירה ומילוי כתובות
+    .accesskey = ש
+autofill-saved-addresses-button = כתובות שמורות
+    .accesskey = כ
+autofill-payment-methods-checkbox-message = שמירה ומילוי אמצעי תשלום
+    .accesskey = מ
+autofill-payment-methods-checkbox-submessage = כולל כרטיסי אשראי וכרטיסי חיוב
+    .accesskey = כ
+autofill-saved-payment-methods-button = אמצעי תשלום שמורים
+    .accesskey = א
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] לדרוש אימות של macOS כדי למלא ולערוך אמצעי תשלום.
+        [windows] לדרוש אימות של Windows כדי למלא ולערוך אמצעי תשלום.
+        [linux] לדרוש אימות של Linux כדי למלא ולערוך אמצעי תשלום.
+       *[other] לדרוש אימות כדי למלא ולערוך אמצעי תשלום.
+    }
+    .accesskey = ל
 
 ## Privacy Section - History
 
