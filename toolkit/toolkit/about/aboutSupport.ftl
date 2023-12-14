@@ -185,6 +185,13 @@ media-codec-support-unsupported = E pambuluar
 media-codec-support-error = S’ka informacion mbulimi nga kodekë. Provoni sërish, pas luajtjes së një kartele media.
 media-codec-support-lack-of-extension = Instalo zgjerimin
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Informacion Modulesh Shfshehtëzimi Lënde
+media-cdm-capabilities = Aftësi
+
 ##
 
 intl-title = Ndërkombëtarizim & Përkthim

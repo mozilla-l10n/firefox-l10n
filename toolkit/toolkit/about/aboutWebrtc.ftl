@@ -99,6 +99,9 @@ about-webrtc-debug-mode-msg-label = Mënyra Diagnostikim
 about-webrtc-debug-mode-off-state-label = Kaloni në Mënyrën Diagnostikim
 about-webrtc-debug-mode-on-state-label = Dilni nga Mënyra Diagnostikim
 about-webrtc-stats-heading = Statistika Sesioni
+about-webrtc-peerconnections-section-heading = Statistika RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Shfaq Statistika RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Fshih Statistika RTCPeerConnection
 about-webrtc-stats-clear = Spastro Historikun
 about-webrtc-log-heading = Regjistrim Lidhjeje
 about-webrtc-log-clear = Spastroje Regjistrin
@@ -182,6 +185,17 @@ about-webrtc-configuration-element-provided = E dhënë
 about-webrtc-configuration-element-not-provided = Jo e dhënë
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Parapëlqime WebRTC Caktuar Nga Përdoruesi
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Formësim WebRTC i Ndryshuar Nga Përdoruesi
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Shfaq Formësim të Ndryshuar Nga Përdoruesi
+about-webrtc-user-modified-configuration-hide-msg = Fshih Formësim të Ndryshuar Nga Përdoruesi
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Shpejtësi Transmetimi e Hamendësuar
 # The ID of the MediaStreamTrack
@@ -277,9 +291,6 @@ about-webrtc-sdp-set-timestamp = Vulë kohore { NUMBER($timestamp, useGrouping: 
 
 about-webrtc-show-msg-sdp = Shfaq SDP
 about-webrtc-hide-msg-sdp = Fshih SDP
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs

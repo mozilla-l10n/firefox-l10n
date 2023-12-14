@@ -6,12 +6,13 @@ common-dialog-title-null = Kjo faqe thotë
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = E panjohur
-
+# An indicator showing that Firefox is waiting for an operation to finish
+common-dialog-spinner =
+    .alt = I zënë
 common-dialog-username =
     .value = Emër përdoruesi
 common-dialog-password =
     .value = Fjalëkalim
-
 common-dialog-copy-cmd =
     .label = Kopjoje
     .accesskey = K

@@ -121,6 +121,8 @@ about-processes-utility-actor-audio-decoder-applemedia = Shkodues Audio Apple Me
 about-processes-utility-actor-audio-decoder-wmf = Shkodues Audio Windows Media Framework
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = JavaScript Oracle
+about-processes-utility-actor-windows-utils = Mjete Windows
+about-processes-utility-actor-windows-file-dialog = Dialog Windows Për Kartela
 
 ## Displaying CPU (percentage and total)
 ## Variables:
