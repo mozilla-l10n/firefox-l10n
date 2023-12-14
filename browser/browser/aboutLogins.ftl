@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Басқа браузе
 about-logins-menu-menuitem-import-from-a-file = Файлдан импорттау…
 about-logins-menu-menuitem-export-logins = Логиндерді экспорттау…
 about-logins-menu-menuitem-remove-all-logins = Барлық логиндерді өшіру…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Барлық парольдерді өшіру…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Баптаулар
@@ -117,7 +119,6 @@ login-item-edit-button = Түзету
 about-logins-login-item-remove-button = Өшіру
 login-item-origin-label = Веб-сайт адресі
 login-item-tooltip-message = Бұл сіз кірген веб-сайттың нақты адресіне сәйкес келетініне көз жеткізіңіз.
-about-logins-origin-tooltip = Бұл сіз кірген веб-сайттың нақты адресіне сәйкес келетініне көз жеткізіңіз.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Бұл сайт үшін ағымдағы пароліңізді сақтап тұрғаныңызға көз жеткізіңіз. Парольді осында өзгерту оны { $webTitle } сайтында өзгертпейді.
