@@ -90,12 +90,17 @@ about-logins-list-section-week = Ultimi 7 giorni
 about-logins-login-intro-heading-logged-out2 = Stai cercando le credenziali che hai salvato? Attiva la sincronizzazione o importale.
 about-logins-login-intro-heading-logged-in = Credenziali sincronizzate non trovate.
 login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
+
+about-logins-login-intro-heading-message = Salva le tue password in un posto sicuro
+login-intro-description2 = Tutte le password che salvi in { -brand-product-name } sono crittate. In più, teniamo d’occhio le violazioni di dati e ti avvisiamo se sei stato coinvolto. <a data-l10n-name="breach-alert-link">Scopri di più</a>
+
 login-intro-instructions-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali.
 login-intro-instructions-fxa2 = Accedi al tuo account o creane uno nuovo sul dispositivo dove sono salvate le credenziali.
 login-intro-instructions-fxa-settings = Apri Impostazioni > Sincronizzazione > Attiva sincronizzazione… e seleziona la casella Credenziali e password.
 login-intro-instructions-fxa-passwords-help = Visita la pagina di <a data-l10n-name="passwords-help-link">supporto per le password</a> per ottenere aiuto.
 about-logins-intro-browser-only-import = Se le credenziali sono salvate in un altro browser, è possibile <a data-l10n-name="import-link">importarle in { -brand-product-name }</a>
 about-logins-intro-import2 = Se le credenziali sono salvate al di fuori di { -brand-product-name }, è possibile <a data-l10n-name="import-browser-link">importarle da un altro browser</a> o <a data-l10n-name="import-file-link">da un file</a>
+about-logins-intro-import3 = Seleziona il pulsante con il simbolo “+” per aggiungere una password. Puoi anche <a data-l10n-name="import-browser-link">importare le password da un altro browser</a> o <a data-l10n-name="import-file-link">da un file</a>.
 
 ## Login
 
