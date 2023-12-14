@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Direcciones guardadas
 autofill-manage-addresses-list-header = Direcciones
 autofill-manage-credit-cards-title = Tarjetas de crédito guardadas
 autofill-manage-credit-cards-list-header = Tarjetas de crédito
+autofill-manage-payment-methods-title = Métodos de pago guardados
+autofill-manage-cards-list-header = Tarjetas
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Eliminar
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Configuración de dirección
 address-capture-learn-more-button =
     .label = Conocer más
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Agregar nueva dirección
 address-capture-open-menu-button =
     .aria-label = Abrir menú
 address-capture-edit-address-button =
     .aria-label = Editar dirección
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Agregar nueva dirección
+autofill-add-address-title = Agregar dirección
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar dirección
 autofill-address-name = Nombre
@@ -114,11 +118,15 @@ autofill-address-email = Correo electrónico
 autofill-cancel-button = Cancelar
 autofill-save-button = Guardar
 autofill-country-warning-message = El formulario de autocompletado por ahora está disponible solo para algunos países.
-autofill-message-tooltip = Ver mensaje sobre autocompletar
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Agregar nueva tarjeta de crédito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Editar tarjeta de crédito
+autofill-message-tooltip = Ver mensaje sobre autocompletar
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Agregar tarjeta
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Editar tarjeta
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
