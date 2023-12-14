@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = ਇਸ ਟੈਬ ਲਈ ਬਦਲੋ
 firefoxview-show-more = ਹੋਰ ਵੇਖਾਓ
 firefoxview-show-less = ਘੱਟ ਵੇਖਾਓ
+firefoxview-show-all = ਸਭ ਵੇਖੋ
 firefoxview-search-text-box-clear-button =
     .title = ਮਿਟਾਓ
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = ਖੋਜ
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = ਅਤੀਤ ਖੋਜੋ

@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨਾਂ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = ਛੋਟਾਂ - ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } ਇੱਥੇ ਦਿੱਤੀਆਂ ਹੋਈਆਂ ਸਾਈਟਾਂ ਲਈ ਪਾਸਵਰਡ ਨਹੀਂ ਸੰਭਾਲੇਗਾ।
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
