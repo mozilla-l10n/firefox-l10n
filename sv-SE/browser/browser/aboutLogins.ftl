@@ -260,7 +260,6 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Ja, ta bort lösenordet
-        [one] Ja, ta bort lösenord
        *[other] Ja, ta bort lösenorden
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
