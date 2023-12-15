@@ -109,7 +109,7 @@ login-item-edit-button = 編輯
 about-logins-login-item-remove-button = 移除
 login-item-origin-label = 網站網址
 login-item-tooltip-message = 請確定此欄位與您登入網站的網址完全相符。
-about-logins-origin-tooltip2 = 請輸入完整的網址，必且與您用來登入的網址相符。
+about-logins-origin-tooltip2 = 請輸入完整的網址，並且與您用來登入的網址相符。
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = 請確認您更改過此網站的密碼，再於此處修改。單純於此處修改並不會更改 { $webTitle } 上的密碼。
