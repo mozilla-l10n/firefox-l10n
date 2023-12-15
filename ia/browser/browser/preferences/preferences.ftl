@@ -870,6 +870,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Saper plus
 preferences-relay-integration-checkbox =
     .label = Suggerer mascas email { -relay-brand-name } pro proteger tu adresse email
+preferences-relay-integration-checkbox2 =
+    .label = Suggerer mascas de email { -relay-brand-name } pro proteger tu adresse email
+    .accesskey = S
 relay-integration-learn-more-link = Pro saper plus
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -878,6 +881,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Credentiales salvate…
     .accesskey = L
+forms-saved-passwords =
+    .label = Contrasignos salvate
+    .accesskey = s
 forms-primary-pw-use =
     .label = Usar un contrasigno primari
     .accesskey = U
@@ -915,6 +921,7 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Compilar automaticamente
 autofill-saved-addresses-button = Adresses salvate
     .accesskey = s
 
