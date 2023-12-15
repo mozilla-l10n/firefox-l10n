@@ -922,6 +922,8 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Compilar automaticamente
+autofill-addresses-checkbox = Salvar e compilar automaticamente adresses
+    .accesskey = a
 autofill-saved-addresses-button = Adresses salvate
     .accesskey = s
 
