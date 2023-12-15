@@ -192,6 +192,9 @@ about-logins-export-password-os-auth-dialog-message-win = Щоб експорт�
 about-logins-export-password-os-auth-dialog-message-macosx = експортувати збережені паролі
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Щоб експортувати ваші паролі, введіть свої облікові дані для входу у Windows. Це допомагає захистити ваші збережені паролі.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = експортувати збережені паролі
 
 ## Primary Password notification
 
