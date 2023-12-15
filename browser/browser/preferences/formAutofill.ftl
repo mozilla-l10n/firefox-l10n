@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Các địa chỉ đã lưu
 autofill-manage-addresses-list-header = Địa chỉ
 autofill-manage-credit-cards-title = Thẻ tín dụng đã lưu
 autofill-manage-credit-cards-list-header = Thẻ tín dụng
+autofill-manage-payment-methods-title = Phương thức thanh toán đã lưu
+autofill-manage-cards-list-header = Thẻ
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Xóa
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Cài đặt địa chỉ
 address-capture-learn-more-button =
     .label = Tìm hiểu thêm
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Thêm địa chỉ mới
 address-capture-open-menu-button =
     .aria-label = Mở menu
 address-capture-edit-address-button =
     .aria-label = Sửa địa chỉ
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Thêm địa chỉ mới
+autofill-add-address-title = Thêm địa chỉ
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Sửa địa chỉ
 autofill-address-name = Tên
@@ -114,11 +118,15 @@ autofill-address-email = Thư điện tử
 autofill-cancel-button = Hủy bỏ
 autofill-save-button = Lưu
 autofill-country-warning-message = Tự động điền biểu mẫu hiện chỉ có sẵn cho một số quốc gia nhất định.
-autofill-message-tooltip = Xem thông báo về tự động điền
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Thêm thẻ tín dụng mới
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Sửa thẻ tín dụng
+autofill-message-tooltip = Xem thông báo về tự động điền
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Thêm thẻ
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Chỉnh sửa thẻ
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
