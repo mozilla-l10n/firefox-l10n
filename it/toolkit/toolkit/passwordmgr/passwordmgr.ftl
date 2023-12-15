@@ -21,7 +21,7 @@ password-manager-save-password-button-never =
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Aggiornare la password per { $host }?
 password-manager-update-password-button-delete =
-    .label = Elimina passwor salvata
+    .label = Elimina password salvata
     .accesskey = E
 password-manager-update-login-add-username = Aggiungere un nome utente alla password salvata?
 password-manager-password-password-button-allow =
