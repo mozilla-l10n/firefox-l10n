@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importar desde otro nav
 about-logins-menu-menuitem-import-from-a-file = Importar desde un archivo…
 about-logins-menu-menuitem-export-logins = Exportar credenciales…
 about-logins-menu-menuitem-remove-all-logins = Eliminar todos las credenciales…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Eliminar todas las contraseñas…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opciones
@@ -115,11 +117,13 @@ about-logins-intro-import2 = Si tus credenciales se guardan fuera de { -brand-pr
 ## Login
 
 login-item-new-login-title = crear una nueva credencial
+# Header for adding a password
+about-logins-login-item-new-login-title = Añadir contraseña
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Dirección del sitio web
 login-item-tooltip-message = Asegúrate de que coincide con la dirección exacta del sitio web al que te conectas.
-about-logins-origin-tooltip = Asegúrate de que coincide con la dirección exacta del sitio web al que te conectas.
+about-logins-origin-tooltip2 = Ingresa la dirección completa y asegúrate de que coincida exactamente con el lugar donde te conectas.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Asegúrate de guardar tu contraseña actual para este sitio. Cambiar la contraseña aquí no la cambia con { $webTitle }.
@@ -137,6 +141,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = ¡Copiado!
 login-item-save-changes-button = Guardar cambios
+about-logins-login-item-save-changes-button = Guardar
 login-item-save-new-button = Guardar
 login-item-cancel-button = Cancelar
 
@@ -164,6 +169,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar tu credencial, 
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar la credencial guardada
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Para editar tu contraseña, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = editar la contraseña guardada
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para ver tu contraseña, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -179,6 +189,11 @@ about-logins-export-password-os-auth-dialog-message-win = Para exportar tus cred
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportar credenciales y contraseñas guardadas
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Para exportar tus contraseñas, ingresa tus credenciales de inicio de sesión de Windows. Esto ayuda a proteger la seguridad de tus cuentas.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportar contraseñas guardadas
 
 ## Primary Password notification
 
@@ -194,6 +209,10 @@ confirmation-dialog-dismiss-button =
     .title = Cancelar
 about-logins-confirm-remove-dialog-title = ¿Eliminar esta credencial?
 confirm-delete-dialog-message = Esta acción no puede revertirse.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = ¿Eliminar contraseña?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = No puedes deshacer esta acción.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
 
 ## Variables
@@ -238,6 +257,19 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Esto eliminará la credencial que has guardado en { -brand-short-name } en todos los dispositivos sincronizados con tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
         [one] Esto eliminará la credencial que has guardado en { -brand-short-name } en todos los dispositivos sincronizados con tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
        *[other] Esto eliminará todas las credenciales que has guardado en { -brand-short-name } en todos los dispositivos sincronizados con tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Sí, eliminar contraseña
+        [one] Sí, eliminar contraseña
+       *[other] Sí, eliminar contraseñas
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] ¿Eliminar { $count } contraseña?
+       *[other] ¿Eliminar todas las { $count } contraseñas?
     }
 
 ##
