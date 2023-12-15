@@ -96,8 +96,10 @@ about-webauthn-auth-option-null = Desteklenmiyor
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-remaining-discoverable-credentials = Kalan keşfedilebilir kimlik bilgileri
 about-webauthn-auth-info-certifications = Sertifikalar
 about-webauthn-auth-info-uv-modality = Kullanıcı doğrulama yöntemi
+about-webauthn-auth-info-preferred-platform-uv-attempts = Tercih edilen platform kullanıcısı doğrulama denemeleri
 about-webauthn-auth-info-max-cred-blob-length = Maksimum kimlik bilgisi blob uzunluğu
 about-webauthn-auth-info-firmware-version = Firmware sürümü
 about-webauthn-auth-info-min-pin-length = Minimum PIN uzunluğu
