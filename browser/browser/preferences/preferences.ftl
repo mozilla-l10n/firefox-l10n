@@ -798,10 +798,6 @@ sync-engine-creditcards =
     .label = Кредитні картки
     .tooltiptext = Імена, номери й терміни дії (тільки комп'ютер)
     .accesskey = К
-sync-engine-payment-methods =
-    .label = Способи оплати
-    .tooltiptext = Імена, номери карток і терміни дії (тільки комп'ютер)
-    .accesskey = о
 sync-engine-addons =
     .label = Додатки
     .tooltiptext = Розширення і теми Firefox для комп'ютера
@@ -848,6 +844,9 @@ pane-privacy-logins-and-passwords-header = Входи і паролі
 forms-ask-to-save-logins =
     .label = Запит збереження паролів для вебсайтів
     .accesskey = п
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Винятки…
     .accesskey = и
@@ -902,6 +901,10 @@ primary-password-os-auth-dialog-message-win = Щоб створити голов
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = створити головний пароль
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Автозаповнення
 
 ## Privacy Section - History
 
