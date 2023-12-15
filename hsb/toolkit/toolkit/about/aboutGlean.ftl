@@ -55,7 +55,7 @@ about-glean-no-ping-label = (ping njesłać)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Zawěsćće, zo je w předchadnym polu njezapomnita značka pytanja zmylka, zo byšće móhł swoje pingi pozdźišo spóznał.
 # An in-line text input field precedes this string.
-about-glean-label-for-tag-pings-with-requirements = Stajće dojimawu značku pytanja zmylkow <span>(20 znamješkow abo mjenje, jenož alfanumeriske a -)</span>, zo byšće pozdźišo swoje pingi zaso spóznał.
+about-glean-label-for-tag-pings-with-requirements = Stajće spomjatkliwu značku pytanja zmylkow <span>(20 znamješkow abo mjenje, jenož alfanumeriske a -)</span>, zo byšće pozdźišo swoje pingi zaso spóznał.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
