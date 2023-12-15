@@ -252,13 +252,6 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Kjo do të heqë kredencialet e hyrjes që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara me llogarinë tuaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S’do të jeni në gjendje të zhbëni këtë veprim.
        *[other] Kjo do të heqë krejt kredencialet e hyrjeve që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara me llogarinë tuaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S’do të jeni në gjendje të zhbëni këtë veprim.
     }
-# Checkbox for modal to confirm the removal of saved passwords
-about-logins-confirm-remove-all-dialog-checkbox-label2 =
-    { $count ->
-        [1] Po, hiqe fjalëkalimin
-        [one] Po, hiqi fjalëkalimet
-       *[other] { "" }
-    }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->

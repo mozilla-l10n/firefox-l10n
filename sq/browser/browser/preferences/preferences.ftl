@@ -943,7 +943,7 @@ autofill-reauth-checkbox =
         [linux] Kërko mirëfilltësim Linux, për të plotësuar dhe përpunuar metoda pagimi.
        *[other] Kërko mirëfilltësim, për të plotësuar dhe përpunuar metoda pagimi.
     }
-    .accesskey = { "" }
+    .accesskey = m
 
 ## Privacy Section - History
 
