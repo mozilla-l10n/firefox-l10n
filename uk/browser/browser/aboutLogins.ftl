@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Імпортувати 
 about-logins-menu-menuitem-import-from-a-file = Імпортувати з файлу…
 about-logins-menu-menuitem-export-logins = Експортувати паролі…
 about-logins-menu-menuitem-remove-all-logins = Видалити всі паролі…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Вилучити всі паролі…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Налаштування
@@ -119,11 +121,13 @@ about-logins-intro-import2 = Якщо ваші паролі зберігають
 ## Login
 
 login-item-new-login-title = Створити новий запис
+# Header for adding a password
+about-logins-login-item-new-login-title = Додати пароль
 login-item-edit-button = Змінити
 about-logins-login-item-remove-button = Вилучити
 login-item-origin-label = Адреса вебсайту
 login-item-tooltip-message = Переконайтесь, що це точно відповідає адресі вебсайту, на який ви входите.
-about-logins-origin-tooltip = Переконайтеся у правильності адреси вебсайту, на який ви входите.
+about-logins-origin-tooltip2 = Введіть повну адресу та переконайтеся, що вона точно збігається з адресою для входу.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Обов'язково збережіть поточний пароль для цього сайту. Змінивши пароль тут, ви не змінюєте його для { $webTitle }.
@@ -141,6 +145,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Копіювати
 login-item-copied-password-button-text = Скопійовано!
 login-item-save-changes-button = Зберегти зміни
+about-logins-login-item-save-changes-button = Зберегти
 login-item-save-new-button = Зберегти
 login-item-cancel-button = Скасувати
 
@@ -168,6 +173,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Щоб змінити за�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = редагувати збережений пароль
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Щоб змінити пароль, введіть свої облікові дані для входу у Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Щоб переглянути пароль, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -183,6 +190,8 @@ about-logins-export-password-os-auth-dialog-message-win = Щоб експорт�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = експортувати збережені паролі
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Щоб експортувати ваші паролі, введіть свої облікові дані для входу у Windows. Це допомагає захистити ваші збережені паролі.
 
 ## Primary Password notification
 
@@ -198,6 +207,8 @@ confirmation-dialog-dismiss-button =
     .title = Скасувати
 about-logins-confirm-remove-dialog-title = Вилучити цей запис?
 confirm-delete-dialog-message = Це незворотна дія.
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Ви не зможете скасувати цю дію.
 about-logins-confirm-remove-dialog-confirm-button = Вилучити
 
 ## Variables
