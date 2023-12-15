@@ -881,6 +881,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Credentiales salvate…
     .accesskey = L
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Compilar nomines de usator e contrasignos automaticamente
+    .accesskey = C
 forms-saved-passwords =
     .label = Contrasignos salvate
     .accesskey = s
@@ -926,6 +930,12 @@ autofill-addresses-checkbox = Salvar e compilar automaticamente adresses
     .accesskey = a
 autofill-saved-addresses-button = Adresses salvate
     .accesskey = s
+autofill-payment-methods-checkbox-message = Salvar e compilar methodos de pagamento automaticamente
+    .accesskey = S
+autofill-payment-methods-checkbox-submessage = Include cartas de credito e debito
+    .accesskey = i
+autofill-saved-payment-methods-button = Methodos de pagamento salvate
+    .accesskey = v
 
 ## Privacy Section - History
 
