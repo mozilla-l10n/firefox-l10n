@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (ping njesłaś)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Zawěsććo, až dajo w pjerwjejšnem pólu zaspomliwe wobznamjenje pytanja zmólka, aby mógał swóje pingi pózdźej spóznał.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Stajśo zaspomliwe wobznamjenje pytanja zmólkow <span>(20 znamuškow abo mjenjej, jano alfanumeriske a -)</span>, aby pózdźej swóje pingi zasej spóznał.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
