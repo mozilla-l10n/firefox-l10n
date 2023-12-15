@@ -9,6 +9,7 @@ autofill-manage-addresses-title = Direcciones guardadas
 autofill-manage-addresses-list-header = Direcciones
 autofill-manage-credit-cards-title = Tarjetas de crédito guardadas
 autofill-manage-credit-cards-list-header = Tarjetas de crédito
+autofill-manage-payment-methods-title = Métodos de pago guardados
 autofill-manage-cards-list-header = Tarjetas
 autofill-manage-dialog =
     .style = min-width: 560px

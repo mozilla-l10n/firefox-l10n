@@ -246,7 +246,7 @@ device-migration-fxa-spotlight-older-device-header = Tranquilidad con { -brand-p
 device-migration-fxa-spotlight-older-device-body = Una cuenta mantiene tu información importante actualizada y protegida en cualquier dispositivo que conectes.
 device-migration-fxa-spotlight-older-device-primary-button = Crear una cuenta
 device-migration-fxa-spotlight-getting-new-device-header-2 = ¿Nuevo dispositivo en tu futuro?
-device-migration-fxa-spotlight-getting-new-device-body = Respalda tus datos ahora, para que estés listo cuando llegue tu dispositivo.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Sigue unos sencillos pasos para llevar contigo tus marcadores, historial y contraseñas cuando empieces a utilizar un nuevo dispositivo.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Cómo hacer una copia de seguridad de mis datos
 
 ## Set as Default PDF Reader Infobar
