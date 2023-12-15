@@ -53,6 +53,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (non invia alcun ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = In le precedente campo assecura te que il ha un tag de depuration memorabile, assi que tu pote recognoscer tu pings in futuro.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Predefini un tag pro depurar facile a memorar <span>(20 characteres o minus,  solo alphanumeric  e -)</span> pro poter recognoscer tu pings postea.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
