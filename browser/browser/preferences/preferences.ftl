@@ -870,6 +870,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Aprender más
 preferences-relay-integration-checkbox =
     .label = Sugerir máscaras de correo { -relay-brand-name } para proteger tu dirección de correo electrónico
+preferences-relay-integration-checkbox2 =
+    .label = Sugerir máscaras de correo { -relay-brand-name } para proteger tu dirección de correo electrónico
+    .accesskey = r
 relay-integration-learn-more-link = Aprender más
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -878,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Credenciales guardadas…
     .accesskey = L
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Completar nombres de usuario y contraseñas automáticamente
+    .accesskey = F
+forms-saved-passwords =
+    .label = Contraseñas guardadas
+    .accesskey = d
 forms-primary-pw-use =
     .label = Usar una contraseña primaria
     .accesskey = U
@@ -926,6 +936,14 @@ autofill-payment-methods-checkbox-submessage = Incluye tarjetas de crédito y d�
     .accesskey = I
 autofill-saved-payment-methods-button = Métodos de pago guardados
     .accesskey = v
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Requerir autenticación de macOS para completar y editar métodos de pago.
+        [windows] Requerir autenticación de Windows para completar y editar métodos de pago.
+        [linux] Requerir autenticación de Linux para completar y editar métodos de pago.
+       *[other] Requerir autenticación para completar y editar métodos de pago.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
