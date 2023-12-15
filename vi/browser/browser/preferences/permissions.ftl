@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Đăng nhập các trang web sau sẽ không được lưu
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Ngoại trừ - Mật khẩu đã lưu
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } sẽ không lưu mật khẩu cho các trang được liệt kê ở đây.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

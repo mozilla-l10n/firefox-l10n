@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Đã gửi báo cáo. Cảm ơn bạn!
 confirmation-hint-login-removed = Đã xóa thông tin đăng nhập!
+confirmation-hint-password-removed = Đã xóa mật khẩu!
 confirmation-hint-page-bookmarked = Đã lưu vào dấu trang
 confirmation-hint-password-saved = Mật khẩu đã được lưu!
 confirmation-hint-password-created = Đã lưu mật khẩu
