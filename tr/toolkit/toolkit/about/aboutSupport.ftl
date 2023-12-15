@@ -193,6 +193,8 @@ media-codec-support-lack-of-extension = Uzantı yükle
 
 media-content-decryption-modules-title = İçerik çözme modülleri bilgileri
 media-key-system-name = Anahtar sistemi adı
+media-video-robustness = Video sağlamlığı
+media-audio-robustness = Ses sağlamlığı
 media-cdm-capabilities = Yetenekler
 
 ##

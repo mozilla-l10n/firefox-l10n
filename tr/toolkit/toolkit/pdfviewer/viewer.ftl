@@ -312,6 +312,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Metni kaldır
 pdfjs-editor-remove-stamp-button =
     .title = Resmi kaldır
+pdfjs-editor-remove-highlight-button =
+    .title = Vurgulamayı kaldır
 
 ##
 

@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Hata ayıklama modunu başlat
 about-webrtc-debug-mode-on-state-label = Hata ayıklama modunu durdur
 about-webrtc-enable-logging-label = WebRTC log ön ayarını etkinleştir
 about-webrtc-stats-heading = Oturum istatistikleri
+about-webrtc-peerconnections-section-heading = RTCPeerConnection istatistikleri
+about-webrtc-peerconnections-section-show-msg = RTCPeerConnection istatistiklerini göster
+about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection istatistiklerini gizle
 about-webrtc-stats-clear = Geçmişi temizle
 about-webrtc-log-heading = Bağlantı günlüğü
 about-webrtc-log-clear = Günlüğü temizle
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Sağlandı
 about-webrtc-configuration-element-not-provided = Sağlanmadı
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Kullanıcı tanımlı WebRTC tercihleri
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Kullanıcı tarafından değiştirilen WebRTC yapılandırması
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Kullanıcı tarafından değiştirilen yapılandırmayı göster
+about-webrtc-user-modified-configuration-hide-msg = Kullanıcı tarafından değiştirilen yapılandırmayı gizle
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Tahmini bant genişliği
 # The ID of the MediaStreamTrack
@@ -300,9 +314,6 @@ about-webrtc-sdp-set-timestamp = Zaman damgası { NUMBER($timestamp, useGrouping
 
 about-webrtc-show-msg-sdp = SDP’yi göster
 about-webrtc-hide-msg-sdp = SDP’yi gizle
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
