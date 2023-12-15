@@ -246,7 +246,7 @@ device-migration-fxa-spotlight-older-device-header = Tranquillitate, ab { -brand
 device-migration-fxa-spotlight-older-device-body = Un conto mantene actualisate e protegite tu informationes importante sur ulle apparato al qual tu te connecte.
 device-migration-fxa-spotlight-older-device-primary-button = Crea un conto
 device-migration-fxa-spotlight-getting-new-device-header-2 = Nove apparato in tu futuro?
-device-migration-fxa-spotlight-getting-new-device-body = Reserva subito tu datos, assi tu sera preste a initiar quando arrivara tu apparato.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Seque alcun simple passos pro portar con te marcapaginas, chronologia e contrasignos quando tu initia usar un nove apparato.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Como reservar mi datos
 
 ## Set as Default PDF Reader Infobar
