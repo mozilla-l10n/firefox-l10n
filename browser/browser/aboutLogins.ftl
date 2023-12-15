@@ -283,6 +283,13 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] { $count } parola tüm cihazlardan silinsin mi?
        *[other] { $count } parolanın hepsi tüm cihazlardan silinsin mi?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen tüm ihlal uyarıları kaldırılacaktır. Bu işlemi geri alamazsınız.
+        [one] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen tüm ihlal uyarıları kaldırılacaktır. Bu işlemi geri alamazsınız.
+       *[other] Bu işlem { -brand-short-name } tarayıcınıza kaydettiğiniz tüm parolaları eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen tüm ihlal uyarıları kaldırılacaktır. Bu işlemi geri alamazsınız.
+    }
 
 ##
 

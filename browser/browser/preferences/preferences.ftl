@@ -851,6 +851,10 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Parolalar
     .searchkeywords = hesaplar
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Parolaları kaydetmeyi öner
+    .accesskey = P
 forms-exceptions =
     .label = İstisnalar…
     .accesskey = s
