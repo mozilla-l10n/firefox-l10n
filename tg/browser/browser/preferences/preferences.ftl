@@ -917,6 +917,8 @@ autofill-addresses-checkbox = Нигоҳ доштан ва пур кардани
     .accesskey = г
 autofill-saved-addresses-button = Нишониҳои нигоҳдошташуда
     .accesskey = и
+autofill-saved-payment-methods-button = Тарзҳои пардохти нигоҳдошташуда
+    .accesskey = р
 
 ## Privacy Section - History
 
