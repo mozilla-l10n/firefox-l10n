@@ -935,7 +935,7 @@ reset-pbm-panel-cancel-button =
     .label = Болдырмау
     .accesskey = Б
 reset-pbm-panel-confirm-button =
-    .label = Сессияны деректерін өшіру
+    .label = Сессия деректерін өшіру
     .accesskey = ш
 reset-pbm-panel-complete = Жекелік шолу деректері өшірілді
 
