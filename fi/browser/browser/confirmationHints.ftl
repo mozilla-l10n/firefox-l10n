@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Raportti lähetetty. Kiitos!
 confirmation-hint-login-removed = Kirjautumistieto poistettu!
+confirmation-hint-password-removed = Salasana poistettu!
 confirmation-hint-page-bookmarked = Tallennettu kirjanmerkkeihin
 confirmation-hint-password-saved = Salasana tallennettu!
 confirmation-hint-password-created = Salasana tallennettu

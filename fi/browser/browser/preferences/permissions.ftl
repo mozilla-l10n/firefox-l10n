@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Seuraavien sivustojen kirjautumistietoja ei tallenneta
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Poikkeukset - Tallennetut salasanat
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } ei tallenna tässä lueteltujen sivustojen salasanoja.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

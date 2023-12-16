@@ -245,7 +245,7 @@ device-migration-fxa-spotlight-older-device-header = Mielenrauhaa { -brand-produ
 device-migration-fxa-spotlight-older-device-body = Tili pitää tärkeät tietosi ajan tasalla ja suojattuina kaikissa yhdistetyissä laitteissa.
 device-migration-fxa-spotlight-older-device-primary-button = Luo tili
 device-migration-fxa-spotlight-getting-new-device-header-2 = Uusi laite tulevaisuudessa?
-device-migration-fxa-spotlight-getting-new-device-body = Varmuuskopioi tietosi nyt, jotta olet valmis, kun laitteesi saapuu.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Noudata muutamia yksinkertaisia ohjeita tuodaksesi kirjanmerkkisi, historiasi ja salasanasi, kun aloitat uuden laitteen käytön.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kuinka varmuuskopioida omat tiedot
 
 ## Set as Default PDF Reader Infobar
