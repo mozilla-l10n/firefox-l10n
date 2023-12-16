@@ -101,6 +101,7 @@ about-webrtc-debug-mode-on-state-label = Zastavit režim ladění
 about-webrtc-enable-logging-label = Povolit protokolování WebRTC
 about-webrtc-stats-heading = Statistiky relace
 about-webrtc-peerconnections-section-heading = Statistiky spojení RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Zobrazit statistiky RTCPeerConnection
 about-webrtc-peerconnections-section-hide-msg = Skrýt statistiky RTCPeerConnection
 about-webrtc-stats-clear = Vymazat historii
 about-webrtc-log-heading = Protokol připojení
