@@ -106,6 +106,7 @@ about-webauthn-auth-option-null = Nepodporováno
 
 about-webauthn-auth-info-certifications = Certifikace
 about-webauthn-auth-info-uv-modality = Způsob ověření uživatele
+about-webauthn-auth-info-preferred-platform-uv-attempts = Pokusy o ověření uživatele preferované platformy
 about-webauthn-auth-info-max-cred-blob-length = Maximální délka blobu pověření
 about-webauthn-auth-info-firmware-version = Verze firmwaru
 about-webauthn-auth-info-min-pin-length = Minimální délka PIN
