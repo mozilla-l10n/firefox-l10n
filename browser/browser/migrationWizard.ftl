@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Kirjanmerkit
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Suosikit
 migration-logins-and-passwords-option-label = Tallennetut käyttäjätunnukset ja salasanat
+migration-passwords-option-label = Tallennetut salasanat
 migration-history-option-label = Selaushistoria
 migration-extensions-option-label = Laajennukset
 migration-form-autofill-option-label = Lomakkeiden automaattisen täytön tiedot
