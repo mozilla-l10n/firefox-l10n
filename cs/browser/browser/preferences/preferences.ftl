@@ -910,6 +910,10 @@ sync-engine-creditcards =
     .label = Platební karty
     .tooltiptext = Jména, čísla a data expirace (pouze na počítači)
     .accesskey = K
+sync-engine-payment-methods2 =
+    .label = Platební metody
+    .tooltiptext = Jména, čísla karet a data platnosti
+    .accesskey = P
 sync-engine-addons =
     .label = Doplňky
     .tooltiptext = Rozšíření a motivy vzhledu ve Firefoxu pro počítač
@@ -959,18 +963,28 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Ptát se na ukládání hesel
+    .accesskey = P
 forms-exceptions =
     .label = Výjimky…
     .accesskey = k
 forms-generate-passwords =
     .label = Generovat a navrhovat silná hesla
     .accesskey = G
+forms-suggest-passwords =
+    .label = Navrhovat silná hesla
+    .accesskey = N
 forms-breach-alerts =
     .label = Upozorňovat na hesla uložená pro servery, kde došlo k úniku dat
     .accesskey = ú
 forms-breach-alerts-learn-more-link = Zjistit více
 preferences-relay-integration-checkbox =
     .label = Navrhovat e-mailové masky služby { -relay-brand-name } na ochranu vaší e-mailové adresy
+preferences-relay-integration-checkbox2 =
+    .label = Navrhovat e-mailové masky { -relay-brand-name } pro ochranu vaší e-mailové adresy
+    .accesskey = r
 relay-integration-learn-more-link = Zjistit více
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -979,6 +993,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Uložené přihlašovací údaje…
     .accesskey = l
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Vyplňovat automaticky uživatelská jména a hesla
+    .accesskey = V
 forms-saved-passwords =
     .label = Uložená hesla
     .accesskey = U
@@ -1022,6 +1040,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 pane-privacy-autofill-header = Automatické vyplňování
 autofill-addresses-checkbox = Ukládat a vyplňovat adresy
     .accesskey = a
+autofill-saved-addresses-button = Uložené adresy
+    .accesskey = U
+autofill-saved-payment-methods-button = Uložené platební metody
+    .accesskey = U
 
 ## Privacy Section - History
 

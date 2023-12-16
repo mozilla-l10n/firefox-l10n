@@ -101,6 +101,7 @@ about-webrtc-debug-mode-on-state-label = Zastavit režim ladění
 about-webrtc-enable-logging-label = Povolit protokolování WebRTC
 about-webrtc-stats-heading = Statistiky relace
 about-webrtc-peerconnections-section-heading = Statistiky spojení RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Skrýt statistiky RTCPeerConnection
 about-webrtc-stats-clear = Vymazat historii
 about-webrtc-log-heading = Protokol připojení
 about-webrtc-log-clear = Vymazat protokol
@@ -195,6 +196,8 @@ about-webrtc-configuration-element-provided = Poskytnuto
 about-webrtc-configuration-element-not-provided = Neposkytnuto
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Uživatelská nastavení WebRTC
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Uživatelem upravená konfigurace WebRTC
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure

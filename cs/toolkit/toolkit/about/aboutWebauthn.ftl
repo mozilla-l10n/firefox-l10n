@@ -76,6 +76,8 @@ about-webauthn-auth-option-up = Přítomnost uživatele
 about-webauthn-auth-option-clientpin = PIN klienta
 about-webauthn-auth-option-rk = Klíč rezidenta
 about-webauthn-auth-option-plat = Zařízení platformy
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Příkazová oprávnění (pinUvAuthToken)
 about-webauthn-auth-option-largeblobs = Velké bloby
 about-webauthn-auth-option-ep = Podnikové atesty
 about-webauthn-auth-option-bioenroll = Biometrický zápis
