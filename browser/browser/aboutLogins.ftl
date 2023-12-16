@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Tuo toisesta selaimesta
 about-logins-menu-menuitem-import-from-a-file = Tuo tiedostosta…
 about-logins-menu-menuitem-export-logins = Vie kirjautumistiedot…
 about-logins-menu-menuitem-remove-all-logins = Poista kaikki kirjautumistiedot…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Poista kaikki salasanat…
 menu-menuitem-preferences = Asetukset
 about-logins-menu-menuitem-help = Ohje
 
@@ -110,11 +112,12 @@ about-logins-intro-import2 = Jos kirjautumistietosi on tallennettu { -brand-prod
 ## Login
 
 login-item-new-login-title = Luo uusi kirjautumistieto
+# Header for adding a password
+about-logins-login-item-new-login-title = Lisää salasana
 login-item-edit-button = Muokkaa
 about-logins-login-item-remove-button = Poista
 login-item-origin-label = Verkkosivuston osoite
 login-item-tooltip-message = Tarkista, että tämä on sama osoite, josta kirjaudut sisään.
-about-logins-origin-tooltip = Tarkista, että tämä on sama osoite, josta kirjaudut sisään.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Varmista, että tallennat tämän sivuston nykyisen salasanasi. Salasanan vaihtaminen tässä ei muuta sitä sivustolla { $webTitle }.
@@ -132,6 +135,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopioi
 login-item-copied-password-button-text = Kopioitu!
 login-item-save-changes-button = Tallenna muutokset
+about-logins-login-item-save-changes-button = Tallenna
 login-item-save-new-button = Tallenna
 login-item-cancel-button = Peruuta
 
@@ -189,6 +193,10 @@ confirmation-dialog-dismiss-button =
     .title = Peruuta
 about-logins-confirm-remove-dialog-title = Poistetaanko tämä kirjautumistieto?
 confirm-delete-dialog-message = Tätä toimintoa ei voi perua.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Poistetaanko salasana?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Tätä toimintoa ei voi kumota.
 about-logins-confirm-remove-dialog-confirm-button = Poista
 
 ## Variables
@@ -229,6 +237,18 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Tämä poistaa kirjautumistiedon, jonka olet tallentanut { -brand-short-name }iin, kaikilta laitteilta, jotka on synkronoitu tilillesi. Tämä poistaa myös tässä näkyvät vuotohälytykset. Tätä toimintoa ei voi kumota.
         [one] Tämä poistaa kirjautumistiedon, jonka olet tallentanut { -brand-short-name }iin, kaikilta laitteilta, jotka on synkronoitu tilillesi. Tämä poistaa myös tässä näkyvät vuotohälytykset. Tätä toimintoa ei voi kumota.
        *[other] Tämä poistaa kaikki kirjautumistiedot, jotka olet tallentanut { -brand-short-name }iin, kaikilta laitteilta, jotka on synkronoitu tilillesi. Tämä poistaa myös tässä näkyvät vuotohälytykset. Tätä toimintoa ei voi kumota.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Kyllä, poista salasana
+       *[other] Yes, remove passwords
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Poistetaanko { $count } salasana?
+       *[other] Poistetaanko kaikki { $count } salasanaa?
     }
 
 ##
