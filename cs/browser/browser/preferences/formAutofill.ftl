@@ -9,6 +9,7 @@ autofill-manage-addresses-title = Uložené adresy
 autofill-manage-addresses-list-header = Adresy
 autofill-manage-credit-cards-title = Uložené platební karty
 autofill-manage-credit-cards-list-header = Platební karty
+autofill-manage-payment-methods-title = Uložené způsoby platby
 autofill-manage-cards-list-header = Karty
 autofill-manage-dialog =
     .style = min-width: 560px
