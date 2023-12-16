@@ -1042,6 +1042,8 @@ autofill-addresses-checkbox = Ukládat a vyplňovat adresy
     .accesskey = a
 autofill-saved-addresses-button = Uložené adresy
     .accesskey = U
+autofill-payment-methods-checkbox-submessage = Zahrnuje kreditní a debetní karty
+    .accesskey = Z
 autofill-saved-payment-methods-button = Uložené platební metody
     .accesskey = U
 

@@ -78,6 +78,8 @@ about-webauthn-auth-option-rk = Klíč rezidenta
 about-webauthn-auth-option-plat = Zařízení platformy
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Příkazová oprávnění (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Žádná oprávnění MakeCredential / GetAssertion s klientským PINem
 about-webauthn-auth-option-largeblobs = Velké bloby
 about-webauthn-auth-option-ep = Podnikové atesty
 about-webauthn-auth-option-bioenroll = Biometrický zápis
@@ -87,6 +89,7 @@ about-webauthn-auth-option-uvbioenroll = Povolení k biometrickému zápisu
 about-webauthn-auth-option-authnrcfg = Konfigurace autentikátoru
 about-webauthn-auth-option-uvacfg = Nastavení oprávnění autentifikátoru
 about-webauthn-auth-option-credmgmt = Správa přihlašovacích údajů
+about-webauthn-auth-option-credentialmgmtpreview = Správa pověření prototypu
 about-webauthn-auth-option-setminpinlength = Nastavit minimální délku PIN
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential bez ověření uživatele
@@ -103,9 +106,11 @@ about-webauthn-auth-option-null = Nepodporováno
 
 about-webauthn-auth-info-certifications = Certifikace
 about-webauthn-auth-info-uv-modality = Způsob ověření uživatele
+about-webauthn-auth-info-max-cred-blob-length = Maximální délka blobu pověření
 about-webauthn-auth-info-firmware-version = Verze firmwaru
 about-webauthn-auth-info-min-pin-length = Minimální délka PIN
 about-webauthn-auth-info-force-pin-change = Vynutit změnu PIN
+about-webauthn-auth-info-max-ser-large-blob-array = Maximální velikost velkého pole blobů
 about-webauthn-auth-info-algorithms = Algoritmy
 about-webauthn-auth-info-transports = Transporty
 about-webauthn-auth-info-max-credential-id-length = Maximální délka ID pověření
