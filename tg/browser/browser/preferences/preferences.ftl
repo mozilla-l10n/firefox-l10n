@@ -842,18 +842,28 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Ниҳонвожаҳо
+    .searchkeywords = воридшавиҳо
 forms-exceptions =
     .label = Истисноҳо…
     .accesskey = И
 forms-generate-passwords =
     .label = Пешниҳод ва эҷод кардани ниҳонвожаҳои қавӣ
     .accesskey = П
+forms-suggest-passwords =
+    .label = Пешниҳод кардани ниҳонвожаҳои боқувват
+    .accesskey = ш
 forms-breach-alerts =
     .label = Намоиш додани огоҳиҳо оид ба ниҳонвожаҳо барои сомонаҳои вайронкардашуда
     .accesskey = Н
 forms-breach-alerts-learn-more-link = Маълумоти бештар
 preferences-relay-integration-checkbox =
     .label = Барои муҳофизат кардани нишонии почтаи электронии шумо, ниқобҳои муҳофизатии почтаи электронии { -relay-brand-name } пешниҳод карда мешаванд
+preferences-relay-integration-checkbox2 =
+    .label = Барои муҳофизат кардани нишонии почтаи электронии шумо, ниқобҳои муҳофизатии почтаи электронии { -relay-brand-name } пешниҳод карда мешаванд
+    .accesskey = а
 relay-integration-learn-more-link = Маълумоти бештар
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
