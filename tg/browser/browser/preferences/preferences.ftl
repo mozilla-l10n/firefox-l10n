@@ -872,6 +872,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Воридшавиҳои нигоҳдошташуда…
     .accesskey = В
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Ба таври худкор пур кардани номҳои корбар ва ниҳонвожаҳо
+    .accesskey = а
 forms-saved-passwords =
     .label = Ниҳонвожаҳои нигоҳдошташуда
     .accesskey = и
@@ -917,6 +921,10 @@ autofill-addresses-checkbox = Нигоҳ доштан ва пур кардани
     .accesskey = г
 autofill-saved-addresses-button = Нишониҳои нигоҳдошташуда
     .accesskey = и
+autofill-payment-methods-checkbox-message = Нигоҳ доштан ва пур кардани тарзҳои пардохт
+    .accesskey = г
+autofill-payment-methods-checkbox-submessage = Дар бар гирифтани кортҳои пардохтӣ ва қарзӣ
+    .accesskey = б
 autofill-saved-payment-methods-button = Тарзҳои пардохти нигоҳдошташуда
     .accesskey = р
 
