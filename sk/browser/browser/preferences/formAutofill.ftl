@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Uložené adresy
 autofill-manage-addresses-list-header = Adresy
 autofill-manage-credit-cards-title = Uložené platobné karty
 autofill-manage-credit-cards-list-header = Platobné karty
+autofill-manage-payment-methods-title = Uložené spôsoby platby
+autofill-manage-cards-list-header = Karty
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Odstrániť
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Nastavenia adresy
 address-capture-learn-more-button =
     .label = Ďalšie informácie
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Pridanie novej adresy
 address-capture-open-menu-button =
     .aria-label = Otvoriť ponuku
 address-capture-edit-address-button =
     .aria-label = Upraviť adresu
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Pridanie novej adresy
+autofill-add-address-title = Pridanie adresy
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Úprava adresy
 autofill-address-name = Meno
@@ -114,11 +118,15 @@ autofill-address-email = E‑mailová adresa
 autofill-cancel-button = Zrušiť
 autofill-save-button = Uložiť
 autofill-country-warning-message = Automatické dopĺňanie formulárov momentálne funguje len pre niektoré krajiny.
-autofill-message-tooltip = Zobraziť správu o automatickom dopĺňaní
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Pridanie novej platobnej karty
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Úprava platobnej karty
+autofill-message-tooltip = Zobraziť správu o automatickom dopĺňaní
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Pridanie karty
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Upraviť údaje o karte
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
