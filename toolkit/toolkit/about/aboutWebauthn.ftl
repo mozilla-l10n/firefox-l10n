@@ -12,7 +12,10 @@ about-webauthn-page-title = Om WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Einingsinfo
+about-webauthn-pin-section-title = PIN-kodebehandsaming
+about-webauthn-credential-management-section-title = Handsam innloggingsdetaljar
 about-webauthn-pin-required-section-title = PIN er påkravd
+about-webauthn-confirm-deletion-section-title = Stadfest sletting
 
 ## Info field texts
 
