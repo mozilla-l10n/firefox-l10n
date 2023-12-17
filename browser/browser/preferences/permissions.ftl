@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Pre nasledujúce stránky sa nebudú ukladať prihlasovacie údaje
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Výnimky - Uložené heslá
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } nebude ukladať heslá pre tu uvedené stránky.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

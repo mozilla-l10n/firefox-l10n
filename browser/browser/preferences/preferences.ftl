@@ -798,10 +798,10 @@ sync-engine-creditcards =
     .label = Platobné karty
     .tooltiptext = Mená, čísla a dátumy expirácie (len na počítači)
     .accesskey = k
-sync-engine-payment-methods =
-    .label = Spôsoby platby
-    .tooltiptext = Mená, čísla kariet a dátumy vypršania platnosti (len pre počítače)
-    .accesskey = o
+sync-engine-payment-methods2 =
+    .label = Platobné metódy
+    .tooltiptext = Mená, čísla kariet a dátumy expirácie
+    .accesskey = P
 sync-engine-addons =
     .label = Doplnky
     .tooltiptext = Rozšírenia a témy vzhľadu pre Firefox pre počítače
@@ -848,18 +848,35 @@ pane-privacy-logins-and-passwords-header = Prihlasovacie údaje
 forms-ask-to-save-logins =
     .label = Ponúkať uloženie prihlasovacích údajov na webových stránkach
     .accesskey = r
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Heslá
+    .searchkeywords = prihlasovacie údaje
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Ponúkať možnosť uložiť heslá
+    .accesskey = u
 forms-exceptions =
     .label = Výnimky…
     .accesskey = m
 forms-generate-passwords =
     .label = Generovať a navrhovať silné heslá
     .accesskey = G
+forms-suggest-passwords =
+    .label = Navrhovať silné heslá
+    .accesskey = N
 forms-breach-alerts =
     .label = Zobrazovať upozornenia na stránky, na ktorých prišlo k úniku dát
     .accesskey = b
 forms-breach-alerts-learn-more-link = Ďalšie informácie
 preferences-relay-integration-checkbox =
     .label = Navrhovať e‑mailové masky služby { -relay-brand-name } na ochranu vašej e‑mailovej adresy
+preferences-relay-integration-checkbox2 =
+    .label = Navrhovať e‑mailové masky služby { -relay-brand-name } na ochranu vašej e‑mailovej adresy
+    .accesskey = m
 relay-integration-learn-more-link = Ďalšie informácie
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -867,6 +884,13 @@ forms-fill-logins-and-passwords =
     .accesskey = u
 forms-saved-logins =
     .label = Uložené prihlasovacie údaje…
+    .accesskey = s
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Automaticky dopĺňať používateľské mená a heslá
+    .accesskey = u
+forms-saved-passwords =
+    .label = Uložené heslá
     .accesskey = s
 forms-primary-pw-use =
     .label = Používať hlavné heslo
@@ -902,6 +926,14 @@ primary-password-os-auth-dialog-message-win = Ak chcete vytvoriť hlavné heslo,
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = vytvoriť hlavné heslo
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Automatické dopĺňanie
+autofill-addresses-checkbox = Ukladať a dopĺňať adresy
+    .accesskey = a
+autofill-saved-addresses-button = Uložené adresy
+    .accesskey = a
 
 ## Privacy Section - History
 
