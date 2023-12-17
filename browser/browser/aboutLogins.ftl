@@ -9,9 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Opprett ny innlogging
+about-logins-page-title-name = Passord
 about-logins-login-filter2 =
     .placeholder = Søk etter passord
     .key = F
+create-login-button =
+    .title = Legg til passord
 fxaccounts-sign-in-text = Få passorda dine på dei andre einingane dine
 fxaccounts-sign-in-sync-button = Logg inn for å synkronisere
 fxaccounts-avatar-button =
@@ -26,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importer frå ein annan
 about-logins-menu-menuitem-import-from-a-file = Importer frå ei fil…
 about-logins-menu-menuitem-export-logins = Eksporter innloggingar…
 about-logins-menu-menuitem-remove-all-logins = Fjern alle innloggingar…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Slett alle passord…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Innstillingar
@@ -52,6 +57,21 @@ login-list-filtered-count =
         [one] { $count } av { $total } innlogging
        *[other] { $count } av { $total } innloggingar
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } passord
+       *[other] { $count } passord
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } av { $total } passord
+       *[other] { $count } av { $total } passord
+    }
 login-list-sort-label-text = Sorter etter:
 login-list-name-option = Namn (A-Å)
 login-list-name-reverse-option = Namn (Å-A)
@@ -61,11 +81,14 @@ about-logins-login-list-alerts-option = Varsel
 login-list-last-changed-option = Sist endra
 login-list-last-used-option = Sist brukt
 login-list-intro-title = Fann ingen innloggingar
+login-list-intro-title2 = Ingen passord lagra
 login-list-intro-description = Når du lagrar eit passord i { -brand-product-name }, vil det visast her.
 about-logins-login-list-empty-search-title = Fann ingen innloggingar
+about-logins-login-list-empty-search-title2 = Fann ingen passord
 about-logins-login-list-empty-search-description = Ingen resultat passar med søket ditt.
 login-list-item-title-new-login = Ny innlogging
 login-list-item-subtitle-new-login = Skriv inn innloggingsopplysningar
+login-list-item-title-new-login2 = Legg til passord
 login-list-item-subtitle-missing-username = (ikkje noko brukarnamn)
 about-logins-list-item-breach-icon =
     .title = Nettstad med datalekkasje
@@ -93,11 +116,12 @@ about-logins-intro-import2 = Dersom innloggingane dine er lagra utanfor { -brand
 ## Login
 
 login-item-new-login-title = Lag ny innlogging
+# Header for adding a password
+about-logins-login-item-new-login-title = Legg til passord
 login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Nettstadadresse
 login-item-tooltip-message = Forsikre deg om at dette samsvarar med den eksakte adressa til nettstaden der du logar inn.
-about-logins-origin-tooltip = Forsikre deg om at dette samsvarar med den eksakte adressa til nettstaden der du logar inn.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Brukarnamn
