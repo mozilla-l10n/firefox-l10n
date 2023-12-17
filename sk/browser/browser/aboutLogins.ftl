@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importovať z iného pr
 about-logins-menu-menuitem-import-from-a-file = Importovať zo súboru…
 about-logins-menu-menuitem-export-logins = Exportovať prihlasovacie údaje…
 about-logins-menu-menuitem-remove-all-logins = Odstrániť všetky prihlasovacie údaje…
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Odstrániť všetky heslá…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Možnosti
@@ -121,11 +123,13 @@ about-logins-intro-import2 = Ak máte prihlasovacie údaje uložené mimo { -bra
 ## Login
 
 login-item-new-login-title = Nové prihlasovacie údaje
+# Header for adding a password
+about-logins-login-item-new-login-title = Pridanie hesla
 login-item-edit-button = Upraviť
 about-logins-login-item-remove-button = Odstrániť
 login-item-origin-label = Adresa webovej stránky
 login-item-tooltip-message = Uistite sa, že zodpovedá adrese stránky, na ktorú sa prihlasujete.
-about-logins-origin-tooltip = Uistite sa, že sa zhoduje s presnou adresou webovej stránky, na ktorej sa prihlasujete.
+about-logins-origin-tooltip2 = Zadajte úplnú adresu a uistite sa, že sa presne zhoduje s tou, ktorú používate na prihlásenie na danej stránke.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Uistite sa, že ukladáte svoje aktuálne heslo pre túto stránku. Zmena hesla tu nezmení heslo na stránke { $webTitle }.
@@ -143,6 +147,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopírovať
 login-item-copied-password-button-text = Skopírované!
 login-item-save-changes-button = Uložiť zmeny
+about-logins-login-item-save-changes-button = Uložiť
 login-item-save-new-button = Uložiť
 login-item-cancel-button = Zrušiť
 
@@ -170,6 +175,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Ak chcete zobraziť svoje p
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = upraviť uložené prihlasovacie údaje
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Ak chcete upraviť svoje heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vašich účtov.
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ak chcete zobraziť svoje heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
 # This message can be seen when attempting to reveal a password in about:logins
