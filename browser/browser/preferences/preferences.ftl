@@ -799,9 +799,9 @@ sync-engine-creditcards =
     .tooltiptext = Mená, čísla a dátumy expirácie (len na počítači)
     .accesskey = k
 sync-engine-payment-methods2 =
-    .label = Platobné metódy
+    .label = Spôsoby platby
     .tooltiptext = Mená, čísla kariet a dátumy expirácie
-    .accesskey = P
+    .accesskey = o
 sync-engine-addons =
     .label = Doplnky
     .tooltiptext = Rozšírenia a témy vzhľadu pre Firefox pre počítače
@@ -931,9 +931,23 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 pane-privacy-autofill-header = Automatické dopĺňanie
 autofill-addresses-checkbox = Ukladať a dopĺňať adresy
-    .accesskey = a
+    .accesskey = d
 autofill-saved-addresses-button = Uložené adresy
     .accesskey = a
+autofill-payment-methods-checkbox-message = Ukladať a dopĺňať spôsoby platby
+    .accesskey = d
+autofill-payment-methods-checkbox-submessage = Zahŕňa kreditné a debetné karty
+    .accesskey = h
+autofill-saved-payment-methods-button = Uložené spôsoby platby
+    .accesskey = l
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Vyžadovať prihlasovacie údaje do systému macOS pri dopĺňaní a úprave spôsobov platby.
+        [windows] Vyžadovať prihlasovacie údaje do systému Windows pri dopĺňaní a úprave spôsobov platby.
+        [linux] Vyžadovať prihlasovacie údaje do systému Linux pri dopĺňaní a úprave spôsobov platby.
+       *[other] Vyžadovať prihlasovacie údaje pri dopĺňaní a úprave spôsobov platby.
+    }
+    .accesskey = V
 
 ## Privacy Section - History
 

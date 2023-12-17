@@ -41,6 +41,8 @@ about-glean-manual-testing = Úplné pokyny sú zdokumentované v <a data-l10n-n
 about-glean-no-ping-label = (neodosielajte žiadny ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Uistite sa, že v tomto poli je zapamätateľná značka ladenia, aby ste mohli neskôr rozpoznať svoje pingy.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Nastavte si zapamätateľnú značku ladenia <span>(najviac 20 znakov, len alfanumerické znaky a pomlčky)</span>, aby ste neskôr vedeli rozpoznať svoje pingy.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names = V tomto zozname vyberte príkaz ping, v ktorom sa nachádza vaša inštrumentácia. Ak sa nachádza vo <a data-l10n-name="custom-ping-link">vlastnom príkaze ping</a>, vyberte ho. V opačnom prípade predvolená hodnota pingu pre metriku <code>event</code> je <code>events</code> a predvolená hodnota pingu pre všetky ostatné metriky je <code>metrics</code>.
