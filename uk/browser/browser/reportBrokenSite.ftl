@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Ваш звіт надіслано
     .title = Ваш звіт надіслано
 report-broken-site-panel-report-sent-text = Дякуємо, що допомагаєте { -brand-product-name } зробити Інтернет більш відкритим, доступним і кращим для всіх.
+report-broken-site-panel-invalid-url-label = Введіть дійсний URL
+report-broken-site-panel-missing-reason-label = Виберіть причину
