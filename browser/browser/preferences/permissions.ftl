@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Паролі для таких вебсайтів не зберігатимуться
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Винятки – Збережені паролі
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } не зберігатиме паролі для зазначених тут сайтів.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

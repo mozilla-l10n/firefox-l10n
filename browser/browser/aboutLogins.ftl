@@ -175,6 +175,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Щоб змінити за�
 about-logins-edit-login-os-auth-dialog-message-macosx = редагувати збережений пароль
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Щоб змінити пароль, введіть свої облікові дані для входу у Windows. Це допомагає захистити ваші збережені паролі.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = змінити збережений пароль
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Щоб переглянути пароль, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -210,6 +213,8 @@ confirmation-dialog-dismiss-button =
     .title = Скасувати
 about-logins-confirm-remove-dialog-title = Вилучити цей запис?
 confirm-delete-dialog-message = Це незворотна дія.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Вилучити пароль?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Ви не зможете скасувати цю дію.
 about-logins-confirm-remove-dialog-confirm-button = Вилучити
@@ -261,6 +266,38 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [one] Це призведе до вилучення всіх збережених у { -brand-short-name } паролів з усіх пристроїв, синхронізованих з вашим обліковим записом. Це також вилучить попередження про витоки, які з'являються тут. Ви не зможете скасувати цю дію.
         [few] Це призведе до вилучення всіх збережених у { -brand-short-name } паролів з усіх пристроїв, синхронізованих з вашим обліковим записом. Це також вилучить попередження про витоки, які з'являються тут. Ви не зможете скасувати цю дію.
        *[many] Це призведе до вилучення всіх збережених у { -brand-short-name } паролів з усіх пристроїв, синхронізованих з вашим обліковим записом. Це також вилучить попередження про витоки, які з'являються тут. Ви не зможете скасувати цю дію.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Так, вилучити пароль
+       *[other] Так, вилучити паролі
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Вилучити { $count } пароль?
+        [few] Вилучити { $count } паролі?
+       *[many] Вилучити { $count } паролів?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Ця дія призведе до вилучення пароля, збереженого в { -brand-short-name }, а також до вилучення сповіщень про витоки даних. Це незворотна дія.
+       *[other] Ця дія призведе до вилучення паролів, збережених у { -brand-short-name }, а також до вилучення сповіщень про витоки даних. Це незворотна дія.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Вилучити { $count } пароль на всіх пристроях?
+        [few] Вилучити { $count } паролі на всіх пристроях?
+       *[many] Вилучити { $count } паролів на всіх пристроях?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Ця дія призведе до вилучення паролів, збережених у { -brand-short-name }, на всіх синхронізованих пристроях, а також до вилучення сповіщень про витоки даних. Це незворотна дія.
+       *[other] Ця дія призведе до вилучення паролів, збережених у { -brand-short-name }, на всіх синхронізованих пристроях, а також до вилучення сповіщень про витоки даних. Це незворотна дія.
     }
 
 ##

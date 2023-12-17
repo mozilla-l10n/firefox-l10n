@@ -249,7 +249,7 @@ device-migration-fxa-spotlight-older-device-header = Будьте спокійн
 device-migration-fxa-spotlight-older-device-body = Завдяки обліковому запису ваша важлива інформація завжди оновлена та захищена на будь-якому пристрої.
 device-migration-fxa-spotlight-older-device-primary-button = Створити обліковий запис
 device-migration-fxa-spotlight-getting-new-device-header-2 = Новий пристрій у майбутньому?
-device-migration-fxa-spotlight-getting-new-device-body = Створіть резервну копію даних зараз, щоб бути готовими до роботи на новому пристрої.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Виконайте кілька простих кроків, щоб синхронізувати свої закладки, історію та паролі з іншими пристроями.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Як створити резервну копію моїх даних
 
 ## Set as Default PDF Reader Infobar
