@@ -177,6 +177,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Ak chcete zobraziť svoje p
 about-logins-edit-login-os-auth-dialog-message-macosx = upraviť uložené prihlasovacie údaje
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Ak chcete upraviť svoje heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vašich účtov.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = upraviť uložené heslo
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ak chcete zobraziť svoje heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vášho účtu.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -192,6 +195,11 @@ about-logins-export-password-os-auth-dialog-message-win = Ak chcete exportovať 
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportovať uložené prihlasovacie údaje
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Ak chcete exportovať svoje heslá, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vašich účtov.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportovať uložené heslá
 
 ## Primary Password notification
 
@@ -207,6 +215,10 @@ confirmation-dialog-dismiss-button =
     .title = Zrušiť
 about-logins-confirm-remove-dialog-title = Chcete odstrániť tento prihlasovací údaj?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Odstrániť heslo?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
 about-logins-confirm-remove-dialog-confirm-button = Odstrániť
 
 ## Variables
@@ -259,6 +271,49 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [few] Týmto odstránite všetky prihlasovacie údaje, ktoré ste uložili do { -brand-short-name(case: "gen") } na všetkých zariadeniach synchronizovaných s vaším účtom. Týmto sa odstránia aj upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
         [many] Týmto odstránite všetky prihlasovacie údaje, ktoré ste uložili do { -brand-short-name(case: "gen") } na všetkých zariadeniach synchronizovaných s vaším účtom. Týmto sa odstránia aj upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
        *[other] Týmto odstránite všetky prihlasovacie údaje, ktoré ste uložili do { -brand-short-name(case: "gen") } na všetkých zariadeniach synchronizovaných s vaším účtom. Týmto sa odstránia aj upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Áno, odstrániť heslo
+        [one] Áno, odstrániť heslo
+        [few] Áno, odstrániť heslá
+        [many] Áno, odstrániť heslá
+       *[other] Áno, odstrániť heslá
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Odstrániť { $count } heslo?
+        [few] Odstrániť { $count } heslá?
+        [many] Odstrániť všetkých { $count } hesiel?
+       *[other] Odstrániť všetkých { $count } hesiel?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Týmto sa odstráni heslo uložené vo { -brand-short-name(case: "loc") } a všetky upozornenia na únik údajov. Túto akciu nie je možné vrátiť späť.
+        [one] Týmto sa odstráni heslo uložené vo { -brand-short-name(case: "loc") } a všetky upozornenia na únik údajov. Túto akciu nie je možné vrátiť späť.
+        [few] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } a všetky upozornenia na únik údajov. Túto akciu nie je možné vrátiť späť.
+        [many] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } a všetky upozornenia na únik údajov. Túto akciu nie je možné vrátiť späť.
+       *[other] Týmto sa odstránia heslá uložené vo { -brand-short-name(case: "loc") } a všetky upozornenia na únik údajov. Túto akciu nie je možné vrátiť späť.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Odstrániť { $count } heslo zo všetkých zariadení?
+        [few] Odstrániť { $count } heslá zo všetkých zariadení?
+        [many] Odstrániť { $count } hesiel zo všetkých zariadení?
+       *[other] Odstrániť { $count } hesiel zo všetkých zariadení?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Týmto sa odstráni heslo uložené vo { -brand-short-name(case: "loc") } zo všetkých synchronizovaných zariadení. Takisto sa odstránia všetky upozornenia na únik údajov, ktoré sa tu môžu zobrazovať. Túto akciu nie je možné vrátiť späť.
+        [one] Týmto sa odstráni heslo uložené vo { -brand-short-name(case: "loc") } zo všetkých synchronizovaných zariadení. Takisto sa odstránia všetky upozornenia na únik údajov, ktoré sa tu môžu zobrazovať. Túto akciu nie je možné vrátiť späť.
+        [few] Týmto sa odstráni heslá uložené vo { -brand-short-name(case: "loc") } zo všetkých synchronizovaných zariadení. Takisto sa odstránia všetky upozornenia na únik údajov, ktoré sa tu môžu zobrazovať. Túto akciu nie je možné vrátiť späť.
+        [many] Týmto sa odstráni heslá uložené vo { -brand-short-name(case: "loc") } zo všetkých synchronizovaných zariadení. Takisto sa odstránia všetky upozornenia na únik údajov, ktoré sa tu môžu zobrazovať. Túto akciu nie je možné vrátiť späť.
+       *[other] Týmto sa odstráni heslá uložené vo { -brand-short-name(case: "loc") } zo všetkých synchronizovaných zariadení. Takisto sa odstránia všetky upozornenia na únik údajov, ktoré sa tu môžu zobrazovať. Túto akciu nie je možné vrátiť späť.
     }
 
 ##
