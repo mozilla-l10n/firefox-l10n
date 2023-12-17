@@ -936,6 +936,14 @@ autofill-payment-methods-checkbox-submessage = Incluye tarjetas de crédito y d�
     .accesskey = I
 autofill-saved-payment-methods-button = Métodos de pago guardados
     .accesskey = u
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Requerir autenticación de macOS para completar y editar métodos de pago.
+        [windows] Requerir autenticación de Windows para completar y editar métodos de pago.
+        [linux] Requerir autenticación de Linux para completar y editar métodos de pago.
+       *[other] Requerir autenticación para completar y editar métodos de pago.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
