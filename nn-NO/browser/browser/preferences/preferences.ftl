@@ -707,6 +707,9 @@ sync-signedin-login-failure = Logg inn for å kople til på nytt { $email }
 sync-resend-verification =
     .label = Send stadfesting på nytt
     .accesskey = S
+sync-verify-account =
+    .label = Stadfest konto
+    .accesskey = S
 sync-remove-account =
     .label = Fjern konto
     .accesskey = k
@@ -739,8 +742,10 @@ sync-currently-syncing-bookmarks = Bokmerke
 sync-currently-syncing-history = Historikk
 sync-currently-syncing-tabs = Opne faner
 sync-currently-syncing-logins-passwords = Innloggingar og passord
+sync-currently-syncing-passwords = Passord
 sync-currently-syncing-addresses = Adresser
 sync-currently-syncing-creditcards = Kredittkort
+sync-currently-syncing-payment-methods = Betalingsmåtar
 sync-currently-syncing-addons = Tillegg
 sync-currently-syncing-settings = Innstillingar
 sync-change-options =
@@ -825,6 +830,9 @@ pane-privacy-logins-and-passwords-header = Innloggingar og passord
 forms-ask-to-save-logins =
     .label = Spør om å lagre innloggingar og passord for nettsider
     .accesskey = i
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Unntak…
     .accesskey = n
@@ -879,6 +887,14 @@ primary-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = lag eit hovudpassord
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Autofyll
+autofill-saved-addresses-button = Lagra adresser
+    .accesskey = L
+autofill-saved-payment-methods-button = Lagra betaslingsmetodar
+    .accesskey = a
 
 ## Privacy Section - History
 

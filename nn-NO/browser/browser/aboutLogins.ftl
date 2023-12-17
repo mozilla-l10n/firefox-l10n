@@ -122,6 +122,7 @@ login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Nettstadadresse
 login-item-tooltip-message = Forsikre deg om at dette samsvarar med den eksakte adressa til nettstaden der du logar inn.
+about-logins-origin-tooltip2 = Skriv inn heile adressa og sørg for at ho stemmer nøyaktig overeins med kvar du loggar på.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Brukarnamn
@@ -135,6 +136,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopier
 login-item-copied-password-button-text = Kopiert!
 login-item-save-changes-button = Lagre endringar
+about-logins-login-item-save-changes-button = Lagre
 login-item-save-new-button = Lagre
 login-item-cancel-button = Avbryt
 
@@ -192,6 +194,10 @@ confirmation-dialog-dismiss-button =
     .title = Avbryt
 about-logins-confirm-remove-dialog-title = Fjerne denne innlogginga?
 confirm-delete-dialog-message = Denne handlinga kan ikkje angrast.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Vil du fjerne passordet?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Du kan ikkje angre denne handlinga.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
 
 ## Variables
@@ -231,6 +237,12 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Dette fjernar alle innloggingar du har lagra i { -brand-short-name } på alle einingane som er synkroniserte med kontoen din. Dette vil også fjerne varsel om datalekkasjar som vert viste her. Du kan ikkje angre denne handlingan.
        *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ja, fjern passordet
+       *[other] Yes, remove passwords
     }
 
 ##

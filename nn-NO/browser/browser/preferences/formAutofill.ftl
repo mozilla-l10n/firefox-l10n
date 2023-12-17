@@ -9,6 +9,7 @@ autofill-manage-addresses-title = Lagra adresser
 autofill-manage-addresses-list-header = Adressat
 autofill-manage-credit-cards-title = Lagra kredittkort
 autofill-manage-credit-cards-list-header = Kredittkort
+autofill-manage-cards-list-header = Kort
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Fjern
@@ -37,12 +38,14 @@ address-capture-manage-address-button =
     .label = Adresseinnstillingar
 address-capture-learn-more-button =
     .label = Les meir
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Legg til ny adresse
 address-capture-open-menu-button =
     .aria-label = Opne meny
 address-capture-edit-address-button =
     .aria-label = Rediger adresse
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Legg til ny adresse
+autofill-add-address-title = Legg til adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediger adresse
 autofill-address-name = Namn
@@ -118,6 +121,10 @@ autofill-country-warning-message = Automatisk utfylling av skjema er for tida be
 autofill-add-new-card-title = Legg til nytt kredittkort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Rediger kredittkort
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Legg til kort
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Rediger kort
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =

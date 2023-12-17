@@ -5,6 +5,8 @@
 report-broken-site-mainview-title = Rapporter problem med ein nettstad
 report-broken-site-panel-url = Nettadresse
 report-broken-site-panel-reason-label = Kva er øydelagt?
+report-broken-site-panel-reason-choose =
+    .label = Vel grunn
 report-broken-site-panel-reason-adblockers =
     .label = Annonseblokkering
 report-broken-site-panel-reason-other =
