@@ -8,6 +8,12 @@
 password-manager-save-password-button-allow =
     .label = સંગ્રહો
     .accesskey = s
+password-manager-password-password-button-allow =
+    .label = અપડેટ કરો
+    .accesskey = U
+password-manager-update-password-button-deny =
+    .label = અપડેટ કરશો નહીં
+    .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = વપરાશકર્તાનામ નથી
 password-manager-toggle-password =
