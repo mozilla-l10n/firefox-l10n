@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Sekles
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Werǧin ad teskelseḍ
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = Leqqem
     .accesskey = U
