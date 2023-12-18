@@ -18,6 +18,7 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
@@ -33,7 +34,6 @@ urlbar-identity-button =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tùs kùe ndó~làz=ná ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -72,6 +72,7 @@ full-screen-exit =
 
 ## Identity Panel
 
+
 ## Window controls
 
 browser-window-minimize-button =
@@ -101,12 +102,13 @@ browser-window-close-button =
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = TòɁw
 urlbar-placeholder =
     .placeholder = Kuan dee kuan luu
-
 urlbar-switch-to-tab =
     .value = Xhe loo gibb:
-
 urlbar-go-button =
     .tooltiptext = Cuan taa diff loo
 
@@ -144,14 +146,9 @@ reader-view-close-button =
 ## Full Screen and Pointer Lock UI
 
 fullscreen-warning-no-domain = Yêtz ré de loo lo narú
-
-
 fullscreen-exit-button = Mb-ròɁ lô (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Mb-ròɁ lô (Esc)
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -173,7 +170,6 @@ bookmarks-mobile-bookmarks-menu =
 
 bookmarks-search =
     .label = KwàɁn ndó~làz=ná
-
 bookmarks-toolbar-menu =
     .label = Té tak güin ko ndó~làz=ná
 bookmarks-toolbar-placeholder =
@@ -204,9 +200,6 @@ toolbar-button-open-file =
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -230,22 +223,17 @@ ui-tour-info-panel-close =
 
 navbar-downloads =
     .label = Koo blaal
-
 navbar-overflow =
     .tooltiptext = Loo ree yibb...
-
 navbar-search =
     .title = KwàɁn
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Gua let lo loo
-
 tabs-toolbar-new-tab =
     .label = Xhal loo kub
-
 tabs-toolbar-list-all-tabs =
     .label = Loo ree taa loo
     .tooltiptext = Loo ree taa loo
@@ -266,19 +254,18 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 
 ## Firefox Relay integration
 
 
-## Popup Notification
-
-
-## Pop-up Notification
-
-
 ## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
