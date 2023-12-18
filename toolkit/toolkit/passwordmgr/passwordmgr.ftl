@@ -8,10 +8,16 @@
 password-manager-save-password-button-allow =
     .label = לשמור
     .accesskey = ש
+password-manager-password-password-button-allow =
+    .label = לעדכן
+    .accesskey = ע
 password-manager-update-password-button-deny =
     .label = לא לעדכן
     .accesskey = ל
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = אין שם משתמש
+password-manager-toggle-password =
+    .label = הצגת ססמה
+    .accesskey = ה
 password-manager-confirm-password-change = אישור שינוי ססמה
 password-manager-select-username = נא לבחור בכניסה לעדכון:
