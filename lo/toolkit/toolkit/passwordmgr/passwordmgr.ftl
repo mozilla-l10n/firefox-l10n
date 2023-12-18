@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = ທ່ານຕ້ອງການໃຫ້ %1$S ບັນທຶກລະຫັດຜ່ານນີ້ໄວ້ເພື່ອ %2$S?
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = ບໍ່ຕ້ອງບັນທຶກ
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = ອັບເດດ
     .accesskey = U
@@ -20,3 +23,4 @@ password-manager-toggle-password =
     .label = ສະແດງລະຫັດຜ່ານ
     .accesskey = h
 password-manager-confirm-password-change = ຢືນຢັນການປ່ຽນແປງລະຫັດຜ່ານ
+password-manager-select-username = ເລືອກເອົາລັອກອິນທີ່ຕ້ອງການອັບເດດ:
