@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Η Ενισχυμένη προστασία α
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Ενισχυμένη προστασία από καταγραφή
-    .description = Ενεργή σε αυτόν τον ιστότοπο
-    .aria-label = Απενεργοποίηση προστασίας για το { $host }
-protections-panel-etp-off-toggle =
-    .label = Ενισχυμένη προστασία από καταγραφή
-    .description = Ανενεργή για αυτόν τον ιστότοπο
-    .aria-label = Ενεργοποίηση προστασίας για το { $host }
 protections-panel-etp-toggle-on =
     .label = Ενισχυμένη προστασία από καταγραφή
     .description = Ενεργή για αυτόν τον ιστότοπο
@@ -64,7 +56,7 @@ protections-panel-not-blocking-why-etp-off-tooltip-label =
 
 ##
 
-protections-panel-no-trackers-found = Δεν εντοπίστηκαν ιχνηλάτες γνωστοί στο { -brand-short-name } σε αυτή τη σελίδα.
+protections-panel-no-trackers-found = Δεν εντοπίστηκαν ιχνηλάτες γνωστοί στο { -brand-short-name } σε αυτήν τη σελίδα.
 protections-panel-content-blocking-tracking-protection = Περιεχόμενο καταγραφής
 protections-panel-content-blocking-socialblock = Ιχνηλάτες κοινωνικών δικτύων
 protections-panel-content-blocking-cryptominers-label = Cryptominers
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Απενεργ�
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Ενεργοποίηση αποκλεισμού μηνυμάτων για cookie σε αυτόν τον ιστότοπο;
 protections-panel-cookie-banner-view-cookie-clear-warning = Το { -brand-short-name } θα απαλείψει τα cookie του ιστοτόπου και θα ανανεώσει τη σελίδα. Η απαλοιφή όλων των cookie ενδέχεται να σας αποσυνδέσει από λογαριασμούς ή να αδειάσει τα καλάθια αγορών σας.
 protections-panel-cookie-banner-view-turn-on-description = Το { -brand-short-name } προσπαθεί να απορρίψει αυτόματα όλα τα αιτήματα για cookie σε υποστηριζόμενους ιστοτόπους.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Ενεργοποιήστε το και το { -brand-short-name } θα προσπαθεί να απορρίπτει αυτόματα τα μηνύματα για cookie σε αυτόν τον ιστότοπο.
 protections-panel-cookie-banner-view-cancel = Ακύρωση
 protections-panel-cookie-banner-view-turn-off = Απενεργοποίηση
 protections-panel-cookie-banner-view-turn-on = Ενεργοποίηση
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ενεργοποιήστε το και το { -brand-short-name } θα προσπαθεί να απορρίπτει αυτόματα τα μηνύματα για cookie σε αυτόν τον ιστότοπο.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Ακύρωση
 protections-panel-cookie-banner-view-turn-off-label =

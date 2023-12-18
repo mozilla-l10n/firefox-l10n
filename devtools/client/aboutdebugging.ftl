@@ -313,7 +313,7 @@ about-debugging-worker-push-service =
     .label = Υπηρεσία Push
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
-    .title = Η επιθεώρηση του service worker είναι απενεργοποιημένη αυτή τη στιγμή για το { -brand-shorter-name } πολλαπλών διεργασιών
+    .title = Η επιθεώρηση του service worker είναι απενεργοποιημένη αυτήν τη στιγμή για το { -brand-shorter-name } πολλαπλών διεργασιών
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Η καρτέλα δεν έχει φορτωθεί πλήρως και δεν μπορεί να επιθεωρηθεί
