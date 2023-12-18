@@ -19,7 +19,7 @@ settings-page-title = Arventennoù
 # Do not translate.
 search-input-box2 =
     .style = width: 15.4em
-    .placeholder = Find in Settings
+    .placeholder = Klask en arventennoù
 managed-notice = Ardoet eo ho merdeer gant hoc'h aozadur.
 category-list =
     .aria-label = Rummadoù
@@ -757,12 +757,19 @@ privacy-header = Prevezted ar merdeer
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
-pane-privacy-logins-and-passwords-header = Titouroù kennaskañ
+pane-privacy-logins-and-passwords-header = Anaoudurioù ha gerioù-tremen
     .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Goulenn enrollañ an titouroù kennaskañ evit al lec'hiennoù
     .accesskey = G
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Gerioù-tremen
+    .searchkeywords = titouroù kennaskañ
 forms-exceptions =
     .label = Nemedennoù…
     .accesskey = m
@@ -814,6 +821,9 @@ primary-password-os-auth-dialog-message-win = Evit krouiñ ur ger-tremen mestr, 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = krouiñ ur ger-tremen pennañ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -900,6 +910,9 @@ sitedata-cookies-exceptions =
     .accesskey = M
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
 
 
 ## Privacy Section - Address Bar
