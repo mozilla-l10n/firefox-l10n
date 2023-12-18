@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Захаваць пароль для { $host }?
 password-manager-save-password-button-allow =
     .label = Захаваць
     .accesskey = З
+password-manager-save-password-button-never =
+    .label = Ніколі не захоўваць
+    .accesskey = н
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Абнавіць пароль для { $host }?
+password-manager-update-login-add-username = Дадаць імя карыстальніка да захаванага пароля?
 password-manager-password-password-button-allow =
     .label = Абнавіць
     .accesskey = А
