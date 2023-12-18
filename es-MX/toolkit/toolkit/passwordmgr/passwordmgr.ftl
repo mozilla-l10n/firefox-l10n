@@ -20,3 +20,4 @@ password-manager-toggle-password =
     .label = Mostrar contraseña
     .accesskey = h
 password-manager-confirm-password-change = Confirmar cambio de contraseña
+password-manager-select-username = Selecciona que inicio de sesión actualizar:
