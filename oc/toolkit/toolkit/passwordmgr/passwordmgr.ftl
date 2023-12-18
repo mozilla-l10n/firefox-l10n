@@ -11,3 +11,4 @@ password-manager-save-password-button-allow =
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Pas cap de nom d'utilizaire
 password-manager-confirm-password-change = Confirmatz la modificacion del senhal
+password-manager-select-username = Seleccionatz quin identificant metre a jorn :
