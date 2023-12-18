@@ -777,7 +777,7 @@ forms-generate-passwords =
     .label = Kinnig ha krouiñ gerioù-tremen kreñv
     .accesskey = K
 forms-breach-alerts =
-    .label = Diskouez galvoù diwall a-zivout ar gerioù-tremen war al lec'hiennoù frailhet
+    .label = Diskouez galvoù diwall evit gerioù-tremen al lec’hiennoù frailhet
     .accesskey = D
 forms-breach-alerts-learn-more-link = Gouzout hiroc'h
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
