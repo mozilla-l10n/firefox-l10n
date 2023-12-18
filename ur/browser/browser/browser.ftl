@@ -105,18 +105,17 @@ urlbar-midi-blocked =
     .tooltiptext = آپنے اس ویب سائٹ کے لئے MIDI تک رسائی بلاک کر دی ہیں۔
 urlbar-install-blocked =
     .tooltiptext = آپ نے اس ویب سائٹ کیلئے ایڈ آنا کو انسٹالیشن کو بلاک کیا ہوا ہے۔
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = یہ بک مارک تدوین کریں ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = یہ صفحہ نشان زد کریں ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -132,10 +131,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = اس بار ، کے ساتھ تلاش کریں:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = تلاش سیٹنگز تبدیل کریں
-
 search-one-offs-context-open-new-tab =
     .label = نئے ٹیب میں تلاش کرے
     .accesskey = T
@@ -145,14 +142,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = نجی ونڈوں کے لیئے طے شدہ تلاش انجن بنائیں
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -198,7 +193,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = محفوظ کریں
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -221,16 +215,13 @@ identity-passive-loaded = اس صفحے کے حصے قابل بھروسا نہی
 identity-active-loaded = آپ نے اس صفحے پر حفاظت نا اہل بنا دی ہے۔
 identity-weak-encryption = یہ صفحہ کمزور خفیہ کاری استعمال کرتا ہے۔
 identity-insecure-login-forms = اس صفحہ پر داخل کردہ لاگ ان اشتباہ کیا جا سکتا ہے۔
-
 identity-https-only-dropdown-on =
     .label = چالو
 identity-https-only-dropdown-off =
     .label = بند
 identity-https-only-dropdown-off-temporarily =
     .label = عارضی طور پر بندکریں
-
 identity-permissions-storage-access-learn-more = مزید سیکھیں
-
 identity-permissions-reload-hint = تبدیلی کو لگانے کے لیئے آپکو صفحہ کو دوبارہ لوڈ کرنے کی شاید ظرورت ہو۔
 identity-clear-site-data =
     .label = کوکیز اور سائٹ کے کواِئف صاف کریں…
@@ -311,11 +302,13 @@ sharing-warning-proceed-to-tab =
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = بند کریں
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = تلاش کریں یا پتہ داخل کریں
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -324,26 +317,21 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = ویب پر تلاش کریں
     .aria-label = { $name } کے ساتھ تلاش کریں
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = تلاش کی شرائط درج کریں
     .aria-label = ٹیب  تلاش کریں
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } کے ساتھ تلاش کریں یا پتہ درج کریں
-
 urlbar-permissions-granted =
     .tooltiptext = آپ نے اس ویب سائٹ کو اضافی اجازتیں دے دی ہیں۔
 urlbar-switch-to-tab =
     .value = ٹیب پر سوئچ کریں:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ایکسٹینشن:
-
 urlbar-go-button =
     .tooltiptext = محل وقوع بار میں دیے گئے پتے پر جائیں
 urlbar-page-action-button =
@@ -390,7 +378,6 @@ urlbar-result-action-search-tabs = تلاش ٹیبس
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -419,19 +406,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> اب پوری اسکرین پر ہے
 fullscreen-warning-no-domain = یہ دستاویز اب پوری اسکرین پر ہے
-
-
 fullscreen-exit-button = پوری سکرین سے باہر نکلیں (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = پوری سکرین سے باہر نکلیں (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> آپ کے نشان کار کا کنٹرول ہے۔ Esc دبا کر کنٹرول واپس لیں
 pointerlock-warning-no-domain = اس دستاویز کہ پاس آپ کہ نشان کار کا کنٹرول ہے ۔ کنٹرول واپس حاصل کرنے کے لیے Esc دبائیں ۔
-
-## Subframe crash notification
 
 ## Bookmarks panels, menus and toolbar
 
@@ -478,7 +460,6 @@ bookmarks-search =
     .label = بک مارک تلاش کریں
 bookmarks-tools =
     .label = بک مارک ٹول
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -520,31 +501,25 @@ toolbar-settings-button =
             [macos] سیٹنگز کھولیں ({ $shortcut })
            *[other] سیٹنگز کھولیں
         }
-
 toolbar-overflow-customize-button =
     .label = ٹولبار تخصیص کریں…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = ای میل ربط
     .tooltiptext = اس صفحہ پر ربط ای میل کریں
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = صفحہ محفوظ کریں
     .tooltiptext = یہ صفحہ محفوظ کریں ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = مسل کھولیں
     .tooltiptext = مسل کھولیں ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = سینک ہو چکے ٹیبز
     .tooltiptext = دیگر آلات سے ٹیبز دکھائیں
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -564,8 +539,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 panel-save-update-username = صارف کا نام
 panel-save-update-password = پاس ورڈ
 
-## Add-on removal warning
-
 ##
 
 # "More" item in macOS share menu
@@ -580,7 +553,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } کے لیے پاپ اپ اجازت دیں
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } کے لیے پاپ اپ روکیں
     .accesskey = p
@@ -590,7 +562,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = جب پاپ اپ بلاک ہوں تو یہ پیغام نہ دکھائیں
     .accesskey = D
-
 picture-in-picture-hide-toggle =
     .label = تصویر میں تصویر ٹوگل چھپائیں
     .accesskey = H
@@ -609,39 +580,30 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = نیویگیشن
-
 navbar-downloads =
     .label = ڈاؤن لوڈ
-
 navbar-overflow =
     .tooltiptext = مزید ٹول…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = چھاپیں
     .tooltiptext = یہ صفحہ پرنٹ کریں… ({ $shortcut })
-
 navbar-home =
     .label = گھر
     .tooltiptext = { -brand-short-name } ابتدائی صفحہ
-
 navbar-library =
     .label = لائبریری
     .tooltiptext = سابقاتیں، محفوظ شدہ بک مارک، اور بھی مزید دکھائے
-
 navbar-search =
     .title = تلاش
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = براؤزر ٹیبز
-
 tabs-toolbar-new-tab =
     .label = نیا ٹیب
-
 tabs-toolbar-list-all-tabs =
     .label = تمام ٹیب دکھائیں
     .tooltiptext = تمام ٹیب دکھائیں
@@ -667,19 +629,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } نے اس صفحہ کو خودکار لوڈ ہونے سے روکا۔
 refresh-blocked-redirect-label = { -brand-short-name } نے اس پیج کو خودکار طور پر دوسرے پیج پر جانے سے روکا۔
-
 refresh-blocked-allow =
     .label = اجازت دیں
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -708,7 +670,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
