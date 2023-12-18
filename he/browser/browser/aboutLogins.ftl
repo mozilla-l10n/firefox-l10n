@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = ייבוא מדפדפן
 about-logins-menu-menuitem-import-from-a-file = ייבוא מקובץ…
 about-logins-menu-menuitem-export-logins = ייצוא כניסות…
 about-logins-menu-menuitem-remove-all-logins = הסרת כל הכניסות…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = ייצוא ססמאות…
 about-logins-menu-menuitem-remove-all-logins2 = הסרת כל הססמאות…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = תהית איפה הכניסות 
 about-logins-login-intro-heading-logged-in = לא נמצאו כניסות מסונכרנות.
 login-intro-description = אם שמרת את הכניסות שלך ל־{ -brand-product-name } במכשיר אחר, כך ניתן לקבל אותן כאן:
 login-intro-instructions-fxa = יש ליצור חשבון או להתחבר ל{ -fxaccount-brand-name(case: "the") } שלך במכשיר שבו שמורות הכניסות שלך.
+about-logins-login-intro-heading-message = שמירת הססמאות שלך במקום בטוח
 login-intro-instructions-fxa2 = יש ליצור חשבון או להתחבר לחשבון שלך במכשיר שבו שמורות הכניסות שלך.
 login-intro-instructions-fxa-settings = יש לעבור להגדרות > סנכרון > הפעלת סנכרון… > יש לבחור בתיבת הסימון של כניסות וססמאות.
 login-intro-instructions-fxa-passwords-help = יש לבקר ב<a data-l10n-name="passwords-help-link">תמיכה עבור ססמאות</a> לקבלת עזרה נוספת.
