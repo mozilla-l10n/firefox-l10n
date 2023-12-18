@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = સંગ્રહો
     .accesskey = s
+password-manager-save-password-button-never =
+    .label = ક્યારેય સાચવો નહીં
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = અપડેટ કરો
     .accesskey = U
