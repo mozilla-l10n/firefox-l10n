@@ -84,18 +84,17 @@ urlbar-canvas-blocked =
     .tooltiptext = திரை தரவு எடுப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.
 urlbar-midi-blocked =
     .tooltiptext = இந்த தளத்தில் MIDI அணுகலை முடக்கியுள்ளீர்கள்.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = இப்புத்தகக்குறியைத் தொகு ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = பக்கத்தைப் புத்தகக்குறியிடு ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -110,14 +109,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = தேடல் அமைவுகளை மாற்று
-
 search-one-offs-context-open-new-tab =
     .label = புதிய கீற்றில் தேடு
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = இயல்புநிலை தேடும் பொறியாக அமை
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -153,7 +150,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = சேமிக்கும்பொருட்டு தொகுப்பதைக் காண்பி
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -170,7 +166,6 @@ identity-passive-loaded = இந்த பக்கத்தின் சில 
 identity-active-loaded = நீங்கள் இப்பக்கத்தில் பாதுகாப்பை முடக்கிவிட்டீர்கள்.
 identity-weak-encryption = இப்பக்கம் பாதுகாப்பற்ற மறைகுறியாக்கத்தைப் பயன்படுத்துகிறது.
 identity-insecure-login-forms = இப்பக்கத்திற்கு வரும் உள்நுழைவுகள் தாக்கப்படலாம்.
-
 identity-permissions-reload-hint = மாற்றங்களைச் செயற்படுத்த பக்கத்தை மீளேற்று.
 identity-clear-site-data =
     .label = நினைவிகளையும் தள தரவையும் துடை…
@@ -226,16 +221,16 @@ popup-all-windows-shared = திரையில் பார்வையில�
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = மூடுக
 urlbar-placeholder =
     .placeholder = சொல்லைத் தேடுங்கள் அல்லது முகவரியை உள்ளிடுங்கள்
-
 urlbar-switch-to-tab =
     .value = கீற்றுக்கு மாற்று:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = நீட்சிகள்:
-
 urlbar-go-button =
     .tooltiptext = இடப் பட்டையில் முகவரிக்கு செல்லவும்
 urlbar-page-action-button =
@@ -281,20 +276,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> தற்பொழுது முழுத்திரையில்
 fullscreen-warning-no-domain = இவ்வாணம் தற்பொழுது முழுத்திரையில் உள்ளது
-
-
 fullscreen-exit-button = முழுத்திரையிலிருந்து வெளியேறுக (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = முழுத்திரையிலிருந்து வெளியேறுக (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> உங்கள் சுட்டியைக் கட்டுப்படுத்துகிறது. கட்டுப்பாட்டை எடுக்க Esc விசையை அழுத்தவும்.
 pointerlock-warning-no-domain = இந்த ஆவணம் உங்கள் சுட்டியைக் கட்டுப்பாட்டில் வைத்திருக்கிறது. கட்டுப்பாட்டைத் திரும்ப எடுக்க Esc விசையை அழுத்தவும்.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -338,7 +327,6 @@ bookmarks-search =
     .label = புத்தகக்குறிகளைத் தேடு
 bookmarks-tools =
     .label = புத்தக்குறியிடும் கருவிகள்
-
 bookmarks-toolbar-menu =
     .label = புத்தகக்குறி கருவிப்பட்டை
 bookmarks-toolbar-placeholder =
@@ -362,27 +350,22 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = கருவிப்பட்டையை விருப்பமை...
     .accesskey = C
-
 toolbar-button-email-link =
     .label = மடல்
     .tooltiptext = இப்பக்க தொடுப்பை மின்னஞ்சல் செய்
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = சேமி
     .tooltiptext = இந்தப் பக்கத்தை சேமி ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = திற
     .tooltiptext = கோப்பினைத் திற ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = ஒத்திசைவு
     .tooltiptext = பிற சாதனங்களிலிருந்து கீற்றுகளைக் காட்டு
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -396,9 +379,6 @@ eme-notifications-drm-content-playing = இந்த தளத்தில் �
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -410,7 +390,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost }க்கு பாப்பப்களை அனுமதி
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost }க்கு பாப்பப்களை தடு
     .accesskey = p
@@ -432,36 +411,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = பதிவிறக்கங்கள்
-
 navbar-overflow =
     .tooltiptext = இதர கருவிகள்...
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = அச்சிடு
     .tooltiptext = இப்பக்கத்தை அச்சிடு... ({ $shortcut })
-
 navbar-home =
     .label = இல்லம்
     .tooltiptext = { -brand-short-name } அகப்பக்கம்
-
 navbar-library =
     .label = தரவகம்
     .tooltiptext = வரலாறு, சேமித்த புத்தகக்குறிகள், மற்றும் பலவற்றைப் பார்
-
 navbar-search =
     .title = தேடு
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = உலாவி கீற்றுகள்
-
 tabs-toolbar-new-tab =
     .label = புதிய கீற்று
-
 tabs-toolbar-list-all-tabs =
     .label = அனைத்து கீற்றுகளையும் பட்டியலிடு
     .tooltiptext = அனைத்து கீற்றுகளையும் பட்டியலிடு
@@ -486,19 +457,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } தானாக மீளேற்றப்படுவதிலிருந்து இந்தப் பக்கத்தில் தடுக்கிறது.
 refresh-blocked-redirect-label = { -brand-short-name } தானாக வேறு பக்கத்திற்குச் செல்வதிலிருந்து தடுக்கிறது.
-
 refresh-blocked-allow =
     .label = அனுமதி
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -526,7 +497,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
