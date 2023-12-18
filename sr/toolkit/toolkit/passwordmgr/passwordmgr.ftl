@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Сачувај
     .accesskey = С
+password-manager-save-password-button-never =
+    .label = Никад не чувај
+    .accesskey = е
 password-manager-password-password-button-allow =
     .label = Ажурирај
     .accesskey = А
