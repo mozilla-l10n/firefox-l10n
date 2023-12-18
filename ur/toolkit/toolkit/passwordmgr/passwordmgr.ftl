@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = محفوظ کریں
     .accesskey = م
+password-manager-save-password-button-never =
+    .label = کبھی بھی محفوظ نہ کریں
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = تازہ کاری کریں
     .accesskey = U
