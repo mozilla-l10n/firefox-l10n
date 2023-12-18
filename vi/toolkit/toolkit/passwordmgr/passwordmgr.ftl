@@ -11,6 +11,9 @@ password-manager-save-password-message = Lưu mật khẩu cho { $host }?
 password-manager-save-password-button-allow =
     .label = Lưu
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Không bao giờ lưu
+    .accesskey = e
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Cập nhật mật khẩu cho { $host }?
