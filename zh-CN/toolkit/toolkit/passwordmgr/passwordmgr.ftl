@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = 保存
+    .accesskey = S
 password-manager-password-password-button-allow =
     .label = 更新
     .accesskey = U
+password-manager-update-password-button-deny =
+    .label = 不更新
+    .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = 无用户名
+password-manager-toggle-password =
+    .label = 显示密码
+    .accesskey = h
 password-manager-confirm-password-change = 确认更改密码
+password-manager-select-username = 选择要更新的登录信息：
