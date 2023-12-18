@@ -332,6 +332,10 @@ about-logins-confirm-export-dialog-title = Pśizjawjenja a gronidła eksportěro
 about-logins-confirm-export-dialog-message = Wašo gronidła budu se ako cytajobny tekst składowaś (na pś. BadP@ass0rd), togodla móžo kuždy, kótaryž móžo eksportěrowanu dataju wócyniś, je wiźeś.
 about-logins-confirm-export-dialog-confirm-button = Eksportěrowaś…
 about-logins-confirm-export-dialog-title2 = Notica wó eksportěrowanju gronidłow
+about-logins-confirm-export-dialog-message2 =
+    Gaž eksportěrujośo, se waše gronidło do dataje z cytajobnym tekstom składuju.
+    Gaž sćo wužył dataju, pórucamy ju wulašowaś, až druge, kótarež toś ten rěd wužywaju, njeby wiźeli waše gronidła.
+about-logins-confirm-export-dialog-confirm-button2 = Z eksportom pókšacowaś
 about-logins-alert-import-title = Importěrowanje dokóńćone
 about-logins-alert-import-message = Nadrobne importowe zespominanje pokazaś
 confirm-discard-changes-dialog-title = Njeskłaźone změny zachyśiś?
@@ -373,6 +377,11 @@ about-logins-export-file-picker-title = Dataju pśizjawjenjow eksportěrowaś
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Gronidła z { -brand-short-name } eksportěrowaś
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = gronidła.csv
 about-logins-export-file-picker-export-button = Eksportěrowaś
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
