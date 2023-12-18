@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Gorde
     .accesskey = G
+password-manager-save-password-button-never =
+    .label = Ez gorde inoiz
+    .accesskey = z
 password-manager-password-password-button-allow =
     .label = Eguneratu
     .accesskey = E
