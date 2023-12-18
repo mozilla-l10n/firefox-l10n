@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importera från en anna
 about-logins-menu-menuitem-import-from-a-file = Importera från en fil…
 about-logins-menu-menuitem-export-logins = Exportera inloggningar...
 about-logins-menu-menuitem-remove-all-logins = Ta bort alla inloggningar…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Exportera lösenord…
 about-logins-menu-menuitem-remove-all-logins2 = Ta bort alla lösenord…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Letar du efter dina sparade inlog
 about-logins-login-intro-heading-logged-in = Inga synkroniserade inloggningar hittades.
 login-intro-description = Om du sparat dina inloggningar i { -brand-product-name } på en annan enhet, så här får du dem hit:
 login-intro-instructions-fxa = Skapa eller logga in på ditt { -fxaccount-brand-name } på enheten där dina inloggningar sparas.
+about-logins-login-intro-heading-message = Spara dina lösenord på en säker plats
 login-intro-instructions-fxa2 = Skapa eller logga in på ditt konto på enheten där dina inloggningar sparas.
 login-intro-instructions-fxa-settings = Gå till Inställningar > Synkronisering > Aktivera synkronisering… Markera kryssrutan Inloggningar och lösenord.
 login-intro-instructions-fxa-passwords-help = Besök <a data-l10n-name="passwords-help-link">lösenordssupport</a> för mer hjälp.
