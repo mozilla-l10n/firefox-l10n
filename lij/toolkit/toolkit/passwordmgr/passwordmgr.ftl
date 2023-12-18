@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Sarva
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = No sarvâ mai
+    .accesskey = a
 password-manager-password-password-button-allow =
     .label = Agiorna
     .accesskey = A
