@@ -5,7 +5,17 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Salvar
+    .accesskey = S
 password-manager-password-password-button-allow =
     .label = Atualizar
     .accesskey = u
+password-manager-update-password-button-deny =
+    .label = Não atualizar
+    .accesskey = N
+password-manager-toggle-password =
+    .label = Mostra senha
+    .accesskey = M
 password-manager-confirm-password-change = Confirmar nova senha
+password-manager-select-username = Selecionar qual conta de acesso atualizar:
