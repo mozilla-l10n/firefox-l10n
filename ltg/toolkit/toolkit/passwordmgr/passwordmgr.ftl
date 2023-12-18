@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Saglobuot
+    .accesskey = S
 password-manager-password-password-button-allow =
     .label = Atjaunynuot
     .accesskey = U
+password-manager-update-password-button-deny =
+    .label = Naatjaunynuot
+    .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = No username
+password-manager-toggle-password =
+    .label = Ruodeit paroli
+    .accesskey = r
 password-manager-confirm-password-change = Apstyprynojit paroles maiņu
+password-manager-select-username = Izavielit kura konta datus atjaunynuot:
