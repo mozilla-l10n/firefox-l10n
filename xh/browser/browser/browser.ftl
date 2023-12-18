@@ -68,12 +68,10 @@ urlbar-screen-blocked =
     .tooltiptext = Uyibhlokile le webhusayithi ekwabelaneni ngesikrini sakho.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ulubhlokile ugcino oluqhubekayo lwedatha kule webhusayithi.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Hlela le bhukhmakhi ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -95,14 +93,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Tshintsha iisethingi zokukhangela
-
 search-one-offs-context-open-new-tab =
     .label = Khangela KweNtsha Nethebhu
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Seta Ibe Ziinjini Ezisisiseko Zokukhangela
     .accesskey = Z
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -134,7 +130,6 @@ identity-passive-loaded = Iinxalenye zeli phepha azikhuselekangae (njengemifanek
 identity-active-loaded = Ulucimile ukhuseleko kweli phepha.
 identity-weak-encryption = Eli phepha lisebenzisa ukukhowuda okubuthathaka.
 identity-insecure-login-forms = Iiogini ezifakwe kweli phepha zinokuba sengozini.
-
 identity-permissions-reload-hint = Kusenokufuneka uphinde ulifake eli phepha ukuze utshintsho lubonakale.
 identity-remove-cert-exception =
     .label = Susa Ezikhethekileyo
@@ -188,16 +183,16 @@ popup-all-windows-shared = Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Vala
 urlbar-placeholder =
     .placeholder = Khangela okanye ngenisa idilesi
-
 urlbar-switch-to-tab =
     .value = Tshintshela kwithebhu:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Izolulo
-
 urlbar-go-button =
     .tooltiptext = Yiya kwidilesi kwibha yendawo
 urlbar-page-action-button =
@@ -243,20 +238,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ngoku siskrini esipheleleyo
 fullscreen-warning-no-domain = Olu xwebhu ngoku lusiskrini esipheleleyo
-
-
 fullscreen-exit-button = Phuma KwiSkrini Esipheleleyo (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Phuma KwiSkrini Esipheleleyo (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ilawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.
 pointerlock-warning-no-domain = Olu xwebhu lulawula ipoyinta yakho. Cofa uEsc ukuze uphinde uthathe ulawulo.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -278,7 +267,6 @@ bookmarks-mobile-bookmarks-menu =
 
 bookmarks-search =
     .label = Khangela iiBhukhmakhi
-
 bookmarks-toolbar-menu =
     .label = Ithulbha yebhukhmakhi
 bookmarks-toolbar-placeholder =
@@ -300,23 +288,19 @@ bookmarks-toolbar-placeholder-button =
 toolbar-button-email-link =
     .label = Ikhonkco le-imeyili
     .tooltiptext = Thumela ngeimeyile ikhonkco kweli khasi
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Gcina iphepha
     .tooltiptext = Gcina eli khasi ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Vula Ifayile
     .tooltiptext = Vula ifayile ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Iithebhu Ezingqamanisiweyo
     .tooltiptext = Bonisa iithebhu ezivela kwezinye izixhobo
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -330,9 +314,6 @@ eme-notifications-drm-content-playing = Enye into evakalayo okanye ividiyo kule 
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -344,7 +325,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Vumela okuzivelelayo { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Vumela okuzivelelayo { $uriHost }
     .accesskey = p
@@ -366,28 +346,22 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Okukhutshelwayo
-
 navbar-overflow =
     .tooltiptext = Izixhobo ezingakumbi…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Printa
     .tooltiptext = Printa eli phepha… ({ $shortcut })
-
 navbar-search =
     .title = Khangela
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Iithebhu zokubhrawuza
-
 tabs-toolbar-new-tab =
     .label = thebhu entsha
-
 tabs-toolbar-list-all-tabs =
     .label = Dwelisa zonke iithebhu
     .tooltiptext = Dwelisa zonke iithebhu
@@ -412,19 +386,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ithintele eli phepha ekukhupheleni ngokuzenzekela.
 refresh-blocked-redirect-label = { -brand-short-name } ithintele eli phepha ekuyeni kwelinye iphepha ngokuzenzekelayo.
-
 refresh-blocked-allow =
     .label = Vumela
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -452,7 +426,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
