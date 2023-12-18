@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Sàbhail
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Na sàbhail idir
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = Ùraich
     .accesskey = U
@@ -19,4 +22,5 @@ password-manager-no-username-placeholder = Gun ainm-cleachdaiche
 password-manager-toggle-password =
     .label = Seall am facal-faire
     .accesskey = h
+password-manager-confirm-password-change = Dearbh atharrachadh an fhacail-fhaire
 password-manager-select-username = Tagh an login a thèid ùrachadh:
