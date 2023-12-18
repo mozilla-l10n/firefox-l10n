@@ -85,18 +85,17 @@ urlbar-canvas-blocked =
     .tooltiptext = Anda telah menyekat ekstraksi data kanvas untuk laman web ini.
 urlbar-midi-blocked =
     .tooltiptext = Anda telah menyekat akses MIDI untuk laman web ini.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit tandabuku ini ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Tandabuku halaman Ini ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -111,14 +110,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah tetapan carian
-
 search-one-offs-context-open-new-tab =
     .label = Cari dalam Tab Baru
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Tetapkan sebagai Enjin Carian Piawai
     .accesskey = P
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -150,7 +147,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Papar editor apabila menyimpan
     .accesskey = P
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -167,7 +163,6 @@ identity-passive-loaded = Sebahagian halaman ini tidak selamat (contohnya imej).
 identity-active-loaded = Anda telah menyahdayakan perlindungan untuk halaman ini.
 identity-weak-encryption = Halaman ini menggunakan enkripsi yang lemah.
 identity-insecure-login-forms = Log masuk yang dimasukkan dalam halaman ini boleh dikompromi.
-
 identity-permissions-reload-hint = Anda mungkin perlu memuat semula halaman supaya perubahan ini dilaksanakan.
 identity-clear-site-data =
     .label = Buang Kuki dan Data Laman…
@@ -223,21 +218,20 @@ popup-all-windows-shared = Semua tetingkap yang kelihatan pada skrin anda akan d
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Tutup
 urlbar-placeholder =
     .placeholder = Cari atau masukkan alamat
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cari dengan { $name } atau masukkan alamat
-
 urlbar-switch-to-tab =
     .value = Tukar ke tab:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ekstensi:
-
 urlbar-go-button =
     .tooltiptext = Pergi ke alamat dalam Bar Lokasi
 urlbar-page-action-button =
@@ -283,20 +277,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kini skrin penuh
 fullscreen-warning-no-domain = Dokumen ini skrin penuh
-
-
 fullscreen-exit-button = Keluar dari Skrin Penuh (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Keluar dari Skrin Penuh (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> mempunyai kawalan ke atas penunjuk anda. Tekan Esc untuk mengambil kembali kawalan.
 pointerlock-warning-no-domain = Dokumen ini mempunyai kawalan ke atas penunjuk anda. Tekan Esc untuk mengambil kembali kawalan.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -340,7 +328,6 @@ bookmarks-search =
     .label = Cari Tandabuku
 bookmarks-tools =
     .label = Alatan Tandabuku
-
 bookmarks-toolbar-menu =
     .label = Bar alatan Tandabuku
 bookmarks-toolbar-placeholder =
@@ -364,27 +351,22 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = Penyesuaian Bar Alatan…
     .accesskey = P
-
 toolbar-button-email-link =
     .label = E-mel Pautan
     .tooltiptext = E-mel pautan ke halaman ini
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Simpan Halaman
     .tooltiptext = Simpan halaman ini ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Buka Fail
     .tooltiptext = Buka fail ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Tab Sync
     .tooltiptext = Papar tab dari peranti lain
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -398,9 +380,6 @@ eme-notifications-drm-content-playing = Beberapa audio atau video pada laman ini
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -412,7 +391,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Izinkan popup untuk { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Sekat popup untuk { $uriHost }
     .accesskey = p
@@ -434,36 +412,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Muat turun
-
 navbar-overflow =
     .tooltiptext = Alatan seterusnya…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Cetak
     .tooltiptext = Cetak laman ini… ({ $shortcut })
-
 navbar-home =
     .label = Laman
     .tooltiptext = Laman { -brand-short-name }
-
 navbar-library =
     .label = Pustaka
     .tooltiptext = Papar sejarah, tandabuku yang disimpan dan banyak lagi
-
 navbar-search =
     .title = Cari
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Tab pelayar
-
 tabs-toolbar-new-tab =
     .label = Tab Baru
-
 tabs-toolbar-list-all-tabs =
     .label = Senarai semua tab
     .tooltiptext = Senarai semua tab
@@ -488,19 +458,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } menghalang halaman ini daripada dimuatkan secara automatik.
 refresh-blocked-redirect-label = { -brand-short-name } menghalang halaman ini daripada dialihkan ke halaman lain secara automatik.
-
 refresh-blocked-allow =
     .label = Izinkan
     .accesskey = I
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -528,7 +498,6 @@ popup-warning-button =
             [windows] P
            *[other] K
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
