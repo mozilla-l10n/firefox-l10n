@@ -201,6 +201,7 @@ about-webrtc-custom-webrtc-configuration-heading = WebRTC oguerohoryvéva poruh�
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-hide-msg = Eñomi ñemboheko poruhára omoambuepyre
 
 ##
 
