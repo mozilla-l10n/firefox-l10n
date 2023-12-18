@@ -88,18 +88,17 @@ urlbar-popup-blocked =
     .tooltiptext = Imate blokirane pop-up prozore za ovu web stranicu.
 urlbar-canvas-blocked =
     .tooltiptext = Blokirali ste ekstrakciju canvas podataka za ovu web stranicu.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Uredi ovu zabilješku ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Zabilježi ovu stranicu ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -114,21 +113,18 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Promijeni postavke za pretragu
-
 search-one-offs-context-open-new-tab =
     .label = Traži u novom tabu
     .accesskey = t
 search-one-offs-context-set-as-default =
     .label = Postavi kao glavni pretraživač
     .accesskey = p
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -158,7 +154,6 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Prikaži editor prilikom spašavanja
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -184,7 +179,6 @@ identity-passive-loaded = Dijelovi ove stranice nisu sigurni (poput slika).
 identity-active-loaded = Onemogućili ste zaštitu na ovoj stranici.
 identity-weak-encryption = Ova stranica koristi slabu enkripciju.
 identity-insecure-login-forms = Prijave unešene na ovoj stranici mogle bi biti kompromitovane.
-
 identity-permissions-reload-hint = Možda ćete morati ponovo učitati stranicu radi primjene izmjena.
 identity-remove-cert-exception =
     .label = Ukloni izuzetak
@@ -238,20 +232,20 @@ popup-all-windows-shared = Svi vidljivi prozori na vašem ekranu će biti podije
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Zatvori
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Unesite termin za pretragu ili adresu
-
 urlbar-permissions-granted =
     .tooltiptext = Ovoj stranici ste dodijelili dodatne dozvole.
 urlbar-switch-to-tab =
     .value = Prebaci se na tab:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Proširenje:
-
 urlbar-go-button =
     .tooltiptext = Idi na adresu upisanu u adresnoj traci
 urlbar-page-action-button =
@@ -297,20 +291,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> je sad preko cijelog ekrana
 fullscreen-warning-no-domain = Ovaj dokument je prikazan preko cijelog ekrana
-
-
 fullscreen-exit-button = Izađite iz cijelog ekrana (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Izađite iz cijelog ekrana (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ima kontrolu nad vašim pointerom. Pritisnite Esc da povratite kontrolu.
 pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad vašim pointerom. Pritisnite Esc da povratite kontrolu.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -354,7 +342,6 @@ bookmarks-search =
     .label = Pretraži zabilješke
 bookmarks-tools =
     .label = Alati za zabilježavanje
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -391,31 +378,25 @@ toolbar-settings-button =
             [macos] Otvori postavke ({ $shortcut })
            *[other] Otvori postavke
         }
-
 toolbar-overflow-customize-button =
     .label = Prilagodi alatnu traku…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = Pošalji link emailom
     .tooltiptext = Pošalji link na ovu stranicu putem emaila
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Spasi stranicu
     .tooltiptext = Spasi ovu stranicu ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Otvori fajl
     .tooltiptext = Otvori fajl ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Sinhronizovani tabovi
     .tooltiptext = Prikaži tabove s ostalih uređaja
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -429,9 +410,6 @@ eme-notifications-drm-content-playing = Neki audio ili video sadržaji na ovoj s
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -443,7 +421,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Dozvoli pop-upe za { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Blokiraj pop-upe za { $uriHost }
     .accesskey = p
@@ -453,7 +430,6 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne prikazuj ovu poruku kada su pop-upi blokirani
     .accesskey = D
-
 picture-in-picture-hide-toggle =
     .label = Sakrij preklop sa slike u sliku
     .accesskey = H
@@ -472,35 +448,27 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigacija
-
 navbar-downloads =
     .label = Preuzimanja
-
 navbar-overflow =
     .tooltiptext = Više alata…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Štampaj
     .tooltiptext = Printaj ovu stranicu… ({ $shortcut })
-
 navbar-library =
     .label = Biblioteka
     .tooltiptext = Prikaži historiju, spašene zabilješke, i više
-
 navbar-search =
     .title = Pretraga
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Tabovi browsera
-
 tabs-toolbar-new-tab =
     .label = Novi tab
-
 tabs-toolbar-list-all-tabs =
     .label = Izlistaj sve tabove
     .tooltiptext = Izlistaj sve tabove
@@ -525,19 +493,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } je spriječio ovu stranicu da se automatski osvježi.
 refresh-blocked-redirect-label = { -brand-short-name } je spriječio ovu stranicu da automatski preusmjeri na drugu stranicu.
-
 refresh-blocked-allow =
     .label = Dozvoli
     .accesskey = D
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -567,7 +535,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
