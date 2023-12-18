@@ -197,10 +197,13 @@ about-webrtc-configuration-element-provided = Me’ẽha
 about-webrtc-configuration-element-not-provided = Me’ẽ’ỹva
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = WebRTC oguerohoryvéva poruhára moĩmbyre
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = WebRTC ñemboheko poruhára omoambuepyre
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-show-msg = Ehechauka ñemboheko poruhára omoambuepyre
 about-webrtc-user-modified-configuration-hide-msg = Eñomi ñemboheko poruhára omoambuepyre
 
 ##
