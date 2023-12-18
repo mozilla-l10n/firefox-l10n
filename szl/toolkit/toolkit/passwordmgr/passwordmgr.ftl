@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Spamiyntej
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Nigdy niy spamiyntuj
+    .accesskey = z
 password-manager-password-password-button-allow =
     .label = Aktualizuj
     .accesskey = A
