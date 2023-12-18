@@ -19,7 +19,6 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } Navegaçion privâ
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Navegaçion privâ
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,13 +38,11 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — Navegaçion privâ
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Navegaçion privâ
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Navegaçion privâ
@@ -102,7 +99,6 @@ urlbar-search-tips-confirm-short = Ò capio!
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Conseggi:
-
 urlbar-result-menu-button =
     .title = Arvi menû
 urlbar-result-menu-button-feedback = Comento
@@ -152,12 +148,10 @@ urlbar-canvas-blocked =
     .tooltiptext = Ti æ blocòu l'estaçion dæti canvas pe sto scito.
 urlbar-midi-blocked =
     .tooltiptext = Ti æ blocòu l'acesso MIDI pe sto scito.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Cangia sto segnalibbro ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -186,24 +180,20 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Sta vòtta çerca con:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cangia inpostaçioin de riçerca
-
 search-one-offs-context-open-new-tab =
     .label = Çerca inte neuvo feuggio
     .accesskey = n
 search-one-offs-context-set-as-default =
     .label = Inpòsta comme motô de riçerca predefinio
     .accesskey = m
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -230,50 +220,37 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Amia conponenti azonti
 quickactions-cmd-addons2 = Conponenti azonti
-
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gestisci segnalibbri
 quickactions-cmd-bookmarks = segnalibbri
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Scancella Stöia
 quickactions-cmd-clearhistory = scancella stöia
-
 # Opens about:downloads page
 quickactions-downloads2 = Mostra scaregamenti
 quickactions-cmd-downloads = scaregamenti
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestisci estenscioin
 quickactions-cmd-extensions = estenscioin
-
 # Opens the devtools web inspector
 quickactions-inspector2 = Arvi Strumenti do svilupatô
-
 quickactions-cmd-plugins = Plugin
-
 # Opens the print dialog
 quickactions-print2 = Stanpa pagina
 quickactions-cmd-print = stanpa
-
 # Opens a new private browsing window
 quickactions-private2 = Arvi barcon privòu
 quickactions-cmd-private = navegaçion privâ
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Repiggia { -brand-short-name }
 quickactions-cmd-refresh = repiggia
-
 # Restarts the browser
 quickactions-restart = Arvi torna { -brand-short-name }
 quickactions-cmd-restart = arvi torna
-
 # Opens the screenshot tool
 quickactions-screenshot3 = Fanni föto do schermo
 quickactions-cmd-screenshot = föto do schermo
-
 quickactions-cmd-update = agiorna
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Mostra sorgente da pagina
 
@@ -294,7 +271,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Fanni vedde l'editô quande sarvo
     .accesskey = F
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -316,14 +292,11 @@ identity-passive-loaded = Quarche elemento da pagina o no l'é seguo (prezempio 
 identity-active-loaded = A proteçion a l'é dizativâ pe sta pagina.
 identity-weak-encryption = Sta pagina a deuvia na cifratua debole.
 identity-insecure-login-forms = I acessi a sta pagina porieivan ese vulnerabili.
-
 identity-https-only-dropdown-on =
     .label = Açendi
 identity-https-only-dropdown-off =
     .label = Asmòrta
-
 identity-permissions-storage-access-learn-more = Atre informaçioin
-
 identity-permissions-reload-hint = Peu dase che ti devi arvî torna a pagina pe vedde i cangiamenti.
 identity-clear-site-data =
     .label = Scancella cookie e dæti di sciti…
@@ -400,23 +373,22 @@ sharing-warning-proceed-to-tab =
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Særa
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Scrivi indirisso ò iniçia riçerca
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Çerca con { $name } ò scrivi indirisso
-
 urlbar-switch-to-tab =
     .value = Vanni a-o feuggio:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estenscioin:
-
 urlbar-go-button =
     .tooltiptext = Vanni a l'indirisso in sciâ bara di indirissi
 urlbar-page-action-button =
@@ -470,20 +442,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> o l'é mostrou a tutto schermo
 fullscreen-warning-no-domain = Sto documento o l'é mostrou a tutto schermo
-
-
 fullscreen-exit-button = Sciòrti da a tutto schermo (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Sciòrti da sa tutto schermo (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> o l'à o contròllo do teu pontatô. Sciacca ESC pe pigiâ torna o controllo.
 pointerlock-warning-no-domain = Sto documento o l'à o contròllo do teu pontatô. Sciacca ESC pe pigiâ torna o controllo.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -527,7 +493,6 @@ bookmarks-search =
     .label = Çerca segnalibbri
 bookmarks-tools =
     .label = Atressi di segnalibbri
-
 bookmarks-toolbar-menu =
     .label = Bara di segnalibbri
 bookmarks-toolbar-placeholder =
@@ -554,27 +519,22 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = Personaliza a bara di atressi…
     .accesskey = P
-
 toolbar-button-email-link =
     .label = Manda colegamento
     .tooltiptext = Manda colegamento a sta pagina pe email
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Sarva pagina
     .tooltiptext = Sarva sta pagina ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Arvi schedaio
     .tooltiptext = Arvi schedaio ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Feuggi scincronizæ
     .tooltiptext = Fanni vedde feuggi da n'atro aparato
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -586,9 +546,6 @@ toolbar-button-new-private-window =
 eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto scito deuvia software DRM. Porieivan esighe de limitaçioin a-e açioin pe l’utente in { -brand-short-name }.
 
 ## Password save/update panel
-
-
-## Add-on removal warning
 
 
 ##
@@ -605,7 +562,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Permetti i pop-up pe { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Blòcca i pop-up pe { $uriHost }
     .accesskey = p
@@ -627,36 +583,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Descaregamenti
-
 navbar-overflow =
     .tooltiptext = Atri atressi…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Stanpa
     .tooltiptext = Stanpa sta pagina… ({ $shortcut })
-
 navbar-home =
     .label = Pagina prinçipâ
     .tooltiptext = Pagina prinçipâ de { -brand-short-name }
-
 navbar-library =
     .label = Libraia
     .tooltiptext = Fanni vedde stöia, segnalibbri sarvæ e atro
-
 navbar-search =
     .title = Riçerca
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Feuggi do navegatô
-
 tabs-toolbar-new-tab =
     .label = Neuvo feuggio
-
 tabs-toolbar-list-all-tabs =
     .label = Lista de tutti i feuggi
     .tooltiptext = Lista de tutti i feuggi
@@ -681,19 +629,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } o l'inpedisce o caregamento aotomatico da pagina.
 refresh-blocked-redirect-label = { -brand-short-name } o l'inpedisce l'indirisamento aotomatico a-a atre pagine.
-
 refresh-blocked-allow =
     .label = Permetti
     .accesskey = P
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -721,7 +669,6 @@ popup-warning-button =
             [windows] I
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
