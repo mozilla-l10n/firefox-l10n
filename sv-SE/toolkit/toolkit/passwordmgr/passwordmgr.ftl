@@ -5,9 +5,26 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Spara lösenord för { $host }?
+password-manager-save-password-button-allow =
+    .label = Spara
+    .accesskey = S
+password-manager-save-password-button-never =
+    .label = Spara aldrig
+    .accesskey = a
+password-manager-update-login-add-username = Lägg till användarnamn till det sparade lösenord?
 password-manager-password-password-button-allow =
     .label = Uppdatera
     .accesskey = U
+password-manager-update-password-button-deny =
+    .label = Uppdatera inte
+    .accesskey = n
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Inget användarnamn
+password-manager-toggle-password =
+    .label = Visa lösenord
+    .accesskey = V
 password-manager-confirm-password-change = Bekräfta byte av lösenord
+password-manager-select-username = Välj vilken inloggning att uppdatera:
