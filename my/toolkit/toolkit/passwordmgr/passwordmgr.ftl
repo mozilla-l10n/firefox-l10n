@@ -5,4 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-password-password-button-allow =
+    .label = မွမ်းမံချက်
+    .accesskey = U
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = အသုံးပြုသူအမည် မပေးထားပါ
 password-manager-confirm-password-change = စကားဝှက် ပြင်ဆင်ချက်ကို အတည်ပြုပါ
