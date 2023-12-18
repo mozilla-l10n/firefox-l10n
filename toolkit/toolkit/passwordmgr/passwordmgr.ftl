@@ -20,3 +20,4 @@ password-manager-toggle-password =
     .label = Прикажи лозинку
     .accesskey = л
 password-manager-confirm-password-change = Потврди промену лозинке
+password-manager-select-username = Изаберите пријаву да се ажурира:
