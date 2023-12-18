@@ -116,11 +116,13 @@ about-logins-login-intro-heading-logged-in = Žane synchronizowane přizjewjenja
 login-intro-description = Jeli sće swoje přizjewjenja { -brand-product-name } na druhim graće składował, tak móžeće je sem přinjesć:
 login-intro-instructions-fxa = Załožće abo přizjewće so pola swojeho { -fxaccount-brand-name } na graće, hdźež waše přizjewjenja su składowane
 about-logins-login-intro-heading-message = Składujće swoje hesła na wěstym městnje
+login-intro-description2 = Wšě hesła, kotrež w { -brand-product-name } składujeće, so zaklučuja. Nimo toho rozhladujemy so za datowymi dźěrami a warnujemy was, jeli sće potrjecheny. <a data-l10n-name="breach-alert-link">Dalše informacije</a>
 login-intro-instructions-fxa2 = Załožće abo přizjewće so pola swojeho konta na graće, hdźež waše přizjewjenja su składowane.
 login-intro-instructions-fxa-settings = Dźiće k Nastajenja > Sync > Synchronizaciju zmóžnić… Wubjerće kontrolny kašćik „Přizjewjenja a hesła“.
 login-intro-instructions-fxa-passwords-help = Wopytajće <a data-l10n-name="passwords-help-link">pomoc hesłow</a> za wjace pomocy.
 about-logins-intro-browser-only-import = Jeli waše přizjewjenja su składowane w druhim wobhladowaku, móžeće <a data-l10n-name="import-link">je do{ -brand-product-name } importować</a>
 about-logins-intro-import2 = Jeli waše přizjewjenja so zwonka { -brand-product-name } składuja, móžeće <a data-l10n-name="import-browser-link">je z druheho wobhladowaka importować</a>, abo <a data-l10n-name="import-file-link">z dataje</a>
+about-logins-intro-import3 = Wubjerće plusowe znamješko horjeka, zo byšće nětko hesło přidał. Móžeće tež <a data-l10n-name="import-browser-link">hesła z druheho wobhladowaka importować</a>, abo <a data-l10n-name="import-file-link">z dataje</a>.
 
 ## Login
 
@@ -329,6 +331,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Přizjewjenja a hesła eksportować
 about-logins-confirm-export-dialog-message = Waše hesła budu so jako čitajomny tekst składować (na př. BadP@ass0rd), tohodla móže kóždy, kotryž móže eksportowanu dataju wočinić, je widźeć.
 about-logins-confirm-export-dialog-confirm-button = Eksportować…
+about-logins-confirm-export-dialog-title2 = Notica wo eksportowanju hesłow
 about-logins-confirm-export-dialog-confirm-button2 = Z eksportom pokročować
 about-logins-alert-import-title = Importowanje dokónčene
 about-logins-alert-import-message = Nadrobne importowe zjeće pokazać
