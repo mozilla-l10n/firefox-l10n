@@ -332,6 +332,9 @@ about-logins-confirm-export-dialog-title = Přizjewjenja a hesła eksportować
 about-logins-confirm-export-dialog-message = Waše hesła budu so jako čitajomny tekst składować (na př. BadP@ass0rd), tohodla móže kóždy, kotryž móže eksportowanu dataju wočinić, je widźeć.
 about-logins-confirm-export-dialog-confirm-button = Eksportować…
 about-logins-confirm-export-dialog-title2 = Notica wo eksportowanju hesłow
+about-logins-confirm-export-dialog-message2 =
+    Hdyž eksportujeće, so waše hesła do dataje z čitajomnym tekstom składuja.
+    Hdyž sće dataju dowužił, poručamy ju zhašeć, zo njebychu druzy, kotřiž tutón grat wužiwaja, waše hesła widźeli.
 about-logins-confirm-export-dialog-confirm-button2 = Z eksportom pokročować
 about-logins-alert-import-title = Importowanje dokónčene
 about-logins-alert-import-message = Nadrobne importowe zjeće pokazać
