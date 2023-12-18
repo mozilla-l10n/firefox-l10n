@@ -21,7 +21,6 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } प्राइवेट ब्रॉउजिंग
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } प्राइवेट ब्रॉउजिंग
-
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -44,13 +43,11 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — प्राइवेट ब्रॉउजिंग
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — प्राइवेट ब्रॉउजिंग
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } प्राइवेट ब्रॉउजिंग
@@ -109,7 +106,6 @@ urlbar-search-tips-confirm-short = बुझाय गेल
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = सुझाव:
-
 urlbar-result-menu-button =
     .title = मेनू खोलू
 urlbar-result-menu-button-feedback = फ़ीडबैक
@@ -143,7 +139,6 @@ urlbar-search-mode-history = इतिहास
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ई पुस्तकचिह्न संपादित करू ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -172,10 +167,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = एहि बेर, एकरा सँग ढूँढू:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = खोज सेटिंग्स बदलू
-
 search-one-offs-context-open-new-tab =
     .label = नव टैब मे खोजू
     .accesskey = T
@@ -185,14 +178,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = निजी विंडो कलेल तयशुदा खोज इंजन रूपेँ सेट करू
     .accesskey = { "" }
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -229,11 +220,9 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = एड-ऑन देखू
 quickactions-cmd-addons2 = एड-ऑन
-
 # Opens the bookmarks library window
 quickactions-bookmarks2 = पुस्तकचिहन्न प्रबंधित करू
 quickactions-cmd-bookmarks = पुस्तचिह्न
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = इतिहास मेटाबू
 quickactions-cmd-clearhistory = इतिहास मेटाबू
@@ -249,7 +238,6 @@ identity-active-blocked = { -brand-short-name } ,एहि पृष्ठ क �
 identity-passive-loaded = एहि पेज क भाग (एहि तरह क छवि रूप मे) सुरक्षित नहि अछि.
 identity-active-loaded = अहाँ ई पेज पर सुरक्षा निष्क्रिय कए देने छी.
 identity-weak-encryption = इ पृष्ठ कमजोर एन्क्रिप्शन क उपयोग करैत अछि.
-
 identity-description-insecure = एहि साइट पर अहॉंक कनेक्शन निजी नहि‍ अछि. सुचना जे अहॉं जमा करब दोसर लोग देखि‍ सकैत अछि(जेना कूट शब्द,संदेश, क्रेडिट कार्ड, इत्यादि.).
 identity-description-insecure-login-forms = ई पृष्ठ पर जे लॉगिन जानकारी अहाँ दर्ज कएने छी ओ सुरक्षित नहि अछि आओर संपीडित कएल जाए सकैछ.
 identity-description-weak-cipher-intro = एहि वेबसाइट स अहॉंक कनेक्शन कमज़ोर एन्क्रिप्शन क उपयोग करैत अछि आओर निजी नहि‍ अछि।
@@ -299,14 +287,15 @@ popup-all-windows-shared = अहाँक स्क्रीन पर सभ �
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = बन्न करू
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = खोजू अथवा पता दर्ज करू
-
 urlbar-switch-to-tab =
     .value = टैबमे जाउ:
-
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पतामे जाउ
 
@@ -349,19 +338,13 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> आब पूर्ण पटल अछि
 fullscreen-warning-no-domain = इ दस्तावेज आब पूर्ण पटल अछि
-
-
 fullscreen-exit-button = पूर्ण पटल स बाहर आउ
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = पूर्ण पटल स बाहर आउ (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> अपन सूचक पर नियंत्रण अछि. नियंत्रण फिनु सँ वापस आनै कलेल Esc बटन दाबू.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -398,23 +381,19 @@ bookmarks-toolbar-placeholder-button =
 toolbar-button-email-link =
     .label = कड़ी ईमेल करू
     .tooltiptext = एहि पृष्ट केँ कड़ी ईमेल करू
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = पृष्ठ सहेजू
     .tooltiptext = पृष्ठ ({ $shortcut }) मे सहेजू
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = फाइल खोलू
     .tooltiptext = एकटा फाइल खोलू ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = सिंक टैब
     .tooltiptext = आन उपकरण सँ टैब देखाबू
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -431,9 +410,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 panel-save-update-username = प्रयोक्तानाम
 panel-save-update-password = गुड़किल्ली
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -445,7 +421,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow pop-ups for { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Block pop-ups for { $uriHost }
     .accesskey = p
@@ -467,25 +442,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = डाउनलोड
-
 navbar-overflow =
     .tooltiptext = बेसी अओजार…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = छापू
     .tooltiptext = ई पृष्ठ छापू… ({ $shortcut })
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ब्राउजर टैब
-
 tabs-toolbar-new-tab =
     .label = नव टैब
-
 tabs-toolbar-list-all-tabs =
     .label = सभटा टैब सूचीबद्ध करू
     .tooltiptext = सभटा टैब सूचीबद्ध करू
@@ -511,19 +481,18 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ने एहि पृष्ठ केँ स्वतः लोड हए सँ रोकने अछि.
 refresh-blocked-redirect-label = { -brand-short-name } ने एहि पृष्ठ केँ दोसर पृष्ठ मे स्वतः पुनर्निर्देशित हए सँ रोकने अछि.
-
 refresh-blocked-allow =
     .label = स्वीकारू
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -540,7 +509,6 @@ popup-warning-message =
         [one] { -brand-short-name } ई साइट केँ पाप अप विंडो खोलनैसे रोकनै अछि.
        *[other] { -brand-short-name } ई साइट केँ { $popupCount } पाप अप विंडो केँ खोलबासँ रोकनै अछि.
     }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
