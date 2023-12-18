@@ -83,6 +83,7 @@ urlbar-persistent-storage-blocked =
 
 ## Page Action Context Menu
 
+
 ## Auto-hide Context Menu
 
 
@@ -104,12 +105,12 @@ search-one-offs-with-title = cheel,  chuk  tuk'
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 bookmark-panel-cancel =
     .label = Ya'sakan
     .accesskey = C
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -117,6 +118,7 @@ bookmark-panel =
     .style = min-width: 23em
 
 ## Identity Panel
+
 
 ## Window controls
 
@@ -149,6 +151,9 @@ browser-window-close-button =
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Jupa
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -164,14 +169,13 @@ browser-window-close-button =
 
 ## Reader View toolbar buttons
 
+
 ## Picture-in-Picture urlbar button
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Full Screen and Pointer Lock UI
-
-
-## Subframe crash notification
 
 
 ## Bookmarks panels, menus and toolbar
@@ -183,7 +187,9 @@ bookmarks-sidebar-content =
 ##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
 ##                         bookmarks toolbar, etc.) is visible or not.
 
+
 ##
+
 
 ## Library Panel items
 
@@ -199,22 +205,13 @@ library-bookmarks-menu =
 ## Customize Toolbar Buttons
 
 
-## More items
-
 ## EME notification panel
 
 
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
-## Remote / Synced tabs
-
-
 ##
-
 
 ui-tour-info-panel-close =
     .tooltiptext = Jupa
@@ -225,36 +222,49 @@ ui-tour-info-panel-close =
 
 ##
 
+
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+
 ##
+
 
 # Navigator Toolbox
 
 navbar-downloads =
     .label = Eq'omal ku'tzan
-
 navbar-search =
     .title = Chuka
 
 ## Infobar shown at startup to suggest session-restore
 
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+
 ## Unified extensions (toolbar) button
+
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
+
 
 ## Firefox Relay integration
 
+
 ## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
