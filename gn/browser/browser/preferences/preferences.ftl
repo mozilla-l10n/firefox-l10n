@@ -870,6 +870,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Kuaave
 preferences-relay-integration-checkbox =
     .label = Emoĩ ñanduti veve reragua’u { -relay-brand-name } emo’ã hag̃ua ne ñanduti veve kundaharape
+preferences-relay-integration-checkbox2 =
+    .label = Ere ñanduti veve rovamo’ãha { -relay-brand-name } emo’ã hag̃ua ne ñanduti veve kundaharape
+    .accesskey = r
 relay-integration-learn-more-link = Kuaave
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -878,6 +881,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Emoñepyrũ tembiapo ñongatupyre…
     .accesskey = L
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Emoĩmba poruhára réra ha ñe’ẽñemi ijeheguiete
+    .accesskey = F
 forms-saved-passwords =
     .label = Ñe’ẽñemi ñongatupyre
     .accesskey = d
@@ -919,8 +926,16 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Myanyhẽjehegui
+autofill-addresses-checkbox = Eñongatu ha emyanyhẽ kundaharape
+    .accesskey = a
 autofill-saved-addresses-button = Kundaharape ñongatupyre
     .accesskey = S
+autofill-payment-methods-checkbox-message = Eñongatu ha emyanyhẽ mba’éicha ehepyme’ẽta
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Oike kuatia’atã ñemurã ha virunohẽha
+    .accesskey = I
+autofill-saved-payment-methods-button = Mba’éicha ehepyme’ẽta ñongatupyre
+    .accesskey = v
 
 ## Privacy Section - History
 
