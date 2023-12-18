@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Enrollañ
     .accesskey = r
+password-manager-save-password-button-never =
+    .label = Na enrollañ morse
+    .accesskey = E
 password-manager-password-password-button-allow =
     .label = Hizivaat
     .accesskey = H
@@ -20,3 +23,4 @@ password-manager-toggle-password =
     .label = Diskouez ar ger-tremen
     .accesskey = D
 password-manager-confirm-password-change = Kadarnaat kemm ar ger-tremen
+password-manager-select-username = Diuzit un anv arveriad d'e hizivaat:
