@@ -7,3 +7,6 @@
 
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Sen nome de usuario
+password-manager-toggle-password =
+    .label = Amosar contrasinal
+    .accesskey = m
