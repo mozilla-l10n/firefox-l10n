@@ -64,7 +64,6 @@ search-one-offs-context-open-new-tab =
 ## Identity Panel
 
 identity-passive-loaded = Bíe rábe afenedo ñúe íñede (jána izoi).
-
 identity-enable-mixed-content-blocking =
     .label = Rɨidite bonua
     .accesskey = R
@@ -98,9 +97,11 @@ browser-window-close-button =
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Ɨ́baide
 urlbar-placeholder =
     .placeholder = Jéno íe kúeno bíe íyano
-
 urlbar-switch-to-tab =
     .value = Jɨaɨe úitɨraɨ jóne:
 
@@ -138,9 +139,6 @@ reader-view-close-button =
 ## Full Screen and Pointer Lock UI
 
 
-## Subframe crash notification
-
-
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-sidebar-content =
@@ -172,9 +170,6 @@ bookmarks-sidebar-content =
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -198,7 +193,6 @@ ui-tour-info-panel-close =
 
 navbar-downloads =
     .label = Yúnua
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -221,13 +215,14 @@ tabs-toolbar =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
