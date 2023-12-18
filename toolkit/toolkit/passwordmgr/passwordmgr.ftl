@@ -5,9 +5,16 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Voleu desar la contrasenya per a { $host }?
 password-manager-save-password-button-allow =
     .label = Desa
     .accesskey = D
+password-manager-save-password-button-never =
+    .label = No ho desis mai
+    .accesskey = e
+password-manager-update-login-add-username = Voleu afegir el nom d’usuari a la contrasenya desada?
 password-manager-password-password-button-allow =
     .label = Actualitza
     .accesskey = A
