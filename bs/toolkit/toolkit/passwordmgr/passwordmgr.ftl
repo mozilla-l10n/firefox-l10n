@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Spasi
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Nikad ne spašavaj
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = Ažuriraj
     .accesskey = U
