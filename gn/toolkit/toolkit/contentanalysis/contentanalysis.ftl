@@ -17,3 +17,6 @@ contentanalysis-notification-title = Tetepy resa’ỹijo
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
 #   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
 contentanalysis-genericresponse-message = Pe tetepy resa’ỹijoha ombohovái { $response } mba’épe g̃uarã: { $content }
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-block-message = Nde atyguasu oiporu software mba’ekuaarã ani hag̃ua iñapañuãi ojokómava ko tetepy: { $content }.
