@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Įrašyti { $host } slaptažodį?
 password-manager-save-password-button-allow =
     .label = Įrašyti
     .accesskey = r
+password-manager-save-password-button-never =
+    .label = Niekada neįrašyti
+    .accesskey = e
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Atnaujinti { $host } slaptažodį?
+password-manager-update-login-add-username = Pridėti naudotojo vardą prie įrašyto slaptažodžio?
 password-manager-password-password-button-allow =
     .label = Atnaujinti
     .accesskey = N
