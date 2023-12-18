@@ -4,14 +4,17 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Credentziales e craes
-
 about-logins-login-filter =
     .placeholder = Chirca credentziales
     .key = F
-
 create-new-login-button =
     .title = Crea credentziale noas
-
+about-logins-page-title-name = Craes
+about-logins-login-filter2 =
+    .placeholder = Chirca craes
+    .key = C
+create-login-button =
+    .title = Agiunghe crae
 fxaccounts-sign-in-text = Otene is craes tuas pro is àteros dispositivos tuos
 fxaccounts-sign-in-sync-button = Identìfica·ti a Sync
 fxaccounts-avatar-button =
@@ -26,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importa dae un'àteru n
 about-logins-menu-menuitem-import-from-a-file = Importa dae un'archìviu...
 about-logins-menu-menuitem-export-logins = Esporta credentziales...
 about-logins-menu-menuitem-remove-all-logins = Boga·nche totu is credentziales...
+# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-remove-all-logins2 = Boga totu is craes…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Optziones
@@ -52,6 +57,21 @@ login-list-filtered-count =
         [one] { $count } de { $total } credentziale
        *[other] { $count } de { $total } credentziales
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } crae
+       *[other] { $count } craes
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } crae de { $total }
+       *[other] { $count } craes de { $total }
+    }
 login-list-sort-label-text = Assenta dae:
 login-list-name-option = Nòmine (A-Z)
 login-list-name-reverse-option = Nòmine (Z-A)
@@ -61,11 +81,14 @@ about-logins-login-list-alerts-option = Avisos
 login-list-last-changed-option = Ùrtima modìfica
 login-list-last-used-option = Ùrtimu impreu
 login-list-intro-title = Credentziales no agatadas
+login-list-intro-title2 = Nissuna crae sarvada
 login-list-intro-description = Cando sarvas una crae in { -brand-product-name }, at a aparèssere inoghe.
 about-logins-login-list-empty-search-title = Credentziales no agatadas
+about-logins-login-list-empty-search-title2 = Nissuna crae agatada
 about-logins-login-list-empty-search-description = Non b'at resurtados chi currispondent a sa chirca tua.
 login-list-item-title-new-login = Credentziale noa
 login-list-item-subtitle-new-login = Inserta is credentziales de atzessu tuas
+login-list-item-title-new-login2 = Agiunghe crae
 login-list-item-subtitle-missing-username = (nissunu nòmine utente)
 about-logins-list-item-breach-icon =
     .title = Situ web vìtima de violatzione de datos
@@ -92,6 +115,8 @@ about-logins-intro-import2 = Si is credentziales tuas sunt sarvadas a foras de {
 ## Login
 
 login-item-new-login-title = Crea credentziales noas
+# Header for adding a password
+about-logins-login-item-new-login-title = Agiunghe crae
 login-item-edit-button = Modìfica
 about-logins-login-item-remove-button = Boga
 login-item-origin-label = Indiritzu de su situ
@@ -109,6 +134,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Còpia
 login-item-copied-password-button-text = Copiadu!
 login-item-save-changes-button = Sarva is modìficas
+about-logins-login-item-save-changes-button = Sarva
 login-item-save-new-button = Sarva
 login-item-cancel-button = Annulla
 
@@ -136,24 +162,27 @@ about-logins-edit-login-os-auth-dialog-message-win = Pro modificare is credentzi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modìfica sa credentziale sarvada
-
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = modìfica sa crae sarvada
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pro bìdere sa crae tua, inserta is credentziales tuas de Windows. Custu agiudat a amparare sa seguresa de is contos tuos.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ammustra sa crae sarvada
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pro copiare sa crae tua, inserta is credentziales tuas de Windows. Custu agiudat a amparare sa seguresa de is contos tuos.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = còpia sa crae sarvada
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pro esportare is credentziales tuas, inserta cussas de Windows. Custu agiudat a amparare sa seguresa de is contos tuos.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = esporta credentziales e craes sarvadas
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = esporta is craes sarvadas
 
 ## Primary Password notification
 
@@ -167,9 +196,12 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Annulla
 confirmation-dialog-dismiss-button =
     .title = Annulla
-
 about-logins-confirm-remove-dialog-title = Boles bogare custa credentziale?
 confirm-delete-dialog-message = Custa atzione no dda podes annullare.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Boles bogare sa crae?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Custa atzione non podet èssere annullada.
 about-logins-confirm-remove-dialog-confirm-button = Boga
 
 ## Variables
@@ -181,14 +213,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Boga
        *[other] Boga·nche totu
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] 1
         [one] Eja, boga·nche custa credentziale
        *[other] Eja, boga·nche custas credentziales
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Boles bogare { $count } credentziale?
@@ -200,7 +230,6 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Custu at a bogare sa credentziale chi as sarvadu in { -brand-short-name } e puru totu is avisos subra de is violatziones chi aparessent inoghe. No as a pòdere annullare custa atzione.
        *[other] Custu at a bogare totu is credentziales chi as sarvadu in { -brand-short-name } e puru totu is avisos subra de is violatziones chi aparessent inoghe. No as a pòdere annullare custa atzione.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Boles bogare { $count } credentziale dae totu is dispositivos?
@@ -217,10 +246,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Esporta credentziales e craes
 about-logins-confirm-export-dialog-message = Is craes tuas ant a èssere sarvadas comente testu leghìbile (comente «Cr@eN0Segura»), duncas chie si siat abèrgiat s'archìviu esportadu ddas at a pòdere bìdere.
 about-logins-confirm-export-dialog-confirm-button = Esporta...
-
 about-logins-alert-import-title = Importatzione cumpletada
 about-logins-alert-import-message = Visualiza su resumu detalliadu de s'importatzione
-
 confirm-discard-changes-dialog-title = Boles iscartare is modìficas non sarvadas?
 confirm-discard-changes-dialog-message = S'ant a pèrdere totu is modìficas non sarvadas.
 confirm-discard-changes-dialog-confirm-button = Iscarta
@@ -250,7 +277,6 @@ about-logins-vulnerable-alert-learn-more-link = Àteras informatziones
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Esistet giai un'intrada pro { $loginTitle } cun custu nòmine de utente. <a data-l10n-name="duplicate-link">Boles andare a cussa intrada?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Faddina in su sarvamentu de custa crae.
 
@@ -300,13 +326,11 @@ about-logins-import-dialog-items-added =
         [one] <span>Credentziale noa agiunta:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Credentziales noas agiuntas:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Credentziale esistente atualizada:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Credentziales esistentes atualizadas:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Credentziale duplicada agatada:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importada)</span>
@@ -318,7 +342,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Faddinas:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nissuna importatzione)</span>
     }
 about-logins-import-dialog-done = Fatu
-
 about-logins-import-dialog-error-title = Faddina in s'importatzione
 about-logins-import-dialog-error-conflicting-values-title = Prus valores in cunflitu pro una credentziale ispetzìfica
 about-logins-import-dialog-error-conflicting-values-description = Pro esempru: prus nòmines utentes, craes, URL, etc. pro una credentziale ispetzìfica.
@@ -332,10 +355,8 @@ about-logins-import-dialog-error-no-logins-imported = Nissuna credentziale impor
 about-logins-import-dialog-error-learn-more = Àteras informatziones
 about-logins-import-dialog-error-try-import-again = Torra a proare s'importatzione...
 about-logins-import-dialog-error-cancel = Annulla
-
 about-logins-import-report-title = Resumu de s'importatzione
 about-logins-import-report-description = Credentziales e craes importadas a { -brand-short-name }.
-
 #
 # Variables:
 #  $number (number) - The number of the row
