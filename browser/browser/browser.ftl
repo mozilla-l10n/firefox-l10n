@@ -484,6 +484,9 @@ enable-devtools-popup-description2 = Por uzi la ŝparvojon F12, unue malfermu la
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Fermi
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
@@ -560,8 +563,6 @@ urlbar-result-action-search-w-engine = Serĉi per { $engine }
 urlbar-result-action-sponsored = Patronita
 urlbar-result-action-switch-tab = Iri al langeto
 urlbar-result-action-visit = Iri
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Malfermi la adreson en la tondujo
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Malfermi la adreson en la tondujo
 # Directs a user to press the Tab key to perform a search with the specified
