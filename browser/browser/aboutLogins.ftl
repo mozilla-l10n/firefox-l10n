@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Z druheho wobhladowaka 
 about-logins-menu-menuitem-import-from-a-file = Z dataje importować…
 about-logins-menu-menuitem-export-logins = Přizjewjenja eksportować…
 about-logins-menu-menuitem-remove-all-logins = Wšě přizjewjenja wotstronić…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Hesła eksportować…
 about-logins-menu-menuitem-remove-all-logins2 = Wšě hesła wotstronić…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -115,6 +115,7 @@ about-logins-login-intro-heading-logged-out2 = Pytaće swoje składowane přizje
 about-logins-login-intro-heading-logged-in = Žane synchronizowane přizjewjenja namakane.
 login-intro-description = Jeli sće swoje přizjewjenja { -brand-product-name } na druhim graće składował, tak móžeće je sem přinjesć:
 login-intro-instructions-fxa = Załožće abo přizjewće so pola swojeho { -fxaccount-brand-name } na graće, hdźež waše přizjewjenja su składowane
+about-logins-login-intro-heading-message = Składujće swoje hesła na wěstym městnje
 login-intro-instructions-fxa2 = Załožće abo přizjewće so pola swojeho konta na graće, hdźež waše přizjewjenja su składowane.
 login-intro-instructions-fxa-settings = Dźiće k Nastajenja > Sync > Synchronizaciju zmóžnić… Wubjerće kontrolny kašćik „Přizjewjenja a hesła“.
 login-intro-instructions-fxa-passwords-help = Wopytajće <a data-l10n-name="passwords-help-link">pomoc hesłow</a> za wjace pomocy.
@@ -328,6 +329,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Přizjewjenja a hesła eksportować
 about-logins-confirm-export-dialog-message = Waše hesła budu so jako čitajomny tekst składować (na př. BadP@ass0rd), tohodla móže kóždy, kotryž móže eksportowanu dataju wočinić, je widźeć.
 about-logins-confirm-export-dialog-confirm-button = Eksportować…
+about-logins-confirm-export-dialog-confirm-button2 = Z eksportom pokročować
 about-logins-alert-import-title = Importowanje dokónčene
 about-logins-alert-import-message = Nadrobne importowe zjeće pokazać
 confirm-discard-changes-dialog-title = Njeskładowane změny zaćisnyć?
@@ -369,6 +371,11 @@ about-logins-export-file-picker-title = Dataju přizjewjenjow eksportować
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Hesła z { -brand-short-name } eksportować
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = hesła.csv
 about-logins-export-file-picker-export-button = Eksportować
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
