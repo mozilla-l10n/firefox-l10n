@@ -5,4 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-password-password-button-allow =
+    .label = Yangilash
+    .accesskey = U
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = Foydalanuvchi nomi yo‘q
 password-manager-confirm-password-change = Parolni oʻzgartirishni tasdiqlash
