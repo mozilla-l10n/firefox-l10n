@@ -24,6 +24,8 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = 更新しない
     .accesskey = D
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = ユーザー名を入力してください
 password-manager-toggle-password =
     .label = パスワードを開示
     .accesskey = h
