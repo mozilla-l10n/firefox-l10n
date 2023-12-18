@@ -5,4 +5,15 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Spremi
+    .accesskey = S
+password-manager-password-password-button-allow =
+    .label = Dopuna
+    .accesskey = V
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = Nema korisničkog imena
+password-manager-toggle-password =
+    .label = Prikaži lozinku
+    .accesskey = r
 password-manager-confirm-password-change = Potvrdite promjenu lozinke
