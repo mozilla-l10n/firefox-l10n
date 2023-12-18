@@ -8,12 +8,17 @@
 password-manager-save-password-button-allow =
     .label = Salvar
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Nunca salvar
+    .accesskey = u
 password-manager-password-password-button-allow =
     .label = Atualizar
     .accesskey = u
 password-manager-update-password-button-deny =
     .label = Não atualizar
     .accesskey = N
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = Sem nome de usuário
 password-manager-toggle-password =
     .label = Mostra senha
     .accesskey = M
