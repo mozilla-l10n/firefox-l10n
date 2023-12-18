@@ -14,6 +14,9 @@ password-manager-save-password-button-never =
 password-manager-password-password-button-allow =
     .label = Yenilə
     .accesskey = Y
+password-manager-update-password-button-deny =
+    .label = Yeniləmə
+    .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = İstifadəçi adı yoxdur
 password-manager-toggle-password =
