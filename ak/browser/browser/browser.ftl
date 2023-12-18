@@ -92,12 +92,13 @@ browser-window-close-button =
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = To-mu
 urlbar-placeholder =
     .placeholder = Hwehwɛ anaaso kyerɛw adrɛs
-
 urlbar-switch-to-tab =
     .value = Swekye kɔ tab:
-
 urlbar-go-button =
     .tooltiptext = Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu
 
@@ -124,9 +125,6 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
-## Subframe crash notification
-
-
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-toolbar-chevron =
@@ -143,7 +141,6 @@ bookmarks-sidebar-content =
 
 bookmarks-search =
     .label = Hwewhɛ Mbukmaak
-
 bookmarks-toolbar-menu =
     .label = TuulBaa A Wɔde Sie Mbukmaak
 bookmarks-toolbar-placeholder =
@@ -169,9 +166,6 @@ bookmarks-toolbar-placeholder-button =
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -183,7 +177,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Tie mpɔpap ma { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Siw mpɔpap ano kwan ma { $uriHost }
     .accesskey = p
@@ -205,25 +198,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Ntwe
-
 navbar-overflow =
     .tooltiptext = Ntuul bio a wɔka ho…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Prente
     .tooltiptext = Prente krataafa yi… ({ $shortcut })
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Brawsa ntab
-
 tabs-toolbar-new-tab =
     .label = Tab foforo
-
 tabs-toolbar-list-all-tabs =
     .label = Kyerɛ ntab nyinara
     .tooltiptext = Kyerɛ ntab nyinara
@@ -245,11 +233,14 @@ data-reporting-notification-message = { -brand-short-name } soma data bi otomati
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } siiw krataafa yi sɛ noara bebue ne ho bio.
 refresh-blocked-redirect-label = { -brand-short-name } siiw krataafa yi sɛ ɔde ne ho bɛkɔ krataafa foforo so.
-
 refresh-blocked-allow =
     .label = Ma ho kwan
     .accesskey = A
@@ -257,13 +248,8 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 
-## Popup Notification
-
-
-## Pop-up Notification
-
-
 ## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
@@ -274,7 +260,6 @@ popup-warning-message =
         [one] { -brand-short-name } sii saet yi ano kwan sɛ ɔbebue tokura pɔpap.
        *[other] { -brand-short-name } sii saet yi ano kwan sɛ ɔbebue pɔpap ntokura { $popupCount }
     }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
