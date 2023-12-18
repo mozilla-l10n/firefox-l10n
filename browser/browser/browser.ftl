@@ -97,18 +97,17 @@ urlbar-canvas-blocked =
     .tooltiptext = Bu sayt üçün lövhə (canvas) məlumatı çıxartmanı əngəllədiniz.
 urlbar-midi-blocked =
     .tooltiptext = Bu saytın MIDI işlətməsini əngəlləmisiniz.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Bu əlfəcini redaktə et ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Bu səhifəni əlfəcinlə ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -124,10 +123,8 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Bu dəfə bununla axtarın:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Axtarış tənzimləmələrinizi dəyişdir
-
 search-one-offs-context-open-new-tab =
     .label = Yeni vərəqdə axtar
     .accesskey = v
@@ -137,7 +134,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Məxfi pəncərələr üçün əsas axtarış mühərriki olarak qur
     .accesskey = M
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -173,7 +169,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Yadda saxlarkən redaktoru göstər
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -190,7 +185,6 @@ identity-passive-loaded = Bu səhifənin bəzi hissələri (şəkillər kimi) t�
 identity-active-loaded = Bu səhifədə qorumanı söndürmüsünüz.
 identity-weak-encryption = Bu səhifə zəif şifrləmə istifadə edir.
 identity-insecure-login-forms = Bu səhifədə girilən məlumatlar oğurlana bilər.
-
 identity-permissions-reload-hint = Dəyişikliklərin işləməsi üçün səhifəni yeniləyin.
 identity-clear-site-data =
     .label = Çərəzlər və Sayt Məlumatlarını Təmizlə…
@@ -246,21 +240,20 @@ popup-all-windows-shared = Ekranınızda görünən bütün pəncərələr payla
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Qapat
 urlbar-placeholder =
     .placeholder = Ünvanı daxil et və ya axtar
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Ünvanı daxil et və ya { $name } ilə axtar
-
 urlbar-switch-to-tab =
     .value = Keçiləcək vərəq:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uzantı:
-
 urlbar-go-button =
     .tooltiptext = Ünvan Sətrindəki ünvanı aç
 urlbar-page-action-button =
@@ -314,20 +307,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> artıq tam erkandır
 fullscreen-warning-no-domain = Bu sənəd artıq tam ekrandır
-
-
 fullscreen-exit-button = Tam erkandan çıx (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tam erkandan çıx (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kursorunuzu idarə edir. İdarəni geri almaq üçün Esc düyməsinə basın.
 pointerlock-warning-no-domain = Bu sənəd kursorunuzu idarə edir. İdarəni geri almaq üçün Esc düyməsinə basın.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -371,7 +358,6 @@ bookmarks-search =
     .label = Əlfəcinlərdə axtar
 bookmarks-tools =
     .label = Əlfəcin alətləri
-
 bookmarks-toolbar-menu =
     .label = Əlfəcin paneli
 bookmarks-toolbar-placeholder =
@@ -398,27 +384,22 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = Alət Sətrini Fərdiləşdir…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = Keçidi e-poçtla göndər
     .tooltiptext = Bu səhifənin keçidini e-poçtla göndər
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Səhifəni Yadda Saxla
     .tooltiptext = Bu səhifəni yadda saxla ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Fayl Aç
     .tooltiptext = Fayl aç ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Sinxron Vərəqlər
     .tooltiptext = Digər cihazlardan olan vərəqləri göstər
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -432,9 +413,6 @@ eme-notifications-drm-content-playing = Bu saytda olan bəzi səs və ya video D
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -446,7 +424,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } avtomatik açılan pəncərələrinə icazə ver
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } üçün peyda olan pəncərələri əngəllə
     .accesskey = p
@@ -468,36 +445,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Endirilənlər
-
 navbar-overflow =
     .tooltiptext = Daha çox alət…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Çap Et
     .tooltiptext = Bu səhifəni çap et… ({ $shortcut })
-
 navbar-home =
     .label = Ev
     .tooltiptext = { -brand-short-name } Ana Səhifə
-
 navbar-library =
     .label = Kitabxana
     .tooltiptext = Tarixçəni, saxlanılmış əlfəcinləri və daha çox şeyi görün
-
 navbar-search =
     .title = Axtar
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Brauzer vərəqləri
-
 tabs-toolbar-new-tab =
     .label = Yeni vərəq
-
 tabs-toolbar-list-all-tabs =
     .label = Bütün vərəqləri siyahıla
     .tooltiptext = Bütün vərəqləri siyahıla
@@ -522,19 +491,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } bu səhifənin avtomatik yenilənməsinin qarşısını aldı.
 refresh-blocked-redirect-label = { -brand-short-name } bu səhifənin başqa bir səhifəyə yönləndirilməsinin qarşısını aldı.
-
 refresh-blocked-allow =
     .label = İcazə ver
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -566,7 +535,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
