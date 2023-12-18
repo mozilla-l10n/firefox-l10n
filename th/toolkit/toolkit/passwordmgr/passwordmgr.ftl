@@ -5,12 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = บันทึกรหัสผ่านสำหรับ { $host } หรือไม่?
 password-manager-save-password-button-allow =
     .label = บันทึก
     .accesskey = บ
 password-manager-save-password-button-never =
     .label = ไม่บันทึกเสมอ
     .accesskey = ส
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = อัปเดตรหัสผ่านสำหรับ { $host } หรือไม่
+password-manager-update-login-add-username = เพิ่มชื่อผู้ใช้ในรหัสผ่านที่บันทึกไว้หรือไม่?
 password-manager-password-password-button-allow =
     .label = อัปเดต
     .accesskey = อ
