@@ -20,3 +20,4 @@ password-manager-toggle-password =
     .label = ਪਾਸਵਰਡ ਨੂੰ ਵੇਖਾਓ
     .accesskey = h
 password-manager-confirm-password-change = ਪਾਸਵਰਡ ਨੂੰ ਬਦਲਣ ਦੀ ਪੁਸ਼ਟੀ
+password-manager-select-username = ਲਾਗਇਨ, ਜਿਸ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨਾ ਹੈ, ਚੁਣੋ:
