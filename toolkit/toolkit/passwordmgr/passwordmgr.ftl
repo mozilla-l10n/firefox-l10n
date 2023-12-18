@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Hesło za { $host } składować?
 password-manager-save-password-button-allow =
     .label = Składować
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Ženje njeskładować
+    .accesskey = e
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Hesło za { $host } aktualizować?
+password-manager-update-login-add-username = Wužiwarske mjeno składowanemu hesłu přidać?
 password-manager-password-password-button-allow =
     .label = Aktualizować
     .accesskey = A
