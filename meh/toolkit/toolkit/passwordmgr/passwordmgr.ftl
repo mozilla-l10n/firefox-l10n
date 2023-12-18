@@ -11,3 +11,5 @@ password-manager-save-password-button-allow =
 password-manager-save-password-button-never =
     .label = Nchuva'a ni'i íchi
     .accesskey = e
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = Na íyo sivɨ ñɨvɨ
