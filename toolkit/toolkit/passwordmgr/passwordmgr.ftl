@@ -24,3 +24,4 @@ password-manager-toggle-password =
     .label = Показати пароль
     .accesskey = о
 password-manager-confirm-password-change = Підтвердження зміни пароля
+password-manager-select-username = Оберіть запис для оновлення:
