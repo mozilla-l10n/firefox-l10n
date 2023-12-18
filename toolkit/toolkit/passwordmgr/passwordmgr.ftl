@@ -5,4 +5,19 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Mentés
+    .accesskey = e
+password-manager-password-password-button-allow =
+    .label = Frissítés
+    .accesskey = F
+password-manager-update-password-button-deny =
+    .label = Ne frissítse
+    .accesskey = N
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = Nincs felhasználónév
+password-manager-toggle-password =
+    .label = Jelszó megjelenítése
+    .accesskey = m
 password-manager-confirm-password-change = Jelszóváltoztatás megerősítése
+password-manager-select-username = Válassza ki a frissítendő bejelentkezést:
