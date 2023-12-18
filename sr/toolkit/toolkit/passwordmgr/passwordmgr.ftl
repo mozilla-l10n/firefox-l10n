@@ -5,9 +5,18 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Сачувај
+    .accesskey = С
 password-manager-password-password-button-allow =
     .label = Ажурирај
     .accesskey = А
+password-manager-update-password-button-deny =
+    .label = Немој ажурирати
+    .accesskey = а
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Нема корисничког имена
+password-manager-toggle-password =
+    .label = Прикажи лозинку
+    .accesskey = л
 password-manager-confirm-password-change = Потврди промену лозинке
