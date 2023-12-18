@@ -5,12 +5,16 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Shranim geslo za { $host }?
 password-manager-save-password-button-allow =
     .label = Shrani
     .accesskey = S
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Posodobim geslo za { $host }?
+password-manager-update-login-add-username = Dodam shranjenemu geslu uporabniško ime?
 password-manager-password-password-button-allow =
     .label = Posodobi
     .accesskey = P
@@ -23,3 +27,4 @@ password-manager-toggle-password =
     .label = Prikaži geslo
     .accesskey = r
 password-manager-confirm-password-change = Potrditev spremembe gesla
+password-manager-select-username = Izberite prijavo, ki jo želite posodobiti:
