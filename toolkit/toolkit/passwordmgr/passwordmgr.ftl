@@ -5,6 +5,18 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = บันทึก
+    .accesskey = บ
+password-manager-password-password-button-allow =
+    .label = อัปเดต
+    .accesskey = อ
+password-manager-update-password-button-deny =
+    .label = ไม่อัปเดต
+    .accesskey = ม
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = ไม่มีชื่อผู้ใช้
+password-manager-toggle-password =
+    .label = แสดงรหัสผ่าน
+    .accesskey = ส
 password-manager-confirm-password-change = ยืนยันการเปลี่ยนรหัสผ่าน
