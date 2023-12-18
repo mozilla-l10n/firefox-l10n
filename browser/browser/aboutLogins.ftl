@@ -108,11 +108,13 @@ about-logins-login-intro-heading-logged-in = לא נמצאו כניסות מסו
 login-intro-description = אם שמרת את הכניסות שלך ל־{ -brand-product-name } במכשיר אחר, כך ניתן לקבל אותן כאן:
 login-intro-instructions-fxa = יש ליצור חשבון או להתחבר ל{ -fxaccount-brand-name(case: "the") } שלך במכשיר שבו שמורות הכניסות שלך.
 about-logins-login-intro-heading-message = שמירת הססמאות שלך במקום בטוח
+login-intro-description2 = כל הססמאות הנשמרות ב־{ -brand-product-name } הינן מוצפנות. בנוסף, אנו עוקבים אחר דליפות נתונים מאתרים ומתריעים בפניך אם הושפעת מהן. <a data-l10n-name="breach-alert-link">מידע נוסף</a>
 login-intro-instructions-fxa2 = יש ליצור חשבון או להתחבר לחשבון שלך במכשיר שבו שמורות הכניסות שלך.
 login-intro-instructions-fxa-settings = יש לעבור להגדרות > סנכרון > הפעלת סנכרון… > יש לבחור בתיבת הסימון של כניסות וססמאות.
 login-intro-instructions-fxa-passwords-help = יש לבקר ב<a data-l10n-name="passwords-help-link">תמיכה עבור ססמאות</a> לקבלת עזרה נוספת.
 about-logins-intro-browser-only-import = אם הכניסות שלך שמורות בדפדפן אחר, באפשרותך <a data-l10n-name="import-link">לייבא אותם אל תוך { -brand-product-name }</a>
 about-logins-intro-import2 = אם הכניסות שלך שמורות מחוץ ל־{ -brand-product-name }, באפשרותך <a data-l10n-name="import-browser-link">לייבא אותם מדפדפן אחר</a> או <a data-l10n-name="import-file-link">מקובץ</a>
+about-logins-intro-import3 = יש ללחוץ על כפתור סמל הפלוס למעלה כדי להוסיף ססמה כעת. באפשרותך גם <a data-l10n-name="import-browser-link">לייבא ססמאות מדפדפן אחר</a> או <a data-l10n-name="import-file-link">מקובץ</a>.
 
 ## Login
 
@@ -269,11 +271,23 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] להסיר ססמה אחת?
        *[other] Remove all { $count } passwords?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] פעולה זו תסיר את הססמה שנשמרה ב־{ -brand-short-name } וכל ההתרעות על דליפות נתונים מאתרים. לא ניתן לבטל פעולה זו.
+       *[other] פעולה זו תסיר את הססמאות שנשמרו ב־{ -brand-short-name } וכל ההתרעות על דליפות נתונים מאתרים. לא ניתן לבטל פעולה זו.
+    }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] להסיר ססמה אחת מכל המכשירים?
        *[other] Remove all { $count } passwords from all devices?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] פעולה זו תסיר את הססמה שנשמרה ב־{ -brand-short-name } בכל המכשירים המסונכרים שלך, לרבות כל ההתרעות על דליפות נתונים מאתרים שמופיעות כאן. לא ניתן לבטל פעולה זו.
+       *[other] פעולה זו תסיר את כל הססמאות שנשמרו ב־{ -brand-short-name } בכל המכשירים המסונכרים שלך, לרבות כל ההתרעות על דליפות נתונים מאתרים שמופיעות כאן. לא ניתן לבטל פעולה זו.
     }
 
 ##
@@ -281,6 +295,11 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 about-logins-confirm-export-dialog-title = ייצוא כניסות וססמאות
 about-logins-confirm-export-dialog-message = הססמאות שלך יישמרו כטקסט קריא (למשל BadP@ssw0rd) כך שכל מי שיכול לפתוח את הקובץ המיוצא, יוכל גם לצפות בו.
 about-logins-confirm-export-dialog-confirm-button = ייצוא…
+about-logins-confirm-export-dialog-title2 = הערה לגבי ייצוא ססמאות
+about-logins-confirm-export-dialog-message2 =
+    בעת הייצוא, הססמאות שלך נשמרות בקובץ עם טקסט קריא.
+    לאחר סיום השימוש בקובץ, אנו ממליצים למחוק אותו כדי שאחרים שמשתמשים במכשיר הזה לא יוכלו לראות את הססמאות שלך.
+about-logins-confirm-export-dialog-confirm-button2 = המשך עם הייצוא
 about-logins-alert-import-title = הייבוא הושלם
 about-logins-alert-import-message = הצגת סיכום מפורט על הייבוא
 confirm-discard-changes-dialog-title = האם להתעלם מהשינויים שלא נשמרו?
@@ -322,6 +341,11 @@ about-logins-export-file-picker-title = ייצוא קובץ כניסות
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = ייצוא ססמאות מ־{ -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = ססמאות.csv
 about-logins-export-file-picker-export-button = ייצוא
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
