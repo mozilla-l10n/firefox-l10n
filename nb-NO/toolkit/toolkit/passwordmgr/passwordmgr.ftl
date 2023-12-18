@@ -5,4 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-password-password-button-allow =
+    .label = Oppdater
+    .accesskey = O
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = Uten brukernavn
 password-manager-confirm-password-change = Bekreft passordendring
