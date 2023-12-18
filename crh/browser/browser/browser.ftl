@@ -87,18 +87,17 @@ urlbar-canvas-blocked =
     .tooltiptext = Bu sayt içün kanaviçe veriler istihracını bloklağan olasıñız.
 urlbar-midi-blocked =
     .tooltiptext = Bu sayt içün MİDİ irişimini bloklağan olasıñız.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Bu saifeimini tarir et ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Bu saifeni imle ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -113,14 +112,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Qıdırma ayarlarını deñiştir
-
 search-one-offs-context-open-new-tab =
     .label = Yañı İlmekte Qıdır
     .accesskey = l
 search-one-offs-context-set-as-default =
     .label = Ögbelgilengen Qıdırma Motorı Olaraq Tesbit Et
     .accesskey = b
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -156,7 +153,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Saqlağanda muarrirni köster
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -173,7 +169,6 @@ identity-passive-loaded = Bu saifeniñ bazı qısımları (meselâ, suretler) em
 identity-active-loaded = Bu saifede imayeni naqabilleştirdiñiz.
 identity-weak-encryption = Bu saife zayıf şifreleme qullana.
 identity-insecure-login-forms = Bu saifede kirsetilgen içeri imzalanışlarğa halel kelebilir.
-
 identity-permissions-reload-hint = Deñişikliklerniñ uyğulanması içün saifeni kene yüklemeñiz kerekebilir.
 identity-clear-site-data =
     .label = Çörekler ve Sayt Verilerini Temizle…
@@ -229,21 +224,20 @@ popup-all-windows-shared = Ekranıñız üzerindeki körünir pencerelerniñ epi
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Qapat
 urlbar-placeholder =
     .placeholder = Qıdırıñız yaki adres kirsetiñiz
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } ile qıdır yaki adresni kirset
-
 urlbar-switch-to-tab =
     .value = İlmekke almaş:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uzantı:
-
 urlbar-go-button =
     .tooltiptext = Qonum Çubuğındaki adreske bar
 urlbar-page-action-button =
@@ -289,20 +283,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> şimdi tam-ekrandır
 fullscreen-warning-no-domain = Bu vesiqa şimdi tam-ekrandır
-
-
 fullscreen-exit-button = Tam-Ekrandan Çıq (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tam-Ekrandan Çıq (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ibreñizni muraqabe ete. Kontrolni keri almaq içün Esc tuşuna basıñız.
 pointerlock-warning-no-domain = Bu vesiqa ibreñizni muraqabe ete. Kontrolni keri almaq içün Esc tuşuna basıñız.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -346,7 +334,6 @@ bookmarks-search =
     .label = Saife-imlerini Qıdır
 bookmarks-tools =
     .label = Saife-imleme Aletleri
-
 bookmarks-toolbar-menu =
     .label = Saife-imleri Alet Çubuğı
 bookmarks-toolbar-placeholder =
@@ -373,27 +360,22 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = Alet Çubuğını Şahsiyleştir…
     .accesskey = s
-
 toolbar-button-email-link =
     .label = İlişimni E-poştala
     .tooltiptext = Bu saifege bir ilişimni e-poştala
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Saifeni Saqla
     .tooltiptext = Bu saifeni saqla ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Dosye Aç
     .tooltiptext = Bir dosye aç ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Aynılaştırılğan İlmekler
     .tooltiptext = Diger cihazlardan ilmeklerni köster
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -407,9 +389,6 @@ eme-notifications-drm-content-playing = Bu sayttaki bazı audio yaki video DRM y
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -421,7 +400,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } içün peyda pencerelerge izin ber
     .accesskey = P
-
 popups-infobar-block =
     .label = { $uriHost } içün peyda pencerelerni blokla
     .accesskey = P
@@ -443,36 +421,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Endirmeler
-
 navbar-overflow =
     .tooltiptext = Daa çoq alet…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Bastır
     .tooltiptext = Bu saifeni bastır… ({ $shortcut })
-
 navbar-home =
     .label = Ev
     .tooltiptext = { -brand-short-name } Ev Saifesi
-
 navbar-library =
     .label = Kitaphane
     .tooltiptext = Keçmiş, saqlanğan saife-imleri ve daa fazlasını köster
-
 navbar-search =
     .title = Qıdır
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Kezici ilmekleri
-
 tabs-toolbar-new-tab =
     .label = Yañı İlmek
-
 tabs-toolbar-list-all-tabs =
     .label = İlmeklerniñ episini tiz
     .tooltiptext = İlmeklerniñ episini tiz
@@ -497,19 +467,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } bu saifege öz-özünden kene yüklenmege izin bermedi.
 refresh-blocked-redirect-label = { -brand-short-name } bu saifeniñ öz-özünden başqa bir saifege kene yönetmesine izin bermedi.
-
 refresh-blocked-allow =
     .label = İzin Ber
     .accesskey = z
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -541,7 +511,6 @@ popup-warning-button =
             [windows] İ
            *[other] T
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
