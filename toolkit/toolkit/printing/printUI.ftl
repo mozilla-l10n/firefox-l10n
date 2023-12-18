@@ -5,7 +5,6 @@
 printui-title = Печат
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Запазване като
-
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -13,8 +12,8 @@ printui-sheets-count =
         [one] Общо { $sheetCount } листа
        *[other] { $sheetCount } листа
     }
-
 printui-page-range-all = Всички
+printui-page-range-current = Текуща
 printui-page-range-odd = Нечетни
 printui-page-range-even = Четни
 printui-page-range-custom = По избор
@@ -24,29 +23,22 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = Въведете потребителски диапазон за страници
     .placeholder = напр. 2-6, 9, 12-16
-
 # Section title for the number of copies to print
 printui-copies-label = Копия
-
 printui-orientation = Ориентация
 printui-landscape = Пейзаж
 printui-portrait = Портрет
-
 # Section title for the printer or destination device to target
 printui-destination-label = Местоназначение
 printui-destination-pdf-label = Запазване в PDF
-
 printui-more-settings = Още настройки
 printui-less-settings = По-малко настройки
-
 printui-paper-size-label = Размер на хартия
-
 # Section title (noun) for the print scaling options
 printui-scale = Мащаб
 printui-scale-fit-to-page-width = Побиране по ширина на листа
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = Мащаб
-
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Двустранно отпечатване
 printui-two-sided-printing-off = Изключено
@@ -54,7 +46,6 @@ printui-two-sided-printing-off = Изключено
 printui-two-sided-printing-long-edge = Обърнете на дълъг ръб
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = Обърнете на къс ръб
-
 # Section title for miscellaneous print options
 printui-options = Настройки
 printui-headers-footers-checkbox = Печат на горни и долни колонтитули
@@ -78,7 +69,6 @@ printui-simplify-page-radio = Опростен
 printui-color-mode-label = Цвят
 printui-color-mode-color = Цвят
 printui-color-mode-bw = Черно-бяло
-
 printui-margins = Отстояния
 printui-margins-default = По поздразбиране
 printui-margins-min = Минимум
@@ -97,23 +87,17 @@ printui-margins-custom-left-mm = Отляво (мм)
 printui-margins-custom-right = Отдясно
 printui-margins-custom-right-inches = Отдясно (инчове)
 printui-margins-custom-right-mm = Отдясно (мм)
-
 printui-system-dialog-link = Печат с помощта на системния диалог…
-
 printui-primary-button = Отпечатване
 printui-primary-button-save = Запазване
 printui-cancel-button = Отказ
 printui-close-button = Затваряне
-
 printui-loading = Подготвяне на преглед
-
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Преглед преди отпечатване
-
 printui-pages-per-sheet = Страници на лист
-
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = Отпечатване…
@@ -140,7 +124,6 @@ printui-paper-tabloid = Таблоид
 printui-error-invalid-scale = Мащабът трябва да е между 10 и 200.
 printui-error-invalid-margin = Въведете валидни отстояния за избрания размер хартия.
 printui-error-invalid-copies = Броят на копията трябва да е число между 1 и 10000
-
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = Диапазонът трябва да е между 1 и { $numPages }.

@@ -163,6 +163,17 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Внасяне от пре�
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Открийте невероятния интернет
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Оставяне на { -brand-short-name } в лентата със задачи
+       *[other] Закачане на { -brand-short-name } към лентата със задачи
+    }
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
@@ -176,16 +187,25 @@ mr2022-onboarding-existing-pin-header = Благодарим ви, че обич
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Последното издание е изградено на вашите желания, което прави по-лесно от всякога разглеждането в интернет. Изданието е пълно с функции, които смятаме, че ще обикнете.
 mr2022-onboarding-get-started-primary-button-label = Настройва се за секунди
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Светкавично-бърза настройка
+mr2022-onboarding-import-subtitle = Настройте { -brand-short-name } както ви харесва. Добавете своите отметки, пароли и всичко друго от стария си четец.
+mr2022-onboarding-import-primary-button-label-no-attribution = Внасяне от предишен четец
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Изберете цвета, който ви вдъхновява
+mr2022-onboarding-colorway-subtitle = Независимите гласове могат да променят културата.
+mr2022-onboarding-colorway-primary-button-label-continue = Запазване и продължаване
 mr2022-onboarding-existing-colorway-checkbox-label = Направете вашата { -firefox-home-brand-name }  начална страница цветна
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Текущи { -brand-short-name } цветове
@@ -243,3 +263,6 @@ onboarding-infrequent-import-primary-button = Внасяне към { -brand-sho
 onboarding-device-migration-title = Добре дошли отново!
 onboarding-device-migration-subtitle = Влезте в { -fxaccount-brand-name(capitalization: "sentence") }, за да пренесете своите отметки, пароли и история със себе си на новото ви устройство.
 onboarding-device-migration-primary-button-label = Вход
+
+## The following screens have been updated to use security and privacy focused strings:
+

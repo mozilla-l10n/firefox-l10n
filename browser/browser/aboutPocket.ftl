@@ -43,7 +43,9 @@ pocket-panel-signup-tagline = Запазвайте статии и видео о
 pocket-panel-signup-tagline-story-one = Използвайте бутона на { -pocket-brand-name }, за да запазите статия, видео или страница от { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Преглеждайте в { -pocket-brand-name } на всяко устройство и по всяко време.
 pocket-panel-signup-cta-a-fix = Вашият бутон за запазване за интернет
+pocket-panel-signup-cta-b-updated = Щракнете върху бутона на { -pocket-brand-name }, за да запазите статии, видео и препратки. Преглеждайте запазените на всяко устройство и по всяко време.
 pocket-panel-signup-cta-b-short = Щракнете върху бутона на { -pocket-brand-name }, за да запазите статии, видео и препратки.
+pocket-panel-signup-cta-c-updated = Преглеждайте запазените на всяко устройство и по всяко време.
 
 ## about:pocket-home panel
 
@@ -59,6 +61,7 @@ pocket-panel-home-new-user-message = Вижте какво сте запазил
 
 ## Pocket panel header component
 
+pocket-panel-header-my-saves = Преглед на Моите запазени
 pocket-panel-header-sign-in = Вписване
 
 ## Pocket panel buttons

@@ -10,6 +10,9 @@ about-logins-login-filter =
 create-new-login-button =
     .title = Нова регистрация
 about-logins-page-title-name = Пароли
+about-logins-login-filter2 =
+    .placeholder = Търсене на пароли
+    .key = Т
 create-login-button =
     .title = Добавяне на парола
 fxaccounts-sign-in-text = Вземете паролите си на всички ваши устройства
@@ -26,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Внасяне от д�
 about-logins-menu-menuitem-import-from-a-file = Внасяне от файл…
 about-logins-menu-menuitem-export-logins = Изнасяне на регистрации…
 about-logins-menu-menuitem-remove-all-logins = Премахване на всички регистрации…
+about-logins-menu-menuitem-export-logins2 = Изнасяне на пароли…
+about-logins-menu-menuitem-remove-all-logins2 = Премахване на всички пароли…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Настройки
@@ -51,6 +56,21 @@ login-list-filtered-count =
     { $total ->
         [one] { $count } от { $total } влизане
        *[other] { $count } от { $total } влизания
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } парола
+       *[other] { $count } пароли
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } от { $total } парола
+       *[other] { $count } от { $total } пароли
     }
 login-list-sort-label-text = Подреждане по:
 login-list-name-option = Име (A-Z)
@@ -87,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Търсите запазенит
 about-logins-login-intro-heading-logged-in = Не са намерени синхронизирани регистрации.
 login-intro-description = Ако сте запазили данните си за вход в { -brand-product-name } на друго устройство, ето как да ги вземете тук:
 login-intro-instructions-fxa = Създайте или влезте в своята { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
+about-logins-login-intro-heading-message = Запазете паролите си на безопасно място
 login-intro-instructions-fxa-settings = Отидете в "Настройки" > Sync > Включване на синхронизиране… Изберете отметката за регистрации и пароли.
 login-intro-instructions-fxa-passwords-help = Посетете <a data-l10n-name="passwords-help-link">поддръжка на пароли</a> за помощ.
 about-logins-intro-browser-only-import = Ако вашите регистрации са запазени в друг мрежов четец, можете да ги <a data-l10n-name="import-link">внесете във { -brand-product-name }</a>.

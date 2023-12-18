@@ -19,7 +19,7 @@ settings-page-title = Настройки
 # Do not translate.
 search-input-box2 =
     .style = width: 15.4em
-    .placeholder = Търсене на настройки
+    .placeholder = Търсене в настройките
 managed-notice = Настройките на вашия браузър се управляват от вашата организация.
 category-list =
     .aria-label = Категории
@@ -120,6 +120,11 @@ startup-restore-warn-on-quit =
     .label = Предупреждаване при затваряне на четеца
 disable-extension =
     .label = Изключване на разширението
+preferences-data-migration-header = Внасяне на данни от друг четец
+preferences-data-migration-description = Внасяне на отметки, пароли, история и данни за автоматично попълване в { -brand-short-name }.
+preferences-data-migration-button =
+    .label = Внасяне на данни
+    .accesskey = н
 tabs-group-header = Раздели
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab обикаля разделите в реда на използване
@@ -142,7 +147,7 @@ warn-on-open-many-tabs =
     .label = Предупреждаване, ако отваряне на няколко раздела може да забави { -brand-short-name }
     .accesskey = а
 switch-to-new-tabs =
-    .label = При отваряне на препратка, изображение или медия в нов раздел, той става активен
+    .label = При отваряне на препратка, изображение или медия в нов раздел, превключване към него
     .accesskey = т
 show-tabs-in-taskbar =
     .label = Преглед на разделите в лентата със задачите на Windows
@@ -204,6 +209,7 @@ preferences-web-appearance-choice-input-dark =
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Управлявайте темите на { -brand-short-name } в <a data-l10n-name="themes-link">Управление на добавки</a>
 preferences-colors-header = Цветове
+preferences-colors-description = Заменете цветовете по подразбиране на { -brand-short-name } за текст, фонове на страници и препратки.
 preferences-colors-manage-button =
     .label = Управление на цветове…
     .accesskey = ц
