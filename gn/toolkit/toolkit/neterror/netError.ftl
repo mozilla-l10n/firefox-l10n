@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Ehechajey { -brand-short-name } oguerekó
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } nomo’ãkuaái ne mba’ejerure ko tenda kundaharape ore DNS jeroviaha apopyvusu. Ápe oĩ mba’érepa:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } nomo’ãkuaái ne mba’ejerure tenda kundaharape ore DNS me’ẽhára hekorosãva rupi. Ápe oĩ mba’érepa:
 neterror-dns-not-found-trr-third-party-warning2 = Eku’ejeykuaa DNS mba’eporu ijypyguáva ndive. Upéicharõ jepe, mbohapyháva ikatu ohecha mba’e ñanduti rendápepa eikera’e.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ndoikekuaái { $trrDomain } ndive.
 neterror-dns-not-found-trr-only-timeout = Pe { $trrDomain }-pe jeike nemoha’ãrõ hetave aravo.
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Jejavy eha’ãrõ’ỹva.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } nomo’ãkuaái ne mba’ejerure ko tenda kundaharape ore DNS jeroviaha apopyvusu. Ápe oĩ mba’érepa:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } nomo’ãkuaái ne mba’ejerure tenda kundaharape ore DNS me’ẽhára hekorosãva rupi. Ápe oĩ mba’érepa:
 neterror-dns-not-found-native-fallback-heuristic = DNS HTTPS rehegua ojepe’áma nde pyhágui.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ndoikekuaái { $trrDomain } ndive.
 
