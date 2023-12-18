@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = { $host } ਲਈ ਪਾਸਵਰਡ ਸੰਭਾਲਣਾ ਹੈ?
 password-manager-save-password-button-allow =
     .label = ਸੰਭਾਲੋ
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = ਕਦੇ ਨਾ ਸੰਭਾਲੋ
+    .accesskey = e
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = { $host } ਲਈ ਪਾਸਵਰਡ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨਾ ਹੈ?
+password-manager-update-login-add-username = ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਲਈ ਵਰਤੋਂਕਾਰ-ਨਾਂ ਜੋੜਨਾ ਹੈ?
 password-manager-password-password-button-allow =
     .label = ਅੱਪਡੇਟ ਕਰੋ
     .accesskey = U
