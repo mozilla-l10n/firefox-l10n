@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Gwoki
     .accesskey = G
+password-manager-save-password-button-never =
+    .label = Pe i gwok matwal
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = Ngec manyen
     .accesskey = U
