@@ -107,11 +107,14 @@ about-logins-login-intro-heading-logged-out2 = Cerca tu le credentiales que tu h
 about-logins-login-intro-heading-logged-in = Nulle credentiales synchronisate trovate.
 login-intro-description = Si tu ha salvate tu credentiales in { -brand-product-name } sur un altere apparato, ecce como render los disponibile hic:
 login-intro-instructions-fxa = Aperi session o crea un { -fxaccount-brand-name } sur le apparato ubi se trova tu credentiales.
+about-logins-login-intro-heading-message = Salva tu contrasignos a un loco secur
+login-intro-description2 = Tote contrasignos que tu salva in { -brand-product-name } es cryptate. In ultra, nos survelia pro violationes e te avisa si tu es afficite. <a data-l10n-name="breach-alert-link">Pro saper plus</a>
 login-intro-instructions-fxa2 = Crea o identifica te in tu conto sur le apparato ubi tu credentiales es salvate.
 login-intro-instructions-fxa-settings = Va a Parametros > Sync > Activar synchronisation… Selige le quadrato ‘Contos e contrasignos’.
 login-intro-instructions-fxa-passwords-help = Visita <a data-l10n-name="passwords-help-link">supporto pro contrasignos</a> pro adjuta ulterior.
 about-logins-intro-browser-only-import = Si tu credentiales es salvate in un altere navigator, tu pote <a data-l10n-name="import-link">importar los in { -brand-product-name }</a>
 about-logins-intro-import2 = Si tu credentiales es salvate foras de { -brand-product-name }, tu pote <a data-l10n-name="import-browser-link">importar los ab un altere navigator</a> o <a data-l10n-name="import-file-link">ab un file</a>
+about-logins-intro-import3 = Elige le button del signo plus supra pro adder un contrasigno ora. Tu alsi pote <a data-l10n-name="import-browser-link">importar contrasignos ab un altere navigator</a> o <a data-l10n-name="import-file-link">ab un file</a>.
 
 ## Login
 
