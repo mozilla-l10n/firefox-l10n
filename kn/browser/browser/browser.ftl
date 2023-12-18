@@ -72,18 +72,17 @@ urlbar-popup-blocked =
     .tooltiptext = ನೀವು ಪಾಪ್-ಅಪ್ ಗಳನ್ನು ಈ ಜಾಲತಾಣದಲ್ಲಿ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.
 urlbar-canvas-blocked =
     .tooltiptext = ಕ್ಯಾನ್ವಸ್ ದತ್ತಾಂಶ ಶೇಖರಿಸುವುದನ್ನು ಈ ಜಾಲತಾಣಕ್ಕೆ ನೀವು ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ತಿದ್ದು ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = ಈ ಪುಟವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -98,14 +97,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ‍ಹುಡುಕು ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು
-
 search-one-offs-context-open-new-tab =
     .label = ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ಹುಡುಕು
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್‌ ಆಗಿ ಹೊಂದಿಸು
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -136,7 +133,6 @@ identity-passive-loaded = ಪುಟದ ಕೆಲ ಭಾಗಗಳು ಸುರಕ
 identity-active-loaded = ಈ ಪುಟದಲ್ಲಿ ಸುರಕ್ಷತೆಯನ್ನು ನೀವು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದೀರಿ.
 identity-weak-encryption = ಈ ಪುಟವು ದುರ್ಬಲ ಎನ್‌ಕ್ರಿಪ್ಷನ್‌ ಅನ್ನು ಬಳಸುತ್ತದೆ.
 identity-insecure-login-forms = ಈ ಪುಟದಲ್ಲಿ ನಮೂದಿಸಲಾದ ಲಾಗಿನ್‌ ವಿವರಗಳು ದುರ್ಬಳಕೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ.
-
 identity-permissions-reload-hint = ನಿಮ್ಮ ಬದಲಾವಣೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳಲು ನೀವು ಪುಟವನ್ನು ಪುನಃ ಲೋಡಮಾಡಬೇಕಾಗುತ್ತದೆ.
 identity-remove-cert-exception =
     .label = ಆಕ್ಷೇಪಣೆಯನ್ನು ತೆಗೆದುಹಾಕು
@@ -190,16 +186,16 @@ popup-all-windows-shared = ನಿಮ್ಮ ತೆರೆಯಲ್ಲಿರುವ 
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = ಮುಚ್ಚು
 urlbar-placeholder =
     .placeholder = ವಿಳಾಸವನ್ನು ಹುಡುಕು ಅಥವಾ ನಮೂದಿಸು
-
 urlbar-switch-to-tab =
     .value = ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ವಿಸ್ತರಣೆ:‍
-
 urlbar-go-button =
     .tooltiptext = ಸ್ಥಿತಿ ಪಟ್ಟಿಯಲ್ಲಿನ ವಿಳಾಸಕ್ಕೆ ತೆರಳು
 urlbar-page-action-button =
@@ -245,20 +241,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ಈಗ ಪೂರ್ಣ ತೆರೆಯಲ್ಲಿದೆ
 fullscreen-warning-no-domain = ಈ ದಸ್ತಾವೇಜು ಈಗ ಪೂರ್ಣ ತೆರೆಯಲ್ಲಿದೆ
-
-
 fullscreen-exit-button = ಪೂರ್ಣತೆರೆಯಿಂದ ನಿರ್ಗಮಿಸು (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = ಪೂರ್ಣತೆರೆಯಿಂದ ನಿರ್ಗಮಿಸು (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ಯು ನಿಮ್ಮ ಪಾಯಿಂಟರ್‍‍ನ ನಿಯಂತ್ರಣ ಹೊಂದಿದೆ. ನಿಯಂತ್ರಣ ಹಿಂಪಡೆಯಲು ಎಸ್ಕೇಪ್ ಪ್ರೆಸ್ ಮಾಡಿ.
 pointerlock-warning-no-domain = ಈ ದಸ್ತಾವೇಜು ನಿಮ್ಮ ಪಾಯಿಂಟರ್‍‍ನ ನಿಯಂತ್ರಣ ಹೊಂದಿದೆ. ನಿಯಂತ್ರಣ ಹಿಂಪಡೆಯಲು ಎಸ್ಕೇಪ್ ಪ್ರೆಸ್ ಮಾಡಿ.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -302,7 +292,6 @@ bookmarks-search =
     .label = ಬುಕ್‌ಮಾರ್ಕುಗಳಿಗಾಗಿ ಹುಡುಕು
 bookmarks-tools =
     .label = ಬುಕ್‌ಮಾರ್ಕುಗಳ ಉಪಕರಣಗಳು
-
 bookmarks-toolbar-menu =
     .label = ಪುಟಗುರುತುಗಳ ಉಪಕರಣ ಪಟ್ಟಿ
 bookmarks-toolbar-placeholder =
@@ -326,27 +315,22 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು
     .tooltiptext = ಈ ಪುಟದ ಕೊಂಡಿಯನ್ನು ವಿ-ಅಂಚೆ ಮಾಡು
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = ಪುಟ ಉಳಿಸು
     .tooltiptext = ಈ ಪುಟ ಉಳಿಸು ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ಕಡತವನ್ನು ತೆರೆ
     .tooltiptext = ಕಡತವನ್ನು ತೆಗೆ ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು
     .tooltiptext = ‌ಇತರೆ ಸಾಧನಗಳ ಹಾಳೆಗಳನ್ನು ತೋರಿಸು
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -360,9 +344,6 @@ eme-notifications-drm-content-playing = ಈ ತಾಣದಲ್ಲಿರುವ �
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -374,7 +355,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } ಕ್ಕೆ ಪುಟಿಕೆಗಳನ್ನು ಅನುಮತಿಸು
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } ಕ್ಕೆ ಪುಟಿಕೆಗಳನ್ನು ಪ್ರತಿಬಂಧಿಸು
     .accesskey = p
@@ -396,32 +376,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ಡೌನ್‍ಲೋಡ್‍ಗಳು
-
 navbar-overflow =
     .tooltiptext = ಹೆಚ್ಚಿನ ಉಪಕರಣಗಳು…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = ಮುದ್ರಿಸು
     .tooltiptext = ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸಿ… ({ $shortcut })
-
 navbar-library =
     .label = ಲೈಬ್ರರಿ
     .tooltiptext = ಇತಿಹಾಸ, ಉಳಿಸಿದ ಬುಕ್‍ಮಾರ್ಕ್‌ಗಳು ಮತ್ತು ಹೆಚ್ಚಿದುದನ್ನು ನೋಡಿ
-
 navbar-search =
     .title = ಹುಡುಕು
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ಜಾಲವೀಕ್ಷಣಾ ಟ್ಯಾಬ್‌ಗಳು
-
 tabs-toolbar-new-tab =
     .label = ಹೊಸ ಹಾಳೆ
-
 tabs-toolbar-list-all-tabs =
     .label = ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು
     .tooltiptext = ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು
@@ -446,19 +419,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = ಈ ಪುಟವು ತಾನಾಗಿಯೆ ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‌ ಆಗುವುದನ್ನು { -brand-short-name } ನಿರ್ಬಂಧಿಸಿದೆ.
 refresh-blocked-redirect-label = ಈ ಪುಟವು ತಾನಾಗಿಯೆ ಇನ್ನೊಂದು ಪುಟಕ್ಕೆ  ಮರಳಿ ನಿರ್ದೇಶಿತಗೊಳ್ಳುವುದನ್ನು { -brand-short-name } ನಿರ್ಬಂಧಿಸಿದೆ.
-
 refresh-blocked-allow =
     .label = ಅನುಮತಿಸು
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -486,7 +459,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
