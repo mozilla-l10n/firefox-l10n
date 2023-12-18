@@ -65,7 +65,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Txãa bubnxi's nawe pakwen jxanyah
     .accesskey = j
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -96,7 +95,6 @@ identity-passive-loaded = Naa kxtee web-te jiphunime's pa'yakx (piisanisa).
 identity-active-loaded = Ayte ktudujmeta payatx na paynxite.
 identity-weak-encryption = Naa fxi'jhnxisa mej tudkwe ũ'sa'
 identity-insecure-login-forms = Putxna na'we u'kan nate nanxu pa'yatxinega.
-
 identity-remove-cert-exception =
     .label = Khukhn yahtxn
     .accesskey = K
@@ -149,12 +147,13 @@ popup-all-windows-shared = Vxitx le'çxkwe vxiasa çehk thegnxisate ya' katxuden
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Aphna
 urlbar-placeholder =
     .placeholder = Pakweya kĩimeeçxa takhnxi's u'kaya
-
 urlbar-switch-to-tab =
     .value = Yu'pteni's nxithni
-
 urlbar-go-button =
     .tooltiptext = Txtee uhya URL nate kuhjwednxa´kh dxijasanxakh
 
@@ -191,14 +190,9 @@ urlbar-result-action-switch-tab = Yu'pthẽn txhudeya'
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> Ãçx jxukate theguna'w
 fullscreen-warning-no-domain = Naa eç pejxinxi' ãçxa'h jxukate ũsa'
-
-
 fullscreen-exit-button = Kasehn txãa jxuka thegnxisate (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Kasehn txãa jxuka thegnxisate (Esc)
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -239,9 +233,6 @@ bookmarks-toolbar-placeholder-button =
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -253,7 +244,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Kakahna vxite vxitx le'çxkwe tudte txãpaka { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Aphna vxitx le'çxkwe tudteh { $uriHost }
     .accesskey = p
@@ -275,19 +265,15 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Spakxna
-
 navbar-overflow =
     .tooltiptext = Jwee vxiswa'j...
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Kẽsehn kaykheũ'sa
-
 tabs-toolbar-new-tab =
     .label = U'se txundesa
-
 tabs-toolbar-list-all-tabs =
     .label = Jxuka txundenxi's tasxna
     .tooltiptext = Jxuka txundenxi's tasxna
@@ -308,19 +294,19 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = ´{ -brand-short-name } wa'lne' ayte kaskhewũhnxisa's ktusehyapt petx ũs.
 refresh-blocked-redirect-label = { -brand-short-name } petx ũs kaskhewũsa's txi' dxijaya'pte
-
 refresh-blocked-allow =
     .label = Ewun
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -337,7 +323,6 @@ popup-warning-message =
         [one] { -brand-short-name } ayte ivxitne' vxite vxitx le'çxkwe phadewajas tudtewe'sx.
        *[other] { -brand-short-name } na' ayte phadeya ewumene' { $popupCount } vxitx le'çxkwe's tudtewe'sxa's.
     }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
