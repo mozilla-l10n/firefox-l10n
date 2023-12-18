@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Vista lykilorð fyrir { $host }?
 password-manager-save-password-button-allow =
     .label = Vista
     .accesskey = s
+password-manager-save-password-button-never =
+    .label = Aldrei vista
+    .accesskey = e
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Uppfæra lykilorð fyrir { $host }?
+password-manager-update-login-add-username = Bæta notandanafni við vistað lykilorð?
 password-manager-password-password-button-allow =
     .label = Uppfæra
     .accesskey = U
