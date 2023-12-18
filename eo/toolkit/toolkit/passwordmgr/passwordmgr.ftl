@@ -23,3 +23,4 @@ password-manager-toggle-password =
     .label = Montri pasvorton
     .accesskey = p
 password-manager-confirm-password-change = Konfirmi ŝanĝon de pasvorto
+password-manager-select-username = Elektu ĝisdatigendan akreditilon:
