@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Gem
     .accesskey = G
+password-manager-save-password-button-never =
+    .label = Gem aldrig
+    .accesskey = a
 password-manager-password-password-button-allow =
     .label = Opdater
     .accesskey = O
