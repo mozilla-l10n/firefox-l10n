@@ -76,7 +76,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = ՄուտքագրԷք քիչ, գտէք շատ. որոնեք { $engineName }-ը անմիջապէս հասցէի գոտուց:
 urlbar-search-tips-redirect-2 = Սկսէք Ձեր որոնումը հասցէների դաշտում տեսնելու hամար { $engineName }-ի առաջարկները եւ Ձեր դիտարկումների պատմութիւնը։
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Ընտրէք այս դիւրանցումը, որպէսզի ձեր փնտրածն աւելի արագ գտնէք։
@@ -113,18 +112,17 @@ urlbar-midi-blocked =
     .tooltiptext = Դուք արգելափակել եք MIDI մատչումը այս կայքին։
 urlbar-install-blocked =
     .tooltiptext = Դուք այս կայքի համար արգելափակել էք յաւելասարքի բեռնումը։
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Խմբագրել այս էջանիշը ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Էջանշել այս էջը ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -140,10 +138,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Այս անգամ որոնել հետեւեալի հետ.
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Փոխել որոնման կարգաւորումները
-
 search-one-offs-context-open-new-tab =
     .label = Որոնել Նոր Ներդիրում
     .accesskey = T
@@ -153,14 +149,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Սահմանել որպէս սկզբնադիր որոնման ծրագիր գաղտնի պատուհանների համար
     .accesskey = գ
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -214,7 +208,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = Պահպանել
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -242,7 +235,6 @@ identity-passive-loaded = Այս էջի մասերը անվտանգ չէն (օր
 identity-active-loaded = Դուք անջատել եք պաշտպանութիւնը այս էջում:
 identity-weak-encryption = Այս էջն աւգտագործում է թոյղ գաղտնագրում:
 identity-insecure-login-forms = Այս էջից մուտքագրումները կարող են վտանգուած լինել:
-
 identity-https-only-connection-upgraded = (Նորացրած HTTPS -ը)
 identity-https-only-label = «Միայն HTTPS» աշխատակերպ
 identity-https-only-dropdown-on =
@@ -254,11 +246,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Միացնել HTTPS-Only կերպն այս կայքի համար, եթե ուզում էք, որպէսզի { -brand-short-name }֊ը հնարաւորութեան դէպքում կապը թարմացուի։
 identity-https-only-info-turn-off2 = Եթե էջը թուում է կոտրուած, կարող էք անջատել «Միայն HTTPS» աշխատակերպը, որպէսզի այս կայքը վերբեռնուի՝ աւգտագործելով անապահով HTTP:
 identity-https-only-info-no-upgrade = Հնարաւոր չէ նորացնել կապը HTTP -ում:
-
 identity-permissions-storage-access-header = Միջկայքային նշոցիկներ
 identity-permissions-storage-access-hint = Հետեւեալ կողմերը կարող են օգտագործել միջկայքային նշոցիկներ եւ կայքային տուեալներ, մինչ դուք կայքում էք։
 identity-permissions-storage-access-learn-more = Իմանալ աւելին
-
 identity-permissions-reload-hint = Ձեզ անհրաժեշտ կլինի թարմացնել էջը, որպէսզի կիրառուեն փոփոխութիւններ։
 identity-clear-site-data =
     .label = Ջնջել նշոցիկների եւ կայքի տվեալները…
@@ -320,14 +310,12 @@ browser-tab-mute =
         [one] Ձայնազրկել { $count }  ներդիրները
        *[other] Ձայնազրկել { $count } ներդիրները
     }
-
 browser-tab-unmute =
     { $count ->
         [1] ՄԻԱՑՆԵԼ ՆԵՐԴԻՐԻ ՁԱՅՆԸ
         [one] ՄԻԱՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԻ ՁԱՅՆԵՐԸ
        *[other] ՄԻԱՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԻ ՁԱՅՆԵՐԸ
     }
-
 browser-tab-unblock =
     { $count ->
         [1] ՄԻԱՑՆԵԼ ՆԵՐԴԻՐԻ ՁԱՅՆԸ
@@ -340,7 +328,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Ներածել էջանիշներ…
     .tooltiptext = Ներածել էջանիշներ այլ դիտարկչից { -brand-short-name }֊ի մէջ
-
 bookmarks-toolbar-empty-message = Արագ մուտքի համար՝ տեղադրէք ձեր էջանիշներն յատուկ գործիքագաւտում: <a data-l10n-name="manage-bookmarks"> Էջանիշների կառավարում …</a>
 
 ## WebRTC Pop-up notifications
@@ -373,13 +360,16 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Փակել
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Որոնել կամ մուտքագրել հասցէն
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -388,7 +378,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Փնտրէք համացանցում
     .aria-label = Փնտրէք { $name }֊ի միջոցով
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -397,27 +386,22 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Գրանցէք որոնման պայմանները
     .aria-label = Որոնել { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Գրանցէք որոնման պայմանները
     .aria-label = Որոնել էջանիշները
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Գրանցէք որոնման պայմանները
     .aria-label = Որոնման պատմութիւն
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Գրանցէք որոնման պայմանները
     .aria-label = Որոնման ներդիրներ
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Որոել { $name }֊ով կամ մուտքագրել հասցէն
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -427,11 +411,9 @@ urlbar-permissions-granted =
     .tooltiptext = Դուք տրամադրել էք այս կայքէջին լրացուցիչ թոյղտուութիւններ։
 urlbar-switch-to-tab =
     .value = Անցնել ներդիրի՝
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ընդլայնում՝
-
 urlbar-go-button =
     .tooltiptext = Գնալ հասցէի տողում նշուած հասցէով
 urlbar-page-action-button =
@@ -498,7 +480,6 @@ urlbar-result-action-search-tabs = Փնտրել ներդիրներում
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use title case.
 # Variables
@@ -527,19 +508,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> այժմ լիեկրան է
 fullscreen-warning-no-domain = Փաստաթուղթն այժմ լիեկրան է
-
-
 fullscreen-exit-button = Ելնել լիեկրանից (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Ելնել լիեկրանից (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ղեկավարում է Ձեր ցուցիչը: Սեղմէք Esc՝ ղեկավարումը յետ վերադարձնելու համար։
 pointerlock-warning-no-domain = Այս փաստաթուղթը ղեկավարում է Ձեր ցուցիչը։ Սեղմէք Esc՝ ղեկավարումը յետ վերադարձնելու համար։
-
-## Subframe crash notification
 
 ## Bookmarks panels, menus and toolbar
 
@@ -592,7 +568,6 @@ bookmarks-search =
     .label = Որոնել էջանիշներում
 bookmarks-tools =
     .label = Էջանշելու գործիքներ
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -637,31 +612,25 @@ toolbar-settings-button =
             [macos] Բացել կարգաւորումները ({ $shortcut })
            *[other] Բացել կարգաւորումները
         }
-
 toolbar-overflow-customize-button =
     .label = Հարմարեցնել գործիքագաւտին…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = Էլ. Փոստի յղում
     .tooltiptext = Էլ․Փոստի յղումը այս էջում
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Պահպանել էջը
     .tooltiptext = Պահպանել այս էջը ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Բացել նիշքը
     .tooltiptext = Բացել նիշք ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Համաժամեցուած ներդիրներ
     .tooltiptext = Ցուցադրել այլ սարքերի ներդիրները
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -681,8 +650,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 panel-save-update-username = Աւգտանուն
 panel-save-update-password = Գաղտնաբառ
 
-## Add-on removal warning
-
 ##
 
 # "More" item in macOS share menu
@@ -697,7 +664,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Թոյլատրել ելնող պատուհաններ { $uriHost }-ից
     .accesskey = p
-
 popups-infobar-block =
     .label = Արգելել ինքնաելիցներ { $uriHost }-ից
     .accesskey = p
@@ -707,11 +673,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Չցուցադրել այս հաղորդագրութիւնը, երբ ելնող պատուհնները արգելափակուած են
     .accesskey = D
-
 edit-popup-settings =
     .label = Կառավարել բացուող կարգաւորումները…
     .accesskey = Կ
-
 picture-in-picture-hide-toggle =
     .label = Թաքցնել նկարը նկարի փոխարկիչում
     .accesskey = H
@@ -722,7 +686,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Տեղափոխել «Picture-in-Picture» փոխարկիչը «Right Side»
     .accesskey = Ա
-
 picture-in-picture-move-toggle-left =
     .label = Տեղափոխել «Picture-in-Picture» փոխարկիչը «Left Side»
     .accesskey = ձ
@@ -737,39 +700,30 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Ուղղորդում
-
 navbar-downloads =
     .label = Ներբեռնումներ
-
 navbar-overflow =
     .tooltiptext = Հաւելեալ գործիքներ…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Տպել
     .tooltiptext = Տպել էջը… ({ $shortcut })
-
 navbar-home =
     .label = Տուն
     .tooltiptext = { -brand-short-name } Տնէջ
-
 navbar-library =
     .label = Դարան
     .tooltiptext = Դիտել պատմութիւնը, պահպանուած էջանիշերը եւ աւելին
-
 navbar-search =
     .title = Որոնում
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Դիտարկիչի ներդիրներ
-
 tabs-toolbar-new-tab =
     .label = Նոր ներդիր
-
 tabs-toolbar-list-all-tabs =
     .label = Ցուցադրել բոլոր էջերը
     .tooltiptext = Ցուցադրել բոլոր էջերը
@@ -797,19 +751,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }-ը կասեցրեց այս էջը ինքնաբերաբար վերբեռնումից։
 refresh-blocked-redirect-label = { -brand-short-name }-ը կասեցրեց այս էջի ինքնաբերաբար վերահասցէաւորումը մեկ ուրիշ էջ։
-
 refresh-blocked-allow =
     .label = Թոյլատրել
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -842,7 +796,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
