@@ -89,18 +89,17 @@ urlbar-midi-blocked =
     .tooltiptext = Bluccasti l'accessu MIDI pi stu situ.
 urlbar-install-blocked =
     .tooltiptext = Bluccasti u nzitamentu d'agghiuncitini pi stu situ.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Cancia stu nzingalibbru ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Agghiunci sta pàggina ê nzingalibbri ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -116,10 +115,8 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Sta vota, cerca cu:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cancia i mpustazziuna di ricerca
-
 search-one-offs-context-open-new-tab =
     .label = Cerca nta na scheda nova
     .accesskey = n
@@ -151,7 +148,6 @@ bookmark-panel-cancel =
 bookmark-panel-show-editor-checkbox =
     .label = Mustra l'edituri quannu sarbi
     .accesskey = s
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -165,7 +161,6 @@ identity-connection-file = Sta pàggina è sarbata nnô to computer.
 identity-passive-loaded = Parti di sta pàggina nun sunnu sicuri (comu i mmàggini).
 identity-active-loaded = Disabbilitasti a prutizziuni nta sta pàggina.
 identity-insecure-login-forms = I firmati scritti nta sta pàggina cùrrinu rìsicu.
-
 identity-permissions-reload-hint = Putissi abbisugnari a carricari arrè a pàggina p'appricari i canciamenti.
 identity-description-insecure = A cunnissiuni a stu situ nun è privata. I nfurmazziuna chi manni putìssiru èssiri visti di autri (comu chiavi, missaggi, carti di crèditu, …).
 identity-description-insecure-login-forms = I nfurmazziuna d'accessu chi metti nna sta pàggina nun su' sicuri, e putìssiru èssiri ntircittati.
@@ -210,23 +205,22 @@ popup-all-windows-shared = Tutti i finestri visìbbili sunnu pi cullabburazziuni
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Chiuji
 urlbar-placeholder =
     .placeholder = Cerca o metti nu nnirizzu
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Cerca cu { $name } o metti nu nnirizzu
-
 urlbar-permissions-granted =
     .tooltiptext = Ci dasti pirmisi addizziunali a stu situ.
 urlbar-switch-to-tab =
     .value = Passa â scheda:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Stinziuni:
-
 urlbar-go-button =
     .tooltiptext = Vai ô nnirizzu nnâ sbarra dî nnirizzi
 urlbar-page-action-button =
@@ -266,20 +260,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> è a tuttu schirmu ora
 fullscreen-warning-no-domain = Sta pàggina ora è a tuttu schirmu
-
-
 fullscreen-exit-button = Nesci di tuttu schirmu (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Nesci di tuttu schirmu (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> pigghiau cuntrollu dâ to freccia. Munci Esc pi ripigghiari u cuntrollu.
 pointerlock-warning-no-domain = Sta pàggini teni cuntrollu dâ to freccia. Munci Esc pi ripigghiari u cuntrollu.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -323,7 +311,6 @@ bookmarks-search =
     .label = Cerca nnê nzingalibbri
 bookmarks-tools =
     .label = Strumenti pî nzingalibbri
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -357,11 +344,9 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = Pirsunalizza a sbarra dî strumenti…
     .accesskey = P
-
 toolbar-button-email-link =
     .label = Manna lijami
     .tooltiptext = Manna na lijami a sta pàggina
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
@@ -372,9 +357,6 @@ toolbar-button-open-file =
 
 
 ## Password save/update panel
-
-
-## Add-on removal warning
 
 
 ##
@@ -406,39 +388,30 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigazziuni
-
 navbar-downloads =
     .label = Scarricamenti
-
 navbar-overflow =
     .tooltiptext = Cchiù strumenti…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Stampa
     .tooltiptext = Stampa sta pàggina… ({ $shortcut })
-
 navbar-home =
     .label = Pàggina mastra
     .tooltiptext = Pàggina mastra di { -brand-short-name }
-
 navbar-library =
     .label = Libbrarìa
     .tooltiptext = Vidi cronuluggìa, nzingalibbri sarbati e autru
-
 navbar-search =
     .title = Cerca
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Schedi di navigazziuni
-
 tabs-toolbar-new-tab =
     .label = Nova scheda
-
 tabs-toolbar-list-all-tabs =
     .label = Lista di tutti i schedi
     .tooltiptext = Lista di tutti i schedi
@@ -459,18 +432,18 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-redirect-label = { -brand-short-name } mpidì a sta pàggina di purtàriti autumaticamenti a n'autra pàggina.
-
 refresh-blocked-allow =
     .label = Pirmetti
     .accesskey = P
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -492,7 +465,6 @@ popup-warning-button =
             [windows] P
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
