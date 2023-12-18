@@ -427,7 +427,7 @@ about-logins-import-report-row-description-error = Σφάλμα: Απουσία 
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
 about-logins-import-report-row-description-error-multiple-values = Σφάλμα: Πολλαπλές τιμές για το { $field }
-about-logins-import-report-row-description-error-missing-field = Σφάλμα: Απουσία πεδίου "{ $field }"
+about-logins-import-report-row-description-error-missing-field = Σφάλμα: Απουσία πεδίου «{ $field }»
 
 ##
 ## Variables:
