@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Tallennetaanko sivuston { $host } salasana?
 password-manager-save-password-button-allow =
     .label = Tallenna
     .accesskey = T
+password-manager-save-password-button-never =
+    .label = Älä tallenna koskaan
+    .accesskey = k
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Päivitetäänkö sivuston { $host } salasana?
+password-manager-update-login-add-username = Lisätäänkö käyttäjätunnus tallennettuun salasanaan?
 password-manager-password-password-button-allow =
     .label = Päivitä
     .accesskey = Ä
