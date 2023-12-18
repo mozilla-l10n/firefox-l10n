@@ -5,4 +5,10 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Gem
+    .accesskey = G
+password-manager-update-password-button-deny =
+    .label = Opdater ikke
+    .accesskey = p
 password-manager-confirm-password-change = Bekræft ændring af adgangskode
