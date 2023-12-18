@@ -15,3 +15,4 @@ password-manager-toggle-password =
     .label = Sken awalen uffiren
     .accesskey = h
 password-manager-confirm-password-change = Sentem asnifel n wawal uffir
+password-manager-select-username = Fren anekcum ad tleqmeḍ:
