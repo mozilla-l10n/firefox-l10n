@@ -5,4 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-password-password-button-allow =
+    .label = अद्यतन करें
+    .accesskey = U
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = कोई उपयोक्तानाम नहीं
 password-manager-confirm-password-change = कूटशब्द बदलाव संपुष्ट करें
