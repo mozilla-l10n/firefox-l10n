@@ -96,12 +96,13 @@ browser-window-close-button =
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Bigire
 urlbar-placeholder =
     .placeholder = Peyveke lêgerînê yan jî navnîşanek
-
 urlbar-switch-to-tab =
     .value = Derbasî hilpekînê bibe:
-
 urlbar-go-button =
     .tooltiptext = Here navnîşana di Darikê Cihî de
 
@@ -126,9 +127,6 @@ urlbar-go-button =
 
 
 ## Full Screen and Pointer Lock UI
-
-
-## Subframe crash notification
 
 
 ## Bookmarks panels, menus and toolbar
@@ -175,9 +173,6 @@ toolbar-button-save-page =
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -189,7 +184,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Ji bo { $uriHost }ê destûrê bide pencereyên pop-up
     .accesskey = P
-
 popups-infobar-block =
     .label = Ji bo { $uriHost }ê pop-upan asteng bike
     .accesskey = P
@@ -211,25 +205,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Yên hatine daxistin
-
 navbar-overflow =
     .tooltiptext = Amûrên din…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Çap bike
     .tooltiptext = Vê rûpelê çap bike… ({ $shortcut })
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Hilpekînên gerokê
-
 tabs-toolbar-new-tab =
     .label = Hilpekîna Nû
-
 tabs-toolbar-list-all-tabs =
     .label = Hemû hilpekînan lîste bike
     .tooltiptext = Hemû hilpekînan lîste bike
@@ -254,6 +243,10 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } nehişt ku ev malper rûpelê xweber nû bike.
@@ -262,13 +255,8 @@ refresh-blocked-redirect-label = { -brand-short-name } nehişt ku ev malper ber 
 ## Firefox Relay integration
 
 
-## Popup Notification
-
-
-## Pop-up Notification
-
-
 ## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
@@ -279,7 +267,6 @@ popup-warning-message =
         [one] { -brand-short-name }ê asteng kir ku ev malper popupekê veke.
        *[other] { -brand-short-name }ê asteng kir ku ev malper { $popupCount } popupan veke.
     }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
