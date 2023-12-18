@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = 저장
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = 저장 안 함
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = 업데이트
     .accesskey = U
