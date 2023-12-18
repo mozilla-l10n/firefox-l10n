@@ -44,7 +44,6 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tseleganya letshwaotsebe le ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -93,7 +92,6 @@ identity-active-blocked = { -brand-short-name } e kgoreleditse dikarolo tsa tseb
 identity-passive-loaded = Dikarolo tsa tsebe e ga di a sireletsega (jaaka ditshwantsho).
 identity-active-loaded = O thibetse go dira ga tshireletso mo tsebeng e.
 identity-weak-encryption = Tsebe eno e dirisa mokgwatshireletso o bokoa.
-
 identity-description-insecure = Kgolagano ya gago mo saete eno ga e poraefete. Tshedimosetso e o e romelang e ka lebiwa ke batho ba bangwe (jaaka dikhunololamoraba, melaetsa, dikaratamolato, le tse dingwe.).
 identity-description-weak-cipher-intro = Kgolagano ya gago mo saete eno e dirisa mokgwatshireletso o bokoa gape ga e poraefete.
 identity-description-weak-cipher-risk = Batho bangwe ba kgona go leba tshedimosetso ya gago kgotsa go fetola tiro - tsamaiso ya webosaete.
@@ -142,12 +140,13 @@ popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Tswala
 urlbar-placeholder =
     .placeholder = Batla kgotsa tsenya aterese
-
 urlbar-switch-to-tab =
     .value = Fetolela ko thebeng:
-
 urlbar-go-button =
     .tooltiptext = Ya ko atereseng e mo Bara ya lefelo
 
@@ -183,14 +182,9 @@ urlbar-result-action-search-w-engine = Batla ka: { $engine }
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ga jaana e mo sekerini se se tletseng
 fullscreen-warning-no-domain = Tokumente e, e mo sekerini se se tletseng
-
-
 fullscreen-exit-button = Tswaya mo sekerini se se tletseng (Tswaya)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tswaya mo sekerini se se tletseng (tswaya)
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -227,19 +221,16 @@ bookmarks-toolbar-placeholder-button =
 toolbar-button-email-link =
     .label = Kgokagano ya Imeile
     .tooltiptext = Romela kgokagano ka imeile ko tsebeng e
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Boloka Tsebe
     .tooltiptext = Boloka tsebe e ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Bula Faele
     .tooltiptext = Bula faele ({ $shortcut })
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -253,9 +244,6 @@ eme-notifications-drm-content-playing = Modumo mongwe kgotsa bidio mo saeteng e,
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -267,7 +255,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Letlelela ditlhagelelo tsa { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Thibela ditlhagelelo tsa { $uriHost }
     .accesskey = p
@@ -289,25 +276,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Dikopololo
-
 navbar-overflow =
     .tooltiptext = Didirisiwa tse dintsi...
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Gatisa
     .tooltiptext = Gatisa tsebe e... ({ $shortcut })
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Dithebe tsa Sebatli
-
 tabs-toolbar-new-tab =
     .label = Thebe e Ntšha
-
 tabs-toolbar-list-all-tabs =
     .label = Dira lenaane la dithebe tsotlhe
     .tooltiptext = Dira lenaane la dithebe tsotlhe
@@ -332,19 +314,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } thibetse tsebe e go itirisa sešwa.
 refresh-blocked-redirect-label = { -brand-short-name } e thibetse tsebe e go itirisa mo phetisong go ya tsebeng e nngwe.
-
 refresh-blocked-allow =
     .label = Letlelela
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -361,7 +343,6 @@ popup-warning-message =
         [one] { -brand-short-name } kganetse saete e go bula window e e tlhagelelang .
        *[other] { -brand-short-name } kganetse saete e go bula { $popupCount } windows tse di tlhagelelang.
     }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
