@@ -38,7 +38,7 @@ protection-report-manage-protections = Διαχείριση ρυθμίσεων
 # capitalization for this string should match the output for your locale.
 graph-today = Σήμερα
 # This string is used to describe the graph for screenreader users.
-graph-legend-description = Ένα γράφημα με το συνολικό αριθμό κάθε τύπου ιχνηλάτη που έχει αποκλειστεί αυτή την εβδομάδα.
+graph-legend-description = Ένα γράφημα με το συνολικό αριθμό κάθε τύπου ιχνηλάτη που έχει αποκλειστεί αυτήν την εβδομάδα.
 social-tab-title = Ιχνηλάτες κοινωνικών δικτύων
 social-tab-contant = Τα κοινωνικά δίκτυα τοποθετούν ιχνηλάτες σε άλλες ιστοσελίδες για να παρακολουθούν ό,τι κάνετε και βλέπετε στο διαδίκτυο. Αυτό επιτρέπει στις εταιρείες κοινωνικών μέσων να μάθουν περισσότερα για εσάς πέρα από αυτά που κοινοποιείτε στα προφίλ κοινωνικών μέσων σας. <a data-l10n-name="learn-more-link">Μάθετε περισσότερα</a>
 cookie-tab-title = Cookie καταγραφής μεταξύ ιστοτόπων

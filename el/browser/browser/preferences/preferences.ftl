@@ -424,11 +424,11 @@ update-setting-write-failure-title2 = Σφάλμα αποθήκευσης ρυθ
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
-    Το { -brand-short-name } αντιμετώπισε σφάλμα και δεν αποθήκευσε αυτή την αλλαγή. Σημειώστε ότι η αλλαγή αυτής της επιλογής ενημερώσεων απαιτεί δικαίωμα εγγραφής στο παρακάτω αρχείο. Εσείς ή κάποιος διαχειριστής συστήματος ενδέχεται να μπορέσει να επιλύσει το σφάλμα, χορηγώντας στην ομάδα "Χρήστες" τον πλήρη έλεγχο για αυτό το αρχείο.
+    Το { -brand-short-name } αντιμετώπισε σφάλμα και δεν αποθήκευσε αυτήν την αλλαγή. Σημειώστε ότι η αλλαγή αυτής της επιλογής ενημερώσεων απαιτεί δικαίωμα εγγραφής στο παρακάτω αρχείο. Εσείς ή κάποιος διαχειριστής συστήματος ενδέχεται να μπορέσει να επιλύσει το σφάλμα, χορηγώντας στην ομάδα "Χρήστες" τον πλήρη έλεγχο για αυτό το αρχείο.
     
     Δεν ήταν δυνατή η εγγραφή στο αρχείο: { $path }
 update-in-progress-title = Ενημέρωση σε εξέλιξη
-update-in-progress-message = Θέλετε το { -brand-short-name } να συνεχίσει με αυτή την ενημέρωση;
+update-in-progress-message = Θέλετε το { -brand-short-name } να συνεχίσει με αυτήν την ενημέρωση;
 update-in-progress-ok-button = &Απόρριψη
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -993,7 +993,7 @@ sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδ
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Αυτή τη στιγμή, τα αποθηκευμένα cookie, τα δεδομένα ιστοτόπων και η κρυφή μνήμη καταλαμβάνουν { $value } { $unit } χώρου στον δίσκο.
+sitedata-total-size = Αυτήν τη στιγμή, τα αποθηκευμένα cookie, τα δεδομένα ιστοτόπων και η κρυφή μνήμη καταλαμβάνουν { $value } { $unit } χώρου στον δίσκο.
 sitedata-learn-more = Μάθετε περισσότερα
 sitedata-delete-on-close =
     .label = Διαγραφή cookie και δεδομένων ιστοτόπων όταν κλείνει το { -brand-short-name }
