@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = บันทึก
     .accesskey = บ
+password-manager-save-password-button-never =
+    .label = ไม่บันทึกเสมอ
+    .accesskey = ส
 password-manager-password-password-button-allow =
     .label = อัปเดต
     .accesskey = อ
