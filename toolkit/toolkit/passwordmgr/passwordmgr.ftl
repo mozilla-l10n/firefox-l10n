@@ -20,4 +20,7 @@ password-manager-update-password-button-deny =
     .accesskey = Н
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Немає імені користувача
+password-manager-toggle-password =
+    .label = Показати пароль
+    .accesskey = о
 password-manager-confirm-password-change = Підтвердження зміни пароля
