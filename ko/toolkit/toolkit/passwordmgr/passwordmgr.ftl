@@ -5,12 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = { $host }의 비밀번호를 저장하시겠습니까?
 password-manager-save-password-button-allow =
     .label = 저장
     .accesskey = S
 password-manager-save-password-button-never =
     .label = 저장 안 함
     .accesskey = e
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = { $host }의 비밀번호를 업데이트하시겠습니까?
+password-manager-update-login-add-username = 저장된 비밀번호에 사용자 이름을 추가하시겠습니까?
 password-manager-password-password-button-allow =
     .label = 업데이트
     .accesskey = U
