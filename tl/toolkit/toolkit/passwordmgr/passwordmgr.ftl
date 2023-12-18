@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = I-save
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Huwag Kailanman I-save
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = I-update
     .accesskey = U
