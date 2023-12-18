@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Salvează
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Nu salva niciodată
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = Actualizează
     .accesskey = U
