@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Αποθήκευση κωδικού πρόσβασης για το { $host };
 password-manager-save-password-button-allow =
     .label = Αποθήκευση
     .accesskey = Α
+password-manager-save-password-button-never =
+    .label = Ποτέ αποθήκευση
+    .accesskey = η
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Ενημέρωση κωδικού πρόσβασης για το { $host };
+password-manager-update-login-add-username = Προσθήκη ονόματος χρήστη στον αποθηκευμένο κωδικό πρόσβασης;
 password-manager-password-password-button-allow =
     .label = Ενημέρωση
     .accesskey = Ε
