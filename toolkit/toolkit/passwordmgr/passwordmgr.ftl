@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Guardar
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Nunca guardar
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = Actualizar
     .accesskey = U
