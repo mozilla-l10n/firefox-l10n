@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = I-save
     .accesskey = S
+password-manager-password-password-button-allow =
+    .label = I-update
+    .accesskey = U
 password-manager-update-password-button-deny =
     .label = Wag I-update
     .accesskey = D
