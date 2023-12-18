@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Permitter le autorisation unic de Windows pro le contos de labor e schola de Microsoft
 forms-windows-sso-learn-more-link = Saper plus
 forms-windows-sso-desc = Gerer contos in le parametros de tu apparato
+windows-passkey-settings-label = Gerer claves-contrasigno in le parametros de systema
 
 ## OS Authentication dialog
 

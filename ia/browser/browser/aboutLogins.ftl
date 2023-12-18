@@ -288,6 +288,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Exportar credentiales e contrasignos
 about-logins-confirm-export-dialog-message = Tu contrasignos sera salvate como texto legibile (e.g., "P@ssw0rd123"), assi quicunque pote aperir le file exportate, pote vider los.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-confirm-export-dialog-title2 = Un nota circa exportar contrasignos
+about-logins-confirm-export-dialog-message2 =
+    Quando tu exporta, tu contrasignos es salvate in un file con texto legibile.
+    Quando tu ha finite de usar le file, nos consilia de deler lo assi alteres qui usa iste apparato non pote vider tu contrasignos.
+about-logins-confirm-export-dialog-confirm-button2 = Continuar con le exportation
 about-logins-alert-import-title = Importation complete
 about-logins-alert-import-message = Vider un summario detaliate del importation
 confirm-discard-changes-dialog-title = Abandonar le modificationes non salvate?
@@ -329,6 +334,8 @@ about-logins-export-file-picker-title = Exportar file de credentiales
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = credenziales.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Exportar contrasignos ab { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = passwords.csv

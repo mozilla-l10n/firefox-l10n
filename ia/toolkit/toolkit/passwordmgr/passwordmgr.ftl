@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Salvar le contrasigno pro { $host }?
+password-manager-save-password-button-deny =
+    .label = Non ora
+    .accesskey = N
 password-manager-save-password-button-allow =
     .label = Salvar
     .accesskey = S
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Actualisar le contrasigno pro { $host }?
+password-manager-update-password-button-delete =
+    .label = Remover le contrasignos salvate
+    .accesskey = R
 password-manager-update-login-add-username = Adder le nomine de usator al contrasigno salvate?
 password-manager-password-password-button-allow =
     .label = Actualisar
