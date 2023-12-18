@@ -5,4 +5,16 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Save
+    .accesskey = S
+password-manager-password-password-button-allow =
+    .label = Update
+    .accesskey = U
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = No username
+password-manager-toggle-password =
+    .label = Show password
+    .accesskey = h
 password-manager-confirm-password-change = Confirm Password Change
+password-manager-select-username = Select which login to update:
