@@ -10,7 +10,6 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } ການທ່ອງເວັບສ່ວນຕົວ
@@ -73,7 +72,6 @@ urlbar-search-tips-confirm-short = ເຂົ້າໃຈແລ້ວ!
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = ເຄັດລັບ:
-
 urlbar-result-menu-button =
     .title = ເປີດເມນູ
 urlbar-result-menu-learn-more =
@@ -93,10 +91,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = ພິມໜ້ອຍລົງ, ຊອກຫາເພີ່ມເຕີມ: ຊອກຫາ { $engineName } ທັນທີຈາກແຖບທີ່ຢູ່ຂອງເຈົ້າ.
 urlbar-search-tips-redirect-2 = ເລີ່ມການຄົ້ນຫາຂອງທ່ານໃນແຖບທີ່ຢູ່ເພື່ອເບິ່ງຄໍາແນະນໍາຈາກ { $engineName } ແລະປະຫວັດການທ່ອງເວັບຂອງທ່ານ.
-
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = ການຊອກຫາໄດ້ງ່າຍຂຶ້ນ. ພະຍາຍາມເຮັດໃຫ້ການຊອກຫາຂອງທ່ານສະເພາະຫຼາຍຂຶ້ນຢູ່ທີ່ນີ້ໃນແຖບທີ່ຢູ່. ເພື່ອສະແດງ URL ແທນ, ໃຫ້ເຂົ້າໄປທີ່ Search, ໃນການຕັ້ງຄ່າ.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = ເລືອກທາງລັດນີ້ເພື່ອຊອກຫາສິ່ງທີ່ທ່ານຕ້ອງການໄວຂຶ້ນ.
@@ -134,12 +130,10 @@ urlbar-midi-blocked =
     .tooltiptext = ທ່ານໄດ້ບລັອກການເຂົ້າເຖິງ MIDI ສໍາລັບເວັບໄຊທ໌ນີ້.
 urlbar-install-blocked =
     .tooltiptext = ທ່ານໄດ້ສະກັດການຕິດຕັ້ງ add-on ສໍາລັບເວັບໄຊທ໌ນີ້.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ແກ້ໄຂບຸກມາກນີ້ ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -168,10 +162,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ຄັ້ງນີ້ ຄົ້ນຫາດ້ວຍ:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ປ່ຽນການຕັ້ງຄ່າການຊອກຫາ
-
 search-one-offs-context-open-new-tab =
     .label = ຊອກຫາໃນແທັບໃຫມ່
     .accesskey = T
@@ -181,14 +173,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ຕັ້ງເປັນ Default Search Engine ສໍາລັບ Windows ສ່ວນຕົວ
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName }({ $alias })
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -217,71 +207,54 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = ເບິ່ງ Add-ons
 quickactions-cmd-addons2 = ສ່ວນເສີມ
-
 # Opens the bookmarks library window
 quickactions-bookmarks2 = ຈັດການບຸກມາກ
 quickactions-cmd-bookmarks = ບຸກມາກ
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = ລຶບລ້າງປະຫວັດ
 quickactions-cmd-clearhistory = ລົບລ້າງປະຫວັດການໃຊ້ງານ
-
 # Opens about:downloads page
 quickactions-downloads2 = ເບິ່ງການດາວໂຫຼດ
 quickactions-cmd-downloads = ດາວໂຫລດ
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = ຈັດການສ່ວນເສີມ
 quickactions-cmd-extensions = ສ່ວນເສີມ
-
 # Opens the devtools web inspector
 quickactions-inspector2 = ເປີດເຄື່ອງມືນັກພັດທະນາ
 quickactions-cmd-inspector = ຜູ້ກວດກາ, devtools
-
 # Opens about:logins
 quickactions-logins2 = ຈັດການລະຫັດຜ່ານ
 quickactions-cmd-logins = ເຂົ້າສູ່ລະບົບ, ລະຫັດຜ່ານ
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = ຈັດການປລັກອິນ
 quickactions-cmd-plugins = ປລັກອິນ
-
 # Opens the print dialog
 quickactions-print2 = ໜ້າພິມ
 quickactions-cmd-print = ພິມ
-
 # Opens a new private browsing window
 quickactions-private2 = ເປີດປ່ອງຢ້ຽມສ່ວນຕົວ
 quickactions-cmd-private = ການທ່ອງເວັບແບບສ່ວນຕົວ
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = ຟື້ນຟູ { -brand-short-name }
 quickactions-cmd-refresh = ໂຫຼດຄືນໃໝ່
-
 # Restarts the browser
 quickactions-restart = ເລີ່ມເຮັດວຽກ { -brand-short-name } ໃຫມ່
 quickactions-cmd-restart = ເລີ່ມຕົ້ນລະບົບໃຫມ່
-
 # Opens the screenshot tool
 quickactions-screenshot3 = ຖ່າຍຮູບໜ້າຈໍ
 quickactions-cmd-screenshot = ພາບໜ້າຈໍ
-
 # Opens about:preferences
 quickactions-settings2 = ຈັດການການຕັ້ງຄ່າ
 quickactions-cmd-settings = ການຕັ້ງຄ່າ, ຄ່າກຳນົດ, ຕົວເລືອກ
-
 # Opens about:addons page in the themes section
 quickactions-themes = ຈັດການຊຸດຕົບແຕ່ງ
 quickactions-cmd-themes = ຊຸດຕົກແຕ່ງ
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = ອັບເດດ { -brand-short-name }
 quickactions-cmd-update = ອັບເດດ
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ເບິງແຫລ່ງຂໍ້ມູນຂອງຫນ້ານີ້
 quickactions-cmd-viewsource = ເບິ່ງຕົ້ນສະບັບ, ຕົ້ນສະບັບ
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = ສຶກສາເພີ່ມເຕີມກ່ຽວກັບການດຳເນີນການດ່ວນ
@@ -303,7 +276,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = s
 bookmark-panel-save-button =
     .label = ບັນທຶກ
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -331,7 +303,6 @@ identity-passive-loaded = ເນື້ອຫາບາງສ່ວນໃນຫນ
 identity-active-loaded = ທ່ານໄດ້ປິດການປ້ອງກັນຢູ່ໃນໜ້ານີ້.
 identity-weak-encryption = ໜ້ານີ້ໃຊ້ການເຂົ້າລະຫັດທີ່ອ່ອນແອ.
 identity-insecure-login-forms = ການປ້ອນຂໍ້ມູນການລັອກອິນທີ່ໃສ່ໄວ້ເທິງຫນ້ານີ້ອາດຈະຖືກບຸກລຸກໄດ້.
-
 identity-https-only-connection-upgraded = (ອັບເກຣດເປັນ HTTPS)
 identity-https-only-label = ໂໝດ HTTPS ເທົ່ານັ້ນ
 identity-https-only-dropdown-on =
@@ -343,11 +314,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = ເປີດໃຊ້ HTTPS-Only Mode ສໍາລັບເວັບໄຊທ໌ນີ້ ຖ້າທ່ານຕ້ອງການ { -brand-short-name } ເພື່ອຍົກລະດັບການເຊື່ອມຕໍ່ເມື່ອເປັນໄປໄດ້.
 identity-https-only-info-turn-off2 = ຫາກໜ້ານີ້ເບິ່ງຄືຈະພັງ, ທ່ານອາດຈະຕ້ອງປິດ HTTPS-Only Mode ສໍາລັບເວັບໄຊທ໌ນີ້ເພື່ອໂຫຼດໃຫມ່ໂດຍໃຊ້ HTTP ທີ່ບໍ່ປອດໄພ.
 identity-https-only-info-no-upgrade = ບໍ່ສາມາດອັບເກຣດການເຊື່ອມຕໍ່ຈາກ HTTP ໄດ້.
-
 identity-permissions-storage-access-header = ຄຸກກີຂ້າມເວັບໄຊ
 identity-permissions-storage-access-hint = ພາກສ່ວນເຫຼົ່ານີ້ສາມາດໃຊ້ຄຸກກີຂ້າມເວັບໄຊ ແລະຂໍ້ມູນເວັບໄຊໃນຂະນະທີ່ເຈົ້າຢູ່ໃນເວັບໄຊນີ້.
 identity-permissions-storage-access-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-
 identity-permissions-reload-hint = ທ່ານອາດຕ້ອງໂຫລດຫນ້າຄືນໃຫມ່ເພື່ອໃຫ້ການປ່ຽນແປງມີຜົນ.
 identity-clear-site-data =
     .label = ລ້າງຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ…
@@ -442,11 +411,13 @@ enable-devtools-popup-description2 = ເພື່ອໃຊ້ທາງລັດ 
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = ປິດ
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -455,17 +426,14 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = ຊອກຫາເວັບ
     .aria-label = ຊອກດ້ວຍ { $name }
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາ
     .aria-label = ຄົ້ນຫາປະຫວັດ
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ຊອກຫາດ້ວຍ { $name } ຫລື ປ້ອນທີ່ຢູ່ໃສ່
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -475,11 +443,9 @@ urlbar-permissions-granted =
     .tooltiptext = ທ່ານໄດ້ໃຫ້ການອະນຸຍາດເພີ່ມເຕີມແກ່ເວັບໄຊທ໌ນີ້.
 urlbar-switch-to-tab =
     .value = ຍ້າຍໄປແທັບ:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ສ່ວນຂະຫຍາຍ:
-
 urlbar-go-button =
     .tooltiptext = ໄປຫາທີ່ຢູ່ໃນແຖບຕຳແຫນ່ງທີ່ຢູ່
 urlbar-page-action-button =
@@ -547,14 +513,12 @@ urlbar-result-action-search-actions = ຄຳສັ່ງການຄົ້ນຫ
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } ແນະນຳ
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = ຄຳສັ່ງດ່ວນ
@@ -574,7 +538,6 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = ເປີດຮູບໃນຮູບ ({ $shortcut })
-
 picture-in-picture-urlbar-button-close =
     .tooltiptext = ປິດຮູບໃນຮູບ ({ $shortcut })
 
@@ -585,19 +548,14 @@ picture-in-picture-urlbar-button-close =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ເຕັມຈໍຢູ່
 fullscreen-warning-no-domain = ເອກະສານນີ້ເຕັມຈໍຢູ່
-
-
 fullscreen-exit-button = ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ໄດ້ຄວບຄຸມຄົວຊີ້ຂອງທ່ານ. ກົດ Esc ເພື່ອເອົາການຄວບຄຸມກັບຄືນມາ.
 pointerlock-warning-no-domain = ເອກະສານນີ້ໄດ້ຄວບຄຸມຕົວຊີ້ຂອງທ່ານ. ກົດ Esc ເພື່ອເອົາການຄວບຄຸມກັບຄືນມາ.
-
-## Subframe crash notification
 
 ## Bookmarks panels, menus and toolbar
 
@@ -652,14 +610,12 @@ bookmarks-tools =
     .label = ເຄື່ອງມືບຸກມາກ
 bookmarks-subview-edit-bookmark =
     .label = ແກ້ໄຂບຸກມາກນີ້...
-
 bookmarks-toolbar-menu =
     .label = ແຖບເຄື່ອງມືບຸກມາກ
 bookmarks-toolbar-placeholder =
     .title = ລາຍການຂອງແຖບເຄື່ອງມືບຸກມາກ
 bookmarks-toolbar-placeholder-button =
     .label = ລາຍການຂອງແຖບເຄື່ອງມືບຸກມາກ
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = ບຸກມາກແຖບປະຈຸບັນ...
@@ -685,27 +641,22 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = ປັບແຕ່ງແຖບເຄື່ອງມື…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = ລີ້ງອີເມລ
     .tooltiptext = ລີ້ງອີເມລໄປຫາຫນ້ານີ້
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = ບັນທຶກຫນ້າເວັບ
     .tooltiptext = ບັນທຶກຫນ້ານີ້ ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ເປີດໄຟລ໌
     .tooltiptext = ເປີດຟາຍ ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = ແທັບທີ່ຊິງຄ໌ແລ້ວ
     .tooltiptext = ສະແດງແທັບຈາກອຸປະກອນອື່ນ
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -725,8 +676,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ວ
 panel-save-update-username = ຊື່ຜູ້ໃຊ້
 panel-save-update-password = ລະຫັດຜ່ານ
 
-## Add-on removal warning
-
 ##
 
 # "More" item in macOS share menu
@@ -741,7 +690,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = ອະນຸຍາດໃຫ້ປັອບອັບສຳລັບ { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = ບລັອກປັອບອັບສຳລັບ { $uriHost }
     .accesskey = p
@@ -751,11 +699,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = ບໍສະແດງຂໍ້ຄວາມນີ້ເມື່ອປັອບອັບບໍໄດ້ຮັບການບັອກ
     .accesskey = D
-
 edit-popup-settings =
     .label = ຈັດການການຕັ້ງຄ່າປັອບອັບ...
     .accesskey = M
-
 picture-in-picture-hide-toggle =
     .label = ເຊື່ອງການສະຫຼັບຮູບໃນຮູບ
     .accesskey = H
@@ -766,7 +712,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = ຍ້າຍຮູບໃນຮູບສະຫຼັບໄປເບື້ອງຂວາ
     .accesskey = R
-
 picture-in-picture-move-toggle-left =
     .label = ຍ້າຍຮູບໃນຮູບສະຫຼັບໄປຊ້າຍ
     .accesskey = L
@@ -781,39 +726,30 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = ການນໍາທາງ
-
 navbar-downloads =
     .label = ດາວໂຫລດ
-
 navbar-overflow =
     .tooltiptext = ເຄື່ອງມືເພີ່ມເຕີມ…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = ພິມ
     .tooltiptext = ພິມຫນ້ານີ້… ({ $shortcut })
-
 navbar-home =
     .label = ຫນ້າຫລັກ
     .tooltiptext = ຫນ້າຫລັກ { -brand-short-name }
-
 navbar-library =
     .label = ຄັງ
     .tooltiptext = ເບິ່ງປະຫວັດການໃຊ້ງານ, ບຸກມາກທີ່ບັນທຶກໄວ້, ແລະອື່ນໆ
-
 navbar-search =
     .title = ຊອກຫາ
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ແທັບບຣາວເຊີ
-
 tabs-toolbar-new-tab =
     .label = ແທັບໃຫມ່
-
 tabs-toolbar-list-all-tabs =
     .label = ສະແດງລາຍຊື່ແຖບທັງໝົດ
     .tooltiptext = ສະແດງລາຍຊື່ແຖບທັງໝົດ
@@ -830,7 +766,6 @@ data-reporting-notification-message = { -brand-short-name } ສົ່ງຂໍ�
 data-reporting-notification-button =
     .label = ເລືອກສິ່ງທີ່ຂ້ອຍຈະແບ່ງປັນ
     .accesskey = C
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = ການທ່ອງເວັບແບບສ່ວນຕົວ
 
@@ -850,25 +785,24 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ປ້ອງກັນບໍ່ໃຫ້ໜ້ານີ້ໂຫຼດໃໝ່ໂດຍອັດຕະໂນມັດ.
 refresh-blocked-redirect-label = { -brand-short-name } ໄດ້ປ້ອງກັນໜ້ານີ້ຈາກການປ່ຽນເສັ້ນທາງໄປຫາໜ້າອື່ນໂດຍອັດຕະໂນມັດ.
-
 refresh-blocked-allow =
     .label = ອະນຸຍາດ
     .accesskey = A
 
 ## Firefox Relay integration
 
-## Popup Notification
-
 firefox-relay-offer-why-to-use-relay = ໜ້າກາກທີ່ປອດໄພ ແລະ ໃຊ້ງ່າຍຂອງພວກເຮົາປົກປ້ອງຕົວຕົນຂອງເຈົ້າ ແລະ ປ້ອງກັນສະແປມໂດຍການເຊື່ອງທີ່ຢູ່ອີເມວຂອງເຈົ້າ.
-
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = ອີເມວທັງໝົດທີ່ຖືກສົ່ງໄປຫາໜ້າກາກອີເມວຂອງທ່ານຈະຖືກສົ່ງຕໍ່ໄປຫາ <strong>{ $useremail }</strong> (ເວັ້ນເສຍແຕ່ວ່າທ່ານຕັດສິນໃຈບລັອກພວກມັນ).
-
 firefox-relay-offer-legal-notice = ໂດຍການຄລິກ “ໃຊ້ໜ້າກາກອີເມວ”, ທ່ານເຫັນດີນຳ <label data-l10n-name="tos-url">ເງື່ອນໄຂການໃຫ້ບໍລິການ</label> ແລະ <label data-l10n-name="privacy-url">ປະກາດຄວາມເປັນສ່ວນຕົວ </label>.
 
 ## Add-on Pop-up Notifications
@@ -897,7 +831,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
