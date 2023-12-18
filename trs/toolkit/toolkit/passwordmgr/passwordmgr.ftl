@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Na'ninj so'
     .accesskey = N
+password-manager-save-password-button-never =
+    .label = Nitaj dama na'nïnj sà't man
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = Nagui'iaj nako'
     .accesskey = U
