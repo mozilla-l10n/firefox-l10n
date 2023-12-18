@@ -87,18 +87,17 @@ urlbar-canvas-blocked =
     .tooltiptext = You have blocked canvas data extraction for this website.
 urlbar-midi-blocked =
     .tooltiptext = You have blocked MIDI access for this website.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = འདི་ལ་ཡིག་རྟགས་འཇོག་པ ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -113,7 +112,6 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = འཚོལ་བཤེར་གྱི་སྒྲིག་འགོད་སྒྱུར་བ
-
 search-one-offs-context-open-new-tab =
     .label = ཡན་ལག་ངོས་གསར་བའི་ནང་དུ་འཚོལ་བ
     .accesskey = T
@@ -147,7 +145,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Show editor when saving
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -164,7 +161,6 @@ identity-passive-loaded = Parts of this page are not secure (such as images).
 identity-active-loaded = You have disabled protection on this page.
 identity-weak-encryption = This page uses weak encryption.
 identity-insecure-login-forms = Logins entered on this page could be compromised.
-
 identity-permissions-reload-hint = You may need to reload the page for changes to apply.
 identity-clear-site-data =
     .label = Clear Cookies and Site Data…
@@ -220,21 +216,20 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Close
 urlbar-placeholder =
     .placeholder = འཚོལ་བཤེར་དང་ཡང་ན་དྲ་གནས་འཇུག་དགོས
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name }་ཐོག་ཏུ་འཚོལ་བ་དང་ཡང་ན་དྲ་གནས་བླུག་དགོས
-
 urlbar-switch-to-tab =
     .value = Switch to tab:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ཟུར་སྣོན:
-
 urlbar-go-button =
     .tooltiptext = གནས་ཁོངས་ངོས་ཀྱི་དྲ་གནས་ཐོག་ཏུ་སྐྱོད་པ
 urlbar-page-action-button =
@@ -280,20 +275,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> is now full screen
 fullscreen-warning-no-domain = ཡིག་ཆ་འདི་ད་ལྟ་འཆར་ངོས་ཡོངས་ཀྱི་རྣམ་པ་ཡིན
-
-
 fullscreen-exit-button = འཆར་ངོས་ཡོངས་ནས་ཕྱིར་བུད (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = འཆར་ངོས་ཡོངས་ནས་ཕྱིར་བུད (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> has control of your pointer. Press Esc to take back control.
 pointerlock-warning-no-domain = This document has control of your pointer. Press Esc to take back control.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -337,7 +326,6 @@ bookmarks-search =
     .label = ཡིག་རྟགས་འཚོལ་བ
 bookmarks-tools =
     .label = ཡིག་རྟགས་ཀྱི་ལག་ཆ
-
 bookmarks-toolbar-menu =
     .label = ཡིག་རྟགས་ཀྱི་ལག་ཆ་ངོས
 bookmarks-toolbar-placeholder =
@@ -361,27 +349,22 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = ལག་ཆའི་ངོས་རང་མོས་སྒྲིག་འགོས…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = གློག་ཡི་བརྒྱུད་ནས་སྦྲེལ་ཐག་སྐུར་བ
     .tooltiptext = Email a link to this page
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = དྲ་ངོས་ཉར་ཚགས
     .tooltiptext = དྲ་ངོས་འདི་ཉར་ཚགས ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ཡིག་ཆ་ཁ་ཕྱེ
     .tooltiptext = ཡིག་ཆ་ཞིག་ཁ་ཕྱེ ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = སྙོམ་སྒྲིག་བྱས་པའི་ཡན་ལག་ངོས
     .tooltiptext = Show tabs from other devices
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -395,9 +378,6 @@ eme-notifications-drm-content-playing = Some audio or video on this site uses DR
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -409,7 +389,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow pop-ups for { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Block pop-ups for { $uriHost }
     .accesskey = p
@@ -431,36 +410,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ལེན་འཇུག
-
 navbar-overflow =
     .tooltiptext = ལག་ཆ་གཞན…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = པར་འདེབས
     .tooltiptext = དྲ་ངོས་འདི་པར་འདེབས… ({ $shortcut })
-
 navbar-home =
     .label = གཅོ་ངོས
     .tooltiptext = { -brand-short-name } ཡི་གཙོ་ངོས
-
 navbar-library =
     .label = གསོག་མཛོད
     .tooltiptext = ཟིན་ཐོ་དང་ཉར་ཚགས་བྱས་པའི་ཡིག་རྟགས་སོགས་ལ་ལྟ་བ
-
 navbar-search =
     .title = འཚོལ་བཤེར
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Browser tabs
-
 tabs-toolbar-new-tab =
     .label = ཡན་ལག་ངོས་གསར་བ
-
 tabs-toolbar-list-all-tabs =
     .label = ཡན་ལག་ངོས་ཡོངས་སྟོན་པ
     .tooltiptext = ཡན་ལག་ངོས་ཡོངས་སྟོན་པ
@@ -485,19 +456,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }་ཡིས་དྲ་ཚིགས་འདིས་རང་འགུལ་གྱིས་བསྐྱར་འཇུག་བྱེད་པར་བཀག་འགོག་བྱས་ཟིན།
 refresh-blocked-redirect-label = { -brand-short-name }་ཡིས་དྲ་ཚིགས་འདིས་རང་འགུལ་གྱིས་དྲ་ངོས་བཞན་ལ་ཁ་བསྒྱུར་བར་བཀག་འགོག་བྱས་ཟིན།
-
 refresh-blocked-allow =
     .label = Allow
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -518,7 +489,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
