@@ -778,6 +778,9 @@ pane-privacy-logins-and-passwords-header = Регистрации и парол�
 forms-ask-to-save-logins =
     .label = Питане при запазване имена и пароли за вход в страниците
     .accesskey = т
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Изключения…
     .accesskey = к
@@ -827,6 +830,9 @@ forms-windows-sso-desc = Управление на профили в настр�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = създаде основна парола
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -979,7 +985,10 @@ content-blocking-fingerprinters = Снемане на цифров отпеча�
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Цялостната защита на бисквитките изолира бисквитките само до страницата на която сте, така че механизмите за проследяване да не могат да ви проследят в различни сайтове.
 content-blocking-etp-standard-tcp-rollout-learn-more = Научете повече
+content-blocking-etp-standard-tcp-title = Включва цялостна защита на бисквитките, най-мощната ни поверителна функция
 content-blocking-warning-title = Внимание!
 content-blocking-warning-learn-how = Научете как
 content-blocking-reload-description = За да бъдат приложени промените, разделите трябва да бъдат презаредени.
