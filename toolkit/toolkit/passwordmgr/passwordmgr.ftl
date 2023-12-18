@@ -14,6 +14,9 @@ password-manager-save-password-button-allow =
 password-manager-save-password-button-never =
     .label = Spara aldrig
     .accesskey = a
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Uppdatera lösenord för { $host }?
 password-manager-update-login-add-username = Lägg till användarnamn till det sparade lösenord?
 password-manager-password-password-button-allow =
     .label = Uppdatera
