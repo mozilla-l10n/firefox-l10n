@@ -5,9 +5,16 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = 要保存 { $host } 的密码吗？
 password-manager-save-password-button-allow =
     .label = 保存
     .accesskey = S
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = 要更新 { $host } 的密码吗？
+password-manager-update-login-add-username = 要将用户名添加到已存密码吗？
 password-manager-password-password-button-allow =
     .label = 更新
     .accesskey = U
