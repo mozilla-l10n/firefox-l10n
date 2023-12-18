@@ -5,4 +5,16 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = დამახსოვრება
+    .accesskey = დ
+password-manager-password-password-button-allow =
+    .label = განახლება
+    .accesskey = ხ
+password-manager-update-password-button-deny =
+    .label = განახლების გარეშე
+    .accesskey = გ
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = მომხმარებლის სახელი არაა მითითებული
 password-manager-confirm-password-change = პაროლის შეცვლის თანხმობა
+password-manager-select-username = აირჩიეთ შესვლის მონაცემები გასაახლებლად:
