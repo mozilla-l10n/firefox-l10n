@@ -30,3 +30,4 @@ password-manager-toggle-password =
     .label = Monstrar le contrasigno
     .accesskey = c
 password-manager-confirm-password-change = Confirmar le cambio de contrasigno
+password-manager-select-username = Selige qual credential actualisar:
