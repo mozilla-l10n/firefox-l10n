@@ -8,3 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Posodobim geslo za { $host }?
+password-manager-password-password-button-allow =
+    .label = Posodobi
+    .accesskey = P
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = Ni uporabniškega imena
+password-manager-confirm-password-change = Potrditev spremembe gesla
