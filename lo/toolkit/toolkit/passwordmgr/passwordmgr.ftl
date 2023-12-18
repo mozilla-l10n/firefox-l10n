@@ -5,9 +5,18 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = ທ່ານຕ້ອງການໃຫ້ %1$S ບັນທຶກລະຫັດຜ່ານນີ້ໄວ້ເພື່ອ %2$S?
+    .accesskey = S
 password-manager-password-password-button-allow =
     .label = ອັບເດດ
     .accesskey = U
+password-manager-update-password-button-deny =
+    .label = ບໍ່ອັບເດດ
+    .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = ບໍ່ມີຊື່ຜູ້ໃຊ້​
+password-manager-toggle-password =
+    .label = ສະແດງລະຫັດຜ່ານ
+    .accesskey = h
 password-manager-confirm-password-change = ຢືນຢັນການປ່ຽນແປງລະຫັດຜ່ານ
