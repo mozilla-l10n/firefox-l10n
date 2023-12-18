@@ -5,6 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Sekles
+    .accesskey = S
 password-manager-password-password-button-allow =
     .label = Leqqem
     .accesskey = U
