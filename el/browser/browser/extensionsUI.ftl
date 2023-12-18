@@ -16,7 +16,7 @@ webext-default-search-no =
     .accesskey = Ό
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
-addon-post-install-message = Το { $addonName } προστέθηκε.
+addon-post-install-message = Έγινε προσθήκη του { $addonName }.
 
 ## A modal confirmation dialog to allow an extension on quarantined domains.
 
