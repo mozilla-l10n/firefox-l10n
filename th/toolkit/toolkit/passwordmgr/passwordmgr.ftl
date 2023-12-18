@@ -20,3 +20,4 @@ password-manager-toggle-password =
     .label = แสดงรหัสผ่าน
     .accesskey = ส
 password-manager-confirm-password-change = ยืนยันการเปลี่ยนรหัสผ่าน
+password-manager-select-username = เลือกการเข้าสู่ระบบที่จะอัปเดต:
