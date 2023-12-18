@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = احفظ
     .accesskey = ح
+password-manager-save-password-button-never =
+    .label = لا تحفظ أبدًا
+    .accesskey = ظ
 password-manager-password-password-button-allow =
     .label = حدّث
     .accesskey = ح
