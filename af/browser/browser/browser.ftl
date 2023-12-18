@@ -64,12 +64,10 @@ urlbar-microphone-blocked =
     .tooltiptext = U het die mikrofoon geblok vir dié webwerf.
 urlbar-screen-blocked =
     .tooltiptext = U het dié webwerf geblok om die skerm te deel.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redigeer hierdie boekmerk ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -91,14 +89,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Verander soekinstellings
-
 search-one-offs-context-open-new-tab =
     .label = Soek in nuwe oortjie
     .accesskey = t
 search-one-offs-context-set-as-default =
     .label = Stel as verstek-soekenjin
     .accesskey = v
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -130,7 +126,6 @@ identity-passive-loaded = Dele van dié blad is nie beveilig nie (soos prente).
 identity-active-loaded = U het beskerming vir dié blad gedeaktiveer.
 identity-weak-encryption = Dié bladsy gebruik swak enkripsie.
 identity-insecure-login-forms = Aanmeldinligting ingetik op dié bladsy kan gekompromitteer word.
-
 identity-permissions-reload-hint = Dit is dalk nodig om die bladsy te herlaai voor veranderinge toegepas word.
 identity-remove-cert-exception =
     .label = Verwyder uitsondering
@@ -184,16 +179,16 @@ popup-all-windows-shared = Alle sigbare vensters op die skerm sal gedeel word.
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Sluit
 urlbar-placeholder =
     .placeholder = Soek of tik adres in
-
 urlbar-switch-to-tab =
     .value = Verwissel na oortjie:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uitbreiding:
-
 urlbar-go-button =
     .tooltiptext = Gaan na die adres in die adresbalk
 
@@ -237,20 +232,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> beslaan nou die volle skerm
 fullscreen-warning-no-domain = Dié dokument beslaan nou die volle skerm
-
-
 fullscreen-exit-button = Verlaat volskerm (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Verlaat volskerm (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> beheer tans die wyser. Druk Esc om beheer terug te kry.
 pointerlock-warning-no-domain = Dié dokument beheer tans die wyser. Druk Esc om beheer terug te kry.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -270,7 +259,6 @@ bookmarks-other-bookmarks-menu =
 
 bookmarks-search =
     .label = Deursoek boekmerke
-
 bookmarks-toolbar-menu =
     .label = Boekmerknutsbalk
 bookmarks-toolbar-placeholder =
@@ -292,23 +280,19 @@ bookmarks-toolbar-placeholder-button =
 toolbar-button-email-link =
     .label = E-pos skakel
     .tooltiptext = E-pos 'n skakel na dié bladsy
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Stoor bladsy
     .tooltiptext = Stoor dié bladsy… ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Open lêer
     .tooltiptext = Open 'n lêer… ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Gesinkroniseerde oortjies
     .tooltiptext = Wys oortjies van ander toestelle
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -322,9 +306,6 @@ eme-notifications-drm-content-playing = Sommige klank of video op dié werf gebr
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -336,7 +317,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Laat opspringers vir { $uriHost } toe
     .accesskey = p
-
 popups-infobar-block =
     .label = Blokkeer opspringers vir { $uriHost }
     .accesskey = p
@@ -358,25 +338,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Afgelaai
-
 navbar-overflow =
     .tooltiptext = Meer gereedskap…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Druk
     .tooltiptext = Druk hierdie bladsy… ({ $shortcut })
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Blaaieroortjies
-
 tabs-toolbar-new-tab =
     .label = Nuwe oortjie
-
 tabs-toolbar-list-all-tabs =
     .label = Lys alle oortjies
     .tooltiptext = Lys alle oortjies
@@ -401,19 +376,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } het hierdie bladsy verhoed om outomaties te herlaai.
 refresh-blocked-redirect-label = { -brand-short-name } het hierdie bladsy verhoed om outomaties na 'n ander bladsy te herlei.
-
 refresh-blocked-allow =
     .label = Laat toe
     .accesskey = L
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -441,7 +416,6 @@ popup-warning-button =
             [windows] O
            *[other] V
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
