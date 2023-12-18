@@ -919,6 +919,7 @@ forms-windows-sso =
     .label = Jadnotne pśizjawjenje za konta Microsoft, źěłowe konta a šulske konta zmóžniś
 forms-windows-sso-learn-more-link = Dalšne informacije
 forms-windows-sso-desc = Konta we wašych rědowych nastajenjach zastojaś
+windows-passkey-settings-label = Gronidłowe kluce w systemowych nastajenjach zastojaś
 
 ## OS Authentication dialog
 
