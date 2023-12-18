@@ -5,9 +5,16 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Lưu mật khẩu cho { $host }?
 password-manager-save-password-button-allow =
     .label = Lưu
     .accesskey = S
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Cập nhật mật khẩu cho { $host }?
+password-manager-update-login-add-username = Thêm tên người dùng vào mật khẩu đã lưu?
 password-manager-password-password-button-allow =
     .label = Cập nhật
     .accesskey = U
@@ -19,4 +26,5 @@ password-manager-no-username-placeholder = Không có tên người dùng
 password-manager-toggle-password =
     .label = Hiện mật khẩu
     .accesskey = h
+password-manager-confirm-password-change = Xác nhận thay đổi mật khẩu
 password-manager-select-username = Chọn tài khoản để cập nhật:
