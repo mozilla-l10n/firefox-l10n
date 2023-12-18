@@ -85,18 +85,17 @@ urlbar-canvas-blocked =
     .tooltiptext = អ្នក​បាន​ទប់ស្កាត់​ការដកទិន្នន័យ​កម្មវិធីកែ​រូបភាព​សម្រាប់​គេហទំព័រ​នេះ។
 urlbar-midi-blocked =
     .tooltiptext = អ្នក​បាន​ទប់ស្កាត់ការចូលប្រើ MIDI សម្រាប់​គេហទំព័រ​នេះ។
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = កែសម្រួល​ចំណាំ​នេះ ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = ចំណាំ​ទំព័រ​នេះ ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -111,14 +110,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក
-
 search-one-offs-context-open-new-tab =
     .label = ស្វែងរក​នៅ​ក្នុង​ផ្ទាំង​ថ្មី
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = កំណត់​ជា​ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -150,7 +147,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = បង្ហាញកម្មវិធីកែសម្រួលនៅពេលកំពុងរក្សាទុក
     .accesskey = ប
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -167,7 +163,6 @@ identity-passive-loaded = ផ្នែក​ខ្លះ​នៃ​ទំព័
 identity-active-loaded = អ្នក​បាន​បិទ​ការ​ការពារ​នៅ​លើ​ទំព័រ​នេះ។
 identity-weak-encryption = ទំព័រ​នេះ​ប្រើ​ការ​បម្លែង​កូដ​ខ្សោយ។
 identity-insecure-login-forms = ការ​ចូល​ទាំង​ឡាយ​ដែល​បាន​បញ្ចូល​ក្នុង​ទំព័រ​នេះ​អាច​ត្រូវ​បាន​គេ​សម្របសម្រួល​។ ​
-
 identity-permissions-reload-hint = អ្នក​ប្រហែល​ត្រូវ​ផ្ទុក​ទំព័រ​ឡើងវិញ​ ដើម្បី​ឲ្យ​ការ​ផ្លាស់ប្ដូរអនុវត្ត។
 identity-clear-site-data =
     .label = សម្អាតខូឃី និងទិន្នន័យគេហទំព័រ…
@@ -223,21 +218,20 @@ popup-all-windows-shared = បង្អួច​ទាំងអស់​​ដ�
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = បិទ
 urlbar-placeholder =
     .placeholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ស្វែងរកជាមួយ { $name } ឬបញ្ចូលអាសយដ្ឋាន
-
 urlbar-switch-to-tab =
     .value = ប្ដូរ​ទៅ​ផ្ទាំង៖
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ផ្នែក​បន្ថែម៖
-
 urlbar-go-button =
     .tooltiptext = ទៅកាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង
 urlbar-page-action-button =
@@ -283,20 +277,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ឥឡូវ​ពេញ​អេក្រង់
 fullscreen-warning-no-domain = ឥឡូវ​ឯកសារ​នេះ​​ពេញ​អេក្រង់
-
-
 fullscreen-exit-button = បិទ​ពេញ​អេក្រង់ (គេច)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = បិទ​ពេញ​អេក្រង់ (គេច)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> មាន​ការ​គ្រប់គ្រង​លើ​ព្រួញ​ចង្អុល​របស់​អ្នក។ ចុច Esc ដើម្បី​ទទួល​បាន​ការ​គ្រប់គ្រង​មកវិញ។
 pointerlock-warning-no-domain = ឯកសារនេះ​មាន​សិទ្ធ​គ្រប់គ្រង​លើ​ព្រួញ​ចង្អុល​របស់​អ្នក។ ចុច Esc ដើម្បី​ទទួល​បាន​ការ​គ្រប់គ្រង​មក​វិញ។
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -340,7 +328,6 @@ bookmarks-search =
     .label = ស្វែងរក​ចំណាំ
 bookmarks-tools =
     .label = ​ឧបករណ៍​ចំណាំ
-
 bookmarks-toolbar-menu =
     .label = របារ​ឧបករណ៍​ចំណាំ
 bookmarks-toolbar-placeholder =
@@ -364,27 +351,22 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = ប្តូរ​របារ​ឧបករណ៍​តាម​បំណង...
     .accesskey = C
-
 toolbar-button-email-link =
     .label = តំណ​អ៊ីមែល
     .tooltiptext = អ៊ីមែល​ភ្ជាប់​ទៅ​ទំព័រ​នេះ
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = រក្សាទុក​ទំព័រ
     .tooltiptext = រក្សាទុក​ទំព័រ​នេះ ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = បើក​ឯកសារ
     .tooltiptext = បើក​ឯកសារ ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = ផ្ទាំង​ដែល​បាន​ធ្វើ​សមកាលកម្ម
     .tooltiptext = បង្ហាញ​ផ្ទាំង​ពី​ឧបករណ៍​ដទៃ​ទៀត
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -398,9 +380,6 @@ eme-notifications-drm-content-playing = វីដេអូ និង​អូឌ
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -412,7 +391,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = អនុញ្ញាត​​​លេច​ឡើង​សម្រាប់ { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = ទប់ស្កាត់​​ការ​​លេចឡើង​សម្រាប់ { $uriHost }
     .accesskey = p
@@ -434,36 +412,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ទាញ​យក
-
 navbar-overflow =
     .tooltiptext = ឧបករណ៍ច្រើនទៀត…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = បោះពុម្ព
     .tooltiptext = បោះពុម្ព​ទំព័រ​នេះ… ({ $shortcut })
-
 navbar-home =
     .label = ដើម
     .tooltiptext = ទំព័រ​ដើម { -brand-short-name }
-
 navbar-library =
     .label = បណ្ណាល័យ
     .tooltiptext = មើលប្រវត្តិ ចំណាំដែលបានរក្សាទុក និងច្រើនទៀត
-
 navbar-search =
     .title = ស្វែងរក
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ផ្ទាំង​កម្មវិធី​អ៊ីនធឺណិត
-
 tabs-toolbar-new-tab =
     .label = ផ្ទាំង​ថ្មី
-
 tabs-toolbar-list-all-tabs =
     .label = រាយបញ្ជី​​ផ្ទាំង​ទាំងអស់
     .tooltiptext = រាយបញ្ជី​​ផ្ទាំង​ទាំងអស់
@@ -488,19 +458,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } បាន​រារាំង​ទំព័រ​នេះ​មិន​ឲ្យ​ទំព័រ​នេះ​ផ្ទុក​ឡើង​វិញ​ដោយ​ស្វ័យប្រវត្តិ។
 refresh-blocked-redirect-label = { -brand-short-name } បាន​រារាំង​ទំព័រ​នេះ​មិន​ឲ្យ​ប្ដូរ​ទិស​ទៅ​ទំព័រ​មួយ​ទៀត​ដោយ​ស្វ័យ​ប្រវត្តិ។
-
 refresh-blocked-allow =
     .label = អនុញ្ញាត
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -524,7 +494,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
