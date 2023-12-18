@@ -50,10 +50,12 @@ browser-main-window-title = { -brand-full-name }
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+
 ## Bookmark Panel
 
 
 ## Identity Panel
+
 
 ## Window controls
 
@@ -82,6 +84,9 @@ browser-window-close-button =
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Ŕ´amch
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -97,14 +102,13 @@ browser-window-close-button =
 
 ## Reader View toolbar buttons
 
+
 ## Picture-in-Picture urlbar button
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Full Screen and Pointer Lock UI
-
-
-## Subframe crash notification
 
 
 ## Bookmarks panels, menus and toolbar
@@ -114,7 +118,9 @@ browser-window-close-button =
 ##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
 ##                         bookmarks toolbar, etc.) is visible or not.
 
+
 ##
+
 
 ## Library Panel items
 
@@ -128,19 +134,10 @@ browser-window-close-button =
 ## Customize Toolbar Buttons
 
 
-## More items
-
-
 ## EME notification panel
 
 
 ## Password save/update panel
-
-
-## Add-on removal warning
-
-
-## Remote / Synced tabs
 
 
 ##
@@ -154,30 +151,45 @@ ui-tour-info-panel-close =
 
 ##
 
+
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+
 ##
+
 
 # Navigator Toolbox
 
+
 ## Infobar shown at startup to suggest session-restore
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
+
 ## Unified extensions (toolbar) button
+
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
+
 
 ## Firefox Relay integration
 
+
 ## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
