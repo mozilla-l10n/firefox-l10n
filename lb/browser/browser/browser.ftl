@@ -50,7 +50,6 @@ urlbar-microphone-blocked =
     .tooltiptext = Du hues Däi Mikro fir dësen Internetsite gespaart.
 urlbar-screen-blocked =
     .tooltiptext = Du hues den Zougrëff op Däin Ecran fir dësen Internetsite gespaart.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -72,11 +71,9 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sichastellungen änneren
-
 search-one-offs-context-set-as-default =
     .label = Als Standard-Sichmaschinn festleeën
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -102,7 +99,6 @@ search-one-offs-add-engine-menu =
 
 identity-connection-file = Dës Säit ass op Dengem Computer gespäichert.
 identity-weak-encryption = Dës Säit benotzt eng schwaach Verschlësselung.
-
 identity-more-info-link-text =
     .label = Méi Informatiounen
 
@@ -135,13 +131,14 @@ browser-window-close-button =
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Zoumaachen
 urlbar-placeholder =
     .placeholder = Sichen oder Adress aginn
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Erweiderung:
-
 urlbar-go-button =
     .tooltiptext = D'Adress aus der Leescht lueden
 
@@ -173,20 +170,14 @@ urlbar-result-action-visit = Besichen
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ass elo am Vollbildmodus
 fullscreen-warning-no-domain = Dëst Dokument ass elo am Vollbildmodus
-
-
 fullscreen-exit-button = Vollbild zoumaachen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Vollbild zoumaachen (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolléiert de Maus. Esc drécken fir d'Kontroll z'iwwerhuelen.
 pointerlock-warning-no-domain = Dëst Dokument huet d'Kontroll iwwert d'Maus. Dréck Esc fir d'Kontroll z'iwwerhuelen.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -210,7 +201,6 @@ bookmarks-mobile-bookmarks-menu =
 
 bookmarks-search =
     .label = An de Lieszeeche sichen
-
 bookmarks-toolbar-menu =
     .label = Lieszeechensymbolleescht
 bookmarks-toolbar-placeholder =
@@ -238,9 +228,6 @@ library-bookmarks-menu =
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -264,19 +251,15 @@ ui-tour-info-panel-close =
 
 navbar-overflow =
     .tooltiptext = Méi Handwierksgeschir…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Drécken
     .tooltiptext = Dës Säit drécken… ({ $shortcut })
-
 navbar-search =
     .title = Sich
-
 tabs-toolbar-new-tab =
     .label = Neien Tab
-
 tabs-toolbar-list-all-tabs =
     .label = All Tabs oplëschten
     .tooltiptext = All Tabs oplëschten
@@ -297,6 +280,10 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-allow =
@@ -304,9 +291,6 @@ refresh-blocked-allow =
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -327,7 +311,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
