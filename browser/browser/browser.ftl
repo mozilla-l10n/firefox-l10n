@@ -85,18 +85,17 @@ urlbar-canvas-blocked =
     .tooltiptext = Šīs lapas canvas datu ieguve ir bloķēta.
 urlbar-midi-blocked =
     .tooltiptext = MIDI izmantošana šajā lapā ir bloķēta.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Rediģēt šo grāmatzīmi ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Saglabāt šo lapu grāmatzīmēs ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -111,14 +110,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Mainīt meklēšanas iestatījumus
-
 search-one-offs-context-open-new-tab =
     .label = Meklēt jaunā cilnē
     .accesskey = c
 search-one-offs-context-set-as-default =
     .label = Iestatīt par noklusēto meklētāju
     .accesskey = n
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -157,7 +154,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Rādīt redaktoru, saglabājot
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -174,7 +170,6 @@ identity-passive-loaded = Šīs lapas daļas (piemēram attēli) nav drošas.
 identity-active-loaded = Nedrošu elementu aizsardzība ir deaktivēta.
 identity-weak-encryption = Šī lapa izmanto vāju šifrēšanu.
 identity-insecure-login-forms = Dati, ko ievadīsiet šajā lapā nav aizsargāti un var tikt pārtverti.
-
 identity-permissions-reload-hint = Lai redzētu izmaiņas iespējams būs nepieciešama lapas pārlāde.
 identity-clear-site-data =
     .label = Notīrīt sīkdatnes un lapu datus…
@@ -230,23 +225,22 @@ popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Aizvērt
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Meklēt ar { $name } vai ievadiet mājas lapas adresi
-
 urlbar-switch-to-tab =
     .value = Pārslēgties uz cilni:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplašinājums:
-
 urlbar-go-button =
     .tooltiptext = Pāriet uz adresi, kas redzama vietas joslā
 urlbar-page-action-button =
@@ -292,20 +286,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ir pa visu ekrānu
 fullscreen-warning-no-domain = Šis dokuments ir pa visu ekrānu
-
-
 fullscreen-exit-button = Iziet no pilnā ekrāna (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Iziet no pilnā ekrāna (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolē kursoru. Nospiediet taustiņu Esc, lai atgūtu kontroli.
 pointerlock-warning-no-domain = Šis dokuments kontrolē kursoru. Nospiediet taustiņu Esc, lai atgūtu kontroli.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -349,7 +337,6 @@ bookmarks-search =
     .label = Meklēt grāmatzīmes
 bookmarks-tools =
     .label = Grāmatzīmju rīki
-
 bookmarks-toolbar-menu =
     .label = Grāmatzīmju rīkjosla
 bookmarks-toolbar-placeholder =
@@ -373,27 +360,22 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = Pielāgot rīkjoslu…
     .accesskey = P
-
 toolbar-button-email-link =
     .label = Nosūtīt saiti
     .tooltiptext = Nosūtīt saiti epastā
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Saglabāt lapu
     .tooltiptext = Saglabā šo lapu ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Atvērt failu
     .tooltiptext = Atvērt failu ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Sinhronizētās cilnes
     .tooltiptext = Parādīt cilnes no citām ierīcēm
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -407,9 +389,6 @@ eme-notifications-drm-content-playing = Daži audio un video šajā lapā izmant
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -421,7 +400,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Pieņemt jaunos logus no { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Bloķēt jaunos logus no { $uriHost }
     .accesskey = p
@@ -443,36 +421,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Lejupielādes
-
 navbar-overflow =
     .tooltiptext = Citi rīki…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Drukāt
     .tooltiptext = Drukāt šo lapu… ({ $shortcut })
-
 navbar-home =
     .label = Sākumlapa
     .tooltiptext = { -brand-short-name } sākumlapa
-
 navbar-library =
     .label = Bibliotēka
     .tooltiptext = Skatīt vēsturi, saglabātās grāmatzīmes un daudz ko citu
-
 navbar-search =
     .title = Meklēt
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Pārlūka cilnes
-
 tabs-toolbar-new-tab =
     .label = Jauna cilne
-
 tabs-toolbar-list-all-tabs =
     .label = Visu ciļņu saraksts
     .tooltiptext = Visu ciļņu saraksts
@@ -497,19 +467,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } liedza šai lapai iespēju automātiski pārlādēties.
 refresh-blocked-redirect-label = { -brand-short-name } liedza šai lapai iespēju automātiski pāriet uz citu lapu.
-
 refresh-blocked-allow =
     .label = Atļaut
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -546,7 +516,6 @@ popup-warning-button =
             [windows] I
            *[other] I
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
