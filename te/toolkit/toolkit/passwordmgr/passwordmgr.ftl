@@ -5,6 +5,12 @@
 
 ## Save and update password doorhanger
 
+password-manager-password-password-button-allow =
+    .label = నవీకరించు
+    .accesskey = U
+password-manager-update-password-button-deny =
+    .label = నవీకరించవద్దు
+    .accesskey = D
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = వాడుకరి పేరు లేదు
 password-manager-confirm-password-change = సంకేతపదం మార్పునిశ్చంయమైంది
