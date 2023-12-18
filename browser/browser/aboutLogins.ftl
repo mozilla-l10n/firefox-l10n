@@ -421,6 +421,21 @@ about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Дублиращи се регистрации</div> <div data-l10n-name="not-imported">(не са внесени)</div>
     }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавена парола</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавени пароли</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновени съществуващи пароли</div>
+       *[other] { "" }
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Дублираща се парола</div> <div data-l10n-name="not-imported">(не е внесена)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Дублиращи се пароли</div> <div data-l10n-name="not-imported">(не са внесени)</div>
+    }
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Грешки</div> <div data-l10n-name="not-imported">(не са внесени)</div>
