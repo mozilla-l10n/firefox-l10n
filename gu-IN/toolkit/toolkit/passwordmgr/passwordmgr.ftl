@@ -5,4 +5,13 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = સંગ્રહો
+    .accesskey = s
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = વપરાશકર્તાનામ નથી
+password-manager-toggle-password =
+    .label = પાસવર્ડ બતાવો
+    .accesskey = h
 password-manager-confirm-password-change = પાસવર્ડ બદલવાની ખાતરી કરો
+password-manager-select-username = ક્યુ લૉગિન સુધારવુ કરવુ તે પસંદ કરો:
