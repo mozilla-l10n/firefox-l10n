@@ -5,12 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Menti a jelszót ehhez: { $host }?
 password-manager-save-password-button-allow =
     .label = Mentés
     .accesskey = e
 password-manager-save-password-button-never =
     .label = Soha ne mentse
     .accesskey = S
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Jelszó frissítése itt: { $host }?
+password-manager-update-login-add-username = Hozzáadja a felhasználónevet a mentett jelszóhoz?
 password-manager-password-password-button-allow =
     .label = Frissítés
     .accesskey = F
