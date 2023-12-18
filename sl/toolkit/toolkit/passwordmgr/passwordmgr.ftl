@@ -11,6 +11,9 @@ password-manager-save-password-message = Shranim geslo za { $host }?
 password-manager-save-password-button-allow =
     .label = Shrani
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Nikoli ne shranjuj
+    .accesskey = i
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Posodobim geslo za { $host }?
