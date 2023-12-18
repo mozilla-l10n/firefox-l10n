@@ -11,6 +11,9 @@ password-manager-save-password-button-allow =
 password-manager-password-password-button-allow =
     .label = تازہ کاری کریں
     .accesskey = U
+password-manager-update-password-button-deny =
+    .label = تازہ کاری نا کریں
+    .accesskey = م
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = کوئی نام صارف نہیں
 password-manager-toggle-password =
