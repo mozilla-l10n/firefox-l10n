@@ -96,6 +96,28 @@ main-context-menu-bookmark-page =
 main-context-menu-bookmark-page-mac =
     .label = Отмятане на страница…
     .accesskey = О
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Промяна на отметка…
+    .accesskey = П
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Отмятане на страницата…
+    .accesskey = О
+    .tooltiptext = Отмята страницата ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Промяна на отметката…
+    .accesskey = П
+    .tooltiptext = Променя отметката
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Промяна на отметката…
+    .accesskey = П
+    .tooltiptext = Променя отметката ({ $shortcut })
 main-context-menu-open-link =
     .label = Отваряне на препратката
     .accesskey = п
@@ -134,6 +156,11 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Копиране на препратка
     .accesskey = к
+# This command copies the link, removing additional
+# query parameters used to track users across sites.
+main-context-menu-strip-on-share-link =
+    .label = Копиране на препратката без проследяване
+    .accesskey = п
 
 ## Media (video/audio) controls
 ##
@@ -264,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Използване на запазена регистрация
     .accesskey = р
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Използване на запазена парола
     .accesskey = п
@@ -275,6 +303,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = а
 main-context-menu-manage-logins2 =
     .label = Управление на регистрации…
+    .accesskey = У
+main-context-menu-manage-passwords =
+    .label = Управляване на пароли
     .accesskey = У
 main-context-menu-keyword =
     .label = Добавяне на ключова дума за търсене…
@@ -297,6 +328,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Презареждане на рамката
     .accesskey = з
+main-context-menu-frame-add-bookmark =
+    .label = Отмятане на рамка…
+    .accesskey = т
 main-context-menu-frame-save-as =
     .label = Запазване на рамката като…
     .accesskey = р
