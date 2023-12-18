@@ -89,18 +89,17 @@ urlbar-popup-blocked =
     .tooltiptext = تۆ دەرپڕاندنەکانت بۆ ئەم ماڵپەڕە بلۆک کرد.
 urlbar-autoplay-media-blocked =
     .tooltiptext = تۆ پێکردنی خۆکاری دەنگیت بۆ ئەم ماڵپەڕە بلۆک کرد.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ئەم دڵخوازە دەستکاریبکە ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = ئەم پەڕە دڵخواز بکە { $shortcut }
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -116,10 +115,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = لەم کاتەدا، بگەڕێ لەگەڵ:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = گۆڕینی ڕێکخستنەکانی گەڕان
-
 search-one-offs-context-open-new-tab =
     .label = گەڕان لە بازدەری نوێ
     .accesskey = گ
@@ -129,14 +126,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = بزوێنەری سەرەکی گەڕان دابنێ بۆ پەنجەرەی تایبەت
     .accesskey = پ
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -171,7 +166,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = س
 bookmark-panel-save-button =
     .label = پاشەکەوتکردن
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -191,15 +185,12 @@ identity-passive-loaded = بەشێک لەم پەڕەیە پارێزراو نیە
 identity-active-loaded = تۆ پارێزگاریت ناچالاک کرد بۆ ئەم پەڕەیە.
 identity-weak-encryption = ئەم پەڕە شێوازی پارێزگاری لاواز بەکاردێنێت.
 identity-insecure-login-forms = چوونەژوورەوەکان لە م پەڕەیە لەوانەیە دزەبکات.
-
 identity-https-only-connection-upgraded = (بەرزکرایەوە بۆ https)
 identity-https-only-dropdown-on =
     .label = کارا
 identity-https-only-dropdown-off =
     .label = ناکارا
-
 identity-permissions-storage-access-learn-more = زیاتر بزانە
-
 identity-permissions-reload-hint = لەوانیە پێویست بێت پەڕەکە نوێبکەیتەوە بۆ جێبەجێکردنی گۆڕانکارییەکان.
 identity-clear-site-data =
     .label = شەکرۆکە و زانیاری ماڵپەڕ پاکبکەرەوە...
@@ -263,11 +254,13 @@ sharing-warning-proceed-to-tab =
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = داخستن
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = بگەڕێ یان ناونیشان بنووسە
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -276,7 +269,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = بە وێبدا بگەڕێ
     .aria-label = بگەڕێ لەگەڵ { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -285,34 +277,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە دڵخوازەکان
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە مێژوو
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = دەقی گەڕان بنووسە
     .aria-label = بگەڕێ لە بازدەرەکان
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = بگەڕێ بەهۆی { $name } یان ناونیشان بنووسە
-
 urlbar-switch-to-tab =
     .value = بچۆ بۆ بازدەری:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = پێوەکراوەکان:
-
 urlbar-go-button =
     .tooltiptext = بڕۆ بۆ ناونیشان لە توڵی شوێن
 urlbar-page-action-button =
@@ -389,20 +374,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ئێستا لە پڕێ شاشەکەیە
 fullscreen-warning-no-domain = بەڵگەنامە ئێستا پڕی شاشەکەیە
-
-
 fullscreen-exit-button = لە پڕاوپڕی شاشە دەرچۆ (ESC)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = لە پڕاوپڕی شاشە دەرچۆ (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC  بۆ بەدەستهێنانەوەی جڵەوگیری.
 pointerlock-warning-no-domain = ئەم بەڵگەنامەیە جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC بۆ بەدەستهێنانەوەی جڵەوگیری.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -446,7 +425,6 @@ bookmarks-search =
     .label = گەڕان لە دڵخوازەکان
 bookmarks-tools =
     .label = ئامرازەکانی دڵخوازکردن
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -480,27 +458,22 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = دڵخوازکردنی توڵامراز...
     .accesskey = C
-
 toolbar-button-email-link =
     .label = بەستەر بنێرە
     .tooltiptext = بەستەر بنێرە بۆ ئەم پەڕەیە
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = پەڕە پاشەکەوت بکە
     .tooltiptext = ئەم پەڕەیە پاشەکەوت بکە ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = پەڕگە بکەرەوە
     .tooltiptext = پەڕگەیەک بکەرەوە ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = بازدەرە هاوکاتگەرییەکان
     .tooltiptext = بازدەرەکانی ئامێرەکانی تر پیشان بدە
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -513,9 +486,6 @@ toolbar-button-new-private-window =
 ## Password save/update panel
 
 panel-save-update-password = وشەی تێپەڕبوون
-
-## Add-on removal warning
-
 
 ##
 
@@ -549,39 +519,30 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = ڕێدۆزی
-
 navbar-downloads =
     .label = داگرتنەکان
-
 navbar-overflow =
     .tooltiptext = ئامرازی تر...
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = چاپکردن
     .tooltiptext = ئەم پەڕەیە چاپبکە...({ $shortcut })
-
 navbar-home =
     .label = ماڵەوە
     .tooltiptext = پەڕەی سەرەکی { -brand-short-name }
-
 navbar-library =
     .label = کتێبخانە
     .tooltiptext = مێژووی کار، دڵخوازراو پاشەکەوتکراو، و زیاتر پیشان بدە
-
 navbar-search =
     .title = گەڕان
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = بازدەرەکانی وێبگەڕ
-
 tabs-toolbar-new-tab =
     .label = بازدەری نوێ
-
 tabs-toolbar-list-all-tabs =
     .label = هەموو بازدەرەکان لیست بکە
     .tooltiptext = هەموو بازدەرەکان لیست بکە
@@ -602,6 +563,10 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-allow =
@@ -609,9 +574,6 @@ refresh-blocked-allow =
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -632,7 +594,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
