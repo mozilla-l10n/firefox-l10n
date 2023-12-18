@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = সংরক্ষণ
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = কখনো সংরক্ষণ করবেন না
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = হালনাগাদ
     .accesskey = U
