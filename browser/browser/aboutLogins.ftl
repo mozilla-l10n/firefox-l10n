@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Z drugego wobglědowaka
 about-logins-menu-menuitem-import-from-a-file = Z dataje importěrowaś…
 about-logins-menu-menuitem-export-logins = Pśizjawjenja eksportěrowaś…
 about-logins-menu-menuitem-remove-all-logins = Wše pśizjawjenja wótwónoźeś…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Gronidła eksportěrowaś…
 about-logins-menu-menuitem-remove-all-logins2 = Wšykne gronidła wótwónoźeś…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -115,11 +115,14 @@ about-logins-login-intro-heading-logged-out2 = Pytaśo swóje skłaźone pśizja
 about-logins-login-intro-heading-logged-in = Žedne synchronizěrowane pśizjawjenja namakane.
 login-intro-description = Jolic sćo składł swóje pśizjawjenja { -brand-product-name } na drugem rěźe, tak móžośo je sem pśinjasć:
 login-intro-instructions-fxa = Załožćo abo pśizjawśo se pla swójogo { -fxaccount-brand-name } na rěźe, źož waše pśizjawjenja su skłaźone
+about-logins-login-intro-heading-message = Składujśo swóje gronidła na wěstem městnje
+login-intro-description2 = Wšykne gronidła, kótarež w { -brand-product-name } składujośo, se koděruju. Mimo togo rozglědujomy se za datowymi źěrami a warnujomy was, jolic sćo pótrjefjony. <a data-l10n-name="breach-alert-link">Dalšne informacije</a>
 login-intro-instructions-fxa2 = Załožćo abo pśizjawśo se pla swójogo konta na rěźe, źož waše pśizjawjenja su skłaźone
 login-intro-instructions-fxa-settings = Źiśo k Nastajenja > Sync > Synchronizaciju zmóžniś… Wubjeŕśo kontrolny kašćik „Pśizjawjenja a gronidła“.
 login-intro-instructions-fxa-passwords-help = Woglědajśo se k <a data-l10n-name="passwords-help-link">pomocy gronidłow</a> za wěcej pomocy.
 about-logins-intro-browser-only-import = Jolic waše pśizjawjenja su skłaźone w drugem wobglědowaku, móžośo <a data-l10n-name="import-link">je do { -brand-product-name } importěrowaś</a>
 about-logins-intro-import2 = Jolic waše pśizjawjenja se zwenka { -brand-product-name } składuju, móžośo <a data-l10n-name="import-browser-link">je z drugego wobglědowaka importěrowaś</a>, abo <a data-l10n-name="import-file-link">z dataje</a>
+about-logins-intro-import3 = Wubjeŕśo plusowe znamuško górjejce, aby něnto gronidło pśidał. Móžośo teke <a data-l10n-name="import-browser-link">gronidła z drugego wobglědowaka importěrowaś</a>, abo <a data-l10n-name="import-file-link">z dataje</a>.
 
 ## Login
 
@@ -328,6 +331,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Pśizjawjenja a gronidła eksportěrowaś
 about-logins-confirm-export-dialog-message = Wašo gronidła budu se ako cytajobny tekst składowaś (na pś. BadP@ass0rd), togodla móžo kuždy, kótaryž móžo eksportěrowanu dataju wócyniś, je wiźeś.
 about-logins-confirm-export-dialog-confirm-button = Eksportěrowaś…
+about-logins-confirm-export-dialog-title2 = Notica wó eksportěrowanju gronidłow
 about-logins-alert-import-title = Importěrowanje dokóńćone
 about-logins-alert-import-message = Nadrobne importowe zespominanje pokazaś
 confirm-discard-changes-dialog-title = Njeskłaźone změny zachyśiś?
