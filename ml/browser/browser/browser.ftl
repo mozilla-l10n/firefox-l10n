@@ -78,18 +78,17 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = നിങ്ങൾ ഈ വെബ് സൈറ്റ്ലെ സ്ഥിര ഡാറ്റ സൂക്ഷിപ്പ്  തടഞ്ഞിരിക്കുകയാണ്
 urlbar-popup-blocked =
     .tooltiptext = നിങ്ങള്‍ ഈ വെബ്സൈറ്റിന്റെ പോപ്പ് അപ്പുകള്‍ നിരോധിച്ചിരിക്കുന്നു.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ഈ അടയാളം ചിട്ടപ്പെടുത്തുക ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = ഈ താള്‍ അടയാളപ്പെടുത്തുക ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -105,17 +104,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = ഈ സമയം, ഇതുപയോഗിച്ച് തിരയുക:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = തിരച്ചിൽ സെറ്റിങ്സ് ‌മാറ്റുക
-
 search-one-offs-context-open-new-tab =
     .label = പുതിയ ടാബില്‍ തിരയുക
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = സ്വതവേയുള്ള തിരച്ചില്‍ യന്ത്രമാക്കി മാറ്റുക
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -147,7 +143,6 @@ identity-passive-loaded = ഈ താളിന്റെ ചില ഭാഗങ്
 identity-active-loaded = താങ്കള്‍ ഈ താളില്‍ സംരക്ഷണം നിര്‍വീര്യമാക്കിയിരിക്കുന്നു.
 identity-weak-encryption = ഈ താള്‍ ദുര്‍ബലമായ എന്‍ക്രിപ്ഷന്‍ ഉപയോഗിക്കുന്നു.
 identity-insecure-login-forms = ഈ പേജില്‍ എന്റര്‍ചെയ്യുന്ന ലോഗിനുകള്‍ വീഴ്ചകള്‍ക്കുവിധേയമായേക്കാം.
-
 identity-permissions-reload-hint = മാറ്റങ്ങൾ പ്രയോഗത്തിൽ വരുവാൻ പേജ് വീണ്ടും ലോഡുചെയ്യേണ്ടി വന്നേക്കാം.
 identity-remove-cert-exception =
     .label = എക്സപ്ഷൻ നീക്കം ചെയ്യുക
@@ -201,16 +196,16 @@ popup-all-windows-shared = സ്ക്രീനില്‍ ദൃശ്യമ�
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = അടയ്ക്കുക
 urlbar-placeholder =
     .placeholder = വിലാസം തെരയുക അല്ലെങ്കില്‍ നല്‍കുക
-
 urlbar-switch-to-tab =
     .value = ഏതു് റ്റാബ്:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ‌‌എക്സ്ടെൻഷൻ:
-
 urlbar-go-button =
     .tooltiptext = അഡ്രസ്സ് ബാറിലുള്ള വിലാസത്തിലേക്കു പോകുക
 urlbar-page-action-button =
@@ -256,20 +251,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ഇപ്പോള്‍ പൂര്‍ണ്ണ വലിപ്പത്തിലാണു്
 fullscreen-warning-no-domain = രേഖ ഇപ്പോള്‍ പൂര്‍ണ്ണ വലിപ്പത്തിലാണു്
-
-
 fullscreen-exit-button = പൂര്‍ണ്ണവലിപ്പത്തില്‍ നിന്നും പുറത്തു് കടക്കുക (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = സ്ക്രീന്‍ നിറഞ്ഞിരിക്കുന്നതില്‍ നിന്നും തിരിച്ചു് പോവുക (എസ്കേപ്)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> നിങ്ങളുടെ പോയിന്റർ നിയന്ത്രിക്കുന്നു. നിങ്ങൾക്ക് നിയന്ത്രണം തിരികെ ലഭിക്കുന്നതിന് Esc അമർത്തുക.
 pointerlock-warning-no-domain = ഈ രേഖ നിങ്ങളുടെ പോയിന്റർ നിയന്ത്രിക്കുന്നു. നിങ്ങൾക്ക് നിയന്ത്രണം തിരികെ ലഭിക്കുന്നതിന് Esc അമർത്തുക.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -313,7 +302,6 @@ bookmarks-search =
     .label = ബുക്ക്മാർക്ക് തിരയുക
 bookmarks-tools =
     .label = ബുക്ക്‌മാർക്കിങ് ഉപകരണങ്ങൾ
-
 bookmarks-toolbar-menu =
     .label = അടയാളക്കുറിപ്പിനുള്ള ടൂള്‍ബാര്‍
 bookmarks-toolbar-placeholder =
@@ -337,27 +325,22 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = ടൂൾബാർ ഇഷ്ടമുള്ള രീതിയിൽ ആക്കുക…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = കണ്ണി ഈമെയില്‍ അയയ്ക്കുക
     .tooltiptext = ഈ താളിലേക്ക് ഒരു കണ്ണി ഈമെയില്‍ അയയ്ക്കുക
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = താള്‍ സൂക്ഷിക്കുക
     .tooltiptext = ഈ താള്‍ സൂക്ഷിയ്ക്കുക ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ഫയല്‍ തുറക്കുക
     .tooltiptext = ഒരു ഫയല്‍ തുറക്കുക ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = സിന്‍ക് ചെയ്ത ടാബുകള്‍
     .tooltiptext = മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണിക്കുക
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -371,9 +354,6 @@ eme-notifications-drm-content-playing = ഈ സൈറ്റിലുള്ള �
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -385,7 +365,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } ന്‌ പോപ്പപ്പുകള്‍ അനുവദിക്കുക
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } ന്‌ പോപ്പപ്പുകള്‍ തടയുക
     .accesskey = p
@@ -407,32 +386,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ഡൌണ്‍ലോഡുകള്‍
-
 navbar-overflow =
     .tooltiptext = കൂടുതല്‍ പ്രയോഗങ്ങള്‍...
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = പ്രിന്റ് ചെയ്യുക
     .tooltiptext = ഈ താള്‍ പ്രിന്റ് ചെയ്യുക… ({ $shortcut })
-
 navbar-library =
     .label = സംഭരണി
     .tooltiptext = ഹിസ്റ്ററിയും സേവുചെയ്ത ബുക്‍മാര്‍ക്കുളും മറ്റും കാണിക്കുക
-
 navbar-search =
     .title = തെരയുക
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ബ്രൌസര്‍ റ്റാബുകള്‍
-
 tabs-toolbar-new-tab =
     .label = പുതിയ റ്റാബ്‌
-
 tabs-toolbar-list-all-tabs =
     .label = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
     .tooltiptext = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
@@ -457,19 +429,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = ഈ താള്‍ സ്വയമായി ലഭ്യമാകുന്നതു് { -brand-short-name } തടഞ്ഞിരിക്കുന്നു.
 refresh-blocked-redirect-label = മറ്റൊരു താളിലേക്കു് ഈ താള്‍ തിരിച്ചു വിടുന്നതു് { -brand-short-name } തടഞ്ഞിരിക്കുന്നു.
-
 refresh-blocked-allow =
     .label = അനുവദിക്കുക
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -497,7 +469,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
