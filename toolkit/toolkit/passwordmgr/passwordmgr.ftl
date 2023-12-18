@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Memorisar
     .accesskey = M
+password-manager-password-password-button-allow =
+    .label = Actualisar
+    .accesskey = U
 password-manager-update-password-button-deny =
     .label = Betg actualisar
     .accesskey = B
