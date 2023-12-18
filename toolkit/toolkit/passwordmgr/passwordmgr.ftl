@@ -5,6 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = സൂക്ഷിക്കുക
+    .accesskey = സ
 password-manager-password-password-button-allow =
     .label = പരിഷ്കരണങ്ങള്‍
     .accesskey = U
