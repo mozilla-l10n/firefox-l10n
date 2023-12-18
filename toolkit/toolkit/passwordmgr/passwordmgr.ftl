@@ -5,4 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-password-password-button-allow =
+    .label = Güncelle
+    .accesskey = G
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = Kullanıcı adı yok
 password-manager-confirm-password-change = Parola değişimini onaylayın
