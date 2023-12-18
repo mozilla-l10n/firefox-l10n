@@ -87,18 +87,17 @@ urlbar-canvas-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য ক্যানভাস ডেটা নিষ্কাশন ব্লক করেছেন।
 urlbar-midi-blocked =
     .tooltiptext = আপনি ওয়েবসাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = চিহ্নিত বুকমার্ক পরিবর্তন করুন ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = বর্তমান পৃষ্ঠা বুকমার্ক করুন ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -113,14 +112,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = সার্চ সেটিংস বদল করুন
-
 search-one-offs-context-open-new-tab =
     .label = নতুন ট্যাবের মধ্যে খুলুন
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = অনুসন্ধান ইঞ্জিনকে ডিফল্ট হিসাবে সংকলন করুন
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -156,7 +153,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = সংরক্ষণ করার সময় এডিটর দেখান
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -173,7 +169,6 @@ identity-passive-loaded = এই পাতাটির অংশ নিরাপ
 identity-active-loaded = আপনি নিরাপদ নয় এমন উপাদানের থেকে সুরক্ষা নিষ্ক্রিয় করে রেখেছেন।
 identity-weak-encryption = এই পৃষ্ঠাটি দুর্বল এনক্রিপশন ব্যবহার করে।
 identity-insecure-login-forms = এই পেজে হওয়া লগইন সংকটাপন্ন হতে পারে।
-
 identity-permissions-reload-hint = আপনাকে হয়তো বদলগুলো দেখবার জন্য পেজটা রিলোড করতে হতে পারে।
 identity-clear-site-data =
     .label = কুকি এবং সাইটের ডেটা পরিষ্কার করুন…
@@ -229,21 +224,20 @@ popup-all-windows-shared = আপনার স্ক্রিনে সব দ�
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = বন্ধ
 urlbar-placeholder =
     .placeholder = অনুসন্ধান করুন অথবা ঠিকানা প্রবেশ করুন
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
-
 urlbar-switch-to-tab =
     .value = চিহ্নিত ট্যাবে পরিবর্তন করুন:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = এক্সটেনশন:
-
 urlbar-go-button =
     .tooltiptext = ঠিকানার ক্ষেত্রর মধ্যে লেখা অবস্থান প্রদর্শন করা হবে
 urlbar-page-action-button =
@@ -289,20 +283,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> স্ক্রিন পূর্ণভাবে ব্যবহৃত হচ্ছে
 fullscreen-warning-no-domain = নথিটি পূর্ণ স্ক্রিনে স্থাপিত হয়েছে
-
-
 fullscreen-exit-button = সম্পূর্ণ স্ক্রীন হইতে প্রস্থান করুন
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = পূর্ণ স্ক্রিন প্রস্থান করুন (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> আপনার পয়েন্টারের নিয়ন্ত্রণ আছে। Esc মারুন নিয়ন্ত্রন ফিরিয়ে নেওয়ার জন্য।
 pointerlock-warning-no-domain = এই ডকুমেন্টের আপনার পয়েন্টারের নিয়ন্ত্রণ আছে। Esc মারুন নিয়ন্ত্রণ ফিরিয়ে নেওয়ার জন্য।
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -346,7 +334,6 @@ bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান করুন
 bookmarks-tools =
     .label = বুকমার্ক করার টুল
-
 bookmarks-toolbar-menu =
     .label = বুকমার্কের টুলবার
 bookmarks-toolbar-placeholder =
@@ -370,27 +357,22 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = টুলবারের পছন্দসই বিন্যাস…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = ই-মেইল লিংক
     .tooltiptext = এই পৃষ্ঠায় একটি লিঙ্ক ইমেল করুন
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = পেজ সংরক্ষণ করুন
     .tooltiptext = পেজ সংরক্ষণ করুন ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ফাইল খুলুন
     .tooltiptext = ফাইল খুলুন ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = সিঙ্ক করা ট্যাবসমূহ
     .tooltiptext = অন্যান্য ডিভাইস থেকে ট্যাব দেখান
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -404,9 +386,6 @@ eme-notifications-drm-content-playing = এই সাইটের কিছু �
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -418,7 +397,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow popups for { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Block popups for { $uriHost }
     .accesskey = p
@@ -440,36 +418,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ডাউনলোড
-
 navbar-overflow =
     .tooltiptext = অতিরিক্ত সরঞ্জাম…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = প্রিন্ট করুন
     .tooltiptext = এই পৃষ্ঠা প্রিন্ট করুন… ({ $shortcut })
-
 navbar-home =
     .label = হোম
     .tooltiptext = { -brand-short-name } হোম পেজ
-
 navbar-library =
     .label = লাইব্রেরি
     .tooltiptext = দেখুন ইতিহাস, সংরক্ষিত বুকমার্ক এবং আরও
-
 navbar-search =
     .title = অনুসন্ধান
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ব্রাইজারের ট্যাব
-
 tabs-toolbar-new-tab =
     .label = নতুন ট্যাব
-
 tabs-toolbar-list-all-tabs =
     .label = সকল ট্যাবের তালিকা প্রদর্শন করা হবে
     .tooltiptext = সকল ট্যাবের তালিকা প্রদর্শন করা হবে
@@ -494,19 +464,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } দ্বারা এই পেজটিকে স্বয়ংক্রিয়রূপে পুনরায় লোড করতে প্রতিরোধ করা হয়েছে।
 refresh-blocked-redirect-label = { -brand-short-name } দ্বারা এই পেজটিকে স্বয়ংক্রিয়রূপে অন্য একটি পেজে নির্দেশ করতে প্রতিরোধ করা হয়েছে।
-
 refresh-blocked-allow =
     .label = অনুমোদন করুন
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -534,7 +504,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
