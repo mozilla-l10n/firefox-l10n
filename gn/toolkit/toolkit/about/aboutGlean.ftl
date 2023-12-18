@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (aníke emondo ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Kora mboyvegua, ehecháke toĩ ñemboguaha reramoĩ hasy’ỹva iñemomandu’a eikuaa porã hag̃ua pings tenondeve.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Emboaje teramoĩ mopotĩha nemandu’átava <span>(20 tairenda térã sa’ive, alfanumérico ha - pévante)</span> ohechakuaa hag̃ua pings uperire.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
@@ -84,6 +86,13 @@ about-glean-adhoc-explanation =
     embojurujávo peteĩ tembiporu mba’e’okarupa ñemboguataha ko’ápe <code>about:glean</code>
     ha eiporúvo pe API <code>testGetValue()</code> ko
     <code>Glean.metricCategory.metricName.testGetValue()</code> ramo.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+     Eha’ãve hag̃ua <i>ad hoc</i>,
+    avei ehechakuaa porupyrã repy ag̃aguáva mba’e heta’ỹva rehegua
+    embojurujávo tembiporu mba’e’okarupa ñemboguataha ko’ápe <code>about:glean</code>-pe
+    ha eiporúvo pe API <code>testGetValue()</code>
+    <code>Glean.metricCategory.metricName.testGetValue()</code> ramo métrica hérava <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Eikuaáke eiporuha API Glean JS pe mba’e’okarupa devtools rupive.
