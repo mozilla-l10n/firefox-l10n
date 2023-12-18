@@ -14,3 +14,4 @@ password-manager-password-password-button-allow =
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = ഉപയോക്തൃനാമമില്ല
 password-manager-confirm-password-change = പാസ്‌വേര്‍ഡ് മാറ്റം തീര്‍ച്ചപ്പെടുത്തുക
+password-manager-select-username = ഏത് പ്രവേശനം ആണ് പുതുക്കേണ്ടത് എന്ന് തെരഞ്ഞെടുക്കുക:
