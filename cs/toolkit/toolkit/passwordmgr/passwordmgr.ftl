@@ -5,5 +5,8 @@
 
 ## Save and update password doorhanger
 
+password-manager-password-password-button-allow =
+    .label = Aktualizovat
+    .accesskey = A
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Žádné uživatelské jméno
