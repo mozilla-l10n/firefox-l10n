@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Alzar clau pa { $host }?
 password-manager-save-password-button-allow =
     .label = Alzar
     .accesskey = A
+password-manager-save-password-button-never =
+    .label = No alzar nunca
+    .accesskey = e
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Quiers actualizar la clau de { $host }?
+password-manager-update-login-add-username = Quiers anyadir lo nombre de usuario a la clau alzada?
 password-manager-password-password-button-allow =
     .label = Actualización:
     .accesskey = U
