@@ -5,6 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Saxla
+    .accesskey = S
 password-manager-save-password-button-never =
     .label = Heç Vaxt Saxlama
     .accesskey = e
