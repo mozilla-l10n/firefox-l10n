@@ -11,12 +11,19 @@ password-manager-save-password-button-allow =
 password-manager-save-password-button-never =
     .label = Nikad ne spremaj
     .accesskey = e
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Aktualizirati lozinku za { $host }?
 password-manager-password-password-button-allow =
     .label = Dopuna
     .accesskey = V
+password-manager-update-password-button-deny =
+    .label = Nemoj aktualizirati
+    .accesskey = i
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Nema korisničkog imena
 password-manager-toggle-password =
     .label = Prikaži lozinku
     .accesskey = r
 password-manager-confirm-password-change = Potvrdite promjenu lozinke
+password-manager-select-username = Odaberi prijavu koju želiš aktualizirati:
