@@ -233,6 +233,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Вече се използва от { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Показване на още { $numberToShow }
@@ -404,6 +406,8 @@ addon-permissions-optional = Незадължителни права за доп
 addon-permissions-learnmore = Научете повече за правата
 recommended-extensions-heading = Препоръчани разширения
 recommended-themes-heading = Препоръчани теми
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Предоставя следните възможности на <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -431,16 +435,16 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = Добавката { $name } е несъвместима с { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Добавката { $name } е несъвместима с { -brand-short-name } { $version }.
 details-notification-incompatible-link = Повече информация
-details-notification-unsigned-and-disabled = Добавката { $name } не може да бъде проверена, за да бъде използвана от { -brand-short-name }, и беше изключена.
+details-notification-unsigned-and-disabled = Добавката { $name } не може да бъде проверена, за да бъде използвана от { -brand-short-name }, и е изключена.
 details-notification-unsigned-and-disabled2 =
-    .message = Добавката { $name } не може да бъде проверена, за да бъде използвана от { -brand-short-name }, и беше изключена.
+    .message = Добавката { $name } не може да бъде проверена, за да бъде използвана от { -brand-short-name }, и е изключена.
 details-notification-unsigned-and-disabled-link = Повече информация
 details-notification-unsigned = Добавката { $name } не може да бъде проверена, за да бъде използвана от { -brand-short-name }. Бъдете внимателни.
 details-notification-unsigned2 =
