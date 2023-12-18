@@ -79,18 +79,17 @@ urlbar-canvas-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि क्यानभस डाटाको निकास अवरुद्ध गर्नु भएको छ।
 urlbar-midi-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि MIDI अवरुद्ध गर्नु भएको छ।
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = यो बुकमार्क सम्पादन गर्नुहोस् ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = यो पृष्ठ बुकमार्क गर्नुहोस् ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -105,14 +104,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = खोज सेटिङ परिवर्तन गर्नुहोस्
-
 search-one-offs-context-open-new-tab =
     .label = नयाँ ट्याबमा खोज्नुहोस्
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = पूर्वनिर्धारित खोजी इन्जिन बनाउनुहोस्
     .accesskey = D
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -159,7 +156,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = सङ्ग्रह गर्नुहोस्
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -176,7 +172,6 @@ identity-passive-loaded = यो पृष्ठको भागहरू सु
 identity-active-loaded = तपाईँले यो पृष्ठमा संरक्षण अक्षम गर्नुभएको छ।
 identity-weak-encryption = यो पेजले कमजोर इन्क्रिप्सन प्रयोग गर्छ।
 identity-insecure-login-forms = यस पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।
-
 identity-permissions-reload-hint = परिवर्तनहरू लागू हुन पेज पुनः लोड गर्नुहोस्
 identity-remove-cert-exception =
     .label = एक्सेप्सन हटाउनुहोस्
@@ -230,23 +225,22 @@ popup-all-windows-shared = तपाईँको स्क्रिन मा �
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = बन्द गर्नुहोस्
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = खोज वा ठेगाना राखनुहोस्।
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } सँग खोज्नुहोस् वा ठेगाना राखनुहोस्।
-
 urlbar-switch-to-tab =
     .value = यस ट्याबमा स्विच गर्नुहोस्:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = एक्सटेन्सन:
-
 urlbar-go-button =
     .tooltiptext = लोकेसन बारमा भएको स्थानमा जानुहोस्
 urlbar-page-action-button =
@@ -297,20 +291,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> पुरा स्क्रिन अहिले भयो
 fullscreen-warning-no-domain = तपाईँको खाता पुरा पर्दाको भएको छ
-
-
 fullscreen-exit-button = पुरा पर्दाबाट निस्कनुहोस् (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = पुरा स्क्रिनबाट निस्कनुहोस (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> तपाईँको सूचक नियन्त्रण बाहिर छ। नियन्त्रण आफ्नो नियन्त्रणमा ल्याउन Esc थिच्नुहोस्।
 pointerlock-warning-no-domain = तपाईँको पोइन्टर यो डकुमेन्टको नियन्त्रणमा छ। नियन्त्रण फिर्ता लिन Esc थिच्नुहोस्।
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -357,7 +345,6 @@ bookmarks-search =
     .label = पुस्तकचिनोहरू खोज्नुहोस्
 bookmarks-tools =
     .label = पुस्तकचिनो लगाउने उपकरणहरू
-
 bookmarks-toolbar-menu =
     .label = पुस्तकचिनो उपकरणपट्टि
 bookmarks-toolbar-placeholder =
@@ -381,27 +368,22 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = उपकरणपट्टि अनुकुलन गर्नुहोस्…
     .accesskey = C
-
 toolbar-button-email-link =
     .label = लिङ्कलाई इमेल गर्नुहोस्
     .tooltiptext = यस पृष्ठ को लिङ्क इमेल गर्नुहोस्
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = पृष्ठ सङ्ग्रह गर्नुहोस्
     .tooltiptext = यस पृष्ठ ({ $shortcut })लाई सङ्ग्रह गर्नुहोस्
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = फाइल खोल्नुहोस्
     .tooltiptext = ({ $shortcut }) फाइल खोल्नुहोस्
-
 toolbar-button-synced-tabs =
     .label = Sync गरिएको ट्याबहरू
     .tooltiptext = अन्य यन्त्रमा भएका टयाबहरू देखाउनुहोस्
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -415,9 +397,6 @@ eme-notifications-drm-content-playing = यो साइटमा रहेक�
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -429,7 +408,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } लाई पप-अपको स्विकृति दिनुहोस्।
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } को लागि पप-अपहरू रोक्नुहोस्
     .accesskey = p
@@ -451,32 +429,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = डाउनलोडहरू
-
 navbar-overflow =
     .tooltiptext = अरु सामग्रीहरू...
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = मुद्रण गर्नुहोस्
     .tooltiptext = यो पृष्ठ छाप्नुहोस्… ({ $shortcut })
-
 navbar-library =
     .label = Library
     .tooltiptext = इतिहास, संग्रह गरिएका पुस्तकचिनोहरू, र अन्य हेर्नुहोस्
-
 navbar-search =
     .title = खोजी गर्नुहोस्
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ब्राउजर ट्याबहरू
-
 tabs-toolbar-new-tab =
     .label = नयाँ ट्याब
-
 tabs-toolbar-list-all-tabs =
     .label = सब ट्याबहरूको सूचि बनाउनुहोस्
     .tooltiptext = सब ट्याबहरूको सूचि बनाउनुहोस्
@@ -501,19 +472,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ले यस पेज स्वचालित रूपमा पुनःलोड हुनबाट रोक्यो।
 refresh-blocked-redirect-label = { -brand-short-name } ले यस पेज स्वचालित रूपमा अर्को पृष्ठमा पुनः निर्देशित हुनबाट रोक्यो।
-
 refresh-blocked-allow =
     .label = अनुमति दिनुहोस्
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -541,7 +512,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
