@@ -68,12 +68,10 @@ urlbar-screen-blocked =
     .tooltiptext = War na interneti nungoo woo gagay nd'a ma war dijoo zemni.
 urlbar-persistent-storage-blocked =
     .tooltiptext = War na bayhaya jišiyan duumante gagay interneti nungoo woo se.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Doo-šilbaa woo fasal ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -95,14 +93,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ceeciyan kayandiyaney barmay
-
 search-one-offs-context-open-new-tab =
     .label = Ceeci kanji taaga ra
     .accesskey = t
 search-one-offs-context-set-as-default =
     .label = Kayandi sanda tilasu ceecijinay
     .accesskey = t
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -133,7 +129,6 @@ identity-passive-loaded = Moɲoo woo doo fooyaŋ ši saajaw (sanda biiyaŋ).
 identity-active-loaded = War na jejebuyanoo kaa moɲoo woo ga.
 identity-weak-encryption = Moɲoo woo tuguyan dabaroo ga yalaafu.
 identity-insecure-login-forms = Huruyan šilbawey kaŋ goo moɲoo woo ši hima saajante.
-
 identity-permissions-reload-hint = War ma moɲoo zumandi taaga ka barmawey kanandi.
 identity-remove-cert-exception =
     .label = Hasaraw kaa
@@ -187,16 +182,16 @@ popup-all-windows-shared = Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Daabu
 urlbar-placeholder =
     .placeholder = Ceeci wala aderesu dam
-
 urlbar-switch-to-tab =
     .value = Bere kanjoo ga:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Dobuyan:
-
 urlbar-go-button =
     .tooltiptext = Koy aderesoo do gorodoo žeeroo ga
 urlbar-page-action-button =
@@ -242,20 +237,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> dijikul cebeyan sohõ
 fullscreen-warning-no-domain = Takaddaa woo ga cebe dijikul ga sohõ
-
-
 fullscreen-exit-button = Fatta dijikul ra (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Fatta dijikul ra (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.
 pointerlock-warning-no-domain = Takaddaa woo ga war cebejiyoo juwal. Esc naagu ka juwaloo taa koyne.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -277,7 +266,6 @@ bookmarks-mobile-bookmarks-menu =
 
 bookmarks-search =
     .label = Doo-šilbawey ceeci
-
 bookmarks-toolbar-menu =
     .label = Doo-šilbawey goyjinay žeeri
 bookmarks-toolbar-placeholder =
@@ -299,23 +287,19 @@ bookmarks-toolbar-placeholder-button =
 toolbar-button-email-link =
     .label = Bataga dobu
     .tooltiptext = Dobu sanba moɲoo woo ga
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Moɲoo gaabu
     .tooltiptext = Moɲoo woo gaabu ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Tuku feeri
     .tooltiptext = Tuku feeri ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Kanji hangantey
     .tooltiptext = Jinay taney kanjey cebe
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -329,9 +313,6 @@ eme-notifications-drm-content-playing = Jinde wala widewo foo interneti nungoo w
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -343,7 +324,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Biiboŋ batawey noo fondo { $uriHost } se
     .accesskey = p
-
 popups-infobar-block =
     .label = Biiboŋ batawey gagay { $uriHost } se
     .accesskey = p
@@ -365,28 +345,22 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Zumandiyaney
-
 navbar-overflow =
     .tooltiptext = Goyjinay tontoney…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Kar
     .tooltiptext = Moɲoo woo kar… ({ $shortcut })
-
 navbar-search =
     .title = Ceeci
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Ceecikaw kanjey
-
 tabs-toolbar-new-tab =
     .label = Kanji taaga
-
 tabs-toolbar-list-all-tabs =
     .label = Kanjey kul šeedandi
     .tooltiptext = Kanjey kul šeedandi
@@ -411,19 +385,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } na moɲoo woo ganji a ma zunbu taaga nga boŋ se.
 refresh-blocked-redirect-label = { -brand-short-name } na moɲoo woo ganji a ma bisandi taaga ka koy moo foo do nga boŋ se.
-
 refresh-blocked-allow =
     .label = Noo fondo
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -451,7 +425,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
