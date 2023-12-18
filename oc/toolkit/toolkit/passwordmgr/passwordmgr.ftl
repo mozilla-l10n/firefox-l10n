@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Enregistrar
     .accesskey = E
+password-manager-save-password-button-never =
+    .label = Enregistrar pas jamai
+    .accesskey = e
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Pas cap de nom d'utilizaire
 password-manager-confirm-password-change = Confirmatz la modificacion del senhal
