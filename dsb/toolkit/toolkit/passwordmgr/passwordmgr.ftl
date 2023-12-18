@@ -5,4 +5,17 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Składowaś
+    .accesskey = S
+password-manager-password-password-button-allow =
+    .label = Aktualizěrowaś
+    .accesskey = a
+password-manager-update-password-button-deny =
+    .label = Njeaktualizěrowaś
+    .accesskey = N
+password-manager-toggle-password =
+    .label = Gronidła pokazaś
+    .accesskey = k
 password-manager-confirm-password-change = Změnjenje gronidła wobkšuśiś
+password-manager-select-username = Wubjeŕśo pśizjawjenje, kótarež ma se aktualizěrowaś:
