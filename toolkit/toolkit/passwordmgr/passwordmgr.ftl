@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Tallenna
     .accesskey = T
+password-manager-password-password-button-allow =
+    .label = Päivitä
+    .accesskey = Ä
 password-manager-update-password-button-deny =
     .label = Älä päivitä
     .accesskey = i
