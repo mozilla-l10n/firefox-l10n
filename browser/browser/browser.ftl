@@ -484,6 +484,9 @@ enable-devtools-popup-description2 = To use the F12 shortcut, first open DevTool
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Close
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
@@ -560,8 +563,6 @@ urlbar-result-action-search-w-engine = Search with { $engine }
 urlbar-result-action-sponsored = Sponsored
 urlbar-result-action-switch-tab = Switch to Tab
 urlbar-result-action-visit = Visit
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Visit from your clipboard
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -911,6 +912,9 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Extensions
         Some extensions are not allowed
+
+## Private browsing reset button
+
 
 ## Autorefresh blocker
 
