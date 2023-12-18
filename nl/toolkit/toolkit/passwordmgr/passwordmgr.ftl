@@ -5,12 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Wachtwoord voor { $host } opslaan?
 password-manager-save-password-button-allow =
     .label = Opslaan
     .accesskey = O
 password-manager-save-password-button-never =
     .label = Nooit opslaan
     .accesskey = t
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Wachtwoord voor { $host } bijwerken?
+password-manager-update-login-add-username = Gebruikersnaam aan opgeslagen wachtwoord toevoegen?
 password-manager-password-password-button-allow =
     .label = Bijwerken
     .accesskey = B
