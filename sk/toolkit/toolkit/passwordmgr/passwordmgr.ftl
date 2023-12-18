@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Uložiť heslo pre { $host }?
+password-manager-save-password-button-allow =
+    .label = Uložiť
+    .accesskey = U
 password-manager-save-password-button-never =
     .label = Nikdy neukladať
     .accesskey = e
@@ -18,7 +21,13 @@ password-manager-update-login-add-username = Chcete k uloženému heslu pridať 
 password-manager-password-password-button-allow =
     .label = Aktualizovať
     .accesskey = A
+password-manager-update-password-button-deny =
+    .label = Neaktualizovať
+    .accesskey = e
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Žiadne používateľské meno
+password-manager-toggle-password =
+    .label = Zobraziť heslo
+    .accesskey = Z
 password-manager-confirm-password-change = Potvrdenie zmeny hesla
 password-manager-select-username = Vyberte prihlasovacie údaje, ktoré chcete aktualizovať:
