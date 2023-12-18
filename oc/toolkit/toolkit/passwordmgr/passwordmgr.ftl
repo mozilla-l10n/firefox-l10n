@@ -5,6 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Enregistrar
+    .accesskey = E
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Pas cap de nom d'utilizaire
 password-manager-confirm-password-change = Confirmatz la modificacion del senhal
