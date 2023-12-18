@@ -245,7 +245,7 @@ device-migration-fxa-spotlight-older-device-header = { -brand-product-name } rek
 device-migration-fxa-spotlight-older-device-body = Peteĩ mba’ete oreko marandu emomba’éva tekopyahu ha tekorosãme oimeraẽva mba’e’oka eikehápe.
 device-migration-fxa-spotlight-older-device-primary-button = Emoheñói mba’ete
 device-migration-fxa-spotlight-getting-new-device-header-2 = ¿Eikesépa mba’e’oka pyahúpe?
-device-migration-fxa-spotlight-getting-new-device-body = Eñongatu mba’ekuaarã tekorosãverã, oikoporã hag̃ua og̃uahẽvo mba’e’oka.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Ejapo koichaite eguerekokuaa hag̃ua techaukaha, tembiasakue ha ñe’ẽñemi eiporu ñepyrũ vove mba’e’oka pyahu.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Mba’éichapa añongatúta che mba’ekuaarã
 
 ## Set as Default PDF Reader Infobar

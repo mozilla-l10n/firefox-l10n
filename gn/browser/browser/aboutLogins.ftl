@@ -123,6 +123,7 @@ login-item-edit-button = Mbosako’i
 about-logins-login-item-remove-button = Mboguete
 login-item-origin-label = Ñanduti kundaharape
 login-item-tooltip-message = Emoñondivéke pe kundaharape ñanduti renda emoñepyrũhápe tembiapo rehe.
+about-logins-origin-tooltip2 = Ehai kundaharape ha emoĩmbaporãke oĩhaichaite emoñerũkuévo tembiapo.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Eñongatúke katuete ne ñe’ẽñemi ag̃aguáva ko tendápe g̃uarã. Emoambuévo ñe’ẽñemi ko’ápe nomoambuéi { $webTitle } pegua.
