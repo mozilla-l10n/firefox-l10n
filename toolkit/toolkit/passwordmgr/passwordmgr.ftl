@@ -5,4 +5,7 @@
 
 ## Save and update password doorhanger
 
+password-manager-password-password-button-allow =
+    .label = Atualizar
+    .accesskey = u
 password-manager-confirm-password-change = Confirmar nova senha
