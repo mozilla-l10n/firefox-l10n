@@ -487,6 +487,9 @@ enable-devtools-popup-description2 = F12 شاٹ کٹ استعمال کرݨ کی�
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = بند کرو
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
@@ -563,8 +566,6 @@ urlbar-result-action-search-w-engine = { $engine } نال ڳولو
 urlbar-result-action-sponsored = سپانسر شدہ
 urlbar-result-action-switch-tab = ٹیب تے ون٘ڄو
 urlbar-result-action-visit = دورہ
-# Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = آپݨے کلپ بورڈ توں ݙیکھو
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = کلپ بورڈ توں ݙیکھو
 # Directs a user to press the Tab key to perform a search with the specified
