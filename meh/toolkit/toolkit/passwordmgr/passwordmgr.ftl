@@ -5,6 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = Chuva´a
+    .accesskey = S
 password-manager-save-password-button-never =
     .label = Nchuva'a ni'i íchi
     .accesskey = e
