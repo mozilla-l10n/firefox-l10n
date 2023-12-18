@@ -5,4 +5,15 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-allow =
+    .label = थिना दोन
+    .accesskey = S
+password-manager-password-password-button-allow =
+    .label = आपडेट खालाम
+    .accesskey = U
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = बाहायग्रा मुं गया
+password-manager-toggle-password =
+    .label = पासवर्डखौ दिन्थि
+    .accesskey = h
 password-manager-confirm-password-change = पासवर्ड सोलायनायखौ थि खालाम
