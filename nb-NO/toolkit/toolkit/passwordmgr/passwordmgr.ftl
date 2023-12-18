@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Lagre passord for { $host }?
 password-manager-save-password-button-allow =
     .label = Lagre
     .accesskey = L
+password-manager-save-password-button-never =
+    .label = Lagre aldri
+    .accesskey = e
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Oppdater passord for { $host }?
+password-manager-update-login-add-username = Legg til brukernavn for lagret passord?
 password-manager-password-password-button-allow =
     .label = Oppdater
     .accesskey = O
@@ -16,4 +26,8 @@ password-manager-update-password-button-deny =
     .accesskey = I
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Uten brukernavn
+password-manager-toggle-password =
+    .label = Vis passord
+    .accesskey = V
 password-manager-confirm-password-change = Bekreft passordendring
+password-manager-select-username = Velg hvilken innlogging som skal oppdateres:
