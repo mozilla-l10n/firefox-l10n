@@ -5,4 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-password-password-button-allow =
+    .label = Agiorna
+    .accesskey = A
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = Nisciun nomme utente
 password-manager-confirm-password-change = Conferma o cangio de paròlla segreta
