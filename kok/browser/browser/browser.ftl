@@ -32,7 +32,6 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = हे बूकमार्क ({ $shortcut }) संपादित करात
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -105,12 +104,13 @@ popup-all-windows-shared = तुमच्या पड्ड्यावयल�
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = बंद
 urlbar-placeholder =
     .placeholder = सोदात वो नामो दियात
-
 urlbar-switch-to-tab =
     .value = टॅबाचेर स्विच करचें:
-
 urlbar-go-button =
     .tooltiptext = थळ पट्टेन नाम्यान वचात
 
@@ -135,9 +135,6 @@ urlbar-go-button =
 
 
 ## Full Screen and Pointer Lock UI
-
-
-## Subframe crash notification
 
 
 ## Bookmarks panels, menus and toolbar
@@ -175,19 +172,16 @@ bookmarks-toolbar-placeholder-button =
 toolbar-button-email-link =
     .label = ईमेल जोड
     .tooltiptext = ह्या पानाची जोडणी ईमेल करात
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = पानाची जतनाय करात
     .tooltiptext = ह्या पानाची ({ $shortcut }) जतनाय करात
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = फायल उगडात
     .tooltiptext = ({ $shortcut }) फायल उगडात
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -201,9 +195,6 @@ eme-notifications-drm-content-playing = ह्या सायटीवयलो
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -215,7 +206,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } खातीर पॉप अपांक मान्यताय दियात
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } खातीर पॉप अप आडायात
     .accesskey = p
@@ -237,25 +227,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = उतरावन
-
 navbar-overflow =
     .tooltiptext = अदिक साधनां...
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = छापात
     .tooltiptext = हे पान... ({ $shortcut }) छापात
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ब्रावजर टॅब्स
-
 tabs-toolbar-new-tab =
     .label = नवीन टॅब
-
 tabs-toolbar-list-all-tabs =
     .label = सगळ्या टॅब्सांची सूची करची
     .tooltiptext = सगळ्या टॅब्सांची सूची करची
@@ -280,19 +265,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } न ह्या पानाक स्वयंचलीतपणान परत लोडींग करपा पासून प्रतिबंधीत केलां.
 refresh-blocked-redirect-label = { -brand-short-name } न ह्या पानाक आपशीच हेर  पानान धाडपापासून आडयला.
-
 refresh-blocked-allow =
     .label = अनुमती दियात
     .accesskey = S
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -309,7 +294,6 @@ popup-warning-message =
         [one] { -brand-short-name } न ह्या सायटीक पॉप-अप विंडो उगडपापासून आडयला.
        *[other] { -brand-short-name } न ह्या सायटीक { $popupCount } पॉप-अप विंडो उगडपापासून आडयला.
     }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
