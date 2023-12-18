@@ -32,7 +32,6 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = یہ بوک مارْک کْریو ایڈیٹ ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,12 +108,13 @@ popup-all-windows-shared = تُہندس سکرینس پیٹھ تمام ظأہر 
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = بند
 urlbar-placeholder =
     .placeholder = تلاش کْریو یا اینٹر کْریو پتاہ
-
 urlbar-switch-to-tab =
     .value = ٹیبس منز گژھیو
-
 urlbar-go-button =
     .tooltiptext = جاے بارس منز گژھیو نیبس منز
 
@@ -144,9 +144,6 @@ urlbar-result-action-search-w-engine = سْیت کْریو تلاش
 
 
 ## Full Screen and Pointer Lock UI
-
-
-## Subframe crash notification
 
 
 ## Bookmarks panels, menus and toolbar
@@ -184,19 +181,16 @@ bookmarks-toolbar-placeholder-button =
 toolbar-button-email-link =
     .label = ایمیل لینک
     .tooltiptext = ایمیل کْریو اکھ لینک یتھ پیجس کُن
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = پیج کْریو محفوظ
     .tooltiptext = یہ پیج کْریو محفوظ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = فایل كھولیو
     .tooltiptext = اکھ فایل کْریو اوپْن({ $shortcut })
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -210,9 +204,6 @@ eme-notifications-drm-content-playing = کوس تام آڈیو یا ویڈیو
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -224,7 +215,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } خٲطرئ دیو پاپ اَپسن اجازت
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } خٲطرئ كریو  پاپ اَپسن بند
     .accesskey = p
@@ -246,25 +236,20 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ڈاؤن لوڈز
-
 navbar-overflow =
     .tooltiptext = مزید ٹول ۔ ۔ ۔
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = پرینٹ
     .tooltiptext = یہ پیج کْریو پرینٹ ۔ ۔ ۔ ({ $shortcut })
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = براوزر ٹیبس
-
 tabs-toolbar-new-tab =
     .label = نئو ٹیب
-
 tabs-toolbar-list-all-tabs =
     .label = سارنی ٹیبن ہیوند فہرست بنٲویو
     .tooltiptext = سارنی ٹیبن ہیوند فہرست بنٲویو
@@ -289,11 +274,14 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ئن دیوت نئ یَتھ صفحس پانٲی لوڈ گژھنئ
 refresh-blocked-redirect-label = { -brand-short-name }  ئن دیوت نئ یتھ صفحس بییس صفحس منز پانٲی گژھنئ
-
 refresh-blocked-allow =
     .label = اجازتھ
     .accesskey = A
@@ -301,20 +289,14 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 
-## Popup Notification
-
-
-## Pop-up Notification
-
-
 ## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message = ان رُکأو یہ سایِٹ اکھ پاپ۔اپ وینڈو کھولنْہ نِش۔؛ ان رُکأو یہ سایِٹ اکھ پاپ۔اپ وینڈو کھولنْہ نِش۔#۲{ -brand-short-name }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
