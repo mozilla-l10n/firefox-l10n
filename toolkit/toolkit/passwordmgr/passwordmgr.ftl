@@ -5,6 +5,9 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Spremiti lozinku za { $host }?
 password-manager-save-password-button-allow =
     .label = Spremi
     .accesskey = S
@@ -14,6 +17,7 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Aktualizirati lozinku za { $host }?
+password-manager-update-login-add-username = Dodati korisničko ime spremljenoj lozinki?
 password-manager-password-password-button-allow =
     .label = Dopuna
     .accesskey = V
