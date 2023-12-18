@@ -20,3 +20,4 @@ password-manager-toggle-password =
     .label = गोप्यशब्द देखाउनुहोस्
     .accesskey = h
 password-manager-confirm-password-change = गोप्यशब्द परिवर्तन यकिन गर्नुहोस्
+password-manager-select-username = कुन लगइन अद्यावधिक गर्ने हो चयन गर्नुहोस्:
