@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = לשמור
     .accesskey = ש
+password-manager-save-password-button-never =
+    .label = לעולם לא לשמור
+    .accesskey = ל
 password-manager-password-password-button-allow =
     .label = לעדכן
     .accesskey = ע
