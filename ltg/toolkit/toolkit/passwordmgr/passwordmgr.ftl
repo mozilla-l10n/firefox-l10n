@@ -7,3 +7,4 @@
 
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = No username
+password-manager-confirm-password-change = Apstyprynojit paroles maiņu
