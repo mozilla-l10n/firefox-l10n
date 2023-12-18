@@ -39,7 +39,6 @@ browser-main-window-title = { -brand-full-name }
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah peuatô mita
-
 search-one-offs-context-open-new-tab =
     .label = Mita nibak Tab Barô
     .accesskey = T
@@ -62,7 +61,6 @@ search-one-offs-context-open-new-tab =
 bookmark-panel-cancel =
     .label = Bateuë
     .accesskey = B
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -103,6 +101,9 @@ popup-all-windows-shared = Mandum windows nyang deuh bak layeu droen keuneuk jib
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Tôp
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -130,14 +131,9 @@ popup-all-windows-shared = Mandum windows nyang deuh bak layeu droen keuneuk jib
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> jinoe nakeuh layeue peunoh
-
-
 fullscreen-exit-button = Teubiet Layeue Peunoh (ESC)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Teubiet Peunoh Layeu (esc)
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -187,9 +183,6 @@ toolbar-button-open-file =
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -213,20 +206,15 @@ ui-tour-info-panel-close =
 
 navbar-downloads =
     .label = Beureukaih teukeubah
-
 navbar-overflow =
     .tooltiptext = Peukakah laén…
-
 navbar-home =
     .label = Ônkeuë
     .tooltiptext = Ônkeuë { -brand-short-name }
-
 navbar-search =
     .title = Mita
-
 tabs-toolbar-new-tab =
     .label = Tab Barô
-
 tabs-toolbar-list-all-tabs =
     .label = Peudapeuta ban dum tab
     .tooltiptext = Peudapeuta ban dum tab
@@ -247,6 +235,10 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-allow =
@@ -256,13 +248,8 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 
-## Popup Notification
-
-
-## Pop-up Notification
-
-
 ## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
