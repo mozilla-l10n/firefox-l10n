@@ -108,11 +108,13 @@ about-logins-login-intro-heading-logged-in = Inga synkroniserade inloggningar hi
 login-intro-description = Om du sparat dina inloggningar i { -brand-product-name } på en annan enhet, så här får du dem hit:
 login-intro-instructions-fxa = Skapa eller logga in på ditt { -fxaccount-brand-name } på enheten där dina inloggningar sparas.
 about-logins-login-intro-heading-message = Spara dina lösenord på en säker plats
+login-intro-description2 = Alla lösenord du sparar i { -brand-product-name } är krypterade. Dessutom är vi uppmärksamma på intrång och varnar dig om du drabbas. <a data-l10n-name="breach-alert-link">Läs mer</a>
 login-intro-instructions-fxa2 = Skapa eller logga in på ditt konto på enheten där dina inloggningar sparas.
 login-intro-instructions-fxa-settings = Gå till Inställningar > Synkronisering > Aktivera synkronisering… Markera kryssrutan Inloggningar och lösenord.
 login-intro-instructions-fxa-passwords-help = Besök <a data-l10n-name="passwords-help-link">lösenordssupport</a> för mer hjälp.
 about-logins-intro-browser-only-import = Om dina inloggningar sparas i en annan webbläsare kan du <a data-l10n-name="import-link">importera dem till { -brand-product-name }</a>
 about-logins-intro-import2 = Om dina inloggningar sparas utanför { -brand-product-name } kan du  <a data-l10n-name="import-browser-link">importera dem från en annan webbläsare</a> eller <a data-l10n-name="import-file-link">från en fil</a>
+about-logins-intro-import3 = Välj plustecknet ovan för att lägga till ett lösenord nu. Du kan också <a data-l10n-name="import-browser-link">importera lösenord från en annan webbläsare</a> eller <a data-l10n-name="import-file-link">från en fil</a> a>.
 
 ## Login
 
@@ -293,6 +295,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Exportera inloggningar och lösenord
 about-logins-confirm-export-dialog-message = Dina lösenord sparas som läsbar text (t.ex. BadP@ssw0rd) så att alla som kan öppna den exporterade filen kan se dem.
 about-logins-confirm-export-dialog-confirm-button = Exportera…
+about-logins-confirm-export-dialog-title2 = En anteckning om att exportera lösenord
+about-logins-confirm-export-dialog-message2 =
+    När du exporterar sparas dina lösenord i en fil med läsbar text.
+    När du är klar med att använda filen rekommenderar vi att du tar bort den så att andra som använder den här enheten inte kan se dina lösenord.
+about-logins-confirm-export-dialog-confirm-button2 = Fortsätt med export
 about-logins-alert-import-title = Import slutförd
 about-logins-alert-import-message = Visa detaljerad importöversikt
 confirm-discard-changes-dialog-title = Ignorera dessa förändringar?
@@ -334,6 +341,11 @@ about-logins-export-file-picker-title = Exportera inloggningsfil
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Exportera lösenord från { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = losenord.csv
 about-logins-export-file-picker-export-button = Exportera
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
