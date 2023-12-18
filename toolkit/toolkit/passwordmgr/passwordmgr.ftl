@@ -5,9 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = შეინახოს პაროლი საიტისთვის { $host }?
 password-manager-save-password-button-allow =
     .label = დამახსოვრება
     .accesskey = დ
+password-manager-save-password-button-never =
+    .label = არასოდეს შეინახოს
+    .accesskey = რ
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = განახლდეს პაროლი საიტისთვის { $host }?
+password-manager-update-login-add-username = დაემატოს სახელი ამ პაროლს?
 password-manager-password-password-button-allow =
     .label = განახლება
     .accesskey = ხ
