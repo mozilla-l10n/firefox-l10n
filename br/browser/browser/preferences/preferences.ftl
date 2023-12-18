@@ -807,7 +807,7 @@ forms-primary-pw-former-name = Anvet "ger-tremen mestr" a-raok
 forms-primary-pw-fips-title = E mod FIPS emaoc'h. FIPS a c'houlenn ur ger-tremen mestr ha n'eo ket goulo.
 forms-master-pw-fips-desc = Fazi en ur gemmañ ar ger-tremen
 forms-windows-sso =
-    .label = Aotren dilesa eeun Windows evit ar c'hontoù Microsoft, al labour hag ar c'hontoù skol.
+    .label = Aotren dilesa eeun Windows evit ar c’hontoù Microsoft, labour ha skol
 forms-windows-sso-learn-more-link = Gouzout hiroc'h
 forms-windows-sso-desc = Merañ ar c'hontoù e arventennoù ho trevnad
 
