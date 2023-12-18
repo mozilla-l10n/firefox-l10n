@@ -5,4 +5,6 @@
 
 ## Save and update password doorhanger
 
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = ไม่มีชื่อผู้ใช้
 password-manager-confirm-password-change = ยืนยันการเปลี่ยนรหัสผ่าน
