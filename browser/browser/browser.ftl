@@ -19,7 +19,6 @@ browser-main-window-window-titles =
     .data-title-private = Brabhsadh prìobhaideach { -brand-full-name }
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – Brabhsadh prìobhaideach { -brand-full-name }
-
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -39,13 +38,11 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } – Brabhsadh prìobhaideach
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – Brabhsadh prìobhaideach
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Brabhsadh prìobhaideach { -brand-shortcut-name }
@@ -108,7 +105,6 @@ urlbar-search-tips-confirm-short = Tha mi agaibh
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Gliocas:
-
 urlbar-result-menu-button =
     .title = Fosgail an clàr-taice
 urlbar-result-menu-button-feedback = Cuir beachd thugainn
@@ -130,10 +126,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Nas lugha de sgrìobhadh: Dèan lorg le { $engineName } o bhàr an t-seòlaidh fhèin.
 urlbar-search-tips-redirect-2 = Dèan lorg ann am bàr an t-seòlaidh ’s chì thu molaidhean o { $engineName } agus on eachdraidh bhrabhsaidh agad.
-
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Tha e nas fhasa na bha e a-riamh lorg a dhèanamh. Feuch is dèan lorg nas pongail an-seo air bàr an t-seòlaidh. Airson an URL a shealltainn an àite sin, tadhail air “Lorg” sna roghainnean.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Tagh an ath-ghoirid seo a lorg na dh’fheumas tu nas luaithe.
@@ -171,12 +165,10 @@ urlbar-midi-blocked =
     .tooltiptext = Bhac thu inntrigeadh MIDI air an làrach-lìn seo.
 urlbar-install-blocked =
     .tooltiptext = Bhac thu stàladh de thuilleadain air an làrach-lìn seo.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Deasaich an comharra-lìn seo ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -205,10 +197,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Dèan lorg leis na leanas an turas seo:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Atharraich na roghainnean luirg
-
 search-one-offs-context-open-new-tab =
     .label = Lorg ann an taba ùr
     .accesskey = t
@@ -218,14 +208,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Suidhich mar an t-einnsean-luirg bunaiteachd ann an uinneagan prìobhaideach
     .accesskey = S
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -262,71 +250,54 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Seall na tuilleadain
 quickactions-cmd-addons2 = tuilleadain
-
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Stiùirich na comharran-lìn
 quickactions-cmd-bookmarks = comharran-lìn
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Falamhaich an eachdraidh
 quickactions-cmd-clearhistory = falamhaich an eachdraidh
-
 # Opens about:downloads page
 quickactions-downloads2 = Seall na chaidh a luchdadh a-nuas
 quickactions-cmd-downloads = luchdaidhean a-nuas
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = Stiùirich na leudachain
 quickactions-cmd-extensions = leudachain
-
 # Opens the devtools web inspector
 quickactions-inspector2 = Fosgail innealan an luchd-leasachaidh
 quickactions-cmd-inspector = sgrùdaiche, devtools
-
 # Opens about:logins
 quickactions-logins2 = Stiùirich na faclan-faire
 quickactions-cmd-logins = clàraidhean a-steach, faclan-faire
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = Rianaich na plugain
 quickactions-cmd-plugins = plugain
-
 # Opens the print dialog
 quickactions-print2 = Clò-bhuail an duilleag
 quickactions-cmd-print = clò-bhuail
-
 # Opens a new private browsing window
 quickactions-private2 = Fosgail uinneag phrìobhaideach
 quickactions-cmd-private = brabhsadh prìobhaideach
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Ath-nuadhaich { -brand-short-name }
 quickactions-cmd-refresh = ath-nuadhaich
-
 # Restarts the browser
 quickactions-restart = Ath-thòisich { -brand-short-name }
 quickactions-cmd-restart = ath-thòisich
-
 # Opens the screenshot tool
 quickactions-screenshot3 = Tog glacadh-sgrìn
 quickactions-cmd-screenshot = glacadh-sgrìn
-
 # Opens about:preferences
 quickactions-settings2 = Stiùirich na roghainnean
 quickactions-cmd-settings = roghainnean
-
 # Opens about:addons page in the themes section
 quickactions-themes = Stiùirich na h-ùrlaran
 quickactions-cmd-themes = ùrlaran
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ùraich { -brand-short-name }
 quickactions-cmd-update = ùraich
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Seall bun-tùs na duilleige
 quickactions-cmd-viewsource = seall am bun-tùs
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Barrachd fiosrachaidh mu na grad-ghnìomhan
@@ -354,7 +325,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = Sàbhail
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -382,7 +352,6 @@ identity-passive-loaded = Chan eil pìosan dhen duilleag seo tèarainte (mar dhe
 identity-active-loaded = Chuir thu an dìon à comas air an duilleag seo.
 identity-weak-encryption = Tha an duilleag seo a’ cleachdadh crioptachadh lag.
 identity-insecure-login-forms = Dh’fhaoidte gu bheil cothrom air daoine air fiosrachadh clàraidh air an duilleag seo.
-
 identity-https-only-connection-upgraded = (chaidh àrdachadh gu HTTPS)
 identity-https-only-label = Modh HTTPS a-mhàin
 identity-https-only-dropdown-on =
@@ -394,11 +363,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Cuir am modh HTTPS air dhan làrach seo ma thogras tu gun àrdaich { -brand-short-name } an ceangal nuair a ghabhas seo a dhèanamh.
 identity-https-only-info-turn-off2 = Ma tha coltas briste air an duilleag seo, dh’fhaoidte gu bheil thu airson am modh HTTPS a-mhàin a chur dheth dhan làrach seo agus a h-ath-luchdadh le HTTP neo-thèarainte.
 identity-https-only-info-no-upgrade = Cha b’ urrainn dhuinn an ceangal àrdachadh o HTTP.
-
 identity-permissions-storage-access-header = Briosgaidean thar làraichean
 identity-permissions-storage-access-hint = ’S urrainn dha na pàrtaidhean seo briosgaidean agus dàta thar làraichean a chleachdadh fhad ’s a bhios tu air an làrach seo.
 identity-permissions-storage-access-learn-more = Barrachd fiosrachaidh
-
 identity-permissions-reload-hint = Dh’fhaoidte gum bi agad ris an duilleag ath-luchdadh mus bi na h-atharraichean an sàs.
 identity-clear-site-data =
     .label = Falamhaich na briosgaidean is dàta nan làrach...
@@ -462,7 +429,6 @@ browser-tab-mute =
         [few] MÙCH { $count } TABAICHEAN
        *[other] MÙCH { $count } TABA
     }
-
 browser-tab-unmute =
     { $count ->
         [1] DÌ-MHUCH AN TABA
@@ -471,7 +437,6 @@ browser-tab-unmute =
         [few] DÌ-MHUCH { $count } TABAICHEAN
        *[other] DÌ-MHUCH { $count } TABA
     }
-
 browser-tab-unblock =
     { $count ->
         [1] CLUICH AN TABA
@@ -486,7 +451,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Ion-phortaich comharran-lìn…
     .tooltiptext = Ion-phortaich comharran-lìn o brabhsair eile gu { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = Airson cothrom luath orra, cuir na comharran-lìn agad air bàr nan comharran-lìn an-seo. <a data-l10n-name="manage-bookmarks">Stiùirich na comharran-lìn…</a>
 
 ## WebRTC Pop-up notifications
@@ -523,11 +487,13 @@ enable-devtools-popup-description2 = Mus cleachd thu ath-ghoirid F12, feumaidh t
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Dùin
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Cuir ann lorg no seòladh
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -536,7 +502,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Lorg air an lìon
     .aria-label = Lorg le { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -545,32 +510,26 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Cuir a-steach abairt-luirg
     .aria-label = Lorg air { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Cuir a-steach abairt-luirg
     .aria-label = Lorg sna comharran-lìn
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Cuir a-steach abairt-luirg
     .aria-label = Lorg san eachdraidh
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Cuir a-steach abairt-luirg
     .aria-label = Lorg sna tabaichean
-
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Cuir a-steach briathran-luirg
     .aria-label = Gnìomhan luirg
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Lorg le { $name } no cuir ann seòladh
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -580,11 +539,9 @@ urlbar-permissions-granted =
     .tooltiptext = Thug thu ceadan a bharrachd dhan làrach-lìn seo.
 urlbar-switch-to-tab =
     .value = Gearr leum gun taba:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Leudachan:
-
 urlbar-go-button =
     .tooltiptext = Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh
 urlbar-page-action-button =
@@ -652,14 +609,12 @@ urlbar-result-action-search-actions = Gnìomhan luirg
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Molaidhean { $engine }
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Grad-ghnìomhan
@@ -679,7 +634,6 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Fosgail an dealbh ann an dealbh ({ $shortcut })
-
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Fùin an dealbh ann an dealbh ({ $shortcut })
 
@@ -690,19 +644,14 @@ picture-in-picture-urlbar-button-close =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ’na làn-sgrìn a-nis
 fullscreen-warning-no-domain = Tha an sgrìobhainn seo ’na làn-sgrìn a-nis
-
-
 fullscreen-exit-button = Fàg an làn-sgrìn (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Fàg an làn-sgrìn (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = Tha smachd aig <span data-l10n-name="domain">{ $domain }</span> air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.
 pointerlock-warning-no-domain = Tha smachd aig an sgrìobhainn seo air an tomhaire agad. Brùth Esc airson an smachd a thilleadh dhut fhèin.
-
-## Subframe crash notification
 
 ## Bookmarks panels, menus and toolbar
 
@@ -757,7 +706,6 @@ bookmarks-tools =
     .label = Innealan nan comharran-lìn
 bookmarks-subview-edit-bookmark =
     .label = Deasaich an comharra-lìn seo…
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -771,7 +719,6 @@ bookmarks-toolbar-placeholder =
     .title = Rudan air bàr nan comharran-lìn
 bookmarks-toolbar-placeholder-button =
     .label = Rudan air bàr nan comharran-lìn
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Dèan comharra-lìn dhen taba làithreach…
@@ -806,35 +753,28 @@ toolbar-settings-button =
             [macos] Fosgail na roghainnean ({ $shortcut })
            *[other] Fosgail na roghainnean
         }
-
 toolbar-overflow-customize-button =
     .label = Gnàthaich am bàr-inneal...
     .accesskey = G
-
 toolbar-button-email-link =
     .label = Cuir an dealbh air a' phost-d
     .tooltiptext = Cuir ceangal ris an duilleag seo air a' phost-d
-
 toolbar-button-logins =
     .label = Faclan-faire
     .tooltiptext = Seall is stiùirich na faclan-faire a shàbhail thu
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Sàbhail an duilleag
     .tooltiptext = Sàbhail an duilleag seo ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Fosgail faidhle
     .tooltiptext = Fosgail faidhle ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Tabaichean sioncronaichte
     .tooltiptext = Seall tabaichean o uidheaman eile
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -854,8 +794,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = d
 panel-save-update-username = Ainm-cleachdaiche
 panel-save-update-password = Facal-faire
 
-## Add-on removal warning
-
 ##
 
 # "More" item in macOS share menu
@@ -870,7 +808,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Ceadaich priob-uinneagan do { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Cuir bacadh air priob-uinneagan o { $uriHost }
     .accesskey = p
@@ -880,11 +817,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Na seall an teachdaireachd seo ma tha bacadh air priob-uinneagan
     .accesskey = D
-
 edit-popup-settings =
     .label = Stiùirich roghainnean nam priob-uinneagan…
     .accesskey = m
-
 picture-in-picture-hide-toggle =
     .label = Falaich toglachadh dealbh am broinn deilbh
     .accesskey = h
@@ -895,7 +830,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Gluais toglachadh an deilbh am broinn deilbh gun taobh deas
     .accesskey = r
-
 picture-in-picture-move-toggle-left =
     .label = Gluais toglachadh an deilbh am broinn deilbh gun taobh chlì
     .accesskey = l
@@ -910,39 +844,30 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Seòladaireachd
-
 navbar-downloads =
     .label = Luchdaidhean a-nuas
-
 navbar-overflow =
     .tooltiptext = Barrachd innealan…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Clò-bhuail
     .tooltiptext = Clò-bhuail an duilleag seo… ({ $shortcut })
-
 navbar-home =
     .label = Dhachaigh
     .tooltiptext = Duilleag-dhachaigh { -brand-short-name }
-
 navbar-library =
     .label = Leabhar-lann
     .tooltiptext = Seall air an eachdraidh, comharran-lìn a shàbhail thu ’s mòran a bharrachd
-
 navbar-search =
     .title = Lorg
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Tabaichean a' bhrabhsair
-
 tabs-toolbar-new-tab =
     .label = Taba ùr
-
 tabs-toolbar-list-all-tabs =
     .label = Liostaich gach taba
     .tooltiptext = Liostaich gach taba
@@ -959,7 +884,6 @@ data-reporting-notification-message = Cuiridh { -brand-short-name } beagan dàta
 data-reporting-notification-button =
     .label = Co-dhùin na thèid a cho-roinneadh
     .accesskey = C
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Brabhsadh prìobhaideach
 
@@ -981,25 +905,24 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Cha do leig { -brand-short-name } leis an duilleag seo ath-luchdadh gu fèin-obrachail.
 refresh-blocked-redirect-label = Cha do leig { -brand-short-name } leis an duilleag seo do stiùireadh gu duilleag eile gu fèin-obrachail.
-
 refresh-blocked-allow =
     .label = Ceadaich
     .accesskey = A
 
 ## Firefox Relay integration
 
-## Popup Notification
-
 firefox-relay-offer-why-to-use-relay = Tha na masgan againn tèarainte ’s furasta ri an cleachdadh, dìonaidh iad do dhearbh-aithne agus bacaidh iad spama le bhith a’ cur a’ phuist-d agad am falach.
-
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Thèid gach post-d a chuirear dha na masgan puist-d agad a shìneadh air adhart gu <strong>{ $useremail }</strong> (ach ma bhacas tu iad).
-
 firefox-relay-offer-legal-notice = Le bith a’ briogadh air “Cleachd masg puist-d”, bidh tu ag aontachadh ri <label data-l10n-name="tos-url">teirmichean na seirbheise</label> agus <label data-l10n-name="privacy-url">aithris na prìobhaideachd</label>.
 
 ## Add-on Pop-up Notifications
@@ -1040,7 +963,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
