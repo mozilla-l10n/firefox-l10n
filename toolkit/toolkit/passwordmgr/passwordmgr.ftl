@@ -5,4 +5,19 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Зберегти пароль для { $host }?
+password-manager-save-password-button-allow =
+    .label = Зберегти
+    .accesskey = З
+password-manager-update-login-add-username = Додати ім'я користувача до збереженого пароля?
+password-manager-password-password-button-allow =
+    .label = Оновити
+    .accesskey = О
+password-manager-update-password-button-deny =
+    .label = Не оновлювати
+    .accesskey = Н
+# This is displayed in place of the username when it is missing.
+password-manager-no-username-placeholder = Немає імені користувача
 password-manager-confirm-password-change = Підтвердження зміни пароля
