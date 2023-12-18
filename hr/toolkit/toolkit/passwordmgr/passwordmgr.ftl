@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Spremi
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Nikad ne spremaj
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = Dopuna
     .accesskey = V
