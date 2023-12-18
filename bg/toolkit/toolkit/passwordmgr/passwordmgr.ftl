@@ -5,6 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-password-password-button-allow =
+    .label = Обновяване
+    .accesskey = О
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Няма потребителско име
 password-manager-confirm-password-change = Потвърждение на смяна на парола
