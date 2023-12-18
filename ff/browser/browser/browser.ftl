@@ -98,18 +98,17 @@ urlbar-midi-blocked =
     .tooltiptext = A daaƴii keɓgol MIDI wonande ndee lowre geese.
 urlbar-install-blocked =
     .tooltiptext = A daaƴii aafgol ɓeyditte e ndee lowre geese.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Taƴto ngol maantorol ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Maantoro ngoo hello ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -125,10 +124,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ngol laawol, yiylo e:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Waylu teelte njiilaw
-
 search-one-offs-context-open-new-tab =
     .label = Yiylo e Tabbere Hesere
     .accesskey = T
@@ -138,7 +135,6 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Waɗtu Yiylorɗe Woowaanɗe ngam Windows Keeriiɗo
     .accesskey = P
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -174,7 +170,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Hollu taƴtorde kisnugol
     .accesskey = 5
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -194,7 +189,6 @@ identity-passive-loaded = Geɗe ɗe kisaani nana e ngoo hello (wano nate).
 identity-active-loaded = A dartinii ndeenka e ngoo hello.
 identity-weak-encryption = Ngoo hello huutortoo ko gannugol jaafngol.
 identity-insecure-login-forms = Ceŋorɗe naatnaaɗe e ngoo hello ena mbawi jaayeede.
-
 identity-permissions-reload-hint = Ena waawi coaklaa loowtude hello ngoo ngam bayle ɗee njaaɓa.
 identity-clear-site-data =
     .label = Mumtu kuukiije e keɓe lowre ndee…
@@ -253,27 +247,27 @@ popup-all-windows-shared = Kala henorde yiyotonde e yaynirde maaɗa maa lolline.
 
 ## DevTools F12 popup
 
+
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Uddu
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Yiylo walla naatnu ñiiɓirde
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Yiiloro { $name } walla naatnu ñiiɓirde
-
 urlbar-permissions-granted =
     .tooltiptext = A hokkii ndee lowre jamirooje goɗɗe.
 urlbar-switch-to-tab =
     .value = Yah to tabbere:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Timmitere:
-
 urlbar-go-button =
     .tooltiptext = Yah to ñiiɓirde wonde e Palal Nokkuuje
 urlbar-page-action-button =
@@ -319,20 +313,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> jooni ko e jaajeende yaynirde
 fullscreen-warning-no-domain = Ndee fiilannde jonni ko e njaajeendi yaynirde
-
-
 fullscreen-exit-button = Yaltu njaajeendi yaynirde (Ech)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Yaltu njaajeendi yaynirde (Ech)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = Tamde <span data-l10n-name="domain">{ $domain }</span> nana ɗowa doborde maa. Ñoƴƴu Ech ngam ɓamtude ɗowgol.
 pointerlock-warning-no-domain = Ndee fiilannde nana ɗowa doborde maa. Ñoƴƴu Ech ngam ɓamtude ɗowgol.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -376,7 +364,6 @@ bookmarks-search =
     .label = Yiylo Maantore
 bookmarks-tools =
     .label = Kuutorɗe Maantorgol
-
 bookmarks-toolbar-menu =
     .label = Palal Maantore
 bookmarks-toolbar-placeholder =
@@ -403,27 +390,22 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = Heertin Palal Kuutorɗe…
     .accesskey = H
-
 toolbar-button-email-link =
     .label = Neldu Jokkol e Iimeel
     .tooltiptext = Neldu jokkol ngoo hello e iimeel
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Danndu Hello
     .tooltiptext = Danndu ngoo hello ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Uddit Fiilde
     .tooltiptext = Uddit fiilde ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Tabbe synckaaɗe
     .tooltiptext = Hollu tabbe ummiiɗe e kaɓirɗi goɗɗi
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -437,9 +419,6 @@ eme-notifications-drm-content-playing = Yoga e ojooji e widewooji ndee lowre ena
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -451,7 +430,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Yamir cuppitte e { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Falo cuppitte e { $uriHost }
     .accesskey = p
@@ -473,36 +451,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Gaawte
-
 navbar-overflow =
     .tooltiptext = Kuutorɗe goɗɗe…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Waanjito
     .tooltiptext = Muul hello… ({ $shortcut })
-
 navbar-home =
     .label = Jaɓɓorgo
     .tooltiptext = { -brand-short-name } Jaɓɓorgo
-
 navbar-library =
     .label = Deftordu
     .tooltiptext = Yiy aslol, maantore danndaaɗe, e goɗɗe
-
 navbar-search =
     .title = Yiylo
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Tabbe wanngorde
-
 tabs-toolbar-new-tab =
     .label = Tabbere Hesere
-
 tabs-toolbar-list-all-tabs =
     .label = Waɗ doggol tabbe kala
     .tooltiptext = Waɗ doggol tabbe kala
@@ -527,19 +497,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } haɗii ngoo hello hesɗitinde hoore mum.
 refresh-blocked-redirect-label = { -brand-short-name } haɗii ngoo hello ɓennitaade e jaajol to hello woɗngo.
-
 refresh-blocked-allow =
     .label = Yamir
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -571,7 +541,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
