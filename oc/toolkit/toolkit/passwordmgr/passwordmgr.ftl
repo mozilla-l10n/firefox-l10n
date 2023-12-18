@@ -5,13 +5,29 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Salvar lo senhal per { $host } ?
 password-manager-save-password-button-allow =
     .label = Enregistrar
     .accesskey = E
 password-manager-save-password-button-never =
     .label = Enregistrar pas jamai
     .accesskey = e
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Actualizar lo senhal per { $host } ?
+password-manager-update-login-add-username = Apondre un nom d’utilizaire al senhal salvat ?
+password-manager-password-password-button-allow =
+    .label = Metre a jorn
+    .accesskey = M
+password-manager-update-password-button-deny =
+    .label = Metre pas a jorn
+    .accesskey = p
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = Pas cap de nom d'utilizaire
+password-manager-toggle-password =
+    .label = Mostrar lo senhal
+    .accesskey = m
 password-manager-confirm-password-change = Confirmatz la modificacion del senhal
 password-manager-select-username = Seleccionatz quin identificant metre a jorn :
