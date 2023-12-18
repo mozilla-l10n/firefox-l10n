@@ -87,18 +87,17 @@ urlbar-canvas-blocked =
     .tooltiptext = Datu sajimšona nu ituos lopys canvas ir blokeita.
 urlbar-midi-blocked =
     .tooltiptext = Tu esi aizlīdzs MIDI pīkļuvi itai lopai.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit this bookmark ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Bookmark this page ({ $shortcut })
 
 ## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -113,14 +112,12 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Maineit mekliešonys īstatiejumus
-
 search-one-offs-context-open-new-tab =
     .label = Mekleit jaunā cilnē
     .accesskey = c
 search-one-offs-context-set-as-default =
     .label = Īstateit par nūkluseitū mekleituoju
     .accesskey = n
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -157,7 +154,6 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Rōdēt redaktoru pi saglobōšonys
     .accesskey = S
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -174,7 +170,6 @@ identity-passive-loaded = Itōs lopys daļas (pīmāram biļdis) nav drūšys.
 identity-active-loaded = Nadrūsu elementu aizsardzeiba ir deaktiveita.
 identity-weak-encryption = Itei lopa izmontoj vuoju šifriešonu.
 identity-insecure-login-forms = Dati, kurus īvadiesi itymā lopā nav aizsorgōti un var byut portvarti.
-
 identity-permissions-reload-hint = Kab radzāti izmaiņis īspiejams byus napīcīšama lopys puorluode.
 identity-clear-site-data =
     .label = Dzēst seikdatnes un lopu datus…
@@ -230,23 +225,22 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Aiztaiseit
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Meklej ar { $name } voi īvodi lopys adresi
-
 urlbar-switch-to-tab =
     .value = Puorslēgtīs iz cilni:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplošynuojums:
-
 urlbar-go-button =
     .tooltiptext = Puorīt iz adresu, kas radzama vītys juslā
 urlbar-page-action-button =
@@ -292,20 +286,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ir pa vysu ekranu
 fullscreen-warning-no-domain = Itys dokuments ir pa vysu ekranu
-
-
 fullscreen-exit-button = Izīt nu pynlekrana (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Izīt nu pynlekrana (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> kontrolej kursoru. Damīdz tausteņi Esc, kab porjimtu kontroli.
 pointerlock-warning-no-domain = Itys dokuments kontrolej kursoru. Damīdz tausteņi Esc, kab porjimtu kontroli.
-
-## Subframe crash notification
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -349,7 +337,6 @@ bookmarks-search =
     .label = Mekleit gruomotzeimes
 bookmarks-tools =
     .label = Gruomotzeimju reiki
-
 bookmarks-toolbar-menu =
     .label = Gruomotzeimju reikjūsla
 bookmarks-toolbar-placeholder =
@@ -373,27 +360,22 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = Pīlāgōt reikjūslu…
     .accesskey = P
-
 toolbar-button-email-link =
     .label = Nūsyuteit saiti
     .tooltiptext = Nūsyuteit saiti epostā
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Saglobōt lopu
     .tooltiptext = Sagloboj itū lopu ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Attaiseit failu
     .tooltiptext = Attaiseit failu ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Sinhronizeituos cilnes
     .tooltiptext = Paruodeit cilnes nu cytom īreičom
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -407,9 +389,6 @@ eme-notifications-drm-content-playing = Some audio or video on this site uses DR
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -421,7 +400,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow pop-ups for { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Block pop-ups for { $uriHost }
     .accesskey = p
@@ -443,36 +421,28 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Lejupīluodes
-
 navbar-overflow =
     .tooltiptext = Cyti reiki…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Drukōt
     .tooltiptext = Print this page… ({ $shortcut })
-
 navbar-home =
     .label = Suokumlopa
     .tooltiptext = { -brand-short-name } sōkuma lopa
-
 navbar-library =
     .label = Biblioteka
     .tooltiptext = Skateitīs viesturi, saglobōtōs grōmotzeimes i daudz kū cytu
-
 navbar-search =
     .title = Mekleit
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Puorlūka cilnes
-
 tabs-toolbar-new-tab =
     .label = Jauna cilne
-
 tabs-toolbar-list-all-tabs =
     .label = Vysu ciļņu saroksts
     .tooltiptext = Vysu ciļņu saroksts
@@ -497,19 +467,19 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } prevented this page from automatically reloading.
 refresh-blocked-redirect-label = { -brand-short-name } prevented this page from automatically redirecting to another page.
-
 refresh-blocked-allow =
     .label = Allow
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -538,7 +508,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
