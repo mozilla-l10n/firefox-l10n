@@ -9,15 +9,26 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = ф
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Затваряне
     .aria-label = Затваряне
+firefoxview-empty-state-icon =
+    .alt = Внимание:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Току-що
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Избор на раздел
+firefoxview-tabpickup-description = Отваряне на страници от други устройства.
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = { $percentValue }% завършено
 firefoxview-tabpickup-step-signin-header = Превключвайте безпроблемно между устройствата
+firefoxview-tabpickup-step-signin-description = За да вземете разделите от телефона си, първо влезте или създайте профил.
 firefoxview-tabpickup-step-signin-primarybutton = Напред
+firefoxview-syncedtabs-signin-header = Вземете раздели от всякъде
+firefoxview-syncedtabs-signin-primarybutton = Вписване или регистриране
 firefoxview-tabpickup-adddevice-learn-how = Научете как
 firefoxview-tabpickup-synctabs-header = Включване синхронизирането на раздели
 firefoxview-tabpickup-synctabs-learn-how = Научете как
