@@ -20,3 +20,4 @@ password-manager-toggle-password =
     .label = စကားဝှက်များကို ဖေါ်ပြပါ
     .accesskey = h
 password-manager-confirm-password-change = စကားဝှက် ပြင်ဆင်ချက်ကို အတည်ပြုပါ
+password-manager-select-username = ဝင်ရောက်ထားသည့် အချက်အလက်ကို ပြင်ရန် ရွေးပါ။
