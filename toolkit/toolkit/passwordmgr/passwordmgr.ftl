@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Պահպանել
     .accesskey = Պ
+password-manager-save-password-button-never =
+    .label = Երբեք չպահպանել
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = Թարմացնել
     .accesskey = U
