@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = साठवा
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = कधीही जतन करू नका
+    .accesskey = e
 password-manager-password-password-button-allow =
     .label = अद्ययावत
     .accesskey = U
