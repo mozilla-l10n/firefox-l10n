@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Simpan
     .accesskey = S
+password-manager-save-password-button-never =
+    .label = Jangan Pernah Simpan
+    .accesskey = J
 password-manager-password-password-button-allow =
     .label = Perbarui
     .accesskey = P
