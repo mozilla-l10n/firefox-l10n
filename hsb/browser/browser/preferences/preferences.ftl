@@ -919,6 +919,7 @@ forms-windows-sso =
     .label = Jednotne přizjewjenje za konta Microsoft, dźěłowe konta a šulske konta zmóžnić
 forms-windows-sso-learn-more-link = Dalše informacije
 forms-windows-sso-desc = Konta we wašich gratowych nastajenjach rjadować
+windows-passkey-settings-label = Hesłowe kluče w systemowych nastajenjach rjadować
 
 ## OS Authentication dialog
 
