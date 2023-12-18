@@ -8,6 +8,9 @@
 password-manager-save-password-button-allow =
     .label = Mentés
     .accesskey = e
+password-manager-save-password-button-never =
+    .label = Soha ne mentse
+    .accesskey = S
 password-manager-password-password-button-allow =
     .label = Frissítés
     .accesskey = F
