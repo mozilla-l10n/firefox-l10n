@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Roiporu tembiporupyahu IA { -fakespot-brand-full-name } mba’e rohesa’ỹijo hag̃ua iporãpa apopyre rechajeyha. Ñehesa’ỹijo oipytyvõta roha’ã hag̃ua hechajey porãngue, ndaha’éi apopyre porãngue.
 shopping-analysis-explainer-grades-intro = Rome’ẽ marandu’i peteĩteĩva apopyrépe <strong>papapy tai ndive</strong> A guive F peve.
 shopping-analysis-explainer-adjusted-rating-description = <strong>ñeha’ã oikóva</strong> oma’ẽ marandu’i rohecháva jeroviaha añoite.
-shopping-analysis-explainer-learn-more = Eikuaave <a data-l10n-name="review-quality-url">mba’éichapa { -fakespot-brand-full-name } oikuaa marandu’i porãngue</a>.
 shopping-analysis-explainer-learn-more2 = Eikuaave <a data-l10n-name="review-quality-url">mba’éichapa { -fakespot-brand-name } oikuaa marandu’i porãngue</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Embojuruja marandu’i rechajeyha
 shopping-sidebar-close-button2 =
     .tooltiptext = Emboty marandu’i rechajeyha
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -190,8 +181,11 @@ shopping-onboarding-headline = Eiporu ore apopyre guataha rechajey jeroviahápe
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Ehechajey iporãha umi marandu’i apopyre rehegua <b>{ $currentSite }</b> ndive ejogua mboyve. Pe marandu’i rechajeyha, { -brand-product-name } mba’epyahúva, ojuaju kundahaite ndive. Avei ojeporu <b>{ $secondSite }</b> ha <b>{ $thirdSite }</b> ndive.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Ehechajey ejeroviaha marandu’i apopyre <b>{ $currentSite }</b> pegua ejogua mboyve. Pe marandu’i rechajeyha, tembiapoite { -brand-product-name } rehegua, ojuajuete kundahára ndive.
 shopping-onboarding-body = Eiporúvo tembiporupyahu { -fakespot-brand-full-name } mba’éva, roipytyvõta emboyke hag̃ua marandu’ivai ha hekotee’ỹva. Ore IA iporãve ñemo’ã hag̃ua emba’ejogua aja. <a data-l10n-name="learn_more">Eikuaave</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Eiporavóvo “{ shopping-onboarding-opt-in-button }“, emoneĩma <a data-l10n-name="privacy_policy">temiñemi porureko</a> { -fakespot-brand-full-name } mba’e ha <a data-l10n-name="terms_of_use">jeporu rehegua</a>.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Eiporavóvo “{ shopping-onboarding-opt-in-button }“, emoneĩma <a data-l10n-name="privacy_policy">temiñemi porureko</a> { -fakespot-brand-name } mba’e ha <a data-l10n-name="terms_of_use">jeporu rehegua.</a>
 shopping-onboarding-opt-in-button = Héẽ, eiporu
 shopping-onboarding-not-now-button = Ani ko’ág̃a
