@@ -243,7 +243,7 @@ places-forward-button =
     .tooltiptext = 转到下一页
 places-details-pane-select-an-item-description = 选择一个条目来查看或编辑其属性
 places-details-pane-no-items =
-    .value = 无
+    .value = 没有项目
 # Variables:
 #   $count (Number): number of items
 places-details-pane-items-count =
