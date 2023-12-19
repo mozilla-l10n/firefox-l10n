@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Аз браузери �
 about-logins-menu-menuitem-import-from-a-file = Аз файл ворид кардан…
 about-logins-menu-menuitem-export-logins = Содиркунии воридшавиҳо…
 about-logins-menu-menuitem-remove-all-logins = Ҳамаи воридшавиҳоро нест кардан…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Содир кардани ниҳонвожаҳо…
 about-logins-menu-menuitem-remove-all-logins2 = Тоза кардани ҳамаи ниҳонвожаҳо…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Воридшавиҳои ниго
 about-logins-login-intro-heading-logged-in = Ягон воридшавии ҳамоҳангшуда ёфт нашуд.
 login-intro-description = Агар шумо воридшавиҳои худро дар дастгоҳҳои гуногун ба { -brand-product-name } сабт карда бошед, дар он сурат шумо дар ин ҷо ба онҳо ҳамин тавр дастрасӣ пайдо мекунед:
 login-intro-instructions-fxa = Эҷод кунед ё ба { -fxaccount-brand-name }-и худ аз дастгоҳе, ки дар он воридшавиҳои шумо нигоҳ дошта шудаанд, ворид шавед.
+about-logins-login-intro-heading-message = Ниҳонвожаҳои худро ба ҷойи бехатар нигоҳ доред
 login-intro-instructions-fxa2 = Эҷод кунед ё ба ҳисоби худ аз дастгоҳе, ки дар он воридшавиҳои шумо нигоҳ дошта шудаанд, ворид шавед.
 login-intro-instructions-fxa-settings = Ба Танзимот > Ҳамоҳангсозӣ > Фаъол кардани ҳамоҳангсозӣ гузаред… Ба «Воридшавиҳо ва ниҳонвожаҳо» аломати қайдро гузоред.
 login-intro-instructions-fxa-passwords-help = Барои кумаки бештар <a data-l10n-name="passwords-help-link">дастгирии ниҳонвожаҳоро</a> мутолиа кунед.
@@ -282,6 +283,8 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 about-logins-confirm-export-dialog-title = Содир кардани воридшавиҳо ва ниҳонвожаҳо
 about-logins-confirm-export-dialog-message = Ниҳонвожаҳои шумо дар шакли матни хондашаванда нигоҳ дошта мешаванд (масалан, BadP@ssw0rd), бинобар ин, ҳар касе, ки метавонад файлро кушояд, ҳам метавонад ниҳонвожаҳоро бинад.
 about-logins-confirm-export-dialog-confirm-button = Содирот…
+about-logins-confirm-export-dialog-title2 = Тавзеҳ дар бораи содиркунии ниҳонвожаҳо
+about-logins-confirm-export-dialog-confirm-button2 = Идома додани содирот
 about-logins-alert-import-title = Воридот анҷом ёфт
 about-logins-alert-import-message = Дидани ҷамъбасти муфассал оид ба воридот
 confirm-discard-changes-dialog-title = Тағйироти захиранашударо бекор мекунед?
@@ -323,6 +326,11 @@ about-logins-export-file-picker-title = Содир кардани файли в�
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = воридшавиҳо.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Содир кардани ниҳонвожаҳо аз «{ -brand-short-name }»
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = ниҳонвожаҳо.csv
 about-logins-export-file-picker-export-button = Содир кардан
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
