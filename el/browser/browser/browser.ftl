@@ -513,15 +513,15 @@ urlbar-placeholder-search-mode-other-engine =
     .aria-label = Αναζήτηση { $name }
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Εισάγετε όρους αναζήτησης
+    .placeholder = Εισαγάγετε όρους αναζήτησης
     .aria-label = Αναζήτηση σελιδοδεικτών
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Εισάγετε όρους αναζήτησης
+    .placeholder = Εισαγάγετε όρους αναζήτησης
     .aria-label = Αναζήτηση ιστορικού
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Εισάγετε όρους αναζήτησης
+    .placeholder = Εισαγάγετε όρους αναζήτησης
     .aria-label = Αναζήτηση καρτελών
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =

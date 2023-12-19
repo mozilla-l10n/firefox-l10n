@@ -5,7 +5,7 @@
 print-setup =
     .title = Διαμόρφωση σελίδας
 custom-prompt-title = Προσαρμογή…
-custom-prompt-prompt = Εισάγετε το προσαρμοσμένο κείμενο επικεφαλίδας/υποσέλιδου
+custom-prompt-prompt = Εισαγάγετε το προσαρμοσμένο κείμενο επικεφαλίδας/υποσέλιδου
 basic-tab =
     .label = Μορφή και επιλογές
 advanced-tab =
@@ -103,7 +103,6 @@ print-window =
     .title = Εκτύπωση
 print-complete =
     .value = Η εκτύπωση ολοκληρώθηκε
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

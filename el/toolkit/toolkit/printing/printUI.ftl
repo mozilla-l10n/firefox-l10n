@@ -21,7 +21,7 @@ printui-page-range-label = Σελίδες
 printui-page-range-picker =
     .aria-label = Επιλογή εύρους σελίδων
 printui-page-custom-range-input =
-    .aria-label = Εισάγετε προσαρμοσμένο εύρος σελίδων
+    .aria-label = Εισαγάγετε προσαρμοσμένο εύρος σελίδων
     .placeholder = π.χ. 2-6, 9, 12-16
 # Section title for the number of copies to print
 printui-copies-label = Αντίγραφα
@@ -122,7 +122,7 @@ printui-paper-tabloid = Tabloid
 ## Error messages shown when a user has an invalid input
 
 printui-error-invalid-scale = Η κλίμακα πρέπει να είναι μεταξύ 10 και 200.
-printui-error-invalid-margin = Εισάγετε ένα έγκυρο περιθώριο για το επιλεγμένο μέγεθος χαρτιού.
+printui-error-invalid-margin = Εισαγάγετε ένα έγκυρο περιθώριο για το επιλεγμένο μέγεθος χαρτιού.
 printui-error-invalid-copies = Τα αντίγραφα πρέπει να είναι ένας αριθμός μεταξύ 1 και 10000.
 # Variables
 # $numPages (integer) - Number of pages
