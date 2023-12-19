@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Shranjeni naslovi
 autofill-manage-addresses-list-header = Naslovi
 autofill-manage-credit-cards-title = Shranjene kreditne kartice
 autofill-manage-credit-cards-list-header = Kreditne kartice
+autofill-manage-payment-methods-title = Shranjeni načini plačila
+autofill-manage-cards-list-header = Kartice
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Odstrani
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Nastavitve naslovov
 address-capture-learn-more-button =
     .label = Več o tem
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Dodaj nov naslov
 address-capture-open-menu-button =
     .aria-label = Odpri meni
 address-capture-edit-address-button =
     .aria-label = Uredi naslov
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Dodaj nov naslov
+autofill-add-address-title = Dodaj naslov
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Uredi naslov
 autofill-address-name = Ime
@@ -126,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } poskuša prikazati podatke o kreditni kartici. Spodaj potrdite dostop do tega računa Windows.
        *[other] { -brand-short-name } poskuša prikazati podatke o kreditni kartici.
     }
+autofill-message-tooltip = Prikaži sporočilo o samodejnem izpolnjevanju
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Dodaj kartico
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Uredi kartico
 autofill-card-number = Številka kartice
 autofill-card-invalid-number = Vnesite veljavno številko kartice
 autofill-card-name-on-card = Ime na kartici

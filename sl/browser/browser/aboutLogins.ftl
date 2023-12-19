@@ -379,6 +379,7 @@ about-logins-import-dialog-error-try-import-again = Poskusi znova uvoziti …
 about-logins-import-dialog-error-cancel = Prekliči
 about-logins-import-report-title = Povzetek uvoza
 about-logins-import-report-description = Prijave in gesla, uvožena v { -brand-short-name }.
+about-logins-import-report-description2 = Gesla so uvožena v { -brand-short-name(sklon: "tozilnik") }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -386,6 +387,9 @@ about-logins-import-report-row-index = Vrstica { $number }
 about-logins-import-report-row-description-no-change = Podvojitev: popolno ujemanje z obstoječo prijavo
 about-logins-import-report-row-description-modified = Obstoječa prijava posodobljena
 about-logins-import-report-row-description-added = Nova prijava dodana
+about-logins-import-report-row-description-no-change2 = Podvojitev: popolno ujemanje z obstoječim vnosom
+about-logins-import-report-row-description-modified2 = Obstoječi vnos posodobljen
+about-logins-import-report-row-description-added2 = Novo geslo dodano
 about-logins-import-report-row-description-error = Napaka: Manjkajoče polje
 
 ##

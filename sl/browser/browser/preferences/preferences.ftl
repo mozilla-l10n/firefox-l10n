@@ -620,6 +620,9 @@ search-suggestions-desc = Izberite, kako naj se prikazujejo predlogi iskalnikov.
 search-suggestions-option =
     .label = Predlogi iskanja
     .accesskey = s
+search-show-suggestions-option =
+    .label = Prikaži predloge iskanja
+    .accesskey = P
 search-show-suggestions-url-bar-option =
     .label = Prikaži predloge iskanja v rezultatih naslovne vrstice
     .accesskey = P
@@ -753,8 +756,10 @@ sync-currently-syncing-bookmarks = zaznamki
 sync-currently-syncing-history = zgodovina
 sync-currently-syncing-tabs = odprti zavihki
 sync-currently-syncing-logins-passwords = prijave in gesla
+sync-currently-syncing-passwords = gesla
 sync-currently-syncing-addresses = naslovi
 sync-currently-syncing-creditcards = kreditne kartice
+sync-currently-syncing-payment-methods = načini plačila
 sync-currently-syncing-addons = dodatki
 sync-currently-syncing-settings = nastavitve
 sync-change-options =
@@ -785,6 +790,10 @@ sync-engine-logins-passwords =
     .label = prijave in gesla
     .tooltiptext = Uporabniška imena in gesla, ki ste jih shranili
     .accesskey = P
+sync-engine-passwords =
+    .label = gesla
+    .tooltiptext = Gesla, ki ste jih shranili
+    .accesskey = g
 sync-engine-addresses =
     .label = naslove
     .tooltiptext = Shranjene poštne naslove (samo računalniki)
@@ -793,6 +802,10 @@ sync-engine-creditcards =
     .label = kreditne kartice
     .tooltiptext = Imena, številke in datume veljavnosti (samo računalniki)
     .accesskey = K
+sync-engine-payment-methods2 =
+    .label = Načini plačila
+    .tooltiptext = Imena, številke kartic in datumi veljavnosti
+    .accesskey = { "" }
 sync-engine-addons =
     .label = dodatke
     .tooltiptext = Razširitve in teme Firefoxa za računalnike
@@ -839,18 +852,31 @@ pane-privacy-logins-and-passwords-header = Prijave in gesla
 forms-ask-to-save-logins =
     .label = Ponujaj shranjevanje prijav in gesel za spletne strani
     .accesskey = g
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Gesla
+    .searchkeywords = prijave
 forms-exceptions =
     .label = Izjeme …
     .accesskey = i
 forms-generate-passwords =
     .label = Predlagaj in ustvarjaj močna gesla
     .accesskey = u
+forms-suggest-passwords =
+    .label = Predlagaj močna gesla
+    .accesskey = m
 forms-breach-alerts =
     .label = Prikaži opozorila o geslih za ogrožene spletne strani
     .accesskey = P
 forms-breach-alerts-learn-more-link = Več o tem
 preferences-relay-integration-checkbox =
     .label = Predlagaj e-poštne maske { -relay-brand-name }, s katerimi lahko zaščitite svoj e-poštni naslov
+preferences-relay-integration-checkbox2 =
+    .label = Predlagaj e-poštne maske { -relay-brand-name }, s katerimi lahko zaščitite svoj e-poštni naslov
+    .accesskey = r
 relay-integration-learn-more-link = Več o tem
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -859,6 +885,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Shranjene prijave …
     .accesskey = H
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Samodejno izpolnjuj uporabniška imena in gesla
+    .accesskey = S
+forms-saved-passwords =
+    .label = Shranjena gesla
+    .accesskey = h
 forms-primary-pw-use =
     .label = Uporabi glavno geslo
     .accesskey = U
@@ -893,6 +926,20 @@ primary-password-os-auth-dialog-message-win = Če želite ustvariti glavno geslo
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = create a Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Samodejno izpolnjevanje
+autofill-addresses-checkbox = Shranjuj in izpolnjuj naslove
+    .accesskey = a
+autofill-saved-addresses-button = Shranjeni naslovi
+    .accesskey = h
+autofill-payment-methods-checkbox-message = Shranjuj in izpolnjuj načine plačila
+    .accesskey = l
+autofill-payment-methods-checkbox-submessage = Vključuje kreditne in debetne kartice
+    .accesskey = k
+autofill-saved-payment-methods-button = Shranjeni načini plačil
+    .accesskey = h
 
 ## Privacy Section - History
 

@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Vaše poročilo je poslano
     .title = Vaše poročilo je poslano
 report-broken-site-panel-report-sent-text = Hvala, ker pomagate { -brand-product-name(sklon: "dajalnik") } pri ustvarjanju bolj odprtega, dostopnejšega in boljšega spleta.
+report-broken-site-panel-invalid-url-label = Vnesite veljaven naslov URL
+report-broken-site-panel-missing-reason-label = Izberite razlog

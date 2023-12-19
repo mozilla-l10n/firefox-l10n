@@ -76,6 +76,7 @@ migration-bookmarks-option-label = zaznamki
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = priljubljene
 migration-logins-and-passwords-option-label = shranjene prijave in gesla
+migration-passwords-option-label = Shranjena gesla
 migration-history-option-label = zgodovina brskanja
 migration-extensions-option-label = Razširitve
 migration-form-autofill-option-label = podatki za izpolnjevanje obrazcev
