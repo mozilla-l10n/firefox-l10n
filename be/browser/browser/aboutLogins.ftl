@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Імпартаваць 
 about-logins-menu-menuitem-import-from-a-file = Імпартаваць з файла…
 about-logins-menu-menuitem-export-logins = Экспартаваць лагіны…
 about-logins-menu-menuitem-remove-all-logins = Выдаліць усе лагіны…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Экспартаваць паролі…
 about-logins-menu-menuitem-remove-all-logins2 = Выдаліць усе паролі…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -202,6 +202,8 @@ confirmation-dialog-dismiss-button =
     .title = Скасаваць
 about-logins-confirm-remove-dialog-title = Выдаліць гэты лагін?
 confirm-delete-dialog-message = Гэтае дзеянне незваротнае.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Выдаліць пароль?
 about-logins-confirm-remove-dialog-confirm-button = Выдаліць
 
 ## Variables
