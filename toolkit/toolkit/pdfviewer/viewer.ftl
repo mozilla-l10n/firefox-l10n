@@ -316,6 +316,8 @@ pdfjs-editor-remove-freetext-button =
     .title = Odstrani besedilo
 pdfjs-editor-remove-stamp-button =
     .title = Odstrani sliko
+pdfjs-editor-remove-highlight-button =
+    .title = Odstrani označbo
 
 ##
 
@@ -365,3 +367,22 @@ pdfjs-editor-resizer-label-bottom-right = Spodnji desni kot – spremeni velikos
 pdfjs-editor-resizer-label-bottom-middle = Spodaj na sredini – spremeni velikost
 pdfjs-editor-resizer-label-bottom-left = Spodnji levi kot – spremeni velikost
 pdfjs-editor-resizer-label-middle-left = Levo na sredini – spremeni velikost
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Barva označbe
+pdfjs-editor-colorpicker-button =
+    .title = Spremeni barvo
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Izbira barve
+pdfjs-editor-colorpicker-yellow =
+    .title = Rumena
+pdfjs-editor-colorpicker-green =
+    .title = Zelena
+pdfjs-editor-colorpicker-blue =
+    .title = Modra
+pdfjs-editor-colorpicker-pink =
+    .title = Roza
+pdfjs-editor-colorpicker-red =
+    .title = Rdeča

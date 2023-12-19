@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Uporabi shranjeno prijavo
     .accesskey = o
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Uporabi shranjeno geslo
     .accesskey = o
@@ -305,6 +306,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = m
 main-context-menu-manage-logins2 =
     .label = Upravljanje prijav
+    .accesskey = U
+main-context-menu-manage-passwords =
+    .label = Upravljanje gesel
     .accesskey = U
 main-context-menu-keyword =
     .label = Dodaj ključno besedo k iskanju …

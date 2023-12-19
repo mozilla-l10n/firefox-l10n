@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Prijave za naslednja spletna mesta ne bodo shranjene
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Izjeme – Shranjena gesla
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = Za naslednja spletna mesta { -brand-short-name } ne bo shranjeval gesel.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
