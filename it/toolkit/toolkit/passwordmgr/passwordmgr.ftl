@@ -37,3 +37,4 @@ password-manager-toggle-password =
     .accesskey = M
 password-manager-confirm-password-change = Conferma cambio password
 password-manager-select-username = Selezionare le credenziali di accesso da aggiornare:
+

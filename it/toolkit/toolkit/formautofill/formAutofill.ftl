@@ -15,3 +15,4 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } sta cercando
 autofill-edit-payment-method-os-prompt-macos = visualizzare informazioni salvate relative ai metodi di pagamento
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } sta cercando di visualizzare informazioni salvate relative ai metodi di pagamento. Confermare l’accesso all’account Windows.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } sta cercando di visualizzare informazioni salvate relative ai metodi di pagamento.
+
