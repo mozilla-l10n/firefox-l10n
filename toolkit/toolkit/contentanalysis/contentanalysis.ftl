@@ -22,9 +22,15 @@ contentanalysis-notification-title = Analisi contenuti
 contentanalysis-genericresponse-message = Analisi contenuti ha risposto “{ $response }” per la risorsa: { $content }
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-block-message = La tua organizzazione utilizza un software per la prevenzione della perdita di dati che ha bloccato questo contenuto: { $content }.
+contentanalysis-block-message = La tua azienda utilizza un software per la prevenzione della perdita di dati che ha bloccato questi contenuti: { $content }.
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Si è verificato un errore nella comunicazione con il software per la prevenzione della perdita di dati. Trasferimento negato per la risorsa: { $content }.
 
+contentanalysis-warndialogtitle = Questi contenuti potrebbero essere non sicuri
 
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = La tua azienda utilizza un software per la prevenzione della perdita di dati che ha segnalato questi contenuti come non sicuri: { $content }. Utilizzarli comunque?
+contentanalysis-warndialog-response-allow = Utilizza contenuti
+contentanalysis-warndialog-response-deny = Annulla
