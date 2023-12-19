@@ -899,6 +899,7 @@ forms-windows-sso =
     .label = 允許使用 Windows 單一登入系統，登入微軟、工作單位、學校提供的帳號
 forms-windows-sso-learn-more-link = 了解更多
 forms-windows-sso-desc = 可到您的裝置設定畫面管理帳號
+windows-passkey-settings-label = 到系統設定中管理密碼金鑰
 
 ## OS Authentication dialog
 
