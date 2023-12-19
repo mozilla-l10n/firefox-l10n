@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Microsoft, ਕੰਮ ਤੇ ਸਕੂਲ ਖਾਤਿਆਂ ਲਈ Windows ਸਿੰਗਲ ਸਾਈਨ-ਆਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
 forms-windows-sso-learn-more-link = ਹੋਰ ਸਿੱਖੋ
 forms-windows-sso-desc = ਆਪਣੀਆਂ ਡਿਵਾਈਸ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਖਾਤਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+windows-passkey-settings-label = ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਪਾਸ-ਕੀ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 
 ## OS Authentication dialog
 
