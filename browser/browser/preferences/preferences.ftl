@@ -908,6 +908,7 @@ forms-primary-pw-former-name = { "" }
 forms-primary-pw-fips-title = מצבך כרגע הוא FIPS. ‏FIPS דורש ססמה ראשית לא־ריקה.
 forms-master-pw-fips-desc = שינוי הססמה נכשל
 forms-windows-sso-learn-more-link = מידע נוסף
+windows-passkey-settings-label = ניהול passkeys בהגדרות המערכת
 
 ## OS Authentication dialog
 

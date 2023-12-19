@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = לשמור ססמה עבור { $host }?
+password-manager-save-password-button-deny =
+    .label = לא כעת
+    .accesskey = ל
 password-manager-save-password-button-allow =
     .label = לשמור
     .accesskey = ש
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = לעדכן את הססמה עבור { $host }?
+password-manager-update-password-button-delete =
+    .label = הסרת הססמה השמורה
+    .accesskey = ה
 password-manager-update-login-add-username = להוסיף שם משתמש לססמה השמורה?
 password-manager-password-password-button-allow =
     .label = לעדכן
