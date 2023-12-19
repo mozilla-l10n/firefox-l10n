@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = 從另一套瀏覽器�
 about-logins-menu-menuitem-import-from-a-file = 從檔案匯入…
 about-logins-menu-menuitem-export-logins = 匯出登入資訊…
 about-logins-menu-menuitem-remove-all-logins = 移除所有登入資料…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = 匯出密碼…
 about-logins-menu-menuitem-remove-all-logins2 = 刪除所有密碼…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -94,6 +94,7 @@ about-logins-login-intro-heading-logged-out2 = 在找先前儲存過的登入資
 about-logins-login-intro-heading-logged-in = 找不到同步的登入資訊。
 login-intro-description = 若您在其他裝置上儲存登入資訊到 { -brand-product-name } 過，請參考下列步驟，即可在此裝置使用:
 login-intro-instructions-fxa = 在您儲存登入資訊的裝置註冊或登入 { -fxaccount-brand-name }。
+about-logins-login-intro-heading-message = 將您的密碼儲存於安全的地方
 login-intro-instructions-fxa2 = 在您儲存登入資訊的裝置，註冊或登入帳號。
 login-intro-instructions-fxa-settings = 到「設定 > 同步 > 開啟同步…」勾選「登入資訊與密碼」選取框。
 login-intro-instructions-fxa-passwords-help = 若需更多說明，請造訪<a data-l10n-name="passwords-help-link">密碼支援</a>說明頁面。
@@ -264,6 +265,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = 匯出登入資訊與密碼
 about-logins-confirm-export-dialog-message = 您的密碼將以可閱讀的明文格式（例如 BadP@ssw0rd）儲存，任何能夠開啟檔案的人都能得知密碼內容。
 about-logins-confirm-export-dialog-confirm-button = 匯出…
+about-logins-confirm-export-dialog-confirm-button2 = 繼續匯出
 about-logins-alert-import-title = 匯入完成
 about-logins-alert-import-message = 檢視詳細的匯入摘要
 confirm-discard-changes-dialog-title = 要放棄未儲存的變更嗎？
@@ -305,6 +307,11 @@ about-logins-export-file-picker-title = 匯出登入資訊檔案
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = 從 { -brand-short-name } 匯出密碼
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = 匯出
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
