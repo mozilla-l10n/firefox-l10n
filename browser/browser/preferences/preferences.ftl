@@ -895,6 +895,7 @@ forms-windows-sso =
     .label = Microsoft, 회사 및 학교 계정에 Windows Single Sign-On을 허용
 forms-windows-sso-learn-more-link = 더 알아보기
 forms-windows-sso-desc = 기기 설정에서 계정 관리
+windows-passkey-settings-label = 시스템 설정에서 암호 키 관리
 
 ## OS Authentication dialog
 
