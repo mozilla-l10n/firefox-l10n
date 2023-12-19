@@ -416,7 +416,7 @@ update-application-use-service =
     .label = Χρήση υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων
     .accesskey = υ
 update-application-suppress-prompts =
-    .label = Εμφάνιση λιγότερων ειδοποιήσεων ενημέρωσης
+    .label = Εμφάνιση λιγότερων ειδοποιήσεων για ενημερώσεις
     .accesskey = λ
 update-setting-write-failure-title2 = Σφάλμα αποθήκευσης ρυθμίσεων ενημερώσεων
 # Variables:
@@ -1058,7 +1058,7 @@ addressbar-locbar-bookmarks-option =
     .label = Σελιδοδεικτών
     .accesskey = δ
 addressbar-locbar-clipboard-option =
-    .label = Πρόχειρο
+    .label = Προχείρου
     .accesskey = Π
 addressbar-locbar-openpage-option =
     .label = Ανοικτών καρτελών
