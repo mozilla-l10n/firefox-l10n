@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importar desde otro nav
 about-logins-menu-menuitem-import-from-a-file = Importar desde un archivo…
 about-logins-menu-menuitem-export-logins = Exportar credenciales…
 about-logins-menu-menuitem-remove-all-logins = Eliminar todos las credenciales…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Exportar contraseñas…
 about-logins-menu-menuitem-remove-all-logins2 = Eliminar todas las contraseñas…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -108,6 +108,7 @@ about-logins-login-intro-heading-logged-out2 = ¿Buscas tus credenciales guardad
 about-logins-login-intro-heading-logged-in = No se encontraron credenciales sincronizadas.
 login-intro-description = Si guardaste tus credenciales en { -brand-product-name } en un dispositivo diferente, estas son las instrucciones para que puedas tenerlas también aquí:
 login-intro-instructions-fxa = Crea o conéctate a tu { -fxaccount-brand-name } en el dispositivo en que tienes guardadas tus credenciales
+about-logins-login-intro-heading-message = Guarda tus contraseñas en un lugar seguro
 login-intro-instructions-fxa2 = Crea o conéctate a tu cuenta en el dispositivo en que tienes guardadas tus credenciales
 login-intro-instructions-fxa-settings = Ve a Ajustes > Sincronizar > Activar la sincronización… Selecciona las casillas de Credenciales y contraseñas.
 login-intro-instructions-fxa-passwords-help = Visita la página de <a data-l10n-name="passwords-help-link">asistencia para contraseñas</a> para obtener más ayuda.
@@ -297,6 +298,8 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Exportar credenciales y contraseñas
 about-logins-confirm-export-dialog-message = Tus contraseñas serán guardadas como texto legible (por ejemplo, BadP@ssw0rd) por lo que cualquiera que pueda abrir el archivo exportado podrá verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-confirm-export-dialog-title2 = Una nota sobre la exportación de contraseñas
+about-logins-confirm-export-dialog-confirm-button2 = Continuar con la exportación
 about-logins-alert-import-title = Importación terminada
 about-logins-alert-import-message = Ver resumen de importación detallado
 confirm-discard-changes-dialog-title = ¿Descartar cambios sin guardar?
@@ -338,6 +341,11 @@ about-logins-export-file-picker-title = Exportar archivo de credenciales…
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Exportar contraseñas desde { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
