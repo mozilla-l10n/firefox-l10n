@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Windows-single-sign-on toestaan voor Microsoft-, werk- en schoolaccounts
 forms-windows-sso-learn-more-link = Meer info
 forms-windows-sso-desc = Accounts beheren in uw apparaatinstellingen
+windows-passkey-settings-label = Wachtwoordsleutels beheren in systeeminstellingen
 
 ## OS Authentication dialog
 
