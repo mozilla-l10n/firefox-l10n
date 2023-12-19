@@ -9,3 +9,9 @@
 # and has a period added to its end. Make sure to test in your locale.
 autofill-use-payment-method-os-prompt-macos = bewarre betellingsgegevens te brûken
 autofill-use-payment-method-os-prompt-windows = { -brand-short-name } probearret bewarre betellingsgegevens te brûken. Befêstigje hjirûnder tagong ta dizze Windows-account.
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } probearret betellingsgegevens te toanen.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = bewarre betellingsgegevens toane
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } probearret bewarre betellingsgegevens te toanen. Befêstigje hjirûnder tagong ta dizze Windows-account.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } probearret bewarre betellingsgegevens te toanen.
