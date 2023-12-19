@@ -304,7 +304,7 @@ download-always-ask-where =
     .label = Να γίνεται πάντα ερώτηση για την τοποθεσία αποθήκευσης αρχείων
     .accesskey = α
 applications-header = Εφαρμογές
-applications-description = Επιλέξτε πώς διαχειρίζεται το { -brand-short-name } τα ληφθέντα αρχεία από το διαδίκτυο ή τις εφαρμογές που χρησιμοποιείτε κατά την περιήγηση.
+applications-description = Επιλέξτε πώς θα χειρίζεται το { -brand-short-name } τα αρχεία λήψης από το διαδίκτυο ή τις εφαρμογές που χρησιμοποιείτε κατά την περιήγηση.
 applications-filter =
     .placeholder = Αναζήτηση τύπων αρχείων ή εφαρμογών
 applications-type-column =
@@ -325,7 +325,7 @@ applications-use-app =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = Χρήση { $app-name } (προεπιλογή)
+    .label = Χρήση «{ $app-name }» (προεπιλογή)
 applications-use-os-default =
     .label =
         { PLATFORM() ->
@@ -383,8 +383,8 @@ applications-save-for-new-types =
     .label = Αποθήκευση αρχείων
     .accesskey = Α
 applications-ask-before-handling =
-    .label = Να γίνεται ερώτηση για το άνοιγμα ή την αποθήκευση αρχείων
-    .accesskey = γ
+    .label = Ερώτηση για το εάν θα γίνεται άνοιγμα ή αποθήκευση των αρχείων
+    .accesskey = Ε
 drm-content-header = Περιεχόμενο διαχείρισης ψηφιακών δικαιωμάτων (DRM)
 play-drm-content =
     .label = Αναπαραγωγή περιεχομένου με έλεγχο DRM
@@ -762,7 +762,7 @@ sync-change-options =
 
 sync-choose-what-to-sync-dialog3 =
     .title = Επιλέξτε στοιχεία για συγχρονισμό
-    .style = min-width: 36em;
+    .style = min-width: 37em;
     .buttonlabelaccept = Αποθήκευση αλλαγών
     .buttonaccesskeyaccept = π
     .buttonlabelextra2 = Αποσύνδεση…
