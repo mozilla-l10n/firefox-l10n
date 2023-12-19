@@ -99,11 +99,13 @@ about-logins-login-intro-heading-logged-in = 동기화된 로그인을 찾을 �
 login-intro-description = 다른 기기에 { -brand-product-name }의 로그인을 저장한 경우, 다음 방법을 참조하세요:
 login-intro-instructions-fxa = 로그인이 저장된 기기에서 { -fxaccount-brand-name }을 만들거나 로그인하세요.
 about-logins-login-intro-heading-message = 비밀번호를 안전한 장소에 저장하세요
+login-intro-description2 = { -brand-product-name }에 저장한 모든 비밀번호는 암호화됩니다. 또한 유출을 감시하고 영향을 받으면 알려드립니다. <a data-l10n-name="breach-alert-link">더 알아보기</a>
 login-intro-instructions-fxa2 = 로그인이 저장된 기기에서 계정을 만들거나 로그인하세요.
 login-intro-instructions-fxa-settings = 설정> Sync > 동기화 켜기…로 이동해서, 로그인 및 비밀번호 확인란을 선택하세요.
 login-intro-instructions-fxa-passwords-help = 더 많은 도움이 필요하면 <a data-l10n-name="passwords-help-link">비밀번호 지원</a>을 방문하세요.
 about-logins-intro-browser-only-import = 로그인이 다른 브라우저에 저장된 경우, <a data-l10n-name="import-link">{ -brand-product-name }로 가져오기</a>를 할 수 있음
 about-logins-intro-import2 = 로그인이 { -brand-product-name }의 외부에 저장된 경우, <a data-l10n-name="import-browser-link">다른 브라우저</a> 또는 <a data-l10n-name="import-file-link">파일</a>에서 가져올 수 있음
+about-logins-intro-import3 = 지금 비밀번호를 추가하려면 위의 더하기 기호 버튼을 선택하세요. <a data-l10n-name="import-browser-link">다른 브라우저</a> 또는 <a data-l10n-name="import-file-link">파일</a>에서 비밀번호를 가져올 수 있음
 
 ## Login
 
