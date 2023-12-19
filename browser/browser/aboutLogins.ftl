@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importer fra en annen n
 about-logins-menu-menuitem-import-from-a-file = Importer fra en fil…
 about-logins-menu-menuitem-export-logins = Eksporter innlogginger…
 about-logins-menu-menuitem-remove-all-logins = Fjern alle innlogginger …
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Eksporter passord…
 about-logins-menu-menuitem-remove-all-logins2 = Slett alle passord…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Ser du etter dine lagrede innlogg
 about-logins-login-intro-heading-logged-in = Ingen synkroniserte innlogginger funnet.
 login-intro-description = Slik kan du få dine { -brand-product-name } innlogginger hit, om du har lagret de på en annen enhet
 login-intro-instructions-fxa = Lag eller logg inn på din { -fxaccount-brand-name } på enheten der dine innlogginger er lagret
+about-logins-login-intro-heading-message = Lagre passordene dine på et trygt sted
 login-intro-instructions-fxa2 = Lag eller logg inn på din konto på enheten der dine innlogginger er lagret
 login-intro-instructions-fxa-settings = Gå til Innstillinger > Synkronisering > Slå på synkronisering … Merk av for innlogginger og passord.
 login-intro-instructions-fxa-passwords-help = Besøk <a data-l10n-name="passwords-help-link">passordstøtte</a> for mer hjelp.
@@ -329,6 +330,9 @@ about-logins-export-file-picker-title = Eksporter fil med innlogginger
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = innlogginger.csv
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passord.csv
 about-logins-export-file-picker-export-button = Eksporter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
