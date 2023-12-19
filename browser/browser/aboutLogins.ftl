@@ -113,6 +113,7 @@ login-intro-instructions-fxa-settings = Gå til Innstillinger > Synkronisering >
 login-intro-instructions-fxa-passwords-help = Besøk <a data-l10n-name="passwords-help-link">passordstøtte</a> for mer hjelp.
 about-logins-intro-browser-only-import = Hvis innloggingene dine er lagret i en annen nettleser, kan du <a data-l10n-name="import-link">importere dem til { -brand-product-name }</a>
 about-logins-intro-import2 = Hvis innloggingene dine er lagret utenfor { -brand-product-name }, kan du <a data-l10n-name="import-browser-link">importere dem fra en annen nettleser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>
+about-logins-intro-import3 = Velg plusstegnet ovenfor for å legge til et passord nå. Du kan også <a data-l10n-name="import-browser-link">importere passord fra en annen nettleser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>.
 
 ## Login
 
@@ -289,6 +290,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Eksporter innlogginger og passord
 about-logins-confirm-export-dialog-message = Passordene dine blir lagret som lesbar tekst (f.eks. DårligP@ss0rd), slik at alle som kan åpne den eksporterte filen kan se dem.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
+about-logins-confirm-export-dialog-title2 = En merknad om eksport av passord
+about-logins-confirm-export-dialog-message2 =
+    Når du eksporterer, lagres passordene dine i en fil med lesbar tekst.
+    Når du er ferdig med å bruke filen, anbefaler vi at du sletter den slik at andre som bruker denne enheten ikke kan se passordene dine.
+about-logins-confirm-export-dialog-confirm-button2 = Fortsett med eksport
 about-logins-alert-import-title = Import fullført
 about-logins-alert-import-message = Se detaljert importoversikt
 confirm-discard-changes-dialog-title = Vil du forkaste endringer som ikke er lagret?
@@ -330,6 +336,8 @@ about-logins-export-file-picker-title = Eksporter fil med innlogginger
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = innlogginger.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Eksporter passord fra { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = passord.csv
