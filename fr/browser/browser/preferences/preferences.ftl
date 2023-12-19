@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Autoriser l’authentification unique de Windows pour les comptes Microsoft, professionnels et scolaires.
 forms-windows-sso-learn-more-link = En savoir plus
 forms-windows-sso-desc = Gérez les comptes dans les paramètres de votre appareil
+windows-passkey-settings-label = Gérer les clés d’accès dans les paramètres système
 
 ## OS Authentication dialog
 
@@ -936,6 +937,14 @@ autofill-payment-methods-checkbox-submessage = Comprend les cartes bancaires
     .accesskey = C
 autofill-saved-payment-methods-button = Moyens de paiement enregistrés
     .accesskey = M
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Exiger l’authentification macOS pour remplir ou modifier les méthodes de paiement.
+        [windows] Exiger l’authentification Windows pour remplir ou modifier les méthodes de paiement.
+        [linux] Exiger l’authentification Linux pour remplir ou modifier les méthodes de paiement.
+       *[other] Exiger une authentification pour remplir ou modifier les méthodes de paiement.
+    }
+    .accesskey = p
 
 ## Privacy Section - History
 
