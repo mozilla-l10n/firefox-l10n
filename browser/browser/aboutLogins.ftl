@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importer depuis un autr
 about-logins-menu-menuitem-import-from-a-file = Importer depuis un fichier…
 about-logins-menu-menuitem-export-logins = Exporter les identifiants…
 about-logins-menu-menuitem-remove-all-logins = Supprimer tous les identifiants…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Exporter les mots de passe…
 about-logins-menu-menuitem-remove-all-logins2 = Supprimer tous les mots de passe…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,6 +107,8 @@ about-logins-login-intro-heading-logged-out2 = Vous cherchez vos identifiants en
 about-logins-login-intro-heading-logged-in = Aucun identifiant synchronisé trouvé.
 login-intro-description = Si vous avez enregistré vos identifiants dans { -brand-product-name } sur un autre appareil, voici comment y accéder ici :
 login-intro-instructions-fxa = Connectez-vous ou créez un { -fxaccount-brand-name } sur l’appareil où vos identifiants sont enregistrés.
+about-logins-login-intro-heading-message = Enregistrez vos mots de passe en lieu sûr
+login-intro-description2 = Tous les mots de passe que vous enregistrez dans { -brand-product-name } sont chiffrés. De plus, nous surveillons les fuites de données et vous alertons si elles vous concernent. <a data-l10n-name="breach-alert-link">En savoir plus</a>
 login-intro-instructions-fxa2 = Connectez-vous ou créez un compte sur l’appareil où vos identifiants sont enregistrés.
 login-intro-instructions-fxa-settings = Allez dans Paramètres > Synchronisation > Activer la synchronisation… et sélectionnez la case Identifiants et mots de passe.
 login-intro-instructions-fxa-passwords-help = Consultez <a data-l10n-name="passwords-help-link">l’assistance sur les mots de passe</a> pour davantage d’aide.
