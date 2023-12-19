@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Egueru ambue kundahára
 about-logins-menu-menuitem-import-from-a-file = Marandurendágui jegueru…
 about-logins-menu-menuitem-export-logins = Emba’ereraha tembiapo ñepyrũ…
 about-logins-menu-menuitem-remove-all-logins = Emboguepaite tembiapo ñepyrũ…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Ñe’ẽñemi guerahauka…
 about-logins-menu-menuitem-remove-all-logins2 = Emboguepaite ñe’ẽñeminguéra…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -108,6 +108,7 @@ about-logins-login-intro-heading-logged-out2 = ¿Eheka ne rembiapo ñepyrũ ñon
 about-logins-login-intro-heading-logged-in = Ndaipóri tembiapo ñepyrũ mbojuehepyre.
 login-intro-description = Eñongatúvo nde jeike { -brand-product-name }-pe ambue mba’e’okápe.
 login-intro-instructions-fxa = Emoheñói térã eike nde { -fxaccount-brand-name }-pe mba’e’oka eñongatuhápe ne rembiapo ñepyrũ.
+about-logins-login-intro-heading-message = Eñongatu ñe’ẽñemi tenda hekorosãvape
 login-intro-instructions-fxa2 = Emoheñói térã eike ne mba’etépe mba’e’oka eñongatuhápe eikehague.
 login-intro-instructions-fxa-settings = Eho Ñemoĩporãme > Sync > Emyandy ñembojuehe… Eiporavo Tembiapo ñepyrũ kora ha ñe’ẽñemi.
 login-intro-instructions-fxa-passwords-help = Eike <a data-l10n-name="passwords-help-link">ñe’ẽñemi pytyvõrã</a> kuatiaroguépe ejeykeko hag̃ua.
@@ -283,6 +284,8 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 about-logins-confirm-export-dialog-title = Emba’ereraha tembiapo ñepyrũ ha ñe’ẽñemi
 about-logins-confirm-export-dialog-message = Ñe’ẽñemi oñeñongatúta moñe’ẽrãrõ (techapyrã, BadP@ssw0rd) oimeraẽva ombojurujakuaáva marandurenda rahaukapyre ikatu ohecha.
 about-logins-confirm-export-dialog-confirm-button = Emba’egueraha…
+about-logins-confirm-export-dialog-title2 = Jehaipy ñe’ẽñemi guerahauka rehegua
+about-logins-confirm-export-dialog-confirm-button2 = Eguerahauka gueteri
 about-logins-alert-import-title = Emba’eguerupáma
 about-logins-alert-import-message = Ehechapaite emba’egueruva’ekue
 confirm-discard-changes-dialog-title = ¿Emboyke moambue eñongatu’ỹva?
