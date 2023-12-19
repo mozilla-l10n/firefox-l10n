@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Εισαγωγή από
 about-logins-menu-menuitem-import-from-a-file = Εισαγωγή από αρχείο…
 about-logins-menu-menuitem-export-logins = Εξαγωγή συνδέσεων…
 about-logins-menu-menuitem-remove-all-logins = Αφαίρεση όλων των συνδέσεων…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Εξαγωγή κωδικών πρόσβασης...
 about-logins-menu-menuitem-remove-all-logins2 = Αφαίρεση όλων των κωδικών πρόσβασης…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,11 +107,14 @@ about-logins-login-intro-heading-logged-out2 = Ψάχνετε τις αποθη�
 about-logins-login-intro-heading-logged-in = Δεν βρέθηκαν συγχρονισμένες συνδέσεις.
 login-intro-description = Εάν αποθηκεύσατε τις συνδέσεις σας στο { -brand-product-name } κάποιας άλλης συσκευής, μπορείτε να τις μεταφέρετε εδώ ως εξής:
 login-intro-instructions-fxa = Στη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας, δημιουργήστε ή συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας.
+about-logins-login-intro-heading-message = Αποθηκεύστε τους κωδικούς πρόσβασής σας σε ένα ασφαλές σημείο
+login-intro-description2 = Όλοι οι κωδικοί πρόσβασης που αποθηκεύετε στο { -brand-product-name } κρυπτογραφούνται. Επιπλέον, προσέχουμε για παραβιάσεις και σας ειδοποιούμε εάν επηρεαστείτε. <a data-l10n-name="breach-alert-link">Μάθετε περισσότερα</a>
 login-intro-instructions-fxa2 = Δημιουργήστε ή συνδεθείτε στον λογαριασμό σας από τη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας.
 login-intro-instructions-fxa-settings = Μεταβείτε στις Ρυθμίσεις > Συγχρονισμός > Ενεργοποίηση συγχρονισμού… και επιλέξτε «Συνδέσεις και κωδικοί πρόσβασης».
 login-intro-instructions-fxa-passwords-help = Επισκεφτείτε την <a data-l10n-name="passwords-help-link">υποστήριξη κωδικών πρόσβασης</a> για περαιτέρω βοήθεια.
 about-logins-intro-browser-only-import = Αν οι συνδέσεις σας είναι αποθηκευμένες σε άλλο πρόγραμμα περιήγησης, μπορείτε να <a data-l10n-name="import-link">τις εισαγάγετε στο { -brand-product-name }</a>
 about-logins-intro-import2 = Εάν οι συνδέσεις σας έχουν αποθηκευτεί εκτός του { -brand-product-name }, μπορείτε να τις εισαγάγετε από <a data-l10n-name="import-browser-link">κάποιο άλλο πρόγραμμα περιήγησης</a> ή <a data-l10n-name="import-file-link">αρχείο</a>
+about-logins-intro-import3 = Κάντε κλικ στο εικονίδιο «+» παραπάνω για να προσθέσετε έναν κωδικό πρόσβασης. Μπορείτε επίσης να <a data-l10n-name="import-browser-link">εισαγάγετε κωδικούς πρόσβασης από άλλο πρόγραμμα περιήγησης</a> ή <a data-l10n-name="import-file-link">από ένα αρχείο</a>.
 
 ## Login
 
@@ -288,6 +291,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Εξαγωγή συνδέσεων και κωδικών πρόσβασης
 about-logins-confirm-export-dialog-message = Οι κωδικοί πρόσβασής σας θα αποθηκευτούν ως αναγνώσιμο κείμενο (π.χ. BadP@ssw0rd), επομένως όποιος ανοίξει το αρχείο θα μπορέσει να τους δει.
 about-logins-confirm-export-dialog-confirm-button = Εξαγωγή…
+about-logins-confirm-export-dialog-title2 = Σημείωση σχετικά με την εξαγωγή κωδικών πρόσβασης
+about-logins-confirm-export-dialog-message2 =
+    Κατά την εξαγωγή, οι κωδικοί πρόσβασής σας αποθηκεύονται σε ένα αρχείο με αναγνώσιμο κείμενο.
+    Όταν τελειώσετε με τη χρήση του αρχείου, προτείνουμε να το διαγράψετε, ώστε να μην μπορέσουν να δουν τους κωδικούς πρόσβασής σας οι άλλοι χρήστες αυτής της συσκευής.
+about-logins-confirm-export-dialog-confirm-button2 = Συνέχεια με την εξαγωγή
 about-logins-alert-import-title = Η εισαγωγή ολοκληρώθηκε
 about-logins-alert-import-message = Προβολή λεπτομερούς περίληψης εισαγωγής
 confirm-discard-changes-dialog-title = Απόρριψη μη αποθηκευμένων αλλαγών;
@@ -329,6 +337,11 @@ about-logins-export-file-picker-title = Εξαγωγή αρχείου συνδέ
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Εξαγωγή κωδικών πρόσβασης από το { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Εξαγωγή
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
