@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = 从其他浏览器导�
 about-logins-menu-menuitem-import-from-a-file = 从文件导入…
 about-logins-menu-menuitem-export-logins = 导出登录信息…
 about-logins-menu-menuitem-remove-all-logins = 移除所有登录信息…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = 导出密码…
 about-logins-menu-menuitem-remove-all-logins2 = 移除所有密码…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -94,11 +94,13 @@ about-logins-login-intro-heading-logged-out2 = 在寻找您保存的登录信息
 about-logins-login-intro-heading-logged-in = 未找到同步的登录信息。
 login-intro-description = 若您曾在其他设备上将登录信息保存到 { -brand-product-name }，请按以下步骤操作：
 login-intro-instructions-fxa = 在您保存登录信息的设备，注册或登录 { -fxaccount-brand-name }
+login-intro-description2 = 所有保存到 { -brand-product-name } 的密码都受加密保护。我们还会关注外泄事件动态，并在您的账户受影响时向您发出警报。<a data-l10n-name="breach-alert-link">详细了解</a>
 login-intro-instructions-fxa2 = 在您保存登录信息的设备上注册或登录账户。
 login-intro-instructions-fxa-settings = 前往“设置”>“同步”>“开启同步…”，勾选“登录名和密码”复选框。
 login-intro-instructions-fxa-passwords-help = 若需更多帮助，请访问<a data-l10n-name="passwords-help-link">密码支持</a>页面。
 about-logins-intro-browser-only-import = 若登录信息保存在其他浏览器，您可以<a data-l10n-name="import-link">导入到 { -brand-product-name }</a>
 about-logins-intro-import2 = 若您的登录信息并未存储在 { -brand-product-name }，可以<a data-l10n-name="import-browser-link">从另一浏览器</a>或<a data-l10n-name="import-file-link">文件</a>导入
+about-logins-intro-import3 = 选择上方的加号按钮即可添加密码，也可以<a data-l10n-name="import-browser-link">从其他浏览器</a>或<a data-l10n-name="import-file-link">从文件</a>导入密码。
 
 ## Login
 
@@ -264,6 +266,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = 导出登录名和密码
 about-logins-confirm-export-dialog-message = 您的密码将存为可读文本（如 BadP@ssw0rd），因此任何可以打开导出文件的人都可以看到密码。
 about-logins-confirm-export-dialog-confirm-button = 导出…
+about-logins-confirm-export-dialog-title2 = 导出密码注意事项
+about-logins-confirm-export-dialog-message2 =
+    密码导出后，将以明文形式保存在文件中。
+    建议在使用完毕后删除文件，防止与您共用设备的人看到您的密码。
+about-logins-confirm-export-dialog-confirm-button2 = 继续导出
 about-logins-alert-import-title = 导入完成
 about-logins-alert-import-message = 更多信息见：导入摘要报告
 confirm-discard-changes-dialog-title = 要丢弃未保存的更改吗？
@@ -305,6 +312,8 @@ about-logins-export-file-picker-title = 导出登录信息文件
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = 登录信息.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = 从 { -brand-short-name } 导出的密码
 about-logins-export-file-picker-export-button = 导出
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
