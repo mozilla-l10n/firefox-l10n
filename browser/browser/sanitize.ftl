@@ -9,6 +9,10 @@ sanitize-prefs2 =
 sanitize-prefs-style =
     .style = width: 17em
 
+sanitize-dialog-title2 =
+    .title = Elimina dati di navigazione e cookie
+    .style = min-width: 34em
+
 sanitize-dialog-title =
     .title = Cancella cronologia recente
     .style = min-width: 34em
@@ -32,6 +36,10 @@ clear-data-settings-label = Alla chiusura di { -brand-short-name } eliminare aut
 clear-time-duration-prefix =
     .value = Intervallo di tempo da cancellare:{ " " }
     .accesskey = n
+
+clear-time-duration-prefix2 =
+    .value = Quando:
+    .accesskey = Q
 
 clear-time-duration-value-last-hour =
     .label = ultima ora
@@ -60,9 +68,19 @@ item-history-and-downloads =
     .label = Cronologia navigazione e download
     .accesskey = z
 
+item-browsing-and-search =
+    .label = Siti visitati, moduli salvati e ricerche
+    .accesskey = S
+
 item-cookies =
     .label = Cookie
     .accesskey = o
+
+item-cookies-site-data =
+    .label = Cookie e dati dei siti web
+    .accesskey = o
+
+item-cookies-site-data-description = Potrebbe disconnetterti dai siti o svuotare eventuali carrelli in sospeso.
 
 item-active-logins =
     .label = Accessi effettuati
@@ -72,9 +90,25 @@ item-cache =
     .label = Cache
     .accesskey = h
 
+item-cached-content =
+    .label = Cache temporanea per file e pagine
+    .accesskey = h
+
+item-cached-content-description = Rimuove elementi utilizzati per velocizzare il caricamento delle pagine
+
 item-form-search-history =
     .label = Moduli e ricerche
     .accesskey = M
+
+item-site-prefs =
+    .label = Impostazioni dei siti
+    .accesskey = I
+
+item-site-prefs-description = Reimposta i permessi e le preferenze dei siti alle impostazioni originali
+
+item-download-history =
+    .label = Elenco dei file scaricati
+    .accesskey = E
 
 data-section-label = Dati
 
@@ -93,6 +127,9 @@ window-close =
 
 sanitize-button-ok =
     .label = Cancella adesso
+
+sanitize-button-ok2 =
+    .label = Cancella
 
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
