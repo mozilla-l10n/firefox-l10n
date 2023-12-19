@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importovať z iného pr
 about-logins-menu-menuitem-import-from-a-file = Importovať zo súboru…
 about-logins-menu-menuitem-export-logins = Exportovať prihlasovacie údaje…
 about-logins-menu-menuitem-remove-all-logins = Odstrániť všetky prihlasovacie údaje…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Exportovať heslá…
 about-logins-menu-menuitem-remove-all-logins2 = Odstrániť všetky heslá…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -114,11 +114,14 @@ about-logins-login-intro-heading-logged-out2 = Hľadáte svoje uložené prihlá
 about-logins-login-intro-heading-logged-in = Neboli nájdené žiadne synchronizované prihlasovacie údaje.
 login-intro-description = Ak ste si uložili prihlasovacie údaje v prehliadači { -brand-product-name } na inom zariadení, môžete ich získať takto:
 login-intro-instructions-fxa = Vytvorte si { -fxaccount-brand-name(capitalization: "sentence") } alebo sa doň prihláste na zariadení, kde máte prihlasovacie údaje uložené.
+about-logins-login-intro-heading-message = Uložte si heslá na bezpečné miesto
+login-intro-description2 = Všetky heslá, ktoré uložíte do { -brand-product-name(case: "gen") }, sú šifrované. Navyše prehľadávame úniky údajov a upozorníme vás, ak sa niektorý týka aj vás. <a data-l10n-name="breach-alert-link">Ďalšie informácie</a>
 login-intro-instructions-fxa2 = Vytvorte si alebo sa prihláste do svojho účtu na zariadení, kde máte uložené prihlasovacie údaje.
 login-intro-instructions-fxa-settings = Prejdite do okna Nastavenia > Synchronizácia > Zapnúť synchronizáciu… Začiarknite pole Prihlasovacie údaje.
 login-intro-instructions-fxa-passwords-help = Ak potrebujete ďalšiu pomoc, navštívte <a data-l10n-name="passwords-help-link">stránky podpory pre heslá</a>.
 about-logins-intro-browser-only-import = Ak máte prihlasovacie údaje uložené v inom prehliadači, môžete ich <a data-l10n-name="import-link">do { -brand-product-name(case: "gen") } importovať</a>
 about-logins-intro-import2 = Ak máte prihlasovacie údaje uložené mimo { -brand-product-name(case: "gen") }, môžete ich <a data-l10n-name="import-browser-link">importovať z iného prehliadača</a> alebo <a data-l10n-name="import-file-link">zo súboru</a>
+about-logins-intro-import3 = Ak chcete pridať heslo, použite tlačidlo plus vyššie. Môžete tiež <a data-l10n-name="import-browser-link">importovať heslá z iného prehliadača</a> alebo <a data-l10n-name="import-file-link">zo súboru</a>.
 
 ## Login
 
@@ -321,6 +324,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Exportovať prihlasovacie údaje
 about-logins-confirm-export-dialog-message = Vaše heslá budú uložené v čitateľnom formáte (napr. h3slo) takže ktokoľvek, kto bude môcť otvoriť tento súbor, bude môcť zistiť vaše heslá.
 about-logins-confirm-export-dialog-confirm-button = Exportovať…
+about-logins-confirm-export-dialog-title2 = Poznámka o exportovaní hesiel
+about-logins-confirm-export-dialog-message2 =
+    Pri exporte sa vaše heslá uložia do súboru s čitateľným textom.
+    Keď skončíte s používaním súboru, odporúčame vám ho odstrániť, aby ostatní používatelia tohto zariadenia nevideli vaše heslá.
+about-logins-confirm-export-dialog-confirm-button2 = Pokračovať v exporte
 about-logins-alert-import-title = Import bol dokončený
 about-logins-alert-import-message = Zobraziť podrobný súhrn importu
 confirm-discard-changes-dialog-title = Chcete zahodiť neuložené zmeny?
@@ -362,6 +370,11 @@ about-logins-export-file-picker-title = Exportovať súbor s prihlasovacími úd
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Export hesiel z { -brand-short-name(case: "gen") }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = hesla.csv
 about-logins-export-file-picker-export-button = Exportovať
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
