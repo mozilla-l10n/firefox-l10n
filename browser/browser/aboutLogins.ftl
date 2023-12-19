@@ -114,6 +114,7 @@ login-intro-instructions-fxa-settings = Allez dans Paramètres > Synchronisation
 login-intro-instructions-fxa-passwords-help = Consultez <a data-l10n-name="passwords-help-link">l’assistance sur les mots de passe</a> pour davantage d’aide.
 about-logins-intro-browser-only-import = Si vos identifiants sont enregistrés dans un autre navigateur, vous pouvez <a data-l10n-name="import-link">les importer dans { -brand-product-name }</a>
 about-logins-intro-import2 = Si vos identifiants de connexion et mots de passe sont enregistrés en dehors de { -brand-product-name }, vous pouvez <a data-l10n-name="import-browser-link">les importer depuis un autre navigateur</a> ou <a data-l10n-name="import-file-link">depuis un fichier</a>
+about-logins-intro-import3 = Cliquez sur le bouton avec le signe plus ci-dessus pour ajouter un mot de passe maintenant. Vous pouvez également <a data-l10n-name="import-browser-link">importer les mots de passe depuis un autre navigateur</a> ou <a data-l10n-name="import-file-link">depuis un fichier</a>.
 
 ## Login
 
@@ -293,6 +294,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Exporter les identifiants et les mots de passe
 about-logins-confirm-export-dialog-message = Vos mots de passe seront enregistrés sous forme de texte lisible (par exemple, « m0t2passeFaible ») ; ainsi toute personne pouvant ouvrir le fichier exporté pourra les consulter.
 about-logins-confirm-export-dialog-confirm-button = Exporter…
+about-logins-confirm-export-dialog-title2 = Note au sujet de l’exportation des mots de passe
+about-logins-confirm-export-dialog-message2 =
+    Lors de l’exportation, vos mots de passe sont enregistrés en clair dans un fichier texte.
+    Lorsque vous avez fini d’utiliser ce fichier, nous vous recommandons de le supprimer afin que les autres personnes qui utilisent cet appareil ne puissent pas découvrir vos mots de passe.
+about-logins-confirm-export-dialog-confirm-button2 = Poursuivre l’exportation
 about-logins-alert-import-title = Importation terminée
 about-logins-alert-import-message = Voir la liste détaillée des importations
 confirm-discard-changes-dialog-title = Ignorer les modifications non enregistrées ?
@@ -334,6 +340,11 @@ about-logins-export-file-picker-title = Exporter le fichier des identifiants
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = identifiants.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Exporter les mots de passe depuis { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = motsdepasse.csv
 about-logins-export-file-picker-export-button = Exporter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
