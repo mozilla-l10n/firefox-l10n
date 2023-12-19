@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Захаваць пароль для { $host }?
+password-manager-save-password-button-deny =
+    .label = Не зараз
+    .accesskey = р
 password-manager-save-password-button-allow =
     .label = Захаваць
     .accesskey = З
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Абнавіць пароль для { $host }?
+password-manager-update-password-button-delete =
+    .label = Выдаліць захаваны пароль
+    .accesskey = В
 password-manager-update-login-add-username = Дадаць імя карыстальніка да захаванага пароля?
 password-manager-password-password-button-allow =
     .label = Абнавіць
