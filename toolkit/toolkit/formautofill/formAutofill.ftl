@@ -14,3 +14,4 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name }가 저장된
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-payment-method-os-prompt-macos = 저장된 결제 방법 정보 표시
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }가 저장된 결제 방법 정보를 표시하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name }가 저장된 결제 방법 정보를 표시하려고 합니다.

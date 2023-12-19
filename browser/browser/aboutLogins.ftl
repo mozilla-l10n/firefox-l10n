@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = 다른 브라우저에�
 about-logins-menu-menuitem-import-from-a-file = 파일에서 가져오기…
 about-logins-menu-menuitem-export-logins = 로그인 내보내기…
 about-logins-menu-menuitem-remove-all-logins = 모든 로그인 삭제…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = 비밀번호 내보내기…
 about-logins-menu-menuitem-remove-all-logins2 = 모든 비밀번호 제거…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -98,6 +98,7 @@ about-logins-login-intro-heading-logged-out2 = 저장된 로그인을 찾으십�
 about-logins-login-intro-heading-logged-in = 동기화된 로그인을 찾을 수 없습니다.
 login-intro-description = 다른 기기에 { -brand-product-name }의 로그인을 저장한 경우, 다음 방법을 참조하세요:
 login-intro-instructions-fxa = 로그인이 저장된 기기에서 { -fxaccount-brand-name }을 만들거나 로그인하세요.
+about-logins-login-intro-heading-message = 비밀번호를 안전한 장소에 저장하세요
 login-intro-instructions-fxa2 = 로그인이 저장된 기기에서 계정을 만들거나 로그인하세요.
 login-intro-instructions-fxa-settings = 설정> Sync > 동기화 켜기…로 이동해서, 로그인 및 비밀번호 확인란을 선택하세요.
 login-intro-instructions-fxa-passwords-help = 더 많은 도움이 필요하면 <a data-l10n-name="passwords-help-link">비밀번호 지원</a>을 방문하세요.
@@ -269,6 +270,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = 로그인과 비밀번호 내보내기
 about-logins-confirm-export-dialog-message = 비밀번호는 읽을 수 있는 텍스트 (예: BadP@ssw0rd)로 저장되므로, 내보낸 파일을 열 수 있는 사람은 누구나 볼 수 있습니다.
 about-logins-confirm-export-dialog-confirm-button = 내보내기…
+about-logins-confirm-export-dialog-title2 = 비밀번호 내보내기에 대한 참고사항
+about-logins-confirm-export-dialog-message2 =
+    내보낼 때 비밀번호는 읽을 수 있는 텍스트 파일로 저장됩니다.
+    파일 사용이 끝나면 이 기기를 사용하는 다른 사람이 사용자의 비밀번호를 볼 수 없도록 파일을 삭제하는 것이 좋습니다.
+about-logins-confirm-export-dialog-confirm-button2 = 내보내기 계속
 about-logins-alert-import-title = 가져오기 완료
 about-logins-alert-import-message = 자세한 가져오기 요약 보기
 confirm-discard-changes-dialog-title = 저장되지 않은 변경 내용을 버리시겠습니까?
@@ -310,6 +316,11 @@ about-logins-export-file-picker-title = 로그인 파일 내보내기
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = 로그인.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = { -brand-short-name }에서 비밀번호 내보내기
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = 비밀번호.csv
 about-logins-export-file-picker-export-button = 내보내기
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
