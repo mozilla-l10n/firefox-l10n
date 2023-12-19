@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Импорт из др�
 about-logins-menu-menuitem-import-from-a-file = Импорт из файла…
 about-logins-menu-menuitem-export-logins = Экспорт логинов…
 about-logins-menu-menuitem-remove-all-logins = Удалить все логины…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Экспорт паролей…
 about-logins-menu-menuitem-remove-all-logins2 = Удалить все пароли…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -112,11 +112,14 @@ about-logins-login-intro-heading-logged-out2 = Ищете сохранённые
 about-logins-login-intro-heading-logged-in = Синхронизированных логинов не найдено.
 login-intro-description = Если вы сохранили ваши логины в { -brand-product-name } на другом устройстве, то вот как получить к ним доступ здесь:
 login-intro-instructions-fxa = Создайте или войдите в ваш { -fxaccount-brand-name } на устройстве, где сохранены ваши логины
+about-logins-login-intro-heading-message = Сохраняйте свои пароли в безопасном месте
+login-intro-description2 = Все пароли, которые вы сохраняете в { -brand-product-name }, зашифрованы. Кроме того, мы следим за утечками и сообщаем вам, если они вас касаются. <a data-l10n-name="breach-alert-link">Подробнее</a>
 login-intro-instructions-fxa2 = Создайте или войдите в ваш аккаунт на устройстве, где сохранены ваши логины.
 login-intro-instructions-fxa-settings = Выберите «Настройки» > «Синхронизация» > «Включить синхронизацию…». Установите флажок «Логины и пароли».
 login-intro-instructions-fxa-passwords-help = Посетите <a data-l10n-name="passwords-help-link">раздел поддержки по паролям</a>, чтобы узнать больше.
 about-logins-intro-browser-only-import = Если ваши логины сохранены в другом браузере, вы можете <a data-l10n-name="import-link">импортировать их в { -brand-product-name }</a>
 about-logins-intro-import2 = Если ваши логины сохранены не в { -brand-product-name }, вы можете <a data-l10n-name="import-browser-link">импортировать их из другого браузера</a> или <a data-l10n-name="import-file-link">из файла</a>
+about-logins-intro-import3 = Нажмите кнопку со значком плюса выше, чтобы добавить пароль сейчас. Вы также можете <a data-l10n-name="import-browser-link">импортировать пароли из другого браузера</a> или <a data-l10n-name="import-file-link">из файла</а>.
 
 ## Login
 
@@ -313,6 +316,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Экспорт логинов и паролей
 about-logins-confirm-export-dialog-message = Ваши пароли будут сохранены в виде читаемого текста (например, BadP@ssw0rd), поэтому любой, кто может открыть файл с ними, сможет их просмотреть.
 about-logins-confirm-export-dialog-confirm-button = Экспортировать…
+about-logins-confirm-export-dialog-title2 = Примечание об экспорте паролей
+about-logins-confirm-export-dialog-message2 =
+    При экспорте ваши пароли сохраняются в файл судобочитаемым текстом.
+    Когда вы закончите использование файла, мы рекомендуем удалить его, чтобы другие пользователи этого устройства не смогли увидеть ваши пароли.
+about-logins-confirm-export-dialog-confirm-button2 = Продолжить экспорт
 about-logins-alert-import-title = Импорт завершён
 about-logins-alert-import-message = Посмотреть подробную сводку импорта
 confirm-discard-changes-dialog-title = Отменить несохранённые изменения?
@@ -354,6 +362,11 @@ about-logins-export-file-picker-title = Экспорт файла логинов
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = логины.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Экспорт паролей из { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Экспортировать
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
