@@ -7,4 +7,4 @@ app-picker-browse-button =
 app-picker-send-msg =
     .value = Αποστολή αυτού του αντικειμένου σε:
 app-picker-no-app-found =
-    .value = Δεν βρέθηκαν εφαρμογές για αυτό τον τύπο αρχείου.
+    .value = Δεν βρέθηκαν εφαρμογές για αυτόν τον τύπο αρχείου.
