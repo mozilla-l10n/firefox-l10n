@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = 要儲存 { $host } 的密碼嗎？
+password-manager-save-password-button-deny =
+    .label = 現在不要
+    .accesskey = N
 password-manager-save-password-button-allow =
     .label = 儲存
     .accesskey = S
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = 要更新 { $host } 的密碼嗎？
+password-manager-update-password-button-delete =
+    .label = 刪除所有已存密碼
+    .accesskey = R
 password-manager-update-login-add-username = 要將使用者名稱加進已存的密碼資訊嗎？
 password-manager-password-password-button-allow =
     .label = 更新
