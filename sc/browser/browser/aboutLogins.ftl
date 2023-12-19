@@ -12,7 +12,7 @@ create-new-login-button =
 about-logins-page-title-name = Craes
 about-logins-login-filter2 =
     .placeholder = Chirca craes
-    .key = C
+    .key = F
 create-login-button =
     .title = Agiunghe crae
 fxaccounts-sign-in-text = Otene is craes tuas pro is àteros dispositivos tuos
@@ -29,7 +29,6 @@ about-logins-menu-menuitem-import-from-another-browser = Importa dae un'àteru n
 about-logins-menu-menuitem-import-from-a-file = Importa dae un'archìviu...
 about-logins-menu-menuitem-export-logins = Esporta credentziales...
 about-logins-menu-menuitem-remove-all-logins = Boga·nche totu is credentziales...
-# Item that appears when the user clicks the ⋯  menu
 about-logins-menu-menuitem-remove-all-logins2 = Boga totu is craes…
 menu-menuitem-preferences =
     { PLATFORM() ->
