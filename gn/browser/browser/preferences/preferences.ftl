@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Emoneĩ tembiapo ñepyrũ Windows rupi Microsoft-pe, mba’apo ha mbo’ehaogua mba’ete.
 forms-windows-sso-learn-more-link = Kuaave
 forms-windows-sso-desc = Eñangareko mba’ete mba’e’oka ñembohekópe
+windows-passkey-settings-label = Eñangareko jeikeha mba’eñemíre apopyvusu ñembohekópe
 
 ## OS Authentication dialog
 

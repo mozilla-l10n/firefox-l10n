@@ -327,6 +327,11 @@ about-logins-export-file-picker-title = Emba’ereraha tembiapo ñepyrũ marandu
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Eguerahauka ñe’ẽñemi { -brand-short-name } mba’e
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = ñe’ẽñemi.csv
 about-logins-export-file-picker-export-button = Mba’ereraha
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
