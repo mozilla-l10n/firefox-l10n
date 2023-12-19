@@ -165,6 +165,21 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Preporučeno unaprijed postavljeno za većinu otklanjanja grešaka u web aplikacijama, s malim opterećenjem.
+profiler-popup-presets-web-developer-label =
+    .label = Web programer
+profiler-popup-presets-firefox-description = Preporučeno unaprijed postavljeno za profilisanje { -brand-shorter-name }a.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Preset za istraživanje grafičkih grešaka u { -brand-shorter-name }u.
+profiler-popup-presets-graphics-label =
+    .label = Grafika
+profiler-popup-presets-media-description2 = Unaprijed postavljen za istraživanje audio i video grešaka u { -brand-shorter-name }u.
+profiler-popup-presets-media-label =
+    .label = Mediji
+profiler-popup-presets-networking-description = Unaprijed postavljen za istraživanje grešaka u mreži u { -brand-shorter-name }u.
+profiler-popup-presets-networking-label =
+    .label = Umrežavanje
 
 ## History panel
 
