@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = ਅਸੀਂ ਉਤਪਾਦਾਂ ਦੇ ਰੀਵਿਊ ਦੀ ਭਰੋਸੇਯੋਗਤਾ ਦੀ ਪੜਤਾਲ ਕਰਨ ਲਈ { -fakespot-brand-full-name } ਦੀ ਮਨਸੂਈ ਬੁੱਧੀ (AI) ਤਕਨੀਕ ਵਰਤ ਰਹੇ ਹਾਂ। ਇਹ ਵਿਸ਼ਲੇਸ਼ਣ ਤੁਹਾਨੂੰ ਸਿਰਫ਼ ਰੀਵਿਊ ਦੀ ਕੁਆਲਟੀ ਲਈ ਮਦਦ ਕਰੇਗਾ, ਉਤਪਾਦ ਦੀ ਕੁਆਲਟੀ ਲਈ ਨਹੀਂ।
 shopping-analysis-explainer-grades-intro = ਅਸੀਂ ਹਰ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ ਲਈ A ਤੋਂ F ਤੱਕ <strong>ਅੱਖਰ ਅਧਾਰਿਤ ਦਰਜਾ</strong> ਦਿੱਤਾ ਹੈ।
 shopping-analysis-explainer-adjusted-rating-description = <strong>ਅਡਜੱਸਟ ਕੀਤੀ ਰੇਟਿੰਗ</strong> ਸਾਡੇ ਵਲੋਂ ਸਿਰਫ਼ ਭਰੋਸੇਯੋਗ ਮੰਨੇ ਗਏ ਰੀਵਿਊ ਦੇ ਆਧਾਰ ਉੱਤੇ ਹੈ।
-shopping-analysis-explainer-learn-more = ਜਾਣੋ ਕਿ <a data-l10n-name="review-quality-url">ਕਿਵੇਂ { -fakespot-brand-full-name } ਰੀਵਿਊ ਕੁਆਲਟੀ ਦਾ ਪਤਾ ਲਾਉਂਦਾ ਹੈ</a>।
 shopping-analysis-explainer-learn-more2 = ਜਾਣੋ ਕਿ <a data-l10n-name="review-quality-url">ਕਿਵੇਂ { -fakespot-brand-name } ਰੀਵਿਊ ਕੁਆਲਟੀ ਦਾ ਪਤਾ ਲਾਉਂਦਾ ਹੈ</a>।
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = ਰੀਵਿਊ ਚੈਕਰ ਖੋਲ੍ਹੋ
 shopping-sidebar-close-button2 =
     .tooltiptext = ਰੀਵਿਊ ਚੈਕਰ ਬੰਦ ਕਰੋ
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -190,8 +181,11 @@ shopping-onboarding-headline = ਉਤਪਾਦ ਰੀਵਿਊ ਲਈ ਸਾਡ�
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = ਖਰੀਦਣ ਤੋਂ ਪਹਿਲਾਂ ਵੇਖੋ ਕਿ <b>{ $currentSite }</b> ਉੱਤੇ ਉਤਪਾਦ ਰੀਵਿਊ ਕਿੰਨੇ ਭਰੋਸੇਯੋਗ ਹਨ। ਰੀਵਿਊ ਚੈਕਰ, { -brand-product-name } ਵਲੋਂ ਹਾਲੇ ਤਜਰਬੇ ਅਧੀਨ ਫ਼ੀਚਰ ਹੈ, ਜੋ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਮੌਜੂਦ ਹੈ। ਇਹ <b>{ $secondSite }</b> ਅਤੇ <b>{ $thirdSite }</b> ਨਾਲ ਵੀ ਕੰਮ ਕਰਦਾ ਹੈ।
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = ਇਸ ਤੋਂ ਪਹਿਲਾਂ ਕਿ ਤੁਸੀਂ <b>{ $currentSite }</b> ਉੱਤੇ ਖਰੀਦਦਾਰੀ ਕਰੋ, ਰੀਵਿਊਆਂ ਦੇ ਭਰੋਸੇਯੋਗ ਹੋਣ ਦਾ ਪਤਾ ਕਰੋ।{ -brand-product-name } ਵਲੋਂ ਤਜਰਬੇ ਅਧੀਨ ਫੀਚਰ ਰੀਵਿਊ ਚੈਕਰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਮੌਜੂਦ ਹੈ।
 shopping-onboarding-body = { -fakespot-brand-full-name } ਦੇ ਰਾਹੀਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਪੱਖਪਾਤੀ ਅਤੇ ਗ਼ੈਰ-ਪ੍ਰਮਾਣਿਤ ਰੀਵਿਊਆਂ ਤੋਂ ਬਚਾਅ ਸਕਦੇ ਹਾਂ। ਸਾਡਾ AI ਮਾਡਲ ਤੁਹਾਨੂੰ ਖਰੀਦਦਾਰੀ ਕਰਨ ਦੌਰਾਨ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਹਮੇਸ਼ਾਂ ਸੁਧਾਰ ਕਰ ਰਿਹਾ ਹੈ। <a data-l10n-name="learn_more">ਹੋਰ ਜਾਣੋ</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = “{ shopping-onboarding-opt-in-button }“ ਚੁਣਨ ਨਾਲ ਤੁਸੀਂ { -fakespot-brand-full-name } ਦੀ <a data-l10n-name="privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਅਤੇ <a data-l10n-name="terms_of_use">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = “{ shopping-onboarding-opt-in-button }“ ਚੁਣਨ ਨਾਲ ਤੁਸੀਂ { -fakespot-brand-name } ਦੀ <a data-l10n-name="privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਅਤੇ <a data-l10n-name="terms_of_use">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 shopping-onboarding-opt-in-button = ਹਾਂ, ਇਸ ਨੂੰ ਅਜ਼ਮਾਓ
 shopping-onboarding-not-now-button = ਹੁਣੇ ਨਹੀਂ
