@@ -22,13 +22,25 @@ about-webauthn-confirm-deletion-section-title = Confirmer la suppression
 about-webauthn-text-connect-device = Veuillez connecter un jeton d’authentification.
 # If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
 about-webauthn-text-select-device = Veuillez sélectionner le jeton de sécurité de votre choix en appuyant sur l’appareil.
+about-webauthn-text-not-available = Non disponible sur cette plateforme.
 
 ## Results label
 
 about-webauthn-results-success = Opération réussie.
 about-webauthn-results-general-error = Erreur !
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Erreur : code PIN incorrect. Veuillez réessayer.
+        [one] Erreur : code PIN incorrect. Veuillez réessayer. Il ne vous reste qu’une tentative.
+       *[other] Erreur : code PIN incorrect. Veuillez réessayer. Il vous reste { $retriesLeft } tentatives.
+    }
+about-webauthn-results-pin-blocked-error = Erreur : il ne reste plus aucune tentative et votre appareil a été verrouillé, car un code PIN incorrect a été saisi trop de fois. L’appareil doit être réinitialisé.
 about-webauthn-results-pin-too-short-error = Erreur : le code PIN saisi est trop court.
 about-webauthn-results-pin-too-long-error = Erreur : le code PIN saisi est trop long.
+about-webauthn-results-pin-auth-blocked-error = Erreur : trop de tentatives infructueuses ont été effectuées à la suite et l’authentification par code PIN a été temporairement bloquée. Votre appareil nécessite d’être remis sous tension (débranchez-le et rebranchez-le).
+about-webauthn-results-cancelled-by-user-error = Erreur : l’opération a été annulée par l’utilisateur ou l’utilisatrice.
 
 ## Labels
 
