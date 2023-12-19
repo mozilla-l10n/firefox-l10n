@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Új bejelentkezés létrehozása
+about-logins-page-title-name = Jelszavak
+about-logins-login-filter2 =
+    .placeholder = Jelszavak keresése
+    .key = F
+create-login-button =
+    .title = Jelszó hozzáadása
 fxaccounts-sign-in-text = Érje el jelszavait a többi eszközén is
 fxaccounts-sign-in-sync-button = Bejelentkezés a szinkronizáláshoz
 fxaccounts-avatar-button =
@@ -23,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importálás egy másik
 about-logins-menu-menuitem-import-from-a-file = Importálás fájlból…
 about-logins-menu-menuitem-export-logins = Bejelentkezések exportálása…
 about-logins-menu-menuitem-remove-all-logins = Összes bejelentkezés eltávolítása…
+about-logins-menu-menuitem-export-logins2 = Jelszavak exportálása…
+about-logins-menu-menuitem-remove-all-logins2 = Összes jelszó eltávolítása…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Beállítások
@@ -49,6 +57,21 @@ login-list-filtered-count =
         [one] { $count } / { $total } bejelentkezés
        *[other] { $count } / { $total } bejelentkezés
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } jelszó
+       *[other] { $count } jelszó
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } / { $total } jelszó
+       *[other] { $count } / { $total } jelszó
+    }
 login-list-sort-label-text = Rendezés:
 login-list-name-option = Név (A-Z)
 login-list-name-reverse-option = Név (Z-A)
@@ -58,11 +81,14 @@ about-logins-login-list-alerts-option = Riasztások
 login-list-last-changed-option = Legutóbbi módosítás
 login-list-last-used-option = Legutóbbi használat
 login-list-intro-title = Nincsenek bejelentkezések
+login-list-intro-title2 = Nincsenek mentett jelszavak
 login-list-intro-description = Ha elment egy jelszót a { -brand-product-name }ban, akkor az itt fog megjelenni.
 about-logins-login-list-empty-search-title = Nincsenek bejelentkezések
+about-logins-login-list-empty-search-title2 = Nem találhatók jelszavak
 about-logins-login-list-empty-search-description = Nincs találat, amely megfelel a keresésnek.
 login-list-item-title-new-login = Új bejelentkezés
 login-list-item-subtitle-new-login = Adja meg a bejelentkezési adatait
+login-list-item-title-new-login2 = Jelszó hozzáadása
 login-list-item-subtitle-missing-username = (nincs felhasználónév)
 about-logins-list-item-breach-icon =
     .title = Adatvédelmi incidensben érintett weboldal
@@ -81,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = A mentett bejelentkezéseit keres
 about-logins-login-intro-heading-logged-in = Nem található szinkronizált bejelentkezés.
 login-intro-description = Ha egy másik eszközön mentette a bejelentkezéseit a { -brand-product-name }ban, akkor így érheti el őket itt:
 login-intro-instructions-fxa = Hozzon létre egyet, vagy jelentkezzen be a { -fxaccount-brand-name }jába azon az eszközön, amelyen a bejelentkezéseit menti
+about-logins-login-intro-heading-message = Mentse a jelszavait biztonságos helyre
 login-intro-instructions-fxa2 = Hozzon létre egyet, vagy jelentkezzen be a fiókjába azon az eszközön, amelyen a bejelentkezéseit menti.
 login-intro-instructions-fxa-settings = Válassza a Beállítások > Szinkronizálás > Szinkronizálás bekapcsolása… lehetőséget. Jelölje be a Bejelentkezések és jelszavak jelölőnégyzetet.
 login-intro-instructions-fxa-passwords-help = További segítségért keresse fel a <a data-l10n-name="passwords-help-link">jelszavak támogatását</a>.
@@ -94,7 +121,6 @@ login-item-edit-button = Szerkesztés
 about-logins-login-item-remove-button = Eltávolítás
 login-item-origin-label = Honlap címe
 login-item-tooltip-message = Győződjön meg róla, hogy ez megegyezik annak a webhelynek a pontos címével, ahová bejelentkezik.
-about-logins-origin-tooltip = Győződjön meg róla, hogy ez megegyezik annak a webhelynek a pontos címével, ahová bejelentkezik.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Felhasználónév
