@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importeren vanuit een a
 about-logins-menu-menuitem-import-from-a-file = Uit een bestand importeren…
 about-logins-menu-menuitem-export-logins = Aanmeldingen exporteren…
 about-logins-menu-menuitem-remove-all-logins = Alle aanmeldingen verwijderen…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Wachtwoorden exporteren…
 about-logins-menu-menuitem-remove-all-logins2 = Alle wachtwoorden verwijderen…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,11 +107,14 @@ about-logins-login-intro-heading-logged-out2 = Op zoek naar uw opgeslagen aanmel
 about-logins-login-intro-heading-logged-in = Geen gesynchroniseerde aanmeldingen gevonden.
 login-intro-description = Als u uw aanmeldgegevens bij { -brand-product-name } op een ander apparaat hebt opgeslagen, kunt u ze zo ophalen:
 login-intro-instructions-fxa = Maak op het apparaat waarop uw aanmeldgegevens staan een { -fxaccount-brand-name } of meld u aan.
+about-logins-login-intro-heading-message = Bewaar uw wachtwoorden op een veilige plek
+login-intro-description2 = Alle wachtwoorden die u opslaat naar { -brand-product-name } worden versleuteld. Bovendien letten we op datalekken en geven we een waarschuwing als dit voor u geldt. <a data-l10n-name="breach-alert-link">Meer info</a>
 login-intro-instructions-fxa2 = Maak op het apparaat waarop uw aanmeldgegevens staan een account of meld u aan.
 login-intro-instructions-fxa-settings = Ga naar Instellingen > Sync > Synchronisatie inschakelen… Plaats een vinkje bij Aanmeldingen en wachtwoorden.
 login-intro-instructions-fxa-passwords-help = Bezoek <a data-l10n-name="passwords-help-link">hulp bij wachtwoorden</a> voor meer hulp.
 about-logins-intro-browser-only-import = Als uw aanmeldingen in een andere browser worden opgeslagen, kunt u <a data-l10n-name="import-link">ze importeren in { -brand-product-name }</a>
 about-logins-intro-import2 = Als uw aanmeldingen buiten { -brand-product-name } zijn opgeslagen, dan kunt u ze importeren <a data-l10n-name="import-browser-link">vanuit een andere browser</a> of <a data-l10n-name = "import-file-link">vanuit een bestand</a>
+about-logins-intro-import3 = Selecteer de knop met het plusteken hierboven om direct een wachtwoord toe te voegen. U kunt ook <a data-l10n-name="import-browser-link">wachtwoorden uit een andere browser</a> of  <a data-l10n-name="import-file-link">uit een bestand importeren</a>.
 
 ## Login
 
@@ -296,6 +299,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Aanmeldingen en wachtwoorden exporteren
 about-logins-confirm-export-dialog-message = Uw wachtwoorden worden opgeslagen als leesbare tekst (bijvoorbeeld BadP@ssw0rd), dus iedereen die het geëxporteerde bestand kan openen, kan ze bekijken.
 about-logins-confirm-export-dialog-confirm-button = Exporteren…
+about-logins-confirm-export-dialog-title2 = Een opmerking over het exporteren van wachtwoorden
+about-logins-confirm-export-dialog-message2 =
+    Wanneer u exporteert, worden uw wachtwoorden als leesbare tekst opgeslagen in een bestand.
+    Als u het bestand niet meer nodig hebt, raden we u aan het te verwijderen, zodat anderen die dit apparaat gebruiken uw wachtwoorden niet kunnen zien.
+about-logins-confirm-export-dialog-confirm-button2 = Doorgaan met exporteren
 about-logins-alert-import-title = Importeren voltooid
 about-logins-alert-import-message = Gedetailleerde importsamenvatting bekijken
 confirm-discard-changes-dialog-title = Deze wijzigingen verwerpen?
@@ -337,6 +345,11 @@ about-logins-export-file-picker-title = Bestand met aanmeldingen exporteren
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Wachtwoorden exporteren uit { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = wachtwoorden.csv
 about-logins-export-file-picker-export-button = Exporteren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
