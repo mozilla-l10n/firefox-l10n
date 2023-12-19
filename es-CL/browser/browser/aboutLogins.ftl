@@ -109,11 +109,13 @@ about-logins-login-intro-heading-logged-in = No se encontraron credenciales sinc
 login-intro-description = Si guardaste tus credenciales en { -brand-product-name } en un dispositivo diferente, estas son las instrucciones para que puedas tenerlas también aquí:
 login-intro-instructions-fxa = Crea o conéctate a tu { -fxaccount-brand-name } en el dispositivo en que tienes guardadas tus credenciales
 about-logins-login-intro-heading-message = Guarda tus contraseñas en un lugar seguro
+login-intro-description2 = Todas las contraseñas que guardes en { -brand-product-name } quedan cifradas. Además, estamos atentos a las filtraciones y te avisamos si estuvieras afectado. <a data-l10n-name="breach-alert-link">Más información</a>
 login-intro-instructions-fxa2 = Crea o conéctate a tu cuenta en el dispositivo en que tienes guardadas tus credenciales
 login-intro-instructions-fxa-settings = Ve a Ajustes > Sincronizar > Activar la sincronización… Selecciona las casillas de Credenciales y contraseñas.
 login-intro-instructions-fxa-passwords-help = Visita la página de <a data-l10n-name="passwords-help-link">asistencia para contraseñas</a> para obtener más ayuda.
 about-logins-intro-browser-only-import = Si tus credenciales están guardadas en otro navegador, puedes <a data-l10n-name="import-link">importarlas a { -brand-product-name }</a>
 about-logins-intro-import2 = Si tus credenciales se guardan fuera de { -brand-product-name }, puedes <a data-l10n-name="import-browser-link">importarlas desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo</a>
+about-logins-intro-import3 = Selecciona el botón del signo más que está arriba para añadir una contraseña ahora. También puedes <a data-l10n-name="import-browser-link">importar contraseñas desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo</a>.
 
 ## Login
 
@@ -299,6 +301,9 @@ about-logins-confirm-export-dialog-title = Exportar credenciales y contraseñas
 about-logins-confirm-export-dialog-message = Tus contraseñas serán guardadas como texto legible (por ejemplo, BadP@ssw0rd) por lo que cualquiera que pueda abrir el archivo exportado podrá verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
 about-logins-confirm-export-dialog-title2 = Una nota sobre la exportación de contraseñas
+about-logins-confirm-export-dialog-message2 =
+    Cuando exportas, tus contraseñas se guardan en un archivo como texto legible.
+    Cuando hayas terminado de usar el archivo, te recomendamos eliminarlo para que otras personas que usen este dispositivo no puedan ver tus contraseñas.
 about-logins-confirm-export-dialog-confirm-button2 = Continuar con la exportación
 about-logins-alert-import-title = Importación terminada
 about-logins-alert-import-message = Ver resumen de importación detallado
