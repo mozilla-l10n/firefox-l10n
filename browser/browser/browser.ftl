@@ -935,3 +935,4 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Visualizza “{ $popupURI }”
+
