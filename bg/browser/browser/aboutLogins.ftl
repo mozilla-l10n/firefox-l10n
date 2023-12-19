@@ -426,11 +426,6 @@ about-logins-import-report-added2 =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавена парола</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавени пароли</div>
     }
-about-logins-import-report-modified2 =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновени съществуващи пароли</div>
-       *[other] { "" }
-    }
 about-logins-import-report-no-change2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Дублираща се парола</div> <div data-l10n-name="not-imported">(не е внесена)</div>
