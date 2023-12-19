@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Ustvari novo prijavo
+about-logins-page-title-name = Gesla
+about-logins-login-filter2 =
+    .placeholder = Iskanje gesel
+    .key = F
+create-login-button =
+    .title = Dodaj geslo
 fxaccounts-sign-in-text = Imejte dostop do gesel z vseh svojih naprav
 fxaccounts-sign-in-sync-button = Prijava v sinhronizacijo
 fxaccounts-avatar-button =
@@ -23,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Uvozi iz drugega brskal
 about-logins-menu-menuitem-import-from-a-file = Uvozi iz datoteke …
 about-logins-menu-menuitem-export-logins = Izvozi prijave …
 about-logins-menu-menuitem-remove-all-logins = Odstrani vse prijave …
+about-logins-menu-menuitem-remove-all-logins2 = Odstrani vsa gesla …
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Možnosti
@@ -53,6 +60,25 @@ login-list-filtered-count =
         [few] { $count } od { $total } prijav
        *[other] { $count } od { $total } prijav
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } geslo
+        [two] { $count } gesli
+        [few] { $count } gesla
+       *[other] { $count } gesel
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } od { $total } gesla
+        [two] { $count } od { $total } gesel
+        [few] { $count } od { $total } gesel
+       *[other] { $count } od { $total } gesel
+    }
 login-list-sort-label-text = Razvrsti po:
 login-list-name-option = Imenu (A–Ž)
 login-list-name-reverse-option = Imenu (Ž–A)
@@ -62,11 +88,14 @@ about-logins-login-list-alerts-option = Opozorila
 login-list-last-changed-option = Času zadnje spremembe
 login-list-last-used-option = Času zadnje uporabe
 login-list-intro-title = Ni prijav
+login-list-intro-title2 = Ni shranjenih gesel
 login-list-intro-description = Ko geslo shranite v { -brand-product-name }, se bo prikazalo tukaj.
 about-logins-login-list-empty-search-title = Ni prijav
+about-logins-login-list-empty-search-title2 = Ni najdenih gesel
 about-logins-login-list-empty-search-description = Ni rezultatov, ki bi ustrezali vašemu iskanju.
 login-list-item-title-new-login = Nova prijava
 login-list-item-subtitle-new-login = Vnesite podatke za prijavo
+login-list-item-title-new-login2 = Dodaj geslo
 login-list-item-subtitle-missing-username = (ni uporabniškega imena)
 about-logins-list-item-breach-icon =
     .title = Ogroženo spletno mesto
@@ -94,11 +123,12 @@ about-logins-intro-import2 = Če so vaše prijave shranjene izven { -brand-produ
 ## Login
 
 login-item-new-login-title = Ustvari novo prijavo
+# Header for adding a password
+about-logins-login-item-new-login-title = Dodaj geslo
 login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Odstrani
 login-item-origin-label = Naslov spletnega mesta
 login-item-tooltip-message = Prepričajte se, da se to ujema s točnim naslovom spletne strani, na katero se prijavljate.
-about-logins-origin-tooltip = Prepričajte se, da se ujema s točnim naslovom spletnega mesta, v katero se prijavljate.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Prepričajte se, da shranjujete svoje trenutno geslo. Če tukaj spremenite geslo, se s tem ne bo spremenilo tudi na { $webTitle }.
@@ -116,6 +146,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopiraj
 login-item-copied-password-button-text = Kopirano!
 login-item-save-changes-button = Shrani spremembe
+about-logins-login-item-save-changes-button = Shrani
 login-item-save-new-button = Shrani
 login-item-cancel-button = Prekliči
 
@@ -143,6 +174,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Če želite urediti svojo p
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = edit the saved login
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Če želite urediti geslo, vnesite svoje podatke za prijavo v sistem Windows. To pomaga zaščititi varnost vaših računov.
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Če si želite ogledati geslo, vnesite svoje podatke za prijavo v sistem Windows. To pomaga zaščititi varnost vaših računov.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -291,6 +324,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Uvozi datoteko s prijavami
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Uvozi gesla v { -brand-short-name(sklon: "tozilnik") }
 about-logins-import-file-picker-import-button = Uvozi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
