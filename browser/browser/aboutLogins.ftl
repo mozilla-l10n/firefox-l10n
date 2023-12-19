@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Ymportearje fan in oare
 about-logins-menu-menuitem-import-from-a-file = Ut in bestân ymportearje…
 about-logins-menu-menuitem-export-logins = Oanmeldingen eksportearje…
 about-logins-menu-menuitem-remove-all-logins = Alle oanmeldingen fuortsmite…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Wachtwurden eksportearje…
 about-logins-menu-menuitem-remove-all-logins2 = Alle wachtwurden fuortsmite…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,11 +107,14 @@ about-logins-login-intro-heading-logged-out2 = Op syk nei jo bewarre oanmeldinge
 about-logins-login-intro-heading-logged-in = Gjin syngronisearre oanmeldingen fûn.
 login-intro-description = As jo jo oanmeldgegevens by { -brand-product-name } op in oar apparaat bewarre hawwe, kinne jo se sa ophelje:
 login-intro-instructions-fxa = Meitsje op it apparaat wêrop jo oanmeldgegevens stean in { -fxaccount-brand-name } of meld jo oan.
+about-logins-login-intro-heading-message = Bewarje jo wachtwurden op in feilich plak
+login-intro-description2 = Alle wachtwurden dy’t jo bewarje yn { -brand-product-name } wurde fersifere. Boppedat lette wy op datalekken en warskôgje jo as dit foar jo jildt. <a data-l10n-name="breach-alert-link">Mear ynfo</a>
 login-intro-instructions-fxa2 = Meitsje op it apparaat wêrop jo oanmeldgegevens stean in account of meld jo oan.
 login-intro-instructions-fxa-settings = Gean nei Ynstellingen > Sync > Syngronisaasje ynskeakelje… Pleats in finkje by Oanmeldingen en wachtwurden.
 login-intro-instructions-fxa-passwords-help = Besykje <a data-l10n-name="passwords-help-link">help by wachtwurden</a> foar mear help.
 about-logins-intro-browser-only-import = As jo oanmeldingen yn in oare browser bewarre wurde, kinne jo <a data-l10n-name="import-link">se ymportearje yn { -brand-product-name }</a>
 about-logins-intro-import2 = As jo oanmeldingen bûten { -brand-product-name } bewarre binne, dan kinne jo se ymportearje <a data-l10n-name="import-browser-link">fan in oare browser út</a> of <a data-l10n-name = "import-file-link">fan in bestân út</a>
+about-logins-intro-import3 = Selektearje de knop mei it plusteken hjirboppe om daliks in wachtwurd ta te foegjen. Jo kinne ek <a data-l10n-name="import-browser-link">wachtwurden út in oare browser</a> of  <a data-l10n-name="import-file-link">út in bestân ymportearje</a>.
 
 ## Login
 
@@ -296,6 +299,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Oanmeldingen en wachtwurden eksportearje
 about-logins-confirm-export-dialog-message = Jo wachtwurden wurde bewarre as lêsbere tekst (bygelyks BadP@ssw0rd), dus elkenien dy’t it eksportearre bestân iepenje kin, kin se besjen.
 about-logins-confirm-export-dialog-confirm-button = Eksportearje…
+about-logins-confirm-export-dialog-title2 = In opmerking oer it eksportearjen fan wachtwurden
 about-logins-alert-import-title = Ymportearjen foltôge
 about-logins-alert-import-message = Detaillearre ymportgearfetting besjen
 confirm-discard-changes-dialog-title = Dizze wizigingen ferwerpe?
