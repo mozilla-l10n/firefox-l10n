@@ -300,6 +300,10 @@ about-logins-confirm-export-dialog-title = Oanmeldingen en wachtwurden eksportea
 about-logins-confirm-export-dialog-message = Jo wachtwurden wurde bewarre as lêsbere tekst (bygelyks BadP@ssw0rd), dus elkenien dy’t it eksportearre bestân iepenje kin, kin se besjen.
 about-logins-confirm-export-dialog-confirm-button = Eksportearje…
 about-logins-confirm-export-dialog-title2 = In opmerking oer it eksportearjen fan wachtwurden
+about-logins-confirm-export-dialog-message2 =
+    Wannear’t jo eksportearje, wurde jo wachtwurden as lêsbere tekst bewarre yn in bestân.
+    As jo it bestân net mear nedich hawwe, rekommandearje wy jo oan it fuort te smiten, sadat oaren dy’t dit apparaat brûke jo wachtwurden net sjen kinne.
+about-logins-confirm-export-dialog-confirm-button2 = Trochgean mei eksportearjen
 about-logins-alert-import-title = Ymportearjen foltôge
 about-logins-alert-import-message = Detaillearre ymportgearfetting besjen
 confirm-discard-changes-dialog-title = Dizze wizigingen ferwerpe?
@@ -341,6 +345,11 @@ about-logins-export-file-picker-title = Bestân mei oanmeldingen eksportearje
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Wachtwurden eksportearje út { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = wachtwurden.csv
 about-logins-export-file-picker-export-button = Eksportearje
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
