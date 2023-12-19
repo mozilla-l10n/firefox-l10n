@@ -92,13 +92,13 @@ detail-show-preferences =
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] λ
+            [windows] Ε
            *[other] Π
         }
     .tooltiptext =
         { PLATFORM() ->
             [windows] Αλλαγή των επιλογών αυτού του προσθέτου
-           *[other] Αλλαγή των προτιμήσεων
+           *[other] Αλλαγή των προτιμήσεων αυτού του προσθέτου
         }
 detail-rating =
     .value = Βαθμολογία

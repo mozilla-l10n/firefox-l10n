@@ -985,8 +985,8 @@ popup-warning-button =
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] λ
-           *[other] ρ
+            [windows] Ε
+           *[other] Π
         }
 # Variables:
 #   $popupURI (String): the URI for the pop-up window

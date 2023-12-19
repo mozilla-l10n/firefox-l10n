@@ -100,7 +100,7 @@ autofill-address-oblast = Oblast
 ## Postal code name types
 
 # Used in IN
-autofill-address-pin = Ταχ. κώδικας
+autofill-address-pin = Pin
 autofill-address-postal-code = Ταχυδρομικός κώδικας
 autofill-address-zip = Ταχ. κώδικας
 # Used in IE

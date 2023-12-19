@@ -59,8 +59,8 @@ protections-panel-not-blocking-why-etp-off-tooltip-label =
 protections-panel-no-trackers-found = Δεν εντοπίστηκαν ιχνηλάτες γνωστοί στο { -brand-short-name } σε αυτήν τη σελίδα.
 protections-panel-content-blocking-tracking-protection = Περιεχόμενο καταγραφής
 protections-panel-content-blocking-socialblock = Ιχνηλάτες κοινωνικών δικτύων
-protections-panel-content-blocking-cryptominers-label = Cryptominers
-protections-panel-content-blocking-fingerprinters-label = Fingerprinters
+protections-panel-content-blocking-cryptominers-label = Cryptominer
+protections-panel-content-blocking-fingerprinters-label = Fingerprinter
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,

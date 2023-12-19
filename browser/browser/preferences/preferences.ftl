@@ -1123,8 +1123,8 @@ content-blocking-all-cookies = Όλα τα cookie
 content-blocking-unvisited-cookies = Cookie από ιστοτόπους που δεν έχετε επισκεφτεί
 content-blocking-all-windows-tracking-content = Περιεχόμενο καταγραφής σε όλα τα παράθυρα
 content-blocking-all-cross-site-cookies = Όλα τα cookie μεταξύ ιστοτόπων
-content-blocking-cryptominers = Cryptominers
-content-blocking-fingerprinters = Fingerprinters
+content-blocking-cryptominers = Cryptominer
+content-blocking-fingerprinters = Fingerprinter
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
@@ -1220,7 +1220,7 @@ permissions-notification-pause =
     .accesskey = ε
 permissions-autoplay = Αυτόματη αναπαραγωγή
 permissions-autoplay-settings =
-    .label = Ρυθμίσεις...
+    .label = Ρυθμίσεις…
     .accesskey = θ
 permissions-block-popups =
     .label = Φραγή αναδυόμενων παραθύρων
