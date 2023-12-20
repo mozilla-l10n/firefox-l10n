@@ -22,6 +22,8 @@ about-webauthn-confirm-deletion-section-title = Confirmer la suppression
 about-webauthn-text-connect-device = Veuillez connecter un jeton d’authentification.
 # If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
 about-webauthn-text-select-device = Veuillez sélectionner le jeton de sécurité de votre choix en appuyant sur l’appareil.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Impossible de gérer les options, car votre jeton de sécurité ne prend pas en charge CTAP2.
 about-webauthn-text-not-available = Non disponible sur cette plateforme.
 
 ## Results label

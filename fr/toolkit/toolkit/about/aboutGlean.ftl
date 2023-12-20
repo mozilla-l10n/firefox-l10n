@@ -43,6 +43,8 @@ about-glean-manual-testing = Les instructions complètes sont détaillées dans 
 about-glean-no-ping-label = (n’envoyer aucun ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Dans le champ précédent, assurez-vous qu’il y ait une balise de débogage mémorisable afin que vous puissiez reconnaître vos pings plus tard.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Définir une balise de débogage facile à retenir <span>(composée uniquement d’au plus 20 caractères alphanumériques et du signe -)</span> afin de pouvoir reconnaître vos pings par la suite.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
