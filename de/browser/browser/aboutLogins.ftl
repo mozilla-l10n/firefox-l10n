@@ -276,6 +276,7 @@ about-logins-confirm-remove-all-dialog-title2 =
 about-logins-confirm-export-dialog-title = Zugangsdaten und Passwörter exportieren
 about-logins-confirm-export-dialog-message = Ihre Passwörter werden als lesbarer Text gespeichert (z.B. P@ssw0rt). Dadurch hat jede Person, welche die exportierte Datei öffnen kann, Zugriff auf das unverschlüsselte Passwort.
 about-logins-confirm-export-dialog-confirm-button = Exportieren…
+about-logins-confirm-export-dialog-title2 = Ein Hinweis zum Export von Passwörtern
 about-logins-alert-import-title = Importieren abgeschlossen
 about-logins-alert-import-message = Detaillierte Import-Zusammenfassung anzeigen
 confirm-discard-changes-dialog-title = Nicht gespeicherte Änderungen verwerfen?
