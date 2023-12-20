@@ -71,7 +71,7 @@ about-private-browsing-cookie-banners-promo-message = 让 { -brand-short-name } 
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } 为您处理 Cookie 弹出显示
-about-private-browsing-cookie-banners-promo-body = 我们现在会自动拒绝许多 Cookie 弹出显示以此减少跟踪并回到无干扰的浏览状态。
+about-private-browsing-cookie-banners-promo-body = 我们现在可自动拒绝许多 Cookie 横幅，助您少受跟踪，专注浏览。
 
 ## Strings for Felt Privacy v1 experiments in 119
 
