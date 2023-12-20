@@ -86,7 +86,7 @@ shopping-settings-label =
     .label = 设置
 shopping-settings-recommendations-toggle =
     .label = 在核查评价中展示广告
-shopping-settings-recommendations-learn-more2 = 您会偶尔看到相关产品的广告。我们只宣传获得可靠评价的产品。<a data-l10n-name="review-quality-url">了解更多</a>
+shopping-settings-recommendations-learn-more2 = 您会偶尔看到相关产品的广告。我们只宣传获得可靠评价的产品。<a data-l10n-name="review-quality-url">详细了解</a>
 shopping-settings-opt-out-button = 关闭核查评价
 powered-by-fakespot = 核查评价由 <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> 提供支持。
 
@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = 我们使用 { -fakespot-brand-full-name } 的人工智能技术来核查商品评价的可信度。核查结果只能辅助您评估评价的质量，不能反映商品质量。
 shopping-analysis-explainer-grades-intro = 我们会以<strong>字母等级</strong>（从 A 到 F）给商品评价打分。
 shopping-analysis-explainer-adjusted-rating-description = <strong>调整后的评分</strong>仅基于我们认为可信的评价作出。
-shopping-analysis-explainer-learn-more = 详细了解 <a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name } 判断评价质量的方式</a>。
 shopping-analysis-explainer-learn-more2 = 详细了解 <a data-l10n-name="review-quality-url">{ -fakespot-brand-name } 判断评价质量的方式</a>。
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = 打开核查评价
 shopping-sidebar-close-button2 =
     .tooltiptext = 关闭核查评价
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -195,7 +186,6 @@ shopping-onboarding-dynamic-subtitle-1 = 在购买前先看看 <b>{ $currentSite
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = 决定购买前，先看看 <b>{ $currentSite }</b> 上的商品评价是否可信。核查评价是 { -brand-product-name } 的一项实验功能，内置于浏览器中。
 shopping-onboarding-body = { -fakespot-brand-full-name } 可帮助您规避不真实、不公允的评价。在您购物时，我们的人工智能模型也会不断改进，以更好地保护您的权益。<a data-l10n-name="learn_more">详细了解</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = 选择“{ shopping-onboarding-opt-in-button }”即表明您同意 { -fakespot-brand-full-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和<a data-l10n-name="terms_of_use">使用条款</a>。
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = 选择“{ shopping-onboarding-opt-in-button }”即表示您同意 { -fakespot-brand-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和<a data-l10n-name="terms_of_use">使用条款</a>。
 shopping-onboarding-opt-in-button = 试试看
 shopping-onboarding-not-now-button = 暂时不要

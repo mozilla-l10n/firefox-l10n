@@ -1031,7 +1031,7 @@ cookie-banner-handling-description = { -brand-short-name } 会在支持的网站
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Cookie 横幅拦截器
-cookie-banner-blocker-description = 当网站询问是否在隐私浏览模式中使用 Cookie 时，{ -brand-short-name } 会自动为您拒绝。仅适用于支持该功能的网站。
+cookie-banner-blocker-description = 当网站询问是否允许在隐私浏览模式中使用 Cookie 时，{ -brand-short-name } 会自动为您拒绝。仅适用于支持该功能的网站。
 cookie-banner-learn-more = 详细了解
 forms-handle-cookie-banners =
     .label = 减少 Cookie 横幅
