@@ -126,6 +126,10 @@ about-logins-login-item-remove-button = Eltávolítás
 login-item-origin-label = Honlap címe
 login-item-tooltip-message = Győződjön meg róla, hogy ez megegyezik annak a webhelynek a pontos címével, ahová bejelentkezik.
 about-logins-origin-tooltip2 = Adja meg a teljes címet, és győződjön meg róla, hogy pontosan megegyezik-e a bejelentkezési hellyel.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Győződjön meg róla, hogy a jelenlegi jelszót menti el az oldalhoz. Ha itt megváltoztatja a jelszavát, az nem módosítja a(z) { $webTitle } oldalon használt jelszavát.
+about-logins-add-password-tooltip = Győződjön meg róla, hogy a jelenlegi jelszót menti el az oldalhoz.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Felhasználónév
@@ -139,6 +143,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Másolás
 login-item-copied-password-button-text = Másolva!
 login-item-save-changes-button = Változások mentése
+about-logins-login-item-save-changes-button = Mentés
 login-item-save-new-button = Mentés
 login-item-cancel-button = Mégse
 
@@ -166,6 +171,11 @@ about-logins-edit-login-os-auth-dialog-message-win = A bejelentkezés szerkeszt�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = szerkessze a mentett bejelentkezést
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = A jelszava szerkesztéséhez írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = szerkessze a mentett jelszót
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = A jelszava megtekintéséhez írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -181,6 +191,11 @@ about-logins-export-password-os-auth-dialog-message-win = A bejelentkezés expor
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = mentett bejelentkezések és jelszavak exportálása
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = A jelszavai exportálásához írja be a Windows bejelentkezési adatait. Ez elősegíti a fiókja biztonságának védelmét.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportálja a mentett jelszavakat
 
 ## Primary Password notification
 
@@ -196,6 +211,10 @@ confirmation-dialog-dismiss-button =
     .title = Mégse
 about-logins-confirm-remove-dialog-title = Eltávolítja ezt a bejelentkezést?
 confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Jelszó eltávolítása?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
 about-logins-confirm-remove-dialog-confirm-button = Eltávolítás
 
 ## Variables
@@ -240,6 +259,32 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezését, az összes, a fiókjával szinkronizált eszközéről. Ez eltávolítja az itt megjelenő figyelmeztetéseket is. Ez a művelet nem vonható vissza.
         [one] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezését, az összes, a fiókjával szinkronizált eszközéről. Ez eltávolítja az itt megjelenő figyelmeztetéseket is. Ez a művelet nem vonható vissza.
        *[other] Ez eltávolítja az összes, a { -brand-short-name }ba mentett bejelentkezést, az összes, a fiókjával szinkronizált eszközéről. Ez eltávolítja az itt megjelenő figyelmeztetéseket is. Ez a művelet nem vonható vissza.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Igen, a jelszó eltávolítása
+        [one] Igen, a jelszó eltávolítása
+       *[other] Igen, a jelszavak eltávolítása
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Eltávolít { $count } jelszót?
+       *[other] Eltávolítja mind a(z) { $count } jelszót?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Ez eltávolítja a { -brand-short-name }ba mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+        [one] Ez eltávolítja a { -brand-short-name }ba mentett jelszót, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+       *[other] Ez eltávolítja a { -brand-short-name }ba mentett jelszavakat, és az esetleges adatvédelmi incidensek figyelmeztetéseit. Ez a művelet nem vonható vissza.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Eltávolít { $count } jelszót az összes eszközről?
+       *[other] Eltávolítja mind a(z) { $count } jelszót az összes eszközről?
     }
 
 ##
