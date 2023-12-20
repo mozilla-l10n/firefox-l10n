@@ -1042,10 +1042,20 @@ autofill-addresses-checkbox = Ukládat a vyplňovat adresy
     .accesskey = a
 autofill-saved-addresses-button = Uložené adresy
     .accesskey = U
+autofill-payment-methods-checkbox-message = Uložit a vyplnit způsoby platby
+    .accesskey = U
 autofill-payment-methods-checkbox-submessage = Zahrnuje kreditní a debetní karty
     .accesskey = Z
 autofill-saved-payment-methods-button = Uložené platební metody
     .accesskey = U
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] K vyplnění a úpravě způsobů platby vyžadovat ověření macOS.
+        [windows] K vyplnění a úpravě způsobů platby vyžadovat ověření Windows.
+        [linux] K vyplnění a úpravě způsobů platby vyžadovat ověření Linux.
+       *[other] K vyplnění a úpravě způsobů platby vyžadovat ověření.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 

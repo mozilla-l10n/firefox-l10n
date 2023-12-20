@@ -112,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Pro následující servery se nebudou
 permissions-exceptions-saved-passwords-window =
     .title = Výjimky pro ukládání hesel
     .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } neuloží hesla pro weby uvedené v tomto seznamu.
 
 ## Exceptions - Add-ons
 

@@ -319,7 +319,7 @@ device-migration-fxa-spotlight-older-device-header = { -brand-product-name } vá
 device-migration-fxa-spotlight-older-device-body = Účet udržuje vaše důležité informace aktuální a chráněné na jakémkoli zařízení, které připojíte.
 device-migration-fxa-spotlight-older-device-primary-button = Vytvořit účet
 device-migration-fxa-spotlight-getting-new-device-header-2 = Plánujete v blízké budoucnosti nové zařízení?
-device-migration-fxa-spotlight-getting-new-device-body = Zálohujte svá data hned teď, abyste je mohli začít používat, až vám bude zařízení doručeno.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Když začínáte používat nové zařízení, přeneste si s sebou své záložky, historii a hesla pomocí několika jednoduchých kroků.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Jak zálohovat moje data
 
 ## Set as Default PDF Reader Infobar
