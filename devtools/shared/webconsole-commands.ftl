@@ -22,3 +22,13 @@ webconsole-commands-usage-unblock =
     Arrêter le blocage de requêtes réseau
     
       Un seul argument est accepté, la chaîne exacte passée précédemment à :block.
+# Usage string for :trace command
+webconsole-commands-usage-trace =
+    :trace
+    
+    Active ou désactive le traceur JavaScript
+    
+      Les arguments suivants sont acceptés  :
+        --logMethod, à définir à « console » pour journaliser dans la console web (valeur par défaut) ou à « stdout » pour diriger les messages vers la sortie standard ;
+        --prefix, chaîne facultative ajoutée au début de chaque journal de traçage ;
+        --help ou --usage, affiche ce message.
