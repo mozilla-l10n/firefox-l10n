@@ -29,14 +29,6 @@ protections-panel-etp-off-header = 此网站已关闭增强型跟踪保护
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = 增强型跟踪保护
-    .description = 在此网站开启
-    .aria-label = 禁用对{ $host }的保护
-protections-panel-etp-off-toggle =
-    .label = 增强型跟踪保护
-    .description = 在此网站关闭
-    .aria-label = 启用对{ $host }的保护
 protections-panel-etp-toggle-on =
     .label = 增强型跟踪保护
     .description = 已为此网站开启
@@ -145,14 +137,14 @@ protections-panel-cookie-banner-blocker-view-title =
     .title = Cookie 横幅拦截器
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-blocker-view-turn-off-for-site = 要关闭 { $host } 的 Cookie 横幅拦截器吗？
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = 要为 { $host } 关闭 Cookie 横幅拦截器吗？
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = 要为此网站开启 Cookie 横幅拦截器吗？
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } 将清除此网站的 Cookie 并刷新页面。清除 Cookie 可能会导致您退出登录，或清空购物车。
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } 会尝试在支持的网站上尽可能拒绝所有 Cookie 请求。
-protections-panel-cookie-banner-blocker-view-turn-on-description = 开启后，{ -brand-short-name } 将尝试自动拒绝此网站上的 Cookie 横幅。
 protections-panel-cookie-banner-view-cancel = 取消
 protections-panel-cookie-banner-view-turn-off = 关闭
 protections-panel-cookie-banner-view-turn-on = 开启
+protections-panel-cookie-banner-blocker-view-turn-on-description = 开启后，{ -brand-short-name } 将尝试自动拒绝此网站上的 Cookie 横幅。
 protections-panel-cookie-banner-view-cancel-label =
     .label = 取消
 protections-panel-cookie-banner-view-turn-off-label =

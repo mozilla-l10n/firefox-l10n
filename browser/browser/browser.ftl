@@ -621,7 +621,7 @@ urlbar-group-quickactions =
 # Variables
 #  $engine (String): the name of the search engine used to search.
 urlbar-group-recent-searches =
-    .label = 最近的搜索
+    .label = 近期搜索
 
 ## Reader View toolbar buttons
 
