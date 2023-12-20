@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Zugangsdaten importiere
 about-logins-menu-menuitem-import-from-a-file = Zugangsdaten importieren aus Datei…
 about-logins-menu-menuitem-export-logins = Zugangsdaten exportieren…
 about-logins-menu-menuitem-remove-all-logins = Alle Zugangsdaten entfernen…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Passwörter exportieren…
 about-logins-menu-menuitem-remove-all-logins2 = Alle Passwörter entfernen…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Suchen Sie Ihre gespeicherten Zug
 about-logins-login-intro-heading-logged-in = Keine synchronisierten Zugangsdaten gefunden.
 login-intro-description = Wenn Sie Ihre Zugangsdaten in { -brand-product-name } auf einem anderen Gerät gespeichert haben, können Sie diese hier abrufen:
 login-intro-instructions-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein { -fxaccount-brand-name } oder melden Sie sich damit an.
+about-logins-login-intro-heading-message = Speichern Sie Ihre Passwörter an einem sicheren Ort
 login-intro-instructions-fxa2 = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein Konto oder melden Sie sich damit an.
 login-intro-instructions-fxa-settings = Gehen Sie zu Einstellungen > Synchronisation > Synchronisation aktivieren… Wählen Sie das Kontrollfeld "Zugangsdaten und Passwörter".
 login-intro-instructions-fxa-passwords-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="passwords-help-link">Hilfeseite für Passwörter</a>.
