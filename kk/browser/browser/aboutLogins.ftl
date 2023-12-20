@@ -107,6 +107,7 @@ about-logins-login-intro-heading-logged-in = Синхрондалған логи
 login-intro-description = Логиндерді басқа құрылғыдағы { -brand-product-name } ішіне сақтасаңыз, оларды осында келесідей алуға болады:
 login-intro-instructions-fxa = Логиндеріңіз сақталған құрылғыда { -fxaccount-brand-name } тіркелгісін жасаңыз немесе оған кіріңіз.
 about-logins-login-intro-heading-message = Парольдеріңізді қауіпсіз жерге сақтаңыз
+login-intro-description2 = Сіз { -brand-product-name } ішіне сақтайтын барлық парольдер шифрленген. Оған қоса, біз сайт бұзылуларын қадағалап, олар сізге әсер еткен кезде сізге хабарлаймыз. <a data-l10n-name="breach-alert-link">Көбірек білу</a>
 login-intro-instructions-fxa2 = Логиндеріңіз сақталған құрылғыда тіркелгі жасаңыз немесе оған кіріңіз.
 login-intro-instructions-fxa-settings = Баптаулар > Синхрондау > Синхрондауды іске қосу… таңдаңыз. Логиндер және парольдер жалаушасын орнатыңыз.
 login-intro-instructions-fxa-passwords-help = Көбірек білу үшін, <a data-l10n-name="passwords-help-link">парольдер бойынша қолдау көрсету</a> адресін шолыңыз.
@@ -290,6 +291,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Логиндер және парольдерді экспорттау
 about-logins-confirm-export-dialog-message = Парольдеріңіз ашық, оқуға келетін мәтін ретінде сақталатын болады (мыс., BadP@ssw0rd) сондықтан экспортталған файлды аша алатын адам оларды көре алады.
 about-logins-confirm-export-dialog-confirm-button = Экспорттау…
+about-logins-confirm-export-dialog-title2 = Парольдерді экспорттау туралы ескертпе
+about-logins-confirm-export-dialog-message2 =
+    Экспорттау кезінде парольдеріңіз оқылатын мәтіні бар файлға сақталады.
+    Файлды пайдаланып болғаннан кейін, осы құрылғыны пайдаланатын басқа адамдар парольдеріңізді көре алмайтындай етіп оны өшіруді ұсынамыз.
+about-logins-confirm-export-dialog-confirm-button2 = Экспорттауды жалғастыру
 about-logins-alert-import-title = Импорт аяқталды
 about-logins-alert-import-message = Импорттаудың толық есептемесін қарау
 confirm-discard-changes-dialog-title = Сақталмаған өзгерістерді тайдыру керек пе?
@@ -331,6 +337,11 @@ about-logins-export-file-picker-title = Логиндер файлын экспо
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = логиндер.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = { -brand-short-name } ішінен парольдерді экспорттау
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Экспорттау
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
