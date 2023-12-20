@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Salvar senha de { $host }?
+password-manager-save-password-button-deny =
+    .label = Agora não
+    .accesskey = n
 password-manager-save-password-button-allow =
     .label = Salvar
     .accesskey = S
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Atualizar a senha de { $host }?
+password-manager-update-password-button-delete =
+    .label = Remover senha salva
+    .accesskey = R
 password-manager-update-login-add-username = Adicionar nome de usuário à senha salva?
 password-manager-password-password-button-allow =
     .label = Atualizar
