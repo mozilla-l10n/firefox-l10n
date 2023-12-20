@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Başka bir tarayıcıda
 about-logins-menu-menuitem-import-from-a-file = Dosyadan içe aktar…
 about-logins-menu-menuitem-export-logins = Hesapları dışa aktar…
 about-logins-menu-menuitem-remove-all-logins = Tüm hesapları kaldır…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Parolaları dışa aktar…
 about-logins-menu-menuitem-remove-all-logins2 = Tüm parolaları sil…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Kayıtlı hesaplarınızı mı ar
 about-logins-login-intro-heading-logged-in = Eşitlenmiş hesap bulunamadı.
 login-intro-description = Hesaplarınızı farklı bir cihazdaki { -brand-product-name } tarayıcınıza kaydettiyseniz onları buraya aktarabilirsiniz:
 login-intro-instructions-fxa = Hesaplarınızın kayıtlı olduğu cihazda { -fxaccount-brand-name } açın veya hesabınıza giriş yapın.
+about-logins-login-intro-heading-message = Parolalarınızı güvenli bir yere kaydedin
 login-intro-instructions-fxa2 = Hesaplarınızın kayıtlı olduğu cihazda hesap açın veya hesabınıza giriş yapın.
 login-intro-instructions-fxa-settings = Ayarlar > Eşitleme > “Eşitlemeyi başlat…” kısmına gidip “Hesaplar ve parolalar”ı işaretleyin.
 login-intro-instructions-fxa-passwords-help = Yardıma ihtiyacınız varsa <a data-l10n-name="passwords-help-link">parola desteğini</a> ziyaret edebilirsiniz.
@@ -296,6 +297,8 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Hesapları ve parolaları dışa aktarma
 about-logins-confirm-export-dialog-message = Parolalarınız okunabilir metin olarak kaydedilecek (örn. KotuP@r0la), yani dışa aktarılan dosyayı açabilen herkes parolalarınızı görebilecektir.
 about-logins-confirm-export-dialog-confirm-button = Dışa aktar…
+about-logins-confirm-export-dialog-title2 = Parolaları dışa aktarma hakkında bir bilgi
+about-logins-confirm-export-dialog-confirm-button2 = Dışa aktarma işlemine devam et
 about-logins-alert-import-title = İçe aktarma tamamlandı
 about-logins-alert-import-message = Ayrıntılı içe aktarma özetini görüntüle
 confirm-discard-changes-dialog-title = Kaydedilmemiş değişikliklerden vazgeçilsin mi?
@@ -337,6 +340,11 @@ about-logins-export-file-picker-title = Hesaplar Dosyasını Dışa Aktar
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = hesaplar.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Parolaları { -brand-short-name } tarayıcısından dışa aktar
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = parolalar.csv
 about-logins-export-file-picker-export-button = Dışa aktar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
