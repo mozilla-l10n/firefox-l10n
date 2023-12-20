@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Басқа браузе
 about-logins-menu-menuitem-import-from-a-file = Файлдан импорттау…
 about-logins-menu-menuitem-export-logins = Логиндерді экспорттау…
 about-logins-menu-menuitem-remove-all-logins = Барлық логиндерді өшіру…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Парольдерді экспорттау…
 about-logins-menu-menuitem-remove-all-logins2 = Барлық парольдерді өшіру…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -106,6 +106,7 @@ about-logins-login-intro-heading-logged-out2 = Сақталған логинде
 about-logins-login-intro-heading-logged-in = Синхрондалған логиндер табылмады.
 login-intro-description = Логиндерді басқа құрылғыдағы { -brand-product-name } ішіне сақтасаңыз, оларды осында келесідей алуға болады:
 login-intro-instructions-fxa = Логиндеріңіз сақталған құрылғыда { -fxaccount-brand-name } тіркелгісін жасаңыз немесе оған кіріңіз.
+about-logins-login-intro-heading-message = Парольдеріңізді қауіпсіз жерге сақтаңыз
 login-intro-instructions-fxa2 = Логиндеріңіз сақталған құрылғыда тіркелгі жасаңыз немесе оған кіріңіз.
 login-intro-instructions-fxa-settings = Баптаулар > Синхрондау > Синхрондауды іске қосу… таңдаңыз. Логиндер және парольдер жалаушасын орнатыңыз.
 login-intro-instructions-fxa-passwords-help = Көбірек білу үшін, <a data-l10n-name="passwords-help-link">парольдер бойынша қолдау көрсету</a> адресін шолыңыз.
