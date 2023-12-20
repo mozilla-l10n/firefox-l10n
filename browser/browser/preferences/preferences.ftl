@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Microsoft, iş ve okul hesapları için Windows çoklu oturum açmaya izin ver
 forms-windows-sso-learn-more-link = Daha fazla bilgi al
 forms-windows-sso-desc = Hesapları cihaz ayarlarınızdan yönetebilirsiniz
+windows-passkey-settings-label = Geçiş anahtarlarını sistem ayarlarından yönetebilirsiniz
 
 ## OS Authentication dialog
 
