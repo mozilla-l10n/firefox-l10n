@@ -53,12 +53,12 @@ translations-panel-settings-always-offer-translation =
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-never-translate-language =
-    .label = 항상 { $language } 번역하지 않음
+    .label = 항상 { $language } 번역 안 함
 translations-panel-settings-never-translate-unknown-language =
-    .label = 항상 이 언어 번역하지 않음
+    .label = 항상 이 언어 번역 안 함
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
-    .label = 항상 이 사이트 번역하지 않음
+    .label = 항상 이 사이트 번역 안 함
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
