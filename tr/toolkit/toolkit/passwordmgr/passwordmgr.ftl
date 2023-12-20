@@ -17,6 +17,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = { $host } parolası güncellensin mi?
+password-manager-update-password-button-delete =
+    .label = Kayıtlı parolayı kaldır
+    .accesskey = K
 password-manager-update-login-add-username = Kayıtlı parolaya kullanıcı adı eklensin mi?
 password-manager-password-password-button-allow =
     .label = Güncelle
