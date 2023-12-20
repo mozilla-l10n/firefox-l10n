@@ -119,7 +119,7 @@ login-intro-instructions-fxa-settings = Выберите «Настройки» 
 login-intro-instructions-fxa-passwords-help = Посетите <a data-l10n-name="passwords-help-link">раздел поддержки по паролям</a>, чтобы узнать больше.
 about-logins-intro-browser-only-import = Если ваши логины сохранены в другом браузере, вы можете <a data-l10n-name="import-link">импортировать их в { -brand-product-name }</a>
 about-logins-intro-import2 = Если ваши логины сохранены не в { -brand-product-name }, вы можете <a data-l10n-name="import-browser-link">импортировать их из другого браузера</a> или <a data-l10n-name="import-file-link">из файла</a>
-about-logins-intro-import3 = Нажмите кнопку со значком плюса выше, чтобы добавить пароль сейчас. Вы также можете <a data-l10n-name="import-browser-link">импортировать пароли из другого браузера</a> или <a data-l10n-name="import-file-link">из файла</а>.
+about-logins-intro-import3 = Нажмите кнопку со значком плюса выше, чтобы добавить пароль сейчас. Вы также можете <a data-l10n-name="import-browser-link">импортировать пароли из другого браузера</a> или <a data-l10n-name="import-file-link">из файла</a>.
 
 ## Login
 
