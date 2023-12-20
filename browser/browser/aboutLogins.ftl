@@ -114,11 +114,12 @@ about-logins-intro-import2 = Hvis dine logins er gemt et andet sted end { -brand
 ## Login
 
 login-item-new-login-title = Opret nyt login
+# Header for adding a password
+about-logins-login-item-new-login-title = Tilføj adgangskode
 login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Webstedets adresse
 login-item-tooltip-message = Kontrollér at dette er adressen på det websted, hvor du logger ind.
-about-logins-origin-tooltip = Kontrollér at dette er adressen på det websted, hvor du logger ind.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Sørg for at gemme din aktuelle adgangsode til dette websted. At ændre adgangskoden her ændrer den ikke på { $webTitle }.
@@ -136,6 +137,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopier
 login-item-copied-password-button-text = Kopieret!
 login-item-save-changes-button = Gem ændringer
+about-logins-login-item-save-changes-button = Gem
 login-item-save-new-button = Gem
 login-item-cancel-button = Annuller
 
@@ -163,6 +165,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Indtast dine login-informat
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = redigere det gemte login
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = For at redigere din adgangskode skal du indtaste dine Windows-loginoplysninger. Dette hjælper med at beskytte sikkerheden på dine konti.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = rediger den gemte adgangskode
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at se din adgangskode. Dette hjælper med at beskytte dine kontis sikkerhed.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -178,6 +185,11 @@ about-logins-export-password-os-auth-dialog-message-win = Indtast dine login-inf
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = eksportere gemte logins og adgangskoder
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = For at eksportere dine adgangskoder skal du indtaste dine Windows-loginoplysninger. Dette hjælper med at beskytte sikkerheden på dine konti.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = eksporter gemte adgangskoder
 
 ## Primary Password notification
 
