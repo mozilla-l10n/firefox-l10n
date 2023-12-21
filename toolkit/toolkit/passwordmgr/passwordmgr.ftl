@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Cadw cyfrinair { $host }?
+password-manager-save-password-button-deny =
+    .label = Nid nawr
+    .accesskey = N
 password-manager-save-password-button-allow =
     .label = Cadw
     .accesskey = C
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Diweddaru cyfrinair { $host }?
+password-manager-update-password-button-delete =
+    .label = Tynnu'r cyfrinair sydd wedi'i gadw
+    .accesskey = T
 password-manager-update-login-add-username = Ychwanegu enw defnyddiwr i gyfrinair wedi’i gadw?
 password-manager-password-password-button-allow =
     .label = Diweddaru
