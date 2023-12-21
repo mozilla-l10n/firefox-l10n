@@ -20,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = { $host } үшін парольді жаңарту керек пе?
+password-manager-update-password-button-delete =
+    .label = Сақталған парольді өшіру
+    .accesskey = ш
 password-manager-update-login-add-username = Пайдаланушы атын сақталған парольге қосу керек пе?
 password-manager-password-password-button-allow =
     .label = Жаңарту
