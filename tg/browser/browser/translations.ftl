@@ -58,7 +58,7 @@ translations-panel-settings-never-translate-unknown-language =
     .label = Ҳеҷ гоҳ бояд аз ин забон тарҷума карда нашавад
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
-    .label = Ин сомона бояд ҳеҷ гоҳ тарҷума карда нашавад
+    .label = Ин сомона бояд ҳеҷ вақт тарҷума карда нашавад
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
