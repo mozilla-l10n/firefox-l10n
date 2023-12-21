@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Mewnforio o Borwr Arall
 about-logins-menu-menuitem-import-from-a-file = Mewnforio o Ffeil…
 about-logins-menu-menuitem-export-logins = Allforio Mewngofnodion…
 about-logins-menu-menuitem-remove-all-logins = Tynnu Pob Mewngofnod…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Allforio Cyfrineiriau…
 about-logins-menu-menuitem-remove-all-logins2 = Tynnu Pob Cyfrinair…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -123,11 +123,14 @@ about-logins-login-intro-heading-logged-out2 = Yn chwilio am eich mewngofnodi we
 about-logins-login-intro-heading-logged-in = Heb ganfod mewngofnodion wedi'u cydweddu.
 login-intro-description = Os gwnaethoch gadw eich mewngofnodion i { -brand-product-name } ar ddyfais wahanol, dyma sut i'w cael yma:
 login-intro-instructions-fxa = Crëwch neu fewngofnodwch i'ch cyfrif { -fxaccount-brand-name } ar y ddyfais lle mae'ch mewngofnodion yn cael eu cadw
+about-logins-login-intro-heading-message = Cadw eich cyfrineiriau mewn man diogel
+login-intro-description2 = Mae'r holl gyfrineiriau rydych yn eu cadw i { -brand-product-name } wedi'u hamgryptio. Hefyd, rydyn ni'n wyliadwrus am dor-data ac yn eich rhybuddio os ydych chi'n cael eich effeithio. <a data-l10n-name="breach-alert-link">Darllen rhagor</a>
 login-intro-instructions-fxa2 = Crëwch neu fewngofnodwch i'ch cyfrif ar y ddyfais lle mae eich mewngofnodion yn cael eu cadw.
 login-intro-instructions-fxa-settings = Ewch i Gosodiadau > Sync > Cychwyn cydweddu... Dewiswch y blwch ticio Mewngofnodi a chyfrineiriau.
 login-intro-instructions-fxa-passwords-help = Ewch i <a data-l10n-name="passwords-help-link">cefnogaeth cyfrineiriau</a> i gael rhagor o gymorth.
 about-logins-intro-browser-only-import = Os yw eich mewngofnodion yn cael eu cadw mewn porwr arall, gallwch <a data-l10n-name="import-link">eu mewnforio i { -brand-product-name }</a>
 about-logins-intro-import2 = Os yw eich mewngofnodion wedi'u cadw y tu allan i { -brand-product-name }, gallwch <a data-l10n-name="import-browser-link">eu mewnforio o borwr arall</a> neu <a data-l10n-name="import-file-link">o ffeil</a>
+about-logins-intro-import3 = Dewiswch y botwm arwydd plws uchod i ychwanegu cyfrinair nawr. Gallwch hefyd <a data-l10n-name="import-browser-link">fewnforio cyfrineiriau o borwr arall</a> neu <a data-l10n-name="import-file-link">o ffeil</a> a>.
 
 ## Login
 
@@ -360,6 +363,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Allforio mewngofnodion a chyfrineiriau
 about-logins-confirm-export-dialog-message = Bydd eich cyfrineiriau'n cael eu cadw fel testun darllenadwy (e.e. BadP@ssw0rd) fel y gall unrhyw un sy'n gallu agor y ffeil a allforiwyd eu gweld.
 about-logins-confirm-export-dialog-confirm-button = Allforio…
+about-logins-confirm-export-dialog-title2 = Gwybodaeth am allforio cyfrineiriau
+about-logins-confirm-export-dialog-message2 =
+    Pan fyddwch yn allforio, bydd eich cyfrineiriau'n cael eu cadw i ffeil gyda thestun darllenadwy.
+    Pan fyddwch wedi gorffen defnyddio'r ffeil, rydym yn argymell ei dileu fel nad yw eraill sy'n defnyddio'r ddyfais hon yn gallu gweld eich cyfrineiriau.
+about-logins-confirm-export-dialog-confirm-button2 = Parhau i allforio
 about-logins-alert-import-title = Wedi Cwblhau Mewnforio
 about-logins-alert-import-message = Gweld crynodeb mewnforio manwl
 confirm-discard-changes-dialog-title = Hepgor newidiadau heb eu cadw?
@@ -401,6 +409,11 @@ about-logins-export-file-picker-title = Allforio Ffeil Mewngofnodion
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = mewngofnodion.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Allforio Cyfrineiriau o { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = cyfrineiriau.csv
 about-logins-export-file-picker-export-button = Allforio
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
