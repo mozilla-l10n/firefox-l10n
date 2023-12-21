@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = A bejelentkezések a következő oldalakhoz nem lesznek mentve
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Kivételek – mentett jelszavak
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = A { -brand-short-name } nem menti el a jelszavakat az itt felsorolt webhelyeknél.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

@@ -434,6 +434,7 @@ about-logins-import-dialog-error-try-import-again = Importálás újrapróbálá
 about-logins-import-dialog-error-cancel = Mégse
 about-logins-import-report-title = Importálási összefoglaló
 about-logins-import-report-description = A { -brand-short-name }ba importált bejelentkezési adatok és jelszavak.
+about-logins-import-report-description2 = Jelszavak importálva a { -brand-short-name }ba.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -441,6 +442,9 @@ about-logins-import-report-row-index = { $number }. sor
 about-logins-import-report-row-description-no-change = Másolat: meglévő bejelentkezés pontos egyezése
 about-logins-import-report-row-description-modified = Meglévő bejelentkezés frissítve
 about-logins-import-report-row-description-added = Új bejelentkezés hozzáadva
+about-logins-import-report-row-description-no-change2 = Másolat: meglévő bejegyzés pontos egyezése
+about-logins-import-report-row-description-modified2 = Meglévő bejegyzés frissítve
+about-logins-import-report-row-description-added2 = Új jelszó hozzáadva
 about-logins-import-report-row-description-error = Hiba: hiányzó mező
 
 ##
@@ -468,6 +472,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ismétlődő bejelentkezés</div> <div data-l10n-name="not-imported">(nem lett importálva)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ismétlődő bejelentkezések</div> <div data-l10n-name="not-imported">(nem lettek importálva)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Új jelszavak hozzáadva</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Új jelszavak hozzáadva</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Meglévő bejegyzések frissítve</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Meglévő bejegyzések frissítve</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ismétlődő bejegyzések</div> <div data-l10n-name="not-imported">(nem lettek importálva)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ismétlődő bejegyzések</div> <div data-l10n-name="not-imported">(nem lettek importálva)</div>
     }
 about-logins-import-report-error =
     { $count ->

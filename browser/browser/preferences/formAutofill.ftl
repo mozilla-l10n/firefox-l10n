@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Mentett címek
 autofill-manage-addresses-list-header = Címek
 autofill-manage-credit-cards-title = Mentett bankkártyák
 autofill-manage-credit-cards-list-header = Bankkártyák
+autofill-manage-payment-methods-title = Mentett fizetési módok
+autofill-manage-cards-list-header = Kártyák
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Eltávolítás
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Címbeállítások
 address-capture-learn-more-button =
     .label = További tudnivalók
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Új cím hozzáadása
 address-capture-open-menu-button =
     .aria-label = Menü megnyitása
 address-capture-edit-address-button =
     .aria-label = Cím szerkesztése
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Új cím hozzáadása
+autofill-add-address-title = Cím hozzáadása
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Cím szerkesztése
 autofill-address-name = Név
@@ -126,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] A { -brand-short-name } bankkártyaadatokat akar megjeleníteni. Erősítse meg a hozzáférést az alábbi Windows-fiókhoz.
        *[other] A { -brand-short-name } bankkártyaadatokat akar megjeleníteni.
     }
+autofill-message-tooltip = Üzenet megtekintése az automatikus kitöltésről
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Kártya hozzáadása
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Kártya szerkesztése
 autofill-card-number = Kártyaszám
 autofill-card-invalid-number = Írjon be érvényes kártyaszámot
 autofill-card-name-on-card = Kártyán szereplő név

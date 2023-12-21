@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Váltás erre a lapra
 firefoxview-show-more = Több megjelenítése
 firefoxview-show-less = Kevesebb megjelenítése
+firefoxview-show-all = Összes megjelenítése
 firefoxview-search-text-box-clear-button =
     .title = Törlés
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Keresés
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Keresés előzményei

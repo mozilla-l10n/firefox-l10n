@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Könyvjelzők
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Kedvencek
 migration-logins-and-passwords-option-label = Mentett bejelentkezések és jelszavak
+migration-passwords-option-label = Mentett jelszavak
 migration-history-option-label = Böngészési előzmények
 migration-extensions-option-label = Kiegészítők
 migration-form-autofill-option-label = Adatok automatikus kitöltése
