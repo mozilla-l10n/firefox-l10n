@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Mentett bejelentkezés használata
     .accesskey = b
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Mentett jelszó használata
     .accesskey = j
@@ -306,6 +307,9 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins2 =
     .label = Bejelentkezések kezelése…
     .accesskey = B
+main-context-menu-manage-passwords =
+    .label = Jelszavak kezelése
+    .accesskey = k
 main-context-menu-keyword =
     .label = Kulcsszó hozzáadása a kereséshez…
     .accesskey = u

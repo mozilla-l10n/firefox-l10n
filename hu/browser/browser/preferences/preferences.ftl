@@ -612,6 +612,9 @@ search-suggestions-desc = Válassza ki, hogyan jelenjenek meg a keresőszolgált
 search-suggestions-option =
     .label = Keresési javaslatok
     .accesskey = K
+search-show-suggestions-option =
+    .label = Keresési javaslatok megjelenítése
+    .accesskey = m
 search-show-suggestions-url-bar-option =
     .label = Keresési javaslatok megjelenítése a címsáv találataiban
     .accesskey = K
@@ -745,8 +748,10 @@ sync-currently-syncing-bookmarks = Könyvjelzők
 sync-currently-syncing-history = Előzmények
 sync-currently-syncing-tabs = Nyitott lapok
 sync-currently-syncing-logins-passwords = Bejelentkezések és jelszavak
+sync-currently-syncing-passwords = Jelszavak
 sync-currently-syncing-addresses = Címek
 sync-currently-syncing-creditcards = Bankkártyák
+sync-currently-syncing-payment-methods = Fizetési módok
 sync-currently-syncing-addons = Kiegészítők
 sync-currently-syncing-settings = Beállítások
 sync-change-options =
@@ -777,6 +782,10 @@ sync-engine-logins-passwords =
     .label = Bejelentkezések és jelszavak
     .tooltiptext = Az Ön által mentett bejelentkezések és jelszavak
     .accesskey = j
+sync-engine-passwords =
+    .label = Jelszavak
+    .tooltiptext = A mentett jelszavak
+    .accesskey = J
 sync-engine-addresses =
     .label = Címek
     .tooltiptext = Mentett postai címek (csak asztali gépen)
@@ -785,6 +794,10 @@ sync-engine-creditcards =
     .label = Bankkártyák
     .tooltiptext = Nevek, számok és lejárati dátumok (csak asztali gépen)
     .accesskey = B
+sync-engine-payment-methods2 =
+    .label = Fizetési módok
+    .tooltiptext = Nevek, kártyaszámok és lejárati dátumok
+    .accesskey = F
 sync-engine-addons =
     .label = Kiegészítők
     .tooltiptext = Kiegészítők és témák az asztali Firefoxhoz
@@ -831,18 +844,35 @@ pane-privacy-logins-and-passwords-header = Bejelentkezések és jelszavak
 forms-ask-to-save-logins =
     .label = Felhasználónevek és jelszavak megjegyzésének megkérdezése az oldalakhoz
     .accesskey = k
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Jelszavak
+    .searchkeywords = bejelentkezések
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Jelszavak mentésének megkérdezése
+    .accesskey = k
 forms-exceptions =
     .label = Kivételek…
     .accesskey = v
 forms-generate-passwords =
     .label = Erős jelszavak javaslata az előállítása
     .accesskey = j
+forms-suggest-passwords =
+    .label = Erős jelszó javaslata
+    .accesskey = E
 forms-breach-alerts =
     .label = Figyelmeztetések megjelenítése a feltört webhelyek jelszavaival kapcsolatban
     .accesskey = f
 forms-breach-alerts-learn-more-link = További tudnivalók
 preferences-relay-integration-checkbox =
     .label = A { -relay-brand-name } e-mail-maszkok javaslása az e-mail-címének védelme érdekében
+preferences-relay-integration-checkbox2 =
+    .label = A { -relay-brand-name } e-mail-maszkok javaslása az e-mail-címének védelme érdekében
+    .accesskey = r
 relay-integration-learn-more-link = További tudnivalók
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -850,6 +880,13 @@ forms-fill-logins-and-passwords =
     .accesskey = i
 forms-saved-logins =
     .label = Mentett bejelentkezések…
+    .accesskey = t
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Felhasználónevek és jelszavak automatikus kitöltése
+    .accesskey = t
+forms-saved-passwords =
+    .label = Mentett jelszavak
     .accesskey = t
 forms-primary-pw-use =
     .label = Elsődleges jelszó használata
@@ -874,6 +911,7 @@ forms-windows-sso =
     .label = Lehetővé teszi a Windows egyszeri bejelentkezésének használatát a microsoftos, munkahelyi és iskolai fiókok számára
 forms-windows-sso-learn-more-link = További tudnivalók
 forms-windows-sso-desc = Fiókok kezelése az eszközbeállításokban
+windows-passkey-settings-label = A jelkulcsok kezelése a rendszerbeállításokban
 
 ## OS Authentication dialog
 
@@ -885,6 +923,28 @@ primary-password-os-auth-dialog-message-win = Elsődleges jelszó létrehozásá
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = elsődleges jelszó létrehozása
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Automatikus kitöltés
+autofill-addresses-checkbox = Címek mentése és kitöltése
+    .accesskey = l
+autofill-saved-addresses-button = Mentett címek
+    .accesskey = c
+autofill-payment-methods-checkbox-message = Fizetési módok mentése és kitöltése
+    .accesskey = d
+autofill-payment-methods-checkbox-submessage = Hitel- és bankkártyák belevétele
+    .accesskey = b
+autofill-saved-payment-methods-button = Mentett fizetési módok
+    .accesskey = z
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] MacOS-hitelesítés megkövetelése a kitöltéshez és a fizetési módok szerkesztéséhez.
+        [windows] Windows-hitelesítés megkövetelése a kitöltéshez és a fizetési módok szerkesztéséhez.
+        [linux] Linux-hitelesítés megkövetelése a kitöltéshez és a fizetési módok szerkesztéséhez.
+       *[other] Hitelesítés megkövetelése a kitöltéshez és a fizetési módok szerkesztéséhez.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
