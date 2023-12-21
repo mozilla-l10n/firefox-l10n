@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = A jelentés elküldve
     .title = A jelentés elküldve
 report-broken-site-panel-report-sent-text = Köszönjük, hogy segít a { -brand-product-name }nak, hogy az internet nyíltabb, hozzáférhetőbb és jobb legyen mindenki számára.
+report-broken-site-panel-invalid-url-label = Írjon be egy érvényes webcímet
+report-broken-site-panel-missing-reason-label = Válasszon egy okot

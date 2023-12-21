@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Helytelen PIN-kód. Próbálja meg újra.
 webauthn-pin-required-prompt = Adja meg az eszköze PIN-kódját.
 webauthn-select-sign-result-unknown-account = Ismeretlen fiók
+webauthn-a-passkey-label = Jelkulcs használata
+webauthn-another-passkey-label = Másik jelkulcs használata
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Jelkulcs a következőhöz: { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
