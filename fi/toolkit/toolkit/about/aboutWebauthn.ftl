@@ -35,6 +35,7 @@ about-webauthn-results-pin-invalid-error =
     }
 about-webauthn-results-pin-too-short-error = Virhe: Annettu PIN on liian lyhyt.
 about-webauthn-results-pin-too-long-error = Virhe: Annettu PIN on liian pitkä.
+about-webauthn-results-pin-auth-blocked-error = Virhe: epäonnistuneita yrityksiä oli liian monta peräkkäin ja PIN-todennus on väliaikaisesti estetty. Laitteesi tarvitsee virrankatkaisun (irrota laite ja aseta se uudelleen).
 about-webauthn-results-cancelled-by-user-error = Virhe: Käyttäjä on perunut toiminnon.
 
 ## Labels

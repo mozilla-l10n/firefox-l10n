@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Salli Windowsin kertakirjautuminen Microsoft-, työ- ja koulutileille.
 forms-windows-sso-learn-more-link = Lisätietoja
 forms-windows-sso-desc = Hallinnoi tilejä laitteen asetuksissa
+windows-passkey-settings-label = Hallitse todentamisavaimia järjestelmän asetuksissa
 
 ## OS Authentication dialog
 
