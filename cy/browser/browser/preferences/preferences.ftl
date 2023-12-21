@@ -927,6 +927,7 @@ forms-windows-sso =
     .label = Caniatáu mewngofnodiad unigol cyfrifon Microsoft, gwaith ac ysgol.
 forms-windows-sso-learn-more-link = Darllen rhagor
 forms-windows-sso-desc = Rheoli cyfrifon yn eich gosodiadau dyfais
+windows-passkey-settings-label = Rheoli cyfrinallweddi o fewn gosodiadau system
 
 ## OS Authentication dialog
 
