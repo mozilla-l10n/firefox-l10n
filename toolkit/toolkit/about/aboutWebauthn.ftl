@@ -25,6 +25,14 @@ about-webauthn-text-not-available = Ei saatavilla tällä alustalla.
 
 about-webauthn-results-success = Onnistui!
 about-webauthn-results-general-error = Virhe!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Virhe: Väärä PIN-koodi. Yritä uudelleen.
+        [one] Virhe: Väärä PIN-koodi. Yritä uudelleen. Sinulla on yksi yritys jäljellä.
+       *[other] Virhe: Väärä PIN-koodi. Yritä uudelleen. Sinulla on { $retriesLeft } yritystä jäljellä.
+    }
 about-webauthn-results-pin-too-short-error = Virhe: Annettu PIN on liian lyhyt.
 about-webauthn-results-pin-too-long-error = Virhe: Annettu PIN on liian pitkä.
 about-webauthn-results-cancelled-by-user-error = Virhe: Käyttäjä on perunut toiminnon.
@@ -51,6 +59,8 @@ about-webauthn-delete-button = Poista
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
 about-webauthn-auth-option-setminpinlength = Aseta PIN-koodin vähimmäispituus
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential ilman käyttäjän vahvistusta
 about-webauthn-auth-option-alwaysuv = Vaadi aina käyttäjän vahvistus
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
@@ -62,6 +72,7 @@ about-webauthn-auth-option-null = Ei tuettu
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-firmware-version = Laiteohjelmiston versio
 about-webauthn-auth-info-min-pin-length = PIN-koodin vähimmäispituus
 about-webauthn-auth-info-force-pin-change = Pakota PIN-koodin vaihto
 about-webauthn-auth-info-max-ser-large-blob-array = Suuren blob-taulukon enimmäiskoko

@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Tallennetaanko sivuston { $host } salasana?
+password-manager-save-password-button-deny =
+    .label = Ei nyt
+    .accesskey = n
 password-manager-save-password-button-allow =
     .label = Tallenna
     .accesskey = T
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Päivitetäänkö sivuston { $host } salasana?
+password-manager-update-password-button-delete =
+    .label = Poista tallennettu salasana
+    .accesskey = s
 password-manager-update-login-add-username = Lisätäänkö käyttäjätunnus tallennettuun salasanaan?
 password-manager-password-password-button-allow =
     .label = Päivitä

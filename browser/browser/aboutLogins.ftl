@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Tuo toisesta selaimesta
 about-logins-menu-menuitem-import-from-a-file = Tuo tiedostosta…
 about-logins-menu-menuitem-export-logins = Vie kirjautumistiedot…
 about-logins-menu-menuitem-remove-all-logins = Poista kaikki kirjautumistiedot…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Vie salasanat…
 about-logins-menu-menuitem-remove-all-logins2 = Poista kaikki salasanat…
 menu-menuitem-preferences = Asetukset
 about-logins-menu-menuitem-help = Ohje
@@ -103,6 +103,8 @@ about-logins-login-intro-heading-logged-out2 = Etsitkö tallennettuja kirjautumi
 about-logins-login-intro-heading-logged-in = Synkronoituja kirjautumistietoja ei löytynyt.
 login-intro-description = Jos tallensit kirjautumistietosi { -brand-product-name }-selaimeen toisella laitteella, saat ne käyttöön seuraavasti:
 login-intro-instructions-fxa = Kirjaudu { -fxaccount-brand-name(case: "allative") } tai luo tili laitteella, jolle kirjautumistietosi on tallennettu.
+about-logins-login-intro-heading-message = Tallenna salasanasi turvalliseen paikkaan
+login-intro-description2 = Kaikki { -brand-product-name }iin tallentamasi salasanat ovat salattuja. Lisäksi tarkkailemme tietovuotoja ja ilmoitamme sinulle, jos joudut osalliseksi tietovuodossa. <a data-l10n-name="breach-alert-link">Lisätietoja</a>
 login-intro-instructions-fxa2 = Luo tili tai kirjaudu sisään laitteella, johon kirjautumistietosi on tallennettu.
 login-intro-instructions-fxa-settings = Avaa Asetukset > Synkronointi > Ota synkronointi käyttöön… Valitse valintaruutu ”Käyttäjätunnukset ja salasanat”.
 login-intro-instructions-fxa-passwords-help = Käy <a data-l10n-name="passwords-help-link">salasanatuessa</a> saadaksesi lisätietoja.
@@ -256,6 +258,11 @@ about-logins-confirm-remove-all-dialog-title2 =
 about-logins-confirm-export-dialog-title = Vie kirjautumistiedot ja salasanat
 about-logins-confirm-export-dialog-message = Salasanasi tallennetaan luettavaan muotoon (esim. hu0n0s4l4s4n4), joten kuka tahansa viedyn tiedoston avaamiseen kykenevä voi nähdä salasanat.
 about-logins-confirm-export-dialog-confirm-button = Vie…
+about-logins-confirm-export-dialog-title2 = Huomautus salasanojen viemisestä
+about-logins-confirm-export-dialog-message2 =
+    Kun viet salasanat, ne tallennetaan tiedostoon, joka on luettavissa olevaa tekstiä.
+    Kun olet lopettanut tiedoston käytön, suosittelemme sen poistamista, jotta muut tämän laitteen käyttäjät eivät näe salasanojasi.
+about-logins-confirm-export-dialog-confirm-button2 = Jatka vientiä
 about-logins-alert-import-title = Tuonti valmis
 about-logins-alert-import-message = Näytä tuonnin yksityiskohtainen erittely
 confirm-discard-changes-dialog-title = Hylätäänkö tallentamattomat muutokset?
@@ -297,6 +304,11 @@ about-logins-export-file-picker-title = Vie kirjautumistietojen tiedosto
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = kirjautumistiedot.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Vie salasanat { -brand-short-name }ista
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = salasanat.csv
 about-logins-export-file-picker-export-button = Vie
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
