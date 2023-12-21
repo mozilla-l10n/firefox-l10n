@@ -57,6 +57,8 @@ about-webauthn-confirm-deletion-label = Olet poistamassa:
 
 about-webauthn-current-set-pin-button = Aseta PIN-koodi
 about-webauthn-current-change-pin-button = Vaihda PIN-koodi
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Listaa kirjautumistiedot
 about-webauthn-cancel-button = Peruuta
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Poista
