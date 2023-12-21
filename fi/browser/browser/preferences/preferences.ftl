@@ -794,6 +794,10 @@ sync-engine-creditcards =
     .label = Luottokortit
     .tooltiptext = Nimet, numerot ja vanheneminen (vain Firefoxin työpöytäversiossa)
     .accesskey = u
+sync-engine-payment-methods2 =
+    .label = Maksutavat
+    .tooltiptext = Nimet, korttinumerot ja vanhenemispäivät
+    .accesskey = M
 sync-engine-addons =
     .label = Lisäosat
     .tooltiptext = Firefoxin työpöytäversion laajennukset ja teemat
@@ -866,6 +870,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Lue lisää
 preferences-relay-integration-checkbox =
     .label = Ehdota { -relay-brand-name }-sähköpostimaskeja sähköpostiosoitteen suojaamiseksi
+preferences-relay-integration-checkbox2 =
+    .label = Ehdota { -relay-brand-name } -sähköpostimaskeja sähköpostiosoitteen suojaamiseksi
+    .accesskey = h
 relay-integration-learn-more-link = Lue lisää
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -874,6 +881,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Tallennetut kirjautumistiedot…
     .accesskey = k
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Täytä käyttäjätunnukset ja salasanat automaattisesti
+    .accesskey = ä
 forms-saved-passwords =
     .label = Tallennetut salasanat
     .accesskey = s
@@ -915,8 +926,24 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Automaattinen täyttö
+autofill-addresses-checkbox = Tallenna ja täytä osoitteet
+    .accesskey = a
 autofill-saved-addresses-button = Tallennetut osoitteet
     .accesskey = s
+autofill-payment-methods-checkbox-message = Tallenna ja täytä maksutavat
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Sisältää luotto- ja pankkikortit
+    .accesskey = l
+autofill-saved-payment-methods-button = Tallennetut maksutavat
+    .accesskey = v
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Vaadi macOS-tunnistautuminen maksutapojen täyttämiseksi ja muokkaamiseksi.
+        [windows] Vaadi Windows-tunnistautuminen maksutapojen täyttämiseksi ja muokkaamiseksi.
+        [linux] Vaadi Linux-tunnistautuminen maksutapojen täyttämiseksi ja muokkaamiseksi.
+       *[other] Vaadi tunnistautuminen maksutapojen täyttämiseksi ja muokkaamiseksi.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
