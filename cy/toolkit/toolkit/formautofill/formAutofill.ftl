@@ -14,3 +14,4 @@ autofill-use-payment-method-os-prompt-other = Mae { -brand-short-name } yn ceisi
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-payment-method-os-prompt-macos = dangos manylion dull talu wedi'i storio
 autofill-edit-payment-method-os-prompt-windows = Mae { -brand-short-name } yn ceisio dangos manylion dull talu sydd wedi'i storio. Cadarnhewch fynediad i'r cyfrif Windows hwn isod.
+autofill-edit-payment-method-os-prompt-other = Mae { -brand-short-name } yn ceisio dangos manylion dull talu sydd wedi'i storio.
