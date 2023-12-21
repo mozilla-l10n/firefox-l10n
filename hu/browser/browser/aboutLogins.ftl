@@ -286,12 +286,21 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Eltávolít { $count } jelszót az összes eszközről?
        *[other] Eltávolítja mind a(z) { $count } jelszót az összes eszközről?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Ez eltávolítja a { -brand-short-name }ba mentett jelszavakat az összes szinkronizált eszközéről. Ez eltávolítja az összes, itt megjelenő adatvédelmi incidensről szóló figyelmeztetést is. Ez a művelet nem vonható vissza.
+        [one] Ez eltávolítja a { -brand-short-name }ba mentett jelszavakat az összes szinkronizált eszközéről. Ez eltávolítja az összes, itt megjelenő adatvédelmi incidensről szóló figyelmeztetést is. Ez a művelet nem vonható vissza.
+       *[other] Ez eltávolítja a { -brand-short-name }ba mentett összes jelszót az összes szinkronizált eszközéről. Ez eltávolítja az összes, itt megjelenő adatvédelmi incidensről szóló figyelmeztetést is. Ez a művelet nem vonható vissza.
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Bejelentkezések és jelszavak exportálása
 about-logins-confirm-export-dialog-message = A jelszavai olvasható szövegként lesznek mentve (például R0sszJel$zó), így bárki megtekintheti, aki meg tudja nyitni az exportált fájlt.
 about-logins-confirm-export-dialog-confirm-button = Exportálás…
+about-logins-confirm-export-dialog-title2 = Megjegyzés a jelszavak exportálásáról
+about-logins-confirm-export-dialog-confirm-button2 = Folytatás az exportálással
 about-logins-alert-import-title = Importálás kész
 about-logins-alert-import-message = Részletes importálási összefoglaló megtekintése
 confirm-discard-changes-dialog-title = Elveti a mentetlen módosításokat?
@@ -333,6 +342,11 @@ about-logins-export-file-picker-title = Bejelentkezéseket tartalmazó fájl exp
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Jelszavak exportálása a { -brand-short-name }ból
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = jelszavak.csv
 about-logins-export-file-picker-export-button = Exportálás
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -346,6 +360,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Bejelentkezéseket tartalmazó fájl importálása
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Jelszavak importálása a { -brand-short-name }ba
 about-logins-import-file-picker-import-button = Importálás
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -381,6 +397,21 @@ about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Ismétlődő bejelentkezés található:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nem lett importálva)</span>
        *[other] <span>Ismétlődő bejelentkezések találhatók:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nem lett importálva)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Új jelszavak hozzáadva:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Új jelszavak hozzáadva:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Meglévő bejegyzések frissítve:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Meglévő bejegyzések frissítve:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Ismétlődő bejegyzések találhatók:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nem lett importálva)</span>
+       *[other] <span>Ismétlődő bejegyzések találhatók:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nem lett importálva)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
