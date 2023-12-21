@@ -29,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Uvozi iz drugega brskal
 about-logins-menu-menuitem-import-from-a-file = Uvozi iz datoteke …
 about-logins-menu-menuitem-export-logins = Izvozi prijave …
 about-logins-menu-menuitem-remove-all-logins = Odstrani vse prijave …
+about-logins-menu-menuitem-export-logins2 = Izvozi gesla ...
 about-logins-menu-menuitem-remove-all-logins2 = Odstrani vsa gesla …
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -89,7 +90,7 @@ login-list-last-changed-option = Času zadnje spremembe
 login-list-last-used-option = Času zadnje uporabe
 login-list-intro-title = Ni prijav
 login-list-intro-title2 = Ni shranjenih gesel
-login-list-intro-description = Ko geslo shranite v { -brand-product-name }, se bo prikazalo tukaj.
+login-list-intro-description = Gesla, ki jih shranite v { -brand-product-name }, se prikažejo tukaj.
 about-logins-login-list-empty-search-title = Ni prijav
 about-logins-login-list-empty-search-title2 = Ni najdenih gesel
 about-logins-login-list-empty-search-description = Ni rezultatov, ki bi ustrezali vašemu iskanju.
@@ -114,6 +115,7 @@ about-logins-login-intro-heading-logged-out2 = Iščete svoje shranjene prijave?
 about-logins-login-intro-heading-logged-in = Ni najdenih sinhroniziranih prijav.
 login-intro-description = Če ste svoje prijave shranili v { -brand-product-name } v drugi napravi, jih lahko prenesete sem, tako da:
 login-intro-instructions-fxa = Ustvarite { -fxaccount-brand-name(capitalization: "sentence") } ali se prijavite na napravi, na kateri so shranjene vaše prijave.
+about-logins-login-intro-heading-message = Shranite si gesla na varno mesto
 login-intro-instructions-fxa2 = Ustvarite račun ali se prijavite na napravi, kjer so shranjene vaše prijave.
 login-intro-instructions-fxa-settings = Pojdite v Nastavitve > Sinhronizacija > Vklopi sinhronizacijo … in označite Prijave in gesla.
 login-intro-instructions-fxa-passwords-help = Za dodatno pomoč obiščite <a data-l10n-name="passwords-help-link">podporo za gesla</a>.
@@ -206,6 +208,8 @@ confirmation-dialog-dismiss-button =
     .title = Prekliči
 about-logins-confirm-remove-dialog-title = Odstranim to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Tega dejanja ne boste mogli razveljaviti.
 about-logins-confirm-remove-dialog-confirm-button = Odstrani
 
 ## Variables
@@ -264,12 +268,33 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [few] S tem boste odstranili vse prijave, ki ste jih shranili v { -brand-short-name(sklon: "tozilnik") }, na vseh napravah, sinhroniziranih z vašim računom. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
        *[other] S tem boste odstranili vse prijave, ki ste jih shranili v { -brand-short-name(sklon: "tozilnik") }, na vseh napravah, sinhroniziranih z vašim računom. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [one] Da, odstrani geslo
+        [two] Da, odstrani gesli
+        [few] Da, odstrani gesla
+       *[other] Da, odstrani gesla
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [one] S tem boste odstranili geslo, shranjeno v { -brand-short-name(sklon: "tozilnik") }, na vseh sinhroniziranih napravah. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
+        [two] S tem boste odstranili vsa gesla, shranjena v { -brand-short-name(sklon: "tozilnik") }, na vseh sinhroniziranih napravah. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
+        [few] S tem boste odstranili vsa gesla, shranjena v { -brand-short-name(sklon: "tozilnik") }, na vseh sinhroniziranih napravah. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
+       *[other] S tem boste odstranili vsa gesla, shranjena v { -brand-short-name(sklon: "tozilnik") }, na vseh sinhroniziranih napravah. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Izvozite prijave in gesla
 about-logins-confirm-export-dialog-message = Vaša gesla bodo shranjena kot berljivo besedilo (npr. Sl@boG3slo), zato bodo vidna vsakomur, ki bo lahko odprl izvoženo datoteko.
 about-logins-confirm-export-dialog-confirm-button = Izvozi …
+about-logins-confirm-export-dialog-title2 = Opomba o izvažanju gesel
+about-logins-confirm-export-dialog-message2 =
+    Izvoz shrani gesla v datoteko z berljivim besedilom.
+    Ko datoteke ne boste več potrebovali, da jo izbrišete, da drugi, ki uporabljajo to napravo, ne bi videli vaših gesel.
+about-logins-confirm-export-dialog-confirm-button2 = Nadaljuj z izvozom
 about-logins-alert-import-title = Uvoz dokončan
 about-logins-alert-import-message = Prikaži podroben povzetek uvoza
 confirm-discard-changes-dialog-title = Zavržem neshranjene spremembe?
@@ -311,6 +336,11 @@ about-logins-export-file-picker-title = Izvozi datoteko s prijavami
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = prijave.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Izvozi gesla iz { -brand-short-name(sklon: "rodilnik") }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = gesla.csv
 about-logins-export-file-picker-export-button = Izvozi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
