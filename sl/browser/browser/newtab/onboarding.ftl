@@ -168,7 +168,7 @@ mr2022-onboarding-easy-setup-primary-button-label = Shrani in nadaljuj
 # Set Default action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-set-default-checkbox-label = Nastavi { -brand-short-name(sklon: "tozilnik") } kot privzeti brskalnik
 # Import action checkbox label used on new user onboarding first screen
-mr2022-onboarding-easy-setup-import-checkbox-label = Uvozi iz prejšnjega brskalnika
+mr2022-onboarding-easy-setup-import-checkbox-label = Uvozi podatke iz prejšnjega brskalnika
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -336,6 +336,7 @@ onboarding-device-migration-primary-button-label = Prijava
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Z veseljem skrbimo za vašo varnost
+onboarding-easy-setup-security-and-privacy-subtitle = Naš neprofitni brskalnik preprečuje podjetjem, da bi vas skrivaj spremljala po spletu.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Ostanite šifrirani pri skakanju z naprave na napravo
 # Gratitude screen

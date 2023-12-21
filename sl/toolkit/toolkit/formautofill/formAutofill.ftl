@@ -5,3 +5,5 @@
 
 ## OS Prompt Dialog
 
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } poskuša prikazati shranjene podatke o načinu plačila. Spodaj potrdite dostop do tega računa Windows.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } poskuša prikazati shranjene podatke o načinu plačila.
