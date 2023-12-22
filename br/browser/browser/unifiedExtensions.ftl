@@ -20,22 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Digeriñ lañser { $extensionName }
-
 unified-extensions-item-message-manage = Merañ an askouezh
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Spilhennañ er varrenn ostilhoù
-
 unified-extensions-context-menu-manage-extension =
     .label = Merañ an askouezh
-
 unified-extensions-context-menu-remove-extension =
     .label = Dilemel an askouezh
-
 unified-extensions-context-menu-report-extension =
     .label = Danevelliñ an askouezh
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-learn-more = Gouzout hiroc’h
+    .aria-label = Gouzout hiroc’h: Lod askouezhioù zo ha n’int ket aotreet

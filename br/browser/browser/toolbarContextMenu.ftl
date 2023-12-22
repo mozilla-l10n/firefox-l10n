@@ -57,6 +57,9 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Personelaat…
     .accesskey = P
+toolbar-context-menu-view-customize-toolbar-2 =
+    .label = Personelaat ar varrenn ostilhoù…
+    .accesskey = P
 # This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
 # is hidden, so they can share access keys.
 toolbar-context-menu-pin-to-toolbar =

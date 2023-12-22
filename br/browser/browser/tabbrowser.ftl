@@ -86,6 +86,18 @@ tabbrowser-confirm-close-tabs-button = Serriñ an ivinelloù
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title =
+    { $windowCount ->
+        [one] Serriñ { $tabCount } prenestr?
+        [two] Serriñ { $tabCount } brenestr?
+        [few] Serriñ { $tabCount } frenestr?
+        [many] Serriñ { $tabCount } a brenestroù?
+       *[other] Serriñ { $tabCount } prenestr?
+    }
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
         [windows] Serriñ ha kuitaat
@@ -164,3 +176,5 @@ tabbrowser-manager-mute-tab =
     .tooltiptext = Mudañ an ivinell
 tabbrowser-manager-unmute-tab =
     .tooltiptext = Divudañ an ivinell
+tabbrowser-manager-close-tab =
+    .tooltiptext = Serriñ an ivinell

@@ -71,6 +71,7 @@ translations-panel-error-load-languages-hint-button =
     .label = Klask en-dro
 translations-panel-error-dismiss-button =
     .label = Komprenet
+translations-panel-error-unsupported-hint-unknown = Digarezit, n’eo ket skoret ar yezh-se c’hoazh.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -120,8 +121,14 @@ translations-settings-languages-column =
 translations-settings-remove-language-button =
     .label = Dilemel ar yezh
     .accesskey = r
+translations-settings-remove-all-languages-button =
+    .label = Lemel an holl yezhoù
+    .accesskey = y
 translations-settings-sites-column =
     .label = Lec'hiennoù
+translations-settings-remove-site-button =
+    .label = Lemel al lec’hienn
+    .accesskey = L
 translations-settings-remove-all-sites-button =
     .label = Dilemel an holl lec'hiennoù
     .accesskey = m
