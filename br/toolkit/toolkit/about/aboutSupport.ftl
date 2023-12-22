@@ -79,6 +79,7 @@ show-dir-label =
        *[other] Digeriñ ar c'havlec'h
     }
 environment-variables-name = Anv
+experimental-features-name = Anv
 modified-key-prefs-title = Gwellvezioù pouezus kemmet
 modified-prefs-name = Anv
 modified-prefs-value = Gwerzh
@@ -144,6 +145,12 @@ media-device-rate = Feur
 media-device-latency = Dale
 
 ## Codec support table
+
+media-codec-support-lack-of-extension = Staliañ an askouezh
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
 
 
 ##
@@ -335,9 +342,13 @@ policies-error = Fazi
 
 ## Printing section
 
+support-printing-prefs-name = Anv
 
 ## Normandy sections
 
+support-remote-experiments-name = Anv
+support-remote-features-name = Anv
 
 ## Pointing devices
 
+pointing-device-mouse = Logodenn

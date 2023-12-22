@@ -57,4 +57,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Pajennad diwezhañ
-
+printpreview-homearrow-button =
+    .title = Pajenn gentañ
+printpreview-previousarrow-button =
+    .title = Pajenn gent
+printpreview-nextarrow-button =
+    .title = Pajenn da-heul
+printpreview-endarrow-button =
+    .title = Pajenn diwezhañ

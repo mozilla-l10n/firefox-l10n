@@ -67,4 +67,4 @@ pictureinpicture-seekforward-btn =
 pictureinpicture-subtitles-label = Istitloù
 pictureinpicture-font-size-small = Bihan
 pictureinpicture-font-size-medium = Krenn
-pictureinpicture-font-size-large = Braz
+pictureinpicture-font-size-large = Bras

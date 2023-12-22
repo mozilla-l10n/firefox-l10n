@@ -6,6 +6,7 @@ about-networking-title = A-zivout ar rouedad
 about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
+about-networking-dns-trr-url = URL DoH
 about-networking-websockets = WebSockets
 about-networking-refresh = Azbevaat
 about-networking-auto-refresh = Azbevaat ent emgefreek pep 3 eilenn

@@ -158,6 +158,7 @@ language-name-ro = Roumaneg
 language-name-ru = Rusianeg
 language-name-rw = Kinyarwanda
 language-name-sa = Sanskriteg
+language-name-sat = Santalieg
 language-name-sc = Sardeg
 language-name-sco = Skoseg
 language-name-sd = Sindhi
