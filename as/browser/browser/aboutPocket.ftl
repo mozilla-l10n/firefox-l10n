@@ -12,7 +12,7 @@
 pocket-panel-saved-add-tags =
     .placeholder = টেগ যোগ কৰক
 pocket-panel-saved-error-generic = { -pocket-brand-name }-ত সাঁচি থ'বলৈ চেষ্টা কৰোঁতে কিবা ত্ৰুটি ঘটিছে।
-pocket-panel-saved-error-tag-length = টেগসমূহ 25টা বৰ্ণত সীমাবদ্ধ
+pocket-panel-saved-error-tag-length = টেগবোৰ 25টা বৰ্ণত সীমাবদ্ধ
 pocket-panel-saved-error-only-links = কেৱল লিংক সাঁচি থ'ব পাৰি
 pocket-panel-saved-error-not-saved = পৃষ্ঠা সাঁচি থোৱা হোৱা নাই
 pocket-panel-saved-error-no-internet = { -pocket-brand-name }-ত সাঁচি থ'বলৈ আপুনি ইণ্টাৰনেটৰ সৈতে সংযোগ কৰিবই লাগিব। অনুগ্ৰহ কৰি ইণ্টাৰনেটৰ সৈতে সংযোগ কৰি পুনৰ চেষ্টা কৰক।
