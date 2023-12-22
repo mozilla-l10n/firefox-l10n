@@ -10,6 +10,9 @@ search-header =
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
+list-empty-get-extensions-message = Kit da dapout askouezhioù ha neuzioù war <a data-l10n-name="get-extensions"></a>
+list-empty-get-dictionaries-message = Kit da dapout geriadurioù war <a data-l10n-name="get-extensions"></a>
+list-empty-get-language-packs-message = Kit da dapout pakadoù yezh war <a data-l10n-name="get-extensions"></a>
 
 ##
 
@@ -265,6 +268,7 @@ install-theme-button = Staliañ an tem
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Merañ
 find-more-addons = Kavout askouezhioù ouzhpenn
+find-more-themes = Kaout muioc’h a neuzioù
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -293,6 +297,7 @@ permissions-addon-button = Aotreoù
 extension-enabled-heading = Gweredekaet
 extension-disabled-heading = Diweredekaet
 theme-enabled-heading = Gweredekaet
+theme-disabled-heading2 = Neuzioù enrollet
 plugin-enabled-heading = Gweredekaet
 plugin-disabled-heading = Diweredekaet
 dictionary-enabled-heading = Gweredekaet
@@ -308,6 +313,11 @@ addon-detail-version-label = Handelv
 addon-detail-last-updated-label = Hizivaet da ziwezhañ
 addon-detail-homepage-label = Pennbajenn
 addon-detail-rating-label = Notenn
+# Message for add-ons with a staged pending update.
+install-postponed-message = Hizivaet e vo an askouezh-mañ pa adloc’ho { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Hizivaet e vo an askouezh-mañ pa adloc’ho { -brand-short-name }.
 install-postponed-button = Hizivaat bremañ
 # The average rating that the add-on has received.
 # Variables:
@@ -413,6 +423,7 @@ details-notification-incompatible = Digeverlec’h eo { $name } gant { -brand-sh
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = Digeverlec’h eo { $name } gant { -brand-short-name } { $version }.
+details-notification-incompatible-link = Muioc’h a ditouroù
 details-notification-unsigned-and-disabled = N'haller ket gwiriekaat arver { $name } e { -brand-short-name } ha diweredekaet eo bet.
 details-notification-unsigned-and-disabled2 =
     .message = N'haller ket gwiriekaat arver { $name } e { -brand-short-name } ha diweredekaet eo bet.
