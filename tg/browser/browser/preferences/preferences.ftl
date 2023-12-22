@@ -850,6 +850,10 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Ниҳонвожаҳо
     .searchkeywords = воридшавиҳо
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Дархост барои нигоҳ доштани ниҳонвожаҳо
+    .accesskey = р
 forms-exceptions =
     .label = Истисноҳо…
     .accesskey = И
