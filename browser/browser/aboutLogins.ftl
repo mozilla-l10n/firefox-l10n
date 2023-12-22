@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Flytja inn úr öðrum 
 about-logins-menu-menuitem-import-from-a-file = Flytja inn úr skrá...
 about-logins-menu-menuitem-export-logins = Flytja út innskráningar...
 about-logins-menu-menuitem-remove-all-logins = Fjarlægja allar innskráningar...
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Flytja út lykilorð...
 about-logins-menu-menuitem-remove-all-logins2 = Fjarlægja öll lykilorð…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Ertu að leita að vistuðum inns
 about-logins-login-intro-heading-logged-in = Engar samstilltar innskráningar fundust.
 login-intro-description = Ef þú vistaðir innskráningar þínar á { -brand-product-name } á öðru tæki, muntu geta náð í þær svona:
 login-intro-instructions-fxa = Búðu til eða skráðu þig inn á { -fxaccount-brand-name } á tækinu þar sem innskráningar þínar eru vistaðar.
+about-logins-login-intro-heading-message = Vistaðu lykilorðin þín á öruggum stað
 login-intro-instructions-fxa2 = Búðu til eða skráðu þig inn á reikninginn þinn á tækinu þar sem innskráningar þínar eru vistaðar.
 login-intro-instructions-fxa-settings = Farðu í Stillingar > Samstilling > Kveikja á samstillingu... Veldu gátreitinn fyrir innskráningar og lykilorð.
 login-intro-instructions-fxa-passwords-help = Farðu í <a data-l10n-name="passwords-help-link">aðstoð fyrir lykilorð</a> til að fá frekari hjálp.
@@ -296,6 +297,8 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Flytja út innskráningar og lykilorð
 about-logins-confirm-export-dialog-message = Lykilorðin þín verða vistuð sem læsilegur texti (t.d. BadP@ssw0rd) svo allir sem geta opnað útfluttu skrána geta skoðað þau.
 about-logins-confirm-export-dialog-confirm-button = Flytja út…
+about-logins-confirm-export-dialog-title2 = Athugasemd um útflutning lykilorða
+about-logins-confirm-export-dialog-confirm-button2 = Halda áfram með útflutning
 about-logins-alert-import-title = Innflutningi lokið
 about-logins-alert-import-message = Skoða nákvæmt innflutningsyfirlit
 confirm-discard-changes-dialog-title = Henda óvistuðum breytingum?
@@ -337,6 +340,11 @@ about-logins-export-file-picker-title = Flytja út skrá með innskráningum
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = innskraningar.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Flytja út lykilorð frá { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = lykilorð.csv
 about-logins-export-file-picker-export-button = Flytja út
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
