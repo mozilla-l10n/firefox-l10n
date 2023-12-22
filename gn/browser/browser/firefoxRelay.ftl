@@ -9,12 +9,12 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 firefox-relay-mask-generation-failed = { -relay-brand-name } ndojejapói tovamo’ãha pyahu. HTTP ayvu jejavy: { $status }.
-firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ndojuhúi tovamo’ãha pyahu. HTTP ayvu jejavy: { $status }
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ndojuhúi tovamo’ãha pyahu. HTTP ayvu jejavy: { $status }.
 
 ##
 
 firefox-relay-must-login-to-fxa = Emoñepyrũ tembiapo { -fxaccount-brand-name }-pe eiporu hag̃ua { -relay-brand-name }.
-firefox-relay-must-login-to-account = Eñepyrũ tembiapo ne mba’etépe eiporu hag̃ua ne ñanduti veve rovamo’ãha { -relay-brand-name }.
+firefox-relay-must-login-to-account = Eñepyrũ tembiapo mba’etépe eiporu hag̃ua ñanduti veve rovamo’ãha { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Eñangareko tovamo’ãháre
     .accesskey = M
@@ -28,7 +28,7 @@ firefox-relay-opt-in-confirmation-enable-button =
     .label = Eiporu ñanduti veve rovamo’ãha
     .accesskey = U
 firefox-relay-opt-in-confirmation-disable =
-    .label = Anive ehechauka
+    .label = Anivetéke ehechauka
     .accesskey = D
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ani ko’ág̃a
