@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Microsoft, жұмыс және мектеп есептік жазбаларына Windows дара кіруін рұқсат ету
 forms-windows-sso-learn-more-link = Көбірек білу
 forms-windows-sso-desc = Тіркелгілерді құрылғыңыздың баптауларында басқарыңыз
+windows-passkey-settings-label = Қол жеткізу кілттерін жүйе баптауларында басқару
 
 ## OS Authentication dialog
 
