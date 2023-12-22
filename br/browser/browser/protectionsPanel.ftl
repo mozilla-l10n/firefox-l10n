@@ -67,7 +67,6 @@ protections-panel-not-found-label = Hini ebet dinoet
 ##
 
 protections-panel-settings-label = Arventennoù gwarez
-# This should match the "appmenuitem-protection-dashboard-title" string in browser/appmenu.ftl.
 protections-panel-protectionsdashboard-label = Taolenn-stur ar gwarezioù
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -81,6 +80,7 @@ protections-panel-site-not-working-view-issue-list-forms = Furmskridoù
 protections-panel-site-not-working-view-issue-list-payments = Paeamantoù
 protections-panel-site-not-working-view-issue-list-comments = Evezhiadennoù
 protections-panel-site-not-working-view-issue-list-videos = Videoioù
+protections-panel-site-not-working-view-issue-list-fonts = Nodrezhoù
 protections-panel-site-not-working-view-send-report = Kas un danevell
 
 ##
@@ -91,7 +91,7 @@ protections-panel-fingerprinters = An dinoerien roudoù niverel a zastum arvente
 protections-panel-tracking-content = Gallout a ra al lec'hiennoù kargañ bruderezh, videoioù pe traoù diavaez all gant ur boneg heuliañ. Stankañ an endalc'hadoù heuliañ a c'hall herrekaat al lec'hiennoù met gallout a ra lod eus an afelloù, furmskridoù pe maeziennoù kennaskañ chom hep mont en-dro.
 protections-panel-social-media-trackers = Gant ar rouedadoù kevredadel e vez lakaet heulierien evit gallout gwelet war al lec'hiennoù all ar pezh a sellit hag a rit enlinenn. Evel-se e c'hall an embregerezhioù media kevredadel deskiñ hiroc'h diwar ar pezh a rannit war hoc'h aeladoù media kevredadel.
 protections-panel-description-shim-allowed = Un nebeud heulierien merket a-zindan a zo bet damzistanket  war ar bajenn-mañ peogwir ho peus etrewezhiet gante.
-protections-panel-description-shim-allowed-learn-more = Gouzout hiroc'h
+protections-panel-description-shim-allowed-learn-more = Gouzout hiroc’h
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Heulier damzistanket
 protections-panel-content-blocking-manage-settings =
@@ -99,7 +99,7 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = Danevelliñ ul lec'hienn torret
-protections-panel-content-blocking-breakage-report-view-description = Stankañ heulierien ’zo a c'hall degas kudennoù gant lec'hiennoù ’zo. Danevelliñ ar c'hudennoù-se a sikour da lakaat { -brand-short-name } gwelloc'h evit an holl. Kas an danevell-mañ da vMozilla a gaso un URL ha titouroù diwar-benn arventennoù ho merdeer. <label data-l10n-name="learn-more">Gouzout hiroc'h</label>
+protections-panel-content-blocking-breakage-report-view-description = Stankañ heulierien ’zo a c’hall degas kudennoù gant lec’hiennoù ’zo. Danevelliñ ar c’hudennoù-se a sikour da lakaat { -brand-short-name } gwelloc’h evit an holl. Kas an danevell-mañ da vMozilla a gaso un URL ha titouroù diwar-benn arventennoù ho merdeer. <label data-l10n-name="learn-more">Gouzout hiroc’h</label>
 protections-panel-content-blocking-breakage-report-view-description2 = Stankañ heulierien ’zo a c'hall degas kudennoù gant lec'hiennoù ’zo. Danevelliñ ar c'hudennoù-se a sikour da lakaat { -brand-short-name } gwelloc'h evit an holl. Kas an danevell-mañ da v{ -vendor-short-name } a gaso un URL ha titouroù diwar-benn arventennoù ho merdeer.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
@@ -114,3 +114,8 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-enabled = Gweredekaet evit al lec’hienn-mañ
+protections-panel-cookie-banner-handling-disabled = Diweredekaet evit al lec’hienn-mañ
+protections-panel-cookie-banner-handling-undetected = N’eo ket skoret al lec’hienn-mañ c’hoazh
+protections-panel-cookie-banner-view-cancel = Nullañ
+protections-panel-cookie-banner-view-turn-off = Diweredekaat

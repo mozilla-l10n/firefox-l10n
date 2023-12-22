@@ -18,8 +18,9 @@ more-from-moz-qr-code-box-firefox-mobile-button = Kas ur postel d'ho pellgomz e 
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Boneg QR evit pellgargañ { -brand-product-name } hezoug
 more-from-moz-button-mozilla-vpn-2 = Kaout ar VPN
-more-from-moz-learn-more-link = Gouzout hiroc'h
+more-from-moz-learn-more-link = Gouzout hiroc’h
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-button = Tapout { -relay-brand-short-name }

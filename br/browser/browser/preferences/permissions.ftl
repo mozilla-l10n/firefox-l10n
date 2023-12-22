@@ -12,6 +12,9 @@ permissions-address = Chomlec'h al lec'hienn
 permissions-block =
     .label = Herzel
     .accesskey = H
+permissions-disable-etp =
+    .label = Ouzhpennañ un nemedenn
+    .accesskey = O
 permissions-session =
     .label = Aotren evit an estez
     .accesskey = A
@@ -102,6 +105,12 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Ne vo ket enrollet titouroù kennaskañ al lec'hiennoù da-heul
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Nemedennoù - Gerioù-tremen enrollet
+    .style = { permissions-window2.style }
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
@@ -170,6 +179,11 @@ permissions-site-microphone-disable-desc = Herzel a raio al lec'hiennoù ha n'in
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = Arventennoù - Aotreoù evit ar selaouelloù
+    .style = { permissions-window2.style }
+permissions-doh-entry-field = Enankit anv domani al lec’hienn
+    .accesskey = d
 permissions-doh-add-exception =
     .label = Ouzhpennañ
     .accesskey = O

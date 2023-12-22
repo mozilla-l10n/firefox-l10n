@@ -7,27 +7,53 @@
 
 autofill-manage-addresses-title = Chomlec'hioù enrollet
 autofill-manage-addresses-list-header = Chomlec'hioù
-
 autofill-manage-credit-cards-title = Kartennoù kred enrollet
 autofill-manage-credit-cards-list-header = Kartennoù kred
-
+autofill-manage-payment-methods-title = Doareoù paeañ enrollet
+autofill-manage-cards-list-header = Kartennoù
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Dilemel
 autofill-manage-add-button = Ouzhpennañ …
 autofill-manage-edit-button = Embann…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Enrollañ ar chomlec’h?
+address-capture-update-doorhanger-header = Hizivaat ar chomlec’h?
+address-capture-edit-doorhanger-header = Kemmañ ar chomlec’h?
+address-capture-save-button =
+    .label = Enrollañ
+    .accessKey = E
+address-capture-not-now-button =
+    .label = Pas diouzhtu
+    .accessKey = P
+address-capture-cancel-button =
+    .label = Nullañ
+    .accessKey = N
+address-capture-update-button =
+    .label = Hizivaat
+    .accessKey = H
+address-capture-manage-address-button =
+    .label = Arventennoù ar chomlec’hioù
+address-capture-learn-more-button =
+    .label = Gouzout hiroc’h
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Ouzhpennañ ur chomlec'h nevez
+address-capture-open-menu-button =
+    .aria-label = Digeriñ al lañser
+address-capture-edit-address-button =
+    .aria-label = Aozañ ar chomlec’h
+# The dialog title for creating addresses in browser preferences.
+autofill-add-address-title = Ouzhpennañ ur chomlec’h
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Embann ar chomlec'h
-
+autofill-address-name = Anv
 autofill-address-given-name = Anv bihan
 autofill-address-additional-name = Anv kreiz
 autofill-address-family-name = Anv familh
 autofill-address-organization = Aozadur
+autofill-address-street-address = Chomlec’h
 autofill-address-street = Chomlec'h
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +107,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Bro pe Rannvro
+autofill-address-country-only = Bro
 autofill-address-tel = Pellgomz
 autofill-address-email = Chomlec'h postel
-
 autofill-cancel-button = Nullañ
 autofill-save-button = Enrollañ
 autofill-country-warning-message = Leuniañ emgefreek ar furmskridoù a zo hegerz evit chomlec'hioù broioù ’zo hepken
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Ouzhpennañ ar gartenn gred
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Embann ar gartenn gred
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +129,10 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } a glask diskouez titouroù ur gartenn vank. Kadarnait an haeziñ d'ar gont Windows dindan.
        *[other] { -brand-short-name } a glask diskouez titouroù ur gartenn vank.
     }
-
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Ouzhpennañ ur gartenn
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Kemmañ ar gartenn
 autofill-card-number = Niverenn ar gartenn
 autofill-card-invalid-number = Roit un niver kartenn dalvoudek mar plij
 autofill-card-name-on-card = Anv war ar gartenn

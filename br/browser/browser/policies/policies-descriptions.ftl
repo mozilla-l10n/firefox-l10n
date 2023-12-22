@@ -13,6 +13,7 @@
 policy-3rdparty = Gwelout ar reolennoù a c'hall bezañ haezet gant ar WebExtensions dre chrome.storage.managed.
 policy-AllowedDomainsForApps = Despizañ an domanioù aotreet da haeziñ Google Workspace.
 policy-AppAutoUpdate = Gweredekaat pe ziweredekaat hizivadur emgefreek an arload.
+policy-AppUpdatePin = Mirout { -brand-short-name } da vezañ hizivaet en tu all d’an handelv spisaet.
 policy-AppUpdateURL = Lakaat un URL hizivaat personelaet evit an arload.
 policy-Authentication = Kefluniañ an dilesa ebarzhet evit al lec'hiennoù skoret.
 policy-AutoLaunchProtocolsFromOrigins = Despizañ ur roll komenadoù diavaez a c'hall bezañ arveret eus an orinoù er roll hep goulenn gant an arveriad.
@@ -84,6 +85,7 @@ policy-LocalFileLinks = Aotren lec'hiennoù ’zo da liammañ restroù lec’hel
 policy-ManagedBookmarks = Kefluniañ ur roll sinedoù meret gant an ardoer ha n’hallont ket bezañ kemmet gant an arveriad.
 policy-ManualAppUpdateOnly = Aotren hizivadennoù dre zorn hepken ha na rebuziñ an arveriad diwar-benn an hizivadennoù.
 policy-PrimaryPassword = Rediañ pe difenn implij ur ger-tremen pennañ.
+policy-PrintingEnabled = Gweredekaat pa diweredekaat ar moulañ.
 policy-NetworkPrediction = (Di)weredekaat an diougan rouedad (rakkerc'hat DNS)
 policy-NewTabPage = (Di)weredekaat ar bajenn ivinell nevez.
 policy-NoDefaultBookmarks = Diweredekaat krouidigezh ar sinedoù dre ziouer roet gant { -brand-short-name }, hag ar sinedoù speredek (Gweladennet ar muiañ, ivinelloù nevesañ). Evezh: ar reolenn-mañ a zo efedus ar wech kentañ vez loc'het Firefox hepken.
@@ -106,11 +108,14 @@ policy-SanitizeOnShutdown2 = Skarzhañ ar roadennoù merdeiñ en ur guitaat.
 policy-SearchBar = Despizañ al lec'hiadur dre ziouer er varrenn glask. AN arveriad a c'hallo kemmañ anezhañ.
 policy-SearchEngines = Kefluniañ arventennoù al lusker enklask. Ar reolenn-mañ a c'hall bezañ lakaet en handelv skor astennet (ESR).
 policy-SearchSuggestEnabled = (Di)weredekaat an alioù klask.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Ouzhpennañ pe dilemel ar molladoù PKCS #11.
 policy-ShowHomeButton = Diskouez an afell degemer er varrenn ostilhoù.
 policy-SSLVersionMax = Arventennañ an handelv SSL uhelañ.
 policy-SSLVersionMin = Arventennañ an handelv SSL izelañ.
 policy-SupportMenu = Ouzhpennañ un elfenn lañser skor personelaet el lañser skoazell.
 policy-UserMessaging = Na ziskouez kemennadennoù ’zo d'an arveriad.
+policy-UseSystemPrintDialog = Moullañ en ur ober gant boest kendiviz ar reizhiad.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Stankañ al lec'hiennoù da vezañ gweladennet. Lennit an teuliadur evit kaout muioc'h a vunudoù war ar mentrezh.
 policy-Windows10SSO = Aotren dilesa eeun Windows evit ar c'hontoù Microsoft, al labour hag ar c'hontoù skol.

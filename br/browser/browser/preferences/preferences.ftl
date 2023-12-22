@@ -3,11 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Kas un arhent “Do Not Track” (na heulian) d'al lec'hiennoù evit kemenn dezho ne fell ket deoc'h bezañ heuliet
-do-not-track-learn-more = Gouzout hiroc'h
+do-not-track-learn-more = Gouzout hiroc’h
 do-not-track-option-default-content-blocking-known =
     .label = Pa 'z eo kefluniet { -brand-short-name } evit stankañ an heulierien anavezet nemetken.
 do-not-track-option-always =
     .label = Atav
+global-privacy-control-description =
+    .label = Goulenn gant al lec’hiennoù ne vefe ket gwerzhet pe rannet ma roadennoù
+    .accesskey = G
 settings-page-title = Arventennoù
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -79,6 +82,12 @@ extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $n
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = <img data-l10n-name="icon"/><strong>{ $name }</strong> a reol an arventenn-mañ.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> a reol an arventenn-mañ.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> a reol an doare da gennaskañ ouzh ar genrouedad implijet gant { -brand-short-name }.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -107,10 +116,17 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Digeriñ ar prenestroù hag an ivinelloù kent
     .accesskey = D
+windows-launch-on-login =
+    .label = Digeriñ { -brand-short-name } ent-emgefreek p’emañ an urzhiataer o loc’hañ
+    .accesskey = D
 startup-restore-warn-on-quit =
     .label = Kelaouiñ pa kuitait ar merdeer
 disable-extension =
     .label = Diweredekaat an askouezh
+preferences-data-migration-header = Enporzhiañ roadennoù ar merdeer
+preferences-data-migration-button =
+    .label = Enporzhiañ roadennoù
+    .accesskey = E
 tabs-group-header = Ivinelloù
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab evit mont d'an ivinell implijet da ziwezhañ
@@ -141,7 +157,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = Gweredekaat an ivinelloù endalc'her
     .accesskey = n
-browser-containers-learn-more = Gouzout hiroc'h
+browser-containers-learn-more = Gouzout hiroc’h
 browser-containers-settings =
     .label = Arventennoù…
     .accesskey = v
@@ -187,6 +203,8 @@ containers-remove-cancel-button = Chom hep dilemel an Endalc'her-mañ
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Yezh ha neuz
+preferences-web-appearance-header = Neuz al lec’hienn
+preferences-web-appearance-choice-auto = Emgefreek
 preferences-web-appearance-choice-light = Sklaer
 preferences-web-appearance-choice-dark = Teñval
 preferences-web-appearance-choice-input-auto =
@@ -195,6 +213,14 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Merañ neuzioù eus { -brand-short-name } e-barzh <a data-l10n-name="themes-link">Askouezhioù ha neuzioù</a>
+preferences-colors-header = Livioù
+preferences-colors-manage-button =
+    .label = Merañ al livioù…
+    .accesskey = L
+preferences-fonts-header = Nodrezhoù
 default-font = Nodrezh dre ziouer
     .accesskey = N
 default-font-size = Ment
@@ -340,11 +366,14 @@ applications-use-os-default-label =
 applications-save-for-new-types =
     .label = Enrollañ ar restroù
     .accesskey = S
+applications-ask-before-handling =
+    .label = Goulenn ma tleer digeriñ pe enrollañ ar restroù
+    .accesskey = G
 drm-content-header = Endalc'had Digital Rights Management (DRM)
 play-drm-content =
     .label = Lenn un endalc'had reoliet gant DRM
     .accesskey = L
-play-drm-content-learn-more = Gouzout hiroc'h
+play-drm-content-learn-more = Gouzout hiroc’h
 update-application-title = Hizivadurioù evit { -brand-short-name }:
 update-application-description = Derc'hel { -brand-short-name } hizivaet evit an digonusted, stabilded ha diogelroez gwellañ.
 # Variables:
@@ -427,24 +456,24 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Gweredekaat ar reoliadurioù video skeudenn-war-skeudenn
     .accesskey = G
-browsing-picture-in-picture-learn-more = Gouzout hiroc'h
+browsing-picture-in-picture-learn-more = Gouzout hiroc’h
 browsing-media-control =
     .label = Reoliañ ar media dre ar c'hlavier, an tokarn pe ur c'hetal hewel
     .accesskey = R
-browsing-media-control-learn-more = Gouzout hiroc'h
+browsing-media-control-learn-more = Gouzout hiroc’h
 browsing-cfr-recommendations =
     .label = Erbediñ askouezhioù p’emaoc'h o verdeiñ
     .accesskey = R
 browsing-cfr-features =
     .label = Erbediñ keweriusterioù pa verdeit
     .accesskey = E
-browsing-cfr-recommendations-learn-more = Gouzout hiroc'h
+browsing-cfr-recommendations-learn-more = Gouzout hiroc’h
 
 ## General Section - Proxy
 
 network-settings-title = Arventennoù ar rouedad
 network-proxy-connection-description = Kefluniañ an doare da gennaskañ ouzh ar genrouedad implijet gant { -brand-short-name }.
-network-proxy-connection-learn-more = Gouzout hiroc'h
+network-proxy-connection-learn-more = Gouzout hiroc’h
 network-proxy-connection-settings =
     .label = Arventennoù…
     .accesskey = e
@@ -506,6 +535,8 @@ home-prefs-recommended-by-description-new = Danvezioù dibar dibabet gant { $pro
 home-prefs-recommended-by-learn-more = Penaos ez a en-dro
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Istorioù paeroniet
+home-prefs-recommended-by-option-recent-saves =
+    .label = Diskouez an enrolladennoù diwezhañ
 home-prefs-highlights-option-visited-pages =
     .label = Pajennoù gweladennet
 home-prefs-highlights-options-bookmarks =
@@ -554,6 +585,9 @@ search-suggestions-desc = Dibab penaos e vez diskouezet ar c'hinnigoù eus al lu
 search-suggestions-option =
     .label = Kinnig alioù enklask
     .accesskey = a
+search-show-suggestions-option =
+    .label = Diskouez ar c’hinnigoù klask
+    .accesskey = D
 search-show-suggestions-url-bar-option =
     .label = Diskouez ar c'hinnigoù enklask e disoc'hoù ar varenn chomlec'hioù
     .accesskey = D
@@ -647,6 +681,9 @@ sync-signedin-login-failure = En em zilesait evit adkennaskañ { $email }
 sync-resend-verification =
     .label = Adkas ar gwiriadur
     .accesskey = g
+sync-verify-account =
+    .label = Kadarnaat ar gont
+    .accesskey = K
 sync-remove-account =
     .label = Dilemel ar gont
     .accesskey = g
@@ -678,8 +715,10 @@ sync-currently-syncing-bookmarks = Sinedoù
 sync-currently-syncing-history = Roll istor
 sync-currently-syncing-tabs = Ivinelloù digor
 sync-currently-syncing-logins-passwords = Titouroù kennaskañ
+sync-currently-syncing-passwords = Gerioù-tremen
 sync-currently-syncing-addresses = Chomlec'hioù
 sync-currently-syncing-creditcards = Kartennoù kred
+sync-currently-syncing-payment-methods = Doareoù paeañ
 sync-currently-syncing-addons = Askouezhioù
 sync-currently-syncing-settings = Arventennoù
 sync-change-options =
@@ -709,6 +748,10 @@ sync-engine-logins-passwords =
     .label = Titouroù kennaskañ
     .tooltiptext = Titouroù kennaskañ enrollet ganeoc'h
     .accesskey = T
+sync-engine-passwords =
+    .label = Gerioù-tremen
+    .tooltiptext = Gerioù tremen ho peus enrollet
+    .accesskey = G
 sync-engine-addresses =
     .label = Chomlec'hioù
     .tooltiptext = Chomlec'hioù post enrollet (burev hepken)
@@ -717,6 +760,10 @@ sync-engine-creditcards =
     .label = Kartennoù kred
     .tooltiptext = Anvioù, niveroù ha deiziadoù diamzeriñ (burev hepken)
     .accesskey = K
+sync-engine-payment-methods2 =
+    .label = Doareoù paeañ
+    .tooltiptext = Anvioù, niverennoù kartenn ha deiziadoù diamzeriñ
+    .accesskey = p
 sync-engine-addons =
     .label = Askouezhioù
     .tooltiptext = Askouezhioù ha neuzioù evit Firefox war burev
@@ -770,16 +817,24 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Gerioù-tremen
     .searchkeywords = titouroù kennaskañ
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Goulenn ma vo enrollet ar gerioù-tremen
+    .accesskey = G
 forms-exceptions =
     .label = Nemedennoù…
     .accesskey = m
 forms-generate-passwords =
     .label = Kinnig ha krouiñ gerioù-tremen kreñv
     .accesskey = K
+forms-suggest-passwords =
+    .label = Kinnig gerioù-tremen kreñv
+    .accesskey = K
 forms-breach-alerts =
     .label = Diskouez galvoù diwall evit gerioù-tremen al lec’hiennoù frailhet
     .accesskey = D
-forms-breach-alerts-learn-more-link = Gouzout hiroc'h
+forms-breach-alerts-learn-more-link = Gouzout hiroc’h
+relay-integration-learn-more-link = Gouzout hiroc’h
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Leuniañ an titouroù kennaskañ ent emgefreek
@@ -787,10 +842,17 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Titouroù kennaskañ enrollet...
     .accesskey = k
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Leuniañ anvioù implijer ha gerioù-tremen ent emgefreek
+    .accesskey = L
+forms-saved-passwords =
+    .label = Gerioù-tremen enrollet
+    .accesskey = e
 forms-primary-pw-use =
     .label = Ober gant ur ger-tremen pennañ
     .accesskey = O
-forms-primary-pw-learn-more-link = Gouzout hiroc'h
+forms-primary-pw-learn-more-link = Gouzout hiroc’h
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -808,7 +870,7 @@ forms-primary-pw-fips-title = E mod FIPS emaoc'h. FIPS a c'houlenn ur ger-tremen
 forms-master-pw-fips-desc = Fazi en ur gemmañ ar ger-tremen
 forms-windows-sso =
     .label = Aotren dilesa eeun Windows evit ar c’hontoù Microsoft, labour ha skol
-forms-windows-sso-learn-more-link = Gouzout hiroc'h
+forms-windows-sso-learn-more-link = Gouzout hiroc’h
 forms-windows-sso-desc = Merañ ar c'hontoù e arventennoù ho trevnad
 
 ## OS Authentication dialog
@@ -824,6 +886,15 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Leuniañ ent emgefreek
+autofill-addresses-checkbox = Enrollañ ha leuniañ ar chomlec’hioù
+    .accesskey = a
+autofill-saved-addresses-button = Chomlec’hioù enrollet
+    .accesskey = C
+autofill-payment-methods-checkbox-message = Enrollañ ha leuniañ an doareoù paeañ
+    .accesskey = n
+autofill-saved-payment-methods-button = Doareoù paeañ enrollet
+    .accesskey = D
 
 ## Privacy Section - History
 
@@ -874,7 +945,7 @@ sitedata-total-size-calculating = O jediñ ment roadennoù ha krubuilh al lec'hi
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ho toupinoù, roadennoù lec'hienn ha krubuilh kadavet a zo oc'h arverañ { $value } { $unit } war ho kantenn.
-sitedata-learn-more = Gouzout hiroc'h
+sitedata-learn-more = Gouzout hiroc’h
 sitedata-delete-on-close =
     .label = Dilemel an toupinoù hag al lec'hiennoù pa vez serret { -brand-short-name }
     .accesskey = c
@@ -914,6 +985,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-learn-more = Gouzout hiroc’h
 
 ## Privacy Section - Address Bar
 
@@ -925,6 +997,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Sinedoù
     .accesskey = S
+addressbar-locbar-clipboard-option =
+    .label = Golver
+    .accesskey = G
 addressbar-locbar-openpage-option =
     .label = Digeriñ ivinelloù
     .accesskey = D
@@ -938,13 +1013,20 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Luskerioù enklask
     .accesskey = L
+addressbar-locbar-quickactions-option =
+    .label = Oberoù prim
+    .accesskey = O
+addressbar-locbar-showrecentsearches-option =
+    .label = Diskouez ar c’hlaskoù diwezhañ
+    .accesskey = D
 addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù luskerioù enklask
+addressbar-quickactions-learn-more = Gouzout hiroc’h
 
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Gwarez heuliañ araoket
 content-blocking-section-top-level-description = An heulierien a heuilh ac'hanoc'h enlinenn evit tapout titouroù diwar-benn ho poazioù merdeiñ hag ho kreizennoù dedenn. { -brand-short-name } a stank lodenn vrasañ anezho.
-content-blocking-learn-more = Gouzout hiroc'h
+content-blocking-learn-more = Gouzout hiroc’h
 content-blocking-fpi-incompatibility-warning = Ober a rit gant an Difuadur an Domani Kentañ (DDK), ar pezh a flastr lod eus arventennoù toupinoù { -brand-short-name }.
 
 ## These strings are used to define the different levels of
@@ -982,7 +1064,7 @@ content-blocking-fingerprinters = Dinoerien roudoù niverel
 
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Ar gwarez toupinoù klok a endalc'h toupinoù al lec'hienn m'emaoc'h warni, evel-se n’hall ket an heulierien ober ganto evit heuliañ ac'hanoc'h etre al lec'hiennoù.
-content-blocking-etp-standard-tcp-rollout-learn-more = Gouzout hiroc'h
+content-blocking-etp-standard-tcp-rollout-learn-more = Gouzout hiroc’h
 content-blocking-warning-title = Diwallit!
 content-blocking-and-isolating-etp-warning-description-2 = An arventenn-mañ a c'hall lakaat lec'hiennoù 'zo da vont a-dreuz. Ma seblant bezañ torret ul lec'hienn e c'hallit diweredekaat ar gwarez heuliañ evit al lec'hienn-mañ ha kargañ pep tra.
 content-blocking-warning-learn-how = Deskit penaos
@@ -1047,7 +1129,7 @@ permissions-notification = Rebuzadurioù
 permissions-notification-settings =
     .label = Arventennoù…
     .accesskey = r
-permissions-notification-link = Gouzout hiroc'h
+permissions-notification-link = Gouzout hiroc’h
 permissions-notification-pause =
     .label = Ehanañ ar rebuzadurioù betek ma vefe adloc'het { -brand-short-name }
     .accesskey = E
@@ -1074,25 +1156,31 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Dastumadeg roadennoù { -brand-short-name } hag arver
+collection-header2 = Dastumadeg roadennoù { -brand-short-name } hag arver
+    .searchkeywords = telemetriezh
 collection-description = Strivañ a reomp evit kinnig deoc'h dibaboù ha dastum ar pep ret nemetken da wellaat { -brand-short-name } evit an holl. Goulenn a reomp atav an aotre a-raok degemer titouroù personel.
 collection-privacy-notice = Evezhiadennoù a-fet buhez prevez
 collection-health-report-telemetry-disabled = Ne aotreit ket ken { -vendor-short-name } da zastum ho roadennoù teknikel hag etrewezhiañ. An holl roadennoù tremenet a vo skarzhet dindan 30 deiz.
-collection-health-report-telemetry-disabled-link = Gouzout hiroc'h
+collection-health-report-telemetry-disabled-link = Gouzout hiroc’h
 collection-health-report =
     .label = Aotren { -brand-short-name } da gas roadennoù teknikel hag etrewerzhañ da v{ -vendor-short-name }
     .accesskey = A
-collection-health-report-link = Gouzout hiroc'h
+collection-health-report-link = Gouzout hiroc’h
 collection-studies =
     .label = Aotren { -brand-short-name } da staliañ ha lañsañ studiadennoù
 collection-studies-link = Gwelout studiadennoù { -brand-short-name }
 addon-recommendations =
     .label = Aotren { -brand-short-name } d'ober erbedadennoù askouezhioù personelaet
-addon-recommendations-link = Gouzout hiroc'h
+addon-recommendations-link = Gouzout hiroc’h
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Diweredekaet eo an danevelliñ roadennoù evit kefluniadur ar c'hempunadur-mañ
-collection-backlogged-crash-reports-with-link = Aotren { -brand-short-name } da gas danevelloù sac'hadennoù en ho plas. <a data-l10n-name="crash-reports-link">Gouzout hiroc'h</a>
+collection-backlogged-crash-reports-with-link = Aotren { -brand-short-name } da gas danevelloù sac’hadennoù en ho plas. <a data-l10n-name="crash-reports-link">Gouzout hiroc’h</a>
     .accesskey = g
+privacy-segmentation-radio-off =
+    .label = Ober gant alioù { -brand-product-name }
+privacy-segmentation-radio-on =
+    .label = Diskouez an titouroù dre ar munud
 
 ## Privacy Section - Security
 ##
@@ -1104,7 +1192,7 @@ security-browsing-protection = Endalc'had touellus ha Gwarez a-enep d'ar Meziant
 security-enable-safe-browsing =
     .label = Stankañ endalc'hadoù arvarus pe touellus
     .accesskey = S
-security-enable-safe-browsing-link = Gouzout hiroc'h
+security-enable-safe-browsing-link = Gouzout hiroc’h
 security-block-downloads =
     .label = Stankañ pellgargadurioù arvarus
     .accesskey = p
@@ -1128,13 +1216,13 @@ space-alert-over-5gb-settings-button =
     .label = Digeriñ an arventennoù
     .accesskey = D
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } n'eus ket kalz a blas ken war ar gantenn.</strong> Gallout a ra al lec'hienn bezañ skrammet a-dreuz. Gallout a rit skarzhañ ar roadennoù kadavet e Arventennoù > Buhez prevez ha diogelroez > Toupinoù ha roadennoù lec'hienn.
-space-alert-under-5gb-message2 = <strong>Ne chom ket kalz a blas war ar gantenn evit { -brand-short-name }.</strong> Gallout a ra al lec'hiennoù skrammañ en un doare dizereat. Gweladennit "Gouzout hiroc'h" evit gwellekaat hoc'h arver kantenn ha kaout un arnod merdeiñ gwelloc'h.
+space-alert-under-5gb-message2 = <strong>Ne chom ket kalz a blas war ar gantenn evit { -brand-short-name }.</strong> Gallout a ra al lec’hiennoù skrammañ en un doare dizereat. Klikit war "Gouzout hiroc’h" evit gwellekaat arver ho kantenn ha kas un amzer merdeiñ gwelloc’h.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mod HTTPS hepken
 httpsonly-description = HTTPS a ginnig ur c'hennask diogel hag enrineget etre { -brand-short-name } hag al lec'hiennoù a weladennit. Lodenn vrasañ al lec'hiennoù a skor HTTPS, ha mard eo gweredekaet ar mod HTTPS-hepken e vo lakaet { -brand-short-name } da dremen ar c'hennask dre HTTPS.
-httpsonly-learn-more = Gouzout hiroc'h
+httpsonly-learn-more = Gouzout hiroc’h
 httpsonly-radio-enabled =
     .label = Gweredekaat HTTPS-hepken en holl brenestroù
 httpsonly-radio-enabled-pbm =
@@ -1147,6 +1235,31 @@ httpsonly-radio-disabled =
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Statud: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Pourchaser: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL didalvoudek
+preferences-doh-steering-status = Ober gant ur pourchaser lec’hel
+preferences-doh-status-active = Oberiant
+preferences-doh-status-disabled = Diweredekaet
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Dioberiant ({ $reason })
+preferences-doh-expand-section =
+    .tooltiptext = Titouroù all
+preferences-doh-setting-default =
+    .label = Gwarez dre ziouer
+    .accesskey = D
+preferences-doh-default-detailed-desc-3 = Ober gant ur pourchaser lec’hel, ma’z eus tu
+preferences-doh-setting-off =
+    .label = Diweredekaet
+    .accesskey = D
+preferences-doh-select-resolver = Dibab ur pourchaser:
+preferences-doh-manage-exceptions =
+    .label = Merañ an nemedennoù…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 

@@ -10,6 +10,12 @@
 
 origin-controls-no-access =
     .label = An askouezh ne c'hall ket lenn pe kemmañ roadennoù
+origin-controls-quarantined =
+    .label = An askouezh n’eo ket aotreet da lenn pe kemmañ roadennoù
+origin-controls-quarantined-status =
+    .label = Askouezh difennet war al lec’hiennoù bevennet
+origin-controls-quarantined-allow =
+    .label = Aotren war al lec’hiennoù bevennet
 origin-controls-options =
     .label = An askouezh a c'hall lenn pe kemmañ roadennoù :
 origin-controls-option-all-domains =
@@ -27,7 +33,13 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Ne c'hall ket lenn pe kemmañ roadennoù war al lec'hienn-se
+origin-controls-state-quarantined = N’eo ket aotreet gant { -vendor-short-name } war al lec’hienn-mañ
 origin-controls-state-always-on = Bepred e c'hall lenn pe kemmañ roadennoù war al lec'hienn-se
+origin-controls-state-when-clicked = Aotren rediet evit lenn ha kemmañ ar roadennoù
+origin-controls-state-hover-run-visit-only = Aotren an dro-mañ hepken
+origin-controls-state-runnable-hover-open = Digeriñ an askouezh
+origin-controls-state-runnable-hover-run = Lañsañ an askouezh
+origin-controls-state-temporary-access = Gallout a ra lenn pe kemmañ roadennoù evit ar wezh-mañ
 
 ## Extension's toolbar button.
 ## Variables:
@@ -36,3 +48,17 @@ origin-controls-state-always-on = Bepred e c'hall lenn pe kemmañ roadennoù war
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Aotre rekis
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        N’eo ket aotreet gant { -vendor-short-name } war al lec’hienn-mañ
