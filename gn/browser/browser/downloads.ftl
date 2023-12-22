@@ -17,11 +17,10 @@ downloads-panel =
 # a CSS unit. The longest labels that should fit are usually those of
 # in-progress and blocked downloads.
 downloads-panel-items =
-    .style = width: 45em
-
+    .style = width: 35em
 downloads-cmd-pause =
     .label = Mombyta
-    .accesskey = M
+    .accesskey = P
 downloads-cmd-resume =
     .label = Ehorei hese
     .accesskey = E
@@ -29,12 +28,11 @@ downloads-cmd-cancel =
     .tooltiptext = Heja
 downloads-cmd-cancel-panel =
     .aria-label = Heja
-
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
-            [macos] Ehechauka Finder-pe
-           *[other] Ehechauka marandurendápe
+            [macos] Ehechauka Hekahápe
+           *[other] Ehechauka Marandurendápe
         }
     .accesskey = F
 
@@ -44,13 +42,12 @@ downloads-cmd-show-menuitem-2 =
 ##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
 downloads-cmd-use-system-default =
-    .label = Embojuruja apopyvusu rechahápe
+    .label = Embojuruja Apopyvusu Rechahápe
     .accesskey = V
 # This version is shown when the download's mime type has a valid file handler.
 downloads-cmd-use-system-default-named =
     .label = Embojuruja { $handler }-pe
     .accesskey = I
-
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -68,29 +65,26 @@ downloads-cmd-always-use-system-default-named =
 # We can use the same accesskey as downloads-cmd-always-use-system-default.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-open-similar-files =
-    .label = Embojuruja tapiaite marandurenda ojuehegua
+    .label = Embojurujameme marandurenda ojuehegua
     .accesskey = w
-
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
-            [macos] Ehechauka Finder-pe
-           *[other] Ehechauka marandurendápe
+            [macos] Ehechauka Hekahápe
+           *[other] Ehechauka Marandurendápe
         }
-
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
-            [macos] Ehechauka Finder-pe
-           *[other] Ehechauka marandurendápe
+            [macos] Ehechauka Hekahápe
+           *[other] Ehechauka Marandurendápe
         }
 downloads-cmd-show-description-2 =
     .value =
         { PLATFORM() ->
-            [macos] Ehechauka Finder-pe
-           *[other] Ehechauka marandurendápe
+            [macos] Ehechauka Hekahápe
+           *[other] Ehechauka Marandurendápe
         }
-
 downloads-cmd-show-downloads =
     .label = Ñemboguejykuéra Ñongatuha Hechauka
 downloads-cmd-retry =
@@ -115,42 +109,33 @@ downloads-cmd-clear-downloads =
 downloads-cmd-delete-file =
     .label = Mboguete
     .accesskey = D
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Emoneĩ ñemboguejy
     .accesskey = o
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Marandurenda mboguete
-
 downloads-cmd-remove-file-panel =
     .aria-label = Marandurenda mboguete
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Emboguete Marandurenda térã Emoneĩ Ñemboguejy
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = Emboguete Marandurenda térã Emoneĩ Ñemboguejy
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Eike térã eipe’a Marandurenda
-
 downloads-cmd-choose-open-panel =
     .aria-label = Eike térã eipe’a Marandurenda
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Maranduve jehechauka
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -183,20 +168,17 @@ downloading-file-click-to-open =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Eha’ãjey ñemboguejy
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Eheja ñemboguejy
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Opaite ñemboguejypyre jehechauka
     .accesskey = S
-
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Ñemboguejy Sa’ikue
@@ -219,16 +201,13 @@ downloads-blocked-download-detailed-info = { $url } omboguejyse ijehegui marandu
 downloads-clear-downloads-button =
     .label = Mboguejypyre mopotĩ
     .tooltiptext = Emopotĩ oñemboguejypámava, ojehejareipyréva ha ndoguejyporãiva'ekue
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Ndaipóri mboguejypyre.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Ndaipóri ñemboguejypyre ko tembiapopa’ũme.
-
 # This is displayed in an item at the bottom of the Downloads Panel when there
 # are more downloads than can fit in the list in the panel.
 #   $count (number) - number of files being downloaded that are not shown in the

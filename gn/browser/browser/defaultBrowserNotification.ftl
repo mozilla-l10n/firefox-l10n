@@ -5,16 +5,16 @@
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
 default-browser-notification-message = <strong>¿Emopyenda { -brand-short-name } ne kundahára ypykuérõ?</strong> Ereko ñeikundaha pya’e, hekorosã ha iñemíva eiporúvo ñanduti.
 default-browser-notification-button =
-    .label = Emopyenda ijypykuéramo
+    .label = Emopyenda ijypykuérõ
     .accesskey = S
 
 ## These strings are used for the default browser prompt. There are 2 variations
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
-default-browser-prompt-title-pin = ¿Ejapose { -brand-short-name }-gui kundahára eiporuvéva?
-default-browser-prompt-message-pin = Ereko { -brand-short-name } aig̃uite ndehegui — ejapo chugui kundahára ijypyguáva ha emboja tembiaporã rupápe.
-default-browser-prompt-message-pin-mac = Ereko { -brand-short-name } ag̃uiete ndehegui — ejapo chugui kundahára ijypyguáva ha emoĩ nde Dock-pe.
+default-browser-prompt-title-pin = Ejaposépa { -brand-short-name }-gui kundahára eiporuvéva
+default-browser-prompt-message-pin = Ereko { -brand-short-name } aig̃ui ndehegui — ejapo chugui kundahára ijypyguáva ha emboja tembiaporã rupápe.
+default-browser-prompt-message-pin-mac = Ereko { -brand-short-name } ag̃ui ndehegui — ejapo chugui kundahára ijypyguáva ha emoĩ nde Dock-pe.
 default-browser-prompt-button-primary-pin = Ejapo kundahára eiporuvévarõ
 default-browser-prompt-title-alt = Ejapo { -brand-short-name }-gui ne kundaha ypyguávarõ
 default-browser-prompt-message-alt = Erekosépa ipya’e, hekorosã ha hekoñemíva eikundaha vove.
