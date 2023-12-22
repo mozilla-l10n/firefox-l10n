@@ -62,7 +62,7 @@ firefoxview-tabpickup-sync-disconnected-description = Eru hag̃ua tendayke, oñe
 firefoxview-tabpickup-sync-disconnected-primarybutton = Emyandy ñembojuehe mbohekohápe
 firefoxview-tabpickup-password-locked-header = Ehai ne ñe’ẽñemi ha’etéva ehecha hag̃ua tendayke
 firefoxview-tabpickup-password-locked-description = Eguerujey hag̃ua tendayke, ehaiva’erã ñe’ẽñemi ha’etéva { -brand-short-name }-pe.
-firefoxview-tabpickup-password-locked-link = Kuaave
+firefoxview-tabpickup-password-locked-link = Jekuaave
 firefoxview-tabpickup-password-locked-primarybutton = Ehai Ñe’ẽñemi Ha’etéva
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Eikuaave</a>
 firefoxview-tabpickup-signed-out-header = Eñepyrũ tembiapo eikejey hag̃ua
