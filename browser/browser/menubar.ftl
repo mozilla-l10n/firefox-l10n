@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -38,11 +44,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }-ৰ পৰা ওলাওক
-
 menu-about =
     .label = { -brand-shorter-name }-ৰ বিষয়ে
     .accesskey = A
@@ -72,6 +76,16 @@ menu-file-open-location =
 menu-file-open-file =
     .label = ফাইল খোলক…
     .accesskey = O
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] টেব জপাওক
+            [one] { $tabCount }টা টেব জপাওক
+           *[other] { $tabCount }টা টেব জপাওক
+        }
+    .accesskey = C
 menu-file-close-window =
     .label = উইণ্ড' বন্ধ কৰক
     .accesskey = d
@@ -212,6 +226,9 @@ menu-history-undo-menu =
     .label = শেহতীয়াভাৱে বন্ধ কৰা টেবসমূহ
 menu-history-undo-window-menu =
     .label = শেহতীয়াভাৱে বন্ধ কৰা উইণ্ড'সমূহ
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = ইতিহাসত সন্ধান কৰক
 
 ## Bookmarks Menu
 
@@ -220,6 +237,13 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = বুকমাৰ্ক পৰিচালনা কৰক
+menu-bookmark-tab =
+    .label = বৰ্তমানৰ টেব বুকমাৰ্ক কৰক…
+menu-edit-bookmark =
+    .label = এই বুকমাৰ্ক সম্পাদন কৰক…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = বুকমাৰ্কবোৰত সন্ধান কৰক
 menu-bookmarks-all-tabs =
     .label = সকলো টেব পত্ৰচিহ্নিত কৰক…
 menu-bookmarks-toolbar =
@@ -304,12 +328,18 @@ menu-help-more-troubleshooting-info =
     .accesskey = T
 menu-help-report-site-issue =
     .label = ছাইট সমস্যাৰ প্ৰতিবেদন দিয়ক…
+menu-help-share-ideas =
+    .label = চিন্তাধাৰা আৰু মতামত ভাগ-বতৰা কৰক…
+    .accesskey = S
 menu-help-enter-troubleshoot-mode2 =
     .label = সমস্যা-সমাধান ম'ড
     .accesskey = M
 menu-help-exit-troubleshoot-mode =
     .label = সমস্যা-সমাধান ম'ড বন্ধ কৰক
     .accesskey = M
+menu-help-switch-device =
+    .label = নতুন এটা ডিভাইচলৈ সলনি কৰা
+    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
@@ -318,3 +348,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = এইটো প্ৰবঞ্চক ছাইট নহয়…
     .accesskey = d
+menu-report-broken-site =
+    .label = নষ্ট ছাইটৰ কথা সদৰী কৰক
