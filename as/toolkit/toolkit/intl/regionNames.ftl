@@ -34,6 +34,7 @@ region-name-bl = ছেইণ্ট বাৰথেলেমী
 region-name-bm = বাৰ্মুডা
 region-name-bn = ব্ৰুনেই
 region-name-bo = ব'লিভিয়া
+region-name-bq-2018 = কেৰিবিয়ান নেদাৰলেণ্ড
 region-name-br = ব্ৰাজিল
 region-name-bs = বাহামাছ, দি
 region-name-bt = ভুটান
