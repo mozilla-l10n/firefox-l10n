@@ -14,13 +14,13 @@ bookmark-overlay-location-2 =
     .value = Tendaite
     .accesskey = L
 bookmark-overlay-choose =
-    .label = Poravo...
+    .label = Poravo…
 bookmark-overlay-folders-expander =
-    .tooltiptext = Opavave ñongatuha techaukaha rehegua jehechauka
+    .tooltiptext = Opaite ñongatuha rechaukaha rehegua jehechauka
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Moñemi
 bookmark-overlay-folders-expander2 =
-    .tooltiptext = Opavave ñongatuha techaukaha rehegua jehechauka
+    .tooltiptext = Opaite ñongatuha rechaukaha rehegua jehechauka
 bookmark-overlay-folders-expander-hide =
     .tooltiptext = Moñemi
 # bookmark-overlay-folders-tree is used to provide an accessible name to the tree view of the Bookmarks directory, when it is expanded

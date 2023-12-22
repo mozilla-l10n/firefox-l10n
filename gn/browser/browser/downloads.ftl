@@ -158,9 +158,9 @@ downloading-file-opens-in-minutes-and-seconds-2 =
 downloading-file-opens-in-seconds-2 =
     .value = Ijurujáta { $seconds }s…
 downloading-file-opens-in-some-time-2 =
-    .value = Ijurujáta henyhẽte vove…
+    .value = Ijurujáta henyhẽ vove…
 downloading-file-click-to-open =
-    .value = Ijurujáta henyhẽte vove
+    .value = Ijurujáta henyhẽ vove
 
 ##
 
@@ -181,7 +181,7 @@ downloads-history =
 # This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
-    .title = Ñemboguejy Sa’ikue
+    .title = Ñemboguejy mba’emimi
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
@@ -191,7 +191,7 @@ downloads-details =
 downloads-files-not-downloaded =
     { $num ->
         [one] Marandurenda oguejy’ỹva.
-       *[other] { $num } archivos no descargados.
+       *[other] { $num } marandurenda oguejy’ỹva.
     }
 downloads-blocked-from-url = Ñemboguejy jokopyre { $url } guive.
 downloads-blocked-download-detailed-info = { $url } omboguejyse ijehegui marandurendaita. Pe tenda ikatu hekomarã térã ombyatyse marandurenda spam reheguáva ne mba’e’okápe.
