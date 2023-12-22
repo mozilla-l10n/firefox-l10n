@@ -7,6 +7,7 @@ pictureinpicture-player-title = ছবিৰ-ওপৰত-ছবি
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -15,12 +16,30 @@ pictureinpicture-player-title = ছবিৰ-ওপৰত-ছবি
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+pictureinpicture-pause-btn =
+    .aria-label = ৰখাওক
+    .tooltip = ৰখাওক (স্পে’চবাৰ)
+pictureinpicture-play-btn =
+    .aria-label = চলাওক
+    .tooltip = চলাওক (স্পে’চবাৰ)
+pictureinpicture-mute-btn =
+    .aria-label = শব্দহীন কৰক
+    .tooltip = শব্দহীন কৰক ({ $shortcut })
+pictureinpicture-unmute-btn =
+    .aria-label = শব্দ চালু কৰক
+    .tooltip = শব্দ চালু কৰক ({ $shortcut })
+pictureinpicture-unpip-btn =
+    .aria-label = টেবলৈ ঘূৰাই পঠিয়াওক
+    .tooltip = টেবলৈ ঘূৰাই
+
 ##
+
 
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
 ## DOM node that then shows the tooltip.
+
 
 ##
 

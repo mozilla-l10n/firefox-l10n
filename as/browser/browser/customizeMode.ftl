@@ -31,6 +31,7 @@ customize-mode-uidensity-menu-compact-unsupported =
     .tooltiptext = কম্পেক্ট (সমৰ্থিত নহয়)
 customize-mode-undo-cmd =
     .label = পূৰ্বৰ দৰে
+customize-mode-lwthemes-link = থীমবোৰ পৰিচালনা কৰক
 customize-mode-touchbar-cmd =
     .label = স্পৰ্শ দণ্ডিকা অনুকূলিত কৰক…
 customize-mode-downloads-button-autohide =
