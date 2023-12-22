@@ -42,6 +42,7 @@ pocket-panel-signup-signup-firefox = { -brand-product-name }-এৰে ছাই
 pocket-panel-signup-tagline = যিকোনো ডিভাইচত, যিকোনো সময়তেই { -pocket-brand-name }-ত চাবলৈ { -brand-product-name }-ৰ প্ৰবন্ধ আৰু ভিডিঅ'সমূহ সাঁচি থওক।
 pocket-panel-signup-tagline-story-one = { -brand-product-name }-ৰ যিকোনো প্ৰবন্ধ, ভিডিঅ' বা পৃষ্ঠা সাঁচি থ'বলৈ { -pocket-brand-name } বুটামটোত ক্লিক কৰক।
 pocket-panel-signup-tagline-story-two = { -pocket-brand-name }-ত যিকোনো ডিভাইচত, যেতিয়াই-তেতিয়াই চাওক।
+pocket-panel-signup-cta-a-fix = ইণ্টাৰনেটৰ সমল সাঁচি ৰাখিবলৈ আপোনাৰ বুটাম
 
 ## about:pocket-home panel
 
@@ -53,6 +54,10 @@ pocket-panel-home-explore-more = অন্বেষণ কৰক
 
 ## Pocket panel header component
 
+pocket-panel-header-sign-in = ছাইন ইন
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = সকলো দেখুৱাওক
+pocket-panel-button-activate = { -brand-product-name }-ত { -pocket-brand-name } সক্ৰিয় কৰক
+pocket-panel-button-remove = আঁতৰাওক
