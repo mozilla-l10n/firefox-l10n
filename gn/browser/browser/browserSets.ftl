@@ -4,159 +4,119 @@
 
 window-minimize-command =
     .label = Momichĩ
-
 window-zoom-command =
     .label = Tuichakue
-
 window-new-shortcut =
     .key = N
-
 window-minimize-shortcut =
-    .key = m
-
+    .key = M
 close-shortcut =
     .key = W
-
 tab-new-shortcut =
-    .key = t
-
+    .key = T
 location-open-shortcut =
-    .key = l
-
+    .key = L
 location-open-shortcut-alt =
-    .key = d
-
+    .key = D
 search-focus-shortcut =
-    .key = k
-
+    .key = K
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
 find-shortcut =
-    .key = f
-
+    .key = F
 search-find-again-shortcut =
-    .key = g
-
+    .key = G
 search-find-again-shortcut-alt =
     .keycode = VK_F3
-
 search-find-selection-shortcut =
-    .key = e
-
+    .key = E
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 search-focus-shortcut-alt =
     .key =
         { PLATFORM() ->
-            [linux] j
-           *[other] e
+            [linux] J
+           *[other] E
         }
-
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 downloads-shortcut =
     .key =
         { PLATFORM() ->
-            [linux] y
-           *[other] j
+            [linux] Y
+           *[other] J
         }
-
 addons-shortcut =
     .key = A
-
 file-open-shortcut =
-    .key = o
-
+    .key = O
 save-page-shortcut =
-    .key = s
-
+    .key = S
 page-source-shortcut =
-    .key = u
-
+    .key = U
 # This should match the Option+Command keyboard shortcut letter that Safari
 # and Chrome use for "View Source" on macOS. `page-source-shortcut` above
 # is Firefox's official keyboard shortcut shown in the GUI.
 # Safari variant is an alias provided for the convenience of Safari and Chrome
 # users on macOS. See bug 1398988.
 page-source-shortcut-safari =
-    .key = u
-
+    .key = U
 page-info-shortcut =
-    .key = i
-
+    .key = I
 print-shortcut =
-    .key = p
-
+    .key = P
 mute-toggle-shortcut =
     .key = M
-
 nav-back-shortcut-alt =
     .key = [
-
 nav-fwd-shortcut-alt =
     .key = ]
-
 nav-reload-shortcut =
-    .key = r
-
+    .key = R
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
-
 history-show-all-shortcut =
     .key = H
-
 history-show-all-shortcut-mac =
     .key = Y
-
 history-sidebar-shortcut =
-    .key = h
-
+    .key = H
 full-screen-shortcut =
-    .key = f
-
+    .key = F
 reader-mode-toggle-shortcut-windows =
     .keycode = VK_F9
-
 reader-mode-toggle-shortcut-other =
     .key = R
-
 picture-in-picture-toggle-shortcut-mac =
     .key = ]
-
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut-mac` key.
 picture-in-picture-toggle-shortcut-mac-alt =
     .key = { "}" }
-
 picture-in-picture-toggle-shortcut =
     .key = ]
-
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
-
 bookmark-this-page-shortcut =
-    .key = d
-
+    .key = D
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 bookmark-show-library-shortcut =
     .key = O
-
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
 bookmark-show-sidebar-shortcut =
-    .key = b
-
+    .key = B
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -169,25 +129,18 @@ bookmark-show-toolbar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
-
 full-zoom-reduce-shortcut-alt-a =
     .key = _
-
 full-zoom-reduce-shortcut-alt-b =
     .key = { "" }
-
 full-zoom-enlarge-shortcut =
     .key = +
-
 full-zoom-enlarge-shortcut-alt =
     .key = =
-
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
-
 full-zoom-reset-shortcut =
     .key = 0
-
 full-zoom-reset-shortcut-alt =
     .key = { "" }
 
@@ -195,7 +148,6 @@ full-zoom-reset-shortcut-alt =
 
 bidi-switch-direction-shortcut =
     .key = X
-
 private-browsing-shortcut =
     .key = P
 
@@ -204,15 +156,11 @@ private-browsing-shortcut =
 
 quit-app-shortcut =
     .key = Q
-
 help-shortcut =
     .key = ?
-
 preferences-shortcut =
     .key = ,
-
 hide-app-shortcut =
     .key = H
-
 hide-other-apps-shortcut =
     .key = H
