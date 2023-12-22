@@ -26,6 +26,9 @@ list-empty-button =
 help-button = Skor an askouezhioù
 sidebar-help-button-title =
     .title = Skor an askouezhioù
+addons-settings-button = Arventennoù { -brand-short-name }
+sidebar-settings-button-title =
+    .title = Arventennoù { -brand-short-name }
 show-unsigned-extensions-button =
     .label = N'haller ket gwiriekaat lod eus an askouezhioù
 show-all-extensions-button =
@@ -34,6 +37,8 @@ detail-version =
     .label = Handelv
 detail-last-updated =
     .label = Hizivadur diwezhañ
+addon-detail-description-expand = Diskouez muioc’h
+addon-detail-description-collapse = Diskouez nebeutoc’h
 detail-contributions-description = Goulenn a ra paotr an diorren ma vefe skoazellet diorroadur an askouezh-mañ ganeoc'h dre ur perzhiadur-arc'hant vihan.
 detail-contributions-button = Kemer perzh
     .title = Kemer perzh e diorren an enlugellad
@@ -147,6 +152,7 @@ extensions-warning-update-security2 =
     .message = Diweredekaet eo ar gwiriañ evit hizivaat an askouezhioù. Marteze e viot lakaet en arvar gant hizivadurioù.
 extensions-warning-update-security-button = Gweredekaat
     .title = Gweredekaat ar gwiriadur a-fet diogelroez hizivadur an askouezh
+extensions-warning-imported-addons-button = Staliañ askouezhioù
 
 ## Strings connected to add-on updates
 
@@ -293,6 +299,8 @@ dictionary-enabled-heading = Gweredekaet
 dictionary-disabled-heading = Diweredekaet
 locale-enabled-heading = Gweredekaet
 locale-disabled-heading = Diweredekaet
+sitepermission-enabled-heading = Gweredekaet
+sitepermission-disabled-heading = Diweredekaet
 always-activate-button = Atav gweredekaat
 never-activate-button = Na weredekaat biken
 addon-detail-author-label = Aozer
@@ -357,6 +365,9 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Aotren
+addon-detail-quarantined-domains-disallow = Na aotren
 # aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
