@@ -20,3 +20,6 @@ contentanalysis-genericresponse-message = Pe tetepy resa’ỹijoha ombohovái {
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Nde atyguasu oiporu software mba’ekuaarã ani hag̃ua iñapañuãi ojokómava ko tetepy: { $content }.
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-error-message = Oiko jajavy ehaívo pe software mba’ekuaarã mo’ãhápe. Noñemoneĩri ñembohasa porupyrã: { $content }.
