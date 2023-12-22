@@ -20,7 +20,7 @@ cfr-doorhanger-extension-manage-settings-button = Merañ an arventennoù erbedi�
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = Na ziskouez din an erbedadenn-mañ
     .accesskey = N
-cfr-doorhanger-extension-learn-more-link = Gouzout hiroc'h
+cfr-doorhanger-extension-learn-more-link = Gouzout hiroc’h
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -78,7 +78,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 cfr-protections-panel-header = Merdeit hep bezañ heuliet
 cfr-protections-panel-body = Mirit ho roadennoù ganeoc'h. { -brand-short-name } a warez ac'hanoc'h eus lodenn vrasañ an heulierien a sell ouzh ar pezh a rit enlinenn.
-cfr-protections-panel-link-text = Gouzout hiroc'h
+cfr-protections-panel-link-text = Gouzout hiroc’h
 
 ## What's New toolbar button and panel
 
@@ -250,7 +250,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-learnmore = Gouzout hiroc'h
+launch-on-login-learnmore = Gouzout hiroc’h
 launch-on-login-infobar-confirm-button = Ya, digeriñ { -brand-short-name }
     .accesskey = Y
 launch-on-login-infobar-reject-button = Diwezhatoc'h

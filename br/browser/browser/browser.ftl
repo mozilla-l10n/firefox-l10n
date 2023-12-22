@@ -115,7 +115,7 @@ urlbar-result-menu-button =
 urlbar-result-menu-button-feedback = Evezhiadennoù
     .title = Digeriñ al lañser
 urlbar-result-menu-learn-more =
-    .label = Gouzout hiroc'h
+    .label = Gouzout hiroc’h
     .accesskey = G
 urlbar-result-menu-remove-from-history =
     .label = Dilemel eus ar roll-istor
@@ -201,7 +201,7 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Ar wech-mañ, klaskit gant:
+search-one-offs-with-title = Ar wech-mañ, klask gant:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Kemmañ an arventennoù klask
 search-one-offs-context-open-new-tab =
@@ -308,7 +308,7 @@ quickactions-viewsource2 = Gwelout tarzh ar bajennad
 quickactions-cmd-viewsource = gwelout tarzh, tarzh
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
-    .title = Gouzout hiroc'h diwar-benn an Oberoù prim
+    .title = Gouzout hiroc’h diwar-benn an Oberoù prim
 
 ## Bookmark Panel
 
@@ -545,7 +545,7 @@ urlbar-placeholder-search-mode-other-actions =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = Klaskit gant: { $name } pe enankit ur chomlec'h
+    .placeholder = Klask gant { $name } pe enankañ ur chomlecʼh
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -599,11 +599,11 @@ urlbar-result-action-before-tabtosearch-other = Pouezañ Tab evit klask war { $e
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-tabtosearch-web = Klaskit gant { $engine } war-eeun eus ar varrenn chomlec’h
+urlbar-result-action-tabtosearch-web = Klask gant { $engine } war-eeun eus ar varrenn chomlecʼh
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-tabtosearch-other-engine = Klaskit gant { $engine } war-eeun eus ar varrenn chomlec’h
+urlbar-result-action-tabtosearch-other-engine = Klask gant { $engine } war-eeun eus ar varrenn chomlec’h
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Eilañ
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -977,7 +977,7 @@ firefox-relay-offer-legal-notice = En ur glikañ war “Implij an aliaz postel�
 
 popup-notification-addon-install-unsigned =
     .value = (Nann-gwiriet)
-popup-notification-xpinstall-prompt-learn-more = Gouzout hiroc'h a-zivout staliañ askouezhioù ent diogel
+popup-notification-xpinstall-prompt-learn-more = Gouzout hiroc’h a-zivout staliañ askouezhioù en un doare diogel
 
 ## Pop-up warning
 

@@ -76,4 +76,4 @@ about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } a ra
 
 about-private-browsing-felt-privacy-v1-info-header = Na lezel roud ebet war an trevnad-mañ
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } a skarzh ho toupinoù, ho roll istor ha roadennoù al lec'hiennoù pa serrit an holl brenestroù prevez.
-about-private-browsing-felt-privacy-v1-info-link = Piv a c'hallfe gwelet ar pezh a ran?
+about-private-browsing-felt-privacy-v1-info-link = Piv a c’hallfe gwelet ar pezh a ran?

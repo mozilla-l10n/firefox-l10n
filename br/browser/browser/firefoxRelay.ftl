@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } n'en deus ket ka
 ##
 
 firefox-relay-must-login-to-fxa = Kennaskañ e { -fxaccount-brand-name } a rankit ober a-raok implijout { -relay-brand-name }.
+firefox-relay-must-login-to-account = Kennaskit ouzh ho kont a-benn implijout aliazoù chomlec’h postel { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Merañ ar maskloù
     .accesskey = M

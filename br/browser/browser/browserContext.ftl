@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Implijout un titour kennaskañ enrollet
     .accesskey = I
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Implijout ar ger-tremen enrollet
     .accesskey = g
@@ -305,6 +306,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = k
 main-context-menu-manage-logins2 =
     .label = Merañ an titouroù kennaskañ
+    .accesskey = M
+main-context-menu-manage-passwords =
+    .label = Merañ ar gerioù-tremen
     .accesskey = M
 main-context-menu-keyword =
     .label = Ouzhpennañ ur ger-alc'hwez evit ar c'hlask-mañ …
@@ -369,7 +373,7 @@ main-context-menu-inspect =
 main-context-menu-inspect-a11y-properties =
     .label = Ensellout ar perzhioù haezadusted
 main-context-menu-eme-learn-more =
-    .label = Gouzout hiroc'h diwar-benn an DRM...
+    .label = Gouzout hiroc’h diwar-benn an DRM…
     .accesskey = D
 # Variables
 #   $containerName (String): The name of the current container

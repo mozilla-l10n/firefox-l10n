@@ -68,6 +68,7 @@ migration-bookmarks-option-label = Sinedoù
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Sinedoù
 migration-logins-and-passwords-option-label = Anaouadurioù ha gerioù-tremen enrollet
+migration-passwords-option-label = Gerioù-tremen enrollet
 migration-history-option-label = Roll istor ar merdeiñ
 migration-extensions-option-label = Askouezhioù
 migration-form-autofill-option-label = Roadennoù leuniañ ar furmskridoù ent emgefreek
