@@ -108,6 +108,7 @@ about-logins-login-intro-heading-logged-in = Eşitlenmiş hesap bulunamadı.
 login-intro-description = Hesaplarınızı farklı bir cihazdaki { -brand-product-name } tarayıcınıza kaydettiyseniz onları buraya aktarabilirsiniz:
 login-intro-instructions-fxa = Hesaplarınızın kayıtlı olduğu cihazda { -fxaccount-brand-name } açın veya hesabınıza giriş yapın.
 about-logins-login-intro-heading-message = Parolalarınızı güvenli bir yere kaydedin
+login-intro-description2 = { -brand-product-name } tarayıcınıza kaydettiğiniz tüm parolalar şifrelenir. Ayrıca, ihlalleri takip ediyor ve etkilenmeniz durumunda sizi uyarıyoruz. <a data-l10n-name="breach-alert-link">Daha fazla bilgi alın</a>
 login-intro-instructions-fxa2 = Hesaplarınızın kayıtlı olduğu cihazda hesap açın veya hesabınıza giriş yapın.
 login-intro-instructions-fxa-settings = Ayarlar > Eşitleme > “Eşitlemeyi başlat…” kısmına gidip “Hesaplar ve parolalar”ı işaretleyin.
 login-intro-instructions-fxa-passwords-help = Yardıma ihtiyacınız varsa <a data-l10n-name="passwords-help-link">parola desteğini</a> ziyaret edebilirsiniz.
@@ -298,6 +299,9 @@ about-logins-confirm-export-dialog-title = Hesapları ve parolaları dışa akta
 about-logins-confirm-export-dialog-message = Parolalarınız okunabilir metin olarak kaydedilecek (örn. KotuP@r0la), yani dışa aktarılan dosyayı açabilen herkes parolalarınızı görebilecektir.
 about-logins-confirm-export-dialog-confirm-button = Dışa aktar…
 about-logins-confirm-export-dialog-title2 = Parolaları dışa aktarma hakkında bir bilgi
+about-logins-confirm-export-dialog-message2 =
+    Dışa aktardığınızda, parolalarınız bir dosyaya okunabilir metin olarak kaydedilir.
+    Dosyayla işiniz bittiğinde, bu cihazı kullanan başka kişilerin parolalarınızı görmemesi için dosyayı silmenizi öneririz.
 about-logins-confirm-export-dialog-confirm-button2 = Dışa aktarma işlemine devam et
 about-logins-alert-import-title = İçe aktarma tamamlandı
 about-logins-alert-import-message = Ayrıntılı içe aktarma özetini görüntüle
