@@ -269,7 +269,7 @@ about-logins-confirm-export-dialog-confirm-button = 导出…
 about-logins-confirm-export-dialog-title2 = 导出密码注意事项
 about-logins-confirm-export-dialog-message2 =
     密码导出后，将以明文形式保存在文件中。
-    建议在使用完毕后删除文件，防止与您共用设备的人看到您的密码。
+    建议在使用完毕后删除文件，防止其他使用此设备的人看到您的密码。
 about-logins-confirm-export-dialog-confirm-button2 = 继续导出
 about-logins-alert-import-title = 导入完成
 about-logins-alert-import-message = 更多信息见：导入摘要报告
