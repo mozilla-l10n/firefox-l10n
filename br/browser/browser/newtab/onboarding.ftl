@@ -267,6 +267,8 @@ onboarding-infrequent-import-primary-button = Enporzhiañ e-barzh { -brand-short
 
 mr2022-onboarding-default-image-alt =
     .aria-label = Un den o vriata logo { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Dornioù sklaer ha teñval o c’hroc’hen oc’h ober high five
 
 ## Device migration onboarding
 

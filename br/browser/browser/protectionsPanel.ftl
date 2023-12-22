@@ -119,3 +119,5 @@ protections-panel-cookie-banner-handling-disabled = Diweredekaet evit al lec’h
 protections-panel-cookie-banner-handling-undetected = N’eo ket skoret al lec’hienn-mañ c’hoazh
 protections-panel-cookie-banner-view-cancel = Nullañ
 protections-panel-cookie-banner-view-turn-off = Diweredekaat
+protections-panel-cookie-banner-view-cancel-label =
+    .label = Nullañ
