@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Ниҳонвожаро барои { $host } нигоҳ медоред?
+password-manager-save-password-button-deny =
+    .label = Ҳоло не
+    .accesskey = Ҳ
 password-manager-save-password-button-allow =
     .label = Нигоҳ доштан
     .accesskey = S
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Ниҳонвожаро барои { $host } навсозӣ мекунед?
+password-manager-update-password-button-delete =
+    .label = Тоза кардани ниҳонвожаи нигоҳдошташуда
+    .accesskey = Т
 password-manager-update-login-add-username = Номи корбарро ба ниҳонвожаи нигоҳдошташуда илова мекунед?
 password-manager-password-password-button-allow =
     .label = Аз нав нигоҳ доштан
