@@ -469,6 +469,7 @@ about-logins-import-report-row-index = Linenn { $number }
 about-logins-import-report-row-description-no-change = Eiladur: klotañ a ra gant un titour kennaskañ a zo anezhañ endeo
 about-logins-import-report-row-description-modified = Titour kennaskañ hizivaet
 about-logins-import-report-row-description-added = Titour kennaskañ ouzhpennet
+about-logins-import-report-row-description-modified2 = Enankad hizivaet
 about-logins-import-report-row-description-added2 = Ger-tremen nevez ouzhpennet
 about-logins-import-report-row-description-error = Fazi: maezienn a vank
 
