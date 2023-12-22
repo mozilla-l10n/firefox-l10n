@@ -8,3 +8,10 @@
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-use-payment-method-os-prompt-macos = сақталған төлем әдісі ақпаратын қолдану
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } сақталған төлем әдісі ақпаратын қолданғысы келеді. Бұл Windows тіркелгісіне қатынау рұқсатын төменде растаңыз.
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } сақталған төлем әдісі ақпаратын қолданғысы келеді.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = сақталған төлем әдісі ақпаратын көрсету
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } сақталған төлем әдісі ақпаратын көрсеткісі келеді. Бұл Windows тіркелгісіне қатынау рұқсатын төменде растаңыз.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } сақталған төлем әдісі ақпаратын көрсеткісі келеді.
