@@ -48,6 +48,9 @@ shopping-show-less-button = Diskouez nebeutoc’h
 
 shopping-settings-label =
     .label = Arventennoù
+shopping-settings-recommendations-toggle =
+    .label = Diskouez bruderezh er gwirier alioù
+shopping-settings-opt-out-button = Diweredekaat ar gwirier alioù
 
 ## Strings for the adjusted rating component
 
@@ -60,6 +63,10 @@ shopping-settings-label =
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Digeriñ ar gwirier alioù
+shopping-sidebar-close-button2 =
+    .tooltiptext = Serriñ ar gwirier alioù
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
