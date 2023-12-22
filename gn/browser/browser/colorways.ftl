@@ -3,24 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Colorway collections
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Ñembosarái moheñoiha
-playmaker-colorway-description = Emoheñói pa’ũ egana hag̃ua ha eipytyvõ opavave nde jereguápe ñembosarái porãve rekávo.
-
+playmaker-colorway-description = Emoheñói pa’ũ egana hag̃ua ha eipytyvõ opavave nde jereguápe ñembosarái porãverã.
 expressionist-colorway-name = Temiandugua
 expressionist-colorway-description = Eho arapy rehe ambueháicha ha ne moheñoimbyre ombovy’áta hetaitereípe.
-
 visionary-colorway-name = Ohecha mombyrýva
 visionary-colorway-description = Emomýi pe mba’e rekotee ha emongu’e ambuépe tenonderã porãve rekávo.
-
 activist-colorway-name = Hekoku’éva
-activist-colorway-description = Eheja arapy iporãve ejuhuhaguégui ha egueroviauka peichaha.
-
+activist-colorway-description = Ehejákena arapy iporãve ejuhuhaguégui ha upéva egueroviauka peichaiteha.
 dreamer-colorway-name = Kerayvotyhára
 dreamer-colorway-description = Eroviápa po’a ouporãha ipy’aguasúvape ha nemoakãraku nde py’aguasu hag̃ua.
-
 innovator-colorway-name = Mbopyahuhára
-innovator-colorway-description = Ohecha pa’ũ opaite hendápe ha heko mbarete opavave tekove jereguápe.
+innovator-colorway-description = Ohechapaite pa’ũ opavave tendápe ha heko mbareteve tekovekuéra ijereguávagui.

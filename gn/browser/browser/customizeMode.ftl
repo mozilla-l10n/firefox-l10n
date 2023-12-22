@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = Ijypykuépe mbojevy
-customize-mode-menu-and-toolbars-header = Embotyryry temimoĩ reguerohoryvéva tembiporu rendápe ýrõ porãvorãvevýipe.
-customize-mode-overflow-list-title = Menu Ojeipysóva
+    .label = Ijypykuépe Mbojevy
+customize-mode-menu-and-toolbars-header = Embotyryry temimoĩ erohorýva tembiporu rendápe ýrõ porãvorãme.
+customize-mode-overflow-list-title = Menu Ojepysóva
 customize-mode-uidensity =
     .label = Tuicháva
 customize-mode-done =
@@ -16,11 +16,11 @@ customize-mode-titlebar =
     .label = Teratee renda
 customize-mode-uidensity-menu-touch =
     .label = Jepoko
-    .accesskey = J
+    .accesskey = T
     .tooltiptext = Jepoko
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Eiporu jepoko tableta rekópe g̃uarã
-customize-mode-overflow-list-description = Rembotyry ha repoíramo ápe temimoĩ reguerekóta umíva ne’aguĩ katu noimemo’ãi tembiporu rendápe…
+customize-mode-overflow-list-description = Embotyry ha epoírõ ápe temimoĩ erekóta umíva ne’ag̃ui katu noĩmo’ãi tembiporu rendápe…
 customize-mode-uidensity-menu-normal =
     .label = Ha’etéva
     .accesskey = N
@@ -33,6 +33,6 @@ customize-mode-undo-cmd =
     .label = Mboguevi
 customize-mode-lwthemes-link = Téma ñangareko
 customize-mode-touchbar-cmd =
-    .label = Eñemomba’e pokogua rendáre...
+    .label = Eñemomba’e pokogua rendáre…
 customize-mode-downloads-button-autohide =
     .label = Eñomi votõ inandi jave
