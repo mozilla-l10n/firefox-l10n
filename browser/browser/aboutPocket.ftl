@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = টেগ যোগ কৰক
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }-ত সাঁচি থ'বলৈ চেষ্টা কৰোঁতে কিবা ত্ৰুটি ঘটিছে।
 pocket-panel-saved-error-tag-length = টেগসমূহ 25টা বৰ্ণত সীমাবদ্ধ
 pocket-panel-saved-error-only-links = কেৱল লিংক সাঁচি থ'ব পাৰি
@@ -20,12 +19,15 @@ pocket-panel-saved-error-no-internet = { -pocket-brand-name }-ত সাঁচ�
 pocket-panel-saved-page-removed = পৃষ্ঠা আঁতৰোৱা হ'ল
 pocket-panel-saved-page-saved = { -pocket-brand-name }-ত সাঁচি থোৱা হ'ল
 pocket-panel-saved-processing-remove = পৃষ্ঠা আঁতৰাই থকা হৈছে…
+pocket-panel-saved-removed-updated = সাঁচি থোৱাবোৰৰ পৰা পৃষ্ঠা আঁতৰোৱা হ’ল
 pocket-panel-saved-processing-tags = টেগ যোগ কৰি থকা হৈছে…
 pocket-panel-saved-remove-page = পৃষ্ঠা আঁতৰাওক
 pocket-panel-saved-save-tags = সাঁচি থওক
 pocket-panel-saved-saving-tags = সঞ্চয় কৰি থকা হৈছে…
 pocket-panel-saved-suggested-tags = পৰামৰ্শমূলক টেগ
 pocket-panel-saved-tags-saved = টেগসমূহ যোগ কৰা হ'ল
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = টেগ যোগ কৰক:
 
 ## about:pocket-signup panel
 
@@ -48,6 +50,7 @@ pocket-panel-home-discover-more = অধিক আৱিষ্কাৰ কৰ�
 pocket-panel-home-explore-more = অন্বেষণ কৰক
 
 ## Pocket panel header component
+
 
 ## Pocket panel buttons
 
