@@ -112,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Воридшавиҳо барои с�
 permissions-exceptions-saved-passwords-window =
     .title = Истисноҳо - Ниҳонвожаҳои нигоҳдошташуда
     .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = «{ -brand-short-name }» барои сомонаҳое, ки ба ин рӯйхат ворид карда шудаанд, ниҳонвожаҳоро нигоҳ намедорад.
 
 ## Exceptions - Add-ons
 
