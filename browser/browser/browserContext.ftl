@@ -197,7 +197,7 @@ main-context-menu-media-play-speed-faster-2 =
 main-context-menu-media-play-speed-fastest-2 =
     .label = 2×
 main-context-menu-media-loop =
-    .label = უწყვეტი გამეორება
+    .label = გამეორება უწყვეტად
     .accesskey = ო
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
@@ -291,6 +291,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = შენახული ანგარიშის გამოყენება
     .accesskey = ო
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = შენახული პაროლის გამოყენება
     .accesskey = ო
