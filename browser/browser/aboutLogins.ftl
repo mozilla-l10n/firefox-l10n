@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Nhập dữ liệu từ
 about-logins-menu-menuitem-import-from-a-file = Nhập từ tập tin…
 about-logins-menu-menuitem-export-logins = Xuất thông tin đăng nhập…
 about-logins-menu-menuitem-remove-all-logins = Xóa tất cả thông tin đăng nhập…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Xuất mật khẩu…
 about-logins-menu-menuitem-remove-all-logins2 = Xóa tất cả mật khẩu…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -94,11 +94,14 @@ about-logins-login-intro-heading-logged-out2 = Tìm kiếm thông tin đăng nh�
 about-logins-login-intro-heading-logged-in = Không tìm thấy thông tin đăng nhập được đồng bộ hóa.
 login-intro-description = Nếu bạn đã lưu thông tin đăng nhập của mình vào { -brand-product-name } trên một thiết bị khác, thì đây là cách để có được chúng ở đây:
 login-intro-instructions-fxa = Tạo hoặc đăng nhập vào { -fxaccount-brand-name } của bạn trên thiết bị lưu thông tin đăng nhập của bạn.
+about-logins-login-intro-heading-message = Lưu mật khẩu của bạn vào nơi an toàn
+login-intro-description2 = Tất cả mật khẩu bạn lưu vào { -brand-product-name } đều được mã hóa. Ngoài ra, chúng tôi còn đề phòng các vụ rò rỉ và cảnh báo cho bạn nếu bạn bị ảnh hưởng. <a data-l10n-name="breach-alert-link">Tìm hiểu thêm</a>
 login-intro-instructions-fxa2 = Tạo hoặc đăng nhập vào tài khoản của bạn trên thiết bị lưu thông tin đăng nhập của bạn.
 login-intro-instructions-fxa-settings = Đi đến Cài đặt > Đồng bộ hóa > Bật đồng bộ hóa… Chọn hộp kiểm Thông tin đăng nhập và mật khẩu.
 login-intro-instructions-fxa-passwords-help = Truy cập <a data-l10n-name="passwords-help-link">hỗ trợ mật khẩu</a> để được trợ giúp thêm.
 about-logins-intro-browser-only-import = Nếu thông tin đăng nhập của bạn được lưu trong một trình duyệt khác, bạn có thể <a data-l10n-name="import-link">nhập chúng vào { -brand-product-name }</a>
 about-logins-intro-import2 = Nếu thông tin đăng nhập của bạn được lưu bên ngoài { -brand-product-name }, bạn có thể <a data-l10n-name="import-browser-link">nhập chúng từ trình duyệt khác</a> hoặc <a data-l10n-name="import-file-link">từ một tập tin</a>
+about-logins-intro-import3 = Chọn nút dấu cộng bên trên để thêm mật khẩu ngay. Bạn cũng có thể <a data-l10n-name="import-browser-link">nhập mật khẩu từ trình duyệt khác</a> hoặc <a data-l10n-name="import-file-link">từ một tập tin</a>.
 
 ## Login
 
@@ -265,6 +268,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Xuất thông tin đăng nhập và mật khẩu
 about-logins-confirm-export-dialog-message = Mật khẩu của bạn sẽ được lưu dưới dạng văn bản có thể đọc được (ví dụ: BadP@ssw0rd) để bất kỳ ai có thể mở tập tin được xuất đều có thể xem chúng.
 about-logins-confirm-export-dialog-confirm-button = Xuất…
+about-logins-confirm-export-dialog-title2 = Lưu ý về việc xuất mật khẩu
+about-logins-confirm-export-dialog-message2 =
+    Khi bạn xuất, mật khẩu của bạn sẽ được lưu vào một tập tin văn bản có thể đọc được.
+    Khi bạn sử dụng xong tập tin, chúng tôi khuyên bạn nên xóa nó để những người khác sử dụng thiết bị này không thể nhìn thấy mật khẩu của bạn.
+about-logins-confirm-export-dialog-confirm-button2 = Tiếp tục xuất
 about-logins-alert-import-title = Hoàn thành nhập
 about-logins-alert-import-message = Xem tóm tắt chi tiết nhập
 confirm-discard-changes-dialog-title = Hủy bỏ những thay đổi chưa lưu?
@@ -306,6 +314,11 @@ about-logins-export-file-picker-title = Xuất tập tin đăng nhập
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Xuất mật khẩu từ { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Xuất
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
