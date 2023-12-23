@@ -13,4 +13,5 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } намага
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-payment-method-os-prompt-macos = показати збережену інформацію про спосіб оплати
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } намагається показати збережену інформацію про спосіб оплати. Підтвердіть нижче доступ до цього облікового запису Windows
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } намагається показати збережену інформацію про спосіб оплати.

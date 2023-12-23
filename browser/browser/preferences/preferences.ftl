@@ -915,6 +915,7 @@ forms-windows-sso =
     .label = Дозволити єдиний вхід Windows для облікових записів Microsoft, роботи та школи
 forms-windows-sso-learn-more-link = Докладніше
 forms-windows-sso-desc = Керування обліковими записами в налаштуваннях пристрою
+windows-passkey-settings-label = Керувати ключами доступу в налаштуваннях системи
 
 ## OS Authentication dialog
 
