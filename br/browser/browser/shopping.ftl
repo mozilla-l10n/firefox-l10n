@@ -24,6 +24,7 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-ab = Alioù a c’haller kaout fiziañs enno
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -94,6 +95,7 @@ shopping-survey-terms-link = Termenoù implij
 
 ## Onboarding message strings.
 
+shopping-onboarding-not-now-button = Diwezhatoc’h
 shopping-onboarding-dialog-close-button =
     .title = Serriñ
     .aria-label = Serriñ

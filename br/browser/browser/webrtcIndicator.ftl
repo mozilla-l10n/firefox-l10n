@@ -206,8 +206,8 @@ webrtc-action-always-block =
     .label = Stankañ bepred
     .accesskey = b
 webrtc-action-not-now =
-    .label = Diwezhatoc'h
-    .accesskey = N
+    .label = Diwezhatoc’h
+    .accesskey = D
 
 ##
 

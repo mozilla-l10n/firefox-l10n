@@ -246,14 +246,14 @@ device-migration-fxa-spotlight-getting-new-device-primary-button = Penaos gwared
 pdf-default-notification-set-default-button =
     .label = Lakaat dre ziouer
 pdf-default-notification-decline-button =
-    .label = Diwezhatoc'h
+    .label = Diwezhatoc’h
 
 ## Launch on login infobar notification
 
 launch-on-login-learnmore = Gouzout hiroc’h
 launch-on-login-infobar-confirm-button = Ya, digeriñ { -brand-short-name }
     .accesskey = Y
-launch-on-login-infobar-reject-button = Diwezhatoc'h
+launch-on-login-infobar-reject-button = Diwezhatoc’h
     .accesskey = D
 
 ## These string variants are used when the “launch on login” infobar
