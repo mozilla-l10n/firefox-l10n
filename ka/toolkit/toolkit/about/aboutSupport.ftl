@@ -72,9 +72,9 @@ app-basics-multi-process-support = მრავალპროცესიან
 app-basics-fission-support = Fission-ფანჯრები
 app-basics-remote-processes-count = დაშორებულად გაშვებული პროცესები
 app-basics-enterprise-policies = დებულებები კომპანიებისთვის
-app-basics-location-service-key-google = Google Location Service-ის გასაღები
-app-basics-safebrowsing-key-google = Google Safebrowsing-ის გასაღები
-app-basics-key-mozilla = Mozilla მდებარეობის განსაზღვრის გასაღები
+app-basics-location-service-key-google = Google Location Service – გასაღები
+app-basics-safebrowsing-key-google = Google Safebrowsing – გასაღები
+app-basics-key-mozilla = Mozilla-ს მდებარეობის მომსახურების გასაღები
 app-basics-safe-mode = უსაფრთხო რეჟიმი
 app-basics-memory-size = მეხსიერების ზომა (RAM)
 app-basics-disk-available = ხელმისაწვდომი ადგილი დისკზე
@@ -158,9 +158,9 @@ restart-button-label = ხელახლა გაშვება
 
 audio-backend = ხმის ქვესისტემა
 max-audio-channels = არხების მაქსიმალური რაოდენობა
-sample-rate = დისკრეტიზაციის სასურველი სიხშირე
+sample-rate = შერჩევის სასურველი სიხშირე
 roundtrip-latency = წრიული დაყოვნება (სტანდარტული გადახრა)
-media-title = მედია
+media-title = მედიაფაილები
 media-output-devices-title = გამოტანის მოწყობილობები
 media-input-devices-title = შეტანის მოწყობილობები
 media-device-name = სახელი
@@ -186,6 +186,11 @@ media-codec-support-supported = მხარდაჭერილი
 media-codec-support-unsupported = მხარდაუჭერელი
 media-codec-support-error = მშიფრავის მხარდაჭერის შესახებ უცნობია. სცადეთ კვლავ მედიაფაილის გაშვების შემდეგ.
 media-codec-support-lack-of-extension = გაფართოების ჩადგმა
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -285,18 +290,18 @@ gpu-vendor-id = მწარმოებლის ID
 gpu-device-id = მოწყობილობის ID
 gpu-subsys-id = ქვესისტემის ID
 gpu-drivers = დრაივერები
-gpu-ram = RAM
+gpu-ram = მეხსიერება (RAM)
 gpu-driver-vendor = დრაივერის გამომშვები
 gpu-driver-version = დრაივერის ვერსია
 gpu-driver-date = დრაივერის თარიღი
 gpu-active = მოქმედი
 webgl1-wsiinfo = WebGL 1 დრაივერის WSI მონაცემები
-webgl1-renderer = WebGL 1 დრაივერის რენდერერი
+webgl1-renderer = WebGL 1 დრაივერი გამოსახვისთვის
 webgl1-version = WebGL 1 დრაივერის ვერსია
 webgl1-driver-extensions = WebGL 1 დრაივერის გაფართოებები
 webgl1-extensions = WebGL 1 გაფართოებები
 webgl2-wsiinfo = WebGL 2 დრაივერის WSI მონაცემები
-webgl2-renderer = WebGL2 რენდერერი
+webgl2-renderer = WebGL2 დრაივერი გამოსახვისთვის
 webgl2-version = WebGL 2 დრაივერის ვერსია
 webgl2-driver-extensions = WebGL 2 დრაივერის გაფართოებები
 webgl2-extensions = WebGL 2 გაფართოებები
