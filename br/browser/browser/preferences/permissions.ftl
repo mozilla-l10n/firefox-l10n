@@ -110,6 +110,7 @@ permissions-exceptions-saved-logins-desc = Ne vo ket enrollet titouroù kennaska
 permissions-exceptions-saved-passwords-window =
     .title = Nemedennoù - Gerioù-tremen enrollet
     .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } n’enrollo ket ar gerioù-tremen evit al lec’hiennoù-mañ.
 
 ## Exceptions - Add-ons
 

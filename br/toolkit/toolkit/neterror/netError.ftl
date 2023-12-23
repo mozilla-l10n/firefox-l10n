@@ -41,10 +41,10 @@ neterror-captive-portal = Ret eo deoc'h kennaskañ d'ar rouedad-mañ a-raok beza
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Hag e felle deoc'h mont da <a data-l10n-name="website">{ $hostAndPath }</a>?
-neterror-dns-not-found-hint-header = <strong>M'ho peus skrivet ar chomlec'h mat e c'hallit :</strong>
+neterror-dns-not-found-hint-header = <strong>M’ho peus skrivet ar chomlec’h mat e c’hallit :</strong>
 neterror-dns-not-found-hint-try-again = Klask en-dro diwezhatoc'h
-neterror-dns-not-found-hint-check-network = Gweredekait oc'h kevreet mat ouzh ar rouedad
-neterror-dns-not-found-hint-firewall = Gweredekait en deus { -brand-short-name } an aotre da vont war ar web (kevreet e c'hallfec'h bezañ, met a-dreñv ur maltouter)
+neterror-dns-not-found-hint-check-network = Gweredekait hag-eñ oc’h kevreet mat ouzh ar rouedad
+neterror-dns-not-found-hint-firewall = Gweredekait en deus { -brand-short-name } an aotre da vont war ar web (kevreet e c’hallfec’h bezañ, met a-dreñv ur maltouter)
 
 ## TRR-only specific messages
 ## Variables:
