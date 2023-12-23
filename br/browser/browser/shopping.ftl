@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Stal { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Gwirier alioù
@@ -37,10 +38,20 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Titouroù nevez zo da wiriañ
+shopping-message-bar-analysis-in-progress-title2 = O wiriañ kalite an alioù
+shopping-message-bar-analysis-in-progress-message2 = Gallout a ra padout tro-dro 60 segondenn.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = O wiriañ kalite an alioù ({ $percentage }%)
 
 ## Strings for the product review snippets card
 
 shopping-highlight-price = Priz
+shopping-highlight-quality = Kalite
+shopping-highlight-shipping = Kas
+shopping-highlight-competitiveness = Kevezerezh
+shopping-highlight-packaging = Pakata
 
 ## Strings for show more card
 
@@ -61,9 +72,13 @@ shopping-adjusted-rating-unreliable-reviews = Alioù arvarus lamet
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Penaos e c’haller kaout fiziañs en alioù-se?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Penaos e priziomp kalite an alioù
 
 ## Strings for UrlBar button
 
@@ -79,17 +94,25 @@ shopping-sidebar-close-button2 =
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-analyze-button = Gwiriañ kalite an alioù
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Produioù all
+ad-by-fakespot = Bruderezh gant { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Skoazellit da wellaat { -brand-product-name }
 shopping-survey-q2-radio-1-label = Ya
 shopping-survey-q2-radio-2-label = Ket
 shopping-survey-q2-radio-3-label = N’ouzon ket
 shopping-survey-next-button-label = War-lerc’h
+shopping-survey-submit-button-label = Kas
 shopping-survey-terms-link = Termenoù implij
+shopping-survey-thanks =
+    .heading = Trugarez da vezañ roet hoc’h ali!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -98,7 +121,14 @@ shopping-survey-terms-link = Termenoù implij
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = Ya, esaeañ anezhañ
 shopping-onboarding-not-now-button = Diwezhatoc’h
 shopping-onboarding-dialog-close-button =
     .title = Serriñ
     .aria-label = Serriñ
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Araokadur: pazenn { $current } diwar { $total }
