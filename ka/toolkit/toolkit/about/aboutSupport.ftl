@@ -191,6 +191,15 @@ media-codec-support-lack-of-extension = გაფართოების ჩა
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-content-decryption-modules-title = შიგთავსის გაშიფვრის მოდულების შესახებ
+media-key-system-name = გასაღების სისტემის სახელი
+media-video-robustness = ვიდეოსფაილის ხელშეუხებლობა
+media-audio-robustness = ხმოვანი ფაილის ხელშეუხებლობა
+media-cdm-capabilities = შესაძლებლობები
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = დაუშიფრავად დაწყება
 
 ##
 
