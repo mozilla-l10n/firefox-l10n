@@ -6,7 +6,7 @@
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Playmaker
-expressionist-colorway-name = Ekspresionour
+expressionist-colorway-name = Eztaoler
 visionary-colorway-name = Dreistweler
 activist-colorway-name = Stourmer
 dreamer-colorway-name = Huñvreour
