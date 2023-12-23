@@ -76,6 +76,7 @@ migration-bookmarks-option-label = სანიშნები
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = რჩეულები
 migration-logins-and-passwords-option-label = შენახული ანგარიშები და პაროლები
+migration-passwords-option-label = შენახული პაროლები
 migration-history-option-label = დათვალიერების ისტორია
 migration-extensions-option-label = გაფართოებები
 migration-form-autofill-option-label = შევსებული ველების მონაცემები

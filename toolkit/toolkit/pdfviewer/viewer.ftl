@@ -220,7 +220,7 @@ pdfjs-find-previous-button-label = წინა
 pdfjs-find-next-button =
     .title = ფრაზის შემდეგი კონტექსტის პოვნა
 pdfjs-find-next-button-label = შემდეგი
-pdfjs-find-highlight-checkbox = ყველას მონიშვნა
+pdfjs-find-highlight-checkbox = ყველაფრის მონიშვნა
 pdfjs-find-match-case-checkbox-label = მთავრულით
 pdfjs-find-match-diacritics-checkbox-label = ნიშნებით
 pdfjs-find-entire-word-checkbox-label = მთლიანი სიტყვები
@@ -308,6 +308,12 @@ pdfjs-editor-remove-button =
 
 pdfjs-editor-remove-ink-button =
     .title = დახაზულის მოცილება
+pdfjs-editor-remove-freetext-button =
+    .title = წარწერის მოცილება
+pdfjs-editor-remove-stamp-button =
+    .title = სურათის მოცილება
+pdfjs-editor-remove-highlight-button =
+    .title = მონიშვნის მოცილება
 
 ##
 
@@ -360,3 +366,19 @@ pdfjs-editor-resizer-label-middle-left = შუაში მარცხნი�
 
 ## Color picker
 
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = მოსანიშნი ფერი
+pdfjs-editor-colorpicker-button =
+    .title = ფერის შეცვლა
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = ფერის არჩევა
+pdfjs-editor-colorpicker-yellow =
+    .title = ყვითელი
+pdfjs-editor-colorpicker-green =
+    .title = მწვანე
+pdfjs-editor-colorpicker-blue =
+    .title = ლურჯი
+pdfjs-editor-colorpicker-pink =
+    .title = ვარდისფერი
+pdfjs-editor-colorpicker-red =
+    .title = წითელი
