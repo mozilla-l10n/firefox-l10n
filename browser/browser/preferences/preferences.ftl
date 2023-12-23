@@ -895,6 +895,7 @@ forms-windows-sso =
     .label = Cho phép Windows đăng nhập một lần cho tài khoản Microsoft, cơ quan và trường học
 forms-windows-sso-learn-more-link = Tìm hiểu thêm
 forms-windows-sso-desc = Quản lý tài khoản trong cài đặt thiết bị của bạn
+windows-passkey-settings-label = Quản lý passkey trong cài đặt hệ thống
 
 ## OS Authentication dialog
 
