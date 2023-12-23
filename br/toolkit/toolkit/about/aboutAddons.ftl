@@ -251,9 +251,18 @@ discopane-intro =
     suraat ho kerioù-tremen, pellgargañ videoioù, kavout taolioù mat, stankañ 
     ar bruderezh strobus, cheñch neuz ho merdeer hag all. An arloadigoù-se a vez 
     diorroet gant un tredeour. Setu un dibab <a data-l10n-name="learn-more-trigger">kuzuliet</a> 
-    gant { -brand-product-name } evit ur surentez, un digonusted hag arc'hweladurioù dibar.
-discopane-notice-learn-more = Gouzout hiroc'h
-privacy-policy = Reolenn a-fet buhez prevez
+    gant { -brand-product-name } evit ur surentez, un digonusted hag arc’hweladurioù dibar.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Lod ag an erbedadennoù-se a zo personelaet. Diazezet int war an askouezhioù
+    all ho peus staliet, penndibaboù ho profil hag ar stadegoù implij.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Lod ag an erbedadennoù-se a zo personelaet. Diazezet int war an askouezhioù
+        all ho peus staliet, penndibaboù ho profil hag ar stadegoù implij.
+discopane-notice-learn-more = Gouzout hiroc’h
+privacy-policy = Reolennoù a-fet buhez prevez
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
