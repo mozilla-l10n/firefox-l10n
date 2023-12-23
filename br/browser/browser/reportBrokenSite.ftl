@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 report-broken-site-panel-url = URL
+report-broken-site-panel-reason-media =
+    .label = Skeudennoù pe videoioù
 report-broken-site-panel-button-cancel =
     .label = Nullañ
 report-broken-site-panel-button-okay =
