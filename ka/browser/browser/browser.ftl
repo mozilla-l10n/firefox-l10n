@@ -351,6 +351,7 @@ identity-connection-secure = კავშირი დაცულია
 identity-connection-failure = კავშირი ვერ შედგა
 identity-connection-internal = { -brand-short-name } – უსაფრთხო გვერდი.
 identity-connection-file = ეს გვერდი თქვენს კომპიუტერში ინახება.
+identity-connection-associated = ეს გვერდი გახსნილია სხვა გვერდიდან.
 identity-extension-page = ეს გვერდი გახსნილია გაფართოების მიერ.
 identity-active-blocked = { -brand-short-name } ზღუდავს გვერდის დაუცველ ნაწილებს.
 identity-custom-root = კავშირი დამოწმებულია სერტიფიკატის გამომშვების მიერ, რომელიც უცნობია Mozilla-სთვის.

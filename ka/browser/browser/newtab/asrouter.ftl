@@ -246,7 +246,7 @@ device-migration-fxa-spotlight-older-device-header = სიმშვიდეზ
 device-migration-fxa-spotlight-older-device-body = ანგარიში უზრუნველყოფს თქვენი მნიშვნელოვანი მონაცემების მზადყოფნასა და დაცულობას ყველა დაკავშირებულ მოწყობილობაზე.
 device-migration-fxa-spotlight-older-device-primary-button = შექმენით ანგარიში
 device-migration-fxa-spotlight-getting-new-device-header-2 = ახალ მოწყობილობაზე გადადიხართ?
-device-migration-fxa-spotlight-getting-new-device-body = დაამარქაფეთ მონაცემები ახლავე, რომ მზად იყოთ ახალი მოწყობილობის მიღებისთანავე.
+device-migration-fxa-spotlight-getting-new-device-body-2 = მიჰყევით რამდენიმე მარტივ ნაბიჯს, რომ თან წაიყოლოთ თქვენი სანიშნები, ისტორია და პაროლები ახალ მოწყობილობაზე გადასვლისას.
 device-migration-fxa-spotlight-getting-new-device-primary-button = როგორაა შესაძლებელი დამარქაფება
 
 ## Set as Default PDF Reader Infobar
