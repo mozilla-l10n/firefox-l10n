@@ -80,6 +80,7 @@ about-webauthn-auth-option-uvacfg = Иҷозати танзимоти «Authenti
 about-webauthn-auth-option-credmgmt = Идоракунии маълумоти корбар
 about-webauthn-auth-option-credentialmgmtpreview = Намунаи идоракунии маълумоти корбар
 about-webauthn-auth-option-setminpinlength = Танзими дарозии ҳадди ақали рамзи PIN
+about-webauthn-auth-option-alwaysuv = Ҳамеша дархост кардани санҷиши ҳаққонияти корбар
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Дуруст
 # Shows when boolean value of an option is False. False should not be translated.
@@ -91,6 +92,8 @@ about-webauthn-auth-option-null = Дастгирӣ намешавад
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-certifications = Гувоҳномаҳо
+about-webauthn-auth-info-uv-modality = Тарзи санҷиши ҳаққонияти корбар
+about-webauthn-auth-info-firmware-version = Версияи нармафзори дастгоҳ
 about-webauthn-auth-info-min-pin-length = Дарозии ҳадди ақали рамзи PIN
 about-webauthn-auth-info-force-pin-change = Маҷбуран иваз кардани рамзи PIN
 about-webauthn-auth-info-algorithms = Алгоритмҳо

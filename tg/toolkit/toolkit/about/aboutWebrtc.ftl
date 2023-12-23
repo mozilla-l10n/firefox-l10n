@@ -197,10 +197,13 @@ about-webrtc-configuration-element-provided = Таъмин шудааст
 about-webrtc-configuration-element-not-provided = Таъмин нашудааст
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Хусусиятҳои WebRTC-и танзими корбарӣ
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Корбар танзимоти «WebRTC»-ро иваз кард
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-show-msg = Нишон додани танзимоти ивазшуда аз ҷониби корбар
 
 ##
 
