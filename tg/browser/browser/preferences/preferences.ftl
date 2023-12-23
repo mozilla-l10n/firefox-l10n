@@ -910,6 +910,7 @@ forms-windows-sso =
     .label = Иҷозат додани воридшавии ягонаи Windows барои ҳисобҳои Microsoft, корӣ ва мактабӣ
 forms-windows-sso-learn-more-link = Маълумоти бештар
 forms-windows-sso-desc = Ҳисобҳоро дар танзимоти дастгоҳи худ идора кунед
+windows-passkey-settings-label = Идоракунии шоҳкалидҳо дар танзимоти низомӣ
 
 ## OS Authentication dialog
 
@@ -935,6 +936,14 @@ autofill-payment-methods-checkbox-submessage = Дар бар гирифтани 
     .accesskey = б
 autofill-saved-payment-methods-button = Тарзҳои пардохти нигоҳдошташуда
     .accesskey = р
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Дархости санҷиши ҳаққонияти «macOS» барои пуркунӣ ва таҳриркунии тарзҳои пардохт.
+        [windows] Дархости санҷиши ҳаққонияти «Windows» барои пуркунӣ ва таҳриркунии тарзҳои пардохт.
+        [linux] Дархости санҷиши ҳаққонияти «Linux» барои пуркунӣ ва таҳриркунии тарзҳои пардохт.
+       *[other] Дархости санҷиши ҳаққоният барои пуркунӣ ва таҳриркунии тарзҳои пардохт.
+    }
+    .accesskey = х
 
 ## Privacy Section - History
 
