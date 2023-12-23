@@ -18,13 +18,13 @@ about-private-browsing-handoff-no-engine =
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff-text = Klask gant { $engine } pe skrivañ ur chomlecʼh
 about-private-browsing-handoff-text-no-engine = Klask pe skrivañ ur chomlecʼh
-about-private-browsing-not-private = N'emaoc’h ket e-barzh ur prenestr merdeiñ prevez.
+about-private-browsing-not-private = N’emaoc’h ket e-barzh ur prenestr merdeiñ prevez.
 about-private-browsing-info-description-private-window = Prenestr prevez: { -brand-short-name } a skarzh ho roll istor klask ha merdeiñ pa serrit ho holl brenestroù prevez. Ne lak ket ac’hanoc’h da vezañ dizanv.
 about-private-browsing-info-description-simplified = { -brand-short-name } a skarzh ho roll istor klask ha merdeiñ pa serrit ho holl brenestroù prevez met ne lak ket ac’hanoc’h da vezañ dizanv.
 about-private-browsing-learn-more-link = Gouzout hiroc’h
 about-private-browsing-hide-activity = Kuzhit hoc’h oberiantiz ha lec’hiadur, e kement lec’h ma verdeit.
 about-private-browsing-get-privacy = Gwarezit ho puhez prevez e pep lec’h ma verdeit
-about-private-browsing-hide-activity-1 = Kuzhat hoc’h oberiantiz merdeiñ ha lec’hiadur gant { -mozilla-vpn-brand-name }. Ur c'hlik a grou ur c’hennask suraet, war ar rouedadoù Wi-Fi foran ivez soken.
+about-private-browsing-hide-activity-1 = Kuzhat hoc’h oberiantiz merdeiñ ha lec’hiadur gant { -mozilla-vpn-brand-name }. Ur c’hlik a grou ur c’hennask suraet, war ar rouedadoù Wi-Fi foran ivez zoken.
 about-private-browsing-prominent-cta = Chomit prevez gant { -mozilla-vpn-brand-name }
 about-private-browsing-focus-promo-cta = Pellgargañ { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: merdeiñ prevez hezoug
@@ -53,7 +53,7 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
-about-private-browsing-pin-promo-header = Frankiz ar merdeiñ prevez en ur c'hlik
+about-private-browsing-pin-promo-header = Frankiz ar merdeiñ prevez en ur c’hlik
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
         [macos] Mirout en Dock
