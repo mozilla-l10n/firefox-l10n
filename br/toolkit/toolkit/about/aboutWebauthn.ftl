@@ -5,15 +5,25 @@
 
 ### Localization for about:webauthn, a security token management page
 
+# Page title
+# 'WebAuthn' is a protocol name and should not be translated
+about-webauthn-page-title = Diwar-benn WebAuthn
 
 ## Section titles
 
+about-webauthn-info-section-title = Titouroù an trevnad
+about-webauthn-pin-section-title = Merañ ar c’hod PIN
+about-webauthn-pin-required-section-title = Kod PIN rekis
+about-webauthn-confirm-deletion-section-title = Kadarnaat an dilamadur
 
 ## Info field texts
 
+about-webauthn-text-not-available = N’eo ket da gaout war ar savenn-mañ.
 
 ## Results label
 
+about-webauthn-results-success = Taol berzh!
+about-webauthn-results-general-error = Fazi!
 
 ## Labels
 

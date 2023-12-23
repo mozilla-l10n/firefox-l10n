@@ -25,6 +25,8 @@ shopping-a11y-loading =
 ## Letters are hardcoded and cannot be localized.
 
 shopping-letter-grade-description-ab = Alioù a c’haller kaout fiziañs enno
+shopping-letter-grade-description-c = Meskaj alioù sur hag arvarus
+shopping-letter-grade-description-df = Alioù arvarus
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -55,6 +57,7 @@ shopping-settings-opt-out-button = Diweredekaat ar gwirier alioù
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-unreliable-reviews = Alioù arvarus lamet
 
 ## Strings for the review reliability component
 

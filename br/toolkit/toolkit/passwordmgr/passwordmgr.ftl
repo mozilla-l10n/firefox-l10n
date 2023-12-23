@@ -5,6 +5,9 @@
 
 ## Save and update password doorhanger
 
+password-manager-save-password-button-deny =
+    .label = Diwezhatoc’h
+    .accesskey = D
 password-manager-save-password-button-allow =
     .label = Enrollañ
     .accesskey = r
