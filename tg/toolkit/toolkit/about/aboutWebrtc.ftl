@@ -204,6 +204,7 @@ about-webrtc-user-modified-configuration-heading = Корбар танзимот
 ## user modified configuration disclosure
 
 about-webrtc-user-modified-configuration-show-msg = Нишон додани танзимоти ивазшуда аз ҷониби корбар
+about-webrtc-user-modified-configuration-hide-msg = Пинҳон кардани танзимоти ивазшуда аз ҷониби корбар
 
 ##
 
