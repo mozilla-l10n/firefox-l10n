@@ -314,6 +314,9 @@ about-logins-export-file-picker-title = 导出登录信息文件
 about-logins-export-file-picker-default-filename = 登录信息.csv
 # Title of the file picker dialog
 about-logins-export-file-picker-title2 = 从 { -brand-short-name } 导出的密码
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = 导出
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
