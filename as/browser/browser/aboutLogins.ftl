@@ -214,7 +214,7 @@ confirm-delete-dialog-message = এই কাৰ্য্য পিছত পূ
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = পাছৱৰ্ড আঁতৰাবনে?
 # Message for modal to confirm the removal of one saved password
-about-logins-confirm-delete-dialog-message = আপুনি এই কাৰ্য্যটো ওলোটাব নোৱাৰে।
+about-logins-confirm-delete-dialog-message = আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰে।
 about-logins-confirm-remove-dialog-confirm-button = আঁতৰাওক
 
 ## Variables
@@ -253,6 +253,37 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] ই আপোনাৰ { -fxaccount-brand-name }-ৰ লগত ছিংক কৰা সকলো ডিভাইচত আপুনি { -brand-short-name }-ত সাঁচি থোৱা লগিনটো আঁতৰাই দিব। ই ইয়াত দেখা দিয়া উলংঘনৰ সতৰ্কবাণীও আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
         [one] ই আপোনাৰ { -fxaccount-brand-name }-ৰ লগত ছিংক কৰা সকলো ডিভাইচত আপুনি { -brand-short-name }-ত সাঁচি থোৱা সকলো লগিন আঁতৰাই দিব। ই ইয়াত দেখা দিয়া উলংঘনৰ সতৰ্কবাণীও আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
        *[other] ই আপোনাৰ { -fxaccount-brand-name }-ৰ লগত ছিংক কৰা সকলো ডিভাইচত আপুনি { -brand-short-name }-ত সাঁচি থোৱা সকলো লগিন আঁতৰাই দিব। ই ইয়াত দেখা দিয়া উলংঘনৰ সতৰ্কবাণীও আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
+    }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] ই আপোনাৰ { -brand-short-name }-ৰ লগত ছিংক কৰা সকলো ডিভাইচত আপুনি { -brand-short-name }-ত সাঁচি থোৱা লগিনটো আঁতৰাই দিব। ই ইয়াত দেখা দিয়া নিৰাপত্তাজনিত উলংঘনৰ সতৰ্কবাণীবোৰো আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
+        [one] ই আপোনাৰ { -brand-short-name }-ৰ লগত ছিংক কৰা সকলো ডিভাইচত আপুনি { -brand-short-name }-ত সাঁচি থোৱা সকলো লগিন আঁতৰাই দিব। ই ইয়াত দেখা দিয়া নিৰাপত্তাজনিত উলংঘনৰ সতৰ্কবাণীবোৰো আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
+       *[other] ই আপোনাৰ { -brand-short-name }-ৰ লগত ছিংক কৰা সকলো ডিভাইচত আপুনি { -brand-short-name }-ত সাঁচি থোৱা সকলো লগিন আঁতৰাই দিব। ই ইয়াত দেখা দিয়া নিৰাপত্তাজনিত উলংঘনৰ সতৰ্কবাণীবোৰো আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] হয়, পাছৱৰ্ড আঁতৰাওক
+        [one] হয়, পাছৱৰ্ডকেইটা আঁতৰাওক
+       *[other] হয়, পাছৱৰ্ডকেইটা আঁতৰাওক
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] { $count }টা পাছৱৰ্ড আঁতৰাবনে?
+       *[other] আটাই { $count }টা পাছৱৰ্ড আঁতৰাবনে?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] ই { -brand-short-name }-ত সাঁচি থোৱা পাছৱৰ্ডটো আৰু যিকোনো নিৰাপত্তাজনিত উলংঘনৰ সতৰ্কবাণী আঁতৰাই পেলাব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰে।
+       *[other] This will remove the passwords saved to { -brand-short-name } and any breach alerts. You cannot undo this action.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] আটাইবোৰ ডিভাইচৰ পৰা { $count }টা পাছৱৰ্ড আঁতৰাবনে?
+       *[other] আটাইবোৰ ডিভাইচৰ পৰা আটাই { $count }টা পাছৱৰ্ড আঁতৰাবনে?
     }
 
 ##
