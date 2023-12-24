@@ -126,6 +126,10 @@ about-logins-login-item-remove-button = আঁতৰাওক
 login-item-origin-label = ৱেবছাইট ঠিকনা
 login-item-tooltip-message = এইটো আপুনি লগ ইন কৰা ৱেবছাইটৰ সঠিক ঠিকনাৰ সৈতে মিলাটো নিশ্চিত কৰক।
 about-logins-origin-tooltip2 = সম্পূৰ্ণ ঠিকনাটো লিখক আৰু নিশ্চিত কৰিব যে আপুনি য’ত ছাইন ইন কৰে তাৰ সৈতে সেইটো হুবহু মিলে৷
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = নিশ্চিত কৰিব যে আপুনি এই ছাইটৰ বাবে আপোনাৰ বৰ্তমানৰ পাছৱৰ্ড সাঁচি থৈ আছে৷ ইয়াত পাছৱৰ্ড সলনি কৰিলে { $webTitle }-ত সলনি নহয়।
+about-logins-add-password-tooltip = নিশ্চিত কৰিব যে আপুনি এই ছাইটৰ বাবে আপোনাৰ বৰ্তমানৰ পাছৱৰ্ড সাঁচি হৈ আছে।
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ব্যৱহাৰকাৰীনাম
@@ -139,6 +143,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = কপি কৰক
 login-item-copied-password-button-text = কপি কৰা হল!
 login-item-save-changes-button = সাল-সলনি সঞ্চয়
+about-logins-login-item-save-changes-button = সাঁচি থওক
 login-item-save-new-button = সঞ্চয়
 login-item-cancel-button = বাতিল
 
@@ -146,6 +151,12 @@ login-item-cancel-button = বাতিল
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = সৃষ্টি হৈছে
+login-item-timeline-action-updated = আপডে’ট হৈছে
+login-item-timeline-action-used = ব্যৱহৃত
 
 ## OS Authentication dialog
 
@@ -160,6 +171,11 @@ about-logins-edit-login-os-auth-dialog-message-win = আপোনাৰ লগ�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = সাঁচি থোৱা লগিন সম্পাদনা কৰক
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = আপোনাৰ পাছৱৰ্ড সম্পাদনা কৰিবলৈ আপোনাৰ Windows-ৰ লগিন-সম্বন্ধীয় প্ৰমাণপত্ৰ লিখক। ই আপোনাৰ একাউণ্টকেইটাৰ নিৰাপত্তা বজাই ৰখাত সহায় কৰে।
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = সাঁচি থোৱা পাছৱৰ্ড সম্পাদনা কৰক
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = আপোনাৰ পাছৱৰ্ড চাবলৈ আপোনাৰ উইণ্ড'জ লগিন পৰিচয়-পত্ৰ প্ৰৱিষ্ট কৰক। ই আপোনাৰ একাউণ্টৰ নিৰাপত্তা ৰক্ষা কৰাত সহায় কৰে।
 # This message can be seen when attempting to reveal a password in about:logins
@@ -175,6 +191,11 @@ about-logins-export-password-os-auth-dialog-message-win = আপোনাৰ ল
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = সাঁচি থোৱা লগিন আৰু পাছৱৰ্ড ৰপ্তানি কৰক
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = আপোনাৰ পাছৱৰ্ডবোৰ ৰপ্তানি কৰিবলৈ আপোনাৰ Windows-ৰ লগিন-সম্বন্ধীয় প্ৰমাণপত্ৰ লিখক। ই আপোনাৰ একাউণ্টকেইটাৰ নিৰাপত্তা বজাই ৰখাত সহায় কৰে।
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = সাঁচি থোৱা পাছৱৰ্ডবোৰ ৰপ্তানি কৰক
 
 ## Primary Password notification
 
@@ -190,6 +211,10 @@ confirmation-dialog-dismiss-button =
     .title = বাতিল কৰক
 about-logins-confirm-remove-dialog-title = এই লগিন আঁতৰাবনে?
 confirm-delete-dialog-message = এই কাৰ্য্য পিছত পূৰ্বৰ দৰে কৰিব নোৱাৰি।
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = পাছৱৰ্ড আঁতৰাবনে?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = আপুনি এই কাৰ্য্যটো ওলোটাব নোৱাৰে।
 about-logins-confirm-remove-dialog-confirm-button = আঁতৰাওক
 
 ## Variables
