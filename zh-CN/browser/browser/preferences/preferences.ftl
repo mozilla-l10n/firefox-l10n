@@ -903,6 +903,7 @@ forms-windows-sso =
     .label = 允许面向 Microsoft 账户（个人/工作/学校）的 Windows 单点登录
 forms-windows-sso-learn-more-link = 详细了解
 forms-windows-sso-desc = 在您的设备设置中管理账户
+windows-passkey-settings-label = 在系统设置中管理通行密钥
 
 ## OS Authentication dialog
 
