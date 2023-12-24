@@ -112,6 +112,7 @@ about-logins-login-intro-heading-logged-out2 = Шукаеце захаваныя
 about-logins-login-intro-heading-logged-in = Сінхранізаваныя лагіны не знойдзены.
 login-intro-description = Калі вы захавалі свае лагіны ў { -brand-product-name } на іншай прыладзе, вось як атрымаць іх тут:
 login-intro-instructions-fxa = Стварыце або ўвайдзіце ў свой { -fxaccount-brand-name } на прыладзе, дзе захоўваюцца вашы лагіны.
+about-logins-login-intro-heading-message = Захоўвайце свае паролі ў бяспечным месцы
 login-intro-instructions-fxa2 = Стварыце або ўвайдзіце ў свой уліковы запіс на прыладзе, дзе захоўваюцца вашы лагіны.
 login-intro-instructions-fxa-settings = Прайдзіце ў Налады> Sync> Уключыць сінхранізацыю… Адзначце сцяжок Лагіны і паролі.
 login-intro-instructions-fxa-passwords-help = Наведайце <a data-l10n-name="passwords-help-link">падтрымку па паролях</a>, каб атрымаць дадатковую дапамогу.
