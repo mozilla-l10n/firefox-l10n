@@ -51,7 +51,9 @@ neterror-dns-not-found-hint-firewall = Gweredekait en deus { -brand-short-name }
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-offline = N’emaoc’h ket kennasket ouzh ar genrouedad.
 neterror-dns-not-found-trr-unknown-host2 = N’eo ket bet kavet al lec’hienn-mañ gant { $trrDomain }.
+neterror-dns-not-found-trr-server-problem = Ur gudenn zo bet gant { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL direizh.
 neterror-dns-not-found-trr-unknown-problem = Kudenn dic’hortoz.
 
@@ -59,6 +61,7 @@ neterror-dns-not-found-trr-unknown-problem = Kudenn dic’hortoz.
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-not-confirmed2 = N’eo ket deuet a-benn { -brand-short-name } da gennaskañ ouzh { $trrDomain }.
 
 ##
 
