@@ -108,11 +108,13 @@ about-logins-login-intro-heading-logged-in = Engar samstilltar innskráningar fu
 login-intro-description = Ef þú vistaðir innskráningar þínar á { -brand-product-name } á öðru tæki, muntu geta náð í þær svona:
 login-intro-instructions-fxa = Búðu til eða skráðu þig inn á { -fxaccount-brand-name } á tækinu þar sem innskráningar þínar eru vistaðar.
 about-logins-login-intro-heading-message = Vistaðu lykilorðin þín á öruggum stað
+login-intro-description2 = Öll lykilorð sem þú vistar á { -brand-product-name } eru dulrituð. Auk þess fylgjumst við með gagnaþjófnuðum og látum þig vita ef þú kemur við sögu. <a data-l10n-name="breach-alert-link">Frekari upplýsingar</a>
 login-intro-instructions-fxa2 = Búðu til eða skráðu þig inn á reikninginn þinn á tækinu þar sem innskráningar þínar eru vistaðar.
 login-intro-instructions-fxa-settings = Farðu í Stillingar > Samstilling > Kveikja á samstillingu... Veldu gátreitinn fyrir innskráningar og lykilorð.
 login-intro-instructions-fxa-passwords-help = Farðu í <a data-l10n-name="passwords-help-link">aðstoð fyrir lykilorð</a> til að fá frekari hjálp.
 about-logins-intro-browser-only-import = Ef innskráningar þínar eru vistaðar í öðrum vafra geturðu <a data-l10n-name="import-link">flutt þær inn í { -brand-product-name }</a>
 about-logins-intro-import2 = Ef innskráningar þínar eru vistaðar utan { -brand-product-name } geturðu <a data-l10n-name="import-browser-link">flutt þau inn úr öðrum vafra</a> eða <a data-l10n-name="import-file-link">úr skrá</a>
+about-logins-intro-import3 = Veldu plús-táknið hér að ofan til að bæta núna við lykilorði. Þú getur líka <a data-l10n-name="import-browser-link">flutt inn lykilorð úr öðrum vafra</a> eða <a data-l10n-name="import-file-link">úr skrá</a> a>.
 
 ## Login
 
@@ -298,6 +300,9 @@ about-logins-confirm-export-dialog-title = Flytja út innskráningar og lykilor�
 about-logins-confirm-export-dialog-message = Lykilorðin þín verða vistuð sem læsilegur texti (t.d. BadP@ssw0rd) svo allir sem geta opnað útfluttu skrána geta skoðað þau.
 about-logins-confirm-export-dialog-confirm-button = Flytja út…
 about-logins-confirm-export-dialog-title2 = Athugasemd um útflutning lykilorða
+about-logins-confirm-export-dialog-message2 =
+    Þegar þú flytur út lykilorð, eru þau vistuð í skrá með læsilegum texta.
+    Þegar þú ert búinn að nota skrána mælum við með að þú eyðir henni svo aðrir sem nota þetta tæki geti ekki séð lykilorðin þín.
 about-logins-confirm-export-dialog-confirm-button2 = Halda áfram með útflutning
 about-logins-alert-import-title = Innflutningi lokið
 about-logins-alert-import-message = Skoða nákvæmt innflutningsyfirlit
