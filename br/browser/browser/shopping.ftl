@@ -39,6 +39,12 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-message-2 = Titouroù nevez zo da wiriañ
+shopping-message-bar-generic-error =
+    .heading = Titour ebet da gaout evit poent
+    .message = Emaomp o klask diskoulmañ ar gudenn-se. Deuit en-dro diwezhatoc’h.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = N’eus ket a-walc’h a alioù c’hoazh
+    .message = Pa vo muioc’h a alioù gant ar produ-mañ e vo tu deomp da wiriañ e galite.
 shopping-message-bar-analysis-in-progress-title2 = O wiriañ kalite an alioù
 shopping-message-bar-analysis-in-progress-message2 = Gallout a ra padout tro-dro 60 segondenn.
 # Variables:
