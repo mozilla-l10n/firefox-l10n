@@ -4,9 +4,17 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = লগইন আৰু পাছৱৰ্ড
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
+about-logins-login-filter =
+    .placeholder = লগিনৰ সন্ধান কৰক
+    .key = F
+create-new-login-button =
+    .title = নতুন লগিনৰ সৃষ্টি কৰক
+about-logins-page-title-name = পাছৱৰ্ডবোৰ
+about-logins-login-filter2 =
+    .placeholder = পাছৱৰ্ডৰ সন্ধান কৰক
+    .key = F
+create-login-button =
+    .title = পাছৱৰ্ড যোগ কৰক
 fxaccounts-sign-in-text = আপোনাৰ পাছৱৰ্ডসমূহ আপোনাৰ অন্যান্য ডিভাইচত পাওক
 fxaccounts-sign-in-sync-button = ছিংক কৰিবলৈ ছাইন ইন কৰক
 fxaccounts-avatar-button =
@@ -21,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = আন এটা ব্
 about-logins-menu-menuitem-import-from-a-file = ফাইলৰ পৰা আমদানি কৰক…
 about-logins-menu-menuitem-export-logins = লগিন ৰপ্তানি কৰক…
 about-logins-menu-menuitem-remove-all-logins = সকলো লগিন আঁতৰাওক…
+about-logins-menu-menuitem-export-logins2 = পাছৱৰ্ড ৰপ্তানি কৰক...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] বিকল্পবোৰ
@@ -32,6 +41,8 @@ about-logins-menu-menuitem-help = সহায়
 
 login-list =
     .aria-label = সন্ধান কুৱেৰীৰ সৈতে মিলা লগইনবোৰ
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count }টা লগইন
@@ -56,7 +67,6 @@ about-logins-list-item-breach-icon =
     .title = ভগা ৱেবছাইট
 about-logins-list-item-vulnerable-password-icon =
     .title = অসুৰক্ষিত পাছৱৰ্ড
-
 about-logins-list-section-breach = গাফিলতি কৰা ৱেবছাইট
 about-logins-list-section-vulnerable = দুৰ্বল পাছৱৰ্ডসমূহ
 about-logins-list-section-nothing = আগজাননী নাই
@@ -100,6 +110,7 @@ login-item-cancel-button = বাতিল
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
@@ -113,21 +124,16 @@ about-logins-edit-login-os-auth-dialog-message-win = আপোনাৰ লগ�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = সাঁচি থোৱা লগিন সম্পাদনা কৰক
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = আপোনাৰ পাছৱৰ্ড চাবলৈ আপোনাৰ উইণ্ড'জ লগিন পৰিচয়-পত্ৰ প্ৰৱিষ্ট কৰক। ই আপোনাৰ একাউণ্টৰ নিৰাপত্তা ৰক্ষা কৰাত সহায় কৰে।
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = সাঁচি থোৱা পাছৱৰ্ড উন্মোচন কৰক
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = আপোনাৰ পাছৱৰ্ড কপি কৰিবলৈ আপোনাৰ উইণ্ড'জ লগিন পৰিচয়-পত্ৰ প্ৰৱিষ্ট কৰক। ই আপোনাৰ একাউণ্টৰ নিৰাপত্তা ৰক্ষা কৰাত সহায় কৰে।
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = সাঁচি থোৱা পাছৱৰ্ড কপি কৰক
-
-## Master Password notification
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = আপোনাৰ লগিনবোৰ ৰপ্তানি কৰিবলৈ আপোনাৰ উইণ্ড'জ লগিন পৰিচয়-পত্ৰ লিখক। ই আপোনাৰ একাউণ্টৰ নিৰাপত্তা ৰক্ষা কৰাত সহায় কৰে।
 # This message can be seen when attempting to export a password in about:logins
@@ -141,14 +147,11 @@ master-password-reload-button =
     .label = লগ ইন
     .accesskey = ল
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = বাতিল কৰক
 confirmation-dialog-dismiss-button =
     .title = বাতিল কৰক
-
 about-logins-confirm-remove-dialog-title = এই লগিন আঁতৰাবনে?
 confirm-delete-dialog-message = এই কাৰ্য্য পিছত পূৰ্বৰ দৰে কৰিব নোৱাৰি।
 about-logins-confirm-remove-dialog-confirm-button = আঁতৰাওক
@@ -162,14 +165,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] সকলো আঁতৰাওক
        *[other] সকলো আঁতৰাওক
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] হয়, এই লগিন আঁতৰাওক
         [one] হয়, এইকেইটা লগিন আঁতৰাওক
        *[other] হয়, এইকেইটা লগিন আঁতৰাওক
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count }টা লগিন আঁতৰাবনে?
@@ -181,7 +182,6 @@ about-logins-confirm-remove-all-dialog-message =
         [one] ই { -brand-short-name }-ত আপুনি সাঁচি থোৱা লগিনসমূহ আৰু ইয়াত দেখা দিয়া যিকোনো উলংঘনৰ সতৰ্কবাণী আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
        *[other] ই { -brand-short-name }-ত আপুনি সাঁচি থোৱা লগিনসমূহ আৰু ইয়াত দেখা দিয়া যিকোনো উলংঘনৰ সতৰ্কবাণী আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] সকলো ডিভাইচৰ পৰা { $count }টা লগিন আঁতৰাবনে?
@@ -199,10 +199,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = লগিন আৰু পাছৱৰ্ড ৰপ্তানি কৰক
 about-logins-confirm-export-dialog-message = আপোনাৰ পাছৱৰ্ডসমূহ পঢ়াযোগ্য পাঠ (যেনে- BadP@ssw0rd) হিচাপে সঞ্চয় কৰা হ'ব গতিকে ৰপ্তানি ফাইলটো খুলিব পৰা যিকোনো ব্যক্তিয়ে সেয়া চাব পাৰে।
 about-logins-confirm-export-dialog-confirm-button = ৰপ্তানি কৰক…
-
 about-logins-alert-import-title = আমদানি সম্পূৰ্ণ হ'ল
 about-logins-alert-import-message = আমদানিৰ বিতং সাৰাংশ চাওক
-
 confirm-discard-changes-dialog-title = সঞ্চয় নকৰা সালসলনি নাকচ কৰিবনে?
 confirm-discard-changes-dialog-message = সঞ্চয় নকৰা সকলো সালসলনি হেৰাই যাব।
 confirm-discard-changes-dialog-confirm-button = নাকচ কৰক
@@ -232,7 +230,6 @@ about-logins-vulnerable-alert-learn-more-link = অধিক জানক
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle }-ৰ বাবে সেই ব্যৱহাৰকাৰীনাম থকা এটা এণ্ট্ৰী ইতিমধ্যে মজুত আছে। <a data-l10n-name="duplicate-link">মজুত থকা এণ্ট্ৰীলৈ যাবনে?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = এই পাছৱৰ্ড সঞ্চয় কৰাৰ চেষ্টা কৰোঁতে ত্ৰুটি ঘটিছে।
 
@@ -281,12 +278,10 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>নতুন লগিন যোগ কৰা হ'ল:</span> <span data-l10n-name="count">{ $count }টা</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>মজুত থকা লগইনসমূহ আপডেট কৰা হ'ল:</span> <span data-l10n-name="count">{ $count }টা</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>ডুপ্লিকেট লগিন পোৱা গৈছে:</span> <span data-l10n-name="count">{ $count }টা</span> <span data-l10n-name="meta">(আমদানি কৰা নহ'ল)</span>
@@ -296,7 +291,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>ত্ৰুটি:</span> <span data-l10n-name="count">{ $count }টা</span> <span data-l10n-name="meta">(আমদানি কৰা নহ'ল)</span>
     }
 about-logins-import-dialog-done = হৈ গ'ল
-
 about-logins-import-dialog-error-title = আমদানি ত্ৰুটি
 about-logins-import-dialog-error-conflicting-values-title = একেটা লগিনৰ বাবে একাধিক বিৰোধী মান
 about-logins-import-dialog-error-conflicting-values-description = উদাহৰণস্বৰূপে- একেটা লগিনৰ বাবে একাধিক ব্যৱহাৰকাৰীনাম, পাছৱৰ্ড, URL, ইত্যাদি।
@@ -310,10 +304,8 @@ about-logins-import-dialog-error-no-logins-imported = কোনো লগিন 
 about-logins-import-dialog-error-learn-more = অধিক জানক
 about-logins-import-dialog-error-try-import-again = পুনৰ আমদানি কৰাৰ চেষ্টা কৰক...
 about-logins-import-dialog-error-cancel = বাতিল কৰক
-
 about-logins-import-report-title = আমদানিৰ সাৰাংশ
 about-logins-import-report-description = { -brand-short-name }-লৈ আমদানি কৰা লগিন আৰু পাছৱৰ্ডসমূহ।
-
 #
 # Variables:
 #  $number (number) - The number of the row
