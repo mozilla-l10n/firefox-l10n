@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Справаздача адпраўлена. Дзякуй!
 confirmation-hint-login-removed = Лагін выдалены!
+confirmation-hint-password-removed = Пароль выдалены!
 confirmation-hint-page-bookmarked = Захавана ў закладках
 confirmation-hint-password-saved = Пароль захаваны!
 confirmation-hint-password-created = Пароль захаваны
