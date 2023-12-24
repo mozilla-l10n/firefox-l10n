@@ -114,6 +114,7 @@ login-intro-instructions-fxa-settings = Ба Танзимот > Ҳамоҳанг
 login-intro-instructions-fxa-passwords-help = Барои кумаки бештар <a data-l10n-name="passwords-help-link">дастгирии ниҳонвожаҳоро</a> мутолиа кунед.
 about-logins-intro-browser-only-import = Агар воридшавиҳои шумо дар браузери дигар нигоҳ дошта бошанд, шумо метавонед <a data-l10n-name="import-link">онҳоро ба { -brand-product-name } ворид кунед</a>
 about-logins-intro-import2 = Агар воридшавиҳои шумо берун аз { -brand-product-name } нигоҳ дошта бошанд, шумо метавонед <a data-l10n-name="import-browser-link">онҳоро аз браузери дигар</a> ё <a data-l10n-name="import-file-link">аз файл ворид намоед</a>
+about-logins-intro-import3 = Барои дарҳол илова кардани ниҳонвожа, тугмаи болоро, ки дорои аломатӣ ҷамъ мебошад, интихоб намоед. Шумо, инчунин, метавонед <a data-l10n-name="import-browser-link">ниҳонвожаҳоро аз браузери дигар</a> ё <a data-l10n-name="import-file-link">аз файл</a> ворид намоед.
 
 ## Login
 
@@ -252,7 +253,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Ин амал воридшавиеро, ки шумо дар «{ -brand-short-name }» нигоҳ доштед, дар ҳамаи дастгоҳҳои бо ҳисоби шумо ҳамоҳангшуда тоза мекунад. Аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷой пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
-       *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+       *[other] Ин амал воридшавиҳоеро, ки шумо дар «{ -brand-short-name }» нигоҳ доштед, дар ҳамаи дастгоҳҳои бо ҳисоби шумо ҳамоҳангшуда тоза мекунад. Аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷой пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
