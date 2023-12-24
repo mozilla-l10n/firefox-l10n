@@ -279,6 +279,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] { $count } ниҳонвожаро аз ҳамаи дастгоҳҳо тоза мекунед?
        *[other] Ҳамаи { $count } ниҳонвожаро аз ҳамаи дастгоҳҳо тоза мекунед?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Ин амал ниҳонвожаеро, ки дар «{ -brand-short-name }» нигоҳ дошта шудааст, аз ҳамаи дастгоҳҳои ҳамоҳангшудаи шумо тоза мекунад. Ин амал, инчунин, ҳар гуна огоҳиеро оид ба вайронкунӣ, ки дар ин ҷой пайдо мешавад, тоза мекунад. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
+       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices. This will also remove any breach alerts that appear here. You cannot undo this action.
+    }
 
 ##
 
