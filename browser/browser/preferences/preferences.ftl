@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Leyfa eins-skiptis Windows-innskráningu fyrir Microsoft, vinnu og skólareikninga
 forms-windows-sso-learn-more-link = Frekari upplýsingar
 forms-windows-sso-desc = Sýslaðu með reikninga í stillingum tækisins
+windows-passkey-settings-label = Sýsla með lykilorð í stillingum kerfisins
 
 ## OS Authentication dialog
 
