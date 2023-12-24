@@ -20,7 +20,7 @@ pocket-panel-saved-error-remove = Degouezhet ez eus bet ur fazi en ur glask dile
 pocket-panel-saved-page-removed = Dilamet ar bajenn
 pocket-panel-saved-page-saved = Enrollet davet { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Enrollet war { -pocket-brand-name }!
-pocket-panel-saved-processing-remove = O tilemel ar bajenn...
+pocket-panel-saved-processing-remove = O tilemel ar bajenn…
 pocket-panel-saved-removed-updated = Pajenn dilamet eus ma roll
 pocket-panel-saved-processing-tags = Oc’h ouzhpennañ an tikedennoù…
 pocket-panel-saved-remove-page = Dilemel ar bajenn
@@ -55,7 +55,7 @@ pocket-panel-home-explore-popular-topics = Merdeiñ ar sujedoù brudet
 pocket-panel-home-discover-more = Dizoloiñ muioc’h c’hoazh
 pocket-panel-home-explore-more = Merdeiñ
 pocket-panel-home-most-recent-saves = Sed amañ hoc’h enrolladennoù nevesañ:
-pocket-panel-home-most-recent-saves-loading = Kargadennoù an enrolladennoù nevez...
+pocket-panel-home-most-recent-saves-loading = O kargañ an enrolladennoù nevesañ…
 pocket-panel-home-new-user-cta = Klikit war an afell { -pocket-brand-name } evit enrollañ pennadoù, videoioù hag ereoù.
 pocket-panel-home-new-user-message = Gwelit hoc’h enrolladennoù nevez amañ.
 

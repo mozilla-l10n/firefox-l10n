@@ -69,7 +69,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Goubredit ho sinedoù e pep lec'h.
 cfr-doorhanger-bookmark-fxa-body = Kavet ho peus ul lec'hienn a-zoare! Bremañ eo dav deoc'h adkavout ar sined-mañ war ho trevnadoù hezoug. Krogit gant: { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-link-text = Goubredit ar sinedoù bremañ...
+cfr-doorhanger-bookmark-fxa-link-text = Goubredit ar sinedoù bremañ…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Afell serriñ
     .title = Serriñ

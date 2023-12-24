@@ -182,7 +182,7 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
-    .label = Merañ an askouezh...
+    .label = Merañ an askouezh…
     .accesskey = M
 page-action-remove-extension2 =
     .label = Dilemel an askouezh
@@ -846,7 +846,7 @@ popups-infobar-dont-show-message =
     .label = Na ziskouez ar gemennadenn-mañ pa vez harzet an diflugelloù
     .accesskey = D
 edit-popup-settings =
-    .label = Merañ arventennoù ar prenestroù diflugell...
+    .label = Merañ arventennoù ar prenestroù diflugell…
     .accesskey = M
 picture-in-picture-hide-toggle =
     .label = Kuzhat an afell skeudenn-ouzh-skeudenn

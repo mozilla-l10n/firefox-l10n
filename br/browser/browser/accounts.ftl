@@ -11,7 +11,7 @@ account-disconnected2 = Kont digennasket
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Kan d'an holl drvenadoù
 # Menu item that links to the Firefox Accounts settings for connected devices.
-account-manage-devices = Merañ an trevnadoù...
+account-manage-devices = Merañ an trevnadoù…
 
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
@@ -22,7 +22,7 @@ account-verify = Gwiriañ { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Kas d’an holl drevnadoù
-account-manage-devices-titlecase = Merañ an trevnadoù...
+account-manage-devices-titlecase = Merañ an trevnadoù…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.

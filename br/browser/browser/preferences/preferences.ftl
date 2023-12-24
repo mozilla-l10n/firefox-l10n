@@ -246,7 +246,7 @@ choose-button =
     .accesskey = i
 choose-browser-language-description = Dibabit ar yezhoù implijet evit skrammañ lañserioù, kemennadennoù ha rebuzadurioù { -brand-short-name }.
 manage-browser-languages-button =
-    .label = Yezhoù all...
+    .label = Yezhoù all…
     .accesskey = Y
 confirm-browser-language-change-description = Adloc'hañ { -brand-short-name } evit arloañ ar c'hemmoù
 confirm-browser-language-change-button = Arloañ hag adloc'hañ
@@ -493,11 +493,11 @@ home-restore-defaults =
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (Dre ziouer)
 home-mode-choice-custom =
-    .label = URLoù personelaet...
+    .label = URLoù personelaet…
 home-mode-choice-blank =
     .label = Pajenn wenn
 home-homepage-custom-url =
-    .placeholder = Pegañ un URL...
+    .placeholder = Pegañ un URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -702,12 +702,12 @@ prefs-sync-offer-setup-label2 = Goubredit ho sinedoù, roll istor, ivinelloù, g
 prefs-sync-now =
     .labelnotsyncing = Goubredañ bremañ
     .accesskeynotsyncing = G
-    .labelsyncing = O c'houbredañ...
+    .labelsyncing = O c'houbredañ…
 prefs-sync-now-button =
     .label = Goubredañ bremañ
     .accesskey = G
 prefs-syncing-button =
-    .label = O c'houbredañ...
+    .label = O c’houbredañ…
 
 ## The list of things currently syncing.
 
@@ -728,11 +728,11 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog3 =
-    .title = Dibabit petra goubredañ
+    .title = Dibab petra goubredañ
     .style = min-width: 36em;
-    .buttonlabelaccept = Enrollañ ar c'hemmoù
+    .buttonlabelaccept = Enrollañ ar c’hemmoù
     .buttonaccesskeyaccept = E
-    .buttonlabelextra2 = Digennaskañ...
+    .buttonlabelextra2 = Digennaskañ…
     .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Sinedoù
