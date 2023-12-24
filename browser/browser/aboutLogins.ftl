@@ -30,6 +30,7 @@ about-logins-menu-menuitem-import-from-a-file = ফাইলৰ পৰা আম
 about-logins-menu-menuitem-export-logins = লগিন ৰপ্তানি কৰক…
 about-logins-menu-menuitem-remove-all-logins = সকলো লগিন আঁতৰাওক…
 about-logins-menu-menuitem-export-logins2 = পাছৱৰ্ড ৰপ্তানি কৰক...
+about-logins-menu-menuitem-remove-all-logins2 = সকলো পাছৱৰ্ড আঁতৰাওক…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] বিকল্পবোৰ
@@ -48,6 +49,29 @@ login-list-count =
         [one] { $count }টা লগইন
        *[other] { $count }টা লগইন
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $total }টাৰ { $count }টা লগিন
+       *[other] { $total }টাৰ { $count }টা লগিন
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count }টা পাছৱৰ্ড
+       *[other] { $count }টা পাছৱৰ্ড
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $total }টাৰ { $count }টা পাছৱৰ্ড
+       *[other] { $total }টাৰ { $count }টা পাছৱৰ্ড
+    }
 login-list-sort-label-text = সজোৱা ক্ৰম:
 login-list-name-option = নাম (A-Z)
 login-list-name-reverse-option = নাম (Z-A)
@@ -57,11 +81,14 @@ about-logins-login-list-alerts-option = সতৰ্কতা
 login-list-last-changed-option = শেষবাৰ সলনি হৈছিল
 login-list-last-used-option = শেষবাৰ ব্যৱহৃত
 login-list-intro-title = কোনো লগইন পোৱা নগ'ল
+login-list-intro-title2 = কোনো পাছৱৰ্ড সাঁচি থোৱা নাই
 login-list-intro-description = যেতিয়া আপুনি { -brand-product-name }-ত কোনো পাছৱৰ্ড সঞ্চয় কৰিব তেতিয়া সেইটো ইয়াত দেখা যাব।
 about-logins-login-list-empty-search-title = কোনো লগইন পোৱা নগ'ল
+about-logins-login-list-empty-search-title2 = কোনো পাছৱৰ্ড পোৱা নগ’ল
 about-logins-login-list-empty-search-description = আপোনাৰ সন্ধানৰ সৈতে মিলা কোনো ফলাফল নাই।
 login-list-item-title-new-login = নতুন লগইন
 login-list-item-subtitle-new-login = আপোনাৰ লগইন প্ৰত্যয়পত্ৰ প্ৰবিষ্ট কৰক
+login-list-item-title-new-login2 = পাছৱৰ্ড যোগ কৰক
 login-list-item-subtitle-missing-username = (কোনো ব্যৱহাৰকাৰীনাম নাই)
 about-logins-list-item-breach-icon =
     .title = ভগা ৱেবছাইট
@@ -80,6 +107,8 @@ about-logins-login-intro-heading-logged-out2 = আপোনাৰ সাঁচ�
 about-logins-login-intro-heading-logged-in = কোনো চিংক্‌ড লগইন পোৱা নগ'ল।
 login-intro-description = যদি আপুনি আপোনাৰ লগইনবোৰ বেলেগ কোনো ডিভাইচত থকা { -brand-product-name }-ত সাঁচি থোৱা কৰিছে তেন্তে সেয়া ইয়াত এনেকৈ পাব:
 login-intro-instructions-fxa = সেই ডিভাইচত আপোনাৰ { -fxaccount-brand-name(capitalization: "sentence") } সৃষ্টি বা ছাইন ইন কৰক য'ত আপোনাৰ লগইনবোৰ সাঁচি থোৱা আছে।
+about-logins-login-intro-heading-message = আপোনাৰ পাছৱৰ্ডবোৰ এক নিৰাপদ ঠাইত সাঁচি থওক
+login-intro-description2 = আপুনি { -brand-product-name }-ত সাঁচি থোৱা সকলো পাছৱৰ্ড এনক্ৰীপ্ট কৰা হয়। লগতে, আমি নিৰাপত্তাজনিত উলংঘনবোৰৰ ওপৰত চোকা দৃষ্টি ৰাখোঁ আৰু আপুনি প্ৰভাৱিত হ’লে আপোনাক সতৰ্ক কৰি দিওঁ৷ <a data-l10n-name="breach-alert-link">অধিক জানক</a>
 login-intro-instructions-fxa-settings = ছেটিংছলৈ যাওক > ছিংক > ছিংক চালু কৰক… লগিন আৰু পাছৱৰ্ডসমূহৰ চেকবক্সটো বাছনি কৰক।
 about-logins-intro-import2 = যদি আপোনাৰ লগিনবোৰ { -brand-product-name }-ৰ বাহিৰত সাঁচি থোৱা আছে তেন্তে আপুনি <a data-l10n-name="import-file-link">কোনো ফাইলৰ পৰা</a> নাইবা <a data-l10n-name="import-browser-link">অন্য ব্ৰাউজাৰৰ পৰা সেইবোৰ আমদানি কৰিব পাৰে</a>
 
