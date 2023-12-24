@@ -109,16 +109,23 @@ login-intro-description = যদি আপুনি আপোনাৰ লগই
 login-intro-instructions-fxa = সেই ডিভাইচত আপোনাৰ { -fxaccount-brand-name(capitalization: "sentence") } সৃষ্টি বা ছাইন ইন কৰক য'ত আপোনাৰ লগইনবোৰ সাঁচি থোৱা আছে।
 about-logins-login-intro-heading-message = আপোনাৰ পাছৱৰ্ডবোৰ এক নিৰাপদ ঠাইত সাঁচি থওক
 login-intro-description2 = আপুনি { -brand-product-name }-ত সাঁচি থোৱা সকলো পাছৱৰ্ড এনক্ৰীপ্ট কৰা হয়। লগতে, আমি নিৰাপত্তাজনিত উলংঘনবোৰৰ ওপৰত চোকা দৃষ্টি ৰাখোঁ আৰু আপুনি প্ৰভাৱিত হ’লে আপোনাক সতৰ্ক কৰি দিওঁ৷ <a data-l10n-name="breach-alert-link">অধিক জানক</a>
+login-intro-instructions-fxa2 = সেই ডিভাইচত আপোনাৰ একাউণ্টৰ সৃষ্টি বা ছাইন ইন কৰক য’ত আপোনাৰ লগিনবোৰ সাঁচি থোৱা আছে।
 login-intro-instructions-fxa-settings = ছেটিংছলৈ যাওক > ছিংক > ছিংক চালু কৰক… লগিন আৰু পাছৱৰ্ডসমূহৰ চেকবক্সটো বাছনি কৰক।
+login-intro-instructions-fxa-passwords-help = অধিক সহায়ৰ বাবে <a data-l10n-name="passwords-help-link">পাছৱৰ্ড-সম্বন্ধীয় সাহায্য</a> চাওক।
+about-logins-intro-browser-only-import = আপোনাৰ লগিনবোৰ অন্য ব্ৰাউজাৰত সাঁচি থোৱা থাকিলে আপুনি সেইবোৰ <a data-l10n-name="import-link">{ -brand-product-name }-লৈ আমদানি কৰিব</a> পাৰে
 about-logins-intro-import2 = যদি আপোনাৰ লগিনবোৰ { -brand-product-name }-ৰ বাহিৰত সাঁচি থোৱা আছে তেন্তে আপুনি <a data-l10n-name="import-file-link">কোনো ফাইলৰ পৰা</a> নাইবা <a data-l10n-name="import-browser-link">অন্য ব্ৰাউজাৰৰ পৰা সেইবোৰ আমদানি কৰিব পাৰে</a>
+about-logins-intro-import3 = এতিয়াই এটা পাছৱৰ্ড যোগ কৰিবলৈ ওপৰৰ যোগ-চিহ্ন বুটামটো বাছনি কৰক। আপুনি <a data-l10n-name="import-browser-link">অন্য ব্ৰাউজাৰ</a> নাইবা <a data-l10n-name="import-file-link">ফাইল এটাৰ পৰাও পাছৱৰ্ড আমদানি কৰিব</a> পাৰে।
 
 ## Login
 
 login-item-new-login-title = নতুন লগইন সৃষ্টি কৰক
+# Header for adding a password
+about-logins-login-item-new-login-title = পাছৱৰ্ড যোগ কৰক
 login-item-edit-button = সম্পাদনা
 about-logins-login-item-remove-button = আঁতৰাওক
 login-item-origin-label = ৱেবছাইট ঠিকনা
 login-item-tooltip-message = এইটো আপুনি লগ ইন কৰা ৱেবছাইটৰ সঠিক ঠিকনাৰ সৈতে মিলাটো নিশ্চিত কৰক।
+about-logins-origin-tooltip2 = সম্পূৰ্ণ ঠিকনাটো লিখক আৰু নিশ্চিত কৰিব যে আপুনি য’ত ছাইন ইন কৰে তাৰ সৈতে সেইটো হুবহু মিলে৷
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ব্যৱহাৰকাৰীনাম
