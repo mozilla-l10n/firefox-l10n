@@ -302,6 +302,10 @@ about-logins-confirm-export-dialog-title = লগিন আৰু পাছৱ�
 about-logins-confirm-export-dialog-message = আপোনাৰ পাছৱৰ্ডসমূহ পঢ়াযোগ্য পাঠ (যেনে- BadP@ssw0rd) হিচাপে সঞ্চয় কৰা হ'ব গতিকে ৰপ্তানি ফাইলটো খুলিব পৰা যিকোনো ব্যক্তিয়ে সেয়া চাব পাৰে।
 about-logins-confirm-export-dialog-confirm-button = ৰপ্তানি কৰক…
 about-logins-confirm-export-dialog-title2 = পাছৱৰ্ড-ৰপ্তানি সম্পৰ্কে এক টোকা
+about-logins-confirm-export-dialog-message2 =
+    যেতিয়া আপুনি ৰপ্তানি কৰে, আপোনাৰ পাছৱৰ্ডবোৰ পঠনযোগ্য পাঠৰ সৈতে এটা ফাইলত সাঁচি থোৱা হয়।
+    যেতিয়া আপোনাৰ ফাইলটো ব্যৱহাৰ কৰা হৈ যায়, তেতিয়া আমি সেইটো মচি পেলাবলৈ পৰামৰ্শ দিওঁ যাতে এই ডিভাইচ ব্যৱহাৰ কৰা অন্য লোকে আপোনাৰ পাছৱৰ্ডবোৰ চাব নোৱাৰে।
+about-logins-confirm-export-dialog-confirm-button2 = ৰপ্তানিৰ কাম অব্যাহত ৰাখক
 about-logins-alert-import-title = আমদানি সম্পূৰ্ণ হ'ল
 about-logins-alert-import-message = আমদানিৰ বিতং সাৰাংশ চাওক
 confirm-discard-changes-dialog-title = সঞ্চয় নকৰা সালসলনি নাকচ কৰিবনে?
@@ -343,6 +347,11 @@ about-logins-export-file-picker-title = লগিন ফাইল ৰপ্ত�
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = { -brand-short-name }-ৰ পৰা পাছৱৰ্ড ৰপ্তানি কৰক
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = পাছৱৰ্ডবোৰ.csv
 about-logins-export-file-picker-export-button = ৰপ্তানি
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -356,6 +365,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = লগিন ফাইল আমদানি কৰক
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = { -brand-short-name }-লৈ পাছৱৰ্ড আমদানি কৰক
 about-logins-import-file-picker-import-button = আমদানি কৰক
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -389,6 +400,18 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>ডুপ্লিকেট লগিন পোৱা গৈছে:</span> <span data-l10n-name="count">{ $count }টা</span> <span data-l10n-name="meta">(আমদানি কৰা নহ'ল)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] <span>নতুন পাছৱৰ্ড যোগ কৰা হ’ল:</span> <span data-l10n-name="count">{ $count }টা</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+       *[other] <span>মজুত থকা প্ৰৱিষ্টি আপডে’ট কৰা হ’ল:</span> <span data-l10n-name="count">{ $count }টা</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+       *[other] <span>অনুৰূপ প্ৰৱিষ্টি পোৱা গৈছে:</span> <span data-l10n-name="count">{ $count }টা</span> <span data-l10n-name="meta">(আমদানি কৰা হোৱা নাই)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>ত্ৰুটি:</span> <span data-l10n-name="count">{ $count }টা</span> <span data-l10n-name="meta">(আমদানি কৰা নহ'ল)</span>
@@ -409,6 +432,7 @@ about-logins-import-dialog-error-try-import-again = পুনৰ আমদান
 about-logins-import-dialog-error-cancel = বাতিল কৰক
 about-logins-import-report-title = আমদানিৰ সাৰাংশ
 about-logins-import-report-description = { -brand-short-name }-লৈ আমদানি কৰা লগিন আৰু পাছৱৰ্ডসমূহ।
+about-logins-import-report-description2 = { -brand-short-name }-লৈ পাছৱৰ্ডবোৰ আমদানি কৰা হ’ল।
 #
 # Variables:
 #  $number (number) - The number of the row
