@@ -288,12 +288,20 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] আটাইবোৰ ডিভাইচৰ পৰা { $count }টা পাছৱৰ্ড আঁতৰাবনে?
        *[other] আটাইবোৰ ডিভাইচৰ পৰা আটাই { $count }টা পাছৱৰ্ড আঁতৰাবনে?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [2] ই আপোনাৰ আটাইবোৰ ছিংক কৰা ডিভাইচত { -brand-short-name }-ত সাঁচি থোৱা পাছৱৰ্ডদুটা আঁতৰাই দিব। ই ইয়াত দেখা দিয়া নিৰাপত্তাজনিত উলংঘনৰ সতৰ্কবাণীবোৰো আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
+        [1] ই আপোনাৰ আটাইবোৰ ছিংক কৰা ডিভাইচত { -brand-short-name }-ত সাঁচি থোৱা পাছৱৰ্ডটো আঁতৰাই দিব। ই ইয়াত দেখা দিয়া নিৰাপত্তাজনিত উলংঘনৰ সতৰ্কবাণীবোৰো আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
+       *[other] ই আপোনাৰ আটাইবোৰ ছিংক কৰা ডিভাইচত { -brand-short-name }-ত সাঁচি থোৱা আটাইবোৰ পাছৱৰ্ড আঁতৰাই দিব। ই ইয়াত দেখা দিয়া নিৰাপত্তাজনিত উলংঘনৰ সতৰ্কবাণীবোৰো আঁতৰাই দিব। আপুনি এই কাৰ্য্যটো নোহোৱা কৰিব নোৱাৰিব।
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = লগিন আৰু পাছৱৰ্ড ৰপ্তানি কৰক
 about-logins-confirm-export-dialog-message = আপোনাৰ পাছৱৰ্ডসমূহ পঢ়াযোগ্য পাঠ (যেনে- BadP@ssw0rd) হিচাপে সঞ্চয় কৰা হ'ব গতিকে ৰপ্তানি ফাইলটো খুলিব পৰা যিকোনো ব্যক্তিয়ে সেয়া চাব পাৰে।
 about-logins-confirm-export-dialog-confirm-button = ৰপ্তানি কৰক…
+about-logins-confirm-export-dialog-title2 = পাছৱৰ্ড-ৰপ্তানি সম্পৰ্কে এক টোকা
 about-logins-alert-import-title = আমদানি সম্পূৰ্ণ হ'ল
 about-logins-alert-import-message = আমদানিৰ বিতং সাৰাংশ চাওক
 confirm-discard-changes-dialog-title = সঞ্চয় নকৰা সালসলনি নাকচ কৰিবনে?
