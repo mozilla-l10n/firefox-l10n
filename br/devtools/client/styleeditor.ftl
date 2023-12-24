@@ -16,6 +16,7 @@ styleeditor-save-button = Save
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Style Editor options
+styleeditor-at-rules = Reolennoù @
 styleeditor-editor-textbox =
     .data-placeholder = Type CSS here.
 styleeditor-no-stylesheet = This page has no style sheet.

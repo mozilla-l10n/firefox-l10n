@@ -71,6 +71,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Diskouez bruderezh er gwirier alioù
 shopping-settings-opt-out-button = Diweredekaat ar gwirier alioù
+powered-by-fakespot = Ar gwirier alioù a zo lusket gant <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
