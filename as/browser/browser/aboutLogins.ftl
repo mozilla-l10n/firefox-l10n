@@ -440,6 +440,9 @@ about-logins-import-report-row-index = { $number } নং শাৰী
 about-logins-import-report-row-description-no-change = ডুপ্লিকেট: মজুত থকা লগিনৰ হুবহু মিল
 about-logins-import-report-row-description-modified = মজুত থকা লগিন আপডেট কৰা হ'ল
 about-logins-import-report-row-description-added = নতুন লগিন যোগ কৰা হ'ল
+about-logins-import-report-row-description-no-change2 = অনুৰূপ: মজুত থকা প্ৰৱিষ্টিৰ হুবহু মিল
+about-logins-import-report-row-description-modified2 = মজুত থকা প্ৰৱিষ্টি আপডে’ট কৰা হ’ল
+about-logins-import-report-row-description-added2 = নতুন পাছৱৰ্ড যোগ কৰা হ’ল
 about-logins-import-report-row-description-error = ত্ৰুটি: ক্ষেত্ৰ সন্ধানহীন
 
 ##
