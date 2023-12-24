@@ -113,11 +113,13 @@ about-logins-login-intro-heading-logged-in = Сінхранізаваныя ла
 login-intro-description = Калі вы захавалі свае лагіны ў { -brand-product-name } на іншай прыладзе, вось як атрымаць іх тут:
 login-intro-instructions-fxa = Стварыце або ўвайдзіце ў свой { -fxaccount-brand-name } на прыладзе, дзе захоўваюцца вашы лагіны.
 about-logins-login-intro-heading-message = Захоўвайце свае паролі ў бяспечным месцы
+login-intro-description2 = Усе паролі, якія вы захоўваеце ў { -brand-product-name }, зашыфраваныя. Акрамя таго, мы сочым за ўцечкамі дадзеных і папярэджваем, калі гэта тычыцца вас. <a data-l10n-name="breach-alert-link">Падрабязней</a>
 login-intro-instructions-fxa2 = Стварыце або ўвайдзіце ў свой уліковы запіс на прыладзе, дзе захоўваюцца вашы лагіны.
 login-intro-instructions-fxa-settings = Прайдзіце ў Налады> Sync> Уключыць сінхранізацыю… Адзначце сцяжок Лагіны і паролі.
 login-intro-instructions-fxa-passwords-help = Наведайце <a data-l10n-name="passwords-help-link">падтрымку па паролях</a>, каб атрымаць дадатковую дапамогу.
 about-logins-intro-browser-only-import = Калі вашы паролі захоўваюцца ў іншым браўзеры, вы можаце <a data-l10n-name="import-link">імпартаваць іх у { -brand-product-name }</a>
 about-logins-intro-import2 = Калі вашы лагіны захоўваюцца па-за { -brand-product-name }, вы можаце <a data-l10n-name="import-browser-link">імпартаваць іх з іншага браўзера</a> або <a data-l10n-name="import-file-link">з файла</a>
+about-logins-intro-import3 = Націсніце кнопку са знакам плюс уверсе, каб дадаць пароль зараз. Вы таксама можаце <a data-l10n-name="import-browser-link">імпартаваць паролі з іншага браўзера</a> або <a data-l10n-name="import-file-link">з файла</a>.
 
 ## Login
 
@@ -173,6 +175,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Каб змяніць ва�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = рэдагаваць захаваны лагін
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Каб змяніць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Каб пабачыць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -205,6 +209,8 @@ about-logins-confirm-remove-dialog-title = Выдаліць гэты лагін?
 confirm-delete-dialog-message = Гэтае дзеянне незваротнае.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Выдаліць пароль?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Вы не зможаце адмяніць гэта дзеянне.
 about-logins-confirm-remove-dialog-confirm-button = Выдаліць
 
 ## Variables
