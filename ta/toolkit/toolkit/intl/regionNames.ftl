@@ -7,18 +7,18 @@
 ###         update the list in mozIntl.js.
 
 region-name-ad = அன்டோரா
-region-name-ae = ஐக்கிய அரபு எமிரேட்ஸ்
-region-name-af = ஆப்கானிஸ்தான்
+region-name-ae = ஐக்கிய அரபு அமீரகம்
+region-name-af = ஆப்கானித்தான்
 region-name-ag = ஆண்டிக்வா மற்றும் பார்புடா
 region-name-ai = ஆங்குய்லா
 region-name-al = அல்பானியா
 region-name-am = ஆர்மேனியா
-region-name-ao = அன்கோலா
+region-name-ao = அங்கோலா
 region-name-aq = அன்டார்டிகா
-region-name-ar = அர்ஜெண்டா
+region-name-ar = அர்ஜென்டீனா
 region-name-as = அமெரிக்கன் சோமோ
-region-name-at = ஆஸ்ட்ரியா
-region-name-au = ஆஸ்திரேலியா
+region-name-at = ஆஸ்திரியா
+region-name-au = ஆத்திரேலியா
 region-name-aw = அரூபா
 region-name-az = அசர்பைஜான்
 region-name-ba = போஸ்னியா மற்றும் ஹேர்சிகோனியா
