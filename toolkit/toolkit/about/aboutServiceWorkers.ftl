@@ -21,13 +21,13 @@ origin-title = 来源：{ $originTitle }
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
-scope = <strong>作用域：</strong> { $name }
-script-spec = <strong>脚本规格：</strong> <a data-l10n-name="link">{ $url }</a>
-current-worker-url = <strong>目前的 Worker URL：</strong> <a data-l10n-name="link">{ $url }</a>
-active-cache-name = <strong>活跃的缓存名称：</strong> { $name }
-waiting-cache-name = <strong>等待中的缓存名称：</strong> { $name }
-push-end-point-waiting = <strong>推送端点：</strong> { waiting }
-push-end-point-result = <strong>推送端点：</strong> { $name }
+scope = <strong>作用域：</strong>{ $name }
+script-spec = <strong>脚本规格：</strong><a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>目前的 Worker URL：</strong><a data-l10n-name="link">{ $url }</a>
+active-cache-name = <strong>活跃的缓存名称：</strong>{ $name }
+waiting-cache-name = <strong>等待中的缓存名称：</strong>{ $name }
+push-end-point-waiting = <strong>推送端点：</strong>{ waiting }
+push-end-point-result = <strong>推送端点：</strong>{ $name }
 # This term is used as a button label (verb, not noun).
 update-button = 更新
 unregister-button = 取消注册
