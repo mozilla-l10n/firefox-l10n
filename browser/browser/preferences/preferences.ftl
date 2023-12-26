@@ -963,6 +963,10 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Hesla
+    .searchkeywords = hesla
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Ptát se na ukládání hesel
@@ -1023,6 +1027,7 @@ forms-windows-sso =
     .label = Povolit jednotné přihlašování Windows pro pracovní a školní účty a účty Microsoft
 forms-windows-sso-learn-more-link = Zjistit více
 forms-windows-sso-desc = Účty můžete spravovat v nastavení svého zařízení
+windows-passkey-settings-label = Správa přístupových klíčů v nastavení systému
 
 ## OS Authentication dialog
 
