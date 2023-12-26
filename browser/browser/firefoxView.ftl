@@ -183,31 +183,60 @@ firefoxview-search-results-count =
 #   $query (String) - The search query.
 firefoxview-search-results-empty = “{ $query }”ৰ বাবে কোনো ফলাফল নাই
 firefoxview-sort-history-by-date-label = তাৰিখ অনুসৰি সজাওক
+firefoxview-sort-history-by-site-label = ছাইট অনুসৰি সজাওক
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = { $url }-লৈ সলাওক
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = আজি - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = কালি - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (স্থানীয় ফাইলবোৰ)
 
 ##
 
+firefoxview-show-all-history = সকলো ইতিহাস দেখুৱাওক
+firefoxview-view-more-browsing-history = অধিক ব্ৰাউজিঙৰ ইতিহাস চাওক
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = আপুনি য’ত আছিল তালৈ উভতি যাওক
+firefoxview-history-empty-description = আপুনি ব্ৰাউজ কৰাৰ লগতে আপুনি চোৱা পৃষ্ঠাবোৰ ইয়াত তালিকাভুক্ত হৈ গৈ থাকিব।
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = ব্ৰাউজাৰ বাছি লওক
+    .title = ব্ৰাউজাৰ বাছি লওক
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = দেখুৱাবলৈ একো নাই
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = বন্ধ কৰক
+    .title = বন্ধ কৰক
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = আন এটা ব্ৰাউছাৰৰ পৰা ইতিহাস আমদানি কৰক
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = কোনো টেব বৰ সোনকালে বন্ধ কৰি দিলে?
+firefoxview-recentlyclosed-empty-description = ইয়াত আপুনি শেহতীয়াকৈ বন্ধ কৰা টেববোৰ পাব, যাতে আপুনি তাৰে যিকোনো টেব দ্ৰুতভাৱে পুনৰ খুলিব পাৰে।
+firefoxview-recentlyclosed-empty-description-two = বহু আগৰ টেববোৰ বিচাৰিবলৈ আপোনাৰ <a data-l10n-name="history-url">ব্ৰাউজিঙৰ ইতিহাস</a> চাওক।
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
