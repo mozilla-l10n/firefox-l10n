@@ -28,8 +28,17 @@ firefoxview-tabpickup-description = অন্য ডিভাইচৰ পৃষ
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% সম্পূৰ্ণ
 firefoxview-tabpickup-step-signin-header = ডিভাইচবোৰৰ মাজত নিৰৱচ্ছিন্নভাৱে সাল-সলনি কৰক
-firefoxview-tabpickup-step-signin-description = ইয়ালৈ আপোনাৰ ফ’নৰ টেববোৰ আনিবলৈ, প্ৰথমে ছাইন ইন কৰক নাইবা একাউণ্টৰ সৃষ্টি কৰক।
+firefoxview-tabpickup-step-signin-description = ইয়ালৈ আপোনাৰ ফ’নৰ টেববোৰ লৈ আনিবলৈ, প্ৰথমে ছাইন ইন কৰক নাইবা একাউণ্টৰ সৃষ্টি কৰক।
 firefoxview-tabpickup-step-signin-primarybutton = অব্যাহত ৰাখক
+firefoxview-syncedtabs-signin-header = যিকোনো ঠাইৰ পৰা টেব লৈ আনক
+firefoxview-syncedtabs-signin-description = আপুনি { -brand-product-name } ব্যৱহাৰ কৰা সকলো ঠাইৰ টেববোৰ চাবলৈ আপোনাৰ একাউণ্টত ছাইন ইন কৰক। আপোনাৰ একাউণ্ট নাথাকিলে আমি আপোনাক ছাইন আপ কৰাৰ পদবোৰৰ মাজেৰে লৈ যাম।
+firefoxview-syncedtabs-signin-primarybutton = ছাইন ইন বা ছাইন আপ কৰক
+firefoxview-tabpickup-adddevice-header = আপোনাৰ ফ’ন বা টেবলেটত { -brand-product-name } ছিংক কৰক
+firefoxview-tabpickup-adddevice-description = ম’বাইলৰ { -brand-product-name } ডাউনল’ড কৰি তাত ছাইন ইন কৰক।
+firefoxview-tabpickup-adddevice-learn-how = কেনেকৈ— জানি লওক
+firefoxview-tabpickup-adddevice-primarybutton = ম’বাইলৰ { -brand-product-name } লাভ কৰক
+firefoxview-syncedtabs-adddevice-header = আপোনাৰ আনবোৰ ডিভাইচত { -brand-product-name }-ত ছাইন ইন কৰক
+firefoxview-syncedtabs-adddevice-description = আপুনি { -brand-product-name } ব্যৱহাৰ কৰা সকলো ঠাইৰ টেববোৰ চাবলৈ আপোনাৰ সকলো ডিভাইচত ছাইন ইন কৰক। <a data-l10n-name="url">অতিৰিক্ত ডিভাইচ সংযোগ</a> কেনেকৈ কৰিব লাগে— জানি লওক।
 
 ## History in this context refers to browser history
 
