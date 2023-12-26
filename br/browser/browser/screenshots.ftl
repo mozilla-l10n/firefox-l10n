@@ -5,6 +5,8 @@
 screenshot-toolbarbutton =
     .label = Tapadenn-skramm
     .tooltiptext = Kemer un dapadenn
+screenshot-shortcut =
+    .key = S
 screenshots-instructions = Riklit pe klikit war ar bajenn da ziuzañ ur vaezienn. Pouezit war ESC evit nullañ.
 screenshots-cancel-button = Nullañ
 screenshots-save-visible-button = Enrollañ ar pezh a vez gwelet
