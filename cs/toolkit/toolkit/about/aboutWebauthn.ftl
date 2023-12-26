@@ -104,6 +104,8 @@ about-webauthn-auth-option-null = Nepodporováno
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Konfigurační příkazy prototypu dodavatele
+about-webauthn-auth-info-remaining-discoverable-credentials = Zbývající zjistitelné pověření
 about-webauthn-auth-info-certifications = Certifikace
 about-webauthn-auth-info-uv-modality = Způsob ověření uživatele
 about-webauthn-auth-info-preferred-platform-uv-attempts = Pokusy o ověření uživatele preferované platformy
