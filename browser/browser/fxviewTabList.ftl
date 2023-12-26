@@ -39,3 +39,7 @@ fxviewtabrow-save-to-pocket = { -pocket-brand-name }-ত সাঁচি থও�
     .accesskey = o
 fxviewtabrow-copy-link = লিংক কপি কৰক
     .accesskey = L
+fxviewtabrow-close-tab = টেব বন্ধ কৰক
+    .accesskey = C
+fxviewtabrow-move-tab = টেব লৈ যাওক
+    .accesskey = v
