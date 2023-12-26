@@ -29,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importar dad in auter n
 about-logins-menu-menuitem-import-from-a-file = Importar dad ina datoteca…
 about-logins-menu-menuitem-export-logins = Exportar infurmaziuns d'annunzia…
 about-logins-menu-menuitem-remove-all-logins = Allontanar tut las datas d'annunzia…
+about-logins-menu-menuitem-remove-all-logins2 = Allontanar tut ils pleds-clav…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Preferenzas
@@ -114,11 +115,13 @@ about-logins-intro-import2 = Sche tias infurmaziuns d'annunzia èn memorisadas o
 ## Login
 
 login-item-new-login-title = Creescha ina nova infurmaziun d'annunzia
+# Header for adding a password
+about-logins-login-item-new-login-title = Agiuntar in pled-clav
 login-item-edit-button = Modifitgar
 about-logins-login-item-remove-button = Allontanar
 login-item-origin-label = Adressa da la website
 login-item-tooltip-message = Controllescha che quai correspunda exact a l'adressa da la website a la quala ti t'annunzias.
-about-logins-origin-tooltip = Controllescha che quai correspunda exact a l'adressa da la website a la quala ti t'annunzias.
+about-logins-origin-tooltip2 = Endatescha l'adressa cumpletta e fa la segira ch'ella correspunda exactamain a l'adressa da la quala ti t'annunzias.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Fa la segira che ti memoriseschas tes pled-clav actual per questa website. Cun midar qua il pled-clav na sa mida il pled-clav da { $webTitle } betg.
@@ -136,6 +139,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = Copià!
 login-item-save-changes-button = Memorisar las midadas
+about-logins-login-item-save-changes-button = Memorisar
 login-item-save-new-button = Memorisar
 login-item-cancel-button = Interrumper
 
@@ -163,6 +167,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Per modifitgar tia infurmaz
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifitgar l'infurmaziun d'annunzia memorisada
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Per modifitgar tes pled-clav, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = modifitgar il pled-clav memorisà
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Per mussar tes pled-clav, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -178,6 +187,11 @@ about-logins-export-password-os-auth-dialog-message-win = Per exportar tias infu
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportar las infurmaziuns d'annunzia memorisadas ed ils pleds-clav
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Per exportar tes pleds-clav, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportar ils pleds-clav memorisads
 
 ## Primary Password notification
 
@@ -193,6 +207,10 @@ confirmation-dialog-dismiss-button =
     .title = Interrumper
 about-logins-confirm-remove-dialog-title = Allontanar questas infurmaziuns d'annunzia?
 confirm-delete-dialog-message = Questa acziun na po betg vegnir revocada.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Allontanar il pled-clav?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = I n'è betg pussaivel da revocar questa acziun.
 about-logins-confirm-remove-dialog-confirm-button = Allontanar
 
 ## Variables
@@ -233,6 +251,24 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Uschia vegn allontanà l'infurmaziun d'annunzia che ti has memorisà en { -brand-short-name } sin tut ils apparats sincronisads cun tes conto. Era avertiments da sperditas da datas che cumparan qua vegnan allontanadas. Ti na vegns betg a pudair revocar questa acziun.
        *[other] Uschia vegnan allontanadas las infurmaziuns d'annunzia che ti has memorisà en { -brand-short-name } sin tut ils apparats sincronisads cun tes conto. Era avertiments da sperditas da datas che cumparan qua vegnan allontanadas. Ti na vegns betg a pudair revocar questa acziun.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Gea, allontanar il pled-clav
+       *[other] Gea, allontanar ils pleds-clav
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Allontanar { $count } pled-clav?
+       *[other] Allontanar ils { $count } pleds-clav?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Uschia vegn allontanà il pled-clav memorisà en { -brand-short-name } e tut ils avertiments da sperditas da datas. Questa acziun na po betg vegnir revocada.
+       *[other] Uschia vegnan allontanads ils pleds-clav memorisads en { -brand-short-name } e tut ils avertiments da sperditas da datas. Questa acziun na po betg vegnir revocada.
     }
 
 ##
