@@ -210,6 +210,7 @@ firefoxview-view-more-browsing-history = অধিক ব্ৰাউজিঙ�
 
 firefoxview-history-empty-header = আপুনি য’ত আছিল তালৈ উভতি যাওক
 firefoxview-history-empty-description = আপুনি ব্ৰাউজ কৰাৰ লগতে আপুনি চোৱা পৃষ্ঠাবোৰ ইয়াত তালিকাভুক্ত হৈ গৈ থাকিব।
+firefoxview-history-empty-description-two = আপোনাৰ গোপনীয়তা সুৰক্ষিত কৰাটোৱেই হৈছে আমি কৰা কামৰ মূলমন্ত্ৰ। এইবাবেই আপোনাৰ <a data-l10n-name="history-settings-url">ইতিহাসৰ ছেটিংছ</a>ত আপুনি { -brand-short-name }-এ মনত ৰখা কাৰ্য্যকলাপ নিয়ন্ত্ৰণ কৰিব পাৰে।
 
 ##
 
@@ -231,6 +232,7 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = আন এটা ব্ৰাউছাৰৰ পৰা ইতিহাস আমদানি কৰক
+firefoxview-import-history-description = { -brand-short-name }-ক আপোনাৰ নিৰ্ভৰযোগ্য ব্ৰাউজাৰ কৰি তোলক। ব্ৰাউজিঙৰ ইতিহাস, বুকমাৰ্ক আৰু বহুত কিছু আমদানি কৰক।
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
@@ -240,3 +242,5 @@ firefoxview-recentlyclosed-empty-description-two = বহু আগৰ টেব
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = এই ডিভাইচত কোনো টেব খোলা হোৱা নাই
+firefoxview-syncedtabs-connect-another-device = অন্য এটা ডিভাইচ সংযোগ কৰক
