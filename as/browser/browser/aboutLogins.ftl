@@ -469,6 +469,19 @@ about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }টা</div> <div data-l10n-name="details">ডুপ্লিকেট লগিন</div> <div data-l10n-name="not-imported">(আমদানি কৰা হোৱা নাই)</div>
     }
+about-logins-import-report-added2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }টা</div> <div data-l10n-name="details">নতুন পাছৱৰ্ড যোগ কৰা হ’ল</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }টা</div> <div data-l10n-name="details">মজুত থকা প্ৰৱিষ্টি আপডে’ট কৰা হ’ল</div>
+       *[other] { "" }
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }টা</div> <div data-l10n-name="details">অনুৰূপ প্রৱিষ্টি</div> <div data-l10n-name="not-imported">(আমদানি কৰা হোৱা নাই)</div>
+    }
 about-logins-import-report-error =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }টা</div> <div data-l10n-name="details">ত্ৰুটি</div> <div data-l10n-name="not-imported">(আমদানি কৰা হোৱা নাই)</div>
