@@ -937,6 +937,14 @@ autofill-payment-methods-checkbox-submessage = Oike kuatia’atã ñemurã ha vi
     .accesskey = I
 autofill-saved-payment-methods-button = Mba’éicha ehepyme’ẽta ñongatupyre
     .accesskey = v
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Ejerure macOS ñemoneĩ emyanehẽ hag̃ua ha embosako’i mba’éicha ehepyme’ẽta.
+        [windows] Ejerure Windows ñemoneĩ emyanehẽ hag̃ua ha embosako’i mba’éicha ehepyme’ẽta.
+        [linux] Ejerure Linux ñemoneĩ emyanehẽ hag̃ua ha embosako’i mba’éicha ehepyme’ẽta.
+       *[other] Ejerure ñemoneĩ emyanehẽ hag̃ua ha embosako’i mba’éicha ehepyme’ẽta.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
