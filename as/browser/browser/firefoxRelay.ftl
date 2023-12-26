@@ -8,8 +8,8 @@
 ## Variables:
 ##   $status (Number) - HTTP status code, for example 403
 
-firefox-relay-mask-generation-failed = { -relay-brand-name }-এ নতুন মাস্কৰ সৃষ্টি কৰিব নোৱাৰিলে। HTTP ত্ৰুটিৰ ক’ড: { $status }।
-firefox-relay-get-reusable-masks-failed = { -relay-brand-name }-এ পুনৰ্ব্যৱহাৰ্য মাস্ক বিচাৰিব নোৱাৰিলে। HTTP ত্ৰুটিৰ ক’ড: { $status }।
+firefox-relay-mask-generation-failed = { -relay-brand-name }-এ নতুন মাস্কৰ সৃষ্টি কৰিব নোৱাৰিলে। HTTP-সংক্ৰান্তীয় ত্ৰুটিৰ ক’ড: { $status }।
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name }-এ পুনৰ্ব্যৱহাৰ্য মাস্ক বিচাৰিব নোৱাৰিলে। HTTP-সংক্ৰান্তীয় ত্ৰুটিৰ ক’ড: { $status }।
 
 ##
 
@@ -27,3 +27,9 @@ firefox-relay-use-mask-title = { -relay-brand-name }-ৰ ইমেইল মা�
 firefox-relay-opt-in-confirmation-enable-button =
     .label = ইমেইল মাস্ক ব্যৱহাৰ কৰক
     .accesskey = U
+firefox-relay-opt-in-confirmation-disable =
+    .label = মোক এইটো আকৌ নেদেখুৱাব
+    .accesskey = D
+firefox-relay-opt-in-confirmation-postpone =
+    .label = এতিয়া নহয়
+    .accesskey = N
