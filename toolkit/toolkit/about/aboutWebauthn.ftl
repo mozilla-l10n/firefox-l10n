@@ -17,6 +17,7 @@ about-webauthn-options-subsection-title = Tùy chọn xác thực
 about-webauthn-pin-section-title = Quản lý mã PIN
 about-webauthn-credential-management-section-title = Quản lý thông tin xác thực
 about-webauthn-pin-required-section-title = Yêu cầu mã PIN
+about-webauthn-confirm-deletion-section-title = Xác nhận xóa
 
 ## Info field texts
 
