@@ -61,6 +61,18 @@ firefoxview-tabpickup-sync-disconnected-header = অব্যাহত ৰাখ
 firefoxview-tabpickup-sync-disconnected-description = আপোনাৰ টেববোৰ লৈ আনিবলৈ আপুনি { -brand-short-name }-ত ছিংক কৰাৰ অনুমতি দিব লাগিব।
 firefoxview-tabpickup-sync-disconnected-primarybutton = ছেটিংছত ছিংক চালু কৰক
 firefoxview-tabpickup-password-locked-header = টেববোৰ চাবলৈ আপোনাৰ প্ৰাথমিক পাছৱৰ্ডটো লিখক
+firefoxview-tabpickup-password-locked-description = আপোনাৰ টেববোৰ লৈ আনিবলৈ আপুনি { -brand-short-name }-ৰ প্ৰাথমিক পাছৱৰ্ডটো লিখিব লাগিব।
+firefoxview-tabpickup-password-locked-link = অধিক জানক
+firefoxview-tabpickup-password-locked-primarybutton = প্ৰাথমিক পাছৱৰ্ড লিখক
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">অধিক জানক</a>
+firefoxview-tabpickup-signed-out-header = পুনঃসংযোগ কৰিবলৈ ছাইন ইন কৰক
+firefoxview-tabpickup-signed-out-description = পুনঃসংযোগ কৰি আপোনাৰ টেববোৰ লৈ আনিবলৈ আপোনাৰ { -fxaccount-brand-name }-ত ছাইন ইন কৰক।
+firefoxview-tabpickup-signed-out-description2 = পুনঃসংযোগ কৰি আপোনাৰ টেববোৰ লৈ আনিবলৈ আপোনাৰ একাউণ্টত ছাইন ইন কৰক।
+firefoxview-tabpickup-signed-out-primarybutton = ছাইন ইন কৰক
+firefoxview-tabpickup-syncing = আপোনাৰ টেববোৰ ছিংক হয়মানে একেথিৰে বহি থাকক। মাত্ৰ কেইটামান মুহূৰ্তত হৈ যাব।
+firefoxview-mobile-promo-header = আপোনাৰ ফ’ন বা টেবলেটৰ পৰা টেববোৰ লৈ আনক
+firefoxview-mobile-promo-description = আপোনাৰ ম’বাইলৰ শেহতীয়া টেববোৰ চাবলৈ iOS বা Android-ত { -brand-product-name }-ত ছাইন ইন কৰক।
+firefoxview-mobile-promo-primarybutton = ম’বাইলৰ { -brand-product-name } লাভ কৰক
 
 ## History in this context refers to browser history
 
