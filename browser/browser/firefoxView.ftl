@@ -48,7 +48,7 @@ firefoxview-syncedtabs-synctabs-header = আপোনাৰ ছিংক ছে�
 firefoxview-syncedtabs-synctabs-description = আনবোৰ ডিভাইচৰ টেববোৰ চাবলৈ আপুনি আপোনাৰ খোলা টেববোৰ ছিংক কৰিব লাগিব।
 firefoxview-syncedtabs-synctabs-checkbox = খোলা টেববোৰক ছিংক হ’বলৈ অনুমতি দিয়ক
 firefoxview-syncedtabs-loading-header = ছিংক প্ৰগতিশীল অৱস্থাত আছে
-firefoxview-syncedtabs-loading-description = যেতিয়া এইটো হৈ যাব, আপুনি আনবোৰ ডিভাইচত খোলা যিকোনো টেব দেখা পাব। অলপ পাছত আকৌ চাব।
+firefoxview-syncedtabs-loading-description = যেতিয়া এইটো হৈ যাব, তেতিয়া আপুনি আনবোৰ ডিভাইচত খোলা যিকোনো টেব দেখা পাব। অলপ পাছত আকৌ চাব।
 firefoxview-tabpickup-fxa-admin-disabled-header = আপোনাৰ প্ৰতিষ্ঠানে ছিংক নিষ্ক্ৰিয় কৰি থৈছে
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }-এ ডিভাইচবোৰৰ মাজত টেব ছিংক কৰিব পৰা নাই কাৰণ আপোনাৰ কৰ্তৃপক্ষই ছিংক নিষ্ক্ৰিয় কৰি থৈছে।
 firefoxview-tabpickup-network-offline-header = আপোনাৰ ইণ্টাৰনেট সংযোগ পৰীক্ষা কৰক
@@ -73,6 +73,30 @@ firefoxview-tabpickup-syncing = আপোনাৰ টেববোৰ ছিং�
 firefoxview-mobile-promo-header = আপোনাৰ ফ’ন বা টেবলেটৰ পৰা টেববোৰ লৈ আনক
 firefoxview-mobile-promo-description = আপোনাৰ ম’বাইলৰ শেহতীয়া টেববোৰ চাবলৈ iOS বা Android-ত { -brand-product-name }-ত ছাইন ইন কৰক।
 firefoxview-mobile-promo-primarybutton = ম’বাইলৰ { -brand-product-name } লাভ কৰক
+firefoxview-mobile-confirmation-header = 🎉 সকলো সাজু!
+firefoxview-mobile-confirmation-description = এতিয়া আপুনি আপোনাৰ টেবলেট বা ফ’নৰ পৰা আপোনাৰ { -brand-product-name }-ৰ টেববোৰ লৈ আনিব পাৰিব।
+firefoxview-closed-tabs-title = শেহতীয়াকৈ বন্ধ কৰা
+firefoxview-closed-tabs-description2 = আপুনি এই ৱিণ্ড’ত বন্ধ কৰা পৃষ্ঠাবোৰ আকৌ খোলক।
+firefoxview-closed-tabs-placeholder-header = কোনো শেহতীয়াকৈ বন্ধ কৰা টেব নাই
+firefoxview-closed-tabs-placeholder-body = যেতিয়া আপুনি এই ৱিণ্ড’ত কোনো টেব বন্ধ কৰে, তেতিয়া আপুনি সেইটো ইয়াৰ পৰা আনিব পাৰে।
+firefoxview-closed-tabs-placeholder-body2 = যেতিয়া আপুনি কোনো টেব বন্ধ কৰে, তেতিয়া আপুনি সেইটো ইয়াৰ পৰা আনিব পাৰে।
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = { $tabTitle } খাৰিজ কৰক
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = অন্তিম সক্ৰিয়
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = নতুন এটা টেত { $targetURI } খোলক
+firefoxview-try-colorways-button = ৰং-মিশ্ৰণ ব্যৱহাৰ কৰি চাওক
+firefoxview-change-colorway-button = ৰং-মিশ্ৰণ সলাওক
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = এতিয়াও চাবলগীয়া একো নাই
 
 ## History in this context refers to browser history
 
