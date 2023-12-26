@@ -144,14 +144,21 @@ firefoxview-opentabs-focus-tab =
     .title = Uɣal ɣer yiccer-a
 firefoxview-show-more = Sken ugar
 firefoxview-show-less = Sken drus
+firefoxview-show-all = Sken akk
 firefoxview-search-text-box-clear-button =
     .title = Sfeḍ
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Nadi
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Nadi deg umazray
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Nadi accaren yettwamedlen melmi kan
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Nadi accaren yemtawan
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.

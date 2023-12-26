@@ -831,6 +831,9 @@ pane-privacy-logins-and-passwords-header = Inekcam & wawalen uffiren
 forms-ask-to-save-logins =
     .label = Suter akken ad teskelseḍ inekcam d wawalen uffiren i yismal web
     .accesskey = s
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Tisuraf…
     .accesskey = r
@@ -885,6 +888,10 @@ primary-password-os-auth-dialog-message-win = Akken ad ternuḍ awal-inek·inem 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = rnu awal uffir agejdan
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Taččart tawurmant
 
 ## Privacy Section - History
 

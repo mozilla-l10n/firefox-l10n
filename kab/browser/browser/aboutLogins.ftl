@@ -9,6 +9,9 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Rnu anekcum amaynut
+about-logins-page-title-name = Awalen uffiren
+create-login-button =
+    .title = rnu awal uffir
 fxaccounts-sign-in-text = Kcem ɣer wawalen-ik uffiren ɣef yibenkan-nniḍen
 fxaccounts-sign-in-sync-button = Kcem akken ad yemtawi
 fxaccounts-avatar-button =
@@ -60,9 +63,11 @@ login-list-last-used-option = Aseqdec anneggaru
 login-list-intro-title = Ulac inekcam yettwafen
 login-list-intro-description = Ticki teskelseḍ awal uffir deg { -brand-product-name }, ad d-iban dagi.
 about-logins-login-list-empty-search-title = Ulac inekcam yettwafen
+about-logins-login-list-empty-search-title2 = Ulac awalen uffiren i yettwafen
 about-logins-login-list-empty-search-description = Ula d yiwen n ugmuḍ ur yemmenṭaḍ d unadi-ik.
 login-list-item-title-new-login = Anekcum amaynut
 login-list-item-subtitle-new-login = Sekcem inekcumen-ik n tuqqna
+login-list-item-title-new-login2 = rnu awal uffir
 login-list-item-subtitle-missing-username = (ulac isem n useqdac)
 about-logins-list-item-breach-icon =
     .title = Asmel i tḥuza trewla n yisefka
@@ -90,6 +95,8 @@ about-logins-intro-import2 = Ma yella inekcam-ik/im ttwaskelsen beṛṛa n { -b
 ## Login
 
 login-item-new-login-title = Rnu anekcum amaynut
+# Header for adding a password
+about-logins-login-item-new-login-title = rnu awal uffir
 login-item-edit-button = Ẓreg
 about-logins-login-item-remove-button = Kkes
 login-item-origin-label = Tansa n usmel web
@@ -107,6 +114,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Nɣel
 login-item-copied-password-button-text = Inɣel!
 login-item-save-changes-button = Sekles asnifel
+about-logins-login-item-save-changes-button = Sekles
 login-item-save-new-button = Sekles
 login-item-cancel-button = Sefsex
 
@@ -164,6 +172,8 @@ confirmation-dialog-dismiss-button =
     .title = Sefsex
 about-logins-confirm-remove-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Ur tezmireḍ ara ad tesfesxeḍ tigawt-a.
 about-logins-confirm-remove-dialog-confirm-button = Kkes
 
 ## Variables
