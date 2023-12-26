@@ -8,3 +8,4 @@
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-use-payment-method-os-prompt-macos = аз маълумоти тарзи пардохти нигоҳдошташуда истифода барад
+autofill-use-payment-method-os-prompt-windows = «{ -brand-short-name }» кӯшиш мекунад, аз маълумоти тарзи пардохти нигоҳдошташуда истифода барад. Дастрасиро ба ин ҳисоби «Windows» дар зер тасдиқ намоед.
