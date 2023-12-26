@@ -36,8 +36,29 @@ origin-controls-state-no-access = এই ছাইটত ডেটা পঢ়�
 origin-controls-state-quarantined = এই ছাইটত { -vendor-short-name }-দ্বাৰা অনুমতি দিয়া হোৱা নাই
 origin-controls-state-always-on = এই ছাইটত সদায় ডেটা পঢ়িব আৰু সলনি কৰিব পাৰে।
 origin-controls-state-when-clicked = ডেটা পঢ়িবলৈ আৰু সলনি কৰিবলৈ অনুমতিৰ প্ৰয়োজন
+origin-controls-state-hover-run-visit-only = কেৱল এই দৰ্শনৰ বাবে চলাওক
+origin-controls-state-runnable-hover-open = এক্সটেনশ্যন খোলক
+origin-controls-state-runnable-hover-run = এক্সটেনশ্যন চলাওক
+origin-controls-state-temporary-access = এই দৰ্শনৰ বাবে ডেটা পঢ়িব আৰু সলনি কৰিব পাৰে।
 
 ## Extension's toolbar button.
 ## Variables:
 ##   $extensionTitle (String) - Extension name or title message.
 
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
+# Extension's toolbar button when permission is needed.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-permission-needed =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        অনুমতিৰ প্ৰয়োজন
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        এই ছাইটত { -vendor-short-name }-দ্বাৰা অনুমতি দিয়া হোৱা নাই
