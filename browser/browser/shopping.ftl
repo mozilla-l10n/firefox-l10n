@@ -38,6 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = চাবলগীয়া নতুন তথ্য
+shopping-message-bar-warning-stale-analysis-button = এতিয়াই চাওক
 
 ## Strings for the product review snippets card
 
