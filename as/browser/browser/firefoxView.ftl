@@ -97,21 +97,92 @@ firefoxview-change-colorway-button = ৰং-মিশ্ৰণ সলাওক
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = এতিয়াও চাবলগীয়া একো নাই
+firefoxview-synced-tabs-placeholder-body = অহাবাৰ আপুনি অন্য ডিভাইচত { -brand-product-name }-ত কোনো পৃষ্ঠা খুলিলে তাক ইয়ালৈ যাদুৰ দৰে লৈ আনিব।
+firefoxview-collapse-button-show =
+    .title = তালিকা দেখুৱাওক
+firefoxview-collapse-button-hide =
+    .title = তালিকা লুকুৱাওক
+firefoxview-overview-nav = শেহতীয়া ব্ৰাউজিং
+    .title = শেহতীয়া ব্ৰাউজিং
+firefoxview-overview-header = শেহতীয়া ব্ৰাউজিং
+    .title = শেহতীয়া ব্ৰাউজিং
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = ইতিহাস
+    .title = ইতিহাস
+firefoxview-history-header = ইতিহাস
+firefoxview-history-context-delete = ইতিহাসৰ পৰা মচক
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = খোলা টেববোৰ
+    .title = খোলা টেববোৰ
+firefoxview-opentabs-header = খোলা টেববোৰ
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = শেহতীয়াকৈ বন্ধ কৰা টেববোৰ
+    .title = শেহতীয়াকৈ বন্ধ কৰা টেববোৰ
+firefoxview-recently-closed-header = শেহতীয়াকৈ বন্ধ কৰা টেববোৰ
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = আনবোৰ ডিভাইচৰ টেববোৰ
+    .title = আনবোৰ ডিভাইচৰ টেববোৰ
+firefoxview-synced-tabs-header = আনবোৰ ডিভাইচৰ টেববোৰ
 
 ##
 
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
+firefoxview-view-all-link = সকলো চাওক
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = ৱিণ্ড’ { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = ৱিণ্ড’ { $winID } (বৰ্তমানৰ)
+firefoxview-opentabs-focus-tab =
+    .title = এই টেবলৈ সলাওক
+firefoxview-show-more = অধিক দেখুৱাওক
+firefoxview-show-less = কম দেখুৱাওক
+firefoxview-show-all = সকলো দেখুৱাওক
+firefoxview-search-text-box-clear-button =
+    .title = পৰিষ্কাৰ কৰক
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = সন্ধান কৰক
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = ইতিহাসত সন্ধান কৰক
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = শেহতীয়াকৈ বন্ধ কৰা টেববোৰত সন্ধান কৰক
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = ছিংক কৰা টেববোৰত সন্ধান কৰক
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = খোলা টেববোৰত সন্ধান কৰক
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = “{ $query }”ৰ বাবে সন্ধানৰ ফলাফল
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count }টা ছাইট
+       *[other] { $count }টা ছাইট
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = “{ $query }”ৰ বাবে কোনো ফলাফল নাই
+firefoxview-sort-history-by-date-label = তাৰিখ অনুসৰি সজাওক
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
