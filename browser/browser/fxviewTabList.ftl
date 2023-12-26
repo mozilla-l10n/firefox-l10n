@@ -43,3 +43,15 @@ fxviewtabrow-close-tab = টেব বন্ধ কৰক
     .accesskey = C
 fxviewtabrow-move-tab = টেব লৈ যাওক
     .accesskey = v
+fxviewtabrow-move-tab-start = আৰম্ভনিলৈ নিয়ক
+    .accesskey = S
+fxviewtabrow-move-tab-end = শেষলৈ নিয়ক
+    .accesskey = E
+fxviewtabrow-move-tab-window = নতুন ৱিণ্ড’লৈ নিয়ক
+    .accesskey = W
+fxviewtabrow-send-tab = ডিভাইচলৈ টেব পঠিয়াওক
+    .accesskey = n
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = { $tabTitle }-ৰ বিকল্পবোৰ
