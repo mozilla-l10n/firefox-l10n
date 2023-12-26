@@ -221,6 +221,8 @@ firefoxview-choose-browser-button = ব্ৰাউজাৰ বাছি লও
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = দেখুৱাবলৈ একো নাই
+firefoxview-dont-remember-history-empty-description = আপোনাৰ গোপনীয়তা সুৰক্ষিত কৰাটোৱেই হৈছে আমি কৰা কামৰ মূলমন্ত্ৰ। এইবাবেই আপুনি { -brand-short-name }-এ মনত ৰখা কাৰ্য্যকলাপ নিয়ন্ত্ৰণ কৰিব পাৰে।
+firefoxview-dont-remember-history-empty-description-two = আপোনাৰ বৰ্তমানৰ ছেটিংছৰ ওপৰত ভিত্তি কৰি { -brand-short-name }-এ আপুনি ব্ৰাউজ কৰাৰ সময়ত আপোনাৰ কাৰ্য্যকলাপ মনত নাৰাখে। সেইটো সলনি কৰিবলৈ <a data-l10n-name="history-settings-url-two">আপোনাৰ ইতিহাস মনত ৰাখিব পৰাকৈ আপোনাৰ ইতিহাসৰ ছেটিংছ সলনি কৰক</a>।
 
 ##
 
