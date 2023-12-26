@@ -62,6 +62,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (neodesílat žádný ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = V předchozím poli se ujistěte, že je zde paměťová značka pro ladění, abyste mohli později rozpoznat své pingy.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Nastavte zapamatovatelnou značku pro ladění <span>(maximálně 20 znaků, pouze alfanumerické znaky a -)</span>, abyste mohli později rozpoznat své pingy.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
