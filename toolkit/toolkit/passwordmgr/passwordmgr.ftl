@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Uložit heslo pro { $host }?
+password-manager-save-password-button-deny =
+    .label = Nyní ne
+    .accesskey = N
 password-manager-save-password-button-allow =
     .label = Uložit
     .accesskey = U
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Aktualizovat heslo pro { $host }?
+password-manager-update-password-button-delete =
+    .label = Odstranit uložené heslo
+    .accesskey = O
 password-manager-update-login-add-username = Přidat k uloženému heslu uživatelské jméno?
 password-manager-password-password-button-allow =
     .label = Aktualizovat
