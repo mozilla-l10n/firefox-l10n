@@ -39,3 +39,5 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-title = কিছুমান এক্সটেনশ্যনৰ অনুমতি নাই
+unified-extensions-mb-quarantined-domain-message = আপোনাৰ তথ্য সুৰক্ষিত কৰিবলৈ এই ছাইটত কেৱল { -vendor-short-name }-দ্বাৰা নিৰীক্ষিত কেইটামান এক্সটেনশ্যনৰ অনুমতি আছে।

@@ -2,10 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-report-broken-site-mainview-title = নষ্ট ছাইটৰ কথা সদৰী কৰক
+report-broken-site-mainview-title = নষ্ট ছাইটৰ কথা সদৰি কৰক
 report-broken-site-panel-header =
-    .label = নষ্ট ছাইটৰ কথা সদৰী কৰক
-    .title = নষ্ট ছাইটৰ কথা সদৰী কৰক
+    .label = নষ্ট ছাইটৰ কথা সদৰি কৰক
+    .title = নষ্ট ছাইটৰ কথা সদৰি কৰক
 report-broken-site-panel-intro = { -brand-product-name }-ক সকলোৰে বাবে উন্নত কৰাত সহায় কৰক। { -vendor-short-name }-এ আপুনি পঠিওৱা তথ্য ৱেবছাইটৰ সমস্যাবোৰ সমাধান কৰিবলৈ ব্যৱহাৰ কৰে।
 report-broken-site-panel-url = URL
 report-broken-site-panel-reason-label = কি নষ্ট হৈছে?

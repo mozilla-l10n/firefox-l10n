@@ -349,4 +349,4 @@ menu-help-not-deceptive =
     .label = এইটো প্ৰবঞ্চক ছাইট নহয়…
     .accesskey = d
 menu-report-broken-site =
-    .label = নষ্ট ছাইটৰ কথা সদৰী কৰক
+    .label = নষ্ট ছাইটৰ কথা সদৰি কৰক
