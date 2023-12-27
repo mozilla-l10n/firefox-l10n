@@ -70,6 +70,8 @@ about-webauthn-auth-option-rk = Калиди муқим
 about-webauthn-auth-option-plat = Дастгоҳи платформа
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Иҷозатҳои фармон (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Ягон иҷозати «MakeCredential/GetAssertion» бо рамзи PIN-и муштарӣ нест
 about-webauthn-auth-option-ep = Баҳодиҳии корхона
 about-webauthn-auth-option-bioenroll = Бақайдгирии биометрӣ
 # FIDO_2_1_PRE should not be translated.
