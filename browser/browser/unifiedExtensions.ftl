@@ -40,4 +40,10 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = কিছুমান এক্সটেনশ্যনৰ অনুমতি নাই
-unified-extensions-mb-quarantined-domain-message = আপোনাৰ তথ্য সুৰক্ষিত কৰিবলৈ এই ছাইটত কেৱল { -vendor-short-name }-দ্বাৰা নিৰীক্ষিত কেইটামান এক্সটেনশ্যনৰ অনুমতি আছে।
+unified-extensions-mb-quarantined-domain-message = আপোনাৰ ডেটা সুৰক্ষিত কৰিবলৈ এই ছাইটত কেৱল { -vendor-short-name }-দ্বাৰা নিৰীক্ষিত কেইটামান এক্সটেনশ্যনৰ অনুমতি আছে।
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = কিছুমান এক্সটেনশ্যনৰ অনুমতি নাই
+    .message = আপোনাৰ ডেটা সুৰক্ষিত কৰিবলৈ কিছুমান এক্সটেনশ্যনে এই ছাইটত ডেটা পঢ়িব বা সলনি কৰিব নোৱাৰে। { -vendor-short-name }-দ্বাৰা নিষিদ্ধ ছাইটবোৰত অনুমতি দিবলৈ এক্সটেনশ্যনৰ ছেটিংছ ব্যৱহাৰ কৰক।
+unified-extensions-mb-quarantined-domain-learn-more = অধিক জানক
+    .aria-label = অধিক জানক: কিছুমান এক্সটেনশ্যনৰ অনুমতি নাই
