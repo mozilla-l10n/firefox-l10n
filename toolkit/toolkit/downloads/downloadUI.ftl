@@ -28,6 +28,12 @@ download-ui-confirm-offline-cancel-downloads =
        *[other] আপুনি এতিয়া অফলাইন হ'লে, { $downloadsCount } ডাউনল'ড বাতিল হ'ব। আপুনি অফলাইন হ'বলৈ নিশ্চিত নে?
     }
 download-ui-dont-go-offline-button = অনলাইন থাকক
+download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
+    { $downloadsCount ->
+        [1] আপুনি এতিয়াই আটাইবোৰ ব্যক্তিগত ব্ৰাউজিঙৰ ৱিণ্ড’ বন্ধ কৰিলে এটা ডাউনল’ড বাতিল কৰা হ’ব। আপুনি ব্যক্তিগত ব্ৰাউজিং এৰিব বিচৰাটো নিশ্চিত নেকি?
+        [2] আপুনি এতিয়াই আটাইবোৰ ব্যক্তিগত ব্ৰাউজিঙৰ ৱিণ্ড’ বন্ধ কৰিলে দুটা ডাউনল’ড বাতিল কৰা হ’ব। আপুনি ব্যক্তিগত ব্ৰাউজিং এৰিব বিচৰাটো নিশ্চিত নেকি?
+       *[other] আপুনি এতিয়াই আটাইবোৰ ব্যক্তিগত ব্ৰাউজিঙৰ ৱিণ্ড’ বন্ধ কৰিলে { $downloadsCount }টা ডাউনল’ড বাতিল কৰা হ’ব। আপুনি ব্যক্তিগত ব্ৰাউজিং এৰিব বিচৰাটো নিশ্চিত নেকি?
+    }
 download-ui-dont-leave-private-browsing-button = ব্যক্তিগত ব্ৰাউজিঙত থাকক
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
