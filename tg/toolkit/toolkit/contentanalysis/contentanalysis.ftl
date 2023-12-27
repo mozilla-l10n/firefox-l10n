@@ -6,3 +6,7 @@ contentanalysis-alert-title = Таҳлили муҳтаво
 contentanalysis-slow-agent-dialog-title = Дар ҳоли таҳлили муҳтаво
 contentanalysis-operationtype-clipboard = ҳофизаи муваққатӣ
 contentanalysis-notification-title = Таҳлили муҳтаво
+# Variables:
+#   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
+#   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
+contentanalysis-genericresponse-message = Таҳлили муҳтаво бо натиҷаи «{ $response }» барои манбаи зерин ба анҷом расид: { $content }
