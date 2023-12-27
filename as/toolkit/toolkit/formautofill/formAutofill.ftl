@@ -1,3 +1,17 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## OS Prompt Dialog
+
+# The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-use-payment-method-os-prompt-macos = সাঁচি থোৱা পৰিশোধ-পদ্ধতিৰ তথ্য ব্যৱহাৰ কৰক
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name }-এ পৰিশোধ-পদ্ধতিৰ তথ্য ব্যৱহাৰ কৰিবলৈ চেষ্টা কৰি আছে। তলৰ এই Windows একাউণ্টলৈ প্ৰৱেশাধিকাৰ নিশ্চিত কৰক।
+autofill-use-payment-method-os-prompt-other = { -brand-short-name }-এ সাঁচি থোৱা পৰিশোধ-পদ্ধতিৰ তথ্য ব্যৱহাৰ কৰিবলৈ চেষ্টা কৰি আছে।
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = সাঁচি থোৱা পৰিশোধ-পদ্ধতিৰ তথ্য দেখুৱাওক
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }-এ পৰিশোধ-পদ্ধতিৰ তথ্য দেখুৱাবলৈ চেষ্টা কৰি আছে। তলৰ এই Windows একাউণ্টলৈ প্ৰৱেশাধিকাৰ নিশ্চিত কৰক।
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name }-এ সাঁচি থোৱা পৰিশোধ-পদ্ধতিৰ তথ্য দেখুৱাবলৈ চেষ্টা কৰি আছে।
