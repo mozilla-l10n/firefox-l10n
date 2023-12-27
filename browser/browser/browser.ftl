@@ -520,6 +520,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Արագ գործողություններ
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Վերջին որոնումները
 
 ## Reader View toolbar buttons
 
@@ -792,9 +797,28 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Ընդլայնումներ
+    .tooltiptext =
+        Ընդլայնումներ
+        Որոշ Ընդլայնումներ թույլատրված չեն
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Ավարտել մասնավոր աշխատաշրջանը
+    .tooltiptext = Ավարտել մասնավոր աշխատաշրջանը
+reset-pbm-panel-heading = Ավարտե՞լ ձեր անձնական աշխատաշրջանը:
+reset-pbm-panel-description = Փակեք բոլոր անձնական ներդիրները և ջնջեք պատմությունը, թխուկները և կայքի բոլոր մյուս տվյալները:
+reset-pbm-panel-always-ask-checkbox =
+    .label = Միշտ հարցնել
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = Չեղարկել
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = Ջնջել աշխատաշրջանի տվյալները
+    .accesskey = D
 
 ## Autorefresh blocker
 
