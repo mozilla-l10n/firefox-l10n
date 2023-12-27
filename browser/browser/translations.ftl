@@ -73,6 +73,24 @@ translations-panel-translate-cancel =
 translations-panel-learn-more-link = অধিক জানক
 translations-panel-intro-header = { -brand-shorter-name }-ত ব্যক্তিগত অনুবাদ ব্যৱহাৰ কৰি চাওক
 translations-panel-intro-description = আপোনাৰ গোপনীয়তাৰ হকে অনুবাদবোৰ আপোনাৰ ডিভাইচৰ পৰা কেতিয়াও ওলাই নাযায়। নতুন নতুন ভাষা আৰু উন্নতিসাধন সোনকালেই আহি আছে!
+translations-panel-error-translating = অনুবাদ কৰোঁতে কিবা সমস্যা হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
+translations-panel-error-load-languages = ভাষাবোৰ ল’ড কৰিব পৰা নগ’ল
+translations-panel-error-load-languages-hint = আপোনাৰ ইণ্টাৰনেট সংযোগ পৰীক্ষা কৰি পুনৰ চেষ্টা কৰক।
+translations-panel-error-load-languages-hint-button =
+    .label = পুনৰ চেষ্টা কৰক
+translations-panel-error-unsupported = এই পৃষ্ঠাখনৰ বাবে অনুবাদ উপলব্ধ নহয়
+translations-panel-error-dismiss-button =
+    .label = বুজিলোঁ
+translations-panel-error-change-button =
+    .label = উৎস-ভাষা সলাওক
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = ক্ষমা কৰিব, আমি এতিয়াও { $language } সমৰ্থন নকৰোঁ।
+translations-panel-error-unsupported-hint-unknown = ক্ষমা কৰিব, আমি এতিয়াও এই ভাষা সমৰ্থন নকৰোঁ।
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
