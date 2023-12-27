@@ -12,6 +12,8 @@ firefoxview-page-title = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Փակել
     .aria-label = Փակել
+firefoxview-empty-state-icon =
+    .alt = Ուշադրություն.
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Հենց հիմա
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -21,8 +23,10 @@ firefoxview-tabpickup-description = Բացեք էջերը այլ սարքերի�
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% ավարտված է
 firefoxview-tabpickup-step-signin-primarybutton = Շարունակել
+firefoxview-syncedtabs-signin-primarybutton = Մուտք գործեք կամ գրանցվեք
 firefoxview-tabpickup-adddevice-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-adddevice-primarybutton = Ստացեք { -brand-product-name } բջջայինի համար
+firefoxview-syncedtabs-adddevice-primarybutton = Փորձեք { -brand-product-name }-ը բջջայինի համար
 firefoxview-tabpickup-synctabs-header = Միացնել ներդիրների համաժամացումը
 firefoxview-tabpickup-synctabs-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
@@ -73,4 +77,25 @@ firefoxview-collapse-button-hide =
 
 
 ##
+
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
