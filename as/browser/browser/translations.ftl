@@ -89,18 +89,41 @@ translations-panel-error-change-button =
 #
 # Variables:
 #   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = ক্ষমা কৰিব, আমি এতিয়াও { $language } সমৰ্থন নকৰোঁ।
+translations-panel-error-unsupported-hint-known = ক্ষমা কৰিব, আমি এতিয়াও { $language } ভাষা সমৰ্থন নকৰোঁ।
 translations-panel-error-unsupported-hint-unknown = ক্ষমা কৰিব, আমি এতিয়াও এই ভাষা সমৰ্থন নকৰোঁ।
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = উৎস-ভাষা
+translations-panel-to-label = লক্ষ্য-ভাষা
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = এই পৃষ্ঠাখন { $fromLanguage }ৰ পৰা { $toLanguage }লৈ অনুবাদ কৰা হৈছে
+translations-panel-choose-language =
+    .label = এটা ভাষা বাছি লওক
+translations-panel-restore-button =
+    .label = মূলটো দেখুৱাওক
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = অনুবাদবোৰ
+translations-manage-settings-button =
+    .label = ছেটিংছ…
+    .accesskey = t
+translations-manage-description = অফলাইন অনুবাদৰ বাবে ভাষা ডাউনল’ড কৰক।
+translations-manage-all-language = সকলো ভাষা
+translations-manage-download-button = ডাউনল’ড কৰক
+translations-manage-delete-button = মচক
+translations-manage-error-download = ভাষাৰ ফাইলবোৰ ডাউনল’ড কৰোঁতে কিবা সমস্যা হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
