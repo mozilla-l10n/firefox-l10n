@@ -4,7 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (শীৰ্ষক নোহোৱা)
-
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = সুৰক্ষাজনিত কাৰণত “javascript:” বা “data:” URL-বোৰ ইতিহাসৰ ৱিণ্ড’ বা ছাইডবাৰৰ পৰা ল’ড কৰিব নোৱাৰি।
 places-bookmarks-backup-title = পত্ৰচিহ্নসমূহ বেকআপ ফাইলনাম
 places-bookmarks-restore-alert-title = পত্ৰচিহ্নসমূহ ওভতাওক
 places-bookmarks-restore-alert = এইটোৱে আপোনাৰ বৰ্তমানৰ পত্ৰচিহ্নক বেকআপৰে সলনি কৰিব। আপুনি নিশ্চিত নে?
@@ -12,6 +13,5 @@ places-bookmarks-restore-title = এটা পত্ৰচিহ্নৰ বে
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = অসমৰ্থিত ফাইলৰ ধৰণ।
 places-bookmarks-restore-parse-error = বেকআপ ফাইলক প্ৰক্ৰিয়া কৰিব নোৱাৰি।
-
 places-bookmarks-import = পত্ৰচিহ্নৰ ফাইল ইমপোৰ্ট কৰক
 places-bookmarks-export = পত্ৰচিহ্নৰ ফাইল এক্সপোৰ্ট কৰক
