@@ -12,6 +12,9 @@ contentanalysis-slow-agent-dialog-title = 내용 분석 진행 중
 contentanalysis-slow-agent-dialog-body = 내용 분석이 “{ $content }” 리소스를 분석하고 있습니다.
 contentanalysis-operationtype-clipboard = 클립보드
 contentanalysis-operationtype-dropped-text = 드롭된 텍스트
+contentanalysis-warndialogtitle = 이 콘텐츠는 안전하지 않을 수 있음
+contentanalysis-warndialog-response-allow = 콘텐츠 사용
+contentanalysis-warndialog-response-deny = 취소
 contentanalysis-notification-title = 내용 분석
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
