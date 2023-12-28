@@ -15,3 +15,12 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } 正嘗試使
 autofill-edit-payment-method-os-prompt-macos = 顯示儲存的付款方式資訊
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } 正嘗試顯示儲存的付款方式資訊。請在下方登入此 Windows 帳號確認。
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } 正嘗試顯示儲存的付款方式資訊。
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = 表單自動填寫選項
+autofill-options-link-osx = 表單自動填寫偏好設定
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
