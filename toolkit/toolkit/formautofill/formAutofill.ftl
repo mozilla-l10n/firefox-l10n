@@ -5,6 +5,8 @@
 
 ## OS Prompt Dialog
 
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Preferoj de aŭtomata plenigo de formularoj
 autofill-options-link-osx = Preferoj de aŭtomata plenigo de formularoj
 
 ## The credit card capture doorhanger
