@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Criar nova credencial
+about-logins-page-title-name = Palavras-passe
+about-logins-login-filter2 =
+    .placeholder = Procurar palavras-passe
+    .key = F
+create-login-button =
+    .title = Adicionar palavra-passe
 fxaccounts-sign-in-text = Obtenha as suas palavras-passe nos seus outros dispositivos
 fxaccounts-sign-in-sync-button = Iniciar sessão para sincronizar
 fxaccounts-avatar-button =
@@ -64,6 +70,7 @@ about-logins-login-list-empty-search-title = Não foram encontradas credenciais
 about-logins-login-list-empty-search-description = Não foram encontrados resultados que correspondam à sua pesquisa.
 login-list-item-title-new-login = Nova credencial
 login-list-item-subtitle-new-login = Introduza as suas credenciais
+login-list-item-title-new-login2 = Adicionar palavra-passe
 login-list-item-subtitle-missing-username = (sem nome de utilizador)
 about-logins-list-item-breach-icon =
     .title = Site invadido
@@ -91,6 +98,8 @@ about-logins-intro-import2 = Se as suas credenciais são guardadas fora do { -br
 ## Login
 
 login-item-new-login-title = Criar nova credencial
+# Header for adding a password
+about-logins-login-item-new-login-title = Adicionar palavra-passe
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Remover
 login-item-origin-label = Endereço do site
@@ -108,6 +117,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = Copiada!
 login-item-save-changes-button = Guardar alterações
+about-logins-login-item-save-changes-button = Guardar
 login-item-save-new-button = Guardar
 login-item-cancel-button = Cancelar
 
@@ -165,6 +175,8 @@ confirmation-dialog-dismiss-button =
     .title = Cancelar
 about-logins-confirm-remove-dialog-title = Remover esta credencial?
 confirm-delete-dialog-message = Esta ação não pode ser anulada.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Remover palavra-passe
 about-logins-confirm-remove-dialog-confirm-button = Remover
 
 ## Variables
