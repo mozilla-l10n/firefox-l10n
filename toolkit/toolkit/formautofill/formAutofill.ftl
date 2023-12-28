@@ -15,3 +15,12 @@ autofill-use-payment-method-os-prompt-other = Το { -brand-short-name } προ�
 autofill-edit-payment-method-os-prompt-macos = εμφανίσει αποθηκευμένα στοιχεία μεθόδου πληρωμής
 autofill-edit-payment-method-os-prompt-windows = Το { -brand-short-name } προσπαθεί να εμφανίσει αποθηκευμένα στοιχεία μεθόδου πληρωμής. Επιβεβαιώστε παρακάτω την πρόσβαση σε αυτόν τον λογαριασμό των Windows.
 autofill-edit-payment-method-os-prompt-other = Το { -brand-short-name } προσπαθεί να εμφανίσει αποθηκευμένα στοιχεία μεθόδου πληρωμής.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Επιλογές αυτόματης συμπλήρωσης φορμών
+autofill-options-link-osx = Προτιμήσεις αυτόματης συμπλήρωσης φορμών
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
