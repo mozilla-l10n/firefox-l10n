@@ -15,3 +15,12 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name }-এ সা�
 autofill-edit-payment-method-os-prompt-macos = সাঁচি থোৱা পৰিশোধ-পদ্ধতিৰ তথ্য দেখুৱাওক
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }-এ পৰিশোধ-পদ্ধতিৰ তথ্য দেখুৱাবলৈ চেষ্টা কৰি আছে। তলৰ এই Windows একাউণ্টলৈ প্ৰৱেশাধিকাৰ নিশ্চিত কৰক।
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name }-এ সাঁচি থোৱা পৰিশোধ-পদ্ধতিৰ তথ্য দেখুৱাবলৈ চেষ্টা কৰি আছে।
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = প্ৰ-পত্ৰ স্বয়ং-পূৰণৰ বিকল্পসমূহ
+autofill-options-link-osx = প্ৰ-পত্ৰ স্বয়ং-পূৰণৰ পছন্দসমূহ
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
