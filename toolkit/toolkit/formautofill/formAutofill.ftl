@@ -15,6 +15,8 @@ autofill-use-payment-method-os-prompt-other = Mae { -brand-short-name } yn ceisi
 autofill-edit-payment-method-os-prompt-macos = dangos manylion dull talu wedi'i storio
 autofill-edit-payment-method-os-prompt-windows = Mae { -brand-short-name } yn ceisio dangos manylion dull talu sydd wedi'i storio. Cadarnhewch fynediad i'r cyfrif Windows hwn isod.
 autofill-edit-payment-method-os-prompt-other = Mae { -brand-short-name } yn ceisio dangos manylion dull talu sydd wedi'i storio.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Dewisiadau Awtolanw Ffurflenni
 autofill-options-link-osx = Dewisiadau Awtolanw Ffurflenni
 
 ## The credit card capture doorhanger
