@@ -7,6 +7,7 @@
 
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Налады аўтазапаўнення формаў
+autofill-options-link-osx = Перавагі аўтазапаўнення формаў
 
 ## The credit card capture doorhanger
 
