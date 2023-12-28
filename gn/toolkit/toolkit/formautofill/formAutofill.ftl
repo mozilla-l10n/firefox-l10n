@@ -15,3 +15,12 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } oiporuse mar
 autofill-edit-payment-method-os-prompt-macos = eiporu marandu mbyatypyre ñehepyme’ẽrã rehegua
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } ohechaukase marandu ñongatupyre jehepyme’ẽrã rehegua. Emoneĩ Windows mba’etépe jeike oĩva tenondeve.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } ohechaukase marandu mbyatypyre ñehepyme’ẽrã rehegua.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Myanyhẽha ijeheguíva porãvopyrã
+autofill-options-link-osx = Myanyhẽha ijeheguíva jerohoryvéva
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
