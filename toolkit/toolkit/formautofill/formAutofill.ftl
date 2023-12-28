@@ -15,3 +15,12 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } đang muốn
 autofill-edit-payment-method-os-prompt-macos = hiển thị thông tin phương thức thanh toán được lưu trữ
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } đang muốn hiển thị thông tin phương thức thanh toán được lưu trữ. Xác nhận quyền truy cập vào tài khoản Windows này bên dưới.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } đang muốn hiển thị thông tin phương thức thanh toán được lưu trữ.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Tùy chọn tự động điền mẫu
+autofill-options-link-osx = Tùy chỉnh tự động điền mẫu
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
