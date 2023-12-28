@@ -15,3 +15,12 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } tenta usar i
 autofill-edit-payment-method-os-prompt-macos = monstrar informationes de methodo de pagamento immagazinate
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } tenta monstrar informationes de methodo de pagamento immagazinate. Confirma accesso a iste conto Windows infra.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } tenta monstrar informationes de methodo de pagamento immagazinate.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Optiones del completion automatic
+autofill-options-link-osx = Preferentias del completion automatic
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
