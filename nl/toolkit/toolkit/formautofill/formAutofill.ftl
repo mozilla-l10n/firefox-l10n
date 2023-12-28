@@ -15,3 +15,12 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } probeert bet
 autofill-edit-payment-method-os-prompt-macos = opgeslagen betalingsgegevens tonen
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } probeert opgeslagen betalingsgegevens te tonen. Bevestig hieronder toegang tot deze Windows-account.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } probeert opgeslagen betalingsgegevens te tonen.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Opties voor Formulieren automatisch invullen
+autofill-options-link-osx = Voorkeuren voor Formulieren automatisch invullen
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
