@@ -11,3 +11,12 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } depolanan ö
 autofill-edit-payment-method-os-prompt-macos = depolanan ödeme yöntemi bilgilerini gösterme
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } depolanan ödeme yöntemi bilgilerini göstermeye çalışıyor. Bu Windows hesabına erişimi onaylayın.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } depolanan ödeme yöntemi bilgilerini göstermeye çalışıyor.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Otomatik form doldurma seçenekleri
+autofill-options-link-osx = Otomatik form doldurma tercihleri
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
