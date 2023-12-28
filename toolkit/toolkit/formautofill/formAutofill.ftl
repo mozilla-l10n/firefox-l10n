@@ -15,3 +15,12 @@ autofill-use-payment-method-os-prompt-other = «{ -brand-short-name }» кӯши
 autofill-edit-payment-method-os-prompt-macos = маълумоти тарзи пардохти нигоҳдошташударо нишон диҳад
 autofill-edit-payment-method-os-prompt-windows = «{ -brand-short-name }» кӯшиш мекунад, ки маълумоти тарзи пардохти нигоҳдошташударо нишон диҳад. Дастрасиро ба ин ҳисоби «Windows» дар зер тасдиқ намоед.
 autofill-edit-payment-method-os-prompt-other = «{ -brand-short-name }» кӯшиш мекунад, ки маълумоти тарзи пардохти нигоҳдошташударо нишон диҳад.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Имконоти пуркунии шакл ба таври худкор
+autofill-options-link-osx = Хусусиятҳои пуркунии шакл ба таври худкор
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
