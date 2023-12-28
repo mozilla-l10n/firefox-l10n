@@ -15,3 +15,12 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } försöker a
 autofill-edit-payment-method-os-prompt-macos = visa lagrad information om betalningssätt
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } försöker visa lagrad information om betalningssätt. Bekräfta åtkomst till detta Windows-konto nedan.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } försöker visa lagrad information om betalningssätt.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Inställningar för autofyll av formulär
+autofill-options-link-osx = Inställningar för autofyll av formulär
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
