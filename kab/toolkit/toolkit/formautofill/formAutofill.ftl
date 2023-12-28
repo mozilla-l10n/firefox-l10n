@@ -5,6 +5,8 @@
 
 ## OS Prompt Dialog
 
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Iγewwaren n usekcem s wudem awurman deg iferka
 autofill-options-link-osx = Ismenyifen n usekcem s wudem awurman
 
 ## The credit card capture doorhanger
