@@ -15,3 +15,12 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } is trying to
 autofill-edit-payment-method-os-prompt-macos = show stored payment method information
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } is trying to show stored payment method information. Confirm access to this Windows account below.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } is trying to show stored payment method information.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Form Autofill Options
+autofill-options-link-osx = Form Autofill Preferences
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
