@@ -15,3 +15,12 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } er að reyna
 autofill-edit-payment-method-os-prompt-macos = birta geymdar greiðslumátaupplýsingar
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } er að reyna að birta vistaðar upplýsingar um greiðslumáta. Staðfestu aðgang að þessum Windows reikningi hér að neðan.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } er að reyna að birta vistaðar upplýsingar um greiðslumáta.
+# The links lead users to Form Autofill browser preferences.
+autofill-options-link = Stillingar fyrir sjálfvirkar útfyllingar
+autofill-options-link-osx = Stillingar fyrir sjálfvirkar útfyllingar
+
+## The credit card capture doorhanger
+
+
+# Used on the doorhanger when an credit card change is detected.
+
