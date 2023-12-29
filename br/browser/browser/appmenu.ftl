@@ -152,12 +152,12 @@ profiler-popup-capture-button =
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
-       *[other] Ctrl+Shift+1
+       *[other] Reol+Pennlizh+1
     }
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
-       *[other] Ctrl+Shift+2
+       *[other] Reol+Pennlizh+2
     }
 
 ## Profiler presets
