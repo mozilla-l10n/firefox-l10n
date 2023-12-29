@@ -14,13 +14,17 @@ xpinstall-prompt-message = আপুনি { $host }-ৰ এড-অন এটা
 
 xpinstall-prompt-header-unknown = এটা অজ্ঞাত ছাইটক এড-অন ইনষ্টল কৰাৰ অনুমতি দিবনে?
 xpinstall-prompt-message-unknown = আপুনি এটা অজ্ঞাত ছাইটৰ এড-অন ইনষ্টল কৰাৰ চেষ্টা কৰি আছে। অব্যাহত ৰখাৰ আগতে আপুনি এই ছাইটটোক বিশ্বাস কৰাটো নিশ্চিত কৰক।
-
 xpinstall-prompt-dont-allow =
     .label = অনুমতি নিদিব
     .accesskey = D
 xpinstall-prompt-never-allow =
     .label = কেতিয়াও অনুমতি নিদিব
     .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = সন্দেহজনক ছাইটৰ কথা সদৰি কৰক
+    .accesskey = R
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -30,6 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = এই ছাইটটোৱে আপোনাৰ MIDI (মিউজিকেল ইনষ্ট্ৰুমেণ্ট ডিজিটেল ইণ্টাৰফে’চ) ডিভাইচবোৰত প্ৰৱেশাধিকাৰৰ অনুৰোধ কৰিছে। এটা এড-অন ইনষ্টল কৰি ডিভাইচত প্ৰৱেশাধিকাৰ সক্ৰিয় কৰিব পাৰি।
+site-permission-install-first-prompt-midi-message = এই প্ৰৱেশ নিৰাপদ হোৱাৰ নিশ্চয়তা নাই। এই ছাইটটোক বিশ্বাস কৰিলেহে আগবাঢ়িব।
 
 ##
 
@@ -38,6 +44,13 @@ xpinstall-disabled = চফ্টৱেৰ ইনস্টল বৰ্তমা
 xpinstall-disabled-button =
     .label = সামৰ্থবান কৰক
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = আপোনাৰ ব্যৱস্থাপ্ৰণালী-কৰ্তৃপক্ষই { $addonName } ({ $addonId }) অৱৰোধ কৰিছে।
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = আপোনাৰ ব্যৱস্থাপ্ৰণালী-কৰ্তৃপক্ষই এই ছাইটক আপোনাক আপোনাৰ কম্পিউটাৰত ছফ্টৱেৰ ইনষ্টল কৰিবলৈ কোৱাত বাধা দিছে।
 
 ## Add-on removal warning
 
@@ -45,9 +58,7 @@ xpinstall-disabled-button =
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } আঁতৰাবনে?
 addon-removal-abuse-report-checkbox = { -vendor-short-name }-ক এই এক্সটেনশ্যনৰ প্ৰতিবেদন দিয়ক
-
 addon-download-verifying = সতা সত্য নিৰূপন কৰা হৈ আছে
-
 addon-install-accept-button =
     .label = যোগ কৰক
     .accesskey = A
