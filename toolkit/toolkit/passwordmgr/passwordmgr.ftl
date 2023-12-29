@@ -20,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = { $host } ਲਈ ਪਾਸਵਰਡ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨਾ ਹੈ?
+password-manager-update-password-button-delete =
+    .label = ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
+    .accesskey = R
 password-manager-update-login-add-username = ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਲਈ ਵਰਤੋਂਕਾਰ-ਨਾਂ ਜੋੜਨਾ ਹੈ?
 password-manager-password-password-button-allow =
     .label = ਅੱਪਡੇਟ ਕਰੋ
