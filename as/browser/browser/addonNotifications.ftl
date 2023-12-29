@@ -104,10 +104,22 @@ addon-confirm-install-unsigned-message =
         [2] সাৱধান: এই ছাইটটোৱে { -brand-short-name }-ত দুটা অনিশ্চিতকৃত এড-অন ইনষ্টল কৰিব বিচাৰিছে। ভালকৈ ভাবি-চিন্তি আগবাঢ়ক।
        *[other] সাৱধান: এই ছাইটটোৱে { -brand-short-name }-ত { $addonCount }টা অনিশ্চিতকৃত এড-অন ইনষ্টল কৰিব বিচাৰিছে। ভালকৈ ভাবি-চিন্তি আগবাঢ়ক।
     }
+# Variables:
+#   $addonCount (Number): the number of add-ons being installed (at least 2)
+addon-confirm-install-some-unsigned-message =
+    { $addonCount ->
+       *[other] সাৱধান: এই ছাইটটোৱে { -brand-short-name }-ত { $addonCount }টা এড-অন ইনষ্টল কৰিব বিচাৰিছে, য’ৰ কেইটামান অনিশ্চিতকৃত। ভালকৈ ভাবি-চিন্তি আগবাঢ়ক।
+    }
 
 ## Add-on install errors
 ## Variables:
 ##   $addonName (String): the add-on name.
 
+addon-install-error-network-failure = সংযোগ-সংক্ৰান্তীয় বিফলতাৰ কাৰণে এড-অন ডাউনল’ড কৰিব পৰা নগ’ল।
+addon-install-error-incorrect-hash = এড-অন ইনষ্টল কৰিব পৰা নগ’ল কাৰণ ইয়াৰ { -brand-short-name }-এ আশা কৰা এড-অনৰ সৈতে মিল নাই।
+addon-install-error-corrupt-file = এই ছাইটটোৰ পৰা ডাউনল’ড কৰা এড-অনটো ইনষ্টল কৰিব পৰা নগ’ল কাৰণ এইটো নষ্ট হোৱা যেন লাগিছে।
+addon-install-error-file-access = { $addonName } ইনষ্টল কৰিব পৰা নগ’ল কাৰণ { -brand-short-name }-এ প্ৰয়োজনীয় ফাইল সাল-সলনি কৰিব নোৱাৰে।
+addon-install-error-not-signed = { -brand-short-name }-এ এই ছাইটটোক এটা অনিশ্চিতকৃত এড-অন ইনষ্টল কৰাত বাধা দিছে।
+addon-install-error-invalid-domain = এই ঠাইৰ পৰা { $addonName } এড-অনটো ইনষ্টল কৰিব নোৱাৰি।
 addon-local-install-error-network-failure = এটা ফাইলচিস্টেম ত্ৰুটিৰ বাবে এই এড-অন ইনস্টল কৰিব পৰা নগল।
 addon-local-install-error-corrupt-file = এই এড-অন ইনস্টল কৰিব পৰা নগল কাৰণ ই সম্ভবত ক্ষতিগ্ৰস্থ।
