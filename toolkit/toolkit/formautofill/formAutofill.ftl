@@ -21,6 +21,29 @@ autofill-options-link-osx = Stillingar fyrir sjálfvirkar útfyllingar
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Samstilla öll vistuð kort milli tækjanna minna
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Vista þetta kort á öruggan hátt?
+credit-card-save-doorhanger-description = { -brand-short-name } dulkóðar kortanúmerið þitt. Öryggiskóðinn þinn verður ekki vistaður.
+credit-card-capture-save-button =
+    .label = Vista
+    .accessKey = S
+credit-card-capture-cancel-button =
+    .label = Ekki núna
+    .accessKey = k
+credit-card-capture-never-save-button =
+    .label = Aldrei vista kort
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Uppfæra kort?
+credit-card-update-doorhanger-description = Kort sem á að uppfæra:
+credit-card-capture-save-new-button =
+    .label = Vista sem nýtt kort
+    .accessKey = t
+credit-card-capture-update-button =
+    .label = Uppfæra fyrirliggjandi kort
+    .accessKey = U
