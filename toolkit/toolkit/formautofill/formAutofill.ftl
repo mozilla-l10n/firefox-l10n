@@ -21,6 +21,15 @@ autofill-options-link-osx = Хусусиятҳои пуркунии шакл б�
 
 ## The credit card capture doorhanger
 
+credit-card-capture-save-button =
+    .label = Нигоҳ доштан
+    .accessKey = Н
+credit-card-capture-cancel-button =
+    .label = Ҳоло не
+    .accessKey = н
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-capture-save-new-button =
+    .label = Нигоҳ доштан ҳамчун корти нав
+    .accessKey = Д
