@@ -5,6 +5,8 @@
 contentanalysis-alert-title = Таҳлили муҳтаво
 contentanalysis-slow-agent-dialog-title = Дар ҳоли таҳлили муҳтаво
 contentanalysis-operationtype-clipboard = ҳофизаи муваққатӣ
+contentanalysis-warndialog-response-allow = Истифодаи муҳтаво
+contentanalysis-warndialog-response-deny = Бекор кардан
 contentanalysis-notification-title = Таҳлили муҳтаво
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
