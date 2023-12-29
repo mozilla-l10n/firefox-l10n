@@ -5,20 +5,19 @@
 sanitize-prefs2 =
     .title = Настройки удаления истории
     .style = min-width: 34em
-
 sanitize-prefs-style =
     .style = width: 17em
-
+sanitize-dialog-title2 =
+    .title = Удалить данные веб-сёрфинга и куки
+    .style = min-width: 34em
 sanitize-dialog-title =
     .title = Удаление недавней истории
     .style = min-width: 34em
-
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
     .title = Удаление всей истории
     .style = min-width: 34em
-
 clear-data-settings-label = При закрытии { -brand-short-name } должен автоматически удалять
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
@@ -32,22 +31,19 @@ clear-data-settings-label = При закрытии { -brand-short-name } дол
 clear-time-duration-prefix =
     .value = Удалить:
     .accesskey = т
-
+clear-time-duration-prefix2 =
+    .value = Когда:
+    .accesskey = Ц
 clear-time-duration-value-last-hour =
     .label = За последний час
-
 clear-time-duration-value-last-2-hours =
     .label = За последние два часа
-
 clear-time-duration-value-last-4-hours =
     .label = За последние четыре часа
-
 clear-time-duration-value-today =
     .label = За сегодня
-
 clear-time-duration-value-everything =
     .label = Всё
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -55,55 +51,52 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Историю
-
 item-history-and-downloads =
     .label = Журнал посещений и загрузок
     .accesskey = п
-
+item-browsing-and-search =
+    .label = Посещённые сайты, сохранённые данные форм и поисковые запросы
+    .accesskey = И
 item-cookies =
     .label = Куки
     .accesskey = у
-
+item-cookies-site-data =
+    .label = Куки и данные сайтов
+    .accesskey = у
+item-cookies-site-data-description = Может выйти из системы или опустошить корзину покупок
 item-active-logins =
     .label = Текущие сеансы
     .accesskey = с
-
 item-cache =
     .label = Кеш
     .accesskey = е
-
+item-cached-content =
+    .label = Временные кешированные файлы и страницы
+    .accesskey = а
+item-cached-content-description = Удаляет элементы, что помогает сайтам загружаться быстрее
 item-form-search-history =
     .label = Журнал форм и поиска
     .accesskey = ф
-
 data-section-label = Данные
-
 item-site-settings =
     .label = Настройки сайтов
     .accesskey = о
-
 item-offline-apps =
     .label = Данные автономных сайтов
     .accesskey = н
-
 sanitize-everything-undo-warning = Это действие нельзя отменить.
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Удалить сейчас
-
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Удаление
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Вся история будет удалена.
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
