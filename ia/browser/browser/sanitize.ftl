@@ -60,6 +60,7 @@ item-cookies =
 item-cookies-site-data =
     .label = Cookies e datos de sito
     .accesskey = e
+item-cookies-site-data-description = Pote disconnecter te de sitos o vacuar carrettos de compras
 item-active-logins =
     .label = Sessiones active
     .accesskey = u
