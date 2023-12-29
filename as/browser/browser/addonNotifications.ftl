@@ -51,14 +51,40 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = আপোনাৰ ব্যৱস্থাপ্ৰণালী-কৰ্তৃপক্ষই { $addonName } ({ $addonId }) অৱৰোধ কৰিছে।
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = আপোনাৰ ব্যৱস্থাপ্ৰণালী-কৰ্তৃপক্ষই এই ছাইটক আপোনাক আপোনাৰ কম্পিউটাৰত ছফ্টৱেৰ ইনষ্টল কৰিবলৈ কোৱাত বাধা দিছে।
+addon-install-full-screen-blocked = ফুলস্ক্ৰীন অৱস্থাত থাকি বা তাত সোমাৱাৰ আগত এড-অন ইনষ্টল কৰাৰ অনুমতি নাই।
+# Variables:
+#   $addonName (String): the localized name of the sideloaded add-on.
+webext-perms-sideload-menu-item = { -brand-short-name }-ত { $addonName } যোগ কৰা হ’ল
+# Variables:
+#   $addonName (String): the localized name of the extension which has been updated.
+webext-perms-update-menu-item = { $addonName }-ক নতুন অনুমতিৰ প্ৰয়োজন
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = { -brand-short-name }-লৈ আমদানি কৰা এক্সটেনশ্যনকেইটা ইনষ্টল কৰাটো চূড়ান্ত কৰক
 
 ## Add-on removal warning
 
 # Variables:
 #  $name (String): The name of the add-on that will be removed.
 addon-removal-title = { $name } আঁতৰাবনে?
+# Variables:
+#   $name (String): the name of the extension which is about to be removed.
+addon-removal-message = { -brand-shorter-name }-ৰ পৰা { $name } আঁতৰাবনে?
+addon-removal-button = আঁতৰাওক
 addon-removal-abuse-report-checkbox = { -vendor-short-name }-ক এই এক্সটেনশ্যনৰ প্ৰতিবেদন দিয়ক
+# Variables:
+#   $addonCount (Number): the number of add-ons being downloaded
+addon-downloading-and-verifying =
+    { $addonCount ->
+        [1] এড-অন ডাউনল’ড কৰি পৰীক্ষা কৰি থকা হৈছে…
+        [2] দুটা এড-অন ডাউনল’ড কৰি পৰীক্ষা কৰি থকা হৈছে…
+       *[other] { $addonCount }টা এড-অন ডাউনল’ড কৰি পৰীক্ষা কৰি থকা হৈছে…
+    }
 addon-download-verifying = সতা সত্য নিৰূপন কৰা হৈ আছে
+addon-install-cancel-button =
+    .label = বাতিল কৰক
+    .accesskey = C
 addon-install-accept-button =
     .label = যোগ কৰক
     .accesskey = A
