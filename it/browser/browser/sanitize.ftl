@@ -146,3 +146,4 @@ sanitize-everything-warning = Tutta la cronologia verrà eliminata.
 # history items to clear.
 sanitize-selected-warning = Tutti gli elementi selezionati verranno eliminati.
 
+
