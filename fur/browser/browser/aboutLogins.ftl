@@ -108,19 +108,24 @@ about-logins-login-intro-heading-logged-in = Nissune credenziâl sincronizade cj
 login-intro-description = Se tu âs salvât lis tôs credenziâls su { -brand-product-name } suntun altri dispositîf, chi al spieghe cemût otignîlis achì:
 login-intro-instructions-fxa = Cree o jentre sul to { -fxaccount-brand-name } sul dispositîf dulà che tu âs salvadis lis tôs credenziâls.
 about-logins-login-intro-heading-message = Salve lis tôs passwords intun puest sigûr
+login-intro-description2 = Dutis lis passwords che tu salvis in { -brand-product-name } a vegnin cifradis. Sore, o tignìn di voli lis violazions di dâts e ti visìn se tu sês stât cjapât dentri. <a data-l10n-name="breach-alert-link">Scuvierç di plui</a>
 login-intro-instructions-fxa2 = Cree o jentre tal to account sul dispositîf dulà che tu âs salvât lis tôs credenziâls.
 login-intro-instructions-fxa-settings = Va su Impostazions > Sincronizazion > Ative la sincronizazion… e selezione la casele Credenziâls e passwords.
 login-intro-instructions-fxa-passwords-help = Visite il <a data-l10n-name="passwords-help-link">supuart pes password</a> par vê plui jutori.
 about-logins-intro-browser-only-import = Se lis tôs credenziâls di acès a son salvadis intun altri navigadôr, tu puedis <a data-l10n-name="import-link">impuartâlis in { -brand-product-name } </a>
 about-logins-intro-import2 = Se lis tôs credenziâls a son stadis salvadis fûr di { -brand-product-name }, tu puedis <a data-l10n-name="import-browser-link">impuartâlis di un altri navigadôr</a> opûr <a data-l10n-name="import-file-link">di un file</a>
+about-logins-intro-import3 = Selezione il boton cul simbul “+” par zontâ une password. Tu puedis ancje <a data-l10n-name="import-browser-link">impuartâ lis passwords di un altri navigadôr</a> o <a data-l10n-name="import-file-link">di un file</a>.
 
 ## Login
 
 login-item-new-login-title = Cree gnove credenziâl
+# Header for adding a password
+about-logins-login-item-new-login-title = Zonte password
 login-item-edit-button = Modifiche
 about-logins-login-item-remove-button = Gjave
 login-item-origin-label = Direzion sît web
 login-item-tooltip-message = Siguriti che cheste e corispuindi ae direzion esate dal sît web dulà che tu stâs jentrant.
+about-logins-origin-tooltip2 = Inserìs la direzion complete e controle che e corispuindi in mût esat cun chê doprade pal acès.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Siguriti di salvâ la password atuâl par chest sît. La modifiche de password achì no cambiarà chê in { $webTitle }.
