@@ -129,7 +129,11 @@ login-intro-description =
     }
 login-intro-instructions-fxa = Vytvořte nebo se přihlaste k { -fxaccount-brand-name(case: "dat", capitalization: "lower") } na zařízení, kde máte přihlašovací údaje uložené.
 about-logins-login-intro-heading-message = Uložte si svá hesla na bezpečné místo
-login-intro-description2 = Všechna hesla uložená v aplikaci { -brand-product-name } jsou šifrovaná. Navíc sledujeme, zda se na internetu neobjeví vaše uniklá data a upozorníme vás, pokud se tak stane. <a data-l10n-name="breach-alert-link">Zjistit více</a>
+login-intro-description2 =
+    { -brand-product-name.case-status ->
+        [with-cases] Všechna hesla uložená ve { -brand-product-name(case: "loc") } jsou šifrovaná. Navíc sledujeme, zda se na internetu neobjeví vaše uniklá data, a upozorníme vás, pokud se tak stane. <a data-l10n-name="breach-alert-link">Zjistit více</a>
+       *[no-cases] Všechna hesla uložená v aplikaci { -brand-product-name } jsou šifrovaná. Navíc sledujeme, zda se na internetu neobjeví vaše uniklá data, a upozorníme vás, pokud se tak stane. <a data-l10n-name="breach-alert-link">Zjistit více</a>
+    }
 login-intro-instructions-fxa2 = Vytvořte nebo se přihlaste ke svému účtu na zařízení, kde máte přihlašovací údaje uložené.
 login-intro-instructions-fxa-settings = Otevřete Nastavení > Synchronizace > Zapnout synchronizaci… a vyberte položku Přihlašovací údaje.
 login-intro-instructions-fxa-passwords-help = Navštivte <a data-l10n-name="passwords-help-link">nápovědu pro hesla</a>.
@@ -302,12 +306,9 @@ about-logins-confirm-remove-all-dialog-title2 =
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
-    { $count ->
-        [1] Tímto smažete heslo uložené v aplikaci { -brand-short-name } a všechna hlášení o jeho úniku. Tuto akci nemůžete vzít zpět.
-        [one] Tímto smažete heslo uložené v aplikaci { -brand-short-name } a všechna hlášení o jeho úniku. Tuto akci nemůžete vzít zpět.
-        [few] Tímto smažete hesla uložená v aplikaci { -brand-short-name } a všechna hlášení o jejich úniku. Tuto akci nemůžete vzít zpět.
-        [many] Tímto smažete hesla uložená v aplikaci { -brand-short-name } a všechna hlášení o jejich úniku. Tuto akci nemůžete vzít zpět.
-       *[other] Tímto smažete hesla uložená v aplikaci { -brand-short-name } a všechna hlášení o jejich úniku. Tuto akci nemůžete vzít zpět.
+    { -brand-short-name.case-status ->
+        [with-cases] Tímto odstraníte hesla uložená ve { -brand-short-name(case: "loc") } a všechna případná hlášení o jejich únicích. Tuto akci nelze vzít zpět.
+       *[no-cases] Tímto odstraníte hesla uložená v aplikace { -brand-short-name } a všechna případná hlášení o jejich únicích. Tuto akci nelze vzít zpět.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
@@ -319,12 +320,9 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
-    { $count ->
-        [1] Tímto odstraníte heslo, která jste uložili do aplikace { -brand-short-name } na všech zařízeních synchronizovaných s vaším účtem. Tím se také odstraní upozornění na úniky, která se zde zobrazují. Tuto akci nebude možné vrátit zpět.
-        [one] Tímto odstraníte heslo, která jste uložili do aplikace { -brand-short-name } na všech zařízeních synchronizovaných s vaším účtem. Tím se také odstraní upozornění na úniky, která se zde zobrazují. Tuto akci nebude možné vrátit zpět.
-        [few] Tímto odstraníte hesla, která jste uložili do aplikace { -brand-short-name } na všech zařízeních synchronizovaných s vaším účtem. Tím se také odstraní upozornění na úniky, která se zde zobrazují. Tuto akci nebude možné vrátit zpět.
-        [many] Tímto odstraníte hesla, která jste uložili do aplikace { -brand-short-name } na všech zařízeních synchronizovaných s vaším účtem. Tím se také odstraní upozornění na úniky, která se zde zobrazují. Tuto akci nebude možné vrátit zpět.
-       *[other] Tímto odstraníte hesla, která jste uložili do aplikace { -brand-short-name } na všech zařízeních synchronizovaných s vaším účtem. Tím se také odstraní upozornění na úniky, která se zde zobrazují. Tuto akci nebude možné vrátit zpět.
+    { -brand-short-name.case-status ->
+        [with-cases] Tímto odstraníte hesla, která jste uložili do { -brand-short-name(case: "gen") } na všech zařízeních synchronizovaných s vaším účtem. Tím se také odstraní upozornění na úniky, která se zde zobrazují. Tuto akci nelze vzít zpět.
+       *[no-cases] Tímto odstraníte hesla, která jste uložili do aplikace { -brand-short-name } na všech zařízeních synchronizovaných s vaším účtem. Tím se také odstraní upozornění na úniky, která se zde zobrazují. Tuto akci nelze vzít zpět.
     }
 
 ##
@@ -332,6 +330,8 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Export přihlašovacích údajů
 about-logins-confirm-export-dialog-message = Vaše hesla budou uložena v čitelné podobě (např. Šp4tnéH3sl0) a kdokoliv otevře exportovaný soubor, bude si je moci přečíst.
 about-logins-confirm-export-dialog-confirm-button = Exportovat…
+about-logins-confirm-export-dialog-title2 = Poznámka k exportování hesel
+about-logins-confirm-export-dialog-confirm-button2 = Pokračovat v exportu
 about-logins-alert-import-title = Import byl dokončen
 about-logins-alert-import-message = Zobrazit podrobné shrnutí importu
 confirm-discard-changes-dialog-title = Zahodit neuložené změny?
