@@ -12,6 +12,8 @@ contentanalysis-slow-agent-dialog-title = Tetepy resa’ỹijo oikovahína
 contentanalysis-slow-agent-dialog-body = Pe tetepy ñehesa’ỹijoha ohesa’ỹijo “{ $content }” mba’e
 contentanalysis-operationtype-clipboard = kuatiajokoha
 contentanalysis-operationtype-dropped-text = moñe’ẽrã ho’áva
+contentanalysis-warndialog-response-allow = Eiporu tetepy
+contentanalysis-warndialog-response-deny = Heja
 contentanalysis-notification-title = Tetepy resa’ỹijo
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"

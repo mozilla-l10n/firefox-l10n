@@ -21,6 +21,15 @@ autofill-options-link-osx = Myanyhẽha ijeheguíva jerohoryvéva
 
 ## The credit card capture doorhanger
 
+credit-card-capture-save-button =
+    .label = Ñongatu
+    .accessKey = S
+credit-card-capture-cancel-button =
+    .label = Ani ko’ág̃a
+    .accessKey = W
+credit-card-capture-never-save-button =
+    .label = Aníke eñongatu kuatia’atã
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
