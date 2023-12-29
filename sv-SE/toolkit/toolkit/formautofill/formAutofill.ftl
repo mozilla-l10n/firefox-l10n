@@ -21,6 +21,29 @@ autofill-options-link-osx = Inställningar för autofyll av formulär
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Synkronisera alla sparade kort på mina enheter
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Vill du spara det här kortet säkert?
+credit-card-save-doorhanger-description = { -brand-short-name } krypterar ditt kortnummer. Din säkerhetskod kommer inte att sparas.
+credit-card-capture-save-button =
+    .label = Spara
+    .accessKey = S
+credit-card-capture-cancel-button =
+    .label = Inte nu
+    .accessKey = n
+credit-card-capture-never-save-button =
+    .label = Spara aldrig kort
+    .accessKey = a
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Uppdatera kort?
+credit-card-update-doorhanger-description = Kort att uppdatera:
+credit-card-capture-save-new-button =
+    .label = Spara som nytt kort
+    .accessKey = n
+credit-card-capture-update-button =
+    .label = Uppdatera befintligt kort
+    .accessKey = U
