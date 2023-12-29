@@ -50,3 +50,4 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = Aggiorna carta esistente
     .accessKey = A
+
