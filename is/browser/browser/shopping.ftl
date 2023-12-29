@@ -112,7 +112,6 @@ shopping-analysis-explainer-intro2 =
     Þetta mun aðeins hjálpa þér að meta gæði umsagna um vörur, ekki gæði vöru.
 shopping-analysis-explainer-grades-intro = Við gefum umsögnum hverrar vöru <strong>einkunnir í bókstöfum</strong> frá A til F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Aðlöguð einkunn</strong> er eingöngu byggð á umsögnum sem við teljum vera áreiðanlegar.
-shopping-analysis-explainer-learn-more = Frekari upplýsingar um <a data-l10n-name="review-quality-url">hvernig { -fakespot-brand-full-name } ákvarðar gæði umsagna</a>.
 shopping-analysis-explainer-learn-more2 = Frekari upplýsingar um <a data-l10n-name="review-quality-url">hvernig { -fakespot-brand-name } ákvarðar gæði umsagna</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -128,14 +127,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Opna umsagnaskoðun
 shopping-sidebar-close-button2 =
     .tooltiptext = Loka umsagnaskoðun
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -197,8 +188,8 @@ shopping-onboarding-dynamic-subtitle-1 = Sjáðu hversu áreiðanlegar vöruumsa
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Sjáðu hversu áreiðanlegar vöruumsagnir eru á <b>{ $currentSite }</b> áður en þú kaupir. Umsagnaskoðun, tilraunaeiginleiki frá { -brand-product-name }, er innbyggður beint inn í vafrann.
 shopping-onboarding-body = Með hjálp { -fakespot-brand-full-name } frá Mozilla, gerum við þér kleift að forðast hlutdrægar og ósannar umsagnir. Gervigreindarlíkanið okkar er alltaf að batna til að vernda þig sem best þegar þú verslar. <a data-l10n-name="learn_more">Frekari upplýsingar</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Með því að velja „{ shopping-onboarding-opt-in-button }“ samþykkir þú <a data-l10n-name="privacy_policy">persónuverndarstefnu</a> og <a data-l10n-name="terms_of_use">notkunarskilmála</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Með því að velja „{ shopping-onboarding-opt-in-button }“ samþykkir þú <a data-l10n-name="privacy_policy">persónuverndarstefnu</a> og <a data-l10n-name="terms_of_use">notkunarskilmála</a> { -fakespot-brand-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Með því að velja „{ shopping-onboarding-opt-in-button }“ samþykkir þú <a data-l10n-name="privacy_policy">persónuverndarstefnu</a> { -brand-product-name } og <a data-l10n-name="terms_of_use">notkunarskilmála</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Já, prófum það
 shopping-onboarding-not-now-button = Ekki núna
 shopping-onboarding-dialog-close-button =

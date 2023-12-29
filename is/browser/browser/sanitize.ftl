@@ -81,6 +81,9 @@ item-site-prefs =
     .label = Stillingar vefsvæðis
     .accesskey = i
 item-site-prefs-description = Endurstillir heimildir þínar og stillingar vefsvæða á upprunalegar stillingar
+item-download-history =
+    .label = Listi yfir sóttar skrár
+    .accesskey = L
 data-section-label = Gögn
 item-site-settings =
     .label = Stillingar vefsvæðis
@@ -93,6 +96,8 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Hreinsa núna
+sanitize-button-ok2 =
+    .label = Hreinsa
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
