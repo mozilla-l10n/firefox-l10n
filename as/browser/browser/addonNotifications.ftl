@@ -92,6 +92,12 @@ addon-install-accept-button =
 ## Variables:
 ##   $addonCount (Number): the number of add-ons being installed
 
+addon-confirm-install-message =
+    { $addonCount ->
+        [1] এই ছাইটটোৱে { -brand-short-name }-ত এটা এড-অন ইনষ্টল কৰিব বিচাৰিছে:
+        [2] এই ছাইটটোৱে { -brand-short-name }-ত দুটা এড-অন ইনষ্টল কৰিব বিচাৰিছে:
+       *[other] এই ছাইটটোৱে { -brand-short-name }-ত { $addonCount }টা এড-অন ইনষ্টল কৰিব বিচাৰিছে:
+    }
 
 ## Add-on install errors
 ## Variables:
