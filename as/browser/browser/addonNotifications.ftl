@@ -98,6 +98,12 @@ addon-confirm-install-message =
         [2] এই ছাইটটোৱে { -brand-short-name }-ত দুটা এড-অন ইনষ্টল কৰিব বিচাৰিছে:
        *[other] এই ছাইটটোৱে { -brand-short-name }-ত { $addonCount }টা এড-অন ইনষ্টল কৰিব বিচাৰিছে:
     }
+addon-confirm-install-unsigned-message =
+    { $addonCount ->
+        [1] সাৱধান: এই ছাইটটোৱে { -brand-short-name }-ত এটা অনিশ্চিতকৃত এড-অন ইনষ্টল কৰিব বিচাৰিছে। ভালকৈ ভাবি-চিন্তি আগবাঢ়ক।
+        [2] সাৱধান: এই ছাইটটোৱে { -brand-short-name }-ত দুটা অনিশ্চিতকৃত এড-অন ইনষ্টল কৰিব বিচাৰিছে। ভালকৈ ভাবি-চিন্তি আগবাঢ়ক।
+       *[other] সাৱধান: এই ছাইটটোৱে { -brand-short-name }-ত { $addonCount }টা অনিশ্চিতকৃত এড-অন ইনষ্টল কৰিব বিচাৰিছে। ভালকৈ ভাবি-চিন্তি আগবাঢ়ক।
+    }
 
 ## Add-on install errors
 ## Variables:
