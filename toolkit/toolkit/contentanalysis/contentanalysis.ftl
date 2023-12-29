@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Выполняется контент-
 contentanalysis-slow-agent-dialog-body = Контент-анализ анализирует ресурс «{ $content }»
 contentanalysis-operationtype-clipboard = буфер обмена
 contentanalysis-operationtype-dropped-text = пропущенный текст
+contentanalysis-warndialogtitle = Это содержимое может быть небезопасным
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Ваша организация использует программное обеспечение для предотвращения потери данных (DLP), которое отметило следующее содержимое как небезопасное: { $content }. Всё равно использовать его?
+contentanalysis-warndialog-response-allow = Использовать содержимое
+contentanalysis-warndialog-response-deny = Отмена
 contentanalysis-notification-title = Анализ содержимого
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
