@@ -373,6 +373,9 @@ about-logins-export-file-picker-title = Exportovat hesla do souboru
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = hesla.csv
 about-logins-export-file-picker-export-button = Exportovat
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
