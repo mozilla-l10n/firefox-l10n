@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = ਸਮੱਗਰੀ ਵਿਸ਼ਲੇ�
 contentanalysis-slow-agent-dialog-body = ਸਮੱਗਰੀ ਵਿਸ਼ਲੇਸ਼ਣ “{ $content }” ਸਰੋਤ ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ
 contentanalysis-operationtype-clipboard = ਕਲਿੱਪਬੋਰਡ
 contentanalysis-operationtype-dropped-text = ਡਰੌਪ ਕੀਤੀ ਲਿਖਤ
+contentanalysis-warndialogtitle = ਇਹ ਸਮੱਗਰੀ ਅਸੁਰੱਖਿਅਤ ਹੋ ਸਕਦੀ ਹੈ
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = ਤੁਹਾਡਾ ਸੰਗਠਨ ਡਾਟਾ-ਗੁੰਮ ਹੋਣ ਤੋਂ ਰੋਕਣ ਵਾਲਾ ਸਾਫਟਵੇਅਰ ਵਰਤਦਾ ਹੈ, ਜਿਸ ਨੇ ਇਸ ਸਮੱਗਰੀ ਨੂੰ ਅਸੁਰੱਖਿਅਤ ਦਰਸਾਇਆ ਹੈ: { $content }। ਇਸ ਨੂੰ ਕਿਵੇਂ ਵੀ ਵਰਤਣਾ ਹੈ?
+contentanalysis-warndialog-response-allow = ਸਮੱਗਰੀ ਵਰਤੋਂ
+contentanalysis-warndialog-response-deny = ਰੱਦ ਕਰੋ
 contentanalysis-notification-title = ਸਮੱਗਰੀ ਵਿਸ਼ਲੇਸ਼ਣ
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
