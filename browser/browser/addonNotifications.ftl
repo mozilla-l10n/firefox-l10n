@@ -122,4 +122,7 @@ addon-install-error-file-access = { $addonName } ইনষ্টল কৰিব
 addon-install-error-not-signed = { -brand-short-name }-এ এই ছাইটটোক এটা অনিশ্চিতকৃত এড-অন ইনষ্টল কৰাত বাধা দিছে।
 addon-install-error-invalid-domain = এই ঠাইৰ পৰা { $addonName } এড-অনটো ইনষ্টল কৰিব নোৱাৰি।
 addon-local-install-error-network-failure = এটা ফাইলচিস্টেম ত্ৰুটিৰ বাবে এই এড-অন ইনস্টল কৰিব পৰা নগল।
+addon-local-install-error-incorrect-hash = এই এড-অনটো ইনষ্টল কৰিব পৰা নগ’ল কাৰণ ইয়াৰ { -brand-short-name }-এ আশা কৰা এড-অনৰ সৈতে মিল নাই।
 addon-local-install-error-corrupt-file = এই এড-অন ইনস্টল কৰিব পৰা নগল কাৰণ ই সম্ভবত ক্ষতিগ্ৰস্থ।
+addon-local-install-error-file-access = { $addonName } ইনষ্টল কৰিব পৰা নগ’ল কাৰণ { -brand-short-name }-এ প্ৰয়োজনীয় ফাইল সাল-সলনি কৰিব নোৱাৰে।
+addon-local-install-error-not-signed = এই এড-অনটো ইনষ্টল কৰিব পৰা নগ’ল কাৰণ ইয়াক পৰীক্ষা কৰা হোৱা নাই।
