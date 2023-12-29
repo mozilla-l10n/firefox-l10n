@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Innehållsanalys pågår
 contentanalysis-slow-agent-dialog-body = Innehållsanalys analyserar resursen "{ $content }"
 contentanalysis-operationtype-clipboard = urklipp
 contentanalysis-operationtype-dropped-text = släppt text
+contentanalysis-warndialogtitle = Det här innehållet kan vara osäkert
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Din organisation använder programvara för att förhindra dataförlust som har flaggat detta innehåll som osäkert: { $content }. Använd det ändå?
+contentanalysis-warndialog-response-allow = Använd innehåll
+contentanalysis-warndialog-response-deny = Avbryt
 contentanalysis-notification-title = Innehållsanalys
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
