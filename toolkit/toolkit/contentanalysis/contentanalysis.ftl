@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Wrthi'n dadansoddi cynnwys
 contentanalysis-slow-agent-dialog-body = Mae Dadansoddi Cynnwys yn dadansoddi adnodd “{ $content }”
 contentanalysis-operationtype-clipboard = clipfwrdd
 contentanalysis-operationtype-dropped-text = testun wedi'i ostwng
+contentanalysis-warndialogtitle = Gall y cynnwys hwn fod yn anniogel
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Mae eich sefydliad yn defnyddio meddalwedd atal colli data sydd wedi nodi bod y cynnwys hwn yn anniogel: { $content }. Ei ddefnyddio beth bynnag?
+contentanalysis-warndialog-response-allow = Defnyddio'r cynnwys
+contentanalysis-warndialog-response-deny = Diddymu
 contentanalysis-notification-title = Dadansoddi Cynnwys
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"

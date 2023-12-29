@@ -21,6 +21,29 @@ autofill-options-link-osx = Dewisiadau Awtolanw Ffurflenni
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Cydweddu'r holl gardiau sydd wedi'u cadw ar draws fy nyfeisiau
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Cadw’r cerdyn hwn yn ddiogel?
+credit-card-save-doorhanger-description = Mae { -brand-short-name } yn amgryptio rhif eich cerdyn. Ni fydd eich cod diogelwch yn cael ei gadw.
+credit-card-capture-save-button =
+    .label = Cadw
+    .accessKey = C
+credit-card-capture-cancel-button =
+    .label = Nid nawr
+    .accessKey = N
+credit-card-capture-never-save-button =
+    .label = Peidio byth a chadw cardiau
+    .accessKey = P
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Diweddaru'r cerdyn?
+credit-card-update-doorhanger-description = Cerdyn i'w ddiweddaru:
+credit-card-capture-save-new-button =
+    .label = Cadw fel cerdyn newydd
+    .accessKey = C
+credit-card-capture-update-button =
+    .label = Diweddaru'r cerdyn cyfredol
+    .accessKey = D
