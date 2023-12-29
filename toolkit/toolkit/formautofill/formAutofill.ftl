@@ -5,6 +5,10 @@
 
 ## OS Prompt Dialog
 
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } se snaží použít uložené informace o způsobu platby.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = zobrazit uložené informace o způsobu platby
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Možnosti automatického vyplňování formulářů
 autofill-options-link-osx = Předvolby automatického vyplňování formulářů

@@ -373,6 +373,12 @@ about-logins-export-file-picker-title = Exportovat hesla do souboru
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Export hesel z { -brand-short-name(case: "gen") }
+       *[no-cases] Export hesel z aplikace { -brand-short-name }
+    }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = hesla.csv
