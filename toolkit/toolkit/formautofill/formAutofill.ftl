@@ -21,6 +21,19 @@ autofill-options-link-osx = Προτιμήσεις αυτόματης συμπλ
 
 ## The credit card capture doorhanger
 
+credit-card-capture-save-button =
+    .label = Αποθήκευση
+    .accessKey = Α
+credit-card-capture-cancel-button =
+    .label = Όχι τώρα
+    .accessKey = ρ
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Ενημέρωση κάρτας;
+credit-card-capture-save-new-button =
+    .label = Αποθήκευση ως νέα κάρτα
+    .accessKey = κ
+credit-card-capture-update-button =
+    .label = Ενημέρωση υπάρχουσας κάρτας
+    .accessKey = Ε
