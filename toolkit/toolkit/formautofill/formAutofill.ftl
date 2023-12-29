@@ -21,6 +21,9 @@ autofill-options-link-osx = Προτιμήσεις αυτόματης συμπλ
 
 ## The credit card capture doorhanger
 
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Ασφαλής αποθήκευση κάρτας;
+credit-card-save-doorhanger-description = Το { -brand-short-name } κρυπτογραφεί τον αριθμό της κάρτας σας. Ο κωδικός ασφαλείας σας δεν θα αποθηκευτεί.
 credit-card-capture-save-button =
     .label = Αποθήκευση
     .accessKey = Α
