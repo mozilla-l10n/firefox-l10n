@@ -12,6 +12,8 @@ contentanalysis-slow-agent-dialog-title = Probíhá analýza obsahu
 contentanalysis-slow-agent-dialog-body = Analýza obsahuje analyzuje zdroj  „{ $content }“
 contentanalysis-operationtype-clipboard = schránka
 contentanalysis-operationtype-dropped-text = přetažený text
+contentanalysis-warndialogtitle = Tento obsah může být nebezpečný
+contentanalysis-warndialog-response-deny = Zrušit
 contentanalysis-notification-title = Analýza obsahu
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
