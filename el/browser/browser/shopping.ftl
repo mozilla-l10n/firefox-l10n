@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Χρησιμοποιούμε τεχνολογία AI από το { -fakespot-brand-full-name } για να ελέγξουμε την αξιοπιστία των κριτικών προϊόντων. Αυτό θα σας βοηθήσει να αξιολογήσετε μόνο την ποιότητα των κριτικών, όχι την ποιότητα των προϊόντων.
 shopping-analysis-explainer-grades-intro = Αναθέτουμε στις κριτικές κάθε προϊόντος έναν <strong>βαθμό</strong>, από A έως F.
 shopping-analysis-explainer-adjusted-rating-description = Η <strong>αναπροσαρμοσμένη βαθμολογία</strong> βασίζεται μόνο στις κριτικές που πιστεύουμε ότι είναι αξιόπιστες.
-shopping-analysis-explainer-learn-more = Μάθετε περισσότερα σχετικά με το <a data-l10n-name="review-quality-url">πώς το { -fakespot-brand-full-name } προσδιορίζει την ποιότητα των κριτικών</a>.
 shopping-analysis-explainer-learn-more2 = Μάθετε περισσότερα σχετικά με το <a data-l10n-name="review-quality-url">πώς το { -fakespot-brand-name } προσδιορίζει την ποιότητα των κριτικών</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Άνοιγμα ελέγχου κριτικών
 shopping-sidebar-close-button2 =
     .tooltiptext = Κλείσιμο ελέγχου κριτικών
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -195,8 +186,8 @@ shopping-onboarding-dynamic-subtitle-1 = Δείτε πόσο αξιόπιστε�
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Δείτε πόσο αξιόπιστες είναι οι κριτικές των προϊόντων στο <b>{ $currentSite }</b> πριν αγοράσετε. Ο έλεγχος κριτικών, μια πειραματική δυνατότητα από τo { -brand-product-name }, ενσωματώνεται στο πρόγραμμα περιήγησης.
 shopping-onboarding-body = Με την υποστήριξη του { -fakespot-brand-full-name }, σας βοηθάμε να αποφύγετε τις μεροληπτικές και ψευδείς κριτικές. Το μοντέλο AI μας βελτιώνεται συνεχώς για να σας προστατεύει όσο κάνετε τις αγορές σας. <a data-l10n-name="learn_more">Μάθετε περισσότερα</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Επιλέγοντας «{ shopping-onboarding-opt-in-button }», αποδέχεστε την <a data-l10n-name="privacy_policy">Πολιτική απορρήτου</a> και τους <a data-l10n-name="terms_of_use">Όρους χρήσης</a> του { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Επιλέγοντας «{ shopping-onboarding-opt-in-button }», αποδέχεστε την <a data-l10n-name="privacy_policy">Πολιτική απορρήτου</a> και τους <a data-l10n-name="terms_of_use">Όρους χρήσης</a> του { -fakespot-brand-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Επιλέγοντας «{ shopping-onboarding-opt-in-button }», αποδέχεστε την <a data-l10n-name="privacy_policy">πολιτική απορρήτου</a> του { -brand-product-name } και τους <a data-l10n-name="terms_of_use">όρους χρήσης</a> του { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Έναρξη δοκιμής
 shopping-onboarding-not-now-button = Όχι τώρα
 shopping-onboarding-dialog-close-button =
