@@ -300,6 +300,10 @@ about-logins-confirm-export-dialog-title = Espuarte credenziâls e passwords
 about-logins-confirm-export-dialog-message = Si salvarà lis tôs passwords tant che test leibil (p.e. BadP@ssw0rd) si che duncje chei che a puedin vierzilu a rivaran a viodilis.
 about-logins-confirm-export-dialog-confirm-button = Espuarte…
 about-logins-confirm-export-dialog-title2 = Une note relative ae esportazion di passwords
+about-logins-confirm-export-dialog-message2 =
+    Il procès di esportazion al salve lis passwords suntun file cun test che si rive a lei.
+    Ti conseìn di eliminâ il file dopo che tu lu âs doprât, in mût di impedî a altris personis, che a doprin chest dispositîf, di viodi lis tôs passwords.
+about-logins-confirm-export-dialog-confirm-button2 = Continue cu la esportazion
 about-logins-alert-import-title = Importazion completade
 about-logins-alert-import-message = Viôt la sintesi detaiade de importazion
 confirm-discard-changes-dialog-title = Scartâ lis modifichis no salvadis?
@@ -341,6 +345,11 @@ about-logins-export-file-picker-title = Esportazion file des credenziâls
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = credenziâls.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Espuarte passwords di { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Espuarte
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

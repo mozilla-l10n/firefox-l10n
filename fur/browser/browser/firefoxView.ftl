@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Passe a cheste schede
 firefoxview-show-more = Mostre di plui
 firefoxview-show-less = Mostre di mancul
+firefoxview-show-all = Mostre dut
 firefoxview-search-text-box-clear-button =
     .title = Nete
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Cîr
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Cîr te cronologjie

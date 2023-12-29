@@ -78,6 +78,12 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name(capitalization: "uppercase") }
     .tooltiptext = { -fxaccount-brand-name(capitalization: "uppercase") }
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = Account
+    .tooltiptext = Account
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -291,6 +297,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Dopre credenziâl salvade
     .accesskey = o
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Dopre password salvade
     .accesskey = o
@@ -305,6 +312,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = S
 main-context-menu-manage-logins2 =
     .label = Gjestìs lis credenziâls
+    .accesskey = G
+main-context-menu-manage-passwords =
+    .label = Gjestìs passwords
     .accesskey = G
 main-context-menu-keyword =
     .label = Zonte une peraule clâf par cheste ricercje…
