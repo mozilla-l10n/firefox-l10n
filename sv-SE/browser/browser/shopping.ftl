@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Vi använder AI-teknik från { -fakespot-brand-full-name } för att kontrollera tillförlitligheten av produktrecensioner. Detta hjälper dig bara att bedöma recensionens kvalitet, inte produktkvaliteten.
 shopping-analysis-explainer-grades-intro = Vi tilldelar varje produkts recensioner ett <strong>bokstavsbetyg</strong> från A till F.
 shopping-analysis-explainer-adjusted-rating-description = Det <strong>justerade betyget</strong> baseras endast på recensioner som vi anser vara pålitliga.
-shopping-analysis-explainer-learn-more = Läs mer om <a data-l10n-name="review-quality-url">hur { -fakespot-brand-full-name } avgör recensionens kvalitet</a>.
 shopping-analysis-explainer-learn-more2 = Läs mer om <a data-l10n-name="review-quality-url">hur { -fakespot-brand-name } avgör recensionens kvalitet</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Öppna recensionsgranskaren
 shopping-sidebar-close-button2 =
     .tooltiptext = Stäng recensionsgranskaren
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -195,8 +186,8 @@ shopping-onboarding-dynamic-subtitle-1 = Se hur tillförlitliga produktrecension
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Se hur tillförlitliga produktrecensioner är på <b>{ $currentSite }</b> innan du köper. Recensionsgranskaren, en experimentell funktion från { -brand-product-name }, är inbyggd direkt i webbläsaren.
 shopping-onboarding-body = Genom att använda kraften i { -fakespot-brand-full-name } hjälper vi dig att undvika partiska och oäkta recensioner. Vår AI-modell förbättras alltid för att skydda dig när du handlar. <a data-l10n-name="learn_more">Läs mer</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Genom att välja "{ shopping-onboarding-opt-in-button }" godkänner du { -fakespot-brand-full-name }:s <a data-l10n-name="privacy_policy">integritetspolicy</a> och <a data-l10n-name="terms_of_use">användarvillkor.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Genom att välja "{ shopping-onboarding-opt-in-button }" godkänner du { -fakespot-brand-name }:s <a data-l10n-name="privacy_policy">integritetspolicy</a> och <a data-l10n-name="terms_of_use">användarvillkor.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Genom att välja "{ shopping-onboarding-opt-in-button }" godkänner du { -brand-product-name }:s <a data-l10n-name="privacy_policy">integritetspolicy</a> och { -fakespot-brand-name }:s <a data-l10n-name="terms_of_use">användarvillkor.</a>
 shopping-onboarding-opt-in-button = Ja, prova den
 shopping-onboarding-not-now-button = Inte nu
 shopping-onboarding-dialog-close-button =
