@@ -80,6 +80,10 @@ item-form-search-history =
 item-site-prefs =
     .label = ਸਾਈਟ ਸੈਟਿੰਗਾਂ
     .accesskey = i
+item-site-prefs-description = ਆਪਣੀਆਂ ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਸਾਈਟ ਪਸੰਦਾਂ ਨੂੰ ਅਸਲ ਸੈਟਿੰਗਾਂ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
+item-download-history =
+    .label = ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਦੀ ਸੂਚੀ
+    .accesskey = D
 data-section-label = ਮਿਤੀ
 item-site-settings =
     .label = ਸਾਈਟ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
@@ -92,6 +96,8 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = ਹੁਣੇ ਸਾਫ਼ ਕਰੋ
+sanitize-button-ok2 =
+    .label = ਸਾਫ਼ ਕਰੋ
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
