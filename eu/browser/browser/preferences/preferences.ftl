@@ -466,6 +466,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Erakutsi beti korritze-barrak
     .accesskey = b
+browsing-always-underline-links =
+    .label = Beti azpimarratu loturak
+    .accesskey = a
 browsing-use-onscreen-keyboard =
     .label = Beharrezkoa denean, erakutsi ukipen-teklatua
     .accesskey = k
@@ -609,6 +612,9 @@ search-suggestions-desc = Aukeratu nola agertzen diren bilaketa-motorren iradoki
 search-suggestions-option =
     .label = Hornitu bilaketa-iradokizunak
     .accesskey = b
+search-show-suggestions-option =
+    .label = Erakutsi bilaketa-iradokizunak
+    .accesskey = E
 search-show-suggestions-url-bar-option =
     .label = Erakutsi bilaketa-iradokizunak helbide-barrako emaitzetan
     .accesskey = h
@@ -707,6 +713,9 @@ sync-signedin-login-failure = Hasi saioa berriro konektatzeko { $email }
 sync-resend-verification =
     .label = Birbidali egiaztapena
     .accesskey = B
+sync-verify-account =
+    .label = Egiaztatu kontua
+    .accesskey = E
 sync-remove-account =
     .label = Kendu kontua
     .accesskey = K
@@ -739,8 +748,10 @@ sync-currently-syncing-bookmarks = Laster-markak
 sync-currently-syncing-history = Historia
 sync-currently-syncing-tabs = Irekitako fitxak
 sync-currently-syncing-logins-passwords = Saio-hasierak eta pasahitzak
+sync-currently-syncing-passwords = Pasahitzak
 sync-currently-syncing-addresses = Helbideak
 sync-currently-syncing-creditcards = Kreditu-txartelak
+sync-currently-syncing-payment-methods = Ordainketa metodoak
 sync-currently-syncing-addons = Gehigarriak
 sync-currently-syncing-settings = Ezarpenak
 sync-change-options =
@@ -771,6 +782,10 @@ sync-engine-logins-passwords =
     .label = Saio-hasierak eta pasahitzak
     .tooltiptext = Gorde dituzun saio-hasiera eta pasahitzak
     .accesskey = S
+sync-engine-passwords =
+    .label = Pasahitzak
+    .tooltiptext = Gorde dituzun pasahitzak
+    .accesskey = P
 sync-engine-addresses =
     .label = Helbideak
     .tooltiptext = Gorde dituzun helbide postalak (mahaigainerako soilik)
@@ -779,6 +794,10 @@ sync-engine-creditcards =
     .label = Kreditu-txartelak
     .tooltiptext = Izenak, zenbakiak eta iraungitze-datak (mahaigainerako soilik)
     .accesskey = K
+sync-engine-payment-methods2 =
+    .label = Ordainketa metodoak
+    .tooltiptext = Izenak, txartel zenbakiak eta iraungitze-datak
+    .accesskey = n
 sync-engine-addons =
     .label = Gehigarriak
     .tooltiptext = Mahaigaineko Firefoxerako hedapenak eta itxurak
@@ -825,18 +844,35 @@ pane-privacy-logins-and-passwords-header = Saio-hasierak eta pasahitzak
 forms-ask-to-save-logins =
     .label = Galdetu webguneetako saio-hasierak eta pasahitzak gordetzeko
     .accesskey = G
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Pasahitzak
+    .searchkeywords = saio-hasierak
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Galdetu pasahitzak gordetzea
+    .accesskey = G
 forms-exceptions =
     .label = Salbuespenak…
     .accesskey = n
 forms-generate-passwords =
     .label = Iradoki eta sortu pasahitz sendoak
     .accesskey = d
+forms-suggest-passwords =
+    .label = Gomendatu pasahitz sendoak
+    .accesskey = G
 forms-breach-alerts =
     .label = Erakutsi datu-urratzeak izan dituzten webguneetako pasahitzei buruzko abisuak
     .accesskey = E
 forms-breach-alerts-learn-more-link = Argibide gehiago
 preferences-relay-integration-checkbox =
     .label = Gomendatu { -relay-brand-name } helbide-maskarak zure helbide elektronikoa babesteko
+preferences-relay-integration-checkbox2 =
+    .label = Gomendatu { -relay-brand-name } helbide-maskarak zure helbide elektronikoa babesteko
+    .accesskey = r
 relay-integration-learn-more-link = Argibide gehiago
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -845,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Gordetako saio-hasierak…
     .accesskey = s
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Bete automatikoki erabiltzaile-izen eta pasahitzak
+    .accesskey = B
+forms-saved-passwords =
+    .label = Gordetako pasahitzak
+    .accesskey = d
 forms-primary-pw-use =
     .label = Erabili pasahitz nagusia
     .accesskey = n
@@ -879,6 +922,16 @@ primary-password-os-auth-dialog-message-win = Pasahitz nagusi bat sortzeko, sart
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Sortu pasahitz nagusia
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Betetze automatikoa
+autofill-addresses-checkbox = Gorde eta osatu helbideak
+    .accesskey = o
+autofill-saved-addresses-button = Gordetako helbideak
+    .accesskey = G
+autofill-payment-methods-checkbox-message = Gorde eta bete ordainketa metodoak
+    .accesskey = k
 
 ## Privacy Section - History
 

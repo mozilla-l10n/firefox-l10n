@@ -23,6 +23,7 @@ addon-post-install-message = { $addonName } gehitu egin da.
 # Variables:
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = Exekutatu { $addonName } mugatutako guneetan?
+webext-quarantine-confirmation-line-1 = Zure datuak babesteko, hedapen hau ez dago baimenduta gune honetan.
 webext-quarantine-confirmation-allow =
     .label = Baimendu
     .accesskey = B

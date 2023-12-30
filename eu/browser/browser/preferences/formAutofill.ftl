@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Gordetako helbideak
 autofill-manage-addresses-list-header = Helbideak
 autofill-manage-credit-cards-title = Gordetako kreditu-txartelak
 autofill-manage-credit-cards-list-header = Kreditu-txartelak
+autofill-manage-payment-methods-title = Gordetako ordainketa metodoak
+autofill-manage-cards-list-header = Txartelak
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Kendu
@@ -39,6 +41,12 @@ address-capture-learn-more-button =
     .label = Argibide gehiago
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Gehitu helbide berria
+address-capture-open-menu-button =
+    .aria-label = Ireki menua
+address-capture-edit-address-button =
+    .aria-label = Editatu helbidea
+# The dialog title for creating addresses in browser preferences.
+autofill-add-address-title = Gehitu helbidea
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editatu helbidea
 autofill-address-name = Izena
@@ -122,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] Kreditu-txartelen informazioa erakusten saiatzen ari da { -brand-short-name }. Berretsi azpian Windows kontu honetarako sarbidea.
        *[other] Kreditu-txartelen informazioa erakusten saiatzen ari da { -brand-short-name }.
     }
+autofill-message-tooltip = Ikusi betetze automatikoaren mezua
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Gehitu txartela
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Editatu txartela
 autofill-card-number = Txartelaren zenbakia
 autofill-card-invalid-number = Idatzi baliozko txartel-zenbakia
 autofill-card-name-on-card = Txarteleko izena

@@ -78,6 +78,12 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name }
     .tooltiptext = { -fxaccount-brand-name }
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = Kontua
+    .tooltiptext = Kontua
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -291,6 +297,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Erabili gordetako saio-hasiera
     .accesskey = s
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Erabili gordetako pasahitza
     .accesskey = h
@@ -305,6 +312,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = n
 main-context-menu-manage-logins2 =
     .label = Kudeatu saio-hasierak
+    .accesskey = K
+main-context-menu-manage-passwords =
+    .label = Kudeatu pasahitzak
     .accesskey = K
 main-context-menu-keyword =
     .label = Gehitu bilaketa honentzat gako-hitza…
