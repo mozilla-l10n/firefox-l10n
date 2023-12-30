@@ -81,10 +81,10 @@ inactive-css-text-wrap-balance-fragmented-fix = Tránh phân chia nội dung c�
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-default-message = <strong>{ $property }</strong> không được hỗ trợ trong các trình duyệt sau:
-css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> là thuộc tính thử nghiệm hiện không được hỗ trợ bởi các tiêu chuẩn W3C. Nó không được hỗ trợ trong các trình duyệt sau:
-css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> là thuộc tính thử nghiệm hiện không được hỗ trợ bởi các tiêu chuẩn W3C.
-css-compatibility-deprecated-message = <strong>{ $property }</strong> hiện không được hỗ trợ bởi các tiêu chuẩn W3C. Nó không được hỗ trợ trong các trình duyệt sau:
-css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> hiện không được hỗ trợ bởi các tiêu chuẩn W3C.
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> là thuộc tính thử nghiệm không còn được dùng nữa bởi các tiêu chuẩn W3C. Nó không được hỗ trợ trong các trình duyệt sau:
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> là thuộc tính thử nghiệm không còn được dùng nữa bởi các tiêu chuẩn W3C.
+css-compatibility-deprecated-message = <strong>{ $property }</strong> không còn được dùng nữa bởi các tiêu chuẩn W3C. Nó không được hỗ trợ trong các trình duyệt sau:
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> không còn được dùng nữa bởi các tiêu chuẩn W3C.
 css-compatibility-experimental-message = <strong>{ $property }</strong> là thuộc tính thử nghiệm. Nó không được hỗ trợ trong các trình duyệt sau:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> là thuộc tính thử nghiệm.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Tìm hiểu thêm</span> về <strong>{ $rootProperty }</strong>
