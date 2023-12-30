@@ -12,6 +12,9 @@ contentanalysis-slow-agent-dialog-title = Analyza wobsaha běži
 contentanalysis-slow-agent-dialog-body = Analyza wobsaha resursu „{ $content }“ analyzuje
 contentanalysis-operationtype-clipboard = mjezyskład
 contentanalysis-operationtype-dropped-text = pušćeny tekst
+contentanalysis-warndialogtitle = Tutón wobsah je snano njewěsty
+contentanalysis-warndialog-response-allow = Wobsah wužiwać
+contentanalysis-warndialog-response-deny = Přetorhnyć
 contentanalysis-notification-title = Analyza wobsaha
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"

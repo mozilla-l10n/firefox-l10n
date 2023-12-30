@@ -112,7 +112,6 @@ shopping-analysis-explainer-intro2 =
     To budźe jenož pomhać, kwalitu pohódnoćenjow posudźić, nic kwalitu produktow.
 shopping-analysis-explainer-grades-intro = Přirjadujemy pohódnoćenjam kóždeho produkta <strong>pismikowu znamku</strong> wot A do F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Přiměrjene hódnoćenje</strong> jenož na pohódnoćenjach bazuje, kotrež mamy za spušćomne.
-shopping-analysis-explainer-learn-more = Zhońće wjace wo tym, <a data-l10n-name="review-quality-url">kak { -fakespot-brand-full-name } kwalitu pohódnoćenja postaja</a>.
 shopping-analysis-explainer-learn-more2 = Zhońće wjace wo tym, <a data-l10n-name="review-quality-url">kak { -fakespot-brand-name } kwalitu pohódnoćenja postaja</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -128,14 +127,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Kontrolu pohódnoćenjow wočinić
 shopping-sidebar-close-button2 =
     .tooltiptext = Kontrolu pohódnoćenjow začinić
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -197,8 +188,8 @@ shopping-onboarding-dynamic-subtitle-1 = Hladajće, kak spušćomne produktowe p
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Hladajće, kak spušćomne pohódnoćenja produktow na <b>{ $currentSite }</b> su, prjedy hač produkty kupiće. Kontrola pohódnoćenjow, eksperimentalna funkcija z { -brand-product-name }, je direktnje do wobhladowaka zatwarjena.
 shopping-onboarding-body = Z pomocu potenciala { -fakespot-brand-full-name }, pomhamy wam, předzajate a njeawtentiske pohódnoćenja wobeńć. Naš model KI so stajnje polěpšuje, zo by was škitał, hdyž nakupujeće. <a data-l10n-name="learn_more">Dalše informacije</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Hdyž “{ shopping-onboarding-opt-in-button }“ wuběraće, zwoliće do<a data-l10n-name="privacy_policy">prawidłow priwatnosće</a> a <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Hdyž “{ shopping-onboarding-opt-in-button }“ wuběraće, zwoliće do<a data-l10n-name="privacy_policy">prawidłow priwatnosće</a> a <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow</a> { -fakespot-brand-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Hdyž “{ shopping-onboarding-opt-in-button }“ wuběraće, zwoliće do <a data-l10n-name="privacy_policy">prawidłow priwatnosće</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Haj, wupruwować
 shopping-onboarding-not-now-button = Nic nětko
 shopping-onboarding-dialog-close-button =

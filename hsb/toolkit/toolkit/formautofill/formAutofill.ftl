@@ -21,6 +21,26 @@ autofill-options-link-osx = Nastajenja za awtomatiske wupjelnjenje formularow
 
 ## The credit card capture doorhanger
 
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Tutu kartu wěsće składować?
+credit-card-save-doorhanger-description = { -brand-short-name } waše kartowe čisło zaklučuje. Waš wěstotny kod njebudźe so składować.
+credit-card-capture-save-button =
+    .label = Składować
+    .accessKey = S
+credit-card-capture-cancel-button =
+    .label = Nic nětko
+    .accessKey = N
+credit-card-capture-never-save-button =
+    .label = Karty ženje njeskładować
+    .accessKey = K
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Kartu aktualizować?
+credit-card-update-doorhanger-description = Karta, kotraž so ma aktualizować:
+credit-card-capture-save-new-button =
+    .label = Jako nowu kartu składować
+    .accessKey = J
+credit-card-capture-update-button =
+    .label = Eksistowacu kartu aktualizować
+    .accessKey = E
