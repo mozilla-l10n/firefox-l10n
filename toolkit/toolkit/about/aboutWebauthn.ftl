@@ -30,12 +30,38 @@ about-webauthn-text-not-available = ไม่พร้อมใช้งาน�
 
 about-webauthn-results-success = สำเร็จ!
 about-webauthn-results-general-error = ผิดพลาด!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] ข้อผิดพลาด: PIN ไม่ถูกต้อง โปรดลองอีกครั้ง
+       *[other] ข้อผิดพลาด: PIN ไม่ถูกต้อง คุณสามารถลองได้อีก { $retriesLeft } ครั้ง
+    }
+about-webauthn-results-pin-blocked-error = ข้อผิดพลาด: ไม่สามารถลองได้อีกและอุปกรณ์ของคุณได้ถูกล็อก เนื่องจากมีการป้อน PIN ไม่ถูกต้องหลายครั้งเกินไป จำเป็นต้องรีเซ็ตอุปกรณ์จึงจะใช้ได้
+about-webauthn-results-pin-too-short-error = ข้อผิดพลาด: PIN ที่ป้อนมาสั้นเกินไป
+about-webauthn-results-pin-too-long-error = ข้อผิดพลาด: PIN ที่ป้อนมายาวเกินไป
+about-webauthn-results-pin-auth-blocked-error = ข้อผิดพลาด: การลองล้มเหลวติดต่อกันหลายครั้งเกินไปและการยืนยันตัวตนด้วย PIN ได้ถูกปิดกั้นชั่วคราว คุณจำเป็นต้องปิดและเปิดอุปกรณ์ของคุณใหม่ (ถอดปลั๊กแล้วเสียบปลั๊กใหม่)
+about-webauthn-results-cancelled-by-user-error = ข้อผิดพลาด: การดำเนินการถูกยกเลิกโดยผู้ใช้
 
 ## Labels
 
+about-webauthn-new-pin-label = PIN ใหม่:
+about-webauthn-repeat-pin-label = ทวน PIN ใหม่:
+about-webauthn-current-pin-label = PIN ปัจจุบัน:
+about-webauthn-pin-required-label = โปรดป้อน PIN ของคุณ:
+about-webauthn-credential-list-subsection-title = ข้อมูลประจำตัว:
+about-webauthn-credential-list-empty = ไม่พบข้อมูลประจำตัวบนอุปกรณ์
+about-webauthn-confirm-deletion-label = คุณกำลังจะลบ:
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = ตั้ง PIN
+about-webauthn-current-change-pin-button = เปลี่ยน PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = แสดงรายการข้อมูลประจำตัว
+about-webauthn-cancel-button = ยกเลิก
+about-webauthn-send-pin-button = ตกลง
+about-webauthn-delete-button = ลบ
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
