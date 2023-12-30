@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Đang phân tích nội dung
 contentanalysis-slow-agent-dialog-body = Trình phân tích nội dung đang phân tích tài nguyên “{ $content }”
 contentanalysis-operationtype-clipboard = khay nhớ tạm
 contentanalysis-operationtype-dropped-text = văn bản đã kéo thả
+contentanalysis-warndialogtitle = Nội dung này có thể không an toàn
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Tổ chức của bạn sử dụng phần mềm ngăn ngừa mất dữ liệu đã gắn cờ nội dung này là không an toàn: { $content }. Tiếp tục sử dụng nó?
+contentanalysis-warndialog-response-allow = Sử dụng nội dung
+contentanalysis-warndialog-response-deny = Hủy bỏ
 contentanalysis-notification-title = Trình phân tích nội dung
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
