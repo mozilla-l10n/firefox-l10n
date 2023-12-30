@@ -21,6 +21,29 @@ autofill-options-link-osx = Otomatik form doldurma tercihleri
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Tüm kayıtlı kartları cihazlarım arasında eşitle
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Bu kart güvenli bir şekilde kaydedilsin mi?
+credit-card-save-doorhanger-description = { -brand-short-name } kart numaranızı şifreler. Güvenlik kodunuz kaydedilmez.
+credit-card-capture-save-button =
+    .label = Kaydet
+    .accessKey = K
+credit-card-capture-cancel-button =
+    .label = Şimdi değil
+    .accessKey = m
+credit-card-capture-never-save-button =
+    .label = Kartları asla kaydetme
+    .accessKey = a
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Kart güncellensin mi?
+credit-card-update-doorhanger-description = Güncellenecek kart:
+credit-card-capture-save-new-button =
+    .label = Yeni kart olarak kaydet
+    .accessKey = k
+credit-card-capture-update-button =
+    .label = Mevcut kartı güncelle
+    .accessKey = M

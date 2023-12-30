@@ -12,6 +12,9 @@ contentanalysis-slow-agent-dialog-title = İçerik analizi devam ediyor
 contentanalysis-slow-agent-dialog-body = İçerik analizi aracı “{ $content }” kaynağını analiz ediyor
 contentanalysis-operationtype-clipboard = pano
 contentanalysis-operationtype-dropped-text = sürüklenip bırakılan metin
+contentanalysis-warndialogtitle = Bu içerik güvensiz olabilir
+contentanalysis-warndialog-response-allow = İçeriği kullan
+contentanalysis-warndialog-response-deny = Vazgeç
 contentanalysis-notification-title = İçerik analizi
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
