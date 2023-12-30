@@ -78,6 +78,12 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name(case: "a") }
     .tooltiptext = { -fxaccount-brand-name(case: "a") }
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = חשבון
+    .tooltiptext = חשבון
+
 ## Save Page
 
 main-context-menu-page-save =
