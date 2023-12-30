@@ -48,7 +48,7 @@ translations-panel-settings-always-translate-language =
 translations-panel-settings-always-translate-unknown-language =
     .label = Luôn dịch ngôn ngữ này
 translations-panel-settings-always-offer-translation =
-    .label = Luôn đề nghị để dịch
+    .label = Luôn đề nghị dịch
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
