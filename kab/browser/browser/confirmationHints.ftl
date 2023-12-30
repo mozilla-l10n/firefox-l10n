@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Yettwazen uneqqis. Tanemmirt!
 confirmation-hint-login-removed = Yettwakkes unekcum!
+confirmation-hint-password-removed = Awal uffir yettwakkes
 confirmation-hint-page-bookmarked = Sekles ɣer tecraḍ n yisebtar
 confirmation-hint-password-saved = Awal uffir yettwakles!
 confirmation-hint-password-created = Awal uffir yettwasekles
