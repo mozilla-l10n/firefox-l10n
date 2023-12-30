@@ -12,6 +12,7 @@ contentanalysis-slow-agent-dialog-title = Ανάλυση περιεχομένο�
 contentanalysis-slow-agent-dialog-body = Η Ανάλυση περιεχομένου αναλύει τον πόρο «{ $content }»
 contentanalysis-operationtype-clipboard = πρόχειρο
 contentanalysis-operationtype-dropped-text = εναποθετημένο κείμενο
+contentanalysis-warndialog-response-allow = Χρήση περιεχομένου
 contentanalysis-warndialog-response-deny = Ακύρωση
 contentanalysis-notification-title = Ανάλυση περιεχομένου
 # Variables:
