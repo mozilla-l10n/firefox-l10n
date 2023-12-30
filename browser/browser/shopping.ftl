@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Chúng tôi sử dụng công nghệ AI của { -fakespot-brand-full-name } để kiểm tra độ tin cậy của các đánh giá sản phẩm. Điều này chỉ giúp bạn đánh giá được chất lượng đánh giá chứ không phải chất lượng sản phẩm.
 shopping-analysis-explainer-grades-intro = Chúng tôi đưa ra đánh giá cho từng sản phẩm một <strong>điểm bằng chữ cái</strong> từ A đến F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Đánh giá đã được điều chỉnh</strong> chỉ dựa trên những đánh giá mà chúng tôi tin là đáng tin cậy.
-shopping-analysis-explainer-learn-more = Tìm hiểu thêm về <a data-l10n-name="review-quality-url">cách { -fakespot-brand-full-name } quyết định chất lượng đánh giá</a>.
 shopping-analysis-explainer-learn-more2 = Tìm hiểu thêm về <a data-l10n-name="review-quality-url">cách { -fakespot-brand-name } quyết định chất lượng đánh giá</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Mở trình kiểm tra đánh giá
 shopping-sidebar-close-button2 =
     .tooltiptext = Đóng trình kiểm tra đánh giá
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -195,8 +186,8 @@ shopping-onboarding-dynamic-subtitle-1 = Xem đánh giá sản phẩm đáng tin
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Xem đánh giá sản phẩm đáng tin cậy trên <b>{ $currentSite }</b> trước khi bạn mua. Trình kiểm tra đánh giá, một tính năng thử nghiệm từ { -brand-product-name }, được tích hợp ngay trong trình duyệt.
 shopping-onboarding-body = Sử dụng { -fakespot-brand-full-name }, chúng tôi giúp bạn tránh những đánh giá thiên vị và không xác thực. Mô hình AI của chúng tôi luôn cải tiến để bảo vệ bạn khi bạn mua sắm. <a data-l10n-name="learn_more">Tìm hiểu thêm</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Bằng việc chọn “{ shopping-onboarding-opt-in-button }“ bạn đồng ý với <a data-l10n-name="privacy_policy">chính sách riêng tư</a> và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Bằng cách lựa chọn “{ shopping-onboarding-opt-in-button }“ bạn đã đồng ý với <a data-l10n-name="privacy_policy">chính sách riêng tư</a> và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Bằng việc chọn “{ shopping-onboarding-opt-in-button }“ bạn đồng ý với <a data-l10n-name="privacy_policy">chính sách riêng tư</a> của { -brand-product-name } và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Có, hãy thử nó
 shopping-onboarding-not-now-button = Không phải bây giờ
 shopping-onboarding-dialog-close-button =
