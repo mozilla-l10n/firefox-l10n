@@ -927,6 +927,16 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Compilazion automatiche
+autofill-addresses-checkbox = Salve e compile direzions
+    .accesskey = a
+autofill-saved-addresses-button = Recapits salvâts
+    .accesskey = S
+autofill-payment-methods-checkbox-message = Salve e compile i metodis di paiament
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Al inclût cjartis di credit e di debit
+    .accesskey = I
+autofill-saved-payment-methods-button = Metodis di paiament salvâts
+    .accesskey = v
 
 ## Privacy Section - History
 
