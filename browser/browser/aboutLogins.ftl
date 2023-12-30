@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Inportatu beste nabigat
 about-logins-menu-menuitem-import-from-a-file = Inportatu fitxategitik…
 about-logins-menu-menuitem-export-logins = Esportatu saio-hasierak…
 about-logins-menu-menuitem-remove-all-logins = Kendu saio-hasiera guztiak…
+about-logins-menu-menuitem-export-logins2 = Esportatu pasahitzak…
+about-logins-menu-menuitem-remove-all-logins2 = Ezabatu pasahitz guztiak…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Aukerak
@@ -105,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Gordetako saio-hasieren bila? Akt
 about-logins-login-intro-heading-logged-in = Ez da sinkronizatuta saio-hasierarik aurkitu.
 login-intro-description = Saio-hasierarik gorde baduzu beste gailu bateko { -brand-product-name }(e)n, jarraian dituzu hauek hemen eskuratzeko urratsak:
 login-intro-instructions-fxa = Sortu edo hasi saioa zure { -fxaccount-brand-name(kasua: "n") } saio-hasierak gordeta dituzun gailuan
+about-logins-login-intro-heading-message = Gorde zure pasahitzak toki seguru batean
 login-intro-instructions-fxa2 = Sortu edo hasi saioa zure kontuan, saio-hasierak gordeta dituzun gailuan.
 login-intro-instructions-fxa-settings = Zoaz Ezarpenak > Sinkronizazioa > Gaitu sinkronizazioa… menu-aukerara eta hautatu 'Saio-hasierak eta pasahitzak' kontrol-laukia.
 login-intro-instructions-fxa-passwords-help = Laguntza gehiagorako, bisitatu <a data-l10n-name="passwords-help-link">pasahitzen laguntza</a>.
@@ -118,7 +121,6 @@ login-item-edit-button = Editatu
 about-logins-login-item-remove-button = Kendu
 login-item-origin-label = Webgunearen helbidea
 login-item-tooltip-message = Ziurtatu hau bat datorrela saioa hasten duzun webgunearen helbide zehatzarekin.
-about-logins-origin-tooltip = Ziurtatu hau bat datorrela saioa hasten duzun webgunearen helbide zehatzarekin.
 login-item-origin =
     .placeholder = https://www.adibidea.eus
 login-item-username-label = Erabiltzaile-izena
@@ -159,6 +161,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Zure saio-hasiera editatzek
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editatu gordetako saio-hasiera
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = editatu gordetako pasahitza
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Zure pasahitza ikusteko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -174,6 +179,9 @@ about-logins-export-password-os-auth-dialog-message-win = Zure saio-hasierak esp
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = esportatu gordetako saio-hasiera eta pasahitzak
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = esportatu gordetako pasahitzak
 
 ## Primary Password notification
 
@@ -189,6 +197,10 @@ confirmation-dialog-dismiss-button =
     .title = Utzi
 about-logins-confirm-remove-dialog-title = Kendu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Kendu pasahitza?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Ezin duzu ekintza hau desegin.
 about-logins-confirm-remove-dialog-confirm-button = Kendu
 
 ## Variables
@@ -226,12 +238,26 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Honekin, { -brand-short-name }(e)n gordetako saio-hasiera { -fxaccount-brand-name } bidez sinkronizatutako gailu guztietatik kenduko da. Hemen agertzen diren urratzeen inguruko abisuak ere kenduko ditu honek. Ekintza hau ezingo duzu desegin.
        *[other] Honekin, { -brand-short-name }(e)n gordetako saio-hasiera guztiak { -fxaccount-brand-name(kasua: "0") } bidez sinkronizatutako gailu guztietatik kenduko da. Hemen agertzen diren urratzeen inguruko abisuak ere kenduko ditu honek. Ekintza hau ezingo duzu desegin.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Bai, kendu pasahitza
+        [one] Bai, kendu pasahitza
+       *[other] Bai, kendu pasahitzak
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Kendu pasahitz { $count }?
+       *[other] Kendu { $count } pasahitz?
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Esportatu saio-hasierak eta pasahitzak
 about-logins-confirm-export-dialog-message = Zure pasahitzak testu irakurgarri modura gordeko dira (adib. P@sahitz3skas4) beraz esportatutako fitxategia ireki dezakeen orok ikusi ahal izango ditu.
 about-logins-confirm-export-dialog-confirm-button = Esportatu…
+about-logins-confirm-export-dialog-confirm-button2 = Jarraitu esportazioarekin
 about-logins-alert-import-title = Inportazioa burutu da
 about-logins-alert-import-message = Ikusi inportazioaren laburpen xehatua
 confirm-discard-changes-dialog-title = Baztertu gorde gabeko aldaketak?
@@ -273,6 +299,11 @@ about-logins-export-file-picker-title = Esportatu saio-hasieren fitxategia…
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = saio-hasierak.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Esportatu pasahitzak { -brand-short-name }(e)tik
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = pasahitzak.csv
 about-logins-export-file-picker-export-button = Esportatu
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -286,6 +317,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Inportatu saio-hasieren fitxategia
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Inportatu pasahitzak { -brand-short-name }(e)ra
 about-logins-import-file-picker-import-button = Inportatu
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -347,6 +380,7 @@ about-logins-import-report-row-index = { $number }. errenkada
 about-logins-import-report-row-description-no-change = Bikoiztua: lehendik dagoen saio-hasiera batekin bat dator
 about-logins-import-report-row-description-modified = Lehendik dagoen saio-hasiera eguneratuta
 about-logins-import-report-row-description-added = Saio-hasiera berria gehituta
+about-logins-import-report-row-description-added2 = Pasahitz berria gehituta
 about-logins-import-report-row-description-error = Errorea: eremua falta da
 
 ##
