@@ -38,6 +38,8 @@ about-logging-preset-networking-websocket-label = WebSockets
 about-logging-preset-networking-websocket-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหา WebSocket
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหา HTTP/3 และ QUIC
+about-logging-preset-networking-http3-upload-speed-label = ความเร็วการอัปโหลด HTTP/3
+about-logging-preset-networking-http3-upload-speed-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหาความเร็วการอัปโหลด HTTP/3
 about-logging-preset-media-playback-label = การเล่นสื่อ
 about-logging-preset-media-playback-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหาการเล่นสื่อ (ไม่ใช่ปัญหาการประชุมทางวิดีโอ)
 about-logging-preset-webrtc-label = WebRTC
@@ -46,6 +48,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหา WebGPU
 about-logging-preset-gfx-label = กราฟิก
 about-logging-preset-gfx-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหากราฟิก
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหาของ Microsoft Windows โดยเฉพาะ
 about-logging-preset-custom-label = กำหนดเอง
 about-logging-preset-custom-description = โมดูลบันทึกที่เลือกด้วยตนเอง
 # Error handling
