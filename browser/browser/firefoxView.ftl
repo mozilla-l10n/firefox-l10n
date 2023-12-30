@@ -147,8 +147,12 @@ firefoxview-opentabs-focus-tab =
     .title = Aldatu fitxa honetara
 firefoxview-show-more = Erakutsi gehiago
 firefoxview-show-less = Erakutsi gutxiago
+firefoxview-show-all = Erakutsi denak
 firefoxview-search-text-box-clear-button =
     .title = Garbitu
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Bilatu
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Bilatu historia
@@ -161,6 +165,21 @@ firefoxview-search-text-box-syncedtabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Bilatu irekitako fitxak
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = "{ $query }" bilaketaren emaitzak
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] Gune { $count }
+       *[other] { $count } gune
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Emaitzarik ez "{ $query }" bilaketarako
 firefoxview-sort-history-by-date-label = Ordenatu dataren arabera
 firefoxview-sort-history-by-site-label = Ordenatu gunearen arabera
 # Variables:

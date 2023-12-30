@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Txostena bidalita. Eskerrik asko!
 confirmation-hint-login-removed = Saio-hasiera kenduta!
+confirmation-hint-password-removed = Pasahitza kenduta!
 confirmation-hint-page-bookmarked = Laster-marketan gordeta
 confirmation-hint-password-saved = Pasahitza gordeta!
 confirmation-hint-password-created = Pasahitza gordeta
