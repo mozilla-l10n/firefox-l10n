@@ -454,6 +454,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = แสดงแถบเลื่อนเสมอ
     .accesskey = o
+browsing-always-underline-links =
+    .label = ขีดเส้นใต้ลิงก์เสมอ
+    .accesskey = ข
 browsing-use-onscreen-keyboard =
     .label = แสดงแป้นพิมพ์แบบสัมผัสเมื่อจำเป็น
     .accesskey = ผ
@@ -691,6 +694,9 @@ sync-signedin-login-failure = โปรดลงชื่อเข้าเพ�
 sync-resend-verification =
     .label = ส่งการยืนยันใหม่
     .accesskey = ส
+sync-verify-account =
+    .label = ยืนยันบัญชี
+    .accesskey = ย
 sync-remove-account =
     .label = เอาบัญชีออก
     .accesskey = อ
@@ -809,6 +815,9 @@ pane-privacy-logins-and-passwords-header = การเข้าสู่ระ�
 forms-ask-to-save-logins =
     .label = ถามเพื่อบันทึกการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์
     .accesskey = ถ
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = อ
@@ -863,6 +872,9 @@ primary-password-os-auth-dialog-message-win = หากต้องการส�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = สร้างรหัสผ่านหลัก
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1242,6 +1254,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS over HTTPS
 preferences-doh-description = Domain Name System (DNS) over HTTPS จะส่งคำขอชื่อโดเมนของคุณผ่านการเชื่อมต่อที่มีการเข้ารหัส เพื่อเสริมความปลอดภัยให้กับ DNS และทำให้ผู้อื่นดูว่าคุณกำลังจะเข้าถึงเว็บไซต์ใดได้ยากขึ้น
+preferences-doh-description2 = Domain Name System (DNS) over HTTPS จะส่งคำขอชื่อโดเมนของคุณผ่านการเชื่อมต่อที่มีการเข้ารหัส เพื่อเสริมความปลอดภัยให้กับ DNS และทำให้ผู้อื่นดูว่าคุณกำลังจะเข้าถึงเว็บไซต์ใดได้ยากขึ้น
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = สถานะ: { $status }
@@ -1258,6 +1271,7 @@ preferences-doh-status-disabled = ปิด
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = ไม่ทำงาน ({ $reason })
 preferences-doh-group-message = เปิดใช้งาน secure DNS โดยใช้:
+preferences-doh-group-message2 = เปิดใช้งาน DNS over HTTPS โดยใช้:
 preferences-doh-expand-section =
     .tooltiptext = ข้อมูลเพิ่มเติม
 preferences-doh-setting-default =
