@@ -187,6 +187,11 @@ media-codec-support-unsupported = No supuartade
 media-codec-support-error = Informazions di supuart sui codecs no disponibilis. Torne prove dopo vê riprodot un file multimediâl.
 media-codec-support-lack-of-extension = Instale estension
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 intl-title = Internazionalizazion e localizazion
@@ -381,7 +386,7 @@ touch-warning = input tatil asincron disativât a cause di une preference no sup
 
 ## Strings representing the status of the Enterprise Policies engine.
 
-policies-inactive = Infatîf
+policies-inactive = Inatîf
 policies-active = Atîf
 policies-error = Erôr
 
