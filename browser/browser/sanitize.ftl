@@ -5,20 +5,19 @@
 sanitize-prefs2 =
     .title = Nastajenja za wuprózdnjenje historije
     .style = min-width: 34em
-
 sanitize-prefs-style =
     .style = width: 17em
-
+sanitize-dialog-title2 =
+    .title = Přehladowanske daty a placki zhašeć
+    .style = min-width: 34em
 sanitize-dialog-title =
     .title = Aktualnu historiju wuprózdnić
     .style = min-width: 34em
-
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
     .title = Cyłu historiju wuprózdnić
     .style = min-width: 34em
-
 clear-data-settings-label = Při začinjenju měł { -brand-short-name } wšitko awtomatisce zhašeć
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
@@ -32,22 +31,19 @@ clear-data-settings-label = Při začinjenju měł { -brand-short-name } wšitko
 clear-time-duration-prefix =
     .value = Časowa doba za wuprózdnjenje:{ " " }
     .accesskey = d
-
+clear-time-duration-prefix2 =
+    .value = Hdy:
+    .accesskey = H
 clear-time-duration-value-last-hour =
     .label = Zańdźena hodźina
-
 clear-time-duration-value-last-2-hours =
     .label = Zańdźenej dwě hodźinje
-
 clear-time-duration-value-last-4-hours =
     .label = Zańdźene štyri hodźiny
-
 clear-time-duration-value-today =
     .label = Dźensa
-
 clear-time-duration-value-everything =
     .label = Wšo
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -55,55 +51,55 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historija
-
 item-history-and-downloads =
     .label = Přehladowanska a sćehnjenska historija
     .accesskey = P
-
+item-browsing-and-search =
+    .label = Wopytane sydła, składowane formularowe informacije a pytanja
+    .accesskey = W
 item-cookies =
     .label = Placki
     .accesskey = c
-
+item-cookies-site-data =
+    .label = Placki a sydłowe daty
+    .accesskey = l
 item-active-logins =
     .label = Aktiwne přizjewjenja
     .accesskey = A
-
 item-cache =
     .label = Pufrowak
     .accesskey = u
-
 item-form-search-history =
     .label = Formularna a pytanska historija
     .accesskey = F
-
+item-site-prefs =
+    .label = Sydłowe nastajenja
+    .accesskey = d
+item-download-history =
+    .label = Lisćina sćehnjenych datajow
+    .accesskey = L
 data-section-label = Daty
-
 item-site-settings =
     .label = Sydłowe nastajenja
     .accesskey = S
-
 item-offline-apps =
     .label = Daty websydła offline
     .accesskey = D
-
 sanitize-everything-undo-warning = Tuta akcija njeda so cofnyć.
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Nětko wuprózdnić
-
+sanitize-button-ok2 =
+    .label = Zhašeć
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Wuprózdnić
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Wša historija so wuprózdni.
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
