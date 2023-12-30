@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Lis credenziâls par chescj sîts web no vignaran salvadis
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Ecezions - Passwords salvadis
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } nol salvarà lis passwords pai sîts listâts achì.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

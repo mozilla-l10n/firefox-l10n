@@ -97,7 +97,7 @@ translations-panel-error-unsupported-hint-unknown = Nus displâs, no supuartìn 
 ## translate them as `Source language:` and `Target language:`
 
 translations-panel-from-label = Tradûs di
-translations-panel-to-label = Tradûs in
+translations-panel-to-label = Tradûs par
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another

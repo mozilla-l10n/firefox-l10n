@@ -794,9 +794,9 @@ sync-engine-creditcards =
     .label = Cjartis di credit
     .tooltiptext = Nons, numars e datis di scjadince (dome par scritori)
     .accesskey = C
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Metodis di paiament
-    .tooltiptext = Nons, numars di cjarte e datis di scjadince (nome su scritori)
+    .tooltiptext = Nons, numars des cjartis e datis di scjadince
     .accesskey = n
 sync-engine-addons =
     .label = Components adizionâi
@@ -844,18 +844,35 @@ pane-privacy-logins-and-passwords-header = Credenziâls e passwords
 forms-ask-to-save-logins =
     .label = Domande se salvâ credenziâls e passwords pai sîts web
     .accesskey = r
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Passwords
+    .searchkeywords = credenziâls
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Domande se salvâ lis passwords
+    .accesskey = D
 forms-exceptions =
     .label = Ecezions…
     .accesskey = z
 forms-generate-passwords =
     .label = Sugjerìs e gjenere passwords complessis
     .accesskey = u
+forms-suggest-passwords =
+    .label = Sugjerìs passwords complessis
+    .accesskey = S
 forms-breach-alerts =
     .label = Mostre avîs pes passwords di sîts cjapadis dentri di violazions di dâts
     .accesskey = t
 forms-breach-alerts-learn-more-link = Plui informazions
 preferences-relay-integration-checkbox =
     .label = Sugjerìs mascaris di pueste eletroniche { -relay-brand-name } par protezi la tô direzion e-mail
+preferences-relay-integration-checkbox2 =
+    .label = Sugjerìs mascare e-mail di { -relay-brand-name } par protezi la tô direzion e-mail
+    .accesskey = r
 relay-integration-learn-more-link = Plui informazions
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -864,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Credenziâls salvadis…
     .accesskey = l
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Compile in automatic nons utent e passwords
+    .accesskey = C
+forms-saved-passwords =
+    .label = Passwords salvadis
+    .accesskey = d
 forms-primary-pw-use =
     .label = Dopre une password primarie
     .accesskey = U
@@ -887,6 +911,7 @@ forms-windows-sso =
     .label = Permet di doprâ l'acès unic di Windows pai accounts Microsoft, di vore e di scuele.
 forms-windows-sso-learn-more-link = Plui informazions
 forms-windows-sso-desc = Gjestìs i accounts tes tôs impostazions dal dispositîf
+windows-passkey-settings-label = Gjestìs passkeys tes impostazions di sisteme
 
 ## OS Authentication dialog
 
@@ -898,6 +923,10 @@ primary-password-os-auth-dialog-message-win = Par creâ une password primarie, i
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = creâ une password primarie
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Compilazion automatiche
 
 ## Privacy Section - History
 
