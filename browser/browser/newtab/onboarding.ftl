@@ -343,3 +343,4 @@ onboarding-mobile-download-security-and-privacy-title = คงการเข้
 onboarding-mobile-download-security-and-privacy-subtitle = เมื่อคุณซิงค์แล้ว { -brand-short-name } จะเข้ารหัสรหัสผ่าน ที่คั่นหน้า และอื่นๆ ของคุณ นอกจากนี้คุณยังสามารถดึงแท็บจากอุปกรณ์อื่นๆ ของคุณเข้ามาได้อีกด้วย
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } พร้อมดูแลคุณ
+onboarding-gratitude-security-and-privacy-subtitle = ขอบคุณที่ใช้ { -brand-short-name } ซึ่งสนับสนุนโดย Mozilla Foundation ด้วยการสนับสนุนของคุณ เรากำลังทำงานเพื่อให้อินเทอร์เน็ตปลอดภัยและเข้าถึงได้มากยิ่งขึ้นสำหรับทุกคน
