@@ -195,7 +195,7 @@ firefoxview-opentabs-tab-row =
 ##   $date (string) - Date to be formatted based on locale
 
 firefoxview-history-date-today = Hiziv - { DATETIME($date, dateStyle: "full") }
-firefoxview-history-date-yesterday = Dec'h - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Dec’h - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 # When history is sorted by site, this heading is used in place of a domain, in
