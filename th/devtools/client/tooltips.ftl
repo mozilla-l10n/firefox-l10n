@@ -40,6 +40,10 @@ inactive-css-border-image = <strong>{ $property }</strong> ไม่มีผล
 inactive-css-ruby-element = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้ เนื่องจากเป็นอิลิเมนต์ ruby ขนาดของอิลิเมนต์นี้ถูกกำหนดโดยขนาดตัวอักษรของข้อความ ruby
 inactive-css-highlight-pseudo-elements-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง highlight
 inactive-css-cue-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง ::cue
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากมีจำนวนบรรทัดมากกว่า { $lineCount } บรรทัด
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากมีการแยกส่วน กล่าวคือเนื้อหาถูกแบ่งออกเป็นหลายคอลัมน์หรือหลายหน้า
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -67,6 +71,7 @@ inactive-scroll-padding-when-not-scroll-container-fix = ลองเพิ่ม
 inactive-css-border-image-fix = บนอิลิเมนต์ตารางแม่ ให้เอาคุณสมบัติออก หรือเปลี่ยนค่าของ <strong>border-collapse</strong> เป็นค่าอื่น ๆ ที่ไม่ใช่ <strong>collapse</strong> { learn-more }
 inactive-css-ruby-element-fix = ลองเปลี่ยน <strong>font-size</strong> ของข้อความ ruby { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = โปรดลองลดจำนวนบรรทัด { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = หลีกเลี่ยงการแยกเนื้อหาของอิลิเมนต์ เช่น โดยการลบคอลัมน์ออก หรือใช้ <strong>page-break-inside:avoid</strong> { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -88,3 +93,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">เรีย�
 ## When this icon is hovered one or more of those messages are displayed to explain what
 ## the issue are.
 
+# :has() should not be translated
+css-selector-warning-unconstrained-has = เครื่องมือเลือกนี้ใช้ <strong>:has()</strong> แบบไม่มีข้อจำกัด ซึ่งอาจทำงานช้า

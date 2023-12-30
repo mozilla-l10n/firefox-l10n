@@ -185,6 +185,12 @@ media-codec-support-codec-name = ชื่อตัวแปลงสัญญ�
 media-codec-support-supported = รองรับ
 media-codec-support-unsupported = ไม่รองรับ
 media-codec-support-error = ข้อมูลการรองรับโคเดกไม่พร้อมใช้ โปรดลองอีกครั้งหลังจากเล่นไฟล์สื่อแล้ว
+media-codec-support-lack-of-extension = ติดตั้งส่วนขยาย
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
