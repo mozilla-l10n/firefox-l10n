@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Jarraipenaren babes hobetua desgaituta dago g
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Jarraipenaren babes hobetua
-    .description = Gaituta gune honetarako
-    .aria-label = Desgaitu babesak { $host } ostalarirako
-protections-panel-etp-off-toggle =
-    .label = Jarraipenaren babes hobetua
-    .description = Desgaituta gune honetarako
-    .aria-label = Gaitu babesak { $host } ostalarirako
 protections-panel-etp-toggle-on =
     .label = Jarraipenaren babes hobetua
     .description = Gaituta gune honetarako
@@ -158,3 +150,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Desaktibatu
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Aktibatu
+protections-panel-report-broken-site =
+    .label = Eman hondatutako gunearen berri
+    .title = Eman hondatutako gunearen berri

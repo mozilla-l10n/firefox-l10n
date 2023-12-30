@@ -932,6 +932,10 @@ autofill-saved-addresses-button = Gordetako helbideak
     .accesskey = G
 autofill-payment-methods-checkbox-message = Gorde eta bete ordainketa metodoak
     .accesskey = k
+autofill-payment-methods-checkbox-submessage = Kreditu eta zordunketa txartelak barne
+    .accesskey = b
+autofill-saved-payment-methods-button = Gordetako ordainketa metodoak
+    .accesskey = d
 
 ## Privacy Section - History
 
