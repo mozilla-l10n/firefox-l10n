@@ -21,6 +21,29 @@ autofill-options-link-osx = Form Autofill Preferences
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Synchronise all saved cards across my devices
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Securely save this card?
+credit-card-save-doorhanger-description = { -brand-short-name } encrypts your card number. Your security code won’t be saved.
+credit-card-capture-save-button =
+    .label = Save
+    .accessKey = S
+credit-card-capture-cancel-button =
+    .label = Not now
+    .accessKey = w
+credit-card-capture-never-save-button =
+    .label = Never save cards
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Update card?
+credit-card-update-doorhanger-description = Card to update:
+credit-card-capture-save-new-button =
+    .label = Save as new card
+    .accessKey = c
+credit-card-capture-update-button =
+    .label = Update existing card
+    .accessKey = U
