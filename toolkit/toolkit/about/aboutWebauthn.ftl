@@ -28,6 +28,8 @@ about-webauthn-text-not-available = ไม่พร้อมใช้งาน�
 
 ## Results label
 
+about-webauthn-results-success = สำเร็จ!
+about-webauthn-results-general-error = ผิดพลาด!
 
 ## Labels
 
