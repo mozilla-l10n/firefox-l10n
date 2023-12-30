@@ -67,6 +67,7 @@ abuse-report-messagebar-error-recent-submit2 =
 
 abuse-report-messagebar-action-remove-extension = Ya, dilemel
 abuse-report-messagebar-action-keep-extension = Ket, mirout
+abuse-report-messagebar-action-remove-sitepermission = Ya, dilemel
 abuse-report-messagebar-action-remove-theme = Ya, dilemel
 abuse-report-messagebar-action-keep-theme = Ket, mirout
 abuse-report-messagebar-action-retry = Klask en-dro
