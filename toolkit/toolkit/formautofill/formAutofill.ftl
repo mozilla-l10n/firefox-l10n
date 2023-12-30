@@ -21,6 +21,29 @@ autofill-options-link-osx = העדפות מילוי טפסים אוטומטי
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = סנכרון כל הכרטיסים השמורים בין המכשירים שלי
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = לשמור את הכרטיס הזה באופן מאובטח?
+credit-card-save-doorhanger-description = ‏{ -brand-short-name } מצפין את מספר הכרטיס שלך. קוד האבטחה שלך לא יישמר.
+credit-card-capture-save-button =
+    .label = שמירה
+    .accessKey = ש
+credit-card-capture-cancel-button =
+    .label = לא כעת
+    .accessKey = ל
+credit-card-capture-never-save-button =
+    .label = לעולם לא לשמור כרטיסים
+    .accessKey = ע
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = לעדכן את הכרטיס?
+credit-card-update-doorhanger-description = כרטיס לעדכון:
+credit-card-capture-save-new-button =
+    .label = שמירה בתור כרטיס חדש
+    .accessKey = ח
+credit-card-capture-update-button =
+    .label = עדכון כרטיס קיים
+    .accessKey = ק
