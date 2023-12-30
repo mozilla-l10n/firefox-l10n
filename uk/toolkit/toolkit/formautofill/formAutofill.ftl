@@ -21,6 +21,23 @@ autofill-options-link-osx = Налаштування автозаповненн�
 
 ## The credit card capture doorhanger
 
+credit-card-save-doorhanger-description = { -brand-short-name } шифрує номер вашої картки. Ваш код безпеки не буде збережено.
+credit-card-capture-save-button =
+    .label = Зберегти
+    .accessKey = З
+credit-card-capture-cancel-button =
+    .label = Не зараз
+    .accessKey = е
+credit-card-capture-never-save-button =
+    .label = Ніколи не зберігати картки
+    .accessKey = і
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-description = Картка для оновлення:
+credit-card-capture-save-new-button =
+    .label = Зберегти як нову картку
+    .accessKey = г
+credit-card-capture-update-button =
+    .label = Оновити наявну картку
+    .accessKey = о
