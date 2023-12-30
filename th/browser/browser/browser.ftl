@@ -347,6 +347,7 @@ identity-connection-secure = การเชื่อมต่อปลอดภ
 identity-connection-failure = การเชื่อมต่อล้มเหลว
 identity-connection-internal = นี่คือหน้า { -brand-short-name } ที่ปลอดภัย
 identity-connection-file = หน้านี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ
+identity-connection-associated = หน้านี้ถูกโหลดจากหน้าอื่น
 identity-extension-page = หน้านี้ถูกโหลดจากส่วนขยาย
 identity-active-blocked = { -brand-short-name } ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย
 identity-custom-root = การเชื่อมต่อถูกตรวจสอบโดยผู้ออกใบรับรองที่ Mozilla ไม่รู้จัก
