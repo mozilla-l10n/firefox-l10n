@@ -21,6 +21,9 @@ autofill-options-link-osx = Nastajenja za awtomatiske wupjelnjenje formularow
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Wšě składowane karty přez moje graty synchronizować
 # Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Tutu kartu wěsće składować?
 credit-card-save-doorhanger-description = { -brand-short-name } waše kartowe čisło zaklučuje. Waš wěstotny kod njebudźe so składować.

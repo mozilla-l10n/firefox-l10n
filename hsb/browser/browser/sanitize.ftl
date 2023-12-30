@@ -80,6 +80,7 @@ item-form-search-history =
 item-site-prefs =
     .label = Sydłowe nastajenja
     .accesskey = d
+item-site-prefs-description = Staja waše prawa a nastajenja sydła na prěnjotne nastajenja wróćo
 item-download-history =
     .label = Lisćina sćehnjenych datajow
     .accesskey = L
