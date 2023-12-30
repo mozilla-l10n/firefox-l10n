@@ -16,6 +16,7 @@ contentanalysis-warndialogtitle = Цей вміст може бути небез
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-warndialogtext = Ваша організація використовує програмне забезпечення для запобігання втраті даних, яке позначило цей вміст як небезпечний: { $content }. Все одно використовувати?
+contentanalysis-warndialog-response-allow = Використати вміст
 contentanalysis-warndialog-response-deny = Скасувати
 contentanalysis-notification-title = Аналіз вмісту
 # Variables:
