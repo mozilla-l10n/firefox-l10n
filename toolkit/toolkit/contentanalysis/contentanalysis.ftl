@@ -12,6 +12,8 @@ contentanalysis-slow-agent-dialog-title = Мазмұнды талдау орын
 contentanalysis-slow-agent-dialog-body = Мазмұнды талдау құралы "{ $content }" ресурсын талдауда
 contentanalysis-operationtype-clipboard = алмасу буфері
 contentanalysis-operationtype-dropped-text = тасталған мәтін
+contentanalysis-warndialog-response-allow = Құраманы пайдалану
+contentanalysis-warndialog-response-deny = Бас тарту
 contentanalysis-notification-title = Мазмұнды талдау
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
