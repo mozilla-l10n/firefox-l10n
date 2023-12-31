@@ -80,6 +80,10 @@ item-form-search-history =
 item-site-prefs =
     .label = Сайт баптаулары
     .accesskey = й
+item-site-prefs-description = Рұқсаттарыңыз бен сайт баптауларын бастапқы параметрлерге тастау
+item-download-history =
+    .label = Жүктеліп алынған файлдар тізімі
+    .accesskey = Ж
 data-section-label = Мәліметтер
 item-site-settings =
     .label = Сайт баптаулары
@@ -92,6 +96,8 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Қазір тазарту
+sanitize-button-ok2 =
+    .label = Тазарту
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
