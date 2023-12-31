@@ -12,6 +12,10 @@ contentanalysis-slow-agent-dialog-title = Мазмұнды талдау орын
 contentanalysis-slow-agent-dialog-body = Мазмұнды талдау құралы "{ $content }" ресурсын талдауда
 contentanalysis-operationtype-clipboard = алмасу буфері
 contentanalysis-operationtype-dropped-text = тасталған мәтін
+contentanalysis-warndialogtitle = Бұл мазмұн қауіпті болуы мүмкін
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Сіздің ұйымыңыз мына мазмұнды қауіпті етіп белгілеген деректердің жоғалуын болдырмау бағдарламалық құамтаманы пайдаланады: { $content }. Оны сонда да қолдану керек пе?
 contentanalysis-warndialog-response-allow = Құраманы пайдалану
 contentanalysis-warndialog-response-deny = Бас тарту
 contentanalysis-notification-title = Мазмұнды талдау

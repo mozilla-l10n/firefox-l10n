@@ -21,6 +21,12 @@ autofill-options-link-osx = Формаларды автотолтыру бапт
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Барлық сақталған карталарды барлық құрылғыларымда синхрондау
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Бұл картаны қауіпсіз сақтау керек пе?
+credit-card-save-doorhanger-description = { -brand-short-name } картаңыздың нөмірін шифрлейді. Қауіпсіздік кодыңыз сақталмайтын болады.
 credit-card-capture-save-button =
     .label = Сақтау
     .accessKey = С
