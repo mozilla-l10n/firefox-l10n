@@ -11,6 +11,11 @@ autofill-options-link-osx = Automatisches Ausfüllen von Formularen - Einstellun
 
 ## The credit card capture doorhanger
 
+credit-card-capture-save-button =
+    .label = Speichern
+    .accessKey = S
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Karte aktualisieren?
+credit-card-update-doorhanger-description = Zu aktualisierende Karte:
