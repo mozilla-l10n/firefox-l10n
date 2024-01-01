@@ -78,6 +78,12 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name }
     .tooltiptext = { -fxaccount-brand-name }
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = Konto
+    .tooltiptext = Konto
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -291,6 +297,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Gespeicherte Zugangsdaten verwenden
     .accesskey = G
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Gespeichertes Passwort verwenden
     .accesskey = G
@@ -305,6 +312,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = P
 main-context-menu-manage-logins2 =
     .label = Zugangsdaten verwalten
+    .accesskey = v
+main-context-menu-manage-passwords =
+    .label = Passwörter verwalten
     .accesskey = v
 main-context-menu-keyword =
     .label = Ein Schlüsselwort für diese Suche hinzufügen…
