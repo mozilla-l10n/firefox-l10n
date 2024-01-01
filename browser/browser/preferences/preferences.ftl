@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Permitir el inicio de sesión único de Windows para Microsoft, cuentas de trabajo y escolares
 forms-windows-sso-learn-more-link = Saber más
 forms-windows-sso-desc = Administrar cuentas en la configuración de su dispositivo
+windows-passkey-settings-label = Administrar claves de acceso en la configuración del sistema
 
 ## OS Authentication dialog
 
