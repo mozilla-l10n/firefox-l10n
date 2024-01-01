@@ -21,6 +21,18 @@ autofill-options-link-osx = Preferências de preenchimento automático de formul
 
 ## The credit card capture doorhanger
 
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Salvar este cartão com segurança?
+credit-card-capture-save-button =
+    .label = Salvar
+    .accessKey = S
+credit-card-capture-never-save-button =
+    .label = Nunca salvar cartões
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Atualizar cartão?
+credit-card-capture-save-new-button =
+    .label = Salvar como novo cartão
+    .accessKey = C
