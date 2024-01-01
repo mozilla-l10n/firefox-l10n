@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importar desde otro nav
 about-logins-menu-menuitem-import-from-a-file = Importar desde un archivo…
 about-logins-menu-menuitem-export-logins = Exportar inicios de sesión…
 about-logins-menu-menuitem-remove-all-logins = Eliminar todos los inicios de sesión...
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Exportar contraseñas...
 about-logins-menu-menuitem-remove-all-logins2 = Eliminar todas las contraseñas…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,11 +107,14 @@ about-logins-login-intro-heading-logged-out2 = ¿Busca sus inicios de sesión gu
 about-logins-login-intro-heading-logged-in = No se han encontrado credenciales sincronizadas.
 login-intro-description = Si guardó sus inicios de sesión en { -brand-product-name } en un dispositivo diferente, éstos son los pasos a seguir para tenerlos aquí también:
 login-intro-instructions-fxa = Cree o inicie sesión en su { -fxaccount-brand-name } en el dispositivo donde se guardan sus inicios de sesión.
+about-logins-login-intro-heading-message = Guarde sus contraseñas en un lugar seguro
+login-intro-description2 = Todas las contraseñas que guarde en { -brand-product-name } están cifradas. Además, estamos atentos a las filtraciones y le avisamos si se ve afectado. <a data-l10n-name="breach-alert-link">Saber más</a>
 login-intro-instructions-fxa2 = Cree o inicie sesión en su cuenta en el dispositivo donde se guardan sus inicios de sesión
 login-intro-instructions-fxa-settings = Ir a Ajustes > Sync > Activar la sincronización… Seleccionar la casilla Inicios de sesión y contraseñas.
 login-intro-instructions-fxa-passwords-help = Visite la página de <a data-l10n-name="passwords-help-link">asistencia para contraseñas</a> para obtener más ayuda.
 about-logins-intro-browser-only-import = Si sus inicios de sesión están guardados en otro navegador, puede <a data-l10n-name="import-link">importarlos en { -brand-product-name }</a>
 about-logins-intro-import2 = Si sus inicios de sesión se guardan fuera de { -brand-product-name }, puede <a data-l10n-name="import-browser-link">importarlos desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo </a>
+about-logins-intro-import3 = Seleccione el botón del signo más que está arriba para añadir una contraseña ahora. También puede <a data-l10n-name="import-browser-link">importar contraseñas desde otro navegador</a> o <a data-l10n-name="import-file-link">desde un archivo</a>.
 
 ## Login
 
@@ -296,6 +299,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión y contraseñas
 about-logins-confirm-export-dialog-message = Sus contraseñas se guardarán como texto legible (por ejemplo, BadP@ssw0rd) por lo que cualquiera que pueda abrir el archivo exportado podrá verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-confirm-export-dialog-title2 = Una nota sobre la exportación de contraseñas
+about-logins-confirm-export-dialog-message2 =
+    Cuando exporta, sus contraseñas se guardan en un archivo como texto legible.
+    Cuando haya terminado de usar el archivo, le recomendamos eliminarlo para que otras personas que usen este dispositivo no puedan ver sus contraseñas.
+about-logins-confirm-export-dialog-confirm-button2 = Continuar con la exportación
 about-logins-alert-import-title = Importación completa
 about-logins-alert-import-message = Ver resumen detallado de la importación
 confirm-discard-changes-dialog-title = ¿Descartar cambios no guardados?
@@ -337,6 +345,11 @@ about-logins-export-file-picker-title = Exportar archivo de inicios de sesión
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Exportar contraseñas desde { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
