@@ -49,6 +49,13 @@ login-list-count =
 #   $count (number) - Number of filtered logins
 #   $total (number) - Total number of logins
 login-list-filtered-count = { $count } ຂອງ { $total } ເຂົ້າສູ່ລະບົບ
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 = { $count } ລະຫັດຜ່ານ
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 = { $count } ຂອງ { $total } ລະຫັດຜ່ານ
 login-list-sort-label-text = ຈັດຮຽງຕາມ:
 login-list-name-option = ຊື່ (A-Z)
 login-list-name-reverse-option = ຊື່ (A-Z)
@@ -58,11 +65,14 @@ about-logins-login-list-alerts-option = ແຈ້ງເຕືອນ
 login-list-last-changed-option = ການແກ້ໄຂຄັ້ງຫລ້າສຸດ
 login-list-last-used-option = ໃຊ້ຫຼ້າສຸດ
 login-list-intro-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
+login-list-intro-title2 = ບໍ່ມີລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
 login-list-intro-description = ເມື່ອທ່ານບັນທຶກລະຫັດຜ່ານໃນ { -brand-product-name }, ມັນຈະປາກົດຢູ່ບ່ອນນີ້.
 about-logins-login-list-empty-search-title = ບໍ່ພົບການເຂົ້າສູ່ລະບົບ
+about-logins-login-list-empty-search-title2 = ບໍ່ພົບລະຫັດຜ່ານ
 about-logins-login-list-empty-search-description = ບໍ່ມີຜົນໄດ້ຮັບທີ່ກົງກັບການຄົ້ນຫາຂອງທ່ານ.
 login-list-item-title-new-login = ເຂົ້າສູ່ລະບົບໃໝ່
 login-list-item-subtitle-new-login = ໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບຂອງທ່ານ
+login-list-item-title-new-login2 = ເພີ່ມລະຫັດຜ່ານ
 login-list-item-subtitle-missing-username = (ບໍ່ມີຊື່ຜູ້ໃຊ້)
 about-logins-list-item-breach-icon =
     .title = ເວັບໄຊທ໌ທີ່ມີການຮົ່ວໄຫລ
@@ -89,6 +99,8 @@ about-logins-intro-import2 = ຖ້າການເຂົ້າສູ່ລະບ
 ## Login
 
 login-item-new-login-title = ສ້າງການລັອກອິນໃຫມ່
+# Header for adding a password
+about-logins-login-item-new-login-title = ເພີ່ມລະຫັດຜ່ານ
 login-item-edit-button = ແກ້ໄຂ
 about-logins-login-item-remove-button = ລຶບ
 login-item-origin-label = ທີ່ຢູ່ເວັບໄຊທ໌
@@ -106,6 +118,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = ສຳເນົາ
 login-item-copied-password-button-text = ສຳເນົາແລ້ວ!
 login-item-save-changes-button = ບັນທຶກການປ່ຽນແປງ
+about-logins-login-item-save-changes-button = ບັນທຶກ
 login-item-save-new-button = ບັນທຶກ
 login-item-cancel-button = ຍົກເລີກ
 
@@ -163,6 +176,10 @@ confirmation-dialog-dismiss-button =
     .title = ຍົກເລີກ
 about-logins-confirm-remove-dialog-title = ລົບການເຂົ້າສູ່ລະບົບນີ້?
 confirm-delete-dialog-message = ການກະທຳນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = ລຶບລະຫັດຜ່ານອອກບໍ່?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = ທ່ານບໍ່ສາມາດຍົກເລີກການກະທຳນີ້ໄດ້.
 about-logins-confirm-remove-dialog-confirm-button = ລຶບ
 
 ## Variables
