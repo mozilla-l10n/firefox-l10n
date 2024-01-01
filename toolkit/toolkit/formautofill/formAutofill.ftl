@@ -14,12 +14,36 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } está intent
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-payment-method-os-prompt-macos = mostrar la información almacenada del método de pago
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } está intentando mostrar la información del método de pago almacenado. Confirme el acceso a la cuenta de Windows que se muestra a continuación.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } está intentando mostrar la información del método de pago.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Opciones de autocompletado de formularios
 autofill-options-link-osx = Preferencias de autocompletado de formularios
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizar todas las tarjetas guardadas en mis dispositivos
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = ¿Guardar esta tarjeta de forma segura?
+credit-card-save-doorhanger-description = { -brand-short-name } cifra su número de tarjeta. Su código de seguridad no se guardará.
+credit-card-capture-save-button =
+    .label = Guardar
+    .accessKey = G
+credit-card-capture-cancel-button =
+    .label = Ahora no
+    .accessKey = n
+credit-card-capture-never-save-button =
+    .label = Nunca guardar tarjetas
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = ¿Actualizar tarjeta?
+credit-card-update-doorhanger-description = Tarjeta para actualizar:
+credit-card-capture-save-new-button =
+    .label = Guardar como tarjeta nueva
+    .accessKey = c
+credit-card-capture-update-button =
+    .label = Actualizar tarjeta existente
+    .accessKey = u
