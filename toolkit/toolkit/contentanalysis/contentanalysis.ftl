@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Análisis de contenido en curso
 contentanalysis-slow-agent-dialog-body = El análisis de contenido está analizando el recurso “{ $content }”
 contentanalysis-operationtype-clipboard = portapapeles
 contentanalysis-operationtype-dropped-text = texto soltado
+contentanalysis-warndialogtitle = Este contenido puede no ser seguro
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Su organización utiliza software de prevención de pérdida de datos que ha marcado este contenido como inseguro: { $content }. ¿Quiere usarlo de todos modos?
+contentanalysis-warndialog-response-allow = Usar contenido
+contentanalysis-warndialog-response-deny = Cancelar
 contentanalysis-notification-title = Análisis de contenido
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
