@@ -114,6 +114,7 @@ login-intro-instructions-fxa-settings = Gehen Sie zu Einstellungen > Synchronisa
 login-intro-instructions-fxa-passwords-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="passwords-help-link">Hilfeseite für Passwörter</a>.
 about-logins-intro-browser-only-import = Wenn Ihre Zugangsdaten in einem anderen Browser gespeichert sind, können Sie diese in { -brand-product-name } <a data-l10n-name="import-link">importieren</a>.
 about-logins-intro-import2 = Wenn Ihre Zugangsdaten außerhalb von { -brand-product-name } gespeichert sind, können Sie diese <a data-l10n-name="import-browser-link">aus einem anderen Browser</a> oder <a data-l10n-name="import-file-link">aus einer Datei</a> importieren.
+about-logins-intro-import3 = Wählen Sie die Pluszeichen-Schaltfläche oben aus, um jetzt ein Passwort hinzuzufügen. Sie können auch <a data-l10n-name="import-browser-link">Passwörter aus einem anderen Browser</a> oder <a data-l10n-name="import-file-link">aus einer Datei</a> importieren.
 
 ## Login
 
@@ -271,6 +272,24 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] { $count } Passwort entfernen?
        *[other] Alle { $count } Passwörter entfernen?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [one] Dadurch werden das in { -brand-short-name } gespeicherte Passwort und alle Warnungen zu Datenlecks entfernt. Diese Aktion kann nicht rückgängig gemacht werden.
+       *[other] Dadurch werden die in { -brand-short-name } gespeicherten Passwörter und alle Warnungen zu Datenlecks entfernt. Diese Aktion kann nicht rückgängig gemacht werden.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] { $count } Passwort von allen Geräten entfernen?
+       *[other] Alle { $count } Passwörter von allen Geräten entfernen?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [one] Dadurch wird das in { -brand-short-name } gespeicherte Passwort auf allen synchronisierten Geräten gelöscht. Dadurch werden auch alle hier angezeigten Warnungen von Datenlecks gelöscht. Sie können diese Aktion nicht rückgängig machen.
+       *[other] Dadurch werden alle in { -brand-short-name } gespeicherten Passwörter auf allen synchronisierten Geräten gelöscht. Dadurch werden auch alle hier angezeigten Warnungen von Datenlecks gelöscht. Sie können diese Aktion nicht rückgängig machen.
+    }
 
 ##
 
@@ -278,6 +297,10 @@ about-logins-confirm-export-dialog-title = Zugangsdaten und Passwörter exportie
 about-logins-confirm-export-dialog-message = Ihre Passwörter werden als lesbarer Text gespeichert (z.B. P@ssw0rt). Dadurch hat jede Person, welche die exportierte Datei öffnen kann, Zugriff auf das unverschlüsselte Passwort.
 about-logins-confirm-export-dialog-confirm-button = Exportieren…
 about-logins-confirm-export-dialog-title2 = Ein Hinweis zum Export von Passwörtern
+about-logins-confirm-export-dialog-message2 =
+    Wenn Sie exportieren, werden Ihre Passwörter in einer Datei mit lesbarem Text gespeichert.
+    Wenn Sie die Datei nicht mehr verwenden, sollten Sie sie löschen, damit andere Benutzer dieses Geräts Ihre Passwörter nicht sehen können.
+about-logins-confirm-export-dialog-confirm-button2 = Weiter mit Export
 about-logins-alert-import-title = Importieren abgeschlossen
 about-logins-alert-import-message = Detaillierte Import-Zusammenfassung anzeigen
 confirm-discard-changes-dialog-title = Nicht gespeicherte Änderungen verwerfen?
@@ -319,6 +342,11 @@ about-logins-export-file-picker-title = Zugangsdaten in Datei exportieren
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = zugangsdaten.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Passwörter von { -brand-short-name } exportieren
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwoerter.csv
 about-logins-export-file-picker-export-button = Exportieren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
