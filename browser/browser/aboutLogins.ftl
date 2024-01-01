@@ -108,6 +108,7 @@ about-logins-login-intro-heading-logged-in = Keine synchronisierten Zugangsdaten
 login-intro-description = Wenn Sie Ihre Zugangsdaten in { -brand-product-name } auf einem anderen Gerät gespeichert haben, können Sie diese hier abrufen:
 login-intro-instructions-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein { -fxaccount-brand-name } oder melden Sie sich damit an.
 about-logins-login-intro-heading-message = Speichern Sie Ihre Passwörter an einem sicheren Ort
+login-intro-description2 = Alle Passwörter, die Sie in { -brand-product-name } speichern, werden verschlüsselt. Außerdem halten wir Ausschau nach Datenlecks und benachrichtigen Sie, wenn Sie betroffen sind. <a data-l10n-name="breach-alert-link">Weitere Informationen</a>
 login-intro-instructions-fxa2 = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein Konto oder melden Sie sich damit an.
 login-intro-instructions-fxa-settings = Gehen Sie zu Einstellungen > Synchronisation > Synchronisation aktivieren… Wählen Sie das Kontrollfeld "Zugangsdaten und Passwörter".
 login-intro-instructions-fxa-passwords-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="passwords-help-link">Hilfeseite für Passwörter</a>.
