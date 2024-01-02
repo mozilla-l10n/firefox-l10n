@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Comence modalitât debug
 about-webrtc-debug-mode-on-state-label = Ferme modalitât debug
 about-webrtc-enable-logging-label = Ative la pre-configurazion di regjistrazion par WebRTC
 about-webrtc-stats-heading = Statistichis session
+about-webrtc-peerconnections-section-heading = Statistichis RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Mostre statistichis RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Plate statistichis RTCPeerConnection
 about-webrtc-stats-clear = Cancele la storie
 about-webrtc-log-heading = Regjistri di conession
 about-webrtc-log-clear = Cancele regjistri
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Furnît
 about-webrtc-configuration-element-not-provided = No furnît
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferencis WebRTC configuradis dal utent
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Configurazion WebRTC modificade dal utent
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Mostre configurazion modificade dal utent
+about-webrtc-user-modified-configuration-hide-msg = Plate configurazion modificade dal utent
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Largjece di bande stimade
 # The ID of the MediaStreamTrack
@@ -229,8 +243,6 @@ about-webrtc-aec-logging-off-state-msg = i files regjistrâts a si cjatin in: { 
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Pagjine salvade in:{ $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Regjistri de rie disponibil in: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Modalitât debug ative. regjistri de rie in: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -310,9 +322,6 @@ about-webrtc-hide-msg-sdp = Plate SDP
 about-webrtc-media-context-show-msg = Mostre contest multimediâl
 about-webrtc-media-context-hide-msg = Plate contest multimediâl
 about-webrtc-media-context-heading = Contest multimediâl
-
-##
-
 
 ##
 

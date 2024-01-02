@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Analisi contignûts in cors
 contentanalysis-slow-agent-dialog-body = Analisi contignûts al sta esaminant la risorse “{ $content }”
 contentanalysis-operationtype-clipboard = notis
 contentanalysis-operationtype-dropped-text = test molât
+contentanalysis-warndialogtitle = Al è pussibil che chescj contignûts no sedin sigûrs
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = La tô organizazion e dopre un software pe prevenzion de pierdite di dâts che e à segnalât chescj contignûts tant che no sigûrs: { $content }. Doprâju distès?
+contentanalysis-warndialog-response-allow = Dopre contignûts
+contentanalysis-warndialog-response-deny = Anule
 contentanalysis-notification-title = Analisi contignûts
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"

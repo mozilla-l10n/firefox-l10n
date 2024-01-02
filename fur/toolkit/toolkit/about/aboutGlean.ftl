@@ -50,6 +50,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (no inviâ pings)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Jessi sigûr che, tal cjamp che al precêt, e sedi une etichete di debug facile di impensâsi, cussì di podê ricognossi i tiei pings, plui indenant.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Stabilìs une etichete di debug facile di tignî iniments <span>(massim 20 caratars, dome caratars alfanumerics e -)</span>, in mût di podê ricognossi i pings plui indevant.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
