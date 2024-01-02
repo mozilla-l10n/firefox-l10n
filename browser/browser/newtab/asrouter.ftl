@@ -62,6 +62,7 @@ cfr-doorhanger-extension-total-users =
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = סנכרון הסימניות שלך לכל מקום.
+cfr-doorhanger-bookmark-fxa-body = חתיכת מציאה! מעכשיו הסימנייה שלך לא תישאר מאחור בשימוש בהתקנים ניידים. איך מתחילים עם { -fxaccount-brand-name(case: "a") }.
 cfr-doorhanger-bookmark-fxa-link-text = סנכרון הסימניות כעת…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = כפתור סגירה
@@ -229,7 +230,6 @@ device-migration-fxa-spotlight-older-device-header = שקט נפשי, מאת { -
 device-migration-fxa-spotlight-older-device-body = השימוש בחשבון שומר על המידע החשוב שלך מעודכן ומוגן בכל מכשיר שיחובר אליו.
 device-migration-fxa-spotlight-older-device-primary-button = יצירת חשבון
 device-migration-fxa-spotlight-getting-new-device-header-2 = יהיה לך מכשיר חדש בעתיד?
-device-migration-fxa-spotlight-getting-new-device-body = כדאי לגבות את הנתונים שלך כעת, כדי להתכונן למעבר למכשיר החדש.
 device-migration-fxa-spotlight-getting-new-device-primary-button = כיצד לגבות את הנתונים שלי
 
 ## Set as Default PDF Reader Infobar
