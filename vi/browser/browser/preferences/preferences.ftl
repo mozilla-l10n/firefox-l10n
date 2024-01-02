@@ -840,7 +840,7 @@ forms-ask-to-save-passwords =
     .label = Hỏi để lưu mật khẩu
     .accesskey = A
 forms-exceptions =
-    .label = Ngoại trừ…
+    .label = Ngoại lệ…
     .accesskey = x
 forms-generate-passwords =
     .label = Đề xuất và tạo mật khẩu mạnh
@@ -1212,14 +1212,14 @@ permissions-block-popups =
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
-    .label = Ngoại trừ…
+    .label = Ngoại lệ…
     .accesskey = E
     .searchkeywords = cửa sổ bật lên
 permissions-addon-install-warning =
     .label = Cảnh báo khi trang web cố gắng cài đặt tiện ích
     .accesskey = W
 permissions-addon-exceptions =
-    .label = Ngoại trừ…
+    .label = Ngoại lệ…
     .accesskey = E
 
 ## Privacy Section - Data Collection
@@ -1360,7 +1360,7 @@ preferences-doh-checkbox-warn =
 preferences-doh-select-resolver = Chọn nhà cung cấp:
 preferences-doh-exceptions-description = { -brand-short-name } sẽ không sử dụng DNS an toàn trên các trang web này
 preferences-doh-manage-exceptions =
-    .label = Quản lý ngoại trừ…
+    .label = Quản lý ngoại lệ…
     .accesskey = x
 
 ## The following strings are used in the Download section of settings

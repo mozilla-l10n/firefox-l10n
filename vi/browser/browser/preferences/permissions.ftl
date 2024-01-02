@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window2 =
-    .title = Ngoại trừ
+    .title = Ngoại lệ
     .style = min-width: 45em
 permissions-close-key =
     .key = w
@@ -13,7 +13,7 @@ permissions-block =
     .label = Chặn
     .accesskey = C
 permissions-disable-etp =
-    .label = Thêm ngoại trừ
+    .label = Thêm ngoại lệ
     .accesskey = E
 permissions-session =
     .label = Cho phép theo phiên
@@ -76,7 +76,7 @@ permissions-invalid-uri-label = Hãy nhập một tên máy chủ có thực
 permissions-exceptions-etp-window2 =
     .title = Các ngoại lệ cho trình chống theo dõi nâng cao
     .style = { permissions-window2.style }
-permissions-exceptions-manage-etp-desc = Bạn có thể chỉ định trang web nào đã tắt Trình chống theo dõi nâng cao. Nhập địa chỉ chính xác của trang web mà bạn muốn quản lý rồi nhấp vào Thêm ngoại trừ.
+permissions-exceptions-manage-etp-desc = Bạn có thể chỉ định các trang web nào sẽ tắt Trình chống theo dõi nâng cao. Nhập địa chỉ chính xác của trang web mà bạn muốn quản lý, sau đó nhấp vào "Thêm ngoại lệ".
 
 ## Exceptions - Cookies
 
@@ -88,7 +88,7 @@ permissions-exceptions-cookie-desc = Bạn có thể chỉ định trang web nà
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
-    .title = Ngoại trừ - Chế độ chỉ HTTPS
+    .title = Ngoại lệ - Chế độ chỉ HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Bạn có thể tắt Chế độ chỉ HTTPS cho các trang web cụ thể. { -brand-short-name } sẽ không cố gắng nâng cấp kết nối để bảo mật HTTPS cho các trang web đó. Các trường hợp ngoại lệ không áp dụng cho các cửa sổ riêng tư.
 permissions-exceptions-https-only-desc2 = Bạn có thể tắt Chế độ chỉ HTTPS cho các trang web cụ thể. { -brand-short-name } sẽ không nâng cấp kết nối để bảo mật HTTPS cho các trang web đó.
@@ -105,12 +105,12 @@ permissions-exceptions-popup-desc = Bạn có thể chỉ định những trang 
 permissions-exceptions-saved-logins-window2 =
     .title = Ngoại lệ - Đăng nhập đã lưu
     .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = Đăng nhập các trang web sau sẽ không được lưu
+permissions-exceptions-saved-logins-desc = Thông tin đăng nhập các trang web sau sẽ không được lưu
 
 ## Exceptions - Saved Passwords
 
 permissions-exceptions-saved-passwords-window =
-    .title = Ngoại trừ - Mật khẩu đã lưu
+    .title = Ngoại lệ - Mật khẩu đã lưu
     .style = { permissions-window2.style }
 permissions-exceptions-saved-passwords-desc = { -brand-short-name } sẽ không lưu mật khẩu cho các trang được liệt kê ở đây.
 
@@ -187,7 +187,7 @@ permissions-site-speaker-window =
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Các trang web sau đã yêu cầu chọn thiết bị đầu ra âm thanh. Bạn có thể chỉ định trang web nào được phép chọn thiết bị đầu ra âm thanh.
 permissions-exceptions-doh-window =
-    .title = Ngoại trừ trang web cho DNS qua HTTPS
+    .title = Ngoại lệ trang web cho DNS qua HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } sẽ không sử dụng DNS bảo mật trên các trang web này và tên miền phụ của chúng.
 permissions-doh-entry-field = Nhập tên miền trang web
