@@ -10,6 +10,9 @@ about-logins-login-filter =
 create-new-login-button =
     .title = ສ້າງການເຂົ້າສູ່ລະບົບໃຫມ່
 about-logins-page-title-name = ລະຫັດຜ່ານ
+about-logins-login-filter2 =
+    .placeholder = ຄົ້ນຫາລະຫັດຜ່ານ
+    .key = F
 create-login-button =
     .title = ເພີ່ມລະຫັດຜ່ານ
 fxaccounts-sign-in-text = ເອົາລະຫັດຜ່ານຂອງທ່ານໃນອຸປະກອນອື່ນຂອງທ່ານ
@@ -91,6 +94,9 @@ about-logins-login-intro-heading-logged-out2 = ຊອກຫາການເຂົ
 about-logins-login-intro-heading-logged-in = ບໍ່ພົບການເຂົ້າສູ່ລະບົບທີ່ຊິ້ງ.
 login-intro-description = ຖ້າທ່ານບັນທຶກການເຂົ້າສູ່ລະບົບຂອງທ່ານໄປທີ່ { -brand-product-name } ໃນອຸປະກອນອື່ນ, ທ່ານສາມາດນຳມາໃຊ້ໃນອຸປະກອນນີ້ໄດ້ດ້ວຍວິທີ່ດັ່ງນີ້:
 login-intro-instructions-fxa = ສ້າງ ຫຼື ເຂົ້າສູ່ລະບົບ { -fxaccount-brand-name }ຂອງທ່ານຢູ່ໃນອຸປະກອນທີ່ບັນທຶກການເຂົ້າສູ່ລະບົບຂອງທ່ານ.
+about-logins-login-intro-heading-message = ບັນທຶກລະຫັດຜ່ານຂອງທ່ານໄວ້ໃນບ່ອນທີ່ປອດໄພ
+login-intro-description2 = ລະຫັດຜ່ານທັງໝົດທີ່ທ່ານບັນທຶກໄວ້ໃນ { -brand-product-name } ຖືກເຂົ້າລະຫັດໄວ້. ນອກຈາກນັ້ນ, ພວກເຮົາລະວັງການລະເມີດ ແລະ ແຈ້ງເຕືອນທ່ານຫາກທ່ານໄດ້ຮັບຜົນກະທົບ. <a data-l10n-name="breach-alert-link">ສຶກສາເພີ່ມເຕີມ</a>
+login-intro-instructions-fxa2 = ສ້າງ ຫຼື ເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານຢູ່ໃນອຸປະກອນທີ່ບັນທຶກການເຂົ້າສູ່ລະບົບຂອງທ່ານ.
 login-intro-instructions-fxa-settings = ໄປ​ທີ່ ເມນູ ການຕັ້ງຄ່າ > Sync > ເປີດ​ການ​ຊິ້ງ​ຂໍ້​ມູນ… ເລືອກ​ເອົາ​ການ​ເຂົ້າ​ສູ່​ລະ​ບົບ​ແລະ​ລະ​ຫັດ​ຜ່ານ checkbox​.
 login-intro-instructions-fxa-passwords-help = ເຂົ້າເບິ່ງ <a data-l10n-name="passwords-help-link">ຊ່ອຍເຫຼືອລະຫັດຜ່ານ</a> ສໍາລັບການຊ່ວຍເຫຼືອເພີ່ມເຕີມ.
 about-logins-intro-browser-only-import = ຖ້າການເຂົ້າສູ່ລະບົບຂອງທ່ານຖືກບັນທຶກໄວ້ໃນບຣາວເຊີອື່ນ, ທ່ານສາມາດ <a data-l10n-name="import-link">ນຳພວກມັນເຂົ້າໄປໃນ { -brand-product-name }</a>
