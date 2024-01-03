@@ -721,8 +721,10 @@ sync-currently-syncing-bookmarks = نشانیاں
 sync-currently-syncing-history = تاریخ
 sync-currently-syncing-tabs = ٹیباں کھولو
 sync-currently-syncing-logins-passwords = لاگ ان تے پاس ورڈ
+sync-currently-syncing-passwords = پاس ورڈز
 sync-currently-syncing-addresses = پتے
 sync-currently-syncing-creditcards = کریڈٹ کارڈز
+sync-currently-syncing-payment-methods = ادائیگی طریقے
 sync-currently-syncing-addons = ایڈ ــ آنز
 sync-currently-syncing-settings = ترتیباں
 sync-change-options =
@@ -807,6 +809,9 @@ pane-privacy-logins-and-passwords-header = لاگ انز تے پاس ورڈ
 forms-ask-to-save-logins =
     .label = ویب سائٹاں کیتے لاگ انز تے پاس ورڈز ہتھیکڑا کرݨ کیتے پچھو
     .accesskey = r
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = استثنیات …
     .accesskey = x
@@ -859,6 +864,9 @@ primary-password-os-auth-dialog-message-win = ہک منڈھلا پاس ورڈ ب
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ہک منڈھلا پاس ورڈ بݨاؤ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 

@@ -30,10 +30,18 @@ address-capture-cancel-button =
 address-capture-update-button =
     .label = اپ ڈیٹ کرو
     .accessKey = U
+address-capture-manage-address-button =
+    .label = پتہ ترتیباں
 address-capture-learn-more-button =
     .label = ٻیا سِکھو
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = نواں پتہ شامل کرو
+address-capture-open-menu-button =
+    .aria-label = مینیو کھولو
+address-capture-edit-address-button =
+    .aria-label = پتے وچ تبدیلی کرو
+# The dialog title for creating addresses in browser preferences.
+autofill-add-address-title = پتہ شامل کرو
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = پتہ تدوین کرو
 autofill-address-name = ناں

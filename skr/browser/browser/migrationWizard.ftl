@@ -68,6 +68,7 @@ migration-bookmarks-option-label = نشانیاں
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = من بھان٘دے
 migration-logins-and-passwords-option-label = محفوظ تھئے لاگ ان تے پاس ورڈ
+migration-passwords-option-label = محفوظ تھئے پاس ورڈ
 migration-history-option-label = براؤزنگ تاریخ
 migration-extensions-option-label = ایکسٹینشنز
 migration-form-autofill-option-label = فارم آٹو فل ڈیٹا

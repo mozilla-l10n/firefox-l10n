@@ -137,8 +137,12 @@ firefoxview-opentabs-focus-tab =
     .title = ایں ٹیب تے سوئچ کرو
 firefoxview-show-more = ودھیک ݙکھاؤ
 firefoxview-show-less = گھٹ ݙکھاؤ
+firefoxview-show-all = سارے ݙکھاؤ
 firefoxview-search-text-box-clear-button =
     .title = صاف کرو
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = ڳولو
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = تاریخ ڳولو
