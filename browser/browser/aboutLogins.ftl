@@ -108,6 +108,7 @@ about-logins-login-intro-heading-logged-in = Ingen synkroniserte innlogginger fu
 login-intro-description = Slik kan du få dine { -brand-product-name } innlogginger hit, om du har lagret de på en annen enhet
 login-intro-instructions-fxa = Lag eller logg inn på din { -fxaccount-brand-name } på enheten der dine innlogginger er lagret
 about-logins-login-intro-heading-message = Lagre passordene dine på et trygt sted
+login-intro-description2 = Alle passord du lagrer i { -brand-product-name } krypteres. Vi følger dessuten med på og varsler deg om du blir berørt av datalekkasjer. <a data-l10n-name="breach-alert-link">Lær mer</a>
 login-intro-instructions-fxa2 = Lag eller logg inn på din konto på enheten der dine innlogginger er lagret
 login-intro-instructions-fxa-settings = Gå til Innstillinger > Synkronisering > Slå på synkronisering … Merk av for innlogginger og passord.
 login-intro-instructions-fxa-passwords-help = Besøk <a data-l10n-name="passwords-help-link">passordstøtte</a> for mer hjelp.
