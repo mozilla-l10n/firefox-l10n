@@ -62,7 +62,6 @@ cfr-doorhanger-extension-total-users =
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = סנכרון הסימניות שלך לכל מקום.
-cfr-doorhanger-bookmark-fxa-body = חתיכת מציאה! מעכשיו הסימנייה שלך לא תישאר מאחור בשימוש בהתקנים ניידים. איך מתחילים עם { -fxaccount-brand-name(case: "a") }.
 cfr-doorhanger-bookmark-fxa-link-text = סנכרון הסימניות כעת…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = כפתור סגירה
