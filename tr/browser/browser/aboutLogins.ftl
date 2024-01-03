@@ -114,6 +114,7 @@ login-intro-instructions-fxa-settings = Ayarlar > Eşitleme > “Eşitlemeyi ba�
 login-intro-instructions-fxa-passwords-help = Yardıma ihtiyacınız varsa <a data-l10n-name="passwords-help-link">parola desteğini</a> ziyaret edebilirsiniz.
 about-logins-intro-browser-only-import = Hesaplarınız başka bir tarayıcıda kayıtlıysa onları <a data-l10n-name="import-link">{ -brand-product-name }’a aktarabilirsiniz</a>
 about-logins-intro-import2 = Hesaplarınız { -brand-product-name } dışında kayıtlıysa onları <a data-l10n-name="import-browser-link">başka bir tarayıcıdan</a> veya <a data-l10n-name="import-file-link">dosyadan</a> içe aktarabilirsiniz
+about-logins-intro-import3 = Şimdi bir parola eklemek için yukarıdaki artı işaretine tıklayın. Ayrıca parolaları <a data-l10n-name="import-browser-link">başka bir tarayıcıdan</a> veya <a data-l10n-name="import-file-link">bir dosyadan</a> içe aktarabilirsiniz.
 
 ## Login
 
