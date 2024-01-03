@@ -11,6 +11,15 @@ autofill-options-link-osx = Innstillinger for autoutfylling av skjema
 
 ## The credit card capture doorhanger
 
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Lagre dette kortet trygt?
+credit-card-save-doorhanger-description = { -brand-short-name } krypterer kortnummeret ditt. Sikkerhetskoden din blir ikke lagret.
+credit-card-capture-save-button =
+    .label = Lagre
+    .accessKey = L
+credit-card-capture-cancel-button =
+    .label = Ikke nå
+    .accessKey = k
 
 # Used on the doorhanger when an credit card change is detected.
 
