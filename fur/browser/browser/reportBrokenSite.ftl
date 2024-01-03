@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = La tô segnalazion e je stade inviade
     .title = La tô segnalazion e je stade inviade
 report-broken-site-panel-report-sent-text = Graciis di judâ { -brand-product-name } a rindi il web plui viert, acessibil e miôr par ducj.
+report-broken-site-panel-invalid-url-label = Inserìs par plasê un URL valit
+report-broken-site-panel-missing-reason-label = Sielç un motîf

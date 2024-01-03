@@ -937,6 +937,14 @@ autofill-payment-methods-checkbox-submessage = Al inclût cjartis di credit e di
     .accesskey = I
 autofill-saved-payment-methods-button = Metodis di paiament salvâts
     .accesskey = v
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Domande la autenticazion di macOS par compilâ e modificâ metodis di paiament.
+        [windows] Domande la autenticazion di Windows par compilâ e modificâ metodis di paiament.
+        [linux] Domande la autenticazion di Linux par compilâ e modificâ metodis di paiament.
+       *[other] Domande la autenticazion par compilâ e modificâ metodis di paiament.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
