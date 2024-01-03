@@ -13,6 +13,9 @@ contentanalysis-slow-agent-dialog-body = İçerik analizi aracı “{ $content }
 contentanalysis-operationtype-clipboard = pano
 contentanalysis-operationtype-dropped-text = sürüklenip bırakılan metin
 contentanalysis-warndialogtitle = Bu içerik güvensiz olabilir
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Kuruluşunuz bu içeriği güvensiz olarak işaretleyen bir veri kaybı önleme yazılımı kullanıyor: { $content }. İçerik yine de kullanılsın mı?
 contentanalysis-warndialog-response-allow = İçeriği kullan
 contentanalysis-warndialog-response-deny = Vazgeç
 contentanalysis-notification-title = İçerik analizi
