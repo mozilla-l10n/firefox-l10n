@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importer fra en anden b
 about-logins-menu-menuitem-import-from-a-file = Importer fra fil…
 about-logins-menu-menuitem-export-logins = Eksporter logins…
 about-logins-menu-menuitem-remove-all-logins = Fjern alle logins…
+about-logins-menu-menuitem-export-logins2 = Eksporter adgangskoder…
+about-logins-menu-menuitem-remove-all-logins2 = Fjern alle adgangskoder
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Indstillinger
@@ -105,11 +107,14 @@ about-logins-login-intro-heading-logged-out2 = Leder du efter dine gemte logins?
 about-logins-login-intro-heading-logged-in = Ingen synkroniserede logins fundet.
 login-intro-description = Hvis du har gemt dine logins i { -brand-product-name } på en anden enhed, så skal du gøre sådan for at anvende dem her også:
 login-intro-instructions-fxa = Opret eller log ind på din { -fxaccount-brand-name } på den enhed, hvor dine logins er gemt.
+about-logins-login-intro-heading-message = Gem dine adgangskoder et sikkert sted
+login-intro-description2 = Alle adgangskoder, du gemmer i { -brand-product-name }, er krypterede. Vi holder desuden øje med datalæk og giver dig besked, hvis du er ramt. <a data-l10n-name="breach-alert-link">Læs mere</a>
 login-intro-instructions-fxa2 = Opret en konto eller log ind på den enhed, hvor dine logins er gemt.
 login-intro-instructions-fxa-settings = Gå til Indstillinger > Sync > Slå synkronisering til… Sæt flueben ud for Logins og adgangskoder.
 login-intro-instructions-fxa-passwords-help = Besøg vores <a data-l10n-name="passwords-help-link">support-websted</a> for at få mere hjælp.
 about-logins-intro-browser-only-import = Hvis dine logins er gemt i en anden browser, så kan du <a data-l10n-name="import-link">importere dem til { -brand-product-name }</a>
 about-logins-intro-import2 = Hvis dine logins er gemt et andet sted end { -brand-product-name }, så kan du <a data-l10n-name="import-browser-link">importere dem fra en anden browser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>
+about-logins-intro-import3 = Klik på knappen med plus-tegnet ovenfor for at tilføje en adgangskode. Du kan også <a data-l10n-name="import-browser-link">importere adgangskoder fra en anden browser</a> eller <a data-l10n-name="import-file-link">fra en fil</a>.
 
 ## Login
 
@@ -120,6 +125,7 @@ login-item-edit-button = Rediger
 about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Webstedets adresse
 login-item-tooltip-message = Kontrollér at dette er adressen på det websted, hvor du logger ind.
+about-logins-origin-tooltip2 = Indtast den fulde adresse, og sørg for, at den svarer nøjagtigt til, hvor du logger ind.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Sørg for at gemme din aktuelle adgangsode til dette websted. At ændre adgangskoden her ændrer den ikke på { $webTitle }.
@@ -205,6 +211,10 @@ confirmation-dialog-dismiss-button =
     .title = Annuller
 about-logins-confirm-remove-dialog-title = Fjern dette login?
 confirm-delete-dialog-message = Denne handling kan ikke fortrydes.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Fjern adgangskoden?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Du kan ikke fortryde denne handling.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
 
 ## Variables
@@ -248,6 +258,19 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Denne handling fjerner det login, du har gemt i { -brand-short-name } på alle enheder, der er synkroniseret med din konto. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
         [one] Denne handling fjerner det login, du har gemt i { -brand-short-name } på alle enheder, der er synkroniseret med din konto. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
        *[other] Denne handling fjerner de logins, du har gemt i { -brand-short-name } på alle enheder, der er synkroniseret med din konto. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ja, fjern adgangskoden
+        [one] { "" }
+       *[other] Ja, fjern adgangskoder
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Fjern { $count } adgangskode?
+       *[other] Fjern alle { $count } adgangskoder?
     }
 
 ##
