@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Vi bruker kunstig intelligens-teknologi (AI-teknologi) fra { -fakespot-brand-full-name } for å sjekke påliteligheten til produktvurderinger. Dette vil bare hjelpe deg med å bedømme kvaliteten av vurderinger, ikke kvaliteten på selve produktetet.
 shopping-analysis-explainer-grades-intro = Vi tildeler hvert produkts vurderinger en <strong>bokstavkarakter</strong> fra A til F.
 shopping-analysis-explainer-adjusted-rating-description = Den <strong>justerte vurderingen</strong> er kun basert på anmeldelser vi mener er pålitelige.
-shopping-analysis-explainer-learn-more = Les mer om <a data-l10n-name="review-quality-url">hvordan { -fakespot-brand-full-name } bestemmer vurderingskvalitet</a>.
 shopping-analysis-explainer-learn-more2 = Les mer om <a data-l10n-name="review-quality-url">hvordan { -fakespot-brand-name } bestemmer vurderingskvalitet</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Åpne vurderingskontrolløren
 shopping-sidebar-close-button2 =
     .tooltiptext = Lukk vurderingskontrolløren
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -195,8 +186,8 @@ shopping-onboarding-dynamic-subtitle-1 = Se hvor pålitelige produktvurderinger 
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Se hvor pålitelige produktvurderinger er på <b>{ $currentSite }</b> før du handler. Vurderingskontrollør, en eksperimentell funksjon fra { -brand-product-name }, er innebygd rett i nettleseren.
 shopping-onboarding-body = Ved å bruke kraften til { -fakespot-brand-full-name } hjelper vi deg å unngå ensidige og ikke-troverdige vurderinger. AI-modellen vår blir alltid bedre for å beskytte deg mens du handler. <a data-l10n-name="learn_more">Les mer</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Ved å velge «{ shopping-onboarding-opt-in-button }» godtar du { -fakespot-brand-full-name } sine <a data-l10n-name="privacy_policy">personvernbestemmelser</a> og <a data-l10n-name="terms_of_use">brukervilkår.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Ved å velge «{ shopping-onboarding-opt-in-button }» godtar du { -fakespot-brand-name } sine <a data-l10n-name="privacy_policy">personvernbestemmelser</a> og <a data-l10n-name="terms_of_use">brukervilkår.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Ved å velge «{ shopping-onboarding-opt-in-button }» godtar du { -brand-product-name } sine <a data-l10n-name="privacy_policy">personvernbestemmelser</a> og { -fakespot-brand-name } sine <a data-l10n-name="terms_of_use">brukervilkår.</a>
 shopping-onboarding-opt-in-button = Ja, prøv det
 shopping-onboarding-not-now-button = Ikke nå
 shopping-onboarding-dialog-close-button =
