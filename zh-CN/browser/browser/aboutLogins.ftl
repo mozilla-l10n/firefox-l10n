@@ -51,7 +51,7 @@ login-list-count =
 # Variables
 #   $count (number) - Number of filtered logins
 #   $total (number) - Total number of logins
-login-list-filtered-count = { $count } 次/共 { $total } 次登录
+login-list-filtered-count = { $count } / { $total } 条登录信息
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 = { $count } 个密码
