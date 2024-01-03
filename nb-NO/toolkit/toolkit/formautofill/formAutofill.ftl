@@ -27,3 +27,4 @@ credit-card-capture-never-save-button =
 # Used on the doorhanger when an credit card change is detected.
 
 credit-card-update-doorhanger-header = Oppdatere kortet?
+credit-card-update-doorhanger-description = Kort som skal oppdateres:
