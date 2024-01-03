@@ -21,6 +21,29 @@ autofill-options-link-osx = Voorkeuren voor Formulieren automatisch invullen
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Alle opgeslagen kaarten tussen mijn apparaten synchroniseren
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Deze kaart veilig opslaan?
+credit-card-save-doorhanger-description = { -brand-short-name } versleutelt uw kaartnummer. Uw beveiligingscode wordt niet opgeslagen.
+credit-card-capture-save-button =
+    .label = Opslaan
+    .accessKey = O
+credit-card-capture-cancel-button =
+    .label = Niet nu
+    .accessKey = u
+credit-card-capture-never-save-button =
+    .label = Kaarten nooit opslaan
+    .accessKey = i
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Kaart bijwerken?
+credit-card-update-doorhanger-description = Bij te werken kaart:
+credit-card-capture-save-new-button =
+    .label = Opslaan als nieuwe kaart
+    .accessKey = k
+credit-card-capture-update-button =
+    .label = Bestaande kaart bijwerken
+    .accessKey = w

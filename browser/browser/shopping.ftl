@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = We gebruiken AI-technologie van { -fakespot-brand-full-name } om de betrouwbaarheid van productbeoordelingen te controleren. Hiermee kunt u alleen de kwaliteit van beoordelingen beoordelen, niet de productkwaliteit.
 shopping-analysis-explainer-grades-intro = We kennen aan de beoordelingen van elk product een <strong>letterwaarde</strong> toe, van A tot F.
 shopping-analysis-explainer-adjusted-rating-description = De <strong>aangepaste waardering</strong> is alleen gebaseerd op beoordelingen die wij betrouwbaar achten.
-shopping-analysis-explainer-learn-more = Meer info over <a data-l10n-name="review-quality-url">hoe { -fakespot-brand-full-name } de kwaliteit van beoordelingen bepaalt</a>.
 shopping-analysis-explainer-learn-more2 = Meer info over <a data-l10n-name="review-quality-url">hoe { -fakespot-brand-name } de kwaliteit van beoordelingen bepaalt</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Beoordelingscontrole openen
 shopping-sidebar-close-button2 =
     .tooltiptext = Beoordelingscontrole sluiten
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -195,8 +186,8 @@ shopping-onboarding-dynamic-subtitle-1 = Bekijk hoe betrouwbaar productbeoordeli
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Bekijk hoe betrouwbaar de productbeoordelingen op <b>{ $currentSite }</b> zijn voordat u koopt. Beoordelingscontrole, een experimentele functie van { -brand-product-name }, is rechtstreeks in de browser ingebouwd.
 shopping-onboarding-body = Met behulp van de kracht van { -fakespot-brand-full-name } helpen we u bevooroordeelde en niet-authentieke beoordelingen te voorkomen. Ons AI-model wordt voortdurend verbeterd om u te beschermen terwijl u winkelt. <a data-l10n-name="learn_more">Meer info</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Door ‘{ shopping-onboarding-opt-in-button }’ te selecteren, gaat u akkoord met het <a data-l10n-name="privacy_policy">privacybeleid</a> en  de <a data-l10n-name="terms_of_use">gebruiksvoorwaarden</a> van { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Door ‘{ shopping-onboarding-opt-in-button }’ te selecteren, gaat u akkoord met het <a data-l10n-name="privacy_policy">privacybeleid</a> en  de <a data-l10n-name="terms_of_use">gebruiksvoorwaarden</a> van { -fakespot-brand-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Door ‘{ shopping-onboarding-opt-in-button }’ te selecteren, gaat u akkoord met het <a data-l10n-name="privacy_policy">privacybeleid</a> van { -brand-product-name } en  de <a data-l10n-name="terms_of_use">gebruiksvoorwaarden</a> van { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Ja, proberen
 shopping-onboarding-not-now-button = Niet nu
 shopping-onboarding-dialog-close-button =
