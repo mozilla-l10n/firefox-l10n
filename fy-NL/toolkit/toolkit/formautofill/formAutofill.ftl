@@ -21,6 +21,29 @@ autofill-options-link-osx = Foarkarren foar Formulieren automatysk ynfoljen
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Alle bewarre kaarten tusken myn apparaten syngronisearje
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Dizze kaart feilich bewarje?
+credit-card-save-doorhanger-description = { -brand-short-name } fersiferet jo kaartnûmer. Jo befeiligingskoade wurdt net bewarre.
+credit-card-capture-save-button =
+    .label = Bewarje
+    .accessKey = B
+credit-card-capture-cancel-button =
+    .label = No net
+    .accessKey = o
+credit-card-capture-never-save-button =
+    .label = Kaarten nea bewarje
+    .accessKey = j
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Kaart bywurkje?
+credit-card-update-doorhanger-description = By te wurkjen kaart:
+credit-card-capture-save-new-button =
+    .label = Bewarje as nije kaart
+    .accessKey = k
+credit-card-capture-update-button =
+    .label = Besteande kaart bywurkje
+    .accessKey = w

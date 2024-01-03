@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Ynhâldsanalyse wurdt útfierd
 contentanalysis-slow-agent-dialog-body = Ynhâldsanalyse analysearret boarne ‘{ $content }’
 contentanalysis-operationtype-clipboard = klamboerd
 contentanalysis-operationtype-dropped-text = plakte tekst
+contentanalysis-warndialogtitle = Dizze ynhâld is mooglik ûnfeilich
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Jo organisaasje brûkt software foar it foarkommen fan gegevensferlies dy’t de folgjende ynhâld as ûnfeilich labele hat: { $content }. Dochs brûke?
+contentanalysis-warndialog-response-allow = Ynhâld brûke
+contentanalysis-warndialog-response-deny = Annulearje
 contentanalysis-notification-title = Ynhâldsanalyse
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
