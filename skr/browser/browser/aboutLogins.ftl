@@ -96,6 +96,8 @@ about-logins-intro-import2 = جے تہاݙے لاگ ان { -brand-product-name }
 ## Login
 
 login-item-new-login-title = نواں لاگ ان بݨاؤ
+# Header for adding a password
+about-logins-login-item-new-login-title = پاس ورڈ شامل کرو
 login-item-edit-button = تبدیلی کرو
 about-logins-login-item-remove-button = ہٹاؤ
 login-item-origin-label = ویب سائٹ پتہ
