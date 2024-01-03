@@ -794,9 +794,9 @@ sync-engine-creditcards =
     .label = Kreditkarten
     .tooltiptext = Namen, Nummern und Gültigkeitsdatum (nur für Desktops)
     .accesskey = K
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Zahlungsmethoden
-    .tooltiptext = Namen, Kartennummern und Gültigkeitsdatum (nur für Desktops)
+    .tooltiptext = Namen, Kartennummern und Gültigkeitsdatum
     .accesskey = Z
 sync-engine-addons =
     .label = Add-ons
@@ -844,18 +844,35 @@ pane-privacy-logins-and-passwords-header = Zugangsdaten und Passwörter
 forms-ask-to-save-logins =
     .label = Fragen, ob Zugangsdaten und Passwörter für Websites gespeichert werden sollen
     .accesskey = F
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Passwörter
+    .searchkeywords = Zugangsdaten
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Fragen, ob Passwörter gespeichert werden sollen
+    .accesskey = F
 forms-exceptions =
     .label = Ausnahmen…
     .accesskey = u
 forms-generate-passwords =
     .label = Starke Passwörter erzeugen und vorschlagen
     .accesskey = P
+forms-suggest-passwords =
+    .label = Starke Passwörter vorschlagen
+    .accesskey = S
 forms-breach-alerts =
     .label = Alarme für Passwörter, deren Websites von einem Datenleck betroffen waren
     .accesskey = A
 forms-breach-alerts-learn-more-link = Weitere Informationen
 preferences-relay-integration-checkbox =
     .label = { -relay-brand-name }-E-Mail-Masken zum Schutz Ihrer E-Mail-Adresse vorschlagen
+preferences-relay-integration-checkbox2 =
+    .label = { -relay-brand-name }-E-Mail-Masken zum Schutz Ihrer E-Mail-Adresse vorschlagen
+    .accesskey = E
 relay-integration-learn-more-link = Weitere Informationen
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -863,6 +880,13 @@ forms-fill-logins-and-passwords =
     .accesskey = Z
 forms-saved-logins =
     .label = Gespeicherte Zugangsdaten…
+    .accesskey = G
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Benutzernamen und Passwörter automatisch ausfüllen
+    .accesskey = a
+forms-saved-passwords =
+    .label = Gespeicherte Passwörter
     .accesskey = G
 forms-primary-pw-use =
     .label = Hauptpasswort verwenden
@@ -887,6 +911,7 @@ forms-windows-sso =
     .label = Windows Single Sign-on für Microsoft-, Geschäfts- und Schulkonten erlauben
 forms-windows-sso-learn-more-link = Weitere Informationen
 forms-windows-sso-desc = Verwalten Sie Konten in Ihren Geräteeinstellungen.
+windows-passkey-settings-label = Passkeys in den Systemeinstellungen verwalten
 
 ## OS Authentication dialog
 
@@ -898,6 +923,20 @@ primary-password-os-auth-dialog-message-win = Um ein Hauptpasswort zu erstellen,
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Hauptpasswort festlegen
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Automatisch ausfüllen
+autofill-addresses-checkbox = Adressen speichern und ausfüllen
+    .accesskey = A
+autofill-saved-addresses-button = Gespeicherte Adressen
+    .accesskey = G
+autofill-payment-methods-checkbox-message = Zahlungsmethoden speichern und ausfüllen
+    .accesskey = Z
+autofill-payment-methods-checkbox-submessage = Einschließlich Kredit- und Debitkarten
+    .accesskey = E
+autofill-saved-payment-methods-button = Gespeicherte Zahlungsmethoden
+    .accesskey = G
 
 ## Privacy Section - History
 
