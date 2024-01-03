@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Преглед на последно разглежданото в други прозорци и устройства
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = ф
@@ -42,6 +45,7 @@ firefoxview-tabpickup-signed-out-primarybutton = Вписване
 firefoxview-mobile-promo-header = Вземете разделите от вашия телефон или таблет
 firefoxview-mobile-confirmation-header = 🎉 Готово!
 firefoxview-closed-tabs-title = Наскоро затворени
+firefoxview-closed-tabs-placeholder-header = Няма наскоро затворени раздели
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Последна активност
 firefoxview-try-colorways-button = Опитайте цветовете
@@ -56,18 +60,25 @@ firefoxview-collapse-button-show =
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = История
+    .title = История
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Последно затворени раздели
+    .title = Последно затворени раздели
+firefoxview-recently-closed-header = Последно затворени раздели
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
 
 ##
 
+firefoxview-sort-history-by-date-label = Сортиране по дата
+firefoxview-sort-history-by-site-label = Сортиране по страница
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -75,18 +86,26 @@ firefoxview-collapse-button-show =
 
 ##
 
+firefoxview-show-all-history = Цялата история
 
 ## Message displayed in Firefox View when the user has no history data
 
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Изберете мрежов четец
+    .title = Изберете мрежов четец
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Затваряне
+    .title = Затваряне
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
