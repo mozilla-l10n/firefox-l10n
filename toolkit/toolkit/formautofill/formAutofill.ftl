@@ -20,6 +20,10 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Ikke nå
     .accessKey = k
+credit-card-capture-never-save-button =
+    .label = Lagre aldri kort
+    .accessKey = L
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Oppdatere kortet?
