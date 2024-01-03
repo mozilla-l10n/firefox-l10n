@@ -73,9 +73,17 @@ item-cache =
 item-cached-content =
     .label = Midlertidig bufrede filer og sider
     .accesskey = M
+item-cached-content-description = Fjerner elementer som hjelper nettsteder å laste raskere
 item-form-search-history =
     .label = Skjema- og søkehistorikk
     .accesskey = S
+item-site-prefs =
+    .label = Nettstedsinnstillinger
+    .accesskey = e
+item-site-prefs-description = Tilbakestiller tillatelsene og nettstedsinnstillinger til de opprinnelige innstillingene
+item-download-history =
+    .label = Liste over nedlastede filer
+    .accesskey = L
 data-section-label = Data
 item-site-settings =
     .label = Nettstedsinnstillinger
@@ -88,6 +96,8 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Slett nå
+sanitize-button-ok2 =
+    .label = Tøm
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
