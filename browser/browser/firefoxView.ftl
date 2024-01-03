@@ -31,8 +31,15 @@ firefoxview-tabpickup-step-signin-header = Превключвайте безпр
 firefoxview-tabpickup-step-signin-description = За да вземете разделите от телефона си, първо влезте или създайте профил.
 firefoxview-tabpickup-step-signin-primarybutton = Напред
 firefoxview-syncedtabs-signin-header = Вземете раздели от всякъде
+firefoxview-syncedtabs-signin-description = За да видите разделите от другите места, на които използвате { -brand-product-name } влезте в профила. Ако нямате ще ви преведем през стъпките на регистрацията.
 firefoxview-syncedtabs-signin-primarybutton = Вписване или регистриране
+firefoxview-tabpickup-adddevice-header = Синхронизирайте { -brand-product-name } на вашия телефон или таблет
+firefoxview-tabpickup-adddevice-description = Изтеглете { -brand-product-name } за мобилно устройство и влезте там.
 firefoxview-tabpickup-adddevice-learn-how = Научете как
+firefoxview-tabpickup-adddevice-primarybutton = Изтеглете { -brand-product-name } за телефон
+firefoxview-syncedtabs-adddevice-header = Влезте в/ъв { -brand-product-name } на другите си устройства
+firefoxview-syncedtabs-adddevice-description = За да видите разделите от другите места, на които използвате { -brand-product-name } влезте във всичките си устройства. Научете как <a data-l10n-name="url">да свържете допълнителни устройства</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Опитайте { -brand-product-name } за телефон
 firefoxview-tabpickup-synctabs-header = Включване синхронизирането на раздели
 firefoxview-tabpickup-synctabs-learn-how = Научете как
 firefoxview-tabpickup-network-offline-header = Проверете връзката с интернет
