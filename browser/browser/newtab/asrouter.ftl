@@ -246,7 +246,7 @@ device-migration-fxa-spotlight-older-device-header = Unbesorgt mit { -brand-prod
 device-migration-fxa-spotlight-older-device-body = Mit einem Konto bleiben Ihre wichtigen Daten auf jedem verbundenen Gerät aktuell und geschützt.
 device-migration-fxa-spotlight-older-device-primary-button = Konto erstellen
 device-migration-fxa-spotlight-getting-new-device-header-2 = Planen Sie die Anschaffung eines neuen Geräts?
-device-migration-fxa-spotlight-getting-new-device-body = Sichern Sie jetzt Ihre Daten, damit Sie bereit sind, wenn das Gerät ankommt.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Befolgen Sie nur wenige einfache Schritte, um Ihre Lesezeichen, Chronik und Passwörter bei den ersten Schritten auf einem neuen Gerät mitzunehmen.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Wie die Datensicherung funktioniert
 
 ## Set as Default PDF Reader Infobar

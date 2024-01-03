@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Zugangsdaten für die folgenden Websites werden nicht gespeichert:
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Ausnahmen - Gespeicherte Passwörter
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } speichert keine Passwörter für die hier aufgeführten Websites.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
