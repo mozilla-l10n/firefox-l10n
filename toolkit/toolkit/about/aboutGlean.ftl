@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (ikke send inn noen ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Sørg for at det i det foregående feltet er en feilsøkingskode som du kan huske, slik at du kan gjenkjenne pingene dine senere.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Angi en minneverdig feilsøkingskode <span>(20 tegn eller færre, alfanumeriske og - kun det)</span> slik at du kan gjenkjenne pingene dine senere.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =

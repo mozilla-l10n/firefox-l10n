@@ -12,6 +12,9 @@ contentanalysis-slow-agent-dialog-title = Innholdsanalyse pågår
 contentanalysis-slow-agent-dialog-body = Innholdsanalyse analyserer ressursen «{ $content }»
 contentanalysis-operationtype-clipboard = utklippstavle
 contentanalysis-operationtype-dropped-text = sluppet tekst
+contentanalysis-warndialogtitle = Dette innholdet kan være usikkert
+contentanalysis-warndialog-response-allow = Bruk innhold
+contentanalysis-warndialog-response-deny = Avbryt
 contentanalysis-notification-title = Innholdsanalyse
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
