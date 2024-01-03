@@ -5,20 +5,19 @@
 sanitize-prefs2 =
     .title = Instellingen voor het wissen van geschiedenis
     .style = min-width: 34em
-
 sanitize-prefs-style =
     .style = width: 17em
-
+sanitize-dialog-title2 =
+    .title = Navigatiegegevens en cookies wissen
+    .style = min-width: 34em
 sanitize-dialog-title =
     .title = Recente geschiedenis wissen
     .style = min-width: 34em
-
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
     .title = Alle geschiedenis wissen
     .style = min-width: 34em
-
 clear-data-settings-label = Als { -brand-short-name } wordt afgesloten, automatisch het volgende wissen
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
@@ -32,22 +31,19 @@ clear-data-settings-label = Als { -brand-short-name } wordt afgesloten, automati
 clear-time-duration-prefix =
     .value = Te wissen tijdsperiode:{ " " }
     .accesskey = T
-
+clear-time-duration-prefix2 =
+    .value = Wanneer:
+    .accesskey = W
 clear-time-duration-value-last-hour =
     .label = Laatste uur
-
 clear-time-duration-value-last-2-hours =
     .label = Laatste twee uur
-
 clear-time-duration-value-last-4-hours =
     .label = Laatste vier uur
-
 clear-time-duration-value-today =
     .label = Vandaag
-
 clear-time-duration-value-everything =
     .label = Alles
-
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -55,55 +51,61 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Geschiedenis
-
 item-history-and-downloads =
     .label = Navigatie- & downloadgeschiedenis
     .accesskey = N
-
+item-browsing-and-search =
+    .label = Bezochte websites, opgeslagen formulierinformatie en zoekopdrachten
+    .accesskey = z
 item-cookies =
     .label = Cookies
     .accesskey = C
-
+item-cookies-site-data =
+    .label = Cookies en websitegegevens
+    .accesskey = e
+item-cookies-site-data-description = Kan u afmelden bij websites of winkelwagens legen
 item-active-logins =
     .label = Actieve aanmeldingen
     .accesskey = A
-
 item-cache =
     .label = Buffer
     .accesskey = B
-
+item-cached-content =
+    .label = Tijdelijk gebufferde bestanden en pagina’s
+    .accesskey = t
+item-cached-content-description = Wist items die websites helpen sneller te laden
 item-form-search-history =
     .label = Formulier- & zoekgeschiedenis
     .accesskey = F
-
+item-site-prefs =
+    .label = Website-instellingen
+    .accesskey = i
+item-site-prefs-description = Zet uw toestemmingen en websitevoorkeuren terug naar de oorspronkelijke instellingen
+item-download-history =
+    .label = Lijst met gedownloade bestanden
+    .accesskey = d
 data-section-label = Gegevens
-
 item-site-settings =
     .label = Website-instellingen
     .accesskey = s
-
 item-offline-apps =
     .label = Offlinewebsitegegevens
     .accesskey = O
-
 sanitize-everything-undo-warning = Deze actie kan niet ongedaan worden gemaakt.
-
 window-close =
     .key = w
-
 sanitize-button-ok =
     .label = Nu wissen
-
+sanitize-button-ok2 =
+    .label = Wissen
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Wissen
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Alle geschiedenis zal worden gewist.
-
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

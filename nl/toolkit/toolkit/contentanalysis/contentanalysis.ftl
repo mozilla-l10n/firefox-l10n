@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Inhoudsanalyse wordt uitgevoerd
 contentanalysis-slow-agent-dialog-body = Inhoudsanalyse analyseert bron ‘{ $content }’
 contentanalysis-operationtype-clipboard = klembord
 contentanalysis-operationtype-dropped-text = geplakte tekst
+contentanalysis-warndialogtitle = Deze inhoud is mogelijk onveilig
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Uw organisatie gebruikt software voor het voorkomen van gegevensverlies die de volgende inhoud heeft gelabeld als onveilig: { $content }. Toch gebruiken?
+contentanalysis-warndialog-response-allow = Inhoud gebruiken
+contentanalysis-warndialog-response-deny = Annuleren
 contentanalysis-notification-title = Inhoudsanalyse
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
