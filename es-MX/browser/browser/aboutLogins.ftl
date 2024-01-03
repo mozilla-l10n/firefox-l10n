@@ -255,6 +255,38 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Esto eliminará el inicio de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
        *[other] Esto eliminará todos los inicios de sesión que guardó en { -brand-short-name } en todos los dispositivos sincronizados con su { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrá deshacer esta acción.
     }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] Esto eliminará el inicio de sesión que guardaste en { -brand-short-name } en todos los dispositivos sincronizados a tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
+        [one] Esto eliminará todos los inicios de sesión que guardaste en { -brand-short-name } en todos los dispositivos sincronizados a tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
+       *[other] { "" }
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Sí, eliminar contraseña
+        [one] Sí, eliminar contraseñas
+       *[other] { "" }
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] ¿Eliminar { $count } contraseña?
+       *[other] ¿Eliminar { $count } contraseñas?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. Esta acción no se puede deshacer.
+        [one] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. Esta acción no se puede deshacer.
+       *[other] { "" }
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] ¿Eliminar { $count } contraseña de todos los dispositivos?
+       *[other] ¿Eliminar { $count } contraseñas de todos los dispositivos?
+    }
 
 ##
 
