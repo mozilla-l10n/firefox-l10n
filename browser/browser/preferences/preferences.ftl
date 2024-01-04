@@ -928,6 +928,18 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 pane-privacy-autofill-header = Autofyld
 autofill-addresses-checkbox = Gem og udfyld adresser
     .accesskey = u
+autofill-saved-addresses-button = Gemte adresser
+    .accesskey = G
+autofill-payment-methods-checkbox-message = Gem og udfyld betalingsmetoder
+    .accesskey = b
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Kræv MacOS-godkendelse for at udfylde og redigere betalingsmetoder
+        [windows] Kræv Windows-godkendelse for at udfylde og redigere betalingsmetoder
+        [linux] Kræv Linux-godkendelse for at udfylde og redigere betalingsmetoder
+       *[other] Kræv godkendelse for at udfylde og redigere betalingsmetoder
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
