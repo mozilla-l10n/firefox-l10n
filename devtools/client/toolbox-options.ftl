@@ -38,6 +38,11 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Klikoni dhe tërhiqeni që të përpunoni vlera madhësie
 options-inspector-draggable-properties-tooltip =
     .title = Klikoni dhe tërhiqeni që të përpunoni vlera madhësie te pamja rregulla mbikëqyrësi.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Përdorni theksues më të thjeshtë, me prefers-reduced-motion
+options-inspector-simplified-highlighters-tooltip =
+    .title = Aktivizon theksues të thjeshtuar, kur prefers-reduced-motion është e aktivizuar. Vizatohen vija, në vend se drejtkëndësha të mbushur, përreth elementësh të theksuar, për të shmangur efekte xixëllimi.
 
 ## "Default Color Unit" options for the Inspector
 
@@ -46,6 +51,7 @@ options-default-color-unit-authored = Si e Autorit
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Emra Ngjyrash
 
 ## Style Editor section
