@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Për të kontrolluar besueshmërinë e shqyrtimeve të produkteve, ne përdorim teknologji IA nga { -fakespot-brand-full-name }. Kjo do t’ju ndihmojë vetëm të vlerësoni cilësinë e shqyrtimeve, jo cilësinë e produkteve.
 shopping-analysis-explainer-grades-intro = I caktojmë çdo shqyrtimi të produktit një <strong>vlerësim me shkronjë</strong> nga A në F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Vlerësimi i rregulluar</strong> bazohet vetëm në shqyrtime që besojmë se janë të besueshme.
-shopping-analysis-explainer-learn-more = Mësoni më tepër mbi <a data-l10n-name="review-quality-url">se si { -fakespot-brand-full-name } përcakton cilësinë e shqyrtimeve</a>.
 shopping-analysis-explainer-learn-more2 = Mësoni më tepër mbi <a data-l10n-name="review-quality-url">se si { -fakespot-brand-name } përcakton cilësinë e shqyrtimeve</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Hap kontrollorin e shqyrtimeve
 shopping-sidebar-close-button2 =
     .tooltiptext = Mbylle kontrollorin e shqyrtimeve
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -195,8 +186,8 @@ shopping-onboarding-dynamic-subtitle-1 = Shihni sa të besueshme janë shqyrtime
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Shihni se sa të besueshme janë shqyrtime produktesh në <b>{ $currentSite }</b>, para se të blini. Kontrollori i Shqyrtimeve, një veçori eksperimentale prej { -brand-product-name }, është ndërtuar drejt e në shfletues.
 shopping-onboarding-body = Duke përdorur fuqinë e { -fakespot-brand-full-name }, ju ndihmojmë të shmangni shqyrtime të njëanshme dhe jo të mirëfillta. Modeli ynë IA përmirësohet përherë, për t’ju mbrojtur teksa blini. <a data-l10n-name="learn_more">Mësoni më tepër</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Duke përzgjedhur “{ shopping-onboarding-opt-in-button }“ pajtoheni me <a data-l10n-name="privacy_policy">rregulla privatësie</a> dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> të { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Duke përzgjedhur “{ shopping-onboarding-opt-in-button }“ pajtoheni me <a data-l10n-name="privacy_policy">rregulla privatësie</a> dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> të { -fakespot-brand-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Duke përzgjedhur “{ shopping-onboarding-opt-in-button }“, pajtoheni me <a data-l10n-name="privacy_policy">rregulla privatësie</a> të { -brand-product-name }-it dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> të { -fakespot-brand-name }-it.
 shopping-onboarding-opt-in-button = Po, provojeni
 shopping-onboarding-not-now-button = Jo tani
 shopping-onboarding-dialog-close-button =
