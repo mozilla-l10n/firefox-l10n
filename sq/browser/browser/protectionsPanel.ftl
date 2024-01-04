@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Mbrojtja e Thelluar Nga Gjurmimet është OFF
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Mbrojtje e Thelluar Nga Gjurmimi
-    .description = Aktive për këtë sajt
-    .aria-label = Çaktivizo mbrojtje për { $host }
-protections-panel-etp-off-toggle =
-    .label = Mbrojtje e Thelluar Nga Gjurmimi
-    .description = Jo aktive për këtë sajt
-    .aria-label = Aktivizo mbrojtje për { $host }
 protections-panel-etp-toggle-on =
     .label = Mbrojtje e Thelluar Nga Gjurmimi
     .description = On për këtë sajt
@@ -101,7 +93,7 @@ protections-panel-site-not-working-view-send-report = Dërgoni një raport
 
 ##
 
-protections-panel-cross-site-tracking-cookies = Këto cookies ju ndjekin nga sajti në sajt për të mbledhur të dhëna rreth çka bëni në internet. Ato depozitohen nga palë të treta, të tilla si shoqëri reklamash dhe analizash.
+protections-panel-cross-site-tracking-cookies = Këto “cookies” ju ndjekin nga sajti në sajt për të mbledhur të dhëna rreth çka bëni në internet. Ato depozitohen nga palë të treta, të tilla si shoqëri reklamash dhe analizash.
 protections-panel-cryptominers = Nxjerrësit e kriptomonedhave e përdorin fuqinë përllogaritëse të sistemit tuaj për të nxjerrë para dixhitale. Programthet për nxjerrje kriptomonedhash konsumojnë energjinë e baterisë tuaj, ngadalësojnë kompjuterin tuaj dhe mund të sjellin shtim të faturës tuaj për energjinë.
 protections-panel-fingerprinters = Krijuesit e shenjave të gishtave (<em>Fingerprinters</em>) grumbullojnë rregullime nga shfletuesi dhe kompjuteri juaj për të krijuar një profil rreth jush. Duke përdorur këto shenja dixhitale gishtash, ata mund t’ju ndjekin nëpër sajte të ndryshme.
 protections-panel-tracking-content = Sajtet mund të ngarkojnë reklama, video dhe tjetër lëndë të jashtme me kod gjurmimi. Bllokimi i lëndës gjurmuese mund të ndihmojë për ngarkimin më të shpejtë të sajteve, por disa butona, formularë dhe fusha kredenciale hyrjesh mund të mos punojnë.
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Të çaktivizoh
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Të aktivizohet Bllokim Banderolash Cookie-sh për këtë sajt?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name }-i do të spastrojë cookie-t për këtë sajt dhe do të rifreskojë faqen. Spastrimi i krejt cookie-ve mund të sjellë nxjerrjen tuaj nga llogaria, ose zbrazje shportash blerjesh.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }-i provon të hedhë poshtë automatikisht krejt kërkesat për cookies, në sajtet që e mbulojnë.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Aktivizojeni dhe { -brand-short-name } do të provojë të hedhë poshtë automatikisht banderola cookie-sh në këtë sajt.
 protections-panel-cookie-banner-view-cancel = Anuloje
 protections-panel-cookie-banner-view-turn-off = Çaktivizoje
 protections-panel-cookie-banner-view-turn-on = Aktivizoje
+protections-panel-cookie-banner-blocker-view-turn-on-description = Aktivizojeni dhe { -brand-short-name } do të provojë të hedhë poshtë automatikisht banderola cookie-sh në këtë sajt.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Anuloje
 protections-panel-cookie-banner-view-turn-off-label =
