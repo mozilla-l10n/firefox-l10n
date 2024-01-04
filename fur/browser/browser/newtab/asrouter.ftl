@@ -246,7 +246,7 @@ device-migration-fxa-spotlight-older-device-header = Trancuilitât, di { -brand-
 device-migration-fxa-spotlight-older-device-body = Un account al ten inzornadis e protetis lis tôs informazions impuartantis su cualsisei dispositîf conetût.
 device-migration-fxa-spotlight-older-device-primary-button = Cree un account
 device-migration-fxa-spotlight-getting-new-device-header-2 = Gnûf dispositîf tal to futûr?
-device-migration-fxa-spotlight-getting-new-device-body = Salve daurman i tiei dâts, in mût di jessi pront par cuant che al rive il to dispositîf.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Sta daûr di cualchi sempliç passaç par puartâ cun te segnelibris, cronologjie e passwords cuant che tu tachis a doprâ un gnûf dispositîf.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Cemût salvâ i miei dâts
 
 ## Set as Default PDF Reader Infobar

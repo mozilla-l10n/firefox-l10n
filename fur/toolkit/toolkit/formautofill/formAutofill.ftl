@@ -24,6 +24,26 @@ autofill-options-link-osx = Preferencis compilazion automatiche formularis
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = Sincornize lis cjartis salvadis su ducj i miei dispositîfs
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Salvâ cheste cjarte in maniere sigure?
+credit-card-save-doorhanger-description = { -brand-short-name } al cifre il numar de tô cjarte. Il codiç di sigurece nol vignarà salvât.
+credit-card-capture-save-button =
+    .label = Salve
+    .accessKey = S
+credit-card-capture-cancel-button =
+    .label = No cumò
+    .accessKey = N
+credit-card-capture-never-save-button =
+    .label = No sta salvâ mai lis cjartis
+    .accessKey = M
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Inzornâ la cjarte?
+credit-card-update-doorhanger-description = Cjarte di inzornâ:
+credit-card-capture-save-new-button =
+    .label = Salve come gnove cjarte
+    .accessKey = C
+credit-card-capture-update-button =
+    .label = Inzorne cjarte esistente
+    .accessKey = I
