@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Gem adgangskode til { $host }?
+password-manager-save-password-button-deny =
+    .label = Ikke nu
+    .accesskey = n
 password-manager-save-password-button-allow =
     .label = Gem
     .accesskey = G
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Opdater adgangskode for { $host }?
+password-manager-update-password-button-delete =
+    .label = Fjern gemt adgangskode
+    .accesskey = F
 password-manager-update-login-add-username = Føj brugernavn til gemt adgangskode?
 password-manager-password-password-button-allow =
     .label = Opdater

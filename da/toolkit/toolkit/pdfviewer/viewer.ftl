@@ -368,6 +368,8 @@ pdfjs-editor-resizer-label-middle-left = Midten til venstre — tilpas størrels
 
 # This means "Color used to highlight text"
 pdfjs-editor-highlight-colorpicker-label = Fremhævningsfarve
+pdfjs-editor-colorpicker-button =
+    .title = Skift farve
 pdfjs-editor-colorpicker-dropdown =
     .aria-label = Farvevalg
 pdfjs-editor-colorpicker-yellow =
