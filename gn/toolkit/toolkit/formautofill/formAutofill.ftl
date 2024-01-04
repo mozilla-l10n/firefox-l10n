@@ -33,3 +33,11 @@ credit-card-capture-never-save-button =
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = ¿Embohekopyahu kuatia’atã?
+credit-card-update-doorhanger-description = Kuatia’atã hekopyahútava:
+credit-card-capture-save-new-button =
+    .label = Eñongatu kuatia’atã pyahúramo
+    .accessKey = C
+credit-card-capture-update-button =
+    .label = Embohekopyahu kuatia’atã oĩvavoi
+    .accessKey = U
