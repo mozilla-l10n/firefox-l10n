@@ -96,9 +96,9 @@ imported-edge-reading-list = Listë Leximesh (Prej Edge-it)
 ## normalized to just "edge" and "chrome" for these strings.
 
 browser-data-cookies-checkbox =
-    .label = Cookies
+    .label = “Cookies”
 browser-data-cookies-label =
-    .value = Cookies
+    .value = “Cookies”
 browser-data-history-checkbox =
     .label =
         { $browser ->
