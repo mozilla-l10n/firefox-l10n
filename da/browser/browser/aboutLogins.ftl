@@ -272,6 +272,12 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] Fjern { $count } adgangskode?
        *[other] Fjern alle { $count } adgangskoder?
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Fjern { $count } adgangskode fra alle enheder?
+       *[other] Fjern alle { $count } adgangskoder fra alle enheder?
+    }
 
 ##
 

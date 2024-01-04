@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Gemte adresser
 autofill-manage-addresses-list-header = Adresser
 autofill-manage-credit-cards-title = Gemte betalingskort
 autofill-manage-credit-cards-list-header = Betalingskort
+autofill-manage-payment-methods-title = Gemte betalingsmetoder
+autofill-manage-cards-list-header = Kort
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Fjern
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Adresse-indstillinger
 address-capture-learn-more-button =
     .label = Læs mere
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Tilføj ny adresse
 address-capture-open-menu-button =
     .aria-label = Åbn menu
 address-capture-edit-address-button =
     .aria-label = Rediger adresse
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Tilføj ny adresse
+autofill-add-address-title = Tilføj adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediger adresse
 autofill-address-name = Navn
@@ -114,7 +118,6 @@ autofill-address-email = Mailadresse
 autofill-cancel-button = Fortryd
 autofill-save-button = Gem
 autofill-country-warning-message = Autoudfyldning af adresser er lige nu kun tilgængelig i udvalgte lande.
-autofill-message-tooltip = Vis meddelelse om autofyldning
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Tilføj nyt betalingskort
 # The dialog title for editing credit cards in browser preferences.
@@ -127,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } forsøger at vise information om et betalingskort. Bekræft adgang til Windows-kontoen nedenfor.
        *[other] { -brand-short-name } forsøger at vise information om et betalingskort.
     }
+autofill-message-tooltip = Vis meddelelse om autofyldning
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Tilføj kort
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Rediger kort
 autofill-card-number = Kortnummer
 autofill-card-invalid-number = Angiv et gyldigt kortnummer
 autofill-card-name-on-card = Navn på kort
