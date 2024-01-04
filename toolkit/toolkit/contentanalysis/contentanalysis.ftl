@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Indholdsanalyse er i gang
 contentanalysis-slow-agent-dialog-body = Indholdsanalyse analyserer ressourcen "{ $content }"
 contentanalysis-operationtype-clipboard = udklipsholder
 contentanalysis-operationtype-dropped-text = sluppet tekst
+contentanalysis-warndialogtitle = Dette indhold kan være usikkert
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Din organisation bruger software til at forhindre tab af data. Softwaren har markeret følgende indhold som usikkert: { $content }. Vil du bruge det alligevel?
+contentanalysis-warndialog-response-allow = Brug indhold
+contentanalysis-warndialog-response-deny = Annuller
 contentanalysis-notification-title = Indholdsanalyse
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
