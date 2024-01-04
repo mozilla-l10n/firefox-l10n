@@ -187,6 +187,7 @@ shopping-onboarding-dynamic-subtitle-1 = Se hvor pålidelige anmeldelserne af pr
 shopping-onboarding-single-subtitle = Se, hvor pålidelige anmeldelserne af produkter på <b>{ $currentSite }</b> er, før du handler. Verificering af anmeldelser, en eksperimentel funktion fra { -brand-product-name }, er indbygget i browseren.
 shopping-onboarding-body = Ved hjælp af { -fakespot-brand-full-name } kan vi hjælpe dig med at undgå partiske og upålidelige anmeldelser. Vores AI-model forbedres hele tiden for at beskytte dig, når du shopper. <a data-l10n-name="learn_more">Læs mere</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Ved at vælge “{ shopping-onboarding-opt-in-button }“ accepterer du { -fakespot-brand-name }s <a data-l10n-name="privacy_policy">privatlivspolitik</a> og <a data-l10n-name="terms_of_use">betingelser for brug.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Ved at vælge “{ shopping-onboarding-opt-in-button }“ accepterer du { -brand-product-name }' <a data-l10n-name="privacy_policy">privatlivspolitik</a>  samt { -fakespot-brand-name }s <a data-l10n-name="terms_of_use">betingelser for brug.</a>
 shopping-onboarding-opt-in-button = Ja, prøv det
 shopping-onboarding-not-now-button = Ikke nu
 shopping-onboarding-dialog-close-button =
