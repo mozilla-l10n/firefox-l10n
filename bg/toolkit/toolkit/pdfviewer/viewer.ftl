@@ -329,6 +329,8 @@ pdfjs-editor-stamp-add-image-button-label = Добавяне на изображ
 pdfjs-free-text =
     .aria-label = Текстов редактор
 pdfjs-free-text-default-content = Започнете да пишете…
+pdfjs-ink =
+    .aria-label = Промяна на рисунка
 pdfjs-ink-canvas =
     .aria-label = Изображение, създадено от потребител
 
