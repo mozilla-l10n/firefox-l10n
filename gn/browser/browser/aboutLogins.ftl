@@ -287,6 +287,13 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] ¿Emboguete ñe’ẽñemi { $count } opaite mba’e’okágui?
        *[other] ¿Emboguete ñe’ẽñemi { $count } opaite mba’e’okágui?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Kóva omboguéta opaite ñe’ẽñemi ñongatupyre { -brand-short-name } pegua ne mba’e’okakuéra ojuehepyréva. Kóva avei omboguéta oimeraẽva ñembogua kyhyjerã osẽva ko’ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
+        [one] Kóva omboguéta opaite ñe’ẽñemi ñongatupyre { -brand-short-name } pegua ne mba’e’okakuéra ojuehepyréva. Kóva avei omboguéta oimeraẽva ñembogua kyhyjerã osẽva ko’ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
+       *[other] Kóva omboguéta opaite ñe’ẽñemi ñongatupyre { -brand-short-name } pegua ne mba’e’okakuéra ojuehepyréva. Kóva avei omboguéta oimeraẽva ñembogua kyhyjerã osẽva ko’ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
+    }
 
 ##
 
