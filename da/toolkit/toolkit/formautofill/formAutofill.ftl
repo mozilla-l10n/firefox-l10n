@@ -5,12 +5,39 @@
 
 ## OS Prompt Dialog
 
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } forsøger at bruge oplysninger om gemte betalingsmetoder. Godkend adgang til denne Windows-konto.
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } forsøger at bruge oplysninger om gemte betalingsmetoder.
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } forsøger at vise oplysninger om gemte betalingsmetoder. Godkend adgang til denne Windows-konto.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } forsøger at vise oplysninger om gemte betalingsmetoder.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Indstillinger for autofyldning af formularer
 autofill-options-link-osx = Indstillinger for autofyldning af formularer
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Synkroniser alle gemte kort på tværs af mine enheder
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Gem dette kort sikkert?
+credit-card-save-doorhanger-description = { -brand-short-name } krypterer dit kortnummer. Din sikkerhedskode bliver ikke gemt.
+credit-card-capture-save-button =
+    .label = Gem
+    .accessKey = G
+credit-card-capture-cancel-button =
+    .label = Ikke nu
+    .accessKey = u
+credit-card-capture-never-save-button =
+    .label = Gem aldrig kort
+    .accessKey = G
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Opdater kort?
+credit-card-update-doorhanger-description = Kort, som skal opdateres:
+credit-card-capture-save-new-button =
+    .label = Gem som nyt kort
+    .accessKey = k
+credit-card-capture-update-button =
+    .label = Opdater eksisterende kort
+    .accessKey = O
