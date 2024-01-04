@@ -794,9 +794,9 @@ sync-engine-creditcards =
     .label = Betalingskort
     .tooltiptext = Navne, numre og udløbsdatoer (kun til computer)
     .accesskey = e
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Betalingsmetoder
-    .tooltiptext = Navne, kortnumre og udløbsdatoer (kun til computer)
+    .tooltiptext = Navne, kortnumre og udløbsdatoer
     .accesskey = e
 sync-engine-addons =
     .label = Tilføjelser
@@ -844,11 +844,25 @@ pane-privacy-logins-and-passwords-header = Logins og adgangskoder
 forms-ask-to-save-logins =
     .label = Spørg om at gemme logins og adgangskoder til websteder
     .accesskey = l
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Adgangskoder
+    .searchkeywords = logins
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Spørg om at gemme adgangskoder
+    .accesskey = p
 forms-exceptions =
     .label = Undtagelser…
     .accesskey = U
 forms-generate-passwords =
     .label = Hjælp med at lave stærke adgangskoder
+    .accesskey = s
+forms-suggest-passwords =
+    .label = Foreslå stærke adgangskoder
     .accesskey = s
 forms-breach-alerts =
     .label = Vis advarsler om adgangskoder for hackede websteder
@@ -856,6 +870,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Læs mere
 preferences-relay-integration-checkbox =
     .label = Foreslå { -relay-brand-name }-mail-masker for at beskytte din mailadresse
+preferences-relay-integration-checkbox2 =
+    .label = Foreslå { -relay-brand-name }-mail-masker for at beskytte din mailadresse
+    .accesskey = F
 relay-integration-learn-more-link = Læs mere
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -863,6 +880,9 @@ forms-fill-logins-and-passwords =
     .accesskey = i
 forms-saved-logins =
     .label = Gemte logins…
+    .accesskey = G
+forms-saved-passwords =
+    .label = Gemte adgangskoder
     .accesskey = G
 forms-primary-pw-use =
     .label = Benyt en hovedadgangskode
@@ -898,6 +918,9 @@ primary-password-os-auth-dialog-message-win = For at oprette en hovedadgangskode
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = oprette en hovedadgangskode
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 

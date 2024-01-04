@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Skift til dette faneblad
 firefoxview-show-more = Vis flere
 firefoxview-show-less = Vis færre
+firefoxview-show-all = Vis alle
 firefoxview-search-text-box-clear-button =
     .title = Ryd
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Søg
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Søg i historik
