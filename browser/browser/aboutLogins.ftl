@@ -287,12 +287,24 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] ¿Eliminar { $count } contraseña de todos los dispositivos?
        *[other] ¿Eliminar { $count } contraseñas de todos los dispositivos?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Esto eliminará la contraseña guardada en { -brand-short-name } en todos tus dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración que aparece aquí. Esta acción no se puede deshacer.
+        [one] Esto eliminará todas las contraseñas guardadas en { -brand-short-name } en todos tus dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración que aparece aquí. Esta acción no se puede deshacer.
+       *[other] { "" }
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión y contraseñas
 about-logins-confirm-export-dialog-message = Tus contraseñas se guardarán como texto legible (por ejemplo, BadP@ssw0rd) de modo que cualquiera que abra el archivo exportado podrá verlas.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-confirm-export-dialog-title2 = Una nota sobre la exportación de contraseñas
+about-logins-confirm-export-dialog-message2 =
+    Cuando exportas, tus contraseñas se guardan en un archivo como texto legible.
+    Cuando hayas terminado de usar el archivo, te recomendamos eliminarlo para que otras personas que usen este dispositivo no puedan ver tus contraseñas.
+about-logins-confirm-export-dialog-confirm-button2 = Continuar con la exportación
 about-logins-alert-import-title = Importación completa
 about-logins-alert-import-message = Ver resumen detallado de la importación
 confirm-discard-changes-dialog-title = ¿Descartar cambios no guardados?
@@ -334,6 +346,11 @@ about-logins-export-file-picker-title = Exportar archivo de inicios de sesión
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Exportar contraseñas de { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -347,6 +364,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importar archivos de inicio de sesión
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importar contraseñas a { -brand-short-name }
 about-logins-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -383,6 +402,21 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Se encontraron inicios de sesión duplicados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
        *[other] <span>Se encontraron inicios de sesión duplicados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nuevas contraseñas agregados:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] { "" }
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Elementos existentes actualizados:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] { "" }
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Elementos duplicados encontrados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
+       *[other] { "" }
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
@@ -404,6 +438,7 @@ about-logins-import-dialog-error-try-import-again = Intenta importar de nuevo…
 about-logins-import-dialog-error-cancel = Cancelar
 about-logins-import-report-title = Resumen de importación
 about-logins-import-report-description = Inicios de sesión y contraseñas importadas a { -brand-short-name }.
+about-logins-import-report-description2 = Contraseñas importadas a { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -411,6 +446,9 @@ about-logins-import-report-row-index = Fila { $number }
 about-logins-import-report-row-description-no-change = Duplicado: Coincidencia exacta con inicio de sesión existente
 about-logins-import-report-row-description-modified = Inicio de sesión existente actualizado
 about-logins-import-report-row-description-added = Nuevo inicio de sesión agregado
+about-logins-import-report-row-description-no-change2 = Duplicado: coincidencia exacta con elemento existente
+about-logins-import-report-row-description-modified2 = Elemento existente actualizado
+about-logins-import-report-row-description-added2 = Nueva contraseña agregada
 about-logins-import-report-row-description-error = Error: campo faltante
 
 ##
@@ -438,6 +476,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión duplicados</div> <div data-l10n-name="not-imported">No importados</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión duplicados</div> <div data-l10n-name="not-imported">No importados</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nuevas contraseñas agregadas</div>
+       *[other] { "" }
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Elementos existentes actualizados</div>
+       *[other] { "" }
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Elementos duplicados</div> <div data-l10n-name="not-imported">(no importados)</div>
+       *[other] { "" }
     }
 about-logins-import-report-error =
     { $count ->
