@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Lejo hyrje njëshe Windows për llogari Microsoft, pune, apo shkolle
 forms-windows-sso-learn-more-link = Mësoni më tepër
 forms-windows-sso-desc = Administroni llogari që nga rregullimet e pajisjes tuaj
+windows-passkey-settings-label = Administroni kyçkalime te rregullime sistemi
 
 ## OS Authentication dialog
 
