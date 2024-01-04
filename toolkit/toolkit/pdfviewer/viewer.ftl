@@ -339,8 +339,18 @@ pdfjs-ink-canvas =
 # Alternative text (alt text) helps when people can't see the image.
 pdfjs-editor-alt-text-button-label = Алтернативен текст
 pdfjs-editor-alt-text-edit-button-label = Промяна на алтернативния текст
+pdfjs-editor-alt-text-dialog-label = Изберете от възможностите
+pdfjs-editor-alt-text-dialog-description = Алтернативният текст помага на потребителите, когато не могат да видят изображението или то не се зарежда.
+pdfjs-editor-alt-text-add-description-label = Добавяне на описание
+pdfjs-editor-alt-text-add-description-description = Стремете се към 1-2 изречения, описващи предмета, настройката или действията.
+pdfjs-editor-alt-text-mark-decorative-label = Отбелязване като декоративно
+pdfjs-editor-alt-text-mark-decorative-description = Използва се за орнаменти или декоративни изображения, като контури и водни знаци.
 pdfjs-editor-alt-text-cancel-button = Отказ
 pdfjs-editor-alt-text-save-button = Запазване
+pdfjs-editor-alt-text-decorative-tooltip = Отбелязване като декоративно
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Например, „Млад мъж седи на маса и се храни“
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -350,6 +360,10 @@ pdfjs-editor-alt-text-save-button = Запазване
 
 # This means "Color used to highlight text"
 pdfjs-editor-highlight-colorpicker-label = Цвят на открояване
+pdfjs-editor-colorpicker-button =
+    .title = Промяна на цвят
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Избор на цвят
 pdfjs-editor-colorpicker-yellow =
     .title = Жълто
 pdfjs-editor-colorpicker-green =
