@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = Отваряне
 pdfjs-print-button =
     .title = Отпечатване
 pdfjs-print-button-label = Отпечатване
+pdfjs-save-button =
+    .title = Запазване
+pdfjs-save-button-label = Запазване
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Изтегляне
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Изтегляне
+pdfjs-bookmark-button =
+    .title = Текуща страница (преглед на адреса на страницата)
+pdfjs-bookmark-button-label = Текуща страница
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Отваряне в приложение
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Отваряне в приложение
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +81,9 @@ pdfjs-cursor-text-select-tool-button-label = Инструмент за избо�
 pdfjs-cursor-hand-tool-button =
     .title = Включване на инструмента ръка
 pdfjs-cursor-hand-tool-button-label = Инструмент ръка
+pdfjs-scroll-page-button =
+    .title = Използване на плъзгане на страници
+pdfjs-scroll-page-button-label = Плъзгане на страници
 pdfjs-scroll-vertical-button =
     .title = Използване на вертикално плъзгане
 pdfjs-scroll-vertical-button-label = Вертикално плъзгане
@@ -154,6 +175,8 @@ pdfjs-printing-not-ready = Внимание: Този PDF файл не е на�
 
 pdfjs-toggle-sidebar-button =
     .title = Превключване на страничната лента
+pdfjs-toggle-sidebar-notification-button =
+    .title = Превключване на страничната лента (документът има структура/прикачени файлове/слоеве)
 pdfjs-toggle-sidebar-button-label = Превключване на страничната лента
 pdfjs-document-outline-button =
     .title = Показване на структурата на документа (двукратно щракване за свиване/разгъване на всичко)
@@ -239,9 +262,18 @@ pdfjs-web-fonts-disabled = Уеб-шрифтовете са забранени: 
 ## Editing
 
 
+## Remove button for the various kind of editor.
+
+
+##
+
+
 ## Alt-text dialog
 
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
+
+
+## Color picker
 
