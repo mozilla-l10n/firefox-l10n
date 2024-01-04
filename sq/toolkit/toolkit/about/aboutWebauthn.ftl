@@ -77,6 +77,10 @@ about-webauthn-auth-option-pinuvauthtoken = Leje urdhrash (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Pa leje MakeCredential / GetAssertion me PIN klienti
 about-webauthn-auth-option-largeblobs = Copa të mëdha
+about-webauthn-auth-option-bioenroll = Dhënie elementësh biometrikë
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototip dhënieje elementësh biometrikë (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Leje dhënieje elementësh biometrikë
 about-webauthn-auth-option-authnrcfg = Formësim mirëfilltësuesi
 about-webauthn-auth-option-uvacfg = Leje formësimi mirëfilltësuesi
 about-webauthn-auth-option-credmgmt = Administrim kredencialesh
