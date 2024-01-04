@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Vi anvender AI-teknologi fra { -fakespot-brand-full-name } til at kontrollere pålideligheden af produkt-anmeldelser. Dette hjælper dig kun med at vurdere kvaliteten af anmeldelserne, ikke selve produktets kvalitet.
 shopping-analysis-explainer-grades-intro = Vi giver hver produkts anmeldelser en <strong>karakter</strong> fra A til F.
 shopping-analysis-explainer-adjusted-rating-description = Den <strong>justerede bedømmelse</strong> er udelukkende baseret på anmeldelser, som vi vurderer er pålidelige.
-shopping-analysis-explainer-learn-more = Læs mere om, <a data-l10n-name="review-quality-url">hvordan { -fakespot-brand-full-name } afgør kvaliteten af anmeldelser</a>.
 shopping-analysis-explainer-learn-more2 = Læs mere om, <a data-l10n-name="review-quality-url">hvordan { -fakespot-brand-name } bestemmer kvaliteten af anmeldelser</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Åbn verificering af anmeldelser
 shopping-sidebar-close-button2 =
     .tooltiptext = Luk verificering af anmeldelser
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -190,8 +181,11 @@ shopping-onboarding-headline = Prøv vores guide til pålidelige produktanmeldel
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Se hvor pålidelige anmeldelserne af produkter er på <b>{ $currentSite }</b> før du køber. Verificering af anmeldelser, en eksperimentel funktion fra { -brand-product-name } er indbygget i browseren. Den virker også på <b>{ $secondSite }</b> og <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Se, hvor pålidelige anmeldelserne af produkter på <b>{ $currentSite }</b> er, før du handler. Verificering af anmeldelser, en eksperimentel funktion fra { -brand-product-name }, er indbygget i browseren.
 shopping-onboarding-body = Ved hjælp af { -fakespot-brand-full-name } kan vi hjælpe dig med at undgå partiske og upålidelige anmeldelser. Vores AI-model forbedres hele tiden for at beskytte dig, når du shopper. <a data-l10n-name="learn_more">Læs mere</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Ved at vælge "{ shopping-onboarding-opt-in-button }" godkender du { -fakespot-brand-full-name }s <a data-l10n-name="privacy_policy">privatlivspolitik</a> og <a data-l10n-name="terms_of_use">betingelser for brug.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Ved at vælge “{ shopping-onboarding-opt-in-button }“ accepterer du { -fakespot-brand-name }s <a data-l10n-name="privacy_policy">privatlivspolitik</a> og <a data-l10n-name="terms_of_use">betingelser for brug.</a>
 shopping-onboarding-opt-in-button = Ja, prøv det
 shopping-onboarding-not-now-button = Ikke nu

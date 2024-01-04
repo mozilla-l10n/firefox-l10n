@@ -112,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Logins for følgende websteder vil ik
 permissions-exceptions-saved-passwords-window =
     .title = Undtagelser - Gemte Kodeord
     .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } gemmer ikke adgangskoder til websteder vist her.
 
 ## Exceptions - Add-ons
 
