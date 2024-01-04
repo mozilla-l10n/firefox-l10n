@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Tillad Windows enkeltlogon for Microsoft-, arbejds- og skole-konti
 forms-windows-sso-learn-more-link = Læs mere
 forms-windows-sso-desc = Håndter konti i dine enhedsindstillinger
+windows-passkey-settings-label = Håndter adgangsnøgler i operativsystemets indstillinger
 
 ## OS Authentication dialog
 
@@ -932,6 +933,8 @@ autofill-saved-addresses-button = Gemte adresser
     .accesskey = G
 autofill-payment-methods-checkbox-message = Gem og udfyld betalingsmetoder
     .accesskey = b
+autofill-payment-methods-checkbox-submessage = Inkluder kredit- og debetkort
+    .accesskey = n
 autofill-saved-payment-methods-button = Gemte betalingsmetoder
     .accesskey = m
 autofill-reauth-checkbox =
