@@ -306,12 +306,39 @@ pdfjs-editor-remove-button =
 
 ## Remove button for the various kind of editor.
 
+pdfjs-editor-remove-ink-button =
+    .title = Премахване на рисунката
+pdfjs-editor-remove-freetext-button =
+    .title = Премахване на текста
+pdfjs-editor-remove-stamp-button =
+    .title = Пермахване на изображението
+pdfjs-editor-remove-highlight-button =
+    .title = Премахване на открояването
 
 ##
 
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Цвят
+pdfjs-editor-free-text-size-input = Размер
+pdfjs-editor-ink-color-input = Цвят
+pdfjs-editor-ink-thickness-input = Дебелина
+pdfjs-editor-ink-opacity-input = Прозрачност
+pdfjs-editor-stamp-add-image-button =
+    .title = Добавяне на изображение
+pdfjs-editor-stamp-add-image-button-label = Добавяне на изображение
+pdfjs-free-text =
+    .aria-label = Текстов редактор
+pdfjs-free-text-default-content = Започнете да пишете…
+pdfjs-ink-canvas =
+    .aria-label = Изображение, създадено от потребител
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Алтернативен текст
+pdfjs-editor-alt-text-edit-button-label = Промяна на алтернативния текст
+pdfjs-editor-alt-text-cancel-button = Отказ
+pdfjs-editor-alt-text-save-button = Запазване
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -319,3 +346,15 @@ pdfjs-editor-remove-button =
 
 ## Color picker
 
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Цвят на открояване
+pdfjs-editor-colorpicker-yellow =
+    .title = Жълто
+pdfjs-editor-colorpicker-green =
+    .title = Зелено
+pdfjs-editor-colorpicker-blue =
+    .title = Синьо
+pdfjs-editor-colorpicker-pink =
+    .title = Розово
+pdfjs-editor-colorpicker-red =
+    .title = Червено
