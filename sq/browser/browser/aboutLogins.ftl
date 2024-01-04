@@ -107,11 +107,14 @@ about-logins-login-intro-heading-logged-out2 = Po kërkoni për kredencialet tua
 about-logins-login-intro-heading-logged-in = S’u gjetën kredenciale të njëkohësuar hyrjesh.
 login-intro-description = Nëse ruajtët kredenciale tuajat hyrjesh te { -brand-product-name } në një pajisje tjetër, ja se si t’i merrni këtu:
 login-intro-instructions-fxa = Krijoni ose hyni te  { -fxaccount-brand-name } juaja te pajisja ku janë ruajtur kredencialet tuaja të hyrjeve
+about-logins-login-intro-heading-message = Ruajini fjalëkalimet tuaja në një vend të sigurt
+login-intro-description2 = Krejt fjalëkalimet që ruani te { -brand-product-name } janë të fshehtëzuar. Plus, vëzhgojmë për cenime dhe ju njoftojmë, nëse jeni prekur. <a data-l10n-name="breach-alert-link">Mësoni më tepër</a>
 login-intro-instructions-fxa2 = Krijoni ose hyni te  llogaria juaj te pajisja ku janë ruajtur kredencialet tuaja të hyrjeve
 login-intro-instructions-fxa-settings = Kaloni te Rregullime > Njëkohësim > Aktivizoni njëkohësim… Përzgjidhni kutizën Kredenciale Hyrjesh dhe fjalëkalime.
 login-intro-instructions-fxa-passwords-help = Për më tepër ndihmë, vizitoni <a data-l10n-name="passwords-help-link">asistencë për fjalëkalime</a>.
 about-logins-intro-browser-only-import = Nëse kredencialet tuaj për hyrje janë ruajtur në një shfletues tjetër, mund t’i <a data-l10n-name="import-link">importoni ata te { -brand-product-name }</a>
 about-logins-intro-import2 = Nëse kredencialet tuaja për hyrje janë ruajtur jashtë { -brand-product-name }-it, mund t’i <a data-l10n-name="import-browser-link">importoni që nga një shfletues tjetër</a> ose <a data-l10n-name="import-file-link">prej një kartele</a>
+about-logins-intro-import3 = Që të shtoni një fjalëkalim tani, përzgjidhni butonin me shenjën plus. Mundeni edhe <a data-l10n-name="import-browser-link">të importoni fjalëkalime që nga shfletues të tjerë</a> or <a data-l10n-name="import-file-link">përmes një kartele</a>.
 
 ## Login
 
@@ -252,6 +255,12 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [1] Kjo do të heqë kredencialet e hyrjes që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara me llogarinë tuaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S’do të jeni në gjendje të zhbëni këtë veprim.
        *[other] Kjo do të heqë krejt kredencialet e hyrjeve që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara me llogarinë tuaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S’do të jeni në gjendje të zhbëni këtë veprim.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Po, hiqe fjalëkalimin
+       *[other] Yes, remove passwords
+    }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
@@ -283,6 +292,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Eksportoni kredenciale hyrjesh dhe fjalëkalime
 about-logins-confirm-export-dialog-message = Fjalëkalimet tuaj do të ruhen si tekst i lexueshëm (p.sh., BadP@ssw0rd), ndaj, cilido që mund të hapë kartelën e eksportuar, mund t’i shohë.
 about-logins-confirm-export-dialog-confirm-button = Eksportoni…
+about-logins-confirm-export-dialog-title2 = Diçka rreth eksportimit të fjalëkalimeve
+about-logins-confirm-export-dialog-message2 =
+    Kur eksportoni, fjalëkalimet ruhen në një kartelë si tekst i lexueshëm.
+    Kur të keni përfunduar përdorimin e kësaj kartele, rekomandojmë fshirjen e saj, që kështu të tjerët që përdorin këtë pajisje të mos shohin fjalëkalimet tuaja.
+about-logins-confirm-export-dialog-confirm-button2 = Vazhdo me eksportimin
 about-logins-alert-import-title = Importim i Plotësuar
 about-logins-alert-import-message = Shihni Përmbledhje të hollësishme të Importimit
 confirm-discard-changes-dialog-title = Të hidhen tej këto ndryshime?
@@ -324,6 +338,11 @@ about-logins-export-file-picker-title = Eksportoni Kartelë Kredencialesh Hyrjes
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Eksportoni Fjalëkalime nga { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Eksporto
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
