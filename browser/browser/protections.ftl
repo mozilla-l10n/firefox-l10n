@@ -42,7 +42,7 @@ graph-legend-description = Një grafik që përmban numrin gjithsej sa herë ës
 social-tab-title = Gjurmues Prej Mediash Shoqërore
 social-tab-contant = Gjurmuesit prej rrjete shoqërore vendosin gjurmues në sajte të tjerë për të ndjekur ç’bëni, ç’shihni dhe vëzhgoni kur jeni në internet. Kjo u lejon shoqërive të rrjeteve shoqërore të mësojnë më tepër rreth jush, tej asaj çka ndani me të tjerët në profilet tuaj në media shoqërore. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 cookie-tab-title = “Cookies” Gjurmimi Nga Sajte Në Sajte
-cookie-tab-content = Këto cookies ju ndjekin nga sajti në sajt për të grumbulluar të dhëna rreth çka bëni në internet. Ato depozitohen nga palë të treta, të tilla si reklamues dhe shoqëri analizash. Bllokimi i cookie-ve që ju ndjekin nga sajti në sajt ul numrin e reklamave që ju ndjekin ngado. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
+cookie-tab-content = Këto “cookies” ju ndjekin nga sajti në sajt për të grumbulluar të dhëna rreth çka bëni në internet. Ato depozitohen nga palë të treta, të tilla si reklamues dhe shoqëri analizash. Bllokimi i cookie-ve që ju ndjekin nga sajti në sajt ul numrin e reklamave që ju ndjekin ngado. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 tracker-tab-title = Lëndë Gjurmimi
 tracker-tab-description = Sajtet mund të ngarkojnë reklama, video dhe tjetër lëndë të jashtme me kod gjurmimi. Bllokimi i lëndës gjurmuese mund të ndihmojë për ngarkimin më të shpejtë të sajteve, por disa butona, formularë dhe fusha kredenciale hyrjesh mund të mos punojnë. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 fingerprinter-tab-title = Krijues shenjash gishtash

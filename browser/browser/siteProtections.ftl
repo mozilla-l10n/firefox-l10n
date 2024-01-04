@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 content-blocking-trackers-view-empty = S’u pikas ndonjë në këtë sajt
-content-blocking-cookies-blocking-trackers-label = “Cookies” Gjurmimi Nga Sajte Në Sajte
-content-blocking-cookies-blocking-third-party-label = Cookies Palësh të Treta
-content-blocking-cookies-blocking-unvisited-label = Cookies prej Sajtesh të Pavizituar
+content-blocking-cookies-blocking-trackers-label = “Cookies” Gjurmimi Nga Sajti Në Sajt
+content-blocking-cookies-blocking-third-party-label = “Cookies” Palësh të Treta
+content-blocking-cookies-blocking-unvisited-label = “Cookies” prej Sajtesh të Pavizituar
 content-blocking-cookies-blocking-all-label = Krejt Cookie-t
 content-blocking-cookies-view-first-party-label = Nga Ky Sajti
-content-blocking-cookies-view-trackers-label = “Cookies” Gjurmimi Nga Sajte Në Sajte
-content-blocking-cookies-view-third-party-label = Cookies Palësh të Treta
+content-blocking-cookies-view-trackers-label = “Cookies” Gjurmimi Nga Sajti Në Sajti
+content-blocking-cookies-view-third-party-label = “Cookies” Palësh të Treta
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
 content-blocking-cookies-view-allowed-label =
@@ -45,13 +45,13 @@ protections-blocking-fingerprinters =
 protections-blocking-cryptominers =
     .title = Nxjerrësh Kriptomonedhash të Bllokuar
 protections-blocking-cookies-trackers =
-    .title = “Cookies” Gjurmimi Nga Sajte Në Sajte të Bllokuara
+    .title = “Cookies” Gjurmimi Nga Sajti Në Sajti të Bllokuara
 protections-blocking-cookies-third-party =
-    .title = Cookies Palësh të Treta të Bllokuara
+    .title = “Cookies” Palësh të Treta të Bllokuara
 protections-blocking-cookies-all =
     .title = Krejt Cookies të Bllokuara
 protections-blocking-cookies-unvisited =
-    .title = Cookies Prej Sajtesh të Pavizituar të Bllokuara
+    .title = “Cookies” Prej Sajtesh të Pavizituar të Bllokuara
 protections-blocking-tracking-content =
     .title = Lëndë Gjurmimi e Bllokuar
 protections-blocking-social-media-trackers =
