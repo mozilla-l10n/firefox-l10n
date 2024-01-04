@@ -79,6 +79,7 @@ about-webauthn-auth-option-pinuvauthtoken = Komut izinleri (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = İstemci PIN’i için MakeCredential / GetAssertion izni yok
 about-webauthn-auth-option-largeblobs = Büyük blob’lar
+about-webauthn-auth-option-ep = Kurumsal onay
 about-webauthn-auth-option-bioenroll = Biyometrik kayıt
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Biyometrik kayıt prototipi (FIDO_2_1_PRE)
