@@ -932,6 +932,8 @@ autofill-saved-addresses-button = Gemte adresser
     .accesskey = G
 autofill-payment-methods-checkbox-message = Gem og udfyld betalingsmetoder
     .accesskey = b
+autofill-saved-payment-methods-button = Gemte betalingsmetoder
+    .accesskey = m
 autofill-reauth-checkbox =
     { PLATFORM() ->
         [macos] Kræv MacOS-godkendelse for at udfylde og redigere betalingsmetoder
