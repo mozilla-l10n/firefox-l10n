@@ -184,12 +184,19 @@ pdfjs-document-outline-button-label = Структура на документа
 pdfjs-attachments-button =
     .title = Показване на притурките
 pdfjs-attachments-button-label = Притурки
+pdfjs-layers-button =
+    .title = Показване на слоевете (двукратно щракване за възстановяване на всички слоеве към състоянието по подразбиране)
+pdfjs-layers-button-label = Слоеве
 pdfjs-thumbs-button =
     .title = Показване на миниатюрите
 pdfjs-thumbs-button-label = Миниатюри
+pdfjs-current-outline-item-button =
+    .title = Намиране на текущия елемент от структурата
+pdfjs-current-outline-item-button-label = Текущ елемент от структурата
 pdfjs-findbar-button =
     .title = Намиране в документа
 pdfjs-findbar-button-label = Търсене
+pdfjs-additional-layers = Допълнителни слоеве
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -215,9 +222,25 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Следваща
 pdfjs-find-highlight-checkbox = Открояване на всички
 pdfjs-find-match-case-checkbox-label = Съвпадение на регистъра
+pdfjs-find-match-diacritics-checkbox-label = Без производни букви
 pdfjs-find-entire-word-checkbox-label = Цели думи
 pdfjs-find-reached-top = Достигнато е началото на документа, продължаване от края
 pdfjs-find-reached-bottom = Достигнат е краят на документа, продължаване от началото
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } от { $total } съвпадение
+       *[other] { $current } от { $total } съвпадения
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Повече от { $limit } съвпадение
+       *[other] Повече от { $limit } съвпадения
+    }
 pdfjs-find-not-found = Фразата не е намерена
 
 ## Predefined zoom values
@@ -232,6 +255,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Страница { $page }
 
 ## Loading indicator messages
 
@@ -243,6 +270,10 @@ pdfjs-rendering-error = Грешка при изчертаване на стра
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -261,6 +292,17 @@ pdfjs-web-fonts-disabled = Уеб-шрифтовете са забранени: 
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Текст
+pdfjs-editor-free-text-button-label = Текст
+pdfjs-editor-ink-button =
+    .title = Рисуване
+pdfjs-editor-ink-button-label = Рисуване
+pdfjs-editor-stamp-button =
+    .title = Добавяне или променяне на изображения
+pdfjs-editor-stamp-button-label = Добавяне или променяне на изображения
+pdfjs-editor-remove-button =
+    .title = Премахване
 
 ## Remove button for the various kind of editor.
 
