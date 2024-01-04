@@ -881,6 +881,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Gemte logins…
     .accesskey = G
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Udfyld brugernavne og adgangskoder automatisk
+    .accesskey = U
 forms-saved-passwords =
     .label = Gemte adgangskoder
     .accesskey = G
@@ -921,6 +925,9 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Autofyld
+autofill-addresses-checkbox = Gem og udfyld adresser
+    .accesskey = u
 
 ## Privacy Section - History
 
