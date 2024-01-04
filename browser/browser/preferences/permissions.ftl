@@ -81,9 +81,9 @@ permissions-exceptions-manage-etp-desc = Mund të përcaktoni cilët sajte e kan
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
-    .title = Përjashtime - Cookies dhe të Dhëna Sajtesh
+    .title = Përjashtime - “Cookies” dhe të Dhëna Sajtesh
     .style = { permissions-window2.style }
-permissions-exceptions-cookie-desc = Mund të caktoni cilëve sajte u lejohet përherë ose kurrë të përdorin cookies dhe të dhëna sajtesh. Shtypni adresën e saktë të sajtit që doni të administroni dhe mandej klikoni Bllokoje, Lejoje për Sesion, ose Lejoje.
+permissions-exceptions-cookie-desc = Mund të caktoni cilëve sajte u lejohet përherë ose kurrë të përdorin “cookies” dhe të dhëna sajtesh. Shtypni adresën e saktë të sajtit që doni të administroni dhe mandej klikoni Bllokoje, Lejoje për Sesion, ose Lejoje.
 
 ## Exceptions - HTTPS-Only Mode
 

@@ -989,7 +989,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookies dhe të Dhëna Sajtesh
+sitedata-header = “Cookies” dhe të Dhëna Sajtesh
 sitedata-total-size-calculating = Po njehsohet madhësi të dhënash sajtesh dhe fshehtine…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -997,7 +997,7 @@ sitedata-total-size-calculating = Po njehsohet madhësi të dhënash sajtesh dhe
 sitedata-total-size = Cookie-t, të dhënat tuaja të sajteve dhe fshehtina përdorin deri sot { $value } { $unit } hapësirë disku.
 sitedata-learn-more = Mësoni më tepër
 sitedata-delete-on-close =
-    .label = Fshi cookies dhe të dhëna sajti, kur mbyllet { -brand-short-name }-i
+    .label = Fshi “cookies” dhe të dhëna sajti, kur mbyllet { -brand-short-name }-i
     .accesskey = F
 sitedata-delete-on-close-private-browsing = Nën mënyrën shfletim i përhershëm privat, cookie-t dhe të dhënat e sajtit do të spastrohen përherë, kur mbyllet { -brand-short-name }-i.
 sitedata-allow-cookies-option =
@@ -1017,7 +1017,7 @@ sitedata-option-block-cross-site-tracking-cookies =
 sitedata-option-block-cross-site-cookies =
     .label = Cookie-t për gjurmim nga sajti në sajt dhe izolo “cookies” të tjera palësh të treta
 sitedata-option-block-unvisited =
-    .label = Cookies nga sajte të pavizituar
+    .label = “Cookies” nga sajte të pavizituar
 sitedata-option-block-all-cross-site-cookies =
     .label = Krejt cookie-t palë të treta (mund të shkaktojë mosfunksionim të disa sajteve)
 sitedata-option-block-all =
@@ -1120,7 +1120,7 @@ content-blocking-all-cross-site-cookies-private-windows = “Cookies” palësh 
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie-t për gjurmim nga sajti në sajt dhe izolo cookie-t e mbetura
 content-blocking-social-media-trackers = Gjurmues prej mediash shoqërore
 content-blocking-all-cookies = Krejt cookie-t
-content-blocking-unvisited-cookies = Cookies nga sajte të pavizituar
+content-blocking-unvisited-cookies = “Cookies” nga sajte të pavizituar
 content-blocking-all-windows-tracking-content = Gjurmim lënde në krejt dritaret
 content-blocking-all-cross-site-cookies = Krejt “cookiet” nga palë të treta
 content-blocking-cryptominers = Nxjerrës kriptomonedhash
@@ -1154,7 +1154,7 @@ content-blocking-option-private =
     .accesskey = V
 content-blocking-tracking-protection-change-block-list = Ndryshoni listë bllokimesh
 content-blocking-cookies-label =
-    .label = Cookies
+    .label = “Cookies”
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = Më tepër hollësi
@@ -1305,7 +1305,7 @@ certs-thirdparty-toggle =
 space-alert-over-5gb-settings-button =
     .label = Hap Rregullimet
     .accesskey = H
-space-alert-over-5gb-message2 = <strong>{ -brand-short-name }-it po i mbarohet hapësira në disk.</strong> Lënda e sajteve mund të mos shfaqet si duhet. Mundësi të spastroni të dhëna të depozituara që nga Rregullime > Privatësi & Siguri > Cookies dhe Të dhëna Sajtesh.
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name }-it po i mbarohet hapësira në disk.</strong> Lënda e sajteve mund të mos shfaqet si duhet. Mundësi të spastroni të dhëna të depozituara që nga Rregullime > Privatësi & Siguri > “Cookies” dhe Të dhëna Sajtesh.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name }-it po i mbarohet hapësira në disk.</strong> Lënda e sajteve mund të mos shfaqet si duhet. Që të optimizoni përdorimin tuaj të diskut për punim më të mirë të shfletimin, vizitoni “Mësoni Më Tepër”.
 
 ## Privacy Section - HTTPS-Only

@@ -25,7 +25,7 @@ policy-BlockAboutSupport = Bllokoni hyrje te faqja about:support.
 policy-Bookmarks = Krijoni faqerojtës te paneli Faqerojtës, menuja Faqerojtës, ose te një dosje e caktuar brenda tyre.
 policy-CaptivePortal = Aktivizoni ose çaktivizoni mbulim për captive portal.
 policy-CertificatesDescription = Shtoni dëshmi ose përdorni dëshmi të brendshme të programit.
-policy-Cookies = Lejoni ose jo që sajte të depozitojnë cookies.
+policy-Cookies = Lejoni ose jo që sajte të depozitojnë “cookies”.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Caktoni rregulla lidhur me kontejnerët.
 policy-DisableAccounts = Çaktivizo shërbime të bazuara në llogari, përfshi njëkohësimin.
