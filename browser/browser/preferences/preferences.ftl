@@ -911,7 +911,7 @@ forms-windows-sso =
     .label = Tillåt Windows enkel inloggning för Microsoft-, arbets- och skolkonton.
 forms-windows-sso-learn-more-link = Läs mer
 forms-windows-sso-desc = Hantera konton i dina enhetsinställningar
-windows-passkey-settings-label = Hantera lösenord i systeminställningar
+windows-passkey-settings-label = Hantera lösenordsnycklar i systeminställningar
 
 ## OS Authentication dialog
 
