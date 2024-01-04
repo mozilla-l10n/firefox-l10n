@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Analizim lënde në ecuri e sipër
 contentanalysis-slow-agent-dialog-body = Analiza e Lëndës po analizon burimin “{ $content }”
 contentanalysis-operationtype-clipboard = e papastër
 contentanalysis-operationtype-dropped-text = tekst i sjellë
+contentanalysis-warndialogtitle = Kjo lëndë mund të jetë jo e parrezik
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Enti juaj përdor “software” parandalimi humbjesh të dhënash, i cili i ka vënë shenjë kësaj lënde si jo e parrezik: { $content }. Të përdoret, sido qoftë?
+contentanalysis-warndialog-response-allow = Përdore lëndën
+contentanalysis-warndialog-response-deny = Anuloje
 contentanalysis-notification-title = Analizë Lënde
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
