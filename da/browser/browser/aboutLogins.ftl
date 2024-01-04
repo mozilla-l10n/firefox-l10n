@@ -272,6 +272,13 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] Fjern { $count } adgangskode?
        *[other] Fjern alle { $count } adgangskoder?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Dette vil fjerne adgangskoden, der er gemt i { -brand-short-name }, samt alle advarsler om datalæk. Du kan ikke fortryde denne handling.
+        [one] { "" }
+       *[other] Dette vil fjerne adgangskoderne, der er gemt i { -brand-short-name }, samt alle advarsler om datalæk. Du kan ikke fortryde denne handling.
+    }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
@@ -284,6 +291,11 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 about-logins-confirm-export-dialog-title = Eksporter logins og adgangskoder
 about-logins-confirm-export-dialog-message = Dine adgangskoder bliver gemt som læsbar tekst (fx dåRligAdg@ngsk0de), så alle der kan åbne den eksportede fil kan se dine adgangskoder.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
+about-logins-confirm-export-dialog-title2 = Om at eksportere adgangskoder
+about-logins-confirm-export-dialog-message2 =
+    Når du eksporterer dine adgangskoder, bliver de gemt i en fil som almindelig tekst.
+    Vi anbefaler, at du sletter filen, når du er færdig - så undgår du, at andre brugere af enheden kan se dine adgangskoder.
+about-logins-confirm-export-dialog-confirm-button2 = Fortsæt med eksport
 about-logins-alert-import-title = Import fuldført
 about-logins-alert-import-message = Se detaljeret oversigt over import
 confirm-discard-changes-dialog-title = Kasser ikke-gemte ændringer?
