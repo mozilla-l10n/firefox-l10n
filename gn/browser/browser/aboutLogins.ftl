@@ -301,6 +301,9 @@ about-logins-confirm-export-dialog-title = Emba’ereraha tembiapo ñepyrũ ha �
 about-logins-confirm-export-dialog-message = Ñe’ẽñemi oñeñongatúta moñe’ẽrãrõ (techapyrã, BadP@ssw0rd) oimeraẽva ombojurujakuaáva marandurenda rahaukapyre ikatu ohecha.
 about-logins-confirm-export-dialog-confirm-button = Emba’egueraha…
 about-logins-confirm-export-dialog-title2 = Jehaipy ñe’ẽñemi guerahauka rehegua
+about-logins-confirm-export-dialog-message2 =
+    Erahaukávo, ne ñe’ẽñeminguéra oñeñongatu marandurenda oñemoñe’ẽkuaávape.
+    Eiporupa vove marandurenda, embogue ani hag̃ua ambue tapicha oiporúva ko mba’e’oka ohecha ne ñe’ẽñeminguéra.
 about-logins-confirm-export-dialog-confirm-button2 = Eguerahauka gueteri
 about-logins-alert-import-title = Emba’eguerupáma
 about-logins-alert-import-message = Ehechapaite emba’egueruva’ekue
