@@ -17,6 +17,7 @@ about-webauthn-pin-section-title = Gestione PIN
 about-webauthn-credential-management-section-title = Gestione credenziali
 about-webauthn-pin-required-section-title = PIN obbligatorio
 about-webauthn-confirm-deletion-section-title = Conferma eliminazione
+about-webauthn-bio-enrollment-section-title = Registrazioni biometriche
 
 ## Info field texts
 
@@ -26,6 +27,8 @@ about-webauthn-text-select-device = Selezionare il token di sicurezza desiderato
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Impossibile gestire le opzioni in quanto il token di sicurezza non supporta CTAP2.
 about-webauthn-text-not-available = Non disponibile per questa piattaforma.
+about-webauthn-bio-enrollment-list-subsection-title = Registrazioni:
+about-webauthn-add-bio-enrollment-section-title = Aggiungi nuova registrazione
 
 ## Results label
 
@@ -40,6 +43,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Errore: PIN non corretto, riprova. { $retriesLeft } tentativi rimasti.
     }
 about-webauthn-results-pin-blocked-error = Errore: non è rimasto alcun tentativo e il dispositivo è stato bloccato in quanto è stato fornito un PIN errato troppe volte. Il dispositivo deve essere reimpostato.
+about-webauthn-results-pin-not-set-error = Errore: PIN non impostato. Questa operazione richiede la protezione con PIN.
 about-webauthn-results-pin-too-short-error = Errore: il PIN fornito è troppo corto.
 about-webauthn-results-pin-too-long-error = Errore: il PIN fornito è troppo lungo.
 about-webauthn-results-pin-auth-blocked-error = Errore: si sono verificati troppi tentativi non riusciti in sequenza e l’autenticazione tramite PIN è stata temporaneamente disattivata. È necessario spegnere e riaccendere il dispositivo (scollegarlo e ricollegarlo).
@@ -52,6 +56,8 @@ about-webauthn-repeat-pin-label = Ripeti il nuovo PIN:
 about-webauthn-current-pin-label = PIN corrente:
 about-webauthn-pin-required-label = Inserisci il tuo PIN:
 about-webauthn-credential-list-subsection-title = Credenziali:
+about-webauthn-enrollment-name-label = Nome registrazione (facoltativo):
+about-webauthn-enrollment-list-empty = Nessuna registrazione trovata sul dispositivo.
 about-webauthn-credential-list-empty = Nessuna credenziale trovata nel dispositivo.
 about-webauthn-confirm-deletion-label = Si sta per eliminare:
 
@@ -61,9 +67,14 @@ about-webauthn-current-set-pin-button = Imposta PIN
 about-webauthn-current-change-pin-button = Modifica PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Elenco credenziali
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Elenco registrazioni
+about-webauthn-add-bio-enrollment-button = Aggiungi registrazione
 about-webauthn-cancel-button = Annulla
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Elimina
+about-webauthn-start-enrollment-button = Avvia registrazione
+about-webauthn-update-button = Aggiorna
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -128,4 +139,41 @@ about-webauthn-auth-info-true = True
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Non supportato
 
+## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] È richiesto ancora { $repeatCount } campione.
+       *[other] Sono richiesti ancora { $repeatCount } campioni.
+    }
+
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Il campione è valido.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = Campione troppo in alto.
+about-webauthn-ctap2-enroll-feedback-too-low = Campione troppo in basso.
+about-webauthn-ctap2-enroll-feedback-too-left = Campione troppo a sinistra.
+about-webauthn-ctap2-enroll-feedback-too-right = Campione troppo a destra.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = Campione troppo veloce.
+about-webauthn-ctap2-enroll-feedback-too-slow = Campione troppo lento.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Bassa qualità del campione.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Campione troppo distorto.
+about-webauthn-ctap2-enroll-feedback-too-short = Campione troppo breve.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Fusione del campione non riuscita.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Il campione è già presente.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Nessuna attività utente.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = L’utente non ha completato il campionamento come previsto.
+about-webauthn-ctap2-enroll-feedback-other = Errore nel campione.
