@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Crear unha nova credencial
+about-logins-page-title-name = Contrasinais
+about-logins-login-filter2 =
+    .placeholder = Buscar contrasinais
+    .key = F
+create-login-button =
+    .title = Engadir contrasinal
 fxaccounts-sign-in-text = Obteña os seus contrasinais doutros dispositivos seus
 fxaccounts-sign-in-sync-button = Inicie sesión para sincronizar
 fxaccounts-avatar-button =
@@ -23,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importar desde outro na
 about-logins-menu-menuitem-import-from-a-file = Importar dun ficheiro ...
 about-logins-menu-menuitem-export-logins = Exportar sesións ...
 about-logins-menu-menuitem-remove-all-logins = Eliminar todos os inicios de sesión ...
+about-logins-menu-menuitem-export-logins2 = Exportar contrasinais…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcións
