@@ -465,6 +465,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Amosar sempre as barras de desprazamento
     .accesskey = o
+browsing-always-underline-links =
+    .label = Subliñar sempre as ligazóns
+    .accesskey = { "" }
 browsing-use-onscreen-keyboard =
     .label = Amosar un teclado táctil cando sexa necesario
     .accesskey = c
@@ -735,8 +738,10 @@ sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Lapelas abertas
 sync-currently-syncing-logins-passwords = Identificacións e contrasinais
+sync-currently-syncing-passwords = Contrasinais
 sync-currently-syncing-addresses = Enderezos
 sync-currently-syncing-creditcards = Tarxetas de crédito
+sync-currently-syncing-payment-methods = Métodos de pagamento
 sync-currently-syncing-addons = Complementos
 sync-currently-syncing-settings = Configuración
 sync-change-options =
@@ -767,6 +772,10 @@ sync-engine-logins-passwords =
     .label = Identificacións e contrasinais
     .tooltiptext = Nomes de usuario e contrasinais que gardaches
     .accesskey = I
+sync-engine-passwords =
+    .label = Contrasinais
+    .tooltiptext = Contrasinais que gardou
+    .accesskey = C
 sync-engine-addresses =
     .label = Enderezos
     .tooltiptext = Enderezos postais gardados (só no escritorio)
@@ -775,6 +784,10 @@ sync-engine-creditcards =
     .label = Tarxetas de crédito
     .tooltiptext = Nomes, números e datas de caducidade (só no escritorio)
     .accesskey = c
+sync-engine-payment-methods2 =
+    .label = Métodos de pagamento
+    .tooltiptext = Nomes, números de tarxetas, e datas de caducidade
+    .accesskey = M
 sync-engine-addons =
     .label = Complementos
     .tooltiptext = Extensións e temas para o Firefox de escritorio
@@ -821,6 +834,9 @@ pane-privacy-logins-and-passwords-header = Identificacións e contrasinais
 forms-ask-to-save-logins =
     .label = Preguntar se gardar identificacións e contrasinais de acceso nos sitios web
     .accesskey = r
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Excepcións…
     .accesskey = p
@@ -875,6 +891,10 @@ primary-password-os-auth-dialog-message-win = Para crear un contrasinal principa
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crear un contrasinal principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Completado automático
 
 ## Privacy Section - History
 
@@ -1262,6 +1282,7 @@ preferences-doh-status-disabled = Desactivado
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Non activo ({ $reason })
 preferences-doh-group-message = Activar o DNS seguro usando:
+preferences-doh-group-message2 = Activar DNS sobre HTTPS usando:
 preferences-doh-expand-section =
     .tooltiptext = Máis información
 preferences-doh-setting-default =

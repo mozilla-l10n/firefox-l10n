@@ -142,3 +142,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Desactivar
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Activar
+protections-panel-report-broken-site =
+    .label = Informar dun sitio roto
+    .title = Informar dun sitio roto

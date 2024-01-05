@@ -237,6 +237,10 @@ device-migration-fxa-spotlight-header = Usa un dispositivo antigo?
 device-migration-fxa-spotlight-body = Faga unha copia de seguranza dos seus datos para asegurarse de non perder información importante como marcadores e contrasinais, especialmente se cambia a un dispositivo novo.
 device-migration-fxa-spotlight-primary-button = Como facer unha copia de seguranza dos meus datos
 device-migration-fxa-spotlight-link = Lembrarmo máis tarde
+device-migration-fxa-spotlight-heavy-user-header = Non esqueza facer unha copia de seguranza dos seus datos
+device-migration-fxa-spotlight-heavy-user-primary-button = Comezar
+device-migration-fxa-spotlight-older-device-header = Tranquilidade, de { -brand-product-name }
+device-migration-fxa-spotlight-older-device-primary-button = Crear unha conta
 device-migration-fxa-spotlight-getting-new-device-header-2 = Novo dispositivo no seu futuro?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Como facer unha copia de seguranza dos meus datos
 
