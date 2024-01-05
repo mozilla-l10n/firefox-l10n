@@ -30,6 +30,7 @@ about-logins-menu-menuitem-import-from-a-file = Importar dun ficheiro ...
 about-logins-menu-menuitem-export-logins = Exportar sesións ...
 about-logins-menu-menuitem-remove-all-logins = Eliminar todos os inicios de sesión ...
 about-logins-menu-menuitem-export-logins2 = Exportar contrasinais…
+about-logins-menu-menuitem-remove-all-logins2 = Eliminar todos os contrasinais…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcións
@@ -56,6 +57,21 @@ login-list-filtered-count =
         [one] { $count } de { $total } credencial
        *[other] { $count } de { $total } credenciais
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } contrasinal
+       *[other] { $count } contrasinais
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } de { $total } contrasinal
+       *[other] { $count } de { $total } contrasinais
+    }
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
 login-list-name-reverse-option = Nome (Z-A)
@@ -65,11 +81,14 @@ about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Última modificación
 login-list-last-used-option = Usado por última vez
 login-list-intro-title = Non se atoparon inicios de sesión
+login-list-intro-title2 = Ningún contrasinal gardado
 login-list-intro-description = Cando garde un contrasinal en { -brand-product-name }, aparecerá aquí.
 about-logins-login-list-empty-search-title = Non se atoparon inicios de sesión
+about-logins-login-list-empty-search-title2 = Ningún contrasinal atopado
 about-logins-login-list-empty-search-description = Non hai resultados que coincidan coa súa busca.
 login-list-item-title-new-login = Novo inicio de sesión
 login-list-item-subtitle-new-login = Insira as súas credenciais de inicio de sesión
+login-list-item-title-new-login2 = Engadir contrasinal
 login-list-item-subtitle-missing-username = (sen nome de usuario)
 about-logins-list-item-breach-icon =
     .title = Sitio web comprometido
@@ -88,6 +107,8 @@ about-logins-login-intro-heading-logged-out2 = Busca os teus inicios de sesión 
 about-logins-login-intro-heading-logged-in = Non se atoparon outras sesións sincronizadas.
 login-intro-description = Se gardou os seus inicios de sesión en { -brand-product-name } noutro dispositivo, velaquí como conseguilos:
 login-intro-instructions-fxa = Cree ou inicie sesión no seu { -fxaccount-brand-name } no dispositivo onde se gardan os seus inicios de sesión.
+about-logins-login-intro-heading-message = Gardar os seus contrasinais nun lugar seguro
+login-intro-description2 = Todos os contrasinais que garda en { -brand-product-name } están cifrados. Ademais, estamos atentos a quebras de seguridade e avisarémolo en caso de estar afectado. <a data-l10n-name="breach-alert-link">Máis información</a>
 login-intro-instructions-fxa2 = Cree ou inicie sesión na súa conta no dispositivo onde se gardan os seus inicios de sesión.
 login-intro-instructions-fxa-settings = Vaia a Configuración > Sincronizar > Activar a sincronización… Seleccione a caixa de verificación Inicios de sesión e contrasinais.
 login-intro-instructions-fxa-passwords-help = Visite a <a data-l10n-name="passwords-help-link">asistencia sobre contrasinais</a> para máis axuda.
@@ -97,10 +118,13 @@ about-logins-intro-import2 = Se os seus inicios de sesión están gardados fóra
 ## Login
 
 login-item-new-login-title = Crear novo inicio de sesión
+# Header for adding a password
+about-logins-login-item-new-login-title = Engadir contrasinal
 login-item-edit-button = Editar
 about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Enderezo do sitio web
 login-item-tooltip-message = Asegúrese de que isto coincide co enderezo exacto do sitio web onde iniciou a sesión.
+about-logins-origin-tooltip2 = Introduza o enderezo completo e asegúrese de que coincide exactamente coa que usa para inicia sesión.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nome de usuario
@@ -156,6 +180,9 @@ about-logins-export-password-os-auth-dialog-message-win = Para exportar os seus 
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportar sesións e contrasinais gardados
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportar contrasinais gardados
 
 ## Primary Password notification
 
@@ -171,6 +198,10 @@ confirmation-dialog-dismiss-button =
     .title = Cancelar
 about-logins-confirm-remove-dialog-title = Eliminar esta identificación?
 confirm-delete-dialog-message = Non é posíbel desfacer esta acción.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Eliminar o contrasinal?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Non pode desfacer esta acción.
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
 
 ## Variables
@@ -327,6 +358,7 @@ about-logins-import-dialog-error-try-import-again = Tente importar de novo…
 about-logins-import-dialog-error-cancel = Cancelar
 about-logins-import-report-title = Resumo da importación
 about-logins-import-report-description = Inicios de sesión e contrasinais importados ao { -brand-short-name }.
+about-logins-import-report-description2 = Contrasinais importados a { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
