@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Enderezos gardados
 autofill-manage-addresses-list-header = Enderezos
 autofill-manage-credit-cards-title = Tarxetas de crédito gardadas
 autofill-manage-credit-cards-list-header = Tarxetas de crédito
+autofill-manage-payment-methods-title = Métodos de pago gardados
+autofill-manage-cards-list-header = Tarxetas
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Retirar
@@ -39,6 +41,12 @@ address-capture-learn-more-button =
     .label = Máis información
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Engadir novo enderezo
+address-capture-open-menu-button =
+    .aria-label = Abrir menú
+address-capture-edit-address-button =
+    .aria-label = Editar enderezo
+# The dialog title for creating addresses in browser preferences.
+autofill-add-address-title = Engadir enderezo
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar enderezo
 autofill-address-name = Nome
@@ -122,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } tenta amosar a información da tarxeta de crédito. Confirme o acceso á conta de usuario de Windows a continuación.
        *[other] { -brand-short-name } tenta amosar a información da tarxeta de crédito.
     }
+autofill-message-tooltip = Ver mensaxe sobre autocompletar
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Engadir a tarxeta
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Editar a tarxeta
 autofill-card-number = Número da tarxeta
 autofill-card-invalid-number = Introduza un número de tarxeta válido
 autofill-card-name-on-card = Nome do titular

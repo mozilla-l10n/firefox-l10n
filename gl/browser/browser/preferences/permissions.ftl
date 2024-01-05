@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Excepcións
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Enderezo do sitio web
     .accesskey = d
-
 permissions-block =
     .label = Bloquear
     .accesskey = B
-
 permissions-disable-etp =
     .label = Engadir unha excepción
     .accesskey = E
-
 permissions-session =
     .label = Permitir nesta sesión
     .accesskey = s
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
 permissions-button-off =
     .label = Apagar
     .accesskey = A
-
 permissions-button-off-temporarily =
     .label = Desactivar temporalmente
     .accesskey = t
-
 permissions-site-name =
     .label = Sitio web
-
 permissions-status =
     .label = Estado
-
 permissions-remove =
     .label = Retirar sitio web
     .accesskey = R
-
 permissions-remove-all =
     .label = Retirar todos os sitios web
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Gardar cambios
     .buttonaccesskeyaccept = b
-
 permissions-autoplay-menu = Por omisión, para todos os sitios web:
-
 permissions-searchbox =
     .placeholder = Buscar sitio web
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir son e vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloquear son
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear son e vídeo
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Preguntar sempre
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-session =
     .value = Permitir nesta sesión
-
 permissions-capabilities-listitem-off =
     .value = Desactivado
 permissions-capabilities-listitem-off-temporarily =
@@ -124,6 +105,13 @@ permissions-exceptions-saved-logins-window2 =
     .title = Excepcións - Identificacións gardadas
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Non se gardarán as identificacións dos seguintes sitios web
+
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Excepcións - Contrasinais gardados
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } non gardará os contrasinais dos sitios que aparecen aquí.
 
 ## Exceptions - Add-ons
 
@@ -197,26 +185,20 @@ permissions-site-speaker-window =
     .title = Configuración - Permisos de altofalantes
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Os seguintes sitios web solicitaron seleccionar un dispositivo de saída de son. Podes indicar que sitios web teñen permiso para seleccionar un dispositivo de saída de son.
-
 permissions-exceptions-doh-window =
     .title = Excepcións de sitios web para DNS sobre HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } non usará DNS seguro nestes sitios e nos seus subdominios.
-
 permissions-doh-entry-field = Introduza o nome de dominio do sitio web
     .accesskey = I
-
 permissions-doh-add-exception =
     .label = Engadir
     .accesskey = E
-
 permissions-doh-col =
     .label = Dominio
-
 permissions-doh-remove =
     .label = Retirar
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = Retirar todos
     .accesskey = t
