@@ -355,6 +355,14 @@ pdfjs-editor-alt-text-textarea =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Горен ляв ъгъл — преоразмеряване
+pdfjs-editor-resizer-label-top-middle = Горе в средата — преоразмеряване
+pdfjs-editor-resizer-label-top-right = Горен десен ъгъл — преоразмеряване
+pdfjs-editor-resizer-label-middle-right = Дясно в средата — преоразмеряване
+pdfjs-editor-resizer-label-bottom-right = Долен десен ъгъл — преоразмеряване
+pdfjs-editor-resizer-label-bottom-middle = Долу в средата — преоразмеряване
+pdfjs-editor-resizer-label-bottom-left = Долен ляв ъгъл — преоразмеряване
+pdfjs-editor-resizer-label-middle-left = Ляво в средата — преоразмеряване
 
 ## Color picker
 
