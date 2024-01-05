@@ -138,6 +138,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = Copiouse!
 login-item-save-changes-button = Gardar cambios
+about-logins-login-item-save-changes-button = Gardar
 login-item-save-new-button = Gardar
 login-item-cancel-button = Cancelar
 
@@ -165,6 +166,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar o seu inicio de
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar o inicio de sesión gardado
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = editar o contrasinal gardado
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Para ver o seu contrasinal, insira as súas credenciais de inicio de sesión en Windows. Isto axuda a protexer a seguridade das súas contas.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -247,6 +251,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Exportar inicios de sesión e contrasinais
 about-logins-confirm-export-dialog-message = Os seus contrasinais gardaranse como texto lexible (por exemplo, ConTR@sinaLmaL0) para que calquera que poida abrir o ficheiro exportado poida velos.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-confirm-export-dialog-title2 = Unha nota sobre a exportación de contrasinais
+about-logins-confirm-export-dialog-confirm-button2 = Continuar coa exportación
 about-logins-alert-import-title = Importación completada
 about-logins-alert-import-message = Ver o resumo detallado da importación
 confirm-discard-changes-dialog-title = Descartar os cambios non gardados?
@@ -288,6 +294,11 @@ about-logins-export-file-picker-title = Exportar ficheiro de identificacións
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Exportar contrasinais desde { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -301,6 +312,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importar ficheiro de identificacións
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importar contrasinais a { -brand-short-name }
 about-logins-import-file-picker-import-button = Importar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -366,6 +379,9 @@ about-logins-import-report-row-index = Fila { $number }
 about-logins-import-report-row-description-no-change = Duplicado: Coincidencia exacta cun inicio de sesión existente
 about-logins-import-report-row-description-modified = Actualizouse o inicio de sesión existente
 about-logins-import-report-row-description-added = Engadiuse un novo inicio de sesión
+about-logins-import-report-row-description-no-change2 = Duplicado: Coincidencia exacta da entrada existente
+about-logins-import-report-row-description-modified2 = Entrada existente actualizada
+about-logins-import-report-row-description-added2 = Novo contrasinal engadido
 about-logins-import-report-row-description-error = Erro: falta un campo
 
 ##
