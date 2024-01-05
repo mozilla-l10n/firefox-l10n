@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Compras no { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Verificador de recensións
@@ -39,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Nova información para comprobar
 shopping-message-bar-warning-stale-analysis-button = Comprobar agora
-shopping-message-bar-generic-error-title2 = Non hai información dispoñible neste momento
-shopping-message-bar-generic-error-message = Estamos traballando para resolver o problema. Por favor, volva a comprobalo pronto.
-shopping-message-bar-warning-not-enough-reviews-title = Aínda non hai suficientes recensións
-shopping-message-bar-warning-not-enough-reviews-message2 = Cando este produto teña máis recensións, poderemos comprobar a súa calidade.
-shopping-message-bar-warning-product-not-available-title = O produto non está dispoñible
-shopping-message-bar-warning-product-not-available-message2 = Se ve que este produto está de novo en stock, infórmeo e traballaremos en comprobar as recensións.
-shopping-message-bar-warning-product-not-available-button = Informar que este produto está de novo en stock
-shopping-message-bar-thanks-for-reporting-title = Grazas por informar!
-shopping-message-bar-thanks-for-reporting-message2 = Deberíamos ter información sobre as recensións deste produto nun prazo de 24 horas. Volva a comprobalo máis tarde.
-shopping-message-bar-warning-product-not-available-reported-title2 = Información dispoñible en breve
-shopping-message-bar-warning-product-not-available-reported-message2 = Deberíamos ter información sobre as recensións deste produto nun prazo de 24 horas. Por favor, volva a comprobalo máis tarde.
 shopping-message-bar-generic-error =
     .heading = Non hai información dispoñible neste momento
     .message = Estamos traballando para resolver o problema. Por favor, volva a comprobalo pronto.
@@ -68,8 +58,6 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Deberíamos ter información sobre as recensións deste produto nun prazo de 24 horas. Por favor, volva a comprobalo máis tarde.
 shopping-message-bar-analysis-in-progress-title2 = Comprobando a calidade da recensión
 shopping-message-bar-analysis-in-progress-message2 = Isto pode levar uns 60 segundos.
-shopping-message-bar-page-not-supported-title = Non podemos comprobar estas recensións
-shopping-message-bar-page-not-supported-message = Desafortunadamente, non podemos comprobar a calidade das recensións de determinados tipos de produtos. Por exemplo, tarxetas de agasallo e streaming de vídeo, música e xogos.
 shopping-message-bar-page-not-supported =
     .heading = Non podemos comprobar estas recensións
     .message = Desafortunadamente, non podemos comprobar a calidade das recensións de determinados tipos de produtos. Por exemplo, tarxetas de agasallo e streaming de vídeo, música e xogos.
@@ -133,14 +121,6 @@ shopping-sidebar-close-button2 =
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
@@ -170,7 +150,6 @@ shopping-survey-q2-radio-3-label = Non sei
 shopping-survey-next-button-label = Seguinte
 shopping-survey-submit-button-label = Enviar
 shopping-survey-terms-link = Temos de uso
-shopping-survey-thanks-message = Grazas pola súa opinión
 shopping-survey-thanks =
     .heading = Grazas pola súa opinión
 
