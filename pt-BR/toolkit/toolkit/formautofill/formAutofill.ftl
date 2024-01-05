@@ -21,8 +21,12 @@ autofill-options-link-osx = Preferências de preenchimento automático de formul
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizar todos os cartões salvos em meus dispositivos
 # Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Salvar este cartão com segurança?
+credit-card-save-doorhanger-description = O { -brand-short-name } criptografa o número do seu cartão. O código de segurança não é salvo.
 credit-card-capture-save-button =
     .label = Salvar
     .accessKey = S
