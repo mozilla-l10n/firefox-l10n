@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Pechar
     .aria-label = Pechar
+firefoxview-empty-state-icon =
+    .alt = Atención:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Agora mesmo
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -144,6 +146,28 @@ firefoxview-opentabs-focus-tab =
     .title = Cambiar a esta lapela
 firefoxview-show-more = Amosar máis
 firefoxview-show-less = Amosar menos
+firefoxview-show-all = Amosar todo
+firefoxview-search-text-box-clear-button =
+    .title = Borrar
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Buscar
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Buscar no historial
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Busca nas lapelas pechadas recentemente
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Buscar nas lapelas sincronizadas
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Buscar nas lapelas abertas
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Non hai resultados para «{ $query }»
 firefoxview-sort-history-by-date-label = Ordenar pola data
 firefoxview-sort-history-by-site-label = Ordenar polo sitio
 # Variables:
