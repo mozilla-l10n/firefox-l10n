@@ -187,6 +187,7 @@ shopping-onboarding-dynamic-subtitle-1 = 在购买前先看看 <b>{ $currentSite
 shopping-onboarding-single-subtitle = 决定购买前，先看看 <b>{ $currentSite }</b> 上的商品评价是否可信。核查评价是 { -brand-product-name } 的一项实验功能，内置于浏览器中。
 shopping-onboarding-body = { -fakespot-brand-full-name } 可帮助您规避不真实、不公允的评价。在您购物时，我们的人工智能模型也会不断改进，以更好地保护您的权益。<a data-l10n-name="learn_more">详细了解</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = 选择“{ shopping-onboarding-opt-in-button }”即表示您同意 { -fakespot-brand-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和<a data-l10n-name="terms_of_use">使用条款</a>。
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = 选择“{ shopping-onboarding-opt-in-button }”即表示您同意 { -brand-product-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和 { -fakespot-brand-name } 的<a data-l10n-name="terms_of_use">使用条款</a>。
 shopping-onboarding-opt-in-button = 试试看
 shopping-onboarding-not-now-button = 暂时不要
 shopping-onboarding-dialog-close-button =
