@@ -29,7 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importer frå ein annan
 about-logins-menu-menuitem-import-from-a-file = Importer frå ei fil…
 about-logins-menu-menuitem-export-logins = Eksporter innloggingar…
 about-logins-menu-menuitem-remove-all-logins = Fjern alle innloggingar…
-# Item that appears when the user clicks the ⋯  menu
+about-logins-menu-menuitem-export-logins2 = Eksporter passord…
 about-logins-menu-menuitem-remove-all-logins2 = Slett alle passord…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -107,6 +107,8 @@ about-logins-login-intro-heading-logged-out2 = Ser du etter dei lagra innlogging
 about-logins-login-intro-heading-logged-in = Fann ingen synkroniserte innloggingar.
 login-intro-description = Slik kan du få { -brand-product-name }-innloggingane dine hit, om du har lagra dei på ei anna eining:
 login-intro-instructions-fxa = Lag eller logg inn på { -fxaccount-brand-name }en din på eininga der innloggingane dine er lagra.
+about-logins-login-intro-heading-message = Lagre passorda dine på ein trygg stad
+login-intro-description2 = Alle passorda du lagrar i { -brand-product-name } blir krypterte. I tillegg ser vi etter datalekkasjar, og varslar om det gjeld deg. <a data-l10n-name="breach-alert-link">Les meir</a>
 login-intro-instructions-fxa2 = Lag eller logg inn på kontoen din på eininga der innloggingane dine er lagra.
 login-intro-instructions-fxa-settings = Gå til Innstillingar > Synkronisering > Slå på synkronisering… Merk av for innloggingar og passord.
 login-intro-instructions-fxa-passwords-help = Besøk <a data-l10n-name="passwords-help-link">passordstøtte</a> for meir hjelp.
@@ -291,6 +293,9 @@ about-logins-export-file-picker-title = Eksporter fil med innloggingar
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = innloggingar.csv
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passord.csv
 about-logins-export-file-picker-export-button = Eksporter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
