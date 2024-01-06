@@ -915,6 +915,7 @@ forms-windows-sso =
     .label = Povoliť jednotné prihlásenie systému Windows pre konto Microsoft a pracovné a školské účty
 forms-windows-sso-learn-more-link = Ďalšie informácie
 forms-windows-sso-desc = Účty môžete spravovať v nastaveniach vášho zariadenia
+windows-passkey-settings-label = Prístupové kľúče môžete spravovať v nastaveniach systému
 
 ## OS Authentication dialog
 
