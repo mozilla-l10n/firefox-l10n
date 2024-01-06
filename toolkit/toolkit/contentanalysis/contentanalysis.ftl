@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Prebieha analýza obsahu
 contentanalysis-slow-agent-dialog-body = Analýza obsahu analyzuje zdroj “{ $content }”
 contentanalysis-operationtype-clipboard = schránka
 contentanalysis-operationtype-dropped-text = pretiahnutý text
+contentanalysis-warndialogtitle = Tento obsah môže byť nebezpečný
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Vaša organizácia používa softvér na prevenciu straty údajov, ktorý označil tento obsah ako nebezpečný: { $content }. Chcete ho napriek tomu použiť?
+contentanalysis-warndialog-response-allow = Použiť obsah
+contentanalysis-warndialog-response-deny = Zrušiť
 contentanalysis-notification-title = Analýza obsahu
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
