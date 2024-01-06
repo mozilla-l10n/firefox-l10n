@@ -117,16 +117,11 @@ autofill-address-tel = 电话号码
 autofill-address-email = 电子邮箱
 autofill-cancel-button = 取消
 autofill-save-button = 保存
-autofill-country-warning-message = 表单自动填写目前仅适用于部分地区。
+autofill-country-warning-message = 表单自动填写目前仅部分国家/地区可用。
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = 添加新信用卡
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = 编辑信用卡
-autofill-message-tooltip = 查看关于自动填写的信息
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = 添加卡片
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = 编辑卡片
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } 正尝试显示信用卡信息。请在下方登录此 Windows 账户确认。
        *[other] { -brand-short-name } 正尝试显示信用卡信息。
     }
+autofill-message-tooltip = 查看关于自动填写的信息
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = 添加卡片
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = 编辑卡片
 autofill-card-number = 卡号
 autofill-card-invalid-number = 请输入有效的卡号
 autofill-card-name-on-card = 持卡人姓名
