@@ -63,6 +63,11 @@ about-private-browsing-pin-promo-title = ללא עוגיות או היסטורי
 
 ## Strings used in a promotion message for cookie banner reduction
 
+about-private-browsing-cookie-banners-promo-button = צמצום כרזות עוגיות
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = ‏{ -brand-short-name } מטפל בכרזות העוגיות עבורך
+about-private-browsing-cookie-banners-promo-body = אנו מסרבים כעת למגוון כרזות עוגיות אוטומטית כדי לצמצם את המעקב אחריך ולאפשר לך לשוב לגלישה נטולת הסחות דעת.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
