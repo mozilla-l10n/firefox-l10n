@@ -19,6 +19,7 @@ perftools-heading-features-default = תכונות (מומלץ שיהיו פעי�
 perftools-heading-features-disabled = תכונות מושבתות
 perftools-heading-features-experimental = ניסיוני
 perftools-heading-threads = תהליכונים
+perftools-heading-threads-jvm = תהליכוני JVM
 perftools-heading-local-build = בנייה מקומית
 
 ##
