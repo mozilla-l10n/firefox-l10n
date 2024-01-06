@@ -21,6 +21,26 @@ autofill-options-link-osx = 表单自动填写偏好设置
 
 ## The credit card capture doorhanger
 
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = 要安全地保存此卡片吗？
+credit-card-save-doorhanger-description = { -brand-short-name } 会将卡号加密保存。安全码不会被保存。
+credit-card-capture-save-button =
+    .label = 保存
+    .accessKey = S
+credit-card-capture-cancel-button =
+    .label = 暂时不要
+    .accessKey = W
+credit-card-capture-never-save-button =
+    .label = 永不保存卡片
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = 要更新卡片吗？
+credit-card-update-doorhanger-description = 要更新的卡片：
+credit-card-capture-save-new-button =
+    .label = 另存为新卡片
+    .accessKey = C
+credit-card-capture-update-button =
+    .label = 更新现有卡片
+    .accessKey = U
