@@ -1031,10 +1031,14 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = צמצום כרזות עוגיות
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = חוסם כרזות עוגיות
 cookie-banner-learn-more = מידע נוסף
+forms-handle-cookie-banners =
+    .label = צמצום כרזות עוגיות
 
 ## Privacy Section - Address Bar
 

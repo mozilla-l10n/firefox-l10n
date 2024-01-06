@@ -219,6 +219,7 @@ mr2022-onboarding-colorway-description-default = <b>שימוש בצבעי { -bra
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-no-mobile-download-cta-text = יש לסרוק את קוד ה־QR כדי להוריד את { -brand-product-name } למכשיר הנייד.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
@@ -279,5 +280,7 @@ onboarding-device-migration-primary-button-label = כניסה
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = אנחנו אוהבים לשמור עליך
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = להישאר מוצפן במעבר בין מכשירים

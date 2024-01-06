@@ -132,6 +132,7 @@ spotlight-public-wifi-vpn-link = לא כעת
 
 spotlight-better-internet-header = אינטרנט טוב יותר מתחיל בך
 spotlight-better-internet-body = הבחירה להשתמש ב־{ -brand-short-name } משמעה הצבעה עבור אינטרנט פתוח ונגיש שטוב יותר לכולם.
+spotlight-peace-mind-header = אנחנו דואגים לך
 spotlight-peace-mind-body = בכל חודש, { -brand-short-name } חוסם בממוצע למעלה מ־3,000 רכיבי מעקב למשתמש. כי שום דבר, במיוחד מטרדי פרטיות כמו רכיבי מעקב, לא צריך לעמוד בינך לבין האינטרנט הטוב.
 spotlight-pin-primary-button =
     { PLATFORM() ->
@@ -191,9 +192,13 @@ colorways-cfr-body = צבעו את הדפדפן שלכם בגוונים בלעד
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-dismiss-button = לא כעת
+    .accesskey = ל
+cookie-banner-blocker-cfr-header = ‏{ -brand-short-name } חסם הרגע עוגיות עבורך
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = אנחנו דואגים לך
 july-jam-set-default-primary = פתיחת הקישורים שלי באמצעות { -brand-short-name }
 fox-doodle-pin-headline = ברוכים השבים
 # “indie” is short for the term “independent”.
