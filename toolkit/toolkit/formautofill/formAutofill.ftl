@@ -28,3 +28,9 @@ credit-card-capture-never-save-button =
 
 credit-card-update-doorhanger-header = Oppdatere kortet?
 credit-card-update-doorhanger-description = Kort som skal oppdateres:
+credit-card-capture-save-new-button =
+    .label = Lagre som nytt kort
+    .accessKey = L
+credit-card-capture-update-button =
+    .label = Oppdater eksisterende kort
+    .accessKey = O
