@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Rapport sendt. Takk skal du ha!
 confirmation-hint-login-removed = Innlogging fjerna!
+confirmation-hint-password-removed = Passord fjerna!
 confirmation-hint-page-bookmarked = Lagra til bokmerke
 confirmation-hint-password-saved = Passord lagra!
 confirmation-hint-password-created = Passord lagra
