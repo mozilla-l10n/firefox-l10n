@@ -63,6 +63,9 @@ about-private-browsing-pin-promo-title = ללא עוגיות או היסטורי
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = כרזות עוגיות, שחררו אותי!
 about-private-browsing-cookie-banners-promo-button = צמצום כרזות עוגיות
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
