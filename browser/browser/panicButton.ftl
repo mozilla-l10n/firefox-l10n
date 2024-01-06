@@ -28,4 +28,4 @@ panic-button-day =
 panic-button-action-desc = 这将：
 panic-button-delete-cookies = 删除近期的 <strong>Cookie</strong>
 panic-button-delete-history = 删除近期的<strong>历史记录</strong>
-panic-button-delete-tabs-and-windows = 关闭所有的<strong>标签页</strong>和<strong>窗口</strong>
+panic-button-delete-tabs-and-windows = 关闭所有<strong>标签页</strong>和<strong>窗口</strong>
