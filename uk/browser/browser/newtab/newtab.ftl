@@ -182,7 +182,7 @@ newtab-section-menu-add-topsite = Додати до популярних сай�
 newtab-section-menu-add-search-engine = Додати засіб пошуку
 newtab-section-menu-move-up = Вгору
 newtab-section-menu-move-down = Вниз
-newtab-section-menu-privacy-notice = Повідомлення про приватність
+newtab-section-menu-privacy-notice = Положення про приватність
 
 ## Section aria-labels
 
