@@ -108,7 +108,7 @@ about-debugging-setup-usb-step-enable-dev-menu2 = ਆਪਣੇ ਐਂਡਰਾ�
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = ਐਂਡਰਾਇਡ ਡਿਵੈਲਪਰ ਮੀਨੂ ਵਿੱਚ USB ਡੀਬਗਿੰਗ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ।
 # USB section step by step guide
-about-debugging-setup-usb-step-enable-debug-firefox2 = ਐਂਡਰਾਇਡ ਡਿਵਾਈਸ ਤੇ ਫਾਇਰਫਾਕਸ ਵਿਚ USB ਡੀਬੱਗਿੰਗ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ।
+about-debugging-setup-usb-step-enable-debug-firefox2 = Android ਡਿਵਾਈਸ ਉੱਤੇ Firefox ਵਿੱਚ USB ਡੀਬੱਗਿੰਗ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ।
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = ਐਂਡਰਾਈਡ ਡਿਵਾਈਸ ਨੂੰ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨਾਲ ਕਨੈਕਟ ਕਰੋ।
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
