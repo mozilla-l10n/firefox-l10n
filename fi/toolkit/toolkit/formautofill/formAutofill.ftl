@@ -21,6 +21,29 @@ autofill-options-link-osx = Lomakkeiden automaattitäytön asetukset
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Synkronoi kaikki tallennetut kortit laitteiden välillä
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Tallennetaanko tämä kortti turvallisesti?
+credit-card-save-doorhanger-description = { -brand-short-name } salaa korttisi numeron. Turvakoodia ei tallenneta.
+credit-card-capture-save-button =
+    .label = Tallenna
+    .accessKey = T
+credit-card-capture-cancel-button =
+    .label = Ei nyt
+    .accessKey = E
+credit-card-capture-never-save-button =
+    .label = Älä koskaan tallenna kortteja
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Päivitetäänkö kortti?
+credit-card-update-doorhanger-description = Päivitettävä kortti:
+credit-card-capture-save-new-button =
+    .label = Tallenna uutena korttina
+    .accessKey = K
+credit-card-capture-update-button =
+    .label = Päivitä olemassa oleva kortti
+    .accessKey = O
