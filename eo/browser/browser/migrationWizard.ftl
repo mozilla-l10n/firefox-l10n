@@ -76,6 +76,7 @@ migration-bookmarks-option-label = Legosignoj
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Plej ŝatataj
 migration-logins-and-passwords-option-label = Konservitaj legitimiloj kaj pasvortoj
+migration-passwords-option-label = Konservitaj pasvortoj
 migration-history-option-label = Historio de retumo
 migration-extensions-option-label = Etendaĵoj
 migration-form-autofill-option-label = Datumoj pri aŭtomata plenigo de formularoj
