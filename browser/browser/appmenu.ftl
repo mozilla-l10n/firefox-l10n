@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Iloj de retumilo
 appmenu-developer-tools-extensions =
     .label = Etendaĵoj por programistoj
+appmenuitem-report-broken-site =
+    .label = Raporti ne bone funkciantan retejon
