@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+report-broken-site-panel-url = یوآرایل
+report-broken-site-panel-reason-choose =
+    .label = وجہ چݨو
 report-broken-site-panel-button-cancel =
     .label = منسوخ
 report-broken-site-panel-button-okay =
