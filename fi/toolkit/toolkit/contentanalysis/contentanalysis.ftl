@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Sisältöanalyysi käynnissä
 contentanalysis-slow-agent-dialog-body = Sisältöanalyysi analysoi resurssia "{ $content }"
 contentanalysis-operationtype-clipboard = leikepöytä
 contentanalysis-operationtype-dropped-text = pudotettu teksti
+contentanalysis-warndialogtitle = Tämä sisältö saattaa olla vaarallista
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Organisaatiosi käyttää tietojen menetyksen esto-ohjelmistoa, joka on ilmoittanut tämän sisällön turvattomaksi: { $content }. Otetaanko se silti käyttöön?
+contentanalysis-warndialog-response-allow = Käytä sisältöä
+contentanalysis-warndialog-response-deny = Peruuta
 contentanalysis-notification-title = Sisällön analyysi
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
