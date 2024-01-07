@@ -29,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = ٻئے براؤزر ک�
 about-logins-menu-menuitem-import-from-a-file = فائل کنوں درآمد کرو…
 about-logins-menu-menuitem-export-logins = لاگ اناں برآمد کرو…
 about-logins-menu-menuitem-remove-all-logins = سارے لاگ ان ہٹاؤ۔۔۔
+about-logins-menu-menuitem-remove-all-logins2 = سارے پاس ورڈ ہٹاؤ۔۔۔
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] اختیارات
@@ -182,6 +183,8 @@ confirmation-dialog-dismiss-button =
     .title = منسوخ
 about-logins-confirm-remove-dialog-title = ایہ لاگ ان ہٹاؤں؟
 confirm-delete-dialog-message = ایہ عمل آیا ون٘ڄایا نئیں تھی سڳدا۔
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = پاس ورڈ ہٹاؤں؟
 about-logins-confirm-remove-dialog-confirm-button = ہٹاؤ
 
 ## Variables
@@ -282,6 +285,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = لاگ ان فائل درآمد کرو
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = { -brand-short-name } تے  پاس ورڈ درآمد کرو
 about-logins-import-file-picker-import-button = درآمد کرو
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

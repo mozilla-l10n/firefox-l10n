@@ -9,6 +9,7 @@ autofill-manage-addresses-title = ہتھیکڑے پتے
 autofill-manage-addresses-list-header = پتے
 autofill-manage-credit-cards-title = ہتھیکڑے کریڈٹ کارڈز
 autofill-manage-credit-cards-list-header = کریڈٹ کارڈز
+autofill-manage-cards-list-header = کارڈز
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ہٹاؤ
