@@ -110,6 +110,7 @@ login-intro-instructions-fxa-settings = Avaa Asetukset > Synkronointi > Ota synk
 login-intro-instructions-fxa-passwords-help = Käy <a data-l10n-name="passwords-help-link">salasanatuessa</a> saadaksesi lisätietoja.
 about-logins-intro-browser-only-import = Jos kirjautumistietojasi on tallennettu toiseen selaimeen, voit <a data-l10n-name="import-link">tuoda ne { -brand-product-name }iin</a>
 about-logins-intro-import2 = Jos kirjautumistietosi on tallennettu { -brand-product-name }-selaimen ulkopuolelle, voit <a data-l10n-name="import-browser-link">tuoda ne toisesta selaimesta</a> tai <a data-l10n-name="import-file-link">tiedostosta</a>
+about-logins-intro-import3 = Lisää salasana valitsemalla yllä oleva plusmerkkipainike. Voit myös <a data-l10n-name="import-browser-link">tuoda salasanoja toisesta selaimesta</a> tai <a data-l10n-name="import-file-link">tiedostosta</a> a>.
 
 ## Login
 
