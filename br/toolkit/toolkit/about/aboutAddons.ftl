@@ -374,6 +374,7 @@ addon-detail-group-label-updates =
 addon-badge-private-browsing-allowed2 =
     .title = Aotreet er prenestroù prevez
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = Ma’z eo aotreet e c’hall an askouezh haeziñ hoc’h obererezh enlinenn e-pad ar merdeiñ prevez. <a data-l10n-name="learn-more">Gouzout hiroc’h</a>
 addon-detail-private-browsing-allow = Aotren
 addon-detail-private-browsing-disallow = Na aotren
 # aria-label associated to the private browsing row to help screen readers to announce the group
