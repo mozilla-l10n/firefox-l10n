@@ -40,22 +40,27 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Uusia tietoja tarkistettavaksi
 shopping-message-bar-warning-stale-analysis-button = Tarkista nyt
-shopping-message-bar-generic-error-title2 = Tietoja ei juuri nyt saatavilla
-shopping-message-bar-generic-error-message = Pyrimme ratkaisemaan ongelman. Tarkista tilanne pian uudelleen.
-shopping-message-bar-warning-not-enough-reviews-title = Ei vielä tarpeeksi arvosteluja
-shopping-message-bar-warning-not-enough-reviews-message2 = Kun tästä tuotteesta on enemmän arvosteluja, voimme tarkistaa niiden laadun.
-shopping-message-bar-warning-product-not-available-title = Tuote ei ole saatavilla
-shopping-message-bar-warning-product-not-available-message2 = Jos huomaat, että tämä tuote on jälleen varastossa, ilmoita siitä, niin tarkistamme arvostelut.
-shopping-message-bar-warning-product-not-available-button = Ilmoita, että tämä tuote on jälleen varastossa
-shopping-message-bar-thanks-for-reporting-title = Kiitos ilmoituksesta!
-shopping-message-bar-thanks-for-reporting-message2 = Meillä pitäisi olla tietoa tämän tuotteen arvosteluista 24 tunnin sisällä. Tarkista tilanne uudelleen.
-shopping-message-bar-warning-product-not-available-reported-title2 = Tietoa tulossa pian
-shopping-message-bar-warning-product-not-available-reported-message2 = Meillä pitäisi olla tietoa tämän tuotteen arvosteluista 24 tunnin sisällä. Tarkista tilanne uudelleen.
+shopping-message-bar-generic-error =
+    .heading = Tietoja ei juuri nyt saatavilla
+    .message = Työskentelemme ongelman selvittämiseksi. Tarkista myöhemmin uudelleen.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ei vielä tarpeeksi arvosteluja
+    .message = Kun tällä tuotteella on enemmän arvosteluja, voimme tarkistaa arvostelujen laadun.
+shopping-message-bar-warning-product-not-available =
+    .heading = Tuote ei ole saatavilla
+    .message = Jos huomaat tämän tuotteen olevan jälleen saataville, ilmoita meille ja me tarkistamme arvostelut.
 shopping-message-bar-warning-product-not-available-button2 = Ilmoita, että tuoteta on varastossa
+shopping-message-bar-thanks-for-reporting =
+    .heading = Kiitos ilmoituksesta!
+    .message = Meillä pitäisi olla tietoja tämän tuotteen arvosteluista 24 tunnin sisällä. Tarkista siis uudelleen.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Tietoa tulossa pian
+    .message = Meillä pitäisi olla tietoja tämän tuotteen arvosteluista 24 tunnin sisällä. Tarkista siis uudelleen.
 shopping-message-bar-analysis-in-progress-title2 = Tarkistetaan arvostelun laatua
 shopping-message-bar-analysis-in-progress-message2 = Tämä voi kestää noin 60 sekuntia.
-shopping-message-bar-page-not-supported-title = Emme voi tarkistaa näitä arvosteluja
-shopping-message-bar-page-not-supported-message = Valitettavasti emme voi tarkistaa arvostelun laatua tietyntyyppisten tuotteiden osalta. Esimerkiksi lahjakortit ja suoratoistovideot, musiikki ja pelit.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Tarkistetaan arvostelun laatua ({ $percentage } %)
 shopping-message-bar-page-not-supported =
     .heading = Emme voi tarkistaa näitä arvosteluja
     .message = Valitettavasti emme voi tarkistaa arvostelun laatua tietyntyyppisten tuotteiden osalta. Esimerkiksi lahjakortit ja suoratoistovideot, musiikki ja pelit.
@@ -104,7 +109,11 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Käytämme { -fakespot-brand-full-name }in tekoälyteknologiaa tuotearvostelujen luotettavuuden tarkistamiseen. Tämä auttaa arvioimaan vain arvostelun laatua, ei tuotteen laatua.
 shopping-analysis-explainer-grades-intro = Annamme kunkin tuotteen arvosteluille <strong>kirjainarvosanan</strong> A:sta F:ään.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Oikaistu arvosana</strong> perustuu vain niihin arvosteluihin, jotka koemme luotettaviksi.
-shopping-analysis-explainer-learn-more = Lue lisää <a data-l10n-name="review-quality-url">miten { -fakespot-brand-full-name } määrittää arvostelujen laadun</a>.
+shopping-analysis-explainer-learn-more2 = Lue lisää <a data-l10n-name="review-quality-url">miten { -fakespot-brand-name } määrittää arvostelujen laadun</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Kohokohdat</strong> ovat { $retailer } arvostelusta viimeisten 80 päivän ajalta, joiden uskomme olevan luotettavia.
 shopping-analysis-explainer-review-grading-scale-reliable = Luotettavat arvostelut. Uskomme, että arvostelut ovat todennäköisesti todellisilta asiakkailta, jotka ovat jättäneet rehellisiä, puolueettomia arvosteluja.
 shopping-analysis-explainer-review-grading-scale-mixed = Uskomme, että kyseessä on sekä luotettavia että epäluotettavia arvosteluja.
 shopping-analysis-explainer-review-grading-scale-unreliable = Epäluotettavat arvostelut. Uskomme, että arvostelut ovat todennäköisesti vääriä tai puolueellisia.
@@ -120,10 +129,11 @@ shopping-sidebar-close-button2 =
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Näistä arvosteluista ei ole vielä tietoa
+shopping-unanalyzed-product-message-2 = Tarkista arvostelun laatu, jos haluat tietää, ovatko tämän tuotteen arvostelut luotettavia. Se kestää vain noin 60 sekuntia.
 shopping-unanalyzed-product-analyze-button = Tarkista arvostelun laatu
 
 ## Strings for the advertisement
@@ -148,7 +158,6 @@ shopping-survey-q2-radio-3-label = En tiedä
 shopping-survey-next-button-label = Seuraava
 shopping-survey-submit-button-label = Lähetä
 shopping-survey-terms-link = Käyttöehdot
-shopping-survey-thanks-message = Kiitos palautteestasi!
 shopping-survey-thanks =
     .heading = Kiitos palautteestasi!
 
@@ -157,6 +166,7 @@ shopping-survey-thanks =
 ## access the feature.
 
 shopping-callout-pdp-opted-in-title = Ovatko nämä arvostelut luotettavia? Ota selvää nopeasti.
+shopping-callout-closed-not-opted-in-title = Luotettavat arvostelut yhdellä napsautuksella
 
 ## Onboarding message strings.
 
