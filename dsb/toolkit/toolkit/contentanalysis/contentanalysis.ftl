@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Analyza wopśimjeśa běžy
 contentanalysis-slow-agent-dialog-body = Analyza wopśimjeśa resursu „{ $content }“ analyzěrujo
 contentanalysis-operationtype-clipboard = mjazywótkład
 contentanalysis-operationtype-dropped-text = pušćony tekst
+contentanalysis-warndialogtitle = Toś to wopśimjeśe jo snaź njewěste
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Waša organizacija software pśeśiwo tšuśeju datow wužywa, kótaraž jo wóznamjeniła toś to wopśimjeśe ako njewěste: { $content }. Jo weto wužywaś?
+contentanalysis-warndialog-response-allow = Wopśimjeśe wužywaś
+contentanalysis-warndialog-response-deny = Pśetergnuś
 contentanalysis-notification-title = Analyza wopśimjeśa
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
