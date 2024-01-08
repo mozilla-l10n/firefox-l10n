@@ -21,6 +21,9 @@ autofill-options-link-osx = Προτιμήσεις αυτόματης συμπλ
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Συγχρονισμός των αποθηκευμένων καρτών σε όλες τις συσκευές μου
 # Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Ασφαλής αποθήκευση κάρτας;
 credit-card-save-doorhanger-description = Το { -brand-short-name } κρυπτογραφεί τον αριθμό της κάρτας σας. Ο κωδικός ασφαλείας σας δεν θα αποθηκευτεί.
@@ -30,10 +33,14 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Όχι τώρα
     .accessKey = ρ
+credit-card-capture-never-save-button =
+    .label = Να μη γίνεται ποτέ αποθήκευση καρτών
+    .accessKey = Ν
 
 # Used on the doorhanger when an credit card change is detected.
 
 credit-card-update-doorhanger-header = Ενημέρωση κάρτας;
+credit-card-update-doorhanger-description = Κάρτα προς ενημέρωση:
 credit-card-capture-save-new-button =
     .label = Αποθήκευση ως νέα κάρτα
     .accessKey = κ
