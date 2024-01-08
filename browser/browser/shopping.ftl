@@ -112,7 +112,6 @@ shopping-analysis-explainer-intro2 =
     To buźo jano pomagaś, kwalitu pógódnośenjow pósuźiś, nic kwalitu produktow.
 shopping-analysis-explainer-grades-intro = Pśirědujomy pógódnośenjam kuždego produkta <strong>pismikowu cenzuru</strong> wót A do F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Pśiměrjone pógódnośowanje</strong> jano na pógódnośenjach bazěrujo, kótarež mamy za spušćobne.
-shopping-analysis-explainer-learn-more = Zgóńśo wěcej wó tom, <a data-l10n-name="review-quality-url">kak { -fakespot-brand-full-name } kwalitu pógódnośenja póstaja</a>.
 shopping-analysis-explainer-learn-more2 = Zgóńśo wěcej wó tom, <a data-l10n-name="review-quality-url">kak { -fakespot-brand-name } kwalitu pógódnośenja póstaja</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -128,14 +127,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Kontrolu pógódnośenjow wócyniś
 shopping-sidebar-close-button2 =
     .tooltiptext = Kontrolu pógódnośenjow zacyniś
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -197,8 +188,8 @@ shopping-onboarding-dynamic-subtitle-1 = Glědajśo, kak spušćobne produktowe 
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Glědajśo, kak spušćobne pógódnośenja produktow na <b>{ $currentSite }</b> su, nježli až produkty kupujośo. Kontrola pógódnośenjow, eksperimentalna funkcija z { -brand-product-name }, jo direktnje do wobglědowaka zatwarjona.
 shopping-onboarding-body = Z pomocu potenciala { -fakespot-brand-full-name }, pomagamy wam, se njeawtentiskich pógódnośenjow a pógódnośenjow połnych pśedsudkow wobinuś. Naš model KI se stawnje pólěpšujo, aby was šćitał, gaž nakupujośo. <a data-l10n-name="learn_more">Dalšne informacije</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Gaž “{ shopping-onboarding-opt-in-button }“ wuběraśo, zwólijośo do<a data-l10n-name="privacy_policy">pšawidłow priwatnosći</a> a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Gaž “{ shopping-onboarding-opt-in-button }“ wuběraśo, zwólijośo do<a data-l10n-name="privacy_policy">pšawidłow priwatnosći</a> a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Gaž “{ shopping-onboarding-opt-in-button }“ wuběraśo, zwolijośo do <a data-l10n-name="privacy_policy">pšawidłow priwatnosći</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Jo, wopytaś
 shopping-onboarding-not-now-button = Nic něnto
 shopping-onboarding-dialog-close-button =
