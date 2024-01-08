@@ -629,7 +629,7 @@ search-show-search-term-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Εμφάνιση προτάσεων αναζήτησης πριν το ιστορικό περιήγησης στα αποτελέσματα γραμμής διευθύνσεων
+    .label = Εμφάνιση προτάσεων αναζήτησης πριν από το ιστορικό περιήγησης στα αποτελέσματα γραμμής διευθύνσεων
 search-show-suggestions-private-windows =
     .label = Εμφάνιση προτάσεων αναζήτησης σε ιδιωτικά παράθυρα
 suggestions-addressbar-settings-generic2 = Αλλαγή ρυθμίσεων για άλλες προτάσεις της γραμμής διευθύνσεων
