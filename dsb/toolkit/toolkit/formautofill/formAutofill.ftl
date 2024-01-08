@@ -21,6 +21,29 @@ autofill-options-link-osx = Nastajenja za awtomatiske wupołnjowanje formularowy
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Wšykne skłaźone kórty pśez móje rědy synchronizěrowaś
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Toś tu kórtu wěsće składowaś?
+credit-card-save-doorhanger-description = { -brand-short-name } waš kórtowy numer koděrujo. Waš wěstotny kod njebuźo se składowaś.
+credit-card-capture-save-button =
+    .label = Składowaś
+    .accessKey = S
+credit-card-capture-cancel-button =
+    .label = Nic něnto
+    .accessKey = N
+credit-card-capture-never-save-button =
+    .label = Kórty nigda njeskładowaś
+    .accessKey = K
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Kórtu aktualizěrowaś?
+credit-card-update-doorhanger-description = Kórta, kótaraž se ma aktualizěrowaś:
+credit-card-capture-save-new-button =
+    .label = Ako nowu kórtu składowaś
+    .accessKey = A
+credit-card-capture-update-button =
+    .label = Eksistěrujucu kórtu aktualizěrowaś
+    .accessKey = E
