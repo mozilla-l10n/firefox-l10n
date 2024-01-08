@@ -166,6 +166,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Skriv inn innloggingsinform
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = rediger lagra innlogging
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = redigere det lagra passordet
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å vise passordet. Dette vil gjere kontoane dine tryggare.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -181,6 +184,9 @@ about-logins-export-password-os-auth-dialog-message-win = For å eksportere innl
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = eksporter lagra innloggingar og passord
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = eksporter lagra passord
 
 ## Primary Password notification
 
@@ -246,12 +252,19 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [1] Ja, fjern passordet
        *[other] Yes, remove passwords
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Fjerne { $count } passord?
+       *[other] Fjerne alle { $count } passorda?
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Eksporter innloggingar og passord
 about-logins-confirm-export-dialog-message = Passorda dine vert lagra som lesbar tekst (t.d. DårlegP@ss0rd), slik at alle som kan åpne den eksporterte fila kan sjå dei.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
+about-logins-confirm-export-dialog-confirm-button2 = Hald fram med eksport
 about-logins-alert-import-title = Import fullført
 about-logins-alert-import-message = Vis detaljert importoversikt
 confirm-discard-changes-dialog-title = Vil du forkaste endringar som ikkje er lagra?
@@ -293,6 +306,8 @@ about-logins-export-file-picker-title = Eksporter fil med innloggingar
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = innloggingar.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Eksporter passord frå { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = passord.csv
@@ -309,6 +324,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importer fil med innloggingar
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importer passord til { -brand-short-name }
 about-logins-import-file-picker-import-button = Importer
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

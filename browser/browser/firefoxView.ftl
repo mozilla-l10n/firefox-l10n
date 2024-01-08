@@ -167,6 +167,10 @@ firefoxview-search-text-box-syncedtabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Søk i opne faner
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Søkjeresultat for «{ $query }»
 # Variables:
 #   $count (Number) - The number of visits matching the search query.
 firefoxview-search-results-count =
