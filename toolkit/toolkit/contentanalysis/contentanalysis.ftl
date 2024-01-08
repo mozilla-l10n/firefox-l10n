@@ -12,6 +12,10 @@ contentanalysis-slow-agent-dialog-title = Ανάλυση περιεχομένο�
 contentanalysis-slow-agent-dialog-body = Η Ανάλυση περιεχομένου αναλύει τον πόρο «{ $content }»
 contentanalysis-operationtype-clipboard = πρόχειρο
 contentanalysis-operationtype-dropped-text = εναποθετημένο κείμενο
+contentanalysis-warndialogtitle = Το περιεχόμενο ενδέχεται να μην είναι ασφαλές
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Ο οργανισμός σας χρησιμοποιεί λογισμικό πρόληψης απώλειας δεδομένων και έχει επισημάνει αυτό το περιεχόμενο ως μη ασφαλές: { $content }. Να επιτραπεί η χρήση του;
 contentanalysis-warndialog-response-allow = Χρήση περιεχομένου
 contentanalysis-warndialog-response-deny = Ακύρωση
 contentanalysis-notification-title = Ανάλυση περιεχομένου
