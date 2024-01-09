@@ -246,7 +246,7 @@ device-migration-fxa-spotlight-older-device-header = { -brand-product-name } ile
 device-migration-fxa-spotlight-older-device-body = Hesabınıza bağladığınız tüm cihazlarınızda önemli bilgileriniz güncel ve güvende kalır.
 device-migration-fxa-spotlight-older-device-primary-button = Hesap oluştur
 device-migration-fxa-spotlight-getting-new-device-header-2 = Yeni bir cihaza geçmeyi düşünüyor musunuz?
-device-migration-fxa-spotlight-getting-new-device-body = Verilerinizi hemen yedekleyin, cihazınız gelince kullanıma hazır olun.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Yeni bir cihaza geçerken yer imlerinizi, geçmişinizi ve parolalarınızı yanınızda götürmek isterseniz birkaç basit adımda işe başlayabilirsiniz.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Verilerimi nasıl yedekleyebilirim?
 
 ## Set as Default PDF Reader Infobar
