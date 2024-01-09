@@ -5,6 +5,9 @@
 
 ## OS Prompt Dialog
 
+# The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-use-payment-method-os-prompt-macos = použít uložené informace o platební metodě
 autofill-use-payment-method-os-prompt-other = { -brand-short-name } se snaží použít uložené informace o způsobu platby.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
@@ -15,6 +18,9 @@ autofill-options-link-osx = Předvolby automatického vyplňování formulářů
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Synchronizovat všechny uložené karty mezi mými zařízeními
 # Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Bezpečně uložit tuto kartu?
 credit-card-save-doorhanger-description = { -brand-short-name } zašifruje číslo vaší karty. Váš bezpečnostní kód nebude uložen.

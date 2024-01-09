@@ -13,6 +13,7 @@ contentanalysis-slow-agent-dialog-body = Analýza obsahuje analyzuje zdroj  „{
 contentanalysis-operationtype-clipboard = schránka
 contentanalysis-operationtype-dropped-text = přetažený text
 contentanalysis-warndialogtitle = Tento obsah může být nebezpečný
+contentanalysis-warndialog-response-allow = Použít obsah
 contentanalysis-warndialog-response-deny = Zrušit
 contentanalysis-notification-title = Analýza obsahu
 # Variables:
