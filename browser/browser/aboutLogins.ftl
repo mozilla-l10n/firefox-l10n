@@ -124,6 +124,11 @@ login-item-edit-button = Променяне
 about-logins-login-item-remove-button = Премахване
 login-item-origin-label = Адрес на страницата
 login-item-tooltip-message = Уверете се, че съвпада с точния адрес на страницата, в която влизате.
+about-logins-origin-tooltip2 = Въведете пълния адрес и се уверете че има точно съвпадение със страницата, в която влизате.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Уверете се, че сте запазили текущата парола за тази страница. Смяната на паролата тук не я променя в/ъв { $webTitle }.
+about-logins-add-password-tooltip = Уверете се, че сте запазили текущата парола за тази страница.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Потребителско име
@@ -165,6 +170,8 @@ about-logins-edit-login-os-auth-dialog-message-win = За да променит�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = прави промени в данни за вход
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = За да промените паролата, въведете данните си за вход в Windows. Това се прави с цел защита на вашите регистрации.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = променя запазена парола
@@ -183,6 +190,8 @@ about-logins-export-password-os-auth-dialog-message-win = За да изнесе
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = изнасяне на запазени регистрации и пароли
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = За да изнесете паролите, въведете данните си за вход в Windows. Това се прави с цел защита на вашите регистрации.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = изнася забравена парола
@@ -240,6 +249,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Така ще бъде премахната запазената във { -brand-short-name } регистрация от всички устройства, синхронизирани с { -fxaccount-brand-name }. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
        *[other] Така ще бъдат премахнати запазените във { -brand-short-name } регистрации от всички устройства, синхронизирани с { -fxaccount-brand-name }. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
     }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [one] Така ще бъде премахната запазената във { -brand-short-name } регистрация от всички устройства, синхронизирани с профила. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
+       *[other] Така ще бъдат премахнати запазените във { -brand-short-name } регистрации от всички устройства, синхронизирани с профила. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -251,6 +265,12 @@ about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
         [one] Премахване на { $count } парола?
        *[other] Премахване на всички { $count } пароли?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [one] Така ще премахнете запазената във { -brand-short-name } парола и всички сигнали за пробиви. Действието е необратимо.
+       *[other] Така ще премахнете запазените във { -brand-short-name } пароли и всички сигнали за пробиви. Действието е необратимо.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
@@ -386,6 +406,7 @@ about-logins-import-dialog-error-try-import-again = Опитайте внася�
 about-logins-import-dialog-error-cancel = Отказ
 about-logins-import-report-title = Отчет за внасянето
 about-logins-import-report-description = Регистрации и пароли внесени в { -brand-short-name }.
+about-logins-import-report-description2 = Пароли внесени в/ъв { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -425,6 +446,11 @@ about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавена парола</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Добавени пароли</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновена съществуваща регистрация</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Обновени съществуващи регистрации</div>
     }
 about-logins-import-report-no-change2 =
     { $count ->
