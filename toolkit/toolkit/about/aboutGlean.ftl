@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (keinen Ping senden)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Stellen Sie sicher, dass im vorangehenden Feld ein einprägsames Debug-Tag vorhanden ist, damit Sie Ihre Pings später wiedererkennen können.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Setzen Sie ein einprägsames Debug-Tag <span>(20 Zeichen oder weniger, nur alphanumerische Zeichen und -)</span>, damit Sie Ihre Pings später wiedererkennen können.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
