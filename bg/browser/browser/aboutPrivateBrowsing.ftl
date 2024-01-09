@@ -68,6 +68,13 @@ about-private-browsing-pin-promo-title = Без запазени бисквит�
 about-private-browsing-cookie-banners-promo-header = Банерите за бисквитките изчезнаха!
 about-private-browsing-cookie-banners-promo-button = Намаляване на банерите за бисквитки
 about-private-browsing-cookie-banners-promo-message = Нека { -brand-short-name } автоматично отговаря на изскачащите прозорци на бисквитките вместо вас, за да можете да се върнете към разглеждането без разсейване. { -brand-short-name } ще отхвърли всички заявки, ако е възможно.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } се грижи за банерите за бисквитки вместо вас
+about-private-browsing-cookie-banners-promo-body = Вече автоматично отказваме много от банерите за бисквитки, за да можете да бъдете проследяване по-малко и да разглеждате без да бъдете разсейвани от тях.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = Без никакви следи на устройството
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } изтрива бисквитките, историята и данни от разглеждането, когато затворите всички поверителни прозорци.
+about-private-browsing-felt-privacy-v1-info-link = Кой би могъл да види моята дейност?
