@@ -136,6 +136,7 @@ about-webrtc-fold-default-show-msg = Skrammañ ar munudoù
     .title = Klikit evit kreskaat al lodenn-mañ
 about-webrtc-fold-default-hide-msg = Kuzhat ar munudoù
     .title = Klikañ da ziskar ar gevrenn-mañ
+about-webrtc-discarded-packets-label = Pakadoù dilezet:
 about-webrtc-decoder-label = Ezvoneger
 about-webrtc-encoder-label = Enboneger
 about-webrtc-show-tab-label = Diskouez an ivinell
@@ -154,6 +155,13 @@ about-webrtc-rotation-degrees = Troiñ (derezioù)
 ##
 
 
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
+
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
 ## Variables:
@@ -163,12 +171,44 @@ about-webrtc-save-page-msg = pajenn enrollet e: { $path }
 about-webrtc-debug-mode-off-state-msg = Kerzhlevr ar roudoù a c'hall bezañ kavet e: { $path }
 about-webrtc-debug-mode-on-state-msg = mod diveugañ gweredekaet, kerzhlevr ar roudoù e: { $path }
 about-webrtc-aec-logging-off-state-msg = Restroù kerzhlevr euvret a c'hall bezañ kavet e-barzh: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Pajenn enrollet e: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Kerzhlevr ar roudoù a c'hall bezañ kavet e: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Mod diveugañ gweredekaet, kerzhlevr ar roudoù e: { $path }
-
-##
-
+# This is the total number of packets received on the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets received.
+about-webrtc-received-label =
+    { $packets ->
+        [one] { $packets } pakad resevet
+        [two] { $packets } bakad resevet
+        [few] { $packets } fakad resevet
+        [many] { $packets } a bakadoù resevet
+       *[other] { $packets } a bakadoù resevet
+    }
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] { $packets } pakad kollet
+        [two] { $packets } bakad kollet
+        [few] { $packets } fakad kollet
+        [many] { $packets } a bakadoù kollet
+       *[other] { $packets } a bakadoù kollet
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] { $packets } pakad kaset
+        [two] { $packets } bakad kaset
+        [few] { $packets } fakad kaset
+        [many] { $packets } a bakadoù kaset
+       *[other] { $packets } a bakadoù kaset
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
