@@ -7,22 +7,18 @@
 
 about-config-intro-warning-title = Prossiga com cautela
 about-config-intro-warning-text = Alterar preferências de configuração avançadas pode afetar o desempenho ou a segurança do { -brand-short-name }.
-about-config-intro-warning-checkbox = Mostrar este aviso quando eu for acessar essas preferências
+about-config-intro-warning-checkbox = Mostrar este aviso quando eu acessar essas preferências
 about-config-intro-warning-button = Aceitar o risco e continuar
 
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Alterar essas preferências pode afetar o desempenho ou a segurança do { -brand-short-name }.
-
 about-config-page-title = Preferências avançadas
-
 about-config-search-input1 =
     .placeholder = Pesquisar preferências por nome
 about-config-show-all = Mostrar tudo
-
 about-config-show-only-modified = Mostrar apenas preferências modificadas
-
 about-config-pref-add-button =
     .title = Adicionar
 about-config-pref-toggle-button =
