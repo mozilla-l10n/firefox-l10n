@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Analiza vsebine poteka
 contentanalysis-slow-agent-dialog-body = Analiza vsebine analizira vir "{ $content }"
 contentanalysis-operationtype-clipboard = odložišče
 contentanalysis-operationtype-dropped-text = spuščeno besedilo
+contentanalysis-warndialogtitle = Ta vsebina morda ni varna
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Vaša organizacija uporablja programsko opremo za preprečevanje izgube podatkov, ki je to vsebino prepoznala kot ne dovolj varno: { $content }. Jo želite kljub temu uporabiti?
+contentanalysis-warndialog-response-allow = Uporabi vsebino
+contentanalysis-warndialog-response-deny = Prekliči
 contentanalysis-notification-title = Analiza vsebine
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
