@@ -187,6 +187,7 @@ shopping-onboarding-dynamic-subtitle-1 = Ehechajey iporãha umi marandu’i apop
 shopping-onboarding-single-subtitle = Ehechajey ejeroviaha marandu’i apopyre <b>{ $currentSite }</b> pegua ejogua mboyve. Pe marandu’i rechajeyha, tembiapoite { -brand-product-name } rehegua, ojuajuete kundahára ndive.
 shopping-onboarding-body = Eiporúvo tembiporupyahu { -fakespot-brand-full-name } mba’éva, roipytyvõta emboyke hag̃ua marandu’ivai ha hekotee’ỹva. Ore IA iporãve ñemo’ã hag̃ua emba’ejogua aja. <a data-l10n-name="learn_more">Eikuaave</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Eiporavóvo “{ shopping-onboarding-opt-in-button }“, emoneĩma <a data-l10n-name="privacy_policy">temiñemi porureko</a> { -fakespot-brand-name } mba’e ha <a data-l10n-name="terms_of_use">jeporu rehegua.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Eiporavóvo “{ shopping-onboarding-opt-in-button }“, emoneĩma <a data-l10n-name="privacy_policy">temiñemi porureko</a> { -fakespot-brand-name } mba’e ha <a data-l10n-name="terms_of_use">jeporu rehegua.</a> { -fakespot-brand-name } rehegua.
 shopping-onboarding-opt-in-button = Héẽ, eiporu
 shopping-onboarding-not-now-button = Ani ko’ág̃a
 shopping-onboarding-dialog-close-button =

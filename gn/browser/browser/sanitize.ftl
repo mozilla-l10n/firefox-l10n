@@ -80,6 +80,7 @@ item-form-search-history =
 item-site-prefs =
     .label = Tenda ñemboheko
     .accesskey = i
+item-site-prefs-description = Erujey umi ñemoneĩ ha jerohoryvéva tenda rehegua ñemboheko ypyguápe
 item-download-history =
     .label = Marandurenda mboguejypyre rysýi
     .accesskey = D
