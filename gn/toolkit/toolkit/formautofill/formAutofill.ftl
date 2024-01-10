@@ -21,6 +21,12 @@ autofill-options-link-osx = Myanyhẽha ijeheguíva jerohoryvéva
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Embojuehapaite umi kuatia’atã ñongatupyre che mba’e’okápe
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = ¿Eñongatu ko kuatia’atã tekorosãme?
+credit-card-save-doorhanger-description = { -brand-short-name } ombopapapy nde kuatia’atã. Nde kuatia’atã ayvu noñeñongatumo’ãi.
 credit-card-capture-save-button =
     .label = Ñongatu
     .accessKey = S

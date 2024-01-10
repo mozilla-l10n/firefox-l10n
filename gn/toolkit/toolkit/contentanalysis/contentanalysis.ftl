@@ -12,6 +12,7 @@ contentanalysis-slow-agent-dialog-title = Tetepy resa’ỹijo oikovahína
 contentanalysis-slow-agent-dialog-body = Pe tetepy ñehesa’ỹijoha ohesa’ỹijo “{ $content }” mba’e
 contentanalysis-operationtype-clipboard = kuatiajokoha
 contentanalysis-operationtype-dropped-text = moñe’ẽrã ho’áva
+contentanalysis-warndialogtitle = Ko tetepy ikatu nahekorosãi
 contentanalysis-warndialog-response-allow = Eiporu tetepy
 contentanalysis-warndialog-response-deny = Heja
 contentanalysis-notification-title = Tetepy resa’ỹijo
