@@ -75,6 +75,7 @@ about-webauthn-auth-option-userverificationmgmtpreview = Prototype d’enregistr
 about-webauthn-auth-option-uvbioenroll = Autorisation d’enregistrement biométrique
 about-webauthn-auth-option-credmgmt = Gestion des informations d’authentification
 about-webauthn-auth-option-setminpinlength = Définir la longueur minimale du code PIN
+about-webauthn-auth-option-alwaysuv = Toujours exiger une vérification de l’utilisateur
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Vrai
 # Shows when boolean value of an option is False. False should not be translated.
