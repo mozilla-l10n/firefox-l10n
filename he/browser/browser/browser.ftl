@@ -952,7 +952,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
-firefox-relay-offer-why-to-use-relay = המסכות המאובטחות והקלות לשימוש שלנו מגנות על הזהות שלך ומונעות דואר זבל על־ידי הסתרת כתובת הדוא״ל שלך.
+firefox-relay-offer-why-to-use-relay = המסיכות המאובטחות והקלות לשימוש שלנו מגנות על הזהות שלך ומונעות דואר זבל על־ידי הסתרת כתובת הדוא״ל שלך.
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = כל הודעות הדוא״ל שנשלחים למסיכות הדוא״ל שלך יועברו אל <strong>{ $useremail }</strong> (אלא אם תבחר לחסום אותם).
