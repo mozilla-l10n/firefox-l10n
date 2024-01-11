@@ -8,10 +8,13 @@
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-use-payment-method-os-prompt-macos = použít uložené informace o platební metodě
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } chce použít uložené informace o platební metodě. Potvrďte prosím přístup k níže uvedenému účtu Windows.
 autofill-use-payment-method-os-prompt-other = { -brand-short-name } se snaží použít uložené informace o způsobu platby.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-payment-method-os-prompt-macos = zobrazit uložené informace o způsobu platby
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } chce zobrazit informace o uložené platební metodě. Potvrďte prosím přístup k níže uvedenému účtu Windows.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } chce zobrazit informace o uložené platební metodě.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Možnosti automatického vyplňování formulářů
 autofill-options-link-osx = Předvolby automatického vyplňování formulářů
