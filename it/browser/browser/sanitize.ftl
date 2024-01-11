@@ -76,6 +76,13 @@ item-cookies =
     .label = Cookie
     .accesskey = o
 
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. MB"
+item-cookies-site-data-with-size =
+    .label = Cookie e dati dei siti web ({ $amount } { $unit })
+    .accesskey = o
+
 item-cookies-site-data =
     .label = Cookie e dati dei siti web
     .accesskey = o
@@ -88,6 +95,13 @@ item-active-logins =
 
 item-cache =
     .label = Cache
+    .accesskey = h
+
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = File e pagine salvati temporaneamente nella cache ({ $amount } { $unit })
     .accesskey = h
 
 item-cached-content =
@@ -105,6 +119,12 @@ item-site-prefs =
     .accesskey = I
 
 item-site-prefs-description = Reimposta i permessi e le preferenze dei siti alle impostazioni originali
+
+# Variables:
+#   $count (Number) - Number of downloads recorded
+item-download-history-with-size =
+    .label = Elenco dei file scaricati ({ $count } file)
+    .accesskey = E
 
 item-download-history =
     .label = Elenco dei file scaricati
