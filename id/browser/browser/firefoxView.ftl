@@ -5,13 +5,20 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Tampilkan penjelajahan terkini dari berbagai jendela dan perangkat
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Tutup
     .aria-label = Tutup
+firefoxview-empty-state-icon =
+    .alt = Perhatian:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Baru saja
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -123,6 +130,15 @@ firefoxview-opentabs-focus-tab =
     .title = Pindah ke tab ini
 firefoxview-show-more = Tampilkan lebih banyak
 firefoxview-show-less = Tampilkan lebih sedikit
+firefoxview-show-all = Tampilkan semua
+firefoxview-search-text-box-clear-button =
+    .title = Bersihkan
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Cari
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Riwayat pencarian
 firefoxview-sort-history-by-date-label = Urut berdasarkan tanggal
 firefoxview-sort-history-by-site-label = Urut berdasarkan situs
 
@@ -157,9 +173,6 @@ firefoxview-import-history-close-button =
 firefoxview-import-history-header = Impor riwayat dari peramban lainnya
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
-
-
-##
 
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
