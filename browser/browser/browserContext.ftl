@@ -5,8 +5,8 @@
 navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
-            [macos] Tekan agak lama untuk menampilkan riwayat
-           *[other] Klik kanan atau tekan agak lama untuk menampilkan riwayat
+            [macos] Tarik turun untuk menampilkan riwayat
+           *[other] Klik kanan atau tarik turun untuk menampilkan riwayat
         }
 
 ## Back
@@ -16,11 +16,11 @@ navbar-tooltip-instruction =
 main-context-menu-back-2 =
     .tooltiptext = Mundur satu laman ({ $shortcut })
     .aria-label = Mundur
-    .accesskey = K
+    .accesskey = M
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
     .label = Mundur
-    .accesskey = K
+    .accesskey = M
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -77,6 +77,12 @@ toolbar-button-stop-reload =
 toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name }
     .tooltiptext = { -fxaccount-brand-name }
+
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = Akun
+    .tooltiptext = Akun
 
 ## Save Page
 
@@ -291,6 +297,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Gunakan Info Masuk Tersimpan
     .accesskey = G
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Gunakan Kata Sandi Tersimpan
     .accesskey = G
@@ -305,6 +312,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = K
 main-context-menu-manage-logins2 =
     .label = Kelola Info Masuk
+    .accesskey = K
+main-context-menu-manage-passwords =
+    .label = Kelola Kata Sandi
     .accesskey = K
 main-context-menu-keyword =
     .label = Tambahkan Kata Kunci untuk Pencarian ini…
