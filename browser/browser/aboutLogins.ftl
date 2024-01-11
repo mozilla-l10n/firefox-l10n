@@ -331,6 +331,9 @@ about-logins-confirm-export-dialog-title = Export přihlašovacích údajů
 about-logins-confirm-export-dialog-message = Vaše hesla budou uložena v čitelné podobě (např. Šp4tnéH3sl0) a kdokoliv otevře exportovaný soubor, bude si je moci přečíst.
 about-logins-confirm-export-dialog-confirm-button = Exportovat…
 about-logins-confirm-export-dialog-title2 = Poznámka k exportování hesel
+about-logins-confirm-export-dialog-message2 =
+    Při exportu jsou vaše hesla uložena do souboru s čitelným textem.
+    Po skončení používání doporučujeme soubor odstranit, aby vaše hesla nemohli vidět ostatní uživatelé tohoto zařízení.
 about-logins-confirm-export-dialog-confirm-button2 = Pokračovat v exportu
 about-logins-alert-import-title = Import byl dokončen
 about-logins-alert-import-message = Zobrazit podrobné shrnutí importu
