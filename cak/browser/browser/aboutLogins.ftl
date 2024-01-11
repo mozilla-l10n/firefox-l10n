@@ -123,6 +123,10 @@ about-logins-login-item-remove-button = Tiyuj
 login-item-origin-label = Ajk'amaya'l Ochochib'äl
 login-item-tooltip-message = Tatz'eta' chi nujäm ri' rik'in ri rochochib'al ruxaq ajk'amaya'l, akuchi' natikirisaj molojri'ïl.
 about-logins-origin-tooltip2 = Tatz'ib'aj ri tz'aqät ochochib'äl chuqa' tajikib'a' chi junam rik'in ri nawokisaj richin natikirisaj molojri'ïl.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Tayaka' ri ewan atzij nawokisaj richin re ruxaq re'. Nijal ri ewan tzij wawe' man nujäl ta pa{ $webTitle }.
+about-logins-add-password-tooltip = Tayaka' ri ewan atzij richin re ruxaq re'.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Rub'i' okisanel
