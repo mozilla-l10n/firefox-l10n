@@ -147,6 +147,7 @@ about-logins-intro-import2 =
         [with-cases] Pokud máte přihlašovací údaje uložené mimo { -brand-product-name(case: "acc") }, můžete je <a data-l10n-name="import-browser-link">naimportovat z jiného prohlížeče</a> nebo <a data-l10n-name="import-file-link">ze souboru</a>
        *[no-cases] Pokud máte přihlašovací údaje uložené mimo aplikaci { -brand-product-name }, můžete je <a data-l10n-name="import-browser-link">naimportovat z jiného prohlížeče</a> nebo <a data-l10n-name="import-file-link">ze souboru</a>
     }
+about-logins-intro-import3 = Chcete-li nyní přidat heslo, vyberte výše uvedené tlačítko se znaménkem plus. Můžete také <a data-l10n-name="import-browser-link">importovat hesla z jiného prohlížeče</a> nebo <a data-l10n-name="import-file-link">ze souboru</a>.
 
 ## Login
 
