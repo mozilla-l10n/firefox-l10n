@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Info Masuk dan Kata Sandi
+about-logins-page-title = Info Masuk & Kata Sandi
 about-logins-login-filter =
     .placeholder = Cari Info Masuk
     .key = F
@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Impor dari Peramban Lai
 about-logins-menu-menuitem-import-from-a-file = Impor dari Berkas…
 about-logins-menu-menuitem-export-logins = Ekspor Info Masuk…
 about-logins-menu-menuitem-remove-all-logins = Hapus Semua Log Masuk…
+about-logins-menu-menuitem-export-logins2 = Ekspor Kata Sandi…
+about-logins-menu-menuitem-remove-all-logins2 = Hapus Semua Kata Sandi…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Pengaturan
@@ -92,20 +94,24 @@ about-logins-login-intro-heading-logged-out2 = Mencari info masuk Anda yang simp
 about-logins-login-intro-heading-logged-in = Info masuk yang disinkronkan tidak ditemukan.
 login-intro-description = Jika Anda menyimpan info masuk Anda di { -brand-product-name } pada perangkat lain, berikut cara mendapatkannya di sini:
 login-intro-instructions-fxa = Buat atau masuk ke { -fxaccount-brand-name } Anda pada perangkat tempat info masuk Anda tersimpan
+about-logins-login-intro-heading-message = Simpan kata sandi Anda di tempat yang aman
+login-intro-description2 = Semua kata sandi yang Anda simpan ke { -brand-product-name } dienkripsi. Selain itu, kami waspada terhadap pembobolan dan memperingatkan Anda jika Anda terpengaruh. <a data-l10n-name="breach-alert-link">Pelajari lebih lanjut</a>
 login-intro-instructions-fxa2 = Buat atau masuk ke akun Anda di perangkat tempat info masuk Anda tersimpan.
 login-intro-instructions-fxa-settings = Buka Pengaturan > Sinkronisasi > Aktifkan sinkronisasi… Centang Info masuk dan sandi.
 login-intro-instructions-fxa-passwords-help = Kunjungi <a data-l10n-name="passwords-help-link">dukungan sandi</a> untuk bantuan lebih lanjut.
 about-logins-intro-browser-only-import = Jika info masuk Anda disimpan di browser lain, Anda dapat <a data-l10n-name="import-link">mengimpornya ke { -brand-product-name }</a>
 about-logins-intro-import2 = Jika info masuk Anda tersimpan di luar { -brand-product-name }, Anda bisa <a data-l10n-name="import-browser-link">mengimpornya dari peramban lain</a> atau <a data-l10n-name="import-file-link">mengimpornya dari berkas</a>.
+about-logins-intro-import3 = Pilih tombol tanda tambah di atas untuk menambahkan kata sandi sekarang. Anda juga dapat <a data-l10n-name="import-browser-link">mengimpor kata sandi dari peramban lain</a> atau <a data-l10n-name="import-file-link">dari suatu berkas</a>.
 
 ## Login
 
 login-item-new-login-title = Buat Info Masuk Baru
+# Header for adding a password
+about-logins-login-item-new-login-title = Tambahkan kata sandi
 login-item-edit-button = Edit
 about-logins-login-item-remove-button = Hapus
 login-item-origin-label = Alamat Situs Web
 login-item-tooltip-message = Pastikan ini sesuai dengan alamat situs web tempat Anda masuk.
-about-logins-origin-tooltip = Pastikan ini sesuai dengan alamat situs web tempat Anda masuk.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Pastikan Anda menyimpan sandi Anda saat ini untuk situs ini. Mengubah sandi di sini tidak akan mengubah sandi di { $webTitle } secara otomatis.
