@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Tijik' pa Jun Chik Okik
 about-logins-menu-menuitem-import-from-a-file = Tijik' pa jun Yakb'äl…
 about-logins-menu-menuitem-export-logins = Tik'wäx el Tikirib'äl Molojri'ïl…
 about-logins-menu-menuitem-remove-all-logins = Keyuj Ronojel taq Molojri'ïl…
+about-logins-menu-menuitem-export-logins2 = Tik'wäx Ewan taq tzij…
+about-logins-menu-menuitem-remove-all-logins2 = Keyuj Ronojel Ewan taq Tzij…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Taq cha'oj
@@ -79,8 +81,10 @@ about-logins-login-list-alerts-option = Retal taq k'ayewal
 login-list-last-changed-option = Ruk'isib'äl Jaloj
 login-list-last-used-option = Ruk'isib'äl Rokisaxik
 login-list-intro-title = Majun tikirib'äl molojri'ïl xilitäj
+login-list-intro-title2 = Man xeyak ta ewan taq tzij
 login-list-intro-description = Toq nayäk jun ewan tzij pa { -brand-product-name }, wawe' xtiq'alajin pe.
 about-logins-login-list-empty-search-title = Majun tikirib'äl molojri'ïl xilitäj
+about-logins-login-list-empty-search-title2 = Majun ewan taq tzij xe'ilitäj
 about-logins-login-list-empty-search-description = Majun xilitäj achi'el ri nakanoj.
 login-list-item-title-new-login = K'ak'a' Tikirib'äl Molojri'ïl
 login-list-item-subtitle-new-login = Ke'atz'ib'aj ri taq retamab'al rutikirib'al molojri'ïl
@@ -118,6 +122,7 @@ login-item-edit-button = Nuk'b'äl
 about-logins-login-item-remove-button = Tiyuj
 login-item-origin-label = Ajk'amaya'l Ochochib'äl
 login-item-tooltip-message = Tatz'eta' chi nujäm ri' rik'in ri rochochib'al ruxaq ajk'amaya'l, akuchi' natikirisaj molojri'ïl.
+about-logins-origin-tooltip2 = Tatz'ib'aj ri tz'aqät ochochib'äl chuqa' tajikib'a' chi junam rik'in ri nawokisaj richin natikirisaj molojri'ïl.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Rub'i' okisanel
