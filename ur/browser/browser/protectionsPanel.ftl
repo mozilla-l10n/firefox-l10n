@@ -95,4 +95,5 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 ## Protections panel info message
 
 cfr-protections-panel-header = بغیر پیروی کیے براؤز کریں
+cfr-protections-panel-body = اپنا ڈیٹا اپنے پاس رکھیں۔{ -brand-short-name } آپ کو بہت سے عام ٹریکرس سے بچاتا ہے جواسکی پیروی کر تےھیں کے آپ آن لائن کیا کرتے ہیں ۔
 cfr-protections-panel-link-text = مزید سیکھیں
