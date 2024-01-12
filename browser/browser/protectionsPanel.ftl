@@ -29,14 +29,6 @@ protections-panel-etp-off-header = La protecziun avanzada cunter il fastizar è 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Protecziun avanzada cunter il fastizar
-    .description = Activà per questa website
-    .aria-label = Deactivar las protecziuns per { $host }
-protections-panel-etp-off-toggle =
-    .label = Protecziun avanzada cunter il fastizar
-    .description = Deactivà per questa website
-    .aria-label = Activar las protecziuns per { $host }
 protections-panel-etp-toggle-on =
     .label = Protecziun avanzada cunter il fastizar
     .description = Activà per questa website
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Deactivar la bl
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Activar la bloccada da bandieras da cookies per questa website?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } vegn a stizzar ils cookies da questa website ed actualisar la pagina. L'eliminaziun da tut ils cookies po ta deconnectar u svidar eventuals chanasters da cumpra.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } emprova da refusar automaticamain tut las dumondas da deponer cookies da websites sustegnidas.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Activescha la bloccada e { -brand-short-name } vegn ad empruvar da refusar automaticamain bandieras da cookies sin questa website.
 protections-panel-cookie-banner-view-cancel = Interrumper
 protections-panel-cookie-banner-view-turn-off = Deactivar
 protections-panel-cookie-banner-view-turn-on = Activar
+protections-panel-cookie-banner-blocker-view-turn-on-description = Activescha la bloccada e { -brand-short-name } vegn ad empruvar da refusar automaticamain bandieras da cookies sin questa website.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Interrumper
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Annunziar problems cun questa website
     .title = Annunziar problems cun questa website
+
+## Protections panel info message
+
