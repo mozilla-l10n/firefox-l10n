@@ -143,15 +143,28 @@ about-webauthn-auth-info-null = Stöds inte
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } prov behövs fortfarande.
+       *[other] { $repeatCount } prover behövs fortfarande.
+    }
 # Scan (e.g. of fingerprint) was successful.
 about-webauthn-ctap2-enroll-feedback-good = Provet var bra.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
 about-webauthn-ctap2-enroll-feedback-too-high = Provet var för högt.
+about-webauthn-ctap2-enroll-feedback-too-left = Provet var till vänster.
+about-webauthn-ctap2-enroll-feedback-too-right = Provet var till höger.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Provet var för snabbt.
 about-webauthn-ctap2-enroll-feedback-too-slow = Provet var för långsamt.
 about-webauthn-ctap2-enroll-feedback-poor-quality = Provet hade dålig kvalitet.
 # Skewed in the sense of fingerprint/iris scan was too distorted
