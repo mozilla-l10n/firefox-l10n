@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Муҳофизати такмилёфта а�
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Муҳофизати такмилёфта аз пайгирӣ
-    .description = Барои ин сомона фаъол аст
-    .aria-label = Ғайрифаъол кардани муҳофизат барои { $host }
-protections-panel-etp-off-toggle =
-    .label = Муҳофизати такмилёфта аз пайгирӣ
-    .description = Барои ин сомона ғайрифаъол аст
-    .aria-label = Фаъол кардани муҳофизат барои { $host }
 protections-panel-etp-toggle-on =
     .label = Муҳофизати такмилёфта аз пайгирӣ
     .description = Барои ин сомона фаъол аст
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = «Манъку�
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = «Манъкунандаи баннери куки»-ро барои сомонаи { $host } фаъол месозед?
 protections-panel-cookie-banner-view-cookie-clear-warning = «{ -brand-short-name }» кукиҳои ин сомонаро тоза мекунад ва саҳифаро аз нав бор мекунад. Амали тозакунии ҳамаи кукиҳо метавонад шуморо аз сомона хориҷ кунад ва сабадҳои харидории шуморо холӣ намояд.
 protections-panel-cookie-banner-view-turn-on-description = «{ -brand-short-name }» кӯшиш мекунад, ки ҳамаи дархостҳои кукиҳоро дар сомонаҳои дастгиришаванда ба таври худкор рад кунад.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Фаъол созед, ва «{ -brand-short-name }» кӯшиш мекунад, ки баннерҳои кукиро дар ин сомона ба таври худкор рад кунад.
 protections-panel-cookie-banner-view-cancel = Бекор кардан
 protections-panel-cookie-banner-view-turn-off = Хомӯш кардан
 protections-panel-cookie-banner-view-turn-on = Фаъол кардан
+protections-panel-cookie-banner-blocker-view-turn-on-description = Фаъол созед, ва «{ -brand-short-name }» кӯшиш мекунад, ки баннерҳои кукиро дар ин сомона ба таври худкор рад кунад.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Бекор кардан
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Гузориш дар бораи сомонаи вайроншуда
     .title = Гузориш дар бораи сомонаи вайроншуда
+
+## Protections panel info message
+
+cfr-protections-panel-header = Тамошокунӣ бе пайгирӣ
+cfr-protections-panel-body = Маълумоти худро бо худ нигоҳ доред. «{ -brand-short-name }» шуморо аз бисёр васоити пайгирие, ки фаъолияти шуморо дар онлайн пайгирӣ мекунанд, муҳофизат менамояд.
+cfr-protections-panel-link-text = Маълумоти бештар
