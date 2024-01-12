@@ -90,3 +90,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-link-text = अधिक जाणा
