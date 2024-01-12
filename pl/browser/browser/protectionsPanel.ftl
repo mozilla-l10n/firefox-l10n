@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Wzmocniona ochrona przed śledzeniem jest wy�
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Wzmocniona ochrona przed śledzeniem
-    .description = Włączona na tej witrynie
-    .aria-label = Wyłącz ochronę na witrynie { $host }
-protections-panel-etp-off-toggle =
-    .label = Wzmocniona ochrona przed śledzeniem
-    .description = Wyłączona na tej witrynie
-    .aria-label = Włącz ochronę na witrynie { $host }
 protections-panel-etp-toggle-on =
     .label = Wzmocniona ochrona przed śledzeniem
     .description = Włączona na tej witrynie
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Wyłączyć blo
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Włączyć blokowanie informacji o ciasteczkach na witrynie { $host }?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } usunie ciasteczka tej witryny i odświeży stronę. Usunięcie wszystkich ciasteczek może spowodować wylogowanie ze strony lub opróżnienie koszyka w sklepie.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } próbuje automatycznie odrzucać wszystkie prośby o akceptację ciasteczek na obsługiwanych witrynach.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Włącz, a { -brand-short-name } spróbuje automatycznie odrzucać prośby o akceptację ciasteczek na tej witrynie.
 protections-panel-cookie-banner-view-cancel = Anuluj
 protections-panel-cookie-banner-view-turn-off = Wyłącz
 protections-panel-cookie-banner-view-turn-on = Włącz
+protections-panel-cookie-banner-blocker-view-turn-on-description = Włącz, a { -brand-short-name } spróbuje automatycznie odrzucać prośby o akceptację ciasteczek na tej witrynie.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Anuluj
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Zgłoś niepoprawnie działającą stronę
     .title = Zgłoś niepoprawnie działającą stronę
+
+## Protections panel info message
+
+cfr-protections-panel-header = Przeglądaj bez wścibskich oczu
+cfr-protections-panel-body = Zachowaj prywatność swoich danych. { -brand-short-name } chroni Cię przed wieloma najczęściej występującymi elementami śledzącymi, które monitorują, co robisz w Internecie.
+cfr-protections-panel-link-text = Więcej informacji
