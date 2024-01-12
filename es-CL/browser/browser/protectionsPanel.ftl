@@ -29,14 +29,6 @@ protections-panel-etp-off-header = La protección de seguimiento mejorada está 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Protección de seguimiento mejorada
-    .description = Activada para este sitio
-    .aria-label = Desactivar protecciones para { $host }
-protections-panel-etp-off-toggle =
-    .label = Protección de seguimiento mejorada
-    .description = Desactivada para este sitio
-    .aria-label = Activar protecciones para { $host }
 protections-panel-etp-toggle-on =
     .label = Protección de seguimiento mejorada
     .description = Activada para este sitio
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = ¿Desactivar el
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = ¿Activar el bloqueo de anuncios de cookies para este sitio?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } borrará las cookies de este sitio y recargará la página. Borrar todas las cookies puede cerrar tu sesión o vaciar los carritos de compras.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } intenta rechazar automáticamente todas las solicitudes de cookies en sitios soportados.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Actívalo y { -brand-short-name } intentará rechazar automáticamente los anuncios de cookies en este sitio.
 protections-panel-cookie-banner-view-cancel = Cancelar
 protections-panel-cookie-banner-view-turn-off = Desactivar
 protections-panel-cookie-banner-view-turn-on = Activar
+protections-panel-cookie-banner-blocker-view-turn-on-description = Actívalo y { -brand-short-name } intentará rechazar automáticamente los anuncios de cookies en este sitio.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Cancelar
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Informar sitio que no carga
     .title = Informar sitio que no carga
+
+## Protections panel info message
+
+cfr-protections-panel-header = Navega sin ser seguido
+cfr-protections-panel-body = Mantén tus datos privados. { -brand-short-name } te protege de la mayoría de los rastreadores comunes que siguen lo que haces en línea.
+cfr-protections-panel-link-text = Aprender más
