@@ -29,14 +29,6 @@ protections-panel-etp-off-header = ਇਸ ਸਾਈਟ ਲਈ ਵਾਧਾ ਕ�
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
-    .description = ਇਸ ਸਾਈਟ ਲਈ ਚਾਲੂ
-    .aria-label = { $host } ਲਈ ਸੁਰੱਖਿਆ ਅਸਮਰੱਥ ਕਰੋ
-protections-panel-etp-off-toggle =
-    .label = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
-    .description = ਇਸ ਸਾਈਟ ਲਈ ਬੰਦ
-    .aria-label = { $host } ਲਈ ਸੁਰੱਖਿਆ ਸਮਰੱਥ ਕਰੋ
 protections-panel-etp-toggle-on =
     .label = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
     .description = ਇਸ ਸਾਈਟ ਲਈ ਚਾਲੂ ਹੈ
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = { $host } ਲ�
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = ਇਸ ਸਾਈਟ ਲਈ ਕੂਕੀ ਬੈਨਰ ਰੋਕੂ ਨੂੰ ਚਾਲੂ ਕਰਨਾ ਹੈ?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } ਇਸ ਸਾਈਟ ਦੀਆਂ ਕੁਕੀਆਂ ਨੂੰ ਸਾਫ਼ ਕਰ ਕੇ ਸਫ਼ੇ ਨੂੰ ਸੱਜਰਾ ਕਰ ਦੇਵੇਗਾ। ਸਾਰੀਆਂ ਕੁਕੀਆਂ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਨਾਲ ਤੁਸੀਂ ਸਾਈਨ ਆਉਟ ਹੋ ਸਕਦੇ ਹੋ ਜਾਂ ਖਰੀਦਦਾਰੀ ਵਾਲੀ ਟੋਕਰੀ ਖਾਲੀ ਹੋ ਸਕਦੀ ਹੈ।
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } ਸਹਾਇਕ ਸਾਈਟਾਂ ਉੱਤੇ ਸਭ ਕੂਕੀ ਬੇਨਤੀਆਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਹੀ ਰੱਦ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ।
-protections-panel-cookie-banner-blocker-view-turn-on-description = ਚਾਲੂ ਕਰੋ ਅਤੇ { -brand-short-name } ਇਸ ਸਾਈਟ ਵਾਸਤੇ ਕੂਕੀ ਬੈਨਰ ਨੂੰ ਆਪਣੇ-ਆਪ ਇਨਕਾਰ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੇਗਾ।
 protections-panel-cookie-banner-view-cancel = ਰੱਦ ਕਰੋ
 protections-panel-cookie-banner-view-turn-off = ਬੰਦ ਕਰੋ
 protections-panel-cookie-banner-view-turn-on = ਚਾਲੂ ਕਰੋ
+protections-panel-cookie-banner-blocker-view-turn-on-description = ਚਾਲੂ ਕਰੋ ਅਤੇ { -brand-short-name } ਇਸ ਸਾਈਟ ਵਾਸਤੇ ਕੂਕੀ ਬੈਨਰ ਨੂੰ ਆਪਣੇ-ਆਪ ਇਨਕਾਰ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੇਗਾ।
 protections-panel-cookie-banner-view-cancel-label =
     .label = ਰੱਦ ਕਰੋ
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = ਖ਼ਰਾਬ ਸਾਈਟ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
     .title = ਖ਼ਰਾਬ ਸਾਈਟ ਬਾਰੇ ਰਿਪੋਰਟ
+
+## Protections panel info message
+
+cfr-protections-panel-header = ਬਿਨਾਂ ਪਿੱਛਾ ਕਰਵਾਏ ਬਰਾਊਜ਼ ਕਰੋ
+cfr-protections-panel-body = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਖੁਦ ਕੋਲ ਹੀ ਰੱਖੋ। { -brand-short-name } ਤੁਹਾਨੂੰ ਕਈ ਤੁਹਾਡਾ ਆਨਲਾਈਨ ਪਿੱਛਾ ਕਰਨ ਵਾਲੇ ਸਭ ਤੋਂ ਆਮ ਟਰੈਕਰਾਂ ਤੋਂ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।
+cfr-protections-panel-link-text = ਹੋਰ ਜਾਣੋ
