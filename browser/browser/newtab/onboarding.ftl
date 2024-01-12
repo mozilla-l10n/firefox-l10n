@@ -343,3 +343,19 @@ onboarding-mobile-download-security-and-privacy-subtitle = При использ
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } прикрывает вашу спину
 onboarding-gratitude-security-and-privacy-subtitle = Благодарим вас за использование { -brand-short-name }, поддерживаемого Mozilla Foundation. При вашей поддержке мы работаем над тем, чтобы сделать Интернет безопаснее и доступнее для всех.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Как долго вы используете { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Насколько вы знакомы с { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Ваш отзыв поможет сделать { -brand-short-name } ещё лучше.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Я новичок
+onboarding-new-user-survey-time-based-option-2 = Менее 1 месяца
+onboarding-new-user-survey-time-based-option-3 = Более 1 месяца, регулярно
+onboarding-new-user-survey-time-based-option-4 = Более 1 месяца, изредка
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Я новичок
+onboarding-new-user-survey-familiarity-based-option-2 = Пользовался несколько раз
+onboarding-new-user-survey-familiarity-based-option-3 = Очень хорошо знаком
+onboarding-new-user-survey-familiarity-based-option-4 = Я пользовался им в прошлом, но прошло много времени
