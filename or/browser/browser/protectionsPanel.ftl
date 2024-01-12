@@ -48,3 +48,4 @@ protections-panel-content-blocking-breakage-report-view-cancel =
 ## Protections panel info message
 
 cfr-protections-panel-header = ଅନୁସରଣହୀନ ବ୍ରାଉଜିଂ କରନ୍ତୁ
+cfr-protections-panel-link-text = ଅଧିକ ଜାଣନ୍ତୁ
