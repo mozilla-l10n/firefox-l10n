@@ -154,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = Navegue sem ser seguido
+cfr-protections-panel-body = Guarde os seus dados para si. O { -brand-short-name } protege-o de muitos dos rastreadores mais comuns que monitorizam o que faz na Internet.
+cfr-protections-panel-link-text = Saber mais
