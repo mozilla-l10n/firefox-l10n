@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Napaka pri namestitvi
 opensearch-error-duplicate-desc = { -brand-short-name } ni uspel namestiti iskalnika iz "{ $location-url }", ker iskalnik z enakim imenom že obstaja.
-
 opensearch-error-format-title = Neveljavna oblika
 opensearch-error-format-desc = { -brand-short-name } ni uspel namestiti iskalnika na naslovu { $location-url }
-
 opensearch-error-download-title = Napaka pri prenosu
 opensearch-error-download-desc = { -brand-short-name } ni uspel prenesti iskalnika iz: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } ni uspel prenesti iskalni
 
 searchbar-submit =
     .tooltiptext = Začni iskati
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Išči
-
 searchbar-icon =
     .tooltiptext = Išči
 
@@ -35,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 removed-search-engine-message = <strong>Vaš privzeti iskalnik se je zamenjal.</strong>{ $oldEngine } ni več na voljo za privzeti iskalnik v { -brand-short-name(sklon: "mestnik") }. Privzeti iskalnik je zdaj { $newEngine }. Drug privzeti iskalnik lahko izberete v nastavitvah. <label data-l10n-name="remove-search-engine-article">Več o tem</label>
+removed-search-engine-message2 = <strong>Vaš privzeti iskalnik se je zamenjal.</strong>{ $oldEngine } ni več na voljo za privzeti iskalnik v { -brand-short-name(sklon: "mestnik") }. Privzeti iskalnik je zdaj { $newEngine }. Drug privzeti iskalnik lahko izberete v nastavitvah.
 remove-search-engine-button = V redu
