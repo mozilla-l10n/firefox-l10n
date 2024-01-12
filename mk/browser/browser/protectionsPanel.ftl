@@ -10,6 +10,12 @@
 ##
 
 
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
@@ -35,7 +41,6 @@ protections-panel-site-not-working-view-issue-list-payments = Плаќања
 ##
 
 protections-panel-description-shim-allowed-learn-more = Дознајте повеќе
-
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -44,3 +49,7 @@ protections-panel-content-blocking-breakage-report-view-cancel =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-link-text = Дознајте повеќе
