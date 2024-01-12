@@ -6,6 +6,7 @@
 about-logins-page-title = Ceŋorɗe e pinle
 create-new-login-button =
     .title = Sos seŋorde hesere
+about-logins-page-title-name = Finnde
 fxaccounts-sign-in-text = Heɓ pinle maa e kaɓirɗe maa goɗɗe
 fxaccounts-avatar-button =
     .title = Yiil konte
