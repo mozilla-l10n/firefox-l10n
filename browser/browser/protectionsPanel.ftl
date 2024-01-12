@@ -29,14 +29,6 @@ protections-panel-etp-off-header = თვალთვალისგან დ�
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = თვალთვალისგან გაძლიერებული დაცვა
-    .description = ჩართულია ამ საიტზე
-    .aria-label = დაცვისგან გამოითიშოს { $host }
-protections-panel-etp-off-toggle =
-    .label = თვალთვალისგან გაძლიერებული დაცვა
-    .description = გამორთულია ამ საიტზე
-    .aria-label = დაცვით ჩაირთოს { $host }
 protections-panel-etp-toggle-on =
     .label = თვალთვალისგან გაძლიერებული დაცვა
     .description = ჩართ. ამ საიტზე
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = გამოი
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = გამოითიშოს ფუნთუშის მოთხოვნების შეზღუდვა ამ საიტზე?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } გაასუფთავებს ამ საიტის ფუნთუშებს და განაახლებს გვერდს. ყველა ფუნთუშის წაშლით შეიძლება გამოხვიდეთ ანგარიშებიდან და დაცარიელდეს საყიდლების კალათა.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } ეცდება თავადვე უარყოს ფუნთუშების არჩევის ყველა მოთხოვნა მხარდაჭერილ საიტებზე.
-protections-panel-cookie-banner-blocker-view-turn-on-description = ჩართეთ და { -brand-short-name } შეეცდება თავადვე უარყოს ფუნთუშის მოთხოვნები ამ საიტზე.
 protections-panel-cookie-banner-view-cancel = გაუქმება
 protections-panel-cookie-banner-view-turn-off = გამორთვა
 protections-panel-cookie-banner-view-turn-on = ჩართვა
+protections-panel-cookie-banner-blocker-view-turn-on-description = ჩართეთ და { -brand-short-name } შეეცდება თავადვე უარყოს ფუნთუშის მოთხოვნები ამ საიტზე.
 protections-panel-cookie-banner-view-cancel-label =
     .label = გაუქმება
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = მოხსენება დაზიანებული საიტის შესახებ
     .title = მოხსენება დაზიანებული საიტის შესახებ
+
+## Protections panel info message
+
