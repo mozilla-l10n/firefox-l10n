@@ -159,3 +159,4 @@ protections-panel-report-broken-site =
 
 cfr-protections-panel-header = เรียกดูโดยไม่ต้องมีใครมาติดตาม
 cfr-protections-panel-body = เก็บข้อมูลของคุณไว้กับตัวคุณเอง { -brand-short-name } ปกป้องคุณจากตัวติดตามที่พบบ่อยที่สุดซึ่งติดตามสิ่งที่คุณทำทางออนไลน์
+cfr-protections-panel-link-text = เรียนรู้เพิ่มเติม
