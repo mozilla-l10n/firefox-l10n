@@ -134,3 +134,7 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Nonaktifkan
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Aktifkan
+
+## Protections panel info message
+
+cfr-protections-panel-header = Menjelajah tanpa diikuti
