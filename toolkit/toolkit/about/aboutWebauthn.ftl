@@ -152,4 +152,11 @@ about-webauthn-ctap2-enroll-feedback-too-right = Přikład je přeprawy był.
 
 about-webauthn-ctap2-enroll-feedback-too-fast = Přikład je přespěšny był.
 about-webauthn-ctap2-enroll-feedback-too-slow = Přikład je přepomały był.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Přikład je špatnu kwalitu měł.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Přikład je přejara skrjesleny był.
+about-webauthn-ctap2-enroll-feedback-too-short = Přikład je překrótki był.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Přikład hižo eksistuje.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Žana aktiwita wot wužiwarja.
+about-webauthn-ctap2-enroll-feedback-other = Přikładowy zmylk.
