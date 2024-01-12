@@ -157,3 +157,6 @@ protections-panel-report-broken-site =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = Navegue sem ser seguido
+cfr-protections-panel-body = Defenda seus dados. O { -brand-short-name } te protege de muitos dos rastreadores mais comuns que tentam seguir o que você faz online.
+cfr-protections-panel-link-text = Saiba mais
