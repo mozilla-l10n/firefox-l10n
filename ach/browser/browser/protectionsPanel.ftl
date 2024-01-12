@@ -74,3 +74,9 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-header = Yeny ma nongo pe kilubo kor in
+cfr-protections-panel-body = Gwok data mamegi boti keni. { -brand-short-name } gwoki ki ikom lulub kor mapol ata ma pol kare lubo kor ngo ma itimo iwiyamo.
+cfr-protections-panel-link-text = Nong ngec mapol
