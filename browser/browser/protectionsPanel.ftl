@@ -158,4 +158,5 @@ protections-panel-report-broken-site =
 ## Protections panel info message
 
 cfr-protections-panel-header = 自由上网，拒绝跟踪
+cfr-protections-panel-body = 你的数据只由你掌握。{ -brand-short-name } 可保护您免受众多常见跟踪器对您在线活动的窥视。
 cfr-protections-panel-link-text = 详细了解
