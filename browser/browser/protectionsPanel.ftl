@@ -154,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Njoftoni për sajt të dëmtuar
     .title = Njoftoni për sajt të dëmtuar
+
+## Protections panel info message
+
+cfr-protections-panel-header = Shfletoni pa qenë i ndjekur
+cfr-protections-panel-body = Mbajini për vete të dhënat tuaja. { -brand-short-name } ju mbron nga shumë prej gjurmuesve më të rëndomtë që ndjekin ç’bëni në internet.
+cfr-protections-panel-link-text = Mësoni më tepër
