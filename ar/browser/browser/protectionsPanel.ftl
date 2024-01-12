@@ -29,14 +29,6 @@ protections-panel-etp-off-header = عُطّلت الحماية الموسّعة 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = الحماية الموسّعة من التعقب
-    .description = مُفعّل لهذا الموقع
-    .aria-label = تعطيل الحماية ل{ $host }
-protections-panel-etp-off-toggle =
-    .label = الحماية الموسّعة من التعقب
-    .description = مُعطّل لهذا الموقع
-    .aria-label = تفعيل الحماية ل{ $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ألا يعمل الموقع؟
 # The heading/title of the sub-panel view
@@ -142,3 +134,6 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = عطّل
 protections-panel-cookie-banner-view-turn-on-label =
     .label = فعّل
+
+## Protections panel info message
+
