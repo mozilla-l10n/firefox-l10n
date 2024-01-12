@@ -154,3 +154,4 @@ protections-panel-report-broken-site =
 
 cfr-protections-panel-header = Inig war ma ḍefṛen-k
 cfr-protections-panel-body = Ḥrez isefka-ik i kečč. { -brand-short-name } ad k-yemmesten seg tuget n yineḍfaṛen yettwassnen i yeṭṭafaṛen ayen i txeddmeḍ srid.
+cfr-protections-panel-link-text = Issin ugar
