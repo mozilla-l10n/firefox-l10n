@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Förbättrat spårningsskydd är AV för den 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Förbättrat spårningsskydd
-    .description = På för denna webbplats
-    .aria-label = Inaktivera skydd för { $host }
-protections-panel-etp-off-toggle =
-    .label = Förbättrat spårningsskydd
-    .description = Av för denna webbplatsen
-    .aria-label = Aktivera skydd för { $host }
 protections-panel-etp-toggle-on =
     .label = Förbättrat spårningsskydd
     .description = På för denna webbplats
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Vill du stänga
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Vill du aktivera blockering av kakbanners för den här webbplatsen?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } rensar webbplatsens kakor och uppdaterar sidan. Rensa alla kakor kan logga ut dig eller tömma kundvagnar.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } försöker automatiskt avvisa alla kak-förfrågningar på webbplatser som stöds.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Slå på och { -brand-short-name } kommer att försöka automatiskt neka kakbanners på den här webbplatsen.
 protections-panel-cookie-banner-view-cancel = Avbryt
 protections-panel-cookie-banner-view-turn-off = Stäng av
 protections-panel-cookie-banner-view-turn-on = Slå på
+protections-panel-cookie-banner-blocker-view-turn-on-description = Slå på och { -brand-short-name } kommer att försöka automatiskt neka kakbanners på den här webbplatsen.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Avbryt
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,7 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Rapportera trasig webbplats
     .title = Rapportera trasig webbplats
+
+## Protections panel info message
+
+cfr-protections-panel-body = Behåll dina data för dig själv. { -brand-short-name } skyddar dig från många av de vanligaste spårarna som följer vad du gör online.
