@@ -10,6 +10,12 @@
 ##
 
 
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
@@ -27,6 +33,7 @@ protections-panel-blocking-label = हेंथा होबाय
 
 ##
 
+
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
@@ -43,3 +50,7 @@ protections-panel-content-blocking-breakage-report-view-cancel =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-link-text = गोबां सोलों
