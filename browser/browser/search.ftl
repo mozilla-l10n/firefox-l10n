@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Viga paigaldamisel
 opensearch-error-duplicate-desc = { -brand-short-name } ei suutnud paigaldada otsingu pluginat asukohast "{ $location-url }", kuna sellenimeline otsingumootor on juba olemas.
-
 opensearch-error-format-title = Vigane vorming
 opensearch-error-format-desc = { -brand-short-name }il polnud võimalik paigaldada otsingumootorit aadressilt { $location-url }
-
 opensearch-error-download-title = Viga allalaadimisel
 opensearch-error-download-desc = { -brand-short-name } ei suutnud alla laadida otsingu pluginat asukohast: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } ei suutnud alla laadida o
 
 searchbar-submit =
     .tooltiptext = Soorita otsing
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Otsi
-
 searchbar-icon =
     .tooltiptext = Otsi
 
@@ -35,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 removed-search-engine-message = <strong>Vaikeotsingumootorit on muudetud</strong>. Otsingumootor { $oldEngine } ei ole enam { -brand-short-name }is vaikeotsingumootorina saadaval. Sinu uueks vaikeotsingumootoriks on { $newEngine }. Teisele vaikeotsingumootorile vahetamiseks ava sätted. <label data-l10n-name="remove-search-engine-article">Rohkem teavet</label>
+removed-search-engine-message2 = <strong>Vaikeotsingumootorit on muudetud</strong>. Otsingumootor { $oldEngine } ei ole enam { -brand-short-name }is vaikeotsingumootorina saadaval. Sinu uueks vaikeotsingumootoriks on { $newEngine }. Teisele vaikeotsingumootorile vahetamiseks ava sätted.
 remove-search-engine-button = Sobib
