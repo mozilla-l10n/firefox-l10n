@@ -29,14 +29,6 @@ protections-panel-etp-off-header = 이 사이트에 향상된 추적 방지 꺼�
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = 향상된 추적 방지
-    .description = 이 사이트에 켜짐
-    .aria-label = { $host }에 방지 사용 안 함
-protections-panel-etp-off-toggle =
-    .label = 향상된 추적 방지
-    .description = 이 사이트에 꺼짐
-    .aria-label = { $host }에 방지 사용함
 protections-panel-etp-toggle-on =
     .label = 향상된 추적 방지
     .description = 이 사이트에 켜짐
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = { $host }에 �
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = 이 사이트에 쿠키 배너 차단기를 켜시겠습니까?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name }는 이 사이트의 쿠키를 지우고 페이지를 새로 고침합니다. 모든 쿠키를 삭제하면 로그아웃되거나 장바구니가 비워질 수 있습니다.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }는 지원되는 사이트에서 모든 쿠키 요청을 자동으로 거부하려고 시도합니다.
-protections-panel-cookie-banner-blocker-view-turn-on-description = 켜면, { -brand-short-name }가 이 사이트에 쿠키 배너를 자동으로 거부하려고 시도합니다.
 protections-panel-cookie-banner-view-cancel = 취소
 protections-panel-cookie-banner-view-turn-off = 끄기
 protections-panel-cookie-banner-view-turn-on = 켜기
+protections-panel-cookie-banner-blocker-view-turn-on-description = 켜면, { -brand-short-name }가 이 사이트에 쿠키 배너를 자동으로 거부하려고 시도합니다.
 protections-panel-cookie-banner-view-cancel-label =
     .label = 취소
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = 깨진 사이트 신고
     .title = 깨진 사이트 신고
+
+## Protections panel info message
+
