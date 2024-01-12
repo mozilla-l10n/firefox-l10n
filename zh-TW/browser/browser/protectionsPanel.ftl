@@ -29,14 +29,6 @@ protections-panel-etp-off-header = 已關閉針對此網站的加強型追蹤保
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = 加強型追蹤保護
-    .description = 對此網站開啟
-    .aria-label = 關閉對 { $host } 的追蹤保護
-protections-panel-etp-off-toggle =
-    .label = 加強型追蹤保護
-    .description = 對此網站關閉
-    .aria-label = 開啟對 { $host } 的追蹤保護
 protections-panel-etp-toggle-on =
     .label = 加強型追蹤保護
     .description = 對此網站開啟
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = 要為 { $host 
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = 要為此網站開啟 Cookie 橫幅封鎖器嗎？
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } 將清除此網站的 Cookie 並重新載入頁面。清除 Cookie 可能會將您從網站登出，或清空購物車。
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } 可自動在支援的網站，為您拒絕網站設定 Cookie 的請求。
-protections-panel-cookie-banner-blocker-view-turn-on-description = 開啟此功能後，{ -brand-short-name } 就會對此網站自動嘗試拒絕 Cookie 橫幅。
 protections-panel-cookie-banner-view-cancel = 取消
 protections-panel-cookie-banner-view-turn-off = 關閉
 protections-panel-cookie-banner-view-turn-on = 開啟
+protections-panel-cookie-banner-blocker-view-turn-on-description = 開啟此功能後，{ -brand-short-name } 就會對此網站自動嘗試拒絕 Cookie 橫幅。
 protections-panel-cookie-banner-view-cancel-label =
     .label = 取消
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = 回報網站問題
     .title = 回報網站問題
+
+## Protections panel info message
+
+cfr-protections-panel-header = 上網不被追蹤
+cfr-protections-panel-body = 保留自己的資料。{ -brand-short-name } 不讓常見的追蹤器記錄您的上網行為。
+cfr-protections-panel-link-text = 了解更多
