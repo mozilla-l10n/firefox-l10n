@@ -112,7 +112,6 @@ shopping-analysis-explainer-intro2 =
     Гэта дапаможа вам ацаніць толькі якасць водгуку, а не якасць прадукту.
 shopping-analysis-explainer-grades-intro = Кожнаму водгуку на прадукт мы прысвойваем <strong>літарную адзнаку</strong> ад A да F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Скарэкціраваны рэйтынг</strong> заснаваны толькі на водгуках, якія мы лічым надзейнымі.
-shopping-analysis-explainer-learn-more = Даведайцеся больш пра тое, <a data-l10n-name="review-quality-url">як { -fakespot-brand-full-name } вызначае якасць водгукаў</a>.
 shopping-analysis-explainer-learn-more2 = Даведайцеся больш пра тое, <a data-l10n-name="review-quality-url">як { -fakespot-brand-name } вызначае якасць водгукаў</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -128,14 +127,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Адкрыць сродак праверкі водгукаў
 shopping-sidebar-close-button2 =
     .tooltiptext = Закрыць сродак праверкі водгукаў
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -197,8 +188,8 @@ shopping-onboarding-dynamic-subtitle-1 = Паглядзіце, наколькі 
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Паглядзіце, наколькі надзейныя водгукі аб прадукце на <b>{ $currentSite }</b>, перш чым купляць. Праверка водгукаў, эксперыментальная функцыя ад { -brand-product-name }, убудавана наўпрост у браўзер.
 shopping-onboarding-body = Выкарыстоўваючы магчымасці { -fakespot-brand-full-name }, мы дапамагаем вам пазбегнуць неаб’ектыўных і несапраўдных водгукаў. Наша мадэль штучнага інтэлекту пастаянна ўдасканальваецца, каб абараніць вас у часе куплі. <a data-l10n-name="learn_more">Падрабязней</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Выбіраючы “{ shopping-onboarding-opt-in-button }“, вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> і <a data-l10n-name="terms_of_use">ўмовамі выкарыстання</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Выбіраючы “{ shopping-onboarding-opt-in-button }“, вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> і <a data-l10n-name="terms_of_use">ўмовамі выкарыстання</a> { -fakespot-brand-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Выбіраючы “{ shopping-onboarding-opt-in-button }“, вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> { -brand-product-name } і <a data-l10n-name="terms_of_use">ўмовамі выкарыстання</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Так, паспрабаваць
 shopping-onboarding-not-now-button = Не зараз
 shopping-onboarding-dialog-close-button =
