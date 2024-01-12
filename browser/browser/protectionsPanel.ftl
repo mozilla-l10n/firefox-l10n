@@ -29,14 +29,6 @@ protections-panel-etp-off-header = La plibonigita protekto kontraŭ spurado esta
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Plibonigita protekto kontraŭ spurado
-    .description = Ŝaltita por tiu ĉi retejo
-    .aria-label = Malaktivigi protektojn por { $host }
-protections-panel-etp-off-toggle =
-    .label = Plibonigita protekto kontraŭ spurado
-    .description = Malŝaltita por tiu ĉi retejo
-    .aria-label = Aktivigi protektojn por { $host }
 protections-panel-etp-toggle-on =
     .label = Plibonigita protekto kontraŭ spurado
     .description = Ŝaltita por tiu ĉi retejo
@@ -149,13 +141,16 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Ĉu malŝalti l
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Ĉu ŝalti la blokilon de kuketaj anoncoj por tiu ĉi retejo?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } forigos la kuketojn de tiuj ĉi retejo kaj reŝargos la paĝon. Forigo de ĉiuj kuketoj povas fini seancojn aŭ malplenigi aĉetumĉarojn.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } klopodas aŭtomate rifuzi ĉiujn kuketajn petojn en subtenataj retejoj.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Ŝaltu, kaj { -brand-short-name } klopodos aŭtomate rifuzi kuketajn anoncojn en tiu ĉi retejo.
 protections-panel-cookie-banner-view-cancel = Nuligi
 protections-panel-cookie-banner-view-turn-off = Malŝalti
 protections-panel-cookie-banner-view-turn-on = Ŝalti
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ŝaltu, kaj { -brand-short-name } klopodos aŭtomate rifuzi kuketajn anoncojn en tiu ĉi retejo.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Nuligi
 protections-panel-cookie-banner-view-turn-off-label =
     .label = Malŝalti
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Ŝalti
+
+## Protections panel info message
+
