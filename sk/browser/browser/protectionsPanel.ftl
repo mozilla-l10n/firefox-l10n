@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Rozšírená ochrana pred sledovaním je na t
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Rozšírená ochrana pred sledovaním
-    .description = Zapnutá na tejto stránke
-    .aria-label = Vypnúť ochranu pre { $host }
-protections-panel-etp-off-toggle =
-    .label = Rozšírená ochrana pred sledovaním
-    .description = Vypnutá na tejto stránke
-    .aria-label = Zapnúť ochranu pre { $host }
 protections-panel-etp-toggle-on =
     .label = Rozšírená ochrana pred sledovaním
     .description = Zapnutá pre túto stránku
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Vypnúť blokov
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Zapnúť blokovanie bannerov k súborom cookie pre túto stránku?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } vymaže súbory cookie tohto webu a obnoví stránku. Vymazanie všetkých súborov cookie vás môže odhlásiť zo stránky alebo vyprázdniť nákupné košíky.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } sa pokúša automaticky odmietnuť všetky žiadosti o súbory cookie na podporovaných stránkach.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Po zapnutí sa { -brand-short-name } pokúsi automaticky odmietnuť bannery k súborom cookie na tejto stránke.
 protections-panel-cookie-banner-view-cancel = Zrušiť
 protections-panel-cookie-banner-view-turn-off = Vypnúť
 protections-panel-cookie-banner-view-turn-on = Zapnúť
+protections-panel-cookie-banner-blocker-view-turn-on-description = Po zapnutí sa { -brand-short-name } pokúsi automaticky odmietnuť bannery k súborom cookie na tejto stránke.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Zrušiť
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Nahlásiť nefunkčnú stránku
     .title = Nahlásiť nefunkčnú stránku
+
+## Protections panel info message
+
+cfr-protections-panel-header = Nenechajte sa pri prehliadaní sledovať
+cfr-protections-panel-body = { -brand-short-name } vás chráni pred mnohými sledovacími prvkami, ktoré zbierajú informácie o tom, čo robíte na internete.
+cfr-protections-panel-link-text = Ďalšie informácie
