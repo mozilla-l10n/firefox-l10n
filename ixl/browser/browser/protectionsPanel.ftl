@@ -52,4 +52,5 @@ protections-panel-content-blocking-breakage-report-view-cancel =
 
 ## Protections panel info message
 
+cfr-protections-panel-body = Kol unq'a eetze' axh kuxh ootzin tetz. { -brand-short-name } ni lochone' ti' unq'a uxhchile' uve' chukune' uve' ni b'anchu tu Internet.
 cfr-protections-panel-link-text = Ootzi ka'te
