@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Le protection antitraciamento reinfortiate es
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Protection antitraciamento reinfortiate
-    .description = Active pro iste sito
-    .aria-label = Disactivar protectiones pro { $host }
-protections-panel-etp-off-toggle =
-    .label = Protection antitraciamento reinfortiate
-    .description = Inactive pro iste sito
-    .aria-label = Activar protectiones pro { $host }
 protections-panel-etp-toggle-on =
     .label = Protection antitraciamento reinfortiate
     .description = Active pro iste sito
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Disactivar le b
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Activar le Blocada bandieras pro cookies pro iste sito?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } clarara le cookies de iste sito e actualisara le pagina. Clarar tote le cookies pote clauder tu connexion o vacuar tu carrettos de compras.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } tenta rejectar automaticamente tote le requestas de cookies sur le sitos supportate.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Activa lo e { -brand-short-name } essayara refusar automaticamente le bandieras pro cookies sur iste sito.
 protections-panel-cookie-banner-view-cancel = Cancellar
 protections-panel-cookie-banner-view-turn-off = Disactivar
 protections-panel-cookie-banner-view-turn-on = Activar
+protections-panel-cookie-banner-blocker-view-turn-on-description = Activa lo e { -brand-short-name } essayara refusar automaticamente le bandieras pro cookies sur iste sito.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Cancellar
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,8 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Reportar sito corrupte
     .title = Reportar sito corrupte
+
+## Protections panel info message
+
+cfr-protections-panel-header = Naviga sin lassar te sequer
+cfr-protections-panel-link-text = Saper plus
