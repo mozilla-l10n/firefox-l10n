@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Verbeterde bescherming tegen volgen is UIT vo
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Verbeterde bescherming tegen volgen
-    .description = Aan voor deze website
-    .aria-label = Beschermingen voor { $host } uitschakelen
-protections-panel-etp-off-toggle =
-    .label = Verbeterde bescherming tegen volgen
-    .description = Uit voor deze website
-    .aria-label = Beschermingen voor { $host } inschakelen
 protections-panel-etp-toggle-on =
     .label = Verbeterde bescherming tegen volgen
     .description = Aan voor deze website
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Blokkering van 
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Blokkering van cookiebanners inschakelen voor deze website?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } wist de cookies voor deze website en vernieuwt de pagina. Als alle cookies worden gewist, wordt u mogelijk afgemeld of worden winkelwagentjes geleegd.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } probeert alle cookieverzoeken op ondersteunde websites automatisch te weigeren.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Schakel dit in en { -brand-short-name } zal proberen cookiebanners op deze website automatisch te weigeren.
 protections-panel-cookie-banner-view-cancel = Annuleren
 protections-panel-cookie-banner-view-turn-off = Uitschakelen
 protections-panel-cookie-banner-view-turn-on = Inschakelen
+protections-panel-cookie-banner-blocker-view-turn-on-description = Schakel dit in en { -brand-short-name } zal proberen cookiebanners op deze website automatisch te weigeren.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Annuleren
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Niet-werkende website melden
     .title = Niet-werkende website melden
+
+## Protections panel info message
+
