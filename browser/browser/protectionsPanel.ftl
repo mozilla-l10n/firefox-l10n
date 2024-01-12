@@ -105,4 +105,5 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = অনুসৃত না হয়েই ব্রাউজ করুন
 cfr-protections-panel-link-text = আরও জানুন
