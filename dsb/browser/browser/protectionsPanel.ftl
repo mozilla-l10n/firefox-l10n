@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Polěpšony slědowański šćit jo znjemóž
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Pólěpšony slědowański šćit
-    .description = Za toś to sedło zmóžnjony
-    .aria-label = Šćit za { $host } znjemóžniś
-protections-panel-etp-off-toggle =
-    .label = Pólěpšony slědowański šćit
-    .description = Za toś to sedło znjemóžnjony
-    .aria-label = Šćit za { $host } zmóžniś
 protections-panel-etp-toggle-on =
     .label = Pólěpšony slědowański šćit
     .description = Za toś to sedło zmóžnjony
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Blokěrowak coo
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Blokěrowak cookiejowych chórgojow za toś to sedło zmóžniś?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } cookieje sedła lašujo a buźo bok aktualizěrowaś. Lašowanje wšych cookiejow móžo was pśizjawiś abo nakupowańske wózyki wuprozniś.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } wopytujo wšykne cookiejowe napšašowanja na pódprětych sedłach awtomatiski wótpokazaś.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Zmóžniśo toś to nastajenje a { -brand-short-name } wopytajo, cookiejowe chórgoje na toś tom sedle awtomatiski wótpokazaś.
 protections-panel-cookie-banner-view-cancel = Pśetergnuś
 protections-panel-cookie-banner-view-turn-off = Znjemóžniś
 protections-panel-cookie-banner-view-turn-on = Zmóžniś
+protections-panel-cookie-banner-blocker-view-turn-on-description = Zmóžniśo toś to nastajenje a { -brand-short-name } wopytajo, cookiejowe chórgoje na toś tom sedle awtomatiski wótpokazaś.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Pśetergnuś
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Wobškóźone sedło k wěsći daś
     .title = Wobškóźone sedło k wěsći daś
+
+## Protections panel info message
+
+cfr-protections-panel-header = Pśeglědujśo bźez togo, aby wam slědowało
+cfr-protections-panel-body = Wobchowajśo swóje daty za sebje. { -brand-short-name } was pśed wjele z nejcesćejych pśeslědowakow šćita, kótarež slěduju, což online gótujośo.
+cfr-protections-panel-link-text = Dalšne informacije
