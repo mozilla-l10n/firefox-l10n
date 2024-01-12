@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Захаваныя адрасы
 autofill-manage-addresses-list-header = Адрасы
 autofill-manage-credit-cards-title = Захаваныя крэдытныя карткі
 autofill-manage-credit-cards-list-header = Крэдытныя карткі
+autofill-manage-payment-methods-title = Захаваныя спосабы аплаты
+autofill-manage-cards-list-header = Карты
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Выдаліць
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Налады адраса
 address-capture-learn-more-button =
     .label = Падрабязней
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Дадаць новы адрас
 address-capture-open-menu-button =
     .aria-label = Адкрыць меню
 address-capture-edit-address-button =
     .aria-label = Змяніць адрас
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Дадаць новы адрас
+autofill-add-address-title = Дадаць адрас
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Змяніць адрас
 autofill-address-name = Імя
@@ -114,7 +118,6 @@ autofill-address-email = Эл.пошта
 autofill-cancel-button = Скасаваць
 autofill-save-button = Захаваць
 autofill-country-warning-message = Аўтазапаўненне формаў зараз даступна толькі для пэўных краін.
-autofill-message-tooltip = Паглядзець паведамленне пра аўтазапаўненне
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Дадаць новую крэдытную картку
 # The dialog title for editing credit cards in browser preferences.
@@ -127,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } спрабуе паказаць інфармацыю крэдытнай карткі. Пацвердзіце доступ да гэтага ўліковага запісу Windows ніжэй.
        *[other] { -brand-short-name } спрабуе паказаць інфармацыю крэдытнай карткі.
     }
+autofill-message-tooltip = Паглядзець паведамленне пра аўтазапаўненне
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Дадаць карту
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Змяніць карту
 autofill-card-number = Нумар карткі
 autofill-card-invalid-number = Калі ласка, увядзіце сапраўдны нумар карты
 autofill-card-name-on-card = Імя на картцы

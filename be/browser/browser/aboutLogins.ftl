@@ -130,6 +130,7 @@ login-item-edit-button = Змяніць
 about-logins-login-item-remove-button = Выдаліць
 login-item-origin-label = Адрас сайта
 login-item-tooltip-message = Упэўніцеся, што гэта дакладны адрас сайта, на якім вы ўваходзіце ў сістэму.
+about-logins-origin-tooltip2 = Увядзіце поўны адрас і пераканайцеся, што ён дакладна адпавядае месцу, дзе вы ўваходзіце.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Пераканайцеся, што вы захоўваеце свой дзейны пароль для гэтага сайта. Змена пароля тут не мяняе яго на { $webTitle }.
@@ -177,6 +178,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Каб змяніць ва�
 about-logins-edit-login-os-auth-dialog-message-macosx = рэдагаваць захаваны лагін
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Каб змяніць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = змяніць захаваны пароль
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Каб пабачыць свой пароль, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -192,6 +196,11 @@ about-logins-export-password-os-auth-dialog-message-win = Каб экспарт�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = экспартаваць захаваныя лагіны і паролі
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Каб экспартаваць свае паролі, увядзіце свае ўліковыя дадзеныя для ўваходу ў Windows. Гэта дапамагае захоўваць бяспеку вашых уліковых запісаў.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = экспартаваць захаваныя паролі
 
 ## Primary Password notification
 
