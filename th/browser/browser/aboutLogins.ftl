@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = สร้างการเข้าสู่ระบบใหม่
+about-logins-page-title-name = รหัสผ่าน
+about-logins-login-filter2 =
+    .placeholder = ค้นหารหัสผ่าน
+    .key = F
+create-login-button =
+    .title = เพิ่มรหัสผ่าน
 fxaccounts-sign-in-text = รับรหัสผ่านของคุณบนอุปกรณ์อื่น ๆ ของคุณ
 fxaccounts-sign-in-sync-button = ลงชื่อเข้าใช้เพื่อซิงค์
 fxaccounts-avatar-button =
@@ -23,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = นำเข้าจ�
 about-logins-menu-menuitem-import-from-a-file = นำเข้าจากไฟล์…
 about-logins-menu-menuitem-export-logins = ส่งออกการเข้าสู่ระบบ…
 about-logins-menu-menuitem-remove-all-logins = ลบการเข้าสู่ระบบทั้งหมด…
+about-logins-menu-menuitem-export-logins2 = ส่งออกรหัสผ่าน…
+about-logins-menu-menuitem-remove-all-logins2 = เอารหัสผ่านทั้งหมดออก…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ตัวเลือก
@@ -48,6 +56,13 @@ login-list-filtered-count =
         [one] { $count } จาก { $total } การเข้าสู่ระบบ
        *[other] { $count } จาก { $total } การเข้าสู่ระบบ
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 = { $count } รหัสผ่าน
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 = { $count } จาก { $total } รหัสผ่าน
 login-list-sort-label-text = เรียงลำดับตาม:
 login-list-name-option = ชื่อตามตัวอักษร
 login-list-name-reverse-option = ชื่อ (Z-A)
@@ -57,11 +72,14 @@ about-logins-login-list-alerts-option = การแจ้งเตือน
 login-list-last-changed-option = วันที่เปลี่ยนแปลงล่าสุด
 login-list-last-used-option = วันที่ใช้ครั้งล่าสุด
 login-list-intro-title = ไม่พบการเข้าสู่ระบบ
+login-list-intro-title2 = ไม่มีรหัสผ่านที่บันทึกไว้
 login-list-intro-description = เมื่อคุณบันทึกรหัสผ่านใน { -brand-product-name } รหัสผ่านจะปรากฏขึ้นที่นี่
 about-logins-login-list-empty-search-title = ไม่พบการเข้าสู่ระบบ
+about-logins-login-list-empty-search-title2 = ไม่พบรหัสผ่าน
 about-logins-login-list-empty-search-description = ไม่มีผลลัพธ์ที่ตรงกับการค้นหาของคุณ
 login-list-item-title-new-login = การเข้าสู่ระบบใหม่
 login-list-item-subtitle-new-login = ป้อนข้อมูลรับรองการเข้าสู่ระบบของคุณ
+login-list-item-title-new-login2 = เพิ่มรหัสผ่าน
 login-list-item-subtitle-missing-username = (ไม่มีชื่อผู้ใช้)
 about-logins-list-item-breach-icon =
     .title = เว็บไซต์ที่มีการรั่วไหล
@@ -80,6 +98,7 @@ about-logins-login-intro-heading-logged-out2 = กำลังมองหาก
 about-logins-login-intro-heading-logged-in = ไม่พบการเข้าสู่ระบบที่ซิงค์
 login-intro-description = หากคุณบันทึกการเข้าสู่ระบบของคุณไว้ที่ { -brand-product-name } บนอุปกรณ์อื่น ๆ คุณสามารถนำมาใช้บนอุปกรณ์นี้ได้ด้วยวิธีนี้:
 login-intro-instructions-fxa = สร้างหรือลงชื่อเข้า { -fxaccount-brand-name } ของคุณบนอุปกรณ์ที่บันทึกการเข้าสู่ระบบของคุณ
+about-logins-login-intro-heading-message = บันทึกรหัสผ่านของคุณไว้ในที่ปลอดภัย
 login-intro-instructions-fxa2 = สร้างหรือลงชื่อเข้าใช้บัญชีของคุณบนอุปกรณ์ที่บันทึกการเข้าสู่ระบบของคุณ
 login-intro-instructions-fxa-settings = ไปที่ การตั้งค่า > Sync > เปิดการซิงค์… แล้วเลือกกล่องกาเครื่องหมาย การเข้าสู่ระบบและรหัสผ่าน
 login-intro-instructions-fxa-passwords-help = ไปที่<a data-l10n-name="passwords-help-link">การช่วยเหลือรหัสผ่าน</a>สำหรับความช่วยเหลือเพิ่มเติม
@@ -265,6 +284,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = นำเข้าไฟล์การเข้าสู่ระบบ
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = นำเข้ารหัสผ่านมายัง { -brand-short-name }
 about-logins-import-file-picker-import-button = นำเข้า
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -298,6 +319,18 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>พบการเข้าสู่ระบบที่ซ้ำกัน:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ยังไม่ได้นำเข้า)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] <span>จำนวนรหัสผ่านใหม่ที่เพิ่ม:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+       *[other] <span>จำนวนรายการที่มีอยู่ที่ถูกอัปเดต:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+       *[other] <span>จำนวนรายการที่ซ้ำกันที่พบ:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>ข้อผิดพลาด:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ยังไม่ได้นำเข้า)</span>
@@ -318,6 +351,7 @@ about-logins-import-dialog-error-try-import-again = ลองนำเข้า�
 about-logins-import-dialog-error-cancel = ยกเลิก
 about-logins-import-report-title = สรุปการนำเข้า
 about-logins-import-report-description = นำเข้าการเข้าสู่ระบบและรหัสผ่านไปยัง { -brand-short-name } แล้ว
+about-logins-import-report-description2 = นำเข้ารหัสผ่านมายัง { -brand-short-name } แล้ว
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -325,6 +359,9 @@ about-logins-import-report-row-index = แถว { $number }
 about-logins-import-report-row-description-no-change = ซ้ำกัน: ตรงกันทุกประการกับการเข้าสู่ระบบที่มีอยู่
 about-logins-import-report-row-description-modified = อัปเดตการเข้าสู่ระบบที่มีอยู่แล้ว
 about-logins-import-report-row-description-added = เพิ่มการเข้าสู่ระบบใหม่แล้ว
+about-logins-import-report-row-description-no-change2 = ซ้ำกัน: ตรงกันทุกประการกับรายการที่มีอยู่
+about-logins-import-report-row-description-modified2 = อัปเดตรายการที่มีอยู่แล้ว
+about-logins-import-report-row-description-added2 = เพิ่มรหัสผ่านใหม่แล้ว
 about-logins-import-report-row-description-error = ข้อผิดพลาด: ฟิลด์หายไป
 
 ##
@@ -349,6 +386,18 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">การเข้าสู่ระบบที่ซ้ำกัน</div> <div data-l10n-name="not-imported">(ไม่ได้นำเข้า)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+       *[other] <div data-l10n-name="details">เพิ่ม</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">รหัสผ่านใหม่แล้ว</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+       *[other] <div data-l10n-name="details">อัปเดต</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">รายการที่มีอยู่แล้ว</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">รายการที่ซ้ำกัน</div> <div data-l10n-name="not-imported">(ไม่ได้นำเข้า)</div>
     }
 about-logins-import-report-error =
     { $count ->
