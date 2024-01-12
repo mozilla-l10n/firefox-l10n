@@ -114,3 +114,9 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-header = Nebūkite stebimi naršant
+cfr-protections-panel-body = Jūsų duomenys skirti tik jums. „{ -brand-short-name }“ saugo jus nuo daugelio dažniausių stebėjimo elementų, stebinčių jūsų veiklą internete.
+cfr-protections-panel-link-text = Sužinoti daugiau
