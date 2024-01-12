@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Verbesserter Schutz vor Aktivitätenverfolgun
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Verbesserter Tracking-Schutz
-    .description = Aktiviert für diese Website
-    .aria-label = Schutz für { $host } abschalten
-protections-panel-etp-off-toggle =
-    .label = Verbesserter Tracking-Schutz
-    .description = Deaktiviert für diese Website
-    .aria-label = Schutz für { $host } aktivieren
 protections-panel-etp-toggle-on =
     .label = Verbesserter Tracking-Schutz
     .description = Aktiviert für dieser Website
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Cookie-Banner-B
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Cookie-Banner-Blocker für diese Website aktivieren?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } löscht die Cookies dieser Website und aktualisiert die Seite. Das Löschen aller Cookies kann Sie abmelden oder Warenkörbe leeren.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } versucht, alle Cookie-Anforderungen auf unterstützten Websites automatisch abzulehnen.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Aktivieren und { -brand-short-name } wird versuchen, Cookie-Banner auf dieser Website automatisch abzulehnen.
 protections-panel-cookie-banner-view-cancel = Abbrechen
 protections-panel-cookie-banner-view-turn-off = Deaktivieren
 protections-panel-cookie-banner-view-turn-on = Aktivieren
+protections-panel-cookie-banner-blocker-view-turn-on-description = Aktivieren und { -brand-short-name } wird versuchen, Cookie-Banner auf dieser Website automatisch abzulehnen.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Abbrechen
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,8 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Problem mit Website melden
     .title = Problem mit Website melden
+
+## Protections panel info message
+
+cfr-protections-panel-header = Surfen ohne verfolgt zu werden
+cfr-protections-panel-body = Behalten Sie die Kontrolle über Ihre Daten. { -brand-short-name } schützt Sie vor den verbreitetsten Skripten, welche Ihre Online-Aktivitäten verfolgen.
