@@ -157,3 +157,6 @@ protections-panel-report-broken-site =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = Vafraðu án þess að fylgst sé með þér
+cfr-protections-panel-body = Haltu þínum gögnum fyrir sjálfan þig. { -brand-short-name } verndar þig fyrir mörgum algengustu rekjurum sem fylgjast með því sem þú gerir á netinu.
+cfr-protections-panel-link-text = Frekari upplýsingar
