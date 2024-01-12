@@ -154,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = Retumu sen esti observata
+cfr-protections-panel-body = Gardu viajn datumojn por vi mem. { -brand-short-name } protektas vin de pluraj el la plej oftaj spuriloj, kiuj sekvas vian retumon.
+cfr-protections-panel-link-text = Pli da informo
