@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Trình chống theo dõi nâng cao đã bị 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Trình chống theo dõi nâng cao
-    .description = Bật trên trang này
-    .aria-label = Tắt bảo vệ cho { $host }
-protections-panel-etp-off-toggle =
-    .label = Trình chống theo dõi nâng cao
-    .description = Tắt trên trang này
-    .aria-label = Bật bảo vệ cho { $host }
 protections-panel-etp-toggle-on =
     .label = Trình chống theo dõi nâng cao
     .description = Đã bật trên trang này
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Tắt trình ch
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Bật trình chặn biểu ngữ cookie cho trang web này?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } sẽ xóa cookie của trang web này và làm mới trang. Xóa tất cả cookie có thể khiến bạn đăng xuất hoặc làm trống giỏ hàng.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } sẽ thử tự động từ chối tất cả các yêu cầu cookie trên các trang web được hỗ trợ.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Bật nó và { -brand-short-name } sẽ cố gắng tự động từ chối các biểu ngữ cookie trên trang này.
 protections-panel-cookie-banner-view-cancel = Hủy bỏ
 protections-panel-cookie-banner-view-turn-off = Tắt
 protections-panel-cookie-banner-view-turn-on = Bật
+protections-panel-cookie-banner-blocker-view-turn-on-description = Bật nó và { -brand-short-name } sẽ cố gắng tự động từ chối các biểu ngữ cookie trên trang này.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Hủy bỏ
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Báo cáo trang web bị hỏng
     .title = Báo cáo trang web bị hỏng
+
+## Protections panel info message
+
+cfr-protections-panel-header = Duyệt mà không bị theo dõi
+cfr-protections-panel-body = Giữ dữ liệu của bạn cho chính mình. { -brand-short-name } bảo vệ bạn khỏi nhiều trình theo dõi phổ biến nhất theo dõi những gì bạn làm trực tuyến.
+cfr-protections-panel-link-text = Tìm hiểu thêm
