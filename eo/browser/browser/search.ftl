@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Eraro dum instalo
 opensearch-error-duplicate-desc = { -brand-short-name } ne povis instali la serĉilon el "{ $location-url }" ĉar alia serĉilo kun la sama nomo jam ekzistas.
-
 opensearch-error-format-title = Nevalida formo
 opensearch-error-format-desc = { -brand-short-name } ne povis instali la serĉilon el: { $location-url }
-
 opensearch-error-download-title = Eraro dum elŝuto
 opensearch-error-download-desc = { -brand-short-name } ne povis elŝuti la serĉilon el: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } ne povis elŝuti la serĉ
 
 searchbar-submit =
     .tooltiptext = Sendi serĉon
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Serĉi
-
 searchbar-icon =
     .tooltiptext = Serĉi
 
@@ -35,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 removed-search-engine-message = <strong>Via norma serĉilo estis ŝanĝita.</strong> { $oldEngine } ne plu estas disponebla kiel norma serĉilo en { -brand-short-name }. { $newEngine } estas nun via norma serĉilo. Por elekti alian norma serĉilon, iru al agordoj. <label data-l10n-name="remove-search-engine-article">Pli da informo</label>
+removed-search-engine-message2 = <strong>Via norma serĉilo estis ŝanĝita.</strong> { $oldEngine } ne plu estas disponebla kiel norma serĉilo en { -brand-short-name }. { $newEngine } estas nun via norma serĉilo. Por elekti alian norma serĉilon, iru al agordoj.
 remove-search-engine-button = Akcepti
