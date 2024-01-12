@@ -68,9 +68,14 @@ about-webauthn-current-set-pin-button = PIN 설정
 about-webauthn-current-change-pin-button = PIN 변경
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = 자격 증명 목록
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = 등록 목록
+about-webauthn-add-bio-enrollment-button = 등록 추가
 about-webauthn-cancel-button = 취소
 about-webauthn-send-pin-button = 확인
 about-webauthn-delete-button = 삭제
+about-webauthn-start-enrollment-button = 등록 시작
+about-webauthn-update-button = 업데이트
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -137,9 +142,29 @@ about-webauthn-auth-info-null = 지원되지 않음
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed = 아직 샘플 { $repeatCount }개가 필요합니다.
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = 샘플이 좋습니다.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = 샘플이 너무 높습니다.
+about-webauthn-ctap2-enroll-feedback-too-low = 샘플이 너무 낮습니다.
+about-webauthn-ctap2-enroll-feedback-too-left = 샘플이 너무 왼쪽입니다.
+about-webauthn-ctap2-enroll-feedback-too-right = 샘플이 너무 오른쪽입니다.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = 샘플이 너무 빠릅니다.
+about-webauthn-ctap2-enroll-feedback-too-slow = 샘플이 너무 느립니다.
+about-webauthn-ctap2-enroll-feedback-poor-quality = 샘플의 품질이 좋지 않습니다.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = 샘플이 너무 왜곡되었습니다.
+about-webauthn-ctap2-enroll-feedback-too-short = 샘플이 너무 짧습니다.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = 샘플 병합에 실패했습니다.
