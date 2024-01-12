@@ -153,3 +153,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Eman hondatutako gunearen berri
     .title = Eman hondatutako gunearen berri
+
+## Protections panel info message
+
+cfr-protections-panel-header = Nabigatu inor atzetik izan gabe
+cfr-protections-panel-body = Mantendu zure datuak zuretzat. Lineako zure jardueraren jarraipena egiten duten elementu ohikoenetatik babesten zaitu { -brand-short-name }(e)k.
+cfr-protections-panel-link-text = Argibide gehiago
