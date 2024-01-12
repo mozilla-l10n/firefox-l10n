@@ -794,9 +794,9 @@ sync-engine-creditcards =
     .label = Cartas da credit
     .tooltiptext = Nums, numers e datas da scadenza (mo computers)
     .accesskey = C
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = Metodas da pajament
-    .tooltiptext = Nums, numers da carta e datas da scadenza (mo desktop)
+    .tooltiptext = Nums, numers da cartas e datas da scadenza
     .accesskey = n
 sync-engine-addons =
     .label = ils supplements
@@ -844,18 +844,35 @@ pane-privacy-logins-and-passwords-header = Infurmaziuns d'annunzia & pleds-clav
 forms-ask-to-save-logins =
     .label = Dumandar da memorisar las infurmaziuns d'annunzia ed ils pleds-clav per paginas d'internet
     .accesskey = r
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Pleds-clav
+    .searchkeywords = datas d’annunzia
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Proponer da memorisar pleds-clav
+    .accesskey = a
 forms-exceptions =
     .label = Excepziuns…
     .accesskey = x
 forms-generate-passwords =
     .label = Proponer e generar pleds-clav cumplexs
     .accesskey = x
+forms-suggest-passwords =
+    .label = Proponer ferms pleds-clav
+    .accesskey = s
 forms-breach-alerts =
     .label = Mussar avertiments per ils pleds-clav da websites cun sperditas da datas
     .accesskey = b
 forms-breach-alerts-learn-more-link = Ulteriuras infurmaziuns
 preferences-relay-integration-checkbox =
     .label = Proponer alias dad e-mail da { -relay-brand-name } per proteger tia adressa dad e-mail
+preferences-relay-integration-checkbox2 =
+    .label = Proponer alias dad e-mail da { -relay-brand-name } per proteger tia adressa dad e-mail
+    .accesskey = r
 relay-integration-learn-more-link = Ulteriuras infurmaziuns
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -864,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Infurmaziuns d'annunzia memorisadas…
     .accesskey = n
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Endatar automaticamain nums d’utilisader e pleds-clav
+    .accesskey = E
+forms-saved-passwords =
+    .label = Pleds-clav memorisads
+    .accesskey = d
 forms-primary-pw-use =
     .label = Utilisar in pled-clav universal
     .accesskey = U
@@ -887,6 +911,7 @@ forms-windows-sso =
     .label = Permetter l'utilisaziun da Windows single sign-on per ils contos Microsoft, da scola e da fatschenta
 forms-windows-sso-learn-more-link = Ulteriuras infurmaziuns
 forms-windows-sso-desc = Administrar ils contos en ils parameters da tes apparat
+windows-passkey-settings-label = Administrar las clavs d’access (passkeys) en ils parameters dal sistem
 
 ## OS Authentication dialog
 
@@ -898,6 +923,28 @@ primary-password-os-auth-dialog-message-win = Per crear in pled-clav universal, 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crear in pled-clav universal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Endataziun automatica
+autofill-addresses-checkbox = Memorisar ed emplenir automaticamain las adressas
+    .accesskey = a
+autofill-saved-addresses-button = Adressas memorisadas
+    .accesskey = s
+autofill-payment-methods-checkbox-message = Memorisar ed emplenir automaticamain las metodas da pajament
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Inclus cartas da credit e cartas da debit
+    .accesskey = I
+autofill-saved-payment-methods-button = Metodas da pajament memorisadas
+    .accesskey = p
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Pretender ina autentificaziun da macOS per endatar automaticamain e modifitgar metodas da pajament.
+        [windows] Pretender ina autentificaziun da Windows per endatar automaticamain e modifitgar metodas da pajament.
+        [linux] Pretender ina autentificaziun da Linux per endatar automaticamain e modifitgar metodas da pajament.
+       *[other] Pretender ina autentificaziun per endatar automaticamain e modifitgar metodas da pajament.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 

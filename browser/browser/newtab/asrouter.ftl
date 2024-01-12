@@ -246,7 +246,7 @@ device-migration-fxa-spotlight-older-device-header = Sta patgific cun { -brand-p
 device-migration-fxa-spotlight-older-device-body = In conto garantescha che tias datas impurtantas sajan adina actualas e protegidas sin mintga apparat che ti connecteschas.
 device-migration-fxa-spotlight-older-device-primary-button = Crear in conto
 device-migration-fxa-spotlight-getting-new-device-header-2 = In nov apparat en tes futur?
-device-migration-fxa-spotlight-getting-new-device-body = Fa ussa copias da segirezza da tias datas, per che ti sajas pront cura che tes apparat arriva.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Suonda in pèr simpels pass per prender cun tai tes segnapaginas, la cronologia ed ils pleds-clav sche ti has in nov apparat.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Co far copias da segirezza da mias datas
 
 ## Set as Default PDF Reader Infobar

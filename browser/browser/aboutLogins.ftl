@@ -29,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importar dad in auter n
 about-logins-menu-menuitem-import-from-a-file = Importar dad ina datoteca…
 about-logins-menu-menuitem-export-logins = Exportar infurmaziuns d'annunzia…
 about-logins-menu-menuitem-remove-all-logins = Allontanar tut las datas d'annunzia…
+about-logins-menu-menuitem-export-logins2 = Exportar ils pleds-clav…
 about-logins-menu-menuitem-remove-all-logins2 = Allontanar tut ils pleds-clav…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -106,11 +107,14 @@ about-logins-login-intro-heading-logged-out2 = Tschertgas ti tias infurmaziuns d
 about-logins-login-intro-heading-logged-in = Chattà naginas infurmaziuns d'annunzia sincronisadas.
 login-intro-description = Sche ti has memorisà tias infurmaziuns d'annunzia en { -brand-product-name } sin in auter apparat, vegns ti a savair qua co acceder ad ellas:
 login-intro-instructions-fxa = Acceda al u creescha in { -fxaccount-brand-name(capitalization: "sentence") } cun l'apparat nua che las infurmaziuns d'annunzia èn memorisadas
+about-logins-login-intro-heading-message = Memorisescha tes pleds-clav en in lieu segir
+login-intro-description2 = Tut ils pleds-clav che ti memoriseschas en { -brand-product-name } èn criptads. En pli observain nus las sperditas da datas e t’avertin sche ti es pertutgà. <a data-l10n-name="breach-alert-link">Ulteriuras infurmaziuns</a>
 login-intro-instructions-fxa2 = Creescha in conto u acceda a tes conto cun l'apparat sin il qual tias infurmaziuns d'annunzia èn memorisadas.
 login-intro-instructions-fxa-settings = Acceder a Parameters > Sync > Activar la sincronisaziun… Activar la chaschetta da controlla Infurmaziuns d'annunzia e pleds-clav.
 login-intro-instructions-fxa-passwords-help = Visita il <a data-l10n-name="passwords-help-link">support per pleds-clav</a> per ulteriur agid.
 about-logins-intro-browser-only-import = En cas che las infurmaziuns d'annunzia èn memorisadas en in auter navigatur, èsi pussaivel da las <a data-l10n-name="import-link">importar en { -brand-product-name }</a>
 about-logins-intro-import2 = Sche tias infurmaziuns d'annunzia èn memorisadas ordaifer { -brand-product-name }, pos ti <a data-l10n-name="import-browser-link">las importar dad in auter navigatur</a> u <a data-l10n-name="import-file-link">dad ina datoteca</a>
+about-logins-intro-import3 = Tscherna il buttun cun il plus sutvart per agiuntar ussa in pled-clav. Ti pos era <a data-l10n-name="import-browser-link">importar pleds-clav dad in auter navigatur</a> u <a data-l10n-name="import-file-link">dad ina datoteca</a>.
 
 ## Login
 
@@ -270,12 +274,29 @@ about-logins-confirm-remove-all-dialog-message2 =
         [1] Uschia vegn allontanà il pled-clav memorisà en { -brand-short-name } e tut ils avertiments da sperditas da datas. Questa acziun na po betg vegnir revocada.
        *[other] Uschia vegnan allontanads ils pleds-clav memorisads en { -brand-short-name } e tut ils avertiments da sperditas da datas. Questa acziun na po betg vegnir revocada.
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Allontanar { $count } pled-clav da tut ils apparats?
+       *[other] Allontanar ils { $count } pleds-clav da tut ils apparats?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Uschia vegn allontanà il pled-clav memorisà en { -brand-short-name } sin tut tes apparats sincronisads. Era avertiments da sperditas da datas che cumparan qua vegnan allontanadas. Ti na pos betg revocar questa acziun.
+       *[other] Uschia vegnan allontanads ils pleds-clav memorisads en { -brand-short-name } sin tut tes apparats sincronisads. Era avertiments da sperditas da datas che cumparan qua vegnan allontanadas. Ti na pos betg revocar questa acziun.
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Exportar infurmaziuns d'annunzia e pleds-clav
 about-logins-confirm-export-dialog-message = Tes pleds-clav vegnan memorisads sco text legibel (p.ex. «M@lPledc1av»), uschia che mintgin che po avrir la datoteca exportada als po vesair.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-confirm-export-dialog-title2 = In avis en connex cun l’export da pleds-clav
+about-logins-confirm-export-dialog-message2 =
+    Sche ti exporteschas tes pleds-clav, vegnan els memorisads en ina datoteca da text senza criptadi.
+    Sche ti na dovras betg pli la datoteca, ta recumandain nus da la stizzar per che autras persunas che dovran quest apparat, na vesian betg tes pleds-clav.
+about-logins-confirm-export-dialog-confirm-button2 = Cuntinuar cun l’export
 about-logins-alert-import-title = L'import è cumplet
 about-logins-alert-import-message = Mussar ina resumaziun detagliada da l'import
 confirm-discard-changes-dialog-title = Ignorar las modificaziuns betg memorisadas?
@@ -317,6 +338,11 @@ about-logins-export-file-picker-title = Exportar la datoteca da las infurmaziuns
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = datas-annunzia.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Exportar pleds-clav da { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = pleds-clav.csv
 about-logins-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.

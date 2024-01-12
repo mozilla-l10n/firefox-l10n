@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Las infurmaziuns d'annunzia per las suandantas websites na vegnan betg memorisadas
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Excepziuns - pleds-clav memorisads
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } na vegn betg a memorisar pleds-clav per websites enumeradas qua.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
