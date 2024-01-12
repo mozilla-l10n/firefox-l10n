@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Ina waɗnoo juumre neldugol jaŋtol ngol. Tiiɗno eto kadi yeeso.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Lowre ndee feewnaama? Neldu jaŋtol
 
@@ -20,9 +19,14 @@ protections-popup-footer-protection-label-standard = Gaadanteejo
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Humpito heewngo baɗte Deenka Dewindol Ƴellitaaka
-
 protections-panel-etp-on-header = Ndeenka Dewindol Ƴellitaaka ko ko huɓɓaa ngam ndee lowre
 protections-panel-etp-off-header = Ndeenka Dewindol Ƴellitaaka ko ko ñifaa ngam ndee lowre
+
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -51,9 +55,7 @@ protections-panel-settings-label = Teelte Ndeenka
 
 # The header of the list
 protections-panel-site-not-working-view-header = Ñif ndeenkaaji so aɗa jogii caɗeele e:
-
 protections-panel-site-not-working-view-issue-list-comments = Jowe
-
 protections-panel-site-not-working-view-send-report = Neldu jaŋtol
 
 ##
@@ -61,7 +63,6 @@ protections-panel-site-not-working-view-send-report = Neldu jaŋtol
 protections-panel-content-blocking-manage-settings =
     .label = Toppito teelte ndeenka
     .accesskey = T
-
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -75,3 +76,9 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-header = Wanngo tawo a rewindaaka
+cfr-protections-panel-body = Mooftan hoore maa keɓe maa. { -brand-short-name } ina reen maa e ko heewi e rewindotooɓe ɓurɓe wooweede rewooɓe e maa e ceŋogol.
+cfr-protections-panel-link-text = Ɓeydu humpito
