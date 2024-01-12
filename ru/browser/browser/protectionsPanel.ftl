@@ -157,3 +157,4 @@ protections-panel-report-broken-site =
 
 ## Protections panel info message
 
+cfr-protections-panel-link-text = Подробнее
