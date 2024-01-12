@@ -168,3 +168,8 @@ about-webauthn-ctap2-enroll-feedback-too-skewed = 샘플이 너무 왜곡되었�
 about-webauthn-ctap2-enroll-feedback-too-short = 샘플이 너무 짧습니다.
 # Scan (e.g. of fingerprint) couldn't be merged with previous samples.
 about-webauthn-ctap2-enroll-feedback-merge-failure = 샘플 병합에 실패했습니다.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = 샘플이 이미 존재합니다.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = 사용자의 활동이 없습니다.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = 사용자가 예상대로 샘플링을 완료하지 않았습니다.
+about-webauthn-ctap2-enroll-feedback-other = 샘플 오류입니다.
