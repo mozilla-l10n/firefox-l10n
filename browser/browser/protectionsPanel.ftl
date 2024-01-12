@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Бақылаудан кеңейтілген �
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Бақылаудан кеңейтілген қорғаныс
-    .description = Бұл сайтта іске қосулы
-    .aria-label = { $host } үшін қорғанысты сөндіру
-protections-panel-etp-off-toggle =
-    .label = Бақылаудан кеңейтілген қорғаныс
-    .description = Бұл сайт үшін сөндірулі
-    .aria-label = { $host } үшін қорғанысты іске қосу
 protections-panel-etp-toggle-on =
     .label = Бақылаудан кеңейтілген қорғаныс
     .description = Бұл сайт үшін іске қосылған
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = { $host } үш�
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Бұл сайт үшін cookie баннерлерін бұғаттаушын іске қосу керек пе?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } осы сайттың cookie файлдарын тазартып, бетті жаңартады. Барлық cookie файлдарын тазарту салдарынан сіз сайттан шығуыңыз мүмкін немесе дүкен себеттері тазартылуы мүмкін.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } қолдау көрсетілетін сайттардағы барлық cookie сұрауларын автоматты түрде қабылдамау әрекетін жасайды.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Іске қосыңыз, және де { -brand-short-name } осы сайттағы cookie баннерлерінен автоматты түрде бас тартуға тырысады.
 protections-panel-cookie-banner-view-cancel = Бас тарту
 protections-panel-cookie-banner-view-turn-off = Сөндіру
 protections-panel-cookie-banner-view-turn-on = Іске қосу
+protections-panel-cookie-banner-blocker-view-turn-on-description = Іске қосыңыз, және де { -brand-short-name } осы сайттағы cookie баннерлерінен автоматты түрде бас тартуға тырысады.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Бас тарту
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Сынған сайт туралы хабарлау
     .title = Сынған сайт туралы хабарлау
+
+## Protections panel info message
+
+cfr-protections-panel-header = Бақылаусыз шолу
+cfr-protections-panel-body = Деректеріңізді тек өзіңіз үшін қалдырыңыз. { -brand-short-name } желіде сіздің соңыңыздан еретін ең кең тараған трекерлердің көбінен қорғайды.
+cfr-protections-panel-link-text = Көбірек білу
