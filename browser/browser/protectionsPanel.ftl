@@ -137,3 +137,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = تصفّح ولا أحد ورائك
+cfr-protections-panel-body = لتعبّر الكاف في ”بياناتك“ عنك أنت. يحميك { -brand-short-name } من عديد من المتعقّبات المعروفة والتي تريد معرفة ما تفعله في المواقع.
+cfr-protections-panel-link-text = اطّلع على المزيد
