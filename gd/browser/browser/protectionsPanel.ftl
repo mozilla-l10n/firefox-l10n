@@ -135,3 +135,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Cuir dheth
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Cuir air
+
+## Protections panel info message
+
+cfr-protections-panel-header = Dèan brabhsadh gun daoine a’ cumail sùil ort
+cfr-protections-panel-body = Cùm an dàta agad agad fhèin. Dìonaidh { -brand-short-name } thu o mhòran dhe na tracaichean as cumanta a leanas mun cuairt thu air an lìon.
+cfr-protections-panel-link-text = Barrachd fiosrachaidh
