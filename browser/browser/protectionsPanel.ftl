@@ -157,4 +157,6 @@ protections-panel-report-broken-site =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = Selaa ilman seurantaa
 cfr-protections-panel-body = Pidä tietosi itselläsi. { -brand-short-name } suojaa sinua useilta yleisiltä seuraimilta, jotka seuraavat tekemisiäsi verkossa.
+cfr-protections-panel-link-text = Lue lisää
