@@ -113,4 +113,6 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = Mag-browse nang hindi sinusundan
 cfr-protections-panel-body = Itago mo ang data na para sa iyo lamang. Pinoprotektahan ka ng { -brand-short-name } mula sa mga karaniwang tracker na nagmamanman sa mga gawain mo online.
+cfr-protections-panel-link-text = Karagdagang kaalaman
