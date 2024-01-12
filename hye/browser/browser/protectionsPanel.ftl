@@ -117,4 +117,5 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 ## Protections panel info message
 
 cfr-protections-panel-header = Զննարկել առանց հետեւուելու
+cfr-protections-panel-body = Ձեր տուեալները պահէք Ձեզ մաւտ։ { -brand-short-name }-ը Ձեզ պաշտպանում է ամենատարածուած վնասներից, որոնք հետեւում են այն ամէնին, ինչ դուք անում էք առցանց։
 cfr-protections-panel-link-text = Իմանալ աւելին
