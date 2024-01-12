@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Узмоцненая ахова ад сачэ
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Узмоцненая ахова ад сачэння
-    .description = Уключана на гэтым сайце
-    .aria-label = Адключыць ахову на { $host }
-protections-panel-etp-off-toggle =
-    .label = Узмоцненая ахова ад сачэння
-    .description = Адключана на гэтым сайце
-    .aria-label = Уключыць ахову на { $host }
 protections-panel-etp-toggle-on =
     .label = Узмоцненая ахова ад сачэння
     .description = Уключана на гэтым сайце
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Выключы�
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Уключыць блакавальнік банераў кукі для гэтага сайта?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } выдаліць файлы кукі гэтага сайта і абновіць старонку. Выдаленне ўсіх файлаў кукі можа прывесці да выхаду з сістэмы або ачышчэння кошыка для пакупак.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } спрабуе аўтаматычна адхіляць усе запыты файлаў кукі на сайтах, якія падтрымліваюцца.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Уключыце, і { -brand-short-name } паспрабуе аўтаматычна адхіляць банеры кукі на гэтым сайце.
 protections-panel-cookie-banner-view-cancel = Скасаваць
 protections-panel-cookie-banner-view-turn-off = Выключыць
 protections-panel-cookie-banner-view-turn-on = Уключыць
+protections-panel-cookie-banner-blocker-view-turn-on-description = Уключыце, і { -brand-short-name } паспрабуе аўтаматычна адхіляць банеры кукі на гэтым сайце.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Скасаваць
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Паведаміць пра пашкоджаны сайт
     .title = Паведаміць аб зламаным сайце
+
+## Protections panel info message
+
+cfr-protections-panel-header = Аглядайце без старонніх вачэй
+cfr-protections-panel-body = Захоўвайце свае дадзеныя пры сабе. { -brand-short-name } абараняе вас ад многіх самых распаўсюджаных трэкераў, якія сочаць за тым, што вы робіце ў інтэрнэце.
+cfr-protections-panel-link-text = Даведацца больш
