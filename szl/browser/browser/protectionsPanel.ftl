@@ -112,3 +112,9 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-header = Przeglōndej tak, coby żodyn na ciebie niy filowoł
+cfr-protections-panel-body = Trzimej swoje dane ino do sia. { -brand-short-name } brōni cie ôd mocki śledzōncych elemyntōw, co filujōm na ciebie, jak żeś je w internecie.
+cfr-protections-panel-link-text = Przewiydz sie wiyncyj
