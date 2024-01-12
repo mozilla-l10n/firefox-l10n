@@ -29,14 +29,6 @@ protections-panel-etp-off-header = La protezion miorade da lis spiis e je DISATI
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Protezion miorade da lis spiis
-    .description = Ative par chest sît
-    .aria-label = Disative lis protezions par { $host }
-protections-panel-etp-off-toggle =
-    .label = Protezion miorade da lis spiis
-    .description = Disativade par chest sît
-    .aria-label = Ative lis protezions par { $host }
 protections-panel-etp-toggle-on =
     .label = Protezion miorade da lis spiis
     .description = Ative su chest sît
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Disativâ il bl
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Ativâ il bloc dai strissons pai cookies par chest sît?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } al netarà vie i cookies di chest sît e al inzornarà la pagjine. Al è pussibil che cu la netisie dai cookies tu vegnis disconetût dal sît o che eventuâi carei de spese a vegnin disvuedâts.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } al cîr di refudâ in automatic dutis lis richiestis dai cookies sui sîts supuartâts.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Ativilu e { -brand-short-name } al cirarà di refudâ in automatic i strissons pai cookies su chest sît.
 protections-panel-cookie-banner-view-cancel = Anule
 protections-panel-cookie-banner-view-turn-off = Disative
 protections-panel-cookie-banner-view-turn-on = Ative
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ativilu e { -brand-short-name } al cirarà di refudâ in automatic i strissons pai cookies su chest sît.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Anule
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Segnale problemis cul sît
     .title = Segnale problemis cul sît
+
+## Protections panel info message
+
+cfr-protections-panel-header = Navighe cence vê nissun che ti stâ daûr
+cfr-protections-panel-body = Ten i tiei dâts par te. { -brand-short-name } ti protêç di tancj dai plui comuns “trackers” (spiis) che a stan daûr a ce che tu fasis in rêt.
+cfr-protections-panel-link-text = Plui informazions
