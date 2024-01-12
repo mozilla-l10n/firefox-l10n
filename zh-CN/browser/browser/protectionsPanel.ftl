@@ -158,3 +158,4 @@ protections-panel-report-broken-site =
 ## Protections panel info message
 
 cfr-protections-panel-header = 自由上网，拒绝跟踪
+cfr-protections-panel-link-text = 详细了解
