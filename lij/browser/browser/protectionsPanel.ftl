@@ -11,9 +11,13 @@
 
 protections-panel-etp-on-header = Proteçion anti traciamento avansâ a l'é ATIVA pe sto scito
 
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = O scito o no fonçionn-a?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = O scito o no fonçionn-a?
@@ -46,14 +50,12 @@ protections-panel-not-found-label = Nisciun rilevou
 
 # The header of the list
 protections-panel-site-not-working-view-header = Asmòrta e proteçioin se ti gh'æ di problemi con:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Canpi de acesso
 protections-panel-site-not-working-view-issue-list-forms = Mòdoli
 protections-panel-site-not-working-view-issue-list-payments = Pagamenti
 protections-panel-site-not-working-view-issue-list-comments = Comenti
 protections-panel-site-not-working-view-issue-list-videos = Video
-
 protections-panel-site-not-working-view-send-report = Manda 'n report
 
 ##
@@ -68,3 +70,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-link-text = Atre informaçioin
