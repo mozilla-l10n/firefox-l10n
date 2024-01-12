@@ -135,3 +135,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Tichup
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Titzij
+
+## Protections panel info message
+
+cfr-protections-panel-header = Katok pa k'amaya'l akuchi' man yatoqäx ta
+cfr-protections-panel-body = Tik'oje' pan aq'a' ri awetamab'al. { -brand-short-name } yatruto' pa kiq'a' ri ojqanela' at kojqan toq yatok pa k'amab'ey.
+cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
