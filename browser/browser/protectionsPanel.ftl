@@ -29,14 +29,6 @@ protections-panel-etp-off-header = La proteccion renfortida contra lo seguiment 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Proteccion renfortida contra lo seguiment
-    .description = activada per aqueste site
-    .aria-label = Desactivar las proteccion per { $host }
-protections-panel-etp-off-toggle =
-    .label = Proteccion renfortida contra lo seguiment
-    .description = desactivada per aqueste site
-    .aria-label = Activar las proteccion per { $host }
 protections-panel-etp-toggle-on =
     .label = Proteccion renfortida contra lo seguiment
     .description = Activada per aqueste site
@@ -161,3 +153,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Senhalar un site copat
     .title = Senhalar un site copat
+
+## Protections panel info message
+
+cfr-protections-panel-header = Navegatz sens èsser seguit
+cfr-protections-panel-body = Gardatz vòstras donadas per vos. { -brand-short-name } vos protegís de la màger part dels traçadors mai comuns que vos seguisson en linha.
+cfr-protections-panel-link-text = Ne saber mai
