@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Polěpšeny slědowanski škit je znjemóžnj
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Polěpšeny slědowanski škit
-    .description = Za tute sydło zmóžnjeny
-    .aria-label = Škit za { $host } znjemóžnić
-protections-panel-etp-off-toggle =
-    .label = Polěpšeny slědowanski škit
-    .description = Za tute sydło znjemóžnjeny
-    .aria-label = Škit za { $host } zmóžnić
 protections-panel-etp-toggle-on =
     .label = Polěpšeny slědowanski škit
     .description = Za tute sydło zmóžnjeny
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Blokowak  plack
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Blokowak plackowych chorhojow za tute sydło zmóžnić?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } placki sydła zhaša a budźe stronu aktualizować. Zhašenje wšěch plackow móže was přizjewić abo nakupowanske wozyčki wuprózdnić.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } pospytuje wšě plackowe naprašowanja na podpěranych sydłach awtomatisce wotpokazać.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Zmóžńće tute nastajenje a { -brand-short-name } spyta, plackowe chorhoje na tutym sydle awtomatisce wotpokazać.
 protections-panel-cookie-banner-view-cancel = Přetorhnyć
 protections-panel-cookie-banner-view-turn-off = Znjemóžnić
 protections-panel-cookie-banner-view-turn-on = Zmóžnić
+protections-panel-cookie-banner-blocker-view-turn-on-description = Zmóžńće tute nastajenje a { -brand-short-name } spyta, plackowe chorhoje na tutym sydle awtomatisce wotpokazać.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Přetorhnyć
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Wobškodźene sydło zdźělić
     .title = Wobškodźene sydło zdźělić
+
+## Protections panel info message
+
+cfr-protections-panel-header = Přehladujće bjez toho, zo by wam slědowało
+cfr-protections-panel-body = Wobchowajće swoje daty za sebje. { -brand-short-name } was před wjele z najhusćišich přesćěhowakow škita, kotrež slěduja, štož online činiće.
+cfr-protections-panel-link-text = Dalše informacije
