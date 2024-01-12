@@ -113,3 +113,8 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-header = Զննարկել առանց հետեւուելու
+cfr-protections-panel-link-text = Իմանալ աւելին
