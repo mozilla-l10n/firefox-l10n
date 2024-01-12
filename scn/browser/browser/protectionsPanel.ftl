@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Cci fu n'erruri mannannu u rapportu. Pi favuri prova arrè cchiù tardu.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = U situ funziona? Manna un rapportu
 
@@ -12,6 +11,12 @@ protections-panel-sitefixedsendreport-label = U situ funziona? Manna un rapportu
 
 
 ##
+
+
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
 
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
@@ -41,9 +46,14 @@ protections-panel-blocking-label = Bluccatu
 ##
 
 protections-panel-social-media-trackers = I riti suciali mèttinu trazzatura nni autri siti pi sicutari chiḍḍu chi fai 'n linia. Chistu pirmetti ê cumpagnìi di aviri cchiù nfurmazziuna supra di tia sparti di chiḍḍu chi sparti nnê to prufili.
-
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Sfai
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-header = Nàviga senza èssiri sicutatu
+cfr-protections-panel-body = Pruteggi i to dati. { -brand-short-name } ti pruteggi d'assai dî trazzatura cchiù cumuni chi ti sicùtanu quannu nàvighi.
+cfr-protections-panel-link-text = Cchiù nfurmazziuna
