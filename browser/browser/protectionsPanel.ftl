@@ -19,13 +19,16 @@ protections-popup-footer-protection-label-standard = ప్రామాణిక
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = మెరుగైన ట్రాకింగ్ సంరక్షణ గురించి మరింత సమాచారం
-
 protections-panel-etp-on-header = ఈ సైటుకి మెరుగైన ట్రాకింగ్ సంరక్షణ చేతనంగా ఉంది
 protections-panel-etp-off-header = ఈ సైటుకి మెరుగైన ట్రాకింగ్ సంరక్షణ చేతనంగా లేదు
 
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = సైటు పనిచేయట్లేదా?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = సైటు పనిచేయట్లేదా?
@@ -38,9 +41,7 @@ protections-panel-not-blocking-why-label = ఎందుకు?
 ##
 
 protections-panel-no-trackers-found = { -brand-short-name }కి తెలిసిన ట్రాకర్లేమీ ఈ పేజీలో కనబడలేదు.
-
 protections-panel-content-blocking-tracking-protection = ట్రాకింగ్ విషయం
-
 protections-panel-content-blocking-socialblock = సామాజిక మాధ్యమాల ట్రాకర్లు
 protections-panel-content-blocking-cryptominers-label = క్రిప్టోమైనర్లు
 protections-panel-content-blocking-fingerprinters-label = ఫింగర్‌ప్రింటర్లు
@@ -67,17 +68,14 @@ protections-panel-site-not-working-view-issue-list-forms = ఫారాలు
 protections-panel-site-not-working-view-issue-list-payments = చెల్లింపులు
 protections-panel-site-not-working-view-issue-list-comments = వ్యాఖ్యలు
 protections-panel-site-not-working-view-issue-list-videos = వీడియోలు
-
 protections-panel-site-not-working-view-send-report = నివేదికను పంపించు
 
 ##
 
 protections-panel-description-shim-allowed-learn-more = ఇంకా తెలుసుకోండి
-
 protections-panel-content-blocking-manage-settings =
     .label = సంరక్షణ అమరికలను నిర్వహించుకోండి
     .accesskey = M
-
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -91,3 +89,9 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-header = అనుసరింపబడకుండా విహరించండి
+cfr-protections-panel-body = మీ డేటాను మీ వద్దనే ఉంచుకోండి. ఆన్‌లైన్‌లో మీ జాడ తెలుసుకునే చాలా సామాన్య ట్రాకర్ల నుండి { -brand-short-name } మిమ్మల్ని కాపాడుతుంది.
+cfr-protections-panel-link-text = ఇంకా తెలుసుకోండి
