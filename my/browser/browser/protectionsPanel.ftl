@@ -10,6 +10,12 @@
 ##
 
 
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
@@ -43,3 +49,9 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-header = အင်တာနက်သုံးစွဲ ရာ‌‌ နောက်ယောင်ခံ လိုက်ခြင်း မရှိပါ
+cfr-protections-panel-body = သင့် အချက်အလက် များသည် သင်သာ ရယူနိုင်သည်။ { -brand-short-name } မှ သင့်အား ‌ခြေရာခံ လိုက်သူများထံမှ အကာအကွယ်ပေးထားသည်။
+cfr-protections-panel-link-text = ပိုမို လေ့လာရန်
