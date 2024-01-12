@@ -29,14 +29,6 @@ protections-panel-etp-off-header = ᱥᱩᱫᱷᱨᱟᱹᱣ ᱠᱟᱱ ᱯᱟᱧ�
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = ᱵᱟᱲᱦᱟᱣᱟᱠᱟᱱ ᱯᱟᱸᱡᱟ ᱨᱚᱯᱷᱟ
-    .description = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱮᱢᱪᱷᱚ
-    .aria-label = { $host } ᱞᱟᱹᱜᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱸᱫ ᱢᱮ
-protections-panel-etp-off-toggle =
-    .label = ᱵᱟᱲᱦᱟᱣᱟᱠᱟᱱ ᱯᱟᱸᱡᱟ ᱨᱚᱯᱷᱟ
-    .description = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-    .aria-label = { $host } ᱞᱟᱹᱜᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹᱠᱚ ᱮᱢᱪᱷᱚᱭ ᱢᱮ
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ᱥᱟᱭᱤᱴ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ ᱥᱮ ?
 # The heading/title of the sub-panel view
@@ -143,3 +135,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 protections-panel-cookie-banner-view-turn-on-label =
     .label = ᱮᱢ ᱢᱮ
+
+## Protections panel info message
+
+cfr-protections-panel-header = ᱵᱤᱱᱟᱹ ᱯᱟᱧᱡᱟ ᱠᱟᱛᱮ ᱵᱽᱨᱟᱣᱡᱽ ᱢᱮ
+cfr-protections-panel-body = ᱟᱢᱟᱜᱽ ᱰᱟᱴᱟ ᱟᱢ ᱴᱷᱮᱱ ᱜᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾ { -brand-short-name } ᱫᱚ ᱟᱭᱢᱟ ᱥᱚᱢᱟᱱ ᱯᱟᱧᱡᱟ ᱫᱟᱱᱟᱲ ᱠᱚ ᱴᱷᱮᱱ ᱠᱷᱚᱱ ᱚᱱᱞᱟᱭᱤᱱ ᱨᱩᱠᱷᱤᱭᱟᱹᱭ ᱢᱮᱟᱭ ᱾
+cfr-protections-panel-link-text = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
