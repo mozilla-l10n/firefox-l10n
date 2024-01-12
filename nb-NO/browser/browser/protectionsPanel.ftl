@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Utvidet sporingsbeskyttelse er slått AV for 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Utvidet sporingsbeskyttelse
-    .description = På for dette nettstedet
-    .aria-label = Slå av beskyttelse for { $host }
-protections-panel-etp-off-toggle =
-    .label = Utvidet sporingsbeskyttelse
-    .description = Av for dette nettstedet
-    .aria-label = Slå på beskyttelse for { $host }
 protections-panel-etp-toggle-on =
     .label = Utvidet sporingsbeskyttelse
     .description = På for dette nettstedet
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Vil du slå av 
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Vil du slå på blokkering av infokapselbanner for dette nettstedet?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } vill slette infokapsler og oppdatere siden. Sletting av alle infokapsler kan føre til at du blir logget ut eller at handlekurver blir tømt.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } prøver å automatisk avvise alle infokapselforespørsler på støttede nettsteder.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Slå på, og { -brand-short-name } vil prøve å automatisk nekte infokapselbannere på dette nettstedet.
 protections-panel-cookie-banner-view-cancel = Avbryt
 protections-panel-cookie-banner-view-turn-off = Slå av
 protections-panel-cookie-banner-view-turn-on = Slå på
+protections-panel-cookie-banner-blocker-view-turn-on-description = Slå på, og { -brand-short-name } vil prøve å automatisk nekte infokapselbannere på dette nettstedet.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Avbryt
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Rapporter problem med et nettsted
     .title = Rapporter problem med et nettsted
+
+## Protections panel info message
+
+cfr-protections-panel-header = Surf uten å bli fulgt
+cfr-protections-panel-body = Hold dataene for deg selv. { -brand-short-name } beskytter deg mot mange av de vanligste sporere som følger det du gjør på nettet.
+cfr-protections-panel-link-text = Les mer
