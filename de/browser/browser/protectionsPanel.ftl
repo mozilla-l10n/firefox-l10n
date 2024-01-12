@@ -159,3 +159,4 @@ protections-panel-report-broken-site =
 
 cfr-protections-panel-header = Surfen ohne verfolgt zu werden
 cfr-protections-panel-body = Behalten Sie die Kontrolle über Ihre Daten. { -brand-short-name } schützt Sie vor den verbreitetsten Skripten, welche Ihre Online-Aktivitäten verfolgen.
+cfr-protections-panel-link-text = Weitere Informationen
