@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Izboljšana zaščita pred sledenjem je IZKLJ
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Izboljšana zaščita pred sledenjem
-    .description = Vključena na tem spletnem mestu
-    .aria-label = Onemogoči zaščite za { $host }
-protections-panel-etp-off-toggle =
-    .label = Izboljšana zaščita pred sledenjem
-    .description = Izključena na tem spletnem mestu
-    .aria-label = Omogoči zaščite za { $host }
 protections-panel-etp-toggle-on =
     .label = Izboljšana zaščita pred sledenjem
     .description = Vključena na tem spletnem mestu
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Izključim zavr
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Vključim zavračanje pasic s piškotki za to spletno mesto?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } bo počistil piškotke tega spletnega mesta in osvežil stran. Če počistite vse piškotke, boste morda odjavljeni ali se bo izpraznila vaša nakupovalna košarica.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } poskuša samodejno zavrniti vse zahteve za shranjevanje piškotkov na spletnih mestih, ki so podprta.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Vklopite to možnost in { -brand-short-name } bo skušal na tem spletnem mestu samodejno zavrniti pasice s piškotki.
 protections-panel-cookie-banner-view-cancel = Prekliči
 protections-panel-cookie-banner-view-turn-off = Izključi
 protections-panel-cookie-banner-view-turn-on = Vključi
+protections-panel-cookie-banner-blocker-view-turn-on-description = Vklopite to možnost in { -brand-short-name } bo skušal na tem spletnem mestu samodejno zavrniti pasice s piškotki.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Prekliči
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Prijavi nedelujočo stran
     .title = Prijavi nedelujočo stran
+
+## Protections panel info message
+
