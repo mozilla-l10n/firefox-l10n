@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Ñemo’ã jehapykuehoha iporãvéva ndoikov�
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Tapykueho ñemo’ã iporãvéva
-    .description = Hendypyre ko tendápe g̃uarã
-    .aria-label = Eipe’ã ñemo’ã { $host } peg̃uarã
-protections-panel-etp-off-toggle =
-    .label = Tapykueho mo’ãha iporãvéva
-    .description = Okápe ko tendágui
-    .aria-label = Embojuruja nemo’ã { $host } peg̃uarã
 protections-panel-etp-toggle-on =
     .label = Tapykueho mo’ãha iporãvéva
     .description = Ko tendápe g̃uarã
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = ¿Embogue kooki
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = ¿Emyandy kookie banner jokoha ko tendápe g̃uarã?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } omboguéta kookie ko tendagua ha ombohekopyahúta kuatiarogue. Emboguepárõ kookie ombotykuaa ne rembiapo térã omonandi ne mba’ejoguakue.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } omboykese ijehegui opaite kookie mba’ejerure umi tenda ojokupytývape.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Emyandývo { -brand-short-name } oñeha’ãta omboyke ijehegui umi kookie ñe’ẽmondo ko tendápe.
 protections-panel-cookie-banner-view-cancel = Heja
 protections-panel-cookie-banner-view-turn-off = Mbogue
 protections-panel-cookie-banner-view-turn-on = Myandy
+protections-panel-cookie-banner-blocker-view-turn-on-description = Emyandývo { -brand-short-name } oñeha’ãta omboyke ijehegui umi kookie ñe’ẽmondo ko tendápe.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Heja
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Emombe’u tenda vai
     .title = Emombe’u tenda vai
+
+## Protections panel info message
+
