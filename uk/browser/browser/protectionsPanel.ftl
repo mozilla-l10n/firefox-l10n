@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Розширений захист від ст
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Розширений захист від стеження
-    .description = Увімкнено для цього сайту
-    .aria-label = Вимкнути захист для { $host }
-protections-panel-etp-off-toggle =
-    .label = Розширений захист від стеження
-    .description = Вимкнено для цього сайту
-    .aria-label = Увімкнути захист для { $host }
 protections-panel-etp-toggle-on =
     .label = Розширений захист від стеження
     .description = Увімкнено на цьому сайті
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Вимкнут�
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Увімкнути блокувальник банерів кук для цього сайту?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } очистить куки цього сайту та оновить сторінку. Очищення всіх кук може призвести до виходу з облікових записів або спорожнення кошика для покупок.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } намагається автоматично відхиляти всі запити кук на підтримуваних сайтах.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Увімкніть, і { -brand-short-name } намагатиметься автоматично відхиляти банери кук на цьому сайті.
 protections-panel-cookie-banner-view-cancel = Скасувати
 protections-panel-cookie-banner-view-turn-off = Вимкнути
 protections-panel-cookie-banner-view-turn-on = Увімкнути
+protections-panel-cookie-banner-blocker-view-turn-on-description = Увімкніть, і { -brand-short-name } намагатиметься автоматично відхиляти банери кук на цьому сайті.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Скасувати
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Повідомити про пошкоджений сайт
     .title = Повідомити про пошкоджений сайт
+
+## Protections panel info message
+
