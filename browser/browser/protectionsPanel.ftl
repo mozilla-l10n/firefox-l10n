@@ -138,3 +138,4 @@ protections-panel-cookie-banner-view-turn-on-label =
 ## Protections panel info message
 
 cfr-protections-panel-header = Menjelajah tanpa diikuti
+cfr-protections-panel-link-text = Pelajari lebih lanjut
