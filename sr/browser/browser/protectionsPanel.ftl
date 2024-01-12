@@ -144,4 +144,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = Претражујте интернет без праћења
+cfr-protections-panel-body = Очувајте приватност својих података. { -brand-short-name } вас штити од многих уобичајених елемената за праћење, који надгледају вашу активност на интернету.
 cfr-protections-panel-link-text = Сазнајте више
