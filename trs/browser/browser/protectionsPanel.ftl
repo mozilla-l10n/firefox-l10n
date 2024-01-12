@@ -99,3 +99,9 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-header = Gache nun ni a'ngo sa si ganikò' sò'.
+cfr-protections-panel-body = Na'nïnj sà' si nuguàn't guendâ man'ânt. { -brand-short-name } Naran rayi'ît riña nej sa naga'naj sa 'iát nga aché nunt.
+cfr-protections-panel-link-text = Gahuin chrūn doj
