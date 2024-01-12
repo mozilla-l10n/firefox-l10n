@@ -114,3 +114,9 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+
+## Protections panel info message
+
+cfr-protections-panel-header = Navegueu sense sentir-vos observat
+cfr-protections-panel-body = Protegiu les vostres dades. El { -brand-short-name } vos protegeix de molts dels elements de seguiment més habituals que recopilen dades sobre allò que feu a Internet.
+cfr-protections-panel-link-text = Més informació
