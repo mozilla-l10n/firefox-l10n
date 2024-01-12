@@ -149,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Midar a quest tab
 firefoxview-show-more = Mussar dapli
 firefoxview-show-less = Mussar damain
+firefoxview-show-all = Mussar tut
 firefoxview-search-text-box-clear-button =
     .title = Stizzar
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Tschertgar
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Tschertgar en la cronologia
