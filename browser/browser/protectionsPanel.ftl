@@ -149,3 +149,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = Surf utan å bli følgd
+cfr-protections-panel-body = Behald dine data for deg sjølv. { -brand-short-name } beskyttar deg mot mange av dei vanlegaste sporarane som følgjer det du gjer på nettet.
+cfr-protections-panel-link-text = Les meir
