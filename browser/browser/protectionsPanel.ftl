@@ -141,3 +141,7 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Искључи
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Укључи
+
+## Protections panel info message
+
+cfr-protections-panel-link-text = Сазнајте више
