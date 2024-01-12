@@ -126,3 +126,8 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Diweredekaat
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Gweredekaat
+
+## Protections panel info message
+
+cfr-protections-panel-header = Merdeit hep bezañ heuliet
+cfr-protections-panel-body = Mirit ho roadennoù ganeoc'h. { -brand-short-name } a warez ac'hanoc'h eus lodenn vrasañ an heulierien a sell ouzh ar pezh a rit enlinenn.
