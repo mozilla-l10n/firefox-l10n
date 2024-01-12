@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = Il cuntegn vegn analisà
 contentanalysis-slow-agent-dialog-body = L'analisa dal cuntegn examinescha la resursa «{ $content }»
 contentanalysis-operationtype-clipboard = archiv provisoric
 contentanalysis-operationtype-dropped-text = text deponì
+contentanalysis-warndialogtitle = Quest cuntegn n’è eventualmain betg segir
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Tia organisaziun utilisescha ina software per prevegnir a la sperdita da datas che ha marcà quest cuntegn sco malsegir: { $content }. Tuttina l’utilisar?
+contentanalysis-warndialog-response-allow = Utilisar il cuntegn
+contentanalysis-warndialog-response-deny = Interrumper
 contentanalysis-notification-title = Analisa dal cuntegn
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"

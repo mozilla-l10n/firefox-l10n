@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (na trametter nagin ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Fa la segira ch'il champ precedent cuntegnia in tag da debugadi facil da tegnair endament per che ti reconuschias pli tard tes pings.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Definir in tag da debugadi facil da tegnair endament <span>(20 caracters u main, mo numers, letras e «-»)</span> per che ti possias reconuscher pli tard tes pings.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
