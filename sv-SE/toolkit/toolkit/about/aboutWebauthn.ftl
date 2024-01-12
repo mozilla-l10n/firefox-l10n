@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN-hantering
 about-webauthn-credential-management-section-title = Hantera autentiseringsuppgifter
 about-webauthn-pin-required-section-title = PIN krävs
 about-webauthn-confirm-deletion-section-title = Bekräfta radering
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biometriska registreringar
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Välj önskad säkerhetstoken genom att peka
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Det går inte att hantera alternativ eftersom din säkerhetstoken inte stöder CTAP2.
 about-webauthn-text-not-available = Ej tillgängligt på denna plattform.
+about-webauthn-bio-enrollment-list-subsection-title = Registreringar:
+about-webauthn-add-bio-enrollment-section-title = Lägg till ny registrering
 
 ## Results label
 
@@ -41,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Fel: Felaktig PIN-kod. Försök igen. Du har { $retriesLeft } försök kvar.
     }
 about-webauthn-results-pin-blocked-error = Fel: Det finns inga försök kvar och din enhet har låsts eftersom fel PIN-kod angavs för många gånger. Enheten behöver en återställning.
+about-webauthn-results-pin-not-set-error = Fel: PIN-kod ej angiven. Denna åtgärd kräver PIN-skydd.
 about-webauthn-results-pin-too-short-error = Fel: Den angivna PIN-koden är för kort.
 about-webauthn-results-pin-too-long-error = Fel: Den angivna PIN-koden är för lång.
 about-webauthn-results-pin-auth-blocked-error = Fel: Det fanns för många misslyckade försök i rad och PIN-autentisering har tillfälligt blockerats. Du måste stänga av enheten och slå på den igen (koppla ur och återanslut).
@@ -53,6 +58,8 @@ about-webauthn-repeat-pin-label = Upprepa ny PIN-kod:
 about-webauthn-current-pin-label = Aktuell PIN-kod:
 about-webauthn-pin-required-label = Ange din PIN-kod:
 about-webauthn-credential-list-subsection-title = Inloggningsuppgifter:
+about-webauthn-enrollment-name-label = Registreringsnamn (valfritt):
+about-webauthn-enrollment-list-empty = Inga registreringar hittades på enheten.
 about-webauthn-credential-list-empty = Inga inloggningsuppgifter hittades på enheten.
 about-webauthn-confirm-deletion-label = Du är på väg att radera:
 
@@ -62,9 +69,14 @@ about-webauthn-current-set-pin-button = Ställ in PIN-kod
 about-webauthn-current-change-pin-button = Ändra PIN-kod
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Lista inloggningsuppgifter
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Lista registreringar
+about-webauthn-add-bio-enrollment-button = Lägg till registrering
 about-webauthn-cancel-button = Avbryt
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Ta bort
+about-webauthn-start-enrollment-button = Starta registrering
+about-webauthn-update-button = Uppdatera
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -128,3 +140,27 @@ about-webauthn-auth-info-true = Sant
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Falskt
 about-webauthn-auth-info-null = Stöds inte
+
+## Bio enrollment sample feedbacks
+
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Provet var bra.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = Provet var för högt.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-slow = Provet var för långsamt.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Provet hade dålig kvalitet.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Provet var för snevt.
+about-webauthn-ctap2-enroll-feedback-too-short = Provet var för kort.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Provsammanslagningsfel.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Provet finns redan.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Ingen aktivitet från användaren.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Användaren slutförde inte provtagningen som förväntat.
+about-webauthn-ctap2-enroll-feedback-other = Provfel.
