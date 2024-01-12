@@ -138,3 +138,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = بند کرو
 protections-panel-cookie-banner-view-turn-on-label =
     .label = چالو کرو
+
+## Protections panel info message
+
+cfr-protections-panel-header = بغیر فالو تھئے براؤز کرو
+cfr-protections-panel-body = اپݨا ڈیٹا اپݨے کول رکھو۔ { -brand-short-name } تہاکوں ٻہوں سارے عام ٹریکرز کنوں بچیندا ہے جیڑھا تساں آن لائن کریندے رہندو۔
+cfr-protections-panel-link-text = ٻیا سِکھو
