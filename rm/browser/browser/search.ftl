@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Errur d'installaziun
 opensearch-error-duplicate-desc = { -brand-short-name } n'ha betg pudì telechargiar la maschina da tschertgar da "{ $location-url }", perquai ch'igl exista gia ina tala cun il medem num.
-
 opensearch-error-format-title = Format nunvalid
 opensearch-error-format-desc = { -brand-short-name } na po betg installar la maschina da tschertgar da: { $location-url }
-
 opensearch-error-download-title = Errur da telechargiar
 opensearch-error-download-desc = Impussibel per { -brand-short-name } da telechargiar la maschina da tschertgar da: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = Impussibel per { -brand-short-name } da telecha
 
 searchbar-submit =
     .tooltiptext = Trametter la tschertga
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Tschertgar
-
 searchbar-icon =
     .tooltiptext = Tschertgar
 
@@ -35,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 removed-search-engine-message = <strong>Tia maschina da tschertgar predefinida è vegnida midada.</strong> { $oldEngine } na stat betg pli a disposiziun sco maschina da tschertgar da standard en { -brand-short-name }. { $newEngine } è ussa tia maschina da tschertgar predefinida. Acceda als parameters per definir in'autra maschina da tschertgar da standard. <label data-l10n-name="remove-search-engine-article">Ulteriuras infurmaziuns</label>
+removed-search-engine-message2 = <strong>Tia maschina da tschertgar predefinida è vegnida midada.</strong> { $oldEngine } na stat betg pli a disposiziun sco maschina da tschertgar da standard en { -brand-short-name }. { $newEngine } è ussa tia maschina da tschertgar predefinida. Acceda als parameters per definir in'autra maschina da tschertgar da standard.
 remove-search-engine-button = OK
