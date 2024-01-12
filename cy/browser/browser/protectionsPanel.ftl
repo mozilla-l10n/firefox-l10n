@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Mae Diogelwch Uwch Rhag Tracio I FFWRDD ar y 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Diogelwch Uwch Rhag Tracio
-    .description = Ar y wefan hon
-    .aria-label = Analluogi diogeledd { $host }
-protections-panel-etp-off-toggle =
-    .label = Diogelwch Uwch Rhag Tracio
-    .description = Oddi ar y wefan hon
-    .aria-label = Diogelu diogeledd { $host }
 protections-panel-etp-toggle-on =
     .label = Diogelwch Uwch Rhag Tracio
     .description = Ar y wefan hon
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Diffodd y Rhwys
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Troi'r Atalydd Baneri Cwcis ymlaen ar y wefan hon?
 protections-panel-cookie-banner-view-cookie-clear-warning = Bydd { -brand-short-name } yn clirio cwcis y wefan hon ac yn adnewyddu’r dudalen. Gall clirio pob cwci eich allgofnodi neu wagio eich certiau siopa.
 protections-panel-cookie-banner-view-turn-on-description = Mae { -brand-short-name } yn ceisio gwrthod yn awtomatig pob cais cwci ar wefannau sy’n cael eu cefnogi.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Ei droi ymlaen a bydd { -brand-short-name } yn ceisio gwrthod baneri cwcis yn awtomatig ar y wefan hon.
 protections-panel-cookie-banner-view-cancel = Diddymu
 protections-panel-cookie-banner-view-turn-off = Diffodd
 protections-panel-cookie-banner-view-turn-on = Troi Ymlaen
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ei droi ymlaen a bydd { -brand-short-name } yn ceisio gwrthod baneri cwcis yn awtomatig ar y wefan hon.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Diddymu
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Adrodd ar wefan wedi torri
     .title = Adrodd ar wefan wedi torri
+
+## Protections panel info message
+
+cfr-protections-panel-header = Pori heb gael eich dilyn
+cfr-protections-panel-body = Cadwch eich data i chi'ch hun. Mae { -brand-short-name } yn eich diogelu rhag llawer o'r tracwyr mwyaf cyffredin sy'n eich dilyn ar-lein.
+cfr-protections-panel-link-text = Darllen rhagor
