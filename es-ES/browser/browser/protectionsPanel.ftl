@@ -29,14 +29,6 @@ protections-panel-etp-off-header = La protección contra rastreo mejorada está 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Protección mejorada contra el rastreo
-    .description = Activada para este sitio
-    .aria-label = Desactivar la protección para { $host }
-protections-panel-etp-off-toggle =
-    .label = Protección mejorada contra el rastreo
-    .description = Desactivada para este sitio
-    .aria-label = Activar protección para { $host }
 protections-panel-etp-toggle-on =
     .label = Protección mejorada contra el rastreo
     .description = Activada para este sitio
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = ¿Desactivar el
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = ¿Activar el bloqueo de aviso de cookies para este sitio?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } borrará las cookies de este sitio y recargará la página. Borrar todas las cookies puede cerrar su sesión o vaciar los carritos de compras.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } intenta rechazar automáticamente las solicitudes de cookies en sitios compatibles.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Al activarlo { -brand-short-name } intentará rechazar automáticamente los avisos de cookies en este sitio.
 protections-panel-cookie-banner-view-cancel = Cancelar
 protections-panel-cookie-banner-view-turn-off = Desactivar
 protections-panel-cookie-banner-view-turn-on = Activar
+protections-panel-cookie-banner-blocker-view-turn-on-description = Al activarlo { -brand-short-name } intentará rechazar automáticamente los avisos de cookies en este sitio.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Cancelar
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,8 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Informar de problemas con un sitio
     .title = Informar de problemas con un sitio
+
+## Protections panel info message
+
+cfr-protections-panel-header = Navegue sin que le sigan
+cfr-protections-panel-link-text = Saber más
