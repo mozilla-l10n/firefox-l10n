@@ -154,3 +154,7 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = 反馈网站问题
     .title = 反馈网站问题
+
+## Protections panel info message
+
+cfr-protections-panel-header = 自由上网，拒绝跟踪
