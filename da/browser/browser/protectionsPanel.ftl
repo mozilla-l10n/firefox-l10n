@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Udvidet beskyttelse mod sporing er SLÅET FRA
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Udvidet beskyttelse mod sporing
-    .description = Til for dette websted
-    .aria-label = Deaktiver beskyttelse for { $host }
-protections-panel-etp-off-toggle =
-    .label = Udvidet beskyttelse mod sporing
-    .description = Fra for dette websted
-    .aria-label = Aktiver beskyttelse for { $host }
 protections-panel-etp-toggle-on =
     .label = Udvidet beskyttelse mod sporing
     .description = Slået til for dette websted
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Slå blokering 
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Slå blokering af cookie-bannere til for dette websted?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } vil rydde dette websteds cookies og indlæse siden igen. Rydning af alle cookies kan logge dig ud eller tømme indkøbskurve.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } forsøger automatisk at afvise alle cookie-anmodninger på understøttede websteder.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Slå funktionen til - og { -brand-short-name } vil forsøge at afvise cookie-bannere automatisk på dette websted.
 protections-panel-cookie-banner-view-cancel = Annuller
 protections-panel-cookie-banner-view-turn-off = Slå fra
 protections-panel-cookie-banner-view-turn-on = Slå til
+protections-panel-cookie-banner-blocker-view-turn-on-description = Slå funktionen til - og { -brand-short-name } vil forsøge at afvise cookie-bannere automatisk på dette websted.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Annuller
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Rapporter problem med websted
     .title = Rapporter problem med websted
+
+## Protections panel info message
+
+cfr-protections-panel-header = Brug nettet uden at blive overvåget
+cfr-protections-panel-body = Dine data tilhører dig. { -brand-short-name } beskytter dig mod mange af de mest almindelige sporings-teknologier, der følger med i, hvad du laver på nettet.
+cfr-protections-panel-link-text = Læs mere
