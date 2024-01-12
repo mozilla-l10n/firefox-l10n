@@ -158,3 +158,4 @@ protections-panel-report-broken-site =
 ## Protections panel info message
 
 cfr-protections-panel-header = Περιήγηση χωρίς παρακολούθηση
+cfr-protections-panel-link-text = Μάθετε περισσότερα
