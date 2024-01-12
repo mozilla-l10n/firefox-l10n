@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Управление PIN-кодами
 about-webauthn-credential-management-section-title = Управление учётными данными
 about-webauthn-pin-required-section-title = Требуется PIN-код
 about-webauthn-confirm-deletion-section-title = Подтвердить удаление
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Биометрические регистрации
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Пожалуйста, выберите же�
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Невозможно управлять параметрами, поскольку ваш токен безопасности не поддерживает CTAP2.
 about-webauthn-text-not-available = Недоступно на этой платформе.
+about-webauthn-bio-enrollment-list-subsection-title = Регистрации:
+about-webauthn-add-bio-enrollment-section-title = Добавить новую регистрацию
 
 ## Results label
 
@@ -42,6 +46,7 @@ about-webauthn-results-pin-invalid-error =
        *[many] Ошибка: неправильный PIN-код. Попробуйте ещё раз. У вас осталось { $retriesLeft } попыток.
     }
 about-webauthn-results-pin-blocked-error = Ошибка: попыток не осталось, и ваше устройство заблокировано, поскольку слишком много раз был указан неправильный PIN-код. Необходимо сбросить устройство.
+about-webauthn-results-pin-not-set-error = Ошибка: PIN-код не установлен. Этой операции необходима защита PIN-кодом.
 about-webauthn-results-pin-too-short-error = Ошибка: указанный PIN-код слишком короткий.
 about-webauthn-results-pin-too-long-error = Ошибка: указанный PIN-код слишком длинный.
 about-webauthn-results-pin-auth-blocked-error = Ошибка: было слишком много неудачных попыток подряд, и аутентификация по PIN-коду временно заблокирована. Ваше устройство необходимо отключить и снова включить (вынуть и снова вставить).
@@ -54,6 +59,8 @@ about-webauthn-repeat-pin-label = Повторите новый PIN-код:
 about-webauthn-current-pin-label = Текущий PIN-код:
 about-webauthn-pin-required-label = Пожалуйста, введите свой PIN-код:
 about-webauthn-credential-list-subsection-title = Параметры входа:
+about-webauthn-enrollment-name-label = Имя регистрации (необязательно):
+about-webauthn-enrollment-list-empty = На устройстве не найдено ни одной регистрации.
 about-webauthn-credential-list-empty = На устройстве не найдены учётные данные.
 about-webauthn-confirm-deletion-label = Вы собираетесь удалить:
 
@@ -63,9 +70,14 @@ about-webauthn-current-set-pin-button = Установить PIN-код
 about-webauthn-current-change-pin-button = Изменить PIN-код
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Показать список учётных данных
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Показать список регистраций
+about-webauthn-add-bio-enrollment-button = Добавить регистрацию
 about-webauthn-cancel-button = Отмена
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Удалить
+about-webauthn-start-enrollment-button = Начать регистрацию
+about-webauthn-update-button = Обновить
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -129,3 +141,42 @@ about-webauthn-auth-info-true = Истина
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Ложь
 about-webauthn-auth-info-null = Не поддерживается
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Необходимо ещё { $repeatCount } сканирование
+        [few] Необходимо ещё { $repeatCount } сканирования
+       *[many] Необходимо ещё { $repeatCount } сканирований
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Сканирование прошло хорошо.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = Отпечаток был слишком высоко.
+about-webauthn-ctap2-enroll-feedback-too-low = Отпечаток был слишком низко.
+about-webauthn-ctap2-enroll-feedback-too-left = Отпечаток ушёл слишком влево.
+about-webauthn-ctap2-enroll-feedback-too-right = Отпечаток ушёл слишком вправо.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = Отпечаток сделан слишком быстро.
+about-webauthn-ctap2-enroll-feedback-too-slow = Отпечаток сделан слишком медленно.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Отпечаток слишком плохого качества.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Отпечаток сильно искажён.
+about-webauthn-ctap2-enroll-feedback-too-short = Отпечаток был слишком коротким.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Ошибка слияния отпечатков.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Отпечаток уже существует.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Нет активности от пользователя.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Пользователь не завершил сканирование, как ожидалось.
+about-webauthn-ctap2-enroll-feedback-other = Ошибка отпечатка.
