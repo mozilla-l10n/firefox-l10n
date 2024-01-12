@@ -29,14 +29,6 @@ protections-panel-etp-off-header = A fokozott követés elleni védelem KI van k
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Fokozott követés elleni védelem
-    .description = Bekapcsolva ezen az oldalon
-    .aria-label = A védelmek kikapcsolása ennél: { $host }
-protections-panel-etp-off-toggle =
-    .label = Fokozott követés elleni védelem
-    .description = Kikapcsolva ezen az oldalon
-    .aria-label = A védelmek bekapcsolása ennél: { $host }
 protections-panel-etp-toggle-on =
     .label = Fokozott követés elleni védelem
     .description = Bekapcsolva ezen az oldalon
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Kikapcsolja a s
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Bekapcsolja a sütibanner-blokkolót ennél a webhelynél?
 protections-panel-cookie-banner-view-cookie-clear-warning = A { -brand-short-name } törli a webhely sütijeit, és frissíti az oldalt. Az összes süti törlésével kijelentkezhet, vagy kiürítheti a kosarait.
 protections-panel-cookie-banner-view-turn-on-description = A { -brand-short-name } automatikusan megpróbálja elutasítani az összes sütikérést a támogatott oldalakon.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Kapcsolja be, és a { -brand-short-name } automatikusan megpróbálja elutasítani a sütibannereket ezen az oldalon.
 protections-panel-cookie-banner-view-cancel = Mégse
 protections-panel-cookie-banner-view-turn-off = Kikapcsolás
 protections-panel-cookie-banner-view-turn-on = Bekapcsolás
+protections-panel-cookie-banner-blocker-view-turn-on-description = Kapcsolja be, és a { -brand-short-name } automatikusan megpróbálja elutasítani a sütibannereket ezen az oldalon.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Mégse
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Hibás webhely bejelentése
     .title = Hibás webhely bejelentése
+
+## Protections panel info message
+
+cfr-protections-panel-header = Böngésszen anélkül, hogy követnék
+cfr-protections-panel-body = Tartsa meg az adatait. A { -brand-short-name } megvédi a leggyakoribb nyomkövetőktől, amelyek követik az online tevékenységét.
+cfr-protections-panel-link-text = További tudnivalók
