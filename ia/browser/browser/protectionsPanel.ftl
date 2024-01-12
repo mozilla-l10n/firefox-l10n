@@ -158,4 +158,5 @@ protections-panel-report-broken-site =
 ## Protections panel info message
 
 cfr-protections-panel-header = Naviga sin lassar te sequer
+cfr-protections-panel-body = Mantene tu datos pro te mesme. { -brand-short-name } te protege ab multes del plus commun traciatores que seque lo que tu face in linea.
 cfr-protections-panel-link-text = Saper plus
