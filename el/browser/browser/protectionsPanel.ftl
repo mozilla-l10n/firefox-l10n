@@ -158,4 +158,5 @@ protections-panel-report-broken-site =
 ## Protections panel info message
 
 cfr-protections-panel-header = Περιήγηση χωρίς παρακολούθηση
+cfr-protections-panel-body = Κρατήστε τα δεδομένα σας για τον εαυτό σας. Το { -brand-short-name } σας προστατεύει από πολλούς από τους πιο συνηθισμένους ιχνηλάτες που ακολουθούν ό,τι κάνετε στο διαδίκτυο.
 cfr-protections-panel-link-text = Μάθετε περισσότερα
