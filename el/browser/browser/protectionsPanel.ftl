@@ -154,3 +154,7 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Αναφορά προβληματικού ιστοτόπου
     .title = Αναφορά προβληματικού ιστοτόπου
+
+## Protections panel info message
+
+cfr-protections-panel-header = Περιήγηση χωρίς παρακολούθηση
