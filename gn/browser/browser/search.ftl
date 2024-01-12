@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Jejavy ñemohendakuévo
 opensearch-error-duplicate-desc = { -brand-short-name } ndaikatúi omohenda jehekaha mboguejyrã’i “{ $location-url }” guive oĩ haguére hekaha pe teraitépe.
-
 opensearch-error-format-title = Ysaja oiko’ỹva
 opensearch-error-format-desc = { -brand-short-name } ndaikatúi omohenda jehekaha mongu’eha guive: { $location-url }
-
 opensearch-error-download-title = Jejavy ñemboguejykuévo
 opensearch-error-download-desc = { -brand-short-name } ndaikatúi omboguejy jehekaha mboguejyrã’i guive: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } ndaikatúi omboguejy jehe
 
 searchbar-submit =
     .tooltiptext = Jeheka mondo
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Heka
-
 searchbar-icon =
     .tooltiptext = Heka
 
@@ -35,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 removed-search-engine-message = <strong>Nde jehekaha mongu’eha ijypykuéva iñambuéma.</strong> { $oldEngine } ndaiporivéima jehekaha ijypykuévaramo { -brand-short-name } ndive. { $newEngine } ha’e ko’ág̃aite nde jehekaha ijypykuéva. Emoambueséramo nde jehekaha ijypykuéva, eho moĩporãhápe. <label data-l10n-name="remove-search-engine-article">Eikuaave</label>
+removed-search-engine-message2 = <strong>Nde jehekaha mongu’eha ijypykuéva iñambuéma.</strong> { $oldEngine } ndaiporivéima jehekaha ijypykuévaramo { -brand-short-name } ndive. { $newEngine } ha’e ko’ág̃aite nde jehekaha ijypykuéva. Emoambueséramo nde jehekaha ijypykuéva, eho moĩporãhápe.
 remove-search-engine-button = MONEĨ
