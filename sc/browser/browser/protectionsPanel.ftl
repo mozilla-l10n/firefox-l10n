@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Sa protetzione megiorada contra sa sighidura 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Amparu megioradu contra sa sighidura
-    .description = Ativu pro custu situ
-    .aria-label = Disativa s’amparu pro { $host }
-protections-panel-etp-off-toggle =
-    .label = Amparu megioradu contra sa sighidura
-    .description = Disativadu pro custu situ
-    .aria-label = Ativa s’amparu pro { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Su situ non funtzionat?
 # The heading/title of the sub-panel view
@@ -143,3 +135,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Disativa
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Ativa
+
+## Protections panel info message
+
+cfr-protections-panel-header = Nàviga chene sighiduras
+cfr-protections-panel-body = Ampara is datos tuos. { -brand-short-name } amparat dae is sighidores prus currentes chi sighint su chi ses faghende in lìnia.
+cfr-protections-panel-link-text = Àteras informatziones
