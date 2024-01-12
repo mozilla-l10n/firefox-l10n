@@ -157,4 +157,6 @@ protections-panel-report-broken-site =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = Surfa utan att bli följd
 cfr-protections-panel-body = Behåll dina data för dig själv. { -brand-short-name } skyddar dig från många av de vanligaste spårarna som följer vad du gör online.
+cfr-protections-panel-link-text = Läs mer
