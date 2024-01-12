@@ -157,3 +157,6 @@ protections-panel-report-broken-site =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = მოინახულეთ გვერდები მეთვალყურეების გარეშე
+cfr-protections-panel-body = დატოვეთ თქვენი მონაცემები პირადი. { -brand-short-name } აგარიდებთ ცნობილი მეთვალყურეების უმეტესობას, რომლებიც თან დაგყვებათ ინტერნეტში.
+cfr-protections-panel-link-text = ვრცლად
