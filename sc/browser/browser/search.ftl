@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Faddina de installatzione
 opensearch-error-duplicate-desc = { -brand-short-name } no at pòdidu installare su plugin de chirca dae { $location-url } ca esistit giai unu motore cun su pròpiu nòmine.
-
 opensearch-error-format-title = Formadu non vàlidu
 opensearch-error-format-desc = { -brand-short-name } no at pòdidu installare su motore de chirca dae: { $location-url }
-
 opensearch-error-download-title = Faddina de iscarrigamentu
 opensearch-error-download-desc = { -brand-short-name } no at pòdidu iscarrigare su cumplementu de chirca dae: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } no at pòdidu iscarrigare
 
 searchbar-submit =
     .tooltiptext = Imbia sa chirca
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Chirca
-
 searchbar-icon =
     .tooltiptext = Chirca
 
@@ -35,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 removed-search-engine-message = <strong>Su motore de chirca predefinidu tuo est cambiadu.</strong> { $oldEngine } no est prus a disponimentu comente motore de chirca predefinidu in { -brand-short-name }. { $newEngine } est immoe su motore de chirca predefinidu tuo. Pro torrare a cambiare su motore de chirca predefinidu tuo, bae a is cunfiguratziones. <label data-l10n-name="remove-search-engine-article">Àteras informatziones</label>
+removed-search-engine-message2 = <strong>Su motore de chirca predefinidu tuo est cambiadu.</strong> { $oldEngine } no est prus a disponimentu comente motore de chirca predefinidu in { -brand-short-name }. { $newEngine } est immoe su motore de chirca predefinidu tuo. Pro torrare a cambiare su motore de chirca predefinidu tuo, bae a is cunfiguratziones.
 remove-search-engine-button = Andat bene
