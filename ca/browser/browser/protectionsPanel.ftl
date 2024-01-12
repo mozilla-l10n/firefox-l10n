@@ -29,14 +29,6 @@ protections-panel-etp-off-header = S'ha DESACTIVAT la protecció contra el segui
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Protecció contra el seguiment millorada
-    .description = Activada en aquest lloc
-    .aria-label = Desactiva les proteccions per a { $host }
-protections-panel-etp-off-toggle =
-    .label = Protecció contra el seguiment millorada
-    .description = Desactivada en aquest lloc
-    .aria-label = Activa les proteccions per a { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = El lloc no funciona?
 # The heading/title of the sub-panel view
@@ -143,3 +135,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Desactiva
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Activa
+
+## Protections panel info message
+
+cfr-protections-panel-header = Navegueu sense sentir-vos observat
+cfr-protections-panel-body = Protegiu les vostres dades. El { -brand-short-name } us protegeix de molts dels elements de seguiment més habituals que recopilen dades sobre allò que feu a Internet.
+cfr-protections-panel-link-text = Més informació
