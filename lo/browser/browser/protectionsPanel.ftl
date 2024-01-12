@@ -135,3 +135,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = ປິດ
 protections-panel-cookie-banner-view-turn-on-label =
     .label = ເປີດ
+
+## Protections panel info message
+
+cfr-protections-panel-header = ທ່ອງເວັບໂດຍບໍ່ມີການຕິດຕາມ
+cfr-protections-panel-body = ຮັກສາຂໍ້ມູນຂອງທ່ານໃຫ້ກັບຕົວທ່ານເອງ. { -brand-short-name } ປົກປ້ອງທ່ານຈາກຫຼາຍຕົວຕິດຕາມທົ່ວໄປທີ່ສຸດທີ່ປະຕິບັດຕາມສິ່ງທີ່ທ່ານເຮັດອອນໄລນ໌.
+cfr-protections-panel-link-text = ຮຽນຮູ້ເພີ່ມເຕີມ
