@@ -145,3 +145,7 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Informar dun sitio roto
     .title = Informar dun sitio roto
+
+## Protections panel info message
+
+cfr-protections-panel-link-text = Máis información
