@@ -137,3 +137,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Desactivar
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Activar
+
+## Protections panel info message
+
+cfr-protections-panel-header = Navega sin que te sigan
+cfr-protections-panel-body = Que tu información se quede en tus manos. { -brand-short-name } te protege de muchos de los rastreadores comunes que te espían al explorar la web.
+cfr-protections-panel-link-text = Más información
