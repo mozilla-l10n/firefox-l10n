@@ -29,14 +29,6 @@ protections-panel-etp-off-header = මෙම අඩවියට දියුණ�
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = දියුණු කළ ලුහුබැඳීමේ රැකවරණය
-    .description = මෙම අඩවියට සක්‍රියයි
-    .aria-label = { $host } සඳහා රැකවරණ අබල කරන්න
-protections-panel-etp-off-toggle =
-    .label = දියුණු කළ ලුහුබැඳීමේ රැකවරණය
-    .description = මෙම අඩවියට අක්‍රියයි
-    .aria-label = { $host } සඳහා රැකවරණ සබල කරන්න
 protections-panel-etp-toggle-on =
     .label = දියුණු කළ ලුහුබැඳීමේ රැකවරණය
     .description = මෙම අඩවියට සක්‍රියයි
@@ -147,13 +139,16 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = { $host } ස�
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = { $host } සඳහා දත්තකඩ පතාක අවහිරය සක්‍රිය කරන්නද?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } මෙම අඩවියේ දත්තකඩ ඉවත් කර පිටුව නැවුම් කරයි. සියළුම දත්තකඩ මැකීමෙන් බඩු කරත්ත හිස් වීමට හෝ ඔබව නික්මවීමට ඉඩ ඇත.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } සහාය දක්වන අඩවිවල තිබෙන සියළුම දත්තකඩ ඉල්ලීම් ස්වයංක්‍රීයව ප්‍රතික්‍ෂේප කිරීමට උත්සාහ කරයි.
-protections-panel-cookie-banner-blocker-view-turn-on-description = සක්‍රිය කළහොත් { -brand-short-name } මෙම අඩවියේ දත්තකඩ පතාක ස්වයංක්‍රීයව ඉවතලීමට උත්සාහ කරයි.
 protections-panel-cookie-banner-view-cancel = අවලංගු
 protections-panel-cookie-banner-view-turn-off = අක්‍රිය කරන්න
 protections-panel-cookie-banner-view-turn-on = සක්‍රිය කරන්න
+protections-panel-cookie-banner-blocker-view-turn-on-description = සක්‍රිය කළහොත් { -brand-short-name } මෙම අඩවියේ දත්තකඩ පතාක ස්වයංක්‍රීයව ඉවතලීමට උත්සාහ කරයි.
 protections-panel-cookie-banner-view-cancel-label =
     .label = අවලංගු
 protections-panel-cookie-banner-view-turn-off-label =
     .label = අක්‍රිය කරන්න
 protections-panel-cookie-banner-view-turn-on-label =
     .label = සක්‍රිය කරන්න
+
+## Protections panel info message
+
