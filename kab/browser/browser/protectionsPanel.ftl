@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Ammesten yettwaseǧehden mgal aḍfaṛ yensa
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Ammesten mgal aḍfaṛ yettwaseǧhed
-    .description = Rmed i usmel-a
-    .aria-label = Sens ammesten i { $host }
-protections-panel-etp-off-toggle =
-    .label = Ammesten mgal aḍfaṛ yettwaseǧhed
-    .description = Sens i usmel-a
-    .aria-label = Rmed ammesten i { $host }
 protections-panel-etp-toggle-on =
     .label = Ammesten mgal aḍfaṛ yettwaseǧhed
     .description = Rmed i usmel-a
@@ -157,3 +149,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Cegger asmel yerẓen
     .title = Cegger asmel yerẓen
+
+## Protections panel info message
+
