@@ -29,14 +29,6 @@ protections-panel-etp-off-header = La protection renforcée contre le pistage es
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Protection renforcée contre le pistage
-    .description = Activée pour ce site
-    .aria-label = Désactiver les protections pour { $host }
-protections-panel-etp-off-toggle =
-    .label = Protection renforcée contre le pistage
-    .description = Désactivée pour ce site
-    .aria-label = Activer les protections pour { $host }
 protections-panel-etp-toggle-on =
     .label = Protection renforcée contre le pistage
     .description = Activée pour ce site
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Désactiver le 
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Activer le bloqueur de bannières de cookies pour ce site ?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } effacera les cookies de ce site et actualisera la page. La suppression de tous les cookies peut vous déconnecter ou vider les paniers d’achats.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } peut essayer de refuser automatiquement les demandes de dépôt de cookies sur les sites compatibles.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Activez-le, et { -brand-short-name } tentera de refuser automatiquement les bannières de cookies sur ce site.
 protections-panel-cookie-banner-view-cancel = Annuler
 protections-panel-cookie-banner-view-turn-off = Désactiver
 protections-panel-cookie-banner-view-turn-on = Activer
+protections-panel-cookie-banner-blocker-view-turn-on-description = Activez-le, et { -brand-short-name } tentera de refuser automatiquement les bannières de cookies sur ce site.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Annuler
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Signaler des problèmes avec ce site
     .title = Signaler des problèmes avec ce site
+
+## Protections panel info message
+
