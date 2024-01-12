@@ -149,3 +149,8 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = דיווח על אתר שבור
     .title = דיווח על אתר שבור
+
+## Protections panel info message
+
+cfr-protections-panel-header = לגלוש מבלי שעוקבים אחריך
+cfr-protections-panel-body = הנתונים שלך נשארים אצלך. { -brand-short-name } מגן עליך מפני רוב רכיבי הריגול שעוקבים אחר הפעילות המקוונת שלך.
