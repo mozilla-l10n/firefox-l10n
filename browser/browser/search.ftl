@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Installation mislykkedes
 opensearch-error-duplicate-desc = { -brand-short-name } kunne ikke installere søgetjenesten fra "{ $location-url }" da en søgetjeneste med samme navn allerede er installeret.
-
 opensearch-error-format-title = Ugyldigt format
 opensearch-error-format-desc = { -brand-short-name } kunne ikke installere søgetjenesten fra: { $location-url }
-
 opensearch-error-download-title = Hentningsfejl
 opensearch-error-download-desc = { -brand-short-name } kunne ikke hente søgetjenesten fra: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } kunne ikke hente søgetje
 
 searchbar-submit =
     .tooltiptext = Søg
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Søg
-
 searchbar-icon =
     .tooltiptext = Søg
 
@@ -35,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 removed-search-engine-message = <strong>Din standard-søgetjeneste er blevet ændret.</strong> { -brand-short-name } understøtter ikke længere { $oldEngine }. { $newEngine } er nu din standard-søgetjeneste. Gå til Indstillinger for at skifte til en anden standard-søgetjeneste. <label data-l10n-name="remove-search-engine-article">Læs mere</label>
+removed-search-engine-message2 = <strong>Din standard-søgetjeneste er blevet ændret.</strong> { -brand-short-name } understøtter ikke længere { $oldEngine }. { $newEngine } er nu din standard-søgetjeneste. Gå til Indstillinger for at skifte til en anden standard-søgetjeneste.
 remove-search-engine-button = OK
