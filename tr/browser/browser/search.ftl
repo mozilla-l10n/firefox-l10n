@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Kurma hatası
 opensearch-error-duplicate-desc = { -brand-short-name }, "{ $location-url }" kaynağındaki arama yan uygulamasını kuramadı, çünkü zaten aynı isme sahip bir arama motoru var.
-
 opensearch-error-format-title = Geçersiz biçim
 opensearch-error-format-desc = { -brand-short-name } { $location-url } konumundaki arama motorunu yükleyemedi
-
 opensearch-error-download-title = İndirme hatası
 opensearch-error-download-desc = { -brand-short-name }, arama yan uygulamasını bu kaynaktan indiremedi: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name }, arama yan uygulamasını
 
 searchbar-submit =
     .tooltiptext = Aramayı gönder
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Arama
-
 searchbar-icon =
     .tooltiptext = Ara
 
@@ -35,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 removed-search-engine-message = <strong>Varsayılan arama motorunuz değiştirildi.</strong> { $oldEngine } artık varsayılan { -brand-short-name } arama motorları arasında yer almıyor. Yeni varsayılan arama motorunuzu { $newEngine } olarak ayarladık. Varsayılan arama motorunuzu ayarlardan değiştirebilirsiniz. <label data-l10n-name="remove-search-engine-article">Daha fazla bilgi alın</label>
+removed-search-engine-message2 = <strong>Varsayılan arama motorunuz değiştirildi.</strong> { $oldEngine } artık varsayılan { -brand-short-name } arama motorları arasında yer almıyor. Yeni varsayılan arama motorunuzu { $newEngine } olarak ayarladık. Varsayılan arama motorunuzu ayarlardan değiştirebilirsiniz.
 remove-search-engine-button = Tamam
