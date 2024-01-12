@@ -85,4 +85,6 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 ## Protections panel info message
 
+cfr-protections-panel-header = بگەڕێ بێئەوەی چاودێری بکرێیت
+cfr-protections-panel-body = زانیارییەکانت بپارێزە. { -brand-short-name } دەتپارێزێت لە زۆرێک لەو پەیگرانەی کە شوێنپێت هەڵ دەگرن لە سەرهێڵ.
 cfr-protections-panel-link-text = زیاتر بزانە
