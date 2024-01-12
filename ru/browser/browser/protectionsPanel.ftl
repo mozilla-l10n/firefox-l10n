@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Улучшенная защита от отс
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Улучшенная защита от отслеживания
-    .description = Включена на этом сайте
-    .aria-label = Отключить защиту на { $host }
-protections-panel-etp-off-toggle =
-    .label = Улучшенная защита от отслеживания
-    .description = Отключена на этом сайте
-    .aria-label = Включить защиту на { $host }
 protections-panel-etp-toggle-on =
     .label = Улучшенная защита от отслеживания
     .description = Включена для этого сайта
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Отключи�
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Включить снижение числа уведомлений о куках для этого сайта?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } удалит куки этого сайта и обновит страницу. Удаление всех кук может привести к выходу из учётных записей или опустошению корзин с покупками.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } пытается автоматически отклонить все запросы кук на поддерживаемых сайтах.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Включите, и { -brand-short-name } попытается автоматически отклонить уведомления о куки на этом сайте.
 protections-panel-cookie-banner-view-cancel = Отмена
 protections-panel-cookie-banner-view-turn-off = Отключить
 protections-panel-cookie-banner-view-turn-on = Включить
+protections-panel-cookie-banner-blocker-view-turn-on-description = Включите, и { -brand-short-name } попытается автоматически отклонить уведомления о куки на этом сайте.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Отмена
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Сообщить о сломанном сайте
     .title = Сообщить о сломанном сайте
+
+## Protections panel info message
+
