@@ -29,14 +29,6 @@ protections-panel-etp-off-header = A proteção aprimorada contra rastreamento e
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Proteção aprimorada contra rastreamento
-    .description = Ativada neste site
-    .aria-label = Desativar proteção em { $host }
-protections-panel-etp-off-toggle =
-    .label = Proteção aprimorada contra rastreamento
-    .description = Desativada neste site
-    .aria-label = Ativar proteção em { $host }
 protections-panel-etp-toggle-on =
     .label = Proteção aprimorada contra rastreamento
     .description = Ativada neste site
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Desativar bloqu
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Ativar bloqueador de avisos de cookies neste site?
 protections-panel-cookie-banner-view-cookie-clear-warning = O { -brand-short-name } irá limpar os cookies deste site e atualizar a página. Limpar todos os cookies pode encerrar a sessão de acesso no site ou esvaziar carrinhos de compras.
 protections-panel-cookie-banner-view-turn-on-description = O { -brand-short-name } tenta rejeitar automaticamente todas as solicitações de cookies em sites suportados.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Ative e o { -brand-short-name } tenta recusar avisos de cookies automaticamente neste site.
 protections-panel-cookie-banner-view-cancel = Cancelar
 protections-panel-cookie-banner-view-turn-off = Desativar
 protections-panel-cookie-banner-view-turn-on = Ativar
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ative e o { -brand-short-name } tenta recusar avisos de cookies automaticamente neste site.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Cancelar
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,6 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Relatar site com problemas
     .title = Relatar site com problemas
+
+## Protections panel info message
+
