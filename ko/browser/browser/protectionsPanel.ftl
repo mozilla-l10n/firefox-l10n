@@ -157,3 +157,5 @@ protections-panel-report-broken-site =
 
 ## Protections panel info message
 
+cfr-protections-panel-body = 자신의 데이터를 보호하세요. { -brand-short-name }는 온라인에서 하는 일을 추적하는 가장 일반적인 많은 추적기로부터 사용자를 보호합니다.
+cfr-protections-panel-link-text = 더 알아보기
