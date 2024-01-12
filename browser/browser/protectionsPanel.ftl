@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Ferbettere beskerming tsjin folgjen is ÚT fo
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Ferbettere beskerming tsjin folgjen
-    .description = Oan foar dizze website
-    .aria-label = Beskermingen foar { $host } útskeakelje
-protections-panel-etp-off-toggle =
-    .label = Ferbettere beskerming tsjin folgjen
-    .description = Ut foar dizze website
-    .aria-label = Beskermingen foar { $host } ynskeakelje
 protections-panel-etp-toggle-on =
     .label = Ferbettere beskerming tsjin folgjen
     .description = Oan foar dizze website
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Blokkearring fa
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Blokkearring fan cookiebanners ynskeakelje foar dizze website?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } wisket de cookies foar dizze website en fernijt de side. As alle cookies wiske wurde, wurde jo mooglik ôfmeld of wurde winkelweintsjes lege.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } probearret alle cookiefersiken op stipe websites automatysk te wegerjen.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Skeakelje dit yn en { -brand-short-name } sil probearje cookiebanners op dizze website automatysk te wegerjen.
 protections-panel-cookie-banner-view-cancel = Annulearje
 protections-panel-cookie-banner-view-turn-off = Utskeakelje
 protections-panel-cookie-banner-view-turn-on = Ynskeakelje
+protections-panel-cookie-banner-blocker-view-turn-on-description = Skeakelje dit yn en { -brand-short-name } sil probearje cookiebanners op dizze website automatysk te wegerjen.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Annulearje
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,9 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Net-wurkjende website melde
     .title = Net-wurkjende website melde
+
+## Protections panel info message
+
+cfr-protections-panel-header = Sneup sûnder folge te wurden
+cfr-protections-panel-body = Hâld jo gegevens foar josels. { -brand-short-name } beskermet jo tsjin in protte fan de meast foarkommende trackers dy’t folgje wat jo online dogge.
+cfr-protections-panel-link-text = Mear ynfo
