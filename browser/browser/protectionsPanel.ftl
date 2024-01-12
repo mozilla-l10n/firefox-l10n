@@ -29,14 +29,6 @@ protections-panel-etp-off-header = Tehostettu seurannan suojaus on POIS PÄÄLT�
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-protections-panel-etp-on-toggle =
-    .label = Tehostettu seurannan suojaus
-    .description = Käytössä tällä sivustolla
-    .aria-label = Poista suojaukset käytöstä sivustolla { $host }
-protections-panel-etp-off-toggle =
-    .label = Tehostettu seurannan suojaus
-    .description = Ei käytössä tällä sivustolla
-    .aria-label = Ota suojaukset käyttöön sivustolla { $host }
 protections-panel-etp-toggle-on =
     .label = Tehostettu seurannan suojaus
     .description = Käytössä tällä sivustolla
@@ -149,10 +141,10 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Haluatko poista
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Haluatko ottaa evästeilmoitusten eston käyttöön tällä sivustolla?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } poistaa tämän sivuston evästeet ja päivittää sivun. Kaikkien evästeiden poistaminen saattaa kirjata sinut ulos tai tyhjentää ostoskorit.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } pyrkii automaattisesti vastaamaan kieltävästi kaikkiin evästepyyntöihin tuetuilla sivustoilla.
-protections-panel-cookie-banner-blocker-view-turn-on-description = Ota käyttöön ja { -brand-short-name } yrittää automaattisesti hylätä evästeilmoitukset tällä sivustolla.
 protections-panel-cookie-banner-view-cancel = Peruuta
 protections-panel-cookie-banner-view-turn-off = Poista käytöstä
 protections-panel-cookie-banner-view-turn-on = Ota käyttöön
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ota käyttöön ja { -brand-short-name } yrittää automaattisesti hylätä evästeilmoitukset tällä sivustolla.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Peruuta
 protections-panel-cookie-banner-view-turn-off-label =
@@ -162,3 +154,7 @@ protections-panel-cookie-banner-view-turn-on-label =
 protections-panel-report-broken-site =
     .label = Ilmoita rikkinäisestä sivustosta
     .title = Ilmoita rikkinäisestä sivustosta
+
+## Protections panel info message
+
+cfr-protections-panel-body = Pidä tietosi itselläsi. { -brand-short-name } suojaa sinua useilta yleisiltä seuraimilta, jotka seuraavat tekemisiäsi verkossa.
