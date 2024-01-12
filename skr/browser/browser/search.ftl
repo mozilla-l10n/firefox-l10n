@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = انسٹال کرݨ وِچ خرابی
 opensearch-error-duplicate-desc = { -brand-short-name } "{ $location-url }" کنوں سرچ پلگ ان انسٹال نہیں کر سڳیا کیوں جو ایں ناں دا انجݨ پہلے کنوں موجود ہے۔
-
 opensearch-error-format-title = غلط فارمیٹ
 opensearch-error-format-desc = { -brand-short-name } ڳولݨ انجݨ انسٹال نہیں کر سڳدا: { $location-url }
-
 opensearch-error-download-title = ڈاؤن لوڈ نقص
 opensearch-error-download-desc = { -brand-short-name } ڳولݨ پلگ ان ڈاؤن لوڈ نہیں کر سڳدا: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } ڳولݨ پلگ ان ڈا
 
 searchbar-submit =
     .tooltiptext = ڳول ارسال کرو
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = ڳولو
-
 searchbar-icon =
     .tooltiptext = ڳولو
 
@@ -35,4 +31,5 @@ searchbar-icon =
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
 removed-search-engine-message = <strong>تہاݙا ڈیفالٹ سرچ انجݨ تبدیل کر ݙتا ڳیا ہے۔</strong> { $oldEngine } ہݨ ڈیفالٹ سرچ انجݨ دے طور ت { -brand-short-name } وِچ دستیاب کائنی۔ { $newEngine } ہݨ تہاݙا ڈیفالٹ سرچ انجݨ ہے۔ ٻئے ڈیفالٹ سرچ انجݨ وِچ تبدیل کرݨ کیتے، ترتیباں تے ونڄو۔ <label data-l10n-name="remove-search-engine-article">ودھیک ڄاݨو </label>
+removed-search-engine-message2 = <strong>تہاݙا ڈیفالٹ سرچ انجݨ تبدیل کر ݙتا ڳیا ہے۔</strong> { $oldEngine } ہݨ ڈیفالٹ سرچ انجݨ دے طور ت { -brand-short-name } وِچ دستیاب کائنی۔ { $newEngine } ہݨ تہاݙا ڈیفالٹ سرچ انجݨ ہے۔ ٻئے ڈیفالٹ سرچ انجݨ وِچ تبدیل کرݨ کیتے، ترتیباں تے ونڄو۔
 remove-search-engine-button = ٹھیک ہے
