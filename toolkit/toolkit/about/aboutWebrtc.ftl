@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = Komenci senerarigan reĝimon
 about-webrtc-debug-mode-on-state-label = Haltigi senerarigan reĝimon
 about-webrtc-enable-logging-label = Aktivigi norma registro de WebRTC
 about-webrtc-stats-heading = Statistikoj pri seanco
+about-webrtc-peerconnections-section-heading = Statisktikoj de RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = Montri statistikojn de RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = Kaŝi statistikojn de RTCPeerConnection
 about-webrtc-stats-clear = Viŝi historion
 about-webrtc-log-heading = Registro de konektoj
 about-webrtc-log-clear = Viŝi registron
@@ -194,6 +197,17 @@ about-webrtc-configuration-element-provided = Provizita
 about-webrtc-configuration-element-not-provided = Ne provizita
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferoj de WebRTC difinitaj de uzanto
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Agordoj de WebRTC modifitaj de uzanto
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Montri agordojn modifitajn de uzanto
+about-webrtc-user-modified-configuration-hide-msg = Kaŝi agordojn modifitajn de uzanto
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Taksita datumtrafiko
 # The ID of the MediaStreamTrack
@@ -229,8 +243,6 @@ about-webrtc-aec-logging-off-state-msg = kaptitaj dosieroj de registrado trovebl
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Paĝo konservita kiel: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Spurregistrado troveblas en: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Senerariga reĝimo aktiva, spurregistrado en: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -310,9 +322,6 @@ about-webrtc-hide-msg-sdp = Kaŝi SDP
 about-webrtc-media-context-show-msg = Montri aŭdvidan kuntekston
 about-webrtc-media-context-hide-msg = Kaŝi aŭdvidan kuntekston
 about-webrtc-media-context-heading = Aŭdvidan kuntekston
-
-##
-
 
 ##
 
