@@ -204,6 +204,10 @@ containers-remove-alert-msg =
 containers-remove-ok-button = Rimuovi questo contenitore
 containers-remove-cancel-button = Non rimuovere questo contenitore
 
+settings-tabs-show-image-in-preview =
+    .label = Mostra un’anteprima quando si passa il puntatore sopra una scheda
+    .accessKey = h
+
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingua e aspetto
