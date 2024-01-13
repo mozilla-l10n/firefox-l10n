@@ -287,12 +287,40 @@ about-logins-confirm-remove-all-dialog-title2 =
         [few] Выдаліць усе { $count } паролі?
        *[many] Выдаліць усе { $count } пароляў?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Гэта выдаліць пароль, захаваны ў { -brand-short-name }, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+        [one] Гэта выдаліць пароль, захаваны ў { -brand-short-name }, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+        [few] Гэта выдаліць паролі, захаваныя ў { -brand-short-name }, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+       *[many] Гэта выдаліць паролі, захаваныя ў { -brand-short-name }, і любыя папярэджанні аб уцечках. Вы не зможаце адмяніць гэтае дзеянне.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Выдаліць { $count } пароль з усіх прылад?
+        [few] Выдаліць усе { $count } паролі з усіх прылад?
+       *[many] Выдаліць усе { $count } пароляў з усіх прылад?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Гэта выдаліць пароль, які вы захавалі ў { -brand-short-name }, з усіх вашых сінхранізаваных прылад. Гэта таксама выдаліць папярэджанні аб уцечках, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
+        [one] Гэта выдаліць пароль, які вы захавалі ў { -brand-short-name }, з усіх вашых сінхранізаваных прылад. Гэта таксама выдаліць папярэджанні аб уцечках, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
+        [few] Гэта выдаліць усе паролі, якія вы захавалі ў { -brand-short-name }, з усіх вашых сінхранізаваных прылад. Гэта таксама выдаліць папярэджанні аб уцечках, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
+       *[many] Гэта выдаліць усе паролі, якія вы захавалі ў { -brand-short-name }, з усіх вашых сінхранізаваных прылад. Гэта таксама выдаліць папярэджанні аб уцечках, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Экспарт лагінаў і пароляў
 about-logins-confirm-export-dialog-message = Вашы паролі будуць захаваны як звычайны тэкст (напр., BadP@ssw0rd), таму кожны, хто можа адкрыць экспартаваны файл, можа ўбачыць іх.
 about-logins-confirm-export-dialog-confirm-button = Экспартаваць…
+about-logins-confirm-export-dialog-title2 = Заўвага аб экспарце пароляў
+about-logins-confirm-export-dialog-message2 =
+    Калі вы экспартуеце, вашы паролі захоўваюцца ў файл з даступным для чытання тэкстам.
+    Калі вы скончыце выкарыстоўваць файл, мы рэкамендуем выдаліць яго, каб іншыя, хто карыстаецца гэтай прыладай, не змаглі бачыць вашы паролі.
+about-logins-confirm-export-dialog-confirm-button2 = Працягнуць экспарт
 about-logins-alert-import-title = Імпарт завершаны
 about-logins-alert-import-message = Паглядзець падрабязную зводку імпарту
 confirm-discard-changes-dialog-title = Адхіліць незахаваныя змены?
