@@ -347,3 +347,15 @@ onboarding-gratitude-security-and-privacy-subtitle = Mozilla Foundation ұсын
 ## New user time and familiarity survey strings
 
 onboarding-new-user-time-based-survey-title = { -brand-short-name } қолданып жүргеніңізге қанша уақыт болды?
+onboarding-new-user-familiarity-based-survey-title = { -brand-short-name } өнімімен қаншалықты таныссыз?
+onboarding-new-user-survey-subtitle = Сіздің пікіріңіз { -brand-short-name } өнімін одан сайын жақсартуға көмектеседі.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Мен жаңадан келдім
+onboarding-new-user-survey-time-based-option-2 = 1 айдан аз
+onboarding-new-user-survey-time-based-option-3 = 1 айдан астам, жүйелі түрде
+onboarding-new-user-survey-time-based-option-4 = 1 айдан астам, кейде
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Мен жаңадан келдім
+onboarding-new-user-survey-familiarity-based-option-2 = Мен оны біраз қолдандым
+onboarding-new-user-survey-familiarity-based-option-3 = Мен онымен өте жақсы таныспын
+onboarding-new-user-survey-familiarity-based-option-4 = Мен оны бұрын қолдандым, бірақ біраз уақыт өтті
