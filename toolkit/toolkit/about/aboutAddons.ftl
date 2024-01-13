@@ -219,6 +219,10 @@ shortcuts-no-addons = Non ci sono estensioni attive.
 shortcuts-no-commands = Le seguenti estensioni non hanno scorciatoie da tastiera:
 shortcuts-input =
     .placeholder = Inserisci una scorciatoia
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+  .aria-label = Rimuovi scorciatoia
+
 shortcuts-browserAction2 = Attiva pulsante nella barra degli strumenti
 shortcuts-pageAction = Attiva azione pagina
 shortcuts-sidebarAction = Attiva/disattiva barra laterale
