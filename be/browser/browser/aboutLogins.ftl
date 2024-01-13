@@ -272,6 +272,21 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [few] Гэта выдаліць усе лагіны, якія вы захавалі ў { -brand-short-name } на ўсіх прыладах, з якімі сінхранізаваны ваш уліковы запіс. Гэта таксама выдаліць папярэджанні аб уцечках, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
        *[many] Гэта выдаліць усе лагіны, якія вы захавалі ў { -brand-short-name } на ўсіх прыладах, з якімі сінхранізаваны ваш уліковы запіс. Гэта таксама выдаліць папярэджанні аб уцечках, якія з'яўляюцца тут. Вы не зможаце адмяніць гэта дзеянне.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Так, выдаліць пароль
+        [one] Так, выдаліць пароль
+        [few] Так, выдаліць паролі
+       *[many] Так, выдаліць паролі
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Выдаліць усе { $count } пароляў?
+        [few] Выдаліць усе { $count } паролі?
+       *[many] Выдаліць усе { $count } пароляў?
+    }
 
 ##
 
@@ -319,6 +334,9 @@ about-logins-export-file-picker-title = Экспартаваны файл лаг
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = дадзеныя-для-ўваходу.csv
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Экспартаваць
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
