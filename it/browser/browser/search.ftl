@@ -33,3 +33,4 @@ searchbar-icon =
 removed-search-engine-message = <strong>Il motore di ricerca predefinito è stato cambiato.</strong> { $oldEngine } non è più disponibile tra i motori di ricerca predefiniti di { -brand-short-name } e { $newEngine } è ora impostato come motore di ricerca predefinito. È possibile modificare il motore di ricerca predefinito nelle impostazioni. <label data-l10n-name="remove-search-engine-article">Ulteriori informazioni</label>
 removed-search-engine-message2 = <strong>Il motore di ricerca predefinito è stato cambiato.</strong> { $oldEngine } non è più disponibile tra i motori di ricerca predefiniti di { -brand-short-name } e { $newEngine } è ora impostato come motore di ricerca predefinito. È possibile modificare il motore di ricerca predefinito nelle impostazioni.
 remove-search-engine-button = OK
+
