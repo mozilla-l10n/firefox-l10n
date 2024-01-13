@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = ახალი ანგარიშის მონაცემები
+about-logins-page-title-name = პაროლები
+about-logins-login-filter2 =
+    .placeholder = პაროლების ძიება
+    .key = ძ
+create-login-button =
+    .title = პაროლის დამატება
 fxaccounts-sign-in-text = გადმოიტანეთ პაროლები სხვა მოწყობილობებიდან
 fxaccounts-sign-in-sync-button = სინქრონიზაციაში შესვლა
 fxaccounts-avatar-button =
@@ -23,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = გადმოტა�
 about-logins-menu-menuitem-import-from-a-file = ფაილიდან გადმოტანა…
 about-logins-menu-menuitem-export-logins = მონაცემების გატანა…
 about-logins-menu-menuitem-remove-all-logins = ყველა ანგარიშის მოცილება…
+about-logins-menu-menuitem-export-logins2 = პაროლების გატანა...
+about-logins-menu-menuitem-remove-all-logins2 = ყველა პაროლის მოცილება…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] პარამეტრები
@@ -49,6 +57,21 @@ login-list-filtered-count =
         [one] { $count } სულ { $total } ანგარიშიდან
        *[other] { $count } სულ { $total } ანგარიშიდან
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } პაროლი
+       *[other] { $count } პაროლი
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } სულ { $total } პაროლიდან
+       *[other] { $count } სულ { $total } პაროლიდან
+    }
 login-list-sort-label-text = დალაგება:
 login-list-name-option = სახელი (ა-ჰ)
 login-list-name-reverse-option = სახელი (ჰ-ა)
@@ -58,11 +81,14 @@ about-logins-login-list-alerts-option = ცნობები
 login-list-last-changed-option = ბოლოს ჩასწორებული
 login-list-last-used-option = ბოლოს გამოყენებული
 login-list-intro-title = მონაცემები ვერ მოიძებნა
+login-list-intro-title2 = პაროლები არ შენახულა
 login-list-intro-description = როცა პაროლს შეინახავს { -brand-product-name }, გამოჩნდება აქ.
 about-logins-login-list-empty-search-title = მონაცემები ვერ მოიძებნა
+about-logins-login-list-empty-search-title2 = პაროლები ვერ მოიძებნა
 about-logins-login-list-empty-search-description = ძიების შესაბამისი შედეგები ვერ მოიძებნა.
 login-list-item-title-new-login = ანგარიშის ახალი მონაცემები
 login-list-item-subtitle-new-login = შეიყვანეთ თქვენი მონაცემები
+login-list-item-title-new-login2 = პაროლის დამატება
 login-list-item-subtitle-missing-username = (მომხმარებლის სახელის გარეშე)
 about-logins-list-item-breach-icon =
     .title = იერიშმიტანილი საიტი
@@ -81,19 +107,29 @@ about-logins-login-intro-heading-logged-out2 = ეძებთ შენახ�
 about-logins-login-intro-heading-logged-in = დასინქრონებული ანგარიშები ვერ მოიძებნა.
 login-intro-description = თუ თქვენს მონაცემებს { -brand-product-name } სხვა მოწყობილობაზე ინახავს, ნახეთ როგორ უნდა გადმოიტანოთ აქ:
 login-intro-instructions-fxa = შედით ან შექმენით { -fxaccount-brand-name } იმ მოწყობილობიდან, რომელზეც თქვენი ანგარიშები ინახება.
+about-logins-login-intro-heading-message = შეინახეთ პაროლები უსაფრთხო ადგილას
+login-intro-description2 = თქვენ მიერ შენახულ ყველა პაროლს { -brand-product-name } შიფრავს. ამასთანავე, მუდმივად თვალს ვადევნებთ მონაცემების მიტაცების შემთხვევებს და გაცნობებთ, თუ თქვენც შეგეხებათ. <a data-l10n-name="breach-alert-link">ვრცლად</a>
 login-intro-instructions-fxa2 = შედით ან შექმენით ანგარიში იმ მოწყობილობიდან, რომელზეც შესვლის მონაცემები ინახება.
 login-intro-instructions-fxa-settings = გადადით პარამეტრებში > სინქრონიზაცია > სინქრონიზაციის ჩართვა… აირჩიეთ ანგარიშები და პაროლები.
 login-intro-instructions-fxa-passwords-help = იხილეთ <a data-l10n-name="passwords-help-link">პაროლების მხარდაჭერის გვერდი</a> დახმარების მისაღებად.
 about-logins-intro-browser-only-import = თუ თქვენი ანგარიშების მონაცემები, სხვა ბრაუზერშია, შეგიძლიათ <a data-l10n-name="import-link">გადმოიტანოთ და შეინახავს { -brand-product-name }</a>
 about-logins-intro-import2 = თუ თქვენი ანგარიში მონაცემებს { -brand-product-name } არ ინახავდა, შეგიძლიათ <a data-l10n-name="import-browser-link">გადმოიტანოთ სხვა ბრაუზერიდან</a> ან <a data-l10n-name="import-file-link">პირდაპირ ფაილიდან</a>
+about-logins-intro-import3 = აირჩიეთ ზემოთ მიმატების ნიშანი პაროლის ახლავე დასამატებლად. აგრეთვე შეგიძლიათ <a data-l10n-name="import-browser-link">გადმოიტანოთ პაროლები სხვა ბრაუზერიდან</a> ან შემოიტანოთ <a data-l10n-name="import-file-link">ფაილიდან</a>.
 
 ## Login
 
 login-item-new-login-title = ანგარიშის ახალი მონაცემები
+# Header for adding a password
+about-logins-login-item-new-login-title = პაროლის დამატება
 login-item-edit-button = ჩასწორება
 about-logins-login-item-remove-button = მოცილება
 login-item-origin-label = საიტის მისამართი
 login-item-tooltip-message = დარწმუნდით, რომ ზუსტად ემთხვევა იმ ვებსაიტის მისამართს, რომელზეც ხართ შესული.
+about-logins-origin-tooltip2 = მიუთითეთ სრული მისამართი და დარწმუნდით, რომ ზუსტად ემთხვევა იმ საიტს, რომლის ანგარიშზეც შეხვედით.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = დარწმუნდით, რომ თქვენს მიმდინარე პაროლს ინახავთ ამ საიტისთვის. პაროლის აქ შეცვლით, არ შეცვლის მას { $webTitle }.
+about-logins-add-password-tooltip = დარწმუნდით, რომ ამ საიტზე თქვენს მიმდინარე პაროლს ინახავთ.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = მომხმარებლის სახელი
@@ -107,6 +143,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = ასლი
 login-item-copied-password-button-text = ასლი აღებულია!
 login-item-save-changes-button = ცვლილებების შენახვა
+about-logins-login-item-save-changes-button = შენახვა
 login-item-save-new-button = შენახვა
 login-item-cancel-button = გაუქმება
 
@@ -134,6 +171,11 @@ about-logins-edit-login-os-auth-dialog-message-win = მონაცემებ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = შენახული მონაცემის ჩასწორებას
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = პაროლის ჩასასწორებლად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ, უკეთ დაიცვათ თქვენი ანგარიშების მონაცემები.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = შენახული პაროლის ჩასწორებას
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = პაროლის სანახავად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -149,6 +191,11 @@ about-logins-export-password-os-auth-dialog-message-win = მონაცემ�
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = ანგარიშების მონაცემებისა და პაროლების გატანა
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = პაროლის გასატანად დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ, უკეთ დაიცვათ თქვენი ანგარიშების მონაცემები.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = შენახული პაროლების გატანას
 
 ## Primary Password notification
 
@@ -164,6 +211,10 @@ confirmation-dialog-dismiss-button =
     .title = გაუქმება
 about-logins-confirm-remove-dialog-title = გსურთ ამ მონაცემების მოცილება?
 confirm-delete-dialog-message = ეს ქმედება შეუქცევადია.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = წაიშალოს პაროლი?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = ეს ქმედება შეუქცევადია.
 about-logins-confirm-remove-dialog-confirm-button = მოცილება
 
 ## Variables
@@ -206,6 +257,12 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] შედეგად წაიშლება შესვლის მონაცემები, რომელთაც ინახავს { -brand-short-name } და ასინქრონებს ყველა მოწყობილობაზე თქვენი ანგარიშით. აგრეთვე მოცილდება მიტაცებებზე შეტყობინებებიც. ეს ქმედება შეუქცევადია.
        *[other] შედეგად წაიშლება შესვლის ყველა მონაცემი, რომელთაც ინახავს { -brand-short-name } და ასინქრონებს ყველა მოწყობილობაზე თქვენი ანგარიშით. აგრეთვე მოცილდება მიტაცებებზე შეტყობინებებიც. ეს ქმედება შეუქცევადია.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] დიახ, წაიშალოს პაროლი
+       *[other] დიახ, წაიშალოს პაროლები
     }
 
 ##
