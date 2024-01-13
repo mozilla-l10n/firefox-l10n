@@ -21,6 +21,9 @@ autofill-options-link-osx = 表单自动填写偏好设置
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = 在我的设备间同步所有保存的卡片
 # Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = 要安全地保存此卡片吗？
 credit-card-save-doorhanger-description = { -brand-short-name } 会将卡号加密保存。安全码不会被保存。
