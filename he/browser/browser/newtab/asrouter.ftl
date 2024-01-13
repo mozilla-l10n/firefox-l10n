@@ -192,6 +192,10 @@ colorways-cfr-body = צבעו את הדפדפן שלכם בגוונים בלעד
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = לאפשר ל־{ -brand-short-name } לדחות כרזות עוגיות?
+cfr-cbh-body = ‏{ -brand-short-name } יכול לדחות באופן אוטומטי מגוון רחב של בקשות כרזות עוגיות.
+cfr-cbh-confirm-button = דחיית כרזות עוגיות
+    .accesskey = ד
 cfr-cbh-dismiss-button = לא כעת
     .accesskey = ל
 cookie-banner-blocker-cfr-header = ‏{ -brand-short-name } חסם הרגע עוגיות עבורך
@@ -199,6 +203,7 @@ cookie-banner-blocker-cfr-header = ‏{ -brand-short-name } חסם הרגע עו
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = אנחנו דואגים לך
+july-jam-body = בכל חודש, { -brand-short-name } חוסם בממוצע יותר מ־3,000 רכיבי מעקב למשתמש, מה שמעניק לך גישה בטוחה ומהירה לאינטרנט.
 july-jam-set-default-primary = פתיחת הקישורים שלי באמצעות { -brand-short-name }
 fox-doodle-pin-headline = ברוכים השבים
 # “indie” is short for the term “independent”.
