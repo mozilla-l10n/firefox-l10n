@@ -187,7 +187,7 @@ shopping-onboarding-dynamic-subtitle-1 = Прежде чем совершить 
 shopping-onboarding-single-subtitle = Прежде чем совершить покупку, проверьте, насколько надежны отзывы о продуктах на <b>{ $currentSite }</b>. Проверка отзывов, экспериментальная функция от { -brand-product-name }, встроена прямо в браузер.
 shopping-onboarding-body = Используя возможности { -fakespot-brand-full-name }, мы помогаем вам избежать предвзятых и недостоверных отзывов. Наша модель искусственного интеллекта постоянно совершенствуется, чтобы защитить вас во время покупок. <a data-l10n-name="learn_more">Подробнее</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Нажимая кнопку «{ shopping-onboarding-opt-in-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">политикой конфиденциальности</a> и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-name }.
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Нажимая кнопку «{ shopping-onboarding-opt-in-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">политикой конфиденциальности</a> { -brand-product-name } и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-name }.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Нажимая кнопку «{ shopping-onboarding-opt-in-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">политикой конфиденциальности</a> { -brand-product-name } и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Да, попробовать
 shopping-onboarding-not-now-button = Не сейчас
 shopping-onboarding-dialog-close-button =
