@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = kontroli ĉu { -brand-short-name } rajtas
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = Per niaj fidatajserviloj DNS { -brand-short-name } ne povas protekti vian peton al tiu ĉi adreso de retejo. Jen la kialo:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } ne povas protekti vian peton pri la adreso de tiu ĉi retejo per nia sekura provizanto de DNS. Jen la kialo:
 neterror-dns-not-found-trr-third-party-warning2 = Vi povas daŭrigi per via norma serĉilo DNS. Tamen, iu alia povus vidi, kiujn retejoj vi vizitas.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ne povis konektiĝi al { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = La konekto al { $trrDomain } daŭris pli longe ol atendite.
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Neatendita problemo.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ne povas protekti vian peton pri la adreso de tiu ĉi retejo uzante niajn fidatajn serĉilojn DNS. Jen la kialo:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } ne povas protekti vian peton pri la adreso de tiu ĉi retejo per nia sekura provizanto de DNS. Jen la kialo:
 neterror-dns-not-found-native-fallback-heuristic = DNS per HTTPS estis malaktivigita en via reto.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ne povis konektiĝi al { $trrDomain }.
 
