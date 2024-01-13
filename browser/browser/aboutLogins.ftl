@@ -258,15 +258,13 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Esto eliminará el inicio de sesión que guardaste en { -brand-short-name } en todos los dispositivos sincronizados a tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
-        [one] Esto eliminará todos los inicios de sesión que guardaste en { -brand-short-name } en todos los dispositivos sincronizados a tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
-       *[other] { "" }
+       *[other] Esto eliminará todos los inicios de sesión que guardaste en { -brand-short-name } en todos los dispositivos sincronizados a tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Sí, eliminar contraseña
-        [one] Sí, eliminar contraseñas
-       *[other] { "" }
+       *[other] Sí, eliminar contraseñas
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -278,8 +276,7 @@ about-logins-confirm-remove-all-dialog-title2 =
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
         [1] Esto eliminará la contraseña guardada en { -brand-short-name } y cualquier alerta de filtración. Esta acción no se puede deshacer.
-        [one] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. Esta acción no se puede deshacer.
-       *[other] { "" }
+       *[other] Esto eliminará las contraseñas guardadas en { -brand-short-name } y cualquier alerta de filtración. Esta acción no se puede deshacer.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
@@ -291,8 +288,7 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Esto eliminará la contraseña guardada en { -brand-short-name } en todos tus dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración que aparece aquí. Esta acción no se puede deshacer.
-        [one] Esto eliminará todas las contraseñas guardadas en { -brand-short-name } en todos tus dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración que aparece aquí. Esta acción no se puede deshacer.
-       *[other] { "" }
+       *[other] Esto eliminará todas las contraseñas guardadas en { -brand-short-name } en todos tus dispositivos sincronizados. Esto también eliminará cualquier alerta de filtración que aparece aquí. Esta acción no se puede deshacer.
     }
 
 ##
@@ -402,21 +398,9 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Se encontraron inicios de sesión duplicados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
        *[other] <span>Se encontraron inicios de sesión duplicados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
     }
-about-logins-import-dialog-items-added2 =
-    { $count ->
-        [one] <span>Nuevas contraseñas agregados:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] { "" }
-    }
-about-logins-import-dialog-items-modified2 =
-    { $count ->
-        [one] <span>Elementos existentes actualizados:</span> <span data-l10n-name="count">{ $count }</span>
-       *[other] { "" }
-    }
-about-logins-import-dialog-items-no-change2 =
-    { $count ->
-        [one] <span>Elementos duplicados encontrados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
-       *[other] { "" }
-    }
+about-logins-import-dialog-items-added2 = <span>Nuevas contraseñas agregados:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-modified2 = <span>Elementos existentes actualizados:</span> <span data-l10n-name="count">{ $count }</span>
+about-logins-import-dialog-items-no-change2 = <span>Elementos duplicados encontrados:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
@@ -477,21 +461,9 @@ about-logins-import-report-no-change =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión duplicados</div> <div data-l10n-name="not-imported">No importados</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Inicios de sesión duplicados</div> <div data-l10n-name="not-imported">No importados</div>
     }
-about-logins-import-report-added2 =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nuevas contraseñas agregadas</div>
-       *[other] { "" }
-    }
-about-logins-import-report-modified2 =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Elementos existentes actualizados</div>
-       *[other] { "" }
-    }
-about-logins-import-report-no-change2 =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Elementos duplicados</div> <div data-l10n-name="not-imported">(no importados)</div>
-       *[other] { "" }
-    }
+about-logins-import-report-added2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nuevas contraseñas agregadas</div>
+about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Elementos existentes actualizados</div>
+about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Elementos duplicados</div> <div data-l10n-name="not-imported">(no importados)</div>
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Errores</div> <div data-l10n-name="not-imported">(no importados)</div>
