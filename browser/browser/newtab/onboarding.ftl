@@ -344,3 +344,16 @@ onboarding-mobile-download-security-and-privacy-subtitle = ਜਦੋਂ ਤੱ�
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ਤੁਹਾਡੇ ਨਾਲ ਖੜ੍ਹਾ ਹੈ
 onboarding-gratitude-security-and-privacy-subtitle = { -brand-short-name }, ਜਿਸ ਨੂੰ Mozilla Foundation ਵਲੋਂ ਸਹਿਯੋਗ ਮਿਲਦਾ ਹੈ, ਵਰਤਣ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ। ਤੁਹਾਡੀ ਮਦਦ ਨਾਲ ਅਸੀਂ ਇੰਟਰਨੈੱਟ ਨੂੰ ਹਰ ਕਿਸੇ ਲਈ ਵੱਧ ਸੁਰੱਖਿਅਤ ਅਤੇ ਵੱਧ ਪਹੁੰਚ ਵਿੱਚ ਲਿਆਉਣ ਲਈ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ।
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = ਤੁਸੀਂ ਕਿੰਨੇ ਸਮੇਂ ਤੋਂ { -brand-short-name } ਨੂੰ ਵਰਤ ਰਹੇ ਹੋ?
+onboarding-new-user-familiarity-based-survey-title = { -brand-short-name } ਨੂੰ ਕਿੰਨੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ?
+onboarding-new-user-survey-subtitle = ਤੁਹਾਡੇ ਸੁਝਾਅ { -brand-short-name } ਨੂੰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹਨ।
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = ਮੈਂ ਬਿਲਕੁਲ ਨਵਾਂ ਹਾਂ
+onboarding-new-user-survey-time-based-option-2 = 1 ਮਹੀਨੇ ਤੋਂ ਘੱਟ
+onboarding-new-user-survey-time-based-option-3 = 1 ਮਹੀਨੇ ਤੋਂ ਵੱਧ, ਨਿਯਮਤ
+onboarding-new-user-survey-time-based-option-4 = 1 ਮਹੀਨੇ ਤੋਂ ਵੱਧ, ਕਦੇ-ਕਦਾਈਂ
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = ਮੈਂ ਬਿਲਕੁਲ ਨਵਾਂ ਹਾਂ
