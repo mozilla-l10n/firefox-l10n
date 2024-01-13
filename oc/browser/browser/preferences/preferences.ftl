@@ -830,6 +830,13 @@ pane-privacy-logins-and-passwords-header = Identificants e senhals
 forms-ask-to-save-logins =
     .label = Demandar per salvar los identificants e senhals dels sites
     .accesskey = r
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Senhals
+    .searchkeywords = identificants
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -850,6 +857,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Identificants salvats…
     .accesskey = S
+forms-saved-passwords =
+    .label = Senhals salvats
+    .accesskey = n
 forms-primary-pw-use =
     .label = Utilizar un senhal principal
     .accesskey = U
@@ -884,6 +894,9 @@ primary-password-os-auth-dialog-message-win = Per crear un senhal principal, pic
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crear un senhal principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
