@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = მოხსენება გაგზავნილია. გმადლობთ!
 confirmation-hint-login-removed = მონაცემები მოცილებულია!
+confirmation-hint-password-removed = პაროლი მოცილებულია!
 confirmation-hint-page-bookmarked = ჩანიშნულია
 confirmation-hint-password-saved = პაროლი შენახულია!
 confirmation-hint-password-created = პაროლი შენახულია
