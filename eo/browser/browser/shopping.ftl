@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Novaj kontrolendaj informoj
 shopping-message-bar-warning-stale-analysis-button = Kontroli nun
-shopping-message-bar-generic-error-title2 = Neniu informo havebla en tiu ĉi momento
-shopping-message-bar-generic-error-message = Ni klopodas solvi la problemon. Bonvolu rekontroli baldaŭ.
-shopping-message-bar-warning-not-enough-reviews-title = Ankoraŭ ne estas sufiĉe da recenzoj
-shopping-message-bar-warning-not-enough-reviews-message2 = Kiam tiu ĉi produko havos pli da recenzoj, ni povis kontroli ĝian kvaliton.
-shopping-message-bar-warning-product-not-available-title = Nedisponebla produkto
-shopping-message-bar-warning-product-not-available-message2 = Se vi vidas ke denove estas stoko de tiu ĉi produko, raportu tion kaj ni kontrolos la recenzojn.
-shopping-message-bar-warning-product-not-available-button = Raporti ke denove estas stoko de tiu ĉi produkto
-shopping-message-bar-thanks-for-reporting-title = Dankon pro la raporto!
-shopping-message-bar-thanks-for-reporting-message2 = Ni devus havi informojn pri la recenzoj de tiu ĉi produkto dum la venontaj 24 horoj. Bonvolu rekontroli baldaŭ.
-shopping-message-bar-warning-product-not-available-reported-title2 = Baldaŭaj informoj
-shopping-message-bar-warning-product-not-available-reported-message2 = Ni devus havi informojn pri la recenzoj de tiu ĉi produkto dum la venontaj 24 horoj. Bonvolu rekontroli baldaŭ.
 shopping-message-bar-generic-error =
     .heading = Neniu informo disponebla en tiu ĉi momento
     .message = Ni klopodas solvi la problemon. Bonvolu rekontroli baldaŭ.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Ni devus havi informojn pri la recenzoj de tiu ĉi produkto dum la venontaj 24 horoj. Bonvolu rekontroli.
 shopping-message-bar-analysis-in-progress-title2 = Kvalito de recenzoj estas taksata
 shopping-message-bar-analysis-in-progress-message2 = Tio povas postuli proksimume 60 sekundojn.
-shopping-message-bar-page-not-supported-title = Ni ne povas kontroli tiujn recenzojn
-shopping-message-bar-page-not-supported-message = Bedaŭrinde ni ne povas kontroli la kvaliton de la recenzoj por kelkaj tipoj de produktoj. Ekzemple por donackartoj, retaj elsendoj, reta muziko kaj ludoj.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Kvalito de recenzoj taksata ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Ni ne povas kontroli tiujn recenzojn
     .message = Bedaŭrinde ni ne povas kontroli la kvaliton de la recenzoj por kelkaj tipoj de produktoj. Ekzemple por donackartoj, retaj elsendoj, reta muziko kaj ludoj.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Agordoj
 shopping-settings-recommendations-toggle =
     .label = Montri reklamojn en la kontrolilo de recenzoj
-shopping-settings-recommendations-learn-more = De tempo al tempo vi vidos reklamojn pri elstaraj produktoj. Ĉiuj reklamoj devas konformi al niaj normoj pri kvalito de recenzoj. <a data-l10n-name="review-quality-url">Pli da informo</a>
 shopping-settings-recommendations-learn-more2 = De tempo al tempo vi vidos reklamojn pri elstaraj produktoj. Ni nur reklamas produktojn kun fidindaj recenzoj. <a data-l10n-name="review-quality-url">Pli da informo</a>
 shopping-settings-opt-out-button = Malŝalti la kontrolilon de recenzoj
 powered-by-fakespot = La kontrolilo de recenzoj funkcias danke al <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>
@@ -121,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Ni uzas artefaritan intelektan (AI) teknologion de { -fakespot-brand-full-name } por kontroli fidindecon de recenzoj de produktoj. Tio helpos vin nur taksi la kvaliton de recenzoj, ne la kvaliton de produktoj.
 shopping-analysis-explainer-grades-intro = Ni donas al ĉiu recenzo de produkto <strong>literan noton</strong> el A ĝis F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>alĝustigita taksado</strong> estas bazita nur sur la recenzoj, kiujn ni opinias fidindaj.
-shopping-analysis-explainer-learn-more = Pli da informo pri <a data-l10n-name="review-quality-url">kiel { -fakespot-brand-full-name } determinas la kvaliton de recenzoj</a>.
 shopping-analysis-explainer-learn-more2 = Pli da informo pri <a data-l10n-name="review-quality-url">kiel { -fakespot-brand-name } determinas la kvaliton de recenzoj</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -137,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Malfermi la kontrolilon de recenzoj
 shopping-sidebar-close-button2 =
     .tooltiptext = Fermi la kontrolilo de recenzoj
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -179,7 +159,6 @@ shopping-survey-q2-radio-3-label = Mi ne scias
 shopping-survey-next-button-label = Antaŭen
 shopping-survey-submit-button-label = Sendi
 shopping-survey-terms-link = Kondiĉoj de uzo
-shopping-survey-thanks-message = Dankon pro via opinio!
 shopping-survey-thanks =
     .heading = Dankon pro via opinio!
 
@@ -201,16 +180,14 @@ shopping-onboarding-headline = Provu nian fidindan gvidadon al recenzoj de produ
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Vidu kiel fidindaj estas la recenzoj en <b>{ $currentSite }</b> antaŭ ol aĉeti. La kontrolilo de recenzoj, eksperimenta trajto de { -vendor-short-name }, estas integrita en { -brand-product-name } — kaj ĝi ankaŭ funkcias en <b>{ $secondSite }</b> kaj <b>{ $thirdSite }</b>.
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+shopping-onboarding-dynamic-subtitle-1 = Vidu kiel fidindaj estas la recenzoj en <b>{ $currentSite }</b> antaŭ ol aĉeti. La kontrolilo de recenzoj, eksperimenta trajto de{ -brand-product-name }, estas integrita en la retumilo — kaj ĝi ankaŭ funkcias en <b>{ $secondSite }</b> kaj <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
 # Variables:
 #   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle-1 = Vidu kiel fidindaj estas la recenzoj en <b>{ $currentSite }</b> antaŭ ol aĉeti. La kontrolilo de recenzoj, eksperimenta trajto de{ -brand-product-name }, estas integrita en la retumilo — kaj ĝi ankaŭ funkcias en <b>{ $secondSite }</b> kaj <b>{ $thirdSite }</b>.
+shopping-onboarding-single-subtitle = Vidu kiel fidindaj estas la rezenzoj en <b>{ $currentSite }</b> antaŭ ol aĉeti. La kontrolilo de recenzoj, eksperimenta trajto de { -brand-product-name }, estas integrita en la retumilo.
 shopping-onboarding-body = Danke al la povo de { -fakespot-brand-full-name } ni helpas vin eviti neobjektivajn kaj malverajn recenzojn. Nia modelo de artefarita intelekto konstante pliboniĝas por protekti vin dum vi aĉetumas. <a data-l10n-name="learn_more">Pli da informo</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Se vi elektas “{ shopping-onboarding-opt-in-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> kaj <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Se vi elektas “{ shopping-onboarding-opt-in-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> kaj <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Se vi elektas “{ shopping-onboarding-opt-in-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> de { -brand-product-name } kaj la <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Jes, provi ĝin
 shopping-onboarding-not-now-button = Ne nun
 shopping-onboarding-dialog-close-button =
