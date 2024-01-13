@@ -393,8 +393,8 @@ about-logins-import-dialog-items-modified =
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-        [one] <span>აღმოჩენილია იგივე ანგარიში:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(არ გადმოტანილა)</span>
-       *[other] <span>აღმოჩენილია იგივე ანგარიშები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(არ გადმოტანილა)</span>
+        [one] <span>აღმოჩენილია იგივე ანგარიში:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ვერ გადმოიტანა)</span>
+       *[other] <span>აღმოჩენილია იგივე ანგარიშები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ვერ გადმოიტანა)</span>
     }
 about-logins-import-dialog-items-added2 =
     { $count ->
@@ -408,13 +408,13 @@ about-logins-import-dialog-items-modified2 =
     }
 about-logins-import-dialog-items-no-change2 =
     { $count ->
-        [one] <span>აღმოჩენილია იგივე ჩანაწერი:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(არ გადმოტანილა)</span>
-       *[other] <span>აღმოჩენილია იგივე ჩანაწერები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(არ გადმოტანილა)</span>
+        [one] <span>აღმოჩენილია იგივე ჩანაწერი:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ვერ გადმოიტანა)</span>
+       *[other] <span>აღმოჩენილია იგივე ჩანაწერები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ვერ გადმოიტანა)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
-        [one] <span>შეცდომები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(არ გადმოტანილა)</span>
-       *[other] <span>შეცდომები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(არ გადმოტანილა)</span>
+        [one] <span>შეცდომები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ვერ გადმოიტანა)</span>
+       *[other] <span>შეცდომები:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ვერ გადმოიტანა)</span>
     }
 about-logins-import-dialog-done = მზადაა
 about-logins-import-dialog-error-title = გადმოტანის შეცდომა
@@ -468,8 +468,8 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ანგარიში მეორდება</div> <div data-l10n-name="not-imported">(არ გადმოტანილა)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ანგარიშები მეორდება</div> <div data-l10n-name="not-imported">(არ გადმოტანილა)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ანგარიში მეორდება</div> <div data-l10n-name="not-imported">(ვერ გადმოიტანა)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ანგარიშები მეორდება</div> <div data-l10n-name="not-imported">(ვერ გადმოიტანა)</div>
     }
 about-logins-import-report-added2 =
     { $count ->
@@ -483,13 +483,13 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ჩანაწერი მეორდება</div> <div data-l10n-name="not-imported">(არ გადმოტანილა)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ჩანაწერები მეორდება</div> <div data-l10n-name="not-imported">(არ გადმოტანილა)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ჩანაწერი მეორდება</div> <div data-l10n-name="not-imported">(ვერ გადმოიტანა)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ჩანაწერები მეორდება</div> <div data-l10n-name="not-imported">(ვერ გადმოიტანა)</div>
     }
 about-logins-import-report-error =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">შეცდომებითაა</div> <div data-l10n-name="not-imported">(არ გადმოტანილა)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">შეცდომებითაა</div> <div data-l10n-name="not-imported">(არ გადმოტანილა)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">შეცდომებითაა</div> <div data-l10n-name="not-imported">(ვერ გადმოიტანა)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">შეცდომებითაა</div> <div data-l10n-name="not-imported">(ვერ გადმოიტანა)</div>
     }
 
 ## Logins import report page
