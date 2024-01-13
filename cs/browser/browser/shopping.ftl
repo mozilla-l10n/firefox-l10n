@@ -207,6 +207,7 @@ shopping-onboarding-single-subtitle =
     }
 shopping-onboarding-body = Pomocí funkce { -fakespot-brand-full-name } vám pomůžeme vyhnout se neobjektivním a neautentickým recenzím. Náš model umělé inteligence se neustále zdokonaluje, aby vás při nakupování chránil. <a data-l10n-name="learn_more">Dozvědět se více</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Výběrem možnosti “{ shopping-onboarding-opt-in-button }“ souhlasíte se <a data-l10n-name="privacy_policy">zásadami { -fakespot-brand-name(case: "gen") } pro ochranu osobních údajů</a> a <a data-l10n-name="terms_of_use">podmínkami používání.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Výběrem možnosti “{ shopping-onboarding-opt-in-button }“ souhlasíte se <a data-l10n-name="privacy_policy">zásadami ochrany osobních údajů</a> { -brand-product-name(case: "gen") } a <a data-l10n-name="terms_of_use">podmínkami používání služby { -fakespot-brand-name }</a>.
 shopping-onboarding-opt-in-button = Ano, vyzkoušet
 shopping-onboarding-not-now-button = Teď ne
 shopping-onboarding-dialog-close-button =
