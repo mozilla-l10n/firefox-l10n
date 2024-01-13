@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN 碼管理
 about-webauthn-credential-management-section-title = 管理登入資訊
 about-webauthn-pin-required-section-title = 必須輸入 PIN 碼
 about-webauthn-confirm-deletion-section-title = 確認刪除
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = 登記生物識別資訊
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = 請觸摸想要管理的安全性 token。
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = 由於您的安全性 Token 不支援 CTAP2，無法管理選項。
 about-webauthn-text-not-available = 與此平台不相容。
+about-webauthn-bio-enrollment-list-subsection-title = 登記項目：
+about-webauthn-add-bio-enrollment-section-title = 新增登記項目
 
 ## Results label
 
@@ -40,6 +44,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] 發生錯誤：PIN 碼不正確，請再試一次。您還有 { $retriesLeft } 次機會。
     }
 about-webauthn-results-pin-blocked-error = 發生錯誤：由於輸入了太多次錯誤的 PIN 碼，無法再嘗試登入。您的裝置已經鎖定，需要重設之後才可以再使用。
+about-webauthn-results-pin-not-set-error = 錯誤：未設定 PIN 碼，此操作需要 PIN 碼保護。
 about-webauthn-results-pin-too-short-error = 發生錯誤：輸入的 PIN 碼太短。
 about-webauthn-results-pin-too-long-error = 發生錯誤：輸入的 PIN 碼太長。
 about-webauthn-results-pin-auth-blocked-error = 發生錯誤：由於連續輸入太多次錯誤的 PIN 碼，驗證機制已暫時遭封鎖。您的裝置需要重新啟動（拔除再重新插入）才可繼續使用。
@@ -52,6 +57,8 @@ about-webauthn-repeat-pin-label = 再次輸入新 PIN 碼：
 about-webauthn-current-pin-label = 目前的 PIN 碼：
 about-webauthn-pin-required-label = 請輸入您的 PIN 碼：
 about-webauthn-credential-list-subsection-title = 帳號密碼：
+about-webauthn-enrollment-name-label = 登記項目名稱（選填）：
+about-webauthn-enrollment-list-empty = 裝置上沒有登記資訊。
 about-webauthn-credential-list-empty = 裝置上未儲存登入資訊。
 about-webauthn-confirm-deletion-label = 即將刪除：
 
@@ -61,9 +68,14 @@ about-webauthn-current-set-pin-button = 設定 PIN 碼
 about-webauthn-current-change-pin-button = 更改 PIN 碼
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = 列出登入資訊
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = 列出登記資訊
+about-webauthn-add-bio-enrollment-button = 新增登記資訊
 about-webauthn-cancel-button = 取消
 about-webauthn-send-pin-button = 確定
 about-webauthn-delete-button = 刪除
+about-webauthn-start-enrollment-button = 開始登記資訊
+about-webauthn-update-button = 更新
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -127,3 +139,12 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = 不支援
+
+## Bio enrollment sample feedbacks
+
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+
