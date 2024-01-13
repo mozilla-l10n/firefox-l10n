@@ -142,9 +142,30 @@ about-webauthn-auth-info-null = 不支援
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed = 還需要取樣 { $repeatCount } 次。
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = 取樣結果正常。
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = 取樣位置太高。
+about-webauthn-ctap2-enroll-feedback-too-low = 取樣位置太低。
+about-webauthn-ctap2-enroll-feedback-too-left = 取樣位置太左邊。
+about-webauthn-ctap2-enroll-feedback-too-right = 取樣位置太右邊。
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = 取樣動作太快。
+about-webauthn-ctap2-enroll-feedback-too-slow = 取樣動作太慢。
+about-webauthn-ctap2-enroll-feedback-poor-quality = 取樣品質不佳。
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = 取樣結果太扭曲。
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = 取樣結果合併失敗。
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = 取樣結果已經存在。
