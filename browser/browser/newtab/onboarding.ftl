@@ -327,3 +327,19 @@ onboarding-mobile-download-security-and-privacy-subtitle = { -brand-short-name }
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } 为您护航
 onboarding-gratitude-security-and-privacy-subtitle = 感谢使用由 Mozilla 基金会支持的 { -brand-short-name }。您的支持激励着我们为更开放、更美好且人人可用的互联网继续奋斗。
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = 您使用 { -brand-short-name } 多长时间了？
+onboarding-new-user-familiarity-based-survey-title = 您在多大程度上熟悉 { -brand-short-name }？
+onboarding-new-user-survey-subtitle = 您的反馈有助于改善 { -brand-short-name }。
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = 我是新用户
+onboarding-new-user-survey-time-based-option-2 = 不到一个月
+onboarding-new-user-survey-time-based-option-3 = 超过一个月，经常使用
+onboarding-new-user-survey-time-based-option-4 = 超过一个月，偶尔使用
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = 我是新用户
+onboarding-new-user-survey-familiarity-based-option-2 = 我已有一些了解
+onboarding-new-user-survey-familiarity-based-option-3 = 我已非常熟悉
+onboarding-new-user-survey-familiarity-based-option-4 = 我已有一段时间没使用了

@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN 管理
 about-webauthn-credential-management-section-title = 管理凭据
 about-webauthn-pin-required-section-title = 需输入 PIN
 about-webauthn-confirm-deletion-section-title = 确认删除
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = 生物特征注册
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = 请轻触设备来选择要使用的安全�
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = 无法管理选项，因为您的安全令牌不支持 CTAP2。
 about-webauthn-text-not-available = 无法在此平台上使用。
+about-webauthn-bio-enrollment-list-subsection-title = 注册信息：
+about-webauthn-add-bio-enrollment-section-title = 添加新注册信息
 
 ## Results label
 
@@ -40,6 +44,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] 错误：PIN 错误，请重试。您还有 { $retriesLeft } 次机会。
     }
 about-webauthn-results-pin-blocked-error = 错误：尝试机会已用完。由于 PIN 输入错误次数过多，此设备已被锁定，需进行重置。
+about-webauthn-results-pin-not-set-error = 发生错误：未设置 PIN。此操作需要 PIN 保护。
 about-webauthn-results-pin-too-short-error = 错误：输入的 PIN 过短。
 about-webauthn-results-pin-too-long-error = 错误：输入的 PIN 过长。
 about-webauthn-results-pin-auth-blocked-error = 错误：因连续尝试失败次数过多，已暂时禁止 PIN 身份验证。您需要重新上电设备（拔下重插）。
@@ -52,6 +57,8 @@ about-webauthn-repeat-pin-label = 再次输入新 PIN：
 about-webauthn-current-pin-label = 当前 PIN：
 about-webauthn-pin-required-label = 请输入您的 PIN：
 about-webauthn-credential-list-subsection-title = 凭据：
+about-webauthn-enrollment-name-label = 注册信息名称（可选）：
+about-webauthn-enrollment-list-empty = 此设备上没有找到注册信息。
 about-webauthn-credential-list-empty = 在设备上找不到凭据。
 about-webauthn-confirm-deletion-label = 您将要删除：
 
@@ -61,9 +68,14 @@ about-webauthn-current-set-pin-button = 设置 PIN
 about-webauthn-current-change-pin-button = 更改 PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = 列出凭据
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = 列出注册信息
+about-webauthn-add-bio-enrollment-button = 添加注册信息
 about-webauthn-cancel-button = 取消
 about-webauthn-send-pin-button = 确定
 about-webauthn-delete-button = 删除
+about-webauthn-start-enrollment-button = 开始注册
+about-webauthn-update-button = 更新
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -127,3 +139,36 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = 不支持
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed = 还需进行 { $repeatCount } 次采集。
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = 样本质量良好。
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = 样本位置偏上。
+about-webauthn-ctap2-enroll-feedback-too-low = 样本位置偏下。
+about-webauthn-ctap2-enroll-feedback-too-left = 样本位置偏左。
+about-webauthn-ctap2-enroll-feedback-too-right = 样本位置偏右。
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = 采集时停留时间过短。
+about-webauthn-ctap2-enroll-feedback-too-slow = 采集时停留时间过长。
+about-webauthn-ctap2-enroll-feedback-poor-quality = 样本质量不佳。
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = 样本过于偏斜。
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = 样本合并失败。
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = 样本已存在。
+about-webauthn-ctap2-enroll-feedback-no-user-activity = 没有来自用户的活动。
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = 用户未按预期完成采集。
+about-webauthn-ctap2-enroll-feedback-other = 采样错误。
