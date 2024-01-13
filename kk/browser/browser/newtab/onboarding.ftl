@@ -343,3 +343,7 @@ onboarding-mobile-download-security-and-privacy-subtitle = Синхрондал�
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } сізді қолдайды
 onboarding-gratitude-security-and-privacy-subtitle = Mozilla Foundation ұсынған { -brand-short-name } қолданбасын пайдаланғаныңыз үшін рахмет. Сіздің қолдауыңызбен біз интернетті қауіпсіздеу және әркім үшін қолжетімді ету үшін жұмыс істеп жатырмыз.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = { -brand-short-name } қолданып жүргеніңізге қанша уақыт болды?
