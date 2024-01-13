@@ -73,9 +73,17 @@ item-cache =
 item-cached-content =
     .label = დროებით მომარაგებული ფაილები და გვერდები
     .accesskey = გ
+item-cached-content-description = წაშლის გვერდების სწრაფად გახსნისთვის საჭირო ჩანაწერებს
 item-form-search-history =
     .label = შევსებული ველებისა და ძიების ისტორია
     .accesskey = შ
+item-site-prefs =
+    .label = საიტის პარამეტრები
+    .accesskey = პ
+item-site-prefs-description = საწყისზე დააბრუნებს მიცემულ ნებართვებსა და შერჩეულ პარამეტრებს საიტისთვის.
+item-download-history =
+    .label = ჩამოტვირთული ფაილების სია
+    .accesskey = ტ
 data-section-label = მონაცემები
 item-site-settings =
     .label = საიტის პარამეტრები
@@ -88,6 +96,8 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = გასუფთავება ახლავე
+sanitize-button-ok2 =
+    .label = გასუფთავება
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
