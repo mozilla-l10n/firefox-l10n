@@ -1032,13 +1032,17 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = צמצום כרזות עוגיות
+cookie-banner-handling-description = ‏{ -brand-short-name } מנסה באופן אוטומטי לדחות בקשות עוגיות בכרזות עוגיות באתרים נתמכים.
 
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = חוסם כרזות עוגיות
+cookie-banner-blocker-description = כשאתר שואל האם הוא יכול להשתמש בעוגיות במצב גלישה פרטית, { -brand-short-name } מסרב עבורך באופן אוטומטי. רק באתרים נתמכים.
 cookie-banner-learn-more = מידע נוסף
 forms-handle-cookie-banners =
     .label = צמצום כרזות עוגיות
+cookie-banner-blocker-checkbox-label =
+    .label = סירוב אוטומטי לכרזות עוגיות
 
 ## Privacy Section - Address Bar
 
