@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importar d’un autre n
 about-logins-menu-menuitem-import-from-a-file = Importar d’un fichièr…
 about-logins-menu-menuitem-export-logins = Exportar los identificants…
 about-logins-menu-menuitem-remove-all-logins = Suprimir totes los identificants…
+about-logins-menu-menuitem-export-logins2 = Exportar los senhals…
+about-logins-menu-menuitem-remove-all-logins2 = Suprimir totes los senhals…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
@@ -105,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Cercatz vòstres identificants sa
 about-logins-login-intro-heading-logged-in = Cap d’identificant sincronizat pas trobat.
 login-intro-description = Se salvatz vòstres identificants dins { -brand-product-name } sus un autre periferics, vaquí cossí i accedir aquí :
 login-intro-instructions-fxa = Connectatz-vos o creatz un { -fxaccount-brand-name } sul periferic ont son salvats los identificants.
+about-logins-login-intro-heading-message = Enregistratz vòstres senhals en lòc segur
 login-intro-instructions-fxa2 = Creatz o connectatz-vos a un compte ont son salvats los identificants.
 login-intro-instructions-fxa-settings = Anatz als Paramètres > Sincronizacion > Activar la sincronizacion… e marcatz la cassa « Identificants e senhals ».
 login-intro-instructions-fxa-passwords-help = Consultatz <a data-l10n-name="passwords-help-link">l’assisténcia dels senhals</a> per mai d’ajuda.
@@ -114,11 +117,12 @@ about-logins-intro-import2 = Se vòstres identificants de connexion e senhals so
 ## Login
 
 login-item-new-login-title = Crear un identificant novèl
+# Header for adding a password
+about-logins-login-item-new-login-title = Apondre un senhal
 login-item-edit-button = Modificar
 about-logins-login-item-remove-button = Suprimir
 login-item-origin-label = Adreça web
 login-item-tooltip-message = Asseguratz-vos que correspond a l’adreça exacta del site web ont vos autentificatz.
-about-logins-origin-tooltip = Asseguratz-vos que correspond a l’adreça exacta del site web ont vos autentificatz.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Asseguratz-vos d’enregistrar vòstre senhal actual per aqueste site. Lo cambiar aquí lo càmbia pas sus { $webTitle }.
@@ -136,6 +140,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = Copiat !
 login-item-save-changes-button = Enregistrar las modificacions
+about-logins-login-item-save-changes-button = Salvar
 login-item-save-new-button = Enregistrar
 login-item-cancel-button = Anullar
 
@@ -285,6 +290,9 @@ about-logins-export-file-picker-title = Exportar lo fichièr dels identificants
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = identificants.csv
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = senhals.csv
 about-logins-export-file-picker-export-button = Exportar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
