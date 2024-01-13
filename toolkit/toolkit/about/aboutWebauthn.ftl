@@ -161,4 +161,5 @@ about-webauthn-ctap2-enroll-feedback-too-right = Vzorka bola príliš vpravo.
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
 about-webauthn-ctap2-enroll-feedback-exists = Vzorka už existuje.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Žiadna aktivita od používateľa.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Používateľ nedokončil vytvorenie vzorky podľa očakávania.
 about-webauthn-ctap2-enroll-feedback-other = Chyba vzorky.
