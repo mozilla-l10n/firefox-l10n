@@ -143,10 +143,38 @@ about-webauthn-auth-info-null = Nicht unterstützt
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } Muster wird noch benötigt.
+       *[other] { $repeatCount } Muster werden noch benötigt.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Muster war gut.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Muster war zu hoch.
+about-webauthn-ctap2-enroll-feedback-too-low = Muster war zu niedrig.
+about-webauthn-ctap2-enroll-feedback-too-left = Muster war zu weit links.
+about-webauthn-ctap2-enroll-feedback-too-right = Muster war zu weit rechts.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Muster war zu schnell.
+about-webauthn-ctap2-enroll-feedback-too-slow = Muster war zu langsam.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Muster hatte schlechte Qualität.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Muster war zu schief.
+about-webauthn-ctap2-enroll-feedback-too-short = Muster war zu kurz.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Fehler beim Zusammenführen der Muster.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Muster existiert bereits.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Keine Aktivität vom Benutzer.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Benutzer hat die Musterabnahme nicht wie erwartet abgeschlossen.
+about-webauthn-ctap2-enroll-feedback-other = Musterfehler.
