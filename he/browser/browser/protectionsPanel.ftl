@@ -137,6 +137,7 @@ protections-panel-cookie-banner-blocker-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = להשבית חוסם כרזות עוגיות לאתר { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = להפעיל חוסם כרזות עוגיות לאתר הזה?
+protections-panel-cookie-banner-view-cookie-clear-warning = ‏{ -brand-short-name } ינקה את העוגיות של אתר זה וירענן את הדף. ניקוי כל העוגית עשוי לנתק את החשבון שלך מהאתר או לרוקן את עגלת הקניות שלך.
 protections-panel-cookie-banner-view-cancel = ביטול
 protections-panel-cookie-banner-view-turn-off = כיבוי
 protections-panel-cookie-banner-view-turn-on = הפעלה
