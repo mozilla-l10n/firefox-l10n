@@ -177,3 +177,4 @@ about-webauthn-ctap2-enroll-feedback-exists = Il campione è già presente.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Nessuna attività utente.
 about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = L’utente non ha completato il campionamento come previsto.
 about-webauthn-ctap2-enroll-feedback-other = Errore nel campione.
+
