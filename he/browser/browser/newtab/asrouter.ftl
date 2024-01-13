@@ -239,6 +239,7 @@ device-migration-fxa-spotlight-older-device-header = שקט נפשי, מאת { -
 device-migration-fxa-spotlight-older-device-body = השימוש בחשבון שומר על המידע החשוב שלך מעודכן ומוגן בכל מכשיר שיחובר אליו.
 device-migration-fxa-spotlight-older-device-primary-button = יצירת חשבון
 device-migration-fxa-spotlight-getting-new-device-header-2 = יהיה לך מכשיר חדש בעתיד?
+device-migration-fxa-spotlight-getting-new-device-body-2 = בכמה צעדים פשוטים ניתן להביא איתך את הסימניות, ההיסטוריה והססמאות שלך בעת תחילת שימוש במכשיר חדש.
 device-migration-fxa-spotlight-getting-new-device-primary-button = כיצד לגבות את הנתונים שלי
 
 ## Set as Default PDF Reader Infobar
