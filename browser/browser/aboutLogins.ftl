@@ -263,7 +263,6 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Ja, fjern adgangskoden
-        [one] { "" }
        *[other] Ja, fjern adgangskoder
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
@@ -276,7 +275,6 @@ about-logins-confirm-remove-all-dialog-title2 =
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
         [1] Dette vil fjerne adgangskoden, der er gemt i { -brand-short-name }, samt alle advarsler om datalæk. Du kan ikke fortryde denne handling.
-        [one] { "" }
        *[other] Dette vil fjerne adgangskoderne, der er gemt i { -brand-short-name }, samt alle advarsler om datalæk. Du kan ikke fortryde denne handling.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
@@ -289,7 +287,6 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Denne handling fjerner adgangskoden gemt i { -brand-short-name } på alle dine synkroniserede enheder. Handlingen vil også fjerne alle advarsler om datalæk, der vises her. Du kan ikke fortryde denne handling.
-        [one] { "" }
        *[other] Denne handling fjerner alle adgangskoder gemt i { -brand-short-name } på alle dine synkroniserede enheder. Handlingen vil også fjerne alle advarsler om datalæk, der vises her. Du kan ikke fortryde denne handling.
     }
 
