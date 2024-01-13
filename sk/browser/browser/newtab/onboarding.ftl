@@ -343,3 +343,19 @@ onboarding-mobile-download-security-and-privacy-subtitle = Počas synchronizáci
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vám kryje chrbát
 onboarding-gratitude-security-and-privacy-subtitle = Ďakujeme, že používate { -brand-short-name } podporovaný Mozilla Foundation. S vašou podporou pracujeme na tom, aby bol internet bezpečnejší a prístupnejší pre každého.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Ako dlho používate { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Ako dobre poznáte prehliadač { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Vaša spätná väzba pomáha ešte viac vylepšiť { -brand-short-name }.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Som úplný nováčik
+onboarding-new-user-survey-time-based-option-2 = Menej ako 1 mesiac
+onboarding-new-user-survey-time-based-option-3 = Viac ako 1 mesiac, pravidelne
+onboarding-new-user-survey-time-based-option-4 = Viac ako 1 mesiac, príležitostne
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Som úplný nováčik
+onboarding-new-user-survey-familiarity-based-option-2 = Už som ho trochu používal
+onboarding-new-user-survey-familiarity-based-option-3 = Poznám ho dobre
+onboarding-new-user-survey-familiarity-based-option-4 = Používal som ho v minulosti, ale už je to dávno
