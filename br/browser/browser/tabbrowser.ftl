@@ -103,11 +103,11 @@ tabbrowser-confirm-close-tabs-button = Serriñ an ivinelloù
 #   $windowCount (Number): The number of windows that will be closed.
 tabbrowser-confirm-close-windows-title =
     { $windowCount ->
-        [one] Serriñ { $tabCount } prenestr?
-        [two] Serriñ { $tabCount } brenestr?
-        [few] Serriñ { $tabCount } frenestr?
-        [many] Serriñ { $tabCount } a brenestroù?
-       *[other] Serriñ { $tabCount } prenestr?
+        [one] Serriñ { $windowCount } prenestr?
+        [two] Serriñ { $windowCount } brenestr?
+        [few] Serriñ { $windowCount } frenestr?
+        [many] Serriñ { $windowCount } a brenestroù?
+       *[other] Serriñ { $windowCount } prenestr?
     }
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->

@@ -10,9 +10,9 @@ search-header =
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-list-empty-get-extensions-message = Kit da dapout askouezhioù ha neuzioù war <a data-l10n-name="get-extensions"></a>
-list-empty-get-dictionaries-message = Kit da dapout geriadurioù war <a data-l10n-name="get-extensions"></a>
-list-empty-get-language-packs-message = Kit da dapout pakadoù yezh war <a data-l10n-name="get-extensions"></a>
+list-empty-get-extensions-message = Kit da dapout askouezhioù ha neuzioù war <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = Kit da dapout geriadurioù war <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = Kit da dapout pakadoù yezh war <a data-l10n-name="get-extensions">{ $domain }</a>
 
 ##
 
