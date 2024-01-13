@@ -339,3 +339,8 @@ onboarding-easy-setup-security-and-privacy-title = Vi vernar deg gjerne
 onboarding-easy-setup-security-and-privacy-subtitle = Den ideelle nettlesaren vår hindrar selskap i å spore aktiviteten din i hemmelegheit på nettet.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Krypter dataa dine når du arbeider på tvers av einingar
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } passar på deg
+
+## New user time and familiarity survey strings
+

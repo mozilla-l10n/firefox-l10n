@@ -270,6 +270,7 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 about-logins-confirm-export-dialog-title = Eksporter innloggingar og passord
 about-logins-confirm-export-dialog-message = Passorda dine vert lagra som lesbar tekst (t.d. DårlegP@ss0rd), slik at alle som kan åpne den eksporterte fila kan sjå dei.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
+about-logins-confirm-export-dialog-title2 = Ein merknad om eksport av passord
 about-logins-confirm-export-dialog-confirm-button2 = Hald fram med eksport
 about-logins-alert-import-title = Import fullført
 about-logins-alert-import-message = Vis detaljert importoversikt
@@ -392,6 +393,8 @@ about-logins-import-report-row-index = Rad { $number }
 about-logins-import-report-row-description-no-change = Duplikat: Nøyaktig samsvar med eksisterande innlogging
 about-logins-import-report-row-description-modified = Eksisterande innlogging oppdatert
 about-logins-import-report-row-description-added = Ny innlogging lagt til
+about-logins-import-report-row-description-modified2 = Eksisterande oppføring oppdatert
+about-logins-import-report-row-description-added2 = Nytt passord lagt til
 about-logins-import-report-row-description-error = Feil: Manglar felt
 
 ##
