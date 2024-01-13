@@ -67,6 +67,7 @@ about-webauthn-list-credentials-button = Zobraziť prihlasovacie údaje
 about-webauthn-cancel-button = Zrušiť
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Odstrániť
+about-webauthn-update-button = Aktualizovať
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -130,3 +131,34 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Nepodporované
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Ešte je potrebná { $repeatCount } vzorka.
+        [few] Ešte sú potrebné { $repeatCount } vzorky.
+        [many] Ešte je potrebných { $repeatCount } vzoriek.
+       *[other] Ešte je potrebných { $repeatCount } vzoriek.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Vzorka bola dobrá.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = Vzorka bola príliš vysoko.
+about-webauthn-ctap2-enroll-feedback-too-low = Vzorka bola príliš nízko.
+about-webauthn-ctap2-enroll-feedback-too-left = Vzorka bola príliš vľavo.
+about-webauthn-ctap2-enroll-feedback-too-right = Vzorka bola príliš vpravo.
+
+##
+
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Vzorka už existuje.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Žiadna aktivita od používateľa.
+about-webauthn-ctap2-enroll-feedback-other = Chyba vzorky.
