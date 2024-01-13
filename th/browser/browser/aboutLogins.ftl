@@ -415,14 +415,6 @@ about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">การเข้าสู่ระบบที่ซ้ำกัน</div> <div data-l10n-name="not-imported">(ไม่ได้นำเข้า)</div>
     }
-about-logins-import-report-added2 =
-    { $count ->
-       *[other] <div data-l10n-name="details">เพิ่ม</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">รหัสผ่านใหม่แล้ว</div>
-    }
-about-logins-import-report-modified2 =
-    { $count ->
-       *[other] <div data-l10n-name="details">อัปเดต</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">รายการที่มีอยู่แล้ว</div>
-    }
 about-logins-import-report-no-change2 =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">รายการที่ซ้ำกัน</div> <div data-l10n-name="not-imported">(ไม่ได้นำเข้า)</div>

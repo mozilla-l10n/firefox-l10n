@@ -186,8 +186,8 @@ shopping-onboarding-dynamic-subtitle-1 = ดูว่าบทวิจารณ
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = ดูว่าบทวิจารณ์ผลิตภัณฑ์น่าเชื่อถือแค่ไหนใน <b>{ $currentSite }</b> ก่อนตัดสินใจซื้อ ตัวตรวจสอบบทวิจารณ์ ซึ่งเป็นคุณลักษณะทดลองจาก { -brand-product-name } ถูกบรรจุไว้ภายในตัวเบราว์เซอร์โดยตรง
 shopping-onboarding-body = ด้วยการใช้พลังของ { -fakespot-brand-full-name } เราช่วยคุณหลีกเลี่ยงบทวิจารณ์ที่มีอคติและไม่น่าไว้วางใจ โมเดล AI ของเราจะปรับปรุงอยู่เสมอเพื่อปกป้องคุณในขณะที่คุณซื้อของ <a data-l10n-name="learn_more">เรียนรู้เพิ่มเติม</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = การเลือก “{ shopping-onboarding-opt-in-button }“ แสดงว่าคุณยอมรับ<a data-l10n-name="privacy_policy">นโยบายความเป็นส่วนตัว</a>และ <a data -l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-name }
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = การเลือก “{ shopping-onboarding-opt-in-button }“ แสดงว่าคุณยอมรับ<a data-l10n-name="privacy_policy">นโยบายความเป็นส่วนตัว</a>ของ { -brand-product-name } และ <a data -l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-name }
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = การเลือก “{ shopping-onboarding-opt-in-button }“ แสดงว่าคุณยอมรับ<a data-l10n-name="privacy_policy">นโยบายความเป็นส่วนตัว</a>และ <a data-l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-name }
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = การเลือก “{ shopping-onboarding-opt-in-button }“ แสดงว่าคุณยอมรับ<a data-l10n-name="privacy_policy">นโยบายความเป็นส่วนตัว</a>ของ { -brand-product-name } และ <a data-l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-name }
 shopping-onboarding-opt-in-button = ใช่ ลองใช้เลย
 shopping-onboarding-not-now-button = ไม่ใช่ตอนนี้
 shopping-onboarding-dialog-close-button =
