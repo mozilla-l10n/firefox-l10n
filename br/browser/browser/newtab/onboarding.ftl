@@ -279,3 +279,8 @@ onboarding-device-migration-primary-button-label = Kennaskañ
 onboarding-easy-setup-security-and-privacy-title = Ho surentez a zo talvoudus deomp
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } a souten ac’hanoc’h bepred
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Pegeit zo emaoc’h oc’h implij { -brand-short-name }?
+onboarding-new-user-survey-time-based-option-2 = Nebeutoc’h eget 1 miz
