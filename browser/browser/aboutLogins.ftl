@@ -264,12 +264,37 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [1] დიახ, წაიშალოს პაროლი
        *[other] დიახ, წაიშალოს პაროლები
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] წაიშალოს { $count } პაროლი?
+       *[other] წაიშალოს { $count } პაროლი?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [one] შედეგად წაიშლება პაროლი, რომელსაც ინახავს { -brand-short-name } და მიტაცების შესახებ შეტყობინებები. ეს ქმედება შეუქცევადია.
+       *[other] შედეგად წაიშლება პაროლები, რომელთაც ინახავს { -brand-short-name } და მიტაცების შესახებ შეტყობინებები. ეს ქმედება შეუქცევადია.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] წაიშალოს { $count } პაროლი ყველა მოწყობილობიდან?
+       *[other] წაიშალოს { $count } პაროლი ყველა მოწყობილობიდან?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [one] შედეგად წაიშლება პაროლი, რომელსაც ინახავს { -brand-short-name } ყველა დასინქრონებულ მოწყობილობაზე. აგრეთვე მოცილდება მიტაცების შესახებ შეტყობინებები. ეს ქმედება შეუქცევადია.
+       *[other] შედეგად წაიშლება პაროლები, რომელთაც ინახავს { -brand-short-name } ყველა დასინქრონებულ მოწყობილობაზე. აგრეთვე მოცილდება მიტაცების შესახებ შეტყობინებები. ეს ქმედება შეუქცევადია.
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = მონაცემებისა და პაროლების გატანა
 about-logins-confirm-export-dialog-message = თქვენი პაროლები შეინახება წასაკითხ ტექსტად (მაგ. BadP@ssw0rd) ასე რომ, ნებისმიერს შეეძლება მათი ნახვა, თუ გატანილ ფაილს გახსნის.
 about-logins-confirm-export-dialog-confirm-button = გატანა…
+about-logins-confirm-export-dialog-title2 = შენიშვნა პაროლების გატანის შესახებ
 about-logins-alert-import-title = გადმოტანა დასრულდა
 about-logins-alert-import-message = იხილეთ სრულად გადმოტანის შესახებ
 confirm-discard-changes-dialog-title = გაუქმდეს შეუნახავი ცვლილებები?
