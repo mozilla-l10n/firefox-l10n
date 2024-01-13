@@ -185,6 +185,21 @@ media-codec-support-codec-name = Nomo de kodeko
 media-codec-support-supported = Subtenata
 media-codec-support-unsupported = Ne subtenata
 media-codec-support-error = Ne estas informo pri subteno de kodeko. Provu denove post ludado de aŭvidaĵa dosiero.
+media-codec-support-lack-of-extension = Instali etendaĵon
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Informo pri moduloj de malĉifro de enhavo
+media-key-system-name = Nomo de ŝlosila sistemo
+media-video-robustness = Fortikeco videa
+media-audio-robustness = Fortikeco sona
+media-cdm-capabilities = Kapabloj
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Neĉifrita komenco
 
 ##
 
