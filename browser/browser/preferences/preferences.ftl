@@ -612,6 +612,9 @@ search-suggestions-desc = მიუთითეთ, თუ როგორ გ�
 search-suggestions-option =
     .label = ძიების შემოთავაზებები
     .accesskey = ძ
+search-show-suggestions-option =
+    .label = ძიების შემოთავაზების ჩვენება
+    .accesskey = ზ
 search-show-suggestions-url-bar-option =
     .label = ძიების შემოთავაზებები მისამართების ველის შედეგებში
     .accesskey = ძ
@@ -745,8 +748,10 @@ sync-currently-syncing-bookmarks = სანიშნები
 sync-currently-syncing-history = ისტორია
 sync-currently-syncing-tabs = გახსნილი ჩანართები
 sync-currently-syncing-logins-passwords = ანგარიშები და პაროლები
+sync-currently-syncing-passwords = პაროლები
 sync-currently-syncing-addresses = მისამართები
 sync-currently-syncing-creditcards = საკრედიტო ბარათები
+sync-currently-syncing-payment-methods = გადახდის საშუალებები
 sync-currently-syncing-addons = დამატებები
 sync-currently-syncing-settings = პარამეტრები
 sync-change-options =
@@ -777,6 +782,10 @@ sync-engine-logins-passwords =
     .label = ანგარიშები და პაროლები
     .tooltiptext = მომხმარებლის შენახული სახელები და პაროლები
     .accesskey = ო
+sync-engine-passwords =
+    .label = პაროლები
+    .tooltiptext = შენახული პაროლები
+    .accesskey = პ
 sync-engine-addresses =
     .label = მისამართები
     .tooltiptext = შენახული საფოსტო მისამართები (კომპიუტერზე მხოლოდ)
@@ -785,6 +794,10 @@ sync-engine-creditcards =
     .label = საკრედიტო ბარათები
     .tooltiptext = სახელები, ნომრები და ვადები (კომპიუტერზე მხოლოდ)
     .accesskey = კ
+sync-engine-payment-methods2 =
+    .label = გადახდის საშუალებები
+    .tooltiptext = სახელები, ბარათის ნომრები, ვადის თარიღები
+    .accesskey = უ
 sync-engine-addons =
     .label = დამატებები
     .tooltiptext = Firefox სამაგიდო ვერსიის გაფართოებები და თემები
@@ -831,18 +844,35 @@ pane-privacy-logins-and-passwords-header = ანგარიშის სახ
 forms-ask-to-save-logins =
     .label = საიტებზე შესვლის მონაცემების დამახსოვრების მოთხოვნა
     .accesskey = შ
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = პაროლები
+    .searchkeywords = ანგარიშები
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = პაროლის შენახვის მოთხოვნა
+    .accesskey = თ
 forms-exceptions =
     .label = გამონაკლისები…
     .accesskey = ნ
 forms-generate-passwords =
     .label = ძლიერი პაროლების შემოთავაზება და შედგენა
     .accesskey = ზ
+forms-suggest-passwords =
+    .label = მძლავრი პაროლის შემოთავაზება…
+    .accesskey = მ
 forms-breach-alerts =
     .label = შეტყობინება პაროლებზე იერიშმიტანილი საიტებისთვის
     .accesskey = შ
 forms-breach-alerts-learn-more-link = ვრცლად
 preferences-relay-integration-checkbox =
     .label = { -relay-brand-name } შემოთავაზება, დაიცვას ელფოსტა მისი შენიღბვით
+preferences-relay-integration-checkbox2 =
+    .label = { -relay-brand-name } შემოთავაზება, დაიცვას ელფოსტა მისი შენიღბვით
+    .accesskey = ფ
 relay-integration-learn-more-link = ვრცლად
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -851,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = შენახული შესვლები…
     .accesskey = შ
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = მომხმარებლის სახელებისა და პაროლების თვითშევსება
+    .accesskey = ო
+forms-saved-passwords =
+    .label = შენახული პაროლები
+    .accesskey = ო
 forms-primary-pw-use =
     .label = მთავარი პაროლის გამოყენება
     .accesskey = გ
@@ -874,6 +911,7 @@ forms-windows-sso =
     .label = Windows-ით ერთიანად შესვლის დაშვება, Microsoft-ის, სამუშაოს ან სკოლის ანგარიშებზე
 forms-windows-sso-learn-more-link = ვრცლად
 forms-windows-sso-desc = ანგარიშების მართვა, მოწყობილობის პარამეტრებიდან
+windows-passkey-settings-label = პაროლის გასაღებების მართვა სისტემის პარამეტრებში
 
 ## OS Authentication dialog
 
@@ -885,6 +923,20 @@ primary-password-os-auth-dialog-message-win = მთავარი პარო
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = მთავარი პაროლის დაყენებას
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = თვითშევსება
+autofill-addresses-checkbox = მისამართების შენახვა და თვითშევსება
+    .accesskey = ე
+autofill-saved-addresses-button = შენახული მისამართები
+    .accesskey = ს
+autofill-payment-methods-checkbox-message = შეინახეთ და შეავსეთ გადახდის საშუალებები
+    .accesskey = ნ
+autofill-payment-methods-checkbox-submessage = საკრედიტო და სადებეტო ბარათების დართვა
+    .accesskey = ვ
+autofill-saved-payment-methods-button = შენახული გადახდის საშუალებები
+    .accesskey = ხ
 
 ## Privacy Section - History
 
