@@ -362,6 +362,8 @@ about-logins-export-file-picker-title = Экспартаваны файл лаг
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = дадзеныя-для-ўваходу.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Экспарт пароляў з { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = passwords.csv

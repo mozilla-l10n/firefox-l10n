@@ -343,3 +343,7 @@ onboarding-mobile-download-security-and-privacy-subtitle = Калі вы сін�
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } прыкрывае вас
 onboarding-gratitude-security-and-privacy-subtitle = Дзякуй за выкарыстанне { -brand-short-name }, які падтрымліваецца Mozilla Foundation. З вашай падтрымкай мы працуем над тым, каб зрабіць Інтэрнэт больш бяспечным і даступным для кожнага.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-survey-time-based-option-2 = Менш за 1 месяц
