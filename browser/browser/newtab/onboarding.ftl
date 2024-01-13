@@ -284,3 +284,18 @@ onboarding-device-migration-primary-button-label = כניסה
 onboarding-easy-setup-security-and-privacy-title = אנחנו אוהבים לשמור עליך
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = להישאר מוצפן במעבר בין מכשירים
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = במשך כמה זמן השתמשת ב־{ -brand-short-name }?
+onboarding-new-user-survey-subtitle = המשוב שלך עוזר להפוך את { -brand-short-name } לטוב עוד יותר.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = אני חדש לגמרי
+onboarding-new-user-survey-time-based-option-2 = פחות מחודש
+onboarding-new-user-survey-time-based-option-3 = יותר מחודש, באופן קבוע
+onboarding-new-user-survey-time-based-option-4 = יותר מחודש, מדי פעם
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = אני חדש לגמרי
+onboarding-new-user-survey-familiarity-based-option-2 = השתמשתי בו קצת
+onboarding-new-user-survey-familiarity-based-option-3 = אני מאוד מכיר את זה
+onboarding-new-user-survey-familiarity-based-option-4 = השתמשתי בו בעבר, אבל עבר זמן מה
