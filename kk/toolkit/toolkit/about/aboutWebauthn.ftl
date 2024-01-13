@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN кодтарын басқару
 about-webauthn-credential-management-section-title = Тіркелу деректерін басқару
 about-webauthn-pin-required-section-title = PIN коды керек
 about-webauthn-confirm-deletion-section-title = Өшіруді растау
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Биометриялық тіркелулер
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Құрылғыны түрту арқылы �
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Параметрлерді басқару мүмкін емес, себебі қауіпсіздік токені CTAP2 қолдамайды.
 about-webauthn-text-not-available = Бұл платформада қолжетімді емес.
+about-webauthn-bio-enrollment-list-subsection-title = Тіркелулер:
+about-webauthn-add-bio-enrollment-section-title = Жаңа тіркелуді қосу
 
 ## Results label
 
@@ -41,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Қате: PIN коды жарамсыз. Қайталап көріңіз. Сізде { $retriesLeft } рет талап қалды.
     }
 about-webauthn-results-pin-blocked-error = Қате: Код енгізу талаптары енді қалмады және құрылғыңыз құлыпталды, себебі қате PIN коды тым көп рет енгізілген. Құрылғыны қалпына келтіру қажет.
+about-webauthn-results-pin-not-set-error = Қате: PIN коды орнатылмаған. Бұл әрекет PIN кодымен қорғауды қажет етеді.
 about-webauthn-results-pin-too-short-error = Қате: көрсетілген PIN коды тым қысқа.
 about-webauthn-results-pin-too-long-error = Қате: көрсетілген PIN коды тым ұзын.
 about-webauthn-results-pin-auth-blocked-error = Қате: Қатарынан тым көп сәтсіз әрекет болды және PIN аутентификациясы уақытша бұғатталды. Құрылғыңызға қуат циклі қажет (қуат көзінен ажыратып, қайта қосыңыз).
@@ -53,6 +58,8 @@ about-webauthn-repeat-pin-label = Жаңа PIN кодын қайталау:
 about-webauthn-current-pin-label = Ағымдағы PIN коды:
 about-webauthn-pin-required-label = PIN кодыңызды енгізіңіз:
 about-webauthn-credential-list-subsection-title = Тіркелу мәліметтері:
+about-webauthn-enrollment-name-label = Тіркелу атауы (міндетті емес):
+about-webauthn-enrollment-list-empty = Құрылғыда тіркелулер табылмады.
 about-webauthn-credential-list-empty = Құрылғыда тіркелу мәліметтері табылмады.
 about-webauthn-confirm-deletion-label = Сіз өшіргелі тұрсыз:
 
@@ -62,9 +69,14 @@ about-webauthn-current-set-pin-button = PIN кодын орнату
 about-webauthn-current-change-pin-button = PIN кодын өзгерту
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Тіркелу мәліметтерін тізіп шығару
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Тіркелулер тізімін көрсету
+about-webauthn-add-bio-enrollment-button = Тіркелуді қосу
 about-webauthn-cancel-button = Бас тарту
 about-webauthn-send-pin-button = ОК
 about-webauthn-delete-button = Өшіру
+about-webauthn-start-enrollment-button = Тіркелуді бастау
+about-webauthn-update-button = Жаңарту
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -128,3 +140,41 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Қолдауы жоқ
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Әлі де { $repeatCount } үлгі керек.
+       *[other] Әлі де { $repeatCount } үлгі керек.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Үлгі жақсы болды.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = Үлгі тым жоғары болды.
+about-webauthn-ctap2-enroll-feedback-too-low = Үлгі тым төмен болды.
+about-webauthn-ctap2-enroll-feedback-too-left = Үлгі тым сол жақта болды.
+about-webauthn-ctap2-enroll-feedback-too-right = Үлгі тым оң жақта болды.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = Үлгі тым жылдам болды.
+about-webauthn-ctap2-enroll-feedback-too-slow = Үлгі тым баяу болды.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Үлгі сапасы төмен болды.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Үлгі тым бұрмаланған болды.
+about-webauthn-ctap2-enroll-feedback-too-short = Үлгі тым қысқа болды.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Үлгілерді біріктіру сәтсіз аяқталды.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Үлгі бар болып тұр.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Пайдаланушыдан әрекет жоқ.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Пайдаланушы үлгі қалдыруды күткендей аяқтамады.
+about-webauthn-ctap2-enroll-feedback-other = Үлгі қатесі.
