@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Akreditiloj por la jenaj retejoj ne estos konservitaj
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Esceptoj - konservitaj pasvortoj
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } ne konservos pasvortojn por la retejoj listigitaj ĉi tie.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
