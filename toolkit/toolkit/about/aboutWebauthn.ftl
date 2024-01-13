@@ -135,9 +135,27 @@ about-webauthn-auth-info-null = Nepodporováno
 
 ## Bio enrollment sample feedbacks
 
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Vzorek byl dobrý.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Vzorek byl příliš vysoký.
+about-webauthn-ctap2-enroll-feedback-too-low = Vzorek byl příliš nízký.
+about-webauthn-ctap2-enroll-feedback-too-left = Vzorek byl příliš vlevo.
+about-webauthn-ctap2-enroll-feedback-too-right = Vzorek byl příliš vpravo.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Vzorek byl příliš rychlý.
+about-webauthn-ctap2-enroll-feedback-too-slow = Vzorek byl příliš pomalý.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Vzorek měl špatnou kvalitu.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Vzorek byl příliš zkreslený.
+about-webauthn-ctap2-enroll-feedback-too-short = Vzorek byl příliš krátký.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Selhání sloučení vzorků.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Vzorek již existuje.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Žádná aktivita uživatele.
+about-webauthn-ctap2-enroll-feedback-other = Chyba vzorku.
