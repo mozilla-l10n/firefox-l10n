@@ -151,6 +151,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Malŝalti
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Ŝalti
+protections-panel-report-broken-site =
+    .label = Raporti ne bone funkciantan retejon
+    .title = Raporti ne bone funkciantan retejon
 
 ## Protections panel info message
 
