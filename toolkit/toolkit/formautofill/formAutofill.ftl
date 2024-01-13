@@ -31,3 +31,6 @@ credit-card-update-doorhanger-description = Карта для абнаўленн
 credit-card-capture-save-new-button =
     .label = Захаваць як новую карту
     .accessKey = н
+credit-card-capture-update-button =
+    .label = Абнавіць наяўную карту
+    .accessKey = ў
