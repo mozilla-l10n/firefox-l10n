@@ -357,3 +357,6 @@ onboarding-new-user-survey-time-based-option-3 = 1 ਮਹੀਨੇ ਤੋਂ ਵ
 onboarding-new-user-survey-time-based-option-4 = 1 ਮਹੀਨੇ ਤੋਂ ਵੱਧ, ਕਦੇ-ਕਦਾਈਂ
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = ਮੈਂ ਬਿਲਕੁਲ ਨਵਾਂ ਹਾਂ
+onboarding-new-user-survey-familiarity-based-option-2 = ਮੈਂ ਇਸ ਨੂੰ ਵਰਤਦਾ/ਵਰਤਦੀ ਹਾਂ ਕੁਝ
+onboarding-new-user-survey-familiarity-based-option-3 = ਮੈਂ ਇਸ ਨਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣੂ ਹਾਂ
+onboarding-new-user-survey-familiarity-based-option-4 = ਮੈ ਪਹਿਲਾਂ ਵਰਤਿਆ ਸੀ, ਪਰ ਇਸ ਨੂੰ ਚਿਰ ਹੋ ਗਿਆ ਹੈ
