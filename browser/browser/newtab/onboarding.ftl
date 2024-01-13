@@ -344,3 +344,19 @@ onboarding-mobile-download-security-and-privacy-subtitle = Sche ti la sincronisa
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ta sustegna adina
 onboarding-gratitude-security-and-privacy-subtitle = Grazia per utilisar { -brand-short-name } da la Mozilla Foundation. Cun tes agid lavurain nus per crear in internet pli segir ed accessibel per ina e mintgin.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Quant ditg dovras ti { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Quant bain enconuschas ti { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Tes resun ans gida dad optimar vinavant { -brand-short-name }.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Jau hai gist cumenzà
+onboarding-new-user-survey-time-based-option-2 = Damain che 1 mais
+onboarding-new-user-survey-time-based-option-3 = Dapli che 1 mais, regularmain
+onboarding-new-user-survey-time-based-option-4 = Dapli che 1 mais, da temp en temp
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Jau n’al enconusch insumma betg
+onboarding-new-user-survey-familiarity-based-option-2 = Jau al hai utilisà in pèr giadas
+onboarding-new-user-survey-familiarity-based-option-3 = Jau al enconusch fitg bain
+onboarding-new-user-survey-familiarity-based-option-4 = Jau al hai utilisà en il passà, ma quai è gia daditg

@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Administraziun da PINs
 about-webauthn-credential-management-section-title = Administrar datas d'annunzia
 about-webauthn-pin-required-section-title = PIN obligatoric
 about-webauthn-confirm-deletion-section-title = Confermar per stizzar
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Registraziuns biometricas
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Tscherna per plaschair tes token da segirezz
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Impussibel dad administrar las opziuns perquai che tes token da segirezza na sustegna betg CTAP2.
 about-webauthn-text-not-available = Betg disponibel sin questa plattafurma.
+about-webauthn-bio-enrollment-list-subsection-title = Registraziuns:
+about-webauthn-add-bio-enrollment-section-title = Agiuntar ina nova registraziun
 
 ## Results label
 
@@ -41,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Errur: PIN nuncorrect. Emprova anc ina giada. Ti has anc { $retriesLeft } emprovas.
     }
 about-webauthn-results-pin-blocked-error = Errur: I na restan naginas emprovas pli e tes apparat è bloccà perquai ch'igl è vegnì endatà memia savens in PIN nuncorrect. L'apparat sto vegnir reavià.
+about-webauthn-results-pin-not-set-error = Errur: Il PIN n’è betg definì. Questa operaziun pretenda in PIN da protecziun.
 about-webauthn-results-pin-too-short-error = Errur: Il PIN inditgà è memia curt.
 about-webauthn-results-pin-too-long-error = Errur: Il PIN inditgà è memia lung.
 about-webauthn-results-pin-auth-blocked-error = Errur: Igl ha dà memia bleras emprovas betg reussidas ina suenter l'autra. L'autentificaziun cun agid dal PIN è bloccada temporarmain. Tes apparat sto vegnir deconnectà e suenter reconnectà al current (sfitgar e puspè fitgar il cabel).
@@ -53,6 +58,8 @@ about-webauthn-repeat-pin-label = Repeter il nov PIN:
 about-webauthn-current-pin-label = PIN actual:
 about-webauthn-pin-required-label = Endatescha per plaschair tes PIN:
 about-webauthn-credential-list-subsection-title = Infurmaziuns d'annunzia:
+about-webauthn-enrollment-name-label = Num da la registraziun (facultativ):
+about-webauthn-enrollment-list-empty = Naginas registraziuns chattadas sin quest apparat.
 about-webauthn-credential-list-empty = Na chattà naginas datas d'annunzia sin l'apparat.
 about-webauthn-confirm-deletion-label = Ti es per stizzar:
 
@@ -62,9 +69,14 @@ about-webauthn-current-set-pin-button = Definir il PIN
 about-webauthn-current-change-pin-button = Midar il PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Glista cun datas d'annunzia
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Glista da las registraziuns
+about-webauthn-add-bio-enrollment-button = Agiuntar ina registraziun
 about-webauthn-cancel-button = Interrumper
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Stizzar
+about-webauthn-start-enrollment-button = Cumenzar cun la registraziun
+about-webauthn-update-button = Actualisar
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -128,3 +140,12 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Betg sustegnì
+
+## Bio enrollment sample feedbacks
+
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+
