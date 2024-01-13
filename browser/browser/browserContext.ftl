@@ -78,6 +78,12 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name }
     .tooltiptext = { -fxaccount-brand-name }
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = Compte
+    .tooltiptext = Comptes
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -291,6 +297,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Utilizar identificant salvat
     .accesskey = U
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Utilizar senhal salvat
     .accesskey = U
@@ -305,6 +312,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = S
 main-context-menu-manage-logins2 =
     .label = Gerir los identificants
+    .accesskey = G
+main-context-menu-manage-passwords =
+    .label = Gestion dels senhals
     .accesskey = G
 main-context-menu-keyword =
     .label = Apondre un mot clau per aquesta recèrca…
