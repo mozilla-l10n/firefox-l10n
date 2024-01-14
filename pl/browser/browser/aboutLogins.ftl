@@ -175,6 +175,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Aby zmienić dane logowania
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = zmiana zachowanych danych logowania
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Aby zmienić hasło, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = zmiana zachowanego hasła
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Aby wyświetlić hasło, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -190,6 +195,11 @@ about-logins-export-password-os-auth-dialog-message-win = Aby wyeksportować dan
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = wyeksportowanie zachowanych danych logowania i haseł
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Aby wyeksportować hasła, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = wyeksportowanie zachowanych haseł
 
 ## Primary Password notification
 
@@ -204,7 +214,11 @@ confirmation-dialog-cancel-button = Anuluj
 confirmation-dialog-dismiss-button =
     .title = Anuluj
 about-logins-confirm-remove-dialog-title = Czy usunąć te dane logowania?
-confirm-delete-dialog-message = Tej czynności nie można cofnąć.
+confirm-delete-dialog-message = Tego działania nie można cofnąć.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Czy usunąć to hasło?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Tego działania nie można cofnąć.
 about-logins-confirm-remove-dialog-confirm-button = Usuń
 
 ## Variables
@@ -218,9 +232,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Tak, usuń te dane logowania
-        [one] Tak, usuń te dane logowania
-        [few] Tak, usuń te dane logowania
-       *[many] Tak, usuń te dane logowania
+       *[other] Tak, usuń te dane logowania
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
@@ -231,9 +243,7 @@ about-logins-confirm-remove-all-dialog-title =
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
         [1] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [one] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [few] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-       *[many] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[other] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } i widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
@@ -251,9 +261,39 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [one] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [few] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-       *[many] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[other] Spowoduje to usunięcie wszystkich danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Tak, usuń hasło
+       *[other] Tak, usuń hasła
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Czy usunąć { $count } hasło?
+        [few] Czy usunąć { $count } hasła?
+       *[many] Czy usunąć { $count } haseł?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Spowoduje to usunięcie hasła zachowanego w { -brand-short-name(case: "loc") } i powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[other] Spowoduje to usunięcie haseł zachowanych w { -brand-short-name(case: "loc") } i powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Czy usunąć { $count } hasło ze wszystkich urządzeń?
+        [few] Czy usunąć { $count } hasła ze wszystkich urządzeń?
+       *[many] Czy usunąć { $count } haseł ze wszystkich urządzeń?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Spowoduje to usunięcie hasła zachowanego w { -brand-short-name(case: "loc") } na wszystkich synchronizowanych urządzeniach oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[other] Spowoduje to usunięcie wszystkich haseł zachowanych w { -brand-short-name(case: "loc") } na wszystkich synchronizowanych urządzeniach oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
     }
 
 ##
