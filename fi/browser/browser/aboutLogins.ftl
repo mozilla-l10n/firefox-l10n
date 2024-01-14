@@ -264,11 +264,25 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] Poistetaanko { $count } salasana?
        *[other] Poistetaanko kaikki { $count } salasanaa?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Tämä poistaa { -brand-short-name }iin tallennetun salasanan ja kaikki tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
+        [one] Tämä poistaa { -brand-short-name }iin tallennetut salasanat ja kaikki tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
+       *[other] Tämä poistaa { -brand-short-name }iin tallennetut salasanat ja kaikki tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
+    }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
     { $count ->
         [one] Poistetaanko { $count } salasana kaikilta laitteilta?
        *[other] Poistetaanko kaikki { $count } salasanaa kaikilta laitteilta?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Tämä poistaa { -brand-short-name }iin tallennetun salasanan kaikilta synkronoiduilta laitteiltasi. Tämä poistaa myös kaikki täällä näkyvät tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
+        [one] Tämä poistaa { -brand-short-name }iin tallennetut salasanat kaikilta synkronoiduilta laitteiltasi. Tämä poistaa myös kaikki täällä näkyvät tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
+       *[other] Tämä poistaa { -brand-short-name }iin tallennetut salasanat kaikilta synkronoiduilta laitteiltasi. Tämä poistaa myös kaikki täällä näkyvät tietovuotoilmoitukset. Tätä toimintoa ei voi kumota.
     }
 
 ##
