@@ -158,8 +158,23 @@ about-webauthn-ctap2-enroll-feedback-good = Bona specimeno
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
-about-webauthn-ctap2-enroll-feedback-too-high = La specimeno estas tro alte.
-about-webauthn-ctap2-enroll-feedback-too-low = La specimeno estas tro malalate.
+about-webauthn-ctap2-enroll-feedback-too-high = La specimeno estis tro alte.
+about-webauthn-ctap2-enroll-feedback-too-low = La specimeno estis tro malalte.
+about-webauthn-ctap2-enroll-feedback-too-left = La specimeno estis tro maldekstre.
+about-webauthn-ctap2-enroll-feedback-too-right = La specimeno estis tro dekstre.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = La specimeno estis tro trapia
+about-webauthn-ctap2-enroll-feedback-too-slow = La specimeno estis tro malrapida.
+about-webauthn-ctap2-enroll-feedback-poor-quality = La specimeno estis malbonvkvalita.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = La specimeno estis tro klinigita.
+about-webauthn-ctap2-enroll-feedback-too-short = La specimeno estis tro mallonga.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Ne eblis kunigi specimenojn.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Jam ekzistanta specimeno.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Neniu ago de la uzanto.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = La uzanto ne plenumis la kolekton de specimenoj kiel atendite.
+about-webauthn-ctap2-enroll-feedback-other = Eraro en specimeno.
