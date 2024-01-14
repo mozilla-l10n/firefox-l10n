@@ -331,3 +331,31 @@ onboarding-device-migration-title = Bonvenon denove!
 onboarding-device-migration-subtitle = Komencu seancon en  via { -fxaccount-brand-name(capitalization: "sentence") } por alporti viajn legosignojn, pasvortojn kaj historion al vi, en tiu ĉi nova aparato.
 onboarding-device-migration-subtitle2 = Komencu seancon en via konto por porti viajn legosignojn, pasvortojn kaj historion al via nova aparato.
 onboarding-device-migration-primary-button-label = Komenci seanconKomenci seancon
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Ni amas teni vin sekura
+onboarding-easy-setup-security-and-privacy-subtitle = Nia retumilo, subtenata de nenprofitcela organizo, helpas eviti ke entreprenoj kaŝe sekvu vin tra la reto.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Restu protektita dum vi iras tien kaj reen inter aparatoj, danke al ĉifrado
+onboarding-mobile-download-security-and-privacy-subtitle = Kiam vi spegulas, { -brand-short-name } ĉifras viajn pasvortojn, legosignojn kaj pli. Cetere, vi povas repreni langetojn el viaj aliaj aparatoj.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } protektas vin
+onboarding-gratitude-security-and-privacy-subtitle = Dankon pro via elekto de { -brand-short-name }, apogata de Mozilla Foundation. Kun via subteno ni laboras por interreto pli sekura kaj pli alirebla por ĉiuj.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Ekde kiam vi uzas { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Kiel multe vi konas { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Viaj komentoj helas igi { -brand-short-name } eĉ pli bona.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Mi estas novulo
+onboarding-new-user-survey-time-based-option-2 = Malpli ol monato
+onboarding-new-user-survey-time-based-option-3 = Pli ol monato, regule
+onboarding-new-user-survey-time-based-option-4 = Pli ol monato, de tempo al tempo
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Mi estas novulo
+onboarding-new-user-survey-familiarity-based-option-2 = Mi iom uzis ĝin
+onboarding-new-user-survey-familiarity-based-option-3 = Mi konas ĝin tre bone
+onboarding-new-user-survey-familiarity-based-option-4 = Mi antaŭe uzis ĝin, sed antaŭ longe
