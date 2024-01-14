@@ -867,6 +867,7 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = خودبخود بھرݨ
 
 ## Privacy Section - History
 

@@ -126,6 +126,10 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } کریڈٹ کارڈ دیاں معلومات ݙکھاوݨ دی کوشش کریندا پئے۔ ایں تلویں ونڈوز اکاؤنٹ رسائی دی تصدیق کرو۔
        *[other] { -brand-short-name } کریڈٹ کارڈ دیاں معلومات ݙکھاوݨ دی کوشش کریندا پئے۔
     }
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = کارڈ شامل کرو
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = کارڈ وچ تبدیلی کرو
 autofill-card-number = کارڈ دا نمبر
 autofill-card-invalid-number = براہ کرم ہک درست کارڈ نمبر درج کرو۔
 autofill-card-name-on-card = کارڈ تے ناں

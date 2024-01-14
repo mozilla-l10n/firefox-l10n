@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = استثنیات
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = ویب سائٹ دا پتہ
     .accesskey = d
-
 permissions-block =
     .label = بلاک
     .accesskey = B
-
 permissions-disable-etp =
     .label = استثنیٰ شامل کرو
     .accesskey = E
-
 permissions-session =
     .label = سیشن کیتے اجازت ݙیو
     .accesskey = S
-
 permissions-allow =
     .label = اجازت ݙیو
     .accesskey = A
-
 permissions-button-off =
     .label = بند کرو
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = عارضی طور تے بند کرو
     .accesskey = T
-
 permissions-site-name =
     .label = ويب سائٹ
-
 permissions-status =
     .label = حالت
-
 permissions-remove =
     .label = ویب سائٹ ہٹاؤ
     .accesskey = R
-
 permissions-remove-all =
     .label = سبھے ویب سائٹاں ہٹاؤ
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = تبدیلیاں محفوظ کرو
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = تمام ویب سائٹس کیتے پہلے کنوں طے شدہ:
-
 permissions-searchbox =
     .placeholder = ویب سائٹ ڳولو
-
 permissions-capabilities-autoplay-allow =
     .label = آڈیو تے ویڈیو دی اجازت ݙیو
 permissions-capabilities-autoplay-block =
     .label = آڈیو کوں روکو
 permissions-capabilities-autoplay-blockall =
     .label = آڈیو تے ویڈیو کوں بلاک کرو
-
 permissions-capabilities-allow =
     .label = اجازت ݙیوو
 permissions-capabilities-block =
     .label = بلاک
 permissions-capabilities-prompt =
     .label = ہمیشاں پچھو
-
 permissions-capabilities-listitem-allow =
     .value = اجازت ݙیوو
 permissions-capabilities-listitem-block =
     .value = بلاک
 permissions-capabilities-listitem-allow-session =
     .value = سیشن کیتے اجازت ݙیوو
-
 permissions-capabilities-listitem-off =
     .value = بند
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = استثنیات - HTTPS-Only Mode
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = تساں مخصوص ویب سائٹاں کیتے صرف HTTPS موڈ کوں بند کر سڳدے او۔ { -brand-short-name } انہاں سائٹاں کیتے HTTPS کوں محفوظ بݨاوݨ کیتے کنکشن کوں اپ گریڈ کرݨ دی کوشش نہ کریسے۔ مستثنیات نجی ونڈوز تے لاگو نہیں تھیندیاں۔
+permissions-exceptions-https-only-desc2 = تساں مخصوص ویب سائٹاں کیتے صرف HTTPS موڈ کوں بند کر سڳدے ہو۔ { -brand-short-name } انہاں سائٹاں کیتے HTTPS کوں محفوظ بݨاوݨ کیتے کنکشن کوں اپ گریڈ کرݨ دی کوشش نہ کریسے۔
 
 ## Exceptions - Pop-ups
 
@@ -124,6 +106,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = استثنیات ۔ محفوظ شدہ لاگ انز
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ہیٹھ درج ویب سائٹاں کیتے لاگ ان ہتھیکڑا کینا کیتا ویسے
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -197,26 +182,20 @@ permissions-site-speaker-window =
     .title = ترتیباں - سپیکر اجازتاں
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = انہاں ویب سائٹاں آڈیو آؤٹ پُٹ ڈیوائس چݨݨ کیتے ارداس کیتی ہے۔ تساں ایہ ݙسا سڳدے ہو جو کہڑیاں ویب سائٹاں کوں آڈیو آؤٹ پُٹ ڈیوائس چݨݨ دی اجازت ہے۔
-
 permissions-exceptions-doh-window =
     .title = HTTPS  تے DNS کیتے ویب سائٹ مستثنیات
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = انہاں سائٹاں تے انہاں دیاں ذیلی ڈومیناں تے { -brand-short-name } محفوظ DNS کائناں ورتیسی
-
 permissions-doh-entry-field = ویب سائٹ ڈومین ناں درج کرو
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = شامل کرو
     .accesskey = A
-
 permissions-doh-col =
     .label = ڈومین
-
 permissions-doh-remove =
     .label = ہٹاؤ
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = سارے ہٹاؤ
     .accesskey = e
