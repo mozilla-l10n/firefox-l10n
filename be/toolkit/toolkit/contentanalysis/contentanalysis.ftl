@@ -12,6 +12,7 @@ contentanalysis-slow-agent-dialog-title = Ідзе аналіз змесціва
 contentanalysis-slow-agent-dialog-body = Аналіз змесціва аналізуе рэсурс “{ $content }”
 contentanalysis-operationtype-clipboard = буфер абмену
 contentanalysis-operationtype-dropped-text = прапушчаны тэкст
+contentanalysis-warndialogtitle = Гэта змесціва можа быць небяспечным
 contentanalysis-notification-title = Аналіз змесціва
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
