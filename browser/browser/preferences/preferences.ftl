@@ -911,6 +911,7 @@ forms-windows-sso =
     .label = Permesi nurfojan komencon de seancon de Windows por kontoj laboraj, lernejaj aŭ de Microsoft
 forms-windows-sso-learn-more-link = Pli da informo
 forms-windows-sso-desc = Administri kontojn en la agordoj de via aparato
+windows-passkey-settings-label = Administri alirŝlosiloj en la sistemaj agordoj
 
 ## OS Authentication dialog
 
@@ -925,6 +926,25 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Aŭtomata plenigo
+autofill-addresses-checkbox = Konservi kaj aŭtomate plenigi adresojn
+    .accesskey = a
+autofill-saved-addresses-button = Konservitaj adresoj
+    .accesskey = a
+autofill-payment-methods-checkbox-message = Konservi kaj aŭtomate plenigi pagmetodojn
+    .accesskey = p
+autofill-payment-methods-checkbox-submessage = Inkluzivi kreditajn kaj debetajn kartojn
+    .accesskey = k
+autofill-saved-payment-methods-button = Konservitaj pagmetodoj
+    .accesskey = p
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Aŭtentigado de macOS postulata por plenigi kaj redakti pagmetodojn.
+        [windows] Aŭtentigado de Windows postulata por plenigi kaj redakti pagmetodojn.
+        [linux] Aŭtentigado de Linux postulata por plenigi kaj redakti pagmetodojn.
+       *[other] Aŭtentigado postulata por plenigi kaj redakti pagmetodojn.
+    }
+    .accesskey = A
 
 ## Privacy Section - History
 
@@ -1304,6 +1324,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS per HTTPS
 preferences-doh-description = Nomregna sistemo (DNS) tra HTTPS sendas vian peton por nomregna nomo tra ĉifrita konekto, kio kreas pli sekuran DNS kaj malhelpas al aliaj vidi, kiun retejon vi pretas aliri.
+preferences-doh-description2 = Nomregna sistemo (DNS) tra HTTPS sendas vian peton por nomregna nomo tra ĉifrita konekto, kio provizas pli sekuran DNS kaj malhelpas al aliaj vidi, kiun retejon vi pretas aliri.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Stato: { $status }
@@ -1320,6 +1341,7 @@ preferences-doh-status-disabled = Malŝaltita
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Neaktiva ({ $reason })
 preferences-doh-group-message = Aktivigi sekuran DNS per:
+preferences-doh-group-message2 = Aktivigi DNS sur HTTPS per:
 preferences-doh-expand-section =
     .tooltiptext = Pli da informo
 preferences-doh-setting-default =
