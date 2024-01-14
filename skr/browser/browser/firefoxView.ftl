@@ -148,6 +148,9 @@ firefoxview-search-text-box-recentbrowsing =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = تاریخ ڳولو
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = ہم وقت تھیاں ٹیباں ڳولو
 # Variables:
 #   $count (Number) - The number of visits matching the search query.
 firefoxview-search-results-count =

@@ -75,6 +75,7 @@ login-list-last-used-option = چھیکڑی ورتاوا
 login-list-intro-title = کوئی لاگ ان کائنی لبھے
 login-list-intro-description = جݙاں تساں { -brand-product-name } وِچ پاس ورڈ محفوظ کریسو تاں ، او اتھاں ݙکھایا ویسے.
 about-logins-login-list-empty-search-title = کوئی لاگ ان کائنی لبھے
+about-logins-login-list-empty-search-title2 = کوئی پاس ورڈ کائنی لبھا
 about-logins-login-list-empty-search-description = تہاݙی ڳول نال رلدڑ نتیجے نئیں لبھدے پئے۔
 login-list-item-title-new-login = نواں لاگ ان
 login-list-item-subtitle-new-login = آپݨی لاگ ان سنداں درج کرو
