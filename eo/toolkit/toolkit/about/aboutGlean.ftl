@@ -49,6 +49,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (sendi neniun ping-on)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = En la antaŭa kampo, certu ke estas memorebla erarserĉila etikedo, tiel ke vi povos poste rekoni viajn ping-ojn.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Elekti memoreblan senerarigilan etikedon <span>(20 signoj aŭ malpli, nur literoj kaj ciferoj)</span> tiel ke vi povos poste rekoni viajn ping.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
@@ -70,6 +72,8 @@ about-glean-li-for-visit-gdpv =
     Inter la premo de la butono kaj la alveno de via ping ne devus pasi pli ol kelkaj sekundoj. Kelkfoje tio povus postuli kelkajn minutojn.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation = Por pli specifaj testoj, vi ankaŭ povas determini la nunan valoron de iu instrumento per malfermo de konzolo de programistoj ĉi tie en <code>about:glean</code> kaj uzo de la API <code>testGetValue()</code>, ekzemple <code>Glean.metricCategory.metricName.testGetValue()</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 = Por pli specifaj testoj, vi ankaŭ povas determini la nunan valoron de iu instrumento per malfermo de konzolo de programistoj ĉi tie en <code>about:glean</code> kaj uzo de la API <code>testGetValue()</code>, ekzemple <code>Glean.metricCategory.metricName.testGetValue()</code> por mezuro nomita <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note = Bonvolu rimarki ke kiam vi uzas la konzolon de la iloj por programistoj, vi uzas Glean JS API. Tio signifas ke la nomon kaj kategorion de la metrikoj estas aranĝitaj laŭ <code>camelCase</code> malkiel en la Rust kaj C++ API-oj.
 controls-button-label-verbose = Apliki agordojn kaj sendi 'ping'

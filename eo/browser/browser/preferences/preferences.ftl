@@ -466,6 +466,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Ĉiam montri ŝovstriojn
     .accesskey = s
+browsing-always-underline-links =
+    .label = Ĉiam substreki ligilojn
+    .accesskey = s
 browsing-use-onscreen-keyboard =
     .label = Montri tuŝklavaron se necesas
     .accesskey = k
@@ -609,6 +612,9 @@ search-suggestions-desc = Elektu la manieron vidi sugestojn de serĉiloj.
 search-suggestions-option =
     .label = Montri serĉajn sugestojn
     .accesskey = s
+search-show-suggestions-option =
+    .label = Montri serĉajn sugestojn
+    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = Montri sugestojn de serĉiloj en la rezultoj de la adresa strio
     .accesskey = M
@@ -707,6 +713,9 @@ sync-signedin-login-failure = Bonvolu komenci seancon por rekonekti { $email }
 sync-resend-verification =
     .label = Resendi kontrolon
     .accesskey = k
+sync-verify-account =
+    .label = Kontroli konton
+    .accesskey = k
 sync-remove-account =
     .label = Forigi konton
     .accesskey = F
@@ -739,8 +748,10 @@ sync-currently-syncing-bookmarks = legosignojn
 sync-currently-syncing-history = historion
 sync-currently-syncing-tabs = malfermitajn langetojn
 sync-currently-syncing-logins-passwords = legitimilojn
+sync-currently-syncing-passwords = Pasvortoj
 sync-currently-syncing-addresses = adresojn
 sync-currently-syncing-creditcards = kreditkartojn
+sync-currently-syncing-payment-methods = Pagmetodoj
 sync-currently-syncing-addons = aldonaĵojn
 sync-currently-syncing-settings = Agordoj
 sync-change-options =
@@ -771,6 +782,10 @@ sync-engine-logins-passwords =
     .label = legitimilojn
     .tooltiptext = Nomoj de uzanto kaj pasvortoj, kiujn vi konservis
     .accesskey = l
+sync-engine-passwords =
+    .label = Pasvortoj
+    .tooltiptext = Pasvortoj konservitaj de vi
+    .accesskey = P
 sync-engine-addresses =
     .label = adresojn
     .tooltiptext = Poŝtaj adresoj konservitaj de vi (nur en komputilo)
@@ -779,6 +794,10 @@ sync-engine-creditcards =
     .label = kreditkartojn
     .tooltiptext = Nomoj, numeroj kaj datoj de senvalidiĝo (nur en komputilo)
     .accesskey = K
+sync-engine-payment-methods2 =
+    .label = Pagmetodoj
+    .tooltiptext = Nomoj, kreditkartaj numeroj kaj datoj de senvalidiĝo
+    .accesskey = P
 sync-engine-addons =
     .label = aldonaĵon
     .tooltiptext = Etendaĵoj kaj etosoj por komputila Firefox
@@ -825,11 +844,25 @@ pane-privacy-logins-and-passwords-header = Akreditiloj kaj pasvortoj
 forms-ask-to-save-logins =
     .label = Demandi ĉu konservi akreditilojn kaj pasvortojn por retejoj
     .accesskey = D
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Pasvortoj
+    .searchkeywords = legitimiloj
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Demandi antaŭ ol konservi pasvortojn
+    .accesskey = D
 forms-exceptions =
     .label = Esceptoj…
     .accesskey = c
 forms-generate-passwords =
     .label = Sugesti kaj krei fortikajn pasvortojn
+    .accesskey = S
+forms-suggest-passwords =
+    .label = Sugesti fortajn pasvortojn
     .accesskey = S
 forms-breach-alerts =
     .label = Montri atentigojn pri pasvortoj por retejoj kun datumfuĝoj
@@ -837,6 +870,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Pli da informo
 preferences-relay-integration-checkbox =
     .label = Sugesti retpoŝtajn maskojn de { -relay-brand-name } por protekti vian retpoŝtan adreson
+preferences-relay-integration-checkbox2 =
+    .label = Sugesti retpoŝtajn maskojn de { -relay-brand-name } por protekti vian retpoŝtan adreson
+    .accesskey = S
 relay-integration-learn-more-link = Pli da informo
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -845,6 +881,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Konservitaj akreditiloj…
     .accesskey = a
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Aŭtomate plenigi nomojn de uzanto kaj pasvortojn
+    .accesskey = A
+forms-saved-passwords =
+    .label = Konservitaj pasvortoj
+    .accesskey = p
 forms-primary-pw-use =
     .label = Uzi ĉefan pasvorton
     .accesskey = U
@@ -879,6 +922,9 @@ primary-password-os-auth-dialog-message-win = Por krei ĉefan pasvorton vi devas
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = krei ĉefan pasvorton
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 

@@ -161,6 +161,27 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Serĉi en ĵuse fermitaj langetoj
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Serĉi spegulitajn langetojn
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Serĉi malfermitajn langetojn
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Serĉaj rezultoj por “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } retejo
+       *[other] { $count } retejoj
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Neniu rezulto por “{ $query }”
 firefoxview-sort-history-by-date-label = Ordigi laŭ dato
 firefoxview-sort-history-by-site-label = Ordigi laŭ retejo
 # Variables:
