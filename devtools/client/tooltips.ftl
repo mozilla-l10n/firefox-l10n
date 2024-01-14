@@ -92,3 +92,10 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> është një veti eksperimentale. Nuk mbulohet në shfletuesit vijues:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> është një veti eksperimentale.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Mësoni më tepër</span> rreth <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Ky përzgjedhës, përdor <strong>:has()</strong> të pa kufizuar, çka mund të jetë e ngadaltë

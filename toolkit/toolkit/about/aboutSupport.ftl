@@ -190,6 +190,8 @@ media-codec-support-lack-of-extension = Instalo zgjerimin
 ## https://w3c.github.io/encrypted-media/
 
 media-content-decryption-modules-title = Informacion Modulesh Shfshehtëzimi Lënde
+media-video-robustness = Fortësi Videoje
+media-audio-robustness = Fortësi Audioje
 media-cdm-capabilities = Aftësi
 
 ##
