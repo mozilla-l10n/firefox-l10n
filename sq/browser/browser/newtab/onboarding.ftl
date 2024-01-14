@@ -356,3 +356,4 @@ onboarding-new-user-survey-time-based-option-4 = Më shumë se 1 muaj, me raste
 onboarding-new-user-survey-familiarity-based-option-1 = Jam fringo i ri
 onboarding-new-user-survey-familiarity-based-option-2 = E kam përdorur ca herë
 onboarding-new-user-survey-familiarity-based-option-3 = Jam shumë i familjarizuar me të
+onboarding-new-user-survey-familiarity-based-option-4 = E kam përdorur në të kaluarën, por u bënë kohë
