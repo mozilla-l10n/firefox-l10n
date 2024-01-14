@@ -358,3 +358,4 @@ onboarding-new-user-survey-time-based-option-4 = Ponad miesiąc, sporadycznie
 onboarding-new-user-survey-familiarity-based-option-1 = Dopiero zaczynam go używać
 onboarding-new-user-survey-familiarity-based-option-2 = Trochę go znam
 onboarding-new-user-survey-familiarity-based-option-3 = Bardzo dobrze go znam
+onboarding-new-user-survey-familiarity-based-option-4 = Znam go z przeszłości, ale minęło trochę czasu
