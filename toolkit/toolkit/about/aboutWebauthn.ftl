@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Správa PIN
 about-webauthn-credential-management-section-title = Správa prihlasovacích údajov
 about-webauthn-pin-required-section-title = Vyžaduje sa PIN
 about-webauthn-confirm-deletion-section-title = Potvrdenie vymazania
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biometrické zápisy
 
 ## Info field texts
 
@@ -27,6 +29,7 @@ about-webauthn-text-select-device = Dotykom zariadenia vyberte požadovaný bezp
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Nie je možné spravovať možnosti, pretože váš bezpečnostný token nepodporuje CTAP2.
 about-webauthn-text-not-available = Nie je k dispozícii na tejto platforme.
+about-webauthn-bio-enrollment-list-subsection-title = Zápisy:
 
 ## Results label
 
@@ -43,6 +46,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Chyba: Nesprávny kód PIN. Skúste to znova. Zostáva vám { $retriesLeft } pokusov.
     }
 about-webauthn-results-pin-blocked-error = Chyba: nezostali žiadne pokusy a vaše zariadenie bolo uzamknuté, pretože ste príliš veľakrát zadali nesprávny kód PIN. Zariadenie potrebuje obnovenie.
+about-webauthn-results-pin-not-set-error = Chyba: PIN nie je nastavený. Táto operácia vyžaduje ochranu pomocou kódu PIN.
 about-webauthn-results-pin-too-short-error = Chyba: zadaný kód PIN je príliš krátky.
 about-webauthn-results-pin-too-long-error = Chyba: zadaný kód PIN je príliš dlhý.
 about-webauthn-results-pin-auth-blocked-error = Chyba: vyskytlo sa príliš veľa neúspešných pokusov za sebou a overenie PIN bolo dočasne zablokované. Vaše zariadenie potrebuje cyklus napájania (odpojte a znova zapojte).
@@ -158,6 +162,14 @@ about-webauthn-ctap2-enroll-feedback-too-right = Vzorka bola príliš vpravo.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Vzorka bola vytvorená príliš rýchlo.
+about-webauthn-ctap2-enroll-feedback-too-slow = Vzorka bola vytvorená príliš pomaly.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Vzorka mala nízku kvalitu.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Vzorka bola príliš skreslená.
+about-webauthn-ctap2-enroll-feedback-too-short = Vzorka bola príliš krátka.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Zlúčenie vzoriek zlyhalo.
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
 about-webauthn-ctap2-enroll-feedback-exists = Vzorka už existuje.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Žiadna aktivita od používateľa.
