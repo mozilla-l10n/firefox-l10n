@@ -43,6 +43,8 @@ translations-panel-settings-always-translate-language =
     .label = Bepred treiñ ar pajennoù e { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Bepred treiñ ar yezh-mañ
+translations-panel-settings-always-offer-translation =
+    .label = Bepred kinnig da dreiñ
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -116,6 +118,7 @@ translations-settings-title =
     .style = min-width: 36em
 translations-settings-close-key =
     .key = w
+translations-settings-always-translate-langs-description = Troet e vo ent emgefreek evit ar yezhoù-mañ da-heul
 translations-settings-languages-column =
     .label = Yezhoù
 translations-settings-remove-language-button =
