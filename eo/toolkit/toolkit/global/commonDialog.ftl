@@ -6,12 +6,13 @@ common-dialog-title-null = Tiu ĉi paĝo diras
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Nekonata
-
+# An indicator showing that Firefox is waiting for an operation to finish
+common-dialog-spinner =
+    .alt = Okupata
 common-dialog-username =
     .value = Nomo de uzanto
 common-dialog-password =
     .value = Pasvorto
-
 common-dialog-copy-cmd =
     .label = Kopii
     .accesskey = K
