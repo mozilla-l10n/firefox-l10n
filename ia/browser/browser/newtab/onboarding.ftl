@@ -346,6 +346,7 @@ onboarding-gratitude-security-and-privacy-subtitle = Gratias pro usar { -brand-s
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Desde quante tempore usa tu { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = Quanto sape tu re { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Tu commentarios adjuta nos a render { -brand-short-name } sempre melior.
 # When translating "brand new" it means completely new.
@@ -356,3 +357,5 @@ onboarding-new-user-survey-time-based-option-4 = Plus que un mense, occasionalme
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = Io justo comenciava
 onboarding-new-user-survey-familiarity-based-option-2 = Io lo usava aliquando
+onboarding-new-user-survey-familiarity-based-option-3 = Io lo cognosce multo ben
+onboarding-new-user-survey-familiarity-based-option-4 = Io olim lo usava, ma desde tempore
