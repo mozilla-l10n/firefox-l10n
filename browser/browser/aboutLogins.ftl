@@ -270,12 +270,37 @@ about-logins-confirm-remove-all-dialog-title2 =
         [one] Ĉu forigi { $count } pasvorton?
        *[other] Ĉu forigi ĉiujn { $count } pasvortojn?
     }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Tio ĉi forigos la pasvorton konservitan en { -brand-short-name } kaj eventualajn atentigojn pri datumfuĝo. Tiu ĉi ago ne estas malfarebla.
+        [one] { "" }
+       *[other] Tio ĉi forigos la pasvortojn konservitajn en { -brand-short-name } kaj eventualajn atentigojn pri datumfuĝo. Tiu ĉi ago ne estas malfarebla.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Ĉu forigi { $count } pasvorton el ĉiuj aparatoj?
+       *[other] Ĉu forigi { $count } pasvortojn el ĉiuj aparatoj?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Tio ĉi forigos la pasvorton konservitan en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
+        [one] { "" }
+       *[other] Tio ĉi forigos la pasvortojn konservitajn en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Elporti legitimilojn kaj pasvortojn
 about-logins-confirm-export-dialog-message = Viaj pasvortoj estos konservitaj kiel legebla teksto (ekzemple: Aĉ@pasvorto) tiel ke iu ajn kun aliro al la dosiero povos vidi ilin.
 about-logins-confirm-export-dialog-confirm-button = Elporti…
+about-logins-confirm-export-dialog-title2 = Rimarko pri elporto de pasvortoj
+about-logins-confirm-export-dialog-message2 =
+    Kiam vi elportas, viaj pasvortoj estos konservitaj en dosiero per legebla teksto.
+    Post la uzo de tiu dosiero, ni rekomendas forigi ĝin, tiel ke aliaj uzantoj de la aparato ne povos vidi viajn pasvortojn.
+about-logins-confirm-export-dialog-confirm-button2 = Daŭrigi la elporton
 about-logins-alert-import-title = Enportado finita
 about-logins-alert-import-message = Vidi detalan raporton pri enportado
 confirm-discard-changes-dialog-title = Ĉu ignori nekonservitajn ŝanĝojn?
@@ -317,6 +342,11 @@ about-logins-export-file-picker-title = Elporti dosieron de legitimiloj
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = legitimiloj.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Elporti pasvortojn el { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = pasvortoj.csv
 about-logins-export-file-picker-export-button = Elporti
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -330,6 +360,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Enporti dosieron de legitimiloj
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Enporti pasvortojn en { -brand-short-name }
 about-logins-import-file-picker-import-button = Enporti
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -364,6 +396,21 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Duobligita legitimilo trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportita)</span>
        *[other] <span>Duobligita legitimilo trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportitaj)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Nova pasvorto aldonita:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Novaj pasvortoj aldonitaj:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Nova elemento aldonita:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Novaj elementoj aldonitaj:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Duobligita elemento trovita:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportita)</span>
+       *[other] <span>Duobligitaj elementoj trovitaj:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne importitaj)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Eraro:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ne enportita)</span>
@@ -385,6 +432,7 @@ about-logins-import-dialog-error-try-import-again = Klopodu enporti denove…
 about-logins-import-dialog-error-cancel = Nuligi
 about-logins-import-report-title = Resumo pri enporto
 about-logins-import-report-description = Akreditiloj kaj pasvortoj enportitaj en { -brand-short-name }.
+about-logins-import-report-description2 = Pasvortoj enportitaj en { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -392,6 +440,9 @@ about-logins-import-report-row-index = Vico { $number }
 about-logins-import-report-row-description-no-change = Duobligo: ekzakta kongruo kun ekzistanta legitimilo
 about-logins-import-report-row-description-modified = Ekzistanta legitimilo ĝisdatigita
 about-logins-import-report-row-description-added = Nova legitimilo aldonita
+about-logins-import-report-row-description-no-change2 = Duobligo: ekzakta kongruo kun ekzistanta elemento
+about-logins-import-report-row-description-modified2 = Ekzistanta elemento ĝistadigita
+about-logins-import-report-row-description-added2 = Nova pasvorto aldonita
 about-logins-import-report-row-description-error = Eraro: mankas kampo
 
 ##
@@ -419,6 +470,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duobligita akreditilo</div> <div data-l10n-name="not-imported">(ne enportita)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">duobligitaj akreditiloj</div> <div data-l10n-name="not-imported">(ne enportitaj)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Nova pasvorto aldonita</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Novaj pasvortoj aldonitaj</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ekzistanta elemento ĝisdatigita</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ekzistantaj elementoj ĝisdatigitaj</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duobligita elemento</div> <div data-l10n-name="not-imported">(ne enportita)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Duobligitaj elementoj</div> <div data-l10n-name="not-imported">(ne enportita)</div>
     }
 about-logins-import-report-error =
     { $count ->
