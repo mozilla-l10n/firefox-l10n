@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Krei novan legitimilon
+about-logins-page-title-name = Pasvortoj
+about-logins-login-filter2 =
+    .placeholder = Serĉi pasvortojn
+    .key = p
+create-login-button =
+    .title = Aldoni pasvorton
 fxaccounts-sign-in-text = Spegulu viajn pasvortojn en viaj aliaj aparatoj
 fxaccounts-sign-in-sync-button = Komenci seancon por speguli
 fxaccounts-avatar-button =
@@ -23,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Enporti el alia retumil
 about-logins-menu-menuitem-import-from-a-file = Enporti el dosiero …
 about-logins-menu-menuitem-export-logins = Elporti legitimilojn…
 about-logins-menu-menuitem-remove-all-logins = Forigi ĉiujn legitimilojn…
+about-logins-menu-menuitem-export-logins2 = Elporti pasvortojn…
+about-logins-menu-menuitem-remove-all-logins2 = Forigi ĉiujn pasvortojn…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Preferoj
@@ -49,6 +57,21 @@ login-list-filtered-count =
         [one] { $count } el { $total } legitimilo
        *[other] { $count } el { $total } legitimiloj
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } pasvorto
+       *[other] { $count } pasvortoj
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } el { $total } pasvorto
+       *[other] { $count } el { $total } pasvortoj
+    }
 login-list-sort-label-text = Ordigi laŭ:
 login-list-name-option = Nomo (A-Z)
 login-list-name-reverse-option = Nomo (A-Z)
@@ -58,11 +81,14 @@ about-logins-login-list-alerts-option = Atentigoj
 login-list-last-changed-option = Laste modifita
 login-list-last-used-option = Last uzita
 login-list-intro-title = Neniu legitimilo trovita
+login-list-intro-title2 = Neniu konservita pasvorto
 login-list-intro-description = Kiam vi konservas pasvortojn en { -brand-product-name }, ĝi aperos ĉi tie.
 about-logins-login-list-empty-search-title = Neniu legitimilo trovita
+about-logins-login-list-empty-search-title2 = Neniu pasvorto trovita
 about-logins-login-list-empty-search-description = Neniu rezulto kongruas kun via serĉo.
 login-list-item-title-new-login = Nova legitimilo
 login-list-item-subtitle-new-login = Tajpu viajn legitimilojn
+login-list-item-title-new-login2 = Aldoni pasvorton
 login-list-item-subtitle-missing-username = (sen nomo de uzanto)
 about-logins-list-item-breach-icon =
     .title = Retejo kun datumfuĝo
@@ -81,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Ĉu vi serĉas viajn konservitajn
 about-logins-login-intro-heading-logged-in = Neniu spegulita legitimilo trovita.
 login-intro-description = Se vi konservis viajn legitimilojn en { -brand-product-name } en alia aparato, vi povas havi ilin ankaŭ ĉi tie jene:
 login-intro-instructions-fxa = Krei konton aŭ komencu seancon en { -fxaccount-brand-name } en la aparato, kie la legitimiloj estas konservitaj
+about-logins-login-intro-heading-message = Konservi pasvorton en sekura ejo
 login-intro-instructions-fxa2 = Krei konton aŭ komencu seancon en la aparato, kie la legitimiloj estas konservitaj.
 login-intro-instructions-fxa-settings = Iru al Agordoj->Spegulado->Ŝalti speguladon… Elektu la markobutonon "Legitimiloj kaj pasvortoj".
 login-intro-instructions-fxa-passwords-help = Vizitu la paĝon <a data-l10n-name="passwords-help-link">helpo pri pasvortoj</a> por havi pli da informo.
