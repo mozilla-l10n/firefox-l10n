@@ -29,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importuj z innej przeg
 about-logins-menu-menuitem-import-from-a-file = Importuj z pliku…
 about-logins-menu-menuitem-export-logins = Eksportuj dane logowania…
 about-logins-menu-menuitem-remove-all-logins = Usuń wszystkie dane logowania…
+about-logins-menu-menuitem-export-logins2 = Eksportuj hasła…
+about-logins-menu-menuitem-remove-all-logins2 = Usuń wszystkie hasła…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcje
@@ -109,20 +111,25 @@ about-logins-login-intro-heading-logged-out2 = Szukasz swoich zachowanych haseł
 about-logins-login-intro-heading-logged-in = Brak synchronizowanych danych logowania.
 login-intro-description = Aby przenieść tutaj dane logowania zachowane w { -brand-product-name(case: "loc") } na innym urządzeniu:
 login-intro-instructions-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand-name(case: "loc", capitalization: "lower") } na urządzeniu, w którym zachowano dane logowania.
+about-logins-login-intro-heading-message = Zachowuj swoje hasła w bezpiecznym miejscu
+login-intro-description2 = Wszystkie hasła zachowywane w { -brand-product-name(case: "loc") } są zaszyfrowane. Do tego pilnujemy wycieków haseł i wysyłamy powiadomienie, jeśli Cię dotyczą. <a data-l10n-name="breach-alert-link">Więcej informacji</a>
 login-intro-instructions-fxa2 = Zarejestruj się lub zaloguj na koncie na urządzeniu, w którym zachowano dane logowania.
 login-intro-instructions-fxa-settings = Otwórz Ustawienia → Synchronizacja → Włącz synchronizację… i zaznacz pole „dane logowania i hasła”.
 login-intro-instructions-fxa-passwords-help = <a data-l10n-name="passwords-help-link">Pomoc na temat haseł</a> zawiera więcej informacji.
 about-logins-intro-browser-only-import = Jeśli dane logowania są zachowane w innej przeglądarce, możesz <a data-l10n-name="import-link">zaimportować je do { -brand-product-name(case: "gen") }</a>
 about-logins-intro-import2 = Jeśli dane logowania są zachowane poza { -brand-product-name(case: "ins") }, możesz <a data-l10n-name="import-browser-link">zaimportować je z innej przeglądarki</a> lub <a data-l10n-name="import-file-link">z pliku</a>
+about-logins-intro-import3 = Kliknij przycisk ze znakiem plusa powyżej, aby dodać teraz hasło. Można także <a data-l10n-name="import-browser-link">zaimportować hasła z innej przeglądarki</a> lub <a data-l10n-name="import-file-link">z pliku</a>.
 
 ## Login
 
 login-item-new-login-title = Nowe dane logowania
+# Header for adding a password
+about-logins-login-item-new-login-title = Dodaj hasło
 login-item-edit-button = Edytuj
 about-logins-login-item-remove-button = Usuń
 login-item-origin-label = Adres witryny
 login-item-tooltip-message = Upewnij się, że jest to dokładny adres witryny, na której się logujesz.
-about-logins-origin-tooltip = Upewnij się, że jest to dokładny adres witryny, na której się logujesz.
+about-logins-origin-tooltip2 = Wpisz pełny adres i upewnij się, że dokładnie pasuje do strony, na której się logujesz.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Upewnij się, że zachowujesz obecne hasło do tej witryny. Zmiana hasła w tym miejscu nie powoduje jego zmiany na witrynie { $webTitle }.
@@ -140,6 +147,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopiuj
 login-item-copied-password-button-text = Skopiowano
 login-item-save-changes-button = Zapisz zmiany
+about-logins-login-item-save-changes-button = Zapisz
 login-item-save-new-button = Zapisz
 login-item-cancel-button = Anuluj
 
