@@ -344,3 +344,14 @@ onboarding-mobile-download-security-and-privacy-subtitle = Ҳангоми ҳам
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = «{ -brand-short-name }» шуморо пуштибонӣ мекунад
 onboarding-gratitude-security-and-privacy-subtitle = Баҳри истифодабарии «{ -brand-short-name }», ки аз ҷониби «Mozilla Foundation» дастгирӣ мегардад, ба шумо изҳори сипос менамоем. Бо дастгирии шумо кӯшиш ба харҷ медиҳем, то ин ки доираи истифодабарии Интернетро боз ҳам бахатартар ва ба ҳамагон боз ҳам дастрастар гардонем.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Шумо аз браузери «{ -brand-short-name }» чанд вақт боз истифода мебаред?
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Ман комилан нав ҳастам
+onboarding-new-user-survey-time-based-option-2 = Камтар аз 1 моҳ
+onboarding-new-user-survey-time-based-option-3 = Зиёда аз 1 моҳ, мунтазам
+onboarding-new-user-survey-time-based-option-4 = Зиёда аз 1 моҳ, баъзан
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Ман комилан нав ҳастам
