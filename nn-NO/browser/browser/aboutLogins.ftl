@@ -114,6 +114,7 @@ login-intro-instructions-fxa-settings = Gå til Innstillingar > Synkronisering >
 login-intro-instructions-fxa-passwords-help = Besøk <a data-l10n-name="passwords-help-link">passordstøtte</a> for meir hjelp.
 about-logins-intro-browser-only-import = Dersom innloggingane dine er lagra i ein annan nettlesar, kan du <a data-l10n-name="import-link">importere dei til { -brand-product-name }</a>
 about-logins-intro-import2 = Dersom innloggingane dine er lagra utanfor { -brand-product-name }, kan du <a data-l10n-name="import-browser-link">importere dei frå ein annan nettlesar</a> eller <a data-l10n-name="import-file-link">frå ei fil</a>
+about-logins-intro-import3 = Vel plussteiknet ovanfor for å leggje til eit passord no. Du kan òg <a data-l10n-name="import-browser-link">importere passord frå ein annan nettlesar</a> eller <a data-l10n-name="import-file-link">frå ei fil</a>.
 
 ## Login
 
@@ -125,6 +126,10 @@ about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Nettstadadresse
 login-item-tooltip-message = Forsikre deg om at dette samsvarar med den eksakte adressa til nettstaden der du logar inn.
 about-logins-origin-tooltip2 = Skriv inn heile adressa og sørg for at ho stemmer nøyaktig overeins med kvar du loggar på.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Sørg for at du lagrar det gjeldande passordet ditt for denne nettstaden. Dersom du endrar passordet her, vert det ikkje endra med { $webTitle }.
+about-logins-add-password-tooltip = Sørg for at du lagrar det gjeldande passordet ditt for denne nettstaden.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Brukarnamn
@@ -166,6 +171,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Skriv inn innloggingsinform
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = rediger lagra innlogging
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Skriv inn innloggingsinformasjonen for Windows for å redigere passordet. Dette vil gjere kontoane dine tryggare.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = redigere det lagra passordet
@@ -184,6 +191,8 @@ about-logins-export-password-os-auth-dialog-message-win = For å eksportere innl
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = eksporter lagra innloggingar og passord
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Skriv inn innloggingsinformasjonen for Windows for å eksportere passorda dine. Dette vil gjere kontoane dine tryggare.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = eksporter lagra passord
