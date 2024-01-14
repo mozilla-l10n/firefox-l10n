@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (không gửi bất kỳ ping nào)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Trong trường văn bản, hãy đảm bảo có một thẻ gỡ lỗi đáng nhớ để bạn có thể nhận ra các lần ping của mình sau này.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Đặt tag gỡ lỗi dễ ghi nhớ <span>(không quá 20 kí tự, chỉ chữ, số và dấu trừ “-”)</span> để bạn có thể nhận ra ping của mình sau này.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =

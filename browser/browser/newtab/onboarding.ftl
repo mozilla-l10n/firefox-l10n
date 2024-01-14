@@ -343,3 +343,19 @@ onboarding-mobile-download-security-and-privacy-subtitle = Khi bạn đồng b�
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } luôn ủng hộ bạn
 onboarding-gratitude-security-and-privacy-subtitle = Cảm ơn bạn đã sử dụng { -brand-short-name }, được hỗ trợ bởi Mozilla Foundation. Với sự hỗ trợ của bạn, chúng tôi đang nỗ lực làm cho Internet an toàn hơn và dễ truy cập hơn cho mọi người.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Bạn đã sử dụng { -brand-short-name } được bao lâu rồi?
+onboarding-new-user-familiarity-based-survey-title = Bạn quen thuộc với { -brand-short-name } đến mức nào?
+onboarding-new-user-survey-subtitle = Phản hồi của bạn giúp { -brand-short-name } trở nên tốt hơn nữa.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Tôi là người mới
+onboarding-new-user-survey-time-based-option-2 = Ít hơn 1 tháng
+onboarding-new-user-survey-time-based-option-3 = Hơn 1 tháng, thường xuyên
+onboarding-new-user-survey-time-based-option-4 = Hơn 1 tháng, thỉnh thoảng
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Tôi là người mới
+onboarding-new-user-survey-familiarity-based-option-2 = Tôi đã sử dụng nó nhiều lúc
+onboarding-new-user-survey-familiarity-based-option-3 = Tôi rất quen thuộc với nó
+onboarding-new-user-survey-familiarity-based-option-4 = Tôi có dùng nó trước đây, nhưng đã rất lâu rồi
