@@ -44,16 +44,48 @@ about-webauthn-results-pin-invalid-error =
         [one] Eraro: Malĝusta PIN. Klopodu denove. Restas al vi unu klopodo.
        *[other] Eraro: Malĝusta PIN. Klopodu denove. Restas al vi { $retriesLeft } klopodoj.
     }
+about-webauthn-results-pin-blocked-error = Eraro: restas al vi neniu klopodo kaj via aparato estis blokita, ĉar malĝusta PIN estis enigita tro multe da fojoj. La aparato bezonas restartigon.
+about-webauthn-results-pin-not-set-error = Eraro: PIN ne difinita. Tiu ĉi ago postulas protekton de PIN.
+about-webauthn-results-pin-too-short-error = Eraro: la enigita PIN estas tro mallonga.
+about-webauthn-results-pin-too-long-error = Eraro: la enigita PIN estas tro longa.
+about-webauthn-results-pin-auth-blocked-error = Eraro: estis tro multe da sinsekvaj masukcesaj klopodoj kaj la aŭtentigado per PIN estas provizore blokita. Via aparato bezonas esti reŝaltita (malkonektu ĝin kaj enŝovu ĝin denove).
+about-webauthn-results-cancelled-by-user-error = Eraro: la ago estis nuligita de la uzanto.
 
 ## Labels
 
+about-webauthn-new-pin-label = Nova PIN:
+about-webauthn-repeat-pin-label = Enigu novan PIN:
+about-webauthn-current-pin-label = Nuna PIN:
+about-webauthn-pin-required-label = Bonvolu enigi vian PIN:
+about-webauthn-credential-list-subsection-title = Legitimiloj:
+about-webauthn-enrollment-name-label = Nomo de aliĝo (nedeviga):
+about-webauthn-enrollment-list-empty = Neniu aliĝo trovita en la aparato.
+about-webauthn-credential-list-empty = Neniu legitimilo trovita en la aparato.
+about-webauthn-confirm-deletion-label = Vi pretas forigi:
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = Difini PIN
+about-webauthn-current-change-pin-button = Ŝanĝi PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Listigi legitimilojn
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Listigi aliĝojn
+about-webauthn-add-bio-enrollment-button = Aldoni aliĝon
+about-webauthn-cancel-button = Nuligi
+about-webauthn-send-pin-button = Akcepti
+about-webauthn-delete-button = Forigi
+about-webauthn-start-enrollment-button = Komenci aliĝon
+about-webauthn-update-button = Ĝisdatigi
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Kontrolo de uzanto
+about-webauthn-auth-option-up = Ĉeesto de uzanto
+about-webauthn-auth-option-clientpin = PIN de la kliento
+about-webauthn-auth-option-rk = Ŝlosilo ĉe aŭtentigilo
+about-webauthn-auth-option-plat = Platforma aparato
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
