@@ -346,4 +346,15 @@ onboarding-gratitude-security-and-privacy-subtitle = Дзякуй за выка�
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Як доўга вы карыстаецеся { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Наколькі вы знаёмыя з { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Ваш водгук дапамагае зрабіць { -brand-short-name } яшчэ лепшым.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Я новенькі
 onboarding-new-user-survey-time-based-option-2 = Менш за 1 месяц
+onboarding-new-user-survey-time-based-option-3 = Больш за 1 месяц, рэгулярна
+onboarding-new-user-survey-time-based-option-4 = Больш за 1 месяц, часам
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Я новенькі
+onboarding-new-user-survey-familiarity-based-option-2 = Карыстаўся пэўны час
+onboarding-new-user-survey-familiarity-based-option-3 = Мне гэта добра знаёма
