@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (не адпраўляць пінг)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Упэўніцеся, што ў папярэднім полі ёсць запамінальны тэг адладкі, каб пазней вы маглі распазнаваць свае пінгі.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Усталюйце запамінальны тэг адладкі <span>(20 сімвалаў ці менш, толькі літары, лічбы і -)</span>, каб вы маглі пазней распазнаваць свае пінгі.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
