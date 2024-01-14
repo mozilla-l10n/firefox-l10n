@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Wysłano zgłoszenie. Dziękujemy!
 confirmation-hint-login-removed = Usunięto dane logowania
+confirmation-hint-password-removed = Usunięto hasło
 confirmation-hint-page-bookmarked = Dodano zakładkę
 confirmation-hint-password-saved = Zachowano hasło
 confirmation-hint-password-created = Zachowano hasło

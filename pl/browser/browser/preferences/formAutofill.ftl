@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Zachowane adresy
 autofill-manage-addresses-list-header = Adresy
 autofill-manage-credit-cards-title = Zachowane dane kart
 autofill-manage-credit-cards-list-header = Karty
+autofill-manage-payment-methods-title = Zachowane metody płatności
+autofill-manage-cards-list-header = Karty
 autofill-manage-dialog =
     .style = min-width: 600px
 autofill-manage-remove-button = Usuń
@@ -37,12 +39,14 @@ address-capture-manage-address-button =
     .label = Ustawienia adresu
 address-capture-learn-more-button =
     .label = Więcej informacji
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Nowy adres
 address-capture-open-menu-button =
     .aria-label = Otwórz menu
 address-capture-edit-address-button =
     .aria-label = Edytuj adres
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Nowy adres
+autofill-add-address-title = Dodawanie adresu
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Edycja adresu
 autofill-address-name = Nazwa
@@ -114,7 +118,6 @@ autofill-address-email = E-mail
 autofill-cancel-button = Anuluj
 autofill-save-button = Zachowaj
 autofill-country-warning-message = Wypełnianie formularzy jest obecnie dostępne tylko w wybranych krajach.
-autofill-message-tooltip = Wyświetl komunikat o automatycznym wypełnianiu
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Dodawanie nowej karty płatniczej
 # The dialog title for editing credit cards in browser preferences.
@@ -127,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } chce uzyskać dostęp do informacji o kartach płatniczych. Potwierdź poniżej używając konta Windows.
        *[other] { -brand-short-name } chce uzyskać dostęp do informacji o kartach płatniczych.
     }
+autofill-message-tooltip = Wyświetl komunikat o automatycznym wypełnianiu
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Dodawanie karty
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Edycja danych karty
 autofill-card-number = Numer
 autofill-card-invalid-number = Proszę wprowadzić prawidłowy numer karty
 autofill-card-name-on-card = Imię i nazwisko
