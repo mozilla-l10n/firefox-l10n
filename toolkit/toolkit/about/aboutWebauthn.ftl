@@ -29,6 +29,8 @@ about-webauthn-text-select-device = Dotykem na zařízení vyberte požadovaný 
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Nelze spravovat možnosti, protože váš bezpečnostní token nepodporuje CTAP2.
 about-webauthn-text-not-available = Na této platformě není k dispozici.
+about-webauthn-bio-enrollment-list-subsection-title = Registrace:
+about-webauthn-add-bio-enrollment-section-title = Přidat novou registraci
 
 ## Results label
 
@@ -45,6 +47,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Chyba: Neplatný PIN. Zkuste to znovu. Zbývá vám { $retriesLeft } pokusů.
     }
 about-webauthn-results-pin-blocked-error = Chyba: Váš přístroj byl uzamčen, protože byl příliš mnohokrát zadán špatný PIN. Zařízení je třeba obnovit.
+about-webauthn-results-pin-not-set-error = Chyba: PIN není nastaven. Tato operace vyžaduje ochranu pomocí kódu PIN.
 about-webauthn-results-pin-too-short-error = Chyba: Zadaný PIN je příliš krátký.
 about-webauthn-results-pin-too-long-error = Chyba: Zadaný PIN je příliš dlouhý.
 about-webauthn-results-pin-auth-blocked-error = Chyba: vyskytlo se příliš mnoho neúspěšných pokusů za sebou a ověření PINu bylo dočasně zablokováno. Zařízení potřebuje cyklus napájení (odpojení a opětovné zapojení).
@@ -57,6 +60,8 @@ about-webauthn-repeat-pin-label = Zopakovat nový PIN:
 about-webauthn-current-pin-label = Aktuální PIN:
 about-webauthn-pin-required-label = Zadejte svůj PIN:
 about-webauthn-credential-list-subsection-title = Přihlašovací údaje:
+about-webauthn-enrollment-name-label = Název registrace (volitelné):
+about-webauthn-enrollment-list-empty = V zařízení nebyly nalezeny žádné registrace.
 about-webauthn-credential-list-empty = Na tomto zařízení nebyly nalezeny žádné přihlašovací údaje.
 about-webauthn-confirm-deletion-label = Chystáte se smazat:
 
@@ -66,9 +71,14 @@ about-webauthn-current-set-pin-button = Nastavit PIN
 about-webauthn-current-change-pin-button = Změna PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Zobrazit přihlašovací údaje
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Zobrazit registrace
+about-webauthn-add-bio-enrollment-button = Přidat registraci
 about-webauthn-cancel-button = Zrušit
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Smazat
+about-webauthn-start-enrollment-button = Spustit registraci
+about-webauthn-update-button = Aktualizovat
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -135,6 +145,18 @@ about-webauthn-auth-info-null = Nepodporováno
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Ještě je potřeba { $repeatCount } vzorek.
+        [few] Ještě jsou potřeba { $repeatCount } vzorky.
+        [many] Ještě je potřeba { $repeatCount } vzorků.
+       *[other] Ještě je potřeba { $repeatCount } vzorků.
+    }
 # Scan (e.g. of fingerprint) was successful.
 about-webauthn-ctap2-enroll-feedback-good = Vzorek byl dobrý.
 
@@ -158,4 +180,5 @@ about-webauthn-ctap2-enroll-feedback-merge-failure = Selhání sloučení vzork�
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
 about-webauthn-ctap2-enroll-feedback-exists = Vzorek již existuje.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Žádná aktivita uživatele.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Uživatel nedokončil vytvoření vzorků podle očekávání.
 about-webauthn-ctap2-enroll-feedback-other = Chyba vzorku.
