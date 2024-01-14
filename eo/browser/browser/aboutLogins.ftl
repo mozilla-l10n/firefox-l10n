@@ -108,19 +108,28 @@ about-logins-login-intro-heading-logged-in = Neniu spegulita legitimilo trovita.
 login-intro-description = Se vi konservis viajn legitimilojn en { -brand-product-name } en alia aparato, vi povas havi ilin ankaŭ ĉi tie jene:
 login-intro-instructions-fxa = Krei konton aŭ komencu seancon en { -fxaccount-brand-name } en la aparato, kie la legitimiloj estas konservitaj
 about-logins-login-intro-heading-message = Konservi pasvorton en sekura ejo
+login-intro-description2 = Ĉiuj pasvortoj konservitaj en { -brand-product-name } estas ĉifritaj. Cetere, ni priatentas datumfuĝojn kaj sciigas vin se tio koncernas vin. <a data-l10n-name="breach-alert-link">Pli da informo</a>
 login-intro-instructions-fxa2 = Krei konton aŭ komencu seancon en la aparato, kie la legitimiloj estas konservitaj.
 login-intro-instructions-fxa-settings = Iru al Agordoj->Spegulado->Ŝalti speguladon… Elektu la markobutonon "Legitimiloj kaj pasvortoj".
 login-intro-instructions-fxa-passwords-help = Vizitu la paĝon <a data-l10n-name="passwords-help-link">helpo pri pasvortoj</a> por havi pli da informo.
 about-logins-intro-browser-only-import = Se viaj legitimiloj estas konservitaj en alia retumilo, vi povas <a data-l10n-name="import-link">enporti ilin en { -brand-product-name }</a>
 about-logins-intro-import2 = Se viaj legitimiloj estas konservitaj ekster { -brand-product-name }, vi povas <a data-l10n-name="import-browser-link">enporti ilin el alia retumilo</a> aŭ <a data-l10n-name="import-file-link">el dosiero</a>
+about-logins-intro-import3 = Premu la supran plussignan butonon por aldoni pasvorton nun. Vi povas ankaŭ <a data-l10n-name="import-browser-link">enporti pasvortojn el alia retumilo</a> aŭ <a data-l10n-name="import-file-link">el dosiero</a>.
 
 ## Login
 
 login-item-new-login-title = Krei novan legitimilon
+# Header for adding a password
+about-logins-login-item-new-login-title = Aldoni pasvorton
 login-item-edit-button = Redakti
 about-logins-login-item-remove-button = Forigi
 login-item-origin-label = Adreso de retejo
 login-item-tooltip-message = Certiĝu ke tio ĉi kongruas ekzakte kun la adreso de la retejo kie vi komencas seancon.
+about-logins-origin-tooltip2 = Enigu la tutan adreson kaj certu ke ĝi ekzakte kongruas kun la adreso de via komenco de seanco.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Certiĝu konservi la aktualan pasvorton por tiu ĉi retejo. Se vi ŝanĝas la pasvorton ĉi tie, ĝi ne ŝanĝiĝos por { $webTitle }.
+about-logins-add-password-tooltip = Certiĝu konservi la aktualan pasvorton por tiu ĉi retejo.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nomo de uzanto
@@ -134,6 +143,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopii
 login-item-copied-password-button-text = Kopiita!
 login-item-save-changes-button = Konservi ŝanĝojn
+about-logins-login-item-save-changes-button = Konservi
 login-item-save-new-button = Konservi
 login-item-cancel-button = Nuligi
 
@@ -161,6 +171,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Por redakti viajn legitimil
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifi la konservitan legitimilon
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Por modifi vian pasvorton vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = modifi la konservitan pasvorton
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Por vidi vian pasvorton vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -176,6 +191,11 @@ about-logins-export-password-os-auth-dialog-message-win = Por elporti viajn legi
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = Elporto konservis legitimilojn kaj pasvortojn
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Por elporti viajn pasvortojn vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = elporti la konservitan pasvortojn
 
 ## Primary Password notification
 
@@ -191,6 +211,10 @@ confirmation-dialog-dismiss-button =
     .title = Nuligi
 about-logins-confirm-remove-dialog-title = Ĉu forigi tiun ĉi legitimilon?
 confirm-delete-dialog-message = Tiu ĉi ago ne estas malfarebla.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Ĉu forigi pasvorton?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Tiu ĉi ago ne estas malfarebla.
 about-logins-confirm-remove-dialog-confirm-button = Forigi
 
 ## Variables
@@ -232,6 +256,19 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Tio ĉi forigos la legitimilon konservita de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
        *[other] Tio ĉi forigos la legitimilojn konservita de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Jes, forigi pasvorton
+        [one] { "" }
+       *[other] Jes, forigi pasvortojn
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Ĉu forigi { $count } pasvorton?
+       *[other] Ĉu forigi ĉiujn { $count } pasvortojn?
     }
 
 ##
