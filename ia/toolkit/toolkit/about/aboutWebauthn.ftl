@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Gestion de PIN
 about-webauthn-credential-management-section-title = Gerer le credentiales
 about-webauthn-pin-required-section-title = PIN obligatori
 about-webauthn-confirm-deletion-section-title = Confirmar deletion
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Registrationes biometric
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Elige tu jeton de securitate desirate toccan
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Impossibile gerer optiones perque tu jeton de securitate non supporta CTAP2.
 about-webauthn-text-not-available = Non disponibile pro iste platteforma
+about-webauthn-bio-enrollment-list-subsection-title = Registrationes:
+about-webauthn-add-bio-enrollment-section-title = Adder nove registration
 
 ## Results label
 
@@ -41,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Error: PIN errate. Retenta. Tu ha { $retriesLeft } tentativas restante.
     }
 about-webauthn-results-pin-blocked-error = Error: Il non ha plus tentativas disponibile e tu apparato ha essite blocate perque le PIN errate era fornite troppe vices. Le apparato besonia de esser reinitiate.
+about-webauthn-results-pin-not-set-error = Error: PIN non preparate. Iste operation besonia del protection de PIN.
 about-webauthn-results-pin-too-short-error = Error: le PIN fornite es troppo curte.
 about-webauthn-results-pin-too-long-error = Error: le PIN fornite es troppo longe.
 about-webauthn-results-pin-auth-blocked-error = Error: Il habeva troppe tentativas fallite in un rango e le authentication del PIN ha essite temporarimente blocate. Tu apparato besonia de un cyclo de extinction (distaccar le spina e re-inserer lo).
@@ -53,6 +58,7 @@ about-webauthn-repeat-pin-label = Repeter le nove PIN:
 about-webauthn-current-pin-label = PIN actual:
 about-webauthn-pin-required-label = Insere tu PIN:
 about-webauthn-credential-list-subsection-title = Credentiales:
+about-webauthn-enrollment-name-label = Nomine de registration (optional):
 about-webauthn-credential-list-empty = Nulle credentiales trovate sur le apparato.
 about-webauthn-confirm-deletion-label = Tu va deler:
 
@@ -65,6 +71,7 @@ about-webauthn-list-credentials-button = Listar credentiales
 about-webauthn-cancel-button = Cancellar
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Deler
+about-webauthn-update-button = Actualisar
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -128,3 +135,12 @@ about-webauthn-auth-info-true = Ver
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Non supportate
+
+## Bio enrollment sample feedbacks
+
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+
