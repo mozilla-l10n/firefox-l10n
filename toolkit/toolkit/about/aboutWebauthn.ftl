@@ -117,6 +117,13 @@ about-webauthn-auth-option-null = Ne subtenata
 about-webauthn-auth-info-vendor-prototype-config-commands = Ordonoj por agordi la prototipon de la liveranto
 about-webauthn-auth-info-remaining-discoverable-credentials = Restantaj malkovreblaj legitimiloj
 about-webauthn-auth-info-certifications = Atestiloj
+about-webauthn-auth-info-uv-modality = Maniero kontroli uzanton
+about-webauthn-auth-info-preferred-platform-uv-attempts = Klopodoj kontroli uzanton en la preferata platformo
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maksimuma nombro de fidataj identigiloj de aliaj, por difini la minimuman longon de PIN
+about-webauthn-auth-info-max-cred-blob-length = Maksimuma longo de legitima blob
+about-webauthn-auth-info-firmware-version = Versio de mikroprogramo
+about-webauthn-auth-info-min-pin-length = Minimuma longo de PIN
+about-webauthn-auth-info-force-pin-change = Devigi ŝanĝon de PIN
 
 ## Bio enrollment sample feedbacks
 
