@@ -124,6 +124,22 @@ about-webauthn-auth-info-max-cred-blob-length = Maksimuma longo de legitima blob
 about-webauthn-auth-info-firmware-version = Versio de mikroprogramo
 about-webauthn-auth-info-min-pin-length = Minimuma longo de PIN
 about-webauthn-auth-info-force-pin-change = Devigi ŝanĝon de PIN
+about-webauthn-auth-info-max-ser-large-blob-array = Maksimuma grando por tabelo de granda blob
+about-webauthn-auth-info-algorithms = Algoritmoj
+about-webauthn-auth-info-transports = Transportoj
+about-webauthn-auth-info-max-credential-id-length = Maksimuma longo de identigilo de legitimilo
+about-webauthn-auth-info-max-credential-count-in-list = Maksimuma nombro de legitimiloj en la listo
+about-webauthn-auth-info-pin-protocols = Protokoloj de PIN
+about-webauthn-auth-info-max-msg-size = Maksimuma grando de mesaĝo
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Etendaĵoj
+about-webauthn-auth-info-versions = Versioj
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Ne subtenata
 
 ## Bio enrollment sample feedbacks
 
