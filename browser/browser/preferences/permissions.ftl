@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = მოცემულ საიტებზე ანგარიშზე შესვლის მონაცემები არ შეინახება
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = გამონაკლისები – შენახული პაროლები
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } არ შეინახავს აქ მითითებული საიტების პაროლებს.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
