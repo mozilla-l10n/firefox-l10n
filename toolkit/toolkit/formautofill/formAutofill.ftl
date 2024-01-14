@@ -8,12 +8,25 @@
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-use-payment-method-os-prompt-macos = выкарыстоўваць захаваную інфармацыю аб спосабе аплаты
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } спрабуе выкарыстаць захаваную інфармацыю пра спосаб аплаты. Пацвердзіце доступ да гэтага ўліковага запісу Windows ніжэй.
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } спрабуе выкарыстаць захаваную інфармацыю пра спосаб аплаты.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = паказаць захаваную інфармацыю аб спосабе аплаты
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } спрабуе паказаць захаваную інфармацыю пра спосаб аплаты. Пацвердзіце доступ да гэтага ўліковага запісу Windows ніжэй.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } спрабуе паказаць захаваную інфармацыю пра спосаб аплаты.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Налады аўтазапаўнення формаў
 autofill-options-link-osx = Перавагі аўтазапаўнення формаў
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Сінхранізаваць усе захаваныя карты на маіх прыладах
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Захаваць надзейна гэту карту?
+credit-card-save-doorhanger-description = { -brand-short-name } шыфруе нумар вашай карты. Ваш код бяспекі не будзе захаваны.
 credit-card-capture-save-button =
     .label = Захаваць
     .accessKey = З
