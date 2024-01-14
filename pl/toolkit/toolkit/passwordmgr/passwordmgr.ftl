@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Czy zachować hasło dla „{ $host }”?
+password-manager-save-password-button-deny =
+    .label = Nie teraz
+    .accesskey = N
 password-manager-save-password-button-allow =
     .label = Zachowaj
     .accesskey = Z
@@ -17,10 +20,13 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Czy uaktualnić hasło dla { $host }?
+password-manager-update-password-button-delete =
+    .label = Usuń zachowane hasło
+    .accesskey = U
 password-manager-update-login-add-username = Czy dodać nazwę użytkownika do zachowanego hasła?
 password-manager-password-password-button-allow =
     .label = Uaktualnij
-    .accesskey = U
+    .accesskey = a
 password-manager-update-password-button-deny =
     .label = Nie uaktualniaj
     .accesskey = N
