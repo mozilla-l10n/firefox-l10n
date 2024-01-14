@@ -203,6 +203,8 @@ cfr-cbh-confirm-button = Rifuzi kuketajn anoncojn
     .accesskey = R
 cfr-cbh-dismiss-button = Ne nun
     .accesskey = N
+cookie-banner-blocker-cfr-header = { -brand-short-name } ĵus blokis kuketojn por vi
+cookie-banner-blocker-cfr-body = Ni aŭtomate rifuzas plurajn kuketajn ŝprucfenestrojn por malfaciligi la taskon de retejoj kiuj spuras vin.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -236,7 +238,14 @@ device-migration-fxa-spotlight-header = Ĉu vi uzas malnovan aparaton?
 device-migration-fxa-spotlight-body = Faru sekurkopion de viaj datumoj por certi ne perdi iun gravan informon, kiel legosignojn kaj pasvortojn — ĉefe se vi iras al nova aparato.
 device-migration-fxa-spotlight-primary-button = Kiel fari sekurkopion de miaj datumoj
 device-migration-fxa-spotlight-link = Rememorigi poste
+device-migration-fxa-spotlight-heavy-user-header = Ne forgesu fari sekurkopion de viaj datumoj
+device-migration-fxa-spotlight-heavy-user-body = Certiĝu havi gravajn informojn, — kiel legosignojn kaj pasvortojn — ĝisdatigitaj kaj protektitaj en ĉiuj viaj aparatoj.
+device-migration-fxa-spotlight-heavy-user-primary-button = Unuaj paŝoj
+device-migration-fxa-spotlight-older-device-header = Trankvilo kaj paco, danke al { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Konto tenas viajn gravajn informojn ĝisdatigitaj kaj protektitaj en ĉiuj aparatoj, el kiuj vi konektiĝas.
+device-migration-fxa-spotlight-older-device-primary-button = Krei konton
 device-migration-fxa-spotlight-getting-new-device-header-2 = Ĉu vi planas akiri novan aparaton?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Sekfu kelkajn simplajn paŝojn por kunporti kun vi viajn legosignojn, historion kaj pasvortojn kiam vi komencas uzi novan aparaton.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kiel fari sekurkopion de miaj datumoj
 
 ## Set as Default PDF Reader Infobar
