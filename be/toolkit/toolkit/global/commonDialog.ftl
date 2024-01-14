@@ -6,12 +6,13 @@ common-dialog-title-null = На гэтай старонцы напісана
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Невядома
-
+# An indicator showing that Firefox is waiting for an operation to finish
+common-dialog-spinner =
+    .alt = Заняты
 common-dialog-username =
     .value = Імя карыстальніка
 common-dialog-password =
     .value = Пароль
-
 common-dialog-copy-cmd =
     .label = Капіяваць
     .accesskey = К
