@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = Malĝusta PIN. Provu denove.
 webauthn-pin-required-prompt = Bonvolu tajpi la PIN por via aparato.
 webauthn-select-sign-result-unknown-account = Nekonata konto
+webauthn-a-passkey-label = Uzi alirŝlosilon
+webauthn-another-passkey-label = Uzi alian alirŝlosilon
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Alirŝlosilo por { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

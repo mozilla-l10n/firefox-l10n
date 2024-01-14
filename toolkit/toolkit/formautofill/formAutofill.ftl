@@ -21,6 +21,29 @@ autofill-options-link-osx = Preferoj de aŭtomata plenigo de formularoj
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Speguli ĉiujn konservitajn kreditkartojn en miaj aparatoj
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Ĉu sekure konservi tiun ĉi kreditkarton?
+credit-card-save-doorhanger-description = { -brand-short-name } ĉifras vian kreditkartan numeron. Via sekureca kodo ne estos konservita.
+credit-card-capture-save-button =
+    .label = Konservi
+    .accessKey = K
+credit-card-capture-cancel-button =
+    .label = Ne nun
+    .accessKey = N
+credit-card-capture-never-save-button =
+    .label = Neniam konservi kreditkartojn
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Ĉu ĝisdatigi kreditkarton?
+credit-card-update-doorhanger-description = Kreditkarto ĝisdatigota:
+credit-card-capture-save-new-button =
+    .label = Konservi novan kreditkarton
+    .accessKey = n
+credit-card-capture-update-button =
+    .label = Ĝisdatigi ekzistantan kreditkarton
+    .accessKey = e
