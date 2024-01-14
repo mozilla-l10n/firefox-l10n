@@ -343,3 +343,16 @@ onboarding-mobile-download-security-and-privacy-subtitle = Quando tu es synchron
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } es tu supporto
 onboarding-gratitude-security-and-privacy-subtitle = Gratias pro usar { -brand-short-name }, supportate per Mozilla Foundation. Con tu supporto, nos labora pro render internet plus secur r plus accessibile pro totes.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-familiarity-based-survey-title = Quanto sape tu re { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Tu commentarios adjuta nos a render { -brand-short-name } sempre melior.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Io justo comenciava
+onboarding-new-user-survey-time-based-option-2 = Minus que 1 mense
+onboarding-new-user-survey-time-based-option-3 = Plus que un mense, regularmente
+onboarding-new-user-survey-time-based-option-4 = Plus que un mense, occasionalmente
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Io justo comenciava
+onboarding-new-user-survey-familiarity-based-option-2 = Io lo usava aliquando
