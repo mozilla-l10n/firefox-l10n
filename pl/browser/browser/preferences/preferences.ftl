@@ -931,6 +931,24 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Automatyczne wypełnianie
+autofill-addresses-checkbox = Zachowywanie i wypełnianie adresów
+    .accesskey = Z
+autofill-saved-addresses-button = Zachowane adresy
+    .accesskey = c
+autofill-payment-methods-checkbox-message = Zachowywanie i wypełnianie metod płatności
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Obejmuje karty kredytowe i debetowe
+    .accesskey = b
+autofill-saved-payment-methods-button = Zachowane metody płatności
+    .accesskey = h
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Wymaganie uwierzytelnienia systemu macOS przed wypełnieniem lub zmianą metod płatności.
+        [windows] Wymaganie uwierzytelnienia systemu Windows przed wypełnieniem lub zmianą metod płatności.
+        [linux] Wymaganie uwierzytelnienia systemu Linux przed wypełnieniem lub zmianą metod płatności.
+       *[other] Wymaganie uwierzytelnienia przed wypełnieniem lub zmianą metod płatności.
+    }
+    .accesskey = u
 
 ## Privacy Section - History
 
