@@ -172,3 +172,11 @@ about-webauthn-ctap2-enroll-feedback-too-slow = Próbka była za wolna.
 about-webauthn-ctap2-enroll-feedback-poor-quality = Próbka miała niską jakość.
 # Skewed in the sense of fingerprint/iris scan was too distorted
 about-webauthn-ctap2-enroll-feedback-too-skewed = Próbka była zbyt przekrzywiona.
+about-webauthn-ctap2-enroll-feedback-too-short = Próbka była za krótka.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Niepowodzenie scalania próbek.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Próbka już istnieje.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Brak aktywności użytkownika.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Użytkownik nie ukończył pobierania próbek zgodnie z oczekiwaniami.
+about-webauthn-ctap2-enroll-feedback-other = Błąd próbki.
