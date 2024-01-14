@@ -9,6 +9,8 @@ autofill-manage-addresses-title = Konservitaj adresoj
 autofill-manage-addresses-list-header = Adresoj
 autofill-manage-credit-cards-title = Konservitaj kreditkartoj
 autofill-manage-credit-cards-list-header = Kreditkartoj
+autofill-manage-payment-methods-title = Konservitaj pagmetodoj
+autofill-manage-cards-list-header = Kreditkartoj
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Forigi
@@ -39,6 +41,12 @@ address-capture-learn-more-button =
     .label = Pli da informo
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Aldoni novan adreson
+address-capture-open-menu-button =
+    .aria-label = Malfermi menuon
+address-capture-edit-address-button =
+    .aria-label = Modifi adreson
+# The dialog title for creating addresses in browser preferences.
+autofill-add-address-title = Aldoni adreson
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Redakti adreson
 autofill-address-name = Nomo
@@ -122,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } klopodas montri kreditkartajn informojn. Konfirmu aliron al tiu ĉi suba konto de Windows.
        *[other] { -brand-short-name } klopodas montri kreditkartajn informojn.
     }
+autofill-message-tooltip = Vidi mesaĝon pri aŭtomata plenigo de formularoj
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Aldoni kreditkarton
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Modifi kreditkarton
 autofill-card-number = Numero de karto
 autofill-card-invalid-number = Bonvolu tajpi validan kartan numeron
 autofill-card-name-on-card = Nomo sur karto
