@@ -14,6 +14,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = بند کرو
     .aria-label = بند کرو
+firefoxview-empty-state-icon =
+    .alt = توجہ:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = ہݨے ہݨے
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.

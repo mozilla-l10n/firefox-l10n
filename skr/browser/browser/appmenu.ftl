@@ -255,3 +255,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = ٹولز براؤز کرو
 appmenu-developer-tools-extensions =
     .label = ڈیویلپرز کیتے توسیع
+appmenuitem-report-broken-site =
+    .label = ترٹی ہوئی سائٹ دی رپورٹ کرو

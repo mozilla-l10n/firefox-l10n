@@ -29,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = ٻئے براؤزر ک�
 about-logins-menu-menuitem-import-from-a-file = فائل کنوں درآمد کرو…
 about-logins-menu-menuitem-export-logins = لاگ اناں برآمد کرو…
 about-logins-menu-menuitem-remove-all-logins = سارے لاگ ان ہٹاؤ۔۔۔
+about-logins-menu-menuitem-export-logins2 = پاس ورڈز برآمد کرو۔۔۔
 about-logins-menu-menuitem-remove-all-logins2 = سارے پاس ورڈ ہٹاؤ۔۔۔
 menu-menuitem-preferences =
     { PLATFORM() ->
