@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Zarządzanie kodem PIN
 about-webauthn-credential-management-section-title = Zarządzaj danymi uwierzytelniającymi
 about-webauthn-pin-required-section-title = Wymagany jest PIN
 about-webauthn-confirm-deletion-section-title = Potwierdź usunięcie
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Rejestracje biometryczne
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Proszę wybrać token zabezpieczeń, dotykaj
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Nie można zarządzać opcjami, ponieważ token zabezpieczeń nie obsługuje CTAP2.
 about-webauthn-text-not-available = Niedostępne dla tego systemu.
+about-webauthn-bio-enrollment-list-subsection-title = Rejestracje:
+about-webauthn-add-bio-enrollment-section-title = Dodaj nową rejestrację
 
 ## Results label
 
@@ -42,6 +46,7 @@ about-webauthn-results-pin-invalid-error =
        *[many] Błąd: niewłaściwy kod PIN. Spróbuj ponownie. Zostało { $retriesLeft } prób.
     }
 about-webauthn-results-pin-blocked-error = Błąd: nie ma już żadnych prób, a używane urządzenie zostało zablokowane, ponieważ błędny kod PIN został podany zbyt wiele razy. Urządzenie wymaga zresetowania.
+about-webauthn-results-pin-not-set-error = Błąd: PIN nie jest ustawiony. To działanie wymaga ochrony kodem PIN.
 about-webauthn-results-pin-too-short-error = Błąd: podany PIN jest za krótki.
 about-webauthn-results-pin-too-long-error = Błąd: podany PIN jest za długi.
 about-webauthn-results-pin-auth-blocked-error = Błąd: było zbyt wiele nieudanych prób z rzędu, więc uwierzytelnianie kodem PIN zostało tymczasowo zablokowane. Używane urządzenie wymaga wyłączenia zasilania (odłączenia i ponownego podłączenia).
@@ -129,3 +134,12 @@ about-webauthn-auth-info-true = Prawda
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Fałsz
 about-webauthn-auth-info-null = Nieobsługiwane
+
+## Bio enrollment sample feedbacks
+
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+
