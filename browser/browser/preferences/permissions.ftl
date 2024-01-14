@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Innloggingar frå følgjande nettsteder vil ikkje bli lagra
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Unntak - lagra passord
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } lagrar ikkje passord for nettstadar som er oppførte her.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
