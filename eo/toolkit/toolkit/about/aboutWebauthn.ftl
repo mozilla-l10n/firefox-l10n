@@ -86,10 +86,37 @@ about-webauthn-auth-option-up = Ĉeesto de uzanto
 about-webauthn-auth-option-clientpin = PIN de la kliento
 about-webauthn-auth-option-rk = Ŝlosilo ĉe aŭtentigilo
 about-webauthn-auth-option-plat = Platforma aparato
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Ordonaj permesoj (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Ne estas permesoj MakeCredential / GetAssertion kun klienta PIN
+about-webauthn-auth-option-largeblobs = Grandaj blob
+about-webauthn-auth-option-ep = Entreprena atestilo
+about-webauthn-auth-option-bioenroll = Biometria aliĝo
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototipo de biometria aliĝo (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Permeso de biometria aliĝo
+about-webauthn-auth-option-authnrcfg = Agordoj de aŭtentigilo
+about-webauthn-auth-option-uvacfg = Permeso de agordo de aŭtentigilo
+about-webauthn-auth-option-credmgmt = Administrilo de legitimiloj
+about-webauthn-auth-option-credentialmgmtpreview = Administrilo de prototipaj legitimiloj
+about-webauthn-auth-option-setminpinlength = Difini minimuman longon de PIN
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential sen kontrolo de uzanto
+about-webauthn-auth-option-alwaysuv = Ĉiam postuli kontrolo de uzanto
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Ne subtenata
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Ordonoj por agordi la prototipon de la liveranto
+about-webauthn-auth-info-remaining-discoverable-credentials = Restantaj malkovreblaj legitimiloj
+about-webauthn-auth-info-certifications = Atestiloj
 
 ## Bio enrollment sample feedbacks
 
