@@ -254,9 +254,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [one] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-        [few] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-       *[many] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
+       *[other] Spowoduje to usunięcie wszystkich danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
     }
 about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
@@ -301,6 +299,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Eksport danych logowania i haseł
 about-logins-confirm-export-dialog-message = Twoje hasła zostaną zapisane jako zwykły tekst (np. SłabeH@s1o), więc każdy, kto może otworzyć wyeksportowany plik, będzie mógł je zobaczyć.
 about-logins-confirm-export-dialog-confirm-button = Eksportuj…
+about-logins-confirm-export-dialog-title2 = Uwaga na temat eksportowania haseł
+about-logins-confirm-export-dialog-message2 =
+    Eksportowane hasła są zapisywane w pliku ze zwykłym tekstem.
+    Po skończeniu korzystania z pliku zalecamy jego usunięcie, aby inne osoby używające tego urządzenia nie mogły zobaczyć Twoich haseł.
+about-logins-confirm-export-dialog-confirm-button2 = Kontynuuj eksportowanie
 about-logins-alert-import-title = Ukończono importowanie
 about-logins-alert-import-message = Wyświetl szczegółowe podsumowanie importowania
 confirm-discard-changes-dialog-title = Czy odrzucić niezachowane zmiany?
@@ -342,6 +345,11 @@ about-logins-export-file-picker-title = Eksportuj plik z danymi logowania
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = dane-logowania.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Eksportuj hasła z { -brand-short-name(case: "gen") }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = hasła.csv
 about-logins-export-file-picker-export-button = Eksportuj
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
