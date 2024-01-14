@@ -341,3 +341,18 @@ onboarding-mobile-download-security-and-privacy-subtitle = Kur keni bërë njëk
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ju mbron krahët
 onboarding-gratitude-security-and-privacy-subtitle = Faleminderit që përdorni { -brand-short-name }-in, që ka nga pas Mozilla Foundation. Me përkrahjen tuaj, po punojmë për ta bërë internetin më të hapur dhe të përdorshëm për këdo.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Prej sa kohësh e përdorni { -brand-short-name }-in?
+onboarding-new-user-familiarity-based-survey-title = Sa i familjarizuar jeni me { -brand-short-name }-in?
+onboarding-new-user-survey-subtitle = Përshtypjet tuaja ndihmojnë për ta bërë { -brand-short-name }-in edhe më të mirë.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Jam fringo i ri
+onboarding-new-user-survey-time-based-option-2 = Më pak se 1 muaj
+onboarding-new-user-survey-time-based-option-3 = Më shumë se 1 muaj, rregullisht
+onboarding-new-user-survey-time-based-option-4 = Më shumë se 1 muaj, me raste
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Jam fringo i ri
+onboarding-new-user-survey-familiarity-based-option-2 = E kam përdorur ca herë
+onboarding-new-user-survey-familiarity-based-option-3 = Jam shumë i familjarizuar me të
