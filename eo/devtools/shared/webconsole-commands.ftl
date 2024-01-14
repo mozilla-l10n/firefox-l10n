@@ -22,3 +22,13 @@ webconsole-commands-usage-unblock =
     Ĉesigi blokadon de retaj petoj
     
       Nur unu parametro estas akceptita, ekzakte la sama, kiu estis antaŭe sendia al :block.
+# Usage string for :trace command
+webconsole-commands-usage-trace =
+    :trace
+    
+    Aktivigi aŭ malaktivigi la spurilo de JavaScript
+    
+      La jenan parametroj estas akceptitaj:
+        --logMethod  ‘console’ por registri en la teksaĵa konzolo (normo), aŭ ‘stdout’ por registri en la norma eligo,
+        --prefix nedeviga teksto kiu estos aldonita komence de ĉiu spurila registro,
+        --help aŭ --usage por montri tiun ĉi mesaĝon.
