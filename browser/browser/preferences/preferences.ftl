@@ -779,9 +779,9 @@ sync-engine-history =
     .label = historia
     .accesskey = h
 sync-engine-tabs =
-    .label = karty
+    .label = otwarte karty
     .tooltiptext = Lista otwartych stron na wszystkich synchronizowanych urządzeniach
-    .accesskey = k
+    .accesskey = o
 sync-engine-logins-passwords =
     .label = dane logowania i hasła
     .tooltiptext = Zachowane nazwy użytkownika i hasła
@@ -798,9 +798,9 @@ sync-engine-creditcards =
     .label = dane kart płatniczych
     .tooltiptext = Nazwiska, numery i okresy ważności (tylko na komputerach)
     .accesskey = n
-sync-engine-payment-methods =
+sync-engine-payment-methods2 =
     .label = metody płatności
-    .tooltiptext = Nazwiska, numery kart i okresy ważności (tylko na komputerach)
+    .tooltiptext = Nazwiska, numery kart i okresy ważności
     .accesskey = m
 sync-engine-addons =
     .label = dodatki
@@ -848,11 +848,25 @@ pane-privacy-logins-and-passwords-header = Dane logowania i hasła
 forms-ask-to-save-logins =
     .label = Pytanie o zachowywanie danych logowania do witryn
     .accesskey = P
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Hasła
+    .searchkeywords = dane logowania
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Pytanie o zachowywanie haseł
+    .accesskey = P
 forms-exceptions =
     .label = Wyjątki…
     .accesskey = i
 forms-generate-passwords =
     .label = Proponowanie i generowanie silnych haseł
+    .accesskey = s
+forms-suggest-passwords =
+    .label = Proponowanie silnych haseł
     .accesskey = s
 forms-breach-alerts =
     .label = Powiadomienia o hasłach do stron, z których wyciekły dane.
@@ -860,6 +874,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Więcej informacji
 preferences-relay-integration-checkbox =
     .label = Proponowanie masek { -relay-brand-name } do ochrony adresu e-mail.
+preferences-relay-integration-checkbox2 =
+    .label = Proponowanie masek { -relay-brand-name } do ochrony adresu e-mail.
+    .accesskey = m
 relay-integration-learn-more-link = Więcej informacji
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -868,6 +885,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Zachowane dane logowania…
     .accesskey = d
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Automatyczne wypełnianie nazw użytkownika i haseł
+    .accesskey = A
+forms-saved-passwords =
+    .label = Zachowane hasła
+    .accesskey = c
 forms-primary-pw-use =
     .label = Hasło główne.
     .accesskey = H
@@ -891,6 +915,7 @@ forms-windows-sso =
     .label = Zezwalaj na pojedyncze logowanie Windows do kont Microsoft, służbowych i szkolnych.
 forms-windows-sso-learn-more-link = Więcej informacji
 forms-windows-sso-desc = Zarządzaj kontami w ustawieniach urządzenia
+windows-passkey-settings-label = Zarządzaj kluczami dostępu w ustawieniach urządzenia
 
 ## OS Authentication dialog
 
@@ -902,6 +927,10 @@ primary-password-os-auth-dialog-message-win = Aby utworzyć hasło główne, wpr
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = utworzenie hasła głównego
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Automatyczne wypełnianie
 
 ## Privacy Section - History
 

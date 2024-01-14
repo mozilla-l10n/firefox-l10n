@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Dane logowania dla następujących witryn nie będą zachowywane.
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Zachowywanie hasła — wyjątki
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } nie będzie zachowywać haseł do wymienionych tutaj witryn.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
