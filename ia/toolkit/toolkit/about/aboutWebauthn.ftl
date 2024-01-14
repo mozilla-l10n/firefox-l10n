@@ -68,6 +68,9 @@ about-webauthn-current-set-pin-button = Definir PIN
 about-webauthn-current-change-pin-button = Cambiar PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Listar credentiales
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Lista de inrolamentos
+about-webauthn-add-bio-enrollment-button = Adder inrolamento
 about-webauthn-cancel-button = Cancellar
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Deler
@@ -138,6 +141,8 @@ about-webauthn-auth-info-null = Non supportate
 
 ## Bio enrollment sample feedbacks
 
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Le specimen era bon.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
