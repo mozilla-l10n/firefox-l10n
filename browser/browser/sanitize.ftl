@@ -81,6 +81,9 @@ item-site-prefs =
     .label = Налады сайта
     .accesskey = д
 item-site-prefs-description = Скідвае вашы дазволы і параметры сайтаў да зыходных налад
+item-download-history =
+    .label = Спіс сцягнутых файлаў
+    .accesskey = С
 data-section-label = Дадзеныя
 item-site-settings =
     .label = Налады сайтаў
@@ -93,6 +96,8 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Ачысціць зараз
+sanitize-button-ok2 =
+    .label = Ачысціць
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
