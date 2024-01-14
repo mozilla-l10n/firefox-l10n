@@ -466,6 +466,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Vis alltid rullefelt
     .accesskey = V
+browsing-always-underline-links =
+    .label = Understrek alltid lenker
+    .accesskey = U
 browsing-use-onscreen-keyboard =
     .label = Vis eit tøtsj-tastatur når nødvendig
     .accesskey = t
@@ -609,6 +612,9 @@ search-suggestions-desc = Vel korleis forslag frå søkjemotoren skal visast.
 search-suggestions-option =
     .label = Tilby søkjeforslag
     .accesskey = T
+search-show-suggestions-option =
+    .label = Vis søkjeforslag
+    .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = Vis søkjeforslag i adresselinja
     .accesskey = l
@@ -776,6 +782,10 @@ sync-engine-logins-passwords =
     .label = Innloggingar og passord
     .tooltiptext = Brukarnamn og passord som du har lagra
     .accesskey = l
+sync-engine-passwords =
+    .label = Passord
+    .tooltiptext = Passord du har lagra
+    .accesskey = P
 sync-engine-addresses =
     .label = Adresser
     .tooltiptext = Postadresser du har lagra (berre skrivebord)
@@ -784,6 +794,10 @@ sync-engine-creditcards =
     .label = Kredittkort
     .tooltiptext = Namn, nummer og forfallsdato (berre skrivebord)
     .accesskey = K
+sync-engine-payment-methods2 =
+    .label = Betalingsmåtar
+    .tooltiptext = Namn, kortnummer, og opphøyrsdatoar
+    .accesskey = n
 sync-engine-addons =
     .label = Tillegg
     .tooltiptext = Utvidingar og tema for Firefox desktop
@@ -833,12 +847,23 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Passord
+    .searchkeywords = innloggingar
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Spør om å lagre passord
+    .accesskey = S
 forms-exceptions =
     .label = Unntak…
     .accesskey = n
 forms-generate-passwords =
     .label = Foreslå og generer sterke passord
     .accesskey = o
+forms-suggest-passwords =
+    .label = Foreslå sterke passord
+    .accesskey = F
 forms-breach-alerts =
     .label = Vis varsel om passord for datalekkasjar på nettstadar
     .accesskey = p
