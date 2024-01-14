@@ -59,6 +59,7 @@ about-webauthn-current-pin-label = PIN actual:
 about-webauthn-pin-required-label = Insere tu PIN:
 about-webauthn-credential-list-subsection-title = Credentiales:
 about-webauthn-enrollment-name-label = Nomine de registration (optional):
+about-webauthn-enrollment-list-empty = Nulle inrolamentos trovate sur le apparato.
 about-webauthn-credential-list-empty = Nulle credentiales trovate sur le apparato.
 about-webauthn-confirm-deletion-label = Tu va deler:
 
@@ -74,6 +75,7 @@ about-webauthn-add-bio-enrollment-button = Adder inrolamento
 about-webauthn-cancel-button = Cancellar
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Deler
+about-webauthn-start-enrollment-button = Initiar inrolamento
 about-webauthn-update-button = Actualisar
 
 ## Authenticator options fields
@@ -141,11 +143,38 @@ about-webauthn-auth-info-null = Non supportate
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } specimen ancora necessari.
+       *[other] { $repeatCount } specimens ancora necessari.
+    }
 # Scan (e.g. of fingerprint) was successful.
 about-webauthn-ctap2-enroll-feedback-good = Le specimen era bon.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Le specimen era troppo alte.
+about-webauthn-ctap2-enroll-feedback-too-low = Le specimen era troppo basse
+about-webauthn-ctap2-enroll-feedback-too-left = Le specimen era troppo a sinistra.
+about-webauthn-ctap2-enroll-feedback-too-right = Le specimen era troppo a dextra.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Le specimen era troppo veloce.
+about-webauthn-ctap2-enroll-feedback-too-slow = Le specimen era troppo lente.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Le specimen habeva povre qualitate.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Le specimen era troppo inclinate.
+about-webauthn-ctap2-enroll-feedback-too-short = Le specimen era troppo breve.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Fallimento del fusionamento del specimen.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Le specimen jam existe
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Nulle activitate de usator.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Le usator non completava le recolta de specimen como expectate.
+about-webauthn-ctap2-enroll-feedback-other = Error de specimen.
