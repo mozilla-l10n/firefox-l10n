@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = { -fakespot-brand-full-name } ხელოვნური ინტელექტის შესაძლებლობებით ამოწმებს მიმოხილვების სანდოობას. ამით მხოლოდ მიმოხილვის ხარისხი დგინდება და არა – ნაწარმის ხარისხი.
 shopping-analysis-explainer-grades-intro = გასაყიდ ნაწარმზე თითოეულ მიმოხილვას ეწერება <strong>ნიშნები</strong> A-დან F-მდე.
 shopping-analysis-explainer-adjusted-rating-description = <strong>შესწორებული შეფასება</strong> ეყრდნობა მხოლოდ სანდოდ მიჩნეულ მიმოხილვებს.
-shopping-analysis-explainer-learn-more = იხილეთ ვრცლად, <a data-l10n-name="review-quality-url">როგორ განსაზღვრავს { -fakespot-brand-full-name } მიმოხილვის ხარისხს</a>.
 shopping-analysis-explainer-learn-more2 = იხილეთ ვრცლად, <a data-l10n-name="review-quality-url">როგორ განსაზღვრავს { -fakespot-brand-name } მიმოხილვის ხარისხს</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = მიმოხილვის შემმოწმებლის გახსნა
 shopping-sidebar-close-button2 =
     .tooltiptext = მიმოხილვის შემმოწმებლის დახურვა
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -190,9 +181,13 @@ shopping-onboarding-headline = გამოცადეთ ჩვენი ს�
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = გადაამოწმეთ შეძენამდე, თუ რამდენად სანდოა გასაყიდი ნაწარმის მიმოხილვები საიტზე <b>{ $currentSite }</b>. მიმოხილვის შემმოწმებელი საცდელი შესაძლებლობაა { -brand-product-name }-სგან, რომელიც ჩაშენებულია ბრაუზერშივე. მხარდაჭერილია <b>{ $secondSite }</b> და აგრეთვე <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = გადაამოწმეთ შეძენამდე, თუ რამდენად სანდო მიმოხილვებს გიჩვენებთ გასაყიდი ნაწარმის შესახებ <b>{ $currentSite }</b>. მიმოხილვის შემმოწმებელი, საცდელი შესაძლებლობა, რომელსაც გთავაზობთ { -brand-product-name }, პირდაპირ ბრაუზერშივეა ჩაშენებული.
 shopping-onboarding-body = ყოველისშემძლე { -fakespot-brand-full-name } დაგეხმარებათ აირიდოთ მიკერძოებული და ყალბი მიმოხილვები. ჩვენი AI-მოდელი მუდმივად თქვენს დასაცავად საყიდლების შეძენისას. <a data-l10n-name="learn_more">ვრცლად</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = „{ shopping-onboarding-opt-in-button }“ ღილაკზე დაჭერით ეთანხმებით { -fakespot-brand-full-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = „{ shopping-onboarding-opt-in-button }“ ღილაკზე დაჭერით ეთანხმებით { -fakespot-brand-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = „{ shopping-onboarding-opt-in-button }“ ღილაკზე დაჭერით ეთანხმებით { -brand-product-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და { -fakespot-brand-name }-ის <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
 shopping-onboarding-opt-in-button = დიახ, მოისინჯოს
 shopping-onboarding-not-now-button = ახლა არა
 shopping-onboarding-dialog-close-button =
