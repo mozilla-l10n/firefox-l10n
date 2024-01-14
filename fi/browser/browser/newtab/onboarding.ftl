@@ -344,3 +344,19 @@ onboarding-mobile-download-security-and-privacy-subtitle = Synkronoinnin myötä
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } huolehtii sinusta
 onboarding-gratitude-security-and-privacy-subtitle = Kiitos, että käytät Mozilla-säätiön tukemaa { -brand-short-name }ia. Tukesi avulla pyrimme tekemään Internetistä entistä turvallisemman ja helpommin saavutettavan kaikille.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Kuinka kauan olet käyttänyt { -brand-short-name }ia?
+onboarding-new-user-familiarity-based-survey-title = Kuinka tuttu { -brand-short-name } on sinulle?
+onboarding-new-user-survey-subtitle = Palautteesi auttaa tekemään { -brand-short-name }ista entistä paremman.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Olen aivan uusi
+onboarding-new-user-survey-time-based-option-2 = Alle kuukauden
+onboarding-new-user-survey-time-based-option-3 = Yli kuukauden, säännöllisesti
+onboarding-new-user-survey-time-based-option-4 = Yli kuukauden, satunnaisesti
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Olen aivan uusi
+onboarding-new-user-survey-familiarity-based-option-2 = Olen käyttänyt sitä jonkin verran
+onboarding-new-user-survey-familiarity-based-option-3 = Olen hyvin perehtynyt siihen
+onboarding-new-user-survey-familiarity-based-option-4 = Olen käyttänyt sitä aiemmin, mutta siitä on aikaa
