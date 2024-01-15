@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Administrim PIN-i
 about-webauthn-credential-management-section-title = Administroni kredenciale
 about-webauthn-pin-required-section-title = PIN është i domosdoshëm
 about-webauthn-confirm-deletion-section-title = Ripohoni fshirjen
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Dhënie elementësh biometrikë
 
 ## Info field texts
 
@@ -112,3 +114,12 @@ about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Zgjerime
 about-webauthn-auth-info-versions = Versione
 about-webauthn-auth-info-null = E pambuluar
+
+## Bio enrollment sample feedbacks
+
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+
