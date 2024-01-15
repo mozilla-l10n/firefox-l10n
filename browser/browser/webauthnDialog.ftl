@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = PIN okerra. Saiatu berriro.
 webauthn-pin-required-prompt = Idatzi zure gailuaren PINa mesedez.
 webauthn-select-sign-result-unknown-account = Kontu ezezaguna
+webauthn-a-passkey-label = Erabili sarbide-gakoa
+webauthn-another-passkey-label = Erabili beste sarbide-gako bat
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = { $domain } domeinurako sarbide-gakoa
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
