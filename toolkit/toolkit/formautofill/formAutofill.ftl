@@ -11,6 +11,12 @@ autofill-options-link-osx = Preferéncias d’emplenatge automatic dels formular
 
 ## The credit card capture doorhanger
 
+credit-card-capture-save-button =
+    .label = Salvar
+    .accessKey = S
+credit-card-capture-cancel-button =
+    .label = Pas ara
+    .accessKey = P
 
 # Used on the doorhanger when an credit card change is detected.
 
