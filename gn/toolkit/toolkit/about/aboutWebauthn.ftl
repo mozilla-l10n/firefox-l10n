@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN ñangarekohára
 about-webauthn-credential-management-section-title = Eñangareko terachaukaháre
 about-webauthn-pin-required-section-title = PIN tekotevẽva
 about-webauthn-confirm-deletion-section-title = Emoneĩ ñemboguete
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biométrica mboheraguapy
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Eiporavo pe token tekorosãgua eipotáva eik
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Nereñangarkokuaái poravorãre token tekorosãgua ndojokupytýire CTAP2 ndive.
 about-webauthn-text-not-available = Ndaipóri ko pyendavusúpe.
+about-webauthn-bio-enrollment-list-subsection-title = Jehaipy:
+about-webauthn-add-bio-enrollment-section-title = Embojuaju jehaipy pyahu
 
 ## Results label
 
@@ -93,7 +97,7 @@ about-webauthn-auth-option-setminpinlength = PIN pukukue sa’ivéva
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential poruhára jehechajey’ỹre
 about-webauthn-auth-option-alwaysuv = Ejerurememe poruhára jehechajey
 # Shows when boolean value for an option is True. True should not be translated.
-about-webauthn-auth-option-true = Añetéva
+about-webauthn-auth-option-true = Añete
 # Shows when boolean value of an option is False. False should not be translated.
 about-webauthn-auth-option-false = Japu
 # If the value is missing (null), it means a certain feature is not supported.
@@ -128,3 +132,12 @@ about-webauthn-auth-info-true = Añetéva
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Japu
 about-webauthn-auth-info-null = Oñepytyvõ’ỹva
+
+## Bio enrollment sample feedbacks
+
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+
