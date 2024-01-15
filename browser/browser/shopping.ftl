@@ -189,6 +189,7 @@ shopping-onboarding-dynamic-subtitle-1 = Vásárlás előtt nézze meg, hogy men
 shopping-onboarding-single-subtitle = Vásárlás előtt nézze meg, hogy mennyire megbízhatók a(z) <b>{ $currentSite }</b> termékértékelései. Az értékelés-ellenőrző, a { -brand-product-name } egy kísérleti funkciója, amely közvetlenül a böngészőbe van építve.
 shopping-onboarding-body = A { -fakespot-brand-full-name } erejét használva segítünk elkerülni az elfogult és a nem hiteles értékeléseket. Az MI modellünket folyamatosan fejlesztjük, hogy megvédjük Önt vásárlás közben. <a data-l10n-name="learn_more">További tudnivalók</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Az „{ shopping-onboarding-opt-in-button }” kiválasztásával elfogadja a { -fakespot-brand-name } <a data-l10n-name="privacy_policy">adatvédelmi irányelveit</a> és <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Az „{ shopping-onboarding-opt-in-button }” kiválasztásával elfogadja a { -brand-product-name }<a data-l10n-name="privacy_policy">adatvédelmi irányelveit</a> és a { -fakespot-brand-name } <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
 shopping-onboarding-opt-in-button = Igen, kipróbálom
 shopping-onboarding-not-now-button = Most nem
 shopping-onboarding-dialog-close-button =

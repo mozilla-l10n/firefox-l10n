@@ -343,3 +343,19 @@ onboarding-mobile-download-security-and-privacy-subtitle = Ha befejeződik a szi
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = Számíthat a { -brand-short-name }ra
 onboarding-gratitude-security-and-privacy-subtitle = Köszönjük, hogy a { -brand-short-name(case: "accusative") } használja, amelyet a Mozilla Alapítvány támogat. Az Ön támogatásával azon dolgozunk, hogy az internetet mindenki számára biztonságosabbá, és mindenki számára hozzáférhetőbbé tegyük.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Mióta használja a { -brand-short-name(case: "accusative") }?
+onboarding-new-user-familiarity-based-survey-title = Mennyire ismeri jól a { -brand-short-name(case: "accusative") }?
+onboarding-new-user-survey-subtitle = Visszajelzése segít, hogy a { -brand-short-name } még jobb legyen.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Teljesen új vagyok
+onboarding-new-user-survey-time-based-option-2 = Kevesebb mint 1 hónapja
+onboarding-new-user-survey-time-based-option-3 = Több mint 1 hónapja, rendszeresen
+onboarding-new-user-survey-time-based-option-4 = Több mint 1 hónapja, alkalmanként
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Teljesen új vagyok
+onboarding-new-user-survey-familiarity-based-option-2 = Használtam valamennyit
+onboarding-new-user-survey-familiarity-based-option-3 = Jól ismerem
+onboarding-new-user-survey-familiarity-based-option-4 = Régebben használtam, de ennek már egy ideje

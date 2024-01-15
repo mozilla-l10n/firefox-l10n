@@ -246,7 +246,7 @@ device-migration-fxa-spotlight-older-device-header = Nyugalom, a { -brand-produc
 device-migration-fxa-spotlight-older-device-body = Egy fiók naprakészen tartja a fontos információit, és védi őket az összes csatlakoztatott eszközén.
 device-migration-fxa-spotlight-older-device-primary-button = Fiók létrehozása
 device-migration-fxa-spotlight-getting-new-device-header-2 = Új eszköz a jövőben?
-device-migration-fxa-spotlight-getting-new-device-body = Készítsen biztonsági mentést most, hogy készen álljon, amikor az eszköze megérkezik.
+device-migration-fxa-spotlight-getting-new-device-body-2 = Kövessen néhány egyszerű lépést, hogy magával vigye a könyvjelzőit, előzményeit és jelszavait, amikor új eszközt kezd használni.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Hogyan kell biztonsági mentést készíteni az adatokról
 
 ## Set as Default PDF Reader Infobar
