@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN yönetimi
 about-webauthn-credential-management-section-title = Kimlik bilgilerini yönetme
 about-webauthn-pin-required-section-title = PIN gerekli
 about-webauthn-confirm-deletion-section-title = Silme işlemini onayla
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biyometrik kayıtlar
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Lütfen kullanmak istediğiniz güvenlik cih
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Güvenlik cihazınız CTAP2’yi desteklemediği için seçenekler yönetilemiyor.
 about-webauthn-text-not-available = Bu platformda kullanılamıyor.
+about-webauthn-bio-enrollment-list-subsection-title = Kayıtlar:
+about-webauthn-add-bio-enrollment-section-title = Yeni kayıt ekle
 
 ## Results label
 
@@ -41,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Hata: Yanlış PIN. Yeniden deneyin. { $retriesLeft } deneme hakkınız kaldı.
     }
 about-webauthn-results-pin-blocked-error = Hata: Pek çok kez yanlış PIN girildiği için deneme hakkı kalmadı ve cihazınız kilitlendi. Cihazın sıfırlanması gerekiyor.
+about-webauthn-results-pin-not-set-error = Hata: PIN ayarlanmadı. Bu işlem PIN koruması gerektiriyor.
 about-webauthn-results-pin-too-short-error = Hata: Girilen PIN çok kısa.
 about-webauthn-results-pin-too-long-error = Hata: Girilen PIN çok uzun.
 about-webauthn-results-pin-auth-blocked-error = Hata: Arka arkaya çok fazla başarısız deneme yaptığınız için PIN kimlik doğrulaması geçici olarak engellendi. Cihazınızı kapatıp açmanız gerekiyor. (Söküp yeniden takın.)
@@ -53,6 +58,8 @@ about-webauthn-repeat-pin-label = Yeni PIN’i tekrar yazın:
 about-webauthn-current-pin-label = Mevcut PIN:
 about-webauthn-pin-required-label = Lütfen PIN’inizi yazın:
 about-webauthn-credential-list-subsection-title = Kimlik bilgileri:
+about-webauthn-enrollment-name-label = Kayıt adı (isteğe bağlı):
+about-webauthn-enrollment-list-empty = Cihazda hiç kayıt bulunamadı.
 about-webauthn-credential-list-empty = Cihazda kimlik bilgisi bulunamadı.
 about-webauthn-confirm-deletion-label = Şunu silmek üzeresiniz:
 
@@ -62,9 +69,14 @@ about-webauthn-current-set-pin-button = PIN’i ayarla
 about-webauthn-current-change-pin-button = PIN’i değiştir
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Kimlik bilgilerini listele
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Kayıtları listele
+about-webauthn-add-bio-enrollment-button = Kayıt ekle
 about-webauthn-cancel-button = Vazgeç
 about-webauthn-send-pin-button = Tamam
 about-webauthn-delete-button = Sil
+about-webauthn-start-enrollment-button = Kaydı başlat
+about-webauthn-update-button = Güncelle
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -127,3 +139,41 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Desteklenmiyor
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } örnek daha gerekiyor.
+       *[other] { $repeatCount } örnek daha gerekiyor.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Örnek iyiydi.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = Örnek çok yukarıdaydı.
+about-webauthn-ctap2-enroll-feedback-too-low = Örnek çok aşağıdaydı.
+about-webauthn-ctap2-enroll-feedback-too-left = Örnek çok soldaydı.
+about-webauthn-ctap2-enroll-feedback-too-right = Örnek çok sağdaydı.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = Örnek çok hızlıydı.
+about-webauthn-ctap2-enroll-feedback-too-slow = Örnek çok yavaştı.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Örneğin kalitesi düşüktü.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Örnek çok yamuktu.
+about-webauthn-ctap2-enroll-feedback-too-short = Örnek çok kısaydı.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Örnek birleştirme hatası.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Örnek zaten mevcut.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Kullanıcı etkinliği mevcut değil.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Kullanıcı örneklemeyi beklendiği gibi tamamlamadı.
+about-webauthn-ctap2-enroll-feedback-other = Örnek hatası.
