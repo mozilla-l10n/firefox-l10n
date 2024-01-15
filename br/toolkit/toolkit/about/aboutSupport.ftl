@@ -342,6 +342,7 @@ policies-error = Fazi
 
 ## Printing section
 
+support-printing-troubleshoot = Disac’hañ
 support-printing-prefs-name = Anv
 
 ## Normandy sections
