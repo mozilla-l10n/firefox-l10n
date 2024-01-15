@@ -158,6 +158,21 @@ about-webauthn-ctap2-enroll-feedback-good = Pe jehechaukarã iporã
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Pe jehechaukarã oĩ yvate.
+about-webauthn-ctap2-enroll-feedback-too-low = Pe jehechaukarã oĩ karapemi.
+about-webauthn-ctap2-enroll-feedback-too-left = Pe jehechaukarã oĩ asu gotyo.
+about-webauthn-ctap2-enroll-feedback-too-right = Pe jehechaukarã oĩ akatúa gotyo.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Pe jehechaukarã ipya’e.
+about-webauthn-ctap2-enroll-feedback-too-slow = Pe jehechaukarã imbegue.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Pe jehechaukarã ndoikói.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Pe jehechaukarã ikarẽ.
+about-webauthn-ctap2-enroll-feedback-too-short = Pe jehechaukarã mbyky.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Ojavy ojehe’ávo jehechaukarã.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Pe jehechaukarã oĩmavoi.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Poruhára ndahapykueréi.
