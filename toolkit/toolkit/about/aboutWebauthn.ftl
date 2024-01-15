@@ -143,9 +143,38 @@ about-webauthn-auth-info-null = Não suportado
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Ainda precisa de { $repeatCount } amostra.
+       *[other] Ainda precisa de { $repeatCount } amostras.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = A amostra foi boa.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = A amostra estava alta demais.
+about-webauthn-ctap2-enroll-feedback-too-low = A amostra estava baixa demais.
+about-webauthn-ctap2-enroll-feedback-too-left = A amostra estava muito à esquerda.
+about-webauthn-ctap2-enroll-feedback-too-right = A amostra estava muito à direita.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = A amostra foi rápida demais.
+about-webauthn-ctap2-enroll-feedback-too-slow = A amostra foi lenta demais.
+about-webauthn-ctap2-enroll-feedback-poor-quality = A amostra tinha baixa qualidade.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = A amostra estava muito distorcida.
+about-webauthn-ctap2-enroll-feedback-too-short = A amostra foi muito curta.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Falha de mesclagem de amostras.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = A amostra já existe.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Nenhuma atividade do usuário.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = O usuário não concluiu a amostragem conforme esperado.
+about-webauthn-ctap2-enroll-feedback-other = Erro de amostra.
