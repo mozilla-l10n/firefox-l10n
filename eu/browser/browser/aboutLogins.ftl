@@ -117,6 +117,8 @@ about-logins-intro-import2 = Zure saio-hasierak { -brand-product-name }(e)tik ka
 ## Login
 
 login-item-new-login-title = Sortu saio-hasiera berria
+# Header for adding a password
+about-logins-login-item-new-login-title = Gehitu pasahitza
 login-item-edit-button = Editatu
 about-logins-login-item-remove-button = Kendu
 login-item-origin-label = Webgunearen helbidea
@@ -134,6 +136,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopiatu
 login-item-copied-password-button-text = Kopiatuta!
 login-item-save-changes-button = Gorde aldaketak
+about-logins-login-item-save-changes-button = Gorde
 login-item-save-new-button = Gorde
 login-item-cancel-button = Utzi
 
@@ -161,6 +164,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Zure saio-hasiera editatzek
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editatu gordetako saio-hasiera
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Zure pasahitza aldatzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = editatu gordetako pasahitza
@@ -179,6 +184,8 @@ about-logins-export-password-os-auth-dialog-message-win = Zure saio-hasierak esp
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = esportatu gordetako saio-hasiera eta pasahitzak
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Zure pasahitzak esportatzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = esportatu gordetako pasahitzak
