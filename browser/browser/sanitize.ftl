@@ -72,6 +72,13 @@ item-cache =
 item-form-search-history =
     .label = Inprimaki- eta bilaketa-historia
     .accesskey = n
+item-site-prefs =
+    .label = Gunearen ezarpenak
+    .accesskey = u
+item-site-prefs-description = Zure baimenak eta gunearen hobespenak jatorrizko ezarpenetara berrezartzen ditu
+item-download-history =
+    .label = Deskargatutako fitxategien zerrenda
+    .accesskey = D
 data-section-label = Datuak
 item-site-settings =
     .label = Gunearen ezarpenak
@@ -84,6 +91,8 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Garbitu orain
+sanitize-button-ok2 =
+    .label = Garbitu
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

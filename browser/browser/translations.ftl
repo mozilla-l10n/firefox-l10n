@@ -72,6 +72,7 @@ translations-panel-translate-cancel =
     .label = Utzi
 translations-panel-learn-more-link = Argibide gehiago
 translations-panel-intro-header = Probatu itzulpen pribatuak { -brand-shorter-name }(e)n
+translations-panel-intro-description = Zure pribatutasunerako, itzulpenek inoiz ez dute zure gailua uzten. Hizkuntza berriak eta hobekuntzak laster datoz!
 translations-panel-error-translating = Arazo bat gertatu da itzultzean. Saiatu berriro mesedez.
 translations-panel-error-load-languages = Ezin dira hizkuntzak kargatu
 translations-panel-error-load-languages-hint = Egiaztatu interneterako zure konexioa eta saiatu berriro.
