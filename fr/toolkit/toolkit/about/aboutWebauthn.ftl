@@ -77,7 +77,7 @@ about-webauthn-auth-option-credmgmt = Gestion des informations d’authentificat
 about-webauthn-auth-option-setminpinlength = Définir la longueur minimale du code PIN
 about-webauthn-auth-option-alwaysuv = Toujours exiger une vérification de l’utilisateur
 # Shows when boolean value for an option is True. True should not be translated.
-about-webauthn-auth-option-true = Vrai
+about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
 about-webauthn-auth-option-false = Faux
 # If the value is missing (null), it means a certain feature is not supported.
@@ -103,3 +103,12 @@ about-webauthn-auth-info-true = Vrai
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Faux
 about-webauthn-auth-info-null = Non pris en charge
+
+## Bio enrollment sample feedbacks
+
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+
