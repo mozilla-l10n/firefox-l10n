@@ -4,11 +4,10 @@
 
 refresh-profile-dialog-title = Resteurel { -brand-short-name } en e arventennoù dre ziouer ?
 refresh-profile-dialog-button =
-    .label = Azbevaat { -brand-short-name }
+    .label = Freskaat { -brand-short-name }
 refresh-profile = Roit { -brand-short-name } un taol lañs nevez
-refresh-profile-button = Azbevaat { -brand-short-name }…
+refresh-profile-button = Freskaat { -brand-short-name }…
 refresh-profile-learn-more = Gouzout hiroc’h
-
 refresh-profile-progress =
-    .title = Azbevaat { -brand-short-name }
+    .title = Freskaat { -brand-short-name }
 refresh-profile-progress-description = Tost echu…

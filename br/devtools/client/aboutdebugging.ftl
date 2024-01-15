@@ -79,7 +79,7 @@ about-debugging-sidebar-support-icon =
     .alt = Help icon
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
-about-debugging-refresh-usb-devices-button = Refresh devices
+about-debugging-refresh-usb-devices-button = Freskaat an trevnadoù
 
 # Setup Page strings
 

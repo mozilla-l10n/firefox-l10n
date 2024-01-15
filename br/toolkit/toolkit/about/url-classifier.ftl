@@ -5,7 +5,11 @@
 url-classifier-title = Titouroù ar rummader URL
 url-classifier-search-title = Klask
 url-classifier-search-result-title = Disoc'hoù
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Roll an taolioù: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = URL didalvoudek
@@ -21,7 +25,7 @@ url-classifier-provider-back-off-time = Padelezh an ehan
 url-classifier-provider-last-update-status = Statud diwezhañ an hizivadenn
 url-classifier-provider-update-btn = Hizivadenn
 url-classifier-cache-title = Krubuilh
-url-classifier-cache-refresh-btn = Azgrenaat
+url-classifier-cache-refresh-btn = Freskaat
 url-classifier-cache-clear-btn = Skarzhañ
 url-classifier-cache-table-name = Anv an daolenn
 url-classifier-cache-ncache-entries = Niver a enankadoù krubuilh leiel
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = Molladoù kerzhlevr ar Merdeiñ Diarvar
 url-classifier-debug-modules = Molladoù kerzhlevr bremanel
 url-classifier-debug-sbjs-modules = Kerzhlevr JS ar merdeiñ diarvar
 url-classifier-debug-file = Restr kerzhlevr bremanel
-
 url-classifier-trigger-update = Deluskañ un hizivadenn
 url-classifier-not-available = DIHEGERZ
 url-classifier-disable-sbjs-log = Diweredekaat kerzhlevr JS ar merdeiñ diarvar
