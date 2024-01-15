@@ -13,3 +13,19 @@ contentanalysis-slow-agent-dialog-body = Edukiaren analisia "{ $content }" balia
 contentanalysis-operationtype-clipboard = arbela
 contentanalysis-operationtype-dropped-text = jaregindako testua
 contentanalysis-warndialogtitle = Eduki hau ez-segurua izan liteke
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Zure erakundeak datuen galera eragozteko softwarea darabil eta eduki hau ez-seguru gisa markatu du: { $content }. Erabili halere?
+contentanalysis-warndialog-response-allow = Erabili edukia
+contentanalysis-warndialog-response-deny = Utzi
+contentanalysis-notification-title = Edukiaren analisia
+# Variables:
+#   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
+#   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
+contentanalysis-genericresponse-message = Edukiaren analisiak { $response } erantzun du ondorengo baliabiderako: { $content }
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-block-message = Zure erakundeak datuen galera eragozteko softwarea darabil eta eduki hau blokeatu egin du: { $content }.
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-error-message = Errorea gertatu da datu-galerak eragozteko softwarearekin komunikatzean. Transferentzia ukatu egin da ondorengo baliabiderako: { $content }.

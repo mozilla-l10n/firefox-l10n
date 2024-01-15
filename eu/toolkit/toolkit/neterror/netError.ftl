@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Egiaztatu { -brand-short-name }(e)k weber
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name }(e)k ezin du gune honen helbiderako zure eskaera babestu gure konfiantzazko DNS ebazlearen bidez. Hona hemen zergatik:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name }(e)k ezin du gune honen helbiderako zure eskaera babestu gure DNS ebazle seguruaren bidez. Hona hemen zergatik:
 neterror-dns-not-found-trr-third-party-warning2 = Zure DNS ebazle lehenetsiarekin jarrai dezakezu. Halere, hirugarren batentzat posible izan liteke bisitatzen dituzun webguneak ikustea.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }(e) ezin izan du { $trrDomain } ostalarira konektatu.
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } ostalarirako konexioak uste baino denbora gehiago behar izan du.
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Ustekabeko arazoa.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name }(e)k ezin du gune honen helbiderako zure eskaera babestu gure konfiantzazko DNS ebazlearen bidez. Hona hemen zergatik:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name }(e)k ezin du gune honen helbiderako zure eskaera babestu gure DNS ebazle seguruaren bidez. Hona hemen zergatik:
 neterror-dns-not-found-native-fallback-heuristic = HTTPS againeko DNSa desgaitu egin da zure sarean.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }(e) ezin izan du { $trrDomain } ostalarira konektatu.
 

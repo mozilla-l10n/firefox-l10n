@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Gorde pasahitza { $host } gunerako?
+password-manager-save-password-button-deny =
+    .label = Une honetan ez
+    .accesskey = n
 password-manager-save-password-button-allow =
     .label = Gorde
     .accesskey = G
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Eguneratu { $host } gunerako pasahitza?
+password-manager-update-password-button-delete =
+    .label = Kendu gordetako pasahitza
+    .accesskey = K
 password-manager-update-login-add-username = Gehitu erabiltzaile-izena gordetako pasahitzari?
 password-manager-password-password-button-allow =
     .label = Eguneratu
