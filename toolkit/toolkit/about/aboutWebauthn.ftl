@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Pincodebeheer
 about-webauthn-credential-management-section-title = Referenties beheren
 about-webauthn-pin-required-section-title = Pincode vereist
 about-webauthn-confirm-deletion-section-title = Verwijdering bevestigen
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biometrische inschrijvingen
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Selecteer het gewenste beveiligingstoken doo
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Kan opties niet beheren, omdat uw beveiligingstoken CTAP2 niet ondersteunt.
 about-webauthn-text-not-available = Niet beschikbaar op dit platform.
+about-webauthn-bio-enrollment-list-subsection-title = Inschrijvingen:
+about-webauthn-add-bio-enrollment-section-title = Nieuwe inschrijving toevoegen
 
 ## Results label
 
@@ -41,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Fout: onjuiste pincode. Probeer het opnieuw. U hebt nog { $retriesLeft } pogingen over.
     }
 about-webauthn-results-pin-blocked-error = Fout: er zijn geen pogingen meer en uw apparaat is vergrendeld, omdat te vaak de verkeerde pincode is ingevoerd. Het apparaat moet worden geherinitialiseerd.
+about-webauthn-results-pin-not-set-error = Fout: pincode niet ingesteld. Deze bewerking heeft pincodebeveiliging nodig.
 about-webauthn-results-pin-too-short-error = Fout: de opgegeven pincode is te kort.
 about-webauthn-results-pin-too-long-error = Fout: de opgegeven pincode is te lang.
 about-webauthn-results-pin-auth-blocked-error = Fout: er zijn te veel mislukte pogingen achter elkaar geprobeerd en pinauthenticatie is tijdelijk geblokkeerd. Uw apparaat heeft een stroomcyclus nodig (loskoppelen en opnieuw inpluggen).
@@ -53,6 +58,8 @@ about-webauthn-repeat-pin-label = Herhaal nieuwe pincode:
 about-webauthn-current-pin-label = Huidige pincode:
 about-webauthn-pin-required-label = Voer uw pincode in:
 about-webauthn-credential-list-subsection-title = Referenties:
+about-webauthn-enrollment-name-label = Inschrijvingsnaam (optioneel):
+about-webauthn-enrollment-list-empty = Geen inschrijvingen op apparaat gevonden.
 about-webauthn-credential-list-empty = Geen referenties op apparaat gevonden.
 about-webauthn-confirm-deletion-label = U gaat verwijderen:
 
@@ -62,9 +69,14 @@ about-webauthn-current-set-pin-button = Pincode instellen
 about-webauthn-current-change-pin-button = Pincode wijzigen
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Referenties tonen
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Inschrijvingen tonen
+about-webauthn-add-bio-enrollment-button = Inschrijving toevoegen
 about-webauthn-cancel-button = Annuleren
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Verwijderen
+about-webauthn-start-enrollment-button = Inschrijving starten
+about-webauthn-update-button = Bijwerken
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -128,3 +140,41 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Niet ondersteund
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Er is nog { $repeatCount } scan nodig.
+       *[other] Er zijn nog { $repeatCount } scans nodig.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Scan was goed.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = Scan was te hoog.
+about-webauthn-ctap2-enroll-feedback-too-low = Scan was te laag.
+about-webauthn-ctap2-enroll-feedback-too-left = Scan was te veel naar links.
+about-webauthn-ctap2-enroll-feedback-too-right = Scan was te veel naar rechts.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = Scan was te snel.
+about-webauthn-ctap2-enroll-feedback-too-slow = Scan was te langzaam.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Scan had slechte kwaliteit.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Scan was te vervormd.
+about-webauthn-ctap2-enroll-feedback-too-short = Scan was te kort.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Samenvoegen scans mislukt.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Scan bestaat al.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Geen gebruikersactiviteit.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Gebruiker heeft de scans niet zoals verwacht voltooid.
+about-webauthn-ctap2-enroll-feedback-other = Scanfout.
