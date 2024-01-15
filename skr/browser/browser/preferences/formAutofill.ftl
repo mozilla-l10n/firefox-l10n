@@ -19,6 +19,8 @@ autofill-manage-edit-button = تدوین کرو …
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = پتہ محفوظ کروں؟
+address-capture-update-doorhanger-header = پتہ اپڈیٹ کروں؟
+address-capture-edit-doorhanger-header = پتے وچ تبدیلی کرو
 address-capture-save-button =
     .label = محفوظ
     .accessKey = S

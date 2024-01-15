@@ -26,6 +26,7 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-button = ہݨ پڑتال کرو
 
 ## Strings for the product review snippets card
 
@@ -63,14 +64,6 @@ shopping-sidebar-close-button2 =
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
@@ -92,7 +85,6 @@ shopping-survey-q2-radio-3-label = میکوں پتہ کائنی
 shopping-survey-next-button-label = اڳلا
 shopping-survey-submit-button-label = جمع کرواؤ
 shopping-survey-terms-link = ورتݨ شرطاں
-shopping-survey-thanks-message = تہاݙے فیڈبیک تے تھورائت ہیں!
 shopping-survey-thanks =
     .heading = تہاݙے فیڈبیک تے تھورائت ہیں!
 

@@ -5,8 +5,11 @@
 report-broken-site-panel-url = یوآرایل
 report-broken-site-panel-reason-choose =
     .label = وجہ چݨو
+report-broken-site-panel-reason-media =
+    .label = تصویراں یا وڈیوز
 report-broken-site-panel-reason-other =
     .label = ایندے علاوہ کجھ ٻیا
+report-broken-site-panel-send-more-info-link = ٻیاں معلومات بھیڄو
 report-broken-site-panel-button-cancel =
     .label = منسوخ
 report-broken-site-panel-button-okay =

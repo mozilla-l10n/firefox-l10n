@@ -8,6 +8,7 @@ do-not-track-option-default-content-blocking-known =
     .label = صرف اوں ویلھے جݙاں { -brand-short-name } کوں معلوم ٹریکرز کوں بلاک کرݨ کیتے سیٹ کیتا ڳیا ہووے۔
 do-not-track-option-always =
     .label = ہمیشاں
+non-technical-privacy-header = ویب سائٹ رازداری ترجیحاں
 settings-page-title = ترتیباں
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -868,6 +869,8 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = خودبخود بھرݨ
+autofill-saved-addresses-button = محفوظ تھئے پتے
+    .accesskey = S
 
 ## Privacy Section - History
 

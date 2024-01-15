@@ -120,6 +120,7 @@ translations-manage-download-button = ڈاؤن لوڈ
 translations-manage-delete-button = مٹاؤ
 translations-manage-error-download = زبان فائلاں ڈاؤن لوڈ کرݨ وچ ہک مسئلہ ہائی۔ سوہݨا، ولدا کوشش کرو۔
 translations-manage-error-delete = زبان فائلاں مٹاوݨ وچ ہک خرابی ہائی۔ سوہݨا، ولدا کوشش کرو۔
+translations-manage-install-description = آف لائن ترجمے کیتے زناناں انسٹال کرو
 translations-manage-language-install-button =
     .label = انسٹال کرو
 translations-manage-language-install-all-button =
