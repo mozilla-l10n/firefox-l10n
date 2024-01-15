@@ -168,6 +168,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Per modificar vòstres iden
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modificar l’identificant salvat
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = modificar lo senhal salvat
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Per veire vòstre senhal, picatz vòstras informacions de connexion Windows. Aquò permet de servar la seguretat dels comptes.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -183,6 +186,9 @@ about-logins-export-password-os-auth-dialog-message-win = Per exportar vòstres 
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportar los identificants e senhals enregistrats
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportar los senhals salvats
 
 ## Primary Password notification
 
@@ -198,6 +204,10 @@ confirmation-dialog-dismiss-button =
     .title = Anullar
 about-logins-confirm-remove-dialog-title = Suprimir aqueste identificant ?
 confirm-delete-dialog-message = Aquesta accion es irreversibla.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Suprimir lo senhal ?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Se pòt pas anullar aquesta accion.
 about-logins-confirm-remove-dialog-confirm-button = Suprimir
 
 ## Variables
@@ -243,12 +253,26 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
         [one] Aquò suprimirà l’identificant qu’enregistrèretz dins { -brand-short-name } de totes vòstres aparelhs sincronizats a aqueste compte. Poiriá levar las alèrtas de pèrdas de donadas qu’apareisson aicí. Aquesta accion es irreversibla.
        *[other] Aquò suprimirà totes los identificants qu’enregistrèretz dins { -brand-short-name } de totes vòstres aparelhs sincronizats a aqueste compte. Poiriá levar las alèrtas de pèrdas de donadas qu’apareisson aicí. Aquesta accion es irreversibla.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Òc, suprimir lo senhal
+        [one] Òc, suprimir lo senhal
+       *[other] Òc, suprimir los senhals
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Suprimir lo { $count } senhal ?
+       *[other] Suprimir los { $count } senhals ?
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Exportacion dels identificants e senhals
 about-logins-confirm-export-dialog-message = Vòstres senhals seràn salvats jos la fòrma de tèxt legible (per exemple, « senh4l-f3bl3 ») ; atal qual que siá que pòt dobrir lo fichièr poirà los consultar.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-confirm-export-dialog-confirm-button2 = Contunhar l’exportacion
 about-logins-alert-import-title = Importacion acabada
 about-logins-alert-import-message = Veire lo resumit detalhat de l’importacion
 confirm-discard-changes-dialog-title = Ignorar las modificacions pas enregistradas ?
