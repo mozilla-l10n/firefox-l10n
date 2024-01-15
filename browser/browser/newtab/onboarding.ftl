@@ -344,3 +344,19 @@ onboarding-mobile-download-security-and-privacy-subtitle = Eşitleme yaptığın
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } sizi koruyor
 onboarding-gratitude-security-and-privacy-subtitle = Mozilla Vakfı tarafından geliştirilen { -brand-short-name } tarayıcısını kullandığınız için teşekkür ederiz. Desteğinizle interneti herkes için daha güvenli ve daha erişilebilir bir yere dönüştürüyoruz.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = { -brand-short-name } tarayıcısını ne zamandır kullanıyorsunuz?
+onboarding-new-user-familiarity-based-survey-title = { -brand-short-name } tarayıcısını kadar tanıyorsunuz?
+onboarding-new-user-survey-subtitle = Geri bildiriminiz { -brand-short-name } tarayıcısını daha da iyileştirmemize yardımcı oluyor.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Yeni kullanmaya başladım
+onboarding-new-user-survey-time-based-option-2 = 1 aydan az
+onboarding-new-user-survey-time-based-option-3 = 1 aydan çok, düzenli olarak
+onboarding-new-user-survey-time-based-option-4 = 1 aydan çok, ara sıra
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Yeni kullanmaya başladım
+onboarding-new-user-survey-familiarity-based-option-2 = Biraz kullandım
+onboarding-new-user-survey-familiarity-based-option-3 = Çok iyi tanıyorum
+onboarding-new-user-survey-familiarity-based-option-4 = Eskiden kullandım ama epey zaman geçti
