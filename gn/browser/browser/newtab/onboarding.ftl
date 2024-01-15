@@ -357,3 +357,4 @@ onboarding-new-user-survey-time-based-option-3 = Ahasáma 1 jasy, aimehague
 onboarding-new-user-survey-time-based-option-4 = Ahasáma 1 jasy, naĩmeméi
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = Che pyahu ápe
+onboarding-new-user-survey-familiarity-based-option-2 = Aiporu’imíkuri
