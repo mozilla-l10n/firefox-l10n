@@ -171,6 +171,11 @@ migration-wizard-progress-header = ڈیٹا امپورٹ کرݨ
 # This header appears in the final page of the migration wizard only if
 # all resources were imported successfully.
 migration-wizard-progress-done-header = ڈیٹا کامیابی نال امپورٹ تھی آیا
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = ڈیٹا درآمد مکمل
 migration-wizard-progress-icon-in-progress =
     .aria-label = درآمد تھیندی پئی اے …
 migration-wizard-progress-icon-completed =
