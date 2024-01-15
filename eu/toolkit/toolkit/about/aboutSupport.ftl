@@ -185,6 +185,21 @@ media-codec-support-codec-name = Codec-aren izena
 media-codec-support-supported = Euskarria du
 media-codec-support-unsupported = Ez du euskarririk
 media-codec-support-error = Kodekaren euskarriari buruzko informazioa ez dago erabilgarri. Saiatu berriro multimedia-fitxategi bat erreproduzitu ondoren.
+media-codec-support-lack-of-extension = Instalatu hedapena
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Content Decryption Modules informazioa
+media-key-system-name = Gako-sistemaren izena
+media-video-robustness = Bideoaren sendotasuna
+media-audio-robustness = Audioaren sendotasuna
+media-cdm-capabilities = Gaitasunak
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Hasiera garbia
 
 ##
 
