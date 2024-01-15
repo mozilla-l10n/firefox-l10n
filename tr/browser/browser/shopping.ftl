@@ -168,6 +168,7 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = Fiyat etiketini gördüğünüz sayfalarda <strong>değerlendirme kontrolcüsünü</strong> açabilirsiniz.
 shopping-callout-pdp-opted-in-title = Bu değerlendirmeler güvenilir mi? Hızlıca öğrenin.
+shopping-callout-pdp-opted-in-subtitle = Değerlendirme kontrolcüsünü açarak bu ürünün düzeltilmiş puanını görebilir ve güvenilmez yorumları kaldırabilirsiniz. Ayrıca, öne çıkan güvenilir yorumları da görebilirsiniz.
 shopping-callout-closed-not-opted-in-title = Güvenilir değerlendirmeler bir tık uzağınızda
 shopping-callout-closed-not-opted-in-subtitle = Fiyat etiketini gördüğünüz her yerde değerlendirme kontrolcüsünü deneyin. Yeni bir şey satın almadan önce gerçek kullanıcılardan çabucak bilgi alın.
 
