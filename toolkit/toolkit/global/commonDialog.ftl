@@ -6,12 +6,13 @@ common-dialog-title-null = Orriak dio:
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = Ezezaguna
-
+# An indicator showing that Firefox is waiting for an operation to finish
+common-dialog-spinner =
+    .alt = Lanpetuta
 common-dialog-username =
     .value = Erabiltzaile-izena
 common-dialog-password =
     .value = Pasahitza
-
 common-dialog-copy-cmd =
     .label = Kopiatu
     .accesskey = K
