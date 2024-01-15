@@ -12,7 +12,7 @@ create-new-login-button =
 about-logins-page-title-name = Pasvortoj
 about-logins-login-filter2 =
     .placeholder = Serĉi pasvortojn
-    .key = p
+    .key = F
 create-login-button =
     .title = Aldoni pasvorton
 fxaccounts-sign-in-text = Spegulu viajn pasvortojn en viaj aliaj aparatoj
@@ -261,7 +261,6 @@ about-logins-confirm-remove-all-sync-dialog-message2 =
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Jes, forigi pasvorton
-        [one] { "" }
        *[other] Jes, forigi pasvortojn
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
@@ -274,7 +273,6 @@ about-logins-confirm-remove-all-dialog-title2 =
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
         [1] Tio ĉi forigos la pasvorton konservitan en { -brand-short-name } kaj eventualajn atentigojn pri datumfuĝo. Tiu ĉi ago ne estas malfarebla.
-        [one] { "" }
        *[other] Tio ĉi forigos la pasvortojn konservitajn en { -brand-short-name } kaj eventualajn atentigojn pri datumfuĝo. Tiu ĉi ago ne estas malfarebla.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
@@ -287,7 +285,6 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Tio ĉi forigos la pasvorton konservitan en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
-        [one] { "" }
        *[other] Tio ĉi forigos la pasvortojn konservitajn en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
     }
 
