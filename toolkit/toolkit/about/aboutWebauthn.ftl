@@ -143,9 +143,38 @@ about-webauthn-auth-info-null = Betg sustegnì
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] I dovra anc { $repeatCount } emprova.
+       *[other] I dovra anc { $repeatCount } emprovas.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = L’emprova è valida.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = L’emprova è stada memia auta.
+about-webauthn-ctap2-enroll-feedback-too-low = L’emprova è stada memia bassa.
+about-webauthn-ctap2-enroll-feedback-too-left = L’emprova è stada memia a sanestra.
+about-webauthn-ctap2-enroll-feedback-too-right = L’emprova è stada memia a dretga.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = L’emprova è stada memia svelta.
+about-webauthn-ctap2-enroll-feedback-too-slow = L’emprova è stada memia plauna.
+about-webauthn-ctap2-enroll-feedback-poor-quality = L’emprova è stada da mala qualitad.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = L’emprova è stada memia guerscha.
+about-webauthn-ctap2-enroll-feedback-too-short = L’emprova è stada memia curta.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = I n’è betg reussì da fusiunar las emprovas.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = L’emprova exista gia.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Nagina activitad da l’utilisader.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = L’utilisader n’ha betg cumplettà la rimnada da las emprovas sco spetgà.
+about-webauthn-ctap2-enroll-feedback-other = Errur en l’emprova.
