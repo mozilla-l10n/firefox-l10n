@@ -45,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Javy: PIN oiko’ỹva. Eha’ãjey. Ejapokuaa { $retriesLeft } jey.
     }
 about-webauthn-results-pin-blocked-error = Jejavy: Anive ejapo ha mba’e’oka ojejokóma ndehegui eme’ẽ haguére PIN oiko’ỹva hetaitereijey. Pe mba’e’oka oikotevẽ ñemoñepyrũjey.
+about-webauthn-results-pin-not-set-error = Jejavy: PIN oiko’ỹva. Ko jeku’e oikotevẽ PIN ñemo’ã.
 about-webauthn-results-pin-too-short-error = Javy: pe PIN eme’ẽva mbykyeterei.
 about-webauthn-results-pin-too-long-error = Javy: pe PIN eme’ẽva ipukueterei.
 about-webauthn-results-pin-auth-blocked-error = Jejavy: Hetaitereíma reha’ã ha pe PIN ñemoneĩ ojejokóma sapy’aguamínteva. Pe mba’e’oka oikotevẽ ñemboguete ha upéi eha’ãkuaajey.
@@ -57,6 +58,8 @@ about-webauthn-repeat-pin-label = Ehai PIN pyahu:
 about-webauthn-current-pin-label = PIN ag̃agua:
 about-webauthn-pin-required-label = Emoinge pe PIN:
 about-webauthn-credential-list-subsection-title = Terachaukaha:
+about-webauthn-enrollment-name-label = Jehaipy réra (emoĩséramo):
+about-webauthn-enrollment-list-empty = Ndojejuhúi jehaipyre mba’e’okápe.
 about-webauthn-credential-list-empty = Ndojejuhúi terachaukaha mba’e’okápe.
 about-webauthn-confirm-deletion-label = Oñemboguetátama ag̃aite:
 
@@ -66,9 +69,14 @@ about-webauthn-current-set-pin-button = Emboaje PIN
 about-webauthn-current-change-pin-button = Emoambue PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Embohysýi terachaukaha
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Embohysýi jehaipy
+about-webauthn-add-bio-enrollment-button = Embojuaju jehaipy
 about-webauthn-cancel-button = Heja
 about-webauthn-send-pin-button = MONEĨ
 about-webauthn-delete-button = Mboguete
+about-webauthn-start-enrollment-button = Emoñepyrũ jehaipy
+about-webauthn-update-button = Mbohekopyahu
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -135,6 +143,18 @@ about-webauthn-auth-info-null = Oñepytyvõ’ỹva
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Peikotevẽ gueteri { $repeatCount } jehechaukarã.
+       *[other] Peikotevẽ gueteri { $repeatCount } jehechaukarã.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Pe jehechaukarã iporã
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
