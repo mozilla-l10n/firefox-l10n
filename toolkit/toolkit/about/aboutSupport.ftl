@@ -178,6 +178,14 @@ media-capabilities-enumerate = Percórrer la basa de donadas
 ## Codec support table
 
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-video-robustness = Robustesa vidèo
+media-audio-robustness = Robustesa àudio
+media-cdm-capabilities = Foncions
+
 ##
 
 intl-title = Lengas e internacionalizacion
