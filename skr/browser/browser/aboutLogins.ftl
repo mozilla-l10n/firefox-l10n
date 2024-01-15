@@ -73,6 +73,7 @@ about-logins-login-list-alerts-option = انتباہات
 login-list-last-changed-option = چھیکڑی واری تبدیل تھیا
 login-list-last-used-option = چھیکڑی ورتاوا
 login-list-intro-title = کوئی لاگ ان کائنی لبھے
+login-list-intro-title2 = کوئی پاس ورڈ محفوظ کائنی تھئے
 login-list-intro-description = جݙاں تساں { -brand-product-name } وِچ پاس ورڈ محفوظ کریسو تاں ، او اتھاں ݙکھایا ویسے.
 about-logins-login-list-empty-search-title = کوئی لاگ ان کائنی لبھے
 about-logins-login-list-empty-search-title2 = کوئی پاس ورڈ کائنی لبھا
@@ -187,6 +188,8 @@ about-logins-confirm-remove-dialog-title = ایہ لاگ ان ہٹاؤں؟
 confirm-delete-dialog-message = ایہ عمل آیا ون٘ڄایا نئیں تھی سڳدا۔
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = پاس ورڈ ہٹاؤں؟
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = تساں ایہ عمل واپس نہوے کر سڳدے۔
 about-logins-confirm-remove-dialog-confirm-button = ہٹاؤ
 
 ## Variables
@@ -230,6 +233,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = لاگ ان تے پاس ورڈ برآمد کرو
 about-logins-confirm-export-dialog-message = تہاݙے پاس ورڈز کوں پڑھݨ دے قابل متن دے طور تے ہتھیکڑا کیتا ویسے ( مثلاً (e.g., BadP@ssw0rd)  تاں جو جیڑھا وی برآمد شدہ فائل کوں کھول سڳدا ہے وہ انہاں کوں ݙیکھ سڳے۔
 about-logins-confirm-export-dialog-confirm-button = برآمد کرو…
+about-logins-confirm-export-dialog-confirm-button2 = برآمد نال جاری رکھو
 about-logins-alert-import-title = درآمد مکمل تھئی
 about-logins-alert-import-message = درآمد دا تفصیلی خلاصہ ݙیکھو
 confirm-discard-changes-dialog-title = غیر محفوظ شدہ تبدیلیاں ہٹا ݙیوں؟
@@ -271,6 +275,8 @@ about-logins-export-file-picker-title = لاگ ان فائل برآمد کرو
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = { -brand-short-name } کنوں پاس ورڈ برآمد کرو
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = passwords.csv

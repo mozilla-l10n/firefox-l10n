@@ -931,6 +931,10 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = منسوخ
     .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = مجلس ڈیٹا مٹاؤ
+    .accesskey = D
+reset-pbm-panel-complete = نجی مجلس ڈیٹا مٹ ڳیا
 
 ## Autorefresh blocker
 
