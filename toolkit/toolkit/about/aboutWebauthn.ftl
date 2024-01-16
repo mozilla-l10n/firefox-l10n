@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Zastojanje PIN
 about-webauthn-credential-management-section-title = Pśizjawjeńske daty zastojaś
 about-webauthn-pin-required-section-title = PIN trjebny
 about-webauthn-confirm-deletion-section-title = Lašowanje wobkšuśiś
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biometriske pśizjawjenja
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Pšosym pótusniśo rěd, aby swóje póžed
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Njejo móžno nastajenja zastojaś, dokulaž wašo wěstotne znamje CTAP2 njepódpěra.
 about-webauthn-text-not-available = Njejo na toś tej platformje k dispoziciji
+about-webauthn-bio-enrollment-list-subsection-title = Pśizjawjenja:
+about-webauthn-add-bio-enrollment-section-title = Nowe pśizjawjenje pśidaś
 
 ## Results label
 
@@ -67,6 +71,7 @@ about-webauthn-list-credentials-button = Lisćina pśizjawjeńskich datow
 about-webauthn-cancel-button = Pśetergnuś
 about-webauthn-send-pin-button = W pórěźe
 about-webauthn-delete-button = Lašowaś
+about-webauthn-update-button = Aktualizěrowaś
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -130,3 +135,28 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Njepódprěty
+
+## Bio enrollment sample feedbacks
+
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Pśikład jo był dobry.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = Pśikład jo był pśewusoki.
+about-webauthn-ctap2-enroll-feedback-too-low = Pśikład jo był pśeniski.
+about-webauthn-ctap2-enroll-feedback-too-left = Pśikład jo był pśelěwy.
+about-webauthn-ctap2-enroll-feedback-too-right = Pśikład jo był pśepšawy.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = Pśikład jo był pśemalsny.
+about-webauthn-ctap2-enroll-feedback-too-slow = Pśikład jo był pśepómały.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Pśikład jo měł špatnu kwalitu.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Pśikład jo był spryšćony.
+about-webauthn-ctap2-enroll-feedback-too-short = Pśikład jo był pśekrotki.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Pśikład južo eksistěrujo.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Žedna aktiwita wót wužywarja.
+about-webauthn-ctap2-enroll-feedback-other = Pśikładowa zmólka.
