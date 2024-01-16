@@ -78,6 +78,12 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name }
     .tooltiptext = { -fxaccount-brand-name }
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = บัญชี
+    .tooltiptext = บัญชี
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -291,6 +297,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = ใช้การเข้าสู่ระบบที่บันทึกไว้
     .accesskey = บ
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = ใช้รหัสผ่านที่บันทึกไว้
     .accesskey = ห
@@ -305,6 +312,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = ย
 main-context-menu-manage-logins2 =
     .label = จัดการการเข้าสู่ระบบ
+    .accesskey = จ
+main-context-menu-manage-passwords =
+    .label = จัดการรหัสผ่าน
     .accesskey = จ
 main-context-menu-keyword =
     .label = เพิ่มคำสำคัญสำหรับการค้นหานี้…

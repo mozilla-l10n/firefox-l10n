@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = ส่งรายงานแล้ว ขอบคุณ!
 confirmation-hint-login-removed = เอาการเข้าสู่ระบบออกแล้ว!
+confirmation-hint-password-removed = ลบรหัสผ่านออกแล้ว!
 confirmation-hint-page-bookmarked = บันทึกไปยังที่คั่นหน้าแล้ว
 confirmation-hint-password-saved = บันทึกรหัสผ่านแล้ว!
 confirmation-hint-password-created = บันทึกรหัสผ่านแล้ว
