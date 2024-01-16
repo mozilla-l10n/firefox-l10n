@@ -344,3 +344,9 @@ onboarding-mobile-download-security-and-privacy-subtitle = Gaž sćo synchroniz�
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } za wami stoj
 onboarding-gratitude-security-and-privacy-subtitle = Wjeliki źěk, až { -brand-short-name } wužywaśo, kótaryž se wót załožby Mozilla Foundation spěchujo. Z wašeju pomocu źěłamy na tom, internet wěsćejšy a pśistupnjejšy za kuždego cyniś.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-survey-time-based-option-2 = Mjenjej ako 1 mjasec
+onboarding-new-user-survey-time-based-option-3 = Wěcej ako 1 mjasec, pšawidłownje
+onboarding-new-user-survey-time-based-option-4 = Wěcej ako 1 mjasec, pśi góžbje
