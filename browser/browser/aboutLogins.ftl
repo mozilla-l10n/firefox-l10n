@@ -116,6 +116,7 @@ login-item-edit-button = แก้ไข
 about-logins-login-item-remove-button = ลบ
 login-item-origin-label = ที่อยู่เว็บไซต์
 login-item-tooltip-message = ตรวจสอบให้แน่ใจว่าตรงกับที่อยู่ของเว็บไซต์ที่คุณเข้าสู่ระบบ
+about-logins-origin-tooltip2 = ป้อนที่อยู่แบบเต็มและตรวจสอบให้แน่ใจว่าที่อยู่นั้นตรงกันทุกประการกับที่อยู่ที่คุณใช้ลงชื่อเข้า
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = ตรวจสอบให้แน่ใจว่าคุณได้บันทึกรหัสผ่านปัจจุบันของคุณสำหรับไซต์นี้ การเปลี่ยนรหัสผ่านที่นี่จะไม่มีผลกับรหัสผ่านใน { $webTitle }
@@ -248,6 +249,24 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] ใช่ ลบรหัสผ่าน
        *[other] ใช่ ลบรหัสผ่าน
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] ลบ { $count } รหัสผ่านหรือไม่?
+       *[other] ลบทั้งหมด { $count } รหัสผ่านหรือไม่?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] การกระทำนี้จะลบรหัสผ่านที่บันทึกไว้ใน { -brand-short-name } และการแจ้งเตือนการรั่วไหลทั้งหมดออก คุณไม่สามารถยกเลิกการกระทำนี้ได้
+       *[other] การกระทำนี้จะลบรหัสผ่านที่บันทึกไว้ใน { -brand-short-name } และการแจ้งเตือนการรั่วไหลทั้งหมดออก คุณไม่สามารถยกเลิกการกระทำนี้ได้
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] ลบ { $count } รหัสผ่านจากทุกอุปกรณ์หรือไม่?
+       *[other] ลบทั้งหมด { $count } รหัสผ่านจากทุกอุปกรณ์หรือไม่?
     }
 
 ##
