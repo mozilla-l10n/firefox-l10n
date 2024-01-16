@@ -99,9 +99,9 @@ about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Extensions
 about-webauthn-auth-info-versions = Versions
 # Shows when boolean value for an info field is True. True should not be translated.
-about-webauthn-auth-info-true = Vrai
+about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
-about-webauthn-auth-info-false = Faux
+about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Non pris en charge
 
 ## Bio enrollment sample feedbacks
