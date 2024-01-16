@@ -176,4 +176,5 @@ about-webauthn-ctap2-enroll-feedback-merge-failure = Ojavy ojehe’ávo jehechau
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
 about-webauthn-ctap2-enroll-feedback-exists = Pe jehechaukarã oĩmavoi.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Poruhára ndahapykueréi.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Poruhára nomoĩmbái jehechaukarã oñeha’ãrõháicha.
 about-webauthn-ctap2-enroll-feedback-other = Jehechaukarã ojavy.
