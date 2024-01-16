@@ -29,6 +29,8 @@ about-webauthn-text-select-device = Ju lutemi, përzgjidhni token-in tuaj të d�
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = S’arrihet të administrohen mundësi, ngaqë token-i juaj i sigurisë nuk mbulon CTAP2.
 about-webauthn-text-not-available = Jo i passhëm në këtë platformë.
+about-webauthn-bio-enrollment-list-subsection-title = Dhënie elementësh:
+about-webauthn-add-bio-enrollment-section-title = Shtoni dhënie të re elementësh
 
 ## Results label
 
@@ -43,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Gabim: PIN i pasaktë. Riprovoni. Keni edhe { $retriesLeft } prova.
     }
 about-webauthn-results-pin-blocked-error = Gabim: S’ka më prova dhe pajisja juaj është kyçur, ngaqë u dha PIN i gabuar disa herë. Kjo pajisje lyp ujdisje nga e para.
+about-webauthn-results-pin-not-set-error = Gabim: S’është caktuar PIN. Ky veprim lyp mbrojtje PIN.
 about-webauthn-results-pin-too-short-error = Gabim: PIN-i i dhënë është shumë i shkurtër.
 about-webauthn-results-pin-too-long-error = Gabim: PIN-i i dhënë është shumë i gjatë.
 about-webauthn-results-pin-auth-blocked-error = Gabim: Pati shumë prova të dështuara njëra pas tjetrës dhe mirëfilltësimi me PIN është bllokuar përkohësisht. Kjo pajisje lyp një ciklim energjie (hiqeni nga priza dhe rifuteni në prizë).
@@ -55,6 +58,8 @@ about-webauthn-repeat-pin-label = Përsëriteni PIN-in e ri:
 about-webauthn-current-pin-label = PIN-i i tanishëm:
 about-webauthn-pin-required-label = Ju lutemi, jepni PIN-in tuaj:
 about-webauthn-credential-list-subsection-title = Kredenciale:
+about-webauthn-enrollment-name-label = Emër për dhënie elementësh (në daçi):
+about-webauthn-enrollment-list-empty = Në pajisje s’u gjet dhënie elementësh.
 about-webauthn-credential-list-empty = S’u gjetën kredenciale te pajisja.
 about-webauthn-confirm-deletion-label = Ju ndan një hap nga fshirja e:
 
@@ -64,9 +69,14 @@ about-webauthn-current-set-pin-button = Caktoni PIN-in
 about-webauthn-current-change-pin-button = Ndryshoni PIN-in
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Shfaq kredenciale
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Shfaq dhëniet e elementëve
+about-webauthn-add-bio-enrollment-button = Shtoni dhënie elementësh
 about-webauthn-cancel-button = Anuloje
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Fshije
+about-webauthn-start-enrollment-button = Nis dhënie elementësh
+about-webauthn-update-button = Përditësoje
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -74,6 +84,7 @@ about-webauthn-delete-button = Fshije
 about-webauthn-auth-option-uv = Verifikim përdoruesi
 about-webauthn-auth-option-up = Prani përdoruesi
 about-webauthn-auth-option-clientpin = PIN Klienti
+about-webauthn-auth-option-plat = Pajisje platforme
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Leje urdhrash (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
@@ -117,9 +128,28 @@ about-webauthn-auth-info-null = E pambuluar
 
 ## Bio enrollment sample feedbacks
 
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Ç’u dha, qe mirë
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Ç’u dha, qe shumë lart.
+about-webauthn-ctap2-enroll-feedback-too-low = Ç’u dha, qe shumë poshtë.
+about-webauthn-ctap2-enroll-feedback-too-left = Ç’u dha, qe shumë majtas.
+about-webauthn-ctap2-enroll-feedback-too-right = Ç’u dha, qe shumë djathtas.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Ç’u dha, qe shumë e shpejtë.
+about-webauthn-ctap2-enroll-feedback-too-slow = Ç’u dha, qe shumë e ngadaltë.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Ç’u dha, pati cilësi të dobët.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Ç’u dha, qe shumë e shformuar.
+about-webauthn-ctap2-enroll-feedback-too-short = Ç’u dha, qe shumë e shkurtër.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Dështim përzierje dhëniesh.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Ç’u dha, ekziston tashmë.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = S’ka veprimtari nga përdoruesi.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Përdoruesi s’e plotësoi dhënien e elementëve siç pritej.
+about-webauthn-ctap2-enroll-feedback-other = Gabim dhënieje.
