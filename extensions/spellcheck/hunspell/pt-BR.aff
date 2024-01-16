@@ -1,39 +1,184 @@
-SET UTF-8
-LANG pt_BR
-TRY aerisontcdmlupvgbfz√°h√ßqj√≠x√£√≥√©√™√¢√∫√µACMPSBTELGRIFVDkHJON√¥ywUKXZWQ√ÅY√ç√â√†√ì√®√Ç√ö
-KEY qwertyuiop|asdfghjkl√ß|zxcvbnm
+SET ISO8859-1
+LANG pt
+WORDCHARS 0123456789$-'
 BREAK 0
+
+KEEPCASE &
 NOSUGGEST !
 FORBIDDENWORD ~
-WORDCHARS -
+NEEDAFFIX *
+CIRCUMFIX ^
+
+KEY qwertyuiop|asdfghjklÁ|zxcvbnm|qaw|wse|edr|rft|tgy|yhu|uji|iko|olpÁ|azs|sxd|dcf|fvg|gbh|hnj|jmk|·‡‚„|ÈËÍ|˙ÌÛ˘ÏÚ˚ÓÙı
+
+ICONV 1
+ICONV ' í
 
 
-PFX A Y 4
-PFX A   0               anti            [^hirs]
+MAP 9
+MAP a·‰‡‚„Â
+MAP eÈÎËÍ
+MAP iÌÔÏÓy˝ˇ
+MAP oÛˆÚÙı
+MAP u˙¸˘˚
+MAP (ch)x
+MAP (qu)k
+MAP (ss)Á
+MAP sz
+
+TRY sieroÁcnaguhjtlmdÌÛzvp-í
+
+MAXNGRAMSUGS 5
+MAXDIFF 7
+
+REP 77
+REP ^a           ¡
+REP ^a           ¬
+REP ^e           …
+REP ^i           Õ
+REP ^concerteza$ com_certeza
+REP ^concertesa$ com_certeza
+REP ^derrepente$ de_repente
+REP ^encima$     em_cima
+REP ^atoa$       ‡_toa
+REP ^denada$     de_nada
+REP ^Beijing$    Pequim
+REP ^ben         bem-
+REP ^es          his
+REP ^pre         prÈ-
+REP ^prÈ-        pre
+REP ^sÛcio-      socio
+REP ^vÌdeo-      video
+REP ca           Áa
+REP co           Áo
+REP ^c           s
+REP ^s           c
+REP ge           je
+REP a$           o
+REP as$          os
+REP r            l
+REP l            u
+REP o            u
+REP ss           c
+REP c            ss
+REP o-h          o
+REP cÁ           x
+REP alha         ·lia
+REP cao$         Á„o
+REP coes$        Áıes
+REP Áao$         s„o
+REP Áoes$        sıes
+REP „os$         ıes
+REP „os$         „es
+REP ıes$         „os
+REP ona$         „
+REP onas$        „s
+REP medi         medei
+REP eram$        iveram
+REP aberam$      ouberam
+REP oram$        useram
+REP abesse$      oubesse
+REP osse$        usesse
+REP sse$         esse
+REP esse$        ivesse
+REP eu$          eve
+REP abeu$        oube
+REP iu$          eio
+REP ram$         eram
+REP ste$         este
+REP „o$          am
+REP ao$          am
+REP an$          „
+REP ·$           ar
+REP is$          ereu
+REP nhem$        er
+REP nhe          e
+REP eram$        e
+REP ^diz         diss
+REP ^abrid       abert
+REP ^cobrid      cobert
+REP ^escrevid    escrit
+REP ^ponhar$     pÙr
+REP ^ponhei$     pus
+REP ^trazesse$   trouxesse
+REP ^fazesse$    fizesse
+REP ^hajar$      houver
+REP ^teje$       esteja
+REP -da-         _da_
+REP -de-         _de_
+REP -do-         _do_
+REP -a-          _a_
+REP -            _
+
+
+PFX … Y 1
+PFX …   0   recÈm-/^        .
+
+SFX È Y 20
+SFX È   r    do/^…     ar
+SFX È   r    da/^…     ar
+SFX È   r    dos/^…    ar
+SFX È   r    das/^…    ar
+SFX È   er   ido/^…    er
+SFX È   er   ida/^…    er
+SFX È   er   idos/^…   er
+SFX È   er   idas/^…   er
+SFX È   ir   Ìdo/^…    [^q][ua]ir #concluir
+SFX È   ir   Ìda/^…    [^q][ua]ir #atrair
+SFX È   ir   Ìdos/^…   [^q][ua]ir
+SFX È   ir   Ìdas/^…   [^q][ua]ir
+SFX È   ir   ido/^…       [^ua]ir #demitir
+SFX È   ir   ida/^…       [^ua]ir
+SFX È   ir   idos/^…      [^ua]ir
+SFX È   ir   idas/^…      [^ua]ir
+SFX È   ir   ido/^…          quir #extorquir
+SFX È   ir   ida/^…          quir
+SFX È   ir   idos/^…         quir
+SFX È   ir   idas/^…         quir
+
+
+PFX A Y 5
+PFX A   0               anti            [^hirsCEHILU]
 PFX A   0               antir           r
 PFX A   0               antis           s
-PFX A   0               anti-           [hi]
+PFX A   0               anti-           [hiCEHILU]
+PFX A   0               Anti-           [hiCEHILU]
 
 PFX S Y 2
 PFX S   0               des             [^h]
 PFX S   h               des             h
 
 PFX I Y 4
-PFX I   0               in              [^plmr]
-PFX I   0               im              p
-PFX I   0               i               [lm]
+PFX I   0               in              [^bplmnr]
+PFX I   0               im              [bp]
+PFX I   0               i               [lmn]
 PFX I   0               ir              r
+
+PFX Õ Y 4
+PFX Õ   0   in/^   [^bplmnr]
+PFX Õ   0   im/^   [bp]
+PFX Õ   0   i/^    [lmn]
+PFX Õ   0   ir/^   r
+
+SFX Ì Y 6
+SFX Ì   ar   ·vel/^Õ    ar
+SFX Ì   er   Ìvel/^Õ    er
+SFX Ì   ir   Ìvel/^Õ    ir
+SFX Ì   ar   ·veis/^Õ   ar
+SFX Ì   er   Ìveis/^Õ   er
+SFX Ì   ir   Ìveis/^Õ   ir
+
 
 PFX R Y 2
 PFX R   0               re              [^s]
 PFX R   0               res             s
 
 PFX E Y 1
-PFX E   0               pr√©-            .
+PFX E   0               prÈ-            .
 
 PFX O Y 2
-PFX O   0               P√≥s-            .
-PFX O   0               p√≥s-            .
+PFX O   0               PÛs-            .
+PFX O   0               pÛs-            .
 
 PFX u Y 2
 PFX u   0               sub-            [bhr]
@@ -61,134 +206,134 @@ PFX T   0               penta           .
 PFX T   0               hexa            .
 
 SFX p Y 15
-SFX p   0               s               [^√£][^lsmrnzx]
-SFX p   0               s               √£e
-SFX p   √£o              √µes             √£o
+SFX p   0               s               [^„][^lsmrnzx]
+SFX p   0               s               „e
+SFX p   „o              ıes             „o
 SFX p   l               is              [au]l
-SFX p   ol              √≥is             ol
-SFX p   el              √©is             [^v]el
-SFX p   el              √©is             [^√°√©√≠√≥√∫]vel
-SFX p   l               is              [√°√©√≠√≥√∫]vel
+SFX p   ol              Ûis             ol
+SFX p   el              Èis             [^v]el
+SFX p   el              Èis             [^·ÈÌÛ˙]vel
+SFX p   l               is              [·ÈÌÛ˙]vel
 SFX p   l               s               il
-SFX p   0               es              [^√°√©√™]s
-SFX p   √°s              ases            √°s
-SFX p   √©s              eses            √©s
-SFX p   √™s              eses            √™s
+SFX p   0               es              [^·ÈÍ]s
+SFX p   ·s              ases            ·s
+SFX p   Ès              eses            Ès
+SFX p   Ís              eses            Ís
 SFX p   m               ns              m
 SFX p   0               es              [rnzx]
 
 SFX a Y 4
-SFX a   0               s               √£o
+SFX a   0               s               „o
 SFX a   il              eis             il
 SFX a   os              as              entos
 SFX a   0               s               [^aeiouls]
 
 SFX e Y 2
 SFX e   0               es              l
-SFX e   o               es              √£o
+SFX e   o               es              „o
 
 SFX f Y 12
-SFX f   o               a               [^√£]o
-SFX f   o               as              [^√£]o
+SFX f   o               a               [^„]o
+SFX f   o               as              [^„]o
 SFX f   0               a               [^aeiouscn]
 SFX f   0               as              [^aeiouscn]
-SFX f   0               a               [^√™]s
-SFX f   0               as              [^√™]s
-SFX f   √™s              esa             √™s
-SFX f   √™s              esas            √™s
-SFX f   √£o              ona             √£o
-SFX f   √£o              onas            √£o
+SFX f   0               a               [^Í]s
+SFX f   0               as              [^Í]s
+SFX f   Ís              esa             Ís
+SFX f   Ís              esas            Ís
+SFX f   „o              ona             „o
+SFX f   „o              onas            „o
 SFX f   e               a               e
 SFX f   e               as              e
 
 SFX k Y 6
-SFX k   o               a               [^√£]o
+SFX k   o               a               [^„]o
 SFX k   0               a               [^aeiouscn]
-SFX k   0               a               [^√™]s
-SFX k   √™s              esa             √™s
-SFX k   √£o              ona             √£o
+SFX k   0               a               [^Í]s
+SFX k   Ís              esa             Ís
+SFX k   „o              ona             „o
 SFX k   e               a               e
 
 SFX b Y 4
-SFX b   o               0               √£o
-SFX b   o               s               √£o
+SFX b   o               0               „o
+SFX b   o               s               „o
 SFX b   0               ssa             e
 SFX b   0               ssas            e
 
 SFX g Y 2
-SFX g   √£o              oa              √£o
-SFX g   √£o              oas             √£o
+SFX g   „o              oa              „o
+SFX g   „o              oas             „o
 
 SFX m Y 5
 SFX m   o               amente          o
 SFX m   0               amente          u
 SFX m   0               mente           [^v][^q][^uo]
-SFX m   √°vel            avelmente       √°vel
-SFX m   √≠vel            ivelmente       √≠vel
+SFX m   ·vel            avelmente       ·vel
+SFX m   Ìvel            ivelmente       Ìvel
 
 SFX H Y 38
-SFX H   √∫rgico          urgicamente     √∫rgico
+SFX H   ˙rgico          urgicamente     ˙rgico
 SFX H   0               amente          dor
-SFX H   √≥rio            oriamente       √≥rio
-SFX H   √°rio            ariamente       √°rio
-SFX H   √°tico           aticamente      √°tico
-SFX H   √¥nico           onicamente      √¥nico
-SFX H   √≥gico           ogicamente      √≥gico
-SFX H   √≠fero           iferamente      √≠fero
-SFX H   √©tico           eticamente      √©tico
-SFX H   √≠stico          isticamente     √≠stico
-SFX H   √≠ssimo          issimamente     √≠ssimo
-SFX H   √≠tico           iticamente      √≠tico
-SFX H   √°fico           aficamente      √°fico
-SFX H   √©trico          etricamente     √©trico
-SFX H   √¥mico           omicamente      √¥mico
-SFX H   √©rico           ericamente      √©rico
-SFX H   √≥tico           oticamente      √≥tico
-SFX H   √°ceo            aceamente       √°ceo
-SFX H   √°stico          asticamente     √°stico
-SFX H   √≠cio            iciamente       √≠cio
-SFX H   √≠fico           ificamente      √≠fico
-SFX H   √≠aco            iacamente       √≠aco
-SFX H   √≥lico           olicamente      √≥lico
-SFX H   √≥rico           oricamente      √≥rico
-SFX H   √™nico           enicamente      √™nico
-SFX H   √≥dico           odicamente      √≥dico
-SFX H   √≥pico           opicamente      √≥pico
-SFX H   √°lico           alicamente      √°lico
-SFX H   √©rmico          ermicamente     √©rmico
-SFX H   √≠voro           ivoramente      √≠voro
-SFX H   √°bico           abicamente      √°bico
-SFX H   √≥filo           ofilamente      √≥filo
-SFX H   √©lico           elicamente      √©lico
-SFX H   √™mico           emicamente      √™mico
-SFX H   √¥nio            oniamente       √¥nio
-SFX H   √°sico           asicamente      √°sico
-SFX H   √°gico           agicamente      √°gico
-SFX H   √≥cil            ocilmente       √≥cil
+SFX H   Ûrio            oriamente       Ûrio
+SFX H   ·rio            ariamente       ·rio
+SFX H   ·tico           aticamente      ·tico
+SFX H   Ùnico           onicamente      Ùnico
+SFX H   Ûgico           ogicamente      Ûgico
+SFX H   Ìfero           iferamente      Ìfero
+SFX H   Ètico           eticamente      Ètico
+SFX H   Ìstico          isticamente     Ìstico
+SFX H   Ìssimo          issimamente     Ìssimo
+SFX H   Ìtico           iticamente      Ìtico
+SFX H   ·fico           aficamente      ·fico
+SFX H   Ètrico          etricamente     Ètrico
+SFX H   Ùmico           omicamente      Ùmico
+SFX H   Èrico           ericamente      Èrico
+SFX H   Ûtico           oticamente      Ûtico
+SFX H   ·ceo            aceamente       ·ceo
+SFX H   ·stico          asticamente     ·stico
+SFX H   Ìcio            iciamente       Ìcio
+SFX H   Ìfico           ificamente      Ìfico
+SFX H   Ìaco            iacamente       Ìaco
+SFX H   Ûlico           olicamente      Ûlico
+SFX H   Ûrico           oricamente      Ûrico
+SFX H   Ínico           enicamente      Ínico
+SFX H   Ûdico           odicamente      Ûdico
+SFX H   Ûpico           opicamente      Ûpico
+SFX H   ·lico           alicamente      ·lico
+SFX H   Èrmico          ermicamente     Èrmico
+SFX H   Ìvoro           ivoramente      Ìvoro
+SFX H   ·bico           abicamente      ·bico
+SFX H   Ûfilo           ofilamente      Ûfilo
+SFX H   Èlico           elicamente      Èlico
+SFX H   Ímico           emicamente      Ímico
+SFX H   Ùnio            oniamente       Ùnio
+SFX H   ·sico           asicamente      ·sico
+SFX H   ·gico           agicamente      ·gico
+SFX H   Ûcil            ocilmente       Ûcil
 
 SFX q Y 32
-SFX q   ologia          √≥logo           ologia
-SFX q   ologia          √≥loga           ologia
-SFX q   ologia          √≥logos          ologia
-SFX q   ologia          √≥logas          ologia
-SFX q   afia            √°fico           afia
-SFX q   afia            √°fica           afia
-SFX q   afia            √°ficos          afia
-SFX q   afia            √°ficas          afia
-SFX q   omania          √¥mano           omania
-SFX q   omania          √¥mana           omania
-SFX q   omania          √¥manos          omania
-SFX q   omania          √¥manas          omania
-SFX q   ofobia          √≥fobo           ofobia
-SFX q   ofobia          √≥foba           ofobia
-SFX q   ofobia          √≥fobos          ofobia
-SFX q   ofobia          √≥fobas          ofobia
-SFX q   ofilia          √≥filo           ofilia
-SFX q   ofilia          √≥fila           ofilia
-SFX q   ofilia          √≥filos          ofilia
-SFX q   ofilia          √≥filas          ofilia
-SFX q   √≠dio            ida             c√≠dio
-SFX q   √≠dio            idas            c√≠dio
+SFX q   ologia          Ûlogo           ologia
+SFX q   ologia          Ûloga           ologia
+SFX q   ologia          Ûlogos          ologia
+SFX q   ologia          Ûlogas          ologia
+SFX q   afia            ·fico           afia
+SFX q   afia            ·fica           afia
+SFX q   afia            ·ficos          afia
+SFX q   afia            ·ficas          afia
+SFX q   omania          Ùmano           omania
+SFX q   omania          Ùmana           omania
+SFX q   omania          Ùmanos          omania
+SFX q   omania          Ùmanas          omania
+SFX q   ofobia          Ûfobo           ofobia
+SFX q   ofobia          Ûfoba           ofobia
+SFX q   ofobia          Ûfobos          ofobia
+SFX q   ofobia          Ûfobas          ofobia
+SFX q   ofilia          Ûfilo           ofilia
+SFX q   ofilia          Ûfila           ofilia
+SFX q   ofilia          Ûfilos          ofilia
+SFX q   ofilia          Ûfilas          ofilia
+SFX q   Ìdio            ida             cÌdio
+SFX q   Ìdio            idas            cÌdio
 SFX q   ia              a               patia
 SFX q   ia              as              patia
 SFX q   ura             or              cultura
@@ -197,66 +342,66 @@ SFX q   ura             ores            cultura
 SFX q   ura             oras            cultura
 SFX q   cia             ta              cracia
 SFX q   cia             tas             cracia
-SFX q   smo             sta             e√≠smo
-SFX q   smo             stas            e√≠smo
+SFX q   smo             sta             eÌsmo
+SFX q   smo             stas            eÌsmo
 
 SFX r Y 46
-SFX r   ogia            √≥gico           logia
-SFX r   ogia            √≥gica           logia
-SFX r   ogia            √≥gicos          logia
-SFX r   ogia            √≥gicas          logia
-SFX r   ografia         √≥grafo          ografia
-SFX r   ografia         √≥grafa          ografia
-SFX r   ografia         √≥grafos         ografia
-SFX r   ografia         √≥grafas         ografia
-SFX r   omia            √¥mico           nomia
-SFX r   omia            √¥mica           nomia
-SFX r   omia            √¥micos          nomia
-SFX r   omia            √¥micas          nomia
-SFX r   ia              √≠aco            mania
-SFX r   ia              √≠aca            mania
-SFX r   ia              √≠acos           mania
-SFX r   ia              √≠acas           mania
-SFX r   acia            √°tico           cracia
-SFX r   acia            √°tica           cracia
-SFX r   acia            √°ticos          cracia
-SFX r   acia            √°ticas          cracia
-SFX r   icultura        √≠cola           icultura
-SFX r   icultura        √≠colas          icultura
-SFX r   arquia          √°rquico         arquia
-SFX r   arquia          √°rquica         arquia
-SFX r   arquia          √°rquicos        arquia
-SFX r   arquia          √°rquicas        arquia
-SFX r   obia            √≥bico           fobia
-SFX r   obia            √≥bica           fobia
-SFX r   obia            √≥bicos          fobia
-SFX r   obia            √≥bicas          fobia
-SFX r   atia            √°tico           patia
-SFX r   atia            √°tica           patia
-SFX r   atia            √°ticos          patia
-SFX r   atia            √°ticas          patia
-SFX r   etria           √©trico          metria
-SFX r   etria           √©trica          metria
-SFX r   etria           √©tricos         metria
-SFX r   etria           √©tricas         metria
-SFX r   orfia           √≥rfico          morfia
-SFX r   orfia           √≥rfica          morfia
-SFX r   orfia           √≥rficos         morfia
-SFX r   orfia           √≥rficas         morfia
-SFX r   morfismo        m√≥rfico         morfismo
-SFX r   morfismo        m√≥rfica         morfismo
-SFX r   morfismo        m√≥rficos        morfismo
-SFX r   morfismo        m√≥rficas        morfismo
+SFX r   ogia            Ûgico           logia
+SFX r   ogia            Ûgica           logia
+SFX r   ogia            Ûgicos          logia
+SFX r   ogia            Ûgicas          logia
+SFX r   ografia         Ûgrafo          ografia
+SFX r   ografia         Ûgrafa          ografia
+SFX r   ografia         Ûgrafos         ografia
+SFX r   ografia         Ûgrafas         ografia
+SFX r   omia            Ùmico           nomia
+SFX r   omia            Ùmica           nomia
+SFX r   omia            Ùmicos          nomia
+SFX r   omia            Ùmicas          nomia
+SFX r   ia              Ìaco            mania
+SFX r   ia              Ìaca            mania
+SFX r   ia              Ìacos           mania
+SFX r   ia              Ìacas           mania
+SFX r   acia            ·tico           cracia
+SFX r   acia            ·tica           cracia
+SFX r   acia            ·ticos          cracia
+SFX r   acia            ·ticas          cracia
+SFX r   icultura        Ìcola           icultura
+SFX r   icultura        Ìcolas          icultura
+SFX r   arquia          ·rquico         arquia
+SFX r   arquia          ·rquica         arquia
+SFX r   arquia          ·rquicos        arquia
+SFX r   arquia          ·rquicas        arquia
+SFX r   obia            Ûbico           fobia
+SFX r   obia            Ûbica           fobia
+SFX r   obia            Ûbicos          fobia
+SFX r   obia            Ûbicas          fobia
+SFX r   atia            ·tico           patia
+SFX r   atia            ·tica           patia
+SFX r   atia            ·ticos          patia
+SFX r   atia            ·ticas          patia
+SFX r   etria           Ètrico          metria
+SFX r   etria           Ètrica          metria
+SFX r   etria           Ètricos         metria
+SFX r   etria           Ètricas         metria
+SFX r   orfia           Ûrfico          morfia
+SFX r   orfia           Ûrfica          morfia
+SFX r   orfia           Ûrficos         morfia
+SFX r   orfia           Ûrficas         morfia
+SFX r   morfismo        mÛrfico         morfismo
+SFX r   morfismo        mÛrfica         morfismo
+SFX r   morfismo        mÛrficos        morfismo
+SFX r   morfismo        mÛrficas        morfismo
 
 SFX N Y 8
-SFX N   r               d√≠ssimo         [ia]r
-SFX N   r               d√≠ssima         [ia]r
-SFX N   r               d√≠ssimas        [ia]r
-SFX N   r               d√≠ssimos        [ia]r
-SFX N   er              id√≠ssimo        er
-SFX N   er              id√≠ssima        er
-SFX N   er              id√≠ssimas       er
-SFX N   er              id√≠ssimos       er
+SFX N   r               dÌssimo         [ia]r
+SFX N   r               dÌssima         [ia]r
+SFX N   r               dÌssimas        [ia]r
+SFX N   r               dÌssimos        [ia]r
+SFX N   er              idÌssimo        er
+SFX N   er              idÌssima        er
+SFX N   er              idÌssimas       er
+SFX N   er              idÌssimos       er
 
 SFX W Y 12
 SFX W   r               dinho           [ia]r
@@ -267,223 +412,223 @@ SFX W   er              idinho          er
 SFX W   er              idinha          er
 SFX W   er              idinhas         er
 SFX W   er              idinhos         er
-SFX W   0               zinho           [^√£][eo]
+SFX W   0               zinho           [^„][eo]
 SFX W   0               inho            l
-SFX W   0               zinhos          [^√£][eo]
+SFX W   0               zinhos          [^„][eo]
 SFX W   0               inhos           l
 
 SFX s Y 36
-SFX s   o               √≠ssimo          [^c√ßg]o
-SFX s   co              qu√≠ssimo        co
-SFX s   √ßo              c√≠ssimo         √ßo
-SFX s   go              gu√≠ssimo        go
-SFX s   e               √≠ssimo          e
-SFX s   0               √≠ssimo          [lr]
-SFX s   √™s              es√≠ssimo        √™s
-SFX s   z               c√≠ssimo         z
-SFX s   √°vel            abil√≠ssimo      √°vel
-SFX s   o               √≠ssima          [^c√ßg]o
-SFX s   co              qu√≠ssima        co
-SFX s   √ßo              c√≠ssima         √ßo
-SFX s   go              gu√≠ssima        go
-SFX s   e               √≠ssima          e
-SFX s   0               √≠ssima          [lr]
-SFX s   √™s              es√≠ssima        √™s
-SFX s   z               c√≠ssima         z
-SFX s   √°vel            abil√≠ssima      √°vel
-SFX s   o               √≠ssimos         [^c√ßg]o
-SFX s   co              qu√≠ssimos       co
-SFX s   √ßo              c√≠ssimos        √ßo
-SFX s   go              gu√≠ssimos       go
-SFX s   e               √≠ssimos         e
-SFX s   0               √≠ssimos         [lr]
-SFX s   √™s              es√≠ssimos       √™s
-SFX s   z               c√≠ssimos        z
-SFX s   √°vel            abil√≠ssimos     √°vel
-SFX s   o               √≠ssimas         [^c√ßg]o
-SFX s   co              qu√≠ssimas       co
-SFX s   √ßo              c√≠ssimas        √ßo
-SFX s   go              gu√≠ssimas       go
-SFX s   e               √≠ssimas         e
-SFX s   0               √≠ssimas         [lr]
-SFX s   √™s              es√≠ssimas       √™s
-SFX s   z               c√≠ssimas        z
-SFX s   √°vel            abil√≠ssimas     √°vel
+SFX s   o               Ìssimo          [^cÁg]o
+SFX s   co              quÌssimo        co
+SFX s   Áo              cÌssimo         Áo
+SFX s   go              guÌssimo        go
+SFX s   e               Ìssimo          e
+SFX s   0               Ìssimo          [lr]
+SFX s   Ís              esÌssimo        Ís
+SFX s   z               cÌssimo         z
+SFX s   ·vel            abilÌssimo      ·vel
+SFX s   o               Ìssima          [^cÁg]o
+SFX s   co              quÌssima        co
+SFX s   Áo              cÌssima         Áo
+SFX s   go              guÌssima        go
+SFX s   e               Ìssima          e
+SFX s   0               Ìssima          [lr]
+SFX s   Ís              esÌssima        Ís
+SFX s   z               cÌssima         z
+SFX s   ·vel            abilÌssima      ·vel
+SFX s   o               Ìssimos         [^cÁg]o
+SFX s   co              quÌssimos       co
+SFX s   Áo              cÌssimos        Áo
+SFX s   go              guÌssimos       go
+SFX s   e               Ìssimos         e
+SFX s   0               Ìssimos         [lr]
+SFX s   Ís              esÌssimos       Ís
+SFX s   z               cÌssimos        z
+SFX s   ·vel            abilÌssimos     ·vel
+SFX s   o               Ìssimas         [^cÁg]o
+SFX s   co              quÌssimas       co
+SFX s   Áo              cÌssimas        Áo
+SFX s   go              guÌssimas       go
+SFX s   e               Ìssimas         e
+SFX s   0               Ìssimas         [lr]
+SFX s   Ís              esÌssimas       Ís
+SFX s   z               cÌssimas        z
+SFX s   ·vel            abilÌssimas     ·vel
 
 SFX d Y 30
-SFX d   o               idade           [^√ßgi]o
-SFX d   √ßo              cidade          √ßo
+SFX d   o               idade           [^Ági]o
+SFX d   Áo              cidade          Áo
 SFX d   go              guidade         go
 SFX d   o               edade           [^r]io
-SFX d   o               edade           [^√°√≥]rio
-SFX d   √°rio            ariedade        √°rio
-SFX d   √≥rio            oriedade        √≥rio
+SFX d   o               edade           [^·Û]rio
+SFX d   ·rio            ariedade        ·rio
+SFX d   Ûrio            oriedade        Ûrio
 SFX d   e               idade           e
 SFX d   0               idade           r
 SFX d   0               idade           [^v][^q]l
-SFX d   vel             bilidade        [^√°√≠√∫]vel
-SFX d   √°vel            abilidade       √°vel
-SFX d   √≠vel            ibilidade       √≠vel
-SFX d   √∫vel            ubilidade       √∫vel
+SFX d   vel             bilidade        [^·Ì˙]vel
+SFX d   ·vel            abilidade       ·vel
+SFX d   Ìvel            ibilidade       Ìvel
+SFX d   ˙vel            ubilidade       ˙vel
 SFX d   z               cidade          z
-SFX d   o               idades          [^√ßgi]o
-SFX d   √ßo              cidades         √ßo
+SFX d   o               idades          [^Ági]o
+SFX d   Áo              cidades         Áo
 SFX d   go              guidades        go
 SFX d   o               edades          [^r]io
-SFX d   o               edades          [^√°√≥]rio
-SFX d   √°rio            ariedades       √°rio
-SFX d   √≥rio            oriedades       √≥rio
+SFX d   o               edades          [^·Û]rio
+SFX d   ·rio            ariedades       ·rio
+SFX d   Ûrio            oriedades       Ûrio
 SFX d   e               idades          e
 SFX d   0               idades          r
 SFX d   0               idades          [^v][^q]l
-SFX d   vel             bilidades       [^√°√≠]vel
-SFX d   √°vel            abilidades      √°vel
-SFX d   √≠vel            ibilidades      √≠vel
-SFX d   √∫vel            ubilidades      √∫vel
+SFX d   vel             bilidades       [^·Ì]vel
+SFX d   ·vel            abilidades      ·vel
+SFX d   Ìvel            ibilidades      Ìvel
+SFX d   ˙vel            ubilidades      ˙vel
 SFX d   z               cidades         z
 
 SFX i Y 26
 SFX i   go              guismo          go
 SFX i   go              guismos         go
-SFX i   o               ismo            [^c√ß√£]o
+SFX i   o               ismo            [^cÁ„]o
 SFX i   co              quismo          co
-SFX i   √ßo              cismo           √ßo
-SFX i   √ß√£o             cionismo        √ß√£o
+SFX i   Áo              cismo           Áo
+SFX i   Á„o             cionismo        Á„o
 SFX i   a               ismo            [^icg]a
 SFX i   a               smo             ia
 SFX i   ca              quismo          ca
 SFX i   ga              guismo          ga
 SFX i   e               ismo            e
 SFX i   0               ismo            [lr]
-SFX i   √™s              esismo          √™s
+SFX i   Ís              esismo          Ís
 SFX i   m               nismo           m
-SFX i   o               ismos           [^c√ß√£]o
+SFX i   o               ismos           [^cÁ„]o
 SFX i   co              quismos         co
-SFX i   √ßo              cismos          √ßo
-SFX i   √ß√£o             cionismos       √ß√£o
+SFX i   Áo              cismos          Áo
+SFX i   Á„o             cionismos       Á„o
 SFX i   a               ismos           [^icg]a
 SFX i   a               smos            ia
 SFX i   ca              quismos         ca
 SFX i   ga              guismos         ga
 SFX i   e               ismos           e
 SFX i   0               ismos           [lr]
-SFX i   √™s              esismos         √™s
+SFX i   Ís              esismos         Ís
 SFX i   m               nismos          m
 
 SFX t Y 24
-SFX t   o               ista            [^c√ß√£i]o
+SFX t   o               ista            [^cÁ„i]o
 SFX t   co              quista          co
-SFX t   √ßo              cista           √ßo
-SFX t   √ß√£o             cionista        √ß√£o
-SFX t   s√£o             sionista        s√£o
-SFX t   io              √≠sta            io
-SFX t   a               ista            [^i√ßg]a
+SFX t   Áo              cista           Áo
+SFX t   Á„o             cionista        Á„o
+SFX t   s„o             sionista        s„o
+SFX t   io              Ìsta            io
+SFX t   a               ista            [^iÁg]a
 SFX t   a               sta             ia
-SFX t   √ßa              cista           √ßa
+SFX t   Áa              cista           Áa
 SFX t   a               uista           ga
 SFX t   e               ista            e
 SFX t   0               ista            [lr]
-SFX t   o               istas           [^c√ß√£]o
+SFX t   o               istas           [^cÁ„]o
 SFX t   co              quistas         co
-SFX t   √ßo              cistas          √ßo
-SFX t   √ß√£o             cionistas       √ß√£o
-SFX t   s√£o             sionistas       s√£o
-SFX t   io              √≠stas           io
-SFX t   a               istas           [^i√ßg]a
+SFX t   Áo              cistas          Áo
+SFX t   Á„o             cionistas       Á„o
+SFX t   s„o             sionistas       s„o
+SFX t   io              Ìstas           io
+SFX t   a               istas           [^iÁg]a
 SFX t   a               stas            ia
-SFX t   √ßa              cistas          √ßa
+SFX t   Áa              cistas          Áa
 SFX t   a               uistas          ga
 SFX t   e               istas           e
 SFX t   0               istas           [lr]
 
 SFX l Y 28
-SFX l   o               inho            [^cg√ß√£i]o
+SFX l   o               inho            [^cgÁ„i]o
 SFX l   co              quinho          co
-SFX l   √ßo              cinho           √ßo
+SFX l   Áo              cinho           Áo
 SFX l   o               uinho           go
-SFX l   0               zinho           √£o
+SFX l   0               zinho           „o
 SFX l   e               inho            e
-SFX l   0               inho            [^√™][sz]
-SFX l   √™s              esinho          √™s
+SFX l   0               inho            [^Í][sz]
+SFX l   Ís              esinho          Ís
 SFX l   0               zinho           [irunl]
-SFX l   √≥               ozinho          √≥
-SFX l   √¥               ozinho          √¥
-SFX l   √©               ezinho          √©
-SFX l   √∫               uzinho          √∫
+SFX l   Û               ozinho          Û
+SFX l   Ù               ozinho          Ù
+SFX l   È               ezinho          È
+SFX l   ˙               uzinho          ˙
 SFX l   m               nzinho          m
-SFX l   o               inhos           [^cg√ß√£i]o
+SFX l   o               inhos           [^cgÁ„i]o
 SFX l   co              quinhos         co
-SFX l   √ßo              cinhos          √ßo
+SFX l   Áo              cinhos          Áo
 SFX l   o               uinhos          go
-SFX l   0               zinhos          √£o
+SFX l   0               zinhos          „o
 SFX l   e               inhos           e
-SFX l   0               inhos           [^√™][sz]
-SFX l   √™s              esinhos         √™s
+SFX l   0               inhos           [^Í][sz]
+SFX l   Ís              esinhos         Ís
 SFX l   0               zinhos          [irunl]
-SFX l   √≥               ozinhos         √≥
-SFX l   √¥               ozinhos         √¥
-SFX l   √©               ezinhos         √©
-SFX l   √∫               uzinhos         √∫
+SFX l   Û               ozinhos         Û
+SFX l   Ù               ozinhos         Ù
+SFX l   È               ezinhos         È
+SFX l   ˙               uzinhos         ˙
 SFX l   m               nzinhos         m
 
 SFX h Y 29
-SFX h   √™s              esinha          √™s
-SFX h   √™s              esinhas         √™s
-SFX h   o               inha            [^cg√ß√£i]o
-SFX h   a               inha            [^cg√ß]a
+SFX h   Ís              esinha          Ís
+SFX h   Ís              esinhas         Ís
+SFX h   o               inha            [^cgÁ„i]o
+SFX h   a               inha            [^cgÁ]a
 SFX h   co              quinha          co
-SFX h   √ßo              cinha           √ßo
+SFX h   Áo              cinha           Áo
 SFX h   o               uinha           go
 SFX h   ca              quinha          ca
-SFX h   √ßa              cinha           √ßa
+SFX h   Áa              cinha           Áa
 SFX h   a               uinha           ga
-SFX h   √°               azinha          √°
-SFX h   √£               azinha          √£
-SFX h   0               zinha           √£e
-SFX h   e               inha            [^√£]e
+SFX h   ·               azinha          ·
+SFX h   „               azinha          „
+SFX h   0               zinha           „e
+SFX h   e               inha            [^„]e
 SFX h   0               zinha           [irunl]
 SFX h   m               nzinha          m
-SFX h   o               inhas           [^cg√ß√£i]o
-SFX h   a               inhas           [^cg√ß]a
+SFX h   o               inhas           [^cgÁ„i]o
+SFX h   a               inhas           [^cgÁ]a
 SFX h   ca              quinhas         ca
-SFX h   √ßa              cinhas          √ßa
+SFX h   Áa              cinhas          Áa
 SFX h   a               uinhas          ga
 SFX h   co              quinhas         co
-SFX h   √ßo              cinhas          √ßo
+SFX h   Áo              cinhas          Áo
 SFX h   o               uinhas          go
-SFX h   √°               azinhas         √°
-SFX h   √£               azinhas         √£
-SFX h   e               inhas           [^√£]e
+SFX h   ·               azinhas         ·
+SFX h   „               azinhas         „
+SFX h   e               inhas           [^„]e
 SFX h   0               zinhas          [irunl]
 SFX h   m               nzinhas         m
 
 SFX z Y 8
-SFX z   0               zinhas          [^√£][eo]
+SFX z   0               zinhas          [^„][eo]
 SFX z   0               inhas           l
-SFX z   0               zinho           [^√£][eo]
+SFX z   0               zinho           [^„][eo]
 SFX z   0               inho            l
-SFX z   0               zinha           [^√£][eo]
+SFX z   0               zinha           [^„][eo]
 SFX z   0               inha            l
-SFX z   0               zinhos          [^√£][eo]
+SFX z   0               zinhos          [^„][eo]
 SFX z   0               inhos           l
 
 SFX c Y 8
-SFX c   r               √ß√£o             [ae]r
-SFX c   r               √ß√£o             [^zg]ir
-SFX c   zir             √ß√£o             zir
-SFX c   r               si√ß√£o           por
-SFX c   r               √ß√µes            [ae]r
-SFX c   r               √ß√µes            [^zg]ir
-SFX c   zir             √ß√µes            zir
-SFX c   r               si√ß√µes          por
+SFX c   r               Á„o             [ae]r
+SFX c   r               Á„o             [^zg]ir
+SFX c   zir             Á„o             zir
+SFX c   r               siÁ„o           por
+SFX c   r               Áıes            [ae]r
+SFX c   r               Áıes            [^zg]ir
+SFX c   zir             Áıes            zir
+SFX c   r               siÁıes          por
 
 SFX C Y 6
-SFX C   ionar           √ß√£o             cionar
-SFX C   ir              c√ß√£o            air
-SFX C   ir              √ß√£o             uir
-SFX C   ionar           √ß√µes            cionar
-SFX C   ir              c√ß√µes           air
-SFX C   ir              √ß√µes            uir
+SFX C   ionar           Á„o             cionar
+SFX C   ir              cÁ„o            air
+SFX C   ir              Á„o             uir
+SFX C   ionar           Áıes            cionar
+SFX C   ir              cÁıes           air
+SFX C   ir              Áıes            uir
 
 SFX M Y 4
 SFX M   r               mento           [ai]r
@@ -506,12 +651,12 @@ SFX D   r               dores           [aei]r
 SFX D   r               doras           [aei]r
 
 SFX v Y 6
-SFX v   ar              √°vel            ar
-SFX v   er              √≠vel            er
-SFX v   ir              √≠vel            ir
-SFX v   ar              √°veis           ar
-SFX v   er              √≠veis           er
-SFX v   ir              √≠veis           ir
+SFX v   ar              ·vel            ar
+SFX v   er              Ìvel            er
+SFX v   ir              Ìvel            ir
+SFX v   ar              ·veis           ar
+SFX v   er              Ìveis           er
+SFX v   ir              Ìveis           ir
 
 SFX X Y 135
 SFX X   ar              o/PL                    [^-]ar
@@ -520,42 +665,42 @@ SFX X   ar              a/PL                    [^-]ar
 SFX X   r               mos/PL                  ar
 SFX X   r               is/PL                   ar
 SFX X   r               m/PL                    ar
-SFX X   ar              e/PL                    [^cg√ß]ar
+SFX X   ar              e/PL                    [^cgÁ]ar
 SFX X   car             que/PL                  car
 SFX X   gar             gue/PL                  gar
-SFX X   √ßar             ce/PL                   √ßar
-SFX X   ar              es/PL                   [^cg√ß]ar
+SFX X   Áar             ce/PL                   Áar
+SFX X   ar              es/PL                   [^cgÁ]ar
 SFX X   car             ques/PL                 car
 SFX X   gar             gues/PL                 gar
-SFX X   √ßar             ces/PL                  √ßar
-SFX X   ar              emos/PL                 [^cg√ß]ar
+SFX X   Áar             ces/PL                  Áar
+SFX X   ar              emos/PL                 [^cgÁ]ar
 SFX X   car             quemos/PL               car
 SFX X   gar             guemos/PL               gar
-SFX X   √ßar             cemos/PL                √ßar
-SFX X   ar              eis/PL                  [^cg√ß]ar
+SFX X   Áar             cemos/PL                Áar
+SFX X   ar              eis/PL                  [^cgÁ]ar
 SFX X   car             queis/PL                car
 SFX X   gar             gueis/PL                gar
-SFX X   √ßar             ceis/PL                 √ßar
-SFX X   ar              em/PL                   [^cg√ß]ar
+SFX X   Áar             ceis/PL                 Áar
+SFX X   ar              em/PL                   [^cgÁ]ar
 SFX X   car             quem/PL                 car
 SFX X   gar             guem/PL                 gar
-SFX X   √ßar             cem/PL                  √ßar
+SFX X   Áar             cem/PL                  Áar
 SFX X   ar              a/PL                    [^-]ar
-SFX X   ar              e/PL                    [^cg√ß]ar
+SFX X   ar              e/PL                    [^cgÁ]ar
 SFX X   car             que/PL                  car
 SFX X   gar             gue/PL                  gar
-SFX X   √ßar             ce/PL                   √ßar
-SFX X   ar              emos/PL                 [^cg√ß]ar
+SFX X   Áar             ce/PL                   Áar
+SFX X   ar              emos/PL                 [^cgÁ]ar
 SFX X   car             quemos/PL               car
 SFX X   gar             guemos/PL               gar
-SFX X   √ßar             cemos/PL                √ßar
+SFX X   Áar             cemos/PL                Áar
 SFX X   r               i/PL                    ar
-SFX X   ar              em/PL                   [^cg√ß]ar
+SFX X   ar              em/PL                   [^cgÁ]ar
 SFX X   car             quem/PL                 car
 SFX X   gar             guem/PL                 gar
-SFX X   √ßar             cem/PL                  √ßar
+SFX X   Áar             cem/PL                  Áar
 SFX X   er              o/PL                    [^cug-]er
-SFX X   cer             √ßo/PL                   cer
+SFX X   cer             Áo/PL                   cer
 SFX X   ger             jo/PL                   ger
 SFX X   guer            go/PL                   guer
 SFX X   r               s/PL                    er
@@ -564,41 +709,41 @@ SFX X   r               mos/PL                  er
 SFX X   r               is/PL                   er
 SFX X   r               m/PL                    er
 SFX X   er              a/PL                    [^cug-]er
-SFX X   cer             √ßa/PL                   cer
+SFX X   cer             Áa/PL                   cer
 SFX X   ger             ja/PL                   ger
 SFX X   guer            ga/PL                   guer
 SFX X   er              as/PL                   [^cug]er
-SFX X   cer             √ßas/PL                  cer
+SFX X   cer             Áas/PL                  cer
 SFX X   ger             jas/PL                  ger
 SFX X   guer            gas/PL                  guer
 SFX X   er              amos/PL                 [^cug]er
-SFX X   cer             √ßamos/PL                cer
+SFX X   cer             Áamos/PL                cer
 SFX X   ger             jamos/PL                ger
 SFX X   guer            gamos/PL                guer
 SFX X   er              ais/PL                  [^cug]er
-SFX X   cer             √ßais/PL                 cer
+SFX X   cer             Áais/PL                 cer
 SFX X   ger             jais/PL                 ger
 SFX X   guer            gais/PL                 guer
 SFX X   er              am/PL                   [^cug]er
-SFX X   cer             √ßam/PL                  cer
+SFX X   cer             Áam/PL                  cer
 SFX X   ger             jam/PL                  ger
 SFX X   guer            gam/PL                  guer
 SFX X   er              e/PL                    er
 SFX X   er              a/PL                    [^cug^-]er
-SFX X   cer             √ßa/PL                   cer
+SFX X   cer             Áa/PL                   cer
 SFX X   ger             ja/PL                   ger
 SFX X   guer            ga/PL                   guer
 SFX X   er              amos/PL                 [^cu]er
-SFX X   cer             √ßamos/PL                cer
+SFX X   cer             Áamos/PL                cer
 SFX X   ger             jamos/PL                ger
 SFX X   guer            gamos/PL                guer
 SFX X   r               i/PL                    er
 SFX X   er              am/PL                   [^cug]er
-SFX X   cer             √ßam/PL                  cer
+SFX X   cer             Áam/PL                  cer
 SFX X   ger             jam/PL                  ger
 SFX X   guer            gam/PL                  guer
 SFX X   ir              o/PL                    [^cug-]ir
-SFX X   cir             √ßo/PL                   cir
+SFX X   cir             Áo/PL                   cir
 SFX X   gir             jo/PL                   gir
 SFX X   quir            co/PL                   quir
 SFX X   uir             o/PL                    guir
@@ -608,44 +753,44 @@ SFX X   r               mos/PL                  ir
 SFX X   r               s/PL                    ir
 SFX X   ir              em/PL                   ir
 SFX X   ir              a/PL                    [^cug-]ir
-SFX X   cir             √ßa/PL                   cir
+SFX X   cir             Áa/PL                   cir
 SFX X   gir             ja/PL                   gir
 SFX X   quir            ca/PL                   quir
 SFX X   uir             a/PL                    guir
 SFX X   ir              as/PL                   [^cug]ir
-SFX X   cir             √ßas/PL                  cir
+SFX X   cir             Áas/PL                  cir
 SFX X   gir             jas/PL                  gir
 SFX X   quir            cas/PL                  quir
 SFX X   uir             as/PL                   guir
 SFX X   ir              amos/PL                 [^cug]ir
-SFX X   cir             √ßamos/PL                cir
+SFX X   cir             Áamos/PL                cir
 SFX X   gir             jamos/PL                gir
 SFX X   quir            camos/PL                quir
 SFX X   uir             amos/PL                 guir
 SFX X   ir              ais/PL                  [^cug]ir
-SFX X   cir             √ßais/PL                 cir
+SFX X   cir             Áais/PL                 cir
 SFX X   gir             jais/PL                 gir
 SFX X   quir            cais/PL                 quir
 SFX X   uir             ais/PL                  guir
 SFX X   ir              am/PL                   [^cug]ir
-SFX X   cir             √ßam/PL                  cir
+SFX X   cir             Áam/PL                  cir
 SFX X   gir             jam/PL                  gir
 SFX X   quir            cam/PL                  quir
 SFX X   uir             am/PL                   guir
 SFX X   ir              e/PL                    ir
 SFX X   ir              a/PL                    [^cug-]ir
-SFX X   cir             √ßa/PL                   cir
+SFX X   cir             Áa/PL                   cir
 SFX X   gir             ja/PL                   gir
 SFX X   quir            ca/PL                   quir
 SFX X   uir             a/PL                    guir
 SFX X   ir              amos/PL                 [^cug]ir
-SFX X   cir             √ßamos/PL                cir
+SFX X   cir             Áamos/PL                cir
 SFX X   gir             jamos/PL                gir
 SFX X   quir            camos/PL                quir
 SFX X   uir             amos/PL                 guir
 SFX X   ir              i/PL                    ir
 SFX X   ir              am/PL                   [^cug]ir
-SFX X   cir             √ßam/PL                  cir
+SFX X   cir             Áam/PL                  cir
 SFX X   gir             jam/PL                  gir
 SFX X   quir            cam/PL                  quir
 SFX X   uir             am/PL                   guir
@@ -653,33 +798,33 @@ SFX X   uir             am/PL                   guir
 SFX Y Y 130
 SFX Y   r               va/PL                   ar
 SFX Y   r               vas/PL                  ar
-SFX Y   ar              √°vamos/PL               ar
-SFX Y   ar              √°veis/PL                ar
+SFX Y   ar              ·vamos/PL               ar
+SFX Y   ar              ·veis/PL                ar
 SFX Y   r               vam/PL                  ar
-SFX Y   ar              ei/PL                   [^c√ßg]ar
+SFX Y   ar              ei/PL                   [^cÁg]ar
 SFX Y   car             quei/PL                 car
 SFX Y   gar             guei/PL                 gar
-SFX Y   √ßar             cei/PL                  √ßar
+SFX Y   Áar             cei/PL                  Áar
 SFX Y   r               ste/PL                  ar
 SFX Y   ar              ou/PL                   ar
-SFX Y   ar              √°mos/PL                 ar
+SFX Y   ar              ·mos/PL                 ar
 SFX Y   r               stes/PL                 ar
 SFX Y   0               am/PL                   ar
 SFX Y   0               a/PL                    ar
 SFX Y   0               as/PL                   ar
-SFX Y   ar              √°ramos/PL               ar
-SFX Y   ar              √°reis/PL                ar
+SFX Y   ar              ·ramos/PL               ar
+SFX Y   ar              ·reis/PL                ar
 SFX Y   0               am/PL                   ar
 SFX Y   0               ei/PL                   ar
-SFX Y   0               √°s/PL                   ar
-SFX Y   0               √°/PL                    ar
+SFX Y   0               ·s/PL                   ar
+SFX Y   0               ·/PL                    ar
 SFX Y   0               emos/PL                 ar
 SFX Y   0               eis/PL                  ar
-SFX Y   0               √£o/PL                   ar
+SFX Y   0               „o/PL                   ar
 SFX Y   r               sse/PL                  ar
 SFX Y   r               sses/PL                 ar
-SFX Y   ar              √°ssemos/PL              ar
-SFX Y   ar              √°sseis/PL               ar
+SFX Y   ar              ·ssemos/PL              ar
+SFX Y   ar              ·sseis/PL               ar
 SFX Y   r               ssem/PL                 ar
 SFX Y   0               es/PL                   ar
 SFX Y   0               mos/PL                  ar
@@ -687,8 +832,8 @@ SFX Y   0               des/PL                  ar
 SFX Y   0               em/PL                   ar
 SFX Y   0               ia/PL                   ar
 SFX Y   0               ias/PL                  ar
-SFX Y   0               √≠amos/PL                ar
-SFX Y   0               √≠eis/PL                 ar
+SFX Y   0               Ìamos/PL                ar
+SFX Y   0               Ìeis/PL                 ar
 SFX Y   0               iam/PL                  ar
 SFX Y   r               ndo/PL                  ar
 SFX Y   r               do/PL                   ar
@@ -697,8 +842,8 @@ SFX Y   r               dos/PL                  ar
 SFX Y   r               das/PL                  ar
 SFX Y   er              ia/PL                   er
 SFX Y   er              ias/PL                  er
-SFX Y   er              √≠amos/PL                er
-SFX Y   er              √≠eis/PL                 er
+SFX Y   er              Ìamos/PL                er
+SFX Y   er              Ìeis/PL                 er
 SFX Y   er              iam/PL                  er
 SFX Y   er              i/PL                    er
 SFX Y   r               ste/PL                  er
@@ -708,19 +853,19 @@ SFX Y   r               stes/PL                 er
 SFX Y   0               am/PL                   er
 SFX Y   0               a/PL                    er
 SFX Y   0               as/PL                   er
-SFX Y   er              √™ramos/PL               er
-SFX Y   er              √™reis/PL                er
+SFX Y   er              Íramos/PL               er
+SFX Y   er              Íreis/PL                er
 SFX Y   0               am/PL                   er
 SFX Y   0               ei/PL                   er
-SFX Y   0               √°s/PL                   er
-SFX Y   0               √°/PL                    er
+SFX Y   0               ·s/PL                   er
+SFX Y   0               ·/PL                    er
 SFX Y   0               emos/PL                 er
 SFX Y   0               eis/PL                  er
-SFX Y   0               √£o/PL                   er
+SFX Y   0               „o/PL                   er
 SFX Y   r               sse/PL                  er
 SFX Y   r               sses/PL                 er
-SFX Y   er              √™ssemos/PL              er
-SFX Y   er              √™sseis/PL               er
+SFX Y   er              Íssemos/PL              er
+SFX Y   er              Ísseis/PL               er
 SFX Y   r               ssem/PL                 er
 SFX Y   0               es/PL                   er
 SFX Y   0               mos/PL                  er
@@ -728,8 +873,8 @@ SFX Y   0               des/PL                  er
 SFX Y   0               em/PL                   er
 SFX Y   0               ia/PL                   er
 SFX Y   0               ias/PL                  er
-SFX Y   0               √≠amos/PL                er
-SFX Y   0               √≠eis/PL                 er
+SFX Y   0               Ìamos/PL                er
+SFX Y   0               Ìeis/PL                 er
 SFX Y   0               iam/PL                  er
 SFX Y   r               ndo/PL                  er
 SFX Y   er              ido/PL                  er
@@ -742,8 +887,8 @@ SFX Y   ever            itos/PL                 crever
 SFX Y   ever            itas/PL                 crever
 SFX Y   r               a/PL                    ir
 SFX Y   r               as/PL                   ir
-SFX Y   ir              √≠amos/PL                ir
-SFX Y   ir              √≠eis/PL                 ir
+SFX Y   ir              Ìamos/PL                ir
+SFX Y   ir              Ìeis/PL                 ir
 SFX Y   r               am/PL                   ir
 SFX Y   ir              i/PL                    ir
 SFX Y   r               ste/PL                  ir
@@ -753,19 +898,19 @@ SFX Y   r               stes/PL                 ir
 SFX Y   0               am/PL                   ir
 SFX Y   0               a/PL                    ir
 SFX Y   0               as/PL                   ir
-SFX Y   ir              √≠ramos/PL               ir
-SFX Y   ir              √≠reis/PL                ir
+SFX Y   ir              Ìramos/PL               ir
+SFX Y   ir              Ìreis/PL                ir
 SFX Y   0               am/PL                   ir
 SFX Y   0               ei/PL                   ir
-SFX Y   0               √°s/PL                   ir
-SFX Y   0               √°/PL                    ir
+SFX Y   0               ·s/PL                   ir
+SFX Y   0               ·/PL                    ir
 SFX Y   0               emos/PL                 ir
 SFX Y   0               eis/PL                  ir
-SFX Y   0               √£o/PL                   ir
+SFX Y   0               „o/PL                   ir
 SFX Y   r               sse/PL                  ir
 SFX Y   r               sses/PL                 ir
-SFX Y   ir              √≠ssemos/PL              ir
-SFX Y   ir              √≠sseis/PL               ir
+SFX Y   ir              Ìssemos/PL              ir
+SFX Y   ir              Ìsseis/PL               ir
 SFX Y   r               ssem/PL                 ir
 SFX Y   0               es/PL                   ir
 SFX Y   0               mos/PL                  ir
@@ -773,8 +918,8 @@ SFX Y   0               des/PL                  ir
 SFX Y   0               em/PL                   ir
 SFX Y   0               ia/PL                   ir
 SFX Y   0               ias/PL                  ir
-SFX Y   0               √≠amos/PL                ir
-SFX Y   0               √≠eis/PL                 ir
+SFX Y   0               Ìamos/PL                ir
+SFX Y   0               Ìeis/PL                 ir
 SFX Y   0               iam/PL                  ir
 SFX Y   r               ndo/PL                  ir
 SFX Y   r               do/PL                   ir
@@ -837,31 +982,31 @@ SFX K   ir              o/PL                    uir
 SFX K   r               o/PL                    air
 SFX K   r               s/PL                    [ua]ir
 SFX K   ir              i/PL                    [ua]ir
-SFX K   ir              √≠mos/PL                 [ua]ir
-SFX K   ir              √≠s/PL                   [ua]ir
+SFX K   ir              Ìmos/PL                 [ua]ir
+SFX K   ir              Ìs/PL                   [ua]ir
 SFX K   ir              em/PL                   [ua]ir
-SFX K   ir              √≠a/PL                   [ua]ir
-SFX K   ir              √≠as/PL                  [ua]ir
-SFX K   ir              √≠amos/PL                [ua]ir
-SFX K   ir              √≠eis/PL                 [ua]ir
-SFX K   ir              √≠am/PL                  [ua]ir
-SFX K   ir              √≠/PL                    [ua]ir
-SFX K   ir              √≠ste/PL                 [ua]ir
+SFX K   ir              Ìa/PL                   [ua]ir
+SFX K   ir              Ìas/PL                  [ua]ir
+SFX K   ir              Ìamos/PL                [ua]ir
+SFX K   ir              Ìeis/PL                 [ua]ir
+SFX K   ir              Ìam/PL                  [ua]ir
+SFX K   ir              Ì/PL                    [ua]ir
+SFX K   ir              Ìste/PL                 [ua]ir
 SFX K   r               u/PL                    [ua]ir
-SFX K   ir              √≠mos/PL                 [ua]ir
-SFX K   ir              √≠stes/PL                [ua]ir
-SFX K   ir              √≠ram/PL                 [ua]ir
-SFX K   ir              √≠ra/PL                  [ua]ir
-SFX K   ir              √≠ras/PL                 [ua]ir
-SFX K   ir              √≠ramos/PL               [ua]ir
-SFX K   ir              √≠reis/PL                [ua]ir
-SFX K   ir              √≠ram/PL                 [ua]ir
+SFX K   ir              Ìmos/PL                 [ua]ir
+SFX K   ir              Ìstes/PL                [ua]ir
+SFX K   ir              Ìram/PL                 [ua]ir
+SFX K   ir              Ìra/PL                  [ua]ir
+SFX K   ir              Ìras/PL                 [ua]ir
+SFX K   ir              Ìramos/PL               [ua]ir
+SFX K   ir              Ìreis/PL                [ua]ir
+SFX K   ir              Ìram/PL                 [ua]ir
 SFX K   0               ei/PL                   [ua]ir
-SFX K   0               √°s/PL                   [ua]ir
-SFX K   0               √°/PL                    [ua]ir
+SFX K   0               ·s/PL                   [ua]ir
+SFX K   0               ·/PL                    [ua]ir
 SFX K   0               emos/PL                 [ua]ir
 SFX K   0               eis/PL                  [ua]ir
-SFX K   0               √£o/PL                   [ua]ir
+SFX K   0               „o/PL                   [ua]ir
 SFX K   ir              a/PL                    uir
 SFX K   ir              as/PL                   uir
 SFX K   ir              amos/PL                 uir
@@ -872,65 +1017,65 @@ SFX K   r               as/PL                   air
 SFX K   r               amos/PL                 air
 SFX K   r               ais/PL                  air
 SFX K   r               am/PL                   air
-SFX K   ir              √≠sse/PL                 [ua]ir
-SFX K   ir              √≠sses/PL                [ua]ir
-SFX K   ir              √≠ssemos/PL              [ua]ir
-SFX K   ir              √≠sseis/PL               [ua]ir
-SFX K   ir              √≠ssem/PL                [ua]ir
-SFX K   ir              √≠res/PL                 [ua]ir
+SFX K   ir              Ìsse/PL                 [ua]ir
+SFX K   ir              Ìsses/PL                [ua]ir
+SFX K   ir              Ìssemos/PL              [ua]ir
+SFX K   ir              Ìsseis/PL               [ua]ir
+SFX K   ir              Ìssem/PL                [ua]ir
+SFX K   ir              Ìres/PL                 [ua]ir
 SFX K   0               mos/PL                  [ua]ir
-SFX K   ir              √≠rdes/PL                [ua]ir
-SFX K   ir              √≠rem/PL                 [ua]ir
+SFX K   ir              Ìrdes/PL                [ua]ir
+SFX K   ir              Ìrem/PL                 [ua]ir
 SFX K   0               ia/PL                   [ua]ir
 SFX K   0               ias/PL                  [ua]ir
-SFX K   0               √≠amos/PL                [ua]ir
-SFX K   0               √≠eis/PL                 [ua]ir
+SFX K   0               Ìamos/PL                [ua]ir
+SFX K   0               Ìeis/PL                 [ua]ir
 SFX K   0               iam/PL                  [ua]ir
 SFX K   ir              i/PL                    [ua]ir
 SFX K   r               a/PL                    air
 SFX K   ir              a/PL                    uir
 SFX K   r               amos/PL                 air
 SFX K   ir              amos/PL                 uir
-SFX K   ir              √≠/PL                    [ua]ir
+SFX K   ir              Ì/PL                    [ua]ir
 SFX K   r               am/PL                   air
 SFX K   ir              am/PL                   uir
 SFX K   r               ndo/PL                  [ua]ir
-SFX K   ir              √≠do/PL                  [^q][ua]ir
-SFX K   ir              √≠da/PL                  [^q][ua]ir
-SFX K   ir              √≠dos/PL                 [^q][ua]ir
-SFX K   ir              √≠das/PL                 [^q][ua]ir
+SFX K   ir              Ìdo/PL                  [^q][ua]ir
+SFX K   ir              Ìda/PL                  [^q][ua]ir
+SFX K   ir              Ìdos/PL                 [^q][ua]ir
+SFX K   ir              Ìdas/PL                 [^q][ua]ir
 SFX K   ir              ido/PL                  quir
 SFX K   ir              ida/PL                  quir
 SFX K   ir              idos/PL                 quir
 SFX K   ir              idas/PL                 quir
 SFX K   r               nho/PL                  por
-SFX K   or              √µes/PL                  por
-SFX K   or              √µe/PL                   por
+SFX K   or              ıes/PL                  por
+SFX K   or              ıe/PL                   por
 SFX K   r               mos/PL                  por
 SFX K   r               ndes/PL                 por
-SFX K   or              √µem/PL                  por
+SFX K   or              ıem/PL                  por
 SFX K   or              unha/PL                 por
 SFX K   or              unhas/PL                por
-SFX K   or              √∫nhamos/PL              por
-SFX K   or              √∫nheis/PL               por
+SFX K   or              ˙nhamos/PL              por
+SFX K   or              ˙nheis/PL               por
 SFX K   or              unham/PL                por
 SFX K   or              us/PL                   por
 SFX K   or              useste/PL               por
-SFX K   or              √¥s/PL                   por
+SFX K   or              Ùs/PL                   por
 SFX K   or              usemos/PL               por
 SFX K   or              usestes/PL              por
 SFX K   or              useram/PL               por
 SFX K   or              usera/PL                por
 SFX K   or              useras/PL               por
-SFX K   or              us√©ramos/PL             por
-SFX K   or              us√©reis/PL              por
+SFX K   or              usÈramos/PL             por
+SFX K   or              usÈreis/PL              por
 SFX K   or              useram/PL               por
 SFX K   0               ei/PL                   por
-SFX K   0               √°s/PL                   por
-SFX K   0               √°/PL                    por
+SFX K   0               ·s/PL                   por
+SFX K   0               ·/PL                    por
 SFX K   0               emos/PL                 por
 SFX K   0               eis/PL                  por
-SFX K   0               √£o/PL                   por
+SFX K   0               „o/PL                   por
 SFX K   r               nha/PL                  por
 SFX K   r               nhas/PL                 por
 SFX K   r               nhamos/PL               por
@@ -938,8 +1083,8 @@ SFX K   r               nhais/PL                por
 SFX K   r               nham/PL                 por
 SFX K   or              usesse/PL               por
 SFX K   or              usesses/PL              por
-SFX K   or              us√©ssemos/PL            por
-SFX K   or              us√©sseis/PL             por
+SFX K   or              usÈssemos/PL            por
+SFX K   or              usÈsseis/PL             por
 SFX K   or              usessem/PL              por
 SFX K   or              user/PL                 por
 SFX K   or              useres/PL               por
@@ -949,10 +1094,10 @@ SFX K   or              userdes/PL              por
 SFX K   or              userem/PL               por
 SFX K   0               ia/PL                   por
 SFX K   0               ias/PL                  por
-SFX K   0               √≠amos/PL                por
-SFX K   0               √≠eis/PL                 por
+SFX K   0               Ìamos/PL                por
+SFX K   0               Ìeis/PL                 por
 SFX K   0               iam/PL                  por
-SFX K   or              √µe/PL                   por
+SFX K   or              ıe/PL                   por
 SFX K   r               nha/PL                  por
 SFX K   r               nhamos/PL               por
 SFX K   r               nde/PL                  por
@@ -966,7 +1111,7 @@ SFX K   0               es/PL                   por
 SFX K   0               mos/PL                  por
 SFX K   0               des/PL                  por
 SFX K   0               em/PL                   por
-SFX K   zer             √ßo/PL                   fazer
+SFX K   zer             Áo/PL                   fazer
 SFX K   r               s/PL                    fazer
 SFX K   zer             z/PL                    fazer
 SFX K   r               mos/PL                  fazer
@@ -974,8 +1119,8 @@ SFX K   r               is/PL                   fazer
 SFX K   r               m/PL                    fazer
 SFX K   er              ia/PL                   fazer
 SFX K   er              ias/PL                  fazer
-SFX K   er              √≠amos/PL                fazer
-SFX K   er              √≠eis/PL                 fazer
+SFX K   er              Ìamos/PL                fazer
+SFX K   er              Ìeis/PL                 fazer
 SFX K   er              iam/PL                  fazer
 SFX K   azer            iz/PL                   fazer
 SFX K   azer            izeste/PL               fazer
@@ -985,24 +1130,24 @@ SFX K   azer            izestes/PL              fazer
 SFX K   azer            izeram/PL               fazer
 SFX K   azer            izera/PL                fazer
 SFX K   azer            izeras/PL               fazer
-SFX K   azer            iz√©ramos/PL             fazer
-SFX K   azer            iz√©reis/PL              fazer
+SFX K   azer            izÈramos/PL             fazer
+SFX K   azer            izÈreis/PL              fazer
 SFX K   azer            izeram/PL               fazer
 SFX K   zer             rei/PL                  fazer
-SFX K   zer             r√°s/PL                  fazer
-SFX K   zer             r√°/PL                   fazer
+SFX K   zer             r·s/PL                  fazer
+SFX K   zer             r·/PL                   fazer
 SFX K   zer             remos/PL                fazer
 SFX K   zer             reis/PL                 fazer
-SFX K   zer             r√£o/PL                  fazer
-SFX K   zer             √ßa/PL                   fazer
-SFX K   zer             √ßas/PL                  fazer
-SFX K   zer             √ßamos/PL                fazer
-SFX K   zer             √ßais/PL                 fazer
-SFX K   zer             √ßam/PL                  fazer
+SFX K   zer             r„o/PL                  fazer
+SFX K   zer             Áa/PL                   fazer
+SFX K   zer             Áas/PL                  fazer
+SFX K   zer             Áamos/PL                fazer
+SFX K   zer             Áais/PL                 fazer
+SFX K   zer             Áam/PL                  fazer
 SFX K   azer            izesse/PL               fazer
 SFX K   azer            izesses/PL              fazer
-SFX K   azer            iz√©ssemos/PL            fazer
-SFX K   azer            iz√©sseis/PL             fazer
+SFX K   azer            izÈssemos/PL            fazer
+SFX K   azer            izÈsseis/PL             fazer
 SFX K   azer            izessem/PL              fazer
 SFX K   azer            izer/PL                 fazer
 SFX K   azer            izeres/PL               fazer
@@ -1012,14 +1157,14 @@ SFX K   azer            izerdes/PL              fazer
 SFX K   azer            izerem/PL               fazer
 SFX K   zer             ria/PL                  fazer
 SFX K   zer             rias/PL                 fazer
-SFX K   zer             r√≠amos/PL               fazer
-SFX K   zer             r√≠eis/PL                fazer
+SFX K   zer             rÌamos/PL               fazer
+SFX K   zer             rÌeis/PL                fazer
 SFX K   zer             riam/PL                 fazer
 SFX K   zer             z/PL                    fazer
-SFX K   zer             √ßa/PL                   fazer
-SFX K   zer             √ßamos/PL                fazer
+SFX K   zer             Áa/PL                   fazer
+SFX K   zer             Áamos/PL                fazer
 SFX K   r               i/PL                    fazer
-SFX K   zer             √ßam/PL                  fazer
+SFX K   zer             Áam/PL                  fazer
 SFX K   r               ndo/PL                  fazer
 SFX K   azer            eito/PL                 fazer
 SFX K   azer            eita/PL                 fazer
@@ -1037,8 +1182,8 @@ SFX K   r               is/PL                   dizer
 SFX K   r               m/PL                    dizer
 SFX K   er              ia/PL                   dizer
 SFX K   er              ias/PL                  dizer
-SFX K   er              √≠amos/PL                dizer
-SFX K   er              √≠eis/PL                 dizer
+SFX K   er              Ìamos/PL                dizer
+SFX K   er              Ìeis/PL                 dizer
 SFX K   er              iam/PL                  dizer
 SFX K   zer             sse/PL                  dizer
 SFX K   zer             sseste/PL               dizer
@@ -1048,15 +1193,15 @@ SFX K   zer             ssestes/PL              dizer
 SFX K   zer             sseram/PL               dizer
 SFX K   zer             ssera/PL                dizer
 SFX K   zer             sseras/PL               dizer
-SFX K   zer             ss√©ramos/PL             dizer
-SFX K   zer             ss√©reis/PL              dizer
+SFX K   zer             ssÈramos/PL             dizer
+SFX K   zer             ssÈreis/PL              dizer
 SFX K   zer             sseram/PL               dizer
 SFX K   zer             rei/PL                  dizer
-SFX K   zer             r√°s/PL                  dizer
-SFX K   zer             r√°/PL                   dizer
+SFX K   zer             r·s/PL                  dizer
+SFX K   zer             r·/PL                   dizer
 SFX K   zer             remos/PL                dizer
 SFX K   zer             reis/PL                 dizer
-SFX K   zer             r√£o/PL                  dizer
+SFX K   zer             r„o/PL                  dizer
 SFX K   zer             ga/PL                   dizer
 SFX K   zer             gas/PL                  dizer
 SFX K   zer             gamos/PL                dizer
@@ -1064,8 +1209,8 @@ SFX K   zer             gais/PL                 dizer
 SFX K   zer             gam/PL                  dizer
 SFX K   zer             ssesse/PL               dizer
 SFX K   zer             ssesses/PL              dizer
-SFX K   zer             ss√©ssemos/PL            dizer
-SFX K   zer             ss√©sseis/PL             dizer
+SFX K   zer             ssÈssemos/PL            dizer
+SFX K   zer             ssÈsseis/PL             dizer
 SFX K   zer             ssessem/PL              dizer
 SFX K   zer             sser/PL                 dizer
 SFX K   zer             sseres/PL               dizer
@@ -1075,8 +1220,8 @@ SFX K   zer             sserdes/PL              dizer
 SFX K   zer             sserem/PL               dizer
 SFX K   zer             ria/PL                  dizer
 SFX K   zer             rias/PL                 dizer
-SFX K   zer             r√≠amos/PL               dizer
-SFX K   zer             r√≠eis/PL                dizer
+SFX K   zer             rÌamos/PL               dizer
+SFX K   zer             rÌeis/PL                dizer
 SFX K   zer             riam/PL                 dizer
 SFX K   zer             z/PL                    dizer
 SFX K   zer             ga/PL                   dizer
@@ -1103,21 +1248,21 @@ SFX L   0               -lhas           .
 SFX L   0               -lhe-ei         r
 SFX L   0               -lhe-eis        r
 SFX L   0               -lhe-emos       r
-SFX L   0               -lhe-√°          r
-SFX L   0               -lhe-√°s         r
-SFX L   0               -lhe-√£o         r
+SFX L   0               -lhe-·          r
+SFX L   0               -lhe-·s         r
+SFX L   0               -lhe-„o         r
 SFX L   0               -lhe-iam        r
-SFX L   0               -lhe-√≠amos      r
+SFX L   0               -lhe-Ìamos      r
 SFX L   0               -lhe-ia         r
 SFX L   0               -lhe-ias        r
 SFX L   0               -lhes-ei        r
 SFX L   0               -lhes-eis       r
 SFX L   0               -lhes-emos      r
-SFX L   0               -lhes-√°         r
-SFX L   0               -lhes-√°s        r
-SFX L   0               -lhes-√£o        r
+SFX L   0               -lhes-·         r
+SFX L   0               -lhes-·s        r
+SFX L   0               -lhes-„o        r
 SFX L   0               -lhes-iam       r
-SFX L   0               -lhes-√≠amos     r
+SFX L   0               -lhes-Ìamos     r
 SFX L   0               -lhes-ia        r
 SFX L   0               -lhes-ias       r
 SFX L   0               -me             .
@@ -1125,167 +1270,167 @@ SFX L   0               -te             .
 SFX L   0               -se             .
 SFX L   ns              m-nos           ns
 SFX L   s               -nos            mos
-SFX L   0               -nos            [^n√°o]s
-SFX L   0               -nos            [^s√°]
+SFX L   0               -nos            [^n·o]s
+SFX L   0               -nos            [^s·]
 SFX L   0               -vos            .
 SFX L   0               -me-ei          r
 SFX L   0               -me-eis         r
 SFX L   0               -me-emos        r
-SFX L   0               -me-√°           r
-SFX L   0               -me-√°s          r
-SFX L   0               -me-√£o          r
+SFX L   0               -me-·           r
+SFX L   0               -me-·s          r
+SFX L   0               -me-„o          r
 SFX L   0               -me-iam         r
-SFX L   0               -me-√≠amos       r
+SFX L   0               -me-Ìamos       r
 SFX L   0               -me-ia          r
 SFX L   0               -me-ias         r
 SFX L   0               -te-ei          r
 SFX L   0               -te-emos        r
-SFX L   0               -te-√°           r
-SFX L   0               -te-√°s          r
-SFX L   0               -te-√£o          r
+SFX L   0               -te-·           r
+SFX L   0               -te-·s          r
+SFX L   0               -te-„o          r
 SFX L   0               -te-ias         r
 SFX L   0               -te-iam         r
-SFX L   0               -te-√≠amos       r
+SFX L   0               -te-Ìamos       r
 SFX L   0               -te-ia          r
 SFX L   0               -nos-emos       r
 SFX L   0               -nos-eis        r
-SFX L   0               -nos-√°          r
-SFX L   0               -nos-√°s         r
-SFX L   0               -nos-√£o         r
-SFX L   0               -nos-√≠amos      r
+SFX L   0               -nos-·          r
+SFX L   0               -nos-·s         r
+SFX L   0               -nos-„o         r
+SFX L   0               -nos-Ìamos      r
 SFX L   0               -nos-iam        r
 SFX L   0               -nos-ia         r
 SFX L   0               -nos-ias        r
 SFX L   0               -se-ia          r
-SFX L   0               -se-√£o          r
+SFX L   0               -se-„o          r
 SFX L   0               -se-iam         r
-SFX L   0               -se-√°           r
+SFX L   0               -se-·           r
 SFX L   0               -vos-eis        r
 SFX L   0               -vos-emos       r
-SFX L   0               -vos-√°          r
+SFX L   0               -vos-·          r
 SFX L   0               -vos-ei         r
-SFX L   0               -vos-√°s         r
-SFX L   0               -vos-√£o         r
-SFX L   0               -vos-√≠eis       r
-SFX L   0               -vos-√≠amos      r
+SFX L   0               -vos-·s         r
+SFX L   0               -vos-„o         r
+SFX L   0               -vos-Ìeis       r
+SFX L   0               -vos-Ìamos      r
 SFX L   0               -vos-iam        r
 SFX L   0               -vos-ia         r
 SFX L   0               -vos-ias        r
 
 SFX P Y 114
-SFX P   0               -o              [aeiou√©√™]
+SFX P   0               -o              [aeiouÈÍ]
 SFX P   ns              m-lo            ns
-SFX P   s               -lo             [^n√°]s
+SFX P   s               -lo             [^n·]s
 SFX P   0               -no             m
-SFX P   0               -a              [aeiou√©√™]
+SFX P   0               -a              [aeiouÈÍ]
 SFX P   ns              m-la            ns
-SFX P   s               -la             [^n√°]s
+SFX P   s               -la             [^n·]s
 SFX P   0               -na             m
-SFX P   0               -os             [aeiou√©√™]
+SFX P   0               -os             [aeiouÈÍ]
 SFX P   ns              m-los           ns
-SFX P   s               -los            [^n√°]s
+SFX P   s               -los            [^n·]s
 SFX P   0               -nos            m
-SFX P   0               -as             [aeiou√©√™]
+SFX P   0               -as             [aeiouÈÍ]
 SFX P   ns              m-las           ns
-SFX P   s               -las            [^n√°]s
+SFX P   s               -las            [^n·]s
 SFX P   0               -nas            m
 SFX P   z               -lo             [iu]z
 SFX P   z               -la             [iu]z
 SFX P   z               -los            [iu]z
 SFX P   z               -las            [iu]z
-SFX P   az              √°-lo            az
-SFX P   az              √°-la            az
-SFX P   az              √°-los           az
-SFX P   az              √°-las           az
-SFX P   ez              √™-lo            ez
-SFX P   ez              √™-la            ez
-SFX P   ez              √™-los           ez
-SFX P   ez              √™-las           ez
-SFX P   ar              √°-lo            ar
-SFX P   ar              √°-la            ar
-SFX P   ar              √°-los           ar
-SFX P   ar              √°-las           ar
-SFX P   ar              √°-lo-ei         ar
-SFX P   ar              √°-lo-√°s         ar
-SFX P   ar              √°-lo-√°          ar
-SFX P   ar              √°-lo-emos       ar
-SFX P   ar              √°-lo-eis        ar
-SFX P   ar              √°-lo-√£o         ar
-SFX P   ar              √°-lo-ia         ar
-SFX P   ar              √°-lo-ias        ar
-SFX P   ar              √°-lo-√≠amos      ar
-SFX P   ar              √°-lo-√≠eis       ar
-SFX P   ar              √°-lo-iam        ar
-SFX P   er              √™-lo            er
-SFX P   er              √™-la            er
-SFX P   er              √™-los           er
-SFX P   er              √™-las           er
-SFX P   er              √™-lo-ei         er
-SFX P   er              √™-lo-√°s         er
-SFX P   er              √™-lo-√°          er
-SFX P   er              √™-lo-emos       er
-SFX P   er              √™-lo-eis        er
-SFX P   er              √™-lo-√£o         er
-SFX P   er              √™-lo-ia         er
-SFX P   er              √™-lo-ias        er
-SFX P   er              √™-lo-√≠amos      er
-SFX P   er              √™-lo-√≠eis       er
-SFX P   er              √™-lo-iam        er
+SFX P   az              ·-lo            az
+SFX P   az              ·-la            az
+SFX P   az              ·-los           az
+SFX P   az              ·-las           az
+SFX P   ez              Í-lo            ez
+SFX P   ez              Í-la            ez
+SFX P   ez              Í-los           ez
+SFX P   ez              Í-las           ez
+SFX P   ar              ·-lo            ar
+SFX P   ar              ·-la            ar
+SFX P   ar              ·-los           ar
+SFX P   ar              ·-las           ar
+SFX P   ar              ·-lo-ei         ar
+SFX P   ar              ·-lo-·s         ar
+SFX P   ar              ·-lo-·          ar
+SFX P   ar              ·-lo-emos       ar
+SFX P   ar              ·-lo-eis        ar
+SFX P   ar              ·-lo-„o         ar
+SFX P   ar              ·-lo-ia         ar
+SFX P   ar              ·-lo-ias        ar
+SFX P   ar              ·-lo-Ìamos      ar
+SFX P   ar              ·-lo-Ìeis       ar
+SFX P   ar              ·-lo-iam        ar
+SFX P   er              Í-lo            er
+SFX P   er              Í-la            er
+SFX P   er              Í-los           er
+SFX P   er              Í-las           er
+SFX P   er              Í-lo-ei         er
+SFX P   er              Í-lo-·s         er
+SFX P   er              Í-lo-·          er
+SFX P   er              Í-lo-emos       er
+SFX P   er              Í-lo-eis        er
+SFX P   er              Í-lo-„o         er
+SFX P   er              Í-lo-ia         er
+SFX P   er              Í-lo-ias        er
+SFX P   er              Í-lo-Ìamos      er
+SFX P   er              Í-lo-Ìeis       er
+SFX P   er              Í-lo-iam        er
 SFX P   zer             -lo-ei          dizer
-SFX P   zer             -lo-√°s          dizer
-SFX P   zer             -lo-√°           dizer
+SFX P   zer             -lo-·s          dizer
+SFX P   zer             -lo-·           dizer
 SFX P   zer             -lo-emos        dizer
 SFX P   zer             -lo-eis         dizer
-SFX P   zer             -lo-√£o          dizer
+SFX P   zer             -lo-„o          dizer
 SFX P   zer             -lo-ia          dizer
 SFX P   zer             -lo-ias         dizer
-SFX P   zer             -lo-√≠amos       dizer
-SFX P   zer             -lo-√≠eis        dizer
+SFX P   zer             -lo-Ìamos       dizer
+SFX P   zer             -lo-Ìeis        dizer
 SFX P   zer             -lo-iam         dizer
-SFX P   azer            √°-lo            azer
-SFX P   azer            √°-la            azer
-SFX P   azer            √°-los           azer
-SFX P   azer            √°-las           azer
-SFX P   azer            √°-lo-ei         azer
-SFX P   azer            √°-lo-√°s         azer
-SFX P   azer            √°-lo-√°          azer
-SFX P   azer            √°-lo-emos       azer
-SFX P   azer            √°-lo-eis        azer
-SFX P   azer            √°-lo-√£o         azer
-SFX P   azer            √°-lo-ia         azer
-SFX P   azer            √°-lo-ias        azer
-SFX P   azer            √°-lo-√≠amos      azer
-SFX P   azer            √°-lo-√≠eis       azer
-SFX P   azer            √°-lo-iam        azer
+SFX P   azer            ·-lo            azer
+SFX P   azer            ·-la            azer
+SFX P   azer            ·-los           azer
+SFX P   azer            ·-las           azer
+SFX P   azer            ·-lo-ei         azer
+SFX P   azer            ·-lo-·s         azer
+SFX P   azer            ·-lo-·          azer
+SFX P   azer            ·-lo-emos       azer
+SFX P   azer            ·-lo-eis        azer
+SFX P   azer            ·-lo-„o         azer
+SFX P   azer            ·-lo-ia         azer
+SFX P   azer            ·-lo-ias        azer
+SFX P   azer            ·-lo-Ìamos      azer
+SFX P   azer            ·-lo-Ìeis       azer
+SFX P   azer            ·-lo-iam        azer
 SFX P   r               -lo             ir
 SFX P   r               -la             ir
 SFX P   r               -los            ir
 SFX P   r               -las            ir
 SFX P   r               -lo-ei          ir
-SFX P   r               -lo-√°s          ir
-SFX P   r               -lo-√°           ir
+SFX P   r               -lo-·s          ir
+SFX P   r               -lo-·           ir
 SFX P   r               -lo-emos        ir
 SFX P   r               -lo-eis         ir
-SFX P   r               -lo-√£o          ir
+SFX P   r               -lo-„o          ir
 SFX P   r               -lo-ia          ir
 SFX P   r               -lo-ias         ir
-SFX P   r               -lo-√≠amos       ir
-SFX P   r               -lo-√≠eis        ir
+SFX P   r               -lo-Ìamos       ir
+SFX P   r               -lo-Ìeis        ir
 SFX P   r               -lo-iam         ir
 SFX P   r               -lo             or
 SFX P   r               -la             or
 SFX P   r               -los            or
 SFX P   r               -las            or
 SFX P   r               -lo-ei          or
-SFX P   r               -lo-√°s          or
-SFX P   r               -lo-√°           or
+SFX P   r               -lo-·s          or
+SFX P   r               -lo-·           or
 SFX P   r               -lo-emos        or
 SFX P   r               -lo-eis         or
-SFX P   r               -lo-√£o          or
+SFX P   r               -lo-„o          or
 SFX P   r               -lo-ia          or
 SFX P   r               -lo-ias         or
-SFX P   r               -lo-√≠amos       or
-SFX P   r               -lo-√≠eis        or
+SFX P   r               -lo-Ìamos       or
+SFX P   r               -lo-Ìeis        or
 SFX P   r               -lo-iam         or
 
 SFX B Y 2
@@ -1313,10 +1458,10 @@ SFX w   a               oso             a
 SFX w   a               osa             a
 SFX w   a               osos            a
 SFX w   a               osas            a
-SFX w   √ß√£o             cioso           √ß√£o
-SFX w   √ß√£o             ciosa           √ß√£o
-SFX w   √ß√£o             ciosos          √ß√£o
-SFX w   √ß√£o             ciosas          √ß√£o
+SFX w   Á„o             cioso           Á„o
+SFX w   Á„o             ciosa           Á„o
+SFX w   Á„o             ciosos          Á„o
+SFX w   Á„o             ciosas          Á„o
 SFX w   e               oso             e
 SFX w   e               osa             e
 SFX w   e               osos            e
@@ -1354,137 +1499,80 @@ SFX j   a               zadas           ia
 SFX j   a               izados          [^i]a
 
 SFX G Y 29
-SFX G   o               ice             [^√ßgc]o
-SFX G   √ßo              cice            √ßo
+SFX G   o               ice             [^Ágc]o
+SFX G   Áo              cice            Áo
 SFX G   go              guice           go
 SFX G   co              quice           co
-SFX G   a               ice             [^√ßgc]a
-SFX G   √ßa              cice            √ßa
+SFX G   a               ice             [^Ágc]a
+SFX G   Áa              cice            Áa
 SFX G   ga              guice           ga
 SFX G   ca              quice           ca
 SFX G   e               ice             e
 SFX G   0               ice             r
 SFX G   0               ice             [^v][^q]l
-SFX G   vel             bilice          [^√°√≠]vel
-SFX G   √°vel            abilice         √°vel
-SFX G   √≠vel            ibilice         √≠vel
+SFX G   vel             bilice          [^·Ì]vel
+SFX G   ·vel            abilice         ·vel
+SFX G   Ìvel            ibilice         Ìvel
 SFX G   z               cice            z
-SFX G   o               ices            [^√ßgc]o
-SFX G   √ßo              cices           √ßo
+SFX G   o               ices            [^Ágc]o
+SFX G   Áo              cices           Áo
 SFX G   go              guices          go
 SFX G   co              quices          co
-SFX G   a               ices            [^√ßgc]a
-SFX G   √ßa              cices           √ßa
+SFX G   a               ices            [^Ágc]a
+SFX G   Áa              cices           Áa
 SFX G   ga              guices          ga
 SFX G   ca              quices          ca
 SFX G   0               ices            [^v][^q]l
 SFX G   e               ices            e
 SFX G   0               ices            r
-SFX G   vel             bilices         [^√°√≠]vel
-SFX G   √°vel            abilices        √°vel
-SFX G   √≠vel            ibilices        √≠vel
+SFX G   vel             bilices         [^·Ì]vel
+SFX G   ·vel            abilices        ·vel
+SFX G   Ìvel            ibilices        Ìvel
 
 SFX J Y 14
 SFX J   r               cionismo        [ai]r
 SFX J   er              icionismo       er
-SFX J   ar              √¥metro          ar
-SFX J   ar              √≥dromo          ar
-SFX J   a               √≥dromo          a
-SFX J   o               √≥dromo          o
-SFX J   e               √≥dromo          e
-SFX J   e               ita             [^√£]e
-SFX J   a               ita             [^√£]a
-SFX J   0               zita            √£o
-SFX J   0               zita            √£e
-SFX J   e               ito             [^√£]e
-SFX J   o               ito             [^√£]o
-SFX J   0               zito            √£o
+SFX J   ar              Ùmetro          ar
+SFX J   ar              Ûdromo          ar
+SFX J   a               Ûdromo          a
+SFX J   o               Ûdromo          o
+SFX J   e               Ûdromo          e
+SFX J   e               ita             [^„]e
+SFX J   a               ita             [^„]a
+SFX J   0               zita            „o
+SFX J   0               zita            „e
+SFX J   e               ito             [^„]e
+SFX J   o               ito             [^„]o
+SFX J   0               zito            „o
 
-REP 45
-REP c√¢imbra    c√£ibra
-REP conserteza com_certeza
-REP denovo     de_novo
-REP derrepente de_repente
-REP migo       comigo
-REP encima     em_cima
-REP mea        mea-culpa
-REP tui        twee
-REP pataquada  patacoada
-REP est√≥ria    hist√≥ria
-REP fotinha    fotinho
-REP foli√£      foliona
-REP abrid      abert
-REP cobrid     cobert
-REP escrevid   escrit
-REP teje       esteja
-REP hajar      houver
-REP Beijing    Pequim
-REP Belarus    Bielorr√∫ssia
-REP Taipei     Taip√©
-REP por pro
-REP pre per
-REP damente mente
-REP mente damente
-REP iz √≠z
-REP cao √ß√£o
-REP √ß ss
-REP ss √ß
-REP c ss
-REP ss c
-REP ch x
-REP x ch
-REP c√ß x
-REP x c√ß
-REP k qu
-REP √≠ti it√≠
-REP it√≠ √≠ti
-REP iss√≠ √≠ssi
-REP il√≠ √≠li
-REP √≠li il√≠
-REP √≠fi if√≠
-REP if√≠ √≠fi
-REP nume mune
-REP coen quen
-REP concerteza com_certeza
+SFX U Y 27
+SFX U   0   AC   .
+SFX U   0   AL   .
+SFX U   0   AP   .
+SFX U   0   AM   .
+SFX U   0   BA   .
+SFX U   0   CE   .
+SFX U   0   DF   .
+SFX U   0   ES   .
+SFX U   0   GO   .
+SFX U   0   MA   .
+SFX U   0   MT   .
+SFX U   0   MS   .
+SFX U   0   MG   .
+SFX U   0   PA   .
+SFX U   0   PB   .
+SFX U   0   PR   .
+SFX U   0   PE   .
+SFX U   0   PI   .
+SFX U   0   RJ   .
+SFX U   0   RN   .
+SFX U   0   RS   .
+SFX U   0   RO   .
+SFX U   0   RR   .
+SFX U   0   SC   .
+SFX U   0   SP   .
+SFX U   0   SE   .
+SFX U   0   TO   .
 
-MAP 11
-MAP a√°
-MAP a√£
-MAP a√¢
-MAP e√©
-MAP e√™
-MAP i√≠
-MAP c√ß
-MAP o√≥
-MAP o√¥
-MAP o√µ
-MAP u√∫
-
-SFX Q Y 27
-SFX Q   0               -AC             .
-SFX Q   0               -AL             .
-SFX Q   0               -AP             .
-SFX Q   0               -AM             .
-SFX Q   0               -BA             .
-SFX Q   0               -CE             .
-SFX Q   0               -DF             .
-SFX Q   0               -ES             .
-SFX Q   0               -GO             .
-SFX Q   0               -MA             .
-SFX Q   0               -MT             .
-SFX Q   0               -MS             .
-SFX Q   0               -MG             .
-SFX Q   0               -PA             .
-SFX Q   0               -PB             .
-SFX Q   0               -PR             .
-SFX Q   0               -PE             .
-SFX Q   0               -PI             .
-SFX Q   0               -RJ             .
-SFX Q   0               -RN             .
-SFX Q   0               -RS             .
-SFX Q   0               -RO             .
-SFX Q   0               -RR             .
-SFX Q   0               -SC             .
-SFX Q   0               -SP             .
-SFX Q   0               -SE             .
-SFX Q   0               -TO             .
+SFX Q Y 1
+SFX Q   0   -/U .
