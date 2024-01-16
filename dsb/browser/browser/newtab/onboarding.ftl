@@ -347,6 +347,7 @@ onboarding-gratitude-security-and-privacy-subtitle = Wjeliki źěk, až { -brand
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Kak dłujko { -brand-short-name } južo wužywaśo?
 onboarding-new-user-survey-time-based-option-2 = Mjenjej ako 1 mjasec
 onboarding-new-user-survey-time-based-option-3 = Wěcej ako 1 mjasec, pšawidłownje
 onboarding-new-user-survey-time-based-option-4 = Wěcej ako 1 mjasec, pśi góžbje
