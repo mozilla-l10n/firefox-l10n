@@ -168,6 +168,8 @@ about-webauthn-ctap2-enroll-feedback-too-right = Το δείγμα ήταν πο
 about-webauthn-ctap2-enroll-feedback-too-fast = Το δείγμα ήταν πολύ γρήγορο.
 about-webauthn-ctap2-enroll-feedback-too-slow = Το δείγμα ήταν πολύ αργό.
 about-webauthn-ctap2-enroll-feedback-poor-quality = Το δείγμα είχε κακή ποιότητα.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Το δείγμα ήταν πολύ παραμορφωμένο.
 about-webauthn-ctap2-enroll-feedback-too-short = Το δείγμα ήταν πολύ σύντομο.
 # Scan (e.g. of fingerprint) couldn't be merged with previous samples.
 about-webauthn-ctap2-enroll-feedback-merge-failure = Αποτυχίας συγχώνευσης δείγματος.
