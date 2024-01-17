@@ -349,13 +349,14 @@ onboarding-gratitude-security-and-privacy-subtitle = Diolch am ddefnyddio { -bra
 
 onboarding-new-user-time-based-survey-title = Ers pryd ydych chi wedi bod yn defnyddio { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = Pa mor gyfarwydd ydych chi â { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Mae eich adborth yn helpu i wneud { -brand-short-name } yn well fyth.
 # When translating "brand new" it means completely new.
-onboarding-new-user-survey-time-based-option-1 = Rwy'n newydd sbon
+onboarding-new-user-survey-time-based-option-1 = Rwy'n hollol newydd
 onboarding-new-user-survey-time-based-option-2 = Llai nag 1 mis
 onboarding-new-user-survey-time-based-option-3 = Mwy nag 1 mis, yn rheolaidd
 onboarding-new-user-survey-time-based-option-4 = Mwy nag 1 mis, yn achlysurol
 # When translating "brand new" it means completely new.
-onboarding-new-user-survey-familiarity-based-option-1 = Rwy'n newydd sbon
-onboarding-new-user-survey-familiarity-based-option-2 = Rwyf wedi ei ddefnyddio rhywfaint
+onboarding-new-user-survey-familiarity-based-option-1 = Rwy'n hollol newydd
+onboarding-new-user-survey-familiarity-based-option-2 = Rwy wedi ei ddefnyddio rhywfaint
 onboarding-new-user-survey-familiarity-based-option-3 = Rwy'n gyfarwydd iawn ag ef
-onboarding-new-user-survey-familiarity-based-option-4 = Rwyf wedi ei ddefnyddio yn y gorffennol, ond mae wedi bod yn sbel
+onboarding-new-user-survey-familiarity-based-option-4 = Rwy wedi ei ddefnyddio yn y gorffennol, ond dim ers tro
