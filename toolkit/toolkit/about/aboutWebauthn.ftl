@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Διαχείριση PIN
 about-webauthn-credential-management-section-title = Διαχείριση διαπιστευτηρίων
 about-webauthn-pin-required-section-title = Απαιτείται PIN
 about-webauthn-confirm-deletion-section-title = Επιβεβαίωση διαγραφής
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Βιομετρικές εγγραφές
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Επιλέξτε το διακριτικό �
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Δεν είναι δυνατή η διαχείριση των επιλογών επειδή το διακριτικό ασφαλείας σας δεν υποστηρίζει το CTAP2.
 about-webauthn-text-not-available = Δεν διατίθεται σε αυτήν την πλατφόρμα.
+about-webauthn-bio-enrollment-list-subsection-title = Εγγραφές:
+about-webauthn-add-bio-enrollment-section-title = Προσθήκη νέας εγγραφής
 
 ## Results label
 
@@ -41,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Σφάλμα: Μη έγκυρο PIN. Δοκιμάστε ξανά. Σας απομένουν { $retriesLeft } προσπάθειες.
     }
 about-webauthn-results-pin-blocked-error = Σφάλμα: Δεν απομένουν προσπάθειες και η συσκευή σας έχει κλειδωθεί, επειδή εισήχθη εσφαλμένο PIN πάρα πολλές φορές. Η συσκευή απαιτεί επαναφορά.
+about-webauthn-results-pin-not-set-error = Σφάλμα: Το PIN δεν έχει οριστεί. Αυτή η λειτουργία απαιτεί προστασία με PIN.
 about-webauthn-results-pin-too-short-error = Σφάλμα: Το PIN που δόθηκε είναι πολύ μικρό.
 about-webauthn-results-pin-too-long-error = Σφάλμα: Το PIN που δόθηκε είναι πολύ μεγάλο.
 about-webauthn-results-pin-auth-blocked-error = Σφάλμα: Έγιναν πολλές αποτυχημένες προσπάθειες στη σειρά και η ταυτοποίηση μέσω PIN έχει αποκλειστεί προσωρινά. Η συσκευή σας απαιτεί κύκλο τροφοδοσίας (αποσύνδεση από την παροχή ρεύματος και εκ νέου σύνδεση).
@@ -53,6 +58,8 @@ about-webauthn-repeat-pin-label = Επαναλάβετε το νέο PIN:
 about-webauthn-current-pin-label = Τρέχον PIN:
 about-webauthn-pin-required-label = Εισαγάγετε το PIN σας:
 about-webauthn-credential-list-subsection-title = Διαπιστευτήρια:
+about-webauthn-enrollment-name-label = Όνομα εγγραφής (προαιρετικό):
+about-webauthn-enrollment-list-empty = Δεν βρέθηκαν εγγραφές στη συσκευή.
 about-webauthn-credential-list-empty = Δεν βρέθηκαν διαπιστευτήρια στη συσκευή.
 about-webauthn-confirm-deletion-label = Πρόκειται να διαγράψετε:
 
@@ -62,9 +69,14 @@ about-webauthn-current-set-pin-button = Ορισμός PIN
 about-webauthn-current-change-pin-button = Αλλαγή PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Παράθεση διαπιστευτηρίων
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Λίστα εγγραφών
+about-webauthn-add-bio-enrollment-button = Προσθήκη εγγραφής
 about-webauthn-cancel-button = Ακύρωση
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Διαγραφή
+about-webauthn-start-enrollment-button = Έναρξη εγγραφής
+about-webauthn-update-button = Ενημέρωση
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -128,3 +140,28 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Δεν υποστηρίζεται
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Απαιτείται ακόμη { $repeatCount } δείγμα.
+       *[other] Απαιτούνται ακόμη { $repeatCount } δείγματα.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Το δείγμα ήταν καλό.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+
+about-webauthn-ctap2-enroll-feedback-poor-quality = Το δείγμα είχε κακή ποιότητα.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Καμία δραστηριότητα από τον χρήστη.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Ο χρήστης δεν ολοκλήρωσε τη δειγματοληψία όπως αναμενόταν.
+about-webauthn-ctap2-enroll-feedback-other = Σφάλμα δείγματος.
