@@ -344,3 +344,18 @@ onboarding-mobile-download-security-and-privacy-subtitle = Pan fyddwch wedi'ch c
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = Mae { -brand-short-name } yn eich cefnogi
 onboarding-gratitude-security-and-privacy-subtitle = Diolch am ddefnyddio { -brand-short-name }, gan y Mozilla Foundation. Gyda'ch cefnogaeth chi, rydyn ni'n gweithio i wneud y rhyngrwyd yn fwy agored, hygyrch, ac yn well i bawb.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Ers pryd ydych chi wedi bod yn defnyddio { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Pa mor gyfarwydd ydych chi â { -brand-short-name }?
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Rwy'n newydd sbon
+onboarding-new-user-survey-time-based-option-2 = Llai nag 1 mis
+onboarding-new-user-survey-time-based-option-3 = Mwy nag 1 mis, yn rheolaidd
+onboarding-new-user-survey-time-based-option-4 = Mwy nag 1 mis, yn achlysurol
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Rwy'n newydd sbon
+onboarding-new-user-survey-familiarity-based-option-2 = Rwyf wedi ei ddefnyddio rhywfaint
+onboarding-new-user-survey-familiarity-based-option-3 = Rwy'n gyfarwydd iawn ag ef
+onboarding-new-user-survey-familiarity-based-option-4 = Rwyf wedi ei ddefnyddio yn y gorffennol, ond mae wedi bod yn sbel
