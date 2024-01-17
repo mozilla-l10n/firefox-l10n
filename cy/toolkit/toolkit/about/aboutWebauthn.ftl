@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Rheoli PIN
 about-webauthn-credential-management-section-title = Rheoli manylion
 about-webauthn-pin-required-section-title = Mae angen PIN
 about-webauthn-confirm-deletion-section-title = Cadarnhau dileu
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Cofrestriadau biometrig
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Dewiswch eich tocyn diogelwch o'ch dewis trw
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Methu â rheoli'r dewisiadau oherwydd nad yw eich tocyn diogelwch yn cefnogi CTAP2.
 about-webauthn-text-not-available = Nid yw ar gael ar y platfform hwn.
+about-webauthn-bio-enrollment-list-subsection-title = Cofrestriadau:
+about-webauthn-add-bio-enrollment-section-title = Ychwanegu cofrestriad newydd
 
 ## Results label
 
@@ -45,6 +49,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Gwall: PIN anghywir. Ceisiwch eto. Mae gennych { $retriesLeft } cais ar ôl.
     }
 about-webauthn-results-pin-blocked-error = Gwall: Nid oes unrhyw geisiadau ar ôl ac mae'ch dyfais wedi'i chloi, oherwydd cyflwynwyd y PIN anghywir gormod o weithiau. Mae angen ailosod y ddyfais.
+about-webauthn-results-pin-not-set-error = Gwall: PIN heb ei osod. Mae angen amddiffyniad PIN ar y weithred hon.
 about-webauthn-results-pin-too-short-error = Gwall: Mae'r PIN hwn yn rhy fyr.
 about-webauthn-results-pin-too-long-error = Gwall: Mae'r PIN hwn yn rhy hir.
 about-webauthn-results-pin-auth-blocked-error = Gwall: Bu gormod o geisiadau wedi methu yn olynol ac mae dilysu PIN wedi'i rwystro dros dro. Mae angen cylchred pŵer ar eich dyfais (dad-blygio ac ail-blygio).
@@ -57,6 +62,8 @@ about-webauthn-repeat-pin-label = Ailadrodd PIN newydd:
 about-webauthn-current-pin-label = Y PIN cyfredol:
 about-webauthn-pin-required-label = Rhowch eich PIN:
 about-webauthn-credential-list-subsection-title = Manylion:
+about-webauthn-enrollment-name-label = Enw'r cofrestriad (dewisol):
+about-webauthn-enrollment-list-empty = Heb ganfod unrhyw gofrestriadau ar y ddyfais.
 about-webauthn-credential-list-empty = Dim manylion adnabod ar y ddyfais.
 about-webauthn-confirm-deletion-label = Rydych ar fin dileu:
 
@@ -66,9 +73,14 @@ about-webauthn-current-set-pin-button = Gosod PIN
 about-webauthn-current-change-pin-button = Newid PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Rhestru'r manylion personol
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Rhestru'r cofrestriadau
+about-webauthn-add-bio-enrollment-button = Ychwanegu cofrestriad
 about-webauthn-cancel-button = Diddymu
 about-webauthn-send-pin-button = Iawn
 about-webauthn-delete-button = Dileu
+about-webauthn-start-enrollment-button = Cychwyn cofrestriad
+about-webauthn-update-button = Diweddaru
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -132,3 +144,45 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Heb ei gefnogi
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [zero] Nid oes angen { $repeatCount } enghreifftiau.
+        [one] Mae angen { $repeatCount } enghraifft o hyd.
+        [two] Mae angen { $repeatCount } enghraifft o hyd.
+        [few] Mae angen { $repeatCount } enghraifft o hyd.
+        [many] Mae angen { $repeatCount } enghraifft o hyd.
+       *[other] Mae angen { $repeatCount } enghraifft o hyd.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Roedd yr enghraifft yn dda.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = Roedd y enghraifft yn rhy uchel.
+about-webauthn-ctap2-enroll-feedback-too-low = Roedd yr enghraifft yn rhy isel.
+about-webauthn-ctap2-enroll-feedback-too-left = Roedd yr enghraifft yn rhy bell i'r chwith.
+about-webauthn-ctap2-enroll-feedback-too-right = Roedd yr enghraifft yn rhy bell i'r dde.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = Roedd yr enghraifft yn rhy gyflym.
+about-webauthn-ctap2-enroll-feedback-too-slow = Roedd yr enghraifft yn rhy araf.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Roedd yr enghraifft o ansawdd gwael.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Roedd yr enghraifft yn rhy gam
+about-webauthn-ctap2-enroll-feedback-too-short = Roedd yr enghraifft yn rhy fyr.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Wedi methu uno'r enghreifftiau.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Mae'r enghraifft yn bodoli eisoes.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Dim gweithgaredd gan y defnyddiwr.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Nid yw'r defnyddiwr wedi gorffen cynnig enghreifftiau yn ôl y disgwyl.
+about-webauthn-ctap2-enroll-feedback-other = Gwall enghraifft.
