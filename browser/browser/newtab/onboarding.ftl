@@ -343,3 +343,19 @@ onboarding-mobile-download-security-and-privacy-subtitle = Όταν κάνετε
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = Το { -brand-short-name } στο πλευρό σας
 onboarding-gratitude-security-and-privacy-subtitle = Σας ευχαριστούμε που χρησιμοποιείτε το { -brand-short-name }, που υποστηρίζεται από το Mozilla Foundation. Με την υποστήριξή σας, εργαζόμαστε για να κάνουμε το διαδίκτυο ασφαλέστερο και πιο προσβάσιμο για όλους.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Πόσο καιρό χρησιμοποιείτε το { -brand-short-name };
+onboarding-new-user-familiarity-based-survey-title = Πόσο εξοικειωμένοι είστε με το { -brand-short-name };
+onboarding-new-user-survey-subtitle = Τα σχόλιά σας κάνουν το { -brand-short-name } ακόμα καλύτερο.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Είμαι αρχάριος
+onboarding-new-user-survey-time-based-option-2 = Λιγότερο από ένα μήνα
+onboarding-new-user-survey-time-based-option-3 = Περισσότερο από ένα μήνα, τακτικά
+onboarding-new-user-survey-time-based-option-4 = Περισσότερο από ένα μήνα, περιστασιακά
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Είμαι αρχάριος
+onboarding-new-user-survey-familiarity-based-option-2 = Το έχω χρησιμοποιήσει λίγο
+onboarding-new-user-survey-familiarity-based-option-3 = Είμαι πολύ εξοικειωμένος με αυτό
+onboarding-new-user-survey-familiarity-based-option-4 = Το χρησιμοποιούσα στο παρελθόν, αλλά έχει περάσει καιρός
