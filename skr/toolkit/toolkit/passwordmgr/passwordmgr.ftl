@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = { $host } کیتے پاس ورڈ ہتھیکڑا کرو؟
+password-manager-save-password-button-deny =
+    .label = ہݨ کائناں
+    .accesskey = { "" }
 password-manager-save-password-button-allow =
     .label = ہتھیکڑا کرو
     .accesskey = S

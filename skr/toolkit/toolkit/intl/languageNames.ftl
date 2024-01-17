@@ -158,6 +158,7 @@ language-name-ro = رومانی
 language-name-ru = روسی
 language-name-rw = کنیا روانڈا
 language-name-sa = سنسکرت
+language-name-sat = سنتالی
 language-name-sc = سردینی
 language-name-sco = سکوٹس
 language-name-sd = سندھی
