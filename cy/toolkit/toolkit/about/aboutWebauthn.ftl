@@ -154,7 +154,7 @@ about-webauthn-auth-info-null = Heb ei gefnogi
 #  $repeatCount (Number): number of tries left
 about-webauthn-samples-still-needed =
     { $repeatCount ->
-        [zero] Nid oes angen { $repeatCount } enghreifftiau.
+        [zero] Nid oes angen { $repeatCount } enghreifftiau pellach.
         [one] Mae angen { $repeatCount } enghraifft o hyd.
         [two] Mae angen { $repeatCount } enghraifft o hyd.
         [few] Mae angen { $repeatCount } enghraifft o hyd.
@@ -162,11 +162,11 @@ about-webauthn-samples-still-needed =
        *[other] Mae angen { $repeatCount } enghraifft o hyd.
     }
 # Scan (e.g. of fingerprint) was successful.
-about-webauthn-ctap2-enroll-feedback-good = Roedd yr enghraifft yn dda.
+about-webauthn-ctap2-enroll-feedback-good = Roedd yr enghraifft yn un da.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
-about-webauthn-ctap2-enroll-feedback-too-high = Roedd y enghraifft yn rhy uchel.
+about-webauthn-ctap2-enroll-feedback-too-high = Roedd yr enghraifft yn rhy uchel.
 about-webauthn-ctap2-enroll-feedback-too-low = Roedd yr enghraifft yn rhy isel.
 about-webauthn-ctap2-enroll-feedback-too-left = Roedd yr enghraifft yn rhy bell i'r chwith.
 about-webauthn-ctap2-enroll-feedback-too-right = Roedd yr enghraifft yn rhy bell i'r dde.
