@@ -31,7 +31,7 @@ TRY sieroçcnaguhjtlmdíózvp-’
 MAXNGRAMSUGS 5
 MAXDIFF 7
 
-REP 77
+REP 85
 REP ^a           Á
 REP ^a           Â
 REP ^e           É
@@ -41,16 +41,24 @@ REP ^concertesa$ com_certeza
 REP ^derrepente$ de_repente
 REP ^encima$     em_cima
 REP ^atoa$       à_toa
-REP ^denada$     de_nada
 REP ^Beijing$    Pequim
 REP ^ben         bem-
 REP ^es          his
+REP ^de          de_
+REP ^do          do_
+REP âim          ãi
 REP ^pre         pré-
 REP ^pré-        pre
 REP ^sócio-      socio
 REP ^vídeo-      video
+REP ^re-         re
+REP o-h          o
 REP ca           ça
 REP co           ço
+REP a            á
+REP e            ê
+REP e            é
+REP i            í
 REP ^c           s
 REP ^s           c
 REP ge           je
@@ -61,7 +69,6 @@ REP l            u
 REP o            u
 REP ss           c
 REP c            ss
-REP o-h          o
 REP cç           x
 REP alha         ália
 REP cao$         ção
@@ -88,6 +95,7 @@ REP ram$         eram
 REP ste$         este
 REP ão$          am
 REP ao$          am
+REP ao           ão
 REP an$          ã
 REP á$           ar
 REP is$          ereu
