@@ -158,10 +158,21 @@ about-webauthn-ctap2-enroll-feedback-good = Το δείγμα ήταν καλό.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Το δείγμα ήταν πολύ ψηλά.
+about-webauthn-ctap2-enroll-feedback-too-low = Το δείγμα ήταν πολύ χαμηλά.
+about-webauthn-ctap2-enroll-feedback-too-left = Το δείγμα ήταν πολύ αριστερά.
+about-webauthn-ctap2-enroll-feedback-too-right = Το δείγμα ήταν πολύ δεξιά.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Το δείγμα ήταν πολύ γρήγορο.
+about-webauthn-ctap2-enroll-feedback-too-slow = Το δείγμα ήταν πολύ αργό.
 about-webauthn-ctap2-enroll-feedback-poor-quality = Το δείγμα είχε κακή ποιότητα.
+about-webauthn-ctap2-enroll-feedback-too-short = Το δείγμα ήταν πολύ σύντομο.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Αποτυχίας συγχώνευσης δείγματος.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Το δείγμα υπάρχει ήδη.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Καμία δραστηριότητα από τον χρήστη.
 about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Ο χρήστης δεν ολοκλήρωσε τη δειγματοληψία όπως αναμενόταν.
 about-webauthn-ctap2-enroll-feedback-other = Σφάλμα δείγματος.
