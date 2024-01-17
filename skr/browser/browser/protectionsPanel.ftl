@@ -138,6 +138,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = بند کرو
 protections-panel-cookie-banner-view-turn-on-label =
     .label = چالو کرو
+protections-panel-report-broken-site =
+    .label = ترٹی ہوئی سائٹ دی رپورٹ کرو
+    .title = ترٹی ہوئی سائٹ دی رپورٹ کرو
 
 ## Protections panel info message
 

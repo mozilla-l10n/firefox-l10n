@@ -690,6 +690,9 @@ sync-signedin-login-failure = { $email } ولدا جوڑݨ کیتے براہ م�
 sync-resend-verification =
     .label = توثیق کاری ولا بھیڄو
     .accesskey = d
+sync-verify-account =
+    .label = کھاتے دی پڑتال کرو
+    .accesskey = V
 sync-remove-account =
     .label = اکاؤنٹ ہٹاؤ
     .accesskey = R
@@ -813,6 +816,10 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = پاس ورڈز
+    .searchkeywords = لاگ اناں
 forms-exceptions =
     .label = استثنیات …
     .accesskey = x
@@ -831,6 +838,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = ہتھیکڑے لاگ انز …
     .accesskey = L
+forms-saved-passwords =
+    .label = محفوظ تھئے پاس ورڈ
+    .accesskey = { "" }
 forms-primary-pw-use =
     .label = ہک منڈھلا پاس ورڈ استعمال کرو
     .accesskey = U

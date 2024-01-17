@@ -151,6 +151,9 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in tabs from other devices ("search" is a verb).
 firefoxview-search-text-box-syncedtabs =
     .placeholder = ہم وقت تھیاں ٹیباں ڳولو
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = کھلیاں ٹیباں ڳولو
 # Variables:
 #   $count (Number) - The number of visits matching the search query.
 firefoxview-search-results-count =
@@ -210,4 +213,5 @@ firefoxview-import-history-close-button =
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = ایں ڈیوائس تے کوئی ٹیباں کائنی کھلیاں
 firefoxview-syncedtabs-connect-another-device = ٻئی ڈیوائس نال کنکٹ کرو
