@@ -43,3 +43,4 @@
 # and kept in English.
 -firefoxview-brand-name = Sealladh Firefox
 
+-mozmonitor-brand-name = Mozilla Monitor
