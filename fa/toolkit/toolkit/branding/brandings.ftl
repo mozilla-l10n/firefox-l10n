@@ -42,3 +42,4 @@
 # and kept in English.
 -firefoxview-brand-name = نمای Firefox
 
+-mozmonitor-brand-name = Mozilla Monitor
