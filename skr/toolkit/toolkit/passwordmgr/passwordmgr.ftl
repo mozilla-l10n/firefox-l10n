@@ -10,7 +10,7 @@
 password-manager-save-password-message = { $host } کیتے پاس ورڈ ہتھیکڑا کرو؟
 password-manager-save-password-button-deny =
     .label = ہݨ کائناں
-    .accesskey = { "" }
+    .accesskey = N
 password-manager-save-password-button-allow =
     .label = ہتھیکڑا کرو
     .accesskey = S
