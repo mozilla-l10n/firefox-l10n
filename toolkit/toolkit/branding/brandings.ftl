@@ -41,3 +41,4 @@
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name = Firefox տեսք
+-mozmonitor-brand-name = Mozilla Monitor
