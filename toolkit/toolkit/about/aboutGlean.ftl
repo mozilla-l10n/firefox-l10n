@@ -54,6 +54,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (egyáltalán ne küldjön pinget)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Az előző mezőben győződjön meg róla, hogy van egy jól megjegyezhető hibakeresési címke, hogy később felismerje a pingeket.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Állítson be egy megjegyezhető hibakeresési címkét <span>(20 vagy kevesebb karakter, csak alfanumerikus karakterek és -)</span>, hogy később felismerje a pingjeit.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =

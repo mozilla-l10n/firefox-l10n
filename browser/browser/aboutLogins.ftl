@@ -300,6 +300,9 @@ about-logins-confirm-export-dialog-title = Bejelentkezések és jelszavak export
 about-logins-confirm-export-dialog-message = A jelszavai olvasható szövegként lesznek mentve (például R0sszJel$zó), így bárki megtekintheti, aki meg tudja nyitni az exportált fájlt.
 about-logins-confirm-export-dialog-confirm-button = Exportálás…
 about-logins-confirm-export-dialog-title2 = Megjegyzés a jelszavak exportálásáról
+about-logins-confirm-export-dialog-message2 =
+    Exportáláskor a jelszavak egy olvasható szövegű fájlba lesznek mentve.
+    Ha végzett a fájl használatával, javasoljuk, hogy törölje azt, így az eszköz többi felhasználói nem fogják látni a jelszavait.
 about-logins-confirm-export-dialog-confirm-button2 = Folytatás az exportálással
 about-logins-alert-import-title = Importálás kész
 about-logins-alert-import-message = Részletes importálási összefoglaló megtekintése
