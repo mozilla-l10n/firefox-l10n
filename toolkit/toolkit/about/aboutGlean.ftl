@@ -88,6 +88,14 @@ about-glean-adhoc-explanation =
     és a <code>testGetValue()</code> API használatával, például:
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    További <i>ad hoc</i> teszteléshez,
+    egy adott műszer aktuális értékét is meghatározhatja
+    a fejlesztői konzol megnyitásával itt az <code>about:glean</code> oldalon
+    és a <code>testGetValue()</code> API használatával, például:
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    a <code>metric.category.metric_name</code> nevű metrika esetén.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Vegye figyelembe, hogy a fejlesztői eszközök konzolban a Glean JS API-t használja.
     Ez azt jelenti, hogy a metrikák kategóriája és neve <code>camelCase</code>
