@@ -275,3 +275,4 @@
                 [lower] přehledem Firefoxu
             }
     }
+-mozmonitor-brand-name = Mozilla Monitor
