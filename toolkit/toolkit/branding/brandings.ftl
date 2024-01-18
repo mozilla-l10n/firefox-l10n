@@ -75,3 +75,4 @@
         [loc] Prehľade Firefoxu
         [ins] Prehľadom Firefoxu
     }
+-mozmonitor-brand-name = Mozilla Monitor
