@@ -36,3 +36,4 @@
 -firefox-home-brand-name = start Firefox
 
 
+-mozmonitor-brand-name = Mozilla Monitor
