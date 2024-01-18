@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN-kezelés
 about-webauthn-credential-management-section-title = Hitelesítő adatok kezelése
 about-webauthn-pin-required-section-title = PIN szükséges
 about-webauthn-confirm-deletion-section-title = Törlés megerősítése
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biometrikus regisztrációk
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Válassza ki a kívánt biztonsági tokent a
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = A beállítások nem kezelhetők, mert a biztonsági token nem támogatja a CTAP2-t.
 about-webauthn-text-not-available = Nem érhető el ezen a platformon.
+about-webauthn-bio-enrollment-list-subsection-title = Regisztrációk:
+about-webauthn-add-bio-enrollment-section-title = Új regisztráció hozzáadása
 
 ## Results label
 
@@ -41,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Hiba: helytelen PIN-kód. Próbálja újra. Még { $retriesLeft } próbálkozása van hátra.
     }
 about-webauthn-results-pin-blocked-error = Hiba: már nincs több próbálkozás, és az eszköz zárolva lett, mert túl sokszor adott meg hibás PIN-kódot. Az eszköz alaphelyzetbe állítása szükséges.
+about-webauthn-results-pin-not-set-error = Hiba: Nincs PIN-kód megadva. Ehhez a művelethez PIN-védelem szükséges.
 about-webauthn-results-pin-too-short-error = Hiba: A megadott PIN túl rövid.
 about-webauthn-results-pin-too-long-error = Hiba: A megadott PIN túl hosszú.
 about-webauthn-results-pin-auth-blocked-error = Hiba: túl sok sikertelen próbálkozás volt egymás után, és a PIN-hitelesítés átmenetileg le lett tiltva. Húzza ki az eszközét, majd csatlakoztassa újra.
@@ -53,6 +58,8 @@ about-webauthn-repeat-pin-label = Új PIN megismétlése:
 about-webauthn-current-pin-label = Jelenlegi PIN:
 about-webauthn-pin-required-label = Adja meg a PIN-kódját:
 about-webauthn-credential-list-subsection-title = Hitelesítő adatok:
+about-webauthn-enrollment-name-label = Regisztráció neve (nem kötelező):
+about-webauthn-enrollment-list-empty = Nem találhatók regisztrációk az eszközön.
 about-webauthn-credential-list-empty = Nem találhatók hitelesítő adatok az eszközön.
 about-webauthn-confirm-deletion-label = A következő törlésére készül:
 
@@ -62,9 +69,14 @@ about-webauthn-current-set-pin-button = PIN beállítása
 about-webauthn-current-change-pin-button = PIN módosítása
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Hitelesítő adatok felsorolása
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Regisztrációk felsorolása
+about-webauthn-add-bio-enrollment-button = Regisztráció hozzáadása
 about-webauthn-cancel-button = Mégse
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Törlés
+about-webauthn-start-enrollment-button = Regisztráció indítása
+about-webauthn-update-button = Frissítés
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -128,3 +140,39 @@ about-webauthn-auth-info-true = Igaz
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Hamis
 about-webauthn-auth-info-null = Nem támogatott
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Még { $repeatCount } minta szükséges.
+       *[other] Még { $repeatCount } minta szükséges.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = A minta jó volt.
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+about-webauthn-ctap2-enroll-feedback-too-high = A minta túl magas volt.
+about-webauthn-ctap2-enroll-feedback-too-low = A minta túl alacsony volt.
+about-webauthn-ctap2-enroll-feedback-too-left = A minta túl balra volt.
+about-webauthn-ctap2-enroll-feedback-too-right = A minta túl jobbra volt.
+
+##
+
+about-webauthn-ctap2-enroll-feedback-too-fast = A minta túl gyors volt.
+about-webauthn-ctap2-enroll-feedback-too-slow = A minta túl lassú volt.
+about-webauthn-ctap2-enroll-feedback-poor-quality = A minta rossz minőségű volt.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = A minta túl ferde volt.
+about-webauthn-ctap2-enroll-feedback-too-short = A minta túl rövid volt.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Mintaegyesítési hiba.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = A minta már létezik.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Nincs tevékenység a felhasználótól.

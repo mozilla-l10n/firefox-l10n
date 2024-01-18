@@ -21,6 +21,26 @@ autofill-options-link-osx = Automatikus űrlapkitöltési beállítások
 
 ## The credit card capture doorhanger
 
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Elmenti biztonságosan ezt a kártyát?
+credit-card-save-doorhanger-description = A { -brand-short-name } titkosítja a kártyaszámát. A biztonsági kód nem lesz mentve.
+credit-card-capture-save-button =
+    .label = Mentés
+    .accessKey = M
+credit-card-capture-cancel-button =
+    .label = Most nem
+    .accessKey = n
+credit-card-capture-never-save-button =
+    .label = Sose mentsen el kártyákat
+    .accessKey = S
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Kártya frissítése?
+credit-card-update-doorhanger-description = Frissítendő kártya:
+credit-card-capture-save-new-button =
+    .label = Mentés új kártyaként
+    .accessKey = k
+credit-card-capture-update-button =
+    .label = Meglévő kártya frissítése
+    .accessKey = f

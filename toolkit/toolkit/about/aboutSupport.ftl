@@ -187,6 +187,20 @@ media-codec-support-unsupported = Nem támogatott
 media-codec-support-error = A kodek támogatási információi nem érhetőek el. Próbálja újra egy médiafájl lejátszása után.
 media-codec-support-lack-of-extension = Kiegészítő telepítése
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = A tartalom-visszafejtő modulok információi
+media-key-system-name = Kulcsrendszer neve
+media-video-robustness = Videó robusztussága
+media-audio-robustness = Hang robusztussága
+media-cdm-capabilities = Képességek
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Titkosítatlan kezdet
+
 ##
 
 intl-title = Nemzetköziesítés és honosítás
