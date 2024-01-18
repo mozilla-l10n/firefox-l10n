@@ -57,3 +57,4 @@
         [ins] Firefox-ხედით
         [add] Firefox-ხედთან
     }
+-mozmonitor-brand-name = Mozilla Monitor
