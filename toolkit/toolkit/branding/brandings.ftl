@@ -107,3 +107,4 @@
                 [lower] оглядачі Firefox
             }
     }
+-mozmonitor-brand-name = Mozilla Monitor
