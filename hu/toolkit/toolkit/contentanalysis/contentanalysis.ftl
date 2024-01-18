@@ -12,6 +12,9 @@ contentanalysis-slow-agent-dialog-title = Tartalomelemzés folyamatban
 contentanalysis-slow-agent-dialog-body = A tartalomelemzés a(z) „{ $content }” erőforrást elemzi
 contentanalysis-operationtype-clipboard = vágólap
 contentanalysis-operationtype-dropped-text = fogd és vidd művelettel átdobott szöveg
+contentanalysis-warndialogtitle = Ez a tartalom lehet, hogy nem biztonságos
+contentanalysis-warndialog-response-allow = Tartalom használata
+contentanalysis-warndialog-response-deny = Mégse
 contentanalysis-notification-title = Tartalomelemzés
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
