@@ -139,3 +139,4 @@
                 [lower] przeglądzie Firefoksa
             }
     }
+-mozmonitor-brand-name = Mozilla Monitor
