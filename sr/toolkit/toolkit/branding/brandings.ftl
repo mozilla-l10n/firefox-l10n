@@ -122,3 +122,4 @@
 # and kept in English.
 -firefoxview-brand-name = Firefox преглед
 
+-mozmonitor-brand-name = Mozilla Monitor
