@@ -96,3 +96,4 @@
 -firefox-suggest-brand-name = Firefox doradzo
 
 
+-mozmonitor-brand-name = Mozilla Monitor
