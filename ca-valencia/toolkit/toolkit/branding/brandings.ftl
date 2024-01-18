@@ -38,3 +38,4 @@
 -firefox-suggest-brand-name = Suggeriments del Firefox
 
 
+-mozmonitor-brand-name = Mozilla Monitor
