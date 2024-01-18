@@ -42,3 +42,4 @@
 # and kept in English.
 -firefoxview-brand-name = „Firefox“ apžvalga
 
+-mozmonitor-brand-name = Mozilla Monitor
