@@ -165,6 +165,7 @@ about-webauthn-ctap2-enroll-feedback-too-slow = 采集时停留时间过长。
 about-webauthn-ctap2-enroll-feedback-poor-quality = 样本质量不佳。
 # Skewed in the sense of fingerprint/iris scan was too distorted
 about-webauthn-ctap2-enroll-feedback-too-skewed = 样本过于偏斜。
+about-webauthn-ctap2-enroll-feedback-too-short = 采集时停留时间过短。
 # Scan (e.g. of fingerprint) couldn't be merged with previous samples.
 about-webauthn-ctap2-enroll-feedback-merge-failure = 样本合并失败。
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
