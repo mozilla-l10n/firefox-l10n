@@ -43,3 +43,4 @@
 # and kept in English.
 -firefoxview-brand-name = Dānanj rugui’ Firefox
 
+-mozmonitor-brand-name = Mozilla Monitor
