@@ -39,3 +39,4 @@
 # and kept in English.
 -firefoxview-brand-name = Firefox వీక్షణం
 
+-mozmonitor-brand-name = Mozilla Monitor
