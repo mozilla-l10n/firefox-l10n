@@ -44,7 +44,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] 错误：PIN 错误，请重试。您还有 { $retriesLeft } 次机会。
     }
 about-webauthn-results-pin-blocked-error = 错误：尝试机会已用完。由于 PIN 输入错误次数过多，此设备已被锁定，需进行重置。
-about-webauthn-results-pin-not-set-error = 发生错误：未设置 PIN。此操作需要 PIN 保护。
+about-webauthn-results-pin-not-set-error = 错误：未设置 PIN。此操作需要 PIN 保护。
 about-webauthn-results-pin-too-short-error = 错误：输入的 PIN 过短。
 about-webauthn-results-pin-too-long-error = 错误：输入的 PIN 过长。
 about-webauthn-results-pin-auth-blocked-error = 错误：因连续尝试失败次数过多，已暂时禁止 PIN 身份验证。您需要重新上电设备（拔下重插）。
@@ -83,7 +83,7 @@ about-webauthn-update-button = 更新
 about-webauthn-auth-option-uv = 用户验证
 about-webauthn-auth-option-up = 用户存在
 about-webauthn-auth-option-clientpin = 客户端 PIN
-about-webauthn-auth-option-rk = Resident key
+about-webauthn-auth-option-rk = 常驻密钥
 about-webauthn-auth-option-plat = 平台设备
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = 命令权限（pinUvAuthToken）
@@ -91,7 +91,7 @@ about-webauthn-auth-option-pinuvauthtoken = 命令权限（pinUvAuthToken）
 about-webauthn-auth-option-nomcgapermissionswithclientpin = 客户端 PIN 没有 MakeCredential / GetAssertion 权限
 about-webauthn-auth-option-largeblobs = 大型 blob
 about-webauthn-auth-option-ep = 企业认证
-about-webauthn-auth-option-bioenroll = 录入生物特征
+about-webauthn-auth-option-bioenroll = 生物特征注册
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = 生物特征录入原型（FIDO_2_1_PRE）
 about-webauthn-auth-option-uvbioenroll = 生物特征录入权限
@@ -160,8 +160,8 @@ about-webauthn-ctap2-enroll-feedback-too-right = 样本位置偏右。
 
 ##
 
-about-webauthn-ctap2-enroll-feedback-too-fast = 采集时停留时间过短。
-about-webauthn-ctap2-enroll-feedback-too-slow = 采集时停留时间过长。
+about-webauthn-ctap2-enroll-feedback-too-fast = 采集时动作过快。
+about-webauthn-ctap2-enroll-feedback-too-slow = 采集时动作过慢。
 about-webauthn-ctap2-enroll-feedback-poor-quality = 样本质量不佳。
 # Skewed in the sense of fingerprint/iris scan was too distorted
 about-webauthn-ctap2-enroll-feedback-too-skewed = 样本过于偏斜。
