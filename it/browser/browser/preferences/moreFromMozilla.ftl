@@ -31,3 +31,10 @@ more-from-moz-learn-more-link = Ulteriori informazioni
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Proteggi la tua casella di posta e la tua identità con alias di posta elettronica gratuiti.
 more-from-moz-firefox-relay-button = Ottieni { -relay-brand-short-name }
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Rimuovi automaticamente le tue informazioni personali esposte sul Web.
+more-from-moz-mozilla-monitor-global-description = Ricevi un avviso quando i tuoi dati sono coinvolti in una violazione di dati.
+more-from-moz-mozilla-monitor-button = Ottieni { -monitor-brand-short-name }
