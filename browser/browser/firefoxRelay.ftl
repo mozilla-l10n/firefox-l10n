@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } tidak dapat mene
 ##
 
 firefox-relay-must-login-to-fxa = Anda harus masuk ke { -fxaccount-brand-name } untuk menggunakan { -relay-brand-name }.
+firefox-relay-must-login-to-account = Masuk ke akun Anda untuk menggunakan topeng surel { -relay-brand-name } Anda.
 firefox-relay-get-unlimited-masks =
     .label = Kelola topeng
     .accesskey = t

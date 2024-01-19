@@ -182,7 +182,7 @@ about-logins-export-password-os-auth-dialog-message-macosx = mengekspor info mas
 about-logins-export-password-os-auth-dialog-message2-win = Untuk mengekspor kata sandi Anda, ketikkan kredensial masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message2-macosx = ekspor kata sandi tersimpan
+about-logins-export-password-os-auth-dialog-message2-macosx = mengekspor kata sandi tersimpan
 
 ## Primary Password notification
 
@@ -233,8 +233,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
     }
 about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
-        [1] Ini akan menghapus informasi masuk yang telah Anda simpan ke { -brand-short-name } di semua perangkat yang tersinkonisasi dengan akun Anda. Ini juga akan menghapus peringatan keamanan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
-       *[other] Ini akan menghapus semua informasi masuk yang telah Anda simpan ke { -brand-short-name } di semua perangkat yang tersinkonisasi dengan akun Anda. Ini juga akan menghapus peringatan keamanan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
+        [1] Ini akan menghapus informasi masuk yang telah Anda simpan ke { -brand-short-name } di semua perangkat yang tersinkronisasi dengan akun Anda. Ini juga akan menghapus peringatan keamanan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
+       *[other] Ini akan menghapus semua informasi masuk yang telah Anda simpan ke { -brand-short-name } di semua perangkat yang tersinkronisasi dengan akun Anda. Ini juga akan menghapus peringatan keamanan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -247,8 +247,8 @@ about-logins-confirm-remove-all-dialog-title2 = Hapus semua { $count } kata sand
 # Message for modal to confirm the removal of saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
-        [1] Ini akan menghapus kata sandi yang disimpan ke { -brand-short-name } dan peringatan pembobolan apa pun. Anda tidak dapat membatalkan tindakan ini.
-       *[other] Ini akan menghapus kata sandi yang disimpan ke { -brand-short-name } dan peringatan pembobolan apa pun. Anda tidak dapat membatalkan tindakan ini.
+        [1] Ini akan menghapus kata sandi yang disimpan ke { -brand-short-name } dan semua peringatan pembobolan. Anda tidak dapat membatalkan tindakan ini.
+       *[other] Ini akan menghapus kata sandi yang disimpan ke { -brand-short-name } dan semua peringatan pembobolan. Anda tidak dapat membatalkan tindakan ini.
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 = Hapus semua { $count } sandi dari semua perangkat?
