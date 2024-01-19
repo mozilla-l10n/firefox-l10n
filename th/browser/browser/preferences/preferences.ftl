@@ -596,6 +596,9 @@ search-suggestions-desc = เลือกว่าจะทำให้เคร
 search-suggestions-option =
     .label = ให้ข้อเสนอแนะการค้นหา
     .accesskey = ห
+search-show-suggestions-option =
+    .label = แสดงข้อเสนอแนะการค้นหา
+    .accesskey = ส
 search-show-suggestions-url-bar-option =
     .label = แสดงข้อเสนอแนะการค้นหาในผลลัพธ์ของแถบที่อยู่
     .accesskey = ส
@@ -729,8 +732,10 @@ sync-currently-syncing-bookmarks = ที่คั่นหน้า
 sync-currently-syncing-history = ประวัติ
 sync-currently-syncing-tabs = แท็บที่เปิด
 sync-currently-syncing-logins-passwords = การเข้าสู่ระบบและรหัสผ่าน
+sync-currently-syncing-passwords = รหัสผ่าน
 sync-currently-syncing-addresses = ที่อยู่
 sync-currently-syncing-creditcards = บัตรเครดิต
+sync-currently-syncing-payment-methods = วิธีการชำระเงิน
 sync-currently-syncing-addons = ส่วนเสริม
 sync-currently-syncing-settings = การตั้งค่า
 sync-change-options =
@@ -761,6 +766,10 @@ sync-engine-logins-passwords =
     .label = การเข้าสู่ระบบและรหัสผ่าน
     .tooltiptext = ชื่อผู้ใช้และรหัสผ่านที่คุณบันทึกไว้
     .accesskey = L
+sync-engine-passwords =
+    .label = รหัสผ่าน
+    .tooltiptext = รหัสผ่านที่คุณบันทึกไว้
+    .accesskey = ร
 sync-engine-addresses =
     .label = ที่อยู่
     .tooltiptext = ที่อยู่ไปรษณีย์ที่คุณได้บันทึกไว้ (เดสก์ท็อปเท่านั้น)
@@ -769,6 +778,10 @@ sync-engine-creditcards =
     .label = บัตรเครดิต
     .tooltiptext = ชื่อ, หมายเลข และวันหมดอายุ (เดสก์ท็อปเท่านั้น)
     .accesskey = ต
+sync-engine-payment-methods2 =
+    .label = วิธีการชำระเงิน
+    .tooltiptext = ชื่อ หมายเลขบัตร และวันหมดอายุ
+    .accesskey = ว
 sync-engine-addons =
     .label = ส่วนเสริม
     .tooltiptext = ส่วนขยายและชุดรูปแบบสำหรับ Firefox เดสก์ท็อป
@@ -818,18 +831,32 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = รหัสผ่าน
+    .searchkeywords = การเข้าสู่ระบบ
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = ถามว่าจะบันทึกรหัสผ่านหรือไม่
+    .accesskey = ถ
 forms-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = อ
 forms-generate-passwords =
     .label = แนะนำและสร้างรหัสผ่านที่คาดเดายาก
     .accesskey = แ
+forms-suggest-passwords =
+    .label = แนะนำรหัสผ่านที่คาดเดายาก
+    .accesskey = น
 forms-breach-alerts =
     .label = แสดงการแจ้งเตือนเกี่ยวกับรหัสผ่านสำหรับเว็บไซต์ที่มีการรั่วไหล
     .accesskey = b
 forms-breach-alerts-learn-more-link = เรียนรู้เพิ่มเติม
 preferences-relay-integration-checkbox =
     .label = แนะนำตัวปกปิดอีเมล { -relay-brand-name } เพื่อปกป้องที่อยู่อีเมลของคุณ
+preferences-relay-integration-checkbox2 =
+    .label = แนะนำตัวปกปิดอีเมล { -relay-brand-name } เพื่อปกป้องที่อยู่อีเมลของคุณ
+    .accesskey = แ
 relay-integration-learn-more-link = เรียนรู้เพิ่มเติม
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -838,6 +865,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = การเข้าสู่ระบบที่บันทึกไว้…
     .accesskey = ก
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = เติมชื่อผู้ใช้และรหัสผ่านโดยอัตโนมัติ
+    .accesskey = ต
+forms-saved-passwords =
+    .label = รหัสผ่านที่บันทึกไว้
+    .accesskey = บ
 forms-primary-pw-use =
     .label = ใช้รหัสผ่านหลัก
     .accesskey = ช
@@ -861,6 +895,7 @@ forms-windows-sso =
     .label = อนุญาต Windows single sign-on สำหรับบัญชีที่ทำงานและโรงเรียนของ Microsoft
 forms-windows-sso-learn-more-link = เรียนรู้เพิ่มเติม
 forms-windows-sso-desc = จัดการบัญชีในการตั้งค่าอุปกรณ์ของคุณ
+windows-passkey-settings-label = จัดการพาสคีย์ในการตั้งค่าระบบ
 
 ## OS Authentication dialog
 
@@ -875,6 +910,25 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = การเติมอัตโนมัติ
+autofill-addresses-checkbox = บันทึกและเติมที่อยู่อัตโนมัติ
+    .accesskey = ท
+autofill-saved-addresses-button = ที่อยู่ที่บันทึกไว้
+    .accesskey = บ
+autofill-payment-methods-checkbox-message = บันทึกและเติมวิธีการชำระเงิน
+    .accesskey = ว
+autofill-payment-methods-checkbox-submessage = รวมบัตรเครดิตและเดบิตด้วย
+    .accesskey = ร
+autofill-saved-payment-methods-button = วิธีการชำระเงินที่บันทึกไว้
+    .accesskey = ไ
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] ต้องยืนยันตัวตนกับ macOS เพื่อเติมและแก้ไขวิธีการชำระเงิน
+        [windows] ต้องยืนยันตัวตนกับ Windows เพื่อเติมและแก้ไขวิธีการชำระเงิน
+        [linux] ต้องยืนยันตัวตนกับ Linux เพื่อเติมและแก้ไขวิธีการชำระเงิน
+       *[other] ต้องยืนยันตัวตนเพื่อเติมและแก้ไขวิธีการชำระเงิน
+    }
+    .accesskey = ต
 
 ## Privacy Section - History
 

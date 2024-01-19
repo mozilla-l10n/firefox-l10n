@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = รายงานของคุณถูกส่งไปแล้ว
     .title = รายงานของคุณถูกส่งไปแล้ว
 report-broken-site-panel-report-sent-text = ขอบคุณที่ช่วย { -brand-product-name } ทำให้เว็บเปิดกว้าง เข้าถึงได้ และดียิ่งขึ้นสำหรับทุกคน
+report-broken-site-panel-invalid-url-label = โปรดป้อน URL ที่ถูกต้อง
+report-broken-site-panel-missing-reason-label = โปรดเลือกเหตุผล
