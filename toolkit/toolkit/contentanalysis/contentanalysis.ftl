@@ -12,6 +12,12 @@ contentanalysis-slow-agent-dialog-title = กำลังทำการวิ�
 contentanalysis-slow-agent-dialog-body = การวิเคราะห์เนื้อหากำลังวิเคราะห์ทรัพยากร “{ $content }”
 contentanalysis-operationtype-clipboard = คลิปบอร์ด
 contentanalysis-operationtype-dropped-text = ข้อความที่ปล่อย
+contentanalysis-warndialogtitle = เนื้อหานี้อาจไม่ปลอดภัย
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = องค์กรของคุณใช้ซอฟต์แวร์ป้องกันข้อมูลสูญหายซึ่งระบุว่าเนื้อหานี้ไม่ปลอดภัย: { $content } ต้องการใช้ต่อไปหรือไม่?
+contentanalysis-warndialog-response-allow = ใช้เนื้อหา
+contentanalysis-warndialog-response-deny = ยกเลิก
 contentanalysis-notification-title = การวิเคราะห์เนื้อหา
 # Variables:
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
