@@ -177,3 +177,4 @@ about-webauthn-ctap2-enroll-feedback-merge-failure = Mintaegyesítési hiba.
 about-webauthn-ctap2-enroll-feedback-exists = A minta már létezik.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Nincs tevékenység a felhasználótól.
 about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = A felhasználó nem a várt módon fejezte be a mintavételezést.
+about-webauthn-ctap2-enroll-feedback-other = Mintahiba.
