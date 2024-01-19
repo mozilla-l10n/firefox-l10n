@@ -30,6 +30,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% selesai
 firefoxview-tabpickup-step-signin-header = Beralih antara perangkat dengan mulus
 firefoxview-tabpickup-step-signin-description = Untuk mengambil tab ponsel Anda di sini, masuk terlebih dahulu atau buat akun.
 firefoxview-tabpickup-step-signin-primarybutton = Lanjutkan
+firefoxview-syncedtabs-signin-header = Ambil tab dari mana saja
 firefoxview-syncedtabs-signin-primarybutton = Masuk atau daftar
 firefoxview-tabpickup-adddevice-header = Sinkronkan { -brand-product-name } di ponsel atau tablet Anda
 firefoxview-tabpickup-adddevice-description = Unduh { -brand-product-name } untuk ponsel dan masuk di sana.
@@ -94,6 +95,8 @@ firefoxview-collapse-button-show =
     .title = Tampilkan daftar
 firefoxview-collapse-button-hide =
     .title = Sembunyikan daftar
+firefoxview-overview-nav = Baru saja dijelajahi
+    .title = Baru saja dijelajahi
 
 ## History in this context refers to browser history
 
@@ -160,6 +163,7 @@ firefoxview-choose-browser-button = Pilih peramban
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Tidak ada yang ditampilkan
 
 ##
 
