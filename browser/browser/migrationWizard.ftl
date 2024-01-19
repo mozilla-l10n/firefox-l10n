@@ -76,6 +76,7 @@ migration-bookmarks-option-label = ที่คั่นหน้า
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = รายการโปรด
 migration-logins-and-passwords-option-label = การเข้าสู่ระบบและรหัสผ่านที่บันทึกไว้
+migration-passwords-option-label = รหัสผ่านที่บันทึกไว้
 migration-history-option-label = ประวัติการเรียกดู
 migration-extensions-option-label = ส่วนขยาย
 migration-form-autofill-option-label = ข้อมูลกรอกแบบฟอร์มอัตโนมัติ

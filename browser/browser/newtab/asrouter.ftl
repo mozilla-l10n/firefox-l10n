@@ -243,6 +243,7 @@ device-migration-fxa-spotlight-older-device-header = ให้คุณอุ่
 device-migration-fxa-spotlight-older-device-body = บัญชีจะคอยอัปเดตและปกป้องข้อมูลสำคัญของคุณบนอุปกรณ์ใดๆ ก็ตามที่คุณเชื่อมต่อ
 device-migration-fxa-spotlight-older-device-primary-button = สร้างบัญชี
 device-migration-fxa-spotlight-getting-new-device-header-2 = คิดจะมีอุปกรณ์ใหม่ในภายหลังใช่ไหม?
+device-migration-fxa-spotlight-getting-new-device-body-2 = ทำตามขั้นตอนง่ายๆ ไม่กี่ขั้นตอนเพื่อนำที่คั่นหน้า ประวัติ และรหัสผ่านติดตัวไปด้วยเมื่อคุณเริ่มใช้งานอุปกรณ์ใหม่
 device-migration-fxa-spotlight-getting-new-device-primary-button = วิธีสำรองข้อมูลของฉัน
 
 ## Set as Default PDF Reader Infobar

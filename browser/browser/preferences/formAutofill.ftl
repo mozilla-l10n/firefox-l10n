@@ -9,6 +9,8 @@ autofill-manage-addresses-title = ที่อยู่ที่บันทึ�
 autofill-manage-addresses-list-header = ที่อยู่
 autofill-manage-credit-cards-title = บัตรเครดิตที่บันทึกไว้
 autofill-manage-credit-cards-list-header = บัตรเครดิต
+autofill-manage-payment-methods-title = วิธีการชำระเงินที่บันทึกไว้
+autofill-manage-cards-list-header = บัตร
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = เอาออก
@@ -128,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } กำลังพยายามจะแสดงข้อมูลบัตรเครดิต ยืนยันการเข้าถึงบัญชี Windows นี้ด้านล่าง
        *[other] { -brand-short-name } กำลังพยายามจะแสดงข้อมูลบัตรเครดิต
     }
+autofill-message-tooltip = ดูข้อความเกี่ยวกับการเติมอัตโนมัติ
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = เพิ่มบัตร
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = แก้ไขบัตร
 autofill-card-number = หมายเลขบัตร
 autofill-card-invalid-number = โปรดป้อนหมายเลขบัตรที่ถูกต้อง
 autofill-card-name-on-card = ชื่อบนบัตร

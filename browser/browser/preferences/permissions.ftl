@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = การเข้าสู่ระบบสำหรับเว็บไซต์ต่อไปนี้จะไม่ถูกบันทึก
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = ข้อยกเว้น - รหัสผ่านที่บันทึกไว้
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } จะไม่บันทึกรหัสผ่านสำหรับไซต์ที่แสดงไว้ที่นี่
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
