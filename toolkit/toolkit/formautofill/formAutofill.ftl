@@ -21,6 +21,9 @@ autofill-options-link-osx = Automatikus űrlapkitöltési beállítások
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Az összes mentett kártya szinkronizálása a saját eszközök közt
 # Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Elmenti biztonságosan ezt a kártyát?
 credit-card-save-doorhanger-description = A { -brand-short-name } titkosítja a kártyaszámát. A biztonsági kód nem lesz mentve.
