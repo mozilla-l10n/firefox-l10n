@@ -61,15 +61,31 @@ shopping-message-bar-analysis-in-progress-message2 = Ini bisa memakan waktu seki
 # Variables:
 #  $percentage (Number) - The percentage complete that the analysis is, per our servers.
 shopping-message-bar-analysis-in-progress-with-amount = Memeriksa kualitas ulasan ({ $percentage }%)
+shopping-message-bar-page-not-supported =
+    .heading = Kami tidak dapat memeriksa ulasan ini
+    .message = Sayangnya, kami tidak dapat memeriksa kualitas ulasan untuk beberapa tipe produk. Misalnya, kartu hadiah, penyiaran video, musik, dan gim.
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Sorotan dari ulasan terbaru
+shopping-highlight-price = Harga
+shopping-highlight-quality = Kualitas
+shopping-highlight-shipping = Pengiriman
+shopping-highlight-competitiveness = Daya Saing
+shopping-highlight-packaging = Pengemasan
 
 ## Strings for show more card
 
+shopping-show-more-button = Lebih banyak
+shopping-show-less-button = Lebih sedikit
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Pengaturan
+shopping-settings-recommendations-toggle =
+    .label = Tampilkan iklan di Pemeriksa Ulasan
 
 ## Strings for the adjusted rating component
 
@@ -96,6 +112,14 @@ shopping-message-bar-analysis-in-progress-with-amount = Memeriksa kualitas ulasa
 
 ## Shopping survey strings.
 
+shopping-survey-q2-radio-1-label = Ya
+shopping-survey-q2-radio-2-label = Tidak
+shopping-survey-q2-radio-3-label = Tidak tahu
+shopping-survey-next-button-label = Selanjutnya
+shopping-survey-submit-button-label = Kirim
+shopping-survey-terms-link = Ketentuan penggunaan
+shopping-survey-thanks =
+    .heading = Terima kasih atas masukan Anda!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
