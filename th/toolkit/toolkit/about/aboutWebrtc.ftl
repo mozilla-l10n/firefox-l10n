@@ -100,6 +100,9 @@ about-webrtc-debug-mode-off-state-label = เริ่มโหมดดีบ�
 about-webrtc-debug-mode-on-state-label = หยุดโหมดดีบั๊ก
 about-webrtc-enable-logging-label = เปิดใช้งานพรีเซ็ตปูม WebRTC
 about-webrtc-stats-heading = สถิติวาระ
+about-webrtc-peerconnections-section-heading = สถิติ RTCPeerConnection
+about-webrtc-peerconnections-section-show-msg = แสดงสถิติ RTCPeerConnection
+about-webrtc-peerconnections-section-hide-msg = ซ่อนสถิติ RTCPeerConnection
 about-webrtc-stats-clear = ล้างประวัติ
 about-webrtc-log-heading = รายการบันทึกการเชื่อมต่อ
 about-webrtc-log-clear = ล้างรายการบันทึก
@@ -194,6 +197,13 @@ about-webrtc-configuration-element-provided = จัดเตรียมไว�
 about-webrtc-configuration-element-not-provided = ไม่ได้จัดเตรียมไว้
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = การกำหนดลักษณะ WebRTC ที่ตั้งโดยผู้ใช้
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = แบนด์วิดท์โดยประมาณ
 # The ID of the MediaStreamTrack
@@ -295,9 +305,6 @@ about-webrtc-sdp-set-timestamp = ประทับเวลา { NUMBER($timest
 
 about-webrtc-show-msg-sdp = แสดง SDP
 about-webrtc-hide-msg-sdp = ซ่อน SDP
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
