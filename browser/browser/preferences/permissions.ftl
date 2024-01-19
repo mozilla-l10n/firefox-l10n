@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Pengecualian
     .style = min-width: 41em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Alamat situs web
     .accesskey = l
-
 permissions-block =
     .label = Blokir
     .accesskey = B
-
 permissions-disable-etp =
     .label = Tambah Pengecualian
     .accesskey = P
-
 permissions-session =
     .label = Izinkan untuk Sesi ini
     .accesskey = S
-
 permissions-allow =
     .label = Izinkan
     .accesskey = I
-
 permissions-button-off =
     .label = Nonaktifkan
     .accesskey = N
-
 permissions-button-off-temporarily =
     .label = Nonaktifkan Sementara
     .accesskey = S
-
 permissions-site-name =
     .label = Situs web
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Hapus Situs Web
     .accesskey = H
-
 permissions-remove-all =
     .label = Hapus Semua Situs Web
     .accesskey = a
-
 permission-dialog =
     .buttonlabelaccept = Simpan Perubahan
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Baku untuk semua situs Web:
-
 permissions-searchbox =
     .placeholder = Cari Situs Web
-
 permissions-capabilities-autoplay-allow =
     .label = Izinkan Audio dan Video
 permissions-capabilities-autoplay-block =
     .label = Blokir Audio
 permissions-capabilities-autoplay-blockall =
     .label = Blokir Audio dan Video
-
 permissions-capabilities-allow =
     .label = Izinkan
 permissions-capabilities-block =
     .label = Blokir
 permissions-capabilities-prompt =
     .label = Tanyakan Selalu
-
 permissions-capabilities-listitem-allow =
     .value = Izinkan
 permissions-capabilities-listitem-block =
     .value = Blokir
 permissions-capabilities-listitem-allow-session =
     .value = Izinkan untuk Sesi ini
-
 permissions-capabilities-listitem-off =
     .value = Nonaktif
 permissions-capabilities-listitem-off-temporarily =
@@ -124,6 +105,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Pengecualian - Info Masuk Tersimpan
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Info masuk untuk situs berikut ini tidak akan disimpan
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -193,3 +177,9 @@ permissions-site-microphone-disable-desc = Ini akan mencegah situs web apa pun y
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-doh-remove =
+    .label = Hapus
+    .accesskey = H
+permissions-doh-remove-all =
+    .label = Hapus Semua
+    .accesskey = H

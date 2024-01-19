@@ -128,6 +128,10 @@ startup-restore-warn-on-quit =
     .label = Memperingatkan Anda saat keluar dari peramban
 disable-extension =
     .label = Nonaktifkan Ekstensi
+preferences-data-migration-header = Impor Data Peramban
+preferences-data-migration-button =
+    .label = Impor Data
+    .accesskey = I
 tabs-group-header = Tab
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab berputar melalui tab dalam urutan yang baru saja digunakan
@@ -792,6 +796,9 @@ pane-privacy-logins-and-passwords-header = Info Masuk & Sandi
 forms-ask-to-save-logins =
     .label = Minta untuk menyimpan info masuk dan kata sandi untuk situs web
     .accesskey = M
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Pengecualian…
     .accesskey = c
@@ -844,6 +851,9 @@ primary-password-os-auth-dialog-message-win = Untuk membuat Sandi Utama, masukka
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = membuat Sandi Utama
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1069,6 +1079,9 @@ permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Setelan…
     .accesskey = t
+permissions-speaker-settings =
+    .label = Pengaturan…
+    .accesskey = P
 permissions-notification = Notifikasi
 permissions-notification-settings =
     .label = Setelan…
