@@ -18,6 +18,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Kata Sandi dari file CSV
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -36,9 +37,15 @@ migration-imported-edge-reading-list = Daftar Bacaan (Dari Edge)
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Impor semua data tersedia
+migration-selected-data-label = Impor data terpilih
 
 ##
 
+migration-select-all-option-label = Pilih semua
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Favorit
 migration-payment-methods-option-label = Metode pembayaran
 migration-cookies-option-label = Kuki
 # A description for the .csv file format that may be shown as the file type
@@ -55,6 +62,10 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Berkas TSV
        *[other] Berkas TSV
     }
+migration-import-button-label = Impor
+migration-cancel-button-label = Batalkan
+migration-done-button-label = Selesai
+migration-continue-button-label = Lanjutkan
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -73,3 +84,4 @@ migration-passwords-from-file-tsv-filter-title =
 
 ##
 
+migration-wizard-safari-instructions-continue = Pilih “Lanjutkan”
