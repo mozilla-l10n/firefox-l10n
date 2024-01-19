@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = บันทึกรหัสผ่านสำหรับ { $host } หรือไม่?
+password-manager-save-password-button-deny =
+    .label = ยังไม่ทำตอนนี้
+    .accesskey = ม
 password-manager-save-password-button-allow =
     .label = บันทึก
     .accesskey = บ
@@ -17,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = อัปเดตรหัสผ่านสำหรับ { $host } หรือไม่
+password-manager-update-password-button-delete =
+    .label = เอารหัสผ่านที่บันทึกไว้ออก
+    .accesskey = อ
 password-manager-update-login-add-username = เพิ่มชื่อผู้ใช้ในรหัสผ่านที่บันทึกไว้หรือไม่?
 password-manager-password-password-button-allow =
     .label = อัปเดต
