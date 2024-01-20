@@ -465,6 +465,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Totjorn afichar las barras de defilaments
     .accesskey = o
+browsing-always-underline-links =
+    .label = Totjorn soslinhar los ligams
+    .accesskey = u
 browsing-use-onscreen-keyboard =
     .label = Mostrar un clavièr tactil quand es necessari
     .accesskey = t
@@ -605,6 +608,9 @@ search-suggestions-desc = Causissètz cossí apareisseràn las suggestions dels 
 search-suggestions-option =
     .label = Mostrar de suggestions de recèrca
     .accesskey = A
+search-show-suggestions-option =
+    .label = Mostrar las suggestions de recèrca
+    .accesskey = M
 search-show-suggestions-url-bar-option =
     .label = Mostrar las suggestions dins los resultats de la barra d'adreça
     .accesskey = l
@@ -837,12 +843,19 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Senhals
     .searchkeywords = identificants
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Prepausar d’enregistrar los senhals
+    .accesskey = P
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
 forms-generate-passwords =
     .label = Suggerir e generar de senhals fòrts
     .accesskey = u
+forms-suggest-passwords =
+    .label = Suggerir un senhal fòrt
+    .accesskey = S
 forms-breach-alerts =
     .label = Afichar las alèrtas pels senhals dels sites concernits per de pèrdas de donadas
     .accesskey = A
@@ -897,6 +910,8 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+autofill-saved-addresses-button = Adreças salvadas
+    .accesskey = A
 
 ## Privacy Section - History
 
@@ -927,7 +942,7 @@ history-remember-browser-option =
     .label = Servar l'istoric de navegacion e dels telecargaments
     .accesskey = i
 history-remember-search-option =
-    .label = Conservar l'istoric de las recèrcas e dels formularis
+    .label = Servar l'istoric de las recèrcas e dels formularis
     .accesskey = f
 history-clear-on-close-option =
     .label = Voidar l'istoric quand { -brand-short-name } se tampa

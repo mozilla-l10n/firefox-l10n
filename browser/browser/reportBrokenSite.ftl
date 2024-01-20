@@ -38,3 +38,4 @@ report-broken-site-panel-report-sent-header =
     .label = Vòstre senhalament es estat enviat
     .title = Vòstre senhalament es estat enviat
 report-broken-site-panel-invalid-url-label = Picatz una URL de servidor valida
+report-broken-site-panel-missing-reason-label = Mercés de causir una rason
