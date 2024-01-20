@@ -122,7 +122,7 @@ menu-edit-find-again =
     .label = מצא שוב
     .accesskey = ש
 menu-edit-bidi-switch-text-direction =
-    .label = הפוך כיוון כתיבה
+    .label = היפוך כיוון כתיבה
     .accesskey = כ
 
 ## View Menu

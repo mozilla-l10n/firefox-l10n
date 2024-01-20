@@ -70,7 +70,7 @@ migration-selected-data-label = ייבוא נתונים שנבחרו
 
 ##
 
-migration-select-all-option-label = בחירת הכול
+migration-select-all-option-label = בחירה בהכול
 migration-bookmarks-option-label = סימניות
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
