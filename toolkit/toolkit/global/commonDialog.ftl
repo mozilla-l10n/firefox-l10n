@@ -17,5 +17,5 @@ common-dialog-copy-cmd =
     .label = העתקה
     .accesskey = ה
 common-dialog-select-all-cmd =
-    .label = בחירת הכול
+    .label = בחירה בהכול
     .accesskey = ב
