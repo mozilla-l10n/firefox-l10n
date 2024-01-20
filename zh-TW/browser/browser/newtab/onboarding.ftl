@@ -11,7 +11,7 @@
 ## Welcome page strings
 
 onboarding-welcome-header = 歡迎使用 { -brand-short-name }
-onboarding-start-browsing-button-label = 開始瀏覽
+onboarding-start-browsing-button-label = 開始上網
 onboarding-not-now-button-label = 現在不要
 mr1-onboarding-get-started-primary-button-label = 開始使用
 
@@ -283,7 +283,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = 顯示詳細資�
 mr2022-onboarding-gratitude-title = 您正在幫助我們打造更好的網路環境
 mr2022-onboarding-gratitude-subtitle = 感謝您使用由 Mozilla Foundation 所支持開發的 { -brand-short-name }。透過您的支援，我們努力讓網路環境變得更好、更開放、更可被所有人使用。
 mr2022-onboarding-gratitude-primary-button-label = 看看有什麼新鮮事
-mr2022-onboarding-gratitude-secondary-button-label = 開始瀏覽
+mr2022-onboarding-gratitude-secondary-button-label = 開始上網
 
 ## Onboarding spotlight for infrequent users
 
