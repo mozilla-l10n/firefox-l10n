@@ -324,7 +324,7 @@ onboarding-device-migration-primary-button-label = 登入
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = 我們希望確保您上網安全
-onboarding-easy-setup-security-and-privacy-subtitle = 我們這套由非營利組織所開發的瀏覽器會自動封鎖讓大企業在網路上偷偷跟蹤您的程式。
+onboarding-easy-setup-security-and-privacy-subtitle = 我們這套由非營利組織所開發的瀏覽器，會自動封鎖讓大企業在網路上偷偷跟蹤您的程式。
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = 在不同裝置間切換時保持加密
 onboarding-mobile-download-security-and-privacy-subtitle = 資料同步完成後，{ -brand-short-name } 即可加密您的網站密碼、書籤與更多資料。另外還可以直接取得您在其他裝置上開啟的分頁。
