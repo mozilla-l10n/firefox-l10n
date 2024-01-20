@@ -74,6 +74,12 @@ item-browsing-and-search =
     .label = Siti visitati, moduli salvati e ricerche
     .accesskey = S
 
+item-history-form-data-downloads =
+    .label = Cronologia
+    .accesskey = C
+
+item-history-form-data-downloads-description = Elimina cronologia dei siti visitati e dei file scaricati, informazioni per la compilazione automatica dei moduli, ricerche
+
 item-cookies =
     .label = Cookie
     .accesskey = o
