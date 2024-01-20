@@ -47,6 +47,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Zmylk: Wopačny PIN. Spytajće hišće raz. Maće hišće { $retriesLeft } pospytow.
     }
 about-webauthn-results-pin-blocked-error = Zmylk: Njejsu žane dalše pospyty móžne a waš grat je zawrjeny, dokelž so wopačny PIN přehusto zapodał. Grat dyrbi so wróćo stajić.
+about-webauthn-results-pin-not-set-error = Zmylk: PIN njeje nastajeny. Tuta operacija sej škit přez PIN wužaduje.
 about-webauthn-results-pin-too-short-error = Zmylk: Podaty PIN je překrótki.
 about-webauthn-results-pin-too-long-error = Zmylk: Podaty PIN je předołhi.
 about-webauthn-results-pin-auth-blocked-error = Zmylk: Je přewjele njeporadźenych pospytow jedyn po druhim a PIN-awtentifikacija je so nachwilu zablokowała. Waš grat dyrbi so wupinać a zaso zapinać (syćowy tykač dyrbi so wućahnyć a zaso nutř tyknyć).
@@ -59,6 +60,8 @@ about-webauthn-repeat-pin-label = Wospjetujće nowy PIN:
 about-webauthn-current-pin-label = Aktualny PIN:
 about-webauthn-pin-required-label = Prošu zapodajće swój PIN:
 about-webauthn-credential-list-subsection-title = Přizjewjenske daty:
+about-webauthn-enrollment-name-label = Registrowanske mjeno (na přeće):
+about-webauthn-enrollment-list-empty = Žane registracije na graće namakane.
 about-webauthn-credential-list-empty = Žane přizjewjenske daty na graće namakane.
 about-webauthn-confirm-deletion-label = Chceće zhašeć:
 
@@ -68,9 +71,13 @@ about-webauthn-current-set-pin-button = PIN postajić
 about-webauthn-current-change-pin-button = PIN změnić
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Lisćina přizjewjenskich datow
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Registracije nalistować
+about-webauthn-add-bio-enrollment-button = Registraciju přidać
 about-webauthn-cancel-button = Přetorhnyć
 about-webauthn-send-pin-button = W porjadku
 about-webauthn-delete-button = Zhašeć
+about-webauthn-start-enrollment-button = Registraciju startować
 about-webauthn-update-button = Aktualizować
 
 ## Authenticator options fields
