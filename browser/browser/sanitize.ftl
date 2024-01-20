@@ -4,24 +4,24 @@
 
 sanitize-prefs2 =
     .title = Impostazioni per la cancellazione della cronologia
-    .style = min-width: 34em
+    .style = min-width: 38em
 
 sanitize-prefs-style =
-    .style = width: 17em
+    .style = width: 21em
 
 sanitize-dialog-title2 =
     .title = Elimina dati di navigazione e cookie
-    .style = min-width: 34em
+    .style = min-width: 38em
 
 sanitize-dialog-title =
     .title = Cancella cronologia recente
-    .style = min-width: 34em
+    .style = min-width: 38em
 
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
     .title = Cancella tutta la cronologia
-    .style = min-width: 34em
+    .style = min-width: 38em
 
 clear-data-settings-label = Alla chiusura di { -brand-short-name } eliminare automaticamente
 
