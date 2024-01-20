@@ -357,3 +357,6 @@ onboarding-new-user-survey-time-based-option-3 = Wjace hač 1 měsac, prawidłow
 onboarding-new-user-survey-time-based-option-4 = Wjace hač 1 měsac, hdys a hdys
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = Sym cyle nowy
+onboarding-new-user-survey-familiarity-based-option-2 = Sym jón hižo něštokróć wužiwał
+onboarding-new-user-survey-familiarity-based-option-3 = Znaju jón jara derje
+onboarding-new-user-survey-familiarity-based-option-4 = Sym jón w zańdźenosći wužiwał, ale je tomu hižo chwila
