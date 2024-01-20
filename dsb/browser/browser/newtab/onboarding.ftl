@@ -359,3 +359,4 @@ onboarding-new-user-survey-time-based-option-4 = Wěcej ako 1 mjasec, pśi góž
 onboarding-new-user-survey-familiarity-based-option-1 = Som cele nowy
 onboarding-new-user-survey-familiarity-based-option-2 = Som jen wužywał južo někotare raze
 onboarding-new-user-survey-familiarity-based-option-3 = Znajom jen wjelgin derje
+onboarding-new-user-survey-familiarity-based-option-4 = Som jen wužywał w zajźonosći, ale jo južo chyla

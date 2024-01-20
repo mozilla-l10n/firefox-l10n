@@ -47,6 +47,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Zmólka: Wopacny PIN. Wopytajśo hyšći raz. Maśo hyšći { $retriesLeft } wopytow.
     }
 about-webauthn-results-pin-blocked-error = Zmólka: Njejsu žedne dalšne wopyty móžne a waš rěd jo zastajony, dokulaž se wopacny PIN pśecesto zapódał. Rěd musy se slědk stajiś.
+about-webauthn-results-pin-not-set-error = Zmólka: PIN njejo nastajony. Toś ta operacija se šćit pśez PIN pomina.
 about-webauthn-results-pin-too-short-error = Zmólka: Pódany PIN jo pśekrotki.
 about-webauthn-results-pin-too-long-error = Zmólka: Pódany PIN jo pśedłujki.
 about-webauthn-results-pin-auth-blocked-error = Zmólka:. Dajo pśewjele njeraźonych wopytow jaden pó drugem a PIN-awtentifikacija jo se nachylu blokěrowała. Waš rěd musy se wušaltowaś a zasej zašaltowaś (seśowy tykac musy se wuśěgnuś a zasej nutś tyknuś).
@@ -59,6 +60,8 @@ about-webauthn-repeat-pin-label = Wóspjetujśo nowy PIN:
 about-webauthn-current-pin-label = Aktualny PIN:
 about-webauthn-pin-required-label = Pšosym zapódajśo swój PIN:
 about-webauthn-credential-list-subsection-title = Pśizjawjeńske daty:
+about-webauthn-enrollment-name-label = Registrěrowańske mě (na žycenje):
+about-webauthn-enrollment-list-empty = Žedne registracije na rěźe namakane.
 about-webauthn-credential-list-empty = Žedne pśizjawjeńske daty na rěźe namakane.
 about-webauthn-confirm-deletion-label = Cośo lašowaś:
 
@@ -68,9 +71,13 @@ about-webauthn-current-set-pin-button = PIN póstajiś
 about-webauthn-current-change-pin-button = PIN změniś
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Lisćina pśizjawjeńskich datow
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Registracije nalicyś
+about-webauthn-add-bio-enrollment-button = Registraciju pśidaś
 about-webauthn-cancel-button = Pśetergnuś
 about-webauthn-send-pin-button = W pórěźe
 about-webauthn-delete-button = Lašowaś
+about-webauthn-start-enrollment-button = Registraciju startowaś
 about-webauthn-update-button = Aktualizěrowaś
 
 ## Authenticator options fields
@@ -138,6 +145,18 @@ about-webauthn-auth-info-null = Njepódprěty
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } muster hyšći trjebny.
+        [two] { $repeatCount } mustra hyšći trjebnej.
+        [few] { $repeatCount } mustry hyšći trjebne.
+       *[other] { $repeatCount } mustrow hyšći trjebne.
+    }
 # Scan (e.g. of fingerprint) was successful.
 about-webauthn-ctap2-enroll-feedback-good = Pśikład jo był dobry.
 
@@ -156,7 +175,10 @@ about-webauthn-ctap2-enroll-feedback-poor-quality = Pśikład jo měł špatnu k
 # Skewed in the sense of fingerprint/iris scan was too distorted
 about-webauthn-ctap2-enroll-feedback-too-skewed = Pśikład jo był spryšćony.
 about-webauthn-ctap2-enroll-feedback-too-short = Pśikład jo był pśekrotki.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Zmólka pśi zjadnośenju mustrow.
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
 about-webauthn-ctap2-enroll-feedback-exists = Pśikład južo eksistěrujo.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Žedna aktiwita wót wužywarja.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Wužywaŕ njejo dokóńcył wuběranje mustrow ako wótcakane.
 about-webauthn-ctap2-enroll-feedback-other = Pśikładowa zmólka.
