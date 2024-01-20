@@ -15,7 +15,7 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .title = Suprimir tot l'istoric
     .style = min-width: 34em
-clear-data-settings-label = En tampant { -brand-short-name }, escafant automaticament los elements seguents
+clear-data-settings-label = En tampant { -brand-short-name }, s’escafan automaticament los elements seguents
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -51,6 +51,9 @@ item-history-and-downloads =
 item-cookies =
     .label = Cookies
     .accesskey = C
+item-cookies-site-data =
+    .label = Cookies e donadas de sites
+    .accesskey = e
 item-active-logins =
     .label = Connexions activas
     .accesskey = a
