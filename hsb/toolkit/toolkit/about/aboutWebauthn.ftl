@@ -145,6 +145,18 @@ about-webauthn-auth-info-null = Njepodpěrany
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } muster hišće trěbny.
+        [two] { $repeatCount } mustraj hišće trěbnej.
+        [few] { $repeatCount } mustry hišće trěbne.
+       *[other] { $repeatCount } mustrow hišće trěbnych.
+    }
 # Scan (e.g. of fingerprint) was successful.
 about-webauthn-ctap2-enroll-feedback-good = Přikład je dobry był.
 
@@ -163,7 +175,10 @@ about-webauthn-ctap2-enroll-feedback-poor-quality = Přikład je špatnu kwalitu
 # Skewed in the sense of fingerprint/iris scan was too distorted
 about-webauthn-ctap2-enroll-feedback-too-skewed = Přikład je přejara skrjesleny był.
 about-webauthn-ctap2-enroll-feedback-too-short = Přikład je překrótki był.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Zmylk při zjednoćenju mustrow.
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
 about-webauthn-ctap2-enroll-feedback-exists = Přikład hižo eksistuje.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Žana aktiwita wot wužiwarja.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Wužiwar njeje wuběranje mustrow kaž wočakowane dokónčił.
 about-webauthn-ctap2-enroll-feedback-other = Přikładowy zmylk.
