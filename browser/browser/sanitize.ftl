@@ -73,6 +73,7 @@ item-cache =
 item-cached-content =
     .label = ไฟล์และหน้าที่แคชไว้ชั่วคราว
     .accesskey = ฟ
+item-cached-content-description = ล้างรายการที่ช่วยให้โหลดไซต์ได้เร็วขึ้น
 item-form-search-history =
     .label = ประวัติแบบฟอร์มและการค้นหา
     .accesskey = ว
