@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = ᱱᱟᱶᱟ ᱞᱚᱜᱤᱱ ᱛᱮᱭᱟᱨ ᱢᱮ
+about-logins-page-title-name = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
+about-logins-login-filter2 =
+    .placeholder = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+    .key = F
+create-login-button =
+    .title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱮᱞᱮᱫ ᱢᱮ
 fxaccounts-sign-in-text = ᱵᱷᱮᱜᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱧᱟᱢ ᱛᱟᱢ
 fxaccounts-sign-in-sync-button = ᱛᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ
 fxaccounts-avatar-button =
@@ -23,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = ᱮᱴᱟᱜᱟᱜ ᱵ�
 about-logins-menu-menuitem-import-from-a-file = ᱨᱮᱫ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ…
 about-logins-menu-menuitem-export-logins = ᱵᱚᱞᱚ ᱠᱚ ᱵᱷᱮᱡᱟᱭ ᱢᱮ…
 about-logins-menu-menuitem-remove-all-logins = ᱡᱷᱚᱛᱚ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ…
+about-logins-menu-menuitem-export-logins2 = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱷᱮᱡᱟᱭ ᱢᱮ…
+about-logins-menu-menuitem-remove-all-logins2 = ᱡᱷᱚᱛᱚ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ᱚᱯᱥᱚᱱᱥ
@@ -50,6 +58,14 @@ login-list-filtered-count =
         [one] { $total } ᱠᱷᱚᱱ { $count } ᱵᱚᱞᱚ
         [two] { $total } ᱠᱷᱚᱱ { $count } ᱵᱚᱞᱚ ᱠᱤᱱ
        *[other] { $total } ᱠᱷᱚᱱ { $count } ᱵᱚᱞᱚ ᱠᱚ
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ
+        [two] { $count } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱤᱱ
+       *[other] { $count } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ
     }
 login-list-sort-label-text = ᱥᱚᱨᱴ ᱵᱭᱺ
 login-list-name-option = ᱧᱩᱛᱩᱢ(ᱚᱼᱷ)
