@@ -95,9 +95,14 @@ shopping-settings-recommendations-toggle =
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-review-grading-scale-unreliable = Ulasan yang tidak dapat diandalkan. Kami yakin ulasan tersebut kemungkinan palsu atau dari pengulas yang bias.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Buka Review Checker
+shopping-sidebar-close-button2 =
+    .tooltiptext = Tutup Review Checker
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -106,12 +111,24 @@ shopping-settings-recommendations-toggle =
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Belum ada informasi tentang ulasan ini
+shopping-unanalyzed-product-message-2 = Untuk mengetahui apakah ulasan produk ini dapat diandalkan, periksa kualitas ulasan. Ini hanya membutuhkan sekitar 60 detik
+shopping-unanalyzed-product-analyze-button = Periksa kualitas ulasan
 
 ## Strings for the advertisement
 
+ad-by-fakespot = Iklan oleh { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Bantu tingkatkan { -brand-product-name }
+shopping-survey-question-one = Seberapa puaskah Anda dengan pengalaman Review Checker di { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Sangat puas
+shopping-survey-q1-radio-2-label = Puas
+shopping-survey-q1-radio-3-label = Netral
+shopping-survey-q1-radio-4-label = Tidak puas
+shopping-survey-q1-radio-5-label = Sangat tidak puas
+shopping-survey-question-two = Apakah Review Checker memudahkan Anda membuat keputusan pembelian?
 shopping-survey-q2-radio-1-label = Ya
 shopping-survey-q2-radio-2-label = Tidak
 shopping-survey-q2-radio-3-label = Tidak tahu
@@ -125,6 +142,18 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Kembali ke <strong>Review Checker</strong> kapan saja Anda melihat harga.
+shopping-callout-pdp-opted-in-title = Apakah ulasan ini dapat diandalkan? Temukan dengan cepat.
 
 ## Onboarding message strings.
 
+shopping-onboarding-not-now-button = Jangan sekarang
+shopping-onboarding-dialog-close-button =
+    .title = Tutup
+    .aria-label = Tutup
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Kemajuan: langkah { $current } dari { $total }
