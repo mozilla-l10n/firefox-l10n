@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Tab Baru
 tabbrowser-empty-private-tab-title = Tab Pribadi Baru
-
 tabbrowser-menuitem-close-tab =
     .label = Tutup Tab
 tabbrowser-menuitem-close =
     .label = Tutup
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -96,7 +93,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Jangan tampilkan kotak dialog ini la
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Izinkan notifikasi seperti ini dari { $domain } untuk membawa Anda membuka tab mereka
-
 tabbrowser-customizemode-tab-title = Ubahsuai { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -115,6 +111,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Bunyikan Tab
     .accesskey = S
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Memutar audio
 
 ## Ctrl-Tab dialog
 
@@ -125,3 +123,5 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab manager menu buttons
 
+tabbrowser-manager-close-tab =
+    .tooltiptext = Tutup tab
