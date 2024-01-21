@@ -78,6 +78,12 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name }
     .tooltiptext = { -fxaccount-brand-name }
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = الحساب
+    .tooltiptext = الحساب
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -291,6 +297,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = استعمل جلسة ولوج محفوظة
     .accesskey = ع
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = استعمل كلمة سر محفوظة
     .accesskey = ع
@@ -306,6 +313,9 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-logins2 =
     .label = أدِر جلسات الولوج
     .accesskey = د
+main-context-menu-manage-passwords =
+    .label = أدِر كلمات السر
+    .accesskey = س
 main-context-menu-keyword =
     .label = أضِف كلمة رئيسية لهذا البحث…
     .accesskey = ك
