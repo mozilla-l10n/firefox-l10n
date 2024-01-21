@@ -142,6 +142,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = عطّل
 protections-panel-cookie-banner-view-turn-on-label =
     .label = فعّل
+protections-panel-report-broken-site =
+    .label = أبلِغ عن موقع معطوب
+    .title = أبلِغ عن موقع معطوب
 
 ## Protections panel info message
 
