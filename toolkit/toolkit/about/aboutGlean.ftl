@@ -55,7 +55,7 @@ about-glean-no-ping-label = (ไม่ต้องส่ง Ping ใดๆ)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = ตรวจดูให้แน่ใจว่ามีแท็กการดีบั๊กที่จำง่ายในฟิลด์ที่นำหน้าเพื่อให้คุณสามารถพบ Ping ของคุณภายหลังได้
 # An in-line text input field precedes this string.
-about-glean-label-for-tag-pings-with-requirements = ตั้งแท็กดีบั๊กที่จำง่าย <span>(อักขระไม่เกิน 20 ตัว ประกอบด้วยตัวอักษรเลขและ - เท่านั้น)
+about-glean-label-for-tag-pings-with-requirements = ตั้งแท็กดีบั๊กที่จำง่าย <span>(อักขระไม่เกิน 20 ตัว ประกอบด้วยตัวอักษรเลขและ - เท่านั้น)</span>
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
