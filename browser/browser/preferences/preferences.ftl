@@ -614,6 +614,9 @@ search-suggestions-desc = اختر طريقة عرض اقتراحات محركا
 search-suggestions-option =
     .label = اعرض اقتراحات البحث
     .accesskey = ع
+search-show-suggestions-option =
+    .label = اعرض اقتراحات البحث
+    .accesskey = ت
 search-show-suggestions-url-bar-option =
     .label = أظهر اقتراحات البحث في نتائج شريط العناوين
     .accesskey = ت
@@ -712,6 +715,9 @@ sync-signedin-login-failure = من فضلك لج لإعادة التوصيل { $
 sync-resend-verification =
     .label = أعِد إرسال التأكيد
     .accesskey = س
+sync-verify-account =
+    .label = أكّد الحساب
+    .accesskey = س
 sync-remove-account =
     .label = أزِل الحساب
     .accesskey = ز
@@ -744,8 +750,10 @@ sync-currently-syncing-bookmarks = العلامات
 sync-currently-syncing-history = التأريخ
 sync-currently-syncing-tabs = الألسنة المفتوحة
 sync-currently-syncing-logins-passwords = جلسات الولوج وكلمات السر
+sync-currently-syncing-passwords = كلمات السر
 sync-currently-syncing-addresses = العناوين
 sync-currently-syncing-creditcards = بطاقات الائتمان
+sync-currently-syncing-payment-methods = طرق الدفع
 sync-currently-syncing-addons = الإضافات
 sync-currently-syncing-settings = الإعدادات
 sync-change-options =
@@ -776,6 +784,10 @@ sync-engine-logins-passwords =
     .label = جلسات الولوج وكلمات السر
     .tooltiptext = أسماء المستخدمين وكلمات السر التي حفظتها
     .accesskey = س
+sync-engine-passwords =
+    .label = كلمات السر
+    .tooltiptext = كلمات السر التي حفظتها
+    .accesskey = ك
 sync-engine-addresses =
     .label = العناوين
     .tooltiptext = العناوين البريدية التي حفظتها (لسطح المكتب فقط)
@@ -830,6 +842,9 @@ pane-privacy-logins-and-passwords-header = جلسات الولوج وكلمات 
 forms-ask-to-save-logins =
     .label = اطلب مني حفظ كلمات سر و بيانات ولوج مواقع الوِب
     .accesskey = ط
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = الاستثناءات…
     .accesskey = س
@@ -884,6 +899,9 @@ primary-password-os-auth-dialog-message-win = أدخِل معلومات ولوج
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = أنشِئ كلمة سر رئيسية
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1238,6 +1256,7 @@ preferences-doh-strict-detailed-desc-3 = إذا لم يكن DNS الآمن مت�
 preferences-doh-checkbox-warn =
     .label = حذر إذا كان هناك طرف ثالث يمنع DNS الآمن
     .accesskey = ح
+preferences-doh-select-resolver = اختر المزود:
 preferences-doh-exceptions-description = لن يستخدم { -brand-short-name } DNS الآمن على هذه المواقع
 preferences-doh-manage-exceptions =
     .label = أدِر الاستثناءات…
