@@ -127,7 +127,7 @@ printui-paper-tabloid = Tabloid
 
 printui-error-invalid-scale = يجب أن يكون المقياس بين 10 و200.
 printui-error-invalid-margin = من فضلك أدخِل هامشًا صحيحًا لمقاس الورقة الذي حدّدته.
-printui-error-invalid-copies = يجب أن تكون النسخ عددًا يتراوح بين 1 و 10000.
+printui-error-invalid-copies = يجب أن تكون النُسخ عددًا يتراوح بين 1 و 10000.
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = يجب أن يكون النطاق بين 1 و{ $numPages }.
