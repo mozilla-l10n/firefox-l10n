@@ -103,6 +103,12 @@ monitor-header-content-signed-in = يُحذّرك { -monitor-brand-name } إن �
 monitor-sign-up-link = سجّل لتصلك التنبيهات عن التسريبات
     .title = سجّل لتصلك التنبيهات عن التسريبات على { -monitor-brand-name }
 auto-scan = مجموع ما فُحص اليوم تلقائيًا
+monitor-emails-tooltip =
+    .title = اعرض عناوين البريد الإلكتروني المراقبة على { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = اعرض تسريبات البيانات المعروفة في { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = اعرض كلمات السر المكشوفة على { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -132,6 +138,8 @@ monitor-partial-breaches-motivation-title-start = بداية طيبة!
 monitor-partial-breaches-motivation-title-middle = واصل على هذا النحو!
 monitor-partial-breaches-motivation-title-end = أوشكنا! واصل على هذا النحو.
 monitor-partial-breaches-motivation-description = حُلّ بقية التسريبات على { -monitor-brand-short-name }.
+monitor-resolve-breaches-link = حُلّ التسريبات
+    .title = حُلّ التسريبات على { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -161,4 +169,37 @@ bar-tooltip-cookie =
             [few] { $count } كعكات من الكعكات التي تتعقّبك بين المواقع ({ $percentage }%)
             [many] { $count } كعكة من الكعكات التي تتعقّبك بين المواقع ({ $percentage }%)
            *[other] { $count } كعكة من الكعكات التي تتعقّبك بين المواقع ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = المحتوى الذي يتعقّبك
+    .aria-label =
+        { $count ->
+            [zero] { $count } محتوى يتعقّبك ({ $percentage }٪)
+            [one] { $count } محتوى واحد يتعقّبك ({ $percentage }٪)
+            [two] { $count } محتويان يتعقّبانك ({ $percentage }٪)
+            [few] { $count } محتويات تتعقّبك ({ $percentage }٪)
+            [many] { $count } محتوى يتعقّبك ({ $percentage }٪)
+           *[other] { $count } محتوى يتعقّبك ({ $percentage }٪)
+        }
+bar-tooltip-fingerprinter =
+    .title = مسجّلات البصمات
+    .aria-label =
+        { $count ->
+            [zero] { $count } مسجّلًا للبصمات ({ $percentage }٪)
+            [one] { $count } مسجّلٌ واحد للبصمات ({ $percentage }٪)
+            [two] { $count } مسجّلان للبصمات ({ $percentage }٪)
+            [few] { $count } مسجّلاتٍ للبصمات ({ $percentage }٪)
+            [many] { $count } مسجّلًا للبصمات ({ $percentage }٪)
+           *[other] { $count } مسجّلًا للبصمات ({ $percentage }٪)
+        }
+bar-tooltip-cryptominer =
+    .title = المُعدّنات المعمّاة
+    .aria-label =
+        { $count ->
+            [zero] { $count } معدّنًا معمّى ({ $percentage }٪)
+            [one] { $count } معدّنٌ معمّى واحد ({ $percentage }٪)
+            [two] { $count } معدّنان معمّان ({ $percentage }٪)
+            [few] { $count } معدّنات معمّاة ({ $percentage }٪)
+            [many] { $count } معدّنًا معمّى ({ $percentage }٪)
+           *[other] { $count } معدّنًا معمّى ({ $percentage }٪)
         }

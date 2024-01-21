@@ -916,9 +916,14 @@ data-reporting-notification-message = يُرسل { -brand-short-name } بعض ا
 data-reporting-notification-button =
     .label = اختر ما الذي أشاركه
     .accesskey = خ
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = التصفح الخاص
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = الامتدادات
+    .tooltiptext = الامتدادات
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
@@ -940,7 +945,21 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = إنهِ الجلسة الخاصة
+    .tooltiptext = إنهِ الجلسة الخاصة
+reset-pbm-panel-heading = إنهِ جلستك الخاصة؟
 reset-pbm-panel-description = أغلق كل الألسنة الخاصة واحذف التأريخ والكعكات وكل بيانات المواقع الأخرى.
+reset-pbm-panel-always-ask-checkbox =
+    .label = اسألني دائمًا
+    .accesskey = م
+reset-pbm-panel-cancel-button =
+    .label = ألغِ
+    .accesskey = غ
+reset-pbm-panel-confirm-button =
+    .label = احذف بيانات الجلسة
+    .accesskey = ت
+reset-pbm-panel-complete = حُذفت بيانات الجلسة الخاصة
 
 ## Autorefresh blocker
 
