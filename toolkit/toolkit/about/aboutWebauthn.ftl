@@ -12,6 +12,8 @@ about-webauthn-page-title = เกี่ยวกับ WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = ข้อมูลอุปกรณ์
+about-webauthn-info-subsection-title = ข้อมูลเครื่องมือยืนยันตัวตน
+about-webauthn-options-subsection-title = ตัวเลือกของเครื่องมือยืนยันตัวตน
 about-webauthn-pin-section-title = การจัดการ PIN
 about-webauthn-credential-management-section-title = จัดการข้อมูลประจำตัว
 about-webauthn-pin-required-section-title = ต้องป้อน PIN
@@ -66,14 +68,29 @@ about-webauthn-delete-button = ลบ
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = การยืนยันผู้ใช้
+about-webauthn-auth-option-up = การปรากฏตัวของผู้ใช้
 about-webauthn-auth-option-clientpin = PIN ไคลเอ็นต์
+about-webauthn-auth-option-rk = Resident key
+about-webauthn-auth-option-plat = อุปกรณ์แพลตฟอร์ม
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = สิทธิอนุญาตคำสั่ง (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = ไม่มีสิทธิอนุญาต MakeCredential / GetAssertion สำหรับ PIN ของไคลเอนต์
+about-webauthn-auth-option-largeblobs = blob ขนาดใหญ่
 about-webauthn-auth-option-ep = การรับรององค์กร
 about-webauthn-auth-option-bioenroll = การลงทะเบียนไบโอเมตริก
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = ต้นแบบการลงทะเบียนไบโอเมตริก (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = สิทธิอนุญาตการลงทะเบียนไบโอเมตริก
+about-webauthn-auth-option-authnrcfg = การกำหนดค่าเครื่องมือยืนยันตัวตน
+about-webauthn-auth-option-uvacfg = สิทธิอนุญาตการกำหนดค่าเครื่องมือยืนยันตัวตน
 about-webauthn-auth-option-credmgmt = การจัดการข้อมูลประจำตัว
+about-webauthn-auth-option-credentialmgmtpreview = การจัดการข้อมูลรับรองต้นแบบ
 about-webauthn-auth-option-setminpinlength = ตั้งความยาว PIN ขั้นต่ำ
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential ที่ไม่มีการยืนยันผู้ใช้
+about-webauthn-auth-option-alwaysuv = ต้องมีการยืนยันผู้ใช้เสมอ
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
@@ -84,6 +101,7 @@ about-webauthn-auth-option-null = ไม่รองรับ
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = คำสั่งกำหนดค่าต้นแบบของผู้ขาย
 about-webauthn-auth-info-certifications = ใบรับรอง
 about-webauthn-auth-info-max-cred-blob-length = ความยาว blob สูงสุดสำหรับข้อมูลประจำตัว
 about-webauthn-auth-info-firmware-version = รุ่นของเฟิร์มแวร์
@@ -101,3 +119,12 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = ไม่รองรับ
+
+## Bio enrollment sample feedbacks
+
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+

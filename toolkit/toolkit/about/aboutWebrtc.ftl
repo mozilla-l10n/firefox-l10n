@@ -197,10 +197,14 @@ about-webrtc-configuration-element-provided = จัดเตรียมไว�
 about-webrtc-configuration-element-not-provided = ไม่ได้จัดเตรียมไว้
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = การกำหนดลักษณะ WebRTC ที่ตั้งโดยผู้ใช้
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = การกำหนดค่า WebRTC ที่ผู้ใช้เปลี่ยนแปลง
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-show-msg = แสดงการกำหนดค่าที่ผู้ใช้เปลี่ยนแปลง
+about-webrtc-user-modified-configuration-hide-msg = ซ่อนการกำหนดค่าที่ผู้ใช้เปลี่ยนแปลง
 
 ##
 
