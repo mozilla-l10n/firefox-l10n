@@ -5,6 +5,9 @@
 firefoxview-tabpickup-step-signin-primarybutton = واصِل
 firefoxview-syncedtabs-signin-header = اسحب الألسنة من أي مكان
 firefoxview-syncedtabs-signin-primarybutton = لج أو سجل حسابًا
+firefoxview-tabpickup-network-offline-header = تحقَّق من اتصالك بالإنترنت
+firefoxview-tabpickup-network-offline-description = إذا كنت تستخدم جدار حماية أو وكيلًا، فتأكد من أن { -brand-short-name } لديه إذن للوصول إلى الوب.
+firefoxview-tabpickup-network-offline-primarybutton = حاول مجددًا
 firefoxview-tabpickup-sync-disconnected-header = فعل المزامنة للمتابعة
 firefoxview-closed-tabs-title = المُغلقة حديثًا
 firefoxview-closed-tabs-description2 = أعِد فتح الصفحات التي أغلقتها في هذه النافذة.
