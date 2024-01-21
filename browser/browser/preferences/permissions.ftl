@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = لن تُحفظ جلسات الولوج لمواقع الوِب الآتية
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = الاستثناءات - كلمات السر المحفوظة
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = لن يحفط { -brand-short-name } كلمات السر للمواقع المدرجة هنا.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
