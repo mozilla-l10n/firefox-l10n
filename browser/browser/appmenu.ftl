@@ -94,6 +94,7 @@ appmenuitem-fxa-toolbar-sync-now2 = زامِن الآن
 appmenuitem-fxa-sign-in = لِج إلى { -brand-product-name }
 appmenuitem-fxa-manage-account = أدِر الحساب
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = الحساب
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -167,10 +168,13 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = الإعداد المسبق الموصى به لتنقيح أغلبية تطبيقات الوِب دون استهلاك موارد كثيرة.
 profiler-popup-presets-web-developer-label =
     .label = مطوّري الوب
+profiler-popup-presets-firefox-description = الإعداد المسبق الموصى به لتحليل أداء { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = إعداد مسبق للتحقيق في أخطاء الرسومات في { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = الرسوميات
 profiler-popup-presets-media-label =
@@ -248,3 +252,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = أدوات المتصفّح
 appmenu-developer-tools-extensions =
     .label = الامتدادات التي تخصّ المطوّرين
+appmenuitem-report-broken-site =
+    .label = أبلِغ عن موقع معطوب
