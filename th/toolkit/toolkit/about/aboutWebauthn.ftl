@@ -102,6 +102,7 @@ about-webauthn-auth-option-null = ไม่รองรับ
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-vendor-prototype-config-commands = คำสั่งกำหนดค่าต้นแบบของผู้ขาย
+about-webauthn-auth-info-remaining-discoverable-credentials = ข้อมูลประจำตัวที่ค้นพบได้ที่เหลืออยู่
 about-webauthn-auth-info-certifications = ใบรับรอง
 about-webauthn-auth-info-max-cred-blob-length = ความยาว blob สูงสุดสำหรับข้อมูลประจำตัว
 about-webauthn-auth-info-firmware-version = รุ่นของเฟิร์มแวร์
