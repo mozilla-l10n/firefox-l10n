@@ -1116,7 +1116,7 @@ content-blocking-known-fingerprinters-label =
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-suspected-fingerprinters-label =
     .label = المسجّلات المشتبه بها
-    .accesskey = { "" }
+    .accesskey = س
 
 ## Privacy Section - Tracking
 
@@ -1289,7 +1289,7 @@ preferences-doh-strict-detailed-desc-2 = حذر دائما إذا كان DNS ا�
 preferences-doh-strict-detailed-desc-3 = إذا لم يكن DNS الآمن متاحًا، فلن تتحمل المواقع أو تعمل كما ينبغي
 preferences-doh-setting-off =
     .label = معطّل
-    .accesskey = { "" }
+    .accesskey = ط
 preferences-doh-off-desc = استخدم محلل DNS الافتراضي الخاص بك
 preferences-doh-checkbox-warn =
     .label = حذر إذا كان هناك طرف ثالث يمنع DNS الآمن
