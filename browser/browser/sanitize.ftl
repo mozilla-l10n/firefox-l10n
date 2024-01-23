@@ -73,6 +73,7 @@ item-cache =
 item-cached-content =
     .label = Fichiers et pages mis en cache temporairement
     .accesskey = F
+item-cached-content-description = Efface les éléments qui permettent d’accélérer le chargement des sites
 item-form-search-history =
     .label = Historique des formulaires et des recherches
     .accesskey = F
