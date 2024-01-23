@@ -939,10 +939,10 @@ autofill-saved-payment-methods-button = Moyens de paiement enregistrés
     .accesskey = M
 autofill-reauth-checkbox =
     { PLATFORM() ->
-        [macos] Exiger l’authentification macOS pour remplir ou modifier les méthodes de paiement.
-        [windows] Exiger l’authentification Windows pour remplir ou modifier les méthodes de paiement.
-        [linux] Exiger l’authentification Linux pour remplir ou modifier les méthodes de paiement.
-       *[other] Exiger une authentification pour remplir ou modifier les méthodes de paiement.
+        [macos] Exiger l’authentification macOS pour remplir ou modifier les moyens de paiement.
+        [windows] Exiger l’authentification Windows pour remplir ou modifier les moyens de paiement.
+        [linux] Exiger l’authentification Linux pour remplir ou modifier les moyens de paiement.
+       *[other] Exiger une authentification pour remplir ou modifier les moyens de paiement.
     }
     .accesskey = p
 
