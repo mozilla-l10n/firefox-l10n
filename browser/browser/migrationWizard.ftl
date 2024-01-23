@@ -282,8 +282,8 @@ migration-wizard-progress-success-formdata = Historique des formulaires
 #  $quantity (Number): the number of successfully imported payment methods
 migration-wizard-progress-success-payment-methods =
     { $quantity ->
-        [one] { $quantity } mode de paiement
-       *[other] { $quantity } modes de paiement
+        [one] { $quantity } moyen de paiement
+       *[other] { $quantity } moyens de paiement
     }
 migration-wizard-safari-permissions-sub-header = Pour importer les marque-pages et l’historique de navigation de Safari :
 migration-wizard-safari-instructions-continue = Sélectionnez « Continuer »
