@@ -57,6 +57,11 @@ client-auth-window =
     .title = صارف دی سنڄاݨ دی درخواست
 client-auth-site-description = ایں سائٹ درخواست کیتی ہے جو تساں ہک سرٹیفکیٹ دے نال اپݨی سنڄاݨ کرو:
 client-auth-choose-cert = سنڄاݨ دے طور تے پیش کرݨ کیتے ہک سرٹیفکیٹ دا انتخاب کرو:
+client-auth-send-no-certificate =
+    .label = سرٹیفکیٹ نہ بھیڄو
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” درخواست کیتی ہے جو تساں ہک سرٹیفکیٹ دے نال اپݨی سنڄاݨ کرو:
 client-auth-cert-details = منتخب سرٹیفکیٹ دیاں تفصیلاں:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
