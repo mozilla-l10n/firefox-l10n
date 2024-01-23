@@ -40,7 +40,7 @@ neterror-error-reporting-automatic = أبلغ عن مثل هذه الأعطال 
 neterror-generic-error = لا يستطيع { -brand-short-name } تحميل هذه الصفحة لسبب ما.
 neterror-load-error-try-again = قد يكون الموقع متوقفًا مؤقتًا أو مشغولا جدًا. حاول ثانية بعد عدّة دقائق.
 neterror-load-error-connection = إذا كنت غير قادر على تحميل أي صفحة، افحص اتصال الحاسوب بالشبكة.
-neterror-load-error-firewall = إذا كان حاسوبك محميًا بجدار ناري أو وسيط، تأكد من السماح ل‍{ -brand-short-name } بالنفاذ إلى الوِب.
+neterror-load-error-firewall = إذا كان حاسوبك محميًا بجدار حماية أو وسيط، تأكد من السماح ل‍{ -brand-short-name } بالوصول إلى الوِب.
 neterror-captive-portal = تحتاج الولوج إلى هذه الشبكة أولا لتستطيع الوصول إلى الإنترنت.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -48,15 +48,21 @@ neterror-dns-not-found-with-suggestion = هل قصدت الانتقال إلى <
 neterror-dns-not-found-hint-header = <strong>إذا أدخلت العنوان الصحيح، فيمكنك:</strong>
 neterror-dns-not-found-hint-try-again = حاول مجددًا لاحقاً
 neterror-dns-not-found-hint-check-network = افحص اتصال الشبكة
+neterror-dns-not-found-hint-firewall = تأكد من أن { -brand-short-name } لديه إذن للوصول إلى الوب (قد تكون متصلاً ولكن خلف جدار حماية)
 
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = لا يستطيع { -brand-short-name } حماية طلبك للحصول على عنوان هذا الموقع من خلال محلل DNS الموثوق به. إليكم السبب:
+neterror-dns-not-found-trr-only-reason2 = لا يستطيع { -brand-short-name } حماية طلبك للحصول على عنوان هذا الموقع من خلال موفر DNS الآمن الخاص بنا. إليكم السبب:
 neterror-dns-not-found-trr-third-party-warning2 = يمكنك المتابعة مع محلل DNS الافتراضي الخاص بك. ومع ذلك، قد يتمكن طرف ثالث من رؤية مواقع الوب التي تزورها.
+neterror-dns-not-found-trr-only-could-not-connect = لم يتمكن { -brand-short-name } من الاتصال بـ { $trrDomain }.
+neterror-dns-not-found-trr-only-timeout = استغرق الاتصال بـ { $trrDomain } وقتًا أطول من المتوقع.
 neterror-dns-not-found-trr-offline = أنت غير متصل بالإنترنت.
 neterror-dns-not-found-trr-unknown-host2 = لم يتم العثور على موقع الوب هذا بواسطة { $trrDomain }.
+neterror-dns-not-found-trr-server-problem = حدثت مشكلة في { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = مسار غير صحيح.
 neterror-dns-not-found-trr-unknown-problem = خطأ غير متوقّع.
 
@@ -64,7 +70,10 @@ neterror-dns-not-found-trr-unknown-problem = خطأ غير متوقّع.
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = لا يستطيع { -brand-short-name } حماية طلبك للحصول على عنوان هذا الموقع من خلال محلل DNS الموثوق به. إليكم السبب:
+neterror-dns-not-found-native-fallback-reason2 = لا يستطيع { -brand-short-name } حماية طلبك للحصول على عنوان هذا الموقع من خلال موفر DNS الآمن الخاص بنا. إليكم السبب:
 neterror-dns-not-found-native-fallback-heuristic = DNS عبر HTTPS مُعطّل على شبكتك.
+neterror-dns-not-found-native-fallback-not-confirmed2 = لم يتمكن { -brand-short-name } من الاتصال بـ { $trrDomain }.
 
 ##
 
@@ -81,7 +90,7 @@ neterror-not-cached-try-again = اضغط على ”حاول مرة أخرى“ �
 neterror-net-offline = اضغط على ”حاول مجددًا“ للتبديل إلى وضع الاتصال و إعادة تحميل الصفحة.
 neterror-proxy-resolve-failure-settings = افحص إعدادات الوسيط لتتأكد أنها صحيحة.
 neterror-proxy-resolve-failure-connection = تأكد من أن اتصالك الشبكي يعمل.
-neterror-proxy-resolve-failure-firewall = إذا كان حاسوبك محميًا بجدار ناري أو وسيط، تأكد من السماح ل‍{ -brand-short-name } بالنفاذ إلى الوِب.
+neterror-proxy-resolve-failure-firewall = إذا كان حاسوبك محميًا بجدار حماية أو وسيط، تأكد من السماح ل‍{ -brand-short-name } بالوصول إلى الوِب.
 neterror-proxy-connect-failure-settings = افحص إعدادات الوسيط لتتأكد أنها صحيحة.
 neterror-proxy-connect-failure-contact-admin = اتصل بمدير الشبكة لتتأكد أن الخادوم الوسيط يعمل.
 neterror-content-encoding-error = من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.
