@@ -4,7 +4,7 @@
 
 tab-context-new-tab =
     .label = لسان جديد
-    .accesskey = س
+    .accesskey = ج
 reload-tab =
     .label = أعِد تحميل اللسان
     .accesskey = ح
@@ -102,7 +102,7 @@ tab-context-close-n-tabs =
             [many] أغلِق { $tabCount } لسانًا
            *[other] أغلِق { $tabCount } لسان
         }
-    .accesskey = س
+    .accesskey = ا
 tab-context-move-tabs =
     .label =
         { $tabCount ->
