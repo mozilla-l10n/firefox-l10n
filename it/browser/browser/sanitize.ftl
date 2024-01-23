@@ -11,7 +11,7 @@ sanitize-prefs-style =
 
 sanitize-dialog-title2 =
     .title = Elimina dati di navigazione e cookie
-    .style = min-width: 38em
+    .style = min-width: 40em
 
 sanitize-dialog-title =
     .title = Cancella cronologia recente
@@ -40,8 +40,8 @@ clear-time-duration-prefix =
     .accesskey = n
 
 clear-time-duration-prefix2 =
-    .value = Quando:
-    .accesskey = Q
+    .value = Periodo:
+    .accesskey = P
 
 clear-time-duration-value-last-hour =
     .label = ultima ora
