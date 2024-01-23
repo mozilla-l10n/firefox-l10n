@@ -44,7 +44,7 @@ synced-tabs-context-open-in-private-window =
 # consistently with the "Bookmark Tab…" string there.
 synced-tabs-context-bookmark =
     .label = علم اللسان…
-    .accesskey = س
+    .accesskey = ع
 synced-tabs-context-copy =
     .label = انسخ
     .accesskey = ن
