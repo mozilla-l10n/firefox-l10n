@@ -183,6 +183,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = استورِده�
 mr2022-onboarding-colorway-title = اختر اللون الذي يلهمك
 mr2022-onboarding-colorway-subtitle = يمكن للأصوات المستقلة أن تغير الثقافة.
 mr2022-onboarding-colorway-primary-button-label-continue = حدد و واصِل
+mr2022-onboarding-existing-colorway-checkbox-label = اجعل { -firefox-home-brand-name } صفحتك الرئيسية الملونة
 mr2022-onboarding-colorway-label-default = الافتراضي
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = ألوان { -brand-short-name } الحالية
@@ -252,3 +253,9 @@ mr2022-onboarding-default-image-alt =
 onboarding-device-migration-title = مرحبا بعودتك!
 onboarding-device-migration-subtitle = لِج إلى { -fxaccount-brand-name(capitalization: "sentence") } لتجلب علاماتك وكلمات السر والتأريخ معك على جهازك الجديد.
 onboarding-device-migration-primary-button-label = لِج
+
+## The following screens have been updated to use security and privacy focused strings:
+
+
+## New user time and familiarity survey strings
+
