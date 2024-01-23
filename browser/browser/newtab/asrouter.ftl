@@ -216,6 +216,8 @@ cfr-cbh-confirm-button = أرفض لافتات الكعكات
     .accesskey = ض
 cfr-cbh-dismiss-button = ليس الآن
     .accesskey = آ
+cookie-banner-blocker-cfr-header = { -brand-short-name } حظر ملفات تعريف الارتباط نيابةً عنك
+cookie-banner-blocker-cfr-body = نرفض تلقائيًا العديد من النوافذ المنبثقة لملفات تعريف الارتباط لنجعل من الصعب على المواقع تتبعك.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -249,6 +251,7 @@ device-migration-fxa-spotlight-header = هل تستخدم جهازًا قديم�
 device-migration-fxa-spotlight-body = انسخ بياناتك إحتياطياً لتتأكد من عدم خسارة المعلومات المهمة مثل العلامات وكلمات السر — خصوصاً إذا انتقلت إلى جهاز جديد.
 device-migration-fxa-spotlight-primary-button = كيفية عمل نسخة احتياطية من بياناتي
 device-migration-fxa-spotlight-link = ذكّرني لاحقًا
+device-migration-fxa-spotlight-heavy-user-header = لا تنسَ عمل نُسخة احتياطية لبياناتك
 device-migration-fxa-spotlight-heavy-user-primary-button = ابدأ
 device-migration-fxa-spotlight-older-device-header = راحة البال من { -brand-product-name }
 device-migration-fxa-spotlight-older-device-primary-button = أنشئ حسابًا
