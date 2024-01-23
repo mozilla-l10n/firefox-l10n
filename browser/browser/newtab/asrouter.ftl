@@ -252,6 +252,7 @@ device-migration-fxa-spotlight-body = انسخ بياناتك إحتياطياً
 device-migration-fxa-spotlight-primary-button = كيفية عمل نسخة احتياطية من بياناتي
 device-migration-fxa-spotlight-link = ذكّرني لاحقًا
 device-migration-fxa-spotlight-heavy-user-header = لا تنسَ عمل نُسخة احتياطية لبياناتك
+device-migration-fxa-spotlight-heavy-user-body = تأكد من أن المعلومات المهمة، مثل العلامات وكلمات السر، مُحدّثة و محمية عبر جميع أجهزتك.
 device-migration-fxa-spotlight-heavy-user-primary-button = ابدأ
 device-migration-fxa-spotlight-older-device-header = راحة البال من { -brand-product-name }
 device-migration-fxa-spotlight-older-device-primary-button = أنشئ حسابًا
