@@ -257,6 +257,7 @@ device-migration-fxa-spotlight-heavy-user-primary-button = ابدأ
 device-migration-fxa-spotlight-older-device-header = راحة البال من { -brand-product-name }
 device-migration-fxa-spotlight-older-device-primary-button = أنشئ حسابًا
 device-migration-fxa-spotlight-getting-new-device-header-2 = جهاز جديد في مستقبلك؟
+device-migration-fxa-spotlight-getting-new-device-body-2 = اتبع بعض الخطوات البسيطة لجلب العلامات والتأريخ وكلمات السر معك عند البدء على جهاز جديد.
 device-migration-fxa-spotlight-getting-new-device-primary-button = كيفية عمل نسخة احتياطية من بياناتي
 
 ## Set as Default PDF Reader Infobar
@@ -270,6 +271,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>فتح { -brand-short-name } في كل مرة تقوم فيها بإعادة تشغيل جهاز الكمبيوتر الخاص بك؟</strong> الآن يمكنك ضبط { -brand-short-name } ليتم فتحه تلقائيًا عند إعادة تشغيل جهازك.
 launch-on-login-learnmore = اطّلع على المزيد
 launch-on-login-infobar-confirm-button = نعم، افتح { -brand-short-name }
     .accesskey = ف
@@ -279,5 +281,6 @@ launch-on-login-infobar-reject-button = ليس الآن
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>افتح { -brand-short-name } في كل مرة تقوم فيها بإعادة تشغيل جهاز الكمبيوتر الخاص بك؟</strong> لإدارة تفضيلات بدء التشغيل، ابحث عن "البدء" في الإعدادات.
 launch-on-login-infobar-final-reject-button = لا، شكرًا
     .accesskey = ا
