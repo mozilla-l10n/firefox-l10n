@@ -219,6 +219,9 @@ shortcuts-no-addons = Njejśco zmóžnił žedne rozšyrjenja.
 shortcuts-no-commands = Slědujuce rozšyrjenja njamaju  tastowe skrotconki:
 shortcuts-input =
     .placeholder = Zapódajśo tastowu skrotconku
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Tastowu skrotconku wótwónoźeś
 shortcuts-browserAction2 = Tłocašk symboloweje rědki aktiwěrowaś
 shortcuts-pageAction = Akciju boka aktiwěrowaś
 shortcuts-sidebarAction = Bocnicu pśešaltowaś
