@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Eliminar este contenedor
 containers-remove-cancel-button = No eliminar este contenedor
+settings-tabs-show-image-in-preview =
+    .label = Mostrar una vista previa al pasar el cursor sobre una pestaña
+    .accessKey = v
 
 ## General Section - Language & Appearance
 
