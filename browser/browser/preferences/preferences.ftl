@@ -191,6 +191,9 @@ containers-remove-alert-title = Xóa ngăn chứa này?
 containers-remove-alert-msg = Nếu bạn xóa ngăn chứa này bây giờ, { $count } thẻ trong ngăn chứa sẽ bị đóng. Bạn có chắc muốn xóa ngăn chứa này?
 containers-remove-ok-button = Xóa ngăn chứa này
 containers-remove-cancel-button = Không xóa ngăn chứa này
+settings-tabs-show-image-in-preview =
+    .label = Hiển thị hình ảnh xem trước khi bạn di chuột trên thẻ
+    .accessKey = h
 
 ## General Section - Language & Appearance
 

@@ -220,6 +220,9 @@ shortcuts-no-addons = Bạn không có bất kỳ tiện ích mở rộng nào �
 shortcuts-no-commands = Các tiện ích mở rộng sau không có phím tắt:
 shortcuts-input =
     .placeholder = Nhập một phím tắt
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Xoá lối tắt
 shortcuts-browserAction2 = Kích hoạt nút thanh công cụ
 shortcuts-pageAction = Kích hoạt hành động trang
 shortcuts-sidebarAction = Chuyển đến thanh lề
