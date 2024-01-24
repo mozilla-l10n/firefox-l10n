@@ -57,6 +57,7 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = 瀏覽紀錄
     .accesskey = H
+item-history-form-data-downloads-description = 清除網站與下載紀錄、儲存的表單資訊與搜尋紀錄
 item-cookies =
     .label = Cookie
     .accesskey = C

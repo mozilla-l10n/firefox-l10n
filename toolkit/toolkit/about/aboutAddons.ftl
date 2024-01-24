@@ -215,6 +215,9 @@ shortcuts-no-addons = 您並未啟用任何擴充套件。
 shortcuts-no-commands = 下列擴充套件沒有快速鍵:
 shortcuts-input =
     .placeholder = 輸入快速鍵
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = 移除捷徑
 shortcuts-browserAction2 = 開啟工具列按鈕
 shortcuts-pageAction = 啟用頁面操作
 shortcuts-sidebarAction = 切換側邊欄
