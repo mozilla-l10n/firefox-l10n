@@ -224,6 +224,9 @@ shortcuts-no-addons = U hebt geen extensies ingeschakeld.
 shortcuts-no-commands = De volgende extensies hebben geen sneltoetsen:
 shortcuts-input =
     .placeholder = Typ een sneltoets
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Snelkoppeling verwijderen
 shortcuts-browserAction2 = Werkbalkknop activeren
 shortcuts-pageAction = Pagina-actie activeren
 shortcuts-sidebarAction = De zijbalk in-/uitschakelen
