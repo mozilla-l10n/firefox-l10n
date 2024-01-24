@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Fjarlægja þetta sérefni
 containers-remove-cancel-button = Ekki fjarlægja þetta sérefni
+settings-tabs-show-image-in-preview =
+    .label = Sýna forskoðun mynda þegar þú lætur bendilinn svífa yfir flipa
+    .accessKey = h
 
 ## General Section - Language & Appearance
 
