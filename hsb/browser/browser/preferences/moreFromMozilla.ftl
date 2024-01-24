@@ -29,4 +29,6 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } wobstarać
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Waše wotkryte wosobinske informacije awtomatisce cofnyć
+more-from-moz-mozilla-monitor-global-description = Warnowanja dóstać, hdyž su waše daty w dźěrje datow byli.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } wobstarać

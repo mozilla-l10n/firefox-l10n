@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Cyłu historiju wuprózdnić
     .style = min-width: 34em
 clear-data-settings-label = Při začinjenju měł { -brand-short-name } wšitko awtomatisce zhašeć
+sanitize-on-shutdown-description = Wšě wubrane zapiski awtomatisce zhašeć, hdyž so { -brand-short-name } začinja.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
