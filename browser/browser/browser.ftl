@@ -567,6 +567,11 @@ urlbar-result-action-search-w-engine = Αναζήτηση με { $engine }
 urlbar-result-action-sponsored = Χορηγία
 urlbar-result-action-switch-tab = Εναλλαγή σε καρτέλα
 urlbar-result-action-visit = Επίσκεψη
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Εναλλαγή σε καρτέλα · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Επίσκεψη από το πρόχειρο
 # Directs a user to press the Tab key to perform a search with the specified

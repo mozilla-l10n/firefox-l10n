@@ -219,6 +219,9 @@ shortcuts-no-addons = Δεν έχετε ενεργοποιήσει καμία ε
 shortcuts-no-commands = Οι εξής επεκτάσεις δεν έχουν συντομεύσεις:
 shortcuts-input =
     .placeholder = Εισαγωγή συντόμευσης
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Αφαίρεση συντόμευσης
 shortcuts-browserAction2 = Κουμπί ενεργοποίησης γραμμής εργαλείων
 shortcuts-pageAction = Ενεργοποίηση ενέργειας σελίδας
 shortcuts-sidebarAction = (Απ)ενεργοποίηση πλαϊνής γραμμής
