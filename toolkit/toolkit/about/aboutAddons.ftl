@@ -217,6 +217,9 @@ shortcuts-no-addons = Nimate omogočenih razširitev.
 shortcuts-no-commands = Naslednje razširitve nimajo dodeljenih bližnjic:
 shortcuts-input =
     .placeholder = Vnesite bližnjico
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Odstrani bližnjico
 shortcuts-browserAction2 = Aktiviraj gumb orodne vrstice
 shortcuts-pageAction = Aktiviraj dejanje strani
 shortcuts-sidebarAction = Preklopi stransko vrstico
