@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Απαλοιφή όλου του ιστορικού
     .style = min-width: 34em
 clear-data-settings-label = Όταν κλείνει, το { -brand-short-name } να κάνει αυτόματη απαλοιφή των παρακάτω
+sanitize-on-shutdown-description = Αυτόματη απαλοιφή όλων των επιλεγμένων στοιχείων όταν κλείσει το { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
