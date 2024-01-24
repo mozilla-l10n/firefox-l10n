@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Supprimer ce conteneur
 containers-remove-cancel-button = Ne pas supprimer ce conteneur
+settings-tabs-show-image-in-preview =
+    .label = Afficher un aperçu au survol des onglets
+    .accessKey = A
 
 ## General Section - Language & Appearance
 
