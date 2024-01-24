@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = 모든 기록 지우기
     .style = min-width: 34em
 clear-data-settings-label = 닫을 때, { -brand-short-name }가 자동으로 모두 지우기
+sanitize-on-shutdown-description = { -brand-short-name }를 닫을때 자동으로 선택된 모든 항목을 지웁니다.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,12 +55,19 @@ history-section-label = 기록
 item-history-and-downloads =
     .label = 방문 및 다운로드 기록
     .accesskey = B
-item-browsing-and-search =
-    .label = 방문한 사이트, 저장된 양식 정보 및 검색
-    .accesskey = V
+item-history-form-data-downloads =
+    .label = 기록
+    .accesskey = H
+item-history-form-data-downloads-description = 사이트 및 다운로드 기록, 저장된 양식 정보 및 검색을 지웁니다.
 item-cookies =
     .label = 쿠키
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = 쿠키 및 사이트 데이터 ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = 쿠키 및 사이트 데이터
     .accesskey = e
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = 캐시
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = 임시 캐시된 파일 및 페이지 ({ $amount } { $unit })
+    .accesskey = f
 item-cached-content =
     .label = 임시 캐시된 파일 및 페이지
     .accesskey = f
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = 사이트 설정
     .accesskey = i
 item-site-prefs-description = 권한 및 사이트 설정을 원래 설정으로 재설정합니다
-item-download-history =
-    .label = 다운로드한 파일 목록
-    .accesskey = D
 data-section-label = 데이터
 item-site-settings =
     .label = 사이트 설정
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = 지금 지우기
 sanitize-button-ok2 =
     .label = 지우기
+sanitize-button-ok-on-shutdown =
+    .label = 변경 내용 저장
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
