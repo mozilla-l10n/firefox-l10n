@@ -206,6 +206,9 @@ cfr-cbh-dismiss-button = Ekki núna
     .accesskey = n
 cookie-banner-blocker-cfr-header = { -brand-short-name } var að loka á vefkökur fyrir þig
 cookie-banner-blocker-cfr-body = Við höfnum sjálfkrafa mörgum vefkökugluggum til að gera vefsvæðum erfiðara fyrir að rekja ferðir þínar.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } var að loka á vefkökuborða fyrir þig
+cookie-banner-blocker-onboarding-body = Minni truflanir, færri vefkökur sem rekja ferðir þínar á þessu vefsvæði.
+cookie-banner-blocker-onboarding-learn-more = Fræðast meira
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -235,10 +238,6 @@ fxa-sync-cfr-secondary = Minna mig á seinna
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Notarðu eldra tæki?
-device-migration-fxa-spotlight-body = Taktu öryggisafrit af gögnunum þínum til að tryggja að þú glatir ekki mikilvægum upplýsingum, eins og bókamerkjum og lykilorðum - sérstaklega ef þú skiptir yfir í nýtt tæki.
-device-migration-fxa-spotlight-primary-button = Hvernig á að taka öryggisafrit af gögnunum mínum
-device-migration-fxa-spotlight-link = Minna mig á seinna
 device-migration-fxa-spotlight-heavy-user-header = Ekki gleyma að taka öryggisafrit af gögnunum þínum
 device-migration-fxa-spotlight-heavy-user-body = Gakktu úr skugga um að mikilvægar upplýsingar - eins og bókamerki og lykilorð - séu uppfærðar og verndaðar í öllum tækjunum þínum.
 device-migration-fxa-spotlight-heavy-user-primary-button = Hefjast handa

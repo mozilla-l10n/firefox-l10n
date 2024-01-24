@@ -220,6 +220,9 @@ shortcuts-no-addons = Þú ert ekki með neinar virkar viðbætur.
 shortcuts-no-commands = Eftirfarandi viðbætur eru ekki með flýtilykla:
 shortcuts-input =
     .placeholder = Slá inn flýtilykil
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Fjarlægja flýtileið
 shortcuts-browserAction2 = Virkja hnapp í verkfærastiku
 shortcuts-pageAction = Virkja síðuaðgerð
 shortcuts-sidebarAction = Víxla hliðarstiku af/á
