@@ -206,6 +206,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Удалить этот контейнер
 containers-remove-cancel-button = Не удалять этот контейнер
+settings-tabs-show-image-in-preview =
+    .label = Отображать предпросмотр изображения при наведении на вкладку
+    .accessKey = h
 
 ## General Section - Language & Appearance
 
