@@ -38,3 +38,4 @@ more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Rimuovi automaticamente le tue informazioni personali esposte sul Web.
 more-from-moz-mozilla-monitor-global-description = Ricevi un avviso quando i tuoi dati sono coinvolti in una violazione di dati.
 more-from-moz-mozilla-monitor-button = Ottieni { -monitor-brand-short-name }
+

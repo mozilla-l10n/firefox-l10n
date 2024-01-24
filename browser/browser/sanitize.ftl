@@ -178,3 +178,4 @@ sanitize-everything-warning = Tutta la cronologia verrà eliminata.
 sanitize-selected-warning = Tutti gli elementi selezionati verranno eliminati.
 
 
+

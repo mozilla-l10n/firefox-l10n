@@ -44,3 +44,4 @@
 # and kept in English.
 -firefoxview-brand-name = Firefox View
 -mozmonitor-brand-name = Mozilla Monitor
+
