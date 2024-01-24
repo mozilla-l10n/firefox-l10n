@@ -209,6 +209,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Tutón kontejner wotstronić
 containers-remove-cancel-button = Tutón kontejner njewotstronić
+settings-tabs-show-image-in-preview =
+    .label = Wobrazowy přehlad pokazać, hdyž sće nad rajtarkom
+    .accessKey = h
 
 ## General Section - Language & Appearance
 

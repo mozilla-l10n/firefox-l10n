@@ -173,6 +173,9 @@ webrtc-allow-share-screen-with-file = Chceće tutej lokalnej dataji dowolić, wa
 # another audio output connection.
 webrtc-allow-share-speaker-with-file = Chceće tutej lokalnej dataji dowolić, druhe wótřerěčaki wužiwać?
 webrtc-allow-share-camera-and-microphone-with-file = Chceće tutej lokalnej dataji dowolić, wašu kameru a waš mikrofon wužiwać?
+webrtc-allow-share-camera-and-audio-capture-with-file = Chceće tutej lokalnej dataji dowolić, swoju kameru wužiwać a na awdio tutoho rajtarka poskać?
+webrtc-allow-share-screen-and-microphone-with-file = Chceće tutej lokalnej dataji dowolić, swój mikrofon wužiwać a swoju wobrazowku widźeć?
+webrtc-allow-share-screen-and-audio-capture-with-file = Chceće tutej lokalnej dataji dowolić, na awdio tutoho rajtarka poskać a swoju wobrazowku widźeć?
 
 ## Variables:
 ##   $origin (String): the first party origin.

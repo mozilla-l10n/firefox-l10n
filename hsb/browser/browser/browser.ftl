@@ -578,6 +578,11 @@ urlbar-result-action-search-w-engine = Z { $engine } pytać
 urlbar-result-action-sponsored = Sponserowany
 urlbar-result-action-switch-tab = K rajtarkej přeńć
 urlbar-result-action-visit = Wopytać
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = K rajtarkej přeńć · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Z mjezyskłada wopytać
 # Directs a user to press the Tab key to perform a search with the specified
