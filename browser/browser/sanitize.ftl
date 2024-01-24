@@ -57,6 +57,7 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Historija
     .accesskey = H
+item-history-form-data-downloads-description = Zhaša historiju sydłow a sćehnjenjow, składowane formularowe informacije a pytanja
 item-cookies =
     .label = Placki
     .accesskey = c
@@ -76,6 +77,12 @@ item-active-logins =
 item-cache =
     .label = Pufrowak
     .accesskey = u
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Nachwilu pufrowane dataje a strony ({ $amount } { $unit })
+    .accesskey = c
 item-cached-content =
     .label = Nachwilne pufrowane dataje a strony
     .accesskey = c
