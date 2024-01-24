@@ -20,6 +20,7 @@
 -lockwise-brand-short-name = Lockwise
 -monitor-brand-name = Firefox Monitor
 -monitor-brand-short-name = Monitor
+-mozmonitor-brand-name = Mozilla Monitor
 -pocket-brand-name = Pocket
 -send-brand-name = Firefox Send
 -screenshots-brand-name = Firefox Screenshots
@@ -51,4 +52,3 @@
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name = Обзор Firefox
--mozmonitor-brand-name = Mozilla Monitor
