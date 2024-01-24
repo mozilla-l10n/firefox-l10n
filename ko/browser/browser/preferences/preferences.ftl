@@ -191,6 +191,9 @@ containers-remove-alert-title = 이 컨테이너를 삭제하시겠습니까?
 containers-remove-alert-msg = 이 컨테이너를 삭제하면 { $count } 컨테이너 탭이 닫힙니다. 이 컨테이너를 정말로 삭제하시겠습니까?
 containers-remove-ok-button = 이 컨테이너 삭제
 containers-remove-cancel-button = 이 컨테이너 삭제하지 않음
+settings-tabs-show-image-in-preview =
+    .label = 탭 위로 마우스를 가져가면 이미지 미리 보기 표시
+    .accessKey = h
 
 ## General Section - Language & Appearance
 

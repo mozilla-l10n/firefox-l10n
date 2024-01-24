@@ -30,3 +30,5 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name }받기
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = 노출된 개인 정보를 자동으로 회수합니다.
+more-from-moz-mozilla-monitor-global-description = 데이터가 유출되면 알림을 받으세요.
+more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } 받기
