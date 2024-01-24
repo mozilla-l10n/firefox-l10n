@@ -567,6 +567,11 @@ urlbar-result-action-search-w-engine = Sök med { $engine }
 urlbar-result-action-sponsored = Sponsrad
 urlbar-result-action-switch-tab = Växla till flik
 urlbar-result-action-visit = Besök
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Byt till flik · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Besök från urklipp
 # Directs a user to press the Tab key to perform a search with the specified
