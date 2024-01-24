@@ -215,6 +215,9 @@ shortcuts-no-addons = Сізде ешқандай кеңейтулер орна�
 shortcuts-no-commands = Келесі кеңейтулерде жарлықтар жоқ:
 shortcuts-input =
     .placeholder = Жарлықты теріңіз
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Жарлықты өшіру
 shortcuts-browserAction2 = Құралдар панелінің батырмасын белсендіру
 shortcuts-pageAction = Бет әрекетін белсендіру
 shortcuts-sidebarAction = Бүйір панелін көрсету/жасыру

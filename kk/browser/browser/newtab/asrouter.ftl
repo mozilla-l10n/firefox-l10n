@@ -203,6 +203,9 @@ cfr-cbh-dismiss-button = Қазір емес
     .accesskey = м
 cookie-banner-blocker-cfr-header = { -brand-short-name } жаңа ғана сіз үшін cookie файлдарын бұғаттады
 cookie-banner-blocker-cfr-body = Сайттардың сізді қадағалауын қиындату үшін біз көптеген cookie файлдарының қалқымалы терезелерінен автоматты түрде бас тартамыз.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } жаңа ғана сіз үшін cookie баннерінен бас тартты
+cookie-banner-blocker-onboarding-body = Бұл сайтта алаңдататын нәрселерді мен сізді бақылайтын cookie файлдарын азырақ қылу.
+cookie-banner-blocker-onboarding-learn-more = Көбірек білу
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -232,10 +235,6 @@ fxa-sync-cfr-secondary = Кейінірек еске салу
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Ескі құрылғыны пайдаланып жатырсыз ба?
-device-migration-fxa-spotlight-body = Бетбелгілер мен парольдер сияқты маңызды ақпаратты жоғалтпау үшін деректердің сақтық көшірмесін жасаңыз, әсіресе жаңа құрылғыға ауыссаңыз.
-device-migration-fxa-spotlight-primary-button = Деректерімнің сақтық көшірмесін қалай жасауға болады
-device-migration-fxa-spotlight-link = Кейінірек еске салу
 device-migration-fxa-spotlight-heavy-user-header = Деректеріңіздің сақтық көшірмесін жасауды ұмытпаңыз
 device-migration-fxa-spotlight-heavy-user-body = Бетбелгілер мен парольдер сияқты маңызды ақпараттың барлық құрылғыларыңызда жаңартылғанын және қорғалғанын тексеріңіз.
 device-migration-fxa-spotlight-heavy-user-primary-button = Бастау
