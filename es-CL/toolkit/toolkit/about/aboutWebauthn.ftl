@@ -105,7 +105,7 @@ about-webauthn-auth-option-setminpinlength = Establecer la longitud mínima del 
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential sin verificación de usuario
 about-webauthn-auth-option-alwaysuv = Requerir siempre verificación de usuario
 # Shows when boolean value for an option is True. True should not be translated.
-about-webauthn-auth-option-true = Verdadero
+about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
 about-webauthn-auth-option-false = Falso
 # If the value is missing (null), it means a certain feature is not supported.
