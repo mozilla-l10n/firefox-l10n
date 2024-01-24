@@ -203,6 +203,9 @@ cfr-cbh-dismiss-button = 나중에
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name }가 쿠키를 차단했습니다.
 cookie-banner-blocker-cfr-body = 사이트에서 사용자를 추적하기 어렵게 하기 위해 자동으로 많은 쿠키 팝업을 거부합니다.
+cookie-banner-blocker-onboarding-header = { -brand-short-name }가 쿠키 배너를 거부했습니다.
+cookie-banner-blocker-onboarding-body = 방해 요소가 줄어들고, 이 사이트에서 사용자를 추적하는 쿠키가 줄어듭니다.
+cookie-banner-blocker-onboarding-learn-more = 더 알아보기
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -232,10 +235,6 @@ fxa-sync-cfr-secondary = 나중에 알림
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = 오래된 기기를 사용하시나요?
-device-migration-fxa-spotlight-body = 특히 새 기기로 전환하는 경우 북마크 및 비밀번호와 같은 중요한 정보를 잃지 않도록 데이터를 백업하세요.
-device-migration-fxa-spotlight-primary-button = 내 데이터를 백업하는 방법
-device-migration-fxa-spotlight-link = 나중에 알림
 device-migration-fxa-spotlight-heavy-user-header = 데이터를 백업하는 것을 잊지 마세요
 device-migration-fxa-spotlight-heavy-user-body = 북마크, 비밀번호 등 중요한 정보가 모든 기기에서 업데이트되고 보호되는지 확인하세요.
 device-migration-fxa-spotlight-heavy-user-primary-button = 시작하기
