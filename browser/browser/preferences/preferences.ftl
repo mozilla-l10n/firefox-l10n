@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Ta bort denna behållare
 containers-remove-cancel-button = Ta inte bort denna behållare
+settings-tabs-show-image-in-preview =
+    .label = Visa en förhandsgranskning av bilden när du håller muspekaren på en flik
+    .accessKey = V
 
 ## General Section - Language & Appearance
 

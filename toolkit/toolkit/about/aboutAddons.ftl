@@ -215,6 +215,9 @@ shortcuts-no-addons = Du har inga tillägg aktiverade.
 shortcuts-no-commands = Följande tillägg har inte genvägar:
 shortcuts-input =
     .placeholder = Skapa en genväg
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Ta bort genväg
 shortcuts-browserAction2 = Aktivera verktygsfältets knapp
 shortcuts-pageAction = Aktivera sidans åtgärd
 shortcuts-sidebarAction = Visa sidofält
