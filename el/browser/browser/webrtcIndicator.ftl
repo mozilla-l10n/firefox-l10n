@@ -151,6 +151,17 @@ webrtc-allow-share-camera-and-audio-capture = Να επιτρέπεται στο
 webrtc-allow-share-screen-and-microphone = Να επιτρέπεται στο { $origin } η χρήση του μικροφώνου και η θέαση της οθόνης σας;
 webrtc-allow-share-screen-and-audio-capture = Να επιτρέπεται στο { $origin } η ακρόαση του ήχου αυτής της καρτέλας και η θέαση της οθόνης σας;
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Να επιτρέπεται σε αυτό το τοπικό αρχείο η ακρόαση του ήχου αυτής της καρτέλας;
+webrtc-allow-share-camera-with-file = Να επιτρέπεται σε αυτό το τοπικό αρχείο η χρήση της κάμεράς σας;
+webrtc-allow-share-microphone-with-file = Να επιτρέπεται σε αυτό το τοπικό αρχείο η χρήση του μικροφώνου σας;
+webrtc-allow-share-screen-with-file = Να επιτρέπεται σε αυτό το τοπικό αρχείο η θέαση της οθόνης σας;
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Να επιτρέπεται σε αυτό το τοπικό αρχείο η χρήση άλλων ηχείων;
+webrtc-allow-share-camera-and-microphone-with-file = Να επιτρέπεται σε αυτό το τοπικό αρχείο η χρήση της κάμερας και του μικροφώνου σας;
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
