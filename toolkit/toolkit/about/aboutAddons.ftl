@@ -220,6 +220,9 @@ shortcuts-no-addons = Aucune extension n’est activée.
 shortcuts-no-commands = Les extensions suivantes ne disposent pas de raccourcis :
 shortcuts-input =
     .placeholder = Saisissez un raccourci
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Supprimer le raccourci
 shortcuts-browserAction2 = Activer le bouton de la barre d’outils
 shortcuts-pageAction = Activer l’action de la page
 shortcuts-sidebarAction = Afficher/Masquer le panneau latéral
