@@ -218,6 +218,9 @@ shortcuts-no-addons = No tiene ningún complemento habilitado.
 shortcuts-no-commands = Los siguientes complementos no tienen atajos de teclado:
 shortcuts-input =
     .placeholder = Escriba un atajo
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Eliminar atajo
 shortcuts-browserAction2 = Activar botón de barra de herramientas
 shortcuts-pageAction = Activar Acción de la página
 shortcuts-sidebarAction = Alternar la barra lateral
