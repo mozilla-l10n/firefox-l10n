@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Удаление всей истории
     .style = min-width: 34em
 clear-data-settings-label = При закрытии { -brand-short-name } должен автоматически удалять
+sanitize-on-shutdown-description = Автоматически удалять все отмеченные элементы при закрытии { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,11 +55,18 @@ history-section-label = Историю
 item-history-and-downloads =
     .label = Журнал посещений и загрузок
     .accesskey = п
-item-browsing-and-search =
-    .label = Посещённые сайты, сохранённые данные форм и поисковые запросы
-    .accesskey = И
+item-history-form-data-downloads =
+    .label = Журнал
+    .accesskey = Р
+item-history-form-data-downloads-description = Удаляет историю сайтов и загрузок, информацию сохранённых форм и поисковые запросы
 item-cookies =
     .label = Куки
+    .accesskey = у
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Куки и данные сайтов ({ $amount } { $unit })
     .accesskey = у
 item-cookies-site-data =
     .label = Куки и данные сайтов
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Кеш
     .accesskey = е
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Временные кешированные файлы и страницы ({ $amount } { $unit })
+    .accesskey = а
 item-cached-content =
     .label = Временные кешированные файлы и страницы
     .accesskey = а
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = Настройки сайтов
     .accesskey = ш
 item-site-prefs-description = Сбрасывает ваши разрешения и настройки сайтов на исходные настройки
-item-download-history =
-    .label = Список загруженных файлов
-    .accesskey = В
 data-section-label = Данные
 item-site-settings =
     .label = Настройки сайтов
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = Удалить сейчас
 sanitize-button-ok2 =
     .label = Удалить
+sanitize-button-ok-on-shutdown =
+    .label = Сохранить изменения
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
