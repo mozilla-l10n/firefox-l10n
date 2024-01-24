@@ -60,6 +60,12 @@ item-history-form-data-downloads =
 item-cookies =
     .label = Cookie
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookie και δεδομένα ιστοτόπων ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookie και δεδομένα ιστοτόπων
     .accesskey = e
@@ -69,6 +75,12 @@ item-active-logins =
     .accesskey = υ
 item-cache =
     .label = Προσωρινή μνήμη
+    .accesskey = ρ
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Προσωρινά αρχεία και σελίδες ({ $amount } { $unit })
     .accesskey = ρ
 item-cached-content =
     .label = Προσωρινά αποθηκευμένα αρχεία και σελίδες
