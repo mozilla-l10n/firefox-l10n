@@ -160,6 +160,10 @@ webrtc-allow-share-screen-with-file = Toestaan om dit lokale bestand uw scherm t
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-with-file = Toestaan om dit lokale bestand andere luidsprekers te gebruiken?
+webrtc-allow-share-camera-and-microphone-with-file = Toestaan om dit lokale bestand uw camera en microfoon te gebruiken?
+webrtc-allow-share-camera-and-audio-capture-with-file = Toestaan om dit lokale bestand uw camera te gebruiken en het geluid van dit tabblad te beluisteren?
+webrtc-allow-share-screen-and-microphone-with-file = Toestaan om dit lokale bestand uw microfoon te gebruiken en uw scherm te zien?
+webrtc-allow-share-screen-and-audio-capture-with-file = Toestaan om dit lokale bestand het geluid van dit tabblad te beluisteren en uw scherm te zien?
 
 ## Variables:
 ##   $origin (String): the first party origin.
