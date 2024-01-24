@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Xóa toàn bộ lịch sử
     .style = min-width: 34em
 clear-data-settings-label = Khi đóng, { -brand-short-name } sẽ xóa tất cả một cách tự động
+sanitize-on-shutdown-description = Tự động xóa tất cả các mục đã chọn khi đóng { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,12 +55,19 @@ history-section-label = Lịch sử
 item-history-and-downloads =
     .label = Lịch sử duyệt web & tải xuống
     .accesskey = d
-item-browsing-and-search =
-    .label = Các trang web đã truy cập, thông tin biểu mẫu đã lưu và tìm kiếm
-    .accesskey = V
+item-history-form-data-downloads =
+    .label = Lịch sử
+    .accesskey = H
+item-history-form-data-downloads-description = Xóa trang web và lịch sử tải xuống, thông tin biểu mẫu đã lưu và tìm kiếm
 item-cookies =
     .label = Cookie
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookie và dữ liệu trang web ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookie và dữ liệu trang
     .accesskey = e
@@ -70,6 +78,15 @@ item-active-logins =
 item-cache =
     .label = Bộ nhớ đệm
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Các tập tin và trang được lưu trong bộ nhớ đệm tạm thời ({ $amount } { $unit })
+    .accesskey = f
+item-cached-content =
+    .label = Các tập tin và trang được lưu trong bộ nhớ đệm tạm thời
+    .accesskey = f
 item-cached-content-description = Xóa các mục giúp trang web tải nhanh hơn
 item-form-search-history =
     .label = Lịch sử biểu mẫu & tìm kiếm
@@ -78,9 +95,6 @@ item-site-prefs =
     .label = Cài đặt trang
     .accesskey = i
 item-site-prefs-description = Đặt lại quyền hạn và tùy chọn trang web của bạn về cài đặt gốc
-item-download-history =
-    .label = Danh sách tập tin đã tải xuống
-    .accesskey = D
 data-section-label = Dữ liệu
 item-site-settings =
     .label = Cài đặt trang
@@ -95,6 +109,8 @@ sanitize-button-ok =
     .label = Xóa ngay
 sanitize-button-ok2 =
     .label = Xóa
+sanitize-button-ok-on-shutdown =
+    .label = Lưu thay đổi
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
