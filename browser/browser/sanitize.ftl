@@ -54,12 +54,18 @@ history-section-label = 瀏覽紀錄
 item-history-and-downloads =
     .label = 瀏覽與下載記錄
     .accesskey = B
-item-browsing-and-search =
-    .label = 造訪過的網站、儲存的表單資訊與搜尋紀錄
-    .accesskey = V
+item-history-form-data-downloads =
+    .label = 瀏覽紀錄
+    .accesskey = H
 item-cookies =
     .label = Cookie
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookie 與網站資料（{ $amount } { $unit }）
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookie 與網站資料
     .accesskey = e
@@ -70,6 +76,12 @@ item-active-logins =
 item-cache =
     .label = 快取
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = 暫存的快取檔案與葉面（{ $amount } { $unit }）
+    .accesskey = f
 item-cached-content =
     .label = 暫時快取的檔案與頁面
     .accesskey = f
@@ -81,9 +93,6 @@ item-site-prefs =
     .label = 網站設定
     .accesskey = i
 item-site-prefs-description = 將您的權限與網站偏好設定重設回原始設定
-item-download-history =
-    .label = 下載檔案清單
-    .accesskey = D
 data-section-label = 資料
 item-site-settings =
     .label = 網站設定
@@ -98,6 +107,8 @@ sanitize-button-ok =
     .label = 立刻清除
 sanitize-button-ok2 =
     .label = 清除
+sanitize-button-ok-on-shutdown =
+    .label = 儲存變更
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
