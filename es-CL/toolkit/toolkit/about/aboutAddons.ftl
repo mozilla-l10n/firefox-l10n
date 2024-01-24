@@ -215,6 +215,9 @@ shortcuts-no-addons = No tienes ninguna extensión habilitada.
 shortcuts-no-commands = Las siguientes extensiones no tienen atajos:
 shortcuts-input =
     .placeholder = Escribe un atajo
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Eliminar atajo
 shortcuts-browserAction2 = Activar botón de la barra de herramientas
 shortcuts-pageAction = Activar acción de página
 shortcuts-sidebarAction = Barra lateral
