@@ -205,6 +205,9 @@ cfr-cbh-dismiss-button = Plus tard
     .accesskey = P
 cookie-banner-blocker-cfr-header = { -brand-short-name } vient de bloquer des cookies pour vous
 cookie-banner-blocker-cfr-body = Nous refusons automatiquement beaucoup de demandes de dépôt de cookies pour compliquer la tâche des sites qui veulent vous pister.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } a refusé une bannière de cookies pour vous
+cookie-banner-blocker-onboarding-body = Moins de distractions, moins de cookies qui vous pistent sur ce site.
+cookie-banner-blocker-onboarding-learn-more = En savoir plus
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -234,10 +237,6 @@ fxa-sync-cfr-secondary = Me le rappeler plus tard
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Vous utilisez un appareil plus ancien ?
-device-migration-fxa-spotlight-body = Sauvegardez vos données pour vous assurer de ne pas perdre d’informations importantes comme des marque-pages ou des mots de passe, surtout si vous changez d’appareil.
-device-migration-fxa-spotlight-primary-button = Comment sauvegarder mes données
-device-migration-fxa-spotlight-link = Me le rappeler plus tard
 device-migration-fxa-spotlight-heavy-user-header = N’oubliez pas de sauvegarder vos données
 device-migration-fxa-spotlight-heavy-user-body = Assurez-vous que les informations importantes (telles que marque-pages et mots de passe) soient mises à jour et protégées sur tous vos appareils.
 device-migration-fxa-spotlight-heavy-user-primary-button = Commencer
