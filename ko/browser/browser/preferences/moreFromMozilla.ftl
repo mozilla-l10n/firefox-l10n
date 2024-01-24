@@ -25,3 +25,8 @@ more-from-moz-learn-more-link = 더 알아보기
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = 무료 이메일 마스킹으로 받은 편지함과 신원을 보호하세요.
 more-from-moz-firefox-relay-button = { -relay-brand-short-name }받기
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = 노출된 개인 정보를 자동으로 회수합니다.

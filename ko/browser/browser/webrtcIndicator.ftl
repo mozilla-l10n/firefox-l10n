@@ -123,7 +123,7 @@ webrtc-allow-share-screen = { $origin } 사이트가 화면을 볼 수 있도록
 # another audio output connection.
 webrtc-allow-share-speaker = { $origin } 사이트가 다른 스피커를 사용하도록 허용하시겠습니까?
 webrtc-allow-share-camera-and-microphone = { $origin } 사이트가 카메라와 마이크를 사용하도록 허용하시겠습니까?
-webrtc-allow-share-camera-and-audio-capture = { $origin } 사이트가 카메라를 사용하고 이 탭의 소리를 듣을 수 있도록 허용하시겠습니까?
+webrtc-allow-share-camera-and-audio-capture = { $origin } 사이트가 카메라를 사용하고 이 탭의 소리를 들을 수 있도록 허용하시겠습니까?
 webrtc-allow-share-screen-and-microphone = { $origin } 사이트가 마이크를 사용하고 화면을 볼 수 있도록 허용하시겠습니까?
 webrtc-allow-share-screen-and-audio-capture = { $origin } 사이트가 이 탭의 소리를 듣고 화면을 볼 수 있도록 허용하시겠습니까?
 
@@ -138,6 +138,8 @@ webrtc-allow-share-screen-with-file = 이 로컬 파일이 화면을 볼 수 있
 webrtc-allow-share-speaker-with-file = 이 로컬 파일이 다른 스피커를 사용하도록 허용하시겠습니까?
 webrtc-allow-share-camera-and-microphone-with-file = 이 로컬 파일이 카메라와 마이크를 사용하도록 허용하시겠습니까?
 webrtc-allow-share-camera-and-audio-capture-with-file = 이 로컬 파일이 카메라를 사용하고 이 탭의 소리를 들을 수 있도록 허용하시겠습니까?
+webrtc-allow-share-screen-and-microphone-with-file = 이 로컬 파일이 마이크를 사용하고 화면을 볼 수 있도록 허용하시겠습니까?
+webrtc-allow-share-screen-and-audio-capture-with-file = 이 로컬 파일이 이 탭의 소리를 듣고 화면을 볼 수 있도록 허용하시겠습니까?
 
 ## Variables:
 ##   $origin (String): the first party origin.
