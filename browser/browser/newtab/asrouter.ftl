@@ -212,6 +212,9 @@ cfr-cbh-dismiss-button = Nic něnto
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name } jo rowno blokěrował cookieje za was
 cookie-banner-blocker-cfr-body = Awtomatiski wótpokazujomy wjele cookiejowych wuskokujucych woknow, aby sedłam póśěžyli, wam slědowaś.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } jo rowno wótpokazał cookiejowy chórgoj za was
+cookie-banner-blocker-onboarding-body = Mjenjej wótchylenjow, mjenjej cookiejow, kótarež was na sedle pśeslěduju.
+cookie-banner-blocker-onboarding-learn-more = Dalšne informacije
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -241,10 +244,6 @@ fxa-sync-cfr-secondary = Pózdźej dopomnjeś
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Staršy rěd wužywaś?
-device-migration-fxa-spotlight-body = Zawěsććo swóje daty, až njeby wy wažne informacije ako cytańske znamjenja a groidła zgubił — pśedewšym, jolic k nowemu rědoju pśejźośo.
-device-migration-fxa-spotlight-primary-button = Kak mógu swóje daty zawěsćiś
-device-migration-fxa-spotlight-link = Pózdźej dopomnjeś
 device-migration-fxa-spotlight-heavy-user-header = Njezabywajśo swóje daty zawěsćiś
 device-migration-fxa-spotlight-heavy-user-body = Zawěsććo, až se wažne informacije – na pśikład cytańske znamjenja a gronidła – aktualizěruju a na wšych wašych rědach šćitaju.
 device-migration-fxa-spotlight-heavy-user-primary-button = Prědne kšace

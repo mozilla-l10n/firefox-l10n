@@ -209,6 +209,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Toś ten kontejner wótwónoźeś
 containers-remove-cancel-button = Toś ten kontejner njewótwónoźeś
+settings-tabs-show-image-in-preview =
+    .label = Wobrazowy pśeglěd pokazaś, gaž sćo nad rejtarikom
+    .accessKey = b
 
 ## General Section - Language & Appearance
 
