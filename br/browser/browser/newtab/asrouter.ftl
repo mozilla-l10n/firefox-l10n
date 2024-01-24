@@ -208,6 +208,7 @@ cfr-cbh-confirm-button = Argas banniel an toupinoù
 cfr-cbh-dismiss-button = Ket bremañ
     .accesskey = K
 cookie-banner-blocker-cfr-header = { -brand-short-name } zo o paouez stankañ toupinoù evidoc'h
+cookie-banner-blocker-onboarding-learn-more = Gouzout hiroc’h
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -232,9 +233,6 @@ fxa-sync-cfr-secondary = Degas soñj din diwezhatoc’h
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Emaoc'h oc'h ober gant ur benveg koshoc'h?
-device-migration-fxa-spotlight-primary-button = Penaos gwareziñ ma roadennoù
-device-migration-fxa-spotlight-link = Degas soñj din diwezhatoc’h
 device-migration-fxa-spotlight-heavy-user-header = N'ankouait ket da warediñ ho roadennoù
 device-migration-fxa-spotlight-heavy-user-primary-button = Kregiñ ganti
 device-migration-fxa-spotlight-older-device-primary-button = Krouiñ ur gont

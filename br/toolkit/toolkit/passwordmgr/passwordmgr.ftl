@@ -5,6 +5,9 @@
 
 ## Save and update password doorhanger
 
+# Variables
+#   $host (String) - Hostname for which the password is saved for.
+password-manager-save-password-message = Enrollañ ar ger-tremen evit { $host }?
 password-manager-save-password-button-deny =
     .label = Diwezhatoc’h
     .accesskey = D
@@ -14,6 +17,13 @@ password-manager-save-password-button-allow =
 password-manager-save-password-button-never =
     .label = Na enrollañ morse
     .accesskey = E
+# Variables
+#   $host (String) - Hostname for which the password is updated for.
+password-manager-update-password-message = Hizivaat ar ger-tremen evit { $host }?
+password-manager-update-password-button-delete =
+    .label = Dilemel ar ger-tremen enrollet
+    .accesskey = D
+password-manager-update-login-add-username = Ouzhpennañ an anv implijer dʼar ger-tremen enrollet?
 password-manager-password-password-button-allow =
     .label = Hizivaat
     .accesskey = H
