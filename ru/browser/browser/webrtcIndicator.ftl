@@ -167,6 +167,9 @@ webrtc-allow-share-screen-with-file = Разрешить этому локаль
 # another audio output connection.
 webrtc-allow-share-speaker-with-file = Разрешить этому локальному файлу использовать другие динамики?
 webrtc-allow-share-camera-and-microphone-with-file = Разрешить этому локальному файлу использовать ваши камеру и микрофон?
+webrtc-allow-share-camera-and-audio-capture-with-file = Разрешить этому локальному файлу использовать вашу камеру и слушать аудио этой вкладки?
+webrtc-allow-share-screen-and-microphone-with-file = Разрешить этому локальному файлу использовать ваш микрофон и видеть ваш экран?
+webrtc-allow-share-screen-and-audio-capture-with-file = Разрешить этому локальному файлу прослушивать звук этой вкладки и видеть ваш экран?
 
 ## Variables:
 ##   $origin (String): the first party origin.

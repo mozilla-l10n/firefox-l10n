@@ -220,6 +220,9 @@ shortcuts-no-addons = У вас не включено ни одного расш
 shortcuts-no-commands = У следующих расширений нет горячих клавиш:
 shortcuts-input =
     .placeholder = Введите горячую клавишу
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Удалить ярлык
 shortcuts-browserAction2 = Активировать кнопку панели инструментов
 shortcuts-pageAction = Активировать действие на странице
 shortcuts-sidebarAction = Показать/скрыть боковую панель
