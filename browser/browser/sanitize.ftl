@@ -54,12 +54,18 @@ history-section-label = Geschiedenis
 item-history-and-downloads =
     .label = Navigatie- & downloadgeschiedenis
     .accesskey = N
-item-browsing-and-search =
-    .label = Bezochte websites, opgeslagen formulierinformatie en zoekopdrachten
-    .accesskey = z
+item-history-form-data-downloads =
+    .label = Geschiedenis
+    .accesskey = G
 item-cookies =
     .label = Cookies
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookies en websitegegevens ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookies en websitegegevens
     .accesskey = e
@@ -81,9 +87,6 @@ item-site-prefs =
     .label = Website-instellingen
     .accesskey = i
 item-site-prefs-description = Zet uw toestemmingen en websitevoorkeuren terug naar de oorspronkelijke instellingen
-item-download-history =
-    .label = Lijst met gedownloade bestanden
-    .accesskey = d
 data-section-label = Gegevens
 item-site-settings =
     .label = Website-instellingen
@@ -98,6 +101,8 @@ sanitize-button-ok =
     .label = Nu wissen
 sanitize-button-ok2 =
     .label = Wissen
+sanitize-button-ok-on-shutdown =
+    .label = Wijzigingen opslaan
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
