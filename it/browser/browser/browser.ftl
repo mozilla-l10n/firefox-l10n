@@ -5,11 +5,39 @@
 
 ## The main browser window's title
 
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } Navigazione anonima
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – { -brand-full-name } Navigazione anonima
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } – Navigazione anonima
@@ -20,6 +48,8 @@ browser-main-window-mac-window-titles =
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } – Navigazione anonima
 
 ##
@@ -75,6 +105,9 @@ urlbar-tip-help-icon =
     .title = Ottieni assistenza
 urlbar-search-tips-confirm = OK
 urlbar-search-tips-confirm-short = OK
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
 urlbar-tip-icon-description =
     .alt = Suggerimento:
 urlbar-result-menu-button =
@@ -98,6 +131,7 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Scrivi di meno e trova più risultati: cerca con { $engineName } direttamente dalla barra degli indirizzi.
 urlbar-search-tips-redirect-2 = Inizia le tue ricerche dalla barra degli indirizzi per visualizzare suggerimenti da { $engineName } e dalla cronologia di navigazione.
+# Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Cercare è diventato ancora più semplice. Prova a rendere la tua ricerca più specifica qui nella barra degli indirizzi. Se invece preferisci visualizzare l’indirizzo, visita il pannello Ricerca nelle impostazioni.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
@@ -165,7 +199,7 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
-# This string prompts the user to use the list of one-click search engines in
+# This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Adesso cerca con:
 search-one-offs-change-settings-compact-button =
@@ -218,41 +252,58 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
 quickactions-addons = Visualizza componenti aggiuntivi
 quickactions-cmd-addons2 = componenti aggiuntivi
+# Opens the bookmarks library window
 quickactions-bookmarks2 = Gestisci segnalibri
 quickactions-cmd-bookmarks = segnalibri
+# Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Cancella cronologia
 quickactions-cmd-clearhistory = cancella cronologia
+# Opens about:downloads page
 quickactions-downloads2 = Mostra download
 quickactions-cmd-downloads = download
+# Opens about:addons page in the extensions section
 quickactions-extensions = Gestisci estensioni
 quickactions-cmd-extensions = estensioni
+# Opens the devtools web inspector
 quickactions-inspector2 = Apri strumenti di sviluppo
 quickactions-cmd-inspector = analisi pagina, devtools, sviluppatori
+# Opens about:logins
 quickactions-logins2 = Gestisci password
 quickactions-cmd-logins = credenziali, password
+# Opens about:addons page in the plugins section
 quickactions-plugins = Gestisci plugin
 quickactions-cmd-plugins = plugin
+# Opens the print dialog
 quickactions-print2 = Stampa pagina
 quickactions-cmd-print = stampa
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Salva pagina come PDF
 quickactions-cmd-savepdf = pdf
+# Opens a new private browsing window
 quickactions-private2 = Apri finestra anonima
 quickactions-cmd-private = navigazione anonima, incognito
+# Opens a SUMO article explaining how to refresh
 quickactions-refresh = Ripristina { -brand-short-name }
 quickactions-cmd-refresh = ripristina
+# Restarts the browser
 quickactions-restart = Riavvia { -brand-short-name }
 quickactions-cmd-restart = riavvia
+# Opens the screenshot tool
 quickactions-screenshot3 = Cattura schermata
 quickactions-cmd-screenshot = schermata, screenshot
+# Opens about:preferences
 quickactions-settings2 = Gestisci impostazioni
 quickactions-cmd-settings = impostazioni, preferenze, opzioni
+# Opens about:addons page in the themes section
 quickactions-themes = Gestisci temi
 quickactions-cmd-themes = temi
+# Opens a SUMO article explaining how to update the browser
 quickactions-update = Aggiorna { -brand-short-name }
 quickactions-cmd-update = aggiorna
+# Opens the view-source UI with current pages source
 quickactions-viewsource2 = Visualizza sorgente pagina
 quickactions-cmd-viewsource = visualizza sorgente, sorgente
 # Tooltip text for the help button shown in the result.
@@ -430,9 +481,6 @@ sharing-warning-proceed-to-tab =
     .label = Passa alla scheda
 sharing-warning-disable-for-session =
     .label = Disattiva avvisi relativi alla condivisione in questa sessione
-# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
-urlbar-search-mode-indicator-close =
-    .aria-label = Chiudi
 
 ## DevTools F12 popup
 
@@ -440,6 +488,11 @@ enable-devtools-popup-description2 = Per utilizzare la scorciatoia da tastiera F
 
 ## URL Bar
 
+# This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
+urlbar-search-mode-indicator-close =
+    .aria-label = Chiudi
+# This placeholder is used when not in search mode and the user's default search
+# engine is unknown.
 urlbar-placeholder =
     .placeholder = Cerca o inserisci un indirizzo
 # This placeholder is used in search mode with search engines that search the
@@ -514,6 +567,11 @@ urlbar-result-action-search-w-engine = Cerca con { $engine }
 urlbar-result-action-sponsored = Sponsorizzato
 urlbar-result-action-switch-tab = Passa alla scheda
 urlbar-result-action-visit = Apri
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Passa alla scheda · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Apri indirizzo dagli appunti
 # Directs a user to press the Tab key to perform a search with the specified
@@ -560,7 +618,7 @@ urlbar-result-action-search-actions = Cerca nelle azioni
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
 # A label shown above the search suggestions group in the urlbar results. It
-# should use title case.
+# should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
@@ -679,6 +737,7 @@ bookmarks-toolbar-placeholder =
     .title = Elementi della barra dei segnalibri
 bookmarks-toolbar-placeholder-button =
     .label = Elementi della barra dei segnalibri
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Aggiungi scheda corrente ai segnalibri…
 
@@ -843,6 +902,7 @@ data-reporting-notification-message = Alcune informazioni vengono inviate automa
 data-reporting-notification-button =
     .label = Scegli cosa condividere
     .accesskey = S
+# Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navigazione anonima
 
 ## Unified extensions (toolbar) button
@@ -898,6 +958,8 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-to-use-relay = I nostri alias di posta elettronica, sicuri e facili da utilizzare, proteggono la tua identità e bloccano lo spam nascondendo il tuo indirizzo reale.
+# Variables:
+#  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Tutte le email inviate al tuo alias verranno inoltrate a <strong>{ $useremail }</strong> (a meno che tu non decida di bloccarle).
 firefox-relay-offer-legal-notice = Facendo clic su “Utilizza alias di posta elettronica”, accetti le <label data-l10n-name="tos-url">Condizioni di utilizzo del servizio</label> e l’<label data-l10n-name="privacy-url">Informativa sulla privacy</label>.
 
@@ -935,5 +997,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Visualizza “{ $popupURI }”
-
-
