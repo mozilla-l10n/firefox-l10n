@@ -191,6 +191,9 @@ containers-remove-alert-title = 要移除這個容器嗎？
 containers-remove-alert-msg = 若您現在移除此容器，將關閉 { $count } 個容器分頁。您確定要移除此容器嗎？
 containers-remove-ok-button = 移除此容器
 containers-remove-cancel-button = 不要移除此容器
+settings-tabs-show-image-in-preview =
+    .label = 當滑鼠移動到分頁標籤上時，顯示分頁預覽
+    .accessKey = h
 
 ## General Section - Language & Appearance
 
