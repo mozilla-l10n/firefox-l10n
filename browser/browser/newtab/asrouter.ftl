@@ -209,6 +209,9 @@ cfr-cbh-dismiss-button = Не сейчас
     .accesskey = е
 cookie-banner-blocker-cfr-header = { -brand-short-name } только что заблокировал для вас куки
 cookie-banner-blocker-cfr-body = Мы автоматически отказываемся от многих всплывающих окон о куках, чтобы сайтам было сложнее вас отслеживать.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } только что отклонил для вас уведомление о куки
+cookie-banner-blocker-onboarding-body = Меньше отвлекающих факторов, меньше куки, отслеживающих вас на этом сайте.
+cookie-banner-blocker-onboarding-learn-more = Узнать больше
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -238,10 +241,6 @@ fxa-sync-cfr-secondary = Напомнить позже
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Используете старое устройство?
-device-migration-fxa-spotlight-body = Сделайте резервную копию своих данных, чтобы не потерять важную информацию, такую как закладки и пароли, особенно при переходе на новое устройство.
-device-migration-fxa-spotlight-primary-button = Как сделать резервную копию моих данных
-device-migration-fxa-spotlight-link = Напомнить позже
 device-migration-fxa-spotlight-heavy-user-header = Не забудьте создать резервную копию своих данных
 device-migration-fxa-spotlight-heavy-user-body = Убедитесь, что важная информация, такая как закладки и пароли, обновляется и защищается на всех ваших устройствах.
 device-migration-fxa-spotlight-heavy-user-primary-button = Начало работы
