@@ -212,6 +212,9 @@ cfr-cbh-dismiss-button = Nic nětko
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name } je runje placki za was zablokował
 cookie-banner-blocker-cfr-body = Awtomatisce wotpokazujemy wjele plackowych wuskakowacych woknow, zo bychmy sydłam poćežili, wam slědować.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } je runje plackowy chorhoj za was wotpokazał
+cookie-banner-blocker-onboarding-body = Mjenje wotwjedźenjow, mjenje plackow, kotrež was na sydle přesćěhuja.
+cookie-banner-blocker-onboarding-learn-more = Dalše informacije
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -241,10 +244,6 @@ fxa-sync-cfr-secondary = Pozdźišo dopomnić
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = StaršI grat wužiwać?
-device-migration-fxa-spotlight-body = Zawěsćće swoje daty, zo njebyšće wažne informacije kaž zapołožki a hesła zhubił — předewšěm, jeli k nowemu gratej přeńdźeće.
-device-migration-fxa-spotlight-primary-button = Kak móžu swoje daty zawěsćić
-device-migration-fxa-spotlight-link = Pozdźišo dopomnić
 device-migration-fxa-spotlight-heavy-user-header = Njezabywajće swoje daty zawěsćić
 device-migration-fxa-spotlight-heavy-user-body = Zawěsćće, zo so wažne informacije – na přikład zapołožki a hesła – aktualizuja a na wšěch wašich gratach škitaja.
 device-migration-fxa-spotlight-heavy-user-primary-button = Prěnje kroki
