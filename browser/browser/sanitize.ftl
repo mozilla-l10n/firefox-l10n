@@ -76,6 +76,12 @@ item-active-logins =
 item-cache =
     .label = Buffer
     .accesskey = B
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Tijdelijk gebufferde bestanden en pagina’s ({ $amount } { $unit })
+    .accesskey = f
 item-cached-content =
     .label = Tijdelijk gebufferde bestanden en pagina’s
     .accesskey = t
