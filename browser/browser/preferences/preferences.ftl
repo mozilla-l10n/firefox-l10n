@@ -250,6 +250,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Odstranit tento kontejner
 containers-remove-cancel-button = Neodstraňovat tento kontejner
+settings-tabs-show-image-in-preview =
+    .label = Zobrazit obrázek s náhledem při přejetí nad panelem
+    .accessKey = o
 
 ## General Section - Language & Appearance
 

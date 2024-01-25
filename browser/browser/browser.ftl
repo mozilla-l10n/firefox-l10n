@@ -628,6 +628,11 @@ urlbar-result-action-search-w-engine = Vyhledat pomocí { $engine }
 urlbar-result-action-sponsored = Sponzorováno
 urlbar-result-action-switch-tab = Přepnout na panel
 urlbar-result-action-visit = Navštívit
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Přepnout na panel · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Použít adresu ze schránky
 # Directs a user to press the Tab key to perform a search with the specified
