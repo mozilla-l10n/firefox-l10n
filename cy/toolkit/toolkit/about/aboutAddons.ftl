@@ -217,6 +217,9 @@ shortcuts-no-addons = Nid oes gennych unrhyw estyniadau wedi'u galluogi.
 shortcuts-no-commands = Nid oes gan yr estyniadau canlynol lwybrau byr:
 shortcuts-input =
     .placeholder = Teipiwch llwybr byr
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Dileu llwybr byr
 shortcuts-browserAction2 = Cychwyn botwm bar offer
 shortcuts-pageAction = Cychwyn gweithred tudalen
 shortcuts-sidebarAction = Toglo'r bar ochr
