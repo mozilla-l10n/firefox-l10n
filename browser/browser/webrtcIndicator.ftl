@@ -175,6 +175,20 @@ webrtc-allow-share-camera-and-audio-capture = Caniatáu i { $origin } ddefnyddio
 webrtc-allow-share-screen-and-microphone = Caniatáu i { $origin } ddefnyddio'ch meicroffon a gweld eich sgrin?
 webrtc-allow-share-screen-and-audio-capture = Caniatáu i { $origin } wrando ar sain y tab hwn a gweld eich sgrin?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Caniatáu i'r ffeil leol hon wrando ar sain y tab hwn?
+webrtc-allow-share-camera-with-file = Caniatáu i'r ffeil leol hon ddefnyddio'ch camera?
+webrtc-allow-share-microphone-with-file = Caniatáu i'r ffeil leol hon ddefnyddio'ch meicroffon?
+webrtc-allow-share-screen-with-file = Caniatáu i'r ffeil leol hon weld eich sgrin?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Caniatáu i'r ffeil leol hon ddefnyddio seinyddion eraill?
+webrtc-allow-share-camera-and-microphone-with-file = Caniatáu i'r ffeil leol hon ddefnyddio'ch camera a'ch meicroffon?
+webrtc-allow-share-camera-and-audio-capture-with-file = Caniatáu i'r ffeil leol hon ddefnyddio'ch camera a gwrando ar sain y tab hwn?
+webrtc-allow-share-screen-and-microphone-with-file = Caniatáu i'r ffeil leol hon ddefnyddio'ch meicroffon a gweld eich sgrin?
+webrtc-allow-share-screen-and-audio-capture-with-file = Caniatáu i'r ffeil leol hon wrando ar sain y tab hwn a gweld eich sgrin?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
