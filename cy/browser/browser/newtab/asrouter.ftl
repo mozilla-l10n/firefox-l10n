@@ -218,6 +218,9 @@ cfr-cbh-dismiss-button = Nid nawr
     .accesskey = N
 cookie-banner-blocker-cfr-header = Mae { -brand-short-name } newydd rwystro cwcis ar eich cyfer
 cookie-banner-blocker-cfr-body = Rydym yn gwrthod llawer o lamlenni cwcis yn awtomatig i'w gwneud hi'n anodd i wefannau eich tracio chi.
+cookie-banner-blocker-onboarding-header = Mae { -brand-short-name } newydd wrthod baner cwci drosoch chi
+cookie-banner-blocker-onboarding-body = Llai o darfu, llai o gwcis yn eich tracio ar y wefan hon.
+cookie-banner-blocker-onboarding-learn-more = Darllen rhagor
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -247,10 +250,6 @@ fxa-sync-cfr-secondary = Atgoffwch fi yn nes ymlaen
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Yn defnyddio dyfais hŷn?
-device-migration-fxa-spotlight-body = Gwnewch gopi wrth gefn o'ch data i wneud yn siŵr nad ydych chi'n colli manylion pwysig fel nodau tudalen a chyfrineiriau — yn enwedig os byddwch chi'n newid i ddyfais newydd.
-device-migration-fxa-spotlight-primary-button = Sut i wneud copi wrth gefn o fy nata
-device-migration-fxa-spotlight-link = Atgoffwch fi yn nes ymlaen
 device-migration-fxa-spotlight-heavy-user-header = Peidiwch ag anghofio gwneud copi wrth gefn o'ch data
 device-migration-fxa-spotlight-heavy-user-body = Gwnewch yn siŵr fod gwybodaeth bwysig - fel nodau tudalen a chyfrineiriau - yn cael eu diweddaru a'u diogelu ar draws eich holl ddyfeisiau.
 device-migration-fxa-spotlight-heavy-user-primary-button = Cychwyn arni

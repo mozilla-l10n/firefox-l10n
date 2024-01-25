@@ -25,3 +25,10 @@ more-from-moz-learn-more-link = Darllen rhagor
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Diogelwch eich blwch derbyn a'ch hunaniaeth gydag arallenwau e-bost am ddim.
 more-from-moz-firefox-relay-button = Cael { -relay-brand-short-name }
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Adfer eich manylion personol a ddatgelwyd yn awtomatig.
+more-from-moz-mozilla-monitor-global-description = Derbyn rhybuddion pan fydd eich data wedi'i ddatgelu.
+more-from-moz-mozilla-monitor-button = Cael { -monitor-brand-short-name }
