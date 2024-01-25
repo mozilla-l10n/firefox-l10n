@@ -55,7 +55,7 @@ bookmark-selected-tabs =
     .label = Dodaj zavihke med zaznamke …
     .accesskey = m
 tab-context-bookmark-tab =
-    .label = Dodaj zavihke med zaznamke …
+    .label = Dodaj zavihek med zaznamke …
     .accesskey = z
 tab-context-open-in-new-container-tab =
     .label = Odpri v novem zavihku vsebnika
@@ -108,7 +108,6 @@ tab-context-move-tabs =
            *[other] Premakni zavihke
         }
     .accesskey = m
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
