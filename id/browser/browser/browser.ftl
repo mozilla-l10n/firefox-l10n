@@ -955,6 +955,7 @@ firefox-relay-offer-why-to-use-relay = Topeng aman dan mudah digunakan dari kami
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Semua surel yang dikirim ke topeng surel Anda akan diteruskan ke <strong>{ $useremail }</strong> (kecuali jika Anda memutuskan untuk memblokir mereka).
+firefox-relay-offer-legal-notice = Dengan mengklik “Gunakan masker surel”, Anda setuju dengan <label data-l10n-name="tos-url">Ketentuan Layanan</label> dan <label data-l10n-name="privacy-url">Pernyataan Privasi</label>.
 
 ## Add-on Pop-up Notifications
 
