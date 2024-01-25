@@ -215,6 +215,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Tynnu'r Cynhwysydd Hwn
 containers-remove-cancel-button = Peidio Tynnu'r Cynhwysydd Hwn
+settings-tabs-show-image-in-preview =
+    .label = Dangos ragolwg delwedd pan fyddwch chi'n hofran ar dab
+    .accessKey = h
 
 ## General Section - Language & Appearance
 

@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Clirio'r Holl Hanes
     .style = min-width: 34em
 clear-data-settings-label = Pan fyddai'n gadael { -brand-short-name } dylai glirio popeth yn awtomatig
+sanitize-on-shutdown-description = Clirio pob eitem sydd wedi'i thicio'n awtomatig pan fydd { -brand-short-name } yn cau.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,12 +55,19 @@ history-section-label = Hanes
 item-history-and-downloads =
     .label = Hanes Pori a Llwytho i Lawr
     .accesskey = H
-item-browsing-and-search =
-    .label = Gwefannau yr ymwelwyd â nhw, manylion ffurflenni wedi'u cadw a chwiliadau
-    .accesskey = G
+item-history-form-data-downloads =
+    .label = Hanes
+    .accesskey = h
+item-history-form-data-downloads-description = Yn clirio gwefan a hanes llwytho, gwybodaeth ffurflen wedi'i chadw, a chwiliadau
 item-cookies =
     .label = Cwcis
     .accesskey = w
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cwcis a data gwefan ( { $amount } { $unit } )
+    .accesskey = C
 item-cookies-site-data =
     .label = Cwcis a data gwefan
     .accesskey = C
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Storfa Dros Dro
     .accesskey = S
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Ffeiliau a thudalennau wedi'u storio dros dro ( { $amount } { $unit } )
+    .accesskey = F
 item-cached-content =
     .label = Ffeiliau a thudalennau wedi'u storio dros dro
     .accesskey = F
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = Gosodiadau gwefannau
     .accesskey = G
 item-site-prefs-description = Yn ailosod eich caniatâd a'ch dewisiadau gwefan i'r gosodiadau gwreiddiol
-item-download-history =
-    .label = Rhestr ffeiliau wedi'u llwytho i lawr
-    .accesskey = R
 data-section-label = Data
 item-site-settings =
     .label = Gosodiadau gwefan
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = Clirio Nawr
 sanitize-button-ok2 =
     .label = Clirio
+sanitize-button-ok-on-shutdown =
+    .label = Cadw Newidiadau
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
