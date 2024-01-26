@@ -220,6 +220,9 @@ shortcuts-no-addons = Jo hawwe gjin útwreidingen ynskeakele.
 shortcuts-no-commands = De folgjende útwreidingen hawwe gjin fluchtoetsen:
 shortcuts-input =
     .placeholder = Typ in fluchtoets
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Fluchkeppeling fuortsmite
 shortcuts-browserAction2 = Arkbalkeknop aktivearje
 shortcuts-pageAction = Side-aksje aktivearje
 shortcuts-sidebarAction = De sydbalke yn-/útskeakelje

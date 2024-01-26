@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Wiskje alle skiednis
     .style = min-width: 34em
 clear-data-settings-label = As ik { -brand-short-name } ôfslút, automatysk alles wiskje
+sanitize-on-shutdown-description = Automatysk alle selektearre items wiskje as { -brand-short-name } sluten wurdt.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,9 +55,9 @@ history-section-label = Skiednis
 item-history-and-downloads =
     .label = Navigaasje- en downloadskiednis
     .accesskey = S
-item-browsing-and-search =
-    .label = Besochte websites, bewarre formulierynformaasje en sykopdrachten
-    .accesskey = s
+item-history-form-data-downloads =
+    .label = Skiednis
+    .accesskey = S
 item-cookies =
     .label = Cookies
     .accesskey = C
@@ -81,9 +82,6 @@ item-site-prefs =
     .label = Websiteynstellingen
     .accesskey = i
 item-site-prefs-description = Set jo tastimmingen en websitefoarkarren tebek nei de oarspronklike ynstellingen
-item-download-history =
-    .label = List mei downloade bestannen
-    .accesskey = d
 data-section-label = Gegevens
 item-site-settings =
     .label = Website-ynstellingen
