@@ -20,6 +20,7 @@
 -lockwise-brand-short-name = Lockwise
 -monitor-brand-name = Firefox Monitor
 -monitor-brand-short-name = Monitor
+-mozmonitor-brand-name = Mozilla Monitor
 -pocket-brand-name = Pocket
 -send-brand-name = Firefox Send
 -screenshots-brand-name = Firefox Screenshots
@@ -107,4 +108,3 @@
                 [lower] оглядачі Firefox
             }
     }
--mozmonitor-brand-name = Mozilla Monitor

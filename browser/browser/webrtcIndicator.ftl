@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = вкладка
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Невідоме джерело
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Спільне використання вкладок пристроями
     .accesskey = с
-
 webrtc-sharing-window = Ви надаєте спільний доступ до іншого вікна програми.
 webrtc-sharing-browser-window = Ви надаєте спільний доступ до { -brand-short-name }.
 webrtc-sharing-screen = Ви надаєте спільний доступ до цілого екрана.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Керувати спільним використанням
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Керувати спільним використанням на "{ $streamTitle }"
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Спільне використання камери з "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -103,7 +94,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Спільне використання камери з { $tabCount } вкладками
            *[many] Спільне використання камери з { $tabCount } вкладками
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Спільне використання мікрофону з "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -113,7 +103,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] Спільне використання мікрофону з { $tabCount } вкладками
            *[many] Спільне використання мікрофону з { $tabCount } вкладками
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Спільне використання програми з "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -123,7 +112,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Спільне використання програми з { $tabCount } вкладками
            *[many] Спільне використання програми з { $tabCount } вкладками
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Спільне використання екрана з "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -133,7 +121,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Спільне використання екрана з { $tabCount } вкладками
            *[many] Спільне використання екрана з { $tabCount } вкладками
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Спільне використання вікна з "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -143,7 +130,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Спільне використання вікна з { $tabCount } вкладками
            *[many] Спільне використання вікна з { $tabCount } вкладками
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Спільне використання вкладки з "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -171,6 +157,20 @@ webrtc-allow-share-camera-and-audio-capture = Дозволити { $origin } в�
 webrtc-allow-share-screen-and-microphone = Дозволити { $origin } використовувати ваш мікрофон і бачити ваш екран?
 webrtc-allow-share-screen-and-audio-capture = Дозволити { $origin } прослуховувати аудіо цієї вкладки та бачити ваш екран?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Дозволити цьому локальному файлу прослуховувати аудіо цієї вкладки?
+webrtc-allow-share-camera-with-file = Дозволити цьому локальному файлу використовувати вашу камеру?
+webrtc-allow-share-microphone-with-file = Дозволити цьому локальному файлу використовувати ваш мікрофон?
+webrtc-allow-share-screen-with-file = Дозволити цьому локальному файлу бачити ваш екран?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Дозволити цьому локальному файлу використовувати інші гучномовці?
+webrtc-allow-share-camera-and-microphone-with-file = Дозволити цьому локальному файлу використовувати камеру та мікрофон?
+webrtc-allow-share-camera-and-audio-capture-with-file = Дозволити цьому локальному файлу використовувати вашу камеру та прослуховувати аудіо цієї вкладки?
+webrtc-allow-share-screen-and-microphone-with-file = Дозволити цьому локальному файлу використовувати ваш мікрофон і бачити ваш екран?
+webrtc-allow-share-screen-and-audio-capture-with-file = Дозволити цьому локальному файлу прослуховувати аудіо цієї вкладки та бачити ваш екран?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -191,7 +191,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Дозволит
 
 webrtc-share-screen-warning = Діліться екраном лише з сайтами, яким ви довіряєте. Спільний доступ може дозволити несправжнім сайтам перегляд від вашого імені та викрадення особистих даних.
 webrtc-share-browser-warning = Діліться { -brand-short-name } лише з сайтами, яким ви довіряєте. Спільний доступ може дозволити несправжнім сайтам перегляд від вашого імені та викрадення особистих даних.
-
 webrtc-share-screen-learn-more = Докладніше
 webrtc-pick-window-or-screen = Оберіть вікно чи екран
 webrtc-share-entire-screen = Увесь екран
@@ -228,7 +227,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Запам'ятати це рішення
 webrtc-mute-notifications-checkbox = Вимкнути сповіщення вебсайту під час спільного доступу
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не може дозволити постійний доступ до вашого екрана.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не може дозволити постійний доступ до аудіо вашої вкладки без запиту.
 webrtc-reason-for-no-permanent-allow-insecure = Ваше з'єднання з цим сайтом незахищене. Для вашого захисту { -brand-short-name } дозволить доступ лише для цього сеансу.
