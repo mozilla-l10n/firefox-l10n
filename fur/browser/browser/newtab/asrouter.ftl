@@ -206,6 +206,9 @@ cfr-cbh-dismiss-button = No cumò
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name } al à a pene blocât i cookies par te
 cookie-banner-blocker-cfr-body = O refudìn in automatic tancj barcons a comparse pai cookies, par rindi plui dificil pai sîts stâti daûr.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } al à a pene refudât un strisson pai cookies
+cookie-banner-blocker-onboarding-body = Mancul distrazions, mancul cookies che ti stan daûr su chest sît.
+cookie-banner-blocker-onboarding-learn-more = Plui informazions
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -235,10 +238,6 @@ fxa-sync-cfr-secondary = Visimi plui indevant
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Stâstu doprant un dispositîf plui vieri?
-device-migration-fxa-spotlight-body = Fâs un backup dai tiei dâts par no pierdi informazions impuartantis come segnelibris e passwords — soredut se tu passis a un gnûf dispositîf.
-device-migration-fxa-spotlight-primary-button = Cemût salvâ i miei dâts
-device-migration-fxa-spotlight-link = Visimi plui indevant
 device-migration-fxa-spotlight-heavy-user-header = No sta dismenteâti di salvâ i tiei dâts
 device-migration-fxa-spotlight-heavy-user-body = Siguriti che lis informazions impuartantis — come segnelibris e passwords — a sedin inzornadis e protetis su ducj i tiei dispositîfs.
 device-migration-fxa-spotlight-heavy-user-primary-button = Scomence

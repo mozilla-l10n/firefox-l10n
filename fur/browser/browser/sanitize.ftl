@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Nete dute la cronologjie
     .style = min-width: 34em
 clear-data-settings-label = Cuant che si siere, { -brand-short-name } al à di netâ dut in automatic
+sanitize-on-shutdown-description = Scancele in automatic ducj i elements selezionâts cuant che { -brand-short-name } al ven sierât.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,12 +55,19 @@ history-section-label = Cronologjie
 item-history-and-downloads =
     .label = Cronologjie di navigazion e file discjariâts
     .accesskey = n
-item-browsing-and-search =
-    .label = Sîts visitâts, modui salvâts e ricercjis
-    .accesskey = v
+item-history-form-data-downloads =
+    .label = Cronologjie
+    .accesskey = C
+item-history-form-data-downloads-description = Al nete vie la cronologjie dai sîts visitâts e dai files discjariâts, lis informazions pe compilazion dai formularis e lis ricercjis
 item-cookies =
     .label = Cookies
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookies e dâts dai sîts web ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookies e dâts dai sîts
     .accesskey = e
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Cache
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Files e pagjinis memorizadis te cache in mût temporani ({ $amount } { $unit })
+    .accesskey = f
 item-cached-content =
     .label = Cache temporanie par files e pagjinis
     .accesskey = f
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = Impostazions dai sîts
     .accesskey = I
 item-site-prefs-description = Al ristabilìs i permès e lis preferencis dai sîts aes impostazions origjinâls
-item-download-history =
-    .label = Liste di files discjamâts
-    .accesskey = d
 data-section-label = Dâts
 item-site-settings =
     .label = Impostazions dai sîts
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = Nete fûr daurman
 sanitize-button-ok2 =
     .label = Nete
+sanitize-button-ok-on-shutdown =
+    .label = Salve modifichis
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

@@ -568,6 +568,11 @@ urlbar-result-action-search-w-engine = Cîr cun { $engine }
 urlbar-result-action-sponsored = Sponsorizât
 urlbar-result-action-switch-tab = Passe ae schede
 urlbar-result-action-visit = Visite
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Passe ae schede · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Vierç direzion da lis notis
 # Directs a user to press the Tab key to perform a search with the specified

@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = schede
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Origjin no cognossude
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Schedis che a condividin dispositîfs
     .accesskey = d
-
 webrtc-sharing-window = Tu stâs condividint un altri barcon de aplicazion.
 webrtc-sharing-browser-window = Tu stâs condividint { -brand-short-name }.
 webrtc-sharing-screen = Tu stâs condividint dut il schermi.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Controle la condivision
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Controle la condivision su “{ $streamTitle }”
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Condivision de fotocjamare cun “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Condivision de fotocjamare cun { $tabCount } schede
            *[other] Condivision de fotocjamare cun { $tabCount } schedis
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Condivision dal microfon cun “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Condivision dal microfon cun { $tabCount } schede
            *[other] Condivision dal microfon cun { $tabCount } schedis
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Condivision di une aplicazion cun “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Condivision di une aplicazion cun { $tabCount } schede
            *[other] Condivision di aplicazions cun { $tabCount } schedis
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Condivision dal schermi cun “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Condivision dal schermi cun { $tabCount } schede
            *[other] Condivision dal schermi cun { $tabCount } schedis
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Condivision di un barcon cun “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Condivision di un barcon cun { $tabCount } schede
            *[other] Condivision di barcons cun { $tabCount } schedis
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Condivision di une schede cun “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,20 @@ webrtc-allow-share-camera-and-audio-capture = Permetis { $origin } di doprâ la 
 webrtc-allow-share-screen-and-microphone = Permeti a { $origin } di doprâ il to microfon e viodi il to schermi?
 webrtc-allow-share-screen-and-audio-capture = Permeti a { $origin } di scoltâ il flus audio di cheste schede e viodi il to schermi?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Permeti a chest file locâl di scoltâ l'audio di cheste schede?
+webrtc-allow-share-camera-with-file = Permeti a chest file locâl di doprâ la fotocjamare?
+webrtc-allow-share-microphone-with-file = Permeti a chest file locâl di doprâ il microfon?
+webrtc-allow-share-screen-with-file = Permeti a chest file locâl di viodi il to schermi?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Permeti a chest file locâl di doprâ altris cassis?
+webrtc-allow-share-camera-and-microphone-with-file = Permeti a chest file locâl di doprâ la fotocjamare e il microfon?
+webrtc-allow-share-camera-and-audio-capture-with-file = Permeti a chest file locâl di doprâ la fotocjamare e scoltâ l'audio di cheste schede?
+webrtc-allow-share-screen-and-microphone-with-file = Permeti a chest file locâl di doprâ il microfon e viodi il to schermi?
+webrtc-allow-share-screen-and-audio-capture-with-file = Permeti a chest file locâl di scoltâ l'audio di cheste schede e viodi il to schermi?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +185,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permeti a { $ori
 
 webrtc-share-screen-warning = Condivît i schermis dome cui sîts che tu ti fidis. La condivision e pues permeti a sîts ingjanôs di navigâ impersonant l'utent e robâi i dâts privâts.
 webrtc-share-browser-warning = Condivît { -brand-short-name } dome cui sîts che tu ti fidis. La condivision e pues permeti a sîts ingjanôs di navigâ impersonant l'utent e robâi i dâts privâts.
-
 webrtc-share-screen-learn-more = Plui informazions
 webrtc-pick-window-or-screen = Selezione il barcon o il schermi
 webrtc-share-entire-screen = Dut il schermi
@@ -221,7 +220,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Visiti cheste decision
 webrtc-mute-notifications-checkbox = Cidine lis notifichis dal sît web intant che tu condividis
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nol pues permeti un acès permanent al to schermi.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nol pues permeti un acès permanent al flus audio de tô schede cence domandâ ce schede condividi.
 webrtc-reason-for-no-permanent-allow-insecure = La conession a chest sît no je sigure. Par proteziti, { -brand-short-name } ti permetarà l'acès dome par cheste session.

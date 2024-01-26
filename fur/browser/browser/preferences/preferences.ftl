@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Gjave chest contignidôr
 containers-remove-cancel-button = No sta gjavâ chest contignidôr
+settings-tabs-show-image-in-preview =
+    .label = Mostre une imagjin di anteprime cuant che tu passis cul pontadôr sore di une schede
+    .accessKey = h
 
 ## General Section - Language & Appearance
 

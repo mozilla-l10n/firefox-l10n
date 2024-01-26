@@ -344,3 +344,19 @@ onboarding-mobile-download-security-and-privacy-subtitle = Une volte completade 
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ti pare simpri
 onboarding-gratitude-security-and-privacy-subtitle = Graciis par vê sielt di doprâ { -brand-short-name }, il navigadôr supuartât de Mozilla Foundation. Cul to supuart, o lavorìn par rindi internet plui sigûr e acessibil par ducj.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Di trop timp dopristu { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Trop cognossistu { -brand-short-name }?
+onboarding-new-user-survey-subtitle = La tô opinion nus jude a rindi { -brand-short-name } ancjemò miôr.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = O soi gnûf
+onboarding-new-user-survey-time-based-option-2 = Mancul di un mês
+onboarding-new-user-survey-time-based-option-3 = Plui di un mês, in mût regolâr
+onboarding-new-user-survey-time-based-option-4 = Plui di un mês, dome ogni tant
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = No lu cognòs
+onboarding-new-user-survey-familiarity-based-option-2 = Lu ai doprât ogni tant
+onboarding-new-user-survey-familiarity-based-option-3 = Lu cognòs une vore ben
+onboarding-new-user-survey-familiarity-based-option-4 = Une volte lu dopravi, ma al è passât un pôc di timp
