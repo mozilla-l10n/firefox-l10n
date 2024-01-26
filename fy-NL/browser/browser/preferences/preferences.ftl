@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Dizze kontener fuortsmite
 containers-remove-cancel-button = Dizze kontener net fuortsmite
+settings-tabs-show-image-in-preview =
+    .label = In ôfbyldingsfoarbyld toane as jo in ljepblêd oanwize
+    .accessKey = w
 
 ## General Section - Language & Appearance
 
