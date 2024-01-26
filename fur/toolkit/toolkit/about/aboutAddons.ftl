@@ -224,6 +224,9 @@ shortcuts-no-addons = No tu âs abilitade nissune estension.
 shortcuts-no-commands = Chestis estensions no àn scurtis:
 shortcuts-input =
     .placeholder = Inserìs une scurte
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Gjave scurte
 shortcuts-browserAction2 = Ative boton te sbare dai struments
 shortcuts-pageAction = Ative azion pagjine
 shortcuts-sidebarAction = Comute la sbare laterâl
