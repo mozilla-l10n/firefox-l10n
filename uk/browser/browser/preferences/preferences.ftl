@@ -206,6 +206,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Вилучити цей контейнер
 containers-remove-cancel-button = Не вилучати цей контейнер
+settings-tabs-show-image-in-preview =
+    .label = Показувати зображення сторінки під час наведення курсора на вкладку
+    .accessKey = з
 
 ## General Section - Language & Appearance
 

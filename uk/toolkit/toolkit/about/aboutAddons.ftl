@@ -220,6 +220,9 @@ shortcuts-no-addons = У вас не увімкнено жодного розш�
 shortcuts-no-commands = Такі розширення не мають комбінацій клавіш:
 shortcuts-input =
     .placeholder = Введіть комбінацію клавіш
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Видалити ярлик
 shortcuts-browserAction2 = Активувати кнопку панелі
 shortcuts-pageAction = Активувати дію сторінки
 shortcuts-sidebarAction = Перемкнути бічну панель
