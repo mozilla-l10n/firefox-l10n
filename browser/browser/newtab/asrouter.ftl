@@ -206,6 +206,9 @@ cfr-cbh-dismiss-button = No net
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name } hat krekt cookies foar jo blokkearre
 cookie-banner-blocker-cfr-body = Wy wegerje automatysk in protte cookiepop-ups, om it foar websites swierder te meitsjen jo te folgjen.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } hat krekt in cookiebanner foar jo wegere
+cookie-banner-blocker-onboarding-body = Minder ôfliedingen, minder cookies dy’t jo folgje op dizze website.
+cookie-banner-blocker-onboarding-learn-more = Mear ynfo
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -235,10 +238,6 @@ fxa-sync-cfr-secondary = Letter werinnerje
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Brûke jo in âlder apparaat?
-device-migration-fxa-spotlight-body = Meitsje in reservekopy fan jo gegevens om derfoar te soargjen dat jo gjin wichtige ynformaasje, lykas blêdwizers en wachtwurden kwytreitsje, foaral as jo oerskeakelje nei in nij apparaat.
-device-migration-fxa-spotlight-primary-button = Hoe meitsje in reservekopy fan myn gegevens
-device-migration-fxa-spotlight-link = Letter werinnerje
 device-migration-fxa-spotlight-heavy-user-header = Ferjit net in reservekopy fan jo gegevens te meitsjen
 device-migration-fxa-spotlight-heavy-user-body = Soargje derfoar dat wichtige ynformaasje – lykas blêdwizers en wachtwurden – bywurke en beskerme wurdt op al jo apparaten.
 device-migration-fxa-spotlight-heavy-user-primary-button = Begjinne
