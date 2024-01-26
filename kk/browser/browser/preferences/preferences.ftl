@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Бұл контейнерді өшіру
 containers-remove-cancel-button = Бұл контейнерді өшірмеу
+settings-tabs-show-image-in-preview =
+    .label = Бетке курсорды апарған кезде суреттің алдын ала қарауын көрсету
+    .accessKey = с
 
 ## General Section - Language & Appearance
 
