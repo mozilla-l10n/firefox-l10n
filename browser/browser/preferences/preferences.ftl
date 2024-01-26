@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Deze container verwijderen
 containers-remove-cancel-button = Deze container niet verwijderen
+settings-tabs-show-image-in-preview =
+    .label = Een afbeeldingsvoorbeeld tonen als u een tabblad aanwijst
+    .accessKey = w
 
 ## General Section - Language & Appearance
 
