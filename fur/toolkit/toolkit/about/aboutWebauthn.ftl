@@ -158,6 +158,23 @@ about-webauthn-ctap2-enroll-feedback-good = Il campion al è valit.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Campion masse in alt.
+about-webauthn-ctap2-enroll-feedback-too-low = Campion masse in bas.
+about-webauthn-ctap2-enroll-feedback-too-left = Campion masse a çampe.
+about-webauthn-ctap2-enroll-feedback-too-right = Campion masse a diestre.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Campion masse svelt.
+about-webauthn-ctap2-enroll-feedback-too-slow = Campion masse lent.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Basse cualitât dal campion.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Campion masse distorsionât.
+about-webauthn-ctap2-enroll-feedback-too-short = Campion masse curt.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Fusion dal campion falide.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Il campion al esist bielzà.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Nissune ativitât dal utent.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = L’utent nol à completât il campionament come previodût.
+about-webauthn-ctap2-enroll-feedback-other = Erôr tal campion.
