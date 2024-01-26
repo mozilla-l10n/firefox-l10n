@@ -207,7 +207,7 @@ cfr-cbh-dismiss-button = No ahora
 cookie-banner-blocker-cfr-header = { -brand-short-name } ha bloqueado cookies
 cookie-banner-blocker-cfr-body = Rechazamos automáticamente muchas ventanas emergentes de cookies para hacer más difícil que los sitios lo rastreen.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } acaba de rechazar un mensaje de cookie
-cookie-banner-blocker-onboarding-body = Menos distracciones, menos cookies que te rastrean en este sitio.
+cookie-banner-blocker-onboarding-body = Menos distracciones, menos cookies que lo rastrean en este sitio.
 cookie-banner-blocker-onboarding-learn-more = Conocer más
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
