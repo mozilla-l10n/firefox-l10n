@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Alle geschiedenis wissen
     .style = min-width: 34em
 clear-data-settings-label = Als { -brand-short-name } wordt afgesloten, automatisch het volgende wissen
+sanitize-on-shutdown-description = Automatisch alle aangevinkte items wissen wanneer { -brand-short-name } wordt gesloten.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -57,6 +58,7 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Geschiedenis
     .accesskey = G
+item-history-form-data-downloads-description = Wist website- en downloadgeschiedenis, opgeslagen formuliergegevens en zoekopdrachten.
 item-cookies =
     .label = Cookies
     .accesskey = C
