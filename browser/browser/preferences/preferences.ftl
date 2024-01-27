@@ -202,6 +202,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Suprimir aqueste contenedor
 containers-remove-cancel-button = Suprimir pas aqueste contenedor
+settings-tabs-show-image-in-preview =
+    .label = Afichar un apercebut al subrevòl dels onglets
+    .accessKey = h
 
 ## General Section - Language & Appearance
 
@@ -790,6 +793,10 @@ sync-engine-creditcards =
     .label = Cartas de crèdit
     .tooltiptext = Noms, numeròs e data d’expiracion (pas qu’al ordenador)
     .accesskey = C
+sync-engine-payment-methods2 =
+    .label = Metòdes de pagament
+    .tooltiptext = Noms, numèros de carta e datas d’expiracion
+    .accesskey = n
 sync-engine-addons =
     .label = los moduls complementaris
     .tooltiptext = Extensions e tèmas per Firefox per ordenador
@@ -910,8 +917,15 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Emplenament automatic
+autofill-addresses-checkbox = Salvar e emplenar automaticament las adreças
+    .accesskey = a
 autofill-saved-addresses-button = Adreças salvadas
     .accesskey = A
+autofill-payment-methods-checkbox-message = Enregistrar e entresenhar los metòdes de pagament
+    .accesskey = m
+autofill-saved-payment-methods-button = Metòdes de pagament enregistrats
+    .accesskey = e
 
 ## Privacy Section - History
 

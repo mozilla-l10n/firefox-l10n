@@ -205,6 +205,9 @@ cfr-cbh-confirm-button = Regetar las bandièras de cookies
 cfr-cbh-dismiss-button = Mai tard
     .accesskey = M
 cookie-banner-blocker-cfr-header = { -brand-short-name } ven de blocar de cookies per vos
+cookie-banner-blocker-onboarding-header = { -brand-short-name } ven de refusar un cookie per vos
+cookie-banner-blocker-onboarding-body = Mens de distraccions, mens de cookies que vos pistan sus aqueste site.
+cookie-banner-blocker-onboarding-learn-more = Ne saber mai
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -234,10 +237,6 @@ fxa-sync-cfr-secondary = Lo me remembrar mai tard
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Utilizatz un aparelh mai ancian ?
-device-migration-fxa-spotlight-body = Salvagardatz vòstras donadas per vos assegurar de pèrdre pas d’informacions importantas coma los marcapaginas o los senhals, mai que mai se cambiatz d’aparelh.
-device-migration-fxa-spotlight-primary-button = Cossí salvagardar las donadas
-device-migration-fxa-spotlight-link = Lo me remembrar mai tard
 device-migration-fxa-spotlight-heavy-user-header = Oblidetz pas de salvagardar vòstras donadas
 device-migration-fxa-spotlight-heavy-user-primary-button = Per començar
 device-migration-fxa-spotlight-older-device-header = La tranquillitat d’esperit amb { -brand-product-name }
