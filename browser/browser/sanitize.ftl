@@ -95,6 +95,8 @@ sanitize-button-ok =
     .label = Vymazat
 sanitize-button-ok2 =
     .label = Vymazat
+sanitize-button-ok-on-shutdown =
+    .label = Uložit změny
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
