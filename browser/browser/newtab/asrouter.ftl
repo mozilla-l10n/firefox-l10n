@@ -209,6 +209,9 @@ cfr-cbh-dismiss-button = Teraz nie
     .accesskey = T
 cookie-banner-blocker-cfr-header = { -brand-short-name } pre vás práve zablokoval súbory cookie
 cookie-banner-blocker-cfr-body = Automaticky odmietame veľa vyskakovacích bannerov k súborom cookie, aby sme stránkam sťažili vaše sledovanie.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } pre vás práve odmietol banner k súborom cookie
+cookie-banner-blocker-onboarding-body = Menej rozptyľovania, menej súborov cookie, ktoré vás na tejto stránke sledujú.
+cookie-banner-blocker-onboarding-learn-more = Ďalšie informácie
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -238,10 +241,6 @@ fxa-sync-cfr-secondary = Pripomenúť neskôr
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Používate staršie zariadenie?
-device-migration-fxa-spotlight-body = Zálohujte si údaje, aby ste nestratili dôležité informácie, ako sú záložky a heslá – najmä ak prejdete na nové zariadenie.
-device-migration-fxa-spotlight-primary-button = Ako zálohovať moje údaje
-device-migration-fxa-spotlight-link = Pripomenúť neskôr
 device-migration-fxa-spotlight-heavy-user-header = Nezabudnite si zálohovať údaje
 device-migration-fxa-spotlight-heavy-user-body = Uistite sa, že dôležité informácie – ako sú záložky a heslá – sú aktualizované a chránené na všetkých vašich zariadeniach.
 device-migration-fxa-spotlight-heavy-user-primary-button = Začíname

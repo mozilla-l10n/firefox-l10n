@@ -25,3 +25,10 @@ more-from-moz-learn-more-link = Ďalšie informácie
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Chráňte svoju e‑mailovú schránku a svoju identitu pomocou bezplatného maskovania e‑mailov.
 more-from-moz-firefox-relay-button = Získajte { -relay-brand-short-name }
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Automaticky si vezmite späť svoje odhalené osobné údaje.
+more-from-moz-mozilla-monitor-global-description = Dostávajte upozornenia, keď dôjde k narušeniu bezpečnosti vašich údajov.
+more-from-moz-mozilla-monitor-button = Získajte { -monitor-brand-short-name }

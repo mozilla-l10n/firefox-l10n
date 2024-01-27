@@ -220,6 +220,9 @@ shortcuts-no-addons = Nemáte povolené žiadne rozšírenie.
 shortcuts-no-commands = Nasledujúce rozšírenia nemajú skratky:
 shortcuts-input =
     .placeholder = Zadajte klávesovú skratku
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Odstrániť skratku
 shortcuts-browserAction2 = Pridať tlačidlo na panel nástrojov
 shortcuts-pageAction = Aktivovať akciu stránky
 shortcuts-sidebarAction = Prepnúť zobrazenie bočného panela
