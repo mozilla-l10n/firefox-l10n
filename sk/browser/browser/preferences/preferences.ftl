@@ -206,6 +206,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Odstrániť tento kontajner
 containers-remove-cancel-button = Neodstraňovať tento kontajner
+settings-tabs-show-image-in-preview =
+    .label = Zobrazovať obrázok s náhľadom pri prejdení myši nad kartou
+    .accessKey = h
 
 ## General Section - Language & Appearance
 

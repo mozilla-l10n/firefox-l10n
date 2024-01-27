@@ -20,6 +20,7 @@
 -lockwise-brand-short-name = Lockwise
 -monitor-brand-name = Firefox Monitor
 -monitor-brand-short-name = Monitor
+-mozmonitor-brand-name = Mozilla Monitor
 -pocket-brand-name =
     { $case ->
        *[nom] Pocket
@@ -75,4 +76,3 @@
         [loc] Prehľade Firefoxu
         [ins] Prehľadom Firefoxu
     }
--mozmonitor-brand-name = Mozilla Monitor
