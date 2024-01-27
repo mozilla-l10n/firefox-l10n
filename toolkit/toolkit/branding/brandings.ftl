@@ -70,6 +70,7 @@
         [ins] Monitorem
     }
     .gender = masculine
+-mozmonitor-brand-name = Mozilla Monitor
 -pocket-brand-name =
     { $case ->
        *[nom] Pocket
@@ -275,4 +276,3 @@
                 [lower] přehledem Firefoxu
             }
     }
--mozmonitor-brand-name = Mozilla Monitor
