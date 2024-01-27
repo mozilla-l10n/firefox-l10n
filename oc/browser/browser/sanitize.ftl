@@ -28,6 +28,9 @@ clear-data-settings-label = En tampant { -brand-short-name }, s’escafan automa
 clear-time-duration-prefix =
     .value = Periòde de suprimir :{ " " }
     .accesskey = s
+clear-time-duration-prefix2 =
+    .value = Interval d’escafar :
+    .accesskey = I
 clear-time-duration-value-last-hour =
     .label = la darrièra ora
 clear-time-duration-value-last-2-hours =
@@ -48,9 +51,18 @@ history-section-label = Istoric
 item-history-and-downloads =
     .label = Istoric de navegacion e dels telecargaments
     .accesskey = I
+item-history-form-data-downloads =
+    .label = Istoric
+    .accesskey = I
 item-cookies =
     .label = Cookies
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookies e donadas dels sites ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookies e donadas de sites
     .accesskey = e
@@ -66,9 +78,6 @@ item-form-search-history =
 item-site-prefs =
     .label = Paramètres de site
     .accesskey = i
-item-download-history =
-    .label = Lista dels fichièrs telecargats
-    .accesskey = L
 data-section-label = Donadas
 item-site-settings =
     .label = Paramètres de site
@@ -83,6 +92,8 @@ sanitize-button-ok =
     .label = Escafar ara
 sanitize-button-ok2 =
     .label = Escafar
+sanitize-button-ok-on-shutdown =
+    .label = Enregistrar las modificacions
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

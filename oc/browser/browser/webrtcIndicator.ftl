@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = onglet
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Font desconeguda
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Onglets que partejan de periferics
     .accesskey = p
-
 webrtc-sharing-window = Partejatz una autra fenèstra d’aplicacion.
 webrtc-sharing-browser-window = Partejatz { -brand-short-name }.
 webrtc-sharing-screen = Partejatz l’ecran complèt.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Contrarotlar lo partiment
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Contrarotlar lo partiment amb « { $streamTitle } »
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Camèra partejada amb « { $streamTitle } »
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Camèra partejada amb { $tabCount } onglet
            *[other] Camèra partejada amb { $tabCount } onglets
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Microfòn partejat amb « { $streamTitle } »
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Microfòn partejat amb { $tabCount } onglet
            *[other] Microfòn partejat amb { $tabCount } onglets
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Aplicacion partejada amb « { $streamTitle } »
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Aplicacion partejada amb { $tabCount } onglet
            *[other] Aplicacions partejadas amb { $tabCount } onglets
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ecran partejat amb « { $streamTitle } »
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Ecran partejat amb { $tabCount } onglet
            *[other] Ecran partejat amb { $tabCount } onglets
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Fenèstra partejada amb « { $streamTitle } »
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Fenèstra partejada amb { $tabCount } onglet
            *[other] Fenèstras partejadas amb { $tabCount } onglets
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Onglet partejat amb « { $streamTitle } »
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,10 @@ webrtc-allow-share-camera-and-audio-capture = Autorizar { $origin } a utilizar l
 webrtc-allow-share-screen-and-microphone = Autorizar { $origin } a utilizar lo microfòn e veire l’ecran ?
 webrtc-allow-share-screen-and-audio-capture = Autorizar { $origin } a escotar l’àudio d'aqueste onglet e veire l’ecran ?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Autorizar aqueste fichièr local a escotar l'àudio d'aqueste onglet ?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +175,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Autorizar { $ori
 
 webrtc-share-screen-warning = Partejatz solament los ecrans amb los sites de fisança. Lo partatge pòt permetre a de sites enganaires de navegar al vòstre nom e raubar d'informacions privadas.
 webrtc-share-browser-warning = Partejatz solament { -brand-short-name } amb los sites de fisança. Lo partatge pòt permetre a de sites enganaires de navegar al vòstre nom e raubar d'informacions privadas.
-
 webrtc-share-screen-learn-more = Ne saber mai
 webrtc-pick-window-or-screen = Seleccionatz una fenèstra o un ecran
 webrtc-share-entire-screen = Ecran complèt
@@ -221,7 +210,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Memorizar aquesta decision
 webrtc-mute-notifications-checkbox = Rescondre las notificacions pendent un partiment
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } pòt pas autorizar un accès permanent al vòstre ecran.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } pòt pas autorizar un accès permanent a l'àudio de cap onglet sens demandar quin onglet partejar.
 webrtc-reason-for-no-permanent-allow-insecure = Vòstra connexion a aquel site es pas segura. Per vos protegir, { -brand-short-name } autorizarà l'accès pas que per aquesta session.

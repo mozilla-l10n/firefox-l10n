@@ -9,6 +9,7 @@ autofill-manage-addresses-title = Adreças salvadas
 autofill-manage-addresses-list-header = Adreças
 autofill-manage-credit-cards-title = Cartas de crèdit salvadas
 autofill-manage-credit-cards-list-header = Cartas bancàrias
+autofill-manage-payment-methods-title = Metòdes de pagament enregistrats
 autofill-manage-cards-list-header = Cartas
 autofill-manage-dialog =
     .style = min-width: 560px
@@ -37,8 +38,6 @@ address-capture-manage-address-button =
     .label = Paramètres d’adreça
 address-capture-learn-more-button =
     .label = Ne saber mai
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Apondre una novèla adreça
 address-capture-open-menu-button =
     .aria-label = Dobrir lo menú
 address-capture-edit-address-button =
@@ -109,6 +108,8 @@ autofill-address-eircode = Còdi postal (Eircode)
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Apondre una novèla adreça
 autofill-address-country = País o region
 autofill-address-country-only = País
 autofill-address-tel = Telefòn

@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Los senhals pels sites web seguents seràn pas salvats
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Excepcions - Senhals salvats
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } enregistrarà pas los senhals pels sites listats aicí.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
