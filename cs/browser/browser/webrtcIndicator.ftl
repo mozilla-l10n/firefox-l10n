@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -38,7 +32,6 @@ webrtc-item-browser = panel
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Neznámý původ
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -47,7 +40,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Panely sdílených zařízení
     .accesskey = e
-
 webrtc-sharing-window = Sdílíte okno jiné aplikace.
 webrtc-sharing-browser-window =
     { -brand-short-name.case-status ->
@@ -105,7 +97,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Ovládání sdílení
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Ovládání sdílení na „{ $streamTitle }“
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Sdílet kameru s „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -115,7 +106,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Sdílení kamery s { $tabCount } panely
            *[other] Sdílení kamery s { $tabCount } panely
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Sdílet mikrofon s „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -125,7 +115,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] Sdílení mikrofonu s { $tabCount } panely
            *[other] Sdílení mikrofonu s { $tabCount } panely
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Sdílet aplikaci s „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -135,7 +124,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Sdílet aplikaci s { $tabCount } panely
            *[other] Sdílet aplikaci s { $tabCount } panely
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Sdílet obrazovku s „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -145,7 +133,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Sdílení obrazovky s { $tabCount } panely
            *[other] Sdílení obrazovky s { $tabCount } panely
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Sdílet okno s „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -155,7 +142,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Sdílení okna s { $tabCount } panely
            *[other] Sdílení okna s { $tabCount } panely
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Sdílet panel s „{ $streamTitle }“
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -183,6 +169,20 @@ webrtc-allow-share-camera-and-audio-capture = Chcete serveru { $origin } povolit
 webrtc-allow-share-screen-and-microphone = Chcete serveru { $origin } povolit používat váš mikrofon a vidět vaši obrazovku?
 webrtc-allow-share-screen-and-audio-capture = Chcete serveru { $origin } povolit poslouchat zvuky z tohoto panelu a vidět vaši obrazovku?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Povolit tomuto místnímu souboru poslouchat zvuky z tohoto panelu?
+webrtc-allow-share-camera-with-file = Povolit tomuto místnímu souboru používat vaši webkameru?
+webrtc-allow-share-microphone-with-file = Povolit tomuto místnímu souboru používat váš mikrofon?
+webrtc-allow-share-screen-with-file = Povolit tomuto místnímu souboru vidět vaši obrazovku?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Povolit tomuto místnímu souboru používat další zvukové výstupní zařízení?
+webrtc-allow-share-camera-and-microphone-with-file = Povolit tomuto místnímu souboru používat vaši webkameru a mikrofon?
+webrtc-allow-share-camera-and-audio-capture-with-file = Povolit tomuto místnímu souboru používat vaší webkameru a poslouchat zvuky z tohoto panelu?
+webrtc-allow-share-screen-and-microphone-with-file = Povolit tomuto místnímu souboru používat váš mikrofon a vidět vaši obrazovku?
+webrtc-allow-share-screen-and-audio-capture-with-file = Povolit tomuto místnímu souboru poslouchat zvuky z tohoto panelu a vidět vaši obrazovku?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -207,7 +207,6 @@ webrtc-share-browser-warning =
         [with-cases] { -brand-short-name(case: "acc") } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
        *[no-cases] Aplikaci { -brand-short-name } sdílejte pouze se servery, kterým věříte. Sdílení může umožnit klamavým stránkám sledovat vaše prohlížení a ukrást vaše osobní data.
     }
-
 webrtc-share-screen-learn-more = Zjistit více
 webrtc-pick-window-or-screen = Vyberte okno nebo obrazovku
 webrtc-share-entire-screen = Celou obrazovku
@@ -244,7 +243,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Zapamatovat si toto rozhodnutí
 webrtc-mute-notifications-checkbox = Ztlumit oznámení ze serverů během sdílení
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nemůže povolit trvalý přístup k vaší obrazovce.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nemůže povolit trvalý přístup ke zvuku z vašich panelů bez dotazu, který panel sdílet.
 webrtc-reason-for-no-permanent-allow-insecure = Vaše připojení k tomuto serveru není zabezpečené. Abychom vás ochránili, { -brand-short-name } povolí přístup pouze pro tuto relaci.
