@@ -66,8 +66,8 @@ about-processes-unknown-process = Інше: { $type } ({ $pid })
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, ізольовано від сторонніх джерел)
-about-processes-web-isolated-process-private = { $origin } — Приватний ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — Приватний ({ $pid }, ізольовано від сторонніх джерел)
+about-processes-web-isolated-process-private = { $origin } – приватний ({ $pid })
+about-processes-with-coop-coep-process-private = { $origin } – приватний ({ $pid }, ізольовано від сторонніх джерел)
 
 ## Details within processes
 

@@ -8,13 +8,13 @@
 appmenuitem-banner-update-downloading =
     .label = Завантажується оновлення { -brand-shorter-name }
 appmenuitem-banner-update-available =
-    .label = Доступне оновлення — завантажити
+    .label = Доступне оновлення – завантажити
 appmenuitem-banner-update-manual =
-    .label = Доступне оновлення — завантажити
+    .label = Доступне оновлення – завантажити
 appmenuitem-banner-update-unsupported =
-    .label = Не вдається оновити — несумісна система
+    .label = Не вдається оновити – несумісна система
 appmenuitem-banner-update-restart =
-    .label = Доступне оновлення — перезапустити
+    .label = Доступне оновлення – перезапустити
 appmenuitem-new-tab =
     .label = Нова вкладка
 appmenuitem-new-window =
