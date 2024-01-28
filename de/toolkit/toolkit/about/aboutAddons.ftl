@@ -219,6 +219,9 @@ shortcuts-no-addons = Es sind keine Erweiterungen aktiviert.
 shortcuts-no-commands = Folgende Erweiterungen verfügen über keine Tastenkombinationen:
 shortcuts-input =
     .placeholder = Tastenkombination drücken
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Tastenkombination entfernen
 shortcuts-browserAction2 = Schaltfläche für Symbolleiste aktivieren
 shortcuts-pageAction = Aktion für Seite aktivieren
 shortcuts-sidebarAction = Sidebar umschalten
