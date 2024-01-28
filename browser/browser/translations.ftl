@@ -24,7 +24,7 @@ urlbar-translations-button-intro =
 urlbar-translations-button-translated =
     .tooltiptext = Página traduzida de { $fromLanguage } para { $toLanguage }
 urlbar-translations-button-loading =
-    .tooltiptext = Tradução em progresso
+    .tooltiptext = Tradução em curso
 translations-panel-settings-button =
     .aria-label = Gerir definições de tradução
 # Text displayed on a language dropdown when the language is in beta
