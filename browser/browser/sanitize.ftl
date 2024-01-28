@@ -54,12 +54,19 @@ history-section-label = Histórico
 item-history-and-downloads =
     .label = Histórico de navegação e downloads
     .accesskey = H
-item-browsing-and-search =
-    .label = Sites visitados, informações de formulários e pesquisas salvas
-    .accesskey = S
+item-history-form-data-downloads =
+    .label = Histórico
+    .accesskey = H
+item-history-form-data-downloads-description = Limpa o histórico de sites e downloads, informações salvas de formulários e pesquisas
 item-cookies =
     .label = Cookies
     .accesskey = o
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookies e dados de sites ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookies e dados de sites
     .accesskey = e
@@ -70,6 +77,12 @@ item-active-logins =
 item-cache =
     .label = Cache
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Arquivos e páginas em cache temporário ({ $amount } { $unit })
+    .accesskey = h
 item-cached-content =
     .label = Arquivos e páginas temporariamente em cache
     .accesskey = A
@@ -81,9 +94,6 @@ item-site-prefs =
     .label = Configurações de sites
     .accesskey = i
 item-site-prefs-description = Redefine suas permissões e preferências de sites para as configurações originais
-item-download-history =
-    .label = Lista de arquivos baixados
-    .accesskey = b
 data-section-label = Dados
 item-site-settings =
     .label = Configurações de sites
@@ -98,6 +108,8 @@ sanitize-button-ok =
     .label = Limpar agora
 sanitize-button-ok2 =
     .label = Limpar
+sanitize-button-ok-on-shutdown =
+    .label = Salvar alterações
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
