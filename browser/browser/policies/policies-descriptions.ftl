@@ -25,7 +25,7 @@ policy-BlockAboutSupport = Заблокувати доступ до сторін
 policy-Bookmarks = Створювати закладки в панелі закладок, меню закладок, або в окремих теках.
 policy-CaptivePortal = Увімкнути чи вимкнути підтримку порталу перехоплення.
 policy-CertificatesDescription = Додавати сертифікати або використовувати вбудовані.
-policy-Cookies = Дозволити або заборонити вебсайтам встановлювати куки.
+policy-Cookies = Дозволити або заборонити вебсайтам встановлювати файли cookie.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Налаштуйте політики щодо контейнерів.
 policy-DisableAccounts = Вимкніть служби, пов'язані з обліковим записом, включно із синхронізацією.
@@ -82,8 +82,8 @@ policy-LegacyProfiles = Вимкнути функцію, що застосову
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
-policy-LegacySameSiteCookieBehaviorEnabled = Увімкнути застаріле налаштування поведінки SameSite для куків.
-policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Повертати застарілу поведінку SameSite для куків на вказаних сайтах.
+policy-LegacySameSiteCookieBehaviorEnabled = Увімкнути застаріле налаштування поведінки SameSite для файлів cookie.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Перемкнутися на застарілу поведінку SameSite для файлів cookie на вказаних сайтах.
 
 ##
 
