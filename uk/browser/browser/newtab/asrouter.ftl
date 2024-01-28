@@ -201,15 +201,15 @@ colorways-cfr-header-today = Забарвлення незалежних гол�
 
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Дозволити { -brand-short-name } відхиляти банери кук?
-cfr-cbh-body = { -brand-short-name } може автоматично відхиляти багато запитів банерів кук.
-cfr-cbh-confirm-button = Відхилити банери кук
+cfr-cbh-header = Дозволити { -brand-short-name } відхиляти банери про файли cookie?
+cfr-cbh-body = { -brand-short-name } може автоматично відхиляти багато банерів із запитами про файли cookie.
+cfr-cbh-confirm-button = Відхиляти банери про файли cookie
     .accesskey = В
 cfr-cbh-dismiss-button = Не зараз
     .accesskey = Н
-cookie-banner-blocker-cfr-header = { -brand-short-name } щойно заблокував для вас куки
-cookie-banner-blocker-cfr-body = Ми автоматично відхиляємо багато банерів кук, щоб сайтам було складніше вас відстежувати.
-cookie-banner-blocker-onboarding-header = { -brand-short-name } щойно відхилив банер файлів cookie
+cookie-banner-blocker-cfr-header = { -brand-short-name } щойно заблокував файли cookie
+cookie-banner-blocker-cfr-body = Ми автоматично відхиляємо багато банерів про файли cookie, щоб сайтам було складніше вас відстежувати.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } щойно відхилив банер про файли cookie
 cookie-banner-blocker-onboarding-body = Менше відволікань і менше файлів cookie, які відстежують вас на цьому сайті.
 cookie-banner-blocker-onboarding-learn-more = Докладніше
 
