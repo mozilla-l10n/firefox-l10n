@@ -75,6 +75,6 @@ about-private-browsing-cookie-banners-promo-body = Nós agora recusamos automati
 
 ## Strings for Felt Privacy v1 experiments in 119
 
-about-private-browsing-felt-privacy-v1-info-header = Não deixe evidências neste dispositivo
+about-private-browsing-felt-privacy-v1-info-header = Não deixe vestígios neste dispositivo
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } elimina os seus cookies, histórico e dados do site quando fecha todas as suas janelas privadas.
 about-private-browsing-felt-privacy-v1-info-link = Quem poderá ver a minha atividade?
