@@ -8,22 +8,16 @@
 more-from-moz-title = Më tepër nga { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Më tepër nga { -vendor-short-name }
-
 more-from-moz-subtitle = Shihni produkte të tjera { -vendor-short-name } që punojnë për të përkrahur një internet të shëndetshëm.
-
 more-from-moz-firefox-mobile-title = { -brand-product-name } Për Celular
 more-from-moz-firefox-mobile-description = Shfletuesi për celular që vë privatësinë mbi të gjitha.
-
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Zbuloni një shtresë më tepër shfletimi anonim dhe mbrojtjeje
-
 more-from-moz-qr-code-box-firefox-mobile-title = Shkarkojeni duke përdorur pajisjen tuaj celulare. Drejtoni kamerën tuaj drejt kodit QR. Kur të shfaqet një lidhje, prekeni.
 more-from-moz-qr-code-box-firefox-mobile-button = Dërgoni, më mirë, një email te telefoni juaj
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Kod QR për të shkarkuar { -brand-product-name } Për Celular
-
 more-from-moz-button-mozilla-vpn-2 = Merrni VPN
-
 more-from-moz-learn-more-link = Mësoni më tepër
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
@@ -31,3 +25,7 @@ more-from-moz-learn-more-link = Mësoni më tepër
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Mbroni email-et dhe identitetin tuaj me maskim email-i falas.
 more-from-moz-firefox-relay-button = Merrni { -relay-brand-short-name }
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
