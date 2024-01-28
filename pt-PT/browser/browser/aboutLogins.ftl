@@ -67,8 +67,10 @@ about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Última modificação
 login-list-last-used-option = Última utilização
 login-list-intro-title = Não foram encontradas credenciais
+login-list-intro-title2 = Nenhuma palavra-passe guardada
 login-list-intro-description = Quando guarda uma palavra-passe no { -brand-product-name }, esta será apresentada aqui.
 about-logins-login-list-empty-search-title = Não foram encontradas credenciais
+about-logins-login-list-empty-search-title2 = Não foram encontradas palavras-passe
 about-logins-login-list-empty-search-description = Não foram encontrados resultados que correspondam à sua pesquisa.
 login-list-item-title-new-login = Nova credencial
 login-list-item-subtitle-new-login = Introduza as suas credenciais
@@ -91,6 +93,7 @@ about-logins-login-intro-heading-logged-out2 = À procura das suas credenciais g
 about-logins-login-intro-heading-logged-in = Não foram encontradas credenciais sincronizadas.
 login-intro-description = Se guardou as suas credenciais para o { -brand-product-name } num dispositivo diferente, eis como as obter aqui:
 login-intro-instructions-fxa = Crie ou inicie a sessão na sua { -fxaccount-brand-name } no dispositivo onde as suas credenciais estão guardadas
+about-logins-login-intro-heading-message = Guarde as suas palavras-passe num local seguro
 login-intro-instructions-fxa2 = Crie ou inicie a sessão na sua conta no dispositivo onde as suas credenciais estão guardadas.
 login-intro-instructions-fxa-settings = Aceda a Definições > Sincronizar > Ativar sincronização... Marque a caixa de seleção Credenciais e palavras-passe.
 login-intro-instructions-fxa-passwords-help = Visite <a data-l10n-name="passwords-help-link">apoio para as palavras-passe</a> para mais ajuda.
@@ -214,12 +217,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Isto irá remover a credencial que guardou no { -brand-short-name } em todos os seus dispositivos onde sincronizou a sua { -fxaccount-brand-name }. Isto irá também remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
        *[other] Isto irá remover todas as credenciais que guardou no { -brand-short-name } em todos os seus dispositivos onde sincronizou a sua { -fxaccount-brand-name }. Isto irá também remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Isto irá remover a credencial que guardou no { -brand-short-name } em todos os dispositivos sincronizados com a sua conta. Isto também irá remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
-        [one] Isto irá remover a credencial que guardou no { -brand-short-name } em todos os dispositivos sincronizados com a sua conta. Isto também irá remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
-       *[other] Isto irá remover todas as credenciais que guardou no { -brand-short-name } em todos os dispositivos sincronizados com a sua conta. Isto também irá remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
     }
 
 ##
