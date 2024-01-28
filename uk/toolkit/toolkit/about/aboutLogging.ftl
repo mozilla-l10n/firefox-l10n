@@ -32,8 +32,8 @@ about-logging-with-profiler-stacks-checkbox = Увімкнути трасува�
 
 about-logging-preset-networking-label = Мережа
 about-logging-preset-networking-description = Модулі журналу для діагностики мережевих проблем
-about-logging-preset-networking-cookie-label = Куки
-about-logging-preset-networking-cookie-description = Модулі журналу для діагностики проблем із куками
+about-logging-preset-networking-cookie-label = Файли cookie
+about-logging-preset-networking-cookie-description = Модулі журналу для діагностики проблем з файлами cookie
 about-logging-preset-networking-websocket-label = Вебсокети
 about-logging-preset-networking-websocket-description = Модулі журналу для діагностики проблем із вебсокетами
 about-logging-preset-networking-http3-label = HTTP/3
