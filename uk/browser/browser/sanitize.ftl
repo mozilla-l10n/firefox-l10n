@@ -8,7 +8,7 @@ sanitize-prefs2 =
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
-    .title = Очистити дані вебперегляду і куки
+    .title = Очистити дані перегляду і файли cookie
     .style = min-width: 34em
 sanitize-dialog-title =
     .title = Стерти недавню історію
@@ -60,8 +60,8 @@ item-history-form-data-downloads =
     .accesskey = І
 item-history-form-data-downloads-description = Очищує історію сайтів і завантажень, збережену інформацію форм і пошуку
 item-cookies =
-    .label = Куки
-    .accesskey = у
+    .label = Файли cookie
+    .accesskey = й
 # Variables:
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -69,7 +69,7 @@ item-cookies-site-data-with-size =
     .label = Файли cookie та дані сайтів ({ $amount } { $unit })
     .accesskey = й
 item-cookies-site-data =
-    .label = Куки і дані сайтів
+    .label = Файли cookie та дані сайтів
     .accesskey = и
 item-cookies-site-data-description = Може призвести до виходу на сайтах або очищення кошика для покупок
 item-active-logins =
