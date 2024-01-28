@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Remover este contêiner
 containers-remove-cancel-button = Não remover este contêiner
+settings-tabs-show-image-in-preview =
+    .label = Exibir uma imagem prévia ao passar o mouse sobre uma aba
+    .accessKey = b
 
 ## General Section - Language & Appearance
 
