@@ -43,6 +43,9 @@ shopping-message-bar-warning-stale-analysis-button = Verificar ara
 shopping-message-bar-generic-error =
     .heading = Cap d’informacion pas disponibla pel moment
     .message = Sèm a trabalhar per resòlver aquesta anomalia. Mercés de tornar mai tard.
+shopping-message-bar-warning-product-not-available-button2 = Senhalar que’l produch es en estòc
+shopping-message-bar-analysis-in-progress-title2 = Evaluacion de la qualitat dels avises
+shopping-message-bar-analysis-in-progress-message2 = Aquò trigar unas 60 segondas.
 
 ## Strings for the product review snippets card
 
@@ -80,6 +83,9 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Coma determinam la qualitat d’un avís
+shopping-analysis-explainer-review-grading-scale-reliable = Avises fisables. Pensam que los avises venon probablament de vertadièrs clients que daissèron d’avises sincèrs e objectius.
+shopping-analysis-explainer-review-grading-scale-mixed = Pensam que los avises mesclan d’avises fisables e non fisables.
+shopping-analysis-explainer-review-grading-scale-unreliable = Avises pas fisables. Pensam que los avises son probablament de falses o son biaissats.
 
 ## Strings for UrlBar button
 
@@ -92,17 +98,12 @@ shopping-sidebar-close-button2 =
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Cap d’informacion suls avises pel moment
+shopping-unanalyzed-product-message-2 = Per saber si los avises son fisables, verificatz lor qualitat. Sonque pren 60 segondas.
+shopping-unanalyzed-product-analyze-button = Valorar la qualitat dels avises
 
 ## Strings for the advertisement
 
@@ -127,6 +128,7 @@ shopping-survey-terms-link = Condicions d’utilizacion
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Ensajatz nòstra guida de fisança pels avises de produches
 shopping-onboarding-opt-in-button = Òc-ben, ensajar
 shopping-onboarding-not-now-button = Pas ara
 shopping-onboarding-dialog-close-button =
