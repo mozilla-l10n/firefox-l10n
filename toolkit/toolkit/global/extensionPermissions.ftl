@@ -9,7 +9,7 @@
 
 webext-perms-description-bookmarks = Читання й зміна закладок
 webext-perms-description-browserSettings = Читання й зміна налаштувань браузера
-webext-perms-description-browsingData = Стерти нещодавню історію перегляду, куки та пов'язані дані
+webext-perms-description-browsingData = Стерти нещодавню історію перегляду, файли cookie та пов'язані дані
 webext-perms-description-clipboardRead = Отримання даних з буфера обміну
 webext-perms-description-clipboardWrite = Збереження даних в буфер обміну
 webext-perms-description-declarativeNetRequest = Блокувати вміст на всіх сторінках
