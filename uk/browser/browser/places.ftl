@@ -139,7 +139,7 @@ places-manage-bookmarks =
 places-forget-about-this-site-confirmation-title = Забути цей сайт
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-msg = Ця дія вилучить дані, пов'язані з { $hostOrBaseDomain }, включно з історією, куками, кешем і налаштуваннями вмісту. Пов'язані закладки та паролі не буде вилучено. Ви дійсно хочете продовжити?
+places-forget-about-this-site-confirmation-msg = Ця дія вилучить дані, пов'язані з { $hostOrBaseDomain }, включно з історією, файлами cookie, кешем і налаштуваннями вмісту. Пов'язані закладки та паролі не буде вилучено. Ви дійсно хочете продовжити?
 places-forget-about-this-site-forget = Забути
 places-library3 =
     .title = Бібліотека

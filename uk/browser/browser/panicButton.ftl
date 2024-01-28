@@ -25,7 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
-panic-button-action-desc = При цьому будуть:
-panic-button-delete-cookies = Видалені недавні <strong>Куки</strong>
-panic-button-delete-history = Видалена недавня <strong>Історія</strong>
-panic-button-delete-tabs-and-windows = Закриті всі <strong>Вкладки</strong> та <strong>Вікна</strong>
+panic-button-action-desc = Це призведе до:
+panic-button-delete-cookies = видалення недавніх <strong>файлів cookie</strong>
+panic-button-delete-history = видалення недавньої <strong>історії</strong>
+panic-button-delete-tabs-and-windows = закриття всіх <strong>вкладок</strong> і <strong>вікон</strong>
