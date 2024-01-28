@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 content-blocking-trackers-view-empty = Не виявлено на цьому сайті
-content-blocking-cookies-blocking-trackers-label = Куки стеження між сайтами
-content-blocking-cookies-blocking-third-party-label = Сторонні куки
-content-blocking-cookies-blocking-unvisited-label = Куки з невідвіданих сайтів
-content-blocking-cookies-blocking-all-label = Всі куки
+content-blocking-cookies-blocking-trackers-label = Файли cookie для стеження між сайтами
+content-blocking-cookies-blocking-third-party-label = Сторонні файли cookie
+content-blocking-cookies-blocking-unvisited-label = Файли cookie з невідвіданих сайтів
+content-blocking-cookies-blocking-all-label = Усі файли cookie
 content-blocking-cookies-view-first-party-label = З цього сайту
-content-blocking-cookies-view-trackers-label = Куки стеження між сайтами
-content-blocking-cookies-view-third-party-label = Сторонні куки
+content-blocking-cookies-view-trackers-label = Файли cookie для стеження між сайтами
+content-blocking-cookies-view-third-party-label = Сторонні файли cookie
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
 content-blocking-cookies-view-allowed-label =
@@ -22,7 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Стерти виняток для { $domain }
-tracking-protection-icon-active = Блокування стеження соціальних мереж, кук стеження між сайтами, а також зчитування цифрового відбитка.
+tracking-protection-icon-active = Блокування стеження соціальних мереж, файлів cookie для стеження між сайтами, а також зчитування цифрового відбитка.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Розширений захист від стеження для цього сайту вимкнено.
@@ -45,13 +45,13 @@ protections-blocking-fingerprinters =
 protections-blocking-cryptominers =
     .title = Заблоковано криптомайренів
 protections-blocking-cookies-trackers =
-    .title = Заблоковано куки, що стежать між сайтами
+    .title = Заблоковано файли cookie для стеження між сайтами
 protections-blocking-cookies-third-party =
-    .title = Заблоковано сторонні куки
+    .title = Заблоковано сторонні файли cookie
 protections-blocking-cookies-all =
-    .title = Усі куки заблоковано
+    .title = Заблоковано всі файли cookie
 protections-blocking-cookies-unvisited =
-    .title = Заблоковано куки з невідвіданих сайтів
+    .title = Заблоковано файли cookie з невідвіданих сайтів
 protections-blocking-tracking-content =
     .title = Блокування вмісту зі стеженням
 protections-blocking-social-media-trackers =
@@ -61,11 +61,11 @@ protections-not-blocking-fingerprinters =
 protections-not-blocking-cryptominers =
     .title = Криптомайнери не блокуються
 protections-not-blocking-cookies-third-party =
-    .title = Сторонні куки не блокуються
+    .title = Сторонні файли cookie не блокуються
 protections-not-blocking-cookies-all =
-    .title = Куки не блокуються
+    .title = Файли cookie не блокуються
 protections-not-blocking-cross-site-tracking-cookies =
-    .title = Куки, що стежать між сайтами, не блокуються
+    .title = Файли cookie для стеження між сайтами не блокуються
 protections-not-blocking-tracking-content =
     .title = Вміст зі стеженням не блокується
 protections-not-blocking-social-media-trackers =
