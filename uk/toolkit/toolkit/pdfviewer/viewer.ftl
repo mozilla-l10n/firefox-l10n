@@ -303,8 +303,6 @@ pdfjs-editor-ink-button-label = Малювати
 pdfjs-editor-stamp-button =
     .title = Додати чи редагувати зображення
 pdfjs-editor-stamp-button-label = Додати чи редагувати зображення
-pdfjs-editor-remove-button =
-    .title = Вилучити
 pdfjs-editor-highlight-button =
     .title = Підсвітити
 pdfjs-editor-highlight-button-label = Підсвітити
@@ -360,14 +358,14 @@ pdfjs-editor-alt-text-textarea =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
-pdfjs-editor-resizer-label-top-left = Верхній лівий кут — зміна розміру
-pdfjs-editor-resizer-label-top-middle = Вгорі посередині — зміна розміру
-pdfjs-editor-resizer-label-top-right = Верхній правий кут — зміна розміру
-pdfjs-editor-resizer-label-middle-right = Праворуч посередині — зміна розміру
-pdfjs-editor-resizer-label-bottom-right = Нижній правий кут — зміна розміру
-pdfjs-editor-resizer-label-bottom-middle = Внизу посередині — зміна розміру
-pdfjs-editor-resizer-label-bottom-left = Нижній лівий кут — зміна розміру
-pdfjs-editor-resizer-label-middle-left = Ліворуч посередині — зміна розміру
+pdfjs-editor-resizer-label-top-left = Верхній лівий кут – зміна розміру
+pdfjs-editor-resizer-label-top-middle = Вгорі посередині – зміна розміру
+pdfjs-editor-resizer-label-top-right = Верхній правий кут – зміна розміру
+pdfjs-editor-resizer-label-middle-right = Праворуч посередині – зміна розміру
+pdfjs-editor-resizer-label-bottom-right = Нижній правий кут – зміна розміру
+pdfjs-editor-resizer-label-bottom-middle = Внизу посередині – зміна розміру
+pdfjs-editor-resizer-label-bottom-left = Нижній лівий кут – зміна розміру
+pdfjs-editor-resizer-label-middle-left = Ліворуч посередині – зміна розміру
 
 ## Color picker
 

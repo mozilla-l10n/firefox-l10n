@@ -15,7 +15,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = З
     .secondarybuttonlabel = Відхилити
     .secondarybuttonaccesskey = х
-appmenu-update-manual-message2 = Не вдалося автоматично оновити { -brand-shorter-name }. Завантажте нову версію — ви не втратите збережених даних та налаштувань.
+appmenu-update-manual-message2 = Не вдалося автоматично оновити { -brand-shorter-name }. Завантажте нову версію – ви не втратите збережених даних і налаштувань.
 appmenu-update-unsupported2 =
     .label = Не вдалося оновити
     .buttonlabel = Докладніше
@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Не зараз
     .secondarybuttonaccesskey = Н
 appmenu-update-other-instance-message = Доступне оновлення для { -brand-shorter-name }, але його не можна встановити, тому що працює інша копія { -brand-shorter-name }. Закрийте її, щоб продовжити оновлення, або виберіть оновлення в будь-якому випадку (інша копія може працювати неправильно, доки ви її не перезапустите).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Гаразд
     .buttonaccesskey = Г
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Керуйте своїми додатка
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволити цьому розширенню виконуватися в приватних вікнах
     .accesskey = л
-    
 appmenu-new-tab-controlled-changes =
     .label = Ваша нова вкладка змінилася.
     .buttonlabel = Зберегти зміни
