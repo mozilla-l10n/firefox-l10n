@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Spastro Krejt Historikun
     .style = min-width: 34em
 clear-data-settings-label = Kur mbyllet, { -brand-short-name }-i duhet t'i spastrojë të tëra automatikisht
+sanitize-on-shutdown-description = Spastro automatikisht krejt objektet me shenjë, kur mbyllet { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
