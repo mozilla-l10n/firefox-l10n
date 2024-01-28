@@ -218,6 +218,9 @@ shortcuts-no-addons = S’keni të aktivizuar ndonjë zgjerim.
 shortcuts-no-commands = Zgjerimet vijuese nuk kanë shkurtore:
 shortcuts-input =
     .placeholder = Shtypni një shkurtore
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Hiqe shkurtoren
 shortcuts-browserAction2 = Aktivizoni buton paneli
 shortcuts-pageAction = Aktivizoni veprim faqeje
 shortcuts-sidebarAction = Shfaqni/fshihni anështyllën
