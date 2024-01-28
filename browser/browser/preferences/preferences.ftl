@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Hiqe këtë Kontejner
 containers-remove-cancel-button = Mos e hiq këtë Kontejner
+settings-tabs-show-image-in-preview =
+    .label = Shfaq një paraparje figure, kur kaloni kursorin sipër një skede
+    .accessKey = q
 
 ## General Section - Language & Appearance
 

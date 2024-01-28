@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = skedë
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Origjinë e panjohur
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Skeda që ndajnë pajisje
     .accesskey = P
-
 webrtc-sharing-window = Po ndani dritare të një aplikacioni tjetër.
 webrtc-sharing-browser-window = Po ndani { -brand-short-name }-in.
 webrtc-sharing-screen = Po ndani krejt ekranin tuaj.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Kontrolloni Ndarjen
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Kontrolloni Ndarjen te "{ $streamTitle }"
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Po ndani Kamerën me "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Po ndani Kamerën me { $tabCount } skedë
            *[other] Po ndani Kamerën me { $tabCount } skeda
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Po ndani Mikrofonin me "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Po ndani Mikrofonin me { $tabCount } skedë
            *[other] Po ndani Mikrofonin me { $tabCount } skeda
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Po ndani një Aplikacion me "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Po ndani Aplikacionin me { $tabCount } skedë
            *[other] Po ndani Aplikacionin me { $tabCount } skeda
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Po ndani Ekranin me "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Po ndani Ekranin me { $tabCount } skedë
            *[other] Po ndani Ekranin me { $tabCount } skeda
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Po ndani një Dritare me "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Po ndani një Dritare me { $tabCount } skedë
            *[other] Po ndani një Dritare me { $tabCount } skeda
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Po ndani një Skedë me "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,20 @@ webrtc-allow-share-camera-and-audio-capture = Të lejohet { $origin } të përdo
 webrtc-allow-share-screen-and-microphone = Të lejoheti { $origin } të përdorë mikrofonin tuaj dhe të shohë ekranin tuaj?
 webrtc-allow-share-screen-and-audio-capture = Të lejohet { $origin } të dëgjojë audion e kësaj skede dhe të shohë ekranin tuaj?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Të lejohet kjo kartelë vendore të dëgjojë audion e kësaj skede?
+webrtc-allow-share-camera-with-file = Të lejohet kjo kartelë vendore të përdorë kamerën tuaj?
+webrtc-allow-share-microphone-with-file = Të lejohet kjo kartelë vendore të përdorë mikrofonin tuaj?
+webrtc-allow-share-screen-with-file = Të lejohet kjo kartelë vendore të shohë ekranin tuaj?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Të lejohet kjo kartelë vendore të përdorë altoparlantë të tjerë?
+webrtc-allow-share-camera-and-microphone-with-file = Të lejohet kjo kartelë vendore të përdorë kamerën dhe mikrofonin tuaj?
+webrtc-allow-share-camera-and-audio-capture-with-file = Të lejohet kartelë vendore të përdorë kamerën tuaj dhe të dëgjojë audion e kësaj skede?
+webrtc-allow-share-screen-and-microphone-with-file = Të lejohet kjo kartelë vendore të përdorë mikrofonin tuaj dhe të shohë ekranin tuaj?
+webrtc-allow-share-screen-and-audio-capture-with-file = Të lejohet kjo kartelë vendore të dëgjojë audion e kësaj skede dhe të shohë ekranin tuaj?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +185,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Të lejohet { $o
 
 webrtc-share-screen-warning = Ndani skena vetëm me sajte që i besoni. Ndarja e gjërave u lejon sajteve mashtrues të shfletojnë si të ishin ju dhe të vjedhin të dhëna tuajat private.
 webrtc-share-browser-warning = Ndajeni { -brand-short-name } vetëm me sajte që i besoni. Ndarja e gjërave u lejon sajteve mashtrues të shfletojnë si të ishin ju dhe të vjedhin të dhëna tuajat private.
-
 webrtc-share-screen-learn-more = Mësoni më tepër
 webrtc-pick-window-or-screen = Përzgjidhni dritare ose skenë
 webrtc-share-entire-screen = Krejt ekranin
@@ -221,7 +220,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Mbaje mend këtë vendim
 webrtc-mute-notifications-checkbox = Mos shfaq njoftime sajti, kur ndahen gjëra me të tjerë
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } s’mund të lejojë hyrje të përhershme në ekranin tuaj.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } s’mund të lejojë hyrje të përhershme te audio e skedës tuaj pa pyetur se për cilën skedë.
 webrtc-reason-for-no-permanent-allow-insecure = Lidhja juaj te ky sajt s’është e sigurt. Që të mbroheni, { -brand-short-name } do të lejojë hyrje vetëm për këtë sesion.

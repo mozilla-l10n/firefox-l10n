@@ -54,12 +54,19 @@ history-section-label = Historik
 item-history-and-downloads =
     .label = Historik Shfletimesh dhe Shkarkimesh
     .accesskey = H
-item-browsing-and-search =
-    .label = Sajte të vizituar, hollësi formularësh të ruajtur dhe kërkime
-    .accesskey = S
+item-history-form-data-downloads =
+    .label = Historik
+    .accesskey = H
+item-history-form-data-downloads-description = Spastron historik sajtesh dhe shkarkimesh, hollësi të ruajtura për formularë dhe kërkime
 item-cookies =
     .label = “Cookies”
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = “Cookies” dhe të dhëna sajtesh ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = “Cookies” dhe të dhëna sajtesh
     .accesskey = C
@@ -70,6 +77,12 @@ item-active-logins =
 item-cache =
     .label = Fshehtinë
     .accesskey = e
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Kartela dhe faqe të ruajtura përkohësisht në fshehtinë ({ $amount } { $unit })
+    .accesskey = a
 item-cached-content =
     .label = Kartela dhe faqe të ruajtura përkohësisht në fshehtinë
     .accesskey = K
@@ -81,9 +94,6 @@ item-site-prefs =
     .label = Rregullime sajti
     .accesskey = i
 item-site-prefs-description = Rikthen lejet dhe parapëlqime sajtesh tuajat te rregullimet origjinale
-item-download-history =
-    .label = Listë kartelash të shkarkuara
-    .accesskey = L
 data-section-label = Të dhëna
 item-site-settings =
     .label = Rregullime sajti
@@ -98,6 +108,8 @@ sanitize-button-ok =
     .label = Spastroje Tani
 sanitize-button-ok2 =
     .label = Spastroje
+sanitize-button-ok-on-shutdown =
+    .label = Ruaji Ndryshimet
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
