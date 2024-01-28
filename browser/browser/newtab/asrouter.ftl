@@ -205,6 +205,9 @@ cfr-cbh-dismiss-button = Jo tani
     .accesskey = J
 cookie-banner-blocker-cfr-header = { -brand-short-name } sapo bllokoi “cookies” për ju
 cookie-banner-blocker-cfr-body = Hedhim poshtë automatikisht mjaft flluska cookie-sh, për t’ua bërë të zorshme sajteve t’ju ndjekin.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } sapo hodhi poshtë një banderolë cookie-sh për ju
+cookie-banner-blocker-onboarding-body = Më pak shpërqendrim, më pak “cookies” që ju ndjekin në këtë sajt.
+cookie-banner-blocker-onboarding-learn-more = Mësoni më tepër
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -234,10 +237,6 @@ fxa-sync-cfr-secondary = Kujtoma më vonë
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Po përdorni një pajisje të vjetër?
-device-migration-fxa-spotlight-body = Kopjeruani të dhënat tuaja, për të garantuar se nuk humbni informacione të rëndësishme, bie fjala, faqerojtës dhe fjalëkalime — veçanërisht nëse kaloni në një pajisje të re.
-device-migration-fxa-spotlight-primary-button = Si të kopjeruaj të dhënat e mia
-device-migration-fxa-spotlight-link = Kujtoma më vonë
 device-migration-fxa-spotlight-heavy-user-header = Mos harroni të kopjeruani të dhënat tuaja
 device-migration-fxa-spotlight-heavy-user-body = Siguroni që informacione të rëndësishme — të tilla si faqerojtës dhe fjalëkalime — janë përditësuar dhe mbrojtur nëpër krejt pajisjet tuaja.
 device-migration-fxa-spotlight-heavy-user-primary-button = Fillojani
