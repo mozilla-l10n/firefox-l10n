@@ -29,3 +29,6 @@ more-from-moz-firefox-relay-button = Use o { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Recupere automaticamente suas informações pessoais expostas.
+more-from-moz-mozilla-monitor-global-description = Receba alertas quando seus dados estiverem em um vazamento.
+more-from-moz-mozilla-monitor-button = Use o { -monitor-brand-short-name }

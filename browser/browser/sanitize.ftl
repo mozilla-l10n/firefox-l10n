@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Limpar todo o histórico
     .style = min-width: 34em
 clear-data-settings-label = Ao fechar, o { -brand-short-name } deve limpar automaticamente:
+sanitize-on-shutdown-description = Limpar automaticamente todos os itens marcados ao fechar o { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

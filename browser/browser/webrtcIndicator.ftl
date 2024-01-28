@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = aba
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Origem desconhecida
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Abas compartilhadas em dispositivos
     .accesskey = A
-
 webrtc-sharing-window = Você está compartilhando outra janela do aplicativo.
 webrtc-sharing-browser-window = Você está compartilhando o { -brand-short-name }.
 webrtc-sharing-screen = Você está compartilhando sua tela inteira.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Controlar compartilhamento
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Controlar compartilhamento em “{ $streamTitle }”
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Compartilhando câmera com “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Compartilhando câmera com { $tabCount } aba
            *[other] Compartilhando câmera com { $tabCount } abas
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Compartilhando microfone com “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Compartilhando microfone com { $tabCount } aba
            *[other] Compartilhando microfone com { $tabCount } abas
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Compartilhando um aplicativo com “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Compartilhando um aplicativo com { $tabCount } aba
            *[other] Compartilhando aplicativos com { $tabCount } abas
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Compartilhando tela com “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Compartilhando tela com { $tabCount } aba
            *[other] Compartilhando tela com { $tabCount } abas
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Compartilhando uma janela com “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Compartilhando uma janela com { $tabCount } aba
            *[other] Compartilhando janelas com { $tabCount } abas
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Compartilhando uma aba com "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,20 @@ webrtc-allow-share-camera-and-audio-capture = Permitir que { $origin } use sua c
 webrtc-allow-share-screen-and-microphone = Permitir que { $origin } use seu microfone e veja sua tela?
 webrtc-allow-share-screen-and-audio-capture = Permitir que { $origin } ouça o áudio desta aba e veja sua tela?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Permitir que este arquivo local ouça áudio desta aba?
+webrtc-allow-share-camera-with-file = Permitir que este arquivo local use sua câmera?
+webrtc-allow-share-microphone-with-file = Permitir que este arquivo local use seu microfone?
+webrtc-allow-share-screen-with-file = Permitir que este arquivo local veja sua tela?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Permitir que este arquivo local use outras saídas de áudio?
+webrtc-allow-share-camera-and-microphone-with-file = Permitir que este arquivo local use sua câmera e  microfone?
+webrtc-allow-share-camera-and-audio-capture-with-file = Permitir que este arquivo local use sua câmera e ouça áudio desta aba?
+webrtc-allow-share-screen-and-microphone-with-file = Permitir que este arquivo local use seu microfone e veja sua tela?
+webrtc-allow-share-screen-and-audio-capture-with-file = Permitir que este arquivo local ouça áudio desta aba e veja sua tela?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +185,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permitir que { $
 
 webrtc-share-screen-warning = Só compartilhe telas com sites que você confia. Compartilhar pode permitir que sites enganosos naveguem como se fossem você e roubem seus dados privativos.
 webrtc-share-browser-warning = Só compartilhe o { -brand-short-name } com sites que você confia. Compartilhar pode permitir que sites enganosos naveguem como se fossem você e roubem seus dados privativos.
-
 webrtc-share-screen-learn-more = Saiba mais
 webrtc-pick-window-or-screen = Selecionar janela ou tela
 webrtc-share-entire-screen = Tela inteira
@@ -221,7 +220,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Memorizar esta decisão
 webrtc-mute-notifications-checkbox = Silenciar notificações de sites durante o compartilhamento
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } não pode permitir acesso permanente a sua tela.
 webrtc-reason-for-no-permanent-allow-audio = O { -brand-short-name } não pode permitir acesso permanente ao áudio da sua aba sem perguntar qual aba compartilhar.
 webrtc-reason-for-no-permanent-allow-insecure = Sua conexão com este site não é segura. Para te proteger, o { -brand-short-name } só permitirá o acesso nesta sessão.

@@ -220,6 +220,9 @@ shortcuts-no-addons = Você não tem nenhuma extensão ativada.
 shortcuts-no-commands = As seguintes extensões não têm atalhos de teclado:
 shortcuts-input =
     .placeholder = Digite um atalho
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Remover atalho
 shortcuts-browserAction2 = Ativar botão na barra de ferramentas
 shortcuts-pageAction = Ativar ação de página
 shortcuts-sidebarAction = Exibir/ocultar o painel lateral
