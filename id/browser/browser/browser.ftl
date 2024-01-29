@@ -567,7 +567,7 @@ urlbar-result-action-visit = Kunjungi
 # different container.
 # Variables
 # $container (String): the name of the target container
-urlbar-result-action-switch-tab-with-container = Bertukar ke Tab · <span>{ $container }</span>
+urlbar-result-action-switch-tab-with-container = Pindah ke Tab · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Kunjungi dari papan klip
 # Directs a user to press the Tab key to perform a search with the specified
