@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Poista eristystila
 containers-remove-cancel-button = Älä poista eristystilaa
+settings-tabs-show-image-in-preview =
+    .label = Näytä kuvan esikatselu, kun siirrät hiiren välilehden päälle
+    .accessKey = h
 
 ## General Section - Language & Appearance
 

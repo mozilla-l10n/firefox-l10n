@@ -205,6 +205,9 @@ cfr-cbh-dismiss-button = Ei nyt
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name } esti juuri evästeet
 cookie-banner-blocker-cfr-body = Estämme automaattisesti monet evästeiden ponnahdusilmoitukset, jotta sivustojen on vaikea seurata sinua.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } kieltäytyi juuri evästeilmoituksesta puolestasi
+cookie-banner-blocker-onboarding-body = Vähemmän häiriötekijöitä, vähemmän sinua tällä sivustolla seuraavia evästeitä.
+cookie-banner-blocker-onboarding-learn-more = Lue lisää
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -234,10 +237,6 @@ fxa-sync-cfr-secondary = Muistuta myöhemmin
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Käytätkö vanhempaa laitetta?
-device-migration-fxa-spotlight-body = Varmuuskopioi tietosi varmistaaksesi, ettet menetä tärkeitä tietoja, kuten kirjanmerkkejä ja salasanoja – varsinkin jos vaihdat uuteen laitteeseen.
-device-migration-fxa-spotlight-primary-button = Kuinka varmuuskopioida omat tiedot
-device-migration-fxa-spotlight-link = Muistuta myöhemmin
 device-migration-fxa-spotlight-heavy-user-header = Älä unohda varmuuskopioida tietojasi
 device-migration-fxa-spotlight-heavy-user-body = Varmista, että tärkeät tiedot, kuten kirjanmerkit ja salasanat, päivitetään ja suojataan kaikilla laitteillasi.
 device-migration-fxa-spotlight-heavy-user-primary-button = Aloitetaan
