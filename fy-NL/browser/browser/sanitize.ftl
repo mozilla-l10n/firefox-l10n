@@ -58,9 +58,16 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Skiednis
     .accesskey = S
+item-history-form-data-downloads-description = Wisket website- en downloadskiednis, bewarre formulierynformaasje en sykopdrachten.
 item-cookies =
     .label = Cookies
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookies en websitegegevens ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookies en websitegegevens
     .accesskey = e
@@ -71,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Buffer
     .accesskey = u
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Tydlik buffere bestannen en siden ({ $amount } { $unit })
+    .accesskey = f
 item-cached-content =
     .label = Tydlike buffere bestannen en siden
     .accesskey = t
@@ -96,6 +109,8 @@ sanitize-button-ok =
     .label = No wiskje
 sanitize-button-ok2 =
     .label = Wiskje
+sanitize-button-ok-on-shutdown =
+    .label = Wizigingen bewarje
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
