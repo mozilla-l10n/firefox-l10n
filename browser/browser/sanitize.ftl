@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Poista kaikki historiatiedot
     .style = min-width: 34em
 clear-data-settings-label = Kun { -brand-short-name } suljetaan, seuraavat tiedot poistetaan:
+sanitize-on-shutdown-description = Tyhjennä kaikki valitut kohteet automaattisesti, kun { -brand-short-name } sulkeutuu.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,12 +55,19 @@ history-section-label = Historiatiedot
 item-history-and-downloads =
     .label = Sivu- ja lataushistoria
     .accesskey = S
-item-browsing-and-search =
-    .label = Vieraillut sivustot, tallennetut lomaketiedot ja haut
-    .accesskey = V
+item-history-form-data-downloads =
+    .label = Historia
+    .accesskey = H
+item-history-form-data-downloads-description = Tyhjentää sivusto- ja lataushistorian, tallennetut lomaketiedot ja haut
 item-cookies =
     .label = Evästeet
     .accesskey = E
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Evästeet ja sivustotiedot ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Evästeet ja sivustotiedot
     .accesskey = E
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Väliaikaistiedostot
     .accesskey = V
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Väliaikaiset välimuistissa olevat tiedostot ja sivut ({ $amount } { $unit })
+    .accesskey = ä
 item-cached-content =
     .label = Väliaikaiset välimuistissa olevat tiedostot ja sivut
     .accesskey = ä
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = Sivuston asetukset
     .accesskey = i
 item-site-prefs-description = Palauttaa käyttöoikeudet ja sivustoasetukset alkuperäisiin asetuksiin
-item-download-history =
-    .label = Ladattujen tiedostojen luettelo
-    .accesskey = D
 data-section-label = Muut tiedot
 item-site-settings =
     .label = Sivuston asetukset
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = Poista tiedot
 sanitize-button-ok2 =
     .label = Poista
+sanitize-button-ok-on-shutdown =
+    .label = Tallenna muutokset
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
