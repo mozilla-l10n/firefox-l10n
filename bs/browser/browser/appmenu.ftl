@@ -180,6 +180,12 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Unaprijed postavljen za istraživanje grešaka u mreži u { -brand-shorter-name }u.
 profiler-popup-presets-networking-label =
     .label = Umrežavanje
+profiler-popup-presets-power-description = Unaprijed postavljen za istraživanje grešaka u potrošnji energije u { -brand-shorter-name }u, sa malim troškovima.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Struja
+profiler-popup-presets-custom-label =
+    .label = Prilagođeno
 
 ## History panel
 
@@ -194,6 +200,9 @@ appmenu-recently-closed-tabs =
     .label = Nedavno zatvoreni tabovi
 appmenu-recently-closed-windows =
     .label = Nedavno zatvoreni prozori
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Historija pretraživanja
 
 ## Help panel
 
@@ -207,6 +216,8 @@ appmenu-get-help =
     .accesskey = h
 appmenu-help-report-site-issue =
     .label = Prijavite problem sa stranicom…
+appmenu-help-switch-device =
+    .label = Prelazak na novi uređaj
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -229,3 +240,5 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Alati browsera
 appmenu-developer-tools-extensions =
     .label = Ekstenzije za developere
+appmenuitem-report-broken-site =
+    .label = Prijavite neispravan sajt
