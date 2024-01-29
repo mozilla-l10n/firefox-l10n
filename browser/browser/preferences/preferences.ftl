@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Remover iste contentor
 containers-remove-cancel-button = Non remover iste contentor
+settings-tabs-show-image-in-preview =
+    .label = Monstrar un vista preliminar del imagine quando tu passa le mus sur un scheda
+    .accessKey = n
 
 ## General Section - Language & Appearance
 

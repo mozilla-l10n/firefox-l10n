@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Vacuar tote le chronologia
     .style = min-width: 34em
 clear-data-settings-label = Quando claudite, { -brand-short-name } deberea automaticamente rader tote le
+sanitize-on-shutdown-description = Automaticamente clarar tote le elementos marcate quando { -brand-short-name } claude.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
