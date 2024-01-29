@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Fechar
     .aria-label = Fechar
+firefoxview-empty-state-icon =
+    .alt = Atenção:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Agora mesmo
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -147,8 +149,12 @@ firefoxview-opentabs-focus-tab =
     .title = Trocar para este separador
 firefoxview-show-more = Mostrar mais
 firefoxview-show-less = Mostrar menos
+firefoxview-show-all = Mostrar tudo
 firefoxview-search-text-box-clear-button =
     .title = Limpar
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Pesquisar
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Pesquisar histórico
