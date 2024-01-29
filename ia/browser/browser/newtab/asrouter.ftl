@@ -206,6 +206,7 @@ cfr-cbh-dismiss-button = Non ora
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name } justo blocava cookies pro te
 cookie-banner-blocker-cfr-body = Nos automaticamente refusa plure quadros resaltante de cookie pro render difficile pro le sitos traciar te.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } ha justo refusate un bandiera pro cookie pro te
 cookie-banner-blocker-onboarding-body = Minus distractiones, minus cookies traciante te sur iste sito.
 cookie-banner-blocker-onboarding-learn-more = Pro saper plus
 
