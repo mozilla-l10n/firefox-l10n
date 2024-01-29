@@ -205,6 +205,9 @@ cfr-cbh-dismiss-button = Ҳоло не
     .accesskey = Ҳ
 cookie-banner-blocker-cfr-header = «{ -brand-short-name }» дар ҳоли ҳозир барои шумо кукиҳоро манъ кард
 cookie-banner-blocker-cfr-body = Мо бисёр равзанаҳои зоҳиршавандаро ба таври худкор рад мекунем, то ки барои сомонаҳо пайгирии шуморо душвор созем.
+cookie-banner-blocker-onboarding-header = «{ -brand-short-name }» дар ҳоли ҳозир барои шумо баннери кукиро рад кард
+cookie-banner-blocker-onboarding-body = Камтар ҳалалҳо ва камтар кукиҳое, ки шуморо дар ин сомона пайгирӣ мекунанд.
+cookie-banner-blocker-onboarding-learn-more = Маълумоти бештар
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -234,10 +237,6 @@ fxa-sync-cfr-secondary = Баъдтар ёдоварӣ кунед
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Аз дастгоҳи куҳна истифода мебаред?
-device-migration-fxa-spotlight-body = Барои мутмаин шудан, ки шумо маълумоти муҳимро ба монанди хатбаракҳо ва ниҳонвожаҳо гум намекунед, нусхаи эҳтиётии маълумоти худро таҳия намоед, хусусан агар шумо ба дастгоҳи нав гузаронед.
-device-migration-fxa-spotlight-primary-button = Тарзи таҳия кардани нусхаи эҳтиётии маълумоти ман
-device-migration-fxa-spotlight-link = Баъдтар ёдоварӣ кунед
 device-migration-fxa-spotlight-heavy-user-header = Фаромӯш накунед, ки нусхаи эҳтиётии маълумоти худро таҳия намоед
 device-migration-fxa-spotlight-heavy-user-body = Мутмаин шавед, ки маълумоти муҳим — ба монанди хатбаракҳо ва ниҳонвожаҳо — дар ҳамаи дастгоҳҳои шумо нав ва ҳафз карда шавад.
 device-migration-fxa-spotlight-heavy-user-primary-button = Оғози кор
