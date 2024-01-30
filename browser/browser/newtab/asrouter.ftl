@@ -217,7 +217,7 @@ july-jam-set-default-primary = Hapi lidhjet e mia me { -brand-short-name }
 fox-doodle-pin-headline = Mirë se u kthyet
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
-fox-doodle-pin-body = Ja një kujtues i shpejtë që mund ta mbani vetëm një klikim larg shfletuesin tuaj të parapëlqyer dhe të pavarur.
+fox-doodle-pin-body = Ja një kujtues i shpejtë se shfletuesin tuaj të parapëlqyer dhe të pavarur mund ta mbani vetëm një klikim larg.
 fox-doodle-pin-primary = Hapi lidhjet e mia me { -brand-short-name }
 fox-doodle-pin-secondary = Jo tani
 
