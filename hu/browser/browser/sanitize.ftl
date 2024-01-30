@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Összes előzmény törlése
     .style = min-width: 34em
 clear-data-settings-label = Bezáráskor a { -brand-short-name } mindent távolítson el automatikusan
+sanitize-on-shutdown-description = Az összes kiválasztott elem automatikus törlése a { -brand-short-name } bezárásakor.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,12 +55,19 @@ history-section-label = Előzmények
 item-history-and-downloads =
     .label = Böngészési és letöltési előzmények
     .accesskey = B
-item-browsing-and-search =
-    .label = Felkeresett webhelyek, mentett űrlap-információk és keresések
-    .accesskey = F
+item-history-form-data-downloads =
+    .label = Előzmények
+    .accesskey = E
+item-history-form-data-downloads-description = Törli az oldalak és letöltések előzményeit, a mentett űrlap-információkat és a kereséseket
 item-cookies =
     .label = Sütik
     .accesskey = t
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Sütik és oldaladatok ({ $amount } { $unit })
+    .accesskey = S
 item-cookies-site-data =
     .label = Sütik és oldaladatok
     .accesskey = S
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Gyorsítótár
     .accesskey = G
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Ideiglenesen gyorsítótárazott fájlok és oldalak ({ $amount } { $unit })
+    .accesskey = I
 item-cached-content =
     .label = Ideiglenesen gyorsítótárazott fájlok és oldalak
     .accesskey = I
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = Oldalbeállítások
     .accesskey = O
 item-site-prefs-description = Visszaállítja az engedélyeket és a webhely beállításait az eredeti beállításokra
-item-download-history =
-    .label = Letöltött fájlok listája
-    .accesskey = L
 data-section-label = Adatok
 item-site-settings =
     .label = Oldalbeállítások
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = Törlés most
 sanitize-button-ok2 =
     .label = Törlés
+sanitize-button-ok-on-shutdown =
+    .label = Változások mentése
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
