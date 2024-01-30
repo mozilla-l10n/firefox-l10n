@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Konténer eltávolítása
 containers-remove-cancel-button = Ne távolítsa el a konténert
+settings-tabs-show-image-in-preview =
+    .label = Előnézeti kép megjelenítése, ha az egérmutatót egy lap fülé húzza
+    .accessKey = E
 
 ## General Section - Language & Appearance
 

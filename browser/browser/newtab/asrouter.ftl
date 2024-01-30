@@ -206,6 +206,9 @@ cfr-cbh-dismiss-button = Most nem
     .accesskey = n
 cookie-banner-blocker-cfr-header = A { -brand-short-name } épp most blokkolta a sütiket
 cookie-banner-blocker-cfr-body = Számos felugró sütikérést automatikusan elutasítunk, hogy a webhelyek nehezen tudják követni Önt.
+cookie-banner-blocker-onboarding-header = A { -brand-short-name } épp most utasított el egy sütibannert Önnek
+cookie-banner-blocker-onboarding-body = Kevesebb zavaró tényező, kevesebb süti, amely követné ezen az oldalon.
+cookie-banner-blocker-onboarding-learn-more = További tudnivalók
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -235,10 +238,6 @@ fxa-sync-cfr-secondary = Figyelmeztetés később
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Régebbi eszközt használ?
-device-migration-fxa-spotlight-body = Készítsen biztonsági mentést az adatairól, hogy ne veszítsen el olyan fontos információkat, mint a könyvjelzők és a jelszavak – különösen, ha új eszközre vált.
-device-migration-fxa-spotlight-primary-button = Hogyan kell biztonsági mentést készíteni az adatokról
-device-migration-fxa-spotlight-link = Figyelmeztetés később
 device-migration-fxa-spotlight-heavy-user-header = Ne felejtsen el biztonsági mentést készíteni az adatairól
 device-migration-fxa-spotlight-heavy-user-body = Győződjön meg arról, hogy a fontos információk – mint a könyvjelzők és jelszavak – legyenek naprakészek és védettek az összes eszközén.
 device-migration-fxa-spotlight-heavy-user-primary-button = Első lépések
