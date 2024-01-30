@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = варақа
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Манбаи номаълум
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Дастгоҳҳо бо иҷозати дастрасӣ ба варақаҳо
     .accesskey = d
-
 webrtc-sharing-window = Шумо ба равзанаи барномаи дигар дастрасии умумӣ медиҳед.
 webrtc-sharing-browser-window = Шумо ба «{ -brand-short-name }» дастрасии умумӣ медиҳед.
 webrtc-sharing-screen = Шумо ба тамоми экрани худ дастрасии умумӣ медиҳед.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Идоракунии дастрасӣ
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Идоракунии дастрасӣ барои «{ $streamTitle }»
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = «{ $streamTitle }» ба камера дастрасӣ дорад
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] { $tabCount } варақа ба камера дастрасӣ дорад
            *[other] { $tabCount } варақа ба камера дастрасӣ доранд
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = «{ $streamTitle }» ба микрофон дастрасӣ дорад
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] { $tabCount } варақа ба микрофон дастрасӣ дорад
            *[other] { $tabCount } варақа ба микрофон дастрасӣ доранд
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = «{ $streamTitle }» ба барнома дастрасӣ дорад
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } варақа ба барнома дастрасӣ дорад
            *[other] { $tabCount } варақа ба барнома дастрасӣ доранд
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = «{ $streamTitle }» ба экран дастрасӣ дорад
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] { $tabCount } варақа ба экран дастрасӣ дорад
            *[other] { $tabCount } варақа ба экран дастрасӣ доранд
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = «{ $streamTitle }» ба равзана дастрасӣ дорад
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] { $tabCount } варақа ба равзана дастрасӣ дорад
            *[other] { $tabCount } варақа ба равзана дастрасӣ доранд
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = «{ $streamTitle }» ба варақа дастрасӣ дорад
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,20 @@ webrtc-allow-share-camera-and-audio-capture = Ба { $origin } барои ист
 webrtc-allow-share-screen-and-microphone = Ба { $origin } барои истифодаи микрофони шумо ва дидани экрани шумо иҷозат медиҳед?
 webrtc-allow-share-screen-and-audio-capture = Ба { $origin } барои гӯш кардани аудиои ин варақа ва дидани экрани шумо иҷозат медиҳед?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Ба ин файли маҳаллӣ барои гӯш кардани аудиои ин варақа иҷозат медиҳед?
+webrtc-allow-share-camera-with-file = Ба ин файли маҳаллӣ барои истифодаи камераи шумо иҷозат медиҳед?
+webrtc-allow-share-microphone-with-file = Ба ин файли маҳаллӣ барои истифодаи микрофони шумо иҷозат медиҳед?
+webrtc-allow-share-screen-with-file = Ба ин файли маҳаллӣ барои дидани экрани шумо иҷозат медиҳед?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Ба ин файли маҳаллӣ барои истифодаи баландгӯякҳои шумо иҷозат медиҳед?
+webrtc-allow-share-camera-and-microphone-with-file = Ба ин файли маҳаллӣ барои истифодаи камера ва микрофони шумо иҷозат медиҳед?
+webrtc-allow-share-camera-and-audio-capture-with-file = Ба ин файли маҳаллӣ барои истифодаи камераи шумо ва гӯш кардани аудиои ин варақа иҷозат медиҳед?
+webrtc-allow-share-screen-and-microphone-with-file = Ба ин файли маҳаллӣ барои истифодаи микрофони шумо ва дидани экрани шумо иҷозат медиҳед?
+webrtc-allow-share-screen-and-audio-capture-with-file = Ба ин файли маҳаллӣ барои гӯш кардани аудиои ин варақа ва дидани экрани шумо иҷозат медиҳед?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +185,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Ба { $origin }
 
 webrtc-share-screen-warning = Экранҳоро танҳо дар он сомонаҳое, ки шумо эътимод доред, мубодила кунед. Мубодилаи экран метавонад ба сомонаҳои қалбакӣ имкон диҳад, то онҳо тавонанд браузерро аз номи шумо истифода баранд ва маълумоти шахсии шуморо дуздӣ кунанд.
 webrtc-share-browser-warning = «{ -brand-short-name }»-ро танҳо дар он сомонаҳое, ки шумо эътимод доред, мубодила кунед. Мубодилаи экран метавонад ба сомонаҳои қалбакӣ имкон диҳад, то онҳо тавонанд браузерро аз номи шумо истифода баранд ва маълумоти шахсии шуморо дуздӣ кунанд.
-
 webrtc-share-screen-learn-more = Маълумоти бештар
 webrtc-pick-window-or-screen = Равзана ё экранро интихоб намоед
 webrtc-share-entire-screen = Тамоми экран
@@ -221,7 +220,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Ин қарорро дар хотир доред
 webrtc-mute-notifications-checkbox = Бесадо кардани огоҳиҳои сомона ҳангоми мубодила
-
 webrtc-reason-for-no-permanent-allow-screen = «{ -brand-short-name }» наметавонад, ки дастрасии доимиро ба экрани шумо иҷозат диҳад.
 webrtc-reason-for-no-permanent-allow-audio = «{ -brand-short-name }» наметавонад бе дархости он, ки кадом варақа мубодила карда мешавад, дастрасии доимиро ба аудиои варақаи шумо иҷозат диҳад.
 webrtc-reason-for-no-permanent-allow-insecure = Пайвастшавии шумо ба ин сомона бехатар нест. Барои муҳофизат кардани шумо, «{ -brand-short-name }» танҳо дастрасӣ то анҷоми ин ҷаласа иҷозат медиҳад.
