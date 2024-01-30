@@ -125,7 +125,7 @@ login-item-edit-button = Editar
 about-logins-login-item-remove-button = Remover
 login-item-origin-label = Endereço do site
 login-item-tooltip-message = Certifique-se de que corresponde ao endereço exato do site onde você acessou a conta.
-about-logins-origin-tooltip2 = Insira o endereço completo e certifique-se de corresponder exatamente a onde você fez entrou na conta.
+about-logins-origin-tooltip2 = Insira o endereço completo. Certifique-se de corresponder exatamente à página onde você entra na conta do site.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Certifique-se de salvar a senha atual da sua conta deste site. Mudar a senha aqui não a altera em { $webTitle }.
@@ -253,11 +253,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
         [one] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
        *[other] Serão removidas todos as contas que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua conta. Também serão removidos alertas de vazamentos que aparecem aqui. Você não pode desfazer esta ação.
-       *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
