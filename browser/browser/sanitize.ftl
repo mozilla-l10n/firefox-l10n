@@ -58,6 +58,7 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Chronologia
     .accesskey = C
+item-history-form-data-downloads-description = Clara sito e chronologia de discargamento, informationes de formulario salvate, e recercas
 item-cookies =
     .label = Cookies
     .accesskey = C
@@ -77,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Cache
     .accesskey = A
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Files e paginas in cache temporari ({ $amount } { $unitate })
+    .accesskey = F
 item-cached-content =
     .label = Files e paginas temporari in cache
     .accesskey = F
