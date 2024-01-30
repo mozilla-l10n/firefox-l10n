@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = lap
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Ismeretlen eredet
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Eszközöket megosztó lapok
     .accesskey = E
-
 webrtc-sharing-window = Egy másik alkalmazásablakot oszt meg.
 webrtc-sharing-browser-window = Megosztja a { -brand-short-name(case: "accusative") }.
 webrtc-sharing-screen = A teljes képernyőt megosztja.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Megosztás beállítása
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Megosztás beállítása ezen: „{ $streamTitle }”
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kamera megosztása vele: „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Kamera megosztása { $tabCount } lappal
            *[other] Kamera megosztása { $tabCount } lappal
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofon megosztása vele: „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Mikrofon megosztása { $tabCount } lappal
            *[other] Mikrofon megosztása { $tabCount } lappal
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Alkalmazás megosztása vele: „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Alkalmazás megosztása { $tabCount } lappal
            *[other] Alkalmazás megosztása { $tabCount } lappal
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Képernyő megosztása vele: „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Képernyő megosztása { $tabCount } lappal
            *[other] Képernyő megosztása { $tabCount } lappal
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Ablak megosztása vele: „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Ablak megosztása { $tabCount } lappal
            *[other] Ablak megosztása { $tabCount } lappal
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Lap megosztása vele: „{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,20 @@ webrtc-allow-share-camera-and-audio-capture = Engedélyezi, hogy a(z) { $origin 
 webrtc-allow-share-screen-and-microphone = Engedélyezi, hogy a(z) { $origin } használja a mikrofonját, és lássa a képernyőjét?
 webrtc-allow-share-screen-and-audio-capture = Engedélyezi, hogy a(z) { $origin } hallja a lap hangját, és lássa a képernyőjét?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Engedélyezi, hogy ez a helyi fájl hallja a lap hangját?
+webrtc-allow-share-camera-with-file = Engedélyezi, hogy ez a helyi fájl használja a kameráját?
+webrtc-allow-share-microphone-with-file = Engedélyezi, hogy ez a helyi fájl használja a mikrofonját?
+webrtc-allow-share-screen-with-file = Engedélyezi, hogy ez a helyi fájl lássa a képernyőjét?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Engedélyezi, hogy ez a helyi fájl más hangszórókat használjon?
+webrtc-allow-share-camera-and-microphone-with-file = Engedélyezi, hogy ez a helyi fájl használja a kameráját és mikrofonját?
+webrtc-allow-share-camera-and-audio-capture-with-file = Engedélyezi, hogy ez a helyi fájl használja a kameráját, és hallja a lap hangját?
+webrtc-allow-share-screen-and-microphone-with-file = Engedélyezi, hogy ez a helyi fájl használja a mikrofonját, és lássa a képernyőjét?
+webrtc-allow-share-screen-and-audio-capture-with-file = Engedélyezi, hogy ez a helyi fájl hallja a lap hangját, és lássa a képernyőjét?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +185,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Engedélyezi, ho
 
 webrtc-share-screen-warning = Csak azokkal az oldalakkal ossza meg a képernyőit, melyekben megbízik. A megosztás lehetővé teszi a megtévesztő oldalaknak, hogy az ön nevében böngésszenek, és ellopják a személyes adatait.
 webrtc-share-browser-warning = Csak azokkal az oldalakkal ossza meg a { -brand-short-name }ot, melyekben megbízik. A megosztás lehetővé teszi a megtévesztő oldalaknak, hogy az ön nevében böngésszenek, és ellopják a személyes adatait.
-
 webrtc-share-screen-learn-more = További tudnivalók
 webrtc-pick-window-or-screen = Válasszon ablakot vagy képernyőt
 webrtc-share-entire-screen = Teljes képernyő
@@ -221,7 +220,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = A döntés megjegyzése
 webrtc-mute-notifications-checkbox = Webhely értesítéseinek elnémítása megosztás közben
-
 webrtc-reason-for-no-permanent-allow-screen = A { -brand-short-name } nem teszi lehetővé a képernyőhöz történő állandó hozzáférést.
 webrtc-reason-for-no-permanent-allow-audio = A { -brand-short-name } nem teszi lehetővé a lap hangjához történő állandó hozzáférést, a megosztandó lap megkérdezése nélkül.
 webrtc-reason-for-no-permanent-allow-insecure = A kapcsolat az oldal felé nem biztonságos. A biztonsága érdekében, a { -brand-short-name } csak ebben a munkamenetben engedi elérni az oldalt.

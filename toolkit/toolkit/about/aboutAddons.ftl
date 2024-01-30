@@ -220,6 +220,9 @@ shortcuts-no-addons = Egyetlen kiegészítő sincs engedélyezve.
 shortcuts-no-commands = A következő kiegészítők nem rendelkeznek gyorsbillentyűvel:
 shortcuts-input =
     .placeholder = Írjon be egy gyorsbillentyűt
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Gyorsbillentyű eltávolítása
 shortcuts-browserAction2 = Eszköztárgomb aktiválása
 shortcuts-pageAction = Lapművelet aktiválása
 shortcuts-sidebarAction = Oldalsáv be/ki
