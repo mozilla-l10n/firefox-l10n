@@ -807,6 +807,9 @@ pane-privacy-logins-and-passwords-header = පිවිසුම් සහ ම�
 forms-ask-to-save-logins =
     .label = අඩවි සඳහා පිවිසුම් සහ මුරපද සුරැකීමට අසන්න
     .accesskey = r
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = හැරදැමීම්...
     .accesskey = x
@@ -861,6 +864,13 @@ primary-password-os-auth-dialog-message-win = ප්‍රාථමික මු
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ප්‍රාථමික මුරපදයක් සාදන්න
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+autofill-addresses-checkbox = ලිපින සුරැකීම හා පිරවීම
+    .accesskey = a
+autofill-saved-addresses-button = සුරැකි ලිපින
+    .accesskey = S
 
 ## Privacy Section - History
 
