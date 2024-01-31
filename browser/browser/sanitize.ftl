@@ -96,6 +96,8 @@ sanitize-button-ok =
     .label = Slett nå
 sanitize-button-ok2 =
     .label = Tøm
+sanitize-button-ok-on-shutdown =
+    .label = Lagre endringer
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
