@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = מחיקת כל ההיסטוריה
     .style = min-width: 34em
 clear-data-settings-label = עם הסגירה, { -brand-short-name } אמור לפנות את כל אלה אוטומטית
+sanitize-on-shutdown-description = מנקה באופן אוטומטי את כל הפריטים המסומנים כאשר { -brand-short-name } נסגר.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,11 +55,18 @@ history-section-label = היסטוריה
 item-history-and-downloads =
     .label = היסטוריית גלישה והורדות
     .accesskey = ה
-item-browsing-and-search =
-    .label = אתרים שביקרת בהם, פרטי טפסים שמורים וחיפושים
-    .accesskey = ב
+item-history-form-data-downloads =
+    .label = היסטוריה
+    .accesskey = ה
+item-history-form-data-downloads-description = מנקה היסטוריית אתרים 4והיסטוריית הורדות, פרטי טפסים שמורים וחיפושים
 item-cookies =
     .label = עוגיות
+    .accesskey = ע
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = עוגיות ונתוני אתרים ({ $amount } { $unit })
     .accesskey = ע
 item-cookies-site-data =
     .label = עוגיות ונתוני אתרים
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = מטמון
     .accesskey = מ
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = קבצים ודפים זמניים המאוחסנים במטמון ({ $amount } { $unit })
+    .accesskey = ק
 item-cached-content =
     .label = קבצים ודפים זמניים במטמון
     .accesskey = ק
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = הגדרות אתרים
     .accesskey = ה
 item-site-prefs-description = מאפס את ההרשאות והעדפות האתר שלך להגדרות המקוריות
-item-download-history =
-    .label = רשימת הקבצים שהורדו
-    .accesskey = ר
 data-section-label = נתונים
 item-site-settings =
     .label = הגדרות אתרים
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = מחיקה כעת
 sanitize-button-ok2 =
     .label = ניקוי
+sanitize-button-ok-on-shutdown =
+    .label = שמירת שינויים
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
