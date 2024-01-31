@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Slett all historikk
     .style = min-width: 34em
 clear-data-settings-label = Når { -brand-short-name } avslutter, skal følgende slettes automatisk
+sanitize-on-shutdown-description = Fjern automatisk alle avmerkede elementer når { -brand-short-name } lukkes.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,9 +55,9 @@ history-section-label = Historikk
 item-history-and-downloads =
     .label = Nettleser- og nedlastingshistorikk
     .accesskey = N
-item-browsing-and-search =
-    .label = Besøkte nettsteder, lagret skjemainformasjon og søk
-    .accesskey = B
+item-history-form-data-downloads =
+    .label = Historikk
+    .accesskey = H
 item-cookies =
     .label = Infokapsler
     .accesskey = I
@@ -81,9 +82,6 @@ item-site-prefs =
     .label = Nettstedsinnstillinger
     .accesskey = e
 item-site-prefs-description = Tilbakestiller tillatelsene og nettstedsinnstillinger til de opprinnelige innstillingene
-item-download-history =
-    .label = Liste over nedlastede filer
-    .accesskey = L
 data-section-label = Data
 item-site-settings =
     .label = Nettstedsinnstillinger
