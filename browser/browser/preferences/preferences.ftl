@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = להסיר מגירה זו
 containers-remove-cancel-button = לא להסיר מגירה זו
+settings-tabs-show-image-in-preview =
+    .label = הצגת תצוגה מקדימה בעת ריחוף על לשונית
+    .accessKey = ת
 
 ## General Section - Language & Appearance
 
