@@ -55,3 +55,11 @@ fxviewtabrow-send-tab = Inviar scheda a un apparato
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Optiones pro { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = Silentiar { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = Reactivar audio { $tabTitle }
