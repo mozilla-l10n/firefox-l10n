@@ -29,5 +29,6 @@ more-from-moz-firefox-relay-button = A { -relay-brand-short-name } beszerzése
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Automatikusan szerezze vissza a kikerült személyes adatait.
 more-from-moz-mozilla-monitor-global-description = Kapjon értesítést, ha az adatai adatvédelmi incidensben voltak érintettek.
 more-from-moz-mozilla-monitor-button = A { -monitor-brand-short-name } beszerzése
