@@ -217,6 +217,9 @@ shortcuts-no-addons = אין לך הרחבות מופעלות.
 shortcuts-no-commands = להרחבות הבאות אין קיצורי דרך:
 shortcuts-input =
     .placeholder = נא להקליד קיצור דרך
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = הסרת קיצור דרך
 shortcuts-browserAction2 = הפעלת הכפתור בסרגל הכלים
 shortcuts-pageAction = הפעלת פעולת דף
 shortcuts-sidebarAction = הצגה/הסתרה של סרגל הצד
