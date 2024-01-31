@@ -222,7 +222,7 @@ shortcuts-input =
     .placeholder = Skriver inn en snarvei
 # Accessible name for a trashcan icon button that removes an existent shortcut
 shortcuts-remove-button =
-    .aria-label = Fjern snarveien
+    .aria-label = Fjern snarvei
 shortcuts-browserAction2 = Aktiver verktøylinjeknapp
 shortcuts-pageAction = Aktiver sidehandling
 shortcuts-sidebarAction = Vis/skjul sidestolpe
