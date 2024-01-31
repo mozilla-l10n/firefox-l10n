@@ -5,10 +5,8 @@
 screenshot-toolbarbutton =
     .label = Ôbroz ekranu
     .tooltiptext = Chyć ôbroz ekranu
-
 screenshot-shortcut =
     .key = S
-
 screenshots-instructions = Przeciōng abo kliknij na strōna, coby ôbrać jij kōnsek. Prziciś ESC, coby pociepać.
 screenshots-cancel-button = Pociep
 screenshots-save-visible-button = Spamiyntej widziane
@@ -25,7 +23,6 @@ screenshots-cancel-button-title =
     .title = Pociep
 screenshots-retry-button-title =
     .title = Sprōbuj zaś zrobić ôbroz ekranu
-
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -33,26 +30,17 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Link je skopiowany
 screenshots-notification-link-copied-details = Link do tego ôbrazu ekranu je skopiowany do kamerlika. Prziciś { screenshots-meta-key }-V, coby go wrazić.
-
 screenshots-notification-image-copied-title = Ôbroz ekranu je skopiowany
 screenshots-notification-image-copied-details = Tyn ôbroz ekranu je skopiowany do kamerlika. Prziciś { screenshots-meta-key }-V, coby go wrazić.
-
 screenshots-request-error-title = Awaryjo.
 screenshots-request-error-details = Spamiyntanie tego ôbrazu ekranu sie niy podarziło. Sprōbuj niyskorzij.
-
 screenshots-connection-error-title = Niy idzie połōnczyć sie z twojimi ôbrazami ekranu.
 screenshots-connection-error-details = Badnij na połōnczynie z internetym. Jak ône funguje dobrze, może prawie być problym z usugōm { -screenshots-brand-name }.
-
 screenshots-login-error-details = Niy idzie spamiyntać twojigo ôbrazu ekranu skuli problymu z usugōm { -screenshots-brand-name }. Sprōbuj niyskorzij.
-
 screenshots-unshootable-page-error-title = Niy idzie chycić ôbrazu ekranu tyj strōny.
 screenshots-unshootable-page-error-details = To niy ma ańfachowo strōna, tōż niy idzie chycić jeji ôbrazu ekranu.
-
 screenshots-empty-selection-error-title = Ôbrany kōnsek je za mały
-
 screenshots-private-window-error-title = Usuga { -screenshots-brand-name } je zastawiōno we trybie prywatnego przeglōndanio
 screenshots-private-window-error-details = Przebocz ta zawada. Prawie robiymy przi tyj funkcyji, coby sie pokozała we prziszłości.
-
 screenshots-generic-error-title = Usuga { -screenshots-brand-name } niy funguje dobrze.
-screenshots-generic-error-details = Niy znōmy gynau, co sie podzioło. Sprōbujesz jeszcze roz, abo bydziesz chytać ôbroz inkszyj strōny?
-
+screenshots-generic-error-details = Niy sōm my zicher, co sie stało. Sprōbujesz jeszcze roz, abo bydziesz zapisować ôbroz inkszyj strōny?
