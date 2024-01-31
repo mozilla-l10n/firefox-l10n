@@ -220,6 +220,9 @@ shortcuts-no-addons = Herhangi bir uzantıyı etkinleştirmediniz.
 shortcuts-no-commands = Aşağıdaki uzantıların kısayolları yok:
 shortcuts-input =
     .placeholder = Bir kısayol girin
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Kısayolu kaldır
 shortcuts-browserAction2 = Araç çubuğu düğmesini etkinleştir
 shortcuts-pageAction = Sayfa eylemini etkinleştir
 shortcuts-sidebarAction = Kenar çubuğunu aç/kapat

@@ -54,12 +54,18 @@ history-section-label = Geçmiş
 item-history-and-downloads =
     .label = Gezinti ve indirme geçmişi
     .accesskey = T
-item-browsing-and-search =
-    .label = Ziyaret edilen siteler, kayıtlı form bilgileri ve aramalar
-    .accesskey = Z
+item-history-form-data-downloads =
+    .label = Geçmiş
+    .accesskey = G
 item-cookies =
     .label = Çerezler
     .accesskey = z
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Çerezler ve site verileri ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Çerezler ve site verileri
     .accesskey = e
@@ -70,6 +76,12 @@ item-active-logins =
 item-cache =
     .label = Önbellek
     .accesskey = n
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Geçici önbelleğe alınmış dosyalar ve sayfalar ({ $amount } { $unit })
+    .accesskey = G
 item-cached-content =
     .label = Geçici önbelleğe alınmış dosyalar ve sayfalar
     .accesskey = d
@@ -81,9 +93,6 @@ item-site-prefs =
     .label = Site ayarları
     .accesskey = i
 item-site-prefs-description = İzinlerinizi ve site tercihlerinizi orijinal ayarlarına sıfırlar
-item-download-history =
-    .label = İndirilen dosyaların listesi
-    .accesskey = n
 data-section-label = Veri
 item-site-settings =
     .label = Site ayarları
@@ -98,6 +107,8 @@ sanitize-button-ok =
     .label = Şimdi temizle
 sanitize-button-ok2 =
     .label = Temizle
+sanitize-button-ok-on-shutdown =
+    .label = Değişiklikleri kaydet
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
