@@ -199,6 +199,9 @@ cfr-cbh-confirm-button = דחיית כרזות עוגיות
 cfr-cbh-dismiss-button = לא כעת
     .accesskey = ל
 cookie-banner-blocker-cfr-header = ‏{ -brand-short-name } חסם הרגע עוגיות עבורך
+cookie-banner-blocker-onboarding-header = ‏{ -brand-short-name } סירב הרגע לכרזת עוגיות עבורך
+cookie-banner-blocker-onboarding-body = פחות הסחות דעת, פחות מעקב עם עוגיות באתר הזה.
+cookie-banner-blocker-onboarding-learn-more = מידע נוסף
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -228,10 +231,6 @@ fxa-sync-cfr-secondary = להזכיר לי מאוחר יותר
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = משתמשים במכשיר ישן?
-device-migration-fxa-spotlight-body = כדאי לגבות את הנתונים שלכם כדי לוודא שלא תאבדו מידע חשוב כמו סימניות וססמאות - במיוחד אם אתם עוברים למכשיר חדש.
-device-migration-fxa-spotlight-primary-button = כיצד לגבות את הנתונים שלי
-device-migration-fxa-spotlight-link = להזכיר לי מאוחר יותר
 device-migration-fxa-spotlight-heavy-user-header = לא לשכוח לגבות את הנתונים שלך
 device-migration-fxa-spotlight-heavy-user-body = באפשרותך לוודא שמידע חשוב - כמו סימניות וססמאות - מעודכנים ומוגנים בכל המכשירים שלך.
 device-migration-fxa-spotlight-heavy-user-primary-button = תחילת עבודה

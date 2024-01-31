@@ -288,6 +288,7 @@ onboarding-mobile-download-security-and-privacy-title = להישאר מוצפן 
 ## New user time and familiarity survey strings
 
 onboarding-new-user-time-based-survey-title = במשך כמה זמן השתמשת ב־{ -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = עד כמה { -brand-short-name } מוכר לך?
 onboarding-new-user-survey-subtitle = המשוב שלך עוזר להפוך את { -brand-short-name } לטוב עוד יותר.
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = אני חדש לגמרי
