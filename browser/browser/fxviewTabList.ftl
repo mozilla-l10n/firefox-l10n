@@ -55,3 +55,11 @@ fxviewtabrow-send-tab = Αποστολή καρτέλας σε συσκευή
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Επιλογές για «{ $tabTitle }»
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = Σίγαση του { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = Άρση σίγασης του { $tabTitle }

@@ -161,6 +161,9 @@ webrtc-allow-share-screen-with-file = Να επιτρέπεται σε αυτό 
 # another audio output connection.
 webrtc-allow-share-speaker-with-file = Να επιτρέπεται σε αυτό το τοπικό αρχείο η χρήση άλλων ηχείων;
 webrtc-allow-share-camera-and-microphone-with-file = Να επιτρέπεται σε αυτό το τοπικό αρχείο η χρήση της κάμερας και του μικροφώνου σας;
+webrtc-allow-share-camera-and-audio-capture-with-file = Να επιτρέπεται σε αυτό το τοπικό αρχείο η χρήση της κάμερας και η ακρόαση του ήχου αυτής της καρτέλας;
+webrtc-allow-share-screen-and-microphone-with-file = Να επιτρέπεται σε αυτό το τοπικό αρχείο η χρήση του μικροφώνου και η θέαση της οθόνης σας;
+webrtc-allow-share-screen-and-audio-capture-with-file = Να επιτρέπεται σε αυτό το τοπικό αρχείο η ακρόαση του ήχου αυτής της καρτέλας και η θέαση της οθόνης σας;
 
 ## Variables:
 ##   $origin (String): the first party origin.
