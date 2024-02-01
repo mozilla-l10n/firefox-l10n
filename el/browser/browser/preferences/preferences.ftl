@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Αφαίρεση θεματικής ενότητας
 containers-remove-cancel-button = Διατήρηση θεματικής ενότητας
+settings-tabs-show-image-in-preview =
+    .label = Εμφάνιση προεπισκόπησης εικόνας όταν τοποθετείτε τον δείκτη του ποντικιού σε μια καρτέλα
+    .accessKey = μ
 
 ## General Section - Language & Appearance
 

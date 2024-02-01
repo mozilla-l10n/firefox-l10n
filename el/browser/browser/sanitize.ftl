@@ -58,6 +58,7 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Ιστορικό
     .accesskey = Ι
+item-history-form-data-downloads-description = Διαγραφή ιστορικού ιστοτόπων και λήψεων, των πληροφοριών αποθηκευμένων φορμών και αναζητήσεων
 item-cookies =
     .label = Cookie
     .accesskey = C
