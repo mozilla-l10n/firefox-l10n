@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = 清除全部历史
     .style = min-width: 34em
 clear-data-settings-label = 退出后，{ -brand-short-name } 会自动清除所有
+sanitize-on-shutdown-description = 关闭 { -brand-short-name } 时自动清除所有选中项目。
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,12 +55,19 @@ history-section-label = 历史记录
 item-history-and-downloads =
     .label = 浏览和下载历史
     .accesskey = B
-item-browsing-and-search =
-    .label = 访问过的网站、保存的表单信息和搜索记录
-    .accesskey = V
+item-history-form-data-downloads =
+    .label = 历史记录
+    .accesskey = H
+item-history-form-data-downloads-description = 清除浏览、下载、搜索记录，以及保存的表单信息
 item-cookies =
     .label = Cookie
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookie 和网站数据（{ $amount } { $unit }）
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookie 和网站数据
     .accesskey = e
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = 缓存
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = 临时缓存文件和页面（{ $amount } { $unit }）
+    .accesskey = f
 item-cached-content =
     .label = 临时缓存文件和页面
     .accesskey = f
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = 网站设置
     .accesskey = i
 item-site-prefs-description = 将权限和网站首选项还原为初始设置
-item-download-history =
-    .label = 已下载文件列表
-    .accesskey = D
 data-section-label = 数据
 item-site-settings =
     .label = 网站设置
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = 立即清除
 sanitize-button-ok2 =
     .label = 清除
+sanitize-button-ok-on-shutdown =
+    .label = 保存更改
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

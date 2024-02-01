@@ -129,6 +129,17 @@ webrtc-allow-share-screen-and-audio-capture = 要允许 { $origin } 听取此标
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
+webrtc-allow-share-audio-capture-with-file = 要允许此本地文件听取此标签页的音频吗？
+webrtc-allow-share-camera-with-file = 要允许此本地文件使用摄像头吗？
+webrtc-allow-share-microphone-with-file = 要允许此本地文件使用麦克风吗？
+webrtc-allow-share-screen-with-file = 要允许此本地文件获取屏幕内容吗？
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = 要允许此本地文件使用其他音频输出设备吗？
+webrtc-allow-share-camera-and-microphone-with-file = 要允许此本地文件使用摄像头和麦克风吗？
+webrtc-allow-share-camera-and-audio-capture-with-file = 要允许此本地文件使用摄像头并听取此标签页的音频吗？
+webrtc-allow-share-screen-and-microphone-with-file = 要允许此本地文件使用麦克风并获取屏幕内容吗？
+webrtc-allow-share-screen-and-audio-capture-with-file = 要允许此本地文件听取此标签页的音频并获取屏幕内容吗？
 
 ## Variables:
 ##   $origin (String): the first party origin.
