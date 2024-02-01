@@ -64,4 +64,4 @@ fxviewtabrow-mute-tab-button =
 # Variables:
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
-  .title = Aattiva audio per { $tabTitle }
+  .title = Attiva audio per { $tabTitle }
