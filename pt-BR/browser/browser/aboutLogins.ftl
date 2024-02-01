@@ -293,7 +293,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Exportar contas e senhas
 about-logins-confirm-export-dialog-message = Suas senhas serão salvas em texto legível (exemplo, Senh@Ruim123), qualquer pessoa que consiga abrir o arquivo exportado poderá ver.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
-about-logins-confirm-export-dialog-title2 = Uma observação sobre exportação de senhas
+about-logins-confirm-export-dialog-title2 = Observação sobre exportação de senhas
 about-logins-confirm-export-dialog-message2 =
     Ao exportar, suas senhas são salvas em um arquivo em texto legível.
     Quando terminar de usar o arquivo, recomendamos apagar para que outras pessoas que usam este dispositivo não possam ver suas senhas.
