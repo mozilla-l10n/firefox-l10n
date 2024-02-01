@@ -254,12 +254,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw { -fxaccount-brand-name } zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
        *[other] Dit verwijdert de aanmeldingen die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw { -fxaccount-brand-name } zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
     }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw account zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
-        [one] Dit verwijdert de aanmelding die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw account zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
-       *[other] Dit verwijdert de aanmeldingen die u in { -brand-short-name } hebt opgeslagen van alle apparaten die met uw account zijn gesynchroniseerd. Dit verwijdert ook alle waarschuwingen voor datalekken die hier verschijnen. U kunt deze actie niet ongedaan maken.
-    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -306,7 +300,7 @@ about-logins-confirm-export-dialog-message2 =
 about-logins-confirm-export-dialog-confirm-button2 = Doorgaan met exporteren
 about-logins-alert-import-title = Importeren voltooid
 about-logins-alert-import-message = Gedetailleerde importsamenvatting bekijken
-confirm-discard-changes-dialog-title = Deze wijzigingen verwerpen?
+confirm-discard-changes-dialog-title = Niet-opgeslagen wijzigingen verwijderen?
 confirm-discard-changes-dialog-message = Alle niet-opgeslagen wijzigingen gaan verloren.
 confirm-discard-changes-dialog-confirm-button = Verwerpen
 
