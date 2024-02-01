@@ -217,6 +217,9 @@ shortcuts-no-addons = 您没有启用任何扩展。
 shortcuts-no-commands = 下列扩展没有快捷键：
 shortcuts-input =
     .placeholder = 输入一个快捷键
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = 移除快捷方式
 shortcuts-browserAction2 = 激活工具栏按钮
 shortcuts-pageAction = 激活页面动作
 shortcuts-sidebarAction = 切换侧栏
