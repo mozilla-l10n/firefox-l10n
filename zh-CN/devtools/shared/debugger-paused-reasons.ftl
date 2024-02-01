@@ -37,7 +37,7 @@ whypaused-mutation-breakpoint-added = 已添加：
 whypaused-mutation-breakpoint-removed = 已移除：
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused at a JS execution
-whypaused-interrupted = 已暂停执行
+whypaused-interrupted = 执行时暂停
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = 单步调试时暂停
