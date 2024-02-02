@@ -22,12 +22,10 @@ about-private-browsing-not-private = Immoe non ses in una ventana privada.
 about-private-browsing-info-description-private-window = Ventana privada: { -brand-short-name } lìmpiat sa cronologia de chirca e de navigatzione cando serras totu is ventanas privadas. Non ti faghet abarrare in anònimu.
 about-private-browsing-info-description-simplified = { -brand-short-name } lìmpiat sa cronologia de chirca e de navigatzione cando serras totu is ventanas privadas, ma non ti faghet abarrare in anònimu.
 about-private-browsing-learn-more-link = Àteras informatziones
-
 about-private-browsing-hide-activity = Cua s'atividade e sa positzione tuas, in onni situ chi sias bisitende
 about-private-browsing-get-privacy = Ampara sa riservadesa tua in onni situ chi sias bisitende
 about-private-browsing-hide-activity-1 = Cua s'atividade e sa positzione tuas cun { -mozilla-vpn-brand-name }. Crea una connessione segura cun unu clic ebbia, fintzas in retes Wi-Fi pùblicas.
 about-private-browsing-prominent-cta = Ampara sa riservadesa tua cun { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Iscàrriga { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navigatzione privada in ònnia logu
 about-private-browsing-focus-promo-text = S'aplicatzione mòbile nostra progetada pro sa navigatzione anònima lìmpiat sa cronologia e is testimòngios ònnia borta.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Bati sa navigatzione privada a su 
 about-private-browsing-focus-promo-text-b = Imprea { -focus-brand-name } pro cuddas chircas privadas chi non boles a ddas bìdere su navigadore printzipale tuo.
 about-private-browsing-focus-promo-header-c = Riservadesa de livellu superiore pro dispositivos mòbiles
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } lìmpiat sa cronologia ònnia borta, blochende fintzas publitzidade e sighidores.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Serra
-
 about-private-browsing-promo-close-button =
     .title = Serra
 
@@ -72,3 +68,13 @@ about-private-browsing-pin-promo-title = Nissunu testimòngiu nen cronologia, de
 about-private-browsing-cookie-banners-promo-header = Mai prus avisos de testimòngios!
 about-private-browsing-cookie-banners-promo-button = Ammustra prus pagu avisos de testimòngios
 about-private-browsing-cookie-banners-promo-message = Permite a { -brand-short-name } de rispòndere in automàticu a is ventanas emergentes de testimòngios, pro chi potzas navigare chene istorbu. { -brand-short-name } at a refudare totu is rechestas cando possìbile.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } s’incurat de is avisos de testimòngios pro tue
+about-private-browsing-cookie-banners-promo-body = Immoe refudamus in automàticu medas avisos de testimòngios, a manera chi ti sigant prus pagu e potzas navigare chena istorbu.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = Non lasses rastros in custu dispositivu
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } cantzellat testimòngios, cronologia e datos de is sitos cando serras totu is ventanas privadas.
+about-private-browsing-felt-privacy-v1-info-link = Chie diat pòdere bìdere s’atividade mia?

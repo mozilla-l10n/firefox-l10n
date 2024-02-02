@@ -443,6 +443,8 @@ about-logins-import-report-row-description-no-change = Duplicadu: cointzidèntzi
 about-logins-import-report-row-description-modified = Credentziale esistente atualizada
 about-logins-import-report-row-description-added = Credentziale noa agiunta
 about-logins-import-report-row-description-no-change2 = Elementu dòpiu: currispondet a unu chi esistit giai
+about-logins-import-report-row-description-modified2 = Elementu atualizadu
+about-logins-import-report-row-description-added2 = Agiunta una crae noa
 about-logins-import-report-row-description-error = Faddina: ammancat unu campu
 
 ##
@@ -470,6 +472,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziale duplicada</div> <div data-l10n-name="not-imported">(nissuna importatzione)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziales duplicadas</div> <div data-l10n-name="not-imported">(nissuna importatzione)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">craes noas agiuntas</div>
+       *[other] { "" }
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elementos atualizados</div>
+       *[other] { "" }
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elementos dòpios</div> <div data-l10n-name="not-imported">(no importados)</div>
+       *[other] { "" }
     }
 about-logins-import-report-error =
     { $count ->
