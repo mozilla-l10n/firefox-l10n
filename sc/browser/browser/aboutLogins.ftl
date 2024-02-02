@@ -126,6 +126,10 @@ about-logins-login-item-remove-button = Boga
 login-item-origin-label = Indiritzu de su situ
 login-item-tooltip-message = Assegura·ti chi cointzidet cun s'indiritzu esatu de su situ a su chi atzedes.
 about-logins-origin-tooltip2 = Inserta s’indiritzu cumpletu e assegura·ti chi currispondat a su chi as impreadu pro t’identificare.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Assegura·ti de sarvare sa crae tua pro custu situ. Sa modìfica de sa crae in custa pàgina no at a modificare sa crae in { $webTitle }.
+about-logins-add-password-tooltip = Assegura·ti de sarvare sa crae tua pro custu situ.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nòmine utente
@@ -167,6 +171,10 @@ about-logins-edit-login-os-auth-dialog-message-win = Pro modificare is credentzi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modìfica sa credentziale sarvada
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win =
+    Pro cambiare sa crae tua, inserta is credentziales de atzessu a Windows.
+    Custu at a agiudare a amparare sa seguresa de is contos tuos.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = modìfica sa crae sarvada
@@ -185,6 +193,10 @@ about-logins-export-password-os-auth-dialog-message-win = Pro esportare is crede
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = esporta credentziales e craes sarvadas
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win =
+    Pro esportare is craes tuas, inserta is credentziales de atzessu a Windows.
+    Custu at a agiudare a amparare sa seguresa de is contos tuos.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = esporta is craes sarvadas
@@ -245,12 +257,50 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Custu at bogare is credentziales chi as sarvadu in { -brand-short-name } in totu is dispositivos sincronizados cun su contu de { -fxaccount-brand-name }. Custu nch'at a bogare puru is avisos subra de is violatziones chi aparessent inoghe. No as a pòdere annullare custa atzione.
        *[other] Custu at bogare totu is credentziales chi as sarvadu in { -brand-short-name } in totu is dispositivos sincronizados cun su contu de { -fxaccount-brand-name }. Custu nch'at a bogare puru is avisos subra de is violatziones chi aparessent inoghe. No as a pòdere annullare custa atzione.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Eja, boga sa crae
+        [one] Eja, boga sa crae
+       *[other] Eja, boga is craes
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Boles bogare { $count } crae?
+       *[other] Boles bogare totu is { $count } craes?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Custu at a bogare sa crae sarvada in { -brand-short-name } e totu is avisos de debilesa. Custa operatzione non podet èssere annullada.
+        [one] Custu at a bogare sa crae sarvada in { -brand-short-name } e totu is avisos de debilesa. Custa operatzione non podet èssere annullada.
+       *[other] Custu at a bogare is craes sarvadas in { -brand-short-name } e totu is avisos de debilesa. Custa operatzione non podet èssere annullada.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Boles bogare { $count } crae dae totu is dispositivos?
+       *[other] Boles bogare totu is { $count } craes dae totu is dispositivos?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Custu nch’at a bogare sa crae sarvada in { -brand-short-name } dae totu is dispositivos tuos sincronizados. Custu at a bogare fintzas totu is avisos de debilesa chi aparent inoghe. No as a pòdere annullare custa atzione.
+        [one] Custu nch’at a bogare sa crae sarvada in { -brand-short-name } dae totu is dispositivos tuos sincronizados. Custu at a bogare fintzas totu is avisos de debilesa chi aparent inoghe. No as a pòdere annullare custa atzione.
+       *[other] Custu nch’at a bogare is craes sarvadas in { -brand-short-name } dae totu is dispositivos tuos sincronizados. Custu at a bogare fintzas totu is avisos de debilesa chi aparent inoghe. No as a pòdere annullare custa atzione.
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Esporta credentziales e craes
 about-logins-confirm-export-dialog-message = Is craes tuas ant a èssere sarvadas comente testu leghìbile (comente «Cr@eN0Segura»), duncas chie si siat abèrgiat s'archìviu esportadu ddas at a pòdere bìdere.
 about-logins-confirm-export-dialog-confirm-button = Esporta...
+about-logins-confirm-export-dialog-title2 = Avisu in contu de s’esportatzione de craes
+about-logins-confirm-export-dialog-message2 =
+    Cando ddas esportas, is craes tuas sunt sarvadas in un’archìviu cun cuntenutu atzessìbile.
+    Cando as finidu de impreare s’archìviu, ti cussigiamus de ddu cantzellare, a manera chi, si àteros impreant custu dispositivu, no ant a bìdere is craes tuas.
+about-logins-confirm-export-dialog-confirm-button2 = Sighi a esportare
 about-logins-alert-import-title = Importatzione cumpletada
 about-logins-alert-import-message = Visualiza su resumu detalliadu de s'importatzione
 confirm-discard-changes-dialog-title = Boles iscartare is modìficas non sarvadas?
@@ -292,6 +342,11 @@ about-logins-export-file-picker-title = Esporta s'archìviu de credentziales
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = credentziales.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Esporta is craes dae { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = craes.csv
 about-logins-export-file-picker-export-button = Esporta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -305,6 +360,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importa archìviu de credentziales
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importa is craes in { -brand-short-name }
 about-logins-import-file-picker-import-button = Importa
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -341,6 +398,21 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Credentziale duplicada agatada:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importada)</span>
        *[other] <span>Credentziales duplicadas agatadas:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importadas)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Crae noa agiunta:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Craes noas agiuntas:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Elementu atualizadu:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Elementos atualizados:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Elementu dòpiu agatadu:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">
+       *[other] <span>Elementos dòpios agatados:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Faddina:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nissuna importatzione)</span>
@@ -362,6 +434,7 @@ about-logins-import-dialog-error-try-import-again = Torra a proare s'importatzio
 about-logins-import-dialog-error-cancel = Annulla
 about-logins-import-report-title = Resumu de s'importatzione
 about-logins-import-report-description = Credentziales e craes importadas a { -brand-short-name }.
+about-logins-import-report-description2 = Craes importadas in { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -369,6 +442,7 @@ about-logins-import-report-row-index = Lìnia { $number }
 about-logins-import-report-row-description-no-change = Duplicadu: cointzidèntzia esata de una credentziale esistente
 about-logins-import-report-row-description-modified = Credentziale esistente atualizada
 about-logins-import-report-row-description-added = Credentziale noa agiunta
+about-logins-import-report-row-description-no-change2 = Elementu dòpiu: currispondet a unu chi esistit giai
 about-logins-import-report-row-description-error = Faddina: ammancat unu campu
 
 ##
