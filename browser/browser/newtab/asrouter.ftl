@@ -221,7 +221,7 @@ fox-doodle-pin-secondary = 暂时不要
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
-set-default-pdf-handler-headline = <strong>您的 PDF 文件现在可以在 { -brand-short-name } 中打开。</strong>请直接在您的浏览器中编辑或签署表格。要更改，请在设置中搜索“PDF”。
+set-default-pdf-handler-headline = <strong>现在起，您的 PDF 文件将在 { -brand-short-name } 中打开。</strong>您可以直接在浏览器中编辑或签署表单。若要更改，请在设置中搜索“PDF”。
 set-default-pdf-handler-primary = 明白了
 
 ## FxA sync CFR
