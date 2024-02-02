@@ -78,6 +78,12 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name }
     .tooltiptext = { -fxaccount-brand-name }
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = Contu
+    .tooltiptext = Contu
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -291,6 +297,7 @@ main-context-menu-send-to-device =
 main-context-menu-use-saved-login =
     .label = Imprea is credentziales sarvadas
     .accesskey = I
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Imprea una crae sarvada
     .accesskey = I
@@ -305,6 +312,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = s
 main-context-menu-manage-logins2 =
     .label = Gesti is credentziales
+    .accesskey = G
+main-context-menu-manage-passwords =
+    .label = Gesti is craes
     .accesskey = G
 main-context-menu-keyword =
     .label = Agiunghe unu faeddu crae pro custa chirca...

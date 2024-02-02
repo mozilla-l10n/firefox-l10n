@@ -17,6 +17,8 @@ firefoxview-page-label =
 firefoxview-close-button =
     .title = Serra
     .aria-label = Serra
+firefoxview-empty-state-icon =
+    .alt = Atentzione:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Pròpiu immoe
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -36,6 +38,7 @@ firefoxview-tabpickup-adddevice-description = Iscàrriga { -brand-product-name }
 firefoxview-tabpickup-adddevice-learn-how = Impara comente ddu fàghere
 firefoxview-tabpickup-adddevice-primarybutton = Otene { -brand-product-name } pro mòbiles
 firefoxview-syncedtabs-adddevice-header = Identìfica·ti in { -brand-product-name } in un’àteru dispositivu
+firefoxview-syncedtabs-adddevice-description = Pro bìdere is ischedas tuas dae in ue si siat imprees { -brand-product-name }, identìfica·ti in totu is dispositivos tuos. Impara comente podes <a data-l10n-name="url">connètere àteros dispositivos</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Proa { -brand-product-name } pro mòbiles
 firefoxview-tabpickup-synctabs-header = Ativa sa sincronizatzione de ischedas
 firefoxview-tabpickup-synctabs-description = Permite chi { -brand-short-name } cumpartzat ischedas intre dispositivos.
@@ -45,6 +48,7 @@ firefoxview-syncedtabs-synctabs-header = Atualiza is cunfiguratziones de sincron
 firefoxview-syncedtabs-synctabs-description = Pro bìdere is ischedas dae àteros dispositivos, depes sincronizare is ischedas abertas tuas.
 firefoxview-syncedtabs-synctabs-checkbox = Permite sa sincronizatzione de is ischedas abertas
 firefoxview-syncedtabs-loading-header = Sincronizatzione in cursu
+firefoxview-syncedtabs-loading-description = Una borta fatu, is ischedas in cale si siat àteru dispositivu ant a apàrrere inoghe puru. Averìgua·ddu prus a tardu.
 firefoxview-tabpickup-fxa-admin-disabled-header = S'organizatzione tua at disativadu sa sincronizatzione
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non podet sincronizare is ischedas intre dispositivos ca s'amministratzione tua at disativadu sa sincronizatzione.
 firefoxview-tabpickup-network-offline-header = Controlla sa connessione a sa rete
@@ -63,6 +67,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Inserta sa crae printzipal
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Àteras informatziones</a>
 firefoxview-tabpickup-signed-out-header = Identìfica·ti pro torrare a connètere
 firefoxview-tabpickup-signed-out-description = Pro torrare a connètere e pigare is ischedas tuas, identìfica·ti in su contu tuo de { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Pro ti torrare a connètere e recuperare is ischedas tuas, identìfica·ti cun su contu tuo.
 firefoxview-tabpickup-signed-out-primarybutton = Identìfica·ti
 firefoxview-tabpickup-syncing = Abeta in su mentras chi is ischedas sunt sincronizadas. At a èssere unu momentu isceti.
 firefoxview-mobile-promo-header = Recùpera is ischedas dae su telèfonu o sa tauledda
@@ -144,6 +149,39 @@ firefoxview-opentabs-focus-tab =
     .title = Passa a custa ischeda
 firefoxview-show-more = Ammustra àteru
 firefoxview-show-less = Ammustra prus pagu
+firefoxview-show-all = Ammustra totu
+firefoxview-search-text-box-clear-button =
+    .title = Isbòida
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Chirca
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Chirca in sa cronologia
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Chirca in is ischedas serradas de reghente
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Chirca in is ischedas sincronizadas
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Chirca in is ischedas abertas
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Resurtados de sa chirca de “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } situ
+       *[other] { $count } sitos
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Nissunu resurtadu pro “{ $query }”
 firefoxview-sort-history-by-date-label = Assenta dae sa data
 firefoxview-sort-history-by-site-label = Assenta dae su situ
 # Variables:
@@ -172,6 +210,7 @@ firefoxview-view-more-browsing-history = Ammustra àteru dae sa cronologia de na
 
 firefoxview-history-empty-header = Torra in ue fias
 firefoxview-history-empty-description = Comente nàvigas, is pàginas chi ses bisitende ant a èssere ammustradas inoghe.
+firefoxview-history-empty-description-two = Amparare sa riservadesa tua est sa prioridade nostra. Est pro custu chi podes detzìdere cales fainas { -brand-short-name } regordat, in sa <a data-l10n-name="history-settings-url">cunfiguratzione de sa cronologia</a>.
 
 ##
 
@@ -182,6 +221,8 @@ firefoxview-choose-browser-button = Sèbera su navigadore
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Nudda de ammustrare
+firefoxview-dont-remember-history-empty-description = Amparare sa riservadesa tua est sa prioridade nostra. Est pro custu chi podes detzìdere cales fainas { -brand-short-name } regordat.
+firefoxview-dont-remember-history-empty-description-two = De acordu cun sa cunfiguratzione atuale tua, { -brand-short-name } no at a regordare nissuna atividade tua durante sa navigatzione. Si ddu preferis, <a data-l10n-name="history-settings-url-two">podes cambiare sa cunfiguratzione pro sarvare sa cronologia</a>.
 
 ##
 
@@ -193,15 +234,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importa sa cronologia dae un'àteru navigadore
+firefoxview-import-history-description = Faghe de { -brand-short-name } su navigadore tuo de riferimentu. Importa cronologia, sinnalibros e àteru.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = As serradu un’ischeda tropu a sa lestra?
 firefoxview-recentlyclosed-empty-description = Inoghe as a agatare is ischedas chi apas serradu de reghente, in manera chi ddas potzas recuperare.
 firefoxview-recentlyclosed-empty-description-two = Pro agatare ischedas prus betzas, càstia sa <a data-l10n-name="history-url">cronologia de navigatzione</a> tua.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
