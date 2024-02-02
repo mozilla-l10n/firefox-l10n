@@ -70,7 +70,7 @@ webext-imported-addons = 正在完成安装已导入 { -brand-short-name } 的�
 addon-removal-title = 要移除“{ $name }”吗？
 # Variables:
 #   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = 移除 { -brand-shorter-name } 中的 { $name } 吗？
+addon-removal-message = 移除 { -brand-shorter-name } 中的“{ $name }”吗？
 addon-removal-button = 移除
 addon-removal-abuse-report-checkbox = 向 { -vendor-short-name } 举报此扩展
 # Variables:
@@ -98,13 +98,13 @@ addon-confirm-install-some-unsigned-message = 注意：此网站想在 { -brand-
 ##   $addonName (String): the add-on name.
 
 addon-install-error-network-failure = 此附加组件未能下载，因为连接失败。
-addon-install-error-incorrect-hash = 所下载的不是本要安装附加组件 { -brand-short-name }，无法安装。
-addon-install-error-corrupt-file = 从此网站下载的这个附加组件文件损坏了，无法安装。
+addon-install-error-incorrect-hash = 无法安装此附加组件，因为其不符合 { -brand-short-name } 预期。
+addon-install-error-corrupt-file = 从该网站下载的附加组件似乎已损坏，无法安装。
 addon-install-error-file-access = “{ $addonName }”未能安装，因为 { -brand-short-name } 无法修改所需的文件。
 addon-install-error-not-signed = { -brand-short-name } 已阻止此网站安装未通过验证的附加组件。
 addon-install-error-invalid-domain = 无法从此位置安装附加组件“{ $addonName }”。
 addon-local-install-error-network-failure = 因为文件系统错误，无法安装该附加组件。
-addon-local-install-error-incorrect-hash = 所下载的不是本要安装附加组件 { -brand-short-name }，无法安装。
+addon-local-install-error-incorrect-hash = 无法安装此附加组件，因为其不符合 { -brand-short-name } 预期。
 addon-local-install-error-corrupt-file = 该附加组件无法安装，因为它似乎已损坏。
 addon-local-install-error-file-access = “{ $addonName }”未能安装，因为 { -brand-short-name } 无法修改所需的文件。
 addon-local-install-error-not-signed = 此附加组件无法安装，因为它未通过验证。
