@@ -13,7 +13,7 @@ urlbar-translations-button2 =
 # Note that here "Beta" should not be translated, as it is a reflection of the
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
-    .tooltiptext = 试试 { -brand-shorter-name } 隐私为先的翻译功能 - Beta
+    .tooltiptext = 试试 { -brand-shorter-name } 注重隐私的翻译功能 - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -71,7 +71,7 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = 取消
 translations-panel-learn-more-link = 详细了解
-translations-panel-intro-header = 试试 { -brand-shorter-name } 隐私为先的翻译功能
+translations-panel-intro-header = 试试 { -brand-shorter-name } 注重隐私的翻译功能
 translations-panel-intro-description = 为保护隐私，翻译过程只会在本地进行。我们很快会支持更多语言并带来改进！
 translations-panel-error-translating = 翻译时遇到问题，请重试。
 translations-panel-error-load-languages = 无法加载语言
