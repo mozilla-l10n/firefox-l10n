@@ -29,5 +29,6 @@ more-from-moz-firefox-relay-button = Λήψη του { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Πάρτε αυτόματα πίσω τα εκτεθειμένα προσωπικά σας στοιχεία.
 more-from-moz-mozilla-monitor-global-description = Λάβετε ειδοποιήσεις όταν τα δεδομένα σας έχουν παραβιαστεί.
-more-from-moz-mozilla-monitor-button = Απόκτηση του { -monitor-brand-short-name }
+more-from-moz-mozilla-monitor-button = Αποκτήστε το { -monitor-brand-short-name }
