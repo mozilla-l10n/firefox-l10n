@@ -100,7 +100,7 @@ login-intro-instructions-fxa2 = 在您保存登录信息的设备上注册或登
 login-intro-instructions-fxa-settings = 前往“设置”>“同步”>“开启同步…”，勾选“登录名和密码”复选框。
 login-intro-instructions-fxa-passwords-help = 若需更多帮助，请访问<a data-l10n-name="passwords-help-link">密码支持</a>页面。
 about-logins-intro-browser-only-import = 若登录信息保存在其他浏览器，您可以<a data-l10n-name="import-link">导入到 { -brand-product-name }</a>
-about-logins-intro-import2 = 若您的登录信息并未存储在 { -brand-product-name }，可以<a data-l10n-name="import-browser-link">从另一浏览器</a>或<a data-l10n-name="import-file-link">文件</a>导入
+about-logins-intro-import2 = 若您的登录信息并未保存在 { -brand-product-name }，可以<a data-l10n-name="import-browser-link">从另一浏览器</a>或<a data-l10n-name="import-file-link">文件</a>导入
 about-logins-intro-import3 = 选择上方的加号按钮即可添加密码，也可以<a data-l10n-name="import-browser-link">从其他浏览器</a>或<a data-l10n-name="import-file-link">从文件</a>导入密码。
 
 ## Login
@@ -233,11 +233,6 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
        *[other] 将在您所有与 { -fxaccount-brand-name }同步的设备上，移除保存在 { -brand-short-name } 的登录信息，以及在此显示的任何数据外泄警报。此操作不可撤销。
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] 将在您所有受同步的设备上，移除保存在 { -brand-short-name } 中的登录信息，以及在此显示的数据外泄警报。此操作不可撤销。
-       *[other] 将在您所有受同步的设备上，移除保存在 { -brand-short-name } 中的登录信息，以及在此显示的数据外泄警报。此操作不可撤销。
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
