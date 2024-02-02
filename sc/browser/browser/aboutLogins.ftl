@@ -29,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importa dae un'àteru n
 about-logins-menu-menuitem-import-from-a-file = Importa dae un'archìviu...
 about-logins-menu-menuitem-export-logins = Esporta credentziales...
 about-logins-menu-menuitem-remove-all-logins = Boga·nche totu is credentziales...
+about-logins-menu-menuitem-export-logins2 = Esporta craes…
 about-logins-menu-menuitem-remove-all-logins2 = Boga totu is craes…
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -106,10 +107,14 @@ about-logins-login-intro-heading-logged-out2 = Ses chirchende is credentziales t
 about-logins-login-intro-heading-logged-in = Nissuna credentziale sincronizada agatada.
 login-intro-description = Si as sarvadu is credentziales tuas in { -brand-product-name } dae un'àteru dispositivu, ddas podes otènnere aici:
 login-intro-instructions-fxa = Crea o atzede a su { -fxaccount-brand-name } tuo in su dispositivu in ue sunt sarvadas is credentziales.
+about-logins-login-intro-heading-message = Sarva is craes tuas in logu seguru
+login-intro-description2 = Totu is craes chi sarvas in { -brand-product-name } sunt tzifradas. In prus, chircamus puntos dèbiles e ti naramus si ti pertocant. <a data-l10n-name="breach-alert-link">Impara de prus</a>
+login-intro-instructions-fxa2 = Crea unu contu o identìfica·ti in su dispositivu in ue is atzessos tuos sunt sarvados.
 login-intro-instructions-fxa-settings = Bae a Cunfiguratzione > Sincroniza > Ativa sincronizatzione... Seletziona sa casella «Credentziales e craes».
 login-intro-instructions-fxa-passwords-help = Bìsita s'<a data-l10n-name="passwords-help-link">assistèntzia pro is craes</a> pro àteru agiudu.
 about-logins-intro-browser-only-import = Si is credentziales tuas sunt sarvadas in un'àteru navigadore, ddas podes <a data-l10n-name="import-link">importare a { -brand-product-name }</a>
 about-logins-intro-import2 = Si is credentziales tuas sunt sarvadas a foras de { -brand-product-name }, ddas podes <a data-l10n-name="import-browser-link">importare dae un'àteru navigadore</a> o <a data-l10n-name="import-file-link">dae un'archìviu</a>
+about-logins-intro-import3 = Sèbera su sinnu "prus" in artu pro agiùnghere una crae. Podes fintzas <a data-l10n-name="import-browser-link">importare craes dae un'àteru navigadore</a> o <a data-l10n-name="import-file-link">dae un'archìviu</a>.
 
 ## Login
 
@@ -120,6 +125,7 @@ login-item-edit-button = Modìfica
 about-logins-login-item-remove-button = Boga
 login-item-origin-label = Indiritzu de su situ
 login-item-tooltip-message = Assegura·ti chi cointzidet cun s'indiritzu esatu de su situ a su chi atzedes.
+about-logins-origin-tooltip2 = Inserta s’indiritzu cumpletu e assegura·ti chi currispondat a su chi as impreadu pro t’identificare.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nòmine utente
