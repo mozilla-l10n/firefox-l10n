@@ -274,3 +274,13 @@ launch-on-login-infobar-final-message = <strong>Vuoi aprire { -brand-short-name 
 launch-on-login-infobar-final-reject-button = No grazie
     .accesskey = N
 
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Liberati dai fastidiosi elementi traccianti
+tail-fox-spotlight-subtitle = Dì addio alle irritanti pubblicità che ti seguono ovunque e vivi Internet in modo più sicuro e veloce.
+tail-fox-spotlight-primary-button = Apri i miei link con { -brand-short-name }
+tail-fox-spotlight-secondary-button = Non adesso
