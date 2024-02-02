@@ -28,11 +28,13 @@ cfr-doorhanger-extension-author = dae { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Cussìgiu
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Cussìgiu
     .tooltiptext = Estensione cussigiada
     .a11y-announcement = Estensione cussigiada a disponimentu
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Cussìgiu
     .tooltiptext = Funtzionalidade cussigiada
     .a11y-announcement = Funtzionalidade cussigiada a disponimentu
@@ -202,6 +204,11 @@ cfr-cbh-confirm-button = Refuda is avisos de testimòngios
     .accesskey = R
 cfr-cbh-dismiss-button = Immoe nono
     .accesskey = n
+cookie-banner-blocker-cfr-header = { -brand-short-name } at blocadu unos cantos testimòngios (cookie) pro tue
+cookie-banner-blocker-cfr-body = Refudamus in automàticu medas ventanas emergentes de avisu de testimòngios a manera chi siat prus difìtzile pro is sitos a ti sighire.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } at refudadu immoe immoe un’avisu de testimòngios pro tue
+cookie-banner-blocker-onboarding-body = Prus pagas distratziones, prus pagos testimòngios sighende·ti in custu situ.
+cookie-banner-blocker-onboarding-learn-more = Àteras informatziones
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -233,10 +240,7 @@ fxa-sync-cfr-secondary = Regorda·mi·ddu prus tardu
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Ses impreende unu dispositivu prus betzu?
-device-migration-fxa-spotlight-body = Faghe una còpia de is datos tuos pro non pèrdere datos de importu comente sinnalibros e craes, prus che totu si passas a unu dispositivu nou.
-device-migration-fxa-spotlight-primary-button = Comente potzo fàghere una còpia de is datos mios?
-device-migration-fxa-spotlight-link = Regorda·mi·ddu prus tardu
+device-migration-fxa-spotlight-heavy-user-header = Non t’iscaressas de fàghere una còpia de seguresa de is datos tuos
 device-migration-fxa-spotlight-getting-new-device-header-2 = Ses acanta de tènnere unu dispositivu nou?
 
 ## Set as Default PDF Reader Infobar
