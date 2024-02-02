@@ -52,6 +52,15 @@ migration-imported-edge-reading-list = Lista de letura (dae Edge)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name } non tenet atzessu a profilos de àteros navigadores installados in custu dispositivu.
+migration-no-permissions-instructions = Pro sighire a importare is datos dae un’àteru navigadore, dona·ddi su permissu a { -brand-short-name } de atzèdere a sa cartella de profilu sua.
+migration-no-permissions-instructions-step1 = Sèbera “Sighi”
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = In sa ventana de seletzione de archìviu, bae a <code>{ $permissionsPath }</code> e sèbera “Seletziona”
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -67,6 +76,7 @@ migration-bookmarks-option-label = Sinnalibros
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Preferidos
 migration-logins-and-passwords-option-label = Credentziales e craes sarvadas
+migration-passwords-option-label = Craes sarvadas
 migration-history-option-label = Cronologia de navigatzione
 migration-extensions-option-label = Estensiones
 migration-form-autofill-option-label = Datos de cumpletamentu automàticu de is formulàrios

@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Còpia ligòngiu
     .accesskey = C
 fxviewtabrow-close-tab = Serra s'ischeda
     .accesskey = S
+fxviewtabrow-move-tab = Move s’ischeda
+    .accesskey = M
+fxviewtabrow-move-tab-start = Move a s’incumentzu
+    .accesskey = i
+fxviewtabrow-move-tab-end = Move a sa fine
+    .accesskey = f
+fxviewtabrow-move-tab-window = Move a una ventana noa
+    .accesskey = n
+fxviewtabrow-send-tab = Imbia s’ischeda a unu dispositivu
+    .accesskey = d
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
