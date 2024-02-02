@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = 地址设置
 address-capture-learn-more-button =
     .label = 详细了解
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = 添加新地址
 address-capture-open-menu-button =
     .aria-label = 打开菜单
 address-capture-edit-address-button =
@@ -102,7 +100,7 @@ autofill-address-oblast = 州
 # Used in IN
 autofill-address-pin = 邮政编码
 autofill-address-postal-code = 邮政编码
-autofill-address-zip = Zip 编码
+autofill-address-zip = ZIP 编码
 # Used in IE
 autofill-address-eircode = Eircode 邮政编码
 
@@ -111,10 +109,12 @@ autofill-address-eircode = Eircode 邮政编码
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = 添加新地址
 autofill-address-country = 国家/地区
 autofill-address-country-only = 国家/地区
 autofill-address-tel = 电话号码
-autofill-address-email = 电子邮箱
+autofill-address-email = 邮箱地址
 autofill-cancel-button = 取消
 autofill-save-button = 保存
 autofill-country-warning-message = 表单自动填写目前仅部分国家/地区可用。
