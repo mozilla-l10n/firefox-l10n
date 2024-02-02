@@ -40,7 +40,7 @@ policy-DisableFirefoxAccounts = 禁用 { -fxaccount-brand-name }的基础服务�
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = 禁用 Firefox 的“截图”功能。
 policy-DisableFirefoxStudies = 阻止 { -brand-short-name } 运行研究实验。
-policy-DisableForgetButton = 阻止使用“忘记”功能。
+policy-DisableForgetButton = 阻止使用“抹去足迹”按钮。
 policy-DisableFormHistory = 不要记住搜索和表单的历史记录。
 policy-DisablePrimaryPasswordCreation = 若为 true，将无法创建主密码。
 policy-DisablePasswordReveal = 阻止密码在列表中明文显示

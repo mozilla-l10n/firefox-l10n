@@ -53,7 +53,7 @@ places-by-last-visited =
     .label = 按上次访问时间
     .accesskey = L
 places-by-day-and-site =
-    .label = 按日期和站点
+    .label = 按日期和网站
     .accesskey = t
 places-history-search =
     .placeholder = 在历史记录中搜索
@@ -247,7 +247,7 @@ places-details-pane-no-items =
 # Variables:
 #   $count (Number): number of items
 places-details-pane-items-count =
-    .value = { $count }个项目
+    .value = { $count } 个项目
 
 ## Strings used as a placeholder in the Library search field. For example,
 ## "Search History" stands for "Search through the browser's history".
