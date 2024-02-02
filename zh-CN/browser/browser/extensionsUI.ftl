@@ -9,10 +9,10 @@ webext-perms-learn-more = 详细了解
 #   $newEngine (String): name of the new search engine.
 webext-default-search-description = “{ $addonName }”想将您的默认搜索引擎从“{ $currentEngine }”更改为“{ $newEngine }”。您同意吗？
 webext-default-search-yes =
-    .label = 是
+    .label = 同意
     .accesskey = Y
 webext-default-search-no =
-    .label = 否
+    .label = 不同意
     .accesskey = N
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
