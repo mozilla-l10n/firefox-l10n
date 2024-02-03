@@ -194,18 +194,18 @@ containers-remove-cancel-button = ไม่เอาการแยกข้อ�
 
 ## General Section - Language & Appearance
 
-language-and-appearance-header = ภาษาและลักษณะที่ปรากฏ
-preferences-web-appearance-header = ลักษณะที่ปรากฏของเว็บไซต์
+language-and-appearance-header = ภาษาและรูปลักษณ์
+preferences-web-appearance-header = รูปลักษณ์ของเว็บไซต์
 preferences-web-appearance-description = บางเว็บไซต์ปรับโทนสีตามการกำหนดลักษณะของคุณ เลือกชุดสีที่คุณต้องการใช้สำหรับไซต์เหล่านั้น
 preferences-web-appearance-choice-auto = อัตโนมัติ
 preferences-web-appearance-choice-light = สว่าง
 preferences-web-appearance-choice-dark = มืด
 preferences-web-appearance-choice-tooltip-auto =
-    .title = เปลี่ยนพื้นหลังและเนื้อหาของเว็บไซต์โดยอัตโนมัติตามการตั้งค่าระบบและธีมของ { -brand-short-name }
+    .title = เปลี่ยนพื้นหลังและเนื้อหาของเว็บไซต์โดยอัตโนมัติตามการตั้งค่าระบบและชุดรูปแบบของ { -brand-short-name }
 preferences-web-appearance-choice-tooltip-light =
-    .title = ใช้ลักษณะที่ปรากฏแบบสว่างสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
+    .title = ใช้รูปลักษณ์แบบสว่างสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
 preferences-web-appearance-choice-tooltip-dark =
-    .title = ใช้ลักษณะที่ปรากฏแบบมืดสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
+    .title = ใช้รูปลักษณ์แบบมืดสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
 preferences-web-appearance-choice-input-auto =
     .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
@@ -214,10 +214,10 @@ preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
-preferences-web-appearance-override-warning = การเลือกสีของคุณมีผลเหนือลักษณะที่ปรากฏของเว็บไซต์ <a data-l10n-name="colors-link">จัดการสี</a>
+preferences-web-appearance-override-warning = การเลือกสีของคุณมีผลเหนือรูปลักษณ์ของเว็บไซต์ <a data-l10n-name="colors-link">จัดการสี</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = จัดการธีมของ { -brand-short-name } ใน <a data-l10n-name="themes-link">ส่วนขยายและธีม</a>
+preferences-web-appearance-footer = จัดการชุดรูปแบบของ { -brand-short-name } ใน <a data-l10n-name="themes-link">ส่วนขยายและชุดรูปแบบ</a>
 preferences-colors-header = สี
 preferences-colors-description = แทนที่สีเริ่มต้นของ { -brand-short-name } สำหรับข้อความ พื้นหลังของเว็บไซต์ และลิงก์
 preferences-colors-manage-button =
