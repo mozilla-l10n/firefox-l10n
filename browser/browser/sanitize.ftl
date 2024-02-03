@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Tüm geçmişi sil
     .style = min-width: 34em
 clear-data-settings-label = { -brand-short-name } kapatıldığında aşağıdakileri otomatik olarak temizlesin
+sanitize-on-shutdown-description = { -brand-short-name } kapatıldığında işaretli tüm öğeleri otomatik olarak temizle.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -57,6 +58,7 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Geçmiş
     .accesskey = G
+item-history-form-data-downloads-description = Site ve indirme geçmişini, kayıtlı form bilgilerini ve aramaları temizler
 item-cookies =
     .label = Çerezler
     .accesskey = z

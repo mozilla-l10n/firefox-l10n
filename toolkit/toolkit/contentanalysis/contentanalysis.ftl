@@ -20,6 +20,10 @@ contentanalysis-warndialog-response-allow = İçeriği kullan
 contentanalysis-warndialog-response-deny = Vazgeç
 contentanalysis-notification-title = İçerik analizi
 # Variables:
+#   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
+#   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
+contentanalysis-genericresponse-message = İçerik analizi, şu kaynak için { $response } yanıtını verdi: { $content }
+# Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Kuruluşunuzun kullandığı veri kaybı önleme yazılımı şu içeriği engelledi: { $content }.
 # Variables:
