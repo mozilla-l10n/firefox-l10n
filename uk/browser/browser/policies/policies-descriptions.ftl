@@ -83,7 +83,7 @@ policy-LegacyProfiles = Вимкнути функцію, що застосову
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Увімкнути застаріле налаштування поведінки SameSite для файлів cookie.
-policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Перемкнутися на застарілу поведінку SameSite для файлів cookie на вказаних сайтах.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Повернутися до застарілої поведінки SameSite для файлів cookie на вказаних сайтах.
 
 ##
 
