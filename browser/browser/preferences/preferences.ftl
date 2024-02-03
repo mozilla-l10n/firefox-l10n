@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Umgebung löschen
 containers-remove-cancel-button = Umgebung behalten
+settings-tabs-show-image-in-preview =
+    .label = Eine Grafik-Vorschau anzeigen, wenn Sie mit der Maus über einen Tab fahren
+    .accessKey = f
 
 ## General Section - Language & Appearance
 
