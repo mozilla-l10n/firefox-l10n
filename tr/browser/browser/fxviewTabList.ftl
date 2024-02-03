@@ -55,3 +55,11 @@ fxviewtabrow-send-tab = Sekmeyi cihaza gönder
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = { $tabTitle } seçenekleri
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = { $tabTitle } sesini kapat
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = { $tabTitle } sesini aç

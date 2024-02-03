@@ -157,6 +157,9 @@ webrtc-allow-share-audio-capture-with-file = Bu yerel dosya bu sekmenin sesini d
 webrtc-allow-share-camera-with-file = Bu yerel dosya kameranızı kullanabilsin mi?
 webrtc-allow-share-microphone-with-file = Bu yerel dosya mikrofonunuzu kullanabilsin mi?
 webrtc-allow-share-screen-with-file = Bu yerel dosya ekranınızı görebilsin mi?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Bu yerel dosya diğer ses aygıtlarınızı kullanabilsin mi?
 webrtc-allow-share-camera-and-microphone-with-file = Bu yerel dosya kameranızı ve mikrofonunuzu kullanabilsin mi?
 webrtc-allow-share-camera-and-audio-capture-with-file = Bu yerel dosya kameranızı kullanabilsin ve bu sekmenin sesini dinleyebilsin mi?
 webrtc-allow-share-screen-and-microphone-with-file = Bu yerel dosya mikrofonunuzu kullanabilsin ve ekranınızı görebilsin mi?
