@@ -106,6 +106,7 @@ place-database-stats-hide = Kuzhat ar stadegoù
 place-database-stats-entity = Elfenn
 place-database-stats-size-kib = Ment (Ko)
 place-database-stats-size-perc = Ment (%)
+place-database-stats-efficiency-perc = Efedusted (%)
 place-database-integrity = Kevanded
 place-database-verify-integrity = Gwiriañ ar gevanded
 a11y-title = Haezadusted
