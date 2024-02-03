@@ -139,6 +139,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = Hizivadurioù nevesañ
 addon-category-recent-updates-title =
     .title = Hizivadurioù nevesañ
+addon-category-sitepermission = Aotreoù al lec’hienn
+addon-category-sitepermission-title =
+    .title = Aotreoù al lec’hienn
 
 ## These are global warnings
 
@@ -206,6 +209,9 @@ shortcuts-no-addons = N'ho peus askouezh ebet gweredekaet.
 shortcuts-no-commands = An askouezhioù da-heul n'ho deus ket a verradenn:
 shortcuts-input =
     .placeholder = Biziatait ur verradenn
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Lemel ar verradenn
 shortcuts-pageAction = Gweredekaat ar gwered pajenn
 shortcuts-sidebarAction = Diskouez/kuzhat ar varrenn gostez
 shortcuts-modifier-mac = Enkorfañ Ctrl, Alt pe ⌘
@@ -414,6 +420,7 @@ plugin-heading = Merañ hoc'h enlugelladoù
 dictionary-heading = Merañ ho keriaduioù
 locale-heading = Merañ ho yezhoù
 updates-heading = Merañ ho hizivadurioù
+sitepermission-heading = Merañ hoc’h aotreoù lecʼhiennoù
 discover-heading = Personelait ho { -brand-short-name }
 shortcuts-heading = Merañ berradennoù an askouezhioù
 default-heading-search-label = Kavout muioc'h a askouezhioù
