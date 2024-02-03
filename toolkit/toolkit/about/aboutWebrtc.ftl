@@ -158,6 +158,9 @@ about-webrtc-rotation-degrees = Troiñ (derezioù)
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = Pourchaset
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure

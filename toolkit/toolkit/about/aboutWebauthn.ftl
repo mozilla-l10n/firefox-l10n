@@ -41,6 +41,7 @@ about-webauthn-current-change-pin-button = Cheñch ar c’hod PIN
 about-webauthn-cancel-button = Nullañ
 about-webauthn-send-pin-button = Mat eo
 about-webauthn-delete-button = Dilemel
+about-webauthn-update-button = Hizivaat
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -63,3 +64,12 @@ about-webauthn-auth-info-true = Gwir
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = Gaou
 about-webauthn-auth-info-null = N’eo ket skoret
+
+## Bio enrollment sample feedbacks
+
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+
