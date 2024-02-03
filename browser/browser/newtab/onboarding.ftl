@@ -69,42 +69,42 @@ onboarding-theme-primary-button-label = เสร็จสิ้น
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title =
-        ใช้ธีมสำหรับปุ่ม เมนู และหน้าต่าง
-        ตามระบบปฏิบัติการ
+        ใช้ชุดรูปแบบสำหรับปุ่ม เมนู และหน้าต่าง
+        เหมือนกับระบบปฏิบัติการ
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
-        ใช้ธีมสำหรับปุ่ม เมนู และหน้าต่าง
-        ตามระบบปฏิบัติการ
+        ใช้ชุดรูปแบบสำหรับปุ่ม เมนู และหน้าต่าง
+        เหมือนกับระบบปฏิบัติการ
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
-        ใช้ธีมแบบสว่างสำหรับปุ่ม
+        ใช้ชุดรูปแบบสว่างสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
-        ใช้ธีมแบบสว่างสำหรับปุ่ม
+        ใช้ชุดรูปแบบสว่างสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
-        ใช้ธีมแบบมืดสำหรับปุ่ม
+        ใช้ชุดรูปแบบมืดสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
-        ใช้ธีมแบบมืดสำหรับปุ่ม
+        ใช้ชุดรูปแบบมืดสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
-        ใช้ธีมแบบไดนามิกที่มีสีสันสำหรับปุ่ม
+        ใช้ชุดรูปแบบสีสันสดใสสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
-        ใช้ธีมแบบไดนามิกที่มีสีสันสำหรับปุ่ม
+        ใช้ชุดรูปแบบสีสันสดใสสำหรับปุ่ม
         เมนู และหน้าต่าง
 # Selector description for default themes
 mr2-onboarding-default-theme-label = สำรวจชุดรูปแบบเริ่มต้น
@@ -344,3 +344,6 @@ onboarding-mobile-download-security-and-privacy-subtitle = เมื่อคุ
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } พร้อมดูแลคุณ
 onboarding-gratitude-security-and-privacy-subtitle = ขอบคุณที่ใช้ { -brand-short-name } ซึ่งสนับสนุนโดย Mozilla Foundation ด้วยการสนับสนุนของคุณ เรากำลังทำงานเพื่อให้อินเทอร์เน็ตปลอดภัยและเข้าถึงได้มากยิ่งขึ้นสำหรับทุกคน
+
+## New user time and familiarity survey strings
+

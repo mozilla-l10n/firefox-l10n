@@ -258,11 +258,11 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    ส่วนขยายและธีมเป็นเหมือนแอปสำหรับเบราว์เซอร์ของคุณ ซึ่งให้คุณป้องกัน
-    รหัสผ่าน, ดาวน์โหลดวิดีโอ, ค้นหาดีล, ปิดกั้นโฆษณาที่น่ารำคาญ, เปลี่ยนรูปลักษณ์ของ
-    เบราว์เซอร์ของคุณ, และอื่น ๆ อีกมากมาย โปรแกรมซอฟต์แวร์ขนาดเล็กเหล่านั้นมักถูก
+    ส่วนขยายและชุดรูปแบบเป็นเหมือนแอปสำหรับเบราว์เซอร์ของคุณ ซึ่งให้คุณป้องกัน
+    รหัสผ่าน ดาวน์โหลดวิดีโอ ค้นหาดีล ปิดกั้นโฆษณาที่น่ารำคาญ เปลี่ยนรูปลักษณ์ของ
+    เบราว์เซอร์ของคุณ และอื่น ๆ อีกมากมาย โปรแกรมซอฟต์แวร์ขนาดเล็กเหล่านั้นมักถูก
     พัฒนาโดยบุคคลที่สาม นี่คือตัวเลือกที่ { -brand-product-name } <a data-l10n-name="learn-more-trigger">แนะนำ</a>เพื่อ
-    ความปลอดภัย, ประสิทธิภาพ, และการทำงานที่ดีกว่า
+    ความปลอดภัย ประสิทธิภาพ และการทำงานที่ดีกว่า
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     บางคำแนะนำเหล่านี้ถูกปรับเปลี่ยนตามแบบส่วนบุคคล ซึ่งขึ้นอยู่กับส่วนขยายอื่นที่คุณติดตั้ง,
@@ -435,7 +435,7 @@ recommended-themes-heading = ชุดรูปแบบที่แนะนำ
 addon-sitepermissions-required = มอบความสามารถต่อไปนี้ให้ <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
-recommended-theme-1 = รู้สึกสร้างสรรค์ใช่ไหม? <a data-l10n-name="link">สร้างธีมในรูปแบบของคุณเองด้วย Firefox Color</a>
+recommended-theme-1 = รู้สึกสร้างสรรค์ใช่ไหม? <a data-l10n-name="link">สร้างชุดรูปแบบในแบบของคุณเองด้วย Firefox Color</a>
 
 ## Page headings
 
