@@ -55,3 +55,11 @@ fxviewtabrow-send-tab = Gửi thẻ đến thiết bị
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Tùy chọn cho { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = Tắt tiếng { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = Bỏ tắt tiếng { $tabTitle }
