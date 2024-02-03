@@ -169,6 +169,12 @@ webrtc-allow-share-camera-and-audio-capture = Aotren { $origin } da arverañ ho 
 webrtc-allow-share-screen-and-microphone = Aotren { $origin } da arveran ho mikro ha da welet ho skramm?
 webrtc-allow-share-screen-and-audio-capture = Aotren { $origin } da selaou ouzh aodio an ivinell ha da welet ho skramm?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-camera-with-file = Aotren ar restr lec’hel-mañ da arverañ ho kamera?
+webrtc-allow-share-microphone-with-file = Aotren ar restr lec’hel-mañ da arverañ ho klevell?
+webrtc-allow-share-screen-with-file = Aotren ar restr lec’hel-mañ da welet ho skramm?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
