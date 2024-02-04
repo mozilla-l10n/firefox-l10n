@@ -217,6 +217,9 @@ shortcuts-no-addons = ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਵੀ ਸਮਰੱ
 shortcuts-no-commands = ਅੱਗੇ ਦਿੱਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੇ ਸ਼ਾਰਟਕੱਟ ਨਹੀਂ ਹਨ:
 shortcuts-input =
     .placeholder = ਸ਼ਾਰਟਕੱਟ ਲਿਖੋ
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਹਟਾਓ
 shortcuts-browserAction2 = ਟੂਲਬਾਰ ਬਟਨ ਸਰਗਰਮ ਕਰੋ
 shortcuts-pageAction = ਸਫ਼ਾ ਕਾਰਵਾਈ ਸਰਗਰਮ ਕਰੋ
 shortcuts-sidebarAction = ਬਾਹੀ ਬਦਲੋ
