@@ -55,3 +55,11 @@ fxviewtabrow-send-tab = Lähetä välilehti laitteeseen
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Välilehden { $tabTitle } valinnat
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = Mykistä { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = Poista mykistys { $tabTitle }
