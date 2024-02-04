@@ -19,6 +19,11 @@ sanitize-dialog-title-everything =
     .title = Vymazat celou historii
     .style = min-width: 34em
 clear-data-settings-label = Při ukončení má { -brand-short-name } automaticky smazat
+sanitize-on-shutdown-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Při ukončení { -brand-short-name(case: "gen") } automaticky vymazat všechny označené položky.
+       *[no-cases] Při ukončení aplikace { -brand-short-name } automaticky vymazat všechny označené položky.
+    }
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -57,6 +62,7 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Historie
     .accesskey = H
+item-history-form-data-downloads-description = Vymaže historii stránek a stahování, uložené informace z formulářů a vyhledávání
 item-cookies =
     .label = Cookies
     .accesskey = C
@@ -76,6 +82,12 @@ item-active-logins =
 item-cache =
     .label = Mezipaměť
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Soubory a stránky dočasně uložené v mezipaměti ({ $amount } { $unit })
+    .accesskey = S
 item-cached-content =
     .label = Dočasně uložené soubory a stránky
     .accesskey = D
