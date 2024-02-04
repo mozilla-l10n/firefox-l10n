@@ -211,6 +211,8 @@ cfr-cbh-confirm-button = Zavračaj pasice s piškotki
 cfr-cbh-dismiss-button = Ne zdaj
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name } je za vas pravkar zavrnil piškotke
+cookie-banner-blocker-onboarding-body = Manj motenj in manj piškotkov, ki vam sledijo po tem spletnem mestu.
+cookie-banner-blocker-onboarding-learn-more = Več o tem
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -240,17 +242,12 @@ fxa-sync-cfr-secondary = Opomni me pozneje
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Uporabljate starejšo napravo?
-device-migration-fxa-spotlight-body = Varnostno kopirajte svoje podatke in poskrbite, da jih ne boste izgubili – še posebej, če boste zamenjali računalnik.
-device-migration-fxa-spotlight-primary-button = Kako varnostno kopirati podatke
-device-migration-fxa-spotlight-link = Opomni me pozneje
 device-migration-fxa-spotlight-heavy-user-header = Ne pozabite varnostno kopirati podatkov
 device-migration-fxa-spotlight-heavy-user-body = Poskrbite, da bodo pomembni podatki – kot so zaznamki in gesla – posodobljeni in zaščiteni na vseh vaših napravah.
 device-migration-fxa-spotlight-heavy-user-primary-button = Začnite
 device-migration-fxa-spotlight-older-device-body = Račun ohranja vaše pomembne podatke posodobljene in zaščitene na katerikoli napravi, ki jo povežete.
 device-migration-fxa-spotlight-older-device-primary-button = Ustvarite račun
 device-migration-fxa-spotlight-getting-new-device-header-2 = Se vam obeta nov računalnik?
-device-migration-fxa-spotlight-getting-new-device-body = Varnostno kopirajte podatke zdaj, da boste takoj, ko prejmete napravo, pripravljeni na selitev.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Kako varnostno kopirati podatke
 
 ## Set as Default PDF Reader Infobar
