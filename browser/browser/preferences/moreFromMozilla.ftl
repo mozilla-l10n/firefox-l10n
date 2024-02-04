@@ -29,6 +29,6 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name }’i kullanın
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
-more-from-moz-mozilla-monitor-us-description = Ele geçirilen kişisel bilgilerinizi kontrolünü geri alın.
+more-from-moz-mozilla-monitor-us-description = Ele geçirilen kişisel bilgilerinizin kontrolünü geri alın.
 more-from-moz-mozilla-monitor-global-description = Verileriniz ele geçirilirse uyarı alın.
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name }’ü kullanın
