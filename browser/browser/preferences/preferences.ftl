@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਹਟਾਓ
 containers-remove-cancel-button = ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਨਾ ਹਟਾਓ
+settings-tabs-show-image-in-preview =
+    .label = ਜਦੋਂ ਤੁਸੀਂ ਟੈਬ ਉੱਤੇ ਹੋਵੋ ਤਾਂ ਚਿੱਤਰ ਚਿੱਤਰ ਝਲਕ ਵੇਖੋ
+    .accessKey = h
 
 ## General Section - Language & Appearance
 

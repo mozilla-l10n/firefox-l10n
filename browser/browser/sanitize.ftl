@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = ਸਭ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ
     .style = min-width: 34em
 clear-data-settings-label = ਜਦੋਂ ਬੰਦ ਹੁੰਦਾ ਹੈ ਤਾਂ { -brand-short-name } ਆਪਣੇ-ਆਪ ਸਭ ਸਾਫ਼ ਕਰਦਾ ਹੈ
+sanitize-on-shutdown-description = ਜਦੋਂ ਵੀ { -brand-short-name } ਬੰਦ ਹੋਵੇ ਤਾਂ ਚੁਣੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਮਿਟਾਓ।
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,12 +55,19 @@ history-section-label = ਅਤੀਤ
 item-history-and-downloads =
     .label = ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ
     .accesskey = B
-item-browsing-and-search =
-    .label = ਖੋਲ੍ਹੀਆਂ ਸਾਈਟਾਂ, ਸੰਭਾਲੀ ਫਾਰਮ ਜਾਣਕਾਰੀ ਅਤੇ ਖੋਜਾਂ
-    .accesskey = V
+item-history-form-data-downloads =
+    .label = ਅਤੀਤ
+    .accesskey = H
+item-history-form-data-downloads-description = ਸਾਈਟ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ, ਸੰਭਾਲੀ ਹੋਈ ਫਾਰਮ ਜਾਣਕਾਰੀ ਅਤੇ ਖੋਜਾਂ ਨੂੰ ਮਿਟਾਓ
 item-cookies =
     .label = ਕੂਕੀਜ਼
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
     .accesskey = e
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = ਕੈਸ਼
     .accesskey = A
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = ਆਰਜ਼ੀ ਕੈਸ਼ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਅਤੇ ਸਫ਼ੇ ({ $amount } { $unit })
+    .accesskey = f
 item-cached-content =
     .label = ਆਰਜ਼ੀ ਕੈਸ਼ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਅਤੇ ਸਫ਼ੇ
     .accesskey = f
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = ਸਾਈਟ ਸੈਟਿੰਗਾਂ
     .accesskey = i
 item-site-prefs-description = ਆਪਣੀਆਂ ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਸਾਈਟ ਪਸੰਦਾਂ ਨੂੰ ਅਸਲ ਸੈਟਿੰਗਾਂ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
-item-download-history =
-    .label = ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਦੀ ਸੂਚੀ
-    .accesskey = D
 data-section-label = ਮਿਤੀ
 item-site-settings =
     .label = ਸਾਈਟ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = ਹੁਣੇ ਸਾਫ਼ ਕਰੋ
 sanitize-button-ok2 =
     .label = ਸਾਫ਼ ਕਰੋ
+sanitize-button-ok-on-shutdown =
+    .label = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
