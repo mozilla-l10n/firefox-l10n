@@ -14,26 +14,23 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = Þjónustuferli
-
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Afskrá
-
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = Villuleita
     .title = Eingöngu er hægt að kemba keyrandi þjónustur (service workers)
-
 # Alt text for the image icon displayed inside a debug link for a service worker.
 serviceworker-worker-inspect-icon =
     .alt = Skoða
-
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start3 = Ræsa
-
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
+# Variables:
+#   $date (date) - Update date
 serviceworker-worker-updated = Uppfært <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
@@ -42,46 +39,49 @@ serviceworker-worker-updated = Uppfært <time>{ DATETIME($date, month: "long", y
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = Í gangi
-
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Hætt
-
 # Text displayed when no service workers are visible for the current page.
 serviceworker-empty-intro2 = Engin þjónustuferli fundust
-
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = Kanna nánar
-
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = Skoða þjónustuferli frá öðrum lénum
-
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = Auðkenni
-
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
 manifest-item-presentation = Kynning
-
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Táknmyndir
-
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+# Variables:
+#   $purpose (string) - Manifest purpose
+manifest-icon-purpose = Tilgangur: <code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
     .alt = Táknmynd
-
 # Text displayed as the title attribute for <img> tags showing the icons in the
-# manifest. `$sizes` is a user-dependent string that has been parsed as a
-# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+# manifest.
+# Variables:
+#   $sizes (string) - User-dependent string that has been parsed as a
+#                     space-separated list of `<width>x<height>` sizes or
+#                     the keyword `any`.
 manifest-icon-img-title = Táknmynd með stærðum: { $sizes }
-
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Ótilgreind stærð tákns
 # Sidebar navigation item for Service Workers sidebar item section
 sidebar-item-service-workers = Þjónustuferli
     .alt = Táknmynd fyrir þjónustuferli
     .title = Þjónustuferli
-
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Aðvörunartákn
     .title = Aðvörun
-
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Villutákn
+    .title = Villa
