@@ -55,3 +55,11 @@ fxviewtabrow-send-tab = Odoslať kartu do zariadenia
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Možnosti pre { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = Stlmiť { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = Zapnúť zvuk pre { $tabTitle }
