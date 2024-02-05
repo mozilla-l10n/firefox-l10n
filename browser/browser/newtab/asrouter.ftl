@@ -363,3 +363,8 @@ launch-on-login-infobar-final-message =
     }
 launch-on-login-infobar-final-reject-button = Ne, děkuji
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-primary-button = Otevírat mé odkazy pomocí aplikace { -brand-short-name }
+tail-fox-spotlight-secondary-button = Teď ne

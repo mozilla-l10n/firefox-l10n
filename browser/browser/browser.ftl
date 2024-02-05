@@ -969,6 +969,10 @@ restore-session-startup-suggestion-message =
     }
 restore-session-startup-suggestion-button = Jak na to
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Vaše organizace zablokovala přístup k místním souborům v tomto počítači.
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message =
