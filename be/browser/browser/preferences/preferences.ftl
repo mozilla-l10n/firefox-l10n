@@ -206,6 +206,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Выдаліць гэты кантэйнер
 containers-remove-cancel-button = Не выдаляць гэты кантэйнер
+settings-tabs-show-image-in-preview =
+    .label = Паказваць папярэдні прагляд выявы пры навядзенні курсора на картку
+    .accessKey = р
 
 ## General Section - Language & Appearance
 
@@ -1004,6 +1007,7 @@ sitedata-delete-on-close =
     .label = Выдаляць кукі і звесткі сайтаў па закрыцці { -brand-short-name }
     .accesskey = с
 sitedata-delete-on-close-private-browsing = У рэжыме сталага прыватнага аглядання кукі і звесткі сайтаў будуць заўсёды выдаляцца па закрыцці { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = На падставе вашых налад гісторыі { -brand-short-name } выдаляе кукі і звесткі сайтаў з вашага сеансу, калі вы закрываеце браўзер.
 sitedata-allow-cookies-option =
     .label = Прымаць кукі і звесткі сайтаў
     .accesskey = П

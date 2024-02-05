@@ -574,6 +574,11 @@ urlbar-result-action-search-w-engine = Пошук з дапамогай { $engin
 urlbar-result-action-sponsored = Спонсарскі
 urlbar-result-action-switch-tab = Пераключыцца ў картку
 urlbar-result-action-visit = Наведаць
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Перайсці на картку · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Наведаць з буфера абмену
 # Directs a user to press the Tab key to perform a search with the specified
@@ -897,6 +902,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Адкрыць папярэднія карткі?</strong> Вы можаце аднавіць папярэдні сеанс з меню <img data-l10n-name="icon"/> праграмы { -brand-short-name }, у раздзеле "Гісторыя".
 restore-session-startup-suggestion-button = Паказаць мне як
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Ваша ўстанова заблакавала доступ да лакальных файлаў на гэтым камп'ютары
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
