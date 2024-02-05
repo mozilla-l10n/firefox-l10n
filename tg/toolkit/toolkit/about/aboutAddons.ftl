@@ -222,6 +222,9 @@ shortcuts-no-addons = Шумо ягон васеъшавии фаъолшуда 
 shortcuts-no-commands = Васеъшавиҳои зерин миёнбурҳоро надоранд:
 shortcuts-input =
     .placeholder = Миёнбуреро ворид кунед
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Тоза кардани миёнбур
 shortcuts-browserAction2 = Фаъол кардани тугмаи навори абзорҳо
 shortcuts-pageAction = Фаъол кардани амал дар саҳифа
 shortcuts-sidebarAction = Нишон/пинҳон кардани навори ҷонибӣ
