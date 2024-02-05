@@ -29,6 +29,14 @@ protections-panel-etp-off-header = Sa protetzione megiorada contra sa sighidura 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-toggle-on =
+    .label = Amparu megioradu contra sa sighidura
+    .description = Ativadu pro custu situ
+    .aria-label = Amparu megioradu contra sa sighidura: Ativadu pro { $host }
+protections-panel-etp-toggle-off =
+    .label = Amparu megioradu contra sa sighidura
+    .description = Disativadu pro custu situ
+    .aria-label = Amparu megioradu contra sa sighidura: disativadu pro { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Su situ non funtzionat?
 # The heading/title of the sub-panel view
@@ -115,6 +123,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Ismenguada de is avisos de testimòngios
+protections-panel-cookie-banner-blocker-header = Blocu de is avisos de testimòngios
 protections-panel-cookie-banner-handling-enabled = Ativu pro custu situ
 protections-panel-cookie-banner-handling-disabled = Disativadu pro custu situ
 protections-panel-cookie-banner-handling-undetected = Situ non cumpatìbile
@@ -124,17 +133,27 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Boles disativare s’ismèngua de is avisos de testimòngios pro { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Boles ativare s’ismèngua de is avisos de testimòngios pro { $host }?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Blocu de is avisos de testimòngios
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Boles disativare su blocu de is avisos de testimòngios pro { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Boles ativare su blocu de is avisos de testimòngios pro custu situ?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } at a limpiare is testimòngios de custu situ e at a atualizare sa pàgina. Sa limpiesa de totu is testimòngios ti diat pòdere serrare sa sessione o isboidare is carrellos de s’ispesa.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } proat a refudare in automàticu totu is testimòngios de sa rechesta in is sitos cumpatìbiles.
 protections-panel-cookie-banner-view-cancel = Annulla
 protections-panel-cookie-banner-view-turn-off = Disativa
 protections-panel-cookie-banner-view-turn-on = Ativa
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ativa·ddu e { -brand-short-name } at a refudare in automàticu is avisos de testimòngios in custu situ.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Annulla
 protections-panel-cookie-banner-view-turn-off-label =
     .label = Disativa
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Ativa
+protections-panel-report-broken-site =
+    .label = Sinnala unu situ chi non funtzionat
+    .title = Sinnala unu situ chi non funtzionat
 
 ## Protections panel info message
 

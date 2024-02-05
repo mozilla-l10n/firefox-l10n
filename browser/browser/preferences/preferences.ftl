@@ -14,6 +14,11 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Nara a is sitos web de non bèndere nen cumpartzire is datos mios
     .accesskey = N
+non-technical-privacy-header = Preferèntzias de riservadesa de su situ
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Cunfiguratzione
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -122,6 +127,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Aberi ventanas e ischedas pretzedentes
     .accesskey = s
+windows-launch-on-login =
+    .label = Aberi { -brand-short-name } in automàticu a s’aviu de s’elaboradore
+    .accesskey = A
+windows-launch-on-login-disabled = Custa preferèntzia est disativada in Windows. Pro dda modificare, bae a <a data-l10n-name="startup-link">Aplicatziones de aviu</a> in cunfiguratziones de su sistema.
 startup-restore-warn-on-quit =
     .label = Faghe ischire cando essis dae su navigadore
 disable-extension =
@@ -194,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Boga custu cuntenidore
 containers-remove-cancel-button = Non boghes custu cuntenidore
+settings-tabs-show-image-in-preview =
+    .label = Ammustra un’anteprima de immàgine cando su puntadore est subra de un’ischeda.
+    .accessKey = m
 
 ## General Section - Language & Appearance
 
@@ -457,12 +469,18 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Ammustra semper is barras de iscurrimentu
     .accesskey = u
+browsing-always-underline-links =
+    .label = Sutalìnia semper is ligòngios
+    .accesskey = s
 browsing-use-onscreen-keyboard =
     .label = Ammustra unu tecladu tàtile cando siat netzessàriu
     .accesskey = c
 browsing-use-cursor-navigation =
     .label = Imprea semper is teclas de su puntadore pro navigare in is pàginas
     .accesskey = m
+browsing-use-full-keyboard-navigation =
+    .label = Imprea su tastu de tabulatzione pro mòvere su sèberu intre is cumandos de is formulàrios e is ligòngios
+    .accesskey = t
 browsing-search-on-start-typing =
     .label = Chirca su testu cando cumintzas a iscrìere
     .accesskey = z
@@ -598,6 +616,9 @@ search-suggestions-desc = Sèbera comente depent èssere ammustrados is cussìgi
 search-suggestions-option =
     .label = Fruni cussìgios de chirca
     .accesskey = f
+search-show-suggestions-option =
+    .label = Ammustra cussìgios de chirca
+    .accesskey = A
 search-show-suggestions-url-bar-option =
     .label = Ammustra cussìgios de chirca in is resurtados de sa barra de indiritzos
     .accesskey = i
@@ -696,6 +717,9 @@ sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $emai
 sync-resend-verification =
     .label = Torra a imbiare sa verìfica
     .accesskey = b
+sync-verify-account =
+    .label = Verìfica su contu
+    .accesskey = V
 sync-remove-account =
     .label = Boga custu contu
     .accesskey = B
@@ -728,8 +752,10 @@ sync-currently-syncing-bookmarks = Sinnalibros
 sync-currently-syncing-history = Cronologia
 sync-currently-syncing-tabs = Ischedas abertas
 sync-currently-syncing-logins-passwords = Credentziales e craes
+sync-currently-syncing-passwords = Craes
 sync-currently-syncing-addresses = Indiritzos
 sync-currently-syncing-creditcards = Cartas de crèditu
+sync-currently-syncing-payment-methods = Mètodos de pagamentu
 sync-currently-syncing-addons = Cumplementos
 sync-currently-syncing-settings = Cunfiguratzione
 sync-change-options =
@@ -760,6 +786,10 @@ sync-engine-logins-passwords =
     .label = Credentziales e craes
     .tooltiptext = Nòmines de utente e craes chi as sarvadu
     .accesskey = r
+sync-engine-passwords =
+    .label = Craes
+    .tooltiptext = Craes sarvadas
+    .accesskey = C
 sync-engine-addresses =
     .label = Indiritzos
     .tooltiptext = Indiritzos postales chi as sarvadu (isceti in Firefox de iscrivania)
@@ -768,6 +798,10 @@ sync-engine-creditcards =
     .label = Cartas de crèditu
     .tooltiptext = Nòmines, nùmeros e iscadèntzias (isceti in Firefox de iscrivania)
     .accesskey = C
+sync-engine-payment-methods2 =
+    .label = Mètodos de pagamentu
+    .tooltiptext = Nòmines, nùmeros de cartas e datas de iscadèntzia
+    .accesskey = M
 sync-engine-addons =
     .label = Cumplementos
     .tooltiptext = Estensiones e temas pro Firefox de iscrivania
@@ -814,16 +848,35 @@ pane-privacy-logins-and-passwords-header = Credentziales e craes
 forms-ask-to-save-logins =
     .label = Pregonta si bògio sarvare is credentziales e is craes de is sitos web
     .accesskey = D
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Craes
+    .searchkeywords = credentziales
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Cussìgia de sarvare is craes
+    .accesskey = P
 forms-exceptions =
     .label = Etzetziones…
     .accesskey = z
 forms-generate-passwords =
     .label = Cussìgia e gènera craes fortes
     .accesskey = u
+forms-suggest-passwords =
+    .label = Cussìgia una crae segura
+    .accesskey = C
 forms-breach-alerts =
     .label = Ammustra avisos subra de is craes pro is sitos vìtima de violatzione de datos
     .accesskey = v
 forms-breach-alerts-learn-more-link = Àteras informatziones
+preferences-relay-integration-checkbox =
+    .label = Cussìgia màscaras de posta eletrònica de { -relay-brand-name } pro amparare is indiritzos tuos de posta eletrònica
+preferences-relay-integration-checkbox2 =
+    .label = Cussìgia màscaras de posta eletrònica de { -relay-brand-name } pro amparare is indiritzos tuos de posta eletrònica
+    .accesskey = C
 relay-integration-learn-more-link = Àteras informatziones
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -832,6 +885,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Credentziales sarvadas…
     .accesskey = l
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Cumpleta cun nòmines utente e craes in automàticu
+    .accesskey = C
+forms-saved-passwords =
+    .label = Craes sarvadas
+    .accesskey = C
 forms-primary-pw-use =
     .label = Imprea una crae printzipale
     .accesskey = u
@@ -855,6 +915,7 @@ forms-windows-sso =
     .label = Permite s'autenticatzione ùnica de Windows pro is contos de traballu o de istrutzione de Microsoft
 forms-windows-sso-learn-more-link = Àteras informatziones
 forms-windows-sso-desc = Gesti is contos in sa cunfiguratzione de su dispositivu tuo
+windows-passkey-settings-label = Gesti is craes de atzessu in is cunfiguratziones de su sistema
 
 ## OS Authentication dialog
 
@@ -866,6 +927,28 @@ primary-password-os-auth-dialog-message-win = Pro creare una crae printzipale, i
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crea una crae printzipale
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Cumpletamentu automàticu
+autofill-addresses-checkbox = Sarva e cumpleta cun is indiritzos
+    .accesskey = a
+autofill-saved-addresses-button = Indiritzos sarvados
+    .accesskey = I
+autofill-payment-methods-checkbox-message = Sarva e cumpleta cun is mètodos de pagamentu
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Includet cartas de crèditu e de dèbitu
+    .accesskey = I
+autofill-saved-payment-methods-button = Mètodos de pagamentu sarvados
+    .accesskey = t
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Rechede s’autenticatzione de macOS pro insertare e modificare is mètodos de pagamentu.
+        [windows] Rechede s’autenticatzione de Windows pro insertare e modificare is mètodos de pagamentu.
+        [linux] Rechede s’autenticatzione de Linux pro insertare e modificare is mètodos de pagamentu.
+       *[other] Rechede s’autenticatzione pro insertare e modificare is mètodos de pagamentu.
+    }
+    .accesskey = e
 
 ## Privacy Section - History
 
@@ -957,9 +1040,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Ismenguada de is avisos de testimòngios
 cookie-banner-handling-description = { -brand-short-name } proat a refudare in automàticu is rechestas de is avisos de testimòngios in is sitos cumpatìbiles.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Blocadore de avisos de testimòngios
+cookie-banner-blocker-description = Cando unu situ preguntat de pòdere impreare testimòngios in modalidade de navigatzione privada, { -brand-short-name } refudat in automàticu. S’àplicat isceti in sitos cumpatìbiles.
 cookie-banner-learn-more = Àteras informatziones
 forms-handle-cookie-banners =
     .label = Ismèngua is avisos de testimòngios
+cookie-banner-blocker-checkbox-label =
+    .label = Refuda in automàticu avisos de testimòngios
 
 ## Privacy Section - Address Bar
 
@@ -990,6 +1080,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Atziones lestras
     .accesskey = A
+addressbar-locbar-showrecentsearches-option =
+    .label = Ammustra chircas reghentes
+    .accesskey = r
 addressbar-suggestions-settings = Muda sa cunfiguratzione de cussìgios de motores de chirca
 addressbar-quickactions-learn-more = Àteras informatziones
 
@@ -999,6 +1092,10 @@ content-blocking-enhanced-tracking-protection = Amparu megioradu contra sa sighi
 content-blocking-section-top-level-description = Is sighidores ti ponent in fatu mentras ses navighende pro regòllere informatziones de is abitùdines de navigatzione e is interessos tuos. { -brand-short-name } blocat medas de custos sighidores e àteros script malos.
 content-blocking-learn-more = Àteras informatziones
 content-blocking-fpi-incompatibility-warning = Ses impreende FPI (First Party Isolation), chi sostituit unas cantas cunfiguratziones de testimòngios de { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Ses impreende Resist Fingerprinting (RFP), chi sostituit calicuna de is cunfiguratziones de amparu de sa generatzione de imprentas digitale de { -brand-short-name }. Custu podet fàghere chi calicunu situ non funtzionet bene.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1032,6 +1129,10 @@ content-blocking-all-windows-tracking-content = Cuntenutu de sighimentu in totu 
 content-blocking-all-cross-site-cookies = Totu is testimòngios intre-sitos
 content-blocking-cryptominers = Cripto-minadores
 content-blocking-fingerprinters = Generadores de imprentas digitales
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Generadores de imprentas digitales connotos e suspetos
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1076,6 +1177,11 @@ content-blocking-fingerprinters-label =
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
 content-blocking-known-fingerprinters-label =
     .label = Generadores de imprentas digitales connotos
+    .accesskey = G
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Generadores de imprentas digitales suspetos
     .accesskey = G
 
 ## Privacy Section - Tracking
@@ -1139,6 +1245,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Impreu e còllida de datos dae { -brand-short-name }
+collection-header2 = Impreu e collida de datos dae { -brand-short-name }
+    .searchkeywords = telemetria
 collection-description = Chircamus de ti garantire sèberos e de regòllere isceti su chi nos serbit pro sa frunidura e su megioru de { -brand-short-name } pro chie chi siat. Pedimus semper su permissu in antis de retzire informatziones personales.
 collection-privacy-notice = Avisu de riservadesa
 collection-health-report-telemetry-disabled = Non permitas prus a { -vendor-short-name } de caturare datos tècnicos e de interatzione. Totu is datos betzos ant a èssere cantzellados intro de 30 dies.
@@ -1195,6 +1303,9 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguresa…
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = Permite a { -brand-short-name } de si fidare in automàticu de is tzertificados raighina de àteras partes chi installas
+    .accesskey = f
 space-alert-over-5gb-settings-button =
     .label = Aberi sa cunfiguratzione
     .accesskey = A
@@ -1217,6 +1328,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS  pro mèdiu de  HTTPS
 preferences-doh-description = DNS (Sistema de Nòmine de Domìniu) pro mèdiu de HTTPS imbiat is rechestas tuas pro unu nòmine de domìniu a traessu de una connessione tzifrada, creende unu DNS seguru e faghende prus difìtzile pro àtere a bìdere in cales sitos ses intrende.
+preferences-doh-description2 = DNS (Sistema de Nòmine de Domìniu) pro mèdiu de HTTPS imbiat is rechestas tuas pro unu nòmine de domìniu a traessu de una connessione tzifrada, frunende unu DNS seguru e faghende prus difìtzile pro àtere a bìdere in cales sitos ses intrende.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Istadu: { $status }
@@ -1233,6 +1345,7 @@ preferences-doh-status-disabled = Disativadu
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Inativu ({ $reason })
 preferences-doh-group-message = Ativa su DNS seguru impreende:
+preferences-doh-group-message2 = Ativa DNS subra HTTPS impreende:
 preferences-doh-expand-section =
     .tooltiptext = Àteras informatziones
 preferences-doh-setting-default =

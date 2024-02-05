@@ -91,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Etzetziones - Modalidade isceti HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Podes disativare sa modalidade isceti HTTPS pro sitos web ispetzìficos. { -brand-short-name } no at a tentare de agiornare sa connessione a sa versione de HTTPS segura pro custos sitos. Is etzetziones non s'ant a aplicare a is ventanas privadas.
+permissions-exceptions-https-only-desc2 = Podes disativare sa modalidade isceti HTTPS pro sitos web ispetzìficos. { -brand-short-name } no at a tentare de atualizare sa connessione a sa versione de HTTPS segura pro custos sitos.
 
 ## Exceptions - Pop-ups
 
@@ -105,6 +106,13 @@ permissions-exceptions-saved-logins-window2 =
     .title = Etzetziones - Credentziales sarvadas
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Is credentziales pro is sitos web imbenientes no ant a èssere sarvadas
+
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Etzetziones - Craes sarvadas
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } no at a sarvare craes pro is sitos in custu elencu.
 
 ## Exceptions - Add-ons
 
@@ -177,6 +185,11 @@ permissions-site-microphone-disable-desc = Custu at a evitare chi is sitos web c
 permissions-site-speaker-window =
     .title = Cunfiguratzione - Permissos de s’altoparlante
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = Is sitos imbenientes rechedent de seberare unu dispositivu de essida àudio. Podes inditare cales sitos tenent su permissu de seberare unu dispositivu de essida àudio.
+permissions-exceptions-doh-window =
+    .title = Etzetziones de sitos pro DNS subra de HTTPS
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } no at a impreare su DNS seguru pro custos sitos nen pro is sutadomìnios issoro.
 permissions-doh-entry-field = Inserta su nòmine de domìniu de su situ
     .accesskey = I
 permissions-doh-add-exception =

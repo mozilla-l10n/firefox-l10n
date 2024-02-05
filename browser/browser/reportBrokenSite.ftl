@@ -39,3 +39,5 @@ report-broken-site-panel-report-sent-header =
     .label = Informe imbiadu
     .title = Informe imbiadu
 report-broken-site-panel-report-sent-text = Gràtzias de agiudare a { -brand-product-name } a fàghere sa rete prus aberta, atzessìbile e mègius pro totus.
+report-broken-site-panel-invalid-url-label = Inserta un’URL vàlidu.
+report-broken-site-panel-missing-reason-label = Sèbera una resone
