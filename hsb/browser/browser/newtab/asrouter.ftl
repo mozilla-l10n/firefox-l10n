@@ -286,5 +286,6 @@ launch-on-login-infobar-final-reject-button = Ně, dźakuju so
 # If the localization of this message is challenging, consider using a simplified
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
 tail-fox-spotlight-title = Wotdźeržće wobćežne přesćěhowaki
+tail-fox-spotlight-subtitle = Rozžohnujće z wobćežnymi wabjenskimi přesćěhowakami a zažiwće so do wěsćišeho, spěšneho internetneho dožiwjenja.
 tail-fox-spotlight-primary-button = Moje wotkazy z { -brand-short-name } wočinić
 tail-fox-spotlight-secondary-button = Nic nětko
