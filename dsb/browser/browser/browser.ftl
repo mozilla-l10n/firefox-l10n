@@ -907,6 +907,10 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Cośo pjerwjejšne rejtariki wócyniś?</strong> Móžośo swóje pjerwjejšne pósejźenje z nałožeńskego menija { -brand-short-name } <img data-l10n-name="icon"/> pód Historija wótnowiś.
 restore-session-startup-suggestion-button = Pokažćo kak
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Waša organizacija jo blokěrowała pśistup k lokalnym datajam na toś tom licadle
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } sćelo někotare daty do { -vendor-short-name }, aby my mógli wašu praksu pólěpšyś.
