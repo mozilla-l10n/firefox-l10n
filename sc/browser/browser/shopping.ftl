@@ -159,14 +159,35 @@ shopping-survey-q2-radio-3-label = No ddu iscio
 shopping-survey-next-button-label = Imbeniente
 shopping-survey-submit-button-label = Imbia
 shopping-survey-terms-link = Cunditziones de su servìtziu
+shopping-survey-thanks =
+    .heading = Gràtzias de s’opinione tua!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Torra a <strong>verificadore de retzensiones</strong> cando bides s’eticheta de su prètziu.
+shopping-callout-pdp-opted-in-title = Custas retzensiones sunt fidadas? Iscoberi·ddu a lestru.
+shopping-callout-pdp-opted-in-subtitle = Aberi su verificadore de retzensiones pro visualizare sa valutatzione assentada chene de retzensiones non fidadas. In prus, càstia is elementos in evidèntzia dae is retzensiones autènticas reghentes.
+shopping-callout-closed-not-opted-in-title = Retzensiones fidadas cun unu clic
+shopping-callout-closed-not-opted-in-subtitle = Prova su verificadore de retzensiones cando bides s’eticheta de su prètziu. Otene informatziones dae clientes reales a sa lestra in antis de comporare.
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Prova sa ghia fidada nostra a is retzensiones de is produtos
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Iscoberi canto sunt fidadas is retzensiones de is produtos in <b>{ $currentSite }</b> in antis de comporare. Su verificadore de retzensiones, una funtzionalidade isperimentale de { -brand-product-name }, est integrada in su navigadore. Funtzionat in <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Iscoberi canto sunt fidadas is retzensiones de is produtos in <b>{ $currentSite }</b> in antis de comporare. Su verificadore de retzensiones, una funtzionalidade isperimentale de { -brand-product-name }, est integrada in su navigadore.
+shopping-onboarding-body = Impreende sa tecnologia { -fakespot-brand-full-name }, t’agiudamus a evitare is retzensiones no autènticas e no ogetivas. Su modellu nostru de IA est semper megiorende pro t’amparare cando còmporas. <a data-l10n-name="learn_more">Àteras informatziones</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Seberende “{ shopping-onboarding-opt-in-button }“ ses de acordu cun sa <a data-l10n-name="privacy_policy">polìtica de riservadesa</a> e is <a data-l10n-name="terms_of_use">cunditziones de su servìtziu</a> de { -fakespot-brand-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Seberende “{ shopping-onboarding-opt-in-button }“ ses de acordu cun sa <a data-l10n-name="privacy_policy">polìtica de riservadesa</a> de { -brand-product-name } e is <a data-l10n-name="terms_of_use">cunditziones de su servìtziu</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Eja, dd'apo a proare
 shopping-onboarding-not-now-button = Immoe nono
 shopping-onboarding-dialog-close-button =
