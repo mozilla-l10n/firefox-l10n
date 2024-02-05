@@ -271,3 +271,7 @@ launch-on-login-infobar-reject-button = ਹੁਣੇ ਨਹੀਂ
 launch-on-login-infobar-final-message = <strong>ਕੀ ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ ਤੋਂ ਹਰ  ਵਾਰ { -brand-short-name } ਨੂੰ ਖੋਲ੍ਹਣਾ ਹੈ?</strong> ਸ਼ੁਰੂਆਤੀ ਪਸੰਦਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚ “startup” ਲੱਭੋ।
 launch-on-login-infobar-final-reject-button = ਨਹੀਂ, ਧੰਨਵਾਦ
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-secondary-button = ਹੁਣੇ ਨਹੀਂ
