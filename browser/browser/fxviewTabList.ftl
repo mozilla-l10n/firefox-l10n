@@ -55,3 +55,11 @@ fxviewtabrow-send-tab = Фиристодани варақа ба дастгоҳ
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Имконот барои «{ $tabTitle }»
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = Хомӯш кардани садои «{ $tabTitle }»
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = Фаъол кардани садои «{ $tabTitle }»
