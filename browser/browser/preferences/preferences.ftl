@@ -1011,6 +1011,7 @@ sitedata-delete-on-close =
     .label = Placki a sydłowe daty zhašeć, hdyž so { -brand-short-name } začinja
     .accesskey = s
 sitedata-delete-on-close-private-browsing = W stajnym priwatnym modusu so placki a sydłowe daty přeco zhašeja, hdyž so { -brand-short-name } začinja.
+sitedata-delete-on-close-private-browsing2 = Na zakładźe wašich nastajenjow { -brand-short-name } placki a sydłowe daty z wašeho posedźenja zhaša, hdyž wobhladowak začinjeće.
 sitedata-allow-cookies-option =
     .label = Placki a sydłowe daty akceptować
     .accesskey = P
