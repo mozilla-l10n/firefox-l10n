@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Kapsayıcıyı sil
 containers-remove-cancel-button = Kapsayıcıyı silme
+settings-tabs-show-image-in-preview =
+    .label = Bir sekmenin üzerine geldiğimde sekme ön izlemesini göster
+    .accessKey = ö
 
 ## General Section - Language & Appearance
 
