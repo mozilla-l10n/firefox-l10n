@@ -241,14 +241,36 @@ fxa-sync-cfr-secondary = Regorda·mi·ddu prus tardu
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-header = Non t’iscaressas de fàghere una còpia de seguresa de is datos tuos
+device-migration-fxa-spotlight-heavy-user-body = Assegura·ti chi informatziones de importu, comente sinnalibros e craes, siant atuales e protetas in totu is dispositivos tuos.
+device-migration-fxa-spotlight-heavy-user-primary-button = Cumintza
+device-migration-fxa-spotlight-older-device-header = Trancuillidade, dae { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Unu contu cunservat is informatziones tuas de importu atualizadas e amparadas in cale si siat dispositivu acàpies.
+device-migration-fxa-spotlight-older-device-primary-button = Crea unu contu
 device-migration-fxa-spotlight-getting-new-device-header-2 = Ses acanta de tènnere unu dispositivu nou?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Sighi una pariga de passos simpres pro ti nche portare a fatu sinnalibros, cronologia e craes cando incumentzas cun unu dispositivu nou.
+device-migration-fxa-spotlight-getting-new-device-primary-button = Comente potzo fàghere una còpia de is datos mios?
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Boles chi { -brand-short-name } siat su programma predefinidu pro lèghere is PDF?</strong> Imprea { -brand-short-name } pro lèghere e cambiare is PDF sarbados in s’elaboradore tuo.
+pdf-default-notification-set-default-button =
+    .label = Cunfigura comente predefinidu
+pdf-default-notification-decline-button =
+    .label = Immoe nono
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Boles abèrrere { -brand-short-name } ònnia borta chi torras a aviare s’elaboradore?</strong> Immoe podes cunfigurare { -brand-short-name } pro s’abèrgiat in automàticu cando torras a aviare su dispositivu.
+launch-on-login-learnmore = Àteras informatziones
+launch-on-login-infobar-confirm-button = Eja, aberi { -brand-short-name }
+    .accesskey = E
+launch-on-login-infobar-reject-button = Immoe nono
+    .accesskey = n
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Boles abèrrere { -brand-short-name } ònnia borta chi torras a aviare s’elaboradore?</strong> Pro gestire is preferèntzias de aviu, chirca “aviu” in sa cunfiguratzione.
+launch-on-login-infobar-final-reject-button = No, gràtzias
+    .accesskey = N

@@ -55,3 +55,11 @@ fxviewtabrow-send-tab = Imbia s’ischeda a unu dispositivu
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Optziones pro { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = Pone { $tabTitle } a sa muda
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = Ativa àudio pro { $tabTitle }
