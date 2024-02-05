@@ -209,6 +209,8 @@ cfr-cbh-dismiss-button = Не зараз
     .accesskey = Н
 cookie-banner-blocker-cfr-header = { -brand-short-name } толькі што заблакаваў для вас кукі
 cookie-banner-blocker-cfr-body = Мы аўтаматычна адмаўляемся ад многіх выплыўных вокнаў пра кукі, каб сайтам было цяжэй асочваць вас.
+cookie-banner-blocker-onboarding-body = Менш адцягнення ўвагі, менш кукі, якія асочваюць вас на гэтым сайце.
+cookie-banner-blocker-onboarding-learn-more = Падрабязней
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -238,10 +240,6 @@ fxa-sync-cfr-secondary = Нагадаць пазней
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Карыстаецеся старой прыладай?
-device-migration-fxa-spotlight-body = Зрабіце рэзервовую копію дадзеных, каб упэўніцца, што вы не страціце важную інфармацыю, такую як закладкі і паролі, асабліва калі вы пераходзіце на новую прыладу.
-device-migration-fxa-spotlight-primary-button = Як зрабіць рэзервовую копію маіх дадзеных
-device-migration-fxa-spotlight-link = Нагадаць пазней
 device-migration-fxa-spotlight-heavy-user-header = Не забудзьцеся стварыць рэзервовую копію дадзеных
 device-migration-fxa-spotlight-heavy-user-body = Пераканайцеся, што важная інфармацыя — напрыклад, закладкі і паролі — абнаўляецца і абаронена на ўсіх вашых прыладах.
 device-migration-fxa-spotlight-heavy-user-primary-button = Пачаць
@@ -276,3 +274,8 @@ launch-on-login-infobar-reject-button = Не зараз
 launch-on-login-infobar-final-message = <strong>Адкрываць { -brand-short-name } кожны раз па перазапуску камп'ютара?</strong> Каб кіраваць наладамі запуску, шукайце «запуск» у наладах.
 launch-on-login-infobar-final-reject-button = Не, дзякуй
     .accesskey = е
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-primary-button = Адкрываць мае спасылкі ў { -brand-short-name }
+tail-fox-spotlight-secondary-button = Не зараз
