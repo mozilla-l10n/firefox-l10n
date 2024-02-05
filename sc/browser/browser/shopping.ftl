@@ -12,7 +12,7 @@ shopping-beta-marker = Beta
 # Any changes to shopping-main-container-title and
 # shopping-beta-marker should also be reflected here.
 shopping-a11y-header =
-    .aria-label = Verificadore de retzintziones - beta
+    .aria-label = Verificadore de retzensiones - beta
 shopping-close-button =
     .title = Serra
 # This string is for notifying screen reader users that the
@@ -52,15 +52,15 @@ shopping-message-bar-warning-product-not-available =
 shopping-message-bar-warning-product-not-available-button2 = Su produtu sinnaladu est a disponimentu
 shopping-message-bar-thanks-for-reporting =
     .heading = Gràtzias de sa sinnalatzione
-    .message = Forsis amus a tènnere prus informatziones in pitzus de is retzintziones de custu produtu de immoe a 24 oras. Torra a controllare luego.
+    .message = Forsis amus a tènnere prus informatziones in pitzus de is retzensiones de custu produtu de immoe a 24 oras. Torra a controllare luego.
 shopping-message-bar-warning-product-not-available-reported =
     .heading = Àteras informatziones luego
-    .message = Forsis amus a tènnere prus informatziones in pitzus de is retzintziones de custu produtu de immoe a 24 oras. Torra a controllare luego.
-shopping-message-bar-analysis-in-progress-title2 = Controllende sa calidade de sa retzintzione
+    .message = Forsis amus a tènnere prus informatziones in pitzus de is retzensiones de custu produtu de immoe a 24 oras. Torra a controllare luego.
+shopping-message-bar-analysis-in-progress-title2 = Controllende sa calidade de sa retzensione
 shopping-message-bar-analysis-in-progress-message2 = Custu podet trigare finas a 60 segundos.
 # Variables:
 #  $percentage (Number) - The percentage complete that the analysis is, per our servers.
-shopping-message-bar-analysis-in-progress-with-amount = Controllende sa calidade de sa retzintzione ({ $percentage }%)
+shopping-message-bar-analysis-in-progress-with-amount = Controllende sa calidade de sa retzensione ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Non podimus verificare custas retzensiones
     .message = A dolu mannu, non podimus verificare sa calidade de sa retzensione pro tzertas genias de produtos. Pro esèmpiu, cartas regalu e trasmissione de vìdeos, mùsica e giogos.
@@ -85,10 +85,10 @@ shopping-show-less-button = Ammustra·nde prus pagu
 shopping-settings-label =
     .label = Cunfiguratzione
 shopping-settings-recommendations-toggle =
-    .label = Ammustra publitzidade in su verificadore de retzintziones
+    .label = Ammustra publitzidade in su verificadore de retzensiones
 shopping-settings-recommendations-learn-more2 = Dias pòdere bìdere publitzidades pro produtos rilevantes. Promovimus isceti produtos cun retzensiones fidadas. <a data-l10n-name="review-quality-url">Àteras informatziones</a>
-shopping-settings-opt-out-button = Disativa su verificadore de retzintziones
-powered-by-fakespot = Su verificadore de retzintziones impreat <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-opt-out-button = Disativa su verificadore de retzensiones
+powered-by-fakespot = Su verificadore de retzensiones impreat <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
@@ -106,8 +106,8 @@ shopping-review-reliability-label =
 ## Strings for the analysis explainer component
 
 shopping-analysis-explainer-label =
-    .label = Comente istabilimus sa calidade de is retzintziones
-shopping-analysis-explainer-intro2 = Impreamus tecnologias de inteligèntzia artifitziale (IA) dae { -fakespot-brand-full-name } pro controllare sa calidade de is retzintziones de produtos. Custu t'at a agiudare a verificare sa calidade sa retzintzione, non de su produtu.
+    .label = Comente istabilimus sa calidade de is retzensiones
+shopping-analysis-explainer-intro2 = Impreamus tecnologias de inteligèntzia artifitziale (IA) dae { -fakespot-brand-full-name } pro controllare sa calidade de is retzensiones de produtos. Custu t'at a agiudare a verificare sa calidade sa retzensione, non de su produtu.
 shopping-analysis-explainer-grades-intro = Assignamus a cada retzensione de produtu unu <strong>votu alfabèticu</strong> dae A a F.
 shopping-analysis-explainer-adjusted-rating-description = Sa <strong>valutatzione assentada</strong> si basat isceti subra de retzensiones chi cunsideramus fidadas.
 shopping-analysis-explainer-learn-more2 = Àteras informatziones in pitzus de <a data-l10n-name="review-quality-url">comente { -fakespot-brand-name } determinat sa calidade de is retzensiones</a>.
@@ -117,14 +117,14 @@ shopping-analysis-explainer-learn-more2 = Àteras informatziones in pitzus de <a
 shopping-analysis-explainer-highlights-description = Is elementos <strong>in evidèntzia</strong> benent dae is retzensiones in { $retailer } de is ùrtimas 80 dies chi cunsideramus fidadas.
 shopping-analysis-explainer-review-grading-scale-reliable = Retzensiones fidadas. Pensamus chi is retzensiones est probàbile chi bèngiant dae clientes reales chi ant lassadu retzensiones sintzeras e ogetivas.
 shopping-analysis-explainer-review-grading-scale-mixed = Pensamus chi ddoe at unu misturu de retzensiones fidadas e non fidadas.
-shopping-analysis-explainer-review-grading-scale-unreliable = Revisiones non fidadas. Pensamus chi is retzensiones est probàbile chi siant farsas o bèngiant dae utentes no ogetivos.
+shopping-analysis-explainer-review-grading-scale-unreliable = Retzensiones non fidadas. Pensamus chi is retzensiones est probàbile chi siant farsas o bèngiant dae utentes no ogetivos.
 
 ## Strings for UrlBar button
 
 shopping-sidebar-open-button2 =
-    .tooltiptext = Aberi su verificadore de retzintziones
+    .tooltiptext = Aberi su verificadore de retzensiones
 shopping-sidebar-close-button2 =
-    .tooltiptext = Serra su verificadore de retzintziones
+    .tooltiptext = Serra su verificadore de retzensiones
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -133,9 +133,9 @@ shopping-sidebar-close-button2 =
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header-2 = Nissuna informatzione ancora in pitzus de custas retzintziones
+shopping-unanalyzed-product-header-2 = Nissuna informatzione ancora in pitzus de custas retzensiones
 shopping-unanalyzed-product-message-2 = Pro ischire si is retzensiones sunt fidadas, verìfica·nde sa calidade. Nce bolent isceti 60 segundos.
-shopping-unanalyzed-product-analyze-button = Controlla sa calidade de sa retzintzione
+shopping-unanalyzed-product-analyze-button = Controlla sa calidade de sa retzensione
 
 ## Strings for the advertisement
 
