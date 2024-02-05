@@ -278,3 +278,13 @@ launch-on-login-infobar-reject-button = Nic nětko
 launch-on-login-infobar-final-message = <strong>{ -brand-short-name } ma so kóždy raz wočinić, hdyž swój ličak znowa startujeće?</strong> Zo byšće swoje startowe nastajenja rjadował, pytajće za „Startować“ w nastajenjach.
 launch-on-login-infobar-final-reject-button = Ně, dźakuju so
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Wotdźeržće wobćežne přesćěhowaki
+tail-fox-spotlight-primary-button = Moje wotkazy z { -brand-short-name } wočinić
+tail-fox-spotlight-secondary-button = Nic nětko
