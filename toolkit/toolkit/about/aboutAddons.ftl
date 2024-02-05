@@ -220,6 +220,9 @@ shortcuts-no-addons = У вас не ўключана ніводнага паш�
 shortcuts-no-commands = Наступныя пашырэнні не маюць спалучэнняў клавіш:
 shortcuts-input =
     .placeholder = Увядзіце спалучэнне клавіш
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Выдаліць цэтлік
 shortcuts-browserAction2 = Актываваць кнопку на паліцы прылад
 shortcuts-pageAction = Актываваць дзеянні старонкі
 shortcuts-sidebarAction = Паказаць/схаваць бакавую панэль
