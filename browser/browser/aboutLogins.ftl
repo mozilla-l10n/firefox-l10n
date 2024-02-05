@@ -473,9 +473,9 @@ about-logins-import-report-no-change =
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziale duplicada</div> <div data-l10n-name="not-imported">(nissuna importatzione)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Credentziales duplicadas</div> <div data-l10n-name="not-imported">(nissuna importatzione)</div>
     }
-about-logins-import-report-added2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">craes noas agiuntas</div>
+about-logins-import-report-added2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Craes noas agiuntas</div>
 about-logins-import-report-modified2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elementos atualizados</div>
-about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">elementos dòpios</div> <div data-l10n-name="not-imported">(no importados)</div>
+about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Intradas duplicadas</div> <div data-l10n-name="not-imported">(no importadas)</div>
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Faddina</div> <div data-l10n-name="not-imported">(nissuna importatzione)</div>
