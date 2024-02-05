@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Ачышчэнне ўсёй гісторыі
     .style = min-width: 34em
 clear-data-settings-label = Пры закрыцці { -brand-short-name } павінен аўтаматычна ачышчаць усё
+sanitize-on-shutdown-description = Аўтаматычна выдаляць усе азначаныя элементы пры закрыцці { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,12 +55,19 @@ history-section-label = Гісторыю
 item-history-and-downloads =
     .label = Гісторыя аглядання і сцягванняў
     .accesskey = а
-item-browsing-and-search =
-    .label = Наведаныя сайты, захаваную інфармацыю формаў і пошукі
-    .accesskey = м
+item-history-form-data-downloads =
+    .label = Гісторыю
+    .accesskey = р
+item-history-form-data-downloads-description = Ачышчае гісторыю сайтаў і сцягвання, інфармацыю пра захаваныя формы і пошук
 item-cookies =
     .label = Кукі
     .accesskey = К
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Кукі і дадзеныя сайтаў ({ $amount } { $unit })
+    .accesskey = у
 item-cookies-site-data =
     .label = Кукі і дадзеныя сайтаў
     .accesskey = у
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Кэш
     .accesskey = К
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Часовыя кэшаваныя файлы і старонкі ({ $amount } { $unit })
+    .accesskey = а
 item-cached-content =
     .label = Часовыя кэшаваныя файлы і старонкі
     .accesskey = а
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = Налады сайта
     .accesskey = д
 item-site-prefs-description = Скідвае вашы дазволы і параметры сайтаў да зыходных налад
-item-download-history =
-    .label = Спіс сцягнутых файлаў
-    .accesskey = С
 data-section-label = Дадзеныя
 item-site-settings =
     .label = Налады сайтаў
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = Ачысціць зараз
 sanitize-button-ok2 =
     .label = Ачысціць
+sanitize-button-ok-on-shutdown =
+    .label = Захаваць змены
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
