@@ -26,6 +26,8 @@ policy-Bookmarks = Crea sinnalibros in sa barra de is sinnalibros, in su menù d
 policy-CaptivePortal = Ativa o disativa su suportu pro portales cautivos.
 policy-CertificatesDescription = Agiunghe tzertificados o imprea tzertificados integrados.
 policy-Cookies = Permite o nega a is sitos de definire testimòngios.
+# Containers in this context is referring to container tabs in Firefox.
+policy-Containers = Cunfigura polìticas acapiadas a cuntenidores.
 policy-DisabledCiphers = Disativa is tzifraduras.
 policy-DefaultDownloadDirectory = Cunfigura sa cartella predefinida de iscarrigamentu.
 policy-DisableAppUpdate = Impedi a su navigadore de s'agiornare.

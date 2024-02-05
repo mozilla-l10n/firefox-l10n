@@ -408,6 +408,11 @@ about-logins-import-dialog-items-modified2 =
         [one] <span>Elementu atualizadu:</span><span data-l10n-name="count">{ $count }</span>
        *[other] <span>Elementos atualizados:</span><span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Intradas duplicadas agatadas:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nissuna importatzione)</span>
+       *[other] <span>Intradas duplicadas agatadas:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nissuna importatzione)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Faddina:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nissuna importatzione)</span>
