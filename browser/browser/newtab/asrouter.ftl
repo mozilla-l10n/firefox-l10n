@@ -269,3 +269,14 @@ launch-on-login-infobar-reject-button = 나중에
 launch-on-login-infobar-final-message = <strong>컴퓨터를 다시 시작할 때마다 { -brand-short-name }를 여시겠습니까?</strong> 시작 설정을 관리하려면, 설정에서 "시작"을 검색하세요.
 launch-on-login-infobar-final-reject-button = 아니요
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = 성가신 추적기로부터 벗어나세요
+tail-fox-spotlight-subtitle = 귀찮은 광고 추적기와 작별하고 더 안전하고 빠른 인터넷 경험을 누리세요.
+tail-fox-spotlight-primary-button = { -brand-short-name }로 내 링크 열기
+tail-fox-spotlight-secondary-button = 나중에
