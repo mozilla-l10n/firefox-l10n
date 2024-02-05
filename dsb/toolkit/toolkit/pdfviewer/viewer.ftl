@@ -333,6 +333,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Wobraz pśidaś
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Tłustosć
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Tłustosć změniś, gaž se zapiski wuzwiguju, kótarež tekst njejsu
 pdfjs-free-text =
     .aria-label = Tekstowy editor
 pdfjs-free-text-default-content = Zachopśo pisaś…

@@ -1011,6 +1011,7 @@ sitedata-delete-on-close =
     .label = Cookieje a sedłowe daty wulašowaś, gaž se { -brand-short-name } zacynja
     .accesskey = s
 sitedata-delete-on-close-private-browsing = W stawnem priwatnem modusu se cookieje a sedłowe daty pśecej wulašuju, gaž se { -brand-short-name } zacynja.
+sitedata-delete-on-close-private-browsing2 = Na zakłaźe wašych nastajenjow { -brand-short-name } cookieje a sedłowe daty z wašogo pósejźenja lašujo, gaž wobglědowak zacynjaśo.
 sitedata-allow-cookies-option =
     .label = Cookieje a sedłowe daty akceptěrowaś
     .accesskey = C

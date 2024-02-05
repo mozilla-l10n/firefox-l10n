@@ -12,6 +12,7 @@
 
 policy-3rdparty = Pšawidła nastajiś, ku kótarymž WebExtensions maju pśistup pśez chrome.storage.managed.
 policy-AllowedDomainsForApps = Definěrujśo domeny, kótarež směju pśistup k Google Workspace měś.
+policy-AllowFileSelectionDialogs = Dialogi za wuběranje datajow dowóliś.
 policy-AppAutoUpdate = Awtomatiske aktualizacije nałoženjow zmóžniś abo znjemóžniś.
 policy-AppUpdatePin = Zajźowaś tomu, až se { -brand-short-name } wušej pódaneje wersije aktualizěrujo.
 policy-AppUpdateURL = Swójski aktualizěrowański URL za nałoženje nastajiś.
