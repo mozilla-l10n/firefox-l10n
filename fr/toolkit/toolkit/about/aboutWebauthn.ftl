@@ -39,6 +39,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Erreur : code PIN incorrect. Veuillez réessayer. Il vous reste { $retriesLeft } tentatives.
     }
 about-webauthn-results-pin-blocked-error = Erreur : il ne reste plus aucune tentative et votre appareil a été verrouillé, car un code PIN incorrect a été saisi trop de fois. L’appareil doit être réinitialisé.
+about-webauthn-results-pin-not-set-error = Erreur : code PIN non défini. Cette opération nécessite la protection par code PIN.
 about-webauthn-results-pin-too-short-error = Erreur : le code PIN saisi est trop court.
 about-webauthn-results-pin-too-long-error = Erreur : le code PIN saisi est trop long.
 about-webauthn-results-pin-auth-blocked-error = Erreur : trop de tentatives infructueuses ont été effectuées à la suite et l’authentification par code PIN a été temporairement bloquée. Votre appareil nécessite d’être remis sous tension (débranchez-le et rebranchez-le).
@@ -63,6 +64,7 @@ about-webauthn-list-credentials-button = Lister les informations d’authentific
 about-webauthn-cancel-button = Annuler
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Supprimer
+about-webauthn-update-button = Mettre à jour
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
