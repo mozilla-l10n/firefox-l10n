@@ -49,6 +49,29 @@ login-list-count =
         [one] üks konto
        *[other] { $count } kontot
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } konto, kokku { $total }
+       *[other] { $count } kontot, kokku { $total }
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } parool
+       *[other] { $count } parooli
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } parool, kokku { $total }
+       *[other] { $count } parooli, kokku { $total }
+    }
 login-list-sort-label-text = Sortimine:
 login-list-name-option = nimi  (A-Y)
 login-list-name-reverse-option = nimi (Y-A)
@@ -58,8 +81,10 @@ about-logins-login-list-alerts-option = Hoiatused
 login-list-last-changed-option = viimati muudetud
 login-list-last-used-option = viimati kasutatud
 login-list-intro-title = Kasutajakontosid ei leitud
+login-list-intro-title2 = Paroole pole salvestatud
 login-list-intro-description = { -brand-product-name }is parooli salvestamisel ilmub see siin nähtavale.
 about-logins-login-list-empty-search-title = Kasutajakontosid ei leitud
+about-logins-login-list-empty-search-title2 = Paroole ei leitud
 about-logins-login-list-empty-search-description = Otsingule ei leitud vasteid.
 login-list-item-title-new-login = Uus kasutajakonto
 login-list-item-subtitle-new-login = Sisesta oma kasutajatunnused
