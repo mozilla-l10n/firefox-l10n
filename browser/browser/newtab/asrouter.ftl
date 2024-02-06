@@ -269,3 +269,14 @@ launch-on-login-infobar-reject-button = Không phải bây giờ
 launch-on-login-infobar-final-message = <strong>Mở { -brand-short-name } mỗi khi bạn khởi động lại máy tính?</strong> Để quản lý tùy chọn khởi động của bạn, hãy tìm kiếm “khởi động” trong cài đặt.
 launch-on-login-infobar-final-reject-button = Không phải bây giờ
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Loại bỏ những trình theo dõi phiền toái phía sau bạn
+tail-fox-spotlight-subtitle = Nói lời tạm biệt với những trình theo dõi quảng cáo phiền toái và tận hưởng trải nghiệm Internet nhanh chóng, an toàn hơn.
+tail-fox-spotlight-primary-button = Mở liên kết của tôi bằng { -brand-short-name }
+tail-fox-spotlight-secondary-button = Không phải bây giờ
