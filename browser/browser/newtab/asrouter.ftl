@@ -272,3 +272,9 @@ launch-on-login-infobar-reject-button = Inte nu
 launch-on-login-infobar-final-message = <strong>Öppna { -brand-short-name } varje gång du startar om datorn?</strong> För att hantera dina startinställningar, sök "start" i inställningarna.
 launch-on-login-infobar-final-reject-button = Nej tack
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-subtitle = Säg adjö till irriterande annonsspårare och njut av en säkrare, snabb internetupplevelse.
+tail-fox-spotlight-primary-button = Öppna mina länkar med { -brand-short-name }
+tail-fox-spotlight-secondary-button = Inte nu
