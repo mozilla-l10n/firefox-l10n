@@ -181,6 +181,8 @@ confirmation-dialog-dismiss-button =
     .title = Sefsex
 about-logins-confirm-remove-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Kkes awal uffir ?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Ur tezmireḍ ara ad tesfesxeḍ tigawt-a.
 about-logins-confirm-remove-dialog-confirm-button = Kkes
