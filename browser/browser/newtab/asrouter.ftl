@@ -284,3 +284,14 @@ launch-on-login-infobar-reject-button = Nid nawr
 launch-on-login-infobar-final-message = <strong>Agor { -brand-short-name } bob tro y byddwch yn ailgychwyn eich cyfrifiadur?</strong> I reoli eich dewisiadau Cychwyn, chwiliwch am “cychwyn neu startup” yn y gosodiadau.
 launch-on-login-infobar-final-reject-button = Dim diolch
     .accesskey = D
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Cadw tracwyr blin oddi ar eich cefn
+tail-fox-spotlight-subtitle = Ffarweliwch â thracwyr hysbysebion annifyr a symud i brofiad rhyngrwyd mwy diogel a chyflym.
+tail-fox-spotlight-primary-button = Agor fy nolenni gyda { -brand-short-name }
+tail-fox-spotlight-secondary-button = Nid nawr

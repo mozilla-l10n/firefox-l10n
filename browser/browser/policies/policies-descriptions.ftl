@@ -12,6 +12,7 @@
 
 policy-3rdparty = Gosodwch bolisïau y gall WebExtensions gael mynediad atyn nhw trwy chrome.storage.managed.
 policy-AllowedDomainsForApps = Diffinio parthau sy'n cael eu caniatáu i gael mynediad at Google Workpace.
+policy-AllowFileSelectionDialogs = Caniatáu deialogau dewis ffeiliau.
 policy-AppAutoUpdate = Galluogi neu analluogi diweddaru rhaglen yn awtomatig.
 policy-AppUpdatePin = Rhwystro { -brand-short-name } rhag cael ei ddiweddaru y tu hwnt i'r fersiwn penodedig.
 policy-AppUpdateURL = Gosod URL diweddaru ap cyfaddas.
