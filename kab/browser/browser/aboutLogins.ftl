@@ -26,6 +26,7 @@ about-logins-menu-menuitem-import-from-another-browser = Kter seg iminig nniḍe
 about-logins-menu-menuitem-import-from-a-file = Kter seg ufaylu…
 about-logins-menu-menuitem-export-logins = Sifeḍ inekcam…
 about-logins-menu-menuitem-remove-all-logins = Kkes meṛṛa inekcumen…
+about-logins-menu-menuitem-remove-all-logins2 = Kkes akk awalen uffiren …
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] iɣewwaṛen
@@ -52,6 +53,13 @@ login-list-filtered-count =
         [one] { $count } seg { $total } unekcum
        *[other] { $count } seg { $total } inekcam
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $quantity } n wawal uffir
+       *[other] { $count } n wawalen uffiren
+    }
 login-list-sort-label-text = Smizzwer s:
 login-list-name-option = Isem (A-Z)
 login-list-name-reverse-option = Isem (Z-A)
@@ -61,6 +69,7 @@ about-logins-login-list-alerts-option = Ilɣa
 login-list-last-changed-option = Asnifel aneggaru
 login-list-last-used-option = Aseqdec anneggaru
 login-list-intro-title = Ulac inekcam yettwafen
+login-list-intro-title2 = Ulac awalen uffiren i yettwaskelsen
 login-list-intro-description = Ticki teskelseḍ awal uffir deg { -brand-product-name }, ad d-iban dagi.
 about-logins-login-list-empty-search-title = Ulac inekcam yettwafen
 about-logins-login-list-empty-search-title2 = Ulac awalen uffiren i yettwafen
@@ -212,12 +221,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akkaed { -fxaccount-brand-name }-inek·inem. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
         [one] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akkaed { -fxaccount-brand-name }-inek·inem. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
        *[other] Aya ad yekkes inekcumen i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akkaed { -fxaccount-brand-name }-inek·inem. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akked umiḍan-ik·im. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
-        [one] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akked umiḍan-ik·im. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
-       *[other] Aya ad yekkes inekcumen i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akked umiḍan-ik·im. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
     }
 
 ##
