@@ -1003,6 +1003,7 @@ sitedata-delete-on-close =
     .label = Ta bort kakor och webbplatsdata när { -brand-short-name } stängs
     .accesskey = k
 sitedata-delete-on-close-private-browsing = I permanent privat surfläge raderas alltid kakor och webbplatsdata när { -brand-short-name } är stängd.
+sitedata-delete-on-close-private-browsing2 = Baserat på dina historikinställningar, raderar { -brand-short-name } kakor och webbplatsdata från din session när du stänger webbläsaren.
 sitedata-allow-cookies-option =
     .label = Tillåt kakor och webbplatsdata
     .accesskey = T

@@ -329,6 +329,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Lägg till bild
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Tjocklek
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Ändra tjocklek när du markerar andra objekt än text
 pdfjs-free-text =
     .aria-label = Textredigerare
 pdfjs-free-text-default-content = Börja skriva…
