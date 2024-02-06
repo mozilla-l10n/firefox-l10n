@@ -12,6 +12,7 @@
 
 policy-3rdparty = ਉਹ ਨੀਤੀਆਂ ਸੈਟ ਕਰੋ ਜੋ WebExtensions chrome.storage.managed ਰਾਹੀਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੀਆਂ ਹਨ।
 policy-AllowedDomainsForApps = Google Workspace ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਡੋਮੇਨਾਂ ਦੀ ਪਰਿਭਾਸ਼ਾ।
+policy-AllowFileSelectionDialogs = ਫਾਇਲ ਚੁਣਨ ਡਾਈਲਾਗ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ।
 policy-AppAutoUpdate = ਆਪਣੇ-ਆਪ ਐਪਲੀਕੇਸ਼ਨ ਅੱਪਡੇਟ ਨੂੰ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।
 policy-AppUpdatePin = { -brand-short-name } ਨੂੰ ਖਾਸ ਵਰਜ਼ਨ ਤੋਂ ਅੱਗੇ ਅੱਪਡੇਟ ਹੋਣ ਤੋਂ ਰੋਕੋ।
 policy-AppUpdateURL = ਕਸਟਮ ਐਪ ਅਪਡੇਟ URL ਸੈੱਟ ਕਰੋ।
