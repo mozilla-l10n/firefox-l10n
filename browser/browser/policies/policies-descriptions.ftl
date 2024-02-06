@@ -12,6 +12,7 @@
 
 policy-3rdparty = Beliedsrigels ynstelle dy’t troch WebExtensions benadere wurde kinne fia chrome.storage.managed.
 policy-AllowedDomainsForApps = Definiearje domeinen dy’t tagong hawwe ta Google Workspace.
+policy-AllowFileSelectionDialogs = Bestânsseleksjedialoochfinsters tastean.
 policy-AppAutoUpdate = Automatyske applikaasjefernijing yn- of útskeakelje.
 policy-AppUpdatePin = Foarkomme dat { -brand-short-name } fernijd wurdt foarby de opjûne ferzje.
 policy-AppUpdateURL = Oanpaste app-fernijings-URL ynstelle.
