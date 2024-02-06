@@ -329,6 +329,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Kép hozzáadása
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Vastagság
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Vastagság módosítása, ha nem szöveges elemeket emel ki
 pdfjs-free-text =
     .aria-label = Szövegszerkesztő
 pdfjs-free-text-default-content = Kezdjen el gépelni…
