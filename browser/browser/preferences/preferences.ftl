@@ -1003,6 +1003,7 @@ sitedata-delete-on-close =
     .label = Eliminar cookies y datos de sitio cuando { -brand-short-name } sea cerrado
     .accesskey = c
 sitedata-delete-on-close-private-browsing = En el modo de navegación privada permanente, las cookies y los datos de sitio siempre serán limpiados cuando { -brand-short-name } sea cerrado.
+sitedata-delete-on-close-private-browsing2 = En base a tus ajustes de historial, { -brand-short-name } elimina las cookies y los datos del sitio de tu sesión cuando cierras el navegador.
 sitedata-allow-cookies-option =
     .label = Aceptar cookies y datos de sitio
     .accesskey = A
