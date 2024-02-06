@@ -899,6 +899,10 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Megnyitná az előző lapokat?</strong> Visszaállíthatja az előző munkamenetét a { -brand-short-name } alkalmazásmenüben <img data-l10n-name="icon"/>, az Előzmények alatt.
 restore-session-startup-suggestion-button = Mutassa meg hogyan
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = A szervezete blokkolta a helyi fájlok elérését ezen a számítógépen
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = A { -brand-short-name } automatikusan adatokat küld a { -vendor-short-name } számára, hogy javíthassuk a felhasználói élményt.

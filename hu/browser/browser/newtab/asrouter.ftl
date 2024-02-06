@@ -272,3 +272,14 @@ launch-on-login-infobar-reject-button = Most nem
 launch-on-login-infobar-final-message = <strong>Mindig megnyissa a { -brand-short-name(case: "accusative") } a számítógép újraindításakor?</strong> Az indítási beállítások kezeléséhez keressen rá az „indítás” szóra a beállításokban.
 launch-on-login-infobar-final-reject-button = Köszönöm, nem
     .accesskey = n
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Rázza le a bosszantó nyomkövetőket
+tail-fox-spotlight-subtitle = Mondjon búcsút a bosszantó hirdetéskövetőknek, és élvezze a biztonságosabb, gyorsabb internetezést.
+tail-fox-spotlight-primary-button = Saját hivatkozások megnyitása a { -brand-short-name(case: "instrumental") }
+tail-fox-spotlight-secondary-button = Most nem
