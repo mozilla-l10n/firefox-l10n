@@ -892,6 +892,10 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Đã mở các thẻ trước đó?</strong> Bạn có thể khôi phục phiên trước đó của mình từ menu ứng dụng { -brand-short-name } <img data-l10n-name="icon"/>, trong mục Lịch sử.
 restore-session-startup-suggestion-button = Hướng dẫn cho tôi
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Tổ chức của bạn đã chặn quyền truy cập vào các tập tin cục bộ trên máy tính này
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } tự động gửi dữ liệu về { -vendor-short-name } để chúng tôi có thể cải thiện trải nghiệm của bạn.

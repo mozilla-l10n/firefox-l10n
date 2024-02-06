@@ -220,7 +220,7 @@ pdfjs-find-previous-button-label = Trước
 pdfjs-find-next-button =
     .title = Tìm cụm từ ở phần sau
 pdfjs-find-next-button-label = Tiếp
-pdfjs-find-highlight-checkbox = Tô sáng tất cả
+pdfjs-find-highlight-checkbox = Đánh dấu tất cả
 pdfjs-find-match-case-checkbox-label = Phân biệt hoa, thường
 pdfjs-find-match-diacritics-checkbox-label = Khớp dấu phụ
 pdfjs-find-entire-word-checkbox-label = Toàn bộ từ
@@ -294,8 +294,8 @@ pdfjs-editor-stamp-button =
     .title = Thêm hoặc chỉnh sửa hình ảnh
 pdfjs-editor-stamp-button-label = Thêm hoặc chỉnh sửa hình ảnh
 pdfjs-editor-highlight-button =
-    .title = Tô sáng
-pdfjs-editor-highlight-button-label = Tô sáng
+    .title = Đánh dấu
+pdfjs-editor-highlight-button-label = Đánh dấu
 
 ## Remove button for the various kind of editor.
 
@@ -321,6 +321,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Thêm hình ảnh
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Độ dày
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Thay đổi độ dày khi đánh dấu các mục không phải là văn bản
 pdfjs-free-text =
     .aria-label = Trình sửa văn bản
 pdfjs-free-text-default-content = Bắt đầu nhập…
