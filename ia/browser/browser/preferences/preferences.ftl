@@ -1003,6 +1003,7 @@ sitedata-delete-on-close =
     .label = Deler datos de cookies e sitos quando { -brand-short-name } es claudite
     .accesskey = D
 sitedata-delete-on-close-private-browsing = Durante le modo de navigation private permanente, le cookies e le datos del sito sera sempre cancellate al clausura de { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = In base al parametros del chronologia, le cookies e le datos del sitos web sera eliminate quando tu claudera { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Acceptar le cookies e le datos de sito
     .accesskey = A
