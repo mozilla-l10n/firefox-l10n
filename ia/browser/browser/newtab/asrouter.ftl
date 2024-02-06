@@ -272,3 +272,13 @@ launch-on-login-infobar-reject-button = Non ora
 launch-on-login-infobar-final-message = <strong>Aperir { -brand-short-name } quando tu reinitia tu computator?</strong> Pro gerer tu preferentias initial. cerca “initio” in Parametros.
 launch-on-login-infobar-final-reject-button = No, gratias
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Libera te del spias que tracia tu datos
+tail-fox-spotlight-primary-button = Aperir mi ligamines con { -brand-short-name }
+tail-fox-spotlight-secondary-button = Non ora
