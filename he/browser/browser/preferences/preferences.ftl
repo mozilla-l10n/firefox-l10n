@@ -1000,6 +1000,7 @@ sitedata-delete-on-close =
     .label = מחיקת עוגיות ונתוני אתרים עם סגירת { -brand-short-name }
     .accesskey = ח
 sitedata-delete-on-close-private-browsing = במצב גלישה פרטית קבועה, עוגיות ונתוני אתרים ינוקו תמיד כש־{ -brand-short-name } נסגר.
+sitedata-delete-on-close-private-browsing2 = בהתאם להגדרות ההיסטוריה שלך, { -brand-short-name } מוחק עוגיות ונתוני אתרים מההפעלה שלך בעת סגירת הדפדפן.
 sitedata-allow-cookies-option =
     .label = קבלת עוגיות ונתוני אתרים
     .accesskey = ק
