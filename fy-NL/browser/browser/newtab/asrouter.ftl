@@ -272,3 +272,14 @@ launch-on-login-infobar-reject-button = No net
 launch-on-login-infobar-final-message = <strong>{ -brand-short-name } iepenje elke kear dat jo jo kompjûter opnij starte?</strong> Sykje nei ‘opstarten’ yn jo ynstellingen om jo opstartfoarkarren te behearen.
 launch-on-login-infobar-final-reject-button = Nee tankewol
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Lit ferfelende trackers jo net folgje
+tail-fox-spotlight-subtitle = Sis farwol tsjin ferfelende advertinsjetrackers en genietsje fan in feiligere, rappe ynternetûnderfining.
+tail-fox-spotlight-primary-button = Myn keppelingen iepenje mei { -brand-short-name }
+tail-fox-spotlight-secondary-button = No net

@@ -1003,6 +1003,7 @@ sitedata-delete-on-close =
     .label = Cookies en websitegegevens fuortsmite sa gau as { -brand-short-name } sluten wurdt
     .accesskey = C
 sitedata-delete-on-close-private-browsing = Yn permaninte priveenavigaasjemodus wurde cookies en websitegegevens altyd wiske sa gau as { -brand-short-name } sluten wurdt.
+sitedata-delete-on-close-private-browsing2 = Op grûn fan jo skiednisynstellingen smyt { -brand-short-name } cookies en websitegegevens út jo sesje fuort as jo de browser slute.
 sitedata-allow-cookies-option =
     .label = Cookies en websitegegevens akseptearje
     .accesskey = a

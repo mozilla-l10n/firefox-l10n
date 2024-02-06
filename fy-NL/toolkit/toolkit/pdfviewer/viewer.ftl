@@ -329,6 +329,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Ofbylding tafoegje
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Tsjokte
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Tsjokte wizigje by aksintuearring fan oare items as tekst
 pdfjs-free-text =
     .aria-label = Tekstbewurker
 pdfjs-free-text-default-content = Begjin mei typen…
