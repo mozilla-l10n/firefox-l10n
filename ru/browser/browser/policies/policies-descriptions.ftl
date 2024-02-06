@@ -12,6 +12,7 @@
 
 policy-3rdparty = Устанавливает политики, по которым WebExtensions могут получать доступ через chrome.storage.managed.
 policy-AllowedDomainsForApps = Определяет домены, которым разрешен доступ к Google Workspace.
+policy-AllowFileSelectionDialogs = Разрешить диалоговые окна выбора файлов.
 policy-AppAutoUpdate = Включает или отключает автообновление приложения.
 policy-AppUpdatePin = Не позволяет { -brand-short-name } обновляться выше указанной версии.
 policy-AppUpdateURL = Устанавливает собственный URL обновления приложения.
