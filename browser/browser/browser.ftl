@@ -899,6 +899,10 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Eerdere tabbladen openen?</strong> U kunt uw vorige sessie herstellen vanuit het toepassingsmenu van { -brand-short-name } <img data-l10n-name="icon"/>, onder Geschiedenis.
 restore-session-startup-suggestion-button = Tonen hoe
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Uw organisatie heeft toegang tot lokale bestanden op deze computer geblokkeerd.
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } verzendt automatisch een aantal gegevens naar { -vendor-short-name }, zodat we uw ervaring kunnen verbeteren.

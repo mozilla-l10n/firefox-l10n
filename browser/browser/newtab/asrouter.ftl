@@ -272,3 +272,8 @@ launch-on-login-infobar-reject-button = Niet nu
 launch-on-login-infobar-final-message = <strong>{ -brand-short-name } openen telkens dat u uw computer herstart?</strong> Zoek naar ‘opstarten’ in uw instellingen om uw opstartvoorkeuren te beheren.
 launch-on-login-infobar-final-reject-button = Nee bedankt
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-primary-button = Mijn koppelingen openen met { -brand-short-name }
+tail-fox-spotlight-secondary-button = Niet nu
