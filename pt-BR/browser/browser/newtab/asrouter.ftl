@@ -280,5 +280,6 @@ launch-on-login-infobar-final-reject-button = Não, obrigado
 # If the localization of this message is challenging, consider using a simplified
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
 tail-fox-spotlight-title = Mantenha rastreadores incômodos fora do seu caminho
+tail-fox-spotlight-subtitle = Diga adeus a rastreadores irritantes de anúncios e relaxe em uma experiência de internet mais rápida e segura.
 tail-fox-spotlight-primary-button = Abrir meus links com o { -brand-short-name }
 tail-fox-spotlight-secondary-button = Agora não
