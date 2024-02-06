@@ -265,3 +265,8 @@ launch-on-login-infobar-reject-button = לא כעת
 launch-on-login-infobar-final-message = <strong>לפתוח את { -brand-short-name } בכל פעם שהמחשב שלך יופעל מחדש?</strong> כדי לנהל את העדפות האתחול שלך, יש לחפש ״אתחול״ בהגדרות.
 launch-on-login-infobar-final-reject-button = לא תודה
     .accesskey = ל
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-primary-button = פתיחת הקישורים שלי באמצעות { -brand-short-name }
+tail-fox-spotlight-secondary-button = לא כעת
