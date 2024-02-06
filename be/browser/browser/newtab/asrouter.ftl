@@ -209,6 +209,7 @@ cfr-cbh-dismiss-button = Не зараз
     .accesskey = Н
 cookie-banner-blocker-cfr-header = { -brand-short-name } толькі што заблакаваў для вас кукі
 cookie-banner-blocker-cfr-body = Мы аўтаматычна адмаўляемся ад многіх выплыўных вокнаў пра кукі, каб сайтам было цяжэй асочваць вас.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } толькі што адхіліў банер кукі для вас
 cookie-banner-blocker-onboarding-body = Менш адцягнення ўвагі, менш кукі, якія асочваюць вас на гэтым сайце.
 cookie-banner-blocker-onboarding-learn-more = Падрабязней
 
@@ -277,5 +278,11 @@ launch-on-login-infobar-final-reject-button = Не, дзякуй
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Трымайце надакучлівыя трэкеры далей ад сябе
+tail-fox-spotlight-subtitle = Развітайцеся з надакучлівымі рэкламнымі трэкерамі і пасяліцеся ў больш бяспечным і хуткім Інтэрнэце.
 tail-fox-spotlight-primary-button = Адкрываць мае спасылкі ў { -brand-short-name }
 tail-fox-spotlight-secondary-button = Не зараз

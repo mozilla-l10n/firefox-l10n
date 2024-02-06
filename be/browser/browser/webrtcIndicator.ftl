@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = картка
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Невядомая крыніца
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Прылады з доступам да картак
     .accesskey = п
-
 webrtc-sharing-window = Вы даяце супольны доступ да іншага акна праграмы.
 webrtc-sharing-browser-window = Вы адкрываеце доступ да { -brand-short-name }.
 webrtc-sharing-screen = Вы даяце супольны доступ да ўсяго экрана.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Кіраваць сумесным доступам
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Кіраваць сумесным доступам на “{ $streamTitle }”
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Абагуленне камеры з “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -103,7 +94,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Абагуленне камеры з { $tabCount } карткамі
            *[many] Абагуленне камеры з { $tabCount } карткамі
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Абагуленне мікрафона з “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -113,7 +103,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] Абагуленне мікрафона з { $tabCount } карткамі
            *[many] Абагуленне мікрафона з { $tabCount } карткамі
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Абагуленне праграмы з “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -123,7 +112,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Абагуленне праграмы з { $tabCount } карткамі
            *[many] Абагуленне праграмы з { $tabCount } карткамі
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Абагуленне экрану з “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -133,7 +121,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Абагуленне экрана з { $tabCount } карткамі
            *[many] Абагуленне экрана з { $tabCount } карткамі
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Абагуленне акна з “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -143,7 +130,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Абагуленне акна з { $tabCount } карткамі
            *[many] Абагуленне акна з { $tabCount } карткамі
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Абагуленне карткі з “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -171,6 +157,20 @@ webrtc-allow-share-camera-and-audio-capture = Дазволіць { $origin } в�
 webrtc-allow-share-screen-and-microphone = Дазволіць { $origin } выкарыстоўваць ваш мікрафон і бачыць ваш экран?
 webrtc-allow-share-screen-and-audio-capture = Дазволіць { $origin } слухаць аўдыё з гэтай карткі і бачыць ваш экран?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Дазволіць гэтаму лакальнаму файлу слухаць аўдыё з гэтай карткі?
+webrtc-allow-share-camera-with-file = Дазволіць гэтаму лакальнаму файлу выкарыстоўваць вашу камеру?
+webrtc-allow-share-microphone-with-file = Дазволіць гэтаму лакальнаму файлу выкарыстоўваць ваш мікрафон?
+webrtc-allow-share-screen-with-file = Дазволіць гэтаму лакальнаму файлу бачыць ваш экран?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Дазволіць гэтаму лакальнаму файлу выкарыстоўваць іншыя дынамікі?
+webrtc-allow-share-camera-and-microphone-with-file = Дазволіць гэтаму лакальнаму файлу выкарыстоўваць камеру і мікрафон?
+webrtc-allow-share-camera-and-audio-capture-with-file = Дазволіць гэтаму лакальнаму файлу выкарыстоўваць вашу камеру і слухаць аўдыё з гэтай карткі?
+webrtc-allow-share-screen-and-microphone-with-file = Дазволіць гэтаму лакальнаму файлу выкарыстоўваць ваш мікрафон і бачыць ваш экран?
+webrtc-allow-share-screen-and-audio-capture-with-file = Дазволіць гэтаму лакальнаму файлу слухаць аўдыё з гэтай карткі і бачыць ваш экран?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -191,7 +191,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Дазволіц
 
 webrtc-share-screen-warning = Паказвайце экран толькі сайтам, якім давяраеце. Такі паказ дапамагае падманлівым сайтам праглядаць старонкі, быццам гэта вы, выкрадаючы вашу прыватную інфармацыю.
 webrtc-share-browser-warning = Паказвайце { -brand-short-name } толькі сайтам, якім давяраеце. Такі паказ дапамагае падманлівым сайтам праглядаць старонкі, быццам гэта вы, выкрадаючы вашу прыватную інфармацыю.
-
 webrtc-share-screen-learn-more = Падрабязней
 webrtc-pick-window-or-screen = Выберыце акно ці экран
 webrtc-share-entire-screen = Увесь экран
@@ -228,7 +227,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Памятаць гэтае рашэнне
 webrtc-mute-notifications-checkbox = Адключыць абвесткі сайтаў у час абагульвання
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не можа дазволіць пастаянны доступ да вашага экрана.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не можа даць сталы доступ да аўдыё з карткі, не запытваючы, якой з картак дзяліцца.
 webrtc-reason-for-no-permanent-allow-insecure = Вашае злучэнне з гэтым сайтам небяспечнае. Каб вас абараніць, { -brand-short-name } дасць доступ толькі на гэты сеанс.
