@@ -168,6 +168,9 @@ about-logins-export-password-os-auth-dialog-message-win = Para exportas as suas 
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = exportar credenciais e palavras-passe guardadas
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = exportar palavras-passe guardadas
 
 ## Primary Password notification
 
@@ -185,6 +188,8 @@ about-logins-confirm-remove-dialog-title = Remover esta credencial?
 confirm-delete-dialog-message = Esta ação não pode ser anulada.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Remover palavra-passe
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Não pode desfazer esta ação.
 about-logins-confirm-remove-dialog-confirm-button = Remover
 
 ## Variables
@@ -227,6 +232,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Exportar credenciais e palavras-passe
 about-logins-confirm-export-dialog-message = As suas palavras-passe serão guardadas como texto legível (por exemplo, BadP@ssw0rd) para que qualquer pessoa que possa abrir o ficheiro exportado as possa visualizar.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+about-logins-confirm-export-dialog-confirm-button2 = Continuar com a exportação
 about-logins-alert-import-title = Importação concluída
 about-logins-alert-import-message = Ver resumo detalhado da importação
 confirm-discard-changes-dialog-title = Descartar alterações não guardadas?
