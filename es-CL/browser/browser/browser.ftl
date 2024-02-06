@@ -899,6 +899,10 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>¿Abrir pestañas anteriores?</strong> Puedes restaurar tu sesión anterior desde el menú de la aplicación { -brand-short-name } <img data-l10n-name = "icon" />, bajo Historial.
 restore-session-startup-suggestion-button = Mostrar cómo
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Tu organización ha bloqueado el acceso a archivos locales en este computador
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } envía automáticamente algunos datos a { -vendor-short-name } para que podamos mejorar tu experiencia.
