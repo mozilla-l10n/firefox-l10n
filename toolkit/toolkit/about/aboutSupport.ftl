@@ -276,6 +276,7 @@ try-newer-driver = Bloccato a causa della versione dei driver della scheda grafi
 clear-type-parameters = Parametri ClearType
 
 compositing = Composizione
+support-font-determination = Informazioni di debug per visibilità caratteri
 hardware-h264 = Decodifica hardware H264
 main-thread-no-omtc = thread principale, no OMTC
 yes = Sì
