@@ -272,3 +272,13 @@ launch-on-login-infobar-reject-button = Agora não
 launch-on-login-infobar-final-message = <strong>Abrir o { -brand-short-name } sempre que reiniciar o computador?</strong> Para gerenciar suas preferências de início, pesquise “iniciar” nas configurações.
 launch-on-login-infobar-final-reject-button = Não, obrigado
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Mantenha rastreadores incômodos fora do seu caminho
+tail-fox-spotlight-primary-button = Abrir meus links com o { -brand-short-name }
+tail-fox-spotlight-secondary-button = Agora não
