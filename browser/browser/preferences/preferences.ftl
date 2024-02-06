@@ -1007,6 +1007,7 @@ sitedata-delete-on-close =
     .label = Удалять куки и данные сайтов при закрытии { -brand-short-name }
     .accesskey = д
 sitedata-delete-on-close-private-browsing = В постоянном приватном режиме куки и данные сайтов всегда будут удаляться при закрытии { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = Основываясь на ваших настройках истории, { -brand-short-name } удаляет куки и данные сайтов из вашей сессии, когда вы закрываете браузер.
 sitedata-allow-cookies-option =
     .label = Принимать куки и данные сайтов
     .accesskey = и
