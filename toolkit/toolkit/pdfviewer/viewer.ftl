@@ -329,6 +329,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Adder imagine
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Spissor
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Cambiar spissor evidentiante elementos differente de texto
 pdfjs-free-text =
     .aria-label = Editor de texto
 pdfjs-free-text-default-content = Comenciar a scriber…
