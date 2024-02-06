@@ -337,6 +337,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Ychwanegu delwedd
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Trwch
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Newid trwch wrth amlygu eitemau heblaw testun
 pdfjs-free-text =
     .aria-label = Golygydd Testun
 pdfjs-free-text-default-content = Cychwyn teipio…
