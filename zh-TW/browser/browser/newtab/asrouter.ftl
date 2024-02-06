@@ -269,3 +269,14 @@ launch-on-login-infobar-reject-button = 現在不要
 launch-on-login-infobar-final-message = <strong>要在每次電腦開機時自動開啟 { -brand-short-name } 嗎？</strong>若要管理您的啟動設定，請在設定頁面中搜尋「啟動」。
 launch-on-login-infobar-final-reject-button = 不要，謝謝
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = 別讓討厭的追蹤器跟上來
+tail-fox-spotlight-subtitle = 跟令人討厭廣告追蹤氣說再見，並且有一套更快、更安全的上網體驗。
+tail-fox-spotlight-primary-button = 用 { -brand-short-name } 開啟我的鏈結
+tail-fox-spotlight-secondary-button = 現在不要

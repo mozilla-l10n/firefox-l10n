@@ -12,6 +12,7 @@
 
 policy-3rdparty = 設定 WebExtension 可透過 chrome.storage.managed 存取的政策。
 policy-AllowedDomainsForApps = 指定允許存取 Google Workspace 的網域。
+policy-AllowFileSelectionDialogs = 允許顯示檔案選擇對話框。
 policy-AppAutoUpdate = 開啟或關閉應用程式自動更新。
 policy-AppUpdatePin = 防止 { -brand-short-name } 更新超過特定版本。
 policy-AppUpdateURL = 自訂應用程式更新網址。

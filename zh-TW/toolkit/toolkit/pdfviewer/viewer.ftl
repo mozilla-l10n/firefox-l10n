@@ -321,6 +321,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = 新增圖片
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = 線條粗細
+pdfjs-editor-free-highlight-thickness-title =
+    .title = 更改強調文字以外的項目時的線條粗細
 pdfjs-free-text =
     .aria-label = 文本編輯器
 pdfjs-free-text-default-content = 開始打字…

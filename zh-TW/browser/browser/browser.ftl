@@ -896,6 +896,10 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>想開啟先前的分頁？</strong>您可以從 { -brand-short-name } 應用程式選單 <img data-l10n-name="icon"/> 當中的「歷史」重新開啟先前的瀏覽階段。
 restore-session-startup-suggestion-button = 告訴我怎麼做
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = 您的組織已封鎖存取此電腦中的本機檔案。
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } 將會自動傳送一些資料給 { -vendor-short-name }，讓我們能夠改善您的使用體驗。
