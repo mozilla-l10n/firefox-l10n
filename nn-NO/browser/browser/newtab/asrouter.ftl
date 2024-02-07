@@ -268,3 +268,7 @@ launch-on-login-infobar-reject-button = Ikkje no
 launch-on-login-infobar-final-message = <strong>Opne { -brand-short-name } kvar gong du startar datamaskina på nytt?</strong> For å behandle oppstartsinnstillingane dine, søk etter «oppstart» i innstillingane.
 launch-on-login-infobar-final-reject-button = Nei takk
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-secondary-button = Ikkje no

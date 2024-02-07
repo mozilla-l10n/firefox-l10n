@@ -339,8 +339,23 @@ onboarding-easy-setup-security-and-privacy-title = Vi vernar deg gjerne
 onboarding-easy-setup-security-and-privacy-subtitle = Den ideelle nettlesaren vår hindrar selskap i å spore aktiviteten din i hemmelegheit på nettet.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Krypter dataa dine når du arbeider på tvers av einingar
+onboarding-mobile-download-security-and-privacy-subtitle = Når du er synkronisert, krypterer { -brand-short-name } passorda, bokmerka og meir. I tillegg kan du hente faner frå dei andre einingane dine.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } passar på deg
+onboarding-gratitude-security-and-privacy-subtitle = Takk for at du brukar { -brand-short-name }, støtta av Mozilla Foundation. Med di støtte jobbar vi for å gjere internett tryggare og meir tilgjengelig for alle.
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Kor lenge har du brukt { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Kor godt kjend er du med { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Tilbakemeldinga di bidreg til å gjere { -brand-short-name } endå betre.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Eg er heilt ny
+onboarding-new-user-survey-time-based-option-2 = Mindre enn 1 månad
+onboarding-new-user-survey-time-based-option-3 = Meir enn 1 månad, regelmessig
+onboarding-new-user-survey-time-based-option-4 = Meir enn 1 månad, nokre gongar
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Eg er heilt ny
+onboarding-new-user-survey-familiarity-based-option-2 = Eg har brukt det ein del
+onboarding-new-user-survey-familiarity-based-option-3 = Eg kjenner veldig godt til det
+onboarding-new-user-survey-familiarity-based-option-4 = Eg brukte den tidlegare, men det er en stund sidan

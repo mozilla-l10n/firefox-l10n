@@ -878,6 +878,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Lagre innloggingar…
     .accesskey = L
+forms-saved-passwords =
+    .label = Lagra passord
+    .accesskey = L
 forms-primary-pw-use =
     .label = Bruk eit hovudpassord
     .accesskey = B
@@ -901,6 +904,7 @@ forms-windows-sso =
     .label = Tillat Windows enkel innlogging for Microsoft-, arbeids- og skulekontoar.
 forms-windows-sso-learn-more-link = Les meir
 forms-windows-sso-desc = Handsam konton i einingsinnstillingane dine
+windows-passkey-settings-label = Handsam passnøkkel i systeminnstillingane
 
 ## OS Authentication dialog
 
