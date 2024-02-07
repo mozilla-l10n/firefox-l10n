@@ -275,3 +275,14 @@ launch-on-login-infobar-reject-button = Не зараз
 launch-on-login-infobar-final-message = <strong>Відкривати { -brand-short-name } щоразу, коли ви перезапускаєте комп'ютер?</strong> Щоб керувати налаштуваннями запуску, введіть у пошуку налаштувань “запуск”.
 launch-on-login-infobar-final-reject-button = Ні, дякую
     .accesskey = Н
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Тримайте надокучливі елементи стеження подалі від себе
+tail-fox-spotlight-subtitle = Попрощайтеся з надокучливим стеженням реклами та приготуйтеся до безпечнішої та швидшої роботи в інтернеті.
+tail-fox-spotlight-primary-button = Відкривати посилання в { -brand-short-name }
+tail-fox-spotlight-secondary-button = Не зараз

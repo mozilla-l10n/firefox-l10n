@@ -1007,6 +1007,7 @@ sitedata-delete-on-close =
     .label = Видаляти файли cookie та дані сайтів під час закриття { -brand-short-name }
     .accesskey = я
 sitedata-delete-on-close-private-browsing = В режимі постійного приватного перегляду, файли cookie та дані сайтів завжди очищатимуться під час закриття { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = На основі ваших налаштувань історії { -brand-short-name } видаляє файли cookie та дані сайтів вашого сеансу після закриття браузера.
 sitedata-allow-cookies-option =
     .label = Приймати файли cookie та дані сайтів
     .accesskey = П
