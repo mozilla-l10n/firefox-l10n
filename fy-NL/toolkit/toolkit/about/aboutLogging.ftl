@@ -12,7 +12,7 @@ about-logging-log-tutorial = Sjoch op <a data-l10n-name="logging">HTTP-Logging</
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Map iepenje
 about-logging-set-log-file = Lochbestân ynstelle
-about-logging-set-log-modules = Lochodules ynstelle
+about-logging-set-log-modules = Lochmodules ynstelle
 about-logging-start-logging = Loggen starte
 about-logging-stop-logging = Loggen stopje
 about-logging-buttons-disabled = Logging konfigurearre fia omjouwingsfariabelen, dynamyske konfiguraasje net beskikber.
