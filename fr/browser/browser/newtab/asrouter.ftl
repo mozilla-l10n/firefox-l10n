@@ -271,3 +271,9 @@ launch-on-login-infobar-reject-button = Plus tard
 launch-on-login-infobar-final-message = <strong>Vous ouvrez { -brand-short-name } chaque fois que vous redémarrez votre ordinateur ?</strong> Pour gérer vos préférences de démarrage, recherchez « démarrage » dans les paramètres.
 launch-on-login-infobar-final-reject-button = Non merci
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-subtitle = Dites adieu aux traqueurs publicitaires pénibles et optez pour une expérience Internet plus rapide et plus sûre.
+tail-fox-spotlight-primary-button = Ouvrir mes liens avec { -brand-short-name }
+tail-fox-spotlight-secondary-button = Plus tard
