@@ -8,22 +8,16 @@
 more-from-moz-title = Dapli da { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Dapli da { -vendor-short-name }
-
 more-from-moz-subtitle = Dà in tgit ad auters products da { -vendor-short-name } che han l'intent da promover in internet pli saun.
-
 more-from-moz-firefox-mobile-title = { -brand-product-name } per apparats mobils
 more-from-moz-firefox-mobile-description = Il navigatur mobil che dat la prioritad a tia sfera privata.
-
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Scuvra in ulteriur nivel da navigaziun anonima e da protecziun.
-
 more-from-moz-qr-code-box-firefox-mobile-title = Telechargiada cun l'apparat mobil. Drizza tia camera sin il code QR e clicca lura sin la colliaziun che cumpara.
 more-from-moz-qr-code-box-firefox-mobile-button = Trametter enstagl in e-mail a tes telefonin
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Code QR per telechargiar { -brand-product-name } per apparats mobils
-
 more-from-moz-button-mozilla-vpn-2 = Ir per VPN
-
 more-from-moz-learn-more-link = Ulteriuras infurmaziuns
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
@@ -31,3 +25,6 @@ more-from-moz-learn-more-link = Ulteriuras infurmaziuns
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Protegia tia posta entrada e tia identitad cun alias dad e-mail gratuits.
 more-from-moz-firefox-relay-button = Ir per { -relay-brand-short-name }
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
