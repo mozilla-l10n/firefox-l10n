@@ -329,6 +329,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Суретті қосу
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Қалыңдығы
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Мәтіннен басқа элементтерді ерекшелеу кезінде қалыңдықты өзгерту
 pdfjs-free-text =
     .aria-label = Мәтін түзеткіші
 pdfjs-free-text-default-content = Теруді бастау…
