@@ -55,13 +55,13 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> har i
 
 inactive-css-not-grid-or-flex-container-fix = Försök lägga till <strong>display:grid</strong> eller <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Försök lägga till antingen <strong>display:grid</strong>, <strong>display:flex</strong> eller <strong>columns:2</strong>. { learn-more }
-inactive-css-not-multicol-container-fix = Prova att lägga till antingen <strong>kolumnantal</strong> eller <strong>kolumnbredd</strong>. { learn-more }
+inactive-css-not-multicol-container-fix = Prova att lägga till antingen <strong>column-count</strong> eller <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Försök att lägga till <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> till elementets förälder. { learn-more }
 inactive-css-not-grid-item-fix-2 = Försök lägga till <strong>display:grid</strong> eller <strong>display:inline-grid</ strong> till elementets förälder. { learn-more }
 inactive-css-not-grid-container-fix = Försök lägga till <strong>display:grid</strong> eller <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix-2 = Försök lägga till <strong>display:flex</strong> eller <strong>display:inline-flex</strong> till elementets förälder. { learn-more }
 inactive-css-not-flex-container-fix = Försök lägga till <strong>display:flex</strong> eller <strong>display:inline-flex</strong>. { learn-more }
-inactive-css-not-inline-or-tablecell-fix = Försök lägga till <strong>display:inline</strong> eller <strong>display:tabell-cell</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Försök lägga till <strong>display:inline</strong> eller <strong>display:table-cell</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Försök lägga till <strong>display:inline-block</strong> eller <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Försök lägga till <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Försök ta bort <strong>float</strong> eller lägga till <strong>display:block</strong>. { learn-more }
