@@ -8,4 +8,4 @@ backgroundupdate-task-description =
   viene installato automaticamente da { -brand-short-name } e viene
   reinstallato quando si apre { -brand-short-name }. Per disattivarlo
   aggiornare le impostazioni del browser o utilizzare l’impostazione
-  “BackgroundAppUpdate” nei criteri a livello aziendale.
+  “BackgroundAppUpdate” nei criteri aziendali.
