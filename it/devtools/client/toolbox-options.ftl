@@ -52,6 +52,12 @@ options-inspector-simplified-highlighters-label = Utilizza evidenziatori semplif
 options-inspector-simplified-highlighters-tooltip =
     .title = Attiva evidenziatori semplificati quando prefers-reduced-motion è attivo. Verranno disegnate linee al posto di rettangoli con sfondo colorato intorno agli elementi selezionati per evitare lampeggiamenti.
 
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Passa al campo di input successivo con <kbd>Invio</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Attivando questa opzione, quando si preme Invio durante la modifica di un selettore, del nome di una proprietà o di un valore, la selezione passerà al campo di input successivo.
+
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = Unità predefinita colori:
