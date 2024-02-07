@@ -1003,6 +1003,7 @@ sitedata-delete-on-close =
     .label = Eyða vefkökum og síðugögnum þegar { -brand-short-name } er lokað
     .accesskey = k
 sitedata-delete-on-close-private-browsing = Þegar huliðsvafur er alltaf virkt, munu vefkökum og vefsvæðagögnum ávallt verða eytt þegar { -brand-short-name } er lokað.
+sitedata-delete-on-close-private-browsing2 = Byggt á stillingum vafurferilsins þíns, eyðir { -brand-short-name } vefkökum og gögnum vefsvæða úr lotunni þinni þegar þú lokar vafranum.
 sitedata-allow-cookies-option =
     .label = Samþykkja vefkökur og síðugögn
     .accesskey = A

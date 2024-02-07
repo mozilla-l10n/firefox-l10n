@@ -12,6 +12,7 @@
 
 policy-3rdparty = Stilla stefnur sem WebExtensions hafa aðgang að í gegnum chrome.storage.managed.
 policy-AllowedDomainsForApps = Skilgreindu lén sem leyfður er aðgangur að Google Workspace.
+policy-AllowFileSelectionDialogs = Leyfa skráavalglugga.
 policy-AppAutoUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á forriti.
 policy-AppUpdatePin = Koma í veg fyrir að { -brand-short-name } sé uppfært umfram tilgreinda útgáfu.
 policy-AppUpdateURL = Stilla sérsniðna smáforrits uppfærslu slóð.
