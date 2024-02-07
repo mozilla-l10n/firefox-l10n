@@ -272,3 +272,8 @@ launch-on-login-infobar-reject-button = Şimdi değil
 launch-on-login-infobar-final-message = <strong>Bilgisayarınızı her yeniden başlattığınızda { -brand-short-name } açılsın mı?</strong> Başlangıç tercihlerinizi yönetmek için ayarlarda “başlangıç” terimini arayabilirsiniz.
 launch-on-login-infobar-final-reject-button = Hayır
     .accesskey = H
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-primary-button = Bağlantılarımı { -brand-short-name } ile aç
+tail-fox-spotlight-secondary-button = Şimdi değil

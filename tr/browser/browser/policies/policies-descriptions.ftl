@@ -12,6 +12,7 @@
 
 policy-3rdparty = WebExtension’ların chrome.storage.managed aracılığıyla ulaşabileceği ilkeleri ayarla.
 policy-AllowedDomainsForApps = Google Workspace’e erişim izni olan etki alanlarını tanımla.
+policy-AllowFileSelectionDialogs = Dosya seçme iletişim kutularına izin ver.
 policy-AppAutoUpdate = Otomatik uygulama güncellemesini aç veya kapat.
 policy-AppUpdatePin = { -brand-short-name } tarayıcısının belirtilen sürümün üzerine güncellenmesini engelle.
 policy-AppUpdateURL = Özel uygulama güncelleme URL’si ayarla.
