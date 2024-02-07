@@ -55,3 +55,11 @@ fxviewtabrow-send-tab = Send fane til eining
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Innstillingar for { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = Demp { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = Opphev demping av { $tabTitle }
