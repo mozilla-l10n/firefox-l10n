@@ -269,3 +269,11 @@ launch-on-login-infobar-reject-button = Қазір емес
 launch-on-login-infobar-final-message = <strong>Компьютеріңізді әр рет қайта іске қосқан сайын { -brand-short-name } қолданбасын ашу керек пе?</strong>Іске қосылу баптауларын басқару үшін, баптаулардан "іске қосу" іздеңіз.
 launch-on-login-infobar-final-reject-button = Жоқ, рахмет
     .accesskey = Ж
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Тітіркендіргіш трекерлерді өзіңізден аулақ ұстаңыз
