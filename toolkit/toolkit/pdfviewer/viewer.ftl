@@ -329,6 +329,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Grafik hinzufügen
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Dicke
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Dicke beim Hervorheben anderer Elemente als Text ändern
 pdfjs-free-text =
     .aria-label = Texteditor
 pdfjs-free-text-default-content = Schreiben beginnen…
