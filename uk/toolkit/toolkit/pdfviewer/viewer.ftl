@@ -331,6 +331,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Додати зображення
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Товщина
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Змінюйте товщину під час підсвічування елементів, крім тексту
 pdfjs-free-text =
     .aria-label = Текстовий редактор
 pdfjs-free-text-default-content = Почніть вводити…
