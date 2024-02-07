@@ -277,3 +277,6 @@ launch-on-login-infobar-final-reject-button = Жоқ, рахмет
 # If the localization of this message is challenging, consider using a simplified
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
 tail-fox-spotlight-title = Тітіркендіргіш трекерлерді өзіңізден аулақ ұстаңыз
+tail-fox-spotlight-subtitle = Тітіркендіргіш жарнама трекерлерімен қоштасып, қауіпсіз, жылдам интернет тәжірибесіне ие болыңыз.
+tail-fox-spotlight-primary-button = Менің сілтемелерімді { -brand-short-name } арқылы ашу
+tail-fox-spotlight-secondary-button = Қазір емес
