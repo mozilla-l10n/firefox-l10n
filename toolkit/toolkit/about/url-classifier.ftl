@@ -5,7 +5,11 @@
 url-classifier-title = URL-klassifikaasjeynformaasje
 url-classifier-search-title = Sykje
 url-classifier-search-result-title = Resultaten
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = List fan tabellen: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Unjildige URL
@@ -33,15 +37,14 @@ url-classifier-cache-ncache-expiry = Ferrin fan negative buffer
 url-classifier-cache-fullhash = Folsleine hash
 url-classifier-cache-pcache-expiry = Ferrin fan positive buffer
 url-classifier-debug-title = Debugge
-url-classifier-debug-module-btn = Lochodules ynstelle
+url-classifier-debug-module-btn = Lochmodules ynstelle
 url-classifier-debug-file-btn = Lochbestân ynstelle
 url-classifier-debug-js-log-chk = JS-registraasje ynstelle
 url-classifier-debug-sb-modules = Lochmodules fan Safe Browsing
 url-classifier-debug-modules = Aktuele lochmodules
 url-classifier-debug-sbjs-modules = JS-registraasje fan Safe Browsing
 url-classifier-debug-file = Aktuele lochbestân
-
-url-classifier-trigger-update = Bywurkjen aktivearjen
+url-classifier-trigger-update = Bywurkjen aktivearje
 url-classifier-not-available = Net beskikber
 url-classifier-disable-sbjs-log = JS-registraasje fan Safe Browsing útskeakelje
 url-classifier-enable-sbjs-log = JS-registraasje fan Safe Browsing ynskeakelje
