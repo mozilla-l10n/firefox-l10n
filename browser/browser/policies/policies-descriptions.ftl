@@ -12,6 +12,7 @@
 
 policy-3rdparty = WebExtensions chrome.storage.managed арқылы қатынай алатын саясаттарды орнатыңыз.
 policy-AllowedDomainsForApps = Google Workspace жүйесіне қатынауға рұқсат етілген домендерді анықтайды.
+policy-AllowFileSelectionDialogs = Файлды таңдау сұхбат терезелеріне рұқсат беру.
 policy-AppAutoUpdate = Қолданбаны автожаңартуды іске қосу немесе сөндіру.
 policy-AppUpdatePin = { -brand-short-name } көрсетілген нұсқадан әрі қарай жаңартылуға тыйым салу.
 policy-AppUpdateURL = Қолданбаны жаңартудың таңдауыңызша URL-ын орнату.
