@@ -27,6 +27,7 @@ set-password-meter = Indicatore qualità password
 set-password-meter-loading = Caricamento
 
 primary-password-admin = L’amministratore richiede l’impostazione di una password principale per poter salvare le password.
+primary-password-required-by-policy = La tua organizzazione richiede l’impostazione di una password principale per poter salvare le password.
 primary-password-description = La password principale serve a proteggere le informazioni sensibili come le password dei siti. Se si crea una password principale, ne verrà richiesto l’inserimento una volta per sessione nel momento in cui { -brand-short-name } dovrà recuperare un’informazione protetta.
 primary-password-warning = Attenzione: non dimenticare la password principale impostata. Se si dimentica la password principale non si potrà più accedere a nessuna delle informazioni protette.
 
