@@ -272,3 +272,14 @@ launch-on-login-infobar-reject-button = Ekki núna
 launch-on-login-infobar-final-message = <strong>Opna { -brand-short-name } í hvert sinn sem þú endurræsir tölvuna þína?</strong> Til að stjórna ræsingunni hjá þér skaltu leita að „startup“ í stillingunum.
 launch-on-login-infobar-final-reject-button = Nei takk
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Haltu leiðinlegum rekjurum frá slóðinni þinni
+tail-fox-spotlight-subtitle = Segðu bless við pirrandi auglýsingarekjara og fáðu öruggari, hraðvirkari internetupplifun.
+tail-fox-spotlight-primary-button = Opna tenglana mína með { -brand-short-name }
+tail-fox-spotlight-secondary-button = Ekki núna
