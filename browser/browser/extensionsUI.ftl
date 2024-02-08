@@ -20,6 +20,10 @@ addon-post-install-message = Xtz'aqatisäx { $addonName }.
 
 ## A modal confirmation dialog to allow an extension on quarantined domains.
 
+# Variables:
+#   $addonName (String): localized name of the extension.
+webext-quarantine-confirmation-title = ¿La nokisäx { $addonName } pa chajin taq ruxaq?
+webext-quarantine-confirmation-line-1 = Richin yechajïx ri taq atzij, man niya' ta q'ij chi re re k'amal re' pa re ruxaq re'.
 webext-quarantine-confirmation-allow =
     .label = Tiya' q'ij
     .accesskey = q

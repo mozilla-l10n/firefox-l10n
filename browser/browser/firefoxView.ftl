@@ -9,9 +9,13 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Titz'apïx
     .aria-label = Titz'apïx
+firefoxview-empty-state-icon =
+    .alt = Tatz'eta':
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Wakami
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -34,6 +38,8 @@ firefoxview-tabpickup-synctabs-description = Tiya' q'ij chi re { -brand-short-na
 firefoxview-tabpickup-synctabs-learn-how = Tetamäx achike rub'eyal
 firefoxview-tabpickup-synctabs-primarybutton = Kexim jaqon taq ruwi'
 firefoxview-syncedtabs-synctabs-header = Kek'ëx taq runuk'ulem ximoj
+firefoxview-syncedtabs-synctabs-checkbox = Tiya' q'ij chi tikixima' ki' ri jaqon taq ruwi'
+firefoxview-syncedtabs-loading-header = Tajin nixim
 firefoxview-tabpickup-fxa-admin-disabled-header = Ri amoloj xuchüp ri ximoj
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } man yeruxïm ta ri taq ruwi' chi kikojol taq okisaxel ruma chi ri anuk'samajel xuchüp ri ximoj.
 firefoxview-tabpickup-network-offline-header = Tanik'oj okem pa k'amaya'l
@@ -168,5 +174,5 @@ firefoxview-import-history-close-button =
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 
-##
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
