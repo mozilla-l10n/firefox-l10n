@@ -12,6 +12,7 @@
 
 policy-3rdparty = Nastavení pravidel, ke kterým mají přístup rozšíření skrze chrome.storage.managed.
 policy-AllowedDomainsForApps = Nastavení domén, které mají povolený přístup ke Google Workspace.
+policy-AllowFileSelectionDialogs = Povolí dialogová okna pro výběr souborů.
 policy-AppAutoUpdate = Vypnutí nebo zapnutí automatických aktualizací aplikace.
 policy-AppUpdatePin =
     { -brand-short-name.case-status ->
