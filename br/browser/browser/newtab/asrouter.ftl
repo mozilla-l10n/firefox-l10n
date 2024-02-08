@@ -259,3 +259,6 @@ launch-on-login-infobar-reject-button = Diwezhatoc’h
 
 launch-on-login-infobar-final-reject-button = Ket
     .accesskey = K
+
+## Tail Fox Set Default Spotlight
+
