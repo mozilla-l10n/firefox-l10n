@@ -191,6 +191,8 @@ mr2022-onboarding-gratitude-secondary-button-label = Începe să navighezi
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Ne place să te protejăm
 
 ## New user time and familiarity survey strings
 
