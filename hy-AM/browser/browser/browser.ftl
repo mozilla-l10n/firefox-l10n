@@ -83,6 +83,8 @@ urlbar-tip-icon-description =
     .alt = Հուշում.
 urlbar-result-menu-button =
     .title = Բացել ցանկը
+urlbar-result-menu-button-feedback = Արձագանք
+    .title = Բացել ցանկը
 urlbar-result-menu-learn-more =
     .label = Իմանալ ավելին
     .accesskey = L
@@ -242,6 +244,9 @@ quickactions-cmd-plugins = բաղադրիչներ
 # Opens the print dialog
 quickactions-print2 = Տպել էջը
 quickactions-cmd-print = տպել
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Պահել էջը որպես PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Սկսել Գաղտնի դիտարկում
 quickactions-cmd-private = գաղտնի դիտարկում
@@ -376,11 +381,27 @@ browser-window-close-button =
 browser-tab-audio-playing2 = ՆՎԱԳԱՐԿՈՒՄ Է
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-muted2 = ԱՆՁԱՅՆ
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = ԻՆՔՆԱՆՎԱԳԱՐԿՈՒՄՆ ԱՐԳԵԼԱՓԱԿՎԱԾ Է
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = ՆԿԱՐ ՆԿԱՐՈՒՄ
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] ԼՌԵՑՆԵԼ ՆԵՐԴԻՐԸ
+        [one] ԼՌԵՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԸ
+       *[other] { "" }
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ՉԼՌԵՑՆԵԼ ՆԵՐԴԻՐԸ
+        [one] ՉԼՌԵՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԸ
+       *[other] { "" }
+    }
 
 ## Bookmarks toolbar items
 
@@ -539,6 +560,7 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-panel-header = Նկար-նկարում
 
 ## Full Screen and Pointer Lock UI
 
@@ -771,6 +793,9 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Բացե՞լ նախորդ ներդիրները:</strong>Դուք կարող եք վերականգնել նախորդ աշխատաշրջանը { -brand-short-name }-ի հավելվածների ցանկից՝ <img data-l10n-name="icon"/>, Պատմության ներքո:
 restore-session-startup-suggestion-button = Ցույց տուր ինձ, թե ինչպես
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
