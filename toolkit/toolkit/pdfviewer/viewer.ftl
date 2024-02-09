@@ -23,11 +23,11 @@ pdfjs-of-pages = o { $pagesCount }
 #   $pagesCount (Number) - the total number of pages in the document
 pdfjs-page-of-pages = ({ $pageNumber } o { $pagesCount })
 pdfjs-zoom-out-button =
-    .title = Chwyddo Allan
-pdfjs-zoom-out-button-label = Chwyddo Allan
+    .title = Lleihau
+pdfjs-zoom-out-button-label = Lleihau
 pdfjs-zoom-in-button =
-    .title = Chwyddo Mewn
-pdfjs-zoom-in-button-label = Chwyddo Mewn
+    .title = Cynyddu
+pdfjs-zoom-in-button-label = Cynyddu
 pdfjs-zoom-select =
     .title = Chwyddo
 pdfjs-presentation-mode-button =
