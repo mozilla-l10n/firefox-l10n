@@ -5,8 +5,8 @@
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
 default-browser-notification-message = <strong>Gosodwch { -brand-short-name } fel eich porwr rhagosodedig? </strong>Cewch bori'n gyflym, yn ddiogel ac yn breifat pryd bynnag y byddwch yn defnyddio'r we.
 default-browser-notification-button =
-    .label = Gosod fel y Rhagosodiad
-    .accesskey = R
+    .label = Gosod fel y rhagosodiad
+    .accesskey = r
 
 ## These strings are used for the default browser prompt. There are 2 variations
 ## depending on the operating system (Windows vs other). The checkbox label and

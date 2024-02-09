@@ -265,7 +265,7 @@ device-migration-fxa-spotlight-getting-new-device-primary-button = Sut i wneud c
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
 pdf-default-notification-message = <strong>Gwneud { -brand-short-name } eich darllenydd PDF rhagosodedig?</strong> Defnyddiwch { -brand-short-name } i ddarllen a golygu ffeiliau PDF sydd wedi'u cadw ar eich cyfrifiadur.
 pdf-default-notification-set-default-button =
-    .label = Gosod fel y rhagosodedig
+    .label = Gosod fel y rhagosodiad
 pdf-default-notification-decline-button =
     .label = Nid nawr
 
