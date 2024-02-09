@@ -256,4 +256,4 @@ appmenu-developer-tools-subheader = Offer y Porwr
 appmenu-developer-tools-extensions =
     .label = Estyniadau ar gyfer Datblygwyr
 appmenuitem-report-broken-site =
-    .label = Adrodd ar Wefan wedi Torri
+    .label = Adrodd ar wefan wedi torri

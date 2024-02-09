@@ -89,7 +89,7 @@ firefoxview-pickup-tabs-badge = Gweithgaredd diwethaf
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
-    .title = Agor { $targetURI } mewn tab newydd
+    .title = Agorwch { $targetURI } mewn tab newydd
 firefoxview-try-colorways-button = Rhowch gynnig ar gyfuniadau lliw
 firefoxview-change-colorway-button = Newid y llwybr lliw
 # Variables:
