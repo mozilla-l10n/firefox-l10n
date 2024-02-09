@@ -567,6 +567,11 @@ urlbar-result-action-search-w-engine = Tschertgar cun { $engine }
 urlbar-result-action-sponsored = Sponsurisà
 urlbar-result-action-switch-tab = Midar al tab
 urlbar-result-action-visit = Visitar
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Midar al tab · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Visitar l'URL da l'archiv provisoric
 # Directs a user to press the Tab key to perform a search with the specified
@@ -890,6 +895,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Avrir tabs averts dacurt?</strong> Ti pos restaurar tia sesida precedenta dal menu d'applicaziun <img data-l10n-name="icon"/> da { -brand-short-name }, sut «Cronologia».
 restore-session-startup-suggestion-button = Mussar co
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Tia organisaziun ha bloccà l’access a las datotecas localas sin quest computer
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Stizzar l'entira cronologia
     .style = min-width: 38em
 clear-data-settings-label = Stizzar automaticamain las suandantas datas cura { -brand-short-name } vegn terminà
+sanitize-on-shutdown-description = Stizzar automaticamain tut ils elements selecziunads cura che { -brand-short-name } vegn serrà.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,12 +55,19 @@ history-section-label = Cronologia
 item-history-and-downloads =
     .label = La cronologia da navigaziun e da telechargiadas
     .accesskey = L
-item-browsing-and-search =
-    .label = Websites visitadas, datas da formulars memorisadas e tschertgas
-    .accesskey = v
+item-history-form-data-downloads =
+    .label = Cronologia
+    .accesskey = C
+item-history-form-data-downloads-description = Stizza la cronologia da navigaziun e telechargiadas, las datas da formulars memorisadas e las tschertgas
 item-cookies =
     .label = Cookies
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookies e datas da websites ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookies e datas da websites
     .accesskey = e
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Cache
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Datotecas e paginas memorisadas temporarmain en il cache ({ $amount } { $unit })
+    .accesskey = t
 item-cached-content =
     .label = Cache temporar per datotecas e paginas
     .accesskey = C
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = Configuraziuns da websites
     .accesskey = i
 item-site-prefs-description = Reinizialisescha las permissiuns e preferenzas da websites cun ils parameters originals
-item-download-history =
-    .label = Glista da las datotecas telechargiadas
-    .accesskey = d
 data-section-label = Datas
 item-site-settings =
     .label = Parameters da la website
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = Stizzar uss
 sanitize-button-ok2 =
     .label = Stizzar
+sanitize-button-ok-on-shutdown =
+    .label = Memorisar las midadas
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

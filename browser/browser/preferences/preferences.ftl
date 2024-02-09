@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Allontanar quest container
 containers-remove-cancel-button = Betg allontanar quest container
+settings-tabs-show-image-in-preview =
+    .label = Mussar ina prevista grafica cura che la mieur passa sur in tab
+    .accessKey = u
 
 ## General Section - Language & Appearance
 
@@ -1000,6 +1003,7 @@ sitedata-delete-on-close =
     .label = Stizzar ils cookies e las datas da websites cun serrar { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing = En il modus privat permanent vegnan cookies e datas da websites adina stizzadas cura che { -brand-short-name } vegn terminà.
+sitedata-delete-on-close-private-browsing2 = Tut tenor tes parameters da la cronologia, stizza { -brand-short-name } ils cookies e las datas da website da tia sesida cura che ti serras il navigatur.
 sitedata-allow-cookies-option =
     .label = Acceptar cookies e datas da website
     .accesskey = A
