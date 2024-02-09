@@ -2,6 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Ներմուծեք զննարկիչի տվյալները
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# to import from. This variant is shown when the selected browser doesn't support
+# user profiles, and so we only show the browser name.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+migration-wizard-selection-option-without-profile = { $sourceBrowser }
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# and user profile to import from. This variant is shown when the selected browser
+# supports user profiles.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+#  $profileName (String): the name of the user profile to import from.
+migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -18,6 +34,8 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Գաղտնաբառերը CSV ֆայլից
+migration-wizard-migrator-display-name-file-bookmarks = Էջանիշեր HTML ֆայլից
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -33,12 +51,31 @@ migration-imported-edge-reading-list = Ընթերցացուցակ (Edge-ից)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-instructions-step1 = Ընտրեք «Շարունակել»
 
 ## These strings will be displayed based on how many resources are selected to import
 
 
 ##
 
+migration-select-all-option-label = Նշել բոլորը
+migration-bookmarks-option-label = Էջանիշեր
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Ընտրյալներ
+migration-passwords-option-label = Պահված գաղտնաբառեր
+migration-history-option-label = Զննարկման պատմությունը
+migration-extensions-option-label = Ընդլայնումներ
+migration-payment-methods-option-label = Վճարամիջոցներ
+migration-cookies-option-label = Թխուկներ
+migration-session-option-label = Պատուհաններ և Ներդիրներ
+migration-otherdata-option-label = Այլ տվյալներ
+migration-passwords-from-file-progress-header = Ներմուծել գաղտնաբառերի ֆայլը
+migration-passwords-from-file-success-header = Գաղտնաբառերը հաջողությամբ ներմուծվեցին
+migration-passwords-from-file = Ֆայլի գաղտնաբառերի ստուգում
+migration-passwords-new = Նոր գաղտնաբառ
+migration-passwords-updated = Առկա գաղտնաբառեր
+migration-passwords-from-file-picker-title = Ներմուծել գաղտնաբառերի ֆայլը
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -53,6 +90,29 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV փաստաթուղթ
        *[other] TSV ֆայլ
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] { $newEntries }-ը հավելվել է
+       *[other] { $newEntries }-ը հավելվել է
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] { $updatedEntries }-ը թարմացվել է
+       *[other] { $updatedEntries }-ը թարմացվել է
+    }
+migration-bookmarks-from-file-picker-title = Ներմուծել էջանիշերի ֆայլը
+migration-bookmarks-from-file-progress-header = Էջանիշների ներմուծում
+migration-bookmarks-from-file = Էջանիշեր
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will

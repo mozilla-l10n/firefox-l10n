@@ -105,13 +105,47 @@ firefoxview-opentabs-window-header =
 firefoxview-opentabs-focus-tab =
     .title = Փոխարկել այս ներդիրին
 firefoxview-show-more = Ցուցադրել ավելին
+firefoxview-show-less = Ցուցադրել ավելի քիչ
+firefoxview-show-all = Ցուցադրել բոլորը
+firefoxview-search-text-box-clear-button =
+    .title = Մաքրել
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Որոնում
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Որոնման պատմություն
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Որոնել վերջերս փակված ներդիրները
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Որոնել համաժամեցված ներդիրներ
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Որոնել բաց ներդիրները
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = «{ $query }»-ի որոնման արդյունքները
+firefoxview-sort-history-by-date-label = Տեսակավորել ըստ՝ ամսաթվի
+firefoxview-sort-history-by-site-label = Տեսակավորել ըստ՝ կայքի
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Այսօր - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Երեկ - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (Տեղային ֆայլեր)
 
 ##
 
+firefoxview-show-all-history = Ցուցադրել ամբողջ պատմությունը
 
 ## Message displayed in Firefox View when the user has no history data
 
@@ -124,12 +158,17 @@ firefoxview-show-more = Ցուցադրել ավելին
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Փակել
+    .title = Փակել
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Շու՞տ եք փակել ներդիրը:
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

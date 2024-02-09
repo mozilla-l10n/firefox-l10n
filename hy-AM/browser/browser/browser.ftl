@@ -402,6 +402,12 @@ browser-tab-unmute =
         [one] ՉԼՌԵՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԸ
        *[other] { "" }
     }
+browser-tab-unblock =
+    { $count ->
+        [1] ՆՎԱԳԱՐԿԵԼ ՆԵՐԻԴՐԸ
+        [one] ՆՎԱԳԱՐԿԵԼ { $count } ՆԵՐԻԴՐԸ
+       *[other] { "" }
+    }
 
 ## Bookmarks toolbar items
 
