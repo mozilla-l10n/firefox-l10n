@@ -42,14 +42,22 @@ firefoxview-syncedtabs-adddevice-description = За да видите разде
 firefoxview-syncedtabs-adddevice-primarybutton = Опитайте { -brand-product-name } за телефон
 firefoxview-tabpickup-synctabs-header = Включване синхронизирането на раздели
 firefoxview-tabpickup-synctabs-learn-how = Научете как
+firefoxview-tabpickup-synctabs-primarybutton = Синхронизиране на отворените раздели
+firefoxview-syncedtabs-synctabs-checkbox = Разрешаване на синхронизиране на отворените раздели
+firefoxview-syncedtabs-loading-header = Извършва се синхронизиране
+firefoxview-tabpickup-fxa-admin-disabled-header = Вашата организация е забранила синхронизирането
 firefoxview-tabpickup-network-offline-header = Проверете връзката с интернет
 firefoxview-tabpickup-network-offline-primarybutton = Нов опит
+firefoxview-tabpickup-sync-error-header = Срещаме проблем със синхронизирането
 firefoxview-tabpickup-sync-error-primarybutton = Нов опит
 firefoxview-tabpickup-sync-disconnected-primarybutton = Включете синхронизирането в настройките
+firefoxview-tabpickup-password-locked-header = Въведете вашата главна парола, за да видите разделите
 firefoxview-tabpickup-password-locked-link = Научете повече
 firefoxview-tabpickup-password-locked-primarybutton = Въведете главната парола
+firefoxview-tabpickup-signed-out-header = Впишете се, за да се свържете отново
 firefoxview-tabpickup-signed-out-primarybutton = Вписване
 firefoxview-mobile-promo-header = Вземете разделите от вашия телефон или таблет
+firefoxview-mobile-promo-primarybutton = Изтеглете { -brand-product-name } за мобилни устройства
 firefoxview-mobile-confirmation-header = 🎉 Готово!
 firefoxview-closed-tabs-title = Наскоро затворени
 firefoxview-closed-tabs-placeholder-header = Няма наскоро затворени раздели
@@ -64,14 +72,26 @@ firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Все още няма какво да се види
 firefoxview-collapse-button-show =
     .title = Списък
+firefoxview-collapse-button-hide =
+    .title = Скриване на списъка
+firefoxview-overview-nav = Последно разглеждане
+    .title = Последно разглеждане
+firefoxview-overview-header = Последно разглеждане
+    .title = Последно разглеждане
 
 ## History in this context refers to browser history
 
 firefoxview-history-nav = История
     .title = История
+firefoxview-history-header = История
+firefoxview-history-context-delete = Изтриване от историята
+    .accesskey = И
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = Отворени раздели
+    .title = Отворени раздели
+firefoxview-opentabs-header = Отворени раздели
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
@@ -81,15 +101,54 @@ firefoxview-recently-closed-header = Последно затворени раз�
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Раздели от други устройства
+    .title = Раздели от други устройства
+firefoxview-synced-tabs-header = Раздели от други устройства
 
 ##
 
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
+firefoxview-view-all-link = Всички
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Прозорец { $winID }
+firefoxview-opentabs-focus-tab =
+    .title = Превключване към този раздел
+firefoxview-show-more = Повече
+firefoxview-show-less = По-малко
+firefoxview-show-all = Всички
+firefoxview-search-text-box-clear-button =
+    .title = Изчистване
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Търсене
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Търсене в историята
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Търсене на наскоро затворени раздели
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Търсене в синхронизираните раздели
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Търсене в отворени раздели
 firefoxview-sort-history-by-date-label = Сортиране по дата
 firefoxview-sort-history-by-site-label = Сортиране по страница
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Днес - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Вчера - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (местни файлове)
 
 ##
 
@@ -106,6 +165,7 @@ firefoxview-choose-browser-button = Изберете мрежов четец
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Няма нищо за показване
 
 ##
 
@@ -116,9 +176,11 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Внасяне на история от друг браузър
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-connect-another-device = Свързване на друго устройство
