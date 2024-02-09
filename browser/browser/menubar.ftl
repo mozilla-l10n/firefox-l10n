@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -38,11 +44,9 @@ menu-quit =
             [windows] ա
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Փակել { -brand-shorter-name }-ը
-
 menu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = մ
@@ -130,6 +134,9 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Գործիքագոտիներ
     .accesskey = Գ
+menu-view-customize-toolbar2 =
+    .label = Հարմարեցնել Գործիքագոտին…
+    .accesskey = C
 menu-view-sidebar =
     .label = Կողային վահանակ
     .accesskey = վ
@@ -216,6 +223,9 @@ menu-history-undo-menu =
     .label = Վերջին փակված ներդիրները
 menu-history-undo-window-menu =
     .label = Վերջին փակված պատուհանները
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Որոնման պատմություն
 
 ## Bookmarks Menu
 
@@ -228,6 +238,9 @@ menu-bookmark-tab =
     .label = Էջանշել ընթացիկ ներդիրը…
 menu-edit-bookmark =
     .label = Խմբագրել այս էջանիշը…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Որոնել էջանիշեր
 menu-bookmarks-all-tabs =
     .label = Էջանշել Բոլոր Ներդիրները…
 menu-bookmarks-toolbar =

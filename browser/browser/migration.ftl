@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Ներմուծման Օգնական
-
 import-from =
     { PLATFORM() ->
         [windows] Ներմուծել ընտրանքները, էջանիշերը, պատմությունը, գաղտնաբառերը և այլ տվյալներ այստեղից՝
        *[other] Ներմուծել կարգավորումները, էջանիշները, գաղտնաբառերը և այլ տվյալներ՝
     }
-
 import-from-bookmarks = Ներմուծել էջանիշները՝
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -63,32 +61,20 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
-
 no-migration-sources = Չգտնվեց ծրագիր, որը պարունակում է էջանիշեր, պատմություն կամ գաղտնաբառ:
-
 import-source-page-title = Ներմուծել կարգավորումները ու տվյալները
 import-items-page-title = Ինչն է ներմուծվելու
-
 import-items-description = Ընտրեք, թե ինչ պետք է ներմուծվի՝
-
 import-migrating-page-title = Ներմուծվում է…
-
 import-migrating-description = Հետևյալ բաղադրիչները ներմուծվում են…
-
 import-select-profile-page-title = Ընտրեք հաշիվը
-
 import-select-profile-description = Կարող եք ներմուծել հետևյալ հաշիվներից՝
-
 import-done-page-title = Ներմուծումն ավարտվեց
-
 import-done-description = Հետևյալ բաղադրիչները հաջողությամբ ներմուծվեցին՝
-
 import-close-source-browser = Շարունակելուց առաջ խնդրում ենք համոզվել, որ ընտրված դիտարկիչը փակ է:
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Ընթերցացուցակ (Safari-ից)
 imported-edge-reading-list = Ընթերցացուցակ (Edge-ից)
 
@@ -110,7 +96,6 @@ browser-data-cookies-checkbox =
     .label = Թխուկներ
 browser-data-cookies-label =
     .value = Թխուկներ
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -123,12 +108,10 @@ browser-data-history-label =
             [firefox] Զննարկման պատմություն և Էջանիշեր
            *[other] Զննարկման պատմություն
         }
-
 browser-data-formdata-checkbox =
     .label = Պահպանված Պատմությունից
 browser-data-formdata-label =
     .value = Պահպանված Պատմությունից
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -137,7 +120,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Պահպանել մուտքագրումներ և գաղտնաբառեր
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -152,14 +134,15 @@ browser-data-bookmarks-label =
             [edge] Ընտրյալներ
            *[other] Էջանիշեր
         }
-
 browser-data-otherdata-checkbox =
     .label = Այլ տվյալներ
 browser-data-otherdata-label =
     .label = Այլ տվյալներ
-
 browser-data-session-checkbox =
     .label = Պատուհաններ և ներդիրներ
 browser-data-session-label =
     .value = Պատուհաններ և ներդիրներ
-
+browser-data-payment-methods-checkbox =
+    .label = Վճարամիջոցներ
+browser-data-payment-methods-label =
+    .value = Վճարամիջոցներ
