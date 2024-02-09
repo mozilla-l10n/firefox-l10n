@@ -1261,7 +1261,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Casglu Data a'r Defnydd o { -brand-short-name }
-collection-header2 = Casglu Data { -brand-short-name } a'i Ddefnydd
+collection-header2 = Casglu Data a'r Defnydd o { -brand-short-name }
     .searchkeywords = telemetreg
 collection-description = Rydym yn ceisio darparu dewisiadau i chi a chasglu dim ond beth sydd ei angen arnom i ddarparu a gwella { -brand-short-name } ar gyfer pawb. Rydym yn gofyn caniatâd bob tro cyn derbyn manylion personol.
 collection-privacy-notice = Hysbysiad Preifatrwydd
