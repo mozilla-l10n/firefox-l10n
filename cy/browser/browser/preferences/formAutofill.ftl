@@ -22,7 +22,7 @@ autofill-manage-edit-button = Golygu…
 address-capture-save-doorhanger-header = Cadw cyfeiriad?
 address-capture-save-doorhanger-description = Cadw manylion i { -brand-short-name } er mwyn i chi allu llenwi ffurflenni'n gyflym.
 address-capture-update-doorhanger-header = Diweddaru'r cyfeiriad?
-address-capture-edit-doorhanger-header = Golygu'r cyfeiriad
+address-capture-edit-doorhanger-header = Golygu cyfeiriad
 address-capture-save-button =
     .label = Cadw
     .accessKey = C
@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Gosodiadau cyfeiriad
 address-capture-learn-more-button =
     .label = Darllen rhagor
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Ychwanegu Cyfeiriad Newydd
 address-capture-open-menu-button =
     .aria-label = Agor dewislen
 address-capture-edit-address-button =
@@ -48,7 +46,7 @@ address-capture-edit-address-button =
 # The dialog title for creating addresses in browser preferences.
 autofill-add-address-title = Ychwanegu cyfeiriad
 # The dialog title for editing addresses in browser preferences.
-autofill-edit-address-title = Golygu Cyfeiriad
+autofill-edit-address-title = Golygu cyfeiriad
 autofill-address-name = Enw
 autofill-address-given-name = Enw Cyntaf
 autofill-address-additional-name = Enw Canol
@@ -111,8 +109,10 @@ autofill-address-eircode = Eircode
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Ychwanegu Cyfeiriad Newydd
 autofill-address-country = Gwlad neu Ranbarth
-autofill-address-country-only = Sir
+autofill-address-country-only = Gwlad
 autofill-address-tel = Ffôn
 autofill-address-email = E-bost
 autofill-cancel-button = Diddymu
@@ -122,11 +122,6 @@ autofill-country-warning-message = Dim ond ar gyfer rhai gwledydd y mae Awtolanw
 autofill-add-new-card-title = Ychwanegu Cerdyn Credyd Newydd
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Golygu Cerdyn Credyd
-autofill-message-tooltip = Gweld neges am awtolenwi
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Ychwanegu cerdyn
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Golygu cerdyn
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] Mae { -brand-short-name } yn ceisio dangos manylion cerdyn credyd. Cadarnhewch fynediad i'r cyfrif Windows hwn isod.
        *[other] Mae { -brand-short-name } yn ceisio dangos manylion cerdyn credyd.
     }
+autofill-message-tooltip = Gweld neges am awtolenwi
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Ychwanegu cerdyn
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Golygu cerdyn
 autofill-card-number = Rhif y Cerdyn
 autofill-card-invalid-number = Rhowch rif cerdyn dilys
 autofill-card-name-on-card = Enw ar y Cerdyn
