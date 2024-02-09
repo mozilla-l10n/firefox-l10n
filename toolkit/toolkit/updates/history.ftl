@@ -4,26 +4,24 @@
 
 history-title = Hanes Diweddaru
 history-intro = Mae'r diweddariadau canlynol wedi eu gosod
-
 close-button-label =
     .buttonlabelcancel = Cau
     .title = Hanes Diweddaru
-
 no-updates-label = Dim diweddariadau wedi eu gosod eto
 name-header = Enw'r Diweddariad
 date-header = Dyddiad Gosod
 type-header = Math
-state-header = Sir/Talaith
-
+state-header = Sir
 # Used to display update history
 #
 # Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
+#   $name (string) - Name of the update
+#   $buildID (string) - Build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
-
 update-details = Manylion
-
+# Variables:
+#   $date (string) - Date the last update was installed
 update-installed-on = Gosodwyd ar: { $date }
-
+# Variables:
+#   $status (string) - Status of the last update
 update-status = Statws: { $status }

@@ -4,11 +4,8 @@
 
 protocolhandler-mailto-os-handler-notificationbox = Defnyddio { -brand-short-name } bob tro i agor dolenni sy'n anfon e-byst?
 protocolhandler-mailto-os-handler-yes-confirm = { -brand-short-name } yw eich rhaglen rhagosodedig ar gyfer agor dolenni sy'n anfon e-byst.
-protocolhandler-mailto-os-handler-yes-button = Gosod fel y rhagosodedig
+protocolhandler-mailto-os-handler-yes-button = Gosod fel y rhagosodiad
 protocolhandler-mailto-os-handler-no-button = Nid nawr
-# Variables:
-#  $url (String): The url of a webmailer, but only its full domain name.
-protocolhandler-mailto-handler-notificationbox = Agor dolenni e-bost gan ddefnyddio { $url }?
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
@@ -18,5 +15,5 @@ protocolhandler-mailto-handler-yes-confirm = { $url } yw eich gwefan rhagosodedi
 
 ##
 
-protocolhandler-mailto-handler-yes-button = Gosod fel y rhagosodedig
+protocolhandler-mailto-handler-yes-button = Gosod fel y rhagosodiad
 protocolhandler-mailto-handler-no-button = Nid nawr

@@ -699,7 +699,7 @@ containers-remove-button =
 sync-signedout-caption = Mynd â'ch  Gwe gyda Chi
 sync-signedout-description2 = Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ar draws eich holl ddyfeisiau.
 sync-signedout-account-signin3 =
-    .label = Mewngofnodi i gydweddu…
+    .label = Mewngofnodi i Sync…
     .accesskey = M
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
