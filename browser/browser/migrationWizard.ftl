@@ -113,6 +113,32 @@ migration-wizard-progress-success-updated-passwords =
 migration-bookmarks-from-file-picker-title = Ներմուծել էջանիշերի ֆայլը
 migration-bookmarks-from-file-progress-header = Էջանիշների ներմուծում
 migration-bookmarks-from-file = Էջանիշեր
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML փաստաթուղթ
+       *[other] HTML ֆայլ
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON ֆայլ
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } էջանիշ
+       *[other] { $newEntries } էջանիշեր
+    }
+migration-import-button-label = Ներմուծել
+migration-choose-to-import-from-file-button-label = Ներմուծում ֆայլից
+migration-import-from-file-button-label = Ընտրեք Ֆայլ
+migration-cancel-button-label = Չեղարկել
+migration-done-button-label = Պատրաստ է
+migration-continue-button-label = Շարունակել
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -120,9 +146,40 @@ migration-bookmarks-from-file = Էջանիշեր
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = էջանիշեր
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = ընտրյալներ
+migration-list-password-label = գաղտնաբառեր
+migration-list-history-label = պատմություն
+migration-list-extensions-label = ընդլայնումներ
+migration-list-autofill-label = ինքնալցնել տվյալները
+migration-list-payment-methods-label = վճարամիջոցներ
 
 ##
 
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Ներմուծվում է…
+migration-wizard-progress-icon-completed =
+    .aria-label = Ավարտված է
+migration-safari-password-import-header = Ներմուծեք գաղտնաբառեր Safari-ից
+migration-safari-password-import-steps-header = Safari-ի գաղտնաբառերը ներմուծելու համար՝
+migration-safari-password-import-step1 = Safari-ում բացեք «Safari» ցանկը և անցեք Նախապատվություններ > Գաղտնաբառեր
+migration-safari-password-import-step2 = Ընտրեք <img data-l10n-name="safari-icon-3dots"/> կոճակը և ընտրեք «Արտահանել բոլոր գաղտնաբառերը»
+migration-safari-password-import-step3 = Պահեք գաղտնաբառերի ֆայլը
+migration-safari-password-import-step4 = Օգտագործեք «Ընտրեք ֆայլը» ստորև՝ ձեր պահած գաղտնաբառերի ֆայլը ընտրելու համար
+migration-safari-password-import-skip-button = Բաց թողնել
+migration-safari-password-import-select-button = Ընտրեք Ֆայլ
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } էջանիշ
+       *[other] { $quantity } էջանիշեր
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
