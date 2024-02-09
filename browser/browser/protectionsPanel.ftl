@@ -31,12 +31,12 @@ protections-panel-etp-off-header = Mae Diogelwch Uwch Rhag Tracio I FFWRDD ar y 
 
 protections-panel-etp-toggle-on =
     .label = Diogelwch Uwch Rhag Tracio
-    .description = Ar y wefan hon
+    .description = Ymlaen ar gyfer y wefan hon
     .aria-label = Diogelwch Uwch Rhag Tracio: Ymlaen ar gyfer { $host }
 protections-panel-etp-toggle-off =
     .label = Diogelwch Uwch Rhag Tracio
-    .description = I ffwrdd ar gyfer y wefan hon
-    .aria-label = Diogelwch Uwch Rhag Tracio: I ffwrdd ar gyfer { $host }
+    .description = Diffodd ar gyfer y wefan hon
+    .aria-label = Diogelwch Uwch Rhag Tracio:  Diffodd ar gyfer { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Gwefan ddim yn gweithio?
 # The heading/title of the sub-panel view
@@ -122,13 +122,13 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
-protections-panel-cookie-banner-handling-header = Llai o Faneri Cwcis
+protections-panel-cookie-banner-handling-header = Cyfyngu Baneri Cwcis
 protections-panel-cookie-banner-blocker-header = Rhwystrydd Baneri Cwcis
 protections-panel-cookie-banner-handling-enabled = Ymlaen ar gyfer y wefan hon
 protections-panel-cookie-banner-handling-disabled = Diffodd ar gyfer y wefan hon
 protections-panel-cookie-banner-handling-undetected = Nid yw’r wefan yn cael ei chefnogi ar hyn o bryd
 protections-panel-cookie-banner-view-title =
-    .title = Llai o Faneri Cwcis
+    .title = Cyfyngu Baneri Cwcis
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Diffodd Llai o Faneri Cwcis ar { $host }?

@@ -169,7 +169,7 @@ mr2022-onboarding-easy-setup-primary-button-label = Cadw a pharhau
 # Set Default action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-set-default-checkbox-label = Gosod { -brand-short-name } fel y porwr rhagosodedig
 # Import action checkbox label used on new user onboarding first screen
-mr2022-onboarding-easy-setup-import-checkbox-label = Mewnforio o'r porwr blaenorol
+mr2022-onboarding-easy-setup-import-checkbox-label = Mewnforiwch o'r porwr blaenorol
 
 ## MR2022 New User Pin Firefox screen strings
 

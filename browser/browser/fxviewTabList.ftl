@@ -26,7 +26,7 @@ fxviewtabrow-just-now-timestamp = Newydd ddigwydd
 
 fxviewtabrow-delete = Dileu
     .accesskey = D
-fxviewtabrow-forget-about-this-site = Anghofiwch am y wefan hon…
+fxviewtabrow-forget-about-this-site = Anghofio'r Wefan Hon…
     .accesskey = A
 fxviewtabrow-open-in-window = Agor mewn Ffenestr Newydd
     .accesskey = F

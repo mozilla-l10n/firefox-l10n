@@ -63,8 +63,8 @@ third-party-button-to-block-module = Rhwystro'r modiwl hwn
     .title = Rhwystro'r modiwl hwn
     .aria-label = Rhwystro'r modiwl hwn
 third-party-button-to-unblock-module = Dadrwystro'r modiwl hwn
-    .title = Wedi'i rwystro. Cliciwch i'w ddadrwystro.
-    .aria-label = Wedi'i rwystro. Cliciwch i'w ddadrwystro.
+    .title = Wedi'i rwystro ar hyn o bryd. Cliciwch i'w ddadrwystro.
+    .aria-label = Wedi'i rwystro ar hyn o bryd. Cliciwch i'w ddadrwystro.
 third-party-button-to-unblock-module-disabled = Dadrwystro'r modiwl hwn (rhestr rhwystro wedi'i analluogi)
     .title =
         Wedi'i nodi fel wedi'i rwystro, er fod y rhestr rhwystro wedi ei analluogi ar gyfer y rhediad yma
