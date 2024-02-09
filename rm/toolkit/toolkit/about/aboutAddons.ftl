@@ -220,6 +220,9 @@ shortcuts-no-addons = Naginas extensiuns activadas.
 shortcuts-no-commands = Las suandantas extensiuns n'han naginas cumbinaziuns da tastas:
 shortcuts-input =
     .placeholder = Tippa ina scursanida
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Allontanar la scursanida
 shortcuts-browserAction2 = Activar il buttun da la trav d'utensils
 shortcuts-pageAction = Activar l'acziun da pagina
 shortcuts-sidebarAction = Activar/deactivar la trav laterala

@@ -206,6 +206,9 @@ cfr-cbh-dismiss-button = Betg ussa
     .accesskey = B
 cookie-banner-blocker-cfr-header = { -brand-short-name } ha gist bloccà cookies per tai
 cookie-banner-blocker-cfr-body = Nus refusain automaticamain blers pop-ups da cookies per render difficil a websites da ta fastizar.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } ha gist refusà ina bandiera da cookie per tai
+cookie-banner-blocker-onboarding-body = Damain distracziun, damain cookies che ta fastizeschan sin questa website.
+cookie-banner-blocker-onboarding-learn-more = Ulteriuras infurmaziuns
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -235,10 +238,6 @@ fxa-sync-cfr-secondary = Ma regurdar pli tard
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Utiliseschas ti in apparat pli vegl?
-device-migration-fxa-spotlight-body = Fa copias da segirezza da tias datas per far la segira che ti na perdas betg infurmaziuns impurtantas sco segnapaginas e pleds-clav – specialmain sche ti midas ad in nov apparat.
-device-migration-fxa-spotlight-primary-button = Co far copias da segirezza da mias datas
-device-migration-fxa-spotlight-link = Ma regurdar pli tard
 device-migration-fxa-spotlight-heavy-user-header = N'emblida betg da far copias da segirezza da tias datas
 device-migration-fxa-spotlight-heavy-user-body = Fa la segira che datas impurtantas – sco segnapaginas e pleds-clav – èn actualas e protegidas sin tut tes apparats.
 device-migration-fxa-spotlight-heavy-user-primary-button = Cumenzar
@@ -273,3 +272,14 @@ launch-on-login-infobar-reject-button = Betg ussa
 launch-on-login-infobar-final-message = <strong>Ti avras { -brand-short-name } mintga giada cura che ti reavieschas tes computer?</strong> Per administrar tias preferenzas en connex cun l'aviar, tschertgar «aviar» en ils parameters.
 launch-on-login-infobar-final-reject-button = Na, grazia
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Ta liberescha da fastizaders stentus
+tail-fox-spotlight-subtitle = Piglia cumià da fastizaders da reclama stentus e giauda l’internet a moda pli segira e svelta.
+tail-fox-spotlight-primary-button = Avrir mias colliaziuns cun { -brand-short-name }
+tail-fox-spotlight-secondary-button = Betg ussa
