@@ -50,6 +50,7 @@ firefoxview-tabpickup-network-offline-header = Проверете връзкат
 firefoxview-tabpickup-network-offline-primarybutton = Нов опит
 firefoxview-tabpickup-sync-error-header = Срещаме проблем със синхронизирането
 firefoxview-tabpickup-sync-error-primarybutton = Нов опит
+firefoxview-tabpickup-sync-disconnected-header = Включете синхронизирането, за да продължите
 firefoxview-tabpickup-sync-disconnected-primarybutton = Включете синхронизирането в настройките
 firefoxview-tabpickup-password-locked-header = Въведете вашата главна парола, за да видите разделите
 firefoxview-tabpickup-password-locked-link = Научете повече
