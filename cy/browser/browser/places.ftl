@@ -56,7 +56,7 @@ places-by-day-and-site =
     .label = Yn ôl Dyddiad a Gwefan
     .accesskey = Y
 places-history-search =
-    .placeholder = Hanes chwilio
+    .placeholder = Chwilio'ch hanes
 places-history =
     .aria-label = Hanes
 places-bookmarks-search =
@@ -273,7 +273,7 @@ places-details-pane-items-count =
 places-search-bookmarks =
     .placeholder = Chwilio'r Nodau Tudalen
 places-search-history =
-    .placeholder = Hanes Chwilio
+    .placeholder = Chwilio'ch Hanes
 places-search-downloads =
     .placeholder = Chwilio'r Llwytho i Lawr
 

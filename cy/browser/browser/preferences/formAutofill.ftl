@@ -5,7 +5,7 @@
 
 ## The address and credit card autofill management dialog in browser preferences
 
-autofill-manage-addresses-title = Cyfeiriadau wedi eu Cadw
+autofill-manage-addresses-title = Cyfeiriadau wedi'u cadw
 autofill-manage-addresses-list-header = Cyfeiriadau
 autofill-manage-credit-cards-title = Cardiau Credyd wedi eu Cadw
 autofill-manage-credit-cards-list-header = Cardiau Credyd

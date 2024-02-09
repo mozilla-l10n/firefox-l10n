@@ -4,7 +4,7 @@
 
 privatebrowsingpage-open-private-window-label = Agor Ffenestr Breifat
     .accesskey = F
-about-private-browsing-search-placeholder = Chwilio'r We
+about-private-browsing-search-placeholder = Chwilio'r we
 about-private-browsing-info-title = Rydych mewn Ffenestr Breifat
 about-private-browsing-search-btn =
     .title = Chwilio'r we
