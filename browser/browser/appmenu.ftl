@@ -61,9 +61,9 @@ appmenuitem-settings =
 ## Zoom and Fullscreen Controls
 
 appmenuitem-zoom-enlarge =
-    .label = Chwyddo mewn
+    .label = Cynyddu
 appmenuitem-zoom-reduce =
-    .label = Chwyddo allan
+    .label = Lleihau
 appmenuitem-fullscreen =
     .label = Sgrin Lawn
 
@@ -197,7 +197,7 @@ appmenu-manage-history =
 appmenu-restore-session =
     .label = Adfer y Sesiwn Flaenorol
 appmenu-clear-history =
-    .label = Clirio Hanes Diweddar…
+    .label = Clirio'r Hanes Diweddar…
 appmenu-recent-history-subheader = Hanes Diweddar
 appmenu-recently-closed-tabs =
     .label = Tabiau wedi'u cau'n ddiweddar
