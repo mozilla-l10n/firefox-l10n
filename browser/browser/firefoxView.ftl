@@ -74,7 +74,7 @@ firefoxview-collapse-button-hide =
 ## History in this context refers to browser history
 
 firefoxview-history-nav = Պատմություն
-    .title = { "" }
+    .title = Պատմություն
 firefoxview-history-header = Պատմություն
 firefoxview-history-context-delete = Ջնջել Պատմությունից
     .accesskey = D

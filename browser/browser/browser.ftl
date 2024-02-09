@@ -394,19 +394,19 @@ browser-tab-mute =
     { $count ->
         [1] ԼՌԵՑՆԵԼ ՆԵՐԴԻՐԸ
         [one] ԼՌԵՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԸ
-       *[other] { "" }
+       *[other] ԼՌԵՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԸ
     }
 browser-tab-unmute =
     { $count ->
         [1] ՉԼՌԵՑՆԵԼ ՆԵՐԴԻՐԸ
         [one] ՉԼՌԵՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԸ
-       *[other] { "" }
+       *[other] ՉԼՌԵՑՆԵԼ { $count } ՆԵՐԴԻՐՆԵՐԸ
     }
 browser-tab-unblock =
     { $count ->
         [1] ՆՎԱԳԱՐԿԵԼ ՆԵՐԻԴՐԸ
         [one] ՆՎԱԳԱՐԿԵԼ { $count } ՆԵՐԻԴՐԸ
-       *[other] { "" }
+       *[other] ՆՎԱԳԱՐԿԵԼ { $count } ՆԵՐԻԴՐԸ
     }
 
 ## Bookmarks toolbar items
