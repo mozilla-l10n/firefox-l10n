@@ -11,7 +11,7 @@ synced-tabs-sidebar-open-settings = Agor gosodiadau Sync
 synced-tabs-sidebar-tabsnotsyncing = Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.
 synced-tabs-sidebar-connect-another-device = Cysylltu Dyfais Arall
 synced-tabs-sidebar-search =
-    .placeholder = Chwilio tabiau wedi eu cydweddu
+    .placeholder = Chwilio tabiau wedi'u cydweddu
 
 ## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
 ## and/or devices in the list. The "Open" strings below should be translated

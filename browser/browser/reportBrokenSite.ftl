@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-report-broken-site-mainview-title = Adrodd ar Wefan wedi Torri
+report-broken-site-mainview-title = Adrodd ar wefan wedi torri
 report-broken-site-panel-header =
     .label = Adrodd ar wefan wedi torri
     .title = Adrodd ar wefan wedi torri
