@@ -156,7 +156,7 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 # The linearization status of the document; usually called "Fast Web View" in
 # English locales of Adobe software.
-pdfjs-document-properties-linearized = Rýchle Web View:
+pdfjs-document-properties-linearized = Rýchle zobrazovanie z webu:
 pdfjs-document-properties-linearized-yes = Áno
 pdfjs-document-properties-linearized-no = Nie
 pdfjs-document-properties-close-button = Zavrieť
@@ -300,7 +300,7 @@ pdfjs-editor-free-text-button =
     .title = Text
 pdfjs-editor-free-text-button-label = Text
 pdfjs-editor-ink-button =
-    .title = Kreslenie
+    .title = Kresliť
 pdfjs-editor-ink-button-label = Kresliť
 pdfjs-editor-stamp-button =
     .title = Pridať alebo upraviť obrázky
