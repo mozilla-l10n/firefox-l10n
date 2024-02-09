@@ -78,6 +78,12 @@ toolbar-button-fxaccount =
     .label = { -fxaccount-brand-name }
     .tooltiptext = { -fxaccount-brand-name }
 
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = Հաշիվ
+    .tooltiptext = Հաշիվ
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -248,6 +254,7 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+# Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Օգտագործեք պահված գաղտնաբառը
     .accesskey = o
@@ -259,6 +266,9 @@ main-context-menu-suggest-strong-password =
     .accesskey = S
 main-context-menu-manage-logins2 =
     .label = Կառավարել մուտքագրումները
+    .accesskey = M
+main-context-menu-manage-passwords =
+    .label = Կառավարել գաղտնաբառերը
     .accesskey = M
 main-context-menu-keyword =
     .label = Ավելացնել Բանալի այս Որոնմանը…

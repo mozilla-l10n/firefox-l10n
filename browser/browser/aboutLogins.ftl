@@ -309,6 +309,7 @@ about-logins-import-dialog-error-try-import-again = Նորից փորձեք նե
 about-logins-import-dialog-error-cancel = Չեղարկել
 about-logins-import-report-title = Ներմուծման ամփոփագիր
 about-logins-import-report-row-description-added = Նոր մուտքագրում է ավելացվել
+about-logins-import-report-row-description-added2 = Ավելացվեց նոր գաղտնաբառ
 about-logins-import-report-row-description-error = Սխալ․ դաշտ չկա
 
 ##
@@ -324,3 +325,4 @@ about-logins-import-report-row-description-error-missing-field = Սխալ․ բ�
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Ներմուծել ամփոփ հաշվետվություն

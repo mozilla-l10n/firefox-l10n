@@ -30,6 +30,8 @@ firefoxview-syncedtabs-adddevice-primarybutton = Փորձեք { -brand-product-n
 firefoxview-tabpickup-synctabs-header = Միացնել ներդիրների համաժամացումը
 firefoxview-tabpickup-synctabs-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
+firefoxview-syncedtabs-synctabs-header = Թարմացրեք ձեր համաժամացման կարգավորումները
+firefoxview-syncedtabs-loading-header = Համաժամացում
 firefoxview-tabpickup-network-offline-header = Ստուգեք կապակցումը համացանցին
 firefoxview-tabpickup-network-offline-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-sync-error-primarybutton = Կրկին փորձել
@@ -39,19 +41,31 @@ firefoxview-tabpickup-password-locked-header = Ներդիրները դիտելո
 firefoxview-tabpickup-password-locked-description = Ձեր ներդիրները ստանալու համար պետք է մուտքագրեք Հիմնական գաղտնաբառը { -brand-short-name }-ի համար:
 firefoxview-tabpickup-password-locked-link = Իմանալ ավելին
 firefoxview-tabpickup-password-locked-primarybutton = Մուտքագրել Հիմնական գաղտնաբառը
+firefoxview-tabpickup-signed-out-header = Մուտք գործեք՝ կրկին կապակցվելու համար
 firefoxview-tabpickup-signed-out-primarybutton = Մուտք գործել
 firefoxview-mobile-promo-header = Բերեք ներդիրները ձեր հեռախոսից կամ թաբլեթից
 firefoxview-mobile-confirmation-header = 🎉 Լավ է գնալ:
 firefoxview-mobile-confirmation-description = Այժմ կարող եք բերել { -brand-product-name }-ի ձեր ներդիրները թաբլեթից կամ հեռախոսից:
 firefoxview-closed-tabs-title = Վերջին փակվածը
 firefoxview-closed-tabs-description2 = Վերաբացեք ձեր փակած էջերը այս պատուհանում:
+firefoxview-closed-tabs-placeholder-header = Վերջին փակված ներդիրներ չկան
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Բաց թողնել { $tabTitle }-ը
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Վերջին ակտիվը
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Բացել { $targetURI }-ը նոր ներդիրում
+firefoxview-try-colorways-button = Փորձեք գունային երանգներ
 firefoxview-change-colorway-button = Փոխել գույնը
 # Variables:
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = Դեռևս տեսնելու ոչինչ չկա
 firefoxview-collapse-button-show =
     .title = Ցուցադրել ցուցակը
 firefoxview-collapse-button-hide =
@@ -59,18 +73,38 @@ firefoxview-collapse-button-hide =
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = Պատմություն
+    .title = { "" }
+firefoxview-history-header = Պատմություն
+firefoxview-history-context-delete = Ջնջել Պատմությունից
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = Բացել ներդիրները
+    .title = Բացել ներդիրները
+firefoxview-opentabs-header = Բացել ներդիրները
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Վերջերս փակված ներդիրներ
+    .title = Վերջերս փակված ներդիրներ
+firefoxview-recently-closed-header = Վերջերս փակված ներդիրներ
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
 
 ##
 
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
+firefoxview-view-all-link = Դիտել բոլորը
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Պատուհան { $winID }
+firefoxview-opentabs-focus-tab =
+    .title = Փոխարկել այս ներդիրին
+firefoxview-show-more = Ցուցադրել ավելին
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
