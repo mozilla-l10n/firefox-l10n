@@ -98,7 +98,7 @@ autofill-address-oblast = Oblast
 ## Postal code name types
 
 # Used in IN
-autofill-address-pin = Pin
+autofill-address-pin = Pinio
 autofill-address-postal-code = Cod Post
 autofill-address-zip = Cod Zip
 # Used in IE
