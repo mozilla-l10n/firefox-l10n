@@ -215,6 +215,9 @@ shortcuts-no-addons = Vi havas neniun aktivan etendaĵon.
 shortcuts-no-commands = La jenaj etendaĵoj ne havas alirklavojn:
 shortcuts-input =
     .placeholder = Tajpu alirklavon
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Forigi ŝparvojon
 shortcuts-browserAction2 = Aktivigi ilaran butonon
 shortcuts-pageAction = Aktivigi paĝan agon
 shortcuts-sidebarAction = Montri/kaŝi flankan strion
