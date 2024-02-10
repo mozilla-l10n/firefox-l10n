@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Forigi tiun ĉi ingon
 containers-remove-cancel-button = Ne forigi tiun ĉi ingon
+settings-tabs-show-image-in-preview =
+    .label = Montri antaŭvidon kiam vi movas la muson super langeto
+    .accessKey = a
 
 ## General Section - Language & Appearance
 
