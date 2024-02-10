@@ -195,7 +195,7 @@ firefoxview-search-results-empty = Nessun risultato per “{ $query }”
 firefoxview-sort-history-by-date-label = Ordina per data
 firefoxview-sort-history-by-site-label = Ordina per sito
 firefoxview-sort-open-tabs-by-recency-label = Ordina per attività recente
-firefoxview-sort-open-tabs-by-order-label = Ordina in base all’ordine delle schede
+firefoxview-sort-open-tabs-by-order-label = Mantieni l’ordine delle schede
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -256,10 +256,7 @@ firefoxview-recentlyclosed-empty-description-two = Per trovare schede che hai ch
 
 ##
 
-
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Nessuna scheda aperta in questo dispositivo
 firefoxview-syncedtabs-connect-another-device = Connetti un altro dispositivo
-
-
