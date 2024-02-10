@@ -205,6 +205,9 @@ cfr-cbh-dismiss-button = Ne nun
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name } ĵus blokis kuketojn por vi
 cookie-banner-blocker-cfr-body = Ni aŭtomate rifuzas plurajn kuketajn ŝprucfenestrojn por malfaciligi la taskon de retejoj kiuj spuras vin.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } ĵus rifuzis kuketan anoncon por vi
+cookie-banner-blocker-onboarding-body = Malpli da distro, malpli da kuketoj klopodante spuri vin en tiu ĉi retejo.
+cookie-banner-blocker-onboarding-learn-more = Pli da informo
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -234,10 +237,6 @@ fxa-sync-cfr-secondary = Rememorigi poste
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Ĉu vi uzas malnovan aparaton?
-device-migration-fxa-spotlight-body = Faru sekurkopion de viaj datumoj por certi ne perdi iun gravan informon, kiel legosignojn kaj pasvortojn — ĉefe se vi iras al nova aparato.
-device-migration-fxa-spotlight-primary-button = Kiel fari sekurkopion de miaj datumoj
-device-migration-fxa-spotlight-link = Rememorigi poste
 device-migration-fxa-spotlight-heavy-user-header = Ne forgesu fari sekurkopion de viaj datumoj
 device-migration-fxa-spotlight-heavy-user-body = Certiĝu havi gravajn informojn, — kiel legosignojn kaj pasvortojn — ĝisdatigitaj kaj protektitaj en ĉiuj viaj aparatoj.
 device-migration-fxa-spotlight-heavy-user-primary-button = Unuaj paŝoj
@@ -272,3 +271,6 @@ launch-on-login-infobar-reject-button = Ne nun
 launch-on-login-infobar-final-message = <strong>Ĉu malfermi { -brand-short-name } ĉiufoje je restarto de via komputilo?</strong> Por administri la agordojn de aŭtomata malfermo, serĉi “restarto” en la agordoj..
 launch-on-login-infobar-final-reject-button = Ne, dankon
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
