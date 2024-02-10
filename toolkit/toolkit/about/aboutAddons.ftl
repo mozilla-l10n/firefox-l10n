@@ -217,6 +217,9 @@ shortcuts-no-addons = Yhtäkään laajennusta ei ole otettu käyttöön.
 shortcuts-no-commands = Seuraavilla laajennuksilla ei ole pikanäppäimiä:
 shortcuts-input =
     .placeholder = Kirjoita näppäinyhdistelmä
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Poista pikanäppäin
 shortcuts-browserAction2 = Aktivoi työkalupalkin painike
 shortcuts-pageAction = Aktivoi sivutoiminto
 shortcuts-sidebarAction = Näytä/piilota sivupaneeli
