@@ -45,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Fejl: Forkert pinkode. Prøv igen. Du har { $retriesLeft } forsøg tilbage.
     }
 about-webauthn-results-pin-blocked-error = Fejl. Der er ikke flere forsøg tilbage, og din enhed er blevet låst, fordi den forkerte pinkode blev indtastet for mange gange. Enheden behøver at blive nulstillet.
+about-webauthn-results-pin-not-set-error = Fejl: Ingen PIN-kode angivet. Denne handling kræver PIN-beskyttelse.
 about-webauthn-results-pin-too-short-error = Fejl: Den angivne pinkode er for kort.
 about-webauthn-results-pin-too-long-error = Fejl: Den angivne pinkode er for lang.
 about-webauthn-results-pin-auth-blocked-error = Fejl. Der er foretaget for mange forsøg i træk, og autentificering via pinkode er midlertidigt blevet blokeret. Enheden behøver at blive genstartet (fjern strømkablet og sæt det i igen).
@@ -57,6 +58,7 @@ about-webauthn-repeat-pin-label = Gentag ny pinkode:
 about-webauthn-current-pin-label = Nuværende pinkode:
 about-webauthn-pin-required-label = Indtast din pinkode:
 about-webauthn-credential-list-subsection-title = Login-informationer:
+about-webauthn-enrollment-name-label = Registreringens navn (valgfrit):
 about-webauthn-enrollment-list-empty = Ingen registreringer fundet på enheden.
 about-webauthn-credential-list-empty = Ingen login-informationer fundet på enheden.
 about-webauthn-confirm-deletion-label = Du er ved at slette:
@@ -67,6 +69,8 @@ about-webauthn-current-set-pin-button = Indstil pinkode
 about-webauthn-current-change-pin-button = Skift pinkode
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Vis legitimationsoplysninger
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Vis registreringer
 about-webauthn-add-bio-enrollment-button = Tilføj registrering
 about-webauthn-cancel-button = Annuller
 about-webauthn-send-pin-button = OK
