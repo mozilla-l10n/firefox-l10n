@@ -225,6 +225,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = Pasidalinti idėjomis ir atsiliepimais…
     .accesskey = s
+appmenu-help-switch-device =
+    .label = Perėjimas prie naujo įrenginio
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
