@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Fjern denne kontekst
 containers-remove-cancel-button = Fjern ikke denne kontekst
+settings-tabs-show-image-in-preview =
+    .label = Forhåndsvis når musemarkøren er over et faneblad
+    .accessKey = m
 
 ## General Section - Language & Appearance
 
@@ -1000,6 +1003,7 @@ sitedata-delete-on-close =
     .label = Slet cookies og websteds-data, når { -brand-short-name } lukkes
     .accesskey = l
 sitedata-delete-on-close-private-browsing = I permanent privat browsing-tilstand bliver cookies og webstedsdata altid slettet, når { -brand-short-name } afsluttes.
+sitedata-delete-on-close-private-browsing2 = På baggrund af dine indstillinger for historik sletter { -brand-short-name } cookies og webstedsdata fra din session, når du lukker browseren.
 sitedata-allow-cookies-option =
     .label = Accepter cookies og websteds-data
     .accesskey = A

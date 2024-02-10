@@ -570,6 +570,11 @@ urlbar-result-action-search-w-engine = Søg med { $engine }
 urlbar-result-action-sponsored = Sponsoreret
 urlbar-result-action-switch-tab = Skift til faneblad
 urlbar-result-action-visit = Besøg
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Skift til fanebladet · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Besøg fra udklipsholder
 # Directs a user to press the Tab key to perform a search with the specified
@@ -893,6 +898,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Åbn tidligere faneblade?</strong> Du kan gendanne din tidligere session fra programmenuen i { -brand-short-name } <img data-l10n-name="icon"/> under Historik.
 restore-session-startup-suggestion-button = Vis mig hvordan
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Din organisation har blokeret adgang til lokale filer på denne computer.
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
