@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Håndtering af pinkoder
 about-webauthn-credential-management-section-title = Håndter legitimationsoplysninger
 about-webauthn-pin-required-section-title = Pinkode påkrævet
 about-webauthn-confirm-deletion-section-title = Bekræft sletning
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biometrisk registrering
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Vælg din ønskede sikkerheds-token ved at b
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Kan ikke håndtere indstillinger, fordi din sikkerheds-token ikke understøtter CTAP 2.
 about-webauthn-text-not-available = Ikke tilgængelig på denne platform.
+about-webauthn-bio-enrollment-list-subsection-title = Registreringer:
+about-webauthn-add-bio-enrollment-section-title = Tilføj ny registrering
 
 ## Results label
 
@@ -53,6 +57,7 @@ about-webauthn-repeat-pin-label = Gentag ny pinkode:
 about-webauthn-current-pin-label = Nuværende pinkode:
 about-webauthn-pin-required-label = Indtast din pinkode:
 about-webauthn-credential-list-subsection-title = Login-informationer:
+about-webauthn-enrollment-list-empty = Ingen registreringer fundet på enheden.
 about-webauthn-credential-list-empty = Ingen login-informationer fundet på enheden.
 about-webauthn-confirm-deletion-label = Du er ved at slette:
 
@@ -62,9 +67,12 @@ about-webauthn-current-set-pin-button = Indstil pinkode
 about-webauthn-current-change-pin-button = Skift pinkode
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Vis legitimationsoplysninger
+about-webauthn-add-bio-enrollment-button = Tilføj registrering
 about-webauthn-cancel-button = Annuller
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Slet
+about-webauthn-start-enrollment-button = Start registrering
+about-webauthn-update-button = Opdater
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -128,3 +136,12 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Ikke understøttet
+
+## Bio enrollment sample feedbacks
+
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+

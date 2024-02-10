@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Ryd al historik
     .style = min-width: 34em
 clear-data-settings-label = Når jeg lukker { -brand-short-name }, skal den automatisk rydde:
+sanitize-on-shutdown-description = Ryd automatisk alle markerede elementer, når { -brand-short-name } lukkes.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,9 +55,7 @@ history-section-label = Historik
 item-history-and-downloads =
     .label = Browser- og filhentningshistorik
     .accesskey = B
-item-browsing-and-search =
-    .label = Besøgte websteder, gemte formular-data og søgninger
-    .accesskey = B
+item-history-form-data-downloads-description = Rydder websteds- og downloadhistorik, gemte formularoplysninger og søgehistorik
 item-cookies =
     .label = Cookies
     .accesskey = C
@@ -81,9 +80,6 @@ item-site-prefs =
     .label = Websteds-indstillinger
     .accesskey = W
 item-site-prefs-description = Nulstiller dine tilladelser og websteds-indstillinger til de oprindelige indstillinger
-item-download-history =
-    .label = Liste med hentede filer
-    .accesskey = L
 data-section-label = Data
 item-site-settings =
     .label = Webstedsspecifikke indstillinger
@@ -98,6 +94,8 @@ sanitize-button-ok =
     .label = Ryd nu
 sanitize-button-ok2 =
     .label = Ryd
+sanitize-button-ok-on-shutdown =
+    .label = Gem ændringer
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
