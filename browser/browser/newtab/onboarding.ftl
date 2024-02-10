@@ -347,6 +347,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Tak for at du bruger { -bra
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Hvor længe har du anvendt { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Hvor godt kender du { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Din feedback er med til at gøre { -brand-short-name } endnu bedre.
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Jeg er helt ny
 onboarding-new-user-survey-time-based-option-2 = Mindre end 1 måned
