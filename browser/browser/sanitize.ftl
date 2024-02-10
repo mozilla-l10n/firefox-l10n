@@ -55,10 +55,19 @@ history-section-label = Historik
 item-history-and-downloads =
     .label = Browser- og filhentningshistorik
     .accesskey = B
+item-history-form-data-downloads =
+    .label = Historik
+    .accesskey = s
 item-history-form-data-downloads-description = Rydder websteds- og downloadhistorik, gemte formularoplysninger og søgehistorik
 item-cookies =
     .label = Cookies
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookies og webstedsdata ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Cookies og webstedsdata
     .accesskey = C

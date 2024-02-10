@@ -205,6 +205,9 @@ cfr-cbh-dismiss-button = Ikke nu
     .accesskey = n
 cookie-banner-blocker-cfr-header = { -brand-short-name } har lige blokeret cookies for dig
 cookie-banner-blocker-cfr-body = Vi afviser automatisk mange cookie-bannere for at gøre det svært for websteder at spore dig.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } har lige afvist et cookie-banner for dig
+cookie-banner-blocker-onboarding-body = Færre distraktioner og færre cookies, der sporer dig på dette websted.
+cookie-banner-blocker-onboarding-learn-more = Læs mere
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -234,10 +237,6 @@ fxa-sync-cfr-secondary = Påmind mig senere
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Bruger du en ældre enhed?
-device-migration-fxa-spotlight-body = Tag en sikkerhedskopi af dine data for at sikre, at du ikke mister vigtige oplysninger som bogmærker og adgangskoder - især hvis du skifter til en ny enhed.
-device-migration-fxa-spotlight-primary-button = Sådan sikkerhedskopierer du dine data
-device-migration-fxa-spotlight-link = Påmind mig senere
 device-migration-fxa-spotlight-heavy-user-header = Husk at sikkerhedskopiere dine data
 device-migration-fxa-spotlight-heavy-user-body = Sørg for at vigtige oplysninger — som bogmærker og adgangskoder — er opdaterede og beskyttet på tværs af alle dine enheder.
 device-migration-fxa-spotlight-heavy-user-primary-button = Kom i gang
@@ -272,3 +271,14 @@ launch-on-login-infobar-reject-button = Ikke nu
 launch-on-login-infobar-final-message = <strong>Åbner du { -brand-short-name } hver gang, du genstarter din computer?</strong> Søg efter "opstart" i indstillingerne for at ændre dine indstillinger for opstart.
 launch-on-login-infobar-final-reject-button = Nej tak
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Hold irriterende sporings-tjenester på afstand
+tail-fox-spotlight-subtitle = Sig farvel til sporing via reklamer og goddag til en sikrere og hurtigere oplevelse på nettet.
+tail-fox-spotlight-primary-button = Åbn mine links med { -brand-short-name }
+tail-fox-spotlight-secondary-button = Ikke nu
