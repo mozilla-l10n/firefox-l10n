@@ -224,6 +224,9 @@ shortcuts-no-addons = Du har ikke aktiveret nogen udvidelser.
 shortcuts-no-commands = Følgende udvidelser han ingen genveje:
 shortcuts-input =
     .placeholder = Indtast en genvej.
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Fjern genvej
 shortcuts-browserAction2 = Aktiver knap på værktøjslinjen
 shortcuts-pageAction = Aktiver sidehandling
 shortcuts-sidebarAction = Vis/skjul sidepanelet
