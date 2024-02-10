@@ -271,3 +271,14 @@ launch-on-login-infobar-reject-button = Ei nyt
 launch-on-login-infobar-final-message = <strong>Avataanko { -brand-short-name } aina, kun käynnistät tietokoneen uudelleen?</strong> Voit hallita käynnistysasetuksia etsimällä asetuksista “käynnistys”.
 launch-on-login-infobar-final-reject-button = Ei kiitos
     .accesskey = E
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Pidä ärsyttävät seuraimet kaukana
+tail-fox-spotlight-subtitle = Sano hyvästit ärsyttäville mainosseuraimille ja asetu turvallisempaan, nopeampaan Internet-kokemukseen.
+tail-fox-spotlight-primary-button = Avaa linkit { -brand-short-name }illa
+tail-fox-spotlight-secondary-button = Ei nyt
