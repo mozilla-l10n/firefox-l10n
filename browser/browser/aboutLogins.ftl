@@ -10,6 +10,9 @@ about-logins-login-filter =
 create-new-login-button =
     .title = Rnu anekcum amaynut
 about-logins-page-title-name = Awalen uffiren
+about-logins-login-filter2 =
+    .placeholder = Nadi awalen uffiren
+    .key = N
 create-login-button =
     .title = rnu awal uffir
 fxaccounts-sign-in-text = Kcem ɣer wawalen-ik uffiren ɣef yibenkan-nniḍen
@@ -26,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Kter seg iminig nniḍe
 about-logins-menu-menuitem-import-from-a-file = Kter seg ufaylu…
 about-logins-menu-menuitem-export-logins = Sifeḍ inekcam…
 about-logins-menu-menuitem-remove-all-logins = Kkes meṛṛa inekcumen…
+about-logins-menu-menuitem-export-logins2 = Kter awalen uffiren…
 about-logins-menu-menuitem-remove-all-logins2 = Kkes akk awalen uffiren …
 menu-menuitem-preferences =
     { PLATFORM() ->
@@ -59,6 +63,14 @@ login-list-count2 =
     { $count ->
         [one] { $quantity } n wawal uffir
        *[other] { $count } n wawalen uffiren
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } n { $total } wawal uffir
+       *[other] { $count } n { $total } wawalen uffiren
     }
 login-list-sort-label-text = Smizzwer s:
 login-list-name-option = Isem (A-Z)
