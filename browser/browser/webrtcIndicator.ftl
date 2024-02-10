@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = faneblad
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Ukendt oprindelse
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Faneblade der deler enheder
     .accesskey = n
-
 webrtc-sharing-window = Du deler et andet applikations-vindue.
 webrtc-sharing-browser-window = Du deler { -brand-short-name }.
 webrtc-sharing-screen = Du deler hele din skærm.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Kontroller deling
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Kontroller deling med "{ $streamTitle }"
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Deler kamera med "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Deler kamera med { $tabCount } faneblad
            *[other] Deler kamera med { $tabCount } faneblade
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Deler mikrofon med "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Deler mikrofon med { $tabCount } faneblad
            *[other] Deler mikrofon med { $tabCount } faneblade
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Deler en applikation med "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Deler en applikation med { $tabCount } faneblad
            *[other] Deler applikationer med { $tabCount } faneblade
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Deler skærm med "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Deler skærm med { $tabCount } faneblad
            *[other] Deler skærm med { $tabCount } faneblade
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Deler et vindue med "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Deler et vindue med { $tabCount } faneblad
            *[other] Deler vinduer med { $tabCount } faneblade
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Deler et faneblad med "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,13 @@ webrtc-allow-share-camera-and-audio-capture = Tillad { $origin } at bruge dit ka
 webrtc-allow-share-screen-and-microphone = Tillad { $origin } at bruge din mikrofon og se din skærm?
 webrtc-allow-share-screen-and-audio-capture = Tillad { $origin } at lytte til lyd i dette faneblad og se din skærm?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Tillad denne lokale fil at lytte til lyden i dette faneblad?
+webrtc-allow-share-camera-with-file = Tillad denne lokale fil at bruge dit kamera?
+webrtc-allow-share-microphone-with-file = Tillad denne lokale fil at bruge din mikrofon?
+webrtc-allow-share-screen-with-file = Tillad denne lokale fil at se indholdet på din skærm?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +178,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Tillad { $origin
 
 webrtc-share-screen-warning = Del kun din skærm med websteder, du stoler på. Deling kan gøre det muligt for vildledende websteder at stjæle dine private data og foregive at være dig på internettet.
 webrtc-share-browser-warning = Del kun { -brand-short-name } med websteder, du stoler på. Deling kan gøre det muligt for vildledende websteder at stjæle dine private data og foregive at være dig på internettet.
-
 webrtc-share-screen-learn-more = Læs mere
 webrtc-pick-window-or-screen = Vælg vindue eller skærm
 webrtc-share-entire-screen = Hele skærmen
@@ -221,7 +213,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Husk dette valg
 webrtc-mute-notifications-checkbox = Slå websteds-beskeder fra ved deling
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan ikke tillade permanent adgang til din skærm.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikke tillade permanent adgang til dit faneblads lyd uden først at spørge, hvilket faneblad der skal deles.
 webrtc-reason-for-no-permanent-allow-insecure = Din forbindelse til dette websted er ikke sikker. For at beskytte dig vil { -brand-short-name } kun tillade adgang for denne session.
