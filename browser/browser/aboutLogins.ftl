@@ -107,6 +107,7 @@ about-logins-login-intro-heading-logged-out2 = Tettnadiḍ ɣef yinekcam-ik·im 
 about-logins-login-intro-heading-logged-in = Ulac inekcam yemtawin i yettwafen.
 login-intro-description = Ma teskelseḍ inekcam-ik deg { -brand-product-name } ɣef ddeqs n yibenkan, a-t-an amek ara tkecmeḍ ɣur-sen.
 login-intro-instructions-fxa = Rnu neɣ qqen ɣer { -fxaccount-brand-name } inek·inem ɣef yibenk anida ttwaskelsen yinekcam-ik·im.
+about-logins-login-intro-heading-message = Sekles awalen-ik uffiren deg wadeg aɣellsan
 login-intro-instructions-fxa2 = Rnu neɣ qqen ɣer umiḍan-ik·im ɣef yibenk anida ttwaskelsen yinekcam-ik.
 login-intro-instructions-fxa-settings = Ddu ɣer yiɣewwaren > Rmed amtawi… Ṛcem tibewwaḍin n yinekcam akked wawalen uffiren
 login-intro-instructions-fxa-passwords-help = Rzu ɣer <a data-l10n-name="passwords-help-link">tallalt n wawalen uffiren</a> i wugar n tallelt.
