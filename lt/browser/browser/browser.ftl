@@ -5,13 +5,15 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
 #
 # default - "Mozilla Firefox"
 # private - "Mozilla Firefox (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
@@ -19,14 +21,17 @@ browser-main-window-window-titles =
     .data-title-private = „{ -brand-full-name }“ privatusis naršymas
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – „{ -brand-full-name }“ privatusis naršymas
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
 #
 # "default" - "Mozilla Firefox"
 # "private" - "Mozilla Firefox — (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
 #
 # Also note the other subtle difference here: we use a `-` to separate the
 # brand name from `(Private Browsing)`, which does not happen on other OSes.
@@ -107,9 +112,15 @@ urlbar-tip-icon-description =
     .alt = Patarimas:
 urlbar-result-menu-button =
     .title = Atverti meniu
+urlbar-result-menu-learn-more =
+    .label = Sužinoti daugiau
+    .accesskey = S
 urlbar-result-menu-remove-from-history =
     .label = Pašalinti iš žurnalo
     .accesskey = P
+urlbar-result-menu-tip-get-help =
+    .label = Gauti pagalbos
+    .accesskey = p
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -266,6 +277,8 @@ quickactions-cmd-plugins = papildiniai
 # Opens the print dialog
 quickactions-print2 = Spausdinti puslapį
 quickactions-cmd-print = spausdinti
+# Opens a new private browsing window
+quickactions-private2 = Atverti privatųjį langą
 quickactions-cmd-private = privatusis naršymas
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Atšviežinti „{ -brand-short-name }“
@@ -618,6 +631,11 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Atidaryti funkciją „vaizdas vaizde“ ({ $shortcut })
+picture-in-picture-panel-header = Vaizdas vaizde
+picture-in-picture-enable-toggle =
+    .label = Vis tiek įjungti
 
 ## Full Screen and Pointer Lock UI
 
@@ -741,6 +759,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Nusiųsti saitą
     .tooltiptext = Nusiųsti saitą el. paštu
+toolbar-button-logins =
+    .label = Slaptažodžiai
+    .tooltiptext = Peržiūrėkite ir tvarkykite savo įrašytus slaptažodžius
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -857,6 +878,9 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Atverti ankstesnes korteles?</strong> Galite atkurti savo ankstesnį seansą iš „{ -brand-short-name }“ programos meniu <img data-l10n-name="icon"/>, iš žurnalo.
 restore-session-startup-suggestion-button = Parodyti instrukciją
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = „{ -brand-short-name }“ automatiškai siunčia tam tikrus duomenis į „{ -vendor-short-name }“ programos gerinimo tikslais.
@@ -887,6 +911,17 @@ unified-extensions-button-permissions-needed =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Baigti privatųjį seansą
+    .tooltiptext = Baigti privatųjį seansą
+reset-pbm-panel-heading = Baigti privatųjį seansą?
+reset-pbm-panel-description = Uždaryti visas privačius korteles ir išvalyti naršymo žurnalą, slapukus, ir visus kitus svetainių duomenis.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Visada klausti
+    .accesskey = V
+reset-pbm-panel-cancel-button =
+    .label = Atsisakyti
+    .accesskey = A
 
 ## Autorefresh blocker
 
