@@ -8,22 +8,16 @@
 more-from-moz-title = Mere fra { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Mere fra { -vendor-short-name }
-
 more-from-moz-subtitle = Se andre produkter fra { -vendor-short-name }, der arbejder for at understøtte et sundt internet.
-
 more-from-moz-firefox-mobile-title = { -brand-product-name } til mobilen
 more-from-moz-firefox-mobile-description = Mobil-browseren, der beskytter dit privatliv.
-
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Opdag et nyt lag af anonym browsing og beskyttelse.
-
 more-from-moz-qr-code-box-firefox-mobile-title = Hent med din mobil-enhed. Peg kameraet på QR-koden og tryk på linket, når det dukker op.
 more-from-moz-qr-code-box-firefox-mobile-button = Send en mail til din telefon i stedet.
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR-kode til at hente { -brand-product-name } til mobil
-
 more-from-moz-button-mozilla-vpn-2 = Få VPN
-
 more-from-moz-learn-more-link = Læs mere
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
@@ -31,3 +25,8 @@ more-from-moz-learn-more-link = Læs mere
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Beskyt din indbakke og din identitet med gratis mail-maskering.
 more-from-moz-firefox-relay-button = Få { -relay-brand-short-name }
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-button = Hent { -monitor-brand-short-name }
