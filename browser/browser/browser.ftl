@@ -897,6 +897,10 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Vierzi lis schedis precedentis?</strong> Tu puedis ripristinâ la tô session di prime dal menù aplicazion <img data-l10n-name="icon"/> di { -brand-short-name }, sot di Cronologjie.
 restore-session-startup-suggestion-button = Mostrimi cemût
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = La tô organizazion e à blocât l’acès ai files locâi di chest computer
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } al invie in automatic cualchi dât a { -vendor-short-name } cussì che o podìn miorâ la tô esperience.

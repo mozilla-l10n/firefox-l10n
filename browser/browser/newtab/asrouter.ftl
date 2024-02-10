@@ -272,3 +272,14 @@ launch-on-login-infobar-reject-button = No cumò
 launch-on-login-infobar-final-message = <strong>Vierzi { -brand-short-name } ogni volte che tu tornis a inviâ il computer?</strong> Par gjestî lis impostazions di inviament, cîr “inviament” tes impostazions.
 launch-on-login-infobar-final-reject-button = No graciis
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Liberiti des fastidiosis spiis che ti stan daûr
+tail-fox-spotlight-subtitle = Salude par simpri lis publicitâts fastidiosis che ti stan daûr dapardut là che tu vâs e sint internet come un puest plui sigûr e svelt.
+tail-fox-spotlight-primary-button = Vierç i miei colegaments cun { -brand-short-name }
+tail-fox-spotlight-secondary-button = No cumò
