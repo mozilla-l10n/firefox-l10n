@@ -301,8 +301,9 @@ pdfjs-editor-ink-button-label = Tegn
 pdfjs-editor-stamp-button =
     .title = Tilføj eller rediger billeder
 pdfjs-editor-stamp-button-label = Tilføj eller rediger billeder
-pdfjs-editor-remove-button =
-    .title = Fjern
+pdfjs-editor-highlight-button =
+    .title = Fremhæv
+pdfjs-editor-highlight-button-label = Fremhæv
 
 ## Remove button for the various kind of editor.
 
