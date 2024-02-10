@@ -4,6 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Prisijungimai ir slaptažodžiai
+about-logins-login-filter =
+    .placeholder = Ieškoti prisijungimų
+    .key = F
 create-new-login-button =
     .title = Sukurti naują prisijungimą
 fxaccounts-sign-in-text = Turėkite savo slaptažodžius ir kituose įrenginiuose
