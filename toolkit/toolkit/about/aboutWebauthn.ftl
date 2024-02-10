@@ -143,6 +143,18 @@ about-webauthn-auth-info-null = Ikke understøttet
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } scanning stadig nødvendig.
+       *[other] { $repeatCount } scanninger stadig nødvendige.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Scanningen var god.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
