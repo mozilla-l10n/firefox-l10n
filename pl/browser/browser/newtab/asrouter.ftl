@@ -211,6 +211,9 @@ cfr-cbh-dismiss-button = Nie teraz
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name } właśnie zablokował ciasteczka za Ciebie
 cookie-banner-blocker-cfr-body = Automatycznie odrzucamy wiele próśb o akceptację ciasteczek, aby utrudnić witrynom śledzenie Cię.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } właśnie odrzucił prośbę o akceptację ciasteczek za Ciebie
+cookie-banner-blocker-onboarding-body = Mniej odwracania uwagi, mniej ciasteczek śledzących Cię na tej witrynie.
+cookie-banner-blocker-onboarding-learn-more = Więcej informacji
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -240,10 +243,6 @@ fxa-sync-cfr-secondary = Przypomnij później
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Używasz starszego urządzenia?
-device-migration-fxa-spotlight-body = Utwórz kopię zapasową swoich danych, aby mieć pewność, że nie utracisz ważnych informacji, takich jak zakładki czy hasła — zwłaszcza jeśli zmienisz urządzenie na nowe.
-device-migration-fxa-spotlight-primary-button = Jak utworzyć kopię zapasową
-device-migration-fxa-spotlight-link = Przypomnij później
 device-migration-fxa-spotlight-heavy-user-header = Nie zapomnij zrobić kopii zapasowej swoich danych
 device-migration-fxa-spotlight-heavy-user-body = Upewnij się, że ważne informacje — takie jak zakładki i hasła — są aktualne i chronione na wszystkich Twoich urządzeniach.
 device-migration-fxa-spotlight-heavy-user-primary-button = Zacznij teraz
@@ -278,3 +277,14 @@ launch-on-login-infobar-reject-button = Nie teraz
 launch-on-login-infobar-final-message = <strong>Czy otwierać { -brand-short-name(case: "acc") } przy każdym uruchomieniu komputera?</strong> Znajdź „uruchamianie” w ustawieniach, aby zarządzać swoimi preferencjami uruchamiania.
 launch-on-login-infobar-final-reject-button = Nie, dziękuję
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Niech nie siedzą Ci na ogonie
+tail-fox-spotlight-subtitle = Pożegnaj irytujące reklamy z elementami śledzącymi i ciesz się bezpieczniejszym, szybszym Internetem.
+tail-fox-spotlight-primary-button = Otwieraj odnośniki w { -brand-short-name(case: "loc") }
+tail-fox-spotlight-secondary-button = Nie teraz
