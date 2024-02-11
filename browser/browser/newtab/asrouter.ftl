@@ -281,3 +281,4 @@ launch-on-login-infobar-final-reject-button = Ne, dankon
 tail-fox-spotlight-title = Forpelu nedeziratajn spurilojn
 tail-fox-spotlight-subtitle = Adiaŭu nedeziratajn reklamajn spurilojn kaj ĝuu pli sekuran kaj rapidan sperton retuman.
 tail-fox-spotlight-primary-button = Malfermi miajn ligilojn per { -brand-short-name }
+tail-fox-spotlight-secondary-button = Ne nun
