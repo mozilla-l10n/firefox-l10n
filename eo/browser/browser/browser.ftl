@@ -567,6 +567,11 @@ urlbar-result-action-search-w-engine = Serĉi per { $engine }
 urlbar-result-action-sponsored = Patronita
 urlbar-result-action-switch-tab = Iri al langeto
 urlbar-result-action-visit = Iri
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Iri al langeto · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Malfermi la adreson en la tondujo
 # Directs a user to press the Tab key to perform a search with the specified
@@ -890,6 +895,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Ĉu malfermi antaŭajn langetojn?</strong> Vi povas restarigi vian antaŭan seancon el la menuo de la programo { -brand-short-name } <img data-l10n-name="icon"/>, Sub Historio.
 restore-session-startup-suggestion-button = Montri al mi kiel fari tion
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Via organizo blokis aliron al lokaj dosieroj en tiu ĉi komputilo.
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
