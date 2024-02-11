@@ -169,18 +169,28 @@ firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-dismiss-button = Ոչ հիմա
+    .accesskey = { "" }
+cookie-banner-blocker-onboarding-learn-more = Իմանալ ավելին
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+fox-doodle-pin-headline = Բարի վերադարձ
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
 
 ## FxA sync CFR
 
+fxa-sync-cfr-primary = Իմանալ ավելին
+    .accesskey = { "" }
+fxa-sync-cfr-secondary = Հիշեցնել ավելի ուշ
+    .accesskey = { "" }
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-heavy-user-primary-button = Սկսեք
+device-migration-fxa-spotlight-older-device-primary-button = Ստեղծել հաշիվ
 
 ## Set as Default PDF Reader Infobar
 
@@ -190,4 +200,7 @@ firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
 

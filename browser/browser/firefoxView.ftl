@@ -49,6 +49,7 @@ firefoxview-mobile-confirmation-description = Այժմ կարող եք բերե�
 firefoxview-closed-tabs-title = Վերջին փակվածը
 firefoxview-closed-tabs-description2 = Վերաբացեք ձեր փակած էջերը այս պատուհանում:
 firefoxview-closed-tabs-placeholder-header = Վերջին փակված ներդիրներ չկան
+firefoxview-closed-tabs-placeholder-body2 = Երբ փակում եք ներդիրը, կարող եք այն վերցնել այստեղից:
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -93,6 +94,7 @@ firefoxview-recently-closed-header = Վերջերս փակված ներդիրն�
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-header = Ներդիրներ այլ սարքերից
 
 ##
 
@@ -128,8 +130,19 @@ firefoxview-search-text-box-opentabs =
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
 firefoxview-search-results-header = «{ $query }»-ի որոնման արդյունքները
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } կայք
+       *[other] { $count } կայք
+    }
 firefoxview-sort-history-by-date-label = Տեսակավորել ըստ՝ ամսաթվի
 firefoxview-sort-history-by-site-label = Տեսակավորել ըստ՝ կայքի
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Անցնել { $url }-ին
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -146,15 +159,21 @@ firefoxview-history-site-localhost = (Տեղային ֆայլեր)
 ##
 
 firefoxview-show-all-history = Ցուցադրել ամբողջ պատմությունը
+firefoxview-view-more-browsing-history = Դիտեք զննարկման ավելի շատ պատմություն
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Վերադարձեք այնտեղ, որտեղ եղել եք
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Ընտրեք զննարկիչը
+    .title = Ընտրեք զննարկիչը
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Ցույց տալու ոչինչ չկա
 
 ##
 

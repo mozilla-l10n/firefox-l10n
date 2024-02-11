@@ -63,6 +63,7 @@ migration-bookmarks-option-label = Էջանիշեր
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Ընտրյալներ
+migration-logins-and-passwords-option-label = Պահված մուտքագրումներ և գաղտնաբառեր
 migration-passwords-option-label = Պահված գաղտնաբառեր
 migration-history-option-label = Զննարկման պատմությունը
 migration-extensions-option-label = Ընդլայնումներ
@@ -158,6 +159,15 @@ migration-list-payment-methods-label = վճարամիջոցներ
 
 ##
 
+migration-wizard-progress-header = Տվյալների ներմուծում
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
+migration-wizard-progress-done-header = Տվյալները հաջողությամբ ներմուծվեցին
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Տվյալների ներմուծումն ավարտված է
 migration-wizard-progress-icon-in-progress =
     .aria-label = Ներմուծվում է…
 migration-wizard-progress-icon-completed =
@@ -180,11 +190,42 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } էջանիշ
        *[other] { $quantity } էջանիշեր
     }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } ընտրյալ
+       *[other] { $quantity } ընտրյալներ
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } ընդլայնում
+       *[other] { $quantity } ընդլայնումներ
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched }-ը { $quantity } ընդլայնումներից
 
 ##
 
+migration-wizard-progress-success-formdata = Ձևերի պատմություն
+migration-wizard-safari-instructions-continue = Ընտրեք «Շարունակել»
