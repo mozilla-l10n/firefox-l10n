@@ -1007,6 +1007,7 @@ sitedata-delete-on-close =
     .label = Usuwanie ciasteczek i danych witryn podczas zamykania przeglądarki { -brand-short-name }
     .accesskey = U
 sitedata-delete-on-close-private-browsing = W stale aktywnym trybie przeglądania prywatnego ciasteczka i dane witryn są zawsze usuwane podczas zamykania programu { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = Ustawienia historii powodują, że { -brand-short-name } usuwa ciasteczka i dane witryn z obecnej sesji po zamknięciu przeglądarki.
 sitedata-allow-cookies-option =
     .label = Akceptowanie ciasteczek i danych witryn
     .accesskey = A
