@@ -159,6 +159,7 @@ webrtc-allow-share-microphone-with-file = Tillad denne lokale fil at bruge din m
 webrtc-allow-share-screen-with-file = Tillad denne lokale fil at se indholdet på din skærm?
 webrtc-allow-share-camera-and-microphone-with-file = Tillad denne lokale fil at bruge dit kamera og din mikrofon?
 webrtc-allow-share-camera-and-audio-capture-with-file = Tillad denne lokale fil at bruge dit kamera og lytte til lyden i dette faneblad?
+webrtc-allow-share-screen-and-microphone-with-file = Tillad denne lokale fil at bruge din mikrofon og se din skærm?
 webrtc-allow-share-screen-and-audio-capture-with-file = Tillad denne lokale fil at lytte til lyden i dette faneblad og se din skærm?
 
 ## Variables:
