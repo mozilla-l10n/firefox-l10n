@@ -197,6 +197,7 @@ newtab-section-header-recent-activity = Attività recente
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
 newtab-section-header-pocket = Consigliati da { $provider }
+newtab-section-header-stories = Storie che fanno riflettere
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -205,6 +206,7 @@ newtab-empty-section-highlights = Inizia a navigare e, in questa sezione, verran
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Non c’è altro. Controlla più tardi per altre storie da { $provider }. Non vuoi aspettare? Seleziona un argomento tra quelli più popolari per scoprire altre notizie interessanti dal Web.
+newtab-empty-section-topstories-generic = Non c’è altro. Controlla più tardi per altre storie. Non vuoi aspettare? Seleziona un argomento tra quelli più popolari per scoprire altre notizie interessanti dal Web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -257,6 +259,9 @@ newtab-custom-pocket-subtitle = Contenuti eccezionali a cura di { -pocket-brand-
 newtab-custom-pocket-toggle =
     .label = Consigliati da { -pocket-brand-name }
     .description = Contenuti eccezionali a cura di { -pocket-brand-name }, un membro della famiglia { -brand-product-name }
+newtab-custom-stories-toggle =
+  .label = Storie consigliate
+  .description = Contenuti eccezionali curati dalla famiglia di prodotti { -brand-product-name }
 newtab-custom-pocket-sponsored = Storie sponsorizzate
 newtab-custom-pocket-show-recent-saves = Mostra elementi salvati di recente
 newtab-custom-recent-title = Attività recente
