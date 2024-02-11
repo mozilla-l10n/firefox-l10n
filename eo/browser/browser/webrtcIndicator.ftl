@@ -162,6 +162,8 @@ webrtc-allow-share-screen-with-file = Ĉu permesi al tiu ĉi loka dosiero vidi v
 webrtc-allow-share-speaker-with-file = Ĉu permesi al tiu ĉi loka dosiero uzi aliajn soneligilojn?
 webrtc-allow-share-camera-and-microphone-with-file = Ĉu permesi al tiu ĉi loka dosiero uzi vian filmilon kaj mikrofonon?
 webrtc-allow-share-camera-and-audio-capture-with-file = Ĉu permesi al tiu ĉi loka dosiero uzi vian filmilon kaj aŭskulti la sonon de ĉi tiu langeto?
+webrtc-allow-share-screen-and-microphone-with-file = Ĉu permesi al tiu ĉi loka dosiero uzi vian mikrofonon kaj vidi vian ekranon?
+webrtc-allow-share-screen-and-audio-capture-with-file = Ĉu permesi al tiu ĉi loka dosiero aŭskulti la sonon de ĉi tiu langeto kaj vidi vian ekranon?
 
 ## Variables:
 ##   $origin (String): the first party origin.
