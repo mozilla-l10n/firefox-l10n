@@ -8,13 +8,35 @@ places-open =
 places-open-in-tab =
     .label = Բացել նոր ներդիրում
     .accesskey = w
+places-open-in-container-tab =
+    .label = Բացել Նոր Պարունակ Ներդիրում
+    .accesskey = { "" }
+places-open-all-bookmarks =
+    .label = Բացել բոլոր էջանիշները
+    .accesskey = { "" }
 places-open-all-in-tabs =
     .label = Բացել Բոլորը Ներդիրներում
     .accesskey = O
-
+places-open-in-window =
+    .label = Բացել նոր պատուհանում
+    .accesskey = { "" }
+places-open-in-private-window =
+    .label = Բացել Նոր Գաղտնի դիտարկմամբ
+    .accesskey = { "" }
 places-empty-bookmarks-folder =
     .label = (Դատարկ)
-
+places-add-bookmark =
+    .label = Հավելել Էջանիշ…
+    .accesskey = { "" }
+places-add-folder-contextmenu =
+    .label = Հավելել պանակ…
+    .accesskey = { "" }
+places-add-folder =
+    .label = Հավելել պանակ…
+    .accesskey = { "" }
+places-add-separator =
+    .label = Հավելել բաժանիչ
+    .accesskey = { "" }
 places-view =
     .label = Տեսք
     .accesskey = Տ
@@ -33,20 +55,34 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ըստ ամսաթվի և կայքի
     .accesskey = t
-
 places-history-search =
     .placeholder = Որոնել պատմություն
 places-history =
     .aria-label = Պատմություն
 places-bookmarks-search =
     .placeholder = Որոնել էջանիշեր
-
 places-delete-domain-data =
     .label = Մոռանալ Այս Կայքի Մասին
     .accesskey = F
 places-sortby-name =
     .label = Խմբավորել ըստ անունների
     .accesskey = r
+places-edit-generic =
+    .label = Խմբագրել...
+    .accesskey = { "" }
+places-edit-folder2 =
+    .label = Խմբագրել պանակը…
+    .accesskey = { "" }
+# Variables
+#   $count (number) - Number of folders to delete
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] Ջնջել պանակը
+            [one] Ջնջել պանակները
+           *[other] { "" }
+        }
+    .accesskey = { "" }
 # Variables:
 #   $count (number) - The number of pages selected for removal.
 places-delete-page =
@@ -56,117 +92,99 @@ places-delete-page =
            *[other] Ջնջել էջերը
         }
     .accesskey = D
-
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Կառավարել էջանիշները
-
+# This label is used when a managed bookmarks folder doesn't have a name.
+managed-bookmarks-subfolder =
+    .label = Ենթապանակ
+# This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
+other-bookmarks-folder =
+    .label = Այլ Էջանիշեր
 places-show-in-folder =
     .label = Ցուցադրել պանակում
     .accesskey = F
-
+places-untag-bookmark =
+    .label = Հեռացնել պիտակը
+    .accesskey = { "" }
+places-manage-bookmarks =
+    .label = Կառավարել էջանիշները
+    .accesskey = { "" }
 places-library3 =
     .title = Շտեմարան
-
 places-organize-button =
     .label = Ղեկավարում
     .tooltiptext = Կարգավորեք ձեր էջանիշները:
     .accesskey = O
-
 places-organize-button-mac =
     .label = Ղեկավարում
     .tooltiptext = Կարգավորեք ձեր էջանիշները:
-
 places-file-close =
     .label = Փակել
     .accesskey = C
-
 places-cmd-close =
     .key = w
-
 places-view-button =
     .label = Տեսք
     .tooltiptext = Փոխել դիտելու ձևը
     .accesskey = V
-
 places-view-button-mac =
     .label = Տեսք
     .tooltiptext = Փոխել դիտելու ձևը
-
 places-view-menu-columns =
     .label = Ցուցադրել սյուները
     .accesskey = Ց
-
 places-view-menu-sort =
     .label = Խմբավորել
     .accesskey = S
-
 places-view-sort-unsorted =
     .label = Առանց Խմբավորման
     .accesskey = Ա
-
 places-view-sort-ascending =
     .label = Այբենական Խմբավորում
     .accesskey = A
-
 places-view-sort-descending =
     .label = Հադարձ Խմբավորում
     .accesskey = Z
-
 places-maintenance-button =
     .label = Ներմուծել և Պահուստացնել
     .tooltiptext = Ներմուծեք և պահպանեք ձեր էջանշերը
     .accesskey = I
-
 places-maintenance-button-mac =
     .label = Ներմուծել և Պահուստացնել
     .tooltiptext = Ներմուծեք և պահպանեք ձեր էջանշերը
-
 places-cmd-backup =
     .label = Պահուստացնել…
     .accesskey = Պ
-
 places-cmd-restore =
     .label = Վերականգնել
     .accesskey = R
-
 places-cmd-restore-from-file =
     .label = Ընտրել Ֆայլ…
     .accesskey = C
-
 places-import-bookmarks-from-html =
     .label = Ներմուծել էջանիշեր HTML-ից
     .accesskey = I
-
 places-export-bookmarks-to-html =
     .label = Էջանիշերը արտահանել HTML նիշքով
     .accesskey = E
-
 places-import-other-browser =
     .label = Ներմուծել տվյալներ այլ դիտարկիչից
     .accesskey = Ն
-
 places-view-sort-col-name =
     .label = Անվանումը
-
 places-view-sort-col-tags =
     .label = Կցապիտակներ
-
 places-view-sort-col-url =
     .label = Հասցե
-
 places-view-sort-col-most-recent-visit =
     .label = Վերջին այցելությունները
-
 places-view-sort-col-visit-count =
     .label = Այցելումների քանակ
-
 places-view-sort-col-date-added =
     .label = Ավելացվել է
-
 places-view-sort-col-last-modified =
     .label = Վերջին փոփոխությունը
-
 places-view-sortby-name =
     .label = Խմբավորել ըստ անվան
     .accesskey = N
@@ -188,18 +206,13 @@ places-view-sortby-last-modified =
 places-view-sortby-tags =
     .label = Խմբավորել ըստ պիտակի
     .accesskey = T
-
 places-cmd-find-key =
     .key = f
-
 places-back-button =
     .tooltiptext = Գնալ ետ
-
 places-forward-button =
     .tooltiptext = Անցնել առաջ
-
 places-details-pane-select-an-item-description = Ընտրեք բաղադրիրը դիտելու և խմբագրելու նրա կարգավորումները
-
 places-details-pane-no-items =
     .value = Չկա տարր
 # Variables:
