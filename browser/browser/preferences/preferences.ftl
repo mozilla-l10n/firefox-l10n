@@ -565,6 +565,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Consigliati da { $provider }
 home-prefs-recommended-by-description-new = Contenuti eccezionali a cura di { $provider }, un membro della famiglia { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Storie consigliate
+home-prefs-recommended-by-description-generic = Contenuti eccezionali curati dalla famiglia di prodotti { -brand-product-name }
 
 ##
 
