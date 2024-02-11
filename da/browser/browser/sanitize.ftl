@@ -78,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Cache
     .accesskey = h
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Midlertidigt cachede filer og sider ({ $amount } { $unit })
+    .accesskey = M
 item-cached-content =
     .label = Midlertidigt cachede filer og sider
     .accesskey = M

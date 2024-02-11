@@ -357,3 +357,6 @@ onboarding-new-user-survey-time-based-option-3 = Mere end 1 måned, regelmæssig
 onboarding-new-user-survey-time-based-option-4 = Mere end 1 måned, lejlighedsvis
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = Jeg er helt ny
+onboarding-new-user-survey-familiarity-based-option-2 = Jeg har brugt den en del
+onboarding-new-user-survey-familiarity-based-option-3 = Jeg er kender den meget godt
+onboarding-new-user-survey-familiarity-based-option-4 = Jeg har brugt den før, men det er et stykke tid siden
