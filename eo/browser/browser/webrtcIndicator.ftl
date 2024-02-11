@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = langeto
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = nekonata origino
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Langetoj kiuj dividas aparatojn
     .accesskey = d
-
 webrtc-sharing-window = Vi dividas fenestroj de alia programo.
 webrtc-sharing-browser-window = Vi dividas { -brand-short-name }.
 webrtc-sharing-screen = Vi dividas vian tutan ekranon.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Agordi dividon
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Agordi dividon por "{ $streamTitle }"
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Filmilo dividata kun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Filmilo dividata kun unu langeto
            *[other] Filmilo dividata kun { $tabCount } langetoj
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofono dividata kun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Mikrofono dividata kun unu langeto
            *[other] Mikrofono dividata kun { $tabCount } langetoj
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Programo dividata kun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Programo dividata kun { $tabCount } langeto
            *[other] Programoj dividataj kun { $tabCount } langetoj
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ekrano dividata kun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Ekrano dividata kun unu langeto
            *[other] Ekrano dividata kun { $tabCount } langetoj
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Fenestro dividata kun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Fenestro dividata kun unu langeto
            *[other] Fenestro dividata kun { $tabCount } langetoj
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Langeto dividata kun "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,18 @@ webrtc-allow-share-camera-and-audio-capture = Ĉu permesi al { $origin } uzi via
 webrtc-allow-share-screen-and-microphone = Ĉu permesi al { $origin } uzi vian mikrofonon kaj vidi vian ekranon?
 webrtc-allow-share-screen-and-audio-capture = Ĉu permesi al { $origin } aŭskulti la sonon de tiu ĉi langeto kaj vidi vian ekranon?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Ĉu permesi al tiu ĉi loka dosiero aŭskulti la sonon de ĉi tiu langeto?
+webrtc-allow-share-camera-with-file = Ĉu permesi al tiu ĉi loka dosiero uzi vian filmilon?
+webrtc-allow-share-microphone-with-file = Ĉu permesi al tiu ĉi loka dosieron uzi vian mikrofonon?
+webrtc-allow-share-screen-with-file = Ĉu permesi al tiu ĉi loka dosiero vidi vian ekranon?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Ĉu permesi al tiu ĉi loka dosiero uzi aliajn soneligilojn?
+webrtc-allow-share-camera-and-microphone-with-file = Ĉu permesi al tiu ĉi loka dosiero uzi vian filmilon kaj mikrofonon?
+webrtc-allow-share-camera-and-audio-capture-with-file = Ĉu permesi al tiu ĉi loka dosiero uzi vian filmilon kaj aŭskulti la sonon de ĉi tiu langeto?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +183,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Ĉu permesi al {
 
 webrtc-share-screen-warning = Nur dividu ekranojn kun retejoj, kiujn vi fidas. Divido de ekrano povas permesi al trompaj retejoj retumi nome via kaj ŝteli viajn privatajn datumojn.
 webrtc-share-browser-warning = Nur dividu { -brand-short-name } kun retejoj, kiujn vi fidas. Divido povas permesi al trompaj retejoj retumi nome via kaj ŝteli viajn privatajn datumojn.
-
 webrtc-share-screen-learn-more = Pli da informo
 webrtc-pick-window-or-screen = Elektu fenestron aŭ ekranon
 webrtc-share-entire-screen = Tuta ekrano
@@ -221,7 +218,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Memori tiun ĉi decidon
 webrtc-mute-notifications-checkbox = Malaktivigi retejejan sciigojn dum divido
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne povas permesi konstantan aliron al via ekrano.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne povas permesi konstantan aliron al la sono de via langeto sen demandi, kiu langeto.
 webrtc-reason-for-no-permanent-allow-insecure = Via konekto al tiu ĉir retejo ne estas sekura. Por protekti vin, { -brand-short-name } nur permesos aliron dum tiu ĉi seanco.
