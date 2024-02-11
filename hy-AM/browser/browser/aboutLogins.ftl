@@ -106,6 +106,7 @@ about-logins-login-item-new-login-title = Ավելացնել գաղտնաբառ
 login-item-edit-button = Խմբագրել
 about-logins-login-item-remove-button = Հեռացնել
 login-item-origin-label = Կայքի հասցեն
+about-logins-add-password-tooltip = Համոզվեք, որ պահպանում եք ձեր ընթացիկ գաղտնաբառը այս կայքի համար:
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Օգտվողի անուն
@@ -202,6 +203,13 @@ about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Հեռացնե՞լ բոլոր { $count } մուտքագրումը:
        *[other] Հեռացնե՞լ բոլոր { $count } մուտքագրումները:
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Այո, հեռացնել գաղտնաբառը
+        [one] Այո, հեռացնել գաղտնաբառերը
+       *[other] { "" }
     }
 
 ##
@@ -308,6 +316,12 @@ about-logins-import-dialog-error-learn-more = Իմանալ ավելին
 about-logins-import-dialog-error-try-import-again = Նորից փորձեք ներմուծել…
 about-logins-import-dialog-error-cancel = Չեղարկել
 about-logins-import-report-title = Ներմուծման ամփոփագիր
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Տող { $number }
+about-logins-import-report-row-description-no-change = Կրկնօրինակ. գոյություն ունեցող մուտքի ճշգրիտ համընկնում
+about-logins-import-report-row-description-modified = Գոյություն ունեցող մուտքը թարմացվել է
 about-logins-import-report-row-description-added = Նոր մուտքագրում է ավելացվել
 about-logins-import-report-row-description-added2 = Ավելացվեց նոր գաղտնաբառ
 about-logins-import-report-row-description-error = Սխալ․ դաշտ չկա

@@ -35,4 +35,5 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Սկսեք
 
 callout-pdfjs-edit-title = Խմբագրեք PDF ֆայլերը մեր նոր տեքստային գործիքի միջոցով
 callout-pdfjs-edit-button = Հաջորդը
+callout-pdfjs-draw-title = Ստորագրեք փաստաթղթերը մեր նոր գծագրման գործիքով
 callout-pdfjs-draw-button = Հասկացա

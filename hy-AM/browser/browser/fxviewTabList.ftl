@@ -26,6 +26,10 @@ fxviewtabrow-just-now-timestamp = Հենց հիմա
 
 fxviewtabrow-delete = Ջնջել
     .accesskey = D
+fxviewtabrow-open-in-window = Բացել նոր պատուհանում
+    .accesskey = N
+fxviewtabrow-open-in-private-window = Բացել Նոր Գաղտնի դիտարկմամբ
+    .accesskey = P
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = Էջանիշ…
     .accesskey = B
@@ -41,6 +45,8 @@ fxviewtabrow-move-tab-start = Տեղափոխել Մեկնարկ
     .accesskey = S
 fxviewtabrow-move-tab-end = Տեղափոխել վերջ
     .accesskey = E
+fxviewtabrow-move-tab-window = Տեղափոխել Նոր Պատուհան
+    .accesskey = W
 fxviewtabrow-send-tab = Ուղարկել ներդիրը սարքին
     .accesskey = n
 # Variables:
