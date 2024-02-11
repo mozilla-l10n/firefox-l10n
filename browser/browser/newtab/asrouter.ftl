@@ -185,7 +185,7 @@ fox-doodle-pin-headline = Բարի վերադարձ
 fxa-sync-cfr-primary = Իմանալ ավելին
     .accesskey = { "" }
 fxa-sync-cfr-secondary = Հիշեցնել ավելի ուշ
-    .accesskey = { "" }
+    .accesskey = R
 
 ## Device Migration FxA Spotlight
 
@@ -199,9 +199,9 @@ device-migration-fxa-spotlight-older-device-primary-button = Ստեղծել հա
 
 launch-on-login-learnmore = Իմանալ ավելին
 launch-on-login-infobar-confirm-button = Այո, բացել { -brand-short-name }-ը
-    .accesskey = { "" }
+    .accesskey = Y
 launch-on-login-infobar-reject-button = Ոչ հիմա
-    .accesskey = { "" }
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.

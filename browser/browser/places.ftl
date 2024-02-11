@@ -10,33 +10,33 @@ places-open-in-tab =
     .accesskey = w
 places-open-in-container-tab =
     .label = Բացել Նոր Պարունակ Ներդիրում
-    .accesskey = { "" }
+    .accesskey = i
 places-open-all-bookmarks =
     .label = Բացել բոլոր էջանիշները
-    .accesskey = { "" }
+    .accesskey = O
 places-open-all-in-tabs =
     .label = Բացել Բոլորը Ներդիրներում
     .accesskey = O
 places-open-in-window =
     .label = Բացել նոր պատուհանում
-    .accesskey = { "" }
+    .accesskey = N
 places-open-in-private-window =
     .label = Բացել Նոր Գաղտնի դիտարկմամբ
-    .accesskey = { "" }
+    .accesskey = P
 places-empty-bookmarks-folder =
     .label = (Դատարկ)
 places-add-bookmark =
     .label = Հավելել Էջանիշ…
-    .accesskey = { "" }
+    .accesskey = B
 places-add-folder-contextmenu =
     .label = Հավելել պանակ…
-    .accesskey = { "" }
+    .accesskey = F
 places-add-folder =
     .label = Հավելել պանակ…
     .accesskey = { "" }
 places-add-separator =
     .label = Հավելել բաժանիչ
-    .accesskey = { "" }
+    .accesskey = S
 places-view =
     .label = Տեսք
     .accesskey = Տ
@@ -69,10 +69,10 @@ places-sortby-name =
     .accesskey = r
 places-edit-generic =
     .label = Խմբագրել...
-    .accesskey = { "" }
+    .accesskey = E
 places-edit-folder2 =
     .label = Խմբագրել պանակը…
-    .accesskey = { "" }
+    .accesskey = E
 # Variables
 #   $count (number) - Number of folders to delete
 places-delete-folder =
@@ -80,9 +80,9 @@ places-delete-folder =
         { $count ->
             [1] Ջնջել պանակը
             [one] Ջնջել պանակները
-           *[other] { "" }
+           *[other] Ջնջել պանակները
         }
-    .accesskey = { "" }
+    .accesskey = D
 # Variables:
 #   $count (number) - The number of pages selected for removal.
 places-delete-page =
@@ -106,10 +106,10 @@ places-show-in-folder =
     .accesskey = F
 places-untag-bookmark =
     .label = Հեռացնել պիտակը
-    .accesskey = { "" }
+    .accesskey = R
 places-manage-bookmarks =
     .label = Կառավարել էջանիշները
-    .accesskey = { "" }
+    .accesskey = M
 places-library3 =
     .title = Շտեմարան
 places-organize-button =
