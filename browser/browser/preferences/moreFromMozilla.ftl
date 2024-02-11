@@ -47,4 +47,4 @@ more-from-moz-firefox-relay-button = Získejte { -relay-brand-short-name(case: "
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Automaticky si vezměte zpět své odhalené osobní údaje.
 more-from-moz-mozilla-monitor-global-description = Dostávejte upozornění na narušení bezpečnosti vašich údajů.
-more-from-moz-mozilla-monitor-button = Získat { -monitor-brand-short-name }
+more-from-moz-mozilla-monitor-button = Získat { -monitor-brand-short-name(case: "acc") }
