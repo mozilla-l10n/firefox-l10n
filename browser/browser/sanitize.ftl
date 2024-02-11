@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Forviŝi tutan historion
     .style = min-width: 34em
 clear-data-settings-label = Je fermo, { -brand-short-name } devus aŭtomate viŝi ĉion
+sanitize-on-shutdown-description = Aŭtomate viŝi ĉiujn elektitajn elementojn kiam { -brand-short-name } fermiĝas.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -57,8 +58,15 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Historio
     .accesskey = H
+item-history-form-data-downloads-description = Viŝi retejan kaj elŝutan historion, konservitajn formularajn informojn kaj serĉojn
 item-cookies =
     .label = Kuketoj
+    .accesskey = K
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Kuketoj kaj retejaj datumoj ({ $amount } { $unit })
     .accesskey = K
 item-cookies-site-data =
     .label = Kuketoj kaj retejaj datumoj
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Staplo
     .accesskey = A
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Provizore staplitaj dosieroj kaj paĝoj ({ $amount } { $unit })
+    .accesskey = P
 item-cached-content =
     .label = Provizoraj staplaj dosieroj kaj paĝoj
     .accesskey = P
@@ -95,6 +109,8 @@ sanitize-button-ok =
     .label = Forviŝi nun
 sanitize-button-ok2 =
     .label = Viŝi
+sanitize-button-ok-on-shutdown =
+    .label = Konservi ŝanĝojn
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
