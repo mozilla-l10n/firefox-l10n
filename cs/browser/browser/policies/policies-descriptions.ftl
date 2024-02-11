@@ -128,7 +128,7 @@ policy-OfferToSaveLogins =
 policy-OfferToSaveLoginsDefault = Nastavení výchozí hodnoty pro to, zda má { -brand-short-name } nabízet ukládání přihlašovacích údajů. Platné hodnoty jsou true a false.
 policy-OverrideFirstRunPage = Nastavení vlastní stránky při prvním spuštění. Pokud nechcete při prvním spuštění zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
 policy-OverridePostUpdatePage = Nastavení vlastní stránky po aktualizaci. Pokud nechcete po aktualizaci zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
-policy-PasswordManagerEnabled = Povolení ukládat přihlašovací údaje do správce hesel.
+policy-PasswordManagerEnabled = Povolení ukládat hesla do správce hesel.
 policy-PasswordManagerExceptions = Zabrání { -brand-short-name(case: "dat") } ukládat heslo pro vybrané servery.
 # PDF.js and PDF should not be translated
 policy-PDFjs =

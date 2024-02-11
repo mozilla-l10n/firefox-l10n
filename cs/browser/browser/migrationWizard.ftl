@@ -95,7 +95,7 @@ migration-passwords-from-file-success-header = Import hesel byl úspěšně doko
 migration-passwords-from-file = Vyhledávají se hesla v souboru
 migration-passwords-new = Nová hesla
 migration-passwords-updated = Existující hesla
-migration-passwords-from-file-no-valid-data = Soubor neobsahuje žádná platná data s přihlašovacími údaji. Vyberte jiný soubor.
+migration-passwords-from-file-no-valid-data = Soubor neobsahuje žádná platná data s hesly. Vyberte jiný soubor.
 migration-passwords-from-file-picker-title = Import souboru s hesly
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -170,10 +170,10 @@ migration-done-button-label = Hotovo
 migration-continue-button-label = Pokračovat
 migration-wizard-import-browser-no-browsers =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } nenašel žádné programy, které obsahují záložky, historii nebo přihlašovací údaje.
-        [feminine] { -brand-short-name } nenašla žádné programy, které obsahují záložky, historii nebo přihlašovací údaje.
-        [neuter] { -brand-short-name } nenašlo žádné programy, které obsahují záložky, historii nebo přihlašovací údaje.
-       *[other] Aplikace { -brand-short-name } nenašla žádné programy, které obsahují záložky, historii nebo přihlašovací údaje.
+        [masculine] { -brand-short-name } nenašel žádné programy, které obsahují záložky, historii nebo hesla.
+        [feminine] { -brand-short-name } nenašla žádné programy, které obsahují záložky, historii nebo hesla.
+        [neuter] { -brand-short-name } nenašlo žádné programy, které obsahují záložky, historii nebo hesla.
+       *[other] Aplikace { -brand-short-name } nenašla žádné programy, které obsahují záložky, historii nebo hesla.
     }
 migration-wizard-import-browser-no-resources = Nastala chyba. { -brand-short-name } nemůže najít žádná data k importu z tohoto profilu prohlížeče.
 
@@ -187,7 +187,7 @@ migration-list-bookmark-label = záložky
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = oblíbené
-migration-list-password-label = přihlašovací údaje
+migration-list-password-label = hesla
 migration-list-history-label = historie
 migration-list-extensions-label = rozšíření
 migration-list-autofill-label = data pro automatické vyplňování

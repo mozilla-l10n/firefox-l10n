@@ -141,7 +141,7 @@ places-manage-bookmarks =
 places-forget-about-this-site-confirmation-title = Zapomínání této stránky
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-msg = Tímto smažete data související se serverem { $hostOrBaseDomain }, včetně historie prohlížení, cookies, mezipaměti a nastavení obsahu. Záložky a přihlašovací údaje smazány nebudou. Opravdu to chcete provést?
+places-forget-about-this-site-confirmation-msg = Tímto smažete data související se serverem { $hostOrBaseDomain }, včetně historie prohlížení, cookies, mezipaměti a nastavení obsahu. Záložky a hesla smazány nebudou. Opravdu to chcete provést?
 places-forget-about-this-site-forget = Zapomenout
 places-library3 =
     .title = Knihovna stránek

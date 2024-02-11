@@ -271,7 +271,7 @@ quickactions-cmd-extensions = rozšíření
 quickactions-inspector2 = Otevřít nástroje pro vývojáře
 quickactions-cmd-inspector = průzkumník, nástroje pro vývojáře, devtools
 # Opens about:logins
-quickactions-logins2 = Správa přihlašovacích údajů
+quickactions-logins2 = Správa hesel
 quickactions-cmd-logins = přihlašovací údaje, hesla
 # Opens about:addons page in the plugins section
 quickactions-plugins = Správa zásuvných modulů
@@ -839,7 +839,7 @@ toolbar-button-email-link =
     .label = Poslat odkaz e-mailem
     .tooltiptext = Odešle odkaz na aktuální stránku
 toolbar-button-logins =
-    .label = Přihlašovací údaje
+    .label = Hesla
     .tooltiptext = Zobrazení a správa vašich uložených hesel
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page

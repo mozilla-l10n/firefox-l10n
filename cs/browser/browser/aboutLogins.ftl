@@ -94,12 +94,12 @@ login-list-last-used-option = naposledy použito
 login-list-intro-title = Nenalezeny žádné přihlašovací údaje
 login-list-intro-title2 = Žádná hesla nejsou uložena
 login-list-intro-description =
-    Tady se zobrazí přihlašovací údaje uložené { -brand-product-name.gender ->
-        [masculine] ve { -brand-product-name(case: "loc") }
-        [feminine] v { -brand-product-name(case: "loc") }
-        [neuter] v { -brand-product-name(case: "loc") }
-       *[other] v aplikaci { -brand-product-name }
-    }.
+    { -brand-product-name.gender ->
+        [masculine] Tady se zobrazí hesla uložená ve { -brand-product-name(case: "loc") }.
+        [feminine] Tady se zobrazí hesla uložená v { -brand-product-name(case: "loc") }.
+        [neuter] Tady se zobrazí hesla uložená v { -brand-product-name(case: "loc") }.
+       *[other] Tady se zobrazí hesla uložená v aplikaci { -brand-product-name }.
+    }
 about-logins-login-list-empty-search-title = Nenalezeny žádné přihlašovací údaje
 about-logins-login-list-empty-search-title2 = Nebyla nalezena žádná hesla
 about-logins-login-list-empty-search-description = Vašemu vyhledávání neodpovídají žádné přihlašovací údaje.
@@ -282,11 +282,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { -brand-short-name.case-status ->
         [with-cases] Tímto odstraníte všechny přihlašovací údaje uložené ve { -brand-short-name(case: "loc") } na všech zařízeních synchronizovaných pomocí vašeho { -fxaccount-brand-name(case: "gen", capitalization: "lower") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
        *[no-cases] Tímto odstraníte všechny přihlašovací údaje uložené v aplikaci { -brand-short-name } na všech zařízeních synchronizovaných pomocí vašeho { -fxaccount-brand-name(case: "gen", capitalization: "lower") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { -brand-short-name.case-status ->
-        [with-cases] Tímto odstraníte přihlašovací údaje, které jste uložili do { -brand-short-name(case: "gen") } na všech zařízeních synchronizovaných s vaším účtem. Tím se také odstraní upozornění na úniky, která se zde zobrazují. Tuto akci nebude možné vrátit zpět.
-       *[no-cases] Tímto odstraníte přihlašovací údaje, které jste uložili do aplikace { -brand-short-name } na všech zařízeních synchronizovaných s vaším účtem. Tím se také odstraní upozornění na úniky, která se zde zobrazují. Tuto akci nebude možné vrátit zpět.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
