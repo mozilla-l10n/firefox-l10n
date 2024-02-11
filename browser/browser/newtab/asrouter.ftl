@@ -274,3 +274,10 @@ launch-on-login-infobar-final-reject-button = Ne, dankon
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Forpelu nedeziratajn spurilojn
+tail-fox-spotlight-subtitle = Adiaŭu nedeziratajn reklamajn spurilojn kaj ĝuu pli sekuran kaj rapidan sperton retuman.
+tail-fox-spotlight-primary-button = Malfermi miajn ligilojn per { -brand-short-name }
