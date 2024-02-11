@@ -18,7 +18,8 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .title = Czyszczenie historii
     .style = min-width: 42em
-clear-data-settings-label = Rzeczy zaznaczone poniżej będą usuwane podczas zamykania przeglądarki { -brand-short-name }.
+clear-data-settings-label = Rzeczy zaznaczone poniżej będą usuwane podczas zamykania { -brand-short-name(case: "gen") }.
+sanitize-on-shutdown-description = Automatycznie usuwaj wszystkie zaznaczone elementy po zamknięciu { -brand-short-name(case: "gen") }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,11 +55,18 @@ history-section-label = Historia
 item-history-and-downloads =
     .label = Historia przeglądanych stron i pobranych plików
     .accesskey = H
-item-browsing-and-search =
-    .label = Odwiedzone witryny, zachowane dane formularzy i wyszukiwania
-    .accesskey = O
+item-history-form-data-downloads =
+    .label = Historia
+    .accesskey = H
+item-history-form-data-downloads-description = Usuwa historię przeglądania i pobierania, zachowane dane formularzy i wyszukiwania
 item-cookies =
     .label = Ciasteczka
+    .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Ciasteczka i dane witryn ({ $amount } { $unit })
     .accesskey = C
 item-cookies-site-data =
     .label = Ciasteczka i dane witryn
@@ -69,6 +77,12 @@ item-active-logins =
     .accesskey = A
 item-cache =
     .label = Pamięć podręczna
+    .accesskey = P
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Pliki i strony w tymczasowej pamięci podręcznej ({ $amount } { $unit })
     .accesskey = P
 item-cached-content =
     .label = Pliki i strony w tymczasowej pamięci podręcznej
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = Ustawienia witryn
     .accesskey = U
 item-site-prefs-description = Przywraca nadane uprawnienia i zmienione preferencje witryn do oryginalnych ustawień
-item-download-history =
-    .label = Lista pobranych plików
-    .accesskey = L
 data-section-label = Dane
 item-site-settings =
     .label = Ustawienia witryn
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = Wyczyść
 sanitize-button-ok2 =
     .label = Wyczyść
+sanitize-button-ok-on-shutdown =
+    .label = Zachowaj zmiany
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
