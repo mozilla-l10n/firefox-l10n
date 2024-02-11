@@ -190,6 +190,7 @@ media-cdm-capabilities = Funzionalità
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Avvio in chiaro
+media-hdcp-22-compatible = Compatibilità HDCP 2.2
 
 ##
 
