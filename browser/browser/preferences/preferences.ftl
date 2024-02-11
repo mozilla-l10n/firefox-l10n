@@ -206,6 +206,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Usuń
 containers-remove-cancel-button = Nie usuwaj
+settings-tabs-show-image-in-preview =
+    .label = Podgląd po najechaniu kursorem na kartę
+    .accessKey = P
 
 ## General Section - Language & Appearance
 
@@ -935,7 +938,7 @@ autofill-addresses-checkbox = Zachowywanie i wypełnianie adresów
     .accesskey = Z
 autofill-saved-addresses-button = Zachowane adresy
     .accesskey = c
-autofill-payment-methods-checkbox-message = Zachowywanie i wypełnianie metod płatności
+autofill-payment-methods-checkbox-message = Zachowywanie i wypełnianie metod płatności.
     .accesskey = m
 autofill-payment-methods-checkbox-submessage = Obejmuje karty kredytowe i debetowe
     .accesskey = b
@@ -1354,9 +1357,9 @@ preferences-doh-setting-default =
 preferences-doh-default-desc = { -brand-short-name } decyduje, kiedy używać zabezpieczonego serwera DNS do ochrony prywatności użytkownika.
 preferences-doh-default-detailed-desc-1 = Używa zabezpieczonego serwera DNS w regionach, gdzie jest dostępny
 preferences-doh-default-detailed-desc-2 = Używa domyślnego serwera DNS, jeśli występuje problem z dostawcą zabezpieczonego serwera DNS
-preferences-doh-default-detailed-desc-3 = Używa lokalnego dostawcy, jeśli to możliwe
+preferences-doh-default-detailed-desc-3 = Używa lokalnego dostawcy, jeśli to możliwe.
 preferences-doh-default-detailed-desc-4 = Wyłącza, kiedy aktywna jest sieć VPN, kontrola rodzicielska lub zasady organizacji
-preferences-doh-default-detailed-desc-5 = Wyłącza, kiedy sieć mówi { -brand-short-name(case: "dat") }, że nie powinien używać zabezpieczonego serwera DNS
+preferences-doh-default-detailed-desc-5 = Wyłącza, kiedy sieć mówi { -brand-short-name(case: "dat") }, że nie powinien używać zabezpieczonego serwera DNS.
 preferences-doh-setting-enabled =
     .label = Zwiększona ochrona
     .accesskey = Z
