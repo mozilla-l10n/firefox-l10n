@@ -55,3 +55,11 @@ fxviewtabrow-send-tab = Wyślij kartę na urządzenie
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Opcje karty „{ $tabTitle }”
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = Wycisz kartę „{ $tabTitle }”
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = Włącz dźwięk na karcie „{ $tabTitle }”

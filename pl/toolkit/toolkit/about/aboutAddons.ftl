@@ -220,6 +220,9 @@ shortcuts-no-addons = Nie włączono żadnych rozszerzeń.
 shortcuts-no-commands = Te rozszerzenia nie mają skrótów:
 shortcuts-input =
     .placeholder = Wprowadź skrót
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Usuń skrót
 shortcuts-browserAction2 = Włącz przycisk na pasku narzędzi
 shortcuts-pageAction = Włącz działanie na stronie
 shortcuts-sidebarAction = Przełącz panel boczny
