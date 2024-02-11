@@ -170,7 +170,7 @@ firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
 ## Cookie Banner Handling CFR
 
 cfr-cbh-dismiss-button = Ոչ հիմա
-    .accesskey = { "" }
+    .accesskey = N
 cookie-banner-blocker-onboarding-learn-more = Իմանալ ավելին
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
@@ -183,7 +183,7 @@ fox-doodle-pin-headline = Բարի վերադարձ
 ## FxA sync CFR
 
 fxa-sync-cfr-primary = Իմանալ ավելին
-    .accesskey = { "" }
+    .accesskey = L
 fxa-sync-cfr-secondary = Հիշեցնել ավելի ուշ
     .accesskey = R
 
