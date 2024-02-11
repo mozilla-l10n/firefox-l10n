@@ -209,7 +209,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Այո, հեռացնել գաղտնաբառը
         [one] Այո, հեռացնել գաղտնաբառերը
-       *[other] { "" }
+       *[other] Այո, հեռացնել գաղտնաբառերը
     }
 
 ##
