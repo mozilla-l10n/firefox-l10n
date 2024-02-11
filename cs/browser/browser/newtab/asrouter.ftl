@@ -263,7 +263,13 @@ cookie-banner-blocker-cfr-header =
        *[other] Aplikace { -brand-short-name } pro vás právě zablokovala cookies
     }
 cookie-banner-blocker-cfr-body = Automaticky odmítáme mnoho vyskakovacích oken se soubory cookie, aby vás weby nemohly sledovat.
-cookie-banner-blocker-onboarding-header = { -brand-short-name } za vás právě odmítl lištu cookie
+cookie-banner-blocker-onboarding-header =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } za vás právě odmítl lištu cookie
+        [feminine] { -brand-short-name } za vás právě odmítla lištu cookie
+        [neuter] { -brand-short-name } za vás právě odmítlo lištu cookie
+       *[other] Aplikace { -brand-short-name } za vás právě odmítla lištu cookie
+    }
 cookie-banner-blocker-onboarding-body = Méně rozptylování, méně souborů cookie, které vás na tomto webu sledují.
 cookie-banner-blocker-onboarding-learn-more = Dozvědět se více
 
@@ -372,5 +378,9 @@ launch-on-login-infobar-final-reject-button = Ne, děkuji
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
 tail-fox-spotlight-title = Zbavte se dotěrných sledovacích prvků
 tail-fox-spotlight-subtitle = Rozlučte se s otravnými reklamními sledovacími prvky a zažijte bezpečnější a rychlejší internet.
-tail-fox-spotlight-primary-button = Otevírat mé odkazy pomocí aplikace { -brand-short-name }
+tail-fox-spotlight-primary-button =
+    { -brand-short-name.case-status ->
+        [with-cases] Otevírat mé odkazy pomocí { -brand-short-name(case: "gen") }
+       *[no-cases] Otevírat mé odkazy pomocí aplikace { -brand-short-name }
+    }
 tail-fox-spotlight-secondary-button = Teď ne

@@ -1127,6 +1127,7 @@ sitedata-delete-on-close =
         }
     .accesskey = c
 sitedata-delete-on-close-private-browsing = V trvalém režimu anonymního prohlížení { -brand-short-name } smaže cookies a data stránek vždy při svém ukončení.
+sitedata-delete-on-close-private-browsing2 = Na základě vašeho nastavení pro historii { -brand-short-name } smaže při ukončení prohlížeče cookies a údaje stránek z vaší relace.
 sitedata-allow-cookies-option =
     .label = Ukládat všechny cookies a data stránek
     .accesskey = a
