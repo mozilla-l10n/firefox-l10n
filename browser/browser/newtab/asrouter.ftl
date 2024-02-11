@@ -197,6 +197,11 @@ device-migration-fxa-spotlight-older-device-primary-button = Ստեղծել հա
 
 ## Launch on login infobar notification
 
+launch-on-login-learnmore = Իմանալ ավելին
+launch-on-login-infobar-confirm-button = Այո, բացել { -brand-short-name }-ը
+    .accesskey = { "" }
+launch-on-login-infobar-reject-button = Ոչ հիմա
+    .accesskey = { "" }
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
@@ -204,3 +209,4 @@ device-migration-fxa-spotlight-older-device-primary-button = Ստեղծել հա
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-secondary-button = Ոչ հիմա
