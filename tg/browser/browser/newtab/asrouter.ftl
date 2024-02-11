@@ -271,3 +271,8 @@ launch-on-login-infobar-reject-button = Ҳоло не
 launch-on-login-infobar-final-message = <strong>Ҳар вақте ки шумо компютери худро аз нав оғоз мекунед, «{ -brand-short-name }»-ро мекушоед?</strong> Барои идора кардани хусусиятҳои «Оғози кор», калидвожаи «Оғози кор»-ро дар танзимот ҷустуҷӯ намоед.
 launch-on-login-infobar-final-reject-button = Не, ташаккур
     .accesskey = Н
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-primary-button = Кушодани пайвандҳои ман ба воситаи «{ -brand-short-name }»
+tail-fox-spotlight-secondary-button = Ҳоло не
