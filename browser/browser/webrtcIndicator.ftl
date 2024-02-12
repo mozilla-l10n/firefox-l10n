@@ -145,7 +145,7 @@ webrtc-allow-share-microphone = Tillad { $origin } at bruge din mikrofon?
 webrtc-allow-share-screen = Tillad { $origin } at se din skærm?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker = Tillad { $origin } at bruge andre højtalere?
+webrtc-allow-share-speaker = Tillad { $origin } at bruge afspille lyd på andre enheder?
 webrtc-allow-share-camera-and-microphone = Tillad { $origin } at bruge dit kamera og din mikrofon?
 webrtc-allow-share-camera-and-audio-capture = Tillad { $origin } at bruge dit kamera og lytte til lyd i dette faneblad?
 webrtc-allow-share-screen-and-microphone = Tillad { $origin } at bruge din mikrofon og se din skærm?
@@ -157,6 +157,9 @@ webrtc-allow-share-audio-capture-with-file = Tillad denne lokale fil at lytte ti
 webrtc-allow-share-camera-with-file = Tillad denne lokale fil at bruge dit kamera?
 webrtc-allow-share-microphone-with-file = Tillad denne lokale fil at bruge din mikrofon?
 webrtc-allow-share-screen-with-file = Tillad denne lokale fil at se indholdet på din skærm?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Tillad denne lokale fil at afspille lyd på andre enheder?
 webrtc-allow-share-camera-and-microphone-with-file = Tillad denne lokale fil at bruge dit kamera og din mikrofon?
 webrtc-allow-share-camera-and-audio-capture-with-file = Tillad denne lokale fil at bruge dit kamera og lytte til lyden i dette faneblad?
 webrtc-allow-share-screen-and-microphone-with-file = Tillad denne lokale fil at bruge din mikrofon og se din skærm?
@@ -172,7 +175,7 @@ webrtc-allow-share-microphone-unsafe-delegation = Tillad { $origin } at give { $
 webrtc-allow-share-screen-unsafe-delegation = Tillad { $origin } at give { $thirdParty } tilladelse til at se din skærm?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til andre højtalere?
+webrtc-allow-share-speaker-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til at afspille lyd på andre enheder?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til dit kamera og din mikrofon?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til dit kamera og til at lytte til lyden i dette faneblad?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Tillad { $origin } at give { $thirdParty } adgang til din mikrofon og til at se din skærm?
