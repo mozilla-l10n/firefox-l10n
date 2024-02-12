@@ -229,7 +229,7 @@ menu-history-hidden-tabs =
 menu-history-undo-menu =
     .label = Tabiau Wedi'u Cau'n Ddiweddar
 menu-history-undo-window-menu =
-    .label = Ffenestri wedi eu Cau yn Ddiweddar
+    .label = Ffenestri wedi'u Cau'n Ddiweddar
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Chwilio'ch Hanes

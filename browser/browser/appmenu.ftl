@@ -202,7 +202,7 @@ appmenu-recent-history-subheader = Hanes Diweddar
 appmenu-recently-closed-tabs =
     .label = Tabiau wedi'u cau'n ddiweddar
 appmenu-recently-closed-windows =
-    .label = Ffenestri wedi eu Cau yn Ddiweddar
+    .label = Ffenestri wedi'u cau'n ddiweddar
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Chwilio'ch hanes
