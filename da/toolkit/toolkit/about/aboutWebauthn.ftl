@@ -158,6 +158,10 @@ about-webauthn-ctap2-enroll-feedback-good = Scanningen var god.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = For højt oppe.
+about-webauthn-ctap2-enroll-feedback-too-low = For langt nede.
+about-webauthn-ctap2-enroll-feedback-too-left = For langt til venstre.
+about-webauthn-ctap2-enroll-feedback-too-right = For langt til højre.
 
 ##
 
