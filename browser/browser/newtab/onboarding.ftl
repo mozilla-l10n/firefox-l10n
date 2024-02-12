@@ -347,3 +347,16 @@ onboarding-gratitude-security-and-privacy-subtitle = ขอบคุณที่
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = คุณใช้ { -brand-short-name } มานานเท่าไรแล้ว?
+onboarding-new-user-familiarity-based-survey-title = คุณคุ้นเคยกับ { -brand-short-name } แค่ไหน?
+onboarding-new-user-survey-subtitle = คำติชมของคุณช่วยทำให้ { -brand-short-name } ดียิ่งขึ้นไปอีก
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = ฉันเพิ่งเริ่มใช้
+onboarding-new-user-survey-time-based-option-2 = น้อยกว่า 1 เดือน
+onboarding-new-user-survey-time-based-option-3 = มากกว่า 1 เดือน ใช้เป็นประจำ
+onboarding-new-user-survey-time-based-option-4 = มากกว่า 1 เดือน ใช้เป็นบางครั้ง
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = ฉันเพิ่งเริ่มใช้
+onboarding-new-user-survey-familiarity-based-option-2 = ฉันใช้มาบ้างแล้ว
+onboarding-new-user-survey-familiarity-based-option-3 = ฉันคุ้นเคยมาก
+onboarding-new-user-survey-familiarity-based-option-4 = ฉันเคยใช้ในอดีต แต่ก็ผ่านไปนานแล้ว
