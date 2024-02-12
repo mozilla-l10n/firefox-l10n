@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = ล้างประวัติทั้งหมด
     .style = min-width: 34em
 clear-data-settings-label = เมื่อปิด { -brand-short-name } ควรล้างทั้งหมดโดยอัตโนมัติ
+sanitize-on-shutdown-description = ล้างรายการที่เลือกทั้งหมดโดยอัตโนมัติเมื่อปิด { -brand-short-name }
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,11 +55,18 @@ history-section-label = ประวัติ
 item-history-and-downloads =
     .label = ประวัติการเรียกดูและการดาวน์โหลด
     .accesskey = ป
-item-browsing-and-search =
-    .label = ไซต์ที่เข้าชม ข้อมูลแบบฟอร์มที่บันทึกไว้ และการค้นหา
-    .accesskey = ข
+item-history-form-data-downloads =
+    .label = ประวัติ
+    .accesskey = ป
+item-history-form-data-downloads-description = ล้างเว็บไซต์และประวัติการดาวน์โหลด ข้อมูลแบบฟอร์มที่บันทึกไว้ และการค้นหา
 item-cookies =
     .label = คุกกี้
+    .accesskey = ค
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = คุกกี้และข้อมูลไซต์ ({ $amount } { $unit })
     .accesskey = ค
 item-cookies-site-data =
     .label = คุกกี้และข้อมูลไซต์
@@ -70,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = แคช
     .accesskey = ช
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = ไฟล์และหน้าที่แคชชั่วคราว ({ $amount } { $unit })
+    .accesskey = ฟ
 item-cached-content =
     .label = ไฟล์และหน้าที่แคชไว้ชั่วคราว
     .accesskey = ฟ
@@ -81,9 +95,6 @@ item-site-prefs =
     .label = การตั้งค่าไซต์
     .accesskey = ไ
 item-site-prefs-description = รีเซ็ตสิทธิอนุญาตและการกำหนดลักษณะไซต์ของคุณเป็นการตั้งค่าดั้งเดิม
-item-download-history =
-    .label = รายชื่อไฟล์ที่ดาวน์โหลด
-    .accesskey = ด
 data-section-label = ข้อมูล
 item-site-settings =
     .label = การตั้งค่าไซต์
@@ -98,6 +109,8 @@ sanitize-button-ok =
     .label = ล้างตอนนี้
 sanitize-button-ok2 =
     .label = ล้าง
+sanitize-button-ok-on-shutdown =
+    .label = บันทึกการเปลี่ยนแปลง
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
