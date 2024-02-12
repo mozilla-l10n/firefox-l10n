@@ -87,17 +87,17 @@ detail-check-for-updates =
 detail-show-preferences =
     .label =
         { PLATFORM() ->
-            [windows] Dewisiadau
+            [windows] Opsiynau
            *[other] Dewisiadau
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] D
-           *[other] e
+            [windows] O
+           *[other] D
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] Newid dewisiadau'r ychwanegyn
+            [windows] Newid opsiynau'r ychwanegyn
            *[other] Newid dewisiadau'r ychwanegyn
         }
 detail-rating =
