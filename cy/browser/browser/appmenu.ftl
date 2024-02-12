@@ -205,7 +205,7 @@ appmenu-recently-closed-windows =
     .label = Ffenestri wedi eu Cau yn Ddiweddar
 # This allows to search through the browser's history.
 appmenu-search-history =
-    .label = Hanes chwilio
+    .label = Chwilio'ch hanes
 
 ## Help panel
 

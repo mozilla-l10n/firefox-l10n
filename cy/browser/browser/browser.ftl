@@ -738,7 +738,7 @@ bookmarks-tools-menu-button-visibility =
 ##
 
 bookmarks-search =
-    .label = Chwilio'r Nodau Tudalen
+    .label = Chwilio’r nodau tudalen
 bookmarks-tools =
     .label = Offer Nodau Tudalen
 bookmarks-subview-edit-bookmark =

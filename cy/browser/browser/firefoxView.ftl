@@ -157,7 +157,7 @@ firefoxview-search-text-box-recentbrowsing =
     .placeholder = Chwilio
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
-    .placeholder = Chwilio hanes
+    .placeholder = Chwilio'ch hanes
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Chwilio tabiau a gaewyd yn ddiweddar

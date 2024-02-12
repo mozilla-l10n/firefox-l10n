@@ -66,12 +66,8 @@ third-party-button-to-unblock-module = Dadrwystro'r modiwl hwn
     .title = Wedi'i rwystro ar hyn o bryd. Cliciwch i'w ddadrwystro.
     .aria-label = Wedi'i rwystro ar hyn o bryd. Cliciwch i'w ddadrwystro.
 third-party-button-to-unblock-module-disabled = Dadrwystro'r modiwl hwn (rhestr rhwystro wedi'i analluogi)
-    .title =
-        Wedi'i nodi fel wedi'i rwystro, er fod y rhestr rhwystro wedi ei analluogi ar gyfer y rhediad yma
-        o { -brand-short-name }. Cliciwch i'w ddadrwystro.
-    .aria-label =
-        Wedi'i nodi fel wedi'i rwystro, er fod y rhestr rhwystro wedi ei analluogi ar gyfer y rhediad yma
-        o { -brand-short-name }. Cliciwch i'w ddadrwystro.
+    .title = Wedi'i nodi fel wedi'i rwystro ar hyn o bryd, er bod y rhestr rhwystro wedi'i hanalluogi ar gyfer y rhediad hwn o { -brand-short-name }. Cliciwch i'w ddadrwystro.
+    .aria-label = Wedi'i nodi fel wedi'i rwystro ar hyn o bryd, er bod y rhestr rhwystro wedi'i hanalluogi ar gyfer y rhediad hwn o { -brand-short-name }. Cliciwch i'w ddadrwystro.
 third-party-button-expand =
     .title = Dangos gwybodaeth fanwl
 third-party-button-collapse =
