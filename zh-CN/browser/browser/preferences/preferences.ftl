@@ -995,6 +995,7 @@ sitedata-delete-on-close =
     .label = 关闭 { -brand-short-name } 时删除 Cookie 与网站数据
     .accesskey = C
 sitedata-delete-on-close-private-browsing = 永久启用隐私浏览模式后，每次关闭 { -brand-short-name } 时都会清除 Cookie 和网站数据。
+sitedata-delete-on-close-private-browsing2 = 根据您的历史记录设置，{ -brand-short-name } 将在关闭浏览器时删除浏览期间产生的 Cookie 和网站数据。
 sitedata-allow-cookies-option =
     .label = 接受 Cookie 和网站数据
     .accesskey = A

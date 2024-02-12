@@ -269,3 +269,14 @@ launch-on-login-infobar-reject-button = 暂时不要
 launch-on-login-infobar-final-message = <strong>想在重启电脑后自动打开 { -brand-short-name } 吗？</strong>在设置中搜索“启动”即可管理启动首选项。
 launch-on-login-infobar-final-reject-button = 不了，谢谢
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = 甩掉讨厌的跟踪器
+tail-fox-spotlight-subtitle = 甩掉广告跟踪器，上网安全又快速。
+tail-fox-spotlight-primary-button = 用 { -brand-short-name } 打开我的链接
+tail-fox-spotlight-secondary-button = 暂时不要
