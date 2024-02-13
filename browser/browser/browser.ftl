@@ -902,7 +902,7 @@ filepicker-blocked-infobar = Sua organização bloqueou o acesso a arquivos loca
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
-data-reporting-notification-message = O { -brand-short-name } envia alguns dados automaticamente para a { -vendor-short-name } para que possamos aprimorar sua experiência.
+data-reporting-notification-message = O { -brand-short-name } envia alguns dados automaticamente para a { -vendor-short-name } para que possamos aprimorar sua experiência de uso.
 data-reporting-notification-button =
     .label = Escolher o que compartilhar
     .accesskey = E
