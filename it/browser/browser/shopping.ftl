@@ -64,6 +64,12 @@ shopping-message-bar-page-not-supported =
     .heading = Impossibile verificare queste recensioni
     .message = Purtroppo non è possibile verificare la qualità delle recensioni per alcuni tipi di prodotto come carte regalo, video in streaming e giochi.
 
+shopping-message-bar-keep-closed-header =
+    .heading = Mantenere chiusa?
+    .message = È possibile mantenere chiusa Verifica recensioni per impostazione predefinita. Al momento viene aperta automaticamente.
+shopping-message-bar-keep-closed-dismiss-button = No grazie
+shopping-message-bar-keep-closed-accept-button = Sì, mantieni chiusa
+
 ## Strings for the product review snippets card
 
 shopping-highlights-label =
@@ -84,10 +90,27 @@ shopping-show-less-button = Nascondi dettagli
 shopping-settings-label =
     .label = Impostazioni
 shopping-settings-recommendations-toggle =
-    .label = Mostra annunci nella verifica recensioni
+    .label = Mostra annunci in Verifica recensioni
 shopping-settings-recommendations-learn-more2 = Promuoviamo solo prodotti con recensioni affidabili. <a data-l10n-name="review-quality-url">Ulteriori informazioni</a>
-shopping-settings-opt-out-button = Disattiva verifica recensioni
+shopping-settings-opt-out-button = Disattiva Verifica recensioni
 powered-by-fakespot = Verifica recensioni con tecnologia <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+
+shopping-settings-auto-open-toggle =
+      .label = Apri automaticamente Verifica recensioni
+
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Quando visualizzi un prodotto su { $firstSite }, { $secondSite } e { $thirdSite }
+
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Quando visualizzi un prodotto su { $currentSite }
+
+shopping-settings-sidebar-enabled-state = Verifica recensioni è <strong>attiva</strong>
 
 ## Strings for the adjusted rating component
 
@@ -121,9 +144,9 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Recensioni inaffid
 ## Strings for UrlBar button
 
 shopping-sidebar-open-button2 =
-    .tooltiptext = Apri verifica recensioni
+    .tooltiptext = Apri Verifica recensioni
 shopping-sidebar-close-button2 =
-    .tooltiptext = Chiudi verifica recensioni
+    .tooltiptext = Chiudi Verifica recensioni
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -145,13 +168,13 @@ ad-by-fakespot = Annuncio di { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Aiutaci a migliorare { -brand-product-name }
-shopping-survey-question-one = Quanto sei soddisfatto della tua esperienza con la verifica recensioni di { -brand-product-name }?
+shopping-survey-question-one = Quanto sei soddisfatto della tua esperienza con Verifica recensioni di { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Molto soddisfatto
 shopping-survey-q1-radio-2-label = Soddisfatto
 shopping-survey-q1-radio-3-label = Indifferente
 shopping-survey-q1-radio-4-label = Insoddisfatto
 shopping-survey-q1-radio-5-label = Molto insoddisfatto
-shopping-survey-question-two = La verifica recensioni ti ha aiutato a prendere decisioni prima dell’acquisto?
+shopping-survey-question-two = Verifica recensioni ti ha aiutato a prendere decisioni prima dell’acquisto?
 shopping-survey-q2-radio-1-label = Sì
 shopping-survey-q2-radio-2-label = No
 shopping-survey-q2-radio-3-label = Non so
@@ -165,11 +188,31 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
-shopping-callout-closed-opted-in-subtitle = Torna a <strong>verifica recensioni</strong> quando vedi l’icona con il cartellino del prezzo.
+shopping-callout-closed-opted-in-subtitle = Torna a <strong>Verifica recensioni</strong> quando vedi l’icona con il cartellino del prezzo.
 shopping-callout-pdp-opted-in-title = Queste recensioni sono affidabili? Scoprilo velocemente.
-shopping-callout-pdp-opted-in-subtitle = Apri verifica recensioni per visualizzare la valutazione rettificata dopo aver rimosso le recensioni inaffidabili. Inoltre, scopri i punti salienti estratti da recensioni autentiche inserite di recente.
+shopping-callout-pdp-opted-in-subtitle = Apri Verifica recensioni per visualizzare la valutazione rettificata dopo aver rimosso le recensioni inaffidabili. Inoltre, scopri i punti salienti estratti da recensioni autentiche inserite di recente.
 shopping-callout-closed-not-opted-in-title = Recensioni affidabili in un clic
-shopping-callout-closed-not-opted-in-subtitle = Prova verifica recensioni ogni volta che vedi l’icona con il cartellino del prezzo. Ottieni rapidamente informazioni dettagliate da veri acquirenti, prima di acquistare.
+shopping-callout-closed-not-opted-in-subtitle = Prova Verifica recensioni ogni volta che vedi l’icona con il cartellino del prezzo. Ottieni rapidamente informazioni dettagliate da veri acquirenti, prima di acquistare.
+
+shopping-callout-closed-not-opted-in-revised-title = Recensioni affidabili in un solo clic
+shopping-callout-closed-not-opted-in-revised-subtitle = Fai clic sull’icona con il cartellino del prezzo nella barra degli indirizzi per tornare a Verifica recensioni.
+shopping-callout-closed-not-opted-in-revised-button = OK
+
+shopping-callout-not-opted-in-reminder-title = Acquista con fiducia
+shopping-callout-not-opted-in-reminder-subtitle = Non sei sicuro se le recensioni di un prodotto siano vere? Verifica recensioni di { -brand-product-name } può aiutarti.
+shopping-callout-not-opted-in-reminder-open-button = Apri Verifica recensioni
+shopping-callout-not-opted-in-reminder-close-button = Chiudi
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Non mostrare di nuovo
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Illustrazione astratta di tre recensioni di prodotti. Una presenta un simbolo di avviso per indicare che non si tratta di una recensione affidabile.
+
+shopping-callout-disabled-auto-open-title = Verifica recensioni è ora chiusa per impostazione predefinita
+shopping-callout-disabled-auto-open-subtitle = Fai clic sull’icona con il cartellino del prezzo nella barra degli indirizzi ogni volta che vuoi verificare l’affidabilità delle recensioni di un prodotto.
+shopping-callout-disabled-auto-open-button = OK
+
+shopping-callout-opted-out-title = Verifica recensioni è disattivata
+shopping-callout-opted-out-subtitle = Per riattivarla, fai clic sull’icona con il cartellino del prezzo nella barra degli indirizzi e segui le indicazioni.
+shopping-callout-opted-out-button = OK
 
 ## Onboarding message strings.
 
