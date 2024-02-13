@@ -58,6 +58,21 @@ login-list-filtered-count =
         [many] { $count } de { $total } inícios de sessão
        *[other] { $count } de { $total } inícios de sessão
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } palavra-passe
+       *[other] { $count } palavras-passe
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } de { $total } palavra-passe
+       *[other] { $count } de { $total } palavras-passe
+    }
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
 login-list-name-reverse-option = Nome (Z-A)
@@ -94,6 +109,7 @@ about-logins-login-intro-heading-logged-in = Não foram encontradas credenciais 
 login-intro-description = Se guardou as suas credenciais para o { -brand-product-name } num dispositivo diferente, eis como as obter aqui:
 login-intro-instructions-fxa = Crie ou inicie a sessão na sua { -fxaccount-brand-name } no dispositivo onde as suas credenciais estão guardadas
 about-logins-login-intro-heading-message = Guarde as suas palavras-passe num local seguro
+login-intro-description2 = Todas as palavras-passe que guarda no { -brand-product-name } são encriptadas. Além disso, nós estamos atentos às violações e avisamo-lo se for afetado. <a data-l10n-name="breach-alert-link">Saber mais</a>
 login-intro-instructions-fxa2 = Crie ou inicie a sessão na sua conta no dispositivo onde as suas credenciais estão guardadas.
 login-intro-instructions-fxa-settings = Aceda a Definições > Sincronizar > Ativar sincronização... Marque a caixa de seleção Credenciais e palavras-passe.
 login-intro-instructions-fxa-passwords-help = Visite <a data-l10n-name="passwords-help-link">apoio para as palavras-passe</a> para mais ajuda.
@@ -225,6 +241,12 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Isto irá remover a credencial que guardou no { -brand-short-name } em todos os seus dispositivos onde sincronizou a sua { -fxaccount-brand-name }. Isto irá também remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
        *[other] Isto irá remover todas as credenciais que guardou no { -brand-short-name } em todos os seus dispositivos onde sincronizou a sua { -fxaccount-brand-name }. Isto irá também remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Sim, remover a palavra-passe
+       *[other] Yes, remover as palavras-passe
     }
 
 ##
