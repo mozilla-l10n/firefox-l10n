@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-xpinstall-prompt = { -brand-short-name } מנע מאתר זה מלבקש ממך להתקין תוכנה על מחשב זה.
+xpinstall-prompt = { -brand-short-name } מנע מאתר זה מלבקש ממך להתקין תוכנה על המחשב שלך.
 
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
@@ -14,7 +14,6 @@ xpinstall-prompt-message = מתבצע ניסיון להתקין תוספת מ־{
 
 xpinstall-prompt-header-unknown = לאפשר לאתר לא מוכר להתקין תוספת?
 xpinstall-prompt-message-unknown = מתבצע ניסיון להתקין תוספת מאתר לא מוכר. יש לוודא שיש לך אמון באתר זה לפני המשך ההתקנה.
-
 xpinstall-prompt-dont-allow =
     .label = לא לאפשר
     .accesskey = ל
@@ -41,27 +40,32 @@ site-permission-install-first-prompt-midi-message = אין הבטחה שגישה
 ##
 
 xpinstall-disabled-locked = התקנת תוכנה נוטרלה על־ידי מנהל המערכת שלך.
+xpinstall-disabled-by-policy = התקנת תוכנה נוטרלה על־ידי הארגון שלך.
 xpinstall-disabled = התקנת תוכנה כרגע מנוטרלת. לחץ אפשור ונסה שוב.
 xpinstall-disabled-button =
     .label = אפשר
     .accesskey = א
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = התוספת { $addonName } ({ $addonId }) נחסמה על־ידי מנהל המערכת שלך.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
-addon-domain-blocked-by-policy = מנהל המערכת שלך מנע מאתר זה מלבקש ממך להתקין תוכנה על מחשב זה.
+addon-domain-blocked-by-policy = מנהל המערכת שלך מנע מאתר זה מלבקש ממך להתקין תוכנה על המחשב שלך.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = התוספת { $addonName } ({ $addonId }) נחסמה על־ידי הארגון שלך.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = הארגון שלך מנע מאתר זה מלבקש ממך להתקין תוכנה על המחשב שלך.
 addon-install-full-screen-blocked = התקנת תוספות אינה מורשית במצב מסך מלא או לפני הכניסה אליו.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } נוספה אל { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = נדרשות הרשאות חדשות עבור { $addonName }
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +81,6 @@ addon-removal-title = להסיר את { $name }?
 addon-removal-message = להסיר את { $name } מ־{ -brand-shorter-name }?
 addon-removal-button = הסרה
 addon-removal-abuse-report-checkbox = דיווח על הרחבה זו ל־{ -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,7 +89,6 @@ addon-downloading-and-verifying =
        *[other] בתהליך הורדה ואימות { $addonCount } תוספות…
     }
 addon-download-verifying = מאמת
-
 addon-install-cancel-button =
     .label = ביטול
     .accesskey = ב
