@@ -200,6 +200,9 @@ media-cdm-capabilities = 기능
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = 리드 지우기
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = HDCP 2.2 호환
 
 ##
 
@@ -259,6 +262,7 @@ try-newer-driver = 그래픽 드라이버는 그리기 지원이 차단되었습
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType 매개 변수
 compositing = 합성
+support-font-determination = 글꼴 가시성 디버그 정보
 hardware-h264 = 하드웨어 H264 디코딩
 main-thread-no-omtc = 주 스레드, OMTC 아님
 yes = 예
