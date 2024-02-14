@@ -39,3 +39,4 @@ remove-primary-password-warning1 = La password principale viene utilizzata per p
 remove-primary-password-warning2 = Rimuovendo la password principale le informazioni memorizzate non saranno protette in caso di compromissione del computer.
 remove-password-old-password =
     .value = Password attuale:
+

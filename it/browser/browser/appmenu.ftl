@@ -307,4 +307,3 @@ appmenu-developer-tools-extensions =
 
 appmenuitem-report-broken-site =
   .label = Segnala problemi con il sito
-
