@@ -73,6 +73,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Afficher davantage d’onglets
     .tooltiptext = Afficher plus d’onglets de cet appareil
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Afficher un onglet inactif
+           *[other] Afficher { $count } onglets inactifs
+        }
+    .tooltiptext = Afficher les onglets inactifs sur cet appareil
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Aucun onglet ouvert
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -162,6 +172,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Réglage recommandé pour le débogage de la plupart des applications web, avec une surcharge faible.
