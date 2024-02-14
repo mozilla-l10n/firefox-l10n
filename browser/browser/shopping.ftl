@@ -189,9 +189,24 @@ shopping-survey-thanks =
 shopping-callout-closed-opted-in-subtitle = 가격표를 볼 때마다 <strong>리뷰 검사기</strong>로 돌아가세요.
 shopping-callout-pdp-opted-in-title = 이 리뷰는 신뢰할 수 있나요? 빨리 알아보세요.
 shopping-callout-pdp-opted-in-subtitle = 신뢰할 수 없는 리뷰가 제거된 조정된 평점을 보려면 리뷰 검사기를 여세요. 또한 최근 실제 리뷰의 하이라이트를 확인하세요.
-shopping-callout-closed-not-opted-in-title = 클릭 한 번으로 신뢰할 수 있는 리뷰를 얻을 수 있습니다.
+shopping-callout-closed-not-opted-in-title = 클릭 한 번으로 신뢰할 수 있는 리뷰를 확인하세요
 shopping-callout-closed-not-opted-in-subtitle = 가격표를 볼 때마다 리뷰 검사기를 사용해 보세요. 구매하기 전에 실제 쇼핑객으로부터 빠르게 통찰력을 얻으세요.
+shopping-callout-closed-not-opted-in-revised-title = 클릭 한 번으로 신뢰할 수 있는 리뷰를 확인하세요
 shopping-callout-closed-not-opted-in-revised-subtitle = 리뷰 검사기로 돌아가려면 주소 표시줄의 가격표 아이콘을 누르세요.
+shopping-callout-closed-not-opted-in-revised-button = 확인
+shopping-callout-not-opted-in-reminder-title = 자신있게 쇼핑하세요
+shopping-callout-not-opted-in-reminder-subtitle = 제품 리뷰가 진짜인지 가짜인지 확실하지 않으신가요? { -brand-product-name }의 리뷰 검사기가 도움이 될 수 있습니다.
+shopping-callout-not-opted-in-reminder-open-button = 리뷰 검사기 열기
+shopping-callout-not-opted-in-reminder-close-button = 닫기
+shopping-callout-not-opted-in-reminder-ignore-checkbox = 다시 표시 안 함
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = 세 가지 제품 리뷰에 대한 추상 그림입니다. 하나는 신뢰할 수 없음을 나타내는 경고 기호가 있습니다.
+shopping-callout-disabled-auto-open-title = 리뷰 검사기는 이제 기본적으로 닫혀 있습니다.
+shopping-callout-disabled-auto-open-subtitle = 제품 리뷰를 신뢰할 수 있는지 확인하고 싶을 때마다 주소 표시줄의 가격표 아이콘을 누르세요.
+shopping-callout-disabled-auto-open-button = 확인
+shopping-callout-opted-out-title = 리뷰 검사기가 꺼짐
+shopping-callout-opted-out-subtitle = 다시 켜려면 주소 표시줄의 가격표 아이콘을 클릭하고 지시를 따르세요.
+shopping-callout-opted-out-button = 확인
 
 ## Onboarding message strings.
 
