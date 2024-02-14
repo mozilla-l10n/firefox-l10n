@@ -64,6 +64,8 @@ shopping-message-bar-analysis-in-progress-with-amount = Kontrola kwality pohódn
 shopping-message-bar-page-not-supported =
     .heading = Njemóžemy tute pohódnoćenja přepruwować
     .message = Bohužel njemóžemy kwalitu pohódnoćenja za wěste produktowe typy kontrolować. Na přikład za darne karty a prudźace widejo, hudźbu a hry.
+shopping-message-bar-keep-closed-dismiss-button = Ně, dźakuju so
+shopping-message-bar-keep-closed-accept-button = Haj, začinjeny wostajić
 
 ## Strings for the product review snippets card
 
@@ -173,6 +175,13 @@ shopping-callout-pdp-opted-in-title = Su tute pohódnoćenja spušćomne? Wuslě
 shopping-callout-pdp-opted-in-subtitle = Wočińće kontrolu pohódnoćenjow, zo byšće přiměrjene hódnoćenje z wotstronjenymi njespušćomnymi pohódnoćenjemi. Wobhladajće sej nimo toho  wjerški z najnowšich awtentiskich pohódnoćenjow.
 shopping-callout-closed-not-opted-in-title = Jedne kliknjenje do spušćomnych pohódnoćenjow
 shopping-callout-closed-not-opted-in-subtitle = Dajće kontroli pohódnoćenjow šansu, hdyžkuli płaćiznowu tafličku widźiće. Dóstańće spěšnje dohlady wot woprawdźitych nakupowarjow – prjedy hač kupujeće.
+shopping-callout-closed-not-opted-in-revised-title = Jedne kliknjenje do dowěry hódnych pohódnoćenjow
+shopping-callout-closed-not-opted-in-revised-button = Sym zrozumił
+shopping-callout-not-opted-in-reminder-open-button = Kontrolu pohódnoćenjow wočinić
+shopping-callout-not-opted-in-reminder-close-button = Zaćisnyć
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Hižo so njepokazać
+shopping-callout-disabled-auto-open-button = Sym zrozumił
+shopping-callout-opted-out-button = Sym zrozumił
 
 ## Onboarding message strings.
 
@@ -188,7 +197,6 @@ shopping-onboarding-dynamic-subtitle-1 = Hladajće, kak spušćomne produktowe p
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Hladajće, kak spušćomne pohódnoćenja produktow na <b>{ $currentSite }</b> su, prjedy hač produkty kupiće. Kontrola pohódnoćenjow, eksperimentalna funkcija z { -brand-product-name }, je direktnje do wobhladowaka zatwarjena.
 shopping-onboarding-body = Z pomocu potenciala { -fakespot-brand-full-name }, pomhamy wam, předzajate a njeawtentiske pohódnoćenja wobeńć. Naš model KI so stajnje polěpšuje, zo by was škitał, hdyž nakupujeće. <a data-l10n-name="learn_more">Dalše informacije</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Hdyž “{ shopping-onboarding-opt-in-button }“ wuběraće, zwoliće do<a data-l10n-name="privacy_policy">prawidłow priwatnosće</a> a <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Hdyž “{ shopping-onboarding-opt-in-button }“ wuběraće, zwoliće do <a data-l10n-name="privacy_policy">prawidłow priwatnosće</a> { -brand-product-name } a <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Haj, wupruwować
 shopping-onboarding-not-now-button = Nic nětko

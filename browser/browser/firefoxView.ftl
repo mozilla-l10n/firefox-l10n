@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Synchronizuje so
 firefoxview-syncedtabs-loading-description = Hdyž to je dokónčene, budźeće rajtarki widźeć, kotrež su na druhich gratach wočinjene. Hladajće bórze za tym.
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija je synchronizaciju znjemóžniła
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waš administrator je synchronizowanje znjemóžnił.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waša organizacija je synchronizowanje znjemóžniła.
 firefoxview-tabpickup-network-offline-header = Přepruwujće swój internetny zwisk
 firefoxview-tabpickup-network-offline-description = Jeli wohnjowu murju abo proksy wužiwaće, přepruwujće, hač { -brand-short-name } ma prawo na přistup k internetej.
 firefoxview-tabpickup-network-offline-primarybutton = Hišće raz spytać
@@ -186,6 +187,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Žane wuslědki za „{ $query }“
 firefoxview-sort-history-by-date-label = Po datumje sortěrować
 firefoxview-sort-history-by-site-label = Po sydle sortěrować
+firefoxview-sort-open-tabs-by-recency-label = Po najnowšej aktiwiće sortěrować
+firefoxview-sort-open-tabs-by-order-label = Po porjedźe rajtarkow sortěrować
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
