@@ -245,6 +245,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = 글자 크기만 조정
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = 경고: "글자 크기만 조정"을 선택하고 기본 확대/축소가 100%로 설정되지 않은 경우, 일부 사이트나 콘텐츠가 깨질 수 있습니다.
 language-header = 언어
 choose-language-description = 웹 페이지를 표시할 기본 언어 선택
 choose-button =
@@ -550,6 +552,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } 추천
 home-prefs-recommended-by-description-new = { -brand-product-name } 제품군의 일부인 { $provider }에서 선별한 뛰어난 콘텐츠
+home-prefs-recommended-by-header-generic =
+    .label = 추천 이야기
+home-prefs-recommended-by-description-generic = { -brand-product-name } 제품군이 선별한 뛰어난 콘텐츠
 
 ##
 
@@ -1064,10 +1069,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = 빠른 작업
     .accesskey = Q
+addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
 addressbar-locbar-showrecentsearches-option =
     .label = 최근 검색 표시
     .accesskey = r
-addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
 addressbar-quickactions-learn-more = 더 알아보기
 
 ## Privacy Section - Content Blocking
