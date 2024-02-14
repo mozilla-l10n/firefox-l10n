@@ -203,6 +203,9 @@ media-cdm-capabilities = 系統能力
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = 不加密片頭（Clear Lead）
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = HDCP 2.2 相容
 
 ##
 
@@ -262,6 +265,7 @@ try-newer-driver = 因為您的顯示卡驅動程式版本過舊，已封鎖此�
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType 參數
 compositing = 合成
+support-font-determination = 字型可見度除錯資訊
 hardware-h264 = H264 硬體解碼
 main-thread-no-omtc = 主執行緒，無 OMTC
 yes = 是
