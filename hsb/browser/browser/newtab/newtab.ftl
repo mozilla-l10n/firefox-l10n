@@ -198,6 +198,7 @@ newtab-section-header-recent-activity = Najnowša aktiwita
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Wot { $provider } doporučeny
+newtab-section-header-stories = Stawiznički, kotrež k přemyslowanju pohonjeja
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -206,6 +207,8 @@ newtab-empty-section-highlights = Započńće přehladować, a pokazamy někotre
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = To je nachwilu wšitko. Wróćće so pozdźišo dalšich wulkotnych stawiznow dla wot { $provider }. Njemóžeće čakać? Wubjerće woblubowanu temu, zo byšće dalše wulkotne stawizny z weba namakał.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Sće wjaznył. Wróćće pozdźišo wjace stawiznow dla. Njemóžeće čakać? Wubjerće woblubowanu temu, zo byšće dalše wulkotne stawizny z weba namakał.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -263,6 +266,9 @@ newtab-custom-pocket-subtitle = Wosebite wobsah, wubrany přez { -pocket-brand-n
 newtab-custom-pocket-toggle =
     .label = Wot { -pocket-brand-name } doporučene
     .description = Wosebite wobsah, wubrany přez { -pocket-brand-name }, dźěla swójby { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Doporučene stawiznički
+    .description = Wuwzaćowy wobsah, kotryž so přez swójbu { -brand-product-name } hlada
 newtab-custom-pocket-sponsored = Sponserowane stawizny
 newtab-custom-pocket-show-recent-saves = Najnowše składowanja pokazać
 newtab-custom-recent-title = Najnowša aktiwita

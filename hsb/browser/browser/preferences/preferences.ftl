@@ -568,6 +568,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Wot { $provider } doporučeny
 home-prefs-recommended-by-description-new = Wosebite wobsah, wubrany přez { $provider }, dźěla swójby { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Doporučene stawiznički
+home-prefs-recommended-by-description-generic = Wuwzaćowy wobsah, kotryž so přez swójbu { -brand-product-name } hlada
 
 ##
 
@@ -1088,10 +1091,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Spěšne akcije
     .accesskey = S
+addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 addressbar-locbar-showrecentsearches-option =
     .label = Najnowše pytanja pokazać
     .accesskey = n
-addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 addressbar-quickactions-learn-more = Dalše informacije
 
 ## Privacy Section - Content Blocking
