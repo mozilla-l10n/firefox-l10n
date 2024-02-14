@@ -157,5 +157,3 @@ options-source-maps-tooltip =
 
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * solo sessione corrente, ricarica la pagina
-
-

@@ -436,6 +436,3 @@ pointing-device-mouse = Mouse
 pointing-device-touchscreen = Schermo touch
 pointing-device-pen-digitizer = Penna digitale
 pointing-device-none = Nessuno dispositivo di puntamento
-
-
-

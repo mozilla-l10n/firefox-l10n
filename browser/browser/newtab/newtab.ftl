@@ -271,4 +271,3 @@ newtab-custom-recent-toggle =
     .description = Una selezione di siti e contenuti visualizzati di recente
 newtab-custom-close-button = Chiudi
 newtab-custom-settings = Gestisci altre impostazioni
-
