@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Synchronizěrujo se
 firefoxview-syncedtabs-loading-description = Gaž to jo dokóńcone, buźośo rejtariki wiźeś, kótarež su na drugich rědach wócynjone. Pśiźćo skóro mimo.
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija jo znjemóžniła synchronizaciju
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njamóžo rejtariki mjazy rědami synchronizěrowaś, dokulaž waš administrator jo znjemóžnił synchronizěrowanje.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } njamóžo rejtariki mjazy rědami synchronizěrowaś, dokulaž waša organizacija jo znjemóžniła synchronizěrowanje.
 firefoxview-tabpickup-network-offline-header = Pśeglědujśo swój internetny zwisk
 firefoxview-tabpickup-network-offline-description = Jolic wognjowu murju abo proksy wužywaśo, pśeglědujśo, lěc { -brand-short-name } ma pšawo na pśistup k internetoju.
 firefoxview-tabpickup-network-offline-primarybutton = Hyšći raz wopytaś
@@ -186,6 +187,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Žedne wuslědki za „{ $query }“
 firefoxview-sort-history-by-date-label = Pó datumje sortěrowaś
 firefoxview-sort-history-by-site-label = Pó sedle sortěrowaś
+firefoxview-sort-open-tabs-by-recency-label = Pó nejnowšej aktiwiśe sortěrowaś
+firefoxview-sort-open-tabs-by-order-label = Pó pórěźe rejtarikow sortěrowaś
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
