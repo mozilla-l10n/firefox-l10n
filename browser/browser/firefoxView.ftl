@@ -47,6 +47,7 @@ firefoxview-syncedtabs-loading-header = סנכרון בתהליך
 firefoxview-syncedtabs-loading-description = כשהסנכרון יסתיים, כל הלשוניות הפתוחות שיש לך במכשירים אחרים יוצגו כאן. נא לבדוק שוב בקרוב.
 firefoxview-tabpickup-fxa-admin-disabled-header = הארגון שלך השבית את הסנכרון
 firefoxview-tabpickup-fxa-admin-disabled-description = אין באפשרות { -brand-short-name } לסנכרן לשוניות בין מכשירים מכיוון שמנהל המערכת שלך השבית את האפשרות לסנכרון.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = אין באפשרות { -brand-short-name } לסנכרן לשוניות בין מכשירים מכיוון שהארגון שלך השבית את האפשרות לסנכרון.
 firefoxview-tabpickup-network-offline-header = יש לבדוק את חיבור האינטרנט שלך
 firefoxview-tabpickup-network-offline-description = אם המחשב שלך משתמש בחומת אש או מתווך, יש לבדוק של־{ -brand-short-name } יש הרשאה לגשת לרשת.
 firefoxview-tabpickup-network-offline-primarybutton = ניסיון חוזר
@@ -176,6 +177,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = אין תוצאות עבור ״{ $query }״
 firefoxview-sort-history-by-date-label = מיון לפי תאריך
 firefoxview-sort-history-by-site-label = מיון לפי אתר
+firefoxview-sort-open-tabs-by-recency-label = מיון לפי פעילות אחרונה
+firefoxview-sort-open-tabs-by-order-label = מיון לפי סדר לשוניות
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
