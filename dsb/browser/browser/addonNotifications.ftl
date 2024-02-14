@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Wěsty pśistup se njegarant
 ##
 
 xpinstall-disabled-locked = Instalacija softwary jo se wót wašogo systemowego administratora znjemóžniła.
+xpinstall-disabled-by-policy = Instalacija softwary jo se wót wašeje organizacije znjemóžniła.
 xpinstall-disabled = Instalacija softwary jo tuchylu znjemóžnjona. Klikniśo na Zmóžniś a wopytajśo hyšći raz.
 xpinstall-disabled-button =
     .label = Zmóžniś
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) jo se znjemóžnił wót twójogo administratora.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Waš systemowy administrator jo zawoborał toś tomu sedłoju, was se wó dowólenje pšašaś, software na wašym licadle instalěrowaś.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) jo se znjemóžnił wót wašeje organizacije.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Waša organizacija jo toś tomu sedłoju zawoborała, was se wó dowólenje pšašaś, software na wašym licadle instalěrowaś.
 addon-install-full-screen-blocked = Instalacija dodankow njejo dowólona w modusu połneje wobrazowki a nježli až do njogo zastupijośo.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
