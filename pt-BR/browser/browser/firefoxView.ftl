@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Sincronização em andamento
 firefoxview-syncedtabs-loading-description = Quando terminar, abas abertas em outros dispositivos aparecem aqui. Verifique mais tarde.
 firefoxview-tabpickup-fxa-admin-disabled-header = Sua organização desativou a sincronização
 firefoxview-tabpickup-fxa-admin-disabled-description = O { -brand-short-name } não consegue sincronizar abas entre dispositivos porque seu administrador desativou a sincronização.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = O { -brand-short-name } não pode sincronizar abas entre dispositivos porque sua organização desativou a sincronização.
 firefoxview-tabpickup-network-offline-header = Verifique sua conexão com a internet
 firefoxview-tabpickup-network-offline-description = Se estiver usando um firewall ou proxy, verifique se o { -brand-short-name } tem permissão para acessar a web.
 firefoxview-tabpickup-network-offline-primarybutton = Tentar novamente

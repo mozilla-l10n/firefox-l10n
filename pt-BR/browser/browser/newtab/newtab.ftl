@@ -203,6 +203,8 @@ newtab-empty-section-highlights = Comece a navegar e mostraremos aqui alguns ót
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Você já viu tudo. Volte mais tarde para mais histórias do { $provider }. Não consegue esperar? Escolha um assunto popular para encontrar mais grandes histórias através da web.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Você já viu tudo. Volte mais tarde para ver mais histórias. Não quer esperar? Escolha um assunto popular para encontrar mais grandes histórias na web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -258,6 +260,9 @@ newtab-custom-pocket-subtitle = Conteúdo excepcional selecionado pelo { -pocket
 newtab-custom-pocket-toggle =
     .label = Recomendado pelo { -pocket-brand-name }
     .description = Conteúdo excepcional selecionado pelo { -pocket-brand-name }, parte da família { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Histórias recomendadas
+    .description = Conteúdo excepcional escolhido pela família { -brand-product-name }
 newtab-custom-pocket-sponsored = Histórias patrocinadas
 newtab-custom-pocket-show-recent-saves = Mostrar salvamentos recentes
 newtab-custom-recent-title = Atividade recente
