@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Синхрондау орындалуд�
 firefoxview-syncedtabs-loading-description = Ол аяқталғаннан кейін, сіз басқа құрылғыларда ашылған барлық беттерді көресіз. Біраздан кейін тексеріңіз.
 firefoxview-tabpickup-fxa-admin-disabled-header = Сізідң ұйымыңыз синхрондауды сөндірген
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } құрылғылар арасында беттерді синхрондай алмайды, себебі әкімшіңіз синхрондауды сөндірген.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } құрылғылар арасында беттерді синхрондай алмайды, себебі ұйымыңыз синхрондауды сөндірген.
 firefoxview-tabpickup-network-offline-header = Интернет байланысын тексеріңіз
 firefoxview-tabpickup-network-offline-description = Брандмауэр немесе прокси қолданып жатсаңыз, { -brand-short-name } интернетке кіруге рұқсаты бар екенін тексеріңіз.
 firefoxview-tabpickup-network-offline-primarybutton = Қайтадан көру
@@ -184,6 +185,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = "{ $query }" бойынша нәтиже жоқ
 firefoxview-sort-history-by-date-label = Күні бойынша сұрыптау
 firefoxview-sort-history-by-site-label = Сайт бойынша сұрыптау
+firefoxview-sort-open-tabs-by-recency-label = Соңғы әрекет бойынша сұрыптау
+firefoxview-sort-open-tabs-by-order-label = Беттер реті бойынша сұрыптау
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
