@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = 리뷰 품질 확인 중
 shopping-message-bar-page-not-supported =
     .heading = 리뷰를 확인할 수 없음
     .message = 안타깝게도 특정 유형의 제품에 대해서는 리뷰 품질을 확인할 수 없습니다. 예를 들어 기프트 카드, 스트리밍 동영상, 음악, 게임 등이 있습니다.
+shopping-message-bar-keep-closed-header =
+    .heading = 계속 닫겠습니까?
+    .message = 리뷰 검사기가 기본적으로 닫혀 있도록 설정을 업데이트할 수 있습니다. 지금은 자동으로 열립니다.
+shopping-message-bar-keep-closed-dismiss-button = 아니요
+shopping-message-bar-keep-closed-accept-button = 예, 계속 닫겠습니다
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = 관련 제품에 대한 광고가 가끔 표시됩니다. 믿을 수 있는 리뷰가 있는 제품만을 광고합니다. <a data-l10n-name="review-quality-url">더 알아보기</a>
 shopping-settings-opt-out-button = 리뷰 검사기 끄기
 powered-by-fakespot = 리뷰 검사기는 <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>을 통해 제공됩니다.
+shopping-settings-auto-open-toggle =
+    .label = 리뷰 검사기 자동으로 열기
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = { $firstSite }, { $secondSite } 및 { $thirdSite }에서 제품을 볼 때
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = { $currentSite }에서 제품을 볼 때
+shopping-settings-sidebar-enabled-state = 리뷰 검사기가 <strong>켜짐</strong>
 
 ## Strings for the adjusted rating component
 
@@ -173,6 +191,7 @@ shopping-callout-pdp-opted-in-title = 이 리뷰는 신뢰할 수 있나요? 빨
 shopping-callout-pdp-opted-in-subtitle = 신뢰할 수 없는 리뷰가 제거된 조정된 평점을 보려면 리뷰 검사기를 여세요. 또한 최근 실제 리뷰의 하이라이트를 확인하세요.
 shopping-callout-closed-not-opted-in-title = 클릭 한 번으로 신뢰할 수 있는 리뷰를 얻을 수 있습니다.
 shopping-callout-closed-not-opted-in-subtitle = 가격표를 볼 때마다 리뷰 검사기를 사용해 보세요. 구매하기 전에 실제 쇼핑객으로부터 빠르게 통찰력을 얻으세요.
+shopping-callout-closed-not-opted-in-revised-subtitle = 리뷰 검사기로 돌아가려면 주소 표시줄의 가격표 아이콘을 누르세요.
 
 ## Onboarding message strings.
 
@@ -188,7 +207,6 @@ shopping-onboarding-dynamic-subtitle-1 = 구매하기 전에 <b>{ $currentSite }
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = 구매하기 전에 <b>{ $currentSite }</b>에서 제품 리뷰가 얼마나 신뢰할 수 있는지 확인하세요. { -brand-product-name }의 실험적 기능인 리뷰 검사기가 브라우저에 바로 내장되어 있습니다.
 shopping-onboarding-body = { -fakespot-brand-full-name }의 기능을 사용하여 편향되고 허위 리뷰를 방지하는 데 도움을 드립니다. AI 모델은 쇼핑하는 동안 사용자를 보호하기 위해 항상 개선되고 있습니다. <a data-l10n-name="learn_more">더 알아보기</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = "{ shopping-onboarding-opt-in-button }"을 선택하면 { -fakespot-brand-name }의 <a data-l10n-name="privacy_policy">개인정보처리방침</a> 및 <a data-l10n-name="terms_of_use">사용 약관</a>에 동의하게 됩니다.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = "{ shopping-onboarding-opt-in-button }"을 선택하면 { -brand-product-name }의 <a data-l10n-name="privacy_policy">개인정보처리방침</a> 및 { -fakespot-brand-name }의 <a data-l10n-name="terms_of_use">사용 약관</a>에 동의하게 됩니다.
 shopping-onboarding-opt-in-button = 사용해보기
 shopping-onboarding-not-now-button = 나중에
