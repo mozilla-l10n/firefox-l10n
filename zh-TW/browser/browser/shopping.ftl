@@ -89,6 +89,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = 您會偶而看到相關商品的廣告，我們僅會推薦評論品質可靠的商品。<a data-l10n-name="review-quality-url">了解更多資訊</a>
 shopping-settings-opt-out-button = 關閉商品評論檢查器
 powered-by-fakespot = 商品評論檢查器是由 <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> 提供。
+shopping-settings-auto-open-toggle =
+    .label = 自動開啟商品評論檢查器
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = 當您在 { $firstSite }、{ $secondSite } 或 { $thirdSite } 檢視商品時
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = 當您在 { $currentSite } 檢視商品時
+shopping-settings-sidebar-enabled-state = 商品評論檢查器<strong>已開啟</strong>
 
 ## Strings for the adjusted rating component
 
@@ -172,7 +185,12 @@ shopping-callout-pdp-opted-in-subtitle = 開啟商品評論檢查器來確認移
 shopping-callout-closed-not-opted-in-title = 點一下即可看到可靠的商品評論
 shopping-callout-closed-not-opted-in-subtitle = 看到標價的時候，就可以試用看看商品評論檢查器。在購買之前快速確認實際購買商品的顧客評論。
 shopping-callout-closed-not-opted-in-revised-button = 知道了！
+shopping-callout-not-opted-in-reminder-open-button = 開啟商品評論檢查器
+shopping-callout-not-opted-in-reminder-close-button = 知道了
+shopping-callout-not-opted-in-reminder-ignore-checkbox = 不要再顯示
+shopping-callout-disabled-auto-open-title = 現在起會預設關閉商品評論檢查器
 shopping-callout-disabled-auto-open-button = 知道了！
+shopping-callout-opted-out-title = 商品評論檢查器已關閉
 shopping-callout-opted-out-button = 知道了！
 
 ## Onboarding message strings.
