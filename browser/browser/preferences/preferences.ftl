@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zoom text only
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Warning: If you select “Zoom text only” and your default zoom is not set to 100%, it may cause some sites or content to break.
 language-header = Language
 choose-language-description = Choose your preferred language for displaying pages
 choose-button =
@@ -562,6 +564,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recommended by { $provider }
 home-prefs-recommended-by-description-new = Exceptional content curated by { $provider }, part of the { -brand-product-name } family
+home-prefs-recommended-by-header-generic =
+    .label = Recommended stories
+home-prefs-recommended-by-description-generic = Exceptional content curated by the { -brand-product-name } family
 
 ##
 
@@ -1080,10 +1085,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Quick actions
     .accesskey = Q
+addressbar-suggestions-settings = Change preferences for search engine suggestions
 addressbar-locbar-showrecentsearches-option =
     .label = Show recent searches
     .accesskey = r
-addressbar-suggestions-settings = Change preferences for search engine suggestions
 addressbar-quickactions-learn-more = Learn more
 
 ## Privacy Section - Content Blocking
