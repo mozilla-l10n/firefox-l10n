@@ -64,6 +64,8 @@ shopping-message-bar-analysis-in-progress-with-amount = Пікір сапасы 
 shopping-message-bar-page-not-supported =
     .heading = Біз бұл пікірлерді тексере алмаймыз
     .message = Өкінішке орай, біз белгілі бір өнім түрлерінің пікірлер сапасын тексере алмаймыз. Мысалы, сыйлық карталары және ағынды видео, музыка және ойындар.
+shopping-message-bar-keep-closed-dismiss-button = Жоқ, рахмет
+shopping-message-bar-keep-closed-accept-button = Иә, жабық қалдыру
 
 ## Strings for the product review snippets card
 
@@ -171,6 +173,11 @@ shopping-callout-pdp-opted-in-title = Бұл пікірлер сенімді м�
 shopping-callout-pdp-opted-in-subtitle = Сенімсіз пікірлер өшіріліп, түзетілген рейтингті көру үшін пікірлерді тексеру құралын ашыңыз. Сонымен қатар, соңғы шынайы пікірлерден маңызды сәттерді қараңыз.
 shopping-callout-closed-not-opted-in-title = Сенімді пікірлерге үшін бір рет шерту
 shopping-callout-closed-not-opted-in-subtitle = Бағаны көрген кезде пікірлерді қолдану құралын қолданып көріңіз. Сатып алуға дейін нақты сатып алушылардан ақпаратты жылдам алыңыз.
+shopping-callout-closed-not-opted-in-revised-button = Түсіндім
+shopping-callout-not-opted-in-reminder-title = Сенімділікпен сатып алыңыз
+shopping-callout-not-opted-in-reminder-open-button = Пікірлерді тексеру құралын ашу
+shopping-callout-not-opted-in-reminder-close-button = Тайдыру
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Келесіде көрсетпеу
 
 ## Onboarding message strings.
 
@@ -186,7 +193,6 @@ shopping-onboarding-dynamic-subtitle-1 = Сатып алғанға дейін <b
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Сатып алғанға дейін <b>{ $currentSite }</b> сайтындағы өнім пікірлері қаншалықты сенімді екенін қараңыз. Пікірлерді тексеру құралын { -brand-product-name } сынамалы түрде ұсынады, ол тура браузер ішінде қолжетімді.
 shopping-onboarding-body = { -fakespot-brand-full-name } мүмкіндігін пайдалана отырып, біз сізге біржақты және шынайы емес пікірлерден аулақ болуға көмектесеміз. Сатып алу кезінде сізді қорғау үшін біздің AI моделіміз үнемі жетілдіріліп отырады. <a data-l10n-name="learn_more">Көбірек білу</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = "{ shopping-onboarding-opt-in-button }" опциясын таңдау арқылы сіз { -fakespot-brand-name } қолданбасының <a data-l10n-name="privacy_policy">жекелік саясаты</a> және <a data-l10n-name="terms_of_use">қолдану шарттарымен</a>  келісесіз.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = "{ shopping-onboarding-opt-in-button }" опциясын таңдау арқылы сіз { -brand-product-name } қолданбасының <a data-l10n-name="privacy_policy">жекелік саясаты</a> және { -fakespot-brand-name } өнімінің <a data-l10n-name="terms_of_use">қолдану шарттарымен</a>  келісесіз.
 shopping-onboarding-opt-in-button = Иә, қолданып көру
 shopping-onboarding-not-now-button = Қазір емес
