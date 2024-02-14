@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = בתהליך בדיקת 
 shopping-message-bar-page-not-supported =
     .heading = אין באפשרותנו לבדוק סקירות אלה
     .message = למרבה הצער, איננו יכולים לבדוק את איכות הסקירות עבור סוגים מסויימים של מוצרים. למשל, כרטיסי מתנה והזרמת וידאו, מוזיקה ומשחקים.
+shopping-message-bar-keep-closed-header =
+    .heading = להשאיר אותו סגור?
+    .message = ניתן לעדכן את ההגדרות שלך כך שבודק הסקירות יישאר סגור כברירת מחדל. כרגע הוא מוגדר להיפתח באופן אוטומטי.
+shopping-message-bar-keep-closed-dismiss-button = לא תודה
+shopping-message-bar-keep-closed-accept-button = כן, להשאיר סגור
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = מדי פעם יוצגו פרסומות עבור מוצרים רלוונטיים. אנו מפרסמים רק מוצרים בעלי סקירות אמינות. <a data-l10n-name="review-quality-url">מידע נוסף</a>
 shopping-settings-opt-out-button = כיבוי בודק הסקירות
 powered-by-fakespot = בודק הסקירות מופעל על־ידי <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = פתיחה אוטומטית של בודק הסקירות
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = בעת צפייה במוצרים ב־{ $firstSite }, ‎{ $secondSite } ו־{ $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = בעת צפייה במוצרים ב־{ $currentSite }
+shopping-settings-sidebar-enabled-state = בודק הסקירות <strong>מופעל</strong>
 
 ## Strings for the adjusted rating component
 
@@ -169,6 +187,9 @@ shopping-callout-pdp-opted-in-title = האם הסקירות האלו אמינו�
 shopping-callout-pdp-opted-in-subtitle = ניתן לפתוח את בודק הסקירות כדי לראות דירוג מותאם עם סקירות לא אמינות שהוסרו. בנוסף, ניתן לראות דגשים מסקירות אותנטיות אחרונות.
 shopping-callout-closed-not-opted-in-title = לחיצה אחת לסקירות אמינות
 shopping-callout-closed-not-opted-in-subtitle = נסו את בודק הסקירות בכל פעם שיוצג תג המחיר. קבלו תובנות מקונים אמיתיים במהירות - לפני הרכישה.
+shopping-callout-closed-not-opted-in-revised-title = לחיצה אחת לסקירות שניתן לסמוך עליהןם
+shopping-callout-closed-not-opted-in-revised-subtitle = אפשר פשוט ללחוץ על סמל תג המחיר בשורת הכתובת כדי לחזור לבודק הסקירות.
+shopping-callout-closed-not-opted-in-revised-button = הבנתי
 
 ## Onboarding message strings.
 
@@ -184,7 +205,6 @@ shopping-onboarding-dynamic-subtitle-1 = ניתן לבדוק עד כמה ביק�
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = ניתן לבדוק עד כמה ביקורות מוצר אמינות ב־<b>{ $currentSite }</b> לפני הקנייה. בודק הסקירות, תכונה ניסיונית מאת { -brand-product-name }, מובנה ישירות בדפדפן.
 shopping-onboarding-body = באמצעות הכוח של { -fakespot-brand-full-name }, אנו עוזרים לך להימנע מסקירות מוטות ולא אותנטיות. מודל הבינה המלאכותית שלנו משתפר תמיד כדי להגן עליך בזמן הקנייה. <a data-l10n-name="learn_more">מידע נוסף</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = בחירה באפשרות ״{ shopping-onboarding-opt-in-button }״ מהווה הסכמה ל<a data-l10n-name="privacy_policy">הצהרת הפרטיות</a> ול<a data-l10n-name="terms_of_use">תנאי השימוש</a> של { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = בחירה באפשרות ״{ shopping-onboarding-opt-in-button }״ מהווה הסכמה ל<a data-l10n-name="privacy_policy">הצהרת הפרטיות</a> של { -brand-product-name } ול<a data-l10n-name="terms_of_use">תנאי השימוש</a> של { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = כן, ארצה לנסות
 shopping-onboarding-not-now-button = לא כעת
