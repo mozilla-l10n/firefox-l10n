@@ -64,6 +64,7 @@ shopping-message-bar-analysis-in-progress-with-amount = Έλεγχος ποιό�
 shopping-message-bar-page-not-supported =
     .heading = Δεν μπορούμε να ελέγξουμε αυτές τις κριτικές
     .message = Δυστυχώς, δεν μπορούμε να ελέγξουμε την ποιότητα των κριτικών για ορισμένους τύπους προϊόντων, όπως δωροκάρτες, βίντεο σε μορφή streaming, μουσική και παιχνίδια.
+shopping-message-bar-keep-closed-dismiss-button = Όχι, ευχαριστώ
 
 ## Strings for the product review snippets card
 
@@ -171,6 +172,8 @@ shopping-callout-pdp-opted-in-title = Είναι αξιόπιστες αυτές
 shopping-callout-pdp-opted-in-subtitle = Ανοίξτε τον έλεγχο κριτικών για να δείτε μια αναπροσαρμοσμένη βαθμολογία μετά από αφαίρεση των αναξιόπιστων κριτικών. Επιπλέον, θα βρείτε τα πιο σημαντικά σημεία από πρόσφατες, αυθεντικές κριτικές.
 shopping-callout-closed-not-opted-in-title = Αξιόπιστες κριτικές με ένα κλικ
 shopping-callout-closed-not-opted-in-subtitle = Δοκιμάστε τον έλεγχο κριτικών κάθε φορά που βλέπετε το εικονίδιο-καρτελάκι. Λάβετε γρήγορα πληροφορίες από πραγματικούς αγοραστές προτού αγοράσετε.
+shopping-callout-not-opted-in-reminder-open-button = Άνοιγμα ελέγχου κριτικών
+shopping-callout-not-opted-in-reminder-close-button = Απόρριψη
 
 ## Onboarding message strings.
 
@@ -186,7 +189,6 @@ shopping-onboarding-dynamic-subtitle-1 = Δείτε πόσο αξιόπιστε�
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Δείτε πόσο αξιόπιστες είναι οι κριτικές των προϊόντων στο <b>{ $currentSite }</b> πριν αγοράσετε. Ο έλεγχος κριτικών, μια πειραματική δυνατότητα από τo { -brand-product-name }, ενσωματώνεται στο πρόγραμμα περιήγησης.
 shopping-onboarding-body = Με την υποστήριξη του { -fakespot-brand-full-name }, σας βοηθάμε να αποφύγετε τις μεροληπτικές και ψευδείς κριτικές. Το μοντέλο AI μας βελτιώνεται συνεχώς για να σας προστατεύει όσο κάνετε τις αγορές σας. <a data-l10n-name="learn_more">Μάθετε περισσότερα</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Επιλέγοντας «{ shopping-onboarding-opt-in-button }», αποδέχεστε την <a data-l10n-name="privacy_policy">Πολιτική απορρήτου</a> και τους <a data-l10n-name="terms_of_use">Όρους χρήσης</a> του { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Επιλέγοντας «{ shopping-onboarding-opt-in-button }», αποδέχεστε την <a data-l10n-name="privacy_policy">πολιτική απορρήτου</a> του { -brand-product-name } και τους <a data-l10n-name="terms_of_use">όρους χρήσης</a> του { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Έναρξη δοκιμής
 shopping-onboarding-not-now-button = Όχι τώρα
