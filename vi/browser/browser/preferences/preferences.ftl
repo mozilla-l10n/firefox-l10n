@@ -245,6 +245,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Chỉ thu phóng văn bản
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Cảnh báo: Nếu bạn chọn “Chỉ phóng to văn bản” và thu phóng mặc định của bạn không được đặt thành 100%, nó có thể khiến một số trang web hoặc nội dung bị hỏng.
 language-header = Ngôn ngữ
 choose-language-description = Chọn ngôn ngữ ưu tiên bạn muốn để hiển thị trang
 choose-button =
@@ -550,6 +552,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Được đề xuất bởi { $provider }
 home-prefs-recommended-by-description-new = Nội dung đặc biệt do { $provider }, một phần của { -brand-product-name }, quản lý
+home-prefs-recommended-by-header-generic =
+    .label = Câu chuyện được đề xuất
+home-prefs-recommended-by-description-generic = Nội dung đặc biệt được quản lý bởi gia đình { -brand-product-name }
 
 ##
 
@@ -1064,10 +1069,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hành động nhanh
     .accesskey = Q
+addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm
 addressbar-locbar-showrecentsearches-option =
     .label = Hiển thị các tìm kiếm gần đây
     .accesskey = F
-addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm
 addressbar-quickactions-learn-more = Tìm hiểu thêm
 
 ## Privacy Section - Content Blocking
