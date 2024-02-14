@@ -64,6 +64,9 @@ shopping-message-bar-analysis-in-progress-with-amount = Verificando qualidade da
 shopping-message-bar-page-not-supported =
     .heading = Não podemos verificar essas avaliações
     .message = Infelizmente, não podemos verificar a qualidade das avaliações de determinados tipos de produtos. Por exemplo, cartões-presente e transmissão de vídeo, música e jogos.
+shopping-message-bar-keep-closed-header =
+    .heading = Manter fechado?
+    .message = Você pode mudar suas configurações para manter o verificador de avaliações fechado por padrão. No momento, ele abre automaticamente.
 shopping-message-bar-keep-closed-dismiss-button = Não, obrigado
 shopping-message-bar-keep-closed-accept-button = Sim, manter fechado
 
@@ -187,13 +190,20 @@ shopping-callout-pdp-opted-in-subtitle = Abra o verificador de avaliações para
 shopping-callout-closed-not-opted-in-title = Um clique para avaliações confiáveis
 shopping-callout-closed-not-opted-in-subtitle = Experimente o verificador de avaliações sempre que aparecer a etiqueta de preço. Obtenha percepções de compradores reais rapidamente, antes de comprar.
 shopping-callout-closed-not-opted-in-revised-title = Um clique para avaliações confiáveis
+shopping-callout-closed-not-opted-in-revised-subtitle = Basta clicar no ícone da etiqueta de preço na barra de endereços para voltar ao verificador de avaliações.
 shopping-callout-closed-not-opted-in-revised-button = Entendi
 shopping-callout-not-opted-in-reminder-title = Compre com confiança
+shopping-callout-not-opted-in-reminder-subtitle = Não tem certeza se as avaliações de um produto são reais ou falsas? O verificador de avaliações do { -brand-product-name } pode ajudar.
 shopping-callout-not-opted-in-reminder-open-button = Abrir o verificador de avaliações
 shopping-callout-not-opted-in-reminder-close-button = Descartar
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Não mostrar novamente
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Ilustração abstrata de três avaliações de produtos. Uma tem um símbolo de alerta indicando que pode não ser confiável.
+shopping-callout-disabled-auto-open-title = Agora o verificador de avaliações fica fechado por padrão
+shopping-callout-disabled-auto-open-subtitle = Clique no ícone de etiqueta de preço na barra de endereços sempre que quiser ver se pode confiar nas avaliações de um produto.
 shopping-callout-disabled-auto-open-button = Entendi
 shopping-callout-opted-out-title = O verificador de avaliações está desativado
+shopping-callout-opted-out-subtitle = Para ativar novamente, clique no ícone de etiqueta de preço na barra de endereços e siga as instruções.
 shopping-callout-opted-out-button = Entendi
 
 ## Onboarding message strings.
