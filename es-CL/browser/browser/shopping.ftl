@@ -12,7 +12,7 @@ shopping-beta-marker = Beta
 # Any changes to shopping-main-container-title and
 # shopping-beta-marker should also be reflected here.
 shopping-a11y-header =
-    .aria-label = Comprobador de reseñas - beta
+    .aria-label = Verificador de reseñas - beta
 shopping-close-button =
     .title = Cerrar
 # This string is for notifying screen reader users that the
@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Comprobando la calidad d
 shopping-message-bar-page-not-supported =
     .heading = No podemos comprobar estas reseñas
     .message = Lamentablemente, no podemos verificar la calidad de las reseñas para ciertos tipos de productos. Por ejemplo, tarjetas de regalo y transmisión de vídeo, música y juegos.
+shopping-message-bar-keep-closed-header =
+    .heading = ¿Mantener cerrado?
+    .message = Puedes actualizar tus ajustes para mantener el Verificador de reseñas cerrado de manera predeterminada. En este momento, se abre de manera automática.
+shopping-message-bar-keep-closed-dismiss-button = No, gracias
+shopping-message-bar-keep-closed-accept-button = Sí, mantener cerrado.
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Verás publicidades ocasional de productos relevantes. Sólo publicitamos productos con revisiones confiables. <a data-l10n-name="review-quality-url">Aprender más</a>
 shopping-settings-opt-out-button = Desactivar el verificador de reseñas
 powered-by-fakespot = El verificador de reseñas funciona con <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Abrir automáticamente el Verificador de reseñas
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Cuando veas productos en { $firstSite }, { $secondSite } y { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Cuando veas productos en { $currentSite }
+shopping-settings-sidebar-enabled-state = El verificador de reseñas está <strong>activado</strong>
 
 ## Strings for the adjusted rating component
 
@@ -173,6 +191,7 @@ shopping-callout-pdp-opted-in-title = ¿Son confiables estas reseñas? Descúbre
 shopping-callout-pdp-opted-in-subtitle = Abre el verificador de reseñas para ver una calificación ajustada, eliminando las reseñas no confiables. Además, mira los aspectos más destacados de las reseñas auténticas recientes.
 shopping-callout-closed-not-opted-in-title = Un clic para obtener reseñas confiables
 shopping-callout-closed-not-opted-in-subtitle = Prueba el verificador de reseñas cada vez que veas la etiqueta de precio. Obtén rápidamente información de compradores reales, antes de comprar.
+shopping-callout-closed-not-opted-in-revised-title = Un clic para obtener reseñas confiables
 
 ## Onboarding message strings.
 
@@ -188,7 +207,6 @@ shopping-onboarding-dynamic-subtitle-1 = Revisa qué tan confiables son las rese
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Mira cuán confiables son las reseñas de productos en <b>{ $currentSite }</b> antes de comprar. El verificador de reseñas, una función experimental de { -brand-product-name }, está integrado directamente en el navegador.
 shopping-onboarding-body = Usando el poder de { -fakespot-brand-full-name }, te ayudamos a evitar reseñas sesgadas y no auténticas. Nuestro modelo de IA siempre está mejorando para protegerte mientras compras. <a data-l10n-name="learn_more">Aprender más</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Al seleccionar "{ shopping-onboarding-opt-in-button }", aceptas la <a data-l10n-name="privacy_policy">política de privacidad</a> de { -fakespot-brand-name } y los <a data-l10n-name="terms_of_use">términos de uso</a>.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Al seleccionar "{ shopping-onboarding-opt-in-button }", aceptas la <a data-l10n-name="privacy_policy">política de privacidad</a> de { -brand-product-name } y los <a data-l10n-name="terms_of_use">términos de uso</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Si, probarlo
 shopping-onboarding-not-now-button = Ahora no
