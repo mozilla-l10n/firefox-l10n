@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Kontrollerar recensionen
 shopping-message-bar-page-not-supported =
     .heading = Vi kan inte kontrollera dessa recensioner
     .message = Tyvärr kan vi inte kontrollera recensionskvaliteten för vissa typer av produkter. Till exempel presentkort och strömmande video, musik och spel.
+shopping-message-bar-keep-closed-header =
+    .heading = Håll stängd?
+    .message = Du kan uppdatera dina inställningar för att hålla recensionsgranskaren stängd som standard. Just nu öppnas den automatiskt.
+shopping-message-bar-keep-closed-dismiss-button = Nej tack
+shopping-message-bar-keep-closed-accept-button = Ja, håll stängd
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Du ser då och då annonser för relevanta produkter. Vi annonserar endast produkter med pålitliga recensioner. <a data-l10n-name="review-quality-url">Läs mer</a>
 shopping-settings-opt-out-button = Stäng av recensionsgranskaren
 powered-by-fakespot = Recensionsgranskaren drivs av <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Öppna automatiskt recensionsgranskaren
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = När du visar produkter på { $firstSite }, { $secondSite } och { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = När du visar produkter på { $currentSite }
+shopping-settings-sidebar-enabled-state = Recensionsgranskaren är <strong>På</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,22 @@ shopping-callout-pdp-opted-in-title = Är dessa recensioner tillförlitliga? Ta 
 shopping-callout-pdp-opted-in-subtitle = Öppna recensionsgranskaren för att se ett justerat betyg med opålitliga recensioner borttagna. Se dessutom höjdpunkter från de senaste autentiska recensionerna.
 shopping-callout-closed-not-opted-in-title = Ett klick till pålitliga recensioner
 shopping-callout-closed-not-opted-in-subtitle = Ge recensionsgranskaren ett försök när du ser prislappen. Få insikter från riktiga shoppare snabbt — innan du köper.
+shopping-callout-closed-not-opted-in-revised-title = Ett klick till pålitliga recensioner
+shopping-callout-closed-not-opted-in-revised-subtitle = Klicka bara på prislappsikonen i adressfältet för att gå tillbaka till recensionsgranskaren.
+shopping-callout-closed-not-opted-in-revised-button = Jag förstår
+shopping-callout-not-opted-in-reminder-title = Handla med förtroende
+shopping-callout-not-opted-in-reminder-subtitle = Är du inte säker på om en produkts recensioner är riktiga eller falska? Recensionsgranskaren från { -brand-product-name } kan hjälpa.
+shopping-callout-not-opted-in-reminder-open-button = Öppna recensionsgranskaren
+shopping-callout-not-opted-in-reminder-close-button = Ignorera
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Visa inte igen
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstrakt illustration av tre produktrecensioner. En har en varningssymbol som indikerar att den kanske inte är pålitlig.
+shopping-callout-disabled-auto-open-title = Recensionsgranskaren är nu stängd som standard
+shopping-callout-disabled-auto-open-subtitle = Klicka på prislappsikonen i adressfältet när du vill se om du kan lita på en produkts recensioner.
+shopping-callout-disabled-auto-open-button = Jag förstår
+shopping-callout-opted-out-title = Recensionsgranskaren är avstängd
+shopping-callout-opted-out-subtitle = För att slå på den igen, klicka på prislappsikonen i adressfältet och följ instruktionerna.
+shopping-callout-opted-out-button = Jag förstår
 
 ## Onboarding message strings.
 
@@ -186,7 +220,6 @@ shopping-onboarding-dynamic-subtitle-1 = Se hur tillförlitliga produktrecension
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Se hur tillförlitliga produktrecensioner är på <b>{ $currentSite }</b> innan du köper. Recensionsgranskaren, en experimentell funktion från { -brand-product-name }, är inbyggd direkt i webbläsaren.
 shopping-onboarding-body = Genom att använda kraften i { -fakespot-brand-full-name } hjälper vi dig att undvika partiska och oäkta recensioner. Vår AI-modell förbättras alltid för att skydda dig när du handlar. <a data-l10n-name="learn_more">Läs mer</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Genom att välja "{ shopping-onboarding-opt-in-button }" godkänner du { -fakespot-brand-name }:s <a data-l10n-name="privacy_policy">integritetspolicy</a> och <a data-l10n-name="terms_of_use">användarvillkor.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Genom att välja "{ shopping-onboarding-opt-in-button }" godkänner du { -brand-product-name }:s <a data-l10n-name="privacy_policy">integritetspolicy</a> och { -fakespot-brand-name }:s <a data-l10n-name="terms_of_use">användarvillkor.</a>
 shopping-onboarding-opt-in-button = Ja, prova den
 shopping-onboarding-not-now-button = Inte nu

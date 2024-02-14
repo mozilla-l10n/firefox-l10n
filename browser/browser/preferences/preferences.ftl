@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zooma endast text
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Varning: Om du väljer "Zooma endast text" och din standardzoom är inte inställd på 100%, kan det orsaka fel på vissa webbplatser eller innehåll.
 language-header = Språk
 choose-language-description = Välj språk som webbsidor ska visas i
 choose-button =
@@ -562,6 +564,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Rekommenderas av { $provider }
 home-prefs-recommended-by-description-new = Särskilt innehåll valt av { $provider }, en del av familjen { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Rekommenderade berättelser
+home-prefs-recommended-by-description-generic = Exceptionellt innehåll kurerat av { -brand-product-name }-familjen
 
 ##
 
@@ -1080,10 +1085,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Snabbåtgärder
     .accesskey = a
+addressbar-suggestions-settings = Ändra inställningar för förslag från sökmotorn
 addressbar-locbar-showrecentsearches-option =
     .label = Visa senaste sökningar
     .accesskey = s
-addressbar-suggestions-settings = Ändra inställningar för förslag från sökmotorn
 addressbar-quickactions-learn-more = Läs mer
 
 ## Privacy Section - Content Blocking
