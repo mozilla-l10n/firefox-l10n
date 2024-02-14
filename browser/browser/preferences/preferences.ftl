@@ -558,6 +558,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } 推荐
 home-prefs-recommended-by-description-new = 由 { -brand-product-name } 旗下 { $provider } 策划的特别内容
+home-prefs-recommended-by-header-generic =
+    .label = 推荐文章
 
 ##
 
@@ -1072,10 +1074,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = 快捷操作
     .accesskey = Q
+addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 addressbar-locbar-showrecentsearches-option =
     .label = 显示近期搜索
     .accesskey = r
-addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 addressbar-quickactions-learn-more = 详细了解
 
 ## Privacy Section - Content Blocking

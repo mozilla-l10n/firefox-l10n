@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = 此访问不一定安全，�
 ##
 
 xpinstall-disabled-locked = 软件安装已被您的系统管理员禁用。
+xpinstall-disabled-by-policy = 您的组织已禁用软件安装。
 xpinstall-disabled = 软件安装已被禁用。请单击“启用”并重试。
 xpinstall-disabled-button =
     .label = 启用
@@ -51,6 +52,11 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName }（{ $addonId }）已被系统管理员禁用。
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = 您的系统管理员已阻止此网站在您的计算机上安装软件的请求。
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = “{ $addonName }” ({ $addonId }) 已被您的组织屏蔽。
 addon-install-full-screen-blocked = 进入全屏模式前或进入时，不允许安装附加组件。
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
