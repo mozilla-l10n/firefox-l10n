@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Đang đồng bộ hóa
 firefoxview-syncedtabs-loading-description = Khi hoàn tất, bạn sẽ thấy mọi thẻ bạn đã mở trên các thiết bị khác. Hãy kiểm tra lại sau.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tổ chức của bạn đã tắt đồng bộ hóa
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } không thể đồng bộ hóa các thẻ giữa các thiết bị vì quản trị viên của bạn đã tắt đồng bộ hóa.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } không thể đồng bộ hóa các thẻ giữa các thiết bị vì tổ chức của bạn đã tắt tính năng đồng bộ hóa.
 firefoxview-tabpickup-network-offline-header = Kiểm tra kết nối Internet của bạn
 firefoxview-tabpickup-network-offline-description = Nếu bạn đang sử dụng tường lửa hoặc proxy, hãy kiểm tra xem { -brand-short-name } có quyền truy cập web hay không.
 firefoxview-tabpickup-network-offline-primarybutton = Thử lại
@@ -180,6 +181,8 @@ firefoxview-search-results-count = { $count } trang web
 firefoxview-search-results-empty = Không có kết quả tìm kiếm cho “{ $query }”
 firefoxview-sort-history-by-date-label = Sắp xếp theo ngày
 firefoxview-sort-history-by-site-label = Sắp xếp theo trang web
+firefoxview-sort-open-tabs-by-recency-label = Sắp xếp theo hoạt động gần đây
+firefoxview-sort-open-tabs-by-order-label = Sắp xếp theo thứ tự thẻ
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =

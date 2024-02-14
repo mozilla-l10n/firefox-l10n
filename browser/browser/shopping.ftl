@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Kiểm tra chất lượ
 shopping-message-bar-page-not-supported =
     .heading = Chúng tôi không thể kiểm tra những đánh giá này
     .message = Rất tiếc, chúng tôi không thể kiểm tra chất lượng đánh giá đối với một số loại sản phẩm nhất định. Ví dụ: thẻ quà tặng và truyền phát video, âm nhạc và trò chơi.
+shopping-message-bar-keep-closed-header =
+    .heading = Giữ việc đóng?
+    .message = Bạn có thể cập nhật cài đặt của mình để đóng trình kiểm tra đánh giá theo mặc định. Hiện tại, nó sẽ tự động mở ra.
+shopping-message-bar-keep-closed-dismiss-button = Không, cảm ơn
+shopping-message-bar-keep-closed-accept-button = Có, giữ việc đóng lại
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Bạn sẽ thấy quảng cáo không thường xuyên cho các sản phẩm có liên quan. Chúng tôi chỉ quảng cáo những sản phẩm có đánh giá đáng tin cậy. <a data-l10n-name="review-quality-url">Tìm hiểu thêm</a>
 shopping-settings-opt-out-button = Tắt trình kiểm tra đánh giá
 powered-by-fakespot = Trình kiểm tra đánh giá được cung cấp bởi <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Tự động mở trình kiểm tra đánh giá
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Khi bạn xem sản phẩm trên { $firstSite }, { $secondSite }, và { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Khi bạn xem sản phẩm trên { $currentSite }
+shopping-settings-sidebar-enabled-state = Trình kiểm tra đánh giá đang <strong>bật</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,22 @@ shopping-callout-pdp-opted-in-title = Những đánh giá này có đáng tin c�
 shopping-callout-pdp-opted-in-subtitle = Mở trình kiểm tra đánh giá để xem xếp hạng đã điều chỉnh và đã xóa các đánh giá không đáng tin cậy. Ngoài ra, hãy xem những điểm nổi bật từ các đánh giá xác thực gần đây.
 shopping-callout-closed-not-opted-in-title = Một cú nhấp chuột để đánh giá đáng tin cậy
 shopping-callout-closed-not-opted-in-subtitle = Hãy dùng thử trình kiểm tra đánh giá bất cứ khi nào bạn nhìn thấy tag giá. Nhận thông tin chi tiết từ những người mua sắm thực sự một cách nhanh chóng — trước khi bạn mua.
+shopping-callout-closed-not-opted-in-revised-title = Một cú nhấp để kiểm tra đánh giá đáng tin cậy
+shopping-callout-closed-not-opted-in-revised-subtitle = Chỉ cần nhấp vào biểu tượng thẻ giá trên thanh địa chỉ để quay lại trình kiểm tra đánh giá.
+shopping-callout-closed-not-opted-in-revised-button = Đã hiểu
+shopping-callout-not-opted-in-reminder-title = Mua sắm với sự tự tin
+shopping-callout-not-opted-in-reminder-subtitle = Bạn không chắc chắn liệu đánh giá về sản phẩm là thật hay giả? Trình kiểm tra đánh gia từ { -brand-product-name } có thể giúp bạn.
+shopping-callout-not-opted-in-reminder-open-button = Mở trình kiểm tra đánh giá
+shopping-callout-not-opted-in-reminder-close-button = Bỏ qua
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Đừng hỏi lại
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Minh họa trừu tượng của ba đánh giá sản phẩm. Một cái có biểu tượng cảnh báo cho biết nó có thể không đáng tin cậy.
+shopping-callout-disabled-auto-open-title = Trình kiểm tra đánh giá hiện được đóng theo mặc định
+shopping-callout-disabled-auto-open-subtitle = Nhấp vào biểu tượng thẻ giá trên thanh địa chỉ bất cứ khi nào bạn muốn xem liệu bạn có thể tin tưởng vào đánh giá sản phẩm hay không.
+shopping-callout-disabled-auto-open-button = Đã hiểu
+shopping-callout-opted-out-title = Trình kiểm tra đánh giá đang tắt
+shopping-callout-opted-out-subtitle = Để bật lại, hãy nhấp vào biểu tượng thẻ giá trên thanh địa chỉ và làm theo lời nhắc.
+shopping-callout-opted-out-button = Đã hiểu
 
 ## Onboarding message strings.
 
@@ -186,7 +220,6 @@ shopping-onboarding-dynamic-subtitle-1 = Xem đánh giá sản phẩm đáng tin
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Xem đánh giá sản phẩm đáng tin cậy trên <b>{ $currentSite }</b> trước khi bạn mua. Trình kiểm tra đánh giá, một tính năng thử nghiệm từ { -brand-product-name }, được tích hợp ngay trong trình duyệt.
 shopping-onboarding-body = Sử dụng { -fakespot-brand-full-name }, chúng tôi giúp bạn tránh những đánh giá thiên vị và không xác thực. Mô hình AI của chúng tôi luôn cải tiến để bảo vệ bạn khi bạn mua sắm. <a data-l10n-name="learn_more">Tìm hiểu thêm</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Bằng cách lựa chọn “{ shopping-onboarding-opt-in-button }“ bạn đã đồng ý với <a data-l10n-name="privacy_policy">chính sách riêng tư</a> và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Bằng việc chọn “{ shopping-onboarding-opt-in-button }“ bạn đồng ý với <a data-l10n-name="privacy_policy">chính sách riêng tư</a> của { -brand-product-name } và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Có, hãy thử nó
 shopping-onboarding-not-now-button = Không phải bây giờ
