@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Συγχρονισμός σε εξέλι
 firefoxview-syncedtabs-loading-description = Μόλις ολοκληρωθεί, θα δείτε όλες τις ανοικτές καρτέλες από άλλες συσκευές. Επιστρέψτε σε λίγο.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό
 firefoxview-tabpickup-fxa-admin-disabled-description = Το { -brand-short-name } δεν μπορεί να συγχρονίσει τις καρτέλες μεταξύ συσκευών, επειδή ο διαχειριστής σας έχει απενεργοποιήσει τον συγχρονισμό.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = Το { -brand-short-name } δεν μπορεί να συγχρονίσει τις καρτέλες μεταξύ συσκευών, επειδή ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό.
 firefoxview-tabpickup-network-offline-header = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
 firefoxview-tabpickup-network-offline-description = Εάν χρησιμοποιείτε τείχος προστασίας ή διακομιστή μεσολάβησης, ελέγξτε ότι το { -brand-short-name } έχει άδεια πρόσβασης στο διαδίκτυο.
 firefoxview-tabpickup-network-offline-primarybutton = Δοκιμή ξανά
@@ -184,6 +185,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Κανένα αποτέλεσμα για «{ $query }»
 firefoxview-sort-history-by-date-label = Ταξινόμηση κατά ημερομηνία
 firefoxview-sort-history-by-site-label = Ταξινόμηση κατά ιστότοπο
+firefoxview-sort-open-tabs-by-recency-label = Ταξινόμηση κατά πρόσφατη δραστηριότητα
+firefoxview-sort-open-tabs-by-order-label = Ταξινόμηση κατά σειρά καρτελών
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
