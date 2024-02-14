@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = 正在同步
 firefoxview-syncedtabs-loading-description = 同步完成後就會看到您其他裝置上開啟的分頁，請稍候再回來。
 firefoxview-tabpickup-fxa-admin-disabled-header = 您的組織已停用同步功能
 firefoxview-tabpickup-fxa-admin-disabled-description = 由於您的管理員已停用同步功能，{ -brand-short-name } 無法在裝置間同步分頁。
+firefoxview-tabpickup-fxa-disabled-by-policy-description = 由於您的組織已停用同步功能，{ -brand-short-name } 無法在裝置間同步分頁。
 firefoxview-tabpickup-network-offline-header = 請檢查您的網際網路連線是否正常
 firefoxview-tabpickup-network-offline-description = 若您在防火牆或代理伺服器後面，請確認 { -brand-short-name } 可連線至網際網路。
 firefoxview-tabpickup-network-offline-primarybutton = 重試
