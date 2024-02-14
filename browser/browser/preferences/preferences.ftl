@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zoom só no texto
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Aviso: Se você selecionar “Zoom apenas no texto” e o zoom padrão não estiver definido como 100%, pode atrapalhar alguns sites ou conteúdos.
 language-header = Idioma
 choose-language-description = Escolha o idioma preferido para exibir páginas
 choose-button =
@@ -564,6 +566,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Conteúdo excepcional selecionado pelo { $provider }, parte da família { -brand-product-name }
 home-prefs-recommended-by-header-generic =
     .label = Histórias recomendadas
+home-prefs-recommended-by-description-generic = Conteúdo excepcional selecionado pela família { -brand-product-name }
 
 ##
 
