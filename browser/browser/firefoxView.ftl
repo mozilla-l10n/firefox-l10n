@@ -182,6 +182,7 @@ firefoxview-search-results-empty = “{ $query }”에 대한 결과 없음
 firefoxview-sort-history-by-date-label = 날짜순 정렬
 firefoxview-sort-history-by-site-label = 사이트순 정렬
 firefoxview-sort-open-tabs-by-recency-label = 최근 활동순 정렬
+firefoxview-sort-open-tabs-by-order-label = 탭 순서로 정렬
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
