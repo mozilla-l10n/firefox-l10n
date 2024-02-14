@@ -14,7 +14,6 @@ xpinstall-prompt-message = Pospytujeće přidatk z { $host } instalować. Přesw
 
 xpinstall-prompt-header-unknown = Njeznatemu sydłu dowolić, přidatk instalować?
 xpinstall-prompt-message-unknown = Pospytujeće přidatk z njeznateho sydła instalować. Přeswědčće so, hač tute sydło je dowěry hódne, prjedy hač pokročujeće.
-
 xpinstall-prompt-dont-allow =
     .label = Njedowolić
     .accesskey = N
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = Wěsty přistup so njegarant
 ##
 
 xpinstall-disabled-locked = Instalacija softwary bu wot wašeho systemoweho administratora znjemóžnjena.
+xpinstall-disabled-by-policy = Softwarowa instalacija je so wot wašeje organizacije znjemóžniła.
 xpinstall-disabled = Instalacija softwary je tuchwilu znjemóžnjena. Klikńće na Zmóžnić a spytajće hišće raz.
 xpinstall-disabled-button =
     .label = Zmóžnić
     .accesskey = m
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,15 +52,20 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) je so wot twojeho administratora znjemóžnił.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Waš systemowy administrator haćeše tute sydło při tym, zo so was wo dowolnosć praša, softwaru na wašim ličaku instalować.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) je so wot wašeje organizacije znjemóžnił.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Waša organizacija haćeše tute sydło při tym, zo so was wo dowolnosć praša, softwaru na wašim ličaku instalować.
 addon-install-full-screen-blocked = Instalacija přidatkow njeje dowolena w modusu połneje wobrazowki a prjedy hač do njeho zastupiće.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } je so { -brand-short-name } přidał
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } sej nowe prawa wužaduje
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +81,6 @@ addon-removal-title = { $name } wotstronić?
 addon-removal-message = { $name } z { -brand-shorter-name } wotstronić?
 addon-removal-button = Wotstronić
 addon-removal-abuse-report-checkbox = { -vendor-short-name } tute rozšěrjenje zdźělić
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -88,7 +91,6 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } přidatkow so sćahuje a přepruwuje…
     }
 addon-download-verifying = Přepruwuje so
-
 addon-install-cancel-button =
     .label = Přetorhnyć
     .accesskey = P
