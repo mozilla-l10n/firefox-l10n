@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Synchronisation en cours
 firefoxview-syncedtabs-loading-description = Une fois terminée, vous verrez ici tous les onglets ouverts sur vos autres appareils. Revenez vite.
 firefoxview-tabpickup-fxa-admin-disabled-header = Votre organisation a désactivé la synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne peut pas synchroniser d’onglets entre appareils car votre administrateur·trice a désactivé la synchronisation.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne peut pas synchroniser d’onglets entre appareils car votre organisation a désactivé la synchronisation.
 firefoxview-tabpickup-network-offline-header = Vérifiez votre connexion à Internet
 firefoxview-tabpickup-network-offline-description = Si vous utilisez un pare-feu ou un proxy, vérifiez que { -brand-short-name } a l’autorisation d’accéder au Web.
 firefoxview-tabpickup-network-offline-primarybutton = Réessayer
@@ -184,6 +185,7 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Pas de résultats pour « { $query } »
 firefoxview-sort-history-by-date-label = Trier par date
 firefoxview-sort-history-by-site-label = Trier par site
+firefoxview-sort-open-tabs-by-recency-label = Trier par activité récente
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =

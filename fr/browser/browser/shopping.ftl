@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Vérification de la qual
 shopping-message-bar-page-not-supported =
     .heading = Nous ne pouvons pas vérifier ces avis
     .message = Malheureusement, nous ne pouvons pas vérifier la qualité des avis pour certains types de produits. Par exemple, les cartes-cadeau et le streaming vidéo, la musique et les jeux.
+shopping-message-bar-keep-closed-header =
+    .heading = Le garder fermé ?
+    .message = Vous pouvez mettre à jour vos paramètres pour que le vérificateur d’avis reste fermé par défaut. Actuellement, il s’ouvre automatiquement.
+shopping-message-bar-keep-closed-dismiss-button = Non merci
+shopping-message-bar-keep-closed-accept-button = Oui, le garder fermé
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Vous verrez à l’occasion des publicités pour des produits pertinents.  Nous faisons uniquement la promotion de produits dont les avis sont fiables. <a data-l10n-name="review-quality-url">En savoir plus</a>
 shopping-settings-opt-out-button = Désactiver le vérificateur d’avis
 powered-by-fakespot = Le vérificateur d’avis fonctionne grâce à <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Ouvrir automatiquement le vérificateur d’avis
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Lorsque vous consultez des produits sur { $firstSite }, { $secondSite } et { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Lorsque vous consultez des produits sur { $currentSite }
+shopping-settings-sidebar-enabled-state = Le vérificateur d’avis est <strong>activé</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,22 @@ shopping-callout-pdp-opted-in-title = Ces avis sont-ils fiables ? Découvrez-le
 shopping-callout-pdp-opted-in-subtitle = Ouvrez le vérificateur d’avis pour consulter l’évaluation corrigée, qui ne tient pas compte des avis non fiables. Vous pourrez aussi consulter les points essentiels tirés d’avis authentiques récents.
 shopping-callout-closed-not-opted-in-title = Des avis fiables en un clic
 shopping-callout-closed-not-opted-in-subtitle = Essayez le vérificateur d’avis chaque fois que vous voyez l’icône d’étiquette de prix. Obtenez rapidement des informations de la part de véritables clients avant d’effectuer votre achat.
+shopping-callout-closed-not-opted-in-revised-title = Des avis fiables en un clic
+shopping-callout-closed-not-opted-in-revised-subtitle = Cliquez simplement sur l’icône d’étiquette de prix dans la barre d’adresse pour retrouver le vérificateur d’avis.
+shopping-callout-closed-not-opted-in-revised-button = J’ai compris
+shopping-callout-not-opted-in-reminder-title = Achetez en toute confiance
+shopping-callout-not-opted-in-reminder-subtitle = Vous ne savez pas si les avis d’un produit sont vrais ou faux ? Le vérificateur d’avis de { -brand-product-name } peut vous aider.
+shopping-callout-not-opted-in-reminder-open-button = Ouvrir le vérificateur d’avis
+shopping-callout-not-opted-in-reminder-close-button = Ignorer
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne plus afficher
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Illustration abstraite de trois avis de produits. L’un d’eux a un symbole d’avertissement indiquant qu’il peut ne pas être fiable.
+shopping-callout-disabled-auto-open-title = Le vérificateur d’avis est désormais fermé par défaut
+shopping-callout-disabled-auto-open-subtitle = Cliquez sur l’icône d’étiquette de prix dans la barre d’adresse chaque fois que vous voulez savoir si vous pouvez vous fier aux avis d’un produit.
+shopping-callout-disabled-auto-open-button = J’ai compris
+shopping-callout-opted-out-title = Le vérificateur d’avis est désactivé
+shopping-callout-opted-out-subtitle = Pour le réactiver, cliquez sur l’icône d’étiquette de prix dans la barre d’adresse et suivez les instructions.
+shopping-callout-opted-out-button = J’ai compris
 
 ## Onboarding message strings.
 
@@ -186,7 +220,6 @@ shopping-onboarding-dynamic-subtitle-1 = Regardez quelle fiabilité accorder aux
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Regardez quelle fiabilité accorder aux avis de produits sur <b>{ $currentSite }</b> avant d’acheter. Le vérificateur d’avis, une fonctionnalité expérimentale de { -brand-product-name }, est intégré au navigateur.
 shopping-onboarding-body = En utilisant la puissance de { -fakespot-brand-full-name }, nous vous aidons à éviter les avis partiaux et mensongers. Notre modèle d’intelligence artificielle s’améliore en permanence pour vous protéger pendant vos achats. <a data-l10n-name="learn_more">En savoir plus</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = En sélectionnant « { shopping-onboarding-opt-in-button } », vous acceptez la <a data-l10n-name="privacy_policy">politique de confidentialité</a> et les <a data-l10n-name="terms_of_use">conditions d’utilisation</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = En sélectionnant « { shopping-onboarding-opt-in-button } », vous acceptez la <a data-l10n-name="privacy_policy">politique de confidentialité</a> de { -brand-product-name } et les <a data-l10n-name="terms_of_use">conditions d’utilisation</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Oui, l’essayer
 shopping-onboarding-not-now-button = Plus tard
