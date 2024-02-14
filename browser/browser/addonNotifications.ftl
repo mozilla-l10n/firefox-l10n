@@ -14,7 +14,6 @@ xpinstall-prompt-message = Вы пытаетесь установить допо
 
 xpinstall-prompt-header-unknown = Разрешить неизвестному сайту установить дополнение?
 xpinstall-prompt-message-unknown = Вы пытаетесь установить дополнение с неизвестного сайта. Прежде чем продолжить, убедитесь, что вы доверяете этому сайту.
-
 xpinstall-prompt-dont-allow =
     .label = Не разрешать
     .accesskey = е
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = Безопасный дос�
 ##
 
 xpinstall-disabled-locked = Установка программного обеспечения запрещена вашим системным администратором.
+xpinstall-disabled-by-policy = Установка программного обеспечения отключена вашей организацией.
 xpinstall-disabled = Установка программного обеспечения в данный момент запрещена. Нажмите «Разрешить» и попробуйте снова.
 xpinstall-disabled-button =
     .label = Разрешить
     .accesskey = р
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,15 +52,20 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) заблокировано вашим системным администратором.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ваш системный администратор запретил этому сайту запрашивать установку ПО на ваш компьютер.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) заблокирован вашей организацией.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Ваша организация заблокировала запрос на установку программного обеспечения с этого сайта на ваш компьютер.
 addon-install-full-screen-blocked = Установка дополнений не разрешена во время или перед входом в полноэкранный режим.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } добавлено в { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } запрашивает новые разрешения
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +81,6 @@ addon-removal-title = Удалить { $name }?
 addon-removal-message = Удалить { $name } из { -brand-shorter-name }?
 addon-removal-button = Удалить
 addon-removal-abuse-report-checkbox = Пожаловаться на это расширение в { -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -87,7 +90,6 @@ addon-downloading-and-verifying =
        *[many] Загрузка и проверка { $addonCount } дополнений…
     }
 addon-download-verifying = Проверка
-
 addon-install-cancel-button =
     .label = Отмена
     .accesskey = О
