@@ -187,9 +187,22 @@ shopping-callout-pdp-opted-in-title = האם הסקירות האלו אמינו�
 shopping-callout-pdp-opted-in-subtitle = ניתן לפתוח את בודק הסקירות כדי לראות דירוג מותאם עם סקירות לא אמינות שהוסרו. בנוסף, ניתן לראות דגשים מסקירות אותנטיות אחרונות.
 shopping-callout-closed-not-opted-in-title = לחיצה אחת לסקירות אמינות
 shopping-callout-closed-not-opted-in-subtitle = נסו את בודק הסקירות בכל פעם שיוצג תג המחיר. קבלו תובנות מקונים אמיתיים במהירות - לפני הרכישה.
-shopping-callout-closed-not-opted-in-revised-title = לחיצה אחת לסקירות שניתן לסמוך עליהןם
+shopping-callout-closed-not-opted-in-revised-title = לחיצה אחת לסקירות שניתן לסמוך עליהן
 shopping-callout-closed-not-opted-in-revised-subtitle = אפשר פשוט ללחוץ על סמל תג המחיר בשורת הכתובת כדי לחזור לבודק הסקירות.
 shopping-callout-closed-not-opted-in-revised-button = הבנתי
+shopping-callout-not-opted-in-reminder-title = לבצע רכישות בביטחון
+shopping-callout-not-opted-in-reminder-subtitle = בהתלבטות האם הסקירות של מוצר מסויים אמיתיות או מזויפות? בודק הסקירות מאת { -brand-product-name } יכול לעזור.
+shopping-callout-not-opted-in-reminder-open-button = פתיחת בודק הסקירות
+shopping-callout-not-opted-in-reminder-close-button = סגירה
+shopping-callout-not-opted-in-reminder-ignore-checkbox = לא להציג שוב
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = איור מופשט של שלוש סקירות מוצרים. לאחד יש סמל אזהרה המציין שייתכן שאינו אמין.
+shopping-callout-disabled-auto-open-title = בודק הסקירות כעת סגור כברירת מחדל
+shopping-callout-disabled-auto-open-subtitle = ניתן ללחוץ על סמל תג המחיר בשורת הכתובת כדי לבדוק אם אפשר לסמוך על סקירות של מוצר מסויים.
+shopping-callout-disabled-auto-open-button = הבנתי
+shopping-callout-opted-out-title = בודק הסקירות כבוי
+shopping-callout-opted-out-subtitle = כדי להפעיל אותו מחדש, יש ללחוץ על סמל תג המחיר בשורת הכתובת ולפעול לפי ההנחיות.
+shopping-callout-opted-out-button = הבנתי
 
 ## Onboarding message strings.
 
