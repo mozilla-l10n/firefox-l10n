@@ -57,6 +57,8 @@ addon-domain-blocked-by-policy = 您的系统管理员已阻止此网站在您�
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-installation-blocked-by-policy = “{ $addonName }” ({ $addonId }) 已被您的组织屏蔽。
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = 您的组织已阻止此网站在您的计算机上安装软件的请求。
 addon-install-full-screen-blocked = 进入全屏模式前或进入时，不允许安装附加组件。
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
