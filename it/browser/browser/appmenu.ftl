@@ -307,3 +307,14 @@ appmenu-developer-tools-extensions =
 
 appmenuitem-report-broken-site =
   .label = Segnala problemi con il sito
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Accedi al tuo account
+
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Ottieni informazioni sulle violazioni di dati
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Mantieni al sicuro il tuo indirizzo email e telefono
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Proteggi la tua attività online
