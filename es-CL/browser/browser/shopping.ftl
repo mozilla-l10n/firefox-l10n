@@ -192,6 +192,19 @@ shopping-callout-pdp-opted-in-subtitle = Abre el verificador de reseñas para ve
 shopping-callout-closed-not-opted-in-title = Un clic para obtener reseñas confiables
 shopping-callout-closed-not-opted-in-subtitle = Prueba el verificador de reseñas cada vez que veas la etiqueta de precio. Obtén rápidamente información de compradores reales, antes de comprar.
 shopping-callout-closed-not-opted-in-revised-title = Un clic para obtener reseñas confiables
+shopping-callout-closed-not-opted-in-revised-subtitle = Simplemente haz clic en el icono de etiqueta de precio en la barra de direcciones para volver al Verificador de reseñas.
+shopping-callout-closed-not-opted-in-revised-button = Entendido
+shopping-callout-not-opted-in-reminder-title = Compra con confianza
+shopping-callout-not-opted-in-reminder-subtitle = ¿No estás seguro de si las reseñas de un producto son reales o falsas? El Verificador de reseñas de { -brand-product-name } puede ayudar.
+shopping-callout-not-opted-in-reminder-open-button = Abrir verificador de reseñas
+shopping-callout-not-opted-in-reminder-close-button = Ocultar
+shopping-callout-not-opted-in-reminder-ignore-checkbox = No volver a mostrar
+shopping-callout-disabled-auto-open-title = El Verificador de reseñas ahora está cerrado de forma predeterminada
+shopping-callout-disabled-auto-open-subtitle = Haz clic en el ícono de etiqueta de precio en la barra de direcciones cuando quieras ver si puedes confiar en las reseñas de un producto.
+shopping-callout-disabled-auto-open-button = Entendido
+shopping-callout-opted-out-title = El verificador de reseñas está desactivado
+shopping-callout-opted-out-subtitle = Para volver a activarlo, haz clic en el ícono de etiqueta de precio en la barra de direcciones y sigue las instrucciones.
+shopping-callout-opted-out-button = Entendido
 
 ## Onboarding message strings.
 
