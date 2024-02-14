@@ -171,6 +171,9 @@ shopping-callout-pdp-opted-in-title = 這些商品評論可靠嗎？快速確認
 shopping-callout-pdp-opted-in-subtitle = 開啟商品評論檢查器來確認移除不可靠的評論後的校正評分，以及根據近期的可靠評論所整理的重點。
 shopping-callout-closed-not-opted-in-title = 點一下即可看到可靠的商品評論
 shopping-callout-closed-not-opted-in-subtitle = 看到標價的時候，就可以試用看看商品評論檢查器。在購買之前快速確認實際購買商品的顧客評論。
+shopping-callout-closed-not-opted-in-revised-button = 知道了！
+shopping-callout-disabled-auto-open-button = 知道了！
+shopping-callout-opted-out-button = 知道了！
 
 ## Onboarding message strings.
 
@@ -186,7 +189,6 @@ shopping-onboarding-dynamic-subtitle-1 = 購物前先看看商品在 <b>{ $curre
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = 購買商品之前，先看看 <b>{ $currentSite }</b> 上的商品評論可不可靠。{ -brand-product-name } 的實驗性功能「商品評論檢查器」直接內建於瀏覽器中。
 shopping-onboarding-body = 透過 { -fakespot-brand-full-name } 的威力，我們協助您避免帶有偏見與虛偽的評論。我們會隨您在線上購物，持續改進 AI 模型。<a data-l10n-name="learn_more">了解更多資訊</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = 選擇「{ shopping-onboarding-opt-in-button }」，代表您同意 { -fakespot-brand-name } 的<a data-l10n-name="privacy_policy">隱私權保護政策</a>與<a data-l10n-name="terms_of_use">使用條款</a>。
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = 選擇「{ shopping-onboarding-opt-in-button }」，代表您同意 { -brand-product-name } 的<a data-l10n-name="privacy_policy">隱私權保護政策</a>與 { -fakespot-brand-name } 的<a data-l10n-name="terms_of_use">使用條款</a>。
 shopping-onboarding-opt-in-button = 好，試用看看
 shopping-onboarding-not-now-button = 現在不要
