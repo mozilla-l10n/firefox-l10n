@@ -562,6 +562,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Προτάσεις του { $provider }
 home-prefs-recommended-by-description-new = Εξαιρετικό περιεχόμενο από το { $provider }, μέρος της οικογένειας του { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Προτεινόμενα άρθρα
 
 ##
 
@@ -1079,10 +1081,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Γρήγορες ενέργειες
     .accesskey = Γ
+addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
 addressbar-locbar-showrecentsearches-option =
     .label = Εμφάνιση πρόσφατων αναζητήσεων
     .accesskey = φ
-addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
 addressbar-quickactions-learn-more = Μάθετε περισσότερα
 
 ## Privacy Section - Content Blocking
