@@ -178,6 +178,7 @@ shopping-callout-not-opted-in-reminder-title = Сенімділікпен сат
 shopping-callout-not-opted-in-reminder-open-button = Пікірлерді тексеру құралын ашу
 shopping-callout-not-opted-in-reminder-close-button = Тайдыру
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Келесіде көрсетпеу
+shopping-callout-opted-out-button = Түсіндім
 
 ## Onboarding message strings.
 

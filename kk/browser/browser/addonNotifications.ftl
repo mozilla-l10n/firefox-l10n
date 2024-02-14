@@ -14,7 +14,6 @@ xpinstall-prompt-message = Сіз { $host } адресінен қосымшан�
 
 xpinstall-prompt-header-unknown = Белгісіз сайтқа қосымшаны орнатуды рұқсат ету керек пе?
 xpinstall-prompt-message-unknown = Сіз белгісіз сайттан қосымшаны орнату талабын жасағансыз. Жалғастыру алдында сайтқа сенімді екеніңізге көз жеткізіңіз.
-
 xpinstall-prompt-dont-allow =
     .label = Рұқсат етпеу
     .accesskey = D
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = Бұл қатынау рұқ
 ##
 
 xpinstall-disabled-locked = Бағдарламалық қамтамасын орнату мүмкіндігін сіздің жүйелік администраторыңыз сөндірген.
+xpinstall-disabled-by-policy = Бағдарламалық қамтамасын орнату мүмкіндігін сіздің ұйымыңыз сөндірген.
 xpinstall-disabled = Қазір бағдарламалық қамтамасын орнату мүмкіндігі өшулі тұр. "Қосу" батырмасын басып, қайталап көріңіз
 xpinstall-disabled-button =
     .label = Іске қосу
     .accesskey = н
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,15 +52,20 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) сіздің жүйелік әкімшіңізбен бұғатталған.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Жүйелік әкімшіңіз бұл сайттан компьютеріңізге бағдарламалық қамтаманы орнату сұранымын болдырмады.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) сіздің ұйымыңызбен бұғатталған.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Сіздің ұйымыңыз бұл сайттан компьютеріңізге бағдарламалық қамтаманы орнату сұранымын болдырмады.
 addon-install-full-screen-blocked = Толық экран режимінде немесе оған кірер алдында кеңейтулерді орнату рұқсат етілмейді.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } { -brand-short-name } ішіне қосылды
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } жаңа рұқсаттарды талап етеді
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +81,6 @@ addon-removal-title = { $name } өшіру керек пе?
 addon-removal-message = { -brand-shorter-name } ішінен { $name } өшіру керек пе?
 addon-removal-button = Өшіру
 addon-removal-abuse-report-checkbox = Бұл кеңейту туралы { -vendor-short-name } адресіне шағым жасау
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,7 +89,6 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } қосымшаны жүктеп алу және тексеру…
     }
 addon-download-verifying = Тексерілуде
-
 addon-install-cancel-button =
     .label = Бас тарту
     .accesskey = с
