@@ -260,6 +260,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Только текст
     .accesskey = о
+preferences-text-zoom-override-warning =
+    .message = Предупреждение: Если вы выберете «Масштабировать только текст», а ваш масштаб по умолчанию не установлен на 100%, это может привести к поломке некоторых сайтов или их содержимого.
 language-header = Язык
 choose-language-description = Выберите язык, предпочитаемый вами для отображения страниц
 choose-button =
@@ -565,6 +567,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Рекомендовано { $provider }
 home-prefs-recommended-by-description-new = Особый контент, курируемый { $provider }, частью семейства { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Рекомендуемые истории
+home-prefs-recommended-by-description-generic = Исключительный контент, курируемый семейством { -brand-product-name }
 
 ##
 
@@ -1084,10 +1089,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Быстрые действия
     .accesskey = ы
+addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 addressbar-locbar-showrecentsearches-option =
     .label = Показать недавние поисковые запросы
     .accesskey = к
-addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 addressbar-quickactions-learn-more = Подробнее
 
 ## Privacy Section - Content Blocking

@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Проверяем ка�
 shopping-message-bar-page-not-supported =
     .heading = Мы не можем проверить эти отзывы
     .message = К сожалению, мы не можем проверить качество отзывов на некоторые виды товаров. Например, подарочные карты и потоковое видео, музыку и игры.
+shopping-message-bar-keep-closed-header =
+    .heading = Закрыть?
+    .message = Вы можете обновить настройки, чтобы Проверка отзывов по умолчанию была закрыта. Сейчас она открывается автоматически.
+shopping-message-bar-keep-closed-dismiss-button = Нет, спасибо
+shopping-message-bar-keep-closed-accept-button = Да, не отображать
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Время от времени вы будете видеть рекламу соответствующих продуктов. Мы рекламируем только товары с достоверными отзывами. <a data-l10n-name="review-quality-url">Подробнее</a>
 shopping-settings-opt-out-button = Отключить инструмент проверки отзывов
 powered-by-fakespot = Инструмент проверки отзывов работает на основе <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Автоматически открывать Проверку отзывов
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = При просмотре продуктов на { $firstSite }, { $secondSite } и { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = При просмотре продуктов на { $currentSite }
+shopping-settings-sidebar-enabled-state = Проверка отзывов <strong>Включена</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,22 @@ shopping-callout-pdp-opted-in-title = Эти отзывы заслуживают
 shopping-callout-pdp-opted-in-subtitle = Откройте инструмент проверки отзывов, чтобы увидеть скорректированную оценку и удалить ненадежные отзывы. Кроме того, посмотрите основные моменты из недавних достоверных обзоров.
 shopping-callout-closed-not-opted-in-title = Одно нажатие для надежных отзывов
 shopping-callout-closed-not-opted-in-subtitle = Используйте инструмент проверки отзывов каждый раз, когда увидите цену. Быстро получите информацию от реальных покупателей — прежде чем совершить покупку.
+shopping-callout-closed-not-opted-in-revised-title = Одно нажатие для доверенных отзывов
+shopping-callout-closed-not-opted-in-revised-subtitle = Просто нажмите на значок ценника в адресной строке, чтобы вернуться к проверке отзывов.
+shopping-callout-closed-not-opted-in-revised-button = Понятно
+shopping-callout-not-opted-in-reminder-title = Покупайте с уверенностью
+shopping-callout-not-opted-in-reminder-subtitle = Не уверены, отзывы на продукт настоящие или фейковые? Здесь может помочь Проверка отзывов от { -brand-product-name }.
+shopping-callout-not-opted-in-reminder-open-button = Открыть Проверку отзывов
+shopping-callout-not-opted-in-reminder-close-button = Убрать
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Больше не показывать
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Абстрактная иллюстрация трёх отзывов на продукт. На одном из них есть предупреждающий символ, указывающий, что он не заслуживает доверия.
+shopping-callout-disabled-auto-open-title = Проверка отзывов теперь закрыта по умолчанию
+shopping-callout-disabled-auto-open-subtitle = Нажмите значок ценника в адресной строке, когда захотите узнать, можно ли доверять отзывам о продукте.
+shopping-callout-disabled-auto-open-button = Понятно
+shopping-callout-opted-out-title = Проверка отзывов отключена
+shopping-callout-opted-out-subtitle = Чтобы снова включить, нажмите значок ценника в адресной строке и следуйте инструкциям.
+shopping-callout-opted-out-button = Понятно
 
 ## Onboarding message strings.
 
@@ -186,7 +220,6 @@ shopping-onboarding-dynamic-subtitle-1 = Прежде чем совершить 
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Прежде чем совершить покупку, проверьте, насколько надежны отзывы о продуктах на <b>{ $currentSite }</b>. Проверка отзывов, экспериментальная функция от { -brand-product-name }, встроена прямо в браузер.
 shopping-onboarding-body = Используя возможности { -fakespot-brand-full-name }, мы помогаем вам избежать предвзятых и недостоверных отзывов. Наша модель искусственного интеллекта постоянно совершенствуется, чтобы защитить вас во время покупок. <a data-l10n-name="learn_more">Подробнее</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Нажимая кнопку «{ shopping-onboarding-opt-in-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">политикой конфиденциальности</a> и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Нажимая кнопку «{ shopping-onboarding-opt-in-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">политикой конфиденциальности</a> { -brand-product-name } и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Да, попробовать
 shopping-onboarding-not-now-button = Не сейчас
