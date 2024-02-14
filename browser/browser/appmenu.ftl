@@ -77,6 +77,12 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Hiển thị thêm các thẻ
     .tooltiptext = Hiển thị các thẻ từ thiết bị này
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label = Hiện { $count } thẻ không hoạt động
+    .tooltiptext = Hiển thị các thẻ không hoạt động trên thiết bị này
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Không có thẻ đang mở
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -166,6 +172,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Cài đặt trước được đề xuất cho hầu hết gỡ lỗi ứng dụng web, với chi phí thấp.
