@@ -110,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Барои тафтиши эътимоднокии тақризҳои маҳсулот мо аз технологияи зеҳни сунъӣ (AI) тавассути «{ -fakespot-brand-full-name }» истифода мебарем. Ин ба шумо танҳо барои баҳодиҳии сифати тақризҳо кумак мерасонад, сифати маҳсулот тафтиш карда намешавад.
 shopping-analysis-explainer-grades-intro = Мо ба тақризҳои ҳар як маҳсул <strong>баҳои ҳарфиро</strong> аз A то F таъин мекунем.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Баҳодиҳии санҷида дурустшуда</strong> танҳо дар он тақризҳое асос меёбад, ки ба умеди мо боэътимод мебошанд.
-shopping-analysis-explainer-learn-more = Маълумоти бештар гиред, ки <a data-l10n-name="review-quality-url">чӣ тавр «{ -fakespot-brand-full-name }» сифати тақризҳоро муайян мекунад</a>.
 shopping-analysis-explainer-learn-more2 = Маълумоти бештар гиред, ки <a data-l10n-name="review-quality-url">чӣ тавр «{ -fakespot-brand-name }» сифати тақризҳоро муайян мекунад</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -126,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Кушодани абзори тафтиши тақризҳо
 shopping-sidebar-close-button2 =
     .tooltiptext = Пӯшидани абзори тафтиши тақризҳо
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -180,6 +171,7 @@ shopping-callout-pdp-opted-in-title = Оё ин тақризҳо боэътим�
 shopping-callout-pdp-opted-in-subtitle = Барои дидани баҳодиҳии санҷида дурустшуда бо тақризҳои беэътимоде, ки тоза карда шудаанд, Абзори тафтиши тақризҳоро кушоед. Илова бар ин, нуқтаҳои асосиро аз тақризҳои боэътимоди охирин аз назар гузаронед.
 shopping-callout-closed-not-opted-in-title = Барои гирифтани тақризҳои боэътимод танҳо як маротиба зер кунед
 shopping-callout-closed-not-opted-in-subtitle = Ҳар вақте ки шумо барчаспи нархро мебинед, истифодаи абзори тафтиши тақризҳоро кӯшиш намоед. Пеш аз хирид — маълумоти таҷрибавиро аз харидорони воқеи ба даст оред.
+shopping-callout-closed-not-opted-in-revised-button = Фаҳмидам
 
 ## Onboarding message strings.
 
@@ -191,8 +183,6 @@ shopping-onboarding-headline = Дастури моро дар бораи эът�
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Пеш аз хариди маҳсул, дар <b>{ $currentSite }</b> аз назар гузаронед, ки то чӣ андоза тақризҳо дар бораи ин маҳсул боэътимод мебошанд. Абзори тафтиши тақризҳо ҳамчун хусусияти озмоишӣ аз тарафи «{ -brand-product-name }» бевосита ба браузер дарунсохт карда шудааст — ва ин хусусият ҳам дар <b>{ $secondSite }</b> ва ҳам дар <b>{ $thirdSite }</b> кор мекунад.
 shopping-onboarding-body = Бо истифода аз «{ -fakespot-brand-full-name }», мо ба шумо барои истисно кардани тақризҳои ғаразнок ва ғайримуқаррарӣ кумак мекунем. Намунаи зеҳни сунъии (AI)-ии мо барои муҳофизат кардани раванди харидории шумо доим такмил дода мешавад. <a data-l10n-name="learn_more">Маълумоти бештар</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Бо интихоб кардани «{ shopping-onboarding-opt-in-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -fakespot-brand-full-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифода</a> розӣ мешавед.
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Бо интихоб кардани «{ shopping-onboarding-opt-in-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -fakespot-brand-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифода</a> розӣ мешавед.
 shopping-onboarding-opt-in-button = Ҳа, озмоед
 shopping-onboarding-not-now-button = Ҳоло не
 shopping-onboarding-dialog-close-button =
