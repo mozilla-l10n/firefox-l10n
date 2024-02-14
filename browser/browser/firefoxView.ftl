@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = 동기화 진행 중
 firefoxview-syncedtabs-loading-description = 완료되면, 다른 기기에서 열려 있는 탭이 모두 표시됩니다. 곧 다시 확인해 보세요.
 firefoxview-tabpickup-fxa-admin-disabled-header = 조직에서 동기화를 사용하지 않도록 설정함
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }는 관리자가 동기화를 비활성화했기 때문에 기기 간에 탭을 동기화할 수 없습니다.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name }는 조직이 동기화를 비활성화했기 때문에 기기 간에 탭을 동기화할 수 없습니다.
 firefoxview-tabpickup-network-offline-header = 인터넷 연결 확인
 firefoxview-tabpickup-network-offline-description = 방화벽이나 프록시를 사용하는 경우, { -brand-short-name }에 웹 액세스 권한이 있는지 확인하세요.
 firefoxview-tabpickup-network-offline-primarybutton = 다시 시도
