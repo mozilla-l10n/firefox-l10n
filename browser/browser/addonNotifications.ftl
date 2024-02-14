@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Denna åtkomst är inte gara
 ##
 
 xpinstall-disabled-locked = Programvaruinstallationer har inaktiverats av systemadministratören.
+xpinstall-disabled-by-policy = Programvaruinstallationer har inaktiverats av din organisation.
 xpinstall-disabled = Programvaruinstallationer är för närvarande inaktiverade. Klicka på Aktivera och försök sedan igen.
 xpinstall-disabled-button =
     .label = Aktivera
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) blockeras av din systemadministratör.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Din systemadministratör förhindrade den här webbplatsen från att be dig installera programvara på din dator.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) blockeras av din organisation.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Din organisation förhindrade den här webbplatsen från att be dig installera programvara på din dator.
 addon-install-full-screen-blocked = Tilläggsinstallation är inte tillåten när den är i eller innan fullskärmsläge.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.

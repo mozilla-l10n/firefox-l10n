@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Synkronisering pågår
 firefoxview-syncedtabs-loading-description = När det är klart ser du alla flikar som du har öppna på andra enheter. Kom snart tillbaka.
 firefoxview-tabpickup-fxa-admin-disabled-header = Din organisation har inaktiverat synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan inte synkronisera flikar mellan enheter eftersom din administratör har inaktiverat synkronisering.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kan inte synkronisera flikar mellan enheter eftersom din organisation har inaktiverat synkronisering.
 firefoxview-tabpickup-network-offline-header = Kontrollera din internetanslutning
 firefoxview-tabpickup-network-offline-description = Om du använder en brandvägg eller proxy, kontrollera att { -brand-short-name } har behörighet att komma åt webben.
 firefoxview-tabpickup-network-offline-primarybutton = Försök igen
@@ -184,6 +185,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Inga resultat för "{ $query }"
 firefoxview-sort-history-by-date-label = Sortera efter datum
 firefoxview-sort-history-by-site-label = Sortera efter webbplats
+firefoxview-sort-open-tabs-by-recency-label = Sortera efter senaste aktivitet
+firefoxview-sort-open-tabs-by-order-label = Sortera efter flikordning
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
