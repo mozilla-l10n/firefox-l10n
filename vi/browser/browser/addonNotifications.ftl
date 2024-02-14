@@ -14,7 +14,6 @@ xpinstall-prompt-message = Bạn đang cố gắng cài đặt tiện ích mở 
 
 xpinstall-prompt-header-unknown = Cho phép một trang không xác định cài đặt một tiện ích?
 xpinstall-prompt-message-unknown = Bạn đang cố gắng cài đặt tiện ích từ một trang không xác định. Hãy chắc chắn rằng bạn tin tưởng trang này trước khi tiếp tục.
-
 xpinstall-prompt-dont-allow =
     .label = Không cho phép
     .accesskey = D
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = Lần truy cập này không
 ##
 
 xpinstall-disabled-locked = Quản trị hệ thống của bạn đã vô hiệu hóa cài đặt phần mềm.
+xpinstall-disabled-by-policy = Việc cài đặt phần mềm đã bị vô hiệu hoá bởi tổ chức của bạn.
 xpinstall-disabled = Hiện tại việc cài đặt phần mềm đã bị vô hiệu hóa. Hãy nhấn Bật rồi thử lại.
 xpinstall-disabled-button =
     .label = Kích hoạt
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,15 +52,20 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) bị chặn bởi quản trị viên hệ thống của bạn.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Quản trị viên hệ thống của bạn đã ngăn trang web này yêu cầu bạn cài đặt phần mềm trên máy tính của bạn.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) bị chặn bởi tổ chức của bạn.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Tổ chức của bạn đã ngăn không cho trang web này yêu cầu bạn cài đặt phần mềm trên máy tính của bạn.
 addon-install-full-screen-blocked = Cài đặt tiện ích không được phép trong khi ở hoặc trước khi vào chế độ toàn màn hình.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } đã thêm vào { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } yêu cầu quyền mới
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,12 +81,10 @@ addon-removal-title = Xóa { $name }?
 addon-removal-message = Gỡ bỏ { $name } từ { -brand-shorter-name }?
 addon-removal-button = Xóa
 addon-removal-abuse-report-checkbox = Báo cáo tiện ích mở rộng này cho { -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = Đang tải và xác thực { $addonCount } tiện ích…
 addon-download-verifying = Đang xác thực
-
 addon-install-cancel-button =
     .label = Hủy bỏ
     .accesskey = C
