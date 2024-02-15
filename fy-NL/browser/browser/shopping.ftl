@@ -192,6 +192,21 @@ shopping-callout-pdp-opted-in-subtitle = Iepenje de beoardielingskontrôle om in
 shopping-callout-closed-not-opted-in-title = Ien klik nei betroubere beoardielingen
 shopping-callout-closed-not-opted-in-subtitle = Probearje beoardielingskontrôle ris wannear’t jo it priiskaartsje sjogge. Krij fluch ynsjoch fan echte klanten – eardat jo wat keapje.
 shopping-callout-closed-not-opted-in-revised-title = Ien klik nei betroubere beoardielingen
+shopping-callout-closed-not-opted-in-revised-subtitle = Klik gewoan op it priiskaartpiktogram yn de adresbalke om werom te gean nei Beoardielingskontrôle.
+shopping-callout-closed-not-opted-in-revised-button = Begrepen
+shopping-callout-not-opted-in-reminder-title = Winkelje mei fertrouwen
+shopping-callout-not-opted-in-reminder-subtitle = Net wis oft de beoardielingen fan in produkt echt of nep binne? Beoardielingskontrôle  fan { -brand-product-name } kin helpe.
+shopping-callout-not-opted-in-reminder-open-button = Beoardielingskontrôle iepenje
+shopping-callout-not-opted-in-reminder-close-button = Slute
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Net mear toane
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstrakte yllustraasje fan trije produktbeoardielingen. Ien hat in warskôgingssymboal dat oanjout dat it miskien net betrouber is.
+shopping-callout-disabled-auto-open-title = Beoardielingskontrôle is no standert sluten
+shopping-callout-disabled-auto-open-subtitle = Klik op it priiskaartpiktogram yn de adresbalke wannear’t jo sjen wolle oft jo de beoardielingen fan in produkt fertrouwe kinne.
+shopping-callout-disabled-auto-open-button = Begrepen
+shopping-callout-opted-out-title = Beoardielingskontrôle is útskeakele
+shopping-callout-opted-out-subtitle = Klik op it priislabelpiktogram yn de adresbalke en folgje de oanwizingen om him wer yn te skeakeljen.
+shopping-callout-opted-out-button = Begrepen
 
 ## Onboarding message strings.
 
