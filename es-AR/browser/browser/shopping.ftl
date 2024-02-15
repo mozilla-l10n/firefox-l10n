@@ -65,6 +65,7 @@ shopping-message-bar-page-not-supported =
     .heading = No podemos comprobar estas revisiones
     .message = Lamentablemente, no podemos verificar la calidad de las revisiones de ciertos tipos de productos. Por ejemplo, tarjetas de regalo y streaming de vídeos, música y juegos.
 shopping-message-bar-keep-closed-dismiss-button = No, gracias
+shopping-message-bar-keep-closed-accept-button = Sí, mantener cerrado
 
 ## Strings for the product review snippets card
 
@@ -90,6 +91,16 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Verá publicidades ocasionales de productos relevantes. Sólo publicitamos productos con revisiones confiables. <a data-l10n-name="review-quality-url">Conocer más</a>
 shopping-settings-opt-out-button = Desactivar el verificador de revisiones
 powered-by-fakespot = Verificador de revisiones con tecnología de <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Cuando mira productos en { $firstSite }, { $firstSite } y { $secondSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Cuando mira productos en { $currentSite }
 
 ## Strings for the adjusted rating component
 
@@ -172,7 +183,11 @@ shopping-callout-pdp-opted-in-title = ¿Son confiables estas revisiones? Descúb
 shopping-callout-pdp-opted-in-subtitle = Abra el verificador de reseñas para ver una calificación ajustada con las revisiones no confiables eliminadas. Además, vea los aspectos más destacados de revisiones auténticas recientes.
 shopping-callout-closed-not-opted-in-title = Un clic para obtener revisiones confiables
 shopping-callout-closed-not-opted-in-subtitle = Pruebe el verificador de revisiones cada vez que vea la etiqueta de precio. Obtenga rápidamente información de compradores reales, antes de comprar.
+shopping-callout-closed-not-opted-in-revised-button = Entendido
 shopping-callout-not-opted-in-reminder-title = Comprar con confianza
+shopping-callout-not-opted-in-reminder-close-button = Descartar
+shopping-callout-not-opted-in-reminder-ignore-checkbox = No mostrar de nuevo
+shopping-callout-disabled-auto-open-button = Entendido
 
 ## Onboarding message strings.
 
