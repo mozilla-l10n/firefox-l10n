@@ -203,6 +203,8 @@ newtab-empty-section-highlights = 开始网上冲浪之旅吧，之后这里会�
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = 所有文章都读完啦！晚点再来，{ $provider } 将推荐更多精彩文章。等不及了？选择热门主题，找到更多网上的好文章。
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = 所有文章都读完了。待会再来看是否有新文章。等不及？那么请选择热门主题，从网上找到更多好文章。
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -257,6 +259,9 @@ newtab-custom-pocket-subtitle = 由 { -brand-product-name } 旗下 { -pocket-bra
 newtab-custom-pocket-toggle =
     .label = 由 { -pocket-brand-name } 推荐
     .description = 由 { -brand-product-name } 旗下 { -pocket-brand-name } 策划的特别内容
+newtab-custom-stories-toggle =
+    .label = 推荐文章
+    .description = 由 { -brand-product-name } 推荐的精选内容
 newtab-custom-pocket-sponsored = 赞助内容
 newtab-custom-pocket-show-recent-saves = 显示近期保存内容
 newtab-custom-recent-title = 近期动态

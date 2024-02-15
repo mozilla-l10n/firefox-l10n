@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = 正在检查评价质量
 shopping-message-bar-page-not-supported =
     .heading = 无法核查这些评价
     .message = 很抱歉，我们无法核查某些类型商品的评价质量，例如礼品卡、流媒体视频、音乐、游戏。
+shopping-message-bar-keep-closed-header =
+    .heading = 需要默认隐藏吗？
+    .message = 您可以更新设置，默认隐藏核查评价。核查评价目前会自动打开。
+shopping-message-bar-keep-closed-dismiss-button = 不了，谢谢
+shopping-message-bar-keep-closed-accept-button = 保持关闭
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = 您会偶尔看到相关产品的广告。我们只宣传获得可靠评价的产品。<a data-l10n-name="review-quality-url">详细了解</a>
 shopping-settings-opt-out-button = 关闭核查评价
 powered-by-fakespot = 核查评价由 <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> 提供支持。
+shopping-settings-auto-open-toggle =
+    .label = 自动打开核查评价
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = 在 { $firstSite }、{ $secondSite }、{ $thirdSite } 上查看商品时
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = 在 { $currentSite } 上查看商品时
+shopping-settings-sidebar-enabled-state = 核查评价已<strong>开启</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,20 @@ shopping-callout-pdp-opted-in-title = 这些评价是否可信？快速了解一
 shopping-callout-pdp-opted-in-subtitle = 打开核查评价，查看基于可信评价调整后的评分，另外还可查看近期最有帮助的评价。
 shopping-callout-closed-not-opted-in-title = 一键获取可信评价
 shopping-callout-closed-not-opted-in-subtitle = 点击“价签”图标即可打开核查评价，在购买前一览真实买家的反馈。
+shopping-callout-closed-not-opted-in-revised-title = 一键查看可信的评价
+shopping-callout-closed-not-opted-in-revised-subtitle = 点击地址栏中的价签图标即可重新打开核查评价。
+shopping-callout-closed-not-opted-in-revised-button = 明白了
+shopping-callout-not-opted-in-reminder-title = 让购物时心里有数
+shopping-callout-not-opted-in-reminder-subtitle = 商品评价真假难辨？{ -brand-product-name } 核查评价帮您轻松分辨。
+shopping-callout-not-opted-in-reminder-open-button = 打开核查评价
+shopping-callout-not-opted-in-reminder-close-button = 知道了
+shopping-callout-not-opted-in-reminder-ignore-checkbox = 不再显示
+shopping-callout-disabled-auto-open-title = 核查评价现在默认隐藏
+shopping-callout-disabled-auto-open-subtitle = 需要检查商品评价是否可信时，点击地址栏中的价签图标即可进行核查。
+shopping-callout-disabled-auto-open-button = 知道了
+shopping-callout-opted-out-title = 核查评价已关闭
+shopping-callout-opted-out-subtitle = 若要重新打开，请点击地址栏中的价签图标，然后按提示操作。
+shopping-callout-opted-out-button = 明白了
 
 ## Onboarding message strings.
 
@@ -186,7 +218,6 @@ shopping-onboarding-dynamic-subtitle-1 = 在购买前先看看 <b>{ $currentSite
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = 决定购买前，先看看 <b>{ $currentSite }</b> 上的商品评价是否可信。核查评价是 { -brand-product-name } 的一项实验功能，内置于浏览器中。
 shopping-onboarding-body = { -fakespot-brand-full-name } 可帮助您规避不真实、不公允的评价。在您购物时，我们的人工智能模型也会不断改进，以更好地保护您的权益。<a data-l10n-name="learn_more">详细了解</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = 选择“{ shopping-onboarding-opt-in-button }”即表示您同意 { -fakespot-brand-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和<a data-l10n-name="terms_of_use">使用条款</a>。
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = 选择“{ shopping-onboarding-opt-in-button }”即表示您同意 { -brand-product-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和 { -fakespot-brand-name } 的<a data-l10n-name="terms_of_use">使用条款</a>。
 shopping-onboarding-opt-in-button = 试试看
 shopping-onboarding-not-now-button = 暂时不要
