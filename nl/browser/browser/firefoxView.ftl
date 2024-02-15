@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Synchroniseren
 firefoxview-syncedtabs-loading-description = Als dit is afgerond, ziet u alle tabbladen die u op andere apparaten hebt geopend. Kom snel terug.
 firefoxview-tabpickup-fxa-admin-disabled-header = Uw organisatie heeft synchronisatie uitgeschakeld
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan geen tabbladen synchroniseren tussen apparaten, omdat uw beheerder synchronisatie heeft uitgeschakeld.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kan geen tabbladen synchroniseren tussen apparaten, omdat uw organisatie synchronisatie heeft uitgeschakeld.
 firefoxview-tabpickup-network-offline-header = Controleer uw internetverbinding
 firefoxview-tabpickup-network-offline-description = Als u een firewall of proxy gebruikt, controleer dan of { -brand-short-name } toestemming heeft voor toegang tot internet.
 firefoxview-tabpickup-network-offline-primarybutton = Opnieuw proberen
@@ -184,6 +185,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Geen resultaten voor ‘{ $query }’
 firefoxview-sort-history-by-date-label = Sorteren op datum
 firefoxview-sort-history-by-site-label = Sorteren op website
+firefoxview-sort-open-tabs-by-recency-label = Sorteren op recente activiteit
+firefoxview-sort-open-tabs-by-order-label = Sorteren op tabbladvolgorde
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
