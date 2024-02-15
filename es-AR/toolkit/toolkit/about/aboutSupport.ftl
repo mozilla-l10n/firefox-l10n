@@ -203,6 +203,9 @@ media-cdm-capabilities = Funcionalidades
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Inicio sin cifrar (Clear Lead)
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = Compatible con HDCP 2.2
 
 ##
 
@@ -282,6 +285,7 @@ try-newer-driver = Bloqueado para la versión de su driver de video. Intente act
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
 compositing = Composición
+support-font-determination = Información de depuración de visibilidad de fuente
 hardware-h264 = Decodificación H264 por hadrware
 main-thread-no-omtc = hilo principal, no OMTC
 yes = Si
