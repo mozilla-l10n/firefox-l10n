@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Eşitleme devam ediyor
 firefoxview-syncedtabs-loading-description = İşlem tamamlandığında diğer cihazlarda açtığınız sekmeleri burada göreceksiniz. Daha sonra tekrar kontrol edin.
 firefoxview-tabpickup-fxa-admin-disabled-header = Kuruluşunuz eşitlemeyi devre dışı bırakmış
 firefoxview-tabpickup-fxa-admin-disabled-description = Yöneticiniz eşitlemeyi devre dışı bıraktığı için { -brand-short-name } sekmeleri cihazlar arasında eşitleyemiyor.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = Kuruluşunuz eşitlemeyi devre dışı bıraktığı için { -brand-short-name }, sekmelerinizi cihazlar arasında eşitleyemiyor.
 firefoxview-tabpickup-network-offline-header = İnternet bağlantınızı kontrol edin
 firefoxview-tabpickup-network-offline-description = Güvenlik duvarı veya vekil sunucu kullanıyorsanız { -brand-short-name } tarayıcısının web’e erişim iznine sahip olup olmadığını kontrol edin.
 firefoxview-tabpickup-network-offline-primarybutton = Yeniden dene
@@ -184,6 +185,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = “{ $query }” için sonuç yok
 firefoxview-sort-history-by-date-label = Tarihe göre sırala
 firefoxview-sort-history-by-site-label = Siteye göre sırala
+firefoxview-sort-open-tabs-by-recency-label = Son etkinliğe göre sırala
+firefoxview-sort-open-tabs-by-order-label = Sekme sırasına göre sırala
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
