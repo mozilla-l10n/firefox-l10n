@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = 正在確認評論品質
 shopping-message-bar-page-not-supported =
     .heading = 我們無法檢查這些評論
     .message = 很可惜，我們無法確認某些類型產品（例如：儲值卡、影音串流服務、遊戲）的評論品質。
+shopping-message-bar-keep-closed-header =
+    .heading = 要保持關閉嗎？
+    .message = 您可以調整設定，預社關閉商品評論檢查器。目前會自動開啟。
+shopping-message-bar-keep-closed-dismiss-button = 不要，謝謝
+shopping-message-bar-keep-closed-accept-button = 好，請關掉
 
 ## Strings for the product review snippets card
 
@@ -184,7 +189,11 @@ shopping-callout-pdp-opted-in-title = 這些商品評論可靠嗎？快速確認
 shopping-callout-pdp-opted-in-subtitle = 開啟商品評論檢查器來確認移除不可靠的評論後的校正評分，以及根據近期的可靠評論所整理的重點。
 shopping-callout-closed-not-opted-in-title = 點一下即可看到可靠的商品評論
 shopping-callout-closed-not-opted-in-subtitle = 看到標價的時候，就可以試用看看商品評論檢查器。在購買之前快速確認實際購買商品的顧客評論。
+shopping-callout-closed-not-opted-in-revised-title = 點一下即可看到可信任的商品評論
+shopping-callout-closed-not-opted-in-revised-subtitle = 只要點擊網址列中價格標籤圖示，即可回到商品評論檢查器。
 shopping-callout-closed-not-opted-in-revised-button = 知道了！
+shopping-callout-not-opted-in-reminder-title = 購物更放心
+shopping-callout-not-opted-in-reminder-subtitle = 不確定網站中的產品評論是真是假？{ -brand-product-name } 的商品評論檢查器可以協助您檢查。
 shopping-callout-not-opted-in-reminder-open-button = 開啟商品評論檢查器
 shopping-callout-not-opted-in-reminder-close-button = 知道了
 shopping-callout-not-opted-in-reminder-ignore-checkbox = 不要再顯示
