@@ -562,6 +562,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } öneriyor
 home-prefs-recommended-by-description-new = { -brand-product-name } ailesinin bir parçası olan { $provider }’ın seçtiği harika içerikler
+home-prefs-recommended-by-description-generic = { -brand-product-name } ailesinin seçtiği harika içerikler
 
 ##
 
@@ -1079,10 +1080,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hızlı eylemler
     .accesskey = H
+addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
 addressbar-locbar-showrecentsearches-option =
     .label = Son aramaları göster
     .accesskey = r
-addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
 addressbar-quickactions-learn-more = Daha fazla bilgi al
 
 ## Privacy Section - Content Blocking

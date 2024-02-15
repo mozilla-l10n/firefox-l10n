@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Değerlendirme kalitesi 
 shopping-message-bar-page-not-supported =
     .heading = Bu değerlendirmeleri kontrol edemiyoruz
     .message = Maalesef bazı ürün türlerinin değerlendirme kalitelerini kontrol edemiyoruz. Örneğin, hediye kartları ve video, müzik ve oyun akışı.
+shopping-message-bar-keep-closed-header =
+    .heading = Kapalı kalsın mı?
+    .message = Değerlendirme kontrolcüsünü varsayılan olarak kapalı tutacak şekilde ayarlarınızı güncelleyebilirsiniz. Şu anda otomatik olarak açılacak şekilde ayarlı.
+shopping-message-bar-keep-closed-dismiss-button = Hayır
+shopping-message-bar-keep-closed-accept-button = Evet, kapalı kalsın
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Ara sıra ilginizi çekebilecek ürünlerin reklamlarını göreceksiniz. Yalnızca güvenilir değerlendirmelere sahip ürünlerin reklamını yapıyoruz. <a data-l10n-name="review-quality-url">Bilgi alın</a>
 shopping-settings-opt-out-button = Değerlendirme kontrolcüsünü kapat
 powered-by-fakespot = Değerlendirme kontrolcüsü <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> altyapısını kullanır.
+shopping-settings-auto-open-toggle =
+    .label = Değerlendirme kontrolcüsünü otomatik olarak aç
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = { $firstSite }, { $secondSite } ve { $thirdSite } sitelerindeki ürünleri görüntülediğinizde
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = { $currentSite } sitesindeki ürünleri görüntülediğinizde
+shopping-settings-sidebar-enabled-state = Değerlendirme kontrolcüsü <strong>açık</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,18 @@ shopping-callout-pdp-opted-in-title = Bu değerlendirmeler güvenilir mi? Hızl�
 shopping-callout-pdp-opted-in-subtitle = Değerlendirme kontrolcüsünü açarak bu ürünün düzeltilmiş puanını görebilir ve güvenilmez yorumları kaldırabilirsiniz. Ayrıca, öne çıkan güvenilir yorumları da görebilirsiniz.
 shopping-callout-closed-not-opted-in-title = Güvenilir değerlendirmeler bir tık uzağınızda
 shopping-callout-closed-not-opted-in-subtitle = Fiyat etiketini gördüğünüz her yerde değerlendirme kontrolcüsünü deneyin. Yeni bir şey satın almadan önce gerçek kullanıcılardan çabucak bilgi alın.
+shopping-callout-closed-not-opted-in-revised-title = Güvenilir değerlendirmeler bir tık uzağınızda
+shopping-callout-closed-not-opted-in-revised-subtitle = Değerlendirme kontrolcüsüne geri dönmek için adres çubuğundaki fiyat etiketi simgesine tıklamanız yeterli.
+shopping-callout-closed-not-opted-in-revised-button = Anladım
+shopping-callout-not-opted-in-reminder-title = Güvenle alışveriş yapın
+shopping-callout-not-opted-in-reminder-open-button = Değerlendirme kontrolcüsünü aç
+shopping-callout-not-opted-in-reminder-close-button = Kapat
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Bir daha gösterme
+shopping-callout-disabled-auto-open-title = Değerlendirme kontrolcüsü artık varsayılan olarak kapalı
+shopping-callout-disabled-auto-open-button = Anladım
+shopping-callout-opted-out-title = Değerlendirme kontrolcüsü kapalı
+shopping-callout-opted-out-subtitle = Tekrar açmak isterseniz adres çubuğundaki fiyat simgesine tıklayıp yönergeleri izleyin.
+shopping-callout-opted-out-button = Anladım
 
 ## Onboarding message strings.
 
@@ -186,7 +216,6 @@ shopping-onboarding-dynamic-subtitle-1 = Yeni bir şey satın almadan önce <b>{
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Yeni bir şey satın almadan önce <b>{ $currentSite }</b> sitesindeki ürün değerlendirmelerinin güvenilirliğini görün. Deneysel bir { -brand-product-name } özelliği olan değerlendirme kontrolcüsü, tarayıcınızla birlikte geliyor.
 shopping-onboarding-body = { -fakespot-brand-full-name } sayesinde önyargılı ve sahte değerlendirmelerden kaçınabilirsiniz. Alışverişlerinizde sizi korumak için yapay zekâ modelimizi sürekli geliştiriyoruz. <a data-l10n-name="learn_more">Daha fazla bilgi alın</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = “{ shopping-onboarding-opt-in-button }“ seçeneğini seçtiğinizde { -fakespot-brand-name } <a data-l10n-name="privacy_policy">gizlilik politikasını</a> ve <a data-l10n-name="terms_of_use">kullanım koşullarını</a> kabul etmiş olursunuz.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = “{ shopping-onboarding-opt-in-button }“ seçeneğini seçtiğinizde { -brand-product-name } <a data-l10n-name="privacy_policy">gizlilik politikasını</a> ve { -fakespot-brand-name } <a data-l10n-name="terms_of_use">kullanım koşullarını</a> kabul etmiş olursunuz.
 shopping-onboarding-opt-in-button = Evet, deneyeceğim
 shopping-onboarding-not-now-button = Şimdi değil
