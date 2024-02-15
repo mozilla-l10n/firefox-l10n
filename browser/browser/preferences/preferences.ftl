@@ -245,6 +245,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = 只縮放文字
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = 警告：若您選擇「只縮放文字」，但未將預設縮放比例設定為 100%，可能造成某些網站或內容不正常。
 language-header = 語言
 choose-language-description = 請選擇瀏覽支援多國語言的網頁時要優先顯示哪種語言
 choose-button =
@@ -550,6 +552,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } 推薦
 home-prefs-recommended-by-description-new = 由 { -brand-product-name } 的姊妹作 { $provider } 精心策展的內容
+home-prefs-recommended-by-header-generic =
+    .label = 推薦的文章
+home-prefs-recommended-by-description-generic = 由 { -brand-product-name } 產品家族精選的內容文章
 
 ##
 
@@ -1068,10 +1073,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = 快速操作
     .accesskey = Q
+addressbar-suggestions-settings = 修改搜尋建議偏好設定
 addressbar-locbar-showrecentsearches-option =
     .label = 顯示近期搜尋項目
     .accesskey = r
-addressbar-suggestions-settings = 修改搜尋建議偏好設定
 addressbar-quickactions-learn-more = 了解更多
 
 ## Privacy Section - Content Blocking
