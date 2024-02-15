@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zoom solamente en el texto
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Advertencia: Al seleccionar “Zoom solamente en texto” y el zoom predeterminado no esté establecido al 100%, puede causar fallas en algunos sitios o contenido.
 language-header = Idioma
 choose-language-description = Seleccione su idioma preferido para mostrar las páginas
 choose-button =
@@ -562,6 +564,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description-new = Contenido excepcional seleccionado por { $provider }, parte de la familia { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Historias recomendadas
+home-prefs-recommended-by-description-generic = Contenido excepcional seleccionado por la familia de { -brand-product-name }
 
 ##
 
@@ -1080,10 +1085,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Acciones rápidas
     .accesskey = r
+addressbar-suggestions-settings = Cambiar preferencias para sugerencias de buscadores
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar búsquedas recientes
     .accesskey = r
-addressbar-suggestions-settings = Cambiar preferencias para sugerencias de buscadores
 addressbar-quickactions-learn-more = Conocer más
 
 ## Privacy Section - Content Blocking
