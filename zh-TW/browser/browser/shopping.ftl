@@ -197,9 +197,13 @@ shopping-callout-not-opted-in-reminder-subtitle = 不確定網站中的產品評
 shopping-callout-not-opted-in-reminder-open-button = 開啟商品評論檢查器
 shopping-callout-not-opted-in-reminder-close-button = 知道了
 shopping-callout-not-opted-in-reminder-ignore-checkbox = 不要再顯示
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = 三筆產品評論的抽象示意圖。當中一個有警告圖示，表示該評論可能不可信。
 shopping-callout-disabled-auto-open-title = 現在起會預設關閉商品評論檢查器
+shopping-callout-disabled-auto-open-subtitle = 您可以隨時點擊網址列中的價格標籤圖示，看看商品的評論是否可信。
 shopping-callout-disabled-auto-open-button = 知道了！
 shopping-callout-opted-out-title = 商品評論檢查器已關閉
+shopping-callout-opted-out-subtitle = 若要重新開啟，請點擊網址列中的價格標籤圖示，並依照提示步驟操作。
 shopping-callout-opted-out-button = 知道了！
 
 ## Onboarding message strings.

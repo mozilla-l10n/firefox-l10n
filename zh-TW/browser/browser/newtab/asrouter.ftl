@@ -201,8 +201,6 @@ cfr-cbh-confirm-button = 拒絕 Cookie 橫幅
     .accesskey = R
 cfr-cbh-dismiss-button = 現在不要
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } 已為您封鎖 Cookie
-cookie-banner-blocker-cfr-body = 我們會自動為您拒絕許多網站中的彈出型視窗，讓網站更難追蹤您。
 cookie-banner-blocker-onboarding-header = { -brand-short-name } 已為您封鎖 Cookie 橫幅
 cookie-banner-blocker-onboarding-body = 少一分會追蹤您的 Cookie，也讓您更不用分心。
 cookie-banner-blocker-onboarding-learn-more = 更多資訊
@@ -277,6 +275,6 @@ launch-on-login-infobar-final-reject-button = 不要，謝謝
 # If the localization of this message is challenging, consider using a simplified
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
 tail-fox-spotlight-title = 別讓討厭的追蹤器跟上來
-tail-fox-spotlight-subtitle = 跟令人討厭廣告追蹤氣說再見，並且有一套更快、更安全的上網體驗。
+tail-fox-spotlight-subtitle = 跟令人討厭的廣告追蹤器說再見，並且有一套更快、更安全的上網體驗。
 tail-fox-spotlight-primary-button = 用 { -brand-short-name } 開啟我的鏈結
 tail-fox-spotlight-secondary-button = 現在不要
