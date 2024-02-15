@@ -285,6 +285,7 @@ try-newer-driver = Bloqueado para la versión de su driver de video. Intente act
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
 compositing = Composición
+support-font-determination = Información de depuración de visibilidad de fuentes
 hardware-h264 = Decodificación H264 por hardware
 main-thread-no-omtc = hilo principal, no OMTC
 yes = Sí
