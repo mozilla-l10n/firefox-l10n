@@ -68,7 +68,7 @@ shopping-message-bar-keep-closed-header =
     .heading = 需要默认隐藏吗？
     .message = 您可以更新设置，默认隐藏核查评价。核查评价目前会自动打开。
 shopping-message-bar-keep-closed-dismiss-button = 不了，谢谢
-shopping-message-bar-keep-closed-accept-button = 保持关闭
+shopping-message-bar-keep-closed-accept-button = 默认隐藏
 
 ## Strings for the product review snippets card
 
