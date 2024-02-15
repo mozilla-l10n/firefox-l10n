@@ -198,6 +198,7 @@ newtab-section-header-recent-activity = Resinte aktiviteit
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Oanrekommandearre troch { $provider }
+newtab-section-header-stories = Ferhalen dy’t ta neitinken stimme
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -206,6 +207,8 @@ newtab-empty-section-highlights = Start mei sneupen en wy toane jo guon moaie ar
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Jo binne by. Kom letter werom foar mear ferhalen fan { $provider }. Kin jo net wachtsje? Selektearje in populêr ûnderwerp om mear ferhalen fan it ynternet te finen.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Jo binne wer by. Kom letter werom foar mear ferhalen. Kin jo net wachtsje? Selektearje in populêr ûnderwerp om mear bjusterbaarlike ferhalen fan it hiele web te finen.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -261,6 +264,9 @@ newtab-custom-pocket-subtitle = Utsûnderlike ynhâld, gearstald troch { -pocket
 newtab-custom-pocket-toggle =
     .label = Oanrekommandearre troch { -pocket-brand-name }
     .description = Utsûnderlike ynhâld, gearstald troch { -pocket-brand-name }, ûnderdiel fan de { -brand-product-name }-famylje
+newtab-custom-stories-toggle =
+    .label = Oanrekommandearre ferhalen
+    .description = Utsûnderlike ynhâld, sammele troch de { -brand-product-name }-famylje
 newtab-custom-pocket-sponsored = Sponsore ferhalen
 newtab-custom-pocket-show-recent-saves = Koartlyn bewarre items toane
 newtab-custom-recent-title = Resinte aktiviteit

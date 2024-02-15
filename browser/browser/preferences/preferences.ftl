@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Allinnich tekst ynzoome
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Warskôging: As jo ‘Allinnich tekst zoome’ selektearje en jo standertzoom is net ynsteld op 100%, kin dit der foar soargje dat bepaalde websites of ynhâld net goed wurkje.
 language-header = Taal
 choose-language-description = Talen kieze dêr’t websites yn werjûn wurde moatte.
 choose-button =
@@ -562,6 +564,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Oanrekommandearre troch { $provider }
 home-prefs-recommended-by-description-new = Utsûnderlike ynhâld, gearstald troch { $provider }, ûnderdiel fan de { -brand-product-name }-famylje
+home-prefs-recommended-by-header-generic =
+    .label = Oanrekommandearre ferhalen
+home-prefs-recommended-by-description-generic = Utsûnderlike ynhâld, sammele troch de { -brand-product-name }-famylje
 
 ##
 
@@ -1080,10 +1085,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Flugge aksjes
     .accesskey = F
+addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
 addressbar-locbar-showrecentsearches-option =
     .label = Resinte sykopdrachten toane
     .accesskey = R
-addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
 addressbar-quickactions-learn-more = Mear ynfo
 
 ## Privacy Section - Content Blocking

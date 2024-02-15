@@ -14,7 +14,6 @@ xpinstall-prompt-message = Jo probearje in add-on te ynstallearjen fan { $host }
 
 xpinstall-prompt-header-unknown = In ûnbekende website tastean in add-on te ynstallearjen?
 xpinstall-prompt-message-unknown = Jo probearje in add-on te ynstallearjen fan in ûnbekende website ôf. Soargje derfoar dat jo dizze website fertrouwe eardat jo trochgean.
-
 xpinstall-prompt-dont-allow =
     .label = Net tastean
     .accesskey = N
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = Dizze tagong is net garandea
 ##
 
 xpinstall-disabled-locked = Ynstallaasje fan software is útskeakele troch jo systeembehearder.
+xpinstall-disabled-by-policy = Ynstallaasje fan software is útskeakele troch jo organisaasje.
 xpinstall-disabled = Ynstallaasje fan software is op dit stuit útskeakele. Klik op Ynskeakelje en probearje it opnij.
 xpinstall-disabled-button =
     .label = Ynskeakelje
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,15 +52,20 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) is blokkearre troch jo systeembehearder.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Jo systeembehearder hat foarkommen dat dizze website jo freget software op jo kompjûter te ynstallearjen.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) is blokkearre troch jo organisaasje.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Jo organisaasje hat opkeard dat dizze website jo freget software op jo kompjûter te ynstallearjen.
 addon-install-full-screen-blocked = Add-on-installaasje is net tastien yn of foar it iepenjen fan de modus folslein skerm.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } tafoege oan { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } hat nije tastimmingen nedich
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +81,6 @@ addon-removal-title = { $name } fuortsmite?
 addon-removal-message = { $name } út { -brand-shorter-name } fuortsmite?
 addon-removal-button = Fuortsmite
 addon-removal-abuse-report-checkbox = Dizze útwreiding rapportearje oan { -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,7 +89,6 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } add-ons downloade en ferifiearje…
     }
 addon-download-verifying = Ferifiearje
-
 addon-install-cancel-button =
     .label = Annulearje
     .accesskey = A

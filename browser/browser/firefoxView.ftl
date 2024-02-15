@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Syngronisearje
 firefoxview-syncedtabs-loading-description = As dit dien is, sjogge jo alle ljepblêden dy’t jo op oare apparaten iepene hawwe. Kom gau werom.
 firefoxview-tabpickup-fxa-admin-disabled-header = Jo organisaasje hat syngronisaasje útskeakele
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } is net yn steat om ljepblêden tusken apparaten te syngronisearjen, omdat jo behearder syngronisaasje útskeakele hat.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } is net yn steat om ljepblêden tusken apparaten te syngronisearjen, omdat jo organisaasje syngronisaasje útskeakele hat.
 firefoxview-tabpickup-network-offline-header = Kontrolearje jo ynternetferbining
 firefoxview-tabpickup-network-offline-description = As jo in firewall of proxy brûke, kontrolearje dan oft { -brand-short-name } tastimming hat om tagong te krijen ta it web.
 firefoxview-tabpickup-network-offline-primarybutton = Opnij probearje
@@ -184,6 +185,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Gjin resultaten foar ‘{ $query }’
 firefoxview-sort-history-by-date-label = Sortearje op datum
 firefoxview-sort-history-by-site-label = Sortearje op website
+firefoxview-sort-open-tabs-by-recency-label = Sortearje op resinte aktiviteit
+firefoxview-sort-open-tabs-by-order-label = Sortearje op ljepblêdfolchoarder
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
