@@ -188,6 +188,8 @@ shopping-callout-not-opted-in-reminder-title = Comprar con confianza
 shopping-callout-not-opted-in-reminder-close-button = Descartar
 shopping-callout-not-opted-in-reminder-ignore-checkbox = No mostrar de nuevo
 shopping-callout-disabled-auto-open-button = Entendido
+shopping-callout-opted-out-subtitle = Para volver a activarlo, haga clic en el icono de la etiqueta del precio en la barra de direcciones y siga las instrucciones.
+shopping-callout-opted-out-button = Entendido
 
 ## Onboarding message strings.
 
