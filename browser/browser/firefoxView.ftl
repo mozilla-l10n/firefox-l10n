@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Sincronización en proceso
 firefoxview-syncedtabs-loading-description = Cuando termine, verá las pestañas que tenga abiertas en otros dispositivos. Vuelva a consultar pronto.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organización deshabilitó la sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } no puede sincronizar las pestañas entre dispositivos porque tu administrador deshabilitó la sincronización.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } no puede sincronizar las pestañas entre dispositivos porque su organización deshabilitó la sincronización.
 firefoxview-tabpickup-network-offline-header = Revisá tu conexión a Internet
 firefoxview-tabpickup-network-offline-description = Si estás usando un firewall o un proxy, verificá que { -brand-short-name } tenga permiso para acceder a la web.
 firefoxview-tabpickup-network-offline-primarybutton = Intentar de nuevo
@@ -184,6 +185,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = No hay resultados para “{ $query }”
 firefoxview-sort-history-by-date-label = Ordenar por fecha
 firefoxview-sort-history-by-site-label = Ordenar por sitio
+firefoxview-sort-open-tabs-by-recency-label = Ordenar por actividad reciente
+firefoxview-sort-open-tabs-by-order-label = Ordenar por orden de pestañas
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
