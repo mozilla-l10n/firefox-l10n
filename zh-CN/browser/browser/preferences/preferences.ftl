@@ -253,6 +253,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = 仅缩放文本
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = 警告：若选择“仅缩放文本”，而您的默认缩放比例不为 100%，则可能会导致某些网站或内容异常。
 language-header = 语言
 choose-language-description = 选择您想要优先使用哪种语言显示页面
 choose-button =
@@ -560,6 +562,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = 由 { -brand-product-name } 旗下 { $provider } 策划的特别内容
 home-prefs-recommended-by-header-generic =
     .label = 推荐文章
+home-prefs-recommended-by-description-generic = 由 { -brand-product-name } 系列推荐的精选内容
 
 ##
 
