@@ -90,6 +90,8 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Θα βλέπετε περιστασιακά διαφημίσεις για σχετικά προϊόντα. Διαφημίζουμε μόνο προϊόντα με αξιόπιστες κριτικές. <a data-l10n-name="review-quality-url">Μάθετε περισσότερα</a>
 shopping-settings-opt-out-button = Απενεργοποίηση ελέγχου κριτικών
 powered-by-fakespot = Ο έλεγχος κριτικών παρέχεται από το <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Αυτόματο άνοιγμα ελέγχου κριτικών
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
 # Variables:
 #   $firstSite (String) - The first shopping page name
@@ -196,6 +198,7 @@ shopping-callout-not-opted-in-reminder-img-alt =
 shopping-callout-disabled-auto-open-title = Ο έλεγχος κριτικών είναι πλέον ανενεργός από προεπιλογή
 shopping-callout-disabled-auto-open-subtitle = Κάντε κλικ στο εικονίδιο με την ετικέτα στη γραμμή διευθύνσεων όποτε θέλετε για να δείτε αν μπορείτε να εμπιστευτείτε τις κριτικές ενός προϊόντος.
 shopping-callout-disabled-auto-open-button = Το κατάλαβα
+shopping-callout-opted-out-title = Ο έλεγχος κριτικών είναι ανενεργός
 shopping-callout-opted-out-button = Το κατάλαβα
 
 ## Onboarding message strings.
