@@ -181,6 +181,8 @@ firefoxview-search-results-count = { $count } 個網站
 firefoxview-search-results-empty = 沒有「{ $query }」的搜尋結果
 firefoxview-sort-history-by-date-label = 依照日期排序
 firefoxview-sort-history-by-site-label = 依照網站排序
+firefoxview-sort-open-tabs-by-recency-label = 依照近期活動排序
+firefoxview-sort-open-tabs-by-order-label = 依照分頁順序排序
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
