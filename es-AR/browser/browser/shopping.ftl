@@ -64,6 +64,9 @@ shopping-message-bar-analysis-in-progress-with-amount = Comprobando la calidad d
 shopping-message-bar-page-not-supported =
     .heading = No podemos comprobar estas revisiones
     .message = Lamentablemente, no podemos verificar la calidad de las revisiones de ciertos tipos de productos. Por ejemplo, tarjetas de regalo y streaming de vídeos, música y juegos.
+shopping-message-bar-keep-closed-header =
+    .heading = ¿Mantener cerrado?
+    .message = Se puede actualizar la configuración para mantener al verificador de revisiones cerrado por defecto. Ahora mismo, se abre automáticamente.
 shopping-message-bar-keep-closed-dismiss-button = No, gracias
 shopping-message-bar-keep-closed-accept-button = Sí, mantener cerrado
 
@@ -91,6 +94,8 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Verá publicidades ocasionales de productos relevantes. Sólo publicitamos productos con revisiones confiables. <a data-l10n-name="review-quality-url">Conocer más</a>
 shopping-settings-opt-out-button = Desactivar el verificador de revisiones
 powered-by-fakespot = Verificador de revisiones con tecnología de <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Abrir automáticamente el verificador de revisiones
 # Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
 # Variables:
 #   $firstSite (String) - The first shopping page name
@@ -101,6 +106,7 @@ shopping-settings-auto-open-description-three-sites = Cuando mira productos en {
 # Variables:
 #   $currentSite (String) - The current shopping page name
 shopping-settings-auto-open-description-single-site = Cuando mira productos en { $currentSite }
+shopping-settings-sidebar-enabled-state = El verificador de revisiones está <strong>activado</strong>
 
 ## Strings for the adjusted rating component
 
@@ -183,11 +189,20 @@ shopping-callout-pdp-opted-in-title = ¿Son confiables estas revisiones? Descúb
 shopping-callout-pdp-opted-in-subtitle = Abra el verificador de reseñas para ver una calificación ajustada con las revisiones no confiables eliminadas. Además, vea los aspectos más destacados de revisiones auténticas recientes.
 shopping-callout-closed-not-opted-in-title = Un clic para obtener revisiones confiables
 shopping-callout-closed-not-opted-in-subtitle = Pruebe el verificador de revisiones cada vez que vea la etiqueta de precio. Obtenga rápidamente información de compradores reales, antes de comprar.
+shopping-callout-closed-not-opted-in-revised-title = Un clic para obtener revisiones confiables
+shopping-callout-closed-not-opted-in-revised-subtitle = Simplemente un clic en el icono de etiqueta de precio en la barra de direcciones para volver al verificador de revisiones.
 shopping-callout-closed-not-opted-in-revised-button = Entendido
 shopping-callout-not-opted-in-reminder-title = Comprar con confianza
+shopping-callout-not-opted-in-reminder-subtitle = ¿No está seguro si las revisiones de un producto son reales o falsas? El verificador de revisiones de { -brand-product-name } puede ayudar.
+shopping-callout-not-opted-in-reminder-open-button = Abrir el verificador de revisiones
 shopping-callout-not-opted-in-reminder-close-button = Descartar
 shopping-callout-not-opted-in-reminder-ignore-checkbox = No mostrar de nuevo
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Ilustración abstracta de tres revisiones de productos. Una tiene un símbolo de advertencia que indica que puede no ser confiable.
+shopping-callout-disabled-auto-open-title = El verificador de revisiones ahora está cerrado por defecto
+shopping-callout-disabled-auto-open-subtitle = Clic en el ícono de etiqueta de precio en la barra de direcciones cuando quiera ver si puede confiar en las revisiones de un producto.
 shopping-callout-disabled-auto-open-button = Entendido
+shopping-callout-opted-out-title = El verificador de revisiones está desactivado
 shopping-callout-opted-out-subtitle = Para volver a activarlo, haga clic en el icono de la etiqueta del precio en la barra de direcciones y siga las instrucciones.
 shopping-callout-opted-out-button = Entendido
 
