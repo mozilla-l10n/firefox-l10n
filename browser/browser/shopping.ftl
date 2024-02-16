@@ -68,6 +68,8 @@ shopping-message-bar-analysis-in-progress-with-amount = Kontrola kvality recenz�
 shopping-message-bar-page-not-supported =
     .heading = Tyto recenze nemůžeme zkontrolovat
     .message = Kvalitu recenzí některých typů produktů bohužel nemůžeme kontrolovat. Například dárkové karty a streamovaná videa, hudbu a hry.
+shopping-message-bar-keep-closed-dismiss-button = Ne, děkuji
+shopping-message-bar-keep-closed-accept-button = Ano, ponechat zavřené
 
 ## Strings for the product review snippets card
 
