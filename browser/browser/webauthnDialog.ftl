@@ -11,4 +11,12 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN isballiadu. Torra a proare.
 webauthn-pin-required-prompt = Inserta su còdighe PIN pro su dispositivu tuo.
-
+webauthn-select-sign-result-unknown-account = Contu disconnotu
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Averìguu de s’impitadore faddidu. T’abarrat { $retriesLeft } tentativu. Torra a proare.
+       *[other] Averìguu de s’impitadore faddidu. T’abarrant { $retriesLeft } tentativos. Torra a proare.
+    }
+webauthn-uv-invalid-short-prompt = Averìguu de s'impitadore faddidu. Torra a proare.
