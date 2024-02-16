@@ -259,7 +259,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] हो, पासवर्ड हटाउनुहोस्
         [one] हो, पासवर्डहरू हटाउनुहोस्
-       *[other] { "" }
+       *[other] हो, पासवर्डहरू हटाउनुहोस्
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -285,7 +285,7 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] यसले तपाइँका सबै सिंक गरिएका यन्त्रहरूमा { -brand-short-name } मा सुरक्षित गरिएका सबै पासवर्ड हटाउनेछ। यसले यहाँ देखा पर्ने कुनै पनि उल्लङ्घन अलर्टहरू पनि हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुन्न।
         [one] यसले तपाइँका सबै सिंक गरिएका यन्त्रहरूमा { -brand-short-name } मा सुरक्षित गरिएका सबै पासवर्डहरू हटाउनेछ। यसले यहाँ देखा पर्ने कुनै पनि उल्लङ्घन अलर्टहरू पनि हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुन्न।
-       *[other] { "" }
+       *[other] यसले तपाइँका सबै सिंक गरिएका यन्त्रहरूमा { -brand-short-name } मा सुरक्षित गरिएका सबै पासवर्डहरू हटाउनेछ। यसले यहाँ देखा पर्ने कुनै पनि उल्लङ्घन अलर्टहरू पनि हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुन्न।
     }
 
 ##
@@ -469,17 +469,17 @@ about-logins-import-report-no-change = <div data-l10n-name="count">{ $count }</d
 about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">नयाँ पासवर्ड थपियो</div>
-       *[other] { "" }
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">नयाँ पासवर्ड थपियो</div>
     }
 about-logins-import-report-modified2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">अवस्थित प्रविष्टिहरू अद्यावधिक गरियो</div>
-       *[other] { "" }
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">अवस्थित प्रविष्टिहरू अद्यावधिक गरियो</div>
     }
 about-logins-import-report-no-change2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट प्रविष्टिहरू</div> <div data-l10n-name="not-imported ">(आयात गरिएको छैन)</div>
-       *[other] { "" }
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट प्रविष्टिहरू</div> <div data-l10n-name="not-imported ">(आयात गरिएको छैन)</div>
     }
 about-logins-import-report-error =
     { $count ->
