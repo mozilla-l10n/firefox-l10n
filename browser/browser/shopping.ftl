@@ -101,7 +101,7 @@ shopping-settings-auto-open-toggle =
 #   $firstSite (String) - The first shopping page name
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
-shopping-settings-auto-open-description-three-sites = Cuando mira productos en { $firstSite }, { $firstSite } y { $secondSite }
+shopping-settings-auto-open-description-three-sites = Cuando mira productos en { $firstSite }, { $secondSite } y { $thirdSite }
 # Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
 # Variables:
 #   $currentSite (String) - The current shopping page name
