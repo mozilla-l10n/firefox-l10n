@@ -395,6 +395,21 @@ about-logins-import-dialog-items-no-change =
         [one] <span>डुप्लिकेट लगइनहरू फेला पर्यो:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात गरिएको छैन)</span> >
        *[other] <span>डुप्लिकेट लगइनहरू फेला पर्यो:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात गरिएको छैन)</span> >
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>नयाँ पासवर्ड थपियो:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>नयाँ पासवर्डहरू थपियो:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>अवस्थित प्रविष्टि अद्यावधिक गरियो:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>अवस्थित प्रविष्टिहरू अद्यावधिक गरियो:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>डुप्लिकेट प्रविष्टि फेला पर्यो:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात गरिएको छैन)</span> >
+       *[other] <span>डुप्लिकेट प्रविष्टिहरू फेला पर्यो:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात गरिएको छैन)</span> >
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>त्रुटिहरू:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(आयात गरिएको छैन)</span>
@@ -416,6 +431,7 @@ about-logins-import-dialog-error-try-import-again = फेरि आयात �
 about-logins-import-dialog-error-cancel = रद्द गर्नुहोस्
 about-logins-import-report-title = सारांश आयात गर्नुहोस्
 about-logins-import-report-description = लगइन र पासवर्डहरू { -brand-short-name } मा आयात गरियो।
+about-logins-import-report-description2 = पासवर्डहरू { -brand-short-name } मा आयात गरियो।
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -423,6 +439,9 @@ about-logins-import-report-row-index = पङ्क्ति { $number }
 about-logins-import-report-row-description-no-change = नक्कल: अवस्थित लगइनको सटीक मिलान
 about-logins-import-report-row-description-modified = अवस्थित लगइन अद्यावधिक गरियो
 about-logins-import-report-row-description-added = नयाँ लगइन थपियो
+about-logins-import-report-row-description-no-change2 = नक्कल: अवस्थित प्रविष्टिको सटीक मिलान
+about-logins-import-report-row-description-modified2 = अवस्थित प्रविष्टि अद्यावधिक गरियो
+about-logins-import-report-row-description-added2 = नयाँ पासवर्ड थपियो
 about-logins-import-report-row-description-error = त्रुटि: क्षेत्र छुटेको छ
 
 ##
@@ -447,6 +466,21 @@ about-logins-import-report-modified =
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">अवस्थित लगइनहरू अद्यावधिक गरियो</div>
     }
 about-logins-import-report-no-change = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट लगइनहरू</div> <div data-l10n-name="not-imported">(आयात गरिएको छैन)</div>
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">नयाँ पासवर्ड थपियो</div>
+       *[other] { "" }
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">अवस्थित प्रविष्टिहरू अद्यावधिक गरियो</div>
+       *[other] { "" }
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट प्रविष्टिहरू</div> <div data-l10n-name="not-imported ">(आयात गरिएको छैन)</div>
+       *[other] { "" }
+    }
 about-logins-import-report-error =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">त्रुटिहरू</div> <div data-l10n-name="not-imported" >(आयात गरिएको छैन)</div>
