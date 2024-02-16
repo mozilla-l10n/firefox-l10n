@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zoom kun tekst
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Advarsel: Hvis du vælger "Zoom kun tekst" og din standard-indstilling for zoom ikke er sat til 100%, kan det medføre at nogle websteder eller indhold ikke fungerer korrekt.
 language-header = Sprog
 choose-language-description = Vælg dit foretrukne sprog at få vist sider i
 choose-button =
@@ -562,6 +564,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Anbefalet af { $provider }
 home-prefs-recommended-by-description-new = Interessant indhold udvalgt af { $provider }, en del af { -brand-product-name }-familien
+home-prefs-recommended-by-header-generic =
+    .label = Anbefalede historier
 
 ##
 
@@ -1080,10 +1084,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hurtige handlinger
     .accesskey = H
+addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis seneste søgninger
     .accesskey = s
-addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 addressbar-quickactions-learn-more = Læs mere
 
 ## Privacy Section - Content Blocking
