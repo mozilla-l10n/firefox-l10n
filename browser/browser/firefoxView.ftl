@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Synkronisering er i gang
 firefoxview-syncedtabs-loading-description = Når processen er færdig, kan du se åbne faneblade fra dine andre enheder. Prøv at tjekke igen senere.
 firefoxview-tabpickup-fxa-admin-disabled-header = Din organisation har deaktiveret synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikke synkronisere faneblade mellem enheder, fordi din administrator har deaktiveret synkronisering.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } kunne ikke synkronisere faneblade mellem enheder, fordi din organisation har deaktiveret synkronisering.
 firefoxview-tabpickup-network-offline-header = Kontroller din internetforbindelse
 firefoxview-tabpickup-network-offline-description = Hvis du bruger en firewall eller en proxy, kontroller om { -brand-short-name } har adgang til internettet.
 firefoxview-tabpickup-network-offline-primarybutton = Prøv igen
@@ -184,6 +185,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Ingen resultater for "{ $query }"
 firefoxview-sort-history-by-date-label = Sorter efter dato
 firefoxview-sort-history-by-site-label = Sorter efter websted
+firefoxview-sort-open-tabs-by-recency-label = Sorter efter seneste aktivitet
+firefoxview-sort-open-tabs-by-order-label = Sorter efter fanebladenes rækkefølge
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
