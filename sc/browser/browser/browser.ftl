@@ -350,7 +350,7 @@ identity-connection-not-secure = Connessione non segura
 identity-connection-secure = Connessione segura
 identity-connection-failure = Faddina de connessione
 identity-connection-internal = Custa est una pàgina { -brand-short-name } segura.
-identity-connection-file = Custa pàgina est archiviada in s'ordinadore tuo.
+identity-connection-file = Custa pàgina est archiviada in s’elaboradore tuo.
 identity-connection-associated = Custa pàgina est istada carrigada dae un’àtera pàgina.
 identity-extension-page = Custa pàgina est istada carrigada dae un'estensione.
 identity-active-blocked = { -brand-short-name } at blocadu partes de custa pàgina chi non sunt seguras.
@@ -895,6 +895,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Boles abèrrere is ischedas pretzedentes?</strong> Podes recuperare sa sessione pretzedente dae su menù de is aplicatziones { -brand-short-name } <img data-l10n-name="icon"/>, in sa cronologia.
 restore-session-startup-suggestion-button = Ammustra·mi comente
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = S’organizatzione tua at blocadu s’atzessu a is archìvios locales in custu elaboradore
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

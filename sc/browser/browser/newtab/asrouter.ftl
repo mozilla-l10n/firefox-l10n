@@ -204,8 +204,6 @@ cfr-cbh-confirm-button = Refuda is avisos de testimòngios
     .accesskey = R
 cfr-cbh-dismiss-button = Immoe nono
     .accesskey = n
-cookie-banner-blocker-cfr-header = { -brand-short-name } at blocadu unos cantos testimòngios (cookie) pro tue
-cookie-banner-blocker-cfr-body = Refudamus in automàticu medas ventanas emergentes de avisu de testimòngios a manera chi siat prus difìtzile pro is sitos a ti sighire.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } at refudadu immoe immoe un’avisu de testimòngios pro tue
 cookie-banner-blocker-onboarding-body = Prus pagas distratziones, prus pagos testimòngios sighende·ti in custu situ.
 cookie-banner-blocker-onboarding-learn-more = Àteras informatziones
@@ -274,3 +272,14 @@ launch-on-login-infobar-reject-button = Immoe nono
 launch-on-login-infobar-final-message = <strong>Boles abèrrere { -brand-short-name } ònnia borta chi torras a aviare s’elaboradore?</strong> Pro gestire is preferèntzias de aviu, chirca “aviu” in sa cunfiguratzione.
 launch-on-login-infobar-final-reject-button = No, gràtzias
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Lassa·nche is sighidores infadosos a tesu
+tail-fox-spotlight-subtitle = Nara adiosu a publitzidades infadosas chi ti sighint e gosa·ti un’esperièntzia de navigatzione segura e lestra.
+tail-fox-spotlight-primary-button = Aberi is ligòngios mios cun { -brand-short-name }
+tail-fox-spotlight-secondary-button = Immoe nono
