@@ -178,6 +178,8 @@ mr2022-onboarding-easy-setup-import-checkbox-label = ייבוא מהדפדפן �
 # The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = לגלות אינטרנט מדהים
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = אפשר להפעיל את { -brand-short-name } מכל מקום בלחיצה אחת. כל הפעלה היא בחירה באינטרנט פתוח ועצמאי יותר.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -187,6 +189,8 @@ mr2022-onboarding-pin-primary-button-label =
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = תודה על החום והאהבה ל־{ -brand-product-name }
 mr2022-onboarding-existing-pin-checkbox-label = להוסיף גם את ‏{ -brand-short-name } במצב גלישה פרטית
 
 ## MR2022 New User Set Default screen strings
@@ -199,6 +203,7 @@ mr2022-onboarding-set-default-primary-button-label = הגדרת { -brand-short-n
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+mr2022-onboarding-get-started-primary-button-label = התקנה תוך שניות
 
 ## MR2022 Import Settings screen strings
 
@@ -211,6 +216,9 @@ mr2022-onboarding-import-primary-button-label-no-attribution = ייבוא מהד
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = בחירה בצבע שהכי מעורר את ההשראה שלך
+mr2022-onboarding-colorway-subtitle = קולות עצמאיים יכולים לשנות תרבות.
+mr2022-onboarding-colorway-primary-button-label-continue = הגדרה והמשך
 mr2022-onboarding-existing-colorway-checkbox-label = להפוך את { -firefox-home-brand-name } לדף הבית הצבעוני שלך
 mr2022-onboarding-colorway-label-default = ברירת מחדל
 mr2022-onboarding-colorway-tooltip-default2 =
@@ -219,6 +227,7 @@ mr2022-onboarding-colorway-description-default = <b>שימוש בצבעי { -bra
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = דילוג מהמחשב הנייד לטלפון ובחזרה
 mr2022-onboarding-no-mobile-download-cta-text = יש לסרוק את קוד ה־QR כדי להוריד את { -brand-product-name } למכשיר הנייד.
 
 ## MR2022 Upgrade Dialog screens
@@ -241,6 +250,8 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = הצגת מיד�
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = בעזרתך נבנה את האינטרנט טוב יותר
+mr2022-onboarding-gratitude-subtitle = תודה לך על השימוש ב־{ -brand-short-name }ֿ, שפועל בגיבוי קרן Mozilla. עם התמיכה שלך, אנו פועלים כדי להפוך את האינטרנט לפתוח, נגיש וטוב יותר למען הכלל.
 mr2022-onboarding-gratitude-primary-button-label = מה חדש
 mr2022-onboarding-gratitude-secondary-button-label = התחלת גלישה
 
