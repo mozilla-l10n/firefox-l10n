@@ -118,9 +118,9 @@ firefoxview-history-context-delete = 從瀏覽紀錄刪除
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-nav = 開啟分頁
-    .title = 開啟分頁
-firefoxview-opentabs-header = 開啟分頁
+firefoxview-opentabs-nav = 開啟的分頁
+    .title = 開啟的分頁
+firefoxview-opentabs-header = 開啟的分頁
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
