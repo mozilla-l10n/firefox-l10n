@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Tradue semper is pàginas in { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Tradue semper custa lìngua
+translations-panel-settings-always-offer-translation =
+    .label = Oferi semper de tradùere
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -71,7 +73,9 @@ translations-panel-translate-cancel =
 translations-panel-learn-more-link = Àteras informatziones
 translations-panel-intro-header = Proa su sistema de tradutziones chi rispetat sa riservadesa in { -brand-shorter-name }
 translations-panel-intro-description = Pro rispetare sa riservadesa tua, is tradutziones non lassant mai su dispositivu tuo. Àteras lìnguas e megioros ant a sighire luego!
+translations-panel-error-translating = Ddoe est istadu unu problema cun sa tradutzione. Torra a proare.
 translations-panel-error-load-languages = Impossìbile carrigare is lìnguas
+translations-panel-error-load-languages-hint = Averìgua sa connessione a Internet e torra a proare.
 translations-panel-error-load-languages-hint-button =
     .label = Torra a nche proare
 translations-panel-error-unsupported = Sa tradutzione no est a disponimentu pro custa pàgina
@@ -122,12 +126,9 @@ translations-manage-description = Iscàrriga lìnguas pro sa tradutzione in fora
 translations-manage-all-language = Totu is lìnguas
 translations-manage-download-button = Iscàrriga
 translations-manage-delete-button = Cantzella
-translations-manage-language-download-button =
-    .label = Iscàrriga
-    .accesskey = I
-translations-manage-language-delete-button =
-    .label = Cantzella
-    .accesskey = C
+translations-manage-error-download = Ddoe est istadu unu problema iscarrighende is archìvios de lìngua. Torra a proare.
+translations-manage-error-delete = Ddoe est istadu unu problema cantzellende is archìvios de lìngua. Torra a proare.
+translations-manage-intro = Cunfigura is preferèntzias de lìngua e tradutzione de sitos e gesti is lìnguas installadas pro sa tradutzione a foras de lìnia.
 translations-manage-install-description = Installa lìnguas pro sa tradutzione in foras de lìnia
 translations-manage-language-install-button =
     .label = Installa
@@ -139,9 +140,19 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Boga totu
     .accesskey = o
+translations-manage-error-install = Ddoe est istadu unu problema installende is archìvios de lìngua. Torra a proare.
+translations-manage-error-remove = Ddoe est istadu unu problema cantzellende is archìvios de lìngua. Torra a proare.
+translations-manage-error-list =
+    Impossìbile otènnere sa lista de is lìnguas disponìbiles pro sa tradutzione.
+    Torra a carrigare sa pàgina pro torrare a proare.
 translations-settings-title =
     .title = Cunfiguratziones de tradutzione
     .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = Is lìnguas chi sighint ant a èssere traduidas in automàticu
+translations-settings-never-translate-langs-description = Nissuna tradutzione at a èssere frunida pro is lìnguas imbenientes
+translations-settings-never-translate-sites-description = Nissuna tradutzione at a èssere frunida pro is sitos imbenientes
 translations-settings-languages-column =
     .label = Lìnguas
 translations-settings-remove-language-button =

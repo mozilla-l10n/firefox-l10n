@@ -68,8 +68,8 @@ permissions-capabilities-listitem-off-temporarily =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Su nòmine de s'ordinadore tzentrale no est vàlidu
-permissions-invalid-uri-label = Inserta unu nòmine de ordinadore tzentrale vàlidu
+permissions-invalid-uri-title = Su nòmine de s’elaboradore tzentrale no est vàlidu
+permissions-invalid-uri-label = Inserta unu nòmine de elaboradore tzentrale vàlidu
 
 ## Exceptions - Tracking Protection
 

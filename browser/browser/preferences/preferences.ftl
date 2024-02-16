@@ -1004,6 +1004,7 @@ sitedata-delete-on-close =
     .label = Cantzella is testimòngios e is datos de is sitos comente serras { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing = In sa modalidade de navigatzione privada permanente, is testimòngios e is datos de is sitos ant a èssere semper cantzellados comente serras { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = Segundu sa cunfiguratzione tua de sa cronologia, { -brand-short-name } nde cantzellat testimòngios (cookies) e datos de is sitos dae sa sessione tua cando serras su navigadore.
 sitedata-allow-cookies-option =
     .label = Atzeta testimòngios e datos de is sitos
     .accesskey = A
@@ -1080,10 +1081,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Atziones lestras
     .accesskey = A
+addressbar-suggestions-settings = Muda sa cunfiguratzione de cussìgios de motores de chirca
 addressbar-locbar-showrecentsearches-option =
     .label = Ammustra chircas reghentes
     .accesskey = r
-addressbar-suggestions-settings = Muda sa cunfiguratzione de cussìgios de motores de chirca
 addressbar-quickactions-learn-more = Àteras informatziones
 
 ## Privacy Section - Content Blocking

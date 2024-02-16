@@ -94,8 +94,8 @@ protections-panel-site-not-working-view-send-report = Imbia un'informe
 ##
 
 protections-panel-cross-site-tracking-cookies = Custos testimòngios ti sighint dae situ a situ pro regòllere datos subra de su chi faghes in lìnia. Ddos cunfigurant persones esternas che agentzias publitzitàrias e de anàlisi de datos.
-protections-panel-cryptominers = Is cripto-minadores impreant su podere de càrculu de s'ordinadore tuo pro minare moneda digitale. Is scripts de cripto-mina si surtzint sa bateria, allentant s'ordinadore e podent fintzas fàghere crèschere su costu de sa bulleta elètrica.
-protections-panel-fingerprinters = Is generadores de imprentas digitales regollint is cunfiguratziones dae su navigadore e s'ordinadore tuos pro nde creare unu profilu tuo. Pro mèdiu de is imprentas digitales, ti podent sighire intre is diferentes sitos.
+protections-panel-cryptominers = Is cripto-minadores impreant su podere de càrculu de s’elaboradore tuo pro minare moneda digitale. Is scripts de cripto-mina si surtzint sa bateria, allentant s’elaboradore e podent fintzas fàghere crèschere su costu de sa bulleta elètrica.
+protections-panel-fingerprinters = Is generadores de imprentas digitales regollint is cunfiguratziones dae su navigadore e s’elaboradore tuos pro nde creare unu profilu tuo. Pro mèdiu de is imprentas digitales, ti podent sighire intre is diferentes sitos.
 protections-panel-tracking-content = Is sitos podent carrigare annùntzios publitzitàrios esternos, vìdeos e àteros cuntenutos cun còdighe pro sa sighidura. Si blocas is cuntenutos de sighidura, is sitos podent carrigare prus lestros, ma unos cantos butones, formulàrios e campos de atzessu podent non funtzionare.
 protections-panel-social-media-trackers = Is retes sotziales ponent sighidores in àteros sitos pro sighire su chi faghes, leghes e càstias in lìnia. Custu permitit a is aziendas de ischire prus cosa subra de tue a fora de su chi cumpartzis in is profilos de retes sotziales tuos.
 protections-panel-description-shim-allowed = Unos cantos de is sighidores sinnalados in bàsciu sunt istados isblocados in parte, ca nche as interagidu.
