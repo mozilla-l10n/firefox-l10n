@@ -79,6 +79,7 @@ firefoxview-syncedtabs-loading-header = Probíhá synchronizace
 firefoxview-syncedtabs-loading-description = Po dokončení se zobrazí všechny panely otevřené na jiných zařízeních. Už za chvíli.
 firefoxview-tabpickup-fxa-admin-disabled-header = Synchronizace je zakázána vaší organizací
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemůže synchronizovat panely mezi zařízeními, protože je to synchronizace zakázána vaším správcem.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nemůže synchronizovat panely mezi zařízeními, protože vaše organizace zakázala synchronizaci.
 firefoxview-tabpickup-network-offline-header = Zkontrolujte své připojení k Internetu
 firefoxview-tabpickup-network-offline-description = Pokud jste připojeni přes firewall, zkontrolujte, že má { -brand-short-name } povolený přístup na web.
 firefoxview-tabpickup-network-offline-primarybutton = Zkusit znovu
@@ -238,6 +239,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Žádné výsledky pro “{ $query }”
 firefoxview-sort-history-by-date-label = Řadit podle data
 firefoxview-sort-history-by-site-label = Řadit podle serveru
+firefoxview-sort-open-tabs-by-recency-label = Seřadit podle nedávné aktivity
+firefoxview-sort-open-tabs-by-order-label = Seřadit podle pořadí panelů
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
