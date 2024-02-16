@@ -75,3 +75,6 @@ about-private-browsing-cookie-banners-promo-body = हामी अब स्व
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = यस यन्त्रमा कुनै निशानहरू नछोड्नुहोस्
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } ले तपाइँको कुकीहरू, इतिहास, र साइट डेटा मेटाउँछ जब तपाइँ तपाइँको सबै निजी विन्डोहरू बन्द गर्नुहुन्छ।
+about-private-browsing-felt-privacy-v1-info-link = कसले मेरो गतिविधि हेर्न सक्छ?
