@@ -14,7 +14,6 @@ xpinstall-prompt-message = Tu tenta de installar un additivo ex { $host }. Verif
 
 xpinstall-prompt-header-unknown = Permitter que un sito incognite installa un additivo?
 xpinstall-prompt-message-unknown = Tu tenta de installar un additivo ex un sito incognite. Verifica que tu te fide de iste sito ante continuar.
-
 xpinstall-prompt-dont-allow =
     .label = Non permitter
     .accesskey = N
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = Iste accesso non es garantit
 ##
 
 xpinstall-disabled-locked = Le installation de software ha essite disactivate per le administrator de tu systema.
+xpinstall-disabled-by-policy = Le installation de software ha essite disactivate per tu organisation.
 xpinstall-disabled = Le installation de software es actualmente disactivate. Clicca sur Activar e retenta.
 xpinstall-disabled-button =
     .label = Activar
     .accesskey = A
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,15 +52,20 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) es blocate per tu administrator de systema.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Tu administrator de systema ha impedite iste sito de demandar te de installar software sur tu computator.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) es blocate per tu organisation.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Tu organisation ha impedite que iste sito te demanda de installar software in tu computator.
 addon-install-full-screen-blocked = Le installation de additivos non es permittite in modo de plen schermo o ante de entrar in illo.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } addite a { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } require nove permissiones
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +81,6 @@ addon-removal-title = Remover { $name }?
 addon-removal-message = Remover { $name } de { -brand-shorter-name }?
 addon-removal-button = Remover
 addon-removal-abuse-report-checkbox = Signalar iste extension a { -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,7 +89,6 @@ addon-downloading-and-verifying =
        *[other] Discargante e verificante { $addonCount } additivos…
     }
 addon-download-verifying = Verificante
-
 addon-install-cancel-button =
     .label = Cancellar
     .accesskey = C
