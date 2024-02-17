@@ -46,6 +46,8 @@ options-inspector-simplified-highlighters-tooltip =
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = Z <kbd>Enter</kbd> fokus na přichodne zapodaće stajić
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Jeli tuta funkcija je zmóžnjena, mjeno abo hódnota kajkosće fokus do přichodneho zapodaća přesuwa, hdyž tastu Enter tłóčiće a so selektor wobdźěłuje.
 
 ## "Default Color Unit" options for the Inspector
 

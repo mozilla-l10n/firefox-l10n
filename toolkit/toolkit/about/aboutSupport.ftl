@@ -292,6 +292,7 @@ try-newer-driver = Za wašu wersiju grafiskeho ćěrjaka zablokowany. Spytajće 
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametry ClearType
 compositing = Compositing
+support-font-determination = Informacije wo pytanju problemow za widźomnosć pismow
 hardware-h264 = Hardwarowe dekodowanje H264
 main-thread-no-omtc = hłowna nitka, žadyn OMTC
 yes = Haj
