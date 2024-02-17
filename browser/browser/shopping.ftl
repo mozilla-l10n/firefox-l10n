@@ -96,6 +96,17 @@ shopping-settings-opt-out-button = Vypnúť Kontrolu recenzií
 powered-by-fakespot = Nástroj Kontrola recenzií využíva technológiu <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 shopping-settings-auto-open-toggle =
     .label = Automaticky otvárať nástroj Kontrola recenzií
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Pre produkty na stránkach { $firstSite }, { $secondSite } a { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Pre produkty na stránke { $currentSite }
+shopping-settings-sidebar-enabled-state = Kontrola recenzií je <strong>zapnutá</strong>
 
 ## Strings for the adjusted rating component
 
@@ -178,9 +189,22 @@ shopping-callout-pdp-opted-in-title = Sú tieto recenzie spoľahlivé? Zistite t
 shopping-callout-pdp-opted-in-subtitle = Ak chcete zobraziť upravené hodnotenie s odstránenými nespoľahlivými recenziami, otvorte nástroj na kontrolu recenzií. Navyše si pozrite najdôležitejšie momenty z nedávnych autentických recenzií.
 shopping-callout-closed-not-opted-in-title = Spoľahlivé recenzie na jedno kliknutie
 shopping-callout-closed-not-opted-in-subtitle = Vyskúšajte Kontrolu recenzií vždy, keď uvidíte cenovku. Jednoducho získate štatistiky od skutočných kupujúcich – ešte pred nákupom.
+shopping-callout-closed-not-opted-in-revised-title = Dôveryhodné recenzie na jedno kliknutie
+shopping-callout-closed-not-opted-in-revised-subtitle = Stačí kliknúť na ikonu cenovky v paneli s adresou a prejdete do nástroja Kontrola recenzií.
 shopping-callout-closed-not-opted-in-revised-button = Rozumiem
+shopping-callout-not-opted-in-reminder-title = Nakupujte s istotou
+shopping-callout-not-opted-in-reminder-subtitle = Nie ste si istí, či sú recenzie produktu skutočné alebo falošné? Nástroj Kontrola recenzií od { -brand-product-name(case: "gen") } vám môže pomôcť.
+shopping-callout-not-opted-in-reminder-open-button = Otvoriť Kontrolu recenzií
 shopping-callout-not-opted-in-reminder-close-button = Zavrieť
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Nabudúce nezobrazovať
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstraktná ilustrácia troch recenzií produktov. Jedna má výstražný symbol, ktorý naznačuje, že nemusí byť dôveryhodná.
+shopping-callout-disabled-auto-open-title = Kontrola recenzií je teraz predvolene zatvorená
+shopping-callout-disabled-auto-open-subtitle = Vždy, keď chcete zistiť, či môžete dôverovať recenziám produktu, kliknite na ikonu cenovky v paneli s adresou.
+shopping-callout-disabled-auto-open-button = Rozumiem
+shopping-callout-opted-out-title = Kontrola recenzií je vypnutá
+shopping-callout-opted-out-subtitle = Ak ju chcete znova zapnúť, kliknite na ikonu cenovky v paneli s adresou a postupujte podľa pokynov.
+shopping-callout-opted-out-button = Rozumiem
 
 ## Onboarding message strings.
 
