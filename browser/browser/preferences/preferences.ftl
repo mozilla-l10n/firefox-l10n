@@ -562,6 +562,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recommendate per { $provider }
 home-prefs-recommended-by-description-new = Contento exceptional a cura de { $provider }, parte del familia { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Historias recommendate
 
 ##
 
@@ -1080,10 +1082,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Actiones rapide
     .accesskey = r
+addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones del motor de recerca
 addressbar-locbar-showrecentsearches-option =
     .label = Monstrar recercas recente
     .accesskey = r
-addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones del motor de recerca
 addressbar-quickactions-learn-more = Pro saper plus
 
 ## Privacy Section - Content Blocking
