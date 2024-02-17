@@ -194,6 +194,7 @@ newtab-section-header-recent-activity = Nedávna aktivita
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Odporúča { $provider }
+newtab-section-header-stories = Príbehy na zamyslenie
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -202,6 +203,8 @@ newtab-empty-section-highlights = Začnite s prehliadaním a my vám na tomto mi
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Už ste prečítali všetko. Ďalšie príbehy zo služby { $provider } tu nájdete opäť neskôr. Nemôžete sa dočkať? Vyberte si populárnu tému a pozrite sa na ďalšie skvelé príbehy z celého webu.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Už ste prečítali všetko. Ďalšie príbehy tu nájdete neskôr. Neviete sa dočkať? Vyberte obľúbenú tému a nájdite ďalšie skvelé príbehy z celého webu.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -258,6 +261,9 @@ newtab-custom-pocket-subtitle = Výnimočný obsah vybraný službou { -pocket-b
 newtab-custom-pocket-toggle =
     .label = Odporúčané službou { -pocket-brand-name }
     .description = Výnimočný obsah vybraný službou { -pocket-brand-name }, ktorá je súčasťou rodiny { -brand-product-name(case: "gen") }
+newtab-custom-stories-toggle =
+    .label = Odporúčané príbehy
+    .description = Výnimočný obsah spravovaný rodinou { -brand-product-name }
 newtab-custom-pocket-sponsored = Sponzorované príbehy
 newtab-custom-pocket-show-recent-saves = Zobraziť nedávno uložené položky
 newtab-custom-recent-title = Nedávna aktivita

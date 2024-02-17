@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Tento prístup nie je zaruč
 ##
 
 xpinstall-disabled-locked = Inštalácia softvéru bola vypnutá vaším správcom systému.
+xpinstall-disabled-by-policy = Inštalácia softvéru bola vypnutá vašou organizáciou.
 xpinstall-disabled = Inštalácia softvéru je momentálne vypnutá. Kliknite na tlačidlo Povoliť a skúste to znova.
 xpinstall-disabled-button =
     .label = Povoliť
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = Doplnok { $addonName } ({ $addonId }) bol zablokovaný správcom vášho počítača.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Váš správca systému zabránil tejto stránke požiadať vás o inštaláciu softvéru do vášho počítača.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = Doplnok { $addonName } ({ $addonId }) je blokovaný vašou organizáciou.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Vaša organizácia zabránila tejto stránke, aby vás požiadala o inštaláciu softvéru do počítača.
 addon-install-full-screen-blocked = V režime celej obrazovky alebo tesne pred jeho zapnutím nie je inštalácia doplnkov povolená.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.

@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Kontroluje sa kvalita re
 shopping-message-bar-page-not-supported =
     .heading = Tieto recenzie nemôžeme skontrolovať
     .message = Bohužiaľ nemôžeme skontrolovať kvalitu recenzií určitých typov produktov. Napríklad darčekové karty alebo streamovanie videa, hudby a hier.
+shopping-message-bar-keep-closed-header =
+    .heading = Nechať zatvorenú?
+    .message = Svoje nastavenia môžete aktualizovať tak, aby bola Kontrola recenzií predvolene zatvorená. Práve teraz sa otvára automaticky.
+shopping-message-bar-keep-closed-dismiss-button = Nie, ďakujem
+shopping-message-bar-keep-closed-accept-button = Áno, nechať zatvorenú
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,8 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Príležitostne sa vám budú zobrazovať reklamy na relevantné produkty. Inzerujeme iba produkty so spoľahlivými recenziami. <a data-l10n-name="review-quality-url">Ďalšie informácie</a>
 shopping-settings-opt-out-button = Vypnúť Kontrolu recenzií
 powered-by-fakespot = Nástroj Kontrola recenzií využíva technológiu <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Automaticky otvárať nástroj Kontrola recenzií
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +178,9 @@ shopping-callout-pdp-opted-in-title = Sú tieto recenzie spoľahlivé? Zistite t
 shopping-callout-pdp-opted-in-subtitle = Ak chcete zobraziť upravené hodnotenie s odstránenými nespoľahlivými recenziami, otvorte nástroj na kontrolu recenzií. Navyše si pozrite najdôležitejšie momenty z nedávnych autentických recenzií.
 shopping-callout-closed-not-opted-in-title = Spoľahlivé recenzie na jedno kliknutie
 shopping-callout-closed-not-opted-in-subtitle = Vyskúšajte Kontrolu recenzií vždy, keď uvidíte cenovku. Jednoducho získate štatistiky od skutočných kupujúcich – ešte pred nákupom.
+shopping-callout-closed-not-opted-in-revised-button = Rozumiem
+shopping-callout-not-opted-in-reminder-close-button = Zavrieť
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Nabudúce nezobrazovať
 
 ## Onboarding message strings.
 
@@ -186,7 +196,6 @@ shopping-onboarding-dynamic-subtitle-1 = Pred nákupom sa presvedčte, aké spo�
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Pred nákupom sa presvedčte, aké spoľahlivé sú recenzie produktov predajcu <b>{ $currentSite }</b>. Kontrola recenzií, experimentálna funkcia { -brand-product-name(case: "gen") }, je zabudovaná priamo do prehliadača.
 shopping-onboarding-body = Využitím sily { -fakespot-brand-full-name } vám pomôžeme vyhnúť sa neobjektívnym a neautentickým recenziám. Náš model AI sa neustále zlepšuje, aby vás chránil pri nakupovaní. <a data-l10n-name="learn_more">Ďalšie informácie</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Kliknutím na tlačidlo “{ shopping-onboarding-opt-in-button }“ súhlasíte so <a data-l10n-name="privacy_policy">Zásadami ochrany osobných údajov</a> a <a data-l10n-name="terms_of_use">Podmienkami používania</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Kliknutím na tlačidlo “{ shopping-onboarding-opt-in-button }“ súhlasíte so <a data-l10n-name="privacy_policy">Zásadami ochrany osobných údajov</a> { -brand-product-name(case: "gen") } a <a data-l10n-name="terms_of_use">Podmienkami používania služby</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Áno, vyskúšať
 shopping-onboarding-not-now-button = Teraz nie

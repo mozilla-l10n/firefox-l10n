@@ -260,6 +260,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Meniť len veľkosť textu
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Upozornenie: ak vyberiete možnosť “Meniť iba veľkosť textu” a vaše predvolené priblíženie nie je nastavené na 100 %, môže to spôsobiť nesprávne zobrazenie niektorých stránok alebo obsahu.
 language-header = Jazyk
 choose-language-description = Vyberte jazyky pre zobrazovanie webových stránok
 choose-button =
@@ -565,6 +567,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Odporúča { $provider }
 home-prefs-recommended-by-description-new = Výnimočný obsah vybraný službou { $provider }, ktorá je súčasťou rodiny { -brand-product-name(case: "gen") }
+home-prefs-recommended-by-header-generic =
+    .label = Odporúčané príbehy
+home-prefs-recommended-by-description-generic = Výnimočný obsah spravovaný rodinou { -brand-product-name }
 
 ##
 
@@ -1084,10 +1089,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = rýchle akcie
     .accesskey = r
+addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 addressbar-locbar-showrecentsearches-option =
     .label = zobraziť nedávne vyhľadávania
     .accesskey = e
-addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 addressbar-quickactions-learn-more = Ďalšie informácie
 
 ## Privacy Section - Content Blocking
