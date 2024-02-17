@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Tarkistetaan arvostelun 
 shopping-message-bar-page-not-supported =
     .heading = Emme voi tarkistaa näitä arvosteluja
     .message = Valitettavasti emme voi tarkistaa arvostelun laatua tietyntyyppisten tuotteiden osalta. Esimerkiksi lahjakortit ja suoratoistovideot, musiikki ja pelit.
+shopping-message-bar-keep-closed-header =
+    .heading = Pidetäänkö suljettuna?
+    .message = Voit päivittää asetukset, jotta arvostelujen tarkistus on suljettu oletusarvoisesti. Tällä hetkellä se avautuu automaattisesti.
+shopping-message-bar-keep-closed-dismiss-button = Ei kiitos
+shopping-message-bar-keep-closed-accept-button = Kyllä, pidä suljettuna
 
 ## Strings for the product review snippets card
 
@@ -167,6 +172,7 @@ shopping-survey-thanks =
 
 shopping-callout-pdp-opted-in-title = Ovatko nämä arvostelut luotettavia? Ota selvää nopeasti.
 shopping-callout-closed-not-opted-in-title = Luotettavat arvostelut yhdellä napsautuksella
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Älä kysy uudestaan
 
 ## Onboarding message strings.
 
