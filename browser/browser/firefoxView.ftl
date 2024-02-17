@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Njëkohësim në ecuri e sipër
 firefoxview-syncedtabs-loading-description = Kur të keni mbaruar, do të shihni çfarëdo skedash që keni të hapura në pajisje të tjera. Rikontrolloni së shpejti.
 firefoxview-tabpickup-fxa-admin-disabled-header = Enti juaj ka çaktivizuar njëkohësimet
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }-i s’është në gjendje të njëkohësojë skeda mes pajisjesh, ngaqë përgjegjësi juaj ka çaktivizuar njëkohësimet.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name }-i s’është në gjendje të njëkohësojë skeda mes pajisjesh, ngaqë enti juaj ka çaktivizuar njëkohësimet.
 firefoxview-tabpickup-network-offline-header = Kontrolloni lidhjen tuaj internet
 firefoxview-tabpickup-network-offline-description = Nëse po përdorni një <em>firewall</em>, ose një ndërmjetës, kujdesuni që { -brand-short-name }-i të ketë leje të përdorë web-in.
 firefoxview-tabpickup-network-offline-primarybutton = Riprovoni
@@ -184,6 +185,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Pa përfundime për “{ $query }”
 firefoxview-sort-history-by-date-label = Renditi sipas datash
 firefoxview-sort-history-by-site-label = Renditi sipas sajtesh
+firefoxview-sort-open-tabs-by-recency-label = Renditi sipas veprimtarive së fundi
+firefoxview-sort-open-tabs-by-order-label = Renditi sipas rendi skedash
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
