@@ -43,6 +43,11 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Jadnorjejše wuzwigowaki z prefers-reduced-motion wužywaś
 options-inspector-simplified-highlighters-tooltip =
     .title = Zmóžnja zjadnorjone wuzwigowaki, gaž prefers-reduced-motion jo zmóžnjony. Śěga linije město wupołnjone pšawokuty wó wuzwignjone elementy, aby se blinkajucych efektow wobinuli.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Z <kbd>Enter</kbd> fokus na pśiduce zapódaśe stajiś
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Jolic toś ta funkcija jo zmóžnjona, mě abo gódnota kakosći fokus do pśiducego zapódaśa pśesuwa, gaž tastu Enter tłocyśo a se selektor wobźěłujo.
 
 ## "Default Color Unit" options for the Inspector
 

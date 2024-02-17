@@ -199,7 +199,13 @@ shopping-callout-not-opted-in-reminder-subtitle = Njejsćo se wěsty, lěc póg�
 shopping-callout-not-opted-in-reminder-open-button = Kontrolu pógódnośenjow wócyniś
 shopping-callout-not-opted-in-reminder-close-button = Zachyśiś
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Wěcej se njepokazaś
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstraktne zwobraznjenje tśich produktowych pógódnośenjow. Jadno ma warnowański symbol, kótaryž pokazujo, až njejo snaź dowěry gódne.
+shopping-callout-disabled-auto-open-title = Kontrola pógódnośenjow jo něnto pó standarźe zacynjona
+shopping-callout-disabled-auto-open-subtitle = Klikniśo na symbol płaśiznoweje toflicki w adresowem pólu, gažkuli cośo wiźeś, lěc móžośo pógódnośenjam produkta dowěriś.
 shopping-callout-disabled-auto-open-button = Som zrozměł
+shopping-callout-opted-out-title = Kontrola pógódnośenjow jo znjemóžnjona
+shopping-callout-opted-out-subtitle = Aby ju zasej zmóžnił, klikniśo na symbol płaśiznoweje toflicki w adresowem pólu a slědujśo instrukcijam.
 shopping-callout-opted-out-button = Som zrozměł
 
 ## Onboarding message strings.
