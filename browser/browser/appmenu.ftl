@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Monstrar plus schedas
     .tooltiptext = Monstrar plus schedas de iste apparato
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Monstrar un scheda inactive
+           *[other] Monstrar { $count } schedas inactive
+        }
+    .tooltiptext = Monstrar le schedas inactive  sur iste sito.
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nulle schedas aperte
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -166,6 +176,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Pre-configuration recommendate pro le depuration del major parte de applicationes web, con poc supercarga.

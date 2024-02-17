@@ -194,6 +194,7 @@ newtab-section-header-recent-activity = Recente activitate
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recommendate per { $provider }
+newtab-section-header-stories = Historias que face pensar
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -257,6 +258,9 @@ newtab-custom-pocket-subtitle = Contento exceptional a cura de { -pocket-brand-n
 newtab-custom-pocket-toggle =
     .label = Recommendate per { -pocket-brand-name }
     .description = Contento exceptional a cura de { -pocket-brand-name }, parte del familia { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Historias recommendate
+    .description = Exceptional contento curate per le familia de { -brand-product-name }
 newtab-custom-pocket-sponsored = Articulos sponsorisate
 newtab-custom-pocket-show-recent-saves = Monstrar salvamentos recente
 newtab-custom-recent-title = Activitate recente
