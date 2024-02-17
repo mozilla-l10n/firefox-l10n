@@ -96,6 +96,16 @@ shopping-settings-opt-out-button = Kontrolu pohódnoćenjow znjemóžnić
 powered-by-fakespot = Kontrola pohódnoćenjow so wot <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name } spěchuje</a>.
 shopping-settings-auto-open-toggle =
     .label = Kontrolu pohódnoćenjow awtomatisce wočinić
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Hdyž sej produkty na { $firstSite }, { $secondSite } a { $thirdSite } wobhladujeće
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Hdyž sej produkty na { $currentSite } wobhladujeće
 shopping-settings-sidebar-enabled-state = Kontrola pohódnoćenjow je <strong>zmóžnjena</strong>
 
 ## Strings for the adjusted rating component
@@ -183,6 +193,7 @@ shopping-callout-closed-not-opted-in-title = Jedne kliknjenje do spušćomnych p
 shopping-callout-closed-not-opted-in-subtitle = Dajće kontroli pohódnoćenjow šansu, hdyžkuli płaćiznowu tafličku widźiće. Dóstańće spěšnje dohlady wot woprawdźitych nakupowarjow – prjedy hač kupujeće.
 shopping-callout-closed-not-opted-in-revised-title = Jedne kliknjenje do dowěry hódnych pohódnoćenjow
 shopping-callout-closed-not-opted-in-revised-button = Sym zrozumił
+shopping-callout-not-opted-in-reminder-title = Nakupće z dowěru
 shopping-callout-not-opted-in-reminder-open-button = Kontrolu pohódnoćenjow wočinić
 shopping-callout-not-opted-in-reminder-close-button = Zaćisnyć
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Hižo so njepokazać
