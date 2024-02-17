@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Synkronointi käynnissä
 firefoxview-syncedtabs-loading-description = Kun se valmistuu, näet kaikki muilla laitteilla avoinna olevat välilehdet. Tarkista pian uudelleen.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisaatiosi on poistanut synkronoinnin käytöstä
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ei voi synkronoida välilehtiä laitteiden välillä, koska laitteesi järjestelmänvalvoja on poistanut synkronoinnin käytöstä.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ei voi synkronoida välilehtiä laitteiden välillä, koska organisaatiosi on poistanut synkronoinnin käytöstä.
 firefoxview-tabpickup-network-offline-header = Tarkista Internet-yhteytesi
 firefoxview-tabpickup-network-offline-description = Jos käytät palomuuria tai välityspalvelinta, tarkista että { -brand-short-name } on oikeutettu käyttämään verkkoa.
 firefoxview-tabpickup-network-offline-primarybutton = Yritä uudelleen
@@ -184,6 +185,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Ei tuloksia haulla "{ $query }"
 firefoxview-sort-history-by-date-label = Järjestä päiväyksen mukaan
 firefoxview-sort-history-by-site-label = Järjestä sivuston mukaan
+firefoxview-sort-open-tabs-by-recency-label = Järjestä viimeisimmän toiminnan mukaan
+firefoxview-sort-open-tabs-by-order-label = Järjestä välilehtijärjestyksen mukaan
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
