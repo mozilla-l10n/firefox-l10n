@@ -195,12 +195,17 @@ shopping-callout-closed-not-opted-in-revised-title = Jedne kliknjenje do dowěry
 shopping-callout-closed-not-opted-in-revised-subtitle = Klikńće prosće na symbol płaćiznoweje taflički w adresowym polu, zo byšće ke kontroli pohódnoćenjow wróćił.
 shopping-callout-closed-not-opted-in-revised-button = Sym zrozumił
 shopping-callout-not-opted-in-reminder-title = Nakupće z dowěru
+shopping-callout-not-opted-in-reminder-subtitle = Njejsće sej wěsty, hač pohódnoćenja produkta su prawdźiwe abo sfalšowane? Kontrola pohódnoćenjow z { -brand-product-name } móže pomhać.
 shopping-callout-not-opted-in-reminder-open-button = Kontrolu pohódnoćenjow wočinić
 shopping-callout-not-opted-in-reminder-close-button = Zaćisnyć
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Hižo so njepokazać
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstraktne zwobraznjenje třoch produktowych pohódnoćenjow. Jedne ma warnowanski symbol, kotryž pokazuje, zo je snano dowěry hódne njeje.
 shopping-callout-disabled-auto-open-title = Kontrola pohódnoćenjow je nětko po standardźe začinjena
+shopping-callout-disabled-auto-open-subtitle = Klikńće na symbol płaćiznoweje taflički w adresowym polu, hdyžkuli chceće widźeć, hač móžeće pohódnoćenjam produkta dowěrić.
 shopping-callout-disabled-auto-open-button = Sym zrozumił
 shopping-callout-opted-out-title = Kontrola pohódnoćenjow je znjemóžnjena
+shopping-callout-opted-out-subtitle = Zo byšće jo zaso zmóžnił, klikńće na symbol płaćiznoweje taflički w adresowym polu a slědujće instrukcijam.
 shopping-callout-opted-out-button = Sym zrozumił
 
 ## Onboarding message strings.
