@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Não serão guardadas as credenciais para os seguintes sites
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Exceções – palavras-passe guardadas
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = O { -brand-short-name } não irá guardar as palavras-passe para os sites aqui listados.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
