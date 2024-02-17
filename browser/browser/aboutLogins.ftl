@@ -64,14 +64,6 @@ login-list-count2 =
         [one] { $count } पासवर्ड
        *[other] { $count } पासवर्डहरू
     }
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count2 =
-    { $total ->
-        [one] { $count } पासवर्ड
-       *[other] { $count } पासवर्डहरू
-    }
 login-list-sort-label-text = क्रमबद्ध गर्नुहोस्:
 login-list-name-option = नाम (क-ज्ञ)
 login-list-name-reverse-option = नाम (ज्ञ-क)
@@ -478,8 +470,8 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट प्रविष्टिहरू</div> <div data-l10n-name="not-imported ">(आयात गरिएको छैन)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट प्रविष्टिहरू</div> <div data-l10n-name="not-imported ">(आयात गरिएको छैन)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट प्रविष्टिहरू</div> <div data-l10n-name="not-imported">(आयात गरिएको छैन)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">डुप्लिकेट प्रविष्टिहरू</div> <div data-l10n-name="not-imported">(आयात गरिएको छैन)</div>
     }
 about-logins-import-report-error =
     { $count ->
