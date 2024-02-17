@@ -64,6 +64,9 @@ shopping-message-bar-analysis-in-progress-with-amount = Kontrola kwality pohódn
 shopping-message-bar-page-not-supported =
     .heading = Njemóžemy tute pohódnoćenja přepruwować
     .message = Bohužel njemóžemy kwalitu pohódnoćenja za wěste produktowe typy kontrolować. Na přikład za darne karty a prudźace widejo, hudźbu a hry.
+shopping-message-bar-keep-closed-header =
+    .heading = Začinjeny wostajić?
+    .message = Móžeće swoje nastajenja aktualizować, zo byšće kontrolu pohódnoćenjow po standardźe začinjenu wostajić. Tuchwilu so awtomatisce wočinja.
 shopping-message-bar-keep-closed-dismiss-button = Ně, dźakuju so
 shopping-message-bar-keep-closed-accept-button = Haj, začinjeny wostajić
 
@@ -91,6 +94,9 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Budźeće hdys a hdys wabjenje za relewantne produkty widźeć. Wabimy jenož za produkty ze spušćomnymi pohódnoćenjemi. <a data-l10n-name="review-quality-url">Dalše informacije</a>
 shopping-settings-opt-out-button = Kontrolu pohódnoćenjow znjemóžnić
 powered-by-fakespot = Kontrola pohódnoćenjow so wot <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name } spěchuje</a>.
+shopping-settings-auto-open-toggle =
+    .label = Kontrolu pohódnoćenjow awtomatisce wočinić
+shopping-settings-sidebar-enabled-state = Kontrola pohódnoćenjow je <strong>zmóžnjena</strong>
 
 ## Strings for the adjusted rating component
 
