@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Remover este contentor
 containers-remove-cancel-button = Não remover este contentor
+settings-tabs-show-image-in-preview =
+    .label = Mostrar uma pré-visualização da imagem ao passar o rato sobre um separador
+    .accessKey = v
 
 ## General Section - Language & Appearance
 
@@ -466,6 +469,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Mostrar sempre as barras de deslocamento
     .accesskey = o
+browsing-always-underline-links =
+    .label = Sublinhar sempre as hiperligações
+    .accesskey = u
 browsing-use-onscreen-keyboard =
     .label = Mostrar um teclado tátil quando necessário
     .accesskey = t
@@ -609,6 +615,9 @@ search-suggestions-desc = Escolha como as sugestões dos motores de pesquisa sã
 search-suggestions-option =
     .label = Mostrar sugestões de pesquisa
     .accesskey = s
+search-show-suggestions-option =
+    .label = Mostrar sugestões de pesquisa
+    .accesskey = M
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugestões de pesquisa nos resultados da barra de endereço
     .accesskey = l
@@ -707,6 +716,9 @@ sync-signedin-login-failure = Por favor, inicie a sessão para reassociar { $ema
 sync-resend-verification =
     .label = Reenviar verificação
     .accesskey = r
+sync-verify-account =
+    .label = Confirmar conta
+    .accesskey = C
 sync-remove-account =
     .label = Remover conta
     .accesskey = R
@@ -739,8 +751,10 @@ sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Histórico
 sync-currently-syncing-tabs = Separadores abertos
 sync-currently-syncing-logins-passwords = Credenciais e palavras-passe
+sync-currently-syncing-passwords = Palavras-passe
 sync-currently-syncing-addresses = Endereços
 sync-currently-syncing-creditcards = Cartões de crédito
+sync-currently-syncing-payment-methods = Métodos de pagamento
 sync-currently-syncing-addons = Extras
 sync-currently-syncing-settings = Definições
 sync-change-options =
@@ -771,6 +785,10 @@ sync-engine-logins-passwords =
     .label = Credenciais e palavras-passe
     .tooltiptext = Nomes de utilizador e palavras-passe que guardou
     .accesskey = C
+sync-engine-passwords =
+    .label = Palavras-passe
+    .tooltiptext = Palavras-passe que guardou
+    .accesskey = P
 sync-engine-addresses =
     .label = Endereços
     .tooltiptext = Endereços postais que guardou (computador apenas)
@@ -779,6 +797,10 @@ sync-engine-creditcards =
     .label = Cartões de crédito
     .tooltiptext = Nomes, números e datas de expiração (computador apenas)
     .accesskey = C
+sync-engine-payment-methods2 =
+    .label = Métodos de pagamento
+    .tooltiptext = Nomes, números de cartão e datas de expiração
+    .accesskey = n
 sync-engine-addons =
     .label = Extras
     .tooltiptext = Extensões e temas para o Firefox no computador
@@ -825,18 +847,35 @@ pane-privacy-logins-and-passwords-header = Credenciais e palavras-passe
 forms-ask-to-save-logins =
     .label = Pedir para guardar credenciais e palavras-passe para sites
     .accesskey = P
+
+## Privacy Section - Passwords
+
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Palavras-passe
+    .searchkeywords = credenciais
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Pedir para guardar as palavras-passe
+    .accesskey = P
 forms-exceptions =
     .label = Exceções…
     .accesskey = x
 forms-generate-passwords =
     .label = Sugerir e gerar palavras-passe fortes
     .accesskey = u
+forms-suggest-passwords =
+    .label = Sugerir palavras-passe fortes
+    .accesskey = S
 forms-breach-alerts =
     .label = Mostrar alertas sobre as palavras-passe para os sites violados
     .accesskey = v
 forms-breach-alerts-learn-more-link = Saber mais
 preferences-relay-integration-checkbox =
     .label = Sugerir as máscaras de e-mail { -relay-brand-name } para proteger seu endereço de e-mail
+preferences-relay-integration-checkbox2 =
+    .label = Sugerir as máscaras de e-mail do { -relay-brand-name } para proteger o seu endereço de e-mail
+    .accesskey = r
 relay-integration-learn-more-link = Saber mais
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -844,6 +883,13 @@ forms-fill-logins-and-passwords =
     .accesskey = i
 forms-saved-logins =
     .label = Credenciais guardadas…
+    .accesskey = g
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Preencher automaticamente os nomes de utilizador e as palavras-passe
+    .accesskey = a
+forms-saved-passwords =
+    .label = Palavras-passe guardadas
     .accesskey = g
 forms-primary-pw-use =
     .label = Utilizar uma palavra-passe principal
@@ -868,6 +914,7 @@ forms-windows-sso =
     .label = Permitir a autenticação única para contas da Microsoft, trabalho e escola
 forms-windows-sso-learn-more-link = Saber mais
 forms-windows-sso-desc = Gerir contas nas definições do seu dispositivo
+windows-passkey-settings-label = Gerir as chaves de acesso nas definições do sistema
 
 ## OS Authentication dialog
 
@@ -879,6 +926,28 @@ primary-password-os-auth-dialog-message-win = Para criar uma palavra-passe princ
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = criar uma palavra-passe principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
+pane-privacy-autofill-header = Preenchimento automático
+autofill-addresses-checkbox = Guardar e preencher as moradas
+    .accesskey = a
+autofill-saved-addresses-button = Moradas guardadas
+    .accesskey = s
+autofill-payment-methods-checkbox-message = Guardar e preencher os métodos de pagamento
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Inclui os cartões de débito e crédito
+    .accesskey = I
+autofill-saved-payment-methods-button = Métodos de pagamento guardados
+    .accesskey = t
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Requer a autenticação do macOS para preencher e editar os métodos de pagamento.
+        [windows] Requer a autenticação do Windows para preencher e editar os métodos de pagamento.
+        [linux] Requer a autenticação do Linux para preencher e editar os métodos de pagamento.
+       *[other] Requer a autenticação para preencher e editar os métodos de pagamento.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
@@ -934,6 +1003,7 @@ sitedata-delete-on-close =
     .label = Eliminar cookies e os dados de sites quando o { -brand-short-name } é fechado
     .accesskey = c
 sitedata-delete-on-close-private-browsing = No modo de navegação privada permanente, os cookies e os dados de sites irão ser sempre limpos quando o { -brand-short-name } é fechado.
+sitedata-delete-on-close-private-browsing2 = Com base nas suas definições do histórico, o { -brand-short-name } elimina os cookies e os dados dos sites da sua sessão quando fecha o navegador.
 sitedata-allow-cookies-option =
     .label = Aceitar cookies e dados de sites
     .accesskey = A
@@ -1010,10 +1080,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Ações rápidas
     .accesskey = Q
+addressbar-suggestions-settings = Alterar preferências para as sugestões dos motores de pesquisa
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar pesquisas recentes
     .accesskey = r
-addressbar-suggestions-settings = Alterar preferências para as sugestões dos motores de pesquisa
 addressbar-quickactions-learn-more = Saber mais
 
 ## Privacy Section - Content Blocking
@@ -1274,6 +1344,7 @@ preferences-doh-status-disabled = Desligado
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Inativo ({ $reason })
 preferences-doh-group-message = Ative o DNS seguro usando:
+preferences-doh-group-message2 = Ativar DNS sobre HTTPS, utilizando:
 preferences-doh-expand-section =
     .tooltiptext = Mais informação
 preferences-doh-setting-default =

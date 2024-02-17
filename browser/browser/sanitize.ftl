@@ -7,6 +7,9 @@ sanitize-prefs2 =
     .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+sanitize-dialog-title2 =
+    .title = Limpar os dados de navegação e os cookies
+    .style = min-width: 34em
 sanitize-dialog-title =
     .title = Limpar histórico
     .style = min-width: 34em
@@ -16,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Limpar todo o histórico
     .style = min-width: 34em
 clear-data-settings-label = Quando fechado, o { -brand-short-name } deve limpar automaticamente todos(as)
+sanitize-on-shutdown-description = Limpar automaticamente todos os itens selecionados quando o { -brand-short-name } é fechado.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -28,6 +32,9 @@ clear-data-settings-label = Quando fechado, o { -brand-short-name } deve limpar 
 clear-time-duration-prefix =
     .value = Intervalo de tempo a limpar:{ " " }
     .accesskey = t
+clear-time-duration-prefix2 =
+    .value = Quando:
+    .accesskey = Q
 clear-time-duration-value-last-hour =
     .label = Última hora
 clear-time-duration-value-last-2-hours =
@@ -48,18 +55,46 @@ history-section-label = Histórico
 item-history-and-downloads =
     .label = Histórico de navegação e de transferências
     .accesskey = H
+item-history-form-data-downloads =
+    .label = Histórico
+    .accesskey = H
+item-history-form-data-downloads-description = Limpa o histórico do site e das transferências, informação dos formulários guardada e as pesquisas
 item-cookies =
     .label = Cookies
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Cookies e dados de site ({ $amount } { $unit })
+    .accesskey = e
+item-cookies-site-data =
+    .label = Cookies e dados de site
+    .accesskey = e
+item-cookies-site-data-description = Pode terminar a sessão nos sites ou limpar os carrinhos de compras
 item-active-logins =
     .label = Inícios de sessão ativos
     .accesskey = I
 item-cache =
     .label = Cache
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Ficheiros temporários e as páginas em cache ({ $amount } { $unit })
+    .accesskey = F
+item-cached-content =
+    .label = Ficheiros temporários e as páginas em cache
+    .accesskey = F
+item-cached-content-description = Limpa os itens que ajudam os sites a carregar mais rapidamente
 item-form-search-history =
     .label = Histórico de pesquisa
     .accesskey = q
+item-site-prefs =
+    .label = Definições do site
+    .accesskey = i
+item-site-prefs-description = Repõe as suas permissões e as preferências de site para as definições originais
 data-section-label = Dados
 item-site-settings =
     .label = Definições do site
@@ -72,6 +107,10 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Limpar agora
+sanitize-button-ok2 =
+    .label = Limpar
+sanitize-button-ok-on-shutdown =
+    .label = Guardar alterações
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

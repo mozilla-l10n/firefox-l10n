@@ -329,3 +329,31 @@ onboarding-device-migration-title = Olá novamente!
 onboarding-device-migration-subtitle = Entre na { -fxaccount-brand-name(capitalization: "sentence") } para levar os seus marcadores, palavras-passe e histórico consigo no seu novo dispositivo.
 onboarding-device-migration-subtitle2 = Inicie a sessão na sua conta para trazer os seus marcadores, palavras-passe e o histórico consigo no seu novo dispositivo.
 onboarding-device-migration-primary-button-label = Entrar
+
+## The following screens have been updated to use security and privacy focused strings:
+
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Nós adoramos mantê-lo seguro
+onboarding-easy-setup-security-and-privacy-subtitle = O nosso navegador apoiado por uma organização sem fins lucrativos, ajuda a impedir que as empresas o sigam secretamente na Web.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Mantenha-se encriptado quando alterna entre os dispositivos
+onboarding-mobile-download-security-and-privacy-subtitle = Quando está sincronizado, o { -brand-short-name } encripta as suas palavras-passe, marcadores e muito mais. Além disso, pode ter os separadores dos seus outros dispositivos.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } protege-o
+onboarding-gratitude-security-and-privacy-subtitle = Obrigado por utilizar o { -brand-short-name }, apoiado pela Mozilla Foundation. Com o seu apoio, nós estamos a trabalhar para tornar a Internet segura e mais acessível para todos.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Há quanto tempo utiliza o { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Quão familiarizado está com o { -brand-short-name }?
+onboarding-new-user-survey-subtitle = A sua opinião ajuda a tornar o { -brand-short-name } ainda melhor.
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Estou a começar
+onboarding-new-user-survey-time-based-option-2 = Menos de 1 mês
+onboarding-new-user-survey-time-based-option-3 = Mais de 1 mês, regularmente
+onboarding-new-user-survey-time-based-option-4 = Mais de 1 mês, ocasionalmente
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Estou a começar
+onboarding-new-user-survey-familiarity-based-option-2 = Eu já o utilizei um pouco
+onboarding-new-user-survey-familiarity-based-option-3 = Eu estou muito familiarizado com o mesmo
+onboarding-new-user-survey-familiarity-based-option-4 = Eu já o utilizei, mas foi há algum tempo
