@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = لا يضمن هذا الو�
 ##
 
 xpinstall-disabled-locked = منع مدير النظام تثبيت البرمجيّات.
+xpinstall-disabled-by-policy = منعت مؤسستك تثبيت البرمجيّات.
 xpinstall-disabled = تثبيت البرمجيّات معطل حاليًا. انقر فعّل و حاول مجددًا.
 xpinstall-disabled-button =
     .label = فعّل
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = حجب مدير النظام { $addonName } (معرّفها { $addonId }).
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = منع مدير النظام هذا الموقع من سؤالك بتثبيت برمجيّات على حاسوبك.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = حجبت مؤسستك { $addonName } (معرّفها { $addonId }).
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = منعت مؤسستك هذا الموقع من سؤالك بتثبيت برمجيّات على حاسوبك.
 addon-install-full-screen-blocked = يُمنع تثبيت الإضافات في وضع ملء الشاشة، أو قبل الدخول إليه.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
