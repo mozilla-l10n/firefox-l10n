@@ -14,7 +14,6 @@ xpinstall-prompt-message = Olet aikeissa asentaa lisäosan sivustolta { $host }.
 
 xpinstall-prompt-header-unknown = Saako tuntematon sivusto asentaa lisäosan?
 xpinstall-prompt-message-unknown = Olet aikeissa asentaa lisäosan tuntemattomalta sivustolta. Varmistu tämän sivuston luotettavuudesta ennen kuin jatkat.
-
 xpinstall-prompt-dont-allow =
     .label = Älä salli
     .accesskey = Ä
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = Tämän pääsyn turvallisuu
 ##
 
 xpinstall-disabled-locked = Järjestelmän ylläpitäjä on estänyt ohjelmien asentamisen.
+xpinstall-disabled-by-policy = Organisaatiosi on estänyt ohjelmiston asennuksen.
 xpinstall-disabled = Ohjelmien asentaminen on tällä hetkellä estetty. Ota se käyttöön napsauttamalla saman nimistä painiketta.
 xpinstall-disabled-button =
     .label = Ota käyttöön
     .accesskey = k
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,15 +52,20 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) on järjestelmänvalvojasi estämä.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Järjestelmänvalvojasi esti tätä sivustoa pyytämästä sinua asentamaan ohjelmistoja tietokoneellesi.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) on estetty organisaatiosi toimesta.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Organisaatiosi esti tätä sivustoa pyytämästä sinua asentamaan ohjelmistoja tietokoneelle.
 addon-install-full-screen-blocked = Lisäosien asennus ei ole sallittu koko näytön tilassa tai ennen koko näytön tilaan siirtymistä.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } lisätty { -brand-short-name }iin
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } vaatii uusia oikeuksia
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +81,6 @@ addon-removal-title = Poistetaanko { $name }?
 addon-removal-message = Poistetaanko ”{ $name }” { -brand-shorter-name }-selaimesta?
 addon-removal-button = Poista
 addon-removal-abuse-report-checkbox = Raportoi tämä laajennus { -vendor-short-name }lle
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,7 +89,6 @@ addon-downloading-and-verifying =
        *[other] Ladataan ja varmennetaan { $addonCount } lisäosaa…
     }
 addon-download-verifying = Varmennetaan
-
 addon-install-cancel-button =
     .label = Peruuta
     .accesskey = P
