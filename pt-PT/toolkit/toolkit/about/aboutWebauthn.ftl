@@ -84,10 +84,46 @@ about-webauthn-update-button = Atualizar
 about-webauthn-auth-option-uv = Verificação do utilizador
 about-webauthn-auth-option-up = Presença do utilizador
 about-webauthn-auth-option-clientpin = Código do cliente
+about-webauthn-auth-option-rk = Chave residente
+about-webauthn-auth-option-plat = Dispositivo da plataforma
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Permissões de comando (pingUvAuthToken)
+about-webauthn-auth-option-bioenroll = Registo biométrico
+about-webauthn-auth-option-uvbioenroll = Permissão de registo biométrico
+about-webauthn-auth-option-authnrcfg = Configuração do autenticador
+about-webauthn-auth-option-uvacfg = Permissão de configuração do autenticador
+about-webauthn-auth-option-credmgmt = Gestão de credenciais
+about-webauthn-auth-option-credentialmgmtpreview = Gestão de credenciais de protótipo
+about-webauthn-auth-option-setminpinlength = Definir tamanho mínimo do código
+about-webauthn-auth-option-alwaysuv = Requerer sempre a verificação do utilizador
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Não suportado
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Certificações
+about-webauthn-auth-info-uv-modality = Modalidade de verificação do utilizador
+about-webauthn-auth-info-firmware-version = Versão do firmware
+about-webauthn-auth-info-min-pin-length = Tamanho mínimo do código
+about-webauthn-auth-info-force-pin-change = Forçar alteração do código
+about-webauthn-auth-info-algorithms = Algoritmos
+about-webauthn-auth-info-transports = Transportes
+about-webauthn-auth-info-pin-protocols = Protocolos de código
+about-webauthn-auth-info-max-msg-size = Tamanho máximo da mensagem
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Extensões
+about-webauthn-auth-info-versions = Versões
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Não suportado
 
 ## Bio enrollment sample feedbacks
 
