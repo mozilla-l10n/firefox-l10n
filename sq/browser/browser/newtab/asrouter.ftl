@@ -203,8 +203,6 @@ cfr-cbh-confirm-button = Hidh poshtë banderola për cookie-t
     .accesskey = H
 cfr-cbh-dismiss-button = Jo tani
     .accesskey = J
-cookie-banner-blocker-cfr-header = { -brand-short-name } sapo bllokoi “cookies” për ju
-cookie-banner-blocker-cfr-body = Hedhim poshtë automatikisht mjaft flluska cookie-sh, për t’ua bërë të zorshme sajteve t’ju ndjekin.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } sapo hodhi poshtë një banderolë cookie-sh për ju
 cookie-banner-blocker-onboarding-body = Më pak shpërqendrim, më pak “cookies” që ju ndjekin në këtë sajt.
 cookie-banner-blocker-onboarding-learn-more = Mësoni më tepër
@@ -271,3 +269,8 @@ launch-on-login-infobar-reject-button = Jo tani
 launch-on-login-infobar-final-message = <strong>Të hapet { -brand-short-name }-i sa herë që rinisni kompjuterin tuaj?</strong> Që të administroni parapëlqimet tuaja për Nisjen e kompjuterit, kërkoni për “startup”, te rregullimet.
 launch-on-login-infobar-final-reject-button = Jo, faleminderit
     .accesskey = f
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-primary-button = Hapi lidhjet e mia me { -brand-short-name }
+tail-fox-spotlight-secondary-button = Jo tani
