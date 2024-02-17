@@ -64,6 +64,8 @@ shopping-message-bar-analysis-in-progress-with-amount = Controlo qualitate de re
 shopping-message-bar-page-not-supported =
     .heading = Nos non pote controlar iste recensiones
     .message = Infortunatemente, nos non pote verificar le qualitate de recension pro certe typos de productos. Per exemplo, cartas dono e diffusion multimedial de video, musica, e jocos.
+shopping-message-bar-keep-closed-dismiss-button = No, gratias
+shopping-message-bar-keep-closed-accept-button = Si, mantener claudite
 
 ## Strings for the product review snippets card
 
@@ -186,7 +188,6 @@ shopping-onboarding-dynamic-subtitle-1 = Vide quanto es fidabile le recensiones 
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Vide quanto fidabile es le recensiones de producto sur <b>{ $currentSite }</b> ante que tu compra. Verificator de recension, un function experimental per { -brand-product-name }, es integrate justo in le navigator.
 shopping-onboarding-body = Per le potentia de { -fakespot-brand-full-name }, nos te adjuta a evitar recensiones prevenite e inauthentic. Nostre modello de intelligentia artificial sempre meliora pro proteger te dum tu compra. <a data-l10n-name="learn_more">Pro saper plus</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Seligente “{ shopping-onboarding-opt-in-button }“ tu concorda con le <a data-l10n-name="privacy_policy">politica de confidentialitate</a> e le <a data-l10n-name="terms_of_use">conditiones de uso de { -fakespot-brand-name }.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Seligente “{ shopping-onboarding-opt-in-button }“ tu concorda con le <a data-l10n-name="privacy_policy">politica de confidentialitate de</a> { -brand-product-name } e le <a data-l10n-name="terms_of_use">conditiones de uso de { -fakespot-brand-name }.</a>
 shopping-onboarding-opt-in-button = Si, essaya lo
 shopping-onboarding-not-now-button = Non ora

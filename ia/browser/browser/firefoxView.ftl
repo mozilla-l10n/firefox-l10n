@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Synchronisation in curso
 firefoxview-syncedtabs-loading-description = Quando illo es facite, tu videra ulle schedas que tu ha aperite sur altere apparatos.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organisation ha disactivate le synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non pote synchronisar schedas inter apparatos perque tu administrator ha disactivate le synchronisation.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } non pote synchronisar schedas inter apparatos perque tu organisation ha disactivate le synchronisation.
 firefoxview-tabpickup-network-offline-header = Controla tu connexion a internet
 firefoxview-tabpickup-network-offline-description = Si tu usa un firewall o proxy, verifica que { -brand-short-name } ha permission pro acceder al web.
 firefoxview-tabpickup-network-offline-primarybutton = Retenta
@@ -184,6 +185,7 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Nulle resultatos pro “{ $query }”
 firefoxview-sort-history-by-date-label = Ordinar per data
 firefoxview-sort-history-by-site-label = Ordinar per sito
+firefoxview-sort-open-tabs-by-order-label = Ordinar per ordine de scheda
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
