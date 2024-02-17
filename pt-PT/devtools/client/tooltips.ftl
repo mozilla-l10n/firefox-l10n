@@ -53,6 +53,12 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> não 
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
+
 inactive-css-not-grid-or-flex-container-fix = Experimente adicionar <strong>display:grid</strong> ou <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Experimente adicionar <strong>display:grid</strong>, <strong>display:flex</strong>, ou <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Tente adicionar <strong>column-count</strong> ou <strong>column-width</strong>. { learn-more }
@@ -92,3 +98,10 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> é uma propriedade experimental. Não é suportada nos seguintes navegadores:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> é uma propriedade experimental.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Saber mais</span> sobre <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Este seletor utiliza <strong>:has()</strong> sem restrições, o que pode ser lento
