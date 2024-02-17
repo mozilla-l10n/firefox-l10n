@@ -43,6 +43,11 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Përdorni theksues më të thjeshtë, me prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
     .title = Aktivizon theksues të thjeshtuar, kur prefers-reduced-motion është e aktivizuar. Vizatohen vija, në vend se drejtkëndësha të mbushur, përreth elementësh të theksuar, për të shmangur efekte xixëllimi.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Kur shtypet tasti <kbd>Enter</kbd>, kaloje fokusin te ç’jepet në vazhdim
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Kur aktivizohet, shtypja e tastit Enter, kur përpunohet një përzgjedhës, një emër ose vlerë vetie, fokusi do të kalohet te fusha pasuese për dhënie.
 
 ## "Default Color Unit" options for the Inspector
 
