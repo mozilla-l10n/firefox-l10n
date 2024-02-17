@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Sadece metni yakınlaştır
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Uyarı: “Sadece metni yakınlaştır”ı seçerseniz ve varsayılan yakınlaştırmanız %100 olarak ayarlanmazsa bazı siteler ve içerikler düzgün görünmeyebilir.
 language-header = Dil
 choose-language-description = Sayfaları hangi dilde görmeyi tercih ettiğinizi seçin
 choose-button =
@@ -562,6 +564,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } öneriyor
 home-prefs-recommended-by-description-new = { -brand-product-name } ailesinin bir parçası olan { $provider }’ın seçtiği harika içerikler
+home-prefs-recommended-by-header-generic =
+    .label = Önerilen makaleler
 home-prefs-recommended-by-description-generic = { -brand-product-name } ailesinin seçtiği harika içerikler
 
 ##
@@ -1004,6 +1008,7 @@ sitedata-delete-on-close =
     .label = { -brand-short-name } kapatıldığında çerezleri ve site verilerini sil
     .accesskey = k
 sitedata-delete-on-close-private-browsing = Kalıcı gizli gezinti modunda, { -brand-short-name } kapatıldığında çerezler ve site verileri her zaman silinir.
+sitedata-delete-on-close-private-browsing2 = { -brand-short-name }, geçmiş ayarlarınıza bağlı olarak, tarayıcıyı kapattığınızda oturumunuzdaki çerezleri ve site verilerini siler.
 sitedata-allow-cookies-option =
     .label = Çerezleri ve site verilerini kabul et
     .accesskey = z
