@@ -200,8 +200,10 @@ shopping-callout-not-opted-in-reminder-ignore-checkbox = Mos e shfaq sërish
 shopping-callout-not-opted-in-reminder-img-alt =
     .aria-label = Ilustrim abstrakt i tre shqyrtimeve të një produkti. Njëri ka një simbol sinjalizimi, që tregon se mund të mos jetë i besueshëm.
 shopping-callout-disabled-auto-open-title = Kontrollori i Shqyrtimeve tanimë, si parazgjedhje, është i mbyllur
+shopping-callout-disabled-auto-open-subtitle = Klikoni mbi ikonën e fashës së çmimeve, kurdo që doni të shihni nëse mund t’i besoni shqyrtimeve të një produkti.
 shopping-callout-disabled-auto-open-button = E mora vesh
 shopping-callout-opted-out-title = Kontrollori i Shqyrtimeve është i çaktivizuar
+shopping-callout-opted-out-subtitle = Për ta rikthyer, klikoni mbi ikonën e fashës së çmimeve, te shtylla e adresave dhe ndiqni hapat.
 shopping-callout-opted-out-button = E mora vesh
 
 ## Onboarding message strings.

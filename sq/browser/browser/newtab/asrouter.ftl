@@ -272,5 +272,6 @@ launch-on-login-infobar-final-reject-button = Jo, faleminderit
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-subtitle = U thoni lamtumirë gjurmuesve të bezdisshëm në reklama dhe hidhni bazat e një punimi më të parrezik, të shpejtë të internetit.
 tail-fox-spotlight-primary-button = Hapi lidhjet e mia me { -brand-short-name }
 tail-fox-spotlight-secondary-button = Jo tani
