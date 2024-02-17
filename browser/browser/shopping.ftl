@@ -180,7 +180,9 @@ shopping-callout-closed-not-opted-in-revised-button = Sym zrozumił
 shopping-callout-not-opted-in-reminder-open-button = Kontrolu pohódnoćenjow wočinić
 shopping-callout-not-opted-in-reminder-close-button = Zaćisnyć
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Hižo so njepokazać
+shopping-callout-disabled-auto-open-title = Kontrola pohódnoćenjow je nětko po standardźe začinjena
 shopping-callout-disabled-auto-open-button = Sym zrozumił
+shopping-callout-opted-out-title = Kontrola pohódnoćenjow je znjemóžnjena
 shopping-callout-opted-out-button = Sym zrozumił
 
 ## Onboarding message strings.
