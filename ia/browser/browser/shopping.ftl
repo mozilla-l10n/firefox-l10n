@@ -173,6 +173,12 @@ shopping-callout-pdp-opted-in-title = Es fidabile iste recensiones? Discoperi lo
 shopping-callout-pdp-opted-in-subtitle = Aperi le verificator de recension pro vider un classification adjustate con le recensiones non fidabile removite. In ultra, vide le evidentias de recente recensiones authentic.
 shopping-callout-closed-not-opted-in-title = Un clic pro recensiones fidabile
 shopping-callout-closed-not-opted-in-subtitle = Prova le verificator de recension quandocunque tu vide le etiquetta del precio. Obtene discernimentos ab real compratores facilemente, ante que tu compra.
+shopping-callout-closed-not-opted-in-revised-title = Un clic pro recensiones fidibile
+shopping-callout-not-opted-in-reminder-close-button = Dimitter
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Non plus monstrar.
+shopping-callout-disabled-auto-open-button = Comprendite
+shopping-callout-opted-out-title = Verificator de recension es disactivate
+shopping-callout-opted-out-button = Comprendite
 
 ## Onboarding message strings.
 
