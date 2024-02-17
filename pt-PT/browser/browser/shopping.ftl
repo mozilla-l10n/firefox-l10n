@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Novas informações para verificar
 shopping-message-bar-warning-stale-analysis-button = Verificar agora
-shopping-message-bar-generic-error-title2 = Nenhuma informação disponível neste momento
-shopping-message-bar-generic-error-message = Estamos a trabalhar para resolver o problema. Por favor, volte em breve.
-shopping-message-bar-warning-not-enough-reviews-title = Ainda não há avaliações suficientes
-shopping-message-bar-warning-not-enough-reviews-message2 = Quando este produto tiver mais avaliações, poderemos verificar a sua qualidade.
-shopping-message-bar-warning-product-not-available-title = O produto não está disponível
-shopping-message-bar-warning-product-not-available-message2 = Se perceber que este produto está novamente em stock, reporte e iremos verificar as avaliações.
-shopping-message-bar-warning-product-not-available-button = Informar que este produto está novamente em stock
-shopping-message-bar-thanks-for-reporting-title = Obrigado por reportar!
-shopping-message-bar-thanks-for-reporting-message2 = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
-shopping-message-bar-warning-product-not-available-reported-title2 = Informações em breve
-shopping-message-bar-warning-product-not-available-reported-message2 = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
 shopping-message-bar-generic-error =
     .heading = Nenhuma informação disponível neste momento
     .message = Estamos a trabalhar para resolver o problema. Por favor, volte em breve.
@@ -69,8 +58,9 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
 shopping-message-bar-analysis-in-progress-title2 = A verificar a qualidade da avaliação
 shopping-message-bar-analysis-in-progress-message2 = Isto pode demorar cerca de 60 segundos.
-shopping-message-bar-page-not-supported-title = Não podemos verificar estas avaliações
-shopping-message-bar-page-not-supported-message = Infelizmente, não podemos verificar a qualidade da avaliação para determinados tipos de produtos. Por exemplo, cartões-presente e streaming de vídeo, música e jogos.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = A verificar a qualidade da avaliação ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Não podemos verificar estas avaliações
     .message = Infelizmente, não podemos verificar a qualidade da avaliação para determinados tipos de produtos. Por exemplo, cartões-presente e streaming de vídeo, música e jogos.
@@ -96,7 +86,6 @@ shopping-settings-label =
     .label = Definições
 shopping-settings-recommendations-toggle =
     .label = Mostrar anúncios no verificador de avaliações
-shopping-settings-recommendations-learn-more = Irá ver anúncios ocasionais de produtos relevantes. Todos os anúncios devem cumprir os nossos padrões de qualidade de avaliação. <a data-l10n-name="review-quality-url">Saiba mais</a>
 shopping-settings-recommendations-learn-more2 = Irá ver anúncios ocasionais de produtos relevantes. Anunciamos apenas produtos com avaliações confiáveis. <a data-l10n-name="review-quality-url">Saiba mais</a>
 shopping-settings-opt-out-button = Desativar o verificador de avaliações
 powered-by-fakespot = O verificador de avaliações é suportado por <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
@@ -121,7 +110,6 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Utilizamos tecnologia de IA da { -fakespot-brand-full-name } para verificar a confiabilidade das avaliações de produtos. Isto ajuda apenas a avaliar a qualidade das avaliações e não a qualidade do produto.
 shopping-analysis-explainer-grades-intro = Atribuímos às avaliações de cada produto uma <strong>classificação baseada em letras</strong> de A a F.
 shopping-analysis-explainer-adjusted-rating-description = A <strong>classificação ajustada</strong> é baseada apenas em avaliações que acreditamos serem confiáveis.
-shopping-analysis-explainer-learn-more = Saiba mais sobre <a data-l10n-name="review-quality-url">como a { -fakespot-brand-full-name } determina a qualidade das avaliações</a>.
 shopping-analysis-explainer-learn-more2 = Saiba mais sobre <a data-l10n-name="review-quality-url">como a { -fakespot-brand-name } determina a qualidade das avaliações</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -137,14 +125,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Abrir Verificador de Avaliações
 shopping-sidebar-close-button2 =
     .tooltiptext = Fechar o Verificador de Avaliações
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -179,7 +159,6 @@ shopping-survey-q2-radio-3-label = Não sei
 shopping-survey-next-button-label = Próximo
 shopping-survey-submit-button-label = Submeter
 shopping-survey-terms-link = Termos de utilização
-shopping-survey-thanks-message = Obrigado pela sua opinião!
 shopping-survey-thanks =
     .heading = Obrigado pela sua opinião!
 
@@ -201,16 +180,8 @@ shopping-onboarding-headline = Experimente o nosso guia confiável para avaliaç
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Veja quão confiáveis são as avaliações de produtos em <b>{ $currentSite }</b> antes de comprar. O Verificador de Avaliações, uma funcionalidade experimental da { -vendor-short-name }, está diretamente integrado no { -brand-product-name } — e funciona também em <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
-# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
-# Variables:
-#   $currentSite (str) - The current shopping page name
-#   $secondSite (str) - A second shopping page name
-#   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Antes de comprar, veja quão confiáveis são as avaliações de produtos em <b>{ $currentSite }</b>. O Verificador de Avaliações, uma funcionalidade experimental do { -brand-product-name }, está diretamente integrado no navegador. Funciona também em <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Com a ajuda da { -fakespot-brand-full-name }, ajudamos a que evite avaliações tendenciosas e falsas. O nosso modelo de IA está sempre a melhorar, para sua proteção, enquanto faz compras. <a data-l10n-name="learn_more">Saiba mais</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Ao selecionar “{ shopping-onboarding-opt-in-button }“ concorda com a <a data-l10n-name="privacy_policy">política de privacidade</a> e <a data-l10n-name="terms_of_use">termos de utilização</a> de  { -fakespot-brand-full-name }.
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Ao selecionar “{ shopping-onboarding-opt-in-button }“ concorda com a <a data-l10n-name="privacy_policy">política de privacidade</a> e <a data-l10n-name="terms_of_use">termos de utilização</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Sim, experimentar
 shopping-onboarding-not-now-button = Agora não
 shopping-onboarding-dialog-close-button =
