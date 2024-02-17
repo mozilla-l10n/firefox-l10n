@@ -192,6 +192,7 @@ shopping-callout-pdp-opted-in-subtitle = Wočińće kontrolu pohódnoćenjow, zo
 shopping-callout-closed-not-opted-in-title = Jedne kliknjenje do spušćomnych pohódnoćenjow
 shopping-callout-closed-not-opted-in-subtitle = Dajće kontroli pohódnoćenjow šansu, hdyžkuli płaćiznowu tafličku widźiće. Dóstańće spěšnje dohlady wot woprawdźitych nakupowarjow – prjedy hač kupujeće.
 shopping-callout-closed-not-opted-in-revised-title = Jedne kliknjenje do dowěry hódnych pohódnoćenjow
+shopping-callout-closed-not-opted-in-revised-subtitle = Klikńće prosće na symbol płaćiznoweje taflički w adresowym polu, zo byšće ke kontroli pohódnoćenjow wróćił.
 shopping-callout-closed-not-opted-in-revised-button = Sym zrozumił
 shopping-callout-not-opted-in-reminder-title = Nakupće z dowěru
 shopping-callout-not-opted-in-reminder-open-button = Kontrolu pohódnoćenjow wočinić
