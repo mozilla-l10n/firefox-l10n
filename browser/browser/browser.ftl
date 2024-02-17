@@ -896,6 +896,10 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Të hapen skeda të mëparshme?</strong> Sesionin tuaj të mëparshëm mund ta riktheni që nga menuja e aplikacionit { -brand-short-name } <img data-l10n-name="icon"/>, nën Historik.
 restore-session-startup-suggestion-button = Tregomëni se si
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Enti juaj e ka bllokuar hyrjen te kartela vendore në këtë kompjuter
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } dërgon vetvetiu disa të dhëna te { -vendor-short-name } që të mund të përmirësojmë punimin e tij për ju.

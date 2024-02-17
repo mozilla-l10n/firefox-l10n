@@ -12,6 +12,7 @@
 
 policy-3rdparty = Caktoni rregulla të cilat WebExtensions mund t’i shohin përmes chrome.storage.managed.
 policy-AllowedDomainsForApps = Përcaktoni përkatësi të lejuara të hyjnë në Google Workspace.
+policy-AllowFileSelectionDialogs = Lejo dialogë përzgjedhjeje kartelash
 policy-AppAutoUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetishme aplikacionesh.
 policy-AppUpdatePin = Pengoje { -brand-short-name }-in të përditësohet tej versionit të treguar.
 policy-AppUpdateURL = Caktoni URL vetjake përditësimi aplikacioni.
