@@ -25,6 +25,7 @@ update-applying = Aktualizácia sa inštaluje…
 update-failed = Aktualizácia zlyhala. <label data-l10n-name="failed-link">Stiahnuť najnovšiu verziu</label>
 update-failed-main = Aktualizácia zlyhala. <a data-l10n-name="failed-link-main">Stiahnuť najnovšiu verziu</a>
 update-adminDisabled = Aktualizácie boli vypnuté správcom systému
+update-policy-disabled = Aktualizácie sú zakázané vašou organizáciou
 update-noUpdatesFound = Používate najnovšiu verziu prehliadača { -brand-short-name }.
 aboutdialog-update-checking-failed = Nepodarilo sa skontrolovať aktualizácie.
 update-otherInstanceHandlingUpdates = { -brand-short-name } sa práve aktualizuje v inej inštancii
