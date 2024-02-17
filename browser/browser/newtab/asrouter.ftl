@@ -239,8 +239,12 @@ fxa-sync-cfr-secondary = Lembrar mais tarde
 device-migration-fxa-spotlight-heavy-user-header = Não se esqueça de fazer uma cópia de segurança dos seus dados
 device-migration-fxa-spotlight-heavy-user-body = Certifique-se que a informação importante – tais como, marcadores e palavras-passe – estão atualizadas e protegidas em todos os seus dispositivos.
 device-migration-fxa-spotlight-heavy-user-primary-button = Começar
+device-migration-fxa-spotlight-older-device-header = Tranquilidade, do { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Uma conta mantém a sua informação importante atualizada e protegida em qualquer dispositivo em que se ligue.
 device-migration-fxa-spotlight-older-device-primary-button = Criar uma conta
 device-migration-fxa-spotlight-getting-new-device-header-2 = Novo dispositivo no seu futuro?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Siga alguns passos simples para ter os seus marcadores, histórico e palavras-passe consigo quando começar num novo dispositivo.
+device-migration-fxa-spotlight-getting-new-device-primary-button = Como efetuar uma cópia de segurança dos meus dados
 
 ## Set as Default PDF Reader Infobar
 
@@ -269,3 +273,11 @@ launch-on-login-infobar-final-reject-button = Não, obrigado
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Mantenha os rastreadores irritantes longe de si
+tail-fox-spotlight-subtitle = Diga adeus aos rastreadores de anúncios irritantes e estabeleça uma experiência de Internet mais segura e rápida.
+tail-fox-spotlight-primary-button = Abrir as minhas ligações com o { -brand-short-name }
+tail-fox-spotlight-secondary-button = Agora não
