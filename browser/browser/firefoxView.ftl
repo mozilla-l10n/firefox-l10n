@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Prebieha synchronizácia
 firefoxview-syncedtabs-loading-description = Po dokončení uvidíte všetky karty, ktoré máte otvorené na iných zariadeniach. Už o chvíľu.
 firefoxview-tabpickup-fxa-admin-disabled-header = Vaša organizácia zakázala synchronizáciu
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemôže synchronizovať karty medzi zariadeniami, pretože váš správca zakázal synchronizáciu.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nemôže synchronizovať karty medzi zariadeniami, pretože vaša organizácia zakázala synchronizáciu.
 firefoxview-tabpickup-network-offline-header = Skontrolujte svoje internetové pripojenie
 firefoxview-tabpickup-network-offline-description = Ak používate bránu firewall alebo proxy, skontrolujte, či má { -brand-short-name } povolenie na prístup na web.
 firefoxview-tabpickup-network-offline-primarybutton = Skúsiť znova
@@ -186,6 +187,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Žiadne výsledky pre “{ $query }”
 firefoxview-sort-history-by-date-label = Usporiadať podľa dátumu
 firefoxview-sort-history-by-site-label = Usporiadať podľa lokality
+firefoxview-sort-open-tabs-by-recency-label = Usporiadať podľa nedávnej aktivity
+firefoxview-sort-open-tabs-by-order-label = Usporiadať podľa poradia kariet
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
