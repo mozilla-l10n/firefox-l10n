@@ -279,6 +279,8 @@ quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print2 = Imprimir página
 quickactions-cmd-print = imprimir
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Guardar página como PDF
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Abrir janela privada
@@ -349,6 +351,7 @@ identity-connection-secure = Ligação segura
 identity-connection-failure = Falha de ligação
 identity-connection-internal = Esta é uma página segura do { -brand-short-name }.
 identity-connection-file = Esta página está armazenada no seu computador.
+identity-connection-associated = Esta página foi carregada de outra página.
 identity-extension-page = Esta página está carregada a partir de uma extensão.
 identity-active-blocked = O { -brand-short-name } bloqueou partes desta página que não são seguras.
 identity-custom-root = Ligação verificada por um emissor de certificados que não é reconhecido pela Mozilla.
@@ -567,6 +570,11 @@ urlbar-result-action-search-w-engine = Pesquisar com { $engine }
 urlbar-result-action-sponsored = Patrocinado
 urlbar-result-action-switch-tab = Mudar para o separador
 urlbar-result-action-visit = Visitar
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Mudar para separador · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Visitar da sua área de transferência
 # Directs a user to press the Tab key to perform a search with the specified
@@ -890,6 +898,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Reabrir os separadores anteriores?</strong> Pode restaurar a sua sessão antiga a partir do menu de aplicação do { -brand-short-name } <img data-l10n-name="icon"/>, em Histórico.
 restore-session-startup-suggestion-button = Mostrar como
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = A sua organização bloqueou o acesso aos ficheiros locais neste computador
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

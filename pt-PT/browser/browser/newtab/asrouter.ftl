@@ -204,6 +204,9 @@ cfr-cbh-confirm-button = Rejeitar faixas de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Agora não
     .accesskey = n
+cookie-banner-blocker-onboarding-header = O { -brand-short-name } acabou de recusar uma faixa de cookies para si
+cookie-banner-blocker-onboarding-body = Menos distrações e menos cookies a monitorizá-lo neste site.
+cookie-banner-blocker-onboarding-learn-more = Saber mais
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -233,11 +236,8 @@ fxa-sync-cfr-secondary = Lembrar mais tarde
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = A utilizar um dispositivo mais antigo?
-device-migration-fxa-spotlight-body = Faça uma cópia dos seus dados para garantir que não perde informações importantes, tais como marcadores e palavras-passe — especialmente se mudar para um novo dispositivo.
-device-migration-fxa-spotlight-primary-button = Como fazer uma cópia dos meus dados
-device-migration-fxa-spotlight-link = Lembrar mais tarde
 device-migration-fxa-spotlight-heavy-user-header = Não se esqueça de fazer uma cópia de segurança dos seus dados
+device-migration-fxa-spotlight-heavy-user-body = Certifique-se que a informação importante – tais como, marcadores e palavras-passe – estão atualizadas e protegidas em todos os seus dispositivos.
 device-migration-fxa-spotlight-heavy-user-primary-button = Começar
 device-migration-fxa-spotlight-older-device-primary-button = Criar uma conta
 device-migration-fxa-spotlight-getting-new-device-header-2 = Novo dispositivo no seu futuro?
@@ -266,3 +266,6 @@ launch-on-login-infobar-reject-button = Agora não
 launch-on-login-infobar-final-message = <strong>Abrir o { -brand-short-name } sempre que reiniciar o seu computador?</strong> Para gerir as suas preferências de inicialização, procure por “Inicialização” nas definições.
 launch-on-login-infobar-final-reject-button = Não, obrigado
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+

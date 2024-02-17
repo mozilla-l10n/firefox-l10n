@@ -347,3 +347,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Este não é um site decetivo…
     .accesskey = d
+menu-report-broken-site =
+    .label = Reportar site com problemas
