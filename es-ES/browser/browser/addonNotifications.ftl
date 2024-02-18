@@ -14,7 +14,6 @@ xpinstall-prompt-message = Está intentando instalar un complemento desde { $hos
 
 xpinstall-prompt-header-unknown = ¿Permitir que un sitio desconocido instale complementos?
 xpinstall-prompt-message-unknown = Estás intentando instalar un complemento desde un sitio desconocido. Asegúrate de que confías en el sitio antes de continuar.
-
 xpinstall-prompt-dont-allow =
     .label = No permitir
     .accesskey = N
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = No se garantiza que este acc
 ##
 
 xpinstall-disabled-locked = La instalación de software ha sido desactivada por el administrador de su sistema.
+xpinstall-disabled-by-policy = La instalación de software ha sido desactivada por su organización.
 xpinstall-disabled = La instalación de software está actualmente desactivada. Pulse Activar y vuelva a intentarlo.
 xpinstall-disabled-button =
     .label = Activar
     .accesskey = c
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,15 +52,20 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) está bloqueado por el administrador del sistema.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = El administrador del sistema evitó que este sitio pida instalar software en su ordenador.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) está bloqueado por su organización.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Su organización impidió que este sitio le pidiera que instalara software en su equipo.
 addon-install-full-screen-blocked = No se permite la instalación de complementos durante o tras acceder al modo de pantalla completa.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } añadido a { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } requiere nuevos permisos
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +81,6 @@ addon-removal-title = ¿Eliminar { $name }?
 addon-removal-message = ¿Eliminar { $name } de { -brand-shorter-name }?
 addon-removal-button = Eliminar
 addon-removal-abuse-report-checkbox = Informar de esta extensión a { -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,7 +89,6 @@ addon-downloading-and-verifying =
        *[other] Descargando y verificando { $addonCount } complementos…
     }
 addon-download-verifying = Verificando
-
 addon-install-cancel-button =
     .label = Cancelar
     .accesskey = C
