@@ -562,6 +562,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Með þessu mælir { $provider }
 home-prefs-recommended-by-description-new = Úrvalsefni í umsjón { $provider }, hluta af { -brand-product-name } fjölskyldunni
+home-prefs-recommended-by-header-generic =
+    .label = Sögur sem mælt er með
 
 ##
 
@@ -1080,10 +1082,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Flýtiaðgerðir
     .accesskey = g
+addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvéla
 addressbar-locbar-showrecentsearches-option =
     .label = Sýna nýlegar leitir
     .accesskey = r
-addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvéla
 addressbar-quickactions-learn-more = Kanna nánar
 
 ## Privacy Section - Content Blocking

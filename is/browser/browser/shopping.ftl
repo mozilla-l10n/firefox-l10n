@@ -64,6 +64,8 @@ shopping-message-bar-analysis-in-progress-with-amount = Athugar gæði umsagna (
 shopping-message-bar-page-not-supported =
     .heading = Við getum ekki athugað þessar umsagnir
     .message = Því miður getum við ekki athugað gæði umsagna fyrir ákveðnar tegundir af vörum. Til dæmis gjafakort og streymd myndskeið, tónlist og leiki.
+shopping-message-bar-keep-closed-dismiss-button = Nei, takk
+shopping-message-bar-keep-closed-accept-button = Já, halda lokuðu
 
 ## Strings for the product review snippets card
 
@@ -173,6 +175,12 @@ shopping-callout-pdp-opted-in-title = Eru þessar umsagnir áreiðanlegar? Finnd
 shopping-callout-pdp-opted-in-subtitle = Opnaðu umsagnaskoðun til að sjá aðlagaða einkunn þar sem óáreiðanlegar umsagnir hafa verið fjarlægðar. Að auki geturðu séð útdrátt úr nýlegum ekta umsögnum.
 shopping-callout-closed-not-opted-in-title = Einn smellur til að fá áreiðanlegar umsagnir
 shopping-callout-closed-not-opted-in-subtitle = Prófaðu umsagnaskoðun í hvert skipti sem þú sérð verðmiða. Fáðu álit frá öðrum raunverulegum kaupendum á  fljótlegan máta - áður en þú verslar.
+shopping-callout-closed-not-opted-in-revised-button = Náði því
+shopping-callout-not-opted-in-reminder-open-button = Opna umsagnaskoðun
+shopping-callout-not-opted-in-reminder-close-button = Hafna
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Ekki sýna þetta aftur
+shopping-callout-disabled-auto-open-button = Náði því
+shopping-callout-opted-out-button = Náði því
 
 ## Onboarding message strings.
 
@@ -188,7 +196,6 @@ shopping-onboarding-dynamic-subtitle-1 = Sjáðu hversu áreiðanlegar vöruumsa
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Sjáðu hversu áreiðanlegar vöruumsagnir eru á <b>{ $currentSite }</b> áður en þú kaupir. Umsagnaskoðun, tilraunaeiginleiki frá { -brand-product-name }, er innbyggður beint inn í vafrann.
 shopping-onboarding-body = Með hjálp { -fakespot-brand-full-name } frá Mozilla, gerum við þér kleift að forðast hlutdrægar og ósannar umsagnir. Gervigreindarlíkanið okkar er alltaf að batna til að vernda þig sem best þegar þú verslar. <a data-l10n-name="learn_more">Frekari upplýsingar</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Með því að velja „{ shopping-onboarding-opt-in-button }“ samþykkir þú <a data-l10n-name="privacy_policy">persónuverndarstefnu</a> og <a data-l10n-name="terms_of_use">notkunarskilmála</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Með því að velja „{ shopping-onboarding-opt-in-button }“ samþykkir þú <a data-l10n-name="privacy_policy">persónuverndarstefnu</a> { -brand-product-name } og <a data-l10n-name="terms_of_use">notkunarskilmála</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Já, prófum það
 shopping-onboarding-not-now-button = Ekki núna
