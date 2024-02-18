@@ -14,7 +14,6 @@ xpinstall-prompt-message = Egy kiegészítőt próbál meg telepíteni innen: { 
 
 xpinstall-prompt-header-unknown = Engedélyezi, hogy egy ismeretlen webhely kiegészítőt telepítsen?
 xpinstall-prompt-message-unknown = Egy kiegészítőt próbál meg telepíteni egy ismeretlen oldalról. Mielőtt folytatná, győződjön meg róla, hogy megbízik-e a webhelyben.
-
 xpinstall-prompt-dont-allow =
     .label = Tiltás
     .accesskey = L
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = Ez a hozzáférés nem garan
 ##
 
 xpinstall-disabled-locked = A szoftvertelepítést a rendszergazda megtiltotta.
+xpinstall-disabled-by-policy = A szoftvertelepítést a szervezete letiltotta.
 xpinstall-disabled = A szoftvertelepítés jelenleg tiltva van. Kattintson az Engedélyezés gombra, és próbálja újra.
 xpinstall-disabled-button =
     .label = Engedélyezés
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,15 +52,20 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = A(z) { $addonName } ({ $addonId }) telepítését a rendszergazda blokkolta.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = A rendszergazda megakadályozta, hogy a webhely engedélyt kérjen szoftver telepítéséhez.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = A(z) { $addonName } ({ $addonId }) telepítését a szervezete blokkolta.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = A szervezete megakadályozta, hogy ez a webhely engedélyt kérjen arra, hogy szoftvert telepítsen a számítógépére.
 addon-install-full-screen-blocked = A kiegészítőtelepítés nem engedélyezett, ha teljes képernyős módban van, vagy abba lép.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } hozzáadva ide: { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = A(z) { $addonName } új engedélyeket igényel
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +81,6 @@ addon-removal-title = Eltávolítja a következőt: { $name }?
 addon-removal-message = Eltávolítja a(z) { $name } kiegészítőt a { -brand-shorter-name }ból?
 addon-removal-button = Eltávolítás
 addon-removal-abuse-report-checkbox = A kiegészítő jelentése a { -vendor-short-name } felé
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,7 +89,6 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } kiegészítő letöltése és ellenőrzése…
     }
 addon-download-verifying = Ellenőrzés
-
 addon-install-cancel-button =
     .label = Mégse
     .accesskey = M
