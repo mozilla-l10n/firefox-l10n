@@ -264,7 +264,7 @@ about-logins-confirm-remove-all-dialog-message2 =
     { $count ->
         [1] यसले { -brand-short-name } मा सुरक्षित गरिएका पासवर्ड र कुनै पनि उल्लङ्घन अलर्टहरू हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुन्न।
         [one] यसले { -brand-short-name } मा सुरक्षित गरिएका पासवर्डहरू र कुनै पनि उल्लङ्घन अलर्टहरू हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुन्न।
-       *[other] { "" }
+       *[other] यसले { -brand-short-name } मा सुरक्षित गरिएका पासवर्डहरू र कुनै पनि उल्लङ्घन अलर्टहरू हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुन्न।
     }
 # Title for modal to confirm the removal of all saved passwords when user IS SYNCED
 about-logins-confirm-remove-all-sync-dialog-title2 =
