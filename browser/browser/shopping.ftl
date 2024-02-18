@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Comprobando la calidad d
 shopping-message-bar-page-not-supported =
     .heading = No podemos comprobar estas reseñas.
     .message = Lamentablemente, no podemos verificar la calidad de las reseñas para ciertos tipos de productos. Por ejemplo, tarjetas de regalo y transmisión de vídeo, música y juegos.
+shopping-message-bar-keep-closed-header =
+    .heading = ¿Mantener cerrado?
+    .message = Puede actualizar su configuración para mantener Review Checker cerrado por defecto. Actualmente, se abre de forma automática.
+shopping-message-bar-keep-closed-dismiss-button = No, gracias.
+shopping-message-bar-keep-closed-accept-button = Sí, mantener cerrado.
 
 ## Strings for the product review snippets card
 
@@ -188,7 +193,6 @@ shopping-onboarding-dynamic-subtitle-1 = Vea si son fiables son las reseñas de 
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Compruebe lo fiables que son las reseñas de productos en <b>{ $currentSite }</b> antes de comprar. El verificador de reseñas, una función experimental de { -brand-product-name }, está integrado directamente en el navegador.
 shopping-onboarding-body = Utilizando la tecnología de { -fakespot-brand-full-name }, le ayudamos a evitar reseñas sesgadas y no auténticas. Nuestro modelo de IA siempre mejora para protegerle mientras compra. <a data-l10n-name="learn_more">Saber más</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Al seleccionar “{ shopping-onboarding-opt-in-button }“, acepta la <a data-l10n-name="privacy_policy">política de privacidad</a> de { -fakespot-brand-name } y <a data-l10n-name="terms_of_use">los términos de uso</a>.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Al seleccionar “{ shopping-onboarding-opt-in-button }“, acepta la <a data-l10n-name="privacy_policy">política de privacidad</a> de { -brand-product-name } y <a data-l10n-name="terms_of_use">los términos de uso</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Si, probarlo
 shopping-onboarding-not-now-button = Ahora no
