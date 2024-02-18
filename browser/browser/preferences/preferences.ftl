@@ -260,6 +260,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Павялічваць толькі тэкст
     .accesskey = т
+preferences-text-zoom-override-warning =
+    .message = Папярэджанне: калі вы выбіраеце «Павялічваць толькі тэкст», а ваш прадвызначаны маштаб не ўсталяваны на 100%, гэта можа прывесці да няспраўнасці некаторых сайтаў або змесціва.
 language-header = Мова
 choose-language-description = Выберыце мовы, якім вы аддаяце перавагу, для прагляду старонак
 choose-button =
@@ -565,6 +567,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Рэкамендавана { $provider }
 home-prefs-recommended-by-description-new = Выключнае змесціва, куратарам якога з'яўляецца { $provider }, частка сям'і { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Рэкамендаваныя гісторыі
 
 ##
 
@@ -1084,10 +1088,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Хуткія дзеянні
     .accesskey = Х
+addressbar-suggestions-settings = Змяніць налады для падказак пашукавіка
 addressbar-locbar-showrecentsearches-option =
     .label = Паказваць апошнія пошукі
     .accesskey = к
-addressbar-suggestions-settings = Змяніць налады для падказак пашукавіка
 addressbar-quickactions-learn-more = Падрабязней
 
 ## Privacy Section - Content Blocking
