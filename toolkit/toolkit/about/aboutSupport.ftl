@@ -200,6 +200,9 @@ media-cdm-capabilities = Hæfni
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Ótruflað á undan
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = HDCP 2.2 samhæft
 
 ##
 
@@ -279,6 +282,7 @@ try-newer-driver = Lokað á fyrir þína útgáfu af skjárekli. Reyndu að upp
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType breytur
 compositing = Samsetning
+support-font-determination = Villuleitarupplýsingar um sýnileika leturs
 hardware-h264 = H264 kóðun í vélbúnaði
 main-thread-no-omtc = aðalþráður, ekkert OMTC
 yes = Já
