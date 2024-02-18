@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Ekki er tryggt að þessi a�
 ##
 
 xpinstall-disabled-locked = Kerfistjóri hefur gert hugbúnaðar uppsetningu óvirka.
+xpinstall-disabled-by-policy = Kerfistjóri hefur gert uppsetningu hugbúnaðar óvirka.
 xpinstall-disabled = Hugbúnaðar uppsetning er óvirk. Smelltu á Virkja og reyndu aftur.
 xpinstall-disabled-button =
     .label = Virkja
@@ -51,6 +52,11 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) hefur verið lokað af kerfisstjóra þínum.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Kerfisstjórinn þinn kom í veg fyrir að vefsvæðið gæti spurt hvort það gæti sett upp hugbúnað á tölvunni.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) hefur verið útilokað af kerfisstjóra þínum.
 addon-install-full-screen-blocked = Uppsetning viðbóta er ekki leyfð í eða áður en farið er í heilskjásham.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.

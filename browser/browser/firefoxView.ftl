@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Samstilling í gangi
 firefoxview-syncedtabs-loading-description = Þegar því er lokið sérðu alla flipa sem þú hefur opna á öðrum tækjum. Komdu hingað aftur fljótlega.
 firefoxview-tabpickup-fxa-admin-disabled-header = Kerfisstjórarnir þínir hafa gert samstillingu óvirka
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } getur ekki samstillt flipa á milli tækja vegna þess að kerfisstjórarnir þínir hafa slökkt á samstillingu.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } getur ekki samstillt flipa á milli tækja vegna þess að kerfisstjórar hafa slökkt á samstillingu.
 firefoxview-tabpickup-network-offline-header = Athugaðu internettenginguna þína
 firefoxview-tabpickup-network-offline-description = Ef þú ert að nota eldvegg eða milliþjón, athugaðu þá hvort { -brand-short-name } hafi heimild til að opna vefinn.
 firefoxview-tabpickup-network-offline-primarybutton = Reyndu aftur
@@ -184,6 +185,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Engar niðurstöður fyrir „{ $query }“
 firefoxview-sort-history-by-date-label = Raða eftir dagsetningu
 firefoxview-sort-history-by-site-label = Raða eftir vefsvæðum
+firefoxview-sort-open-tabs-by-recency-label = Raða eftir nýlegri virkni
+firefoxview-sort-open-tabs-by-order-label = Raða eftir röð flipa
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
