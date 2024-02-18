@@ -569,6 +569,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Выключнае змесціва, куратарам якога з'яўляецца { $provider }, частка сям'і { -brand-product-name }
 home-prefs-recommended-by-header-generic =
     .label = Рэкамендаваныя гісторыі
+home-prefs-recommended-by-description-generic = Выключнае змесціва, курыраванае сям'ёй { -brand-product-name }
 
 ##
 
