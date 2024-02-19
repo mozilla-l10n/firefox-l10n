@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Nid oes gwarant fod y mynedi
 ##
 
 xpinstall-disabled-locked = Mae gosod meddalwedd wedi ei analluogi gan eich gweinyddwr system.
+xpinstall-disabled-by-policy = Mae gosod meddalwedd wedi ei analluogi gan eich sefydliad.
 xpinstall-disabled = Mae gosod meddalwedd wedi ei analluogi. Cliciwch Galluogi a cheisio eto.
 xpinstall-disabled-button =
     .label = Galluogi
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = Mae { $addonName } ({ $addonId }) wedi ei analluogi gan eich gweinyddwr system.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Rhwystrodd eich gweinyddwr systemau y wefan hon rhag gofyn i chi osod meddalwedd ar eich cyfrifiadur.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = Mae { $addonName } ( { $addonId } ) wedi'i rwystro gan eich sefydliad.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Rhwystrodd eich sefydliad y wefan rhag gofyn i chi osod meddalwedd ar eich cyfrifiadur.
 addon-install-full-screen-blocked = Nid yw gosod ychwanegiad yn cael ei ganiatáu wrth fynd i'r modd sgrin lawn neu cyn hynny.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
