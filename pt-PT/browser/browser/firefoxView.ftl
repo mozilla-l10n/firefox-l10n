@@ -184,6 +184,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Nenhum resultado para “{ $query }”
 firefoxview-sort-history-by-date-label = Ordenar por data
 firefoxview-sort-history-by-site-label = Ordenar por site
+firefoxview-sort-open-tabs-by-recency-label = Ordenar por atividade recente
+firefoxview-sort-open-tabs-by-order-label = Ordenar por ordem de separadores
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
