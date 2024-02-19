@@ -204,6 +204,9 @@ shopping-callout-not-opted-in-reminder-img-alt =
 shopping-callout-disabled-auto-open-title = Mae'r Gwirydd Adolygiadau bellach wedi'i gau'n ragosodedig
 shopping-callout-disabled-auto-open-subtitle = Cliciwch yr eicon tag pris yn y bar cyfeiriad pryd bynnag yr hoffech weld a allwch ymddiried yn adolygiadau'r nwyddau.
 shopping-callout-disabled-auto-open-button = Iawn
+shopping-callout-opted-out-title = Mae'r Gwirydd Adolygiadau wedi'i ddiffodd
+shopping-callout-opted-out-subtitle = I'w droi yn ôl ymlaen, cliciwch ar yr eicon tag pris yn y bar cyfeiriad a dilyn y cyfarwyddiadau.
+shopping-callout-opted-out-button = Iawn
 
 ## Onboarding message strings.
 
