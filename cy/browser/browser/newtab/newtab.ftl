@@ -199,6 +199,7 @@ newtab-section-header-recent-activity = Gweithgaredd diweddar
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Argymhellwyd gan { $provider }
+newtab-section-header-stories = Straeon sy’n procio’r meddwl
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -207,6 +208,8 @@ newtab-empty-section-highlights = Cychwynnwch bori ac fe ddangoswn rhai erthygla
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Rydych wedi dal i fynDewch nôl rhywbryd eto am fwy o'r straeon pwysicaf gan { $provider }. Methu aros? Dewiswch bwnc poblogaidd i ganfod straeon da o ar draws y we.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Rydych yn gyfredol. Dewch nôl yn ddiweddarach am fwy o straeon. Methu aros? Dewiswch bwnc poblogaidd i ganfod rhagor o straeon difyr o bob rhan o'r we.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -266,6 +269,9 @@ newtab-custom-pocket-subtitle = Cynnwys eithriadol wedi'i guradu gan { -pocket-b
 newtab-custom-pocket-toggle =
     .label = Argymhellir gan  { -pocket-brand-name }
     .description = Cynnwys eithriadol wedi'i guradu gan { -pocket-brand-name }, rhan o deulu { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Straeon cymeradwy
+    .description = Cynnwys eithriadol wedi'i gasglu gan deulu { -brand-product-name }
 newtab-custom-pocket-sponsored = Straeon wedi'u noddi
 newtab-custom-pocket-show-recent-saves = Dangos pethau gadwyd yn ddiweddar
 newtab-custom-recent-title = Gweithgaredd diweddar

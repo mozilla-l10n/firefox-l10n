@@ -77,6 +77,20 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Dangos Rhagor o Dabiau
     .tooltiptext = Dangos rhagor o dabiau o'r ddyfais hon
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [zero] Dangos dim tabiau anweithredol
+            [one] Dangos un tab anweithredol
+            [two] Dangos { $count } tab anweithredol
+            [few] Dangos { $count } dab anweithredol
+            [many] Dangos { $count } thab anweithredol
+           *[other] Dangos { $count } tab anweithredol
+        }
+    .tooltiptext = Dangos tabiau anweithredol ar y ddyfais hon
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Dim tabiau agored
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -166,6 +180,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Y rhagosodiad sy'n cael ei argymell ar gyfer y rhan fwyaf o ddadfygio apiau gwe, gyda gorbenion isel.

@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Wrthi'n cysoni
 firefoxview-syncedtabs-loading-description = Pan fydd wedi'i wneud, byddwch yn gweld unrhyw dabiau sydd gennych ar agor ar ddyfeisiau eraill. Dewch nôl i weld.
 firefoxview-tabpickup-fxa-admin-disabled-header = Mae eich sefydliad wedi analluogi cydweddu
 firefoxview-tabpickup-fxa-admin-disabled-description = Nid yw { -brand-short-name } yn gallu cydweddu tabiau rhwng dyfeisiau oherwydd bod eich gweinyddwr wedi analluogi cydweddu.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = Nid yw { -brand-short-name } yn gallu cydweddu tabiau rhwng dyfeisiau oherwydd bod eich sefydliad wedi analluogi cydweddu.
 firefoxview-tabpickup-network-offline-header = Gwiriwch eich cysylltiad rhwydwaith
 firefoxview-tabpickup-network-offline-description = Os ydych yn defnyddio mur cadarn neu ddirprwy, gwiriwch fod gan { -brand-short-name } ganiatâd i gael mynediad i'r we.
 firefoxview-tabpickup-network-offline-primarybutton = Ceisiwch eto
@@ -188,6 +189,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Dim canlyniadau ar gyfer "{ $query }"
 firefoxview-sort-history-by-date-label = Trefnu yn ôl dyddiad
 firefoxview-sort-history-by-site-label = Trefnu yn ôl gwefan
+firefoxview-sort-open-tabs-by-recency-label = Trefnu yn ôl gweithgaredd diweddar
+firefoxview-sort-open-tabs-by-order-label = Trefnu yn ôl trefn tabiau
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
