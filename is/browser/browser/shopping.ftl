@@ -64,6 +64,9 @@ shopping-message-bar-analysis-in-progress-with-amount = Athugar gæði umsagna (
 shopping-message-bar-page-not-supported =
     .heading = Við getum ekki athugað þessar umsagnir
     .message = Því miður getum við ekki athugað gæði umsagna fyrir ákveðnar tegundir af vörum. Til dæmis gjafakort og streymd myndskeið, tónlist og leiki.
+shopping-message-bar-keep-closed-header =
+    .heading = Halda lokaðri?
+    .message = Þú getur uppfært stillingarnar þínar þannig að umsagnaskoðun sé sjálfgefið lokuð? Núna opnast hún sjálfkrafa.
 shopping-message-bar-keep-closed-dismiss-button = Nei, takk
 shopping-message-bar-keep-closed-accept-button = Já, halda lokuðu
 
@@ -91,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Þú munt sjá einstaka auglýsingar fyrir tengdar vörur. Allar auglýsingar verða að uppfylla gæðastaðla okkar vegna umsagna. <a data-l10n-name="review-quality-url">Frekari upplýsingar</a>
 shopping-settings-opt-out-button = Slökkva á umsagnaskoðun
 powered-by-fakespot = Umsagnaskoðunin er knúin áfram af <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Opna umsagnaskoðun sjálfkrafa
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Þegar þú skoðar vörur á { $firstSite }, { $secondSite } og { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Þegar þú skoðar vörur á { $currentSite }
+shopping-settings-sidebar-enabled-state = Umsagnaskoðun er <strong>virk</strong>
 
 ## Strings for the adjusted rating component
 
@@ -175,11 +191,21 @@ shopping-callout-pdp-opted-in-title = Eru þessar umsagnir áreiðanlegar? Finnd
 shopping-callout-pdp-opted-in-subtitle = Opnaðu umsagnaskoðun til að sjá aðlagaða einkunn þar sem óáreiðanlegar umsagnir hafa verið fjarlægðar. Að auki geturðu séð útdrátt úr nýlegum ekta umsögnum.
 shopping-callout-closed-not-opted-in-title = Einn smellur til að fá áreiðanlegar umsagnir
 shopping-callout-closed-not-opted-in-subtitle = Prófaðu umsagnaskoðun í hvert skipti sem þú sérð verðmiða. Fáðu álit frá öðrum raunverulegum kaupendum á  fljótlegan máta - áður en þú verslar.
+shopping-callout-closed-not-opted-in-revised-title = Einn smellur til að fá áreiðanlegar umsagnir
+shopping-callout-closed-not-opted-in-revised-subtitle = Smelltu bara á verðmiðatáknið á veffangastikunni til að fara aftur í umsagnaskoðun.
 shopping-callout-closed-not-opted-in-revised-button = Náði því
+shopping-callout-not-opted-in-reminder-title = Verslaðu áhyggjulaust
+shopping-callout-not-opted-in-reminder-subtitle = Ertu ekki viss um hvort umsagnir vöru séu raunverulegar eða falsaðar? Umsagnaskoðun frá { -brand-product-name } getur hjálpað.
 shopping-callout-not-opted-in-reminder-open-button = Opna umsagnaskoðun
 shopping-callout-not-opted-in-reminder-close-button = Hafna
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Ekki sýna þetta aftur
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Skematísk mynd af þremur vöruumsögnum. Ein er með viðvörunartákn sem gefur til kynna að henni sé ekki treystandi.
+shopping-callout-disabled-auto-open-title = Umsagnaskoðun er nú sjálfgefið lokuð
+shopping-callout-disabled-auto-open-subtitle = Smelltu á verðmiðatáknið á veffangastikunni hvenær sem þú vilt sjá hvort þú getur treyst umsögnum við vöru.
 shopping-callout-disabled-auto-open-button = Náði því
+shopping-callout-opted-out-title = Slökkt er á umsagnaskoðun
+shopping-callout-opted-out-subtitle = Til að kveikja aftur á henni skaltu smella á verðmiðatáknið á veffangastikunni og fara eftir leiðbeiningunum.
 shopping-callout-opted-out-button = Náði því
 
 ## Onboarding message strings.

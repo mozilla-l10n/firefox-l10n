@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Stækka/minnka einungis texta
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Viðvörun: Ef þú velur „Stækka/minnka einungis texta“ og sjálfgefni aðdrátturinn þinn er ekki stilltur á 100%, getur það valdið því að sum vefsvæði eða efni verði fyrir hnjaski.
 language-header = Tungumál
 choose-language-description = Veldu þau tungumál sem hafa forgang við birtingu vefsíðu
 choose-button =
@@ -564,6 +566,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Úrvalsefni í umsjón { $provider }, hluta af { -brand-product-name } fjölskyldunni
 home-prefs-recommended-by-header-generic =
     .label = Sögur sem mælt er með
+home-prefs-recommended-by-description-generic = Úrvalsefni sem safnað hefur verið af aðstandendum { -brand-product-name }
 
 ##
 
