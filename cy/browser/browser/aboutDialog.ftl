@@ -25,6 +25,7 @@ update-applying = Wrthi'n gosod y diweddariad…
 update-failed = Methodd y diweddaru. <label data-l10n-name="failed-link">Llwythwch y fersiwn diweddaraf i lawr</label>
 update-failed-main = Methodd y diweddaru. <a data-l10n-name="failed-link-main">Llwythwch y fersiwn diweddaraf i lawr</a>
 update-adminDisabled = Mae'r diweddariad wedi ei analluogi gan eich gweinyddwr
+update-policy-disabled = Diweddariadau wedi'u hanalluogi gan eich sefydliad
 update-noUpdatesFound = Mae { -brand-short-name } yn gyfredol
 aboutdialog-update-checking-failed = Wedi methu â gwirio am ddiweddariadau.
 update-otherInstanceHandlingUpdates = Mae { -brand-short-name } yn cael ei ddiweddaru gan enghraifft arall
