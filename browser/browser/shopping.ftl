@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Wrthi'n gwirio ansawdd a
 shopping-message-bar-page-not-supported =
     .heading = Methu gwirio’r adolygiadau hyn
     .message = Yn anffodus, nid oes modd i ni wirio ansawdd adolygu ar gyfer rhai mathau o gynnyrch. Er enghraifft, cardiau rhodd a ffrydio fideo, cerddoriaeth a gemau.
+shopping-message-bar-keep-closed-header =
+    .heading = Cadw ar gau?
+    .message = Gallwch ddiweddaru eich gosodiadau i gadw'r Gwirydd Adolygiadau ar gau. Ar hyn o bryd, mae'n agor yn awtomatig.
+shopping-message-bar-keep-closed-dismiss-button = Dim diolch
+shopping-message-bar-keep-closed-accept-button = Iawn, ei gadw ar gau
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Byddwch yn gweld hysbysebion achlysurol am gynnyrch perthnasol. Rhaid i bob hysbyseb fodloni ein safonau ansawdd adolygiadau. <a data-l10n-name="review-quality-url">Darllen rhagor</a>
 shopping-settings-opt-out-button = Diffodd y Gwirydd Adolygiadau
 powered-by-fakespot = Mae'r Gwirydd Adolygiadau yn cael ei bweru gan <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Agor y Gwirydd Adolygiadau'n awtomatig
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Pan fyddwch yn edrych ar nwyddau ar { $firstSite } , { $secondSite } a { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Pan fyddwch yn edrych ar nwyddau ar { $currentSite }
+shopping-settings-sidebar-enabled-state = Mae'r Gwirydd Adolygiadau <strong>Ymlaen</strong>
 
 ## Strings for the adjusted rating component
 
@@ -173,6 +191,19 @@ shopping-callout-pdp-opted-in-title = A yw'r adolygiadau hyn yn ddibynadwy? Gwel
 shopping-callout-pdp-opted-in-subtitle = Agorwch y Gwirydd Adolygiadau i weld sgôr wedi'i haddasu gydag adolygiadau annibynadwy wedi'u dileu. Hefyd, gweld y goreuon o adolygiadau dilys diweddar.
 shopping-callout-closed-not-opted-in-title = Un clic i adolygiadau dibynadwy
 shopping-callout-closed-not-opted-in-subtitle = Rhowch gynnig ar y Gwirydd Adolygiadau pryd bynnag y gwelwch y tag pris. Cewch wybodaeth ddefnyddiol gan siopwyr go iawn yn gyflym - cyn i chi brynu.
+shopping-callout-closed-not-opted-in-revised-title = Un clic i adolygiadau dibynadwy
+shopping-callout-closed-not-opted-in-revised-subtitle = Cliciwch ar yr eicon tag pris yn y bar cyfeiriad i fynd nôl i'r Gwirydd Adolygiadau.
+shopping-callout-closed-not-opted-in-revised-button = Iawn
+shopping-callout-not-opted-in-reminder-title = Siopa gyda hyder
+shopping-callout-not-opted-in-reminder-subtitle = Ddim yn siŵr a yw adolygiadau nwyddau'n real neu'n ffug? Gall Gwirydd Adolygiadau { -brand-product-name } eich helpu.
+shopping-callout-not-opted-in-reminder-open-button = Agor y Gwirydd Adolygiadau
+shopping-callout-not-opted-in-reminder-close-button = Cau
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Peidio â dangos eto
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Darlun cryno o dri adolygiad nwyddau. Mae gan un symbol rhybudd sy'n nodi efallai nad yw'n ddibynadwy.
+shopping-callout-disabled-auto-open-title = Mae'r Gwirydd Adolygiadau bellach wedi'i gau'n ragosodedig
+shopping-callout-disabled-auto-open-subtitle = Cliciwch yr eicon tag pris yn y bar cyfeiriad pryd bynnag yr hoffech weld a allwch ymddiried yn adolygiadau'r nwyddau.
+shopping-callout-disabled-auto-open-button = Iawn
 
 ## Onboarding message strings.
 
@@ -188,7 +219,6 @@ shopping-onboarding-dynamic-subtitle-1 = Dyma sut mae gweld pa mor ddibynadwy yw
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Gweld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r Gwirydd Adolygiadau, nodwedd arbrofol gan { -brand-product-name }, wedi'i gynnwys yn y porwr.
 shopping-onboarding-body = Gan ddefnyddio pŵer { -fakespot-brand-full-name }, rydym yn eich helpu i osgoi adolygiadau rhagfarnllyd ac annilys. Mae ein model AI yn gwella'n barhaus i’ch diogelu wrth i chi siopa. <a data-l10n-name="learn_more">Darllen rhagor</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Drwy ddewis “ { shopping-onboarding-opt-in-button }" rydych yn cytuno i <a data-l10n-name="privacy_policy">bolisi preifatrwydd</a> a <a data-l10n-name="terms_of_use">thelerau defnydd { -fakespot-brand-name }.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Trwy ddewis “ { shopping-onboarding-opt-in-button }“ rydych yn cytuno i  <a data-l10n-name="privacy_policy">bolisi preifatrwydd</a> { -brand-product-name } ac  i <a data-l10n-name="terms_of_use">amodau defnyddio</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Iawn, rhoi cynnig arno
 shopping-onboarding-not-now-button = Nid nawr
