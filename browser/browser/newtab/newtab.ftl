@@ -207,6 +207,8 @@ newtab-empty-section-highlights = Byrjaðu að vafra og við sýnum þér fráb�
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Þú hefur lesið allt. Athugaðu aftur síðar eftir fleiri fréttum frá { $provider }. Geturðu ekki beðið? Veldu vinsælt umfjöllunarefni til að finna fleiri áhugaverðar greinar hvaðanæva að af vefnum.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Þú hefur lesið allt. Athugaðu aftur síðar með fleiri fréttir. Geturðu ekki beðið? Veldu vinsælt umfjöllunarefni til að finna fleiri áhugaverðar greinar hvaðanæva að af vefnum.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -262,6 +264,9 @@ newtab-custom-pocket-subtitle = Úrvalsefni í umsjón { -pocket-brand-name }, h
 newtab-custom-pocket-toggle =
     .label = Mælt með af { -pocket-brand-name }
     .description = Úrvalsefni í umsjón { -pocket-brand-name }, hluta af { -brand-product-name } fjölskyldunni
+newtab-custom-stories-toggle =
+    .label = Sögur sem mælt er með
+    .description = Úrvalsefni sem safnað hefur verið af aðstandendum { -brand-product-name }
 newtab-custom-pocket-sponsored = Kostaðar sögur
 newtab-custom-pocket-show-recent-saves = Sýna nýlega vistað
 newtab-custom-recent-title = Nýleg virkni

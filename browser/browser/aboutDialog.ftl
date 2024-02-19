@@ -25,6 +25,7 @@ update-applying = Virkja uppfærslu…
 update-failed = Uppfærsla mistókst. <label data-l10n-name="failed-link">Sækja nýjustu útgáfuna</label>
 update-failed-main = Uppfærsla mistókst. <a data-l10n-name="failed-link-main">Sækja nýjustu útgáfuna</a>
 update-adminDisabled = Uppfærslur hafa verið gerðar óvirkar af kerfistjóra
+update-policy-disabled = Uppfærslur gerðar óvirkar af kerfisstjóra
 update-noUpdatesFound = { -brand-short-name } er þegar með nýjustu útgáfu
 aboutdialog-update-checking-failed = Mistókst að athuga með uppfærslur.
 update-otherInstanceHandlingUpdates = Verið er að uppfæra { -brand-short-name } annarstaðar
