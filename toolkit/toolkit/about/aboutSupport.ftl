@@ -200,6 +200,9 @@ media-cdm-capabilities = Galluoedd
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Cychwyn Clir (Clear Lead)
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = Yn gydnaws â HDCP 2.2
 
 ##
 
@@ -299,6 +302,7 @@ try-newer-driver = Wedi ei rwystro ar gyfer eich gyrrwr graffigol chi. Ceisiwch 
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paramedrau ClearType
 compositing = Cyfosod
+support-font-determination = Manylion Dadfygio Gwelededd Ffont
 hardware-h264 = Dadgodio Caledwedd H264
 main-thread-no-omtc = prif drywydd, dim OMTC
 yes = Iawn
