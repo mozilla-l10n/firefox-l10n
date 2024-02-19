@@ -168,7 +168,7 @@ show-tabs-in-taskbar =
     .label = Lapok előnézetének megjelenítése a Windows tálcán
     .accesskey = L
 browser-containers-enabled =
-    .label = Konténer lapok engedélyezése
+    .label = Konténerlapok engedélyezése
     .accesskey = n
 browser-containers-learn-more = További tudnivalók
 browser-containers-settings =
@@ -665,7 +665,7 @@ search-keyword-warning-bookmark = Olyan kulcsszót választott, amelyet jelenleg
 
 containers-back-button2 =
     .aria-label = Vissza a Beállításokhoz
-containers-header = Konténer lapok
+containers-header = Konténerlapok
 containers-add-button =
     .label = Új konténer hozzáadása
     .accesskey = a
@@ -1080,10 +1080,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Gyors műveletek
     .accesskey = r
+addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállításainak módosítása
 addressbar-locbar-showrecentsearches-option =
     .label = Legutóbbi keresések megjelenítése
     .accesskey = L
-addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállításainak módosítása
 addressbar-quickactions-learn-more = További tudnivalók
 
 ## Privacy Section - Content Blocking
