@@ -203,7 +203,6 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Rimuovi questo contenitore
 containers-remove-cancel-button = Non rimuovere questo contenitore
-
 settings-tabs-show-image-in-preview =
     .label = Mostra un’anteprima quando si passa il puntatore sopra una scheda
     .accessKey = h
@@ -431,7 +430,7 @@ update-setting-write-failure-title2 = Errore durante il salvataggio delle impost
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-
+    
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -908,7 +907,7 @@ forms-master-pw-change =
     .label = Cambia la password principale…
     .accesskey = w
 forms-primary-pw-change =
-    .label = Cambia la password principale…
+    .label = Cambia password principale…
     .accesskey = w
 # Leave this message empty if the translation for "Primary Password" matches
 # "Master Password" in your language. If you're editing the FTL file directly,
@@ -920,7 +919,6 @@ forms-windows-sso =
     .label = Consenti single sign-on di Windows per account Microsoft, del lavoro o della scuola
 forms-windows-sso-learn-more-link = Ulteriori informazioni
 forms-windows-sso-desc = Gestisci account nelle impostazioni del dispositivo
-
 windows-passkey-settings-label = Gestisci passkey nelle impostazioni di sistema
 
 ## OS Authentication dialog
@@ -1011,7 +1009,6 @@ sitedata-delete-on-close =
     .accesskey = c
 sitedata-delete-on-close-private-browsing = Se la modalità Navigazione anonima è sempre attiva, i cookie e i dati dei siti web verranno eliminati alla chiusura di { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = In base alle impostazioni della cronologia, i cookie e i dati dei siti web verranno eliminati alla chiusura di { -brand-short-name }.
-
 sitedata-allow-cookies-option =
     .label = Accetta cookie e dati dei siti web
     .accesskey = A
@@ -1088,10 +1085,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Azioni rapide
     .accesskey = z
+addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerimenti dei motori di ricerca
 addressbar-locbar-showrecentsearches-option =
     .label = Mostra ricerche recenti
     .accesskey = r
-addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerimenti dei motori di ricerca
 addressbar-quickactions-learn-more = Ulteriori informazioni
 
 ## Privacy Section - Content Blocking
@@ -1396,4 +1393,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
