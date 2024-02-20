@@ -203,8 +203,7 @@ cfr-cbh-confirm-button = Avvis infokapselbannere
     .accesskey = A
 cfr-cbh-dismiss-button = Ikke nå
     .accesskey = k
-cookie-banner-blocker-cfr-header = { -brand-short-name } blokkerte nettopp infokapsler for deg
-cookie-banner-blocker-cfr-body = Vi nekter automatisk mange sprettoppvinduer for infokapsler for å gjøre det vanskelig for nettsteder å spore deg.
+cookie-banner-blocker-onboarding-header = { -brand-short-name } blokkerte nettopp en infokapselbanner for deg
 cookie-banner-blocker-onboarding-body = Mindre distraksjoner, mindre infokapsler som sporer deg på denne siden.
 cookie-banner-blocker-onboarding-learn-more = Les mer
 
@@ -270,3 +269,14 @@ launch-on-login-infobar-reject-button = Ikke nå
 launch-on-login-infobar-final-message = <strong>Åpne { -brand-short-name } hver gang du starter datamaskinen på nytt?</strong> For å behandle oppstartsinnstillingene dine, søk etter «oppstart» i innstillingene.
 launch-on-login-infobar-final-reject-button = Nei takk
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Hold irriterende sporings-tjenester på avstand
+tail-fox-spotlight-subtitle = Si farvel til irriterende annonse-sporere og opplev en sikrere, raskere internettopplevelse.
+tail-fox-spotlight-primary-button = Åpne lenkene mine med { -brand-short-name }
+tail-fox-spotlight-secondary-button = Ikke nå

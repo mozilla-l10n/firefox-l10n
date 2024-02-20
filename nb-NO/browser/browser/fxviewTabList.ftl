@@ -59,3 +59,7 @@ fxviewtabrow-options-menu-button =
 #   $tabTitle (string) - Title of tab being muted
 fxviewtabrow-mute-tab-button =
     .title = Demp { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = Slå på lyden for { $tabTitle }

@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Forstørr bare tekst
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Advarsel: Hvis du velger «Forstørr bare tekst» og standardzoomen ikke er satt til 100 %, kan det føre til at enkelte nettsteder eller innhold ikke fungerer korrekt.
 language-header = Språk
 choose-language-description = Velg foretrukket språk på nettsider
 choose-button =
@@ -562,6 +564,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Anbefalt av { $provider }
 home-prefs-recommended-by-description-new = Eksepsjonelt innhold satt sammen av { $provider }, en del av { -brand-product-name }-familien
+home-prefs-recommended-by-header-generic =
+    .label = Anbefalte artikler
+home-prefs-recommended-by-description-generic = Enestående innhold kuratert av { -brand-product-name }-familien
 
 ##
 
@@ -1003,6 +1008,7 @@ sitedata-delete-on-close =
     .label = Slett infokapsler og nettsteddata når { -brand-short-name } stenger
     .accesskey = S
 sitedata-delete-on-close-private-browsing = I permanent privat nettlesingsmodus vil infokapsler og nettstedsdata alltid bli slettet når { -brand-short-name } er avsluttet.
+sitedata-delete-on-close-private-browsing2 = Basert på historikkinnstillingene dine, sletter { -brand-short-name } infokapsler og nettstedsdata fra økten din når du lukker nettleseren.
 sitedata-allow-cookies-option =
     .label = Tillat infokapsler og nettstedsdata
     .accesskey = a
@@ -1079,10 +1085,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hurtige handlinger
     .accesskey = H
+addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis nylige søk
     .accesskey = V
-addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 addressbar-quickactions-learn-more = Les mer
 
 ## Privacy Section - Content Blocking
