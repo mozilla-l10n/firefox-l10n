@@ -30,4 +30,5 @@ more-from-moz-firefox-relay-button = Få { -relay-brand-short-name }
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Ta automatisk tilbake den eksponerte personlige informasjonen din.
+more-from-moz-mozilla-monitor-global-description = Få varsler når dataene dine har vært i en datalekkasje.
 more-from-moz-mozilla-monitor-button = Få { -monitor-brand-short-name }
