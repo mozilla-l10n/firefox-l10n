@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = fane
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Ukjent opprinnelse
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Faner som deler enheter
     .accesskey = e
-
 webrtc-sharing-window = Du deler et annet programvindu.
 webrtc-sharing-browser-window = Du deler { -brand-short-name }.
 webrtc-sharing-screen = Du deler hele skjermen.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Velg deling
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Velg deling på «{ $streamTitle }»
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Deler kamera med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Deler kamera med { $tabCount } fane
            *[other] Deler kamera med { $tabCount } faner
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Deler mikrofon med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Deler mikrofon med { $tabCount } fane
            *[other] Deler mikrofon med { $tabCount } faner
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Deler et program med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Deler et program med { $tabCount } fane
            *[other] Deler programmer med { $tabCount } faner
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Deler skjerm med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Deler skjerm med { $tabCount } fane
            *[other] Deler skjerm med { $tabCount } faner
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Deler et vindu med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Deler et vindu med { $tabCount } fane
            *[other] Deler vinduer med { $tabCount } faner
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Deler en fane med «{ $streamTitle }»
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,20 @@ webrtc-allow-share-camera-and-audio-capture = Tillate { $origin } å bruke kamer
 webrtc-allow-share-screen-and-microphone = Tillate { $origin } å bruke mikrofonen og se din skjerm?
 webrtc-allow-share-screen-and-audio-capture = Tillate { $origin } å høre på denne fanens lyd og se din skjerm?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Tillate denne lokale filen å høre på denne fanens lyd?
+webrtc-allow-share-camera-with-file = Tillate denne lokale filen å bruke kameraet?
+webrtc-allow-share-microphone-with-file = Tillate denne lokale filen å bruke mikrofonen?
+webrtc-allow-share-screen-with-file = Tillate denne lokale filen å se skjermen din?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Tillate denne lokale filen å bruke andre høyttalere?
+webrtc-allow-share-camera-and-microphone-with-file = Tillate denne lokale filen å bruke kameraet og mikrofonen?
+webrtc-allow-share-camera-and-audio-capture-with-file = Tillate denne lokale filen å bruke kameraet og høre på denne fanens lyd?
+webrtc-allow-share-screen-and-microphone-with-file = Tillate denne lokale filen å bruke mikrofonen og se din skjerm?
+webrtc-allow-share-screen-and-audio-capture-with-file = Tillate denne lokale filen å høre på denne fanens lyd og se din skjerm?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +185,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Tillate { $origi
 
 webrtc-share-screen-warning = Del skjermen din kun med sider du har tiltro til. Deling kan la villedende sider surfe som deg og stjele dine private data.
 webrtc-share-browser-warning = Del { -brand-short-name } din kun med sider du har tiltro til. Deling kan la villedende sider surfe som deg og stjele dine private data.
-
 webrtc-share-screen-learn-more = Les mer
 webrtc-pick-window-or-screen = Velg vindu eller skjerm
 webrtc-share-entire-screen = Hele skjermen
@@ -221,7 +220,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Husk denne avgjørelsen
 webrtc-mute-notifications-checkbox = Slå av nettstedsvarsler mens du deler
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan ikke tillate permanent tilgang til din skjerm.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikke tillate permanent tilgang til fanens lyd uten å spørre hvilken fane du vil dele.
 webrtc-reason-for-no-permanent-allow-insecure = Tilkoblingen til dette nettstedet er ikke sikkert. For å beskytte deg, vil { -brand-short-name } bare tillate tilgang for denne økten.

@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Kontrollerer vurderingss
 shopping-message-bar-page-not-supported =
     .heading = Vi kan ikke sjekke disse vurderingene
     .message = Dessverre kan vi ikke sjekke kvaliteten på vurderinger for visse typer produkter. Eksempler på dette er gavekort og strømming av video, musikk og spill.
+shopping-message-bar-keep-closed-header =
+    .heading = Holde stengt?
+    .message = Du kan oppdatere innstillingene dine for å holde vurderingskontrolløren stengt som standard. Akkurat nå åpnes den automatisk.
+shopping-message-bar-keep-closed-dismiss-button = Nei takk
+shopping-message-bar-keep-closed-accept-button = Ja, la den være stengt
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Du ser sporadiske annonser for relevante produkter. Vi annonserer kun produkter med pålitelige anmeldelser. <a data-l10n-name="review-quality-url">Les mer</a>
 shopping-settings-opt-out-button = Slå av vurderingskontrolløren
 powered-by-fakespot = Vurderingskontrolløren drives av <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Åpne vurderingskontrolløren automatisk
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Når du ser på produkter på { $firstSite }, { $secondSite } og { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Når du ser på produkter på { $currentSite }
+shopping-settings-sidebar-enabled-state = Vurderingskontrollør er <strong>på</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,22 @@ shopping-callout-pdp-opted-in-title = Er disse vurderingene pålitelige? Finn ra
 shopping-callout-pdp-opted-in-subtitle = Åpne vurderingskontrolløren for å se en justert vurdering med upålitelige vurderinger fjernet. I tillegg kan du se høydepunkter fra nylige autentiske vurderinger.
 shopping-callout-closed-not-opted-in-title = Ett klikk til pålitelige vurderinger
 shopping-callout-closed-not-opted-in-subtitle = Prøv vurderingskontrolløren hver gang du ser prislappen. Få innsikt fra ekte kunder raskt, før du kjøper.
+shopping-callout-closed-not-opted-in-revised-title = Ett klikk til pålitelige vurderinger
+shopping-callout-closed-not-opted-in-revised-subtitle = Klikk på prislappikonet i adresselinjen for å gå tilbake til vurderingskontrolløren.
+shopping-callout-closed-not-opted-in-revised-button = Jeg forstår
+shopping-callout-not-opted-in-reminder-title = Handle med selvtillit
+shopping-callout-not-opted-in-reminder-subtitle = Ikke sikker på om anmeldelser av et produkt er ekte eller falske? Vurderingskontrolløren fra { -brand-product-name } kan hjelpe.
+shopping-callout-not-opted-in-reminder-open-button = Åpne vurderingskontrollør
+shopping-callout-not-opted-in-reminder-close-button = Ignorer
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Ikke vis igjen
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstrakt illustrasjon av tre produktanmeldelser. En har et advarselssymbol som indikerer at den kanskje ikke er pålitelig.
+shopping-callout-disabled-auto-open-title = Vurderingskontrolløren er nå stengt som standard
+shopping-callout-disabled-auto-open-subtitle = Klikk på prislappikonet i adresselinjen når du vil se om du kan stole på et produkts vurderinger.
+shopping-callout-disabled-auto-open-button = Jeg forstår
+shopping-callout-opted-out-title = Vurderingskontrollør er av
+shopping-callout-opted-out-subtitle = For å slå den på igjen, klikk på prislappikonet i adresselinjen og følg instruksjonene.
+shopping-callout-opted-out-button = Jeg forstår
 
 ## Onboarding message strings.
 
@@ -186,7 +220,6 @@ shopping-onboarding-dynamic-subtitle-1 = Se hvor pålitelige produktvurderinger 
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Se hvor pålitelige produktvurderinger er på <b>{ $currentSite }</b> før du handler. Vurderingskontrollør, en eksperimentell funksjon fra { -brand-product-name }, er innebygd rett i nettleseren.
 shopping-onboarding-body = Ved å bruke kraften til { -fakespot-brand-full-name } hjelper vi deg å unngå ensidige og ikke-troverdige vurderinger. AI-modellen vår blir alltid bedre for å beskytte deg mens du handler. <a data-l10n-name="learn_more">Les mer</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Ved å velge «{ shopping-onboarding-opt-in-button }» godtar du { -fakespot-brand-name } sine <a data-l10n-name="privacy_policy">personvernbestemmelser</a> og <a data-l10n-name="terms_of_use">brukervilkår.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Ved å velge «{ shopping-onboarding-opt-in-button }» godtar du { -brand-product-name } sine <a data-l10n-name="privacy_policy">personvernbestemmelser</a> og { -fakespot-brand-name } sine <a data-l10n-name="terms_of_use">brukervilkår.</a>
 shopping-onboarding-opt-in-button = Ja, prøv det
 shopping-onboarding-not-now-button = Ikke nå
