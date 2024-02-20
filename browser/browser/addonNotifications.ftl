@@ -14,7 +14,6 @@ xpinstall-prompt-message = Du forsøker å installere et tillegg fra { $host }. 
 
 xpinstall-prompt-header-unknown = Tillat et ukjent nettsted å installere en utvidelse?
 xpinstall-prompt-message-unknown = Du forsøker å installere en utvidelse fra en ukjent nettside. Fortsett kun, hvis du stoler på nettstedet.
-
 xpinstall-prompt-dont-allow =
     .label = Ikke tillat
     .accesskey = k
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = Denne tilgangen er ikke gara
 ##
 
 xpinstall-disabled-locked = Programvareinstallasjon er avslått av systemansvarlig.
+xpinstall-disabled-by-policy = Programvareinstallasjon er deaktivert av organisasjonen din.
 xpinstall-disabled = Programvareinstallasjon er avslått akkurat nå. Trykk på «Tillat» for å slå det på, og prøv igjen.
 xpinstall-disabled-button =
     .label = Tillat
     .accesskey = a
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,15 +52,20 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) blokkeres av din systemadministrator.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Systemadministratoren din forhindret dette nettstedet fra å spørre deg om å installere programvare på datamaskinen din.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) blokkeres av organisasjonen din.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Organisasjonen din forhindret dette nettstedet fra å spørre deg om å installere programvare på datamaskinen din.
 addon-install-full-screen-blocked = Utvidelsesinstallasjon er ikke tillatt mens du er i eller før du går inn i fullskjermmodus.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } lagt til i { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } krever nye tillatelser
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +81,6 @@ addon-removal-title = Fjern { $name }?
 addon-removal-message = Fjern { $name } fra { -brand-shorter-name }?
 addon-removal-button = Fjern
 addon-removal-abuse-report-checkbox = Rapporter denne utvidelsen til { -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,7 +89,6 @@ addon-downloading-and-verifying =
        *[other] Laster ned og kontrollerer { $addonCount } utvidelser …
     }
 addon-download-verifying = Kontrollerer
-
 addon-install-cancel-button =
     .label = Avbryt
     .accesskey = A
