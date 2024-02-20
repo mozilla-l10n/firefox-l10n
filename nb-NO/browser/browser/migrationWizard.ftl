@@ -278,8 +278,8 @@ migration-wizard-progress-success-formdata = Skjemahistorikk
 #  $quantity (Number): the number of successfully imported payment methods
 migration-wizard-progress-success-payment-methods =
     { $quantity ->
-        [one] { $quantity } betalingsmåte
-       *[other] { $quantity } betalingsmåter
+        [one] { $quantity } betalingsmetode
+       *[other] { $quantity } betalingsmetoder
     }
 migration-wizard-safari-permissions-sub-header = Slik importerer du Safari-bokmerker og nettleserhistorikk:
 migration-wizard-safari-instructions-continue = Velg «Fortsett»
