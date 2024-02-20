@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = PIN-kodebehandling
 about-webauthn-credential-management-section-title = Behandle innloggingsdetaljer
 about-webauthn-pin-required-section-title = PIN-kode kreves
 about-webauthn-confirm-deletion-section-title = Bekreft sletting
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biometriske registreringer
 
 ## Info field texts
 
@@ -27,6 +29,8 @@ about-webauthn-text-select-device = Velg ønsket sikkerhets-token ved å berøre
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Kan ikke behandle alternativer fordi sikkerhets-tokenet ditt ikke støtter CTAP2.
 about-webauthn-text-not-available = Ikke tilgjengelig på denne plattformen.
+about-webauthn-bio-enrollment-list-subsection-title = Registreringer
+about-webauthn-add-bio-enrollment-section-title = Legg til ny registrering
 
 ## Results label
 
@@ -41,6 +45,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Feil: Feil PIN-kode. Prøv igjen. Du har { $retriesLeft } forsøk igjen.
     }
 about-webauthn-results-pin-blocked-error = Feil: Det er ingen forsøk igjen, og enheten din har blitt låst, fordi feil PIN-kode ble oppgitt for mange ganger. Enheten må tilbakestilles.
+about-webauthn-results-pin-not-set-error = Feil: PIN-kode er ikke angitt. Denne operasjonen trenger PIN-kodebeskyttelse.
 about-webauthn-results-pin-too-short-error = Feil: Den angitte PIN-koden er for kort.
 about-webauthn-results-pin-too-long-error = Feil: Den angitte PIN-koden er for lang.
 about-webauthn-results-pin-auth-blocked-error = Feil: Det var for mange mislykkede forsøk på rad, og PIN-kodeautentisering er midlertidig blokkert. Enheten din trenger å bli startet om (trekk ut strømkabelen og sett inn igjen).
@@ -53,6 +58,8 @@ about-webauthn-repeat-pin-label = Gjenta ny PIN-kode:
 about-webauthn-current-pin-label = Gjeldende PIN-kode:
 about-webauthn-pin-required-label = Skriv inn PIN-koden din:
 about-webauthn-credential-list-subsection-title = Innloggingsdetaljer:
+about-webauthn-enrollment-name-label = Registreringsnavn (valgfritt):
+about-webauthn-enrollment-list-empty = Finner ingen registreringer på enheten.
 about-webauthn-credential-list-empty = Fant ingen innloggingsdetaljer på enheten.
 about-webauthn-confirm-deletion-label = Du er i ferd med å slette:
 
@@ -62,9 +69,14 @@ about-webauthn-current-set-pin-button = Sett PIN-kode
 about-webauthn-current-change-pin-button = Endre PIN-kode
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = List opp innloggingsdetaljer
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Vis registreringer
+about-webauthn-add-bio-enrollment-button = Legg til registrering
 about-webauthn-cancel-button = Avbryt
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Slett
+about-webauthn-start-enrollment-button = Start registrering
+about-webauthn-update-button = Oppdater
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
@@ -128,3 +140,22 @@ about-webauthn-auth-info-true = True
 # Shows when boolean value for an info field is False. False should not be translated.
 about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Ikke støttet
+
+## Bio enrollment sample feedbacks
+
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } avlesning trenges fortsatt.
+       *[other] { $repeatCount } avlesninger trenges fortsatt.
+    }
+
+## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
+
+
+##
+
