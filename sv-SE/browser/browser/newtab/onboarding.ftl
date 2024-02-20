@@ -349,6 +349,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Tack för att du använder 
 onboarding-new-user-time-based-survey-title = Hur länge har du använt { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = Hur bekant är du med { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Din feedback hjälper till att göra { -brand-short-name } ännu bättre.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Nästa
+onboarding-new-user-survey-legal-link-label = Genom att välja "{ onboarding-new-user-survey-next-button-label }" godkänner du { -brand-product-name }:s <a data-l10n-name="privacy_notice">sekretesspolicy</a >
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Jag är ny
 onboarding-new-user-survey-time-based-option-2 = Mindre än 1 månad

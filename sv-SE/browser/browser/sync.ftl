@@ -33,3 +33,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Skicka en flik direkt till alla enheter du är inloggad på.
 fxa-menu-sign-out =
     .label = Logga ut…
+fxa-menu-sync-title = Sync
+fxa-menu-sync-description = Kom åt din webb var som helst

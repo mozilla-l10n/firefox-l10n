@@ -272,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Tillägg för utvecklare
 appmenuitem-report-broken-site =
     .label = Rapportera trasig webbplats
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Logga in på ditt konto
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Få varningar om dataintrång
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Dölj din riktiga e-post och telefon
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Skydda din onlineaktivitet
