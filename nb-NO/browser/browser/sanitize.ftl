@@ -58,9 +58,16 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Historikk
     .accesskey = H
+item-history-form-data-downloads-description = Renser nettsteds- og nedlastingshistorikken, lagret skjemainformasjon og søk
 item-cookies =
     .label = Infokapsler
     .accesskey = I
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Infokapsler og nettstedsdata ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Infokapsler og nettstedsdata
     .accesskey = n
@@ -71,6 +78,12 @@ item-active-logins =
 item-cache =
     .label = Hurtiglager for nettsider
     .accesskey = H
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Midlertidig bufrede filer og sider ({ $amount } { $unit })
+    .accesskey = f
 item-cached-content =
     .label = Midlertidig bufrede filer og sider
     .accesskey = M
