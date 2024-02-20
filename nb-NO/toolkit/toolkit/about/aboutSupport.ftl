@@ -282,6 +282,7 @@ try-newer-driver = Blokkert av grafikkdriveren. Prøv å oppdatere grafikkdriver
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-parametere
 compositing = Kompositt
+support-font-determination = Feilsøkingsinformasjon for skriftsynlighet
 hardware-h264 = Hardware H264 dekoding
 main-thread-no-omtc = hovedtråd, ingen OMTC
 yes = Ja
