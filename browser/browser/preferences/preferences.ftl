@@ -260,6 +260,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Збільшувати лише текст
     .accesskey = к
+preferences-text-zoom-override-warning =
+    .message = Попередження: якщо ви вибрали “Збільшувати лише текст”, а типовий масштаб не встановлено на 100%, це може призвести до пошкодження деяких сайтів або вмісту.
 language-header = Мова
 choose-language-description = Оберіть бажану мову для показу вебсторінок
 choose-button =
@@ -565,6 +567,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Рекомендації від { $provider }
 home-prefs-recommended-by-description-new = Добірні матеріали від { $provider }, що входить до родини { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Рекомендовані матеріали
+home-prefs-recommended-by-description-generic = Виняткові матеріали, відібрані командою { -brand-product-name }
 
 ##
 
@@ -1084,10 +1089,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Швидкі дії
     .accesskey = Ш
+addressbar-suggestions-settings = Змінити налаштування пропозицій засобів пошуку
 addressbar-locbar-showrecentsearches-option =
     .label = Показати останні пошуки
     .accesskey = о
-addressbar-suggestions-settings = Змінити налаштування пропозицій засобів пошуку
 addressbar-quickactions-learn-more = Докладніше
 
 ## Privacy Section - Content Blocking

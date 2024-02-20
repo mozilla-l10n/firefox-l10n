@@ -198,6 +198,7 @@ newtab-section-header-recent-activity = Нещодавня активність
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Рекомендації від { $provider }
+newtab-section-header-stories = Розповіді, що спонукають замислитися
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -206,6 +207,8 @@ newtab-empty-section-highlights = Почніть перегляд, і тут з'
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Готово. Перевірте згодом, щоб побачити більше матеріалів від { $provider }. Не хочете чекати? Оберіть популярну тему, щоб знайти більше цікавих матеріалів з усього Інтернету.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Готово. Перевірте згодом, щоб побачити більше матеріалів. Не хочете чекати? Оберіть популярну тему, щоб знайти більше цікавих матеріалів з усього Інтернету.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -262,6 +265,9 @@ newtab-custom-pocket-subtitle = Добірні матеріали від { -pock
 newtab-custom-pocket-toggle =
     .label = Рекомендації від { -pocket-brand-name }
     .description = Добірні матеріали від { -pocket-brand-name }, що входить до родини { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Рекомендовані матеріали
+    .description = Виняткові матеріали, відібрані командою { -brand-product-name }
 newtab-custom-pocket-sponsored = Матеріали від спонсорів
 newtab-custom-pocket-show-recent-saves = Показати останні збереження
 newtab-custom-recent-title = Недавня активність
