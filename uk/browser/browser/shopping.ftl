@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Перевірка як�
 shopping-message-bar-page-not-supported =
     .heading = Ми не можемо перевірити ці відгуки
     .message = На жаль, ми не можемо перевірити якість відгуків для певних типів товарів, як-от: подарункових карток, стримінгових відео, музики й ігор.
+shopping-message-bar-keep-closed-header =
+    .heading = Не відкривати?
+    .message = Ви можете оновити налаштування, щоб засіб перевірки відгуків не відкривався. Зараз він відкривається автоматично.
+shopping-message-bar-keep-closed-dismiss-button = Ні, дякую
+shopping-message-bar-keep-closed-accept-button = Так, не відкривати
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Ви періодично бачитимете рекламу схожих товарів. Ми рекламуємо лише продукти, які мають надійні відгуки. <a data-l10n-name="review-quality-url">Докладніше</a>
 shopping-settings-opt-out-button = Вимкнути засіб перевірки відгуків
 powered-by-fakespot = Засіб перевірки відгуків розроблено на базі <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Автоматично відкривати засіб перевірки відгуків
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Коли ви переглядаєте товари на { $firstSite }, { $secondSite } і { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Коли ви переглядаєте товари на { $currentSite }
+shopping-settings-sidebar-enabled-state = Перевірку відгуків <strong>увімкнено</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,18 @@ shopping-callout-pdp-opted-in-title = Чи надійні ці відгуки? �
 shopping-callout-pdp-opted-in-subtitle = Відкрийте засіб перевірки відгуків, щоб переглянути скоригований рейтинг із вилученими ненадійними відгуками. Крім того, перегляньте основні моменти з останніх автентичних відгуків.
 shopping-callout-closed-not-opted-in-title = Надійні відгуки одним натисканням кнопки
 shopping-callout-closed-not-opted-in-subtitle = Користуйтесь засобом перевірки відгуків щоразу, коли побачите цінник. Швидко отримуйте інформацію від реальних покупців перед купівлею.
+shopping-callout-closed-not-opted-in-revised-title = Надійні відгуки одним натисканням кнопки
+shopping-callout-closed-not-opted-in-revised-subtitle = Просто натисніть піктограму цінника в адресному рядку, щоб повернутися до засобу перевірки відгуків.
+shopping-callout-closed-not-opted-in-revised-button = Зрозуміло
+shopping-callout-not-opted-in-reminder-title = Купуйте впевнено
+shopping-callout-not-opted-in-reminder-subtitle = Не впевнені, чи відгукам про товар варто довіряти? Засіб перевірки відгуків від { -brand-product-name } може допомогти.
+shopping-callout-not-opted-in-reminder-open-button = Відкрити засіб перевірки відгуків
+shopping-callout-not-opted-in-reminder-close-button = Відхилити
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Більше не показувати
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Абстрактна ілюстрація трьох відгуків про товар. Один має попереджувальний символ, який вказує на те, що він може бути ненадійним.
+shopping-callout-disabled-auto-open-title = Засіб перевірки відгуків тепер не відкриватиметься
+shopping-callout-disabled-auto-open-subtitle = Натисніть піктограму цінника в адресному рядку щоразу, коли ви хочете перевірити, чи можна довіряти відгукам про товар.
 
 ## Onboarding message strings.
 
@@ -186,7 +216,6 @@ shopping-onboarding-dynamic-subtitle-1 = Впевніться у надійно�
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Перш ніж купувати щось, перегляньте надійні відгуки на <b>{ $currentSite }</b>. Засіб перевірки відгуків – експериментальна функція від { -brand-product-name }, вбудована безпосередньо в браузер.
 shopping-onboarding-body = Використовуючи можливості { -fakespot-brand-full-name }, ми допомагаємо вам уникнути упереджених і несправжніх відгуків. Наша модель ШІ постійно вдосконалюється, щоб захистити вас під час покупок. <a data-l10n-name="learn_more">Докладніше</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Натискаючи “{ shopping-onboarding-opt-in-button }“, ви погоджуєтеся з <a data-l10n-name="privacy_policy">Політикою приватності</a> та <a data-l10n-name="terms_of_use">Умовами користування</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Натискаючи “{ shopping-onboarding-opt-in-button }“, ви погоджуєтеся з <a data-l10n-name="privacy_policy">Політикою приватності</a>  { -brand-product-name } та <a data-l10n-name="terms_of_use">Умовами користування</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Так, спробувати
 shopping-onboarding-not-now-button = Не зараз

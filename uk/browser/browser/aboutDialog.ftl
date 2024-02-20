@@ -25,6 +25,7 @@ update-applying = Оновлення застосовується…
 update-failed = Не вдалося оновити. <label data-l10n-name="failed-link">Завантажити останню версію</label>
 update-failed-main = Не вдалося оновити. <a data-l10n-name="failed-link-main">Завантажити останню версію</a>
 update-adminDisabled = Оновлення вимкнені системним адміністратором
+update-policy-disabled = Оновлення вимкнено вашою організацією
 update-noUpdatesFound = { -brand-short-name } не потребує оновлення
 aboutdialog-update-checking-failed = Не вдалося перевірити наявність оновлень.
 update-otherInstanceHandlingUpdates = Оновлення { -brand-short-name } проводиться іншим процесом

@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Виконується синхроні�
 firefoxview-syncedtabs-loading-description = По її завершенню ви побачите всі вкладки, відкриті на інших пристроях. Перевірте це незабаром.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ваша організація вимкнула синхронізацію
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не може синхронізувати вкладки між пристроями, тому що ваш адміністратор вимкнув синхронізацію.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } не може синхронізувати вкладки між пристроями, оскільки ваша організація вимкнула синхронізацію.
 firefoxview-tabpickup-network-offline-header = Перевірте своє з'єднання з інтернетом
 firefoxview-tabpickup-network-offline-description = Якщо ви користуєтеся мережевим екраном чи проксі, переконайтеся, що { -brand-short-name } має дозвіл на доступ до інтернету.
 firefoxview-tabpickup-network-offline-primarybutton = Спробувати знову
@@ -185,6 +186,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Немає результатів для “{ $query }”
 firefoxview-sort-history-by-date-label = Сортувати за датою
 firefoxview-sort-history-by-site-label = Сортувати за сайтом
+firefoxview-sort-open-tabs-by-recency-label = Сортувати за останньою активністю
+firefoxview-sort-open-tabs-by-order-label = Сортувати за порядком вкладок
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
