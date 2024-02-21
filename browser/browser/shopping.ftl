@@ -91,6 +91,8 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Tu videra avisos publicitari occasional pro productos pertinente. Nos solo clama productos con recensiones fidabile. <a data-l10n-name="review-quality-url">Pro saper plus</a>
 shopping-settings-opt-out-button = Disactivar verificator de recension
 powered-by-fakespot = Verificator de recension es supportate per <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Aperir automaticamente Verificator de recension
 
 ## Strings for the adjusted rating component
 
