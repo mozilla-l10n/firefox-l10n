@@ -272,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Viðbætur fyrir forritara
 appmenuitem-report-broken-site =
     .label = Tilkynna bilað vefsvæði
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Skráðu þig inn á notandaaðganginn þinn
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Fáðu tilkynningar um gagnainnbrot
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Hyldu raunverulegt tölvupóstfang og símanúmerið þitt
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Verndaðu friðhelgi þína á netinu

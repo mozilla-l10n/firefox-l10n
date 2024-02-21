@@ -33,3 +33,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Sendu flipa samstundis í hvaða tæki sem þú ert skráð/ur inn á.
 fxa-menu-sign-out =
     .label = Útskrá…
+fxa-menu-sync-title = Samstilla
+fxa-menu-sync-description = Fáðu aðgang að vefnum þínum hvar sem er
