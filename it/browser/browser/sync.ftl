@@ -44,3 +44,4 @@ fxa-menu-sign-out =
 
 fxa-menu-sync-title = Sincronizzazione
 fxa-menu-sync-description = Il tuo Web, ovunque ti trovi
+
