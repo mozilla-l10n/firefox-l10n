@@ -337,6 +337,9 @@ onboarding-gratitude-security-and-privacy-subtitle = 感謝您使用由 Mozilla 
 onboarding-new-user-time-based-survey-title = 您已經使用 { -brand-short-name } 多久了？
 onboarding-new-user-familiarity-based-survey-title = 您對 { -brand-short-name } 有多熟悉？
 onboarding-new-user-survey-subtitle = 您的意見回饋可協助讓 { -brand-short-name } 變得更好。
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = 下一步
+onboarding-new-user-survey-legal-link-label = 選擇「{ onboarding-new-user-survey-next-button-label }」，代表您同意 { -brand-product-name } 的<a data-l10n-name="privacy_notice">隱私權公告</a>
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = 我剛開始使用
 onboarding-new-user-survey-time-based-option-2 = 不到 1 個月

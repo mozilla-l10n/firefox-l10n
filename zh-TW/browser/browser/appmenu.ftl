@@ -268,3 +268,13 @@ appmenu-developer-tools-extensions =
     .label = 開發者專用的擴充套件
 appmenuitem-report-broken-site =
     .label = 回報網站問題
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = 登入您的帳號
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = 獲得資料外洩警報
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = 隱藏您的實際信箱與電話號碼
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = 保護您的線上行為隱私
