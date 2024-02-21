@@ -275,3 +275,5 @@ appmenuitem-sign-in-account = 계정에 로그인
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = 데이터 유출 알림 받기
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = 실제 이메일과 전화를 가리세요
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
