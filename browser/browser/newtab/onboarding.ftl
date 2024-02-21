@@ -350,6 +350,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Diolch am ddefnyddio { -bra
 onboarding-new-user-time-based-survey-title = Ers pryd ydych chi wedi bod yn defnyddio { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = Pa mor gyfarwydd ydych chi â { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Mae eich adborth yn helpu i wneud { -brand-short-name } yn well fyth.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Nesaf
+onboarding-new-user-survey-legal-link-label = Trwy ddewis “{ onboarding-new-user-survey-next-button-label },” rydych yn cytuno i <a data-l10n-name="privacy_notice">Hysbysiad Preifatrwydd</a> { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Rwy'n hollol newydd
 onboarding-new-user-survey-time-based-option-2 = Llai nag 1 mis
