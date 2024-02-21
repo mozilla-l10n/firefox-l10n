@@ -279,6 +279,8 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Přizjewće so pola swojeho konta
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Dóstańće warnowanja wo datowych dźěrach
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Maskěrujće swoju woprawdźitu e-mejlowu adresu a swój telefon
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Škitajće swoju aktiwitu online
