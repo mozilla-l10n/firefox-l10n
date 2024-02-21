@@ -22,15 +22,3 @@ webconsole-commands-usage-unblock =
   Interrompi blocco delle richieste di rete
 
     Accetta un solo parametro, la stessa stringa passata in precedenza al comando :block.
-
-# Usage string for :trace command
-webconsole-commands-usage-trace =
-  :trace
-
-  Attiva/disattiva il tracer JavaScript
-
-    Supporta i seguenti parametri:
-      --logMethod Impostare a “console” per registrare nella console web (predefinito), oppure “stdout” per registrare nell’output standard.
-      --prefix Stringa opzionale che verrà anteposta a tutti i registri del tracciamento.
-      --help o --usage per visualizzare questo messaggio.
-

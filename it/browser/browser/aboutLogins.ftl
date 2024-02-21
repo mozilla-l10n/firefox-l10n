@@ -225,7 +225,6 @@ about-logins-confirm-remove-all-sync-dialog-title =
        *[other] Rimuovere { $count } credenziali da tutti i dispositivi?
     }
 about-logins-confirm-remove-all-sync-dialog-message = Questa operazione rimuoverà le credenziali salvate in { -brand-short-name } su tutti i dispositivi sincronizzati con l’{ -fxaccount-brand-name }. Anche i relativi avvisi sulle violazioni verranno rimossi. Non sarà possibile annullare questa operazione.
-about-logins-confirm-remove-all-sync-dialog-message2 = Questa operazione rimuoverà le credenziali salvate in { -brand-short-name } su tutti i dispositivi sincronizzati con il tuo account. Anche i relativi avvisi sulle violazioni verranno rimossi. Non sarà possibile annullare questa operazione.
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -430,4 +429,3 @@ about-logins-import-report-error =
 ## Logins import report page
 
 about-logins-import-report-page-title = Riepilogo importazione
-
