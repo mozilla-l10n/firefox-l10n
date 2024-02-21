@@ -159,3 +159,4 @@ about-webauthn-samples-still-needed =
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Ingen aktivitet fra bruker.
