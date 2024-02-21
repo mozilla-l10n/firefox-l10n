@@ -352,6 +352,7 @@ onboarding-new-user-familiarity-based-survey-title = Kak derje znajeće { -brand
 onboarding-new-user-survey-subtitle = Waše měnjenja { -brand-short-name } samo polěpšeja.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Dale
+onboarding-new-user-survey-legal-link-label = Hdyž „{ onboarding-new-user-survey-next-button-label }“ wuběraće, zwoliće do <a data-l10n-name="privacy_notice">zdźělenki priwatnosće</a> { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Sym cyle nowy
 onboarding-new-user-survey-time-based-option-2 = Mjenje hač 1 měsac
