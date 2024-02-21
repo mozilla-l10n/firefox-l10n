@@ -64,6 +64,7 @@ shopping-message-bar-analysis-in-progress-with-amount = Санҷиши сифа�
 shopping-message-bar-page-not-supported =
     .heading = Мо ин тақризҳоро тафтиш карда наметавонем
     .message = Мутаассифона, мо наметавонем сифати тақризҳоро барои баъзе намудҳои маҳсулот тафтиш кунем. Масалан, барои кортҳои ёдгорӣ, видеоҳои пахши мустақим, мусиқӣ ва бозиҳо.
+shopping-message-bar-keep-closed-dismiss-button = Не, ташаккур
 
 ## Strings for the product review snippets card
 
@@ -172,6 +173,10 @@ shopping-callout-pdp-opted-in-subtitle = Барои дидани баҳодиҳ�
 shopping-callout-closed-not-opted-in-title = Барои гирифтани тақризҳои боэътимод танҳо як маротиба зер кунед
 shopping-callout-closed-not-opted-in-subtitle = Ҳар вақте ки шумо барчаспи нархро мебинед, истифодаи абзори тафтиши тақризҳоро кӯшиш намоед. Пеш аз хирид — маълумоти таҷрибавиро аз харидорони воқеи ба даст оред.
 shopping-callout-closed-not-opted-in-revised-button = Фаҳмидам
+shopping-callout-not-opted-in-reminder-close-button = Нодида гузарондан
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Дигар нишон дода нашавад
+shopping-callout-disabled-auto-open-button = Фаҳмидам
+shopping-callout-opted-out-button = Фаҳмидам
 
 ## Onboarding message strings.
 
