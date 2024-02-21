@@ -272,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Geliştiricilere özel uzantılar
 appmenuitem-report-broken-site =
     .label = Bozuk siteyi rapor et
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Hesabınıza giriş yapın
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Veri ihlali uyarıları alın
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Gerçek e-posta adresinizi ve telefon numaranızı maskeleyin
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Çevrimiçi etkinliklerinizi koruyun
