@@ -350,6 +350,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Bedankt voor het gebruik va
 onboarding-new-user-time-based-survey-title = Hoe lang gebruikt u { -brand-short-name } al?
 onboarding-new-user-familiarity-based-survey-title = Hoe bekend bent u met { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Uw feedback helpt { -brand-short-name } nog beter te maken.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Volgende
+onboarding-new-user-survey-legal-link-label = Door ‘{ onboarding-new-user-survey-next-button-label }’ te selecteren, gaat u akkoord met de <a data-l10n-name="privacy_notice">Privacyverklaring</a> van { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Ik ben helemaal nieuw
 onboarding-new-user-survey-time-based-option-2 = Minder dan een maand

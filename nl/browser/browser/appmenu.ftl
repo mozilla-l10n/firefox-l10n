@@ -272,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Extensies voor ontwikkelaars
 appmenuitem-report-broken-site =
     .label = Niet-werkende website melden
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Aanmelden bij uw account
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Ontvang waarschuwingen over datalekken
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Maskeer uw echte e-mailadres en telefoonnummer
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Bescherm uw online activiteit
