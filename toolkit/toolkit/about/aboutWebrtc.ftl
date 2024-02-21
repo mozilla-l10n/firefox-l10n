@@ -36,8 +36,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = I file di registro creati sono 
 # The autorefresh checkbox causes the page to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Aggiorna automaticamente
 
-about-webrtc-auto-refresh-default-label = Aggiorna automaticamente per impostazione predefinita
-
 about-webrtc-force-refresh-button = Aggiorna
 
 
@@ -343,10 +341,3 @@ about-webrtc-hide-msg-sdp = Nascondi SDP
 about-webrtc-media-context-show-msg = Mostra contesto multimediale
 about-webrtc-media-context-hide-msg = Nascondi contesto multimediale
 about-webrtc-media-context-heading = Contesto multimediale
-
-##
-
-
-
-
-
