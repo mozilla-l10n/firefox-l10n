@@ -274,3 +274,13 @@ appmenu-developer-tools-extensions =
     .label = Rozšyrjenja za wuwijarje
 appmenuitem-report-broken-site =
     .label = Wobškóźone sedło k wěsći daś
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Pśizjawśo se pla swójogo konta
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Dostańśo warnowanja wó datowych źěrach
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Maskěrujśo swóju napšawdnu e-mailowu adresu a swój telefon
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Šćitajśo swóju aktiwitu online

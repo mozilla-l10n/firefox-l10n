@@ -350,6 +350,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Wjeliki źěk, až { -brand
 onboarding-new-user-time-based-survey-title = Kak dłujko { -brand-short-name } južo wužywaśo?
 onboarding-new-user-familiarity-based-survey-title = Kak se z { -brand-short-name } wuznajośo?
 onboarding-new-user-survey-subtitle = Waše měnjenja { -brand-short-name } samo pólěpšuju.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Dalej
+onboarding-new-user-survey-legal-link-label = Gaž „{ onboarding-new-user-survey-next-button-label }“ wuběraśo, zwólijośo do <a data-l10n-name="privacy_notice">powěźeńki priwatnosći</a> { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Som cele nowy
 onboarding-new-user-survey-time-based-option-2 = Mjenjej ako 1 mjasec
