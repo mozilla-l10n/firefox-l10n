@@ -350,6 +350,8 @@ onboarding-gratitude-security-and-privacy-subtitle = Mozilla Vakfı tarafından 
 onboarding-new-user-time-based-survey-title = { -brand-short-name } tarayıcısını ne zamandır kullanıyorsunuz?
 onboarding-new-user-familiarity-based-survey-title = { -brand-short-name } tarayıcısını kadar tanıyorsunuz?
 onboarding-new-user-survey-subtitle = Geri bildiriminiz { -brand-short-name } tarayıcısını daha da iyileştirmemize yardımcı oluyor.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = İleri
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Yeni kullanmaya başladım
 onboarding-new-user-survey-time-based-option-2 = 1 aydan az
