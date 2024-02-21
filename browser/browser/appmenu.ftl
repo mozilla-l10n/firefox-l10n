@@ -272,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Extensiones para desarrolladores
 appmenuitem-report-broken-site =
     .label = Informar sitio que no carga
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Conéctate a tu cuenta
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Recibir alertas de filtraciones de datos
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Enmascara tu correo electrónico y teléfono reales
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Protege tu actividad en línea
