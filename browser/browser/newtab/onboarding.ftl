@@ -349,6 +349,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Cảm ơn bạn đã sử d
 onboarding-new-user-time-based-survey-title = Bạn đã sử dụng { -brand-short-name } được bao lâu rồi?
 onboarding-new-user-familiarity-based-survey-title = Bạn quen thuộc với { -brand-short-name } đến mức nào?
 onboarding-new-user-survey-subtitle = Phản hồi của bạn giúp { -brand-short-name } trở nên tốt hơn nữa.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Tiếp theo
+onboarding-new-user-survey-legal-link-label = Bằng cách chọn “{ onboarding-new-user-survey-next-button-label },” bạn đã đồng ý với <a data-l10n-name="privacy_notice">thông báo về quyền riêng tư</a> của { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Tôi là người mới
 onboarding-new-user-survey-time-based-option-2 = Ít hơn 1 tháng
