@@ -276,4 +276,8 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = כניסה לחשבון שלך
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = קבלת התרעות על דליפות נתונים
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = מיסוך כתובת הדוא״ל והטלפון האמיתיים שלך
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = הגנה על הפעילות המקוונת שלך

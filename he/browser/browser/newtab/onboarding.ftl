@@ -295,12 +295,16 @@ onboarding-device-migration-primary-button-label = כניסה
 onboarding-easy-setup-security-and-privacy-title = אנחנו אוהבים לשמור עליך
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = להישאר מוצפן במעבר בין מכשירים
+onboarding-gratitude-security-and-privacy-subtitle = תודה לך על השימוש ב־{ -brand-short-name }ֿ, שפועל בגיבוי קרן Mozilla. עם התמיכה שלך, אנו פועלים כדי להפוך את האינטרנט לבטוח ונגיש יותר למען הכלל.
 
 ## New user time and familiarity survey strings
 
 onboarding-new-user-time-based-survey-title = במשך כמה זמן השתמשת ב־{ -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = עד כמה { -brand-short-name } מוכר לך?
 onboarding-new-user-survey-subtitle = המשוב שלך עוזר להפוך את { -brand-short-name } לטוב עוד יותר.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = הבא
+onboarding-new-user-survey-legal-link-label = בחירה ב״{ onboarding-new-user-survey-next-button-label }״ מהווה הסכמה ל<a data-l10n-name="privacy_notice">הצהרת הפרטיות</a> של { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = אני חדש לגמרי
 onboarding-new-user-survey-time-based-option-2 = פחות מחודש
