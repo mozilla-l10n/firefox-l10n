@@ -305,7 +305,7 @@ main-context-menu-use-saved-password =
 ##
 
 main-context-menu-use-relay-mask =
-    .label = { -relay-brand-short-name } 이메일 마스크 사용
+    .label = { -relay-brand-short-name } 이메일 가리기 사용
     .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = 강력한 비밀번호 제안…

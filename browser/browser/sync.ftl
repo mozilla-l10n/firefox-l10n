@@ -29,3 +29,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = 로그인한 모든 기기로 즉시 탭을 보냅니다.
 fxa-menu-sign-out =
     .label = 로그아웃…
+fxa-menu-sync-title = Sync
+fxa-menu-sync-description = 어디서나 웹에 접근하세요
