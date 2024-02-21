@@ -348,6 +348,8 @@ onboarding-gratitude-security-and-privacy-subtitle = Баҳри истифода
 ## New user time and familiarity survey strings
 
 onboarding-new-user-time-based-survey-title = Шумо аз браузери «{ -brand-short-name }» чанд вақт боз истифода мебаред?
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Навбатӣ
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Ман комилан нав ҳастам
 onboarding-new-user-survey-time-based-option-2 = Камтар аз 1 моҳ
