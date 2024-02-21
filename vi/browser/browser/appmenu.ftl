@@ -268,3 +268,13 @@ appmenu-developer-tools-extensions =
     .label = Tiện ích mở rộng dành cho nhà phát triển
 appmenuitem-report-broken-site =
     .label = Báo cáo trang web bị hỏng
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Đăng nhập vào tài khoản của bạn
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Nhận cảnh báo rò rỉ dữ liệu
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Che giấu email và điện thoại thật của bạn
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Bảo vệ hoạt động trực tuyến của bạn
