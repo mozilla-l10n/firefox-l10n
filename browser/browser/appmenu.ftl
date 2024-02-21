@@ -272,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Extensiones pro disveloppatores
 appmenuitem-report-broken-site =
     .label = Reportar sito corrupte
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Accede a tu conto
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Obtener alertas de violation de datos
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Masca tu email e numero de telephono real
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Protege tu activitate online
