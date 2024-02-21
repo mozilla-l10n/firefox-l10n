@@ -24,11 +24,9 @@ autofill-options-link-osx = Preferenze compilazione automatica moduli
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizza le carte salvate in tutti i dispositivi
-
 # Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Salvare questa carta in modo sicuro?
 credit-card-save-doorhanger-description = { -brand-short-name } critta il numero della tua carta. Il codice di sicurezza non verrà salvato.
-
 credit-card-capture-save-button =
     .label = Salva
     .accessKey = S
@@ -43,11 +41,23 @@ credit-card-capture-never-save-button =
 
 credit-card-update-doorhanger-header = Aggiornare la carta?
 credit-card-update-doorhanger-description = Carta da aggiornare:
-
 credit-card-capture-save-new-button =
     .label = Salva come nuova carta
     .accessKey = n
 credit-card-capture-update-button =
     .label = Aggiorna carta esistente
     .accessKey = A
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = Gestisci indirizzi
 
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
