@@ -349,6 +349,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Благодарим вас
 onboarding-new-user-time-based-survey-title = Как долго вы используете { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = Насколько вы знакомы с { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Ваш отзыв поможет сделать { -brand-short-name } ещё лучше.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Далее
+onboarding-new-user-survey-legal-link-label = Нажимая «{ onboarding-new-user-survey-next-button-label }», вы соглашаетесь с <a data-l10n-name="privacy_notice">Уведомлением о конфиденциальности { -brand-product-name }</a>
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Я новичок
 onboarding-new-user-survey-time-based-option-2 = Менее 1 месяца
