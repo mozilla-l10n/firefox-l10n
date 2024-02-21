@@ -276,3 +276,13 @@ appmenu-developer-tools-extensions =
     .label = Estyniadau ar gyfer Datblygwyr
 appmenuitem-report-broken-site =
     .label = Adrodd ar wefan wedi torri
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Mewngofnodwch i'ch cyfrif
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Cael rhybuddion tor-data
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Cuddiwch eich e-bost a'ch ffôn go iawn
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Diogelwch eich preifatrwydd ar-lein
