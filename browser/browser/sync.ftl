@@ -29,3 +29,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = 立即傳送分頁到任何您登入過的裝置。
 fxa-menu-sign-out =
     .label = 登出…
+fxa-menu-sync-title = Sync
+fxa-menu-sync-description = 隨時隨地開啟您的網頁
