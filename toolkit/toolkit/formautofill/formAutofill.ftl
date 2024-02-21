@@ -7,14 +7,14 @@
 
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-use-payment-method-os-prompt-macos = bruk lagret informasjon om betalingsmetode
-autofill-use-payment-method-os-prompt-windows = { -brand-short-name } prøver å bruke lagret informasjon om betalingsmetode. Bekreft tilgang til denne Windows-kontoen nedenfor.
-autofill-use-payment-method-os-prompt-other = { -brand-short-name } prøver å bruke lagret informasjon om betalingsmetode.
+autofill-use-payment-method-os-prompt-macos = bruk lagret informasjon om betalingsmåte
+autofill-use-payment-method-os-prompt-windows = { -brand-short-name } prøver å bruke lagret informasjon om betalingsmåte. Bekreft tilgang til denne Windows-kontoen nedenfor.
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } prøver å bruke lagret informasjon om betalingsmåte.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-edit-payment-method-os-prompt-macos = vis lagret informasjon om betalingsmetode
-autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } prøver å vise lagret informasjon om betalingsmetode. Bekreft tilgang til denne Windows-kontoen nedenfor.
-autofill-edit-payment-method-os-prompt-other = { -brand-short-name } prøver å vise lagret informasjon om betalingsmetode.
+autofill-edit-payment-method-os-prompt-macos = vis lagret informasjon om betalingsmåte
+autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } prøver å vise lagret informasjon om betalingsmåte. Bekreft tilgang til denne Windows-kontoen nedenfor.
+autofill-edit-payment-method-os-prompt-other = { -brand-short-name } prøver å vise lagret informasjon om betalingsmåte.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Innstillinger for autoutfylling av skjema
 autofill-options-link-osx = Innstillinger for autoutfylling av skjema

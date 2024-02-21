@@ -80,7 +80,7 @@ migration-passwords-option-label = Lagrede passord
 migration-history-option-label = Nettleserhistorikk
 migration-extensions-option-label = Utvidelser
 migration-form-autofill-option-label = Autofylldata for skjema
-migration-payment-methods-option-label = Betalingsmetoder
+migration-payment-methods-option-label = Betalingsmåter
 migration-cookies-option-label = Infokapsler
 migration-session-option-label = Vinduer og faner
 migration-otherdata-option-label = Andre data
@@ -173,7 +173,7 @@ migration-list-password-label = passord
 migration-list-history-label = historikk
 migration-list-extensions-label = utvidelser
 migration-list-autofill-label = autofylldata
-migration-list-payment-methods-label = betalingsmetoder
+migration-list-payment-methods-label = betalingsmåter
 
 ##
 
@@ -278,8 +278,8 @@ migration-wizard-progress-success-formdata = Skjemahistorikk
 #  $quantity (Number): the number of successfully imported payment methods
 migration-wizard-progress-success-payment-methods =
     { $quantity ->
-        [one] { $quantity } betalingsmetode
-       *[other] { $quantity } betalingsmetoder
+        [one] { $quantity } betalingsmåte
+       *[other] { $quantity } betalingsmåter
     }
 migration-wizard-safari-permissions-sub-header = Slik importerer du Safari-bokmerker og nettleserhistorikk:
 migration-wizard-safari-instructions-continue = Velg «Fortsett»
