@@ -277,3 +277,4 @@ appmenuitem-monitor-description = 데이터 유출 알림 받기
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = 실제 이메일과 전화를 가리세요
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = 온라인 활동을 보호하세요

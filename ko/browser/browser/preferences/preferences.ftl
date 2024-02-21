@@ -861,9 +861,9 @@ forms-breach-alerts =
     .accesskey = b
 forms-breach-alerts-learn-more-link = 더 알아보기
 preferences-relay-integration-checkbox =
-    .label = 이메일 주소를 보호하기 위해 { -relay-brand-name } 이메일 마스크 제안
+    .label = 이메일 주소를 보호하기 위해 { -relay-brand-name } 이메일 가리기 제안
 preferences-relay-integration-checkbox2 =
-    .label = 이메일 주소를 보호하기 위해 { -relay-brand-name } 이메일 마스크 제안
+    .label = 이메일 주소를 보호하기 위해 { -relay-brand-name } 이메일 가리기 제안
     .accesskey = r
 relay-integration-learn-more-link = 더 알아보기
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
