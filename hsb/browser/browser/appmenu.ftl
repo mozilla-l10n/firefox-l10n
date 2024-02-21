@@ -274,3 +274,11 @@ appmenu-developer-tools-extensions =
     .label = Rozšěrjenja za wuwiwarjow
 appmenuitem-report-broken-site =
     .label = Wobškodźene sydło zdźělić
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Přizjewće so pola swojeho konta
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Škitajće swoju aktiwitu online

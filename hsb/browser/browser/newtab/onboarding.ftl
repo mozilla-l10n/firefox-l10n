@@ -350,6 +350,8 @@ onboarding-gratitude-security-and-privacy-subtitle = Wulki dźak, zo { -brand-sh
 onboarding-new-user-time-based-survey-title = Kak dołho { -brand-short-name } hižo wužiwaće?
 onboarding-new-user-familiarity-based-survey-title = Kak derje znajeće { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Waše měnjenja { -brand-short-name } samo polěpšeja.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Dale
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Sym cyle nowy
 onboarding-new-user-survey-time-based-option-2 = Mjenje hač 1 měsac
