@@ -283,4 +283,6 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } a souten
 ## New user time and familiarity survey strings
 
 onboarding-new-user-time-based-survey-title = Pegeit zo emaoc’h oc’h implij { -brand-short-name }?
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = War-lerc’h
 onboarding-new-user-survey-time-based-option-2 = Nebeutoc’h eget 1 miz
