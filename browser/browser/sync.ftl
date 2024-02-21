@@ -33,3 +33,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Stuur een tabblad direct naar elk apparaat waarop u bent aangemeld.
 fxa-menu-sign-out =
     .label = Afmelden…
+fxa-menu-sync-title = Synchronisatie
+fxa-menu-sync-description = Overal toegang tot uw internet
