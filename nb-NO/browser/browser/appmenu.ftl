@@ -272,3 +272,12 @@ appmenu-developer-tools-extensions =
     .label = Extensions for Developers
 appmenuitem-report-broken-site =
     .label = Rapporter problem med et nettsted
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Logg inn på kontoen din
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Få varsler om datalekkasjer
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Beskytt din nettaktivitet
