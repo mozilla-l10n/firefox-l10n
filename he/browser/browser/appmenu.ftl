@@ -271,3 +271,9 @@ appmenu-developer-tools-extensions =
     .label = הרחבות עבור מפתחים
 appmenuitem-report-broken-site =
     .label = דיווח על אתר שבור
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = כניסה לחשבון שלך
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
