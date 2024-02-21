@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Ідзе сінхранізацыя
 firefoxview-syncedtabs-loading-description = Па заканчэнні вы ўбачыце ўсе карткі, адкрытыя на іншых прыладах. Праверце пазней.
 firefoxview-tabpickup-fxa-admin-disabled-header = У ваша арганізацыі сінхранізацыя адключана
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не можа сінхранізаваць карткі паміж прыладамі, таму што ваш адміністратар адключыў сінхранізацыю.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } не можа сінхранізаваць карткі паміж прыладамі, таму што ваша арганізацыя адключыла сінхранізацыю.
 firefoxview-tabpickup-network-offline-header = Праверце падлучэнне да Інтэрнэту
 firefoxview-tabpickup-network-offline-description = Калі вы карыстаецеся фаерволам або проксі, пераканайцеся, што { -brand-short-name } мае дазвол на доступ у сеціва.
 firefoxview-tabpickup-network-offline-primarybutton = Паспрабаваць зноў
@@ -185,6 +186,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Няма вынікаў для «{ $query }»
 firefoxview-sort-history-by-date-label = Сартаваць па даце
 firefoxview-sort-history-by-site-label = Сартаваць па сайтах
+firefoxview-sort-open-tabs-by-recency-label = Сартаваць па апошняй актыўнасці
+firefoxview-sort-open-tabs-by-order-label = Сартаваць па парадку картак
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
