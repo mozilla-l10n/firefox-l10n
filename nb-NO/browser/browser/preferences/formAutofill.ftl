@@ -9,7 +9,7 @@ autofill-manage-addresses-title = Lagrede adresser
 autofill-manage-addresses-list-header = Adresser
 autofill-manage-credit-cards-title = Lagrede betalingskort
 autofill-manage-credit-cards-list-header = Betalingskort
-autofill-manage-payment-methods-title = Lagrede betalingsmetoder
+autofill-manage-payment-methods-title = Lagrede betalingsmåter
 autofill-manage-cards-list-header = Kort
 autofill-manage-dialog =
     .style = min-width: 560px
@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Adresseinnstillinger
 address-capture-learn-more-button =
     .label = Les mer
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Legg til ny adresse
 address-capture-open-menu-button =
     .aria-label = Åpne meny
 address-capture-edit-address-button =
@@ -111,6 +109,8 @@ autofill-address-eircode = Eircode
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Legg til ny adresse
 autofill-address-country = Land eller region
 autofill-address-country-only = Land
 autofill-address-tel = Telefon
@@ -122,11 +122,6 @@ autofill-country-warning-message = Automatisk utfylling av skjema er for tiden b
 autofill-add-new-card-title = Legg til nytt betalingskort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Rediger betalingskort
-autofill-message-tooltip = Se melding om autofyll
-# The dialog title for creating credit cards in browser preferences.
-autofill-add-card-title = Legg til kort
-# The dialog title for editing credit cards in browser preferences.
-autofill-edit-card-title2 = Rediger kort
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -135,6 +130,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } prøver å vise betalingskortinformasjon. Bekreft tilgang til denne Windows-kontoen nedenfor.
        *[other] { -brand-short-name } prøver å vise betalingskortinformasjon.
     }
+autofill-message-tooltip = Se melding om autofyll
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Legg til kort
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Rediger kort
 autofill-card-number = Kortnummer
 autofill-card-invalid-number = Skriv inn et gyldig kortnummer
 autofill-card-name-on-card = Navn på kort

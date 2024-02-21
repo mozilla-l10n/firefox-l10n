@@ -759,7 +759,7 @@ sync-currently-syncing-logins-passwords = Innlogginger og passord
 sync-currently-syncing-passwords = Passord
 sync-currently-syncing-addresses = Adresser
 sync-currently-syncing-creditcards = Betalingskort
-sync-currently-syncing-payment-methods = Betalingsmetoder
+sync-currently-syncing-payment-methods = Betalingsmåter
 sync-currently-syncing-addons = Utvidelser
 sync-currently-syncing-settings = Innstillinger
 sync-change-options =
@@ -803,7 +803,7 @@ sync-engine-creditcards =
     .tooltiptext = Navn, numre og forfallsdato (bare datamaskin)
     .accesskey = K
 sync-engine-payment-methods2 =
-    .label = Betalingsmetoder
+    .label = Betalingsmåter
     .tooltiptext = Navn, kortnummer og utløpsdatoer
     .accesskey = n
 sync-engine-addons =
@@ -939,18 +939,18 @@ autofill-addresses-checkbox = Lagre og fyll ut adresser
     .accesskey = L
 autofill-saved-addresses-button = Lagrede adresser
     .accesskey = L
-autofill-payment-methods-checkbox-message = Lagre og fyll inn betalingsmetoder
+autofill-payment-methods-checkbox-message = Lagre og fyll inn betalingsmåter
     .accesskey = L
 autofill-payment-methods-checkbox-submessage = Inkluderer kreditt- og debetkort
     .accesskey = I
-autofill-saved-payment-methods-button = Lagrede betalingsmetoder
+autofill-saved-payment-methods-button = Lagrede betalingsmåter
     .accesskey = e
 autofill-reauth-checkbox =
     { PLATFORM() ->
-        [macos] Krev macOS-autentisering for å fylle ut og redigere betalingsmetoder.
-        [windows] Krev Windows-autentisering for å fylle ut og redigere betalingsmetoder.
-        [linux] Krev Linux-autentisering for å fylle ut og redigere betalingsmetoder.
-       *[other] Krev autentisering for å fylle ut og redigere betalingsmetoder.
+        [macos] Krev macOS-autentisering for å fylle ut og redigere betalingsmåter.
+        [windows] Krev Windows-autentisering for å fylle ut og redigere betalingsmåter.
+        [linux] Krev Linux-autentisering for å fylle ut og redigere betalingsmåter.
+       *[other] Krev autentisering for å fylle ut og redigere betalingsmåter.
     }
     .accesskey = a
 
