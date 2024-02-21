@@ -201,6 +201,10 @@ shopping-callout-not-opted-in-reminder-img-alt =
     .aria-label = Абстрактна ілюстрація трьох відгуків про товар. Один має попереджувальний символ, який вказує на те, що він може бути ненадійним.
 shopping-callout-disabled-auto-open-title = Засіб перевірки відгуків тепер не відкриватиметься
 shopping-callout-disabled-auto-open-subtitle = Натисніть піктограму цінника в адресному рядку щоразу, коли ви хочете перевірити, чи можна довіряти відгукам про товар.
+shopping-callout-disabled-auto-open-button = Зрозуміло
+shopping-callout-opted-out-title = Перевірку відгуків вимкнено
+shopping-callout-opted-out-subtitle = Щоб знову ввімкнути, натисніть піктограму цінника в адресному рядку і стежте за підказками.
+shopping-callout-opted-out-button = Зрозуміло
 
 ## Onboarding message strings.
 
