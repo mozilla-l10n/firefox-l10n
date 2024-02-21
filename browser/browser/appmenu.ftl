@@ -268,3 +268,13 @@ appmenu-developer-tools-extensions =
     .label = Extensions de développement
 appmenuitem-report-broken-site =
     .label = Signaler des problèmes avec ce site
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Connectez-vous à votre compte
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Recevez des alertes lors de fuites de données
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Masquez votre véritable adresse e-mail et votre véritable numéro de téléphone
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Protégez vos activités en ligne
