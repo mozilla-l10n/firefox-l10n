@@ -349,6 +349,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Mozilla 재단이 지원하
 onboarding-new-user-time-based-survey-title = { -brand-short-name }를 얼마나 오랫동안 사용하셨습니까?
 onboarding-new-user-familiarity-based-survey-title = { -brand-short-name }에 대해 얼마나 잘 알고 계십니까?
 onboarding-new-user-survey-subtitle = 사용자의 의견은 { -brand-short-name }를 더욱 개선하는 데 도움이 됩니다.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = 다음
+onboarding-new-user-survey-legal-link-label = “{ onboarding-new-user-survey-next-button-label }”을 선택하면, { -brand-product-name }의 <a data-l10n-name="privacy_notice">개인정보처리방침</a>에 동의하게 됩니다.
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = 완전 새내기
 onboarding-new-user-survey-time-based-option-2 = 1개월 미만
