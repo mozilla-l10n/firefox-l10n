@@ -268,3 +268,10 @@ appmenu-developer-tools-extensions =
     .label = 개발자용 확장 기능
 appmenuitem-report-broken-site =
     .label = 깨진 사이트 신고
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = 계정에 로그인
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = 데이터 유출 알림 받기
+appmenuitem-relay-title = { -relay-brand-short-name }
