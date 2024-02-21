@@ -419,3 +419,4 @@ onboarding-new-user-survey-familiarity-based-option-2 = L’ho utilizzato alcune
 onboarding-new-user-survey-familiarity-based-option-3 = Lo conosco molto bene
 onboarding-new-user-survey-familiarity-based-option-4 = L’ho utilizzato in passato, ma è trascorso un po’ di tempo
 
+
