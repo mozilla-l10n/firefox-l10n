@@ -33,3 +33,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Stjoer in ljepblêd daliks nei elk apparaat wêrop jo oanmeld binne.
 fxa-menu-sign-out =
     .label = Ofmelde…
+fxa-menu-sync-title = Syngronisearje
+fxa-menu-sync-description = Oeral tagong ta jo ynternet
