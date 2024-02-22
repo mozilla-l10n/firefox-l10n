@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Nol è garantît che chest a
 ##
 
 xpinstall-disabled-locked = L'aministradôr di sisteme al à disativât la instalazion di software.
+xpinstall-disabled-by-policy = La instalazion di software e je stade disativade de tô organizazion.
 xpinstall-disabled = In chest moment la instalazion di software e je disativade. Fâs clic su Ative par abilitâle e torne prove.
 xpinstall-disabled-button =
     .label = Ative
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) al è stât blocât dal aministradôr di sisteme.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = L'aministradôr dal to sisteme al à impedît a chest sît di domandâti di instalâ software sul computer.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) al è stât blocât de tô organizazion.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = La tô organizazion e à impedît a chest sît di domandâti di instalâ software sul to computer.
 addon-install-full-screen-blocked = La instalazion di components adizionâi no je ametude intant o prime di jentrâ in modalitât plen visôr.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
