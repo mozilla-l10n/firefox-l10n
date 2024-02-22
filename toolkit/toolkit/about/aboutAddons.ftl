@@ -444,15 +444,15 @@ recommended-theme-1 = A sentir-se criativo(a)? <a data-l10n-name="link">Crie o s
 
 ## Page headings
 
-extension-heading = Gira as suas extensões
-theme-heading = Gira os seus temas
-plugin-heading = Gira os seus plugins
-dictionary-heading = Gira os seus dicionários
-locale-heading = Gira os seus idiomas
+extension-heading = Gerir as suas extensões
+theme-heading = Gerir os seus temas
+plugin-heading = Gerir os seus plugins
+dictionary-heading = Gerir os seus dicionários
+locale-heading = Gerir os seus idiomas
 updates-heading = Gerir as suas atualizações
 sitepermission-heading = Gerir as suas permissões do site
 discover-heading = Personalize o seu { -brand-short-name }
-shortcuts-heading = Gira atalhos de extensões
+shortcuts-heading = Gerir atalhos de extensões
 default-heading-search-label = Encontrar mais extras
 addons-heading-search-input =
     .placeholder = Pesquisar addons.mozilla.org
