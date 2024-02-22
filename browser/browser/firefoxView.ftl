@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Sincronizazion in cors
 firefoxview-syncedtabs-loading-description = Une volte completade, lis schedis viertis in cualsisei altri dispositîf a vignaran visualizadis achì. Controle plui indevant.
 firefoxview-tabpickup-fxa-admin-disabled-header = La tô organizazion e à disativât la sincronizazion
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nol rive a sincronizâ lis schedis tra i dispositîfs parcè che il to aministradôr al à disabilitât la sincronizazion.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nol rive a sincronizâ lis schedis tra i dispositîfs parcè che la tô organizazion e à disativât la sincronizazion.
 firefoxview-tabpickup-network-offline-header = Controle la tô conession a internet
 firefoxview-tabpickup-network-offline-description = Se tu stâs doprant un firewall o un proxy, controle che { -brand-short-name } al vedi i permès par acedi a internet.
 firefoxview-tabpickup-network-offline-primarybutton = Torne prove
@@ -184,6 +185,7 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Nissun risultât par “{ $query }”
 firefoxview-sort-history-by-date-label = Ordene par date
 firefoxview-sort-history-by-site-label = Ordene par sît
+firefoxview-sort-open-tabs-by-recency-label = Ordene par ativitât resinte
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =

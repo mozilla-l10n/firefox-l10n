@@ -25,6 +25,7 @@ update-applying = Aplicazion dal inzornament...
 update-failed = Inzornament falît. <label data-l10n-name="failed-link">Discjame la ultime version</label>
 update-failed-main = Inzornament falît. <a data-l10n-name="failed-link-main">Discjame la ultime version</a>
 update-adminDisabled = Inzornaments disativâts dal to aministradôr di sisteme
+update-policy-disabled = Inzornaments disativâts de tô organizazion
 update-noUpdatesFound = { -brand-short-name } al è inzornât
 aboutdialog-update-checking-failed = Impussibil controlâ la disponibilitât di inzornaments.
 update-otherInstanceHandlingUpdates = { -brand-short-name } al è daûr a jessi inzornât di une altre istance
