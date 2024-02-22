@@ -199,6 +199,7 @@ newtab-section-header-recent-activity = Ativitât resinte
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Conseât di { $provider }
+newtab-section-header-stories = Storiis che a fasin pensâ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -207,6 +208,8 @@ newtab-empty-section-highlights = Scomence a navigâ e, in cheste sezion, ti mos
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Tu sês rivât insom. Controle plui indenant par vê altris storiis di { $provider }. No tu rivis a spietâ? Selezione un argoment tra chei plui popolârs par cjatâ altris storiis interessantis ator pal web.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Nuie altri di gnûf. Torne controle plui indevant par altris storiis. No tu rivis a spietâ? Selezione un argoment di chei plui popolârs par scuvierzi altris storiis interessantis dal web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -262,6 +265,9 @@ newtab-custom-pocket-subtitle = Contignûts ecezionâi curâts di { -pocket-bran
 newtab-custom-pocket-toggle =
     .label = Conseâts di { -pocket-brand-name }
     .description = Contignûts ecezionâi curâts di { -pocket-brand-name }, part de famee { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Storiis conseadis
+    .description = Contignûts ecezionâl curât de famee di prodots { -brand-product-name }
 newtab-custom-pocket-sponsored = Storiis sponsorizadis
 newtab-custom-pocket-show-recent-saves = Mostre salvaments resints
 newtab-custom-recent-title = Ativitât resinte

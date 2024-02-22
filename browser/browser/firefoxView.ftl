@@ -186,6 +186,7 @@ firefoxview-search-results-empty = Nissun risultât par “{ $query }”
 firefoxview-sort-history-by-date-label = Ordene par date
 firefoxview-sort-history-by-site-label = Ordene par sît
 firefoxview-sort-open-tabs-by-recency-label = Ordene par ativitât resinte
+firefoxview-sort-open-tabs-by-order-label = Ordene par ordin di schede
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
