@@ -203,6 +203,8 @@ newtab-empty-section-highlights = Comencia a navigar e nos te monstrara hic alcu
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Tu ja es toto al currente. Reveni plus tarde pro plus historias popular de { $provider }. Non vole attender? Selige un subjecto popular pro discoperir altere articulos interessante sur le web.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Tu ja es actualisate con toto. Re-controla plus tarde pro altere historias. Non vole attender? Selectiona un thema popular pro trovar le plus grande historias del web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

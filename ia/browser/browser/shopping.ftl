@@ -180,6 +180,7 @@ shopping-callout-closed-not-opted-in-revised-button = Comprendite
 shopping-callout-not-opted-in-reminder-open-button = Aperir Verificator de recension
 shopping-callout-not-opted-in-reminder-close-button = Dimitter
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Non plus monstrar.
+shopping-callout-disabled-auto-open-title = Verificator de recension es ora predefinite claudite
 shopping-callout-disabled-auto-open-button = Comprendite
 shopping-callout-opted-out-title = Verificator de recension es disactivate
 shopping-callout-opted-out-button = Comprendite
