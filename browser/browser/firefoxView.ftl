@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Sincronização em progresso
 firefoxview-syncedtabs-loading-description = Quando terminar, irá ver todos os separadores abertos nos outros dispositivos. Volte em breve.
 firefoxview-tabpickup-fxa-admin-disabled-header = A sua organização desativou a sincronização
 firefoxview-tabpickup-fxa-admin-disabled-description = O { -brand-short-name } não consegue sincronizar separadores entre dispositivos porque o seu administrador desativou a sincronização.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = O { -brand-short-name } não é capaz de sincronizar separadores entre dispositivos porque a sua organização desativou a sincronização.
 firefoxview-tabpickup-network-offline-header = Verifique a sua ligação à Internet
 firefoxview-tabpickup-network-offline-description = Se está a utilizar uma firewall ou proxy, verifique se o { -brand-short-name } tem permissão para aceder à Internet.
 firefoxview-tabpickup-network-offline-primarybutton = Tentar novamente

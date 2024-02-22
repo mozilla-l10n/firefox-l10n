@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Mostrar mais separadores
     .tooltiptext = Mostrar mais separadores deste dispositivo
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Mostrar um separador inativo
+           *[other] Mostrar { $count } separadores inativos
+        }
+    .tooltiptext = Mostrar os separadores inativos neste dispositivo
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nenhum separador aberto
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -262,3 +272,6 @@ appmenu-developer-tools-extensions =
     .label = Extensões para Programadores
 appmenuitem-report-broken-site =
     .label = Reportar site com problemas
+
+## Panel for privacy and security products
+
