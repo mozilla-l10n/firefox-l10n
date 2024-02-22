@@ -33,4 +33,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Giriş yaptığınız her cihaza anında sekme gönderin.
 fxa-menu-sign-out =
     .label = Çıkış yap…
+fxa-menu-sync-title = Eşitle
 fxa-menu-sync-description = Web’inize her yerden erişin
