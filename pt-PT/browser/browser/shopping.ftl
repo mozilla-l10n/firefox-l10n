@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = A verificar a qualidade 
 shopping-message-bar-page-not-supported =
     .heading = Não podemos verificar estas avaliações
     .message = Infelizmente, não podemos verificar a qualidade da avaliação para determinados tipos de produtos. Por exemplo, cartões-presente e streaming de vídeo, música e jogos.
+shopping-message-bar-keep-closed-header =
+    .heading = Manter fechado?
+    .message = Você pode atualizar as suas configurações para manter o Verificador de revisão fechado por defeito. Neste momento, ele abre automaticamente.
+shopping-message-bar-keep-closed-dismiss-button = Não, obrigado
+shopping-message-bar-keep-closed-accept-button = Sim, manter fechado
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Irá ver anúncios ocasionais de produtos relevantes. Anunciamos apenas produtos com avaliações confiáveis. <a data-l10n-name="review-quality-url">Saiba mais</a>
 shopping-settings-opt-out-button = Desativar o verificador de avaliações
 powered-by-fakespot = O verificador de avaliações é suportado por <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Abrir o Verificador de avaliações automaticamente
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Quando vê produtos em { $firstSite }, { $secondSite } e { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Ao ver produtos em { $currentSite }
+shopping-settings-sidebar-enabled-state = O verificador de avaliações está <strong>Ativado</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,22 @@ shopping-callout-pdp-opted-in-title = Estas avaliações são confiáveis? Descu
 shopping-callout-pdp-opted-in-subtitle = Abra o Verificador de Avaliações para ver uma classificação ajustada com avaliações não confiáveis removidas. Além disso, consulte destaques de avaliações autênticas recentes.
 shopping-callout-closed-not-opted-in-title = Um clique para avaliações confiáveis
 shopping-callout-closed-not-opted-in-subtitle = Experimente o Verificador de Avaliações sempre que vir a etiqueta de preço. Obtenha rapidamente informações de compradores reais — antes de comprar.
+shopping-callout-closed-not-opted-in-revised-title = Um clique para avaliações confiáveis
+shopping-callout-closed-not-opted-in-revised-subtitle = Basta clicar no ícone da etiqueta de preço na barra de endereço para voltar ao Verificador de avaliações.
+shopping-callout-closed-not-opted-in-revised-button = Percebi
+shopping-callout-not-opted-in-reminder-title = Compre com confiança
+shopping-callout-not-opted-in-reminder-subtitle = Não tem a certeza se as avaliações de um produto são reais ou falsas? O Verificador de avaliações do { -brand-product-name } pode ajudar.
+shopping-callout-not-opted-in-reminder-open-button = Abrir o Verificador de avaliações
+shopping-callout-not-opted-in-reminder-close-button = Dispensar
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Não voltar a mostrar
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Ilustração abstrata de três análises de produtos. Uma tem um símbolo de aviso indicando que pode não ser confiável.
+shopping-callout-disabled-auto-open-title = O Verificador de avaliações está agora fechado por defeito
+shopping-callout-disabled-auto-open-subtitle = Clique no ícone da etiqueta de preço na barra de endereço sempre que quiser ver se pode confiar nas avaliações de um produto.
+shopping-callout-disabled-auto-open-button = Percebi
+shopping-callout-opted-out-title = O Verificador de avaliações está desligado
+shopping-callout-opted-out-subtitle = Para ativá-lo novamente, clique no ícone da etiqueta de preço na barra de endereço e siga as instruções.
+shopping-callout-opted-out-button = Percebi
 
 ## Onboarding message strings.
 
@@ -181,7 +215,12 @@ shopping-onboarding-headline = Experimente o nosso guia confiável para avaliaç
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Antes de comprar, veja quão confiáveis são as avaliações de produtos em <b>{ $currentSite }</b>. O Verificador de Avaliações, uma funcionalidade experimental do { -brand-product-name }, está diretamente integrado no navegador. Funciona também em <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Veja como as avaliações de produtos são confiáveis em <b>{ $currentSite }</b> antes de comprar. O Verificador de avaliações, uma funcionalidade experimental do { -brand-product-name }, está integrado diretamente no navegador.
 shopping-onboarding-body = Com a ajuda da { -fakespot-brand-full-name }, ajudamos a que evite avaliações tendenciosas e falsas. O nosso modelo de IA está sempre a melhorar, para sua proteção, enquanto faz compras. <a data-l10n-name="learn_more">Saiba mais</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Ao selecionar “{ shopping-onboarding-opt-in-button }“, concorda com a <a data-l10n-name="privacy_policy">política de privacidade</a> do { -brand-product-name } e com os <a data-l10n-name="terms_of_use">termos de utilização</a> do { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Sim, experimentar
 shopping-onboarding-not-now-button = Agora não
 shopping-onboarding-dialog-close-button =
