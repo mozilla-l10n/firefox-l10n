@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Ampliar apenas o texto
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Aviso: se selecionar “Ampliar apenas texto” e a ampliação predefinida não estiver definida para 100%, isto poderá causar falhas em alguns sites ou conteúdos.
 language-header = Idioma
 choose-language-description = Escolha o seu idioma preferencial para apresentar as páginas
 choose-button =
@@ -430,7 +432,7 @@ update-setting-write-failure-message2 =
     O { -brand-short-name } encontrou um erro e não guardou esta alteração. Note que alterar esta definição de atualização requer permissão para escrever no ficheiro abaixo. Você ou um administrador do sistema pode resolver o erro atribuindo ao grupo Utilizadores controlo total para este ficheiro.
     
     Não foi possível escrever para ficheiro: { $path }
-update-in-progress-title = Atualização em progresso
+update-in-progress-title = Atualização em curso
 update-in-progress-message = Pretende que o { -brand-short-name } continue com esta atualização?
 update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
@@ -562,6 +564,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description-new = Conteúdo excecional com curadoria de { $provider }, parte da família { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Histórias recomendadas
+home-prefs-recommended-by-description-generic = Conteúdo excecional com curadoria da família { -brand-product-name }
 
 ##
 
@@ -799,7 +804,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-payment-methods2 =
     .label = Métodos de pagamento
-    .tooltiptext = Nomes, números de cartão e datas de expiração
+    .tooltiptext = Nomes, números de cartão e datas de validade
     .accesskey = n
 sync-engine-addons =
     .label = Extras
@@ -1328,6 +1333,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS sobre HTTPS
 preferences-doh-description = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, criando um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
+preferences-doh-description2 = O Domain Name System (DNS) sobre HTTPS envia o seu pedido de nome de domínio através de uma ligação encriptada, fornecendo um DNS seguro e tornando mais difícil para os outros verem qual o site que está prestes a aceder.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Estado: { $status }
