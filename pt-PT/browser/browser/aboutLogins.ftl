@@ -256,13 +256,31 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Sim, remover a palavra-passe
-       *[other] Yes, remover as palavras-passe
+       *[other] Sim, remover as palavras-passe
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
         [one] Remover { $count } palavra-passe?
        *[other] Remover todas as { $count } palavras-passe?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Isto irá remover a palavra-passe guardada no { -brand-short-name } e quaisquer alertas de violação de dados. Não poderá anular esta ação.
+       *[other] Isto irá remover as palavras-passe guardadas no { -brand-short-name } e quaisquer alertas de violação de dados. Não poderá anular esta ação.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Remover { $count } palavra-passe de todos os dispositivos?
+       *[other] Remover todas as { $count } palavras-passe de todos os dispositivos?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Isto irá remover a palavra-passe guardada no { -brand-short-name } em todos os seus dispositivos sincronizados. Isto também irá remover quaisquer alertas de violação de dados que apareçam aqui. Não poderá anular esta ação.
+       *[other] Isto irá remover as palavras-passe guardadas no { -brand-short-name } em todos os seus dispositivos sincronizados. Isto também irá remover quaisquer alertas de violação de dados que apareçam aqui. Não poderá anular esta ação.
     }
 
 ##
