@@ -350,6 +350,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Graciis par vê sielt di do
 onboarding-new-user-time-based-survey-title = Di trop timp dopristu { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = Trop cognossistu { -brand-short-name }?
 onboarding-new-user-survey-subtitle = La tô opinion nus jude a rindi { -brand-short-name } ancjemò miôr.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Indevant
+onboarding-new-user-survey-legal-link-label = Selezionant “{ onboarding-new-user-survey-next-button-label }” tu acetis la <a data-l10n-name="privacy_notice">informative su la riservatece</a> di { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = O soi gnûf
 onboarding-new-user-survey-time-based-option-2 = Mancul di un mês

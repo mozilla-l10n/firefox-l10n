@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Ingrandìs dome il test
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Atenzion: se tu selezionis “Ingrandìs dome il test” e il zoom predefinît nol è metût a 100%, cualchi sît o contignût al podarès funzionâ mâl.
 language-header = Lenghe
 choose-language-description = Sielç la tô lenghe preferide par visualizâ lis pagjinis
 choose-button =
@@ -562,6 +564,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Conseât di { $provider }
 home-prefs-recommended-by-description-new = Contignûts ecezionâi par cure di { $provider }, part de famee { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Storiis conseadis
+home-prefs-recommended-by-description-generic = Contignûts ecezionâi curâts de famee di prodots { -brand-product-name }
 
 ##
 
@@ -1080,10 +1085,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Azions sveltis
     .accesskey = Z
+addressbar-suggestions-settings = Modifiche lis preferencis pai sugjeriments dai motôrs di ricercje
 addressbar-locbar-showrecentsearches-option =
     .label = Mostre ricercjis resintis
     .accesskey = r
-addressbar-suggestions-settings = Modifiche lis preferencis pai sugjeriments dai motôrs di ricercje
 addressbar-quickactions-learn-more = Plui informazions
 
 ## Privacy Section - Content Blocking
