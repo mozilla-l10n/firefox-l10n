@@ -43,6 +43,11 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Utilize marcadores mais simples com preferência por movimento reduzido
 options-inspector-simplified-highlighters-tooltip =
     .title = Ativa marcadores simplificados quando a preferência por movimento reduzido (prefers-reduced-motion) está ativa. Desenha linhas em vez de retângulos preenchidos em torno de elementos destacados para evitar efeitos intermitentes.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Focar próxima entrada no <kbd>Enter</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Quando ativado, ao pressionar a tecla Enter ao editar um seletor, um nome ou valor de uma propriedade irá mover o foco para a próxima entrada.
 
 ## "Default Color Unit" options for the Inspector
 

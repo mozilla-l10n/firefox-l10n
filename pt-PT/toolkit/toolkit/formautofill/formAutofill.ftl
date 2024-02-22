@@ -8,6 +8,12 @@
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-use-payment-method-os-prompt-macos = utilizar a informação do método de pagamento armazenado
+autofill-use-payment-method-os-prompt-windows = O { -brand-short-name } está a tentar utilizar informações do método de pagamento armazenadas. Confirme o acesso a esta conta do Windows abaixo.
+autofill-use-payment-method-os-prompt-other = O { -brand-short-name } está a tentar utilizar informações do método de pagamento armazenadas.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = mostrar informações armazenadas sobre o método de pagamento
+autofill-edit-payment-method-os-prompt-windows = O { -brand-short-name } está a tentar mostrar informações armazenadas sobre o método de pagamento. Confirme o acesso a esta conta do Windows abaixo.
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Opções de autopreenchimento de formulários
 autofill-options-link-osx = Preferências de autopreenchimento de formulários

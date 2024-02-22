@@ -95,6 +95,8 @@ about-webauthn-auth-option-uvacfg = Permissão de configuração do autenticador
 about-webauthn-auth-option-credmgmt = Gestão de credenciais
 about-webauthn-auth-option-credentialmgmtpreview = Gestão de credenciais de protótipo
 about-webauthn-auth-option-setminpinlength = Definir tamanho mínimo do código
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential sem verificação do utilizador
 about-webauthn-auth-option-alwaysuv = Requerer sempre a verificação do utilizador
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
@@ -106,8 +108,11 @@ about-webauthn-auth-option-null = Não suportado
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Comandos de configuração do protótipo do fornecedor
+about-webauthn-auth-info-remaining-discoverable-credentials = Credenciais pesquisáveis remanescentes
 about-webauthn-auth-info-certifications = Certificações
 about-webauthn-auth-info-uv-modality = Modalidade de verificação do utilizador
+about-webauthn-auth-info-preferred-platform-uv-attempts = Tentativas de verificação do utilizador preferido da plataforma
 about-webauthn-auth-info-firmware-version = Versão do firmware
 about-webauthn-auth-info-min-pin-length = Tamanho mínimo do código
 about-webauthn-auth-info-force-pin-change = Forçar alteração do código
@@ -127,9 +132,38 @@ about-webauthn-auth-info-null = Não suportado
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] Ainda é necessária { $repeatCount } amostra.
+       *[other] Ainda são necessárias { $repeatCount } amostras.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = A amostra era boa.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = A amostra era muito alta.
+about-webauthn-ctap2-enroll-feedback-too-low = A amostra era muito baixa.
+about-webauthn-ctap2-enroll-feedback-too-left = A amostra estava demasiado à esquerda.
+about-webauthn-ctap2-enroll-feedback-too-right = A amostra estava demasiado à direita.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = A amostra foi muito rápida.
+about-webauthn-ctap2-enroll-feedback-too-slow = A amostra foi muito lenta.
+about-webauthn-ctap2-enroll-feedback-poor-quality = A amostra tinha uma qualidade fraca.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = A amostra estava muito enviesada.
+about-webauthn-ctap2-enroll-feedback-too-short = A amostra era muito curta.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Falha de fusão da amostra.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = A amostra já existe.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Sem atividade do utilizador.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = O utilizador não concluiu a amostragem como esperado.
+about-webauthn-ctap2-enroll-feedback-other = Erro de amostra.
