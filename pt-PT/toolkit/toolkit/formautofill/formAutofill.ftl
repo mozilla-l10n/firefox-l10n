@@ -14,14 +14,18 @@ autofill-use-payment-method-os-prompt-other = O { -brand-short-name } está a te
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-payment-method-os-prompt-macos = mostrar informações armazenadas sobre o método de pagamento
 autofill-edit-payment-method-os-prompt-windows = O { -brand-short-name } está a tentar mostrar informações armazenadas sobre o método de pagamento. Confirme o acesso a esta conta do Windows abaixo.
+autofill-edit-payment-method-os-prompt-other = O { -brand-short-name } está a tentar mostrar informações armazenadas sobre o método de pagamento.
 # The links lead users to Form Autofill browser preferences.
-autofill-options-link = Opções de autopreenchimento de formulários
-autofill-options-link-osx = Preferências de autopreenchimento de formulários
+autofill-options-link = Opções de preenchimento automático de formulários
+autofill-options-link-osx = Preferências de preenchimento automático de formulários
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizar todos os cartões guardados nos meus dispositivos
 # Used on the doorhanger when users submit payment with credit card.
-credit-card-save-doorhanger-header = Guardar este cartão com segurança?
+credit-card-save-doorhanger-header = Guardar este cartão de forma segura?
 credit-card-save-doorhanger-description = O { -brand-short-name } encripta o número do seu cartão. O seu código de segurança não será guardado.
 credit-card-capture-save-button =
     .label = Guardar
