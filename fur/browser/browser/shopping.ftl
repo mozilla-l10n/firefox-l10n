@@ -193,6 +193,18 @@ shopping-callout-closed-not-opted-in-revised-title = Recensions afidabilis intun
 shopping-callout-closed-not-opted-in-revised-subtitle = Ti baste fâ clic su la icone cul cartelin dal presit te sbare de direzion par tornâ a Verifiche recensions.
 shopping-callout-closed-not-opted-in-revised-button = Capît
 shopping-callout-not-opted-in-reminder-title = Fâs compris cun fidance
+shopping-callout-not-opted-in-reminder-subtitle = Se no tu âs la sigurece che lis recensions di un prodot a sedin veris, la Verifiche recensions di { -brand-product-name } e pues judâti.
+shopping-callout-not-opted-in-reminder-open-button = Vierç Verifiche recensions
+shopping-callout-not-opted-in-reminder-close-button = Siere
+shopping-callout-not-opted-in-reminder-ignore-checkbox = No sta mostrâ plui
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Ilusion astrate di trê recensions di prodots. Une e presente un simbul di avîs par indicâ che al è probabil che no sedi une recension afidabile.
+shopping-callout-disabled-auto-open-title = La Verifiche recensions in chest moment, tant che impostazion predefinide, e je sierade
+shopping-callout-disabled-auto-open-subtitle = Fâs clic su la icone cul cartelin dal presit te sbare de direzion ogni volte che tu desideris viodi la afidabilitât des recensions di un prodot.
+shopping-callout-disabled-auto-open-button = Capît
+shopping-callout-opted-out-title = Verifiche recensions e je disativade
+shopping-callout-opted-out-subtitle = Par tornâle a ativâ, fâs clic su la icone cul cartelin dal presit te sbare de direzion e va daûr des indicazions.
+shopping-callout-opted-out-button = Capît
 
 ## Onboarding message strings.
 
