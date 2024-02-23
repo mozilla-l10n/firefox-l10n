@@ -268,3 +268,13 @@ appmenu-developer-tools-extensions =
     .label = 面向开发者的扩展
 appmenuitem-report-broken-site =
     .label = 反馈网站问题
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = 登录账户
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = 接收数据外泄警报
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = 隐藏真实邮箱地址和电话号码
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = 保护在线活动
