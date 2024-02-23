@@ -306,3 +306,10 @@ appmenu-developer-tools-extensions =
     .label = Rozšíření pro vývojáře
 appmenuitem-report-broken-site =
     .label = Nahlásit nefunkční stránku
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Přihlaste se ke svému účtu
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
