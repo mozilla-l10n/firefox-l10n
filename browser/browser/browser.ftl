@@ -563,6 +563,11 @@ urlbar-result-action-search-w-engine = ค้นหาด้วย { $engine }
 urlbar-result-action-sponsored = ได้รับการสนับสนุน
 urlbar-result-action-switch-tab = สลับไปยังแท็บ
 urlbar-result-action-visit = เยี่ยมชม
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = สลับไปยังแท็บ · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = เยี่ยมชมจากคลิปบอร์ด
 # Directs a user to press the Tab key to perform a search with the specified
@@ -886,6 +891,10 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>ต้องการเปิดแท็บก่อนหน้าหรือไม่</strong> คุณสามารถเรียกคืนวาระก่อนหน้าได้จากเมนูแอปพลิเคชัน { -brand-short-name } <img data-l10n-name="icon"/> ภายใต้ ประวัติ
 restore-session-startup-suggestion-button = แสดงวิธีให้ฉันดู
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = องค์กรของคุณได้ปิดกั้นการเข้าถึงไฟล์ภายในเครื่องคอมพิวเตอร์นี้
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

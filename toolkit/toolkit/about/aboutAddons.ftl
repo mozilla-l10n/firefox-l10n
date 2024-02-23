@@ -220,6 +220,9 @@ shortcuts-no-addons = คุณไม่ได้เปิดใช้งาน�
 shortcuts-no-commands = ส่วนขยายดังต่อไปนี้ไม่มีทางลัด:
 shortcuts-input =
     .placeholder = พิมพ์ทางลัด
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = เอาทางลัดออก
 shortcuts-browserAction2 = เปิดใช้งานปุ่มแถบเครื่องมือ
 shortcuts-pageAction = เปิดใช้งานการกระทำหน้า
 shortcuts-sidebarAction = เปิด/ปิดแถบข้าง
