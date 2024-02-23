@@ -34,3 +34,4 @@ fxa-menu-send-tab-to-device-description = Στείλτε άμεσα μια κα�
 fxa-menu-sign-out =
     .label = Αποσύνδεση…
 fxa-menu-sync-title = Συγχρονισμός
+fxa-menu-sync-description = Πρόσβαση στον ιστό από οπουδήποτε
