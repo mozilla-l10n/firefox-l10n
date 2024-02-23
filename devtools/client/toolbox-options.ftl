@@ -46,6 +46,8 @@ options-inspector-simplified-highlighters-tooltip =
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = Passe al cjamp di input sucessîf cun <kbd>Invie</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Se ativade, fracant il tast Invie dilunc la modifiche di un seletôr, di un non di proprietât o di un so valôr, tu passarâs al cjamp di input sucessîf.
 
 ## "Default Color Unit" options for the Inspector
 
