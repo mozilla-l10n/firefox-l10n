@@ -186,9 +186,11 @@ shopping-callout-pdp-opted-in-subtitle = Otevřete nástroj pro kontrolu recenz�
 shopping-callout-closed-not-opted-in-title = Jedním klepnutím na spolehlivé recenze
 shopping-callout-closed-not-opted-in-subtitle = Vyzkoušejte nástroj pro kontrolu recenzí, kdykoli uvidíte cenovku. Získejte rychle informace od skutečných zákazníků — ještě před nákupem.
 shopping-callout-closed-not-opted-in-revised-button = Rozumím
+shopping-callout-not-opted-in-reminder-open-button = Otevřít kontrolu recenzí
 shopping-callout-not-opted-in-reminder-close-button = Zavřít
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Příště se už neptat
 shopping-callout-disabled-auto-open-button = Rozumím
+shopping-callout-opted-out-title = Kontrola recenzí je vypnuta
 shopping-callout-opted-out-button = Rozumím
 
 ## Onboarding message strings.
