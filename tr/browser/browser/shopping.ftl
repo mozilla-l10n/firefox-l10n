@@ -90,7 +90,7 @@ shopping-show-less-button = Daha az göster
 shopping-settings-label =
     .label = Ayarlar
 shopping-settings-recommendations-toggle =
-    .label = Değerlendirme denetleyicisinde reklamları göster
+    .label = Değerlendirme kontrolcüsünde reklamları göster
 shopping-settings-recommendations-learn-more2 = Ara sıra ilginizi çekebilecek ürünlerin reklamlarını göreceksiniz. Yalnızca güvenilir değerlendirmelere sahip ürünlerin reklamını yapıyoruz. <a data-l10n-name="review-quality-url">Bilgi alın</a>
 shopping-settings-opt-out-button = Değerlendirme kontrolcüsünü kapat
 powered-by-fakespot = Değerlendirme kontrolcüsü <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> altyapısını kullanır.
