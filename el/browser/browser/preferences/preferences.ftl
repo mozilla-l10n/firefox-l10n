@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Ζουμ μόνο στο κείμενο
     .accesskey = κ
+preferences-text-zoom-override-warning =
+    .message = Προειδοποίηση: Εάν επιλέξετε «Ζουμ μόνο στο κείμενο» και το προεπιλεγμένο ζουμ δεν έχει οριστεί στο 100%, ενδέχεται να προκληθεί δυσλειτουργία σε ορισμένους ιστοτόπους ή περιεχόμενο.
 language-header = Γλώσσα
 choose-language-description = Επιλέξτε την προτιμώμενη γλώσσα για την εμφάνιση σελίδων
 choose-button =
@@ -564,6 +566,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Εξαιρετικό περιεχόμενο από το { $provider }, μέρος της οικογένειας του { -brand-product-name }
 home-prefs-recommended-by-header-generic =
     .label = Προτεινόμενα άρθρα
+home-prefs-recommended-by-description-generic = Εξαιρετικό περιεχόμενο από την οικογένεια του { -brand-product-name }
 
 ##
 

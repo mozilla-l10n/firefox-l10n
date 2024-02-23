@@ -64,7 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Έλεγχος ποιό�
 shopping-message-bar-page-not-supported =
     .heading = Δεν μπορούμε να ελέγξουμε αυτές τις κριτικές
     .message = Δυστυχώς, δεν μπορούμε να ελέγξουμε την ποιότητα των κριτικών για ορισμένους τύπους προϊόντων, όπως δωροκάρτες, βίντεο σε μορφή streaming, μουσική και παιχνίδια.
+shopping-message-bar-keep-closed-header =
+    .heading = Να παραμείνει κλειστός;
+    .message = Μπορείτε να ενημερώσετε τις ρυθμίσεις σας για να παραμένει κλειστός ο έλεγχος κριτικών από προεπιλογή. Αυτήν τη στιγμή, ανοίγει αυτόματα.
 shopping-message-bar-keep-closed-dismiss-button = Όχι, ευχαριστώ
+shopping-message-bar-keep-closed-accept-button = Ναι, να παραμείνει κλειστός
 
 ## Strings for the product review snippets card
 
@@ -199,6 +203,7 @@ shopping-callout-disabled-auto-open-title = Ο έλεγχος κριτικών �
 shopping-callout-disabled-auto-open-subtitle = Κάντε κλικ στο εικονίδιο με την ετικέτα στη γραμμή διευθύνσεων όποτε θέλετε για να δείτε αν μπορείτε να εμπιστευτείτε τις κριτικές ενός προϊόντος.
 shopping-callout-disabled-auto-open-button = Το κατάλαβα
 shopping-callout-opted-out-title = Ο έλεγχος κριτικών είναι ανενεργός
+shopping-callout-opted-out-subtitle = Για να τον ενεργοποιήσετε ξανά, κάντε κλικ στο εικονίδιο-καρτελάκι στη γραμμή διευθύνσεων και ακολουθήστε τις οδηγίες.
 shopping-callout-opted-out-button = Το κατάλαβα
 
 ## Onboarding message strings.
