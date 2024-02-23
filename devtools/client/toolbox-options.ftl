@@ -43,6 +43,9 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Dopre evidenziadôrs plui sempliçs cun prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
     .title = Al ative i evidenziadôrs semplificâts cuant che  prefers-reduced-motion al è atîf. Al dissegne liniis al puest di retangui jemplâts tor ator dai elements evidenziâts par evitâ efiets di lampament.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Passe al cjamp di input sucessîf cun <kbd>Invie</kbd>
 
 ## "Default Color Unit" options for the Inspector
 
