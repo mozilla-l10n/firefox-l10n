@@ -12,6 +12,7 @@
 
 policy-3rdparty = ตั้งนโยบายที่ WebExtensions สามารถเข้าถึงผ่าน chrome.storage.managed
 policy-AllowedDomainsForApps = กำหนดโดเมนที่อนุญาตให้เข้าถึง Google Workspace
+policy-AllowFileSelectionDialogs = อนุญาตกล่องโต้ตอบการเลือกไฟล์
 policy-AppAutoUpdate = เปิดใช้งานหรือปิดใช้งานการอัปเดตแอปพลิเคชันอัตโนมัติ
 policy-AppUpdatePin = ป้องกันไม่ให้อัปเดต { -brand-short-name } เกินกว่ารุ่นที่ระบุ
 policy-AppUpdateURL = ตั้ง URL การอัปเดตแอปที่กำหนดเอง
