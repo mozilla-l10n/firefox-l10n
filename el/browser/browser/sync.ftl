@@ -33,3 +33,4 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Στείλτε άμεσα μια καρτέλα σε κάθε συσκευή που έχετε συνδεθεί.
 fxa-menu-sign-out =
     .label = Αποσύνδεση…
+fxa-menu-sync-title = Συγχρονισμός

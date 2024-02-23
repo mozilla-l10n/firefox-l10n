@@ -349,6 +349,8 @@ onboarding-gratitude-security-and-privacy-subtitle = Σας ευχαριστού
 onboarding-new-user-time-based-survey-title = Πόσο καιρό χρησιμοποιείτε το { -brand-short-name };
 onboarding-new-user-familiarity-based-survey-title = Πόσο εξοικειωμένοι είστε με το { -brand-short-name };
 onboarding-new-user-survey-subtitle = Τα σχόλιά σας κάνουν το { -brand-short-name } ακόμα καλύτερο.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Επόμενο
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Είμαι αρχάριος
 onboarding-new-user-survey-time-based-option-2 = Λιγότερο από ένα μήνα

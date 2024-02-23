@@ -272,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Επεκτάσεις για προγραμματιστές
 appmenuitem-report-broken-site =
     .label = Αναφορά προβληματικού ιστοτόπου
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Συνδεθείτε στον λογαριασμό σας
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Λάβετε ειδοποιήσεις παραβίασης δεδομένων
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Αποκρύψτε το πραγματικό email και το τηλέφωνό σας
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Προστατέψτε το διαδικτυακό σας απόρρητο
