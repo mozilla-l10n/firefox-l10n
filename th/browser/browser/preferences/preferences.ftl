@@ -191,6 +191,9 @@ containers-remove-alert-title = เอาการแยกข้อมูลน
 containers-remove-alert-msg = หากคุณเอาการแยกข้อมูลนี้ออกตอนนี้ { $count } แท็บแยกข้อมูลจะถูกปิด คุณแน่ใจหรือไม่ว่าต้องการเอาการแยกข้อมูลนี้ออก?
 containers-remove-ok-button = เอาการแยกข้อมูลนี้ออก
 containers-remove-cancel-button = ไม่เอาการแยกข้อมูลนี้ออก
+settings-tabs-show-image-in-preview =
+    .label = แสดงตัวอย่างภาพเมื่อคุณวางเมาส์เหนือแท็บ
+    .accessKey = แ
 
 ## General Section - Language & Appearance
 
@@ -984,6 +987,7 @@ sitedata-delete-on-close =
     .label = ลบคุกกี้และข้อมูลไซต์เมื่อ { -brand-short-name } ถูกปิด
     .accesskey = บ
 sitedata-delete-on-close-private-browsing = ในโหมดการเรียกดูแบบส่วนตัวแบบถาวร คุกกี้และข้อมูลไซต์จะถูกล้างทุกครั้งเมื่อปิด { -brand-short-name }
+sitedata-delete-on-close-private-browsing2 = ตามการตั้งค่าประวัติของคุณ { -brand-short-name } จะลบคุกกี้และข้อมูลไซต์ออกจากวาระของคุณเมื่อปิดเบราว์เซอร์
 sitedata-allow-cookies-option =
     .label = ยอมรับคุกกี้และข้อมูลไซต์
     .accesskey = ย
@@ -1060,10 +1064,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = คำสั่งด่วน
     .accesskey = ด
+addressbar-suggestions-settings = เปลี่ยนการกำหนดลักษณะสำหรับข้อเสนอแนะของเครื่องมือค้นหา
 addressbar-locbar-showrecentsearches-option =
     .label = แสดงการค้นหาล่าสุด
     .accesskey = ล
-addressbar-suggestions-settings = เปลี่ยนการกำหนดลักษณะสำหรับข้อเสนอแนะของเครื่องมือค้นหา
 addressbar-quickactions-learn-more = เรียนรู้เพิ่มเติม
 
 ## Privacy Section - Content Blocking
