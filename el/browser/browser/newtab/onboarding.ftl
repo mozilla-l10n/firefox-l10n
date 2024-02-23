@@ -351,6 +351,7 @@ onboarding-new-user-familiarity-based-survey-title = Πόσο εξοικειωμ
 onboarding-new-user-survey-subtitle = Τα σχόλιά σας κάνουν το { -brand-short-name } ακόμα καλύτερο.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Επόμενο
+onboarding-new-user-survey-legal-link-label = Επιλέγοντας «{ onboarding-new-user-survey-next-button-label }», συμφωνείτε με τη <a data-l10n-name="privacy_notice">Σημείωση απορρήτου</a> του { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Είμαι αρχάριος
 onboarding-new-user-survey-time-based-option-2 = Λιγότερο από ένα μήνα

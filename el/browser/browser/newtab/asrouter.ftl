@@ -203,8 +203,6 @@ cfr-cbh-confirm-button = Απόρριψη μηνυμάτων για cookie
     .accesskey = Α
 cfr-cbh-dismiss-button = Όχι τώρα
     .accesskey = χ
-cookie-banner-blocker-cfr-header = Το { -brand-short-name } μόλις απέκλεισε τα cookie για εσάς
-cookie-banner-blocker-cfr-body = Απορρίπτουμε αυτόματα πολλά αναδυόμενα παράθυρα για cookie, ώστε να καταστεί δύσκολη η καταγραφή σας από ιστοτόπους.
 cookie-banner-blocker-onboarding-header = Το { -brand-short-name } μόλις απέρριψε ένα μήνυμα cookie για εσάς
 cookie-banner-blocker-onboarding-body = Λιγότεροι περισπασμοί, λιγότερα cookie που σας παρακολουθούν σε αυτόν τον ιστότοπο.
 cookie-banner-blocker-onboarding-learn-more = Μάθετε περισσότερα
@@ -274,5 +272,11 @@ launch-on-login-infobar-final-reject-button = Όχι, ευχαριστώ
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Κρατήστε μακριά τους ενοχλητικούς ιχνηλάτες
+tail-fox-spotlight-subtitle = Πείτε αντίο στους ενοχλητικούς ιχνηλάτες διαφημίσεων και απολαύστε μια πιο ασφαλή και γρήγορη εμπειρία στο διαδίκτυο.
 tail-fox-spotlight-primary-button = Άνοιγμα συνδέσμων με το { -brand-short-name }
 tail-fox-spotlight-secondary-button = Όχι τώρα
