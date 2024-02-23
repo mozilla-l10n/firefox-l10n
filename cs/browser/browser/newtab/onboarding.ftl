@@ -499,6 +499,8 @@ onboarding-new-user-survey-subtitle =
         [with-cases] Vaše zpětná vazba pomáhá ještě více zlepšit { -brand-short-name(case: "acc") }.
        *[no-cases] Vaše zpětná vazba pomáhá ještě více zlepšit aplikaci { -brand-short-name }.
     }
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Další
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Jsem nováček
 onboarding-new-user-survey-time-based-option-2 = Méně než 1 měsíc

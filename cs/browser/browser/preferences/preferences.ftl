@@ -669,6 +669,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Doporučení ze služby { $provider }
 home-prefs-recommended-by-description-new = Výjimečný obsah vybraný společností { $provider }, která je součástí rodiny { -brand-product-name(case: "gen") }
+home-prefs-recommended-by-header-generic =
+    .label = Doporučené příběhy
 
 ##
 
@@ -1204,10 +1206,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Rychlé akce
     .accesskey = R
+addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledávač
 addressbar-locbar-showrecentsearches-option =
     .label = Zobrazit nedávná vyhledávání
     .accesskey = e
-addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledávač
 addressbar-quickactions-learn-more = Zjistit více
 
 ## Privacy Section - Content Blocking
