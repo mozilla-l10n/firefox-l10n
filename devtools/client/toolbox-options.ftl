@@ -45,7 +45,7 @@ options-inspector-simplified-highlighters-tooltip =
     .title = 设置 prefers-reduced-motion 首选项启用简化的高亮显示。在突出显示的元素周围绘制线条而不是填充矩形，以避免闪烁效果。
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
-options-inspector-rules-focus-next-on-enter-label = 点击<kbd>回车</kbd>聚焦到下一个输入
+options-inspector-rules-focus-next-on-enter-label = 按下 <kbd>Enter</kbd> 时聚焦下一个输入部分
 options-inspector-rules-focus-next-on-enter-tooltip =
     .title = 启用后，在编辑选择器、属性名称或值时按下 Enter 键会将焦点移动到下一个输入部分。
 
