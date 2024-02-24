@@ -349,6 +349,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Köszönjük, hogy a { -bra
 onboarding-new-user-time-based-survey-title = Mióta használja a { -brand-short-name(case: "accusative") }?
 onboarding-new-user-familiarity-based-survey-title = Mennyire ismeri jól a { -brand-short-name(case: "accusative") }?
 onboarding-new-user-survey-subtitle = Visszajelzése segít, hogy a { -brand-short-name } még jobb legyen.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Tovább
+onboarding-new-user-survey-legal-link-label = A „{ onboarding-new-user-survey-next-button-label }” kiválasztásával elfogadja a { -brand-product-name } <a data-l10n-name="privacy_notice">Adatvédelmi nyilatkozatát</a >
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Teljesen új vagyok
 onboarding-new-user-survey-time-based-option-2 = Kevesebb mint 1 hónapja
