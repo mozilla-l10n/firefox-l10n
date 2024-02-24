@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Értékelések minőség
 shopping-message-bar-page-not-supported =
     .heading = Nem tudjuk ellenőrizni ezeket az értékeléseket
     .message = Sajnos bizonyos terméktípusok esetén nem tudjuk ellenőrizni az értékelés minőségét. Például az ajándékutalványok, videóközvetítések, zenék és játékok esetén.
+shopping-message-bar-keep-closed-header =
+    .heading = Zárva maradjon?
+    .message = Frissítheti a beállításait, hogy az értékelés-ellenőrző alapértelmezetten zárva maradjon. Jelenleg automatikusan megnyílik.
+shopping-message-bar-keep-closed-dismiss-button = Köszönöm, nem
+shopping-message-bar-keep-closed-accept-button = Igen, maradjon zárva
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Alkalmanként releváns termékek hirdetéseit fogja látni. Csak megbízható értékeléssel rendelkező termékeket hirdetünk. <a data-l10n-name="review-quality-url">További tudnivalók</a>
 shopping-settings-opt-out-button = Értékelés-ellenőrző kikapcsolása
 powered-by-fakespot = Az értékelés-ellenőrzőt a <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> szolgáltatja.
+shopping-settings-auto-open-toggle =
+    .label = Értékelés-ellenőrző automatikus megnyitása
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = A termékek megtekintésekor itt: { $firstSite }, { $secondSite } és { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = A termékek megtekintésekkor itt: { $currentSite }
+shopping-settings-sidebar-enabled-state = Értékelés-ellenőrző <strong>be</strong>
 
 ## Strings for the adjusted rating component
 
@@ -173,6 +191,17 @@ shopping-callout-pdp-opted-in-title = Megbízhatók ezek az értékelések? Tudj
 shopping-callout-pdp-opted-in-subtitle = Nyissa meg az értékelés-ellenőrzőt a módosított értékelés megtekintéséhez, amelyből el lettek távolítva a megbízhatatlan értékelések. Továbbá, nézze meg a legutóbbi hiteles értékelések legfontosabb elemeit.
 shopping-callout-closed-not-opted-in-title = Egy kattintás a megbízható értékelésekhez
 shopping-callout-closed-not-opted-in-subtitle = Próbálja ki az értékelés-ellenőrzőt, ha látja az árat. Kapjon gyorsan betekintést a valódi vevőktől – még a vásárlás előtt.
+shopping-callout-closed-not-opted-in-revised-title = Egy kattintás a megbízható értékelésekhez
+shopping-callout-closed-not-opted-in-revised-subtitle = Csak kattintson az árcímke ikonra a címsorban, hogy visszatérjen az értékelés-ellenőrzőhöz.
+shopping-callout-closed-not-opted-in-revised-button = Megértettem!
+shopping-callout-not-opted-in-reminder-title = Vásároljon magabiztosan
+shopping-callout-not-opted-in-reminder-subtitle = Nem biztos benne, hogy egy termék értékelései valódiak vagy hamisak? A { -brand-product-name } értékelés-ellenőrzője segíthet.
+shopping-callout-not-opted-in-reminder-open-button = Értékelés-ellenőrző megnyitása
+shopping-callout-not-opted-in-reminder-close-button = Eltüntetés
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne jelenjen meg újra
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Három termékértékelés absztrakt illusztrációja. Az egyiken egy figyelmeztető szimbólum van, amely azt jelzi, hogy esetleg nem megbízható.
+shopping-callout-disabled-auto-open-title = Az értékelés-ellenőrző most már alapértelmezetten be van zárva
 
 ## Onboarding message strings.
 
@@ -188,7 +217,6 @@ shopping-onboarding-dynamic-subtitle-1 = Vásárlás előtt nézze meg, hogy men
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Vásárlás előtt nézze meg, hogy mennyire megbízhatók a(z) <b>{ $currentSite }</b> termékértékelései. Az értékelés-ellenőrző, a { -brand-product-name } egy kísérleti funkciója, amely közvetlenül a böngészőbe van építve.
 shopping-onboarding-body = A { -fakespot-brand-full-name } erejét használva segítünk elkerülni az elfogult és a nem hiteles értékeléseket. Az MI modellünket folyamatosan fejlesztjük, hogy megvédjük Önt vásárlás közben. <a data-l10n-name="learn_more">További tudnivalók</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Az „{ shopping-onboarding-opt-in-button }” kiválasztásával elfogadja a { -fakespot-brand-name } <a data-l10n-name="privacy_policy">adatvédelmi irányelveit</a> és <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Az „{ shopping-onboarding-opt-in-button }” kiválasztásával elfogadja a { -brand-product-name }<a data-l10n-name="privacy_policy">adatvédelmi irányelveit</a> és a { -fakespot-brand-name } <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
 shopping-onboarding-opt-in-button = Igen, kipróbálom
 shopping-onboarding-not-now-button = Most nem
