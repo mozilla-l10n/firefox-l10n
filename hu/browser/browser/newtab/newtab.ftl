@@ -198,6 +198,7 @@ newtab-section-header-recent-activity = Legutóbbi tevékenység
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = A(z) { $provider } ajánlásával
+newtab-section-header-stories = Elgondolkodtató történetek
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -206,6 +207,8 @@ newtab-empty-section-highlights = Kezdjen el böngészni, és itt fognak megjele
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Már felzárkózott. Nézzen vissza később a legújabb { $provider } hírekért. Nem tud várni? Válasszon egy népszerű témát, hogy még több sztorit találjon a weben.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Már felzárkózott. Nézzen vissza később további történetekért. Nem tud várni? Válasszon egy népszerű témát, hogy még több sztorit találjon a weben.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -261,6 +264,9 @@ newtab-custom-pocket-subtitle = Kivételes tartalmak a { -pocket-brand-name } v�
 newtab-custom-pocket-toggle =
     .label = A { -pocket-brand-name } által ajánlott
     .description = Kivételes tartalmak a { -pocket-brand-name } válogatásában, amely a { -brand-product-name } család része
+newtab-custom-stories-toggle =
+    .label = Ajánlott történetek
+    .description = Kivételes tartalmak a { -brand-product-name } család válogatásában
 newtab-custom-pocket-sponsored = Szponzorált történetek
 newtab-custom-pocket-show-recent-saves = Legutóbbi mentések megjelenítése
 newtab-custom-recent-title = Legutóbbi tevékenység
