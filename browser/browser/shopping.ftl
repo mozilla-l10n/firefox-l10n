@@ -202,6 +202,11 @@ shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne jelenjen meg újra
 shopping-callout-not-opted-in-reminder-img-alt =
     .aria-label = Három termékértékelés absztrakt illusztrációja. Az egyiken egy figyelmeztető szimbólum van, amely azt jelzi, hogy esetleg nem megbízható.
 shopping-callout-disabled-auto-open-title = Az értékelés-ellenőrző most már alapértelmezetten be van zárva
+shopping-callout-disabled-auto-open-subtitle = Kattintson az árcédula ikonra a címsorban, ha látni szeretné, hogy megbízhat-e egy termék értékelésében.
+shopping-callout-disabled-auto-open-button = Megértettem
+shopping-callout-opted-out-title = Az értékelés-ellenőrző ki van kapcsolva
+shopping-callout-opted-out-subtitle = A visszakapcsolásához kattintson az árcédula ikonra a címsorban, és kövesse az utasításokat.
+shopping-callout-opted-out-button = Megértettem
 
 ## Onboarding message strings.
 
