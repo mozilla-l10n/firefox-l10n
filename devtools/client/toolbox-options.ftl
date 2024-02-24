@@ -46,6 +46,8 @@ options-inspector-simplified-highlighters-tooltip =
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = Fókuszálás a következő beviteli mezőre az <kbd>Enter</kbd> megnyomásakor
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Ha engedélyezve van, akkor egy választó, tulajdonságnév vagy érték szerkesztésekor és az Enter gomb megnyomásakor a fókusz a következő bemenetre kerül.
 
 ## "Default Color Unit" options for the Inspector
 
@@ -64,7 +66,7 @@ options-styleeditor-label = Stílusszerkesztő
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS automatikus kiegészítése
 options-stylesheet-autocompletion-tooltip =
-    .title = CSS tulajdonságok, értékek és szelektorok automatikus kiegészítése a Stílusszerkesztőben gépelés közben
+    .title = A CSS tulajdonságok, értékek és választók automatikus kiegészítése a Stílusszerkesztőben gépelés közben
 
 ## Screenshot section
 
