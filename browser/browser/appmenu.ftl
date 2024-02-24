@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Több lap megjelenítése
     .tooltiptext = Több lap megjelenítése erről az eszközről
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Egy inaktív lap megjelenítése
+           *[other] { $count } inaktív lap megjelenítése
+        }
+    .tooltiptext = Az inaktív lapok megjelenítése az eszközön
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nincsenek nyitott lapok
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -168,6 +178,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Ajánlott előbeállítás a legtöbb webalkalmazás hibakereséséhez, alacsony pluszköltséggel.
 profiler-popup-presets-web-developer-label =
     .label = Webfejlesztő
@@ -257,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Kiegészítők fejlesztőknek
 appmenuitem-report-broken-site =
     .label = Hibás webhely bejelentése
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Jelentkezzen be a fiókjába
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Kapjon figyelmeztetést az adatvédelmi incidensekről
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Maszkolja a valódi e-mail-címét és telefonszámát
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Védje meg az online tevékenységét
