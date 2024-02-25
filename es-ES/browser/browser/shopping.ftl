@@ -199,8 +199,13 @@ shopping-callout-not-opted-in-reminder-subtitle = ¿No está seguro si las revis
 shopping-callout-not-opted-in-reminder-open-button = Abrir el verificador de reseñas
 shopping-callout-not-opted-in-reminder-close-button = Descartar
 shopping-callout-not-opted-in-reminder-ignore-checkbox = No volver a mostrar
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Ilustración abstracta de tres reseñas de productos. Una de ellas tiene un símbolo de advertencia que indica que puede no ser fiable.
+shopping-callout-disabled-auto-open-title = El verificador de reseñas ahora está cerrado de forma predeterminada
+shopping-callout-disabled-auto-open-subtitle = Haga clic en el ícono de la etiqueta de precio en la barra de direcciones cada vez que desee verificar si puede confiar en las reseñas de un producto.
 shopping-callout-disabled-auto-open-button = Entendido
 shopping-callout-opted-out-title = El verificador de reseñas está desactivado
+shopping-callout-opted-out-subtitle = Para volver a activarlo, haga clic en el icono de la etiqueta de precio en la barra de direcciones y siga las indicaciones.
 shopping-callout-opted-out-button = Entendido
 
 ## Onboarding message strings.
