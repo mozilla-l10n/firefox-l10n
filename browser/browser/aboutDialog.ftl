@@ -43,7 +43,7 @@ update-internal-error2 = Klarte ikkje å sjå etter oppdateringar på grunn av i
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Du brukar no oppdateringskanalen <label data-l10n-name="current-channel">{ $channel }</label>
+aboutdialog-channel-description = Du nyttar no oppdateringskanalen <label data-l10n-name="current-channel">{ $channel }</label>
 warningDesc-version = { -brand-short-name } er eksperimentell, og kan vere ustabil.
 aboutdialog-help-user = { -brand-product-name }-hjelp
 aboutdialog-submit-feedback = Send inn tilbakemelding
