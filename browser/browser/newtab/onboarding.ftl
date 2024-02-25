@@ -351,6 +351,7 @@ onboarding-new-user-familiarity-based-survey-title = Ako dobre poznáte prehliad
 onboarding-new-user-survey-subtitle = Vaša spätná väzba pomáha ešte viac vylepšiť { -brand-short-name }.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Ďalej
+onboarding-new-user-survey-legal-link-label = Voľbou možnosti “{ onboarding-new-user-survey-next-button-label }” súhlasíte s <a data-l10n-name="privacy_notice">Vyhlásením o ochrane osobných údajov</a> { -brand-product-name(case: "gen") }.
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Som úplný nováčik
 onboarding-new-user-survey-time-based-option-2 = Menej ako 1 mesiac
