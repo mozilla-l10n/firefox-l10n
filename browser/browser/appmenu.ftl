@@ -274,3 +274,13 @@ appmenu-developer-tools-extensions =
     .label = Rozšírenia pre vývojárov
 appmenuitem-report-broken-site =
     .label = Nahlásiť nefunkčnú stránku
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Prihláste sa do svojho účtu
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Získajte upozornenia na úniky údajov
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Zamaskujte svoju skutočnú e‑mailovú adresu a telefónne číslo
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Chráňte svoju online aktivitu
