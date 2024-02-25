@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Kan ikkje kopla til trygt, fordi SSL-protokollen er slått av.
 psmerr-ssl2-disabled = Kan ikkje kople til trygt, fordi nettstaden brukar ein eldre, utrygg versjon av SSL-protokollen.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Du har motteke eit ugyldig sertifikat. Kontakt den ansvarlige for tenaren, eller e-postmottakaren, og gje dei følgande informasjon:
     
     Sertifikatet inneheld det same serienummeret som eit anna sertifikat som er utgjeve av denne sertifikatutgjevaren. Skaff eit nytt sertifikat med unikt serienummer.
-
 ssl-error-export-only-server = Klarte ikkje å kommunisere trygt. Motparten støttar ikkje sterk kryptering.
 ssl-error-us-only-server = Klarte ikkje å kommunisere trygt. Motparten krev ei sterk kryptering som ikkje er støtta.
 ssl-error-no-cypher-overlap = Kan ikkje kommunisere trygt med motparten: Har ingen felles krypteringsalgoritme.
@@ -150,9 +149,8 @@ ssl-error-weak-server-cert-key = Tenar-sertifikatet inneheld ein offentlig nøkk
 ssl-error-rx-short-dtls-read = Ikkje nok plass i buffer for DTLS-oppføring.
 ssl-error-no-supported-signature-algorithm = Ingen støtta TLS signaturalgoritmar vart konfigurerte.
 ssl-error-unsupported-signature-algorithm = Motparten brukte ein ustøtta kombinasjon av signatur og hash-algoritmar.
-ssl-error-missing-extended-master-secret = Motparten freista å fortsetje utan ei gyldig extended_master_secret-utviding.
-ssl-error-unexpected-extended-master-secret = Motparten freista å fortsetje med ei uventa extended_master_secret-utviding.
-
+ssl-error-missing-extended-master-secret = Motparten freista å halde fram utan ei gyldig extended_master_secret-utviding.
+ssl-error-unexpected-extended-master-secret = Motparten freista å halde fram med ei uventa extended_master_secret-utviding.
 sec-error-io = Ein I/O-feil oppstod under sikkerheitsautorisasjon.
 sec-error-library-failure = feil i tryggingsbibliotek.
 sec-error-bad-data = tryggingsbibliotek: tok imot ugyldige data.
@@ -319,7 +317,6 @@ sec-error-locked-password = Passordet er låst.
 sec-error-unknown-pkcs11-error = Ukjend PKCS #11-feil.
 sec-error-bad-crl-dp-url = Ugyldig eller ustøtta URL i CRL distribusjonspunktnamn.
 sec-error-cert-signature-algorithm-disabled = Sertifikatet vart signert med ein signaturalgoritme som er deaktivert fordi den er utrygg.
-
 mozilla-pkix-error-key-pinning-failure = Tenaren brukar key pinning (HPKP), men ingen tiltrudde sertifikat vart funne som passar til pin-settet. Brot på key-pinning kan ikkje overstyrast.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Tenaren brukar eit sertifikat som identifiserer det som ein sertifikatutskrivar. For eit rett utskrive sertifikat bør ikkje dette skje.
 mozilla-pkix-error-inadequate-key-size = Tenaren brukar eit sertifikat med ein nøkkelstorleik som er for liten til å etablere ei sikker tilkopling.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Tenaren spesifiserte eit sertifika
 mozilla-pkix-error-empty-issuer-name = Serveren presenterte eit sertifikat med eit tomt unikt utskrivarnamn.
 mozilla-pkix-error-additional-policy-constraint-failed = Ei ytterlegare policy-avgrensing mislykkast ved validering av dette sertifikatet.
 mozilla-pkix-error-self-signed-cert = Sertifikatet er ikkje tiltrudd fordi det er sjølvsignert.
-
 xp-java-remove-principal-error = Klarte ikkje å fjerne kontohavar
 xp-java-delete-privilege-error = Klarte ikkje å slette privilegiet
 xp-java-cert-not-exists-error = Denne principalen har ikkje eit sertifikat
-
 xp-sec-fortezza-bad-card = Fortezza-kort har ikkje vorte skikkeleg initialisert.  Fjern det, og returner det til utskrivaren.
 xp-sec-fortezza-no-card = Ingen Fortezza-kort vart funne
 xp-sec-fortezza-none-selected = Ingen Fortezza-kort er valt
