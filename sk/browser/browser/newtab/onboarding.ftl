@@ -349,6 +349,8 @@ onboarding-gratitude-security-and-privacy-subtitle = Ďakujeme, že používate 
 onboarding-new-user-time-based-survey-title = Ako dlho používate { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = Ako dobre poznáte prehliadač { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Vaša spätná väzba pomáha ešte viac vylepšiť { -brand-short-name }.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Ďalej
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Som úplný nováčik
 onboarding-new-user-survey-time-based-option-2 = Menej ako 1 mesiac
