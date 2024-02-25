@@ -4,20 +4,16 @@
 
 password-not-set =
     .value = (ikkje valt)
-
 failed-pp-change = Klarte ikkje å endre hovudpassordet.
 incorrect-pp = Du skreiv ikkje inn rett gjeldande hovudpassord. Prøv på nytt.
 pp-change-ok = Hovudpassordet er endra.
-
 settings-pp-erased-ok = Du har sletta hovudpassordet ditt. Lagra passord og private sertifikatnøklar administrert av { -brand-short-name } vil ikkje vere verna.
 settings-pp-not-wanted = Åtvaring! Du har bestemt deg for ikkje å bruke eit hovudpassord. Lagra passord og private sertifikatnøklar administrert av { -brand-short-name } vil ikkje vere verna.
-
 pp-change2empty-in-fips-mode = Du er for tida i FIPS-modus. FIPS krev at du brukar eit hovudpassord.
 pw-change-success-title = Vellykka passordendring
 pw-change-failed-title = Mislykka passordendring
 pw-remove-button =
     .label = Fjern
-
 primary-password-dialog =
     .title = Hovudpassord
 set-password-old-password = Gjeldande passord:
@@ -28,11 +24,10 @@ set-password-meter-loading = Lastar
 primary-password-admin = Administratoren din krev at du har eit hovudpassord for å lagre passord.
 primary-password-description = Dersom du treng å verne sensitiv informasjon, som til dømes innloggingar og passord, kan du bruke eit hovudpassord. Dersom du lagar eit hovudpassord, må du skrive inn passordet for kvar programøkt der { -brand-short-name } hentar ut lagra informasjon som er beskytta av passordet.
 primary-password-warning = Ver sikker på at du hugsar hovudpassordet.  Dersom du gløymer hovudpassordet vil du ikkje få tilgang til informasjonen som er beskytta av det på denne eininga.
-
 remove-primary-password =
     .title = Fjern hovudpassordet
 remove-info =
-    .value = Du må skrive inn gjeldande passord for å fortsetje:
+    .value = Du må skrive inn gjeldande passord for å halde fram:
 remove-primary-password-warning1 = Hovudpassordet ditt vert brukt for å ta vare på sensitiv informasjon som innloggningar og passord.
 remove-primary-password-warning2 = Dersom du fjernar hovudpassordet vil informasjonen ikkje vere beskytta dersom datamaskina blir angripen og kompromittert.
 remove-password-old-password =
