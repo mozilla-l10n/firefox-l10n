@@ -36,6 +36,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = カード情報を保存しない
     .accessKey = N
+
+# Used on the doorhanger when an credit card change is detected.
+
 # Used on the doorhanger when an credit card change is detected.
 credit-card-update-doorhanger-header = クレジットカード情報を更新しますか？
 credit-card-update-doorhanger-description = 更新するクレジットカード:
@@ -45,3 +48,8 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = 既存のカード情報を更新
     .accessKey = U
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = 住所の管理
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
