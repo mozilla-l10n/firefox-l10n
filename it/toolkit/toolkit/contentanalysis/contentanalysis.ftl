@@ -46,3 +46,4 @@ contentanalysis-warndialogtitle = Questi contenuti potrebbero essere non sicuri
 contentanalysis-warndialogtext = La tua organizzazione utilizza un software per la prevenzione della perdita di dati che ha segnalato questi contenuti come non sicuri: { $content }. Utilizzarli comunque?
 contentanalysis-warndialog-response-allow = Utilizza contenuti
 contentanalysis-warndialog-response-deny = Annulla
+
