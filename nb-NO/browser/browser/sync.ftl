@@ -34,3 +34,4 @@ fxa-menu-send-tab-to-device-description = Send en fane øyeblikkelig til alle en
 fxa-menu-sign-out =
     .label = Logg ut…
 fxa-menu-sync-title = Synkroniser
+fxa-menu-sync-description = Få tilgang til nettet ditt hvor som helst
