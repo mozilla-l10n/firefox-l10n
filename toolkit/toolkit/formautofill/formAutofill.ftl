@@ -14,3 +14,8 @@ autofill-options-link-osx = ترجیحات پرکردن خودکار فرم
 
 # Used on the doorhanger when an credit card change is detected.
 
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+autofill-card-network-amex = امریکن اکسپرس
+autofill-card-network-visa = ویزا
