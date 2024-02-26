@@ -1,0 +1,133 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+ Version: MPL 1.1/GPL 2.0/LGPL 2.1
+
+ The contents of this file are subject to the Mozilla Public License Version
+ 1.1 (the "License"); you may not use this file except in compliance with
+ the License. You may obtain a copy of the License at
+ http://www.mozilla.org/MPL/
+
+ Software distributed under the License is distributed on an "AS IS" basis,
+ WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+ for the specific language governing rights and limitations under the
+ License.
+
+ The Original Code is Mozilla Communicator client code, released
+ March 31, 1998.
+
+ The Initial Developer of the Original Code is
+ Netscape Communications Corporation.
+ Portions created by the Initial Developer are Copyright (C) 1998-1999
+ the Initial Developer. All Rights Reserved.
+
+ Contributor(s):
+
+ Alternatively, the contents of this file may be used under the terms of
+ either the GNU General Public License Version 2 or later (the "GPL"), or
+ the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+ in which case the provisions of the GPL or the LGPL are applicable instead
+ of those above. If you wish to allow use of your version of this file only
+ under the terms of either the GPL or the LGPL, and not to allow others to
+ use your version of this file under the terms of the MPL, indicate your
+ decision by deleting the provisions above and replace them with the notice
+ and other provisions required by the GPL or the LGPL. If you do not delete
+ the provisions above, a recipient may use your version of this file under
+ the terms of any one of the MPL, the GPL or the LGPL.
+
+ ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY toField3.label "Til">
+<!ENTITY fromField3.label "Frå ">
+<!ENTITY senderField3.label "Avsendar">
+<!ENTITY organizationField3.label "Organisasjon">
+<!ENTITY replyToField3.label "Svar til">
+
+<!ENTITY subjectField3.label "Emne">
+<!ENTITY ccField3.label "Kopi">
+<!ENTITY bccField3.label "Blindkopi">
+<!ENTITY newsgroupsField3.label "Nyhenderupper">
+<!ENTITY followupToField3.label "Oppfølgjing">
+<!ENTITY tagsHdr3.label "Stikkord">
+<!ENTITY dateField3.label "Dato">
+<!ENTITY userAgentField3.label "Program">
+<!ENTITY referencesField3.label "Referansar">
+<!ENTITY messageIdField3.label "Meldings-ID ">
+<!ENTITY inReplyToField3.label "Som svar til">
+<!ENTITY originalWebsite3.label "Nettstad">
+
+<!ENTITY editMessageDescription.label "Dette er eit meldingsutkast">
+<!ENTITY editMessageButton.label "Rediger …">
+<!ENTITY hdrArchiveButton1.label "Arkiver">
+<!ENTITY hdrArchiveButton1.tooltip "Arkiver denne meldinga">
+<!ENTITY hdrSmartReplyButton1.label "Smart svar">
+<!ENTITY hdrReplyButton1.label "Svar">
+<!ENTITY hdrReplyButton1.tooltip "Svar på denne meldinga">
+<!ENTITY hdrReplyAllButton1.label "Svar til alle">
+<!ENTITY hdrReplyAllButton1.tooltip "Svar til avsendar og alle mottakarar">
+<!ENTITY hdrReplyListButton1.label "Svar til liste">
+<!ENTITY hdrReplyListButton1.tooltip "Svar til e-postliste">
+<!ENTITY hdrForwardButton1.label "Vidaresend">
+<!ENTITY hdrForwardButton1.tooltip "Vidaresend denne meldinga">
+<!ENTITY hdrJunkButton1.label "Uynskt">
+<!ENTITY hdrJunkButton1.tooltip "Merk denne meldinga som uynskt">
+<!ENTITY hdrTrashButton1.label "Slett">
+<!ENTITY hdrTrashButton1.tooltip "Slett denne meldinga">
+
+<!ENTITY hdrViewToolbarShowFull.label "Vis ikon og tekst">
+<!ENTITY hdrViewToolbarShowFull.accesskey "V">
+<!ENTITY hdrViewToolbarShowIcons.label "Vis berre ikon">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "b">
+<!ENTITY hdrViewToolbarShowText.label "Vis berre tekst">
+<!ENTITY hdrViewToolbarShowText.accesskey "s">
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Alltid vis Svar til avsendar">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
+
+<!ENTITY otherActionsButton1.label "Andre handlingar">
+<!ENTITY otherActionsOpenConversation1.label "Opne i samtale">
+<!ENTITY otherActionsOpenConversation1.accesskey "O">
+<!ENTITY otherActionsOpenInNewWindow1.label "Opne i nytt vindauge">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "n">
+<!ENTITY otherActionsOpenInNewTab1.label "Opne i ny fane">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "e">
+<!ENTITY markAsReadMenuItem1.label "Merk som lest">
+<!ENTITY markAsReadMenuItem1.accesskey "M">
+<!ENTITY markAsUnreadMenuItem1.label "Merk som ulest">
+<!ENTITY markAsUnreadMenuItem1.accesskey "M">
+<!ENTITY saveAsMenuItem1.label "Lagre som …">
+<!ENTITY saveAsMenuItem1.accesskey "s">
+<!ENTITY viewSourceMenuItem1.label "Vis kjeldekode">
+<!ENTITY viewSourceMenuItem1.accesskey "V">
+<!ENTITY otherActionsPrint1.label "Skriv ut …">
+<!ENTITY otherActionsPrint1.accesskey "S">
+
+<!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Opne">
+<!ENTITY openAttachmentCmd.accesskey    "O">
+<!ENTITY saveAsAttachmentCmd.label    "Lagre som …">
+<!ENTITY saveAsAttachmentCmd.accesskey    "s">
+<!ENTITY detachAttachmentCmd.label    "Splitt …">
+<!ENTITY detachAttachmentCmd.accesskey    "T">
+<!ENTITY deleteAttachmentCmd.label    "Slett">
+<!ENTITY deleteAttachmentCmd.accesskey    "L">
+<!ENTITY openAllAttachmentsCmd.label    "Opne alle …">
+<!ENTITY openAllAttachmentsCmd.accesskey    "O">
+<!ENTITY saveAllAttachmentsCmd.label    "Lagre alle …">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "L">
+<!ENTITY detachAllAttachmentsCmd.label    "Splitt alle …">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "S">
+<!ENTITY deleteAllAttachmentsCmd.label    "Slett alle …">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
+
+<!ENTITY openAttachment.tooltip "Opne vedlagde fil">
+
+<!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Lagre">
+<!ENTITY saveAttachmentButton1.tooltip     "Lagre vedlagde fil">
+<!ENTITY saveAllAttachmentsButton1.label   "Lagre alle">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Lagre alle vedlagde filer">
+
+<!ENTITY copyLinkCmd.label        "Kopier lenkjeadresse">
+<!ENTITY copyLinkCmd.accesskey    "K">
+
+<!ENTITY CopyMessageId.label "Kopier meldings-ID">
+<!ENTITY OpenMessageForMsgId.label "Opne melding for ID">
+<!ENTITY OpenBrowserWithMsgId.label "Opne nettlesar med meldings-ID">

@@ -1,0 +1,5 @@
+<!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
+
+<!ENTITY title.label "Nedlasting av sertifikat">
+<!ENTITY info.message "Søkjer i katalogen etter sertifikata til mottakarane. Dette kan ta ei stund.">
+<!ENTITY stop.label "Avslutt søk">

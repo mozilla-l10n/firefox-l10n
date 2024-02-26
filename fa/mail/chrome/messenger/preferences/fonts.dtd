@@ -1,0 +1,72 @@
+<!ENTITY  fontsAndEncodingsDialog.title           "Fonts &amp; Encodings">
+<!ENTITY  window.width                            "39em">
+<!ENTITY  window.macWidth                         "43em">
+<!ENTITY  window.unixWidth                        "41em">
+
+<!ENTITY  language.label                          "قلم‌ها برای:">
+<!ENTITY  language.accesskey                      "ق">
+
+<!ENTITY  sizes.label                             "Size (pixels)">
+<!ENTITY  proportionalSize.accesskey              "e">
+<!ENTITY  monospaceSize.accesskey                 "x">
+
+<!ENTITY  proportional.label                      "مختلف العرض:">
+<!ENTITY  proportional.accesskey                  "م">
+
+<!ENTITY  serif.label                             "سریف:">
+<!ENTITY  serif.accesskey                         "س">
+<!ENTITY  sans-serif.label                        "بدون سریف:">
+<!ENTITY  sans-serif.accesskey                    "ب">
+<!ENTITY  monospace.label                         "تک‌عرض:">
+<!ENTITY  monospace.accesskey                     "ت">
+
+<!ENTITY  font.langGroup.latin1                   "غربی">
+<!ENTITY  font.langGroup.latin2                   "اروپای مرکزی">
+<!ENTITY  font.langGroup.japanese                 "ژاپنی">
+<!ENTITY  font.langGroup.trad-chinese             "چینی سنتی (تایوان)‏">
+<!ENTITY  font.langGroup.simpl-chinese            "چینی ساده‌شده">
+<!ENTITY  font.langGroup.trad-chinese-hk          "چینی سنتی (هنگ‌کنگ)‏">
+<!ENTITY  font.langGroup.korean                   "کره‌ای">
+<!ENTITY  font.langGroup.cyrillic                 "سیریلی">
+<!ENTITY  font.langGroup.baltic                   "بالتیک">
+<!ENTITY  font.langGroup.el                       "یونانی">
+<!ENTITY  font.langGroup.turkish                  "ترکی استانبولی">
+<!ENTITY  font.langGroup.unicode                  "زبان‌های دیگر">
+<!ENTITY  font.langGroup.user-def                 "تعریف شده توسط کاربر">
+<!ENTITY  font.langGroup.thai                     "تایلندی">
+<!ENTITY  font.langGroup.hebrew                   "عبری">
+<!ENTITY  font.langGroup.arabic                   "عربی">
+<!ENTITY  font.langGroup.devanagari               "دواناگری">
+<!ENTITY  font.langGroup.tamil                    "تامیلی">
+<!ENTITY  font.langGroup.armenian                 "ارمنی">
+<!ENTITY  font.langGroup.bengali                  "بنگالی">
+<!ENTITY  font.langGroup.canadian                 "آوانگاری کانادایی واحد">
+<!ENTITY  font.langGroup.ethiopic                 "اتوپیایی">
+<!ENTITY  font.langGroup.georgian                 "گرجی">
+<!ENTITY  font.langGroup.gujarati                 "گجراتی">
+<!ENTITY  font.langGroup.gurmukhi                 "گورموخی">
+<!ENTITY  font.langGroup.khmer                    "کامبوجی">
+<!ENTITY  font.langGroup.malayalam                "مالایالامی">
+
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "حداقل اندازهٔ قلم:">
+<!ENTITY minSize.accesskey                        "ح">
+<!ENTITY minSize.none                             "هیچ">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "سِریف">
+<!ENTITY  useDefaultFontSansSerif.label           "بدون سِریف">
+
+<!ENTITY  useDocumentFonts.label                  "Allow messages to use other fonts">
+<!ENTITY  useDocumentFonts.accesskey              "o">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Outgoing Mail:">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle1.label            "Character Encodings">
+<!ENTITY composingDescription.label       "Set the default character encodings for sending and receiving mail">
+
+<!ENTITY viewDefaultCharsetList.label     "Incoming Mail:">
+<!ENTITY viewDefaultCharsetList.accesskey  "I">
+<!ENTITY replyInDefaultCharset2.label     "When possible, use the default character encoding in replies">
+<!ENTITY replyInDefaultCharset2.accesskey "h">

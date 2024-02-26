@@ -1,0 +1,9 @@
+<!-- extracted from institems.xul -->
+
+<!ENTITY dialog.title            "نصب نرم‌افزار">
+<!ENTITY dialog.style            "width: 45em">
+<!ENTITY warningPrimary.label    "تنها افزودنی‌های مؤلفانی را نصب کنید که به آنها اطمینان دارید.">
+<!ENTITY warningSecondary.label  "نرم‌افزارهای بدخواه می‌توانند به رایانه‌تان صدمه بزنند یا به حریم خصوصی‌تان خدشه وارد کنند.">
+
+<!ENTITY from.label "از:">
+

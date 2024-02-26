@@ -1,0 +1,42 @@
+<!ENTITY window.title "Filterreglar">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
+<!ENTITY filterName.label "Filternamn:">
+<!ENTITY filterName.accesskey "F">
+
+<!ENTITY junk.label "Uynskt">
+<!ENTITY notJunk.label "Ynskt">
+
+<!ENTITY lowestPriorityCmd.label "Lågast">
+<!ENTITY lowPriorityCmd.label "Låg">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY highPriorityCmd.label "Høg">
+<!ENTITY highestPriorityCmd.label "Høgast">
+
+<!ENTITY contextDesc.label "Bruk filteret ved:">
+<!ENTITY contextDesc.accesskey "B">
+<!ENTITY contextIncoming.label "Henting av e-post">
+<!ENTITY contextManual.label "Manuell filtrering">
+<!ENTITY contextBoth.label "Henting av e-post eller manuell filtrering">
+<!ENTITY contextPostPlugin.label "Henting av e-post (etter klassifisering)">
+<!ENTITY contextPostPluginBoth.label "Henting av e-post (etter klassifisering) eller manuell køyring">
+<!ENTITY filterActionDesc.label "Gjer dette med meldingane:">
+<!ENTITY filterActionDesc.accesskey "G">
+
+<!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Flytt melding til">
+<!ENTITY copyMessage.label "Kopier melding til">
+<!ENTITY forwardTo.label "Vidaresend melding til">
+<!ENTITY replyWithTemplate.label "Svar med mal">
+<!ENTITY markMessageRead.label "Merk som lesen">
+<!ENTITY markMessageUnread.label "Merk som ulest">
+<!ENTITY markMessageStarred.label "Merk med stjerne">
+<!ENTITY setPriority.label "Sett prioritet til">
+<!ENTITY addTag.label "Merk melding">
+<!ENTITY setJunkScore.label "Sett uynskt-status til">
+<!ENTITY deleteMessage.label "Slett melding">
+<!ENTITY deleteFromPOP.label "Slett frå POP-tenaren">
+<!ENTITY fetchFromPOP.label "Hent frå POP-tenaren">
+<!ENTITY ignoreThread.label "Ignorer tråd">
+<!ENTITY ignoreSubthread.label "Ignorer deltråd">
+<!ENTITY watchThread.label "Følg tråd">
+<!ENTITY stopExecution.label "Stopp filtrering">

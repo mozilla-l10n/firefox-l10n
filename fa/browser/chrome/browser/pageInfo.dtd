@@ -1,0 +1,127 @@
+<!--
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mozilla Communicator client code.
+#
+# The Initial Developer of the Original Code is Daniel Brooks.
+# Portions created by the Initial Developer are Copyright (C) 2001
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s): Daniel Brooks <db48x@yahoo.com>
+#                 Florian QUEZE <f.qu@queze.net>
+#                 Ehsan Akhgari <ehsan.akhgari@gmail.com>
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+-->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "500">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "رونوشت برداشتن">
+<!ENTITY  copy.accesskey        "ن">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "انتخاب همه">
+<!ENTITY  selectall.accesskey   "ه">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "عمومی">
+<!ENTITY  generalTab.accesskey  "ع">
+<!ENTITY  generalURL            "نشانی:">
+<!ENTITY  generalType           "نوع:">
+<!ENTITY  generalMode           "حالت ترسیم:">
+<!ENTITY  generalSize           "اندازه:">
+<!ENTITY  generalReferrer       "نشانی اینترنتی ارجاع کننده:">
+<!ENTITY  generalSource         "متن در حافظهٔ نهان:">
+<!ENTITY  generalModified       "زمان تغییر:">
+<!ENTITY  generalEncoding       "کدگذاری:">
+<!ENTITY  generalMetaName       "نام">
+<!ENTITY  generalMetaContent    "محتوا">
+<!ENTITY  generalSecurityDetails   "جزئیات">
+<!ENTITY  generalSecurityDetails.accesskey "ج">
+
+<!ENTITY  mediaTab              "رسانه">
+<!ENTITY  mediaTab.accesskey    "ر">
+<!ENTITY  mediaLocation         "مکان:">
+<!ENTITY  mediaText             "متن مربوط:">
+<!ENTITY  mediaAltHeader        "متن بدل">
+<!ENTITY  mediaAddress          "نشانی">
+<!ENTITY  mediaType             "نوع">
+<!ENTITY  mediaSize             "اندازه">
+<!ENTITY  mediaCount            "تعداد">
+<!ENTITY  mediaDimension        "ابعاد:">
+<!ENTITY  mediaLongdesc         "شرح طولانی:">
+<!ENTITY  mediaBlockImage.accesskey "ب">
+<!ENTITY  mediaSaveAs           "ذخیره به نام…">
+<!ENTITY  mediaSaveAs.accesskey "ن">
+<!ENTITY  mediaSaveAs2.accesskey "ذ">
+<!ENTITY  mediaPreview          "پیش‌نمایش رسانه:">
+
+<!ENTITY  feedTab               "خوردها">
+<!ENTITY  feedTab.accesskey     "خ">
+<!ENTITY  feedSubscribe         "آبونه شدن">
+<!ENTITY  feedSubscribe.accesskey "آ">
+
+<!ENTITY  permTab               "مجوزها">
+<!ENTITY  permTab.accesskey     "م">
+<!ENTITY  permUseDefault        "استفاده از مقدار پیش‌فرض">
+<!ENTITY  permAskAlways         "هر بار پرسیده شود">
+<!ENTITY  permAllow             "اجازه دادن">
+<!ENTITY  permAllowSession      "اجازه دادن برای نشست">
+<!ENTITY  permBlock             "باز داشتن">
+<!ENTITY  permissionsFor        "مجوزهای وب‌گاه:">
+<!ENTITY  permImage             "بارگیری تصاویر">
+<!ENTITY  permPopup             "باز کردن پنجره‌های واشو">
+<!ENTITY  permCookie            "ایجاد کوکی">
+<!ENTITY  permInstall           "نصب ضمیمه یا تم">
+<!ENTITY  permGeo               "به اشتراک گذاشتن موقعیت مکانی">
+<!ENTITY permIndexedDB "نگه‌داری اطلاعات برای استفادهٔ برون‌خط">
+<!ENTITY permClearStorage "پاک‌سازی حافظه">
+<!ENTITY permClearStorage.accesskey "پ">
+
+<!ENTITY  securityTab           "امنیت">
+<!ENTITY  securityTab.accesskey "ا">
+<!ENTITY  securityHeader        "اطلاعات امنیتی این صفحه">
+<!ENTITY  securityView.certView "نمایش گواهی">
+<!ENTITY  securityView.accesskey "ن">
+<!ENTITY  securityView.unknown   "نامعلوم">
+
+
+<!ENTITY  securityView.identity.header   "هویت پایگاه وبی">
+<!ENTITY  securityView.identity.owner    "صاحب:">
+<!ENTITY  securityView.identity.domain   "پایگاه وبی:">
+<!ENTITY  securityView.identity.verifier "تأیید شده توسط:">
+
+<!ENTITY  securityView.privacy.header                   "تاریخچه و موارد خصوصی">
+<!ENTITY  securityView.privacy.history                  "آیا قبل از امروز از این وب‌گاه بازدید کرده‌ام؟">
+<!ENTITY  securityView.privacy.cookies                  "آیا این وب‌گاه اطلاعاتی (کوکی) بر روی رایانهٔ من ذخیره کرده است؟">
+<!ENTITY  securityView.privacy.viewCookies              "مشاهدهٔ کوکی‌ها">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "ک">
+<!ENTITY  securityView.privacy.passwords                "آیا برای این وب‌گاه گذرواژه‌ای ذخیره کرده‌ام؟">
+<!ENTITY  securityView.privacy.viewPasswords            "مشاهدهٔ گذرواژه‌های ذخیره شده">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "گ">
+
+<!ENTITY  securityView.technical.header                 "جزئیات فنی">

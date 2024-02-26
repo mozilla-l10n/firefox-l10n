@@ -1,0 +1,7 @@
+<!ENTITY identitiesListDesc.label "Multiple Identities Support">
+<!ENTITY identitiesListAdd.label  "Add…">
+<!ENTITY identitiesListAdd.accesskey  "A">
+<!ENTITY identitiesListEdit.label "ویرایش…">
+<!ENTITY identitiesListEdit.accesskey "و">
+<!ENTITY identitiesListDelete.label "حذف">
+<!ENTITY identitiesListDelete.accesskey "ح">

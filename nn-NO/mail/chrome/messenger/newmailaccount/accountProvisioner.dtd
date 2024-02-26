@@ -1,0 +1,39 @@
+<!ENTITY window.title "Velkomen til &brandShortName;">
+<!ENTITY header.label "ynskjer du ei ny e-postadresse som du kan bruke med &brandShortName;?">
+<!ENTITY other.languages "Vi viser berre tilbydarane som tilbyr adresser i ditt område. Trykk her for å vise alle tilbydarane.">
+<!ENTITY error.line1 "Vi klarte ikkje å finne nokre føreslåtte e-postadresser.">
+<!ENTITY error.line2 "Du kan søkje etter kallenamn eller andre nøkkelord for å finne fleire adresser">
+
+<!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
+     error.suggest.before, error.suggest.middle, and error.suggest.after all go into
+     one line with error.suggest.middle that links to a site which provides download
+     of free account alternatives. -->
+<!ENTITY error.suggest.before "Du kan óg prøve eitt av dei   ">
+<!ENTITY error.suggest.middle "gratis e-postalternativa">
+<!ENTITY error.suggest.after ".">
+
+<!-- LOCALIZATION NOTE(success.title.before, success.title.after):
+     success.title.before and success.title.after all go into one line, wrapping
+     around the name that the user has typed in to the search input. -->
+<!ENTITY success.title.before "Hei">
+<!ENTITY success.title.after ", fylgjande e-postadresser er tilgjengelege for deg:">
+<!ENTITY success.tip "(Du kan óg prøve å søkje etter kallenamn eller andre søkjeord for å finne fleire e-postadresser)">
+<!ENTITY partnership.description "I partnerskap med fleire tilbydarar kan &brandShortName; tilby deg ein ny e-postkonto. Berre fyll inn fornamn og etternamn, og evt. andre ord du ønskjer, i felta nedanfor for å kome i gang.">
+<!ENTITY existing.header "Har du allereie ei adresse du ynskjer å nytte?">
+<!ENTITY tinyheader.title "Har du ei adresse?">
+<!ENTITY tinyheader.existing "Bruk den eksisterande e-postadressa mi i staden">
+<!ENTITY content.close "Eg konfigurerer kontoen seinare i staden.">
+<!ENTITY successful.title "Gratulerer!">
+<!ENTITY successful.successMessage "Du har no sett opp kontoen.">
+<!ENTITY successful.write "Write some email">
+<!ENTITY successful.write.desc "Informer vener og familie om den nye adressa di.<br/> Det er årsaka til at du fekk denne nye adressa, er det ikkje?">
+<!ENTITY successful.customize "Tilpass &brandShortName; med nokre kule utvidingar">
+<!ENTITY successful.customize.desc "Der finst tusenvis av utvidingar som lèt deg tilpasse &brandShortName; til dine behov.">
+<!ENTITY successful.attach "Legg ved ein personleg signatur i e-posten">
+<!ENTITY successful.attach.desc "Du kan automatisk leggje ved eit sitat eller informasjon om deg sjølv på slutten av kvar melding du sender.">
+<!ENTITY successful.close "Lat att dete vindauget.">
+<!ENTITY input.namePlaceholder "Namnet ditt, eller kallenamnet">
+<!ENTITY input.search "Søk">
+<!ENTITY search_engine.title "Tilpass søkemotoren">
+<!ENTITY search_engine.message "E-posttilbydaren din kan óg gje deg søkjemoglegheiter på nettet">
+<!ENTITY search_engine.button "Fullfør">

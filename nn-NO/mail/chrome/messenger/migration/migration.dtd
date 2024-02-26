@@ -1,0 +1,29 @@
+
+<!ENTITY migrationWizard.title          "Importvegvisar">
+
+<!ENTITY importFromWin.label            "Importer innstillingar, kontoinnstillingar, adressebøker, filter og andre data frå:">
+<!ENTITY importFromNonWin.label         "Importer innstillingar, kontoinnstillingar, adressebøker og andre data frå:">
+
+<!ENTITY importFromNothing.label        "Ikkje importer noko">
+<!ENTITY importFromNothing.accesskey    "I">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 eller nyare">
+<!ENTITY importFromSeamonkey3.accesskey "S">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Importer innstillingar og e-postmapper frå">
+<!ENTITY importItems.title              "Kva som skal importerast">
+<!ENTITY importItems.label              "Vel det du vil importere:">
+
+<!ENTITY migrating.title                "Importerer …">
+<!ENTITY migrating.label                "Følgjande element vert no importerte …">
+
+<!ENTITY selectProfile.title            "Vel profil">
+<!ENTITY selectProfile.label            "Du kan importere frå følgjande profilar:">
+
+<!ENTITY done.title                     "Importering fullført">
+<!ENTITY done.label                     "Følgjande element er importerte:">

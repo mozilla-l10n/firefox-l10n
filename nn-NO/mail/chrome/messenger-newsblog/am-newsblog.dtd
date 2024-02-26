@@ -1,0 +1,20 @@
+<!ENTITY accountTitle.label "Kontoinnstillingar">
+
+<!ENTITY biffStart.label "Sjå etter nye artiklar med ">
+<!ENTITY biffStart.accesskey "å">
+<!ENTITY biffEnd.label "minutt mellomrom">
+
+<!ENTITY loginAtStartup.label "Sjå etter nye artiklar ved oppstart"> 
+<!ENTITY loginAtStartup.accesskey "n">
+
+<!ENTITY useQuickMode.label "Vis artikkeloppsummering i staden for å laste nettsida"> 
+<!ENTITY useQuickMode.accesskey "V">
+
+<!ENTITY manageSubscriptions.label "Handsame abonnement …"> 
+<!ENTITY manageSubscriptions.accesskey "H">
+
+<!-- entities from rss.rdf -->
+<!ENTITY feeds.accountName "Bloggar og nyhendekjelder">
+<!ENTITY feeds.wizardShortName "Nyhendekjelder">
+<!ENTITY feeds.wizardLongName "Bloggar og nyhendekjelder ">
+<!ENTITY feeds.wizardLongName.accesskey "B">

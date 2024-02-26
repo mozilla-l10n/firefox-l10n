@@ -1,0 +1,4 @@
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Lag nytt stikkord">
+<!ENTITY name.label              "Namn på stikkordet:">
+<!ENTITY name.accesskey          "N">

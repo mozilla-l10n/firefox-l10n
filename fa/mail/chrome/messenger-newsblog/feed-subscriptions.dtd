@@ -1,0 +1,18 @@
+<!-- Subscription Dialog -->
+<!ENTITY newsBlogSubscriptions.label "RSS Subscriptions">
+<!ENTITY subscriptionDesc.label "Note: Removing or changing the folder for a feed will not affect previously downloaded articles.">
+<!ENTITY feedTitle.label "عنوان:">
+<!ENTITY location.label  "مکان:">
+
+<!ENTITY button.addFeed.label       "افزودن">
+<!ENTITY button.addFeed.accesskey   "ا">
+<!ENTITY button.editFeed.label      "ویرایش">
+<!ENTITY button.editFeed.accesskey  "و">
+<!ENTITY button.removeFeed.label "حذف">
+<!ENTITY button.removeFeed.accesskey   "ح">
+<!ENTITY button.importOPML.label "Import">
+<!ENTITY button.importOPML.accesskey   "I">
+<!ENTITY button.exportOPML.label "Export">
+<!ENTITY button.exportOPML.accesskey   "x">
+
+<!ENTITY cmd.close.commandKey             "w">

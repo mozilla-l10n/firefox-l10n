@@ -1,0 +1,19 @@
+<!ENTITY editContactPanelDeleteContact.label "Slett">
+<!ENTITY editContactPanelDeleteContact.accesskey "S">
+
+<!ENTITY editContactName.label "Namn:">
+<!ENTITY editContactName.accesskey "N">
+
+<!ENTITY editContactEmail.label "E-post:">
+<!ENTITY editContactEmail.accesskey "E">
+
+<!ENTITY editContactAddressBook.label "Addressebok:">
+<!ENTITY editContactAddressBook.accesskey "A">
+
+<!ENTITY editContactPanelCancel.label "Avbryt">
+<!ENTITY editContactPanelCancel.accesskey "A">
+
+<!ENTITY editContactPanelDone.label "OK">
+<!ENTITY editContactPanelDone.accesskey "O">
+
+<!ENTITY contactMoveDisabledWarning.description "Du kan ikkje endre adresseboka fordi kontakten er i ei e-postliste.">

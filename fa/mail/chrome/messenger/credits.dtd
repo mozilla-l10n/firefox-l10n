@@ -1,0 +1,17 @@
+<!ENTITY credit.title     "&brandFullName; Credits">
+<!ENTITY brandMotto       "Thunderbirds Are Go!">
+<!ENTITY credit.leads     "Engineering Leads">
+<!ENTITY credit.thanks    "با تشکر ویژه از">
+
+<!-- localization credits look like this: -->
+<!--
+<!ENTITY credit.translation
+  "<h3>Translators</h3><ul><li>Name Here</li></ul>">
+-->
+<!ENTITY credit.translation "<h3>مترجمان</h3><ul>><li>احسان اخگری</li></ul>">
+
+<!ENTITY credit.theme          "Theme Design">
+<!ENTITY credit.qa             "Quality Assurance">
+<!ENTITY credit.build          "Build and Release">
+<!ENTITY credit.memory         "تقدیم به خاطرهٔ">
+<!ENTITY credit.poweredByGecko "Powered by Gecko&trade;">

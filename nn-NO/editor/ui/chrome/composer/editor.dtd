@@ -1,0 +1,100 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!-- Window title -->
+<!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY editorWindow.titlemodifier "Composer"> 
+<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+
+<!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Utformingslinje">
+<!ENTITY previewToolbarCmd.label "Førehandsvis">
+<!ENTITY previewToolbarCmd.tooltip "Last denne sida i nettlesaren">
+
+<!-- File menu items -->
+<!ENTITY exportToTextCmd.label "Eksporter til tekst …">
+<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY previewCmd.label "Førehandsvis sida">
+<!ENTITY previewCmd.accesskey "v">
+<!ENTITY sendPageCmd.label "Send sida …">
+<!ENTITY sendPageCmd.accesskey "s">
+
+<!-- View menu items -->
+<!ENTITY compositionToolbarCmd.label "Forfattarlinje">
+<!ENTITY compositionToolbarCmd.accesskey "F">
+<!ENTITY formattingToolbarCmd.label "Formateringslinje">
+<!ENTITY formattingToolbarCmd.accesskey "o">
+<!ENTITY editmodeToolbarCmd.label "Endringslinje">
+<!ENTITY editmodeToolbarCmd.accesskey "R">
+
+<!-- Format menu items -->
+<!ENTITY formatMenu.label "Formatering">
+<!ENTITY formatMenu.accesskey "o">
+<!ENTITY grid.label "Posisjoneringsnett">
+<!ENTITY grid.accesskey "P">
+<!ENTITY pageProperties.label "Sidetittel og -eigenskapar …">
+<!ENTITY pageProperties.accesskey "t">
+
+<!-- Tools menu items -->
+<!ENTITY validateCmd.label "Kontroller HTML">
+<!ENTITY validateCmd.accesskey "K">
+
+<!-- Display Mode toolbar and View menu items -->
+<!ENTITY NormalModeTab.label "Normal">
+<!ENTITY NormalMode.label "Normal redigeringsmodus">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Vis tabellkantar og namngjevne anker">
+<!ENTITY AllTagsModeTab.label "HTML-taggar">
+<!ENTITY AllTagsMode.label "HTML-taggar">
+<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "Vis ikon for alle HTML-taggar">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
+<!ENTITY HTMLSourceModeTab.label "Kjelde">
+<!ENTITY HTMLSourceMode.label "HTML-kjeldekode">
+<!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Rediger HTML-kjeldekode">
+<!ENTITY PreviewModeTab.label "Førehandsvis">
+<!ENTITY PreviewMode.label "Førehandsvis">
+<!ENTITY PreviewMode.accesskey "F">
+<!ENTITY PreviewMode.tooltip "Vis som WYSIWYG (i nettlesaren)">

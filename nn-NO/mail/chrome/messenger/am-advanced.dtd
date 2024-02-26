@@ -1,0 +1,23 @@
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Innstillingar for utgåande SMTP-tenar">
+
+<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDesc.label "Du treng berre å velje ein SMTP-tenar, sjølv om du har fleire e-postkontoar. Skriv inn namnet på tenaren du vil bruke for utgåande meldingar.">
+
+<!ENTITY smtpListAdd.label  "Legg til …">
+<!ENTITY smtpListAdd.accesskey  "L">
+<!ENTITY smtpListEdit.label "Rediger …">
+<!ENTITY smtpListEdit.accesskey "R">
+<!ENTITY smtpListDelete.label "Slett">
+<!ENTITY smtpListDelete.accesskey "S">
+<!ENTITY smtpListSetDefault.label "Vel standard">
+<!ENTITY smtpListSetDefault.accesskey "e">
+
+<!ENTITY serverDescription.label "Skildring: ">
+<!ENTITY serverName.label "Tenarnamn: ">
+<!ENTITY serverPort.label "Port: ">
+<!ENTITY userName.label   "Brukarnamn: ">
+<!ENTITY connectionSecurity.label "Tilkoplingstryggleik: ">
+<!ENTITY authMethod.label   "Autentiseringsmetode:">
