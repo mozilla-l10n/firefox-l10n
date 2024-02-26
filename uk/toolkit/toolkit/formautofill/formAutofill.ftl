@@ -47,3 +47,8 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = Оновити наявну картку
     .accessKey = о
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = Керувати адресами
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
