@@ -47,3 +47,17 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = Actualisar carta existente
     .accessKey = A
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = Gerer adresses
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = Discoperir
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
