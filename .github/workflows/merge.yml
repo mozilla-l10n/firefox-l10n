@@ -21,6 +21,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - run: sudo apt-get install -y git-filter-repo
       - run: git checkout -b cthulhu
       - run: |
           while read lc; do
@@ -28,5 +29,5 @@ jobs:
             git filter-repo --path .hgtags --path .hgignore --invert-paths --force --refs $lc;
             git filter-repo --to-subdirectory-filter $lc --force --refs $lc;
           done < firefox-locales
-      - run: git merge --allow-unrelated-histories $(tr '\n' ' ' < firefox-locales)
+      - run: git merge --no-edit --allow-unrelated-histories $(tr '\n' ' ' < firefox-locales)
       - run: git push origin cthulhu
