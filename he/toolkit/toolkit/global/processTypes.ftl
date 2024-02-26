@@ -8,12 +8,15 @@
 ##
 
 process-type-web = תוכן אינטרנט
-
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Privileged About
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Privileged Mozilla Content
 process-type-extension = הרחבה
-
 # process used to open file:// URLs
 process-type-file = קובץ מקומי
-
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = ‏Service Worker מבודד
@@ -24,16 +27,22 @@ process-type-webserviceworker = ‏Service Worker מבודד
 
 process-type-default = ראשי
 process-type-tab = לשונית
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = מעבד גרפי
-
 # process used to perform network operations
 process-type-socket = Socket
-
 # process used to decode media
 process-type-rdd = RDD
+# process used to run some IPC actor in their own sandbox
+process-type-utility = Sandboxed IPC Actor
+process-type-utility-actor-audio-decoder-generic = Utility Generic Audio Decoder
+process-type-utility-actor-audio-decoder-applemedia = Utility AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Utility Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Utility Media Foundation Engine
+process-type-utility-actor-js-oracle = Utility JavaScript Oracle
+process-type-utility-actor-windows-utils = Utility Windows Utils
+process-type-utility-actor-windows-file-dialog = Utility Windows File Dialog
 
 ##
 ## Other
