@@ -51,6 +51,7 @@ firefoxview-syncedtabs-loading-header = Sinhronizacija v teku
 firefoxview-syncedtabs-loading-description = Ko se bo končala, se bodo prikazali vsi zavihki, ki jih imate odprte na drugih napravah. Vrnite se čez nekaj trenutkov.
 firefoxview-tabpickup-fxa-admin-disabled-header = Vaša organizacija je onemogočila sinhronizacijo
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne more sinhronizirati zavihkov med napravami, ker je skrbnik onemogočil sinhronizacijo.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne more sinhronizirati zavihkov med napravami, ker je vaša organizacija onemogočila sinhronizacijo.
 firefoxview-tabpickup-network-offline-header = Preverite svojo povezavo z internetom
 firefoxview-tabpickup-network-offline-description = Če uporabljate požarni zid ali posredniški strežnik, preverite, ali ima { -brand-short-name } dovoljenje za dostop do spleta.
 firefoxview-tabpickup-network-offline-primarybutton = Poskusi znova
@@ -186,6 +187,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Ni rezultatov za "{ $query }"
 firefoxview-sort-history-by-date-label = Razvrsti po datumu
 firefoxview-sort-history-by-site-label = Razvrsti po spletnem mestu
+firefoxview-sort-open-tabs-by-recency-label = Razvrsti po nedavni dejavnosti
+firefoxview-sort-open-tabs-by-order-label = Razvrsti po vrstnem redu zavihkov
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =

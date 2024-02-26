@@ -209,6 +209,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Odstrani ta vsebnik
 containers-remove-cancel-button = Ne odstrani tega vsebnika
+settings-tabs-show-image-in-preview =
+    .label = Ob pomiku miškinega kazalca na zavihek prikaži sliko predogleda
+    .accessKey = h
 
 ## General Section - Language & Appearance
 
@@ -260,6 +263,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Povečaj le besedilo
     .accesskey = b
+preferences-text-zoom-override-warning =
+    .message = Opozorilo: Če izberete "Povečaj le besedilo", privzeta povečava pa ni 100 %, lahko nekatere strani ali vsebina delujejo nepravilno.
 language-header = Jezik
 choose-language-description = Izberite prednosten jezik za prikazovanje strani
 choose-button =
@@ -565,6 +570,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Priporoča { $provider }
 home-prefs-recommended-by-description-new = Izjemna vsebina, ki jo pripravlja { $provider }, del družine { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Priporočene zgodbe
+home-prefs-recommended-by-description-generic = Izjemna vsebina, ki jo pripravlja družina { -brand-product-name }
 
 ##
 
@@ -1075,10 +1083,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = hitra dejanja
     .accesskey = h
+addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 addressbar-locbar-showrecentsearches-option =
     .label = Prikaži nedavna iskanja
     .accesskey = d
-addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 addressbar-quickactions-learn-more = Več o tem
 
 ## Privacy Section - Content Blocking
@@ -1323,6 +1331,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS prek HTTPS
 preferences-doh-description = DNS (sistem domenskih imen) prek HTTPS pošilja vaše zahtevke za imena domen po šifrirani povezavi, kar ustvari zavarovan DNS in drugim otežuje vpogled v to, katera spletna mesta obiskujete.
+preferences-doh-description2 = DNS (sistem domenskih imen) prek HTTPS pošilja vaše zahtevke za imena domen po šifrirani povezavi, kar ustvari zavarovan DNS in drugim otežuje vpogled v to, katera spletna mesta obiskujete.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Stanje: { $status }

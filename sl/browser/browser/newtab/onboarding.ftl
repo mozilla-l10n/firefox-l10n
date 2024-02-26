@@ -342,3 +342,22 @@ onboarding-mobile-download-security-and-privacy-title = Ostanite šifrirani pri 
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vam krije hrbet
 onboarding-gratitude-security-and-privacy-subtitle = Hvala, ker uporabljate { -brand-short-name }, ki ga podpira Mozilla Foundation. Z vašo podporo si prizadevamo narediti internet varnejši in dostopnejši za vse.
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-time-based-survey-title = Kako dolgo že uporabljate { -brand-short-name(sklon: "tozilnik") }?
+onboarding-new-user-familiarity-based-survey-title = Kako dobro se znajdete v { -brand-short-name(sklon: "mestnik") }?
+onboarding-new-user-survey-subtitle = Z vašimi povratnimi informacijami bomo naredili { -brand-short-name(sklon: "tozilnik") } še boljši.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Naprej
+onboarding-new-user-survey-legal-link-label = Z izbiro “{ onboarding-new-user-survey-next-button-label }” soglašate z <a data-l10n-name="privacy_notice">obvestilom o zasebnosti</a> { -brand-product-name(sklon: "rodilnik") }
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = sem popoln novinec
+onboarding-new-user-survey-time-based-option-2 = manj kot en mesec
+onboarding-new-user-survey-time-based-option-3 = več kot 1 mesec, redno
+onboarding-new-user-survey-time-based-option-4 = več kot 1 mesec, občasno
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = sem popoln začetnik
+onboarding-new-user-survey-familiarity-based-option-2 = imam nekaj izkušenj
+onboarding-new-user-survey-familiarity-based-option-3 = zelo mi je domač
+onboarding-new-user-survey-familiarity-based-option-4 = uporabljal/a sem ga v preteklosti, a je minilo že nekaj časa
