@@ -34,6 +34,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Пароли от файл с разделители
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -62,8 +63,8 @@ migration-passwords-new = Нови пароли
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
     { PLATFORM() ->
-        [macos] Документ на CSV
-       *[other] Файл на CSV
+        [macos] Документ с разделители
+       *[other] Файл с разделители
     }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
