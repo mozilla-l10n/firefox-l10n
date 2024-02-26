@@ -47,3 +47,15 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = 기존 카드 업데이트
     .accessKey = U
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+autofill-card-network-amex = 아메리칸 엑스프레스
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = 다이너스 클럽
+autofill-card-network-discover = 디스커버 카드
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = 마스터카드
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = 유니온페이
+autofill-card-network-visa = 비자카드
