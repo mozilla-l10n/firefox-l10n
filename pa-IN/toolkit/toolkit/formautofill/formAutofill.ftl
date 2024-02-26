@@ -47,3 +47,16 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = ਮੌਜੂਦਾ ਕਾਰਡ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
     .accessKey = U
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = ਸਿਰਨਾਵਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+autofill-card-network-amex = ਅਮੈਰਿਕਨ ਐਕਸਪਰੈਸ
+autofill-card-network-diners = ਡਿਨਰਸ ਕਲੱਬ
+autofill-card-network-discover = ਡਿਸਕਵਰ
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = ਯੂਨੀਅਨ ਪੇਅ
+autofill-card-network-visa = ਵੀਜ਼ਾ
