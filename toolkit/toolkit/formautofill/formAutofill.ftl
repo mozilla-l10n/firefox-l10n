@@ -40,6 +40,7 @@ credit-card-capture-never-save-button =
 # Used on the doorhanger when an credit card change is detected.
 
 credit-card-update-doorhanger-header = Želite posodobiti to kartico?
+credit-card-update-doorhanger-description = Posodabljanje kartice:
 credit-card-capture-save-new-button =
     .label = Shrani kot novo kartico
     .accessKey = n

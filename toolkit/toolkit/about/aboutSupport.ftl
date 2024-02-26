@@ -196,6 +196,9 @@ media-codec-support-lack-of-extension = Namesti razširitev
 
 media-content-decryption-modules-title = Podatki o modulih za dešifriranje vsebine
 media-cdm-capabilities = Zmogljivosti
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = Združljiv s HDCP 2.2
 
 ##
 
