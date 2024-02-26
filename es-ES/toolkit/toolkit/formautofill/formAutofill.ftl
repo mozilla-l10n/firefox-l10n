@@ -47,3 +47,7 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = Actualizar tarjeta existente
     .accessKey = u
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+autofill-card-network-visa = Visa
