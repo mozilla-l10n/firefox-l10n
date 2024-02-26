@@ -53,3 +53,4 @@ process-type-utility-actor-windows-file-dialog = Utilità finestra di dialogo i 
 
 # fallback
 process-type-unknown = Sconosciuto
+
