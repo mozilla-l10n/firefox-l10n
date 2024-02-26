@@ -47,3 +47,17 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = 更新現有卡片
     .accessKey = U
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = 管理已存地址
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+autofill-card-network-amex = 美國運通
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = 大來卡
+autofill-card-network-discover = Discover
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = 銀聯
+autofill-card-network-visa = Visa
