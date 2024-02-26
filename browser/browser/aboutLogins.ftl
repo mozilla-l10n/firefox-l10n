@@ -249,11 +249,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Така ще бъде премахната запазената във { -brand-short-name } регистрация от всички устройства, синхронизирани с { -fxaccount-brand-name }. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
        *[other] Така ще бъдат премахнати запазените във { -brand-short-name } регистрации от всички устройства, синхронизирани с { -fxaccount-brand-name }. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
     }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [one] Така ще бъде премахната запазената във { -brand-short-name } регистрация от всички устройства, синхронизирани с профила. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
-       *[other] Така ще бъдат премахнати запазените във { -brand-short-name } регистрации от всички устройства, синхронизирани с профила. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
-    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -337,8 +332,8 @@ about-logins-export-file-picker-export-button = Изнасяне
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
-        [macos] Документ на CSV
-       *[other] Файл на CSV
+        [macos] Документ с разделители
+       *[other] Файл с разделители
     }
 
 ## Login Import Dialog
@@ -352,8 +347,8 @@ about-logins-import-file-picker-import-button = Внасяне
 # filter by the operating system.
 about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
-        [macos] Документ на CSV
-       *[other] Файл на CSV
+        [macos] Документ с разделители
+       *[other] Файл с разделители
     }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
