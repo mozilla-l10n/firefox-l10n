@@ -53,6 +53,7 @@ autofill-manage-addresses-label = ਸਿਰਨਾਵਿਆਂ ਦਾ ਇੰਤ�
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = ਅਮੈਰਿਕਨ ਐਕਸਪਰੈਸ
+autofill-card-network-cartebancaire = ਕਾਰਟੇ ਬਾਂਸੀਰ
 autofill-card-network-diners = ਡਿਨਰਸ ਕਲੱਬ
 autofill-card-network-discover = ਡਿਸਕਵਰ
 autofill-card-network-jcb = JCB
