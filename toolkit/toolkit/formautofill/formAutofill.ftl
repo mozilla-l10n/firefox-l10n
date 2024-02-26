@@ -14,3 +14,15 @@ autofill-options-link-osx = ການຕັ້ງຄ່າການຕື່ມ�
 
 # Used on the doorhanger when an credit card change is detected.
 
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+autofill-card-network-amex = American Express
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-discover = ຄົ້ນພົບ
+autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = MasterCard
+autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
+autofill-card-network-visa = Visa
