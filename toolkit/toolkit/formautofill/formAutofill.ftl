@@ -18,4 +18,7 @@ autofill-options-link-osx = ترجیحات پرکردن خودکار فرم
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
 autofill-card-network-amex = امریکن اکسپرس
+autofill-card-network-cartebancaire = Carte Bancaire
+autofill-card-network-diners = Diners Club
+autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = ویزا
