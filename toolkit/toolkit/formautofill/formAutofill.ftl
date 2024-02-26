@@ -24,4 +24,5 @@ autofill-card-network-discover = Յայտնաբերել
 autofill-card-network-jcb = JCB
 autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
+autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Վիզա
