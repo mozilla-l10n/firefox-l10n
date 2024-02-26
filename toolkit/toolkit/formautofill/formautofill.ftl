@@ -11,8 +11,17 @@
 
 # Used on the doorhanger when an credit card change is detected.
 
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = ලිපින කළමනාකරණය
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
+autofill-card-network-amex = ඇමරිකන් එක්ස්ප්‍රස්
+autofill-card-network-cartebancaire = කාර්ටේ බැංකෙයර්
+autofill-card-network-diners = ඩයිනර්ස් ක්ලබ්
+autofill-card-network-discover = ඩිස්කවර්
 autofill-card-network-jcb = JCB
+autofill-card-network-mastercard = මාස්ටර් කාඩ්
 autofill-card-network-mir = MIR
+autofill-card-network-unionpay = යුනියන් පේ
+autofill-card-network-visa = වීසා
