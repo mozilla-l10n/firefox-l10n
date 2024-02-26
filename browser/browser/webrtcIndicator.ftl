@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = zavihek
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Neznan izvor
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Naprave za deljenje zavihkov
     .accesskey = d
-
 webrtc-sharing-window = Trenutno delite drugo okno aplikacije.
 webrtc-sharing-browser-window = Trenutno delite { -brand-short-name }.
 webrtc-sharing-screen = Trenutno delite svoj celoten zaslon
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Upravljanje skupne rabe
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Upravljanje skupne rabe na "{ $streamTitle }"
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Uporaba kamere na "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -104,7 +95,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Skupna raba kamere s { $tabCount } zavihki
            *[other] Skupna raba kamere s { $tabCount } zavihki
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Uporaba mikrofona na "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -115,7 +105,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] Skupna raba mikrofona s { $tabCount } zavihki
            *[other] Skupna raba mikrofona s { $tabCount } zavihki
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Uporaba aplikacije na "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -126,7 +115,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Skupna raba aplikacije s { $tabCount } zavihki
            *[other] Skupna raba aplikacije s { $tabCount } zavihki
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Uporaba zaslona na "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -137,7 +125,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Skupna raba zaslona s { $tabCount } zavihki
            *[other] Skupna raba zaslona s { $tabCount } zavihki
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Uporaba okna na "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -148,7 +135,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Skupna raba okna s { $tabCount } zavihki
            *[other] Skupna raba okna s { $tabCount } zavihki
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Uporaba zavihka na "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -177,6 +163,20 @@ webrtc-allow-share-camera-and-audio-capture = Dovolite { $origin } uporabo kamer
 webrtc-allow-share-screen-and-microphone = Dovolite strani { $origin } uporabo mikrofona in ogled vašega zaslona?
 webrtc-allow-share-screen-and-audio-capture = Dovolite strani { $origin } poslušanje zvoka tega zavihka in ogled vašega zaslona?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Dovolite tej datoteki z računalnika, da posluša zvok tega zavihka?
+webrtc-allow-share-camera-with-file = Dovolite tej datoteki z računalnika, da uporabi kamero?
+webrtc-allow-share-microphone-with-file = Dovolite tej datoteki z računalnika, da uporabi mikrofon?
+webrtc-allow-share-screen-with-file = Dovolite tej datoteki z računalnika ogled zaslona?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Dovolite tej datoteki z računalnika, da uporabi druge naprave za predvajanje zvoka?
+webrtc-allow-share-camera-and-microphone-with-file = Dovolite tej datoteki z računalnika, da uporabi kamero in mikrofon?
+webrtc-allow-share-camera-and-audio-capture-with-file = Dovolite tej datoteki z računalnika, da uporabi kamero in posluša zvok tega zavihka?
+webrtc-allow-share-screen-and-microphone-with-file = Dovolite tej datoteki z računalnika uporabo mikrofona in ogled zaslona?
+webrtc-allow-share-screen-and-audio-capture-with-file = Dovolite tej datoteki z računalnika poslušanje zvoka tega zavihka in ogled zaslona?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -197,7 +197,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dovolite { $orig
 
 webrtc-share-screen-warning = Delite zaslon samo s stranmi, ki jim zaupate. Deljenje lahko zavajajočim stranem omogoči, da brskajo v vašem imenu in ukradejo vaše zasebne podatke.
 webrtc-share-browser-warning = Delite { -brand-short-name } samo s stranmi, ki jim zaupate. Deljenje lahko zavajajočim stranem omogoči, da brskajo v vašem imenu in ukradejo vaše zasebne podatke.
-
 webrtc-share-screen-learn-more = Več o tem
 webrtc-pick-window-or-screen = Izberi okno ali zaslon
 webrtc-share-entire-screen = Celoten zaslon
@@ -235,7 +234,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Zapomni si to odločitev
 webrtc-mute-notifications-checkbox = Med skupno rabo izklopi obvestila spletnega mesta
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne more dovoliti trajnega dostopa do vašega zaslona.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne more dovoliti trajnega dostopa do zvoka tega zavihka, ne da bi vprašal, kateri zavihek želite deliti.
 webrtc-reason-for-no-permanent-allow-insecure = Vaša povezava na to stran ni varna. Da vas zaščiti, bo { -brand-short-name } dovolil dostop samo za to sejo.
