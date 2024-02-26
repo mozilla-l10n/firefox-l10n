@@ -24,8 +24,9 @@ jobs:
       - run: git checkout -b cthulhu
       - run: |
           while read lc; do
-            git filter-repo --path .hgtags --path .hgignore --invert-paths --force --refs $lc
-            git filter-repo --to-subdirectory-filter $lc --force --refs $lc
+            git branch $lc origin/$lc;
+            git filter-repo --path .hgtags --path .hgignore --invert-paths --force --refs $lc;
+            git filter-repo --to-subdirectory-filter $lc --force --refs $lc;
           done < firefox-locales
       - run: git merge --allow-unrelated-histories $(tr '\n' ' ' < firefox-locales)
       - run: git push origin cthulhu
