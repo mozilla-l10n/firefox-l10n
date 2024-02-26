@@ -14,3 +14,7 @@ autofill-options-link-osx = फॉर्म स्वयंपूर्ण क�
 
 # Used on the doorhanger when an credit card change is detected.
 
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+autofill-card-network-visa = Visa
