@@ -10,6 +10,18 @@ contentanalysis-slow-agent-dialog-title = Analyza wopśimjeśa běžy
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Analyza wopśimjeśa resursu „{ $content }“ analyzěrujo
+contentanalysis-slow-agent-dialog-header = Skannujo se
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } „{ $filename }“ na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo. To wokognuśe trajo.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo, což sćo zasajźił. To wokognuśe trajo.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } tekst, kótaryž sćo zasajźił, na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo. To wokognuśe trajo.
 contentanalysis-operationtype-clipboard = mjazywótkład
 contentanalysis-operationtype-dropped-text = pušćony tekst
 contentanalysis-warndialogtitle = Toś to wopśimjeśe jo snaź njewěste

@@ -49,6 +49,8 @@ credit-card-capture-update-button =
     .accessKey = E
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Adrese zastojaś
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = Płaśeńske metody zastojaś
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
