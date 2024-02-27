@@ -1,0 +1,33 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+name: Update
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: git config
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - run: sudo apt-get install -y git-filter-repo mercurial
+      - run: cargo install git-cinnabar
+      - run: git cinnabar setup
+      - run: |
+          while read lc; do
+            git remote add $lc hg::https://hg.mozilla.org/l10n-central/$lc/;
+            git fetch $lc;
+            git branch $lc $lc/branches/default/tip;
+            git push origin $lc;
+          done < firefox-locales
