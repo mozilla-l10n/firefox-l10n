@@ -11,6 +11,17 @@ contentanalysis-slow-agent-dialog-title = Ανάλυση περιεχομένο�
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Η Ανάλυση περιεχομένου αναλύει τον πόρο «{ $content }»
 contentanalysis-slow-agent-dialog-header = Σάρωση σε εξέλιξη
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = Το { $agent } ελέγχει το «{ $filename }» σύμφωνα με τις πολιτικές δεδομένων του οργανισμού σας. Αυτή η διαδικασία ενδέχεται διαρκέσει λίγη ώρα.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = Το { $agent } ελέγχει αυτό που επικολλήσατε σύμφωνα με τις πολιτικές δεδομένων του οργανισμού σας. Αυτή η διαδικασία ενδέχεται διαρκέσει λίγη ώρα.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = Το { $agent } ελέγχει το κείμενα που αποθέσατε σύμφωνα με τις πολιτικές δεδομένων του οργανισμού σας. Αυτή η διαδικασία ενδέχεται διαρκέσει λίγη ώρα.
 contentanalysis-operationtype-clipboard = πρόχειρο
 contentanalysis-operationtype-dropped-text = εναποθετημένο κείμενο
 contentanalysis-warndialogtitle = Το περιεχόμενο ενδέχεται να μην είναι ασφαλές
