@@ -23,6 +23,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config fetch.prune true
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -31,5 +32,5 @@ jobs:
             git remote add $lc hg::https://hg.mozilla.org/l10n-central/$lc/;
             git fetch $lc;
             git branch $lc $lc/branches/default/tip;
-            git push origin $lc;
+            git push origin $lc || true; # ignore errors for 'fa' and 'nn-NO'
           done < firefox-locales
