@@ -14,18 +14,18 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - run: sudo apt-get install -y git-filter-repo mercurial
+      - run: sudo curl -O https://raw.githubusercontent.com/glandium/git-cinnabar/master/download.py
+        working-directory: /usr/local/bin
+      - run: sudo python download.py && sudo chmod a+rx git-cinnabar
+        working-directory: /usr/local/bin
       - name: git config
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      - run: sudo apt-get install -y git-filter-repo mercurial
-      - run: curl -O https://raw.githubusercontent.com/glandium/git-cinnabar/master/download.py
-        working-directory: ${{ runner.temp }}
-      - run: sudo ${{ runner.temp }}/download.py
-        working-directory: /usr/local/bin
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - run: |
           while read lc; do
             git remote add $lc hg::https://hg.mozilla.org/l10n-central/$lc/;
