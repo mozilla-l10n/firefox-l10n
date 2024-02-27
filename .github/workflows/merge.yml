@@ -33,5 +33,4 @@ jobs:
         shell: bash
       - run: git merge --no-edit $(tr '\n' ' ' < firefox-locales)
         shell: bash
-      - run: git tag --force l10n-central cthulhu
-      - run: git push --force origin cthulhu l10n-central
+      - run: git push origin cthulhu
