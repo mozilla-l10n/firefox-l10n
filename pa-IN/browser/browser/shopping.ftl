@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = ਰੀਵਿਊ ਕੁ�
 shopping-message-bar-page-not-supported =
     .heading = ਅਸੀਂ ਇਹ ਰੀਵਿਊਆਂ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ
     .message = ਅਫ਼ਸੋਸ ਹੈ ਪਰ ਅਸੀਂ ਉਤਪਾਦਾਂ ਦੀਆਂ ਕੁਝ ਕਿਸਮਾਂ ਲਈ ਰੀਵਿਊ ਕੁਆਲਟੀ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ। ਮਿਸਾਲ ਵਜੋਂ ਗਿਫ਼ਟ ਕਾਰਡ ਅਤੇ ਸਟਰੀਮਿੰਗ ਵੀਡੀਓ, ਸੰਗੀਤ ਤੇ ਖੇਡਾਂ।
+shopping-message-bar-keep-closed-header =
+    .heading = ਬੰਦ ਰੱਖਣਾ ਹਐ?
+    .message = ਤੁਸੀਂ ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਮੂਲ ਰੂਪ ਵਿੱਚ ਬੰਦ ਰੱਖਣ ਲਈ ਆਪਣੀਆਂ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰ ਸਕਦੇ ਹੋ। ਹੁਣੇ ਇਹ ਆਪਣੇ-ਆਪ ਖੁੱਲ੍ਹਦਾ ਹੈ।
+shopping-message-bar-keep-closed-dismiss-button = ਨਹੀਂ ਧੰਨਵਾਦ
+shopping-message-bar-keep-closed-accept-button = ਹਾਂ, ਬੰਦ ਹੀ ਰੱਖੋ
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = ਤੁਸੀਂ ਕਦੇ ਕਦਾਈ ਸੰਬੰਧਿਤ ਉਤਪਾਦਾਂ ਲਈ ਇਸ਼ਤਿਹਾਰ ਵੇਖੋਗੇ। ਅਸੀਂ ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ ਵਾਲੇ ਉਤਪਾਦ ਲਈ ਹੀ ਇਸ਼ਤਿਹਾਰ ਦਿੰਦੇ ਹਾਂ। <a data-l10n-name="review-quality-url">ਹੋਰ ਸਿੱਖੋ</a>
 shopping-settings-opt-out-button = ਰੀਵਿਊ ਚੈਕਰ ਬੰਦ ਕਰੋ
 powered-by-fakespot = <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> ਵਲੋਂ ਰੀਵਿਊ ਚੈਕਰ ਹੈ।
+shopping-settings-auto-open-toggle =
+    .label = ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਆਪਣੇ-ਆਪ ਖੋਲ੍ਹੋ
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = ਜਦੋਂ ਤੁਸੀਂ { $firstSite }, { $secondSite } ਅਤੇ { $thirdSite } ਉੱਤੇ ਉਤਪਾਦ ਵੇਖਦੇ ਹੋ
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = ਜਦੋਂ ਤੁਸੀਂ { $currentSite } ਉੱਤੇ ਉਤਪਾਦ ਵੇਖਦੇ ਹੋ
+shopping-settings-sidebar-enabled-state = ਰੀਵਿਊ ਚੈਕਰ <strong>ਚਾਲੂ</strong> ਹੈ
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,17 @@ shopping-callout-pdp-opted-in-title = ਕੀ ਇਹ ਰੀਵਿਊ ਭਰੋਸ
 shopping-callout-pdp-opted-in-subtitle = ਨਾ ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ ਨੂੰ ਹਟਾ ਕੇ ਅਡਜੱਸਟ ਕੀਤੀ ਰੇਟਿੰਗ ਨੂੰ ਵੇਖਣ ਲਈ ਰੀਵਿਊ ਚੈਕਰ ਖੋਲ੍ਹੋ। ਨਾਲ ਹੀ ਸੱਜਰੇ ਪਰਮਾਣਿਤ ਰੀਵਿਊ ਤੋਂ ਹਾਈਟਲਾਈਟ ਵੀ ਵੇਖੋ।
 shopping-callout-closed-not-opted-in-title = ਭਰੋਸੇਯੋਗ ਰੀਵਿਊਆਂ ਲਈ ਇੱਕ ਕਲਿੱਕ ਕਰੋ
 shopping-callout-closed-not-opted-in-subtitle = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਕੀਮਤ ਵੇਖੋ, ਉੱਥੇ ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਅਜ਼ਮਾਓ। ਅਸਲ ਖਰੀਦਦਾਰਾਂ ਤੋਂ ਫ਼ੌਰਨ ਪੜਤਾਲ ਵੇਖੋ — ਆਪ ਖਰੀਦਣ ਤੋਂ ਪਹਿਲਾਂ।
+shopping-callout-closed-not-opted-in-revised-title = ਭਰੋਸੇਯੋਗ ਰੀਵਿਊਆਂ ਲਈ ਇੱਕ ਕਲਿੱਕ ਕਰੋ
+shopping-callout-closed-not-opted-in-revised-subtitle = ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਵਾਪਸ ਲੈਣ ਲਈ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਕੀਮਤ ਟੈਗ ਆਈਕਾਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
+shopping-callout-closed-not-opted-in-revised-button = ਸਮਝੇ
+shopping-callout-not-opted-in-reminder-title = ਭਰੋਸੇ ਨਾਲ ਖਰੀਦਦਾਰੀ ਕਰੋ
+shopping-callout-not-opted-in-reminder-open-button = ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਖੋਲ੍ਹੋ
+shopping-callout-not-opted-in-reminder-close-button = ਖ਼ਾਰਜ ਕਰੋ
+shopping-callout-not-opted-in-reminder-ignore-checkbox = ਮੈਨੂੰ ਮੁੜ ਨਾ ਪੁੱਛੋ
+shopping-callout-disabled-auto-open-title = ਰੀਵਿਊ ਚੈਕਰ ਹੁਣ ਮੂਲ ਰੂਪ ਵਿੱਚ ਬੰਦ ਹੈ
+shopping-callout-disabled-auto-open-button = ਸਮਝੇ
+shopping-callout-opted-out-title = ਰੀਵਿਊ ਚੈਕਰ ਬੰਦ ਹੈ
+shopping-callout-opted-out-button = ਸਮਝੇ
 
 ## Onboarding message strings.
 
@@ -186,7 +215,6 @@ shopping-onboarding-dynamic-subtitle-1 = ਖਰੀਦਣ ਤੋਂ ਪਹਿਲ�
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = ਇਸ ਤੋਂ ਪਹਿਲਾਂ ਕਿ ਤੁਸੀਂ <b>{ $currentSite }</b> ਉੱਤੇ ਖਰੀਦਦਾਰੀ ਕਰੋ, ਰੀਵਿਊਆਂ ਦੇ ਭਰੋਸੇਯੋਗ ਹੋਣ ਦਾ ਪਤਾ ਕਰੋ।{ -brand-product-name } ਵਲੋਂ ਤਜਰਬੇ ਅਧੀਨ ਫੀਚਰ ਰੀਵਿਊ ਚੈਕਰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਮੌਜੂਦ ਹੈ।
 shopping-onboarding-body = { -fakespot-brand-full-name } ਦੇ ਰਾਹੀਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਪੱਖਪਾਤੀ ਅਤੇ ਗ਼ੈਰ-ਪ੍ਰਮਾਣਿਤ ਰੀਵਿਊਆਂ ਤੋਂ ਬਚਾਅ ਸਕਦੇ ਹਾਂ। ਸਾਡਾ AI ਮਾਡਲ ਤੁਹਾਨੂੰ ਖਰੀਦਦਾਰੀ ਕਰਨ ਦੌਰਾਨ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਹਮੇਸ਼ਾਂ ਸੁਧਾਰ ਕਰ ਰਿਹਾ ਹੈ। <a data-l10n-name="learn_more">ਹੋਰ ਜਾਣੋ</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = “{ shopping-onboarding-opt-in-button }“ ਚੁਣਨ ਨਾਲ ਤੁਸੀਂ { -fakespot-brand-name } ਦੀ <a data-l10n-name="privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਅਤੇ <a data-l10n-name="terms_of_use">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = { shopping-onboarding-opt-in-button } ਚੁਣ ਕੇ ਤੁਸੀਂ { -brand-product-name } ਦੀ <a data-l10n-name="privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਅਤੇ { -fakespot-brand-name } ਦੀਆਂ <a data-l10n-name="terms_of_use">ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 shopping-onboarding-opt-in-button = ਹਾਂ, ਇਸ ਨੂੰ ਅਜ਼ਮਾਓ
 shopping-onboarding-not-now-button = ਹੁਣੇ ਨਹੀਂ
