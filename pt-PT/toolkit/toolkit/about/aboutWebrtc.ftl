@@ -195,6 +195,8 @@ about-webrtc-configuration-element-provided = Fornecida
 about-webrtc-configuration-element-not-provided = Não fornecida
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferências do WebRTC definidas pelo utilizador
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Configuração de WebRTC Modificada pelo Utilizador
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
