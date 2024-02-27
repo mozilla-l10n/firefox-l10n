@@ -350,6 +350,9 @@ onboarding-gratitude-security-and-privacy-subtitle = { -brand-short-name }, ਜ�
 onboarding-new-user-time-based-survey-title = ਤੁਸੀਂ ਕਿੰਨੇ ਸਮੇਂ ਤੋਂ { -brand-short-name } ਨੂੰ ਵਰਤ ਰਹੇ ਹੋ?
 onboarding-new-user-familiarity-based-survey-title = { -brand-short-name } ਨੂੰ ਕਿੰਨੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ?
 onboarding-new-user-survey-subtitle = ਤੁਹਾਡੇ ਸੁਝਾਅ { -brand-short-name } ਨੂੰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰਦੇ ਹਨ।
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = ਅੱਗੇ
+onboarding-new-user-survey-legal-link-label = “{ onboarding-new-user-survey-next-button-label }” ਚੁਣ ਕੇ ਤੁਸੀਂ { -brand-product-name } ਦੀ <a data-l10n-name="privacy_notice">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = ਮੈਂ ਬਿਲਕੁਲ ਨਵਾਂ ਹਾਂ
 onboarding-new-user-survey-time-based-option-2 = 1 ਮਹੀਨੇ ਤੋਂ ਘੱਟ
