@@ -22,8 +22,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - run: sudo apt-get install -y git-filter-repo mercurial
-      - run: cargo install git-cinnabar
-      - run: git cinnabar setup
+      - run: curl -O https://raw.githubusercontent.com/glandium/git-cinnabar/master/download.py
+        working-directory: ${{ runner.temp }}
+      - run: sudo ${{ runner.temp }}/download.py
+        working-directory: /usr/local/bin
       - run: |
           while read lc; do
             git remote add $lc hg::https://hg.mozilla.org/l10n-central/$lc/;
