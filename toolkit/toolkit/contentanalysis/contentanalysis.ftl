@@ -10,6 +10,11 @@ contentanalysis-slow-agent-dialog-title = Analyza wobsaha běži
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Analyza wobsaha resursu „{ $content }“ analyzuje
+contentanalysis-slow-agent-dialog-header = Skenuje so
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } „{ $filename }“ na zakładźe datowych prawidłow wašeje organizacije přepruwuje. To wokomik traje.
 contentanalysis-operationtype-clipboard = mjezyskład
 contentanalysis-operationtype-dropped-text = pušćeny tekst
 contentanalysis-warndialogtitle = Tutón wobsah je snano njewěsty
