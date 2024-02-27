@@ -12,6 +12,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -51,6 +53,7 @@ firefoxview-syncedtabs-loading-header = ਸਿੰਕ ਜਾਰੀ ਹੈ
 firefoxview-syncedtabs-loading-description = ਜਦੋਂ ਇਹ ਕਰ ਲਿਆ ਤਾਂ ਤੁਸੀਂ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਖੋਲ੍ਹੀਆਂ ਕਿਸੇ ਵੀ ਟੈਬਾਂ ਨੂੰ ਵੇਖ ਸਕੋਗੇ। ਛੇਤੀ ਹੀ ਵੇਖਿਓ।
 firefoxview-tabpickup-fxa-admin-disabled-header = ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੇ ਲਿੰਕ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ
 firefoxview-tabpickup-fxa-admin-disabled-description = ਤੁਹਾਡੇ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
+firefoxview-tabpickup-fxa-disabled-by-policy-description = ਤੁਹਾਡੇ ਸੰਗਠਨ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
 firefoxview-tabpickup-network-offline-header = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
 firefoxview-tabpickup-network-offline-description = ਜੇ ਤੁਸੀਂ ਫਾਇਰਵਾਲ ਜਾਂ ਪਰਾਕਸੀ ਵਰਤ ਰਹੇ ਹੋ ਤਾਂ ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ { -brand-short-name } ਨੂੰ ਵੈੱਬ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ।
 firefoxview-tabpickup-network-offline-primarybutton = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
@@ -184,6 +187,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = “{ $query }” ਲਈ ਕੋਈ ਖੋਜ ਨਤੀਜੇ ਨਹੀਂ ਹਨ
 firefoxview-sort-history-by-date-label = ਤਾਰੀਖ ਰਾਹੀਂ ਲੜੀਬੱਧ
 firefoxview-sort-history-by-site-label = ਸਾਈਟ ਰਾਹੀਂ ਲੜੀਬੱਧ
+firefoxview-sort-open-tabs-by-recency-label = ਸੱਜਰੀ ਸਰਗਰਮੀ ਰਾਹੀਂ ਲੜੀਬੱਧ
+firefoxview-sort-open-tabs-by-order-label = ਟੈਬ ਕ੍ਰਮ ਰਾਹੀਂ ਲੜੀਬੱਧ
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =

@@ -197,6 +197,7 @@ newtab-section-header-recent-activity = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼ੀ
+newtab-section-header-stories = ਸੋਚਣ ਲਈ ਮਜ਼ਬੂਰ ਕਰਨ ਵਾਲੇ ਲੇਖ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -205,6 +206,8 @@ newtab-empty-section-highlights = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰ�
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = ਤੁਸੀਂ ਪੂਰਾ ਕਰ ਚੁੱਕੇ ਹੋ। { $provider } ਵਲੋਂ ਹੋਰ ਕਹਾਣੀਆਂ ਲਈ ਬਾਅਦ ਵਿੱਚ ਵਾਪਸ ਚੈਕ ਕਰੀਓ। ਉਡੀਕ ਨਹੀਂ ਕਰ ਸਕਦੇ? ਤਾਂ ਫੇਰ ਵੈੱਬ ਉਤੋਂ ਹੋਰ ਵਧੀਆ ਕਹਾਣੀਆਂ ਵਾਸਤੇ ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ੇ ਨੂੰ ਚੁਣੋ।
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = ਤੁਸੀਂ ਪੂਰਾ ਕਰ ਚੁੱਕੇ ਹੋ। ਹੋਰ ਕਹਾਣੀਆਂ ਲਈ ਬਾਅਦ ਵਿੱਚ ਵਾਪਸ ਚੈਕ ਕਰੀਓ। ਉਡੀਕ ਨਹੀਂ ਕਰ ਸਕਦੇ? ਤਾਂ ਫੇਰ ਵੈੱਬ ਉਤੋਂ ਹੋਰ ਵਧੀਆ ਕਹਾਣੀਆਂ ਵਾਸਤੇ ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ੇ ਨੂੰ ਚੁਣੋ।
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -260,6 +263,9 @@ newtab-custom-pocket-subtitle = { -brand-product-name } ਦੇ ਹਿੱਸੇ �
 newtab-custom-pocket-toggle =
     .label = { -pocket-brand-name } ਵਲੋਂ ਸਿਫਾਰਸ਼ ਕੀਤੇ
     .description = { -brand-product-name } ਦੇ ਹਿੱਸੇ ਵਜੋਂ { -pocket-brand-name } ਵਲੋਂ ਖਾਸ ਇਕੱਤਰ ਕੀਤੀ ਸਮੱਗਰੀ
+newtab-custom-stories-toggle =
+    .label = ਸਿਫ਼ਾਰਸ਼ੀ ਕਹਾਣੀਆਂ
+    .description = { -brand-product-name } ਸਮੂਹ ਵਲੋਂ ਤਿਆਰੀ ਕੀਤੀ ਖਾਸ ਸਮੱਗਰੀ
 newtab-custom-pocket-sponsored = ਸਪਾਂਸਰ ਕੀਤੀਆਂ ਕਹਾਣੀਆਂ
 newtab-custom-pocket-show-recent-saves = ਸੱਜਰੇ ਸੰਭਾਲੇ ਵੇਖੋ
 newtab-custom-recent-title = ਤਾਜ਼ਾ ਸਰਗਰਮੀ

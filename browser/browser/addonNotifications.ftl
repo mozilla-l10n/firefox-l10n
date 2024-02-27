@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = ਇਹ ਪਹੁੰਚ ਦ�
 ##
 
 xpinstall-disabled-locked = ਸਾਫਟਵੇਅਰ ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨੇ ਸਮਰੱਥ ਕੀਤੀ ਹੋਈ ਹੈ।
+xpinstall-disabled-by-policy = ਸਾਫਟੇਅਰ ਇੰਸਟਾਲੇਸ਼ਨ ਨੂੰ ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ।
 xpinstall-disabled = ਸਾਫਟਵੇਅਰ ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਇਸ ਸਮੇਂ ਅਸਮਰੱਥ ਹੈ। ਸਮਰੱਥ ਨੂੰ ਕਲਿੱਕ ਕਰਕੇ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 xpinstall-disabled-button =
     .label = ਸਮਰੱਥ ਕਰੋ
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ‘ਤੇ ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨੇ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਇਸ ਸਾਈਟ ਤੋਂ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਤੋਂ ਪੁੱਛਣ ਤੇ ਰੋਕ ਲਾਈ ਹੈ।
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) ਉੱਤੇ ਤੁਹਾਡੇ ਸੰਗਠਨ ਵਲੋਂ ਪਾਬੰਦੀ ਲਾਈ ਹੈ।
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੇ ਇਸ ਸਾਇਟ ਨੂੰ ਤੁਹਾਨੂੰ ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਤੋਂ ਪੁੱਛਣ ਉੱਤੇ ਰੋਕ ਲਾਈ।
 addon-install-full-screen-blocked = ਪੂਰੀ ਸਕਰੀਨ ਢੰਗ ‘ਚ ਹੋਣ ਜਾਂ ਜਾਣ ਦੇ ਦੌਰਾਨ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਆਗਿਆ ਨਹੀਂ ਹੈ।
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
