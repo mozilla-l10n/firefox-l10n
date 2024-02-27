@@ -10,6 +10,18 @@ contentanalysis-slow-agent-dialog-title = Wrthi'n dadansoddi cynnwys
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Mae Dadansoddi Cynnwys yn dadansoddi adnodd “{ $content }”
+contentanalysis-slow-agent-dialog-header = Wrthi'n sganio
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = Mae { $agent } yn asesu " { $filename } " yn erbyn polisïau data eich sefydliad. Gall hyn gymryd ychydig o amser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = Mae { $agent } yn asesu'r hyn a gludwyd gennych yn erbyn polisïau data eich sefydliad. Gall hyn gymryd ychydig o amser.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = Mae { $agent } yn asesu'r testun rydych wedi'i ollwng yn erbyn polisïau data eich sefydliad. Gall hyn gymryd ychydig o amser.
 contentanalysis-operationtype-clipboard = clipfwrdd
 contentanalysis-operationtype-dropped-text = testun wedi'i ostwng
 contentanalysis-warndialogtitle = Gall y cynnwys hwn fod yn anniogel
