@@ -25,7 +25,7 @@ autofill-options-link-osx = Preferências de preenchimento automático de formul
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizar todos os cartões guardados nos meus dispositivos
 # Used on the doorhanger when users submit payment with credit card.
-credit-card-save-doorhanger-header = Guardar este cartão de forma segura?
+credit-card-save-doorhanger-header = Guardar este cartão com segurança?
 credit-card-save-doorhanger-description = O { -brand-short-name } encripta o número do seu cartão. O seu código de segurança não será guardado.
 credit-card-capture-save-button =
     .label = Guardar
