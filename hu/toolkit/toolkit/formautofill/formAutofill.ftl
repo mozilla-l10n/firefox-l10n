@@ -49,6 +49,8 @@ credit-card-capture-update-button =
     .accessKey = f
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Címek kezelése
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = Fizetési módok kezelése
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

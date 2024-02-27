@@ -10,6 +10,18 @@ contentanalysis-slow-agent-dialog-title = Tartalomelemzés folyamatban
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = A tartalomelemzés a(z) „{ $content }” erőforrást elemzi
+contentanalysis-slow-agent-dialog-header = Keresés folyamatban
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = A(z) { $agent } ellenőrzi, hogy a(z) „{ $filename }” ellentétes-e a szervezete adatházirendjeivel. Ez eltarthat egy darabig.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = A(z) { $agent } ellenőrzi, hogy amit beillesztett ellentétes-e a szervezete adatházirendjeivel. Ez eltarthat egy darabig.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = A(z) { $agent } ellenőrzi, hogy az ideejtett szöveg ellentétes-e a szervezete adatházirendjeivel. Ez eltarthat egy darabig.
 contentanalysis-operationtype-clipboard = vágólap
 contentanalysis-operationtype-dropped-text = fogd és vidd művelettel átdobott szöveg
 contentanalysis-warndialogtitle = Ez a tartalom lehet, hogy nem biztonságos
