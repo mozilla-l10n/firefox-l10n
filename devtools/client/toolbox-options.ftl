@@ -131,7 +131,7 @@ options-enable-service-workers-http-label = Ativar Service Workers sobre HTTP (q
 options-enable-service-workers-http-tooltip =
     .title = Permitir service workers sobre HTTP em todas as abas que estejam com as ferramentas abertas.
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = Ativar mapas de fontes
+options-source-maps-label = Ativar mapas de código-fonte
 options-source-maps-tooltip =
     .title = Mapear fontes nas ferramentas.
 # The message shown for settings that trigger page reload
