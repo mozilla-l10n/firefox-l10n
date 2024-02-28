@@ -272,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Zgjerime për Zhvillues
 appmenuitem-report-broken-site =
     .label = Njoftoni për sajt të dëmtuar
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Bëni hyrjen në llogarinë tuaj
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Merrni sinjalizime cenimesh të dhënash
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Maskoni email-in dhe telefonin tuaj të njëmendtë
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Mbroni veprimtari tuaj internetore

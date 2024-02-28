@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Nuk garantohet se ky sajt ë
 ##
 
 xpinstall-disabled-locked = Instalimi i software-it është çaktivizuar nga përgjegjësi i sistemit tuaj.
+xpinstall-disabled-by-policy = Instalimi i software-it është çaktivizuar nga enti juaj.
 xpinstall-disabled = Instalimi i software-it është hëpërhë i çaktivizuar. Klikoni mbi Aktivizoje dhe riprovoni.
 xpinstall-disabled-button =
     .label = Aktivizoje
