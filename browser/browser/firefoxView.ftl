@@ -12,6 +12,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -185,6 +187,7 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Nulle resultatos pro “{ $query }”
 firefoxview-sort-history-by-date-label = Ordinar per data
 firefoxview-sort-history-by-site-label = Ordinar per sito
+firefoxview-sort-open-tabs-by-recency-label = Ordinar per activitate recente
 firefoxview-sort-open-tabs-by-order-label = Ordinar per ordine de scheda
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
