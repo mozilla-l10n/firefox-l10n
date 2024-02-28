@@ -10,6 +10,7 @@ contentanalysis-slow-agent-dialog-title = Analyse de contento in progresso
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Le analyse de contento analysa le ressource “{ $content }”
+contentanalysis-slow-agent-dialog-header = Scansion in curso
 contentanalysis-operationtype-clipboard = area de transferentia
 contentanalysis-operationtype-dropped-text = texto deponite
 contentanalysis-warndialogtitle = Iste contento pote esser non secur

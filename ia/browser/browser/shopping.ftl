@@ -93,6 +93,7 @@ shopping-settings-opt-out-button = Disactivar verificator de recension
 powered-by-fakespot = Verificator de recension es supportate per <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 shopping-settings-auto-open-toggle =
     .label = Aperir automaticamente Verificator de recension
+shopping-settings-sidebar-enabled-state = Verificator de recension es <strong>Active</strong>
 
 ## Strings for the adjusted rating component
 
