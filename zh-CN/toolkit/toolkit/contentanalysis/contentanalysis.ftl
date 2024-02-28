@@ -10,6 +10,18 @@ contentanalysis-slow-agent-dialog-title = 正在分析内容
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = 内容分析正在分析资源“{ $content }”
+contentanalysis-slow-agent-dialog-header = 正在扫描
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } 正在审核“{ $filename }”是否符合您组织的数据策略，这可能需要一些时间。
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } 正在审核您粘贴的内容是否符合您组织的数据策略，这可能需要一些时间。
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } 正在审核您拖放的文本是否符合您组织的数据策略，这可能需要一些时间。
 contentanalysis-operationtype-clipboard = 剪贴板
 contentanalysis-operationtype-dropped-text = 拖放的文本
 contentanalysis-warndialogtitle = 此内容可能不安全

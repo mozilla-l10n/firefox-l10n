@@ -49,6 +49,8 @@ credit-card-capture-update-button =
     .accessKey = U
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = 管理地址
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = 管理付款方式
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
