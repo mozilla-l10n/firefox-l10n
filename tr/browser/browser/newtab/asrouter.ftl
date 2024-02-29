@@ -155,7 +155,7 @@ spotlight-pin-secondary-button = Şimdi değil
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
-mr2022-background-update-toast-title = Yeni { -brand-short-name }. Daha çok gizlilik. Daha az izleyici.
+mr2022-background-update-toast-title = Yeni { -brand-short-name }. Daha çok gizlilik. Daha az takip kodu.
 mr2022-background-update-toast-text = Bugüne kadarki en güçlü izlenme korumamızla güncellenen en yeni { -brand-short-name }’u şimdi deneyin.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
@@ -204,8 +204,6 @@ cfr-cbh-confirm-button = Çerez bildirimlerini reddet
     .accesskey = r
 cfr-cbh-dismiss-button = Şimdi değil
     .accesskey = m
-cookie-banner-blocker-cfr-header = { -brand-short-name } sizin için çerezleri engelledi
-cookie-banner-blocker-cfr-body = Sitelerin sizi takip etmesini zorlaştırmak için birçok çerez bildirimini otomatik olarak reddediyoruz.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } sizin için bir çerez bildirimini reddetti
 cookie-banner-blocker-onboarding-body = Bu site dikkatinizi daha az dağıtacak, çerezler sizi daha az izleyecek.
 cookie-banner-blocker-onboarding-learn-more = Daha fazla bilgi alın
@@ -279,7 +277,7 @@ launch-on-login-infobar-final-reject-button = Hayır
 # In English, this is a figure of speech meaning 'stop something from following you'.
 # If the localization of this message is challenging, consider using a simplified
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
-tail-fox-spotlight-title = İstenmeyen takipçilere izinizi kaybettirin
+tail-fox-spotlight-title = İstenmeyen takip kodlarına izinizi kaybettirin
 tail-fox-spotlight-subtitle = Can sıkıcı reklam takip kodlarını engelleyerek daha güvenli, daha hızlı bir internet deneyimine kavuşun.
 tail-fox-spotlight-primary-button = Bağlantılarımı { -brand-short-name } ile aç
 tail-fox-spotlight-secondary-button = Şimdi değil

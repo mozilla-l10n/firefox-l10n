@@ -154,7 +154,7 @@ addon-sitepermission-host = { $host } site izinleri
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Tüm uzantılar güvenli kipte devre dışı bırakıldı.
+extensions-warning-safe-mode = Güvenli kipte tüm eklentiler devre dışı bırakılmıştır.
 extensions-warning-check-compatibility = Uzantı uyumluluk denetimi devre dışı. Uyumsuz uzantılarınız olabilir.
 extensions-warning-safe-mode2 =
     .message = Tüm uzantılar güvenli kipte devre dışı bırakıldı.
