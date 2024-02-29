@@ -272,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Extensions for Developers
 appmenuitem-report-broken-site =
     .label = Ilmoita rikkinäisestä sivustosta
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Kirjaudu tilillesi
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Vastaanota tietovuotovaroituksia
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Peitä oikea sähköpostiosoitteesi ja puhelinnumerosi
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Suojaa toimintaasi verkossa

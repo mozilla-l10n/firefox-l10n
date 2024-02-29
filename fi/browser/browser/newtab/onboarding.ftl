@@ -350,6 +350,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Kiitos, että käytät Mozi
 onboarding-new-user-time-based-survey-title = Kuinka kauan olet käyttänyt { -brand-short-name }ia?
 onboarding-new-user-familiarity-based-survey-title = Kuinka tuttu { -brand-short-name } on sinulle?
 onboarding-new-user-survey-subtitle = Palautteesi auttaa tekemään { -brand-short-name }ista entistä paremman.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Seuraava
+onboarding-new-user-survey-legal-link-label = Valitsemalla “{ onboarding-new-user-survey-next-button-label }” hyväksyt  { -brand-product-name }in<a data-l10n-name="privacy_notice">tietosuojakäytännön</a>
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Olen aivan uusi
 onboarding-new-user-survey-time-based-option-2 = Alle kuukauden
