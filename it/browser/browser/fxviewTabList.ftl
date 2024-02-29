@@ -55,6 +55,14 @@ fxviewtabrow-move-tab-window = Sposta in una nuova finestra
     .accesskey = u
 fxviewtabrow-send-tab = Invia scheda a dispositivo
     .accesskey = v
+fxviewtabrow-pin-tab = Appunta scheda
+    .accesskey = h
+fxviewtabrow-unpin-tab = Rilascia scheda
+    .accesskey = h
+fxviewtabrow-mute-tab = Disattiva audio nella scheda
+    .accesskey = i
+fxviewtabrow-unmute-tab = Attiva audio nella scheda
+    .accesskey = i
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -69,3 +77,8 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
   .title = Attiva audio per { $tabTitle }
+
+fxviewtabrow-mute-tab-button-no-context =
+  .title = Disattiva audio nella scheda
+fxviewtabrow-unmute-tab-button-no-context =
+  .title = Attiva audio nella scheda

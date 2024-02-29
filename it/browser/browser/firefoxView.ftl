@@ -263,3 +263,15 @@ firefoxview-recentlyclosed-empty-description-two = Per trovare schede che hai ch
 firefoxview-syncedtabs-device-notabs = Nessuna scheda aperta in questo dispositivo
 firefoxview-syncedtabs-connect-another-device = Connetti un altro dispositivo
 
+firefoxview-pinned-tabs =
+  .title = Schede appuntate
+
+firefoxview-tabs =
+  .title = Schede
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+  .title = Passa a { $tabTitle }
