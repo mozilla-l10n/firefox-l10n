@@ -14,6 +14,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Apri { $targetURI } in una nuova scheda
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+  .title = Chiudi { $tabTitle }
+
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
