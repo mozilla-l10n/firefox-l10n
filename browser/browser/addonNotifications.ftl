@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Dieser Zugrif ist nicht gara
 ##
 
 xpinstall-disabled-locked = Die Software-Installation wurde von Ihrem Administrator deaktiviert.
+xpinstall-disabled-by-policy = Die Software-Installation wurde von Ihrer Organisation deaktiviert.
 xpinstall-disabled = Die Software-Installation ist momentan deaktiviert. Klicken Sie auf  "Aktivieren" und versuchen Sie es dann erneut.
 xpinstall-disabled-button =
     .label = Aktivieren
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) wurde durch den Systemadministrator blockiert.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ihr Systemadministrator hat diese Website daran gehindert, Sie zu fragen, ob Software auf Ihrem Computer installiert werden soll.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) wurde von Ihrer Organisation blockiert.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Ihre Organisation hat diese Website daran gehindert, Sie zu fragen, ob Software auf Ihrem Computer installiert werden soll.
 addon-install-full-screen-blocked = Das Installieren von Add-ons ist nicht erlaubt während des Vollbildmodus oder vor dessen Start.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.

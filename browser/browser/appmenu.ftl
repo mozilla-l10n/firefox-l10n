@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Weitere Tabs anzeigen
     .tooltiptext = Mehr Tabs von diesem Gerät anzeigen
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Einen inaktiven Tab anzeigen
+           *[other] { $count } inaktive Tabs anzeigen
+        }
+    .tooltiptext = Die inaktiven Tabs auf diesem Gerät anzeigen
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Keine offenen Tabs
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -168,6 +178,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Empfohlene Voreinstellung für das Debuggen der meisten Web-Apps mit geringem Overhead.
 profiler-popup-presets-web-developer-label =
     .label = Web-Entwickler
@@ -257,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Erweiterungen für Entwickler
 appmenuitem-report-broken-site =
     .label = Problem mit Website melden
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Melden Sie sich in Ihrem Konto an
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Erhalten Sie Warnmeldungen zu Datenlecks
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Verbergen Sie Ihre echte E-Mail-Adresse und Telefonnummer
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Schützen Sie Ihre Online-Aktivitäten
