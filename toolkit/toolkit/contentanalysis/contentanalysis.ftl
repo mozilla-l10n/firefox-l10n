@@ -10,6 +10,7 @@ contentanalysis-slow-agent-dialog-title = İçerik analizi devam ediyor
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = İçerik analizi aracı “{ $content }” kaynağını analiz ediyor
+contentanalysis-slow-agent-dialog-header = Tarama devam ediyor
 contentanalysis-operationtype-clipboard = pano
 contentanalysis-operationtype-dropped-text = sürüklenip bırakılan metin
 contentanalysis-warndialogtitle = Bu içerik güvensiz olabilir
