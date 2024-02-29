@@ -304,7 +304,7 @@ download-always-ask-where =
     .label = Spør alltid om kvar eg vil lagre filer
     .accesskey = a
 applications-header = Program
-applications-description = Vel korleis { -brand-short-name } handsame filer du hentar frå nettet eller programma du brukar når du surfar.
+applications-description = Vel korleis { -brand-short-name } handsamar filer du hentar frå nettet eller programma du brukar når du surfar.
 applications-filter =
     .placeholder = Søk filtypar eller program
 applications-type-column =
@@ -1054,10 +1054,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Snøgghandlingar
     .accesskey = S
+addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 addressbar-locbar-showrecentsearches-option =
     .label = Vis nylege søk
     .accesskey = V
-addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 addressbar-quickactions-learn-more = Les meir
 
 ## Privacy Section - Content Blocking
