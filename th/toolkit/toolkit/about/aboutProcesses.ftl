@@ -63,9 +63,9 @@ about-processes-unknown-process = อื่น ๆ : { $type } ({ $pid })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, ถูกแยก cross-origin)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, ถูกคัดแยกข้ามที่มา)
 about-processes-web-isolated-process-private = { $origin } — ส่วนตัว ({ $pid })
-about-processes-with-coop-coep-process-private = { $origin } — ส่วนตัว ({ $pid }, ถูกแยก cross-origin)
+about-processes-with-coop-coep-process-private = { $origin } — ส่วนตัว ({ $pid }, ถูกคัดแยกข้ามที่มา)
 
 ## Details within processes
 
