@@ -125,14 +125,14 @@ about-processes-frame-name-many = Підфрейми ({ $number }): { $shortUrl 
 ## Utility process actor names
 
 about-processes-utility-actor-unknown = Невідомий виконавець
-about-processes-utility-actor-audio-decoder-generic = Загальний аудіо декодер
+about-processes-utility-actor-audio-decoder-generic = Generic Audio Decoder
 about-processes-utility-actor-audio-decoder-applemedia = Аудіодекодер Apple Media
 about-processes-utility-actor-audio-decoder-wmf = Аудіодекодер Windows Media Framework
 about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Утиліти Windows
-about-processes-utility-actor-windows-file-dialog = Діалогове вікно "Файл" у Windows
+about-processes-utility-actor-windows-file-dialog = Windows File Dialog
 
 ## Displaying CPU (percentage and total)
 ## Variables:
