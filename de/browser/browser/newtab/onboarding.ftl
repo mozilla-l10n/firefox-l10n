@@ -350,6 +350,8 @@ onboarding-gratitude-security-and-privacy-subtitle = Vielen Dank, dass du { -bra
 onboarding-new-user-time-based-survey-title = Wie lange verwendest du { -brand-short-name } schon?
 onboarding-new-user-familiarity-based-survey-title = Wie vertraut bist du mit { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Dein Feedback hilft, { -brand-short-name } noch besser zu machen.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Weiter
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Ich bin ganz neu
 onboarding-new-user-survey-time-based-option-2 = Weniger als einen Monat
