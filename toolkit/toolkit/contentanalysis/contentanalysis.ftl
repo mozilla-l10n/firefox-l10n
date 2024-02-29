@@ -10,6 +10,7 @@ contentanalysis-slow-agent-dialog-title = Greining efnis í gangi
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Greining efnis er að skoða tilfangið „{ $content }“
+contentanalysis-slow-agent-dialog-header = Skönnun í gangi
 contentanalysis-operationtype-clipboard = klippispjald
 contentanalysis-operationtype-dropped-text = slepptur texti
 contentanalysis-warndialogtitle = Þetta efni gæti verið óöruggt
