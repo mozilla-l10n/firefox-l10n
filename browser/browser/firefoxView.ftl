@@ -188,6 +188,7 @@ firefoxview-search-results-empty = Pas de résultats pour « { $query } »
 firefoxview-sort-history-by-date-label = Trier par date
 firefoxview-sort-history-by-site-label = Trier par site
 firefoxview-sort-open-tabs-by-recency-label = Trier par activité récente
+firefoxview-sort-open-tabs-by-order-label = Trier par onglets
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
