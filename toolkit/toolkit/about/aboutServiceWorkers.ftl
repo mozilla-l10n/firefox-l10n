@@ -5,11 +5,10 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = เกี่ยวกับตัวทำงานบริการ
-about-service-workers-main-title = ตัวทำงานบริการที่ลงทะเบียน
-about-service-workers-warning-not-enabled = ไม่ได้เปิดใช้งานตัวทำงานบริการ
-about-service-workers-warning-no-service-workers = ไม่มีตัวทำงานบริการที่ได้ลงทะเบียนไว้
-
+about-service-workers-title = เกี่ยวกับ Service Workers
+about-service-workers-main-title = Service Worker ที่ลงทะเบียน
+about-service-workers-warning-not-enabled = ไม่ได้เปิดใช้งาน Service Workers
+about-service-workers-warning-no-service-workers = ไม่มี Service Workers ที่ได้ลงทะเบียนไว้
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>ชื่อแคชที่ใช้งานอ�
 waiting-cache-name = <strong>ชื่อแคชที่กำลังรออยู่:</strong> { $name }
 push-end-point-waiting = <strong>จุดปลายทางการสื่อสารสำหรับรับแจ้งแบบทันที:</strong> { waiting }
 push-end-point-result = <strong>จุดปลายทางการสื่อสารสำหรับรับแจ้งแบบทันที:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = อัปเดต
-
 unregister-button = เลิกลงทะเบียน
-
-unregister-error = ไม่สามารถเลิกลงทะเบียนตัวทำงานบริการนี้
-
+unregister-error = ไม่สามารถเลิกลงทะเบียน Service Worker นี้
 waiting = กำลังรอ…

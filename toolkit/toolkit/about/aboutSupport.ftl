@@ -64,7 +64,7 @@ app-basics-os-theme = ชุดรูปแบบของระบบปฏิ�
 app-basics-rosetta = แปลด้วย Rosetta
 app-basics-memory-use = หน่วยความจำที่ใช้
 app-basics-performance = ประสิทธิภาพ
-app-basics-service-workers = ตัวทำงานบริการที่ลงทะเบียน
+app-basics-service-workers = Service Worker ที่ลงทะเบียน
 app-basics-third-party = โมดูลบุคคลที่สาม
 app-basics-profiles = โปรไฟล์
 app-basics-launcher-process-status = โปรเซสของตัวเรียกใช้
@@ -200,6 +200,9 @@ media-cdm-capabilities = ความสามารถ
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = ส่วนนำที่ไม่เข้ารหัส (Clear Lead)
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = รองรับ HDCP 2.2
 
 ##
 
@@ -259,6 +262,7 @@ try-newer-driver = ถูกปิดกั้นจากรุ่นไดร�
 # there are no good translations, these are only used in about:support
 clear-type-parameters = พารามิเตอร์ ClearType
 compositing = การจัดองค์ประกอบ
+support-font-determination = ข้อมูลดีบั๊กการมองเห็นแบบอักษร
 hardware-h264 = การถอดรหัสฮาร์ดแวร์ H264
 main-thread-no-omtc = เธรดหลัก ไม่มี OMTC
 yes = ใช่
