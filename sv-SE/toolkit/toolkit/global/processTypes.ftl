@@ -41,13 +41,13 @@ process-type-socket = Socket
 process-type-rdd = RDD
 # process used to run some IPC actor in their own sandbox
 process-type-utility = IPC-aktör i sandlåda
-process-type-utility-actor-audio-decoder-generic = Generisk ljudavkodare
+process-type-utility-actor-audio-decoder-generic = Verktyg generisk ljudavkodare
 process-type-utility-actor-audio-decoder-applemedia = Verktyg AppleMedia
-process-type-utility-actor-audio-decoder-wmf = Verktyg för Windows Media Foundation
-process-type-utility-actor-mf-media-engine = Utility Media Foundation Engine
-process-type-utility-actor-js-oracle = JavaScript Oracle
-process-type-utility-actor-windows-utils = Windows verktyg
-process-type-utility-actor-windows-file-dialog = Fildialog för verktyg i fönster
+process-type-utility-actor-audio-decoder-wmf = Verktyg Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Vertyg Media Foundation Engine
+process-type-utility-actor-js-oracle = Verktyg JavaScript Oracle
+process-type-utility-actor-windows-utils = Verktyg Windows Utils
+process-type-utility-actor-windows-file-dialog = Verktyg Windows fildialog
 
 ##
 ## Other

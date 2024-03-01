@@ -17,7 +17,7 @@ contentanalysis-slow-agent-dialog-header = Genomsökning pågår
 contentanalysis-slow-agent-dialog-body-file = { $agent } granskar "{ $filename }" mot din organisations datapolicy. Detta kan ta en stund.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-contentanalysis-slow-agent-dialog-body-clipboard = { $agent } granskar vad du klistrat in mot din organisations datapolicyer. Detta kan ta en stund.
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } granskar vad du klistrat in mot din organisations datapolicy. Detta kan ta en stund.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
