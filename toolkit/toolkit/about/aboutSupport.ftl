@@ -11,9 +11,11 @@ crashes-all-reports = An holl zanevelloù sac'hadenn
 crashes-no-config = N'eo ket bet kefluniet an arload-mañ evit skrammañ danevelloù sac'hadenn.
 support-addons-title = Askouezhioù
 support-addons-name = Anv
+support-addons-type = Rizh
 support-addons-enabled = Gweredekaet
 support-addons-version = Handelv
 support-addons-id = Naoudi
+legacy-user-stylesheets-enabled = Oberiant
 security-software-title = Meziant diogelroez
 security-software-type = Rizh
 security-software-name = Anv
@@ -79,7 +81,9 @@ show-dir-label =
        *[other] Digeriñ ar c'havlec'h
     }
 environment-variables-name = Anv
+environment-variables-value = Talvoud
 experimental-features-name = Anv
+experimental-features-value = Talvoud
 modified-key-prefs-title = Gwellvezioù pouezus kemmet
 modified-prefs-name = Anv
 modified-prefs-value = Gwerzh
@@ -104,6 +108,7 @@ place-database-stats = Stadegoù
 place-database-stats-show = Diskouez ar stadegoù
 place-database-stats-hide = Kuzhat ar stadegoù
 place-database-stats-entity = Elfenn
+place-database-stats-count = Kont
 place-database-stats-size-kib = Ment (Ko)
 place-database-stats-size-perc = Ment (%)
 place-database-stats-efficiency-perc = Efedusted (%)
@@ -126,6 +131,7 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Doare argerzh
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguzennoù
+restart-button-label = Adloc’hañ
 
 ## Media titles
 
@@ -343,13 +349,16 @@ policies-error = Fazi
 
 ## Printing section
 
+support-printing-title = Moullerezh
 support-printing-troubleshoot = Disac’hañ
 support-printing-prefs-name = Anv
+support-printing-prefs-value = Talvoud
 
 ## Normandy sections
 
 support-remote-experiments-name = Anv
 support-remote-features-name = Anv
+support-remote-features-status = Statud
 
 ## Pointing devices
 

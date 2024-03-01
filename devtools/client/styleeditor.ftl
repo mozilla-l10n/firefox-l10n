@@ -32,7 +32,7 @@ styleeditor-find-again =
     .label = Klask en-dro
     .accesskey = n
 styleeditor-go-to-line =
-    .label = Jump to line…
+    .label = Jump to Line…
     .accesskey = J
 # This string is shown in the style sheets list
 # Variables:

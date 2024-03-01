@@ -5,6 +5,8 @@
 label-disable = Diweredekaat
 label-enable = Gweredekaat
 label-interventions = Emelladurioù
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Titouroù ouzhpenn: Beug { $bug }
 label-overrides = Flastrañ an User Agent
 text-disabled-in-about-config = Diweredekaet eo bet ar c'heweriuster-mañ e about:config
@@ -18,3 +20,4 @@ text-title = about:compat
 ## breakage. SmartBlock also contains special fixes for sites broken by
 ## Firefox's Total Cookie Protection feature.
 
+label-smartblock = Reizhadennoù SmartBlock

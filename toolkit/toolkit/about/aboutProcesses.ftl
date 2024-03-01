@@ -72,6 +72,8 @@ about-processes-tab-name = Ivinell: { $name }
 
 ## Utility process actor names
 
+# "Oracle" refers to an internal Firefox process and should be kept in English
+about-processes-utility-actor-js-oracle = JavaScript Oracle
 
 ## Displaying CPU (percentage and total)
 ## Variables:

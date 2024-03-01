@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Teñval
     .title = Livioù teñval
 about-reader-color-scheme-sepia = Sepia
     .title = Livioù sepia
+about-reader-color-scheme-auto = Emgefre
+    .title = Livioù emgefre
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
