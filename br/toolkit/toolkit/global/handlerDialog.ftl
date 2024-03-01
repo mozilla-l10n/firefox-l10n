@@ -13,9 +13,12 @@
 permission-dialog-description = Aotren al lec'hienn-mañ da zigeriñ al liamm { $scheme } ?
 permission-dialog-description-file = Aotren ar restr-mañ da zigeriñ al liamm { $scheme } ?
 permission-dialog-description-host = Aotren { $host } da zigeriñ al liamm { $scheme } ?
+permission-dialog-description-extension = Aotren an askouezh { $extension } da zigeriñ al liamm { $scheme }?
 permission-dialog-description-app = Aotren al lec'hienn-mañ da zigeriñ al liamm { $scheme } gant { $appName } ?
 permission-dialog-description-host-app = Aotren { $host } da zigeriñ al liamm { $scheme } gant { $appName } ?
 permission-dialog-description-file-app = Aotren ar restr-mañ da zigeriñ al liamm { $scheme } gant { $appName } ?
+permission-dialog-description-extension-app = Aotren an askouezh { $extension } da zigeriñ al liamm { $scheme } gant { $appName }?
+permission-dialog-description-system-app = Digeriñ al liamm { $scheme } gant { $appName }?
 permission-dialog-description-system-noapp = Digeriñ al liamm { $scheme }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
@@ -27,6 +30,7 @@ permission-dialog-description-system-noapp = Digeriñ al liamm { $scheme }?
 
 permission-dialog-remember = Atav aotren <strong>{ $host }</strong> da zigeriñ al liammoù <strong>{ $scheme }</strong>
 permission-dialog-remember-file = Atav aotren ar restr-mañ da zigeriñ al liammoù <strong>{ $scheme }</strong>
+permission-dialog-remember-extension = Aotren atav an askouezh-mañ da zigeriñ al liammoù <strong>{ $scheme }</strong>
 
 ##
 

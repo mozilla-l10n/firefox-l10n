@@ -16,6 +16,7 @@ printui-sheets-count =
        *[other] { $sheetCount } follenn baper
     }
 printui-page-range-all = Pep tra
+printui-page-range-current = A-vremañ
 printui-page-range-odd = Ampar
 printui-page-range-even = Par
 printui-page-range-custom = Personelaet
@@ -40,6 +41,7 @@ printui-scale-fit-to-page-width = Keitaat da ledander ar bajennad
 printui-scale-pcent = Skeul
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = O voullañ en daou du
+printui-two-sided-printing-off = Lazhet
 # Section title for miscellaneous print options
 printui-options = Dibarzhioù
 printui-headers-footers-checkbox = Moullañ an talbennoù hag an traoñ pajenn
@@ -49,6 +51,14 @@ printui-backgrounds-checkbox = Moullañ an drekleurioù
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+# The section title.
+printui-source-label = Mentrezh
+# Option for printing the original page.
+printui-source-radio = Orin
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Diuzad
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Eeunaet
 
 ##
 
@@ -68,7 +78,11 @@ printui-margins-custom-bottom = Traoñ ar bajenn
 printui-margins-custom-bottom-inches = Traoñ (meutadoù)
 printui-margins-custom-bottom-mm = Traoñ (mm)
 printui-margins-custom-left = Kleiz
+printui-margins-custom-left-inches = Kleiz (meutadoù)
+printui-margins-custom-left-mm = Kleiz (mm)
 printui-margins-custom-right = Dehoù
+printui-margins-custom-right-inches = Dehoù (meutadoù)
+printui-margins-custom-right-mm = Dehoù (mm)
 printui-system-dialog-link = Moullañ en ur ober gant boest kendiviz ar sistem...
 printui-primary-button = Moullañ
 printui-primary-button-save = Enrollañ
@@ -79,6 +93,7 @@ printui-loading = O prientiñ ar rakwel
 # the print preview has focus.
 printui-preview-label =
     .aria-label = Rakwel ar moullañ
+printui-pages-per-sheet = Pajennoù dre follen
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = O voullañ…

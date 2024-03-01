@@ -24,7 +24,10 @@ neterror-pref-reset-button = Assav an arventennoù dre ziouer
 neterror-return-to-previous-page-button = Distreiñ
 neterror-return-to-previous-page-recommended-button = Distreiñ (Erbedet)
 neterror-try-again-button = Klask en-dro
+neterror-add-exception-button = Bepred kenderc’hel evit al lec’hienn-mañ
 neterror-view-certificate-link = Gwelout an testeni
+neterror-trr-continue-this-time = Kenderc’hel ar wech-mañ
+neterror-disable-native-feedback-warning = Kenderc’hel bepred
 
 ##
 
@@ -51,6 +54,7 @@ neterror-dns-not-found-hint-firewall = Gweredekait en deus { -brand-short-name }
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-could-not-connect = N’eo ket deuet a-benn { -brand-short-name } da gennaskañ ouzh { $trrDomain }.
 neterror-dns-not-found-trr-offline = N’emaoc’h ket kennasket ouzh ar genrouedad.
 neterror-dns-not-found-trr-unknown-host2 = N’eo ket bet kavet al lec’hienn-mañ gant { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Ur gudenn zo bet gant { $trrDomain }.
