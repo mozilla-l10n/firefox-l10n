@@ -4,6 +4,7 @@
 
 protocolhandler-mailto-os-handler-notificationbox = Atav ober gant { -brand-short-name } evit digeriñ liammoù evit kas posteloù?
 protocolhandler-mailto-os-handler-yes-confirm = Hiviziken ez eo { -brand-short-name } hoc’h arload dre ziouer evit digeriñ liammoù evit kas posteloù.
+protocolhandler-mailto-os-handler-yes-button = Lakaat dre ziouer
 protocolhandler-mailto-os-handler-no-button = Diwezhatoc’h
 
 ## Variables:
@@ -14,4 +15,5 @@ protocolhandler-mailto-handler-yes-confirm = Hiviziken ez eo { $url } ho lec’h
 
 ##
 
+protocolhandler-mailto-handler-yes-button = Lakaat dre ziouer
 protocolhandler-mailto-handler-no-button = Diwezhatoc’h

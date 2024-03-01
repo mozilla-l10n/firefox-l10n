@@ -32,8 +32,13 @@ unified-extensions-context-menu-remove-extension =
     .label = Dilemel an askouezh
 unified-extensions-context-menu-report-extension =
     .label = Danevelliñ an askouezh
+unified-extensions-context-menu-move-widget-up =
+    .label = Etrezek ar c’hrec’h
+unified-extensions-context-menu-move-widget-down =
+    .label = Kas d’an traoñ
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-title = Lod askouezhioù zo n’int ket aotreet
 unified-extensions-mb-quarantined-domain-learn-more = Gouzout hiroc’h
     .aria-label = Gouzout hiroc’h: Lod askouezhioù zo ha n’int ket aotreet
