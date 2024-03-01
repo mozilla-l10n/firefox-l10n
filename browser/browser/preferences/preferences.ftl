@@ -444,6 +444,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Arverañ an dibunañ flour
     .accesskey = r
+browsing-always-underline-links =
+    .label = Atav islinennañ al liammoù
+    .accesskey = i
 browsing-use-onscreen-keyboard =
     .label = Diskouez ur c'hlavier stokañ pa vez ezhomm
     .accesskey = c
@@ -1016,10 +1019,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Oberoù prim
     .accesskey = O
+addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù luskerioù enklask
 addressbar-locbar-showrecentsearches-option =
     .label = Diskouez ar c’hlaskoù diwezhañ
     .accesskey = D
-addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù luskerioù enklask
 addressbar-quickactions-learn-more = Gouzout hiroc’h
 
 ## Privacy Section - Content Blocking
@@ -1122,6 +1125,8 @@ permissions-microphone = Klevell
 permissions-microphone-settings =
     .label = Arventennoù…
     .accesskey = r
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Diuzañ an uhelgomzerioù
 permissions-speaker-settings =
     .label = Arventennoù…
     .accesskey = t

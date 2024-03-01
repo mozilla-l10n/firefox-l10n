@@ -67,12 +67,23 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Nullañ
 translations-panel-learn-more-link = Gouzout hiroc'h
+translations-panel-error-translating = Ur gudenn zo bet en ur dreiñ. Klaskit adarre mar plij.
 translations-panel-error-load-languages = Ne c'haller ket kargañ ar yezhoù
 translations-panel-error-load-languages-hint = Gwirit ho kennask internet ha klaskit adarre.
 translations-panel-error-load-languages-hint-button =
     .label = Klask en-dro
+translations-panel-error-unsupported = N’eus troidigezh ebet da gaout evit ar bajenn-mañ
 translations-panel-error-dismiss-button =
     .label = Komprenet
+translations-panel-error-change-button =
+    .label = Cheñch ar yezh vammenn
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Hon digarezit, n’eo ket skoret ar yezh "{ $language }" c’hoazh.
 translations-panel-error-unsupported-hint-unknown = Digarezit, n’eo ket skoret ar yezh-se c’hoazh.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
@@ -86,6 +97,14 @@ translations-panel-to-label = Treiñ e
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Troet eo bet ar bajenn-mañ diwar ar { $fromLanguage } e { $toLanguage }
 translations-panel-choose-language =
     .label = Dibab ur yezh
 translations-panel-restore-button =
@@ -101,6 +120,7 @@ translations-manage-description = Pellgargañ yezhoù evit treiñ digevreet.
 translations-manage-all-language = An holl yezhoù
 translations-manage-download-button = Pellgargañ
 translations-manage-delete-button = Dilemel
+translations-manage-error-download = C’hoarvezet ez eus bet ur gudenn en ur bellgargañ ar restroù yezh. Klaskit adarre mar plij.
 translations-manage-language-install-button =
     .label = Staliañ
 translations-manage-language-install-all-button =
