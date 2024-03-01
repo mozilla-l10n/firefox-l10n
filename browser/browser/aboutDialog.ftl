@@ -25,6 +25,7 @@ update-applying = Oc’h arloañ an hizivadenn…
 update-failed = C’hwitadenn war an hizivaat. <label data-l10n-name="failed-link">Pellgargañ an handelv diwezhañ</label>
 update-failed-main = C’hwitadenn war an hizivaat. <a data-l10n-name="failed-link-main">Pellgargañ an handelv diwezhañ</a>
 update-adminDisabled = Hizivadennoù diweredekaet gant hoc’h ardead reizhiad
+update-policy-disabled = Diweredekaet eo an hizivadennoù evit hoc’h aozadur
 update-noUpdatesFound = Hizivaet eo bet { -brand-short-name }
 aboutdialog-update-checking-failed = C’hwitet war wiriañ an hizivadennoù.
 update-otherInstanceHandlingUpdates = Emañ { -brand-short-name } o vezañ hizivaet gant un eriol all
