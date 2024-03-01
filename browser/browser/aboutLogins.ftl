@@ -108,12 +108,13 @@ about-logins-login-intro-heading-logged-in = Не са намерени синх
 login-intro-description = Ако сте запазили данните си за вход в { -brand-product-name } на друго устройство, ето как да ги вземете тук:
 login-intro-instructions-fxa = Създайте или влезте в { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
 about-logins-login-intro-heading-message = Запазете паролите си на безопасно място
-login-intro-description2 = Всички пароли, които запазвате в { -brand-product-name }, са шифровани. Освен това следим за пробиви в сигурността и, ако сте засегнати, ви предупреждаваме. <a data-l10n-name="breach-alert-link">Научете повече</a>
+login-intro-description2 = Всички пароли, които запазвате в { -brand-product-name }, са шифровани. Освен това следим за пробиви в сигурността и ако сте засегнати, ви предупреждаваме. <a data-l10n-name="breach-alert-link">Научете повече</a>
 login-intro-instructions-fxa2 = Създайте или влезте в профила на устройството, където са запазени вашите данни за вход
 login-intro-instructions-fxa-settings = Отворете "Настройки" > Sync > Включване на синхронизиране… Изберете отметката за регистрации и пароли.
 login-intro-instructions-fxa-passwords-help = Посетете <a data-l10n-name="passwords-help-link">поддръжка на пароли</a> за помощ.
 about-logins-intro-browser-only-import = Ако вашите регистрации са запазени в друг мрежов четец, можете да ги <a data-l10n-name="import-link">внесете във { -brand-product-name }</a>.
-about-logins-intro-import2 = Ако вашите данни за вписване се съхраняват извън { -brand-product-name }, можете <a data-l10n-name="import-browser-link">да ги внесете от друг четец</a> или <a data-l10n-name="import-file-link">от файл</a>
+about-logins-intro-import2 = Ако вашите регистрации се съхраняват извън { -brand-product-name }, можете <a data-l10n-name="import-browser-link">да ги внесете от друг четец</a> или <a data-l10n-name="import-file-link">от файл</a>
+about-logins-intro-import3 = За да добавите парола използвайте бутона със знак плюс. Също можете <a data-l10n-name="import-browser-link">да ги внесете от друг четец</a> или <a data-l10n-name="import-file-link">от файл</a>
 
 ## Login
 
@@ -169,12 +170,12 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 about-logins-edit-login-os-auth-dialog-message-win = За да промените регистрацията, въведете данните си за вход в Windows. Това се прави с цел защита на регистрациите.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = прави промени в данни за вход
+about-logins-edit-login-os-auth-dialog-message-macosx = промяна на запазени регистрации
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = За да промените паролата, въведете данните си за вход в Windows. Това се прави с цел защита на вашите регистрации.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message2-macosx = променя запазена парола
+about-logins-edit-login-os-auth-dialog-message2-macosx = промяна на запазена парола
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = За да видите паролата, въведете данните си за вход в Windows. Това се прави с цел защита на регистрациите.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -198,7 +199,7 @@ about-logins-export-password-os-auth-dialog-message2-macosx = изнася за�
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = Моля, въведете главната си парола, за да видите запазените регистрации и пароли
+about-logins-primary-password-notification-message = За да видите запазените регистрации и пароли, въведете главната си парола
 master-password-reload-button =
     .label = Вписване
     .accesskey = в
