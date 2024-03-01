@@ -55,3 +55,7 @@ fxviewtabrow-send-tab = Kas an ivinell d'un trevnad
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Dibarzhioù evit { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = Tennañ ar son eus { $tabTitle }
