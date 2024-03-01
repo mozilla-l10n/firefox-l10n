@@ -142,6 +142,10 @@ addon-category-recent-updates-title =
 addon-category-sitepermission = Aotreoù al lec’hienn
 addon-category-sitepermission-title =
     .title = Aotreoù al lec’hienn
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = Aotreoù al lec’hienn evit { $host }
 
 ## These are global warnings
 
@@ -401,6 +405,9 @@ addon-detail-group-label-quarantined-domains =
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+addon-badge-recommended2 =
+    .title = { -brand-product-name } ne erbed nemet an askouezhioù a zouj d’hor reoladoù surentez hag efedusted
+    .aria-label = { addon-badge-recommended2.title }
 
 ##
 
