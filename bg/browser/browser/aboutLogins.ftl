@@ -5,7 +5,7 @@
 
 about-logins-page-title = Регистрации и пароли
 about-logins-login-filter =
-    .placeholder = Търсене на влизания
+    .placeholder = Търсене на регистрации
     .key = F
 create-new-login-button =
     .title = Нова регистрация
@@ -18,14 +18,14 @@ create-login-button =
 fxaccounts-sign-in-text = Вземете паролите си на всички ваши устройства
 fxaccounts-sign-in-sync-button = Вписване в Sync
 fxaccounts-avatar-button =
-    .title = Управление на сметката
+    .title = Управление на профила
 
 ## The ⋯ menu that is in the top corner of the page
 
 menu =
     .title = Отваря менюто
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Внасяне от друг мрежов четец…
+about-logins-menu-menuitem-import-from-another-browser = Внасяне от друг четец…
 about-logins-menu-menuitem-import-from-a-file = Внасяне от файл…
 about-logins-menu-menuitem-export-logins = Изнасяне на регистрации…
 about-logins-menu-menuitem-remove-all-logins = Премахване на всички регистрации…
@@ -54,8 +54,8 @@ login-list-count =
 #   $total (number) - Total number of logins
 login-list-filtered-count =
     { $total ->
-        [one] { $count } от { $total } влизане
-       *[other] { $count } от { $total } влизания
+        [one] { $count } от { $total } регистрация
+       *[other] { $count } от { $total } регистрации
     }
 # Variables
 #   $count (number) - Number of logins
@@ -106,7 +106,7 @@ about-logins-list-section-week = Последните 7 дни
 about-logins-login-intro-heading-logged-out2 = Търсите запазените си регистрации? Включете синхронизирането или ги внесете.
 about-logins-login-intro-heading-logged-in = Не са намерени синхронизирани регистрации.
 login-intro-description = Ако сте запазили данните си за вход в { -brand-product-name } на друго устройство, ето как да ги вземете тук:
-login-intro-instructions-fxa = Създайте или влезте в своята { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
+login-intro-instructions-fxa = Създайте или влезте в { -fxaccount-brand-name } на устройството, където са запазени вашите данни за вход
 about-logins-login-intro-heading-message = Запазете паролите си на безопасно място
 login-intro-description2 = Всички пароли, които запазвате в { -brand-product-name }, са шифровани. Освен това следим за пробиви в сигурността и, ако сте засегнати, ви предупреждаваме. <a data-l10n-name="breach-alert-link">Научете повече</a>
 login-intro-instructions-fxa2 = Създайте или влезте в профила на устройството, където са запазени вашите данни за вход
@@ -290,7 +290,7 @@ confirm-discard-changes-dialog-confirm-button = Отхвърляне
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Пробив в страница
-breach-alert-text = Паролите са изтекли или откраднати от този уебсайт, откакто последно сте обновили данните си за вход. Променете паролата си, за да защитите профила си.
+breach-alert-text = Паролите са изтекли или откраднати от тази страница, откакто последно сте обновили данните си за вход. За да защитите профила си, променете паролата си.
 about-logins-breach-alert-date = Пробивът е станал на { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
