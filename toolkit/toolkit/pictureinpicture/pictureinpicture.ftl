@@ -64,7 +64,12 @@ pictureinpicture-seekforward-btn =
 
 ##
 
+# This string is never displayed on the window. Is intended to be announced by
+# a screen reader whenever a user opens the subtitles settings panel
+# after selecting the subtitles button.
+pictureinpicture-subtitles-panel-accessible = Arventennoù an istitloù
 pictureinpicture-subtitles-label = Istitloù
+pictureinpicture-font-size-label = Ment an nodrezh
 pictureinpicture-font-size-small = Bihan
 pictureinpicture-font-size-medium = Krenn
 pictureinpicture-font-size-large = Bras

@@ -22,6 +22,11 @@ text-action-copy =
     .accesskey = i
 text-action-copy-shortcut =
     .key = C
+# This command copies the link, removing additional
+# query parameters used to track users across sites.
+text-action-strip-on-share =
+    .label = Eilañ an ere hep an heulierien
+    .accesskey = n
 text-action-paste =
     .label = Pegañ
     .accesskey = P

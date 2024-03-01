@@ -4,6 +4,8 @@
 
 moz-message-bar-icon-info =
     .alt = Titouroù
+moz-message-bar-icon-warning =
+    .alt = Diwallit
 moz-message-bar-icon-error =
     .alt = Fazi
 moz-message-bar-close-button =

@@ -115,6 +115,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (bet ser
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Kas / Resev: { $codecs }
+about-webrtc-short-send-direction = Kas: { $codecs }
+about-webrtc-short-receive-direction = Resev: { $codecs }
 
 ##
 
