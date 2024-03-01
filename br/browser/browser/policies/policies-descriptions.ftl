@@ -26,6 +26,7 @@ policy-Bookmarks = Krouiñ sinedoù e barrenn ostilhoù ar sinedoù, lañser ar 
 policy-CaptivePortal = (Di)weredekaat skor ar porched desachus.
 policy-CertificatesDescription = Ouzhpennañ testenioù pe arverañ testenioù enkorfet
 policy-Cookies = Aotren pe difenn al lec'hiennoù da zespizañ toupinoù.
+policy-DisableAccounts = Diweredekaat ar servijoù e lec’h e ranker kaout ur c’hont, ar goubredañ zoken.
 policy-DisabledCiphers = Diweredekaat an enrinegañ
 policy-DefaultDownloadDirectory = Arventennañ ar c'havlec'h pellgargañ dre ziouer.
 policy-DisableAppUpdate = Mirout ar merdeer da hizivaat.

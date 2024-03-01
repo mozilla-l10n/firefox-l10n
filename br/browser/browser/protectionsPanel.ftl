@@ -126,6 +126,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Diweredekaat
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Gweredekaat
+protections-panel-report-broken-site =
+    .label = Danevelliñ ul lec’hienn torret
+    .title = Danevelliñ ul lec’hienn torret
 
 ## Protections panel info message
 
