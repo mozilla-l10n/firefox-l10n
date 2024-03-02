@@ -168,6 +168,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Predefinido recomendado para a maioría da depuración de aplicacións web, con sobrecarga baixa.
 profiler-popup-presets-web-developer-label =
     .label = Desenvolvedor web
@@ -257,3 +262,12 @@ appmenu-developer-tools-extensions =
     .label = Extensións para desenvolvedores
 appmenuitem-report-broken-site =
     .label = Informar dun sitio roto
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Acceda á súa conta
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Recibir alertas sobre filtracións de datos
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Protexa a súa actividade en liña
