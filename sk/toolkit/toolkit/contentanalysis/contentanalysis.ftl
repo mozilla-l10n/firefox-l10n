@@ -10,6 +10,18 @@ contentanalysis-slow-agent-dialog-title = Prebieha analýza obsahu
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Analýza obsahu analyzuje zdroj “{ $content }”
+contentanalysis-slow-agent-dialog-header = Prebieha skenovanie
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } kontroluje súbor “{ $filename }” vzhľadom na pravidlá správy údajov vo vašej organizácii. Môže to chvíľu trvať.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } kontroluje kopírovaný obsah vzhľadom na pravidlá správy údajov vo vašej organizácii. Môže to chvíľu trvať.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } kontroluje kopírovaný obsah vzhľadom na pravidlá správy údajov vo vašej organizácii. Môže to chvíľu trvať.
 contentanalysis-operationtype-clipboard = schránka
 contentanalysis-operationtype-dropped-text = pretiahnutý text
 contentanalysis-warndialogtitle = Tento obsah môže byť nebezpečný
