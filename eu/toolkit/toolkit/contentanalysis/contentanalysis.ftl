@@ -10,6 +10,18 @@ contentanalysis-slow-agent-dialog-title = Edukiaren analisia lanean ari da
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Edukiaren analisia "{ $content }" baliabidea ari da analizatzen
+contentanalysis-slow-agent-dialog-header = Eskaneatzen ari da
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = "{ $filename }" zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = Itsatsi duzuna zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = Jaregin duzun testua zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
 contentanalysis-operationtype-clipboard = arbela
 contentanalysis-operationtype-dropped-text = jaregindako testua
 contentanalysis-warndialogtitle = Eduki hau ez-segurua izan liteke

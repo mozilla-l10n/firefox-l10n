@@ -22,6 +22,7 @@ set-password-reenter-password = Idatzi berriz pasahitza:
 set-password-meter = Pasahitzaren kalitate neurgailua
 set-password-meter-loading = Kargatzen
 primary-password-admin = Saio-hasierak eta pasahitzak gordetzeko, pasahitz nagusia ezartzea eskatzen du zure administratzaileak.
+primary-password-required-by-policy = Saio-hasierak eta pasahitzak gordetzeko, pasahitz nagusia ezartzea eskatzen du zure erakundeak.
 primary-password-description = Pasahitz nagusia gailu honetan kontuzko informazioa babesteko erabiltzen da, hala nola saio-hasierak eta pasahitzak. Pasahitz nagusia sortzen baduzu, saioan behin sartzeko eskatuko zaizu, { -brand-short-name }(e)k pasahitz bitartez babestutako informazioa behar duenean.
 primary-password-warning = Ziurta zaitez ezarritako pasahitz nagusia gogoratzen duzula. Zure pasahitz nagusia ahazten baduzu, ez duzu honek gailu honetan babestutako inongo informaziorako sarbiderik izango.
 remove-primary-password =
