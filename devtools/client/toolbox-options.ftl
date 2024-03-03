@@ -131,7 +131,7 @@ options-enable-service-workers-http-label = Povoliť skripty typu worker cez HTT
 options-enable-service-workers-http-tooltip =
     .title = Zapnutie tejto voľby povolí skripty typu worker cez HTTP pre všetky karty, ktoré majú otvorené vývojárske nástroje
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = Povoliť zdrojové mapy
+options-source-maps-label = Povoliť mapy zdrojov
 options-source-maps-tooltip =
     .title = Ak túto voľbu zapnete, zdroje budú mapované v nástrojoch.
 # The message shown for settings that trigger page reload
