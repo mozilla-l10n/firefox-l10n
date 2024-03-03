@@ -80,12 +80,47 @@ about-webauthn-auth-option-null = Non soportado
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-certifications = Certificacións
+about-webauthn-auth-info-firmware-version = Versión do firmware
+about-webauthn-auth-info-min-pin-length = Lonxitude mínima do PIN
+about-webauthn-auth-info-force-pin-change = Forzar o cambio do PIN
+about-webauthn-auth-info-algorithms = Algoritmos
+about-webauthn-auth-info-transports = Transportes
+about-webauthn-auth-info-pin-protocols = Protocolos PIN
+about-webauthn-auth-info-max-msg-size = Tamaño máximo da mensaxe
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Extensións
+about-webauthn-auth-info-versions = Versións
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = Verdadeiro
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = Falso
+about-webauthn-auth-info-null = Non soportado
 
 ## Bio enrollment sample feedbacks
 
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = A mostra foi boa.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = A mostra estaba demasiado alta.
+about-webauthn-ctap2-enroll-feedback-too-low = A mostra estaba demasiado baixa.
+about-webauthn-ctap2-enroll-feedback-too-left = A mostra estaba demasiado á esquerda.
+about-webauthn-ctap2-enroll-feedback-too-right = A mostra estaba demasiado á dereita.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = A mostra foi demasiado rápida.
+about-webauthn-ctap2-enroll-feedback-too-slow = A mostra foi demasiado lenta.
+about-webauthn-ctap2-enroll-feedback-poor-quality = A mostra tiña mala calidade.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = A mostra estaba demasiado distorsionada.
+about-webauthn-ctap2-enroll-feedback-too-short = A mostra foi demasiado curta.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Erro de fusión de mostra.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = A mostra xa existe.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Non hai actividade do usuario.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = O usuario non completou a mostra como se esperaba.
+about-webauthn-ctap2-enroll-feedback-other = Erro de mostra.
