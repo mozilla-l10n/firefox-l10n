@@ -74,6 +74,7 @@ about-telemetry-settings-explanation = Fjarmælingar eru að safna { about-telem
 #   $name (string) - Ping name, e.g. “saved-session”
 #   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Hvert eintak af upplýsingum er sent samsett til “<a data-l10n-name="ping-link">pings</a>”. Þú ert að athuga { $name }, { $timestamp } ping.
+about-telemetry-data-details-current = Hver einstakur upplýsingahluti er sendur saman í „<a data-l10n-name="ping-link">ping</a>“ búntum. Þú ert að skoða núverandi gögn.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
