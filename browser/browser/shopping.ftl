@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Qualität der Bewertung 
 shopping-message-bar-page-not-supported =
     .heading = Wir können diese Bewertungen nicht überprüfen
     .message = Leider können wir die Qualität der Bewertungen für bestimmte Arten von Produkten nicht überprüfen. Zum Beispiel Geschenkkarten und Video-Streaming, Musik und Spiele.
+shopping-message-bar-keep-closed-header =
+    .heading = Geschlossen lassen?
+    .message = Sie können ihre Einstellungen aktualisieren, um den Rezensionsprüfer standardmäßig geschlossen zu halten. Momentan öffnet er sich automatisch.
+shopping-message-bar-keep-closed-dismiss-button = Nein, danke
+shopping-message-bar-keep-closed-accept-button = Ja, geschlossen lassen
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Sie sehen gelegentlich Anzeigen für relevante Produkte. Wir bewerben nur Produkte mit vertrauenswürdigen Bewertungen. <a data-l10n-name="review-quality-url">Weitere Informationen</a>
 shopping-settings-opt-out-button = Rezensionsprüfer abschalten
 powered-by-fakespot = Der Rezensionsprüfer wird bereitgestellt von <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Rezensionsprüfer automatisch öffnen
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Wenn Sie sich Produkte auf { $firstSite }, { $secondSite } und { $thirdSite } ansehen
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Wenn Sie sich Produkte auf { $currentSite } ansehen
+shopping-settings-sidebar-enabled-state = Rezensionsprüfer ist <strong>aktiv</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,22 @@ shopping-callout-pdp-opted-in-title = Sind diese Rezensionen vertrauenswürdig? 
 shopping-callout-pdp-opted-in-subtitle = Öffnen Sie den Rezensionsprüfer, um eine angepasste Bewertung zu sehen, bei der unzuverlässige Rezensionen entfernt wurden. Sehen Sie sich außerdem Highlights aus den letzten authentischen Rezensionen an.
 shopping-callout-closed-not-opted-in-title = Mit einem Klick zu zuverlässigen Rezensionen
 shopping-callout-closed-not-opted-in-subtitle = Probieren Sie den Rezensionsprüfer aus, wenn Sie das Preisschild sehen. Erhalten Sie schnell Einblicke von echten Käufern – vor dem Kauf.
+shopping-callout-closed-not-opted-in-revised-title = Mit einem Klick zu vertrauenswürdigen Rezensionen
+shopping-callout-closed-not-opted-in-revised-subtitle = Klicken Sie einfach auf das Preissymbol in der Adressleiste, um zum Rezensionsprüfer zurückzukehren.
+shopping-callout-closed-not-opted-in-revised-button = Verstanden
+shopping-callout-not-opted-in-reminder-title = Einkaufen mit Vertrauen
+shopping-callout-not-opted-in-reminder-subtitle = Sie sind sich nicht sicher, ob die Bewertungen eines Produkts echt oder gefälscht sind? Der Rezensionsprüfer von { -brand-product-name } kann helfen.
+shopping-callout-not-opted-in-reminder-open-button = Rezensionsprüfer öffnen
+shopping-callout-not-opted-in-reminder-close-button = Schließen
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Nicht erneut anzeigen
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Beispielhafte Darstellung von drei Produktbewertungen. Eine hat ein Warnsymbol, das anzeigt, dass sie möglicherweise nicht vertrauenswürdig ist.
+shopping-callout-disabled-auto-open-title = Der Rezensionsprüfer ist jetzt standardmäßig geschlossen
+shopping-callout-disabled-auto-open-subtitle = Klicken Sie auf das Preissymbol in der Adressleiste, wenn Sie sehen möchten, ob Sie den Bewertungen eines Produkts vertrauen können.
+shopping-callout-disabled-auto-open-button = Verstanden
+shopping-callout-opted-out-title = Rezensionsprüfer ist deaktiviert
+shopping-callout-opted-out-subtitle = Um ihn wieder einzuschalten, klicken Sie auf das Preissymbol in der Adressleiste und befolgen Sie die Anweisungen.
+shopping-callout-opted-out-button = Verstanden
 
 ## Onboarding message strings.
 
@@ -186,7 +220,6 @@ shopping-onboarding-dynamic-subtitle-1 = Sehen Sie sich vor dem Kauf an, wie zuv
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Sehen Sie sich vor dem Kauf an, wie zuverlässig Produktbewertungen auf <b>{ $currentSite }</b> sind. Der Rezensionsprüfer, eine experimentelle Funktion von { -brand-product-name }, ist direkt in den Browser integriert.
 shopping-onboarding-body = Wir nutzen das Potenzial von { -fakespot-brand-full-name }, um Ihnen dabei zu helfen, voreingenommene und nicht authentische Rezensionen zu vermeiden. Unser KI-Modell wird ständig verbessert, um Sie beim Einkaufen zu schützen. <a data-l10n-name="learn_more">Weitere Informationen</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Mit der Auswahl von "{ shopping-onboarding-opt-in-button }" stimmen Sie der <a data-l10n-name="privacy_policy">Datenschutzrichtlinie</a> und den <a data-l10n-name="terms_of_use">Nutzungsbedingungen</a> von { -fakespot-brand-name } zu.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Mit der Auswahl von "{ shopping-onboarding-opt-in-button }" stimmen Sie der <a data-l10n-name="privacy_policy">Datenschutzrichtlinie</a> von { -brand-product-name } und den <a data-l10n-name="terms_of_use">Nutzungsbedingungen</a> von { -fakespot-brand-name } zu.
 shopping-onboarding-opt-in-button = Ja, ausprobieren
 shopping-onboarding-not-now-button = Nicht jetzt

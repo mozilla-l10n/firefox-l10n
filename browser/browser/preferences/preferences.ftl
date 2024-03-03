@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Nur Text zoomen
     .accesskey = T
+preferences-text-zoom-override-warning =
+    .message = Warnung: Wenn Sie "Nur Text zoomen" auswählen und Ihr Standard-Zoom nicht auf 100% gesetzt ist, kann dies dazu führen, dass einige Websites oder Inhalte nicht funktionieren.
 language-header = Sprache
 choose-language-description = Bevorzugte Sprachen für die Darstellung von Websites wählen
 choose-button =
@@ -562,6 +564,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Empfohlen von { $provider }
 home-prefs-recommended-by-description-new = Besondere Inhalte ausgewählt von { $provider }, Teil der { -brand-product-name }-Familie
+home-prefs-recommended-by-header-generic =
+    .label = Empfohlene Geschichten
+home-prefs-recommended-by-description-generic = Besondere Inhalte ausgewählt von der { -brand-product-name }-Familie
 
 ##
 
@@ -1080,10 +1085,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Schnellaktionen
     .accesskey = S
+addressbar-suggestions-settings = Einstellungen für Suchvorschläge ändern
 addressbar-locbar-showrecentsearches-option =
     .label = Letzte Suchanfragen anzeigen
     .accesskey = L
-addressbar-suggestions-settings = Einstellungen für Suchvorschläge ändern
 addressbar-quickactions-learn-more = Weitere Informationen
 
 ## Privacy Section - Content Blocking
