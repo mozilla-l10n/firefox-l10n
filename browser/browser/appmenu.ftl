@@ -277,6 +277,8 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Тіркелгіңізге кіріңіз
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Деректерді бұзу туралы ескертулерді алу
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Шын эл. пошта және телефоныңызды жасырыңыз
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Желідегі әрекетіңізді қорғаңыз
