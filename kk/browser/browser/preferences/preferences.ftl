@@ -257,6 +257,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Тек мәтінді масштабтау
     .accesskey = т
+preferences-text-zoom-override-warning =
+    .message = Ескерту: «Тек мәтінді масштабтау» опциясын таңдасаңыз және үнсіз келісім бойынша масштабтау 100%-ға орнатылмаса, бұл кейбір сайттардың немесе мазмұнның бұзылуына әкелуі мүмкін.
 language-header = Тіл
 choose-language-description = Интернет-беттерді көрсету үшін тілді таңдаңыз
 choose-button =
@@ -562,6 +564,7 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Ұсынушы { $provider }
 home-prefs-recommended-by-description-new = { -brand-product-name } отбасының мүшесі болып табылатын, { $provider } жетекшілік ететін тамаша құрама
+home-prefs-recommended-by-description-generic = { -brand-product-name } отбасымен қадағаланатын ерекше мазмұн
 
 ##
 
@@ -1080,10 +1083,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Жылдам әрекеттер
     .accesskey = к
+addressbar-suggestions-settings = Іздеу жүйесінің ұсыныстары үшін қалауларды өзгерту
 addressbar-locbar-showrecentsearches-option =
     .label = Жуырдағы іздеулерді көрсету
     .accesskey = р
-addressbar-suggestions-settings = Іздеу жүйесінің ұсыныстары үшін қалауларды өзгерту
 addressbar-quickactions-learn-more = Көбірек білу
 
 ## Privacy Section - Content Blocking
