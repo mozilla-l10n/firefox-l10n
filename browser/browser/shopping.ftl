@@ -160,6 +160,12 @@ shopping-survey-thanks =
 shopping-callout-closed-opted-in-subtitle = Volver ao <strong>verificador de recensión</strong> sempre que vexa a etiqueta de prezo.
 shopping-callout-pdp-opted-in-title = Son fiables estas recensións? Descúbrao rápido.
 shopping-callout-closed-not-opted-in-title = Un clic para comentarios fiables
+shopping-callout-closed-not-opted-in-revised-button = Entendido
+shopping-callout-not-opted-in-reminder-open-button = Abrir o verificador de recensións
+shopping-callout-not-opted-in-reminder-close-button = Rexeitar
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Non mostrar de novo
+shopping-callout-disabled-auto-open-button = Entendido
+shopping-callout-opted-out-button = Entendido
 
 ## Onboarding message strings.
 
