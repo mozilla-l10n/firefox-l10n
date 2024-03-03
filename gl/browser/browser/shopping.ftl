@@ -61,6 +61,7 @@ shopping-message-bar-analysis-in-progress-message2 = Isto pode levar uns 60 segu
 shopping-message-bar-page-not-supported =
     .heading = Non podemos comprobar estas recensións
     .message = Desafortunadamente, non podemos comprobar a calidade das recensións de determinados tipos de produtos. Por exemplo, tarxetas de agasallo e streaming de vídeo, música e xogos.
+shopping-message-bar-keep-closed-dismiss-button = Non, grazas
 
 ## Strings for the product review snippets card
 
@@ -161,6 +162,7 @@ shopping-callout-closed-opted-in-subtitle = Volver ao <strong>verificador de rec
 shopping-callout-pdp-opted-in-title = Son fiables estas recensións? Descúbrao rápido.
 shopping-callout-closed-not-opted-in-title = Un clic para comentarios fiables
 shopping-callout-closed-not-opted-in-revised-button = Entendido
+shopping-callout-not-opted-in-reminder-title = Comprar con confianza
 shopping-callout-not-opted-in-reminder-open-button = Abrir o verificador de recensións
 shopping-callout-not-opted-in-reminder-close-button = Rexeitar
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Non mostrar de novo

@@ -77,6 +77,8 @@ sanitize-button-ok =
     .label = Borrar agora
 sanitize-button-ok2 =
     .label = Borrar
+sanitize-button-ok-on-shutdown =
+    .label = Gardar cambios
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
