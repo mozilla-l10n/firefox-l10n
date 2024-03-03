@@ -185,6 +185,18 @@ media-codec-support-codec-name = Nome do códec
 media-codec-support-supported = Compatible
 media-codec-support-unsupported = Non compatible
 media-codec-support-error = A información de soporte do códec non está dispoñible. Ténteo de novo despois de reproducir un ficheiro multimedia.
+media-codec-support-lack-of-extension = Instalar extensión
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-video-robustness = Robusteza do vídeo
+media-audio-robustness = Robusteza do audio
+media-cdm-capabilities = Capacidades
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = Compatible con HDCP 2.2
 
 ##
 

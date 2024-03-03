@@ -38,6 +38,7 @@ about-logging-preset-networking-websocket-label = WebSockets
 about-logging-preset-networking-websocket-description = Módulos de rexistro para diagnosticar problemas de WebSocket
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-description = Módulos de rexistro para diagnosticar problemas de HTTP/3 e QUIC
+about-logging-preset-networking-http3-upload-speed-label = Velocidade de subida de HTTP/3
 about-logging-preset-media-playback-label = Reprodución multimedia
 about-logging-preset-media-playback-description = Módulos de rexistro para diagnosticar problemas de reprodución multimedia (non problemas de videoconferencia)
 about-logging-preset-webrtc-label = WebRTC
