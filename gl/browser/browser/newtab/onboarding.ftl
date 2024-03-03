@@ -339,3 +339,16 @@ onboarding-easy-setup-security-and-privacy-title = Encántanos telo seguro
 onboarding-easy-setup-security-and-privacy-subtitle = O noso navegador sen ánimo de lucro axuda a evitar que as empresas o sigan en segredo pola web.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Manteña todo cifrado cando salte entre dispositivos
+
+## New user time and familiarity survey strings
+
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Seguinte
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Son novo
+onboarding-new-user-survey-time-based-option-2 = Menos de 1 mes
+onboarding-new-user-survey-time-based-option-3 = Máis de 1 mes, regularmente
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Son novo
+onboarding-new-user-survey-familiarity-based-option-2 = Useino algo
+onboarding-new-user-survey-familiarity-based-option-3 = Estou moi familiarizado con iso

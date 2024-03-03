@@ -204,6 +204,7 @@ cfr-cbh-confirm-button = Rexeitar os avisos de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Agora non
     .accesskey = n
+cookie-banner-blocker-onboarding-learn-more = Máis información
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -233,10 +234,6 @@ fxa-sync-cfr-secondary = Lembrarmo máis tarde
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Usa un dispositivo antigo?
-device-migration-fxa-spotlight-body = Faga unha copia de seguranza dos seus datos para asegurarse de non perder información importante como marcadores e contrasinais, especialmente se cambia a un dispositivo novo.
-device-migration-fxa-spotlight-primary-button = Como facer unha copia de seguranza dos meus datos
-device-migration-fxa-spotlight-link = Lembrarmo máis tarde
 device-migration-fxa-spotlight-heavy-user-header = Non esqueza facer unha copia de seguranza dos seus datos
 device-migration-fxa-spotlight-heavy-user-primary-button = Comezar
 device-migration-fxa-spotlight-older-device-header = Tranquilidade, de { -brand-product-name }
@@ -266,3 +263,7 @@ launch-on-login-infobar-reject-button = Agora non
 
 launch-on-login-infobar-final-reject-button = Non, grazas
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-secondary-button = Agora non

@@ -555,6 +555,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recomendado por { $provider }
 home-prefs-recommended-by-description-new = Contido excepcional patrocinado por { $provider }, parte da familia { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Historias recomendadas
 
 ##
 
@@ -1025,10 +1027,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Accións rápidas
     .accesskey = r
+addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxestións do buscador
 addressbar-locbar-showrecentsearches-option =
     .label = Mostrar buscas recentes
     .accesskey = r
-addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxestións do buscador
 addressbar-quickactions-learn-more = Máis información
 
 ## Privacy Section - Content Blocking
