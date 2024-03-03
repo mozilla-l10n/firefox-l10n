@@ -12,6 +12,7 @@
 
 policy-3rdparty = Ezarri politikak WebExtension gehigarriek chrome.storage.managed bidez sarbidea izan dezaten.
 policy-AllowedDomainsForApps = Definitu Google Workspace-rako sarbidea izango duten domeinuak.
+policy-AllowFileSelectionDialogs = Baimendu fitxategi-hautapenerako elkarrizketa-koadroak.
 policy-AppAutoUpdate = Gaitu edo desgaitu aplikazioaren eguneraketa automatikoa.
 policy-AppUpdatePin = Eragotzi { -brand-short-name } eguneratzea bertsio zehatz batetik aurrera.
 policy-AppUpdateURL = Ezarri aplikazioa-eguneraketen URL pertsonalizatua

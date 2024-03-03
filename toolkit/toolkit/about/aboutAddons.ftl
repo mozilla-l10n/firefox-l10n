@@ -215,6 +215,9 @@ shortcuts-no-addons = Ez daukazu hedapenik gaituta.
 shortcuts-no-commands = Ondorengo hedapenek ez dute lasterbiderik:
 shortcuts-input =
     .placeholder = Idatzi lasterbidea
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Kendu lasterbidea
 shortcuts-browserAction2 = Aktibatu tresna-barrako botoia
 shortcuts-pageAction = Gaitu orri-ekintza
 shortcuts-sidebarAction = Txandakatu alboko barra
