@@ -352,6 +352,7 @@ onboarding-new-user-familiarity-based-survey-title = Wie vertraut bist du mit { 
 onboarding-new-user-survey-subtitle = Dein Feedback hilft, { -brand-short-name } noch besser zu machen.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Weiter
+onboarding-new-user-survey-legal-link-label = Indem Sie "{ onboarding-new-user-survey-next-button-label }" auswählen, stimmen Sie dem <a data-l10n-name="privacy_notice">Datenschutzhinweis</a> von { -brand-product-name } zu
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Ich bin ganz neu
 onboarding-new-user-survey-time-based-option-2 = Weniger als einen Monat
