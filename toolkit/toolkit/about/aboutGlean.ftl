@@ -52,6 +52,24 @@ about-glean-no-ping-label = (hiçbir ping gönderme)
 about-glean-label-for-tag-pings = Önceki alanda, pinglerinizi daha sonra tanıyabilmeniz için akılda kalıcı bir hata ayıklama etiketi olduğundan emin olun.
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings-with-requirements = Ping'lerinizi daha sonra tanıyabilmeniz için akılda kalıcı bir hata ayıklama etiketi <span>(en fazla 20 karakter; yalnızca harf, rakam ve "-")</span> belirleyin.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Yandaki listeden enstrümantasyonunuzun bulunduğu ping'i seçin.
+    Eğer <a data-l10n-name="custom-ping-link">özel ping</a> içindeyse onu seçin.
+    Aksi halde, <code>event</code> ölçümleri için varsayılan ping 
+    <code>events</code> ping'i 
+    ve diğer ölçümler için varsayılan ping 
+    <code>metrics</code> ping'idir.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (İsteğe bağlı. Ping'ler gönderilince aynı zamanda günlüğe de kaydedilmesini istiyorsanız yandaki kutuyu işaretleyin.
+    Bunun için <a data-l10n-name="enable-logging-link">günlük tutulmasını da etkinleştirmeniz</a> gerekiyor.)
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Geliştirici araçları konsolunda Glean JS API’sinin çalıştığını unutmayın.
+    Bu nedenle, ölçüm kategorisi ve ölçüm adı Rust ve C++ API’lerinden farklı olarak
+    <code>camelCase</code> biçiminde olacaktır.
 controls-button-label-verbose = Ayarları uygula ve ping gönder
 about-glean-about-data-header = Veriler Hakkında
 about-glean-about-data-explanation = Toplanan verilerin listesine göz atmak için lütfen <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.
