@@ -175,7 +175,7 @@ firefoxview-cfr-primarybutton = Deneyin
 firefoxview-cfr-secondarybutton = Şimdi değil
     .accesskey = m
 firefoxview-cfr-header-v2 = Kaldığınız yerden hızlıca devam edin
-firefoxview-cfr-body-v2 = { -firefoxview-brand-name } ile yakın zamanda kapattığınız sekmeleri geri getirebilir ve cihazlarınız arasında kolayca şekilde geçiş yapabilirsiniz.
+firefoxview-cfr-body-v2 = { -firefoxview-brand-name } ile yakın zamanda kapattığınız sekmeleri geri getirebilir ve cihazlarınız arasında kolayca geçiş yapabilirsiniz.
 
 ## Firefox View Spotlight
 
@@ -237,7 +237,7 @@ fxa-sync-cfr-secondary = Daha sonra hatırlat
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-header = Verilerinizi yedeklemeyi unutmayın
-device-migration-fxa-spotlight-heavy-user-body = Yer imleriniz ve parolalarınız gibi önemli bilgilerinizin tüm cihazlarınızda güncel kalsın ve korunsun.
+device-migration-fxa-spotlight-heavy-user-body = Yer imleriniz ve parolalarınız gibi önemli bilgileriniz tüm cihazlarınızda güncel kalsın ve korunsun.
 device-migration-fxa-spotlight-heavy-user-primary-button = Başla
 device-migration-fxa-spotlight-older-device-header = { -brand-product-name } ile içiniz rahat olsun
 device-migration-fxa-spotlight-older-device-body = Hesabınıza bağladığınız tüm cihazlarınızda önemli bilgileriniz güncel ve güvende kalır.

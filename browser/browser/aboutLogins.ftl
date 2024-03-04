@@ -254,12 +254,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
        *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesapları { -fxaccount-brand-name }nızla eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
     }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesap bilgilerini eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
-        [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesap bilgilerini eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
-       *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz tüm hesap bilgilerini eşitlenen tüm cihazlardan kaldıracaktır. Burada görünen ihlal uyarıları da kaldırılacaktır. Bu işlemi geri alamazsınız.
-    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -322,7 +316,7 @@ about-logins-breach-alert-link = { $hostname } sitesine git
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Güvensiz Parola
-about-logins-vulnerable-alert-text2 = Bu parolayı veri ihlaline uğramış olan başka bir hesapta da kullanmışsınız. Aynı parola farklı yerlerde kullanmak tüm hesaplarınızı risk altına sokar. Bu parolayı değiştirin.
+about-logins-vulnerable-alert-text2 = Bu parolayı veri ihlaline uğramış olan başka bir hesapta da kullanmışsınız. Aynı parolayı farklı yerlerde kullanmak tüm hesaplarınızı risk altına sokar. Bu parolayı değiştirin.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } sitesine git

@@ -17,7 +17,7 @@ desktop-entry-x-gnome-full-name = { -brand-shortcut-name } Web Tarayıcısı
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
 # - The list MUST end with a semicolon.
-desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;İnternet;Tarayıcı
+desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;İnternet;Tarayıcı;
 
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.
