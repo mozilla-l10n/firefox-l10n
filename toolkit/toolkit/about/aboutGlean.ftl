@@ -88,6 +88,14 @@ about-glean-adhoc-explanation =
     e utilizando a API <code>testGetValue()</code> como
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
 # Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    Para mais testes <i>ad hoc</i>,
+    também pode determinar o valor atual de uma determinada peça de instrumentação
+    abrindo uma consola do programador em <code>about:glean</code>
+    e utilizando a API <code>testGetValue()</code> como
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    para uma métrica denominada <code>metric.category.metric_name</code>.
+# Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Por favor, note que está a utilizar a API Glean JS através da consola de ferramentas de desenvolvimento.
     Isto significa que a categoria da métrica e o nome da métrica estão formatados em

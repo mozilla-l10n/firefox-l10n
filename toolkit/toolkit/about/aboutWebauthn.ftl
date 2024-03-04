@@ -88,7 +88,13 @@ about-webauthn-auth-option-rk = Chave residente
 about-webauthn-auth-option-plat = Dispositivo da plataforma
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Permissões de comando (pingUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Sem permissões MakeCredential/GetAssertion com PIN de cliente
+about-webauthn-auth-option-largeblobs = Objeto binário grande
+about-webauthn-auth-option-ep = Atestado empresarial
 about-webauthn-auth-option-bioenroll = Registo biométrico
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Protótipo de registo biométrico (FIDO_2_1_pre)
 about-webauthn-auth-option-uvbioenroll = Permissão de registo biométrico
 about-webauthn-auth-option-authnrcfg = Configuração do autenticador
 about-webauthn-auth-option-uvacfg = Permissão de configuração do autenticador
@@ -113,6 +119,7 @@ about-webauthn-auth-info-remaining-discoverable-credentials = Credenciais pesqui
 about-webauthn-auth-info-certifications = Certificações
 about-webauthn-auth-info-uv-modality = Modalidade de verificação do utilizador
 about-webauthn-auth-info-preferred-platform-uv-attempts = Tentativas de verificação do utilizador preferido da plataforma
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Tamanho de PIN mínimo definido para ID da entidade confiadora máx.
 about-webauthn-auth-info-firmware-version = Versão do firmware
 about-webauthn-auth-info-min-pin-length = Tamanho mínimo do código
 about-webauthn-auth-info-force-pin-change = Forçar alteração do código
