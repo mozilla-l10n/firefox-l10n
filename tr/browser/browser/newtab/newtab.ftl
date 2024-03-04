@@ -202,7 +202,7 @@ newtab-empty-section-highlights = Gezinmeye başlayın. Son zamanlarda baktığ�
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Hepsini bitirdiniz. Yeni { $provider } haberleri için daha fazla yine gelin. Beklemek istemiyor musunuz? İlginç yazılara ulaşmak için popüler konulardan birini seçebilirsiniz.
+newtab-empty-section-topstories = Hepsini bitirdiniz. Yeni { $provider } yazıları için yine gelin. Beklemek istemiyor musunuz? İlginç yazılara ulaşmak için popüler konulardan birini seçebilirsiniz.
 # Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
 newtab-empty-section-topstories-generic = Hepsini bitirdiniz. Yeni yazılar için daha sonra yine gelin. Beklemek istemiyor musunuz? İlginç yazılara ulaşmak için popüler konulardan birini seçebilirsiniz.
 
@@ -223,7 +223,7 @@ newtab-pocket-new-topics-title = Daha fazla içeriğe ne dersiniz? { -pocket-bra
 newtab-pocket-more-recommendations = Daha fazla öneri
 newtab-pocket-learn-more = Daha fazla bilgi al
 newtab-pocket-cta-button = { -pocket-brand-name }’ı edinin
-newtab-pocket-cta-text = Sevdiğiniz yazıları { -pocket-brand-name }’a kaydedin, aklınız okumaya değer şeylerle doldurun.
+newtab-pocket-cta-text = Sevdiğiniz yazıları { -pocket-brand-name }’a kaydedin, aklınızı okumaya değer şeylerle doldurun.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name }, { -brand-product-name } ailesinin bir parçasıdır
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Kaydet

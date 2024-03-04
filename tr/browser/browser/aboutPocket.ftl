@@ -11,25 +11,23 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Etiket ekle
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }’a kaydetmeye çalışırken bir hata oluştu.
 pocket-panel-saved-error-tag-length = Etiketler en fazla 25 karakter olabilir
 pocket-panel-saved-error-only-links = Yalnızca bağlantılar kaydedilebilir
 pocket-panel-saved-error-not-saved = Sayfa kaydedilmedi
 pocket-panel-saved-error-no-internet = { -pocket-brand-name }’a kaydetmek için internete bağlı olmalısınız. Lütfen internete bağlanıp yeniden deneyin.
 pocket-panel-saved-error-remove = Bu sayfayı kaldırmaya çalışırken bir hata oluştu.
-pocket-panel-saved-page-removed = Sayfa silindi
+pocket-panel-saved-page-removed = Sayfa kaldırıldı
 pocket-panel-saved-page-saved = { -pocket-brand-name }’a kaydedildi
 pocket-panel-saved-page-saved-b = { -pocket-brand-name }’a kaydedildi.
-pocket-panel-saved-processing-remove = Sayfa siliniyor…
+pocket-panel-saved-processing-remove = Sayfa kaldırılıyor…
 pocket-panel-saved-removed-updated = Sayfa, kaydettiklerinizden kaldırıldı
 pocket-panel-saved-processing-tags = Etiketler ekleniyor…
-pocket-panel-saved-remove-page = Sayfayı sil
+pocket-panel-saved-remove-page = Sayfayı kaldır
 pocket-panel-saved-save-tags = Kaydet
 pocket-panel-saved-saving-tags = Kaydediliyor…
 pocket-panel-saved-suggested-tags = Önerilen etiketler
 pocket-panel-saved-tags-saved = Etiketler eklendi
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Etiket ekle:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } ile kaydol
 pocket-panel-signup-tagline = İstediğiniz cihazda, istediğiniz zaman görmek istediğiniz yazı ve videoları { -brand-product-name }’tan { -pocket-brand-name }’a kaydedin.
 pocket-panel-signup-tagline-story-one = { -brand-product-name }’ta istediğiniz yazıyı, videoyu veya sayfayı kaydetmek için { -pocket-brand-name } düğmesine tıklayın.
 pocket-panel-signup-tagline-story-two = İstediğiniz cihazda, istediğiniz zaman { -pocket-brand-name }’tan bakın.
-
 pocket-panel-signup-cta-a-fix = İnterneti kaydetme düğmeniz
 pocket-panel-signup-cta-b-updated = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın. Kaydettiklerinize istediğiniz zaman, istediğiniz cihazdan bakabilirsiniz.
 pocket-panel-signup-cta-b-short = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın.
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = { -pocket-brand-name }’ı kullanarak web sayfala
 pocket-panel-home-explore-popular-topics = Popüler konuları keşfedin
 pocket-panel-home-discover-more = Daha fazlasını keşfedin
 pocket-panel-home-explore-more = Keşfet
-
 pocket-panel-home-most-recent-saves = İşte en son kaydettikleriniz:
 pocket-panel-home-most-recent-saves-loading = Son kaydedilenler yükleniyor…
 pocket-panel-home-new-user-cta = Makaleleri, videoları ve bağlantıları kaydetmek için { -pocket-brand-name } düğmesine tıklayın.

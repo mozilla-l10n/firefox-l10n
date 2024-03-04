@@ -37,7 +37,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Daha sonra
     .secondarybuttonaccesskey = D
 appmenu-update-other-instance-message = Yeni bir { -brand-shorter-name } güncellemesi mevcut ama şu anda başka bir { -brand-shorter-name } kopyası çalıştığı için yüklenemiyor. Güncellemeye devam etmek için çalışan kopyayı kapatın veya “yine de güncelle”yi seçin. (Diğer kopya yeniden başlatılana kadar düzgün çalışmayabilir.)
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Tamam
     .buttonaccesskey = T
@@ -45,7 +44,6 @@ appmenu-addon-post-install-message3 = Eklentilerinizi ve temalarınızı uygulam
 appmenu-addon-post-install-incognito-checkbox =
     .label = Bu uzantının gizli pencerelerde çalışmasına izin ver
     .accesskey = B
-    
 appmenu-new-tab-controlled-changes =
     .label = Yeni sekmeniz değişti.
     .buttonlabel = Değişiklikleri tut
@@ -59,7 +57,7 @@ appmenu-homepage-controlled-changes =
     .secondarybuttonlabel = Giriş sayfasını yönet
     .secondarybuttonaccesskey = G
 appmenu-tab-hide-controlled =
-    .label = Gizlenen sekmelerinize ulaşın
+    .label = Gizli sekmelerinize ulaşın
     .buttonlabel = Sekmeler gizli kalsın
     .buttonaccesskey = S
     .secondarybuttonlabel = Eklentiyi etkisizleştir
