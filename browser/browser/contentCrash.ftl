@@ -5,6 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Dio ove stranice se srušio.</strong> Da obavijestite { -brand-product-name } o ovom problemu i da ga brže riješite, podnesite izvještaj.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Dio ove stranice se srušio. Da obavijestite { -brand-product-name } o ovom problemu i da ga brže riješite, podnesite izvještaj.
+crashed-subframe-learnmore-link =
+    .value = Saznajte više
+crashed-subframe-submit =
+    .label = Pošalji izvještaj
+    .accesskey = S
 
 ## Pending crash reports
 
