@@ -10,6 +10,7 @@ contentanalysis-slow-agent-dialog-title = Мазмұнды талдау орын
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Мазмұнды талдау құралы "{ $content }" ресурсын талдауда
+contentanalysis-slow-agent-dialog-header = Сканерлеу орындалуда
 contentanalysis-operationtype-clipboard = алмасу буфері
 contentanalysis-operationtype-dropped-text = тасталған мәтін
 contentanalysis-warndialogtitle = Бұл мазмұн қауіпті болуы мүмкін
