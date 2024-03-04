@@ -8,28 +8,21 @@
 ##
 
 process-type-web = Conteúdo web
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = About privilegiado
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Conteúdo Mozilla privilegiado
-
 process-type-extension = Extensão
-
 # process used to open file:// URLs
 process-type-file = Ficheiro local
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Conteúdo web isolado
-
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = Service worker isolado
-
 # process preallocated; may change to other types
 process-type-prealloc = Pré-alocado
 
@@ -39,19 +32,22 @@ process-type-prealloc = Pré-alocado
 
 process-type-default = Principal
 process-type-tab = Separador
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
 # process used to perform network operations
 process-type-socket = Socket
-
 # process used to decode media
 process-type-rdd = RDD
-
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Ator IPC em sandbox
+process-type-utility-actor-audio-decoder-generic = Utilitário Generic Audio Decoder
+process-type-utility-actor-audio-decoder-applemedia = Utilitário AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Utilitário Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Utilitário Media Foundation Engine
+process-type-utility-actor-js-oracle = Utilitário JavaScript Oracle
+process-type-utility-actor-windows-utils = Utilitário Windows Utils
+process-type-utility-actor-windows-file-dialog = Utilitário Windows File Dialog
 
 ##
 ## Other

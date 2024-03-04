@@ -120,11 +120,15 @@ about-webauthn-auth-info-certifications = Certificações
 about-webauthn-auth-info-uv-modality = Modalidade de verificação do utilizador
 about-webauthn-auth-info-preferred-platform-uv-attempts = Tentativas de verificação do utilizador preferido da plataforma
 about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Tamanho de PIN mínimo definido para ID da entidade confiadora máx.
+about-webauthn-auth-info-max-cred-blob-length = Comprimento máximo de blob de credenciais
 about-webauthn-auth-info-firmware-version = Versão do firmware
 about-webauthn-auth-info-min-pin-length = Tamanho mínimo do código
 about-webauthn-auth-info-force-pin-change = Forçar alteração do código
+about-webauthn-auth-info-max-ser-large-blob-array = Tamanho máximo de array de blob grande
 about-webauthn-auth-info-algorithms = Algoritmos
 about-webauthn-auth-info-transports = Transportes
+about-webauthn-auth-info-max-credential-id-length = Comprimento máximo de ID da credencial
+about-webauthn-auth-info-max-credential-count-in-list = Contagem máxima de credenciais na lista
 about-webauthn-auth-info-pin-protocols = Protocolos de código
 about-webauthn-auth-info-max-msg-size = Tamanho máximo da mensagem
 # AAGUID should not be translated.
