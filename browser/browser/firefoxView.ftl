@@ -65,6 +65,10 @@ firefoxview-mobile-promo-primarybutton = Изтеглете { -brand-product-nam
 firefoxview-mobile-confirmation-header = 🎉 Готово!
 firefoxview-closed-tabs-title = Наскоро затворени
 firefoxview-closed-tabs-placeholder-header = Няма наскоро затворени раздели
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Отхвърляне на { $tabTitle }
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Последна активност
 firefoxview-try-colorways-button = Опитайте цветовете
