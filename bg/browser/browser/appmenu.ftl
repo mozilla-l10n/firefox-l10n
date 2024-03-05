@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Показване на повече раздели
     .tooltiptext = Повече раздели от други устройства
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Показване на един неактивен раздел
+           *[other] Показване на { $count } неактивни раздела
+        }
+    .tooltiptext = Показване на неактивните раздели на устройството
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Няма отворени раздели
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -168,6 +178,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Препоръчителни предварителни настройки, с малко влияние върху резултата, за отстраняване на грешки в повечето приложения за уеб,
 profiler-popup-presets-web-developer-label =
     .label = Разработчик
@@ -255,3 +270,15 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Инструменти за четеца
 appmenu-developer-tools-extensions =
     .label = Разширения за разработчици
+appmenuitem-report-broken-site =
+    .label = Съобщаване за не работеща страница
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Влезте в профила си
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Получавайте сигнали за изтичане на данни
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Скрива истинския телефонен номер и адрес на ел. поща
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Защита на действията ви онлайн
