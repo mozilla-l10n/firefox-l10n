@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Няма гаранция, �
 ##
 
 xpinstall-disabled-locked = Инсталирането на софтуер е изключено от вашия системен администратор.
+xpinstall-disabled-by-policy = Инсталирането на софтуер е изключено от вашата организация.
 xpinstall-disabled = Инсталирането на софтуер в момента е изключено. Натиснете Включване и опитайте отново.
 xpinstall-disabled-button =
     .label = Разрешаване
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = Разширението { $addonName } ({ $addonId }) е изключено от вашия системен администратор.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Системният администратор попречи на тази страница да поиска разрешение да инсталира софтуер на компютъра.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = Разширението { $addonName } ({ $addonId }) е изключено от вашата организация.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Вашата организация попречи на тази страница да поиска разрешение да инсталира софтуер на компютъра.
 addon-install-full-screen-blocked = Инсталирането на добавки не е позволено, докато сте в режим на цял екран или преди него.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
