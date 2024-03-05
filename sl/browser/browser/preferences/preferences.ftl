@@ -1007,6 +1007,7 @@ sitedata-delete-on-close =
     .label = Izbriši piškotke in podatke strani, ko se { -brand-short-name } zapre
     .accesskey = z
 sitedata-delete-on-close-private-browsing = V načinu stalnega zasebnega brskanja bodo piškotki in podatki strani izbrisani ob vsakem zaprtju { -brand-short-name(sklon: "rodilnik") }.
+sitedata-delete-on-close-private-browsing2 = V skladu z nastavitvami zgodovine { -brand-short-name } izbriše piškotke in podatke spletnih mest, ko zaprete brskalnik.
 sitedata-allow-cookies-option =
     .label = Sprejemaj piškotke in podatke strani
     .accesskey = S
