@@ -74,6 +74,7 @@ firefoxview-change-colorway-button = Променяне на цветовете
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Все още няма какво да се види
+firefoxview-synced-tabs-placeholder-body = Следващият път, когато отворите страница в { -brand-product-name } на друго устройство я грабнете тук като магия.
 firefoxview-collapse-button-show =
     .title = Списък
 firefoxview-collapse-button-hide =
@@ -117,6 +118,10 @@ firefoxview-view-all-link = Всички
 #   $winID (Number) - The index of the owner window for this set of tabs
 firefoxview-opentabs-window-header =
     .title = Прозорец { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Прозорец { $winID } (текущ)
 firefoxview-opentabs-focus-tab =
     .title = Превключване към този раздел
 firefoxview-show-more = Повече
@@ -139,8 +144,27 @@ firefoxview-search-text-box-syncedtabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Търсене в отворени раздели
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Резултати за „{ $query }“
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } страница
+       *[other] { $count } страници
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Няма резултати за „{ $query }“
 firefoxview-sort-history-by-date-label = Сортиране по дата
 firefoxview-sort-history-by-site-label = Сортиране по страница
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Превключване към { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -184,7 +208,9 @@ firefoxview-import-history-header = Внасяне на история от др
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Рано затворихте раздела?
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = На устройството няма отворени раздели
 firefoxview-syncedtabs-connect-another-device = Свързване на друго устройство
