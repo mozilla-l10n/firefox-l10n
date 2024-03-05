@@ -161,7 +161,7 @@ main-context-menu-copy-phone =
     .accesskey = K
 main-context-menu-copy-link-simple =
     .label = Kopjoji Lidhjen
-    .accesskey = K
+    .accesskey = e
 # This command copies the link, removing additional
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
@@ -240,10 +240,10 @@ main-context-menu-video-view-new-tab =
     .accesskey = i
 main-context-menu-image-copy =
     .label = Kopjo Figurën
-    .accesskey = K
+    .accesskey = n
 main-context-menu-image-copy-link =
     .label = Kopjo Lidhje Figure
-    .accesskey = o
+    .accesskey = L
 main-context-menu-video-copy-link =
     .label = Kopjo Lidhje Videoje
     .accesskey = o
