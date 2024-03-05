@@ -359,7 +359,7 @@ identity-passive-loaded = Части от страницата, например
 identity-active-loaded = Изключихте защитата за тази страница.
 identity-weak-encryption = Тази странница използва слабо шифриране.
 identity-insecure-login-forms = Въведените на страницата данни за вход може да бъдат компрометирани.
-identity-https-only-connection-upgraded = (превключено на HTTPS)
+identity-https-only-connection-upgraded = (превключено към HTTPS)
 identity-https-only-label = Режим „само HTTPS“
 identity-https-only-label2 = Автоматично превключване на страницата към защитена връзка
 identity-https-only-dropdown-on =
@@ -370,6 +370,8 @@ identity-https-only-dropdown-off-temporarily =
     .label = Временно изключено
 identity-https-only-info-turn-on2 = Включете режима „Само HTTPS“ за този сайт, ако искате { -brand-short-name } да надгради връзката, когато е възможно.
 identity-https-only-info-turn-off2 = Ако страницата изглежда счупена би трябвало да изключите режима „само HTTPS“ за сайта, за да бъде презареден през незащитения протокол HTTP.
+identity-https-only-info-turn-on3 = Включете надграждането към HTTPS за страницата, ако искате { -brand-short-name } да надгражда връзката, когато е възможно.
+identity-https-only-info-turn-off3 = Ако страницата изглежда счупена би трябвало да изключите надграждането до HTTPS за страницата, за да бъде презареден през незащитения протокол HTTP.
 identity-https-only-info-no-upgrade = Връзката не може да бъде превключена от HTTP.
 identity-permissions-storage-access-header = Бисквитки между сайтове
 identity-permissions-storage-access-hint = Тези страни могат да ползват бисквитки между сайтовете и данни от сайта, докато сте на него.
@@ -565,6 +567,13 @@ urlbar-result-action-search-w-engine = Търсене с { $engine }
 urlbar-result-action-sponsored = Спонсорирано
 urlbar-result-action-switch-tab = Превключване към раздел
 urlbar-result-action-visit = Посещаване
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Превключване към раздел · <span>{ $container }</span>
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Посещаване от междинната памет
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -617,6 +626,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Бързи действия
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Скорошни търсения
 
 ## Reader View toolbar buttons
 
@@ -637,6 +651,9 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Затваряне на картина в картината ({ $shortcut })
 picture-in-picture-panel-header = Картина в картината
 picture-in-picture-panel-headline = Този уебсайт не препоръчва картина в картина
+picture-in-picture-panel-body = Видеоклиповете може да не се показват според очакванията на разработчика, докато картина в картината е включена.
+picture-in-picture-enable-toggle =
+    .label = Включване въпреки това
 
 ## Full Screen and Pointer Lock UI
 
@@ -881,6 +898,7 @@ restore-session-startup-suggestion-button = Покажете ми как
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Достъпът до файловете на компютъра е ограничен от вашето ведомство.
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -917,6 +935,19 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Край на поверителния сеанс
+    .tooltiptext = Край на поверителния сеанс
+reset-pbm-panel-always-ask-checkbox =
+    .label = Винаги да пита
+    .accesskey = п
+reset-pbm-panel-cancel-button =
+    .label = Отказ
+    .accesskey = т
+reset-pbm-panel-confirm-button =
+    .label = Премахване на данни от сеанса
+    .accesskey = п
+reset-pbm-panel-complete = Информацията от поверителния сеанс е премахната
 
 ## Autorefresh blocker
 
