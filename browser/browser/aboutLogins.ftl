@@ -274,6 +274,12 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Премахване на { $count } регистрация от всички устройства?
        *[other] Премахване на { $count } регистрации от всички устройства?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [one] Така ще бъде премахната запазената във { -brand-short-name } парола от всички устройства, синхронизирани с профила. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
+       *[other] Така ще бъдат премахнати запазените във { -brand-short-name } пароли от всички устройства, синхронизирани с профила. Също и всички известия за пробиви, появяващи се тук. Действието е необратимо.
+    }
 
 ##
 
@@ -281,6 +287,9 @@ about-logins-confirm-export-dialog-title = Изнасяне на регистр�
 about-logins-confirm-export-dialog-message = Вашите пароли ще бъдат запазени като четим текст (например Лош@Пар0ла), така че всеки, който има достъп до изнесения файл ще може да ги види.
 about-logins-confirm-export-dialog-confirm-button = Изнасяне…
 about-logins-confirm-export-dialog-title2 = Бележка относно изнасянето на пароли
+about-logins-confirm-export-dialog-message2 =
+    При изнасяне, паролите се записват във файл като текст.
+    Когато приключите с използването на файла, препоръчваме да го изтриете, за да не могат другите, които използват същото устройство, да видят паролите ви.
 about-logins-confirm-export-dialog-confirm-button2 = Напред с изнасянето
 about-logins-alert-import-title = Внасянето е завършено
 about-logins-alert-import-message = Подробен отчет за внасянето
@@ -380,6 +389,16 @@ about-logins-import-dialog-items-added2 =
     { $count ->
         [one] <span>Добавена парола:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Добавени пароли:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Обновен запис:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Обновени записи:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Дублиращ се запис:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не е внесен)</span>
+       *[other] <span>Дублиращи се записи:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(не са внесени)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
