@@ -12,6 +12,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = ф
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -41,6 +43,7 @@ firefoxview-syncedtabs-adddevice-header = Влезте в/ъв { -brand-product-
 firefoxview-syncedtabs-adddevice-description = За да видите разделите от другите места, на които използвате { -brand-product-name } влезте във всичките си устройства. Научете как <a data-l10n-name="url">да свържете допълнителни устройства</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Опитайте { -brand-product-name } за телефон
 firefoxview-tabpickup-synctabs-header = Включване синхронизирането на раздели
+firefoxview-tabpickup-synctabs-description = Разрешава на { -brand-short-name } да споделя раздели между устройствата.
 firefoxview-tabpickup-synctabs-learn-how = Научете как
 firefoxview-tabpickup-synctabs-primarybutton = Синхронизиране на отворените раздели
 firefoxview-syncedtabs-synctabs-checkbox = Разрешаване на синхронизиране на отворените раздели
