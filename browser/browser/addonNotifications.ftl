@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Takšen dostop ni zajamčeno
 ##
 
 xpinstall-disabled-locked = Skrbnik vašega sistema je onemogočil nameščanje programske opreme.
+xpinstall-disabled-by-policy = Vaša organizacija je onemogočila nameščanje programske opreme.
 xpinstall-disabled = Namestitev programske opreme je trenutno onemogočena. Kliknite gumb Omogoči, če jo želite omogočiti, potem pa poskusite znova.
 xpinstall-disabled-button =
     .label = Omogoči
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = Vaš sistemski skrbnik je zavrnil { $addonName } ({ $addonId }).
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Skrbnik vašega sistema je tej strani preprečil vprašati, ali lahko na vaš računalnik namesti programsko opremo.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = Vaša organizacija je prepovedala dodatek { $addonName } ({ $addonId }).
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Vaša organizacija je temu spletnemu mestu prepovedala spraševati, ali lahko na vaš računalnik namesti programsko opremo.
 addon-install-full-screen-blocked = Namestitev dodatkov ni dovoljena med ali pred vstopom v celozaslonski način.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
