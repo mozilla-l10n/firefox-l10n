@@ -24,6 +24,10 @@ policy-AppUpdateURL = Imposta URL personalizzato per aggiornamento applicazione.
 
 policy-Authentication = Configura autenticazione integrata per i siti in cui è supportata.
 
+policy-AutofillAddressEnabled = Attiva compilazione automatica per gli indirizzi.
+
+policy-AutofillCreditCardEnabled = Attiva compilazione automatica per i metodi di pagamento.
+
 policy-AutoLaunchProtocolsFromOrigins = Definisce un elenco di protocolli esterni che possono essere utilizzati dalle origini approvate senza chiedere conferma all’utente.
 
 policy-BackgroundAppUpdate2 = Attiva o disattiva il sistema di aggiornamento in background.
