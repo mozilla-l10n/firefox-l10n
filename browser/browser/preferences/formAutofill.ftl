@@ -9,7 +9,7 @@ autofill-manage-addresses-title = Shranjeni naslovi
 autofill-manage-addresses-list-header = Naslovi
 autofill-manage-credit-cards-title = Shranjene kreditne kartice
 autofill-manage-credit-cards-list-header = Kreditne kartice
-autofill-manage-payment-methods-title = Shranjeni načini plačila
+autofill-manage-payment-methods-title = Shranjena plačilna sredstva
 autofill-manage-cards-list-header = Kartice
 autofill-manage-dialog =
     .style = min-width: 560px
@@ -39,8 +39,6 @@ address-capture-manage-address-button =
     .label = Nastavitve naslovov
 address-capture-learn-more-button =
     .label = Več o tem
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Dodaj nov naslov
 address-capture-open-menu-button =
     .aria-label = Odpri meni
 address-capture-edit-address-button =
@@ -111,6 +109,8 @@ autofill-address-eircode = Eircode
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Dodaj nov naslov
 autofill-address-country = Država ali območje
 autofill-address-country-only = Država
 autofill-address-tel = Telefon

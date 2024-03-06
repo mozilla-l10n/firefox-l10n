@@ -80,7 +80,7 @@ migration-passwords-option-label = Shranjena gesla
 migration-history-option-label = zgodovina brskanja
 migration-extensions-option-label = Razširitve
 migration-form-autofill-option-label = podatki za izpolnjevanje obrazcev
-migration-payment-methods-option-label = Načini plačila
+migration-payment-methods-option-label = Plačilna sredstva
 migration-cookies-option-label = Piškotki
 migration-session-option-label = Okna in zavihki
 migration-otherdata-option-label = Drugi podatki
@@ -179,7 +179,7 @@ migration-list-password-label = gesla
 migration-list-history-label = zgodovino
 migration-list-extensions-label = razširitve
 migration-list-autofill-label = podatke za samodejno izpolnjevanje
-migration-list-payment-methods-label = načine plačil
+migration-list-payment-methods-label = plačilna sredstva
 
 ##
 
@@ -294,10 +294,10 @@ migration-wizard-progress-success-formdata = zgodovina obrazcev
 #  $quantity (Number): the number of successfully imported payment methods
 migration-wizard-progress-success-payment-methods =
     { $quantity ->
-        [one] { $quantity } način plačila
-        [two] { $quantity } načina plačil
-        [few] { $quantity } načini plačil
-       *[other] { $quantity } načinov plačil
+        [one] { $quantity } plačilno sredstvo
+        [two] { $quantity } plačilni sredstvi
+        [few] { $quantity } plačilna sredstva
+       *[other] { $quantity } plačilnih sredstev
     }
 migration-wizard-safari-permissions-sub-header = Za uvoz zaznamkov in zgodovine iz brskalnika Safari:
 migration-wizard-safari-instructions-continue = Izberite "Nadaljuj"
