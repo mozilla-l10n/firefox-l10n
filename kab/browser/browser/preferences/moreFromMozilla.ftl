@@ -25,3 +25,8 @@ more-from-moz-learn-more-link = Issin ugar
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Mmesten tanaka n urmas d timagit-ik s mefferisem n yimayl.
 more-from-moz-firefox-relay-button = Awi { -relay-brand-short-name }
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-button = Awi { -monitor-brand-short-name }

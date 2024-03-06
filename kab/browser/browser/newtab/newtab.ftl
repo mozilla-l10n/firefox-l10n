@@ -194,6 +194,7 @@ newtab-section-header-recent-activity = Armud n melmi kan
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Iwelleh-it-id { $provider }
+newtab-section-header-stories = Tiqsiḍin i ijebbden lwelha
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
