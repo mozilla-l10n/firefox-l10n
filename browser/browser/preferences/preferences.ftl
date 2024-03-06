@@ -745,8 +745,10 @@ sync-currently-syncing-bookmarks = Ticraḍ n yisebtar
 sync-currently-syncing-history = Azray
 sync-currently-syncing-tabs = Ldi iccaren
 sync-currently-syncing-logins-passwords = Inekcam d wawalen uffiren
+sync-currently-syncing-passwords = Awalen uffiren
 sync-currently-syncing-addresses = Tansiwin
 sync-currently-syncing-creditcards = Tikarḍiwin n usmad
+sync-currently-syncing-payment-methods = Tarrayin n uxelleṣ
 sync-currently-syncing-addons = Izegrar
 sync-currently-syncing-settings = Iɣewwaren
 sync-change-options =
@@ -1022,10 +1024,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Tigawin tiruradin
     .accesskey = T
+addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 addressbar-locbar-showrecentsearches-option =
     .label = Sken inadiyen imaynuten
     .accesskey = m
-addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 addressbar-quickactions-learn-more = Issin ugar
 
 ## Privacy Section - Content Blocking
