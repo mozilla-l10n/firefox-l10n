@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Eine sichere Verbindung konnte nicht aufgebaut werden, weil das SSL-Protokoll deaktiviert wurde.
 psmerr-ssl2-disabled = Eine sichere Verbindung konnte nicht aufgebaut werden, weil die Website eine ältere, unsichere Version des SSL-Protokolls verwendet.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Sie haben ein ungültiges Zertifikat erhalten. Bitte kontaktieren Sie den Server-Administrator oder E-Mail-Korrespondenten und geben Sie diesen die folgenden Informationen:
     
     Ihr Zertifikat enthält die gleiche Seriennummer wie ein anderes Zertifikat dieser Zertifizierungsstelle. Bitte erwerben Sie ein neues Zertifikat mit einer eindeutigen Seriennummer.
-
 ssl-error-export-only-server = Sichere Kommunikation ist nicht möglich.  Die Gegenstelle unterstützt keine hochgradige Verschlüsselung.
 ssl-error-us-only-server = Sichere Kommunikation ist nicht möglich.  Die Gegenstelle benötigt eine hochgradige Verschlüsselung, die nicht unterstützt wird.
 ssl-error-no-cypher-overlap = Sichere Kommunikation mit der Gegenstelle ist nicht möglich: Keine gemeinsamen Verschlüsselungsalgorithmen.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Es wurde kein unterstützer TLS-Sig
 ssl-error-unsupported-signature-algorithm = Die Gegenstelle verwendete eine nicht unterstützte Kombination aus Signatur- und Hash-Algorithmus.
 ssl-error-missing-extended-master-secret = Die Gegenstelle versuchte eine Fortsetzung ohne korrekte extended_master_secret-Erweiterung.
 ssl-error-unexpected-extended-master-secret = Die Gegenstelle versuchte eine Fortsetzung mit einer nicht erwarteten extended_master_secret-Erweiterung.
-
 sec-error-io = Ein I/O-Fehler ist während der Sicherheitsauthentifizierung aufgetreten.
 sec-error-library-failure = Sicherheitsbibliothekfehler.
 sec-error-bad-data = Sicherheitsbibliothek: Fehlerhafte Daten empfangen.
@@ -183,7 +181,7 @@ sec-error-no-key = Der private Schlüssel für dieses Zertifikat kann in der Sch
 sec-error-cert-valid = Dieses Zertifikat ist gültig.
 sec-error-cert-not-valid = Dieses Zertifikat ist nicht gültig.
 sec-error-cert-no-response = Cert-Biblithek: Keine Antwort
-sec-error-expired-issuer-certificate = Das Zertifikat des Zertifikataussteller ist abgelaufen. Überprüfen Sie Datum und Zeit Ihres Systems.
+sec-error-expired-issuer-certificate = Das Zertifikat des Zertifikatausstellers ist abgelaufen. Überprüfen Sie Datum und Zeit Ihres Systems.
 sec-error-crl-expired = Die CRL (Zertifikatsperrliste) für den Zertifikataussteller ist abgelaufen. Aktualisieren Sie diese oder überprüfen Sie Datum und Zeit Ihres Systems.
 sec-error-crl-bad-signature = Die CRL (Zertifikatsperrliste) für den Zertifikataussteller hat eine ungültige Signatur.
 sec-error-crl-invalid = Neue CRL (Zertifikatsperrliste) hat ein ungültiges Format.
@@ -319,7 +317,6 @@ sec-error-locked-password = Das Passwort ist gesperrt.
 sec-error-unknown-pkcs11-error = Unbekannter PKCS-#11-Fehler.
 sec-error-bad-crl-dp-url = Ungültige oder nicht unterstützte URL im CRL-Verteilungspunkt-Namen.
 sec-error-cert-signature-algorithm-disabled = Das Zertifikat wurde mit einem Signatur-Algorithmus signiert, der deaktiviert ist, weil er nicht sicher ist.
-
 mozilla-pkix-error-key-pinning-failure = Der Server verwendet Schlüssel-Pinning (HPKP), aber keine vertrauenswürdige Zertifikatkette konnte erstellt werden, die dem Pin-Set entspricht. Schlüssel-Pinning-Verstöße können nicht übergangen werden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Der Server verwendet ein Zertifikat mit einer Basiseinschränkungserweiterung, die es als eine Zertifizierungsstelle identifiziert. Für ein korrekt ausgestelltes Zertifikat sollte das nicht der Fall sein.
 mozilla-pkix-error-inadequate-key-size = Der Server hat ein Zertifikat vorgezeigt, dessen Schlüssellänge zu klein ist, um eine sichere Verbindung aufzubauen.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Der Server hat ein Zertifikat mit 
 mozilla-pkix-error-empty-issuer-name = Der Server hat ein Zertifikat vorgezeigt, dessen eindeutiger Ausstellername leer ist.
 mozilla-pkix-error-additional-policy-constraint-failed = Eine zusätzliche Regelbeschränkung ist beim Validieren dieses Zertifikats fehlgeschlagen.
 mozilla-pkix-error-self-signed-cert = Dem Zertifikat wird nicht vertraut, weil es vom Aussteller selbst signiert wurde.
-
 xp-java-remove-principal-error = Principal konnte nicht entfernt werden
 xp-java-delete-privilege-error = Privileg konnte nicht gelöscht werden
 xp-java-cert-not-exists-error = Dieser Principal hat kein Zertifikat
-
 xp-sec-fortezza-bad-card = Die Fortezza-Karte wurde nicht korrekt initialisiert. Bitte entfernen Sie diese und bringen Sie sie zu Ihrem Aussteller zurück.
 xp-sec-fortezza-no-card = Keine Fortezza-Karten gefunden
 xp-sec-fortezza-none-selected = Keine Fortezza-Karte gewählt
