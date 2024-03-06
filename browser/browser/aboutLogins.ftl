@@ -179,6 +179,9 @@ about-logins-export-password-os-auth-dialog-message-win = Akken ad tketreḍ ine
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = Akter n yinekcam d wawalen uffiren yettwasekles
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = kter awal uffir yettwaskelsen
 
 ## Primary Password notification
 
@@ -284,6 +287,9 @@ about-logins-export-file-picker-title = Afaylu n usifeḍ n yinekcam
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = passwords.csv
 about-logins-export-file-picker-export-button = Kter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
