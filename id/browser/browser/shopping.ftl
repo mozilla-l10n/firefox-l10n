@@ -86,9 +86,14 @@ shopping-settings-label =
     .label = Pengaturan
 shopping-settings-recommendations-toggle =
     .label = Tampilkan iklan di Pemeriksa Ulasan
+shopping-settings-opt-out-button = Matikan Pemeriksa Ulasan
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Peringkat yang disesuaikan
 
 ## Strings for the review reliability component
 
@@ -144,9 +149,12 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = Kembali ke <strong>Review Checker</strong> kapan saja Anda melihat harga.
 shopping-callout-pdp-opted-in-title = Apakah ulasan ini dapat diandalkan? Temukan dengan cepat.
+shopping-callout-closed-not-opted-in-title = Satu klik untuk ulasan yang andal
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Coba panduan tepercaya kami untuk ulasan produk
+shopping-onboarding-opt-in-button = Ya, coba!
 shopping-onboarding-not-now-button = Jangan sekarang
 shopping-onboarding-dialog-close-button =
     .title = Tutup
