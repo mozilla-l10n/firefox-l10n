@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Правяраем як�
 shopping-message-bar-page-not-supported =
     .heading = Мы не можам праверыць гэтыя водгукі
     .message = На жаль, мы не можам праверыць якасць водгукаў для некаторых відаў прадукцыі. Напрыклад, падарункавыя карты і струменевае відэа, музыка і гульні.
+shopping-message-bar-keep-closed-header =
+    .heading = Трымаць закрытым?
+    .message = Вы можаце абнавіць налаады, каб трымаць сродак праверкі водгукаў прадвызначана закрытым. Зараз ён адкрываецца аўтаматычна.
+shopping-message-bar-keep-closed-dismiss-button = Не, дзякуй
+shopping-message-bar-keep-closed-accept-button = Так, трымаць закрытым
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Вы будзеце час ад часу бачыць рэкламу адпаведных тавараў. Мы рэкламуем толькі прадукты з надзейнымі водгукамі. <a data-l10n-name="review-quality-url">Падрабязней</a>
 shopping-settings-opt-out-button = Адключыць сродак праверкі водгукаў
 powered-by-fakespot = Сродак праверкі водгукаў працуе на аснове  <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Аўтаматычна адкрываць праверку водгукаў
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Калі вы праглядаеце тавары на { $firstSite }, { $secondSite } і { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Калі вы праглядаеце тавары на { $currentSite }
+shopping-settings-sidebar-enabled-state = Праверка водгукаў <strong>уключана</strong>
 
 ## Strings for the adjusted rating component
 
@@ -173,6 +191,14 @@ shopping-callout-pdp-opted-in-title = Ці надзейныя гэтыя вод�
 shopping-callout-pdp-opted-in-subtitle = Адкрыйце праверку водгукаў, каб убачыць скарэкціраваны рэйтынг з выдаленымі ненадзейнымі водгукамі. Акрамя таго, паглядзіце асноўныя моманты з апошніх сапраўдных аглядаў.
 shopping-callout-closed-not-opted-in-title = Адзін націск да надзейных водгукаў
 shopping-callout-closed-not-opted-in-subtitle = Паспрабуйце праверку водгукаў кожны раз, калі бачыце цэннік. Хутка атрымлівайце інфармацыю ад рэальных пакупнікоў — перш чым купляць.
+shopping-callout-closed-not-opted-in-revised-title = Адзін націск да надзейных водгукаў
+shopping-callout-closed-not-opted-in-revised-subtitle = Проста націсніце на значок цэнніка ў адрасным радку, каб вярнуцца да праверкі водгукаў.
+shopping-callout-closed-not-opted-in-revised-button = Зразумела
+shopping-callout-not-opted-in-reminder-title = Купляйце з упэўненасцю
+shopping-callout-not-opted-in-reminder-subtitle = Не ўпэўнены, ці водгукі пра тавар сапраўдныя або падробленыя? Праверка водгукаў ад { -brand-product-name } можа дапамагчы.
+shopping-callout-not-opted-in-reminder-open-button = Адкрыць сродак праверкі водгукаў
+shopping-callout-not-opted-in-reminder-close-button = Адхіліць
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Больш не паказваць
 
 ## Onboarding message strings.
 
@@ -188,7 +214,6 @@ shopping-onboarding-dynamic-subtitle-1 = Паглядзіце, наколькі 
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Паглядзіце, наколькі надзейныя водгукі аб прадукце на <b>{ $currentSite }</b>, перш чым купляць. Праверка водгукаў, эксперыментальная функцыя ад { -brand-product-name }, убудавана наўпрост у браўзер.
 shopping-onboarding-body = Выкарыстоўваючы магчымасці { -fakespot-brand-full-name }, мы дапамагаем вам пазбегнуць неаб’ектыўных і несапраўдных водгукаў. Наша мадэль штучнага інтэлекту пастаянна ўдасканальваецца, каб абараніць вас у часе куплі. <a data-l10n-name="learn_more">Падрабязней</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Выбіраючы “{ shopping-onboarding-opt-in-button }“, вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> і <a data-l10n-name="terms_of_use">ўмовамі выкарыстання</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Выбіраючы “{ shopping-onboarding-opt-in-button }“, вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> { -brand-product-name } і <a data-l10n-name="terms_of_use">ўмовамі выкарыстання</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Так, паспрабаваць
 shopping-onboarding-not-now-button = Не зараз
