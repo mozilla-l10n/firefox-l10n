@@ -203,8 +203,7 @@ cfr-cbh-confirm-button = Embojevy kookie banner
     .accesskey = R
 cfr-cbh-dismiss-button = Ani ko’ág̃a
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } ojokóma kookiekuéra
-cookie-banner-blocker-cfr-body = Romboyke orejehegui heta kookie rovetã apysẽ rombohasyve hag̃ua tendakuéra nde rapykuehóvo.
+cookie-banner-blocker-onboarding-learn-more = Eikuaave
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -234,10 +233,6 @@ fxa-sync-cfr-secondary = Chemomandu’a ag̃ave
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = ¿Eiporuhína mba’e’oka itujavéva?
-device-migration-fxa-spotlight-body = Eñongatu ne mba’ekuaarã ambue hendápe ani hag̃ua okañy marandu takate’ỹha ikatúva techaukaha ha ñe’ẽñemi — eiporu mba’éramo ambue mba’e’oka.
-device-migration-fxa-spotlight-primary-button = Mba’éichapa añongatúta che mba’ekuaarã
-device-migration-fxa-spotlight-link = Chemomandu’a ag̃ave
 device-migration-fxa-spotlight-heavy-user-header = Eñongatu ne mba’ekuaarã tekorosãverã
 device-migration-fxa-spotlight-heavy-user-body = Ehecha ne marandu emomba’evéva, ha’éva techaukaha ha ñe’ẽñemi, tahekopyahu ha tahekorosã opaite mba’e’okápe.
 device-migration-fxa-spotlight-heavy-user-primary-button = Eñepyrũ
@@ -272,3 +267,7 @@ launch-on-login-infobar-reject-button = Ani ko’ág̃a
 launch-on-login-infobar-final-message = <strong>¿Embojuruja { -brand-short-name } emoñepyrũjeývo ne mohendaha?</strong> Eñangareko hag̃ua ñepyrũha erohoryvéva, eheka “ñepyrũ” ñembohekópe.
 launch-on-login-infobar-final-reject-button = Nahániri, aguyje
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-secondary-button = Ani ko’ág̃a
