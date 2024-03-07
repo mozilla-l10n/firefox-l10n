@@ -273,3 +273,13 @@ appmenu-developer-tools-extensions =
     .label = Пашырэнні для распрацоўшчыкаў
 appmenuitem-report-broken-site =
     .label = Паведаміць пра пашкоджаны сайт
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Увайдзіце ў свой уліковы запіс
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Атрымлівайце абвесткі аб уцечках дадзеных
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Маскіруйце сваю сапраўдную электронную пошту і тэлефон
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Абараніце сваю актыўнасць у інтэрнэце

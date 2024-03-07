@@ -34,3 +34,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Імгненна адпраўляйце картку на любую прыладу, на якой вы ўвайшлі.
 fxa-menu-sign-out =
     .label = Выйсці…
+fxa-menu-sync-title = Сінхранізацыя
+fxa-menu-sync-description = Доступ да інтэрнэту ў любым месцы
