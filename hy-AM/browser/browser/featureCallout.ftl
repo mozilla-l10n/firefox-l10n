@@ -36,4 +36,6 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Սկսեք
 callout-pdfjs-edit-title = Խմբագրեք PDF ֆայլերը մեր նոր տեքստային գործիքի միջոցով
 callout-pdfjs-edit-button = Հաջորդը
 callout-pdfjs-draw-title = Ստորագրեք փաստաթղթերը մեր նոր գծագրման գործիքով
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Նշեք PDF ֆայլերը, այնուհետև պահեք ձեր փոփոխությունները:
 callout-pdfjs-draw-button = Հասկացա

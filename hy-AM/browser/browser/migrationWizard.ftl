@@ -227,5 +227,25 @@ migration-wizard-progress-partial-success-extensions = { $matched }-ը { $quanti
 
 ##
 
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } գաղտնաբառ
+       *[other] { $quantity } գաղտնաբառ
+    }
 migration-wizard-progress-success-formdata = Ձևերի պատմություն
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } վճարման եղանակ
+       *[other] { $quantity } վճարման եղանակներ
+    }
 migration-wizard-safari-instructions-continue = Ընտրեք «Շարունակել»

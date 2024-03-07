@@ -144,6 +144,11 @@ spotlight-pin-secondary-button = Ոչ հիմա
 ## Windows and therefore must be as narrow as possible.
 
 # This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Բացել { -brand-shorter-name }-ը
+# This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
 # exceeding characters will be truncated.
@@ -176,9 +181,11 @@ cookie-banner-blocker-onboarding-learn-more = Իմանալ ավելին
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 fox-doodle-pin-headline = Բարի վերադարձ
+fox-doodle-pin-secondary = Ոչ հիմա
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-primary = Հասկացա
 
 ## FxA sync CFR
 
@@ -194,6 +201,8 @@ device-migration-fxa-spotlight-older-device-primary-button = Ստեղծել հա
 
 ## Set as Default PDF Reader Infobar
 
+pdf-default-notification-decline-button =
+    .label = Ոչ հիմա
 
 ## Launch on login infobar notification
 
