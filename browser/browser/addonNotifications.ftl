@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Бяспека гэтага 
 ##
 
 xpinstall-disabled-locked = Усталяванне праграмнага забеспячэння забаронена вашым сістэмным спраўнікам.
+xpinstall-disabled-by-policy = Усталяванне праграмнага забеспячэння забаронена вашай арганізацыяй.
 xpinstall-disabled = Усталяванне праграмнага забеспячэння зараз забаронена. Націсніце Дазволіць і паспрабуйце зноў.
 xpinstall-disabled-button =
     .label = Дазволіць
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) заблакаваны вашым сістэмным адміністратарам.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ваш сістэмны адміністратар заблакаваў запыт на ўсталяванне праграм на камп'ютар з гэтага сайта.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) заблакаваны вашай арганізацыяй.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Ваша арганізацыя заблакавала запыт на ўсталяванне праграм на камп'ютар з гэтага сайта.
 addon-install-full-screen-blocked = Усталёўка дататкаў не дапускаецца ў час або перад пачаткам поўнаэкраннага рэжыму.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
