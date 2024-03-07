@@ -168,6 +168,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Ñemboheko iporãva emopotĩ hag̃ua ñanduti tembiporu’i, nahenyhẽrasáiva.
 profiler-popup-presets-web-developer-label =
     .label = Ñanduti Mboguatahára
@@ -257,3 +262,9 @@ appmenu-developer-tools-extensions =
     .label = Jepysokue mboguatahárape g̃uarã
 appmenuitem-report-broken-site =
     .label = Emombe’u tenda vai
+
+## Panel for privacy and security products
+
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
