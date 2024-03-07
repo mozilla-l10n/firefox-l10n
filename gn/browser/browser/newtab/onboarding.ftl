@@ -350,6 +350,8 @@ onboarding-gratitude-security-and-privacy-subtitle = Aguyje eiporu haguére { -b
 onboarding-new-user-time-based-survey-title = ¿Mboy árama eiporuhague { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = Eikuaápa mba’éicha ojeporu { -brand-short-name }
 onboarding-new-user-survey-subtitle = Ne remiandu orepytyvõ { -brand-short-name } oikoporãvévo.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Upeigua
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Che pyahu ápe
 onboarding-new-user-survey-time-based-option-2 = 1 jasy mboyve
