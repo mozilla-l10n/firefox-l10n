@@ -26,3 +26,5 @@ fxviewtabrow-just-now-timestamp = Baru saja
 
 fxviewtabrow-delete = Hapus
     .accesskey = H
+fxviewtabrow-copy-link = Salin Tautan
+    .accesskey = S
