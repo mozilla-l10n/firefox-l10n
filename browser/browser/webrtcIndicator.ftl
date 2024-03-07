@@ -61,11 +61,11 @@ webrtc-screen-system-menu =
 ## Tooltips used by the legacy global sharing indicator
 
 webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Kamera ve mikrofununuz paylaşılıyor. Paylaşımı yönetmek için tıklayın.
+    .tooltiptext = Kamera ve mikrofonunuz paylaşılıyor. Paylaşımı yönetmek için tıklayın.
 webrtc-indicator-sharing-camera =
     .tooltiptext = Kameranız paylaşılıyor. Paylaşımı yönetmek için tıklayın.
 webrtc-indicator-sharing-microphone =
-    .tooltiptext = Mikrofununuz paylaşılıyor. Paylaşımı yönetmek için tıklayın.
+    .tooltiptext = Mikrofonunuz paylaşılıyor. Paylaşımı yönetmek için tıklayın.
 webrtc-indicator-sharing-application =
     .tooltiptext = Bir uygulama paylaşılıyor. Paylaşımı yönetmek için tıklayın.
 webrtc-indicator-sharing-screen =
@@ -90,16 +90,16 @@ webrtc-indicator-menuitem-sharing-camera-with =
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Kamera { $tabCount } sekme ile paylaşıyor
-           *[other] Kamera { $tabCount } sekme ile paylaşıyor
+            [one] Kamera { $tabCount } sekme ile paylaşılıyor
+           *[other] Kamera { $tabCount } sekme ile paylaşılıyor
         }
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofon “{ $streamTitle }” ile paylaşılıyor
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Mikrofon { $tabCount } sekme ile paylaşıyor
-           *[other] Mikrofon { $tabCount } sekme ile paylaşıyor
+            [one] Mikrofon { $tabCount } sekme ile paylaşılıyor
+           *[other] Mikrofon { $tabCount } sekme ile paylaşılıyor
         }
 webrtc-indicator-menuitem-sharing-application-with =
     .label = “{ $streamTitle }” ile bir uygulama paylaşılıyor
@@ -114,16 +114,16 @@ webrtc-indicator-menuitem-sharing-screen-with =
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Ekran { $tabCount } sekme ile paylaşıyor
-           *[other] Ekran { $tabCount } sekme ile paylaşıyor
+            [one] Ekran { $tabCount } sekme ile paylaşılıyor
+           *[other] Ekran { $tabCount } sekme ile paylaşılıyor
         }
 webrtc-indicator-menuitem-sharing-window-with =
     .label = “{ $streamTitle }” ile bir pencere paylaşılıyor
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Bir pencere { $tabCount } sekme ile paylaşıyor
-           *[other] Pencereler { $tabCount } sekme ile paylaşıyor
+            [one] Bir pencere { $tabCount } sekme ile paylaşılıyor
+           *[other] Pencereler { $tabCount } sekme ile paylaşılıyor
         }
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = “{ $streamTitle }” ile bir sekme paylaşılıyor

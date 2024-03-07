@@ -421,7 +421,7 @@ update-application-use-service =
     .label = Güncellemeleri yüklemek için arka plan hizmetini kullan
     .accesskey = h
 update-application-suppress-prompts =
-    .label = Güncelleme bildirimlerini daha az  göster
+    .label = Güncelleme bildirimlerini daha az göster
     .accesskey = G
 update-setting-write-failure-title2 = Güncelleme ayarları kaydedilirken hata oluştu
 # Variables:
@@ -686,7 +686,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Web’inizi yanınızda taşıyın
-sync-signedout-description2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, parolalarınızı, eklentilerinizi ve ayarlarınızı tüm cihazlarınız arasında senkronize edin.
+sync-signedout-description2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, parolalarınızı, eklentilerinizi ve ayarlarınızı tüm cihazlarınız arasında eşitleyin.
 sync-signedout-account-signin3 =
     .label = Eşitlemek için giriş yap…
     .accesskey = i
@@ -738,7 +738,7 @@ prefs-syncing-off = Eşitleme: KAPALI
 prefs-sync-turn-on-syncing =
     .label = Eşitlemeyi başlat…
     .accesskey = E
-prefs-sync-offer-setup-label2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, parolalarınızı, eklentilerinizi ve ayarlarınızı tüm cihazlarınız arasında senkronize edin.
+prefs-sync-offer-setup-label2 = Yer imlerinizi, geçmişinizi, sekmelerinizi, parolalarınızı, eklentilerinizi ve ayarlarınızı tüm cihazlarınız arasında eşitleyin.
 prefs-sync-now =
     .labelnotsyncing = Şimdi eşitle
     .accesskeynotsyncing = m
@@ -1096,7 +1096,7 @@ addressbar-quickactions-learn-more = Daha fazla bilgi al
 content-blocking-enhanced-tracking-protection = Gelişmiş izlenme koruması
 content-blocking-section-top-level-description = Takip kodları, gezinti alışkanlıklarınız ve ilgi alanlarınız hakkında bilgi toplamak için internette sizi takip eder. { -brand-short-name } bu takip kodlarının ve diğer kötü amaçlı betiklerin çoğunu engeller.
 content-blocking-learn-more = Daha fazla bilgi al
-content-blocking-fpi-incompatibility-warning = First Party Isolation (FPI) özelliğini kullanıyorsunuz. Bu özellik, bazı { -brand-short-name } çerez ayarları geçersiz kılar.
+content-blocking-fpi-incompatibility-warning = First Party Isolation (FPI) özelliğini kullanıyorsunuz. Bu özellik, bazı { -brand-short-name } çerez ayarlarını geçersiz kılar.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
@@ -1122,7 +1122,7 @@ content-blocking-etp-standard-desc = Dengeli koruma ve performans. Sayfalar norm
 content-blocking-etp-strict-desc = Daha güçlü koruma, ama bazı siteler ve içerikler düzgün çalışmayabilir.
 content-blocking-etp-custom-desc = Hangi takip kodlarının ve betiklerin engelleneceğini seçin.
 content-blocking-etp-blocking-desc = { -brand-short-name } aşağıdakileri engeller:
-content-blocking-private-windows = Gizli pencelerde takip amaçlı içerikler
+content-blocking-private-windows = Gizli pencerelerde takip amaçlı içerikler
 content-blocking-cross-site-cookies-in-all-windows2 = Tüm pencerelerde siteler arası çerezler
 content-blocking-cross-site-tracking-cookies = Siteler arası takip çerezleri
 content-blocking-all-cross-site-cookies-private-windows = Gizli pencerelerde siteler arası çerezler
@@ -1360,7 +1360,7 @@ preferences-doh-default-desc = Gizliliğinizi korumak için ne zaman güvenli DN
 preferences-doh-default-detailed-desc-1 = Güvenli DNS hizmetinin sunulduğu bölgelerde güvenli DNS kullanılır
 preferences-doh-default-detailed-desc-2 = Güvenli DNS sağlayıcınızda sorun yaşanırsa varsayılan DNS çözümleyiciniz kullanılır
 preferences-doh-default-detailed-desc-3 = Mümkünse yerel bir sağlayıcı kullanılır
-preferences-doh-default-detailed-desc-4 = VPN, ebeveyn denetileri veya kurumsal ilkeler etkinse güvenli DNS kapanır
+preferences-doh-default-detailed-desc-4 = VPN, ebeveyn denetimleri veya kurumsal ilkeler etkinse güvenli DNS kapanır
 preferences-doh-default-detailed-desc-5 = Ağınız { -brand-short-name } tarayıcısına güvenli DNS kullanmama isteği gönderirse güvenli DNS kapanır
 preferences-doh-setting-enabled =
     .label = Artırılmış koruma
