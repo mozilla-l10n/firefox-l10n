@@ -28,3 +28,5 @@ fxviewtabrow-delete = Hapus
     .accesskey = H
 fxviewtabrow-copy-link = Salin Tautan
     .accesskey = S
+fxviewtabrow-close-tab = Tutup Tab
+    .accesskey = T
