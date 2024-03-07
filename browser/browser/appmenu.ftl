@@ -153,6 +153,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-label =
     .label = Վեբ մշակող
 profiler-popup-presets-firefox-label =
@@ -231,3 +236,7 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Զննիչի գործիքներ
 appmenu-developer-tools-extensions =
     .label = Ընդլայնումներ մշակողների համար
+
+## Panel for privacy and security products
+
+appmenuitem-vpn-description = Պաշտպանեք ձեր առցանց գործունեությունը

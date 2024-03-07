@@ -57,6 +57,10 @@ about-private-browsing-pin-promo-title = Ոչ մի պահված թխուկ կա�
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Թխուկների ցուցապաստառները վերացել են:
+about-private-browsing-cookie-banners-promo-button = Նվազեցնել թխուկների պաստառները
 
 ## Strings for Felt Privacy v1 experiments in 119
 
