@@ -186,6 +186,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Ndaipóri “{ $query }” rapykuere
 firefoxview-sort-history-by-date-label = Arange rupive
 firefoxview-sort-history-by-site-label = Tenda rupive
+firefoxview-sort-open-tabs-by-recency-label = Emoĩporã tembiapokue ipyahúvare
+firefoxview-sort-open-tabs-by-order-label = Emoĩporã tabulación rupive
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
