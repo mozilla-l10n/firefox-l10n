@@ -168,6 +168,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Prasetel yang direkomendasikan untuk sebagian besar debugging aplikasi web, dengan overhead yang rendah.
 profiler-popup-presets-web-developer-label =
     .label = Pengembang Web
@@ -257,3 +262,8 @@ appmenu-developer-tools-extensions =
     .label = Ekstensi untuk Pengembang
 appmenuitem-report-broken-site =
     .label = Laporkan situs yang rusak
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Masuk ke akun Anda
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
