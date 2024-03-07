@@ -199,6 +199,14 @@ shopping-callout-not-opted-in-reminder-subtitle = Не ўпэўнены, ці в
 shopping-callout-not-opted-in-reminder-open-button = Адкрыць сродак праверкі водгукаў
 shopping-callout-not-opted-in-reminder-close-button = Адхіліць
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Больш не паказваць
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Абстрактная ілюстрацыя трох водгукаў пра тавар. Адзін з іх мае папераджальны сімвал, які паказвае, што ён можа быць ненадзейным.
+shopping-callout-disabled-auto-open-title = Сродак праверкі водгукаў цяпер прадвызначана закрыты
+shopping-callout-disabled-auto-open-subtitle = Націсніце на значок цэнніка ў адрасным радку, калі захочаце даведацца, ці можна давяраць аглядам прадукту.
+shopping-callout-disabled-auto-open-button = Зразумела
+shopping-callout-opted-out-title = Праверка водгукаў адключана
+shopping-callout-opted-out-subtitle = Каб зноў уключыць яе, націсніце на значок цэнніка ў адрасным радку і выконвайце падказкі.
+shopping-callout-opted-out-button = Зразумела
 
 ## Onboarding message strings.
 
