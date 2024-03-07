@@ -95,6 +95,8 @@ sanitize-button-ok =
     .label = Emopotĩ ko’ág̃a
 sanitize-button-ok2 =
     .label = Mopotĩ
+sanitize-button-ok-on-shutdown =
+    .label = Eñongatu Moambuepyre
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
