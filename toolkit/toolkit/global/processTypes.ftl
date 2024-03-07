@@ -8,28 +8,21 @@
 ##
 
 process-type-web = Сеціўнае змесціва
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Прывілеяваны About
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Прывілеяваны змест Mozilla
-
 process-type-extension = Пашырэнне
-
 # process used to open file:// URLs
 process-type-file = Лакальны файл
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Ізаляванае сеціўнае змесціва
-
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = Ізаляваны Service Worker
-
 # process preallocated; may change to other types
 process-type-prealloc = Папярэдне размеркаваны
 
@@ -39,19 +32,22 @@ process-type-prealloc = Папярэдне размеркаваны
 
 process-type-default = Галоўны
 process-type-tab = Картка
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
 # process used to perform network operations
 process-type-socket = Сокет
-
 # process used to decode media
 process-type-rdd = RDD
-
 # process used to run some IPC actor in their own sandbox
 process-type-utility = IPC Actor у пясочніцы
+process-type-utility-actor-audio-decoder-generic = Ўтыліта Ўніверсальны аўдыядэкодэр
+process-type-utility-actor-audio-decoder-applemedia = Ўтыліта AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Утыліта Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Ўтыліта Media Foundation Engine
+process-type-utility-actor-js-oracle = Ўтыліта JavaScript Oracle
+process-type-utility-actor-windows-utils = Ўтыліта Windows Utils
+process-type-utility-actor-windows-file-dialog = Ўтыліта Файлавы дыялог Windows
 
 ##
 ## Other
