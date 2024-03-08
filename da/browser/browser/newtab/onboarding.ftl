@@ -352,6 +352,7 @@ onboarding-new-user-familiarity-based-survey-title = Hvor godt kender du { -bran
 onboarding-new-user-survey-subtitle = Din feedback er med til at gøre { -brand-short-name } endnu bedre.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Næste
+onboarding-new-user-survey-legal-link-label = Ved at klikke på "{ onboarding-new-user-survey-next-button-label }" accepterer du <a data-l10n-name="privacy_notice">privatlivserklæringen</a> for { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Jeg er helt ny
 onboarding-new-user-survey-time-based-option-2 = Mindre end 1 måned
