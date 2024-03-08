@@ -230,6 +230,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tias tschernas da colurs surscrivan l'apparientscha da websites. <a data-l10n-name="colors-link">Administrar las colurs</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Tias tschernas da colurs surscrivan l'apparientscha da websites.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Administrescha ils designs da { -brand-short-name } en <a data-l10n-name="themes-link">Extensiuns e designs</a>
@@ -1080,10 +1084,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Acziuns sveltas
     .accesskey = z
+addressbar-suggestions-settings = Midar las preferenzas per propostas da maschinas da tschertgar
 addressbar-locbar-showrecentsearches-option =
     .label = Mussar las ultimas tschertgas
     .accesskey = r
-addressbar-suggestions-settings = Midar las preferenzas per propostas da maschinas da tschertgar
 addressbar-quickactions-learn-more = Ulteriuras infurmaziuns
 
 ## Privacy Section - Content Blocking
