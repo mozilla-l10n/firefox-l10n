@@ -230,6 +230,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Renk seçimleriniz web sitesi görünümünü geçersiz kılıyor. <a data-l10n-name="colors-link">Renkleri yönet</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Renk seçimleriniz web sitesi görünümünü geçersiz kılıyor.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = { -brand-short-name } temalarını <a data-l10n-name="themes-link">Uzantılar ve Temalar</a> sayfasından yönetebilirsiniz.
