@@ -230,6 +230,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tu selectiones color supplanta le apparentia del sito web.<a data-l10n-name="colors-link">Gere le colores</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Tu selectiones color supplanta le apparentia del sito web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gere le themas de { -brand-short-name } in <a data-l10n-name="themes-link">Extensiones e themas</a>
