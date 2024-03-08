@@ -12,6 +12,7 @@
 
 policy-3rdparty = Emboheko porureko WebExtensions oikekuaa hag̃ua chrome.storage.managed rupive.
 policy-AllowedDomainsForApps = Emboaty umi mba’éva oñemoneĩva oike hag̃ua Google Workspace-pe.
+policy-AllowFileSelectionDialogs = Emoneĩ marandu jerureha marandurenda poravohápe.
 policy-AppAutoUpdate = Embojuruja térã eipe’a ñembohekopyahu ijeheguíva jepysokuégui.
 policy-AppUpdatePin = Aníkena rembopyahu { -brand-short-name } ohasávo pe versión oje’éva.
 policy-AppUpdateURL = Embohekopyahu URL kundaharape rembiporu ñemomba’epyre.
