@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = Το { $agent } ελέγχε�
 contentanalysis-slow-agent-dialog-body-dropped-text = Το { $agent } ελέγχει το κείμενα που αποθέσατε σύμφωνα με τις πολιτικές δεδομένων του οργανισμού σας. Αυτή η διαδικασία ενδέχεται διαρκέσει λίγη ώρα.
 contentanalysis-operationtype-clipboard = πρόχειρο
 contentanalysis-operationtype-dropped-text = εναποθετημένο κείμενο
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = μεταφόρτωση του «{ $filename }»
 contentanalysis-warndialogtitle = Το περιεχόμενο ενδέχεται να μην είναι ασφαλές
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -42,4 +44,5 @@ contentanalysis-block-message = Ο οργανισμός σας χρησιμοπ�
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Προέκυψε σφάλμα κατά την επικοινωνία με το λογισμικό πρόληψης απώλειας δεδομένων. Η μεταφορά απορρίφθηκε για τον πόρο: { $content }.
 contentanalysis-inprogress-quit-title = Έξοδος από το { -brand-shorter-name };
+contentanalysis-inprogress-quit-message = Βρίσκονται σε εξέλιξη πολλές ενέργειες. Αν κλείσετε το { -brand-shorter-name }, αυτές οι ενέργειες δεν θα ολοκληρωθούν.
 contentanalysis-inprogress-quit-yesbutton = Ναι, έξοδος
