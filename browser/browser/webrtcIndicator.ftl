@@ -160,6 +160,7 @@ webrtc-allow-share-screen-with-file = ¿Emoneĩ ko marandurenda ohechávo mba’
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-with-file = ¿Emoneĩ ko marandurenda oiporúvo ambue ñe’ẽatãha?
+webrtc-allow-share-camera-and-microphone-with-file = ¿Emoneĩ ko marandurenda oiporúvo ta’ãnganohẽha ha ñe’ẽatãha?
 
 ## Variables:
 ##   $origin (String): the first party origin.
