@@ -33,3 +33,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Send hurtigt og nemt faneblade til andre enheder, du er logget ind på.
 fxa-menu-sign-out =
     .label = Log ud…
+fxa-menu-sync-title = Synkroniser
+fxa-menu-sync-description = Få adgang til dit internet overalt
