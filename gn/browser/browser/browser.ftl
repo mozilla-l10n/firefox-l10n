@@ -901,6 +901,7 @@ restore-session-startup-suggestion-button = Ehechauka mba’éichapa
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Nde atyguasu ojokóma marandurendápe jeike ko mohendaha pegua.
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

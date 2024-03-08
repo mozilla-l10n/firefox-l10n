@@ -203,6 +203,8 @@ cfr-cbh-confirm-button = Embojevy kookie banner
     .accesskey = R
 cfr-cbh-dismiss-button = Ani ko’ág̃a
     .accesskey = N
+cookie-banner-blocker-onboarding-header = { -brand-short-name } omboyke kookie marandu’i nde rérape
+cookie-banner-blocker-onboarding-body = Sa’ive ñakãity, sa’ive kookie nde rapykuehóva ko tendápe.
 cookie-banner-blocker-onboarding-learn-more = Eikuaave
 
 ## These strings are used in the Fox doodle Pin/set default spotlights

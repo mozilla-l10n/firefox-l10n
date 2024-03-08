@@ -53,6 +53,7 @@ firefoxview-syncedtabs-loading-header = Ñemboheko oku’éma
 firefoxview-syncedtabs-loading-description = Emoĩmbávo, ehecháta umi tendayke ijurujáva ambue mba’e’okápe. Eporandujey ag̃amieve.
 firefoxview-tabpickup-fxa-admin-disabled-header = Nde atyguasu omboyke pe ñembojuehe
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nombojuehekuaái tendayke mba’e’okakuéra pa’ũme ne ñangarekohára omboyke rupi ñembojuehe.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nombojuehekuaái tendayke mba’e’okakuéra pa’ũme nde atyguasu ombogue rupi ñembojuehe.
 firefoxview-tabpickup-network-offline-header = Ehecha oiko porãpa ñanduti
 firefoxview-tabpickup-network-offline-description = Eiporúramo firewall térã proxy, ehechajey { -brand-short-name } oñemoneĩpa eikekuaa hag̃ua ñandutípe.
 firefoxview-tabpickup-network-offline-primarybutton = Eha’ãjey
