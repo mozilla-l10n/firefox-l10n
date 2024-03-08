@@ -4,20 +4,16 @@
 
 password-not-set =
     .value = (ikke sat)
-
 failed-pp-change = Kan ikke ændre hovedadgangskoden.
 incorrect-pp = Du indtastede ikke den korrekte nuværende hovedadgangskode. Prøv igen.
 pp-change-ok = Hovedadgangskoden blev ændret.
-
 settings-pp-erased-ok = Du har slettet din hovedadgangskode. Gemte adgangskoder og private certifikat-nøgler håndteret af { -brand-short-name } vil ikke blive beskyttet.
 settings-pp-not-wanted = Advarsel! Du har valgt ikke at bruge en hovedadgangskode. Gemte adgangskoder og private certifikat-nøgler håndteret af { -brand-short-name } vil ikke blive beskyttet.
-
 pp-change2empty-in-fips-mode = Du er i øjeblikket i FIPS-tilstand. FIPS kræver en hovedadgangskode.
 pw-change-success-title = Ændring af adgangskode udført.
 pw-change-failed-title = Ændring af adgangskode mislykkedes.
 pw-remove-button =
     .label = Fjern
-
 primary-password-dialog =
     .title = Hovedadgangskode
 set-password-old-password = Nuværende adgangskode:
@@ -26,9 +22,9 @@ set-password-reenter-password = Genindtast ny adgangskode:
 set-password-meter = Kvalitetsmåler for adgangskode
 set-password-meter-loading = Indlæser
 primary-password-admin = Din administrator kræver, at du anvender en hovedadgangskode for at kunne gemme logins og adgangskoder.
+primary-password-required-by-policy = Din organisation kræver, at du anvender en hovedadgangskode for at kunne gemme logins og adgangskoder.
 primary-password-description = En hovedadgangskode bruges til at beskytte følsomme oplysninger som logins og adgangskoder på denne enhed. Hvis du bruger en hovedadgangskode, vil du blive anmodet om at indtaste den én gang per session, når { -brand-short-name } henter gemte oplysninger, der er beskyttet af adgangskoden.
 primary-password-warning = Vær sikker på, at du kan huske den valgte hovedadgangskode. Hvis du glemmer din hovedadgangskode, så kan du ikke få adgang til de oplysninger, der er beskyttet af koden på denne enhed.
-
 remove-primary-password =
     .title = Fjern hovedadgangskode
 remove-info =
