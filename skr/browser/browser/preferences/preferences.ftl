@@ -213,6 +213,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = تہاݙے رنگاں دے انتخاب ویب سائٹ دی ظاہری شکل کوں زیر کر یندے پئے او۔ <a data-l10n-name="colors-link">رنگاں دا بندوبست کرو</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = تہاݙے رنگاں دے انتخاب ویب سائٹ دی ظاہری شکل کوں زیر کر یندے پئے او۔
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = <a data-l10n-name="themes-link">ایکسٹینشنز تے تھیمز</a> وِچ { -brand-short-name } تھیمز دا انتظام کرو
