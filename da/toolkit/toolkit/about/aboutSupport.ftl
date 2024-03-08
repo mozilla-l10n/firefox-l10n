@@ -285,6 +285,7 @@ try-newer-driver = Ikke understøttet i denne grafik-driver-version. Prøv at op
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametre
 compositing = Komposition
+support-font-determination = Info til at fejlsøge synlighed af skrifttyper
 hardware-h264 = H264-afkodning i hardware
 main-thread-no-omtc = main thread, ingen OMTC
 yes = Ja
