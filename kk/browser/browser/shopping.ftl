@@ -64,6 +64,9 @@ shopping-message-bar-analysis-in-progress-with-amount = Пікір сапасы 
 shopping-message-bar-page-not-supported =
     .heading = Біз бұл пікірлерді тексере алмаймыз
     .message = Өкінішке орай, біз белгілі бір өнім түрлерінің пікірлер сапасын тексере алмаймыз. Мысалы, сыйлық карталары және ағынды видео, музыка және ойындар.
+shopping-message-bar-keep-closed-header =
+    .heading = Жабық ұстау керек пе?
+    .message = Пікірлерді тексеру құралын үнсіз келісім бойынша жабық ұстау үшін баптауларды жаңарта аласыз. Қазір болса, ол автоматты түрде ашылады.
 shopping-message-bar-keep-closed-dismiss-button = Жоқ, рахмет
 shopping-message-bar-keep-closed-accept-button = Иә, жабық қалдыру
 
@@ -91,6 +94,8 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Сәйкес өнімдерге арналған кездейсоқ жарнамаларды көресіз. Біз тек сенімді пікірлері бар өнімдерді жарнамалаймыз. <a data-l10n-name="review-quality-url">Көбірек білу</a>
 shopping-settings-opt-out-button = Пікірлерді тексеру құралын сөндіру
 powered-by-fakespot = Пікірлерді тексеру құралы <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> негізінде жұмыс істейді.
+shopping-settings-auto-open-toggle =
+    .label = Пікірлерді тексеру құралын автоматты түрде ашу
 
 ## Strings for the adjusted rating component
 
