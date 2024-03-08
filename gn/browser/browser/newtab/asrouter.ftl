@@ -272,4 +272,10 @@ launch-on-login-infobar-final-reject-button = Nahániri, aguyje
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Eguereko mombyrymi umi tapykuehoha
+tail-fox-spotlight-primary-button = Embojuruja juajuha { -brand-short-name } ndive
 tail-fox-spotlight-secondary-button = Ani ko’ág̃a
