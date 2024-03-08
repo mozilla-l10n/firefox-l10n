@@ -561,6 +561,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Tetepy iporãva { $provider } oiporavopyre, { -brand-product-name } mba’éva pegua
 home-prefs-recommended-by-header-generic =
     .label = Tembiasakue momba’epyre
+home-prefs-recommended-by-description-generic = Tetepy oiporavóva { -brand-product-name } reheguáva
 
 ##
 
@@ -1002,6 +1003,7 @@ sitedata-delete-on-close =
     .label = Embogue kookie ha mba’ekuaarã rendagua oñemboty vove { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing = Kundaha ñemigua tapiagua rekópe, umi kookie ha tenda mba’ekuaarã oguéta oñymbotykuévo { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = Iñemboheko hembiasakuépe, { -brand-short-name } ombogue umi kookie ha mba’ekuaarã tendakuérape oñembotývo kundahára.
 sitedata-allow-cookies-option =
     .label = Emoneĩ kookie ha tenda mba’ekuaarã
     .accesskey = A

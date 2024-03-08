@@ -91,6 +91,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Ehecháta ñemurã sapy’apy’a apopyre iporãva rehegua. Romoherakuã apopyre ojejeroviaha oñónte. <a data-l10n-name="review-quality-url">Eikuaave</a>
 shopping-settings-opt-out-button = Eipe’a marandu’i rechajeyha
 powered-by-fakespot = Pe marandu’i jehechajey oioo <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> ndive.
+shopping-settings-auto-open-toggle =
+    .label = Ijuruja ijehegui marandu’i rechajeyha
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Ehechávo apopyre { $firstSite }, { $secondSite } ha { $thirdSite }-pe
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Ehechávo apopyre { $currentSite }-pe
+shopping-settings-sidebar-enabled-state = Pe marandu’i rechajeyha <strong>hendy</strong>
 
 ## Strings for the adjusted rating component
 
@@ -173,11 +186,13 @@ shopping-callout-pdp-opted-in-title = Ejeroviápa ko’ã jehechajeýre. Eikuaa 
 shopping-callout-pdp-opted-in-subtitle = Embojuruja marandu’i rechajeyha ehecha ema'ẽ ñeha’ã marandu’i jerovia’ỹva mboguepyre rehegua. Avei, mba’e ojehecharamóva marandu’i pyahu rehe.
 shopping-callout-closed-not-opted-in-title = Eikutu ereko hag̃ua hechajey jeroviaha
 shopping-callout-closed-not-opted-in-subtitle = Eiporu marandu’i rechajeyha ehecha vove mba’e repy ñesẽ. Eñemomarandu pya’e omba’ejoguávagui, nde ejogua mboyve.
+shopping-callout-closed-not-opted-in-revised-title = Eikutu ereko hag̃ua marandu’i jeroviaha
 shopping-callout-closed-not-opted-in-revised-button = Aikũmby
 shopping-callout-not-opted-in-reminder-title = Ejogua jeroviápe
 shopping-callout-not-opted-in-reminder-open-button = Embojuruja marandu’i rechajeyha
 shopping-callout-not-opted-in-reminder-close-button = Mboyke
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Anive tosẽ
+shopping-callout-disabled-auto-open-title = Marandu’i rechajeyha oñemboty ijehegui
 shopping-callout-disabled-auto-open-button = Aikũmby
 shopping-callout-opted-out-title = Marandu’i rechajeyha oñembogue
 shopping-callout-opted-out-button = Aikũmby

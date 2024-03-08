@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Opa tembiasakue ñemopotĩ
     .style = min-width: 34em
 clear-data-settings-label = Oñembotývo, { -brand-short-name } omboguepaiteva’erã ijehegui
+sanitize-on-shutdown-description = Ombogue ijehegui opaite mba’eporurã omembotykuévo { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -57,6 +58,7 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Tembiasakue
     .accesskey = H
+item-history-form-data-downloads-description = Embogue tembiasakue tenda ha mboguejy, marandu ñongatupyre myanyhẽha ha jehekaha
 item-cookies =
     .label = Kookie
     .accesskey = K
