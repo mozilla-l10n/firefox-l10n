@@ -131,7 +131,7 @@ options-enable-service-workers-http-label = Ative i service workers sore di HTTP
 options-enable-service-workers-http-tooltip =
     .title = Ativant cheste opzion a vignaran ativâts i service workers sore HTTP par dutis lis schedis che a àn une cassele dai imprescj vierte.
 # The label for the checkbox that toggles source maps in all tools.
-options-source-maps-label = Ative mapis dai sorzints
+options-source-maps-label = Ative mapis des origjins
 options-source-maps-tooltip =
     .title = Se tu ativis cheste opzion i sorzints a vignaran mapâts intai struments.
 # The message shown for settings that trigger page reload
