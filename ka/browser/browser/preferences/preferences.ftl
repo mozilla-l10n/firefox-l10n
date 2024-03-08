@@ -227,6 +227,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = თქვენ მიერ შერჩეული ფერები ჩაანაცვლებს საიტის გაფორმებას. <a data-l10n-name="colors-link">ფერების მართვა</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = თქვენ მიერ შერჩეული ფერები ჩაანაცვლებს საიტის გაფორმებას.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = გააფორმეთ { -brand-short-name } <a data-l10n-name="themes-link">გაფართოებებისა და თემების</a> განყოფილებიდან
@@ -1068,10 +1072,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = სწრაფი მოქმედებები
     .accesskey = წ
+addressbar-suggestions-settings = საძიებო სისტემის შემოთავაზებების პარამეტრები
 addressbar-locbar-showrecentsearches-option =
     .label = ბოლოს მოძიებულის ჩვენება
     .accesskey = ო
-addressbar-suggestions-settings = საძიებო სისტემის შემოთავაზებების პარამეტრები
 addressbar-quickactions-learn-more = ვრცლად
 
 ## Privacy Section - Content Blocking
