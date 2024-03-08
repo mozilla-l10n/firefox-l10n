@@ -183,7 +183,7 @@ permissions-site-microphone-disable-desc = Yukarıdaki listede bulunmayan hiçbi
 ## "Speaker" refers to an audio output device.
 
 permissions-site-speaker-window =
-    .title = Ayarlar - Hoparlör İzinleri
+    .title = Ayarlar - Ses Aygıtı İzinleri
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Aşağıdaki siteler ses çıkış cihazını seçmek istedi. Hangi sitelerin ses çıkış cihazını seçebileceğini belirtebilirsiniz.
 permissions-exceptions-doh-window =
