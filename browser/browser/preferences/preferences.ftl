@@ -230,6 +230,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Dina färgval åsidosätter webbplatsens utseende. <a data-l10n-name="colors-link">Hantera färger</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Dina färgval åsidosätter webbplatsens utseende.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Hantera { -brand-short-name } teman i <a data-l10n-name="themes-link">Tillägg och teman</a>
