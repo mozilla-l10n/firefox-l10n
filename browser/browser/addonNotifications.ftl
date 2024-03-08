@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Ndoje’ekuaái ndéve ko je
 ##
 
 xpinstall-disabled-locked = Apopyvusu ñangarekohára ombotove Software ñemohenda.
+xpinstall-disabled-by-policy = Pe software ñemohenda oipe’aitéma ne mba’apohaguasu.
 xpinstall-disabled = Software ñemohenda oñembogue ko’ág̃a. Ejopy Myandy ha upéi eha’ãjey.
 xpinstall-disabled-button =
     .label = Myandy
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ojokohína apopyvusu ñangarekoha.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Pe apopyvusu ñangarekohára omboyke ko tendápe ojerurévo omohenda hag̃ua software ne mohendahápe.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) ojokohína ne mba’apohaguasu.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Ne mba’apohaguasu omboyke ko tenda ojerurévo omohenda hag̃ua software ne mohendahápe.
 addon-install-full-screen-blocked = Tembiporu’i ñemohenda noñemoneĩri eime aja térã eike mboyve mba’erechaha tuichavévape.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
