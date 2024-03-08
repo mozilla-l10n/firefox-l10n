@@ -230,6 +230,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Värivalintasi ohittavat verkkosivuston ulkoasun. <a data-l10n-name="colors-link">Hallinnoi värejä</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Värivalintasi ohittavat verkkosivuston ulkoasun.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Hallinnoi { -brand-short-name }in teemoja <a data-l10n-name="themes-link">Laajennukset ja teemat -osiossa</a>
@@ -1080,10 +1084,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Pikatoiminnot
     .accesskey = Q
+addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 addressbar-locbar-showrecentsearches-option =
     .label = Näytä viimeisimmät haut
     .accesskey = h
-addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 addressbar-quickactions-learn-more = Lue lisää
 
 ## Privacy Section - Content Blocking
