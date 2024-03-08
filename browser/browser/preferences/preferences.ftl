@@ -242,6 +242,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Mae eich dewisiadau lliw yn drech nag gwedd gwefan. <a data-l10n-name="colors-link">Rheoli lliwiau</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Mae eich dewisiadau lliw yn drech nag gwedd gwefan.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Rheoli themâu { -brand-short-name } yn <a data-l10n-name="themes-link">Estyniadau a Themâu</a>
