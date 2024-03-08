@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Yazı tipleri
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Karakter kümesi
     .accesskey = K
-
 fonts-langgroup-arabic =
     .label = Arapça
 fonts-langgroup-armenian =
@@ -46,7 +44,7 @@ fonts-langgroup-hebrew =
 fonts-langgroup-kannada =
     .label = Kannada
 fonts-langgroup-khmer =
-    .label = Khmer
+    .label = Kmerce
 fonts-langgroup-korean =
     .label = Korece
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
@@ -77,42 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Orantılı
     .accesskey = a
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Boyut
     .accesskey = B
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
 fonts-monospace = Eş aralıklı
     .accesskey = E
-
 fonts-monospace-size = Boyut
     .accesskey = u
-
 fonts-minsize = En küçük yazı tipi boyutu
     .accesskey = o
-
 fonts-minsize-none =
     .label = Yok
-
 fonts-allow-own =
     .label = Yukarıdaki seçimlerim yerine sayfaların kendi yazı tiplerini seçmelerine izin ver
     .accesskey = u
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
