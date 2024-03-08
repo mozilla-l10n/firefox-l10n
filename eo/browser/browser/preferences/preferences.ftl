@@ -230,6 +230,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Via elekto de koloroj superregas la aspekton de retejoj. <a data-l10n-name="colors-link">Administri kolorojn</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Via elekto de koloroj superregas la aspekton de retejoj.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Administri la etosojn de { -brand-short-name } en <a data-l10n-name="themes-link">Etendaĵoj kaj etosoj</a>
@@ -1080,10 +1084,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Rapidaj agoj
     .accesskey = R
+addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 addressbar-locbar-showrecentsearches-option =
     .label = Montri ĵusajn serĉojn
     .accesskey = M
-addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 addressbar-quickactions-learn-more = Pli da informo
 
 ## Privacy Section - Content Blocking
