@@ -218,6 +218,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Your colour selections are overriding website appearance. <a data-l10n-name="colors-link">Manage colours</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Your colour selections are overriding website appearance.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Manage { -brand-short-name } themes in <a data-l10n-name="themes-link">Extensions & Themes</a>
@@ -816,6 +820,9 @@ pane-privacy-logins-and-passwords-header = Logins and Passwords
 forms-ask-to-save-logins =
     .label = Ask to save logins and passwords for websites
     .accesskey = r
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -870,6 +877,9 @@ primary-password-os-auth-dialog-message-win = To create a Primary Password, ente
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = create a Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -961,6 +971,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Cookie Banner Reduction
 cookie-banner-handling-description = { -brand-short-name } automatically tries to reject cookie requests on cookie banners on supported sites.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Learn More
 forms-handle-cookie-banners =
     .label = Reduce Cookie Banners
