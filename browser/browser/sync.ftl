@@ -34,3 +34,4 @@ fxa-menu-send-tab-to-device-description = Emondo tendayke oimeraẽva mba’e’
 fxa-menu-sign-out =
     .label = Ñesẽ…
 fxa-menu-sync-title = Mbojuehe
+fxa-menu-sync-description = Eike ne ñandutiroguépe oimehágui
