@@ -227,6 +227,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Zure kolore-hautapenek webgunearen itxura baliogabetzen dute. <a data-l10n-name="colors-link">Kudeatu koloreak</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Zure kolore-hautapenek webgunearen itxura baliogabetzen dute.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Kudeatu { -brand-short-name }(r)en itxurak <a data-l10n-name="themes-link">Hedapenak eta itxura</a> atalean
@@ -1067,10 +1071,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Ekintza bizkorrak
     .accesskey = b
+addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hobespenak
 addressbar-locbar-showrecentsearches-option =
     .label = Erakutsi azken bilaketak
     .accesskey = r
-addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hobespenak
 addressbar-quickactions-learn-more = Argibide gehiago
 
 ## Privacy Section - Content Blocking
