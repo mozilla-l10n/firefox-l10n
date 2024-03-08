@@ -43,6 +43,9 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Použít jednodušší zvýrazňovače, pokud je použita vlastnost 'prefers-reduced-motion'
 options-inspector-simplified-highlighters-tooltip =
     .title = Povolí zjednodušené zvýrazňovače, pokud je povolena funkce prefers-reduced-motion. Kreslí čáry místo vyplněných obdélníků kolem zvýrazněných prvků, aby se zabránilo efektům blikání.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Přepnout na další vstup pomocí klávesy <kbd>Enter</kbd>
 
 ## "Default Color Unit" options for the Inspector
 

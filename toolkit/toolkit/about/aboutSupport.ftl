@@ -300,6 +300,7 @@ try-newer-driver = Zakázáno kvůli verzi ovladače grafické karty. Zkuste akt
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Technologie ClearType
 compositing = Compositing
+support-font-determination = Informace ladění viditelnosti písma
 hardware-h264 = Hardwarové dekódování H264
 main-thread-no-omtc = hlavní vlákno, ne OMTC
 yes = Ano
