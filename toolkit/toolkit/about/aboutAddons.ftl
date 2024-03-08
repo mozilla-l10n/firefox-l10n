@@ -219,6 +219,9 @@ shortcuts-no-addons = Ndoguerekói jepysokue ijurujáva.
 shortcuts-no-commands = Ko’ã jepysokue ndoguerekói jeike pya’eha:
 shortcuts-input =
     .placeholder = Ehai mbopya’eha
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Emboguete jeike pya’eha
 shortcuts-browserAction2 = Emyandy votõ tembiporu renda
 shortcuts-pageAction = Emyandy kuatiarogue ñemongu’e
 shortcuts-sidebarAction = Embojopyru tenda yke

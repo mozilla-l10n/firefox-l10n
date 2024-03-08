@@ -301,8 +301,6 @@ pdfjs-editor-ink-button-label = Moha’ãnga
 pdfjs-editor-stamp-button =
     .title = Embojuaju térã embosako’i ta’ãnga
 pdfjs-editor-stamp-button-label = Embojuaju térã embosako’i ta’ãnga
-pdfjs-editor-remove-button =
-    .title = Mboguete
 pdfjs-editor-highlight-button =
     .title = Mbosa’y
 pdfjs-editor-highlight-button-label = Mbosa’y
@@ -329,6 +327,8 @@ pdfjs-editor-ink-opacity-input = Pytũngy
 pdfjs-editor-stamp-add-image-button =
     .title = Embojuaju ta’ãnga
 pdfjs-editor-stamp-add-image-button-label = Embojuaju ta’ãnga
+# This refers to the thickness of the line used for free highlighting (not bound to text)
+pdfjs-editor-free-highlight-thickness-input = Anambusu
 pdfjs-free-text =
     .aria-label = Moñe’ẽrã moheñoiha
 pdfjs-free-text-default-content = Ehai ñepyrũ…
