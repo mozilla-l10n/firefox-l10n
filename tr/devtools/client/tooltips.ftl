@@ -23,12 +23,12 @@ inactive-css-not-grid-container = Bu eleman bir grid kapsayıcı olmadığı iç
 inactive-css-not-flex-item = Bu eleman bir flex öğesi olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-flex-container = Bu eleman bir flex kapsayıcı olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-inline-or-tablecell = Bu eleman bir inline veya table-cell öğesi olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
-inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::first-line pseudo elemanlarında desteklenmez.
-inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::first-letter pseudo elemanlarında desteklenmez.
-inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::placeholder pseudo elemanlarında desteklenmez.
+inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::first-line sözde elemanlarında desteklenmez.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::first-letter sözde elemanlarında desteklenmez.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::placeholder sözde elemanlarında desteklenmez.
 inactive-css-property-because-of-display = Bu eleman <strong>{ $display }</strong> olarak görüntülendiği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-display-block-on-floated = Bu eleman <strong>floated</strong> olduğu için <strong>display</strong> değeri motor tarafından <strong>block</strong> olarak değiştirildi.
-inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</strong> kısıtlaması nedeniyle <strong>{ $property }</strong> geçersiz kılanamaz.
+inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</strong> kısıtlaması nedeniyle <strong>{ $property }</strong> geçersiz kılınamaz.
 inactive-css-position-property-on-unpositioned-box = Bu elemanın pozisyonu olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-text-overflow-when-no-overflow = <strong>overflow:hidden</strong> ayarlanmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong>, iç tablo elemanlarını etkilemez.
@@ -38,8 +38,8 @@ inactive-css-not-table-cell = Bu eleman bir tablo hücresi olmadığı için <st
 inactive-scroll-padding-when-not-scroll-container = Bu eleman scroll edilemediği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-border-image = <strong>border-collapse</strong> özelliğinin ana tablo elemanında <strong>collapse</strong> olarak ayarlandığı dahili tablo elemanlarına <strong>{ $property }</strong> özelliği uygulanamayacağı için bu özellik bu eleman üzerinde hiçbir etkiye sahip değildir.
 inactive-css-ruby-element = <strong>{ $property }</strong> bir ruby elemanı olduğundan bu eleman üzerinde hiçbir etkisi yoktur. Boyutu ruby metninin yazı tipi boyutuna göre belirlenir.
-inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> özelliği, vurgulanmış pseudo elemanlarında desteklenmez.
-inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::cue pseudo elemanlarında desteklenmez.
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> özelliği, vurgulanmış sözde elemanlarda desteklenmez.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::cue sözde elemanlarında desteklenmez.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -52,6 +52,12 @@ inactive-css-text-wrap-balance-lines-exceeded =
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
+
 inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> veya <strong>display:flex</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong> veya <strong>columns:2</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-multicol-container-fix = <strong>column-count</strong> veya <strong>column-width</strong> eklemeyi deneyin. { learn-more }
@@ -63,7 +69,7 @@ inactive-css-not-flex-container-fix = <strong>display:flex</strong> veya <strong
 inactive-css-not-inline-or-tablecell-fix = <strong>display:inline</strong> veya <strong>display:table-cell</strong> eklemeyi deneyin. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = <strong>display:inline-block</strong> veya <strong>display:block</strong> eklemeyi deneyin. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>display:inline-block</strong> eklemeyi deneyin. { learn-more }
-inactive-css-not-display-block-on-floated-fix = <strong>float</strong>'u silmeyi veya <strong>display:block</strong> eklemeyi deneyin. { learn-more }
+inactive-css-not-display-block-on-floated-fix = <strong>float</strong>’u silmeyi veya <strong>display:block</strong> eklemeyi deneyin. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = <strong>position</strong> özelliğini <strong>static</strong> dışında bir şey yapmayı deneyin. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = <strong>display</strong> özelliğini <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ve <strong>table-footer-group</strong> dışında bir şey yapmayı deneyin. { learn-more }
