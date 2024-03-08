@@ -43,6 +43,11 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = prefers-reduced-motion опциясымен қарапайымдау маркерлерді қолдану
 options-inspector-simplified-highlighters-tooltip =
     .title = prefers-reduced-motion опциясы іске қосулы кезінде қарапайымдау маркерлерді іске қосады. Жыпылықтау әсерлерін болдырмау үшін түспен ерекшеленген элементтердің айналасында толтырылған тіктөртбұрыштардың орнына сызықтар салады.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = <kbd>Enter</kbd> арқылы келесі енгізу өрісіне фокусты орнату
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Іске қосылған кезде селекторды, қасиет атауын немесе мәнді түзету кезінде Enter пернесін басу фокусты келесі енгізуге жылжытады.
 
 ## "Default Color Unit" options for the Inspector
 
