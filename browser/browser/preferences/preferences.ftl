@@ -566,6 +566,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Interessant indhold udvalgt af { $provider }, en del af { -brand-product-name }-familien
 home-prefs-recommended-by-header-generic =
     .label = Anbefalede historier
+home-prefs-recommended-by-description-generic = Interessant indhold udvalgt af { -brand-product-name }-holdet
 
 ##
 
