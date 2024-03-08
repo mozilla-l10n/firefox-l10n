@@ -26,6 +26,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } sta verificando
 contentanalysis-slow-agent-dialog-body = Analisi contenuti sta esaminando la risorsa “{ $content }”
 contentanalysis-operationtype-clipboard = appunti
 contentanalysis-operationtype-dropped-text = testo trascinato
+contentanalysis-customdisplaystring-description = caricamento di “{ $filename }”
 
 contentanalysis-notification-title = Analisi contenuti
 # Variables:
@@ -47,3 +48,6 @@ contentanalysis-warndialogtext = La tua organizzazione utilizza un software per 
 contentanalysis-warndialog-response-allow = Utilizza contenuti
 contentanalysis-warndialog-response-deny = Annulla
 
+contentanalysis-inprogress-quit-title = Uscire da { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Ci sono diverse azioni in corso. Uscendo adesso da { -brand-shorter-name } non sarà possibile completarle.
+contentanalysis-inprogress-quit-yesbutton = Sì, esci
