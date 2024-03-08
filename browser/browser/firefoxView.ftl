@@ -262,6 +262,9 @@ firefoxview-tabs =
 
 firefoxview-opentabs-pinned-tab =
     .title = Εναλλαγή σε «{ $tabName }»
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Εναλλαγή σε «{ $tabTitle }» (Με σελιδοδείκτη)
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
