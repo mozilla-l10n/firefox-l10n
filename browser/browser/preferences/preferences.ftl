@@ -218,6 +218,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = 選択したカラーでウェブサイトの外観を上書きします。<a data-l10n-name="colors-link">カラーの管理</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = 選択したカラーでウェブサイトの外観を上書きします。
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = <a data-l10n-name="themes-link">アドオンとテーマ</a> で { -brand-short-name } のテーマを管理する
@@ -457,7 +461,7 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = 常にスクロールバーを表示する
     .accesskey = o
-browsing-always-underline-links=
+browsing-always-underline-links =
     .label = 常にリンクに下線を付ける
     .accesskey = u
 browsing-use-onscreen-keyboard =
@@ -831,6 +835,7 @@ pane-privacy-logins-and-passwords-header = ログインとパスワード
 forms-ask-to-save-logins =
     .label = ウェブサイトのログイン情報とパスワードを保存する
     .accesskey = r
+
 ## Privacy Section - Passwords
 
 # "Logins" is the former term for "Passwords". Users should find password settings
@@ -923,12 +928,13 @@ autofill-payment-methods-checkbox-submessage = クレジットカードとデビ
     .accesskey = I
 autofill-saved-payment-methods-button = 保存された支払方法
     .accesskey = v
-autofill-reauth-checkbox = { PLATFORM() ->
-            [macos] 支払い方法の入力と編集は macOS の認証が必要です。
-            [windows] 支払い方法の入力と編集は Windows の認証が必要です。
-            [linux] 支払い方法の入力と編集は Linux の認証が必要です。
-           *[other] 支払い方法の入力と編集は OS の認証が必要です。
-        }
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] 支払い方法の入力と編集は macOS の認証が必要です。
+        [windows] 支払い方法の入力と編集は Windows の認証が必要です。
+        [linux] 支払い方法の入力と編集は Linux の認証が必要です。
+       *[other] 支払い方法の入力と編集は OS の認証が必要です。
+    }
     .accesskey = o
 
 ## Privacy Section - History
@@ -1062,10 +1068,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = クイックアクション
     .accesskey = Q
+addressbar-suggestions-settings = 検索エンジンの検索候補の設定を変更
 addressbar-locbar-showrecentsearches-option =
     .label = 最近の検索を表示
     .accesskey = r
-addressbar-suggestions-settings = 検索エンジンの検索候補の設定を変更
 addressbar-quickactions-learn-more = 詳細情報
 
 ## Privacy Section - Content Blocking
@@ -1115,6 +1121,9 @@ content-blocking-fingerprinters = フィンガープリント採取
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = 既知および疑わしいフィンガープリント採取
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = 包括的 Cookie 保護機能により現在のサイトへの Cookie が制限されているため、トラッカーはサイトを横断してあなたを追跡する Cookie を利用できません。
