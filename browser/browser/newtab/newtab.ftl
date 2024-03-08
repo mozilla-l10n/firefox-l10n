@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Προσθήκη μηχανής αν�
 newtab-topsites-add-shortcut-header = Νέα συντόμευση
 newtab-topsites-edit-topsites-header = Επεξεργασία κορυφαίου ιστοτόπου
 newtab-topsites-edit-shortcut-header = Επεξεργασία συντόμευσης
+newtab-topsites-add-shortcut-label = Προσθήκη συντόμευσης
 newtab-topsites-title-label = Τίτλος
 newtab-topsites-title-input =
     .placeholder = Εισαγωγή τίτλου

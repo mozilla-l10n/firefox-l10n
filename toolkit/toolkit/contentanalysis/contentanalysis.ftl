@@ -41,3 +41,5 @@ contentanalysis-block-message = Ο οργανισμός σας χρησιμοπ�
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Προέκυψε σφάλμα κατά την επικοινωνία με το λογισμικό πρόληψης απώλειας δεδομένων. Η μεταφορά απορρίφθηκε για τον πόρο: { $content }.
+contentanalysis-inprogress-quit-title = Έξοδος από το { -brand-shorter-name };
+contentanalysis-inprogress-quit-yesbutton = Ναι, έξοδος
