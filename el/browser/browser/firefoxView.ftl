@@ -251,3 +251,22 @@ firefoxview-recentlyclosed-empty-description-two = Για να βρείτε πα
 
 firefoxview-syncedtabs-device-notabs = Καμία ανοικτή καρτέλα σε αυτήν τη συσκευή
 firefoxview-syncedtabs-connect-another-device = Σύνδεση άλλης συσκευής
+firefoxview-pinned-tabs =
+    .title = Καρφιτσωμένες καρτέλες
+firefoxview-tabs =
+    .title = Καρτέλες
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Εναλλαγή σε «{ $tabName }»
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Με σελιδοδείκτη) { $url }
