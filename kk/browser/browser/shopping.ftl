@@ -199,8 +199,11 @@ shopping-callout-not-opted-in-reminder-close-button = Тайдыру
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Келесіде көрсетпеу
 shopping-callout-not-opted-in-reminder-img-alt =
     .aria-label = Үш өнім пікірінің абстрактты иллюстрациясы. Біреуінде оның сенімді болмауы мүмкін екенін көрсететін ескерту белгісі бар.
+shopping-callout-disabled-auto-open-title = Пікірлерді тексеру құралы енді үнсіз келісім бойынша жабық
+shopping-callout-disabled-auto-open-subtitle = Өнімнің шолуларына сенуге болатынын көргіңіз келген кезде адрес жолағындағы баға белгішесін басыңыз.
 shopping-callout-disabled-auto-open-button = Түсіндім
 shopping-callout-opted-out-title = Пікірлерді тексеру құралы сөндірулі тұр
+shopping-callout-opted-out-subtitle = Оны қайта іске қосу үшін адрес жолағындағы баға белгішесін басып, нұсқауларды орындаңыз.
 shopping-callout-opted-out-button = Түсіндім
 
 ## Onboarding message strings.
