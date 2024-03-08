@@ -183,7 +183,7 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
-profiler-popup-presets-web-developer-description = Çoğu web uygulamasında hata ayıklama için önerilen ayarlar, düşük overhead.
+profiler-popup-presets-web-developer-description = Çoğu web uygulamasında hata ayıklama için önerilen ayarlar, düşük ek yük.
 profiler-popup-presets-web-developer-label =
     .label = Web geliştirici
 profiler-popup-presets-firefox-description = { -brand-shorter-name } tarayıcısını profilleme için önerilen ayar.
