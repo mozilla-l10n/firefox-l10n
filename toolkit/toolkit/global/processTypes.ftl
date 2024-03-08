@@ -41,6 +41,13 @@ process-type-socket = ซ็อกเก็ต
 process-type-rdd = RDD
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Sandboxed IPC Actor
+process-type-utility-actor-audio-decoder-generic = ยูทิลิตี Generic Audio Decoder
+process-type-utility-actor-audio-decoder-applemedia = ยูทิลิตี AppleMedia
+process-type-utility-actor-audio-decoder-wmf = ยูทิลิตี Windows Media Foundation
+process-type-utility-actor-mf-media-engine = ยูทิลิตี Media Foundation Engine
+process-type-utility-actor-js-oracle = ยูทิลิตี JavaScript Oracle
+process-type-utility-actor-windows-utils = ยูทิลิตี Windows Utils
+process-type-utility-actor-windows-file-dialog = ยูทิลิตี Windows File Dialog
 
 ##
 ## Other
