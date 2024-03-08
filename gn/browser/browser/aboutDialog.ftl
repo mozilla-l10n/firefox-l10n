@@ -25,6 +25,7 @@ update-applying = Ojeporuhína tekopyahu…
 update-failed = Tekopyahu ndoikói.<label data-l10n-name="failed-link">Emboguejy apopy ipyahuvéva</label>
 update-failed-main = Tekopyahu ndoikói.<a data-l10n-name="failed-link-main">Emboguejy apopy ipyahuvéva</a>
 update-adminDisabled = Tekopyahu ñangarekohára omongeva’ekue
+update-policy-disabled = Ñembohekopyahu oipe’áva ne mba’apohaguasu
 update-noUpdatesFound = { -brand-short-name } hekopyahúma
 aboutdialog-update-checking-failed = Ndojejuhukuaái ñembohekopyahu.
 update-otherInstanceHandlingUpdates = { -brand-short-name } oñembohekopyahuhína ambuéva rupi
