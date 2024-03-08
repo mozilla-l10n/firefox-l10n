@@ -282,6 +282,7 @@ try-newer-driver = Графикалық драйверіңіз нұсқасым�
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType баптаулары
 compositing = Композитинг
+support-font-determination = Қаріп көрінуінің жөндеу ақпараты
 hardware-h264 = Құрылғылық H264 декодтау
 main-thread-no-omtc = басты ағын, OMTC жоқ
 yes = Иә
