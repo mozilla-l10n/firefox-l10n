@@ -230,6 +230,8 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Le impostazioni per l’aspetto dei siti web sono sostituite dall’attuale selezione di colori. <a data-l10n-name="colors-link">Gestisci colori</a>
+preferences-web-appearance-override-warning2 =
+    .message = Le impostazioni per l’aspetto dei siti web sono sostituite dall’attuale selezione di colori.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gestisci i temi di { -brand-short-name } in <a data-l10n-name="themes-link">Estensioni e temi</a>
