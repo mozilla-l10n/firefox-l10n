@@ -229,6 +229,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Vòstras seleccion de colors subrecargan l’aparéncia dels sites web. <a data-l10n-name="colors-link">Gerir las colors</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Vòstras seleccion de colors subrecargan l’aparéncia dels sites web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gerissètz los tèmas de { -brand-short-name } dins <a data-l10n-name="themes-link">Extensions e tèma</a>
@@ -1056,10 +1060,10 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Accions rapidas
     .accesskey = A
+addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions del motor de recèrca
 addressbar-locbar-showrecentsearches-option =
     .label = Afichar las recèrcas recentas
     .accesskey = r
-addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions del motor de recèrca
 addressbar-quickactions-learn-more = Ne saber mai
 
 ## Privacy Section - Content Blocking
