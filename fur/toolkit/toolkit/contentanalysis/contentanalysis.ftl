@@ -14,7 +14,14 @@ contentanalysis-slow-agent-dialog-header = Scansion in cors
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $filename - Name of the file being analyzed, such as "aFile.txt"
-contentanalysis-slow-agent-dialog-body-file = { $agent } al sta verificant “{ $filename }” su la fonde des politichis sui dâts de tô organizazion. Cheste e podarès puartâ vie cualchi moment.
+contentanalysis-slow-agent-dialog-body-file = { $agent } al sta verificant “{ $filename }” su la fonde des politichis sui dâts de tô organizazion. Chest al podarès puartâ vie cualchi moment.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } al sta verificant il contignût tacât su la fonde des politichis sui dâts de tô organizazion. Chest al podarès puartâ vie cualchi moment.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } al sta verificant il test strissinât su la fonde des politichis sui dâts de tô organizazion. Chest al podarès puartâ vie cualchi moment.
 contentanalysis-operationtype-clipboard = notis
 contentanalysis-operationtype-dropped-text = test molât
 contentanalysis-warndialogtitle = Al è pussibil che chescj contignûts no sedin sigûrs
