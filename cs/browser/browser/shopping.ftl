@@ -185,6 +185,7 @@ shopping-callout-pdp-opted-in-title = Jsou tyto recenze spolehlivé? Zjistěte t
 shopping-callout-pdp-opted-in-subtitle = Otevřete nástroj pro kontrolu recenzí a zobrazte upravené hodnocení s odstraněnými nespolehlivými recenzemi. Navíc si můžete prohlédnout hlavní body z nedávných autentických recenzí.
 shopping-callout-closed-not-opted-in-title = Jedním klepnutím na spolehlivé recenze
 shopping-callout-closed-not-opted-in-subtitle = Vyzkoušejte nástroj pro kontrolu recenzí, kdykoli uvidíte cenovku. Získejte rychle informace od skutečných zákazníků — ještě před nákupem.
+shopping-callout-closed-not-opted-in-revised-title = Jedním klepnutím ke spolehlivým recenzím
 shopping-callout-closed-not-opted-in-revised-button = Rozumím
 shopping-callout-not-opted-in-reminder-open-button = Otevřít kontrolu recenzí
 shopping-callout-not-opted-in-reminder-close-button = Zavřít
