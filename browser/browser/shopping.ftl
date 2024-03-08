@@ -189,6 +189,21 @@ shopping-callout-pdp-opted-in-title = Er de her anmeldelser pålidelige? Find hu
 shopping-callout-pdp-opted-in-subtitle = Åbn verificering af anmeldelser for at se en justeret bedømmelse, hvor upålidelige anmeldelser er fjernet. Og se højdepunkter fra de seneste pålidelige anmeldelser.
 shopping-callout-closed-not-opted-in-title = Pålidelige anmeldelser med et enkelt klik
 shopping-callout-closed-not-opted-in-subtitle = Prøv verificering af anmeldelser, når du ser prismærket. Hør rigtige menneskers mening før du handler.
+shopping-callout-closed-not-opted-in-revised-title = Pålidelige anmeldelser med et enkelt klik
+shopping-callout-closed-not-opted-in-revised-subtitle = Klik på ikonet med prismærket i adresselinjen for at komme tilbage til Verificering af anmeldelser.
+shopping-callout-closed-not-opted-in-revised-button = Forstået
+shopping-callout-not-opted-in-reminder-subtitle = Er du i tvivl, om anmeldelser af et produkter er rigtige eller forfalskede? Verificering af anmeldelser fra { -brand-product-name } kan hjælpe dig.
+shopping-callout-not-opted-in-reminder-open-button = Åbn Verificering af anmeldelser
+shopping-callout-not-opted-in-reminder-close-button = Afvis
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Vis ikke igen
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstrakt illustration af tre produktanmeldelser. Den ene har et symbol for at indikere, at anmeldelser muligvis ikke er pålidelig.
+shopping-callout-disabled-auto-open-title = Verificering af anmeldelser er nu lukket som standard
+shopping-callout-disabled-auto-open-subtitle = Klik på ikonet med prismærket i adresselinjen når du vil se, om du kan stole på anmeldelserne af et produkt.
+shopping-callout-disabled-auto-open-button = Forstået
+shopping-callout-opted-out-title = Verificering af anmeldelser er slået fra
+shopping-callout-opted-out-subtitle = For at slå funktionen til skal du klikke på ikonet med prismærket i adresselinjen og følge vejledningen.
+shopping-callout-opted-out-button = Forstået
 
 ## Onboarding message strings.
 
