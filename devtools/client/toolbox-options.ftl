@@ -64,7 +64,7 @@ options-styleeditor-label = Stil editörü
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = CSS’i otomatik tamamla
 options-stylesheet-autocompletion-tooltip =
-    .title = Stil editöründe siz yazdıkça CSS niteliklerini, değerleri ve seçicileri otomatik tamamlar
+    .title = Stil editöründe siz yazdıkça CSS özelliklerini, değerleri ve seçicileri otomatik tamamlar
 
 ## Screenshot section
 
@@ -75,7 +75,7 @@ options-screenshot-clipboard-only-label = Ekran görüntüsü yalnızca panoya
 options-screenshot-clipboard-tooltip2 =
     .title = Ekran görüntüsünü doğrudan panoya kaydeder
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
-options-screenshot-audio-label = Fotoğraf çekme sesini çal
+options-screenshot-audio-label = Fotoğraf çekme sesini oynat
 options-screenshot-audio-tooltip =
     .title = Ekran görüntüsü alırken fotoğraf çekme sesini oynatır
 
@@ -127,7 +127,7 @@ options-enable-custom-formatters-tooltip =
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = HTTP üzerinden Service Worker’ları etkinleştir (araç kutusu açıkken)
 options-enable-service-workers-http-tooltip =
-    .title = Bu seçeneği açarsanız, araç kutusunun açık olduğu tüm sekmelerde HTTP üzerinden Service Workers etkinleşir.
+    .title = Bu seçeneği açarsanız, araç kutusunun açık olduğu tüm sekmelerde HTTP üzerinden Service Worker’lar etkinleşir.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Kaynak eşlemelerini etkinleştir
 options-source-maps-tooltip =

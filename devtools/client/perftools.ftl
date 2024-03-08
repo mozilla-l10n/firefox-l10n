@@ -36,9 +36,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tampon boyutu:
-
 perftools-custom-threads-label = Ada göre özel iş parçacığı ekle:
-
 perftools-devtools-interval-label = Aralık:
 perftools-devtools-threads-label = İş parçacıkları:
 perftools-devtools-settings-label = Ayarlar
@@ -83,7 +81,7 @@ perftools-thread-style-thread =
 pref-thread-stream-trans =
     .title = Ağ akışı aktarımı
 perftools-thread-socket-thread =
-    .title = Ağ kodunun egelleyici soket çağrılarını çalıştırdığı iş parçacığı
+    .title = Ağ kodunun engelleyici soket çağrılarını çalıştırdığı iş parçacığı
 perftools-thread-img-decoder =
     .title = Görüntü çözme iş parçacıkları
 perftools-thread-dns-resolver =
@@ -93,11 +91,11 @@ perftools-thread-task-controller =
 perftools-thread-jvm-gecko =
     .title = Ana Gecko JVM iş parçacığı
 perftools-thread-jvm-nimbus =
-    .title = Nimbus deney SDK'inin ana iş parçacıkları
+    .title = Nimbus deney SDK’inin ana iş parçacıkları
 perftools-thread-jvm-default-dispatcher =
     .title = Kotlin eşyordam kitaplığı için varsayılan işlemci zamanlayıcısı
 perftools-thread-jvm-glean =
-    .title = Glean telemetri SDK'inin ana iş parçacıkları
+    .title = Glean telemetri SDK’inin ana iş parçacıkları
 perftools-thread-jvm-arch-disk-io =
     .title = Kotlin eşyordam kitaplığı için G/Ç işlemci zamanlayıcısı
 perftools-thread-jvm-pool =
@@ -106,7 +104,6 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Yukarıdaki seçimleri atla ve tüm kayıtlı iş parçacıklarını kaydet
-
 perftools-tools-threads-input-label =
     .title = Bu iş parçacığı adları, profilleyicide profili çıkarılacak iş parçacıklarının virgülle ayrılmış listesidir. İş parçacığı adının dahil edilmesi için kısmi eşleşme olması yeterlidir. Adlar boşluk karakterine duyarlıdır.
 
@@ -114,7 +111,6 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Yeni</b>: { -profiler-brand-name } artık geliştirici araçlarına entegre edildi. Bu güçlü yeni araç hakkında <a>daha fazla bilgi edinin</a>.
-
 perftools-onboarding-close-button =
     .aria-label = Tanıtım mesajını kapat
 
@@ -122,32 +118,27 @@ perftools-onboarding-close-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# The same labels and descriptions are also defined in appmenu.ftl.
-
-# Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
-perftools-presets-web-developer-label = Web geliştirici
-perftools-presets-web-developer-description = Çoğu web uygulamasında hata ayıklama için önerilen ayarlar, düşük overhead.
 
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+perftools-presets-web-developer-label = Web geliştirici
+perftools-presets-web-developer-description = Çoğu web uygulamasında hata ayıklama için önerilen ayarlar, düşük ek yük.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = { -brand-shorter-name } tarayıcısını profilleme için önerilen ayar.
-
 perftools-presets-graphics-label = Grafik
 perftools-presets-graphics-description = { -brand-shorter-name } tarayıcısında grafik hatalarını araştırma ayarı.
-
 perftools-presets-media-label = Ortam
 perftools-presets-media-description2 = { -brand-shorter-name } tarayıcısında ses ve video hatalarını araştırma ayarı.
-
 perftools-presets-networking-label = Ağ
 perftools-presets-networking-description = { -brand-shorter-name } tarayıcısında ağ hatalarını araştırma ayarı.
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Güç
 perftools-presets-power-description = { -brand-shorter-name } tarayıcısında güç tüketimi hatalarını araştırma ayarı, düşük ek yük.
-
 perftools-presets-custom-label = Özel
 
 ##

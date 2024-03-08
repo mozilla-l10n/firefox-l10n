@@ -24,7 +24,7 @@ styleeditor-at-rules = “At” kuralları
 styleeditor-editor-textbox =
     .data-placeholder = CSS’i buraya yazın.
 styleeditor-no-stylesheet = Bu sayfanın stil sayfası yok.
-styleeditor-no-stylesheet-tip = Belki de <a data-l10n-name="append-new-stylesheet">yeni bir stil sayfası eklemek</a>istersiniz?
+styleeditor-no-stylesheet-tip = Belki de <a data-l10n-name="append-new-stylesheet">yeni bir stil sayfası eklemek</a> istersiniz?
 styleeditor-open-link-new-tab =
     .label = Bağlantıyı yeni sekmede aç
 styleeditor-copy-url =
