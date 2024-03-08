@@ -10,6 +10,11 @@ contentanalysis-slow-agent-dialog-title = Analisi contignûts in cors
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Analisi contignûts al sta esaminant la risorse “{ $content }”
+contentanalysis-slow-agent-dialog-header = Scansion in cors
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } al sta verificant “{ $filename }” su la fonde des politichis sui dâts de tô organizazion. Cheste e podarès puartâ vie cualchi moment.
 contentanalysis-operationtype-clipboard = notis
 contentanalysis-operationtype-dropped-text = test molât
 contentanalysis-warndialogtitle = Al è pussibil che chescj contignûts no sedin sigûrs
