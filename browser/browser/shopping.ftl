@@ -96,6 +96,17 @@ shopping-settings-opt-out-button = Пікірлерді тексеру құра�
 powered-by-fakespot = Пікірлерді тексеру құралы <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> негізінде жұмыс істейді.
 shopping-settings-auto-open-toggle =
     .label = Пікірлерді тексеру құралын автоматты түрде ашу
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = { $firstSite }, { $secondSite } және { $thirdSite } сайттарында өнімдерді қараған кезде
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = { $currentSite } сайтында өнімдерді қараған кезде
+shopping-settings-sidebar-enabled-state = Пікірлерді тексеру құралы <strong>Іске қосулы тұр</strong>
 
 ## Strings for the adjusted rating component
 
@@ -179,12 +190,17 @@ shopping-callout-pdp-opted-in-subtitle = Сенімсіз пікірлер өш�
 shopping-callout-closed-not-opted-in-title = Сенімді пікірлерге үшін бір рет шерту
 shopping-callout-closed-not-opted-in-subtitle = Бағаны көрген кезде пікірлерді қолдану құралын қолданып көріңіз. Сатып алуға дейін нақты сатып алушылардан ақпаратты жылдам алыңыз.
 shopping-callout-closed-not-opted-in-revised-title = Сенімді пікірлерге үшін бір рет шерту
+shopping-callout-closed-not-opted-in-revised-subtitle = Пікірлерді тексеру құралына оралу үшін адрес жолағындағы баға белгішесін басыңыз.
 shopping-callout-closed-not-opted-in-revised-button = Түсіндім
 shopping-callout-not-opted-in-reminder-title = Сенімділікпен сатып алыңыз
+shopping-callout-not-opted-in-reminder-subtitle = Өнім туралы пікірлер шынайы немесе жалған екенін білмей тұрсыз ба? { -brand-product-name } ұсынған Пікірлерді тексеру құралы сізге көмектесе алады.
 shopping-callout-not-opted-in-reminder-open-button = Пікірлерді тексеру құралын ашу
 shopping-callout-not-opted-in-reminder-close-button = Тайдыру
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Келесіде көрсетпеу
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Үш өнім пікірінің абстрактты иллюстрациясы. Біреуінде оның сенімді болмауы мүмкін екенін көрсететін ескерту белгісі бар.
 shopping-callout-disabled-auto-open-button = Түсіндім
+shopping-callout-opted-out-title = Пікірлерді тексеру құралы сөндірулі тұр
 shopping-callout-opted-out-button = Түсіндім
 
 ## Onboarding message strings.
