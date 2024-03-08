@@ -10,6 +10,18 @@ contentanalysis-slow-agent-dialog-title = ਸਮੱਗਰੀ ਵਿਸ਼ਲੇ�
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = ਸਮੱਗਰੀ ਵਿਸ਼ਲੇਸ਼ਣ “{ $content }” ਸਰੋਤ ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ
+contentanalysis-slow-agent-dialog-header = ਸਕੈਨ ਕਰਨਾ ਜਾਰੀ ਹੈ
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਨੀਤੀਆਂ ਦੇ ਉਲਟ “{ $filename }” ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਨੂੰ ਕੁਝ ਪਲ਼ ਲੱਗ ਸਕਦੇ ਹਨ।
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } ਤੁਹਾਡੇ ਵਲੋਂ ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਨੀਤੀਆਂ ਦੇ ਉਲਟ ਚੇਪਣ ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਨੂੰ ਕੁਝ ਪਲ਼ ਲੱਗ ਸਕਦੇ ਹਨ।
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } ਤੁਹਾਡੇ ਵਲੋਂ ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਨੀਤੀਆਂ ਦੇ ਉਲਟ ਲਿਖਤ ਨੂੰ ਡਰੌਪ ਕਰਨ ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਨੂੰ ਕੁਝ ਪਲ਼ ਲੱਗ ਸਕਦੇ ਹਨ।
 contentanalysis-operationtype-clipboard = ਕਲਿੱਪਬੋਰਡ
 contentanalysis-operationtype-dropped-text = ਡਰੌਪ ਕੀਤੀ ਲਿਖਤ
 contentanalysis-warndialogtitle = ਇਹ ਸਮੱਗਰੀ ਅਸੁਰੱਖਿਅਤ ਹੋ ਸਕਦੀ ਹੈ
