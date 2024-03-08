@@ -227,6 +227,10 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Tifranin-ik•im n yiniten ttbeddilent arwes n usmel web. <a data-l10n-name="colors-link">Sefrek initen</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Tifranin-ik•im n yiniten ttbeddilent arwes n usmel web.
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Sefrek isental n { -brand-short-name } deg <a data-l10n-name="themes-link">yiseɣzaf & yisental</a>
