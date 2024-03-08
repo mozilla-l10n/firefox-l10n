@@ -25,7 +25,9 @@ update-applying = Instalē atjauninājumu…
 update-failed = Atjaunināšana neizdevās. <label data-l10n-name="failed-link">Lejupielādējiet jaunāko versiju</label>
 update-failed-main = Atjaunināšana neizdevās. <a data-l10n-name="failed-link-main">Lejupielādējiet jaunāko versiju</a>
 update-adminDisabled = Sistēmas administrators ir atspējojis atjauninājumus
+update-policy-disabled = Jūsu organizācija ir izslēgusi atjaunināšanu
 update-noUpdatesFound = { -brand-short-name } ir aktuāls
+aboutdialog-update-checking-failed = Neizdevās pārbaudīt, vai nav atjauninājumu.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tiek atjaunināts citā instancē
 
 ## Variables:
@@ -34,7 +36,8 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } tiek atjaunināts ci
 aboutdialog-update-manual-with-link = Atjauninājumi ir pieejami te<label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Atjauninājumi ir pieejami te<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Jūs nevarat veikt turpmākus šīs sistēmas atjauninājumus. <label data-l10n-name="unsupported-link">Uzziniet vairāk</label>
-update-restarting = Notiek pārstartēšana…
+update-restarting = Pārstartē…
+update-internal-error2 = Iekšējas kļūdas dēļ nevar pārbaudīt atjauninājumus. Atjauninājumi ir pieejami vietnē <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
