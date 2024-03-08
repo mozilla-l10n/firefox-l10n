@@ -151,6 +151,16 @@ webrtc-allow-share-camera-and-audio-capture = ¿Emoneĩ { $origin } oiporúvo ne
 webrtc-allow-share-screen-and-microphone = ¿Emoneĩ { $origin } oiporúvo ne ñe’ẽatãha ha ohecha nde mba’erechaha?
 webrtc-allow-share-screen-and-audio-capture = ¿Emoneĩ { $origin } ohendúvo mba’epu ko tendayképe ha ohecha ne mba’erechaha?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = ¿Emoneĩ ko marandurenda ohendúvo mba’epu ko tendayke pegua?
+webrtc-allow-share-camera-with-file = ¿Emoneĩ ko marandurenda oiporúvo ta’ãnganohẽha?
+webrtc-allow-share-microphone-with-file = ¿Emoneĩ ko marandurenda oiporúvo ñe’ẽatãha?
+webrtc-allow-share-screen-with-file = ¿Emoneĩ ko marandurenda ohechávo mba’erechaha?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = ¿Emoneĩ ko marandurenda oiporúvo ambue ñe’ẽatãha?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
