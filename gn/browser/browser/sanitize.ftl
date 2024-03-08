@@ -60,6 +60,12 @@ item-history-form-data-downloads =
 item-cookies =
     .label = Kookie
     .accesskey = K
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Kookie ha tenda mba’ekuaarã ({ $amount } { $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = Kookie ha tenda mba’ekuaarã
     .accesskey = e
@@ -70,6 +76,12 @@ item-active-logins =
 item-cache =
     .label = Kache
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Marandurenda ha kuatiarogue sapy’agua kachépe ({ $amount } { $unit })
+    .accesskey = f
 item-cached-content =
     .label = Marandurenda ha kuatiarogue sapy’agua kachépe
     .accesskey = f

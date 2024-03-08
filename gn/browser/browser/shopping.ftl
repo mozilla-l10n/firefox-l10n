@@ -174,10 +174,12 @@ shopping-callout-pdp-opted-in-subtitle = Embojuruja marandu’i rechajeyha ehech
 shopping-callout-closed-not-opted-in-title = Eikutu ereko hag̃ua hechajey jeroviaha
 shopping-callout-closed-not-opted-in-subtitle = Eiporu marandu’i rechajeyha ehecha vove mba’e repy ñesẽ. Eñemomarandu pya’e omba’ejoguávagui, nde ejogua mboyve.
 shopping-callout-closed-not-opted-in-revised-button = Aikũmby
+shopping-callout-not-opted-in-reminder-title = Ejogua jeroviápe
 shopping-callout-not-opted-in-reminder-open-button = Embojuruja marandu’i rechajeyha
 shopping-callout-not-opted-in-reminder-close-button = Mboyke
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Anive tosẽ
 shopping-callout-disabled-auto-open-button = Aikũmby
+shopping-callout-opted-out-title = Marandu’i rechajeyha oñembogue
 shopping-callout-opted-out-button = Aikũmby
 
 ## Onboarding message strings.
