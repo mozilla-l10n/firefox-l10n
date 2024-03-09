@@ -55,6 +55,14 @@ fxviewtabrow-move-tab-window = 새 창으로 이동
     .accesskey = W
 fxviewtabrow-send-tab = 탭을 기기로 보내기
     .accesskey = n
+fxviewtabrow-pin-tab = 탭 고정
+    .accesskey = P
+fxviewtabrow-unpin-tab = 탭 고정 해제
+    .accesskey = p
+fxviewtabrow-mute-tab = 탭 음소거
+    .accesskey = M
+fxviewtabrow-unmute-tab = 탭 음소거 해제
+    .accesskey = m
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
