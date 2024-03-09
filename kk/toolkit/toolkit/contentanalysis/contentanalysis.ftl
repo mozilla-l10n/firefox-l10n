@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } агенті сі�
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } агенті сіз әкеліп тастаған мәтіннің ұйымыңыздың деректер саясаттарына сәйкес болуына қарап жатыр. Бұл біраз уақыт алуы мүмкін.
 contentanalysis-operationtype-clipboard = алмасу буфері
 contentanalysis-operationtype-dropped-text = тасталған мәтін
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = "{ $filename }" жүктеп жіберу
 contentanalysis-warndialogtitle = Бұл мазмұн қауіпті болуы мүмкін
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = Сіздің ұйымыңыз мына мазм�
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Деректер жоғалуының алдын алу бағдарламалық қамтамамен байланысуда қате орын алды. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
+contentanalysis-inprogress-quit-title = { -brand-shorter-name } жұмысын аяқтау керек пе?
+contentanalysis-inprogress-quit-message = Бірнеше әрекет әлі орындалып жатыр. { -brand-shorter-name } жұмысын аяқтасаңыз, бұл әрекеттер аяқталмайтын болады.
+contentanalysis-inprogress-quit-yesbutton = Иә, шығу
