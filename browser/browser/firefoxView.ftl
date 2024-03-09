@@ -287,3 +287,4 @@ firefoxview-opentabs-bookmarked-pinned-tab =
 # This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
 firefoxview-opentabs-bookmarked-tab =
   .title = { $url } (nei segnalibri)
+
