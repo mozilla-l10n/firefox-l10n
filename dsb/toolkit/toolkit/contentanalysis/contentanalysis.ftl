@@ -41,3 +41,5 @@ contentanalysis-block-message = Waša organizacija software pśeśiwo tšuśeju 
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Pśi komunikaciji ze software pśeśiwo tšuśeju datow jo zmólka nastała. Pśenjasenje jo se wótpokazało za resursu: { $content }.
+contentanalysis-inprogress-quit-title = { -brand-shorter-name } spušćiś?
+contentanalysis-inprogress-quit-yesbutton = Jo, spušćiś

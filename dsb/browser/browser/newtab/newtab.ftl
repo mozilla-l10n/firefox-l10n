@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Pytnicu pśidaś
 newtab-topsites-add-shortcut-header = Nowe zwězanje
 newtab-topsites-edit-topsites-header = Nejcesćej woglědane sedło wobźěłaś
 newtab-topsites-edit-shortcut-header = Zwězanje wobźěłaś
+newtab-topsites-add-shortcut-label = Skrotconku pśidaś
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Titel zapódaś
