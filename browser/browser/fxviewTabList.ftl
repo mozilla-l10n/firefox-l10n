@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Avaa { $targetURI } uuteen välilehteen
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Sulje { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Hylkää { $tabTitle }
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Siirrä uuteen ikkunaan
     .accesskey = i
 fxviewtabrow-send-tab = Lähetä välilehti laitteeseen
     .accesskey = h
+fxviewtabrow-pin-tab = Kiinnitä välilehti
+    .accesskey = K
+fxviewtabrow-unpin-tab = Irrota välilehti
+    .accesskey = I
+fxviewtabrow-mute-tab = Vaimenna välilehti
+    .accesskey = M
+fxviewtabrow-unmute-tab = Palauta ääni
+    .accesskey = ä
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Poista mykistys { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Vaimenna välilehti
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Palauta ääni
