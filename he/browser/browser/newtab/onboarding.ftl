@@ -293,6 +293,7 @@ onboarding-device-migration-primary-button-label = כניסה
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = אנחנו אוהבים לשמור עליך
+onboarding-easy-setup-security-and-privacy-subtitle = הדפדפן שלנו שמגובה בקרן ללא מטרות רווח מסייע למנוע מחברות לעקוב אחריך בסתר ברחבי הרשת.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = להישאר מוצפן במעבר בין מכשירים
 onboarding-gratitude-security-and-privacy-subtitle = תודה לך על השימוש ב־{ -brand-short-name }ֿ, שפועל בגיבוי קרן Mozilla. עם התמיכה שלך, אנו פועלים כדי להפוך את האינטרנט לבטוח ונגיש יותר למען הכלל.
