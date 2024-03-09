@@ -12,6 +12,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -248,3 +250,17 @@ firefoxview-recentlyclosed-empty-description-two = Evit kavout ivinelloù koshoc
 
 firefoxview-syncedtabs-device-notabs = Ivinell digor ebet war an trevnad-mañ
 firefoxview-syncedtabs-connect-another-device = Kennaskañ un trevnad all
+firefoxview-pinned-tabs =
+    .title = Ivinelloù spilhennet
+firefoxview-tabs =
+    .title = Ivinelloù
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+

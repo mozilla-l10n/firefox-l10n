@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Digeriñ { $targetURI } en un ivinell nevez
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Serriñ { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Skarzhañ { $tabTitle }
@@ -51,6 +55,10 @@ fxviewtabrow-move-tab-window = Dilec'hiañ d'ur prenestr nevez
     .accesskey = n
 fxviewtabrow-send-tab = Kas an ivinell d'un trevnad
     .accesskey = K
+fxviewtabrow-pin-tab = Spilhennañ an ivinell
+    .accesskey = S
+fxviewtabrow-unpin-tab = Dispilhennañ an ivinell
+    .accesskey = D
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -59,3 +67,6 @@ fxviewtabrow-options-menu-button =
 #   $tabTitle (string) - Title of tab being muted
 fxviewtabrow-mute-tab-button =
     .title = Tennañ ar son eus { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
