@@ -253,3 +253,19 @@ firefoxview-recentlyclosed-empty-description-two = Aby starše rejtariki namaka�
 
 firefoxview-syncedtabs-device-notabs = Žedne rejtariki na toś tom rěźe wócynjone
 firefoxview-syncedtabs-connect-another-device = Z drugim rědom zwězaś
+firefoxview-pinned-tabs =
+    .title = Pśipěte rejtariki
+firefoxview-tabs =
+    .title = Rejtariki
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = K { $tabTitle } pśejś
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
