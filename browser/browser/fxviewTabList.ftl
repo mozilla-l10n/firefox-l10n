@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Адкрыць { $targetURI } у новай картцы
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Закрыць { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Закрыць { $tabTitle }
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Перанесці ў новае акно
     .accesskey = а
 fxviewtabrow-send-tab = Адправіць картку на прыладу
     .accesskey = т
+fxviewtabrow-pin-tab = Замацаваць картку
+    .accesskey = З
+fxviewtabrow-unpin-tab = Адмацаваць картку
+    .accesskey = д
+fxviewtabrow-mute-tab = Сцішыць картку
+    .accesskey = ь
+fxviewtabrow-unmute-tab = Раз-цішыць картку
+    .accesskey = ь
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Раз-цішыць { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Сцішыць картку
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Раз-цішыць картку
