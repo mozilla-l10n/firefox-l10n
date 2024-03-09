@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Aldoni serĉilon
 newtab-topsites-add-shortcut-header = Nova ŝparvojo
 newtab-topsites-edit-topsites-header = Redakti oftan retejon
 newtab-topsites-edit-shortcut-header = Redakti ŝparvojon
+newtab-topsites-add-shortcut-label = Aldoni ŝparvojon
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
     .placeholder = Tajpu titolon
@@ -194,6 +195,7 @@ newtab-section-header-recent-activity = Ĵusa agado
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Rekomendita de { $provider }
+newtab-section-header-stories = Pensigaj artikoloj
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -201,7 +203,9 @@ newtab-empty-section-highlights = Komencu retumi kaj ĉi tie ni montros al vi ke
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Vi legis ĉion. Kontrolu denove poste ĉu estas pli da novaĵon de { $provider }. Ĉu vi ne povas atendi? Elektu popularan temon por trovi pli da interesaj artikoloj en la tuta teksaĵo.
+newtab-empty-section-topstories = Vi legis ĉion. Kontrolu denove poste ĉu estas pli da novaĵoj de { $provider }. Ĉu vi ne povas atendi? Elektu popularan temon por trovi pli da interesaj artikoloj en la tuta teksaĵo.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Vi legis ĉion. Kontrolu denove poste ĉu estas pli da novaĵoj. Ĉu vi ne povas atendi? Elektu popularan temon por trovi pli da interesaj artikoloj en la tuta teksaĵo.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -257,6 +261,9 @@ newtab-custom-pocket-subtitle = Eksterordinara  enhavo reviziita de  { -pocket-b
 newtab-custom-pocket-toggle =
     .label = Rekomendita de { -pocket-brand-name }
     .description = Eksterordinara  enhavo reviziita de  { -pocket-brand-name }, parto de la familio { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Rekomenditaj artikoloj
+    .description = Eksterordinara enhavo elekita de la familio de { -brand-product-name }
 newtab-custom-pocket-sponsored = Patronitaj artikoloj
 newtab-custom-pocket-show-recent-saves = Montri ĵusajn konservojn
 newtab-custom-recent-title = Ĵusa agado
