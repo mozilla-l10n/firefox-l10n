@@ -45,3 +45,4 @@ contentanalysis-block-message = Ваша арганізацыя выкарыст
 contentanalysis-error-message = Здарылася памылка сувязі з праграмным забеспячэннем для прадухілення страты дадзеных. Адмоўлена ў перадачы для рэсурсу: { $content }.
 contentanalysis-inprogress-quit-title = Выйсці з { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Некалькі дзеянняў яшчэ ідуць. Калі вы выйдзеце з { -brand-shorter-name }, гэтыя дзеянні не будуць скончаны.
+contentanalysis-inprogress-quit-yesbutton = Так, выйсці
