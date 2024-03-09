@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent }이(가) 조직의 
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent }이(가) 조직의 데이터 정책에 따라 사용자가 삭제한 텍스트를 분석 중입니다. 잠시 시간이 걸릴 수 있습니다.
 contentanalysis-operationtype-clipboard = 클립보드
 contentanalysis-operationtype-dropped-text = 드롭된 텍스트
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = “{ $filename }” 업로드
 contentanalysis-warndialogtitle = 이 콘텐츠는 안전하지 않을 수 있음
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = 사용자의 조직에서는 { $content } 콘텐
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = 데이터 손실 방지 소프트웨어와 통신하는 동안 오류가 발생했습니다. { $content } 리소스에 대한 전송이 거부되었습니다.
+contentanalysis-inprogress-quit-title = { -brand-shorter-name }를 종료하시겠습니까?
+contentanalysis-inprogress-quit-message = 여러 작업이 진행 중입니다. { -brand-shorter-name }를 종료하면 이러한 작업이 완료되지 않습니다.
+contentanalysis-inprogress-quit-yesbutton = 예, 종료
