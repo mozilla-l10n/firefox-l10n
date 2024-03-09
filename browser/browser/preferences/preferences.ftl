@@ -261,6 +261,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Pligrandigi nur tekston
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Averto: se vi elektas “Pligrandigi nur tekston” kaj via norma pligrandigo ne estas 100%, kelkaj retejoj aŭ enhavo povas misfunkcii.
 language-header = Lingvo
 choose-language-description = Elektu vian preferatan lingvon por retpaĝoj
 choose-button =
@@ -566,6 +568,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Rekomendita de { $provider }
 home-prefs-recommended-by-description-new = Eksterordinara  enhavo reviziita de { $provider }, parto de la familio { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Rekomenditaj artikoloj
+home-prefs-recommended-by-description-generic = Eksterordinara enhavo elektita de la familio de { -brand-product-name }
 
 ##
 

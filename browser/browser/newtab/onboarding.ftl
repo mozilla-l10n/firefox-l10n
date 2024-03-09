@@ -349,6 +349,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Dankon pro via elekto de { 
 onboarding-new-user-time-based-survey-title = Ekde kiam vi uzas { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = Kiel multe vi konas { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Viaj komentoj helas igi { -brand-short-name } eĉ pli bona.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Antaŭen
+onboarding-new-user-survey-legal-link-label = Se vi elektas “{ onboarding-new-user-survey-next-button-label }” vi akceptas la <a data-l10n-name="privacy_notice">politikon pri privateco de { -brand-product-name }</a>
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Mi estas novulo
 onboarding-new-user-survey-time-based-option-2 = Malpli ol monato
