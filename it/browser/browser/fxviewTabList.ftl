@@ -82,3 +82,4 @@ fxviewtabrow-mute-tab-button-no-context =
   .title = Disattiva audio nella scheda
 fxviewtabrow-unmute-tab-button-no-context =
   .title = Attiva audio nella scheda
+
