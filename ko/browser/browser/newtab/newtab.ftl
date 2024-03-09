@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = 검색 엔진 추가
 newtab-topsites-add-shortcut-header = 새 바로 가기
 newtab-topsites-edit-topsites-header = 상위 사이트 편집
 newtab-topsites-edit-shortcut-header = 바로 가기 편집
+newtab-topsites-add-shortcut-label = 바로 가기 추가
 newtab-topsites-title-label = 제목
 newtab-topsites-title-input =
     .placeholder = 제목 입력
