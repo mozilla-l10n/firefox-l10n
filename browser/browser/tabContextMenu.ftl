@@ -40,16 +40,16 @@ reload-tabs =
     .label = ਟੈਬਾਂ ਮੁੜ-ਲੋਡ ਕਰੋ
     .accesskey = R
 pin-tab =
-    .label = ਟੈਬ ਨੂੰ ਪਿੰਨ ਕਰੋ
+    .label = ਟੈਬ ਨੂੰ ਟੰਗੋ
     .accesskey = P
 unpin-tab =
-    .label = ਟੈਬ ਨੂੰ ਅਣ-ਪਿੰਨ ਕਰੋ
-    .accesskey = b
+    .label = ਟੈਬ ਨੂੰ ਲਾਹੋ
+    .accesskey = p
 pin-selected-tabs =
-    .label = ਟੈਬਾਂ ਟੰਗੋ
+    .label = ਟੈਬਾਂ ਨੂੰ ਟੰਗੋ
     .accesskey = P
 unpin-selected-tabs =
-    .label = ਟੈਬਾਂ ਲਾਹੋ
+    .label = ਟੈਬਾਂ ਨੂੰ ਲਾਹੋ
     .accesskey = p
 bookmark-selected-tabs =
     .label = …ਟੈਬਾਂ ਬੁੱਕਮਾਰਕ ਕਰੋ
@@ -101,7 +101,6 @@ tab-context-move-tabs =
            *[other] ਟੈਬਾਂ ਭੇਜੋ
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

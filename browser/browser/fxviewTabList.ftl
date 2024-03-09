@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = { $targetURI } ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = { $tabTitle } ਨੂੰ ਬੰਦ ਕਰੋ
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } ਖਾਰਜ ਕਰੋ
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਭੇਜੋ
     .accesskey = W
 fxviewtabrow-send-tab = ਟੈਬ ਨੂੰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ
     .accesskey = n
+fxviewtabrow-pin-tab = ਟੈਬ ਨੂੰ ਟੰਗੋ
+    .accesskey = P
+fxviewtabrow-unpin-tab = ਟੈਬ ਨੂੰ ਲਾਹੋ
+    .accesskey = p
+fxviewtabrow-mute-tab = ਟੈਬ ਨੂੰ ਮੌਨ ਕਰੋ
+    .accesskey = M
+fxviewtabrow-unmute-tab = ਟੈਬ ਨੂੰ ਅਣ-ਮੌਨ ਕਰੋ
+    .accesskey = m
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = { $tabTitle } ਅਣ-ਮੌਨ ਕਰੋ
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = ਟੈਬ ਨੂੰ ਮੌਨ ਕਰੋ
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = ਟੈਬ ਨੂੰ ਸੁਣਾਓ
