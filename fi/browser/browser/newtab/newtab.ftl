@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Lisää hakukone
 newtab-topsites-add-shortcut-header = Uusi oikotie
 newtab-topsites-edit-topsites-header = Muokkaa ykkössivustoa
 newtab-topsites-edit-shortcut-header = Muokkaa oikotietä
+newtab-topsites-add-shortcut-label = Lisää pikavalinta
 newtab-topsites-title-label = Otsikko
 newtab-topsites-title-input =
     .placeholder = Kirjoita otsikko
@@ -207,6 +208,8 @@ newtab-empty-section-highlights = Ala selata, niin tässä alkaa näkyä hyviä 
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ei enempää suosituksia juuri nyt. Katso myöhemmin uudestaan lisää ykkösjuttuja lähteestä { $provider }. Etkö malta odottaa? Valitse suosittu aihe ja löydä lisää hyviä juttuja ympäri verkkoa.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Ei enempää suosituksia juuri nyt. Katso myöhemmin uudestaan lisää juttuja. Etkö malta odottaa? Valitse suosittu aihe ja löydä lisää hyviä juttuja ympäri verkkoa.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -262,6 +265,9 @@ newtab-custom-pocket-subtitle = Poikkeuksellista, valikoitua sisältöä { -pock
 newtab-custom-pocket-toggle =
     .label = { -pocket-brand-name } suosittelee
     .description = Poikkeuksellista, valikoitua sisältöä { -pocket-brand-name }-palvelulta, osana { -brand-product-name }-perhettä
+newtab-custom-stories-toggle =
+    .label = Suositellut tarinat
+    .description = Poikkeuksellista { -brand-product-name }-perheen kuratoimaa sisältöä
 newtab-custom-pocket-sponsored = Sponsoroidut tarinat
 newtab-custom-pocket-show-recent-saves = Näytä viimeisimmät tallennukset
 newtab-custom-recent-title = Viimeisin toiminta

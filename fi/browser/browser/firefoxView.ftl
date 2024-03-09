@@ -251,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = Jos haluat etsiä välilehti�
 
 firefoxview-syncedtabs-device-notabs = Ei avoimia välilehtiä tällä laitteella
 firefoxview-syncedtabs-connect-another-device = Yhdistä toinen laite
+firefoxview-pinned-tabs =
+    .title = Kiinnitetyt välilehdet
+firefoxview-tabs =
+    .title = Välilehdet
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Vaihda välilehteen { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Vaihda välilehteen (kirjanmerkitty) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Kirjanmerkitty) { $url }
