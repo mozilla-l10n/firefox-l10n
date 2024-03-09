@@ -48,6 +48,8 @@ policy-CertificatesDescription = Aggiungi certificati o utilizza i certificati p
 
 policy-Cookies = Consenti o nega ai siti web di impostare cookie.
 
+policy-ContentAnalysis = Attiva o disattiva la connessione all’agente per la prevenzione della perdita di dati.
+
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Imposta criteri relativi alle schede contenitore.
 
