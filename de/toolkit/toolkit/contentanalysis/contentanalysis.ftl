@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } überprüft die Da
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } überprüft den von Ihnen gelöschten Text mit den Datenrichtlinien Ihrer Organisation. Dies kann einen Moment dauern.
 contentanalysis-operationtype-clipboard = Zwischenablage
 contentanalysis-operationtype-dropped-text = Hineingezogener Text
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = Upload von "{ $filename }"
 contentanalysis-warndialogtitle = Dieser Inhalt könnte nicht sicher sein
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = Ihre Organisation verwendet Data Loss Prevention
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Bei der Kommunikation mit der Data Loss Prevention Software ist ein Fehler aufgetreten. Übertragung verweigert für Ressource: { $content }.
+contentanalysis-inprogress-quit-title = { -brand-shorter-name } beenden?
+contentanalysis-inprogress-quit-message = Es werden gerade mehrere Aktionen ausgeführt. Wenn Sie { -brand-shorter-name } beenden, werden diese Aktionen nicht abgeschlossen.
+contentanalysis-inprogress-quit-yesbutton = Ja, beenden
