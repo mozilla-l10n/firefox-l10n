@@ -207,7 +207,6 @@ cfr-cbh-confirm-button = Argas banniel an toupinoù
     .accesskey = A
 cfr-cbh-dismiss-button = Ket bremañ
     .accesskey = K
-cookie-banner-blocker-cfr-header = { -brand-short-name } zo o paouez stankañ toupinoù evidoc'h
 cookie-banner-blocker-onboarding-learn-more = Gouzout hiroc’h
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
