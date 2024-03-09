@@ -200,6 +200,9 @@ media-cdm-capabilities = Kapabloj
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Neĉifrita komenco
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = Kongrua kun HDCP 2.2
 
 ##
 
@@ -279,6 +282,7 @@ try-newer-driver = Blokita por via versio de grafika pelilo. Klopodu ĝisdatigi 
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Agordoj de ClearType
 compositing = Komponado
+support-font-determination = Informoj por senerarigi videblecon de tiparoj
 hardware-h264 = Aparata malkodigo de H264
 main-thread-no-omtc = ĉefa fadeno, sen OMTC
 yes = Jes
