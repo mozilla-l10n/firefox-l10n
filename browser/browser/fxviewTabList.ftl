@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Mở { $targetURI } trong một thẻ mới
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Đóng { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Bỏ qua { $tabTitle }
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Di chuyển sang cửa sổ mới
     .accesskey = W
 fxviewtabrow-send-tab = Gửi thẻ đến thiết bị
     .accesskey = n
+fxviewtabrow-pin-tab = Ghim thẻ
+    .accesskey = P
+fxviewtabrow-unpin-tab = Bỏ ghim thẻ
+    .accesskey = p
+fxviewtabrow-mute-tab = Tắt tiếng thẻ
+    .accesskey = M
+fxviewtabrow-unmute-tab = Bỏ tắt tiếng thẻ
+    .accesskey = m
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Bỏ tắt tiếng { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Tắt tiếng thẻ
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Bỏ tắt tiếng thẻ

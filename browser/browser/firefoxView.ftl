@@ -247,3 +247,25 @@ firefoxview-recentlyclosed-empty-description-two = Để tìm các thẻ từ th
 
 firefoxview-syncedtabs-device-notabs = Không có thẻ đang mở trên thiết bị này
 firefoxview-syncedtabs-connect-another-device = Kết nối thiết bị khác
+firefoxview-pinned-tabs =
+    .title = Thẻ đã ghim
+firefoxview-tabs =
+    .title = Thẻ
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Chuyển sang { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Chuyển sang { $tabTitle } (Đã đánh dấu)
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Đã đánh dấu) { $url }
