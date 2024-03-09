@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Іздеу жүйесін қосу
 newtab-topsites-add-shortcut-header = Жаңа жарлық
 newtab-topsites-edit-topsites-header = Топ сайтын түзету
 newtab-topsites-edit-shortcut-header = Жарлықты түзету
+newtab-topsites-add-shortcut-label = Жарлықты қосу
 newtab-topsites-title-label = Атауы
 newtab-topsites-title-input =
     .placeholder = Атауын енгізіңіз
