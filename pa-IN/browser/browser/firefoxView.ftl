@@ -251,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = ਲੰਮਾ ਸਮਾਂ ਪ
 
 firefoxview-syncedtabs-device-notabs = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਕੋਈ ਟੈਬ ਨਹੀਂ ਖੁੱਲ੍ਹੀ ਹੈ
 firefoxview-syncedtabs-connect-another-device = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
+firefoxview-pinned-tabs =
+    .title = ਟੰਗੀਆਂ ਹੋਈਆਂ ਟੈਬਾਂ
+firefoxview-tabs =
+    .title = ਟੈਬਾਂ
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = { $tabTitle } ਉੱਤੇ ਜਾਓ
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = (ਬੁੱਕਮਾਰਕ ਕੀਤੀ) { $tabTitle } ਉੱਤੇ ਜਾਓ
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (ਬੁੱਕਮਾਰਕ ਕੀਤਾ) { $url }
