@@ -209,6 +209,8 @@ newtab-empty-section-highlights = Gå i gang med at browse, så vil vi vise dig 
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Der er ikke flere nye historier. Kom tilbage senere for at se flere tophistorier fra { $provider }. Kan du ikke vente? Vælg et populært emne og find flere spændende historier fra hele verden.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Der er ikke flere nye historier. Kom tilbage senere for at se flere. Kan du ikke vente? Vælg et populært emne og find flere spændende historier fra hele verden.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
