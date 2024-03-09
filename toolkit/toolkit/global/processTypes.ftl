@@ -8,28 +8,21 @@
 ##
 
 process-type-web = Web-indhold
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Priviligerede About-sider
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Priviligeret Mozilla-indhold
-
 process-type-extension = Udvidelse
-
 # process used to open file:// URLs
 process-type-file = Lokal fil
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Isoleret web-indhold
-
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = Isoleret Service Worker
-
 # process preallocated; may change to other types
 process-type-prealloc = Forhånds-allokeret
 
@@ -39,19 +32,22 @@ process-type-prealloc = Forhånds-allokeret
 
 process-type-default = Primær
 process-type-tab = Faneblad
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
-
 # process used to perform network operations
 process-type-socket = Socket
-
 # process used to decode media
 process-type-rdd = RDD
-
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Sandboxed IPC Actor
+process-type-utility-actor-audio-decoder-generic = Værktøj Generisk lyd-dekoder
+process-type-utility-actor-audio-decoder-applemedia = Værktøj AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Værktøj Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Værktøj Media Foundation Engine
+process-type-utility-actor-js-oracle = Værktøj JavaScript Oracle
+process-type-utility-actor-windows-utils = Værktøj Windows Utils
+process-type-utility-actor-windows-file-dialog = Værktøj Windows-fildialog
 
 ##
 ## Other
