@@ -12,6 +12,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -246,3 +248,17 @@ firefoxview-recentlyclosed-empty-description-two = Барои дидани ва�
 
 firefoxview-syncedtabs-device-notabs = Дар ин дастгоҳ ягон варақаи кушода нест
 firefoxview-syncedtabs-connect-another-device = Пайваст кардани дастгоҳи дигар
+firefoxview-tabs =
+    .title = Варақаҳо
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Гузариш ба { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
