@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } gennemgår, om det
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } undersøger, om teksten du har sluppet overholder din organisations data-politikker. Dette kan tage lidt tid.
 contentanalysis-operationtype-clipboard = udklipsholder
 contentanalysis-operationtype-dropped-text = sluppet tekst
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = upload af "{ $filename }"
 contentanalysis-warndialogtitle = Dette indhold kan være usikkert
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,5 @@ contentanalysis-block-message = Din organisation bruger værktøj til forhindrin
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = En fejl opstod i kommunikationen med værktøjet til forhindring af datatab. Overførsel blev nægtet for ressourcen { $content }.
+contentanalysis-inprogress-quit-title = Afslut { -brand-shorter-name }?
+contentanalysis-inprogress-quit-yesbutton = Ja, afslut
