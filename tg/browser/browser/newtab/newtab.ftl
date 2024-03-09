@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Илова кардани низом�
 newtab-topsites-add-shortcut-header = Миёнбури нав
 newtab-topsites-edit-topsites-header = Таҳрир кардани сомонаи беҳтарин
 newtab-topsites-edit-shortcut-header = Таҳрир кардани миёнбур
+newtab-topsites-add-shortcut-label = Илова кардани миёнбур
 newtab-topsites-title-label = Сарлавҳа
 newtab-topsites-title-input =
     .placeholder = Сарлавҳаро ворид намоед
@@ -196,6 +197,7 @@ newtab-section-header-recent-activity = Фаъолияти охирин
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Аз тарафи «{ $provider }» тавсия дода мешавад
+newtab-section-header-stories = Ҳикояҳои андешаангез
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
