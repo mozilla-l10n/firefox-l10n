@@ -41,3 +41,5 @@ contentanalysis-block-message = Waša organizacija software přećiwo straće da
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Při komunikaciji ze software přećiwo straće datow je zmylk nastał. Přenjesenje je so za resursu wotpokazało: { $content }.
+contentanalysis-inprogress-quit-title = { -brand-shorter-name } wopušćić?
+contentanalysis-inprogress-quit-yesbutton = Haj, wopušćić
