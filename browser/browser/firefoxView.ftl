@@ -251,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = 如需查找较早前关闭�
 
 firefoxview-syncedtabs-device-notabs = 此设备上没有打开的标签页
 firefoxview-syncedtabs-connect-another-device = 连接其他设备
+firefoxview-pinned-tabs =
+    .title = 固定的标签页
+firefoxview-tabs =
+    .title = 标签页
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = 切换到“{ $tabTitle }”
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = 切换到“{ $tabTitle }”（已加书签）
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = { $url }（已加书签）

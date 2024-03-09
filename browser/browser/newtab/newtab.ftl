@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = 添加搜索引擎
 newtab-topsites-add-shortcut-header = 新建快捷方式
 newtab-topsites-edit-topsites-header = 编辑常用网站
 newtab-topsites-edit-shortcut-header = 编辑快捷方式
+newtab-topsites-add-shortcut-label = 添加快捷方式
 newtab-topsites-title-label = 标题
 newtab-topsites-title-input =
     .placeholder = 输入标题
