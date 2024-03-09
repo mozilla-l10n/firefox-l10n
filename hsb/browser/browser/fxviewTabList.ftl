@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = { $targetURI } w nowym rajtarku wočinić
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = { $tabTitle } začinić
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } zaćisnyć
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Do noweho wokna přesunyć
     .accesskey = w
 fxviewtabrow-send-tab = Rajtark na grat pósłać
     .accesskey = t
+fxviewtabrow-pin-tab = Rajtark připinyć
+    .accesskey = R
+fxviewtabrow-unpin-tab = Rajtark wotpinyć
+    .accesskey = o
+fxviewtabrow-mute-tab = Rajtark zněmić
+    .accesskey = z
+fxviewtabrow-unmute-tab = Zněmjenje rajtarka anulować
+    .accesskey = m
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Zněmjenje { $tabTitle } zběhnyć
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Rajtark zněmić
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Zněmjenje rajtarka anulować
