@@ -78,3 +78,7 @@ fxviewtabrow-unmute-tab-button =
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = 탭 음소거
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = 탭 음소거 해제
