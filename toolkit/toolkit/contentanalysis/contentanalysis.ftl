@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } 正在確認您貼
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } 正在確認您放下的文字是否符合貴組織的資料政策，可能會需要一點時間。
 contentanalysis-operationtype-clipboard = 剪貼簿
 contentanalysis-operationtype-dropped-text = 已放下文字
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = 上傳「{ $filename }」
 contentanalysis-warndialogtitle = 此內容可能不安全
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = 您的組織所使用的資料外洩防護軟體
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = 與資料外洩防護軟體溝通時發生錯誤。對下列資源的傳輸遭拒：{ $content }。
+contentanalysis-inprogress-quit-title = 要離開 { -brand-shorter-name } 嗎？
+contentanalysis-inprogress-quit-message = 有幾項操作正在進行中，若您現在離開 { -brand-shorter-name }，將不會完成這些操作。
+contentanalysis-inprogress-quit-yesbutton = 對，離開
