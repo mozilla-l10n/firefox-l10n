@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } na zakłaźe datow
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } tekst, kótaryž sćo zasajźił, na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo. To wokognuśe trajo.
 contentanalysis-operationtype-clipboard = mjazywótkład
 contentanalysis-operationtype-dropped-text = pušćony tekst
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = Nagraśe “{ $filename }”
 contentanalysis-warndialogtitle = Toś to wopśimjeśe jo snaź njewěste
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
