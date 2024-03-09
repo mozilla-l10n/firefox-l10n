@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = פתיחת { $targetURI } בלשונית חדשה
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = סגירת { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = סגירת { $tabTitle }
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = העברה לחלון חדש
     .accesskey = ח
 fxviewtabrow-send-tab = שליחת לשונית למכשיר
     .accesskey = ש
+fxviewtabrow-pin-tab = נעיצת לשונית
+    .accesskey = נ
+fxviewtabrow-unpin-tab = ביטול נעיצת לשונית
+    .accesskey = ב
+fxviewtabrow-mute-tab = השתקת לשונית
+    .accesskey = ה
+fxviewtabrow-unmute-tab = ביטול השתקת לשונית
+    .accesskey = ט
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = ביטול השתקת הלשונית { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = השתקת לשונית
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = ביטול השתקת לשונית

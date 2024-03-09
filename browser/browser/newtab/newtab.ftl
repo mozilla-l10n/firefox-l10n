@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = הוספת מנוע חיפוש
 newtab-topsites-add-shortcut-header = קיצור דרך חדש
 newtab-topsites-edit-topsites-header = עריכת אתר מוביל
 newtab-topsites-edit-shortcut-header = עריכת קיצור דרך
+newtab-topsites-add-shortcut-label = הוספת קיצור דרך
 newtab-topsites-title-label = כותרת
 newtab-topsites-title-input =
     .placeholder = נא להזין כותרת
