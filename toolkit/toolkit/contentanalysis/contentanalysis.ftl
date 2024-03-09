@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } 正在审核您粘
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } 正在审核您拖放的文本是否符合您组织的数据策略，这可能需要一些时间。
 contentanalysis-operationtype-clipboard = 剪贴板
 contentanalysis-operationtype-dropped-text = 拖放的文本
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = 上传“{ $filename }”
 contentanalysis-warndialogtitle = 此内容可能不安全
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = 您的组织使用的数据丢失防护软件拦
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = 与数据丢失防护软件通信时发生错误。对以下资源的传输被拒绝：{ $content }。
+contentanalysis-inprogress-quit-title = 确定退出 { -brand-shorter-name } 吗？
+contentanalysis-inprogress-quit-message = 有几项操作正在进行。若退出 { -brand-shorter-name }，这些操作将无法完成。
+contentanalysis-inprogress-quit-yesbutton = 是，退出
