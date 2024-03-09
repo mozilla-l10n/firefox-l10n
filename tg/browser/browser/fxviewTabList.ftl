@@ -51,6 +51,14 @@ fxviewtabrow-move-tab-window = Гузоштан ба равзанаи нав
     .accesskey = Р
 fxviewtabrow-send-tab = Фиристодани варақа ба дастгоҳ
     .accesskey = Ф
+fxviewtabrow-pin-tab = Васл кардани варақа
+    .accesskey = В
+fxviewtabrow-unpin-tab = Ҷудо кардани варақа
+    .accesskey = Ҷ
+fxviewtabrow-mute-tab = Хомӯш кардани садо дар варақа
+    .accesskey = Х
+fxviewtabrow-unmute-tab = Фаъол кардани садо дар варақа
+    .accesskey = Ф
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +71,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Фаъол кардани садои «{ $tabTitle }»
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Хомӯш кардани садо дар варақа
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Фаъол кардани садо дар варақа
