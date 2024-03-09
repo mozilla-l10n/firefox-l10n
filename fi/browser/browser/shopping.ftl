@@ -93,6 +93,19 @@ shopping-settings-recommendations-toggle =
     .label = Näytä mainoksia arvostelujen tarkistimessa
 shopping-settings-opt-out-button = Poista arvostelujen tarkistus käytöstä
 powered-by-fakespot = Arvostelujen tarkistuksen mahdollistaa <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Avaa arvostelujen tarkistus automaattisesti
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Kun katselet tuotteita sivustoilla { $firstSite }, { $secondSite } ja { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Kun katselet tuotteita sivustolla { $currentSite }
+shopping-settings-sidebar-enabled-state = Arvostelujen tarkistus on <strong>päällä</strong>
 
 ## Strings for the adjusted rating component
 
@@ -170,9 +183,22 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Palaa <strong>arvostelujen tarkistukseen</strong> aina, kun näet hintalappukuvakkeen.
 shopping-callout-pdp-opted-in-title = Ovatko nämä arvostelut luotettavia? Ota selvää nopeasti.
 shopping-callout-closed-not-opted-in-title = Luotettavat arvostelut yhdellä napsautuksella
+shopping-callout-closed-not-opted-in-revised-title = Luotettavat arvostelut yhdellä napsautuksella
+shopping-callout-closed-not-opted-in-revised-subtitle = Napsauta hintalappukuvaketta osoitepalkissa päästäksesi takaisin arvostelujen tarkistukseen.
+shopping-callout-closed-not-opted-in-revised-button = Selvä
+shopping-callout-not-opted-in-reminder-title = Tee ostoksia luottavaisin mielin
+shopping-callout-not-opted-in-reminder-open-button = Avaa arvostelujen tarkistus
+shopping-callout-not-opted-in-reminder-close-button = Hylkää
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Älä kysy uudestaan
+shopping-callout-disabled-auto-open-title = Arvostelujen tarkistus on nyt oletuksena suljettu
+shopping-callout-disabled-auto-open-subtitle = Napsauta osoitepalkissa olevaa hintalappukuvaketta aina, kun haluat nähdä, voitko luottaa tuotteen arvosteluihin.
+shopping-callout-disabled-auto-open-button = Selvä
+shopping-callout-opted-out-title = Arvostelujen tarkistus on pois päältä
+shopping-callout-opted-out-subtitle = Ota se takaisin käyttöön napsauttamalla hintalappukuvaketta osoitepalkissa ja seuraamalla ohjeita.
+shopping-callout-opted-out-button = Selvä
 
 ## Onboarding message strings.
 
