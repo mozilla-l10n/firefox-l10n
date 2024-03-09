@@ -247,3 +247,25 @@ firefoxview-recentlyclosed-empty-description-two = 오래 전 탭을 찾으려�
 
 firefoxview-syncedtabs-device-notabs = 이 기기에 열린 탭 없음
 firefoxview-syncedtabs-connect-another-device = 다른 기기 연결
+firefoxview-pinned-tabs =
+    .title = 고정된 탭
+firefoxview-tabs =
+    .title = 탭
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = { $tabTitle } 탭으로 전환
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = (북마크됨) { $tabTitle } 탭으로 전환
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (북마크됨) { $url }
