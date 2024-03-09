@@ -262,8 +262,14 @@ firefoxview-tabs =
 
 firefoxview-opentabs-pinned-tab =
     .title = Skift til { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Skift til { $tabTitle } (gemt som bogmærke)
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = { $url } (gemt som bogmærke)
