@@ -251,3 +251,19 @@ firefoxview-recentlyclosed-empty-description-two = Одан да бұрыңғы 
 
 firefoxview-syncedtabs-device-notabs = Бұл құрылғыда ашық беттер жоқ
 firefoxview-syncedtabs-connect-another-device = Басқа құрылғыны байланыстыру
+firefoxview-pinned-tabs =
+    .title = Бекітілген беттер
+firefoxview-tabs =
+    .title = Беттер
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = { $tabTitle } бетіне ауысу
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
