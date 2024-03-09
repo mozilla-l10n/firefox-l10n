@@ -192,6 +192,7 @@ shopping-callout-closed-not-opted-in-subtitle = Prøv verificering af anmeldelse
 shopping-callout-closed-not-opted-in-revised-title = Pålidelige anmeldelser med et enkelt klik
 shopping-callout-closed-not-opted-in-revised-subtitle = Klik på ikonet med prismærket i adresselinjen for at komme tilbage til Verificering af anmeldelser.
 shopping-callout-closed-not-opted-in-revised-button = Forstået
+shopping-callout-not-opted-in-reminder-title = Vær tryg når du handler
 shopping-callout-not-opted-in-reminder-subtitle = Er du i tvivl, om anmeldelser af et produkter er rigtige eller forfalskede? Verificering af anmeldelser fra { -brand-product-name } kan hjælpe dig.
 shopping-callout-not-opted-in-reminder-open-button = Åbn Verificering af anmeldelser
 shopping-callout-not-opted-in-reminder-close-button = Afvis
