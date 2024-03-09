@@ -251,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = Visa din <a data-l10n-name="h
 
 firefoxview-syncedtabs-device-notabs = Inga flikar öppna på den här enheten
 firefoxview-syncedtabs-connect-another-device = Anslut en annan enhet
+firefoxview-pinned-tabs =
+    .title = Fästa flikar
+firefoxview-tabs =
+    .title = Flikar
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Växla till { $tabName }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Växla till (bokmärkt) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Bokmärkt) { $url }

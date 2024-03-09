@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Lägg till sökmotor
 newtab-topsites-add-shortcut-header = Ny genväg
 newtab-topsites-edit-topsites-header = Redigera mest besökta
 newtab-topsites-edit-shortcut-header = Redigera genväg
+newtab-topsites-add-shortcut-label = Lägg till genväg
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Ange en titel
