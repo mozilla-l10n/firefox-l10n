@@ -564,9 +564,17 @@ search-suggestions-desc = Alege felul în care apar sugestiile motoarelor de că
 search-suggestions-option =
     .label = Furnizează sugestii de căutare
     .accesskey = s
+search-show-suggestions-option =
+    .label = Afișează sugestiile de căutare
+    .accesskey = S
 search-show-suggestions-url-bar-option =
     .label = Afișează sugestiile de căutare în rezultatele din bara de adresă
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Afișează termenii de căutare în loc de URL pe pagina rezultatelor motorului de căutare implicit
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -678,12 +686,14 @@ prefs-syncing-button =
 
 ## The list of things currently syncing.
 
+sync-syncing-across-devices-heading = Sincronizezi aceste elemente pe toate dispozitivele tale conectate:
 sync-currently-syncing-bookmarks = Marcaje
 sync-currently-syncing-history = Istoric
 sync-currently-syncing-tabs = File deschise
 sync-currently-syncing-logins-passwords = Date de autentificare și parole
 sync-currently-syncing-addresses = Adrese
 sync-currently-syncing-creditcards = Carduri de credit
+sync-currently-syncing-payment-methods = Metode de plată
 sync-currently-syncing-addons = Suplimente
 sync-currently-syncing-settings = Setări
 sync-change-options =
@@ -699,6 +709,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Deconectează-te…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Modificările aduse listei elementelor de sincronizat se vor reflecta pe toate dispozitivele tale conectate.
 sync-engine-bookmarks =
     .label = Marcaje
     .accesskey = M
@@ -721,6 +732,10 @@ sync-engine-creditcards =
     .label = Carduri de credit
     .tooltiptext = Nume, numere și date de expirare (doar desktop)
     .accesskey = c
+sync-engine-payment-methods2 =
+    .label = Metode de plată
+    .tooltiptext = Nume, numere ale cardurilor și date ale expirării
+    .accesskey = n
 sync-engine-addons =
     .label = Suplimente
     .tooltiptext = Extensii și teme pentru Firefox desktop
@@ -824,6 +839,12 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+autofill-payment-methods-checkbox-message = Salvează și completează metodele de plată
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Include carduri de credit și de debit
+    .accesskey = I
+autofill-saved-payment-methods-button = Metode de plată salvate
+    .accesskey = v
 
 ## Privacy Section - History
 

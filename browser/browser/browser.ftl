@@ -421,6 +421,12 @@ urlbar-result-action-search-tabs = Caută file
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = Sugestii { $engine }
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Acțiuni rapide
@@ -658,6 +664,9 @@ tabs-toolbar-list-all-tabs =
     .tooltiptext = Listează toate filele
 
 ## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
