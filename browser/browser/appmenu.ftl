@@ -77,6 +77,17 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Wyświetl więcej kart
     .tooltiptext = Wyświetl więcej kart z tego urządzenia
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Wyświetl nieaktywną kartę
+            [few] Wyświetl { $count } nieaktywne karty
+           *[many] Wyświetl { $count } nieaktywnych kart
+        }
+    .tooltiptext = Wyświetl nieaktywne karty na tym urządzeniu
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Brak otwartych kart
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -168,6 +179,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Zalecane ustawienie do debugowania większości aplikacji internetowych o niskim wpływie na wydajność.
 profiler-popup-presets-web-developer-label =
     .label = Dla twórców witryn
@@ -257,3 +273,13 @@ appmenu-developer-tools-extensions =
     .label = Rozszerzenia dla twórców witryn
 appmenuitem-report-broken-site =
     .label = Zgłoś niepoprawnie działającą stronę
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Zaloguj się na konto
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Otrzymuj powiadomienia o wyciekach danych
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Zamaskuj swój prawdziwy adres e-mail i telefon
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Chroń swoje działania w Internecie
