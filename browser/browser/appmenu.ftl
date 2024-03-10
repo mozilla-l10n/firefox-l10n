@@ -279,5 +279,6 @@ appmenuitem-sign-in-account = Logg inn på kontoen din
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få varsler om datalekkasjer
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Skjul din ekte e-postadresse og ditt telefonnummer
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Beskytt din nettaktivitet

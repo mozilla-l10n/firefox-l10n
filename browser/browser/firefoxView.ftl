@@ -251,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = For å finne faner fra for le
 
 firefoxview-syncedtabs-device-notabs = Ingen faner åpne på denne enheten
 firefoxview-syncedtabs-connect-another-device = Koble til en annen enhet
+firefoxview-pinned-tabs =
+    .title = Festede faner
+firefoxview-tabs =
+    .title = Faner
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Bytt til { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Bytt til (bokmerket) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Bokmerket) { $url }
