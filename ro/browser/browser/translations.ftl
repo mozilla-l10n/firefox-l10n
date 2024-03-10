@@ -27,6 +27,8 @@ translations-panel-settings-always-translate-language =
     .label = Tradu întotdeauna { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Tradu întotdeauna această limbă
+translations-panel-settings-always-offer-translation =
+    .label = Oferă întotdeauna traducerea
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -101,12 +103,6 @@ translations-manage-description = Descarcă limbi pentru traducere offline.
 translations-manage-all-language = Toate limbile
 translations-manage-download-button = Descarcă
 translations-manage-delete-button = Șterge
-translations-manage-language-download-button =
-    .label = Descarcă
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = Șterge
-    .accesskey = e
 translations-manage-error-download = A apărut o problemă la descărcarea fișierelor lingvistice. Te rugăm să încerci din nou.
 translations-manage-error-delete = A apărut o problemă la ștergerea fișierelor lingvistice. Te rugăm să încerci din nou.
 translations-manage-error-list = Nu s-a putut obține lista de limbi disponibile pentru traducere. Reîmprospătează pagina pentru a încerca din nou.
