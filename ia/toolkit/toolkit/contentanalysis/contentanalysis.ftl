@@ -13,6 +13,8 @@ contentanalysis-slow-agent-dialog-body = Le analyse de contento analysa le resso
 contentanalysis-slow-agent-dialog-header = Scansion in curso
 contentanalysis-operationtype-clipboard = area de transferentia
 contentanalysis-operationtype-dropped-text = texto deponite
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = cargamento de “{ $filename }”
 contentanalysis-warndialogtitle = Iste contento pote esser non secur
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -30,3 +32,5 @@ contentanalysis-block-message = Tu organisation usa un software de prevention de
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Un error occurreva communicante con le software de prevention del perdita de datos. Transferentia denegate pro le ressource: { $content }.
+contentanalysis-inprogress-quit-title = Quitar { -brand-shorter-name }?
+contentanalysis-inprogress-quit-yesbutton = Si, quitar
