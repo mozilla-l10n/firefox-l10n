@@ -264,6 +264,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Powiększaj tylko tekst
     .accesskey = P
+preferences-text-zoom-override-warning =
+    .message = Ostrzeżenie: zaznaczenie opcji „Powiększaj tylko tekst” i ustawienie domyślnego powiększenia na inną wartość niż 100% może spowodować niepoprawne działanie niektórych stron.
 language-header = Język
 choose-language-description = Wybierz preferowany język, w jakim mają być wyświetlane strony
 choose-button =
@@ -569,6 +571,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Polecane przez { $provider }
 home-prefs-recommended-by-description-new = Wyjątkowe rzeczy wybrane przez { $provider }, część rodziny { -brand-product-name(case: "gen") }.
+home-prefs-recommended-by-header-generic =
+    .label = Polecane artykuły
+home-prefs-recommended-by-description-generic = Wyjątkowe rzeczy wybrane przez rodzinę { -brand-product-name(case: "gen") }
 
 ##
 
