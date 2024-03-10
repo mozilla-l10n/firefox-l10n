@@ -57,6 +57,10 @@ fxviewtabrow-send-tab = Sekmeyi cihaza gönder
     .accesskey = c
 fxviewtabrow-pin-tab = Sekmeyi sabitle
     .accesskey = S
+fxviewtabrow-mute-tab = Sekmenin sesini kapat
+    .accesskey = m
+fxviewtabrow-unmute-tab = Sekmenin sesini aç
+    .accesskey = m
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -72,3 +76,7 @@ fxviewtabrow-unmute-tab-button =
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Sekmenin sesini kapat
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Sekmenin sesini aç
