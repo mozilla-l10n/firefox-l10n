@@ -25,7 +25,7 @@ update-applying = Instalowanie aktualizacji…
 update-failed = Aktualizacja się nie powiodła. <label data-l10n-name="failed-link">Pobierz najnowszą wersję</label>.
 update-failed-main = Aktualizacja się nie powiodła. <a data-l10n-name="failed-link-main">Pobierz najnowszą wersję</a>.
 update-adminDisabled = Aktualizacje zablokowane przez administratora komputera.
-update-policy-disabled = Aktualizacje zablokowane przez organizację komputera.
+update-policy-disabled = Aktualizacje zablokowane przez Twoją organizację.
 update-noUpdatesFound = { -brand-short-name } jest aktualny.
 aboutdialog-update-checking-failed = Sprawdzenie dostępności aktualizacji się nie powiodło.
 update-otherInstanceHandlingUpdates = Inna instancja właśnie aktualizuje program { -brand-short-name }.
