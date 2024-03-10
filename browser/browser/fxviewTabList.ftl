@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Vierç { $targetURI } intune gnove schede
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Siere { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Scarte { $tabTitle }
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Sposte suntun gnûf barcon
     .accesskey = u
 fxviewtabrow-send-tab = Invie schede a dispositîf
     .accesskey = n
+fxviewtabrow-pin-tab = Fisse la schede
+    .accesskey = F
+fxviewtabrow-unpin-tab = Mole la schede
+    .accesskey = M
+fxviewtabrow-mute-tab = Cidine la schede
+    .accesskey = C
+fxviewtabrow-unmute-tab = Ative audio de schede
+    .accesskey = A
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Ative audio su { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Cidine la schede
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Ative audio de schede

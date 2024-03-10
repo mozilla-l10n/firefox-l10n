@@ -251,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = Par cjatâ schedis sieradis d
 
 firefoxview-syncedtabs-device-notabs = Nissune schede vierte in chest dispositîf
 firefoxview-syncedtabs-connect-another-device = Conet un altri dispositîf
+firefoxview-pinned-tabs =
+    .title = Schedis fissadis
+firefoxview-tabs =
+    .title = Schedis
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Passe a { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Passe a (tai segnelibris) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Tai segnelibris) { $url }
