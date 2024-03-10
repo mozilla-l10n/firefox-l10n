@@ -178,6 +178,7 @@ shopping-callout-closed-not-opted-in-title = Un clic pro recensiones fidabile
 shopping-callout-closed-not-opted-in-subtitle = Prova le verificator de recension quandocunque tu vide le etiquetta del precio. Obtene discernimentos ab real compratores facilemente, ante que tu compra.
 shopping-callout-closed-not-opted-in-revised-title = Un clic pro recensiones fidibile
 shopping-callout-closed-not-opted-in-revised-button = Comprendite
+shopping-callout-not-opted-in-reminder-title = Compra con confidentia
 shopping-callout-not-opted-in-reminder-open-button = Aperir Verificator de recension
 shopping-callout-not-opted-in-reminder-close-button = Dimitter
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Non plus monstrar.
