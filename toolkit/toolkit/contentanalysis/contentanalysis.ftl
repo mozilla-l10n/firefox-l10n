@@ -44,3 +44,5 @@ contentanalysis-block-message = Via organizo uzas programon kiuj evitas perdon d
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Eraro okazis dum komunikado kun la programo kiu evitas perdon de datumoj. Transporto rifuzita por rimedo: { $content }.
 contentanalysis-inprogress-quit-title = Ĉu fini { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Pluraj agoj ankoraŭ progresas. Se vi finas { -brand-shorter-name }, tiuj agoj ne estos plenumitaj.
+contentanalysis-inprogress-quit-yesbutton = Jes, fini
