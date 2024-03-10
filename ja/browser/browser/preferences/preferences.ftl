@@ -249,6 +249,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = 文字サイズのみ変更
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = 警告: [文字サイズのみ変更] を選択し、既定のズームが 100% でない場合、一部のサイトやコンテンツが正しく表示されない可能性があります。
 language-header = 言語
 choose-language-description = ウェブページの表示に使用する言語の優先順位を設定できます。
 choose-button =
@@ -554,6 +556,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } のおすすめ
 home-prefs-recommended-by-description-new = { -brand-product-name } ファミリーを構成する { $provider } が厳選した注目のコンテンツ
+home-prefs-recommended-by-header-generic =
+    .label = おすすめのストーリー
+home-prefs-recommended-by-description-generic = { -brand-product-name } ファミリーに選ばれた優良コンテンツ
 
 ##
 
@@ -1121,9 +1126,6 @@ content-blocking-fingerprinters = フィンガープリント採取
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = 既知および疑わしいフィンガープリント採取
-
-# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
-
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = 包括的 Cookie 保護機能により現在のサイトへの Cookie が制限されているため、トラッカーはサイトを横断してあなたを追跡する Cookie を利用できません。
