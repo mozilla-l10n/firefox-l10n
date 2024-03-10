@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Abrir { $targetURI } num novo separador
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Fechar { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Ignorar { $tabTitle }
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Mover para Nova Janela
     .accesskey = J
 fxviewtabrow-send-tab = Enviar Separador para Dispositivo
     .accesskey = n
+fxviewtabrow-pin-tab = Fixar separador
+    .accesskey = F
+fxviewtabrow-unpin-tab = Desafixar separador
+    .accesskey = D
+fxviewtabrow-mute-tab = Silenciar som do separador
+    .accesskey = S
+fxviewtabrow-unmute-tab = Ativar som do separador
+    .accesskey = A
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Ativar o som de { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Silenciar som do separador
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Ativar som do separador
