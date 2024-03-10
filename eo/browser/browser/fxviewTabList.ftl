@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Malfermi { $targetURI } en nova langeto
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Fermi { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Ignori { $tabTitle }
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Movi al nova fenestro
     .accesskey = f
 fxviewtabrow-send-tab = Sendi langeton al aparato
     .accesskey = a
+fxviewtabrow-pin-tab = Alpingli langeton
+    .accesskey = A
+fxviewtabrow-unpin-tab = Depingli langeton
+    .accesskey = D
+fxviewtabrow-mute-tab = Silentigi langeton
+    .accesskey = S
+fxviewtabrow-unmute-tab = Malsilentigi langeton
+    .accesskey = M
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Malsilentigi { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Silentigi langeton
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Malsilentigi langeton
