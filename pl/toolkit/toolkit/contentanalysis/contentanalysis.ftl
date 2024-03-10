@@ -44,3 +44,5 @@ contentanalysis-block-message = Twoja organizacja korzysta z oprogramowania zap
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Wystąpił błąd podczas komunikacji z oprogramowaniem zapobiegającym utracie danych. Odmowa przesłania zasobu: { $content }.
 contentanalysis-inprogress-quit-title = Czy zakończyć { -brand-shorter-name(case: "acc") }?
+contentanalysis-inprogress-quit-message = Trwa kilka działań. Zakończenie { -brand-shorter-name(case: "gen") } spowoduje ich nieukończenie.
+contentanalysis-inprogress-quit-yesbutton = Tak, zakończ
