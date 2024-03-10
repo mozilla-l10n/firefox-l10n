@@ -253,3 +253,25 @@ firefoxview-recentlyclosed-empty-description-two = Ak chcete nájsť karty z min
 
 firefoxview-syncedtabs-device-notabs = Na tomto zariadení nie sú otvorené žiadne karty
 firefoxview-syncedtabs-connect-another-device = Pripojiť ďalšie zariadenie
+firefoxview-pinned-tabs =
+    .title = Pripnuté karty
+firefoxview-tabs =
+    .title = Karty
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Prepnúť na kartu { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Prepnúť na záložku { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Uložená ako záložka) { $url }

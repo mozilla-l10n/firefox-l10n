@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Otvoriť { $targetURI } na novej karte
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Zavrieť kartu { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Odstrániť { $tabTitle } zo zoznamu
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Presunúť do nového okna
     .accesskey = r
 fxviewtabrow-send-tab = Odoslať kartu do zariadenia
     .accesskey = O
+fxviewtabrow-pin-tab = Pripnúť kartu
+    .accesskey = r
+fxviewtabrow-unpin-tab = Zrušiť pripnutie karty
+    .accesskey = r
+fxviewtabrow-mute-tab = Stlmiť zvuk na karte
+    .accesskey = z
+fxviewtabrow-unmute-tab = Zapnúť zvuk na karte
+    .accesskey = Z
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Zapnúť zvuk pre { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Stlmiť zvuk na tejto karte
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Zapnúť zvuk na tejto karte
