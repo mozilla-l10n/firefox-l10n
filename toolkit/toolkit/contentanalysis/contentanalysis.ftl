@@ -41,3 +41,5 @@ contentanalysis-block-message = Ваша організація використ
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Під час зв'язку з програмним забезпеченням для запобігання втрати даних сталася помилка. Передавання заборонено для ресурсу: { $content }.
+contentanalysis-inprogress-quit-title = Вийти з { -brand-shorter-name }?
+contentanalysis-inprogress-quit-yesbutton = Так, вийти
