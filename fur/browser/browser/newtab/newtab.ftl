@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Zonte motôr di ricercje
 newtab-topsites-add-shortcut-header = Gnove scurte
 newtab-topsites-edit-topsites-header = Modifiche sît principâl
 newtab-topsites-edit-shortcut-header = Modifiche scurte
+newtab-topsites-add-shortcut-label = Zonte scurte
 newtab-topsites-title-label = Titul
 newtab-topsites-title-input =
     .placeholder = Inserìs un titul
