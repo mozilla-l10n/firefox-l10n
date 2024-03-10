@@ -349,6 +349,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Dziękujemy za używanie { 
 onboarding-new-user-time-based-survey-title = Jak długo używasz { -brand-short-name(case: "gen") }?
 onboarding-new-user-familiarity-based-survey-title = Jak dobrze znasz { -brand-short-name(case: "acc") }?
 onboarding-new-user-survey-subtitle = Twoja opinia pomoże nam jeszcze bardziej ulepszyć { -brand-short-name(case: "acc") }.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Dalej
+onboarding-new-user-survey-legal-link-label = Klikając „{ onboarding-new-user-survey-next-button-label }” wyrażasz zgodę na <a data-l10n-name="privacy_notice">zasady ochrony prywatności</a> { -brand-product-name(case: "gen") }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Dopiero zaczynam
 onboarding-new-user-survey-time-based-option-2 = Mniej niż miesiąc
