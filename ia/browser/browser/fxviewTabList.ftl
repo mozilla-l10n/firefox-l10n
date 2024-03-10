@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Aperir { $targetURI } in un nove scheda
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Clauder { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Dismitter { $tabTitle }
@@ -51,6 +55,12 @@ fxviewtabrow-move-tab-window = Displaciar a nove fenestra
     .accesskey = f
 fxviewtabrow-send-tab = Inviar scheda a un apparato
     .accesskey = n
+fxviewtabrow-pin-tab = Appuncta scheda
+    .accesskey = A
+fxviewtabrow-mute-tab = Silentiar scheda
+    .accesskey = S
+fxviewtabrow-unmute-tab = Non plus silentiar le scheda
+    .accesskey = N
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +73,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Reactivar audio { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Silentiar scheda
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Non plus silentiar scheda
