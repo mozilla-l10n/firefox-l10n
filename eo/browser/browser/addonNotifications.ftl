@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Tiu ĉi aliro ne estas nepre
 ##
 
 xpinstall-disabled-locked = Instalado de programoj estas malebligata de via sistema administranto.
+xpinstall-disabled-by-policy = Instalado de programoj estis malebligita de via organizo.
 xpinstall-disabled = Instalado de programoj estas nuntempe neebla. Alklaku sur ebligi kaj klopodu denove.
 xpinstall-disabled-button =
     .label = Ebligi
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) estis blokita de via sistema administranto.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Via sistema administranto ne permesis al tiu ĉi retejo peti al vi la rajton instali programon en via komputilo.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) estas blokita de via organizo.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Via organizo ne permesis al tiu ĉi retejo peti al vi la rajton instali programon en via komputilo.
 addon-install-full-screen-blocked = La instalo de aldonaĵoj ne estas permesata en plenekrana reĝimo, aŭ antaŭ ol eniri ĝin.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
