@@ -12,6 +12,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -51,6 +53,7 @@ firefoxview-syncedtabs-loading-header = Nuntempe spegulanta
 firefoxview-syncedtabs-loading-description = Kiam tio finiĝos, vi vidos langetojn, kiuj etas malfermitaj en aliaj aparatoj. Rekontrolu baldaŭ.
 firefoxview-tabpickup-fxa-admin-disabled-header = Via organizo malaktivigis la speguladon
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne povas speguli langetojn inter aparatoj ĉar via administranto malaktivigis la speguladon.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne povas speguli langetojn inter aparatoj ĉar via organizo malaktivigis la speguladon.
 firefoxview-tabpickup-network-offline-header = Kontrolu vian retaliron
 firefoxview-tabpickup-network-offline-description = Se vi uzas retbarilon aŭ retperanton, kontrolu ĉu { -brand-short-name } rajtas aliri la reton.
 firefoxview-tabpickup-network-offline-primarybutton = Klopodi denove
@@ -184,6 +187,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Neniu rezulto por “{ $query }”
 firefoxview-sort-history-by-date-label = Ordigi laŭ dato
 firefoxview-sort-history-by-site-label = Ordigi laŭ retejo
+firefoxview-sort-open-tabs-by-recency-label = Ordigi laŭ ĵusa aktiveco
+firefoxview-sort-open-tabs-by-order-label = Ordigi laŭ la ordo de langetoj
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -246,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = Por trovi pli malnovajn lange
 
 firefoxview-syncedtabs-device-notabs = Nenlu langeto malfermita en tiu ĉi aparato
 firefoxview-syncedtabs-connect-another-device = Konekti alian aparaton
+firefoxview-pinned-tabs =
+    .title = Alpinglitaj langetoj
+firefoxview-tabs =
+    .title = Langetoj
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Iri al { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Iri al (legosigno) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Legosigno) { $url }
