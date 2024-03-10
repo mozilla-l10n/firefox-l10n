@@ -66,6 +66,7 @@ migration-favorites-option-label = Favorite
 migration-logins-and-passwords-option-label = Date de autentificare și parole salvate
 migration-history-option-label = Istoric de navigare
 migration-form-autofill-option-label = Date de completare automată a formularelor
+migration-payment-methods-option-label = Metode de plată
 migration-passwords-from-file-progress-header = Importă fișier cu parole
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -101,10 +102,13 @@ migration-list-favorites-label = favorite
 migration-list-password-label = parole
 migration-list-history-label = istoric
 migration-list-autofill-label = date de completare automată
+migration-list-payment-methods-label = metode de plată
 
 ##
 
 migration-wizard-progress-header = Importarea de date
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Date importate cu succes
 migration-wizard-progress-icon-in-progress =
     .aria-label = Se importă…
@@ -170,6 +174,17 @@ migration-wizard-progress-success-history =
        *[other] Din ultimele { $maxAgeInDays } de zile
     }
 migration-wizard-progress-success-formdata = Istoric al formularelor
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } metodă de plată
+        [few] { $quantity } metode de plată
+       *[other] { $quantity } de metode de plată
+    }
 migration-wizard-safari-permissions-sub-header = Pentru a importa marcaje și istoric de navigare din Safari:
 migration-wizard-safari-instructions-continue = Selectează „Continuă”
 migration-wizard-safari-instructions-folder = Selectează dosarul Safari din listă și alege „Deschide”

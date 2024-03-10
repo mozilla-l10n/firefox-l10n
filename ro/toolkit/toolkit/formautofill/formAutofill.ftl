@@ -14,6 +14,8 @@ autofill-options-link-osx = Preferințe de completare automată a formularelor
 
 # Used on the doorhanger when an credit card change is detected.
 
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = Gestionează metodele de plată
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
