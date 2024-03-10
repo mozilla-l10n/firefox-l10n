@@ -190,6 +190,13 @@ shopping-callout-pdp-opted-in-subtitle = Malfermi la kontrolilon de recenzoj por
 shopping-callout-closed-not-opted-in-title = Unu alklako por havi fidindajn recenzojn
 shopping-callout-closed-not-opted-in-subtitle = Provu la kontrolilon de recenzoj kiam ajn vi vidas etikedon kun prezo. Rapide konu impresojn kaj informojn el veraj aĉetintoj, antaŭ ol aĉeti.
 shopping-callout-closed-not-opted-in-revised-title = Unu alklako por havi fidindajn recenzojn
+shopping-callout-closed-not-opted-in-revised-subtitle = Simpla alklako sur la emblemo de etikedo preza en la adresa strio reiros al la kontrolilo de recenzoj.
+shopping-callout-closed-not-opted-in-revised-button = Mi komprenis
+shopping-callout-not-opted-in-reminder-title = Aĉetumu senzorge
+shopping-callout-not-opted-in-reminder-subtitle = Ĉu vi ne certas ĉu recenzoj de produkto estas veraj aŭ malveraj? La kontrolilo de recenzoj de { -brand-product-name } povas helpi.
+shopping-callout-not-opted-in-reminder-open-button = Malfermi la kontrolilon de recenzoj
+shopping-callout-not-opted-in-reminder-close-button = Ignori
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne montri denove
 
 ## Onboarding message strings.
 
