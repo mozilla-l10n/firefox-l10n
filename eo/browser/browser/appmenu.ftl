@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Montri pli da langetoj
     .tooltiptext = Montri pli da langetoj el tiu ĉi aparato
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Montri unu neaktivan langeton
+           *[other] Montri { $count } neaktivajn langetojn
+        }
+    .tooltiptext = Montri la neaktivajn langetojn en tiu ĉi aparato
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Neniu spegulita langeto
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -168,6 +178,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Rekomendita agordaro por la senerarigo de la plimulto de teksaĵaj programoj, kun malmulte da aldona kromprocezado.
 profiler-popup-presets-web-developer-label =
     .label = Teksaĵa programisto
@@ -257,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = Etendaĵoj por programistoj
 appmenuitem-report-broken-site =
     .label = Raporti ne bone funkciantan retejon
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Komenci seancon per via konto
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Ricevu atentigojn pri datumfuĝoj
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Maski vian veran retpoŝton kaj telefonnumeron
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Protektu vian retumon

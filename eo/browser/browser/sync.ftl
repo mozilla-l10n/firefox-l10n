@@ -33,3 +33,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Sendi langeton tuj al iu ajn aparato, en kiu vi komencis seancon.
 fxa-menu-sign-out =
     .label = Fini seancon…
+fxa-menu-sync-title = Spegulado
+fxa-menu-sync-description = Aliri viajn retejojn el ie ajn

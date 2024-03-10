@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Kvalito de recenzoj taks
 shopping-message-bar-page-not-supported =
     .heading = Ni ne povas kontroli tiujn recenzojn
     .message = Bedaŭrinde ni ne povas kontroli la kvaliton de la recenzoj por kelkaj tipoj de produktoj. Ekzemple por donackartoj, retaj elsendoj, reta muziko kaj ludoj.
+shopping-message-bar-keep-closed-header =
+    .heading = Ĉu teni ĝin fermita?
+    .message = Vi povas ŝanĝi viajn agortojn por ke la kontrolilo de recenzoj estu norme fermita. Ĝi nun aŭtomate malfermiĝas.
+shopping-message-bar-keep-closed-dismiss-button = Ne, dankon
+shopping-message-bar-keep-closed-accept-button = Jes, teni ĝîn fermita
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = De tempo al tempo vi vidos reklamojn pri elstaraj produktoj. Ni nur reklamas produktojn kun fidindaj recenzoj. <a data-l10n-name="review-quality-url">Pli da informo</a>
 shopping-settings-opt-out-button = Malŝalti la kontrolilon de recenzoj
 powered-by-fakespot = La kontrolilo de recenzoj funkcias danke al <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>
+shopping-settings-auto-open-toggle =
+    .label = Aŭtomate malfermi la kontrolilon de recenzoj
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Kiam vi vidas produktojn en { $firstSite }, { $secondSite } kaj { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Kiam vi vidas produktojn en { $currentSite }
+shopping-settings-sidebar-enabled-state = La kontrolilo de recenzoj estas <strong>ŝaltita</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,7 @@ shopping-callout-pdp-opted-in-title = Ĉu tiuj ĉi recenzoj estas fidindaj? Rapi
 shopping-callout-pdp-opted-in-subtitle = Malfermi la kontrolilon de recenzoj por vidi alĝustigitan taksadon, post forigo de nefidindaj recenzoj. Cetere vidu elstaraĵojn el ĵusaj aŭtentikaj recenzoj.
 shopping-callout-closed-not-opted-in-title = Unu alklako por havi fidindajn recenzojn
 shopping-callout-closed-not-opted-in-subtitle = Provu la kontrolilon de recenzoj kiam ajn vi vidas etikedon kun prezo. Rapide konu impresojn kaj informojn el veraj aĉetintoj, antaŭ ol aĉeti.
+shopping-callout-closed-not-opted-in-revised-title = Unu alklako por havi fidindajn recenzojn
 
 ## Onboarding message strings.
 
@@ -186,7 +205,6 @@ shopping-onboarding-dynamic-subtitle-1 = Vidu kiel fidindaj estas la recenzoj en
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Vidu kiel fidindaj estas la rezenzoj en <b>{ $currentSite }</b> antaŭ ol aĉeti. La kontrolilo de recenzoj, eksperimenta trajto de { -brand-product-name }, estas integrita en la retumilo.
 shopping-onboarding-body = Danke al la povo de { -fakespot-brand-full-name } ni helpas vin eviti neobjektivajn kaj malverajn recenzojn. Nia modelo de artefarita intelekto konstante pliboniĝas por protekti vin dum vi aĉetumas. <a data-l10n-name="learn_more">Pli da informo</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Se vi elektas “{ shopping-onboarding-opt-in-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> kaj <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Se vi elektas “{ shopping-onboarding-opt-in-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> de { -brand-product-name } kaj la <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Jes, provi ĝin
 shopping-onboarding-not-now-button = Ne nun
