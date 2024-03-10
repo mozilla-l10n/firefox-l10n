@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } er að yfirfara þ
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } er að yfirfara textann sem þú slepptir saman við gagnastefnur stofnunarinnar þinnar. Þetta gæti tekið dálitla stund.
 contentanalysis-operationtype-clipboard = klippispjald
 contentanalysis-operationtype-dropped-text = slepptur texti
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = innsending á „{ $filename }“
 contentanalysis-warndialogtitle = Þetta efni gæti verið óöruggt
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = Stofnunin þín notar hugbúnað til að koma í
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Villa kom upp í samskiptum við hugbúnaðinn sem kemur í veg fyrir gagnatap. Flutningi er hafnað fyrir tilfang: { $content }.
+contentanalysis-inprogress-quit-title = Hætta í { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Nokkrar aðgerðir eru í gangi. Ef þú hættir í { -brand-shorter-name } verða þessar aðgerðir ekki kláraðar.
+contentanalysis-inprogress-quit-yesbutton = Já, hætta

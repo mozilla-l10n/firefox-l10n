@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Bæta við leitarvél
 newtab-topsites-add-shortcut-header = Nýr flýtilykill
 newtab-topsites-edit-topsites-header = Breyta toppsíðu
 newtab-topsites-edit-shortcut-header = Breyta flýtilykli
+newtab-topsites-add-shortcut-label = Bæta við flýtileið
 newtab-topsites-title-label = Titill
 newtab-topsites-title-input =
     .placeholder = Sláðu inn titil
