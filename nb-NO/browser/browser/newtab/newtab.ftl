@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Legg til søkemotor
 newtab-topsites-add-shortcut-header = Ny snarvei
 newtab-topsites-edit-topsites-header = Rediger toppsted
 newtab-topsites-edit-shortcut-header = Rediger snarvei
+newtab-topsites-add-shortcut-label = Legg til snarvei
 newtab-topsites-title-label = Tittel
 newtab-topsites-title-input =
     .placeholder = Oppgi en tittel
