@@ -261,7 +261,7 @@ firefoxview-tabs =
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
 firefoxview-opentabs-pinned-tab =
-    .title = Växla till { $tabName }
+    .title = Växla till { $tabTitle }
 # This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
 firefoxview-opentabs-bookmarked-pinned-tab =
     .title = Växla till (bokmärkt) { $tabTitle }
