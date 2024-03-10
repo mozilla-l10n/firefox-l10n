@@ -12,6 +12,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -51,6 +53,7 @@ firefoxview-syncedtabs-loading-header = Trwa synchronizacja
 firefoxview-syncedtabs-loading-description = Po ukończeniu zobaczysz tutaj wszystkie karty otwarte na innych urządzeniach. Wróć niedługo.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organizacja wyłączyła synchronizację
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nie może synchronizować kart między urządzeniami, ponieważ administrator komputera wyłączył synchronizację.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nie może synchronizować kart między urządzeniami, ponieważ organizacja wyłączyła synchronizację.
 firefoxview-tabpickup-network-offline-header = Sprawdź połączenie z Internetem
 firefoxview-tabpickup-network-offline-description = Jeśli używasz zapory sieciowej lub serwera proxy, upewnij się, że { -brand-short-name } może łączyć się z Internetem.
 firefoxview-tabpickup-network-offline-primarybutton = Spróbuj ponownie
@@ -185,6 +188,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Brak wyników dla „{ $query }”
 firefoxview-sort-history-by-date-label = Sortuj według dat
 firefoxview-sort-history-by-site-label = Sortuj według witryn
+firefoxview-sort-open-tabs-by-recency-label = Sortuj według ostatniej aktywności
+firefoxview-sort-open-tabs-by-order-label = Sortuj według kolejności kart
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -247,3 +252,25 @@ firefoxview-recentlyclosed-empty-description-two = Karty sprzed dłuższego czas
 
 firefoxview-syncedtabs-device-notabs = Nie ma kart otwartych na tym urządzeniu
 firefoxview-syncedtabs-connect-another-device = Połącz inne urządzenie
+firefoxview-pinned-tabs =
+    .title = Przypięte karty
+firefoxview-tabs =
+    .title = Karty
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Przełącz na kartę „{ $tabTitle }”
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Przełącz na kartę „{ $tabTitle }” (z zakładką)
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = { $url } (z zakładką)
