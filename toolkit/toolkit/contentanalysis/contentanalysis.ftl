@@ -11,8 +11,14 @@ contentanalysis-slow-agent-dialog-title = İçerik analizi devam ediyor
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = İçerik analizi aracı “{ $content }” kaynağını analiz ediyor
 contentanalysis-slow-agent-dialog-header = Tarama devam ediyor
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent }, sürükleyip bıraktığınız metni kuruluşunuzun veri ilkelerine göre inceliyor. Bu işlem birkaç saniye sürebilir.
 contentanalysis-operationtype-clipboard = pano
 contentanalysis-operationtype-dropped-text = sürüklenip bırakılan metin
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = “{ $filename }” yüklemesi
 contentanalysis-warndialogtitle = Bu içerik güvensiz olabilir
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -30,4 +36,6 @@ contentanalysis-block-message = Kuruluşunuzun kullandığı veri kaybı önleme
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Veri kaybı önleme yazılımıyla iletişim sırasında bir hata oluştu. Şu kaynak için aktarım reddedildi: { $content }.
+contentanalysis-inprogress-quit-title = { -brand-shorter-name } uygulamasından çıkılsın mı?
+contentanalysis-inprogress-quit-message = Devam eden birkaç işlem var. { -brand-shorter-name } uygulamasından çıkarsanız bu işlemler tamamlanmayacaktır.
 contentanalysis-inprogress-quit-yesbutton = Evet, çık

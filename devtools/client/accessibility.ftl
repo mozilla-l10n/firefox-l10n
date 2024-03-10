@@ -44,7 +44,7 @@ accessibility-text-label-issue-embed = Gömülü içerikler etiketlenmeli. <a>Da
 accessibility-text-label-issue-figure = İsteğe bağlı caption'ları olan figürler etiketlenmelidir. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-fieldset = <code>fieldset</code> elemanları etiketlenmelidir. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-fieldset-legend2 = <span>fieldset</span> elemanlarını etiketlemek için <code>legend</code> elemanını kullanın. <a>Daha fazla bilgi alın</a>
-accessibility-text-label-issue-form = From elemanları etiketlenmeli. <a>Daha fazla bilgi alın</a>
+accessibility-text-label-issue-form = Form elemanları etiketlenmeli. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-form-visible = Form elemanlarının görünür metin etiketleri olmalı. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-frame = <code>frame</code> elemanları etiketlenmeli. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-glyph = <span>mglyph</span> elemanlarını etiketlemek için <code>alt</code> özniteliğini kullanın. <a>Daha fazla bilgi alın</a>
@@ -54,7 +54,7 @@ accessibility-text-label-issue-iframe = <span>iframe</span> içeriğini tanımla
 accessibility-text-label-issue-image = Resimli içerikler etiketlenmelidir. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-interactive = Etkileşimli elemanlar etiketlenmelidir. <a>Daha fazla bilgi alın</a>
 accessibility-text-label-issue-optgroup-label2 = <span>optgroup</span> elemanlarını etiketlemek için <code>label</code> özniteliğini kullanın. <a>Daha fazla bilgi alın</a>
-accessibility-text-label-issue-toolbar = birden fazla araç çubuğu varsa araç çubukları etiketlenmeli. <a>Daha fazla bilgi alın</a>
+accessibility-text-label-issue-toolbar = Birden fazla araç çubuğu varsa araç çubukları etiketlenmeli. <a>Daha fazla bilgi alın</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
