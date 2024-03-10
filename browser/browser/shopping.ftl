@@ -197,6 +197,14 @@ shopping-callout-not-opted-in-reminder-subtitle = Ĉu vi ne certas ĉu recenzoj 
 shopping-callout-not-opted-in-reminder-open-button = Malfermi la kontrolilon de recenzoj
 shopping-callout-not-opted-in-reminder-close-button = Ignori
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Ne montri denove
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstrakta bildigo de tri recenzoj de produkto, el kiuj unu havas avertan emblemon kiu montras ĝian eblan nefidindecon.
+shopping-callout-disabled-auto-open-title = La kontrolilo de recenzoj estas nur norme fermita
+shopping-callout-disabled-auto-open-subtitle = Por scii ĉu la recenzoj de produkto estas fidindaj alkalku la emblemon de etikedo preza en la adresa strio.
+shopping-callout-disabled-auto-open-button = Mi komprenis
+shopping-callout-opted-out-title = La kontrolilo de recenzoj estas norme fermita
+shopping-callout-opted-out-subtitle = Por ŝalti ĝin denove alklaku la emblemon de etikedo preza en la adresa strio kaj sekvu la instrukciojn.
+shopping-callout-opted-out-button = Mi komprenis
 
 ## Onboarding message strings.
 
