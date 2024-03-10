@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Opna { $targetURI } í nýjum flipa
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Loka { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Afgreiða { $tabTitle }
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Færa yfir í nýjan glugga
     .accesskey = g
 fxviewtabrow-send-tab = Senda flipa á tæki
     .accesskey = n
+fxviewtabrow-pin-tab = Festa flipa
+    .accesskey = p
+fxviewtabrow-unpin-tab = Losa flipa
+    .accesskey = p
+fxviewtabrow-mute-tab = Slökkva á hljóði í flipa
+    .accesskey = k
+fxviewtabrow-unmute-tab = Kveikja á hljóði í flipa
+    .accesskey = K
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Afþagga { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Slökkva á hljóði í flipa
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Kveikja á hljóði í flipa

@@ -251,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = Til að finna flipa sem lengr
 
 firefoxview-syncedtabs-device-notabs = Engir flipar opnir á þessu tæki
 firefoxview-syncedtabs-connect-another-device = Tengja annað tæki
+firefoxview-pinned-tabs =
+    .title = Festir flipar
+firefoxview-tabs =
+    .title = Flipar
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Skipta yfir á { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Skipta yfir á (bókamerktan) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Bókamerkt) { $url }
