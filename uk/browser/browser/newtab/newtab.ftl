@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Додати засіб пошуку
 newtab-topsites-add-shortcut-header = Новий ярлик
 newtab-topsites-edit-topsites-header = Редагувати популярний сайт
 newtab-topsites-edit-shortcut-header = Редагувати ярлик
+newtab-topsites-add-shortcut-label = Додати ярлик
 newtab-topsites-title-label = Заголовок
 newtab-topsites-title-input =
     .placeholder = Введіть назву
