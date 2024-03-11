@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } перевіряє
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } перевіряє ваш текст на відповідність політиці вашої організації щодо даних. Це може зайняти деякий час.
 contentanalysis-operationtype-clipboard = буфер обміну
 contentanalysis-operationtype-dropped-text = пропущений текст
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = вивантаження “{ $filename }”
 contentanalysis-warndialogtitle = Цей вміст може бути небезпечним
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -42,4 +44,5 @@ contentanalysis-block-message = Ваша організація використ
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Під час зв'язку з програмним забезпеченням для запобігання втрати даних сталася помилка. Передавання заборонено для ресурсу: { $content }.
 contentanalysis-inprogress-quit-title = Вийти з { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Триває виконання кількох дій. Якщо ви вийдете з { -brand-shorter-name }, вони не будуть завершені.
 contentanalysis-inprogress-quit-yesbutton = Так, вийти
