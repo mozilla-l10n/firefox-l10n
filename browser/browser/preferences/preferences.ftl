@@ -316,6 +316,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Pouze velikost textu
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Varování: Pokud zvolíte „Pouze velikost textu“ a vaše výchozí velikost není nastavena na 100%, může to způsobit chybné fungování některých stránek nebo obsahu.
 language-header = Jazyk
 choose-language-description = Vyberte jazyky pro zobrazování webových stránek
 choose-button =
@@ -675,6 +677,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Výjimečný obsah vybraný společností { $provider }, která je součástí rodiny { -brand-product-name(case: "gen") }
 home-prefs-recommended-by-header-generic =
     .label = Doporučené příběhy
+home-prefs-recommended-by-description-generic = Výjimečný obsah od rodiny { -brand-product-name }
 
 ##
 
