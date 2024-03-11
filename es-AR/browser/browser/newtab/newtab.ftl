@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Agregar buscador
 newtab-topsites-add-shortcut-header = Nuevo atajo
 newtab-topsites-edit-topsites-header = Editar sitio más visitado
 newtab-topsites-edit-shortcut-header = Editar acceso directo
+newtab-topsites-add-shortcut-label = Agregar atajo
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Ingresar un título

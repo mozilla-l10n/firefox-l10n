@@ -41,3 +41,6 @@ contentanalysis-block-message = Su organización utiliza software de prevención
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Ocurrió un error al comunicarse con el software de prevención de pérdida de datos. Transferencia denegada para el recurso: { $content }.
+contentanalysis-inprogress-quit-title = ¿Salir de { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Hay varias acciones en curso. Si sale de { -brand-shorter-name }, estas acciones no se completarán.
+contentanalysis-inprogress-quit-yesbutton = Sí, salir
