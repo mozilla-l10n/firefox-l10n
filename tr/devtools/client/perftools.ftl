@@ -105,7 +105,7 @@ perftools-thread-jvm-pool =
 
 perftools-record-all-registered-threads = Yukarıdaki seçimleri atla ve tüm kayıtlı iş parçacıklarını kaydet
 perftools-tools-threads-input-label =
-    .title = Bu iş parçacığı adları, profilleyicide profili çıkarılacak iş parçacıklarının virgülle ayrılmış listesidir. İş parçacığı adının dahil edilmesi için kısmi eşleşme olması yeterlidir. Adlar boşluk karakterine duyarlıdır.
+    .title = Bu iş parçacığı adları, profiler’da profili çıkarılacak iş parçacıklarının virgülle ayrılmış listesidir. İş parçacığı adının dahil edilmesi için kısmi eşleşme olması yeterlidir. Adlar boşluk karakterine duyarlıdır.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.

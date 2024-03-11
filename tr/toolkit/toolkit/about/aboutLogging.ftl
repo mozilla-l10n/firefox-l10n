@@ -64,8 +64,8 @@ about-logging-error = Hata:
 
 about-logging-invalid-output = “{ $k }“ anahtarı için geçersiz “{ $v }“ değeri
 about-logging-unknown-logging-preset = Bilinmeyen log kaydı ön ayarı “{ $v }“
-about-logging-unknown-profiler-preset = Bilinmeyen profilleyici ön ayarı “{ $v }“
+about-logging-unknown-profiler-preset = Bilinmeyen profiler ön ayarı “{ $v }“
 about-logging-unknown-option = Bilinmeyen about:logging seçeneği “{ $k }“
 about-logging-configuration-url-ignored = Yapılandırma URL’si yok sayıldı
-about-logging-file-and-profiler-override = Aynı anda dosya çıktısı zorlanamaz ve profilleyici seçenekleri geçersiz kılınamaz
+about-logging-file-and-profiler-override = Aynı anda dosya çıktısı zorlanamaz ve profiler seçenekleri geçersiz kılınamaz
 about-logging-configured-via-url = Seçenek URL aracılığıyla yapılandırıldı
