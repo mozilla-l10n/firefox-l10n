@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Zoekmachine toevoegen
 newtab-topsites-add-shortcut-header = Nieuwe snelkoppeling
 newtab-topsites-edit-topsites-header = Topwebsite bewerken
 newtab-topsites-edit-shortcut-header = Snelkoppeling bewerken
+newtab-topsites-add-shortcut-label = Snelkoppeling toevoegen
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Voer een titel in

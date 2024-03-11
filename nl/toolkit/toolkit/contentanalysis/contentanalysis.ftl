@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } toetst wat u hebt 
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } toetst uw geplakte tekst aan het gegevensbeleid van uw organisatie. Dit kan even duren.
 contentanalysis-operationtype-clipboard = klembord
 contentanalysis-operationtype-dropped-text = geplakte tekst
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = upload van ‘{ $filename }’
 contentanalysis-warndialogtitle = Deze inhoud is mogelijk onveilig
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = Uw organisatie gebruikt software voor het voorko
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Er is een fout opgetreden bij de communicatie met de software voor het voorkomen van gegevensverlies. Overdracht geweigerd voor bron: { $content }.
+contentanalysis-inprogress-quit-title = { -brand-shorter-name } afsluiten?
+contentanalysis-inprogress-quit-message = Er zijn diverse acties in uitvoering. Als u { -brand-shorter-name } afsluit, worden deze acties niet voltooid.
+contentanalysis-inprogress-quit-yesbutton = Ja, afsluiten

@@ -251,3 +251,22 @@ firefoxview-recentlyclosed-empty-description-two = Bekijk uw <a data-l10n-name="
 
 firefoxview-syncedtabs-device-notabs = Er zijn geen tabbladen geopend op dit apparaat
 firefoxview-syncedtabs-connect-another-device = Een ander apparaat verbinden
+firefoxview-pinned-tabs =
+    .title = Vastgemaakte tabbladen
+firefoxview-tabs =
+    .title = Tabbladen
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Wisselen naar { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Wisselen naar (bladwijzer) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
