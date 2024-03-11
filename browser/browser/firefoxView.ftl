@@ -251,6 +251,8 @@ firefoxview-recentlyclosed-empty-description-two = Para buscar pestañas de hace
 
 firefoxview-syncedtabs-device-notabs = No hay pestañas abiertas en este dispositivo
 firefoxview-syncedtabs-connect-another-device = Conectar otro dispositivo
+firefoxview-pinned-tabs =
+    .title = Pestañas pegadas
 firefoxview-tabs =
     .title = Pestañas
 

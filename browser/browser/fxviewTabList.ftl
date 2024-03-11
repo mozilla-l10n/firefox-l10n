@@ -55,6 +55,14 @@ fxviewtabrow-move-tab-window = Mover a una nueva ventana
     .accesskey = u
 fxviewtabrow-send-tab = Enviar la pestaña a un dispositivo
     .accesskey = n
+fxviewtabrow-pin-tab = Pegar pestaña
+    .accesskey = P
+fxviewtabrow-unpin-tab = Despegar pestaña
+    .accesskey = p
+fxviewtabrow-mute-tab = Enmudecer pestaña
+    .accesskey = m
+fxviewtabrow-unmute-tab = Desenmudecer pestaña
+    .accesskey = m
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -70,3 +78,7 @@ fxviewtabrow-unmute-tab-button =
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Enmudecer pestaña
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Desenmudecer pestaña
