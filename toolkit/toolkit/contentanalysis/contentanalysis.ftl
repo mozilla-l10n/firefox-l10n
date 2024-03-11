@@ -30,3 +30,6 @@ contentanalysis-block-message = Vaše organizace používá software pro prevenc
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Při komunikaci se softwarem pro prevenci ztráty dat došlo k chybě. Přenos byl pro tento zdroj zamítnut: { $content }.
+contentanalysis-inprogress-quit-title = Ukončit { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Probíhá několik akcí. Pokud ukončíte { -brand-shorter-name }, tyto akce nebudou dokončeny.
+contentanalysis-inprogress-quit-yesbutton = Ano, ukončit

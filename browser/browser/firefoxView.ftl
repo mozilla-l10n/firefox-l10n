@@ -12,6 +12,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -307,3 +309,25 @@ firefoxview-recentlyclosed-empty-description-two = Pokud chcete najít panely z 
 
 firefoxview-syncedtabs-device-notabs = Na tomto zařízení nejsou otevřeny žádné panely
 firefoxview-syncedtabs-connect-another-device = Připojit další zařízení
+firefoxview-pinned-tabs =
+    .title = Připnuté panely
+firefoxview-tabs =
+    .title = Panely
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Přepne na panel { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Přepne na panel { $tabTitle } ze záložek
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = Adresa { $url } ze záložek
