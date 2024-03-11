@@ -25,7 +25,7 @@ list-empty-recent-updates =
 list-empty-find-updates =
     .label = Güncellemeleri denetle
 list-empty-button =
-    .label = Eklentiler hakkında daha fazlasını öğrenin
+    .label = Eklentiler hakkında daha fazla bilgi alın
 help-button = Eklenti Desteği
 sidebar-help-button-title =
     .title = Eklenti Desteği
@@ -101,12 +101,14 @@ detail-show-preferences =
            *[other] Bu eklentinin tercihlerini değiştir
         }
 detail-rating =
-    .value = Beğeni
+    .value = Puan
 addon-restart-now =
     .label = Şimdi yeniden başlat
 disabled-unsigned-heading =
     .value = Bazı eklentiler etkisizleştirildi
-disabled-unsigned-description = Aşağıdaki eklentiler { -brand-short-name } üzerinde kullanılmak üzere doğrulanmamıştır. <label data-l10n-name="find-addons">Yerlerine başkalarını bulabilir</label> veya geliştiriciden eklentilerini doğrulamasını isteyebilirsiniz.
+disabled-unsigned-description =
+    Aşağıdaki eklentiler { -brand-short-name } üzerinde kullanılmak üzere doğrulanmamıştır.
+    <label data-l10n-name="find-addons">Yerlerine başka eklentiler bulabilir</label> veya geliştiriciden eklentilerini doğrulamasını isteyebilirsiniz.
 disabled-unsigned-learn-more = Sizi internette daha güvende tutma çabalarımız hakkında bilgi alın.
 disabled-unsigned-devinfo = Eklentilerini doğrulamak için isteyen geliştiriciler <label data-l10n-name="learn-more">rehberimizi</label> okuyabilir.
 plugin-deprecation-description = Bir şeyler mi eksik? Bazı yan uygulamalar artık { -brand-short-name } tarafından desteklenmiyor. <label data-l10n-name="learn-more">Daha fazla bilgi alın.</label>
