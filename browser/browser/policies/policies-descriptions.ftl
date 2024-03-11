@@ -21,6 +21,8 @@ policy-AppUpdatePin =
     }
 policy-AppUpdateURL = Nastavení vlastní URL pro aktualizace aplikace.
 policy-Authentication = Konfigurace integrované autentizace webových stránek, které ji podporují.
+policy-AutofillAddressEnabled = Povolí automatické doplňování adres.
+policy-AutofillCreditCardEnabled = Povolí automatické vyplňování metod platby.
 policy-AutoLaunchProtocolsFromOrigins = Seznam externích protokolů, které lze použít z uvedených originů bez varování uživatele.
 policy-BackgroundAppUpdate2 = Povolení nebo zákaz aktualizací na pozadí.
 policy-BlockAboutAddons = Zablokování přístupu do správce doplňků (about:addons).
