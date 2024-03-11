@@ -33,14 +33,12 @@ about-webrtc-aec-logging-toggled-off-state-msg = Yakalanan günlük dosyaları �
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Otomatik yenile
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Varsayılan olarak otomatik yenile
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Yenile
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
-about-webrtc-peerconnection-id-label = PeerConnection ID:
+about-webrtc-peerconnection-id-label = PeerConnection kimliği:
 # The number of DataChannels that a PeerConnection has opened
 about-webrtc-data-channels-opened-label = Açılan veri kanalları:
 # The number of once open DataChannels that a PeerConnection has closed
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = Sayfayı kaydet
 about-webrtc-debug-mode-msg-label = Hata ayıklama modu
 about-webrtc-debug-mode-off-state-label = Hata ayıklama modunu başlat
 about-webrtc-debug-mode-on-state-label = Hata ayıklama modunu durdur
-about-webrtc-enable-logging-label = WebRTC log ön ayarını etkinleştir
 about-webrtc-stats-heading = Oturum istatistikleri
+about-webrtc-enable-logging-label = WebRTC log ön ayarını etkinleştir
 about-webrtc-peerconnections-section-heading = RTCPeerConnection istatistikleri
 about-webrtc-peerconnections-section-show-msg = RTCPeerConnection istatistiklerini göster
 about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection istatistiklerini gizle

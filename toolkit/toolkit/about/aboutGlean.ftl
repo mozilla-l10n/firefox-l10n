@@ -55,15 +55,15 @@ about-glean-label-for-tag-pings-with-requirements = Ping'lerinizi daha sonra tan
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
-    Yandaki listeden enstrümantasyonunuzun bulunduğu ping'i seçin.
+    Yandaki listeden enstrümantasyonunuzun bulunduğu ping’i seçin.
     Eğer <a data-l10n-name="custom-ping-link">özel ping</a> içindeyse onu seçin.
     Aksi halde, <code>event</code> ölçümleri için varsayılan ping 
-    <code>events</code> ping'i 
+    <code>events</code> ping’i 
     ve diğer ölçümler için varsayılan ping 
-    <code>metrics</code> ping'idir.
+    <code>metrics</code> ping’idir.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
-    (İsteğe bağlı. Ping'ler gönderilince aynı zamanda günlüğe de kaydedilmesini istiyorsanız yandaki kutuyu işaretleyin.
+    (İsteğe bağlı. Ping’ler gönderilince aynı zamanda günlüğe de kaydedilmesini istiyorsanız yandaki kutuyu işaretleyin.
     Bunun için <a data-l10n-name="enable-logging-link">günlük tutulmasını da etkinleştirmeniz</a> gerekiyor.)
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =

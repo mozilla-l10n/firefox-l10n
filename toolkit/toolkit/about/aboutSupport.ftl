@@ -3,7 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Sorun giderme bilgileri
-page-subtitle = Bu sayfa, bir sorunu gidermeye çalışırken işinize yarabilecek teknik bilgiler içerir. { -brand-short-name } hakkında genel sorularla ilgili yanıt arıyorsanız <a data-l10n-name="support-link">destek sitemizi</a> ziyaret edin.
+page-subtitle =
+    Bu sayfa, bir sorunu gidermeye çalışırken işinize yarayabilecek teknik bilgiler içerir.
+    { -brand-short-name } hakkında genel sorularla ilgili yanıt arıyorsanız
+    <a data-l10n-name="support-link">destek sitemizi</a> ziyaret edin.
 crashes-title = Çökme Raporları
 crashes-id = Rapor numarası
 crashes-send-date = Gönderilme tarihi
@@ -64,7 +67,7 @@ app-basics-os-theme = İşletim sistemi teması
 app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = Bellek kullanımı
 app-basics-performance = Performans
-app-basics-service-workers = Kayıtlı Service Worker'lar
+app-basics-service-workers = Kayıtlı Service Worker’lar
 app-basics-third-party = Üçüncü taraf modülleri
 app-basics-profiles = Profiller
 app-basics-launcher-process-status = Başlatıcı işlemi
@@ -137,7 +140,7 @@ a11y-instantiator = Erişilebilirlik temsilcisi
 library-version-title = Kitaplık sürümleri
 copy-text-to-clipboard-label = Metni panoya kopyala
 copy-raw-data-to-clipboard-label = Ham metni panoya kopyala
-sandbox-title = Kum havuzu
+sandbox-title = Sandbox
 sandbox-sys-call-log-title = Reddedilen sistem çağrıları
 sandbox-sys-call-index = #
 sandbox-sys-call-age = saniye önce

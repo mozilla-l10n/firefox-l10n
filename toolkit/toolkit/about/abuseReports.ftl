@@ -47,7 +47,7 @@ abuse-report-messagebar-removed-extension = Şikâyetinizi bizimle paylaştığ�
 abuse-report-messagebar-removed-sitepermission = Şikâyetinizi bizimle paylaştığınız için teşekkür ederiz. <span data-l10n-name="addon-name">{ $addon-name }</span> adlı site izinleri eklentisini kaldırdınız.
 abuse-report-messagebar-removed-theme = Şikâyetinizi bizimle paylaştığınız için teşekkür ederiz. <span data-l10n-name="addon-name">{ $addon-name }</span> temasını kaldırdınız.
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span> şikâyeti gönderilirken bir hata oluştu.
-abuse-report-messagebar-error-recent-submit = Kısa bir süre önce başka bir rapor gönderdiğiniz için <span data-l10n-name="addon-name">{ $addon-name }</span> raporu gönderilmedi.
+abuse-report-messagebar-error-recent-submit = Kısa bir süre önce başka bir şikâyet gönderdiğiniz için <span data-l10n-name="addon-name">{ $addon-name }</span> şikâyeti gönderilmedi.
 abuse-report-messagebar-aborted2 =
     .message = { $addon-name } şikâyeti iptal edildi.
 abuse-report-messagebar-submitting2 =
@@ -65,7 +65,7 @@ abuse-report-messagebar-removed-theme2 =
 abuse-report-messagebar-error2 =
     .message = { $addon-name } şikâyeti gönderilirken bir hata oluştu.
 abuse-report-messagebar-error-recent-submit2 =
-    .message = Kısa bir süre önce başka bir rapor gönderdiğiniz için { $addon-name } raporu gönderilmedi.
+    .message = Kısa bir süre önce başka bir şikâyet gönderdiğiniz için { $addon-name } şikâyeti gönderilmedi.
 
 ## Message bars actions.
 

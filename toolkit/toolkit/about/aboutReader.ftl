@@ -4,7 +4,6 @@
 
 about-reader-loading = Yükleniyor…
 about-reader-load-error = Makale sayfadan yüklenemedi
-
 about-reader-color-scheme-light = Beyaz
     .title = Açık renk düzeni
 about-reader-color-scheme-dark = Siyah
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = Sepya
     .title = Sepya renk düzeni
 about-reader-color-scheme-auto = Otomatik
     .title = Otomatik renk düzeni
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -47,6 +45,6 @@ about-reader-font-type-sans-serif = Sans-serif
 
 ## Reader View toolbar buttons
 
-about-reader-toolbar-close = Okuyucu Görünümü'nü kapat
+about-reader-toolbar-close = Okuyucu görünümünü kapat
 about-reader-toolbar-type-controls = Yazı denetimleri
 about-reader-toolbar-savetopocket = { -pocket-brand-name }’a kaydet
