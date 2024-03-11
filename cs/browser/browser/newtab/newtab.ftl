@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Přidat vyhledávač
 newtab-topsites-add-shortcut-header = Nová zkratka
 newtab-topsites-edit-topsites-header = Upravit top stránku
 newtab-topsites-edit-shortcut-header = Upravit zkratku
+newtab-topsites-add-shortcut-label = Přidat zkratku
 newtab-topsites-title-label = Název stránky
 newtab-topsites-title-input =
     .placeholder = Zadejte název
