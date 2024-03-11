@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Abrir { $targetURI } em nova aba
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Fechar { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Descartar { $tabTitle }
@@ -51,6 +55,10 @@ fxviewtabrow-move-tab-window = Mover para nova janela
     .accesskey = n
 fxviewtabrow-send-tab = Enviar aba para dispositivo
     .accesskey = n
+fxviewtabrow-pin-tab = Fixar aba
+    .accesskey = F
+fxviewtabrow-unpin-tab = Desafixar aba
+    .accesskey = x
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +71,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Ativar som de { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Silenciar aba
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Ativar som da aba
