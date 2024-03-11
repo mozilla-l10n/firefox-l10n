@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } está verificando 
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está verificando se o texto que você arrastou está de acordo com as políticas de dados da sua organização. Pode demorar um pouco.
 contentanalysis-operationtype-clipboard = área de transferência
 contentanalysis-operationtype-dropped-text = texto arrastado
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = envio de “{ $filename }”
 contentanalysis-warndialogtitle = Este conteúdo pode não ser seguro
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = Sua organização usa software de prevenção co
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Ocorreu um erro na comunicação com o software de prevenção contra perda de dados. Transferência negada do recurso: { $content }.
+contentanalysis-inprogress-quit-title = Sair do { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Várias ações estão em andamento. Se você sair do { -brand-shorter-name }, essas ações não serão concluídas.
+contentanalysis-inprogress-quit-yesbutton = Sim, sair
