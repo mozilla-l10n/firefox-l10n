@@ -11,11 +11,11 @@ change-device-password-window =
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Güvenlik aygıtı: { $tokenName }
-change-password-old = Şu anki parola:
+change-password-old = Mevcut parola:
 change-password-new = Yeni parola:
 change-password-reenter = Yeni parola (tekrar):
 pippki-failed-pw-change = Parola değiştirilemedi.
-pippki-incorrect-pw = Mevcut parolanızı doğru şekilde girmediniz. Lütfen tekrar deneyin.
+pippki-incorrect-pw = Mevcut parolanızı doğru şekilde girmediniz. Lütfen yeniden deneyin.
 pippki-pw-change-ok = Parola başarıyla değiştirildi.
 pippki-pw-empty-warning = Kayıtlı parolalarınız ve özel anahtarlarınız korunmayacak.
 pippki-pw-erased-ok = Parolanızı sildiniz. { pippki-pw-empty-warning }
@@ -40,10 +40,10 @@ download-cert-window2 =
     .style = min-width: 46em
 download-cert-message = Yeni bir Sertifika Makamına (CA) güvenmeniz istendi.
 download-cert-trust-ssl =
-    .label = Web sitelerini tanımlamak için bu CA'ya güven.
+    .label = Web sitelerini tanımlamak için bu CA’ya güven.
 download-cert-trust-email =
-    .label = E-posta kullanıcılarını tanımlamak için bu CA'ya güven.
-download-cert-message-desc = Herhangi bir amaçla bu CA'ya güvenmeden önce sertifikasını, ilkelerini ve prosedürlerini (varsa) incelemelisiniz.
+    .label = E-posta kullanıcılarını tanımlamak için bu CA’ya güven.
+download-cert-message-desc = Herhangi bir amaçla bu CA’ya güvenmeden önce sertifikasını, ilkelerini ve prosedürlerini (varsa) incelemelisiniz.
 download-cert-view-cert =
     .label = Göster
 download-cert-view-text = CA sertifikasını incele
