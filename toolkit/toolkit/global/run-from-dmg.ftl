@@ -23,6 +23,6 @@ install-failed-message = { -brand-short-name } yüklenemedi ama çalışmaya dev
 ## rather than the app that was double-clicked in a .dmg.
 
 prompt-to-launch-existing-app-title = Mevcut { -brand-short-name } uygulaması açılsın mı?
-prompt-to-launch-existing-app-message = { -brand-short-name } zaten yüklenmiş durumda. Uygulamayı güncel tutmak veri kaybını önlemek için yüklü uygulamayı kullanın.
+prompt-to-launch-existing-app-message = { -brand-short-name } zaten yüklenmiş durumda. Uygulamayı güncel tutmak ve veri kaybını önlemek için yüklü uygulamayı kullanın.
 prompt-to-launch-existing-app-yes-button = Mevcut uygulamayı aç
 prompt-to-launch-existing-app-no-button = Hayır
