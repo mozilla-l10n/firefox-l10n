@@ -252,3 +252,25 @@ firefoxview-recentlyclosed-empty-description-two = Чтобы найти бол�
 
 firefoxview-syncedtabs-device-notabs = На этом устройстве нет открытых вкладок
 firefoxview-syncedtabs-connect-another-device = Подключить другое устройство
+firefoxview-pinned-tabs =
+    .title = Закреплённые вкладки
+firefoxview-tabs =
+    .title = Вкладки
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Переключиться на { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Переключиться на (Закладки) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Закладки) { $url }
