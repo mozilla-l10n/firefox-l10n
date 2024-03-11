@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Ajouter un moteur de recherche
 newtab-topsites-add-shortcut-header = Nouveau raccourci
 newtab-topsites-edit-topsites-header = Modifier le site populaire
 newtab-topsites-edit-shortcut-header = Modifier le raccourci
+newtab-topsites-add-shortcut-label = Ajouter un raccourci
 newtab-topsites-title-label = Titre
 newtab-topsites-title-input =
     .placeholder = Saisir un titre
