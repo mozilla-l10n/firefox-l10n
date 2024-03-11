@@ -15,7 +15,6 @@ psmerr-hostreusedissuerandserial =
     Geçersiz bir sertifika aldınız. Lütfen sunucu yöneticisiyle iletişime geçin veya karşı tarafa e-posta yazarak bu bilgiyi verin:
     
     Sertifkanız, sertifika makamının verdiği başka bir sertifikayla aynı seri numarasını taşıyor. Lütfen benzersiz seri numaraya sahip yeni bir sertifika edinin.
-
 ssl-error-export-only-server = Güvenli iletişim kurulamadı. Karşı taraf yüksek düzeyde şifrelemeyi desteklemiyor.
 ssl-error-us-only-server = Güvenli iletişim kurulamadı. Karşı taraf şu an desteklenmeyen yüksek düzey şifreleme istiyor.
 ssl-error-no-cypher-overlap = Karşı tarafla güvenli iletişim kurulamadı: Ortak bir şifreleme çözüm yolu yok.
@@ -41,11 +40,11 @@ ssl-error-no-ciphers-supported = Bu programda hiçbir şifreleme takımı yok ve
 ssl-error-bad-block-padding = SSL yanlış blok dolgusu olan bir kayıt aldı.
 ssl-error-rx-record-too-long = SSL izin verilen uzunluğu aşan bir kayıt aldı.
 ssl-error-tx-record-too-long = SSL izin verilen uzunluğu aşan bir kayıt göndermeye kalktı.
-ssl-error-rx-malformed-hello-request = SSL kusurlu bir karşılaşama iletisi aldı.
-ssl-error-rx-malformed-client-hello = SSL kusurlu bir istemci karşılama iletisi aldı.
-ssl-error-rx-malformed-server-hello = SSL kusurlu bir sunucu karşılama iletisi aldı.
-ssl-error-rx-malformed-certificate = SSL kusurlu bir sertifika karşılama iletisi aldı.
-ssl-error-rx-malformed-server-key-exch = SSL kusurlu bir sunucu anahtar değişimi karşılama iletisi aldı.
+ssl-error-rx-malformed-hello-request = SSL, hasarlı bir Hello Request el sıkışma iletisi aldı.
+ssl-error-rx-malformed-client-hello = SSL, hasarlı bir Client Hello el sıkışma iletisi aldı.
+ssl-error-rx-malformed-server-hello = SSL, hasarlı bir Server Hello el sıkışma iletisi aldı.
+ssl-error-rx-malformed-certificate = SSL, hasarlı bir Certificate el sıkışma iletisi aldı.
+ssl-error-rx-malformed-server-key-exch = SSL, hasarlı bir Server Key Exchange el sıkışma iletisi aldı.
 ssl-error-rx-malformed-cert-request = SSL kusurlu bir Sertifika İsteği karşılama iletisi aldı.
 ssl-error-rx-malformed-hello-done = SSL, hasarlı bir Server Hello Done el sıkışma iletisi aldı.
 ssl-error-rx-malformed-cert-verify = SSL kusurlu bir Sertifika Doğrulaması karşılaşama iletisi aldı.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Desteklenen bir TLS imza algoritmas
 ssl-error-unsupported-signature-algorithm = Eş, desteklenmeyen bir imza ve hash algoritması kullandı.
 ssl-error-missing-extended-master-secret = Eş, doğru bir extended_master_secret uzantısı olmadan devam etmeye çalıştı.
 ssl-error-unexpected-extended-master-secret = Eş, beklenmeyen bir extended_master_secret uzantısıyla devam etmeye çalıştı.
-
 sec-error-io = Güvenlik doğrulaması sırasında giriş-çıkış hatası meydana geldi.
 sec-error-library-failure = Güvenlik kitaplığı hatası.
 sec-error-bad-data = Güvenlik kitaplığı: Kötü veri alındı.
@@ -319,7 +317,6 @@ sec-error-locked-password = Parola kilitli.
 sec-error-unknown-pkcs11-error = Bilinmeyen PKCS #11 hatası.
 sec-error-bad-crl-dp-url = CRL dağıtım noktası isminde geçersiz veya desteklenmeyen URL.
 sec-error-cert-signature-algorithm-disabled = Bu sertifika, güvenli olmadığı için devre dışı bırakılan bir imza algoritmasıyla imzalanmış.
-
 mozilla-pkix-error-key-pinning-failure = Sunucuda anahtar sabitleme (HPKP) kullanılıyor ama sabit kümeyle eşleşen bir güvenilir sertifika zinciri oluşturulamadı. Anahtar sabitleme ihlalleri görmezden gelinemez.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Sunucu, kendisini sertifika makamı olarak tanımlayan, temel kısıtlamalar uzantısı içeren bir sertifika kullanıyor. Düzgün şekilde verilmiş bir sertifikada bu olmamalıydı.
 mozilla-pkix-error-inadequate-key-size = Sunucu, güvenli bir bağlantı kurmak için anahtar uzunluğu çok kısa olan bir sertifika sundu.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Sunucu, geçersiz bir tamsayı kod
 mozilla-pkix-error-empty-issuer-name = Sunucu, boş bir yayıncı açık adı (DN) içeren bir sertifika sundu.
 mozilla-pkix-error-additional-policy-constraint-failed = Bu sertifika doğrulanırken ek bir ilke kısıtlaması başarısız oldu.
 mozilla-pkix-error-self-signed-cert = Bu sertifika kendi kendine imzalandığı için sertifikaya güvenilmiyor.
-
 xp-java-remove-principal-error = Baş bölüm kaldırılamadı.
 xp-java-delete-privilege-error = Ayrıcalık ortadan kaldırılamadı
 xp-java-cert-not-exists-error = Bu baş bölümün sertifikası yok
-
 xp-sec-fortezza-bad-card = Fortezza kartı düzgün olarak çalıştırılamadı. Lütfen çıkarıp dağıtıcınıza geri götürün.
 xp-sec-fortezza-no-card = Fortezza kartı bulunamadı
 xp-sec-fortezza-none-selected = Fortezza kartı seçilmedi
