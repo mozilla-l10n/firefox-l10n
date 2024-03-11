@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = { $targetURI } openen in een nieuw tabblad
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = { $tabTitle } sluiten
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } sluiten
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Verplaatsen naar nieuw venster
     .accesskey = w
 fxviewtabrow-send-tab = Tabblad naar apparaat verzenden
     .accesskey = z
+fxviewtabrow-pin-tab = Tabblad vastmaken
+    .accesskey = v
+fxviewtabrow-unpin-tab = Tabblad losmaken
+    .accesskey = l
+fxviewtabrow-mute-tab = Tabblad dempen
+    .accesskey = d
+fxviewtabrow-unmute-tab = Tabblad dempen opheffen
+    .accesskey = o
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Dempen { $tabTitle } opheffen
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Tabblad dempen
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Tabblad dempen opheffen
