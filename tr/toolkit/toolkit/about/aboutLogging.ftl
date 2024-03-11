@@ -8,7 +8,9 @@ about-logging-page-title = Log kaydı yöneticisi
 about-logging-current-log-file = Geçerli log dosyası:
 about-logging-new-log-file = Yeni log dosyası:
 about-logging-currently-enabled-log-modules = Şu anda etkin log modülleri:
-about-logging-log-tutorial = Bu aracı nasıl kullanabileceğinizi öğrenmek için <a data-l10n-name="logging">HTTP Logging</a> sayfasına bakın.
+about-logging-log-tutorial =
+    Bu aracı nasıl kullanabileceğinizi öğrenmek için
+    <a data-l10n-name="logging">HTTP Logging</a> sayfasına bakın.
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Dizini aç
 about-logging-set-log-file = Log dosyasını ayarla

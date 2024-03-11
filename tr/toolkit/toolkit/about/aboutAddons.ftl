@@ -110,7 +110,7 @@ disabled-unsigned-description =
     Aşağıdaki eklentiler { -brand-short-name } üzerinde kullanılmak üzere doğrulanmamıştır.
     <label data-l10n-name="find-addons">Yerlerine başka eklentiler bulabilir</label> veya geliştiriciden eklentilerini doğrulamasını isteyebilirsiniz.
 disabled-unsigned-learn-more = Sizi internette daha güvende tutma çabalarımız hakkında bilgi alın.
-disabled-unsigned-devinfo = Eklentilerini doğrulamak için isteyen geliştiriciler <label data-l10n-name="learn-more">rehberimizi</label> okuyabilir.
+disabled-unsigned-devinfo = Eklentilerini doğrulamak isteyen geliştiriciler <label data-l10n-name="learn-more">rehberimizi</label> okuyabilir.
 plugin-deprecation-description = Bir şeyler mi eksik? Bazı yan uygulamalar artık { -brand-short-name } tarafından desteklenmiyor. <label data-l10n-name="learn-more">Daha fazla bilgi alın.</label>
 legacy-warning-show-legacy = Eski teknoloji uzantıları göster
 legacy-extensions =
@@ -118,7 +118,7 @@ legacy-extensions =
 legacy-extensions-description = Bu uzantılar yeni { -brand-short-name } standartlarını karşılamadığı için etkisiz hale getirilmiştir. <label data-l10n-name="legacy-learn-more">Uzantılarda yaptığımız değişiklikler hakkında bilgi alın</label>
 private-browsing-description2 =
     { -brand-short-name } gizli gezinti modunda uzantıların çalışma şekli değişiyor. Bundan sonra
-    { -brand-short-name } tarayıcınıza ekleceğiniz uzantılar varsayılan olarak gizli pencerelerde çalışmayacak.
+    { -brand-short-name } tarayıcınıza ekleyeceğiniz uzantılar varsayılan olarak gizli pencerelerde çalışmayacak.
     Böylece, siz ayarlara girip özellikle izin vermedikçe uzantılar gizli gezinti sırasında yaptıklarınızı göremeyecekler.
     Bu değişikliği, gizli gezintinizin daha da gizli kalması için yapıyoruz.
     <label data-l10n-name="private-browsing-learn-more">Uzantı ayarlarınızı yönetmeyi öğrenin.</label>
@@ -159,9 +159,9 @@ addon-sitepermission-host = { $host } site izinleri
 extensions-warning-safe-mode = Güvenli kipte tüm eklentiler devre dışı bırakılmıştır.
 extensions-warning-check-compatibility = Eklenti uyumluluk denetimi devre dışı. Uyumsuz eklentileriniz olabilir.
 extensions-warning-safe-mode2 =
-    .message = Tüm uzantılar güvenli kipte devre dışı bırakıldı.
+    .message = Güvenli kipte tüm eklentiler devre dışı bırakılmıştır.
 extensions-warning-check-compatibility2 =
-    .message = Uzantı uyumluluk denetimi devre dışı. Uyumsuz uzantılarınız olabilir.
+    .message = Eklenti uyumluluk denetimi devre dışı. Uyumsuz eklentileriniz olabilir.
 extensions-warning-check-compatibility-button = Etkinleştir
     .title = Eklenti uyumluluk denetimini devreye sok
 extensions-warning-update-security = Eklenti güncelleme güvenliği denetimi devre dışı. Güncellemelerle tehlikeye düşebilirsiniz.
@@ -263,7 +263,7 @@ header-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Uzantılar ve temalar tarayıcınızın içinde çalışan uygulamalar gibidir. Parolalarınızı saklamanıza, video indirmenize, indirimleri bulmanıza, sinir bozucu reklamları engellemenize, tarayıcınızın görünümü değiştirmenize ve çok daha birçok şey yapmanıza olanak tanırlar. Bu küçük yazılımlar genellikle üçüncü şahıslar tarafından geliştirilir. Ekstra güvenlik, performans ve işlevsellik için { -brand-product-name } tarafından <a data-l10n-name="learn-more-trigger">önerilen</a> uzantı ve temaları aşağıda bulabilirsiniz.
+discopane-intro = Uzantılar ve temalar tarayıcınızın içinde çalışan uygulamalar gibidir. Parolalarınızı saklamanıza, video indirmenize, indirimleri bulmanıza, sinir bozucu reklamları engellemenize, tarayıcınızın görünümü değiştirmenize ve daha birçok şey yapmanıza olanak tanırlar. Bu küçük yazılımlar genellikle üçüncü şahıslar tarafından geliştirilir. Ekstra güvenlik, performans ve işlevsellik için { -brand-product-name } tarafından <a data-l10n-name="learn-more-trigger">önerilen</a> uzantı ve temaları aşağıda bulabilirsiniz.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Bu önerilerden bazıları size özeldir. Önerilerimiz; yüklediğiniz

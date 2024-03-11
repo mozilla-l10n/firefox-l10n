@@ -5,11 +5,10 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = Service Worker'lar Hakkında
-about-service-workers-main-title = Kayıtlı Service Worker'lar
-about-service-workers-warning-not-enabled = Service Worker'lar etkinleştirilmemiş.
+about-service-workers-title = Service Worker’lar Hakkında
+about-service-workers-main-title = Kayıtlı Service Worker’lar
+about-service-workers-warning-not-enabled = Service Worker’lar etkinleştirilmemiş.
 about-service-workers-warning-no-service-workers = Hiçbir Service Worker kayıtlı değil.
-
 # The original title of service workers' information
 #
 # Variables:
@@ -29,12 +28,8 @@ active-cache-name = <strong>Aktif önbellek adı:</strong> { $name }
 waiting-cache-name = <strong>Bekleyen önbellek adı:</strong> { $name }
 push-end-point-waiting = <strong>Anında ilet uç noktası:</strong> { waiting }
 push-end-point-result = <strong>Anında ilet uç noktası:</strong> { $name }
-
 # This term is used as a button label (verb, not noun).
 update-button = Güncelle
-
 unregister-button = Kaydı sil
-
-unregister-error = Bu Service Worker'ın kaydı silinemedi.
-
+unregister-error = Bu Service Worker’ın kaydı silinemedi.
 waiting = Bekleniyor…
