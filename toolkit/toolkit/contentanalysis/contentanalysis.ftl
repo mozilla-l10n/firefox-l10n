@@ -41,3 +41,6 @@ contentanalysis-block-message = Votre organisation utilise un logiciel de protec
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Une erreur est survenue pendant la communication avec le logiciel de protection contre la perte de données. Transfert refusé pour la ressource : { $content }.
+contentanalysis-inprogress-quit-title = Quitter { -brand-shorter-name } ?
+contentanalysis-inprogress-quit-message = Plusieurs actions sont en cours. Si vous quittez { -brand-shorter-name }, ces actions ne seront pas terminées.
+contentanalysis-inprogress-quit-yesbutton = Oui, quitter
