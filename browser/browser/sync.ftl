@@ -34,3 +34,4 @@ fxa-menu-send-tab-to-device-description = Envoyez instantanément un onglet sur 
 fxa-menu-sign-out =
     .label = Se déconnecter…
 fxa-menu-sync-title = Synchronisation
+fxa-menu-sync-description = Accédez à votre Web où que vous soyez
