@@ -73,7 +73,7 @@ about-telemetry-settings-explanation = Telemetri { about-telemetry-data-type } t
 # Variables:
 #   $name (string) - Ping name, e.g. “saved-session”
 #   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
-about-telemetry-ping-details = Her bilgi parçası “<a data-l10n-name="ping-link">ping</a>” paketleri halinde gönderilir. Şu anda { $name }, { $timestamp } ping’ine bakıyorsunuz.
+about-telemetry-ping-details = Her bilgi parçası “<a data-l10n-name="ping-link">ping</a>” paketleri halinde gönderilir. Şu anda { $name } { $timestamp } ping’ine bakıyorsunuz.
 about-telemetry-data-details-current = Her bilgi parçası  “<a data-l10n-name="ping-link">ping</a>“ denilen paketler halinde gönderilir. Şu anda güncel verilere bakıyorsunuz.
 # string used as a placeholder for the search field
 # More info about it can be found here:
