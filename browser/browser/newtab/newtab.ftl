@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Keresőszolgáltatás hozzáadása
 newtab-topsites-add-shortcut-header = Új gyorskereső
 newtab-topsites-edit-topsites-header = Népszerű oldal szerkesztése
 newtab-topsites-edit-shortcut-header = Gyorskereső szerkesztése
+newtab-topsites-add-shortcut-label = Indítóikon hozzáadása
 newtab-topsites-title-label = Cím
 newtab-topsites-title-input =
     .placeholder = Cím megadása
