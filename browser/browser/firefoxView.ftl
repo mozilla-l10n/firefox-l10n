@@ -251,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = Ha régebbi lapokat szeretne 
 
 firefoxview-syncedtabs-device-notabs = Nincsenek nyitott lapok ezen az eszközön
 firefoxview-syncedtabs-connect-another-device = Másik eszköz csatlakoztatása
+firefoxview-pinned-tabs =
+    .title = Rögzített lapok
+firefoxview-tabs =
+    .title = Lapok
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Váltás erre: { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Váltás erre (könyvjelzőzve): { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Könyvjelzőzve) { $url }
