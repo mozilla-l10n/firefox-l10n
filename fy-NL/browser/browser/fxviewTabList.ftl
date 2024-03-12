@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = { $targetURI } iepenje yn in nij ljepblêd
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = { $tabTitle } slute
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } slute
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Ferpleatse nei nij finster
     .accesskey = j
 fxviewtabrow-send-tab = Ljepblêd nei apparaat ferstjoere
     .accesskey = a
+fxviewtabrow-pin-tab = Ljepblêd fêstsette
+    .accesskey = f
+fxviewtabrow-unpin-tab = Ljepblêd losmeitsje
+    .accesskey = l
+fxviewtabrow-mute-tab = Ljepblêd dôvje
+    .accesskey = d
+fxviewtabrow-unmute-tab = Ljepblêd dôvje opheffe
+    .accesskey = o
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Dôvjen { $tabTitle } opheffe
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Ljepblêd dôvje
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Ljepblêd dôvje opheffe
