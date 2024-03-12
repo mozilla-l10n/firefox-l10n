@@ -55,6 +55,14 @@ fxviewtabrow-move-tab-window = Déplacer vers une nouvelle fenêtre
     .accesskey = v
 fxviewtabrow-send-tab = Envoyer l’onglet à un appareil
     .accesskey = E
+fxviewtabrow-pin-tab = Épingler l’onglet
+    .accesskey = o
+fxviewtabrow-unpin-tab = Désépingler l’onglet
+    .accesskey = o
+fxviewtabrow-mute-tab = Couper le son de l’onglet
+    .accesskey = u
+fxviewtabrow-unmute-tab = Réactiver le son de l’onglet
+    .accesskey = R
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -70,3 +78,7 @@ fxviewtabrow-unmute-tab-button =
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Couper le son de l’onglet
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Réactiver le son de l’onglet

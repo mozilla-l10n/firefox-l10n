@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } vérifie la confor
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } vérifie la conformité du texte que vous avez déposé à la politique de données de votre organisation. Cette opération peut prendre un moment.
 contentanalysis-operationtype-clipboard = presse-papiers
 contentanalysis-operationtype-dropped-text = texte relâché
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = envoi de « { $filename } »
 contentanalysis-warndialogtitle = Ce contenu peut ne pas être sûr
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
