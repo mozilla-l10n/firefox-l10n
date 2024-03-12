@@ -255,3 +255,25 @@ firefoxview-recentlyclosed-empty-description-two = I ddod o hyd i dabiau ers pet
 
 firefoxview-syncedtabs-device-notabs = Dim tabiau ar agor ar y ddyfais hon
 firefoxview-syncedtabs-connect-another-device = Cysylltu dyfais arall
+firefoxview-pinned-tabs =
+    .title = Tabiau wedi’u Pinio
+firefoxview-tabs =
+    .title = Tabiau
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Newid i { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Newid i ( Bookmarked ) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = ( Wedi'i Nodi ) { $url }
