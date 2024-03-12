@@ -257,9 +257,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Scorciatoie sponsorizzate
 newtab-custom-pocket-title = Consigliati da { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contenuti eccezionali a cura di { -pocket-brand-name }, un membro della famiglia { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Consigliati da { -pocket-brand-name }
-    .description = Contenuti eccezionali a cura di { -pocket-brand-name }, un membro della famiglia { -brand-product-name }
 newtab-custom-stories-toggle =
   .label = Storie consigliate
   .description = Contenuti eccezionali curati dalla famiglia di prodotti { -brand-product-name }
@@ -272,4 +269,3 @@ newtab-custom-recent-toggle =
     .description = Una selezione di siti e contenuti visualizzati di recente
 newtab-custom-close-button = Chiudi
 newtab-custom-settings = Gestisci altre impostazioni
-
