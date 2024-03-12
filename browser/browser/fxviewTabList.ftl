@@ -59,6 +59,10 @@ fxviewtabrow-pin-tab = Fixar aba
     .accesskey = F
 fxviewtabrow-unpin-tab = Desafixar aba
     .accesskey = x
+fxviewtabrow-mute-tab = Silenciar aba
+    .accesskey = S
+fxviewtabrow-unmute-tab = Ativar som da aba
+    .accesskey = s
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
