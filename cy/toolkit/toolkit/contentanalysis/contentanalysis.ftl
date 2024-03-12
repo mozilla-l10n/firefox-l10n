@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = Mae { $agent } yn asesu'r hyn
 contentanalysis-slow-agent-dialog-body-dropped-text = Mae { $agent } yn asesu'r testun rydych wedi'i ollwng yn erbyn polisïau data eich sefydliad. Gall hyn gymryd ychydig o amser.
 contentanalysis-operationtype-clipboard = clipfwrdd
 contentanalysis-operationtype-dropped-text = testun wedi'i ostwng
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = llwytho “{ $filename }” i fyny
 contentanalysis-warndialogtitle = Gall y cynnwys hwn fod yn anniogel
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = Mae eich sefydliad yn defnyddio meddalwedd atal 
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Digwyddodd gwall wrth gyfathrebu â'r feddalwedd atal colli data. Gwrthodwyd trosglwyddo adnodd: { $content }.
+contentanalysis-inprogress-quit-title = Gadael { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Mae nifer o gamau gweithredu ar waith. Os byddwch yn gadael { -brand-shorter-name }, ni fydd y gweithredoedd hyn yn cael eu cwblhau.
+contentanalysis-inprogress-quit-yesbutton = Iawn, gadael

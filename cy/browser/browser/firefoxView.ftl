@@ -268,7 +268,7 @@ firefoxview-opentabs-pinned-tab =
     .title = Newid i { $tabTitle }
 # This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
 firefoxview-opentabs-bookmarked-pinned-tab =
-    .title = Newid i ( Bookmarked ) { $tabTitle }
+    .title = Newid i ( Wedi'i Nodi ) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
