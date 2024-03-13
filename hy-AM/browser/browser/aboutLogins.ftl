@@ -64,6 +64,14 @@ login-list-count2 =
         [one] { $count } գաղտնաբառ
        *[other] { $count } գաղտնաբառ
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count }-ը { $total } գաղտնաբառքերից
+       *[other] { $count }-ը { $total } գաղտնաբառքերից
+    }
 login-list-sort-label-text = Տեսակավարել ըստ՝
 login-list-name-option = Անվան (Ա-Ֆ)
 login-list-name-reverse-option = Անվան (Ա-Ֆ)
