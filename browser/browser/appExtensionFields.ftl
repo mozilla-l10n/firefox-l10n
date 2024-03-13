@@ -5,12 +5,12 @@
 
 ## Theme names and descriptions used in the Themes panel in about:addons
 
+# "Auto" is short for automatic. It can be localized without limitations.
+extension-default-theme-name-auto = Համակարգի ոճ - ինքնա
 extension-firefox-compact-light-name = Լուսավոր
 extension-firefox-compact-light-description = Լուսավոր ձևավորմամբ գունավորում:
-
 extension-firefox-compact-dark-name = Մուգ
 extension-firefox-compact-dark-description = Մուգ ձևավորմամբ գունավորում:
-
 extension-firefox-alpenglow-name = Firefox Alpenglow
 
 ## Colorway Themes
