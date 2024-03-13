@@ -28,6 +28,7 @@ policy-BlockAboutSupport = about:support 페이지 접근을 차단합니다.
 policy-Bookmarks = 북마크 도구 모음, 북마크 메뉴 또는 그 안의 특정 폴더에 북마크를 만듭니다.
 policy-CaptivePortal = 종속 포털 지원을 사용하거나 사용하지 않게 합니다.
 policy-CertificatesDescription = 인증서를 추가하거나 기본 제공 인증서를 사용합니다.
+policy-ContentAnalysis = 데이터 손실 방지 에이전트에 대한 연결을 사용하거나 사용하지 않게 합니다.
 policy-Cookies = 웹 사이트의 쿠키 설정을 허용하거나 거부합니다.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = 컨테이너와 관련된 정책을 설정합니다.
