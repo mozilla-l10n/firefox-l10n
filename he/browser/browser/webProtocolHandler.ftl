@@ -6,15 +6,14 @@ protocolhandler-mailto-os-handler-notificationbox = תמיד להשתמש ב־{ 
 protocolhandler-mailto-os-handler-yes-confirm = ‏{ -brand-short-name } הוא כעת יישום ברירת המחדל שלך לפתיחת קישורים ששולחים דוא״ל.
 protocolhandler-mailto-os-handler-yes-button = הגדרה כברירת מחדל
 protocolhandler-mailto-os-handler-no-button = לא כעת
-# Variables:
-#  $url (String): The url of a webmailer, but only its full domain name.
-protocolhandler-mailto-handler-notificationbox = לפתוח קישורי דוא״ל באמצעות { $url }?
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-notificationbox-always = תמיד לפתוח קישורי דוא״ל באמצעות { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url }‏ הוא כעת אתר ברירת המחדל שלך לפתיחת קישורים ששולחים דוא״ל.
+protocolhandler-mailto-handler-set-message = להשתמש ב־<strong>{ $url } ב־{ -brand-short-name }</strong> בכל לחיצה על קישור שפותח את הדוא״ל שלך?
+protocolhandler-mailto-handler-confirm-message = <strong>‏{ $url } ב־{ -brand-short-name }</strong> הוא כעת הגורם ברירת המחדל שמטפל בדוא״ל במחשב שלך.
 
 ##
 
