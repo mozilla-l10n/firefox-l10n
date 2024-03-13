@@ -6,15 +6,14 @@ protocolhandler-mailto-os-handler-notificationbox = Använd alltid { -brand-shor
 protocolhandler-mailto-os-handler-yes-confirm = { -brand-short-name } är nu ditt standardprogram för att öppna länkar som skickar e-post.
 protocolhandler-mailto-os-handler-yes-button = Ange som standard
 protocolhandler-mailto-os-handler-no-button = Inte nu
-# Variables:
-#  $url (String): The url of a webmailer, but only its full domain name.
-protocolhandler-mailto-handler-notificationbox = Öppna e-postlänkar med { $url }?
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-notificationbox-always = Öppna alltid e-postlänkar med { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } är nu din standardwebbplats för att öppna länkar som skickar e-post.
+protocolhandler-mailto-handler-set-message = Använd <strong>{ $url } i { -brand-short-name }</strong> varje gång du klickar på en länk som öppnar ditt e-postmeddelande?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } i { -brand-short-name }</strong> är nu din dators standard e-posthanterare.
 
 ##
 
