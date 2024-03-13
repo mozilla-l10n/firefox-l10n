@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = S
 text-action-search-text-box-clear =
     .title = Rensa
+text-action-highlight-selection =
+    .label = Markera markering
