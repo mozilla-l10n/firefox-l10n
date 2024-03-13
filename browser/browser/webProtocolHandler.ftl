@@ -20,4 +20,3 @@ protocolhandler-mailto-handler-confirm-message = <strong>{ $url } in { -brand-sh
 
 protocolhandler-mailto-handler-yes-button = Imposta come predefinito
 protocolhandler-mailto-handler-no-button = Non adesso
-

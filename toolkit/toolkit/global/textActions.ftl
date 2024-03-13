@@ -86,3 +86,4 @@ text-action-search-text-box-clear =
 
 text-action-highlight-selection =
     .label = Evidenzia selezione
+

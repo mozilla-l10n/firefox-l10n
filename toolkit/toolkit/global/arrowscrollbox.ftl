@@ -18,3 +18,4 @@ overflow-scroll-button-up =
 # would look like "v" and scroll the list of menuitems down.
 overflow-scroll-button-down =
     .tooltiptext = Scorri in basso
+
