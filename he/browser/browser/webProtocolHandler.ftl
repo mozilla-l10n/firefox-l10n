@@ -13,7 +13,7 @@ protocolhandler-mailto-os-handler-no-button = לא כעת
 protocolhandler-mailto-handler-notificationbox-always = תמיד לפתוח קישורי דוא״ל באמצעות { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url }‏ הוא כעת אתר ברירת המחדל שלך לפתיחת קישורים ששולחים דוא״ל.
 protocolhandler-mailto-handler-set-message = להשתמש ב־<strong>{ $url } ב־{ -brand-short-name }</strong> בכל לחיצה על קישור שפותח את הדוא״ל שלך?
-protocolhandler-mailto-handler-confirm-message = <strong>‏{ $url } ב־{ -brand-short-name }</strong> הוא כעת הגורם ברירת המחדל שמטפל בדוא״ל במחשב שלך.
+protocolhandler-mailto-handler-confirm-message = <strong>‏{ $url } ב־{ -brand-short-name }</strong> הוא כעת הגורם ברירת המחדל לטיפול בדוא״ל במחשב שלך.
 
 ##
 
