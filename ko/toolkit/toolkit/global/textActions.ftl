@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = 지우기
+text-action-highlight-selection =
+    .label = 선택 강조 표시
