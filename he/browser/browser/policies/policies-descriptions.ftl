@@ -28,6 +28,7 @@ policy-BlockAboutSupport = חסימת הגישה לעמוד about:support.
 policy-Bookmarks = יצירת סימניות בסרגל הסימניות, תפריט הסימניות או בתיקייה מסוימת בתוכם.
 policy-CaptivePortal = הפעלה או השבתה של תמיכה ב־Captive Portal.
 policy-CertificatesDescription = הוספת אישורים או שימוש באישורים מובנים.
+policy-ContentAnalysis = הפעלה או השבתה של חיבור לסוכן למניעת אובדן נתונים.
 policy-Cookies = לאשר או לסרב להגדרת עוגיות מאתרים.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = הגדרת מדיניות הקשורה למגירות לשוניות.
