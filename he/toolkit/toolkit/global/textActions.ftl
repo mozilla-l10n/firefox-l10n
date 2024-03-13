@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = ש
 text-action-search-text-box-clear =
     .title = ניקוי
+text-action-highlight-selection =
+    .label = הדגשת הבחירה
