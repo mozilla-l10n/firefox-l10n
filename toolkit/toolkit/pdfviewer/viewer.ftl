@@ -26,8 +26,8 @@ pdfjs-zoom-out-button =
     .title = Uzaklaştır
 pdfjs-zoom-out-button-label = Uzaklaştır
 pdfjs-zoom-in-button =
-    .title = Yaklaştır
-pdfjs-zoom-in-button-label = Yaklaştır
+    .title = Yakınlaştır
+pdfjs-zoom-in-button-label = Yakınlaştır
 pdfjs-zoom-select =
     .title = Yakınlaştırma
 pdfjs-presentation-mode-button =
@@ -122,7 +122,7 @@ pdfjs-document-properties-title = Başlık:
 pdfjs-document-properties-author = Yazar:
 pdfjs-document-properties-subject = Konu:
 pdfjs-document-properties-keywords = Anahtar kelimeler:
-pdfjs-document-properties-creation-date = Oluturma tarihi:
+pdfjs-document-properties-creation-date = Oluşturma tarihi:
 pdfjs-document-properties-modification-date = Değiştirme tarihi:
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file

@@ -5,7 +5,7 @@
 password-not-set =
     .value = (ayarlanmadı)
 failed-pp-change = Ana parola değiştirilemedi.
-incorrect-pp = Ana parolanızı doğru şekilde girmediniz. Lütfen tekrar deneyin.
+incorrect-pp = Ana parolanızı doğru şekilde girmediniz. Lütfen yeniden deneyin.
 pp-change-ok = Ana parola başarıyla değiştirildi.
 settings-pp-erased-ok = Ana parolanızı sildiniz. { -brand-short-name } tarayıcınızda depolanan parolalar ve sertifika özel anahtarları artık korunmayacak.
 settings-pp-not-wanted = Uyarı! Ana parola kullanmamaya karar verdiniz. { -brand-short-name } tarayıcınızda depolanan parolalar ve sertifika özel anahtarları korunmayacak.
