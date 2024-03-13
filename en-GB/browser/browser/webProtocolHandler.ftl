@@ -6,15 +6,14 @@ protocolhandler-mailto-os-handler-notificationbox = Always use { -brand-short-na
 protocolhandler-mailto-os-handler-yes-confirm = { -brand-short-name } is now your default application for opening links that send email.
 protocolhandler-mailto-os-handler-yes-button = Set as default
 protocolhandler-mailto-os-handler-no-button = Not now
-# Variables:
-#  $url (String): The url of a webmailer, but only its full domain name.
-protocolhandler-mailto-handler-notificationbox = Open email links using { $url }?
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-notificationbox-always = Always open email links using { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } is now your default site for opening links that send email.
+protocolhandler-mailto-handler-set-message = Use <strong>{ $url } in { -brand-short-name }</strong> every time you click a link that opens your email?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } in { -brand-short-name }</strong> is now your computer’s default email handler.
 
 ##
 
