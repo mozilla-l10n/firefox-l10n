@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = A(z) { $agent } ellenőrzi, h
 contentanalysis-slow-agent-dialog-body-dropped-text = A(z) { $agent } ellenőrzi, hogy az ideejtett szöveg ellentétes-e a szervezete adatházirendjeivel. Ez eltarthat egy darabig.
 contentanalysis-operationtype-clipboard = vágólap
 contentanalysis-operationtype-dropped-text = fogd és vidd művelettel átdobott szöveg
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = „{ $filename }” feltöltése
 contentanalysis-warndialogtitle = Ez a tartalom lehet, hogy nem biztonságos
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = A szervezete olyan adatvesztés-megelőzési szo
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Hiba történt az adatvesztés-megelőzési szoftverrel való kommunikáció közben. A következő erőforrás átvitele megtagadva: { $content }.
+contentanalysis-inprogress-quit-title = Kilépés a { -brand-shorter-name }ból?
+contentanalysis-inprogress-quit-message = Számos művelet van folyamatban. Ha kilép a { -brand-shorter-name }ból, akkor ezek a műveletek nem fejeződnek be.
+contentanalysis-inprogress-quit-yesbutton = Igen, kilépés
