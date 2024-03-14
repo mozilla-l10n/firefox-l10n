@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Bloquear acesso à página about:support.
 policy-Bookmarks = Criar favoritos na barra de favoritos, no menu de favoritos ou uma pasta especificada dentro deles.
 policy-CaptivePortal = Ativar ou desativar suporte a portal cativo.
 policy-CertificatesDescription = Adicionar certificados ou usar certificados integrados.
+policy-ContentAnalysis = Ativar ou desativar conexão com agente de prevenção de perda de dados.
 policy-Cookies = Permitir ou impedir que sites criem cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Definir diretivas relacionadas a contêineres.

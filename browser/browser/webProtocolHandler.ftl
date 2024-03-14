@@ -6,15 +6,14 @@ protocolhandler-mailto-os-handler-notificationbox = Sempre usar o { -brand-short
 protocolhandler-mailto-os-handler-yes-confirm = Agora o { -brand-short-name } é seu aplicativo padrão para abrir links de envio de email.
 protocolhandler-mailto-os-handler-yes-button = Definir como padrão
 protocolhandler-mailto-os-handler-no-button = Agora não
-# Variables:
-#  $url (String): The url of a webmailer, but only its full domain name.
-protocolhandler-mailto-handler-notificationbox = Abrir links de email usando { $url }?
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-notificationbox-always = Sempre abrir links de email usando { $url }?
 protocolhandler-mailto-handler-yes-confirm = Agora { $url } é seu site padrão para abrir links de envio de email.
+protocolhandler-mailto-handler-set-message = Usar <strong>{ $url } no { -brand-short-name }</strong> toda vez que clicar em um link que abre seu email?
+protocolhandler-mailto-handler-confirm-message = Agora <strong>{ $url } no { -brand-short-name }</strong> é o gerenciador de email padrão do computador.
 
 ##
 
