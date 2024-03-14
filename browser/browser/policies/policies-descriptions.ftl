@@ -17,6 +17,8 @@ policy-AppAutoUpdate = Embojuruja térã eipe’a ñembohekopyahu ijeheguíva je
 policy-AppUpdatePin = Aníkena rembopyahu { -brand-short-name } ohasávo pe versión oje’éva.
 policy-AppUpdateURL = Embohekopyahu URL kundaharape rembiporu ñemomba’epyre.
 policy-Authentication = Emboheko ñemoañete ojuajúva ñanduti rendápe g̃uarã moneĩmbyre.
+policy-AutofillAddressEnabled = Emyandy myanyhẽha kundaharendápe g̃uarã.
+policy-AutofillCreditCardEnabled = Emyandy myanyhẽha jehepyme’ẽrãme g̃uarã.
 policy-AutoLaunchProtocolsFromOrigins = Ejapo taperekoite rysýi okaygua ojeporukuaáva ñepyrũha guive ojehecháva tysýipe oñemoneĩ’ỹre poruhárape.
 policy-BackgroundAppUpdate2 = Emyandy térã embogue pe ñemboheko mokõihaguáva.
 policy-BlockAboutAddons = Ejoko Moĩmbaha ñangarekohápe jeike (about: addons).
@@ -26,6 +28,7 @@ policy-BlockAboutSupport = Ejoko about:support kuatiaroguépe jeike.
 policy-Bookmarks = Emoheñói techaukaha tembiporu renda rechaukahápe, pe techaukaha poravorãme térã peteĩ ñongatuhaitépe oĩva hyepýpe voi.
 policy-CaptivePortal = Embojuruja térã eipe’a pe pytyvõha ñapytĩmbýva.
 policy-CertificatesDescription = Embojuaju mboajepyre térã eiporu mboajepyre moingepyre.
+policy-ContentAnalysis = Embojuruja térã eipe’a jeikerã omboykekuaáava mba’ekuaarã ñehundi.
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Eheka porureko ojokupytýva mba’eryru ndive.
