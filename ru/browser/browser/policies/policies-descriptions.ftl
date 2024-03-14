@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Блокирует доступ к странице a
 policy-Bookmarks = Создаёт закладки в панели закладок, меню закладок, или в отдельной папке внутри них.
 policy-CaptivePortal = Включает или отключает поддержку перехватывающего портала.
 policy-CertificatesDescription = Добавляет сертификаты или использует встроенные сертификаты.
+policy-ContentAnalysis = Включает или отключает соединение с агентом системы предотвращения утечек данных (DLP).
 policy-Cookies = Разрешает или запрещает веб-сайтам устанавливать куки.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Устанавливает политики, связанные с контейнерами.
