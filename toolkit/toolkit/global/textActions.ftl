@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = ы
 text-action-search-text-box-clear =
     .title = Очистить
+text-action-highlight-selection =
+    .label = Подсветить выделение
