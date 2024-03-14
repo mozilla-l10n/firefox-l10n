@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = Ekki núna
 
 protocolhandler-mailto-handler-notificationbox-always = Alltaf opna tölvupósttengla með { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } er nú sjálfgefna vefsvæðið þitt til að opna tengla sem senda tölvupóst.
+protocolhandler-mailto-handler-set-message = Notarðu <strong>{ $url } á { -brand-short-name }</strong> í hvert skipti sem þú smellir á tengil sem opnar tölvupóstinn þinn?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } á { -brand-short-name }</strong> er nú sjálfgefið tölvupóstforrit tölvunnar þinnar.
 
 ##
 
