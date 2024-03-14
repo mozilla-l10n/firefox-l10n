@@ -41,6 +41,7 @@ process-type-socket = Moingeha
 process-type-rdd = RDD
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Actor IPC pa’ũ guasúpe
+process-type-utility-actor-audio-decoder-generic = Mba’epu papapy’oha ha’ete’ỹva
 process-type-utility-actor-audio-decoder-applemedia = AppleMedia jeporurã
 process-type-utility-actor-audio-decoder-wmf = Windows Media Foundation jeporurã
 process-type-utility-actor-mf-media-engine = Media Foundation Engine jeporurã

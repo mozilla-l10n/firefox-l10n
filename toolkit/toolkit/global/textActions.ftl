@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Mopotĩ
+text-action-highlight-selection =
+    .label = Embosa’y jeporavopy
