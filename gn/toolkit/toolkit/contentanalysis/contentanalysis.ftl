@@ -13,6 +13,8 @@ contentanalysis-slow-agent-dialog-body = Pe tetepy ñehesa’ỹijoha ohesa’�
 contentanalysis-slow-agent-dialog-header = Moha’ãnga ojehúva
 contentanalysis-operationtype-clipboard = kuatiajokoha
 contentanalysis-operationtype-dropped-text = moñe’ẽrã ho’áva
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = “{ $filename }” ñemyanyhẽ
 contentanalysis-warndialogtitle = Ko tetepy ikatu nahekorosãi
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -30,3 +32,5 @@ contentanalysis-block-message = Nde atyguasu oiporu software mba’ekuaarã ani 
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Oiko jajavy ehaívo pe software mba’ekuaarã mo’ãhápe. Noñemoneĩri ñembohasa porupyrã: { $content }.
+contentanalysis-inprogress-quit-title = ¿Esẽ { -brand-shorter-name }-gui?
+contentanalysis-inprogress-quit-yesbutton = Héẽ, esẽ

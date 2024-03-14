@@ -282,6 +282,7 @@ try-newer-driver = Ojejokóva peteĩchagua ta’ãngápe ñangarekohárape. Eñe
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType ra’ãhaite
 compositing = Hetepyete
+support-font-determination = Marandu teñoiha jehecha mopotĩha
 hardware-h264 = Hardware H264 Papapy’o
 main-thread-no-omtc = inimbo ha’etéva, OMTC ỹre
 yes = Héẽ
