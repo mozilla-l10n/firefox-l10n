@@ -12,6 +12,7 @@ protocolhandler-mailto-os-handler-no-button = Niet nu
 
 protocolhandler-mailto-handler-notificationbox-always = E-mailkoppelingen altijd openen met { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } is nu uw standaardwebsite voor het openen van koppelingen die e-mail verzenden.
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } in { -brand-short-name }</strong> is nu het standaard e-mailprogramma op uw computer.
 
 ##
 
