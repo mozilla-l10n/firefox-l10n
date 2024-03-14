@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = T
 text-action-search-text-box-clear =
     .title = Wissen
+text-action-highlight-selection =
+    .label = Selectie markeren
