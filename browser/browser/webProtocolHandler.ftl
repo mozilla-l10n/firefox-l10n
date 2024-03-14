@@ -6,15 +6,14 @@ protocolhandler-mailto-os-handler-notificationbox = Вы всегда испол
 protocolhandler-mailto-os-handler-yes-confirm = { -brand-short-name } теперь является вашим приложением по умолчанию для открытия ссылок, отправляющих электронное письмо.
 protocolhandler-mailto-os-handler-yes-button = Установить по умолчанию
 protocolhandler-mailto-os-handler-no-button = Не сейчас
-# Variables:
-#  $url (String): The url of a webmailer, but only its full domain name.
-protocolhandler-mailto-handler-notificationbox = Открывать ссылки электронной почты, используя { $url }?
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-notificationbox-always = Всегда открывать ссылки электронной почты через { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } теперь является вашим сайтом по умолчанию для открытия ссылок, отправляющих электронную почту.
+protocolhandler-mailto-handler-set-message = Использовать <strong>{ $url } в { -brand-short-name }</strong> каждый раз, когда вы нажимаете на ссылку, открывающую вашу электронную почту?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } в { -brand-short-name }</strong> теперь является обработчиком электронной почты по умолчанию на вашем компьютере.
 
 ##
 
