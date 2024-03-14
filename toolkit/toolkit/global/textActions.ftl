@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Nete
+text-action-highlight-selection =
+    .label = Evidenzie selezion
