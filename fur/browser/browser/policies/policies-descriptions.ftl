@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Bloche l'acès ae pagjine about:support.
 policy-Bookmarks = Cree i segnelibris te sbare dai segneliris, tal menù segnelibris o intune specifiche cartele che ur sta dentri.
 policy-CaptivePortal = Abilite o disabilite il supuart pal portâl presonîr (captive portal).
 policy-CertificatesDescription = Zonte certificâts o dopre i certificâts integrâts.
+policy-ContentAnalysis = Ative o disative la conession al agjent pe prevenzion des pierditis di dâts.
 policy-Cookies = Permet o dinee ai sîts web di definî cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Stabilìs lis politichis relativis ai contignidôrs.
