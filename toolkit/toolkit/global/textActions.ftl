@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = л
 text-action-search-text-box-clear =
     .title = Тазарту
+text-action-highlight-selection =
+    .label = Таңдалғанды ерекшелеу
