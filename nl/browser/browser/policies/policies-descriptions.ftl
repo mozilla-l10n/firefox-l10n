@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Toegang tot de about:support-pagina blokkeren.
 policy-Bookmarks = Bladwijzers maken in de Bladwijzerwerkbalk, het menu Bladwijzers, of een hierbinnen opgegeven map.
 policy-CaptivePortal = Ondersteuning voor hotspot-aanmeldingspagina inschakelen of uitschakelen.
 policy-CertificatesDescription = Certificaten toevoegen of ingebouwde certificaten gebruiken.
+policy-ContentAnalysis = Verbinding met data-loss-prevention-agent in- of uitschakelen.
 policy-Cookies = Toestaan of weigeren dat websites cookies instellen.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Beleid met betrekking tot containers instellen.
