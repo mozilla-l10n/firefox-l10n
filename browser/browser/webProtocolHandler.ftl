@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = No cumò
 
 protocolhandler-mailto-handler-notificationbox-always = Vierzi simpri i colegaments a direzions e-mail doprant { $url }?
 protocolhandler-mailto-handler-yes-confirm = Cumò { $url } al è il sît predefinît par vierzi colegaments che a inviin e-mail.
+protocolhandler-mailto-handler-set-message = Dopre <strong>{ $url } in { -brand-short-name }</strong> ogni volte che tu fasis clic suntun colegament che al vierç il to client di pueste eletroniche?
+protocolhandler-mailto-handler-confirm-message = Cumò <strong>{ $url } in { -brand-short-name }</strong> al è il gjestôr predefinît di pueste eletroniche pal to computer.
 
 ##
 
