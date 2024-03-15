@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = เพิ่มเครื่อง�
 newtab-topsites-add-shortcut-header = ทางลัดใหม่
 newtab-topsites-edit-topsites-header = แก้ไขไซต์เด่น
 newtab-topsites-edit-shortcut-header = แก้ไขทางลัด
+newtab-topsites-add-shortcut-label = เพิ่มทางลัด
 newtab-topsites-title-label = ชื่อเรื่อง
 newtab-topsites-title-input =
     .placeholder = ป้อนชื่อเรื่อง
@@ -198,6 +199,7 @@ newtab-section-header-recent-activity = กิจกรรมล่าสุด
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = แนะนำโดย { $provider }
+newtab-section-header-stories = เรื่องราวที่จุดประกายความคิด
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -206,6 +208,8 @@ newtab-empty-section-highlights = เริ่มเรียกดูและ�
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = คุณได้อ่านเรื่องราวครบทั้งหมดแล้ว คุณสามารถกลับมาตรวจดูเรื่องราวเด่นจาก { $provider } ได้ภายหลัง อดใจรอไม่ได้งั้นหรือ? เลือกหัวข้อยอดนิยมเพื่อค้นหาเรื่องราวที่ยอดเยี่ยมจากเว็บต่าง ๆ
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = คุณได้อ่านเรื่องราวครบทั้งหมดแล้ว คุณสามารถกลับมาตรวจดูเรื่องราวเพิ่มเติมได้ภายหลัง อดใจรอไม่ได้งั้นหรือ? เลือกหัวข้อยอดนิยมเพื่อค้นหาเรื่องราวที่ยอดเยี่ยมจากเว็บต่างๆ
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -257,9 +261,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = ทางลัดที่ได้รับการสนับสนุน
 newtab-custom-pocket-title = แนะนำโดย { -pocket-brand-name }
 newtab-custom-pocket-subtitle = เนื้อหาสุดพิเศษที่คัดสรรโดย { -pocket-brand-name } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = แนะนำโดย { -pocket-brand-name }
-    .description = เนื้อหาสุดพิเศษที่คัดสรรโดย { -pocket-brand-name } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
 newtab-custom-pocket-sponsored = เรื่องราวที่ได้รับการสนับสนุน
 newtab-custom-pocket-show-recent-saves = แสดงบันทึกล่าสุด
 newtab-custom-recent-title = กิจกรรมล่าสุด
