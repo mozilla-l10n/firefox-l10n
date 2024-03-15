@@ -32,6 +32,7 @@ about-webauthn-current-pin-label = Gjeldande PIN-kode:
 
 ## Buttons
 
+about-webauthn-current-change-pin-button = Endre PIN-kode
 about-webauthn-cancel-button = Avbryt
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Slett
