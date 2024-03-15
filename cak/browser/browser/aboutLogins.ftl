@@ -108,6 +108,7 @@ about-logins-login-intro-heading-logged-in = Majun ximon taq tikirib'äl molojri
 login-intro-description = We xe'ayäk ri rutikirib'al amolojri'ïl pa { -brand-product-name } pa jun chik wi okisab'äl, wawe' nik'ut pe richin nak'ul wawe' chuqa':
 login-intro-instructions-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccount-brand-name } chupam ri okisab'äl, akuchi' e yakäl ri tikirib'äl amolojri'ïl.
 about-logins-login-intro-heading-message = Ke'ayaka' pa jun jikil k'ojlib'äl ri ewan taq atzij
+login-intro-instructions-fxa2 = Tatz'uku' o tatikirisaj molojri'ïl pan ataqoya'l chupam ri okisab'äl, akuchi' e yakäl ri tikirib'äl amolojri'ïl.
 login-intro-instructions-fxa-settings = Jät pa runuk'ulem > Sync > Titzij ri ximoj… Tacha' ri ruk'ojlem Ruwujil chuqa' ewan taq tzij.
 login-intro-instructions-fxa-passwords-help = Tatz'eta' <a data-l10n-name="passwords-help-link">rutob'al ewan taq tzij</a>richin yatkito'.
 about-logins-intro-browser-only-import = We ri rutikirib'al taq amolojri'ïl yakon pa jun chik okik'amaya'l, yatikïr <a data-l10n-name="import-link">ye'ajïk' pa { -brand-product-name }</a>
@@ -168,6 +169,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Richin nanük' ri rutikirib
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = tinuk' ri yakon rutikirib'al molojri'ïl
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Richin nanük' ri ewan atzij, tatz'ib'aj ri ruwujil rutikirisaxik molojri'ïl richin Windows. Re re' nuto' richin nuchajij rujikomal ri rub'i' ataqoya'l.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = tinuk' ri yakon ewan tzij
@@ -248,6 +251,19 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Re' xtuyüj ronojel ri rutikirisab'al molojri'ïl xayäk rik'in { -brand-short-name } pa ronojel ximon taq awokisab'al rik'in { -fxaccount-brand-name }. Re' chuqa' xkeruyüj ri rutzijol taq tz'ilanem yek'ulun wawe'. Man xkatikïr ta xtatzolij re' b'anoj re'.
         [one] Re' xtuyüj ronojel ri rutikirisab'al molojri'ïl xayäk rik'in { -brand-short-name } pa ronojel ximon taq awokisab'al rik'in { -fxaccount-brand-name }. Re' chuqa' xkeruyüj ri rutzijol taq tz'ilanem yek'ulun wawe'. Man xkatikïr ta xtatzolij re' b'anoj re'.
        *[other] Re' xkeruyüj ronojel ri kitikirisab'al taq molojri'ïl xe'ayäk rik'in { -brand-short-name } pa ronojel ximon taq awokisab'al rik'in { -fxaccount-brand-name }. Re' chuqa' xkeruyüj ri rutzijol taq tz'ilanem yek'ulun wawe'. Man xkatikïr ta xtatzolij re' b'anoj re'.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ja', tiyuj ewan tzij
+        [one] Ja', tiyuj ewan tzij
+       *[other] Ja', keyuj ewan taq tzij
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] La niyuj { $count } ewan tzij?
+       *[other] La yeyuj taq { $count } ewan taq tzij?
     }
 
 ##
