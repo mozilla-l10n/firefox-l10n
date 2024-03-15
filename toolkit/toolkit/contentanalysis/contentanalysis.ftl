@@ -44,4 +44,5 @@ contentanalysis-block-message = Nde atyguasu oiporu software mba’ekuaarã ani 
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Oiko jajavy ehaívo pe software mba’ekuaarã mo’ãhápe. Noñemoneĩri ñembohasa porupyrã: { $content }.
 contentanalysis-inprogress-quit-title = ¿Esẽ { -brand-shorter-name }-gui?
+contentanalysis-inprogress-quit-message = Heta tembiapo oñemongu’ehína. Osẽramo { -brand-shorter-name } guive, ko’ã tembiapo noĩmbamoãi.
 contentanalysis-inprogress-quit-yesbutton = Héẽ, esẽ
