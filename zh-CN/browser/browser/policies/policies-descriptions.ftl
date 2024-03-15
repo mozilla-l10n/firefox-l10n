@@ -28,6 +28,7 @@ policy-BlockAboutSupport = 阻止访问 about:support 页面。
 policy-Bookmarks = 在书签工具栏，书签菜单或特定文件夹中创建书签。
 policy-CaptivePortal = 启用或禁用强制门户支持。
 policy-CertificatesDescription = 添加证书或使用内置的证书。
+policy-ContentAnalysis = 启用或禁用与数据泄露防护工具的连接。
 policy-Cookies = 允许或拒绝网站设置 Cookie。
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = 设置身份标签页相关策略。
