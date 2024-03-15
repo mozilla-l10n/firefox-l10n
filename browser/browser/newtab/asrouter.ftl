@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Chilab'en Samaj
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Aruma nintz'ët re'
-
 cfr-doorhanger-extension-cancel-button = Wakami Mani
     .accesskey = M
-
 cfr-doorhanger-extension-ok-button = Titz'aqatisäx Wakami
     .accesskey = T
-
 cfr-doorhanger-extension-manage-settings-button = Kenuk'samajïx taq Kinuk'ulem Chilab'enïk
     .accesskey = K
-
 cfr-doorhanger-extension-never-show-recommendation = Man Tik'ut re Chilab'enïk re'
     .accesskey = T
-
 cfr-doorhanger-extension-learn-more-link = Tetamäx ch'aqa' chik
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ruma { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Chilab'enïk
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Chilab'enïk
     .tooltiptext = Ruchilab'exik k'amal
     .a11y-announcement = Ruchilab'exik k'amal k'o
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Chilab'enïk
     .tooltiptext = Rub'anikil chilab'enïk
     .a11y-announcement = Rub'anikil chilab'enïk k'o
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = K'ak'a' samaj:
-
 cfr-whatsnew-button =
     .label = K'ak'a' Rutzijol
     .tooltiptext = K'ak'a' Rutzijol
-
 cfr-whatsnew-release-notes-link-text = Tasik'ij ri k'ak'a' rutzijol
 
 ## Enhanced Tracking Protection Milestones
@@ -116,16 +108,12 @@ cfr-doorhanger-doh-primary-button-2 = Ütz
 cfr-doorhanger-doh-secondary-button = Tichup
     .accesskey = h
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Rik'in jub'a' man xketzije' ta pa rub'eyal ri taq silowäch pa re ruxaq re' rik'in re ruwäch { -brand-short-name }{ -brand-short-name }. Richin nik'ul tz'aqät ruk'amoj silowäch, tak'exa' { -brand-short-name } wakani.
 cfr-doorhanger-video-support-header = Tak'exa' { -brand-short-name } richin natzïj ri silowäch
 cfr-doorhanger-video-support-primary-button = Tik'ex Wakami
     .accesskey = T
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -140,8 +128,6 @@ spotlight-public-wifi-vpn-primary-button = Tachajij ri awichinanem rik'in { -moz
     .accesskey = h
 spotlight-public-wifi-vpn-link = Wakami Mani
     .accesskey = M
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -171,13 +157,11 @@ spotlight-pin-secondary-button = Wakami mani
 
 mr2022-background-update-toast-title = K'ak'a' { -brand-short-name }. Yalan ichinan. Jub'a' ojqanela'. Majun rojqan.
 mr2022-background-update-toast-text = Tatojtob'ej ri k'ak'a' { -brand-short-name }, k'exon rik'in ri nïm chajixïk chuwäch ojqanem k'o wakami.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Tijaq { -brand-shorter-name } wakami
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -196,7 +180,6 @@ firefoxview-cfr-body-v2 = Kekakolo' ri tz'apin taq ruwi' chuqa' katok chi kipam 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Taq'ejelaj { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = ¿La nawajo' ri jaqon ruwi' pan awoyonib'al? Tachapa'. ¿La nik'atzin ri ruxaq k'a b'a' tatz'ët? Xtzolin rik'in { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Tatz'eta' rub'eyal nisamäj
@@ -206,7 +189,6 @@ firefoxview-spotlight-promo-secondarybutton = Tik'o'
 
 colorways-cfr-primarybutton = Ticha' tunun b'onil
     .accesskey = c
-
 colorways-cfr-header-28days = Ri rub'onil Independent Voice xtik'is ruq'ijul ri 16 ruq'ij nab'ey ik'
 colorways-cfr-header-14days = Ri rub'onil Independent Voice xtik'is ruq'ijul pa ka'i' wuqq'ij
 colorways-cfr-header-7days = Ri rub'onil Independent Voice xtik'is ruq'ijul re wuqq'ij re'
@@ -226,7 +208,6 @@ cfr-cbh-dismiss-button = Wakami mani
 july-jam-headline = Röj yatqachajij
 july-jam-set-default-primary = Kejaq taq nuximöy rik'in { -brand-short-name }
 fox-doodle-pin-headline = Ütz apetik jumul chik
-
 fox-doodle-pin-primary = Kejaq taq nuximöy rik'in { -brand-short-name }
 fox-doodle-pin-secondary = Wakami mani
 
@@ -243,5 +224,21 @@ fxa-sync-cfr-secondary = Tinatäx pe chwe
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = ¿La nokisäx jun rij okisaxel?
-device-migration-fxa-spotlight-link = Tinatäx pe chwe
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-decline-button =
+    .label = Wakami mani
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-reject-button = Wakami mani
+    .accesskey = m
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-secondary-button = Wakami mani

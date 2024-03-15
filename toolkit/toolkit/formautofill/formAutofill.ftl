@@ -11,6 +11,9 @@ autofill-options-link-osx = Taq Ajowab'äl richin pa Ruyonil Ninojisäx
 
 ## The credit card capture doorhanger
 
+credit-card-capture-cancel-button =
+    .label = Wakami mani
+    .accessKey = N
 
 # Used on the doorhanger when an credit card change is detected.
 
