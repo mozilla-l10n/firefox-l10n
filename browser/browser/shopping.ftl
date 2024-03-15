@@ -64,6 +64,9 @@ shopping-message-bar-analysis-in-progress-with-amount = Ahechajey jehechakue ({ 
 shopping-message-bar-page-not-supported =
     .heading = Ndorohechajeykuaái ko marandu’i.
     .message = Rombyasy, ndorohechajeykuaái marandu’i porãngue peteĩchagua apopyrépe. Techapyrã, jopói kuatia’atã ha ta’ãngamýi ñemyasãi, purahéi ha ñembosarái.
+shopping-message-bar-keep-closed-header =
+    .heading = ¿Emboty meme?
+    .message = Embohekopyahukuaa ereko hag̃ua Review Checker mbotyhápe ijypykue rupi. Ko’ág̃a ijurujáta ijehegui.
 shopping-message-bar-keep-closed-dismiss-button = Nahániri, aguyje
 shopping-message-bar-keep-closed-accept-button = Héẽ, embotymeme
 

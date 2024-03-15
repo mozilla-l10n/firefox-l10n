@@ -29,5 +29,6 @@ more-from-moz-firefox-relay-button = Erekóke { -relay-brand-short-name }
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Egueru ijehegui ne maranduete jehechapyréva.
 more-from-moz-mozilla-monitor-global-description = Tog̃uahẽ kyhyjerã ne mba’ekuaarã oñemboguáramo.
 more-from-moz-mozilla-monitor-button = Erekóke { -monitor-brand-short-name }
