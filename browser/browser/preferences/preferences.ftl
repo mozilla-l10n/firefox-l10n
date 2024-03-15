@@ -1273,6 +1273,8 @@ addon-recommendations-link = Ulteriori informazioni
 collection-health-report-disabled = L’invio dei dati è stato disattivato nella configurazione utilizzata per questa build
 collection-backlogged-crash-reports-with-link = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso <a data-l10n-name="crash-reports-link">Ulteriori informazioni</a>
     .accesskey = C
+collection-backlogged-crash-reports = Consenti a { -brand-short-name } di inviare segnalazioni di arresto anomalo in sospeso
+    .accesskey = C
 privacy-segmentation-section-header = Nuove funzioni per migliorare la navigazione
 privacy-segmentation-section-description = Quando introduciamo nuove funzioni che utilizzano i tuoi dati per offrire un’esperienza più personale:
 privacy-segmentation-radio-off =
@@ -1395,4 +1397,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
