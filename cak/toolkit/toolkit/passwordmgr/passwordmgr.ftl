@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = ¿La niyak ri ewan rutzij { $host }?
+password-manager-save-password-button-deny =
+    .label = Wakami mani
+    .accesskey = m
 password-manager-save-password-button-allow =
     .label = Tiyak
     .accesskey = T
