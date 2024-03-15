@@ -12,6 +12,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -51,6 +53,7 @@ firefoxview-syncedtabs-loading-header = อยู่ระหว่างกา�
 firefoxview-syncedtabs-loading-description = เมื่อเสร็จแล้ว คุณจะเห็นแท็บที่คุณเปิดไว้ในอุปกรณ์อื่น ๆ โปรดกลับมาดูในเร็ว ๆ นี้
 firefoxview-tabpickup-fxa-admin-disabled-header = องค์กรของคุณปิดใช้งานการซิงค์
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ไม่สามารถซิงค์แท็บระหว่างอุปกรณ์ได้เนื่องจากผู้ดูแลระบบของคุณปิดใช้งานการซิงค์
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ไม่สามารถซิงค์แท็บระหว่างอุปกรณ์ได้เนื่องจากองค์กรของคุณปิดใช้งานการซิงค์
 firefoxview-tabpickup-network-offline-header = ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ
 firefoxview-tabpickup-network-offline-description = หากคุณกำลังใช้ไฟร์วอลล์หรือพร็อกซี ให้ตรวจสอบว่า { -brand-short-name } มีสิทธิ์เข้าถึงเว็บ
 firefoxview-tabpickup-network-offline-primarybutton = ลองอีกครั้ง
@@ -180,6 +183,8 @@ firefoxview-search-results-count = { $count } ไซต์
 firefoxview-search-results-empty = ไม่มีผลลัพธ์สำหรับ “{ $query }”
 firefoxview-sort-history-by-date-label = เรียงตามวันที่
 firefoxview-sort-history-by-site-label = เรียงตามไซต์
+firefoxview-sort-open-tabs-by-recency-label = เรียงตามกิจกรรมล่าสุด
+firefoxview-sort-open-tabs-by-order-label = เรียงตามลำดับแท็บ
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -242,3 +247,25 @@ firefoxview-recentlyclosed-empty-description-two = หากต้องกา�
 
 firefoxview-syncedtabs-device-notabs = ไม่มีแท็บที่เปิดบนอุปกรณ์นี้
 firefoxview-syncedtabs-connect-another-device = เชื่อมต่ออุปกรณ์อื่น
+firefoxview-pinned-tabs =
+    .title = แท็บที่ปักหมุด
+firefoxview-tabs =
+    .title = แท็บ
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = สลับไปที่ { $tabName }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = สลับไปที่ { $tabTitle } (เพิ่มที่คั่นหน้าแล้ว)
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = { $url }  (เพิ่มที่คั่นหน้าแล้ว)

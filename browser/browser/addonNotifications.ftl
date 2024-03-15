@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = ไม่รับประ�
 ##
 
 xpinstall-disabled-locked = การติดตั้งซอฟต์แวร์ถูกปิดใช้งานโดยผู้ดูแลระบบของคุณ
+xpinstall-disabled-by-policy = การติดตั้งซอฟต์แวร์ถูกปิดใช้งานโดยองค์กรของคุณ
 xpinstall-disabled = การติดตั้งซอฟต์แวร์ถูกปิดใช้งานอยู่ในขณะนี้ คลิก เปิดใช้งาน แล้วลองอีกครั้ง
 xpinstall-disabled-button =
     .label = เปิดใช้งาน
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ถูกปิดกั้นโดยผู้ดูแลระบบของคุณ
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = ผู้ดูแลระบบของคุณได้ป้องกันไม่ให้ไซต์นี้ขอคุณเพื่อติดตั้งซอฟต์แวร์ลงในคอมพิวเตอร์ของคุณ
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) ถูกปิดกั้นโดยองค์กรของคุณ
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = องค์กรได้ป้องกันไม่ให้ไซต์นี้ขอคุณเพื่อติดตั้งซอฟต์แวร์ลงในคอมพิวเตอร์ของคุณ
 addon-install-full-screen-blocked = ไม่อนุญาตให้ติดตั้งส่วนเสริมขณะอยู่ในหรือก่อนเข้าสู่โหมดเต็มหน้าจอ
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
