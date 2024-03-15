@@ -12,6 +12,7 @@ protocolhandler-mailto-os-handler-no-button = 暂时不要
 
 protocolhandler-mailto-handler-notificationbox-always = 要始终通过 { $url } 打开邮件链接吗？
 protocolhandler-mailto-handler-yes-confirm = 已将 { $url } 设为打开邮件链接的默认网站。
+protocolhandler-mailto-handler-confirm-message = <strong>{ -brand-short-name }（{ $url }）</strong>现在是您计算机上的默认邮件应用。
 
 ##
 
