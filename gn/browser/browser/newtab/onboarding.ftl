@@ -352,6 +352,7 @@ onboarding-new-user-familiarity-based-survey-title = Eikuaápa mba’éicha ojep
 onboarding-new-user-survey-subtitle = Ne remiandu orepytyvõ { -brand-short-name } oikoporãvévo.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Upeigua
+onboarding-new-user-survey-legal-link-label = Eiporavóvo “{ onboarding-new-user-survey-next-button-label },” emoneĩ <a data-l10n-name="privacy_notice">marandu’i ñemigua</a> { -brand-product-name } rehegua
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Che pyahu ápe
 onboarding-new-user-survey-time-based-option-2 = 1 jasy mboyve

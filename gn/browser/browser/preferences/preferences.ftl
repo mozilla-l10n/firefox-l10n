@@ -203,6 +203,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Eipe’a ko guerekoha
 containers-remove-cancel-button = Aníke eipe’a ko guerekoha
+settings-tabs-show-image-in-preview =
+    .label = Ehechauka hechaha ypy embohasávo hekaha tendayke ári
+    .accessKey = h
 
 ## General Section - Language & Appearance
 

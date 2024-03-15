@@ -12,6 +12,7 @@ protocolhandler-mailto-os-handler-no-button = Ani ko’ág̃a
 
 protocolhandler-mailto-handler-notificationbox-always = ¿Embojuruja ñanduti veve juajuha eiporúvo { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } ha’e tenda ypygua embojuruja hag̃ua juajuha omondóva ñanduti veve.
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } { -brand-short-name }</strong> pegua ha’e oñangarekóva ñanduti veve ypyguáva ne mohendahápe.
 
 ##
 
