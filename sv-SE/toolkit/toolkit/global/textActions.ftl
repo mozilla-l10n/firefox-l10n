@@ -63,4 +63,4 @@ text-action-spell-dictionaries =
 text-action-search-text-box-clear =
     .title = Rensa
 text-action-highlight-selection =
-    .label = Markera markering
+    .label = Markera urval
