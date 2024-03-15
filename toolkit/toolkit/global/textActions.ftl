@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = 清空
+text-action-highlight-selection =
+    .label = 高亮选中部分
