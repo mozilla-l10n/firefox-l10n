@@ -11,6 +11,17 @@ contentanalysis-slow-agent-dialog-title = Tetepy resa’ỹijo oikovahína
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Pe tetepy ñehesa’ỹijoha ohesa’ỹijo “{ $content }” mba’e
 contentanalysis-slow-agent-dialog-header = Moha’ãnga ojehúva
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } ohechahína “{ $filename }” he’iháicha atyguasu mba’ekuaarã porureko. Kóva ipukumiekuaa.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } ohechahína oikova’ekue he’iháicha atyguasu mba’ekuaarã porureko. Kóva ipukumiekuaa.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } ohechahína moñe’ẽrã ojepoíva he’iháicha atyguasu mba’ekuaarã porureko. Kóva ipukumiekuaa.
 contentanalysis-operationtype-clipboard = kuatiajokoha
 contentanalysis-operationtype-dropped-text = moñe’ẽrã ho’áva
 #   $filename - The filename associated with the request, such as "aFile.txt"
