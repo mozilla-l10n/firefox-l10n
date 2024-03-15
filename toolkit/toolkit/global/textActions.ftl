@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = Γ
 text-action-search-text-box-clear =
     .title = Απαλοιφή
+text-action-highlight-selection =
+    .label = Επισήμανση επιλογής

@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = Όχι τώρα
 
 protocolhandler-mailto-handler-notificationbox-always = Να ανοίγουν πάντα οι σύνδεσμοι email με το { $url };
 protocolhandler-mailto-handler-yes-confirm = Το { $url } είναι πλέον ο προεπιλεγμένος ιστότοπός σας για το άνοιγμα συνδέσμων που στέλνουν email.
+protocolhandler-mailto-handler-set-message = Χρήση του <strong>{ $url } στο { -brand-short-name }</strong> κάθε φορά που κάνετε κλικ σε σύνδεσμο που ανοίγει το email σας;
+protocolhandler-mailto-handler-confirm-message = Το <strong>{ $url } στο { -brand-short-name }</strong> είναι πλέον ο προεπιλεγμένος τρόπος χειρισμό email του υπολογιστή σας.
 
 ##
 
