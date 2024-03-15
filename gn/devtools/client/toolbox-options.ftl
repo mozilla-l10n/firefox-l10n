@@ -43,6 +43,9 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Eiporu jehechaukaha’i prefers-reduced-motion ndive
 options-inspector-simplified-highlighters-tooltip =
     .title = Emyandy mba’erechaukaha momichĩmbyre oñembojurujávo prefers-reduced-motion. Ehai línea rectángulo henyhẽmbyréva rendaguépe mba’eporu jerére ani hag̃ua ikangy.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Embohasa ambue jeikehápe <kbd>Enter</kbd>
 
 ## "Default Color Unit" options for the Inspector
 
