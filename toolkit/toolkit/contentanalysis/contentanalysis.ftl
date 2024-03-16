@@ -29,7 +29,7 @@ contentanalysis-customdisplaystring-description = 上传“{ $filename }”
 contentanalysis-warndialogtitle = 此内容可能不安全
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-warndialogtext = 您的组织使用的数据丢失防护软件将此内容标记为不安全：{ $content }。仍要使用吗？
+contentanalysis-warndialogtext = 您的组织使用的数据泄露防护软件将此内容标记为不安全：{ $content }。仍要使用吗？
 contentanalysis-warndialog-response-allow = 使用内容
 contentanalysis-warndialog-response-deny = 取消
 contentanalysis-notification-title = 内容分析
@@ -39,10 +39,10 @@ contentanalysis-notification-title = 内容分析
 contentanalysis-genericresponse-message = 内容分析对以下资源作出 { $response } 响应：{ $content }
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-block-message = 您的组织使用的数据丢失防护软件拦截了此内容：{ $content }。
+contentanalysis-block-message = 您的组织使用的数据泄露防护软件拦截了此内容：{ $content }。
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = 与数据丢失防护软件通信时发生错误。对以下资源的传输被拒绝：{ $content }。
+contentanalysis-error-message = 与数据泄露防护软件通信时发生错误。对以下资源的传输被拒绝：{ $content }。
 contentanalysis-inprogress-quit-title = 确定退出 { -brand-shorter-name } 吗？
 contentanalysis-inprogress-quit-message = 有几项操作正在进行。若退出 { -brand-shorter-name }，这些操作将无法完成。
 contentanalysis-inprogress-quit-yesbutton = 是，退出
