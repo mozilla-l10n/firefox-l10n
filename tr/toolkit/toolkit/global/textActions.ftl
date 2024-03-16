@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = D
 text-action-search-text-box-clear =
     .title = Temizle
+text-action-highlight-selection =
+    .label = Seçimi vurgula

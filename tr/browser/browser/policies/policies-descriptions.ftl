@@ -28,6 +28,7 @@ policy-BlockAboutSupport = about:support sayfasına erişimi engelle.
 policy-Bookmarks = Yer imleri araç çubuğunda, yer imleri menüsünde veya bunların içindeki belli bir klasörde yer imi oluştur.
 policy-CaptivePortal = Kısıtlama portalı desteğini aç veya kapat.
 policy-CertificatesDescription = Sertifika ekle veya yerleşik sertifikaları kullan.
+policy-ContentAnalysis = data-loss-prevention istemci bağlantısını etkinleştir veya devre dışı bırak.
 policy-Cookies = Web sitelerinin çerez ayarlamasına izin ver veya verme.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Kapsayıcılarla ilgili ilkeleri ayarla.
