@@ -81,7 +81,7 @@ about-processes-with-coop-coep-process-private = { $origin } — Riêng tư ({ $
 #                   Can be an empty string if the process is idle.
 about-processes-active-threads =
     { $active ->
-       *[other] { $active } luồng hoạt động trong số { $number }: { $list }
+       *[other] { $active } luồng hoạt động trong tổng số { $number }: { $list }
     }
 # Single-line summary of threads (idle process)
 # Variables:
