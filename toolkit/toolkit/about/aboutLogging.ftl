@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # This is the title of the page
-about-logging-title = Günlük kaydı hakkında
+about-logging-title = Log kaydı hakkında
 about-logging-page-title = Log kaydı yöneticisi
 about-logging-current-log-file = Geçerli log dosyası:
 about-logging-new-log-file = Yeni log dosyası:
@@ -18,7 +18,7 @@ about-logging-set-log-modules = Log modüllerini ayarla
 about-logging-start-logging = Log tutmayı başlat
 about-logging-stop-logging = Log tutmayı durdur
 about-logging-buttons-disabled = Log kaydı, ortam değişkenleri aracılığıyla yapılandırıldı; dinamik yapılandırma kullanılamıyor.
-about-logging-some-elements-disabled = Log kaydı URL aracılığıyla yapılandırıldı, bazı yapılandırma seçenekleri kullanılamıyor.
+about-logging-some-elements-disabled = Log kaydı URL aracılığıyla yapılandırıldığı için bazı yapılandırma seçenekleri kullanılamıyor
 about-logging-info = Bilgi:
 about-logging-log-modules-selection = Log modülü seçimi
 about-logging-new-log-modules = Yeni log modülleri:

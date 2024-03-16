@@ -11,6 +11,13 @@ contentanalysis-slow-agent-dialog-title = İçerik analizi devam ediyor
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = İçerik analizi aracı “{ $content }” kaynağını analiz ediyor
 contentanalysis-slow-agent-dialog-header = Tarama devam ediyor
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent }, “{ $filename }” dosyasını kuruluşunuzun veri ilkelerine göre inceliyor. Bu işlem birkaç saniye sürebilir.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent }, yapıştırdığınız verileri kuruluşunuzun veri ilkelerine göre inceliyor. Bu işlem birkaç saniye sürebilir.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
