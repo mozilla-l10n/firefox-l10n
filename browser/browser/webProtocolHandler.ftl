@@ -6,15 +6,14 @@ protocolhandler-mailto-os-handler-notificationbox = Luôn sử dụng { -brand-s
 protocolhandler-mailto-os-handler-yes-confirm = { -brand-short-name } hiện là ứng dụng mặc định của bạn để mở các liên kết gửi email.
 protocolhandler-mailto-os-handler-yes-button = Đặt làm mặc định
 protocolhandler-mailto-os-handler-no-button = Không phải bây giờ
-# Variables:
-#  $url (String): The url of a webmailer, but only its full domain name.
-protocolhandler-mailto-handler-notificationbox = Mở liên kết email bằng { $url }?
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-notificationbox-always = Luôn mở liên kết email bằng { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } hiện là trang web mặc định của bạn để mở các liên kết gửi email.
+protocolhandler-mailto-handler-set-message = Sử dụng <strong>{ $url } trong { -brand-short-name }</strong> mỗi khi bạn nhấp vào liên kết mở email của bạn?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } trong { -brand-short-name }</strong> bây giờ là trình xử lý email mặc định trên máy tính của bạn.
 
 ##
 

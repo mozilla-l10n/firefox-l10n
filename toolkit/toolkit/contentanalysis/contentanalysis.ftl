@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } đang xem xét n�
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } đang xem xét văn bản bạn đã gửi chống lại chính sách dữ liệu của tổ chức bạn hay không. Việc này có thể mất một chút thời gian.
 contentanalysis-operationtype-clipboard = khay nhớ tạm
 contentanalysis-operationtype-dropped-text = văn bản đã kéo thả
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = tải lên của “{ $filename }”
 contentanalysis-warndialogtitle = Nội dung này có thể không an toàn
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = Tổ chức của bạn sử dụng phần mềm
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Đã xảy ra lỗi khi giao tiếp với phần mềm ngăn ngừa mất dữ liệu. Việc chuyển tiếp tài nguyên bị từ chối: { $content }.
+contentanalysis-inprogress-quit-title = Thoát { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Một số hành động đang được tiến hành. Nếu bạn thoát { -brand-shorter-name }, những hành động này sẽ không được hoàn thành.
+contentanalysis-inprogress-quit-yesbutton = Có, hãy thoát
