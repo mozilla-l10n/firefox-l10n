@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = K
 text-action-search-text-box-clear =
     .title = Tyhjennä
+text-action-highlight-selection =
+    .label = Korosta valinta
