@@ -230,7 +230,7 @@ set-default-pdf-handler-primary = Anladım
 fxa-sync-cfr-header = Yeni bir cihaza geçmeyi düşünüyor musunuz?
 fxa-sync-cfr-body = { -brand-product-name } tarayıcısını yüklediğiniz her yere yer imleriniz, parolalarınız ve sekmeleriniz de sizinle birlikte gelsin.
 fxa-sync-cfr-primary = Bilgi al
-    .accesskey = D
+    .accesskey = B
 fxa-sync-cfr-secondary = Daha sonra hatırlat
     .accesskey = D
 
