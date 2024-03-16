@@ -340,7 +340,7 @@ applications-use-os-default =
         }
 applications-use-other =
     .label = 使用其他…
-applications-select-helper = 选择助手应用程序
+applications-select-helper = 选择对应应用程序
 applications-manage-app =
     .label = 应用程序详细信息…
 applications-always-ask =
