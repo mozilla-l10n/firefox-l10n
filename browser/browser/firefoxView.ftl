@@ -257,7 +257,7 @@ firefoxview-tabs =
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
 firefoxview-opentabs-pinned-tab =
-    .title = สลับไปที่ { $tabName }
+    .title = สลับไปที่ { $tabTitle }
 # This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
 firefoxview-opentabs-bookmarked-pinned-tab =
     .title = สลับไปที่ { $tabTitle } (เพิ่มที่คั่นหน้าแล้ว)
