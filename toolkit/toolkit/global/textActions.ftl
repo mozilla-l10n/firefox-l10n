@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = G
 text-action-search-text-box-clear =
     .title = Spastroje
+text-action-highlight-selection =
+    .label = Theksoje Përzgjedhjen

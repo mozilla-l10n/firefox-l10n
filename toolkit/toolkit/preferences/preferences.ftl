@@ -22,6 +22,7 @@ set-password-reenter-password = Rijepeni fjalëkalimin:
 set-password-meter = Matës cilësie fjalëkalimesh
 set-password-meter-loading = Po ngarkohet
 primary-password-admin = Që të mund të ruhen kredenciale hyrjesh dhe fjalëkalime, përgjegjësi juaj kërkon që të keni doemos të caktuar një Fjalëkalim të Përgjithshëm.
+primary-password-required-by-policy = Enti juaj lyp të keni të ujdisur një Fjalëkalim Parësor, që të mund të ruani kredenciale hyrjesh dhe fjalëkalime.
 primary-password-description = Fjalëkalimi i Përgjithshëm përdoret për të mbrojtur në këtë pajisje të dhëna me zarar, p.sh., kredenciale hyrjesh dhe fjalëkalime. Nëse krijoni një Fjalëkalim të Përgjithshëm, do t'ju kërkohet ta jepni atë një herë për çdo sesion, sa herë që { -brand-short-name }-i merr të dhënat e ruajtura të mbrojtura me fjalëkalim.
 primary-password-warning = Ju lutemi, sigurohuni se e mbani mend Fjalëkalimin e Përgjithshëm që caktuat.  Nëse harroni Fjalëkalimin tuaj të Përgjithshëm, nuk do të jeni më në gjendje të hyni në dhëna të mbrojtura me të në këtë pajisje.
 remove-primary-password =
