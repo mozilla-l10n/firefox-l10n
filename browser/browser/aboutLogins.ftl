@@ -96,7 +96,7 @@ login-intro-description = 若您曾在其他设备上将登录信息保存到 { 
 login-intro-instructions-fxa = 在您保存登录信息的设备，注册或登录 { -fxaccount-brand-name }
 about-logins-login-intro-heading-message = 集中一处，安全保存密码
 login-intro-description2 = 所有保存到 { -brand-product-name } 的密码都受加密保护。我们还会关注外泄事件动态，并在您的账户受影响时向您发出警报。<a data-l10n-name="breach-alert-link">详细了解</a>
-login-intro-instructions-fxa2 = 在您保存登录信息的设备上注册或登录账户。
+login-intro-instructions-fxa2 = 在您保存登录信息的设备上创建或登录账户。
 login-intro-instructions-fxa-settings = 前往“设置”>“同步”>“开启同步…”，勾选“登录名和密码”复选框。
 login-intro-instructions-fxa-passwords-help = 若需更多帮助，请访问<a data-l10n-name="passwords-help-link">密码支持</a>页面。
 about-logins-intro-browser-only-import = 若登录信息保存在其他浏览器，您可以<a data-l10n-name="import-link">导入到 { -brand-product-name }</a>
