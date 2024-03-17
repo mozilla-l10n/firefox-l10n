@@ -251,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = Për të gjetur skeda hapur m
 
 firefoxview-syncedtabs-device-notabs = Pa skeda të hapura në këtë pajisje
 firefoxview-syncedtabs-connect-another-device = Lidhni pajisje tjetër
+firefoxview-pinned-tabs =
+    .title = Skeda të Fiksuara
+firefoxview-tabs =
+    .title = Skeda
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Kalo te { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Kalo te { $tabTitle } (E faqeruajtur)
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (E faqeruajtur) { $url }

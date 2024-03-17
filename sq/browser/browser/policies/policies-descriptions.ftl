@@ -17,6 +17,8 @@ policy-AppAutoUpdate = Aktivizoni ose çaktivizoni përditësime të vetvetishme
 policy-AppUpdatePin = Pengoje { -brand-short-name }-in të përditësohet tej versionit të treguar.
 policy-AppUpdateURL = Caktoni URL vetjake përditësimi aplikacioni.
 policy-Authentication = Formësoni mirëfilltësim të integruar për sajte që e mbulojnë atë.
+policy-AutofillAddressEnabled = Aktivizo vetëplotësim për adresa.
+policy-AutofillCreditCardEnabled = Aktivizo vetëplotësim për metoda pagesash.
 policy-AutoLaunchProtocolsFromOrigins = Përcaktoni një listë protokollesh të jashtë që mund të përdoren prej origjinash të treguara, pa pyetur përdoruesin.
 policy-BackgroundAppUpdate2 = Aktivizoni ose çaktivizoni përditësuesin në prapaskenë.
 policy-BlockAboutAddons = Bllokoni hyrje te Përgjegjësi i Shtesave (about:addons).
@@ -26,6 +28,7 @@ policy-BlockAboutSupport = Bllokoni hyrje te faqja about:support.
 policy-Bookmarks = Krijoni faqerojtës te paneli Faqerojtës, menuja Faqerojtës, ose te një dosje e caktuar brenda tyre.
 policy-CaptivePortal = Aktivizoni ose çaktivizoni mbulim për captive portal.
 policy-CertificatesDescription = Shtoni dëshmi ose përdorni dëshmi të brendshme të programit.
+policy-ContentAnalysis = Aktivizoni, ose çaktivizoni lidhje me agjent parandalimi humbjeje të dhënash.
 policy-Cookies = Lejoni ose jo që sajte të depozitojnë “cookies”.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Caktoni rregulla lidhur me kontejnerët.

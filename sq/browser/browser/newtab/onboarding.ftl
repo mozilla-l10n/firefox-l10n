@@ -347,6 +347,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Faleminderit që përdorni 
 onboarding-new-user-time-based-survey-title = Prej sa kohësh e përdorni { -brand-short-name }-in?
 onboarding-new-user-familiarity-based-survey-title = Sa i familjarizuar jeni me { -brand-short-name }-in?
 onboarding-new-user-survey-subtitle = Përshtypjet tuaja ndihmojnë për ta bërë { -brand-short-name }-in edhe më të mirë.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Pasuesi
+onboarding-new-user-survey-legal-link-label = Duke përzgjedhur “{ onboarding-new-user-survey-next-button-label },” pajtoheni me { -brand-product-name }’s <a data-l10n-name="privacy_notice">Shënim Privatësie</a>
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Jam fringo i ri
 onboarding-new-user-survey-time-based-option-2 = Më pak se 1 muaj
