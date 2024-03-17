@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Odpri { $targetURI } v novem zavihku
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Zapri { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Zapri { $tabTitle }
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Premakni v novo okno
     .accesskey = o
 fxviewtabrow-send-tab = Pošlji zavihek na napravo
     .accesskey = P
+fxviewtabrow-pin-tab = Pripni zavihek
+    .accesskey = P
+fxviewtabrow-unpin-tab = Odpni zavihek
+    .accesskey = p
+fxviewtabrow-mute-tab = Utišaj zavihek
+    .accesskey = U
+fxviewtabrow-unmute-tab = Povrni glasnost zavihka
+    .accesskey = r
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Povrni zvok { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Utišaj zavihek
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Povrni glasnost zavihka

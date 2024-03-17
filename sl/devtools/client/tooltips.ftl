@@ -38,6 +38,11 @@ inactive-css-not-table-cell = Lastnost <strong>{ $property }</strong> ne vpliva 
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ne drsi.
 inactive-css-border-image = <strong>{ $property }</strong> nima vpliva na ta element, ker te lastnosti ni mogoče uporabiti za notranje elemente tabele, kjer je v elementu starševske tabele <strong>border-collapse</strong> nastavljen na <strong>collapse</strong>.
 inactive-css-ruby-element = <strong>{ $property }</strong> nima vpliva na ta element, ker je to element ruby. Njegovo velikost določa velikost pisave besedila ruby.
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih highlight.
 inactive-css-cue-pseudo-element-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih ::cue.
 # Variables:
@@ -53,7 +58,8 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ne vp
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Poskusite dodati <strong>display:grid</strong> ali <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Poskusite dodati <strong>display:grid</strong>, <strong>display:flex</strong> ali <strong>columns:2</strong>. { learn-more }
@@ -94,3 +100,10 @@ css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> 
 css-compatibility-experimental-message = <strong>{ $property }</strong> je poskusna lastnost. Ne podpirajo je naslednji brskalniki:
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> je poskusna lastnost.
 css-compatibility-learn-more-message = <span data-l10n-name="link">Več</span> o <strong>{ $rootProperty }</strong>
+
+## In the Rule View when a rule selector can causes issues, we display an icon.
+## When this icon is hovered one or more of those messages are displayed to explain what
+## the issue are.
+
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Ta izbirnik uporablja neomejen <strong>:has()</strong>, ki je lahko počasen

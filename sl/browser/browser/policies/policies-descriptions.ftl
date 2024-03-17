@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Zavrni dostop do strani about:support.
 policy-Bookmarks = Ustvarjaj zaznamke v orodni vrstici, meniju zaznamkov ali v določeni mapi.
 policy-CaptivePortal = Omogoči ali onemogoči podporo za prestrezni portal.
 policy-CertificatesDescription = Dodaj digitalna potrdila ali uporabi vgrajena potrdila.
+policy-ContentAnalysis = Omogoči ali onemogoči povezovanje s agentom za preprečevanje izgube podatkov.
 policy-Cookies = Spletnim mestom dovoli ali prepovej nastavljanje piškotkov.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Nastavi pravilnike, povezane z vsebniki.
