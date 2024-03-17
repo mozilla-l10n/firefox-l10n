@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = Не зараз
 
 protocolhandler-mailto-handler-notificationbox-always = Заўсёды адкрываць спасылкі электроннай пошты з дапамогай { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } цяпер ваш прадвызначаны сайт для адкрыцця спасылак, якія адпраўляюць электронную пошту.
+protocolhandler-mailto-handler-set-message = Выкарыстоўваць <strong>{ $url } у { -brand-short-name }</strong> кожны раз, калі вы націскаеце спасылку, якая адкрывае вашу электронную пошту?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } у { -brand-short-name }</strong> цяпер прадвызначаны апрацоўшчык электроннай пошты на вашым камп'ютары.
 
 ##
 

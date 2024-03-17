@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = М
 text-action-search-text-box-clear =
     .title = Ачысціць
+text-action-highlight-selection =
+    .label = Падфарбаваць вылучэнне
