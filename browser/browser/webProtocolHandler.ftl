@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = Ne zdaj
 
 protocolhandler-mailto-handler-notificationbox-always = Želite za odpiranje e-poštnih povezav vedno uporabiti { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } je zdaj vaše privzeto spletno mesto za odpiranje povezav za pošiljanje e-pošte.
+protocolhandler-mailto-handler-set-message = Želite uporabiti <strong>{ $url } v { -brand-short-name(sklon: "mestnik") }</strong> vsakič, ko kliknete povezavo do e-pošte?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } v { -brand-short-name }</strong> je zdaj privzeta aplikacija za e-pošto v vašem računalniku.
 
 ##
 
