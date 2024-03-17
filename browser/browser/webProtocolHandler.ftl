@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = Teraz nie
 
 protocolhandler-mailto-handler-notificationbox-always = Vždy otvárať e‑mailové odkazy pomocou { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } je teraz vašou predvolenou stránkou na otváranie odkazov, ktoré odosielajú e‑maily.
+protocolhandler-mailto-handler-set-message = Použiť <strong>{ $url } vo { -brand-short-name(case: "loc") }</strong> zakaždým, keď kliknete na odkaz, ktorý otvára e‑maily?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } vo { -brand-short-name(case: "loc") }</strong> je teraz predvoleným obslužným nástrojom pre e‑maily vo vašom počítači.
 
 ##
 
