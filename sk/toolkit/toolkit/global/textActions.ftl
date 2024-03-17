@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = J
 text-action-search-text-box-clear =
     .title = Vymazať
+text-action-highlight-selection =
+    .label = Zvýrazniť výber
