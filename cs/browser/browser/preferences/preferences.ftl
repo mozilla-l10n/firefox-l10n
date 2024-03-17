@@ -677,7 +677,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Výjimečný obsah vybraný společností { $provider }, která je součástí rodiny { -brand-product-name(case: "gen") }
 home-prefs-recommended-by-header-generic =
     .label = Doporučené příběhy
-home-prefs-recommended-by-description-generic = Výjimečný obsah od rodiny { -brand-product-name }
+home-prefs-recommended-by-description-generic = Výjimečný obsah od rodiny { -brand-product-name(case: "gen") }
 
 ##
 

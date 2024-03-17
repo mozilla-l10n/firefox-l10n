@@ -501,7 +501,7 @@ onboarding-new-user-survey-subtitle =
     }
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Další
-onboarding-new-user-survey-legal-link-label = Výběrem “{ onboarding-new-user-survey-next-button-label }” souhlasíte se <a data-l10n-name="privacy_notice">zásadami ochrany osobních údajů</a> { -brand-product-name }
+onboarding-new-user-survey-legal-link-label = Výběrem “{ onboarding-new-user-survey-next-button-label }” souhlasíte se <a data-l10n-name="privacy_notice">zásadami ochrany osobních údajů</a> { -brand-product-name(case: "gen") }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Jsem nováček
 onboarding-new-user-survey-time-based-option-2 = Méně než 1 měsíc
