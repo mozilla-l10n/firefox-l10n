@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Zablokuje prístup na stránku about:support.
 policy-Bookmarks = Vytvorí záložku na paneli záložiek, v ponuke alebo vo vybranom priečinku.
 policy-CaptivePortal = Povolenie alebo zakázanie podpory pre captive portály.
 policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
+policy-ContentAnalysis = Povolí alebo zakáže pripojenie k agentovi ochrany pred stratou údajov.
 policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Nastaví pravidlá súvisiace s kontajnermi.
