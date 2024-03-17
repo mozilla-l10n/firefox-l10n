@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Hapeni { $targetURI } në një skedë të re
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Mbylle { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Hidhe tej { $tabTitle }
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Kaloje në Dritare të Re
     .accesskey = e
 fxviewtabrow-send-tab = Dërgojeni Skedën në Pajisje
     .accesskey = a
+fxviewtabrow-pin-tab = Fiksoje Skedën
+    .accesskey = F
+fxviewtabrow-unpin-tab = Shfiksoje Skedën
+    .accesskey = k
+fxviewtabrow-mute-tab = Mbylljani zërin Skedës
+    .accesskey = M
+fxviewtabrow-unmute-tab = Rikthejani zërin Skedës
+    .accesskey = z
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Hiqe heshtimin e { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Mbylljani zërin skedës
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Rikthejani zërin skedës

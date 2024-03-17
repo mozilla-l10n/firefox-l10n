@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Shtoni Motor Kërkimesh
 newtab-topsites-add-shortcut-header = Shkurtore e Re
 newtab-topsites-edit-topsites-header = Përpunoni Sajtin Kryesues
 newtab-topsites-edit-shortcut-header = Përpunoni Shkurtore
+newtab-topsites-add-shortcut-label = Shtoni Shkurtore
 newtab-topsites-title-label = Titull
 newtab-topsites-title-input =
     .placeholder = Jepni një titull
@@ -194,6 +195,7 @@ newtab-section-header-recent-activity = Veprimtari së fundi
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Rekomanduar nga { $provider }
+newtab-section-header-stories = Histori që të vënë në mendim
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -202,6 +204,8 @@ newtab-empty-section-highlights = Filloni shfletimin dhe do t'ju shfaqim disa ng
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Gjithë ç’kish, e dini. Rikontrolloni më vonë për më tepër histori nga { $provider }. S’pritni dot? Përzgjidhni një temë popullore që të gjenden në internet më tepër histori të goditura.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Gjithë ç’kishte, e dini. Rikontrolloni më vonë për më tepër histori. S’pritni dot? Përzgjidhni një temë popullore, që të gjenden në internet më tepër histori të goditura.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -254,9 +258,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Shkurtore të sponsorizuara
 newtab-custom-pocket-title = Rekomanduar nga { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Lëndë e jashtëzakonshme, në kujdesin e { -pocket-brand-name }, pjesë e familjes { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Rekomanduar nga { -pocket-brand-name }
-    .description = Lëndë e jashtëzakonshme, në kujdesin e { -pocket-brand-name }, pjesë e familjes { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Histori të rekomanduara
+    .description = Lëndë e veçantë, nën kujdesin e familjes { -brand-product-name }
 newtab-custom-pocket-sponsored = Histori të sponsorizuara
 newtab-custom-pocket-show-recent-saves = Shfaq të ruajturat së fundi
 newtab-custom-recent-title = Veprimtari së fundi
