@@ -193,12 +193,14 @@ shopping-callout-closed-not-opted-in-revised-title = Eikutu ereko hag̃ua marand
 shopping-callout-closed-not-opted-in-revised-subtitle = Eikutu teramoĩ ra’ãnga’i repy kundaharape rendápe eguevi hag̃ua marandu’i rechajeyhápe.
 shopping-callout-closed-not-opted-in-revised-button = Aikũmby
 shopping-callout-not-opted-in-reminder-title = Ejogua jeroviápe
+shopping-callout-not-opted-in-reminder-subtitle = ¿Nde’ikuaái umi apopyre jehechajey ha’ete térã japúpa? { -brand-product-name } marandu’i rechajeyha ikatu ne pytyvõ.
 shopping-callout-not-opted-in-reminder-open-button = Embojuruja marandu’i rechajeyha
 shopping-callout-not-opted-in-reminder-close-button = Mboyke
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Anive tosẽ
 shopping-callout-disabled-auto-open-title = Marandu’i rechajeyha oñemboty ijehegui
 shopping-callout-disabled-auto-open-button = Aikũmby
 shopping-callout-opted-out-title = Marandu’i rechajeyha oñembogue
+shopping-callout-opted-out-subtitle = Emyanyhẽjey hag̃ua, eikutu teramoĩ ra’ãnga’i repy kundaharape rendápe ha ejapo he’iháicha.
 shopping-callout-opted-out-button = Aikũmby
 
 ## Onboarding message strings.
