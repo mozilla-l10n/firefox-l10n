@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = R
 text-action-search-text-box-clear =
     .title = Wuprozniś
+text-action-highlight-selection =
+    .label = Wuběrk wuzwignuś
