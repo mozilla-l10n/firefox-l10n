@@ -266,7 +266,7 @@ firefoxview-opentabs-pinned-tab =
     .title = K { $tabTitle } pśejś
 # This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
 firefoxview-opentabs-bookmarked-pinned-tab =
-    .title = K (Cytańske znamje) { $tabTitle } přeńć
+    .title = K (ako cytańske znamje skłaźonemu) { $tabTitle } pśejś
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
