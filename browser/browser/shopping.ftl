@@ -190,6 +190,7 @@ shopping-callout-pdp-opted-in-subtitle = Embojuruja marandu’i rechajeyha ehech
 shopping-callout-closed-not-opted-in-title = Eikutu ereko hag̃ua hechajey jeroviaha
 shopping-callout-closed-not-opted-in-subtitle = Eiporu marandu’i rechajeyha ehecha vove mba’e repy ñesẽ. Eñemomarandu pya’e omba’ejoguávagui, nde ejogua mboyve.
 shopping-callout-closed-not-opted-in-revised-title = Eikutu ereko hag̃ua marandu’i jeroviaha
+shopping-callout-closed-not-opted-in-revised-subtitle = Eikutu teramoĩ ra’ãnga’i repy kundaharape rendápe eguevi hag̃ua marandu’i rechajeyhápe.
 shopping-callout-closed-not-opted-in-revised-button = Aikũmby
 shopping-callout-not-opted-in-reminder-title = Ejogua jeroviápe
 shopping-callout-not-opted-in-reminder-open-button = Embojuruja marandu’i rechajeyha
