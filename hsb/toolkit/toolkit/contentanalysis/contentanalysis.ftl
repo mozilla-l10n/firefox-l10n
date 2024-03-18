@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } na zakładźe dato
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } tekst, kotryž sće zasadźił, na zakładźe datowych prawidłow wašeje organizacije přepruwuje. To wokomik traje.
 contentanalysis-operationtype-clipboard = mjezyskład
 contentanalysis-operationtype-dropped-text = pušćeny tekst
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = Nahraće “{ $filename }”
 contentanalysis-warndialogtitle = Tutón wobsah je snano njewěsty
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -42,4 +44,5 @@ contentanalysis-block-message = Waša organizacija software přećiwo straće da
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Při komunikaciji ze software přećiwo straće datow je zmylk nastał. Přenjesenje je so za resursu wotpokazało: { $content }.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } wopušćić?
+contentanalysis-inprogress-quit-message = Někotre akcije so wuwjedu. Jeli { -brand-shorter-name } kónčiće, so tute akcije njedokónča.
 contentanalysis-inprogress-quit-yesbutton = Haj, wopušćić
