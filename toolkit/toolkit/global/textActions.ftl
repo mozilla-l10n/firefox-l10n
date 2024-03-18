@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = S
 text-action-search-text-box-clear =
     .title = Leeren
+text-action-highlight-selection =
+    .label = Auswahl hervorheben
