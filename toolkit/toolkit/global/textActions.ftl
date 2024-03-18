@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = N
 text-action-search-text-box-clear =
     .title = Törlés
+text-action-highlight-selection =
+    .label = Kijelölés kiemelése
