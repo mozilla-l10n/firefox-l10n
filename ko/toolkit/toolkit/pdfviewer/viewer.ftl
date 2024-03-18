@@ -364,7 +364,7 @@ pdfjs-editor-resizer-label-middle-left = 왼쪽 가운데 — 크기 조정
 ## Color picker
 
 # This means "Color used to highlight text"
-pdfjs-editor-highlight-colorpicker-label = 강조 색
+pdfjs-editor-highlight-colorpicker-label = 색상
 pdfjs-editor-colorpicker-button =
     .title = 색상 변경
 pdfjs-editor-colorpicker-dropdown =
