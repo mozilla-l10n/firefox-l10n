@@ -92,19 +92,24 @@ about-logins-login-intro-heading-logged-in = Nema pronađenih sinhronizovanih pr
 login-intro-description = Ako ste spasili prijave u { -brand-product-name } na drugom uređaju, evo kako im možete pristupiti:
 login-intro-instructions-fxa = Kreirajte ili prijavite se na svoj { -fxaccount-brand-name } na uređaju gdje su sačuvane vaše prijave.
 about-logins-login-intro-heading-message = Sačuvajte svoje lozinke na sigurnom mjestu
+login-intro-description2 = Sve lozinke koje sačuvate na { -brand-product-name }u su šifrovane. Osim toga, pazimo na kršenja i upozoravamo vas ako ste pogođeni. <a data-l10n-name="breach-alert-link">Saznajte više</a>
 login-intro-instructions-fxa2 = Kreirajte ili se prijavite na vaš račun na uređaju na kojem su sačuvane vaše prijave.
 login-intro-instructions-fxa-settings = Idite na Postavke > Sinhronizacija > Uključi sinhronizaciju… Označite polje za potvrdu Prijava i lozinke.
 login-intro-instructions-fxa-passwords-help = Posjetite <a data-l10n-name="passwords-help-link">podršku za lozinke</a> za dodatnu pomoć.
 about-logins-intro-browser-only-import = Ako su vaše prijave sačuvane u drugom pretraživaču, možete ih <a data-l10n-name="import-link">uvesti u { -brand-product-name }</a>
 about-logins-intro-import2 = Ako su tvoje prijave spremljene izvan { -brand-product-name }a, možeš ih <a data-l10n-name="import-browser-link">uvesti iz jednog drugog browsera</a> ili <a data-l10n-name="import-file-link">iz jedne datoteke</a>
+about-logins-intro-import3 = Odaberite dugme sa znakom plus iznad da biste odmah dodali lozinku. Također možete <a data-l10n-name="import-browser-link">uvesti lozinke iz drugog pretraživača</a> ili <a data-l10n-name="import-file-link">iz fajla</a> a>.
 
 ## Login
 
 login-item-new-login-title = Kreiraj novu prijavu
+# Header for adding a password
+about-logins-login-item-new-login-title = Dodaj lozinku
 login-item-edit-button = Uredi
 about-logins-login-item-remove-button = Ukloni
 login-item-origin-label = Adresa web stranice
 login-item-tooltip-message = Provjeri podudara li se adresa web stranice na kojoj se prijavljuješ.
+about-logins-origin-tooltip2 = Unesite punu adresu i provjerite da li se tačno podudara s onom na koju se prijavljujete.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Korisničko ime
