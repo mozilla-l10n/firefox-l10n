@@ -213,7 +213,7 @@ main-context-menu-media-show-controls =
     .label = Hiển thị điều khiển
     .accesskey = C
 main-context-menu-media-hide-controls =
-    .label = Ẩn các điều khiển
+    .label = Ẩn điều khiển
     .accesskey = C
 
 ##
