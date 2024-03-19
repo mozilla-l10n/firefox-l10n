@@ -5,7 +5,7 @@
 # This is the title of the page
 about-logging-title = Om logging
 about-logging-page-title = Loggbehandler
-about-logging-current-log-file = Current Log File:
+about-logging-current-log-file = Gjeldende loggfil:
 about-logging-new-log-file = Ny loggfil:
 about-logging-currently-enabled-log-modules = Aktiverte loggmoduler for øyeblikket:
 about-logging-log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
