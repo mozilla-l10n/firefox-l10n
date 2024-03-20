@@ -1111,6 +1111,8 @@ addon-recommendations-link = Przewiydz sie wiyncyj
 collection-health-report-disabled = Posyłanie danych je zastawione przi tyj kōnfiguracyji
 collection-backlogged-crash-reports-with-link = Przizwōl, coby { -brand-short-name } posyłoł nazbiyrane raporty z awaryjōw za ciebie <a data-l10n-name="crash-reports-link">Przewiydz sie wiyncyj</a>
     .accesskey = c
+collection-backlogged-crash-reports = Przizwōl, coby { -brand-short-name } posyłoł nazbiyrane raporty z awaryjōw za ciebie
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
