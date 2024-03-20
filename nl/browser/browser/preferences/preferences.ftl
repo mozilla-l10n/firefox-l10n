@@ -1275,6 +1275,8 @@ addon-recommendations-link = Meer info
 collection-health-report-disabled = Gegevensrapportage is uitgeschakeld voor deze buildconfiguratie
 collection-backlogged-crash-reports-with-link = { -brand-short-name } toestaan om namens u achterstallige crashrapporten te verzenden. <a data-l10n-name="crash-reports-link">Meer info</a>
     .accesskey = c
+collection-backlogged-crash-reports = { -brand-short-name } toestaan om namens u achterstallige crashrapporten te verzenden.
+    .accesskey = c
 privacy-segmentation-section-header = Nieuwe functies die uw browsen verbeteren
 privacy-segmentation-section-description = Wanneer we functies aanbieden die uw gegevens gebruiken om u een meer persoonlijke ervaring te bieden:
 privacy-segmentation-radio-off =
