@@ -1239,6 +1239,8 @@ addon-recommendations-link = Més informació
 collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'aquesta versió
 collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament <a data-l10n-name="crash-reports-link">Més informació</a>
     .accesskey = f
+collection-backlogged-crash-reports = Permet que el { -brand-short-name } enviï els informes de fallada pendents automàticament
+    .accesskey = f
 privacy-segmentation-section-header = Noves funcions que milloren la navegació
 privacy-segmentation-section-description = Quan us oferim funcions que utilitzen les vostres dades per oferir-vos una experiència més personal:
 privacy-segmentation-radio-off =
