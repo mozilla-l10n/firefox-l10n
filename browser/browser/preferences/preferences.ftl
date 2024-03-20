@@ -1109,6 +1109,8 @@ addon-recommendations-link = Rohkem teavet
 collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on andmete raporteerimine keelatud
 collection-backlogged-crash-reports-with-link = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid <a data-l10n-name="crash-reports-link">Rohkem teavet</a>
     .accesskey = L
+collection-backlogged-crash-reports = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid
+    .accesskey = L
 
 ## Privacy Section - Security
 ##
