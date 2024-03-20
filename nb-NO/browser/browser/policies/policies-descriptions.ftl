@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Blokker tilgang til about:support-siden.
 policy-Bookmarks = Opprett bokmerker i bokmerkeverktøylinjen, i bokmerkermenyen eller en nærmere angitt mappe i dem.
 policy-CaptivePortal = Aktiver eller deaktiver støtte for captive portal.
 policy-CertificatesDescription = Legg til sertifikater eller bruk innebygde sertifikater.
+policy-ContentAnalysis = Aktiver eller deaktiver tilkobling til forhindre-tap-av-data-agenten.
 policy-Cookies = Tillat eller nekt nettsteder å lagre infokapsler.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Angi policyer relatert til beholdere.
