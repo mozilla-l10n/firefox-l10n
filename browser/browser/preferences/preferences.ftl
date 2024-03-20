@@ -1273,6 +1273,8 @@ addon-recommendations-link = Lue lisää
 collection-health-report-disabled = Tietojen kerääminen ei ole käytössä tässä koostamiskokoonpanossa
 collection-backlogged-crash-reports-with-link = Salli, että { -brand-short-name } lähettää lähettämättömät kaatumisraportit puolestasi <a data-l10n-name="crash-reports-link">Lue lisää</a>
     .accesskey = S
+collection-backlogged-crash-reports = Salli, että { -brand-short-name } lähettää lähettämättömät kaatumisraportit puolestasi
+    .accesskey = S
 privacy-segmentation-section-header = Uudet selaamista parantavat ominaisuudet
 privacy-segmentation-section-description = Kun tarjoamme ominaisuuksia, jotka käyttävät tietojasi aiempaa henkilökohtaisemman käyttökokemuksen tarjoamiseksi:
 privacy-segmentation-radio-off =
