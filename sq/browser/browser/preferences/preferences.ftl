@@ -1275,6 +1275,8 @@ addon-recommendations-link = Mësoni më tepër
 collection-health-report-disabled = Raportimi i të dhënave është i çaktivizuar për këtë formësim montimi
 collection-backlogged-crash-reports-with-link = Lejojeni { -brand-short-name }-in të dërgojë raporte vithisjesh të mëparshme në emrin tuaj <a data-l10n-name="crash-reports-link">Mësoni më tepër</a>
     .accesskey = c
+collection-backlogged-crash-reports = Lejojeni { -brand-short-name }-in të dërgojë raporte vithisjesh të mëparshme në emrin tuaj
+    .accesskey = c
 privacy-segmentation-section-header = Veçori të reja që thellojnë shfletimin tuaj
 privacy-segmentation-section-description = Kur ofrojmë veçori që përdorin të dhënat tuaja për t’ju dhënë ju një punim më personal:
 privacy-segmentation-radio-off =
