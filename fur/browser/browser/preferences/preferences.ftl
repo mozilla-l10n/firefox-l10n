@@ -1275,6 +1275,8 @@ addon-recommendations-link = Plui informazions
 collection-health-report-disabled = La segnalazion di dâts e je stade disativade te configurazion di cheste compilazion
 collection-backlogged-crash-reports-with-link = Permet a { -brand-short-name } di inviâ a to non segnalazions di colàs regjistradis in precedence <a data-l10n-name="crash-reports-link">Plui informazions</a>
     .accesskey = c
+collection-backlogged-crash-reports = Permet a { -brand-short-name } di inviâ a to non segnalazions di colàs regjistradis in precedence
+    .accesskey = c
 privacy-segmentation-section-header = Gnovis funzionalitâts che a miorin la navigazion
 privacy-segmentation-section-description = Cuant che us ufrìn funzionalitâts che a doprin i vuestris dâts par dâus esperience plui personâl:
 privacy-segmentation-radio-off =
