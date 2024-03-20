@@ -1106,6 +1106,8 @@ addon-recommendations-link = Իմանալ աւելին
 collection-health-report-disabled = Տուեալների զեկուցումը անջատուած է կազմաձեւի այս կառուցման համար
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
     .accesskey = թ
+collection-backlogged-crash-reports = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ
+    .accesskey = թ
 
 ## Privacy Section - Security
 ##
