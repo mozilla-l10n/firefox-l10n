@@ -1116,6 +1116,8 @@ addon-recommendations-link = Află mai multe
 collection-health-report-disabled = Raportarea datelor este dezactivată în configurația folosită
 collection-backlogged-crash-reports-with-link = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal <a data-l10n-name="crash-reports-link">Află mai multe</a>
     .accesskey = c
+collection-backlogged-crash-reports = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal
+    .accesskey = c
 
 ## Privacy Section - Security
 ##
