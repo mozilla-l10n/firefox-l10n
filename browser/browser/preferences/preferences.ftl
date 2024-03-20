@@ -1274,6 +1274,8 @@ addon-recommendations-link = En savoir plus
 collection-health-report-disabled = L’envoi de données est désactivé pour cette configuration de compilation
 collection-backlogged-crash-reports-with-link = Autoriser { -brand-short-name } à envoyer des rapports de plantage en attente en votre nom <a data-l10n-name="crash-reports-link">En savoir plus</a>
     .accesskey = v
+collection-backlogged-crash-reports = Autoriser { -brand-short-name } à envoyer des rapports de plantage en attente en votre nom
+    .accesskey = v
 privacy-segmentation-section-header = De nouvelles fonctionnalités qui améliorent votre navigation
 privacy-segmentation-section-description = Lorsque nous proposons des fonctionnalités qui utilisent vos données pour vous offrir une expérience plus personnelle :
 privacy-segmentation-radio-off =
