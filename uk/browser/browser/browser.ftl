@@ -225,12 +225,12 @@ search-one-offs-engine-with-alias =
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
     .label = Додати “{ $engineName }”
-    .tooltiptext = Додати засіб пошуку “{ $engineName }”
-    .aria-label = Додати засіб пошуку “{ $engineName }”
+    .tooltiptext = Додати пошукову систему “{ $engineName }”
+    .aria-label = Додати пошукову систему “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
-    .label = Додати засіб пошуку
+    .label = Додати пошукову систему
 
 ## Local search mode one-off buttons
 ## Variables:

@@ -41,7 +41,7 @@ newtab-search-box-input =
 
 ## Top Sites - General form dialog.
 
-newtab-topsites-add-search-engine-header = Додати засіб пошуку
+newtab-topsites-add-search-engine-header = Додати пошукову систему
 newtab-topsites-add-shortcut-header = Новий ярлик
 newtab-topsites-edit-topsites-header = Редагувати популярний сайт
 newtab-topsites-edit-shortcut-header = Редагувати ярлик
@@ -180,7 +180,7 @@ newtab-section-menu-expand-section = Розгорнути розділ
 newtab-section-menu-manage-section = Керувати розділом
 newtab-section-menu-manage-webext = Керувати розширенням
 newtab-section-menu-add-topsite = Додати до популярних сайтів
-newtab-section-menu-add-search-engine = Додати засіб пошуку
+newtab-section-menu-add-search-engine = Додати пошукову систему
 newtab-section-menu-move-up = Вгору
 newtab-section-menu-move-down = Вниз
 newtab-section-menu-privacy-notice = Положення про приватність
@@ -263,9 +263,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Спонсоровані ярлики
 newtab-custom-pocket-title = Рекомендації від { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Добірні матеріали від { -pocket-brand-name }, що входить до родини { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Рекомендації від { -pocket-brand-name }
-    .description = Добірні матеріали від { -pocket-brand-name }, що входить до родини { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Рекомендовані матеріали
     .description = Виняткові матеріали, відібрані командою { -brand-product-name }
