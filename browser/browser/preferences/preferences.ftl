@@ -1275,6 +1275,8 @@ addon-recommendations-link = Daha fazla bilgi al
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
 collection-backlogged-crash-reports-with-link = { -brand-short-name } geriye dönük çökme raporlarını benim adıma gönderebilir <a data-l10n-name="crash-reports-link">Daha fazla bilgi al</a>
     .accesskey = d
+collection-backlogged-crash-reports = { -brand-short-name } geriye dönük çökme raporlarını benim adıma gönderebilir
+    .accesskey = d
 privacy-segmentation-section-header = Gezintinizi iyileştiren yeni özellikler
 privacy-segmentation-section-description = Size daha kişisel bir deneyim sunmak için verilerinizi kullanan özellikler sunduğumuzda:
 privacy-segmentation-radio-off =
