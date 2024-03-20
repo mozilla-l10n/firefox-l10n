@@ -9,9 +9,9 @@
 ## $location-url (String) - the URL of the OpenSearch engine that was attempted to be installed.
 
 opensearch-error-duplicate-title = Помилка встановлення
-opensearch-error-duplicate-desc = { -brand-short-name } не зміг установити плагін пошуку з «{ $location-url }», оскільки засіб пошуку з таким іменем уже існує.
+opensearch-error-duplicate-desc = { -brand-short-name } не зміг встановити плагін пошуку з “{ $location-url }”, оскільки пошукова система з такою назвою вже існує.
 opensearch-error-format-title = Некоректний формат
-opensearch-error-format-desc = { -brand-short-name } не зміг встановити засіб пошуку з: { $location-url }
+opensearch-error-format-desc = { -brand-short-name } не зміг встановити пошукову систему з: { $location-url }
 opensearch-error-download-title = Помилка завантаження
 opensearch-error-download-desc = { -brand-short-name } не зміг завантажити плагін пошуку з: { $location-url }
 
@@ -30,6 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Ваш типовий засіб пошуку змінено.</strong> { $oldEngine } більше не доступний як типова пошукова система { -brand-short-name }. Відтепер ваш типовий засіб пошуку – { $newEngine }. Щоб змінити його, перейдіть до налаштувань. <label data-l10n-name="remove-search-engine-article">Докладніше</label>
-removed-search-engine-message2 = <strong>Ваш типовий засіб пошуку змінено.</strong> { $oldEngine } більше не доступний як типова пошукова система { -brand-short-name }. Відтепер ваш типовий засіб пошуку – { $newEngine }. Щоб змінити його, перейдіть до налаштувань.
+removed-search-engine-message = <strong>Типову пошукову систему змінено.</strong> { $oldEngine } більше не доступна як типова пошукова система { -brand-short-name }. Відтепер ваша типова пошукова система – { $newEngine }. Щоб змінити її, перейдіть до налаштувань. <label data-l10n-name="remove-search-engine-article">Докладніше</label>
+removed-search-engine-message2 = <strong>Типову пошукову систему змінено.</strong> { $oldEngine } більше не доступна як типова пошукова система { -brand-short-name }. Відтепер ваша типова пошукова система – { $newEngine }. Щоб змінити її, перейдіть до налаштувань.
 remove-search-engine-button = OK
