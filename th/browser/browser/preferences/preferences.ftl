@@ -1258,6 +1258,8 @@ addon-recommendations-link = เรียนรู้เพิ่มเติม
 collection-health-report-disabled = การรายงานข้อมูลถูกปิดใช้งานสำหรับการกำหนดค่าการสร้างนี้
 collection-backlogged-crash-reports-with-link = อนุญาตให้ { -brand-short-name } ส่งรายงานข้อขัดข้องในชื่อของคุณ <a data-l10n-name="crash-reports-link">เรียนรู้เพิ่มเติม</a>
     .accesskey = ข
+collection-backlogged-crash-reports = อนุญาตให้ { -brand-short-name } ส่งรายงานข้อขัดข้องในชื่อของคุณ
+    .accesskey = ข
 privacy-segmentation-section-header = คุณลักษณะใหม่ที่จะทำให้การท่องเว็บของคุณดีขึ้น
 privacy-segmentation-section-description = เมื่อเรานำเสนอคุณลักษณะที่ใช้ข้อมูลของคุณเพื่อมอบประสบการณ์ที่เป็นส่วนตัวมากขึ้น:
 privacy-segmentation-radio-off =
