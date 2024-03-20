@@ -1271,6 +1271,8 @@ addon-recommendations-link = Àteras informatziones
 collection-health-report-disabled = S'informe de datos est disativadu in sa cunfiguratzione de custa versione
 collection-backlogged-crash-reports-with-link = Permite a { -brand-short-name } de t'imbiare informes de faddina in suspesu <a data-l10n-name="crash-reports-link">Àteras informatziones</a>
     .accesskey = i
+collection-backlogged-crash-reports = Permite a { -brand-short-name } de t'imbiare informes de faddina in suspesu
+    .accesskey = i
 privacy-segmentation-section-header = Caraterìsticas noas pro megiorare sa navigatzione
 privacy-segmentation-section-description = Cando oferimus caraterìsticas chi impreant is datos tuos pro ti donare un'esperièntzia prus personale:
 privacy-segmentation-radio-off =
