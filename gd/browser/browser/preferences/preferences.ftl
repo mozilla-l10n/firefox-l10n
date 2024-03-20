@@ -1162,6 +1162,8 @@ addon-recommendations-link = Barrachd fiosrachaidh
 collection-health-report-disabled = Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo
 collection-backlogged-crash-reports-with-link = Leig le { -brand-short-name } aithisgean tuislidh a chàirn roimhe a chur às do leth <a data-l10n-name="crash-reports-link">Barrachd fiosrachaidh</a>
     .accesskey = c
+collection-backlogged-crash-reports = Leig le { -brand-short-name } aithisgean tuislidh a chàirn roimhe a chur às do leth
+    .accesskey = c
 privacy-segmentation-section-header = Gleusan ùra a leasaicheas am brabhsadh a nì thu
 privacy-segmentation-section-description = Ma bhios gleusan againn a chleachdas an dàta agad airson àrainneachd nas pearsantaiche:
 privacy-segmentation-radio-off =
