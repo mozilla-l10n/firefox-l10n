@@ -720,6 +720,9 @@ pane-privacy-logins-and-passwords-header = Մուտքանուններ և Գաղ�
 forms-ask-to-save-logins =
     .label = Հարցնել և պահպանել մուտքագրումները և գաղտնաբառերը կայքերի համար
     .accesskey = r
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Բացառություններ…
     .accesskey = ա
@@ -771,6 +774,9 @@ primary-password-os-auth-dialog-message-win = Հիմնական գաղտնաբա�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ստեղծել Հիմնական գաղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -855,6 +861,9 @@ sitedata-cookies-exceptions =
     .accesskey = x
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
 
 
 ## Privacy Section - Address Bar
@@ -1025,6 +1034,8 @@ addon-recommendations-link = Իմանալ ավելին
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Տվյալների զեկուցումը անջատված է կազմաձևի այս կառուցման համար
 collection-backlogged-crash-reports-with-link = Թույլատրել { -brand-short-name }-ին ուղարկել հետաձգված վթարի զեկույցներ առանց ձեր գիտության <a data-l10n-name="crash-reports-link">Իմացեք ավելին</a>
+    .accesskey = c
+collection-backlogged-crash-reports = Թույլատրել { -brand-short-name }-ին ուղարկել հետաձգված վթարի զեկույցներ առանց ձեր գիտության
     .accesskey = c
 
 ## Privacy Section - Security
