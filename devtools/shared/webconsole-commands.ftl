@@ -7,6 +7,14 @@
 # which can be executed in the Developer Tools, available in the
 # Browser Tools sub-menu -> 'Web Developer Tools'
 
+# Usage string for :block command
+webconsole-commands-usage-block =
+    :block URL_STRING
+    
+    Eñepyrũ ejoko ñanduti mba’ejerure
+    
+      Emoneĩ URLSTRING añoite, peteĩ juajuha taiky’ỹre ojeporútava ojejoko hag̃ua opaite mba’ejerure pe URL oĩramo juajuhápe.
+      Eiporu :unblock térã pe tenda yke ñanduti mba’erechaha jokoha emboguevi hag̃ua kóva.
 # Usage string for :unblock command
 webconsole-commands-usage-unblock =
     :unblock URL_STRING
