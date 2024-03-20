@@ -1175,6 +1175,8 @@ addon-recommendations-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 collection-health-report-disabled = ᱱᱚᱶᱟ ᱵᱮᱱᱟᱣ ᱥᱟᱯᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱰᱟᱴᱟ ᱠᱷᱚᱵᱚᱨ ᱫᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
 collection-backlogged-crash-reports-with-link = { -brand-short-name } ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱛᱮ ᱵᱮᱠᱞᱚᱜᱽ ᱟᱠᱟᱱ ᱠᱨᱟᱥ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱚᱰᱚᱠ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱠ ᱮᱢᱟᱭ ᱢᱮ <a data-l10n-name="crash-reports-link">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
     .accesskey = c
+collection-backlogged-crash-reports = { -brand-short-name } ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱛᱮ ᱵᱮᱠᱞᱚᱜᱽ ᱟᱠᱟᱱ ᱠᱨᱟᱥ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱚᱰᱚᱠ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱠ ᱮᱢᱟᱭ ᱢᱮ
+    .accesskey = c
 privacy-segmentation-section-header = ᱱᱟᱣᱟ ᱯᱷᱤᱪᱚᱨ ᱡᱟᱦᱟᱸᱭ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱥᱩᱫᱽᱨᱟᱹᱣ ᱪᱷᱚᱭ ᱟ
 privacy-segmentation-section-description = ᱡᱩᱫᱤ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱵᱮᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱦᱩᱦᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱯᱷᱤᱪᱚᱨ ᱞᱮ ᱮᱢᱚᱜᱼᱟ :
 privacy-segmentation-radio-off =
