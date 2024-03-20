@@ -1443,6 +1443,12 @@ collection-backlogged-crash-reports-with-link =
        *[no-cases] Odesílat nevyřízená hlášení o pádech aplikace za vás <a data-l10n-name="crash-reports-link">Zjistit více</a>
     }
     .accesskey = c
+collection-backlogged-crash-reports =
+    { -brand-short-name.case-status ->
+        [with-cases] Odesílat nevyřízená hlášení o pádech { -brand-short-name(case: "gen") } za vás
+       *[no-cases] Odesílat nevyřízená hlášení o pádech aplikace za vás
+    }
+    .accesskey = c
 privacy-segmentation-section-header = Nové funkce, které zlepšují vaše prohlížení
 privacy-segmentation-section-description = Když nabízíme funkce, které využívají vaše data, abychom vám poskytli osobnější prožitek:
 privacy-segmentation-radio-off =
