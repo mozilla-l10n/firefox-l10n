@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -30,11 +36,9 @@ menu-application-touch-bar =
 menu-quit =
     .label = Esci
     .accesskey = E
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Esci da { -brand-shorter-name }
-
 menu-about =
     .label = Informazioni su { -brand-shorter-name }
     .accesskey = I
@@ -308,7 +312,7 @@ menu-help =
     .label = Aiuto
     .accesskey = A
 menu-get-help =
-    .label = Ottieni assistenza
+    .label = Ricevi assistenza
     .accesskey = n
 menu-help-more-troubleshooting-info =
     .label = Altre informazioni per la risoluzione di problemi
@@ -325,18 +329,15 @@ menu-help-exit-troubleshoot-mode =
     .label = Disattiva Modalità risoluzione problemi
     .accesskey = m
 menu-help-switch-device =
-    .label = Passaggio a un nuovo dispositivo
+    .label = Passa a un nuovo dispositivo
     .accesskey = P
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Segnala un sito ingannevole…
     .accesskey = e
 menu-help-not-deceptive =
     .label = Non è un sito ingannevole…
     .accesskey = e
-
 menu-report-broken-site =
-  .label = Segnala problemi con il sito
-
+    .label = Segnala problemi con il sito
