@@ -1279,6 +1279,8 @@ addon-recommendations-link = Ďalšie informácie
 collection-health-report-disabled = Odosielanie údajov je v konfigurácii tohto zostavenia zakázané
 collection-backlogged-crash-reports-with-link = Povoliť { -brand-short-name(case: "dat") } odosielať vo vašom mene správy o zlyhaní <a data-l10n-name="crash-reports-link">Ďalšie informácie</a>
     .accesskey = P
+collection-backlogged-crash-reports = Povoliť { -brand-short-name(case: "dat") } odosielať vo vašom mene správy o zlyhaní
+    .accesskey = P
 privacy-segmentation-section-header = Nové funkcie, ktoré vylepšujú vaše prehliadanie
 privacy-segmentation-section-description = Keď ponúkame funkcie, ktoré využívajú vaše údaje, aby vám poskytli ešte lepšiu skúsenosť:
 privacy-segmentation-radio-off =
