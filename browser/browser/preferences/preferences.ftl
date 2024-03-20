@@ -1174,6 +1174,8 @@ addon-recommendations-link = ٻیا سِکھو
 collection-health-report-disabled = ایں بلڈ کنفیگریشن کیتے ڈیٹا رپورٹنگ غیر فعال ہے۔
 collection-backlogged-crash-reports-with-link = { -brand-short-name } کوں اپݨی طرفوں بیک لاگ کریش رپورٹاں بھیڄݨ دی اجازت ݙیو <a data-l10n-name="crash-reports-link">ودھیک ڄاݨو </a>
     .accesskey = c
+collection-backlogged-crash-reports = { -brand-short-name } کوں اپݨی طرفوں بیک لاگ کریش رپورٹاں بھیڄݨ دی اجازت ݙیو
+    .accesskey = c
 privacy-segmentation-section-header = نویاں خصوصیات جیڑھیاں تہاݙی براؤزنگ کوں بہتر کریندیاں ہن۔
 privacy-segmentation-section-description = جݙاں اساں اینجھیاں خصوصیتاں پیش کریندے ہیں جیڑھیاں تہاکوں ودھیک ذاتی تجربہ ݙیوݨ کیتے تہاݙا ڈیٹا استعمال کریندیاں ہن:
 privacy-segmentation-radio-off =
