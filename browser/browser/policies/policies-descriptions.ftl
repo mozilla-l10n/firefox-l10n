@@ -115,7 +115,7 @@ policy-Proxy = Налаштувати параметри проксі.
 policy-RequestedLocales = Встановити перелік запитуваних мов для програми в бажаному порядку.
 policy-SanitizeOnShutdown2 = Очищати дані навігації при закритті браузера.
 policy-SearchBar = Встановити типове розташування панелі пошуку. Користувачу все одно дозволяється змінювати.
-policy-SearchEngines = Налаштувати засіб пошуку. Ця політика доступна лише у версії Extended Support Release (ESR).
+policy-SearchEngines = Налаштувати параметри пошукової системи. Ця політика доступна лише у версії Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Увімкнути чи вимкнути пропозиції пошуку.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Додати або видалити модулі PKCS #11.

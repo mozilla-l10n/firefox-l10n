@@ -43,8 +43,8 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name } щоразу �
 about-private-browsing-search-banner-title = { $engineName } є вашим типовим пошуковим засобом у приватних вікнах
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] Щоб обрати інший пошуковий засіб, відкрийте <a data-l10n-name="link-options">Налаштування</a>
-       *[other] Щоб обрати інший пошуковий засіб, відкрийте <a data-l10n-name="link-options">Налаштування</a>
+        [windows] Щоб обрати іншу пошукову систему, відкрийте <a data-l10n-name="link-options">Налаштування</a>
+       *[other] Щоб обрати іншу пошукову систему, відкрийте <a data-l10n-name="link-options">Налаштування</a>
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Закрити
