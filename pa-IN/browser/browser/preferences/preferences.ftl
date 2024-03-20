@@ -1280,6 +1280,8 @@ addon-recommendations-link = ਹੋਰ ਜਾਣੋ
 collection-health-report-disabled = ਇਸ ਬਿਲਡ ਸੰਰਚਨਾ ਲਈ ਡਾਟਾ ਰਿਪੋਰਟ ਕਰਨਾ ਅਸਮਰੱਥ ਹੈ
 collection-backlogged-crash-reports-with-link = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਤੌਰ ਉੱਤੇ ਬੈਕਲਾਗ ਕੀਤੀਆਂ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜਣ ਦਿਓ <a data-l10n-name="crash-reports-link">ਹੋਰ ਜਾਣੋ</a>
     .accesskey = c
+collection-backlogged-crash-reports = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਤੌਰ ਉੱਤੇ ਬੈਕਲਾਗ ਕੀਤੀਆਂ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜਣ ਦਿਓ
+    .accesskey = c
 privacy-segmentation-section-header = ਨਵੇਂ ਫ਼ੀਚਰ, ਜੋ ਕਿ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਚਾਰ ਚੰਨ ਲਾਉਂਦੇ ਹਨ
 privacy-segmentation-section-description = ਜਦੋਂ ਅਸੀਂ ਫ਼ੀਚਰ ਦਿੰਦੇ ਹਾਂ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਬਿਹਤਰ ਨਿੱਜੀ ਤਜਰਬਾ ਕਰਵਾਉਣ ਲਈ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਵਰਤਦੇ ਹਨ।
 privacy-segmentation-radio-off =
