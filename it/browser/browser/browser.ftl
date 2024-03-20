@@ -102,7 +102,7 @@ urlbar-persistent-storage-notification-anchor =
 urlbar-addons-notification-anchor =
     .tooltiptext = Apri il pannello con il messaggio di installazione componente aggiuntivo
 urlbar-tip-help-icon =
-    .title = Ottieni assistenza
+    .title = Ricevi assistenza
 urlbar-search-tips-confirm = OK
 urlbar-search-tips-confirm-short = OK
 # Read out before Urlbar Tip text content so screenreader users know the
@@ -121,7 +121,7 @@ urlbar-result-menu-remove-from-history =
     .label = Rimuovi dalla cronologia
     .accesskey = R
 urlbar-result-menu-tip-get-help =
-    .label = Ottieni assistenza
+    .label = Ricevi assistenza
     .accesskey = a
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
@@ -1001,4 +1001,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Visualizza “{ $popupURI }”
-
