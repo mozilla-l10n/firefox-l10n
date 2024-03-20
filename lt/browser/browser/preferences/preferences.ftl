@@ -1138,6 +1138,8 @@ addon-recommendations-link = Sužinoti daugiau
 collection-health-report-disabled = Duomenų siuntimas šiai darinio sąrankai yra išjungtas
 collection-backlogged-crash-reports-with-link = Leisti „{ -brand-short-name }“ siųsti sukauptus strigčių pranešimus jūsų vardu. <a data-l10n-name="crash-reports-link">Sužinoti daugiau</a>
     .accesskey = s
+collection-backlogged-crash-reports = Leisti „{ -brand-short-name }“ siųsti sukauptus strigčių pranešimus jūsų vardu.
+    .accesskey = s
 privacy-segmentation-section-header = Naujos funkcijos, kurios pagerina jūsų naršymą
 privacy-segmentation-section-description = Kai siūlome funkcijas, kurios naudoja jūsų duomenis, kad suteiktų jums asmeniškesnės patirties:
 privacy-segmentation-radio-off =
