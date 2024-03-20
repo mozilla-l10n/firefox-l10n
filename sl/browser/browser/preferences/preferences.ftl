@@ -1274,6 +1274,8 @@ addon-recommendations-link = Več o tem
 collection-health-report-disabled = Pošiljanje podatkov je onemogočeno za to nastavitev graditve
 collection-backlogged-crash-reports-with-link = { -brand-short-name(sklon: "dajalnik") } dovoli, da v vašem imenu pošilja poročila o sesutjih iz zaloge <a data-l10n-name="crash-reports-link">Več o tem</a>
     .accesskey = z
+collection-backlogged-crash-reports = { -brand-short-name(sklon: "dajalnik") } dovoli, da v vašem imenu pošilja poročila o sesutjih iz zaloge
+    .accesskey = z
 privacy-segmentation-section-header = Nove zmožnosti, ki izboljšajo vaše brskanje
 privacy-segmentation-section-description = Ko ponujamo zmogljivosti, ki uporabljajo vaše podatke, da vam omogočijo bolj osebno izkušnjo:
 privacy-segmentation-radio-off =
