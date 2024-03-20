@@ -1126,6 +1126,9 @@ content-blocking-fingerprinters = フィンガープリント採取
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-known-and-suspected-fingerprinters = 既知および疑わしいフィンガープリント採取
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = 包括的 Cookie 保護機能により現在のサイトへの Cookie が制限されているため、トラッカーはサイトを横断してあなたを追跡する Cookie を利用できません。
@@ -1256,6 +1259,8 @@ addon-recommendations-link = 詳細情報
 # or builds with no Telemetry support available.
 collection-health-report-disabled = このビルド設定ではヘルスレポートが無効化されています
 collection-backlogged-crash-reports-with-link = { -brand-short-name } があなたに代わって未送信のクラッシュレポートを送信することを許可する <a data-l10n-name="crash-reports-link">詳細情報</a>
+    .accesskey = c
+collection-backlogged-crash-reports = { -brand-short-name } があなたに代わって未送信のクラッシュレポートを送信することを許可する
     .accesskey = c
 privacy-segmentation-section-header = ブラウジング体験を向上させる新機能
 privacy-segmentation-section-description = より良いユーザー体験のために、あなたのデータを使用する機能を提案されたとき:
