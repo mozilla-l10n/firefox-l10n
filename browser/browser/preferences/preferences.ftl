@@ -1275,6 +1275,8 @@ addon-recommendations-link = További tudnivalók
 collection-health-report-disabled = Az adatjelentést letiltották ehhez a binárishoz
 collection-backlogged-crash-reports-with-link = Engedélyezés, hogy a { -brand-short-name } elküldje az elmaradt összeomlás-jelentéseket az Ön nevében <a data-l10n-name="crash-reports-link">További tudnivalók</a>
     .accesskey = o
+collection-backlogged-crash-reports = Engedélyezés, hogy a { -brand-short-name } elküldje az elmaradt összeomlás-jelentéseket az Ön nevében
+    .accesskey = o
 privacy-segmentation-section-header = Új funkciók, amelyek még jobbá teszik a böngészést
 privacy-segmentation-section-description = Amikor olyan funkciókat kínálunk, amelyek az Ön adatait használja, akkor a személyesebb élmény biztosítására használjuk fel:
 privacy-segmentation-radio-off =
