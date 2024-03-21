@@ -638,7 +638,7 @@ search-show-suggestions-url-bar-option =
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
-    .label = Показувати пошуковий запит замість URL-адреси на сторінці результатів типового засобу пошуку
+    .label = Показувати пошуковий запит замість URL-адреси на сторінці результатів типової пошукової системи
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -651,13 +651,13 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings-generic2 = Змінити налаштування для інших пропозицій панелі адреси
 search-suggestions-cant-show = Пошукові пропозиції не будуть показуватись в панелі адреси, тому що ви налаштували { -brand-short-name } ніколи не запам'ятовувати історію.
 search-one-click-header2 = Пошукові скорочення
-search-one-click-desc = Оберіть альтернативні пошукові засоби, що з'являються під рядками адреси і пошуку, коли ви починаєте вводити запит.
+search-one-click-desc = Оберіть альтернативні пошукові системи, що з'являються під рядками адреси і пошуку, коли ви починаєте вводити запит.
 search-choose-engine-column =
     .label = Пошукова система
 search-choose-keyword-column =
     .label = Скорочення
 search-restore-default =
-    .label = Відновити типові засоби пошуку
+    .label = Відновити типові пошукові системи
     .accesskey = с
 search-remove-engine =
     .label = Прибрати
@@ -665,7 +665,7 @@ search-remove-engine =
 search-add-engine =
     .label = Додати
     .accesskey = т
-search-find-more-link = Знайти інші засоби пошуку
+search-find-more-link = Знайти інші пошукові системи
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Це скорочення вже використовується
@@ -1088,12 +1088,12 @@ addressbar-locbar-topsites-option =
     .label = Популярні сайти
     .accesskey = с
 addressbar-locbar-engines-option =
-    .label = Засоби пошуку
+    .label = Пошукові системи
     .accesskey = ш
 addressbar-locbar-quickactions-option =
     .label = Швидкі дії
     .accesskey = Ш
-addressbar-suggestions-settings = Змінити налаштування пропозицій засобів пошуку
+addressbar-suggestions-settings = Змінити налаштування пропозицій пошукових систем
 addressbar-locbar-showrecentsearches-option =
     .label = Показати останні пошуки
     .accesskey = о
