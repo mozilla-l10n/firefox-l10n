@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Crash Reporter
+crashreporter-crash-message = { -brand-short-name } ha riscontrato un problema imprevisto e si è chiuso.{ " " }
+crashreporter-plea = Per aiutare a individuare e risolvere il problema, è possibile inviare una segnalazione per questo blocco.
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Dettagli: { $details }
 crashreporter-no-run-message = Questa applicazione viene eseguita dopo un arresto anomalo per segnalare il problema al produttore dell’applicazione, non dovrebbe essere lanciata direttamente.
 crashreporter-button-details = Dettagli…
 crashreporter-view-report-title = Contenuto della segnalazione
