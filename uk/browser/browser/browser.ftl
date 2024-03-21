@@ -208,10 +208,10 @@ search-one-offs-context-open-new-tab =
     .label = Пошук в новій вкладці
     .accesskey = в
 search-one-offs-context-set-as-default =
-    .label = Встановити типовим засобом пошуку
+    .label = Встановити типовою пошуковою системою
     .accesskey = т
 search-one-offs-context-set-as-default-private =
-    .label = Встановити типовим засобом пошуку для приватних вікон
+    .label = Встановити типовою пошуковою системою для приватних вікон
     .accesskey = х
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:

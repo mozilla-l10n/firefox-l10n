@@ -40,7 +40,7 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name } щоразу �
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = { $engineName } є вашим типовим пошуковим засобом у приватних вікнах
+about-private-browsing-search-banner-title = { $engineName } – ваша типова пошукова система в приватних вікнах
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Щоб обрати іншу пошукову систему, відкрийте <a data-l10n-name="link-options">Налаштування</a>
