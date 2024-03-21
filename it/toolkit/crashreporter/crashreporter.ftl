@@ -6,6 +6,7 @@ crashreporter-title = Crash Reporter
 crashreporter-no-run-message = Questa applicazione viene eseguita dopo un arresto anomalo per segnalare il problema al produttore dell’applicazione, non dovrebbe essere lanciata direttamente.
 crashreporter-button-details = Dettagli…
 crashreporter-view-report-title = Contenuto della segnalazione
+crashreporter-comment-prompt = Aggiungi un commento (i commenti sono visibili pubblicamente)
 crashreporter-report-info = Questa segnalazione contiene anche informazioni relative allo stato dell’applicazione al momento del blocco.
 crashreporter-submit-status = La segnalazione verrà inviata prima della chiusura o del riavvio.
 crashreporter-submit-in-progress = Invio della segnalazione in corso…
