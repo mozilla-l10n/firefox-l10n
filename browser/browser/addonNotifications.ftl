@@ -119,6 +119,7 @@ addon-confirm-install-unsigned-message =
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message =
     { $addonCount ->
+        [one] Kedźbu: Tute sydło by rady { $addonCount } přidatk w { -brand-short-name } instalowało, někotre z nich su njewobkrućene. Pokročujće z tym na swoje riziko.
         [two] Kedźbu: Tute sydło by rady { $addonCount } přidatkaj w { -brand-short-name } instalowało, někotre z nich su njewobkrućene. Pokročujće z tym na swoje riziko.
         [few] Kedźbu: Tute sydło by rady { $addonCount } přidatki w { -brand-short-name } instalowało, někotre z nich su njewobkrućene. Pokročujće z tym na swoje riziko.
        *[other] Kedźbu: Tute sydło by rady { $addonCount } přidatkow w { -brand-short-name } instalowało, někotre z nich su njewobkrućene. Pokročujće z tym na swoje riziko.
