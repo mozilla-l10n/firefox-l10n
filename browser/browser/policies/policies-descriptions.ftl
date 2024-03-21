@@ -222,6 +222,8 @@ policy-StartDownloadsInTempDirectory = Forza l’avvio dei download in una carte
 
 policy-SupportMenu = Aggiungi una voce di menu personalizzata nel menu Aiuto.
 
+policy-TranslateEnabled = Attiva o disattiva la traduzione di pagine web.
+
 policy-UserMessaging = Non visualizzare determinati messaggi all’utente.
 
 policy-UseSystemPrintDialog = Stampa utilizzando la finestra di dialogo di sistema.
