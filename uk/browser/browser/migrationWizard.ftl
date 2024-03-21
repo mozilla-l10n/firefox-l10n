@@ -60,7 +60,7 @@ migration-no-permissions-instructions-step1 = Виберіть “Продовж
 #
 # Variables:
 #  $permissionsPath (String): the file system path that the user will need to grant read permission to.
-migration-no-permissions-instructions-step2 = У засобі вибору файлів перейдіть до <code>{ $permissionsPath }</code> і натисніть «Вибрати»
+migration-no-permissions-instructions-step2 = У засобі вибору файлів перейдіть до <code>{ $permissionsPath }</code> і натисніть "Вибрати"
 
 ## These strings will be displayed based on how many resources are selected to import
 
