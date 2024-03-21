@@ -296,6 +296,8 @@ pdfjs-editor-stamp-button-label = 이미지 추가 또는 편집
 pdfjs-editor-highlight-button =
     .title = 강조 표시
 pdfjs-editor-highlight-button-label = 강조 표시
+pdfjs-highlight-floating-button =
+    .title = 강조 표시
 
 ## Remove button for the various kind of editor.
 
@@ -379,3 +381,10 @@ pdfjs-editor-colorpicker-pink =
     .title = 분홍색
 pdfjs-editor-colorpicker-red =
     .title = 빨간색
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+pdfjs-editor-highlight-show-all-button-label = 모두 보기
+pdfjs-editor-highlight-show-all-button =
+    .title = 모두 보기
