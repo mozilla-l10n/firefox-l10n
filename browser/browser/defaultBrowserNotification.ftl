@@ -17,3 +17,5 @@ default-browser-prompt-message-pin = Gachrun { -brand-short-name } ni—nagi'hi�
 default-browser-prompt-message-pin-mac = Gachrun { -brand-short-name } ni—nagi'hiát ma gînunj riña dukuán Dock.
 default-browser-prompt-button-primary-pin = Nagi'hiô' ma sa yitïnj i.
 default-browser-prompt-title-alt = Nagio'hiô { -brand-short-name } sa yitinj i.
+default-browser-prompt-message-alt = Nagi'hiaj hio doj man da' gache nunt.
+default-browser-prompt-button-primary-alt = Dūnâj gāhuin man riña sa nānà'uì' yītïnjt
