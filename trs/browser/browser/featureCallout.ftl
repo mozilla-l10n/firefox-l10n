@@ -38,3 +38,8 @@ callout-pdfjs-edit-body-a = Gachrun sa anin ruhuât riña { -brand-short-name }
 callout-pdfjs-edit-body-b = Si gaché nun ta'ut, ga'hu gachrunt hiujna sa anin rihuât { -brand-short-name }.
 callout-pdfjs-edit-button = Ne' ñaan
 callout-pdfjs-draw-title = Gachrun si da'ngà' ngà aga' na.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Gachrun sa garan' ruhuât riña PDF nī na'ninj sat.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Si giri' ñan du'hua man. Narán riña PDF nī na'nïj sa'.
+callout-pdfjs-draw-button = Ngà nikà man
