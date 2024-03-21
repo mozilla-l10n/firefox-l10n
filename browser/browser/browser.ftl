@@ -654,8 +654,8 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Закрити Зображення в зображенні ({ $shortcut })
 picture-in-picture-panel-header = Зображення в зображенні
-picture-in-picture-panel-headline = Цей вебсайт не рекомендує використовувати режим «Зображення в зображенні».
-picture-in-picture-panel-body = Відео може мати вигляд не такий, як передбачалося розробником, якщо увімкнено функцію «Зображення в зображенні».
+picture-in-picture-panel-headline = Цей вебсайт не рекомендує використовувати режим "Зображення в зображенні".
+picture-in-picture-panel-body = Відео може мати вигляд не такий, як передбачалося розробником, якщо увімкнено функцію "Зображення в зображенні".
 picture-in-picture-enable-toggle =
     .label = Усе одно ввімкнути
 
