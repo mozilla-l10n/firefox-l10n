@@ -28,6 +28,13 @@ callout-firefox-view-colorways-reminder-subtitle = Nagi'hiaj nihià' si navegado
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Nagi'hiaj si navegadort.
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Garasun nej dán dene' huaj ma'ant.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Gāyi'ì
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Nāgi'hiaj nej ñanj PDF 'ngà rasuun na.
+callout-pdfjs-edit-body-a = Gachrun sa anin ruhuât riña { -brand-short-name }
+callout-pdfjs-edit-body-b = Si gaché nun ta'ut, ga'hu gachrunt hiujna sa anin rihuât { -brand-short-name }.
+callout-pdfjs-edit-button = Ne' ñaan
+callout-pdfjs-draw-title = Gachrun si da'ngà' ngà aga' na.
