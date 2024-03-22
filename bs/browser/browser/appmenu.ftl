@@ -165,6 +165,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Preporučeno unaprijed postavljeno za većinu otklanjanja grešaka u web aplikacijama, s malim opterećenjem.
 profiler-popup-presets-web-developer-label =
     .label = Web programer
@@ -242,3 +247,13 @@ appmenu-developer-tools-extensions =
     .label = Ekstenzije za developere
 appmenuitem-report-broken-site =
     .label = Prijavite neispravan sajt
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Prijavite se na svoj račun
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Primajte upozorenja o curenju podataka
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Maskirajte svoj prav e-mail i telefon
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Zaštitite svoju aktivnost na mreži
