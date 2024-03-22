@@ -568,6 +568,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Contento exceptional a cura de { $provider }, parte del familia { -brand-product-name }
 home-prefs-recommended-by-header-generic =
     .label = Historias recommendate
+home-prefs-recommended-by-description-generic = Contento exceptional curate per le familia de { -brand-product-name }
 
 ##
 
