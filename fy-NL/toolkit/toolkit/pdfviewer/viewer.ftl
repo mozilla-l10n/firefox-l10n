@@ -394,3 +394,5 @@ pdfjs-editor-colorpicker-red =
 ## This is a toggle button to show/hide all the highlights.
 
 pdfjs-editor-highlight-show-all-button-label = Alles toane
+pdfjs-editor-highlight-show-all-button =
+    .title = Alles toane
