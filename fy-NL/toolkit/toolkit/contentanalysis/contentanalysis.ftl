@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } toetst wat jo plak
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } toetst jo plakte tekst oan it gegevensbelied fan jo organisaasje. Dit kin efkes duorje.
 contentanalysis-operationtype-clipboard = klamboerd
 contentanalysis-operationtype-dropped-text = plakte tekst
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = oplaad fan ‘{ $filename }’
 contentanalysis-warndialogtitle = Dizze ynhâld is mooglik ûnfeilich
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,5 @@ contentanalysis-block-message = Jo organisaasje brûkt software foar foarkommen 
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Der is in flater bard by de kommunikaasje mei de software foar foarkommen fan gegevensferlies. Oerdracht wegere foar boarne: { $content }.
+contentanalysis-inprogress-quit-title = { -brand-shorter-name } ôfslute?
+contentanalysis-inprogress-quit-yesbutton = Ja, ôfslute
