@@ -10,6 +10,9 @@
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } privatno pretraživanje
 
 ##
 
@@ -26,6 +29,8 @@ urlbar-midi-notification-anchor =
     .tooltiptext = Otvori MIDI panel
 urlbar-eme-notification-anchor =
     .tooltiptext = Upravljajte upotrebom DRM softvera
+urlbar-web-authn-anchor =
+    .tooltiptext = Otvori Web Authentication panel
 urlbar-canvas-notification-anchor =
     .tooltiptext = Upravljanje dozvolama za ekstrakciju canvasa
 urlbar-web-rtc-share-microphone-notification-anchor =
@@ -34,6 +39,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Otvori panel s porukama
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Otvori panel sa zahtjevima lokacije
+urlbar-xr-notification-anchor =
+    .tooltiptext = Otvorite panel dozvola za virtuelnu stvarnost
+urlbar-storage-access-anchor =
+    .tooltiptext = Otvori panel dozvola za aktivnosti surfanja
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Upravljajte dijeljenjem vaših prozora ili ekrana sa stranicom
 urlbar-indexed-db-notification-anchor =
@@ -44,6 +53,12 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Upravljanje korištenjem plugina
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Upravljajte dijeljenjem vaše kamere i/ili mikrofona sa stranicom
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Upravljajte dijeljenjem drugih govornika na web stranici
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = Otvori autoplay panel
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Pohrani podatke u trajno spremište
 urlbar-addons-notification-anchor =
@@ -51,11 +66,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Pomoć
 urlbar-search-tips-confirm = OK, razumijem
+urlbar-search-tips-confirm-short = Razumijem
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Savjet:
+urlbar-result-menu-button =
+    .title = Otvori meni
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -63,17 +81,26 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tipkajte manje, pronađite više: Pretražite { $engineName } izravno iz vaše adresne trake.
+urlbar-search-tips-redirect-2 = Započnite pretragu u adresnoj traci da vidite prijedloge od { $engineName }a i svoju historiju pretraživanja.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Pretraživanje je postalo jednostavnije. Pokušajte da svoju pretragu učinite konkretnijom ovdje u adresnoj traci. Da biste umjesto toga prikazali URL, posjetite Traži, u postavkama.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Odaberite ovu prečicu da brže pronađete ono što vam treba.
 
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = Zabilješke
 urlbar-search-mode-tabs = Tabovi
 urlbar-search-mode-history = Historija
+urlbar-search-mode-actions = Radnje
 
 ##
 
 urlbar-geolocation-blocked =
     .tooltiptext = Blokirali ste lokacijske informacije za ovu web stranicu.
+urlbar-xr-blocked =
+    .tooltiptext = Blokirali ste pristup uređajima virtuelne stvarnosti za ovu web stranicu.
 urlbar-web-notifications-blocked =
     .tooltiptext = Blokirali ste notifikacije za ovu web stranicu.
 urlbar-camera-blocked =
@@ -86,8 +113,14 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Blokirali ste trajno spremište za ovu web stranicu.
 urlbar-popup-blocked =
     .tooltiptext = Imate blokirane pop-up prozore za ovu web stranicu.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Blokirali ste automatsku reprodukciju medija sa zvukom na ovoj stranici.
 urlbar-canvas-blocked =
     .tooltiptext = Blokirali ste ekstrakciju canvas podataka za ovu web stranicu.
+urlbar-midi-blocked =
+    .tooltiptext = Blokirali ste MIDI pristup za ovu web stranicu.
+urlbar-install-blocked =
+    .tooltiptext = Blokirali ste instalaciju dodataka za ovu web stranicu.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -111,6 +144,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Ovaj put, traži sa:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Promijeni postavke za pretragu
 search-one-offs-context-open-new-tab =
@@ -143,11 +179,16 @@ search-one-offs-tabs =
     .tooltiptext = Tabovi ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historija ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Radnje ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Prikaži dodatke
+quickactions-cmd-addons2 = dodaci
 
 ## Bookmark Panel
 
@@ -474,6 +515,9 @@ tabs-toolbar-list-all-tabs =
     .tooltiptext = Izlistaj sve tabove
 
 ## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
