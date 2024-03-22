@@ -64,6 +64,9 @@ shopping-message-bar-analysis-in-progress-with-amount = Controlo qualitate de re
 shopping-message-bar-page-not-supported =
     .heading = Nos non pote controlar iste recensiones
     .message = Infortunatemente, nos non pote verificar le qualitate de recension pro certe typos de productos. Per exemplo, cartas dono e diffusion multimedial de video, musica, e jocos.
+shopping-message-bar-keep-closed-header =
+    .heading = Mantener claudite?
+    .message = Tu pote actualisar tu parametros pro normalmente mantener claudite Review Checker. Ora, illo se aperi automaticamente.
 shopping-message-bar-keep-closed-dismiss-button = No, gratias
 shopping-message-bar-keep-closed-accept-button = Si, mantener claudite
 
@@ -99,6 +102,10 @@ shopping-settings-auto-open-toggle =
 #   $secondSite (String) - The second shopping page name
 #   $thirdSite (String) - The third shopping page name
 shopping-settings-auto-open-description-three-sites = Quando tu vide productos sur { $firstSite }, { $secondSite }, e { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Quando tu vide productos sur { $currentSite }
 shopping-settings-sidebar-enabled-state = Verificator de recension es <strong>Active</strong>
 
 ## Strings for the adjusted rating component
