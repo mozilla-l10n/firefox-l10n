@@ -93,6 +93,12 @@ shopping-settings-opt-out-button = Disactivar verificator de recension
 powered-by-fakespot = Verificator de recension es supportate per <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 shopping-settings-auto-open-toggle =
     .label = Aperir automaticamente Verificator de recension
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Quando tu vide productos sur { $firstSite }, { $secondSite }, e { $thirdSite }
 shopping-settings-sidebar-enabled-state = Verificator de recension es <strong>Active</strong>
 
 ## Strings for the adjusted rating component
@@ -177,6 +183,7 @@ shopping-callout-pdp-opted-in-subtitle = Aperi le verificator de recension pro v
 shopping-callout-closed-not-opted-in-title = Un clic pro recensiones fidabile
 shopping-callout-closed-not-opted-in-subtitle = Prova le verificator de recension quandocunque tu vide le etiquetta del precio. Obtene discernimentos ab real compratores facilemente, ante que tu compra.
 shopping-callout-closed-not-opted-in-revised-title = Un clic pro recensiones fidibile
+shopping-callout-closed-not-opted-in-revised-subtitle = Sol clicca le icone tag de precio in le barra de adresse pro retornar a Review Checker.
 shopping-callout-closed-not-opted-in-revised-button = Comprendite
 shopping-callout-not-opted-in-reminder-title = Compra con confidentia
 shopping-callout-not-opted-in-reminder-open-button = Aperir Verificator de recension
