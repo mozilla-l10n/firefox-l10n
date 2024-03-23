@@ -272,6 +272,28 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [one] Jā, izņemt paroles
        *[other] Jā, izņemt paroles
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [zero] Izņemt { $count } paroli?
+        [one] Izņemt { $count } paroles?
+       *[other] Izņemt { $count } paroļu?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Tas izņems paroli, kas saglabātas { -brand-short-name }, un visus brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+        [zero] Tas izņems paroles, kas saglabātas { -brand-short-name }, un visus brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+        [one] Tas izņems paroles, kas saglabātas { -brand-short-name }, un visus brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+       *[other] Tas izņems paroles, kas saglabātas { -brand-short-name }, un visus brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [zero] Noņemt { $count } paroli no visām ierīcēm?
+        [one] Noņemt { $count } paroles no visām ierīcēm?
+       *[other] Noņemt { $count } paroļu no visām ierīcēm?
+    }
 
 ##
 
