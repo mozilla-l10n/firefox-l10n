@@ -170,25 +170,55 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Lai rediģētu savu lietotājvārdu, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = rediģēt saglabāto lietotājvārdu un paroli
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Lai rediģētu savu paroli, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = rediģēt saglabāto paroli
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Lai apskatītu savu paroli, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = parādīt saglabāto paroli
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Lai kopētu savu paroli, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopēt saglabāto paroli
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message-win = Lai eksportētu savus lietotājvārdus, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = izgūt saglabātos lietotājvārdus un paroles
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Lai eksportētu savas paroles, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = eksportēt saglabātās paroles
 
 ## Primary Password notification
 
+about-logins-primary-password-notification-message = Lūdzu, ievadiet savu primāro paroli, lai skatītu saglabātos lietotājvārdus un paroles
+master-password-reload-button =
+    .label = Ierakstīties
+    .accesskey = L
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Atcelt
 confirmation-dialog-dismiss-button =
     .title = Atcelt
+about-logins-confirm-remove-dialog-title = Izņemt šo lietotājvārdu?
 confirm-delete-dialog-message = Šo darbību nevar atsaukt.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Izņemt paroli?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Šo darbību nevar atsaukt.
 about-logins-confirm-remove-dialog-confirm-button = Noņemt
 
 ## Variables
@@ -200,6 +230,13 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [zero] Dzēst visu
         [one] Dzēst visu
        *[other] Dzēst visu
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Jā, izņemt šo lietotājvārdu
+        [zero] Jā, izņemt šos lietotājvārdus
+        [one] Jā, izņemt šos lietotājvārdus
+       *[other] Jā, izņemt šos lietotājvārdus
     }
 
 ##
