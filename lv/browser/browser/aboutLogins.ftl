@@ -349,16 +349,52 @@ about-logins-error-message-default = Radās kļūda, mēģinot saglabāt šo par
 
 ## Login Export Dialog
 
+# Title of the file picker dialog
+about-logins-export-file-picker-title = Eksportēt lietotājvārdu datni
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename = lietotājvārdi.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Eksportēt paroles no { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = paroles.csv
 about-logins-export-file-picker-export-button = Eksportēt
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-export-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV dokuments
+       *[other] CSV datne
+    }
 
 ## Login Import Dialog
 
+# Title of the file picker dialog
+about-logins-import-file-picker-title = Importēt lietotājvārdu datni
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importēt paroles uz { -brand-short-name }
 about-logins-import-file-picker-import-button = Importēt
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+about-logins-import-file-picker-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CVS dokuments
+       *[other] CSV datne
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV dokuments
+       *[other] TSV datne
+    }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = Importēšana ir pabeigta
 
 ##
 ## Variables:
