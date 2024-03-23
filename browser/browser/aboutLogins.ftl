@@ -306,11 +306,22 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 ##
 
 about-logins-confirm-export-dialog-title = Izgūt lietotājvārdus un paroles
+about-logins-confirm-export-dialog-message = Jūsu paroles tiks saglabātas kā lasāms teksts (piemēram, S1ikt@Pa0le), tāpēc ikviens, kurš var atvērt eksportēto datni, varēs tās apskatīt.
 about-logins-confirm-export-dialog-confirm-button = Eksportēt…
+about-logins-confirm-export-dialog-title2 = Piezīme par paroļu eksportēšanu
+about-logins-confirm-export-dialog-message2 =
+    Eksportējot, jūsu paroles tiek saglabātas datnē ar lasāmu tekstu.
+    Kad esat pabeidzis lietot datni, ieteicams to izdzēst, lai citi, kas izmanto šo ierīci, nevarētu redzēt jūsu paroles.
+about-logins-confirm-export-dialog-confirm-button2 = Turpināt eksportēt
 about-logins-alert-import-title = Importēšana pabeigta
+about-logins-alert-import-message = Skatīt detalizētu importēšanas kopsavilkumu
+confirm-discard-changes-dialog-title = Vai atmest nesaglabātās izmaiņas?
+confirm-discard-changes-dialog-message = Visas nesaglabātās izmaiņas tiks zaudētas.
+confirm-discard-changes-dialog-confirm-button = Atmest
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Vietnes datu noplūde
 
 ## Vulnerable Password notification
 
