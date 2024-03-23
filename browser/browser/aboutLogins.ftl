@@ -294,6 +294,14 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Noņemt { $count } paroles no visām ierīcēm?
        *[other] Noņemt { $count } paroļu no visām ierīcēm?
     }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Tas jūsu sinhronizētajās ierīcēs izņems paroli, kas saglabāta { -brand-short-name }. Tas arī izņems visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+        [zero] Tas jūsu sinhronizētajās ierīcēs izņems visas paroles, kas saglabātas { -brand-short-name }. Tas arī izņems visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+        [one] Tas jūsu sinhronizētajās ierīcēs izņems visas paroles, kas saglabātas { -brand-short-name }. Tas arī izņems visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+       *[other] Tas jūsu sinhronizētajās ierīcēs izņems visas paroles, kas saglabātas { -brand-short-name }. Tas arī izņems visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevar atsaukt.
+    }
 
 ##
 
