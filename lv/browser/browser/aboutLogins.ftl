@@ -238,6 +238,40 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [one] Jā, izņemt šos lietotājvārdus
        *[other] Jā, izņemt šos lietotājvārdus
     }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [zero] Izņemt { $count } lietotājvārdu?
+        [one] Izņemt { $count } lietotājvārdus?
+       *[other] Izņemt { $count } lietotājvārdu?
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Šis izņems lietotājvārdu, kuru saglabājāt { -brand-short-name }, un visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevarēs atsaukt.
+        [zero] Šis izņems lietotājvārdus, kurus saglabājāt { -brand-short-name }, un visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevarēs atsaukt.
+        [one] Šis izņems lietotājvārdus, kurus saglabājāt { -brand-short-name }, un visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevarēs atsaukt.
+       *[other] Šis izņems lietotājvārdus, kurus saglabājāt { -brand-short-name }, un visus šeit redzamos brīdinājumus par datu noplūdēm. Šo darbību nevarēs atsaukt.
+    }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [zero] Noņemt { $count } lietotājvārdu no visām ierīcēm?
+        [one] Noņemt { $count } lietotājvārdus no visām ierīcēm?
+       *[other] Noņemt { $count } lietotājvārdus no visām ierīcēm?
+    }
+about-logins-confirm-remove-all-sync-dialog-message =
+    { $count ->
+        [1] Tādējādi tiks izņemts lietotājvārds, ko esat saglabājis { -brand-short-name }, visās ierīcēs, kas sinhronizētas ar jūsu { -fxaccount-brand-name }. Tādējādi tiks noņemti arī šeit redzamie brīdinājumi par datu noplūdēm. Šo darbību nevarēs atsaukt.
+        [zero] Tādējādi tiks izņemti visi lietotājvārdi, ko esat saglabājis { -brand-short-name }, visās ierīcēs, kas sinhronizētas ar jūsu { -fxaccount-brand-name }. Tādējādi tiks noņemti arī šeit redzamie brīdinājumi par datu noplūdēm. Šo darbību nevarēs atsaukt.
+        [one] Tādējādi tiks izņemti visi lietotājvārdi, ko esat saglabājis { -brand-short-name }, visās ierīcēs, kas sinhronizētas ar jūsu { -fxaccount-brand-name }. Tādējādi tiks noņemti arī šeit redzamie brīdinājumi par datu noplūdēm. Šo darbību nevarēs atsaukt.
+       *[other] Tādējādi tiks izņemti visi lietotājvārdi, ko esat saglabājis { -brand-short-name }, visās ierīcēs, kas sinhronizētas ar jūsu { -fxaccount-brand-name }. Tādējādi tiks noņemti arī šeit redzamie brīdinājumi par datu noplūdēm. Šo darbību nevarēs atsaukt.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Jā, izņemt paroli
+        [zero] Jā, izņemt paroles
+        [one] Jā, izņemt paroles
+       *[other] Jā, izņemt paroles
+    }
 
 ##
 
