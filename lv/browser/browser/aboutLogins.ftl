@@ -116,13 +116,24 @@ login-intro-description2 = Visas paroles, kuras saglabājat uz { -brand-product-
 login-intro-instructions-fxa2 = Izveidojiet vai ierakstieties savā kontā uz ierīces, kur ir saglabāti jūsu lietotājvārdi.
 login-intro-instructions-fxa-settings = Ejiet uz Iestatījumi > Sinhronizācija > Ieslēgt sinhronizāciju… Atlasiet atzīmes rūtiņu LIetotājvārdi un paroles.
 login-intro-instructions-fxa-passwords-help = Apmeklējiet <a data-l10n-name="passwords-help-link">paroļu atbalstu</a>, lai saņemtu vairāk palīdzības.
+about-logins-intro-browser-only-import = Ja jūsu lietotājvārdi ir saglabāti citā pārlūkprogrammā, varat <a data-l10n-name="import-link">importēt tos uz { -brand-product-name }</a>.
+about-logins-intro-import2 = Ja jūsu lietotājvārdi ir saglabāti ārpus { -brand-product-name }, varat <a data-l10n-name="import-browser-link">importēt tos no citas pārlūkprogrammas</a> vai <a data-l10n- name="import-file-link">no datnes</a>
+about-logins-intro-import3 = Atlasiet augstāk esošo pluszīmes pogu, lai pievienotu paroli uzreiz. Varat arī <a data-l10n-name="import-browser-link">importēt paroles no citas pārlūkprogrammas</a> vai <a data-l10n-name="import-file-link">no datnes</a>.
 
 ## Login
 
 login-item-new-login-title = Jauna lietotājvārda izveide
+# Header for adding a password
+about-logins-login-item-new-login-title = Pievienot paroli
 login-item-edit-button = Rediģēt
 about-logins-login-item-remove-button = Noņemt
 login-item-origin-label = Vietnes adrese
+login-item-tooltip-message = Pārliecinieties, vai tas precīzi atbilst tās vietnes adresei, kurā ierakstāties.
+about-logins-origin-tooltip2 = Ievadiet pilnu adresi un pārliecinieties, vai tā precīzi atbilst vietai, kur ierakstāties.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Pārliecinieties, ka parole, kuru saglabājat, ir šai vietnei. Mainot paroli šeit, tā netiek mainīta vietnei { $webTitle }.
+about-logins-add-password-tooltip = Pārliecinieties, ka saglabājat savu pašreizējo šīs vietnes paroli.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Lietotājvārds
@@ -136,6 +147,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Kopēt
 login-item-copied-password-button-text = Nokopēts!
 login-item-save-changes-button = Saglabāt izmaiņas
+about-logins-login-item-save-changes-button = Saglabāt
 login-item-save-new-button = Saglabāt
 login-item-cancel-button = Atcelt
 
