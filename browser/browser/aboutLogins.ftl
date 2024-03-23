@@ -6,6 +6,12 @@
 about-logins-page-title = Lietotājvārdi un paroles
 create-new-login-button =
     .title = Izveidot jaunu lietotājvārdu
+about-logins-page-title-name = Paroles
+about-logins-login-filter2 =
+    .placeholder = Meklēt paroles
+    .key = F
+create-login-button =
+    .title = Pievienot paroli
 fxaccounts-sign-in-text = Iegūstiet savas paroles citās ierīcēs
 fxaccounts-sign-in-sync-button = Pierakstīties sinhronizācijai
 fxaccounts-avatar-button =
@@ -16,14 +22,16 @@ fxaccounts-avatar-button =
 menu =
     .title = Atvērt izvēlni
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Importēt no cita pārlūka…
+about-logins-menu-menuitem-import-from-another-browser = Importēt datus no cita pārlūka…
 about-logins-menu-menuitem-import-from-a-file = Importēt no faila…
 about-logins-menu-menuitem-export-logins = Eksportēt lietotājvārdus…
 about-logins-menu-menuitem-remove-all-logins = Noņemt visus lietotājvārdus…
+about-logins-menu-menuitem-export-logins2 = Eksportēt paroles…
+about-logins-menu-menuitem-remove-all-logins2 = Izņemt visas paroles…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcijas
-       *[other] Izvēles
+       *[other] Iestatījumi
     }
 about-logins-menu-menuitem-help = Palīdzība
 
@@ -37,7 +45,33 @@ login-list-count =
     { $count ->
         [zero] { $count } lietotājvārds
         [one] { $count } lietotājvārdi
-       *[other] { $count } lietotājvārds
+       *[other] { $count } lietotājvārdu
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [zero] { $count } no { $total } lietotājvārdiem
+        [one] { $count } no { $total } lietotājvārdiem
+       *[other] { $count } no { $total } lietotājvārdu.
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [zero] { $count } parole
+        [one] { $count } paroles
+       *[other] { $count } paroļu
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [zero] { $count } no { $total } paroles
+        [one] { $count } no { $total } parolēm
+       *[other] { $count } no { $total } parolēm
     }
 login-list-sort-label-text = Kārtot pēc:
 login-list-name-option = Nosaukuma (A-Z)
@@ -48,11 +82,14 @@ about-logins-login-list-alerts-option = Brīdinājumi
 login-list-last-changed-option = Pēdējoreiz mainīts
 login-list-last-used-option = Pēdējoreiz lietots
 login-list-intro-title = Lietotājvārdi nav atrasti
+login-list-intro-title2 = Nav saglabātu paroļu
 login-list-intro-description = Kad jūs saglabājat paroli { -brand-product-name }, tā parādās šeit.
 about-logins-login-list-empty-search-title = Lietotājvārdi nav atrasti
+about-logins-login-list-empty-search-title2 = Netika atrasta neviena parole
 about-logins-login-list-empty-search-description = Jūsu meklēšanas nosacījumam nav rezultātu.
 login-list-item-title-new-login = Jauns lietotājvārds
 login-list-item-subtitle-new-login = Ievadiet savus lietotājvārda datus
+login-list-item-title-new-login2 = Pievienot paroli
 login-list-item-subtitle-missing-username = (nav lietotājvārda)
 about-logins-list-item-breach-icon =
     .title = Uzlauzta vietne
