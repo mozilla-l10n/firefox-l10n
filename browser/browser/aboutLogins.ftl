@@ -322,9 +322,16 @@ confirm-discard-changes-dialog-confirm-button = Atmest
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Vietnes datu noplūde
+breach-alert-text = Kopš pēdējās ierakstīšanās informācijas atjaunināšanas reizes šajā vietnē tika nopludinātas vai nozagtas paroles. Nomainiet paroli, lai aizsargātu savu kontu.
+about-logins-breach-alert-date = Šī noplūde notika { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Doties uz { $hostname }
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Neaizsargāta parole
+about-logins-vulnerable-alert-text2 = Šī parole ir izmantota citā kontā, kurā, iespējams, notika datu noplūde. Atkārtoti izmantojot akreditācijas datus, tiek apdraudēti visi jūsu konti. Mainiet šo paroli.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Doties uz { $hostname }
