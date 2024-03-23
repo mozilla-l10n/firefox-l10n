@@ -106,6 +106,10 @@ about-logins-list-section-week = Pēdējās 7 dienās
 
 about-logins-login-intro-heading-logged-out2 = Meklējat saglabātos lietotājvārdus un paroles? Ieslēdziet sinhronizāciju vai importējiet tās.
 about-logins-login-intro-heading-logged-in = Nav atrastu sinhronizēto lietotājvārdu un paroļu.
+login-intro-description = Ja esat saglabājuši savas paroles iekšā { -brand-product-name } uz citas ierīces,  šeit ir aprakstīts, kā tās dabūt:
+login-intro-instructions-fxa = Izveidojiet jaunu kontu uz sava { -fxaccount-brand-name(capitalization: "sentence") } uz ierīces, kur tika saglabātas jūsu paroles.
+about-logins-login-intro-heading-message = Saglabājiet savas paroles drošā vietā
+login-intro-description2 = Visas paroles, kuras saglabājat uz { -brand-product-name } ir šifrētas. Mēs arī uzraugām, vai ir notikušas paroļu noplūdes, un brīdinām jūs, ja jūsu paroles ir ietekmētas. <a data-l10n-name="breach-alert-link">Uzziniet vairāk</a>
 
 ## Login
 
