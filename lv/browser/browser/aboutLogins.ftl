@@ -4,6 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Lietotājvārdi un paroles
+about-logins-login-filter =
+    .placeholder = Meklēt lietotājvārdus
+    .key = F
 create-new-login-button =
     .title = Izveidot jaunu lietotājvārdu
 about-logins-page-title-name = Paroles
@@ -110,6 +113,9 @@ login-intro-description = Ja esat saglabājuši savas paroles iekšā { -brand-p
 login-intro-instructions-fxa = Izveidojiet jaunu kontu uz sava { -fxaccount-brand-name(capitalization: "sentence") } uz ierīces, kur tika saglabātas jūsu paroles.
 about-logins-login-intro-heading-message = Saglabājiet savas paroles drošā vietā
 login-intro-description2 = Visas paroles, kuras saglabājat uz { -brand-product-name } ir šifrētas. Mēs arī uzraugām, vai ir notikušas paroļu noplūdes, un brīdinām jūs, ja jūsu paroles ir ietekmētas. <a data-l10n-name="breach-alert-link">Uzziniet vairāk</a>
+login-intro-instructions-fxa2 = Izveidojiet vai ierakstieties savā kontā uz ierīces, kur ir saglabāti jūsu lietotājvārdi.
+login-intro-instructions-fxa-settings = Ejiet uz Iestatījumi > Sinhronizācija > Ieslēgt sinhronizāciju… Atlasiet atzīmes rūtiņu LIetotājvārdi un paroles.
+login-intro-instructions-fxa-passwords-help = Apmeklējiet <a data-l10n-name="passwords-help-link">paroļu atbalstu</a>, lai saņemtu vairāk palīdzības.
 
 ## Login
 
