@@ -282,6 +282,9 @@ about-logins-confirm-export-dialog-title = Eksporter innloggingar og passord
 about-logins-confirm-export-dialog-message = Passorda dine vert lagra som lesbar tekst (t.d. DårlegP@ss0rd), slik at alle som kan åpne den eksporterte fila kan sjå dei.
 about-logins-confirm-export-dialog-confirm-button = Eksporter…
 about-logins-confirm-export-dialog-title2 = Ein merknad om eksport av passord
+about-logins-confirm-export-dialog-message2 =
+    Når du eksporterer, vert passorda dine lagra i ei fil med lesbar tekst.
+    Når du er ferdig med å bruke fila, anbefalar vi at du slettar henne slik at andre som brukar denne eininga ikkje kan sjå passorda dine.
 about-logins-confirm-export-dialog-confirm-button2 = Hald fram med eksport
 about-logins-alert-import-title = Import fullført
 about-logins-alert-import-message = Vis detaljert importoversikt
