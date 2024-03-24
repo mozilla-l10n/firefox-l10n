@@ -110,14 +110,14 @@ about-logins-list-section-week = Pēdējās 7 dienās
 about-logins-login-intro-heading-logged-out2 = Meklējat saglabātos lietotājvārdus un paroles? Ieslēdziet sinhronizāciju vai importējiet tās.
 about-logins-login-intro-heading-logged-in = Nav atrastu sinhronizēto lietotājvārdu un paroļu.
 login-intro-description = Ja esat saglabājuši savas paroles iekšā { -brand-product-name } uz citas ierīces,  šeit ir aprakstīts, kā tās dabūt:
-login-intro-instructions-fxa = Izveidojiet jaunu kontu uz sava { -fxaccount-brand-name(capitalization: "sentence") } uz ierīces, kur tika saglabātas jūsu paroles.
+login-intro-instructions-fxa = Izveidojiet jaunu kontu uz sava { -fxaccount-brand-name } uz ierīces, kur tika saglabātas jūsu paroles.
 about-logins-login-intro-heading-message = Saglabājiet savas paroles drošā vietā
 login-intro-description2 = Visas paroles, kuras saglabājat uz { -brand-product-name } ir šifrētas. Mēs arī uzraugām, vai ir notikušas paroļu noplūdes, un brīdinām jūs, ja jūsu paroles ir ietekmētas. <a data-l10n-name="breach-alert-link">Uzziniet vairāk</a>
 login-intro-instructions-fxa2 = Izveidojiet vai ierakstieties savā kontā uz ierīces, kur ir saglabāti jūsu lietotājvārdi.
 login-intro-instructions-fxa-settings = Ejiet uz Iestatījumi > Sinhronizācija > Ieslēgt sinhronizāciju… Atlasiet atzīmes rūtiņu LIetotājvārdi un paroles.
 login-intro-instructions-fxa-passwords-help = Apmeklējiet <a data-l10n-name="passwords-help-link">paroļu atbalstu</a>, lai saņemtu vairāk palīdzības.
 about-logins-intro-browser-only-import = Ja jūsu lietotājvārdi ir saglabāti citā pārlūkprogrammā, varat <a data-l10n-name="import-link">importēt tos uz { -brand-product-name }</a>.
-about-logins-intro-import2 = Ja jūsu lietotājvārdi ir saglabāti ārpus { -brand-product-name }, varat <a data-l10n-name="import-browser-link">importēt tos no citas pārlūkprogrammas</a> vai <a data-l10n- name="import-file-link">no datnes</a>
+about-logins-intro-import2 = Ja jūsu lietotājvārdi ir saglabāti ārpus { -brand-product-name }, varat <a data-l10n-name="import-browser-link">importēt tos no citas pārlūkprogrammas</a> vai <a data-l10n-name="import-file-link">no datnes</a>
 about-logins-intro-import3 = Atlasiet augstāk esošo pluszīmes pogu, lai pievienotu paroli uzreiz. Varat arī <a data-l10n-name="import-browser-link">importēt paroles no citas pārlūkprogrammas</a> vai <a data-l10n-name="import-file-link">no datnes</a>.
 
 ## Login
