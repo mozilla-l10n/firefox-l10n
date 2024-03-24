@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Erakutsi fitxa gehiago
     .tooltiptext = Erakutsi gailu honetako fitxa gehiago
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Erakutsi fitxa inaktibo bat
+           *[other] Erakutsi { $count } fitxa inaktibo
+        }
+    .tooltiptext = Erakutsi gailu honetako fitxa inaktiboak
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Irekitako fitxarik ez
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -168,6 +178,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Web aplikazio gehienen arazketarako gomendatutako aurrezarpena, eragin negatibo txikiarekin.
 profiler-popup-presets-web-developer-label =
     .label = Web garapena
@@ -257,3 +272,8 @@ appmenu-developer-tools-extensions =
     .label = Garatzaileentzako hedapenak
 appmenuitem-report-broken-site =
     .label = Eman hondatutako gunearen berri
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Hasi saioa zure kontuan
+appmenuitem-monitor-title = { -monitor-brand-short-name }

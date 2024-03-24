@@ -387,6 +387,8 @@ about-logins-import-report-row-index = { $number }. errenkada
 about-logins-import-report-row-description-no-change = Bikoiztua: lehendik dagoen saio-hasiera batekin bat dator
 about-logins-import-report-row-description-modified = Lehendik dagoen saio-hasiera eguneratuta
 about-logins-import-report-row-description-added = Saio-hasiera berria gehituta
+about-logins-import-report-row-description-no-change2 = Bikoiztua: lehendik dagoen sarrera batekin bat dator
+about-logins-import-report-row-description-modified2 = Lehendik dagoen sarrera eguneratu da
 about-logins-import-report-row-description-added2 = Pasahitz berria gehituta
 about-logins-import-report-row-description-error = Errorea: eremua falta da
 
