@@ -19,9 +19,22 @@ about-private-browsing-handoff-no-engine =
 about-private-browsing-handoff-text = Meklējiet ar { $engine } vai ievadiet adresi
 about-private-browsing-handoff-text-no-engine = Meklējiet vai ievadiet adresi
 about-private-browsing-not-private = Šobrīd jūs neesat privātajā logā.
+about-private-browsing-info-description-private-window = Privāts logs: { -brand-short-name } notīra jūsu meklēšanas un pārlūkošanas vēsturi, kad aizverat visus privātos logus. Tas nepadara jūs anonīmu.
+about-private-browsing-info-description-simplified = { -brand-short-name } notīra jūsu meklēšanas un pārlūkošanas vēsturi, kad aizverat visus privātos logus, taču tas nepadara jūs anonīmu.
+about-private-browsing-learn-more-link = Uzzināt vairāk
+about-private-browsing-hide-activity = Slēpiet savas darbības un atrašanās vietu visur, kur pārlūkojat
+about-private-browsing-get-privacy = Iegūstiet privātuma aizsardzību visur, kur pārlūkojat
+about-private-browsing-hide-activity-1 = Slēpiet pārlūkošanas darbības un atrašanās vietu, izmantojot { -mozilla-vpn-brand-name }. Ar vienu klikšķi tiek izveidots drošs savienojums pat publiskajā Wi-Fi tīklā.
+about-private-browsing-prominent-cta = Palieciet privāts, izmantojot { -mozilla-vpn-brand-name }
+about-private-browsing-focus-promo-cta = Lejupielādēt { -focus-brand-name }
+about-private-browsing-focus-promo-header = { -focus-brand-name }: privāta pārlūkošana, lai kur jūs dotos
+about-private-browsing-focus-promo-text = Mūsu speciālā privātās pārlūkošanas mobilā lietotne katru reizi notīra vēsturi un sīkdatnes.
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+about-private-browsing-focus-promo-header-b = Veiciet privātu pārlūkošanu savā tālrunī
+about-private-browsing-focus-promo-text-b = Izmantojiet { -focus-brand-name } tiem privātajiem meklēšanas vaicājumiem, kurus nevēlaties redzēt galvenajā mobilajā pārlūkprogrammā.
+about-private-browsing-focus-promo-header-c = Nākamā līmeņa privātums mobilajā ierīcē
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
