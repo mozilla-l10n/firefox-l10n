@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = Не зараз
 
 protocolhandler-mailto-handler-notificationbox-always = Завжди відкривати посилання електронної пошти за допомогою { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } тепер є вашим типовим сайтом для відкриття посилань, які надсилають електронні листи.
+protocolhandler-mailto-handler-set-message = Використовувати <strong>{ $url } у { -brand-short-name }</strong> щоразу під час натискання посилання, яке відкриває вашу електронну пошту?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } у { -brand-short-name }</strong> тепер є типовим обробником електронної пошти на вашому комп'ютері.
 
 ##
 
