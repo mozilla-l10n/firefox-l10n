@@ -10,7 +10,7 @@
 webext-perms-description-bookmarks = Xem và chỉnh sửa dấu trang
 webext-perms-description-browserSettings = Đọc và chỉnh sửa cài đặt trình duyệt
 webext-perms-description-browsingData = Xóa lịch sử duyệt web, cookie và dữ liệu liên quan
-webext-perms-description-clipboardRead = Nhận dữ liệu từ bộ nhớ tạm
+webext-perms-description-clipboardRead = Lấy dữ liệu từ bộ nhớ tạm
 webext-perms-description-clipboardWrite = Nhập dữ liệu vào bộ nhớ tạm
 webext-perms-description-declarativeNetRequest = Chặn nội dung trên bất kỳ trang nào
 webext-perms-description-declarativeNetRequestFeedback = Đọc lịch sử duyệt web của bạn
