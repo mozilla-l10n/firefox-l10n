@@ -21,7 +21,7 @@ list-empty-find-updates =
 list-empty-button =
     .label = အက်အွန်တွေ အကြောင်း လေ့လာကြမယ်
 show-unsigned-extensions-button =
-    .label = နောက်တွဲ ပရိုဂရမ်တချို့ကို အတည်မပြုနိုင်ပါ
+    .label = အချို့သော ထပ်တိုးအပို သည် အတည်မပြုနိုင်ပါ
 show-all-extensions-button =
     .label = နောက်တွဲ ပရိုဂရမ်အားလုံးကို ပြပါ
 detail-version =
@@ -186,7 +186,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } is incompatible with { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.
