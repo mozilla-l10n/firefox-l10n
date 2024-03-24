@@ -425,6 +425,32 @@ about-logins-import-dialog-items-modified2 =
         [one] <span>Atjaunināti esošie ieraksti:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Atjaunināti esošie ieraksti:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [zero] <span>Atrasti ierakstu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
+        [one] <span>Atrasti ierakstu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
+       *[other] <span>Atrasti ierakstu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [zero] <span>Kļūdas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importētas)</span>
+        [one] <span>Kļūdas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importētas)</span>
+       *[other] <span>Kļūdas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importētas)</span>
+    }
+about-logins-import-dialog-done = Gatavs
+about-logins-import-dialog-error-title = Importēšanas kļūda
+about-logins-import-dialog-error-conflicting-values-title = Vairākas pretrunīgas vērtības vienam lietotājam
+about-logins-import-dialog-error-conflicting-values-description = Piemēram: vairāki lietotājvārdi, paroles, URL utt. vienam lietotājam.
+about-logins-import-dialog-error-file-format-title = Datnes formāta problēma
+about-logins-import-dialog-error-file-format-description = Nepareizas vai neesošas kolonnu galvenes. Pārliecinieties, vai datnē ir iekļautas lietotājvārda, paroles un URL kolonnas.
+about-logins-import-dialog-error-file-permission-title = Neizdevās nolasīt datni
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nav atļaujas lasīt datni. Mēģiniet mainīt datnes atļaujas.
+about-logins-import-dialog-error-unable-to-read-title = Nevar parsēt datni
+about-logins-import-dialog-error-unable-to-read-description = Pārliecinieties, vai esat atlasījis CSV vai TSV datni.
+about-logins-import-dialog-error-no-logins-imported = Nav importēts neviens lietotājvārds
+about-logins-import-dialog-error-learn-more = Uzzināt vairāk
+about-logins-import-dialog-error-try-import-again = Mēģiniet importēt vēlreiz…
+about-logins-import-dialog-error-cancel = Atcelt
 
 ##
 ## Variables:
