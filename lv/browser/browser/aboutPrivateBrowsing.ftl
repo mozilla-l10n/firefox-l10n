@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 privatebrowsingpage-open-private-window-label = Atvērt privāto logu
-    .accesskey = p
+    .accesskey = P
 about-private-browsing-search-placeholder = Meklēt tīmeklī
 about-private-browsing-info-title = Jūs esat privātajā logā
 about-private-browsing-search-btn =
