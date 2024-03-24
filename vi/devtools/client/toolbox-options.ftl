@@ -66,9 +66,9 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Hành vi chụp màn hình
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-only-label = Chỉ chụp màn hình vào khay nhớ tạm
+options-screenshot-clipboard-only-label = Chỉ chụp màn hình vào bộ nhớ tạm
 options-screenshot-clipboard-tooltip2 =
-    .title = Lưu ảnh chụp màn hình trực tiếp vào khay nhớ tạm
+    .title = Lưu ảnh chụp màn hình trực tiếp vào bộ nhớ tạm
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Bật tiếng chụp ảnh
 options-screenshot-audio-tooltip =

@@ -17,18 +17,18 @@ more-from-moz-qr-code-box-firefox-mobile-title = Tải xuống bằng thiết b�
 more-from-moz-qr-code-box-firefox-mobile-button = Gửi email đến điện thoại của bạn để thay thế
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Mã QR để tải xuống { -brand-product-name } dành cho di động
-more-from-moz-button-mozilla-vpn-2 = Nhận VPN
+more-from-moz-button-mozilla-vpn-2 = Sử dụng VPN
 more-from-moz-learn-more-link = Tìm hiểu thêm
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Bảo vệ hộp thư đến và danh tính của bạn bằng mặt nạ email miễn phí.
-more-from-moz-firefox-relay-button = Nhận { -relay-brand-short-name }
+more-from-moz-firefox-relay-button = Sử dụng { -relay-brand-short-name }
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-us-description = Tự động lấy lại thông tin cá nhân bị lộ của bạn.
 more-from-moz-mozilla-monitor-global-description = Nhận thông báo khi dữ liệu của bạn bị rò rỉ.
-more-from-moz-mozilla-monitor-button = Nhận { -monitor-brand-short-name }
+more-from-moz-mozilla-monitor-button = Sử dụng { -monitor-brand-short-name }

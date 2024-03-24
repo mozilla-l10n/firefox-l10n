@@ -17,4 +17,4 @@ windows-messages-intro =
     in đậm đại diện cho cửa sổ này. Lưu ý rằng trang này hiển thị
     các message gần đây nhất tại thời điểm trang được tải;
     để xem những cái hiện tại, bạn sẽ cần làm mới trang.
-windows-messages-copy-to-clipboard = Sao chép vào khay nhớ tạm
+windows-messages-copy-to-clipboard = Sao chép vào bộ nhớ tạm

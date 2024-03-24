@@ -22,7 +22,7 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } đang xem xét n�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } đang xem xét văn bản bạn đã gửi chống lại chính sách dữ liệu của tổ chức bạn hay không. Việc này có thể mất một chút thời gian.
-contentanalysis-operationtype-clipboard = khay nhớ tạm
+contentanalysis-operationtype-clipboard = bộ nhớ tạm
 contentanalysis-operationtype-dropped-text = văn bản đã kéo thả
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = tải lên của “{ $filename }”
