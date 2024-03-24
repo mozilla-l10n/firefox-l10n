@@ -16,34 +16,45 @@ pocket-panel-saved-error-tag-length = Birkas nevar būt garākas par 25 simbolie
 pocket-panel-saved-error-only-links = Saglabāt var tikai saites
 pocket-panel-saved-error-not-saved = Lapa nav saglabāta
 pocket-panel-saved-error-no-internet = Lai saglabātu { -pocket-brand-name }, jābūt savienojumam ar internetu. Lūdzu pārbaudiet savienojumu un mēģiniet vēlreiz.
+pocket-panel-saved-error-remove = Radās kļūda, mēģinot izņemt šo lapu.
 pocket-panel-saved-page-removed = Lapa ir noņemta
 pocket-panel-saved-page-saved = Saglabāts { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Saglabāts { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Notiek lapas noņemšana…
+pocket-panel-saved-removed-updated = Lapa ir izņemta no saglabātajām
 pocket-panel-saved-processing-tags = Pievieno birkas…
 pocket-panel-saved-remove-page = Noņemt lapu
 pocket-panel-saved-save-tags = Saglabāt
 pocket-panel-saved-saving-tags = Saglabā…
 pocket-panel-saved-suggested-tags = Ieteiktās birkas
-pocket-panel-saved-tags-saved = Birkas pievienotas
+pocket-panel-saved-tags-saved = Tagi pievienoti
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = Pievienot tagus:
 
 ## about:pocket-signup panel
 
 pocket-panel-signup-already-have = Jau lietojat { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Uzzināt vairāk
 pocket-panel-signup-login = Pieslēgties
-pocket-panel-signup-signup-email = Pierakstīties ar epastu
+pocket-panel-signup-signup-email = Pierakstīties ar e-pastu
 pocket-panel-signup-signup-cta = Pierakstīties { -pocket-brand-name }. Tas ir bez maksas.
 pocket-panel-signup-signup-firefox = Pierakstīties ar { -brand-product-name }
-pocket-panel-signup-tagline = Saglabājiet { -brand-product-name } rakstu vai video, lai skatītos to ar { -pocket-brand-name } jebkurā ierīcē un jebkurā laikā.
-pocket-panel-signup-tagline-story-one = Klikšķiniet uz { -pocket-brand-name } pogas, lai saglabātu { -brand-product-name } rakstus, video vai lapas.
-pocket-panel-signup-tagline-story-two = Skatiet ar { -pocket-brand-name } jebkurā ierīcē un jebkurā laikā.
+pocket-panel-signup-tagline = Saglabājiet rakstus un videoklipus no { -brand-product-name }, lai skatītu tos { -pocket-brand-name } jebkurā ierīcē jebkurā laikā.
+pocket-panel-signup-tagline-story-one = Spiediet uz pogas { -pocket-brand-name }, lai saglabātu jebkuru rakstu, video vai lapu no { -brand-product-name }.
+pocket-panel-signup-tagline-story-two = Skatiet { -pocket-brand-name } jebkurā ierīcē, jebkurā laikā.
+pocket-panel-signup-cta-a-fix = Jūsu saglabāšanas poga internetam
 
 ## about:pocket-home panel
 
+pocket-panel-home-welcome-back = Laipni lūdzam atpakaļ
+pocket-panel-home-paragraph = Varat izmantot { -pocket-brand-name }, lai izpētītu un saglabātu tīmekļa lapas, rakstus, videoklipus, raidierakstus vai atgrieztos pie iepriekš lasītā.
+pocket-panel-home-explore-popular-topics = Izpētiet populāras tēmas
+pocket-panel-home-discover-more = Atklājiet vairāk
+pocket-panel-home-explore-more = Izpētīt
 
 ## Pocket panel header component
 
 
 ## Pocket panel buttons
 
+pocket-panel-button-remove = Izņemt
