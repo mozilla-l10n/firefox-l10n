@@ -451,16 +451,75 @@ about-logins-import-dialog-error-no-logins-imported = Nav importēts neviens lie
 about-logins-import-dialog-error-learn-more = Uzzināt vairāk
 about-logins-import-dialog-error-try-import-again = Mēģiniet importēt vēlreiz…
 about-logins-import-dialog-error-cancel = Atcelt
+about-logins-import-report-title = Importēt kopsavilkumu
+about-logins-import-report-description = Lietotāji un paroles importēti uz { -brand-short-name }.
+about-logins-import-report-description2 = Paroles importētas uz { -brand-short-name }.
+#
+# Variables:
+#  $number (number) - The number of the row
+about-logins-import-report-row-index = Rinda { $number }
+about-logins-import-report-row-description-no-change = Dublikāts: precīza atbilstība ar esošu lietotāju
+about-logins-import-report-row-description-modified = Esošais lietotājvārds ir atjaunināts
+about-logins-import-report-row-description-added = Pievienots jauns lietotājvārds
+about-logins-import-report-row-description-no-change2 = Dublikāts: precīza atbilstība ar esošu ierakstu
+about-logins-import-report-row-description-modified2 = Esošais ieraksts ir atjaunināts
+about-logins-import-report-row-description-added2 = Pievienota jauna parole
+about-logins-import-report-row-description-error = Kļūda: trūkst lauka
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Kļūda: vairākas vērtības laukam { $field }
+about-logins-import-report-row-description-error-missing-field = Kļūda: trūkst { $field }
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Pievienoti jauni lietotājvārdi</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Pievienoti jauni lietotājvārdi</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Pievienoti jauni lietotājvārdi</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Esošie lietotājvārdi ir atjaunināti</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Esošie lietotājvārdi ir atjaunināti</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Esošie lietotājvārdi ir atjaunināti</div>
+    }
+about-logins-import-report-no-change =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Lietotājvārdu dublikāti</div> <div data-l10n-name="not-imported ">(nav importēts)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Lietotājvārdu dublikāti</div> <div data-l10n-name="not-imported ">(nav importēts)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Lietotājvārdu dublikāti</div> <div data-l10n-name="not-imported ">(nav importēts)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Pievienota jauna parole</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Pievienotas jaunas paroles</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Pievienotu jaunu paroļu</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Esošais ieraksts atjaunināts</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Esošie ieraksti atjaunināti</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Esošo ierakstu atjaunināti</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ieraksta dublikāts</div> <div data-l10n-name="not-imported ">(nav importēts)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ierakstu dublikāti</div> <div data-l10n-name="not-imported ">(nav importēts)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ierakstu dublikāti</div> <div data-l10n-name="not-imported ">(nav importēts)</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Kļūda</div> <div data-l10n-name="not-imported">(nav importēts)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Kļūdas</div> <div data-l10n-name="not-imported">(nav importēts)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Kļūdu</div> <div data-l10n-name="not-imported">(nav importēts)</div>
+    }
 
 ## Logins import report page
 
+about-logins-import-report-page-title = Importēt kopsavilkuma atskaiti
