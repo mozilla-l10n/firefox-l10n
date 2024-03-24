@@ -19,3 +19,4 @@ crashed-comment =
 crashed-include-URL-2 = Iekļaujiet to vietņu URL, kuras apmeklējāt, kad avarēja { -brand-short-name }
 crashed-report-sent = Avārijas ziņojums jau ir iesniegts; paldies, ka palīdzat uzlabot { -brand-short-name }!
 crashed-request-auto-submit-title = Ziņot par fona cilnēm
+crashed-auto-submit-checkbox-2 = Atjauniniet iestatījumus, lai automātiski iesniegtu pārskatus, kad { -brand-short-name } avarē
