@@ -43,6 +43,9 @@ pocket-panel-signup-tagline = Saglabājiet rakstus un videoklipus no { -brand-pr
 pocket-panel-signup-tagline-story-one = Spiediet uz pogas { -pocket-brand-name }, lai saglabātu jebkuru rakstu, video vai lapu no { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Skatiet { -pocket-brand-name } jebkurā ierīcē, jebkurā laikā.
 pocket-panel-signup-cta-a-fix = Jūsu saglabāšanas poga internetam
+pocket-panel-signup-cta-b-updated = Spiediet uz pogas { -pocket-brand-name }, lai saglabātu rakstus, videoklipus un saites. Skatiet saglabāto jebkurā ierīcē un jebkurā laikā.
+pocket-panel-signup-cta-b-short = Spiediet uz pogas { -pocket-brand-name }, lai saglabātu rakstus, videoklipus un saites.
+pocket-panel-signup-cta-c-updated = Skatiet saglabāto jebkurā ierīcē un jebkurā laikā.
 
 ## about:pocket-home panel
 
@@ -51,10 +54,18 @@ pocket-panel-home-paragraph = Varat izmantot { -pocket-brand-name }, lai izpēt�
 pocket-panel-home-explore-popular-topics = Izpētiet populāras tēmas
 pocket-panel-home-discover-more = Atklājiet vairāk
 pocket-panel-home-explore-more = Izpētīt
+pocket-panel-home-most-recent-saves = Šeit ir jūsu pēdējie saglabātie:
+pocket-panel-home-most-recent-saves-loading = Ielādē nesen saglabāto…
+pocket-panel-home-new-user-cta = Spiediet uz pogas { -pocket-brand-name }, lai saglabātu rakstus, videoklipus un saites.
+pocket-panel-home-new-user-message = Šeit skatiet nesen saglabāto.
 
 ## Pocket panel header component
 
+pocket-panel-header-my-saves = Skatīt savus saglabājumus
+pocket-panel-header-sign-in = Pieslēgties
 
 ## Pocket panel buttons
 
+pocket-panel-button-show-all = Parādīt visus
+pocket-panel-button-activate = Aktivizējiet { -pocket-brand-name } lietotnē { -brand-product-name }
 pocket-panel-button-remove = Izņemt
