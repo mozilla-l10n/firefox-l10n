@@ -63,6 +63,10 @@ about-private-browsing-pin-promo-title = Netiek saglabātas sīkdatnes vai vēst
 
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Prom, sīkdatņu paziņojumi!
+about-private-browsing-cookie-banners-promo-button = Samaziniet sīkdatņu paziņojumu skaitu
 
 ## Strings for Felt Privacy v1 experiments in 119
 
