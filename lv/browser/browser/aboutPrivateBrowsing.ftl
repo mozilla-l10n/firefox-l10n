@@ -53,6 +53,12 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = Privātas pārlūkošanas brīvība ar vienu klikšķi
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Paturēt dokā
+       *[other] Piespraust uzdevumjoslai
+    }
 
 ## Strings used in a promotion message for cookie banner reduction
 
