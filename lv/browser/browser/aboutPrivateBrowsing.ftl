@@ -35,6 +35,7 @@ about-private-browsing-focus-promo-text = Mūsu speciālā privātās pārlūko�
 about-private-browsing-focus-promo-header-b = Veiciet privātu pārlūkošanu savā tālrunī
 about-private-browsing-focus-promo-text-b = Izmantojiet { -focus-brand-name } tiem privātajiem meklēšanas vaicājumiem, kurus nevēlaties redzēt galvenajā mobilajā pārlūkprogrammā.
 about-private-browsing-focus-promo-header-c = Nākamā līmeņa privātums mobilajā ierīcē
+about-private-browsing-focus-promo-text-c = { -focus-brand-name } katru reizi notīra jūsu vēsturi, kā arī bloķē reklāmas un izsekotājus.
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
