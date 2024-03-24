@@ -395,6 +395,36 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importēšana ir pabeigta
+about-logins-import-dialog-items-added =
+    { $count ->
+        [zero] <span>Pievienoti jauni lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Pievienoti jauni lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Pievienoti jauni lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [zero] <span>Atjaunināti esošie lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Atjaunināti esošie lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Atjaunināti esošie lietotājvārdi:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [zero] <span>Atrasti lietotājvārdu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
+        [one] <span>Atrasti lietotājvārdu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
+       *[other] <span>Atrasti lietotājvārdu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [zero] <span>Pievienotas jaunas paroles:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Pievienotas jaunas paroles:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Pievienotas jaunas paroles:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [zero] <span>Atjaunināti esošie ieraksti:</span> <span data-l10n-name="count">{ $count }</span>
+        [one] <span>Atjaunināti esošie ieraksti:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Atjaunināti esošie ieraksti:</span> <span data-l10n-name="count">{ $count }</span>
+    }
 
 ##
 ## Variables:
