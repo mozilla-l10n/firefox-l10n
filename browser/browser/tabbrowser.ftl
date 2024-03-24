@@ -148,8 +148,8 @@ tabbrowser-ctrl-tab-list-all-tabs =
 ## Tab manager menu buttons
 
 tabbrowser-manager-mute-tab =
-    .tooltiptext = Skru av fanelyd
+    .tooltiptext = Lyd av i fane
 tabbrowser-manager-unmute-tab =
-    .tooltiptext = Skru på fanelyd
+    .tooltiptext = Lyd på i fane
 tabbrowser-manager-close-tab =
     .tooltiptext = Lat att fane
