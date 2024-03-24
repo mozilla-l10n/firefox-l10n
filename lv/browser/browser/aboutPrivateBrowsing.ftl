@@ -36,6 +36,20 @@ about-private-browsing-focus-promo-header-b = Veiciet privātu pārlūkošanu sa
 about-private-browsing-focus-promo-text-b = Izmantojiet { -focus-brand-name } tiem privātajiem meklēšanas vaicājumiem, kurus nevēlaties redzēt galvenajā mobilajā pārlūkprogrammā.
 about-private-browsing-focus-promo-header-c = Nākamā līmeņa privātums mobilajā ierīcē
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } katru reizi notīra jūsu vēsturi, kā arī bloķē reklāmas un izsekotājus.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } ir jūsu noklusējuma meklētājprogramma privātajos logos
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Lai atlasītu citu meklētājprogrammu, atveriet sadaļu <a data-l10n-name="link-options">Opcijas</a>.
+       *[other] Lai atlasītu citu meklētājprogrammu, atveriet sadaļu <a data-l10n-name="link-options">Iestatījumi</a>.
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Aizvērt
+about-private-browsing-promo-close-button =
+    .title = Aizvērt
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
