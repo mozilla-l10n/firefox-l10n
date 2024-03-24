@@ -59,6 +59,7 @@ about-private-browsing-pin-promo-link-text =
         [macos] Paturēt dokā
        *[other] Piespraust uzdevumjoslai
     }
+about-private-browsing-pin-promo-title = Netiek saglabātas sīkdatnes vai vēsture. Pārlūkojiet tā, it kā neviens neskatītos.
 
 ## Strings used in a promotion message for cookie banner reduction
 
