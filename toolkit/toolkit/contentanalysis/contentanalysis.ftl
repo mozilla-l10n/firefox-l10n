@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = Itsatsi duzuna zure erakundea
 contentanalysis-slow-agent-dialog-body-dropped-text = Jaregin duzun testua zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
 contentanalysis-operationtype-clipboard = arbela
 contentanalysis-operationtype-dropped-text = jaregindako testua
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = "{ $filename }" igotzea
 contentanalysis-warndialogtitle = Eduki hau ez-segurua izan liteke
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = Zure erakundeak datuen galera eragozteko softwar
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Errorea gertatu da datu-galerak eragozteko softwarearekin komunikatzean. Transferentzia ukatu egin da ondorengo baliabiderako: { $content }.
+contentanalysis-inprogress-quit-title = Irten { -brand-shorter-name }(e)tik?
+contentanalysis-inprogress-quit-message = Hainbat ekintza lanean ari dira. { -brand-shorter-name }(e)tik irtenez gero, ekintza hauek ez dira burutuko.
+contentanalysis-inprogress-quit-yesbutton = Bai, irten
