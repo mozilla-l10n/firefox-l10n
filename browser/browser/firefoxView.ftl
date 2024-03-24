@@ -184,6 +184,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Ingen resultat for «{ $query }»
 firefoxview-sort-history-by-date-label = Sorter etter dato
 firefoxview-sort-history-by-site-label = Sorter etter nettstad
+firefoxview-sort-open-tabs-by-recency-label = Sorter etter nyleg aktivitet
+firefoxview-sort-open-tabs-by-order-label = Sorter etter fanerekkjefølgje
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -246,3 +248,25 @@ firefoxview-recentlyclosed-empty-description-two = Sjå <a data-l10n-name="histo
 
 firefoxview-syncedtabs-device-notabs = Ingen opne faner på denne eininga
 firefoxview-syncedtabs-connect-another-device = Kople til ei anna eining
+firefoxview-pinned-tabs =
+    .title = Festa faner
+firefoxview-tabs =
+    .title = Faner
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Byt til { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Byt til (bokmerkt) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Bokmerkt) { $url }

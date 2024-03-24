@@ -400,6 +400,7 @@ about-logins-import-dialog-error-try-import-again = Prøv å importere ein gong 
 about-logins-import-dialog-error-cancel = Avbryt
 about-logins-import-report-title = Importsamandrag
 about-logins-import-report-description = Innloggingar og passord importerte til { -brand-short-name }.
+about-logins-import-report-description2 = Passord importerte til { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -407,6 +408,7 @@ about-logins-import-report-row-index = Rad { $number }
 about-logins-import-report-row-description-no-change = Duplikat: Nøyaktig samsvar med eksisterande innlogging
 about-logins-import-report-row-description-modified = Eksisterande innlogging oppdatert
 about-logins-import-report-row-description-added = Ny innlogging lagt til
+about-logins-import-report-row-description-no-change2 = Duplikat: Nøyaktig samsvar med eksisterande oppføring
 about-logins-import-report-row-description-modified2 = Eksisterande oppføring oppdatert
 about-logins-import-report-row-description-added2 = Nytt passord lagt til
 about-logins-import-report-row-description-error = Feil: Manglar felt
