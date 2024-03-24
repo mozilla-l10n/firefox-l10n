@@ -67,6 +67,14 @@ about-private-browsing-pin-promo-title = Netiek saglabātas sīkdatnes vai vēst
 # in your language: `See fewer cookie requests`.
 about-private-browsing-cookie-banners-promo-header = Prom, sīkdatņu paziņojumi!
 about-private-browsing-cookie-banners-promo-button = Samaziniet sīkdatņu paziņojumu skaitu
+about-private-browsing-cookie-banners-promo-message = Ļaujiet { -brand-short-name } automātiski atbildēt uz sīkdatņu uznirstošajiem logiem jūsu vietā, lai jūs varētu atgriezties pie pārlūkošanas. Ja iespējams, { -brand-short-name } noraidīs visus pieprasījumus.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tiks galā ar sīkdatņu paziņojumiem jūsu vietā
+about-private-browsing-cookie-banners-promo-body = Tagad mēs automātiski noraidām daudzus sīkdatņu paziņojumus, lai jūs mazāk izsekotu un varētu atgriezties pie pārlūkošanas bez traucēšanas.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = Neatstājiet uz šīs ierīces pēdas
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } izdzēš jūsu sīkdatnes, vēsturi un vietņu datus, kad aizverat visus savus privātos logus.
+about-private-browsing-felt-privacy-v1-info-link = Kas varētu redzēt manas darbības?
