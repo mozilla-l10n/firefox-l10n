@@ -51,6 +51,14 @@ fxviewtabrow-move-tab-window = Flytt til nytt vindauge
     .accesskey = v
 fxviewtabrow-send-tab = Send fane til eining
     .accesskey = a
+fxviewtabrow-pin-tab = Fest fane
+    .accesskey = F
+fxviewtabrow-unpin-tab = Løys fane
+    .accesskey = L
+fxviewtabrow-mute-tab = Lyd av i fane
+    .accesskey = L
+fxviewtabrow-unmute-tab = Lyd på i faner
+    .accesskey = L
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +71,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Opphev demping av { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Lyd av i fane
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Lyd på i fane
