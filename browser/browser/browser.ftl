@@ -14,30 +14,30 @@ browser-main-window-title = { -brand-full-name }
 ##
 
 urlbar-identity-button =
-    .aria-label = Aplūkot lapas informāciju
+    .aria-label = Skatīt informāciju par vietni
 
 ## Tooltips for images appearing in the address bar
 
 urlbar-services-notification-anchor =
     .tooltiptext = Atvērt instalācijas ziņojumu paneli
 urlbar-web-notification-anchor =
-    .tooltiptext = Izmainiet vai varat saņemt paziņojumus no šīs lapas
+    .tooltiptext = Mainīt, vai varat saņemt paziņojumus no šīs vietnes
 urlbar-midi-notification-anchor =
     .tooltiptext = Atvērt MIDI paneli
 urlbar-eme-notification-anchor =
     .tooltiptext = Pārvaldīt DRM programmatūras izmantošanu
 urlbar-web-authn-anchor =
-    .tooltiptext = Atver autentifikācijas paneli
+    .tooltiptext = Atvērt tīmekļa autentifikācijas paneli
 urlbar-canvas-notification-anchor =
     .tooltiptext = Pārvaldīt audekla izguves atļaujas
 urlbar-web-rtc-share-microphone-notification-anchor =
-    .tooltiptext = Pārvaldiet mikrofona koplietošanu ar šo lapu
+    .tooltiptext = Pārvaldīt sava mikrofona koplietošanu ar šo vietni
 urlbar-default-notification-anchor =
     .tooltiptext = Atvērt ziņojumu paneli
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Atvērt atrašanās vietu pieprasījumu paneli
 urlbar-web-rtc-share-screen-notification-anchor =
-    .tooltiptext = Pārvaldiet loga vai visa ekrāna koplietošanu ar šo lapu
+    .tooltiptext = Pārvaldīt sava loga vai visa ekrāna koplietošanu ar šo vietni
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Atvērt nesaistes datu saglabāšanas ziņojumu paneli
 urlbar-password-notification-anchor =
@@ -45,7 +45,7 @@ urlbar-password-notification-anchor =
 urlbar-plugins-notification-anchor =
     .tooltiptext = Pārvaldīt papildinājumu izmantošanu
 urlbar-web-rtc-share-devices-notification-anchor =
-    .tooltiptext = Pārvaldiet kameras un/vai mikrofona koplietošanu ar šo lapu
+    .tooltiptext = Pārvaldīt kameras un/vai mikrofona koplietošanu ar šo vietni
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Atvērt automātiskās atskaņošanas paneli
 urlbar-persistent-storage-notification-anchor =
@@ -66,9 +66,9 @@ urlbar-search-tips-onboard = Rakstiet mazāk, atrodiet vairāk: Meklējiet ar { 
 ##
 
 urlbar-geolocation-blocked =
-    .tooltiptext = Atrašanās vietas informācijas koplietošana ar šo lapu ir bloķēta.
+    .tooltiptext = Jūs esat bloķējis atrašanās vietas informācijas koplietošanu ar šo tīmekļa vietni.
 urlbar-web-notifications-blocked =
-    .tooltiptext = Paziņojumu saņemšana no šīs lapas ir bloķēta.
+    .tooltiptext = Jūs esat bloķējis paziņojumu saņemšanu no šīs tīmekļa vietnes.
 urlbar-camera-blocked =
     .tooltiptext = Kameras izmantošana šajā lapā ir bloķēta.
 urlbar-microphone-blocked =
@@ -448,6 +448,9 @@ tabs-toolbar-list-all-tabs =
     .tooltiptext = Visu ciļņu saraksts
 
 ## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
