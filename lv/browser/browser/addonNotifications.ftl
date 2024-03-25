@@ -50,19 +50,37 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = Sistēmas administrators ir bloķējis { $addonName } ({ $addonId }).
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Jūsu sistēmas administrators neļāva šai vietnei lūgt instalēt datorā programmatūru.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = Jūsu organizācija ir bloķējusi { $addonName } ({ $addonId }).
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Jūsu organizācija neļāva šai vietnei lūgt instalēt programmatūru šajā datorā.
+addon-install-full-screen-blocked = Papildinājuma instalēšana nav atļauta, kamēr ir ieslēgts pilnekrāna režīms vai pirms tā.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } pievienots { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } ir nepieciešamas jaunas tiesības
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Pabeigt paplašinājumu instalēšanu, kas importēti uz { -brand-short-name }
 
 ## Add-on removal warning
 
 # Variables:
+#  $name (String): The name of the add-on that will be removed.
+addon-removal-title = Izņemt { $name }?
+# Variables:
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Aizvākt { $name } no { -brand-shorter-name }?
 addon-removal-button = Aizvākt
+addon-removal-abuse-report-checkbox = Ziņot par šo paplašinājumu { -vendor-short-name }
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -111,6 +129,7 @@ addon-install-error-incorrect-hash = Šo papildinājumu nevar uzinstalēt, jo ta
 addon-install-error-corrupt-file = Papildinājumu no šīs lapas nevar uzinstalēt, jo tas ir bojāts.
 addon-install-error-file-access = { $addonName } nevar uzinstalēt, jo { -brand-short-name } nevar izmainīt nepieciešamo failu.
 addon-install-error-not-signed = { -brand-short-name } liedza lapai uzinstalēt nepārbaudītu papildinājumu.
+addon-install-error-invalid-domain = Papildinājumu { $addonName } nevar instalēt no šīs vietas.
 addon-local-install-error-network-failure = Šo papildinājumu nevar uzinstalēt, jo notikusi failu sistēmas kļūda.
 addon-local-install-error-incorrect-hash = Šo papildinājumu nevar uzinstalēt, jo tas nesakrīt ar gaidīto papildinājumu { -brand-short-name }.
 addon-local-install-error-corrupt-file = Šo papildinājumu nevar uzinstalēt, jo tas ir bojāts.
