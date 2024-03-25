@@ -233,12 +233,26 @@ appmenu-about =
 appmenu-get-help =
     .label = Iegūt palīdzību
     .accesskey = p
+appmenu-help-more-troubleshooting-info =
+    .label = Plašāka informācija par problēmu novēršanu
+    .accesskey = P
 appmenu-help-report-site-issue =
     .label = Ziņot par problēmu ar lapu…
+appmenu-help-share-ideas =
+    .label = Dalieties ar idejām un atsauksmēm…
+    .accesskey = s
+appmenu-help-switch-device =
+    .label = Pārslēgšanās uz jaunu ierīci
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
+appmenu-help-enter-troubleshoot-mode2 =
+    .label = Problēmu novēršanas režīms…
+    .accesskey = m
+appmenu-help-exit-troubleshoot-mode =
+    .label = Izslēgt problēmu novēršanas režīmu
+    .accesskey = m
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -254,6 +268,18 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Pielāgot rīkjoslu…
+appmenu-developer-tools-subheader = Pārlūka rīki
+appmenu-developer-tools-extensions =
+    .label = Paplašinājumi izstrādātājiem
+appmenuitem-report-broken-site =
+    .label = Ziņot par bojātu vietni
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = Pierakstieties savā kontā
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Saņemt brīdinājumus par datu noplūdēm
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Maskējiet savu īsto e-pastu un tālruni
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Aizsargājiet savas tiešsaistes aktivitātes
