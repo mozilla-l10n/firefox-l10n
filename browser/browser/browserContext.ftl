@@ -6,7 +6,7 @@ navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
             [macos] Pavelciet uz leju, lai redzētu vēsturi
-           *[other] Uzklikšķiniet ar labo taustiņu un pavelciet uz leju, lai redzētu vēsturi
+           *[other] Veiciet labo klikšķi un pavelciet uz leju, lai redzētu vēsturi
         }
 
 ## Back
@@ -14,7 +14,7 @@ navbar-tooltip-instruction =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
-    .tooltiptext = Paiet vienu lapu atpakaļ ({ $shortcut })
+    .tooltiptext = Iet vienu lapu atpakaļ ({ $shortcut })
     .aria-label = Atpakaļ
     .accesskey = A
 # This menuitem is only visible on macOS
@@ -31,7 +31,7 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Paiet vienu lapu uz priekšu ({ $shortcut })
+    .tooltiptext = Iet vienu lapu uz priekšu ({ $shortcut })
     .aria-label = Uz priekšu
     .accesskey = P
 # This menuitem is only visible on macOS
@@ -131,7 +131,7 @@ main-context-menu-open-link-new-tab =
     .label = Atvērt saiti jaunā cilnē
     .accesskey = c
 main-context-menu-open-link-container-tab =
-    .label = Atvētt saiti jaunā konteinera cilnē
+    .label = Atvērt saiti jaunā konteinera cilnē
     .accesskey = c
 main-context-menu-open-link-new-window =
     .label = Atvērt saiti jaunā logā
@@ -154,7 +154,7 @@ main-context-menu-save-link-to-pocket =
 ## are mutually exclusive.
 
 main-context-menu-copy-email =
-    .label = Kopēt epasta adresi
+    .label = Kopēt e-pasta adresi
     .accesskey = e
 main-context-menu-copy-phone =
     .label = Kopēt tālruņa numuru
@@ -178,8 +178,8 @@ main-context-menu-media-play =
     .label = Atskaņot
     .accesskey = s
 main-context-menu-media-pause =
-    .label = Apturēt
-    .accesskey = t
+    .label = Pauzēt
+    .accesskey = P
 
 ##
 
@@ -187,8 +187,8 @@ main-context-menu-media-mute =
     .label = Apklusināt
     .accesskey = A
 main-context-menu-media-unmute =
-    .label = Atjaunot
-    .accesskey = a
+    .label = Ieslēgt skaņu
+    .accesskey = I
 main-context-menu-media-play-speed-2 =
     .label = Ātrums
     .accesskey = t
@@ -203,18 +203,18 @@ main-context-menu-media-play-speed-faster-2 =
 main-context-menu-media-play-speed-fastest-2 =
     .label = 2×
 main-context-menu-media-loop =
-    .label = Ciklot
-    .accesskey = C
+    .label = Atkārtot
+    .accesskey = r
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = Rādīt kontroles
-    .accesskey = k
+    .label = Rādīt vadīklas
+    .accesskey = v
 main-context-menu-media-hide-controls =
-    .label = Slēpt kontroles
-    .accesskey = k
+    .label = Slēpt vadīklas
+    .accesskey = v
 
 ##
 
@@ -356,7 +356,7 @@ main-context-menu-print-selection-2 =
     .label = Drukāt atlasi…
     .accesskey = r
 main-context-menu-view-selection-source =
-    .label = Skatīt iezīmētā pirmkodu
+    .label = Skatīt atlases pirmkodu
     .accesskey = e
 main-context-menu-take-screenshot =
     .label = Uzņemt ekrānuzņēmumu
@@ -377,7 +377,7 @@ main-context-menu-inspect =
     .label = Izpētīt
     .accesskey = Q
 main-context-menu-inspect-a11y-properties =
-    .label = Izmeklēt piekļūstamības iestatījumus
+    .label = Izpētīt piekļūstamības īpašības
 main-context-menu-eme-learn-more =
     .label = Uzziniet vairāk par DRM…
     .accesskey = D
@@ -386,3 +386,6 @@ main-context-menu-eme-learn-more =
 main-context-menu-open-link-in-container-tab =
     .label = Atvērt saiti jaunā cilnē { $containerName }
     .accesskey = c
+main-context-menu-reveal-password =
+    .label = Atklāt paroli
+    .accesskey = A
