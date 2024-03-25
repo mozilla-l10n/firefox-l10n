@@ -467,13 +467,13 @@ performance-default-content-process-count =
 
 browsing-title = Retumo
 browsing-use-autoscroll =
-    .label = Uzi aŭtomatan ŝovadon
+    .label = Uzi aŭtomatan rulumon
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = Uzi glatan ŝovadon
+    .label = Uzi glatan rulumon
     .accesskey = g
 browsing-gtk-use-non-overlay-scrollbars =
-    .label = Ĉiam montri ŝovstriojn
+    .label = Ĉiam montri rulumskalojn
     .accesskey = s
 browsing-always-underline-links =
     .label = Ĉiam substreki ligilojn
