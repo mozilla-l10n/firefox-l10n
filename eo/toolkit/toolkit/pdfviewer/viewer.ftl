@@ -304,6 +304,8 @@ pdfjs-editor-stamp-button-label = Aldoni aŭ modifi bildojn
 pdfjs-editor-highlight-button =
     .title = Elstarigi
 pdfjs-editor-highlight-button-label = Elstarigi
+pdfjs-highlight-floating-button =
+    .title = Elstarigi
 
 ## Remove button for the various kind of editor.
 
@@ -387,3 +389,10 @@ pdfjs-editor-colorpicker-pink =
     .title = Roza
 pdfjs-editor-colorpicker-red =
     .title = Ruĝa
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+pdfjs-editor-highlight-show-all-button-label = Montri ĉiujn
+pdfjs-editor-highlight-show-all-button =
+    .title = Montri ĉiujn
