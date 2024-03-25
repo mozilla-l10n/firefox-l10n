@@ -7,12 +7,24 @@ xpinstall-prompt = { -brand-short-name } liedza šai lapai prasīt jums atļauju
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
+xpinstall-prompt-header = Vai ļaut { $host } instalēt papildinājumu?
+xpinstall-prompt-message = Jūs mēģināt instalēt papildinājumu no { $host }. Pirms turpināt, pārliecinieties, ka uzticaties šai vietnei.
 
 ##
 
+xpinstall-prompt-header-unknown = Vai ļaut nezināmai vietnei instalēt papildinājumu?
+xpinstall-prompt-message-unknown = Jūs mēģināt instalēt papildinājumu no nezināmas vietnes. Pirms turpināt, pārliecinieties, ka uzticaties šai vietnei.
 xpinstall-prompt-dont-allow =
     .label = Neatļaut
     .accesskey = N
+xpinstall-prompt-never-allow =
+    .label = Neatļaut nekad
+    .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Ziņot par aizdomīgu vietni
+    .accesskey = r
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
