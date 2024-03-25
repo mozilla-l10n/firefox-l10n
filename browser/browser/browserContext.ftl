@@ -74,6 +74,15 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+toolbar-button-fxaccount =
+    .label = { -fxaccount-brand-name(capitalization: "sentence") }
+    .tooltiptext = { -fxaccount-brand-name(capitalization: "sentence") }
+
+## Account toolbar Button
+
+toolbar-button-account =
+    .label = Konts
+    .tooltiptext = Konts
 
 ## Save Page
 
@@ -83,6 +92,38 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Saglabāta grāmatzīmēs…
+    .accesskey = g
+    .tooltiptext = Saglabāta grāmatzīmēs
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Saglabāta grāmatzīmēs…
+    .accesskey = g
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Rediģēt grāmatzīmi…
+    .accesskey = g
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Saglabāta grāmatzīmēs…
+    .accesskey = g
+    .tooltiptext = Saglabāta grāmatzīmēs ({ $shortcut })
+main-context-menu-edit-bookmark =
+    .aria-label = Rediģēt grāmatzīmi…
+    .accesskey = g
+    .tooltiptext = Rediģēt grāmatzīmi
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Rediģēt grāmatzīmi…
+    .accesskey = g
+    .tooltiptext = Rediģēt grāmatzīmi ({ $shortcut })
 main-context-menu-open-link =
     .label = Atvērt saiti
     .accesskey = A
@@ -98,6 +139,9 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Atvērt saiti jaunā privātajā logā
     .accesskey = p
+main-context-menu-bookmark-link-2 =
+    .label = Saglabāt saiti…
+    .accesskey = S
 main-context-menu-save-link =
     .label = Saglabāt saiti kā…
     .accesskey = k
