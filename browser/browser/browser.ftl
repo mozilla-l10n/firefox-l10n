@@ -70,11 +70,11 @@ urlbar-geolocation-blocked =
 urlbar-web-notifications-blocked =
     .tooltiptext = Jūs esat bloķējis paziņojumu saņemšanu no šīs tīmekļa vietnes.
 urlbar-camera-blocked =
-    .tooltiptext = Kameras izmantošana šajā lapā ir bloķēta.
+    .tooltiptext = Jūs esat bloķējis kameras izmantošanu šajā tīmekļa vietnē.
 urlbar-microphone-blocked =
-    .tooltiptext = Mikrofona izmantošana šajā lapā ir bloķēta.
+    .tooltiptext = Jūs esat bloķējis mikrofona izmantošanu šajā tīmekļa vietnē.
 urlbar-screen-blocked =
-    .tooltiptext = Ekrāna koplietošana ar šo lapu ir bloķēta.
+    .tooltiptext = Jūs esat bloķējis ekrāna koplietošanu ar šo tīmekļa vietni.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Datu glabāšana ir bloķēta šajā lapā.
 urlbar-popup-blocked =
@@ -114,7 +114,7 @@ search-one-offs-context-open-new-tab =
     .label = Meklēt jaunā cilnē
     .accesskey = c
 search-one-offs-context-set-as-default =
-    .label = Iestatīt par noklusēto meklētāju
+    .label = Iestatīt par noklusējuma meklētāju
     .accesskey = n
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
@@ -187,11 +187,11 @@ identity-description-passive-loaded-mixed2 = Lai arī { -brand-short-name } blo�
 identity-description-active-loaded = Šīs lapas daļas (piemēram attēli vai skripti) nav droši un jūsu savienojums nav privāts.
 identity-description-active-loaded-insecure = Lapai nosūtītā informācija (piemēram paroles, ziņojumi vai kredītkartes dati) var būt pieejami citiem.
 identity-disable-mixed-content-blocking =
-    .label = Pagaidām deaktivēt aizsardzību
+    .label = Pagaidām izslēgt aizsardzību
     .accesskey = d
 identity-enable-mixed-content-blocking =
-    .label = Aktivēt aizsardzību
-    .accesskey = b
+    .label = Ieslēgt aizsardzību
+    .accesskey = e
 identity-more-info-link-text =
     .label = Sīkāka informācija
 
@@ -285,8 +285,8 @@ reader-view-close-button =
 # Variables
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ir pa visu ekrānu
-fullscreen-warning-no-domain = Šis dokuments ir pa visu ekrānu
-fullscreen-exit-button = Iziet no pilnā ekrāna (Esc)
+fullscreen-warning-no-domain = Šis dokuments tagad ir pilnekrāna režīmā
+fullscreen-exit-button = Iziet no pilnekrāna režīma (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Iziet no pilnā ekrāna (esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -315,14 +315,14 @@ bookmarks-mobile-bookmarks-menu =
 bookmarks-tools-sidebar-visibility =
     .label =
         { $isVisible ->
-            [true] Paslēpt grāmatzīmju sānjoslu
-           *[other] Atvērt grāmatzīmes sānjoslā
+            [true] Slēpt grāmatzīmju sānjoslu
+           *[other] Rādīt grāmatzīmju sānjoslu
         }
 bookmarks-tools-toolbar-visibility-menuitem =
     .label =
         { $isVisible ->
-            [true] Paslēpt grāmatzīmju sānjoslu
-           *[other] Attēlo grāmatzīmes sānu joslā
+            [true] Slēpt grāmatzīmju rīkjoslu
+           *[other] Rādīt grāmatzīmju rīkjoslu
         }
 bookmarks-tools-menu-button-visibility =
     .label =
