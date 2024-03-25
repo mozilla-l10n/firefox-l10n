@@ -25,17 +25,31 @@ xpinstall-prompt-never-allow =
 xpinstall-prompt-never-allow-and-report =
     .label = Ziņot par aizdomīgu vietni
     .accesskey = r
+# Accessibility Note:
+# Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
+# See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
+xpinstall-prompt-install =
+    .label = Turpināt instalēšanu
+    .accesskey = T
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Šī vietne pieprasa piekļuvi jūsu MIDI (mūzikas instrumentu digitālais interfeiss) ierīcēm. Ierīces piekļuvi var ieslēgt, instalējot papildinājumu.
+site-permission-install-first-prompt-midi-message = Nav garantijas, ka šī piekļuve ir droša. Turpiniet tikai tad, ja uzticaties šai vietnei.
 
 ##
 
 xpinstall-disabled-locked = Programmatūras instalēšanu ir liedzis sistēmas administrators.
+xpinstall-disabled-by-policy = Jūsu organizācija ir izslēgusi programmatūras instalēšanu.
 xpinstall-disabled = Programmatūras instalēšana ir deaktivēta. Klikšķiniet Aktivēt un mēģiniet vēlreiz.
 xpinstall-disabled-button =
     .label = Aktivēt
     .accesskey = n
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-install-blocked-by-policy = Sistēmas administrators ir bloķējis { $addonName } ({ $addonId }).
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } pievienots { -brand-short-name }
