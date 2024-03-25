@@ -102,7 +102,15 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Skatiet citu savu ierīču ciļņu sarakstu.
 appmenu-remote-tabs-unverified = Jūsu kontam nepieciešams apstiprinājums.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhronizēt tagad
+appmenuitem-fxa-sign-in = Pierakstieties { -brand-product-name }
 appmenuitem-fxa-manage-account = Pārvaldīt kontu
+appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+appmenu-account-header = Konts
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Pēdējo reizi sinhronizēts { $time }
+    .label = Pēdējo reizi sinhronizēts { $time }
 appmenu-fxa-signed-in-label = Pierakstīties
 appmenuitem-save-page =
     .label = Saglabāt lapu kā…
