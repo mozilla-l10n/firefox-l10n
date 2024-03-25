@@ -34,7 +34,7 @@ appmenuitem-print =
 appmenuitem-find-in-page =
     .label = Meklēt lapā…
 appmenuitem-zoom =
-    .value = Palielinājums
+    .value = Tālummaiņa
 appmenuitem-more-tools =
     .label = Citi rīki
 appmenuitem-help =
@@ -57,12 +57,14 @@ appmenuitem-zoom-enlarge =
 appmenuitem-zoom-reduce =
     .label = Attālināt
 appmenuitem-fullscreen =
-    .label = Pa visu ekrānu
+    .label = Pilnekrāns
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenu-remote-tabs-sign-into-sync =
     .label = Pierakstieties, lai sinhronizētu…
+appmenu-remote-tabs-turn-on-sync =
+    .label = Ieslēgt sinhronizāciju…
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nav atvērto cilņu
 # This is shown when Sync is configured but syncing tabs is disabled.
