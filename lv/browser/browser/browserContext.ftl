@@ -145,6 +145,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Saglabāt saiti kā…
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = Saglabāt saiti uz { -pocket-brand-name }
+    .accesskey = u
 
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -153,6 +156,17 @@ main-context-menu-save-link =
 main-context-menu-copy-email =
     .label = Kopēt epasta adresi
     .accesskey = e
+main-context-menu-copy-phone =
+    .label = Kopēt tālruņa numuru
+    .accesskey = o
+main-context-menu-copy-link-simple =
+    .label = Kopēt saiti
+    .accesskey = s
+# This command copies the link, removing additional
+# query parameters used to track users across sites.
+main-context-menu-strip-on-share-link =
+    .label = Kopēt saiti bez vietnes izsekošanas
+    .accesskey = v
 
 ## Media (video/audio) controls
 ##
@@ -175,6 +189,19 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = Atjaunot
     .accesskey = a
+main-context-menu-media-play-speed-2 =
+    .label = Ātrums
+    .accesskey = t
+main-context-menu-media-play-speed-slow-2 =
+    .label = 0,5×
+main-context-menu-media-play-speed-normal-2 =
+    .label = 1,0×
+main-context-menu-media-play-speed-fast-2 =
+    .label = 1,25×
+main-context-menu-media-play-speed-faster-2 =
+    .label = 1,5×
+main-context-menu-media-play-speed-fastest-2 =
+    .label = 2×
 main-context-menu-media-loop =
     .label = Ciklot
     .accesskey = C
@@ -197,18 +224,44 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Iziet no pilnekrāna
     .accesskey = n
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Skatieties attēls-attēlā
+    .accesskey = a
 main-context-menu-image-reload =
     .label = Pārlādēt attēlu
     .accesskey = r
+main-context-menu-image-view-new-tab =
+    .label = Atvērt attēlu jaunā cilnē
+    .accesskey = A
+main-context-menu-video-view-new-tab =
+    .label = Atvērt video jaunā cilnē
+    .accesskey = i
 main-context-menu-image-copy =
     .label = Kopēt attēlu
     .accesskey = p
+main-context-menu-image-copy-link =
+    .label = Kopēt attēla saiti
+    .accesskey = o
+main-context-menu-video-copy-link =
+    .label = Kopēt video saiti
+    .accesskey = o
+main-context-menu-audio-copy-link =
+    .label = Kopēt audio saiti
+    .accesskey = o
 main-context-menu-image-save-as =
     .label = Saglabāt attēlu kā…
     .accesskey = b
 main-context-menu-image-email =
     .label = Nosūtīt attēlu…
     .accesskey = a
+main-context-menu-image-set-image-as-background =
+    .label = Uzlikt attēlu kā darbvirsmas fonu…
+    .accesskey = U
+main-context-menu-image-copy-text =
+    .label = Kopēt tekstu no attēla
+    .accesskey = t
 main-context-menu-image-info =
     .label = Skatīt attēla informāciju
     .accesskey = f
@@ -221,12 +274,18 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = Saglabāt audio kā…
     .accesskey = g
+main-context-menu-video-take-snapshot =
+    .label = Uzņemt momentuzņēmumu…
+    .accesskey = U
 main-context-menu-video-email =
     .label = Nosūtīt video…
     .accesskey = v
 main-context-menu-audio-email =
     .label = Nosūtīt audio…
     .accesskey = a
+main-context-menu-save-to-pocket =
+    .label = Saglabāt lapu { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Sūtīt lapu uz ierīci
     .accesskey = I
@@ -235,6 +294,9 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Izmantot saglabāto lietotājvārdu
+    .accesskey = o
 
 ##
 
