@@ -33,6 +33,8 @@ appmenuitem-print =
     .label = Drukāt…
 appmenuitem-find-in-page =
     .label = Meklēt lapā…
+appmenuitem-translate =
+    .label = Tulkot lapu…
 appmenuitem-zoom =
     .value = Tālummaiņa
 appmenuitem-more-tools =
@@ -45,6 +47,12 @@ appmenuitem-exit2 =
             [linux] Iziet
            *[other] Iziet
         }
+appmenu-menu-button-closed2 =
+    .tooltiptext = Atvērt lietotnes izvēlni
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Aizvērt lietotnes izvēlni
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -65,19 +73,37 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Pierakstieties, lai sinhronizētu…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ieslēgt sinhronizāciju…
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Rādīt vairāk cilņu
+    .tooltiptext = Rādīt vairāk ciļņu no šīs ierīces
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [zero] Rādīt { $count } neaktīvu cilni
+            [one] Rādīt { $count } neaktīvās cilnes
+           *[other] Rādīt { $count } neaktīvu ciļņu
+        }
+    .tooltiptext = Rādīt neaktīvās cilnes uz šīs ierīces
 # This is shown beneath the name of a device when that device has no open tabs
-appmenu-remote-tabs-notabs = Nav atvērto cilņu
+appmenu-remote-tabs-notabs = Nav atvērtu cilņu
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.
 appmenu-remote-tabs-opensettings =
     .label = Iestatījumi
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
-appmenu-remote-tabs-noclients = Gribat redzēt cilnes no citām savām ierīcēm?
+appmenu-remote-tabs-noclients = Vai vēlaties šeit redzēt savas cilnes no citām ierīcēm?
 appmenu-remote-tabs-connectdevice =
-    .label = Savienot citu ierīci
+    .label = Savienot ar citu ierīci
+appmenu-remote-tabs-welcome = Skatiet citu savu ierīču ciļņu sarakstu.
 appmenu-remote-tabs-unverified = Jūsu kontam nepieciešams apstiprinājums.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhronizēt tagad
+appmenuitem-fxa-manage-account = Pārvaldīt kontu
+appmenu-fxa-signed-in-label = Pierakstīties
 appmenuitem-save-page =
     .label = Saglabāt lapu kā…
 
@@ -89,6 +115,8 @@ whatsnew-panel-header = Kas jauns?
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-settings =
+    .value = Iestatījumi
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -132,14 +160,16 @@ appmenu-help-report-site-issue =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-report-deceptive-site =
-    .label = Ziņot par maldinošu lapu…
-    .accesskey = d
+    .label = Ziņot par maldinošu vietni…
+    .accesskey = m
 appmenu-help-not-deceptive =
-    .label = Šī nav maldinoša lapa…
-    .accesskey = d
+    .label = Šī nav maldinoša vietne…
+    .accesskey = m
 
 ## More Tools
 
+appmenu-customizetoolbar =
+    .label = Pielāgot rīkjoslu…
 
 ## Panel for privacy and security products
 
