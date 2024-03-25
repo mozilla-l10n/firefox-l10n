@@ -386,9 +386,9 @@ async-pan-zoom = Nesinkrona panoramado kaj skaligo
 apz-none = neniu
 wheel-enabled = rada enigo aktiva
 touch-enabled = tuŝa enigo aktiva
-drag-enabled = treno de ŝovstrio aktiva
+drag-enabled = treno de rulumo aktiva
 keyboard-enabled = klavaro aktiva
-autoscroll-enabled = aŭtomata ŝovo aktiva
+autoscroll-enabled = aŭtomata rulumo aktiva
 zooming-enabled = flua ŝanĝo de grando per pinĉo aktivita
 
 ## Variables
