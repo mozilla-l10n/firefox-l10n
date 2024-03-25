@@ -111,20 +111,53 @@ appmenu-account-header = Konts
 # 3 hours ago, etc.)
 appmenu-fxa-last-sync = Pēdējo reizi sinhronizēts { $time }
     .label = Pēdējo reizi sinhronizēts { $time }
+appmenu-fxa-sync-and-save-data2 = Sinhronizēt un saglabāt datus
 appmenu-fxa-signed-in-label = Pierakstīties
+appmenu-fxa-setup-sync =
+    .label = Ieslēgt sinhronizāciju…
 appmenuitem-save-page =
     .label = Saglabāt lapu kā…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Kas jauns?
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Paziņot par jaunām funkcijām
+    .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
 ## performance profiles. To enable it go to profiler.firefox.com and click
 ## "Enable Profiler Menu Button".
 
+profiler-popup-button-idle =
+    .label = Profilētājs
+    .tooltiptext = Ierakstīt veiktspējas profilu
+profiler-popup-button-recording =
+    .label = Profilētājs
+    .tooltiptext = Profilētājs ieraksta profilu
+profiler-popup-button-capturing =
+    .label = Profilētājs
+    .tooltiptext = Profilētājs tver profilu
+profiler-popup-header-text = { -profiler-brand-name }
+profiler-popup-reveal-description-button =
+    .aria-label = Atklāt vairāk informācijas
+profiler-popup-description-title =
+    .value = Ierakstīt, analizēt, kopīgot
+profiler-popup-description = Sadarbojieties risinot veiktspējas problēmas, publicējot profilus, lai kopīgotu tos ar savu komandu.
+profiler-popup-learn-more-button =
+    .label = Uzzināt vairāk
 profiler-popup-settings =
     .value = Iestatījumi
+# This link takes the user to about:profiling, and is only visible with the Custom preset.
+profiler-popup-edit-settings-button =
+    .label = Rediģēt iestatījumus…
+profiler-popup-recording-screen = Ierakstīšana…
+profiler-popup-start-recording-button =
+    .label = Sākt ierakstīšanu
+profiler-popup-discard-button =
+    .label = Atmest
 
 ## Profiler presets
 ## They are shown in the popup's select box.
