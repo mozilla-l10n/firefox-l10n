@@ -158,6 +158,18 @@ profiler-popup-start-recording-button =
     .label = Sākt ierakstīšanu
 profiler-popup-discard-button =
     .label = Atmest
+profiler-popup-capture-button =
+    .label = Uzņemt
+profiler-popup-start-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧1
+       *[other] Ctrl+Shift+1
+    }
+profiler-popup-capture-shortcut =
+    { PLATFORM() ->
+        [macos] ⌃⇧2
+       *[other] Ctrl+Shift+2
+    }
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -172,9 +184,32 @@ profiler-popup-discard-button =
 # devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+profiler-popup-presets-web-developer-description = Ieteicamais priekšiestatījums vairuma tīmekļa lietotņu atkļūdošanai, ar mazu virstēriņu.
+profiler-popup-presets-web-developer-label =
+    .label = Izstrādātāju rīki
+profiler-popup-presets-firefox-description = Ieteicamais priekšiestatījums profilēšanai { -brand-shorter-name }.
+profiler-popup-presets-firefox-label =
+    .label = { -brand-shorter-name }
+profiler-popup-presets-graphics-description = Priekšiestatījums grafikas kļūdu izmeklēšanai { -brand-shorter-name }.
+profiler-popup-presets-graphics-label =
+    .label = Grafika
+profiler-popup-presets-media-description2 = Priekšiestatījums audio un video kļūdu izmeklēšanai { -brand-shorter-name }.
+profiler-popup-presets-media-label =
+    .label = Multimediji
+profiler-popup-presets-networking-description = Priekšiestatījums tīkla kļūdu izmeklēšanai { -brand-shorter-name }.
+profiler-popup-presets-networking-label =
+    .label = Tīkls
+profiler-popup-presets-power-description = Priekšiestatījums enerģijas izmantošanas problēmu izmeklēšanai { -brand-shorter-name }, ar mazu virstēriņu.
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Enerģija
+profiler-popup-presets-custom-label =
+    .label = Pielāgots
 
 ## History panel
 
+appmenu-manage-history =
+    .label = Pārvaldīt vēsturi
 appmenu-restore-session =
     .label = Atjaunot iepriekšējo sesiju
 appmenu-clear-history =
@@ -184,12 +219,20 @@ appmenu-recently-closed-tabs =
     .label = Nesen aizvērtās cilnes
 appmenu-recently-closed-windows =
     .label = Nesen aizvērtie logi
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Meklēšanas vēsture
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } palīdzība
 appmenu-about =
     .label = Par { -brand-shorter-name }
     .accesskey = a
+appmenu-get-help =
+    .label = Iegūt palīdzību
+    .accesskey = p
 appmenu-help-report-site-issue =
     .label = Ziņot par problēmu ar lapu…
 
