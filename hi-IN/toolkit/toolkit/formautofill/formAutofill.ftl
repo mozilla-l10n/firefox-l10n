@@ -25,3 +25,8 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = पता‌
+autofill-category-name = नाम‌
+autofill-category-organization = संस्था
+autofill-category-tel = फ़ोन
