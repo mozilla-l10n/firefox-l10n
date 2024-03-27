@@ -41,5 +41,6 @@ autofill-phishing-warningmessage = يملأ { $categories } آليا
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = العناوين
 autofill-category-name = الأسماء
+autofill-category-organization = المؤسسات
 autofill-category-tel = الهواتف
 autofill-category-email = البُرُد الإلكترونية
