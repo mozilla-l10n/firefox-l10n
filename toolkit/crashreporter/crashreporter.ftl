@@ -12,6 +12,7 @@ crashreporter-button-details = ਵੇਰਵਾ…
 crashreporter-view-report-title = ਰਿਪੋਰਟ ਸਮੱਗਰੀ
 crashreporter-comment-prompt = ਇੱਕ ਟਿੱਪਣੀ ਸ਼ਾਮਲ ਕਰੋ। ਨੋਟ: ਟਿੱਪਣੀਆਂ ਪਬਲਿਕ ਹਨ
 crashreporter-report-info = ਇਸ ਰਿਪੋਰਟ ਵਿੱਚ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਹਾਲਤ ਬਾਰੇ ਡਾਟਾ ਹੈ, ਜਦੋਂ ਕਿ ਇਹ ਕਰੈਸ਼ ਹੋਈ ਸੀ।
+crashreporter-submit-status = ਤੁਹਾਡੇ ਬੰਦ ਕਰਨ ਜਾਂ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੀ ਕਰੈਸ਼  ਰਿਪੋਰਟ ਭੇਜੀ ਜਾਵੇਗੀ।
 crashreporter-submit-in-progress = ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ...
 crashreporter-submit-success = ਰਿਪੋਰਟ ਠੀਕ ਤਰ੍ਹਾਂ ਭੇਜੀ ਗਈ
 crashreporter-submit-failure = ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਭੇਜਣ ਦੌਰਾਨ ਸਮੱਸਿਆ ਹੈ।
