@@ -7,13 +7,16 @@ crashreporter-crash-message = { -brand-short-name } hie in probleem en ferûngel
 crashreporter-plea = Om ús te helpen mei in diagnose en in oplossing foar it probleem, kinne jo ús in ûngelokrapport stjoere.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Details: { $details }
+crashreporter-no-run-message = Dizze applikaasje wurdt starten nei in ûngelok om it probleem te rapportearjen oan de applikaasjemakker. It moat net daliks starten wurde.
 crashreporter-button-details = Details…
 crashreporter-view-report-title = Rapportynhâld
 crashreporter-comment-prompt = Foegje in opmerking ta (opmerkingen binne publyklik sichtber)
 crashreporter-report-info = Dit rapport hat ek technyske ynformaasje oer de steat fan de applikaasje doe it ferûngelokke.
 crashreporter-submit-status = Jo ûngelokrapport sil ferstjoerd wurde foardat jo ôfslute of opnij starte.
 crashreporter-submit-in-progress = Ferstjoert jo rapport…
+crashreporter-submit-success = Rapport mei sukses ferstjoerd!
 crashreporter-submit-failure = Der wie in probleem mei it ferstjoeren fan jo rapport.
+crashreporter-resubmit-status = Rapporten dy’t earder net slaggen opnij ferstjoere…
 crashreporter-button-quit = { -brand-short-name } Ofslute
 crashreporter-button-restart = { -brand-short-name } opnij starte
 crashreporter-button-ok = OK
