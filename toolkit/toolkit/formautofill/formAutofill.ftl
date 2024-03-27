@@ -33,6 +33,8 @@ credit-card-capture-cancel-button =
 credit-card-capture-save-new-button =
     .label = Нигоҳ доштан ҳамчун корти нав
     .accessKey = Д
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = Пок кардани шаклҳо бо пуркунии худкор
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Идоракунии нишониҳо
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
@@ -49,3 +51,19 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = МИР
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = Инчунин, { $categories } ба таври худкор пур карда мешавад
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = { $categories } ба таври худкор пур карда мешавад
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = нишонӣ
+autofill-category-name = ном
+autofill-category-organization = ташкилот
+autofill-category-tel = телефон
+autofill-category-email = почтаи электронӣ
