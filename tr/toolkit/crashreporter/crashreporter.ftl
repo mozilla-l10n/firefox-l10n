@@ -15,6 +15,7 @@ crashreporter-report-info = Bu rapor uygulamanın çökme anındaki durumuyla il
 crashreporter-submit-status = Raporunuz çıkmadan veya yeniden başlatmadan önce gönderilecek.
 crashreporter-submit-in-progress = Raporunuz gönderiliyor…
 crashreporter-submit-success = Rapor başarıyla gönderildi!
+crashreporter-submit-failure = Raporunuz gönderilirken bir sorun yaşandı.
 crashreporter-resubmit-status = Daha önce gönderilemeyen raporlar gönderiliyor…
 crashreporter-button-quit = { -brand-short-name } uygulamasından çık
 crashreporter-button-restart = { -brand-short-name } uygulamasını yeniden başlat
