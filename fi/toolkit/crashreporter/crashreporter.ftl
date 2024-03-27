@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-crash-message = { -brand-short-name } kohtasi odottamattoman ongelman ja kaatui.
+crashreporter-plea = Lähettämällä kaatumisilmoituksen autat meitä tunnistamaan ja korjaamaan ongelman.
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Lisätietoja: { $details }
 crashreporter-no-run-message = Tämä ohjelma ilmoittaa kaatumiseen johtaneesta ohjelmavirheestä ohjelman jakelijalle. Tätä ohjelmaa ei pidä käynnistää erikseen.
 crashreporter-button-details = Lisätietoja…
 crashreporter-view-report-title = Ilmoituksen sisältö
