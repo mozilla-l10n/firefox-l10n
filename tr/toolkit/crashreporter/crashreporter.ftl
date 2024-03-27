@@ -4,6 +4,10 @@
 
 crashreporter-title = Çökme Habercisi
 crashreporter-view-report-title = Rapor içeriği
+crashreporter-submit-success = Rapor başarıyla gönderildi!
+crashreporter-button-quit = { -brand-short-name } uygulamasından çık
+crashreporter-button-ok = Tamam
+crashreporter-button-close = Kapat
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Çökme kimliği: { $id }
 
