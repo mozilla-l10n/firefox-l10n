@@ -11,6 +11,7 @@ crashreporter-submit-success = მოხსენება წარმატე
 crashreporter-submit-failure = მოხსენების გაგზავნა ვერ მოხერხდა.
 crashreporter-resubmit-status = წარუმატებელად გაგზავნილი პატაკების ხელახლა გაგზავნა…
 crashreporter-button-restart = გაუშვით ხელახლა { -brand-short-name }
+crashreporter-button-ok = კარგი
 crashreporter-button-close = დახურვა
 
 # Error strings
