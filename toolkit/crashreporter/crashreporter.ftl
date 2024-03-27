@@ -19,6 +19,7 @@ crashreporter-submit-failure = Bha duilgheadas ann le cur a-null na h-aithisge a
 crashreporter-resubmit-status = A' cur a-null nan aithisgean a dh'fhàillig roimhe…
 crashreporter-button-quit = Dùin { -brand-short-name }
 crashreporter-button-restart = Ath-thòisich { -brand-short-name }
+crashreporter-button-ok = Ceart ma-thà
 crashreporter-button-close = Dùin
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = ID an tuislidh: { $id }
