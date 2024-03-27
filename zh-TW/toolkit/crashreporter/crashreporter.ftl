@@ -8,7 +8,9 @@ crashreporter-plea = 為了協助我們修正相關錯誤，煩請傳回錯誤�
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = 細節如下: { $details }
 crashreporter-no-run-message = 本程式是為軟體出現錯誤、自行關閉時回傳錯誤資訊之用，不應直接執行。
+crashreporter-button-details = 詳細資訊…
 crashreporter-view-report-title = 報表內容
+crashreporter-comment-prompt = 加上附註（附註會是公開可見的）
 crashreporter-report-info = 報表中另包含程式錯誤關閉時的狀況資訊。
 crashreporter-submit-status = 您的資訊報表會在您離開或重開前送出。
 crashreporter-submit-in-progress = 送出資訊報表中…
