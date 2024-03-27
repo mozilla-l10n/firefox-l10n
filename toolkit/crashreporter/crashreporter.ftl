@@ -7,6 +7,7 @@ crashreporter-crash-message = واجه { -brand-short-name } مُشكلة وان
 crashreporter-plea = لتساعدنا في حل هذه المشكلة، يمكنك إرسال بلاغ بالانهيار.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = التفاصيل: { $details }
+crashreporter-no-run-message = يعمل هذا التطبيق بعد حدوث الانهيار لإبلاغ مُنتِج التطبيق.  لا يفترض تشغيله مباشرة.
 crashreporter-button-details = التفاصيل…
 crashreporter-view-report-title = محتويات البلاغ
 crashreporter-report-info = يحتوي هذا البلاغ على معلومات تقنيّة عنْ حالة التطبيق عند حدوث الانهيار.
