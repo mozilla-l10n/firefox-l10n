@@ -274,12 +274,18 @@ main-context-menu-video-save-as =
 main-context-menu-audio-save-as =
     .label = अडियोलाई यस रूपमा सङ्ग्रह गर्नुहोस्...
     .accesskey = v
+main-context-menu-video-take-snapshot =
+    .label = स्न्यापसट लिनुहोस्...
+    .accesskey = S
 main-context-menu-video-email =
     .label = भिडियो इमेल गर्नुहोस्…
     .accesskey = a
 main-context-menu-audio-email =
     .label = इमेल अडियो…
     .accesskey = a
+main-context-menu-save-to-pocket =
+    .label = पृष्ठलाई { -pocket-brand-name } मा बचत गर्नुहोस्
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = पृष्ठलाई यन्त्रमा पठाउनुहोस्
     .accesskey = D
@@ -288,9 +294,28 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = सुरक्षित लगइन प्रयोग गर्नुहोस्
+    .accesskey = o
+# Displayed when there are saved passwords and the user clicks inside a username or password field
+main-context-menu-use-saved-password =
+    .label = सुरक्षित पासवर्ड प्रयोग गर्नुहोस्
+    .accesskey = o
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = { -relay-brand-short-name } इमेल मास्क प्रयोग गर्नुहोस्
+    .accesskey = E
+main-context-menu-suggest-strong-password =
+    .label = बलियो पासवर्ड सुझाव गर्नुहोस्...
+    .accesskey = S
+main-context-menu-manage-logins2 =
+    .label = लगइनहरू प्रबन्ध गर्नुहोस्
+    .accesskey = M
+main-context-menu-manage-passwords =
+    .label = पासवर्डहरू प्रबन्ध गर्नुहोस्
+    .accesskey = M
 main-context-menu-keyword =
     .label = यस खोज‌का लागि एउटा खोजशब्द थप्नुहोस्…
     .accesskey = K
@@ -312,6 +337,9 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = फ्रेम पुनःलोड गर्नुहोस्
     .accesskey = R
+main-context-menu-frame-add-bookmark =
+    .label = बुकमार्क फ्रेम...
+    .accesskey = m
 main-context-menu-frame-save-as =
     .label = यसरूपमा फ्रेम सङ्ग्रह गर्नुहोस्…
     .accesskey = F
@@ -324,9 +352,18 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = फ्रेम जानकारी हेर्नुहोस्
     .accesskey = I
+main-context-menu-print-selection-2 =
+    .label = चयन मुद्रण गर्ने…
+    .accesskey = r
 main-context-menu-view-selection-source =
     .label = छनोट श्रोत हेर्नुहोस्
     .accesskey = e
+main-context-menu-take-screenshot =
+    .label = स्क्रिनसट लिनुहोस्
+    .accesskey = T
+main-context-menu-take-frame-screenshot =
+    .label = स्क्रिनसट लिनुहोस्
+    .accesskey = o
 main-context-menu-view-page-source =
     .label = पृष्ठ श्रोत हेर्नुहोस्
     .accesskey = V
