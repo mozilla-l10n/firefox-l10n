@@ -15,6 +15,7 @@ crashreporter-report-info = Aplikazioak huts egin zueneko egoerari buruzko infor
 crashreporter-submit-status = Hutsegite-txostena irten edo berrabiarazi aurretik bidaliko da.
 crashreporter-submit-in-progress = Txostena bidaltzen…
 crashreporter-submit-success = Txostena ongi bidali da!
+crashreporter-submit-failure = Arazoa egon da txostena bidaltzean.
 crashreporter-resubmit-status = Bidaltzean huts egindako txostenak birbidaltzen…
 crashreporter-button-quit = Irten
 crashreporter-button-restart = Berrabiarazi { -brand-short-name }
