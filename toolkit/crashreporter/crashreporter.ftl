@@ -8,6 +8,7 @@ crashreporter-button-details = פרטים…
 crashreporter-view-report-title = תוכן הדיווח
 crashreporter-report-info = דיווח זה כולל גם מידע טכני על מצב היישום כאשר הוא קרס.
 crashreporter-submit-failure = אירעה שגיאה בשליחת הדיווח.
+crashreporter-button-restart = הפעלת { -brand-short-name } מחדש
 crashreporter-button-ok = אישור
 crashreporter-button-close = סגירה
 # $id (String) - the crash id from the server, typically a UUID
