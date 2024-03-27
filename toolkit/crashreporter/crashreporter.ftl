@@ -17,6 +17,8 @@ crashreporter-submit-in-progress = ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਭੇ�
 crashreporter-submit-success = ਰਿਪੋਰਟ ਠੀਕ ਤਰ੍ਹਾਂ ਭੇਜੀ ਗਈ
 crashreporter-submit-failure = ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਭੇਜਣ ਦੌਰਾਨ ਸਮੱਸਿਆ ਹੈ।
 crashreporter-resubmit-status = ਪਹਿਲਾਂ ਭੇਜਣ ਲਈ ਫੇਲ੍ਹ ਹੋਈ ਰਿਪੋਰਟ ਫੇਰ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ…
+crashreporter-button-quit = { -brand-short-name } ਨੂੰ ਬੰਦ ਕਰੋ
+crashreporter-button-restart = { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ
 crashreporter-button-ok = ਠੀਕ ਹੈ
 crashreporter-button-close = ਬੰਦ ਕਰੋ
 # $id (String) - the crash id from the server, typically a UUID
