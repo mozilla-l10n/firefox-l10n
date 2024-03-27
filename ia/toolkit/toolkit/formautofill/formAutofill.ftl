@@ -76,5 +76,6 @@ autofill-phishing-warningmessage = Completa { $categories } automaticamente
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = adresse
 autofill-category-name = nomine
+autofill-category-organization = organisation
 autofill-category-tel = telephono
 autofill-category-email = email
