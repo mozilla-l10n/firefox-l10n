@@ -11,6 +11,8 @@
 
 # Used on the doorhanger when an credit card change is detected.
 
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = ස්වයං පිරවුම් ආකෘතිය මකන්න
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = ලිපින කළමනාකරණය
 
@@ -25,8 +27,19 @@ autofill-card-network-mastercard = මාස්ටර් කාඩ්
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = යුනියන් පේ
 autofill-card-network-visa = වීසා
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = { $categories } ද ඉබේ පුරවයි
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = { $categories } ඉබේ පුරවයි
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = ලිපිනය
 autofill-category-name = නම
 autofill-category-organization = සංවිධානය
 autofill-category-tel = දුරකථනය
+autofill-category-email = වි-තැපෑල
