@@ -39,5 +39,6 @@ autofill-phishing-warningmessage = સ્વતઃભરણ { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = સરનામું
 autofill-category-name = નામ
+autofill-category-organization = સંસ્થા
 autofill-category-tel = ફોન
 autofill-category-email = ઇમેઇલ
