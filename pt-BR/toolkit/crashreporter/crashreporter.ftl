@@ -8,6 +8,7 @@ crashreporter-view-report-title = Conteúdo do relatório
 crashreporter-comment-prompt = Adicione um comentário (será visível publicamente)
 crashreporter-report-info = Este relatório também contém informações técnicas sobre o estado do aplicativo quando travou.
 crashreporter-submit-status = O relatório de travamento será enviado antes de você sair ou reiniciar.
+crashreporter-submit-in-progress = Enviando relatório…
 crashreporter-submit-success = Relatório enviado com êxito!
 crashreporter-resubmit-status = Enviando relatórios que não puderam ser enviados antes…
 crashreporter-button-restart = Reiniciar o { -brand-short-name }
