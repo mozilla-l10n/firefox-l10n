@@ -2,9 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-title = مُبلّغ الانهيار
+crashreporter-crash-message = واجه { -brand-short-name } مُشكلة وانهيار.
+crashreporter-plea = لتساعدنا في حل هذه المشكلة، يمكنك إرسال بلاغ بالانهيار.
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = التفاصيل: { $details }
 crashreporter-view-report-title = محتويات البلاغ
+crashreporter-report-info = يحتوي هذا البلاغ على معلومات تقنيّة عنْ حالة التطبيق عند حدوث الانهيار.
+crashreporter-submit-status = سيُرسل بلاغ الانهيار قبل أن تخرج أو تعيد التشغيل.
 crashreporter-submit-failure = حدثت مشكلة أثناء إرسال البلاغ.
+crashreporter-button-restart = أعِد تشغيل { -brand-short-name }
 crashreporter-button-close = أغلق
+# $id (String) - the crash id from the server, typically a UUID
+crashreporter-crash-identifier = معرّف الانهيار: { $id }
 
 # Error strings
 
