@@ -15,6 +15,7 @@ crashreporter-report-info = This report also contains technical information abou
 crashreporter-submit-status = Your crash report will be submitted before you quit or restart.
 crashreporter-submit-in-progress = Submitting your report…
 crashreporter-submit-success = Report submitted successfully!
+crashreporter-submit-failure = आपके रिपोर्ट को जमा करने में समस्या थी।
 crashreporter-resubmit-status = Resending reports that previously failed to send…
 crashreporter-button-quit = Quit { -brand-short-name }
 crashreporter-button-restart = Restart { -brand-short-name }
