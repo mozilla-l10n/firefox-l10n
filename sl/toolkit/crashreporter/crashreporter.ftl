@@ -13,6 +13,7 @@ crashreporter-view-report-title = Vsebina poročila
 crashreporter-comment-prompt = Dodaj komentar (komentarji so javno vidni)
 crashreporter-report-info = To poročilo vsebuje tudi tehnične podatke o stanju programa, ko se je sesul.
 crashreporter-submit-status = Vaše poročilo o sesutju bo poslano pred izhodom ali ponovnim zagonom.
+crashreporter-submit-in-progress = Pošiljanje poročila …
 crashreporter-submit-success = Poročilo uspešno poslano!
 crashreporter-submit-failure = Pri pošiljanju poročila je prišlo do napake.
 crashreporter-resubmit-status = Ponovno pošiljanje poročil, ki je prej spodletelo...
