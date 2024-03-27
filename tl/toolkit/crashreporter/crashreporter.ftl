@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-title = Crash Reporter
 crashreporter-crash-message = Nagkaproblema ang { -brand-short-name } at nag-crash ito.
 crashreporter-plea = Upang makatulong sa amin na ayusin ang problem, maari kayong magpadala ng ulat tungkol sa crash.
 # $details (String) - the reason that a crash report cannot be submitted
@@ -17,6 +18,8 @@ crashreporter-submit-failure = Nagkaroon ng problema habang isisumite ang ulat.
 crashreporter-resubmit-status = Pinapadala ang mga ulat na dating hindi naipadala…
 crashreporter-button-ok = OK
 crashreporter-button-close = Isara
+# $id (String) - the crash id from the server, typically a UUID
+crashreporter-crash-identifier = Crash ID: { $id }
 
 # Error strings
 
