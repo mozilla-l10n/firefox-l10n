@@ -3,8 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Çökme Habercisi
+crashreporter-button-details = Ayrıntılar…
 crashreporter-view-report-title = Rapor içeriği
+crashreporter-submit-in-progress = Raporunuz gönderiliyor…
 crashreporter-submit-success = Rapor başarıyla gönderildi!
+crashreporter-resubmit-status = Daha önce gönderilemeyen raporlar gönderiliyor…
 crashreporter-button-quit = { -brand-short-name } uygulamasından çık
 crashreporter-button-ok = Tamam
 crashreporter-button-close = Kapat
