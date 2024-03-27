@@ -2,8 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-title = Informe de problemas
 crashreporter-crash-message = { -brand-short-name } encontró un problema y se cerrará.
 crashreporter-plea = Para ayudarnos a diagnosticar y reparar este problema, puede enviarnos un informe sobre la falla.
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Detalles: { $details }
 crashreporter-no-run-message = Esta aplicación se ejecuta después de un error para informar el problema al fabricante de la aplicación.  No debería ejecutarse directamente.
 crashreporter-button-details = Detalles…
 crashreporter-view-report-title = Contenido del informe
