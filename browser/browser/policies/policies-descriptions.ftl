@@ -125,6 +125,7 @@ policy-SSLVersionMax = Ange den maximala SSL-versionen.
 policy-SSLVersionMin = Ange den lägsta SSL-versionen.
 policy-StartDownloadsInTempDirectory = Tvinga nedladdningar att starta på en lokal, tillfällig plats snarare än standardnedladdningskatalogen.
 policy-SupportMenu = Lägg till ett anpassat menyalternativ med hjälp i hjälpmenyn.
+policy-TranslateEnabled = Aktivera eller inaktivera webböversättning.
 policy-UserMessaging = Visa inte vissa meddelanden till användaren.
 policy-UseSystemPrintDialog = Skriv ut med hjälp av systemets utskriftsdialog.
 # “format” refers to the format used for the value of this policy.
