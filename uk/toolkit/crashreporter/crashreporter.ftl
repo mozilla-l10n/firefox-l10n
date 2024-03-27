@@ -10,6 +10,7 @@ crashreporter-error-details = Подробиці: { $details }
 crashreporter-no-run-message = Ця програма запускається після збою, щоб повідомити розробника програми про проблему.  Її не слід запускати напряму.
 crashreporter-button-details = Подробиці…
 crashreporter-view-report-title = Зміст звіту
+crashreporter-comment-prompt = Додати коментар (коментарі бачать всі)
 crashreporter-report-info = Цей звіт також місить інформацію стосовно стану програми на момент збою.
 crashreporter-submit-status = Ваш звіт про збій буде надіслано перед закриттям або перезапуском програми.
 crashreporter-submit-in-progress = Надсилання звіту…
