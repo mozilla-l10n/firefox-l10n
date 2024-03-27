@@ -47,6 +47,8 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = עדכון כרטיס קיים
     .accessKey = ק
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = ניקוי המילוי האוטומטי מהטופס
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = ניהול כתובות
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
