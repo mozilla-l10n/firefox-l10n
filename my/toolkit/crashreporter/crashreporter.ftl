@@ -7,6 +7,7 @@ crashreporter-crash-message = { -brand-short-name }သည်ပြသာနာ�
 crashreporter-plea = ကျွန်ုပ်တို့အားကူညီရန်ဤဖြစ်ရပ်အားတိုင်ကြားပေးနိုင်ပါသည်။
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = အသေးစိတ် { $details }
+crashreporter-no-run-message = This application is run after a crash to report the problem to the application vendor.  It should not be run directly.
 crashreporter-button-details = အသေးစိတ်...
 crashreporter-view-report-title = ပါ၀င်ချက်များအားတိုင်ကြားမည်။
 crashreporter-comment-prompt = မှတ်ချက်ပေးပါ(မှတ်ချက်များအားအများပြည်သူမြင်ရသည်)
@@ -18,7 +19,10 @@ crashreporter-submit-failure = သင်၏တိုင်ကြားချက�
 crashreporter-resubmit-status = မအောင်မြင်ခဲ့သောတိုင်ကြားချက်ပေးပို့ခြင်းအားပြန်လုပ်ဆောင်နေသည်။
 crashreporter-button-quit = { -brand-short-name } ထွက်ပါ။
 crashreporter-button-restart = { -brand-short-name } ပြန်စသုံးပါ။
+crashreporter-button-ok = OK
 crashreporter-button-close = ပိတ်ပါ
+# $id (String) - the crash id from the server, typically a UUID
+crashreporter-crash-identifier = ပျက်စီးမှူအိုင်ဒီ ID : { $id }
 
 # Error strings
 
