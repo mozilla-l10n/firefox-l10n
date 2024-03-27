@@ -78,5 +78,6 @@ autofill-phishing-warningmessage = Autollenar { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = dirección
 autofill-category-name = nombre
+autofill-category-organization = organización
 autofill-category-tel = teléfono
 autofill-category-email = correo
