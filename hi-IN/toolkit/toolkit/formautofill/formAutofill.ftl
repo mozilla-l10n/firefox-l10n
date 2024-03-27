@@ -14,6 +14,8 @@ autofill-options-link-osx = फ़ॉर्म स्वतः भरण वर�
 
 # Used on the doorhanger when an credit card change is detected.
 
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = स्वत: भरण प्रपत्र मिटाएँ
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
