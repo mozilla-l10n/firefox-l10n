@@ -17,6 +17,7 @@ crashreporter-submit-in-progress = તમારો અહેવાલ જમા 
 crashreporter-submit-success = અહેવાલ સફળતાપૂર્વક જમા થઈ ગયો!
 crashreporter-submit-failure = તમારો અહેવાલ જમા કરવામાં સમસ્યા હતી.
 crashreporter-resubmit-status = અહેવાલો પુનઃમોકલી રહ્યા છીએ કે જેઓ પહેલાં મોકલવામાં નિષ્ફળ ગયા હતા…
+crashreporter-button-quit = બહાર નીકળો { -brand-short-name }
 crashreporter-button-restart = { -brand-short-name } પુનઃશરૂ કરો
 crashreporter-button-ok = બરાબર
 crashreporter-button-close = બંધ કરો
