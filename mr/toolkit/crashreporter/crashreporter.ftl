@@ -13,6 +13,7 @@ crashreporter-view-report-title = Report Contents
 crashreporter-comment-prompt = Add a comment (comments are publicly visible)
 crashreporter-report-info = This report also contains technical information about the state of the application when it crashed.
 crashreporter-submit-status = Your crash report will be submitted before you quit or restart.
+crashreporter-submit-in-progress = आपला अहवाल पाठवत आहोत…
 crashreporter-submit-success = Report submitted successfully!
 crashreporter-submit-failure = There was a problem submitting your report.
 crashreporter-resubmit-status = Resending reports that previously failed to send…
