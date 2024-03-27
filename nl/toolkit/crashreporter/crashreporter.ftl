@@ -18,6 +18,7 @@ crashreporter-submit-success = Rapport met succes verzonden!
 crashreporter-submit-failure = Er was een probleem tijdens het verzenden van uw rapport.
 crashreporter-resubmit-status = Rapporten die eerder zonder succes zijn verzonden opnieuw verzenden…
 crashreporter-button-quit = { -brand-short-name } afsluiten
+crashreporter-button-restart = { -brand-short-name } herstarten
 crashreporter-button-ok = OK
 crashreporter-button-close = Sluiten
 # $id (String) - the crash id from the server, typically a UUID
