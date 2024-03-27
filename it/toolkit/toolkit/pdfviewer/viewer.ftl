@@ -309,6 +309,10 @@ pdfjs-editor-highlight-button =
 pdfjs-editor-highlight-button-label = Evidenzia
 pdfjs-highlight-floating-button =
     .title = Evidenzia
+pdfjs-highlight-floating-button1 =
+    .title = Evidenzia
+    .aria-label = Evidenzia
+pdfjs-highlight-floating-button-label = Evidenzia
 
 ## Remove button for the various kind of editor.
 
