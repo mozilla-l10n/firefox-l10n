@@ -41,5 +41,6 @@ autofill-phishing-warningmessage = { $categories } অটোফিল করো
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = ঠিকানা
 autofill-category-name = নাম
+autofill-category-organization = প্রতিষ্ঠান
 autofill-category-tel = ফোন
 autofill-category-email = ইমেইল
