@@ -39,5 +39,6 @@ autofill-phishing-warningmessage = Isi { $categories } secara otomatis
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = alamat
 autofill-category-name = nama
+autofill-category-organization = organisasi
 autofill-category-tel = telepon
 autofill-category-email = email
