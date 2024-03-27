@@ -7,6 +7,7 @@ crashreporter-title = Crashreporter
 crashreporter-error-details = Details: { $details }
 crashreporter-button-details = Details…
 crashreporter-view-report-title = Rapportinhoud
+crashreporter-report-info = Dit rapport bevat tevens technische gegevens over de staat van de toepassing toen deze vastliep.
 crashreporter-submit-status = Uw crashrapport zal worden verzonden voordat u afsluit of herstart.
 crashreporter-submit-in-progress = Uw rapport verzenden…
 crashreporter-submit-success = Rapport met succes verzonden!
