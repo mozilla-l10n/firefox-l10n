@@ -4,6 +4,12 @@
 
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Details: { $details }
+crashreporter-button-details = விவரங்கள்…
+crashreporter-view-report-title = அறிக்கை உள்ளடக்கங்கள்
+crashreporter-submit-status = உங்கள் அழிப்பு அறிக்கை நீங்கள் வெளியேறும் முன் அல்லது மறுதுவக்கும் முன் சமர்ப்பிக்கப்படும்.
+crashreporter-submit-in-progress = உங்கள் அறிக்கையை சமர்பிக்கவும்…
+crashreporter-submit-success = அறிக்கை வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது!
+crashreporter-submit-failure = உங்கள் அறிக்கையை சமர்பிப்பதில் சிக்கல்.
 
 # Error strings
 
