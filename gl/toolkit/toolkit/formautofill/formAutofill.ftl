@@ -18,6 +18,8 @@ credit-card-save-doorhanger-header = Gardar esta tarxeta de forma segura?
 
 credit-card-update-doorhanger-header = Actualizar a tarxeta?
 credit-card-update-doorhanger-description = Tarxeta para actualizar:
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = Borrar o completado automático do formulario
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Xestionar enderezos
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
@@ -34,3 +36,8 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = enderezo
+autofill-category-name = nome
+autofill-category-organization = organización
+autofill-category-tel = teléfono
