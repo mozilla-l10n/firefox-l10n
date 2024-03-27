@@ -9,6 +9,7 @@ crashreporter-error-details = Podrobnosti: { $details }
 crashreporter-no-run-message = Tato aplikace je spuštěna po pádu jiné aplikace a jejím účelem je zaslat hlášení o pádu vývojářům aplikace. Není ji proto možné spustit samostatně.
 crashreporter-button-details = Podrobnosti…
 crashreporter-view-report-title = Obsah hlášení
+crashreporter-submit-status = Vaše hlášení o pádu bude odesláno před ukončením či restartem aplikace
 crashreporter-submit-in-progress = Odesílání hlášení o pádu…
 crashreporter-submit-success = Hlášení o pádu bylo úspěšně odesláno.
 crashreporter-submit-failure = Pří odesílání hlášení o pádu nastala chyba.
