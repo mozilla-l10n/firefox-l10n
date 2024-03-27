@@ -19,6 +19,7 @@ crashreporter-submit-failure = A apărut o problemă la trimiterea raportului.
 crashreporter-resubmit-status = Se retrimit rapoartele a căror trimitere a eșuat…
 crashreporter-button-quit = Închide { -brand-short-name }
 crashreporter-button-restart = Repornește { -brand-short-name }
+crashreporter-button-ok = OK
 crashreporter-button-close = Închide
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = ID-ul defecțiunii: { $id }
