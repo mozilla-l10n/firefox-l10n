@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Omvalrapporteerder
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Details: { $details }
 crashreporter-no-run-message = Hierdie toepassing word laat loop ná 'n omval sodat die probleem aan die toepassingverkoper gerapporteer kan word.  Dit moenie direk laat loop word nie.
 crashreporter-button-details = Details…
 crashreporter-view-report-title = Rapporteer inhoud
