@@ -16,6 +16,7 @@ crashreporter-submit-status = Njoftimi për vithisjen tuaj do të parashtrohet p
 crashreporter-submit-in-progress = Njoftimi juaj po parashtrohet…
 crashreporter-submit-success = Njoftimi u parashtrua me sukses!
 crashreporter-submit-failure = Pati problem me parashtrimin e njoftimit tuaj.
+crashreporter-resubmit-status = Po ridërgohen njoftime për të cilat dërgimi pat dështuar më parë…
 crashreporter-button-quit = Dilni prej { -brand-short-name }-i
 crashreporter-button-restart = Riniseni { -brand-short-name }-in
 crashreporter-button-ok = OK
