@@ -17,6 +17,7 @@ crashreporter-submit-in-progress = Waša rozprawa so sćele…
 crashreporter-submit-success = Rozprawa je so wuspěšnje wotpósłała!
 crashreporter-submit-failure = Při slanju wašeje rozprawy je problem wustupił.
 crashreporter-resubmit-status = Rozprawy, kotrež njejsu so prjedy poradźili słać, znowa słać…
+crashreporter-button-quit = { -brand-short-name } skónčić
 crashreporter-button-restart = { -brand-short-name } znowa startować
 crashreporter-button-ok = W porjadku
 crashreporter-button-close = Začinić
