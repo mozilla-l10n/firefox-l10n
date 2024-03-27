@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Λεπτομέρειες: { $details }
 crashreporter-button-details = Λεπτομέρειες…
 crashreporter-view-report-title = Περιεχόμενα αναφοράς
 crashreporter-report-info = Αυτή η αναφορά περιέχει ακόμα πληροφορίες για την κατάσταση της εφαρμογής την στιγμή που κόλλησε.
