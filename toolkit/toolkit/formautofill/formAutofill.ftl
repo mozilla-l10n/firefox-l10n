@@ -65,6 +65,12 @@ autofill-card-network-mastercard = 万事达（MasterCard）
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = 银联（Union Pay）
 autofill-card-network-visa = Visa
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = 还将自动填写 { $categories } 栏
 # Variation when all are in the same category.
 # Variables:
 #   $categories - one or more of the categories
