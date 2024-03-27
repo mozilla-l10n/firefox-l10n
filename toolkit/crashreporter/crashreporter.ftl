@@ -10,6 +10,7 @@ crashreporter-submit-in-progress = ڕاپۆرتەکەت وا دەنێردرێت.
 crashreporter-submit-success = ڕاپۆرت بە سەرکەوتووی نێردرا
 crashreporter-submit-failure = هەڵەیەک ڕوویدا لە کاتی ناردنی ڕاپۆرتەکەت.
 crashreporter-button-quit = { -brand-short-name } دابخە
+crashreporter-button-restart = پێکردنەوەی { -brand-short-name }
 crashreporter-button-ok = باشە
 crashreporter-button-close = داخستن
 # $id (String) - the crash id from the server, typically a UUID
