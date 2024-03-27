@@ -47,6 +47,8 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = Meglévő kártya frissítése
     .accessKey = f
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = Automatikus kitöltött űrlap ürítése
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Címek kezelése
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
