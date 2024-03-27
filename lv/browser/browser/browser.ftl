@@ -306,9 +306,14 @@ quickactions-cmd-update = atjaunināt
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Skatīt lapas pirmkodu
 quickactions-cmd-viewsource = apskatīt pirmkodu, pirmkods
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = Uzzināt vairāk par ātrajām darbībām
 
 ## Bookmark Panel
 
+bookmarks-add-bookmark = Pievienot grāmatzīmi
+bookmarks-edit-bookmark = Rediģēt grāmatzīmi
 bookmark-panel-cancel =
     .label = Atcelt
     .accesskey = C
@@ -325,6 +330,8 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Rādīt redaktoru, saglabājot
     .accesskey = S
+bookmark-panel-save-button =
+    .label = Saglabāt
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -333,14 +340,27 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = Informācija par { $host } vietni
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = { $host } savienojuma drošība
+identity-connection-not-secure = Savienojums nav drošs
+identity-connection-secure = Savienojums doršs
+identity-connection-failure = Savienojuma kļūme
 identity-connection-internal = Šī ir droša { -brand-short-name } lapa.
 identity-connection-file = Šī lapa ir saglabāta jūsu datorā.
+identity-connection-associated = Šī lapa ir ielādēta no citas lapas.
 identity-extension-page = Šī lapa ir ielādēta no papildinājuma.
 identity-active-blocked = { -brand-short-name } bloķēja nedrošo saturu šajā lapā.
+identity-custom-root = Savienojumu ir pārbaudījis sertifikāta izdevējs, kuru Mozilla neatpazīst.
 identity-passive-loaded = Šīs lapas daļas (piemēram attēli) nav drošas.
 identity-active-loaded = Nedrošu elementu aizsardzība ir deaktivēta.
 identity-weak-encryption = Šī lapa izmanto vāju šifrēšanu.
 identity-insecure-login-forms = Dati, ko ievadīsiet šajā lapā nav aizsargāti un var tikt pārtverti.
+identity-https-only-connection-upgraded = (uzlabots uz HTTPS)
 identity-permissions-reload-hint = Lai redzētu izmaiņas iespējams būs nepieciešama lapas pārlāde.
 identity-clear-site-data =
     .label = Notīrīt sīkdatnes un lapu datus…
