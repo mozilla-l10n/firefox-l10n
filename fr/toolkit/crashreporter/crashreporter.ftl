@@ -10,6 +10,7 @@ crashreporter-error-details = Détails : { $details }
 crashreporter-no-run-message = Cette application est exécutée après un plantage pour rapporter le problème survenu à l’éditeur de l’application. Elle ne doit pas être lancée directement.
 crashreporter-button-details = Détails…
 crashreporter-view-report-title = Contenu du rapport
+crashreporter-comment-prompt = Ajouter un commentaire (les commentaires sont visibles par tout le monde)
 crashreporter-report-info = Ce rapport contient également des informations techniques sur l’état de l’application lors du plantage.
 crashreporter-submit-status = Votre rapport de plantage sera envoyé avant la fermeture ou le redémarrage du programme.
 crashreporter-submit-in-progress = Envoi du rapport…
