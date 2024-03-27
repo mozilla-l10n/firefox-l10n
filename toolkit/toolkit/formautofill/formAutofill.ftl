@@ -41,5 +41,6 @@ autofill-phishing-warningmessage = Autofills { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = address
 autofill-category-name = name
+autofill-category-organization = organization
 autofill-category-tel = phone
 autofill-category-email = email
