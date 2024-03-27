@@ -25,8 +25,19 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = { $categories } भी स्वत: भरता हैं
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = { $categories } स्वत: भरता है
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = पता‌
 autofill-category-name = नाम‌
 autofill-category-organization = संस्था
 autofill-category-tel = फ़ोन
+autofill-category-email = ई-मेल
