@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Izvjestitelj rušenja
+crashreporter-crash-message = { -brand-short-name } je naišao na problem i srušio se.
+crashreporter-plea = Da biste nam pomogli u ispravljanju problema, možete nam poslati izvještaj rušenja.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljji: { $details }
 crashreporter-no-run-message = Ovaj program pokreće se nakon rušenja kako bi prijavio problem programerima programa. Ne bi se smio izravno pokretati.
