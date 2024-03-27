@@ -21,3 +21,9 @@ autofill-card-network-discover = డిస్కవర్
 autofill-card-network-mastercard = మాస్టర్‌కార్డ్
 autofill-card-network-unionpay = యూనియన్ పే
 autofill-card-network-visa = వీసా
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = చిరునామా
+autofill-category-name = పేరు
+autofill-category-organization = సంస్థ
+autofill-category-tel = ఫోను
+autofill-category-email = ఇమెయిల్
