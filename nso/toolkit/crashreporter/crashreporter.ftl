@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-button-details = Dintlha…
+crashreporter-comment-prompt = Tsenya tshwaotshwao (ditshwaotshwao di bonwa ke bohle)
 crashreporter-button-ok = Go lokile
 crashreporter-button-close = Tswalela
 
