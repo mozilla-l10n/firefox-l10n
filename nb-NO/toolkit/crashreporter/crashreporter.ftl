@@ -10,6 +10,7 @@ crashreporter-error-details = Detaljer: { $details }
 crashreporter-no-run-message = Dette programmet kjører etter at et programkrasj oppstår for å rapportere problemet til programutviklerne.  Det bør ikke kjøres direkte.
 crashreporter-button-details = Detaljer …
 crashreporter-view-report-title = Rapportinnhold
+crashreporter-comment-prompt = Legg til en kommentar (kommentarer vises offentlig)
 crashreporter-report-info = Denne rapporten inneholder også informasjon om tilstanden til programmet da det krasjet.
 crashreporter-submit-status = Krasjrapporten sendes før du avslutter eller starter på nytt.
 crashreporter-submit-in-progress = Sender rapporten …
