@@ -373,6 +373,19 @@ main-context-menu-bidi-switch-text =
 main-context-menu-bidi-switch-page =
     .label = पृष्ठको दिशा बदल्नुहोस्
     .accesskey = D
+main-context-menu-inspect =
+    .label = निरीक्षण गर्नुहोस्
+    .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = पहुँच गुणहरू निरीक्षण गर्नुहोस्
 main-context-menu-eme-learn-more =
     .label = DRM बारे थप जान्नुहोस्
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = नयाँ { $containerName } ट्याबमा लिङ्क खोल्नुहोस्
+    .accesskey = T
+main-context-menu-reveal-password =
+    .label = पासवर्ड प्रकट गर्नुहोस्
+    .accesskey = v
