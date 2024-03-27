@@ -14,3 +14,24 @@ autofill-options-link-osx = Postavke automatskog popunjava formulara
 
 # Used on the doorhanger when an credit card change is detected.
 
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = Očisti autofill formu
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = Također automatski popunjava { $categories }
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = Automatski popunjava { $categories }
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = adresa
+autofill-category-name = ime
+autofill-category-organization = organizacija
+autofill-category-tel = telefon
+autofill-category-email = e-mail
