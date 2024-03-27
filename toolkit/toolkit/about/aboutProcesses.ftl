@@ -48,7 +48,7 @@ about-processes-vr-process = Réalité virtuelle ({ $pid })
 about-processes-rdd-process = Décodeur de données ({ $pid })
 about-processes-socket-process = Réseau ({ $pid })
 about-processes-remote-sandbox-broker-process = Broker du bac à sable distant ({ $pid })
-about-processes-fork-server-process = Copie du serveur ({ $pid })
+about-processes-fork-server-process = Serveur d’instanciation de processus ({ $pid })
 about-processes-preallocated-process = Préalloué ({ $pid })
 about-processes-utility-process = Utilitaire ({ $pid })
 # Unknown process names
