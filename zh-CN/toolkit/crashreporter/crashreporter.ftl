@@ -10,6 +10,7 @@ crashreporter-error-details = 详细信息：{ $details }
 crashreporter-no-run-message = 此应用程序在崩溃后运行并向程序发行商报告相应问题。无法被直接运行。
 crashreporter-button-details = 详细信息…
 crashreporter-view-report-title = 报告内容
+crashreporter-comment-prompt = 附上说明（说明公开可见）
 crashreporter-report-info = 此报告同时包含了应用程序崩溃时状态的技术信息。
 crashreporter-submit-in-progress = 正在提交您的报告…
 crashreporter-submit-success = 报告提交成功！
