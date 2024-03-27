@@ -2,8 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-title = Összeomlás-bejelentő
 crashreporter-crash-message = A(z) { -brand-short-name } alkalmazásnak problémája támadt, és összeomlott.
 crashreporter-plea = Segítsen diagnosztizálni és megoldani a problémát, küldje el az összeomlási jelentést.
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Részletek: { $details }
 crashreporter-no-run-message = Ez az alkalmazás egy összeomlás után fut le, hogy értesítse a problémáról az alkalmazás fejlesztőjét. Közvetlenül nem futtatható.
 crashreporter-button-details = Részletek...
 crashreporter-view-report-title = A bejelentés tartalma
