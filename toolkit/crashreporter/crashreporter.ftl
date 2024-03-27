@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Aithrisiche nan tuislidhean
+crashreporter-crash-message = Bha duilgheadas aig { -brand-short-name } is thuislich e.
+crashreporter-plea = 'S urrainn dhut aithisg tuislidh a chur thugainn gus ar cuideachadh le rannsachadh is càradh an duilgheadais.
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Mion-fhiosrachadh: { $details }
 crashreporter-button-details = Mion-fhiosrachadh…
 crashreporter-view-report-title = Susbaint na h-aithisge
 crashreporter-comment-prompt = Cuir beachd ris (chithear na beachdan gu poblach)
@@ -14,6 +18,8 @@ crashreporter-resubmit-status = A' cur a-null nan aithisgean a dh'fhàillig roim
 crashreporter-button-quit = Dùin { -brand-short-name }
 crashreporter-button-restart = Ath-thòisich { -brand-short-name }
 crashreporter-button-close = Dùin
+# $id (String) - the crash id from the server, typically a UUID
+crashreporter-crash-identifier = ID an tuislidh: { $id }
 
 # Error strings
 
