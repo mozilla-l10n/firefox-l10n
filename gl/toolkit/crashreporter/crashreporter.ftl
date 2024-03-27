@@ -7,9 +7,11 @@ crashreporter-crash-message = { -brand-short-name } tivo un problema e fallou.
 crashreporter-plea = Se envía un informe de erro axudará a diagnosticar e solucionar o problema.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalles: { $details }
+crashreporter-no-run-message = Este aplicativo execútase para informar o fornecedor do produto cando se produce un fallo. Non debería executarse directamente.
 crashreporter-button-details = Detalles…
 crashreporter-view-report-title = Contido do informe
 crashreporter-comment-prompt = Engadir un comentario (os comentarios son visíbeis publicamente)
+crashreporter-report-info = Este informe tamén contén información técnica sobre o estado do aplicativo no momento do fallo.
 crashreporter-submit-status = O informe de erro enviarase antes de que reinicie ou saia do programa.
 crashreporter-submit-in-progress = Enviando o informe…
 crashreporter-submit-success = O informe enviouse correctamente
