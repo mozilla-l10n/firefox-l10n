@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-view-report-title = 보고서 내용
+crashreporter-button-restart = { -brand-short-name } 다시 시작
 crashreporter-button-ok = 확인
 crashreporter-button-close = 닫기
 
