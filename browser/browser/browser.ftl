@@ -252,8 +252,60 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = Skatīt papildinājumus
+quickactions-cmd-addons2 = papildinājumi
+# Opens the bookmarks library window
+quickactions-bookmarks2 = Pārvaldīt grāmatzīmes
+quickactions-cmd-bookmarks = grāmatzīmes
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = Notīrīt vēsturi
+quickactions-cmd-clearhistory = notīrīt vēsturi
+# Opens about:downloads page
+quickactions-downloads2 = Skatīt lejupielādes
+quickactions-cmd-downloads = lejupielādes
+# Opens about:addons page in the extensions section
+quickactions-extensions = Pārvaldīt paplašinājumus
+quickactions-cmd-extensions = paplašinājumi
+# Opens the devtools web inspector
+quickactions-inspector2 = Atvērt izstrādātāju rīkus
+quickactions-cmd-inspector = inspektors, izstrādātāju rīki
 # Opens about:logins
 quickactions-logins2 = Pārvaldīt paroles
+quickactions-cmd-logins = lietotājvārdi, paroles
+# Opens about:addons page in the plugins section
+quickactions-plugins = Pārvaldīt spraudņus
+quickactions-cmd-plugins = spraudņi
+# Opens the print dialog
+quickactions-print2 = Drukāt lapu
+quickactions-cmd-print = drukāt
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Saglabāt lapu kā PDF
+quickactions-cmd-savepdf = pdf
+# Opens a new private browsing window
+quickactions-private2 = Atvērt privāto logu
+quickactions-cmd-private = privātā pārlūkošana
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = Atsvaidzināt { -brand-short-name }
+quickactions-cmd-refresh = atsvaidzināt
+# Restarts the browser
+quickactions-restart = Pārstartēt { -brand-short-name }
+quickactions-cmd-restart = pārstartēt
+# Opens the screenshot tool
+quickactions-screenshot3 = Uzņemt ekrānuzņēmumu
+quickactions-cmd-screenshot = ekrānuzņēmums
+# Opens about:preferences
+quickactions-settings2 = Pārvaldīt iestatījumus
+quickactions-cmd-settings = iestatījumi, preferences, opcijas
+# Opens about:addons page in the themes section
+quickactions-themes = Pārvaldīt motīvus
+quickactions-cmd-themes = motīvi
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = Atjaunināt { -brand-short-name }
+quickactions-cmd-update = atjaunināt
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = Skatīt lapas pirmkodu
+quickactions-cmd-viewsource = apskatīt pirmkodu, pirmkods
 
 ## Bookmark Panel
 
