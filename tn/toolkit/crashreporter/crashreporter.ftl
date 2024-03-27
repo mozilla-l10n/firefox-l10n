@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-button-details = Dintlha…
+crashreporter-button-restart = Simolola sešwa { -brand-short-name }
 crashreporter-button-ok = Siame
 crashreporter-button-close = Tswala
 
