@@ -7,6 +7,7 @@ crashreporter-crash-message = { -brand-short-name } қиындыққа тап б
 crashreporter-plea = Мәселені шешуге көмектесу үшін, сіз бізге хабар жібере аласыз.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Толық мәлімет: { $details }
+crashreporter-no-run-message = Бұл бағдарлама қателік ақпаратын әзірлеушіге жіберу үшін құлаудан кейін орындалады. Сондықтан оны жеке орындаудың қажеті жоқ.
 crashreporter-button-details = Көбірек білу…
 crashreporter-view-report-title = Хабар мазмұны
 crashreporter-comment-prompt = Түсініктеме қосу (түсініктеме әркімге көрінеді)
