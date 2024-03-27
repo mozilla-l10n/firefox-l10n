@@ -272,3 +272,13 @@ appmenu-developer-tools-extensions =
     .label = विकासकर्ताहरूको लागि विस्तार
 appmenuitem-report-broken-site =
     .label = भाँचिएको साइट रिपोर्ट गर्नुहोस्
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = आफ्नो खातामा साइन इन गर्नुहोस्
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = डाटा उल्लंघन अलर्ट प्राप्त गर्नुहोस्
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = आफ्नो वास्तविक इमेल र फोन नम्बर लुकाउनुहोस्
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = आफ्नो अनलाइन गतिविधि सुरक्षित गर्नुहोस्
