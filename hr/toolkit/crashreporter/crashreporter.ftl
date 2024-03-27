@@ -15,6 +15,7 @@ crashreporter-submit-in-progress = Slanje tvog izvještaja …
 crashreporter-submit-success = Izvještaj uspješno poslan!
 crashreporter-submit-failure = Došlo je do problema prilikom slanja izvještaja.
 crashreporter-resubmit-status = Ponovo slanja izvještaja koji prethodno nisu poslani…
+crashreporter-button-quit = Zatvori { -brand-short-name }
 crashreporter-button-restart = Ponovo pokreni { -brand-short-name }
 crashreporter-button-ok = U redu
 crashreporter-button-close = Zatvori
