@@ -10,6 +10,7 @@ crashreporter-error-details = Xehetasunak: { $details }
 crashreporter-no-run-message = Aplikazio hau hutsegite baten ondoren exekutatzen da aplikazioaren egileari hutsegitearen berri emateko. Ez litzateke zuzenean exekutatu behar.
 crashreporter-button-details = Xehetasunak…
 crashreporter-view-report-title = Txostenaren edukia
+crashreporter-comment-prompt = Gehitu iruzkina (iruzkinak publikoki ikus daitezke)
 crashreporter-report-info = Aplikazioak huts egin zueneko egoerari buruzko informazio teknikoa ere badu txosten honek.
 crashreporter-submit-status = Hutsegite-txostena irten edo berrabiarazi aurretik bidaliko da.
 crashreporter-submit-in-progress = Txostena bidaltzen…
