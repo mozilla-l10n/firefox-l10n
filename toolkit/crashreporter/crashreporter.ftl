@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-title = Tuairisceoir Tuairteála
 crashreporter-button-details = Mionsonraí…
 crashreporter-view-report-title = Inneachar na Tuarascála
 crashreporter-comment-prompt = Cuir nóta leis (tá nótaí infheicthe go poiblí)
