@@ -10,6 +10,7 @@ crashreporter-error-details = Manylion: { $details }
 crashreporter-no-run-message = Mae'r rhaglen yn cael ei rhedeg ar ôl chwalfa er mwyn adrodd ar anhawster i ddarparwr y rhaglen.  Ni ddylai gael ei redeg yn uniongyrchol.
 crashreporter-button-details = Manylion…
 crashreporter-view-report-title = Cynnwys yr Adroddiad
+crashreporter-comment-prompt = Ychwanegu sylw (sylwadau yn weladwy'n gyhoeddus)
 crashreporter-report-info = Mae'r adroddiad hefyd yn cynnwys gwybodaeth dechnegol am gyflwr y rhaglen wrth iddi chwalu.
 crashreporter-submit-status = Bydd eich adroddiad chwalu yn cael ei gyflwyno cyn i chi adael neu ail gychwyn.
 crashreporter-submit-in-progress = Cyflwyno eich adroddiad…
