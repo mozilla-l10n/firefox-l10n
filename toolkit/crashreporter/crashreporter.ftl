@@ -19,7 +19,10 @@ crashreporter-submit-failure = ನಿಮ್ಮ ವರದಿಯನ್ನು ಕ�
 crashreporter-resubmit-status = ಈ ಹಿಂದೆ ಕಳುಹಿಸಲು ವಿಫಲಗೊಂಡ ವರದಿಗಳನ್ನು ಮತ್ತೊಮ್ಮೆ ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ...
 crashreporter-button-quit = { -brand-short-name } ಇಂದ ಹೊರ ನಡೆ
 crashreporter-button-restart = { -brand-short-name } ಅನ್ನು ಮರು ಆರಂಭಿಸು
+crashreporter-button-ok = OK
 crashreporter-button-close = ಮುಚ್ಚು
+# $id (String) - the crash id from the server, typically a UUID
+crashreporter-crash-identifier = ಕುಸಿತ ID: { $id }
 
 # Error strings
 
