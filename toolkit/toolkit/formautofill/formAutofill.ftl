@@ -43,5 +43,6 @@ autofill-phishing-warningmessage = Ččar s wudem awurman { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = tansa
 autofill-category-name = isem
+autofill-category-organization = takebbanit
 autofill-category-tel = tiliγri
 autofill-category-email = imayl
