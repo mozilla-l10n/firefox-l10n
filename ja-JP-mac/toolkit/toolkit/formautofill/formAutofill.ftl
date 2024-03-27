@@ -36,6 +36,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = カード情報を保存しない
     .accessKey = N
+
+# Used on the doorhanger when an credit card change is detected.
+
 # Used on the doorhanger when an credit card change is detected.
 credit-card-update-doorhanger-header = クレジットカード情報を更新しますか？
 credit-card-update-doorhanger-description = 更新するクレジットカード:
@@ -61,3 +64,17 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = { $categories } も自動入力されます
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = { $categories } を自動入力します
+autofill-category-name = お名前
+autofill-category-organization = 所属組織
+autofill-category-tel = 電話番号
+autofill-category-email = メールアドレス
