@@ -4,6 +4,7 @@
 
 crashreporter-title = 충돌 보고서
 crashreporter-view-report-title = 보고서 내용
+crashreporter-comment-prompt = 의견 추가 (의견은 공개적으로 표시됨)
 crashreporter-button-restart = { -brand-short-name } 다시 시작
 crashreporter-button-ok = 확인
 crashreporter-button-close = 닫기
