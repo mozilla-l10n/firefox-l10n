@@ -5,11 +5,14 @@
 crashreporter-title = Ow'alipoota ezikonagana
 crashreporter-crash-message = { -brand-short-name } yafunye obuzibu neremerwa.
 crashreporter-plea = Okutuyamba okutegera n'okugonjoola ekizibu, kino osobola okutusindikira alipoota ekonagana.
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Mubuwanvu: { $details }
 crashreporter-no-run-message = Enkola ekozesebwa nga wabaddewo okukonagana okutegeza omukugu w'empeereza eno ekizibu.  Tekirina kukolera ndala.
 crashreporter-button-details = Bujjuvu…
 crashreporter-view-report-title = Ebiri mu Alipoota
 crashreporter-comment-prompt = Gatttawo endowooza yo (endowooza zirabibwa buli omu)
 crashreporter-report-info = Alipoota eno era erimu amawulire agakwatta ku nkola eno weyafunidde ekizibu.
+crashreporter-submit-status = Alipoota yo eyokuzikirira eggya kuwebwayo nga tonnavaawo oba nga tonnaddamu kutandika.
 crashreporter-submit-in-progress = Okuwaayo alipoota yo…
 crashreporter-submit-success = Alipoota eweereddwayo bulungi!
 crashreporter-submit-failure = Waabaddewo obuzibu mu kuwaayo alipoota yo.
