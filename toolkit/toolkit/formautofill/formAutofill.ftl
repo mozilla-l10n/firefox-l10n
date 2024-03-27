@@ -14,6 +14,8 @@ autofill-options-link-osx = Roghainnean fèin-lìonadh fhoirmean
 
 # Used on the doorhanger when an credit card change is detected.
 
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = Falamhaich am foirm fèin-lìonaidh
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
@@ -26,3 +28,19 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = Fèin-lìonaidh seo { $categories } cuideachd
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = Fèin-lìonaidh seo { $categories }
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = seòladh
+autofill-category-name = ainm
+autofill-category-organization = buidheann
+autofill-category-tel = fòn
+autofill-category-email = post-d
