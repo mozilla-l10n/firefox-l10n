@@ -14,6 +14,7 @@ crashreporter-comment-prompt = Afegiu-hi un comentari (els comentaris són visib
 crashreporter-report-info = L'informe conté també informació tècnica de l'estat de l'aplicació quan va fallar.
 crashreporter-submit-status = El vostre informe de fallada es trametrà quan sortiu o reinicieu.
 crashreporter-submit-in-progress = S'està enviant el vostre informe…
+crashreporter-submit-success = L'informe s'ha tramès correctament!
 crashreporter-submit-failure = S'ha produït un problema en trametre el vostre informe.
 crashreporter-resubmit-status = S'estan tornant a enviar els informes que no s'han pogut enviar abans…
 crashreporter-button-quit = Surt del { -brand-short-name }
