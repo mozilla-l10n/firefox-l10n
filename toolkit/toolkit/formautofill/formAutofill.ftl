@@ -47,6 +47,8 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = อัปเดตบัตรที่มีอยู่
     .accessKey = อ
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = ล้างแบบฟอร์มที่กรอกอัตโนมัติ
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = จัดการที่อยู่
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
@@ -63,3 +65,19 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = กรอก { $categories } อัตโนมัติเช่นกัน
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = กรอก { $categories } อัตโนมัติ
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = ที่อยู่
+autofill-category-name = ชื่อ
+autofill-category-organization = องค์กร
+autofill-category-tel = โทรศัพท์
+autofill-category-email = อีเมล
