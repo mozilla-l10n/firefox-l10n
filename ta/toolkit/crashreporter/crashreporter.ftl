@@ -10,6 +10,10 @@ crashreporter-submit-status = உங்கள் அழிப்பு அறி
 crashreporter-submit-in-progress = உங்கள் அறிக்கையை சமர்பிக்கவும்…
 crashreporter-submit-success = அறிக்கை வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது!
 crashreporter-submit-failure = உங்கள் அறிக்கையை சமர்பிப்பதில் சிக்கல்.
+crashreporter-button-quit = { -brand-short-name }ஐ விட்டு வெளியேறு
+crashreporter-button-restart = { -brand-short-name }ஐ மறுதுவக்கு
+crashreporter-button-ok = சரி
+crashreporter-button-close = மூடவும்
 
 # Error strings
 
