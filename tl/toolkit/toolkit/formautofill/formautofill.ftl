@@ -11,6 +11,8 @@
 
 # Used on the doorhanger when an credit card change is detected.
 
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = I-clear ang Autofill Form
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
@@ -33,6 +35,8 @@ autofill-phishing-warningmessage-extracategory = I-no-autofill din ang { $catego
 # Variables:
 #   $categories - one or more of the categories
 autofill-phishing-warningmessage = I-no-autofill ang { $categories }
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = tirahan
 autofill-category-name = pangalan
 autofill-category-organization = organisasyon
 autofill-category-tel = telepono
