@@ -63,3 +63,9 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = địa chỉ
+autofill-category-name = tên
+autofill-category-organization = tổ chức
+autofill-category-tel = điện thoại
+autofill-category-email = thư điện tử
