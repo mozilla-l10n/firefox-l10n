@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = முறிவு அறிக்கையாளர்
+crashreporter-button-ok = ஆம்
 crashreporter-button-close = மூடுக
 
 # Error strings
