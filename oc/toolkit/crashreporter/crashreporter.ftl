@@ -7,6 +7,7 @@ crashreporter-crash-message = { -brand-short-name } a rencontrat un problèma im
 crashreporter-plea = Per nos ajudar a diagnosticar e corregir aqueste problèma, nos podètz mandar un rapòrt de plantatge.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalhs : { $details }
+crashreporter-no-run-message = Aquesta aplicacion es executada aprèp un plantatge per raportar lo problèma que s'es producha per l'editor de l'aplicacion. Deu pas èsser aviada dirèctament.
 crashreporter-button-details = Detalhs…
 crashreporter-view-report-title = Contengut del rapòrt
 crashreporter-comment-prompt = Apondre un comentari (los comentaris son visibles publicament)
@@ -17,6 +18,7 @@ crashreporter-submit-success = Lo rapòrt es estat mandat amb succès !
 crashreporter-submit-failure = I a agut un problèma al moment del mandadís del rapòrt.
 crashreporter-resubmit-status = Renviar los rapòrts pels quals las precedentas temptativas de mandadís an fracassat…
 crashreporter-button-quit = Quitar { -brand-short-name }
+crashreporter-button-restart = Reaviar { -brand-short-name }
 crashreporter-button-ok = D'acòrdi
 crashreporter-button-close = Tampar
 # $id (String) - the crash id from the server, typically a UUID
