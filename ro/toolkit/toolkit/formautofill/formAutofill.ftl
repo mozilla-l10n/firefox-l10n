@@ -28,3 +28,9 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = adresa
+autofill-category-name = numele
+autofill-category-organization = organizația
+autofill-category-tel = numărul de telefon
+autofill-category-email = e-mailul
