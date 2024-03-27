@@ -123,6 +123,7 @@ policy-SSLVersionMax = הגדרת גרסת ה־SSL המקסימלית.
 policy-SSLVersionMin = הגדרת גרסת ה־SSL המינימלית.
 policy-StartDownloadsInTempDirectory = לכפות על הורדות להתחיל במיקום מקומי וזמני במקום בתיקיית ההורדות המוגדרת כברירת המחדל.
 policy-SupportMenu = הוספת תפריט תמיכה בהתאמה אישית לתפריט העזרה.
+policy-TranslateEnabled = הפעלה או השבתה של תרגום דפי אינטרנט.
 policy-UserMessaging = לא להציג למשתמש הודעות מסוימות.
 policy-UseSystemPrintDialog = הדפסה באמצעות תיבת הדו־שיח להדפסה של המערכת.
 # “format” refers to the format used for the value of this policy.
