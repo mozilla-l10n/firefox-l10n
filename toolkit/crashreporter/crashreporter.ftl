@@ -7,9 +7,11 @@ crashreporter-crash-message = { -brand-short-name } пацярпеў крах а
 crashreporter-plea = Каб дапамагчы вызначыць і выправіць праблему, вы можаце падаць справаздачу пра крах.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Падрабязнасці: { $details }
+crashreporter-no-run-message = Гэта праграма запускаецца пасля краху, каб паведаміць распрацоўшчыку праграмы пра праблему.  Яна не павінна запускацца непасрэдна.
 crashreporter-button-details = Падрабязнасці…
 crashreporter-view-report-title = Змесціва справаздачы
 crashreporter-comment-prompt = Дадаць заўвагу (заўвагі прылюдна бачныя)
+crashreporter-report-info = Гэтая справаздача таксама ўтрымлівае тэхнічныя звесткі пра стан праграмы падчас яе краху.
 crashreporter-submit-status = Ваша справаздача пра крах будзе даслана перад выхадам або перазапускам.
 crashreporter-submit-in-progress = Падача вашай справаздачы…
 crashreporter-submit-success = Справаздача паспяхова пададзена!
