@@ -34,5 +34,6 @@ autofill-phishing-warningmessage-extracategory = I-no-autofill din ang { $catego
 #   $categories - one or more of the categories
 autofill-phishing-warningmessage = I-no-autofill ang { $categories }
 autofill-category-name = pangalan
+autofill-category-organization = organisasyon
 autofill-category-tel = telepono
 autofill-category-email = email
