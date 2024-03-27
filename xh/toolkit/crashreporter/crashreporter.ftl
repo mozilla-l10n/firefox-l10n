@@ -21,6 +21,8 @@ crashreporter-button-quit = Yeka { -brand-short-name }
 crashreporter-button-restart = Qalisa kwakhona { -brand-short-name }
 crashreporter-button-ok = KULUNGILE
 crashreporter-button-close = Vala
+# $id (String) - the crash id from the server, typically a UUID
+crashreporter-crash-identifier = Isazisi sokonakala: { $id }
 
 # Error strings
 
