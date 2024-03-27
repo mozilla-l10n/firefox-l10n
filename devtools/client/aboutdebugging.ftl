@@ -292,7 +292,7 @@ about-debugging-worker-fetch-not-listening =
 # worker instance is active).
 about-debugging-worker-status-running = Running
 # Displayed for service workers in runtime pages that are registered but stopped.
-about-debugging-worker-status-stopped = Stopped
+about-debugging-worker-status-stopped = Ehanet
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = Registering
 # Displayed for service workers in runtime pages, to label the scope of a worker

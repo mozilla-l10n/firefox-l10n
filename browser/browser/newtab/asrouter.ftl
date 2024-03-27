@@ -263,3 +263,4 @@ launch-on-login-infobar-final-reject-button = Ket
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-primary-button = Digeriñ ma ereoù gant { -brand-short-name }
