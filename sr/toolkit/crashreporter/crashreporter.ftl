@@ -8,6 +8,8 @@ crashreporter-submit-failure = Дошло је до проблема прили�
 crashreporter-resubmit-status = Слање извештаја који нису раније успешно послати…
 crashreporter-button-ok = У реду
 crashreporter-button-close = Затвори
+# $id (String) - the crash id from the server, typically a UUID
+crashreporter-crash-identifier = ID рушења: { $id }
 
 # Error strings
 
