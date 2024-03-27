@@ -3,13 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Reportator de collapso
+crashreporter-no-run-message = Iste application es exequite post un collapso pro reportar le problema al venditor del application. Illo non deberea esser exequite directemente.
 crashreporter-button-details = Detalios…
 crashreporter-comment-prompt = Adder un commento (le commentos es visibile a omnes)
 crashreporter-submit-status = Tu reporto de collapso essera submittite ante le clausura o le re-lanceamento del programma.
 crashreporter-submit-in-progress = Submittente tu reporto…
+crashreporter-submit-success = Reporto submittite con successo!
 crashreporter-submit-failure = Il ha habite un problema durante le submission de tu reporto.
 crashreporter-resubmit-status = Reinviante reportos cuje tentativas de invio precedente falleva…
 crashreporter-button-quit = Quitar { -brand-short-name }
+crashreporter-button-restart = Reinitiar { -brand-short-name }
 crashreporter-button-ok = OK
 crashreporter-button-close = Clauder
 # $id (String) - the crash id from the server, typically a UUID
