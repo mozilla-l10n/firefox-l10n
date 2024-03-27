@@ -47,6 +47,8 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = Uppfæra fyrirliggjandi kort
     .accessKey = U
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = Hreinsa sjálfvirkar útfyllingar í reiti
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Sýsla með tölvupóstföng
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
