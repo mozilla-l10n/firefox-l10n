@@ -80,3 +80,4 @@ autofill-category-address = adresu
 autofill-category-name = meno
 autofill-category-organization = organizáciu
 autofill-category-tel = telefónne číslo
+autofill-category-email = e‑mailovú adresu
