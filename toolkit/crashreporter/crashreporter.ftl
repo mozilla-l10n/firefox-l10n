@@ -5,6 +5,7 @@
 crashreporter-button-details = Benn bennal yi…
 crashreporter-button-quit = Génn { -brand-short-name }
 crashreporter-button-ok = OK
+crashreporter-button-close = Tëj
 
 # Error strings
 
