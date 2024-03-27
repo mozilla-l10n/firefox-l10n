@@ -5,6 +5,8 @@
 crashreporter-title = Daneveller sac'hadennoù
 crashreporter-crash-message = Ur gudenn zo bet gant { -brand-short-name } ha sac'het e oa.
 crashreporter-plea = Evit sikour ac'hanomp da reizhañ ar gudenn, gallout a rit kas deomp un danevell sac'hadenn.
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Munudoù: { $details }
 crashreporter-no-run-message = An arload-mañ zo loc'het goude ur sac'hadenn evit danevellañ ar gudenn d'an embanner. Ne rankfe bezañ loc'het war-eeun.
 crashreporter-button-details = Munudoù…
 crashreporter-view-report-title = Endalc'had an danevell
@@ -19,6 +21,8 @@ crashreporter-button-quit = Kuitaat { -brand-short-name }
 crashreporter-button-restart = Adloc'hañ { -brand-short-name }
 crashreporter-button-ok = Mat eo
 crashreporter-button-close = Serriñ
+# $id (String) - the crash id from the server, typically a UUID
+crashreporter-crash-identifier = Naoudi ar sac'hadenn: { $id }
 
 # Error strings
 
