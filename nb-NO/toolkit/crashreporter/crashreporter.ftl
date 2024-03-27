@@ -7,6 +7,7 @@ crashreporter-crash-message = Et uventet problem har oppstått i { -brand-short-
 crashreporter-plea = For å hjelpe oss å løse og reparere problemet kan du sende oss en krasjrapport.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljer: { $details }
+crashreporter-no-run-message = Dette programmet kjører etter at et programkrasj oppstår for å rapportere problemet til programutviklerne.  Det bør ikke kjøres direkte.
 crashreporter-button-details = Detaljer …
 crashreporter-view-report-title = Rapportinnhold
 crashreporter-report-info = Denne rapporten inneholder også informasjon om tilstanden til programmet da det krasjet.
@@ -14,6 +15,7 @@ crashreporter-submit-status = Krasjrapporten sendes før du avslutter eller star
 crashreporter-submit-in-progress = Sender rapporten …
 crashreporter-submit-success = Rapporten er sendt!
 crashreporter-submit-failure = Et problem oppstod ved sending av rapporten.
+crashreporter-resubmit-status = Sender rapporter som tidligere mislyktes på nytt …
 crashreporter-button-quit = Avslutt { -brand-short-name }
 crashreporter-button-restart = Start { -brand-short-name } på nytt
 crashreporter-button-ok = OK
