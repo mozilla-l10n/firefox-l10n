@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Ripot me Bal
+crashreporter-no-run-message = Diro man kitiyo kwede inge nongo lok ki bot ngat ma tye katic kwede.  Myro pe kiti kwede atyer.
 crashreporter-button-details = Lok kore ki kore…
 crashreporter-view-report-title = Kit ma ngec tye kwede kore ki kore
 crashreporter-comment-prompt = Med tami (tam romo nonge bot lwak)
