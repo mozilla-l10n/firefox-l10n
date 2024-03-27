@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-title = Ungelokrapportearder
 crashreporter-crash-message = { -brand-short-name } hie in probleem en ferûngelokke.
 crashreporter-plea = Om ús te helpen mei in diagnose en in oplossing foar it probleem, kinne jo ús in ûngelokrapport stjoere.
 crashreporter-button-details = Details…
