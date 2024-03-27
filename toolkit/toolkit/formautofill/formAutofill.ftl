@@ -47,6 +47,8 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = Embohekopyahu kuatia’atã oĩvavoi
     .accessKey = U
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = Emopotĩ myanyhẽha ijeheguíva
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Kundaharape ñangareko
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
@@ -66,5 +68,6 @@ autofill-card-network-visa = Visa
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = kundaharape
 autofill-category-name = téra
+autofill-category-organization = Atyguasu
 autofill-category-tel = pumbyry
 autofill-category-email = ñandutiveve
