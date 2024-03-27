@@ -9,6 +9,7 @@ crashreporter-plea = Դուք կարող եք օգնել մեզ հայտնաբե
 crashreporter-error-details = Մանրամասներ՝ { $details }
 crashreporter-no-run-message = Այս ծրագիրը աշխատում է ծրագրի վթարային փակումից հետո, որպեսզի արտադրողին զեկուցի խնդրի մասին: Այն պետք չէ աշխատացնել ուղղակիորեն:
 crashreporter-button-details = Մանրամասներ...
+crashreporter-view-report-title = Հաղորդագրության բովանդակություն
 crashreporter-comment-prompt = Ավելացնել մեկնաբանություն (մեկնաբանությունները հասանելի են հանրությանը)
 crashreporter-report-info = Այս հաղորդագրությունը նաև պարունակում է տեխնիկական ինֆորմացիա ծրագրի վթարային ավարտման պահի վերաբերյալ:
 crashreporter-submit-status = Վթարի մասին հաղորդագրությունը կուղարկվի մինչև ծրագրից դուրս գալը կամ վերսկսումը:
@@ -19,6 +20,8 @@ crashreporter-resubmit-status = Այն հաղորդագրությունների 
 crashreporter-button-quit = Փակել { -brand-short-name }-ը
 crashreporter-button-restart = Վերսկսել { -brand-short-name }-ը
 crashreporter-button-close = Փակել
+# $id (String) - the crash id from the server, typically a UUID
+crashreporter-crash-identifier = Վթար ID-ին. { $id }
 
 # Error strings
 
