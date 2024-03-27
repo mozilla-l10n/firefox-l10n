@@ -14,6 +14,8 @@ autofill-options-link-osx = Postavke automatskog popunjavanja obrazaca
 
 # Used on the doorhanger when an credit card change is detected.
 
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = Izbriši automatski ispunjen obrazac
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
