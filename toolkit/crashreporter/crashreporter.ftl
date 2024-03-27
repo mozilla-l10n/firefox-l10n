@@ -10,6 +10,7 @@ crashreporter-error-details = Detalls: { $details }
 crashreporter-no-run-message = S'executa aquesta aplicació després d'una fallada per informar del problema al proveïdor de l'aplicació. No hauria d'executar-se directament.
 crashreporter-button-details = Detalls…
 crashreporter-view-report-title = Contingut de l'informe
+crashreporter-comment-prompt = Afegiu-hi un comentari (els comentaris són visibles públicament)
 crashreporter-report-info = L'informe conté també informació tècnica de l'estat de l'aplicació quan va fallar.
 crashreporter-submit-status = El vostre informe de fallada es trametrà quan sortiu o reinicieu.
 crashreporter-submit-in-progress = S'està enviant el vostre informe…
