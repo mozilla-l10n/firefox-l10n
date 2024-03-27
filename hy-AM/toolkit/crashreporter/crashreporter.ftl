@@ -19,6 +19,7 @@ crashreporter-submit-failure = Հաղորդագրության ուղարկման
 crashreporter-resubmit-status = Այն հաղորդագրությունների ուղարկման կրկնում, որոնք նախկինում չի հաջողվել ուղարկել...
 crashreporter-button-quit = Փակել { -brand-short-name }-ը
 crashreporter-button-restart = Վերսկսել { -brand-short-name }-ը
+crashreporter-button-ok = Լաւ
 crashreporter-button-close = Փակել
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Վթար ID-ին. { $id }
