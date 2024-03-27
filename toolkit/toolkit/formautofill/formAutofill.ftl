@@ -18,3 +18,9 @@ autofill-card-network-amex = American Express
 autofill-card-network-jcb = JCB
 autofill-card-network-mastercard = MasterCard
 autofill-card-network-visa = ڤیزا
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = ناونیشان
+autofill-category-name = ناو
+autofill-category-organization = ڕێکخراو
+autofill-category-tel = تەلەفون
+autofill-category-email = پۆستی ئەلکترۆنی
