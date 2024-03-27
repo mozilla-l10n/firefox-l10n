@@ -2,11 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-crash-message = Ein unerwartetes Problem ist aufgetreten und { -brand-short-name } ist abgestürzt.
+crashreporter-plea = Um uns zu helfen, dieses Problem zu erkennen und zu reparieren, können Sie uns einen Absturzbericht schicken.
 crashreporter-no-run-message = Diese Anwendung wird nach einem Absturz ausgeführt, um das Problem an den Anwendungs-Hersteller zu melden.  Sie sollte nie direkt ausgeführt werden.
 crashreporter-button-details = Details…
 crashreporter-view-report-title = Inhalte ansehen
 crashreporter-comment-prompt = Einen Kommentar hinzufügen (Kommentare sind öffentlich sichtbar)
 crashreporter-report-info = Diese Meldung enthält Informationen über den Status der Anwendung zum Zeitpunkt des Absturzes.
+crashreporter-submit-status = Ihr Absturzbericht wird vor dem Beenden oder dem Neustart abgesendet.
 crashreporter-submit-in-progress = Senden der Meldung…
 crashreporter-submit-success = Meldung erfolgreich abgesendet!
 crashreporter-submit-failure = Beim Senden der Meldung ist ein Problem aufgetreten.
