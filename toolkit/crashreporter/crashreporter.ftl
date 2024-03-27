@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Сообщения о падениях
+crashreporter-crash-message = { -brand-short-name } столкнулся с неожиданной проблемой и упал.
+crashreporter-plea = Чтобы помочь нам диагностировать и устранить проблему, вы можете отправить нам отчёт о сбое.
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Подробности: { $details }
 crashreporter-no-run-message = Эта программа запускается после падения приложения, чтобы отправить сообщение об ошибке производителю приложения. Её не следует запускать напрямую.
 crashreporter-button-details = Подробности…
 crashreporter-view-report-title = Содержание сообщения
