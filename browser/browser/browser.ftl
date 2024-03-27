@@ -77,6 +77,10 @@ urlbar-default-notification-anchor =
     .tooltiptext = Atvērt ziņojumu paneli
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Atvērt atrašanās vietu pieprasījumu paneli
+urlbar-xr-notification-anchor =
+    .tooltiptext = Atveriet virtuālās realitātes atļauju paneli
+urlbar-storage-access-anchor =
+    .tooltiptext = Atvērt pārlūkošanas darbību atļauju paneli
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Pārvaldīt sava loga vai visa ekrāna koplietošanu ar šo vietni
 urlbar-indexed-db-notification-anchor =
@@ -87,12 +91,38 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Pārvaldīt papildinājumu izmantošanu
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Pārvaldīt kameras un/vai mikrofona koplietošanu ar šo vietni
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Pārvaldiet citu skaļruņu kopīgošanu ar vietni
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Atvērt automātiskās atskaņošanas paneli
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Glabāt datus pastāvīgajā krātuvē
 urlbar-addons-notification-anchor =
     .tooltiptext = Atvērt papildinājumu instalēšanas ziņojumu paneli
+urlbar-tip-help-icon =
+    .title = Iegūt palīdzību
+urlbar-search-tips-confirm = Labi, sapratu
+urlbar-search-tips-confirm-short = Sapratu
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Padoms:
+urlbar-result-menu-button =
+    .title = Atvērt izvēlni
+urlbar-result-menu-button-feedback = Atsauksmes
+    .title = Atvērt izvēlni
+urlbar-result-menu-learn-more =
+    .label = Uzzināt vairāk
+    .accesskey = U
+urlbar-result-menu-remove-from-history =
+    .label = Izņemt no vēstures
+    .accesskey = r
+urlbar-result-menu-tip-get-help =
+    .label = Iegūt palīdzību
+    .accesskey = I
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -100,6 +130,7 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Rakstiet mazāk, atrodiet vairāk: Meklējiet ar { $engineName } adreses joslā.
+urlbar-search-tips-redirect-2 = Sāciet meklēšanu adreses joslā, lai redzētu ieteikumus no { $engineName } un pārlūkošanas vēstures.
 
 ## Local search mode indicator labels in the urlbar
 
