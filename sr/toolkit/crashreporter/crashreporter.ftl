@@ -18,6 +18,7 @@ crashreporter-submit-success = Извештај је послат.
 crashreporter-submit-failure = Дошло је до проблема приликом подношења извештаја.
 crashreporter-resubmit-status = Слање извештаја који нису раније успешно послати…
 crashreporter-button-quit = Затвори { -brand-short-name }
+crashreporter-button-restart = Поново покрени { -brand-short-name }
 crashreporter-button-ok = У реду
 crashreporter-button-close = Затвори
 # $id (String) - the crash id from the server, typically a UUID
