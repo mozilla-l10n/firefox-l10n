@@ -7,9 +7,11 @@ crashreporter-crash-message = Bha duilgheadas aig { -brand-short-name } is thuis
 crashreporter-plea = 'S urrainn dhut aithisg tuislidh a chur thugainn gus ar cuideachadh le rannsachadh is càradh an duilgheadais.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Mion-fhiosrachadh: { $details }
+crashreporter-no-run-message = Nochdaidh an aplacaid seo an cois tuislidh gus aithisg mun duilgheadas a chur gu reiceadair na h-aplacaid.  Cha bu chòir dhut a thòiseachadh leis fhèin.
 crashreporter-button-details = Mion-fhiosrachadh…
 crashreporter-view-report-title = Susbaint na h-aithisge
 crashreporter-comment-prompt = Cuir beachd ris (chithear na beachdan gu poblach)
+crashreporter-report-info = Tha fiosrachadh teicnigeach san aithisg seo cuideachd a thaobh cor na h-aplacaid nuair a thuislich e.
 crashreporter-submit-status = Thèid an aithisg tuislidh agad a chur mus dùin thu no mus ath-thòisich thu am prògram.
 crashreporter-submit-in-progress = A' cur a-null na h-aithisge agad…
 crashreporter-submit-success = Chaidh an aithisg a chur gu soirbheachail!
