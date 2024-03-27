@@ -14,3 +14,16 @@ autofill-options-link-osx = ഫോം ഓട്ടോഫിൽ മുൻഗണ�
 
 # Used on the doorhanger when an credit card change is detected.
 
+
+## These are brand names and should only be translated when a locale-specific name for that brand is in common use
+
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = { $categories } നേയും ഓട്ടോഫില്‍ ചെയ്യും
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = { $categories } നെ ഓട്ടോഫില്‍ ചെയ്യും
