@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-title = Çökmə Məlumatçısı
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Detallar: { $details }
 crashreporter-button-details = Detallar…
 crashreporter-view-report-title = Hesabat məzmunu
 crashreporter-submit-status = Hesabatınız siz çıxanda ya da yenidən başladanda göndəriləcək.
