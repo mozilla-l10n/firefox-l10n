@@ -16,3 +16,9 @@
 
 autofill-card-network-amex = ಅಮೇರಿಕನ್ ಎಕ್ಸ್ಪ್ರೆಸ್
 autofill-card-network-discover = ಅನ್ವೇಷಿಸಿ
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = ವಿಳಾಸ
+autofill-category-name = ಹೆಸರು
+autofill-category-organization = ಸಂಸ್ಥೆ
+autofill-category-tel = ಫೋನ್
+autofill-category-email = ಇಮೇಲ್
