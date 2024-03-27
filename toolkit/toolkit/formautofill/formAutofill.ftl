@@ -78,5 +78,6 @@ autofill-phishing-warningmessage = To bo izpolnilo { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = naslov
 autofill-category-name = ime
+autofill-category-organization = organizacija
 autofill-category-tel = telefon
 autofill-category-email = e-pošta
