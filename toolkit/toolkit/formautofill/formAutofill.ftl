@@ -47,6 +47,8 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = 更新现有卡片
     .accessKey = U
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = 清除自动填写表单
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = 管理地址
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
@@ -63,3 +65,12 @@ autofill-card-network-mastercard = 万事达（MasterCard）
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = 银联（Union Pay）
 autofill-card-network-visa = Visa
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = 自动填写 { $categories }
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = 地址
+autofill-category-name = 姓名
+autofill-category-tel = 电话号码
+autofill-category-email = 电子邮箱
