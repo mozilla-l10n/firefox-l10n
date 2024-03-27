@@ -47,6 +47,8 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = Aktualizovať existujúcu kartu
     .accessKey = A
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = Vymazať automaticky doplnený formulár
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Spravovať adresy
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
@@ -63,3 +65,18 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = Taktiež doplní { $categories }
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = Automaticky doplní { $categories }
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = adresu
+autofill-category-name = meno
+autofill-category-organization = organizáciu
+autofill-category-tel = telefónne číslo
