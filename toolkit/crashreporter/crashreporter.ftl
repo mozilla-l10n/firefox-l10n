@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Adroddwr Chwalu
+# $details (String) - the reason that a crash report cannot be submitted
+crashreporter-error-details = Manylion: { $details }
 crashreporter-no-run-message = Mae'r rhaglen yn cael ei rhedeg ar ôl chwalfa er mwyn adrodd ar anhawster i ddarparwr y rhaglen.  Ni ddylai gael ei redeg yn uniongyrchol.
 crashreporter-button-details = Manylion…
 crashreporter-view-report-title = Cynnwys yr Adroddiad
