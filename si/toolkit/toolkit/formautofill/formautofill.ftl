@@ -25,3 +25,8 @@ autofill-card-network-mastercard = මාස්ටර් කාඩ්
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = යුනියන් පේ
 autofill-card-network-visa = වීසා
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = ලිපිනය
+autofill-category-name = නම
+autofill-category-organization = සංවිධානය
+autofill-category-tel = දුරකථනය
