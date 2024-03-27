@@ -78,5 +78,6 @@ autofill-phishing-warningmessage = Συμπληρώνει αυτόματα { $ca
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = διεύθυνση
 autofill-category-name = όνομα
+autofill-category-organization = εταιρεία
 autofill-category-tel = τηλέφωνο
 autofill-category-email = email
