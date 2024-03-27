@@ -24,6 +24,8 @@ autofill-options-link-osx = প্ৰ-পত্ৰ স্বয়ং-পূৰণ�
 
 # Used on the doorhanger when an credit card change is detected.
 
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = স্বয়ং-পূৰণ প্ৰ-পত্ৰ মচক
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
@@ -36,3 +38,19 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = লগতে { $categories } স্বয়ং-পূৰণ কৰে
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = { $categories } স্বয়ং-পূৰণ কৰে
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = ঠিকনা
+autofill-category-name = নাম
+autofill-category-organization = সংগঠন
+autofill-category-tel = ফোন
+autofill-category-email = ইমেইল
