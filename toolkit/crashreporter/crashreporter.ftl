@@ -17,6 +17,7 @@ crashreporter-submit-in-progress = يُرسِل بلاغك…
 crashreporter-submit-success = أُرسِل البلاغ بنجاح!
 crashreporter-submit-failure = حدثت مشكلة أثناء إرسال البلاغ.
 crashreporter-resubmit-status = يُعيد إرسال البلاغات التي فشل إرسالها في السابق…
+crashreporter-button-quit = اخرج من { -brand-short-name }
 crashreporter-button-restart = أعِد تشغيل { -brand-short-name }
 crashreporter-button-ok = حسنا
 crashreporter-button-close = أغلق
