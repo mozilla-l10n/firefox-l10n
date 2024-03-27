@@ -8,6 +8,7 @@ crashreporter-plea = Richin yojato' richin niqanik'oj chuqa' niqachojmirisaj re 
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Taq b'anikil:{ $details }
 crashreporter-no-run-message = Re chokoy re' tajin nitzijtäj chi rij jun sachoj richin nuya' rutzijol chi re ri rajya'öl. Man ta jujik natzïj.
+crashreporter-button-details = Kib'anikil…
 crashreporter-view-report-title = Rupam ri rutzijol
 crashreporter-comment-prompt = Titz'aqatisäx jun rutzijol (konojel winaqi' yetz'eto ri taq rutzijol)
 crashreporter-report-info = Re rutzijol re' chuqa' ruk'wan etamab'äl chi rij ri rub'anikil ri chokoy, toq xtz'apitäj.
@@ -18,6 +19,7 @@ crashreporter-submit-failure = Xk'ulwachitäj jun k'ayewal toq tajin nitaq ri at
 crashreporter-resubmit-status = Ketaq chik ri taq rutzijol, ri man xetikïr ta xetaq…
 crashreporter-button-quit = Tel el chupam ri { -brand-short-name }
 crashreporter-button-restart = Titikirisäx chik ri { -brand-short-name }
+crashreporter-button-ok = ÜTZ
 crashreporter-button-close = Titz'apïx
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Nimaläj rub'i' ri sachoj: { $id }
