@@ -63,3 +63,9 @@ autofill-card-network-mastercard = 마스터카드
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = 유니온페이
 autofill-card-network-visa = 비자카드
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = 주소
+autofill-category-name = 이름
+autofill-category-organization = 조직
+autofill-category-tel = 전화
+autofill-category-email = 이메일
