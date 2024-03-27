@@ -131,14 +131,25 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Rakstiet mazāk, atrodiet vairāk: Meklējiet ar { $engineName } adreses joslā.
 urlbar-search-tips-redirect-2 = Sāciet meklēšanu adreses joslā, lai redzētu ieteikumus no { $engineName } un pārlūkošanas vēstures.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Meklēšana ir kļuvusi vienkāršāka. Mēģiniet precizēt meklēšanu adreses joslā. Lai tā vietā rādītu URL, iestatījumos atveriet Meklēšana.
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = Atlasiet šo īsinājumtaustiņu, lai varētu ātrāk atrastu vajadzīgo.
 
 ## Local search mode indicator labels in the urlbar
 
+urlbar-search-mode-bookmarks = Grāmatzīmes
+urlbar-search-mode-tabs = Cilnes
+urlbar-search-mode-history = Vēsture
+urlbar-search-mode-actions = Darbības
 
 ##
 
 urlbar-geolocation-blocked =
     .tooltiptext = Jūs esat bloķējis atrašanās vietas informācijas koplietošanu ar šo tīmekļa vietni.
+urlbar-xr-blocked =
+    .tooltiptext = Jūs esat bloķējis virtuālās realitātes ierīces piekļuvi šai vietnei.
 urlbar-web-notifications-blocked =
     .tooltiptext = Jūs esat bloķējis paziņojumu saņemšanu no šīs tīmekļa vietnes.
 urlbar-camera-blocked =
@@ -157,6 +168,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Šīs lapas canvas datu ieguve ir bloķēta.
 urlbar-midi-blocked =
     .tooltiptext = MIDI izmantošana šajā lapā ir bloķēta.
+urlbar-install-blocked =
+    .tooltiptext = Jūs esat bloķējis papildinājumu instalēšanu šai vietnei.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -168,6 +181,12 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-manage-extension2 =
+    .label = Pārvaldīt paplašinājumu…
+    .accesskey = P
+page-action-remove-extension2 =
+    .label = Izņemt paplašinājumu
+    .accesskey = z
 
 ## Auto-hide Context Menu
 
@@ -180,6 +199,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Šoreiz meklējiet ar:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Mainīt meklēšanas iestatījumus
 search-one-offs-context-open-new-tab =
@@ -188,6 +210,23 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Iestatīt par noklusējuma meklētāju
     .accesskey = n
+search-one-offs-context-set-as-default-private =
+    .label = Iestatīt kā noklusējuma meklētājprogrammu privātajiem logiem
+    .accesskey = p
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = Pievienot “{ $engineName }”
+    .tooltiptext = Pievienot meklētājprogrammu “{ $engineName }”
+    .aria-label = Pievienot meklētājprogrammu “{ $engineName }”
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -200,6 +239,14 @@ search-one-offs-add-engine-menu =
 ##    restrict their searches to certain sources (e.g., "*" to search only
 ##    bookmarks).
 
+search-one-offs-bookmarks =
+    .tooltiptext = Grāmatzīmes ({ $restrict })
+search-one-offs-tabs =
+    .tooltiptext = Cilnes ({ $restrict })
+search-one-offs-history =
+    .tooltiptext = Vēsture ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = Darbības ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
