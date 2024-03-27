@@ -80,3 +80,4 @@ autofill-category-address = l’adresse
 autofill-category-name = le nom
 autofill-category-organization = société
 autofill-category-tel = le téléphone
+autofill-category-email = l’adresse e-mail
