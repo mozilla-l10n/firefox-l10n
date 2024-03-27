@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-title = 程式錯誤回報員
 crashreporter-crash-message = { -brand-short-name } 意外碰上問題而自行關閉。
 crashreporter-plea = 為了協助我們修正相關錯誤，煩請傳回錯誤關閉的資訊報表。
 # $details (String) - the reason that a crash report cannot be submitted
