@@ -76,5 +76,6 @@ autofill-phishing-warningmessage = { $categories } თვითშევსე�
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = მისამართი
 autofill-category-name = სახელი
+autofill-category-organization = დაწესებულება
 autofill-category-tel = ტელეფონი
 autofill-category-email = ელფოსტა
