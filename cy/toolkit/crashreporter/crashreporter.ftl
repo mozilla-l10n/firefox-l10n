@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Adroddwr Chwalu
+crashreporter-view-report-title = Cynnwys yr Adroddiad
 crashreporter-submit-success = Adroddiad wedi ei gyflwyno'n llwyddiannus!
 crashreporter-submit-failure = Bu anhawster wrth gyflwyno eich adroddiad.
 crashreporter-button-restart = Ailgychwyn { -brand-short-name }
