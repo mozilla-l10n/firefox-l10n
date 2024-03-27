@@ -12,11 +12,13 @@ crashreporter-button-details = Detaljar …
 crashreporter-view-report-title = Rapporter innhald
 crashreporter-comment-prompt = Legg til kommentar (kommentarar kan sjåast av andre)
 crashreporter-report-info = Denne rapporten inneheld og teknisk informasjon om tilstanden til programmet då det krasja.
+crashreporter-submit-status = Krasjrapporten din vil bli sendt før du avsluttar eller startar på nytt.
 crashreporter-submit-in-progress = Sender inn rapporten din …
 crashreporter-submit-success = Rapporten er sendt.
 crashreporter-submit-failure = Problem med å senda rapporten din.
 crashreporter-resubmit-status = Sender rapportar som tidlegare ikkje vart sendt …
 crashreporter-button-quit = Avslut { -brand-short-name }
+crashreporter-button-restart = Start { -brand-short-name } på nytt
 crashreporter-button-ok = OK
 crashreporter-button-close = Lat att
 # $id (String) - the crash id from the server, typically a UUID
