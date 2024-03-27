@@ -72,5 +72,6 @@ autofill-phishing-warningmessage = 自动填写 { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = 地址
 autofill-category-name = 姓名
+autofill-category-organization = 组织
 autofill-category-tel = 电话号码
 autofill-category-email = 电子邮箱
