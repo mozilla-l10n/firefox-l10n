@@ -15,6 +15,7 @@ crashreporter-report-info = Acest raport conține și informații tehnice cu pri
 crashreporter-submit-status = Raportul de defecțiuni va fi trimis înainte să ieși sau sau să repornești.
 crashreporter-submit-in-progress = Se trimite raportul…
 crashreporter-submit-success = Raport trimis cu succes!
+crashreporter-submit-failure = A apărut o problemă la trimiterea raportului.
 crashreporter-resubmit-status = Se retrimit rapoartele a căror trimitere a eșuat…
 crashreporter-button-quit = Închide { -brand-short-name }
 crashreporter-button-restart = Repornește { -brand-short-name }
