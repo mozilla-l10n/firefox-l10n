@@ -13,6 +13,8 @@ crashreporter-submit-failure = Υπήρξε ένα πρόβλημα κατά τ�
 crashreporter-resubmit-status = Αποστολή ξανά προηγούμενων μη απεσταλμένων αναφορών…
 crashreporter-button-quit = Έξοδος { -brand-short-name }
 crashreporter-button-close = Κλείσιμο
+# $id (String) - the crash id from the server, typically a UUID
+crashreporter-crash-identifier = Αναγνωριστικό προβλήματος: { $id }
 
 # Error strings
 
