@@ -43,3 +43,4 @@ autofill-category-address = dirección
 autofill-category-name = nombre
 autofill-category-organization = organización
 autofill-category-tel = teléfono
+autofill-category-email = correo
