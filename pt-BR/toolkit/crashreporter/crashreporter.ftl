@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-crash-message = O { -brand-short-name } teve um problema e travou.
+crashreporter-plea = Para ajudar a diagnosticar e reparar o problema, você pode enviar um relatório do travamento.
 crashreporter-no-run-message = Este aplicativo é executado depois de um travamento para informar o problema para o fornecedor do aplicativo. Não deve ser executado diretamente.
 crashreporter-button-details = Detalhes…
 crashreporter-view-report-title = Conteúdo do relatório
@@ -10,7 +12,9 @@ crashreporter-report-info = Este relatório também contém informações técni
 crashreporter-submit-status = O relatório de travamento será enviado antes de você sair ou reiniciar.
 crashreporter-submit-in-progress = Enviando relatório…
 crashreporter-submit-success = Relatório enviado com êxito!
+crashreporter-submit-failure = Houve um problema ao enviar o relatório.
 crashreporter-resubmit-status = Enviando relatórios que não puderam ser enviados antes…
+crashreporter-button-quit = Encerrar { -brand-short-name }
 crashreporter-button-restart = Reiniciar o { -brand-short-name }
 crashreporter-button-ok = OK
 crashreporter-button-close = Fechar
