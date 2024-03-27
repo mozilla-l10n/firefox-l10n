@@ -47,6 +47,8 @@ credit-card-capture-save-new-button =
 credit-card-capture-update-button =
     .label = Actualisar ina carta existenta
     .accessKey = u
+# Label for the button in the dropdown menu used to clear the populated form.
+autofill-clear-form-label = Allontanar las datas da l'endataziun automatica
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Administrar las adressas
 
@@ -61,3 +63,19 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
+# The warning text that is displayed for informing users what categories are
+# about to be filled.  The text would be, for example,
+#   Also autofills organization, phone, email.
+# Variables:
+#   $categories - one or more of the categories, see autofill-category-X below
+autofill-phishing-warningmessage-extracategory = Endatescha era automaticamain { $categories }
+# Variation when all are in the same category.
+# Variables:
+#   $categories - one or more of the categories
+autofill-phishing-warningmessage = Endatescha automaticamain { $categories }
+# Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
+autofill-category-address = adressa
+autofill-category-name = num
+autofill-category-organization = organisaziun
+autofill-category-tel = telefon
+autofill-category-email = e-mail
