@@ -17,6 +17,7 @@ crashreporter-submit-in-progress = Bejelentés elküldése...
 crashreporter-submit-success = A bejelentés sikeresen el lett küldve!
 crashreporter-submit-failure = A bejelentés elküldésekor hiba lépett fel.
 crashreporter-resubmit-status = A korábban sikertelenül elküldött bejelentések újraküldése...
+crashreporter-button-quit = { -brand-short-name } bezárása
 crashreporter-button-restart = { -brand-short-name } újraindítása
 crashreporter-button-ok = OK
 crashreporter-button-close = Bezárás
