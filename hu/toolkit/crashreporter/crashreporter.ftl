@@ -4,6 +4,7 @@
 
 crashreporter-crash-message = A(z) { -brand-short-name } alkalmazásnak problémája támadt, és összeomlott.
 crashreporter-plea = Segítsen diagnosztizálni és megoldani a problémát, küldje el az összeomlási jelentést.
+crashreporter-no-run-message = Ez az alkalmazás egy összeomlás után fut le, hogy értesítse a problémáról az alkalmazás fejlesztőjét. Közvetlenül nem futtatható.
 crashreporter-button-details = Részletek...
 crashreporter-view-report-title = A bejelentés tartalma
 crashreporter-comment-prompt = Megjegyzés hozzáadása (a megjegyzések nyilvánosságra kerülnek)
