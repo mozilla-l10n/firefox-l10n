@@ -510,10 +510,41 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Meklēt tīmeklī
     .aria-label = Meklēt ar { $name }
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = Ievadiet meklēšanas tekstu
+    .aria-label = Meklēt ar { $name }
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = Ievadiet meklēšanas tekstu
+    .aria-label = Meklēt grāmatzīmēs
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = Ievadiet meklēšanas tekstu
+    .aria-label = Meklēt vēsturē
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = Ievadiet meklēšanas tekstu
+    .aria-label = Meklēt cilnēs
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Ievadiet meklēšanas tekstu
+    .aria-label = Meklēt darbībās
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Meklēt ar { $name } vai ievadiet mājas lapas adresi
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Pārlūks tiek kontrolēts attālināti (iemesls: { $component })
+urlbar-permissions-granted =
+    .tooltiptext = Jūs esat piešķīris šai vietnei papildu atļaujas.
 urlbar-switch-to-tab =
     .value = Pārslēgties uz cilni:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -527,18 +558,64 @@ urlbar-page-action-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = Meklēt ar { $engine } privātajā logā
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = Meklēt privātajā logā
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Meklēt ar { $engine }
+urlbar-result-action-sponsored = Sponsorēts
 urlbar-result-action-switch-tab = Pāriet uz cilni
 urlbar-result-action-visit = Apmeklēt
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Pārslēgties uz cilni · <span>{ $container }</span>
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Apmeklēt no starpliktuves
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Nospiediet tabulēšanas taustiņu, lai meklētu ar { $engine }
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Nospiediet tabulēšanas taustiņu, lai meklētu ar { $engine }
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Meklēt ar { $engine } no adreses joslas
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Meklēt ar { $engine } no adreses joslas
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = Kopēt
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = = { $result }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
+urlbar-result-action-search-bookmarks = Meklēt grāmatzīmēs
+urlbar-result-action-search-history = Meklēt vēsturē
+urlbar-result-action-search-tabs = Meklēt cilnēs
 
 ## Labels shown above groups of urlbar results
 
@@ -663,12 +740,20 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Daži audio un video šajā lapā izmanto DRM, kas var ierobežot ko { -brand-short-name } var darīt ar tiem.
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = Noraidīt
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = Lietotājvārds
+panel-save-update-password = Parole
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = Vairāk…
 ui-tour-info-panel-close =
     .tooltiptext = Aizvērt
 
@@ -687,16 +772,33 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Nerādīt šo paziņojumu, bloķējot jaunos logus
     .accesskey = D
+edit-popup-settings =
+    .label = Pārvaldīt uznirstošo logu iestatījumus…
+    .accesskey = m
+picture-in-picture-hide-toggle =
+    .label = Slēpt attēls-attēlā pārslēgšanu
+    .accesskey = S
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = Pārvietot attēls-attēlā pārslēgu uz labo pusi
+    .accesskey = r
+picture-in-picture-move-toggle-left =
+    .label = Pārvietot attēls-attēlā pārslēgu uz kreiso pusi
+    .accesskey = l
 
 ##
 
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = Navigācija
 navbar-downloads =
     .label = Lejupielādes
 navbar-overflow =
