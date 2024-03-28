@@ -4,7 +4,7 @@
 
 crashreporter-title = کریش رپورٹر
 crashreporter-crash-message = { -brand-short-name } وِچ ہک مسئلہ ہا تے کریش تھی ڳیا ہے۔
-crashreporter-plea = { " " }مسئلہ دی تشخیص تے اینکوں ٹھیک کرݨ وِچ اساݙی مدد کیتے، تساں اساکوں کریش رپورٹ بھیڄ سڳدے او۔
+crashreporter-plea = مسئلہ دی تشخیص تے اینکوں ٹھیک کرݨ وِچ اساݙی مدد کیتے، تساں اساکوں کریش رپورٹ بھیڄ سڳدے او۔
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = تفصیلاں: { $details }
 crashreporter-no-run-message = ایہ ایپلی کیشن کریش دے بعد ایپلی کیشن وینڈر کوں مسئلہ دی اطلاع ݙیوݨ کیتے چلائی ویندی ہے۔ اینکوں براہ راست نہیں چلاوݨا چاہیدا ہے۔
