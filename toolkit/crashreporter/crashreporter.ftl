@@ -4,7 +4,7 @@
 
 crashreporter-title = Վթարի զեկոյց
 crashreporter-crash-message = { -brand-short-name } -ը հանդիպեց խնդրի եւ փակուեց:
-crashreporter-plea = { " " }Դուք կարող էք աւգնել մեզ յայտնաբերել եւ շտկել խնդիրը՝ ուղարկելով վթարի մասին զեկոյց:
+crashreporter-plea = Դուք կարող էք աւգնել մեզ յայտնաբերել եւ շտկել խնդիրը՝ ուղարկելով վթարի մասին զեկոյց:
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Մանրամասներ՝ { $details }
 crashreporter-no-run-message = Այս ծրագիրն աշխատում է ծրագրի վթարային փակումից յետոյ, որպէսզի արտադրողին զեկուցի խնդրի մասին: Այն չպէտք է աշխատեցնել անմիջականաւրէն:
