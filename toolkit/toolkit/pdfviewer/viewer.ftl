@@ -387,3 +387,10 @@ pdfjs-editor-colorpicker-pink =
     .title = Ροζ
 pdfjs-editor-colorpicker-red =
     .title = Κόκκινο
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+pdfjs-editor-highlight-show-all-button-label = Εμφάνιση όλων
+pdfjs-editor-highlight-show-all-button =
+    .title = Εμφάνιση όλων

@@ -9,6 +9,7 @@ crashreporter-plea = Για να μας βοηθήσετε στη διάγνωσ
 crashreporter-error-details = Λεπτομέρειες: { $details }
 crashreporter-no-run-message = Αυτή η εφαρμογή εκτελείται μετά από μια κατάρρευση για την αναφορά του προβλήματος στον δημιουργό της εφαρμογής. Δεν θα πρέπει να εκτελείται χειροκίνητα.
 crashreporter-button-details = Λεπτομέρειες…
+crashreporter-loading-details = Φόρτωση…
 crashreporter-view-report-title = Περιεχόμενα αναφοράς
 crashreporter-comment-prompt = Προσθήκη σχολίου (τα σχόλια είναι ορατά δημόσια)
 crashreporter-report-info = Αυτή η αναφορά περιέχει ακόμα πληροφορίες για την κατάσταση της εφαρμογής την στιγμή που κόλλησε.
@@ -26,3 +27,13 @@ crashreporter-crash-identifier = Αναγνωριστικό προβλήματο
 
 # Error strings
 
+# $path (String) - the file path
+crashreporter-error-opening-file = Αποτυχία ανοίγματος αρχείου ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = Αποτυχία φόρτωσης αρχείου ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = Αποτυχία δημιουργίας καταλόγου ({ $path })
+crashreporter-error-no-home-dir = Απουσία αρχικού καταλόγου
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Αποτυχία μετακίνησης από { $from } σε { $to }
