@@ -40,3 +40,7 @@ crashreporter-error-opening-file = Échec de l’ouverture du fichier ({ $path }
 crashreporter-error-loading-file = Échec du chargement du fichier ({ $path })
 # $path (String) - the path
 crashreporter-error-creating-dir = Échec de la création du dossier ({ $path })
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Impossible de déplacer { $from } vers { $to }
+crashreporter-error-version-eol = Fin de vie de cette version : les rapports de plantage ne sont plus acceptés.
