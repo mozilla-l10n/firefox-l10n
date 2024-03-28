@@ -428,3 +428,15 @@ pointing-device-mouse = Mouse
 pointing-device-touchscreen = Touch screen
 pointing-device-pen-digitizer = Caneta digitalizadora
 pointing-device-none = Nenhum dispositivo de apontamento
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Análise de conteúdo (DLP)
+content-analysis-active = Ativo
+content-analysis-connected-to-agent = Conectado ao agente
+content-analysis-agent-path = Caminho do agente
+content-analysis-agent-failed-signature-verification = Falha na verificação de assinatura do agente
+content-analysis-request-count = Número de requisições
