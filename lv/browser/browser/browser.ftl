@@ -616,9 +616,28 @@ urlbar-result-action-calculator-result = = { $result }
 urlbar-result-action-search-bookmarks = Meklēt grāmatzīmēs
 urlbar-result-action-search-history = Meklēt vēsturē
 urlbar-result-action-search-tabs = Meklēt cilnēs
+urlbar-result-action-search-actions = Meklēšanas darbības
 
 ## Labels shown above groups of urlbar results
 
+# A label shown above the "Firefox Suggest" (bookmarks/history) group in the
+# urlbar results.
+urlbar-group-firefox-suggest =
+    .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } ieteikumi
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = Ātrās darbības
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Nesenie meklējumi
 
 ## Reader View toolbar buttons
 
@@ -633,6 +652,15 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Atvērt attēls-attēlā ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Aizvērt attēls-attēlā ({ $shortcut })
+picture-in-picture-panel-header = Attēls-attēlā
+picture-in-picture-panel-headline = Šī vietne neiesaka attēls-attēlā
+picture-in-picture-panel-body = Videoklipi var netikt parādīti tā, kā to paredzējis izstrādātājs, ja tiek izmantota funkcija attēls-attēlā.
+picture-in-picture-enable-toggle =
+    .label = Tomēr ieslēgt
 
 ## Full Screen and Pointer Lock UI
 
@@ -652,6 +680,9 @@ pointerlock-warning-no-domain = Šis dokuments kontrolē kursoru. Nospiediet tau
 
 ## Bookmarks panels, menus and toolbar
 
+bookmarks-manage-bookmarks =
+    .label = Pārvaldīt grāmatzīmes
+bookmarks-recent-bookmarks-panel-subheader = Nesenās grāmatzīmes
 bookmarks-toolbar-chevron =
     .tooltiptext = Rādīt vairāk grāmatzīmju
 bookmarks-sidebar-content =
@@ -679,6 +710,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] Slēpt grāmatzīmju rīkjoslu
            *[other] Rādīt grāmatzīmju rīkjoslu
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] Slēpt grāmatzīmju rīkjoslu
+           *[other] Rādīt grāmatzīmju rīkjoslu
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -692,32 +729,64 @@ bookmarks-search =
     .label = Meklēt grāmatzīmes
 bookmarks-tools =
     .label = Grāmatzīmju rīki
+bookmarks-subview-edit-bookmark =
+    .label = Rediģēt šo grāmatzīmi…
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = Grāmatzīmju rīkjosla
+    .accesskey = G
+    .aria-label = Grāmatzīme
 bookmarks-toolbar-menu =
     .label = Grāmatzīmju rīkjosla
 bookmarks-toolbar-placeholder =
     .title = Grāmatzīmju rīkjoslas elementi
 bookmarks-toolbar-placeholder-button =
     .label = Grāmatzīmju rīkjoslas elementi
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Saglabāt grāmatzīmēs pašreizējo cilni...
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = Grāmatzīmes
+library-recent-activity-title =
+    .value = Nesenās aktivitātes
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = Saglabāt { -pocket-brand-name }
+    .tooltiptext = Saglabāt { -pocket-brand-name }
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Labot teksta kodējumu
+    .tooltiptext = Minēt pareizo teksta kodējumu, vadoties no lapas satura
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = Iestatījumi
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Atvērt iestatījumus ({ $shortcut })
+           *[other] Atvērt iestatījumus
+        }
 toolbar-overflow-customize-button =
     .label = Pielāgot rīkjoslu…
     .accesskey = P
 toolbar-button-email-link =
     .label = Nosūtīt saiti
     .tooltiptext = Nosūtīt saiti epastā
+toolbar-button-logins =
+    .label = Paroles
+    .tooltiptext = Skatīt un pārvaldīt savas saglabātās paroles
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -740,6 +809,7 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Daži audio un video šajā lapā izmanto DRM, kas var ierobežot ko { -brand-short-name } var darīt ar tiem.
+eme-notifications-drm-content-playing-manage = Pārvaldīt iestatījumus
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Noraidīt
 eme-notifications-drm-content-playing-dismiss-accesskey = D
@@ -908,6 +978,7 @@ firefox-relay-offer-legal-notice = Noklikšķinot uz “Izmantot e-pasta masku�
 
 popup-notification-addon-install-unsigned =
     .value = (Nepārbaudīts)
+popup-notification-xpinstall-prompt-learn-more = Uzziniet vairāk par papildinājumu drošu instalēšanu
 
 ## Pop-up warning
 
