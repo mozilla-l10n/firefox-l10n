@@ -125,6 +125,7 @@ policy-SSLVersionMax = 設定最大 SSL 版本。
 policy-SSLVersionMin = 設定最小 SSL 版本。
 policy-StartDownloadsInTempDirectory = 強制在本機的暫存位置，而非預設下載目錄開始下載。
 policy-SupportMenu = 於說明選單內新增自訂的技術支援項目。
+policy-TranslateEnabled = 啟用或停用網頁翻譯功能。
 policy-UserMessaging = 不要對使用者顯示某些訊息。
 policy-UseSystemPrintDialog = 使用系統列印對話框列印。
 # “format” refers to the format used for the value of this policy.
