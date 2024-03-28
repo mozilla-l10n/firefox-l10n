@@ -13,6 +13,7 @@ crashreporter-loading-details = Φόρτωση…
 crashreporter-view-report-title = Περιεχόμενα αναφοράς
 crashreporter-comment-prompt = Προσθήκη σχολίου (τα σχόλια είναι ορατά δημόσια)
 crashreporter-report-info = Αυτή η αναφορά περιέχει ακόμα πληροφορίες για την κατάσταση της εφαρμογής την στιγμή που κόλλησε.
+crashreporter-include-url = Να συμπεριληφθεί η διεύθυνση της σελίδας που βρισκόμουν.
 crashreporter-submit-status = Η αναφορά κατάρρευσης θα υποβληθεί πριν από την επανεκκίνηση ή το κλείσιμο της εφαρμογής.
 crashreporter-submit-in-progress = Υποβολή της αναφοράς σας…
 crashreporter-submit-success = Η αναφορά υποβλήθηκε επιτυχώς!
@@ -24,9 +25,12 @@ crashreporter-button-ok = OK
 crashreporter-button-close = Κλείσιμο
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Αναγνωριστικό προβλήματος: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Μπορείτε να δείτε τις λεπτομέρειες αυτής της κατάρρευσης στο { $url }.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Αποτυχία εκτέλεσης του minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Αποτυχία ανοίγματος αρχείου ({ $path })
 # $path (String) - the file path
@@ -37,3 +41,4 @@ crashreporter-error-no-home-dir = Απουσία αρχικού καταλόγο
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Αποτυχία μετακίνησης από { $from } σε { $to }
+crashreporter-error-version-eol = Λήξη ισχύος έκδοσης: οι αναφορές καταρρεύσεων δεν γίνονται πλέον αποδεκτές.

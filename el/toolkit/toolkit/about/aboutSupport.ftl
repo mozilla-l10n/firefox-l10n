@@ -439,3 +439,4 @@ pointing-device-none = Δεν υπάρχουν συσκευές κατάδειξ
 # to external websites.
 content-analysis-title = Ανάλυση περιεχομένου (DLP)
 content-analysis-active = Ενεργή
+content-analysis-request-count = Αριθμός αιτημάτων

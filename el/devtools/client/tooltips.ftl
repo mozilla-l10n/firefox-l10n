@@ -38,6 +38,11 @@ inactive-css-not-table-cell = Το <strong>{ $property }</strong> δεν έχε�
 inactive-scroll-padding-when-not-scroll-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν κάνει κύλιση.
 inactive-css-border-image = Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο, επειδή δεν μπορεί να εφαρμοστεί σε εσωτερικά στοιχεία πίνακα όπου το <strong>border-collapse</strong> έχει οριστεί σε <strong>collapse</strong>, στο στοιχείο γονικού πίνακα.
 inactive-css-ruby-element = Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο, επειδή είναι στοιχείο ruby. Το μέγεθός του καθορίζεται από το μέγεθος γραμματοσειράς του κειμένου ruby.
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται στα ψευδοστοιχεία επισήμανσης.
 inactive-css-cue-pseudo-element-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται σε ψευδοστοιχεία ::cue.
 # Variables:
@@ -51,9 +56,11 @@ inactive-css-text-wrap-balance-fragmented = Το <strong>{ $property }</strong> 
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong> ή το <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong>, το <strong>display:flex</strong> ή το <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong>, το <strong>display:flex</strong> ή το <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Δοκιμάστε να προσθέσετε είτε το <strong>column-count</strong> είτε το <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Δοκιμάστε να προσθέσετε το <strong>display:grid</strong>, το <strong>display:flex</strong>, το <strong>display:inline-grid</strong> ή το <strong>display:inline-flex</strong> στο γονικό στοιχείο. { learn-more }
