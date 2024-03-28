@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = Atjaunot noklusēto
+    .label = Atjaunot noklusējumus
 customize-mode-menu-and-toolbars-header = Pārvelciet savas iecienītās lietas rīlkjoslā vai sānu izvēlnē.
 customize-mode-overflow-list-title = Pārplūdes izvēlne
 customize-mode-uidensity =
@@ -22,8 +22,17 @@ customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Izmantot piesākrienus planšetes režīmā
 customize-mode-overflow-list-description = Pārvelciet šeit lietas, ko gribat paturēt tuvumā, bet negribat likt kādā no izvēlnēm…
 customize-mode-uidensity-menu-normal =
-    .label = Normāls
-    .accesskey = N
-    .tooltiptext = Normāls
+    .label = Parasts
+    .accesskey = r
+    .tooltiptext = Parasts
+customize-mode-uidensity-menu-compact-unsupported =
+    .label = Kompakts (nav atbalstīts)
+    .accesskey = K
+    .tooltiptext = Kompakts (nav atbalstīts)
 customize-mode-undo-cmd =
     .label = Atsaukt
+customize-mode-lwthemes-link = Pārvaldīt motīvus
+customize-mode-touchbar-cmd =
+    .label = Pielāgot skārienjoslu…
+customize-mode-downloads-button-autohide =
+    .label = Paslēpt pogu, kad tukša
