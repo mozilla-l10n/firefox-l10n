@@ -28,9 +28,12 @@ crashreporter-button-ok = 確定
 crashreporter-button-close = 關閉
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = 報表編號: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = 您可以到 { $url } 查閱此次錯誤的細節。
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = minidump-analyzer 執行失敗
 # $path (String) - the file path
 crashreporter-error-opening-file = 檔案開啟失敗（{ $path }）
 # $path (String) - the file path
@@ -41,3 +44,4 @@ crashreporter-error-no-home-dir = 缺少家目錄
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = 無法將 { $from } 移動至 { $to }
+crashreporter-error-version-eol = 版本過舊：已不再接受錯誤回報。

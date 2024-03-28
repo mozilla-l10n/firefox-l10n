@@ -419,4 +419,7 @@ pointing-device-none = 無指向裝置
 # to external websites.
 content-analysis-title = 內容分析（DLP）
 content-analysis-active = 使用中
+content-analysis-connected-to-agent = 已連線到代理程式
+content-analysis-agent-path = 代理程式路徑
+content-analysis-agent-failed-signature-verification = 代理程式簽章驗證失敗
 content-analysis-request-count = 請求數量
