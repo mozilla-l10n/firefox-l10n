@@ -304,6 +304,12 @@ pdfjs-editor-stamp-button-label = Προσθήκη ή επεξεργασία ε�
 pdfjs-editor-highlight-button =
     .title = Επισήμανση
 pdfjs-editor-highlight-button-label = Επισήμανση
+pdfjs-highlight-floating-button =
+    .title = Επισήμανση
+pdfjs-highlight-floating-button1 =
+    .title = Επισήμανση
+    .aria-label = Επισήμανση
+pdfjs-highlight-floating-button-label = Επισήμανση
 
 ## Remove button for the various kind of editor.
 
