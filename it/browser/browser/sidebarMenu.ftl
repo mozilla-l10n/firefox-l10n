@@ -19,3 +19,4 @@ sidebar-menu-close =
 
 sidebar-close-button =
     .tooltiptext = Chiudi la barra laterale
+

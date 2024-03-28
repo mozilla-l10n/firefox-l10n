@@ -80,3 +80,4 @@ autofill-category-name = nome
 autofill-category-organization = organizzazione
 autofill-category-tel = telefono
 autofill-category-email = email
+
