@@ -408,3 +408,15 @@ pointing-device-mouse = 마우스
 pointing-device-touchscreen = 터치 스크린
 pointing-device-pen-digitizer = 펜 디지타이저
 pointing-device-none = 포인팅 기기 없음
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = 콘텐츠 분석 (DLP)
+content-analysis-active = 활성화
+content-analysis-connected-to-agent = 에이전트에 연결됨
+content-analysis-agent-path = 에이전트 경로
+content-analysis-agent-failed-signature-verification = 에이전트가 서명 확인에 실패함
+content-analysis-request-count = 요청 수
