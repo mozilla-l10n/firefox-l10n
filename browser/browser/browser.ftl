@@ -829,9 +829,13 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Vai atvērt iepriekšējās cilnes?</strong> Iepriekšējo sesiju varat atjaunot { -brand-short-name } lietotnes izvēlnē <img data-l10n-name="icon"/> sadaļā Vēsture.
+restore-session-startup-suggestion-button = Atvērt pamācību
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Jūsu organizācija ir bloķējusi piekļuvi vietējām datnēm šajā datorā
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -839,20 +843,50 @@ data-reporting-notification-message = { -brand-short-name } automātiski nosūta
 data-reporting-notification-button =
     .label = Izvēlēties ar ko dalīties
     .accesskey = d
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = Privātā pārlūkošana
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = Paplašinājumi
+    .tooltiptext = Paplašinājumi
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = Paplašinājumi
+    .tooltiptext =
+        Paplašinājumi
+        Ir nepieciešamas atļaujas
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Paplašinājumi
+    .tooltiptext =
+        Paplašinājumi
+        Daži paplašinājumi nav atļauti
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Beigt privāto sesiju
+    .tooltiptext = Beigt privāto sesiju
+reset-pbm-panel-heading = Beigt savu privāto sesiju?
+reset-pbm-panel-description = Aizvērt visas privātās cilnes un dzēst vēsturi, sīkdatnes un visus citus vietnes datus.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Vienmēr man jautāt
+    .accesskey = V
+reset-pbm-panel-cancel-button =
+    .label = Atcelt
+    .accesskey = c
+reset-pbm-panel-confirm-button =
+    .label = Dzēst sesijas datus
+    .accesskey = D
+reset-pbm-panel-complete = Privātās sesijas dati ir izdzēsti
 
 ## Autorefresh blocker
 
@@ -864,6 +898,11 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = Mūsu drošās, ērti lietojamās maskas aizsargā jūsu identitāti un novērš mēstules, slēpjot jūsu e-pasta adresi.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Visas e-pasta vēstules, kas ir nosūtītas uz jūsu e-pasta maskām, tiks pārsūtītas uz <strong>{ $useremail }</strong> (ja vien neizlemsit tās bloķēt).
+firefox-relay-offer-legal-notice = Noklikšķinot uz “Izmantot e-pasta masku”, jūs piekrītat <label data-l10n-name="tos-url">pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">privātuma paziņojumam </label>.
 
 ## Add-on Pop-up Notifications
 
