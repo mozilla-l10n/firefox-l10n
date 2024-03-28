@@ -38,6 +38,11 @@ inactive-css-not-table-cell = 由於不是表格欄位，<strong>{ $property }</
 inactive-scroll-padding-when-not-scroll-container = 由於不會捲動，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-border-image = 由於父階層表格元素的 <strong>border-collapse</strong> 設定為 <strong>collapse</strong>，無法套用到內部的表格元素，<strong>{ $property }</strong> 對此元素無效。
 inactive-css-ruby-element = 由於此元素是 ruby 元素，<strong>{ $property }</strong> 無效。此元素大小是由 ruby 文字的大小所決定的。
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = 強調的 pseudo-elements 不支援 <strong>{ $property }</strong>。
 inactive-css-cue-pseudo-element-not-supported = ::cue 偽元素不支援 <strong>{ $property }</strong>。
 # Variables:
@@ -47,9 +52,11 @@ inactive-css-text-wrap-balance-fragmented = 由於是分段的元素（內容拆
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = 請嘗試加入 <strong>display:grid</strong> 或 <strong>display:flex</strong>。{ learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = 請嘗試加入 <strong>display:grid</strong>、<strong>display:flex</strong> 或 <strong>display:block</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = 請嘗試加入 <strong>display:grid</strong>、<strong>display:flex</strong> 或 <strong>columns:2</strong>。{ learn-more }
 inactive-css-not-multicol-container-fix = 請嘗試加入 <strong>column-count</strong> 或 <strong>column-width</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = 請嘗試為元素的父元素加入 <strong>display:grid</strong>、<strong>display:flex</strong>、<strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }

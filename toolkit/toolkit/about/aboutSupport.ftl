@@ -411,3 +411,12 @@ pointing-device-mouse = 滑鼠
 pointing-device-touchscreen = 觸控螢幕
 pointing-device-pen-digitizer = 繪圖板
 pointing-device-none = 無指向裝置
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = 內容分析（DLP）
+content-analysis-active = 使用中
+content-analysis-request-count = 請求數量
