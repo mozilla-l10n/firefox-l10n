@@ -28,6 +28,20 @@ crashreporter-button-ok = OK
 crashreporter-button-close = Закрыть
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = ID падения: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Вы можете просмотреть подробности об этом падении по адресу { $url }.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Не удалось запустить анализатор минидампов
+# $path (String) - the file path
+crashreporter-error-opening-file = Не удалось открыть файл ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = Не удалось загрузить файл ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = Не удалось создать каталог ({ $path })
+crashreporter-error-no-home-dir = Отсутствует домашний каталог
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Не удалось переместить { $from } в { $to }
+crashreporter-error-version-eol = Конец жизненного цикла версии: сообщения о падениях больше не принимаются.
