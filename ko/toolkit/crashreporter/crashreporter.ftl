@@ -38,3 +38,10 @@ crashreporter-error-minidump-analyzer = 미니덤프 분석기를 실행하지 �
 crashreporter-error-opening-file = 파일을 열지 못함 ({ $path })
 # $path (String) - the file path
 crashreporter-error-loading-file = 파일을 로드하지 못함 ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = 디렉터리를 생성하지 못함 ({ $path })
+crashreporter-error-no-home-dir = 홈 디렉터리가 없음
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = { $from }을(를) { $to }(으)로 이동하지 못함
+crashreporter-error-version-eol = 버전 수명 종료: 충돌 보고서가 더 이상 허용되지 않습니다.
