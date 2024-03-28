@@ -432,6 +432,27 @@ browser-tab-audio-pip = ATTĒLS-ATTĒLĀ
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] APKLUSINĀT CILNI
+        [zero] APKLUSINĀT { $count } CILNI
+        [one] APKLUSINĀT { $count } CILNES
+       *[other] APKLUSINĀT { $count } CILŅU
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ATJAUNOT SKAŅU CILNEI
+        [zero] ATJAUNOT SKAŅU { $count } CILNEI
+        [one] ATJAUNOT SKAŅU { $count } CILNĒM
+       *[other] ATJAUNOT SKAŅU { $count } CILNĒM
+    }
+browser-tab-unblock =
+    { $count ->
+        [1] ATSKAŅOT CILNI
+        [zero] ATSKAŅOT { $count } CILNI
+        [one] ATSKAŅOT { $count } CILNES
+       *[other] ATSKAŅOT { $count } CIĻŅU
+    }
 
 ## Bookmarks toolbar items
 
