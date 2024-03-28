@@ -5,13 +5,13 @@
 crashreporter-title = Kraschrapportör
 crashreporter-crash-message = { -brand-short-name } har stött på problem och kraschat.
 crashreporter-plea = För att hjälpa oss att diagnostisera och lösa problemet kan du skicka oss en kraschrapport.
-crashreporter-information = Det här programmet körs efter en krasch för att rapportera problemet till { -vendor-short-name }. Den ska inte köras direkt.
+crashreporter-information = Det här programmet körs efter en krasch för att rapportera problemet till { -vendor-short-name }. Det ska inte köras direkt.
 crashreporter-error = { -brand-short-name } hade ett problem och kraschade. Tyvärr kan inte kraschrapportören skicka en rapport för denna krasch.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljer: { $details }
 crashreporter-no-run-message = Det här programmet körs efter en krasch för att rapportera problemet till programmakaren.  Det ska inte köras på egen hand.
 crashreporter-button-details = Detaljer…
-crashreporter-loading-details = Hämtar…
+crashreporter-loading-details = Laddar…
 crashreporter-view-report-title = Rapportinnehåll
 crashreporter-comment-prompt = Lägg till en kommentar (kommentarer är offentligt tillgängliga)
 crashreporter-report-info = Den här rapporten innehåller också teknisk information om programförhållandena vid kraschen.
