@@ -446,3 +446,6 @@ pointing-device-none = Žane pokazowanske graty
 # to external websites.
 content-analysis-title = Analyza wobsaha (DLP)
 content-analysis-active = Aktiwny
+content-analysis-connected-to-agent = Z agentom zwjazany
+content-analysis-agent-path = Šćežka agenta
+content-analysis-request-count = Ličba naprašowanjow
