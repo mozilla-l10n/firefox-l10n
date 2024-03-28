@@ -28,6 +28,13 @@ crashreporter-button-ok = 확인
 crashreporter-button-close = 닫기
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = 충돌 ID: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = { $url }에서 이 충돌에 대한 자세한 정보를 볼 수 있습니다.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = 미니덤프 분석기를 실행하지 못함
+# $path (String) - the file path
+crashreporter-error-opening-file = 파일을 열지 못함 ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = 파일을 로드하지 못함 ({ $path })
