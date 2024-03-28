@@ -456,16 +456,42 @@ browser-tab-unblock =
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = Importēt grāmatzīmes…
+    .tooltiptext = Importēt grāmatzīmes no cita pārlūka uz { -brand-short-name }.
+bookmarks-toolbar-empty-message = Lai ātri piekļūtu, lieciet grāmatzīmes šeit — grāmatzīmju rīkjoslā. <a data-l10n-name="manage-bookmarks">Pārvaldīt grāmatzīmes...</a>
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = Kamera:
+    .accesskey = K
+popup-select-camera-icon =
+    .tooltiptext = Kamera
+popup-select-microphone-device =
+    .value = Mikrofons:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = Mikrofons
+popup-select-speaker-icon =
+    .tooltiptext = Skaļruņi
+popup-select-window-or-screen =
+    .label = Logs vai ekrāns:
+    .accesskey = L
 popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Jūs kopīgojat { -brand-short-name }. Citi cilvēki var redzēt, kad pārslēdzaties uz jaunu cilni.
+sharing-warning-screen = Jūs kopīgojat visu ekrānu. Citi cilvēki var redzēt, kad pārslēdzaties uz jaunu cilni.
+sharing-warning-proceed-to-tab =
+    .label = Pāriet uz cilni
+sharing-warning-disable-for-session =
+    .label = Izslēgt koplietošanas aizsardzību šai sesijai
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description2 = Lai izmantotu īsinājumtaustiņu F12, vispirms atveriet Izstrādātju Rīki, izmantojot izvēlni Pārlūka Rīki.
 
 ## URL Bar
 
@@ -476,6 +502,14 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = Meklēt tīmeklī
+    .aria-label = Meklēt ar { $name }
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
