@@ -204,6 +204,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = أزل الحاوية
 containers-remove-cancel-button = لا تزِل هذه الحاوية
+settings-tabs-show-image-in-preview =
+    .label = أظهِر معاينة الصورة عند التحويم فوق اللسان
+    .accessKey = ع
 
 ## General Section - Language & Appearance
 
@@ -849,6 +852,10 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = كلمات السر
+    .searchkeywords = س
 forms-exceptions =
     .label = الاستثناءات…
     .accesskey = س
