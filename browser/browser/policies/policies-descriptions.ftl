@@ -125,6 +125,7 @@ policy-SSLVersionMax = Set the maximum SSL version.
 policy-SSLVersionMin = Set the minimum SSL version.
 policy-StartDownloadsInTempDirectory = Force downloads to start off in a local, temporary location rather than the default download directory.
 policy-SupportMenu = Add a custom support menu item to the help menu.
+policy-TranslateEnabled = Enable or disable web page translation.
 policy-UserMessaging = Don’t show certain messages to the user.
 policy-UseSystemPrintDialog = Print using the system print dialogue.
 # “format” refers to the format used for the value of this policy.
