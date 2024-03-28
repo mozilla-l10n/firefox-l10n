@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Crash Reporter
+crashreporter-branded-title = { -brand-short-name } Crash Reporter
 
 crashreporter-crash-message = { -brand-short-name } ha riscontrato un problema imprevisto e si è chiuso.
 crashreporter-crashed-and-restore = { -brand-short-name } ha riscontrato un problema imprevisto e si è chiuso. Al riavvio l’applicazione cercherà di ripristinare le schede e finestre aperte.
