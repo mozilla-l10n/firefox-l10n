@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Pelapor Ranap
-crashreporter-crash-message = { -brand-short-name } mempunyai masalah dan ranap.{ " " }
+crashreporter-crash-message = { -brand-short-name } mempunyai masalah dan ranap.
 crashreporter-plea = Untuk membantu kami mendiagnosis dan memperbetulkan masalah tersebut, anda boleh menghantarkan. laporan ranap kepada kami.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Butirannya: { $details }
