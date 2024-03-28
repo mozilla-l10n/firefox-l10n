@@ -125,6 +125,7 @@ policy-SSLVersionMax = 최대 SSL 버전을 설정합니다.
 policy-SSLVersionMin = 최소 SSL 버전을 설정합니다.
 policy-StartDownloadsInTempDirectory = 기본 다운로드 디렉터리가 아닌 로컬 임시 위치에서 강제로 다운로드를 시작합니다.
 policy-SupportMenu = 도움말 메뉴에 사용자 지정 지원 메뉴 항목을 추가합니다.
+policy-TranslateEnabled = 웹 페이지 번역을 사용하거나 사용하지 않게 합니다.
 policy-UserMessaging = 사용자에게 특정 메시지를 표시하지 않습니다.
 policy-UseSystemPrintDialog = 시스템 인쇄 대화 상자를 사용하여 인쇄합니다.
 # “format” refers to the format used for the value of this policy.
