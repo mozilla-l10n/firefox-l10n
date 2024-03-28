@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-title = Amassaɣay n uɣelluy
-crashreporter-crash-message = { -brand-short-name } yufa-d ugur arussin u yeɣli.{ " " }
-crashreporter-plea = { " " }Iwakken ad ɣ-d-tefkeḍ tallalt i tifin akked useɣti n wugur-agi, tzemreḍ ad ɣ-d-tazeneḍ assaɣ n uɣelluy.
+crashreporter-crash-message = { -brand-short-name } yufa-d ugur arussin u yeɣli.
+crashreporter-plea = Iwakken ad ɣ-d-tefkeḍ tallalt i tifin akked useɣti n wugur-agi, tzemreḍ ad ɣ-d-tazeneḍ assaɣ n uɣelluy.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Ttfaṣil: { $details }
 crashreporter-no-run-message = Asnas-agi ittuselkem deffir n uɣelluy iwakken ad yazen ugur yeḍṛan i umaẓrag n usnas. Ur issefk ara ad ittusenker s srid.
