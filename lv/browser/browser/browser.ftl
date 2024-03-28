@@ -375,9 +375,15 @@ identity-https-only-info-turn-on3 = Ieslēdziet šai vietnei HTTPS jauninājumus
 identity-https-only-info-turn-off3 = Ja lapa izskatās salauzta, iespējams, vēlēsities izslēgt HTTPS jauninājumus, lai šo vietni pārlādētu nedrošajā HTTP režīmā.
 identity-https-only-info-no-upgrade = Nevar jaunināt savienojumu no HTTP.
 identity-permissions-storage-access-header = Starpvietņu sīkdatnes
+identity-permissions-storage-access-hint = Šīs puses var izmantot starpvietņu sīkdatnes un vietņu datus, kamēr jūs atrodaties šajā vietnē.
+identity-permissions-storage-access-learn-more = Uzzināt vairāk
 identity-permissions-reload-hint = Lai redzētu izmaiņas iespējams būs nepieciešama lapas pārlāde.
 identity-clear-site-data =
     .label = Notīrīt sīkdatnes un lapu datus…
+identity-connection-not-secure-security-view = Jūsu savienojums ar šo lapu nav drošs.
+identity-connection-verified = Jūsu savienojums ar šo lapu ir drošs.
+identity-ev-owner-label = Sertifikāts izsniegts:
+identity-description-custom-root2 = Mozilla neatpazīst šo sertifikāta izdevēju. Iespējams, to ir pievienojis jūsu operētājsistēma vai administrators.
 identity-remove-cert-exception =
     .label = Attālinātā izpilde
     .accesskey = A
@@ -404,11 +410,23 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimizēt
+browser-window-maximize-button =
+    .tooltiptext = Maksimizēt
+browser-window-restore-down-button =
+    .tooltiptext = Atjaunot lejup
 browser-window-close-button =
     .tooltiptext = Aizvērt
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = ATSKAŅO
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = APKLUSINĀTS
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = AUTOMĀTISKĀ ATSKAŅOŠANA BLOĶĒTA
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = ATTĒLS-ATTĒLĀ
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
