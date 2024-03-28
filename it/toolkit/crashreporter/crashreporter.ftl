@@ -61,4 +61,3 @@ crashreporter-error-no-home-dir = Directory home non presente
 # $to (String) - the destination path
 crashreporter-error-moving-path = Errore durante lo spostamento da { $from } a { $to }
 crashreporter-error-version-eol = La versione non è più supportata: le segnalazioni di arresto anomalo non vengono più accettate.
-
