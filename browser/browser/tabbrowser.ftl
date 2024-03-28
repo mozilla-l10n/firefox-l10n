@@ -168,7 +168,7 @@ tabbrowser-context-unmute-selected-tabs =
     .label = أطلِق صوت الألسنة
     .accesskey = ط
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
-tabbrowser-tab-audio-playing-description = تشغيل الصوت
+tabbrowser-tab-audio-playing-description = يشغّل صوتا
 
 ## Ctrl-Tab dialog
 
