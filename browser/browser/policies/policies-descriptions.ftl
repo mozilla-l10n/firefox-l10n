@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Αποκλεισμός πρόσβασης στη σε
 policy-Bookmarks = Δημιουργία σελιδοδεικτών στη γραμμή σελιδοδεικτών, στο μενού σελιδοδεικτών ή σε ένα συγκεκριμένο φάκελο μέσα τους.
 policy-CaptivePortal = Ενεργοποίηση ή απενεργοποίηση υποστήριξης πυλών υποδοχής.
 policy-CertificatesDescription = Προσθήκη πιστοποιητικών ή χρήση ενσωματωμένων πιστοποιητικών.
+policy-ContentAnalysis = Ενεργοποίηση ή απενεργοποίηση σύνδεσης παρόχου αποτροπής απώλειας δεδομένων.
 policy-Cookies = Αποδοχή ή άρνηση αιτημάτων αποθήκευσης cookie.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Ορισμός πολιτικών που σχετίζονται με τις θεματικές ενότητες.
