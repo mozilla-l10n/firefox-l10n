@@ -68,6 +68,16 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = nomi dei colori
 
+## Web Console section
+
+# The heading
+options-webconsole-label = Console web
+
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Attiva console divisa
+options-webconsole-split-console-tooltip =
+    .title = Apri la console divisa alla pressione del tasto Esc
+
 ## Style Editor section
 
 # The heading
