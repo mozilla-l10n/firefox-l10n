@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Kraschrapportör
-crashreporter-crash-message = { -brand-short-name } har stött på problem och kraschat.
+crashreporter-branded-title = { -brand-short-name } Kraschrapportör
+crashreporter-crashed-and-restore = { -brand-short-name } hade ett problem och kraschade. Vi ska försöka återställa dina flikar och fönster när den startar om.
 crashreporter-plea = För att hjälpa oss att diagnostisera och lösa problemet kan du skicka oss en kraschrapport.
 crashreporter-information = Det här programmet körs efter en krasch för att rapportera problemet till { -vendor-short-name }. Det ska inte köras direkt.
 crashreporter-error = { -brand-short-name } hade ett problem och kraschade. Tyvärr kan inte kraschrapportören skicka en rapport för denna krasch.

@@ -59,6 +59,15 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Färgnamn
 
+## Web Console section
+
+# The heading
+options-webconsole-label = Webbkonsolen
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Aktivera delad konsol
+options-webconsole-split-console-tooltip =
+    .title = Öppna delad konsol med Escape-tangenten
+
 ## Style Editor section
 
 # The heading
