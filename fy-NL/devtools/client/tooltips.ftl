@@ -38,6 +38,11 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> hat gjin effekt op 
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it net skowt.
 inactive-css-border-image = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it net tapast wurde kin op ynterne tabeleleminten wêr <strong>border-collapse</strong> ynsteld is op <strong>collapse</strong> op it boppelizzende tabelelemint.
 inactive-css-ruby-element = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it in ruby-elemint is. De grutte wurdt bepaald troch de lettertypegrutte fan de rubytekst.
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> wurdt net stipe op markearre pseudo-eleminten.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> wurdt net stipe op ::cue-pseudo-elementen.
 # Variables:
@@ -51,9 +56,11 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> hat g
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Probearje <strong>display:grid</strong> of <strong>display:flex</strong> ta te foegjen. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Probearje <strong>display:grid</strong>, <strong>display:flex</strong> of <strong>display:block</strong> ta te foegjen. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Probearje <strong>display:grid</strong>, of <strong>display:flex</strong>, of <strong>colums:2</strong> ta te foegjen. { learn-more }
 inactive-css-not-multicol-container-fix = Probearje <strong>column-count</strong> of <strong>column-width</strong> ta te foegjen. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Probearje <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> oan it boppelizzende nivo fan it elemint ta te foegjen. { learn-more }
