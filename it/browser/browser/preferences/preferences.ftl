@@ -32,6 +32,8 @@ search-input-box2 =
     .style = width: 16em
     .placeholder = Cerca nelle impostazioni
 managed-notice = Il browser è gestito dalla propria organizzazione.
+managed-notice-info-icon =
+    .alt = Informazione
 category-list =
     .aria-label = Categorie
 pane-general-title = Generale
@@ -432,7 +434,7 @@ update-setting-write-failure-title2 = Errore durante il salvataggio delle impost
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-    
+
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -709,6 +711,13 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Cambia l’immagine del profilo
     .alt = Cambia l’immagine del profilo
+
+sync-profile-picture-account-problem =
+    .alt = Immagine del profilo per l’account
+
+fxa-login-rejected-warning =
+    .alt = Avviso
+
 sync-sign-out =
     .label = Disconnetti…
     .accesskey = t
