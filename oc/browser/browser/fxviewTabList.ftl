@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Dobrir { $targetURI } dins un onglet novèl
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Tampar { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Tampar { $tabTitle }
@@ -51,7 +55,12 @@ fxviewtabrow-move-tab-window = Desplaçar cap a una fenèstra novèla
     .accesskey = n
 fxviewtabrow-send-tab = Enviar l'onglet al periferic
     .accesskey = a
+fxviewtabrow-pin-tab = Penjar l’onglets
+    .accesskey = P
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Opcions per { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
