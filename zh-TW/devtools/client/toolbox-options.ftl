@@ -59,6 +59,15 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = 色彩名稱
 
+## Web Console section
+
+# The heading
+options-webconsole-label = 網頁主控台
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = 啟用分割主控台
+options-webconsole-split-console-tooltip =
+    .title = 使用 Esc 鍵開啟分割主控台
+
 ## Style Editor section
 
 # The heading
