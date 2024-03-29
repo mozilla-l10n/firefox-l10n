@@ -29,18 +29,32 @@ about-webauthn-results-general-error = Feil!
 
 about-webauthn-new-pin-label = Ny PIN-kode:
 about-webauthn-current-pin-label = Gjeldande PIN-kode:
+about-webauthn-credential-list-subsection-title = Innloggingsdetaljar:
+about-webauthn-enrollment-name-label = Registreringsnamn (valfritt):
+about-webauthn-confirm-deletion-label = Du er i ferd med å slette:
 
 ## Buttons
 
 about-webauthn-current-change-pin-button = Endre PIN-kode
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = List opp innloggingsdetaljar
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Vis registreringar
+about-webauthn-add-bio-enrollment-button = Legg til registrering
 about-webauthn-cancel-button = Avbryt
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Slett
+about-webauthn-start-enrollment-button = Start registrering
 about-webauthn-update-button = Oppdater
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Brukarstadfesting
+about-webauthn-auth-option-up = Brukarnærvær
+about-webauthn-auth-option-clientpin = Klient PIN-kode
+about-webauthn-auth-option-rk = Resident-nøkkel
+about-webauthn-auth-option-plat = Plattformeining
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
