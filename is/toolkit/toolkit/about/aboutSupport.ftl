@@ -428,3 +428,15 @@ pointing-device-mouse = Mús
 pointing-device-touchscreen = Snertiskjár
 pointing-device-pen-digitizer = Teiknipenni
 pointing-device-none = Engin bendiltæki
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Greining efnis (DLP)
+content-analysis-active = Virkt
+content-analysis-connected-to-agent = Tengt við vinnslu
+content-analysis-agent-path = Slóð á vinnslu
+content-analysis-agent-failed-signature-verification = Vinnslu mistókst að staðfesta undirritun
+content-analysis-request-count = Fjöldi beiðna
