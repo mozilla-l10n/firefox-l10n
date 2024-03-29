@@ -8,6 +8,10 @@
 
 ## Section titles
 
+about-webauthn-info-section-title = Informacions de l’aparelh
+about-webauthn-pin-section-title = Gestion del còdi PIN
+about-webauthn-credential-management-section-title = Gerir los identificants
+about-webauthn-pin-required-section-title = Còdi PIN requerit
 about-webauthn-confirm-deletion-section-title = Confirmacion la supression
 
 ## Info field texts
@@ -20,6 +24,7 @@ about-webauthn-results-general-error = Error !
 
 ## Labels
 
+about-webauthn-credential-list-subsection-title = Identificants :
 
 ## Buttons
 
