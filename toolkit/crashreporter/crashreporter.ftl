@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Αναφορά καταρρεύσεων
-crashreporter-crash-message = Το { -brand-short-name } αντιμετώπισε ένα σφάλμα και κατέρρευσε.
+crashreporter-branded-title = Αναφορά καταρρεύσεων { -brand-short-name }
+crashreporter-crashed-and-restore = Το { -brand-short-name } αντιμετώπισε ένα πρόβλημα και κατέρρευσε. Θα προσπαθήσουμε να ανακτήσουμε τις καρτέλες και τα παράθυρά σας όταν επανεκκινηθεί.
 crashreporter-plea = Για να μας βοηθήσετε στη διάγνωση και την επίλυση του προβλήματος, μπορείτε να μας στείλετε μια αναφορά κατάρρευσης.
 crashreporter-information = Αυτή η εφαρμογή εκτελείται μετά από μια κατάρρευση για την αναφορά του προβλήματος στη { -vendor-short-name }. Δεν θα πρέπει να εκτελείται χειροκίνητα.
 crashreporter-error = Το { -brand-short-name } αντιμετώπισε ένα πρόβλημα και κατέρρευσε. Δυστυχώς, η εφαρμογή αναφοράς καταρρεύσεων δεν μπορεί να υποβάλει αναφορά για αυτήν την κατάρρευση.
