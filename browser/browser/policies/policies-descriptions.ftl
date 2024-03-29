@@ -125,6 +125,7 @@ policy-SSLVersionMax = Stilltu hámarks SSL útgáfu.
 policy-SSLVersionMin = Stilltu lágmarks SSL útgáfuna.
 policy-StartDownloadsInTempDirectory = Þvinga niðurhal til að hefjast á staðbundinni, bráðabirgðastaðsetningu frekar en sjálfgefnu niðurhalsmöppunni.
 policy-SupportMenu = Bæta sérsniðinni færslu fyrir aðstoð í hjálparvalmyndina.
+policy-TranslateEnabled = Virkja eða gera þýðingu á vefsíðu óvirka.
 policy-UserMessaging = Ekki sýna notandanum ákveðin skilaboð.
 policy-UseSystemPrintDialog = Prenta með prentglugga kerfisins.
 # “format” refers to the format used for the value of this policy.
