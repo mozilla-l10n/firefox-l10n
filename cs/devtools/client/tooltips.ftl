@@ -38,6 +38,11 @@ inactive-css-not-table-cell = Vlastnost <strong>{ $property }</strong> nemá ž�
 inactive-scroll-padding-when-not-scroll-container = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože není rolovatelný.
 inactive-css-border-image = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože jej nelze použít na vnitřní prvky tabulky, kde je <strong>border-collapse</strong> nastaven na <strong>collapse</strong> na nadřazeném prvku tabulky.
 inactive-css-ruby-element = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože se jedná o prvek ruby. Jeho velikost je určena velikostí písma textu ruby.
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = Vlastnost <strong>{ $property }</strong> není podporována na zvýrazněných pseudoprvcích.
 inactive-css-cue-pseudo-element-not-supported = Vlastnost <strong>{ $property }</strong> není podporována na pseudoprvcích ::cue.
 # Variables:
@@ -53,9 +58,11 @@ inactive-css-text-wrap-balance-fragmented = Vlastnost <strong>{ $property }</str
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Zkuste přidat <strong>display:grid</strong> nebo <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong> nebo <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong> nebo <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Zkuste přidat buď <strong>column-count</strong> nebo <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Zkuste přidat <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> nebo <strong>display:inline-flex</strong> k rodiči tohoto prvku. { learn-more }
