@@ -18,6 +18,7 @@ policy-AppUpdatePin = Foarkomme dat { -brand-short-name } fernijd wurdt foarby d
 policy-AppUpdateURL = Oanpaste app-fernijings-URL ynstelle.
 policy-Authentication = Yntegrearre autentikaasje konfigurearje foar websites dy’t dit stypje.
 policy-AutofillAddressEnabled = Automatysk ynfolje foar adressen ynskeakelje.
+policy-AutofillCreditCardEnabled = Automatysk ynfolje foar beteelingsmetoaden ynskeakelje.
 policy-AutoLaunchProtocolsFromOrigins = Definiearje in list mei eksterne protokollen dy’t fan fermelde boarnen út brûkt wurde kinne sûnder de brûker te freegjen.
 policy-BackgroundAppUpdate2 = Eftergrûnfernijingen yn- of útskeakelje.
 policy-BlockAboutAddons = Tagong ta de Add-onbehearder (about:addons) blokkearje.
@@ -27,6 +28,7 @@ policy-BlockAboutSupport = Tagong ta de about:support-side blokkearje.
 policy-Bookmarks = Blêdwizers meitsje yn de Blêdwizerakbalke, it menu Blêdwizers, of in hjirbinnen opjûne map.
 policy-CaptivePortal = Stipe foar hotspot-oanmeldingsside ynskeakelje of útskeakelje.
 policy-CertificatesDescription = Sertifikaten tafoegje of ynboude sertifikaten brûke.
+policy-ContentAnalysis = Ferbining mei data-loss-prevention-agent yn- of útskeakelje.
 policy-Cookies = Tastean of wegerje dat websites cookies ynstelle.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Belied oangeande konteners ynstelle.
@@ -123,6 +125,7 @@ policy-SSLVersionMax = De maksimale SSL-ferzje ynstelle.
 policy-SSLVersionMin = De minimale SSL-ferzje ynstelle.
 policy-StartDownloadsInTempDirectory = Oftwinge dat downloads starte yn in lokale, tydlike lokaasje yn stee fan de standert downloadmap.
 policy-SupportMenu = In oanpast menu-item foar stipe oan it menu Help tafoegje.
+policy-TranslateEnabled = Oersetting fan websiden yn- of útskeakelje.
 policy-UserMessaging = Bepaalde berjochten net oan de brûker toane.
 policy-UseSystemPrintDialog = Ofdrukke fia it systeemdialoochfienster fan it systeem.
 # “format” refers to the format used for the value of this policy.
