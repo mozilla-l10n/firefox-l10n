@@ -125,6 +125,7 @@ policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
 policy-SSLVersionMin = Minimum SSL sürümünü ayarla.
 policy-StartDownloadsInTempDirectory = İndirmeleri varsayılan indirme dizini yerine geçici bir yerel konumda başlat.
 policy-SupportMenu = Yardım menüsüne özel bir destek menüsü öğesi ekle.
+policy-TranslateEnabled = Web sayfası çevirilerini etkinleştir veya devre dışı bırak.
 policy-UserMessaging = Kullanıcıya belirli mesajları gösterme.
 policy-UseSystemPrintDialog = Sistem yazdırma iletişim kutusunu kullanarak yazdır.
 # “format” refers to the format used for the value of this policy.
