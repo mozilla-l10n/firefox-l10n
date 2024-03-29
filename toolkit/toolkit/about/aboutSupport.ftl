@@ -187,6 +187,11 @@ media-codec-support-unsupported = Ikkje støtta
 media-codec-support-error = Kodek-støtteinformasjon utilgjengeleg. Prøv på nytt etter å ha spelt av ei mediefil.
 media-codec-support-lack-of-extension = Installer utviding
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 intl-title = Internasjonalisering og lokalisering
@@ -410,3 +415,7 @@ pointing-device-mouse = Mus
 pointing-device-touchscreen = Berøringsskjerm
 pointing-device-pen-digitizer = Digitalpenn
 pointing-device-none = Inga peikeeining
+
+## Content Analysis (DLP)
+
+content-analysis-active = Aktiv
