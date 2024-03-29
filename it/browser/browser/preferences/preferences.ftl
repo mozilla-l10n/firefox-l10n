@@ -706,6 +706,9 @@ sync-mobile-promo = Scarica Firefox per <img data-l10n-name="android-icon"/> <a 
 
 sync-profile-picture =
     .tooltiptext = Cambia l’immagine del profilo
+sync-profile-picture-with-alt =
+    .tooltiptext = Cambia l’immagine del profilo
+    .alt = Cambia l’immagine del profilo
 sync-sign-out =
     .label = Disconnetti…
     .accesskey = t
@@ -1397,4 +1400,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
