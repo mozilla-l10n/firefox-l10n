@@ -448,4 +448,5 @@ content-analysis-title = Analyza wobsaha (DLP)
 content-analysis-active = Aktiwny
 content-analysis-connected-to-agent = Z agentom zwjazany
 content-analysis-agent-path = Šćežka agenta
+content-analysis-agent-failed-signature-verification = Agent njemóžeše signaturu přepruwować
 content-analysis-request-count = Ličba naprašowanjow

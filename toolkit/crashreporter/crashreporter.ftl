@@ -39,4 +39,7 @@ crashreporter-error-loading-file = Dataja ({ $path }) njeda so začitać
 # $path (String) - the path
 crashreporter-error-creating-dir = Zapis ({ $path }) njeda so wutworić
 crashreporter-error-no-home-dir = Falowacy startowy zapis
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Přesunjenje wot { $from } do { $to } njeje so poradźiło
 crashreporter-error-version-eol = Kónc žiwjenja wersije: Rozprawy spadow so hižo njeakceptuja.
