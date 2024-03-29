@@ -14,6 +14,8 @@ crashreporter-loading-details = Cargando…
 crashreporter-view-report-title = Contenido del informe
 crashreporter-comment-prompt = Agregar un comentario.  Nota: Los comentarios son visible públicamente
 crashreporter-report-info = Este informe también contiene información acerca del estado de la aplicación cuando falló.
+crashreporter-send-report = Decirle a { -vendor-short-name } sobre esta falla para que la puedan arreglar.
+crashreporter-include-url = Incluír la dirección de la página que estaba visitando.
 crashreporter-submit-status = Su informe de fallo será enviado antes de salir o reiniciar.
 crashreporter-submit-in-progress = Enviando su informe…
 crashreporter-submit-success = ¡Informe enviado exitosamente!
@@ -25,6 +27,18 @@ crashreporter-button-ok = Aceptar
 crashreporter-button-close = Cerrar
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Crash ID: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Puede ver detalles de este problema en { $url }.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Error al ejecutar minidump-analyzer
+# $path (String) - the file path
+crashreporter-error-opening-file = Error al abrir el archivo ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = Error al cargar el archivo ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = Error al crear el directorio ({ $path })
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Error al mover { $from } a { $to }
