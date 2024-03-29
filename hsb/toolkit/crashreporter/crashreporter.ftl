@@ -31,4 +31,12 @@ crashreporter-crash-details = Móžeće sej podrobnosće wo tutym spadźe na { $
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Minidump-analyzer njeda so wuwjesć
+# $path (String) - the file path
+crashreporter-error-opening-file = Dataja ({ $path }) njeda so wočinić
+# $path (String) - the file path
+crashreporter-error-loading-file = Dataja ({ $path }) njeda so začitać
+# $path (String) - the path
+crashreporter-error-creating-dir = Zapis ({ $path }) njeda so wutworić
 crashreporter-error-no-home-dir = Falowacy startowy zapis
+crashreporter-error-version-eol = Kónc žiwjenja wersije: Rozprawy spadow so hižo njeakceptuja.

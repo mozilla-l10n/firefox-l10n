@@ -124,6 +124,7 @@ policy-SSLVersionMax = Nastajće maksimalnu SSL-wersiju.
 policy-SSLVersionMin = Nastajće minimalnu SSL-wersiju.
 policy-StartDownloadsInTempDirectory = Sćehnjenja nućić, zo bychu w lokalnym, nachwilnym městnje město w standardnym zapisu sćehnjenjow započeli.
 policy-SupportMenu = Swójski menijowy zapisk pomocy menijej pomocy přidać.
+policy-TranslateEnabled = Přełožowanje webstronow zmóžnić abo znjemóžnić.
 policy-UserMessaging = Wužiwarjej wěste powěsće njepokazać
 policy-UseSystemPrintDialog = Z pomocu systemoweho ćišćerskeho dialoga ćišćeć.
 # “format” refers to the format used for the value of this policy.

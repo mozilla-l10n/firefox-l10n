@@ -65,6 +65,8 @@ options-default-color-unit-name = Barbowe mjena
 options-webconsole-label = Webkonsola
 # The label for the checkbox that toggle whether the Split console is enabled
 options-webconsole-split-console-label = Rozdźělenu konsolu zmóžnić
+options-webconsole-split-console-tooltip =
+    .title = Rozdźělenu konsolu z tastu Esc wočinić
 
 ## Style Editor section
 
