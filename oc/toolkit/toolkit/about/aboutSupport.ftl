@@ -177,6 +177,7 @@ media-capabilities-enumerate = Percórrer la basa de donadas
 
 ## Codec support table
 
+media-codec-support-lack-of-extension = Installar una extension
 
 ## Media Content Decryption Modules (CDM)
 ## See EME Spec for more explanation for following technical terms
@@ -407,3 +408,6 @@ support-remote-features-status = Estat
 
 pointing-device-mouse = Mirga
 pointing-device-touchscreen = Ecran tactil
+
+## Content Analysis (DLP)
+
