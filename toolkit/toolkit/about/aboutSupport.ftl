@@ -446,3 +446,15 @@ pointing-device-mouse = Myš
 pointing-device-touchscreen = Dotyková obrazovka
 pointing-device-pen-digitizer = Digitální pero
 pointing-device-none = Žádná polohovací zařízení
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Analýza obsahu (DLP)
+content-analysis-active = Aktivní
+content-analysis-connected-to-agent = Připojeno k agentovi
+content-analysis-agent-path = Cesta k agentovi
+content-analysis-agent-failed-signature-verification = Ověření podpisu agenta selhalo
+content-analysis-request-count = Počet žádostí
