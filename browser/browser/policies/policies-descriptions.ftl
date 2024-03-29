@@ -125,6 +125,7 @@ policy-SSLVersionMax = Nastaví maximálnu verziu SSL.
 policy-SSLVersionMin = Nastaví minimálnu verziu SSL.
 policy-StartDownloadsInTempDirectory = Vynúti spustenie sťahovania v lokálnom, dočasnom umiestnení a nie v predvolenom adresári sťahovania.
 policy-SupportMenu = Pridá vlastnú položku do ponuky pomocníka.
+policy-TranslateEnabled = Povolí alebo zakáže preklad webových stránok.
 policy-UserMessaging = Používateľovi sa nebudú zobrazovať určité oznámenia.
 policy-UseSystemPrintDialog = Tlač pomocou systémového dialógového okna tlače.
 # “format” refers to the format used for the value of this policy.

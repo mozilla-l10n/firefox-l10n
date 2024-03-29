@@ -33,7 +33,7 @@ neterror-disable-native-feedback-warning = Vždy pokračovať
 ##
 
 neterror-pref-reset = Zdá sa, že príčinou môžu byť vaše nastavenia zabezpečenia internetu. Chceli by ste obnoviť predvolené nastavenia?
-neterror-error-reporting-automatic = Hlásiť chyby ako je táto a pomôcť tým organizácii { -vendor-short-name } identifikovať a blokovať škodlivé stránky
+neterror-error-reporting-automatic = Hlásiť chyby ako je táto a pomôcť tým { -vendor-short-name(case: "dat") } identifikovať a blokovať škodlivé stránky
 
 ## Specific error messages
 
