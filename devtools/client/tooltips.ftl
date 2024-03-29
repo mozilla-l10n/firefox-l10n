@@ -38,6 +38,11 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> heeft geen effect o
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> heeft geen effect op dit element aangezien het niet scrollt.
 inactive-css-border-image = <strong>{ $property }</strong> heeft geen effect op dit element, omdat het niet kan worden toegepast op interne tabelelementen waar <strong>border-collapse</strong> is ingesteld op <strong>collapse</strong> op het bovenliggende tabelelement.
 inactive-css-ruby-element = <strong>{ $property }</strong> heeft geen effect op dit element, aangezien het een Ruby-element is. De grootte wordt bepaald door de lettergrootte van de Ruby-tekst.
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> wordt niet ondersteund op gemarkeerde pseudo-elementen.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> wordt niet ondersteund op ::cue-pseudo-elementen.
 # Variables:
@@ -51,9 +56,11 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> heeft
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Probeer <strong>display:grid</strong> of <strong>display:flex</strong> toe te voegen. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Probeer <strong>display:grid</strong>, <strong>display:flex</strong> of <strong>display:block</strong> toe te voegen. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Probeer <strong>display:grid</strong>, <strong>display:flex</strong> of <strong>colums:2</strong> toe te voegen. { learn-more }
 inactive-css-not-multicol-container-fix = Probeer <strong>column-count</strong> of <strong>column-width</strong> toe te voegen. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Probeer <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> aan het bovenliggende niveau van het element toe te voegen. { learn-more }
