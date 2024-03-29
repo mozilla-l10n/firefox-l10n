@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Сообщения о падениях
-crashreporter-crash-message = { -brand-short-name } столкнулся с неожиданной проблемой и упал.
+crashreporter-branded-title = Сообщения о падениях { -brand-short-name }
+crashreporter-crashed-and-restore = { -brand-short-name } столкнулся с проблемой и аварийно завершил работу. Мы постараемся восстановить ваши вкладки и окна после его перезапуска.
 crashreporter-plea = Чтобы помочь нам диагностировать и устранить проблему, вы можете отправить нам отчёт о сбое.
 crashreporter-information = Это приложение запускается после падения, чтобы сообщить о проблеме в { -vendor-short-name }. Оно не должно запускаться напрямую.
 crashreporter-error = { -brand-short-name } столкнулся с проблемой и аварийно завершил работу. К сожалению, инструмент создания отчётов о падениях не может отправить сообщение об этой ошибке.
