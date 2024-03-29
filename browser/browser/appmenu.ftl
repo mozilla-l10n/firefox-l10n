@@ -168,6 +168,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Reglatge recomandat pel desbugatge de la màger part de las aplicacions amb pauca subrecarga.
 profiler-popup-presets-web-developer-label =
     .label = Desvolopaire web
@@ -257,3 +262,7 @@ appmenu-developer-tools-extensions =
     .label = Extensions pels desvolopaires
 appmenuitem-report-broken-site =
     .label = Senhalar un site copat
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Connectatz-vos a vòstre compte
