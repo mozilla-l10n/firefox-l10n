@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Legg til søkjemotor
 newtab-topsites-add-shortcut-header = Ny snarveg
 newtab-topsites-edit-topsites-header = Rediger Mest besøkt
 newtab-topsites-edit-shortcut-header = Rediger snarveg
+newtab-topsites-add-shortcut-label = Legg til snarveg
 newtab-topsites-title-label = Tittel
 newtab-topsites-title-input =
     .placeholder = Skriv inn ein tittel
@@ -197,6 +198,7 @@ newtab-section-header-recent-activity = Nyleg aktivitet
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Tilrådd av { $provider }
+newtab-section-header-stories = Tankevekkjande artiklar
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -257,9 +259,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsa snarvegar
 newtab-custom-pocket-title = Tilrådd av { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Eksepsjonelt innhald sett saman av { -pocket-brand-name }, ein del av { -brand-product-name }-familien
-newtab-custom-pocket-toggle =
-    .label = Tilrådd av { -pocket-brand-name }
-    .description = Eksepsjonelt innhald sett saman av { -pocket-brand-name }, ein del av { -brand-product-name }-familien
 newtab-custom-pocket-sponsored = Sponsa historier
 newtab-custom-pocket-show-recent-saves = Vis siste lagra
 newtab-custom-recent-title = Nyleg aktivitet
