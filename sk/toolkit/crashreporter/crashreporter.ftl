@@ -44,4 +44,4 @@ crashreporter-error-no-home-dir = Chýbajúci domovský priečinok
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Nepodarilo sa presunúť z { $from } do { $to }
-crashreporter-error-version-eol = Koniec životnosti verzie: správy o zlyhaní už nie sú akceptované.
+crashreporter-error-version-eol = Verzia s ukončenou podporou: správy o zlyhaní už nie sú akceptované.
