@@ -431,3 +431,7 @@ pointing-device-mouse = Muis
 pointing-device-touchscreen = Aanraakscherm
 pointing-device-pen-digitizer = Pen Digitizer
 pointing-device-none = Geen aanwijsapparaten
+
+## Content Analysis (DLP)
+
+content-analysis-agent-failed-signature-verification = Agent kon geen handtekeningverificatie uitvoeren
