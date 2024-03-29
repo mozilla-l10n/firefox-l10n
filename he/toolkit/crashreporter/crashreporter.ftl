@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = מדווח הקריסות
-crashreporter-crash-message = ל־{ -brand-short-name } הייתה תקלה והוא קרס.
+crashreporter-branded-title = מדווח הקריסות של { -brand-short-name }
+crashreporter-crashed-and-restore = ל־{ -brand-short-name } הייתה בעיה והוא קרס. אנחנו ננסה לשחזר את הלשוניות והחלונות שלך לאחר הפעלתו מחדש.
 crashreporter-plea = כדי לעזור לנו לאבחן ולתקן את הבעיה, באפשרותך לשלוח לנו דיווח קריסה.
 crashreporter-information = יישום זה מופעל לאחר קריסה כדי לדווח על הבעיה ל־{ -vendor-short-name }.  אין להריץ אותו ישירות.
 crashreporter-error = ‏{ -brand-short-name } נתקל בבעיה וקרס. לרוע המזל, מדווח הקריסות לא יכול לשלוח את הדיווח עבור קריסה זו.
