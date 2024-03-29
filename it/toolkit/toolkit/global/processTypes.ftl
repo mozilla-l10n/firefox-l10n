@@ -16,6 +16,9 @@ process-type-extension = Estensione
 
 process-type-file = File locale
 
+# process used to instantiate new child processes
+process-type-forkserver = Fork server
+
 process-type-webisolated = Contenuti web isolati
 
 process-type-webserviceworker = Service worker isolato
@@ -53,4 +56,3 @@ process-type-utility-actor-windows-file-dialog = Utilità finestra di dialogo i 
 
 # fallback
 process-type-unknown = Sconosciuto
-
