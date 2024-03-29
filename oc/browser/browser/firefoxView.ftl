@@ -242,3 +242,22 @@ firefoxview-recentlyclosed-empty-header = Avètz tampat los onglets per inatenci
 
 firefoxview-syncedtabs-device-notabs = Cap d’onglet pas dobèrt sus aqueste aparelh
 firefoxview-syncedtabs-connect-another-device = Connectar un autre periferic
+firefoxview-pinned-tabs =
+    .title = Onglets penjats
+firefoxview-tabs =
+    .title = Onglets
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Anar a { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (En marcapagina) { $url }
