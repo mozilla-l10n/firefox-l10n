@@ -4,15 +4,13 @@
 
 sidebar-menu-bookmarks =
     .label = Marcapaginas
-
 sidebar-menu-history =
     .label = Istoric
-
 sidebar-menu-synced-tabs =
     .label = Onglets sincronizats
-
+sidebar-menu-megalist =
+    .label = Senhals
 sidebar-menu-close =
     .label = Tampar lo panèl lateral
-
 sidebar-close-button =
     .tooltiptext = Tampar lo panèl lateral

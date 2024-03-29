@@ -204,7 +204,6 @@ cfr-cbh-confirm-button = Regetar las bandièras de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Mai tard
     .accesskey = M
-cookie-banner-blocker-cfr-header = { -brand-short-name } ven de blocar de cookies per vos
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ven de refusar un cookie per vos
 cookie-banner-blocker-onboarding-body = Mens de distraccions, mens de cookies que vos pistan sus aqueste site.
 cookie-banner-blocker-onboarding-learn-more = Ne saber mai
@@ -264,3 +263,7 @@ launch-on-login-infobar-reject-button = Mai tard
 
 launch-on-login-infobar-final-reject-button = Non, mercé
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-secondary-button = Pas ara

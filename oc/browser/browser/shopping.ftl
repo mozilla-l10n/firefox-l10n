@@ -46,9 +46,13 @@ shopping-message-bar-generic-error =
 shopping-message-bar-warning-product-not-available-button2 = Senhalar que’l produch es en estòc
 shopping-message-bar-analysis-in-progress-title2 = Evaluacion de la qualitat dels avises
 shopping-message-bar-analysis-in-progress-message2 = Aquò trigar unas 60 segondas.
+shopping-message-bar-keep-closed-dismiss-button = Non, mercé
+shopping-message-bar-keep-closed-accept-button = Òc, lo gardar tampat
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Elements essencials dels avises recents
 shopping-highlight-price = Prètz
 shopping-highlight-quality = Qualitat
 shopping-highlight-shipping = Expedicion
@@ -125,6 +129,8 @@ shopping-survey-terms-link = Condicions d’utilizacion
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-not-opted-in-reminder-close-button = Ignorar
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Mostrar pas mai
 
 ## Onboarding message strings.
 
