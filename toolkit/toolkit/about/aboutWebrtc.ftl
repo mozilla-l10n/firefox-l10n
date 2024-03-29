@@ -30,8 +30,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Los fichièrs de jornalizacion 
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Actualizacion auto
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Actualizacion auto per defaut
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Actualizar
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -103,6 +101,8 @@ about-webrtc-log-section-show-msg = Afichar l'istoric
     .title = Clicatz per desvolopar aquesta seccion
 about-webrtc-log-section-hide-msg = Amagar l'istoric
     .title = Clicatz per reduire aquesta seccion
+about-webrtc-copy-report-button = Copiar lo rapòrt
+about-webrtc-copy-report-history-button = Copiar l’istoric dels rapòrts
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -118,6 +118,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (tampat)
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Mandadís – Recepcion : { $codecs }
 about-webrtc-short-send-direction = Mandadís : { $codecs }
 about-webrtc-short-receive-direction = Recepcion : { $codecs }
 
@@ -183,6 +184,13 @@ about-webrtc-configuration-element-provided = Fornit
 about-webrtc-configuration-element-not-provided = Pas fornit
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferéncias utilizaire pel WebRTC
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Benda passanta estimada
 # The ID of the MediaStreamTrack
@@ -218,8 +226,6 @@ about-webrtc-aec-logging-off-state-msg = los fichièrs de jornalizacion capturat
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Pagina enregistrada a l'emplaçament seguent : { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Mòde desbugatge actiu, lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -295,9 +301,6 @@ about-webrtc-hide-msg-sdp = Amagar lo SDP
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
-
-
-##
 
 
 ##
