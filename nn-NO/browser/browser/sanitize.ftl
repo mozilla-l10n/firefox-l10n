@@ -51,6 +51,9 @@ history-section-label = Historikk
 item-history-and-downloads =
     .label = Nettlesing- og nedlastingshistorikk
     .accesskey = e
+item-history-form-data-downloads =
+    .label = Historikk
+    .accesskey = H
 item-cookies =
     .label = Infokapslar
     .accesskey = I
@@ -77,6 +80,8 @@ sanitize-button-ok =
     .label = Slett no
 sanitize-button-ok2 =
     .label = Tøm
+sanitize-button-ok-on-shutdown =
+    .label = Lagre endringar
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
