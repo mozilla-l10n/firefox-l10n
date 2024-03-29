@@ -4,15 +4,13 @@
 
 sidebar-menu-bookmarks =
     .label = Yer imleri
-
 sidebar-menu-history =
     .label = Geçmiş
-
 sidebar-menu-synced-tabs =
     .label = Eşitlenmiş sekmeler
-
+sidebar-menu-megalist =
+    .label = Parolalar
 sidebar-menu-close =
     .label = Kenar çubuğunu kapat
-
 sidebar-close-button =
     .tooltiptext = Kenar çubuğunu kapat
