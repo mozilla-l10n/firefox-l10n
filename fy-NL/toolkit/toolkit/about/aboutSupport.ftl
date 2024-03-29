@@ -431,3 +431,8 @@ pointing-device-mouse = Mûs
 pointing-device-touchscreen = Oanraakskerm
 pointing-device-pen-digitizer = Pen Digitizer
 pointing-device-none = Gjin oanwiisapparaten
+
+## Content Analysis (DLP)
+
+content-analysis-active = Aktyf
+content-analysis-connected-to-agent = Ferbûn mei agent
