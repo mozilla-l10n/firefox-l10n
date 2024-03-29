@@ -442,3 +442,4 @@ content-analysis-active = Activo
 content-analysis-connected-to-agent = Conectado al agente
 content-analysis-agent-path = Ruta del agente
 content-analysis-agent-failed-signature-verification = Falló la verificación de firma del agente
+content-analysis-request-count = Cantidad de pedidos
