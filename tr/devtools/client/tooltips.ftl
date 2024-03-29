@@ -38,6 +38,11 @@ inactive-css-not-table-cell = Bu eleman bir tablo hücresi olmadığı için <st
 inactive-scroll-padding-when-not-scroll-container = Bu eleman scroll edilemediği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-border-image = <strong>border-collapse</strong> özelliğinin ana tablo elemanında <strong>collapse</strong> olarak ayarlandığı dahili tablo elemanlarına <strong>{ $property }</strong> özelliği uygulanamayacağı için bu özellik bu eleman üzerinde hiçbir etkiye sahip değildir.
 inactive-css-ruby-element = <strong>{ $property }</strong> bir ruby elemanı olduğundan bu eleman üzerinde hiçbir etkisi yoktur. Boyutu ruby metninin yazı tipi boyutuna göre belirlenir.
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> özelliği, vurgulanmış sözde elemanlarda desteklenmez.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::cue sözde elemanlarında desteklenmez.
 # Variables:
@@ -47,11 +52,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
         [one] Bu elemanda { $lineCount } satırdan fazla satır olduğu için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
        *[other] Bu elemanda { $lineCount } satırdan fazla satır olduğu için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
     }
-
-## In the Rule View when a CSS property cannot be successfully applied we display
-## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
-
+inactive-css-text-wrap-balance-fragmented = Bu eleman parçalı olduğu için, yani içeriği birden fazla sütuna veya sayfaya bölünmüş olduğu için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -59,6 +60,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
 ## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> veya <strong>display:flex</strong> eklemeyi deneyin. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong> veya <strong>display:block</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong> veya <strong>columns:2</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-multicol-container-fix = <strong>column-count</strong> veya <strong>column-width</strong> eklemeyi deneyin. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Bu elemanın üst elemanına <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> veya <strong>display:inline-flex</strong> eklemeyi deneyin. { learn-more }

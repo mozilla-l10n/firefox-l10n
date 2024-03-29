@@ -431,3 +431,8 @@ pointing-device-mouse = Fare
 pointing-device-touchscreen = Dokunmatik ekran
 pointing-device-pen-digitizer = Kalem sayısallaştırıcı
 pointing-device-none = İşaretleme aygıtı yok
+
+## Content Analysis (DLP)
+
+content-analysis-active = Etkin
+content-analysis-request-count = İstek sayısı
