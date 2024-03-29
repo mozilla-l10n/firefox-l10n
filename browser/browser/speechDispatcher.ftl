@@ -12,5 +12,5 @@ speech-dispatcher-missing-symbol = Du kan ikkje bruke talesyntese fordi bibliote
 speech-dispatcher-open-fail = Du kan ikke bruke talesyntese fordi «Speech Dispatcher» ikkje kan opnast.
 speech-dispatcher-no-voices = Du kan ikkje bruke talesyntese fordi stemmer ikkje er tilgjengelege i biblioteket «Speech Dispatcher».
 speech-dispatcher-dismiss-button =
-    .label = Ikke vis igjen
+    .label = Ikkje vis igjen
     .accesskey = v

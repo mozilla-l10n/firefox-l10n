@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Ny info å kontrollere
 shopping-message-bar-warning-stale-analysis-button = Kontroller no
-shopping-message-bar-generic-error-title2 = Ingen informasjon tilgjengeleg akkurat no
-shopping-message-bar-generic-error-message = Vi jobbar med å løyse problemet. Prøv på nytt, snart.
-shopping-message-bar-warning-not-enough-reviews-title = Ikkje nok vurderingar enno
-shopping-message-bar-warning-not-enough-reviews-message2 = Når dette produktet har fleire vurderingar, kan vi sjekke kvaliteten.
-shopping-message-bar-warning-product-not-available-title = Produktet er ikkje tilgjengeleg
-shopping-message-bar-warning-product-not-available-message2 = Om du ser at dette produktet er tilbake på lager, rapporter det, så jobbar vi med å kontrollere vurderingane.
-shopping-message-bar-warning-product-not-available-button = Rapporter at dette produktet er på lager igjen
-shopping-message-bar-thanks-for-reporting-title = Takk for at du rapporterer!
-shopping-message-bar-thanks-for-reporting-message2 = Vi bør ha informasjon om vurderingane til dette produktet innan 24 timar. Sjekk igjen litt seinare.
-shopping-message-bar-warning-product-not-available-reported-title2 = Info kjem snart
-shopping-message-bar-warning-product-not-available-reported-message2 = Vi bør ha informasjon om vurderingane til dette produktet innan 24 timar. Sjekk igjen litt seinare.
 shopping-message-bar-generic-error =
     .heading = Ingen informasjon tilgjengeleg akkurat no
     .message = Vi jobbar med å løyse problemet. Prøv på nytt, snart.
@@ -60,8 +49,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available-button2 = Rapporter at produktet er på lager
 shopping-message-bar-analysis-in-progress-title2 = Kontrollerer kvaliteten på vurderinga
 shopping-message-bar-analysis-in-progress-message2 = Dette vil ta omlag 60 sekund.
-shopping-message-bar-page-not-supported-title = Vi klarer ikkje å kontrollere desse vurderingane
-shopping-message-bar-page-not-supported-message = Diverre kan vi ikkje kontrollere produktkvaliteten på enkelte produkttypar, som til dømes gåvekort, strøyme-video, musikk og spel.
+shopping-message-bar-keep-closed-dismiss-button = Nei takk
 
 ## Strings for the product review snippets card
 
@@ -120,7 +108,7 @@ shopping-sidebar-close-button2 =
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Ingen informasjon om desse vurderingane enno
@@ -149,7 +137,6 @@ shopping-survey-q2-radio-3-label = Eg veit ikkje
 shopping-survey-next-button-label = Neste
 shopping-survey-submit-button-label = Send inn
 shopping-survey-terms-link = Brukarvilkår
-shopping-survey-thanks-message = Takk for tilbakemeldinga di!
 shopping-survey-thanks =
     .heading = Takk for tilbakemeldinga di!
 
@@ -159,6 +146,11 @@ shopping-survey-thanks =
 
 shopping-callout-pdp-opted-in-title = Er desse vurderingane pålitelege? Finn raskt ut av det.
 shopping-callout-closed-not-opted-in-title = Eitt klikk frå pålitelege vurderingar
+shopping-callout-closed-not-opted-in-revised-button = Eg forstår
+shopping-callout-not-opted-in-reminder-close-button = Ignorer
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Ikkje vis igjen
+shopping-callout-disabled-auto-open-button = Eg forstår
+shopping-callout-opted-out-button = Eg forstår
 
 ## Onboarding message strings.
 
