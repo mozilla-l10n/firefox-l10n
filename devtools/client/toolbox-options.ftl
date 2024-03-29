@@ -59,6 +59,15 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = שמות הצבעים
 
+## Web Console section
+
+# The heading
+options-webconsole-label = מסוף רשת
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = הפעלת מסוף מפוצל
+options-webconsole-split-console-tooltip =
+    .title = פתיחת המסוף המפוצל באמצעות מקש ה־Escape
+
 ## Style Editor section
 
 # The heading
