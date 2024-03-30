@@ -39,6 +39,7 @@ crashreporter-error-opening-file = Error al abrir el archivo ({ $path })
 crashreporter-error-loading-file = Error al cargar el archivo ({ $path })
 # $path (String) - the path
 crashreporter-error-creating-dir = Error al crear el directorio ({ $path })
+crashreporter-error-no-home-dir = Falta el directorio del usuario
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Error al mover { $from } a { $to }
