@@ -33,3 +33,14 @@ crashreporter-crash-details = Móžośo se drobnostki wó toś tom wowalenju na 
 # Error strings
 
 crashreporter-error-minidump-analyzer = Minidump-analyzer njedajo se wuwjasć
+# $path (String) - the file path
+crashreporter-error-opening-file = Dataja ({ $path }) njedajo se wócyniś
+# $path (String) - the file path
+crashreporter-error-loading-file = Dataja ({ $path }) njedajo se zacytaś
+# $path (String) - the path
+crashreporter-error-creating-dir = Zapis ({ $path }) njedajo se napóraś
+crashreporter-error-no-home-dir = Felujucy startowy zapis
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Pśesunjenje wót { $from } do { $to } njejo se raźiło
+crashreporter-error-version-eol = Kóńc žywjenja wersije: Rozpšawy wowalenjow se wěcej njeakceptěruju.
