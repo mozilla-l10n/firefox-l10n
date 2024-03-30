@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = Қазір емес
 
 protocolhandler-mailto-handler-notificationbox-always = Электрондық пошта сілтемелерін әрқашан { $url } арқылы ашу керек пе?
 protocolhandler-mailto-handler-yes-confirm = { $url } енді электрондық поштаны жіберетін сілтемелерді ашуға арналған үнсіз келісім бойынша сайтыңыз болып табылады.
+protocolhandler-mailto-handler-set-message = Электрондық поштаңызды ашатын сілтемені әр рет басқан сайын <strong>{ -brand-short-name } ішінде { $url }</strong> қолдану керек пе?
+protocolhandler-mailto-handler-confirm-message = <strong>{ -brand-short-name } ішіндегі { $url }</strong> енді сіздің негізгі эл. пошта өңдеушісі болып табылады.
 
 ##
 
