@@ -9,8 +9,16 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
+menu-application-preferences =
+    .label = Iestatījumi
 menu-application-services =
     .label = Servisi
 menu-application-hide-this =
@@ -18,7 +26,9 @@ menu-application-hide-this =
 menu-application-hide-other =
     .label = Paslēpt citus
 menu-application-show-all =
-    .label = Parādīt visus
+    .label = Rādīt visus
+menu-application-touch-bar =
+    .label = Pielāgot skārienjoslu…
 
 ##
 
@@ -34,11 +44,9 @@ menu-quit =
             [windows] z
            *[other] e
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Iziet no { -brand-shorter-name }
-
 menu-about =
     .label = Par { -brand-shorter-name }
     .accesskey = a
@@ -68,6 +76,17 @@ menu-file-open-location =
 menu-file-open-file =
     .label = Atvērt failu…
     .accesskey = A
+# Variables:
+#  $tabCount (Number): the number of tabs that are affected by the action.
+menu-file-close-tab =
+    .label =
+        { $tabCount ->
+            [1] Aizvērt cilni
+            [zero] Aizvērt { $tabCount } cilni
+            [one] Aizvērt { $tabCount } cilnes
+           *[other] Aizvērt { $tabCount } cilņu
+        }
+    .accesskey = A
 menu-file-close-window =
     .label = Aizvērt logu
     .accesskey = g
@@ -77,12 +96,18 @@ menu-file-save-page =
 menu-file-email-link =
     .label = Nosūtīt saiti…
     .accesskey = N
+menu-file-share-url =
+    .label = Kopīgot
+    .accesskey = K
 menu-file-print-setup =
     .label = Lapas iestatījumi…
     .accesskey = u
 menu-file-print =
     .label = Drukāt…
     .accesskey = D
+menu-file-import-from-another-browser =
+    .label = Importēt no cita pārlūka…
+    .accesskey = I
 menu-file-go-offline =
     .label = Strādāt nesaistē
     .accesskey = r
@@ -92,6 +117,9 @@ menu-file-go-offline =
 menu-edit =
     .label = Rediģēt
     .accesskey = e
+menu-edit-find-in-page =
+    .label = Meklēt lapā…
+    .accesskey = M
 menu-edit-find-again =
     .label = Meklēt vēlreiz
     .accesskey = k
@@ -107,6 +135,9 @@ menu-view =
 menu-view-toolbars-menu =
     .label = Rīkjoslas
     .accesskey = l
+menu-view-customize-toolbar2 =
+    .label = Pielāgot rīkjoslu…
+    .accesskey = l
 menu-view-sidebar =
     .label = Sānu josla
     .accesskey = a
@@ -116,6 +147,8 @@ menu-view-history-button =
     .label = Vēsture
 menu-view-synced-tabs-sidebar =
     .label = Sinhronizētās cilnes
+menu-view-megalist-sidebar =
+    .label = Paroles
 menu-view-full-zoom =
     .label = Mērogs
     .accesskey = M
@@ -125,6 +158,9 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Attālināt
     .accesskey = A
+menu-view-full-zoom-actual-size =
+    .label = Patiesais izmērs
+    .accesskey = a
 menu-view-full-zoom-toggle =
     .label = Mērogot tikai tekstu
     .accesskey = t
@@ -137,6 +173,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Lapas pamata stils
     .accesskey = m
+menu-view-repair-text-encoding =
+    .label = Labot teksta kodējumu
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -148,8 +187,8 @@ menu-view-exit-full-screen =
     .label = Iziet no pilnekrāna režīma
     .accesskey = p
 menu-view-full-screen =
-    .label = Pa visu ekrānu
-    .accesskey = v
+    .label = Pilnekrāns
+    .accesskey = P
 
 ## These menu items may use the same accesskey.
 
@@ -196,6 +235,12 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Grāmatzīmes
     .accesskey = G
+menu-bookmarks-manage =
+    .label = Pārvaldīt grāmatzīmes
+menu-bookmark-tab =
+    .label = Pievienot grāmatzīmēm pašreizējo cilni…
+menu-edit-bookmark =
+    .label = Rediģēt šo grāmatzīmi…
 menu-bookmarks-all-tabs =
     .label = Saglabāt visas cilnes grāmatzīmēs…
 menu-bookmarks-toolbar =
@@ -213,15 +258,31 @@ menu-tools =
 menu-tools-downloads =
     .label = Lejupielādes
     .accesskey = d
+menu-tools-addons-and-themes =
+    .label = Papildinājumi un motīvi
+    .accesskey = P
+menu-tools-fxa-sign-in2 =
+    .label = Ierakstīties
+    .accesskey = r
 menu-tools-sync-now =
     .label = Sinhronizēt
     .accesskey = S
+menu-tools-task-manager =
+    .label = Uzdevumu pārvaldnieks
+    .accesskey = p
 menu-tools-page-source =
     .label = Lapas pirmkods
     .accesskey = o
 menu-tools-page-info =
     .label = Informācija par lapu
     .accesskey = I
+menu-settings =
+    .label = Iestatījumi
+    .accesskey =
+        { PLATFORM() ->
+            [windows] s
+           *[other] s
+        }
 menu-tools-layout-debugger =
     .label = Izkārtojuma atkļūdotājs
     .accesskey = I
@@ -250,8 +311,7 @@ menu-help =
 menu-help-report-site-issue =
     .label = Ziņot par problēmu ar lapu…
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Ziņot par maldinošu lapu…
     .accesskey = d

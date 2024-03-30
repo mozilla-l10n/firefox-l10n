@@ -20,3 +20,16 @@ firefox-relay-get-unlimited-masks =
     .accesskey = P
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Aizsargājiet savu e-pasta adresi:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Izmantot { -relay-brand-name } e-pasta masku
+firefox-relay-use-mask-title = Izmantot { -relay-brand-name } e-pasta masku
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Izmantot e-pasta masku
+    .accesskey = I
+firefox-relay-opt-in-confirmation-disable =
+    .label = Turpmāk vairs nerādīt
+    .accesskey = T
+firefox-relay-opt-in-confirmation-postpone =
+    .label = Ne tagad
+    .accesskey = N
