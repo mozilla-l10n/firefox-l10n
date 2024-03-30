@@ -431,6 +431,10 @@ pointing-device-none = Көрсеткіш құрылғылары жоқ
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Мазмұнды талдау (DLP)
 content-analysis-active = Белсенді
 content-analysis-connected-to-agent = Агентке байланысқан
 content-analysis-agent-path = Агент жолы
