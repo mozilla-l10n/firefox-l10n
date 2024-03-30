@@ -38,6 +38,11 @@ inactive-css-not-table-cell = 由于不是单元格，<strong>{ $property }</str
 inactive-scroll-padding-when-not-scroll-container = 由于不会滚动，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-border-image = 由于父表格元素的 <strong>border-collapse</strong> 已设为 <strong>collapse</strong>，无法应用至内部表格元素，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-ruby-element = <strong>{ $property }</strong> 对此 ruby 元素无效。此元素大小由 ruby 字体大小决定。
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = 强调（highlight）目的的伪元素上不支持 <strong>{ $property }</strong>。
 inactive-css-cue-pseudo-element-not-supported = ::cue 伪元素不支持 <strong>{ $property }</strong>。
 # Variables:
@@ -47,9 +52,11 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> 对�
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = 请尝试添加 <strong>display:grid</ strong> 或 <strong>display:flex</strong>。{ learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = 请尝试加入 <strong>display:grid</strong>、<strong>display:flex</strong> 或 <strong>display:block</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = 请尝试加入 <strong>display:grid</strong>、<strong>display:flex</strong> 或 <strong>columns:2</strong>。{ learn-more }
 inactive-css-not-multicol-container-fix = 请尝试添加 <strong>column-count</strong> 或 <strong>column-width</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = 请尝试为元素的父元素添加 <strong>display:grid</ strong>、<strong>display:flex</strong>, <strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
