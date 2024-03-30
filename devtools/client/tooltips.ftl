@@ -38,6 +38,11 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> njama efekt na toś
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> na toś ten element efekt njama, dokulaž se njekula.
 inactive-css-border-image = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž njedajo se na nutśikowne tabelowe elementy nałožyś, źož <strong>border-collapse</strong> jo na <strong>collapse</strong> na nadrědowanem elemenśe tabele stajony.
 inactive-css-ruby-element = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž jo element ruby. Jeje wjelikosć se pśez wjelikosć pisma teksta ruby póstaja.
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> se za pseudoelementy wuzwignjenja njepódpěra.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> se za pseudoelementy ::cue njepódpěra.
 # Variables:
@@ -53,9 +58,11 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> njama
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Wppytajśo <strong>display:grid</strong> abo <strong>display:flex</strong> pśidaś. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Wopytajśo <strong>display:grid</strong>, <strong>display:flex</strong> abo <strong>display:block</strong> pśidaś. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Wopytajśo <strong>display:grid</strong>, <strong>display:flex</strong> abo <strong>columns:2</strong> pśidaś. { learn-more }
 inactive-css-not-multicol-container-fix = Wopytajśo pak <strong>column-count</strong> pak <strong>column-width</strong> pśidaś. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Wopytajśo nadrědowanemu elementoju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> abo <strong>display:inline-flex</strong> pśidaś. { learn-more }
