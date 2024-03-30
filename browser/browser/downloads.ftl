@@ -62,6 +62,29 @@ downloads-cmd-always-use-system-default-named =
 
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Vienmēr atvērt līdzīgas datnes
+    .accesskey = V
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Rādīt mapē
+           *[other] Rādīt mapē
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Rādīt mapē
+           *[other] Rādīt mapē
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Rādīt mapē
+           *[other] Rādīt mapē
+        }
 downloads-cmd-show-downloads =
     .label = Rādīt lejupielāžu mapi
 downloads-cmd-retry =
@@ -83,6 +106,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Notīrīt lejupielādes
     .accesskey = d
+downloads-cmd-delete-file =
+    .label = Dzēst
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Atļaut lejupielādi
@@ -123,6 +149,18 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = Atvērsies pēc { $hours }st. { $minutes }min.
+downloading-file-opens-in-minutes-2 =
+    .value = Atvērsies pēc { $minutes }min.
+downloading-file-opens-in-minutes-and-seconds-2 =
+    .value = Atvērsies pēc { $minutes }min. { $seconds }sek.
+downloading-file-opens-in-seconds-2 =
+    .value = Atvērsies pēc { $seconds }sek.
+downloading-file-opens-in-some-time-2 =
+    .value = Atvērsies, kad būs pabeigta…
+downloading-file-click-to-open =
+    .value = Atvērt, kad ir pabeigts
 
 ##
 
@@ -150,6 +188,12 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [zero] { $num } datne nav lejupielādēta.
+        [one] { $num } datnes nav lejupielādētas.
+       *[other] { $num } datņu nav lejupielādētu.
+    }
 
 ##
 
