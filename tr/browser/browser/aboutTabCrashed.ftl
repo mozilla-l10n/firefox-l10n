@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashed-title = Çöken sekme habercisi
+crashed-title = Çöken sekme raporcusu
 crashed-close-tab-button = Sekmeyi kapat
 crashed-restore-tab-button = Bu sekmeyi geri yükle
 crashed-restore-all-button = Çöken tüm sekmeleri geri yükle
