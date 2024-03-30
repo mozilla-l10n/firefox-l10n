@@ -139,7 +139,7 @@ downloads-show-more-information =
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
-    .value = Atvērt failu
+    .value = Atvērt datni
 
 ## Displayed when the user clicked on a download in process. Indicates that the
 ## downloading file will be opened after certain amount of time using an app
@@ -194,6 +194,8 @@ downloads-files-not-downloaded =
         [one] { $num } datnes nav lejupielādētas.
        *[other] { $num } datņu nav lejupielādētu.
     }
+downloads-blocked-from-url = Lejupielādes ir bloķētas no { $url }.
+downloads-blocked-download-detailed-info = { $url } mēģināja automātiski lejupielādēt vairākas datnes. Vietne var būt bojāta vai mēģināt saglabāt nevēlamas datnes šajā ierīcē.
 
 ##
 
@@ -207,10 +209,25 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Šajā sesijā nav nevienas lejupielādes.
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [zero] Lejupielādē vēl { $count } datni
+        [one] Lejupielādē vēl { $count } datnes
+       *[other] Lejupielādē vēl { $count } datņu
+    }
 
 ## Download errors
 
 downloads-error-alert-title = Lejupielādes kļūda
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Lejupielādi nevar saglabāt, jo to bloķē { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Lejupielādi nevar saglabāt, jo to bloķē paplašinājums.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Šo lejupielādi nevar saglabāt, jo gadījās nezināma kļūda.
