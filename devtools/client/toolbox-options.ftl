@@ -59,6 +59,8 @@ options-default-color-unit-name = Renk adları
 
 ## Web Console section
 
+# The heading
+options-webconsole-label = Web konsolu
 # The label for the checkbox that toggle whether the Split console is enabled
 options-webconsole-split-console-label = Ayrık konsolu etkinleştir
 options-webconsole-split-console-tooltip =

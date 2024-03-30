@@ -434,5 +434,12 @@ pointing-device-none = İşaretleme aygıtı yok
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = İçerik analizi (DLP)
 content-analysis-active = Etkin
+content-analysis-connected-to-agent = İstemciye bağlanıldı
+content-analysis-agent-path = İstemci yolu
+content-analysis-agent-failed-signature-verification = İstemci imza doğrulaması başarısız oldu
 content-analysis-request-count = İstek sayısı
