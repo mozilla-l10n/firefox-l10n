@@ -229,6 +229,9 @@ menu-history-undo-menu =
     .label = Nesen aizvērtās cilnes
 menu-history-undo-window-menu =
     .label = Nesen aizvērtie logi
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Meklēt vēsturē
 
 ## Bookmarks Menu
 
@@ -241,6 +244,9 @@ menu-bookmark-tab =
     .label = Pievienot grāmatzīmēm pašreizējo cilni…
 menu-edit-bookmark =
     .label = Rediģēt šo grāmatzīmi…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Meklēt grāmatzīmes
 menu-bookmarks-all-tabs =
     .label = Saglabāt visas cilnes grāmatzīmēs…
 menu-bookmarks-toolbar =
@@ -264,9 +270,18 @@ menu-tools-addons-and-themes =
 menu-tools-fxa-sign-in2 =
     .label = Ierakstīties
     .accesskey = r
+menu-tools-turn-on-sync2 =
+    .label = Ieslēgt sinhronizāciju…
+    .accesskey = I
 menu-tools-sync-now =
     .label = Sinhronizēt
     .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = Atkārtoti savienoties ar { -brand-product-name }…
+    .accesskey = r
+menu-tools-browser-tools =
+    .label = Pārlūka rīki
+    .accesskey = P
 menu-tools-task-manager =
     .label = Uzdevumu pārvaldnieks
     .accesskey = p
@@ -308,8 +323,26 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = Palīdzība
     .accesskey = P
+menu-get-help =
+    .label = Iegūt palīdzību
+    .accesskey = I
+menu-help-more-troubleshooting-info =
+    .label = Plašāka informācija par problēmu novēršanu
+    .accesskey = P
 menu-help-report-site-issue =
     .label = Ziņot par problēmu ar lapu…
+menu-help-share-ideas =
+    .label = Dalieties ar idejām un atsauksmēm…
+    .accesskey = D
+menu-help-enter-troubleshoot-mode2 =
+    .label = Problēmu novēršanas režīms…
+    .accesskey = m
+menu-help-exit-troubleshoot-mode =
+    .label = Izslēgt problēmu novēršanas režīmu
+    .accesskey = m
+menu-help-switch-device =
+    .label = Pārslēgšanās uz jaunu ierīci
+    .accesskey = n
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
@@ -318,3 +351,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Šī nav maldinoša lapa…
     .accesskey = d
+menu-report-broken-site =
+    .label = Ziņot par bojātu vietni
