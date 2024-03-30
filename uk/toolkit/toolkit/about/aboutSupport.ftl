@@ -436,3 +436,15 @@ pointing-device-mouse = Миша
 pointing-device-touchscreen = Сенсорний екран
 pointing-device-pen-digitizer = Цифрові ручки
 pointing-device-none = Немає вказівних пристроїв
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Аналіз вмісту (DLP)
+content-analysis-active = Активний
+content-analysis-connected-to-agent = Під'єднано до агента
+content-analysis-agent-path = Шлях до агента
+content-analysis-agent-failed-signature-verification = Агент не пройшов перевірку підпису
+content-analysis-request-count = Кількість запитів
