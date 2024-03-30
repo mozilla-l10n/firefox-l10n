@@ -9,6 +9,11 @@ callout-primary-complete-button-label = Viss skaidrs!
 
 ## Firefox View feature tour strings
 
+# "Tab pickup" refers to the section in Firefox View that displays open
+# tabs from other devices
+callout-firefox-view-tab-pickup-title = Pārleciet starp ierīcēm, izmantojot cilņu paņemšanu
+callout-firefox-view-tab-pickup-subtitle = Ātri paņemiet tālrunī atvērtās cilnes un atveriet tās šeit, lai ātri pārslēgtos.
+callout-firefox-view-recently-closed-title = Vienā mirklī atgūstiet aizvērtās cilnes
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
