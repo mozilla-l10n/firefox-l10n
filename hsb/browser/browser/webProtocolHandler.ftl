@@ -12,7 +12,7 @@ protocolhandler-mailto-os-handler-no-button = Nic nětko
 
 protocolhandler-mailto-handler-notificationbox-always = E-mejlowe wotkazy přeco z { $url } wočinić?
 protocolhandler-mailto-handler-yes-confirm = { $url } je nětko waše standardne sydło za wočinjenje wotkazow, kotrež mejlki sćelu.
-protocolhandler-mailto-handler-set-message = <strong>{ $url } w { -brand-short-name }</strong> kóždy raz wužiwać, hdyž na wotkaz klikaće, kotryž waš mejlku wočinja?
+protocolhandler-mailto-handler-set-message = <strong>{ $url } w { -brand-short-name }</strong> kóždy raz wužiwać, hdyž na wotkaz klikaće, kotryž wašu mejlku wočinja?
 
 ##
 
