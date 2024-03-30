@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of
+# in-progress and blocked downloads.
+downloads-panel-items =
+    .style = width: 35em
 downloads-cmd-pause =
     .label = Apturēt
     .accesskey = p
@@ -23,12 +28,37 @@ downloads-cmd-cancel =
     .tooltiptext = Atcelt
 downloads-cmd-cancel-panel =
     .aria-label = Atcelt
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Rādīt mapē
+           *[other] Rādīt mapē
+        }
+    .accesskey = R
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
 ##   $handler (String) - The name of the mime type's default file handler.
 ##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
 
+downloads-cmd-use-system-default =
+    .label = Atvērt sistēmas skatītājā
+    .accesskey = i
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = Atvērt ar { $handler }
+    .accesskey = A
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-use-system-default =
+    .label = Vienmēr atvērt sistēmas skatītājā
+    .accesskey = V
+# We can use the same accesskey as downloads-cmd-always-open-similar-files.
+# Both should not be visible in the downloads context menu at the same time.
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-always-use-system-default-named =
+    .label = Vienmēr atvērt ar { $handler }
+    .accesskey = V
 
 ##
 
@@ -53,42 +83,33 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Notīrīt lejupielādes
     .accesskey = d
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Atļaut lejupielādi
     .accesskey = a
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
-    .tooltiptext = Aizvākt failu
-
+    .tooltiptext = Izņemt datni
 downloads-cmd-remove-file-panel =
-    .aria-label = Aizvākt failu
-
+    .aria-label = Izņemt datni
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
-    .tooltiptext = Aizvākt failu vai atļaut lejupielādi
-
+    .tooltiptext = Izņemt datni vai atļaut lejupielādi
 downloads-cmd-choose-unblock-panel =
-    .aria-label = Aizvākt failu vai atļaut lejupielādi
-
+    .aria-label = Izņemt datni vai atļaut lejupielādi
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
-    .tooltiptext = Atvērt vai aizvākt failu
-
+    .tooltiptext = Atvērt vai izņemt datni
 downloads-cmd-choose-open-panel =
-    .aria-label = Atvērt vai aizvākt failu
-
+    .aria-label = Atvērt vai izņemt datni
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
-    .value = Rādīt papildus informāciju
-
+    .value = Rādīt papildu informāciju
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -109,20 +130,17 @@ downloads-open-file =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Mēģināt vēlreiz lejupielādēt
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Atcelt lejupielādi
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Rādīt visas lejupielādes
     .accesskey = s
-
-# This string is shown at the top of the Download Details Panel, to indicate
+# This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Lejupielādes informācija
@@ -138,12 +156,10 @@ downloads-details =
 downloads-clear-downloads-button =
     .label = Notīrīt lejupielādes
     .tooltiptext = Notīra pabeigtās, atceltās un neveiksmīgās lejupielādes
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Nav nevienas lejupielādes.
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Šajā sesijā nav nevienas lejupielādes.
