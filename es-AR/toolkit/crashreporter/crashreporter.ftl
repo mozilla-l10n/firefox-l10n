@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = Informe de fallos de { -brand-short-name }
 crashreporter-crashed-and-restore = { -brand-short-name } tuvo un problema y se colgó. Trataremos de restaurar las pestañas y ventanas cuando se reinicie.
 crashreporter-plea = Para ayudarnos a diagnosticar y reparar este problema, puede enviarnos un informe sobre la falla.
 crashreporter-information = Esta aplicación se ejecuta después de un error para informar el problema a { -vendor-short-name }.  No debería ejecutarse directamente.
@@ -43,3 +44,4 @@ crashreporter-error-no-home-dir = Falta el directorio del usuario
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Error al mover { $from } a { $to }
+crashreporter-error-version-eol = Fin de la vida útil de la versión: los informes de fallos ya no se aceptan.
