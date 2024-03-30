@@ -59,6 +59,15 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Түстер аттары
 
+## Web Console section
+
+# The heading
+options-webconsole-label = Веб консолі
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Бөлінген консольді іске қосу
+options-webconsole-split-console-tooltip =
+    .title = Бөлінген консольді Esc пернесімен ашу
+
 ## Style Editor section
 
 # The heading

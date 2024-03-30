@@ -124,6 +124,7 @@ policy-SSLVersionMax = Максималды SSL нұсқасын орнату.
 policy-SSLVersionMin = Минималды SSL нұсқасын орнату.
 policy-StartDownloadsInTempDirectory = Жүктемелерді қалыпты жүктеп алу бумасында емес, жергілікті, уақытша жерде бастауға мәжбүрлету.
 policy-SupportMenu = Көмек мәзіріне таңдауыңызша қолдау көрсету мәзір элементін қосу.
+policy-TranslateEnabled = Веб-парақтарды аударуды іске қосу немесе жасыру.
 policy-UserMessaging = Пайдаланушыға кейбір хабарламаларды көрсетпеу.
 policy-UseSystemPrintDialog = Жүйелік сұхбатын қолданып, баспаға шығару.
 # “format” refers to the format used for the value of this policy.

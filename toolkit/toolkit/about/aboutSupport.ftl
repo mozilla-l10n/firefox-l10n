@@ -428,3 +428,11 @@ pointing-device-mouse = Тышқан
 pointing-device-touchscreen = Тачскрин
 pointing-device-pen-digitizer = Қалам диджитайзері
 pointing-device-none = Көрсеткіш құрылғылары жоқ
+
+## Content Analysis (DLP)
+
+content-analysis-active = Белсенді
+content-analysis-connected-to-agent = Агентке байланысқан
+content-analysis-agent-path = Агент жолы
+content-analysis-agent-failed-signature-verification = Агент қолтаңбаны тексеруді сәтсіз аяқтады
+content-analysis-request-count = Сұраным саны
