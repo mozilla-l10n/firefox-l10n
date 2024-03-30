@@ -192,6 +192,9 @@ media-codec-support-lack-of-extension = Cài đặt tiện ích mở rộng
 ## https://w3c.github.io/encrypted-media/
 
 media-content-decryption-modules-title = Thông tin module giải mã nội dung
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = Tương thích HDCP 2.2
 
 ##
 
@@ -251,6 +254,7 @@ try-newer-driver = Bị chặn đối với phiên bản trình điều khiển 
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Tham số ClearType
 compositing = Cách tổng hợp
+support-font-determination = Phông chữ hiển thị thông tin gỡ lỗi
 hardware-h264 = Giải mã phần cứng H264
 main-thread-no-omtc = chủ đề chính, không có OMTC
 yes = Có
@@ -396,3 +400,11 @@ pointing-device-mouse = Chuột
 pointing-device-touchscreen = Màn hình cảm ứng
 pointing-device-pen-digitizer = Bút kỹ thuật số
 pointing-device-none = Không có thiết bị điều khiển con trỏ
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Phân tích nội dung (DLP)
+content-analysis-active = Đang hoạt động
