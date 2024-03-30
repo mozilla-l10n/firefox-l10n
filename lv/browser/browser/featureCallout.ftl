@@ -14,6 +14,7 @@ callout-primary-complete-button-label = Viss skaidrs!
 callout-firefox-view-tab-pickup-title = Pārleciet starp ierīcēm, izmantojot cilņu paņemšanu
 callout-firefox-view-tab-pickup-subtitle = Ātri paņemiet tālrunī atvērtās cilnes un atveriet tās šeit, lai ātri pārslēgtos.
 callout-firefox-view-recently-closed-title = Vienā mirklī atgūstiet aizvērtās cilnes
+callout-firefox-view-recently-closed-subtitle = Šeit parādīsies visas jūsu aizvērtās cilnes. Jums vairs nebūs jāuztraucas par nejaušu vietnes aizvēršanu.
 
 ## Continuous Onboarding - Firefox View: Tab pick up
 
