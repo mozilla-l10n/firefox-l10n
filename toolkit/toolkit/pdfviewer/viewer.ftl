@@ -309,6 +309,7 @@ pdfjs-highlight-floating-button =
 pdfjs-highlight-floating-button1 =
     .title = Ерекшелеу
     .aria-label = Ерекшелеу
+pdfjs-highlight-floating-button-label = Ерекшелеу
 
 ## Remove button for the various kind of editor.
 
@@ -396,3 +397,6 @@ pdfjs-editor-colorpicker-red =
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = Барлығын көрсету
+pdfjs-editor-highlight-show-all-button =
+    .title = Барлығын көрсету

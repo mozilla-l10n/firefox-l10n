@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = { -brand-short-name } құлаулар хабарлаушысы
 crashreporter-plea = Мәселені шешуге көмектесу үшін, сіз бізге хабар жібере аласыз.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Толық мәлімет: { $details }
@@ -25,3 +26,4 @@ crashreporter-crash-identifier = Құлап түсу ID-і: { $id }
 
 # Error strings
 
+crashreporter-error-no-home-dir = Үй бумасы жоқ
