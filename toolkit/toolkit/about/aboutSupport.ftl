@@ -428,3 +428,15 @@ pointing-device-mouse = Sagua
 pointing-device-touchscreen = Ukipen-pantaila
 pointing-device-pen-digitizer = Boligrafo digitalizatzailea
 pointing-device-none = Erakusledun gailurik ez
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Edukiaren analisia (DLP)
+content-analysis-active = Aktibo
+content-analysis-connected-to-agent = Agenteari konektatuta
+content-analysis-agent-path = Agentearen bidea
+content-analysis-agent-failed-signature-verification = Agenteak sinaduraren egiaztapena huts egin du
+content-analysis-request-count = Eskaera kopurua
