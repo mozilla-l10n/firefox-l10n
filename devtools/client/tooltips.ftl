@@ -38,6 +38,11 @@ inactive-css-not-table-cell = Властивість <strong>{ $property }</stro
 inactive-scroll-padding-when-not-scroll-container = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не прокручується.
 inactive-css-border-image = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки його не можна застосувати до внутрішньої таблиці елементів, де для <strong>border-collapse</strong> встановлено <strong>collapse</strong> на елементі таблиці вищого рівня.
 inactive-css-ruby-element = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки це елемент ruby. Його розмір визначається розміром шрифту тексту ruby.
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = Властивість <strong>{ $property }</strong> не підтримується для виділення псевдоелементів.
 inactive-css-cue-pseudo-element-not-supported = Властивість <strong>{ $property }</strong> не підтримується в псевдо-елементах ::cue.
 # Variables:
@@ -52,9 +57,11 @@ inactive-css-text-wrap-balance-fragmented = Властивість <strong>{ $pr
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Спробуйте додати <strong>display:grid</strong> або <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Спробуйте додати <strong>display:grid</strong>, <strong>display:flex</strong> або <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Спробуйте додати <strong>display:grid</strong>, <strong>display:flex</strong>, або <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Спробуйте додати <strong>column-count</strong> або <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Спробуйте додати <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, або <strong>display:inline-flex</strong> до елемента вищого рівня. { learn-more }
