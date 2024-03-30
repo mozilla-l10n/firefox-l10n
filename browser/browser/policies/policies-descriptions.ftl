@@ -124,6 +124,7 @@ policy-SSLVersionMax = Chỉnh phiên bản SSL tối đa.
 policy-SSLVersionMin = Chỉnh phiên bản SSL tối thiểu.
 policy-StartDownloadsInTempDirectory = Buộc bắt đầu tải xuống ở một vị trí cục bộ, tạm thời thay vì thư mục tải xuống mặc định.
 policy-SupportMenu = Thêm một mục menu hỗ trợ tùy chỉnh vào menu trợ giúp.
+policy-TranslateEnabled = Bật hoặc tắt dịch trang web.
 policy-UserMessaging = Không hiển thị một số thông điệp nhất định cho người dùng.
 policy-UseSystemPrintDialog = In bằng hộp thoại in hệ thống.
 # “format” refers to the format used for the value of this policy.
