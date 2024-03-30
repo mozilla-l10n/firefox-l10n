@@ -411,3 +411,15 @@ pointing-device-mouse = 鼠标
 pointing-device-touchscreen = 触摸屏
 pointing-device-pen-digitizer = 数位板
 pointing-device-none = 无定点设备
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = 内容分析（DLP）
+content-analysis-active = 已启用
+content-analysis-connected-to-agent = 已与程序连接
+content-analysis-agent-path = 程序路径
+content-analysis-agent-failed-signature-verification = 代理签名验证失败
+content-analysis-request-count = 请求数量
