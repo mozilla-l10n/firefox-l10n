@@ -5,6 +5,16 @@
 
 ## Subframe crash notification
 
+crashed-subframe-message = <strong>Daļa šīs lapas avarēja.</strong> Lai informētu { -brand-product-name } par šo problēmu un ātrāk to novērstu, lūdzu, iesniedziet ziņojumu.
+# The string for crashed-subframe-title.title should match crashed-subframe-message,
+# but without any markup.
+crashed-subframe-title =
+    .title = Daļa šīs lapas avarēja. Lai { -brand-product-name } informētu par šo problēmu un ātrāk to novērstu, lūdzu, iesniedziet ziņojumu.
+crashed-subframe-learnmore-link =
+    .value = Uzzināt vairāk
+crashed-subframe-submit =
+    .label = Iesniegt ziņojumu
+    .accesskey = I
 
 ## Pending crash reports
 
