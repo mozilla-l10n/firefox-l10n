@@ -21,11 +21,36 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } Գաղտնի դիտարկում
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Գաղտնի դիտարկում
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — Մասնավոր զննարկում
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — Մասնավոր զննարկում
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+# The non-variable portion of this MUST match the translation of
+# "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } Մասնավոր զննարկում
 
 ##
 
@@ -66,6 +91,10 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Կառավարել բաղադրիչների օգտագործումը
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Կառավարել խցիկի և/կամ բարձրախոսի համօգտագործումը այս կայքի հետ
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+urlbar-web-rtc-share-speaker-notification-anchor =
+    .tooltiptext = Կառավարեք  բարձրախոսի համօգտագործումը այս կայքի հետ
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Բացեք ինքնաշխատ վահանակը
 urlbar-persistent-storage-notification-anchor =
@@ -316,6 +345,7 @@ identity-connection-secure = Կապակցումը ապահով է
 identity-connection-failure = Կապակցումը ձախողվեց
 identity-connection-internal = Սա անվտանգ { -brand-short-name } էջ է:
 identity-connection-file = Այս էջը գտնվում է համակարգչում
+identity-connection-associated = Այս էջը բեռնված է մեկ այլ էջից:
 identity-extension-page = Այս էջը բեռնվել է ընդլայնումից:
 identity-active-blocked = { -brand-short-name }-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն:
 identity-custom-root = Կապակցումը հաստատվել է վկայագրի թողարկողի կողմից, որը ճանաչված չէ Mozilla֊ի կողմից։
@@ -325,6 +355,7 @@ identity-weak-encryption = Այս էջը օգտագործում է աղքատ գ
 identity-insecure-login-forms = Այս էջից մուտքագրումները վտանգված են:
 identity-https-only-connection-upgraded = (արդիացվել է HTTPS-ի)
 identity-https-only-label = Միայն HTTPS կերպ
+identity-https-only-label2 = Ինքնաշխատ արդիացրեք այս կայքը անվտանգ կապակցման
 identity-https-only-dropdown-on =
     .label = Միաց.
 identity-https-only-dropdown-off =
@@ -429,6 +460,9 @@ popup-select-microphone-icon =
     .tooltiptext = Խոսափող
 popup-select-speaker-icon =
     .tooltiptext = Բարձրախոսներ
+popup-select-window-or-screen =
+    .label = Պատուհան կամ էկրան.
+    .accesskey = W
 popup-all-windows-shared = Էկրանի բոլոր տեսանելի պատուհանները կտարածվեն:
 
 ## WebRTC window or screen share tab switch warning
@@ -515,6 +549,20 @@ urlbar-result-action-search-w-engine = Որոնել { $engine }-ով
 urlbar-result-action-sponsored = Հովանավորված
 urlbar-result-action-switch-tab = Փոխանջատել ներդիրը
 urlbar-result-action-visit = Այցելել
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Այցելություն սեղմնատախտակից
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = Սեղմեք Tab՝ { $engine }-ով որոնելու համար
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = Սեղմեք Tab՝ { $engine } որոնելու համար
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Պատճենել
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -567,6 +615,8 @@ reader-view-close-button =
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 picture-in-picture-panel-header = Նկար-նկարում
+picture-in-picture-enable-toggle =
+    .label = Միացնել ամեն դեպքում
 
 ## Full Screen and Pointer Lock UI
 
@@ -669,6 +719,9 @@ save-to-pocket-button =
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = Վերականգնել տեքստի կոդավորումը
+    .tooltiptext = Էջի բովանդակությունից գուշակում է էջի ճիշտ կոդավորումը
 
 ## Customize Toolbar Buttons
 

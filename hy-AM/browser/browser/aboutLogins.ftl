@@ -114,6 +114,7 @@ about-logins-login-item-new-login-title = Ավելացնել գաղտնաբառ
 login-item-edit-button = Խմբագրել
 about-logins-login-item-remove-button = Հեռացնել
 login-item-origin-label = Կայքի հասցեն
+about-logins-origin-tooltip2 = Մուտքագրեք ամբողջական հասցեն և համոզվեք, որ այն ճշգրիտ համընկնում է ձեր մուտքի վայրի հետ:
 about-logins-add-password-tooltip = Համոզվեք, որ պահպանում եք ձեր ընթացիկ գաղտնաբառը այս կայքի համար:
 login-item-origin =
     .placeholder = https://www.example.com
@@ -136,6 +137,9 @@ login-item-cancel-button = Չեղարկել
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Ստեղծված
 login-item-timeline-action-updated = Արդիացված
 login-item-timeline-action-used = Օգտագործված
@@ -224,12 +228,28 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [one] Այո, հեռացնել գաղտնաբառերը
        *[other] Այո, հեռացնել գաղտնաբառերը
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Հեռացնե՞լ  { $count } գաղտնաբառը:
+       *[other] Հեռացնե՞լ բոլոր { $count } գաղտնաբառերը:
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Հեռացնե՞լ  { $count } գաղտնաբառը բոլոր սարքերից:
+       *[other] Հեռացնե՞լ բոլոր { $count } գաղտնաբառերը բոլոր սարքերից:
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանունները և գաղտնաբառերը
 about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կպահպանվեն որպես ընթեռնելի տեքստ (օր. ՝ BadP@ssw0rd), այնպես որ յուրաքանչյուրը, ով կարող է բացել արտահանվող ֆայլը, կարող է դիտել դրանք:
 about-logins-confirm-export-dialog-confirm-button = Արտահանել...
+about-logins-confirm-export-dialog-title2 = Ծանոթագրություն գաղտնաբառերի արտահանման մասին
+about-logins-confirm-export-dialog-message2 =
+    Երբ արտահանում եք, ձեր գաղտնաբառերը պահվում են ընթեռնելի տեքստային ֆայլում:
+    Երբ ավարտեք ֆայլի օգտագործումը, խորհուրդ ենք տալիս ջնջել այն, որպեսզի այս սարքից մյուս օգտվողները չկարողանան տեսնել ձեր գաղտնաբառերը:
 about-logins-confirm-export-dialog-confirm-button2 = Շարունակել արտահանումը
 about-logins-alert-import-title = Ներմուծումն ավարտվեց
 about-logins-alert-import-message = Դիտեք ներմուծման մանրամասն ամփոփագիրը
@@ -323,15 +343,23 @@ about-logins-import-dialog-items-modified =
         [one] <span>Առկա մուտքագրում է թարմացվել.</span><span data-l10n-name="count">{ $count }</span>
        *[other] <span>Առկա մուտքագրումներ են թարմացվել.</span><span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+       *[other] <span>Կրկնօրինակ մուտքագրումներ են գտնվել․</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(չեն ներմուծվել)</span>
+    }
 about-logins-import-dialog-done = Պատրաստ է
 about-logins-import-dialog-error-title = Ներմուծման սխալ
 about-logins-import-dialog-error-file-format-title = Ֆայլի ձևաչափի խնդիր
 about-logins-import-dialog-error-file-permission-title = Հնարավոր չէ կարդալ ֆայլը
+about-logins-import-dialog-error-unable-to-read-title = Հնարավոր չէ կարդալ ֆայլը
+about-logins-import-dialog-error-unable-to-read-description = Համոզվեք, որ ընտրել եք CSV կամ TSV ֆայլ:
 about-logins-import-dialog-error-no-logins-imported = Ոչ մի մուտքագրում չի ներմուծվել
 about-logins-import-dialog-error-learn-more = Իմանալ ավելին
 about-logins-import-dialog-error-try-import-again = Նորից փորձեք ներմուծել…
 about-logins-import-dialog-error-cancel = Չեղարկել
 about-logins-import-report-title = Ներմուծման ամփոփագիր
+about-logins-import-report-description = Մուտքագրումներ և գաղտնաբառեր ներմուծվել են { -brand-short-name }-ում;
+about-logins-import-report-description2 = Գաղտնաբառերը ներմուծվել են { -brand-short-name }-ում:
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -339,6 +367,8 @@ about-logins-import-report-row-index = Տող { $number }
 about-logins-import-report-row-description-no-change = Կրկնօրինակ. գոյություն ունեցող մուտքի ճշգրիտ համընկնում
 about-logins-import-report-row-description-modified = Գոյություն ունեցող մուտքը թարմացվել է
 about-logins-import-report-row-description-added = Նոր մուտքագրում է ավելացվել
+about-logins-import-report-row-description-no-change2 = Կրկնօրինակ. գոյություն ունեցող մուտքի ճշգրիտ համընկնում
+about-logins-import-report-row-description-modified2 = Գոյություն ունեցող մուտքը թարմացվել է
 about-logins-import-report-row-description-added2 = Ավելացվեց նոր գաղտնաբառ
 about-logins-import-report-row-description-error = Սխալ․ դաշտ չկա
 
@@ -346,6 +376,7 @@ about-logins-import-report-row-description-error = Սխալ․ դաշտ չկա
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+about-logins-import-report-row-description-error-multiple-values = Սխալ․ բազմաթիվ արժեքներ { $field }-ի համար
 about-logins-import-report-row-description-error-missing-field = Սխալ․ բացակայում է { $field }
 
 ##

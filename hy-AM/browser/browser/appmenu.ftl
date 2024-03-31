@@ -73,6 +73,10 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Մուտք գործեք՝ համաժամեցնելու համար…
 appmenu-remote-tabs-turn-on-sync =
     .label = Միացնել համաժամեցումը…
+# This is shown after the tabs list if we can display more tabs by clicking on the button
+appmenu-remote-tabs-showmore =
+    .label = Ցուցադրել ավելի շատ ներդիրներ
+    .tooltiptext = Ցուցադրել ավելի շատ ներդիրներ այս սարքի համար
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Չկան բաց ներդիրներ
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -119,6 +123,9 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Հատկագրող
     .tooltiptext = Գրառել իրականացման հատկագիրը
+profiler-popup-button-recording =
+    .label = Հատկագրիչ
+    .tooltiptext = Հատկագրիչը գրանցում է պրոֆիլը
 profiler-popup-header-text = { -profiler-brand-name }
 profiler-popup-learn-more-button =
     .label = Իմանալ ավելին
@@ -239,4 +246,6 @@ appmenu-developer-tools-extensions =
 
 ## Panel for privacy and security products
 
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Պաշտպանեք ձեր առցանց գործունեությունը
