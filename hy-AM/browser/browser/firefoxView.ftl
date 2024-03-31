@@ -24,13 +24,16 @@ firefoxview-tabpickup-description = Բացեք էջերը այլ սարքերի�
 firefoxview-tabpickup-progress-label = { $percentValue }% ավարտված է
 firefoxview-tabpickup-step-signin-primarybutton = Շարունակել
 firefoxview-syncedtabs-signin-primarybutton = Մուտք գործեք կամ գրանցվեք
+firefoxview-tabpickup-adddevice-description = Ներբեռնեք { -brand-product-name } բջջային հեռախոսի համար և մուտք գործեք այնտեղ:
 firefoxview-tabpickup-adddevice-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-adddevice-primarybutton = Ստացեք { -brand-product-name } բջջայինի համար
+firefoxview-syncedtabs-adddevice-header = Մուտք գործեք { -brand-product-name } ձեր մյուս սարքերում
 firefoxview-syncedtabs-adddevice-primarybutton = Փորձեք { -brand-product-name }-ը բջջայինի համար
 firefoxview-tabpickup-synctabs-header = Միացնել ներդիրների համաժամացումը
 firefoxview-tabpickup-synctabs-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
 firefoxview-syncedtabs-synctabs-header = Թարմացրեք ձեր համաժամացման կարգավորումները
+firefoxview-syncedtabs-synctabs-checkbox = Թույլատրել բաց ներդիրներին համաժամեցնել
 firefoxview-syncedtabs-loading-header = Համաժամացում
 firefoxview-tabpickup-network-offline-header = Ստուգեք կապակցումը համացանցին
 firefoxview-tabpickup-network-offline-primarybutton = Կրկին փորձել
@@ -191,3 +194,16 @@ firefoxview-recentlyclosed-empty-header = Շու՞տ եք փակել ներդի�
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (էջանշված) { $url }

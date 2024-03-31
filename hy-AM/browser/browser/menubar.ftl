@@ -146,6 +146,8 @@ menu-view-history-button =
     .label = Պատմություն
 menu-view-synced-tabs-sidebar =
     .label = Համաժամեցված ներդիրներ
+menu-view-megalist-sidebar =
+    .label = Գաղտնաբառեր
 menu-view-full-zoom =
     .label = Մասշտաբը
     .accesskey = Մ
@@ -170,6 +172,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = Էջի հիմնական ոճ
     .accesskey = B
+menu-view-repair-text-encoding =
+    .label = Վերականգնել տեքստի կոդավորումը
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.

@@ -55,6 +55,7 @@ migration-no-permissions-instructions-step1 = Ընտրեք «Շարունակե�
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-selected-data-label = Ներմուծեք ընտրված տվյալները
 
 ##
 
@@ -224,6 +225,10 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched }-ը { $quantity } ընդլայնումներից
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Համապատասխան ընդլայնումներ չկան
+migration-wizard-progress-extensions-addons-link = Ընտրեք ընդլայնումներ { -brand-short-name }-ի համար
 
 ##
 
@@ -236,6 +241,16 @@ migration-wizard-progress-success-passwords =
     { $quantity ->
         [one] { $quantity } գաղտնաբառ
        *[other] { $quantity } գաղտնաբառ
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Վերջին օրից
+       *[other] Վերջին { $maxAgeInDays } օրից
     }
 migration-wizard-progress-success-formdata = Ձևերի պատմություն
 # Shown in the migration wizard after importing payment methods from another
