@@ -25,6 +25,17 @@ firefoxview-empty-state-icon =
 firefoxview-just-now-timestamp = Tikko
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = Ciļņu paņemšana
+firefoxview-tabpickup-description = Atveriet lapas no citām ierīcēm.
+# Variables:
+#  $percentValue (Number): the percentage value for setup completion
+firefoxview-tabpickup-progress-label = { $percentValue }% pabeigti
+firefoxview-tabpickup-step-signin-header = Viegli pārslēdzieties starp ierīcēm
+firefoxview-tabpickup-step-signin-description = Lai šeit ņemtu tālruņa cilnes, vispirms ierakstieties vai izveidojiet kontu.
+firefoxview-tabpickup-step-signin-primarybutton = Turpināt
+firefoxview-syncedtabs-signin-header = Ņemiet cilnes no jebkuras vietas
+firefoxview-syncedtabs-signin-description = Lai skatītu savas cilnes jebkurā vietā, kur izmantojat { -brand-product-name }, ierakstieties savā kontā. Ja jums nav konta, mēs palīdzēsim jums ieziet reģistrēšanās soļus.
+firefoxview-syncedtabs-signin-primarybutton = Ierakstieties vai pierakstieties
+firefoxview-tabpickup-adddevice-header = Sinhronizējiet { -brand-product-name } savā tālrunī vai planšetē
 
 ## History in this context refers to browser history
 
