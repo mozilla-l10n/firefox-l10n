@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = H
 text-action-search-text-box-clear =
     .title = Garbitu
+text-action-highlight-selection =
+    .label = Nabarmendu hautapena
