@@ -264,6 +264,7 @@ about-logins-confirm-remove-all-dialog-title2 =
 about-logins-confirm-export-dialog-title = Esportatu saio-hasierak eta pasahitzak
 about-logins-confirm-export-dialog-message = Zure pasahitzak testu irakurgarri modura gordeko dira (adib. P@sahitz3skas4) beraz esportatutako fitxategia ireki dezakeen orok ikusi ahal izango ditu.
 about-logins-confirm-export-dialog-confirm-button = Esportatu…
+about-logins-confirm-export-dialog-title2 = Pasahitzak esportatzeari buruzko oharra
 about-logins-confirm-export-dialog-confirm-button2 = Jarraitu esportazioarekin
 about-logins-alert-import-title = Inportazioa burutu da
 about-logins-alert-import-message = Ikusi inportazioaren laburpen xehatua
@@ -360,6 +361,21 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Bikoiztutako saio-hasierak aurkitu dira:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ez dira inportatu)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Pasahitz berria gehituta:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Pasahitz berriak gehituta:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Lehendik dagoen sarrera eguneratuta:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Lehendik dauden sarrerak eguneratuta:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Bikoiztutako sarrera aurkitu da:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ez da inportatu)</span>
+       *[other] <span>Bikoiztutako sarrerak aurkitu dira:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ez dira inportatu)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Erroreak:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ez dira inportatu)</span>
@@ -380,6 +396,7 @@ about-logins-import-dialog-error-try-import-again = Saiatu berriz inportatzen…
 about-logins-import-dialog-error-cancel = Utzi
 about-logins-import-report-title = Inportazioaren laburpena
 about-logins-import-report-description = Saio-hasiera eta pasahitzak { -brand-short-name }(e)ra inportatu dira.
+about-logins-import-report-description2 = Pasahitzak { -brand-short-name }(e)ra inportatu dira.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -414,6 +431,21 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Saio-hasiera bikoiztu</div> <div data-l10n-name="not-imported">(ez dira inportatu)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">pasahitz berri gehitu da</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">pasahitz berri gehitu dira</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">sarrera eguneratu da (lehendik zegoen)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">sarrera eguneratu dira (lehendik zeudenak)</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">sarrera bikoiztu</div> <div data-l10n-name="not-imported">(ez da inportatu)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">sarrera bikoiztu</div> <div data-l10n-name="not-imported">(ez dira inportatu)</div>
     }
 about-logins-import-report-error =
     { $count ->
