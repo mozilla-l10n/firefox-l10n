@@ -17,6 +17,8 @@ policy-AppAutoUpdate = Gaitu edo desgaitu aplikazioaren eguneraketa automatikoa.
 policy-AppUpdatePin = Eragotzi { -brand-short-name } eguneratzea bertsio zehatz batetik aurrera.
 policy-AppUpdateURL = Ezarri aplikazioa-eguneraketen URL pertsonalizatua
 policy-Authentication = Konfiguratu onartzen duten webguneentzat integratutako autentifikazioa.
+policy-AutofillAddressEnabled = Gaitu helbideen osatze automatikoa
+policy-AutofillCreditCardEnabled = Gaitu ordainketa metodoen osatze automatikoa
 policy-AutoLaunchProtocolsFromOrigins = Definitu erabiltzaileari galdetu gabe jatorri zehatzetatik erabil daitezkeen kanpoko protokoloen zerrenda.
 policy-BackgroundAppUpdate2 = Gaitu edo desgaitu atzeko planoko eguneraketak.
 policy-BlockAboutAddons = Blokeatu gehigarrien kudeatzailerako sarbidea (about:addons).
@@ -26,6 +28,7 @@ policy-BlockAboutSupport = Blokeatu about:support orrirako sarbidea.
 policy-Bookmarks = Sortu laster-markak laster-marken tresna-barran, menuan edo hauen barneko karpeta batean.
 policy-CaptivePortal = Gaitu edo desgaitu atari gatibuen euskarria.
 policy-CertificatesDescription = Ziurtagiriak gehitzea edo integratutako ziurtagiriak erabiltzea.
+policy-ContentAnalysis = Gaitu edo desgaitu datu-galera eragozteko agenterako konexioa.
 policy-Cookies = Baimendu edo ukatu webguneei cookieak ezartzea.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Ezarri edukiontziei lotutako politikak.
@@ -122,6 +125,7 @@ policy-SSLVersionMax = Ezarri SSL bertsio maximoa.
 policy-SSLVersionMin = Ezarri SSL bertsio minimoa.
 policy-StartDownloadsInTempDirectory = Behartu deskargak aldi baterako kokaleku lokalean hastea deskarga-direktorio lehenetsiaren ordez.
 policy-SupportMenu = Gehitu euskarrirako menu-elementu pertsonalizatua laguntzaren menuan.
+policy-TranslateEnabled = Gaitu edo desgaitu web orrien itzulpena.
 policy-UserMessaging = Ez erakutsi zenbait mezu erabiltzaileari.
 policy-UseSystemPrintDialog = Inprimatu sistemaren inprimatzeko elkarrizketa-koadroa erabiliz…
 # “format” refers to the format used for the value of this policy.
