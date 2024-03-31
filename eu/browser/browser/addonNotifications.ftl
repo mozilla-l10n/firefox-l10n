@@ -35,10 +35,12 @@ xpinstall-prompt-install =
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
 site-permission-install-first-prompt-midi-header = Gune hau zure MIDI (Musical Instrument Digital Interface) gailuetarako sarbidea eskatzen ari da. Gehigarri bat instalatuz gai daiteke gailuetarako sarbidea.
+site-permission-install-first-prompt-midi-message = Ezin da ziurtatu sarbidea segurua denik. Jarraitu soilik gunea konfiantzazkoa bada.
 
 ##
 
 xpinstall-disabled-locked = Softwarearen instalazioa sistemaren kudeatzaileak ezgaitu du.
+xpinstall-disabled-by-policy = Softwarearen instalazioa desgaitu du zure erakundeak.
 xpinstall-disabled = Softwareren instalazioa ezgaituta dago. Egin klik 'Gaitu' botoian eta saiatu berriro.
 xpinstall-disabled-button =
     .label = Gaitu
@@ -50,6 +52,11 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) blokeatu du zure sistemaren administratzaileak.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Zure sistemaren kudeatzaileak gune honi galarazi egin dio ordenagailuan softwarea instalatzeaz galdetzea.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) blokeatu du zure erakundeak.
 addon-install-full-screen-blocked = Gehigarrien instalazioa ez da baimentzen pantaila osoko moduan edo modu horretara sartu aurretik.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
