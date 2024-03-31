@@ -92,6 +92,28 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
+# so should probably have the same access key if possible.
+main-context-menu-edit-bookmark-mac =
+    .label = Խմբագրել Էջանիշը…
+    .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut =
+    .aria-label = Էջանշել էջը…
+    .accesskey = m
+    .tooltiptext = Էջանշել { $shortcut } էջը
+main-context-menu-edit-bookmark =
+    .aria-label = Խմբագրել Էջանիշը…
+    .accesskey = m
+    .tooltiptext = Խմբագրել Էջանիշը
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut =
+    .aria-label = Խմբագրել Էջանիշը…
+    .accesskey = m
+    .tooltiptext = Խմբագրել { $shortcut } Էջանիշը
 main-context-menu-open-link =
     .label = Բացել Հղումը
     .accesskey = Բ
@@ -192,6 +214,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Դուրս գալ Լիաէկրան վիճակից
     .accesskey = Լ
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Նայել «Նկարը Նկարում»-ով
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Կրկին բեռնել Նկարը
     .accesskey = Կ
@@ -222,6 +249,9 @@ main-context-menu-image-email =
 main-context-menu-image-set-image-as-background =
     .label = Պահպանել պատկերը որպես Աշխատասեղանի նկար…
     .accesskey = S
+main-context-menu-image-copy-text =
+    .label = Պատճենել տեքստը պատկերից
+    .accesskey = x
 main-context-menu-image-info =
     .label = Տեղեկություն Նկարի Մասին
     .accesskey = Տ
@@ -254,6 +284,9 @@ main-context-menu-send-to-device =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-use-saved-login =
+    .label = Օգտագործեք պահված մուտքագրումը
+    .accesskey = o
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Օգտագործեք պահված գաղտնաբառը
@@ -261,6 +294,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = Օգտագործեք { -relay-brand-short-name } Էլ․ փոստի դիմակը
+    .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Առաջարկել ուժեղ գաղտնաբառ…
     .accesskey = S
@@ -332,3 +368,11 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Իմանալ ավելին DRM-ի մասին...
     .accesskey = D
+# Variables
+#   $containerName (String): The name of the current container
+main-context-menu-open-link-in-container-tab =
+    .label = Բացել հղումը Նոր { $containerName } Ներդիրում
+    .accesskey = T
+main-context-menu-reveal-password =
+    .label = Վերակայել գաղտնաբառը
+    .accesskey = v
