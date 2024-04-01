@@ -6,6 +6,7 @@ crashreporter-branded-title = Reporte de fallos de { -brand-short-name }
 crashreporter-crashed-and-restore = { -brand-short-name } tuvo un problema y falló. Intentaremos restaurar tus pestañas y ventanas cuando se reinicie.
 crashreporter-plea = Para ayudarnos a diagnosticar y reparar este problema, puedes enviarnos un reporte de fallos.
 crashreporter-information = Esta aplicación se ejecuta después de un error para informar del problema a { -vendor-short-name }. No debería ejecutarse directamente.
+crashreporter-error = { -brand-short-name } ha tenido un problema y se cerrará. Desafortunadamente, el reportador de fallos no es capaz de enviar un informe sobre este problema.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalles: { $details }
 crashreporter-no-run-message = Esta aplicación se ejecuta después de un error para informar del problema al fabricante de la aplicación. No debería ejecutarse directamente.
@@ -32,6 +33,7 @@ crashreporter-crash-details = Puede ver detalles de este problema en { $url }.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Error al ejecutar minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = No se pudo abrir el archivo ({ $path })
 # $path (String) - the file path
@@ -39,4 +41,7 @@ crashreporter-error-loading-file = No se pudo cargar el archivo ({ $path })
 # $path (String) - the path
 crashreporter-error-creating-dir = No se pudo crear el directorio ({ $path })
 crashreporter-error-no-home-dir = Falta el directorio de inicio
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Error al mover { $from } a { $to }
 crashreporter-error-version-eol = Fin de vida útil de la versión: ya no se aceptan informes de fallos.
