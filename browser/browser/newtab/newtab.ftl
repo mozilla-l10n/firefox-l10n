@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Agiuntar maschina da tschertgar
 newtab-topsites-add-shortcut-header = Nova scursanida
 newtab-topsites-edit-topsites-header = Modifitgar la pagina principala
 newtab-topsites-edit-shortcut-header = Modifitgar la scursanida
+newtab-topsites-add-shortcut-label = Agiuntar ina scursanida
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Endatar in titel
@@ -198,6 +199,7 @@ newtab-section-header-recent-activity = Activitad recenta
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recumandà da { $provider }
+newtab-section-header-stories = Istorgias che dattan da pensar
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -206,6 +208,8 @@ newtab-empty-section-highlights = Cumenza a navigar e nus ta mussain qua artitge
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ussa has ti legì tut las novitads. Turna pli tard per ulteriuras novitads da { $provider }. Na pos betg spetgar? Tscherna in tema popular per chattar ulteriuras istorgias ord il web.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Ti has legì tut las novitads. Turna pli tard per leger ulteriurs artitgels da vaglia. Na pos betg spetgar? Tscherna in tema popular per chattar autras bunas istorgias en il web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -258,9 +262,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Scursanidas sponsuradas
 newtab-custom-pocket-title = Recumandà da { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Cuntegn excepziunal, tschernì da { -pocket-brand-name }, in product da { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Recumandà da { -pocket-brand-name }
-    .description = Cuntegn excepziunal, tschernì da { -pocket-brand-name }, in product da { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = Istorgias recumandadas
+    .description = Cuntegn excepziunal curà da { -brand-product-name }
 newtab-custom-pocket-sponsored = Artitgels sponsurads
 newtab-custom-pocket-show-recent-saves = Mussar ils elements memorisads dacurt
 newtab-custom-recent-title = Activitad recenta

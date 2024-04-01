@@ -278,3 +278,7 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = T’annunzia en tes conto
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Retschaiva avertiments en cas da sperditas da datas
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Zuppenta tia adressa dad e-mail e tes numer da telefon
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Protegia tias activitads online

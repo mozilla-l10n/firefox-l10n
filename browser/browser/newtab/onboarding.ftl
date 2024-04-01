@@ -350,6 +350,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Grazia per utilisar { -bran
 onboarding-new-user-time-based-survey-title = Quant ditg dovras ti { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = Quant bain enconuschas ti { -brand-short-name }?
 onboarding-new-user-survey-subtitle = Tes resun ans gida dad optimar vinavant { -brand-short-name }.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Enavant
+onboarding-new-user-survey-legal-link-label = Cun tscherner «{ onboarding-new-user-survey-next-button-label }», acceptas ti las <a data-l10n-name="privacy_notice">infurmaziuns davart la protecziun da datas</a> da { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Jau hai gist cumenzà
 onboarding-new-user-survey-time-based-option-2 = Damain che 1 mais

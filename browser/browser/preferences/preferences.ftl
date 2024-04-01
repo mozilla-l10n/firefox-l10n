@@ -261,6 +261,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zoomar mo il text
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Attenziun: Sche ti tschernas «Zoomar mo il text» e tes zoom predefinì n’è betg 100%, na funcziunan tschertas websites u tschert cuntegn eventualmain betg endretg.
 language-header = Lingua
 choose-language-description = Tscherna tia lingua preferida per la visualisaziun da websites
 choose-button =
@@ -566,6 +568,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recumandà da { $provider }
 home-prefs-recommended-by-description-new = Cuntegn spezial, tschernì da { $provider } che fa part da { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Artitgels recumandads
+home-prefs-recommended-by-description-generic = Cuntegns excepziunals tschernids da la famiglia da products { -brand-product-name }
 
 ##
 

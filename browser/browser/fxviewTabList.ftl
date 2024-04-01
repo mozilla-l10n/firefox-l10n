@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Avrir { $targetURI } en in nov tab
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Serrar { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Allontanar { $tabTitle }
@@ -51,6 +55,14 @@ fxviewtabrow-move-tab-window = Spustar en ina nova fanestra
     .accesskey = o
 fxviewtabrow-send-tab = Trametter il tab ad in apparat
     .accesskey = p
+fxviewtabrow-pin-tab = Fixar il tab
+    .accesskey = F
+fxviewtabrow-unpin-tab = Betg pli fixar il tab
+    .accesskey = p
+fxviewtabrow-mute-tab = Deactivar il tun dal tab
+    .accesskey = D
+fxviewtabrow-unmute-tab = Reactivar il tun dal tab
+    .accesskey = a
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -63,3 +75,10 @@ fxviewtabrow-mute-tab-button =
 #   $tabTitle (string) - Title of tab being unmuted
 fxviewtabrow-unmute-tab-button =
     .title = Activar il tun per { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Deactivar il tun dal tab
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Reactivar il tun dal tab
