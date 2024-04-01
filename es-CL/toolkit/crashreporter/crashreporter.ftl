@@ -3,7 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = Reporte de fallos de { -brand-short-name }
+crashreporter-crashed-and-restore = { -brand-short-name } tuvo un problema y falló. Intentaremos restaurar tus pestañas y ventanas cuando se reinicie.
 crashreporter-plea = Para ayudarnos a diagnosticar y reparar este problema, puedes enviarnos un reporte de fallos.
+crashreporter-information = Esta aplicación se ejecuta después de un error para informar del problema a { -vendor-short-name }. No debería ejecutarse directamente.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalles: { $details }
 crashreporter-no-run-message = Esta aplicación se ejecuta después de un error para informar del problema al fabricante de la aplicación. No debería ejecutarse directamente.
@@ -12,6 +14,7 @@ crashreporter-loading-details = Cargando…
 crashreporter-view-report-title = Contenido del informe
 crashreporter-comment-prompt = Añadir un comentario (los comentarios son públicos)
 crashreporter-report-info = Este reporte también contiene información acerca del estado de cuando se cayó la aplicación.
+crashreporter-send-report = Avisarle a { -vendor-short-name } de esta falla para que pueda corregirla.
 crashreporter-include-url = Incluir la dirección de la página en la que me encontraba.
 crashreporter-submit-status = Tu reporte de fallos será enviado antes de salir o reiniciar.
 crashreporter-submit-in-progress = Enviando tu informe…
@@ -36,3 +39,4 @@ crashreporter-error-loading-file = No se pudo cargar el archivo ({ $path })
 # $path (String) - the path
 crashreporter-error-creating-dir = No se pudo crear el directorio ({ $path })
 crashreporter-error-no-home-dir = Falta el directorio de inicio
+crashreporter-error-version-eol = Fin de vida útil de la versión: ya no se aceptan informes de fallos.
