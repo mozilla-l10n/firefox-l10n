@@ -4,14 +4,17 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Nuu kajie´e sesión ji contraseñas
-
 about-logins-login-filter =
     .placeholder = Nánuku nuu kajieé sesión
     .key = F
-
 create-new-login-button =
     .title = Sá´á jíía nuu kajie´e sesión
-
+about-logins-page-title-name = Contraseñas
+about-logins-login-filter2 =
+    .placeholder = Nánuku Contraseñas
+    .key = F
+create-login-button =
+    .title = Tee contraseña
 fxaccounts-sign-in-text = Ni´i da contraseñas nuu inka ka̱a̱
 fxaccounts-sign-in-sync-button = Kajie'e sesión sa kuvi sa sincronizar
 fxaccounts-avatar-button =
@@ -26,6 +29,7 @@ about-logins-menu-menuitem-import-from-another-browser = Nake'ema ji inka ka̱a�
 about-logins-menu-menuitem-import-from-a-file = Nasia´a ji iin archivo…
 about-logins-menu-menuitem-export-logins = Kuiso da nuu kajie'e sesión...
 about-logins-menu-menuitem-remove-all-logins = Xita kuaiyo nu kajie´e sesión...
+about-logins-menu-menuitem-remove-all-logins2 = Xina kuaiyo da contraseñas...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Kaji
@@ -52,11 +56,14 @@ about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Nuu nɨ'ɨ a nsama
 login-list-last-used-option = Nni´i nuu nɨ´ɨ
 login-list-intro-title = Ntu nani´i nuu kajie´e sesión
+login-list-intro-title2 = Ntu íyo contraseñas nchuva'a
 login-list-intro-description = Saa chuva´anu iin contraseña nuu { -brand-product-name }, ya´a kutuvi.
 about-logins-login-list-empty-search-title = Ntu nani´i credenciales
+about-logins-login-list-empty-search-title2 = Ntu nnani'i contraseñas
 about-logins-login-list-empty-search-description = Ntu íyo tu´un ínu ji a nánukunu.
 login-list-item-title-new-login = A jíía inicio sesión
 login-list-item-subtitle-new-login = Chu´un credenciales noo´o a kajie´e sesión
+login-list-item-title-new-login2 = Tee contraseña
 login-list-item-subtitle-missing-username = (Na íyo sivɨ ñɨvɨ)
 about-logins-list-item-breach-icon =
     .title = Nuu Web ntu vatu
@@ -75,11 +82,15 @@ about-logins-login-intro-heading-logged-out2 = ¿Nánuku da nu kajie'e sesión? 
 about-logins-login-intro-heading-logged-in = Ntu nani´i nuu kajie´e sesión sincronizados.
 login-intro-description = De nchuva´anu da nuu kajie´e sesión { -brand-product-name } nuu inka ka̱a̱, ya´a kutuvi naja nani´inuma je suni:
 login-intro-instructions-fxa = Sá´á a xíín kajie´e sesión nuu { -fxaccount-brand-name } ji ka̱a̱ nuu nchuva´a sesión.
+about-logins-login-intro-heading-message = Chuva'a daa contraseñas noo'o nuu in nuu yu'u
+login-intro-instructions-fxa-passwords-help = Kune'ya <a data-l10n-name="passwords-help-link">a chinei noo'o jíí da contraseñas</a> saa kuvi chineidani.
 about-logins-intro-import2 = De credenciales noo'o nchuva'a chike'i { -brand-product-name }, kuvi <a data-l10n-name="import-browser-link"> kuisonuma ne nu inka ka̱a̱ nánuku </a> a xíín <a data-l10n-name="import-file-link"> inka archivo </a>
 
 ## Login
 
 login-item-new-login-title = Sá´á jíía nuu kajie´e sesión
+# Header for adding a password
+about-logins-login-item-new-login-title = Tee contraseña
 login-item-edit-button = Natee
 about-logins-login-item-remove-button = Xita
 login-item-origin-label = Nuu sitio web
@@ -96,6 +107,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Tɨɨn
 login-item-copied-password-button-text = Ntɨɨn
 login-item-save-changes-button = Chuva´a nsama
+about-logins-login-item-save-changes-button = Chuva´a
 login-item-save-new-button = Chuva´a
 login-item-cancel-button = Nkuvi-ka
 
@@ -103,7 +115,11 @@ login-item-cancel-button = Nkuvi-ka
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Nsá´á
+login-item-timeline-action-updated = Actualizado
 
 ## OS Authentication dialog
 
@@ -118,19 +134,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Sa kuvi natee nuu kajie'e s
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = Natee nuu kajie'e sesión nchuva'a
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Sa kuvi kune'ya contraseña, chu'un credenciales noo'o nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = Xituvi contraseña nchuva'a
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Sa kuvi tɨɨ contraseña, chu'un credenciales noo'o nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Tɨɨ contraseña nchuva'a
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Sa kuvi kuiso nuu kajie'e sesión, chu'un credenciales nuu kajie'e sesión Windows. Ya'a chinei kumi seguridad nuu da cuentas noo'o.
 # This message can be seen when attempting to export a password in about:logins
@@ -149,9 +162,10 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Nkuvi-ka
 confirmation-dialog-dismiss-button =
     .title = Nkuvi-ka
-
 about-logins-confirm-remove-dialog-title = Xina kajie´e sesión ya´a?
 confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = ¿Xina contraseña?
 about-logins-confirm-remove-dialog-confirm-button = Xita
 
 ## Variables
@@ -162,18 +176,15 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Xita
        *[other] Xita kuaiyo
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Kuvi, xina nu kajie´e sesión ya´a
        *[other] Kuvi, xina nu kajie´e sesión ya´a
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
        *[other] ¿Xina nu kajie´e sesión { $count }?
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
        *[other] ¿Xina { $count } nu kajie´e sesión ntaka da ka̱a̱?
@@ -184,10 +195,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = Kuiso da nuu kajie'e sesión ji contraseñas
 about-logins-confirm-export-dialog-message = Da contraseñas noo´o nchuva´a kua tu'un (kua,  BadP@ssw0rd) je de íyo neva síne archvio kuvi kutuvi.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
-
 about-logins-alert-import-title = Nnɨ'ɨ nasia´a
 about-logins-alert-import-message = Kune'ya resumen da a nnasia'a
-
 confirm-discard-changes-dialog-title = ¿Xita nsama ntu nchuva´a?
 confirm-discard-changes-dialog-message = Kuaiyo da nsama je ntu nchuva´a naa.
 confirm-discard-changes-dialog-confirm-button = Xita
@@ -217,7 +226,6 @@ about-logins-vulnerable-alert-learn-more-link = Ka´vi kue´eka
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = A íyo iin nkivɨ nuu { $loginTitle } ji sivɨ ñivɨ. <a data-l10n-name="duplicate-link"> ¿Kuvinu kɨ ´ɨnɨ yukuan?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Nkene iin error saa kuvinu chuva´anu contraseña ya´a.
 
@@ -266,20 +274,17 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Ntee a jíía nuu kajie'e sesión:</span><span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Ntee a jíía nuu kajie´e sesión:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Ntee a jíía nuu kajie´e sesión: </span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importado)</span>
        *[other] <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importados)</span>
     }
 about-logins-import-dialog-done = Nsá´á
-
 about-logins-import-dialog-error-title = Error de importación
 about-logins-import-dialog-error-file-format-title = Tixin ji formato archivo
 about-logins-import-dialog-error-file-permission-title = Ntu nkuvi ka'vi archivo
@@ -288,9 +293,7 @@ about-logins-import-dialog-error-unable-to-read-title = Ntu kuvi ka'vi archivo
 about-logins-import-dialog-error-unable-to-read-description = Kune'ya de nkajinu iin archivo CSV a xíín TSV.
 about-logins-import-dialog-error-learn-more = Ka´vi kue´eka
 about-logins-import-dialog-error-cancel = Nkuvi
-
 about-logins-import-report-title = Resumen de importación
-
 #
 # Variables:
 #  $number (number) - The number of the row
