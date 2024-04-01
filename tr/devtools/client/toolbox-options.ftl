@@ -46,6 +46,8 @@ options-inspector-simplified-highlighters-tooltip =
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = <kbd>Enter</kbd> tuşuna basıldığında bir sonraki girdi alanına odaklan
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Bu ayar etkinse, bir seçiciyi, özellik adını veya değeri düzenlerken Enter tuşuna bastığınızda bir sonraki girdi alanına odaklanılır.
 
 ## "Default Color Unit" options for the Inspector
 

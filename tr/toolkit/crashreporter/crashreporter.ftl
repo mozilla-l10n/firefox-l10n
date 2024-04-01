@@ -40,6 +40,7 @@ crashreporter-error-opening-file = Dosya açılamadı ({ $path })
 crashreporter-error-loading-file = Dosya yüklenemedi ({ $path })
 # $path (String) - the path
 crashreporter-error-creating-dir = Dizin oluşturulamadı ({ $path })
+crashreporter-error-no-home-dir = Başlangıç dizini eksik
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = { $from } kaynağından { $to } hedefine taşınamadı
