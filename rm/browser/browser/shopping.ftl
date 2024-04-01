@@ -194,6 +194,19 @@ shopping-callout-closed-not-opted-in-subtitle = Emprova la controlla da recensiu
 shopping-callout-closed-not-opted-in-revised-title = Recensiuns fidablas en in clic
 shopping-callout-closed-not-opted-in-revised-subtitle = Clicca simplamain sin l’icona cun l’etichetta da pretsch en la trav d’adressas per turnar a la verificaziun da recensiuns.
 shopping-callout-closed-not-opted-in-revised-button = Chapì
+shopping-callout-not-opted-in-reminder-title = Far cumissiuns plain fidanza
+shopping-callout-not-opted-in-reminder-subtitle = Na sas ti betg sche ina recensiun dad in product è reala u faussa? La verificaziun da recensiuns da { -brand-product-name } po ta gidar.
+shopping-callout-not-opted-in-reminder-open-button = Avrir la verificaziun da recensiuns
+shopping-callout-not-opted-in-reminder-close-button = Serrar
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Betg pli mussar
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Illustraziun abstracta da trais recensiuns da products. Ina ha in simbol d’avertiment per inditgar che la recensiun n’è eventualmain betg fidabla.
+shopping-callout-disabled-auto-open-title = La verificaziun da recensiuns è ussa serrada tenor standard.
+shopping-callout-disabled-auto-open-subtitle = Clicca sin l’icona cun l’etichetta da pretsch en la trav d’adressas cura che ti vuls vesair sche ti pos ta fidar da las recensiuns dad in product.
+shopping-callout-disabled-auto-open-button = Chapì
+shopping-callout-opted-out-title = La verificaziun da recensiuns è deactivada
+shopping-callout-opted-out-subtitle = Per la reactivar, clicca sin l’icona cun l’etichetta da pretsch en la trav d’adressas e suonda las instrucziuns.
+shopping-callout-opted-out-button = Jau hai chapì
 
 ## Onboarding message strings.
 
