@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = ภ
 text-action-search-text-box-clear =
     .title = ล้าง
+text-action-highlight-selection =
+    .label = เน้นสีส่วนที่เลือก

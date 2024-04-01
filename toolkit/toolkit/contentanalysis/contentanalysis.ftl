@@ -24,6 +24,8 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } กำลังต
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } กำลังตรวจสอบข้อความที่คุณวางกับนโยบายข้อมูลขององค์กรของคุณ ขั้นตอนนี้อาจจะใช้เวลาสักครู่
 contentanalysis-operationtype-clipboard = คลิปบอร์ด
 contentanalysis-operationtype-dropped-text = ข้อความที่ปล่อย
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = การอัปโหลด “{ $filename }”
 contentanalysis-warndialogtitle = เนื้อหานี้อาจไม่ปลอดภัย
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -41,3 +43,6 @@ contentanalysis-block-message = องค์กรของคุณใช้ซ
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = เกิดข้อผิดพลาดในการสื่อสารกับซอฟต์แวร์ป้องกันข้อมูลสูญหาย การถ่ายโอนถูกปฏิเสธสำหรับทรัพยากร: { $content }
+contentanalysis-inprogress-quit-title = ออกจาก { -brand-shorter-name } หรือไม่?
+contentanalysis-inprogress-quit-message = มีการกระทำหลายอย่างที่กำลังดำเนินอยู่ หากคุณออกจาก { -brand-shorter-name } การกระทำเหล่านี้จะไม่เสร็จสมบูรณ์
+contentanalysis-inprogress-quit-yesbutton = ใช่ ออกเลย
