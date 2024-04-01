@@ -5,14 +5,14 @@
 shopping-page-title = { -brand-product-name } Shopping
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
-shopping-main-container-title = ตัวตรวจสอบบทวิจารณ์
+shopping-main-container-title = เครื่องมือตรวจสอบบทวิจารณ์
 shopping-beta-marker = Beta
 # This string is for ensuring that screen reader technology
 # can read out the "Beta" part of the shopping sidebar header.
 # Any changes to shopping-main-container-title and
 # shopping-beta-marker should also be reflected here.
 shopping-a11y-header =
-    .aria-label = ตัวตรวจสอบบทวิจารณ์ - รุ่นเบต้า
+    .aria-label = เครื่องมือตรวจสอบบทวิจารณ์ - รุ่นเบต้า
 shopping-close-button =
     .title = ปิด
 # This string is for notifying screen reader users that the
@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = กำลังตรว
 shopping-message-bar-page-not-supported =
     .heading = เราไม่สามารถตรวจสอบบทวิจารณ์เหล่านี้ได้
     .message = ขออภัย เราไม่สามารถตรวจสอบคุณภาพบทวิจารณ์สำหรับผลิตภัณฑ์บางชนิดได้ เช่น บัตรของขวัญ วิดีโอสตรีมมิง เพลง และเกม
+shopping-message-bar-keep-closed-header =
+    .heading = ต้องการปิดไว้หรือไม่?
+    .message = คุณสามารถปรับเปลี่ยนการตั้งค่าของคุณเพื่อให้ปิดเครื่องมือตรวจสอบบทวิจารณ์ตามค่าเริ่มต้นได้ โดยในตอนนี้จะเปิดโดยอัตโนมัติ
+shopping-message-bar-keep-closed-dismiss-button = ไม่เป็นไร ขอบคุณ
+shopping-message-bar-keep-closed-accept-button = ใช่ ปิดไว้เลย
 
 ## Strings for the product review snippets card
 
@@ -85,10 +90,23 @@ shopping-show-less-button = แสดงน้อยลง
 shopping-settings-label =
     .label = การตั้งค่า
 shopping-settings-recommendations-toggle =
-    .label = แสดงโฆษณาในตัวตรวจสอบบทวิจารณ์
+    .label = แสดงโฆษณาในเครื่องมือตรวจสอบบทวิจารณ์
 shopping-settings-recommendations-learn-more2 = คุณจะเห็นโฆษณาสำหรับผลิตภัณฑ์ที่เกี่ยวข้องเป็นครั้งคราว เราจะโฆษณาเฉพาะผลิตภัณฑ์ที่มีบทวิจารณ์ที่เชื่อถือได้เท่านั้น <a data-l10n-name="review-quality-url">เรียนรู้เพิ่มเติม</a>
 shopping-settings-opt-out-button = ปิดตัวตรวจสอบบทวิจารณ์
 powered-by-fakespot = ตัวตรวจสอบบทวิจารณ์ขับเคลื่อนโดย <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>
+shopping-settings-auto-open-toggle =
+    .label = เปิดตัวตรวจสอบบทวิจารณ์โดยอัตโนมัติ
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = เมื่อคุณดูผลิตภัณฑ์บน { $firstSite }, { $secondSite } และ { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = เมื่อคุณดูผลิตภัณฑ์บน { $currentSite }
+shopping-settings-sidebar-enabled-state = ตัวตรวจสอบบทวิจารณ์ <strong>เปิดอยู่</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,16 @@ shopping-callout-pdp-opted-in-title = บทวิจารณ์เหล่า
 shopping-callout-pdp-opted-in-subtitle = เปิดตัวตรวจสอบบทวิจารณ์เพื่อดูคะแนนที่ปรับปรุงแล้วโดยลบบทวิจารณ์ที่ไม่น่าเชื่อถือออก รวมถึงดูไฮไลต์จากบทวิจารณ์ที่แท้จริงล่าสุด
 shopping-callout-closed-not-opted-in-title = ดูบทวิจารณ์ที่เชื่อถือได้ในคลิกเดียว
 shopping-callout-closed-not-opted-in-subtitle = ลองใช้ตัวตรวจสอบบทวิจารณ์ทุกครั้งที่คุณเห็นป้ายราคา รับข้อมูลเชิงลึกจากนักช็อปตัวจริงอย่างรวดเร็วก่อนตัดสินใจซื้อ
+shopping-callout-closed-not-opted-in-revised-title = ดูบทวิจารณ์ที่น่าเชื่อถือในคลิกเดียว
+shopping-callout-closed-not-opted-in-revised-subtitle = เพียงคลิกไอคอนป้ายราคาในแถบที่อยู่เพื่อกลับไปที่ตัวตรวจสอบบทวิจารณ์
+shopping-callout-closed-not-opted-in-revised-button = เข้าใจแล้ว
+shopping-callout-not-opted-in-reminder-title = ซื้อของอย่างมั่นใจ
+shopping-callout-not-opted-in-reminder-subtitle = ไม่แน่ใจใช่ไหมว่าบทวิจารณ์ผลิตภัณฑ์เป็นของจริงหรือของปลอม? เครื่องมือตรวจสอบบทวิจารณ์จาก { -brand-product-name } สามารถช่วยคุณได้
+shopping-callout-not-opted-in-reminder-open-button = เปิดเครื่องมือตรวจสอบบทวิจารณ์
+shopping-callout-not-opted-in-reminder-close-button = ยกเลิก
+shopping-callout-not-opted-in-reminder-ignore-checkbox = ไม่ต้องแสดงอีก
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = ภาพประกอบนามธรรมของบทวิจารณ์ผลิตภัณฑ์สามรายการ โดยรายการหนึ่งมีสัญลักษณ์เตือนว่าอาจไม่น่าเชื่อถือ
 
 ## Onboarding message strings.
 
@@ -186,7 +214,6 @@ shopping-onboarding-dynamic-subtitle-1 = ดูว่าบทวิจารณ
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = ดูว่าบทวิจารณ์ผลิตภัณฑ์น่าเชื่อถือแค่ไหนใน <b>{ $currentSite }</b> ก่อนตัดสินใจซื้อ ตัวตรวจสอบบทวิจารณ์ ซึ่งเป็นคุณลักษณะทดลองจาก { -brand-product-name } ถูกบรรจุไว้ภายในตัวเบราว์เซอร์โดยตรง
 shopping-onboarding-body = ด้วยการใช้พลังของ { -fakespot-brand-full-name } เราช่วยคุณหลีกเลี่ยงบทวิจารณ์ที่มีอคติและไม่น่าไว้วางใจ โมเดล AI ของเราจะปรับปรุงอยู่เสมอเพื่อปกป้องคุณในขณะที่คุณซื้อของ <a data-l10n-name="learn_more">เรียนรู้เพิ่มเติม</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = การเลือก “{ shopping-onboarding-opt-in-button }“ แสดงว่าคุณยอมรับ<a data-l10n-name="privacy_policy">นโยบายความเป็นส่วนตัว</a>และ <a data-l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-name }
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = การเลือก “{ shopping-onboarding-opt-in-button }“ แสดงว่าคุณยอมรับ<a data-l10n-name="privacy_policy">นโยบายความเป็นส่วนตัว</a>ของ { -brand-product-name } และ <a data-l10n-name="terms_of_use">ข้อกำหนดการใช้งาน</a>ของ { -fakespot-brand-name }
 shopping-onboarding-opt-in-button = ใช่ ลองใช้เลย
 shopping-onboarding-not-now-button = ไม่ใช่ตอนนี้
