@@ -33,3 +33,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Trametta in tab immediatamain a tge apparat ch'i saja ch'è connectà cun tes conto.
 fxa-menu-sign-out =
     .label = Sortir…
+fxa-menu-sync-title = Sincronisaziun
+fxa-menu-sync-description = Acceda da dapertut a tes web

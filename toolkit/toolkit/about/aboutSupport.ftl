@@ -203,6 +203,9 @@ media-cdm-capabilities = Funcziunalitads
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Cumenzar senza criptadi
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = Cumpatibel cun HDCP 2.2
 
 ##
 
@@ -282,6 +285,7 @@ try-newer-driver = Bloccà per tia versiun dal driver da grafica. Emprova dad ac
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parameters da ClearType
 compositing = Compositing
+support-font-determination = Infurmaziuns da debugadi per la visibilitad da scrittiras
 hardware-h264 = Decodaziun H264 cun hardware
 main-thread-no-omtc = thread principal, nagin OMTC
 yes = Gea
@@ -427,3 +431,6 @@ pointing-device-mouse = Mieur
 pointing-device-touchscreen = Visur per tutgar
 pointing-device-pen-digitizer = Penna digitala
 pointing-device-none = Nagins apparats d'indicaziun
+
+## Content Analysis (DLP)
+
