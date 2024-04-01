@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Mussar dapli tabs
     .tooltiptext = Mussar ulteriurs tabs da quest apparat
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Mussar in tab inactiv
+           *[other] Mussar { $count } tabs inactivs
+        }
+    .tooltiptext = Mussar ils tabs inactivs sin quest apparat
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nagins tabs averts
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -168,6 +178,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Preselecziun recumandada per il debugadi da las bleras web-apps cun pitschen overhead.
 profiler-popup-presets-web-developer-label =
     .label = Svilup web
@@ -257,3 +272,9 @@ appmenu-developer-tools-extensions =
     .label = Extensions for Developers
 appmenuitem-report-broken-site =
     .label = Annunziar problems cun questa website
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = T’annunzia en tes conto
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Retschaiva avertiments en cas da sperditas da datas

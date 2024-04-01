@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = La segirezza da quest access
 ##
 
 xpinstall-disabled-locked = L'installaziun da software è vegnida deactivada da tes administratur.
+xpinstall-disabled-by-policy = Tia organisaziun ha deactivà l’installaziun da software.
 xpinstall-disabled = L'installaziun da software è actualmain deactivada. Clicca sin "Activar" ed emprova danovamain.
 xpinstall-disabled-button =
     .label = Activar
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) è bloccà da l'administratur da tes sistem.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = L'administratur da tes sistem ha impedì che questa website ta dumondia sche software duai vegnir installada sin tes computer.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) è bloccà da tia organisaziun.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Tia organisaziun ha impedì che questa website ta dumondia dad installar software sin tes computer.
 addon-install-full-screen-blocked = L'installaziun da supplements n'è betg permessa durant u avant che midar en il modus da maletg entir.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
