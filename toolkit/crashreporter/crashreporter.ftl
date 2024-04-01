@@ -6,6 +6,7 @@ crashreporter-branded-title = { -brand-short-name } Çökme Raporcusu
 crashreporter-crashed-and-restore = { -brand-short-name } bir sorunla karşılaştı ve çöktü. Tarayıcı yeniden başlatıldığında sekmelerinizi ve pencerelerinizi geri yüklemeye çalışacağız.
 crashreporter-plea = Sorunu tanılayıp çözmemize yardımcı olmak için bize bir çökme raporu gönderebilirsiniz.
 crashreporter-information = Bu uygulama, çökmeden sonra sorunu { -vendor-short-name }’ya bildirmek için çalışır. Doğrudan çalıştırılmamalıdır.
+crashreporter-error = { -brand-short-name } bir sorun yaşadı ve çöktü. Ne yazık ki çökme raporcusu bu çöküşle ilgili rapor gönderemiyor.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Ayrıntılar: { $details }
 crashreporter-no-run-message = Bu uygulama, çökmeden sonra sorunu uygulamanın üreticisine bildirmek için çalışır. Doğrudan çalıştırılmamalıdır.
@@ -14,6 +15,7 @@ crashreporter-loading-details = Yükleniyor…
 crashreporter-view-report-title = Rapor içeriği
 crashreporter-comment-prompt = Yorumunuzu ekleyin (Yorumları herkes görebilir.)
 crashreporter-report-info = Bu rapor, uygulamanın çökme anındaki durumuyla ilgili teknik bilgileri de içerir.
+crashreporter-send-report = { -vendor-short-name } çöküşten haberdar edilsin ki sorunu çözebilsinler
 crashreporter-include-url = Bakmakta olduğum sayfanın adresini dahil et.
 crashreporter-submit-status = Raporunuz çıkmadan veya yeniden başlatmadan önce gönderilecek.
 crashreporter-submit-in-progress = Raporunuz gönderiliyor…
