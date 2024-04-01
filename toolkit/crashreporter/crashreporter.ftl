@@ -2,8 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Rapporteur de plantage
-crashreporter-crash-message = { -brand-short-name } a rencontré un problème inattendu et a planté.
+crashreporter-branded-title = Rapporteur de plantage de { -brand-short-name }
 crashreporter-plea = Pour nous aider à diagnostiquer et corriger ce problème, vous pouvez nous envoyer un rapport de plantage.
 crashreporter-information = Cette application est exécutée après un plantage pour rapporter le problème survenu à { -vendor-short-name }. Elle ne doit pas être lancée directement.
 crashreporter-error = { -brand-short-name } a rencontré un problème et a planté. Malheureusement, le rapporteur de plantage n’est pas en mesure de transmettre un rapport pour ce plantage.
