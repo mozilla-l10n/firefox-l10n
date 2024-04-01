@@ -2,16 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Reportador de fallos
-crashreporter-crash-message = { -brand-short-name } encontró un problema y se cerrará.
+crashreporter-branded-title = Reporte de fallos de { -brand-short-name }
 crashreporter-plea = Para ayudarnos a diagnosticar y reparar este problema, puedes enviarnos un reporte de fallos.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detalles: { $details }
 crashreporter-no-run-message = Esta aplicación se ejecuta después de un error para informar del problema al fabricante de la aplicación. No debería ejecutarse directamente.
 crashreporter-button-details = Detalles…
+crashreporter-loading-details = Cargando…
 crashreporter-view-report-title = Contenido del informe
 crashreporter-comment-prompt = Añadir un comentario (los comentarios son públicos)
 crashreporter-report-info = Este reporte también contiene información acerca del estado de cuando se cayó la aplicación.
+crashreporter-include-url = Incluir la dirección de la página en la que me encontraba.
 crashreporter-submit-status = Tu reporte de fallos será enviado antes de salir o reiniciar.
 crashreporter-submit-in-progress = Enviando tu informe…
 crashreporter-submit-success = ¡Informe enviado exitosamente!
@@ -23,6 +24,15 @@ crashreporter-button-ok = Aceptar
 crashreporter-button-close = Cerrar
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = ID de falla: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Puede ver detalles de este problema en { $url }.
 
 # Error strings
 
+# $path (String) - the file path
+crashreporter-error-opening-file = No se pudo abrir el archivo ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = No se pudo cargar el archivo ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = No se pudo crear el directorio ({ $path })
+crashreporter-error-no-home-dir = Falta el directorio de inicio
