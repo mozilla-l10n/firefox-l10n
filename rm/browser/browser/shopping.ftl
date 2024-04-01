@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Controllar la qualitad d
 shopping-message-bar-page-not-supported =
     .heading = Nus na pudain betg controllar questas recensiuns
     .message = Deplorablamain na pudain nus betg controllar la qualitad da las recensiuns da tscherts tips da products. Per exempel cartas da regal e videostreaming, musica e gieus.
+shopping-message-bar-keep-closed-header =
+    .heading = Laschar serrà?
+    .message = Ti pos actualisar tes parameters per laschar serrà la verificaziun da recensiuns tenor standard. Il mument vegn ella averta automaticamain.
+shopping-message-bar-keep-closed-dismiss-button = Na, grazia
+shopping-message-bar-keep-closed-accept-button = Gea, laschar serrà
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Ti vegns a vesair reclamas occasiunalas per products relevants. Nus faschain mo reclama per products cun recensiuns fidablas. <a data-l10n-name="review-quality-url">Ulteriuras infurmaziuns</a>
 shopping-settings-opt-out-button = Deactivar la verificaziun da recensiuns
 powered-by-fakespot = La verificaziun da recensiuns sa basa sin tecnologia da <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Avrir automaticamain la verificaziun da recensiuns
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Cura che ti visitas paginas da products sin { $firstSite }, { $secondSite } e { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Cura che ti consulteschas products sin { $currentSite }
+shopping-settings-sidebar-enabled-state = La verificaziun da recensiuns è <strong>activada</strong>
 
 ## Strings for the adjusted rating component
 
@@ -173,6 +191,9 @@ shopping-callout-pdp-opted-in-title = Èn questas recensiuns fidablas? Ve svelt 
 shopping-callout-pdp-opted-in-subtitle = Avra la controlla da recensiuns per vesair ina valitaziun rectifitgada che na resguarda betg las recensiuns dubiusas. Scuvra ultra da quai ils highlights da las recensiuns autenticas las pli novas.
 shopping-callout-closed-not-opted-in-title = Recensiuns fidablas en in clic
 shopping-callout-closed-not-opted-in-subtitle = Emprova la controlla da recensiuns mintga giada cura che ti vesas l'etichetta da pretsch. Consultescha spert infurmaziuns detagliadas da clients reals – avant la cumpra.
+shopping-callout-closed-not-opted-in-revised-title = Recensiuns fidablas en in clic
+shopping-callout-closed-not-opted-in-revised-subtitle = Clicca simplamain sin l’icona cun l’etichetta da pretsch en la trav d’adressas per turnar a la verificaziun da recensiuns.
+shopping-callout-closed-not-opted-in-revised-button = Chapì
 
 ## Onboarding message strings.
 
@@ -188,7 +209,6 @@ shopping-onboarding-dynamic-subtitle-1 = Ve a savair quant fidablas che recensiu
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Ve a savair quant fidablas che las recensiuns dals products èn sin <b>{ $currentSite }</b> avant che ti als cumpras. La verificaziun da recensiuns, ina funcziun experimentala da { -brand-product-name }, è integrada directamain en il navigatur.
 shopping-onboarding-body = Nus duvrain il potenzial da { -fakespot-brand-full-name } per ta gidar ad evitar recensiuns nunautenticas e tendenziusas. Noss model dad intelligenza artifiziala vegn meglierà permanentamain per ta proteger durant che ti fas cumpras. <a data-l10n-name="learn_more">Ulteriuras infurmaziuns</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Cun tscherner «{ shopping-onboarding-opt-in-button }» acceptas ti las <a data-l10n-name="privacy_policy">directivas per la protecziun da datas</a>  e las <a data-l10n-name="terms_of_use">cundiziuns d'utilisaziun</a> da { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Cun tscherner «{ shopping-onboarding-opt-in-button }» acceptas ti las <a data-l10n-name="privacy_policy">directivas per la protecziun da datas</a> da { -brand-product-name } e las <a data-l10n-name="terms_of_use">cundiziuns d’utilisaziun</a> da { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Gea, empruvar
 shopping-onboarding-not-now-button = Betg ussa

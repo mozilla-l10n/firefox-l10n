@@ -12,6 +12,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -51,6 +53,7 @@ firefoxview-syncedtabs-loading-header = Sincronisaziun en lavur
 firefoxview-syncedtabs-loading-description = Uschespert che quai e fatg, vesas ti tut tes tabs averts sin auters apparats. Dà prest puspè in'egliada.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tia organisaziun ha deactivà la sincronisaziun
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } n'è betg abel da sincronisar tabs tranter apparats perquai che tes administratur ha deactivà la sincronisaziun.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } n’è betg abel da sincronisar tabs tranter apparats perquai che tia organisaziun ha deactivà la sincronisaziun.
 firefoxview-tabpickup-network-offline-header = Controllescha tia connexiun cun l'internet
 firefoxview-tabpickup-network-offline-description = Sche ti utiliseschas ina firewall u in proxy, controllescha che { -brand-short-name } ha il dretg dad acceder al web.
 firefoxview-tabpickup-network-offline-primarybutton = Empruvar anc ina giada
@@ -184,6 +187,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Nagins resultats per «{ $query }»
 firefoxview-sort-history-by-date-label = Zavrar tenor data
 firefoxview-sort-history-by-site-label = Zavrar tenor website
+firefoxview-sort-open-tabs-by-recency-label = Zavrar tenor l’activitad recenta
+firefoxview-sort-open-tabs-by-order-label = Mantegnair la successiun dals tabs
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -246,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = Per chattar tabs serrads gia 
 
 firefoxview-syncedtabs-device-notabs = Nagins tabs averts sin quest apparat
 firefoxview-syncedtabs-connect-another-device = Connectar in auter apparat
+firefoxview-pinned-tabs =
+    .title = Tabs fixads
+firefoxview-tabs =
+    .title = Tabs
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Midar a { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Midar a { $tabTitle } (en ils segnapaginas)
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = { $url } (en ils segnapaginas)
