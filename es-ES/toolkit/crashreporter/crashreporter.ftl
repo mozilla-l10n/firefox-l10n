@@ -44,3 +44,4 @@ crashreporter-error-no-home-dir = Falta el directorio de inicio
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Error al mover { $from } a { $to }
+crashreporter-error-version-eol = Fin de la vida útil de la versión: ya no se aceptan informes de fallos.
