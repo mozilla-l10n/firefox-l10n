@@ -708,6 +708,9 @@ sync-mobile-promo = הורידו את Firefox עבור <img data-l10n-name="and
 
 sync-profile-picture =
     .tooltiptext = שינוי תמונת פרופיל
+sync-profile-picture-with-alt =
+    .tooltiptext = שינוי תמונת פרופיל
+    .alt = שינוי תמונת פרופיל
 sync-sign-out =
     .label = התנתקות…
     .accesskey = ה
