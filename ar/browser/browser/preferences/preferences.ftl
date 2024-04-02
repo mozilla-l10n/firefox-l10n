@@ -705,6 +705,9 @@ sync-mobile-promo = نزّل Firefox لنظامي <img data-l10n-name="android-i
 
 sync-profile-picture =
     .tooltiptext = غيّر صورة الحساب
+sync-profile-picture-with-alt =
+    .tooltiptext = غيّر صورة الحساب
+    .alt = غيّر صورة الحساب
 sync-sign-out =
     .label = اخرج…
     .accesskey = خ
