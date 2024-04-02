@@ -677,6 +677,9 @@ sync-mobile-promo = <img data-l10n-name="android-icon"/> <a data-l10n-name="andr
 
 sync-profile-picture =
     .tooltiptext = پروفائل دی تصویر تبدیل کرو
+sync-profile-picture-with-alt =
+    .tooltiptext = پروفائل دی تصویر تبدیل کرو
+    .alt = پروفائل دی تصویر تبدیل کرو
 sync-sign-out =
     .label = سائن آؤٹ …
     .accesskey = g
