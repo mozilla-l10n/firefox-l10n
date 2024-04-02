@@ -81,7 +81,26 @@ firefoxview-mobile-confirmation-description = Tagad varat paņemt savas { -brand
 firefoxview-closed-tabs-title = Nesen aizvērtās
 firefoxview-closed-tabs-description2 = Atkal atvērt lapas, kuras šajā logā tika aizvērtas.
 firefoxview-closed-tabs-placeholder-header = Nav nesen aizvērtu ciļņu
-firefoxview-closed-tabs-placeholder-body = Aizverot cilni šajā logā, varat to paņemt no šejienes.
+firefoxview-closed-tabs-placeholder-body = Kad šajā logā aizverat cilni, varat to paņemt no šejienes.
+firefoxview-closed-tabs-placeholder-body2 = Kad aizverat cilni, varat to paņemt no šejienes.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Atmest { $tabTitle }
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Pēdējā aktīvā
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Atvērt { $targetURI } jaunā cilnē
+firefoxview-try-colorways-button = Izmēģiniet krāsu ceļus
+firefoxview-change-colorway-button = Mainīt krāsu ceļu
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = Vēl nav ko redzēt
+firefoxview-synced-tabs-placeholder-body = Nākamreiz, kad citā ierīcē ar { -brand-product-name } atvērsiet lapu, varēsiet to paņemt šeit.
 
 ## History in this context refers to browser history
 
