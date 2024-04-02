@@ -733,6 +733,9 @@ sync-mobile-promo = Преузмите Firefox за <img data-l10n-name="android
 
 sync-profile-picture =
     .tooltiptext = Промени профилну слику
+sync-profile-picture-with-alt =
+    .tooltiptext = Промени профилну слику
+    .alt = Промени профилну слику
 sync-sign-out =
     .label = Одјави ме…
     .accesskey = О
