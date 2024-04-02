@@ -708,6 +708,9 @@ sync-mobile-promo = Download Firefox foar <img data-l10n-name="android-icon"/> <
 
 sync-profile-picture =
     .tooltiptext = Profylôfbylding wizigje
+sync-profile-picture-with-alt =
+    .tooltiptext = Profylôfbylding wizigje
+    .alt = Profylôfbylding wizigje
 sync-sign-out =
     .label = Ofmelde…
     .accesskey = O
