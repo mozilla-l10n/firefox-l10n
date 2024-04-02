@@ -700,6 +700,9 @@ sync-mobile-promo = Last ned Firefox for <img data-l10n-name="android-icon"/> <a
 
 sync-profile-picture =
     .tooltiptext = Endre profilbilde
+sync-profile-picture-with-alt =
+    .tooltiptext = Endre profilbilde
+    .alt = Endre profilbilde
 sync-sign-out =
     .label = Logg ut…
     .accesskey = g
