@@ -28,6 +28,7 @@ policy-BlockAboutSupport = about:support ਸਫ਼ੇ ਉੱਤੇ ਪਹੁੰਚ 
 policy-Bookmarks = ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ, ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਜਾਂ ਨਿਯਤ ਕੀਤੇ ਫੋਲਡਰ ਵਿੱਚ ਬੁੱਕਮਾਰਕ ਬਣਾਓ।
 policy-CaptivePortal = ਕੈਪੀਟਿਵ ਪੋਰਟਲ ਸਹਾਇਤਾ ਨੂੰ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।
 policy-CertificatesDescription = ਸਰਟੀਫਿਕੇਟ ਜੋੜੋ ਜਾਂ ਵਿਚੇ ਮੌਜੂਦ ਸਰਟੀਫਿਕੇਟ ਵਰਤੋਂ।
+policy-ContentAnalysis = ਡਾਟਾ-ਨੁਕਸਾਨ-ਰੋਕੂ ਏਜੰਟ ਨਾਲ ਕਨੈਕਸ਼ਨ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।
 policy-Cookies = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਸੈੱਟ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ ਜਾਂ ਪਾਬੰਦੀ ਲਗਾਓ।
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = ਕਨਟੇਨਰ ਸੰਬੰਧੀ ਪਾਲਸੀਆਂ ਸੈਟ ਕਰੋ।
