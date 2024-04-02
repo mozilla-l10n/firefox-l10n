@@ -708,6 +708,9 @@ sync-mobile-promo = Hent Firefox til <img data-l10n-name="android-icon"/> <a dat
 
 sync-profile-picture =
     .tooltiptext = Skift profilbillede
+sync-profile-picture-with-alt =
+    .tooltiptext = Skift profilbillede
+    .alt = Skift profilbillede
 sync-sign-out =
     .label = Log ud…
     .accesskey = u
