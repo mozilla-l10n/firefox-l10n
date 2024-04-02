@@ -564,6 +564,9 @@ sync-mobile-promo = Baxa Firefox <img data-l10n-name="android-icon"/> p'<a data-
 
 sync-profile-picture =
     .tooltiptext = Camudar la semeya del perfil
+sync-profile-picture-with-alt =
+    .tooltiptext = Camudar la semeya del perfil
+    .alt = Camudar la semeya del perfil
 sync-sign-out =
     .label = Zarrar sesión…
     .accesskey = Z
