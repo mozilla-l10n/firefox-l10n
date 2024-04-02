@@ -708,6 +708,9 @@ sync-mobile-promo = Hämta Firefox för <img data-l10n-name="android-icon"/> <a 
 
 sync-profile-picture =
     .tooltiptext = Ändra profilbild
+sync-profile-picture-with-alt =
+    .tooltiptext = Ändra profilbild
+    .alt = Ändra profilbild
 sync-sign-out =
     .label = Logga ut…
     .accesskey = g
