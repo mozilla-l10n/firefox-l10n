@@ -16,6 +16,7 @@ crashreporter-view-report-title = Contignût de segnalazion
 crashreporter-comment-prompt = Zonte un coment (i coments a son visibii in public)
 crashreporter-report-info = Cheste segnalazion e conten informazions tecnichis sul stât de aplicazion cuant che e je colassade.
 crashreporter-send-report = Conte alc a { -vendor-short-name } in merit a chest colàs, in mût che a podedin comedâlu.
+crashreporter-include-url = Inclût la direzion de pagjine web che o stavi visitant.
 crashreporter-submit-status = La tô segnalazion di colàs e vignarà inviade prime di jessî o tornâ a inviâ la aplicazion.
 crashreporter-submit-in-progress = Daûr a inviâ la tô segnalazion…
 crashreporter-submit-success = Segnalazion inviade cun sucès!
@@ -27,6 +28,19 @@ crashreporter-button-ok = Va ben
 crashreporter-button-close = Siere
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = ID dal colàs: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Tu puedis viodi i detais di chest colàs su { $url }.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Esecuzion falide di minidump-analyzer
+# $path (String) - the file path
+crashreporter-error-opening-file = Nol è stât pussibil vierzi il file ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = Nol è stât pussibil cjariâ il file ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = Nol è stât pussibil creâ la cartele ({ $path })
+crashreporter-error-no-home-dir = E mancje la cartele home
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Nol è stât pussibil eseguî il spostament di { $from } a { $to }
