@@ -716,6 +716,9 @@ sync-mobile-promo = Prenesite Firefox za <img data-l10n-name="android-icon"/> <a
 
 sync-profile-picture =
     .tooltiptext = Spremeni sliko profila
+sync-profile-picture-with-alt =
+    .tooltiptext = Spremeni sliko profila
+    .alt = Spremeni sliko profila
 sync-sign-out =
     .label = Odjava …
     .accesskey = j
