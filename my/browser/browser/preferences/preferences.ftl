@@ -440,6 +440,9 @@ sync-mobile-promo = ထိုစနစ်အတွက် မီးမြေခ�
 
 sync-profile-picture =
     .tooltiptext = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
+sync-profile-picture-with-alt =
+    .tooltiptext = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
+    .alt = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
 sync-manage-account = အကောင့်ကို စီမံရန်
     .accesskey = o
 
@@ -533,6 +536,9 @@ pane-privacy-logins-and-passwords-header = အကောင့်ဝင်ရေ�
 forms-ask-to-save-logins =
     .label = ဆိုက်များအတွက် ဝင်ရောက်မှုများနှင့် စကားဝှက်များကို မှတ်ရန် မေးပါ
     .accesskey = r
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = ခြွင်းချက်များ...
     .accesskey = x
@@ -548,6 +554,9 @@ forms-master-pw-change =
 forms-master-pw-fips-desc = စကားဝှက်ပြောင်းလဲမှု မအောင်မြင်ပါ
 
 ## OS Authentication dialog
+
+
+## Privacy section - Autofill
 
 
 ## Privacy Section - History
