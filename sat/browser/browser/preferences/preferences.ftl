@@ -683,6 +683,9 @@ sync-mobile-promo = ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱚᱱ ᱨᱮ
 
 sync-profile-picture =
     .tooltiptext = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱢᱚᱦᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱢᱮ
+sync-profile-picture-with-alt =
+    .tooltiptext = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱢᱚᱦᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱢᱮ
+    .alt = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱢᱚᱦᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱚᱫᱚᱞ ᱢᱮ
 sync-sign-out =
     .label = ᱵᱟᱦᱨᱮ ᱚᱰᱚᱠ…
     .accesskey = g
