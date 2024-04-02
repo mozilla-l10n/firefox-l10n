@@ -421,5 +421,5 @@ content-analysis-title = 内容分析（DLP）
 content-analysis-active = 已启用
 content-analysis-connected-to-agent = 已与程序连接
 content-analysis-agent-path = 程序路径
-content-analysis-agent-failed-signature-verification = 代理签名验证失败
+content-analysis-agent-failed-signature-verification = 程序签名验证失败
 content-analysis-request-count = 请求数量
