@@ -684,6 +684,9 @@ sync-mobile-promo = Luchdaich a-nuas Firefox airson <img data-l10n-name="android
 
 sync-profile-picture =
     .tooltiptext = Atharraich dealbh na pròifil
+sync-profile-picture-with-alt =
+    .tooltiptext = Atharraich dealbh na pròifil
+    .alt = Atharraich dealbh na pròifil
 sync-sign-out =
     .label = Clàraich a-mach…
     .accesskey = C
