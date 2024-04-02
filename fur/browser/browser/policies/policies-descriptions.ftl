@@ -125,6 +125,7 @@ policy-SSLVersionMax = Stabilìs la massime version di SSL.
 policy-SSLVersionMin = Stabilìs la minime version di SSL.
 policy-StartDownloadsInTempDirectory = Sfuarce l'inviament dai discjariaments intune cartele locâl temporanie invezit che te cartele predefinide pai file discjariâts.
 policy-SupportMenu = Zonte un element personalizât dal menù di supuart al menù di jutori.
+policy-TranslateEnabled = Ative o disative la traduzion des pagjinis web.
 policy-UserMessaging = No sta mostrâ cierts messaçs al utent.
 policy-UseSystemPrintDialog = Stampe doprant il dialic di stampe dal sisteme.
 # “format” refers to the format used for the value of this policy.
