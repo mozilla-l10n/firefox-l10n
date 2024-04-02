@@ -708,6 +708,9 @@ sync-mobile-promo = Emboguejy Firefox kóvape g̃uarã:<img data-l10n-name="andr
 
 sync-profile-picture =
     .tooltiptext = Emoambue nera’ãnga nemba’ete pegua
+sync-profile-picture-with-alt =
+    .tooltiptext = Emoambue nera’ãnga nemba’ete pegua
+    .alt = Emoambue nera’ãnga nemba’ete pegua
 sync-sign-out =
     .label = Ñesẽte
     .accesskey = ñ
