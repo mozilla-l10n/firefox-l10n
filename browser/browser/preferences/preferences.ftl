@@ -593,6 +593,9 @@ sync-mobile-promo = Doonload Firefox fur <img data-l10n-name="android-icon"/> <a
 
 sync-profile-picture =
     .tooltiptext = Chynge profile pictur
+sync-profile-picture-with-alt =
+    .tooltiptext = Chynge profile pictur
+    .alt = Chynge profile pictur
 sync-sign-out =
     .label = Sign Oot…
     .accesskey = g
