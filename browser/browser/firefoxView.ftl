@@ -188,25 +188,54 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Nav rezultātu vaicājumam “{ $query }”
 firefoxview-sort-history-by-date-label = Kārtot pēc datuma
 firefoxview-sort-history-by-site-label = Kārtot pēc vietnes
+firefoxview-sort-open-tabs-by-recency-label = Kārtot pēc nesenākās aktivitātes
+firefoxview-sort-open-tabs-by-order-label = Kārtot pēc ciļņu secības
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Pārslēgties uz { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Šodien — { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Vakar — { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (lokālās datnes)
 
 ##
 
+firefoxview-show-all-history = Rādīt visu vēsturi
+firefoxview-view-more-browsing-history = Skatīt vairāk pārlūkošanas vēstures
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Atgriezieties tur, kur bijāt
+firefoxview-history-empty-description = Pārlūkošanas laikā šeit tiks uzskaitītas apmeklētās lapas.
+firefoxview-history-empty-description-two = Jūsu privātuma aizsardzība ir mūsu darbības pamatā. Tāpēc savos <a data-l10n-name="history-settings-url">vēstures iestatījumos</a> varat kontrolēt darbības, ko { -brand-short-name } atcerēsies.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Izvēlieties pārlūku
+    .title = Izvēlieties pārlūku
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Nav ko rādīt
+firefoxview-dont-remember-history-empty-description = Jūsu privātuma aizsardzība ir mūsu darbības pamatā. Tāpēc varat kontrolēt darbības, ko atcerēsies { -brand-short-name }.
+firefoxview-dont-remember-history-empty-description-two = Pamatojoties uz jūsu pašreizējiem iestatījumiem, { -brand-short-name } neatceras jūsu darbības pārlūkošanas laikā. Lai to mainītu, <a data-l10n-name="history-settings-url-two">mainiet vēstures iestatījumus, lai atcerētos vēsturi</a>.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Aizvērt
+    .title = Aizvērt
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
