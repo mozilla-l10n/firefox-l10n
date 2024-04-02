@@ -696,6 +696,9 @@ sync-mobile-promo = 下載 Firefox for<img data-l10n-name="android-icon"/> <a da
 
 sync-profile-picture =
     .tooltiptext = 更改個人資料照片
+sync-profile-picture-with-alt =
+    .tooltiptext = 更改個人資料照片
+    .alt = 更改個人資料照片
 sync-sign-out =
     .label = 登出…
     .accesskey = g
