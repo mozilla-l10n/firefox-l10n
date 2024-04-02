@@ -708,6 +708,9 @@ sync-mobile-promo = Mobil cihazınızla eşitleme yapmak isterseniz <img data-l1
 
 sync-profile-picture =
     .tooltiptext = Profil resmini değiştir
+sync-profile-picture-with-alt =
+    .tooltiptext = Profil resmini değiştir
+    .alt = Profil resmini değiştir
 sync-sign-out =
     .label = Çıkış yap…
     .accesskey = k
