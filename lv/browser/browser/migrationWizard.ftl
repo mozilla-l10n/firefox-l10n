@@ -84,6 +84,11 @@ migration-payment-methods-option-label = Maksājumu metodes
 migration-cookies-option-label = Sīkdatnes
 migration-session-option-label = Logus un cilnes
 migration-otherdata-option-label = Citus datus
+migration-passwords-from-file-progress-header = Importēt paroļu datni
+migration-passwords-from-file-success-header = Paroles ir sekmīgi importētas
+migration-passwords-from-file = Pārbauda, vai datnē ir paroles
+migration-passwords-new = Jaunās paroles
+migration-passwords-updated = Esošās paroles
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
