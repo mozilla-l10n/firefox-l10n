@@ -651,6 +651,9 @@ sync-mobile-promo = Hangi Firefox <img data-l10n-name="android-icon"/> <a data-l
 
 sync-profile-picture =
     .tooltiptext = Muuda profiilipilti
+sync-profile-picture-with-alt =
+    .tooltiptext = Muuda profiilipilti
+    .alt = Muuda profiilipilti
 sync-sign-out =
     .label = Logi välja…
     .accesskey = o
