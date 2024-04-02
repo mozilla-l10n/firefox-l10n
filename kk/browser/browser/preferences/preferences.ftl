@@ -708,6 +708,9 @@ sync-mobile-promo = Firefox қолданбасын <img data-l10n-name="android-
 
 sync-profile-picture =
     .tooltiptext = Профиль суретін ауыстыру
+sync-profile-picture-with-alt =
+    .tooltiptext = Профиль суретін ауыстыру
+    .alt = Профиль суретін ауыстыру
 sync-sign-out =
     .label = Шығу…
     .accesskey = Ш
