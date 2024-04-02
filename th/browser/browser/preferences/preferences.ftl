@@ -691,6 +691,9 @@ sync-mobile-promo = ดาวน์โหลด Firefox สำหรับ <img 
 
 sync-profile-picture =
     .tooltiptext = เปลี่ยนรูปโปรไฟล์
+sync-profile-picture-with-alt =
+    .tooltiptext = เปลี่ยนรูปโปรไฟล์
+    .alt = เปลี่ยนรูปโปรไฟล์
 sync-sign-out =
     .label = ลงชื่อออก…
     .accesskey = g
