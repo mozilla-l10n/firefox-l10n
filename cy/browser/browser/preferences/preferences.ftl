@@ -724,6 +724,9 @@ sync-mobile-promo = Llwytho Firefox i lawr ar gyfer <img data-l10n-name="android
 
 sync-profile-picture =
     .tooltiptext = Newid llun proffil
+sync-profile-picture-with-alt =
+    .tooltiptext = Newid llun proffil
+    .alt = Newid llun proffil
 sync-sign-out =
     .label = Allgofnodi…
     .accesskey = A
