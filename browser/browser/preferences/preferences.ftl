@@ -700,6 +700,9 @@ sync-mobile-promo = Firefox ჩამოტვირთეთ <img data-l10n-nam
 
 sync-profile-picture =
     .tooltiptext = პროფილის სურათის შეცვლა
+sync-profile-picture-with-alt =
+    .tooltiptext = პროფილის სურათის შეცვლა
+    .alt = პროფილის სურათის შეცვლა
 sync-sign-out =
     .label = გამოსვლა...
     .accesskey = გ
