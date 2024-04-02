@@ -675,6 +675,9 @@ sync-mobile-promo = Parsisiųskite „Firefox“, skirtą <img data-l10n-name="a
 
 sync-profile-picture =
     .tooltiptext = Keisti profilio nuotrauką
+sync-profile-picture-with-alt =
+    .tooltiptext = Keisti profilio nuotrauką
+    .alt = Keisti profilio nuotrauką
 sync-sign-out =
     .label = Atsijungti…
     .accesskey = g
