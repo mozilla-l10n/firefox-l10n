@@ -712,6 +712,9 @@ sync-mobile-promo = Загрузите Firefox для <img data-l10n-name="andro
 
 sync-profile-picture =
     .tooltiptext = Изменить фотографию в профиле
+sync-profile-picture-with-alt =
+    .tooltiptext = Изменить фотографию в профиле
+    .alt = Изменить фотографию в профиле
 sync-sign-out =
     .label = Выйти…
     .accesskey = ы
