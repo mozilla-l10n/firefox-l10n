@@ -616,6 +616,9 @@ sync-mobile-promo = بارگیری فایرفاکس برای <img data-l10n-name
 
 sync-profile-picture =
     .tooltiptext = تغییرتصویر نمایه
+sync-profile-picture-with-alt =
+    .tooltiptext = تغییرتصویر نمایه
+    .alt = تغییرتصویر نمایه
 sync-sign-out =
     .label = خروج...
     .accesskey = g
