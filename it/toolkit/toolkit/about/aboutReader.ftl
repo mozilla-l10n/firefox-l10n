@@ -14,6 +14,21 @@ about-reader-color-scheme-sepia = Seppia
 about-reader-color-scheme-auto = Automatico
     .title = Combinazione colori automatica
 
+about-reader-color-theme-light = Chiaro
+    .title = Tema con colori chiari
+about-reader-color-theme-dark = Scuro
+    .title = Tema con colori scuri
+about-reader-color-theme-sepia = Seppia
+    .title = Tema con colori seppia
+about-reader-color-theme-auto = Automatico
+    .title = Tema con colori scelti automaticamente
+about-reader-color-theme-gray = Grigio
+    .title = Tema con colori grigi
+about-reader-color-theme-contrast = Contrasto
+    .title = Tema con colori a contrasto elevato
+about-reader-color-theme-custom = Colori personalizzati
+    .title = Tema con colori personalizzati
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,4 +64,31 @@ about-reader-font-type-sans-serif = Senza grazie
 
 about-reader-toolbar-close = Chiudi Modalità lettura
 about-reader-toolbar-type-controls = Controlli carattere
+about-reader-toolbar-color-controls = Colori
 about-reader-toolbar-savetopocket = Salva in { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Tema
+
+about-reader-fxtheme-tab = Predefinito
+about-reader-customtheme-tab = Personalizzato
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Testo
+    .title = Modifica colore
+about-reader-custom-colors-background = Sfondo
+    .title = Modifica colore
+
+about-reader-custom-colors-unvisited-links = Link non visitati
+    .title = Modifica colore
+about-reader-custom-colors-visited-links = Link visitati
+    .title = Modifica colore
+
+about-reader-custom-colors-selection-highlight = Evidenziatore per lettura ad alta voce
+    .title = Modifica colore
+
+about-reader-custom-colors-reset-button = Ripristina predefiniti
