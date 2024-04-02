@@ -63,6 +63,22 @@ fxviewtabrow-mute-tab = Apklusināt cilni
     .accesskey = A
 fxviewtabrow-unmute-tab = Atjaunot skaņu cilnei
     .accesskey = n
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Opcijas cilnei { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = Apklusināt { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = Atjaunot skaņu { $tabTitle }
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Apklusināt cilni
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Atjaunot skaņu cilnei
