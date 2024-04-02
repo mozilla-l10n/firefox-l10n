@@ -6,15 +6,14 @@ protocolhandler-mailto-os-handler-notificationbox = Mindig a { -brand-short-name
 protocolhandler-mailto-os-handler-yes-confirm = A { -brand-short-name } mostantól az alapértelmezett alkalmazás a levélküldési hivatkozások megnyitásához.
 protocolhandler-mailto-os-handler-yes-button = Beállítás alapértelmezettként
 protocolhandler-mailto-os-handler-no-button = Most nem
-# Variables:
-#  $url (String): The url of a webmailer, but only its full domain name.
-protocolhandler-mailto-handler-notificationbox = Az e-mail-hivatkozásokat a(z) { $url } használatával nyitja meg?
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-notificationbox-always = Az e-mail-hivatkozásokat mindig a(z) { $url } használatával nyissa meg?
 protocolhandler-mailto-handler-yes-confirm = A(z) { $url } mostantól az alapértelmezett webhely a levélküldési hivatkozások megnyitásához.
+protocolhandler-mailto-handler-set-message = Mindig a(z) <strong>{ $url } legyen használva a  { -brand-short-name }ban</strong>, ha olyan hivatkozásra kattint, amely megnyitja a levelezését?
+protocolhandler-mailto-handler-confirm-message = A <strong>{ -brand-short-name }ban megnyitott { $url }</strong> a számítógépe alapértelmezett levelezéskezelője.
 
 ##
 

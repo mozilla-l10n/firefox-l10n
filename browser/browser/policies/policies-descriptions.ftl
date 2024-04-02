@@ -125,6 +125,7 @@ policy-SSLVersionMax = A legmagasabb SSL verzió beállítása.
 policy-SSLVersionMin = A legkisebb SSL verzió beállítása.
 policy-StartDownloadsInTempDirectory = A letöltések arra kényszerítése, hogy az alapértelmezett letöltési könyvtár helyett egy helyi, ideiglenes helyen induljanak el.
 policy-SupportMenu = Egyéni támogatási menüpont hozzáadása a súgó menühöz.
+policy-TranslateEnabled = Weboldalak fordításának engedélyezése vagy letiltása.
 policy-UserMessaging = Ne mutasson bizonyos üzeneteket a felhasználónak.
 policy-UseSystemPrintDialog = Nyomtatás a rendszer nyomtatási párbeszédablakával.
 # “format” refers to the format used for the value of this policy.
