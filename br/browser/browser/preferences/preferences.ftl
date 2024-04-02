@@ -667,6 +667,9 @@ sync-mobile-promo = Pellgargañ Firefox evit <img data-l10n-name="android-icon"/
 
 sync-profile-picture =
     .tooltiptext = Kemmañ ar skeudenn aelad
+sync-profile-picture-with-alt =
+    .tooltiptext = Kemmañ ar skeudenn aelad
+    .alt = Kemmañ ar skeudenn aelad
 sync-sign-out =
     .label = Digennaskañ…
     .accesskey = g
