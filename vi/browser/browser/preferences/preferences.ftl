@@ -692,6 +692,9 @@ sync-mobile-promo = Tải Firefox cho <img data-l10n-name="android-icon"/> <a da
 
 sync-profile-picture =
     .tooltiptext = Đổi hình hồ sơ
+sync-profile-picture-with-alt =
+    .tooltiptext = Đổi hình hồ sơ
+    .alt = Đổi hình hồ sơ
 sync-sign-out =
     .label = Đăng xuất…
     .accesskey = g
