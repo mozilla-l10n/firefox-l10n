@@ -697,6 +697,9 @@ sync-mobile-promo = Sader Firefox i <img data-l10n-name="android-icon"/> <a data
 
 sync-profile-picture =
     .tooltiptext = Beddel tugna n umaɣnu
+sync-profile-picture-with-alt =
+    .tooltiptext = Beddel tugna n umaɣnu
+    .alt = Beddel tugna n umaɣnu
 sync-sign-out =
     .label = Ffeɣ…
     .accesskey = F
