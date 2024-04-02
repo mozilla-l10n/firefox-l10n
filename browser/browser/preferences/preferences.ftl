@@ -708,6 +708,9 @@ sync-mobile-promo = Elŝuti Firefox por <img data-l10n-name="android-icon"/> <a 
 
 sync-profile-picture =
     .tooltiptext = Ŝanĝi bildon de profilo
+sync-profile-picture-with-alt =
+    .tooltiptext = Ŝanĝi bildon de profilo
+    .alt = Ŝanĝi bildon de profilo
 sync-sign-out =
     .label = Fini seancon…
     .accesskey = F
