@@ -59,6 +59,13 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Színnevek
 
+## Web Console section
+
+# The heading
+options-webconsole-label = Webkonzol
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Osztott konzol engedélyezése
+
 ## Style Editor section
 
 # The heading
