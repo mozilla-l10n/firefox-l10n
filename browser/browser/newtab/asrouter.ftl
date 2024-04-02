@@ -88,12 +88,35 @@ cfr-whatsnew-release-notes-link-text = Izlasiet laidiena piezīmes
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (Datetime) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading2 =
+    { $blockedCount ->
+        [zero] { -brand-short-name } ir bloķējis vairāk nekā <b>{ $blockedCount }</b> izsekotāju kopš { DATETIME($date, month: "long", year: "numeric") }!
+        [one] { -brand-short-name } ir bloķējis vairāk nekā <b>{ $blockedCount }</b> izsekotājus kopš { DATETIME($date, month: "long", year: "numeric") }!
+       *[other] { -brand-short-name } ir bloķējis vairāk nekā <b>{ $blockedCount }</b> izsekotāju kopš { DATETIME($date, month: "long", year: "numeric") }!
+    }
+cfr-doorhanger-milestone-ok-button = Redzēt visu
+    .accesskey = s
+cfr-doorhanger-milestone-close-button = Aizvērt
+    .accesskey = A
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = Jūsu privātums ir svarīģs. { -brand-short-name } tagad, kad vien iespējams, droši novirza jūsu DNS pieprasījumus uz partnera pakalpojumu, lai aizsargātu jūs pārlūkošanas laikā.
+cfr-doorhanger-doh-header = Drošāka, šifrēta DNS uzmeklēšana
+cfr-doorhanger-doh-primary-button-2 = Labi
+    .accesskey = L
+cfr-doorhanger-doh-secondary-button = Izslēgt
+    .accesskey = I
 
 ## Full Video Support CFR message
 
+cfr-doorhanger-video-support-body = Šajā { -brand-short-name } versijā šīs vietnes videoklipi varētu netikt atskaņoti pareizi. Lai iegūtu pilnu video atbalstu, tagad atjauniniet { -brand-short-name }.
+cfr-doorhanger-video-support-header = Lai atskaņotu video, atjauniniet { -brand-short-name }
+cfr-doorhanger-video-support-primary-button = Atjaunināt tagad
+    .accesskey = A
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -101,9 +124,18 @@ cfr-whatsnew-release-notes-link-text = Izlasiet laidiena piezīmes
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+# This header text can be explicitly wrapped.
+spotlight-public-wifi-vpn-header = Izskatās, ka izmantojat publisko Wi-Fi
+spotlight-public-wifi-vpn-body = Lai paslēptu savu atrašanās vietu un pārlūkošanas darbības, apsveriet iespēju izmantot Virtuālo Privāto Tīklu. Tas palīdzēs aizsargāt jūs, pārlūkojot sabiedriskās vietās, piemēram, lidostās un kafejnīcās.
+spotlight-public-wifi-vpn-primary-button = Saglabājiet privātumu ar { -mozilla-vpn-brand-name }
+    .accesskey = S
+spotlight-public-wifi-vpn-link = Ne tagad
+    .accesskey = N
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Labāks internets sākas ar jums
+spotlight-better-internet-body = Ja izmantojat { -brand-short-name }, jūs balsojat par atvērtu un pieejamu internetu, kas ikvienam nāk par labu.
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
