@@ -708,6 +708,9 @@ sync-mobile-promo = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ
 
 sync-profile-picture =
     .tooltiptext = ਬਿਉਰਾ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ
+sync-profile-picture-with-alt =
+    .tooltiptext = ਬਿਉਰਾ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ
+    .alt = ਬਿਉਰਾ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ
 sync-sign-out =
     .label = ਸਾਈਨ ਆਉਟ…
     .accesskey = g
