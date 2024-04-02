@@ -503,6 +503,9 @@ sync-mobile-promo = Firefox डाउनलोड करें <img data-l10n-na
 
 sync-profile-picture =
     .tooltiptext = प्रोफ़ाइल तस्वीर बदलें
+sync-profile-picture-with-alt =
+    .tooltiptext = प्रोफ़ाइल तस्वीर बदलें
+    .alt = प्रोफ़ाइल तस्वीर बदलें
 sync-sign-out =
     .label = साइन आउट…
     .accesskey = g
@@ -619,6 +622,9 @@ pane-privacy-logins-and-passwords-header = लॉगिन और पासव�
 forms-ask-to-save-logins =
     .label = वेबसाइटों के लिए लॉग इन और पासवर्ड सहेजने के लिए पूछें
     .accesskey = r
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = अपवाद…
     .accesskey = x
@@ -642,6 +648,9 @@ forms-windows-sso-learn-more-link = अधिक जानें
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -715,6 +724,9 @@ sitedata-cookies-exceptions =
     .accesskey = x
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
 
 
 ## Privacy Section - Address Bar
