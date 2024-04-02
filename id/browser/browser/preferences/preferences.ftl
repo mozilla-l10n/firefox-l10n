@@ -667,6 +667,9 @@ sync-mobile-promo = Unduh Firefox untuk <img data-l10n-name="android-icon"/> <a 
 
 sync-profile-picture =
     .tooltiptext = Ubah gambar profil
+sync-profile-picture-with-alt =
+    .tooltiptext = Ubah gambar profil
+    .alt = Ubah gambar profil
 sync-sign-out =
     .label = Keluar…
     .accesskey = K
