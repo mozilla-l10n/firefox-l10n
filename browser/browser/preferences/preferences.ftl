@@ -605,6 +605,9 @@ sync-mobile-promo = Preuzmi Firefox za <img data-l10n-name="android-icon"/> <a d
 
 sync-profile-picture =
     .tooltiptext = Primijeni sliku profila
+sync-profile-picture-with-alt =
+    .tooltiptext = Primijeni sliku profila
+    .alt = Primijeni sliku profila
 sync-sign-out =
     .label = Odjavi se …
     .accesskey = O
@@ -738,6 +741,9 @@ pane-privacy-logins-and-passwords-header = Prijave i lozinke
 forms-ask-to-save-logins =
     .label = Pitaj za spremanje prijava i lozinka za web stranice
     .accesskey = r
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Iznimke …
     .accesskey = m
@@ -790,6 +796,9 @@ primary-password-os-auth-dialog-message-win = Za stvaranje primarne lozinke, une
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = stvori primarnu lozinku
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -872,6 +881,9 @@ sitedata-cookies-exceptions =
     .accesskey = z
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
 
 
 ## Privacy Section - Address Bar
