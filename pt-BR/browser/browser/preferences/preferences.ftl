@@ -708,6 +708,9 @@ sync-mobile-promo = Instale o Firefox no <img data-l10n-name="android-icon"/> <
 
 sync-profile-picture =
     .tooltiptext = Alterar imagem do perfil
+sync-profile-picture-with-alt =
+    .tooltiptext = Alterar imagem do perfil
+    .alt = Alterar imagem do perfil
 sync-sign-out =
     .label = Desconectar…
     .accesskey = D
