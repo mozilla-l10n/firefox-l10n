@@ -716,6 +716,9 @@ sync-mobile-promo = Firefox za <img data-l10n-name="android-icon"/> <a data-l10n
 
 sync-profile-picture =
     .tooltiptext = Profilowy wobraz změniś
+sync-profile-picture-with-alt =
+    .tooltiptext = Profilowy wobraz změniś
+    .alt = Profilowy wobraz změniś
 sync-sign-out =
     .label = Wótzjawiś…
     .accesskey = t
