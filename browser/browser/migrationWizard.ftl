@@ -159,6 +159,8 @@ migration-import-from-file-button-label = Atlasiet datni
 migration-cancel-button-label = Atcelt
 migration-done-button-label = Gatavs
 migration-continue-button-label = Turpināt
+migration-wizard-import-browser-no-browsers = { -brand-short-name } nevarēja atrast nevienu programmu, kas satur grāmatzīmju, vēstures vai paroļu datus.
+migration-wizard-import-browser-no-resources = Radās kļūda. { -brand-short-name } nevar atrast datus, ko importēt no tā pārlūka profila.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -166,14 +168,86 @@ migration-continue-button-label = Turpināt
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = grāmatzīmes
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = izlase
+migration-list-password-label = paroles
+migration-list-history-label = vēsture
+migration-list-extensions-label = paplašinājumi
+migration-list-autofill-label = automātiskās aizpildes dati
+migration-list-payment-methods-label = maksājumu metodes
 
 ##
 
+migration-wizard-progress-header = Importē datus
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
+migration-wizard-progress-done-header = Dati sekmīgi importēti
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Datu importēšana ir pabeigta
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Importē…
+migration-wizard-progress-icon-completed =
+    .aria-label = Pabeigts
+migration-safari-password-import-header = Importēt paroles no Safari
+migration-safari-password-import-steps-header = Lai importētu Safari paroles:
+migration-safari-password-import-step1 = Programmā Safari atveriet izvēlni Safari un dodieties uz Preferences > Passwords
+migration-safari-password-import-step2 = Spiediet uz pogas <img data-l10n-name="safari-icon-3dots"/> un izvēlieties "Export All Passwords".
+migration-safari-password-import-step3 = Saglabāt paroļu datni
+migration-safari-password-import-step4 = Izmantojiet tālāk esošo “Atlasīt datni”, lai izvēlētos saglabāto paroļu datni
+migration-safari-password-import-skip-button = Izlaist
+migration-safari-password-import-select-button = Atlasīt datni
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [zero] { $quantity } grāmatzīme
+        [one] { $quantity } grāmatzīmes
+       *[other] { $quantity } grāmatzīmju
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [zero] { $quantity } izlase
+        [one] { $quantity } izlases
+       *[other] { $quantity } izlašu
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [zero] { $quantity } paplašinājums
+        [one] { $quantity } paplašinājumi
+       *[other] { $quantity } paplašinājumu
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } no { $quantity } paplašinājumiem
 migration-wizard-progress-extensions-support-link = Uzziniet, kā { -brand-product-name } piemeklē paplašinājumus
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
