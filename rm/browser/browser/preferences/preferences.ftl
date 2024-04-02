@@ -708,6 +708,9 @@ sync-mobile-promo = Telechargiar Firefox per <img data-l10n-name="android-icon"/
 
 sync-profile-picture =
     .tooltiptext = Midar il maletg da profil
+sync-profile-picture-with-alt =
+    .tooltiptext = Midar il maletg da profil
+    .alt = Midar il maletg da profil
 sync-sign-out =
     .label = Sortir…
     .accesskey = o
