@@ -101,9 +101,20 @@ firefoxview-change-colorway-button = Mainīt krāsu ceļu
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Vēl nav ko redzēt
 firefoxview-synced-tabs-placeholder-body = Nākamreiz, kad citā ierīcē ar { -brand-product-name } atvērsiet lapu, varēsiet to paņemt šeit.
+firefoxview-collapse-button-show =
+    .title = Rādīt sarakstu
+firefoxview-collapse-button-hide =
+    .title = Paslēpt sarakstu
+firefoxview-overview-nav = Nesenā pārlūkošana
+    .title = Nesenā pārlūkošana
+firefoxview-overview-header = Nesenā pārlūkošana
+    .title = Nesenā pārlūkošana
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = Vēsture
+    .title = Vēsture
+firefoxview-history-header = Vēsture
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
