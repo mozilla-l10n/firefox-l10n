@@ -654,6 +654,9 @@ sync-mobile-promo = Изтеглете Firefox за <img data-l10n-name="android
 
 sync-profile-picture =
     .tooltiptext = Промяна снимката на профила
+sync-profile-picture-with-alt =
+    .tooltiptext = Промяна снимката на профила
+    .alt = Промяна снимката на профила
 sync-sign-out =
     .label = Излизане…
     .accesskey = з
