@@ -6,34 +6,38 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Ieteicams paplašinājums
+cfr-doorhanger-feature-heading = Ieteicamā funkcija
 
 ##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kāpēc es šo redzu
-
 cfr-doorhanger-extension-cancel-button = Ne tagad
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Pievienot
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Parvaldit ieteikumu iestatījumus
     .accesskey = m
-
 cfr-doorhanger-extension-never-show-recommendation = Neuzrādīt man šo ieteikumu
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Uzzināt vairāk
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = autors { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Ieteikums
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
+cfr-doorhanger-extension-notification2 = Ieteikums
+    .tooltiptext = Paplašinājumu ieteikums
+    .a11y-announcement = Ir pieejams paplašinājumu ieteikums
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
+cfr-doorhanger-feature-notification = Ieteikums
+    .tooltiptext = Funkciju ieteikums
+    .a11y-announcement = Ir pieejams funkciju ieteikums
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -57,77 +61,39 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } lietotāju
     }
 
-## These messages are steps on how to use the feature and are shown together.
-
-
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Sinhronizējiet savas grāmatzīmes visur.
+cfr-doorhanger-bookmark-fxa-body = Lielisks atradums! Tagad nepalieciet bez šīs grāmatzīmes savās mobilajās ierīcēs. Sāciet darbu ar { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Sinhronizēt grāmatzīmes tūlīt…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Aizvērt poga
+    .title = Aizvērt
 
 ## Protections panel
 
+cfr-protections-panel-header = Pārlūkošana bez izsekošanas
+cfr-protections-panel-body = Paturiet savus datus pie sevis. { -brand-short-name } aizsargā jūs no daudziem visizplatītākajiem izsekotājiem, kas seko jūsu darbībām tiešsaistē.
+cfr-protections-panel-link-text = Uzzināt vairāk
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Jauna funkcija:
 cfr-whatsnew-button =
     .label = Kas jauns?
     .tooltiptext = Kas jauns?
-
 cfr-whatsnew-release-notes-link-text = Izlasiet laidiena piezīmes
-
-## Search Bar
-
-
-## Picture-in-Picture
-
-
-## Permission Prompt
-
-
-## Fingerprinter Counter
-
-
-## Bookmark Sync
-
-
-## Login Sync
-
-
-## Send Tab
-
-
-## Firefox Send
-
-
-## Social Tracking Protection
-
 
 ## Enhanced Tracking Protection Milestones
 
 
-## What’s New Panel Content for Firefox 76
-
-
-## Lockwise message
-
-
-## Vulnerable Passwords message
-
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
-
 ## DOH Message
 
-## What's new: Cookies message
-
-## Fission Experiment Message
 
 ## Full Video Support CFR message
 
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -135,9 +101,9 @@ cfr-whatsnew-release-notes-link-text = Izlasiet laidiena piezīmes
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -152,19 +118,40 @@ cfr-whatsnew-release-notes-link-text = Izlasiet laidiena piezīmes
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
 
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
 
