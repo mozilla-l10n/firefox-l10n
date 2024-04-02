@@ -593,6 +593,9 @@ sync-mobile-promo = Baixeu el Firefox per a l'<img data-l10n-name="android-icon"
 
 sync-profile-picture =
     .tooltiptext = Canvia la imatge de perfil
+sync-profile-picture-with-alt =
+    .tooltiptext = Canvia la imatge de perfil
+    .alt = Canvia la imatge de perfil
 sync-sign-out =
     .label = Tanca la sessió…
     .accesskey = T
