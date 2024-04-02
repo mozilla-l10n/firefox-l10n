@@ -708,6 +708,9 @@ sync-mobile-promo = Sæktu Firefox fyrir <img data-l10n-name="android-icon"/> <a
 
 sync-profile-picture =
     .tooltiptext = Breyta notandamynd
+sync-profile-picture-with-alt =
+    .tooltiptext = Breyta notandamynd
+    .alt = Breyta notandamynd
 sync-sign-out =
     .label = Útskráning…
     .accesskey = g
