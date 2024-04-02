@@ -374,6 +374,9 @@ containers-remove-button =
 
 sync-profile-picture =
     .tooltiptext = Променете ја сликата на профилот
+sync-profile-picture-with-alt =
+    .tooltiptext = Променете ја сликата на профилот
+    .alt = Променете ја сликата на профилот
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -442,6 +445,9 @@ privacy-header = Приватност на прелистувачот
 
 ## Privacy Section - Logins and Passwords
 
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Исклучоци…
     .accesskey = ч
@@ -460,6 +466,9 @@ forms-master-pw-fips-desc = Промената на лозинката не ус
 ## OS Authentication dialog
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -494,6 +503,9 @@ sitedata-option-block-unvisited =
     .label = Колачиња од непосетени мрежни места
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
 
 
 ## Privacy Section - Address Bar
