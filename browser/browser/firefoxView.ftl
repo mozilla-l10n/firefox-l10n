@@ -239,19 +239,38 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importējiet vēsturi no citas pārlūka
+firefoxview-import-history-description = Padariet { -brand-short-name } par savu ierasto pārlūku. Importējiet pārlūkošanas vēsturi, grāmatzīmes un daudz ko citu.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Vai pārāk ātri aizvērāt cilni?
+firefoxview-recentlyclosed-empty-description = Šeit atradīsiet nesen aizvērtās cilnes, lai varētu ātri atvērt jebkuru no tām.
+firefoxview-recentlyclosed-empty-description-two = Lai atrastu senākas cilnes, skatiet savu <a data-l10n-name="history-url">pārlūkošanas vēsturi</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Šajā ierīcē nav atvērta neviena cilne
+firefoxview-syncedtabs-connect-another-device = Savienot citu ierīci
+firefoxview-pinned-tabs =
+    .title = Piespraustās cilnes
+firefoxview-tabs =
+    .title = Cilnes
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = Pārslēgties uz { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Pārslēgties uz (grāmatzīmēs) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Grāmatzīmēs) { $url }
