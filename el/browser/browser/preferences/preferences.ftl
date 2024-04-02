@@ -708,6 +708,9 @@ sync-mobile-promo = Κάντε λήψη του Firefox για <img data-l10n-na
 
 sync-profile-picture =
     .tooltiptext = Αλλαγή εικόνας προφίλ
+sync-profile-picture-with-alt =
+    .tooltiptext = Αλλαγή εικόνας προφίλ
+    .alt = Αλλαγή εικόνας προφίλ
 sync-sign-out =
     .label = Αποσύνδεση…
     .accesskey = ν
