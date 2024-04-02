@@ -50,6 +50,38 @@ firefoxview-syncedtabs-synctabs-header = Atjaunināt sinhronizācijas iestatīju
 firefoxview-syncedtabs-synctabs-description = Lai skatītu cilnes no citām ierīcēm, jums ir jāsinhronizē atvērtās cilnes.
 firefoxview-syncedtabs-synctabs-checkbox = Atļaut sinhronizēties atvērtajām cilnēm
 firefoxview-syncedtabs-loading-header = Sinhronizē
+firefoxview-syncedtabs-loading-description = Kad sinhronizācija būs pabeigta, jūs redzēsiet visas cilnes, kas ir atvērtās citās ierīcēs. Pēc kāda brīža paskatieties vēlreiz.
+firefoxview-tabpickup-fxa-admin-disabled-header = Jūsu organizācija ir izslēgusi sinhronizāciju
+firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nevar starp ierīcēm sinhronizēt cilnes, jo jūsu administrators ir izslēdzis sinhronizāciju.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } nevar starp ierīcēm sinhronizēt cilnes, jo jūsu organizācija ir izslēgusi sinhronizāciju.
+firefoxview-tabpickup-network-offline-header = Pārbaudiet savienojumu ar internetu
+firefoxview-tabpickup-network-offline-description = Ja izmantojat ugunsmūri vai starpniekserveri, pārbaudiet, vai { -brand-short-name } ir atļauja piekļūt tīmeklim.
+firefoxview-tabpickup-network-offline-primarybutton = Mēģināt vēlreiz
+firefoxview-tabpickup-sync-error-header = Mums ir problēmas ar sinhronizāciju
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } pašlaik nevar sasniegt sinhronizācijas pakalpojumu. Pēc brīža mēģiniet vēlreiz.
+firefoxview-tabpickup-sync-error-primarybutton = Mēģināt vēlreiz
+firefoxview-tabpickup-sync-disconnected-header = Lai turpinātu, ieslēdziet sinhronizāciju
+firefoxview-tabpickup-sync-disconnected-description = Lai paņemtu cilnes, jums ir jāatļauj { -brand-short-name } sinhronizācija.
+firefoxview-tabpickup-sync-disconnected-primarybutton = Iestatījumos ieslēdziet sinhronizāciju
+firefoxview-tabpickup-password-locked-header = Ievadiet savu galveno paroli, lai skatītu cilnes
+firefoxview-tabpickup-password-locked-description = Lai izmantotu cilnes, jums būs jāievada { -brand-short-name } galvenā parole.
+firefoxview-tabpickup-password-locked-link = Uzzināt vairāk
+firefoxview-tabpickup-password-locked-primarybutton = Ievadiet galveno paroli
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Uzzināt vairāk</a>
+firefoxview-tabpickup-signed-out-header = Ierakstieties, lai atkal savienotos
+firefoxview-tabpickup-signed-out-description = Lai atkal savienotos un paņemtu cilnes, ierakstieties savā { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Lai atkal savienotos un paņemtu cilnes, ierakstieties savā kontā.
+firefoxview-tabpickup-signed-out-primarybutton = Ierakstīties
+firefoxview-tabpickup-syncing = Uzgaidiet, kamēr sinhronizējas cilnes. Tas aizņems tikai brīdi.
+firefoxview-mobile-promo-header = Paņemiet cilnes no tālruņa vai planšetes
+firefoxview-mobile-promo-description = Lai skatītu jaunākās mobilo tālruņu cilnes, iOS vai Android ierīcē ierakstieties { -brand-product-name }.
+firefoxview-mobile-promo-primarybutton = Iegūt { -brand-product-name } mobilajam tālrunim
+firefoxview-mobile-confirmation-header = 🎉 Gatavs!
+firefoxview-mobile-confirmation-description = Tagad varat paņemt savas { -brand-product-name } cilnes no planšetes vai tālruņa.
+firefoxview-closed-tabs-title = Nesen aizvērtās
+firefoxview-closed-tabs-description2 = Atkal atvērt lapas, kuras šajā logā tika aizvērtas.
+firefoxview-closed-tabs-placeholder-header = Nav nesen aizvērtu ciļņu
+firefoxview-closed-tabs-placeholder-body = Aizverot cilni šajā logā, varat to paņemt no šejienes.
 
 ## History in this context refers to browser history
 
