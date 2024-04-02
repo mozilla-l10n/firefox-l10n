@@ -704,6 +704,9 @@ sync-mobile-promo = Iscàrriga Firefox pro <img data-l10n-name="android-icon"/> 
 
 sync-profile-picture =
     .tooltiptext = Muda s'immàgine de su profilu
+sync-profile-picture-with-alt =
+    .tooltiptext = Muda s'immàgine de su profilu
+    .alt = Muda s'immàgine de su profilu
 sync-sign-out =
     .label = Serra sa sessione…
     .accesskey = s
