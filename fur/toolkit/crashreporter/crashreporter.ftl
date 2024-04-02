@@ -2,9 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Segnaladôr di colàs
-crashreporter-crash-message = { -brand-short-name } al à vût un probleme e al è colassât.
+crashreporter-branded-title = Segnaladôr di colàs { -brand-short-name }
+crashreporter-crashed-and-restore = { -brand-short-name } al à vût un probleme e al è colassât. O cirarìn di ripristinâ lis schedis e i barcons al gnûf inviament.
 crashreporter-plea = Par judânus a diagnosticâ e comedâ il probleme, tu puedis inviânus une segnalazion di colàs.
+crashreporter-information = Cheste aplicazion e ven eseguide dopo un colàs par segnalâ il probleme a { -vendor-short-name }. No varès di jessi eseguide in mût diret.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detais: { $details }
 crashreporter-no-run-message = Cheste aplicazion e je in esecuzion dopo che e à vût un colàs par segnalâ il probleme al produtôr de aplicazion.  No si varès di eseguîle in maniere direte.
