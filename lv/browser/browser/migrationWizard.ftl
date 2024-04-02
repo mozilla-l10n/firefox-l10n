@@ -89,6 +89,76 @@ migration-passwords-from-file-success-header = Paroles ir sekmīgi importētas
 migration-passwords-from-file = Pārbauda, vai datnē ir paroles
 migration-passwords-new = Jaunās paroles
 migration-passwords-updated = Esošās paroles
+migration-passwords-from-file-no-valid-data = Datnē nav derīgu paroļu datu. Izvēlieties citu datni.
+migration-passwords-from-file-picker-title = Importēt paroļu datni
+# A description for the .csv file format that may be shown as the file type
+# filter by the operating system.
+migration-passwords-from-file-csv-filter-title =
+    { PLATFORM() ->
+        [macos] CSV dokuments
+       *[other] CSV datne
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+migration-passwords-from-file-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] TSV dokuments
+       *[other] TSV datne
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [zero] Pievienots { $newEntries }
+        [one] Pievienoti { $newEntries }
+       *[other] Pievienoti { $newEntries }
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [zero] Atjaunināts { $updatedEntries }
+        [one] Atjaunināti { $updatedEntries }
+       *[other] Atjaunināti { $updatedEntries }
+    }
+migration-bookmarks-from-file-picker-title = Importēt grāmatzīmju datni
+migration-bookmarks-from-file-progress-header = Importē grāmatzīmes
+migration-bookmarks-from-file = Grāmatzīmes
+migration-bookmarks-from-file-success-header = Grāmatzīmes ir veiksmīgi importētas
+migration-bookmarks-from-file-no-valid-data = Datne nesatur nekādus grāmatzīmju datus. Izvēlieties citu datni.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] HTML dokuments
+       *[other] HTML datne
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = JSON datne
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [zero] { $newEntries } grāmatzīme
+        [one] { $newEntries } grāmatzīmes
+       *[other] { $newEntries } grāmatzīmju
+    }
+migration-import-button-label = Importēt
+migration-choose-to-import-from-file-button-label = Importēt no datnes
+migration-import-from-file-button-label = Atlasiet datni
+migration-cancel-button-label = Atcelt
+migration-done-button-label = Gatavs
+migration-continue-button-label = Turpināt
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -104,6 +174,48 @@ migration-passwords-updated = Esošās paroles
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+migration-wizard-progress-extensions-support-link = Uzziniet, kā { -brand-product-name } piemeklē paplašinājumus
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Nav atbilstošu paplašinājumu
+migration-wizard-progress-extensions-addons-link = Pārlūkojiet { -brand-short-name } paplašinājumus
 
 ##
 
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [zero] { $quantity } parole
+        [one] { $quantity } paroles
+       *[other] { $quantity } paroļu
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [zero] No pēdējās { $maxAgeInDays } dienas
+        [one] No pēdējām { $maxAgeInDays } dienām
+       *[other] No pēdējām { $maxAgeInDays } dienām
+    }
+migration-wizard-progress-success-formdata = Veidlapu vēsture
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [zero] { $quantity } maksājumu veids
+        [one] { $quantity } maksājumu veidi
+       *[other] { $quantity } maksājumu veidu
+    }
+migration-wizard-safari-permissions-sub-header = Lai importētu Safari grāmatzīmes un pārlūkošanas vēsturi:
+migration-wizard-safari-instructions-continue = Izvēlieties "Turpināt"
+migration-wizard-safari-instructions-folder = Sarakstā atlasiet Safari mapi un izvēlieties “Atvērt”
