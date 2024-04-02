@@ -44,3 +44,4 @@ crashreporter-error-no-home-dir = E mancje la cartele home
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Nol è stât pussibil eseguî il spostament di { $from } a { $to }
+crashreporter-error-version-eol = Fin vite de version: lis segnalazions di colàs no vegnin plui acetadis.
