@@ -655,6 +655,9 @@ sync-mobile-promo = Pobier Firefox na <img data-l10n-name="android-icon"/> <a da
 
 sync-profile-picture =
     .tooltiptext = Zmiyń profilowy ôbrozek
+sync-profile-picture-with-alt =
+    .tooltiptext = Zmiyń profilowy ôbrozek
+    .alt = Zmiyń profilowy ôbrozek
 sync-sign-out =
     .label = Wyloguj sie…
     .accesskey = g
