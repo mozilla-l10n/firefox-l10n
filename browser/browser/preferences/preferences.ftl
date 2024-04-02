@@ -621,6 +621,9 @@ sync-mobile-promo = ດາວໂຫລດ Firefox ສຳລັບ <img data-l10n
 
 sync-profile-picture =
     .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
+sync-profile-picture-with-alt =
+    .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
+    .alt = ປ່ຽນຮູບປະຈຳຕົວ
 sync-sign-out =
     .label = ອອກ​ຈາກ​ລະ​ບົບ…
     .accesskey = g
