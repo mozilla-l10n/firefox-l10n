@@ -699,6 +699,9 @@ sync-mobile-promo = «Firefox»-ро барои <img data-l10n-name="android-ico
 
 sync-profile-picture =
     .tooltiptext = Иваз кардани расми профил
+sync-profile-picture-with-alt =
+    .tooltiptext = Иваз кардани расми профил
+    .alt = Иваз кардани расми профил
 sync-sign-out =
     .label = Баромадан…
     .accesskey = Б
