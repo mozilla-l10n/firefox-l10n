@@ -36,3 +36,6 @@ crashreporter-error-loading-file = A fájl betöltése sikertelen ({ $path })
 # $path (String) - the path
 crashreporter-error-creating-dir = A könyvtár létrehozása sikertelen ({ $path })
 crashreporter-error-no-home-dir = Hiányzó saját könyvtár
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = A(z) { $from } áthelyezése sikertelen ide: { $to }
