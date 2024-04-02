@@ -706,6 +706,9 @@ sync-mobile-promo = Discarga Firefox pro <img data-l10n-name="android-icon"/> <a
 
 sync-profile-picture =
     .tooltiptext = Cambiar le imagine del profilo
+sync-profile-picture-with-alt =
+    .tooltiptext = Cambiar le imagine del profilo
+    .alt = Cambiar le imagine del profilo
 sync-sign-out =
     .label = Clauder session…
     .accesskey = C
