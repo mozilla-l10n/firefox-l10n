@@ -648,6 +648,9 @@ sync-mobile-promo = Taqasaj Firefox richin <img data-l10n-name="android-icon"/> 
 
 sync-profile-picture =
     .tooltiptext = Tijal ruwachib'al ruwäch b'i'aj
+sync-profile-picture-with-alt =
+    .tooltiptext = Tijal ruwachib'al ruwäch b'i'aj
+    .alt = Tijal ruwachib'al ruwäch b'i'aj
 sync-sign-out =
     .label = Titz'apïx Molojri'ïl…
     .accesskey = p
