@@ -700,6 +700,9 @@ sync-mobile-promo = 在 <img data-l10n-name="android-icon"/> <a data-l10n-name="
 
 sync-profile-picture =
     .tooltiptext = 更改头像
+sync-profile-picture-with-alt =
+    .tooltiptext = 更改头像
+    .alt = 更改头像
 sync-sign-out =
     .label = 退出登录…
     .accesskey = g
