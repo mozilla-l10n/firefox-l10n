@@ -712,6 +712,9 @@ sync-mobile-promo = Stiahnite si Firefox pre <img data-l10n-name="android-icon"
 
 sync-profile-picture =
     .tooltiptext = Zmeniť obrázok profilu
+sync-profile-picture-with-alt =
+    .tooltiptext = Zmeniť obrázok profilu
+    .alt = Zmeniť obrázok profilu
 sync-sign-out =
     .label = Odhlásiť sa…
     .accesskey = h
