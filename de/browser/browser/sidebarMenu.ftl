@@ -4,15 +4,13 @@
 
 sidebar-menu-bookmarks =
     .label = Lesezeichen
-
 sidebar-menu-history =
     .label = Chronik
-
 sidebar-menu-synced-tabs =
     .label = Synchronisierte Tabs
-
+sidebar-menu-megalist =
+    .label = Passwörter
 sidebar-menu-close =
     .label = Sidebar schließen
-
 sidebar-close-button =
     .tooltiptext = Sidebar schließen

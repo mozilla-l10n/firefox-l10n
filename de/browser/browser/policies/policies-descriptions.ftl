@@ -125,6 +125,7 @@ policy-SSLVersionMax = Höchste zu verwendende SSL-Version festlegen
 policy-SSLVersionMin = Niedrigste zu verwendende SSL-Version festlegen
 policy-StartDownloadsInTempDirectory = Erzwingen, dass Downloads an einem lokalen, temporären Speicherort und nicht im Standard-Download-Verzeichnis beginnen
 policy-SupportMenu = Benutzerdefinierten Eintrag zum Menü "Hilfe" hinzufügen
+policy-TranslateEnabled = Übersetzung von Webseiten aktivieren oder deaktivieren
 policy-UserMessaging = Anzeige von bestimmten Nachrichten deaktivieren
 policy-UseSystemPrintDialog = Mit Druckdialog des Systems drucken
 # “format” refers to the format used for the value of this policy.
