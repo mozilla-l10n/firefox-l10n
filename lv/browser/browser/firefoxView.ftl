@@ -138,6 +138,56 @@ firefoxview-synced-tabs-header = Cilnes no citām ierīcēm
 
 ##
 
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
+firefoxview-view-all-link = Skatīt visas
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Logs { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Logs { $winID } (pašreizējais)
+firefoxview-opentabs-focus-tab =
+    .title = Pārslēgties uz šo cilni
+firefoxview-show-more = Rādīt vairāk
+firefoxview-show-less = Rādīt mazāk
+firefoxview-show-all = Rādīt visu
+firefoxview-search-text-box-clear-button =
+    .title = Attīrīt
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Meklēt
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Meklēšanas vēsture
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Meklēt nesen aizvērtās cilnēs
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Meklēt sinhronizētajās cilnēs
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Meklēt atvērtās cilnēs
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Meklēšanas rezultāti vaicājumam “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [zero] { $count } vietne
+        [one] { $count } vietnes
+       *[other] { $count } vietņu
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Nav rezultātu vaicājumam “{ $query }”
+firefoxview-sort-history-by-date-label = Kārtot pēc datuma
+firefoxview-sort-history-by-site-label = Kārtot pēc vietnes
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
