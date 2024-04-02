@@ -706,6 +706,9 @@ sync-mobile-promo = Lataa Firefox <img data-l10n-name="android-icon"/> <a data-l
 
 sync-profile-picture =
     .tooltiptext = Vaihda kuva
+sync-profile-picture-with-alt =
+    .tooltiptext = Vaihda kuva
+    .alt = Vaihda kuva
 sync-sign-out =
     .label = Kirjaudu ulos…
     .accesskey = K
