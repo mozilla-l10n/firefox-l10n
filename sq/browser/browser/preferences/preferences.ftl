@@ -708,6 +708,9 @@ sync-mobile-promo = Që të kryeni njëkohësim te pajisja juaj celulare, shkark
 
 sync-profile-picture =
     .tooltiptext = Ndryshoni foto profili
+sync-profile-picture-with-alt =
+    .tooltiptext = Ndryshoni foto profili
+    .alt = Ndryshoni foto profili
 sync-sign-out =
     .label = Dilni…
     .accesskey = D
