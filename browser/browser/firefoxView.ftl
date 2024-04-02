@@ -36,6 +36,20 @@ firefoxview-syncedtabs-signin-header = Ņemiet cilnes no jebkuras vietas
 firefoxview-syncedtabs-signin-description = Lai skatītu savas cilnes jebkurā vietā, kur izmantojat { -brand-product-name }, ierakstieties savā kontā. Ja jums nav konta, mēs palīdzēsim jums ieziet reģistrēšanās soļus.
 firefoxview-syncedtabs-signin-primarybutton = Ierakstieties vai pierakstieties
 firefoxview-tabpickup-adddevice-header = Sinhronizējiet { -brand-product-name } savā tālrunī vai planšetē
+firefoxview-tabpickup-adddevice-description = Lejupielādējiet { -brand-product-name } mobilajam tālrunim un tur ierakstieties.
+firefoxview-tabpickup-adddevice-learn-how = Uzziniet kā
+firefoxview-tabpickup-adddevice-primarybutton = Iegūt { -brand-product-name } mobilajam tālrunim
+firefoxview-syncedtabs-adddevice-header = Ierakstieties { -brand-product-name } no citām savām ierīcēm
+firefoxview-syncedtabs-adddevice-description = Lai skatītu savas cilnes jebkurā vietā, kur izmantojat { -brand-product-name }, ierakstieties visās savās ierīcēs. Uzziniet, kā <a data-l10n-name="url">pievienot papildu ierīces</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Izmēģiniet { -brand-product-name } mobilajiem tālruņiem
+firefoxview-tabpickup-synctabs-header = Ieslēgt ciļņu sinhronizāciju
+firefoxview-tabpickup-synctabs-description = Atļaut { -brand-short-name } kopīgot cilnes starp ierīcēm.
+firefoxview-tabpickup-synctabs-learn-how = Uzziniet kā
+firefoxview-tabpickup-synctabs-primarybutton = Sinhronizēt atvērtās cilnes
+firefoxview-syncedtabs-synctabs-header = Atjaunināt sinhronizācijas iestatījumus
+firefoxview-syncedtabs-synctabs-description = Lai skatītu cilnes no citām ierīcēm, jums ir jāsinhronizē atvērtās cilnes.
+firefoxview-syncedtabs-synctabs-checkbox = Atļaut sinhronizēties atvērtajām cilnēm
+firefoxview-syncedtabs-loading-header = Sinhronizē
 
 ## History in this context refers to browser history
 
