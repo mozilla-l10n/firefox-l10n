@@ -699,6 +699,9 @@ sync-mobile-promo = Telecargatz Firefox per <img data-l10n-name="android-icon"/>
 
 sync-profile-picture =
     .tooltiptext = Cambiar la fòto de perfil de l'utilizaire
+sync-profile-picture-with-alt =
+    .tooltiptext = Cambiar la fòto de perfil de l'utilizaire
+    .alt = Cambiar la fòto de perfil de l'utilizaire
 sync-sign-out =
     .label = Se desconnectar
     .accesskey = d
