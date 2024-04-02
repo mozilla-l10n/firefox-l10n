@@ -708,6 +708,9 @@ sync-mobile-promo = Töltse le a Firefox for <img data-l10n-name="android-icon"/
 
 sync-profile-picture =
     .tooltiptext = Profilkép módosítása
+sync-profile-picture-with-alt =
+    .tooltiptext = Profilkép módosítása
+    .alt = Profilkép módosítása
 sync-sign-out =
     .label = Kijelentkezés…
     .accesskey = K
