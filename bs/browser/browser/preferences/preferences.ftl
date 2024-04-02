@@ -430,6 +430,9 @@ sync-mobile-promo = Preuzmi Firefox za <img data-l10n-name="android-icon"/> <a d
 
 sync-profile-picture =
     .tooltiptext = Promijenite profilnu sliku
+sync-profile-picture-with-alt =
+    .tooltiptext = Promijenite profilnu sliku
+    .alt = Promijenite profilnu sliku
 sync-manage-account = Upravljanje računom
     .accesskey = o
 
@@ -523,6 +526,9 @@ pane-privacy-logins-and-passwords-header = Prijave i lozinke
 forms-ask-to-save-logins =
     .label = Pitaj za pamćenje prijava i lozinki za web stranice
     .accesskey = r
+
+## Privacy Section - Passwords
+
 forms-exceptions =
     .label = Izuzeci…
     .accesskey = I
@@ -558,6 +564,9 @@ forms-primary-pw-fips-title = Trenutno ste u FIPS režimu. FIPS zahtjeva postoja
 forms-master-pw-fips-desc = Neuspješna izmjena lozinke
 
 ## OS Authentication dialog
+
+
+## Privacy section - Autofill
 
 
 ## Privacy Section - History
