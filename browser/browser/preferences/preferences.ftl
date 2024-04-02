@@ -692,6 +692,9 @@ sync-mobile-promo = 모바일 기기와 동기화하려면 <img data-l10n-name="
 
 sync-profile-picture =
     .tooltiptext = 프로필 사진 변경
+sync-profile-picture-with-alt =
+    .tooltiptext = 프로필 사진 변경
+    .alt = 프로필 사진 변경
 sync-sign-out =
     .label = 로그아웃…
     .accesskey = g
