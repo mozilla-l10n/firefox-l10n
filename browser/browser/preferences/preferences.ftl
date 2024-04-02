@@ -645,6 +645,9 @@ sync-mobile-promo = Descarcă Firefox pentru <img data-l10n-name="android-icon"/
 
 sync-profile-picture =
     .tooltiptext = Schimbă fotografia de profil
+sync-profile-picture-with-alt =
+    .tooltiptext = Schimbă fotografia de profil
+    .alt = Schimbă fotografia de profil
 sync-sign-out =
     .label = Deconectează-te…
     .accesskey = g
