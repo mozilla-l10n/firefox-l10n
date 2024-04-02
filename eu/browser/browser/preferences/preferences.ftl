@@ -700,6 +700,9 @@ sync-mobile-promo = Deskargatu <img data-l10n-name="android-icon"/> <a data-l10n
 
 sync-profile-picture =
     .tooltiptext = Aldatu profileko argazkia
+sync-profile-picture-with-alt =
+    .tooltiptext = Aldatu profileko argazkia
+    .alt = Aldatu profileko argazkia
 sync-sign-out =
     .label = Amaitu saioa…
     .accesskey = A
