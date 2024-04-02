@@ -587,6 +587,9 @@ sync-mobile-promo = Ներբեռնել Firefox-ը <img data-l10n-name="android-i
 
 sync-profile-picture =
     .tooltiptext = Փոխել պրոֆիլի նկարը
+sync-profile-picture-with-alt =
+    .tooltiptext = Փոխել պրոֆիլի նկարը
+    .alt = Փոխել պրոֆիլի նկարը
 sync-sign-out =
     .label = Դուրս գալ…
     .accesskey = g
