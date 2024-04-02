@@ -708,6 +708,9 @@ sync-mobile-promo = Discjame Firefox par <img data-l10n-name="android-icon"/> <a
 
 sync-profile-picture =
     .tooltiptext = Cambie la imagjin dal profîl
+sync-profile-picture-with-alt =
+    .tooltiptext = Cambie la imagjin dal profîl
+    .alt = Cambie la imagjin dal profîl
 sync-sign-out =
     .label = Disconet…
     .accesskey = g
