@@ -115,15 +115,26 @@ firefoxview-overview-header = Nesenā pārlūkošana
 firefoxview-history-nav = Vēsture
     .title = Vēsture
 firefoxview-history-header = Vēsture
+firefoxview-history-context-delete = Dzēst no vēstures
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = Atvērtās cilnes
+    .title = Atvērtās cilnes
+firefoxview-opentabs-header = Atvērtās cilnes
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Nesen aizvērtās cilnes
+    .title = Nesen aizvērtās cilnes
+firefoxview-recently-closed-header = Nesen aizvērtās cilnes
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Cilnes no citām ierīcēm
+    .title = Cilnes no citām ierīcēm
+firefoxview-synced-tabs-header = Cilnes no citām ierīcēm
 
 ##
 
