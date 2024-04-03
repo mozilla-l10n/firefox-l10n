@@ -28,6 +28,20 @@ crashreporter-button-ok = OK
 crashreporter-button-close = Schließen
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Absturz-ID: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Sie können Details dieses Absturzes unter { $url } ansehen.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Minidump-Analyzer konnte nicht ausgeführt werden
+# $path (String) - the file path
+crashreporter-error-opening-file = Fehler beim Öffnen der Datei ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = Fehler beim Laden der Datei ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = Ordner konnte nicht erstellt werden ({ $path })
+crashreporter-error-no-home-dir = Fehlendes Benutzerverzeichnis
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = { $from } konnte nicht nach { $to } verschoben werden
+crashreporter-error-version-eol = Ende der Lebensdauer der Version: Absturzberichte werden nicht mehr akzeptiert.
