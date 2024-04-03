@@ -42,9 +42,10 @@ newtab-search-box-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Pievienot meklētāju
-newtab-topsites-add-shortcut-header = Jauns saīsne
+newtab-topsites-add-shortcut-header = Jauna saīsne
 newtab-topsites-edit-topsites-header = Rediģēt populārās vietnes
 newtab-topsites-edit-shortcut-header = Rediģēt saīsni
+newtab-topsites-add-shortcut-label = Pievienot saīsni
 newtab-topsites-title-label = Virsraksts
 newtab-topsites-title-input =
     .placeholder = Ievadīt nosaukumu
@@ -114,6 +115,12 @@ newtab-menu-show-privacy-info = Mūsu sponsori un jūsu privātums
 newtab-privacy-modal-button-done = Gatavs
 newtab-privacy-modal-button-manage = Pārvaldīt apmaksāta satura iestatījumus
 newtab-privacy-modal-header = Jūsu privātumam ir nozīme.
+newtab-privacy-modal-paragraph-2 =
+    Papildus aizraujošiem stāstiem mēs jums parādām arī atbilstošu,
+    pārbaudītu saturu no atsevišķiem sponsoriem. Varat būt drošs, ka <strong>jūsu pārlūkošanas
+    dati nekad neatstāj jūsu personīgo { -brand-product-name }</strong> kopiju — mēs tos neredzam, un mūsu
+    sponsori arī nē.
+newtab-privacy-modal-link = Jaunā cilnē uzziniet, kā darbojas privātums
 
 ##
 
@@ -150,6 +157,14 @@ newtab-label-removed-bookmark = Grāmatzīme noņemta
 newtab-label-recommended = Populāri
 newtab-label-saved = Saglabāts { -pocket-brand-name }
 newtab-label-download = Lejupielādēts
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#   $sponsorOrSource (string) - The name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · sponsorēts
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#   $sponsor (string) - The name of a sponsor
+newtab-label-sponsored-by = Sponsorē { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
