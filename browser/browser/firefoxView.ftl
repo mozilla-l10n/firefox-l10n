@@ -88,7 +88,7 @@ firefoxview-closed-tabs-placeholder-body2 = Når du lèt att ei fane, kan du hen
 firefoxview-closed-tabs-dismiss-tab =
     .title = Avvis { $tabTitle }
 # refers to the last tab that was used
-firefoxview-pickup-tabs-badge = Sist aktiv
+firefoxview-pickup-tabs-badge = Sist verksam
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
