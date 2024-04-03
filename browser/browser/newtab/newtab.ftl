@@ -199,6 +199,7 @@ newtab-section-header-recent-activity = Nesenās aktivitātes
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Iesaka { $provider }
+newtab-section-header-stories = Pārdomas rosinoši stāsti
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -207,23 +208,36 @@ newtab-empty-section-highlights = Sāciet pārlūkošanu un mēs šeit parādīs
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Viss ir apskatīts! Atnāciet atpakaļ nedaudz vēlāk, lai redzētu populāros stāstus no { $provider }. Nevarat sagaidīt? Izvēlieties kādu no tēmām jau tagad.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = Esat visu apskatījis. Atgriezieties vēlāk, lai skatītu citus stāstus. Nevarat sagaidīt? Atlasiet populāru tēmu, lai atrastu vairāk lielisku stāstu no visa tīmekļa.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Jūs esat visu apskatījis!
+newtab-discovery-empty-section-topstories-content = Atgriezieties vēlāk, lai skatītu citus stāstus.
 newtab-discovery-empty-section-topstories-try-again-button = Mēģināt vēlreiz
 newtab-discovery-empty-section-topstories-loading = Ielādē…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Hmm! Mēs gandrīz ielādējām šo sadaļu, bet ne gluži.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populārās tēmas:
+newtab-pocket-new-topics-title = Vai vēlaties vēl vairāk stāstu? Skatiet šīs populārās tēmas no { -pocket-brand-name }
 newtab-pocket-more-recommendations = Vairāk ieteikumu
 newtab-pocket-learn-more = Uzzināt vairāk
 newtab-pocket-cta-button = Izmēģiniet { -pocket-brand-name }
 newtab-pocket-cta-text = Saglabājiet interesantus stāstus { -pocket-brand-name } un barojiet savu prātu ar interesantu lasāmvielu.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ir daļa no { -brand-product-name } saimes
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Saglabāt
+newtab-pocket-saved = Saglabāts
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
+newtab-pocket-onboarding-discover = Atklājiet labāko no tīmekļa
+newtab-pocket-onboarding-cta = { -pocket-brand-name } izpēta daudzveidīgu publikāciju klāstu, lai sniegtu visinformatīvāko, iedvesmojošāko un uzticamāko saturu tieši jūsu { -brand-product-name } pārlūkā.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -233,3 +247,19 @@ newtab-error-fallback-refresh-link = Pārlādējiet lapu, lai mēģinātu vēlre
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Saīsnes
+newtab-custom-shortcuts-subtitle = Vietnes, kuras saglabājat vai apmeklējat
+newtab-custom-shortcuts-toggle =
+    .label = Saīsnes
+    .description = Vietnes, kuras saglabājat vai apmeklējat
+# Variables
+#   $num (number) - Number of rows to display
+newtab-custom-row-selector =
+    { $num ->
+        [zero] { $num } rinda
+        [one] { $num } rindas
+       *[other] { $num } rindu
+    }
+newtab-custom-sponsored-sites = Sponsorētās saīsnes
+newtab-custom-pocket-title = Ieteica { -pocket-brand-name }
+newtab-custom-pocket-subtitle = Izcils saturs, ko atlasījis { -pocket-brand-name }, kas ir daļa no { -brand-product-name } saimes
