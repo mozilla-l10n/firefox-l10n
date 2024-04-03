@@ -153,6 +153,51 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Izmantot noklusējumu
 security-no-visits = Nē
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [zero] Meta ({ $tags } tags)
+            [one] Meta ({ $tags } tagi)
+           *[other] Meta ({ $tags } tagu)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Nē
+        [zero] Jā, { $visits } reizi
+        [one] Jā, { $visits } reizes
+       *[other] Jā, { $visits } reižu
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [zero] { $kb } KB ({ $bytes } baits)
+            [one] { $kb } KB ({ $bytes } baiti)
+           *[other] { $kb } KB ({ $bytes } baitu)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [zero] { $type } attēls (animēts, { $frames } kadrs)
+            [one] { $type } attēls (animēts, { $frames } kadri)
+           *[other] { $type } attēls (animēts, { $frames } kadru)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
