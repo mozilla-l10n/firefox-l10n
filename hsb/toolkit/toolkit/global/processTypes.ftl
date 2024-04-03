@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Priwilegowany wobsah Mozilla
 process-type-extension = Rozšěrjenje
 # process used to open file:// URLs
 process-type-file = Lokalna dataja
+# process used to instantiate new child processes
+process-type-forkserver = Serwer Fork
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Izolowany webwobsah
