@@ -51,6 +51,7 @@ shopping-message-bar-analysis-in-progress-message2 = Gallout a ra padout tro-dro
 # Variables:
 #  $percentage (Number) - The percentage complete that the analysis is, per our servers.
 shopping-message-bar-analysis-in-progress-with-amount = O wiriañ kalite an alioù ({ $percentage }%)
+shopping-message-bar-keep-closed-dismiss-button = Ket, trugarez
 
 ## Strings for the product review snippets card
 
@@ -129,6 +130,9 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Na ziskouez din en-dro
+shopping-callout-disabled-auto-open-button = Komprenet am eus
+shopping-callout-opted-out-button = Komprenet am eus
 
 ## Onboarding message strings.
 
