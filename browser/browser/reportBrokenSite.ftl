@@ -32,5 +32,6 @@ report-broken-site-panel-report-sent-label = Rapporten din er sendt
 report-broken-site-panel-report-sent-header =
     .label = Rapporten din er sendt
     .title = Rapporten din er sendt
+report-broken-site-panel-report-sent-text = Takk for at du hjelper { -brand-product-name } med å gjere nettet meir ope, tilgjengeleg og betre for alle.
 report-broken-site-panel-invalid-url-label = Skriv inn ei gyldig nettadresse.
 report-broken-site-panel-missing-reason-label = Vel ein grunn
