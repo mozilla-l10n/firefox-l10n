@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Mozilla 特权内容
 process-type-extension = 扩展
 # process used to open file:// URLs
 process-type-file = 本地文件
+# process used to instantiate new child processes
+process-type-forkserver = Fork 服务器
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = 隔离的 Web 内容
