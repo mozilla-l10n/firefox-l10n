@@ -3,7 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = { -brand-short-name } - rozprawjak spadow
+crashreporter-crashed-and-restore = { -brand-short-name } měješe problem a spadny. Pospytujemy waše rajtarki a wokno wobnowić, hdyž znowa startuje.
 crashreporter-plea = Zo byšće nam pomhał problem diagnosticěrować a porjedźić, móžeće nam rozprawu wo spadźe pósłać.
+crashreporter-information = Tute nałoženje je po spadźe běžało, zo by { -vendor-short-name } problem zdźěliło.  Njeměło direktnje běžeć.
 crashreporter-error = { -brand-short-name } měješe problem a je spadnyło. Bohužel rozprawjak spadow njemóžeše rozprawu wo tutym spadźe pósłać.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Podrobnosće: { $details }
