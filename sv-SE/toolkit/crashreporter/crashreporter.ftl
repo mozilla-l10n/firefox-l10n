@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = { -brand-short-name } Kraschrapportör
+crashreporter-apology = Vi är ledsna
 crashreporter-crashed-and-restore = { -brand-short-name } hade ett problem och kraschade. Vi ska försöka återställa dina flikar och fönster när den startar om.
 crashreporter-plea = För att hjälpa oss att diagnostisera och lösa problemet kan du skicka oss en kraschrapport.
 crashreporter-information = Det här programmet körs efter en krasch för att rapportera problemet till { -vendor-short-name }. Det ska inte köras direkt.
