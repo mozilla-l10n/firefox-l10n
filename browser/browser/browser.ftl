@@ -995,6 +995,7 @@ popup-warning-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message =
     { $popupCount ->
+        [zero] Neļaut { -brand-short-name } atvērt vairāk kā { $popupCount } uznirstošo logu
         [one] Neļaut { -brand-short-name } atvērt vairāk kā { $popupCount } uznirstošos logus
        *[other] Neļaut { -brand-short-name } atvērt vairāk kā { $popupCount } uznirstošo logu
     }
