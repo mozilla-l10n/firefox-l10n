@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = Rapporteur de plantage de { -brand-short-name }
+crashreporter-crashed-and-restore = { -brand-short-name } a rencontré un problème et a planté. Nous essaierons de restaurer vos onglets et fenêtres lors du redémarrage.
 crashreporter-plea = Pour nous aider à diagnostiquer et corriger ce problème, vous pouvez nous envoyer un rapport de plantage.
 crashreporter-information = Cette application est exécutée après un plantage pour rapporter le problème survenu à { -vendor-short-name }. Elle ne doit pas être lancée directement.
 crashreporter-error = { -brand-short-name } a rencontré un problème et a planté. Malheureusement, le rapporteur de plantage n’est pas en mesure de transmettre un rapport pour ce plantage.
@@ -39,6 +40,7 @@ crashreporter-error-opening-file = Échec de l’ouverture du fichier ({ $path }
 crashreporter-error-loading-file = Échec du chargement du fichier ({ $path })
 # $path (String) - the path
 crashreporter-error-creating-dir = Échec de la création du dossier ({ $path })
+crashreporter-error-no-home-dir = Répertoire home manquant
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Impossible de déplacer { $from } vers { $to }
