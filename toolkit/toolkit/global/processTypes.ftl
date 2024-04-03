@@ -17,6 +17,8 @@ process-type-privilegedmozilla = 권한 있는 Mozilla 콘텐츠
 process-type-extension = 확장
 # process used to open file:// URLs
 process-type-file = 로컬 파일
+# process used to instantiate new child processes
+process-type-forkserver = 포크 서버
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = 격리된 웹 콘텐츠
