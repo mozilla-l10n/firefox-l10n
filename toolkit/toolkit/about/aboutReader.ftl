@@ -78,3 +78,12 @@ about-reader-customtheme-tab = Swójski
 
 about-reader-custom-colors-foreground = Tekst
     .title = Wobdźěłanska barba
+about-reader-custom-colors-background = Pozadk
+    .title = Wobdźěłanska barba
+about-reader-custom-colors-unvisited-links = Njewopytane wotkazy
+    .title = Wobdźěłanska barba
+about-reader-custom-colors-visited-links = Wopytane wotkazy
+    .title = Wobdźěłanska barba
+about-reader-custom-colors-selection-highlight = Za wótře čitać wuzběhnyć
+    .title = Wobdźěłanska barba
+about-reader-custom-colors-reset-button = Standardy wróćo stajić
