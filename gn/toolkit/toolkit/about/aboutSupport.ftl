@@ -431,6 +431,10 @@ pointing-device-none = Mba’e’oka jehechaukaha’ỹ
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Tetepy resa’ỹijo (DLP)
 content-analysis-active = Myandy
 content-analysis-connected-to-agent = Ojoaju pytyvõha rehe
 content-analysis-agent-path = Pytyvõha rape

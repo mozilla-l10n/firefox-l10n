@@ -24,6 +24,8 @@ crashreporter-button-ok = MONEĨ
 crashreporter-button-close = Emboty
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Crash ID: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Ehechakuaa ko apañuãi rehegua { $url } ndive.
 
 # Error strings
 
