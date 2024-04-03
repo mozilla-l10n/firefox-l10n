@@ -48,7 +48,7 @@ about-processes-vr-process = Realtât Virtuâl ({ $pid })
 about-processes-rdd-process = Decodificadôr dâts ({ $pid })
 about-processes-socket-process = Rêt ({ $pid })
 about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
-about-processes-fork-server-process = Fork Server ({ $pid })
+about-processes-fork-server-process = Servidôr pal sdopleament (fork) dai procès ({ $pid })
 about-processes-preallocated-process = Preassegnât ({ $pid })
 about-processes-utility-process = Utilitât ({ $pid })
 # Unknown process names
