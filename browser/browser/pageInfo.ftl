@@ -4,22 +4,21 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
-
 copy =
     .key = C
 menu-copy =
     .label = Kopēt
     .accesskey = K
-
 select-all =
     .key = A
 menu-select-all =
     .label = Iezīmēt visu
     .accesskey = v
-
+close-dialog =
+    .key = w
 general-tab =
-    .label = Vispārējā
-    .accesskey = G
+    .label = Vispārīgi
+    .accesskey = V
 general-title =
     .value = Virsraksts:
 general-url =
@@ -27,20 +26,19 @@ general-url =
 general-type =
     .value = Tips:
 general-mode =
-    .value = Renderēšanas režīms:
+    .value = Atveidošanas režīms:
 general-size =
     .value = Izmērs:
 general-referrer =
     .value = Nosūtītāja URL:
 general-modified =
-    .value = Mainīts:
+    .value = Modificēts:
 general-encoding =
     .value = Teksta kodējums:
 general-meta-name =
     .label = Nosaukums
 general-meta-content =
     .label = Saturs
-
 media-tab =
     .label = Multivide
     .accesskey = M
@@ -55,26 +53,27 @@ media-address =
 media-type =
     .label = Tips
 media-size =
-    .label = Faila izmērs
+    .label = Izmērs
 media-count =
     .label = Skaits
 media-dimension =
     .value = Izmēri:
 media-long-desc =
     .value = Garais apraksts:
+media-select-all =
+    .label = Atlasīt visu
+    .accesskey = v
 media-save-as =
     .label = Saglabāt kā...
     .accesskey = A
 media-save-image-as =
     .label = Saglabāt kā...
     .accesskey = e
-
 perm-tab =
     .label = Atļaujas
     .accesskey = P
 permissions-for =
     .value = Atļaujas lapai:
-
 security-tab =
     .label = Drošība
     .accesskey = S
@@ -88,29 +87,24 @@ security-view-identity =
 security-view-identity-owner =
     .value = Īpašnieks:
 security-view-identity-domain =
-    .value = Mājas lapa:
+    .value = Tīmekļa vietne:
 security-view-identity-verifier =
     .value = Pārbaudījis:
 security-view-identity-validity =
     .value = Derīgs līdz:
 security-view-privacy =
     .value = Privātums un vēsture
-
 security-view-privacy-history-value = Vai es šo lapu šodien jau esmu apmeklējis?
 security-view-privacy-sitedata-value = Vai šī vietne glabā kādu informāciju manā datorā?
-
 security-view-privacy-clearsitedata =
-    .label = Notīrīt sīkdatnes un lapu datus
+    .label = Notīrīt sīkdatnes un vietņu datus
     .accesskey = N
-
 security-view-privacy-passwords-value = Vai man ir saglabātas paroles šai lapai?
-
 security-view-privacy-viewpasswords =
     .label = Skatīt saglabātās paroles
     .accesskey = p
 security-view-technical =
     .value = Tehniskā informācija
-
 help-button =
     .label = Palīdzība
 
@@ -122,7 +116,6 @@ help-button =
 
 security-site-data-cookies = Jā, sīkdatnes un { $value } { $unit } lapas datus
 security-site-data-only = Jā, { $value } { $unit } lapas datus
-
 security-site-data-cookies-only = Jā, sīkdatnes
 security-site-data-no = Nē
 
@@ -146,7 +139,6 @@ media-video = Video
 media-audio = Audio
 saved-passwords-yes = Jā
 saved-passwords-no = Nē
-
 no-page-title =
     .value = Nenosaukta lapa:
 general-quirks-mode =
@@ -154,21 +146,19 @@ general-quirks-mode =
 general-strict-mode =
     .value = Standartu atbilstības režīms
 page-info-security-no-owner =
-    .value = Šī mājas lapa nepiedāvā informāciju par savu īpašnieku.
+    .value = Šī tīmekļa vietne nepiedāvā informāciju par savu īpašnieku.
 media-select-folder = Izvēlieties mapi, kurā saglabāt attēlus
 media-unknown-not-cached =
     .value = Nezināms (nav kešatmiņā)
 permissions-use-default =
-    .label = Izmantot noklusētos
+    .label = Izmantot noklusējumu
 security-no-visits = Nē
-
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } attēls
-
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -177,15 +167,13 @@ media-image-type =
 #   $scaledx (number) - The scaled horizontal size of an image
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
-    .value = { $dimx }px × { $dimy }px (izmainīts uz { $scaledx }px × { $scaledy }px)
-
+    .value = { $dimx }px × { $dimy }px (mērogots uz { $scaledx }px × { $scaledy }px)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
-
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
@@ -197,16 +185,11 @@ media-file-size = { $size } KB
 
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
 media-block-image =
     .label = Bloķēt attēlus no { $website }
     .accesskey = B
-
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
-# Variables:
-#   $website (string) - The url of the website pageInfo is getting info for
 page-info-page =
     .title = Informācija par lapu - { $website }
 page-info-frame =
