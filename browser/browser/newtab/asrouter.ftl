@@ -136,6 +136,8 @@ spotlight-public-wifi-vpn-link = Ne tagad
 
 spotlight-better-internet-header = Labāks internets sākas ar jums
 spotlight-better-internet-body = Ja izmantojat { -brand-short-name }, jūs balsojat par atvērtu un pieejamu internetu, kas ikvienam nāk par labu.
+spotlight-peace-mind-header = Mums ir viss, kas tev ir vajadzīgs
+spotlight-peace-mind-body = Katru mēnesi { -brand-short-name } vienam lietotājam bloķē vidēji vairāk nekā 3000 izsekotāju. Jo nekam nevajadzētu stāvēt starp jums un labu internetu, it īpaši privātuma taucēkļiem, piemēram, izsekotājiem.
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
