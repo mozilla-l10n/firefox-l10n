@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Привилегиялық Mozilla мазмұн
 process-type-extension = Кеңейту
 # process used to open file:// URLs
 process-type-file = Жергілікті файл
+# process used to instantiate new child processes
+process-type-forkserver = Форк-сервері
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Оқшауланған веб-мазмұны
