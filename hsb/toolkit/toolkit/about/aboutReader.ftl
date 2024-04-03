@@ -4,7 +4,6 @@
 
 about-reader-loading = Začituje so…
 about-reader-load-error = Nastawk njeda so ze strony začitać
-
 about-reader-color-scheme-light = Swětły
     .title = Swětła barbowa šema
 about-reader-color-scheme-dark = Ćmowy
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Sepija
     .title = Barbowa šema Sepia
 about-reader-color-scheme-auto = Awtomatisce
     .title = Awtomatiska barbowa šema
-
+about-reader-color-theme-light = Swětły
+    .title = Barbna drasta Swětły
+about-reader-color-theme-dark = Ćmowy
+    .title = Barbna drasta Ćmowy
+about-reader-color-theme-sepia = Sepija
+    .title = Barbna drasta Sepija
+about-reader-color-theme-auto = Awtomatiski
+    .title = Barbna drasta Awtomatiski
+about-reader-color-theme-gray = Šěry
+    .title = Barbna drasta Šěry
+about-reader-color-theme-contrast = Kontrast
+    .title = Barbna drasta Kontrast
+about-reader-color-theme-custom = Swójske barby
+    .title = Barbna drasta Swójske
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -51,4 +63,18 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Čitanski napohlad začinić
 about-reader-toolbar-type-controls = Pismowe elementy
+about-reader-toolbar-color-controls = Barby
 about-reader-toolbar-savetopocket = Do { -pocket-brand-name } składować
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Drasta
+about-reader-fxtheme-tab = Standard
+about-reader-customtheme-tab = Swójski
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Tekst
+    .title = Wobdźěłanska barba
