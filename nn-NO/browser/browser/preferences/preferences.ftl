@@ -1329,6 +1329,7 @@ preferences-doh-status-disabled = Av
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Ikkje aktiv ({ $reason })
 preferences-doh-group-message = Slå på sikker DNS med:
+preferences-doh-group-message2 = Aktiver DNS-over-HTTPS med:
 preferences-doh-expand-section =
     .tooltiptext = Meir informasjon
 preferences-doh-setting-default =
