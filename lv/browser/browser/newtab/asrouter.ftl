@@ -231,19 +231,48 @@ set-default-pdf-handler-primary = Sapratu
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Plānojat tikt pie jaunas ierīces?
+fxa-sync-cfr-body = Pārliecinieties, ka ikreiz atverot { -brand-product-name }, jaunākās grāmatzīmes, paroles un cilnes būs pieejamas.
+fxa-sync-cfr-primary = Uzzināt vairāk
+    .accesskey = U
+fxa-sync-cfr-secondary = Atgādināt vēlāk
+    .accesskey = A
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-heavy-user-header = Neaizmirstiet dublēt savus datus
+device-migration-fxa-spotlight-heavy-user-body = Pārliecinieties, ka svarīga informācija, piemēram, grāmatzīmes un paroles, tiek atjaunināta un aizsargāta visās jūsu ierīcēs.
+device-migration-fxa-spotlight-heavy-user-primary-button = Ar ko sākt
+device-migration-fxa-spotlight-older-device-header = Sirdsmiers no { -brand-product-name }
+device-migration-fxa-spotlight-older-device-body = Konts uztur jūsu svarīgo informāciju aktuālu un aizsargātu jebkurā savienotajā ierīcē.
+device-migration-fxa-spotlight-older-device-primary-button = Izveidot kontu
+device-migration-fxa-spotlight-getting-new-device-header-2 = Plānojat tikt pie jaunas ierīces?
+device-migration-fxa-spotlight-getting-new-device-body-2 = Veiciet dažus vienkāršus soļus, lai, sākot darbu ar jaunu ierīci, paņemtu līdzi grāmatzīmes, vēsturi un paroles.
+device-migration-fxa-spotlight-getting-new-device-primary-button = Kā dublēt savus datus
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Vai padarīt { -brand-short-name } par noklusējuma PDF lasītāju?</strong> Izmantojiet { -brand-short-name }, lai lasītu un rediģētu datorā saglabātās PDF datnes.
+pdf-default-notification-set-default-button =
+    .label = Iestatīt kā noklusējuma
+pdf-default-notification-decline-button =
+    .label = Ne tagad
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Atvērt { -brand-short-name } katru reizi, kad pārstartējat datoru?</strong> Tagad varat iestatīt, lai { -brand-short-name } tiktu automātiski atvērts, pārstartējot ierīci.
+launch-on-login-learnmore = Uzzināt vairāk
+launch-on-login-infobar-confirm-button = Jā, atvērt { -brand-short-name }
+    .accesskey = J
+launch-on-login-infobar-reject-button = Ne tagad
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Atvērt { -brand-short-name } katru reizi, kad pārstartējat datoru?</strong> Lai pārvaldītu startēšanas preferences, iestatījumos meklējiet “startup”.
+launch-on-login-infobar-final-reject-button = Nē, paldies
+    .accesskey = N
 
 ## Tail Fox Set Default Spotlight
 
