@@ -8,6 +8,11 @@
 newtab-page-title = Jauna cilne
 newtab-settings-button =
     .title = Pielāgojiet jaunās cilnes lapu
+newtab-personalize-icon-label =
+    .title = Personalizēt jauno cilni
+    .aria-label = Personalizēt jauno cilni
+newtab-personalize-dialog-label =
+    .aria-label = Personalizēt
 
 ## Search box component.
 
@@ -18,11 +23,28 @@ newtab-search-box-search-button =
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Meklējiet, izmantojot { $engine }, vai ievadiet adresi
+newtab-search-box-handoff-text-no-engine = Meklējiet vai ievadiet adresi
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-input =
+    .placeholder = Meklējiet ar { $engine } vai ievadiet adresi
+    .title = Meklējiet ar { $engine } vai ievadiet adresi
+    .aria-label = Meklējiet ar { $engine } vai ievadiet adresi
+newtab-search-box-handoff-input-no-engine =
+    .placeholder = Meklējiet vai ievadiet adresi
+    .title = Meklējiet vai ievadiet adresi
+    .aria-label = Meklējiet vai ievadiet adresi
+newtab-search-box-text = Meklēt tīmeklī
+newtab-search-box-input =
+    .placeholder = Meklēt tīmeklī
+    .aria-label = Meklēt tīmeklī
 
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Pievienot meklētāju
+newtab-topsites-add-shortcut-header = Jauns saīsne
 newtab-topsites-edit-topsites-header = Rediģēt populārās vietnes
+newtab-topsites-edit-shortcut-header = Rediģēt saīsni
 newtab-topsites-title-label = Virsraksts
 newtab-topsites-title-input =
     .placeholder = Ievadīt nosaukumu
