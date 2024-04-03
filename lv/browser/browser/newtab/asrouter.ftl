@@ -138,6 +138,12 @@ spotlight-better-internet-header = Labāks internets sākas ar jums
 spotlight-better-internet-body = Ja izmantojat { -brand-short-name }, jūs balsojat par atvērtu un pieejamu internetu, kas ikvienam nāk par labu.
 spotlight-peace-mind-header = Mums ir viss, kas tev ir vajadzīgs
 spotlight-peace-mind-body = Katru mēnesi { -brand-short-name } vienam lietotājam bloķē vidēji vairāk nekā 3000 izsekotāju. Jo nekam nevajadzētu stāvēt starp jums un labu internetu, it īpaši privātuma taucēkļiem, piemēram, izsekotājiem.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] Paturēt dokā
+       *[other] Piespraust uzdevumjoslai
+    }
+spotlight-pin-secondary-button = Ne tagad
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -152,12 +158,31 @@ spotlight-peace-mind-body = Katru mēnesi { -brand-short-name } vienam lietotāj
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Jauns { -brand-short-name }. Privātāks. Mazāk izsekotāju. Bez kompromisiem.
+mr2022-background-update-toast-text = Izmēģiniet jaunāko { -brand-short-name } tagad, kas jaunināta ar mūsu līdz šim spēcīgāko pretizsekošanas aizsardzību.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Atvērt { -brand-shorter-name } tagad
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Atgādināt vēlāk
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Izmēģini
+    .accesskey = I
+firefoxview-cfr-secondarybutton = Ne tagad
+    .accesskey = N
+firefoxview-cfr-header-v2 = Ātri turpiniet no vietas, kur pārtraucāt
+firefoxview-cfr-body-v2 = Atgūstiet nesen aizvērtās cilnes, kā arī viegli pārejiet starp ierīcēm, izmantojot { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Sasveicinieties ar { -firefoxview-brand-name }
 
 ## Colorways expiry reminder CFR
 
