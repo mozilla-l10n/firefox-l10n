@@ -59,6 +59,10 @@ fxviewtabrow-pin-tab = Spilhennañ an ivinell
     .accesskey = S
 fxviewtabrow-unpin-tab = Dispilhennañ an ivinell
     .accesskey = D
+fxviewtabrow-mute-tab = Diweredekaat son an ivinell
+    .accesskey = i
+fxviewtabrow-unmute-tab = Gweredekaat son an ivinell
+    .accesskey = G
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -70,3 +74,7 @@ fxviewtabrow-mute-tab-button =
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Diweredekaat son an ivinell
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Gweredekaat son an ivinell
