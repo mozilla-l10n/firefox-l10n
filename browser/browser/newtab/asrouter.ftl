@@ -214,6 +214,9 @@ cookie-banner-blocker-onboarding-learn-more = Uzzināt vairāk
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Mums ir viss, kas tev ir vajadzīgs
+july-jam-body = Katru mēnesi { -brand-short-name } vienam lietotājam bloķē vidēji 3000+ izsekotāju, nodrošinot drošu un ātru piekļuvi labam internetam.
+july-jam-set-default-primary = Atvērt manas saites ar { -brand-short-name }
+fox-doodle-pin-headline = Prieks jūs atkal redzēt!
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
