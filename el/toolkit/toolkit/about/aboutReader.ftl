@@ -4,7 +4,6 @@
 
 about-reader-loading = Φόρτωση…
 about-reader-load-error = Απέτυχε η φόρτωση του άρθρου από τη σελίδα
-
 about-reader-color-scheme-light = Ανοιχτόχρωμο
     .title = Ανοιχτόχρωμο σύνολο χρωμάτων
 about-reader-color-scheme-dark = Σκοτεινό
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = Σέπια
     .title = Σέπια σύνολο χρωμάτων
 about-reader-color-scheme-auto = Αυτόματο
     .title = Αυτόματο σύνολο χρωμάτων
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,4 +47,18 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Κλείσιμο προβολής ανάγνωσης
 about-reader-toolbar-type-controls = Ρυθμίσεις τυπογραφίας
+about-reader-toolbar-color-controls = Χρώματα
 about-reader-toolbar-savetopocket = Αποθήκευση στο { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Θέμα
+about-reader-fxtheme-tab = Προεπιλογή
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Κείμενο
+    .title = Επεξεργασία χρώματος
+about-reader-custom-colors-reset-button = Επαναφορά προεπιλογών
