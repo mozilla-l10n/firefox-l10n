@@ -434,3 +434,4 @@ pointing-device-none = Mba’e’oka jehechaukaha’ỹ
 content-analysis-active = Myandy
 content-analysis-connected-to-agent = Ojoaju pytyvõha rehe
 content-analysis-agent-path = Pytyvõha rape
+content-analysis-request-count = Mba’ejerure papajey
