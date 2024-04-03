@@ -84,7 +84,7 @@ appmenu-remote-tabs-showinactive =
     .label =
         { $count ->
             [one] Vis ei uverksam fane
-           *[other] Vis { $count } uverksame faner
+           *[other] Vis { $count } uverksame fane
         }
     .tooltiptext = Vis dei uverksame fanene på denne eininga
 # This is shown beneath the name of a device when that device has no open tabs
