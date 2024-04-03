@@ -125,6 +125,7 @@ policy-SSLVersionMax = Emboheko SSL rembiapokue ipyahuvéva.
 policy-SSLVersionMin = Emboheko SSL rembiapokue oiko’ivéva.
 policy-StartDownloadsInTempDirectory = Embojere umi ñemboguejy oñepyrũ hag̃ua peteĩ tenda sapy’agua tendápe, tenda’i ñemboguejyrã ñepyrũrã rangue.
 policy-SupportMenu = Embojuaju mba’eporu poravorãgua ñemomba’epyréva pytyvõha poravorãme.
+policy-TranslateEnabled = Emyandy térã embogue ñanduti rogue moñe’ẽasa.
 policy-UserMessaging = Ani ehechauka heta ñe’ẽmondo poruhárape.
 policy-UseSystemPrintDialog = Eguenohẽ kuatiáre eiporuhápe apopyvusúpe ñe’ẽñemi kuatiáre ñeguenohẽ rehegua.
 # “format” refers to the format used for the value of this policy.
