@@ -4,7 +4,6 @@
 
 about-reader-loading = Laddar...
 about-reader-load-error = Det gick inte att läsa in artikeln från sidan
-
 about-reader-color-scheme-light = Ljus
     .title = Färgschema ljus
 about-reader-color-scheme-dark = Mörk
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Sepia
     .title = Färgschema sepia
 about-reader-color-scheme-auto = Auto
     .title = Färgschema automatiskt
-
+about-reader-color-theme-light = Ljust
+    .title = Färgtema Ljus
+about-reader-color-theme-dark = Mörkt
+    .title = Färgtema Mörkt
+about-reader-color-theme-sepia = Sepia
+    .title = Sepia färgtema
+about-reader-color-theme-auto = Auto
+    .title = Färgtema Auto
+about-reader-color-theme-gray = Grå
+    .title = Färgtema Grå
+about-reader-color-theme-contrast = Kontrast
+    .title = Färgtema Kontrast
+about-reader-color-theme-custom = Anpassade färger
+    .title = Anpassat färgtema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,4 +61,27 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Stäng läsarvy
 about-reader-toolbar-type-controls = Typkontroller
+about-reader-toolbar-color-controls = Färger
 about-reader-toolbar-savetopocket = Spara till { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Tema
+about-reader-fxtheme-tab = Standard
+about-reader-customtheme-tab = Anpassad
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Text
+    .title = Redigera färg
+about-reader-custom-colors-background = Bakgrund
+    .title = Redigera färg
+about-reader-custom-colors-unvisited-links = Obesökta länkar
+    .title = Redigera färg
+about-reader-custom-colors-visited-links = Besökta länkar
+    .title = Redigera färg
+about-reader-custom-colors-selection-highlight = Överstrykningspenna för högläsning
+    .title = Redigera färg
+about-reader-custom-colors-reset-button = Återställ standardvärdena
