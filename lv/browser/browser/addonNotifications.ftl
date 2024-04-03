@@ -116,6 +116,7 @@ addon-confirm-install-unsigned-message =
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message =
     { $addonCount ->
+        [zero] Uzmanību: šī lapa vēlas instalēt { $addonCount }  { -brand-short-name } papildinājumu, daži no tiem var būt nepārbaudīti. Turpiniet uzņemoties pilnu atbildību.
         [one] Uzmanību: šī lapa vēlas instalēt { $addonCount }  { -brand-short-name } papildinājumus, daži no tiem var būt nepārbaudīti. Turpiniet uzņemoties pilnu atbildību.
        *[other] Uzmanību: šī lapa vēlas instalēt { $addonCount } { -brand-short-name } papildinājumu, daži no tiem var būt nepārbaudīti. Turpiniet uzņemoties pilnu atbildību.
     }
