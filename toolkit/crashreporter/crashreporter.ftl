@@ -2,13 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Marandu jejavyguáva
-crashreporter-crash-message = { -brand-short-name } ojuhu peteĩ apañuãi ha oñembotýma.
 crashreporter-plea = Orepytyvõ hag̃ua rojuhu ha romyatyrõ ko apañuãi, ikatu egueruka oréve marandu’i jejavy rehegua.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Mba’eju’i: { $details }
 crashreporter-no-run-message = Ko tembiporu’i oku’ejeýta jejavy rire omomarandu hag̃ua pe apañuãi tembiporu’i me’ẽhárape. Ndereiporuiva’erã pepete.
 crashreporter-button-details = Mba’emimi…
+crashreporter-loading-details = Henyhẽhína…
 crashreporter-view-report-title = Marandu’i retepy
 crashreporter-comment-prompt = Embojuaju je’epyre (je’epyre ohecháta opavavete)
 crashreporter-report-info = Ko marandu’i aguereko avei marandu mba’éichapa tembiporu’i oĩkuri oñembotýramo guare.
@@ -26,3 +25,10 @@ crashreporter-crash-identifier = Crash ID: { $id }
 
 # Error strings
 
+# $path (String) - the file path
+crashreporter-error-opening-file = Ndaijurujái marandurenda ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = Neremyanyhẽkuaái marandurenda ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = Neremoheñoikuaái marandurenda’aty ({ $path })
+crashreporter-error-no-home-dir = Noĩri marandurenda’aty ñepyrũha

@@ -428,3 +428,9 @@ pointing-device-mouse = Anguja
 pointing-device-touchscreen = Mba’erechaha pokoguáva
 pointing-device-pen-digitizer = Haiha monguatiaha
 pointing-device-none = Mba’e’oka jehechaukaha’ỹ
+
+## Content Analysis (DLP)
+
+content-analysis-active = Myandy
+content-analysis-connected-to-agent = Ojoaju pytyvõha rehe
+content-analysis-agent-path = Pytyvõha rape
