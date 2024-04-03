@@ -201,9 +201,19 @@ colorways-cfr-header-today = “Neatkarīgās balsis” krāsu ceļa termiņš b
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Vai atļaut { -brand-short-name } noraidīt sīkdatņu paziņojumus?
+cfr-cbh-body = { -brand-short-name } var automātiski noraidīt daudzus sīkdatņu paziņojumu pieprasījumus.
+cfr-cbh-confirm-button = Noraidīt sīkdatņu paziņojumus
+    .accesskey = r
+cfr-cbh-dismiss-button = Ne tagad
+    .accesskey = N
+cookie-banner-blocker-onboarding-header = { -brand-short-name } tikko jūsu vietā noraidīja sīkdatņu paziņojumu
+cookie-banner-blocker-onboarding-body = Mazāk traucēkļu, mazāk sīkdatņu, kas izseko jūs šajā vietnē.
+cookie-banner-blocker-onboarding-learn-more = Uzzināt vairāk
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Mums ir viss, kas tev ir vajadzīgs
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
