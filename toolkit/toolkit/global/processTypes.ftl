@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Mozilla-ynhâld mei privileezjes
 process-type-extension = Utwreiding
 # process used to open file:// URLs
 process-type-file = Lokaal bestân
+# process used to instantiate new child processes
+process-type-forkserver = Forkserver
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Isolearre webynhâld

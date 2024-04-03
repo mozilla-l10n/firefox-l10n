@@ -44,4 +44,5 @@ contentanalysis-block-message = Jo organisaasje brûkt software foar foarkommen 
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Der is in flater bard by de kommunikaasje mei de software foar foarkommen fan gegevensferlies. Oerdracht wegere foar boarne: { $content }.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } ôfslute?
+contentanalysis-inprogress-quit-message = Der binne ferskate aksjes yn útfiering. As jo { -brand-shorter-name } ôfslute, wurde dizze aksjes net foltôge.
 contentanalysis-inprogress-quit-yesbutton = Ja, ôfslute
