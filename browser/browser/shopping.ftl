@@ -49,7 +49,11 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available-button2 = Rapporter at produktet er på lager
 shopping-message-bar-analysis-in-progress-title2 = Kontrollerer kvaliteten på vurderinga
 shopping-message-bar-analysis-in-progress-message2 = Dette vil ta omlag 60 sekund.
+shopping-message-bar-keep-closed-header =
+    .heading = Halde attlaten?
+    .message = Du kan oppdatere innstillingane dine for å halde vurderingskontrolløren attlaten som standard. Akkurat no vert han opna automatisk.
 shopping-message-bar-keep-closed-dismiss-button = Nei takk
+shopping-message-bar-keep-closed-accept-button = Ja, la han vere attlaten
 
 ## Strings for the product review snippets card
 
@@ -72,8 +76,15 @@ shopping-settings-label =
     .label = Innstillingar
 shopping-settings-recommendations-toggle =
     .label = Vis annonsar i vurderingskontrolløren
+shopping-settings-recommendations-learn-more2 = Du ser sporadiske annonsar for relevante produkt. Vi annonserer berre produkt med pålitelege vurderingar. <a data-l10n-name="review-quality-url">Les meir</a>
 shopping-settings-opt-out-button = Slå av vurderingskontrolløren
 powered-by-fakespot = Vurderingskontrolløren vert driven av <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Opne vurderingskontrolløren automatisk
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Når du ser på produkt på { $currentSite }
 
 ## Strings for the adjusted rating component
 

@@ -12,10 +12,13 @@
 
 policy-3rdparty = Spesifiser policyar som WebExtensions kan få tilgang til via chrome.storage.managed.
 policy-AllowedDomainsForApps = Definier domene som får tilgang til Google Workspace.
+policy-AllowFileSelectionDialogs = Tillat dialogvindauge for val av filer.
 policy-AppAutoUpdate = Slå på eller slå av automatiske programoppdateringar.
 policy-AppUpdatePin = Hindre { -brand-short-name } i å oppdatere utover den spesifiserte versjonen.
 policy-AppUpdateURL = Spesifiser eigendefinert programoppdateringsadresse.
 policy-Authentication = Konfigurer integrert godkjenning for nettsider som støttar det.
+policy-AutofillAddressEnabled = Aktiver autofyll for adresser.
+policy-AutofillCreditCardEnabled = Aktiver autofyll for betalingsmåtar.
 policy-AutoLaunchProtocolsFromOrigins = Definer ei liste over eksterne protokollar som kan brukast frå spesifiserte kjelder uan å spørje brukaren.
 policy-BackgroundAppUpdate2 = Slå på eller av bakgrunnsoppdateraren.
 policy-BlockAboutAddons = Blokker tilgang til Tilleggshandsamaren (about:addons)
