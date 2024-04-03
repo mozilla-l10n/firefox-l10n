@@ -278,4 +278,5 @@ launch-on-login-infobar-final-reject-button = Nei takk
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
 tail-fox-spotlight-title = Hald irriterande sporingstenester på avstand
 tail-fox-spotlight-subtitle = Sei farvel til irriterande annonsesporarar, og møt ei tryggare og raskere internettoppleving.
+tail-fox-spotlight-primary-button = Opne lenkene mine med { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ikkje no
