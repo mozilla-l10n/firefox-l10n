@@ -29,6 +29,7 @@ crashreporter-crash-details = Ehechakuaa ko apañuãi rehegua { $url } ndive.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Ojavy emongu’évo minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Ndaijurujái marandurenda ({ $path })
 # $path (String) - the file path
