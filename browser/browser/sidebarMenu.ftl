@@ -4,15 +4,13 @@
 
 sidebar-menu-bookmarks =
     .label = Sinedoù
-
 sidebar-menu-history =
     .label = Roll istor
-
 sidebar-menu-synced-tabs =
     .label = Ivinelloù goubredet
-
+sidebar-menu-megalist =
+    .label = Gerioù-tremen
 sidebar-menu-close =
     .label = Serriñ ar varrenn gostez
-
 sidebar-close-button =
     .tooltiptext = Serriñ ar varrenn gostez
