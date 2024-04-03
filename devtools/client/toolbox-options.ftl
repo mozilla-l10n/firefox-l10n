@@ -59,6 +59,11 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Sa’ykuéra réra
 
+## Web Console section
+
+# The heading
+options-webconsole-label = Mba’e’okarupa
+
 ## Style Editor section
 
 # The heading
