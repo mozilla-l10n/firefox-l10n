@@ -217,12 +217,20 @@ july-jam-headline = Mums ir viss, kas tev ir vajadzīgs
 july-jam-body = Katru mēnesi { -brand-short-name } vienam lietotājam bloķē vidēji 3000+ izsekotāju, nodrošinot drošu un ātru piekļuvi labam internetam.
 july-jam-set-default-primary = Atvērt manas saites ar { -brand-short-name }
 fox-doodle-pin-headline = Prieks jūs atkal redzēt!
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Šis ir īss atgādinājums, ka varat paturēt savu iecienītāko neatkarīgo pārlūku tikai viena klikšķa attālumā.
+fox-doodle-pin-primary = Atvērt manas saites ar { -brand-short-name }
+fox-doodle-pin-secondary = Ne tagad
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Jūsu PDF datnes tagad tiek atvērtas ar { -brand-short-name }.</strong> Rediģējiet vai parakstiet veidlapas savā pārlūkā. Lai mainītu, iestatījumos meklējiet “PDF”.
+set-default-pdf-handler-primary = Sapratu
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Plānojat tikt pie jaunas ierīces?
 
 ## Device Migration FxA Spotlight
 
