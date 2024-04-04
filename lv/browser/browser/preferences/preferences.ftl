@@ -266,6 +266,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Mērogot tikai tekstu
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Brīdinājums. Ja atlasāt “Mērogot tikai tekstu” un noklusējuma tālummaiņa nav iestatīta uz 100%, dažas vietnes varētu tikt salauztas.
 language-header = Valoda
 choose-language-description = Izvēlieties vēlamo valodu, kurā attēlot lapas
 choose-button =
@@ -280,12 +282,17 @@ confirm-browser-language-change-button = Pielietot un parstartēt
 translate-web-pages =
     .label = Tulkot tīmekļa saturu
     .accesskey = T
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Tulkojumi no <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Izņēmumi…
     .accesskey = z
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Izmantojiet operētājsistēmas “{ $localeName }” iestatījumus, lai formatētu datumus, laikus, skaitļus un mērus.
 check-user-spelling =
     .label = Rakstot pārbaudīt pareizrakstību
     .accesskey = t
@@ -352,9 +359,15 @@ applications-always-ask =
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (string) - File extension (e.g .TXT)
+#   $type (string) - The MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Izmantot { $plugin-name } (ar { -brand-short-name })
+applications-open-inapp =
+    .label = Atvērt ar { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -505,6 +518,8 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-learn-more = Kā tas darbojas
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorētie stāsti
+home-prefs-recommended-by-option-recent-saves =
+    .label = Rādīt nesen saglabāto
 home-prefs-highlights-option-visited-pages =
     .label = Apmeklētās lapas
 home-prefs-highlights-options-bookmarks =
@@ -513,12 +528,16 @@ home-prefs-highlights-option-most-recent-download =
     .label = Nesenās lejupielādes
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name } saglabātās lapas
+home-prefs-recent-activity-header =
+    .label = Nesenās aktivitātes
+home-prefs-recent-activity-description = Neseno vietņu un satura izlase
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Fragmenti
+home-prefs-snippets-description-new = Padomi un jaunumi no { -vendor-short-name } un { -brand-product-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -537,8 +556,18 @@ search-bar-hidden =
 search-bar-shown =
     .label = Pievienot meklēšanas joslu rīkjoslai
 search-engine-default-header = Noklusējuma meklētājs
+search-engine-default-desc-2 = Šī ir jūsu noklusējuma meklētājprogramma adreses joslā un meklēšanas joslā. Varat to mainīt jebkurā laikā.
+search-engine-default-private-desc-2 = Izvēlēties citu noklusējuma meklētājprogrammu tikai privātajiem logiem
+search-separate-default-engine =
+    .label = Izmantot šo meklētājprogrammu privātajos logos
+    .accesskey = u
+search-suggestions-header = Meklēšanas ieteikumi
+search-suggestions-desc = Izvēlieties, kā tiek rādīti ieteikumi no meklētājprogrammām.
 search-suggestions-option =
     .label = Piedāvāt meklēšanas ieteikumus
+    .accesskey = s
+search-show-suggestions-option =
+    .label = Rādīt meklēšanas ieteikumus
     .accesskey = s
 search-show-suggestions-url-bar-option =
     .label = Rādīt meklēšanas ieteikumus adrešu joslā
