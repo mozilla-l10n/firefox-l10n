@@ -126,8 +126,22 @@ is-not-default = { -brand-short-name } šobrīd nav jūsu noklusējuma pārlūks
 set-as-my-default-browser =
     .label = Padarīt par noklusējuma…
     .accesskey = n
+startup-restore-windows-and-tabs =
+    .label = Atvērt iepriekšējos logus un cilnes
+    .accesskey = s
+windows-launch-on-login =
+    .label = Kad dators tiek startēts, automātiski atvērt { -brand-short-name }
+    .accesskey = K
+windows-launch-on-login-disabled = Šī preference operētājsistēmā Windows ir izslēgta. Lai veiktu izmaiņas, sistēmas iestatījumos atveriet <a data-l10n-name="startup-link">Startēšanas lietotnes</a>.
+startup-restore-warn-on-quit =
+    .label = Brīdināt jūs, kad aizverat pārlūku
 disable-extension =
     .label = Izslēgt paplašinājumu
+preferences-data-migration-header = Importēt pārlūka datus
+preferences-data-migration-description = Importēt grāmatzīmes, paroles, vēsturi un automātiskās aizpildes datus uz { -brand-short-name }.
+preferences-data-migration-button =
+    .label = Importēt datus
+    .accesskey = m
 tabs-group-header = Cilnes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab slēdzas starp cilnēm to izmantošanas secībā
@@ -138,9 +152,20 @@ open-new-link-as-tabs =
 confirm-on-close-multiple-tabs =
     .label = Apstipriniet, pirms aizvērt vairākas cilnes
     .accesskey = v
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Apstiprināt pirms aizvēršanas ar { $quitKey }
+    .accesskey = p
 warn-on-open-many-tabs =
     .label = Brīdināt, kad vairāku ciļņu atvēršana varētu sabremzēt { -brand-short-name }
     .accesskey = d
+switch-to-new-tabs =
+    .label = Atverot saiti, attēlu vai multividi jaunā cilnē, nekavējoties pārslēgties uz to
+    .accesskey = t
 show-tabs-in-taskbar =
     .label = Rādīt ciļņu priekšskatījumus Windows uzdevumjoslā
     .accesskey = p
@@ -183,10 +208,14 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Noņemt šo konteineru
 containers-remove-cancel-button = Nenoņemt šo konteineru
+settings-tabs-show-image-in-preview =
+    .label = Rādīt attēla priekšskatījumu, virzot kursoru uz cilnes
+    .accessKey = d
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Valoda un izskats
+preferences-web-appearance-header = Vietnes izskats
 preferences-web-appearance-choice-auto = Automātiski
 preferences-web-appearance-choice-light = Gaišs
 preferences-web-appearance-choice-dark = Tumšs
