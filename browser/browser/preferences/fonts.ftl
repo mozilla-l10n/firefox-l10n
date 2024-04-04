@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Fonti
-
 fonts-window-close =
     .key = w
 
@@ -12,13 +11,12 @@ fonts-window-close =
 
 fonts-langgroup-header = Fonti rakstībai
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Arābu
 fonts-langgroup-armenian =
     .label = Armēņu
 fonts-langgroup-bengali =
-    .label = Bruneja
+    .label = Bengali
 fonts-langgroup-simpl-chinese =
     .label = Vienkāršotā Ķīniešu
 fonts-langgroup-trad-chinese-hk =
@@ -26,7 +24,7 @@ fonts-langgroup-trad-chinese-hk =
 fonts-langgroup-trad-chinese =
     .label = Tradicionālā Ķīniešu (Taivāna)
 fonts-langgroup-cyrillic =
-    .label = Kiriliskā
+    .label = Kirilica
 fonts-langgroup-devanagari =
     .label = Devanagaru
 fonts-langgroup-ethiopic =
@@ -44,7 +42,7 @@ fonts-langgroup-japanese =
 fonts-langgroup-hebrew =
     .label = Ebreju
 fonts-langgroup-kannada =
-    .label = Kannada
+    .label = Kannadu
 fonts-langgroup-khmer =
     .label = Khmeru
 fonts-langgroup-korean =
@@ -53,19 +51,19 @@ fonts-langgroup-korean =
 fonts-langgroup-latin =
     .label = Latīņu
 fonts-langgroup-malayalam =
-    .label = Malayalamu
+    .label = Malajalu
 fonts-langgroup-math =
     .label = Matemātika
 fonts-langgroup-odia =
     .label = Oriju
 fonts-langgroup-sinhala =
-    .label = Sinhala
+    .label = Singāļu
 fonts-langgroup-tamil =
     .label = Tamilu
 fonts-langgroup-telugu =
     .label = Telugu
 fonts-langgroup-thai =
-    .label = Taizemiešu
+    .label = Taju
 fonts-langgroup-tibetan =
     .label = Tibetiešu
 fonts-langgroup-canadian =
@@ -77,45 +75,30 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionāls
     .accesskey = P
-
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
-
 fonts-proportional-size = Izmērs
     .accesskey = z
-
 fonts-serif = Serif
     .accesskey = S
-
 fonts-sans-serif = Sans-serif
     .accesskey = n
-
-fonts-monospace = Fiksēta platuma
-    .accesskey = F
-
+fonts-monospace = Vienplatuma
+    .accesskey = m
 fonts-monospace-size = Izmērs
     .accesskey = r
-
 fonts-minsize = Minimālais fonta izmērs
     .accesskey = o
-
 fonts-minsize-none =
     .label = Nekāds
-
 fonts-allow-own =
-    .label = Ļaut lapām izvēlēties pašām savus fontus manis izvēlēto fontu vietā
-    .accesskey = A
-
-## Text Encodings
-##
-## Translate the encoding names as adjectives for an encoding, not as the name
-## of the language.
-
+    .label = Ļaut lapām izvēlēties savus fontus, nevis jūsu iepriekš atlasītos fontus
+    .accesskey = f
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = Noklusētais ({ $name })
+    .label = Noklusējuma ({ $name })
 fonts-label-default-unnamed =
-    .label = Noklusētā
+    .label = Noklusējums
