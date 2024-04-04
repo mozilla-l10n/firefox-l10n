@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = { -brand-short-name } құлаулар хабарлаушысы
+crashreporter-apology = Кешірім сұраймыз
 crashreporter-crashed-and-restore = { -brand-short-name } қиындыққа тап болып, құлады. Ол қайта іске қосылған кезде біз ашық беттер мен терезелерді қалпына келтіріп көреміз.
 crashreporter-plea = Мәселені шешуге көмектесу үшін, сіз бізге хабар жібере аласыз.
 crashreporter-information = Бұл бағдарлама қателік ақпаратын { -vendor-short-name } адресіне жіберу үшін құлаудан кейін орындалады. Сондықтан оны жеке орындаудың қажеті жоқ.
