@@ -2,10 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-branded-title = { -brand-short-name }in kaatumisen raportointi
+crashreporter-branded-title = { -brand-short-name }in kaatumisraportointi
 crashreporter-apology = Pahoittelumme
 crashreporter-crashed-and-restore = { -brand-short-name } kohtasi ongelman ja se kaatui. Yritämme palauttaa välilehdet ja ikkunat, kun se käynnistyy uudelleen.
 crashreporter-plea = Lähettämällä kaatumisilmoituksen autat meitä tunnistamaan ja korjaamaan ongelman.
+crashreporter-information = Tämä ohjelma suoritetaan kaatumisen jälkeen, ja se ilmoittaa kaatumiseen johtaneesta ongelmasta { -vendor-short-name }lle. Tätä ohjelmaa ei pidä käynnistää erikseen.
 crashreporter-error = { -brand-short-name } kohtasi ongelman ja se kaatui. Valitettavasti kaatumisraportointi ei voi lähettää raporttia tästä kaatumisesta.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Lisätietoja: { $details }
@@ -41,4 +42,7 @@ crashreporter-error-loading-file = Tiedoston ({ $path }) lataaminen epäonnistui
 # $path (String) - the path
 crashreporter-error-creating-dir = Hakemiston  ({ $path }) luominen epäonnistui
 crashreporter-error-no-home-dir = Kotihakemisto puuttuu
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Kohdetta { $from } ei voitu siirtää sijaintiin { $to }
 crashreporter-error-version-eol = Version käyttöikä loppu: virheraportteja ei enää hyväksytä.
