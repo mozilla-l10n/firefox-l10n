@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Sūtīt lapām “Do Not Track” signālu, lai norādītu, ka nevēlaties, lai jūs izseko
+do-not-track-description = Sūtīt lapām “Neizsekot” signālu, lai norādītu, ka nevēlaties, lai jūs izseko
 do-not-track-learn-more = Uzzināt vairāk
 do-not-track-option-always =
     .label = Vienmēr
-pane-general-title = Galvenie
+pane-general-title = Vispārīgi
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Sākums
@@ -18,8 +18,11 @@ category-search =
 pane-privacy-title = Privātums un drošība
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-experimental-reset =
+    .label = Atjaunot noklusējumus
+    .accesskey = n
 help-button-label = { -brand-short-name } atbalsts
-addons-button-label = Paplašinājumi un tēmas
+addons-button-label = Paplašinājumi un motīvi
 focus-search =
     .key = f
 close-button =
@@ -60,15 +63,15 @@ search-results-help-link = Vajadzīga palīdzība? Apmeklējiet <a data-l10n-nam
 
 startup-header = Palaišana
 always-check-default =
-    .label = Vienmēr pārbaudīt vai { -brand-short-name } ir noklusētais pārlūks
+    .label = Vienmēr pārbaudīt vai { -brand-short-name } ir noklusējuma pārlūks
     .accesskey = t
-is-default = { -brand-short-name } šobrīd ir jūsu noklusētais pārlūks
-is-not-default = { -brand-short-name } šobrīd nav jūsu noklusētais pārlūks
+is-default = { -brand-short-name } šobrīd ir jūsu noklusējuma pārlūks
+is-not-default = { -brand-short-name } šobrīd nav jūsu noklusējuma pārlūks
 set-as-my-default-browser =
-    .label = Padarīt par noklusēto…
-    .accesskey = D
+    .label = Padarīt par noklusējuma…
+    .accesskey = n
 disable-extension =
-    .label = Deaktivēt paplašinājumu
+    .label = Izslēgt paplašinājumu
 tabs-group-header = Cilnes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab slēdzas starp cilnēm to izmantošanas secībā
@@ -76,12 +79,15 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Vērt saites cilnēs nevis jaunos logos
     .accesskey = v
+confirm-on-close-multiple-tabs =
+    .label = Apstipriniet, pirms aizvērt vairākas cilnes
+    .accesskey = v
 warn-on-open-many-tabs =
     .label = Brīdināt, kad vairāku ciļņu atvēršana varētu sabremzēt { -brand-short-name }
     .accesskey = d
 show-tabs-in-taskbar =
-    .label = Rādīt cilņu bildītes Windows palodzē
-    .accesskey = R
+    .label = Rādīt ciļņu priekšskatījumus Windows uzdevumjoslā
+    .accesskey = p
 browser-containers-enabled =
     .label = Aktivēt saturošās cilnes
     .accesskey = u
@@ -112,7 +118,7 @@ containers-disable-alert-ok-button =
 containers-disable-alert-cancel-button = Paturēt aktivētu
 containers-remove-alert-title = Noņemt šo konteineru?
 # Variables:
-#   $count (Number) - Number of tabs that will be closed.
+#   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
         [zero] Ja noņemsiet šo konteineru { $count } konteineru cilnes tiks aizvērtas. Vai tiešām noņemt šo konteineru?
@@ -207,11 +213,11 @@ applications-manage-app =
 applications-always-ask =
     .label = Vienmēr jautāt
 # Variables:
-#   $type-description (String) - Description of the type (e.g "Portable Document Format")
-#   $type (String) - the MIME type (e.g application/binary)
+#   $type-description (string) - Description of the type (e.g "Portable Document Format")
+#   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+#   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Izmantot { $plugin-name } (ar { -brand-short-name })
 
@@ -241,6 +247,8 @@ play-drm-content =
 play-drm-content-learn-more = Uzzināt vairāk
 update-application-title = { -brand-short-name } atjauninājumi
 update-application-description = Vienmēr atjauniniet { -brand-short-name }, lai iegūtu labāko drošību, stabilitāti un ātrdarbību.
+# Variables:
+# $version (string) - Firefox version
 update-application-version = Versija { $version } <a data-l10n-name="learn-more">Kas jauns</a>
 update-history =
     .label = Parādīt atjauninājumu vēsturi…
@@ -275,7 +283,7 @@ performance-limit-content-process-option = Satura procesu limits
 performance-limit-content-process-enabled-desc = Papildu satura procesi var palielināt veiktspēju izmantojot vairākas cilnes, bet prasīs arī papildu atmiņu.
 performance-limit-content-process-blocked-desc = Modificēt satura procesu skaitu ir iespējama tikai ar vairāku procesu { -brand-short-name }. <a data-l10n-name="learn-more">Kā pārbaudīt, vai pieejams vairāku procesu režīms</a>
 # Variables:
-#   $num - default value of the `dom.ipc.processCount` pref.
+#   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
     .label = { $num } (noklusētais)
 
@@ -374,6 +382,8 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Fragmenti
+# Variables:
+#   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -420,7 +430,7 @@ search-find-more-link = Pievienot meklētājus
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Šāds atslēgas vārds jau eksistē
 # Variables:
-#   $name (String) - Name of a search engine.
+#   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Jūs izvēlējāties atslēgas vārdu, ko šobrīd jau izmanto "{ $name }". Lūdzu, izvēlieties citu.
 search-keyword-warning-bookmark = Jūs izvēlējāties atslēgas vārdu, ko jau izmanto kāda grāmatzīme. Lūdzu, izvēlieties citu.
 
@@ -614,8 +624,8 @@ history-clear-button =
 sitedata-header = Sīkdatnes un lapu dati
 sitedata-total-size-calculating = Aprēķina izmantotās vietas apjomu…
 # Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Jūsu saglabātās sīkdatnes un kešatmiņa šobrīd aizņem { $value } { $unit } vietas.
 sitedata-learn-more = Uzzināt vairāk
 sitedata-delete-on-close =
