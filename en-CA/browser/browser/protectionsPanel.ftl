@@ -29,6 +29,14 @@ protections-panel-etp-off-header = Enhanced Tracking Protection is OFF for this 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-toggle-on =
+    .label = Enhanced Tracking Protection
+    .description = On for this site
+    .aria-label = Enhanced Tracking Protection: On for { $host }
+protections-panel-etp-toggle-off =
+    .label = Enhanced Tracking Protection
+    .description = Off for this site
+    .aria-label = Enhanced Tracking Protection: Off for { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Site not working?
 # The heading/title of the sub-panel view
@@ -115,6 +123,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Cookie Banner Reduction
+protections-panel-cookie-banner-blocker-header = Cookie Banner Blocker
 protections-panel-cookie-banner-handling-enabled = On for this site
 protections-panel-cookie-banner-handling-disabled = Off for this site
 protections-panel-cookie-banner-handling-undetected = Site currently not supported
@@ -124,17 +133,27 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Turn off Cookie Banner Reduction for { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Turn on Cookie Banner Reduction for this site?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Cookie Banner Blocker
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Turn off Cookie Banner Blocker for { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Turn on Cookie Banner Blocker for this site?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } will clear this site’s cookies and refresh the page. Clearing all cookies may sign you out or empty shopping carts.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } tries to automatically reject all cookie requests on supported sites.
 protections-panel-cookie-banner-view-cancel = Cancel
 protections-panel-cookie-banner-view-turn-off = Turn Off
 protections-panel-cookie-banner-view-turn-on = Turn On
+protections-panel-cookie-banner-blocker-view-turn-on-description = Turn on and { -brand-short-name } will try to automatically refuse cookie banners on this site.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Cancel
 protections-panel-cookie-banner-view-turn-off-label =
     .label = Turn Off
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Turn On
+protections-panel-report-broken-site =
+    .label = Report broken site
+    .title = Report broken site
 
 ## Protections panel info message
 

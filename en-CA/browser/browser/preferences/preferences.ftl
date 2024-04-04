@@ -623,6 +623,9 @@ search-suggestions-desc = Choose how suggestions from search engines appear.
 search-suggestions-option =
     .label = Provide search suggestions
     .accesskey = s
+search-show-suggestions-option =
+    .label = Show search suggestions
+    .accesskey = S
 search-show-suggestions-url-bar-option =
     .label = Show search suggestions in address bar results
     .accesskey = l
@@ -707,6 +710,10 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Change profile picture
     .alt = Change profile picture
+sync-profile-picture-account-problem =
+    .alt = Account profile picture
+fxa-login-rejected-warning =
+    .alt = Warning
 sync-sign-out =
     .label = Sign Out…
     .accesskey = g
@@ -724,6 +731,9 @@ sync-signedin-login-failure = Please sign in to reconnect { $email }
 sync-resend-verification =
     .label = Resend Verification
     .accesskey = d
+sync-verify-account =
+    .label = Verify Account
+    .accesskey = V
 sync-remove-account =
     .label = Remove Account
     .accesskey = R
@@ -756,8 +766,10 @@ sync-currently-syncing-bookmarks = Bookmarks
 sync-currently-syncing-history = History
 sync-currently-syncing-tabs = Open tabs
 sync-currently-syncing-logins-passwords = Logins and passwords
+sync-currently-syncing-passwords = Passwords
 sync-currently-syncing-addresses = Addresses
 sync-currently-syncing-creditcards = Credit cards
+sync-currently-syncing-payment-methods = Payment methods
 sync-currently-syncing-addons = Add-ons
 sync-currently-syncing-settings = Settings
 sync-change-options =
@@ -788,6 +800,10 @@ sync-engine-logins-passwords =
     .label = Logins and passwords
     .tooltiptext = Usernames and passwords you’ve saved
     .accesskey = L
+sync-engine-passwords =
+    .label = Passwords
+    .tooltiptext = Passwords you’ve saved
+    .accesskey = P
 sync-engine-addresses =
     .label = Addresses
     .tooltiptext = Postal addresses you’ve saved (desktop only)
@@ -796,6 +812,10 @@ sync-engine-creditcards =
     .label = Credit cards
     .tooltiptext = Names, numbers and expiry dates (desktop only)
     .accesskey = C
+sync-engine-payment-methods2 =
+    .label = Payment methods
+    .tooltiptext = Names, card numbers, and expiry dates
+    .accesskey = n
 sync-engine-addons =
     .label = Add-ons
     .tooltiptext = Extensions and themes for Firefox desktop
@@ -845,18 +865,32 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Passwords
+    .searchkeywords = logins
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Ask to save passwords
+    .accesskey = A
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
 forms-generate-passwords =
     .label = Suggest and generate strong passwords
     .accesskey = u
+forms-suggest-passwords =
+    .label = Suggest strong passwords
+    .accesskey = S
 forms-breach-alerts =
     .label = Show alerts about passwords for breached websites
     .accesskey = b
 forms-breach-alerts-learn-more-link = Learn more
 preferences-relay-integration-checkbox =
     .label = Suggest { -relay-brand-name } email masks to protect your email address
+preferences-relay-integration-checkbox2 =
+    .label = Suggest { -relay-brand-name } email masks to protect your email address
+    .accesskey = r
 relay-integration-learn-more-link = Learn more
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -865,6 +899,13 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Saved Logins…
     .accesskey = L
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Fill usernames and passwords automatically
+    .accesskey = F
+forms-saved-passwords =
+    .label = Saved passwords
+    .accesskey = d
 forms-primary-pw-use =
     .label = Use a Primary Password
     .accesskey = U
@@ -888,6 +929,7 @@ forms-windows-sso =
     .label = Allow Windows single sign-on for Microsoft, work, and school accounts
 forms-windows-sso-learn-more-link = Learn more
 forms-windows-sso-desc = Manage accounts in your device settings
+windows-passkey-settings-label = Manage passkeys in system settings
 
 ## OS Authentication dialog
 
@@ -902,6 +944,25 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Autofill
+autofill-addresses-checkbox = Save and fill addresses
+    .accesskey = a
+autofill-saved-addresses-button = Saved addresses
+    .accesskey = S
+autofill-payment-methods-checkbox-message = Save and fill payment methods
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Includes credit and debit cards
+    .accesskey = I
+autofill-saved-payment-methods-button = Saved payment methods
+    .accesskey = v
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Require macOS authentication to fill and edit payment methods.
+        [windows] Require Windows authentication to fill and edit payment methods.
+        [linux] Require Linux authentication to fill and edit payment methods.
+       *[other] Require authentication to fill and edit payment methods.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
@@ -957,6 +1018,7 @@ sitedata-delete-on-close =
     .label = Delete cookies and site data when { -brand-short-name } is closed
     .accesskey = c
 sitedata-delete-on-close-private-browsing = In permanent private browsing mode, cookies and site data will always be cleared when { -brand-short-name } is closed.
+sitedata-delete-on-close-private-browsing2 = Based on your history settings, { -brand-short-name } deletes cookies and site data from your session when you close the browser.
 sitedata-allow-cookies-option =
     .label = Accept cookies and site data
     .accesskey = A
@@ -996,9 +1058,13 @@ cookie-banner-handling-description = { -brand-short-name } automatically tries t
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Cookie Banner Blocker
+cookie-banner-blocker-description = When a site asks if they can use cookies in private browsing mode, { -brand-short-name } automatically refuses for you. Only on supported sites.
 cookie-banner-learn-more = Learn More
 forms-handle-cookie-banners =
     .label = Reduce Cookie Banners
+cookie-banner-blocker-checkbox-label =
+    .label = Automatically refuse cookie banners
 
 ## Privacy Section - Address Bar
 
@@ -1030,6 +1096,9 @@ addressbar-locbar-quickactions-option =
     .label = Quick actions
     .accesskey = Q
 addressbar-suggestions-settings = Change preferences for search engine suggestions
+addressbar-locbar-showrecentsearches-option =
+    .label = Show recent searches
+    .accesskey = r
 addressbar-quickactions-learn-more = Learn more
 
 ## Privacy Section - Content Blocking
@@ -1251,6 +1320,9 @@ certs-view =
 certs-devices =
     .label = Security Devices…
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = Allow { -brand-short-name } to automatically trust third-party root certificates you install
+    .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = Open Settings
     .accesskey = O
@@ -1273,6 +1345,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS over HTTPS
 preferences-doh-description = Domain Name System (DNS) over HTTPS sends your request for a domain name through an encrypted connection, creating a secure DNS and making it harder for others to see which website you’re about to access.
+preferences-doh-description2 = Domain Name System (DNS) over HTTPS sends your request for a domain name through an encrypted connection, providing a secure DNS and making it harder for others to see which website you’re about to access.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Status: { $status }
@@ -1289,6 +1362,7 @@ preferences-doh-status-disabled = Off
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Not active ({ $reason })
 preferences-doh-group-message = Enable secure DNS using:
+preferences-doh-group-message2 = Enable DNS over HTTPS using:
 preferences-doh-expand-section =
     .tooltiptext = More information
 preferences-doh-setting-default =

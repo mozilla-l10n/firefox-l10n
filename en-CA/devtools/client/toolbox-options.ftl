@@ -43,6 +43,11 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Use simpler highlighters with prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
     .title = Enables simplified highlighters when prefers-reduced-motion is enabled. Draws lines instead of filled rectangles around highlighted elements to avoid flashing effects.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Focus next input on <kbd>Enter</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = When enabled, hitting the Enter key when editing a selector, a property name or value will move the focus to the next input.
 
 ## "Default Color Unit" options for the Inspector
 
@@ -53,6 +58,11 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Colour Names
+
+## Web Console section
+
+# The heading
+options-webconsole-label = Web Console
 
 ## Style Editor section
 

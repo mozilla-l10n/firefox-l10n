@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Show More Tabs
     .tooltiptext = Show more tabs from this device
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Show one inactive tab
+           *[other] Show { $count } inactive tabs
+        }
+    .tooltiptext = Show the inactive tabs on this device
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = No open tabs
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -94,6 +104,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Sync now
 appmenuitem-fxa-sign-in = Sign in to { -brand-product-name }
 appmenuitem-fxa-manage-account = Manage account
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+appmenu-account-header = Account
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -165,6 +176,11 @@ profiler-popup-capture-shortcut =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Recommended preset for most web app debugging, with low overhead.
@@ -254,3 +270,15 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Browser tools
 appmenu-developer-tools-extensions =
     .label = Extensions for developers
+appmenuitem-report-broken-site =
+    .label = Report broken site
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Sign in to your account
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Get data breach alerts
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Mask your real email and phone
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Protect your online activity

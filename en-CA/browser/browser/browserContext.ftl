@@ -80,6 +80,9 @@ toolbar-button-fxaccount =
 
 ## Account toolbar Button
 
+toolbar-button-account =
+    .label = Account
+    .tooltiptext = Account
 
 ## Save Page
 

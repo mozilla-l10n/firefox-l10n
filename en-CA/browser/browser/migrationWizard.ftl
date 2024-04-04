@@ -52,6 +52,9 @@ migration-imported-edge-reading-list = Reading List (From Edge)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name } does not have access to other browsers’ profiles installed on this device.
+migration-no-permissions-instructions = To continue importing data from another browser, grant { -brand-short-name } access to its profile folder.
+migration-no-permissions-instructions-step1 = Select “Continue”
 
 ## These strings will be displayed based on how many resources are selected to import
 
