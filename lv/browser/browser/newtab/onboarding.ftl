@@ -337,3 +337,13 @@ onboarding-new-user-survey-subtitle = Jūsu atsauksmes palīdz padarīt { -brand
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Nākamais
 onboarding-new-user-survey-legal-link-label = Atlasot “{ onboarding-new-user-survey-next-button-label }”, jūs piekrītat { -brand-product-name } <a data-l10n-name="privacy_notice">privātuma paziņojumam</a>
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Esmu jauniņais
+onboarding-new-user-survey-time-based-option-2 = Mazāk par 1 mēnesi
+onboarding-new-user-survey-time-based-option-3 = Vairāk nekā 1 mēnesi, regulāri
+onboarding-new-user-survey-time-based-option-4 = Vairāk nekā 1 mēnesi, reizēm
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Esmu jauniņais
+onboarding-new-user-survey-familiarity-based-option-2 = Esmu to izmantojis
+onboarding-new-user-survey-familiarity-based-option-3 = Esmu ar to ļoti pazīstams
+onboarding-new-user-survey-familiarity-based-option-4 = Esmu to izmantojis, bet tas bija sen
