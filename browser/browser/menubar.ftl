@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -139,6 +145,8 @@ menu-view-history-button =
     .label = History
 menu-view-synced-tabs-sidebar =
     .label = Synced Tabs
+menu-view-megalist-sidebar =
+    .label = Passwords
 menu-view-full-zoom =
     .label = Zoom
     .accesskey = Z
@@ -341,3 +349,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = This Isn’t a Deceptive Site…
     .accesskey = D
+menu-report-broken-site =
+    .label = Report Broken Site

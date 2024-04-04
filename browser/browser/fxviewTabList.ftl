@@ -80,3 +80,5 @@ fxviewtabrow-unmute-tab-button =
 
 fxviewtabrow-mute-tab-button-no-context =
     .title = Mute tab
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Unmute tab
