@@ -18,9 +18,17 @@ mr1-onboarding-get-started-primary-button-label = Ar ko sākt
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Lieliski, jums ir { -brand-short-name }
+# <img data-l10n-name="icon"/> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-title = Tagad sagādāsim jums <img data-l10n-name="icon"/> <b>{ $addon-name }</b>.
+return-to-amo-add-extension-label = Pievienot paplašinājumu
+return-to-amo-add-theme-label = Pievienot motīvu
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Sasveicinieties ar { -brand-short-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
