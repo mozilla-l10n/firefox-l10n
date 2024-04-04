@@ -162,7 +162,7 @@ choose-language-description = Izvēlieties vēlamo valodu, kurā attēlot lapas
 choose-button =
     .label = Izvēlēties...
     .accesskey = v
-choose-browser-language-description = Izvēlieties kādā valodā { -brand-short-name } rādīt izvēlnes un paziņojumus.
+choose-browser-language-description = Izvēlieties, kurā valodā { -brand-short-name } rādīt izvēlnes un paziņojumus.
 manage-browser-languages-button =
     .label = Iestatīt alternatīvas...
     .accesskey = l
@@ -223,7 +223,14 @@ applications-use-app =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = Izmantot { $app-name } (noklusētais)
+    .label = Izmantot { $app-name } (noklusējuma)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Lietot macOS noklusējuma lietotni
+            [windows] Lietot Windows noklusējuma lietotni
+           *[other] Lietot sistēmas noklusējuma lietotni
+        }
 applications-use-other =
     .label = Izmantot citu...
 applications-select-helper = Izvēlieties palīdzības programmu
@@ -304,7 +311,7 @@ performance-limit-content-process-blocked-desc = Modificēt satura procesu skait
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
-    .label = { $num } (noklusētais)
+    .label = { $num } (noklusējuma)
 
 ## General Section - Browsing
 
@@ -316,8 +323,8 @@ browsing-use-smooth-scrolling =
     .label = Lietot plūdeno ritināšanu
     .accesskey = l
 browsing-use-onscreen-keyboard =
-    .label = Parādīt pieskārienu klaviatūru, kad nepieciešams
-    .accesskey = k
+    .label = Rādīt skārientastatūru, kad nepieciešams
+    .accesskey = c
 browsing-use-cursor-navigation =
     .label = Vienmēr izmantot kursora taustiņus, lai pārvietotos pa lapām
     .accesskey = k
@@ -348,8 +355,10 @@ home-new-windows-tabs-description2 = Izvēlieties, ko rādīt atverot jaunu lapu
 home-homepage-mode-label = Sākumlapa un jauni logi
 home-newtabs-mode-label = Jaunas cilnes
 home-restore-defaults =
-    .label = Atjaunot sākotnējos
-    .accesskey = t
+    .label = Atjaunot noklusējumus
+    .accesskey = n
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (noklusējuma)
 home-mode-choice-custom =
     .label = Pielāgotas adreses...
 home-mode-choice-blank =
@@ -384,7 +393,7 @@ home-prefs-recommended-by-header =
 
 ##
 
-home-prefs-recommended-by-learn-more = Kā tas strādā
+home-prefs-recommended-by-learn-more = Kā tas darbojas
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Sponsorētie stāsti
 home-prefs-highlights-option-visited-pages =
@@ -418,7 +427,7 @@ search-bar-hidden =
     .label = Izmantot adrešu joslu meklēšanai un adresēm
 search-bar-shown =
     .label = Pievienot meklēšanas joslu rīkjoslai
-search-engine-default-header = Noklusētais meklētājs
+search-engine-default-header = Noklusējuma meklētājs
 search-suggestions-option =
     .label = Piedāvāt meklēšanas ieteikumus
     .accesskey = s
@@ -435,19 +444,22 @@ search-show-suggestions-above-history-option =
 search-suggestions-cant-show = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
 search-one-click-desc = Izvēlieties papildu meklētāju, kas parādīsies adrešu joslā un meklēšanas joslā, kad sāksiet rakstīt.
 search-choose-engine-column =
-    .label = Meklētāji
+    .label = Meklētājs
 search-choose-keyword-column =
     .label = Atslēgas vārds
 search-restore-default =
-    .label = Atjaunot sākotnējos meklētājus
-    .accesskey = t
+    .label = Atjaunot noklusējuma meklētājus
+    .accesskey = n
 search-remove-engine =
-    .label = Aizvākt
+    .label = Izņemt
     .accesskey = z
+search-add-engine =
+    .label = Pievienot
+    .accesskey = v
 search-find-more-link = Pievienot meklētājus
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = Šāds atslēgas vārds jau eksistē
+search-keyword-warning-title = Šāds atslēgas vārds jau tiek izmantots
 # Variables:
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Jūs izvēlējāties atslēgas vārdu, ko šobrīd jau izmanto "{ $name }". Lūdzu, izvēlieties citu.
@@ -459,6 +471,8 @@ containers-header = Saturošās cilnes
 containers-add-button =
     .label = Pievienot jaunu konteineru
     .accesskey = A
+containers-settings-button =
+    .label = Iestatījumi
 containers-remove-button =
     .label = Noņemt
 
@@ -483,6 +497,9 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Mainīt profila attēlu
     .alt = Mainīt profila attēlu
+sync-sign-out =
+    .label = Izrakstīties…
+    .accesskey = z
 sync-manage-account = Pārvaldīt kontu
     .accesskey = a
 
@@ -501,8 +518,8 @@ sync-remove-account =
     .label = Noņemt kontu
     .accesskey = N
 sync-sign-in =
-    .label = Pieslēgties
-    .accesskey = p
+    .label = Ierakstīties
+    .accesskey = I
 
 ## Sync section - enabling or disabling sync.
 
@@ -640,12 +657,12 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Sīkdatnes un lapu dati
-sitedata-total-size-calculating = Aprēķina izmantotās vietas apjomu…
+sitedata-header = Sīkdatnes un vietnes dati
+sitedata-total-size-calculating = Aprēķina vietnes datu un kešatmiņas lielumu…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Jūsu saglabātās sīkdatnes un kešatmiņa šobrīd aizņem { $value } { $unit } vietas.
+sitedata-total-size = Jūsu saglabātās sīkdatnes un kešatmiņa šobrīd aizņem { $value } { $unit } no diska vietas.
 sitedata-learn-more = Uzzināt vairāk
 sitedata-delete-on-close =
     .label = Dzēst sīkfailus un vietnes datus, kad { -brand-short-name } ir aizvērts
