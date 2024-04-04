@@ -216,10 +216,34 @@ settings-tabs-show-image-in-preview =
 
 language-and-appearance-header = Valoda un izskats
 preferences-web-appearance-header = Vietnes izskats
+preferences-web-appearance-description = Dažas vietnes pielāgo savu krāsu shēmu atbilstoši jūsu preferencēm. Izvēlieties, kuru krāsu shēmu vēlaties izmantot šīm vietnēm.
 preferences-web-appearance-choice-auto = Automātiski
 preferences-web-appearance-choice-light = Gaišs
 preferences-web-appearance-choice-dark = Tumšs
+preferences-web-appearance-choice-tooltip-auto =
+    .title = Automātiski mainiet vietņu fonu un saturu, pamatojoties uz jūsu sistēmas iestatījumiem un { -brand-short-name } motīvu.
+preferences-web-appearance-choice-tooltip-light =
+    .title = Izmantot gaišu izskatu vietņu fonam un saturam.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = Izmantot tumšu izskatu vietņu fonam un saturam.
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = Jūsu izvēlētās krāsas ir svarīgākas par vietnes izskatu. <a data-l10n-name="colors-link">Pārvaldīt krāsas</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning2 =
+    .message = Jūsu izvēlētās krāsas ir svarīgākas par vietnes izskatu.
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = Pārvaldiet { -brand-short-name } motīvus sadaļā <a data-l10n-name="themes-link">Paplašinājumi un motīvi</a>
 preferences-colors-header = Krāsas
+preferences-colors-description = Ignorēt { -brand-short-name } noklusējuma krāsas tekstam, vietņu foniem un saitēm.
 preferences-colors-manage-button =
     .label = Pārvaldīt krāsas…
     .accesskey = k
