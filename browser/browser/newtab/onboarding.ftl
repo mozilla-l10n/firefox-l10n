@@ -252,29 +252,75 @@ mr2022-onboarding-colorway-description-innovator = <b>Jūs esat novators.</b> J�
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Brīvi pārslēdzieties starp klēpjdatoru un tālruni
+mr2022-onboarding-mobile-download-subtitle = Paņemiet cilnes no vienas ierīces un turpiniet darbu citā. Turklāt sinhronizējiet savas grāmatzīmes un paroles jebkurā vietā, kur izmantojat { -brand-product-name }.
+mr2022-onboarding-mobile-download-cta-text = Skenējiet QR kodu, lai iegūtu { -brand-product-name } mobilajām ierīcēm, vai <a data-l10n-name="download-label">nosūtiet sev lejupielādes saiti.</a>
+mr2022-onboarding-no-mobile-download-cta-text = Skenējiet QR kodu, lai iegūtu { -brand-product-name } mobilajām ierīcēm.
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
+mr2022-upgrade-onboarding-pin-private-window-header = Iegūstiet privātas pārlūkošanas brīvību ar vienu klikšķi
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Netiek saglabātas sīkdatnes vai vēsture. Pārlūkojiet tā, it kā neviens neskatītos.
+mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
+    { PLATFORM() ->
+        [macos] Paturēt { -brand-short-name } privāto pārlūkošanu dokā
+       *[other] Piespraust { -brand-short-name } privāto pārlūkošanu uzdevumjoslai
+    }
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Mēs vienmēr cienām jūsu privātumu
+mr2022-onboarding-privacy-segmentation-subtitle = No viediem ieteikumiem līdz gudrākai meklēšanai mēs pastāvīgi strādājam, lai izveidotu labāku, personiskāku { -brand-product-name }.
+mr2022-onboarding-privacy-segmentation-text-cta = Ko jūs vēlaties redzēt, kad mēs piedāvājam jaunas funkcijas, kas izmanto jūsu datus, lai uzlabotu jūsu pārlūkošanu?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Izmantot { -brand-product-name } ieteikumus
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Rādīt detalizētu informāciju
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Jūs palīdzat mums izveidot labāku tīmekli
+mr2022-onboarding-gratitude-subtitle = Paldies, ka izmantojat { -brand-short-name }, ko atbalsta Mozilla Foundation. Ar jūsu atbalstu mēs strādājam, lai padarītu internetu atvērtāku, pieejamāku un labāku ikvienam.
+mr2022-onboarding-gratitude-primary-button-label = Uzziniet, kas jauns
+mr2022-onboarding-gratitude-secondary-button-label = Sākt pārlūkošanu
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Jūtieties kā mājās
+onboarding-infrequent-import-subtitle = Neatkarīgi no tā, vai iekārtojaties vai vienkārši iegriežaties, atcerieties, ka varat importēt savas grāmatzīmes, paroles un daudz ko citu.
+onboarding-infrequent-import-primary-button = Importēt uz { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Persona, kas strādā pie klēpjdatora, kuru ieskauj zvaigznes un ziedi
+mr2022-onboarding-default-image-alt =
+    .aria-label = Persona, kas apskauj { -brand-product-name } logo
+mr2022-onboarding-import-image-alt =
+    .aria-label = Persona, kas brauc ar skrituļdēli ar programmatūras ikonu kastīti
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Vardes lēkā pa liliju lapām ar QR kodu centrā, lai lejupielādētu { -brand-product-name } mobilajam tālrunim
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Burvju nūjiņa liek { -brand-product-name } privātās pārlūkošanas logotipam parādīties no cepures
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Gaišas un tumšas ādas rokas dod pieci
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Skats uz saulrietu pa logu ar lapsu un istabas augu uz palodzes
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Roka ar aerosolu krāso krāsainu kolāžu ar zaļu aci, oranžu apavu, sarkanu basketbolu, purpursarkanām austiņām, zilu sirdi un dzeltenu vainagu.
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Lapsa māj uz klēpjdatora ekrāna. Klēpjdatoram ir pievienota pele.
+onboarding-device-migration-title = Prieks jūs atkal redzēt!
+onboarding-device-migration-subtitle = Ierakstieties savā kontā { -fxaccount-brand-name }, lai jaunajā ierīcē izmantotu grāmatzīmes, paroles un vēsturi.
+onboarding-device-migration-subtitle2 = Ierakstieties savā kontā, lai jaunajā ierīcē ņemtu līdzi grāmatzīmes, paroles un vēsturi.
+onboarding-device-migration-primary-button-label = Ierakstīties
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Mums patīk rūpēties par jūsu drošību
 
 ## New user time and familiarity survey strings
 
