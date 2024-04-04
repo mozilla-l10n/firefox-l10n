@@ -84,3 +84,4 @@ about-reader-custom-colors-visited-links = Enlaces visitados
     .title = Editar color
 about-reader-custom-colors-selection-highlight = Resaltador para leer en voz alta
     .title = Editar color
+about-reader-custom-colors-reset-button = Restablecer predeterminados
