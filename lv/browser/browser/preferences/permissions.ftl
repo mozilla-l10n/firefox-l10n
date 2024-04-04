@@ -5,59 +5,66 @@
 permissions-window2 =
     .title = Izņēmumi
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Mājas lapas adrese
     .accesskey = d
-
 permissions-block =
     .label = Bloķēt
     .accesskey = B
-
+permissions-disable-etp =
+    .label = Pievienot izņēmumu
+    .accesskey = e
 permissions-session =
     .label = Atļaut tikai šīs sesijas laikā
     .accesskey = s
-
 permissions-allow =
     .label = Atļaut
     .accesskey = A
-
+permissions-button-off =
+    .label = Izslēgt
+    .accesskey = z
+permissions-button-off-temporarily =
+    .label = Izslēgt uz laiku
+    .accesskey = I
 permissions-site-name =
     .label = Mājas lapa
-
 permissions-status =
     .label = Statuss
-
 permissions-remove =
     .label = Aizvākt lapu
     .accesskey = Z
-
 permissions-remove-all =
     .label = Aizvākt visas lapas
     .accesskey = k
-
 permission-dialog =
     .buttonlabelaccept = Saglabāt izmaiņas
     .buttonaccesskeyaccept = S
-
+permissions-autoplay-menu = Noklusējums visām vietnēm:
 permissions-searchbox =
     .placeholder = Meklēt lapas
-
+permissions-capabilities-autoplay-allow =
+    .label = Atļaut audio un video
+permissions-capabilities-autoplay-block =
+    .label = Bloķēt audio
+permissions-capabilities-autoplay-blockall =
+    .label = Bloķēt audio un video
 permissions-capabilities-allow =
     .label = Atļaut
 permissions-capabilities-block =
     .label = Bloķēt
 permissions-capabilities-prompt =
     .label = Vienmēr jautāt
-
 permissions-capabilities-listitem-allow =
     .value = Atļaut
 permissions-capabilities-listitem-block =
     .value = Bloķēt
 permissions-capabilities-listitem-allow-session =
     .value = Atļaut uz šo sesiju
+permissions-capabilities-listitem-off =
+    .value = Izslēgts
+permissions-capabilities-listitem-off-temporarily =
+    .value = Uz laiku izslēgts
 
 ## Invalid Hostname Dialog
 
@@ -66,6 +73,10 @@ permissions-invalid-uri-label = Lūdzu, ievadiet derīgu resursdatora nosaukumu
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-window2 =
+    .title = Izņēmumi uzlabotai izsekošanas aizsardzībai
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-etp-desc = Varat norādīt, kurām vietnēm ir izslēgta uzlabotā izsekošanas aizsardzība. Ierakstiet precīzu tās vietnes adresi, kuru vēlaties pārvaldīt, un pēc tam spiediet uz “Pievienot izņēmumu”.
 
 ## Exceptions - Cookies
 
@@ -76,6 +87,9 @@ permissions-exceptions-cookie-desc = Jūs varat norādīt, kurām lapām ir un k
 
 ## Exceptions - HTTPS-Only Mode
 
+permissions-exceptions-https-only-window2 =
+    .title = Izņēmumi — tikai HTTPS režīms
+    .style = { permissions-window2.style }
 
 ## Exceptions - Pop-ups
 
@@ -90,6 +104,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Izņēmumi - Saglabātās paroles
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Šo vietņu paroles netiks saglabātas
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
