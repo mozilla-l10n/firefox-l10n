@@ -43,6 +43,18 @@ contentanalysis-block-message = 您的組織所使用的資料外洩防護軟體
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = 與資料外洩防護軟體溝通時發生錯誤。對下列資源的傳輸遭拒：{ $content }。
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = 與 { $agent } 溝通時發生錯誤。拒絕傳輸下列資源：{ $content }。
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = 無法連線至 { $agent }。拒絕傳輸下列資源：{ $content }。
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = { $agent } 的簽章驗證失敗。拒絕傳輸下列資源：{ $content }。
 contentanalysis-inprogress-quit-title = 要離開 { -brand-shorter-name } 嗎？
 contentanalysis-inprogress-quit-message = 有幾項操作正在進行中，若您現在離開 { -brand-shorter-name }，將不會完成這些操作。
 contentanalysis-inprogress-quit-yesbutton = 對，離開
