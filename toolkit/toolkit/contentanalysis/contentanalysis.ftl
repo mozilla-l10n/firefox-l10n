@@ -43,6 +43,18 @@ contentanalysis-block-message = 사용자의 조직에서는 { $content } 콘텐
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = 데이터 손실 방지 소프트웨어와 통신하는 동안 오류가 발생했습니다. { $content } 리소스에 대한 전송이 거부되었습니다.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = { $agent }와(과) 통신하는 중 오류가 발생했습니다.  { $content } 리소스에 대한 전송이 거부되었습니다.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = { $agent }에 연결할 수 없습니다. { $content } 리소스에 대한 전송이 거부되었습니다.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = { $agent }에 대한 서명 확인에 실패했습니다. { $content } 리소스에 대한 전송이 거부되었습니다.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name }를 종료하시겠습니까?
 contentanalysis-inprogress-quit-message = 여러 작업이 진행 중입니다. { -brand-shorter-name }를 종료하면 이러한 작업이 완료되지 않습니다.
 contentanalysis-inprogress-quit-yesbutton = 예, 종료
