@@ -82,4 +82,6 @@ about-reader-custom-colors-unvisited-links = קישורים שלא ביקרת ב
     .title = עריכת צבע
 about-reader-custom-colors-visited-links = קישורים שביקרת בהם
     .title = עריכת צבע
+about-reader-custom-colors-selection-highlight = מדגיש להקראה בקול
+    .title = עריכת צבע
 about-reader-custom-colors-reset-button = איפוס לברירות המחדל
