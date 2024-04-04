@@ -140,6 +140,10 @@ places-untag-bookmark =
 places-manage-bookmarks =
     .label = Pārvaldīt grāmatzīmes
     .accesskey = m
+places-forget-about-this-site-confirmation-title = Šīs vietnes aizmiršana
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Veicot šo darbību, tiks izņemti ar { $hostOrBaseDomain } saistītie dati, tostarp vēsture, sīkdatnes, kešatmiņa un satura preferences. Saistītās grāmatzīmes un paroles netiks noņemtas. Vai tiešām vēlaties turpināt?
 places-forget-about-this-site-forget = Aizmirst
 places-library3 =
     .title = Bibliotēka
