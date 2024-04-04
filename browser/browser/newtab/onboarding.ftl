@@ -209,12 +209,24 @@ mr2022-onboarding-get-started-primary-button-label = Iestatiet dažās sekundēs
 
 mr2022-onboarding-import-header = Zibens ātra iestatīšana
 mr2022-onboarding-import-subtitle = Iestatiet { -brand-short-name }, kā jums patīk. Pievienojiet savas grāmatzīmes, paroles un citu saturu no vecā pārlūka.
+mr2022-onboarding-import-primary-button-label-no-attribution = Importēt no iepriekšējā pārlūka
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+mr2022-onboarding-colorway-title = Izvēlieties krāsu, kas jūs iedvesmo
+mr2022-onboarding-colorway-subtitle = Neatkarīgas balsis var mainīt kultūru.
+mr2022-onboarding-colorway-primary-button-label-continue = Iestatīt un turpināt
+mr2022-onboarding-existing-colorway-checkbox-label = Padariet { -firefox-home-brand-name } par savu krāsaino sākumlapu
+mr2022-onboarding-colorway-label-default = Noklusējuma
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = Pašreizējās { -brand-short-name } krāsas
+mr2022-onboarding-colorway-description-default = <b>Izmantot manas pašreizējās { -brand-short-name } krāsas.</b>
+mr2022-onboarding-colorway-label-playmaker = Saspēles vadītājs
+mr2022-onboarding-colorway-tooltip-playmaker2 =
+    .title = Saspēles vadītājs (sarkans)
 
 ## MR2022 Multistage Mobile Download screen strings
 
