@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Captured log files can be found
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Auto Refresh
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Auto Refresh By Default
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Refresh
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,11 @@ about-webrtc-save-page-label = Save Page
 about-webrtc-debug-mode-msg-label = Debug Mode
 about-webrtc-debug-mode-off-state-label = Start Debug Mode
 about-webrtc-debug-mode-on-state-label = Stop Debug Mode
-about-webrtc-enable-logging-label = Enable WebRTC Log Preset
 about-webrtc-stats-heading = Session Statistics
+about-webrtc-enable-logging-label = Enable WebRTC Log Preset
+about-webrtc-peerconnections-section-heading = RTCPeerConnection Statistics
+about-webrtc-peerconnections-section-show-msg = Show RTCPeerConnection Statistics
+about-webrtc-peerconnections-section-hide-msg = Hide RTCPeerConnection Statistics
 about-webrtc-stats-clear = Clear History
 about-webrtc-log-heading = Connection Log
 about-webrtc-log-clear = Clear Log
@@ -194,6 +195,17 @@ about-webrtc-configuration-element-provided = Provided
 about-webrtc-configuration-element-not-provided = Not Provided
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = User Set WebRTC Preferences
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = User Modified WebRTC Configuration
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = Show User Modified Configuration
+about-webrtc-user-modified-configuration-hide-msg = Hide User Modified Configuration
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Estimated Bandwidth
 # The ID of the MediaStreamTrack
@@ -300,9 +312,6 @@ about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "fa
 
 about-webrtc-show-msg-sdp = Show SDP
 about-webrtc-hide-msg-sdp = Hide SDP
-
-##
-
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs

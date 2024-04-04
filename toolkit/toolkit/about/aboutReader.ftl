@@ -18,6 +18,14 @@ about-reader-color-theme-dark = Dark
     .title = Colour Theme Dark
 about-reader-color-theme-sepia = Sepia
     .title = Colour Theme Sepia
+about-reader-color-theme-auto = Auto
+    .title = Colour Theme Auto
+about-reader-color-theme-gray = Grey
+    .title = Colour Theme Grey
+about-reader-color-theme-contrast = Contrast
+    .title = Colour Theme Contrast
+about-reader-color-theme-custom = Custom colours
+    .title = Colour Theme Custom
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -53,10 +61,12 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Close Reader View
 about-reader-toolbar-type-controls = Type controls
+about-reader-toolbar-color-controls = Colours
 about-reader-toolbar-savetopocket = Save To { -pocket-brand-name }
 
 ## Reader View colors menu
 
+about-reader-colors-menu-header = Theme
 
 ## These are used as labels for the custom theme color pickers.
 ## The .title element is used to make the editing functionality
