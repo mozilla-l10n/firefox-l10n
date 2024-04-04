@@ -195,6 +195,40 @@ shopping-callout-closed-not-opted-in-revised-button = Got it
 shopping-callout-not-opted-in-reminder-title = Shop with confidence
 shopping-callout-not-opted-in-reminder-subtitle = Not sure if a product’s reviews are real or fake? Review Checker from { -brand-product-name } can help.
 shopping-callout-not-opted-in-reminder-open-button = Open Review Checker
+shopping-callout-not-opted-in-reminder-close-button = Dismiss
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Don’t show again
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstract illustration of three product reviews. One has a warning symbol indicating it may not be trustworthy.
+shopping-callout-disabled-auto-open-title = Review Checker is now closed by default
+shopping-callout-disabled-auto-open-subtitle = Click the price tag icon in the address bar whenever you want to see if you can trust a product’s reviews.
+shopping-callout-disabled-auto-open-button = Got it
+shopping-callout-opted-out-title = Review Checker is off
+shopping-callout-opted-out-subtitle = To turn it back on, click the price tag icon in the address bar and follow the prompts.
+shopping-callout-opted-out-button = Got it
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Try our trusted guide to product reviews
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = See how reliable product reviews are on <b>{ $currentSite }</b> before you buy. Review Checker, an experimental feature from { -brand-product-name }, is built right into the browser. It works on <b>{ $secondSite }</b> and <b>{ $thirdSite }</b>, too.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = See how reliable product reviews are on <b>{ $currentSite }</b> before you buy. Review Checker, an experimental feature from { -brand-product-name }, is built right into the browser.
+shopping-onboarding-body = Using the power of { -fakespot-brand-full-name }, we help you avoid biased and inauthentic reviews. Our AI model is always improving to protect you as you shop. <a data-l10n-name="learn_more">Learn more</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = By selecting “{ shopping-onboarding-opt-in-button }“ you agree to { -brand-product-name }’s <a data-l10n-name="privacy_policy">privacy policy</a> and { -fakespot-brand-name }’s <a data-l10n-name="terms_of_use">terms of use.</a>
+shopping-onboarding-opt-in-button = Yes, try it
+shopping-onboarding-not-now-button = Not now
+shopping-onboarding-dialog-close-button =
+    .title = Close
+    .aria-label = Close
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progress: step { $current } of { $total }

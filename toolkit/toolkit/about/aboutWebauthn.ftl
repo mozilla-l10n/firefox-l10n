@@ -5,18 +5,58 @@
 
 ### Localization for about:webauthn, a security token management page
 
+# Page title
+# 'WebAuthn' is a protocol name and should not be translated
+about-webauthn-page-title = About WebAuthn
 
 ## Section titles
 
+about-webauthn-info-section-title = Device info
+about-webauthn-info-subsection-title = Authenticator info
+about-webauthn-options-subsection-title = Authenticator options
+about-webauthn-pin-section-title = PIN Management
+about-webauthn-credential-management-section-title = Manage credentials
+about-webauthn-pin-required-section-title = PIN required
+about-webauthn-confirm-deletion-section-title = Confirm deletion
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biometric enrolments
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Please connect a security token.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Please select your desired security token by touching the device.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Unable to manage options because your security token does not support CTAP2.
+about-webauthn-text-not-available = Not available on this platform.
+about-webauthn-bio-enrollment-list-subsection-title = Enrolments:
+about-webauthn-add-bio-enrollment-section-title = Add new enrolment
 
 ## Results label
 
+about-webauthn-results-success = Success!
+about-webauthn-results-general-error = Error!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Error: Incorrect PIN. Try again.
+        [one] Error: Incorrect PIN. Try again. You have one attempt left.
+       *[other] Error: Incorrect PIN. Try again. You have { $retriesLeft } attempts left.
+    }
+about-webauthn-results-pin-blocked-error = Error: There are no attempts left and your device has been locked, because the wrong PIN was provided too many times. The device needs a reset.
+about-webauthn-results-pin-not-set-error = Error: PIN not set. This operation needs PIN protection.
+about-webauthn-results-pin-too-short-error = Error: The given PIN is too short.
+about-webauthn-results-pin-too-long-error = Error: The given PIN is too long.
+about-webauthn-results-pin-auth-blocked-error = Error: There were too many failed attempts in a row and PIN authentication has been temporarily blocked. Your device needs a power cycle (unplug and re-insert).
+about-webauthn-results-cancelled-by-user-error = Error: Operation has been cancelled by the user.
 
 ## Labels
 
+about-webauthn-new-pin-label = New PIN:
+about-webauthn-repeat-pin-label = Repeat new PIN:
+about-webauthn-current-pin-label = Current PIN:
+about-webauthn-pin-required-label = Please enter your PIN:
 about-webauthn-credential-list-subsection-title = Credentials:
 about-webauthn-enrollment-name-label = Enrolment name (optional):
 about-webauthn-enrollment-list-empty = No enrolments found on device.
@@ -87,6 +127,7 @@ about-webauthn-auth-info-force-pin-change = Force PIN change
 about-webauthn-auth-info-max-ser-large-blob-array = Max size of large blob array
 about-webauthn-auth-info-algorithms = Algorithms
 about-webauthn-auth-info-transports = Transports
+about-webauthn-auth-info-max-credential-id-length = Max credential ID length
 about-webauthn-auth-info-max-credential-count-in-list = Max credential count in list
 about-webauthn-auth-info-pin-protocols = PIN protocols
 about-webauthn-auth-info-max-msg-size = Max message size
