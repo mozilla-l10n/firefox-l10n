@@ -620,6 +620,9 @@ containers-header = Saturošās cilnes
 containers-add-button =
     .label = Pievienot jaunu konteineru
     .accesskey = A
+containers-new-tab-check =
+    .label = Katrai jaunai cilnei atlasiet konteineru
+    .accesskey = s
 containers-settings-button =
     .label = Iestatījumi
 containers-remove-button =
@@ -629,6 +632,10 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Paņem tīmekli sev līdz
+sync-signedout-description2 = Sinhronizējiet savas grāmatzīmes, vēsturi, cilnes, paroles, papildinājumus un iestatījumus visās savās ierīcēs.
+sync-signedout-account-signin3 =
+    .label = Ierakstieties, lai sinhronizētu…
+    .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -646,6 +653,10 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Mainīt profila attēlu
     .alt = Mainīt profila attēlu
+sync-profile-picture-account-problem =
+    .alt = Konta profila attēls
+fxa-login-rejected-warning =
+    .alt = Brīdinājums
 sync-sign-out =
     .label = Izrakstīties…
     .accesskey = z
@@ -663,6 +674,9 @@ sync-signedin-login-failure = Lūdzu pieslēdzieties, lai atjaunotu savienojumu 
 sync-resend-verification =
     .label = Nosūtīt vēlreiz
     .accesskey = N
+sync-verify-account =
+    .label = Pārbaudīt kontu
+    .accesskey = P
 sync-remove-account =
     .label = Noņemt kontu
     .accesskey = N
@@ -672,12 +686,49 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sinhronizācija: ieslēgta
+prefs-syncing-off = Sinhronizācija: izslēgta
+prefs-sync-turn-on-syncing =
+    .label = Ieslēgt sinhronizāciju…
+    .accesskey = s
+prefs-sync-offer-setup-label2 = Sinhronizējiet savas grāmatzīmes, vēsturi, cilnes, paroles, papildinājumus un iestatījumus visās savās ierīcēs.
+prefs-sync-now =
+    .labelnotsyncing = Sinhronizēt tagad
+    .accesskeynotsyncing = n
+    .labelsyncing = Sinhronizē…
+prefs-sync-now-button =
+    .label = Sinhronizēt tagad
+    .accesskey = n
+prefs-syncing-button =
+    .label = Sinhronizē...
 
 ## The list of things currently syncing.
 
+sync-syncing-across-devices-heading = Jūs sinhronizējat šos vienumus visās savienotajās ierīcēs:
+sync-currently-syncing-bookmarks = Grāmatzīmes
+sync-currently-syncing-history = Vēsturi
+sync-currently-syncing-tabs = Atvērtās cilnes
+sync-currently-syncing-logins-passwords = Lietotājvārdus un paroles
+sync-currently-syncing-passwords = Paroles
+sync-currently-syncing-addresses = Adreses
+sync-currently-syncing-creditcards = Kredītkartes
+sync-currently-syncing-payment-methods = Maksājumu metodes
+sync-currently-syncing-addons = Papildinājumus
+sync-currently-syncing-settings = Iestatījumus
+sync-change-options =
+    .label = Mainīt…
+    .accesskey = M
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog3 =
+    .title = Izvēlieties, ko sinhronizēt
+    .style = min-width: 36em;
+    .buttonlabelaccept = Saglabāt izmaiņas
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Atvienot…
+    .buttonaccesskeyextra2 = A
+sync-choose-dialog-subtitle = Izmaiņas sinhronizējamo vienumu sarakstā atspoguļosies visās jūsu savienotajās ierīcēs.
 sync-engine-bookmarks =
     .label = Grāmatzīmes
     .accesskey = m
@@ -688,6 +739,14 @@ sync-engine-tabs =
     .label = Atvērtās cilnes
     .tooltiptext = Saraksts ar atvērtajām lietām sinhronizētajās ierīcēs
     .accesskey = C
+sync-engine-logins-passwords =
+    .label = Lietotājvārdus un paroles
+    .tooltiptext = Lietotājvārdus un paroles, ko saglabājāt
+    .accesskey = L
+sync-engine-passwords =
+    .label = Paroles
+    .tooltiptext = Paroles, ko saglabājāt
+    .accesskey = P
 sync-engine-addresses =
     .label = Adreses
     .tooltiptext = Saglabātās pasta adreses (tikai datora versijā)
@@ -696,10 +755,18 @@ sync-engine-creditcards =
     .label = Kredītkartes
     .tooltiptext = Vārdi, numuri un derīguma termiņi (tikai datora versijā)
     .accesskey = K
+sync-engine-payment-methods2 =
+    .label = Maksājumu metodes
+    .tooltiptext = Vārdi, karšu numuri un darīguma termiņi
+    .accesskey = M
 sync-engine-addons =
     .label = Papildinājumus
     .tooltiptext = Firefox datoru versijas paplašinājumi un tēmas
     .accesskey = a
+sync-engine-settings =
+    .label = Iestatījumus
+    .tooltiptext = Vispārīgie, privātuma un drošības iestatījumi, ko saglabājāt
+    .accesskey = s
 
 ## The device name controls.
 
@@ -713,6 +780,7 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Saglabāt
     .accesskey = r
+sync-connect-another-device = Savienot citu ierīci
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -740,6 +808,14 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Paroles
+    .searchkeywords = lietotājvārdi
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Prasīt, lai saglabātu paroles
+    .accesskey = a
 forms-exceptions =
     .label = Izņēmumi...
     .accesskey = z
