@@ -188,6 +188,24 @@ media-codec-support-codec-name = Codec Name
 media-codec-support-supported = Supported
 media-codec-support-unsupported = Unsupported
 media-codec-support-error = Codec support information unavailable. Try again after playing back a media file.
+media-codec-support-lack-of-extension = Install extension
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Content Decryption Modules Information
+media-key-system-name = Key System Name
+media-video-robustness = Video Robustness
+media-audio-robustness = Audio Robustness
+media-cdm-capabilities = Capabilities
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Clear Lead
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = HDCP 2.2 Compatible
 
 ##
 
@@ -267,6 +285,7 @@ try-newer-driver = Blocked for your graphics driver version. Try updating your g
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType Parameters
 compositing = Compositing
+support-font-determination = Font Visibility Debug Info
 hardware-h264 = Hardware H264 Decoding
 main-thread-no-omtc = main thread, no OMTC
 yes = Yes
@@ -412,3 +431,15 @@ pointing-device-mouse = Mouse
 pointing-device-touchscreen = Touchscreen
 pointing-device-pen-digitizer = Pen Digitizer
 pointing-device-none = No pointing devices
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Content Analysis (DLP)
+content-analysis-active = Active
+content-analysis-connected-to-agent = Connected to Agent
+content-analysis-agent-path = Agent Path
+content-analysis-agent-failed-signature-verification = Agent Failed Signature Verification
+content-analysis-request-count = Request Count

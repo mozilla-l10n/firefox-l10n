@@ -67,8 +67,21 @@ about-reader-toolbar-savetopocket = Save To { -pocket-brand-name }
 ## Reader View colors menu
 
 about-reader-colors-menu-header = Theme
+about-reader-fxtheme-tab = Default
+about-reader-customtheme-tab = Custom
 
 ## These are used as labels for the custom theme color pickers.
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-foreground = Text
+    .title = Edit colour
+about-reader-custom-colors-background = Background
+    .title = Edit colour
+about-reader-custom-colors-unvisited-links = Unvisited links
+    .title = Edit colour
+about-reader-custom-colors-visited-links = Visited links
+    .title = Edit colour
+about-reader-custom-colors-selection-highlight = Highlighter for read aloud
+    .title = Edit colour
+about-reader-custom-colors-reset-button = Reset defaults

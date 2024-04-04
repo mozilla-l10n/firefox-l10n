@@ -570,6 +570,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recommended by { $provider }
 home-prefs-recommended-by-description-new = Exceptional content curated by { $provider }, part of the { -brand-product-name } family
+home-prefs-recommended-by-header-generic =
+    .label = Recommended stories
+home-prefs-recommended-by-description-generic = Exceptional content curated by the { -brand-product-name } family
 
 ##
 

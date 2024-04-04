@@ -55,6 +55,12 @@ migration-imported-edge-reading-list = Reading List (From Edge)
 migration-no-permissions-message = { -brand-short-name } does not have access to other browsers’ profiles installed on this device.
 migration-no-permissions-instructions = To continue importing data from another browser, grant { -brand-short-name } access to its profile folder.
 migration-no-permissions-instructions-step1 = Select “Continue”
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = In the file picker, navigate to <code>{ $permissionsPath }</code> and choose “Select”
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -70,6 +76,7 @@ migration-bookmarks-option-label = Bookmarks
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favourites
 migration-logins-and-passwords-option-label = Saved logins and passwords
+migration-passwords-option-label = Saved passwords
 migration-history-option-label = Browsing history
 migration-extensions-option-label = Extensions
 migration-form-autofill-option-label = Form autofill data
