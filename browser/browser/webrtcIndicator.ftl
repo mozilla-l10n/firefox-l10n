@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = tab
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Unknown origin
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Tabs sharing devices
     .accesskey = d
-
 webrtc-sharing-window = You are sharing another application window.
 webrtc-sharing-browser-window = You are sharing { -brand-short-name }.
 webrtc-sharing-screen = You are sharing your entire screen.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Control Sharing
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Control Sharing on “{ $streamTitle }”
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Sharing Camera with “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Sharing Camera with { $tabCount } tab
            *[other] Sharing Camera with { $tabCount } tabs
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Sharing Microphone with “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Sharing Microphone with { $tabCount } tab
            *[other] Sharing Microphone with { $tabCount } tabs
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Sharing an Application with “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Sharing an Application with { $tabCount } tab
            *[other] Sharing Applications with { $tabCount } tabs
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Sharing Screen with “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Sharing Screen with { $tabCount } tab
            *[other] Sharing Screen with { $tabCount } tabs
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Sharing a Window with “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Sharing a Window with { $tabCount } tab
            *[other] Sharing Windows with { $tabCount } tabs
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Sharing a Tab with “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,6 +151,20 @@ webrtc-allow-share-camera-and-audio-capture = Allow { $origin } to use your came
 webrtc-allow-share-screen-and-microphone = Allow { $origin } to use your microphone and see your screen?
 webrtc-allow-share-screen-and-audio-capture = Allow { $origin } to listen to this tab’s audio and see your screen?
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = Allow this local file to listen to this tab’s audio?
+webrtc-allow-share-camera-with-file = Allow this local file to use your camera?
+webrtc-allow-share-microphone-with-file = Allow this local file to use your microphone?
+webrtc-allow-share-screen-with-file = Allow this local file to see your screen?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Allow this local file to use other speakers?
+webrtc-allow-share-camera-and-microphone-with-file = Allow this local file to use your camera and microphone?
+webrtc-allow-share-camera-and-audio-capture-with-file = Allow this local file to use your camera and listen to this tab’s audio?
+webrtc-allow-share-screen-and-microphone-with-file = Allow this local file to use your microphone and see your screen?
+webrtc-allow-share-screen-and-audio-capture-with-file = Allow this local file to listen to this tab’s audio and see your screen?
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,7 +185,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Allow { $origin 
 
 webrtc-share-screen-warning = Only share screens with sites you trust. Sharing can allow deceptive sites to browse as you and steal your private data.
 webrtc-share-browser-warning = Only share { -brand-short-name } with sites you trust. Sharing can allow deceptive sites to browse as you and steal your private data.
-
 webrtc-share-screen-learn-more = Learn more
 webrtc-pick-window-or-screen = Select window or screen
 webrtc-share-entire-screen = Entire screen
@@ -221,7 +220,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Remember this decision
 webrtc-mute-notifications-checkbox = Mute website notifications while sharing
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } can not allow permanent access to your screen.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } can not allow permanent access to your tab’s audio without asking which tab to share.
 webrtc-reason-for-no-permanent-allow-insecure = Your connection to this site is not secure. To protect you, { -brand-short-name } will only allow access for this session.
