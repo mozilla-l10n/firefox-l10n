@@ -65,6 +65,8 @@ options-default-color-unit-name = Színnevek
 options-webconsole-label = Webkonzol
 # The label for the checkbox that toggle whether the Split console is enabled
 options-webconsole-split-console-label = Osztott konzol engedélyezése
+options-webconsole-split-console-tooltip =
+    .title = Osztott konzol megnyitása az Escape gombbal
 
 ## Style Editor section
 
