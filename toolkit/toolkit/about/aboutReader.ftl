@@ -4,7 +4,6 @@
 
 about-reader-loading = Hleður…
 about-reader-load-error = Gat ekki hlaðið inn grein frá síðu
-
 about-reader-color-scheme-light = Ljóst
     .title = Ljóst litastef
 about-reader-color-scheme-dark = Dökkt
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Sepía
     .title = Sepía litastef
 about-reader-color-scheme-auto = Sjálfvirkt
     .title = Sjálfvirkt litastef
-
+about-reader-color-theme-light = Ljóst
+    .title = Ljóst litastef
+about-reader-color-theme-dark = Dökkt
+    .title = Dökkt litastef
+about-reader-color-theme-sepia = Sepía
+    .title = Sepía litastef
+about-reader-color-theme-auto = Sjálfvirkt
+    .title = Sjálfvirkt litastef
+about-reader-color-theme-gray = Grátt
+    .title = Grátt litastef
+about-reader-color-theme-contrast = Birtuskil
+    .title = Litastef með miklum birtuskilum
+about-reader-color-theme-custom = Sérsniðnir litir
+    .title = Sérsniðið litastef
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,4 +61,27 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Loka lesham
 about-reader-toolbar-type-controls = Stýringar fyrir tegund
+about-reader-toolbar-color-controls = Litir
 about-reader-toolbar-savetopocket = Vista í { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Þema
+about-reader-fxtheme-tab = Sjálfgefið
+about-reader-customtheme-tab = Sérsniðið
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Texti
+    .title = Breyta lit
+about-reader-custom-colors-background = Bakgrunnur
+    .title = Breyta lit
+about-reader-custom-colors-unvisited-links = Ónotaðir tenglar
+    .title = Breyta lit
+about-reader-custom-colors-visited-links = Notaðir tenglar
+    .title = Breyta lit
+about-reader-custom-colors-selection-highlight = Áherslulitun fyrir upplestur
+    .title = Breyta lit
+about-reader-custom-colors-reset-button = Endurheimta sjálfgefnar stillingar
