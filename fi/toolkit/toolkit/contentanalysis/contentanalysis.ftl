@@ -10,6 +10,7 @@ contentanalysis-slow-agent-dialog-title = Sisältöanalyysi käynnissä
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-dialog-body = Sisältöanalyysi analysoi resurssia "{ $content }"
+contentanalysis-slow-agent-dialog-header = Tarkistus käynnissä
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } tarkistaa, mitä liitit organisaatiosi datakäytäntöjen vastaisesti. Tämä voi kestää hetken.

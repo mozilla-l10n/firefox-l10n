@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = Ei nyt
 
 protocolhandler-mailto-handler-notificationbox-always = Avataanko sähköpostilinkit aina käyttämällä palvelua { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } on nyt oletussivustosi sähköpostin lähettävien linkkien avaamiseen.
+protocolhandler-mailto-handler-set-message = Haluatko käyttää <strong>palvelua { $url } { -brand-short-name }</strong>issa joka kerta kun napsautat sähköpostin avaavaa linkkiä?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } { -brand-short-name }</strong>issa on nyt tietokoneesi oletusarvoinen sähköpostin käsittelijä.
 
 ##
 
