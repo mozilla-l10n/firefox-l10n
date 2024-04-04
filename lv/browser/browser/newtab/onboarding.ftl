@@ -139,9 +139,21 @@ fx100-thank-you-pin-primary-button-label =
        *[other] Piespraust { -brand-short-name } uzdevumjoslai
     }
 fx100-upgrade-thanks-header = Simtkārt paldies
+# Message shown with a start-browsing button. Emphasis <em> should be for "you"
+# but "Thank" can be used instead if there's no "you" in the translation.
+fx100-upgrade-thank-you-body = Šis ir mūsu 100. { -brand-short-name } laidiens. Paldies <em>jums</em>, ka palīdzat mums izveidot labāku un veselīgāku internetu.
+# Message shown with either a pin-to-taskbar or set-default button.
+fx100-upgrade-thanks-keep-body = Šis ir mūsu 100. izlaidums! Paldies, ka esat daļa no mūsu kopienas. Paturiet { -brand-short-name } viena klikšķa attālumā nākamajiem 100.
+mr2022-onboarding-secondary-skip-button-label = Izlaist šo soli
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Saglabāt un turpināt
+# Set Default action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-set-default-checkbox-label = Iestatīt { -brand-short-name } kā noklusējuma pārlūku
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Importēt no iepriekšējā pārlūka
 
 ## MR2022 New User Pin Firefox screen strings
 
