@@ -280,8 +280,8 @@ install-theme-button = 테마 설치
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = 관리
-find-more-addons = 더 많은 부가 기능 찾기
-find-more-themes = 더 많은 테마 찾기
+find-more-addons = 부가 기능 더 찾기
+find-more-themes = 테마 더 찾기
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -441,7 +441,7 @@ updates-heading = 업데이트 관리
 sitepermission-heading = 사이트 권한 관리
 discover-heading = { -brand-short-name } 개인화
 shortcuts-heading = 확장 기능 단축키 관리
-default-heading-search-label = 더 많은 부가 기능 찾기
+default-heading-search-label = 부가 기능 더 찾기
 addons-heading-search-input =
     .placeholder = addons.mozilla.org 검색
 addon-page-options-button =
