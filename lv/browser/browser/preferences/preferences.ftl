@@ -572,6 +572,11 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Rādīt meklēšanas ieteikumus adrešu joslā
     .accesskey = r
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Noklusējuma meklētājprogrammas rezultātu lapā rādīt meklēšanas tekstu, nevis URL
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -579,7 +584,11 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Rādīt meklēšanas ieteikumus pirms pārlūkošanas vēstures adreses joslā
+search-show-suggestions-private-windows =
+    .label = Rādīt meklēšanas ieteikumus privātajos logos
+suggestions-addressbar-settings-generic2 = Mainīt iestatījumus citiem adreses joslas ieteikumiem
 search-suggestions-cant-show = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
+search-one-click-header2 = Meklēšanas saīsnes
 search-one-click-desc = Izvēlieties papildu meklētāju, kas parādīsies adrešu joslā un meklēšanas joslā, kad sāksiet rakstīt.
 search-choose-engine-column =
     .label = Meklētājs
@@ -605,6 +614,8 @@ search-keyword-warning-bookmark = Jūs izvēlējāties atslēgas vārdu, ko jau 
 
 ## Containers Section
 
+containers-back-button2 =
+    .aria-label = Atgriezties uz iestatījumiem
 containers-header = Saturošās cilnes
 containers-add-button =
     .label = Pievienot jaunu konteineru
