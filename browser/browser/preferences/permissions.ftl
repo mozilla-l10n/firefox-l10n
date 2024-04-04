@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Logins for the following websites will not be saved
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Exceptions - Saved Passwords
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } won’t save passwords for sites listed here.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

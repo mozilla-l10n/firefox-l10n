@@ -38,6 +38,8 @@ about-logging-preset-networking-websocket-label = WebSockets
 about-logging-preset-networking-websocket-description = Log modules to diagnose WebSocket issues
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-networking-http3-description = Log modules to diagnose HTTP/3 and QUIC issues
+about-logging-preset-networking-http3-upload-speed-label = HTTP/3 upload speed
+about-logging-preset-networking-http3-upload-speed-description = Log modules to diagnose HTTP/3 upload speed issues
 about-logging-preset-media-playback-label = Media playback
 about-logging-preset-media-playback-description = Log modules to diagnose media playback issues (not video-conferencing issues)
 about-logging-preset-webrtc-label = WebRTC
@@ -46,6 +48,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Log modules to diagnose WebGPU issues
 about-logging-preset-gfx-label = Graphics
 about-logging-preset-gfx-description = Log modules to diagnose graphics issues
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Log modules to diagnose issues specific to Microsoft Windows
 about-logging-preset-custom-label = Custom
 about-logging-preset-custom-description = Log modules manually selected
 # Error handling
