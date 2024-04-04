@@ -92,3 +92,4 @@ about-reader-custom-colors-selection-highlight = Evidenziatore per lettura ad al
     .title = Modifica colore
 
 about-reader-custom-colors-reset-button = Ripristina predefiniti
+
