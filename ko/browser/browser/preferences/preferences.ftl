@@ -647,7 +647,7 @@ search-remove-engine =
 search-add-engine =
     .label = 추가
     .accesskey = A
-search-find-more-link = 더 많은 검색 엔진 찾기
+search-find-more-link = 검색 엔진 더 찾기
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = 키워드 복사
