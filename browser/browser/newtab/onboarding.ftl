@@ -191,14 +191,24 @@ mr2022-onboarding-existing-pin-checkbox-label = Pievienojiet arī { -brand-short
 
 # This string is the title used when the user already has pinned the browser, but has not set default.
 mr2022-onboarding-set-default-title = Padariet { -brand-short-name } par savu ierasto pārlūku
+mr2022-onboarding-set-default-primary-button-label = Iestatīt { -brand-short-name } kā noklusējuma pārlūku
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-subtitle = Lietojiet pārlūku, ko atbalsta bezpeļņas organizācija. Mēs aizsargājam jūsu privātumu, kamēr jūs staigājat pa tīmekli.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
 ## when Firefox is already set to default and pinned.
 
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-get-started-primary-subtitle = Mūsu jaunākā versija ir veidota jums, padarot to vienkāršāku nekā jebkad agrāk. Tas ir aprīkots ar funkcijām, kuras, mūsuprāt, jums patiks.
+mr2022-onboarding-get-started-primary-button-label = Iestatiet dažās sekundēs
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = Zibens ātra iestatīšana
+mr2022-onboarding-import-subtitle = Iestatiet { -brand-short-name }, kā jums patīk. Pievienojiet savas grāmatzīmes, paroles un citu saturu no vecā pārlūka.
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
