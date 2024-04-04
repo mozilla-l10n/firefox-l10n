@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = { -brand-short-name } 錯誤回報員
+crashreporter-apology = 很抱歉
 crashreporter-crashed-and-restore = { -brand-short-name } 意外碰上問題而自行關閉，重新啟動時將嘗試復原方才閱覽的分頁及視窗。
 crashreporter-plea = 為了協助我們修正相關錯誤，煩請傳回錯誤關閉的資訊報表。
 crashreporter-information = 本程式是為軟體發生錯誤、自行關閉後，回傳錯誤資訊給 { -vendor-short-name } 之用，不應直接執行。
