@@ -7,27 +7,52 @@
 
 autofill-manage-addresses-title = Saglabātās adreses
 autofill-manage-addresses-list-header = Adreses
-
 autofill-manage-credit-cards-title = Saglabātās kredītkartes
 autofill-manage-credit-cards-list-header = Kredītkartes
-
+autofill-manage-payment-methods-title = Saglabātās maksājumu metodes
+autofill-manage-cards-list-header = Kartes
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Aizvākt
 autofill-manage-add-button = Pievienot…
 autofill-manage-edit-button = Rediģēt…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Saglabāt adresi?
+address-capture-save-doorhanger-description = Saglabājiet informāciju { -brand-short-name }, lai varētu ātri aizpildīt veidlapas.
+address-capture-update-doorhanger-header = Atjaunināt adresi?
+address-capture-edit-doorhanger-header = Rediģēt adresi
+address-capture-save-button =
+    .label = Saglabāt
+    .accessKey = S
+address-capture-not-now-button =
+    .label = Ne tagad
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Atcelt
+    .accessKey = C
+address-capture-update-button =
+    .label = Atjaunināt
+    .accessKey = j
+address-capture-manage-address-button =
+    .label = Adreses iestatījumi
+address-capture-learn-more-button =
+    .label = Uzzināt vairāk
+address-capture-open-menu-button =
+    .aria-label = Atvērt izvēlni
+address-capture-edit-address-button =
+    .aria-label = Rediģēt adresi
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Pievienot adresi
+autofill-add-address-title = Pievienot adresi
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediģēt adresi
-
+autofill-address-name = Nosaukums
 autofill-address-given-name = Vārds
 autofill-address-additional-name = Otrs vārds
 autofill-address-family-name = Uzvārds
 autofill-address-organization = Uzņēmums
+autofill-address-street-address = Ielas adrese
 autofill-address-street = Adrese
 
 ## address-level-3 (Sublocality) names
@@ -67,6 +92,8 @@ autofill-address-do-si = Do/Si
 autofill-address-department = Nodaļa
 # Used in AE
 autofill-address-emirate = Emirāts
+# Used in RU and UA
+autofill-address-oblast = Apgabals
 
 ## Postal code name types
 
@@ -79,19 +106,35 @@ autofill-address-eircode = Eirkode
 
 ##
 
+
+##
+
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Pievienot adresi
 autofill-address-country = Štats vai reģions
+autofill-address-country-only = Valsts
 autofill-address-tel = Telefons
 autofill-address-email = Epasts
-
 autofill-cancel-button = Atcelt
 autofill-save-button = Saglabāt
 autofill-country-warning-message = Formu automātiskās aizpilde šobrīd ir pieejama tikai dažās valstīs.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Paslēpt kredītkarti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Rediģēt kredītkarti
-
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-card-password-prompt =
+    { PLATFORM() ->
+        [macos] parādīt kredītkartes informāciju
+        [windows] { -brand-short-name } mēģina parādīt kredītkartes informāciju. Zemāk apstipriniet piekļuvi šim Windows kontam.
+       *[other] { -brand-short-name } mēģina parādīt kredītkartes informāciju.
+    }
+autofill-message-tooltip = Skatīt ziņojumu par automātisko aizpildīšanu
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Pievienot karti
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Rediģēt karti
 autofill-card-number = Kartes numurs
 autofill-card-invalid-number = Lūdzu, ievadiet derīgu kredītkartes numuru
 autofill-card-name-on-card = Kartes īpašnieks
