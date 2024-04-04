@@ -43,6 +43,18 @@ contentanalysis-block-message = Ihre Organisation verwendet Data Loss Prevention
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Bei der Kommunikation mit der Data Loss Prevention Software ist ein Fehler aufgetreten. Übertragung verweigert für Ressource: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Bei der Kommunikation mit { $agent } ist ein Fehler aufgetreten. Übertragung verweigert für Ressource: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Verbindung mit { $agent } konnte nicht hergestellt werden. Übertragung verweigert für Ressource: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Signaturüberprüfung für { $agent } fehlgeschlagen. Übertragung verweigert für Ressource: { $content }.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } beenden?
 contentanalysis-inprogress-quit-message = Es werden gerade mehrere Aktionen ausgeführt. Wenn Sie { -brand-shorter-name } beenden, werden diese Aktionen nicht abgeschlossen.
 contentanalysis-inprogress-quit-yesbutton = Ja, beenden
