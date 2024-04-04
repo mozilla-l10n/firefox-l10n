@@ -89,22 +89,22 @@ show-tabs-in-taskbar =
     .label = Rādīt ciļņu priekšskatījumus Windows uzdevumjoslā
     .accesskey = p
 browser-containers-enabled =
-    .label = Aktivēt saturošās cilnes
-    .accesskey = u
+    .label = Ieslēgt konteineru cilnes
+    .accesskey = n
 browser-containers-learn-more = Uzzināt vairāk
 browser-containers-settings =
     .label = Iestatījumi...
     .accesskey = i
-containers-disable-alert-title = Aizvērt visas konteineru cilnes?
+containers-disable-alert-title = Vai aizvērt visas konteineru cilnes?
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
 
 containers-disable-alert-desc =
     { $tabCount ->
-        [zero] Ja deaktivēsiet konteineru cilnes tagad, { $tabCount } konteineru cilnes tiks aizvērtas. Vai tiešām vēlaties deaktivēt konteineru cilnes?
-        [one] Ja deaktivēsiet konteineru cilnes tagad, { $tabCount } konteineru cilne tiks aizvērta.  Vai tiešām vēlaties deaktivēt konteineru cilnes?
-       *[other] Ja deaktivēsiet konteineru cilnes tagad, { $tabCount } konteineru cilnes tiks aizvērtas.  Vai tiešām vēlaties deaktivēt konteineru cilnes?
+        [zero] Ja izslēgsiet konteineru cilnes tagad, { $tabCount } konteineru cilnes tiks aizvērtas. Vai tiešām vēlaties izslēgt konteineru cilnes?
+        [one] Ja izslēgsiet konteineru cilnes tagad, { $tabCount } konteineru cilne tiks aizvērta.  Vai tiešām vēlaties izslēgt konteineru cilnes?
+       *[other] Ja izslēgsiet konteineru cilnes tagad, { $tabCount } konteineru cilnes tiks aizvērtas.  Vai tiešām vēlaties izslēgt konteineru cilnes?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -115,8 +115,8 @@ containers-disable-alert-ok-button =
 
 ##
 
-containers-disable-alert-cancel-button = Paturēt aktivētu
-containers-remove-alert-title = Noņemt šo konteineru?
+containers-disable-alert-cancel-button = Atstāt ieslēgtu
+containers-remove-alert-title = Vai izņemt šo konteineri?
 # Variables:
 #   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
@@ -131,15 +131,34 @@ containers-remove-cancel-button = Nenoņemt šo konteineru
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Valoda un izskats
+preferences-web-appearance-choice-auto = Automātiski
+preferences-web-appearance-choice-light = Gaišs
+preferences-web-appearance-choice-dark = Tumšs
+preferences-colors-header = Krāsas
+preferences-colors-manage-button =
+    .label = Pārvaldīt krāsas…
+    .accesskey = k
+preferences-fonts-header = Fonti
 default-font = Noklusējuma fonts
     .accesskey = N
 default-font-size = Izmērs
-    .accesskey = S
+    .accesskey = s
 advanced-fonts =
-    .label = Iestatījumi...
-    .accesskey = a
+    .label = Paplašināti…
+    .accesskey = p
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Mērogs
+preferences-default-zoom = Noklusējuma mērogs
+    .accesskey = m
+# Variables:
+#   $percentage (number) - Zoom percentage value
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Mērogot tikai tekstu
+    .accesskey = t
 language-header = Valoda
-choose-language-description = Izvēlieties vēlamo valodu, kādā attēlot lapas
+choose-language-description = Izvēlieties vēlamo valodu, kurā attēlot lapas
 choose-button =
     .label = Izvēlēties...
     .accesskey = v
