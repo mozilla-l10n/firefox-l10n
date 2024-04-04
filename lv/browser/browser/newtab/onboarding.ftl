@@ -157,12 +157,40 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Importēt no iepriekšējā
 
 ## MR2022 New User Pin Firefox screen strings
 
+# Title used on about:welcome for new users when Firefox is not pinned.
+# In this context, open up is synonymous with "Discover".
+# The metaphor is that when they open their Firefox browser, it helps them discover an amazing internet.
+# If this translation does not make sense in your language, feel free to use the word "discover."
+mr2022-onboarding-welcome-pin-header = Atveriet brīnišķīgo internetu
+# Subtitle is used on onboarding page for new users page when Firefox is not pinned
+mr2022-onboarding-welcome-pin-subtitle = Palaidiet { -brand-short-name } no jebkuras vietas ar vienu klikšķi. To darot, jūs izvēlaties atvērtāku un neatkarīgāku tīmekli.
+# Primary button string used on welcome page for when Firefox is not pinned.
+mr2022-onboarding-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Paturēt { -brand-short-name } dokā
+       *[other] Piespraust { -brand-short-name } uzdevumjoslai
+    }
+# Subtitle will be used when user already has Firefox pinned, but
+# has not set it as their default browser.
+# When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
+# and makes sense in the context of navigating the web.
+mr2022-onboarding-set-default-only-subtitle = Sāciet ar pārlūku, ko atbalsta bezpeļņas organizācija. Mēs aizsargājam jūsu privātumu, kamēr jūs staigājat pa tīmekli.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Paldies, ka mīlat { -brand-product-name }
+# Subtitle is used on onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-subtitle = Palaidiet veselīgāku internetu no jebkuras vietas ar vienu klikšķi. Mūsu jaunākajā atjauninājumā ir daudz jaunu lietu, kas, mūsuprāt, jums patiks.
+# Subtitle will be used on the welcome screen for existing users
+# when they already have Firefox pinned but not set as default
+mr2022-onboarding-existing-set-default-only-subtitle = Izmantojiet pārlūku, kas aizsargā jūsu konfidencialitāti, kamēr staigājat pa tīmekli. Mūsu jaunākajā atjauninājumā ir iekļautas lietas, kas jums patiks.
+mr2022-onboarding-existing-pin-checkbox-label = Pievienojiet arī { -brand-short-name } privāto pārlūkošanu
 
 ## MR2022 New User Set Default screen strings
 
+# This string is the title used when the user already has pinned the browser, but has not set default.
+mr2022-onboarding-set-default-title = Padariet { -brand-short-name } par savu ierasto pārlūku
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
