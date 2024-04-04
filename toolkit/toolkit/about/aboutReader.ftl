@@ -4,7 +4,6 @@
 
 about-reader-loading = בטעינה…
 about-reader-load-error = כשלון בטעינת המאמר מהדף
-
 about-reader-color-scheme-light = בהיר
     .title = ערכת צבעים בהירה
 about-reader-color-scheme-dark = כהה
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = חום כהה
     .title = ערכת צבעים חמה
 about-reader-color-scheme-auto = אוטומטי
     .title = ערכת צבעים אוטומטית
-
+about-reader-color-theme-light = בהיר
+    .title = ערכת צבעים בהירה
+about-reader-color-theme-dark = כהה
+    .title = ערכת צבעים כהה
+about-reader-color-theme-sepia = ספיה
+    .title = ערכת צבעים בסגנון חום־אדמדם
+about-reader-color-theme-auto = אוטומטי
+    .title = ערכת צבעים אוטומטית
+about-reader-color-theme-gray = אפור
+    .title = ערכת צבעים אפורה
+about-reader-color-theme-contrast = ניגודיות
+    .title = ערכת צבעים בעלת ניגודיות
+about-reader-color-theme-custom = צבעים מותאמים אישית
+    .title = ערכת צבעים מותאמת אישית
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,4 +61,25 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = סגירת תצוגת הקריאה
 about-reader-toolbar-type-controls = שליטה על המראה
+about-reader-toolbar-color-controls = צבעים
 about-reader-toolbar-savetopocket = שמירה אל { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = ערכות נושא
+about-reader-fxtheme-tab = ברירת מחדל
+about-reader-customtheme-tab = התאמה אישית
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = טקסט
+    .title = עריכת צבע
+about-reader-custom-colors-background = רקע
+    .title = עריכת צבע
+about-reader-custom-colors-unvisited-links = קישורים שלא ביקרת בהם
+    .title = עריכת צבע
+about-reader-custom-colors-visited-links = קישורים שביקרת בהם
+    .title = עריכת צבע
+about-reader-custom-colors-reset-button = איפוס לברירות המחדל

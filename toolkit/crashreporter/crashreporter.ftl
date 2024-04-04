@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = מדווח הקריסות של { -brand-short-name }
+crashreporter-apology = אנו מצטערים
 crashreporter-crashed-and-restore = ל־{ -brand-short-name } הייתה בעיה והוא קרס. אנחנו ננסה לשחזר את הלשוניות והחלונות שלך לאחר הפעלתו מחדש.
 crashreporter-plea = כדי לעזור לנו לאבחן ולתקן את הבעיה, באפשרותך לשלוח לנו דיווח קריסה.
 crashreporter-information = יישום זה מופעל לאחר קריסה כדי לדווח על הבעיה ל־{ -vendor-short-name }.  אין להריץ אותו ישירות.
