@@ -112,6 +112,7 @@ permissions-exceptions-saved-logins-desc = Šo vietņu paroles netiks saglabāta
 permissions-exceptions-saved-passwords-window =
     .title = Izņēmumi - saglabātās paroles
     .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } nesaglabās šeit norādīto vietņu paroles.
 
 ## Exceptions - Add-ons
 
@@ -122,6 +123,10 @@ permissions-exceptions-addons-desc = Jūs varat norādīt, no kurām lapām ir a
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window2 =
+    .title = Iestatījumi — automātiskā atskaņošana
+    .style = { permissions-window2.style }
+permissions-site-autoplay-desc = Šeit varat pārvaldīt vietnes, kas neievēro jūsu noklusējuma automātiskās atskaņošanas iestatījumus.
 
 ## Site Permissions - Notifications
 
@@ -145,6 +150,13 @@ permissions-site-location-disable-desc = Tas liegs jebkurām lapām, kas nav uzs
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window2 =
+    .title = Iestatījumi — virtuālās realitātes atļaujas
+    .style = { permissions-window2.style }
+permissions-site-xr-desc = Tālāk norādītās vietnes ir pieprasījušas piekļuvi jūsu virtuālās realitātes ierīcēm. Varat norādīt, kurām vietnēm ir atļauts piekļūt jūsu virtuālās realitātes ierīcēm. Varat arī bloķēt jaunus pieprasījumus, kuros tiek lūgts piekļūt jūsu virtuālās realitātes ierīcēm.
+permissions-site-xr-disable-label =
+    .label = Bloķēt jaunus pieprasījumus, kuros tiek lūgts piekļūt jūsu virtuālās realitātes ierīcēm
+permissions-site-xr-disable-desc = Tas liegs vietnēm, kas nav norādītas iepriekš, pieprasīt atļauju piekļūt jūsu virtuālās realitātes ierīcēm. Bloķējot piekļuvi virtuālās realitātes ierīcēm, var nestrādāt dažu vietņu funkcijas.
 
 ## Site Permissions - Camera
 
@@ -170,3 +182,7 @@ permissions-site-microphone-disable-desc = Tas liegs jebkurām lapām, kas nav u
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = Iestatījumi — skaļruņu atļaujas
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Šīs vietnes ir pieprasījušas atlasīt audio izvades ierīci. Varat norādīt, kurām vietnēm ir atļauts atlasīt audio izvades ierīci.
