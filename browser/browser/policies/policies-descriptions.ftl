@@ -125,6 +125,7 @@ policy-SSLVersionMax = Gosodwch y fersiwn SSL uchaf.
 policy-SSLVersionMin = Gosodwch y fersiwn SSL lleiaf.
 policy-StartDownloadsInTempDirectory = Gorfodi llwytho i lawr i gychwyn mewn lleoliad lleol, dros dro yn hytrach na'r cyfeiriadur llwytho i lawr rhagosodedig.
 policy-SupportMenu = Ychwanegu eitem ddewislen cymorth cyfaddas i'r ddewislen cymorth.
+policy-TranslateEnabled = Galluogi neu analluogi cyfieithu tudalennau gwe.
 policy-UserMessaging = Peidio â dangos rhai negeseuon i'r defnyddiwr.
 policy-UseSystemPrintDialog = Argraffu gan ddefnyddio deialog argraffu'r system.
 # “format” refers to the format used for the value of this policy.
