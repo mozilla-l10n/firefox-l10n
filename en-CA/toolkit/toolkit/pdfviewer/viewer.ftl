@@ -306,6 +306,9 @@ pdfjs-editor-highlight-button =
 pdfjs-editor-highlight-button-label = Highlight
 pdfjs-highlight-floating-button =
     .title = Highlight
+pdfjs-highlight-floating-button1 =
+    .title = Highlight
+    .aria-label = Highlight
 
 ## Remove button for the various kind of editor.
 

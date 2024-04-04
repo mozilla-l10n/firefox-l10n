@@ -87,12 +87,53 @@ about-webauthn-auth-info-force-pin-change = Force PIN change
 about-webauthn-auth-info-max-ser-large-blob-array = Max size of large blob array
 about-webauthn-auth-info-algorithms = Algorithms
 about-webauthn-auth-info-transports = Transports
+about-webauthn-auth-info-max-credential-count-in-list = Max credential count in list
+about-webauthn-auth-info-pin-protocols = PIN protocols
+about-webauthn-auth-info-max-msg-size = Max message size
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Extensions
+about-webauthn-auth-info-versions = Versions
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Not supported
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } sample still needed.
+       *[other] { $repeatCount } samples still needed.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Sample was good.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Sample was too high.
+about-webauthn-ctap2-enroll-feedback-too-low = Sample was too low.
+about-webauthn-ctap2-enroll-feedback-too-left = Sample was too left.
+about-webauthn-ctap2-enroll-feedback-too-right = Sample was too right.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Sample was too fast.
+about-webauthn-ctap2-enroll-feedback-too-slow = Sample was too slow.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Sample had poor quality.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Sample was too skewed.
+about-webauthn-ctap2-enroll-feedback-too-short = Sample was too short.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Sample merge failure.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Sample already exists.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = No activity from user.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = User did not complete the sampling as expected.
+about-webauthn-ctap2-enroll-feedback-other = Sample error.
