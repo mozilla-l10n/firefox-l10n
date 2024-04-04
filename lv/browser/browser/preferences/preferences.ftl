@@ -3,9 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Sūtīt lapām “Neizsekot” signālu, lai norādītu, ka nevēlaties, lai jūs izseko
+do-not-track-description2 =
+    .label = Nosūtīt vietnēm pieprasījumu “Neizsekot”.
+    .accesskey = N
 do-not-track-learn-more = Uzzināt vairāk
+do-not-track-option-default-content-blocking-known =
+    .label = Tikai tad, ja { -brand-short-name } ir iestatīts bloķēt zināmos izsekotājus
 do-not-track-option-always =
     .label = Vienmēr
+global-privacy-control-description =
+    .label = Pateikt vietnēm, lai tās nepārdod un nedalās ar maniem datiem
+    .accesskey = s
 pane-general-title = Vispārīgi
 category-general =
     .tooltiptext = { pane-general-title }
