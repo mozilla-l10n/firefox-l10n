@@ -321,6 +321,19 @@ onboarding-device-migration-primary-button-label = Ierakstīties
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Mums patīk rūpēties par jūsu drošību
+onboarding-easy-setup-security-and-privacy-subtitle = Mūsu bezpeļņas organizācijas atbalstītais pārlūks palīdz neļaut uzņēmumiem slepeni jūs izsekot tīmeklī.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Palieciet šifrēti, kad pārejat starp ierīcēm
+onboarding-mobile-download-security-and-privacy-subtitle = Kad esat sinhronizējis, { -brand-short-name } šifrē jūsu paroles, grāmatzīmes un daudz ko citu. Turklāt varat ņemt cilnes no citām savām ierīcēm.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } jūs atbalsta
+onboarding-gratitude-security-and-privacy-subtitle = Paldies, ka izmantojat { -brand-short-name }, ko atbalsta Mozilla Foundation. Ar jūsu atbalstu mēs strādājam, lai padarītu internetu drošāku un pieejamāku ikvienam.
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Cik ilgi jūs lietojat { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Cik labi jūs esat pazīstams ar { -brand-short-name }?
+onboarding-new-user-survey-subtitle = Jūsu atsauksmes palīdz padarīt { -brand-short-name } vēl labāku.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Nākamais
+onboarding-new-user-survey-legal-link-label = Atlasot “{ onboarding-new-user-survey-next-button-label }”, jūs piekrītat { -brand-product-name } <a data-l10n-name="privacy_notice">privātuma paziņojumam</a>
