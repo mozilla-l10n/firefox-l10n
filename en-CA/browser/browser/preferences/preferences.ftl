@@ -14,6 +14,11 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Tell websites not to sell or share my data
     .accesskey = s
+non-technical-privacy-header = Website Privacy Preferences
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Settings
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -27,6 +32,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Find in Settings
 managed-notice = Your browser is being managed by your organization.
+managed-notice-info-icon =
+    .alt = Information
 category-list =
     .aria-label = Categories
 pane-general-title = General
@@ -122,6 +129,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Open previous windows and tabs
     .accesskey = s
+windows-launch-on-login =
+    .label = Open { -brand-short-name } automatically when your computer starts up
+    .accesskey = O
+windows-launch-on-login-disabled = This preference has been disabled in Windows. To change, visit <a data-l10n-name="startup-link">Startup Apps</a> in System settings.
 startup-restore-warn-on-quit =
     .label = Warn you when quitting the browser
 disable-extension =
@@ -194,6 +205,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Remove this Container
 containers-remove-cancel-button = Don’t remove this Container
+settings-tabs-show-image-in-preview =
+    .label = Show an image preview when you hover on a tab
+    .accessKey = h
 
 ## General Section - Language & Appearance
 
@@ -249,6 +263,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Zoom text only
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Warning: If you select “Zoom text only” and your default zoom is not set to 100%, it may cause some sites or content to break.
 language-header = Language
 choose-language-description = Choose your preferred language for displaying pages
 choose-button =
@@ -461,6 +477,9 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Always show scrollbars
     .accesskey = o
+browsing-always-underline-links =
+    .label = Always underline links
+    .accesskey = u
 browsing-use-onscreen-keyboard =
     .label = Show a touch keyboard when necessary
     .accesskey = c

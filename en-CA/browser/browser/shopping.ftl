@@ -38,17 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-generic-error-title2 = No info available right now
-shopping-message-bar-generic-error-message = We’re working to resolve the issue. Please check back soon.
-shopping-message-bar-warning-not-enough-reviews-title = Not enough reviews yet
-shopping-message-bar-warning-not-enough-reviews-message2 = When this product has more reviews, we’ll be able to check their quality.
-shopping-message-bar-warning-product-not-available-title = Product is not available
-shopping-message-bar-warning-product-not-available-message2 = If you see this product is back in stock, report it and we’ll work on checking the reviews.
-shopping-message-bar-warning-product-not-available-button = Report this product is back in stock
-shopping-message-bar-thanks-for-reporting-title = Thanks for reporting!
-shopping-message-bar-thanks-for-reporting-message2 = We should have info about this product’s reviews within 24 hours. Please check back.
-shopping-message-bar-warning-product-not-available-reported-title2 = Info coming soon
-shopping-message-bar-warning-product-not-available-reported-message2 = We should have info about this product’s reviews within 24 hours. Please check back.
+shopping-message-bar-warning-stale-analysis-message-2 = New info to check
+shopping-message-bar-warning-stale-analysis-button = Check now
 shopping-message-bar-generic-error =
     .heading = No info available right now
     .message = We’re working to resolve the issue. Please check back soon.
@@ -58,6 +49,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Product is not available
     .message = If you see this product is back in stock, report it and we’ll work on checking the reviews.
+shopping-message-bar-warning-product-not-available-button2 = Report product is in stock
 shopping-message-bar-thanks-for-reporting =
     .heading = Thanks for reporting!
     .message = We should have info about this product’s reviews within 24 hours. Please check back.
@@ -66,11 +58,17 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = We should have info about this product’s reviews within 24 hours. Please check back.
 shopping-message-bar-analysis-in-progress-title2 = Checking review quality
 shopping-message-bar-analysis-in-progress-message2 = This could take about 60 seconds.
-shopping-message-bar-page-not-supported-title = We can’t check these reviews
-shopping-message-bar-page-not-supported-message = Unfortunately, we can’t check the review quality for certain types of products. For example, gift cards and streaming video, music, and games.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Checking review quality ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = We can’t check these reviews
     .message = Unfortunately, we can’t check the review quality for certain types of products. For example, gift cards and streaming video, music, and games.
+shopping-message-bar-keep-closed-header =
+    .heading = Keep closed?
+    .message = You can update your settings to keep Review Checker closed by default. Right now, it opens automatically.
+shopping-message-bar-keep-closed-dismiss-button = No thanks
+shopping-message-bar-keep-closed-accept-button = Yes, keep closed
 
 ## Strings for the product review snippets card
 
@@ -93,9 +91,22 @@ shopping-settings-label =
     .label = Settings
 shopping-settings-recommendations-toggle =
     .label = Show ads in Review Checker
-shopping-settings-recommendations-learn-more = You’ll see occasional ads for relevant products. All ads must meet our review quality standards. <a data-l10n-name="review-quality-url">Learn more</a>
+shopping-settings-recommendations-learn-more2 = You’ll see occasional ads for relevant products. We only advertise products with reliable reviews. <a data-l10n-name="review-quality-url">Learn more</a>
 shopping-settings-opt-out-button = Turn off Review Checker
 powered-by-fakespot = Review Checker is powered by <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Automatically open Review Checker
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = When you view products on { $firstSite }, { $secondSite }, and { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = When you view products on { $currentSite }
+shopping-settings-sidebar-enabled-state = Review Checker is <strong>On</strong>
 
 ## Strings for the adjusted rating component
 
@@ -117,7 +128,7 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = We use AI technology from { -fakespot-brand-full-name } to check the reliability of product reviews. This will only help you assess review quality, not product quality.
 shopping-analysis-explainer-grades-intro = We assign each product’s reviews a <strong>letter grade</strong> from A to F.
 shopping-analysis-explainer-adjusted-rating-description = The <strong>adjusted rating</strong> is based only on reviews we believe to be reliable.
-shopping-analysis-explainer-learn-more = Learn more about <a data-l10n-name="review-quality-url">how { -fakespot-brand-full-name } determines review quality</a>.
+shopping-analysis-explainer-learn-more2 = Learn more about <a data-l10n-name="review-quality-url">how { -fakespot-brand-name } determines review quality</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -128,12 +139,16 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Unreliable reviews
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Open Review Checker
+shopping-sidebar-close-button2 =
+    .tooltiptext = Close Review Checker
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = No info about these reviews yet
@@ -162,7 +177,6 @@ shopping-survey-q2-radio-3-label = I don’t know
 shopping-survey-next-button-label = Next
 shopping-survey-submit-button-label = Submit
 shopping-survey-terms-link = Terms of use
-shopping-survey-thanks-message = Thanks for your feedback!
 shopping-survey-thanks =
     .heading = Thanks for your feedback!
 
@@ -175,6 +189,12 @@ shopping-callout-pdp-opted-in-title = Are these reviews reliable? Find out fast.
 shopping-callout-pdp-opted-in-subtitle = Open Review Checker to see an adjusted rating with unreliable reviews removed. Plus, see highlights from recent authentic reviews.
 shopping-callout-closed-not-opted-in-title = One click to reliable reviews
 shopping-callout-closed-not-opted-in-subtitle = Give Review Checker a try whenever you see the price tag. Get insights from real shoppers quickly — before you buy.
+shopping-callout-closed-not-opted-in-revised-title = One click to trustworthy reviews
+shopping-callout-closed-not-opted-in-revised-subtitle = Just click the price tag icon in the address bar to get back to Review Checker.
+shopping-callout-closed-not-opted-in-revised-button = Got it
+shopping-callout-not-opted-in-reminder-title = Shop with confidence
+shopping-callout-not-opted-in-reminder-subtitle = Not sure if a product’s reviews are real or fake? Review Checker from { -brand-product-name } can help.
+shopping-callout-not-opted-in-reminder-open-button = Open Review Checker
 
 ## Onboarding message strings.
 
