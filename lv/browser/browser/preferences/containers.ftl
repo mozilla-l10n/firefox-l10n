@@ -5,10 +5,13 @@
 containers-window-new2 =
     .title = Pievienot jaunu konteineru
     .style = min-width: 45em
-
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings2 =
+    .title = { $name } konteinera iestatījumi
+    .style = min-width: 45em
 containers-window-close =
     .key = w
-
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -19,26 +22,20 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
-
 containers-name-label = Nosaukums
     .accesskey = N
     .style = { -containers-labels-style }
-
 containers-name-text =
     .placeholder = Ievadiet konteinera nosaukumu
-
 containers-icon-label = Ikona
     .accesskey = I
     .style = { -containers-labels-style }
-
 containers-color-label = Krāsa
     .accesskey = r
     .style = { -containers-labels-style }
-
 containers-dialog =
     .buttonlabelaccept = Gatavs
     .buttonaccesskeyaccept = G
-
 containers-color-blue =
     .label = Zils
 containers-color-turquoise =
@@ -55,7 +52,10 @@ containers-color-pink =
     .label = Rozā
 containers-color-purple =
     .label = Purpura
-
+containers-color-toolbar =
+    .label = Atbilstības rīkjosla
+containers-icon-fence =
+    .label = Žogs
 containers-icon-fingerprint =
     .label = Pirkstu nospiedums
 containers-icon-briefcase =
