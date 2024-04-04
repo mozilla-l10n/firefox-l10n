@@ -227,9 +227,31 @@ mr2022-onboarding-colorway-description-default = <b>Izmantot manas pašreizējā
 mr2022-onboarding-colorway-label-playmaker = Saspēles vadītājs
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Saspēles vadītājs (sarkans)
+mr2022-onboarding-colorway-description-playmaker = <b>Jūs esat saspēles vadītājs.</b> Jūs radāt iespējas uzvarēt un palīdzat visiem apkārtējiem uzlabot savu sniegumu.
+mr2022-onboarding-colorway-label-expressionist = Ekspresionists
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = Ekspresionists (dzeltens)
+mr2022-onboarding-colorway-description-expressionist = <b>Jūs esat ekspresionists.</b> Jūs redzat pasauli citādāk, un jūsu darbi citos rosina emocijas.
+mr2022-onboarding-colorway-label-visionary = Vizionārs
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = Vizionārs (zaļš)
+mr2022-onboarding-colorway-description-visionary = <b>Jūs esat vizionārs.</b> Jūs pārskatāt esošo lietu kārtību un mudina citus iedomāties labāku nākotni.
+mr2022-onboarding-colorway-label-activist = Aktīvists
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Aktīvists (zils)
+mr2022-onboarding-colorway-description-activist = <b>Jūs esat aktīvists.</b> Jūs atstājat pasauli par labāku vietu, nekā jūs to atradāt, un liekat citiem noticēt.
+mr2022-onboarding-colorway-label-dreamer = Sapņotājs
+mr2022-onboarding-colorway-tooltip-dreamer2 =
+    .title = Sapņotājs (violets)
+mr2022-onboarding-colorway-description-dreamer = <b>Jūs esat sapņotājs.</b> Jūs ticat, ka veiksme dod priekšroku drosmīgajiem un iedvesmojat citus būt drosmīgiem.
+mr2022-onboarding-colorway-label-innovator = Inovators
+mr2022-onboarding-colorway-tooltip-innovator2 =
+    .title = Inovators (oranžs)
+mr2022-onboarding-colorway-description-innovator = <b>Jūs esat novators.</b> Jūs redzat iespējas visur un atstājat ietekmi apkārtējo dzīvēs.
 
 ## MR2022 Multistage Mobile Download screen strings
 
+mr2022-onboarding-mobile-download-title = Brīvi pārslēdzieties starp klēpjdatoru un tālruni
 
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
