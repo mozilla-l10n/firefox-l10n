@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = { -brand-short-name } hrunskýrslur
+crashreporter-apology = Við biðjumst afsökunar
 crashreporter-crashed-and-restore = { -brand-short-name } átti í vandræðum og hrundi. Við reynum að endurheimta flipa og glugga þegar það endurræsir.
 crashreporter-plea = Til að hjálpa okkur að greina vandamálið, geturðu sent okkur hrun skýrslu.
 crashreporter-information = Þetta forrit er keyrt eftir hvert hrun og tilkynnir vandamálið til { -vendor-short-name }.  Þetta forrit ætti ekki að keyra beint.
