@@ -124,6 +124,7 @@ policy-SSLVersionMax = Aseta SSL:n enimmäisversio.
 policy-SSLVersionMin = Aseta SSL:n vähimmäisversio.
 policy-StartDownloadsInTempDirectory = Pakota lataukset alkamaan paikallisesta väliaikaisesta sijainnista oletusarvoisen latauskansion sijaan.
 policy-SupportMenu = Lisää Ohje-valikkoon oma valikkokohta tukea varten.
+policy-TranslateEnabled = Ota käyttöön verkkosivun käännös tai poista se käytöstä.
 policy-UserMessaging = Älä näytä tiettyjä viestejä käyttäjälle.
 policy-UseSystemPrintDialog = Tulosta käyttäen järjestelmän tulostusikkunaa.
 # “format” refers to the format used for the value of this policy.

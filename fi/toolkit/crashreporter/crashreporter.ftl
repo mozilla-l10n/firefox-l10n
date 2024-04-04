@@ -2,16 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Kaatumisen raportointi
-crashreporter-crash-message = { -brand-short-name } kohtasi odottamattoman ongelman ja kaatui.
+crashreporter-branded-title = { -brand-short-name }in kaatumisen raportointi
+crashreporter-apology = Pahoittelumme
+crashreporter-crashed-and-restore = { -brand-short-name } kohtasi ongelman ja se kaatui. Yritämme palauttaa välilehdet ja ikkunat, kun se käynnistyy uudelleen.
 crashreporter-plea = Lähettämällä kaatumisilmoituksen autat meitä tunnistamaan ja korjaamaan ongelman.
+crashreporter-error = { -brand-short-name } kohtasi ongelman ja se kaatui. Valitettavasti kaatumisraportointi ei voi lähettää raporttia tästä kaatumisesta.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Lisätietoja: { $details }
 crashreporter-no-run-message = Tämä ohjelma ilmoittaa kaatumiseen johtaneesta ohjelmavirheestä ohjelman jakelijalle. Tätä ohjelmaa ei pidä käynnistää erikseen.
 crashreporter-button-details = Lisätietoja…
+crashreporter-loading-details = Ladataan…
 crashreporter-view-report-title = Ilmoituksen sisältö
 crashreporter-comment-prompt = Lisää kommenttisi englanniksi (Kommentit ovat julkisia ja kaikkien nähtävillä)
 crashreporter-report-info = Ilmoitus sisältää myös teknisiä tietoja ohjelman tilasta sen kaatumishetkellä.
+crashreporter-send-report = Kerro kaatumisesta { -vendor-short-name }lle, jotta he voivat korjata sen.
+crashreporter-include-url = Liitä ilmoitukseen kaatumishetkellä avoimen sivun osoite.
 crashreporter-submit-status = Kaatumisilmoitus lähetetään ennen kuin lopetat tai käynnistät ohjelman uudestaan.
 crashreporter-submit-in-progress = Lähetetään ilmoitusta…
 crashreporter-submit-success = Kaatumisilmoituksen lähettäminen onnistui.
@@ -23,6 +28,17 @@ crashreporter-button-ok = OK
 crashreporter-button-close = Sulje
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Kaatumistunnus: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Kerätyt kaatumistiedot löytyvät osoitteesta { $url }.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Ei voitu suorittaa minidump-analyzeria
+# $path (String) - the file path
+crashreporter-error-opening-file = Tiedoston ({ $path }) avaaminen epäonnistui
+# $path (String) - the file path
+crashreporter-error-loading-file = Tiedoston ({ $path }) lataaminen epäonnistui
+# $path (String) - the path
+crashreporter-error-creating-dir = Hakemiston  ({ $path }) luominen epäonnistui
+crashreporter-error-no-home-dir = Kotihakemisto puuttuu
+crashreporter-error-version-eol = Version käyttöikä loppu: virheraportteja ei enää hyväksytä.
