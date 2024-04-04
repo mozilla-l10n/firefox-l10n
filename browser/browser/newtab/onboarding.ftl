@@ -133,6 +133,12 @@ fx100-thank-you-hero-text =
     Paldies
     <span data-l10n-name="zap">Jumsim</span>
 fx100-thank-you-subtitle = Šis ir mūsu 100. laidiens! Paldies, ka palīdzat mums izveidot labāku un veselīgāku internetu.
+fx100-thank-you-pin-primary-button-label =
+    { PLATFORM() ->
+        [macos] Paturēt { -brand-short-name } dokā
+       *[other] Piespraust { -brand-short-name } uzdevumjoslai
+    }
+fx100-upgrade-thanks-header = Simtkārt paldies
 
 ## MR2022 New User Easy Setup screen strings
 
