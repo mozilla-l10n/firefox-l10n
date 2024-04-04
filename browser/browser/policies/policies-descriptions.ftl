@@ -75,16 +75,29 @@ policy-Extensions = Instalē, atinstalē vai fiksē papildinājumus. Instalēša
 policy-ExtensionSettings = Pārvaldīt visus paplašinājumu instalēšanas aspektus.
 policy-ExtensionUpdate = Ieslēgt vai izslēgt automātisku paplašinājumu atjaunināšanu.
 policy-FirefoxHome2 = Konfigurēt { -firefox-home-brand-name }.
+policy-FirefoxSuggest = Konfigurēt { -firefox-suggest-brand-name }.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Piespiest skatīties iekšējā tīkla vietnēs, nevis meklēt, kad adreses joslā ieraksta vienu vārdu.
+policy-Handlers = Konfigurēt noklusējuma lietotņu apstrādātājus.
 policy-HardwareAcceleration = Ja atslēgts (false), atslēdz aparatūras paātrināšanu.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Iestata un iespējams fiksē sākuma lapu.
 policy-InstallAddonsPermission = Ļauj konkrētām lapām instalēt papildinājumus.
+policy-LegacyProfiles = Izslēgt funkciju, kas katrai instalācijai nodrošina atsevišķu profilu.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Ieslēgt mantoto noklusējuma SameSite sīkdatņu uzvedības iestatījumu.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Noteiktajās vietnēs atgriezties pie mantotās SameSite uzvedības sīkdatnēm.
 
 ##
 
+policy-LocalFileLinks = Ļaut norādītajām vietnēm izveidot saites uz vietējām datnēm.
+policy-ManagedBookmarks = Konfigurē administratora pārvaldīto grāmatzīmju sarakstu, kuras lietotājs nevar mainīt.
+policy-ManualAppUpdateOnly = Atļaut tikai manuālus atjauninājumus un nepaziņojiet lietotājam par atjauninājumiem.
+policy-PrimaryPassword = Pieprasīt vai aizliegt izmantot galveno paroli.
+policy-PrintingEnabled = Ieslēgt vai izslēgt drukāšanu.
+policy-NetworkPrediction = Ieslēgt vai izslēgt tīkla paredzēšanu (DNS priekšpiegādi).
+policy-NewTabPage = Ieslēgt vai izslēgt lapu ”jauna cilne“.
 policy-NoDefaultBookmarks = Deaktivē standarta { -brand-short-name } grāmatzīmju izveidi, piemēram Biežāk izmantotās, Jaunākie tagi. Piezīme: Šī politika būs efektīva vienīgi, ja ir aktivēta pirms pirmās pārlūka palaišanas.
 policy-OfferToSaveLogins = Iestata vērtību { -brand-short-name } paroļu saglabāšanas iespējai. Iespējamās vērtības it gan true gan false.
 policy-OverrideFirstRunPage = Pārraksta pirmās palaišanas lapu. Iestatiet šeit tukšumu, lai deaktivētu pirmās palaišanas lapu.
