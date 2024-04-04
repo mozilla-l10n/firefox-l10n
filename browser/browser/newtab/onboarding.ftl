@@ -72,9 +72,32 @@ mr1-onboarding-theme-tooltip-system =
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description = Ievērot operētājsistēmas motīvu pogām, izvēlnēm un logiem.
+# Tooltip displayed on hover of light theme
+mr1-onboarding-theme-tooltip-light =
+    .title = Izmantot gaišo motīvu pogām, izvēlnēm un logiem.
+# Input description for light theme
+mr1-onboarding-theme-description-light =
+    .aria-description = Izmantot gaišo motīvu pogām, izvēlnēm un logiem.
+# Tooltip displayed on hover of dark theme
+mr1-onboarding-theme-tooltip-dark =
+    .title = Izmantot tumšo motīvu pogām, izvēlnēm un logiem.
+# Input description for dark theme
+mr1-onboarding-theme-description-dark =
+    .aria-description = Izmantot tumšo motīvu pogām, izvēlnēm un logiem.
+# Tooltip displayed on hover of Alpenglow theme
+mr1-onboarding-theme-tooltip-alpenglow =
+    .title = Izmantot dinamisko, krāsaino motīvu pogām, izvēlnēm un logiem.
+# Input description for Alpenglow theme
+mr1-onboarding-theme-description-alpenglow =
+    .aria-description = Izmantot dinamisko, krāsaino motīvu pogām, izvēlnēm un logiem.
+# Selector description for default themes
+mr2-onboarding-default-theme-label = Izpētiet noklusējuma motīvus.
 
 ## Strings for Thank You page
 
+mr2-onboarding-thank-you-header = Paldies, ka izvēlējāties mūs
+mr2-onboarding-thank-you-text = { -brand-short-name } ir neatkarīgs pārlūks, ko atbalsta bezpeļņas organizācija. Kopā mēs padarām tīmekli drošāku, veselīgāku un privātāku.
+mr2-onboarding-start-browsing-button-label = Sākt pārlūkošanu
 
 ## Multistage live language reloading onboarding strings (about:welcome pages)
 ##
@@ -85,9 +108,31 @@ mr1-onboarding-theme-description-system =
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
+onboarding-live-language-header = Izvēlieties savu valodu
+mr2022-onboarding-live-language-text = { -brand-short-name } runā jūsu valodā
+mr2022-language-mismatch-subtitle = Pateicoties mūsu kopienai, { -brand-short-name } ir tulkots vairāk nekā 90 valodās. Izskatās, ka jūsu sistēma izmanto { $systemLanguage }, bet { -brand-short-name } izmanto { $appLanguage }.
+onboarding-live-language-button-label-downloading = Lejupielādē valodas pakotni valodai { $negotiatedLanguage }…
+onboarding-live-language-waiting-button = Iegūst pieejamās valodas…
+onboarding-live-language-installing = Instalē valodas pakotni valodai { $negotiatedLanguage }…
+mr2022-onboarding-live-language-switch-to = Pārslēgties uz { $negotiatedLanguage }
+mr2022-onboarding-live-language-continue-in = Turpināt valodā { $appLanguage }
+onboarding-live-language-secondary-cancel-download = Atcelt
+onboarding-live-language-skip-button-label = Izlaist
 
 ## Firefox 100 Thank You screens
 
+# "Hero Text" displayed on left side of welcome screen. This text can be
+# formatted to span multiple lines as needed. The <span data-l10n-name="zap">
+# </span> in this string allows a "zap" underline style to be automatically
+# added to the text inside it. "Yous" should stay inside the zap span, but
+# "Thank" can be put inside instead if there's no "you" in the translation.
+# The English text would normally be "100 Thank-Yous" i.e., plural noun, but for
+# aesthetics of splitting it across multiple lines, the hyphen is omitted.
+fx100-thank-you-hero-text =
+    100
+    Paldies
+    <span data-l10n-name="zap">Jumsim</span>
+fx100-thank-you-subtitle = Šis ir mūsu 100. laidiens! Paldies, ka palīdzat mums izveidot labāku un veselīgāku internetu.
 
 ## MR2022 New User Easy Setup screen strings
 
