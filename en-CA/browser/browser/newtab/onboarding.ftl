@@ -332,3 +332,17 @@ onboarding-device-migration-title = Welcome back!
 onboarding-device-migration-subtitle = Sign in to your { -fxaccount-brand-name(capitalization: "sentence") } to bring your bookmarks, passwords, and history with you on your new device.
 onboarding-device-migration-subtitle2 = Sign in to your account to bring your bookmarks, passwords, and history with you on your new device.
 onboarding-device-migration-primary-button-label = Sign in
+
+## The following screens have been updated to use security and privacy focused strings:
+
+
+## New user time and familiarity survey strings
+
+onboarding-new-user-survey-time-based-option-2 = Less than 1 month
+onboarding-new-user-survey-time-based-option-3 = More than 1 month, regularly
+onboarding-new-user-survey-time-based-option-4 = More than 1 month, occasionally
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = I’m brand new
+onboarding-new-user-survey-familiarity-based-option-2 = I’ve used it some
+onboarding-new-user-survey-familiarity-based-option-3 = I’m very familiar with it
+onboarding-new-user-survey-familiarity-based-option-4 = I used it in the past, but it’s been a while

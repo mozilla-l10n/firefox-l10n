@@ -12,11 +12,15 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Close
     .aria-label = Close
+firefoxview-empty-state-icon =
+    .alt = Attention:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Just now
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -49,6 +53,7 @@ firefoxview-syncedtabs-loading-header = Sync in progress
 firefoxview-syncedtabs-loading-description = When it’s done, you’ll see any tabs you have open on other devices. Check back soon.
 firefoxview-tabpickup-fxa-admin-disabled-header = Your organization has disabled sync
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } is not able to sync tabs between devices because your administrator has disabled syncing.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } is not able to sync tabs between devices because your organization has disabled syncing.
 firefoxview-tabpickup-network-offline-header = Check your internet connection
 firefoxview-tabpickup-network-offline-description = If you’re using a firewall or proxy, check that { -brand-short-name } has permission to access the web.
 firefoxview-tabpickup-network-offline-primarybutton = Try again
@@ -147,8 +152,43 @@ firefoxview-opentabs-focus-tab =
     .title = Switch to this tab
 firefoxview-show-more = Show more
 firefoxview-show-less = Show less
+firefoxview-show-all = Show all
+firefoxview-search-text-box-clear-button =
+    .title = Clear
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = Search
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Search history
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Search recently closed tabs
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Search synced tabs
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Search open tabs
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Search results for “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } site
+       *[other] { $count } sites
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = No results for “{ $query }”
 firefoxview-sort-history-by-date-label = Sort by date
 firefoxview-sort-history-by-site-label = Sort by site
+firefoxview-sort-open-tabs-by-recency-label = Sort by recent activity
+firefoxview-sort-open-tabs-by-order-label = Sort by tab order
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -207,10 +247,29 @@ firefoxview-recentlyclosed-empty-header = Closed a tab too soon?
 firefoxview-recentlyclosed-empty-description = Here you’ll find the tabs you recently closed, so you can reopen any of them quickly.
 firefoxview-recentlyclosed-empty-description-two = To find tabs from longer ago, view your <a data-l10n-name="history-url">browsing history</a>.
 
-##
-
-
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = No tabs open on this device
 firefoxview-syncedtabs-connect-another-device = Connect another device
+firefoxview-pinned-tabs =
+    .title = Pinned Tabs
+firefoxview-tabs =
+    .title = Tabs
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Switch to { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Switch to (Bookmarked) { $tabTitle }
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Bookmarked) { $url }
