@@ -43,6 +43,18 @@ contentanalysis-block-message = Uw organisatie gebruikt software voor het voorko
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Er is een fout opgetreden bij de communicatie met de software voor het voorkomen van gegevensverlies. Overdracht geweigerd voor bron: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Er is een fout opgetreden bij de communicatie met { $agent }. Overdracht geweigerd voor bron: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Kan geen verbinding maken met { $agent }. Overdracht geweigerd voor bron: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Ondertekeningsverificatie voor { $agent } mislukt. Overdracht geweigerd voor bron: { $content }.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } afsluiten?
 contentanalysis-inprogress-quit-message = Er zijn diverse acties in uitvoering. Als u { -brand-shorter-name } afsluit, worden deze acties niet voltooid.
 contentanalysis-inprogress-quit-yesbutton = Ja, afsluiten
