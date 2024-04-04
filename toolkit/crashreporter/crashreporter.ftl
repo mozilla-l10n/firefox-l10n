@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = { -brand-short-name }-crashreporter
+crashreporter-apology = Het spijt ons
 crashreporter-crashed-and-restore = { -brand-short-name } heeft een probleem ondervonden en is gecrasht. We proberen uw tabbladen en vensters te herstellen als het opnieuw wordt gestart.
 crashreporter-plea = Om ons te helpen het probleem te onderzoeken en op te lossen, kunt u ons een crashrapport toesturen.
 crashreporter-information = De crashreporter wordt na een crash uitgevoerd om het probleem aan { -vendor-short-name } te rapporteren. Deze dient niet direct te worden gestart.
