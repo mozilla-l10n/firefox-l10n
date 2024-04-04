@@ -100,12 +100,34 @@ policy-NetworkPrediction = Ieslēgt vai izslēgt tīkla paredzēšanu (DNS priek
 policy-NewTabPage = Ieslēgt vai izslēgt lapu ”jauna cilne“.
 policy-NoDefaultBookmarks = Deaktivē standarta { -brand-short-name } grāmatzīmju izveidi, piemēram Biežāk izmantotās, Jaunākie tagi. Piezīme: Šī politika būs efektīva vienīgi, ja ir aktivēta pirms pirmās pārlūka palaišanas.
 policy-OfferToSaveLogins = Iestata vērtību { -brand-short-name } paroļu saglabāšanas iespējai. Iespējamās vērtības it gan true gan false.
+policy-OfferToSaveLoginsDefault = Iestatīt noklusējuma vērtību, vai ļaut { -brand-short-name } piedāvāt atcerēties saglabātos lietotājvārdus un paroles. Tiek pieņemtas vērtības “patiess” un “aplams”.
 policy-OverrideFirstRunPage = Pārraksta pirmās palaišanas lapu. Iestatiet šeit tukšumu, lai deaktivētu pirmās palaišanas lapu.
 policy-OverridePostUpdatePage = Pārraksta pēc atjauninājumu "Kas jauns" lapu. Iestatiet šeit tukšumu, lai deaktivētu šo lapu.
+policy-PasswordManagerEnabled = Ieslēgt paroļu saglabāšanu paroļu pārvaldniekā.
+policy-PasswordManagerExceptions = Liegt { -brand-short-name } saglabāt paroles noteiktām vietnēm.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Izslēgt vai konfigurēt PDF.js, iebūvēto { -brand-short-name } PDF skatītāju.
+policy-Permissions2 = Konfigurēt kameras, mikrofona, atrašanās vietas, paziņojumu un automātiskās atskaņošanas atļaujas.
+policy-PictureInPicture = Ieslēgt vai izslēgt funkciju attēls-attēlā.
 policy-PopupBlocking = Ļaut zināmām lapām pēc noklusējuma rādīt uznirstošos logus.
+policy-Preferences = Iestatīt un noslēgt perefreneču apakškopu vērtības.
+policy-PromptForDownloadLocation = Lejuplādējot vaicāt, kur saglabāt datnes.
 policy-Proxy = Konfigurē starpniekservera iestatījumus.
 policy-RequestedLocales = Iestatiet pieejamo valodu sarakstu prioritātes secībā.
+policy-SanitizeOnShutdown2 = Izslēdzot notīrīt navigācijas datus.
 policy-SearchBar = Iestata noklusēto meklēšanas joslas atrašanos. Šis joprojām ļauj lietotājam to mainīt.
 policy-SearchEngines = Konfigurē meklētāju iestatījumus. Šī politika ir pieejama vienīgi pagarinātā atbalsta laidienos (ESR).
+policy-SearchSuggestEnabled = Ieslēgt vai izslēgt meklēšanas ieteikumus.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Pievienot vai dzēst PKCS #11 moduļus.
+policy-ShowHomeButton = Rīkjoslā rādīt sākuma pogu.
+policy-SSLVersionMax = Iestatīt maksimālo SSL versiju.
+policy-SSLVersionMin = Iestatīt minimālo SSL versiju.
+policy-StartDownloadsInTempDirectory = Piespiest lejupielādes sākt lokālā pagaidu vietā, nevis noklusējuma lejupielāžu direktorijā.
+policy-SupportMenu = Palīdzības izvēlnē pievienot pielāgotu atbalsta izvēlnes vienumu.
+policy-TranslateEnabled = Ieslēgt vai izslēgt tīmekļa lapas tulkošanu.
+policy-UserMessaging = Nerādīt lietotājam noteiktus ziņojumus.
+policy-UseSystemPrintDialog = Drukāt, izmantojot sistēmas drukāšanas dialoglodziņu.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Bloķēt lapu apmeklēšanu. Sīkāka informācija par formātu pieejama dokumentācijā.
+policy-Windows10SSO = Atļaut Windows vienreizējo ierakstīšanos Microsoft, darba un mācību iestādes kontiem.
