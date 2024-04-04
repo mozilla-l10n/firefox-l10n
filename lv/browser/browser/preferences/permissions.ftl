@@ -90,6 +90,8 @@ permissions-exceptions-cookie-desc = Jūs varat norādīt, kurām lapām ir un k
 permissions-exceptions-https-only-window2 =
     .title = Izņēmumi — tikai HTTPS režīms
     .style = { permissions-window2.style }
+permissions-exceptions-https-only-desc = Konkrētām vietnēm varat izslēgt režīmu tikai-HTTPS. { -brand-short-name } nemēģinās šo vietņu savienojumu uzlabot uz drošo HTTPS. Izņēmumi neattiecas uz privātajiem logiem.
+permissions-exceptions-https-only-desc2 = Konkrētām vietnēm varat izslēgt režīmu tikai-HTTPS. { -brand-short-name } nemēģinās šo vietņu savienojumu uzlabot uz drošo HTTPS.
 
 ## Exceptions - Pop-ups
 
@@ -107,6 +109,9 @@ permissions-exceptions-saved-logins-desc = Šo vietņu paroles netiks saglabāta
 
 ## Exceptions - Saved Passwords
 
+permissions-exceptions-saved-passwords-window =
+    .title = Izņēmumi - saglabātās paroles
+    .style = { permissions-window2.style }
 
 ## Exceptions - Add-ons
 
