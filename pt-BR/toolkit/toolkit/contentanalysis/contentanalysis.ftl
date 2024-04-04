@@ -42,7 +42,19 @@ contentanalysis-genericresponse-message = A análise de conteúdo respondeu { $r
 contentanalysis-block-message = Sua organização usa software de prevenção contra perda de dados que bloqueou este conteúdo: { $content }.
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Ocorreu um erro na comunicação com o software de prevenção contra perda de dados. Transferência negada do recurso: { $content }.
+contentanalysis-error-message = Ocorreu um erro na comunicação com o software de prevenção contra perda de dados. Transferência do recurso negada: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Ocorreu um erro na comunicação com { $agent }. Transferência do recurso negada: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Não foi possível conectar com { $agent }. Transferência do recurso negada: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Falha na verificação de assinatura de { $agent }. Transferência do recurso negada: { $content }.
 contentanalysis-inprogress-quit-title = Sair do { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Várias ações estão em andamento. Se você sair do { -brand-shorter-name }, essas ações não serão concluídas.
 contentanalysis-inprogress-quit-yesbutton = Sim, sair
