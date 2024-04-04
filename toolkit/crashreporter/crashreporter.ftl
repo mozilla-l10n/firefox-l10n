@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = Relator de travamentos do { -brand-short-name }
+crashreporter-apology = Desculpe
 crashreporter-crashed-and-restore = O { -brand-short-name } teve um problema e travou. Tentaremos restaurar as abas e janelas quando ele reiniciar.
 crashreporter-plea = Para ajudar a diagnosticar e reparar o problema, você pode enviar um relatório do travamento.
 crashreporter-information = Este aplicativo é executado depois de um travamento para informar o problema para a { -vendor-short-name }. Não deve ser executado diretamente.
