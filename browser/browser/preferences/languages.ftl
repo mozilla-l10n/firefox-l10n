@@ -5,34 +5,25 @@
 webpage-languages-window2 =
     .title = Lapas valodu iestatījumi
     .style = min-width: 40em
-
 languages-close-key =
     .key = w
-
-languages-description = Tīmekļa lappuses dažreiz tiek piedāvātas vairākās valodās. Izvēlēties šo tīmekļa lappušu rādīšanas valodu izvēles kārtību
-
+languages-description = Tīmekļa lapas dažreiz tiek piedāvātas vairākās valodās. Izvēlēties šo tīmekļa lapu rādīšanas valodu izvēles secību
 languages-customize-spoof-english =
     .label = Pieprasīt lapu angļu valodas versiju, lai uzlabotu privātumu
-
 languages-customize-moveup =
     .label = Pārvietot augšup
     .accesskey = a
-
 languages-customize-movedown =
     .label = Pārvietot lejup
     .accesskey = l
-
 languages-customize-remove =
-    .label = Aizvākt
-    .accesskey = A
-
+    .label = Izņemt
+    .accesskey = I
 languages-customize-select-language =
-    .placeholder = Pievienot valodu...
-
+    .placeholder = Atlasiet valodu pievienošanai…
 languages-customize-add =
     .label = Pievienot
     .accesskey = P
-
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -45,29 +36,20 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
-
 languages-active-code-format =
     .value = { languages-code-format.label }
-
 browser-languages-window2 =
     .title = { -brand-short-name } valodu iestatījumi
     .style = min-width: 40em
-
-browser-languages-description = { -brand-short-name } attēlos pirmo valodu kā noklusēto un pārējās valodas, ja nepieciešams tādā secībā, kādā tās būs sarakstā.
-
+browser-languages-description = { -brand-short-name } attēlos pirmo valodu kā noklusējuma un pārējās valodas, ja nepieciešams tādā secībā, kādā tās būs sarakstā.
 browser-languages-search = Meklē citas valodas...
-
 browser-languages-searching =
     .label = Meklē valodas...
-
 browser-languages-downloading =
     .label = Lejupielādē…
-
 browser-languages-select-language =
     .label = Izvēlieties valodu, kuru pievienot ...
     .placeholder = Izvēlieties valodu, kuru pievienot ...
-
 browser-languages-installed-label = Instalētās valodas
 browser-languages-available-label = Pieejamās valodas
-
 browser-languages-error = { -brand-short-name } pašlaik nevar atjaunināt valodas. Pārbaudiet, vai ir izveidots savienojums ar internetu un mēģiniet vēlreiz.
