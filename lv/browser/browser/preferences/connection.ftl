@@ -75,7 +75,7 @@ connection-proxy-socks-remote-dns =
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
-    .label = { $num } (noklusējuma)
+    .label = { $name } (noklusējuma)
     .tooltiptext = Izmantot noklusējuma URL, lai noskaidrotu DNS caur HTTPS
 connection-dns-over-https-url-custom =
     .label = Pielāgots
