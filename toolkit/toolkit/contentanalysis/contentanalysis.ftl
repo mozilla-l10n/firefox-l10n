@@ -43,6 +43,18 @@ contentanalysis-block-message = Stofnunin þín notar hugbúnað til að koma í
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Villa kom upp í samskiptum við hugbúnaðinn sem kemur í veg fyrir gagnatap. Flutningi er hafnað fyrir tilfang: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Villa kom upp í samskiptum við { $agent }. Flutningi er hafnað fyrir tilfang: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Ekki tókst að tengjast { $agent }. Flutningi hafnað fyrir tilfang: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Mistókst að staðfesta undirritun fyrir { $agent }. Flutningi hafnað fyrir tilfang: { $content }.
 contentanalysis-inprogress-quit-title = Hætta í { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Nokkrar aðgerðir eru í gangi. Ef þú hættir í { -brand-shorter-name } verða þessar aðgerðir ekki kláraðar.
 contentanalysis-inprogress-quit-yesbutton = Já, hætta
