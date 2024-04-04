@@ -441,4 +441,5 @@ content-analysis-title = Analyse de contenu (DLP)
 content-analysis-active = Active
 content-analysis-connected-to-agent = Connecté à l’agent
 content-analysis-agent-path = Chemin de l’agent
+content-analysis-agent-failed-signature-verification = Échec de la vérification de la signature de l’agent
 content-analysis-request-count = Nombre de requêtes
