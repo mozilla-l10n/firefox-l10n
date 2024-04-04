@@ -29,6 +29,8 @@ return-to-amo-add-theme-label = Pievienot motīvu
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = Sasveicinieties ar { -brand-short-name }
+mr1-return-to-amo-addon-title = Jums ir pieejama ātrs, privāts pārlūks. Tagad varat pievienot <b>{ $addon-name }</b> un ar { -brand-short-name } paveikt vēl vairāk.
+mr1-return-to-amo-add-extension-label = Pievienot { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -38,12 +40,38 @@ mr1-return-to-amo-subtitle = Sasveicinieties ar { -brand-short-name }
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
+onboarding-welcome-steps-indicator-label =
+    .aria-label = Progress: solis { $current } no { $total }
+# This button will open system settings to turn on prefers-reduced-motion
+mr1-onboarding-reduce-motion-button-label = Izslēgt animācijas
+# String for the Firefox Accounts button
+mr1-onboarding-sign-in-button-label = Ierakstīties
+# The primary import button label will depend on whether we can detect which browser was used to download Firefox.
+# Variables:
+#   $previous (Str) - Previous browser name, such as Edge, Chrome
+mr1-onboarding-import-primary-button-label-attribution = Importēt no { $previous }
+mr1-onboarding-theme-header = Padariet to par savu
+mr1-onboarding-theme-subtitle = Personalizējiet { -brand-short-name } ar motīvu.
+mr1-onboarding-theme-secondary-button-label = Ne tagad
+# System theme uses operating system color settings
+mr1-onboarding-theme-label-system = Sistēmas motīvs
+mr1-onboarding-theme-label-light = Gaišs
+mr1-onboarding-theme-label-dark = Tumšs
+# "Alpenglow" here is the name of the theme, and should be kept in English.
+mr1-onboarding-theme-label-alpenglow = Alpenglow
+onboarding-theme-primary-button-label = Gatavs
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
 ## tooltip.
 
+# Tooltip displayed on hover of system theme
+mr1-onboarding-theme-tooltip-system =
+    .title = Ievērot operētājsistēmas motīvu pogām, izvēlnēm un logiem.
+# Input description for system theme
+mr1-onboarding-theme-description-system =
+    .aria-description = Ievērot operētājsistēmas motīvu pogām, izvēlnēm un logiem.
 
 ## Strings for Thank You page
 
