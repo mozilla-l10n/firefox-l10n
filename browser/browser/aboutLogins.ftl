@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Create new login
+about-logins-page-title-name = Passwords
+about-logins-login-filter2 =
+    .placeholder = Search Passwords
+    .key = F
+create-login-button =
+    .title = Add password
 fxaccounts-sign-in-text = Get your passwords on your other devices
 fxaccounts-sign-in-sync-button = Sign in to sync
 fxaccounts-avatar-button =
@@ -23,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Import from Another Bro
 about-logins-menu-menuitem-import-from-a-file = Import from a File…
 about-logins-menu-menuitem-export-logins = Export Logins…
 about-logins-menu-menuitem-remove-all-logins = Remove All Logins…
+about-logins-menu-menuitem-export-logins2 = Export Passwords…
+about-logins-menu-menuitem-remove-all-logins2 = Remove All Passwords…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Options
@@ -49,6 +57,21 @@ login-list-filtered-count =
         [one] { $count } of { $total } login
        *[other] { $count } of { $total } logins
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } password
+       *[other] { $count } passwords
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } of { $total } password
+       *[other] { $count } of { $total } passwords
+    }
 login-list-sort-label-text = Sort by:
 login-list-name-option = Name (A-Z)
 login-list-name-reverse-option = Name (Z-A)
@@ -58,11 +81,14 @@ about-logins-login-list-alerts-option = Alerts
 login-list-last-changed-option = Last Modified
 login-list-last-used-option = Last Used
 login-list-intro-title = No logins found
+login-list-intro-title2 = No passwords saved
 login-list-intro-description = When you save a password in { -brand-product-name }, it will show up here.
 about-logins-login-list-empty-search-title = No logins found
+about-logins-login-list-empty-search-title2 = No passwords found
 about-logins-login-list-empty-search-description = There are no results matching your search.
 login-list-item-title-new-login = New Login
 login-list-item-subtitle-new-login = Enter your login credentials
+login-list-item-title-new-login2 = Add password
 login-list-item-subtitle-missing-username = (no username)
 about-logins-list-item-breach-icon =
     .title = Breached website
@@ -81,19 +107,29 @@ about-logins-login-intro-heading-logged-out2 = Looking for your saved logins? Tu
 about-logins-login-intro-heading-logged-in = No synced logins found.
 login-intro-description = If you saved your logins to { -brand-product-name } on a different device, here’s how to get them here:
 login-intro-instructions-fxa = Create or sign in to your { -fxaccount-brand-name(capitalization: "sentence") } on the device where your logins are saved.
+about-logins-login-intro-heading-message = Save your passwords to a safe spot
+login-intro-description2 = All passwords you save to { -brand-product-name } are encrypted. Plus, we watch out for breaches and alert you if you’re affected. <a data-l10n-name="breach-alert-link">Learn more</a>
 login-intro-instructions-fxa2 = Create or sign in to your account on the device where your logins are saved.
 login-intro-instructions-fxa-settings = Go to Settings > Sync > Turn on syncing… Select the Logins and passwords checkbox.
 login-intro-instructions-fxa-passwords-help = Visit <a data-l10n-name="passwords-help-link">passwords support</a> for more help.
 about-logins-intro-browser-only-import = If your logins are saved in another browser, you can <a data-l10n-name="import-link">import them into { -brand-product-name }</a>
 about-logins-intro-import2 = If your logins are saved outside of { -brand-product-name }, you can <a data-l10n-name="import-browser-link">import them from another browser</a> or <a data-l10n-name="import-file-link">from a file</a>
+about-logins-intro-import3 = Select the plus sign button above to add a password now. You can also <a data-l10n-name="import-browser-link">import passwords from another browser</a> or <a data-l10n-name="import-file-link">from a file</a>.
 
 ## Login
 
 login-item-new-login-title = Create New Login
+# Header for adding a password
+about-logins-login-item-new-login-title = Add password
 login-item-edit-button = Edit
 about-logins-login-item-remove-button = Remove
 login-item-origin-label = Website address
 login-item-tooltip-message = Make sure this matches the exact address of the website where you log in.
+about-logins-origin-tooltip2 = Enter the full address and make sure it’s an exact match for where you sign in.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Make sure you’re saving your current password for this site. Changing the password here does not change it with { $webTitle }.
+about-logins-add-password-tooltip = Make sure you’re saving your current password for this site.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Username
@@ -198,11 +234,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] This will remove the login you’ve saved to { -brand-short-name } on all devices synced to your { -fxaccount-brand-name }. This will also remove breach alerts that appear here. You won’t be able to undo this action.
        *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your { -fxaccount-brand-name }. This will also remove breach alerts that appear here. You won’t be able to undo this action.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] This will remove the login you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
-       *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
     }
 
 ##

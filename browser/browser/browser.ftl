@@ -279,6 +279,9 @@ quickactions-cmd-plugins = plugins
 # Opens the print dialog
 quickactions-print2 = Print page
 quickactions-cmd-print = print
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = Save page as PDF
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Open private window
 quickactions-cmd-private = private browsing
@@ -348,6 +351,7 @@ identity-connection-secure = Connection secure
 identity-connection-failure = Connection failure
 identity-connection-internal = This is a secure { -brand-short-name } page.
 identity-connection-file = This page is stored on your computer.
+identity-connection-associated = This page is loaded from another page.
 identity-extension-page = This page is loaded from an extension.
 identity-active-blocked = { -brand-short-name } has blocked parts of this page that are not secure.
 identity-custom-root = Connection verified by a certificate issuer that is not recognized by Mozilla.
@@ -563,6 +567,13 @@ urlbar-result-action-search-w-engine = Search with { $engine }
 urlbar-result-action-sponsored = Sponsored
 urlbar-result-action-switch-tab = Switch to Tab
 urlbar-result-action-visit = Visit
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Switch to Tab · <span>{ $container }</span>
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Visit from clipboard
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -615,6 +626,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Quick Actions
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Recent Searches
 
 ## Reader View toolbar buttons
 
@@ -880,6 +896,10 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Open previous tabs?</strong> You can restore your previous session from the { -brand-short-name } application menu <img data-l10n-name="icon"/>, under History.
 restore-session-startup-suggestion-button = Show me how
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+filepicker-blocked-infobar = Your organization has blocked access to local files on this computer
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } automatically sends some data to { -vendor-short-name } so that we can improve your experience.
@@ -915,6 +935,21 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = End Private Session
+    .tooltiptext = End Private Session
+reset-pbm-panel-heading = End your private session?
+reset-pbm-panel-description = Close all private tabs and delete history, cookies, and all other site data.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Always ask me
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = Cancel
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = Delete session data
+    .accesskey = D
+reset-pbm-panel-complete = Private session data deleted
 
 ## Autorefresh blocker
 
