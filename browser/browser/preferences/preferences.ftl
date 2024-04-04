@@ -14,6 +14,28 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Pateikt vietnēm, lai tās nepārdod un nedalās ar maniem datiem
     .accesskey = s
+non-technical-privacy-header = Vietņu privātuma preferences
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Globālā privātuma kontrole (GPC)
+settings-page-title = Iestatījumi
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box2 =
+    .style = width: 15.4em
+    .placeholder = Atrast iestatījumos
+managed-notice = Jūsu pārlūku pārvalda jūsu organizācija.
+managed-notice-info-icon =
+    .alt = Informācija
+category-list =
+    .aria-label = Kategorijas
 pane-general-title = Vispārīgi
 category-general =
     .tooltiptext = { pane-general-title }
@@ -26,6 +48,15 @@ category-search =
 pane-privacy-title = Privātums un drošība
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title3 = Sinhronizēšana
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
+pane-experimental-title = { -brand-short-name } eksperimenti
+category-experimental =
+    .tooltiptext = { -brand-short-name } eksperimenti
+pane-experimental-subtitle = Turpiniet piesardzīgi
+pane-experimental-search-results-header = { -brand-short-name } Eksperimenti: turpiniet piesardzīgi
+pane-experimental-description2 = Papildu konfigurācijas iestatījumu maiņa var ietekmēt { -brand-short-name } veiktspēju vai drošību.
 pane-experimental-reset =
     .label = Atjaunot noklusējumus
     .accesskey = n
@@ -55,6 +86,21 @@ restart-later = Pārstartēt vēlāk
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolē šo iestatījumu.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolē šo iestatījumu.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> ir nepieciešamas konteinera cilnes.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontrolē šo iestatījumu.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $name }</strong> kontrolē, kā { -brand-short-name } savienojas ar internetu.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -65,6 +111,8 @@ extension-controlled-enable = Lai aktivētu paplašinājumu, ejiet uz <img data-
 ## Preferences UI Search Results
 
 search-results-header = Meklēšanas rezultāti
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message2 = Atvainojiet! Iestatījumos vaicājumam “<span data-l10n-name="query"></span>” nav rezultātu.
 search-results-help-link = Vajadzīga palīdzība? Apmeklējiet <a data-l10n-name="url">{ -brand-short-name } atbalsts</a>
 
 ## General Section
