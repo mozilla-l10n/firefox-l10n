@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = { -brand-short-name }-Absturzmelder
+crashreporter-apology = Entschuldigung
 crashreporter-crashed-and-restore = { -brand-short-name } ist aufgrund eines Problems abgestürzt. Es wird versucht, Ihre Tabs und Fenster beim Neustart wiederherzustellen.
 crashreporter-plea = Um uns zu helfen, dieses Problem zu erkennen und zu reparieren, können Sie uns einen Absturzbericht schicken.
 crashreporter-information = Diese Anwendung wird nach einem Absturz ausgeführt, um das Problem an { -vendor-short-name } zu melden. Sie sollte nicht direkt ausgeführt werden.
