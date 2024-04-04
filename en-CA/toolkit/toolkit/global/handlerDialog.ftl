@@ -18,6 +18,8 @@ permission-dialog-description-app = Allow this site to open the { $scheme } link
 permission-dialog-description-host-app = Allow { $host } to open the { $scheme } link with { $appName }?
 permission-dialog-description-file-app = Allow this file to open the { $scheme } link with { $appName }?
 permission-dialog-description-extension-app = Allow the extension { $extension } to open the { $scheme } link with { $appName }?
+permission-dialog-description-system-app = Open the { $scheme } link with { $appName }?
+permission-dialog-description-system-noapp = Open the { $scheme } link?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
