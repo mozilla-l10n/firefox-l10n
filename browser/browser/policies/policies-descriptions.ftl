@@ -125,6 +125,7 @@ policy-SSLVersionMax = Stabilir le version SSL maxime.
 policy-SSLVersionMin = Stabilir le version SSL minime.
 policy-StartDownloadsInTempDirectory = Fortiar le discargamento in un plica local temporari, plus tosto que in le directorio ordinari.
 policy-SupportMenu = Adder un selection de supporto personalisate al menu de adjuta.
+policy-TranslateEnabled = Activar o disactivar le traduction del pagina web.
 policy-UserMessaging = Non monstrar al usator certe messages.
 policy-UseSystemPrintDialog = Imprimer usante le fenestra de impression del systema…
 # “format” refers to the format used for the value of this policy.
