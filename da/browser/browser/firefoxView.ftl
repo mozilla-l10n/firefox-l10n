@@ -147,7 +147,7 @@ firefoxview-opentabs-window-header =
 # Variables:
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
-    .title = Vindue { $winID } (aktuelt)
+    .title = Vindue { $winID } (aktuelle)
 firefoxview-opentabs-focus-tab =
     .title = Skift til dette faneblad
 firefoxview-show-more = Vis flere

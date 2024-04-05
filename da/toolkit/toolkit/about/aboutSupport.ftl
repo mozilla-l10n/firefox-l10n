@@ -431,3 +431,7 @@ pointing-device-mouse = Mus
 pointing-device-touchscreen = Touchscreen
 pointing-device-pen-digitizer = Digital pen
 pointing-device-none = Ingen pegeredskaber
+
+## Content Analysis (DLP)
+
+content-analysis-active = Aktiv
