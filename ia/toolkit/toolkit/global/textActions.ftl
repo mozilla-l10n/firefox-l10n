@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Vacuar
+text-action-highlight-selection =
+    .label = Evidentiar selection

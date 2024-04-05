@@ -4,7 +4,6 @@
 
 about-reader-loading = Cargante…
 about-reader-load-error = Falta a cargar le articulo ex le pagina
-
 about-reader-color-scheme-light = Clar
     .title = Schema de colores clar
 about-reader-color-scheme-dark = Obscur
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = Sepia
     .title = Schema de colores sepia
 about-reader-color-scheme-auto = Auto
     .title = Schema de color Auto
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -50,3 +48,23 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Clauder le vista de lectura
 about-reader-toolbar-type-controls = Controlos de typo
 about-reader-toolbar-savetopocket = Salvar in { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Thema
+about-reader-fxtheme-tab = Predefinite
+about-reader-customtheme-tab = Personalisate
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Texto
+    .title = Rediger color
+about-reader-custom-colors-background = Fundo
+    .title = Rediger color
+about-reader-custom-colors-unvisited-links = Ligamines non visitate
+    .title = Rediger color
+about-reader-custom-colors-visited-links = Ligamines visitate
+    .title = Rediger color
+about-reader-custom-colors-reset-button = Restablir parametros predefinite
