@@ -952,6 +952,24 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Automātiskā aizpilde
+autofill-addresses-checkbox = Saglabāt un aizpildīt adreses
+    .accesskey = a
+autofill-saved-addresses-button = Saglabātās adreses
+    .accesskey = S
+autofill-payment-methods-checkbox-message = Saglabāt un aizpildīt maksājumu metodes
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Ietver kredītkartes un debetkartes
+    .accesskey = I
+autofill-saved-payment-methods-button = Saglabātās maksājumu metodes
+    .accesskey = g
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Lai aizpildītu un rediģētu maksājumu veidus, pieprasīt macOS autentifikāciju.
+        [windows] Lai aizpildītu un rediģētu maksājumu veidus, pieprasīt Windows autentifikāciju.
+        [linux] Lai aizpildītu un rediģētu maksājumu veidus, pieprasīt Linux autentifikāciju.
+       *[other] Lai aizpildītu un rediģētu maksājumu veidus, pieprasīt autentifikāciju.
+    }
+    .accesskey = O
 
 ## Privacy Section - History
 
@@ -1006,6 +1024,8 @@ sitedata-learn-more = Uzzināt vairāk
 sitedata-delete-on-close =
     .label = Dzēst sīkfailus un vietnes datus, kad { -brand-short-name } ir aizvērts
     .accesskey = D
+sitedata-delete-on-close-private-browsing = Pastāvīgās privātās pārlūkošanas režīmā sīkdatnes un vietņu dati vienmēr tiks notīrīti, kad tiek aizvērts { -brand-short-name }.
+sitedata-delete-on-close-private-browsing2 = Pamatojoties uz jūsu vēstures iestatījumiem, { -brand-short-name } dzēš sīkdatnes un vietņu datus no jūsu sesijas, kad aizverat pārlūkprogrammu.
 sitedata-allow-cookies-option =
     .label = Pieņemt sīkdatnes un lapu datus
     .accesskey = a
@@ -1016,18 +1036,40 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Bloķētais tips
     .accesskey = t
+sitedata-option-block-cross-site-trackers =
+    .label = Starpvietņu izsekotāji
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Starpvietņu izsekošanas sīkdatnes
+sitedata-option-block-cross-site-cookies =
+    .label = Starpvietņu izsekošanas sīkdatnes, un izolēt citas starpvietņu sīkdatnes
+sitedata-option-block-unvisited =
+    .label = Sīkdatnes no lapām, kuras tiešā veidā nav apmeklētas
+sitedata-option-block-all-cross-site-cookies =
+    .label = Visas starpvietņu sīkdatnes (var izraisīt vietņu darbības traucējumus)
+sitedata-option-block-all =
+    .label = Visas sīkdatnes (vietnes noteikti salūzīs)
 sitedata-clear =
     .label = Notīrīt datus…
     .accesskey = n
 sitedata-settings =
     .label = Pārvaldīt datus…
     .accesskey = P
+sitedata-cookies-exceptions =
+    .label = Pārvaldīt izņēmumus…
+    .accesskey = z
 
 ## Privacy Section - Cookie Banner Handling
 
+cookie-banner-handling-header = Sīkdatņu paziņojumu mazināšana
+cookie-banner-handling-description = Atbalstītajās vietnēs { -brand-short-name } automātiski mēģina noraidīt sīkdatņu pieprasījumus sīkdatņu paziņojumos.
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Sīkdatņu paziņojumu bloķētājs
+cookie-banner-blocker-description = Kad vietne jautā, vai tā var izmantot sīkdatnes privātās pārlūkošanas režīmā, { -brand-short-name } automātiski atsakās. Tikai atbalstītajās vietnēs.
+cookie-banner-learn-more = Uzzināt vairāk
+forms-handle-cookie-banners =
+    .label = Samaziniet sīkdatņu paziņojumu skaitu
 
 ## Privacy Section - Address Bar
 
@@ -1306,6 +1348,20 @@ preferences-doh-setting-strict =
     .accesskey = M
 preferences-doh-strict-desc = { -brand-short-name } vienmēr izmantos drošo DNS. Pirms jūsu sistēmas DNS izmantošanas tiks parādīts brīdinājums par drošības risku.
 preferences-doh-strict-detailed-desc-1 = Izmantot tikai atlasīto pakalpojumu sniedzēju
+preferences-doh-strict-detailed-desc-2 = Vienmēr brīdināt, ja nav pieejams drošais DNS
+preferences-doh-strict-detailed-desc-3 = Ja drošais DNS nav pieejams, vietnes neielādēsies un nedarbosies pareizi
+preferences-doh-setting-off =
+    .label = Izslēgts
+    .accesskey = z
+preferences-doh-off-desc = Izmantot savu noklusējuma DNS atrisinātāju
+preferences-doh-checkbox-warn =
+    .label = Brīdināt, ja trešā puse aktīvi liedz drošo DNS
+    .accesskey = B
+preferences-doh-select-resolver = Izvēlieties pakalpojuma sniedzēju:
+preferences-doh-exceptions-description = { -brand-short-name } šajās vietnēs neizmantos drošo DNS
+preferences-doh-manage-exceptions =
+    .label = Pārvaldīt izņēmumus…
+    .accesskey = z
 
 ## The following strings are used in the Download section of settings
 
