@@ -379,12 +379,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -819,7 +823,26 @@ forms-ask-to-save-passwords =
 forms-exceptions =
     .label = Izņēmumi...
     .accesskey = z
+forms-generate-passwords =
+    .label = Ieteikt un ģenerēt spēcīgas paroles
+    .accesskey = u
+forms-suggest-passwords =
+    .label = Ieteikt spēcīgas paroles
+    .accesskey = s
+forms-breach-alerts =
+    .label = Rādīt brīdinājumus par uzlauztu vietņu parolēm
+    .accesskey = b
 forms-breach-alerts-learn-more-link = Uzzināt vairāk
+preferences-relay-integration-checkbox =
+    .label = Ieteikt { -relay-brand-name } e-pasta maskas, lai aizsargātu jūsu e-pasta adresi
+preferences-relay-integration-checkbox2 =
+    .label = Ieteikt { -relay-brand-name } e-pasta maskas, lai aizsargātu jūsu e-pasta adresi
+    .accesskey = r
+relay-integration-learn-more-link = Uzzināt vairāk
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Automātiski aizpildīt lietotājvārdus un paroles
+    .accesskey = i
 forms-saved-logins =
     .label = Saglabātās paroles…
     .accesskey = l
