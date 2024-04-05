@@ -1259,12 +1259,30 @@ space-alert-over-5gb-settings-button =
     .label = Atvērt iestatījumus
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } beidzas brīvā vieta</strong>. Mājas lapu dati var neattēloties korekti. Saglabātos datus varat notīrīt Iestatījumi > Privātums un drošība > Sīkdatnes un kešatmiņa.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } nepietiek vietas diskā.</strong> Lapu saturs var tikt nekorekti attēlots. Apmeklējiet “Uzzināt vairāk”, lai optimizētu diska izmantošanu.
 
 ## Privacy Section - HTTPS-Only
 
 
 ## DoH Section
 
+preferences-doh-description2 = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, nosūta jūsu domēna vārda pieprasījumu, izmantojot šifrētu savienojumu, nodrošinot drošu DNS un neļauj citiem viegli redzēt, kurai vietnei jūs grasāties piekļūt.
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Statuss: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Pakalpojuma sniedzējs: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Nederīgs URL
+preferences-doh-steering-status = Izmantot vietējo pakalpojuma sniedzēju
+preferences-doh-status-active = Aktīvs
+preferences-doh-status-disabled = Izslēgts
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Nav aktīvs ({ $reason })
+preferences-doh-group-message = Ieslēgt drošo DNS, izmantojot:
 
 ## The following strings are used in the Download section of settings
 
