@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Паведамляльнік пра крах
-crashreporter-crash-message = { -brand-short-name } пацярпеў крах ад нечаканай праблемы.
 crashreporter-plea = Каб дапамагчы вызначыць і выправіць праблему, вы можаце падаць справаздачу пра крах.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Падрабязнасці: { $details }
@@ -26,3 +24,5 @@ crashreporter-crash-identifier = Вызначальнік краху: { $id }
 
 # Error strings
 
+# $path (String) - the file path
+crashreporter-error-opening-file = Не ўдалося адкрыць файл ({ $path })
