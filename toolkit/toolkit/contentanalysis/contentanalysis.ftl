@@ -43,6 +43,18 @@ contentanalysis-block-message = Ваша арганізацыя выкарыст
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Здарылася памылка сувязі з праграмным забеспячэннем для прадухілення страты дадзеных. Адмоўлена ў перадачы для рэсурсу: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Памылка сувязі з { $agent }. Адмоўлена ў перадачы для рэсурсу: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Немагчыма злучыцца з { $agent }. Адмоўлена ў перадачы для рэсурсу: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Не ўдалося праверыць подпіс для { $agent }. Адмоўлена ў перадачы для рэсурсу: { $content }.
 contentanalysis-inprogress-quit-title = Выйсці з { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Некалькі дзеянняў яшчэ ідуць. Калі вы выйдзеце з { -brand-shorter-name }, гэтыя дзеянні не будуць скончаны.
 contentanalysis-inprogress-quit-yesbutton = Так, выйсці
