@@ -1298,6 +1298,14 @@ preferences-doh-default-detailed-desc-5 = Izslēgt, kad tīkls norāda { -brand-
 preferences-doh-setting-enabled =
     .label = Paaugstināta aizsardzība
     .accesskey = i
+preferences-doh-enabled-desc = Jūs kontrolējat, kad izmantot drošo DNS, un izvēlēties pakalpojumu sniedzēju.
+preferences-doh-enabled-detailed-desc-1 = Izmantot atlasīto pakalpojumu sniedzēju
+preferences-doh-enabled-detailed-desc-2 = Izmantot savu noklusējuma DNS atrisinātāju tikai tad, ja ir problēma ar drošo DNS
+preferences-doh-setting-strict =
+    .label = Maksimālā aizsardzība
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name } vienmēr izmantos drošo DNS. Pirms jūsu sistēmas DNS izmantošanas tiks parādīts brīdinājums par drošības risku.
+preferences-doh-strict-detailed-desc-1 = Izmantot tikai atlasīto pakalpojumu sniedzēju
 
 ## The following strings are used in the Download section of settings
 
