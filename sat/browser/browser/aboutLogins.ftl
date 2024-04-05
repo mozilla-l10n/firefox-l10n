@@ -112,6 +112,7 @@ about-logins-login-intro-heading-logged-in = ᱥᱭᱝᱠ ᱠᱟᱱ ᱵᱚᱞᱚ
 login-intro-description = ᱟᱢ ᱡᱩᱫᱤ ᱵᱷᱮᱜᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ { -brand-product-name } ᱨᱮ ᱥᱟᱺᱪᱟᱣ ᱟᱠᱟᱫᱟᱢ ᱢᱮᱱᱠᱷᱟᱱ, ᱱᱚᱰᱮ ᱧᱮᱞ ᱢᱮ ᱪᱮᱞᱠᱟ ᱠᱚ ᱟᱹᱜᱩ ᱦᱚᱭᱟ:
 login-intro-instructions-fxa = ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱᱟ { -fxaccount-brand-name }  ᱨᱮ ᱛᱮᱭᱟᱨ ᱟᱨ ᱵᱟᱝ ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱜ ᱢᱮ ᱾
 about-logins-login-intro-heading-message = ᱢᱤᱫᱴᱟᱹᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱡᱟᱭᱜᱟ ᱨᱮ ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+login-intro-description2 = ᱡᱟᱦᱟᱸ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱢ { -brand-product-name } ᱨᱮᱢ ᱥᱟᱧᱪᱟᱣ ᱟ ᱚᱱᱟ ᱫᱚ ᱫᱟᱱᱟᱝ ᱨᱮ ᱛᱟᱦᱮᱸᱱᱟ ᱾ ᱥᱟᱶᱛᱮ, ᱡᱩᱫᱤ ᱟᱢ ᱯᱨᱚᱵᱷᱟᱵᱤᱛᱚᱜ ᱠᱷᱟᱱ ᱟᱞᱮ ᱵᱟᱲᱟᱭ ᱪᱷᱚ ᱢᱮᱭᱟ ᱞᱮ ᱾<a data-l10n-name="breach-alert-link">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 login-intro-instructions-fxa2 = ᱡᱟᱦᱟᱸ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱟᱢᱟᱜ ᱵᱚᱞᱚ ᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱠᱟᱱᱟ ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱛᱮᱭᱟᱨ ᱟᱨ ᱵᱟᱝ ᱥᱩᱦᱤ ᱮᱢ ᱠᱟᱜ ᱢᱮ
 login-intro-instructions-fxa-settings = ᱥᱟᱡᱟᱣ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ > ᱥᱭᱝᱠ >ᱥᱭᱝᱠᱤᱝ ᱮᱢ ᱦᱚᱪᱚᱭ ᱢᱮ … ᱵᱚᱞᱚ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱪᱤᱱᱦᱟᱹᱯ ᱵᱟᱠᱚᱥ ᱵᱟᱪᱷᱟᱣ ᱡᱮ ᱾
 login-intro-instructions-fxa-passwords-help = ᱟᱨᱦᱚᱸ ᱜᱚᱲᱚ ᱧᱚᱢ ᱞᱟᱹᱜᱤᱫᱽ </a> <a data-l10n-name="passwords-help-link"> ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱜᱚᱲᱚ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
