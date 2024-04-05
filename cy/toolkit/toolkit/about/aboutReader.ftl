@@ -15,17 +15,17 @@ about-reader-color-scheme-auto = Awtomatig
 about-reader-color-theme-light = Golau
     .title = Lliw Thema Golau
 about-reader-color-theme-dark = Tywyll
-    .title = Lliw Thema Tywyll
+    .title = Lliw Thema Dywyll
 about-reader-color-theme-sepia = Sepia
     .title = Lliw Thema Sepia
 about-reader-color-theme-auto = Awto
     .title = Lliw Thema Awto
 about-reader-color-theme-gray = Llwyd
-    .title = Lliw Thema Llwyd
+    .title = Lliw Thema Lwyd
 about-reader-color-theme-contrast = Cyferbyniad
     .title = Cyferbyniad Lliw Thema
 about-reader-color-theme-custom = Lliwiau cyfaddas
-    .title = Lliwiau Thema Cyfaddas
+    .title = Lliwiau Thema Gyfaddas
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
