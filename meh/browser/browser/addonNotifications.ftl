@@ -30,11 +30,10 @@ xpinstall-prompt-install =
 ##
 
 xpinstall-disabled-locked = Tee tetiñu ka̱a̱ nnakasɨ chu´un software.
-xpinstall-disabled = Chu´un software íyo násɨ ntañu'un. Kuaxi sikune je nákajie´e tuku.
+xpinstall-disabled = A chu´un software ntu nune ntañu'un. Kuaxi sikune je nákajie´e tuku.
 xpinstall-disabled-button =
     .label = Naxituvi
     .accesskey = A
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ntee { -brand-short-name }
@@ -51,9 +50,7 @@ addon-removal-title = ¿Xina { $name }?
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Xina { $name } nee { -brand-shorter-name }?
 addon-removal-button = Xita
-
 addon-download-verifying = Verificando
-
 addon-install-cancel-button =
     .label = Nkuvi-ka
     .accesskey = C
