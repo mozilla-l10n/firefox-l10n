@@ -4,7 +4,6 @@
 
 about-reader-loading = Zacytujo se…
 about-reader-load-error = Nastawk njedajo se z boka zacytaś
-
 about-reader-color-scheme-light = Swětły
     .title = Swětła barwowa šema
 about-reader-color-scheme-dark = Śamny
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Sepija
     .title = Barwowa šema Sepia
 about-reader-color-scheme-auto = Awtomatiski
     .title = Awtomatiska barwowa šema
-
+about-reader-color-theme-light = Swětły
+    .title = Barwna drastwa Swětły
+about-reader-color-theme-dark = Śamny
+    .title = Barwna drastwa Śamny
+about-reader-color-theme-sepia = Sepija
+    .title = Barwna drastwa Sepija
+about-reader-color-theme-auto = Awtomatiski
+    .title = Barwna drastwa Awtomatiski
+about-reader-color-theme-gray = Šery
+    .title = Barwna drastwa Šery
+about-reader-color-theme-contrast = Kontrast
+    .title = Barwna drastwa Kontrast
+about-reader-color-theme-custom = Swójske barwy
+    .title = Barwna drastwa Swójske
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -51,4 +63,27 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Cytański naglěd zacyniś
 about-reader-toolbar-type-controls = Pismowe elementy
+about-reader-toolbar-color-controls = Barwy
 about-reader-toolbar-savetopocket = Do { -pocket-brand-name } składowaś
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Drastwa
+about-reader-fxtheme-tab = Standard
+about-reader-customtheme-tab = Swójski
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Tekst
+    .title = Barwu wobźěłaś
+about-reader-custom-colors-background = Slězyna
+    .title = Barwu wobźěłaś
+about-reader-custom-colors-unvisited-links = Njewoglědane wótkaze
+    .title = Barwu wobźěłaś
+about-reader-custom-colors-visited-links = Woglědane wótkaze
+    .title = Barwu wobźěłaś
+about-reader-custom-colors-selection-highlight = Tekstowy marker za głosnje cytaś
+    .title = Barwu wobźěłaś
+about-reader-custom-colors-reset-button = Na standard slědk stajiś
