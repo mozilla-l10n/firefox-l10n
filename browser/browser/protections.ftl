@@ -26,6 +26,11 @@ graph-private-window = { -brand-short-name } turpina bloķēt izsekotājus priv�
 graph-week-summary-private-window = Izsekotāji, ko šonedēļ bloķēja { -brand-short-name }
 protection-report-webpage-title = Aizsardzības informācijas panelis
 protection-report-page-content-title = Aizsardzības informācijas panelis
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } var aizsargāt jūsu privātumu pārlūkošanas aizkulisēs. Šis ir personalizēts šo aizsardzības līdzekļu kopsavilkums, tostarp rīki, ar ko varat kontrolēt savu tiešsaistes drošību.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } aizsargā jūsu privātumu pārlūkošanas aizkulisēs. Šis ir personalizēts šo aizsardzības līdzekļu kopsavilkums, tostarp rīki, lai kontrolētu jūsu tiešsaistes drošību.
+protection-report-settings-link = Pārvaldiet savus privātuma un drošības iestatījumus
 passwords-title-logged-in = Pārvaldiet jūsu paroles
 passwords-header-content = { -brand-product-name } droši glabā jūsu paroles jūsu pārlūkprogramma.
 lockwise-header-content-logged-in = Droši glabājiet un sinhronizējiet jūsu paroles visās savās ierīcēs.
