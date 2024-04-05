@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = Trình báo cáo lỗi { -brand-short-name }
+crashreporter-apology = Chúng tôi xin lỗi
 crashreporter-crashed-and-restore = { -brand-short-name } gặp sự cố và đã thoát. Chúng tôi sẽ cố gắng khôi phục các thẻ và cửa sổ của bạn khi thiết bị khởi động lại.
 crashreporter-plea = Để giúp chúng tôi chẩn đoán và sửa chữa, bạn có thể gửi báo cáo lỗi cho chúng tôi.
 crashreporter-information = Ứng dụng này được chạy sau khi gặp sự cố để báo cáo nó cho { -vendor-short-name }. Nó không nên được chạy trực tiếp.
