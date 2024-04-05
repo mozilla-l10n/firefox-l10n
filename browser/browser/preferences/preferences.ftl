@@ -1258,6 +1258,7 @@ certs-thirdparty-toggle =
 space-alert-over-5gb-settings-button =
     .label = Atvērt iestatījumus
     .accesskey = A
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } beidzas brīvā vieta</strong>. Mājas lapu dati var neattēloties korekti. Saglabātos datus varat notīrīt Iestatījumi > Privātums un drošība > Sīkdatnes un kešatmiņa.
 
 ## Privacy Section - HTTPS-Only
 
