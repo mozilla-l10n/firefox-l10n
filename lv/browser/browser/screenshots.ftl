@@ -17,3 +17,29 @@ screenshots-copy-button = Kopēt
 screenshots-copy-button-tooltip = Kopēt ekrānuzņēmumu starpliktuvē
 screenshots-download-button-title =
     .title = Lejupielādēt ekrānuzņēmumu
+screenshots-copy-button-title =
+    .title = Kopēt ekrānuzņēmumu starpliktuvē
+screenshots-cancel-button-title =
+    .title = Atcelt
+screenshots-retry-button-title =
+    .title = Atkal mēģināt uzņemt ekrānu
+screenshots-meta-key =
+    { PLATFORM() ->
+        [macos] ⌘
+       *[other] Ctrl
+    }
+screenshots-notification-link-copied-title = Saite nokopēta
+screenshots-notification-link-copied-details = Saite uz jūsu ekrānuzņēmumu ir iekopēta starpliktuvē. Lai ielīmētu, nospiediet { screenshots-meta-key }-V.
+screenshots-notification-image-copied-title = Uzņemtais nokopēts
+screenshots-notification-image-copied-details = Jūsu ekrānuzņēmumu ir iekopēta starpliktuvē. Lai ielīmētu, nospiediet { screenshots-meta-key }-V.
+screenshots-request-error-title = Nestrādā.
+screenshots-request-error-details = Atvainojiet! Mēs nevarējām saglabāt jūsu ekrānuzņēmumu. Lūdzu, pamēģiniet vēlreiz vēlāk.
+screenshots-connection-error-title = Mēs nevaram izveidot savienojumu ar jūsu ekrānuzņēmumiem.
+screenshots-connection-error-details = Lūdzu, pārbaudiet savu savienojumu ar internetu. Ja varat izveidot savienojumu ar internetu, iespējams, ir radusies īslaicīga problēma ar pakalpojumu { -screenshots-brand-name }.
+screenshots-login-error-details = Mēs nevarējām saglabāt jūsu attēlu, jo radās problēma ar pakalpojumu { -screenshots-brand-name }. Lūdzu, pamēģiniet vēlreiz vēlāk.
+screenshots-unshootable-page-error-title = Mēs nevaram uzņemt šīs lapas ekrānuzņēmumu.
+screenshots-unshootable-page-error-details = Šī nav standarta tīmekļa lapa, tāpēc jūs nevarat no tās uzņemt ekrānuzņēmumu.
+screenshots-empty-selection-error-title = Jūsu atlase ir pārāk maza
+screenshots-private-window-error-title = Privātās pārlūkošanas režīmā { -screenshots-brand-name } ir izslēgts
+screenshots-private-window-error-details = Atvainojamies par sagādātajām neērtībām. Mēs strādājam pie šīs funkcijas turpmākajiem laidieniem.
+screenshots-generic-error-title = Opā! { -screenshots-brand-name } sagāja grīstē.
