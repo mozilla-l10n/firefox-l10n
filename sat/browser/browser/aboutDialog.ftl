@@ -25,6 +25,7 @@ update-applying = ᱦᱟᱹᱞᱤ ᱵᱚᱦᱟᱞᱮᱫ ᱟ  …
 update-failed = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ ᱾ <label data-l10n-name="failed-link">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱰᱟᱣᱱᱞᱚᱰᱭ ᱢᱮ</label>
 update-failed-main = ᱦᱟᱹᱞᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ <a data-l10n-name="failed-link-main">ᱱᱟᱶᱟᱱᱟᱜ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱰᱟᱣᱱᱞᱚᱰᱭ ᱢᱮ</a>
 update-adminDisabled = ᱟᱢᱟᱜ ᱥᱭᱥᱴᱮᱢ ᱥᱟᱥᱚᱱᱤᱡ ᱫᱟᱥᱟᱸᱭ ᱛᱮ ᱵᱟᱝ ᱦᱟᱞᱤ ᱦᱚᱪᱚ ᱦᱩᱭ ᱟᱠᱟᱱᱟ ᱾
+update-policy-disabled = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱦᱚᱛᱮᱛᱮ ᱚᱯᱰᱮᱴ ᱠᱚ ᱵᱚᱫᱚᱞ ᱟᱠᱟᱱᱟ
 update-noUpdatesFound = { -brand-short-name } ᱫᱚ ᱟᱹᱯ ᱴᱩ ᱰᱮᱴ ᱟᱠᱟᱱᱟ
 aboutdialog-update-checking-failed = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱧᱮᱞ ᱨᱮ ᱦᱩᱰᱟᱹᱜ ᱾
 update-otherInstanceHandlingUpdates = { -brand-short-name } ᱮᱴᱟᱜᱤᱡ ᱡᱮᱞᱠᱟ ᱫᱟᱨᱟᱭ ᱛᱮ ᱦᱟᱹᱞᱤ ᱟᱠᱟᱱᱟ
