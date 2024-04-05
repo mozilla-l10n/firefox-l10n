@@ -34,10 +34,15 @@ crashreporter-crash-details = Du kan se detaljer om dette nedbrud her: { $url }.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Kunne ikke eksekvere minidump-analyzer
 # $path (String) - the file path
 crashreporter-error-opening-file = Kunne ikke åbne filen ({ $path })
 # $path (String) - the file path
 crashreporter-error-loading-file = Kunne ikke indlæse filen ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = Kunne ikke oprette mappen ({ $path })
+crashreporter-error-no-home-dir = Manglende hjem-mappe
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Kunne ikke flytte { $from } til { $to }
+crashreporter-error-version-eol = Versionen understøttes ikke længere og fejlrapporter accepteres ikke.

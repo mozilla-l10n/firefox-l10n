@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Bloker adgang til about:support.
 policy-Bookmarks = Opret bogmærker i Bogmærkelinjen, i menuen Bogmærker eller en nærmere angivet mappe i dem.
 policy-CaptivePortal = Slå understøttelse af tvungen portal til eller fra.
 policy-CertificatesDescription = Tilføj certifikater eller brug indbyggede certifikater.
+policy-ContentAnalysis = Aktiver eller deaktiver forbindelse til agent til forhindring af data-tab.
 policy-Cookies = Tillad eller nægt websteder at sætte cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Angiv politikker relateret til kontekster.
@@ -124,6 +125,7 @@ policy-SSLVersionMax = Angiv den højeste SSL-version.
 policy-SSLVersionMin = Angiv den laveste SSL-version.
 policy-StartDownloadsInTempDirectory = Tving filhentninger til at starte i en lokal, midlertidig placering i stedet for standard-mappen for filhentninger.
 policy-SupportMenu = Føj et tilpasset menupunkt til menuen Hjælp.
+policy-TranslateEnabled = Aktiver eller deaktiver oversættelser af websider.
 policy-UserMessaging = Vis ikke bestemte beskeder til brugeren.
 policy-UseSystemPrintDialog = Udskriv ved at bruge systemets udskriftsdialog.
 # “format” refers to the format used for the value of this policy.
