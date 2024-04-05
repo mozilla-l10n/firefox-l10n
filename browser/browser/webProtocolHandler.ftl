@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = Ikke nu
 
 protocolhandler-mailto-handler-notificationbox-always = Åbn altid mail-links med { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } er nu dit standard-websted til at åben links, der sender mail.
+protocolhandler-mailto-handler-set-message = Brug <strong>{ $url } i { -brand-short-name }</strong> hver gang du klikker på et link, der åbner din mail?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } i { -brand-short-name }</strong> er nu standard for at håndtere mails på din computer.
 
 ##
 
