@@ -4,7 +4,6 @@
 
 about-reader-loading = Lade…
 about-reader-load-error = Artikel fan side laden is mislearre
-
 about-reader-color-scheme-light = Ljocht
     .title = Kleureskema Ljocht
 about-reader-color-scheme-dark = Donker
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Sepia
     .title = Kleureskema Sepia
 about-reader-color-scheme-auto = Auto
     .title = Kleureskema Automatysk
-
+about-reader-color-theme-light = Ljocht
+    .title = Kleurtema Ljocht
+about-reader-color-theme-dark = Donker
+    .title = Kleurtema Donker
+about-reader-color-theme-sepia = Sepia
+    .title = Kleurtema Sepia
+about-reader-color-theme-auto = Auto
+    .title = Kleurtema Auto
+about-reader-color-theme-gray = Griis
+    .title = Kleurtema Griis
+about-reader-color-theme-contrast = Kontrast
+    .title = Kleurtema Kontrast
+about-reader-color-theme-custom = Oanpaste kleuren
+    .title = Kleurtema Oanpaste kleuren
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,4 +61,27 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Lêzerwerjefte slute
 about-reader-toolbar-type-controls = Lettertype-ynstellingen
+about-reader-toolbar-color-controls = Kleuren
 about-reader-toolbar-savetopocket = Bewarje yn { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Tema
+about-reader-fxtheme-tab = Standert
+about-reader-customtheme-tab = Oanpast
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Tekst
+    .title = Kleur bewurkje
+about-reader-custom-colors-background = Eftergrûn
+    .title = Kleur bewurkje
+about-reader-custom-colors-unvisited-links = Net-besochte keppelingen
+    .title = Kleur bewurkje
+about-reader-custom-colors-visited-links = Besochte keppelingen
+    .title = Kleur bewurkje
+about-reader-custom-colors-selection-highlight = Markearstift foar hurdop lêze
+    .title = Kleur bewurkje
+about-reader-custom-colors-reset-button = Standertynstellingen opnij ynstelle
