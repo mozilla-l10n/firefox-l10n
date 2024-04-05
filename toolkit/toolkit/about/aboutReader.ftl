@@ -4,7 +4,6 @@
 
 about-reader-loading = Indlæser…
 about-reader-load-error = Indlæsning af artikel fra side mislykkedes
-
 about-reader-color-scheme-light = Lys
     .title = Lyst farveskema
 about-reader-color-scheme-dark = Mørk
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Sepia
     .title = Sepia farveskema
 about-reader-color-scheme-auto = Auto
     .title = Automatisk farveskema
-
+about-reader-color-theme-light = Lys
+    .title = Lyst farvetema
+about-reader-color-theme-dark = Mørk
+    .title = Mørkt farvetema
+about-reader-color-theme-sepia = Sepia
+    .title = Sepia farvetema
+about-reader-color-theme-auto = Auto
+    .title = Automatisk farvetema
+about-reader-color-theme-gray = Grå
+    .title = Gråt farvetema
+about-reader-color-theme-contrast = Kontrast
+    .title = Kontrast farvetema
+about-reader-color-theme-custom = Tilpassede farver
+    .title = Tilpasset farvetema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,4 +61,24 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Luk læsevisning
 about-reader-toolbar-type-controls = Indstillinger
+about-reader-toolbar-color-controls = Farver
 about-reader-toolbar-savetopocket = Gem til { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Tema
+about-reader-fxtheme-tab = Standard
+about-reader-customtheme-tab = Tilpasset
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Tekst
+    .title = Rediger farve
+about-reader-custom-colors-background = Baggrund
+    .title = Rediger farve
+about-reader-custom-colors-unvisited-links = Ubesøgte links
+    .title = Rediger farve
+about-reader-custom-colors-visited-links = Besøgte links
+    .title = Rediger farve

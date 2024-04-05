@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = p
 text-action-search-text-box-clear =
     .title = Ryd
+text-action-highlight-selection =
+    .label = Fremhæv markering
