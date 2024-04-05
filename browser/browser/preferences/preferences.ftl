@@ -1113,6 +1113,23 @@ content-blocking-expand-section =
 content-blocking-cryptominers-label =
     .label = Kriptominētāji
     .accesskey = j
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Ciparnospiedumi
+    .accesskey = C
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Zināmi ciparnospiedumi
+    .accesskey = Z
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Varbūtēji ciparnospiedumi
+    .accesskey = s
 
 ## Privacy Section - Tracking
 
@@ -1125,6 +1142,10 @@ tracking-manage-exceptions =
 permissions-header = Atļaujas
 permissions-location = Atrašanās vieta
 permissions-location-settings =
+    .label = Iestatījumi…
+    .accesskey = t
+permissions-xr = Virtuālā realitāte
+permissions-xr-settings =
     .label = Iestatījumi…
     .accesskey = t
 permissions-camera = Kamera
