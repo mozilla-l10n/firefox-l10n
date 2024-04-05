@@ -43,6 +43,10 @@ contentanalysis-block-message = Din organisation bruger værktøj til forhindrin
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = En fejl opstod i kommunikationen med værktøjet til forhindring af datatab. Overførsel blev nægtet for ressourcen { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Kunne ikke verificere signaturen for { $agent }. Overførsel blev nægtet for ressourcen { $content }.
 contentanalysis-inprogress-quit-title = Afslut { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Flere handlinger er i gang. Hvis du afslutter { -brand-shorter-name }, vil disse handlinger ikke blive fuldført.
 contentanalysis-inprogress-quit-yesbutton = Ja, afslut
