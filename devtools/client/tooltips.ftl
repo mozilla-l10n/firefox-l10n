@@ -64,6 +64,7 @@ inactive-css-text-wrap-balance-fragmented = Nid yw <strong>{ $property }</strong
 ## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Ceisiwch ychwanegu <strong>display:grid</strong>, <strong>display:flex</strong> neu <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Ceisiwch ychwanegu naill ai <strong>display:grid</strong>, <strong>display:flex</strong>, neu <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Ceisiwch ychwanegu <strong>column-count</strong> neu <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Ceisiwch ychwanegu <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> neu <strong>display:inline-flex</strong> i riant yr elfen. { learn-more }
