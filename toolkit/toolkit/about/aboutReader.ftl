@@ -82,3 +82,4 @@ about-reader-custom-colors-unvisited-links = Ubesøgte links
     .title = Rediger farve
 about-reader-custom-colors-visited-links = Besøgte links
     .title = Rediger farve
+about-reader-custom-colors-reset-button = Nulstil til standard-indstillingerne
