@@ -70,16 +70,38 @@ protections-panel-content-blocking-fingerprinters-label = Ciparnospiedumi
 
 protections-panel-blocking-label = Bloķēts
 protections-panel-not-blocking-label = Atļauts
+protections-panel-not-found-label = Nav konstatēts
 
 ##
 
+protections-panel-settings-label = Aizsardzības iestatījumi
+protections-panel-protectionsdashboard-label = Aizsardzības informācijas panelis
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The header of the list
+protections-panel-site-not-working-view-header = Izslēdziet aizsardzību, ja rodas problēmas ar:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = Ierakstīšanās laukiem
+protections-panel-site-not-working-view-issue-list-forms = Veidlapām
+protections-panel-site-not-working-view-issue-list-payments = Maksājumiem
+protections-panel-site-not-working-view-issue-list-comments = Komentāriem
+protections-panel-site-not-working-view-issue-list-videos = Video
+protections-panel-site-not-working-view-issue-list-fonts = Fontiem
+protections-panel-site-not-working-view-send-report = Sūtīt ziņojumu
 
 ##
 
+protections-panel-cross-site-tracking-cookies = Šīs sīkdantes seko jums no vietnes uz vietni, lai ievāktu datus par to, ko jūs darāt tiešsaistē. Tos ievieto trešās puses, piemēram, reklāmdevēji un analītikas uzņēmumi.
+protections-panel-cryptominers = Kriptominētāji izmanto jūsu sistēmas skaitļošanas jaudu, lai iegūtu digitālo naudu. Kriptominētāju skripti iztukšo akumulatoru, palēnina datora darbību un var palielināt rēķinu par elektrību.
+protections-panel-fingerprinters = Ciparnospiedumi apkopo iestatījumus no jūsu pārlūkprogrammas un datora, lai izveidotu jūsu profilu. Izmantojot šo digitālo nospiedumu, viņi var izsekot jums dažādās vietnēs.
+protections-panel-tracking-content = Vietnes var ielādēt ārējās reklāmas, videoklipus un citu saturu ar izsekošanas kodu. Izsekošanas satura bloķēšana var palīdzēt vietnēm ielādēties ātrāk, taču dažas pogas, veidlapas un ierakstīšanās lauki var nedarboties.
+protections-panel-social-media-trackers = Sociālie tīkli izvieto izsekotājus citās vietnēs, lai sekotu līdzi tam, ko darāt, redzat un skatāties tiešsaistē. Tas ļauj sociālo mediju uzņēmumiem uzzināt vairāk par jums — ne tikai to, ar ko dalāties savos sociālo mediju profilos.
+protections-panel-description-shim-allowed = Daži tālāk atzīmētie izsekotāji šajā lapā ir daļēji atbloķēti, jo jūs ar tiem mijiedarbojāties.
+protections-panel-description-shim-allowed-learn-more = Uzzināt vairāk
+protections-panel-shim-allowed-indicator =
+    .tooltiptext = Izsekotājs ir daļēji atbloķēts
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
