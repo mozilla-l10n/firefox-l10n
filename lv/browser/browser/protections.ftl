@@ -31,6 +31,17 @@ protection-report-page-summary = { -brand-short-name } var aizsargāt jūsu priv
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } aizsargā jūsu privātumu pārlūkošanas aizkulisēs. Šis ir personalizēts šo aizsardzības līdzekļu kopsavilkums, tostarp rīki, lai kontrolētu jūsu tiešsaistes drošību.
 protection-report-settings-link = Pārvaldiet savus privātuma un drošības iestatījumus
+etp-card-title-always = Uzlabota aizsardzība pret izsekošanu: vienmēr ieslēgta
+etp-card-title-custom-not-blocking = Uzlabota aizsardzība pret izsekošanu: izslēgta
+etp-card-content-description = { -brand-short-name } automātiski neļauj uzņēmumiem jums slepeni sekot tīmeklī.
+protection-report-etp-card-content-custom-not-blocking = Visas aizsardzības pašlaik ir izslēgtas. Izvēlieties, kurus izsekotājus bloķēt, pārvaldot savus { -brand-short-name } aizsardzības iestatījumus.
+protection-report-manage-protections = Pārvaldīt iestatījumus
+# This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
+# capitalization for this string should match the output for your locale.
+graph-today = Šodien
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Diagramma, kurā ir norādīts katra šonedēļ bloķētā izsekotāja veida kopējais skaits.
+social-tab-title = Sociālo tīklu izsekotāji
 passwords-title-logged-in = Pārvaldiet jūsu paroles
 passwords-header-content = { -brand-product-name } droši glabā jūsu paroles jūsu pārlūkprogramma.
 lockwise-header-content-logged-in = Droši glabājiet un sinhronizējiet jūsu paroles visās savās ierīcēs.

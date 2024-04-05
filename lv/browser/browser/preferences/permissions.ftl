@@ -74,9 +74,9 @@ permissions-invalid-uri-label = Lūdzu, ievadiet derīgu resursdatora nosaukumu
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Izņēmumi uzlabotai izsekošanas aizsardzībai
+    .title = Izņēmumi uzlabotajai aizsardzībai pret izsekošanu
     .style = { permissions-window2.style }
-permissions-exceptions-manage-etp-desc = Varat norādīt, kurām vietnēm ir izslēgta uzlabotā izsekošanas aizsardzība. Ierakstiet precīzu tās vietnes adresi, kuru vēlaties pārvaldīt, un pēc tam spiediet uz “Pievienot izņēmumu”.
+permissions-exceptions-manage-etp-desc = Varat norādīt, kurām vietnēm ir izslēgta uzlabotā aizsardzība pret izsekošanu. Ierakstiet precīzu tās vietnes adresi, kuru vēlaties pārvaldīt, un pēc tam spiediet uz “Pievienot izņēmumu”.
 
 ## Exceptions - Cookies
 

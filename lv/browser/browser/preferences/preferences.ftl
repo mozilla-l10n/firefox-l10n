@@ -1110,7 +1110,7 @@ addressbar-quickactions-learn-more = Uzzināt vairāk
 
 ## Privacy Section - Content Blocking
 
-content-blocking-enhanced-tracking-protection = Uzlabota izsekošanas aizsardzība
+content-blocking-enhanced-tracking-protection = Uzlabota aizsardzība pret izsekošanu
 content-blocking-section-top-level-description = Izsekotāji seko jums tiešsaistē, lai apkopotu informāciju par jūsu pārlūkošanas paradumiem un interesēm. { -brand-short-name } bloķē daudzus no šiem izsekotājiem un citiem ļaunprātīgiem skriptiem.
 content-blocking-learn-more = Uzzināt vairāk
 content-blocking-fpi-incompatibility-warning = Jūs izmantojat First Party Isolation (FPI), kas ignorē dažus { -brand-short-name } sīkdatņu iestatījumus.
