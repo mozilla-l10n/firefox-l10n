@@ -102,9 +102,19 @@ protections-panel-description-shim-allowed = Daži tālāk atzīmētie izsekotā
 protections-panel-description-shim-allowed-learn-more = Uzzināt vairāk
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Izsekotājs ir daļēji atbloķēts
+protections-panel-content-blocking-manage-settings =
+    .label = Pārvaldīt aizsardzības iestatījumus
+    .accesskey = P
+protections-panel-content-blocking-breakage-report-view =
+    .title = Ziņot par bojātu vietni
+protections-panel-content-blocking-breakage-report-view-description = Dažu izsekotāju bloķēšana var radīt problēmas ar dažām vietnēm. Ziņošana par šīm problēmām palīdz padarīt { -brand-short-name } labāku ikvienam. Nosūtot šo ziņojumu, Mozilla tiks nosūtīts URL un informācija par jūsu pārlūkprogrammas iestatījumiem. <label data-l10n-name="learn-more">Uzziniet vairāk</label>
+protections-panel-content-blocking-breakage-report-view-description2 = Dažu izsekotāju bloķēšana var radīt problēmas ar dažām vietnēm. Ziņošana par šīm problēmām palīdz padarīt { -brand-short-name } labāku ikvienam. Nosūtot šo ziņojumu, { -vendor-short-name } tiks nosūtīts URL un informācija par jūsu pārlūkprogrammas iestatījumiem.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = Neobligāti: aprakstiet problēmu
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Neobligāti: aprakstiet problēmu
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Atcelt
 protections-panel-content-blocking-breakage-report-view-send-report =
@@ -112,6 +122,41 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-header = Sīkdatņu paziņojumu mazināšana
+protections-panel-cookie-banner-blocker-header = Sīkdatņu paziņojumu bloķētājs
+protections-panel-cookie-banner-handling-enabled = Ieslēgts šai vietnei
+protections-panel-cookie-banner-handling-disabled = Izslēgts šai vietnei
+protections-panel-cookie-banner-handling-undetected = Vietne pašlaik netiek atbalstīta
+protections-panel-cookie-banner-view-title =
+    .title = Sīkdatņu paziņojumu mazināšana
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = Vai izslēgt sīkdatņu paziņojumu mazinātāju vietnei { $host }?
+protections-panel-cookie-banner-view-turn-on-for-site = Vai izslēgt sīkdatņu paziņojumu mazinātāju šai vietnei?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Sīkdatņu paziņojumu bloķētājs
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Vai izslēgt sīkdatņu paziņojumu bloķētāju vietnei { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Vai izslēgt sīkdatņu paziņojumu bloķētāju šai vietnei?
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } notīrīs šīs vietnes sīkdatnes un atsvaidzinās lapu. Notīrot visas sīkdatnes, jūs varat tikt izrakstīts vai tiks iztukšoti iepirkumu grozi.
+protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } mēģina automātiski noraidīt visus sīkdatņu pieprasījumus atbalstītajās vietnēs.
+protections-panel-cookie-banner-view-cancel = Atcelt
+protections-panel-cookie-banner-view-turn-off = Izslēgt
+protections-panel-cookie-banner-view-turn-on = Ieslēgt
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ieslēdziet, un { -brand-short-name } mēģinās automātiski atteikt sīkdatņu paziņojumus šajā vietnē.
+protections-panel-cookie-banner-view-cancel-label =
+    .label = Atcelt
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Izslēgt
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Ieslēgt
+protections-panel-report-broken-site =
+    .label = Ziņot par salauztu vietni
+    .title = Ziņot par salauztu vietni
 
 ## Protections panel info message
 
+cfr-protections-panel-header = Pārlūkošana bez izsekošanas
+cfr-protections-panel-body = Paturiet savus datus pie sevis. { -brand-short-name } aizsargā jūs no daudziem visizplatītākajiem izsekotājiem, kas seko jūsu darbībām tiešsaistē.
+cfr-protections-panel-link-text = Uzzināt vairāk
