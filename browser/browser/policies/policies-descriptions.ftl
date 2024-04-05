@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Bloquer l’accès à la page about:support.
 policy-Bookmarks = Créer des marque-pages dans la Barre personnelle, le menu des marque-pages ou un de leurs sous-dossiers.
 policy-CaptivePortal = Permettre ou interdire la prise en charge des portails captifs.
 policy-CertificatesDescription = Ajouter des certificats ou utiliser des certificats prédéfinis.
+policy-ContentAnalysis = Activer ou désactiver la connexion à l’agent de protection contre la perte de données.
 policy-Cookies = Permettre ou interdire aux sites de définir des cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Définir des politiques relatives aux conteneurs.
@@ -124,6 +125,7 @@ policy-SSLVersionMax = Définir la version maximale de SSL à utiliser.
 policy-SSLVersionMin = Définir la version minimale de SSL à utiliser.
 policy-StartDownloadsInTempDirectory = Forcer les téléchargements à démarrer dans un emplacement temporaire local plutôt que dans le dossier de téléchargement par défaut.
 policy-SupportMenu = Ajouter une entrée personnalisée au menu d’aide pour l’assistance.
+policy-TranslateEnabled = Activer ou désactiver la traduction des pages web.
 policy-UserMessaging = Masquer certains messages à destination de l’utilisateur.
 policy-UseSystemPrintDialog = Imprimer en utilisant la boîte de dialogue système.
 # “format” refers to the format used for the value of this policy.
