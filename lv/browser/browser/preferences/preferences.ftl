@@ -1111,7 +1111,13 @@ addressbar-quickactions-learn-more = Uzzināt vairāk
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Uzlabota izsekošanas aizsardzība
+content-blocking-section-top-level-description = Izsekotāji seko jums tiešsaistē, lai apkopotu informāciju par jūsu pārlūkošanas paradumiem un interesēm. { -brand-short-name } bloķē daudzus no šiem izsekotājiem un citiem ļaunprātīgiem skriptiem.
 content-blocking-learn-more = Uzzināt vairāk
+content-blocking-fpi-incompatibility-warning = Jūs izmantojat First Party Isolation (FPI), kas ignorē dažus { -brand-short-name } sīkdatņu iestatījumus.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Jūs izmantojat funkciju Resist Fingerprinting (RFP), kas aizstāj dažus { -brand-short-name } pirkstu nospiedumu aizsardzības iestatījumus. Tas var izraisīt dažu vietņu darbības traucējumus.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1129,6 +1135,10 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = Līdzsvarots aizsardzībai un veiktspējai. Lapas tiks ielādētas kā parasti.
+content-blocking-etp-strict-desc = Spēcīgāka aizsardzība, bet var salauzt dažas vietnes vai saturu.
+content-blocking-etp-custom-desc = Izvēlieties, kurus izsekotājus un skriptus bloķēt.
+content-blocking-etp-blocking-desc = { -brand-short-name } bloķē sekojošo:
 content-blocking-private-windows = Izsekojošs saturs privātajos logos
 content-blocking-cross-site-cookies-in-all-windows2 = Starpvietņu sīkdatnes visos logos
 content-blocking-cross-site-tracking-cookies = Starpvietņu izsekošanas sīkdatnes
@@ -1328,9 +1338,20 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } nepietiek vietas 
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-header = Tikai-HTTPS režīms
+httpsonly-description = HTTPS nodrošina drošu, šifrētu savienojumu starp { -brand-short-name } un jūsu apmeklētajām vietnēm. Lielākā daļa vietņu atbalsta HTTPS, un, ja ir ieslēgts tikai-HTTPS režīms, { -brand-short-name } visi savienojumi tiks jaunināti uz HTTPS.
+httpsonly-learn-more = Uzzināt vairāk
+httpsonly-radio-enabled =
+    .label = Visos logos ieslēgt režīmu tikai-HTTPS
+httpsonly-radio-enabled-pbm =
+    .label = Ieslēgt tikai-HTTPS režīmu tikai privātajos logos
+httpsonly-radio-disabled =
+    .label = Neieslēgt režīmu tikai-HTTPS
 
 ## DoH Section
 
+preferences-doh-header = DNS caur HTTPS
+preferences-doh-description = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, nosūta jūsu domēna vārda pieprasījumu, izmantojot šifrētu savienojumu, izveidojot drošu DNS un neļauj citiem viegli redzēt, kurai vietnei jūs grasāties piekļūt.
 preferences-doh-description2 = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, nosūta jūsu domēna vārda pieprasījumu, izmantojot šifrētu savienojumu, nodrošinot drošu DNS un neļauj citiem viegli redzēt, kurai vietnei jūs grasāties piekļūt.
 # Variables:
 #   $status (string) - The status of the DoH connection
