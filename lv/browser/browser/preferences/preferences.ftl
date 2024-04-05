@@ -1074,10 +1074,22 @@ content-blocking-all-cookies = Visas sīkdatnes
 content-blocking-unvisited-cookies = Sīkdatnes no neapmeklētām vietnēm
 content-blocking-all-windows-tracking-content = Izsekojošs saturs visos logos
 content-blocking-all-cross-site-cookies = Visas starpvietņu sīkdatnes
+content-blocking-cryptominers = Kriptominētāji
+content-blocking-fingerprinters = Nospiedumi
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Zināmi un varbūtēji ciparu nospiedumi
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+# "Contains" here means "isolates", "limits".
+content-blocking-etp-standard-tcp-rollout-description = Totālā Sīkdatņu Aizsardzība neļauj sīkdatnēm izkļūt ārpus vietnes, kurā atrodaties, tāpēc izsekotāji nevar tos izmantot, lai sekotu jums starp vietnēm.
+content-blocking-etp-standard-tcp-rollout-learn-more = Uzzināt vairāk
+content-blocking-etp-standard-tcp-title = Ietver Totālu Sīkdatņu Aizsardzību, mūsu visu laiku spēcīgāko privātuma funkciju
 content-blocking-warning-title = Galvas augšu!
+content-blocking-and-isolating-etp-warning-description-2 = Šī iestatījuma dēļ dažas vietnes var nerādīt saturu vai nedarboties pareizi. Ja šķiet, ka vietne ir salauzta, iespējams, vēlēsities šai vietnei izslēgt izsekošanas aizsardzību, lai ielādētu visu saturu.
+content-blocking-warning-learn-how = Uzziniet kā
 content-blocking-tracking-protection-change-block-list = Mainīt bloķēto sarakstu
 content-blocking-cookies-label =
     .label = Sīkdatnes
