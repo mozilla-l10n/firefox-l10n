@@ -392,6 +392,10 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = Ko { -brand-short-name } vajadzētu darīt ar citām datnēm?
+applications-save-for-new-types =
+    .label = Saglabāt datnes
+    .accesskey = S
 drm-content-header = Digitālā satura tiesību pārvaldības (DRM) saturs
 play-drm-content =
     .label = Atskaņot DRM kontrolētu saturu
