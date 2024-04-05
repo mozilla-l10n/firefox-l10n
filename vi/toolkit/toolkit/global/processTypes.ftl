@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Nội dung Mozilla đặc quyền
 process-type-extension = Tiện ích mở rộng
 # process used to open file:// URLs
 process-type-file = Tập tin cục bộ
+# process used to instantiate new child processes
+process-type-forkserver = Fork máy chủ
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Nội dung web bị cô lập
