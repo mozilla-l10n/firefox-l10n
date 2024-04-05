@@ -23,3 +23,17 @@ default-bookmarks-firefox-customize = Pielāgo Firefox
 default-bookmarks-firefox-community = Iesaistieties
 # link title for https://www.mozilla.org/about/
 default-bookmarks-firefox-about = Par mums
+# Firefox Nightly links folder name
+default-bookmarks-nightly-heading = Firefox ik-nakts laidiena resursi
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+default-bookmarks-nightly-blog = Firefox ik-nakts laidiena emuārs
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+default-bookmarks-bugzilla = Mozilla kļūdu izsekotājs
+# Nightly builds only, link title for https://developer.mozilla.org/
+default-bookmarks-mdn = Mozilla izstrādātāju tīkls
+# Nightly builds only, link title for https://addons.mozilla.org/firefox/addon/nightly-tester-tools/
+default-bookmarks-nightly-tester-tools = Ik-nakts laidiena testēšanas rīki
+# Nightly builds only, link title for about:crashes
+default-bookmarks-crashes = Visas jūsu avārijas
+# Nightly builds only, link title for https://planet.mozilla.org/
+default-bookmarks-planet = Mozilla planēta
