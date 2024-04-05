@@ -1156,6 +1156,11 @@ permissions-microphone = Mikrofons
 permissions-microphone-settings =
     .label = Iestatījumi…
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Skaļruņu izvēle
+permissions-speaker-settings =
+    .label = Iestatījumi…
+    .accesskey = t
 permissions-notification = Paziņojumi
 permissions-notification-settings =
     .label = Iestatījumi…
@@ -1164,9 +1169,19 @@ permissions-notification-link = Uzzināt vairāk
 permissions-notification-pause =
     .label = Nerādīt paziņojumus līdz { -brand-short-name } pārstartēšanai
     .accesskey = a
+permissions-autoplay = Automātiskā atskaņošana
+permissions-autoplay-settings =
+    .label = Iestatījumi…
+    .accesskey = t
 permissions-block-popups =
     .label = Bloķēt jaunos logus
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Izņēmumi...
+    .accesskey = I
+    .searchkeywords = uzlecošie
 permissions-addon-install-warning =
     .label = Brīdināt mani, ja lapas mēģina instalēt papildinājumus
     .accesskey = B
@@ -1177,8 +1192,12 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } datu vākšana un izmantošana
+collection-header2 = { -brand-short-name } datu vākšana un izmantošana
+    .searchkeywords = telemetrija
 collection-description = Mēs cenšamies piedāvāt jums izvēles iespēju un vācam tikai tos datus, kas ir nepieciešami, lai uzlabotu { -brand-short-name }. Mēs vienmēr jautāsim atļauju pirms privātu datu ievākšanas.
 collection-privacy-notice = Privātuma piezīme
+collection-health-report-telemetry-disabled = Jūs vairs neļaujat { -vendor-short-name } uzņemt tehniskos un mijiedarbības datus. Visi iepriekšējie dati tiks dzēsti 30 dienu laikā.
+collection-health-report-telemetry-disabled-link = Uzzināt vairāk
 collection-health-report =
     .label = Atļaut { -brand-short-name } automātiski sūtīt tehnisku un mijiedarbību informāciju { -vendor-short-name }
     .accesskey = r
