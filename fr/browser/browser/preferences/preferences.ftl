@@ -572,6 +572,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Contenu exceptionnel sélectionné par { $provider }, membre de la famille { -brand-product-name }
 home-prefs-recommended-by-header-generic =
     .label = Articles recommandés
+home-prefs-recommended-by-description-generic = Contenu exceptionnel sélectionné par les membres de la gamme de produits { -brand-product-name }
 
 ##
 
