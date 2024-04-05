@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = Rapporteur de plantage de { -brand-short-name }
+crashreporter-apology = Nous sommes désolés
 crashreporter-crashed-and-restore = { -brand-short-name } a rencontré un problème et a planté. Nous essaierons de restaurer vos onglets et fenêtres lors du redémarrage.
 crashreporter-plea = Pour nous aider à diagnostiquer et corriger ce problème, vous pouvez nous envoyer un rapport de plantage.
 crashreporter-information = Cette application est exécutée après un plantage pour rapporter le problème survenu à { -vendor-short-name }. Elle ne doit pas être lancée directement.
