@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = Plus tard
 
 protocolhandler-mailto-handler-notificationbox-always = Toujours ouvrir les liens d’e-mails en utilisant { $url } ?
 protocolhandler-mailto-handler-yes-confirm = { $url } est désormais votre site par défaut pour ouvrir des liens d’envoi d’e-mails.
+protocolhandler-mailto-handler-set-message = Utiliser <strong>{ $url } dans { -brand-short-name }</strong> à chaque fois que vous cliquez sur un lien qui ouvre votre messagerie électronique ?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } dans { -brand-short-name }</strong> est désormais le gestionnaire de messagerie par défaut de votre ordinateur.
 
 ##
 

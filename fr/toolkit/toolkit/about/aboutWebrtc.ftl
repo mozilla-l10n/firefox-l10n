@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Les fichiers de journalisation 
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Actualisation automatique
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Actualisation automatique par défaut
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Actualiser
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = Enregistrer la page
 about-webrtc-debug-mode-msg-label = Mode débogage 
 about-webrtc-debug-mode-off-state-label = Démarrer le mode débogage
 about-webrtc-debug-mode-on-state-label = Arrêter le mode débogage
-about-webrtc-enable-logging-label = Activer la sélection de la journalisation WebRTC
 about-webrtc-stats-heading = Statistiques de session
+about-webrtc-enable-logging-label = Activer la sélection de la journalisation WebRTC
 about-webrtc-peerconnections-section-heading = Statistiques RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = Afficher les statistiques RTCPeerConnection
 about-webrtc-peerconnections-section-hide-msg = Masquer les statistiques RTCPeerConnection
@@ -197,10 +195,14 @@ about-webrtc-configuration-element-provided = Fourni
 about-webrtc-configuration-element-not-provided = Non fourni
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Préférences WebRTC définies par l’utilisateur ou l’utilisatrice
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = Configuration WebRTC modifiée par l’utilisateur
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
+about-webrtc-user-modified-configuration-show-msg = Afficher la configuration modifiée par l’utilisateur
+about-webrtc-user-modified-configuration-hide-msg = Masquer la configuration modifiée par l’utilisateur
 
 ##
 
