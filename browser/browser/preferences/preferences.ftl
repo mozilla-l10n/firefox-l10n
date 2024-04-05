@@ -1283,6 +1283,21 @@ preferences-doh-status-disabled = Izslēgts
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Nav aktīvs ({ $reason })
 preferences-doh-group-message = Ieslēgt drošo DNS, izmantojot:
+preferences-doh-group-message2 = Ieslēgt DNS caur HTTPS, izmantojot:
+preferences-doh-expand-section =
+    .tooltiptext = Papildu informācija
+preferences-doh-setting-default =
+    .label = Noklusējuma aizsardzība
+    .accesskey = N
+preferences-doh-default-desc = { -brand-short-name } nosaka, kad izmantot drošo DNS, lai aizsargātu jūsu privātumu.
+preferences-doh-default-detailed-desc-1 = Izmantot drošu DNS reģionos, kur tas ir pieejams
+preferences-doh-default-detailed-desc-2 = Izmantot savu noklusējuma DNS atrisinātāju, ja rodas problēma ar drošo DNS nodrošinātāju
+preferences-doh-default-detailed-desc-3 = Izmantot lokālo pakalpojuma sniedzēju, ja iespējams
+preferences-doh-default-detailed-desc-4 = Izslēgt, ja ir aktīvas VPN, vecāku kontroles vai uzņēmuma politikas
+preferences-doh-default-detailed-desc-5 = Izslēgt, kad tīkls norāda { -brand-short-name }, ka tam nevajadzētu izmantot drošo DNS
+preferences-doh-setting-enabled =
+    .label = Paaugstināta aizsardzība
+    .accesskey = i
 
 ## The following strings are used in the Download section of settings
 
