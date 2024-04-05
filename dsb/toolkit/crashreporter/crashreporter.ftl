@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = { -brand-short-name } - rozpšawjak wowalenjow
+crashreporter-apology = Jo nam luto
 crashreporter-crashed-and-restore = { -brand-short-name } jo měł problem a jo spadnuł. Wopytujomy waše rejtariki a wokno wótnowiś, gaž znowego startujo.
 crashreporter-plea = Aby nam pomagał problem diagnosticěrowaś a rozwězaś, móžośo nam rozpšawu wó wowalenju pósłaś.
 crashreporter-information = Toś to nałoženje jo pó wowalenju běžało, aby { -vendor-short-name } problem k wěsći dało. Njeby měło direktnje běžaś.
