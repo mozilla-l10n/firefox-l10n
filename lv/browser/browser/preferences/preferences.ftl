@@ -1064,6 +1064,16 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-private-windows = Izsekojošs saturs privātajos logos
+content-blocking-cross-site-cookies-in-all-windows2 = Starpvietņu sīkdatnes visos logos
+content-blocking-cross-site-tracking-cookies = Starpvietņu izsekošanas sīkdatnes
+content-blocking-all-cross-site-cookies-private-windows = Starpvietņu sīkdatnes privātajos logos
+content-blocking-cross-site-tracking-cookies-plus-isolate = Starpvietņu izsekošanas sīkdatnes un izolēt atlikušās sīkdatnes
+content-blocking-social-media-trackers = Sociālo mediju izsekotāji
+content-blocking-all-cookies = Visas sīkdatnes
+content-blocking-unvisited-cookies = Sīkdatnes no neapmeklētām vietnēm
+content-blocking-all-windows-tracking-content = Izsekojošs saturs visos logos
+content-blocking-all-cross-site-cookies = Visas starpvietņu sīkdatnes
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
