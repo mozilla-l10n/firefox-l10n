@@ -43,6 +43,18 @@ contentanalysis-block-message = Mae eich sefydliad yn defnyddio meddalwedd atal 
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Digwyddodd gwall wrth gyfathrebu â'r feddalwedd atal colli data. Gwrthodwyd trosglwyddo adnodd: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Bu gwall wrth gyfathrebu â { $agent }. Gwrthodwyd trosglwyddo adnodd: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Methu cysylltu â { $agent }. Gwrthodwyd trosglwyddo adnodd: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Methwyd â dilysu llofnod ar gyfer { $agent }. Gwrthodwyd trosglwyddo adnodd: { $content }.
 contentanalysis-inprogress-quit-title = Gadael { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Mae nifer o gamau gweithredu ar waith. Os byddwch yn gadael { -brand-shorter-name }, ni fydd y gweithredoedd hyn yn cael eu cwblhau.
 contentanalysis-inprogress-quit-yesbutton = Iawn, gadael

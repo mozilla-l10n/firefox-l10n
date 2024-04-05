@@ -448,3 +448,15 @@ pointing-device-mouse = Llygoden
 pointing-device-touchscreen = Sgrin Cyffwrdd
 pointing-device-pen-digitizer = Digidydd Pen
 pointing-device-none = Dim dyfeisiau pwyntio
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Dadansoddi Cynnwys (DLP)
+content-analysis-active = Gweithredol
+content-analysis-connected-to-agent = Wedi'i gysylltu â'r Asiant
+content-analysis-agent-path = Llwybr Asiant
+content-analysis-agent-failed-signature-verification = Methodd Dilysiad Llofnod yr Asiant
+content-analysis-request-count = Nifer y Ceisiadau
