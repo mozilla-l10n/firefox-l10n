@@ -29,6 +29,20 @@ crashreporter-button-ok = Iawn
 crashreporter-button-close = Cau
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Enw Chwalfa: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Gallwch weld manylion y chwalfa hon yn { $url }.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Wedi methu â rhedeg minidump-analyzer
+# $path (String) - the file path
+crashreporter-error-opening-file = Wedi methu agor ffeil ( { $path } )
+# $path (String) - the file path
+crashreporter-error-loading-file = Wedi methu llwytho ffeil ( { $path } )
+# $path (String) - the path
+crashreporter-error-creating-dir = Wedi methu creu cyfeiriadur ( { $path } )
+crashreporter-error-no-home-dir = Cyfeiriadur cartref coll
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Wedi methu symud { $from } i { $to }
+crashreporter-error-version-eol = Diwedd oes fersiwn: nid yw adroddiadau chwalu bellach yn cael eu derbyn.
