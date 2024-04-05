@@ -59,6 +59,15 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Farvenavne
 
+## Web Console section
+
+# The heading
+options-webconsole-label = Webkonsol
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Aktiver opdelt konsol
+options-webconsole-split-console-tooltip =
+    .title = Åbn opdelt konsol med Escape-tasten
+
 ## Style Editor section
 
 # The heading
