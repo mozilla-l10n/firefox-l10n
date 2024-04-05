@@ -40,7 +40,7 @@ crashreporter-error-opening-file = Wedi methu agor ffeil ( { $path } )
 # $path (String) - the file path
 crashreporter-error-loading-file = Wedi methu llwytho ffeil ( { $path } )
 # $path (String) - the path
-crashreporter-error-creating-dir = Wedi methu creu cyfeiriadur ( { $path } )
+crashreporter-error-creating-dir = Wedi methu â chreu cyfeiriadur ( { $path } )
 crashreporter-error-no-home-dir = Cyfeiriadur cartref coll
 # $from (String) - the source path
 # $to (String) - the destination path
