@@ -425,9 +425,23 @@ update-application-manual =
 update-application-background-enabled =
     .label = Kad { -brand-short-name } nav palaists
     .accesskey = K
+update-application-warning-cross-user-setting = Šis iestatījums attieksies uz visiem Windows kontiem un { -brand-short-name } profiliem, kuri izmanto šo { -brand-short-name } instalāciju.
 update-application-use-service =
     .label = Instalēt atjauninājumus fonā
     .accesskey = f
+update-application-suppress-prompts =
+    .label = Rādīt mazāk atjauninājumu paziņojumu uzvedņu
+    .accesskey = p
+update-setting-write-failure-title2 = Radās kļūda, saglabājot atjaunināšanas iestatījumus
+# Variables:
+#   $path (string) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } radās kļūda un šīs izmaiņas netika saglabātas. Ņemiet vērā, ka mainot atjaunināšanas iestatījumus, ir nepieciešamas tiesības rakstīt zemāk esošajā datnē. Iespējams, jūs vai jūsu sistēmas administrators varēs novērst šo kļūdu, piešķirot grupai “Lietotājs” pilnu kontroli pār šo datni.
+    
+    Neizdevās rakstīt datnē: { $path }
+update-in-progress-title = Atjaunina
 
 ## General Section - Performance
 
