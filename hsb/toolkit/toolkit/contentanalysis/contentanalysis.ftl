@@ -47,6 +47,14 @@ contentanalysis-error-message = Při komunikaciji ze software přećiwo straće 
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-unspecified-error-message = Při komunikaciji z { $agent } je zmylk nastał. Přenjesenje je so za resursu wotpokazało: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Njeje móžno z { $agent } zwjazać. Přenošowanje je so za resursu wotpokazało: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Přepruwowanje signatury za { $agent } njeje so poradźiło. Přenošowanje je so za resursu wotpokazało: { $content }.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } wopušćić?
 contentanalysis-inprogress-quit-message = Někotre akcije so wuwjedu. Jeli { -brand-shorter-name } kónčiće, so tute akcije njedokónča.
 contentanalysis-inprogress-quit-yesbutton = Haj, wopušćić
