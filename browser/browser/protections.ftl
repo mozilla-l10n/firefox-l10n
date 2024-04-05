@@ -194,3 +194,27 @@ bar-tooltip-cookie =
             [one] { $count } starpvietņu izsekošanas sīkdatnes ({ $percentage }%)
            *[other] { $count } starpvietņu izsekošanas sīkdatņu ({ $percentage }%)
         }
+bar-tooltip-tracker =
+    .title = Izsekošanas saturs
+    .aria-label =
+        { $count ->
+            [zero] { $count } izsekošanas satura vienība ({ $percentage }%)
+            [one] { $count } izsekošanas satura vienības ({ $percentage }%)
+           *[other] { $count } izsekošanas satura vienību ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Ciparnospiedumi
+    .aria-label =
+        { $count ->
+            [zero] { $count } ciparnospiedums ({ $percentage }%)
+            [one] { $count } ciparnospiedumi ({ $percentage }%)
+           *[other] { $count } ciparnospiedumu  ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Kriptominētāji
+    .aria-label =
+        { $count ->
+            [zero] { $count } kriptominētājs ({ $percentage }%)
+            [one] { $count } kriptominētāji ({ $percentage }%)
+           *[other] { $count } kriptominētāju ({ $percentage }%)
+        }
