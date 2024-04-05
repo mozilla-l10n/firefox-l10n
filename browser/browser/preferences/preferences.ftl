@@ -1205,9 +1205,22 @@ collection-health-report-link = Uzzināt vairāk
 collection-studies =
     .label = Ļaut { -brand-short-name } instalēt un palaist pētījumus
 collection-studies-link = Aplūkot { -brand-short-name } pētījumus
+addon-recommendations =
+    .label = Ļaut { -brand-short-name } sniegt personalizētus paplašinājumu ieteikumus
+addon-recommendations-link = Uzzināt vairāk
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datu ziņošana ir atspējota šajā būvējuma konfigurācija
+collection-backlogged-crash-reports-with-link = Atļaut { -brand-short-name } jūsu vārdā sūtīt uzkrātos avāriju pārskatus. <a data-l10n-name="crash-reports-link">Uzzināt vairāk</a>.
+    .accesskey = A
+collection-backlogged-crash-reports = Atļaut { -brand-short-name } sūtīt uzkrātos avāriju ziņojumus jūsu vārdā
+    .accesskey = A
+privacy-segmentation-section-header = Jaunas funkcijas, kas uzlabo jūsu pārlūkošanu
+privacy-segmentation-section-description = Kad mēs piedāvājam funkcijas, kas izmanto jūsu datus, lai sniegtu jums personiskāku pieredzi:
+privacy-segmentation-radio-off =
+    .label = Izmantot { -brand-product-name } ieteikumus
+privacy-segmentation-radio-on =
+    .label = Rādīt detalizētu informāciju
 
 ## Privacy Section - Security
 ##
@@ -1239,6 +1252,12 @@ certs-view =
 certs-devices =
     .label = Drošības ierīces…
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = Ļaut { -brand-short-name } automātiski uzticēties instalētajiem trešās puses saknes sertifikātiem
+    .accesskey = t
+space-alert-over-5gb-settings-button =
+    .label = Atvērt iestatījumus
+    .accesskey = A
 
 ## Privacy Section - HTTPS-Only
 
