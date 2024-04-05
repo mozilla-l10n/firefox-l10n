@@ -42,6 +42,8 @@ graph-today = Šodien
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Diagramma, kurā ir norādīts katra šonedēļ bloķētā izsekotāja veida kopējais skaits.
 social-tab-title = Sociālo tīklu izsekotāji
+social-tab-contant = Sociālie tīkli izvieto izsekotājus citās vietnēs, lai sekotu līdzi tam, ko darāt, redzat un skatāties tiešsaistē. Tas ļauj sociālo mediju uzņēmumiem uzzināt vairāk par jums — ne tikai to, ar ko dalāties savos sociālo mediju profilos. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
+cookie-tab-title = Starpvietņu izsekošanas sīkdatnes
 passwords-title-logged-in = Pārvaldiet jūsu paroles
 passwords-header-content = { -brand-product-name } droši glabā jūsu paroles jūsu pārlūkprogramma.
 lockwise-header-content-logged-in = Droši glabājiet un sinhronizējiet jūsu paroles visās savās ierīcēs.
