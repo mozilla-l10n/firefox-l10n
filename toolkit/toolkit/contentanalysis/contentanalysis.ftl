@@ -43,6 +43,18 @@ contentanalysis-block-message = Jo organisaasje brûkt software foar foarkommen 
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Der is in flater bard by de kommunikaasje mei de software foar foarkommen fan gegevensferlies. Oerdracht wegere foar boarne: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Der is in flater bard by de kommunikaasje mei { $agent }. Oerdracht wegere foar boarne: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Kin gjin ferbining meitsje mei { $agent }. Oerdracht wegere foar boarne: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Undertekeningsferifikaaasje foar { $agent } mislearre.  Oerdracht wegere foar boarne: { $content }.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } ôfslute?
 contentanalysis-inprogress-quit-message = Der binne ferskate aksjes yn útfiering. As jo { -brand-shorter-name } ôfslute, wurde dizze aksjes net foltôge.
 contentanalysis-inprogress-quit-yesbutton = Ja, ôfslute
