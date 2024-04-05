@@ -442,6 +442,11 @@ update-setting-write-failure-message2 =
     
     Neizdevās rakstīt datnē: { $path }
 update-in-progress-title = Atjaunina
+update-in-progress-message = Vai vēlaties, lai { -brand-short-name } turpina atjaunināt?
+update-in-progress-ok-button = &Atmest
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Turpināt
 
 ## General Section - Performance
 
@@ -472,18 +477,38 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Lietot plūdeno ritināšanu
     .accesskey = l
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Vienmēr rādīt ritjoslas
+    .accesskey = o
+browsing-always-underline-links =
+    .label = Vienmēr pasvītrot saites
+    .accesskey = v
 browsing-use-onscreen-keyboard =
     .label = Rādīt skārientastatūru, kad nepieciešams
     .accesskey = c
 browsing-use-cursor-navigation =
     .label = Vienmēr izmantot kursora taustiņus, lai pārvietotos pa lapām
     .accesskey = k
+browsing-use-full-keyboard-navigation =
+    .label = Izmantot tabulēšanas taustiņu, lai pārvietotu fokusu starp veidlapas vadīklām un saitēm
+    .accesskey = t
 browsing-search-on-start-typing =
     .label = Meklēt rakstīto tekstu, kolīdz es sāku rakstīt
     .accesskey = m
+browsing-picture-in-picture-toggle-enabled =
+    .label = Ieslēgt attēls-attēlā video vadīklas
+    .accesskey = e
+browsing-picture-in-picture-learn-more = Uzzināt vairāk
+browsing-media-control =
+    .label = Kontrolēt multividi ar tastatūru, austiņām vai virtuālo saskarni
+    .accesskey = v
+browsing-media-control-learn-more = Uzzināt vairāk
 browsing-cfr-recommendations =
     .label = Ieteikt papildinājumus pārlūkojot
     .accesskey = r
+browsing-cfr-features =
+    .label = Ieteikt funkcijas pārlūkošanas laikā
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Uzzināt vairāk
 
 ## General Section - Proxy
@@ -532,14 +557,25 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header2 = { -firefox-home-brand-name } saturs
+home-prefs-content-description2 = Izvēlieties, kādu saturu vēlaties rādīt savā { -firefox-home-brand-name } ekrānā.
 home-prefs-search-header =
     .label = Tīmekļa meklēšana
+home-prefs-shortcuts-header =
+    .label = Saīsnes
+home-prefs-shortcuts-description = Vietnes, kuras saglabājat vai apmeklējat
+home-prefs-shortcuts-by-option-sponsored =
+    .label = Sponsorētās saīsnes
 
 ## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
 
 home-prefs-recommended-by-header =
     .label = Iesaka { $provider }
+home-prefs-recommended-by-description-new = Izcils saturs, ko atlasījis { $provider }, kas ir daļa no { -brand-product-name } saimes
+home-prefs-recommended-by-header-generic =
+    .label = Ieteiktie stāsti
+home-prefs-recommended-by-description-generic = Izcils saturs, ko atlasa { -brand-product-name } saime
 
 ##
 
@@ -870,6 +906,16 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Saglabātās paroles…
     .accesskey = l
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Automātiski aizpildīt lietotājvārdus un paroles
+    .accesskey = A
+forms-saved-passwords =
+    .label = Saglabātās paroles
+    .accesskey = g
+forms-primary-pw-use =
+    .label = Lietot galveno paroli
+    .accesskey = L
 forms-primary-pw-learn-more-link = Uzzināt vairāk
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -877,14 +923,35 @@ forms-primary-pw-learn-more-link = Uzzināt vairāk
 forms-master-pw-change =
     .label = Nomainīt galveno paroli...
     .accesskey = m
+forms-primary-pw-change =
+    .label = Mainīt galveno paroli…
+    .accesskey = p
+# Leave this message empty if the translation for "Primary Password" matches
+# "Master Password" in your language. If you're editing the FTL file directly,
+# use { "" } as the value.
+forms-primary-pw-former-name = { "" }
+forms-primary-pw-fips-title = Šobrīd jūs esat FIPS režīmā. FIPS pieprasa netukšu galveno paroli.
 forms-master-pw-fips-desc = Paroles maiņa neizdevās
+forms-windows-sso =
+    .label = Atļaut Windows vienreizējo ierakstīšanos Microsoft, darba un mācību iestādes kontiem.
 forms-windows-sso-learn-more-link = Uzzināt vairāk
+forms-windows-sso-desc = Pārvaldiet kontus savas ierīces iestatījumos
+windows-passkey-settings-label = Pārvaldiet piekļuves atslēgas sistēmas iestatījumos
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Primary Password.
+primary-password-os-auth-dialog-message-win = Lai izveidotu galveno paroli, ievadiet Windows pieteikšanās akreditācijas datus. Tas palīdz aizsargāt jūsu kontu drošību.
+# This message can be seen by trying to add a Primary Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+primary-password-os-auth-dialog-message-macosx = izveidot galveno paroli
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Automātiskā aizpilde
 
 ## Privacy Section - History
 
