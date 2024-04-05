@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = Oznamovateľ zlyhania { -brand-short-name(case: "gen") }
+crashreporter-apology = Ospravedlňujeme sa!
 crashreporter-crashed-and-restore = { -brand-short-name } sa stretol s neočakávaným problémom a zlyhal. Po reštartovaní sa pokúsime obnoviť vaše karty a okná.
 crashreporter-plea = Ak nám chcete pomôcť diagnostikovať a vyriešiť problém, môžete nám odoslať správu o zlyhaní.
 crashreporter-information = Táto aplikácia sa spúšťa po zlyhaní za účelom nahlásenia problému { -vendor-short-name(case: "dat") }. Nemala by sa spúšťať priamo.

@@ -4,7 +4,6 @@
 
 about-reader-loading = Načítava sa…
 about-reader-load-error = Článok sa zo stránky nepodarilo načítať
-
 about-reader-color-scheme-light = Svetlá
     .title = Svetlá farebná schéma
 about-reader-color-scheme-dark = Tmavá
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Sépia
     .title = Farebná schéma sépia
 about-reader-color-scheme-auto = Automatická
     .title = Automatická farebná schéma
-
+about-reader-color-theme-light = Svetlá
+    .title = Svetlá téma vzhľadu
+about-reader-color-theme-dark = Tmavá
+    .title = Tmavá téma vzhľadu
+about-reader-color-theme-sepia = Sépia
+    .title = Téma vzhľadu Sépia
+about-reader-color-theme-auto = Automatická
+    .title = Automatická téma vzhľadu
+about-reader-color-theme-gray = Sivá
+    .title = Sivá téma vzhľadu
+about-reader-color-theme-contrast = Kontrastná
+    .title = Kontrastná téma vzhľadu
+about-reader-color-theme-custom = Vlastné farby
+    .title = Vlastná téma vzhľadu
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -50,4 +62,27 @@ about-reader-font-type-sans-serif = Bezpätkové
 
 about-reader-toolbar-close = Zavrieť zobrazenie Čítačka
 about-reader-toolbar-type-controls = Nastavenie vzhľadu
+about-reader-toolbar-color-controls = Farby
 about-reader-toolbar-savetopocket = Uložiť do služby { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Téma vzhľadu
+about-reader-fxtheme-tab = Predvolená
+about-reader-customtheme-tab = Vlastná
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Text
+    .title = Úprava farby
+about-reader-custom-colors-background = Pozadie
+    .title = Úprava farby
+about-reader-custom-colors-unvisited-links = Nenavštívené odkazy
+    .title = Úprava farby
+about-reader-custom-colors-visited-links = Navštívené odkazy
+    .title = Úprava farby
+about-reader-custom-colors-selection-highlight = Zvýrazňovač na čítanie nahlas
+    .title = Úprava farby
+about-reader-custom-colors-reset-button = Použiť predvolené
