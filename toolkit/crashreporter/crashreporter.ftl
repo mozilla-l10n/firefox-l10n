@@ -36,13 +36,13 @@ crashreporter-crash-details = Gallwch weld manylion y chwalfa hon yn { $url }.
 
 crashreporter-error-minidump-analyzer = Wedi methu â rhedeg minidump-analyzer
 # $path (String) - the file path
-crashreporter-error-opening-file = Wedi methu agor ffeil ( { $path } )
+crashreporter-error-opening-file = Wedi methu ac agor ffeil ( { $path } )
 # $path (String) - the file path
-crashreporter-error-loading-file = Wedi methu llwytho ffeil ( { $path } )
+crashreporter-error-loading-file = Wedi methu â llwytho ffeil ( { $path } )
 # $path (String) - the path
 crashreporter-error-creating-dir = Wedi methu â chreu cyfeiriadur ( { $path } )
 crashreporter-error-no-home-dir = Cyfeiriadur cartref coll
 # $from (String) - the source path
 # $to (String) - the destination path
-crashreporter-error-moving-path = Wedi methu symud { $from } i { $to }
+crashreporter-error-moving-path = Wedi methu â symud { $from } i { $to }
 crashreporter-error-version-eol = Diwedd oes fersiwn: nid yw adroddiadau chwalu bellach yn cael eu derbyn.
