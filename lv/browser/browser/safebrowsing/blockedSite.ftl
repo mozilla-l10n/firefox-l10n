@@ -10,6 +10,8 @@ safeb-blocked-phishing-page-short-desc = { -brand-short-name } bloķēja šo lap
 safeb-blocked-malware-page-short-desc = { -brand-short-name } bloķēja šo lapu, jo tā var mēģināt instalēt kaitniecisku programmatūru, kas var zagt jūsu privāto informāciju.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } bloķēja šo lapu, jo tā var iemānīt jums kaitniecisku programmatūru (piemēram tādu, kas maina mājas lapu saturu un rāda reklāmas).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } bloķēja šo lapu, jo tā var mēģināt instalēt bīstamu programmatūru, kas zog jūsu privātos datus (piemēram foto, paroles vai kredītkaršu informāciju).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Ieteikumus nodrošina <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Iet atpakaļ
 safeb-palm-see-details-label = Sīkāka informācija
@@ -27,7 +29,12 @@ safeb-blocked-phishing-page-learn-more = Uzziniet vairāk par maldinošām krāp
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+safeb-blocked-malware-page-error-desc-override-sumo = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņemti <a data-l10n-name='error_desc_link'>ziņojumi, ka tajā ir ļaunatūra</a>. Jūs varat <a data-l10n-name='ignore_warning_link'>ignorēt šo brīdinājumu</a> un iet uz nedrošo lapu.
+safeb-blocked-malware-page-error-desc-no-override-sumo = Par lapu <span data-l10n-name='sitename'>{ $sitename }</span> ir saņemti <a data-l10n-name='error_desc_link'>ziņojumi, ka tajā ir ļaunatūra</a>.
+
 ##
+
+safeb-blocked-malware-page-learn-more-sumo = Uzziniet vairāk par { -brand-short-name } bīstamās programmatūras aizsardzību <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
