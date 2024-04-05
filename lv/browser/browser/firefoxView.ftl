@@ -154,7 +154,7 @@ firefoxview-show-more = Rādīt vairāk
 firefoxview-show-less = Rādīt mazāk
 firefoxview-show-all = Rādīt visu
 firefoxview-search-text-box-clear-button =
-    .title = Attīrīt
+    .title = Notīrīt
 # Placeholder for the input field to search in recent browsing ("search" is a verb).
 firefoxview-search-text-box-recentbrowsing =
     .placeholder = Meklēt
