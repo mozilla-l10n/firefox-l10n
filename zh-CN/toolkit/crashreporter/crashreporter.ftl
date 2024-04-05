@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = { -brand-short-name } 崩溃报告器
+crashreporter-apology = 很抱歉
 crashreporter-crashed-and-restore = { -brand-short-name } 遇到问题并崩溃了。我们将尝试在它重新启动时恢复您的标签页和窗口。
 crashreporter-plea = 您可以发送给我们一个崩溃报告，以协助我们诊断并修正该问题。
 crashreporter-information = 此应用程序会在发生崩溃后运行并向 { -vendor-short-name } 报告相应问题，无法被直接运行。

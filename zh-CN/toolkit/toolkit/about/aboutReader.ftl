@@ -4,7 +4,6 @@
 
 about-reader-loading = 正在加载…
 about-reader-load-error = 从页面加载文章失败
-
 about-reader-color-scheme-light = 浅色
     .title = 浅色模式
 about-reader-color-scheme-dark = 深色
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = 纸墨
     .title = 纸墨模式
 about-reader-color-scheme-auto = 自动
     .title = 自动颜色模式
-
+about-reader-color-theme-light = 明亮
+    .title = 明亮颜色主题
+about-reader-color-theme-dark = 深邃
+    .title = 深邃颜色主题
+about-reader-color-theme-sepia = 纸墨
+    .title = 纸墨颜色主题
+about-reader-color-theme-auto = 自动
+    .title = 自动颜色主题
+about-reader-color-theme-gray = 灰暗
+    .title = 灰暗颜色主题
+about-reader-color-theme-contrast = 对比度
+    .title = 对比度颜色主题
+about-reader-color-theme-custom = 自定义颜色
+    .title = 自定义颜色主题
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -45,4 +57,27 @@ about-reader-font-type-sans-serif = 无衬线
 
 about-reader-toolbar-close = 关闭阅读模式
 about-reader-toolbar-type-controls = 字体调整
+about-reader-toolbar-color-controls = 颜色
 about-reader-toolbar-savetopocket = 保存到 { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = 主题
+about-reader-fxtheme-tab = 默认
+about-reader-customtheme-tab = 自定义
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = 文本
+    .title = 编辑颜色
+about-reader-custom-colors-background = 背景
+    .title = 编辑颜色
+about-reader-custom-colors-unvisited-links = 未访问过的链接
+    .title = 编辑颜色
+about-reader-custom-colors-visited-links = 访问过的链接
+    .title = 编辑颜色
+about-reader-custom-colors-selection-highlight = 朗读功能的高亮标示
+    .title = 编辑颜色
+about-reader-custom-colors-reset-button = 重置为默认设置
