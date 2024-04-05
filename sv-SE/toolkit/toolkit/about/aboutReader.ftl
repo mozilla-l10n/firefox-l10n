@@ -13,19 +13,19 @@ about-reader-color-scheme-sepia = Sepia
 about-reader-color-scheme-auto = Auto
     .title = Färgschema automatiskt
 about-reader-color-theme-light = Ljust
-    .title = Ljust färgtema
+    .title = Färgtema ljust
 about-reader-color-theme-dark = Mörkt
-    .title = Mörkt färgtema
+    .title = Färgtema mörkt
 about-reader-color-theme-sepia = Sepia
-    .title = Sepia färgtema
-about-reader-color-theme-auto = Auto
-    .title = Auto färgtema
+    .title = Färgtema sepia
+about-reader-color-theme-auto = Automatisk
+    .title = Färgtema automatisk
 about-reader-color-theme-gray = Grått
-    .title = Grått färgtema
+    .title = Färgtema grått
 about-reader-color-theme-contrast = Kontrast
-    .title = Kontrast färgtema
+    .title = Färgtema kontrast
 about-reader-color-theme-custom = Anpassade färger
-    .title = Anpassat färgtema
+    .title = Färgtema anpassat
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
