@@ -1070,6 +1070,8 @@ cookie-banner-blocker-description = Kad vietne jautā, vai tā var izmantot sīk
 cookie-banner-learn-more = Uzzināt vairāk
 forms-handle-cookie-banners =
     .label = Samaziniet sīkdatņu paziņojumu skaitu
+cookie-banner-blocker-checkbox-label =
+    .label = Automātiski atteikt sīkdatņu paziņojumus
 
 ## Privacy Section - Address Bar
 
@@ -1081,13 +1083,34 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Grāmatzīmes
     .accesskey = m
+addressbar-locbar-clipboard-option =
+    .label = Starpliktuve
+    .accesskey = k
 addressbar-locbar-openpage-option =
     .label = Atvērtās cilnes
     .accesskey = t
+# Shortcuts refers to the shortcut tiles on the new tab page, previously known as top sites. Translation should be consistent.
+addressbar-locbar-shortcuts-option =
+    .label = Saīsnes
+    .accesskey = S
+addressbar-locbar-topsites-option =
+    .label = Populārākās vietnes
+    .accesskey = P
+addressbar-locbar-engines-option =
+    .label = Meklētāji
+    .accesskey = M
+addressbar-locbar-quickactions-option =
+    .label = Ātrās darbības
+    .accesskey = r
 addressbar-suggestions-settings = Izmainiet meklētāju iestatījumus
+addressbar-locbar-showrecentsearches-option =
+    .label = Rādīt nesen meklēto
+    .accesskey = d
+addressbar-quickactions-learn-more = Uzzināt vairāk
 
 ## Privacy Section - Content Blocking
 
+content-blocking-enhanced-tracking-protection = Uzlabota izsekošanas aizsardzība
 content-blocking-learn-more = Uzzināt vairāk
 
 ## These strings are used to define the different levels of
