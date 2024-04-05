@@ -5,36 +5,26 @@
 translation-window2 =
     .title = Tulkošanas izņēmumi
     .style = min-width: 36em
-
 translation-close-key =
     .key = w
-
-translation-languages-disabled-desc = Tulkošana netiks piedāvāta sekojošām valodām
-
+translation-languages-disabled-desc = Tulkošana netiks piedāvāta šīm valodām
 translation-languages-column =
     .label = Valodas
-
 translation-languages-button-remove =
-    .label = Aizvākt valodu
+    .label = Izņemt valodu
     .accesskey = z
-
 translation-languages-button-remove-all =
-    .label = Aizvākt visas valodas
+    .label = Izņemt visas valodas
     .accesskey = v
-
-translation-sites-disabled-desc = Tulkošana netiks piedāvāta sekojošām lapām
-
+translation-sites-disabled-desc = Tulkošana netiks piedāvāta šīm vietnēm
 translation-sites-column =
-    .label = Mājas lapas
-
+    .label = Tīmekļa vietnes
 translation-sites-button-remove =
-    .label = Aizvākt lapu
-    .accesskey = l
-
+    .label = Izņemt vietni
+    .accesskey = v
 translation-sites-button-remove-all =
-    .label = Aizvākt visas lapas
-    .accesskey = i
-
+    .label = Izņemt visas vietnes
+    .accesskey = I
 translation-dialog =
     .buttonlabelaccept = Aizvērt
     .buttonaccesskeyaccept = A
