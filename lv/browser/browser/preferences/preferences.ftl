@@ -1090,10 +1090,29 @@ content-blocking-etp-standard-tcp-title = Ietver Totālu Sīkdatņu Aizsardzību
 content-blocking-warning-title = Galvas augšu!
 content-blocking-and-isolating-etp-warning-description-2 = Šī iestatījuma dēļ dažas vietnes var nerādīt saturu vai nedarboties pareizi. Ja šķiet, ka vietne ir salauzta, iespējams, vēlēsities šai vietnei izslēgt izsekošanas aizsardzību, lai ielādētu visu saturu.
 content-blocking-warning-learn-how = Uzziniet kā
+content-blocking-reload-description = Lai šīs izmaiņas stātos spēkā, jums būs jāpārlādē cilnes.
+content-blocking-reload-tabs-button =
+    .label = Pārlādēt visas cilnes
+    .accesskey = r
+content-blocking-tracking-content-label =
+    .label = Izsekojošs saturs
+    .accesskey = I
+content-blocking-tracking-protection-option-all-windows =
+    .label = Visos logos
+    .accesskey = V
+content-blocking-option-private =
+    .label = Tikai privātajos logos
+    .accesskey = p
 content-blocking-tracking-protection-change-block-list = Mainīt bloķēto sarakstu
 content-blocking-cookies-label =
     .label = Sīkdatnes
     .accesskey = S
+content-blocking-expand-section =
+    .tooltiptext = Papildu informācija
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Kriptominētāji
+    .accesskey = j
 
 ## Privacy Section - Tracking
 
