@@ -77,13 +77,13 @@ about-reader-customtheme-tab = Swójski
 ## clear and give context for screen reader users.
 
 about-reader-custom-colors-foreground = Tekst
-    .title = Wobdźěłanska barba
+    .title = Barbu wobdźěłać
 about-reader-custom-colors-background = Pozadk
     .title = Wobdźěłanska barba
 about-reader-custom-colors-unvisited-links = Njewopytane wotkazy
     .title = Wobdźěłanska barba
 about-reader-custom-colors-visited-links = Wopytane wotkazy
     .title = Wobdźěłanska barba
-about-reader-custom-colors-selection-highlight = Za wótře čitać wuzběhnyć
-    .title = Wobdźěłanska barba
-about-reader-custom-colors-reset-button = Standardy wróćo stajić
+about-reader-custom-colors-selection-highlight = Tekstowy marker za wótře čitać
+    .title = Barbu wobdźěłać
+about-reader-custom-colors-reset-button = Na standard wróćo stajić
