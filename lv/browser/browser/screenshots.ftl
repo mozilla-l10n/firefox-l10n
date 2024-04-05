@@ -43,3 +43,6 @@ screenshots-empty-selection-error-title = Jūsu atlase ir pārāk maza
 screenshots-private-window-error-title = Privātās pārlūkošanas režīmā { -screenshots-brand-name } ir izslēgts
 screenshots-private-window-error-details = Atvainojamies par sagādātajām neērtībām. Mēs strādājam pie šīs funkcijas turpmākajiem laidieniem.
 screenshots-generic-error-title = Opā! { -screenshots-brand-name } sagāja grīstē.
+screenshots-generic-error-details = Mēs īsti nezinām, kas tikko notika. Vai vēlaties mēģināt vēlreiz vai nofotografēt citu lapu?
+screenshots-too-large-error-title = Jūsu ekrānuzņēmums tika apgriezts, jo tas bija pārāk liels
+screenshots-too-large-error-details = Mēģiniet atlasīt reģionu, kura garākā mala ir mazāka par 32 700 pikseļiem vai 124 900 000 pikseļu kopējā platība.
