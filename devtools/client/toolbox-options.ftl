@@ -59,6 +59,15 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Назвы колераў
 
+## Web Console section
+
+# The heading
+options-webconsole-label = Кансоль Сеціва
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Уключыць падзеленую кансоль
+options-webconsole-split-console-tooltip =
+    .title = Адкрываць падзеленую кансоль з дапамогай клавішы Esc
+
 ## Style Editor section
 
 # The heading
