@@ -396,6 +396,11 @@ about-logins-import-dialog-items-modified2 =
         [one] <span>Eksisterande element oppdatert:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Eksisterande element oppdatert:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Duplikat element funne:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikkje importert)</span >
+       *[other] <span>Duplikate element funne:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikkje importert)</span >
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Feil:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ikkje importerte)</span>
