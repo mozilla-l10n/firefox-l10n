@@ -168,6 +168,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = گھٹ اوور ہیڈ دے نال، زیادہ تر ویب ایپ ڈیبگنگ کیتے تجویز کردہ اوور ہیڈ۔
 profiler-popup-presets-web-developer-label =
     .label = ویب تکمیل کار
@@ -257,3 +262,8 @@ appmenu-developer-tools-extensions =
     .label = ڈیویلپرز کیتے توسیع
 appmenuitem-report-broken-site =
     .label = ترٹی ہوئی سائٹ دی رپورٹ کرو
+
+## Panel for privacy and security products
+
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
