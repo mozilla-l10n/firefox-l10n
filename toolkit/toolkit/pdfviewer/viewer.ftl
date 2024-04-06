@@ -317,6 +317,8 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
+pdfjs-editor-alt-text-cancel-button = منسوخ
+pdfjs-editor-alt-text-save-button = محفوظ
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
@@ -338,3 +340,6 @@ pdfjs-editor-colorpicker-red =
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = سارے ݙکھاؤ
+pdfjs-editor-highlight-show-all-button =
+    .title = سارے ݙکھاؤ

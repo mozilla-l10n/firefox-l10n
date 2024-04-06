@@ -4,7 +4,6 @@
 
 about-reader-loading = لوڈ تھیندا پئے۔۔۔
 about-reader-load-error = ورقہ کنوں مضمون لوڈ کرݨ وِچ ناکام
-
 about-reader-color-scheme-light = پھکا
     .title = رنگ سکیم پھکا
 about-reader-color-scheme-dark = شوخ
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = سیپیا
     .title = رنگ سکیم سیپیا
 about-reader-color-scheme-auto = آٹو
     .title = رنگ سکیم آٹو
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -50,3 +48,13 @@ about-reader-font-type-sans-serif = سینس-سیرف
 about-reader-toolbar-close = ریڈر ویو بند کرو
 about-reader-toolbar-type-controls = کنٹرول ٹائپ کرو
 about-reader-toolbar-savetopocket = { -pocket-brand-name } تے ہتھیکڑا کرو
+
+## Reader View colors menu
+
+about-reader-fxtheme-tab = ڈیفالٹ
+about-reader-customtheme-tab = مخصوص
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
