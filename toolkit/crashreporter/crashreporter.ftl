@@ -2,7 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = Справаздача аб падзенні { -brand-short-name }
+crashreporter-apology = Прабачце
+crashreporter-crashed-and-restore = У { -brand-short-name } узнікла праблема і адбыўся збой. Мы паспрабуем аднавіць вашы карткі і вокны па перазапуску.
 crashreporter-plea = Каб дапамагчы вызначыць і выправіць праблему, вы можаце падаць справаздачу пра крах.
+crashreporter-information = Гэта праграма запускаецца пасля краху, каб паведаміць { -vendor-short-name } аб праблеме.  Яна не павінна запускацца непасрэдна.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Падрабязнасці: { $details }
 crashreporter-no-run-message = Гэта праграма запускаецца пасля краху, каб паведаміць распрацоўшчыку праграмы пра праблему.  Яна не павінна запускацца непасрэдна.

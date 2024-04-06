@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Прывілеяваны змест Mozilla
 process-type-extension = Пашырэнне
 # process used to open file:// URLs
 process-type-file = Лакальны файл
+# process used to instantiate new child processes
+process-type-forkserver = Форк-сервер
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Ізаляванае сеціўнае змесціва
