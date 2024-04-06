@@ -33,9 +33,9 @@ addons-settings-button = { -brand-short-name } stillingar
 sidebar-settings-button-title =
     .title = { -brand-short-name } stillingar
 show-unsigned-extensions-button =
-    .label = Ekki tókst að staðfesta sumar viðbætur
+    .label = Ekki tókst að staðfesta suma forritsauka
 show-all-extensions-button =
-    .label = Sýna allar viðbætur
+    .label = Sýna alla forritsauka
 detail-version =
     .label = Útgáfa
 detail-last-updated =
@@ -62,10 +62,10 @@ detail-private-browsing-label = Keyra í huliðsgluggum
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ekki leyfilegt í huliðsgluggum
-detail-private-disallowed-description2 = Þessi viðbót keyrir ekki á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
+detail-private-disallowed-description2 = Þessi forritsauki keyrir ekki á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Krefst aðgangs að huliðsgluggum
-detail-private-required-description2 = Þessi viðbót hefur aðgang að athöfnum þínum á netinu á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
+detail-private-required-description2 = Þessi forritsauki hefur aðgang að athöfnum þínum á netinu á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 detail-private-browsing-on =
     .label = Heimila
     .tooltiptext = Heimila í huliðsvöfrun
@@ -110,16 +110,16 @@ disabled-unsigned-description = Ekki tókst að sannreyna eftirfarandi viðbætu
 disabled-unsigned-learn-more = Fræðast meira um hvað við gerum til að þú sért öruggur á netinu.
 disabled-unsigned-devinfo = Þeir forritarar sem eru áhugasamir um að staðfesta viðbæturnar sínar geta prófað að lesa <label data-l10n-name="learn-more">handbókina</label> okkar.
 plugin-deprecation-description = Vantar eitthvað? Sum tengiforrit eru ekki lengur stutt af { -brand-short-name }. <label data-l10n-name="learn-more">Lesa meira.</label>
-legacy-warning-show-legacy = Sýna allar gamlar viðbætur
+legacy-warning-show-legacy = Sýna gamla forritsauka
 legacy-extensions =
-    .value = Gamlar viðbætur
-legacy-extensions-description = Þessar viðbætur standast ekki núverandi staðla í { -brand-short-name } þannig að þær hafa verið gerðar óvirkar. <label data-l10n-name="legacy-learn-more">Fræðast um breytingar á viðbótum</label>
+    .value = Eldri forritsaukar
+legacy-extensions-description = Þessir forritsaukar standast ekki núverandi staðla í { -brand-short-name } þannig að þeir hafa verið gerðir óvirkir. <label data-l10n-name="legacy-learn-more">Fræðast um breytingar á forritsaukum</label>
 private-browsing-description2 =
-    { -brand-short-name } er að breyta því hvernig viðbætur virka í huliðsvafri. Allar nýjar viðbætur sem þú bætir við
-    { -brand-short-name } munu ekki keyra sjálfgefið í huliðsgluggum. Þessi viðbót mun ekki virka á meðan 
+    { -brand-short-name } er að breyta því hvernig forritsaukar virka í huliðsvafri. Allir nýir forritsaukar sem þú bætir við
+    { -brand-short-name } munu ekki keyra sjálfgefið í huliðsgluggum. Þessi forritsauki mun ekki virka á meðan 
     huliðsvafri stendur, nema þú leyfir það í stillingum og mun hún því ekki hafa aðgang að athöfnum þínum á netinu
     þar. Við höfum gert þessa breytingu til að halda huliðsvafri þínu leyndu.
-    <label data-l10n-name="private-browsing-learn-more">Sjáðu hvernig á að hafa umsjón með stillingum viðbóta</label>
+    <label data-l10n-name="private-browsing-learn-more">Sjáðu hvernig á að hafa umsjón með stillingum forritsauka</label>
 addon-category-discover = Mælt með
 addon-category-discover-title =
     .title = Mælt með
@@ -216,10 +216,10 @@ addon-open-about-debugging = Villuleita viðbætur
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Sýsla með flýtilykla forritsauka
     .accesskey = f
-shortcuts-no-addons = Þú ert ekki með neinar virkar viðbætur.
-shortcuts-no-commands = Eftirfarandi viðbætur eru ekki með flýtilykla:
+shortcuts-no-addons = Þú ert ekki með neina virka forritsauka.
+shortcuts-no-commands = Eftirfarandi forritsaukar eru ekki með flýtilykla:
 shortcuts-input =
-    .placeholder = Slá inn flýtilykil
+    .placeholder = Sláðu inn flýtilykil
 # Accessible name for a trashcan icon button that removes an existent shortcut
 shortcuts-remove-button =
     .aria-label = Fjarlægja flýtileið
@@ -271,12 +271,12 @@ discopane-intro =
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Sumar af þessum ráðleggingum eru sérsniðnar. Þær eru byggðar á öðrum
-    viðbótum sem þú hefur sett upp, stillingum persónusniðs og notkunartölfræði.
+    forritsaukum sem þú hefur sett upp, stillingum persónusniðs og notkunartölfræði.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
         Sumar af þessum ráðleggingum eru sérsniðnar. Þær eru byggðar á öðrum
-        viðbótum sem þú hefur sett upp, stillingum persónusniðs og notkunartölfræði.
+        forritsaukum sem þú hefur sett upp, stillingum persónusniðs og notkunartölfræði.
 discopane-notice-learn-more = Frekari upplýsingar
 privacy-policy = Meðferð persónuupplýsinga
 # Refers to the author of an add-on, shown below the name of the add-on.
@@ -339,10 +339,10 @@ addon-detail-last-updated-label = Síðast uppfært
 addon-detail-homepage-label = Upphafssíða
 addon-detail-rating-label = Einkunn
 # Message for add-ons with a staged pending update.
-install-postponed-message = Þessi viðbót verður uppfærð þegar { -brand-short-name } endurræsir.
+install-postponed-message = Þessi forritsauki verður uppfærður þegar { -brand-short-name } endurræsir.
 # Message for add-ons with a staged pending update.
 install-postponed-message2 =
-    .message = Þessi viðbót verður uppfærð þegar { -brand-short-name } endurræsir.
+    .message = Þessi forritsauki verður uppfærður þegar { -brand-short-name } endurræsir.
 install-postponed-button = Uppfæra núna
 # The average rating that the add-on has received.
 # Variables:
@@ -387,7 +387,7 @@ addon-detail-group-label-updates =
 addon-badge-private-browsing-allowed2 =
     .title = Leyfilegt í huliðsgluggum
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Þegar það er leyft, hefur þessi viðbót aðgang að athöfnum þínum á netinu á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
+addon-detail-private-browsing-help = Þegar það er leyft, hefur þessi forritsauki aðgang að athöfnum þínum á netinu á meðan huliðsvafri stendur. <a data-l10n-name="learn-more">Frekari upplýsingar</a>
 addon-detail-private-browsing-allow = Leyfa
 addon-detail-private-browsing-disallow = Ekki leyfa
 # aria-label associated to the private browsing row to help screen readers to announce the group
@@ -413,15 +413,15 @@ addon-detail-group-label-quarantined-domains =
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 addon-badge-recommended2 =
-    .title = { -brand-product-name } mælir aðeins með viðbótum sem uppfylla staðla okkar um öryggi og afköst
+    .title = { -brand-product-name } mælir aðeins með forritsaukum sem uppfylla staðla okkar um öryggi og afköst
     .aria-label = { addon-badge-recommended2.title }
 # We hard code "Mozilla" in the string below because the extensions are built
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line3 =
-    .title = Opinber viðbót byggð af Mozilla. Uppfyllir öryggis- og afkastastaðla
+    .title = Opinber forritsauki byggður af Mozilla. Uppfyllir öryggis- og afkastastaðla
     .aria-label = { addon-badge-line3.title }
 addon-badge-verified2 =
-    .title = Þessi viðbót hefur verið yfirfarin til að uppfylla staðla okkar um öryggi og afköst
+    .title = Þessi forritsauki hefur verið yfirfarinn til að uppfylla staðla okkar um öryggi og afköst
     .aria-label = { addon-badge-verified2.title }
 
 ##
@@ -430,7 +430,7 @@ available-updates-heading = Tiltækar uppfærslur
 recent-updates-heading = Nýlegar uppfærslur
 release-notes-loading = Hleður…
 release-notes-error = Því miður kom upp villa við að sýna útgáfuupplýsingar.
-addon-permissions-empty = Þessi viðbót þarf engar heimildir
+addon-permissions-empty = Þessi forritsauki þarf engar heimildir
 addon-permissions-required = Nauðsynlegar heimildir fyrir kjarnavirkni:
 addon-permissions-optional = Valfrjálsar heimildir fyrir aukna virkni:
 addon-permissions-learnmore = Frekari upplýsingar um heimildir
@@ -453,7 +453,7 @@ locale-heading = Stjórnborð tungumála
 updates-heading = Sýsla með uppfærslurnar þínar
 sitepermission-heading = Sýsla með heimildir þínar fyrir vefsvæði
 discover-heading = Persónugerðu þitt eintak af { -brand-short-name }
-shortcuts-heading = Sýsla með flýtilykla viðbóta
+shortcuts-heading = Sýsla með flýtilykla forritsauka
 default-heading-search-label = Finna fleiri viðbætur
 addons-heading-search-input =
     .placeholder = Leita á addons.mozilla.org
