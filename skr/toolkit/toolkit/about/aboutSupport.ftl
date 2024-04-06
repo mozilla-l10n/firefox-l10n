@@ -183,6 +183,12 @@ media-codec-support-hw-decoding = ہارڈویئر ڈی کوڈنگ
 media-codec-support-codec-name = کوڈک ناں
 media-codec-support-supported = سہارا تھیا
 media-codec-support-unsupported = سہارا تھیا کائنی
+media-codec-support-lack-of-extension = ایکسٹنشن انسٹال کرو
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 
 ##
 
@@ -405,3 +411,6 @@ support-remote-features-status = حالت
 
 pointing-device-mouse = ماؤس
 pointing-device-touchscreen = ٹچ سکرین
+
+## Content Analysis (DLP)
+
