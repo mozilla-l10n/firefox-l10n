@@ -194,7 +194,7 @@ webrtc-share-browser-warning = Kopīgojiet { -brand-short-name } tikai ar lapām
 webrtc-share-screen-learn-more = Uzzināt vairāk
 webrtc-pick-window-or-screen = Izvēlieties logu vai ekrānu
 webrtc-share-entire-screen = Visu ekrānu
-webrtc-share-pipe-wire-portal = Izmantojiet operētājsistēmas iestatījumus
+webrtc-share-pipe-wire-portal = Izmantot operētājsistēmas iestatījumus
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Ekrāns { $monitorIndex }
@@ -213,10 +213,20 @@ webrtc-share-application =
 webrtc-action-allow =
     .label = Atļaut
     .accesskey = A
+webrtc-action-block =
+    .label = Bloķēt
+    .accesskey = B
+webrtc-action-always-block =
+    .label = Vienmēr bloķēt
+    .accesskey = V
+webrtc-action-not-now =
+    .label = Ne tagad
+    .accesskey = N
 
 ##
 
 webrtc-remember-allow-checkbox = Atcerēties šo izvēli
+webrtc-mute-notifications-checkbox = Kopīgošanas laikā izslēgt vietņu paziņojumus
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nevar atļaut pastāvīgu piekļuvi jūsu ekrānam.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nevar atļaut pastāvīgu piekļuvi jūsu cilnes audio nejautājot kuru tieši cilni koplietot.
 webrtc-reason-for-no-permanent-allow-insecure = Jūsu savienojums ar šo lapu nav drošs. Lai jūs aizsargātu, { -brand-short-name } atļaus piekļuvi tikai uz šīs darba sesijas laiku.
