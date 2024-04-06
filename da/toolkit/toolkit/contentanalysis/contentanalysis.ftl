@@ -46,6 +46,14 @@ contentanalysis-error-message = En fejl opstod i kommunikationen med værktøjet
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = En fejl opstod i kommunikationen med { $agent }. Overførsel blev nægtet for ressourcen { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Kunne ikke oprette forbindelse til { $agent }. Overførsel blev nægtet for ressourcen { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Kunne ikke verificere signaturen for { $agent }. Overførsel blev nægtet for ressourcen { $content }.
 contentanalysis-inprogress-quit-title = Afslut { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Flere handlinger er i gang. Hvis du afslutter { -brand-shorter-name }, vil disse handlinger ikke blive fuldført.

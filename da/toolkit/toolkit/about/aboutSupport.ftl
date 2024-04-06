@@ -434,4 +434,12 @@ pointing-device-none = Ingen pegeredskaber
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Indholdsanalyse (DLP)
 content-analysis-active = Aktiv
+content-analysis-connected-to-agent = Forbundet til agent
+content-analysis-agent-path = Sti til agent
+content-analysis-agent-failed-signature-verification = Agenten kunne ikke verificere signaturen
+content-analysis-request-count = Antal forespørgsler
