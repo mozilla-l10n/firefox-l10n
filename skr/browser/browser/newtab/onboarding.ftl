@@ -327,4 +327,8 @@ onboarding-device-migration-primary-button-label = سائن ان
 
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = اڳلا
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = میں اصلوں نواں ہاں
 onboarding-new-user-survey-time-based-option-2 = 1مہینے کنوں گھٹ
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = میں اصلوں نواں ہاں
