@@ -27,6 +27,7 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-button = ہݨ پڑتال کرو
+shopping-message-bar-keep-closed-dismiss-button = کو، شکریہ
 
 ## Strings for the product review snippets card
 
