@@ -269,7 +269,7 @@ appmenu-customizetoolbar =
     .label = Sérsníða verkfærastiku…
 appmenu-developer-tools-subheader = Vafraverkfæri
 appmenu-developer-tools-extensions =
-    .label = Viðbætur fyrir forritara
+    .label = Forritsaukar fyrir forritara
 appmenuitem-report-broken-site =
     .label = Tilkynna bilað vefsvæði
 

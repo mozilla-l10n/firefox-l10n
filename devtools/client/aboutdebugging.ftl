@@ -238,7 +238,7 @@ about-debugging-extension-location =
 # Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
-    .label = Auðkenni viðbótar
+    .label = Auðkenni forritsauka
 # Displayed for extension using a non-persistent background page (either an event page or
 # background service worker) when the background script is currently running.
 about-debugging-extension-backgroundscript-status-running = Í gangi

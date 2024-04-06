@@ -106,7 +106,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/><strong>{ $nam
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Til að virkja viðbót farðu þá í <img data-l10n-name="addons-icon"/> viðbætur í <img data-l10n-name="menu-icon"/> valmyndinni.
+extension-controlled-enable = Til að virkja forritsaukann farðu þá í <img data-l10n-name="addons-icon"/> viðbætur í <img data-l10n-name="menu-icon"/> valmyndinni.
 
 ## Preferences UI Search Results
 
@@ -136,7 +136,7 @@ windows-launch-on-login-disabled = Þessi kjörstilling hefur verið gerð óvir
 startup-restore-warn-on-quit =
     .label = Aðvara þegar vafra er lokað
 disable-extension =
-    .label = Slökkva á viðbót
+    .label = Slökkva á forritsauka
 preferences-data-migration-header = Flytja inn vafragögn
 preferences-data-migration-description = Flyttu inn bókamerki, lykilorð, feril og sjálfvirk útfyllingargögn í { -brand-short-name }.
 preferences-data-migration-button =

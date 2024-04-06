@@ -31,11 +31,11 @@ toolbar-context-menu-reopen-closed-tabs =
         }
     .accesskey = O
 toolbar-context-menu-manage-extension =
-    .label = Stjórna viðbót
-    .accesskey = j
+    .label = Sýsla með forritsauka
+    .accesskey = e
 toolbar-context-menu-remove-extension =
-    .label = Fjarlægja viðbót
-    .accesskey = v
+    .label = Fjarlægja forritsauka
+    .accesskey = F
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
