@@ -267,3 +267,4 @@ appmenuitem-report-broken-site =
 
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
