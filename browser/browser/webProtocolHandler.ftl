@@ -15,6 +15,7 @@ protocolhandler-mailto-handler-yes-confirm = { $url } è ora il sito predefinito
 
 protocolhandler-mailto-handler-set-message = Utilizzare <strong>{ $url } in { -brand-short-name }</strong> ogni volta che fai clic su un link che apre il tuo client di posta elettronica?
 protocolhandler-mailto-handler-confirm-message = <strong>{ $url } in { -brand-short-name }</strong> è ora il gestore predefinito di posta elettronica per il tuo computer.
+protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } aprirà { $url }</strong> ogni volta che fai clic su un link che invia email.
 
 ##
 
