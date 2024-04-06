@@ -8,7 +8,7 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Skýrsla fyrir { $addon-name }
-abuse-report-title-extension = Tilkynna þessa viðbót til { -vendor-short-name }
+abuse-report-title-extension = Tilkynna þennan forritsauka til { -vendor-short-name }
 abuse-report-title-sitepermission = Tilkynna heimildir fyrir vefsvæði þessarar viðbótar til { -vendor-short-name }
 abuse-report-title-theme = Tilkynna þetta þema til { -vendor-short-name }
 abuse-report-subtitle = Hvert er vandamálið?
@@ -41,7 +41,7 @@ abuse-report-messagebar-aborted = Hætt við skýrslu um <span data-l10n-name="a
 abuse-report-messagebar-submitting = Sendi inn skýrslu um <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-submitted = Þakka þér fyrir að senda inn skýrslu. Viltu fjarlægja <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Þakka þér fyrir að senda inn skýrslu.
-abuse-report-messagebar-removed-extension = Þakka þér fyrir að senda inn skýrslu. Viðbótin <span data-l10n-name="addon-name">{ $addon-name }</span> hefur verið fjarlægð.
+abuse-report-messagebar-removed-extension = Þakka þér fyrir að senda inn skýrslu. Forritsaukinn <span data-l10n-name="addon-name">{ $addon-name }</span> hefur verið fjarlægður.
 abuse-report-messagebar-removed-sitepermission = Þakka þér fyrir að senda inn skýrslu. Viðbótin <span data-l10n-name="addon-name">{ $addon-name }</span> fyrir heimildir vefsvæða hefur verið fjarlægð.
 abuse-report-messagebar-removed-theme = Þakka þér fyrir að senda inn skýrslu. Þemað <span data-l10n-name="addon-name">{ $addon-name }</span> hefur verið fjarlægt.
 abuse-report-messagebar-error = Villa kom upp þegar reynt var að senda inn skýrslu um <span data-l10n-name="addon-name">{ $addon-name }</span>.
@@ -55,7 +55,7 @@ abuse-report-messagebar-submitted2 =
 abuse-report-messagebar-submitted-noremove2 =
     .message = Þakka þér fyrir að senda inn skýrslu.
 abuse-report-messagebar-removed-extension2 =
-    .message = Þakka þér fyrir að senda inn skýrslu. Viðbótin { $addon-name } hefur verið fjarlægð.
+    .message = Þakka þér fyrir að senda inn skýrslu. Forritsaukinn { $addon-name } hefur verið fjarlægður.
 abuse-report-messagebar-removed-sitepermission2 =
     .message = Þakka þér fyrir að senda inn skýrslu. Viðbótin { $addon-name } fyrir heimildir vefsvæða hefur verið fjarlægð.
 abuse-report-messagebar-removed-theme2 =
@@ -83,7 +83,7 @@ abuse-report-damage-example = Dæmi: Setti inn spilliforrit eða stal gögnum
 abuse-report-spam-reason-v2 = Það inniheldur ruslpóst eða setur inn óæskilegar auglýsingar
 abuse-report-spam-example = Dæmi: Bætir auglýsingum inn á vefsíður
 abuse-report-settings-reason-v2 = Það breytti leitarvélinni minni, upphafssíðunni eða nýju flipasíðunni án þess biðja um leyfi eða láta vita
-abuse-report-settings-suggestions = Áður en þú tilkynnir viðbótina gætirðu prófað að breyta stillingunum þínum:
+abuse-report-settings-suggestions = Áður en þú tilkynnir forritsaukann gætirðu prófað að breyta stillingunum þínum:
 abuse-report-settings-suggestions-search = Breyta sjálfgefnu leitarvélinni
 abuse-report-settings-suggestions-homepage = Breyta upphafssíðu og nýjum flipum
 abuse-report-deceptive-reason-v2 = Það segist vera eitthvað sem það er ekki
@@ -92,7 +92,7 @@ abuse-report-broken-reason-extension-v2 = Virkar ekki, lætur vefsvæði hætta 
 abuse-report-broken-reason-sitepermission-v2 = Virkar ekki, lætur vefsvæði hætta að virka eða hægir á { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Það virkar ekki eða skemmir virkni vafragluggans
 abuse-report-broken-example = Dæmi: Ýmislegt virkar ekki, keyrir hægar, eða er erfiðara að nota; hlutar vefsvæða hlaðast ekki inn eða líta skringilega út
-abuse-report-broken-suggestions-extension = Það hljómar eins og þú hafir rekist á hugbúnaðarvillu. Þegar þú hefur sent þessa tilkynningu inn myndi það líka flýta fyrir því að hún verði löguð ef þú hefðir samband við þann sem bjó viðbótina til. <a data-l10n-name="support-link">Farðu á vefsíðu viðbótarinnar</a> til að finna upplýsingar um viðbótarsmiðinn.
+abuse-report-broken-suggestions-extension = Það hljómar eins og þú hafir rekist á hugbúnaðarvillu. Þegar þú hefur sent þessa tilkynningu inn myndi það líka flýta fyrir því að hún verði löguð ef þú hefðir samband við þann sem bjó viðbótina til. <a data-l10n-name="support-link">Farðu á vefsíðu forritsaukans</a> til að finna upplýsingar um forritunina.
 abuse-report-broken-suggestions-sitepermission =
     Það hljómar eins og þú hafir rekist á hugbúnaðarvillu. Auk þess að skila skýrslu hér, er besta leiðin
     til að leysa virknivandamál að hafa samband við hönnuði vefsvæðisins.

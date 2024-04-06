@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = Upplýsingar vottunaraðila (AIA)
 certificate-viewer-certificate-policies = Vottunarstefna skilríkis
 certificate-viewer-embedded-scts = Innbyggt SCT
 certificate-viewer-crl-endpoints = CRL-endapunktar
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Sækja
@@ -101,10 +100,9 @@ certificate-viewer-download-pem = PEM (skilríki)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (keðja)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
-    .title = Þessi viðbót hefur verið merkt sem mikilvæg, sem þýðir að viðtakendur verða að hafna skilríkinu ef þeir skilja það ekki.
+    .title = Þessi forritsauki hefur verið merkt sem mikilvægur, sem þýðir að viðtakendur verða að hafna skilríkinu ef þeir skilja það ekki.
 certificate-viewer-export = Flytja út
     .download = { $fileName }.pem
 
