@@ -134,9 +134,15 @@ shopping-analysis-explainer-learn-more2 = Uzziniet vairāk par to, <a data-l10n-
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Svarīgākie punkti</strong> ir no { $retailer } atsauksmēm pēdējo 80 dienu laikā, kuras, mūsuprāt, ir uzticamas.
 shopping-analysis-explainer-review-grading-scale-reliable = Uzticamas atsauksmes. Mēs uzskatām, ka atsauksmes, visticamāk, ir no īstiem klientiem, kuri atstājuši godīgas un objektīvas atsauksmes.
+shopping-analysis-explainer-review-grading-scale-mixed = Mēs uzskatām, ka ir gan uzticamas, gan neuzticamas atsauksmes.
+shopping-analysis-explainer-review-grading-scale-unreliable = Neuzticamas atsauksmes. Mēs uzskatām, ka atsauksmes, visticamāk, ir viltotas vai no neobjektīviem recenzentiem.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Atvērt atsauksmju pārbaudītāju
+shopping-sidebar-close-button2 =
+    .tooltiptext = Aizvērt atsauksmju pārbaudītāju
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -145,12 +151,32 @@ shopping-analysis-explainer-review-grading-scale-reliable = Uzticamas atsauksmes
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Pagaidām nav informācijas par šīm atsauksmēm
+shopping-unanalyzed-product-message-2 = Lai uzzinātu, vai šī produkta atsauksmes ir uzticamas, pārbaudiet atsauksmju kvalitāti. Tas aizņem tikai aptuveni 60 sekundes.
+shopping-unanalyzed-product-analyze-button = Pārbaudīt atsauksmju kvalitāti
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Vēl jāapsver
+ad-by-fakespot = Reklāma no { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Palīdziet uzlabot { -brand-product-name }
+shopping-survey-question-one = Cik apmierināts esat ar atsauksmju pārbaudīšanu ar { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Ļoti apmierināts
+shopping-survey-q1-radio-2-label = Apmierināts
+shopping-survey-q1-radio-3-label = Neitrāls
+shopping-survey-q1-radio-4-label = Neapmierināts
+shopping-survey-q1-radio-5-label = Ļoti neapmierināts
+shopping-survey-question-two = Vai atsauksmju pārbaudītājs atvieglo pirkuma lēmumu pieņemšanu?
+shopping-survey-q2-radio-1-label = Jā
+shopping-survey-q2-radio-2-label = Nē
+shopping-survey-q2-radio-3-label = Es nezinu
+shopping-survey-next-button-label = Nākamais
+shopping-survey-submit-button-label = Iesniegt
+shopping-survey-terms-link = Lietošanas noteikumi
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
