@@ -90,16 +90,35 @@ translations-panel-error-change-button =
 # Variables:
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known = Diemžēl mēs vēl neatbalstām valodu { $language }.
+translations-panel-error-unsupported-hint-unknown = Diemžēl mēs vēl neatbalstām šo valodu.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Tulkot no
+translations-panel-to-label = Tulkot uz
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Šī lapa ir tulkota no { $fromLanguage } uz { $toLanguage }
+translations-panel-choose-language =
+    .label = Izvēlieties valodu
+translations-panel-restore-button =
+    .label = Rādīt oriģinālu
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Tulkojumi
+translations-manage-settings-button =
+    .label = Iestatījumi…
+    .accesskey = t
