@@ -4,7 +4,6 @@
 
 about-reader-loading = Daûr a cjamâ…
 about-reader-load-error = Impussibil cjamâ l'articul de pagjine
-
 about-reader-color-scheme-light = Clâr
     .title = Scheme di colôrs clârs
 about-reader-color-scheme-dark = Scûr
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Sepât
     .title = Scheme di colôrs sepâts
 about-reader-color-scheme-auto = Automatic
     .title = Scheme di colôrs automatics
-
+about-reader-color-theme-light = Clâr
+    .title = Teme colôrs clâr
+about-reader-color-theme-dark = Scûr
+    .title = Teme colôrs scûr
+about-reader-color-theme-sepia = Sepe
+    .title = Teme colôrs sepe
+about-reader-color-theme-auto = Automatic
+    .title = Teme colôrs automatic
+about-reader-color-theme-gray = Grîs
+    .title = Teme colôrs grîs
+about-reader-color-theme-contrast = Contrast
+    .title = Teme colôrs contrast
+about-reader-color-theme-custom = Colôrs personalizâts
+    .title = Teme colôrs personalizât
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,4 +61,20 @@ about-reader-font-type-sans-serif = Cence graciis (Sans-serif)
 
 about-reader-toolbar-close = Siere la Viodude di leture
 about-reader-toolbar-type-controls = Controi tipografics
+about-reader-toolbar-color-controls = Colôrs
 about-reader-toolbar-savetopocket = Salve in { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Teme
+about-reader-fxtheme-tab = Predefinît
+about-reader-customtheme-tab = Personalizât
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Test
+    .title = Modifiche colôr
+about-reader-custom-colors-background = Fonts
+    .title = Modifiche colôr

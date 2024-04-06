@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = Segnaladôr di colàs { -brand-short-name }
+crashreporter-apology = Nus displâs
 crashreporter-crashed-and-restore = { -brand-short-name } al à vût un probleme e al è colassât. O cirarìn di ripristinâ lis schedis e i barcons al gnûf inviament.
 crashreporter-plea = Par judânus a diagnosticâ e comedâ il probleme, tu puedis inviânus une segnalazion di colàs.
 crashreporter-information = Cheste aplicazion e ven eseguide dopo un colàs par segnalâ il probleme a { -vendor-short-name }. Nissun al varès di eseguîle in mût diret.
