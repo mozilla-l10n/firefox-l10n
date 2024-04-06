@@ -145,7 +145,7 @@ newtab-menu-show-file =
         [macos] Parādīt Finder
        *[other] Atvērt mapi
     }
-newtab-menu-open-file = Atvērt failu
+newtab-menu-open-file = Atvērt datni
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that

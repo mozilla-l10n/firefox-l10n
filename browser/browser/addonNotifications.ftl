@@ -128,13 +128,13 @@ addon-confirm-install-some-unsigned-message =
 addon-install-error-network-failure = Papildinājumu nevar lejupielādēt, jo notikusi savienojuma kļūda.
 addon-install-error-incorrect-hash = Šo papildinājumu nevar uzinstalēt, jo tas nesakrīt ar gaidīto papildinājumu { -brand-short-name }.
 addon-install-error-corrupt-file = Papildinājumu no šīs lapas nevar uzinstalēt, jo tas ir bojāts.
-addon-install-error-file-access = { $addonName } nevar uzinstalēt, jo { -brand-short-name } nevar izmainīt nepieciešamo failu.
+addon-install-error-file-access = { $addonName } nevar uzinstalēt, jo { -brand-short-name } nevar izmainīt nepieciešamo datni.
 addon-install-error-not-signed = { -brand-short-name } liedza lapai uzinstalēt nepārbaudītu papildinājumu.
 addon-install-error-invalid-domain = Papildinājumu { $addonName } nevar instalēt no šīs vietas.
-addon-local-install-error-network-failure = Šo papildinājumu nevar uzinstalēt, jo notikusi failu sistēmas kļūda.
+addon-local-install-error-network-failure = Šo papildinājumu nevar uzinstalēt, jo notikusi datņu sistēmas kļūda.
 addon-local-install-error-incorrect-hash = Šo papildinājumu nevar uzinstalēt, jo tas nesakrīt ar gaidīto papildinājumu { -brand-short-name }.
 addon-local-install-error-corrupt-file = Šo papildinājumu nevar uzinstalēt, jo tas ir bojāts.
-addon-local-install-error-file-access = { $addonName } nevar uzinstalēt, jo { -brand-short-name } nevar izmainīt nepieciešamo failu.
+addon-local-install-error-file-access = { $addonName } nevar uzinstalēt, jo { -brand-short-name } nevar izmainīt nepieciešamo datni.
 addon-local-install-error-not-signed = Šo papildinājumu nevar uzinstalēt, jo tas nav pārbaudīts.
 # Variables:
 #   $appVersion (String): the application version.

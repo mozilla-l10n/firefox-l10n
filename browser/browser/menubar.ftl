@@ -54,8 +54,8 @@ menu-about =
 ## File Menu
 
 menu-file =
-    .label = Fails
-    .accesskey = F
+    .label = Datne
+    .accesskey = D
 menu-file-new-tab =
     .label = Jauna cilne
     .accesskey = c
@@ -74,7 +74,7 @@ menu-file-new-private-window =
 menu-file-open-location =
     .label = Atvērt vietu…
 menu-file-open-file =
-    .label = Atvērt failu…
+    .label = Atvērt datni…
     .accesskey = A
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
