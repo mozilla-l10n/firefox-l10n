@@ -3,18 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Jauna cilne
-
+tabbrowser-empty-private-tab-title = Jauna privātā cilne
 tabbrowser-menuitem-close-tab =
     .label = Aizvērt cilni
 tabbrowser-menuitem-close =
     .label = Aizvērt
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -72,14 +70,44 @@ tabbrowser-unblock-tab-audio-tooltip =
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
+# The singular form is not considered since this string is used only for multiple tabs.
+# Variables:
+#   $tabCount (Number): The number of tabs that will be closed.
+tabbrowser-confirm-close-tabs-title =
+    { $tabCount ->
+        [zero] Vai aizvērt { $tabCount } cilni?
+        [one] Vai aizvērt { $tabCount } cilnes?
+       *[other] Vai aizvērt { $tabCount } ciļņu?
+    }
 tabbrowser-confirm-close-tabs-button = Aizvērt cilnes
+tabbrowser-confirm-close-tabs-checkbox = Apstipriniet, pirms aizvērt vairākas cilnes
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title =
+    { $windowCount ->
+        [zero] Vai aizvērt { $windowCount } logu?
+        [one] Vai aizvērt { $windowCount } logus?
+       *[other] Vai aizvērt { $windowCount } logu?
+    }
+tabbrowser-confirm-close-windows-button =
+    { PLATFORM() ->
+        [windows] Aizvērt un iziet
+       *[other] Aizvērt un iziet
+    }
 
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Aizvērt logu un iziet no { -brand-short-name }?
+tabbrowser-confirm-close-tabs-with-key-button = Aizvērt { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Apstiprināt pirms aizvērt ar { $quitKey }
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -95,9 +123,16 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Brīdināt mani, kad vairāku c
 
 ## Confirmation dialog for enabling caret browsing
 
+tabbrowser-confirm-caretbrowsing-title = Pārvietošanās ar kursoru
+tabbrowser-confirm-caretbrowsing-message = Nospiežot F7, pārslēdz pārvietošanos ar kursoru. Šī iespēja tīmekļa lapās ievieto pārvietojamu teksta kursoru, kas ļauj iezīmēt tekstu ar tastatūras palīdzību. Vai vēlaties ieslēgt pārvietošanos ar kursoru?
+tabbrowser-confirm-caretbrowsing-checkbox = Nerādīt man vairs šo dialoglodziņu.
 
 ##
 
+# Variables:
+#   $domain (String): URL of the page that is trying to steal focus.
+tabbrowser-allow-dialogs-to-get-focus =
+    .label = Ļaujiet šādiem paziņojumiem no { $domain } novirzīt jūs uz viņu cilni
 tabbrowser-customizemode-tab-title = Pielāgot { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -116,6 +151,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Ieslēgt skaņu
     .accesskey = I
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Atskaņo audio
 
 ## Ctrl-Tab dialog
 
@@ -131,3 +168,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab manager menu buttons
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Apklusināt cilni
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Atjaunot skaņu cilnei
+tabbrowser-manager-close-tab =
+    .tooltiptext = Aizvērt cilni
