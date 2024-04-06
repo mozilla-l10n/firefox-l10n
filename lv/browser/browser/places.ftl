@@ -195,7 +195,7 @@ places-cmd-restore =
     .label = Atjaunot
     .accesskey = A
 places-cmd-restore-from-file =
-    .label = Izvēlēties failu...
+    .label = Izvēlēties datni...
     .accesskey = I
 places-import-bookmarks-from-html =
     .label = Importēt grāmatzīmes no HTML…
@@ -272,4 +272,4 @@ places-search-downloads =
 
 ##
 
-places-locked-prompt = Grāmatzīmju un pārlūkošanas vēstures funkcijas nebūs pieejamas, jo { -brand-short-name } failus izmanto kāda cita programma. Dažas drošības programmas var radīt šo problēmu.
+places-locked-prompt = Grāmatzīmju un pārlūkošanas vēstures funkcijas nebūs pieejamas, jo { -brand-short-name } datnes izmanto kāda cita programma. Dažas drošības programmas var radīt šo problēmu.

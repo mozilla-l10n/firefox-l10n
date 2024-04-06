@@ -299,9 +299,9 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = Faili un programmas
+files-and-applications-title = Datnes un lietotnes
 download-header = Lejupielādes
-download-save-where = Vieta, kur saglabāt failus:
+download-save-where = Vieta, kur saglabāt datnes:
     .accesskey = k
 download-choose-folder =
     .label =
@@ -315,12 +315,12 @@ download-choose-folder =
            *[other] o
         }
 download-always-ask-where =
-    .label = Vienmēr jautāt man, kur saglabāt failus
+    .label = Vienmēr jautāt man, kur saglabāt datnes
     .accesskey = A
 applications-header = Lietotnes
-applications-description = Izvēlieties kā { -brand-short-name } rīkosies ar failu lejupielādēm no tīmekļa lietotnēm.
+applications-description = Izvēlieties kā { -brand-short-name } rīkosies ar datņu lejupielādēm no tīmekļa lietotnēm.
 applications-filter =
-    .placeholder = Meklēt pēc failu tipa vai lietotnes
+    .placeholder = Meklēt pēc datņu tipa vai lietotnes
 applications-type-column =
     .label = Satura tips
     .accesskey = t
@@ -329,9 +329,9 @@ applications-action-column =
     .accesskey = a
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
-applications-file-ending = { $extension } fails
+applications-file-ending = { $extension } datne
 applications-action-save =
-    .label = Saglabāt failu
+    .label = Saglabāt datni
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -1022,7 +1022,7 @@ sitedata-total-size-calculating = Aprēķina vietnes datu un kešatmiņas lielum
 sitedata-total-size = Jūsu saglabātās sīkdatnes un kešatmiņa šobrīd aizņem { $value } { $unit } no diska vietas.
 sitedata-learn-more = Uzzināt vairāk
 sitedata-delete-on-close =
-    .label = Dzēst sīkfailus un vietnes datus, kad { -brand-short-name } ir aizvērts
+    .label = Dzēst sīkdatnes un vietnes datus, kad { -brand-short-name } ir aizvērts
     .accesskey = D
 sitedata-delete-on-close-private-browsing = Pastāvīgās privātās pārlūkošanas režīmā sīkdatnes un vietņu dati vienmēr tiks notīrīti, kad tiek aizvērts { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = Pamatojoties uz jūsu vēstures iestatījumiem, { -brand-short-name } dzēš sīkdatnes un vietņu datus no jūsu sesijas, kad aizverat pārlūkprogrammu.

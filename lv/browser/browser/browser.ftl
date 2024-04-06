@@ -795,8 +795,8 @@ toolbar-button-save-page =
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
-    .label = Atvērt failu
-    .tooltiptext = Atvērt failu ({ $shortcut })
+    .label = Atvērt datni
+    .tooltiptext = Atvērt datni ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = Sinhronizētās cilnes
     .tooltiptext = Parādīt cilnes no citām ierīcēm
