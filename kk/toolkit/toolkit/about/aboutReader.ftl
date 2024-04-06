@@ -4,7 +4,6 @@
 
 about-reader-loading = Жүктеу…
 about-reader-load-error = Парақтан мақаланы жүктеу сәтсіз
-
 about-reader-color-scheme-light = Ашық түсті
     .title = Ашық түстер схемасы
 about-reader-color-scheme-dark = Күңгірт
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Сепия
     .title = Сепия түстер схемасы
 about-reader-color-scheme-auto = Автоматты түрде
     .title = Түс схемасы "Авто"
-
+about-reader-color-theme-light = Ашық түсті
+    .title = Ашық түсті түстер схемасы
+about-reader-color-theme-dark = Күңгірт түсті
+    .title = Күңгірт түсті түстер схемасы
+about-reader-color-theme-sepia = Сепия
+    .title = Сепия түстер схемасы
+about-reader-color-theme-auto = Автоматты түрде
+    .title = Автоматты түрде түстер схемасы
+about-reader-color-theme-gray = Сұр түсті
+    .title = Сұр түсті түстер схемасы
+about-reader-color-theme-contrast = Контрастты
+    .title = Контрассты түстер схемасы
+about-reader-color-theme-custom = Таңдауыңызша түсті
+    .title = Таңдауыңызша түсті түстер схемасы
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,4 +61,27 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Оқу режимін жабу
 about-reader-toolbar-type-controls = Қаріптерді баптау
+about-reader-toolbar-color-controls = Түстер
 about-reader-toolbar-savetopocket = { -pocket-brand-name } ішіне сақтау
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Тема
+about-reader-fxtheme-tab = Үнсiз келiсiм бойынша
+about-reader-customtheme-tab = Таңдауыңызша
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Мәтін
+    .title = Түсті түзету
+about-reader-custom-colors-background = Фон
+    .title = Түсті түзету
+about-reader-custom-colors-unvisited-links = Ашылмаған сілтемелер
+    .title = Түсті түзету
+about-reader-custom-colors-visited-links = Ашылған сілтемелер
+    .title = Түсті түзету
+about-reader-custom-colors-selection-highlight = Дауыстап оқуға арналған ерекшелегіш
+    .title = Түсті түзету
+about-reader-custom-colors-reset-button = Бастапқы түріне қайтару

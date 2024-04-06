@@ -43,6 +43,18 @@ contentanalysis-block-message = Сіздің ұйымыңыз мына мазм�
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Деректер жоғалуының алдын алу бағдарламалық қамтамамен байланысуда қате орын алды. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = { $agent } агентімен байланысуда қате орын алды. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = { $agent } агентімен байланысу мүмкін емес. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = { $agent } агенті үшін қолтаңбаны растау сәтсіз аяқталды. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } жұмысын аяқтау керек пе?
 contentanalysis-inprogress-quit-message = Бірнеше әрекет әлі орындалып жатыр. { -brand-shorter-name } жұмысын аяқтасаңыз, бұл әрекеттер аяқталмайтын болады.
 contentanalysis-inprogress-quit-yesbutton = Иә, шығу
