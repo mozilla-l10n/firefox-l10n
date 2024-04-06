@@ -60,9 +60,44 @@ protections-not-blocking-fingerprinters =
     .title = Nebloķē ciparnospiedumus
 protections-not-blocking-cryptominers =
     .title = Nebloķē kriptominētājus
+protections-not-blocking-cookies-third-party =
+    .title = Nebloķē trešo pušu sīkdatnes
+protections-not-blocking-cookies-all =
+    .title = Nebloķē sīkdatnes
+protections-not-blocking-cross-site-tracking-cookies =
+    .title = Nebloķē starpvietņu izsekošanas sīkdatnes
+protections-not-blocking-tracking-content =
+    .title = Nebloķē izsekojošo saturu
+protections-not-blocking-social-media-trackers =
+    .title = Nebloķē sociālo mediju izsekotājus
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
 ##   $trackerCount (Number): number of trackers blocked
 ##   $date (Date): the date on which we started counting
 
+# This text indicates the total number of trackers blocked on all sites.
+# In its tooltip, we show the date when we started counting this number.
+protections-footer-blocked-tracker-counter =
+    { $trackerCount ->
+        [zero] { $trackerCount } bloķēts
+        [one] { $trackerCount } bloķēti
+       *[other] { $trackerCount } bloķētu
+    }
+    .tooltiptext = Kopš { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# This text indicates the total number of trackers blocked on all sites.
+# It should be the same as protections-footer-blocked-tracker-counter;
+# this message is used to leave out the tooltip when the date is not available.
+protections-footer-blocked-tracker-counter-no-tooltip =
+    { $trackerCount ->
+        [zero] { $trackerCount } bloķēts
+        [one] { $trackerCount } bloķēti
+       *[other] { $trackerCount } bloķētu
+    }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [zero] { -brand-short-name } bloķējis vairāk nekā { $trackerCount } izsekotāju kopš { DATETIME($date, year: "numeric", month: "long") }
+        [one] { -brand-short-name } bloķējis vairāk nekā { $trackerCount } izsekotājus kopš { DATETIME($date, year: "numeric", month: "long") }
+       *[other] { -brand-short-name } bloķējis vairāk nekā { $trackerCount } izsekotāju kopš { DATETIME($date, year: "numeric", month: "long") }
+    }
