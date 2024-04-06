@@ -217,6 +217,10 @@ firefoxview-import-history-close-button =
 
 firefoxview-syncedtabs-device-notabs = ایں ڈیوائس تے کوئی ٹیباں کائنی کھلیاں
 firefoxview-syncedtabs-connect-another-device = ٻئی ڈیوائس نال کنکٹ کرو
+firefoxview-pinned-tabs =
+    .title = پن شدہ ٹیباں
+firefoxview-tabs =
+    .title = ٹیباں
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
