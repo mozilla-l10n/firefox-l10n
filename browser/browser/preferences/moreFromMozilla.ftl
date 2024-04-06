@@ -28,4 +28,5 @@ more-from-moz-firefox-relay-button = { -relay-brand-short-name } حاصل کرو
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } گھنو
