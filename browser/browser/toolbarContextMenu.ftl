@@ -20,12 +20,29 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Atlasīt visas cilnes
     .accesskey = S
+# Variables
+#   $tabCount (number) - Number of tabs
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Atkal atvērt aizvērto cilni
+            [zero] Atkal atvērt aizvērtās cilnes
+            [one] Atkal atvērt aizvērtās cilnes
+           *[other] Atkal atvērt aizvērtās cilnes
+        }
+    .accesskey = A
 toolbar-context-menu-manage-extension =
     .label = Pārvaldīt paplašinājumu
     .accesskey = P
 toolbar-context-menu-remove-extension =
     .label = Izņemt paplašinājumu
     .accesskey = m
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Ziņot par paplašinājumu
+    .accesskey = o
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
