@@ -43,6 +43,18 @@ contentanalysis-block-message = La tô organizazion e dopre un software pe preve
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Al è capitât un erôr te comunicazion cul software pe prevenzion des pierditis di dâts. Il trasferiment al è stât dineât pe risorse: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Al è capitât un erôr te comunicazion cun { $agent }. Trasferiment dineât pe risorse: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Impussibil stabilî la conession cun { $agent }. Trasferiment dineât pe risorse: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Verifiche falide de firme par { $agent }. Trasferiment dineât pe risorse: { $content }.
 contentanalysis-inprogress-quit-title = Lâ fûr di { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = A son in pîts diviersis azions. Se tu jessis di { -brand-shorter-name }, nol sarà pussibil completâlis.
 contentanalysis-inprogress-quit-yesbutton = Sì, jes
