@@ -7,6 +7,12 @@ shopping-page-title = { -brand-product-name } خریداری
 # review quality of online shopping product reviews
 shopping-main-container-title = نظرثانی پڑتالݨ آلا
 shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = نظرثانی پڑتالݨ آلا ــ بیٹا
 shopping-close-button =
     .title = بند کرو
 # This string is for notifying screen reader users that the
@@ -100,6 +106,7 @@ shopping-callout-closed-not-opted-in-revised-button = سمجھ گھدے
 shopping-callout-not-opted-in-reminder-close-button = فارغ کرو
 shopping-callout-not-opted-in-reminder-ignore-checkbox = ولدا نہ ݙکھاؤ
 shopping-callout-disabled-auto-open-button = سمجھ گھدے
+shopping-callout-opted-out-title = نظرثانی پڑتالݨ آلا  بند ہے
 shopping-callout-opted-out-button = سمجھ گھدے
 
 ## Onboarding message strings.
