@@ -182,10 +182,10 @@ urlbar-star-add-bookmark =
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
-    .label = Sýsla með viðbót…
+    .label = Sýsla með forritsauka…
     .accesskey = e
 page-action-remove-extension2 =
-    .label = Fjarlægja viðbót
+    .label = Fjarlægja forritsauka
     .accesskey = F
 
 ## Auto-hide Context Menu
@@ -352,7 +352,7 @@ identity-connection-failure = Tenging mistókst
 identity-connection-internal = Þetta er örugg { -brand-short-name } síða.
 identity-connection-file = Þessi síða er vistuð á tölvunni þinni.
 identity-connection-associated = Þessari síðu er hlaðið inn af annarri síðu.
-identity-extension-page = Þessari síðu er hlaðið inn af viðbót.
+identity-extension-page = Þessari síðu er hlaðið inn af forritsauka.
 identity-active-blocked = { -brand-short-name } hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.
 identity-custom-root = Tenging staðfest af útgefanda skilríkis sem ekki er viðurkennt af Mozilla.
 identity-passive-loaded = Sumir hlutir á þessari síðu eru ekki öruggir (eins og myndir).
@@ -545,7 +545,7 @@ urlbar-switch-to-tab =
     .value = Fara á flipa:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
-    .value = Viðbót:
+    .value = Forritsauki:
 urlbar-go-button =
     .tooltiptext = Hoppa á tengilinn sem er í veffangastikunni
 urlbar-page-action-button =

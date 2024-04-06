@@ -11,7 +11,7 @@
 origin-controls-no-access =
     .label = Forritsaukinn getur ekki lesið og breytt gögnum
 origin-controls-quarantined =
-    .label = Viðbót er ekki leyft að lesa og breyta gögnum
+    .label = Forritsauka er ekki leyft að lesa og breyta gögnum
 origin-controls-quarantined-status =
     .label = Forritsauki ekki leyfður á takmörkuðum vefsvæðum
 origin-controls-quarantined-allow =

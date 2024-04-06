@@ -73,7 +73,7 @@ policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Slökkva á aðv�
 # English or translate them as verbs.
 policy-Extensions = Setja upp, fjarlægja eða læsa forritsaukum. Uppsetningarvalkosturinn samþykkir vefslóðir og leiðir sem breytur. Valkostir um að fjarlægja viðauka eða læstir valkostir krefjast auðkennis viðaukans.
 policy-ExtensionSettings = Stjórnaðu öllum uppsetningarþáttum forritsauka.
-policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á viðbótum.
+policy-ExtensionUpdate = Virkja eða slökkva á sjálfvirkri uppfærslu á forritsaukum.
 policy-FirefoxHome2 = Stilla { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Stilla { -firefox-suggest-brand-name }.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Þvinga beint innranetsflakk í stað þess að leita að stökum orðum sem sett eru inn í veffangastikuna.
