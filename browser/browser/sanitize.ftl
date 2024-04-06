@@ -86,6 +86,8 @@ sanitize-button-ok =
     .label = ہݨ صاف کرو
 sanitize-button-ok2 =
     .label = صاف کرو
+sanitize-button-ok-on-shutdown =
+    .label = تبدیلیاں محفوظ کرو
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
