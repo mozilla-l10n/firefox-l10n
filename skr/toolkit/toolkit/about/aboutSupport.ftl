@@ -414,3 +414,4 @@ pointing-device-touchscreen = ٹچ سکرین
 
 ## Content Analysis (DLP)
 
+content-analysis-active = فعال

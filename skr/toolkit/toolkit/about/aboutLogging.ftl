@@ -40,6 +40,8 @@ about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = میڈیا پلے بیک
 about-logging-preset-media-playback-description = میڈیا پلے بیک مسائل دی تشخیص کیتے ماڈیول لاگ کرو (ویڈیو کانفرنسنگ دے مسائل کائنی)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = WebGPU مسائل دی تشخیص کیتے ماڈیول لاگ ان کرو۔
 about-logging-preset-gfx-label = گرافکس
 about-logging-preset-gfx-description = گرافکس مسائل دی تشخیص کیتے ماڈیول لاگ
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.

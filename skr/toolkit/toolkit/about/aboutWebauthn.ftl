@@ -8,8 +8,10 @@
 
 ## Section titles
 
+about-webauthn-pin-section-title = PIN  منیجمنٹ
 about-webauthn-credential-management-section-title = سنداں منیج کرو
 about-webauthn-pin-required-section-title = پن ضروری ہے
+about-webauthn-confirm-deletion-section-title = مٹاوݨ دی تصدیق کرو
 
 ## Info field texts
 
@@ -22,6 +24,7 @@ about-webauthn-results-general-error = خرابی!
 ## Labels
 
 about-webauthn-new-pin-label = نواں پن:
+about-webauthn-credential-list-subsection-title = سنداں:
 
 ## Buttons
 
@@ -43,6 +46,9 @@ about-webauthn-auth-option-false = False
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-algorithms = الگورتھماں
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = ایکسٹینشنز
 about-webauthn-auth-info-versions = ورشنز
 # Shows when boolean value for an info field is True. True should not be translated.
