@@ -325,4 +325,6 @@ onboarding-device-migration-primary-button-label = سائن ان
 
 ## New user time and familiarity survey strings
 
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = اڳلا
 onboarding-new-user-survey-time-based-option-2 = 1مہینے کنوں گھٹ
