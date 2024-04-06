@@ -41,6 +41,7 @@ firefoxview-tabpickup-synctabs-description = ڈیوائسز دے درمیان ٹ
 firefoxview-tabpickup-synctabs-learn-how = ڄاݨو کیویں
 firefoxview-tabpickup-synctabs-primarybutton = کھلیاں ٹیبز ہم وقت کرو
 firefoxview-syncedtabs-synctabs-header = آپݨیاں ہم وقت کرݨ ترتیباں اپ ڈیٹ کرو
+firefoxview-syncedtabs-loading-header = ہم وقت تھیندا پئے
 firefoxview-tabpickup-fxa-admin-disabled-header = تہاݙی تنظیم ہم وقت کرݨ غیر فعال کر ݙتا ہے
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } آلات دے درمیان ٹیباں دی مطابقت پذیری دے قابل کائنی کیوں جو تہاݙے منتظم مطابقت پذیری کوں غیر فعال کر ݙتا ہے۔
 firefoxview-tabpickup-network-offline-header = اپݨا انٹرنیٹ کنکشن چیک کرو

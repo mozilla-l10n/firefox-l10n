@@ -61,6 +61,8 @@ fxviewtabrow-unpin-tab = ٹیب کوں ان پن کرو
     .accesskey = p
 fxviewtabrow-mute-tab = ٹیب کوں خاموش کرو
     .accesskey = M
+fxviewtabrow-unmute-tab = ٹیب کوں چالو کرو
+    .accesskey = m
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

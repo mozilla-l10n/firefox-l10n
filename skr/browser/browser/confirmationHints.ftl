@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = رپورٹ بھیڄ ݙتی ڳئی اے۔ تہاݙا شکریہ
 confirmation-hint-login-removed = لاگ ان ہٹ ڳیا!
+confirmation-hint-password-removed = پاس ورڈ ہٹا ݙتا ڳئے!
 confirmation-hint-page-bookmarked = بک مارکس تے ہتھیکڑا تھی ڳئے
 confirmation-hint-password-saved = پاس ورڈ ہتھیکڑا تھی ڳئے!
 confirmation-hint-password-created = پاس ورڈ محفوظ تھی ڳیا

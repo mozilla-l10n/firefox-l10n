@@ -96,8 +96,11 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-not-opted-in-revised-button = سمجھ گھدے
 shopping-callout-not-opted-in-reminder-close-button = فارغ کرو
 shopping-callout-not-opted-in-reminder-ignore-checkbox = ولدا نہ ݙکھاؤ
+shopping-callout-disabled-auto-open-button = سمجھ گھدے
+shopping-callout-opted-out-button = سمجھ گھدے
 
 ## Onboarding message strings.
 
