@@ -171,6 +171,9 @@ about-logins-export-password-os-auth-dialog-message-win = اپݨے لاگ ان �
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = سوگھا لاگ ان تے پاس ورڈ برآمد کرو
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = محفوظ تھئے پاس ورڈ ایکسپورٹ کرو
 
 ## Primary Password notification
 
@@ -351,6 +354,7 @@ about-logins-import-dialog-error-try-import-again = ولا درآمد کرݨ د�
 about-logins-import-dialog-error-cancel = منسوخ
 about-logins-import-report-title = درآمد دا خلاصہ
 about-logins-import-report-description = لاگ انز تے پاس ورڈس { -brand-short-name } تے برآمد کیتے ڳئے ہن
+about-logins-import-report-description2 = { -brand-short-name } تے امپورٹ تھئے پاس ورڈز
 #
 # Variables:
 #  $number (number) - The number of the row
