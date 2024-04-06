@@ -265,6 +265,7 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = آپݨے کھاتے وچ سائن ان تھیوو
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
