@@ -265,4 +265,5 @@ launch-on-login-infobar-final-reject-button = کو، شکریہ
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-primary-button = { -brand-short-name } دے نال میݙے لنک کھولو
 tail-fox-spotlight-secondary-button = ہݨ کائناں
