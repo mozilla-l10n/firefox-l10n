@@ -177,11 +177,28 @@ shopping-survey-q2-radio-3-label = Es nezinu
 shopping-survey-next-button-label = Nākamais
 shopping-survey-submit-button-label = Iesniegt
 shopping-survey-terms-link = Lietošanas noteikumi
+shopping-survey-thanks =
+    .heading = Paldies par jūsu atsauksmi!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Ikreiz, kad redzat cenu zīmi, apskatiet <strong>atsauksmju pārbaudītāju</strong>.
+shopping-callout-pdp-opted-in-title = Vai šīs atsauksmes ir uzticamas? Ātri uzziniet.
+shopping-callout-pdp-opted-in-subtitle = Atveriet atsauksmju pārbaudītāju, lai skatītu koriģētu vērtējumu, kurā ir izņemtas ārā neuzticamas atsauksmes. Turklāt skatiet jaunāko autentisko atsauksmju svarīgākos punktus.
+shopping-callout-closed-not-opted-in-title = Viens klikšķis, lai iegūtu uzticamas atsauksmes
+shopping-callout-closed-not-opted-in-subtitle = Izmēģiniet atsauksmju pārbaudītāju ikreiz, kad redzat cenu zīmi. Pirms pērkat, ātri iegūstiet ieskatus no īstiem pircējiem.
+shopping-callout-closed-not-opted-in-revised-title = Viens klikšķis, lai iegūtu uzticamas atsauksmes
+shopping-callout-closed-not-opted-in-revised-subtitle = Vienkārši noklikšķiniet uz cenu zīmes ikonas adreses joslā, lai atgrieztos atsauksmju pārbaudītājā.
+shopping-callout-closed-not-opted-in-revised-button = Sapratu
+shopping-callout-not-opted-in-reminder-title = Iepērcieties ar pārliecību
+shopping-callout-not-opted-in-reminder-subtitle = Neesat pārliecināts, vai atsauksmes par produktu ir patiesas vai viltotas? Atsauksmju pārbaudītājs no { -brand-product-name } var palīdzēt.
+shopping-callout-not-opted-in-reminder-open-button = Atvērt atsauksmju pārbaudītāju
+shopping-callout-not-opted-in-reminder-close-button = Noraidīt
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Vairs nerādīt
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Trīs produktu atsauksmju abstrakta ilustrācija. Vienam ir brīdinājuma simbols, kas norāda, ka tas varbūt nav uzticams.
 shopping-callout-disabled-auto-open-title = Atsauksmju pārbaudītājs tagad pēc noklusējuma ir aizvērts
 shopping-callout-disabled-auto-open-subtitle = Noklikšķiniet uz cenu zīmes ikonas adreses joslā, kad vēlaties uzzināt, vai varat uzticēties produkta atsauksmēm.
 shopping-callout-disabled-auto-open-button = Sapratu
