@@ -169,6 +169,7 @@ firefoxview-search-results-count =
     }
 firefoxview-sort-history-by-date-label = تریخ دے لحاظ نال چھانٹی کرو
 firefoxview-sort-history-by-site-label = سائٹ دے لحاظ نال چھانٹی کرو
+firefoxview-sort-open-tabs-by-order-label = ٹیب ترتیب نال چھانٹی کرو
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -230,6 +231,8 @@ firefoxview-tabs =
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = { $tabTitle } تے سوئچ کرو
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:

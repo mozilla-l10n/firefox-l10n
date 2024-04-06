@@ -279,6 +279,8 @@ quickactions-cmd-plugins = پلگ انز
 # Opens the print dialog
 quickactions-print2 = ورقہ پرنٹ کرو
 quickactions-cmd-print = چھاپو
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = ورقہ پی ڈی ایف دے طور تے محفوظ کرو
 quickactions-cmd-savepdf = پی ڈی ایف
 # Opens a new private browsing window
 quickactions-private2 = نجی ونڈو کھولو
@@ -349,6 +351,7 @@ identity-connection-secure = قابل بھروسا کنکشن
 identity-connection-failure = رابطہ ناکام ریہا
 identity-connection-internal = اے ہک قابل بھروسا { -brand-short-name } صفحہ ہے۔
 identity-connection-file = اے صفحہ تہاݙے کمپیوٹر اِچ سوگھا ہے۔
+identity-connection-associated = ایہ ورقہ ہک ٻئے ورقے کنوں لوڈ کیتا ڳیا ہے۔
 identity-extension-page = اے صفحہ ایکسٹینشن کنوں لوڈ کیتا ڳیا ہے۔
 identity-active-blocked = { -brand-short-name } ایں صفحے دے او حصے بلاک کر ݙتے ہن جیڑھے قابل بھروسا کائنی۔
 identity-custom-root = ہک سرٹیفکیٹ جاری کرݨ والے دے ذریعہ تصدیق شدہ کنکشن جیڑھا Mozilla دے ذریعے تسلیم شدہ کائنی۔
@@ -567,6 +570,11 @@ urlbar-result-action-search-w-engine = { $engine } نال ڳولو
 urlbar-result-action-sponsored = سپانسر شدہ
 urlbar-result-action-switch-tab = ٹیب تے ون٘ڄو
 urlbar-result-action-visit = دورہ
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = <span> { $container } </span> ٹیب تے سوئچ کرو
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = کلپ بورڈ توں ݙیکھو
 # Directs a user to press the Tab key to perform a search with the specified
@@ -889,6 +897,9 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>پچھلیاں ٹیباں کھولو؟</strong> تساں تاریخ دے تحت { -brand-short-name } ایپلیکیشن مینیو <img data-l10n-name="icon"/> کنوں اپݨے پچھلے سیشن کوں بحال کر سڳدے او۔
 restore-session-startup-suggestion-button = میکوں ݙکھاؤ کیویں
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
