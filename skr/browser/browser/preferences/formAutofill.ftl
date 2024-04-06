@@ -9,6 +9,7 @@ autofill-manage-addresses-title = ہتھیکڑے پتے
 autofill-manage-addresses-list-header = پتے
 autofill-manage-credit-cards-title = ہتھیکڑے کریڈٹ کارڈز
 autofill-manage-credit-cards-list-header = کریڈٹ کارڈز
+autofill-manage-payment-methods-title = محفوظ تھئے ادائیگی طریقے
 autofill-manage-cards-list-header = کارڈز
 autofill-manage-dialog =
     .style = min-width: 560px
@@ -37,8 +38,6 @@ address-capture-manage-address-button =
     .label = پتہ ترتیباں
 address-capture-learn-more-button =
     .label = ٻیا سِکھو
-# The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = نواں پتہ شامل کرو
 address-capture-open-menu-button =
     .aria-label = مینیو کھولو
 address-capture-edit-address-button =
@@ -109,6 +108,8 @@ autofill-address-eircode = ایرکوڈ
 
 ##
 
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = نواں پتہ شامل کرو
 autofill-address-country = ملک یا علاقہ
 autofill-address-country-only = ملک
 autofill-address-tel = فون

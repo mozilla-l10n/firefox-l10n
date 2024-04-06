@@ -12,6 +12,18 @@ about-reader-color-scheme-sepia = سیپیا
     .title = رنگ سکیم سیپیا
 about-reader-color-scheme-auto = آٹو
     .title = رنگ سکیم آٹو
+about-reader-color-theme-light = پھکا
+    .title = رنگ تھیم پھکا
+about-reader-color-theme-dark = شوخ
+    .title = رنگ تھیم شوخ
+about-reader-color-theme-sepia = سیپیا
+    .title = رنگ تھیم سیپیا
+about-reader-color-theme-auto = آٹو
+    .title = رنگ تھیم آٹو
+about-reader-color-theme-gray = خاکی
+    .title = رنگ تھیم خاکی
+about-reader-color-theme-contrast = امتزاج
+    .title = رنگ تھیم امتزاج
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

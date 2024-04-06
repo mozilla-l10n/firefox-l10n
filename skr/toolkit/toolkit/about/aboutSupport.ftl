@@ -189,6 +189,7 @@ media-codec-support-lack-of-extension = ایکسٹنشن انسٹال کرو
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-cdm-capabilities = صلاحیتاں
 
 ##
 
