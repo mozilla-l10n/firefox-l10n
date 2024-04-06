@@ -5,11 +5,10 @@
 refresh-profile-dialog-title = Endurnýja { -brand-short-name } í sjálfgefnar stillingar?
 refresh-profile-dialog-button =
     .label = Uppfæra { -brand-short-name }
-refresh-profile-dialog-description = Byrjaðu upp á nýtt til að laga afkastavandamál. Þetta mun fjarlægja viðbætur þínar og sérstillingar. Þú munt ekki missa nauðsynlegar upplýsingar eins og bókamerki og lykilorð.
+refresh-profile-dialog-description = Byrjaðu upp á nýtt til að laga afkastavandamál. Þetta mun fjarlægja forritsaukana þína og sérstillingar. Þú munt ekki missa nauðsynlegar upplýsingar eins og bókamerki og lykilorð.
 refresh-profile = Lagfæra { -brand-short-name }
 refresh-profile-button = Uppfæra { -brand-short-name }…
 refresh-profile-learn-more = Frekari upplýsingar
-
 refresh-profile-progress =
     .title = Uppfæra { -brand-short-name }
 refresh-profile-progress-description = Næstum því búið…

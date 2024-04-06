@@ -151,7 +151,7 @@ restart-in-troubleshoot-mode-label = Úrræðaleitarhamur…
 clear-startup-cache-title = Prófa að hreinsa skyndiminni ræsingar
 clear-startup-cache-label = Hreinsa skyndiminni ræsingar...
 startup-cache-dialog-title2 = Endurræsa { -brand-short-name } til að hreinsa skyndiminni ræsingar?
-startup-cache-dialog-body2 = Þetta mun ekki breyta stillingum þínum eða fjarlægja viðbætur.
+startup-cache-dialog-body2 = Þetta mun ekki breyta stillingum þínum eða fjarlægja forritsauka.
 restart-button-label = Endurræsa
 
 ## Media titles
