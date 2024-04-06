@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 shopping-page-title = { -brand-product-name } خریداری
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = نظرثانی پڑتالݨ آلا
 shopping-beta-marker = Beta
 shopping-close-button =
     .title = بند کرو
@@ -93,6 +96,8 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-not-opted-in-reminder-close-button = فارغ کرو
+shopping-callout-not-opted-in-reminder-ignore-checkbox = ولدا نہ ݙکھاؤ
 
 ## Onboarding message strings.
 

@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = ڳولݨ انجݨ دا اضافہ ک�
 newtab-topsites-add-shortcut-header = نواں شارٹ کٹ
 newtab-topsites-edit-topsites-header = بہترین سائٹ دی تدوین کرو
 newtab-topsites-edit-shortcut-header = شارٹ کٹ وِچ ترمیم کرو
+newtab-topsites-add-shortcut-label = شارٹ کٹ شامل کرو
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = ہک عنوان درج کرو
@@ -198,6 +199,7 @@ newtab-section-header-recent-activity = حالیہ سرگرمی
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } دی طرفوں تجویز کردہ
+newtab-section-header-stories = فکر انگیز کہاݨیاں
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -206,6 +208,8 @@ newtab-empty-section-highlights = برائوزنگ شروع کرو، تے اسا
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = تساں وٹھی گھدا ہے۔ { $provider } کنوں ودھیک اہم خبراں کیتے بعد اِچ دوبارہ چیک کرو۔ انتظا نہیں سڳدے؟ ویب دے چودھاروں ودھیک عمدہ کہانیاں لبھݨ کیتے ہک مقبول موضوع منتخب کرو۔
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = تساں وٹھی ڳئے ہو۔ ٻیاں کہاݨیاں کیتے بعد اِچ دوبارہ چیک کرو۔ انتظار نہیں سڳدے؟ ویب دے چودھاروں ودھیک عمدہ کہانیاں لبھݨ کیتے ہک مقبول موضوع منتخب کرو۔
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -258,9 +262,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = سپانسر تھئے شارٹ کٹ
 newtab-custom-pocket-title = { -pocket-brand-name } دی طرفوں سفارش کیتے ڳئے
 newtab-custom-pocket-subtitle = { -pocket-brand-name } دے ذریعے تیار تھئے غیر معمولی مواد، { -brand-product-name } ٹٻر دا حصہ
-newtab-custom-pocket-toggle =
-    .label = { -pocket-brand-name } دی طرفوں سفارش کیتے ڳئے
-    .description = { -pocket-brand-name } دے ذریعے تیار تھئے غیر معمولی مواد، { -brand-product-name } ٹٻر دا حصہ
 newtab-custom-pocket-sponsored = سپانسر تھیاں کہاݨیاں
 newtab-custom-pocket-show-recent-saves = حالیہ ہتھیکڑیاں ظاہر کرو
 newtab-custom-recent-title = حالیہ سرگرمی
