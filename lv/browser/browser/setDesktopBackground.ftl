@@ -4,28 +4,20 @@
 
 set-desktop-background-window =
     .title = Uzlikt darbvirsmas fonu
-
 set-desktop-background-accept =
     .label = Uzlikt darbvirsmas fonu
-
 open-desktop-prefs =
     .label = Atvērt darbvirsmas iestatījumus
-
+set-background-preview-unavailable = Priekšskatījums nav pieejams
 set-background-color = Krāsa:
-
 set-background-position = Novietojums:
-
 set-background-tile =
     .label = Flīzēts
-
 set-background-center =
     .label = Centrēts
-
 set-background-stretch =
     .label = Izstiepts
-
 set-background-fill =
     .label = Aizpildošs
-
 set-background-fit =
     .label = Ietilpstošs

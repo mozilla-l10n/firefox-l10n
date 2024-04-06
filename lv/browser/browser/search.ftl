@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Instalēšanas kļūda
 opensearch-error-duplicate-desc = { -brand-short-name } nevar pievienot jaunu meklētāju no "{ $location-url }", jo šāds meklētājs jau ir pievienots.
-
 opensearch-error-format-title = Nederīgs formāts
 opensearch-error-format-desc = { -brand-short-name } nevarēja instalēt meklētāju no: { $location-url }
-
 opensearch-error-download-title = Lejupielādes kļūda
 opensearch-error-download-desc = { -brand-short-name } nevar lejupielādēt meklētāju no: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } nevar lejupielādēt mekl
 
 searchbar-submit =
     .tooltiptext = Nosūtīt meklējumu
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Meklēt
-
 searchbar-icon =
     .tooltiptext = Meklēt
 
@@ -34,3 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+removed-search-engine-message = <strong>Jūsu noklusējuma meklētājs ir mainīts.</strong> { $oldEngine } vairs nav pieejams kā noklusējuma { -brand-short-name } meklētājs. { $newEngine } tagad ir jūsu noklusējuma meklētājs. Lai pārslēgtos uz citu noklusējuma meklētāju, atveriet iestatījumus. <label data-l10n-name="remove-search-engine-article">Uzziniet vairāk</label>
+removed-search-engine-message2 = <strong>Jūsu noklusējuma meklētājs ir mainīts.</strong> { $oldEngine } vairs nav pieejams kā noklusējuma { -brand-short-name } meklētājs. { $newEngine } tagad ir jūsu noklusējuma meklētājs. Lai pārslēgtos uz citu noklusējuma meklētāju, atveriet iestatījumus.
+remove-search-engine-button = Labi
