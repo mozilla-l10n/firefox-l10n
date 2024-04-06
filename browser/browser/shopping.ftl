@@ -129,6 +129,11 @@ shopping-analysis-explainer-intro2 = Mēs izmantojam MI tehnoloģiju no { -fakes
 shopping-analysis-explainer-grades-intro = Katra produkta atsauksmēm mēs piešķiram <strong>burtu atzīmi</strong> no A līdz F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Koriģētais vērtējums</strong> ir balstīts tikai uz atsauksmēm, kuras uzskatām par uzticamām.
 shopping-analysis-explainer-learn-more2 = Uzziniet vairāk par to, <a data-l10n-name="review-quality-url">kā { -fakespot-brand-name } nosaka atsauksmju kvalitāti</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Svarīgākie punkti</strong> ir no { $retailer } atsauksmēm pēdējo 80 dienu laikā, kuras, mūsuprāt, ir uzticamas.
+shopping-analysis-explainer-review-grading-scale-reliable = Uzticamas atsauksmes. Mēs uzskatām, ka atsauksmes, visticamāk, ir no īstiem klientiem, kuri atstājuši godīgas un objektīvas atsauksmes.
 
 ## Strings for UrlBar button
 
@@ -153,6 +158,34 @@ shopping-analysis-explainer-learn-more2 = Uzziniet vairāk par to, <a data-l10n-
 
 shopping-callout-disabled-auto-open-title = Atsauksmju pārbaudītājs tagad pēc noklusējuma ir aizvērts
 shopping-callout-disabled-auto-open-subtitle = Noklikšķiniet uz cenu zīmes ikonas adreses joslā, kad vēlaties uzzināt, vai varat uzticēties produkta atsauksmēm.
+shopping-callout-disabled-auto-open-button = Sapratu
+shopping-callout-opted-out-title = Atsauksmju pārbaudītājs ir izslēgts
+shopping-callout-opted-out-subtitle = Lai to atkal ieslēgtu, adreses joslā noklikšķiniet uz cenu zīmes ikonas un izpildiet norādījumus.
+shopping-callout-opted-out-button = Sapratu
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Izmēģiniet mūsu uzticamo produktu atsauksmju ceļvedi
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Pirms iegādes uzziniet, cik uzticamas ir produktu atsauksmes vietnē <b>{ $currentSite }</b>. Atsauksmju pārbaudītājs ir eksperimentāla funkcija no { -brand-product-name }, kas ir iebūvēta pašā pārlūkā. Tas darbojas arī vietnēs <b>{ $secondSite }</b> un <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Pirms iegādes uzziniet, cik uzticamas ir produktu atsauksmes vietnē <b>{ $currentSite }</b>. Atsauksmju pārbaudītājs ir eksperimentāla funkcija no { -brand-product-name }, kas ir iebūvēta pašā pārlūkā.
+shopping-onboarding-body = Izmantojot { -fakespot-brand-full-name } spēku, mēs palīdzam jums izvairīties no neobjektīvām un neautentiskām atsauksmēm. Mūsu MI modelis vienmēr tiek uzlabots, lai aizsargātu jūs iepirkšanās laikā. <a data-l10n-name="learn_more">Uzziniet vairāk</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Izvēloties “{ shopping-onboarding-opt-in-button }”, jūs piekrītat uzņēmuma { -brand-product-name } <a data-l10n-name="privacy_policy">privātuma politikai</a> un { -fakespot-brand-name } <a data-l10n-name="terms_of_use">lietošanas noteikumiem</a>.
+shopping-onboarding-opt-in-button = Jā, izmēģināt to
+shopping-onboarding-not-now-button = Ne tagad
+shopping-onboarding-dialog-close-button =
+    .title = Aizvērt
+    .aria-label = Aizvērt
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progress: solis { $current } no { $total }
