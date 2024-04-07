@@ -24,3 +24,5 @@ install-failed-message = { -brand-short-name } neizdevās instalēt, taču tas t
 
 prompt-to-launch-existing-app-title = Vai atvērt esošu { -brand-short-name } lietotni?
 prompt-to-launch-existing-app-message = Jums jau ir instalēts { -brand-short-name }. Izmantojiet instalēto lietotni, lai uzturētu instalāciju aktuālu un novērstu datu zudumu.
+prompt-to-launch-existing-app-yes-button = Atvērt esošo
+prompt-to-launch-existing-app-no-button = Nē, paldies

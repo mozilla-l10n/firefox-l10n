@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This label is used by screenreaders and other assistive technology to indicate
+# to users how much of the video has been loaded from the network. It will be
+# followed by the percentage of the video that has loaded (e.g. "Loading: 13%").
+videocontrols-buffer-bar-label = Ielādē:
+videocontrols-volume-control =
+    .aria-label = Skaļums
+videocontrols-closed-caption-button =
+    .aria-label = Slēgtie subtitri
 videocontrols-play-button =
     .aria-label = Atskaņot
 videocontrols-pause-button =
@@ -16,16 +24,16 @@ videocontrols-exitfullscreen-button =
     .aria-label = Aizvērt pilnekrāna režīmu
 videocontrols-casting-button-label =
     .aria-label = Pārraidīt uz ekrānu
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Izslēgts
-
 videocontrols-error-aborted = Video ielāde apturēta.
 videocontrols-error-network = Video atskaņošana apturēta tīkla kļūmes dēļ.
 videocontrols-error-decode = Video nevar atskaņot, jo tā fails ir bojāts.
 videocontrols-error-src-not-supported = Video formāts vai MIME tips nav atbalstīs.
 videocontrols-error-no-source = Netika atrasts atbalstīta formāta vai MIME tipa video.
 videocontrols-error-generic = Video atskaņošana apturēta nezināmas kļūmes dēļ.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -39,4 +47,3 @@ videocontrols-error-generic = Video atskaņošana apturēta nezināmas kļūmes 
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
