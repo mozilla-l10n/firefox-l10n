@@ -65,6 +65,8 @@ options-default-color-unit-name = Nomes de cores
 options-webconsole-label = Consola web
 # The label for the checkbox that toggle whether the Split console is enabled
 options-webconsole-split-console-label = Ativar consola dividida
+options-webconsole-split-console-tooltip =
+    .title = Abra a Consola Dividida com a tecla Escape
 
 ## Style Editor section
 
