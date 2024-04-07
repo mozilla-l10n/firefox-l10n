@@ -121,9 +121,9 @@ options-enable-f12-label = ใช้แป้น F12 เพื่อเปิด
 options-enable-f12-tooltip =
     .title = การเปิดใช้ตัวเลือกนี้จะผูกแป้น F12 เพื่อใช้เปิดหรือปิดกล่องเครื่องมือของ DevTools
 # The label for checkbox that toggles custom formatters for objects
-options-enable-custom-formatters-label = เปิดใช้งานตัวจัดรูปแบบที่กำหนดเอง
+options-enable-custom-formatters-label = เปิดใช้งานเครื่องมือจัดรูปแบบกำหนดเอง
 options-enable-custom-formatters-tooltip =
-    .title = การเปิดตัวเลือกนี้จะทำให้ไซต์ต่าง ๆ สามารถกำหนดตัวจัดรูปแบบที่กำหนดเองสำหรับวัตถุ DOM ได้
+    .title = การเปิดใช้ตัวเลือกนี้จะทำให้ไซต์ต่างๆ สามารถกำหนดเครื่องมือจัดรูปแบบให้กับวัตถุ DOM เองได้
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = เปิดใช้งาน Service Workers over HTTP (เมื่อกล่องเครื่องมือเปิดอยู่)
 options-enable-service-workers-http-tooltip =
