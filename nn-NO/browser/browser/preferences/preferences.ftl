@@ -569,6 +569,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Eksepsjonelt innhald sett saman av { $provider }, ein del av { -brand-product-name }-familien
 home-prefs-recommended-by-header-generic =
     .label = Tilrådde artiklar
+home-prefs-recommended-by-description-generic = Eineståande innhald utvalt av { -brand-product-name }-familien
 
 ##
 
