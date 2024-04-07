@@ -43,7 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = ขนาดบัฟเฟอร์:
-perftools-custom-threads-label = เพิ่มหัวข้อที่กำหนดเองตามชื่อ:
+perftools-custom-threads-label = เพิ่มเธรดกำหนดเองตามชื่อ:
 perftools-devtools-interval-label = ช่วงเวลา:
 perftools-devtools-threads-label = เธรด:
 perftools-devtools-settings-label = การตั้งค่า
@@ -126,6 +126,11 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = นักพัฒนาเว็บ
