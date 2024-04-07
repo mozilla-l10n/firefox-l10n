@@ -4,7 +4,6 @@
 
 about-reader-loading = Wczytywanie…
 about-reader-load-error = Nie udało się wczytać artykułu z tej strony
-
 about-reader-color-scheme-light = Jasny
     .title = Jasny schemat kolorów
 about-reader-color-scheme-dark = Ciemny
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Sepia
     .title = Schemat kolorów sepii
 about-reader-color-scheme-auto = Auto
     .title = Automatyczny schemat kolorów
-
+about-reader-color-theme-light = Jasny
+    .title = Jasny motyw kolorów
+about-reader-color-theme-dark = Ciemny
+    .title = Ciemny motyw kolorów
+about-reader-color-theme-sepia = Sepia
+    .title = Motyw kolorów sepii
+about-reader-color-theme-auto = Auto
+    .title = Automatyczny motyw kolorów
+about-reader-color-theme-gray = Szary
+    .title = Szary motyw kolorów
+about-reader-color-theme-contrast = Kontrastowy
+    .title = Kontrastowy motyw kolorów
+about-reader-color-theme-custom = Inne kolory
+    .title = Inny motyw kolorów
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -50,4 +62,27 @@ about-reader-font-type-sans-serif = Bezszeryfowa
 
 about-reader-toolbar-close = Wygląd oryginalny
 about-reader-toolbar-type-controls = Czcionki
+about-reader-toolbar-color-controls = Kolory
 about-reader-toolbar-savetopocket = Wyślij do { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Motywy
+about-reader-fxtheme-tab = Domyślny
+about-reader-customtheme-tab = Inny
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Tekst
+    .title = Zmień kolor
+about-reader-custom-colors-background = Tło
+    .title = Zmień kolor
+about-reader-custom-colors-unvisited-links = Nieodwiedzone odnośniki
+    .title = Zmień kolor
+about-reader-custom-colors-visited-links = Odwiedzone odnośniki
+    .title = Zmień kolor
+about-reader-custom-colors-selection-highlight = Wyróżnianie do czytania na głos
+    .title = Zmień kolor
+about-reader-custom-colors-reset-button = Przywróć domyślne
