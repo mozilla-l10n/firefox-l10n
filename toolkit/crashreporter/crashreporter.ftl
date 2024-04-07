@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = Засіб звітування про збої { -brand-short-name }
+crashreporter-apology = Перепрошуємо
 crashreporter-crashed-and-restore = У { -brand-short-name } виникла проблема, і він аварійно завершив роботу. Ми спробуємо відновити ваші вкладки та вікна після перезапуску.
 crashreporter-plea = Щоб допомогти нам розібратись і виправити проблему, ви можете надіслати звіт про цей збій.
 crashreporter-information = Ця програма запускається після збою, щоб повідомити { -vendor-short-name } про проблему. Вона не повинна запускатися безпосередньо.
