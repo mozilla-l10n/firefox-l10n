@@ -61,4 +61,6 @@ about-reader-fxtheme-tab = Προεπιλογή
 
 about-reader-custom-colors-foreground = Κείμενο
     .title = Επεξεργασία χρώματος
+about-reader-custom-colors-selection-highlight = Επισήμανση για εκφώνηση
+    .title = Επεξεργασία χρώματος
 about-reader-custom-colors-reset-button = Επαναφορά προεπιλογών
