@@ -47,6 +47,14 @@ contentanalysis-error-message = Při komunikaci se softwarem pro prevenci ztrát
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-unspecified-error-message = Při komunikaci s agentem { $agent } došlo k chybě. Přenos byl zamítnut pro zdroj: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Nepodařilo se připojit k agentovi { $agent }. Přenos byl zamítnut pro zdroj: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Neúspěšné ověření podpisu pro agenta { $agent }. Přenos byl zamítnut pro zdroj: { $content }.
 contentanalysis-inprogress-quit-title =
     { -brand-shorter-name.case-status ->
         [with-cases] Ukončit { -brand-shorter-name(case: "acc") }?
