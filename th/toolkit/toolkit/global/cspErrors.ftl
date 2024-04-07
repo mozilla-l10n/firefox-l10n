@@ -5,27 +5,22 @@
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 csp-error-missing-directive = นโยบายไม่มีคำสั่ง ‘{ $directive }’ ที่จำเป็น
-
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $keyword (String): the name of a CSP keyword, usually 'unsafe-inline'.
 csp-error-illegal-keyword = คำสั่ง ‘{ $directive }’ มีคำสำคัญ { $keyword } ที่ไม่ได้รับอนุญาต
-
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
-csp-error-illegal-protocol = คำสั่ง ‘{ $directive }’ มี { $scheme }: แหล่งโปรโตคอลที่ไม่ได้รับอนุญาต
-
+csp-error-illegal-protocol = คำสั่ง ‘{ $directive }’ มี { $scheme }: แหล่งโพรโทคอลที่ไม่ได้รับอนุญาต
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.
-csp-error-missing-host = { $scheme }: โปรโตคอลจำเป็นต้องมีโฮสต์ในคำสั่ง ‘{ $directive }’
-
+csp-error-missing-host = { $scheme }: โพรโทคอลจำเป็นต้องมีโฮสต์ในคำสั่ง ‘{ $directive }’
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $source (String): the name of a CSP source, usually 'self'.
 csp-error-missing-source = ‘{ $directive }’ ต้องมีแหล่ง { $source }
-
 # Variables:
 #   $directive (String): the name of a CSP directive, such as "script-src".
 #   $scheme (String): a protocol name, such as "http", which appears as "http:", as it would in a URL.

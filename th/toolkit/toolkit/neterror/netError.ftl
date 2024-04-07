@@ -123,7 +123,7 @@ neterror-inadequate-security-code = รหัสข้อผิดพลาด: 
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = คอมพิวเตอร์ของคุณคิดว่าเวลาปัจจุบันคือ { DATETIME($now, dateStyle: "medium") } ซึ่งทำให้ { -brand-short-name } ไม่สามารถทำการเชื่อมต่ออย่างปลอดภัยได้ เมื่อต้องการเยี่ยมชม <b>{ $hostname }</b> ให้อัปเดตนาฬิกาคอมพิวเตอร์ของคุณในการตั้งค่าระบบของคุณให้เป็นวันที่ เวลา และเขตเวลาปัจจุบัน แล้วรีเฟรช <b>{ $hostname }</b>
-neterror-network-protocol-error-intro = ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในโปรโตคอลเครือข่าย
+neterror-network-protocol-error-intro = ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในโพรโทคอลเครือข่าย
 neterror-network-protocol-error-contact-website = โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้
 certerror-expired-cert-second-para = ดูเหมือนว่าใบรับรองของเว็บไซต์จะหมดอายุแล้ว ซึ่งทำให้ { -brand-short-name } ไม่สามารถเชื่อมต่ออย่างปลอดภัยได้ ถ้าคุณเยี่ยมชมไซต์นี้ ผู้โจมตีอาจพยายามล้วงข้อมูล เช่น รหัสผ่าน อีเมล หรือรายละเอียดบัตรเครดิตของคุณ
 certerror-expired-cert-sts-second-para = ดูเหมือนว่าใบรับรองของเว็บไซต์จะหมดอายุแล้ว ซึ่งทำให้ { -brand-short-name } ไม่สามารถเชื่อมต่ออย่างปลอดภัยได้

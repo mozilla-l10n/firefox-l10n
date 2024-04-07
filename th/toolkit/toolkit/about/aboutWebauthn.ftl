@@ -111,7 +111,7 @@ about-webauthn-auth-info-firmware-version = รุ่นของเฟิร์
 about-webauthn-auth-info-min-pin-length = ความยาว PIN ขั้นต่ำ
 about-webauthn-auth-info-force-pin-change = บังคับการเปลี่ยน PIN
 about-webauthn-auth-info-algorithms = อัลกอริทึม
-about-webauthn-auth-info-pin-protocols = โปรโตคอล PIN
+about-webauthn-auth-info-pin-protocols = โพรโทคอล PIN
 about-webauthn-auth-info-max-msg-size = ขนาดข้อความสูงสุด
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID

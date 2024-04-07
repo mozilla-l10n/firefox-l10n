@@ -114,7 +114,7 @@ graphics-crash-guards-title = คุณสมบัติที่ถูกป�
 graphics-workarounds-title = วิธีการแก้ไข
 graphics-device-pixel-ratios = อัตราส่วนพิกเซลของอุปกรณ์ในหน้าต่าง
 # Windowing system in use on Linux (e.g. X11, Wayland).
-graphics-window-protocol = โปรโตคอลหน้าต่าง
+graphics-window-protocol = โพรโทคอลหน้าต่าง
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = สภาพแวดล้อมเดสก์ท็อป
 place-database-title = ฐานข้อมูลสถานที่
@@ -225,7 +225,7 @@ intl-regional-prefs = การกำหนดลักษณะภูมิภ�
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
-remote-debugging-title = การดีบั๊กระยะไกล (โปรโตคอล Chromium)
+remote-debugging-title = การดีบั๊กระยะไกล (โพรโทคอล Chromium)
 remote-debugging-accepting-connections = การยอมรับการเชื่อมต่อ
 remote-debugging-url = URL
 
