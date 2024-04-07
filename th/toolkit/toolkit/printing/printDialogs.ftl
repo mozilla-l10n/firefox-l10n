@@ -5,7 +5,7 @@
 print-setup =
     .title = ตั้งค่าหน้ากระดาษ
 custom-prompt-title = กำหนดเอง…
-custom-prompt-prompt = ป้อนข้อความส่วนหัว/ส่วนท้ายที่กำหนดเองของคุณ
+custom-prompt-prompt = ป้อนข้อความส่วนหัว/ส่วนท้ายกำหนดเองของคุณ
 basic-tab =
     .label = รูปแบบและตัวเลือก
 advanced-tab =
@@ -103,7 +103,6 @@ print-window =
     .title = กำลังพิมพ์
 print-complete =
     .value = การพิมพ์เสร็จสมบูรณ์
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
