@@ -40,3 +40,6 @@ compatibility-issue-occurrences =
         [one] { $number } gadījumi
        *[other] { $number } gadījumu
     }
+compatibility-no-issues-found = Saderības problēmas netika atrastas.
+compatibility-close-settings-button =
+    .title = Aizvērt iestatījumus
