@@ -298,8 +298,8 @@ quickactions-cmd-screenshot = ภาพหน้าจอ
 quickactions-settings2 = จัดการการตั้งค่า
 quickactions-cmd-settings = การตั้งค่า, การกำหนดลักษณะ, ตัวเลือก
 # Opens about:addons page in the themes section
-quickactions-themes = จัดการชุดรูปแบบ
-quickactions-cmd-themes = ชุดรูปแบบ
+quickactions-themes = จัดการชุดตกแต่ง
+quickactions-cmd-themes = ชุดตกแต่ง
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = อัปเดต { -brand-short-name }
 quickactions-cmd-update = อัปเดต

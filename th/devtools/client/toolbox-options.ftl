@@ -20,7 +20,7 @@ options-select-additional-tools-label = เครื่องมือนัก�
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = ปุ่มกล่องเครื่องมือที่มี
 # The label for the heading of the radiobox corresponding to the theme
-options-select-dev-tools-theme-label = ชุดรูปแบบ
+options-select-dev-tools-theme-label = ชุดตกแต่ง
 
 ## Inspector section
 
@@ -53,6 +53,9 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = ชื่อสี
+
+## Web Console section
+
 
 ## Style Editor section
 

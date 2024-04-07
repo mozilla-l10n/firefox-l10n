@@ -53,8 +53,8 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = พิมพ์หรือวาง URL
 newtab-topsites-url-validation = ต้องการ URL ที่ถูกต้อง
-newtab-topsites-image-url-label = URL ภาพที่กำหนดเอง
-newtab-topsites-use-image-link = ใช้ภาพที่กำหนดเอง…
+newtab-topsites-image-url-label = URL ภาพกำหนดเอง
+newtab-topsites-use-image-link = ใช้ภาพกำหนดเอง…
 newtab-topsites-image-validation = ไม่สามารถโหลดภาพ ลอง URL อื่น
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.

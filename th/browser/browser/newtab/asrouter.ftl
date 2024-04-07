@@ -188,10 +188,10 @@ colorways-cfr-primarybutton = เลือกชุดรูปแบบสี
     .accesskey = ล
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = แต่งเติมสีสันให้กับเบราว์เซอร์ของคุณด้วยเฉดสีสุดพิเศษสำหรับ { -brand-short-name } ที่ได้แรงบันดาลใจจากเสียงที่เปลี่ยนแปลงวัฒนธรรม
-colorways-cfr-header-28days = ชุดรูปแบบสี “เสียงแห่งอิสระ” หมดเขต 16 มกราคมนี้
-colorways-cfr-header-14days = ชุดรูปแบบสี “เสียงแห่งอิสระ” หมดเขตในอีกสองสัปดาห์นี้
-colorways-cfr-header-7days = ชุดรูปแบบสี “เสียงแห่งอิสระ” หมดเขตสัปดาห์นี้
-colorways-cfr-header-today = ชุดรูปแบบสี “เสียงแห่งอิสระ” หมดเขตวันนี้
+colorways-cfr-header-28days = ชุดรูปแบบสี Independent Voices จะหมดเขต 16 มกราคมนี้
+colorways-cfr-header-14days = ชุดรูปแบบสี Independent Voices จะหมดเขตในอีกสองสัปดาห์นี้
+colorways-cfr-header-7days = ชุดรูปแบบสี Independent Voices จะหมดเขตสัปดาห์นี้
+colorways-cfr-header-today = ชุดรูปแบบสี Independent Voices จะหมดเขตวันนี้
 
 ## Cookie Banner Handling CFR
 
