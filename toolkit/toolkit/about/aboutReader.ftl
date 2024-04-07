@@ -21,7 +21,11 @@ about-reader-color-theme-sepia = Sépia
 about-reader-color-theme-auto = Automático
     .title = Cor de tema automática
 about-reader-color-theme-gray = Cinzento
-    .title = Cor de tema cinzenta
+    .title = Cor de tema cinza
+about-reader-color-theme-contrast = Contraste
+    .title = Cor de tema de contraste
+about-reader-color-theme-custom = Cores personalizadas
+    .title = Cor de tema personalizadas
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -57,12 +61,27 @@ about-reader-font-type-sans-serif = Sem serifa
 
 about-reader-toolbar-close = Fechar vista de leitura
 about-reader-toolbar-type-controls = Controlos de tipo
+about-reader-toolbar-color-controls = Cores
 about-reader-toolbar-savetopocket = Guardar em { -pocket-brand-name }
 
 ## Reader View colors menu
 
+about-reader-colors-menu-header = Tema
+about-reader-fxtheme-tab = Predefinição
+about-reader-customtheme-tab = Personalizado
 
 ## These are used as labels for the custom theme color pickers.
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-foreground = Texto
+    .title = Editar cor
+about-reader-custom-colors-background = Fundo
+    .title = Editar cor
+about-reader-custom-colors-unvisited-links = Ligações não visitadas
+    .title = Editar cor
+about-reader-custom-colors-visited-links = Ligações visitadas
+    .title = Editar cor
+about-reader-custom-colors-selection-highlight = Realce para ler em alta voz
+    .title = Editar cor
+about-reader-custom-colors-reset-button = Redefinir predefinições
