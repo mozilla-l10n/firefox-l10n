@@ -7,6 +7,7 @@ crashreporter-branded-title =
         [with-cases] Hlášení pádů { -brand-short-name(case: "gen") }
        *[no-cases] Hlášení pádů aplikace { -brand-short-name }
     }
+crashreporter-apology = Je nám líto
 crashreporter-crashed-and-restore =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } zaznamenal problém a spadl. Po jeho restartu se pokusíme obnovit vaše panely a okna.
@@ -30,6 +31,7 @@ crashreporter-loading-details = Načítání…
 crashreporter-view-report-title = Obsah hlášení
 crashreporter-comment-prompt = Přidat komentář (komentáře jsou veřejně dostupné)
 crashreporter-report-info = Toto hlášení obsahuje také informace o stavu aplikace před pádem.
+crashreporter-send-report = Upozornit { -vendor-short-name(case: "acc") } ohledně tohoto pádu, aby jej mohl(a) opravit.
 crashreporter-include-url = Zahrnout i adresu stránky, kde došlo k pádu.
 crashreporter-submit-status = Vaše hlášení o pádu bude odesláno před ukončením či restartem aplikace
 crashreporter-submit-in-progress = Odesílání hlášení o pádu…
