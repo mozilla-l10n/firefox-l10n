@@ -21,3 +21,4 @@ about-httpsonly-link-learn-more = Uzzināt vairāk…
 
 about-httpsonly-suggestion-box-header = Iespējamā alternatīva
 about-httpsonly-suggestion-box-www-text = Vietnei <em>www.{ $websiteUrl }</em> ir droša versija. Varat apmeklēt šo lapu, nevis <em>{ $websiteUrl }</em>.
+about-httpsonly-suggestion-box-www-button = Dodieties uz www.{ $websiteUrl }
