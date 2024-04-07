@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Ping datu avots:
+about-telemetry-show-current-data = Pašreizējie dati
 about-telemetry-show-archived-ping-data = Arhivētie ping dati
 about-telemetry-show-subsession-data = Rādīt apakšsesiju datus
 about-telemetry-choose-ping = Izvēlieties ping:
@@ -39,7 +40,7 @@ about-telemetry-fetch-stack-symbols = Iegūt funkciju nosaukumus kopām
 about-telemetry-hide-stack-symbols = Rādīt neapstrādātus steka datus
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] laidiena dati
@@ -47,43 +48,43 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] aktivēta
        *[disabled] deaktivēta
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Šī lapa attēlo veiktspējas un funkciju izmantojuma statistiku, kas apkopota ar Telemetry moduļa palīdzību. Šī informācija tiek anonīmi nosūtīta { $telemetryServerOwner }, lai palīdzētu uzlabot { -brand-full-name }.
 about-telemetry-settings-explanation = Telemetrija vāc { about-telemetry-data-type } un augšupielāde ir <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Katra informācijas vienība ir iepakota “<a data-l10n-name="ping-link">pings</a>”. Jūs skatāties uz { $name } { $timestamp } pingu.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Meklēt { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Meklēt visās sadaļās
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = “{ $searchTerms }” meklēšanas rezultāti
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Diemžēl meklējot “{ $currentSearchText }” iekš { $sectionName } nekas netika atrasts
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Diemžēl meklējot “{ $searchTerms }” visās sadaļās nekas netika atrasts
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Diemžēl šobrīd sadaļā “{ $sectionName }” dati nav pieejami
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = visi
@@ -99,13 +100,13 @@ about-telemetry-slow-sql-statement = Vaicājums
 about-telemetry-addon-table-id = Papildinājuma ID
 about-telemetry-addon-table-details = Informācija
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } piegādātājs
 about-telemetry-keys-header = Parametrs
 about-telemetry-names-header = Nosaukums
 about-telemetry-values-header = Vērtība
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Vēlie rakstījumi #{ $lateWriteCount }
 about-telemetry-stack-title = Izsaukumu kopa:
 about-telemetry-memory-map-title = Atmiņas karte:
