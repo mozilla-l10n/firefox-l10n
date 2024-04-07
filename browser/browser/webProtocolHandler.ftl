@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = Nie teraz
 
 protocolhandler-mailto-handler-notificationbox-always = Czy zawsze otwierać odnośniki wysyłające wiadomość e-mail w serwisie { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } jest teraz domyślnym serwisem do otwierania odnośników wysyłających wiadomość e-mail.
+protocolhandler-mailto-handler-set-message = Czy używać <strong>serwisu { $url } w { -brand-short-name(case: "loc") }</strong> za każdym razem, gdy klikniesz odnośnik otwierający pocztę e-mail?
+protocolhandler-mailto-handler-confirm-message = <strong>Serwis { $url } w { -brand-short-name(case: "loc") }</strong> jest teraz domyślną aplikacją do obsługi poczty e-mail na komputerze.
 
 ##
 

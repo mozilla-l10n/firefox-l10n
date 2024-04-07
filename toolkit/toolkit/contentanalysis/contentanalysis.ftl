@@ -43,6 +43,18 @@ contentanalysis-block-message = Twoja organizacja korzysta z oprogramowania zap
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Wystąpił błąd podczas komunikacji z oprogramowaniem zapobiegającym utracie danych. Odmowa przesłania zasobu: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Wystąpił błąd podczas komunikacji z agentem { $agent }. Odmowa przesłania zasobu: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Nie można połączyć się z agentem { $agent }. Odmowa przesłania zasobu: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Weryfikacja podpisu agenta { $agent } się nie powiodła. Odmowa przesłania zasobu: { $content }.
 contentanalysis-inprogress-quit-title = Czy zakończyć { -brand-shorter-name(case: "acc") }?
 contentanalysis-inprogress-quit-message = Trwa kilka działań. Zakończenie { -brand-shorter-name(case: "gen") } spowoduje ich nieukończenie.
 contentanalysis-inprogress-quit-yesbutton = Tak, zakończ

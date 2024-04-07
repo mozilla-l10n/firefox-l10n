@@ -4,15 +4,13 @@
 
 sidebar-menu-bookmarks =
     .label = Zakładki
-
 sidebar-menu-history =
     .label = Historia
-
 sidebar-menu-synced-tabs =
     .label = Karty z innych urządzeń
-
+sidebar-menu-megalist =
+    .label = Hasła
 sidebar-menu-close =
     .label = Zamknij panel boczny
-
 sidebar-close-button =
     .tooltiptext = Zamyka panel boczny
