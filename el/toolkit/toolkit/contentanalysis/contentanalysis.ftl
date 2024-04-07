@@ -43,6 +43,18 @@ contentanalysis-block-message = Ο οργανισμός σας χρησιμοπ�
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Προέκυψε σφάλμα κατά την επικοινωνία με το λογισμικό πρόληψης απώλειας δεδομένων. Η μεταφορά απορρίφθηκε για τον πόρο: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Προέκυψε σφάλμα κατά την επικοινωνία με το { $agent }. Η μεταφορά απορρίφθηκε για τον πόρο: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Αδυναμία σύνδεσης στο { $agent }. Η μεταφορά απορρίφθηκε για τον πόρο: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Αποτυχία επαλήθευσης υπογραφής για το { $agent }. Η μεταφορά απορρίφθηκε για τον πόρο: { $content }.
 contentanalysis-inprogress-quit-title = Έξοδος από το { -brand-shorter-name };
 contentanalysis-inprogress-quit-message = Βρίσκονται σε εξέλιξη πολλές ενέργειες. Αν κλείσετε το { -brand-shorter-name }, αυτές οι ενέργειες δεν θα ολοκληρωθούν.
 contentanalysis-inprogress-quit-yesbutton = Ναι, έξοδος
