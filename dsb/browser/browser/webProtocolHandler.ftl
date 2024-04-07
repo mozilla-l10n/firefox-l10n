@@ -13,6 +13,7 @@ protocolhandler-mailto-os-handler-no-button = Nic něnto
 protocolhandler-mailto-handler-notificationbox-always = E-mailowe wótkaze pśecej z { $url } wócyniś?
 protocolhandler-mailto-handler-yes-confirm = { $url } jo něnto wašo standardne sedło za wócynjanje wótkazow, kótarež mejlki sćelu.
 protocolhandler-mailto-handler-set-message = <strong>{ $url } w { -brand-short-name }</strong> kuždy raz wužywaś, gaž na wótkaz klikaśo, kótaryž wašu mejlku wócynja?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } w { -brand-short-name } </strong> jo něnto standardny e-mailowy wóźeński program wašogo licadła.
 
 ##
 

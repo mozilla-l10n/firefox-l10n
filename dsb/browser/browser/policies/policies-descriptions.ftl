@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Pśistup k bokoju about:support blokěrowaś.
 policy-Bookmarks = Cytańske znamjenja w symbolowej rědce cytańskich znamjenjow, w meniju cytańskich znamjenjow abo w pódanem zastojniku w nima napóraś.
 policy-CaptivePortal = Kaptiwny portal zmóžniś abo znjemóžniś
 policy-CertificatesDescription = Certifikaty pśidaś abo zatwarjone certifikaty wužywaś.
+policy-ContentAnalysis = Zwisk z agentom zajźowanja zgubjenja datow zmóžniś abo znjemóžniś.
 policy-Cookies = Websedłam dowóliś abo zakazaś, cookieje składowaś.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Pšawidła nastupajucy kontejnery póstajiś
