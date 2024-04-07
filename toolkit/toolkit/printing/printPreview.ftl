@@ -31,17 +31,24 @@ printpreview-print =
     .accesskey = D
 printpreview-of =
     .value = no
+printpreview-custom-scale-prompt-title = Pielāgots izmērs
 printpreview-page-setup =
     .label = Lapas iestatījumi...
     .accesskey = u
 printpreview-page =
     .value = Lapa:
     .accesskey = a
+# Variables
+# $sheetNum (integer) - The current sheet number
+# $sheetCount (integer) - The total number of sheets to print
+printpreview-sheet-of-sheets = { $sheetNum } no { $sheetCount }
 
 ## Variables
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = Pirmā lapa
@@ -54,4 +61,11 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Pēdējā lapa
-
+printpreview-homearrow-button =
+    .title = Pirmā lappuse
+printpreview-previousarrow-button =
+    .title = Iepriekšējā lappuse
+printpreview-nextarrow-button =
+    .title = Nākamā lappuse
+printpreview-endarrow-button =
+    .title = Pēdējā lappuse
