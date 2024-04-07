@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Προνομιακό περιεχόμενο Moz
 process-type-extension = Επέκταση
 # process used to open file:// URLs
 process-type-file = Τοπικό αρχείο
+# process used to instantiate new child processes
+process-type-forkserver = Διακλάδωση διακομιστή
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Απομονωμένο διαδικτυακό περιεχόμενο
