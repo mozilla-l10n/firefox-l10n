@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printui-title = Drukāt
-
 # Section title for the number of copies to print
 printui-copies-label = Kopijas
-
 printui-landscape = Ainava
 printui-portrait = Portrets
 
@@ -14,12 +12,19 @@ printui-portrait = Portrets
 ## options to select between the original page, selected text only, or a version
 ## where the page is processed with "Reader View".
 
+
 ##
 
 printui-primary-button = Drukāt
 printui-cancel-button = Atcelt
 
 ## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
 
 ## Error messages shown when a user has an invalid input
 
