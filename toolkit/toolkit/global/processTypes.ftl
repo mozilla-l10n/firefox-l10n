@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Uprzywilejowane strony Mozilli
 process-type-extension = Rozszerzenie
 # process used to open file:// URLs
 process-type-file = Lokalny plik
+# process used to instantiate new child processes
+process-type-forkserver = Serwer rozdzielania
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Wydzielone strony
