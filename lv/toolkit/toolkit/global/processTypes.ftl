@@ -17,13 +17,32 @@ process-type-privilegedmozilla = Priviliģēts Mozilla saturs
 process-type-extension = Paplašinājums
 # process used to open file:// URLs
 process-type-file = Lokālā datne
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = Izolēts tīmekļa saturs
+# process used to isolate a ServiceWorker to improve
+# performance
+process-type-webserviceworker = Izolēts servisa strādnieks
+# process preallocated; may change to other types
+process-type-prealloc = Iepriekš piešķirts
 
 ##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 ##
 
+process-type-default = Galvenais
+process-type-tab = Cilne
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU
+# process used to perform network operations
+process-type-socket = Ligzda
+# process used to decode media
+process-type-rdd = RDD
 
 ##
 ## Other
 ##
 
+# fallback
+process-type-unknown = Nezināms
