@@ -32,6 +32,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Søk i innstillingar
 managed-notice = Nettlessaren din vert administrert av organisasjonen din.
+managed-notice-info-icon =
+    .alt = Informasjon
 category-list =
     .aria-label = Kategoriar
 pane-general-title = Generelt
@@ -258,6 +260,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Forstørr berre tekst
     .accesskey = o
+preferences-text-zoom-override-warning =
+    .message = Åtvaring: Viss du vel «Forstørr bere tekst» og standard-zoomen ikkje er sett til 100 %, kan det føre til at enkelte nettstadar eller innhald ikkje fungerer korrekt.
 language-header = Språk
 choose-language-description = Vel føretrekte språk på nettsider
 choose-button =
@@ -563,6 +567,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Tilrådd av { $provider }
 home-prefs-recommended-by-description-new = Eksepsjonelt innhald sett saman av { $provider }, ein del av { -brand-product-name }-familien
+home-prefs-recommended-by-header-generic =
+    .label = Tilrådde artiklar
 
 ##
 
