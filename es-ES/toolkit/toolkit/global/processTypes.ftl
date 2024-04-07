@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Contenido de Mozilla - privilegiado
 process-type-extension = Extensión
 # process used to open file:// URLs
 process-type-file = Archivo local
+# process used to instantiate new child processes
+process-type-forkserver = Fork server
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Contenido web aislado

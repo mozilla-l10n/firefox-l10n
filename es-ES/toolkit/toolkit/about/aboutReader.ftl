@@ -4,7 +4,6 @@
 
 about-reader-loading = Cargando…
 about-reader-load-error = Fallo al cargar el artículo de la página
-
 about-reader-color-scheme-light = Claro
     .title = Esquema de color claro
 about-reader-color-scheme-dark = Oscuro
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Sepia
     .title = Esquema de color sepia
 about-reader-color-scheme-auto = Auto
     .title = Esquema de color automático
-
+about-reader-color-theme-light = Claro
+    .title = Tema de color claro
+about-reader-color-theme-dark = Oscuro
+    .title = Tema de color oscuro
+about-reader-color-theme-sepia = Sepia
+    .title = Tema de color sepia
+about-reader-color-theme-auto = Auto
+    .title = Tema de color automático
+about-reader-color-theme-gray = Gris
+    .title = Tema de color gris
+about-reader-color-theme-contrast = Contraste
+    .title = Tema con alto contraste
+about-reader-color-theme-custom = Colores personalizados
+    .title = Tema con colores personalizados
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,4 +61,27 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Cerrar vista de lectura
 about-reader-toolbar-type-controls = Controles de tipografía
+about-reader-toolbar-color-controls = Colores
 about-reader-toolbar-savetopocket = Guardar en { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Tema
+about-reader-fxtheme-tab = Predeterminado
+about-reader-customtheme-tab = Personalizado
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Texto
+    .title = Editar color
+about-reader-custom-colors-background = Fondo
+    .title = Editar color
+about-reader-custom-colors-unvisited-links = Enlaces no visitados
+    .title = Editar color
+about-reader-custom-colors-visited-links = Enlaces visitados
+    .title = Editar color
+about-reader-custom-colors-selection-highlight = Resaltador para leer en voz alta
+    .title = Editar color
+about-reader-custom-colors-reset-button = Restablecer predeterminados
