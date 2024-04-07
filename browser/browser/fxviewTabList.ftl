@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = افتح { $targetURI } في لسان جديد
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = أغلِق { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = أخفِ { $tabTitle }
@@ -29,3 +33,6 @@ fxviewtabrow-add-bookmark = علّم…
     .accesskey = ل
 fxviewtabrow-close-tab = أغلق اللسان
     .accesskey = ق
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
