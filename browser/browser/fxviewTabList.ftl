@@ -28,11 +28,57 @@ fxviewtabrow-just-now-timestamp = للتو
 # Strings below are used for context menu options within panel-list.
 # For developers, this duplicates command because the label attribute is required.
 
+fxviewtabrow-delete = احذف
+    .accesskey = ذ
+fxviewtabrow-forget-about-this-site = انسَ هذا الموقع…
+    .accesskey = ق
+fxviewtabrow-open-in-window = افتح في نافذة جديدة
+    .accesskey = ف
+fxviewtabrow-open-in-private-window = افتح في نافذة خاصة جديدة
+    .accesskey = ف
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = علّم…
     .accesskey = ل
+fxviewtabrow-save-to-pocket = احفظ في { -pocket-brand-name }
+    .accesskey = ظ
+fxviewtabrow-copy-link = انسخ الرابط
+    .accesskey = ن
 fxviewtabrow-close-tab = أغلق اللسان
     .accesskey = ق
+fxviewtabrow-move-tab = انقل اللسان
+    .accesskey = ق
+fxviewtabrow-move-tab-start = انقل إلى البداية
+    .accesskey = ن
+fxviewtabrow-move-tab-end = انقل إلى النهاية
+    .accesskey = ن
+fxviewtabrow-move-tab-window = انقل إلى نافذة جديدة
+    .accesskey = ن
+fxviewtabrow-send-tab = أرسِل اللسان إلى جهاز
+    .accesskey = ن
+fxviewtabrow-pin-tab = ثبّت اللسان
+    .accesskey = ن
+fxviewtabrow-unpin-tab = أفلِت اللسان
+    .accesskey = ن
+fxviewtabrow-mute-tab = أصمت اللسان
+    .accesskey = م
+fxviewtabrow-unmute-tab = أطلِق صوت اللسان
+    .accesskey = ت
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = خيارات { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being muted
+fxviewtabrow-mute-tab-button =
+    .title = اكتم { $tabTitle }
+# Variables:
+#   $tabTitle (string) - Title of tab being unmuted
+fxviewtabrow-unmute-tab-button =
+    .title = أطلِق صوت { $tabTitle }
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = اكتم اللسان
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = أطلِق صوت اللسان
