@@ -4,7 +4,6 @@
 
 about-reader-loading = กำลังโหลด…
 about-reader-load-error = ไม่สามารถโหลดบทความจากหน้า
-
 about-reader-color-scheme-light = สว่าง
     .title = แบบแผนชุดสีสว่าง
 about-reader-color-scheme-dark = มืด
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = ซีเปีย
     .title = แบบแผนชุดสีซีเปีย
 about-reader-color-scheme-auto = อัตโนมัติ
     .title = แบบแผนชุดสีอัตโนมัติ
-
+about-reader-color-theme-light = สว่าง
+    .title = ชุดตกแต่งสีสว่าง
+about-reader-color-theme-dark = มืด
+    .title = ชุดตกแต่งสีมืด
+about-reader-color-theme-sepia = ซีเปีย
+    .title = ชุดตกแต่งสีซีเปีย
+about-reader-color-theme-auto = อัตโนมัติ
+    .title = ชุดตกแต่งสีอัตโนมัติ
+about-reader-color-theme-gray = เทา
+    .title = ชุดตกแต่งสีเทา
+about-reader-color-theme-contrast = เปรียบต่าง
+    .title = ชุดตกแต่งสีเปรียบต่าง
+about-reader-color-theme-custom = สีกำหนดเอง
+    .title = ชุดตกแต่งสีกำหนดเอง
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -45,4 +57,27 @@ about-reader-font-type-sans-serif = ไม่มีเชิง
 
 about-reader-toolbar-close = ปิดมุมมองผู้อ่าน
 about-reader-toolbar-type-controls = ปุ่มควบคุมชนิด
+about-reader-toolbar-color-controls = สี
 about-reader-toolbar-savetopocket = บันทึกไปยัง { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = ชุดตกแต่ง
+about-reader-fxtheme-tab = ค่าเริ่มต้น
+about-reader-customtheme-tab = กำหนดเอง
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = ข้อความ
+    .title = แก้ไขสี
+about-reader-custom-colors-background = พื้นหลัง
+    .title = แก้ไขสี
+about-reader-custom-colors-unvisited-links = ลิงก์ที่ยังไม่เคยเยี่ยมชม
+    .title = แก้ไขสี
+about-reader-custom-colors-visited-links = ลิงก์ที่เคยเยี่ยมชมแล้ว
+    .title = แก้ไขสี
+about-reader-custom-colors-selection-highlight = ตัวเน้นข้อความสำหรับการอ่านออกเสียง
+    .title = แก้ไขสี
+about-reader-custom-colors-reset-button = กลับเป็นค่าเริ่มต้น
