@@ -59,7 +59,7 @@ pane-experimental-reset =
     .label = เรียกคืนค่าเริ่มต้น
     .accesskey = R
 help-button-label = การสนับสนุนของ { -brand-short-name }
-addons-button-label = ส่วนขยายและชุดรูปแบบ
+addons-button-label = ส่วนขยายและชุดตกแต่ง
 focus-search =
     .key = f
 close-button =
@@ -204,7 +204,7 @@ preferences-web-appearance-choice-auto = อัตโนมัติ
 preferences-web-appearance-choice-light = สว่าง
 preferences-web-appearance-choice-dark = มืด
 preferences-web-appearance-choice-tooltip-auto =
-    .title = เปลี่ยนพื้นหลังและเนื้อหาของเว็บไซต์โดยอัตโนมัติตามการตั้งค่าระบบและชุดรูปแบบของ { -brand-short-name }
+    .title = เปลี่ยนพื้นหลังและเนื้อหาของเว็บไซต์โดยอัตโนมัติตามการตั้งค่าระบบและชุดตกแต่งของ { -brand-short-name }
 preferences-web-appearance-choice-tooltip-light =
     .title = ใช้รูปลักษณ์แบบสว่างสำหรับพื้นหลังและเนื้อหาของเว็บไซต์
 preferences-web-appearance-choice-tooltip-dark =
@@ -224,7 +224,7 @@ preferences-web-appearance-override-warning2 =
     .message = การเลือกสีของคุณมีผลเหนือรูปลักษณ์ของเว็บไซต์
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = จัดการชุดรูปแบบของ { -brand-short-name } ใน <a data-l10n-name="themes-link">ส่วนขยายและชุดรูปแบบ</a>
+preferences-web-appearance-footer = จัดการชุดตกแต่งของ { -brand-short-name } ใน <a data-l10n-name="themes-link">ส่วนขยายและชุดตกแต่ง</a>
 preferences-colors-header = สี
 preferences-colors-description = แทนที่สีเริ่มต้นของ { -brand-short-name } สำหรับข้อความ พื้นหลังของเว็บไซต์ และลิงก์
 preferences-colors-manage-button =
@@ -518,7 +518,7 @@ home-restore-defaults =
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (ค่าเริ่มต้น)
 home-mode-choice-custom =
-    .label = URL ที่กำหนดเอง…
+    .label = URL กำหนดเอง…
 home-mode-choice-blank =
     .label = หน้าว่าง
 home-homepage-custom-url =
@@ -963,7 +963,7 @@ history-remember-option-all =
 history-remember-option-never =
     .label = ไม่จดจำประวัติเสมอ
 history-remember-option-custom =
-    .label = ใช้การตั้งค่าที่กำหนดเองสำหรับประวัติ
+    .label = ใช้การตั้งค่ากำหนดเองสำหรับประวัติ
 history-remember-description = { -brand-short-name } จะจดจำประวัติการเรียกดู, การดาวน์โหลด, แบบฟอร์ม และการค้นหาของคุณ
 history-dontremember-description = { -brand-short-name } จะใช้การตั้งค่าเดียวกับการเรียกดูแบบส่วนตัวและจะไม่จดจำประวัติใด ๆ ขณะที่คุณเรียกดู
 history-private-browsing-permanent =
