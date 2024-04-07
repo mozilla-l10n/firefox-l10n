@@ -45,7 +45,7 @@ certificate-viewer-not-before = หลัง
 certificate-viewer-organization = องค์กร
 certificate-viewer-organizational-unit = หน่วยงาน
 certificate-viewer-policy = นโยบาย
-certificate-viewer-protocol = โปรโตคอล
+certificate-viewer-protocol = โพรโทคอล
 certificate-viewer-public-value = ค่าสาธารณะ
 certificate-viewer-purposes = จุดประสงค์
 certificate-viewer-qualifier = ตัวบ่งคุณลักษณะ
@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = ข้อมูลผู้อนุม�
 certificate-viewer-certificate-policies = นโยบายใบรับรอง
 certificate-viewer-embedded-scts = SCT ที่ฝัง
 certificate-viewer-crl-endpoints = ปลายทาง CRL
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ดาวน์โหลด
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = ส่วนขยายนี้ถูกทำเครื่องหมายว่าสำคัญ ซึ่งหมายความว่าไคลเอนต์จะต้องปฏิเสธใบรับรองหากพวกเขาไม่เข้าใจดีพอ

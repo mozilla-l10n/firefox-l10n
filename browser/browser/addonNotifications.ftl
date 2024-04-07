@@ -65,7 +65,7 @@ addon-install-full-screen-blocked = ไม่อนุญาตให้ติ�
 webext-perms-sideload-menu-item = เพิ่ม { $addonName } ลงใน { -brand-short-name } แล้ว
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
-webext-perms-update-menu-item = { $addonName } ต้องการสิทธิอนุญาตใหม่
+webext-perms-update-menu-item = { $addonName } จำเป็นต้องขอสิทธิ์ใหม่
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
