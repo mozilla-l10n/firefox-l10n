@@ -43,6 +43,18 @@ contentanalysis-block-message = Ваша організація використ
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Під час зв'язку з програмним забезпеченням для запобігання втрати даних сталася помилка. Передавання заборонено для ресурсу: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Під час зв'язку з { $agent } сталася помилка. Передавання заборонено для ресурсу: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Неможливо встановити з'єднання з { $agent }. Передавання заборонено для ресурсу: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Не вдалося перевірити підпис для { $agent }. Передавання заборонено для ресурсу: { $content }.
 contentanalysis-inprogress-quit-title = Вийти з { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Триває виконання кількох дій. Якщо ви вийдете з { -brand-shorter-name }, вони не будуть завершені.
 contentanalysis-inprogress-quit-yesbutton = Так, вийти
