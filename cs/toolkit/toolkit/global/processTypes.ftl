@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Privilegovaný obsah Mozilla
 process-type-extension = Rozšíření
 # process used to open file:// URLs
 process-type-file = Místní soubor
+# process used to instantiate new child processes
+process-type-forkserver = Fork Server
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Izolovaný webový obsah

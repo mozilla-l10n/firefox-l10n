@@ -43,6 +43,10 @@ contentanalysis-block-message = Vaše organizace používá software pro prevenc
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Při komunikaci se softwarem pro prevenci ztráty dat došlo k chybě. Přenos byl pro tento zdroj zamítnut: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Při komunikaci s agentem { $agent } došlo k chybě. Přenos byl zamítnut pro zdroj: { $content }.
 contentanalysis-inprogress-quit-title =
     { -brand-shorter-name.case-status ->
         [with-cases] Ukončit { -brand-shorter-name(case: "acc") }?

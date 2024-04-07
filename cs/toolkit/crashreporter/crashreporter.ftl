@@ -16,6 +16,7 @@ crashreporter-crashed-and-restore =
        *[other] Aplikace { -brand-short-name } zaznamenala problém a spadla. Po jejím restartu se pokusíme obnovit vaše panely a okna.
     }
 crashreporter-plea = Pokud nám chcete pomoci odhalit a opravit problém, který k pádu vedl, zašlete nám prosím hlášení o pádu.
+crashreporter-information = Tato aplikace se spustí po havárii a nahlásí problém { -vendor-short-name(case: "dat") }. Neměla by být spouštěna přímo.
 crashreporter-error =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } zaznamenal problém a spadl. Hlášení pádu se bohužel nepodařilo odeslat.
