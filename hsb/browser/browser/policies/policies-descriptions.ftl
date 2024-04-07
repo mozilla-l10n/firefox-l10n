@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Přistup k stronje about:support blokować.
 policy-Bookmarks = Zapołožki w symbolowej lajsće zapołožkow, w meniju zapołožkow abo w podatym rjadowaku znutřka njeju wutworić.
 policy-CaptivePortal = Kaptiwny portal zmóžnić abo znjemóžnić
 policy-CertificatesDescription = Certifikaty přidać abo zatwarjene certifikaty wužiwać.
+policy-ContentAnalysis = Zwisk z agentom zadźěwanja datowe straty zmóžnić abo znjemóžnić.
 policy-Cookies = Websydłam dowolić abo zakazać, placki składować.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Prawidła nastupajo kontejnery postajić
