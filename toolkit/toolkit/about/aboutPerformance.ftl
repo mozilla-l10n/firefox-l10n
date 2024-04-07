@@ -2,15 +2,32 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-performance-title = Uzdevumu pārvaldnieks
 
 ## Column headers
 
+column-name = Nosaukums
+column-type = Tips
+column-energy-impact = Enerģijas ietekme
+column-memory = Atmiņa
 
 ## Special values for the Name column
 
+ghost-windows = Nesen aizvērtās cilnes
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Iepriekš ielādēts: { $title }
 
 ## Values for the Type column
 
+type-tab = Cilne
+type-subframe = Apakšrāmis
+type-tracker = Izsekotājs
+type-addon = Papildinājumus
+type-browser = Pārlūks
+type-worker = Strādnieks
+type-other = Cits
 
 ## Values for the Energy Impact column
 ##
