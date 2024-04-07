@@ -23,3 +23,4 @@ install-failed-message = { -brand-short-name } neizdevās instalēt, taču tas t
 ## rather than the app that was double-clicked in a .dmg.
 
 prompt-to-launch-existing-app-title = Vai atvērt esošu { -brand-short-name } lietotni?
+prompt-to-launch-existing-app-message = Jums jau ir instalēts { -brand-short-name }. Izmantojiet instalēto lietotni, lai uzturētu instalāciju aktuālu un novērstu datu zudumu.
