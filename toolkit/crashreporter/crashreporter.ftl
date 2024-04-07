@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = Αναφορά καταρρεύσεων { -brand-short-name }
+crashreporter-apology = Λυπούμαστε
 crashreporter-crashed-and-restore = Το { -brand-short-name } αντιμετώπισε ένα πρόβλημα και κατέρρευσε. Θα προσπαθήσουμε να ανακτήσουμε τις καρτέλες και τα παράθυρά σας όταν επανεκκινηθεί.
 crashreporter-plea = Για να μας βοηθήσετε στη διάγνωση και την επίλυση του προβλήματος, μπορείτε να μας στείλετε μια αναφορά κατάρρευσης.
 crashreporter-information = Αυτή η εφαρμογή εκτελείται μετά από μια κατάρρευση για την αναφορά του προβλήματος στη { -vendor-short-name }. Δεν θα πρέπει να εκτελείται χειροκίνητα.
