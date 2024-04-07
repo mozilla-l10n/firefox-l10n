@@ -5,13 +5,27 @@
 about-reader-loading = 読み込み中...
 about-reader-load-error = ページから記事を読み込めませんでした
 about-reader-color-scheme-light = ライト
-    .title = ライトのカラー設定
+    .title = ライトの色設定
 about-reader-color-scheme-dark = ダーク
-    .title = ダークのカラー設定
+    .title = ダークの色設定
 about-reader-color-scheme-sepia = セピア
-    .title = セピアのカラー設定
+    .title = セピアの色設定
 about-reader-color-scheme-auto = 自動
-    .title = 自動のカラー設定
+    .title = 自動の色設定
+about-reader-color-theme-light = ライト
+    .title = ライトカラーテーマ
+about-reader-color-theme-dark = ダーク
+    .title = ダークカラーテーマ
+about-reader-color-theme-sepia = セピア
+    .title = セピアカラーテーマ
+about-reader-color-theme-auto = 自動
+    .title = 自動カラーテーマ
+about-reader-color-theme-gray = グレー
+    .title = グレーカラーテーマ
+about-reader-color-theme-contrast = コントラスト
+    .title = コントラストカラーテーマ
+about-reader-color-theme-custom = カスタムカラー
+    .title = カスタムカラーテーマ
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -43,4 +57,27 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = リーダービューを閉じる
 about-reader-toolbar-type-controls = 書体コントロール
+about-reader-toolbar-color-controls = カラー
 about-reader-toolbar-savetopocket = { -pocket-brand-name } に保存
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = テーマ
+about-reader-fxtheme-tab = デフォルト
+about-reader-customtheme-tab = カスタム
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = 文字
+    .title = 文字カラーを変更します
+about-reader-custom-colors-background = 背景
+    .title = 背景カラーを変更します
+about-reader-custom-colors-unvisited-links = 未訪問リンク
+    .title = 未訪問リンクのカラーを変更します
+about-reader-custom-colors-visited-links = 訪問済みリンク
+    .title = 訪問済みリンクのカラーを変更します
+about-reader-custom-colors-selection-highlight = 読み上げ部分の強調
+    .title = 読み上げ部分のカラーを変更します
+about-reader-custom-colors-reset-button = デフォルトに戻す

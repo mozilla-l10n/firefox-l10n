@@ -12,6 +12,8 @@ protocolhandler-mailto-os-handler-no-button = 後で
 
 protocolhandler-mailto-handler-notificationbox-always = 常に { $url } でメールアドレスのリンクを開きますか？
 protocolhandler-mailto-handler-yes-confirm = { $url } がメールアドレスのリンクを開くデフォルトサイトに設定されました。
+protocolhandler-mailto-handler-set-message = メールを開くリックをクリックした時、毎回 <strong>{ -brand-short-name } で { $url }</strong> を開きますか？
+protocolhandler-mailto-handler-confirm-message = コンピューターのデフォルトメールハンドラーとして <strong>{ -brand-short-name } で { $url }</strong> を開くように設定されました。
 
 ##
 
