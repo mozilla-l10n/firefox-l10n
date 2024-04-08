@@ -65,7 +65,7 @@ no-migration-sources = ไม่พบโปรแกรมที่มีข้
 import-source-page-title = นำเข้าการตั้งค่าและข้อมูล
 import-items-page-title = รายการที่จะนำเข้า
 import-items-description = เลือกรายการที่จะนำเข้า:
-import-permissions-page-title = โปรดยินยอมสิทธิ์ให้กับ { -brand-short-name }
+import-permissions-page-title = โปรดอนุญาตสิทธิ์ให้กับ { -brand-short-name }
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = macOS ต้องการให้คุณอนุญาต { -brand-short-name } ให้เข้าถึงข้อมูลของ Safari อย่างชัดเจน กรุณาคลิก “ดำเนินการต่อ” จากนั้นเลือกโฟลเดอร์ “Safari“ ในกล่องโต้ตอบของ Finder ที่จะปรากฏขึ้น แล้วคลิก “เปิด”
 import-migrating-page-title = กำลังนำเข้า…
