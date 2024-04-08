@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Ayrıcalıklı Mozilla içeriği
 process-type-extension = Uzantı
 # process used to open file:// URLs
 process-type-file = Yerel dosya
+# process used to instantiate new child processes
+process-type-forkserver = Fork sunucusu
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = İzole web içeriği
