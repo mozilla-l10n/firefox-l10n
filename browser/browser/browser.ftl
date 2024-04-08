@@ -364,10 +364,10 @@ identity-https-only-dropdown-off =
     .label = ปิด
 identity-https-only-dropdown-off-temporarily =
     .label = ปิดชั่วคราว
-identity-https-only-info-turn-on2 = เปิดโหมด HTTPS-Only หากคุณต้องการให้ { -brand-short-name } อัปเกรดการเชื่อมต่อเมื่อเป็นไปได้
-identity-https-only-info-turn-off2 = หากหน้าดูเหมือนจะพัง คุณอาจต้องปิดโหมด HTTPS-Only สำหรับไซต์นี้เพื่อโหลดใหม่โดยใช้ HTTP ที่ไม่ปลอดภัย
-identity-https-only-info-turn-on3 = เปิดการอัปเกรด HTTPS สำหรับไซต์นี้หากคุณต้องการให้ { -brand-short-name } อัปเกรดการเชื่อมต่อเมื่อเป็นไปได้
-identity-https-only-info-turn-off3 = หากหน้าดูเหมือนจะพัง คุณอาจต้องปิดการอัปเกรด HTTPS สำหรับไซต์นี้เพื่อโหลดใหม่โดยใช้ HTTP ที่ไม่ปลอดภัย
+identity-https-only-info-turn-on2 = เปิดโหมด HTTPS-Only ถ้าคุณต้องการให้ { -brand-short-name } อัปเกรดการเชื่อมต่อเมื่อเป็นไปได้
+identity-https-only-info-turn-off2 = ถ้าหน้าดูเหมือนจะใช้การไม่ได้ คุณอาจต้องปิดโหมด HTTPS-Only สำหรับไซต์นี้เพื่อโหลดใหม่โดยใช้ HTTP แบบไม่ปลอดภัย
+identity-https-only-info-turn-on3 = เปิดการอัปเกรด HTTPS สำหรับไซต์นี้ถ้าคุณต้องการให้ { -brand-short-name } อัปเกรดการเชื่อมต่อเมื่อเป็นไปได้
+identity-https-only-info-turn-off3 = ถ้าหน้าดูเหมือนจะใช้การไม่ได้ คุณอาจต้องปิดการอัปเกรด HTTPS สำหรับไซต์นี้เพื่อโหลดใหม่โดยใช้ HTTP แบบไม่ปลอดภัย
 identity-https-only-info-no-upgrade = ไม่สามารถอัปเกรดการเชื่อมต่อจาก HTTP ได้
 identity-permissions-storage-access-header = คุกกี้ข้ามไซต์
 identity-permissions-storage-access-hint = บุคคลเหล่านี้สามารถใช้คุกกี้ข้ามไซต์และข้อมูลไซต์ในขณะที่คุณอยู่บนไซต์นี้ได้
@@ -480,7 +480,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description2 = หากต้องการใช้ทางลัด F12 ให้เปิด DevTools ก่อนผ่านเมนู เครื่องมือสำหรับเบราว์เซอร์
+enable-devtools-popup-description2 = ถ้าต้องการใช้ทางลัด F12 ให้เปิด DevTools ก่อนผ่านเมนู เครื่องมือสำหรับเบราว์เซอร์
 
 ## URL Bar
 

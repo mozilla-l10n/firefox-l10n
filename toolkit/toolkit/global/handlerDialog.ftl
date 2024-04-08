@@ -59,7 +59,7 @@ chooser-dialog-remember = ใช้แอปพลิเคชันนี้เ
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] คุณสามารถเปลี่ยนการตั้งค่านี้ได้ในตัวเลือกของ { -brand-short-name }
-       *[other] คุณสามารถเปลี่ยนการตั้งค่านี้ได้ในค่ากำหนดของ { -brand-short-name }
+       *[other] คุณสามารถเปลี่ยนการตั้งค่านี้ได้ในการกำหนดลักษณะของ { -brand-short-name }
     }
 choose-other-app-description = เลือกแอปพลิเคชันอื่น
 choose-app-btn =
