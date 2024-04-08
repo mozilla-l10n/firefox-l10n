@@ -69,8 +69,8 @@ login-list-count2 =
 #   $total (number) - Total number of logins
 login-list-filtered-count2 =
     { $total ->
-        [one] { $count }-ը { $total } գաղտնաբառքերից
-       *[other] { $count }-ը { $total } գաղտնաբառքերից
+        [one] { $count }-ը { $total } գաղտնաբառից
+       *[other] { $count }-ը { $total } գաղտնաբառից
     }
 login-list-sort-label-text = Տեսակավարել ըստ՝
 login-list-name-option = Անվան (Ա-Ֆ)
@@ -103,8 +103,10 @@ about-logins-list-section-week = Վերջին 7 օրում
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-out2 = Փնտրու՞մ եք Ձեր պահպանած մուտքերը: Միացրեք համաժամեցումը կամ ներմուծեք դրանք:
 about-logins-login-intro-heading-logged-in = Համաժամեցված մուտք չի գտնվել:
 login-intro-description = Եթե պահպանել եք ձեր մուտքագրումները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպես կարող եք ստանալ դրանք.
+about-logins-login-intro-heading-message = Պահպանեք Ձեր գաղտնաբառերը ապահով տեղում
 
 ## Login
 
@@ -221,6 +223,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Հեռացնե՞լ բոլոր { $count } մուտքագրումը:
        *[other] Հեռացնե՞լ բոլոր { $count } մուտքագրումները:
     }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Հեռացնե՞լ { $count } մուտքը բոլոր սարքերից:
+       *[other] Հեռացնե՞լ բոլոր { $count } մուտքերը բոլոր սարքերից:
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -288,7 +295,7 @@ about-logins-error-message-default = Գաղտնաբառի պահման ժամա�
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Մուտքագրումների ֆայլի արտահանում
+about-logins-export-file-picker-title = Մուտքագրումների նիշքի արտահանում
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
@@ -303,7 +310,7 @@ about-logins-export-file-picker-export-button = Արտահանել
 about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV փաստաթուղթ
-       *[other] CSV ֆայլ
+       *[other] CSV նիշք
     }
 
 ## Login Import Dialog

@@ -11,20 +11,21 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = Վերամեկնարկեք՝ { -brand-shorter-name }-ը թարմացնելու համար
     .accesskey = R
-update-checkingForUpdates = Ստուգվում է թարմացումները
+update-checkingForUpdates = Ստուգվում են թարմացումները…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Թարմացման ներբեռնում — <label data-l10n-name="download-status">{ $transfer }</label>
-aboutdialog-update-downloading = Թարմացման ներբեռնում՝ <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading = <img data-l10n-name="icon"/>Թարմացման ներբեռնում. <label data-l10n-name="download-status">{ $transfer }</label>
+aboutdialog-update-downloading = Թարմացման ներբեռնում. <label data-l10n-name="download-status">{ $transfer }</label>
 
 ##
 
 update-applying = Թարմացման կիրառում...
 update-failed = Թարմացումը չհաջողվեց:<label data-l10n-name="failed-link">Ներբեռնել վերջին տարբերակը</label>
 update-failed-main = Թարմացումը չհաջողվեց:<a data-l10n-name="failed-link-main">Ներբեռնել վերջին տարբերակը</a>
-update-adminDisabled = Թարմացումներն անջատված են ձեր ցանացային ադմինիստրատորի կողմից:
+update-adminDisabled = Թարմացումներն անջատված են ձեր ցանացային ադմինիստրատորի կողմից
+update-policy-disabled = Թարմացումներն անջատված են Ձեր կազմակերպության կողմից
 update-noUpdatesFound = { -brand-short-name }-ն արդիական է
 aboutdialog-update-checking-failed = Չի ստացվում ստուգել թարմացումների առկայությունը:
 update-otherInstanceHandlingUpdates = { -brand-short-name }-ը թարմացվել է այլ օրինակի կողմից
