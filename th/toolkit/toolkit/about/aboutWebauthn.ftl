@@ -74,17 +74,17 @@ about-webauthn-auth-option-clientpin = PIN ไคลเอ็นต์
 about-webauthn-auth-option-rk = Resident key
 about-webauthn-auth-option-plat = อุปกรณ์แพลตฟอร์ม
 # pinUvAuthToken should not be translated.
-about-webauthn-auth-option-pinuvauthtoken = สิทธิอนุญาตคำสั่ง (pinUvAuthToken)
+about-webauthn-auth-option-pinuvauthtoken = การกำหนดสิทธิ์คำสั่ง (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
-about-webauthn-auth-option-nomcgapermissionswithclientpin = ไม่มีสิทธิอนุญาต MakeCredential / GetAssertion สำหรับ PIN ของไคลเอนต์
+about-webauthn-auth-option-nomcgapermissionswithclientpin = ไม่มีการกำหนดสิทธิ์ MakeCredential / GetAssertion สำหรับ PIN ของไคลเอนต์
 about-webauthn-auth-option-largeblobs = blob ขนาดใหญ่
 about-webauthn-auth-option-ep = การรับรององค์กร
 about-webauthn-auth-option-bioenroll = การลงทะเบียนไบโอเมตริก
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = ต้นแบบการลงทะเบียนไบโอเมตริก (FIDO_2_1_PRE)
-about-webauthn-auth-option-uvbioenroll = สิทธิอนุญาตการลงทะเบียนไบโอเมตริก
+about-webauthn-auth-option-uvbioenroll = การกำหนดสิทธิ์การลงทะเบียนข้อมูลไบโอเมตริก
 about-webauthn-auth-option-authnrcfg = การกำหนดค่าเครื่องมือยืนยันตัวตน
-about-webauthn-auth-option-uvacfg = สิทธิอนุญาตการกำหนดค่าเครื่องมือยืนยันตัวตน
+about-webauthn-auth-option-uvacfg = การกำหนดสิทธิ์การกำหนดค่าเครื่องมือยืนยันตัวตน
 about-webauthn-auth-option-credmgmt = การจัดการข้อมูลประจำตัว
 about-webauthn-auth-option-credentialmgmtpreview = การจัดการข้อมูลรับรองต้นแบบ
 about-webauthn-auth-option-setminpinlength = ตั้งความยาว PIN ขั้นต่ำ

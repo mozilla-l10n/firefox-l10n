@@ -9,7 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = รายงานสำหรับ { $addon-name }
 abuse-report-title-extension = รายงานส่วนขยายนี้ไปยัง { -vendor-short-name }
-abuse-report-title-sitepermission = รายงานส่วนเสริมสิทธิอนุญาตไซต์นี้ไปยัง { -vendor-short-name }
+abuse-report-title-sitepermission = รายงานส่วนเสริมการกำหนดสิทธิ์ไซต์นี้ให้กับ { -vendor-short-name }
 abuse-report-title-theme = รายงานชุดตกแต่งนี้ไปยัง { -vendor-short-name }
 abuse-report-subtitle = มีปัญหาอะไร?
 # Variables:
@@ -44,7 +44,7 @@ abuse-report-messagebar-submitting = ส่งรายงานสำหรั�
 abuse-report-messagebar-submitted = ขอบคุณที่ส่งรายงาน คุณต้องการลบ <span data-l10n-name="addon-name">{ $addon-name }</span> ไหม?
 abuse-report-messagebar-submitted-noremove = ขอบคุณที่ส่งรายงาน
 abuse-report-messagebar-removed-extension = ขอบคุณที่ส่งรายงาน คุณได้ลบส่วนขยาย <span data-l10n-name="addon-name">{ $addon-name }</span> แล้ว
-abuse-report-messagebar-removed-sitepermission = ขอบคุณที่ส่งรายงาน คุณได้ลบส่วนเสริมสิทธิอนุญาตไซต์ <span data-l10n-name="addon-name">{ $addon-name }</span> แล้ว
+abuse-report-messagebar-removed-sitepermission = ขอบคุณที่ส่งรายงาน คุณได้ลบส่วนเสริมการกำหนดสิทธิ์ไซต์ <span data-l10n-name="addon-name">{ $addon-name }</span> แล้ว
 abuse-report-messagebar-removed-theme = ขอบคุณที่ส่งรายงาน คุณได้ลบชุดตกแต่ง <span data-l10n-name="addon-name">{ $addon-name }</span> ออกแล้ว
 abuse-report-messagebar-error = เกิดข้อผิดพลาดขึ้นขณะส่งรายงานสำหรับ <span data-l10n-name="addon-name">{ $addon-name }</span>
 abuse-report-messagebar-error-recent-submit = รายงานของ <span data-l10n-name="addon-name">{ $addon-name }</span> ไม่สามารถส่งได้เนื่องจากเพิ่งมีรายงานอีกฉบับถูกส่งไปเร็ว ๆ นี้
@@ -59,7 +59,7 @@ abuse-report-messagebar-submitted-noremove2 =
 abuse-report-messagebar-removed-extension2 =
     .message = ขอบคุณที่ส่งรายงาน คุณได้ลบส่วนขยาย { $addon-name } แล้ว
 abuse-report-messagebar-removed-sitepermission2 =
-    .message = ขอบคุณที่ส่งรายงาน คุณได้ลบส่วนเสริมสิทธิอนุญาตไซต์ { $addon-name } แล้ว
+    .message = ขอบคุณที่ส่งรายงาน คุณได้ลบส่วนเสริมการกำหนดสิทธิ์ไซต์ { $addon-name } แล้ว
 abuse-report-messagebar-removed-theme2 =
     .message = ขอบคุณที่ส่งรายงาน คุณได้ลบชุดตกแต่ง { $addon-name } ออกแล้ว
 abuse-report-messagebar-error2 =
