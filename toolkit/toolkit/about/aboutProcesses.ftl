@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Page title
-about-processes-title = ตัวจัดการโปรเซส
+about-processes-title = ตัวจัดการโพรเซส
 # The Actions column
 about-processes-column-action =
     .title = การกระทำ
@@ -11,7 +11,7 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = เลิกโหลดแท็บและหยุดการทำงานของโปรเซส
+    .title = เลิกโหลดแท็บและหยุดการทำงานของโพรเซส
 about-processes-shutdown-tab =
     .title = ปิดแท็บ
 # Profiler icons
@@ -21,7 +21,7 @@ about-processes-shutdown-tab =
 about-processes-profile-process =
     .title =
         { $duration ->
-           *[other] สร้างโปรไฟล์เธรดทั้งหมดของโปรเซสนี้เป็นเวลา { $duration } วินาที
+           *[other] ทำโปรไฟล์ให้กับเธรดทั้งหมดของโพรเซสนี้เป็นเวลา { $duration } วินาที
         }
 
 ## Column headers
