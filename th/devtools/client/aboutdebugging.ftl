@@ -176,7 +176,7 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 # .name is processed by fluent-react / DebugTargetPane
 about-debugging-runtime-processes =
-    .name = โปรเซส
+    .name = โพรเซส
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = ประสิทธิภาพโปรไฟล์
@@ -313,16 +313,16 @@ about-debugging-worker-push-service =
     .label = บริการผลัก
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
-    .title = การตรวจสอบ Service Worker ถูกปิดใช้งานอยู่สำหรับ { -brand-shorter-name } แบบมัลติโปรเซสในขณะนี้
+    .title = การตรวจสอบ Service Worker ถูกปิดใช้งานอยู่สำหรับ { -brand-shorter-name } แบบมัลติโพรเซสในขณะนี้
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = แท็บยังไม่ได้โหลดอย่างเต็มที่และไม่สามารถตรวจสอบได้
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-multiprocess-toolbox-name = กล่องเครื่องมือมัลติโปรเซส
+about-debugging-multiprocess-toolbox-name = กล่องเครื่องมือมัลติโพรเซส
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-multiprocess-toolbox-description = โปรเซสหลักและโปรเซสเนื้อหาสำหรับเบราว์เซอร์เป้าหมาย
+about-debugging-multiprocess-toolbox-description = โพรเซสหลักและโพรเซสเนื้อหาสำหรับเบราว์เซอร์เป้าหมาย
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = ปิดข้อความ

@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = ไฟล์บันทึก�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = การรีเฟรชอัตโนมัติ
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = เรียกใหม่อัตโนมัติตามค่าเริ่มต้น
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = เรียกใหม่
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = บันทึกหน้า
 about-webrtc-debug-mode-msg-label = โหมดดีบั๊ก
 about-webrtc-debug-mode-off-state-label = เริ่มโหมดดีบั๊ก
 about-webrtc-debug-mode-on-state-label = หยุดโหมดดีบั๊ก
-about-webrtc-enable-logging-label = เปิดใช้งานพรีเซ็ตปูม WebRTC
 about-webrtc-stats-heading = สถิติวาระ
+about-webrtc-enable-logging-label = เปิดใช้งานพรีเซ็ตปูม WebRTC
 about-webrtc-peerconnections-section-heading = สถิติ RTCPeerConnection
 about-webrtc-peerconnections-section-show-msg = แสดงสถิติ RTCPeerConnection
 about-webrtc-peerconnections-section-hide-msg = ซ่อนสถิติ RTCPeerConnection
@@ -198,13 +196,13 @@ about-webrtc-configuration-element-not-provided = ไม่ได้จัดเ
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = การกำหนดลักษณะ WebRTC ที่ตั้งโดยผู้ใช้
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-user-modified-configuration-heading = การกำหนดค่า WebRTC ที่ผู้ใช้เปลี่ยนแปลง
+about-webrtc-user-modified-configuration-heading = การกำหนดค่า WebRTC ที่ผู้ใช้ปรับเปลี่ยน
 
 ## These are displayed on the button that shows or hides the
 ## user modified configuration disclosure
 
-about-webrtc-user-modified-configuration-show-msg = แสดงการกำหนดค่าที่ผู้ใช้เปลี่ยนแปลง
-about-webrtc-user-modified-configuration-hide-msg = ซ่อนการกำหนดค่าที่ผู้ใช้เปลี่ยนแปลง
+about-webrtc-user-modified-configuration-show-msg = แสดงการกำหนดค่าที่ผู้ใช้ปรับเปลี่ยน
+about-webrtc-user-modified-configuration-hide-msg = ซ่อนการกำหนดค่าที่ผู้ใช้ปรับเปลี่ยน
 
 ##
 

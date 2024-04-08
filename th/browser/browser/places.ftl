@@ -98,7 +98,7 @@ places-delete-page =
            *[other] ลบหน้า
         }
     .accesskey = ล
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = ที่คั่นหน้าที่ถูกจัดการ
 # This label is used when a managed bookmarks folder doesn't have a name.
@@ -213,7 +213,7 @@ places-view-sort-col-visit-count =
 places-view-sort-col-date-added =
     .label = วันที่เพิ่ม
 places-view-sort-col-last-modified =
-    .label = วันที่เปลี่ยนแปลงล่าสุด
+    .label = ปรับเปลี่ยนล่าสุดเมื่อ
 places-view-sortby-name =
     .label = เรียงตามชื่อ
     .accesskey = ร
@@ -230,7 +230,7 @@ places-view-sortby-date-added =
     .label = เรียงตามวันที่เพิ่ม
     .accesskey = ว
 places-view-sortby-last-modified =
-    .label = เรียงตามวันที่เปลี่ยนแปลงล่าสุด
+    .label = เรียงตามเวลาที่ปรับเปลี่ยนล่าสุด
     .accesskey = น
 places-view-sortby-tags =
     .label = เรียงตามป้ายกำกับ
