@@ -144,13 +144,13 @@ addon-category-available-updates-title =
 addon-category-recent-updates = การอัปเดตล่าสุด
 addon-category-recent-updates-title =
     .title = การอัปเดตล่าสุด
-addon-category-sitepermission = สิทธิอนุญาตไซต์
+addon-category-sitepermission = การกำหนดสิทธิ์ไซต์
 addon-category-sitepermission-title =
-    .title = สิทธิอนุญาตไซต์
+    .title = การกำหนดสิทธิ์ไซต์
 # String displayed in about:addons in the Site Permissions section
 # Variables:
 #  $host (string) - DNS host name for which the webextension enables permissions
-addon-sitepermission-host = สิทธิอนุญาตไซต์สำหรับ { $host }
+addon-sitepermission-host = การกำหนดสิทธิ์ไซต์สำหรับ { $host }
 
 ## These are global warnings
 
@@ -316,7 +316,7 @@ preferences-addon-button =
     }
 details-addon-button = รายละเอียด
 release-notes-addon-button = บันทึกประจำรุ่น
-permissions-addon-button = การอนุญาต
+permissions-addon-button = การกำหนดสิทธิ์
 extension-enabled-heading = ถูกเปิดใช้งาน
 extension-disabled-heading = ถูกปิดใช้งาน
 theme-enabled-heading = เปิดใช้งาน
@@ -427,10 +427,10 @@ available-updates-heading = การอัปเดตที่มี
 recent-updates-heading = การอัปเดตล่าสุด
 release-notes-loading = กำลังโหลด…
 release-notes-error = ขออภัย แต่เกิดข้อผิดพลาดในการโหลดบันทึกประจำรุ่น
-addon-permissions-empty = ส่วนขยายนี้ไม่ต้องการการอนุญาตใด ๆ
-addon-permissions-required = สิทธิอนุญาตที่ต้องการสำหรับฟังก์ชันการทำงานหลัก:
-addon-permissions-optional = สิทธิอนุญาตที่เลือกได้สำหรับฟังก์ชันการทำงานที่เพิ่ม:
-addon-permissions-learnmore = เรียนรู้เพิ่มเติมเกี่ยวกับสิทธิอนุญาต
+addon-permissions-empty = ส่วนขยายนี้ไม่จำเป็นต้องขอสิทธิ์ใด
+addon-permissions-required = สิทธิ์ที่ต้องการสำหรับฟังก์ชันการทำงานหลัก:
+addon-permissions-optional = สิทธิ์เผื่อเลือกสำหรับฟังก์ชันการทำงานเพิ่มเติม:
+addon-permissions-learnmore = เรียนรู้เพิ่มเติมเกี่ยวกับการกำหนดสิทธิ์
 recommended-extensions-heading = ส่วนขยายที่แนะนำ
 recommended-themes-heading = ชุดตกแต่งที่แนะนำ
 # Variables:
@@ -448,7 +448,7 @@ plugin-heading = จัดการปลั๊กอินของคุณ
 dictionary-heading = จัดการพจนานุกรมของคุณ
 locale-heading = จัดการภาษาของคุณ
 updates-heading = จัดการการอัปเดตของคุณ
-sitepermission-heading = จัดการสิทธิอนุญาตไซต์ของคุณ
+sitepermission-heading = จัดการการกำหนดสิทธิ์ไซต์ของคุณ
 discover-heading = ปรับแต่ง { -brand-short-name } ของคุณ
 shortcuts-heading = จัดการทางลัดส่วนขยาย
 default-heading-search-label = ค้นหาส่วนเสริมเพิ่มเติม
