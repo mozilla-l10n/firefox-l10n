@@ -43,6 +43,18 @@ contentanalysis-block-message = Kuruluşunuzun kullandığı veri kaybı önleme
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Veri kaybı önleme yazılımıyla iletişim sırasında bir hata oluştu. Şu kaynak için aktarım reddedildi: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = { $agent } ile iletişim sırasında bir hata oluştu. Şu kaynak için aktarım reddedildi: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = { $agent } ile bağlantı kurulamadı. Şu kaynak için aktarım reddedildi: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = { $agent } için imza doğrulaması başarısız oldu. Şu kaynak için aktarım reddedildi: { $content }.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } uygulamasından çıkılsın mı?
 contentanalysis-inprogress-quit-message = Devam eden birkaç işlem var. { -brand-shorter-name } uygulamasından çıkarsanız bu işlemler tamamlanmayacaktır.
 contentanalysis-inprogress-quit-yesbutton = Evet, çık
