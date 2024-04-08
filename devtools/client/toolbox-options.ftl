@@ -131,6 +131,6 @@ options-enable-service-workers-http-tooltip =
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = เปิดใช้งานการแมปต้นฉบับ
 options-source-maps-tooltip =
-    .title = หากคุณเปิดใช้งานตัวเลือกนี้ ต้นฉบับจะถูกแมปในเครื่องมือ
+    .title = ถ้าคุณเปิดใช้งานตัวเลือกนี้ ต้นฉบับจะถูกแมปในเครื่องมือ
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = *เรียกหน้าเว็บใหม่เฉพาะวาระปัจจุบันเท่านั้น

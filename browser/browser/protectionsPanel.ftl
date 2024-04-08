@@ -47,10 +47,10 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = ทำไม?
-protections-panel-not-blocking-why-etp-on-tooltip = การปิดกั้นคุณลักษณะเหล่านี้อาจทำให้องค์ประกอบของบางเว็บไซต์เสียหายได้ หากไม่มีตัวติดตาม ปุ่ม แบบฟอร์ม และฟิลด์การเข้าสู่ระบบบางส่วนอาจไม่ทำงาน
+protections-panel-not-blocking-why-etp-on-tooltip = การปิดกั้นคุณลักษณะเหล่านี้อาจทำให้องค์ประกอบของบางเว็บไซต์เสียหายได้ ถ้าไม่มีตัวติดตาม ปุ่ม แบบฟอร์ม และฟิลด์การเข้าสู่ระบบบางส่วนอาจไม่ทำงาน
 protections-panel-not-blocking-why-etp-off-tooltip = ตัวติดตามทั้งหมดในไซต์นี้ถูกโหลดเนื่องจากการป้องกันถูกปิด
 protections-panel-not-blocking-why-etp-on-tooltip-label =
-    .label = การปิดกั้นคุณลักษณะเหล่านี้อาจทำให้องค์ประกอบของบางเว็บไซต์เสียหายได้ หากไม่มีตัวติดตาม ปุ่ม แบบฟอร์ม และฟิลด์การเข้าสู่ระบบบางส่วนอาจไม่ทำงาน
+    .label = การปิดกั้นคุณลักษณะเหล่านี้อาจทำให้องค์ประกอบของบางเว็บไซต์เสียหายได้ ถ้าไม่มีตัวติดตาม ปุ่ม แบบฟอร์ม และฟิลด์การเข้าสู่ระบบบางส่วนอาจไม่ทำงาน
 protections-panel-not-blocking-why-etp-off-tooltip-label =
     .label = ตัวติดตามทั้งหมดในไซต์นี้ถูกโหลดเนื่องจากการป้องกันถูกปิด
 
@@ -81,7 +81,7 @@ protections-panel-protectionsdashboard-label = แดชบอร์ดการ
 ## the user is experiencing issues with any of a variety of functionality.
 
 # The header of the list
-protections-panel-site-not-working-view-header = ปิดการป้องกันหากคุณมีปัญหากับ:
+protections-panel-site-not-working-view-header = ปิดการป้องกันถ้าคุณมีปัญหากับ:
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = ช่องเข้าสู่ระบบ
 protections-panel-site-not-working-view-issue-list-forms = แบบฟอร์ม

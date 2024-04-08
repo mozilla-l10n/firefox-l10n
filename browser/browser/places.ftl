@@ -137,7 +137,7 @@ places-manage-bookmarks =
 places-forget-about-this-site-confirmation-title = ลืมเกี่ยวกับไซต์นี้
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-msg = การดำเนินการนี้จะลบข้อมูลที่เกี่ยวข้องกับ { $hostOrBaseDomain } รวมถึงประวัติ คุกกี้ แคช และการกำหนดลักษณะเนื้อหา ที่คั่นหน้าและรหัสผ่านที่เกี่ยวข้องจะไม่ถูกลบ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ
+places-forget-about-this-site-confirmation-msg = การกระทำนี้จะลบข้อมูลที่เกี่ยวข้องกับ { $hostOrBaseDomain } รวมถึงประวัติ คุกกี้ แคช และค่าปรับแต่งเนื้อหา ที่คั่นหน้าและรหัสผ่านที่เกี่ยวข้องจะไม่ถูกลบ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ
 places-forget-about-this-site-forget = ลืม
 places-library3 =
     .title = ห้องสมุด

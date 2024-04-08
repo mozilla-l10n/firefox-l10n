@@ -51,7 +51,7 @@ serviceworker-empty-intro-link = เรียนรู้เพิ่มเต�
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 # <a> and <span> are links that will open the webconsole and the debugger, respectively.
-serviceworker-empty-suggestions2 = หากหน้าปัจจุบันควรมี Service Worker คุณสามารถมองหาข้อผิดพลาดใน<a>คอนโซล</a>หรือลงทะเบียน Service Worker ของคุณใน<span>ตัวดีบั๊ก</span>ได้
+serviceworker-empty-suggestions2 = ถ้าหน้าปัจจุบันควรมี Service Worker คุณสามารถมองหาข้อผิดพลาดใน<a>คอนโซล</a>หรือลงทะเบียน Service Worker ของคุณใน<span>ตัวดีบั๊ก</span>ได้
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging2 = ดู Service Worker จากโดเมนอื่น

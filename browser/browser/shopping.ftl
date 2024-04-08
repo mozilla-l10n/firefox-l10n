@@ -48,7 +48,7 @@ shopping-message-bar-warning-not-enough-reviews =
     .message = เมื่อผลิตภัณฑ์นี้มีบทวิจารณ์มากขึ้น เราจะสามารถตรวจสอบคุณภาพของบทวิจารณ์ได้
 shopping-message-bar-warning-product-not-available =
     .heading = สินค้าไม่พร้อมจำหน่าย
-    .message = หากคุณเห็นว่าสินค้านี้มีอยู่ในสต็อกแล้ว โปรดรายงานแล้วเราจะทำการตรวจสอบบทวิจารณ์
+    .message = ถ้าคุณเห็นว่าสินค้านี้มีอยู่ในสต็อกแล้ว โปรดรายงานแล้วเราจะทำการตรวจสอบบทวิจารณ์
 shopping-message-bar-warning-product-not-available-button2 = รายงานว่าสินค้ามีในสต็อก
 shopping-message-bar-thanks-for-reporting =
     .heading = ขอบคุณสำหรับการรายงาน!
@@ -57,7 +57,7 @@ shopping-message-bar-warning-product-not-available-reported =
     .heading = ข้อมูลจะมาเร็ว ๆ นี้
     .message = เราคาดว่าจะได้รับข้อมูลเกี่ยวกับบทวิจารณ์ของผลิตภัณฑ์นี้ภายใน 24 ชั่วโมง โปรดกลับมาตรวจสอบอีกครั้งในภายหลัง
 shopping-message-bar-analysis-in-progress-title2 = กำลังตรวจสอบคุณภาพบทวิจารณ์
-shopping-message-bar-analysis-in-progress-message2 = การดำเนินการนี้อาจใช้เวลาประมาณ 60 วินาที
+shopping-message-bar-analysis-in-progress-message2 = การกระทำนี้อาจจะใช้เวลาประมาณ 60 วินาที
 # Variables:
 #  $percentage (Number) - The percentage complete that the analysis is, per our servers.
 shopping-message-bar-analysis-in-progress-with-amount = กำลังตรวจสอบคุณภาพบทวิจารณ์ ({ $percentage }%)
@@ -152,7 +152,7 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = ยังไม่มีข้อมูลเกี่ยวกับบทวิจารณ์เหล่านี้
-shopping-unanalyzed-product-message-2 = หากต้องการทราบว่าบทวิจารณ์ของผลิตภัณฑ์นี้เชื่อถือได้หรือไม่ ให้ตรวจสอบคุณภาพบทวิจารณ์ โดยจะใช้เวลาเพียงประมาณ 60 วินาที
+shopping-unanalyzed-product-message-2 = ถ้าต้องการทราบว่าบทวิจารณ์ของผลิตภัณฑ์นี้เชื่อถือได้หรือไม่ ให้ตรวจสอบคุณภาพบทวิจารณ์ โดยจะใช้เวลาเพียงประมาณ 60 วินาที
 shopping-unanalyzed-product-analyze-button = ตรวจสอบคุณภาพบทวิจารณ์
 
 ## Strings for the advertisement
@@ -203,7 +203,7 @@ shopping-callout-disabled-auto-open-title = เครื่เครื่อง
 shopping-callout-disabled-auto-open-subtitle = คลิกที่ไอคอนป้ายราคาในแถบที่อยู่ทุกครั้งที่คุณต้องการดูว่าคุณสามารถเชื่อถือบทวิจารณ์ของผลิตภัณฑ์ได้หรือไม่
 shopping-callout-disabled-auto-open-button = เข้าใจแล้ว
 shopping-callout-opted-out-title = เครื่องมือตรวจสอบบทวิจารณ์ปิดอยู่
-shopping-callout-opted-out-subtitle = หากต้องการเปิดใช้งานอีกครั้ง ให้คลิกที่ไอคอนป้ายราคาในแถบที่อยู่และทำตามคำแนะนำ
+shopping-callout-opted-out-subtitle = ถ้าต้องการเปิดใช้งานอีกครั้ง ให้คลิกที่ไอคอนป้ายราคาในแถบที่อยู่และทำตามคำแนะนำ
 shopping-callout-opted-out-button = เข้าใจแล้ว
 
 ## Onboarding message strings.
