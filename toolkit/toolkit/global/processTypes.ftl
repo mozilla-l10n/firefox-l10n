@@ -17,6 +17,8 @@ process-type-privilegedmozilla = เนื้อหา Mozilla ที่มี�
 process-type-extension = ส่วนขยาย
 # process used to open file:// URLs
 process-type-file = ไฟล์ในเครื่อง
+# process used to instantiate new child processes
+process-type-forkserver = Fork Server
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = เนื้อหาเว็บที่ถูกคัดแยก

@@ -260,7 +260,10 @@ newtab-custom-row-selector =
     }
 newtab-custom-sponsored-sites = ทางลัดที่ได้รับการสนับสนุน
 newtab-custom-pocket-title = แนะนำโดย { -pocket-brand-name }
-newtab-custom-pocket-subtitle = เนื้อหาสุดพิเศษที่คัดสรรโดย { -pocket-brand-name } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
+newtab-custom-pocket-subtitle = เนื้อหาคัดสรรพิเศษโดย { -pocket-brand-name } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
+newtab-custom-stories-toggle =
+    .label = เรื่องราวแนะนำ
+    .description = เนื้อหาคัดสรรพิเศษโดยผลิตภัณฑ์ตระกูล { -brand-product-name }
 newtab-custom-pocket-sponsored = เรื่องราวที่ได้รับการสนับสนุน
 newtab-custom-pocket-show-recent-saves = แสดงบันทึกล่าสุด
 newtab-custom-recent-title = กิจกรรมล่าสุด

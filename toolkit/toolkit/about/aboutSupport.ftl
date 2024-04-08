@@ -411,3 +411,12 @@ pointing-device-none = ไม่มีอุปกรณ์ชี้ตำแห
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = การวิเคราะห์เนื้อหา (DLP)
+content-analysis-active = ทำงานอยู่
+content-analysis-connected-to-agent = เชื่อมต่อกับตัวแทนแล้ว
+content-analysis-agent-path = เส้นทางตัวแทน
+content-analysis-agent-failed-signature-verification = ตัวแทนทำการตรวจสอบลายเซ็นไม่สำเร็จ
+content-analysis-request-count = จำนวนคำร้องขอ

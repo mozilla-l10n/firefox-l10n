@@ -38,6 +38,11 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> ไม่มีผ�
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่มีการเลื่อน
 inactive-css-border-image = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้ เนื่องจากไม่สามารถใช้กับอิลิเมนต์ตารางภายในที่ตั้งค่า <strong>border-collapse</strong> เป็น <strong>collapse</strong> บนอิลิเมนต์ตารางแม่ได้
 inactive-css-ruby-element = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้ เนื่องจากเป็นอิลิเมนต์ ruby ขนาดของอิลิเมนต์นี้ถูกกำหนดโดยขนาดตัวอักษรของข้อความ ruby
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง highlight
 inactive-css-cue-pseudo-element-not-supported = ไม่รองรับ <strong>{ $property }</strong> บนอิลิเมนต์แฝง ::cue
 # Variables:
@@ -47,9 +52,11 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ไ�
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = ลองเพิ่ม <strong>display:grid</strong> หรือ <strong>display:flex</strong> { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = ลองเพิ่ม <strong>display:grid</strong>, <strong>display:flex</strong> หรือ <strong>display:block</strong> { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = ลองเพิ่ม <strong>display:grid</strong>, <strong>display:flex</strong>, หรือ <strong>columns:2</strong> { learn-more }
 inactive-css-not-multicol-container-fix = ลองเพิ่ม <strong>column-count</strong> หรือ <strong>column-width</strong> { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = ลองเพิ่ม <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> หรือ <strong>display:inline-flex</strong> ไปยังอิลิเมนต์แม่ของอิลิเมนต์ { learn-more }
