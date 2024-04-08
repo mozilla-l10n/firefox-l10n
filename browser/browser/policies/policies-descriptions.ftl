@@ -106,7 +106,7 @@ policy-PasswordManagerEnabled = เปิดใช้งานการบัน
 policy-PasswordManagerExceptions = ป้องกันไม่ให้ { -brand-short-name } บันทึกรหัสผ่านสำหรับไซต์ที่ระบุ
 # PDF.js and PDF should not be translated
 policy-PDFjs = ปิดใช้งานหรือกำหนดค่า PDF.js ตัวดู PDF ในตัวใน { -brand-short-name }
-policy-Permissions2 = กำหนดค่าสิทธิอนุญาตสำหรับกล้อง, ไมโครโฟน, ตำแหน่งที่ตั้ง, การแจ้งเตือน, และการเล่นอัตโนมัติ
+policy-Permissions2 = กำหนดค่าการอนุญาตสิทธิ์สำหรับกล้อง ไมโครโฟน ตำแหน่งที่ตั้ง การแจ้งเตือน และการเล่นอัตโนมัติ
 policy-PictureInPicture = เปิดหรือปิดใช้งานภาพที่เล่นควบคู่
 policy-PopupBlocking = อนุญาตให้บางเว็บไซต์แสดงป็อปอัปตามค่าเริ่มต้น
 policy-Preferences = ตั้งค่าและล็อคค่าสำหรับชุดย่อยของการกำหนดลักษณะ
