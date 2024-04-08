@@ -56,6 +56,12 @@ options-default-color-unit-name = ชื่อสี
 
 ## Web Console section
 
+# The heading
+options-webconsole-label = คอนโซลเว็บ
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = เปิดใช้งานคอนโซลแยก
+options-webconsole-split-console-tooltip =
+    .title = เปิดคอนโซลแยกด้วยแป้น Escape
 
 ## Style Editor section
 

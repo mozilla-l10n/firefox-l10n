@@ -32,6 +32,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = ค้นหาในการตั้งค่า
 managed-notice = เบราว์เซอร์ของคุณกำลังถูกจัดการโดยองค์กรของคุณ
+managed-notice-info-icon =
+    .alt = ข้อมูล
 category-list =
     .aria-label = หมวดหมู่
 pane-general-title = ทั่วไป
@@ -555,9 +557,10 @@ home-prefs-shortcuts-by-option-sponsored =
 
 home-prefs-recommended-by-header =
     .label = แนะนำโดย { $provider }
-home-prefs-recommended-by-description-new = เนื้อหาสุดพิเศษที่คัดสรรโดย { $provider } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
+home-prefs-recommended-by-description-new = เนื้อหาคัดสรรพิเศษโดย { $provider } ซึ่งเป็นส่วนหนึ่งของตระกูล { -brand-product-name }
 home-prefs-recommended-by-header-generic =
     .label = เรื่องราวแนะนำ
+home-prefs-recommended-by-description-generic = เนื้อหาคัดสรรพิเศษโดยผลิตภัณฑ์ตระกูล { -brand-product-name }
 
 ##
 
@@ -694,6 +697,10 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = เปลี่ยนรูปโปรไฟล์
     .alt = เปลี่ยนรูปโปรไฟล์
+sync-profile-picture-account-problem =
+    .alt = รูปโปรไฟล์บัญชี
+fxa-login-rejected-warning =
+    .alt = คำเตือน
 sync-sign-out =
     .label = ลงชื่อออก…
     .accesskey = g
