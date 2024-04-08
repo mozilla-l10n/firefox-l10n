@@ -35,7 +35,7 @@ pocket-panel-signup-add-tags = Pievienot tagus:
 
 pocket-panel-signup-already-have = Jau lietojat { -pocket-brand-name }?
 pocket-panel-signup-learn-more = Uzzināt vairāk
-pocket-panel-signup-login = Pieslēgties
+pocket-panel-signup-login = Ierakstīties
 pocket-panel-signup-signup-email = Pierakstīties ar e-pastu
 pocket-panel-signup-signup-cta = Pierakstīties { -pocket-brand-name }. Tas ir bez maksas.
 pocket-panel-signup-signup-firefox = Pierakstīties ar { -brand-product-name }
@@ -62,7 +62,7 @@ pocket-panel-home-new-user-message = Šeit skatiet nesen saglabāto.
 ## Pocket panel header component
 
 pocket-panel-header-my-saves = Skatīt savus saglabājumus
-pocket-panel-header-sign-in = Pieslēgties
+pocket-panel-header-sign-in = Ierakstīties
 
 ## Pocket panel buttons
 
