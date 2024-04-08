@@ -25,6 +25,7 @@ update-applying = Дар ҳоли татбиқи навсозӣ…
 update-failed = Навсозӣ иҷро нашуд. <label data-l10n-name="failed-link">Версияи охиринро боргирӣ намоед</label>
 update-failed-main = Навсозӣ иҷро нашуд. <a data-l10n-name="failed-link-main">Версияи охиринро боргирӣ намоед</a>
 update-adminDisabled = Навсозиҳо аз ҷониби маъмури низоми шумо ғайрифаъол карда шудаанд
+update-policy-disabled = Навсозиҳо аз ҷониби ташкилоти шумо ғайрифаъол карда шудаанд
 update-noUpdatesFound = «{ -brand-short-name }» нав аст
 aboutdialog-update-checking-failed = Санҷиши навсозиҳо иҷро нашуд.
 update-otherInstanceHandlingUpdates = «{ -brand-short-name }» аз тарафи раванди дигар навсозӣ шуда истодааст
