@@ -16,7 +16,7 @@ account-manage-devices = Pārvaldīt ierīces...
 ## Variables:
 ##   $email (String): = Email address of user's Firefox Account.
 
-account-reconnect = Pieslēgties { $email }
+account-reconnect = Atkal savienot { $email }
 account-verify = Pārbaudīt { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
@@ -28,7 +28,7 @@ account-manage-devices-titlecase = Pārvaldīt ierīces…
 ## and the account has only 1 device connected.
 
 # Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Nav pieslēgtu ierīču
+account-send-tab-to-device-singledevice-status = Nav savienotu ierīču
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Uzziniet vairāk par cilņu sūtīšanu…
 # Redirects to an FxAccounts page that tells to you to connect another device.
