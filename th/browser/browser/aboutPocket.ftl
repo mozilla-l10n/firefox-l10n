@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = เพิ่มแท็ก
-
 pocket-panel-saved-error-generic = เกิดข้อผิดพลาดขณะบันทึกไปยัง { -pocket-brand-name }
 pocket-panel-saved-error-tag-length = แท็กถูกจำกัดไว้ที่ 25 ตัวอักษร
 pocket-panel-saved-error-only-links = สามารถบันทึกได้เฉพาะลิงก์เท่านั้น
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = บันทึก
 pocket-panel-saved-saving-tags = กำลังบันทึก…
 pocket-panel-saved-suggested-tags = แท็กที่แนะนำ
 pocket-panel-saved-tags-saved = เพิ่มแท็กแล้ว
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = เพิ่มแท็ก:
 
@@ -41,14 +39,13 @@ pocket-panel-signup-login = เข้าสู่ระบบ
 pocket-panel-signup-signup-email = ลงทะเบียนด้วยอีเมล
 pocket-panel-signup-signup-cta = ลงทะเบียน { -pocket-brand-name } ฟรี
 pocket-panel-signup-signup-firefox = ลงทะเบียนด้วย { -brand-product-name }
-pocket-panel-signup-tagline = บันทึกบทความและวิดีโอจาก { -brand-product-name } เพื่อดูใน { -pocket-brand-name } บนอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
+pocket-panel-signup-tagline = บันทึกบทความและวิดีโอจาก { -brand-product-name } เพื่อดูใน { -pocket-brand-name } ด้วยอุปกรณ์ต่างๆ เวลาไหนก็ได้
 pocket-panel-signup-tagline-story-one = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ หรือหน้าจาก { -brand-product-name }
-pocket-panel-signup-tagline-story-two = ดูใน { -pocket-brand-name } บนอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
-
+pocket-panel-signup-tagline-story-two = ดูใน { -pocket-brand-name } ด้วยอุปกรณ์ต่างๆ เวลาไหนก็ได้
 pocket-panel-signup-cta-a-fix = ปุ่มบันทึกของคุณสำหรับอินเทอร์เน็ต
-pocket-panel-signup-cta-b-updated = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ และลิงก์ ดูรายการที่บันทึกไว้ของคุณบนอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
+pocket-panel-signup-cta-b-updated = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ และลิงก์ ดูรายการที่บันทึกไว้ของคุณในอุปกรณ์ต่างๆ เวลาไหนก็ได้
 pocket-panel-signup-cta-b-short = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ และลิงก์
-pocket-panel-signup-cta-c-updated = ดูรายการที่บันทึกไว้ของคุณบนอุปกรณ์ต่าง ๆ เวลาไหนก็ได้
+pocket-panel-signup-cta-c-updated = ดูรายการที่บันทึกไว้ของคุณในอุปกรณ์ต่างๆ เวลาไหนก็ได้
 
 ## about:pocket-home panel
 
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = คุณสามารถใช้ { -pocket-bra
 pocket-panel-home-explore-popular-topics = สำรวจหัวข้อยอดนิยม
 pocket-panel-home-discover-more = ค้นพบเพิ่มเติม
 pocket-panel-home-explore-more = สำรวจ
-
 pocket-panel-home-most-recent-saves = นี่คือรายการที่บันทึกล่าสุดของคุณ:
 pocket-panel-home-most-recent-saves-loading = กำลังโหลดรายการที่บันทึกล่าสุด…
 pocket-panel-home-new-user-cta = คลิกปุ่ม { -pocket-brand-name } เพื่อบันทึกบทความ วิดีโอ และลิงก์
