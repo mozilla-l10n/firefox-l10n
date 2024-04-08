@@ -145,17 +145,17 @@ webrtc-allow-share-screen-and-audio-capture-with-file = อนุญาตให
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
-webrtc-allow-share-audio-capture-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิอนุญาตให้กับ { $thirdParty } ในการฟังเสียงของแท็บนี้หรือไม่?
+webrtc-allow-share-audio-capture-unsafe-delegation = อนุญาตให้ { $origin } ยินยอมให้ { $thirdParty } ฟังเสียงของแท็บนี้ได้หรือไม่?
 webrtc-allow-share-camera-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิให้กับ { $thirdParty } ในการเข้าถึงกล้องของคุณหรือไม่?
 webrtc-allow-share-microphone-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิให้กับ { $thirdParty } ในการเข้าถึงไมโครโฟนของคุณหรือไม่?
-webrtc-allow-share-screen-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิอนุญาตให้กับ { $thirdParty } ในการดูหน้าจอของคุณหรือไม่?
+webrtc-allow-share-screen-unsafe-delegation = อนุญาตให้ { $origin } ยินยอมให้ { $thirdParty } ดูหน้าจอของคุณได้หรือไม่?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิให้กับ { $thirdParty } ในการเข้าถึงลำโพงอื่น ๆ หรือไม่?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิให้กับ { $thirdParty } ในการเข้าถึงกล้องและไมโครโฟนของคุณหรือไม่?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิให้กับ { $thirdParty } ในการเข้าถึงกล้องและฟังเสียงของแท็บนี้หรือไม่?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิให้กับ { $thirdParty } ในการเข้าถึงไมโครโฟนของคุณและดูหน้าจอของคุณหรือไม่?
-webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = อนุญาตให้ { $origin } มอบสิทธิอนุญาตให้กับ { $thirdParty } ในการฟังเสียงของแท็บนี้และดูหน้าจอของคุณหรือไม่?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = อนุญาตให้ { $origin } ยินยอมให้ { $thirdParty } ฟังเสียงของแท็บนี้และดูหน้าจอของคุณได้หรือไม่?
 
 ##
 

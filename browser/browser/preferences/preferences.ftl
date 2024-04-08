@@ -421,9 +421,9 @@ update-setting-write-failure-title2 = เกิดข้อผิดพลาด
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
-    { -brand-short-name } พบข้อผิดพลาดและไม่ได้บันทึกการเปลี่ยนแปลงนี้ โปรดทราบว่าการเปลี่ยนการตั้งค่าการอัปเดตนี้จำเป็นต้องได้รับสิทธิอนุญาตให้เขียนไปยังไฟล์ด้านล่าง คุณหรือผู้ดูแลระบบอาจสามารถแก้ไขข้อผิดพลาดได้ด้วยการมอบสิทธิ์ให้กับกลุ่มผู้ใช้เพื่อให้สามารถควบคุมไฟล์นี้ได้อย่างเต็มที่
+    { -brand-short-name } พบข้อผิดพลาดและไม่ได้บันทึกการเปลี่ยนแปลงนี้ โปรดทราบว่าการเปลี่ยนการตั้งค่าการอัปเดตนี้จำเป็นต้องได้รับการอนุญาตสิทธิ์ให้เขียนข้อมูลลงในไฟล์ด้านล่างนี้ ซึ่งตัวคุณเองหรือผู้ดูแลระบบอาจสามารถแก้ไขข้อผิดพลาดได้ด้วยการมอบสิทธิ์ให้กับกลุ่ม “ผู้ใช้” เพื่อให้สามารถควบคุมไฟล์นี้ได้อย่างเต็มที่
     
-    ไม่สามารถเขียนไปยังไฟล์: { $path }
+    ไม่สามารถเขียนข้อมูลลงในไฟล์: { $path }
 update-in-progress-title = กำลังอัปเดต
 update-in-progress-message = คุณต้องการให้ { -brand-short-name } ดำเนินการต่อกับการอัปเดตนี้หรือไม่?
 update-in-progress-ok-button = &ละทิ้ง
@@ -1187,7 +1187,7 @@ tracking-manage-exceptions =
 
 ## Privacy Section - Permissions
 
-permissions-header = สิทธิอนุญาต
+permissions-header = การกำหนดสิทธิ์
 permissions-location = ตำแหน่งที่ตั้ง
 permissions-location-settings =
     .label = การตั้งค่า…
