@@ -42,3 +42,4 @@ crashreporter-error-no-home-dir = Noĩri marandurenda’aty ñepyrũha
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Ojavy emongu’évo { $from } { $to }-pe
+crashreporter-error-version-eol = Hekove ru’ã: noñemoneĩvéima marandu jejavy rehegua.
