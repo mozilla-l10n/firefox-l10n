@@ -38,6 +38,11 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> ndojapói mba’eve
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ndojapói mba’eve ko mba’eporúpe ndoku’éi rupi.
 inactive-css-border-image = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’eporúpe ndaikatúi rupi oñemohembiapo mba’eporuita hyepyguávape <strong>border-collapse</strong>oguereko tepykue<strong>collapse</strong> mba’eporu mba’ekuaarã’aty tuichavévape.
 inactive-css-ruby-element = <strong>{ $property }</strong> nombyaikuaái ko mba’eporúpe ha’e rupi mba’eporu ruby. Tuichakue ojehecha moñe’ẽrã ruby reñoiha tuichakue.
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u mbosa’ypyrére.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> ojokupyty mba’eporugua’u ndive ::cue.
 # Variables:
@@ -51,9 +56,11 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ndogu
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong> térã <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong> térã <strong>yta:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Eñeha’ã embojuaju <strong>column-count</strong> térã <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> térã <strong>display:inline-flex</strong> pe mba’eporu túvape. { learn-more }

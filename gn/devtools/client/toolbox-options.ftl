@@ -65,6 +65,8 @@ options-default-color-unit-name = Sa’ykuéra réra
 options-webconsole-label = Mba’e’okarupa
 # The label for the checkbox that toggle whether the Split console is enabled
 options-webconsole-split-console-label = Emyandy mba’e’oka mboja’opyre
+options-webconsole-split-console-tooltip =
+    .title = Embojuruja mba’e’okarupa ivoréva Esc tairenda ndive
 
 ## Style Editor section
 
