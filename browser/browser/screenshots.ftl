@@ -49,6 +49,8 @@ screenshots-too-large-error-details = Saiatu bere alderik luzeenean 32.700 pixel
 screenshots-component-retry-button =
     .title = Saiatu berriro pantaila-argazkia ateratzen
     .aria-label = Saiatu berriro pantaila-argazkia ateratzen
+screenshots-component-copy-button-label = Kopiatu
+screenshots-component-download-button-label = Deskargatu
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
