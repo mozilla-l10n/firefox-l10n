@@ -46,3 +46,21 @@ screenshots-generic-error-title = Opā! { -screenshots-brand-name } sagāja grī
 screenshots-generic-error-details = Mēs īsti nezinām, kas tikko notika. Vai vēlaties mēģināt vēlreiz vai nofotografēt citu lapu?
 screenshots-too-large-error-title = Jūsu ekrānuzņēmums tika apgriezts, jo tas bija pārāk liels
 screenshots-too-large-error-details = Mēģiniet atlasīt reģionu, kura garākā mala ir mazāka par 32 700 pikseļiem vai 124 900 000 pikseļu kopējā platība.
+screenshots-component-retry-button =
+    .title = Atkal mēģināt uzņemt ekrānu
+    .aria-label = Atkal mēģināt uzņemt ekrānu
+screenshots-component-copy-button-label = Kopēt
+screenshots-component-download-button-label = Lejupielādēt
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
+
+# This string represents the selection size area
+# "x" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-2 = { $width } x { $height }
