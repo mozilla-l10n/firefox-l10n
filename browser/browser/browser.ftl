@@ -18,9 +18,9 @@
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } Գաղտնի դիտարկում
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } Գաղտնի դիտարկում
+    .data-title-private = { -brand-full-name } գաղտնի դիտարկում
+    .data-content-title-default = { $content-title }. { -brand-full-name }
+    .data-content-title-private = { $content-title }. { -brand-full-name } գաղտնի դիտարկում
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -40,9 +40,9 @@ browser-main-window-window-titles =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac-window-titles =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — Մասնավոր զննարկում
+    .data-title-private = { -brand-full-name }. Մասնավոր զննարկում
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — Մասնավոր զննարկում
+    .data-content-title-private = { $content-title }. Մասնավոր զննարկում
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -206,8 +206,8 @@ search-one-offs-context-set-as-default =
     .label = Հաստատել որպես հիմնական Որոնիչ
     .accesskey = հ
 search-one-offs-context-set-as-default-private =
-    .label = Սահմանել որպես լռելյայն որոնման միջոց անձնական պատուհանների համար
-    .accesskey = P
+    .label = Սահմանել որպես լռելյայն որոնիչ գաղտնի պատուհանների համար
+    .accesskey = Գ
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
@@ -277,7 +277,7 @@ quickactions-cmd-print = տպել
 quickactions-savepdf = Պահել էջը որպես PDF
 quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
-quickactions-private2 = Սկսել Գաղտնի դիտարկում
+quickactions-private2 = Բացել գաղտնի պատուհան
 quickactions-cmd-private = գաղտնի դիտարկում
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Թարմացնել { -brand-short-name }-ը
@@ -335,14 +335,14 @@ bookmark-panel =
 
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-identity-site-information = Տեղեկություն կայքի մասին { $host }-ի համար
+identity-site-information = Տեղեկություն { $host } կայքի մասին
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 identity-header-security-with-host =
     .title = Միացման անվտանգություն { $host }-ի համար
-identity-connection-not-secure = Կապակցումը ապահով չէ
-identity-connection-secure = Կապակցումը ապահով է
-identity-connection-failure = Կապակցումը ձախողվեց
+identity-connection-not-secure = Կապակցումն ապահով չէ
+identity-connection-secure = Կապակցումն ապահով է
+identity-connection-failure = Միացման ձախողում
 identity-connection-internal = Սա անվտանգ { -brand-short-name } էջ է:
 identity-connection-file = Այս էջը գտնվում է համակարգչում
 identity-connection-associated = Այս էջը բեռնված է մեկ այլ էջից:
@@ -363,6 +363,7 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Ժամանակավորապես անջատված է
 identity-https-only-info-turn-on2 = Միացրեք Միայն HTTPS կերպը այս կայքի համար, եթե ցանկանում եք, որ { -brand-short-name }-ը արդիացնի կապակցումը, երբ հնարավոր է:
+identity-https-only-info-no-upgrade = Հնարավոր չէ HTTP-ից թարմացնել կապը:
 identity-permissions-storage-access-header = Միջկայքային թխուկներ
 identity-permissions-storage-access-hint = Այս կողմերը կարող են օգտագործել միջկայքաին թխուկներ և կայքի տվյալներ, երբ դուք գտնվում եք այս կայքում:
 identity-permissions-storage-access-learn-more = Իմանալ ավելին
@@ -376,15 +377,15 @@ identity-description-custom-root2 = Mozilla֊ն չի ճանաչում այս վ�
 identity-remove-cert-exception =
     .label = Հեռացնել բացառությունը
     .accesskey = Հ
-identity-description-insecure = Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղարկված տեղեկությունները կարող են դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):
+identity-description-insecure = Ձեր կապակցումն այս կայքին գաղտնի չէ: Ուղարկված տեղեկությունները կարող են դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):
 identity-description-insecure-login-forms = Մուտքգործման տեղեկությունը, որ մուտքագրել եք այս էջում, անվտանգ չէ և կարող է վտանգվել:
-identity-description-weak-cipher-intro = Ձեր կապակցումը այս կայքին օգտագործում է աղքատ գաղտնագրում և այն գաղտնի չէ:
+identity-description-weak-cipher-intro = Ձեր միացումը այս կայքին օգտագործում է թույլ գաղտնագրում և այն գաղտնի չէ:
 identity-description-weak-cipher-risk = Այլ անձինք կարող են դիտել ձեր տեղեկատվությունը կամ փոփոխել կայքի ժառանգորդին:
 identity-description-active-blocked2 = { -brand-short-name }-ը արգելափակել է այս էջի մասերը, որոնք անվտանգ չեն:
-identity-description-passive-loaded = Ձեր կապակցումը գատնի չէ և կայք ուղարկված տեղեկատվությունը կարող է դիտվել ուրիշների կողմից:
+identity-description-passive-loaded = Ձեր միացումը գատնի չէ և Ձեր կողմից տարածված տեղեկատվությունը կարող է դիտվել ուրիշների կողմից:
 identity-description-passive-loaded-insecure2 = Այս կայքը պարունակում է բովանդակություն, որն անվտանգ չէ (օր.՝ պատկերներ):
 identity-description-passive-loaded-mixed2 = Չնայած { -brand-short-name }-ը արգելափակել է որոշ բովանդակություն՝ այս էջում դեռ կա ոչ անվտանգ բովանդակություն (օր.՝ պատկերներ):
-identity-description-active-loaded = Այս կայքը պարունակում է բովանդակություն, որն անվտանգ չէ (օր.՝ գրվածքներ) և ձեր կապակցումը գաղտնի չէ:
+identity-description-active-loaded = Այս կայքը պարունակում է բովանդակություն, որն անվտանգ չէ (օր.՝ գրվածքներ) և Ձեր միացումը գաղտնի չէ:
 identity-description-active-loaded-insecure = Կայք ուղարկված տեղեկատվությունը կարող է դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):
 identity-disable-mixed-content-blocking =
     .label = Անջատել պաշտպանությունը
@@ -409,9 +410,9 @@ browser-window-close-button =
 ## Tab actions
 
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-playing2 = ՆՎԱԳԱՐԿՈՒՄ Է
+browser-tab-audio-playing2 = ՆՎԱԳԱՐԿՎՈՒՄ Է
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = ԱՆՁԱՅՆ
+browser-tab-audio-muted2 = ԼՌԵՑՎԱԾ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = ԻՆՔՆԱՆՎԱԳԱՐԿՈՒՄՆ ԱՐԳԵԼԱՓԱԿՎԱԾ Է
 # This label should be written in all capital letters if your locale supports them.
@@ -485,7 +486,7 @@ urlbar-search-mode-indicator-close =
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Մուտքագրեք կայքի հասցե կամ որոնում
+    .placeholder = Որոնեք կամ մուտքագրեք հասցե
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -500,24 +501,33 @@ urlbar-placeholder-search-mode-web-2 =
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Մուտքագրել որոնվող բառը
-    .aria-label = Որոնել { $name }-ը
+    .placeholder = Մուտքագրեք որոնվող բառը
+    .aria-label = Որոնել { $name }-ում
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Մուտքագրեք որոնվող բառը
-    .aria-label = Որոնել էջանիշ
+    .aria-label = Որոնել էջանիշերում
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Մուտքագրեք որոնվող բառը
-    .aria-label = Որոնման պատմություն
+    .aria-label = Որոնել պատմությունում
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Մուտքագրեք որոնվող բառը
-    .aria-label = Որոնել ներդիրներ
+    .aria-label = Որոնել ներդիրներում
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = Մուտքագրեք որոնվող բառը
+    .aria-label = Որոնել գործողություններում
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Որոնեք { $name }-ում կամ մուտքագրեք հասցե
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = Դիտարկիչը հեռակառավարման տակ է (պատճառը՝ { $component })
 urlbar-permissions-granted =
     .tooltiptext = Դուք տրամադրել եք այս կայքէջին լրացուցիչ թույլտվություններ:
 urlbar-switch-to-tab =
@@ -538,9 +548,9 @@ urlbar-page-action-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = Որոնեք { $engine }֊ի անձնական պատուհանում
+urlbar-result-action-search-in-private-w-engine = Որոնեք { $engine }֊ի Մասնավոր պատուհանում
 # Used when the private browsing engine is the same as the default engine.
-urlbar-result-action-search-in-private = Դուք գաղտնի դիտարկման մեջ եք։
+urlbar-result-action-search-in-private = Դուք մասնավոր դիտարկման մեջ եք։
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
@@ -562,7 +572,15 @@ urlbar-result-action-before-tabtosearch-web = Սեղմեք Tab՝ { $engine }-ո�
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-before-tabtosearch-other = Սեղմեք Tab՝ { $engine } որոնելու համար
+urlbar-result-action-before-tabtosearch-other = Սեղմեք Tab՝ { $engine }-ում որոնելու համար
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = Որոնեք { $engine }-ով՝ անմիջապես հասցեագոտուց
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = Որոնեք { $engine }-ում՝ անմիջապես հասցեագոտուց
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Պատճենել
 # Shows the result of a formula expression being calculated, the last = sign will be shown
@@ -752,15 +770,15 @@ toolbar-button-save-page =
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Բացել ֆայլը
-    .tooltiptext = Բացել ֆայլ ({ $shortcut })
+    .tooltiptext = Բացել  ({ $shortcut }) ֆայլը
 toolbar-button-synced-tabs =
     .label = Համաժամեցված ներդիրներ
     .tooltiptext = Ցուցադրել այլ սարքերի ներդիրները
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
-    .label = Սկսել Գաղտնի դիտարկում
-    .tooltiptext = Բացել Գաղտնի դիտարկման նոր պատուհան ({ $shortcut })
+    .label = Սկսել Մասնավոր դիտարկում
+    .tooltiptext = Բացել Մասնավոր դիտարկման նոր պատուհան ({ $shortcut })
 
 ## EME notification panel
 
@@ -890,8 +908,8 @@ unified-extensions-button-quarantined =
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
-    .label = Ավարտել մասնավոր աշխատաշրջանը
-    .tooltiptext = Ավարտել մասնավոր աշխատաշրջանը
+    .label = Ավարտել գաղտնի աշխատաշրջանը
+    .tooltiptext = Ավարտել գաղտնի աշխատաշրջանը
 reset-pbm-panel-heading = Ավարտե՞լ ձեր անձնական աշխատաշրջանը:
 reset-pbm-panel-description = Փակեք բոլոր անձնական ներդիրները և ջնջեք պատմությունը, թխուկները և կայքի բոլոր մյուս տվյալները:
 reset-pbm-panel-always-ask-checkbox =

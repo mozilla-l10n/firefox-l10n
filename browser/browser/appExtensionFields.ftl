@@ -13,6 +13,7 @@ extension-firefox-compact-light-description = Լուսավոր ձևավորմա�
 extension-firefox-compact-dark-name = Մուգ
 extension-firefox-compact-dark-description = Մուգ ձևավորմամբ գունավորում:
 extension-firefox-alpenglow-name = Firefox Alpenglow
+extension-firefox-alpenglow-description = Օգտագործեք գունավոր տեսք կոճակների, ցանկերի և պատուհանների համար։
 
 ## Colorway Themes
 ## These themes are variants of a colorway. The colorway is specified in the
