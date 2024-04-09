@@ -46,3 +46,21 @@ screenshots-generic-error-title = ვაი! { -screenshots-brand-name } მწ�
 screenshots-generic-error-details = გაუგებარია რა მოხდა. ისევ ცდით ხელახლა, თუ სხვა ვებგვერდს გადაუღებთ სურათს?
 screenshots-too-large-error-title = ეკრანის სურათი მოიჭრა, ვინაიდან ზედმეტად დიდი იყო
 screenshots-too-large-error-details = ეცადეთ მონიშნოთ არე არაუმეტეს 32 700 პიქსელიანი გვერდით ან ჯამში 124 900 000 პიქსელით.
+screenshots-component-retry-button =
+    .title = კვლავ გადაღება
+    .aria-label = კვლავ გადაღება
+screenshots-component-copy-button-label = ასლი
+screenshots-component-download-button-label = ჩამოტვირთვა
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
+
+# This string represents the selection size area
+# "x" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-2 = { $width } x { $height }
