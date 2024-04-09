@@ -173,9 +173,11 @@ shopping-callout-pdp-opted-in-subtitle = Барои дидани баҳодиҳ�
 shopping-callout-closed-not-opted-in-title = Барои гирифтани тақризҳои боэътимод танҳо як маротиба зер кунед
 shopping-callout-closed-not-opted-in-subtitle = Ҳар вақте ки шумо барчаспи нархро мебинед, истифодаи абзори тафтиши тақризҳоро кӯшиш намоед. Пеш аз хирид — маълумоти таҷрибавиро аз харидорони воқеи ба даст оред.
 shopping-callout-closed-not-opted-in-revised-button = Фаҳмидам
+shopping-callout-not-opted-in-reminder-open-button = Кушодани абзори тафтиши тақризҳо
 shopping-callout-not-opted-in-reminder-close-button = Нодида гузарондан
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Дигар нишон дода нашавад
 shopping-callout-disabled-auto-open-button = Фаҳмидам
+shopping-callout-opted-out-title = Абзори тафтиши тақризҳо хомӯш аст
 shopping-callout-opted-out-button = Фаҳмидам
 
 ## Onboarding message strings.

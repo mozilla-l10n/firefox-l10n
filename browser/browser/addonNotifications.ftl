@@ -57,6 +57,8 @@ addon-domain-blocked-by-policy = Маъмури низои шумо дархос
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) аз ҷониби ташкилоти шумо ғайрифаъол карда шуд.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Ташкилоти шумо дархостҳои ин сомонаро барои насб кардани нармафзор дар компютери шумо манъ кард.
 addon-install-full-screen-blocked = Ҳангоми ё пеш аз фаъол кардани реҷаи экрани пурра, насбкунии ҷузъи иловагӣ иҷозат дода намешавад.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
