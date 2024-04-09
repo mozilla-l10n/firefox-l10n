@@ -44,3 +44,13 @@ screenshots-private-window-error-title = Usuga { -screenshots-brand-name } je za
 screenshots-private-window-error-details = Przebocz ta zawada. Prawie robiymy przi tyj funkcyji, coby sie pokozała we prziszłości.
 screenshots-generic-error-title = Usuga { -screenshots-brand-name } niy funguje dobrze.
 screenshots-generic-error-details = Niy sōm my zicher, co sie stało. Sprōbujesz jeszcze roz, abo bydziesz zapisować ôbroz inkszyj strōny?
+screenshots-component-retry-button =
+    .title = Sprōbuj zaś zrobić ôbroz ekranu
+    .aria-label = Sprōbuj zaś zrobić ôbroz ekranu
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
+
