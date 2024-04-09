@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Blokker tilgang til about:support-sida.
 policy-Bookmarks = Opprett bokmerke i bokmerkeverktøylinja, i bokmerkermenyen eller ei nærmare spesifisert mappe i dei.
 policy-CaptivePortal = Aktiver eller deaktiver støtte for captive portal.
 policy-CertificatesDescription = Legg til sertifikat eller bruk innebygde sertifikat.
+policy-ContentAnalysis = Aktiver eller deaktiver tilkopling til hindre-tap-av-data-agenten.
 policy-Cookies = Tillat eller nekt nettstadar å lagre infokapslar.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Angi policyar relatert til behaldarar.
@@ -124,6 +125,7 @@ policy-SSLVersionMax = Still inn den maksimale SSL-versjonen.
 policy-SSLVersionMin = Still inn den minimale SSL-versjonen.
 policy-StartDownloadsInTempDirectory = Tving nedlastinger til å starte på ei lokal, mellombels plassering i staden for standard nedlastingskatalog.
 policy-SupportMenu = Legg til eit tilpassa menyelement med hjelp i hjelpemenyen.
+policy-TranslateEnabled = Slå på eller av nettsideomsetjing.
 policy-UserMessaging = Ikkje vis visse meldingar til brukaren.
 policy-UseSystemPrintDialog = Skriv ut ved hjelp av utskriftsdialogvindauget til systemet.
 # “format” refers to the format used for the value of this policy.

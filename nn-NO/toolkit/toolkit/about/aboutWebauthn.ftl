@@ -28,6 +28,7 @@ about-webauthn-results-general-error = Feil!
 ## Labels
 
 about-webauthn-new-pin-label = Ny PIN-kode:
+about-webauthn-repeat-pin-label = Repeter ny PIN-kode:
 about-webauthn-current-pin-label = Gjeldande PIN-kode:
 about-webauthn-credential-list-subsection-title = Innloggingsdetaljar:
 about-webauthn-enrollment-name-label = Registreringsnamn (valfritt):
