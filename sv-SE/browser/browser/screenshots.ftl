@@ -46,6 +46,8 @@ screenshots-generic-error-title = Oj! { -screenshots-brand-name } verkar inte fu
 screenshots-generic-error-details = Vi är inte säkra på vad som just hände. Kan du försöka igen eller ta en bild på en annan sida?
 screenshots-too-large-error-title = Din skärmdump har beskurits eftersom den var för stor
 screenshots-too-large-error-details = Prova att välja ett område som är mindre än 32 700 pixlar på sin längsta sida eller 124 900 000 pixlar total yta.
+screenshots-component-copy-button-label = Kopiera
+screenshots-component-download-button-label = Hämta
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
