@@ -47,6 +47,8 @@ screenshots-generic-error-details = مطمئن نیستیم چه اتفاقی ا
 screenshots-component-retry-button =
     .title = تلاش مجدد
     .aria-label = تلاش مجدد
+screenshots-component-copy-button-label = رونوشت
+screenshots-component-download-button-label = بارگیری
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
