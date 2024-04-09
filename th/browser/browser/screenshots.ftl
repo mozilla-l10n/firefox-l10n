@@ -46,3 +46,15 @@ screenshots-generic-error-title = โอ๊ย! { -screenshots-brand-name } ร�
 screenshots-generic-error-details = เราไม่แน่ใจว่าเกิดอะไรขึ้น ต้องการลองอีกครั้งหรือจับภาพหน้าจอของหน้าอื่น?
 screenshots-too-large-error-title = ภาพหน้าจอของคุณถูกครอบตัดเนื่องจากมีขนาดใหญ่เกินไป
 screenshots-too-large-error-details = ลองเลือกขอบเขตที่มีขนาดเล็กกว่า 32,700 พิกเซลที่ด้านยาวที่สุด หรือพื้นที่ทั้งหมด 124,900,000 พิกเซล
+screenshots-component-retry-button =
+    .title = ลองภาพหน้าจออีกครั้ง
+    .aria-label = ลองภาพหน้าจออีกครั้ง
+screenshots-component-copy-button-label = คัดลอก
+screenshots-component-download-button-label = ดาวน์โหลด
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
+
