@@ -5,10 +5,8 @@
 screenshot-toolbarbutton =
     .label = Képernyőkép
     .tooltiptext = Képernyőkép készítése
-
 screenshot-shortcut =
     .key = S
-
 screenshots-instructions = Húzza, vagy kattintson a lapra a terület kiválasztásához. A megszakításhoz nyomja meg az ESC billentyűt.
 screenshots-cancel-button = Mégse
 screenshots-save-visible-button = Látható rész mentése
@@ -25,7 +23,6 @@ screenshots-cancel-button-title =
     .title = Mégse
 screenshots-retry-button-title =
     .title = Képernyőkép újbóli elkészítése
-
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -33,28 +30,37 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Hivatkozás másolva
 screenshots-notification-link-copied-details = A képernyőképre mutató hivatkozás a vágólapra lett másolva. Nyomjon { screenshots-meta-key }-V-t a beillesztéshez.
-
 screenshots-notification-image-copied-title = Képernyőkép másolva
 screenshots-notification-image-copied-details = A képernyőkép a vágólapra lett másolva. Nyomjon { screenshots-meta-key }-V-t a beillesztéshez.
-
 screenshots-request-error-title = Nem működik.
 screenshots-request-error-details = Bocsánat! Nem tudtuk menteni a képet. Próbálkozzon később.
-
 screenshots-connection-error-title = Nem tudunk kapcsolódni a képernyőképekhez.
 screenshots-connection-error-details = Ellenőrizze az internetkapcsolatot. Ha tud kapcsolódni az internetre, akkor lehet, hogy ideiglenes probléma van a { -screenshots-brand-name } szolgáltatással.
-
 screenshots-login-error-details = Nem tudtuk elmenteni a képét, mert probléma lépett fel a { -screenshots-brand-name } szolgáltatással. Próbálja újra később.
-
 screenshots-unshootable-page-error-title = Nem lehet képet készíteni erről a lapról.
 screenshots-unshootable-page-error-details = Ez egy nem szabványos weblap, így nem készíthet róla képernyőképet.
-
 screenshots-empty-selection-error-title = A kijelölés túl kicsi
-
 screenshots-private-window-error-title = A { -screenshots-brand-name } le vannak tiltva Privát böngészésben
 screenshots-private-window-error-details = Sajnáljuk a kényelmetlenséget. Dolgozunk ezen a funkción a jövőbeli kiadásokhoz.
-
 screenshots-generic-error-title = Húha! A { -screenshots-brand-name } megkergült.
 screenshots-generic-error-details = Nem vagyunk benne biztosak, hogy mi történt. Próbálja újra, vagy készítsen képet egy másik oldalról.
-
 screenshots-too-large-error-title = A képernyőkép le lett vágva, mert túl nagy volt
 screenshots-too-large-error-details = Próbáljon egy 32 700 képpontosnál kisebb szélességű, vagy egy 124 900 000 képpontosnál kisebb összképpontszámú területet kiválasztani .
+screenshots-component-retry-button =
+    .title = Képernyőkép újbóli elkészítése
+    .aria-label = Képernyőkép újbóli elkészítése
+screenshots-component-copy-button-label = Másolás
+screenshots-component-download-button-label = Letöltés
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
+
+# This string represents the selection size area
+# "x" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-2 = { $width } x { $height }
