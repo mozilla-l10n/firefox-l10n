@@ -24,6 +24,8 @@ about-reader-color-theme-gray = Hũngy
     .title = Hũngy isa’ýva
 about-reader-color-theme-contrast = Mbojovake
     .title = Mbojovake isa’ýva
+about-reader-color-theme-custom = Sa’ykuéra momba’epyre
+    .title = Sa’ykuéra momba’epyre téma
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -76,3 +78,10 @@ about-reader-custom-colors-foreground = Moñe’ẽrã
     .title = Embosako’i sa’y
 about-reader-custom-colors-background = Tugua
     .title = Embosako’i sa’y
+about-reader-custom-colors-unvisited-links = Juajuha ojeporu’ỹva
+    .title = Embosako’i sa’y
+about-reader-custom-colors-visited-links = Juajuha ojeporúva
+    .title = Embosako’i sa’y
+about-reader-custom-colors-selection-highlight = Mbosa’y emoñe’ẽ hag̃ua ayvúpe
+    .title = Embosako’i sa’y
+about-reader-custom-colors-reset-button = Erujey ijypykuéva
