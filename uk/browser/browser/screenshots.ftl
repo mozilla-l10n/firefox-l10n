@@ -49,6 +49,8 @@ screenshots-too-large-error-details = Спробуйте вибрати діля
 screenshots-component-retry-button =
     .title = Перезняти знімок
     .aria-label = Перезняти знімок
+screenshots-component-copy-button-label = Копіювати
+screenshots-component-download-button-label = Завантажити
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
