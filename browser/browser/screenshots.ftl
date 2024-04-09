@@ -50,6 +50,7 @@ screenshots-component-retry-button =
     .title = Eha’ãjey mba’erechaha jejapyhy
     .aria-label = Eha’ãjey mba’erechaha jejapyhy
 screenshots-component-copy-button-label = Monguatia
+screenshots-component-download-button-label = Emboguejy
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
