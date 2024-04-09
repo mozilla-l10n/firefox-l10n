@@ -30,12 +30,14 @@ about-webauthn-results-general-error = Feil!
 about-webauthn-new-pin-label = Ny PIN-kode:
 about-webauthn-repeat-pin-label = Repeter ny PIN-kode:
 about-webauthn-current-pin-label = Gjeldande PIN-kode:
+about-webauthn-pin-required-label = Skriv inn PIN-koden din:
 about-webauthn-credential-list-subsection-title = Innloggingsdetaljar:
 about-webauthn-enrollment-name-label = Registreringsnamn (valfritt):
 about-webauthn-confirm-deletion-label = Du er i ferd med å slette:
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = Vel PIN-kode
 about-webauthn-current-change-pin-button = Endre PIN-kode
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = List opp innloggingsdetaljar
@@ -56,6 +58,8 @@ about-webauthn-auth-option-up = Brukarnærvær
 about-webauthn-auth-option-clientpin = Klient PIN-kode
 about-webauthn-auth-option-rk = Resident-nøkkel
 about-webauthn-auth-option-plat = Plattformeining
+about-webauthn-auth-option-largeblobs = Store blobbar
+about-webauthn-auth-option-bioenroll = Biometrisk registrering
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
