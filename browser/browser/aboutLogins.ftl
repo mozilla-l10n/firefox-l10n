@@ -316,23 +316,23 @@ about-logins-export-file-picker-csv-filter-title =
 ## Login Import Dialog
 
 # Title of the file picker dialog
-about-logins-import-file-picker-title = Ներմուծեք մուտքագրման ֆայլը
+about-logins-import-file-picker-title = Ներածեք մուտքագրման նիշքը
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Ներմուծեք գաղտնաբառերը { -brand-short-name }-ից
-about-logins-import-file-picker-import-button = Ներմուծել
+about-logins-import-file-picker-import-button = Ներածել
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV փաստաթուղթ
-       *[other] CSV ֆայլ
+       *[other] CSV նիշք
     }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
 about-logins-import-file-picker-tsv-filter-title =
     { PLATFORM() ->
         [macos] TSV փաստաթուղթ
-       *[other] TSV ֆայլ
+       *[other] TSV նիշք
     }
 
 ##
@@ -354,10 +354,30 @@ about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Կրկնօրինակ մուտքագրումներ են գտնվել․</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(չեն ներմուծվել)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Ավելացվեց նոր գաղտնաբառ.</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ավելացվեցին նոր գաղտնաբառեր.</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Գոյություն ունեցող մուտքը թարմացվեց.</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Գոյություն ունեցող մուտքերը թարմացվեցին.</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Կրկնօրինակ մուտք գտնվեց․</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(չներմուծվեց)</span>
+       *[other] <span>Կրկնօրինակ մուտք գտնվեցին․</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(չներմուծվեցին)</span>
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Սխալ․</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(չներմուծվեց)</span>
+       *[other] <span>Սխալներ․</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(չներմուծվեցին)</span>
+    }
 about-logins-import-dialog-done = Պատրաստ է
 about-logins-import-dialog-error-title = Ներմուծման սխալ
 about-logins-import-dialog-error-file-format-title = Ֆայլի ձևաչափի խնդիր
-about-logins-import-dialog-error-file-permission-title = Հնարավոր չէ կարդալ ֆայլը
+about-logins-import-dialog-error-file-permission-title = Հնարավոր չէ կարդալ նիշքը
 about-logins-import-dialog-error-unable-to-read-title = Հնարավոր չէ կարդալ ֆայլը
 about-logins-import-dialog-error-unable-to-read-description = Համոզվեք, որ ընտրել եք CSV կամ TSV ֆայլ:
 about-logins-import-dialog-error-no-logins-imported = Ոչ մի մուտքագրում չի ներմուծվել
@@ -390,6 +410,21 @@ about-logins-import-report-row-description-error-missing-field = Սխալ․ բ�
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-report-added =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Նոր մուտքերն ավելացվեցին</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Նոր մուտքերն ավելացվեցին</div>
+    }
+about-logins-import-report-modified =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Առկա մուտքերը թարմացվեցին</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Առկա մուտքերը թարմացվեցին</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Նոր գաղտնաբառերն ավելացվեցին</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Նոր գաղտնաբառերն ավելացվեցին</div>
+    }
 
 ## Logins import report page
 
