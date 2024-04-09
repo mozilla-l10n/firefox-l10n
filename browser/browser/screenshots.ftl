@@ -49,6 +49,8 @@ screenshots-too-large-error-details = Intente seleccionar una región de menos d
 screenshots-component-retry-button =
     .title = Reintentar captura de pantalla
     .aria-label = Reintentar captura de pantalla
+screenshots-component-copy-button-label = Copiar
+screenshots-component-download-button-label = Descargar
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
