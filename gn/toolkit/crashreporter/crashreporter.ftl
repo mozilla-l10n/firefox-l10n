@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = { -brand-short-name } marandu jejavyguáva
+crashreporter-apology = Rombyasy
 crashreporter-plea = Orepytyvõ hag̃ua rojuhu ha romyatyrõ ko apañuãi, ikatu egueruka oréve marandu’i jejavy rehegua.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Mba’eju’i: { $details }
@@ -12,6 +13,7 @@ crashreporter-loading-details = Henyhẽhína…
 crashreporter-view-report-title = Marandu’i retepy
 crashreporter-comment-prompt = Embojuaju je’epyre (je’epyre ohecháta opavavete)
 crashreporter-report-info = Ko marandu’i aguereko avei marandu mba’éichapa tembiporu’i oĩkuri oñembotýramo guare.
+crashreporter-send-report = Emombe’u { -vendor-short-name }-pe jejavygua omoĩporã hag̃ua.
 crashreporter-include-url = Ehai kuatiarogue kundaharape eikehague.
 crashreporter-submit-status = Nemarandu’i jejavy rehegua oñemondóta esẽ térã emoñepyrũjey mboyve.
 crashreporter-submit-in-progress = Omondohína imarandu’i…
@@ -37,3 +39,6 @@ crashreporter-error-loading-file = Neremyanyhẽkuaái marandurenda ({ $path })
 # $path (String) - the path
 crashreporter-error-creating-dir = Neremoheñoikuaái marandurenda’aty ({ $path })
 crashreporter-error-no-home-dir = Noĩri marandurenda’aty ñepyrũha
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Ojavy emongu’évo { $from } { $to }-pe
