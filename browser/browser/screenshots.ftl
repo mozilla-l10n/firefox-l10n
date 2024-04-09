@@ -46,3 +46,13 @@ screenshots-generic-error-title = Ups! Služba { -screenshots-brand-name } prest
 screenshots-generic-error-details = Nie sme si istí, čo sa práve stalo. Chcete tú skúsiť znova alebo chcete vytvoriť snímku inej stránky?
 screenshots-too-large-error-title = Vaša snímka obrazovky bola orezaná, pretože bola príliš veľká
 screenshots-too-large-error-details = Skúste vybrať oblasť, ktorá je menšia ako 32 700 pixelov na jej dlhšej strane alebo jej celková plocha je menej 124 900 000 pixelov.
+screenshots-component-retry-button =
+    .title = Skúsiť snímku obrazovky znova
+    .aria-label = Skúsiť snímku obrazovky znova
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
+
