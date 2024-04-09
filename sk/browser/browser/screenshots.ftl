@@ -49,6 +49,8 @@ screenshots-too-large-error-details = Skúste vybrať oblasť, ktorá je menšia
 screenshots-component-retry-button =
     .title = Skúsiť snímku obrazovky znova
     .aria-label = Skúsiť snímku obrazovky znova
+screenshots-component-copy-button-label = Kopírovať
+screenshots-component-download-button-label = Stiahnuť
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
@@ -56,3 +58,9 @@ screenshots-component-retry-button =
 
 ##
 
+# This string represents the selection size area
+# "x" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-2 = { $width } x { $height }
