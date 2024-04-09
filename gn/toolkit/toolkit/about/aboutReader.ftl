@@ -12,6 +12,18 @@ about-reader-color-scheme-sepia = Sepia
     .title = Sa’yjungýva raity
 about-reader-color-scheme-auto = Jehegui
     .title = Sa’y raity ijeheguíva
+about-reader-color-theme-light = Tesakã
+    .title = Tesakã isa’ýva
+about-reader-color-theme-dark = Ypytũ
+    .title = Ypytũ isa’ýva
+about-reader-color-theme-sepia = Sepia
+    .title = Sepia isa’ýva
+about-reader-color-theme-auto = Jehegui
+    .title = Jehegui isa’ýva
+about-reader-color-theme-gray = Hũngy
+    .title = Hũngy isa’ýva
+about-reader-color-theme-contrast = Mbojovake
+    .title = Mbojovake isa’ýva
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -47,4 +59,20 @@ about-reader-font-type-sans-serif = Sans Serif
 
 about-reader-toolbar-close = Moñe’ẽha jehechágui ñesẽ
 about-reader-toolbar-type-controls = Taity ha Tugua Ñangarekoha
+about-reader-toolbar-color-controls = Sa’ykuéra
 about-reader-toolbar-savetopocket = Eñongatu { -pocket-brand-name }-pe
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Téma
+about-reader-fxtheme-tab = Ijypykue
+about-reader-customtheme-tab = Ñemomba’epyre
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Moñe’ẽrã
+    .title = Embosako’i sa’y
+about-reader-custom-colors-background = Tugua
+    .title = Embosako’i sa’y
