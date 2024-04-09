@@ -49,6 +49,8 @@ screenshots-too-large-error-details = Coba pilih bidang yang lebih kecil dari 32
 screenshots-component-retry-button =
     .title = Coba tangkap layar lagi
     .aria-label = Coba tangkap layar lagi
+screenshots-component-copy-button-label = Salin
+screenshots-component-download-button-label = Unduh
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
