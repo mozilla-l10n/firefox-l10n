@@ -46,3 +46,15 @@ screenshots-generic-error-title = ᱴᱤᱜ ᱴᱚᱲᱚᱜ! { -screenshots-bran
 screenshots-generic-error-details = ᱪᱮᱫ ᱦᱩᱭ ᱞᱮᱱᱟ ᱚᱱᱟ ᱵᱟᱞᱮ ᱵᱟᱲᱟᱭ ᱫᱟᱲᱮᱭᱟᱫ ᱟ ᱾ ᱫᱩᱦᱲᱟᱹ ᱠᱚᱨᱟᱣ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱟᱨ ᱟᱵᱝ ᱮᱴᱟᱜ ᱥᱟᱦᱴᱟ ᱥᱟᱦᱴᱟ ᱨᱮᱭᱟᱜ ᱥᱚᱴ ᱤᱫᱤ ᱢᱮ ?
 screenshots-too-large-error-title = ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱫᱚ ᱟᱹᱰᱤ ᱢᱟᱨᱟᱝ ᱠᱷᱟᱹᱛᱤᱨ ᱠᱷᱟᱴᱚ ᱟᱠᱟᱱᱟ
 screenshots-too-large-error-details = ᱱᱚᱠᱟ ᱡᱟᱭᱜᱟ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱧᱮᱞ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ 32,700 ᱯᱤᱠᱥᱟᱹᱞ ᱠᱷᱚᱱ ᱦᱩᱰᱤᱧ ᱛᱟᱦᱮᱸᱱᱟ ᱡᱤᱞᱤᱧ ᱯᱟᱦᱴᱟ ᱨᱮ ᱟᱨ 124,900,000 ᱯᱤᱠᱥᱟᱹᱞᱥ ᱢᱩᱴ ᱡᱟᱭᱜᱟ ᱛᱟᱦᱮᱱᱟ ᱾
+screenshots-component-retry-button =
+    .title = ᱥᱠᱨᱤᱱᱥᱚᱴ ᱫᱩᱦᱲᱟᱹ ᱤᱫᱤ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
+    .aria-label = ᱥᱠᱨᱤᱱᱥᱚᱴ ᱫᱩᱦᱲᱟᱹ ᱤᱫᱤ ᱵᱤᱲᱟᱹᱣ ᱢᱮ
+screenshots-component-copy-button-label = ᱱᱚᱠᱚᱞ
+screenshots-component-download-button-label = ᱰᱟᱣᱱᱞᱚᱰ
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
+
