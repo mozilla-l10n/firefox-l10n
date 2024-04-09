@@ -2,13 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Гузоришдиҳанда дар бораи вайронӣ
-crashreporter-crash-message = { -brand-short-name } бо мушкилие дучор шуд ва аз ин боис вайрон шуд.
 crashreporter-plea = Барои муайян кардани мушкилӣ ва ислоҳ кардани он, шумо метавонед дар бораи вайронии ҷорӣ гузоришеро ирсол намоед.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Тафсилот: { $details }
 crashreporter-no-run-message = Ин барнома пас аз вайроншавии ягон барнома иҷро мешавад ва гузоришро оид ба мушкилӣ ба истеҳсолкунандаи он барнома ирсол мекунад.  Ин барнома бояд мустақилона иҷро карда нашавад.
 crashreporter-button-details = Тафсилот…
+crashreporter-loading-details = Бор шуда истодааст…
 crashreporter-view-report-title = Мундариҷаи гузориш
 crashreporter-comment-prompt = Шарҳеро илова кунед (шарҳҳо ба ҳама намоён мешаванд)
 crashreporter-report-info = Ин гузориш, инчунин, маълумоти техникиро дар бораи вазъияти барнома ҳангоми вайроншавӣ дар бар мегирад.
