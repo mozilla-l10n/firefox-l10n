@@ -11,13 +11,32 @@ autofill-options-link-osx = Innstillingar for autoutfylling av skjema
 
 ## The credit card capture doorhanger
 
+credit-card-capture-save-button =
+    .label = Lagre
+    .accessKey = L
+credit-card-capture-cancel-button =
+    .label = Ikkje no
+    .accessKey = k
+credit-card-capture-never-save-button =
+    .label = Aldri lagre kort
+    .accessKey = A
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Oppdatere kortet?
+credit-card-update-doorhanger-description = Kort som skal oppdaterast:
+credit-card-capture-save-new-button =
+    .label = Lagre som nytt kort
+    .accessKey = L
+credit-card-capture-update-button =
+    .label = Oppdater eksisterende kort
+    .accessKey = O
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Tøm autoutfylt skjema
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Handsam adresser
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = Handsam betalingsmåtar
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
