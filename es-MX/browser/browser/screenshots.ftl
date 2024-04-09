@@ -46,6 +46,9 @@ screenshots-generic-error-title = ¡Oye! { -screenshots-brand-name } se ha vuelt
 screenshots-generic-error-details = No estamos seguros qué pasó. ¿Te importaría intentarlo de nuevo o tomar una captura de una página diferente?
 screenshots-too-large-error-title = Tu captura de pantalla fue recortada porque era demasiado grande
 screenshots-too-large-error-details = Intenta seleccionar una región que sea menor a 32,700 píxeles en lado más largo o en un área total 124,900,000 píxeles.
+screenshots-component-retry-button =
+    .title = Reintentar captura de pantalla
+    .aria-label = Reintentar captura de pantalla
 screenshots-component-copy-button-label = Copiar
 screenshots-component-download-button-label = Descargar
 
