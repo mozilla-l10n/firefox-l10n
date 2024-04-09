@@ -61,6 +61,15 @@ login-list-filtered-count =
         [few] { $count } à { $total } clàraidhean a-steach
        *[other] { $count } à { $total } clàradh a-steach
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } fhacal-faire
+        [two] { $count } fhacal-faire
+        [few] { $count } faclan-faire
+       *[other] { $count } facal-faire
+    }
 login-list-sort-label-text = Seòrsaich a-rèir:
 login-list-name-option = Ainm (A-Z)
 login-list-name-reverse-option = Ainm (Z-A)
