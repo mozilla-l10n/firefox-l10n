@@ -7,7 +7,7 @@
 account-finish-account-setup = Ավարտել հաշվի տեղակայումը
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
-account-disconnected2 = Հաշիվը կապակցված չէ
+account-disconnected2 = Հաշիվն անջատված է
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Ուղարկել բոլոր սարքերին
 # Menu item that links to the Firefox Accounts settings for connected devices.
@@ -28,11 +28,11 @@ account-manage-devices-titlecase = Կառավարել սարքերը…
 ## and the account has only 1 device connected.
 
 # Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = Կապակցված սարքեր չկան
+account-send-tab-to-device-singledevice-status = Կապված սարքեր չկան
 # Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = ԻՄացեք Ուղարկել ներդիրների մասին...
+account-send-tab-to-device-singledevice-learnmore = Իմացեք Ուղարկել ներդիրների մասին...
 # Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = Կապակցել այլ սարք...
+account-send-tab-to-device-connectdevice = Կապվել այլ սարքին...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.

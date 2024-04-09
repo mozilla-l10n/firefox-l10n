@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashed-title = Ներդիրի վթարի զեկուցում
+crashed-title = Ներդիրի վթարի զեկուցիչ
 crashed-close-tab-button = Փակել ներդիրը
 crashed-restore-tab-button = Վերականգնել ներդիրը
 crashed-restore-all-button = Վերականգնել վթարված բոլոր ներդիրները
@@ -13,7 +13,10 @@ crashed-multiple-offer-help-message = Ընտրեք { crashed-restore-tab-button 
 crashed-request-help = Կօգնե՞ք մեզ։
 crashed-request-help-message = Վթարի զեկույցներն օգնում են մեզ վերլուծել խնդիրները և դարձնել { -brand-short-name }-ն ավելի լավը։
 crashed-request-report-title = Զեկուցել այս ներդիրը
+crashed-send-report-2 = Ուղարկել վթարի ինքնաշխատ զեկույց՝ խնդիրները ուղղելու համար
 crashed-comment =
     .placeholder = Լրացուցիչ մեկնաբանություններ (մեկնաբանությունները հանրային են)
+crashed-include-URL-2 = Ներառեք կայքերի URL-ները, որոնք բացելիս { -brand-short-name }-ը վթարվել է
 crashed-report-sent = Վթարի զեկույցը արդեն ուղարկվել է: Շնորհակալություն, որ օգնում եք { -brand-short-name }-ը դարձնել էլ ավելի լավը:
 crashed-request-auto-submit-title = Զեկուցել խորապատկերի ներդիրները
+crashed-auto-submit-checkbox-2 = Թարմացնել կարգավորումները՝ ինքնաբար ուղարկելու զեկույցներ, երբ { -brand-short-name }-ը վթարվում է
