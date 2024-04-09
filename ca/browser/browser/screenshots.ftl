@@ -46,6 +46,9 @@ screenshots-generic-error-title = El { -screenshots-brand-name } ha tingut un pr
 screenshots-generic-error-details = S'ha produït un error inesperat. Torneu-ho a provar o captureu una altra pàgina.
 screenshots-too-large-error-title = La captura de pantalla s'ha retallat perquè era massa gran
 screenshots-too-large-error-details = Proveu de seleccionar una regió en què el costat més llarg sigui més petit de 32.700 píxels o que tingui una àrea total de 124.900.000 píxels.
+screenshots-component-retry-button =
+    .title = Torna a fer la captura de pantalla
+    .aria-label = Torna a fer la captura de pantalla
 screenshots-component-copy-button-label = Copia
 screenshots-component-download-button-label = Baixa
 
