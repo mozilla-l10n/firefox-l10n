@@ -46,3 +46,19 @@ screenshots-generic-error-title = Отакої! З { -screenshots-brand-name } �
 screenshots-generic-error-details = Ми не впевнені, в чому проблема. Спробувати ще раз, або ж зробити знімок іншої сторінки?
 screenshots-too-large-error-title = Ваш знімок екрана обрізано через завеликий розмір
 screenshots-too-large-error-details = Спробуйте вибрати ділянку, меншу ніж 32.700 пікселів за найдовшою стороною, або загальною площею 124.900.000 пікселів.
+screenshots-component-retry-button =
+    .title = Перезняти знімок
+    .aria-label = Перезняти знімок
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
+
+# This string represents the selection size area
+# "x" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-2 = { $width } x { $height }
