@@ -38,3 +38,12 @@ screenshots-unshootable-page-error-details = මෙය සම්මත පිට
 screenshots-empty-selection-error-title = ඔබගේ තේරීම ඉතා කුඩාය
 screenshots-private-window-error-title = { -screenshots-brand-name } පෞද්. පිරික්සුම් ප්‍රකාරයේදී අබල කර ඇත
 screenshots-private-window-error-details = අපහසුතාවයට කණගාටුයි. ඉදිරි නිකුතු සඳහා මෙම විශේෂාංගය සකසමින් සිටින්නෙමු.
+screenshots-component-copy-button-label = පිටපතක්
+screenshots-component-download-button-label = බාගන්න
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
+
