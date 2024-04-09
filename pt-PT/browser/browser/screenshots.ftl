@@ -46,6 +46,11 @@ screenshots-generic-error-title = Uau! Algo correu mal com o { -screenshots-bran
 screenshots-generic-error-details = Não temos a certeza do que acabou de acontecer. Importa-se de tentar novamente ou tirar uma captura de uma página diferente?
 screenshots-too-large-error-title = A sua captura de ecrã foi cortada porque era demasiado grande
 screenshots-too-large-error-details = Experimente selecionar uma região que tenha menos de 32700 pixels no lado maior ou 124900000 pixels de área total.
+screenshots-component-retry-button =
+    .title = Tentar novamente a captura de ecrã
+    .aria-label = Tentar novamente a captura de ecrã
+screenshots-component-copy-button-label = Copiar
+screenshots-component-download-button-label = Transferir
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
