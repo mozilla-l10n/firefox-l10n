@@ -44,6 +44,9 @@ screenshots-private-window-error-title = { -screenshots-brand-name } je deaktivi
 screenshots-private-window-error-details = Žao nam je na neugodnosti. Radimo na ovoj mogućnosti za buduća izdanja.
 screenshots-generic-error-title = Uf! { -screenshots-brand-name } se zbrkao.
 screenshots-generic-error-details = Ne znamo točno što se upravo dogodilo. Možeš li ponovo pokušati ili snimiti jednu drugu stranicu?
+screenshots-component-retry-button =
+    .title = Ponovi snimku zaslona
+    .aria-label = Ponovi snimku zaslona
 screenshots-component-copy-button-label = Kopiraj
 screenshots-component-download-button-label = Preuzmi
 
