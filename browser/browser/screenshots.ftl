@@ -46,3 +46,21 @@ screenshots-generic-error-title = Whoa! { -screenshots-brand-name } đã bị ho
 screenshots-generic-error-details = Chúng tôi không chắc những gì vừa xảy ra. Thử lại hoặc chụp một trang khác?
 screenshots-too-large-error-title = Ảnh chụp màn hình của bạn đã bị cắt vì nó quá lớn
 screenshots-too-large-error-details = Thử chọn vùng có cạnh dài nhất nhỏ hơn 32.700 pixel hoặc tổng diện tích 124.900.000 pixel.
+screenshots-component-retry-button =
+    .title = Thử chụp ảnh màn hình lại
+    .aria-label = Thử chụp ảnh màn hình lại
+screenshots-component-copy-button-label = Sao chép
+screenshots-component-download-button-label = Tải xuống
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+
+##
+
+# This string represents the selection size area
+# "x" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-2 = { $width } x { $height }
