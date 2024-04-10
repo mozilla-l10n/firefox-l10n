@@ -49,12 +49,24 @@ screenshots-too-large-error-details = Prova seliger un region que es minor que 3
 screenshots-component-retry-button =
     .title = Retentar instantaneo de schermo
     .aria-label = Retentar instantaneo de schermo
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Copiar ({ $shortcut })
+    .aria-label = Copiar
 screenshots-component-copy-button-label = Copiar
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Discargar ({ $shortcut })
+    .aria-label = Discargar
 screenshots-component-download-button-label = Discargar
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
