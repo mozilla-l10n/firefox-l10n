@@ -43,6 +43,9 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Usar evidentiatores plus simple con preferentia de motion reducite
 options-inspector-simplified-highlighters-tooltip =
     .title = Activa le evidentiatores simplificate quando le preferentia de motion reducite es activate. Tracia lineas in vice que rectangulos plenate  circum elementos evidentiate pro evitar effectos de fulguration.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Concentra te sur le entrata successive per <kbd>Enter</kbd>
 
 ## "Default Color Unit" options for the Inspector
 
