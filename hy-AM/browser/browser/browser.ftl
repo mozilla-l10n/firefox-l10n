@@ -203,10 +203,10 @@ search-one-offs-context-open-new-tab =
     .label = Որոնել Նոր Ներդիրում
     .accesskey = Ն
 search-one-offs-context-set-as-default =
-    .label = Հաստատել որպես հիմնական Որոնիչ
+    .label = Հաստատել որպես սկզբնադիր որոնիչ
     .accesskey = հ
 search-one-offs-context-set-as-default-private =
-    .label = Սահմանել որպես լռելյայն որոնիչ գաղտնի պատուհանների համար
+    .label = Սահմանել որպես սկզբնադիր որոնիչ գաղտնի պատուհանների համար
     .accesskey = Գ
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
