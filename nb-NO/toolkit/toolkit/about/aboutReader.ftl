@@ -12,6 +12,14 @@ about-reader-color-scheme-sepia = Sepia
     .title = Fargeskjema, sepia
 about-reader-color-scheme-auto = Auto
     .title = Automatisk fargeskjema
+about-reader-color-theme-light = Lyst
+    .title = Fargetema lyst
+about-reader-color-theme-dark = Mørkt
+    .title = Fargetema mørkt
+about-reader-color-theme-sepia = Sepia
+    .title = Fargetema sepia
+about-reader-color-theme-auto = Automatisk
+    .title = Fargetema automatisk
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
