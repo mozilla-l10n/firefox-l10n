@@ -107,7 +107,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Segnala problemi con il sito
 protections-panel-content-blocking-breakage-report-view-description = Il blocco di determinati elementi traccianti può creare problemi in alcuni siti web. Segnalando questi problemi contribuisci a migliorare { -brand-short-name } per tutti gli utenti. Questa segnalazione verrà inviata a Mozilla e include l’indirizzo del sito e informazioni sulle impostazioni del browser. <label data-l10n-name="learn-more">Ulteriori informazioni</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Il blocco di determinati elementi traccianti può creare problemi in alcuni siti web. Segnalando questi problemi contribuisci a migliorare { -brand-short-name } per tutti gli utenti. Questa segnalazione verrà inviata a { -vendor-short-name } e include l’indirizzo del sito e informazioni sulle impostazioni del browser.
 protections-panel-content-blocking-breakage-report-view-collection-url = Indirizzo
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Indirizzo
@@ -157,4 +156,3 @@ protections-panel-report-broken-site =
 cfr-protections-panel-header = Naviga senza lasciarti seguire
 cfr-protections-panel-body = Mantieni i tuoi dati al riparo da occhi indiscreti. { -brand-short-name } ti protegge dagli elementi traccianti più comuni che cercano di seguire le tue attività online.
 cfr-protections-panel-link-text = Ulteriori informazioni
-

@@ -68,18 +68,7 @@ fxviewtabrow-unmute-tab = Attiva audio nella scheda
 fxviewtabrow-options-menu-button =
     .title = Opzioni per { $tabTitle }
 
-# Variables:
-#   $tabTitle (string) - Title of tab being muted
-fxviewtabrow-mute-tab-button =
-  .title = Disattiva audio per { $tabTitle }
-
-# Variables:
-#   $tabTitle (string) - Title of tab being unmuted
-fxviewtabrow-unmute-tab-button =
-  .title = Attiva audio per { $tabTitle }
-
 fxviewtabrow-mute-tab-button-no-context =
   .title = Disattiva audio nella scheda
 fxviewtabrow-unmute-tab-button-no-context =
   .title = Attiva audio nella scheda
-

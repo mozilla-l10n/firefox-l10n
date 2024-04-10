@@ -2,11 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Crash Reporter
 crashreporter-branded-title = { -brand-short-name } Crash Reporter
 
 crashreporter-apology = Siamo spiacenti
-crashreporter-crash-message = { -brand-short-name } ha riscontrato un problema imprevisto e si è chiuso.
 crashreporter-crashed-and-restore = { -brand-short-name } ha riscontrato un problema imprevisto e si è chiuso. Al riavvio l’applicazione cercherà di ripristinare le schede e finestre aperte.
 crashreporter-plea = Per aiutare a individuare e risolvere il problema, è possibile inviare una segnalazione per questo blocco.
 
@@ -62,4 +60,3 @@ crashreporter-error-no-home-dir = Directory home non presente
 # $to (String) - the destination path
 crashreporter-error-moving-path = Errore durante lo spostamento da { $from } a { $to }
 crashreporter-error-version-eol = La versione non è più supportata: le segnalazioni di arresto anomalo non vengono più accettate.
-
