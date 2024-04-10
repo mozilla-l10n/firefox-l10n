@@ -20,6 +20,12 @@ about-reader-color-theme-sepia = Sepia
     .title = Fargetema sepia
 about-reader-color-theme-auto = Automatisk
     .title = Fargetema automatisk
+about-reader-color-theme-gray = Grå
+    .title = Fargetema grå
+about-reader-color-theme-contrast = Kontrast
+    .title = Fargetema kontrast
+about-reader-color-theme-custom = Egendefinerte farger
+    .title = Fargetema egendefinerte farger
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -75,5 +81,7 @@ about-reader-custom-colors-background = Bakgrunn
 about-reader-custom-colors-unvisited-links = Ubesøkte lenker
     .title = Endre farge
 about-reader-custom-colors-visited-links = Besøkte lenker
+    .title = Endre farge
+about-reader-custom-colors-selection-highlight = Markering for høytlesning
     .title = Endre farge
 about-reader-custom-colors-reset-button = Tilbakestill standardverdier
