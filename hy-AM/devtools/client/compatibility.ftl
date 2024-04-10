@@ -23,7 +23,7 @@ compatibility-settings-button-title =
 ## Messages used as headers in settings pane
 
 compatibility-settings-header = Կարգավորումներ
-compatibility-target-browsers-header = Թիրախային զննարկիչներ
+compatibility-target-browsers-header = Թիրախային դիտարկիչներ
 
 ##
 
@@ -35,8 +35,6 @@ compatibility-issue-occurrences =
         [one] { $number } դեպք
        *[other] { $number } դեպքեր
     }
-
 compatibility-no-issues-found = Համատեղելիության խնդիրներ չեն գտնվել:
 compatibility-close-settings-button =
     .title = Փակել կարգավորումները
-
