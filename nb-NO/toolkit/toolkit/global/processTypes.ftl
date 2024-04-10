@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Privilegert Mozilla-innhold
 process-type-extension = Utvidelse
 # process used to open file:// URLs
 process-type-file = Lokal fil
+# process used to instantiate new child processes
+process-type-forkserver = Fork-server
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Isolert nettinnhold
