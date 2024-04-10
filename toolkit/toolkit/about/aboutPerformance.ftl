@@ -25,7 +25,7 @@ type-tab = Ներդիր
 type-subframe = Ենթաշրջանակ
 type-tracker = Հետագծում
 type-addon = Հավելում
-type-browser = Զննարկիչ
+type-browser = Դիտարկիչ
 type-worker = Աշխատող
 type-other = Այլ
 
@@ -54,7 +54,6 @@ close-tab =
     .title = Փակել ներդիրը
 show-addon =
     .title = Ցուցադրել հավելումների կառավարչում
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
