@@ -6,10 +6,6 @@ contentanalysis-alert-title = Innholdsanalyse
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Innholdsanalyseverktøyet bruker lang tid på å svare på ressursen «{ $content }»
-contentanalysis-slow-agent-dialog-title = Innholdsanalyse pågår
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Innholdsanalyse analyserer ressursen «{ $content }»
 contentanalysis-slow-agent-dialog-header = Skanning pågår
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -43,6 +39,14 @@ contentanalysis-block-message = Organisasjonen din bruker programvare for å for
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Det oppsto en feil under kommunikasjonen med programvaren for å forhindre tap av data. Overføring avvist for ressurs: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Det oppsto en feil under kommunikasjonen med { $agent }. Overføring avvist for ressurs: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Kan ikke koble til { $agent }. Overføring avvist for ressurs: { $content }.
 contentanalysis-inprogress-quit-title = Avslutte { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Flere handlinger pågår. Hvis du avslutter { -brand-shorter-name }, vil disse handlingene ikke bli fullført.
 contentanalysis-inprogress-quit-yesbutton = Ja, avslutt
