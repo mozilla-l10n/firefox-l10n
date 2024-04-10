@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Попытайтесь выбрать об
 screenshots-component-retry-button =
     .title = Повторить снимок экрана
     .aria-label = Повторить снимок экрана
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Отмена (esc)
+           *[other] Отмена (Esc)
+        }
+    .aria-label = Отмена
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Копировать ({ $shortcut })
+    .aria-label = Копировать
 screenshots-component-copy-button-label = Копировать
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Загрузить ({ $shortcut })
+    .aria-label = Загрузить
 screenshots-component-download-button-label = Загрузить
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
