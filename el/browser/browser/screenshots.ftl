@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Δοκιμάστε να επιλέξετε
 screenshots-component-retry-button =
     .title = Επανάληψη στιγμιότυπου
     .aria-label = Επανάληψη στιγμιότυπου
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Ακύρωση (esc)
+           *[other] Ακύρωση (Esc)
+        }
+    .aria-label = Ακύρωση
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Αντιγραφή ({ $shortcut })
+    .aria-label = Αντιγραφή
 screenshots-component-copy-button-label = Αντιγραφή
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Λήψη ({ $shortcut })
+    .aria-label = Λήψη
 screenshots-component-download-button-label = Λήψη
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
