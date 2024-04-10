@@ -49,12 +49,31 @@ screenshots-too-large-error-details = 請選擇長邊小於 32,700 畫素，或�
 screenshots-component-retry-button =
     .title = 重拍擷圖
     .aria-label = 重拍擷圖
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] 取消（esc）
+           *[other] 取消（Esc）
+        }
+    .aria-label = 取消
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = 複製（{ $shortcut }）
+    .aria-label = 複製
 screenshots-component-copy-button-label = 複製
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = 下載（{ $shortcut }）
+    .aria-label = 下載
 screenshots-component-download-button-label = 下載
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
