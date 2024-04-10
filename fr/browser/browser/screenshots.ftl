@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Essayez de sélectionner une zone dont le 
 screenshots-component-retry-button =
     .title = Réessayer la capture d’écran
     .aria-label = Réessayer la capture d’écran
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Annuler (Échap)
+           *[other] Annuler (Échap)
+        }
+    .aria-label = Annuler
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Copier ({ $shortcut })
+    .aria-label = Copier
 screenshots-component-copy-button-label = Copier
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Télécharger ({ $shortcut })
+    .aria-label = Télécharger
 screenshots-component-download-button-label = Télécharger
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
