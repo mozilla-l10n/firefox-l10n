@@ -7,7 +7,6 @@ contentanalysis-alert-title = Analisi contenuti
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Lo strumento Analisi contenuti sta utilizzando più tempo del previsto per rispondere alla risorsa “{ $content }”
-contentanalysis-slow-agent-dialog-title = Analisi contenuti in corso
 contentanalysis-slow-agent-dialog-header = Scansione in corso
 
 #   $agent - The name of the DLP agent doing the analysis
@@ -21,9 +20,6 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } sta verificando il
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } sta verificando il testo trascinato in base ai criteri per i dati della tua organizzazione. Potrebbe richiedere alcuni istanti.
 
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Analisi contenuti sta esaminando la risorsa “{ $content }”
 contentanalysis-operationtype-clipboard = appunti
 contentanalysis-operationtype-dropped-text = testo trascinato
 contentanalysis-customdisplaystring-description = caricamento di “{ $filename }”
