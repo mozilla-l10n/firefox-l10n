@@ -548,9 +548,9 @@ urlbar-page-action-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = Որոնեք { $engine }֊ի Մասնավոր պատուհանում
+urlbar-result-action-search-in-private-w-engine = Որոնել { $engine }֊-ով գաղտնի պատուհանում
 # Used when the private browsing engine is the same as the default engine.
-urlbar-result-action-search-in-private = Դուք մասնավոր դիտարկման մեջ եք։
+urlbar-result-action-search-in-private = Որոնել գաղտնի պատուհանում
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
@@ -777,8 +777,8 @@ toolbar-button-synced-tabs =
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
-    .label = Սկսել Մասնավոր դիտարկում
-    .tooltiptext = Բացել Մասնավոր դիտարկման նոր պատուհան ({ $shortcut })
+    .label = Նոր գաղտնի պատուհան
+    .tooltiptext = Բացել նոր գաղտնի դիտարկման պատուհան ({ $shortcut })
 
 ## EME notification panel
 
