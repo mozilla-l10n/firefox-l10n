@@ -49,6 +49,13 @@ screenshots-too-large-error-details = Prova seliger un region que es minor que 3
 screenshots-component-retry-button =
     .title = Retentar instantaneo de schermo
     .aria-label = Retentar instantaneo de schermo
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Cancellar (esc)
+           *[other] Cancellar (Esc)
+        }
+    .aria-label = Cancellar
 # Variables
 #   $shortcut (String) - A keyboard shortcut for copying the screenshot.
 screenshots-component-copy-button =

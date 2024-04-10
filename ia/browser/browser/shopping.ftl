@@ -193,12 +193,17 @@ shopping-callout-closed-not-opted-in-revised-title = Un clic pro recensiones fid
 shopping-callout-closed-not-opted-in-revised-subtitle = Sol clicca le icone tag de precio in le barra de adresse pro retornar a Review Checker.
 shopping-callout-closed-not-opted-in-revised-button = Comprendite
 shopping-callout-not-opted-in-reminder-title = Compra con confidentia
+shopping-callout-not-opted-in-reminder-subtitle = Es tu non secur re un recension de producto si illo es real o false? Le verificator de recension per { -brand-product-name } pote adjutar.
 shopping-callout-not-opted-in-reminder-open-button = Aperir Verificator de recension
 shopping-callout-not-opted-in-reminder-close-button = Dimitter
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Non plus monstrar.
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Illustration abstracte de tres recensiones de producto. Un ha un symbolo de attention indicante que illo pote non esser digne de fide.
 shopping-callout-disabled-auto-open-title = Verificator de recension es ora predefinite claudite
+shopping-callout-disabled-auto-open-subtitle = Clicca le icone del etiquetta de precio in le barra de adresse quandocunque tu vole vider si tu pote fider te del recensiones de producto.
 shopping-callout-disabled-auto-open-button = Comprendite
 shopping-callout-opted-out-title = Verificator de recension es disactivate
+shopping-callout-opted-out-subtitle = Pro reactivar lo, clicca le icone del etiquetta de precio in le barra de adresse e seque le suggestiones.
 shopping-callout-opted-out-button = Comprendite
 
 ## Onboarding message strings.
