@@ -194,7 +194,7 @@ mr2022-onboarding-existing-pin-subtitle = Գործարկեք ավելի առող
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
 mr2022-onboarding-existing-set-default-only-subtitle = Օգտագործեք զննիչ, որը պաշտպանում է ձեր գաղտնիությունը համացանցում սեղմելով: Մեր վերջին թարմացումը լի է այն բաներով, որոնք դուք պաշտում եք:
-mr2022-onboarding-existing-pin-checkbox-label = Նաև ավելացրեք { -brand-short-name } մասնավոր զննում
+mr2022-onboarding-existing-pin-checkbox-label = Նաև ավելացրեք { -brand-short-name }-ի գաղտնի դիտարկում
 
 ## MR2022 New User Set Default screen strings
 
@@ -237,12 +237,12 @@ mr2022-onboarding-mobile-download-title = Անցեք լափթոփից հեռախ
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
-mr2022-upgrade-onboarding-pin-private-window-header = Ստացեք մասնավոր զննման ազատություն մեկ քլիքով
+mr2022-upgrade-onboarding-pin-private-window-header = Ստացեք գաղտնի դիտարկման ազատություն մեկ կտտոցով
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Ոչ մի պահված թխուկ կամ պատմություն: Աշխատեք այնպես, կարծես ոչ ոք չի հետևում Ձեզ:
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
-        [macos] Պահեք { -brand-short-name }-ի մասնավոր զննումը ամրակցված
-       *[other] Ամրացրեք { -brand-short-name }-ի մասնավոր զննումը Խնդրագոտուն
+        [macos] Պահեք { -brand-short-name }-ի գաղտնի դիտարկումն ամրակցված
+       *[other] Ամրացրեք { -brand-short-name }-ի գաղտնի դիտարկումը Խնդրագոտուն
     }
 
 ## MR2022 Privacy Segmentation screen strings
