@@ -36,7 +36,7 @@ about-private-browsing-focus-promo-header-c = Հաջորդ մակարդակի գ
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = Անձնական պատուհաններում { $engineName }-ը ձեր որոնման լռելյայն միջոցն է
+about-private-browsing-search-banner-title = Անձնական պատուհաններում { $engineName }-ը ձեր որոնման սկզբնադիր միջոցն է
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Տարբեր որոնման միջոցներ ընտրելու համար գնացեք դեպի <a data-l10n-name="link-options">Ընտրանքներ</a>

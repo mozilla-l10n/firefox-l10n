@@ -171,8 +171,8 @@ firefoxview-history-empty-header = Վերադարձեք այնտեղ, որտեղ
 ##
 
 # Button text for choosing a browser within the ’Import history from another browser’ banner
-firefoxview-choose-browser-button = Ընտրեք զննարկիչը
-    .title = Ընտրեք զննարկիչը
+firefoxview-choose-browser-button = Ընտրեք դիտարկիչը
+    .title = Ընտրեք դիտարկիչը
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
