@@ -441,4 +441,5 @@ content-analysis-title = Analyse de contento (DLP)
 content-analysis-active = Activar
 content-analysis-connected-to-agent = Connexe al agente
 content-analysis-agent-path = Route de agente
+content-analysis-agent-failed-signature-verification = Agente falleva verification de firma
 content-analysis-request-count = Numero de requestas
