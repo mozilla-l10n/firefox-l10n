@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = 要總是使用 { $url }
 protocolhandler-mailto-handler-yes-confirm = 現在起將預設使用 { $url } 網站來開啟要傳送電子郵件的鏈結。
 protocolhandler-mailto-handler-set-message = 每次點擊郵件鏈結時，都<strong>使用 { -brand-short-name } 開啟 { $url }</strong> 嗎？
 protocolhandler-mailto-handler-confirm-message = 您電腦的預設電子郵件軟體已更改為使用<strong>{ -brand-short-name } 開啟 { $url }</strong>。
+protocolhandler-mailto-handler-confirm = 當您每次點擊電子郵件鏈結時，<strong>{ -brand-short-name } 將開啟 { $url }</strong>。
 
 ##
 
