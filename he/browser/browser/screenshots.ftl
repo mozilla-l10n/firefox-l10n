@@ -49,12 +49,31 @@ screenshots-too-large-error-details = כדאי לנסות לבחור באזור 
 screenshots-component-retry-button =
     .title = ניסיון חוזר לצילום מסך
     .aria-label = ניסיון חוזר לצילום מסך
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] ביטול (esc)
+           *[other] ביטול (Esc)
+        }
+    .aria-label = ביטול
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = העתקה ({ $shortcut })
+    .aria-label = העתקה
 screenshots-component-copy-button-label = העתקה
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = הורדה ({ $shortcut })
+    .aria-label = הורדה
 screenshots-component-download-button-label = הורדה
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
