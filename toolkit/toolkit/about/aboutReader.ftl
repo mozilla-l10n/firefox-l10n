@@ -82,4 +82,6 @@ about-reader-custom-colors-unvisited-links = Ligamines non visitate
     .title = Rediger color
 about-reader-custom-colors-visited-links = Ligamines visitate
     .title = Rediger color
+about-reader-custom-colors-selection-highlight = Evidentiator pro leger in alte voce
+    .title = Rediger color
 about-reader-custom-colors-reset-button = Restablir parametros predefinite
