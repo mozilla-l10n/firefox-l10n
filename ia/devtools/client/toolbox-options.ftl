@@ -46,6 +46,8 @@ options-inspector-simplified-highlighters-tooltip =
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = Concentra te sur le entrata successive per <kbd>Enter</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Quando isto es activate, pulsar le clave Enter durante le redaction de un selector, un nomine de proprietate o un valor, movera le attention al entrata successive.
 
 ## "Default Color Unit" options for the Inspector
 
@@ -63,6 +65,8 @@ options-default-color-unit-name = Nomines de colores
 options-webconsole-label = Consola web
 # The label for the checkbox that toggle whether the Split console is enabled
 options-webconsole-split-console-label = Activar le consola dividite
+options-webconsole-split-console-tooltip =
+    .title = Aperir le Consola scisse con le clave Esc
 
 ## Style Editor section
 
