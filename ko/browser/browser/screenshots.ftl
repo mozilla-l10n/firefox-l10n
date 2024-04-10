@@ -49,12 +49,31 @@ screenshots-too-large-error-details = 가장 긴 면이 32,700 픽셀보다 작�
 screenshots-component-retry-button =
     .title = 스크린샷 다시 시도
     .aria-label = 스크린샷 다시 시도
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] 취소 (Esc)
+           *[other] 취소 (Esc)
+        }
+    .aria-label = 취소
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = 복사 ({ $shortcut })
+    .aria-label = 복사
 screenshots-component-copy-button-label = 복사
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = 다운로드 ({ $shortcut })
+    .aria-label = 다운로드
 screenshots-component-download-button-label = 다운로드
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
