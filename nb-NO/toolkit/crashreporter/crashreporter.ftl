@@ -2,8 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Krasjrapportering
-crashreporter-crash-message = Et uventet problem har oppstått i { -brand-short-name } og programmet har derfor krasjet.
+crashreporter-branded-title = { -brand-short-name } Feilrapportør
+crashreporter-apology = Vi beklager
+crashreporter-crashed-and-restore = { -brand-short-name } hadde et problem og krasjet. { -brand-short-name } prøver å gjenopprette fanene og vinduene dine når den starter på nytt.
 crashreporter-plea = For å hjelpe oss å løse og reparere problemet kan du sende oss en krasjrapport.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljer: { $details }
