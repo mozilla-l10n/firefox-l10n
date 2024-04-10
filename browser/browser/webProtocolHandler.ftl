@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = ¿Embojuruja ñanduti ve
 protocolhandler-mailto-handler-yes-confirm = { $url } ha’e tenda ypygua embojuruja hag̃ua juajuha omondóva ñanduti veve.
 protocolhandler-mailto-handler-set-message = ¿Eiporu <strong>{ $url } { -brand-short-name }</strong>-pe ojeikutu vove juajuha ombojurujáva ñanduti veve?
 protocolhandler-mailto-handler-confirm-message = <strong>{ $url } { -brand-short-name }</strong> pegua ha’e oñangarekóva ñanduti veve ypyguáva ne mohendahápe.
+protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } ombojurujáta { $url }</strong> eikutúvo juajuha omondóva ñanduti veve.
 
 ##
 
