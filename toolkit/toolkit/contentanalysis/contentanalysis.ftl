@@ -10,7 +10,7 @@ contentanalysis-slow-agent-dialog-header = Scansion in curso
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $filename - Name of the file being analyzed, such as "aFile.txt"
-contentanalysis-slow-agent-dialog-body-file = { $agente } recense “{ $filename }” contra le politicas del datos de tu organisation. Isto pote prender un momento.
+contentanalysis-slow-agent-dialog-body-file = { $agent } recense “{ $filename }” contra le politicas del datos de tu organisation. Isto pote prender un momento.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } recense lo que tu collava contra le politicas del datos de tu organisation. Isto pote prender un momento.
