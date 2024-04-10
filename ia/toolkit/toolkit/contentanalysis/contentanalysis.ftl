@@ -9,7 +9,15 @@ contentanalysis-slow-agent-notification = Le instrumento de analyse de contento 
 contentanalysis-slow-agent-dialog-header = Scansion in curso
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agente } recense “{ $filename }” contra le politicas del datos de tu organisation. Isto pote prender un momento.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } recense lo que tu collava contra le politicas del datos de tu organisation. Isto pote prender un momento.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } recense le texto que tu deponeva contra le politicas del datos de tu organisation. Isto pote prender un momento.
 contentanalysis-operationtype-clipboard = area de transferentia
 contentanalysis-operationtype-dropped-text = texto deponite
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -39,5 +47,10 @@ contentanalysis-unspecified-error-message = Un error occurreva communicante con 
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-no-agent-connected-message = Connexion a { $agent } impossibile. Transferentia denegate pro ressource: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Verification de firma pro { $agent } fallite. Transferentia denegate pro le ressource: { $content }.
 contentanalysis-inprogress-quit-title = Quitar { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Plure actiones es in curso. Si tu quita { -brand-shorter-name }, iste actiones non sera completate.
 contentanalysis-inprogress-quit-yesbutton = Si, quitar
