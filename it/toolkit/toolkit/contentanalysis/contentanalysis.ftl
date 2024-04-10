@@ -20,8 +20,11 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } sta verificando il
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } sta verificando il testo trascinato in base ai criteri per i dati della tua organizzazione. Potrebbe richiedere alcuni istanti.
 
+contentanalysis-slow-agent-dialog-body-print = { $agent } sta verificando il contenuto stampato in base ai criteri per i dati della tua organizzazione. Potrebbe richiedere alcuni istanti.
+
 contentanalysis-operationtype-clipboard = appunti
 contentanalysis-operationtype-dropped-text = testo trascinato
+contentanalysis-operationtype-print = stampa
 contentanalysis-customdisplaystring-description = caricamento di “{ $filename }”
 
 contentanalysis-notification-title = Analisi contenuti
