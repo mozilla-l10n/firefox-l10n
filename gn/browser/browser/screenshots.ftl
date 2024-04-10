@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Eñeha’ã eiporavo peteĩ tendaguasu ogu
 screenshots-component-retry-button =
     .title = Eha’ãjey mba’erechaha jejapyhy
     .aria-label = Eha’ãjey mba’erechaha jejapyhy
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Heja (esc)
+           *[other] Heja (Esc)
+        }
+    .aria-label = Heja
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Monguatia ({ $shortcut })
+    .aria-label = Monguatia
 screenshots-component-copy-button-label = Monguatia
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Mboguejy ({ $shortcut })
+    .aria-label = Mboguejy
 screenshots-component-download-button-label = Emboguejy
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
