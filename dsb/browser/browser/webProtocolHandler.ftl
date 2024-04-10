@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = E-mailowe wótkaze pśec
 protocolhandler-mailto-handler-yes-confirm = { $url } jo něnto wašo standardne sedło za wócynjanje wótkazow, kótarež mejlki sćelu.
 protocolhandler-mailto-handler-set-message = <strong>{ $url } w { -brand-short-name }</strong> kuždy raz wužywaś, gaž na wótkaz klikaśo, kótaryž wašu mejlku wócynja?
 protocolhandler-mailto-handler-confirm-message = <strong>{ $url } w { -brand-short-name } </strong> jo něnto standardny e-mailowy wóźeński program wašogo licadła.
+protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } { $url }</strong> kuždy raz wócynja, gaž na wótkaz klikaśo, kótaryž mejlku sćelo.
 
 ##
 

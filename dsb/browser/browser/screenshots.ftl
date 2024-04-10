@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Wopytajśo, region wubraś, kótaryž jo m
 screenshots-component-retry-button =
     .title = Foto wobrazowki znowego wopytaś
     .aria-label = Foto wobrazowki znowego wopytaś
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Pśetergnuś (esc)
+           *[other] Pśetergnuś (Esc)
+        }
+    .aria-label = Pśetergnuś
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Kopěrowaś ({ $shortcut })
+    .aria-label = Kopěrowaś
 screenshots-component-copy-button-label = Kopěrowaś
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Ześěgnuś ({ $shortcut })
+    .aria-label = Ześěgnuś
 screenshots-component-download-button-label = Ześěgnuś
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
