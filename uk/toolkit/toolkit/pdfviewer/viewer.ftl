@@ -51,12 +51,6 @@ pdfjs-download-button-label = Завантажити
 pdfjs-bookmark-button =
     .title = Поточна сторінка (перегляд URL-адреси з поточної сторінки)
 pdfjs-bookmark-button-label = Поточна сторінка
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = Відкрити у програмі
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = Відкрити у програмі
 
 ##  Secondary toolbar and context menu
 
@@ -287,7 +281,7 @@ pdfjs-text-annotation-type =
 ## Password
 
 pdfjs-password-label = Введіть пароль для відкриття цього PDF-файлу.
-pdfjs-password-invalid = Невірний пароль. Спробуйте ще.
+pdfjs-password-invalid = Неправильний пароль. Спробуйте ще раз.
 pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = Скасувати
 pdfjs-web-fonts-disabled = Веб-шрифти вимкнено: неможливо використати вбудовані у PDF шрифти.
