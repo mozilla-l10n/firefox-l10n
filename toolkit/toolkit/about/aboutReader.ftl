@@ -12,6 +12,20 @@ about-reader-color-scheme-sepia = Sepia
     .title = Schema de colores sepia
 about-reader-color-scheme-auto = Auto
     .title = Schema de color Auto
+about-reader-color-theme-light = Clar
+    .title = Thema de color Clar
+about-reader-color-theme-dark = Obscur
+    .title = Thema de color Obscur
+about-reader-color-theme-sepia = Sepia
+    .title = Thema de color Sepia
+about-reader-color-theme-auto = Auto
+    .title = Thema de color Auto
+about-reader-color-theme-gray = Gris
+    .title = Thema de color Gris
+about-reader-color-theme-contrast = Contrastate
+    .title = Thema de color Contrastate
+about-reader-color-theme-custom = Colores personalisate
+    .title = Thema de color personalisate
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -47,6 +61,7 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Clauder le vista de lectura
 about-reader-toolbar-type-controls = Controlos de typo
+about-reader-toolbar-color-controls = Colores
 about-reader-toolbar-savetopocket = Salvar in { -pocket-brand-name }
 
 ## Reader View colors menu
