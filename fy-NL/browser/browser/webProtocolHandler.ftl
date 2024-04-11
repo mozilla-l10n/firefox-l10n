@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = E-mailkeppelingen altyd 
 protocolhandler-mailto-handler-yes-confirm = { $url } is no jo standertwebsite foar it iepenjen fan keppelingen dy’t e-mail ferstjoere.
 protocolhandler-mailto-handler-set-message = Hieltyd <strong>{ $url } in { -brand-short-name }</strong> brûke as jo op in keppeling klikke dy’t jo e-mail iepenet?
 protocolhandler-mailto-handler-confirm-message = <strong>{ $url } in { -brand-short-name }</strong> is no it standert e-mailprogramma op jo kompjûter.
+protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } iepenet { $url }</strong> elke kear as jo op in keppeling klikke dy’t e-mail ferstjoert.
 
 ##
 
