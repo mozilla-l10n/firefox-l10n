@@ -64,17 +64,28 @@ about-webauthn-current-set-pin-button = Définir un code PIN
 about-webauthn-current-change-pin-button = Modifier le code PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Lister les informations d’authentification
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Lister les enregistrements
+about-webauthn-add-bio-enrollment-button = Ajouter un enregistrement
 about-webauthn-cancel-button = Annuler
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Supprimer
+about-webauthn-start-enrollment-button = Commencer l’enregistrement
 about-webauthn-update-button = Mettre à jour
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
 about-webauthn-auth-option-uv = Vérification de l’utilisateur
+about-webauthn-auth-option-up = Présence de l’utilisateur
 about-webauthn-auth-option-clientpin = Code PIN du client
+about-webauthn-auth-option-rk = Clé résidente
 about-webauthn-auth-option-plat = Appareil de la plateforme
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Autorisations de la commande (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Aucune autorisation MakeCredential / GetAssertion avec le code PIN client
+about-webauthn-auth-option-largeblobs = Blobs volumineux
 about-webauthn-auth-option-ep = Attestation d’entreprise
 about-webauthn-auth-option-bioenroll = Enregistrement biométrique
 # FIDO_2_1_PRE should not be translated.
@@ -82,6 +93,8 @@ about-webauthn-auth-option-userverificationmgmtpreview = Prototype d’enregistr
 about-webauthn-auth-option-uvbioenroll = Autorisation d’enregistrement biométrique
 about-webauthn-auth-option-credmgmt = Gestion des informations d’authentification
 about-webauthn-auth-option-setminpinlength = Définir la longueur minimale du code PIN
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential sans vérification de l’utilisateur
 about-webauthn-auth-option-alwaysuv = Toujours exiger une vérification de l’utilisateur
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
@@ -94,11 +107,13 @@ about-webauthn-auth-option-null = Non pris en charge
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-certifications = Certifications
+about-webauthn-auth-info-uv-modality = Modalité de vérification de l’utilisateur
 about-webauthn-auth-info-max-cred-blob-length = Longueur maximale des blobs pour les informations d’authentification
 about-webauthn-auth-info-firmware-version = Version du micrologiciel
 about-webauthn-auth-info-min-pin-length = Taille minimale du code PIN
 about-webauthn-auth-info-force-pin-change = Forcer le changement du code PIN
 about-webauthn-auth-info-algorithms = Algorithmes
+about-webauthn-auth-info-transports = Protocoles de transport
 about-webauthn-auth-info-pin-protocols = Protocoles du code PIN
 about-webauthn-auth-info-max-msg-size = Taille maximale des messages
 # AAGUID should not be translated.
@@ -113,9 +128,13 @@ about-webauthn-auth-info-null = Non pris en charge
 
 ## Bio enrollment sample feedbacks
 
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Le prélèvement est valide.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Aucune activité de l’utilisateur.
+about-webauthn-ctap2-enroll-feedback-other = Erreur de prélèvement.
