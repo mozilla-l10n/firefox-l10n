@@ -118,13 +118,16 @@ about-webauthn-auth-info-remaining-discoverable-credentials = ข้อมูล
 about-webauthn-auth-info-certifications = ใบรับรอง
 about-webauthn-auth-info-uv-modality = ชุดรวมโหมดการยืนยันผู้ใช้
 about-webauthn-auth-info-preferred-platform-uv-attempts = แพลตฟอร์มที่ต้องการใช้ในการพยายามยืนยันผู้ใช้
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Relying Party ID สูงสุดสำหรับกำหนดความยาว PIN ขั้นต่ำ
 about-webauthn-auth-info-max-cred-blob-length = ความยาว blob สูงสุดสำหรับข้อมูลประจำตัว
 about-webauthn-auth-info-firmware-version = รุ่นของเฟิร์มแวร์
 about-webauthn-auth-info-min-pin-length = ความยาว PIN ขั้นต่ำ
 about-webauthn-auth-info-force-pin-change = บังคับการเปลี่ยน PIN
+about-webauthn-auth-info-max-ser-large-blob-array = ขนาดสูงสุดของอาร์เรย์ blob ขนาดใหญ่
 about-webauthn-auth-info-algorithms = อัลกอริทึม
 about-webauthn-auth-info-transports = การขนส่งข้อมูล
-about-webauthn-auth-info-max-credential-id-length = ความยาวไอดีสูงสุดสำหรับข้อมูลลับ
+about-webauthn-auth-info-max-credential-id-length = ความยาวไอดีสูงสุดสำหรับข้อมูลรับรอง
+about-webauthn-auth-info-max-credential-count-in-list = จำนวนข้อมูลรับรองสูงสุดในรายการ
 about-webauthn-auth-info-pin-protocols = โพรโทคอล PIN
 about-webauthn-auth-info-max-msg-size = ขนาดข้อความสูงสุด
 # AAGUID should not be translated.
