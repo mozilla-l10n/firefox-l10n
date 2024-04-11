@@ -31,6 +31,7 @@ about-private-browsing-focus-promo-cta = Ներբեռնեք { -focus-brand-name 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Վերցրեք գաղտնի դիտարկումը Ձեր հեռախոսին
+about-private-browsing-focus-promo-text-b = Օգտվեք { -focus-brand-name }-ից՝ այն գաղտնի որոնումների ժամանակ, երբ չեք ցանկանում Ձեր հիմնական բջջային դիտարկիչը ծանոթանա դրանց:
 about-private-browsing-focus-promo-header-c = Հաջորդ մակարդակի գաղտնիություն բջջայինում
 # This string is the title for the banner for search engine selection
 # in a private window.
@@ -49,6 +50,7 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = Գաղտնի դիտարկման ազատություն մեկ կտտոցով
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
         [macos] Պահել ամրակցված

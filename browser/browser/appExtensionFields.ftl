@@ -7,7 +7,7 @@
 
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = Համակարգի ոճ - ինքնա
-extension-default-theme-description = Հետևել օպերացիոն համակարգի կարգավորումներին, ցանկին և պատուհաններին;
+extension-default-theme-description = Հետևել օպերացիոն համակարգի կարգավորումներին, ցանկերին և պատուհաններին:
 extension-firefox-compact-light-name = Լուսավոր
 extension-firefox-compact-light-description = Լուսավոր ձևավորմամբ գունավորում:
 extension-firefox-compact-dark-name = Մուգ

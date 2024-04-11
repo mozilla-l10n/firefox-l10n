@@ -24,7 +24,7 @@ aboutdialog-update-downloading = Թարմացման ներբեռնում. <label
 update-applying = Թարմացման կիրառում...
 update-failed = Թարմացումը չհաջողվեց:<label data-l10n-name="failed-link">Ներբեռնել վերջին տարբերակը</label>
 update-failed-main = Թարմացումը չհաջողվեց:<a data-l10n-name="failed-link-main">Ներբեռնել վերջին տարբերակը</a>
-update-adminDisabled = Թարմացումներն անջատված են ձեր ցանացային ադմինիստրատորի կողմից
+update-adminDisabled = Թարմացումներն անջատված են Ձեր համակարգի ադմինիստրատորի կողմից
 update-policy-disabled = Թարմացումներն անջատված են Ձեր կազմակերպության կողմից
 update-noUpdatesFound = { -brand-short-name }-ն արդիական է
 aboutdialog-update-checking-failed = Չի ստացվում ստուգել թարմացումների առկայությունը:

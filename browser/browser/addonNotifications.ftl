@@ -47,6 +47,11 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName }({ $addonId }) արգելափակված է Ձեր համակարգավարի կողմից։
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName }-ը ({ $addonId }) արգելափակված է Ձեր կազմակերպության կողմից:
 addon-install-full-screen-blocked = Լրացուցիչ էկրան տեղադրումը չի թույլատրվում ամբողջ էկրանին ռեժիմը մուտքագրվելիս կամ դրա ընթացքում։
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -54,6 +59,10 @@ webext-perms-sideload-menu-item = { $addonName }-ը ավելացվել է { -bra
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName }-ը պահանջում է նոր թույլտվություններ
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Վերջնականացրեք { -brand-short-name } ներմուծված ընդլայնումների տեղադրումը
 
 ## Add-on removal warning
 
