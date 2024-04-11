@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Ceisiwch ddewis ardal sy'n llai na 32,700 
 screenshots-component-retry-button =
     .title = Cymryd sgrin llun eto
     .aria-label = Cymryd sgrin llun eto
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Diddymu (Esc)
+           *[other] Diddymu (Esc)
+        }
+    .aria-label = Diddymu
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Copïo ( { $shortcut } )
+    .aria-label = Copïo
 screenshots-component-copy-button-label = Copïo
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Llwytho i lawr ( { $shortcut } )
+    .aria-label = Llwytho i lawr
 screenshots-component-download-button-label = Llwytho i lawr
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
