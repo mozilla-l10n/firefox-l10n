@@ -30,7 +30,7 @@ webrtc-sharing-menuitem-unknown-host = Невідоме джерело
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
 webrtc-sharing-menu =
-    .label = Спільне використання вкладок пристроями
+    .label = Пристрої з доступом до вкладок
     .accesskey = с
 webrtc-sharing-window = Ви надаєте спільний доступ до іншого вікна програми.
 webrtc-sharing-browser-window = Ви надаєте спільний доступ до { -brand-short-name }.
@@ -61,19 +61,19 @@ webrtc-screen-system-menu =
 ## Tooltips used by the legacy global sharing indicator
 
 webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Ваші камера та мікрофон використовуються спільно. Клацніть, щоб керувати.
+    .tooltiptext = До ваших камери та мікрофона надано спільний доступ. Натисніть, щоб керувати.
 webrtc-indicator-sharing-camera =
-    .tooltiptext = Ваша камера використовується спільно. Клацніть, щоб керувати.
+    .tooltiptext = До вашої камери надано спільний доступ. Натисніть, щоб керувати.
 webrtc-indicator-sharing-microphone =
-    .tooltiptext = Ваш мікрофон використовується спільно. Клацніть, щоб керувати.
+    .tooltiptext = До вашого мікрофона надано спільний доступ. Натисніть, щоб керувати.
 webrtc-indicator-sharing-application =
-    .tooltiptext = Програма використовується спільно. Клацніть, щоб керувати.
+    .tooltiptext = До програми надано спільний доступ. Натисніть, щоб керувати.
 webrtc-indicator-sharing-screen =
-    .tooltiptext = Ваш еркан використовується спільно. Клацніть, щоб керувати.
+    .tooltiptext = До вашого екрана надано спільний доступ. Натисніть, щоб керувати.
 webrtc-indicator-sharing-window =
-    .tooltiptext = Вікно використовується спільно. Клацніть, щоб керувати.
+    .tooltiptext = До вікна надано спільний доступ. Натисніть, щоб керувати.
 webrtc-indicator-sharing-browser =
-    .tooltiptext = Вкладка використовується спільно. Клацніть, щоб керувати.
+    .tooltiptext = До вкладки надано спільний доступ. Натисніть, щоб керувати.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -82,64 +82,64 @@ webrtc-indicator-sharing-browser =
 ##   $tabCount (Number): the title of the tab using the share.
 
 webrtc-indicator-menuitem-control-sharing =
-    .label = Керувати спільним використанням
+    .label = Керувати спільним доступом
 webrtc-indicator-menuitem-control-sharing-on =
-    .label = Керувати спільним використанням на "{ $streamTitle }"
+    .label = Керувати спільним доступом для “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with =
-    .label = Спільне використання камери з "{ $streamTitle }"
+    .label = “{ $streamTitle }” має доступ до камери
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Спільне використання камери з { $tabCount } вкладкою
-            [few] Спільне використання камери з { $tabCount } вкладками
-           *[many] Спільне використання камери з { $tabCount } вкладками
+            [one] { $tabCount } вкладка має доступ до камери
+            [few] { $tabCount } вкладки мають доступ до камери
+           *[many] { $tabCount } вкладок мають доступ до камери
         }
 webrtc-indicator-menuitem-sharing-microphone-with =
-    .label = Спільне використання мікрофону з "{ $streamTitle }"
+    .label = “{ $streamTitle }” має доступ до мікрофона
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Спільне використання мікрофону з { $tabCount } вкладкою
-            [few] Спільне використання мікрофону з { $tabCount } вкладками
-           *[many] Спільне використання мікрофону з { $tabCount } вкладками
+            [one] { $tabCount } вкладка має доступ до мікрофона
+            [few] { $tabCount } вкладки мають доступ до мікрофона
+           *[many] { $tabCount } вкладок мають доступ до мікрофона
         }
 webrtc-indicator-menuitem-sharing-application-with =
-    .label = Спільне використання програми з "{ $streamTitle }"
+    .label = “{ $streamTitle }” має доступ до програми
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Спільне використання програми з { $tabCount } вкладкою
-            [few] Спільне використання програми з { $tabCount } вкладками
-           *[many] Спільне використання програми з { $tabCount } вкладками
+            [one] { $tabCount } вкладка має доступ до програми
+            [few] { $tabCount } вкладки мають доступ до програми
+           *[many] { $tabCount } вкладок мають доступ до програми
         }
 webrtc-indicator-menuitem-sharing-screen-with =
-    .label = Спільне використання екрана з "{ $streamTitle }"
+    .label = “{ $streamTitle }” має доступ до екрана
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Спільне використання екрана з { $tabCount } вкладкою
-            [few] Спільне використання екрана з { $tabCount } вкладками
-           *[many] Спільне використання екрана з { $tabCount } вкладками
+            [one] { $tabCount } вкладка має доступ до екрана
+            [few] { $tabCount } вкладки мають доступ до екрана
+           *[many] { $tabCount } вкладок мають доступ до екрана
         }
 webrtc-indicator-menuitem-sharing-window-with =
-    .label = Спільне використання вікна з "{ $streamTitle }"
+    .label = “{ $streamTitle }” має доступ до вікна
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Спільне використання вікна з { $tabCount } вкладкою
-            [few] Спільне використання вікна з { $tabCount } вкладками
-           *[many] Спільне використання вікна з { $tabCount } вкладками
+            [one] { $tabCount } вкладка має доступ до вікна
+            [few] { $tabCount } вкладки мають доступ до вікна
+           *[many] { $tabCount } вкладок мають доступ до вікна
         }
 webrtc-indicator-menuitem-sharing-browser-with =
-    .label = Спільне використання вкладки з "{ $streamTitle }"
+    .label = “{ $streamTitle }” має доступ до вкладки
 # This message is shown when the contents of a tab is shared during a WebRTC
 # session, which currently is only possible with Loop/Hello.
 webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
     .label =
         { $tabCount ->
-            [one] Спільне використання вкладки з { $tabCount } вкладкою
-            [few] Спільне використання вкладок з { $tabCount } вкладками
-           *[many] Спільне використання вкладок з { $tabCount } вкладками
+            [one] { $tabCount } вкладка має доступ до вкладки
+            [few] { $tabCount } вкладки мають доступ до вкладки
+           *[many] { $tabCount } вкладок мають доступ до вкладки
         }
 
 ## Variables:
@@ -182,9 +182,9 @@ webrtc-allow-share-screen-unsafe-delegation = Дозволити { $origin } н�
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 webrtc-allow-share-speaker-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до інших гучномовців?
-webrtc-allow-share-camera-and-microphone-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до ваших камери та мікрофону?
+webrtc-allow-share-camera-and-microphone-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до ваших камери та мікрофона?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до вашої камери та прослуховування аудіо цієї вкладки?
-webrtc-allow-share-screen-and-microphone-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до вашого мікрофону та перегляду вашого екрана?
+webrtc-allow-share-screen-and-microphone-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } доступ до вашого мікрофона та перегляду вашого екрана?
 webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Дозволити { $origin } надати для { $thirdParty } дозвіл прослуховувати аудіо цієї вкладки та бачити ваш екран?
 
 ##
