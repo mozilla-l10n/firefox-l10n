@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Ең ұзын жағындағы 32 700 п
 screenshots-component-retry-button =
     .title = Скриншотты қайталау
     .aria-label = Скриншотты қайталау
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Бас тарту (esc)
+           *[other] Бас тарту (Esc)
+        }
+    .aria-label = Бас тарту
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Көшіру ({ $shortcut })
+    .aria-label = Көшіру
 screenshots-component-copy-button-label = Көшіріп алу
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Жүктеп алу ({ $shortcut })
+    .aria-label = Жүктеп алу
 screenshots-component-download-button-label = Жүктеп алу
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
