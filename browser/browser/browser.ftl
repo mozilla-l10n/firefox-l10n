@@ -206,7 +206,7 @@ search-one-offs-context-set-as-default =
     .label = Հաստատել որպես սկզբնադիր որոնիչ
     .accesskey = հ
 search-one-offs-context-set-as-default-private =
-    .label = Սահմանել որպես սկզբնադիր որոնիչ գաղտնի պատուհանների համար
+    .label = Կայել որպես սկզբնադիր որոնիչ գաղտնի պատուհանների համար
     .accesskey = Գ
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
