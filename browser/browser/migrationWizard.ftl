@@ -51,10 +51,14 @@ migration-imported-edge-reading-list = Ընթերցացուցակ (Edge-ից)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name }-ը հասանելություն չունի այս սարքում տեղադրված այլ դիտարկիչների պրոֆիլներին:
+migration-no-permissions-instructions = Տվյալների ներմուծումը շարունակելու համար՝ տվեք { -brand-short-name }-ին իր պրոֆիլի թղթապանակի հասանելիություն:
 migration-no-permissions-instructions-step1 = Ընտրեք «Շարունակել»
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Ներմուծել բոլոր հասանելի տվյալները
+migration-no-selected-data-label = Ներմուծման համար տվյալներ չկան
 migration-selected-data-label = Ներմուծեք ընտրված տվյալները
 
 ##
@@ -68,6 +72,7 @@ migration-logins-and-passwords-option-label = Պահված մուտքագրու�
 migration-passwords-option-label = Պահված գաղտնաբառեր
 migration-history-option-label = Զննարկման պատմությունը
 migration-extensions-option-label = Ընդլայնումներ
+migration-form-autofill-option-label = Ձևաթղթի ինքնալրացման տվյալները
 migration-payment-methods-option-label = Վճարամիջոցներ
 migration-cookies-option-label = Թխուկներ
 migration-session-option-label = Պատուհաններ և Ներդիրներ
@@ -115,6 +120,7 @@ migration-wizard-progress-success-updated-passwords =
 migration-bookmarks-from-file-picker-title = Ներմուծել էջանիշերի ֆայլը
 migration-bookmarks-from-file-progress-header = Էջանիշների ներմուծում
 migration-bookmarks-from-file = Էջանիշեր
+migration-bookmarks-from-file-success-header = Էջանիշները հաջողությամբ ներմուծվեցին
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

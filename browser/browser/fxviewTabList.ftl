@@ -34,8 +34,8 @@ fxviewtabrow-forget-about-this-site = Մոռացեք այս կայքի մասի�
     .accesskey = F
 fxviewtabrow-open-in-window = Բացել նոր պատուհանում
     .accesskey = N
-fxviewtabrow-open-in-private-window = Բացել Նոր Գաղտնի դիտարկմամբ
-    .accesskey = P
+fxviewtabrow-open-in-private-window = Բացել նոր գաղտնի պատուհանում
+    .accesskey = Գ
 # “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
 fxviewtabrow-add-bookmark = Էջանիշ…
     .accesskey = B
@@ -67,14 +67,6 @@ fxviewtabrow-unmute-tab = Ապալռեցնել ներդիրը
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Ընտրանքներ { $tabTitle }-ի համար
-# Variables:
-#   $tabTitle (string) - Title of tab being muted
-fxviewtabrow-mute-tab-button =
-    .title = Լռեցնել { $tabTitle }-ը
-# Variables:
-#   $tabTitle (string) - Title of tab being unmuted
-fxviewtabrow-unmute-tab-button =
-    .title = Չլռեցնել { $tabTitle }-ը
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 

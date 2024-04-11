@@ -62,6 +62,11 @@ downloads-cmd-always-use-system-default-named =
 
 ##
 
+# We can use the same accesskey as downloads-cmd-always-use-system-default.
+# Both should not be visible in the downloads context menu at the same time.
+downloads-cmd-always-open-similar-files =
+    .label = Մշտապես բացել նմանատիպ ֆայլերը
+    .accesskey = w
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
@@ -202,10 +207,24 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Չկան ներբեռնումներ այս աշխատաշրջանում:
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] Եվս { $count } ֆայլի ներբեռնում
+       *[other] Եվս { $count } ֆայլերի ներբեռնում
+    }
 
 ## Download errors
 
 downloads-error-alert-title = Բեռնման Սխալ
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Ներբեռնումը չի կարող պահպանվել, քանի որ այն արգելափակված է { $extension }-ի կողմից:
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Ներբեռնումը չի կարող պահպանվել, քանի որ այն արգելափակված է ընդլայնման կողմից:
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Բեռնումը չի կարող պահպանվել անհայտ վթարի պատճառով:
