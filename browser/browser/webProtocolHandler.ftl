@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = ต้องการเ
 protocolhandler-mailto-handler-yes-confirm = ขณะนี้ { $url } เป็นไซต์เริ่มต้นของคุณสำหรับเปิดลิงก์ที่ใช้ส่งอีเมลแล้ว
 protocolhandler-mailto-handler-set-message = ใช้ <strong>{ $url } ใน { -brand-short-name }</strong> ทุกครั้งที่คุณคลิกลิงก์ที่เปิดอีเมลของคุณหรือไม่?
 protocolhandler-mailto-handler-confirm-message = ขณะนี้ <strong>{ $url } ใน { -brand-short-name }</strong> เป็นเครื่องมือจัดการอีเมลเริ่มต้นในคอมพิวเตอร์ของคุณแล้ว
+protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } จะเปิด { $url }</strong> ทุกครั้งที่คุณคลิกลิงก์สำหรับส่งอีเมล
 
 ##
 
