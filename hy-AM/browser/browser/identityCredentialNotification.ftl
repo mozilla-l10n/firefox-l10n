@@ -25,3 +25,4 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = Մուտք գործել
     .accesskey = S
+identity-credential-policy-title = Օգտագործեք { $provider } որպես մուտքի մատակարար

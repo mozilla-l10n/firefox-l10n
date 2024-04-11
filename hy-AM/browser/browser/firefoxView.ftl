@@ -5,10 +5,17 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Տեսնել վերջին դիտարկումները տարբեր պատուհաններում և սարքերում
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Փակել
     .aria-label = Փակել
@@ -23,6 +30,7 @@ firefoxview-tabpickup-description = Բացեք էջերը այլ սարքերի�
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% ավարտված է
 firefoxview-tabpickup-step-signin-primarybutton = Շարունակել
+firefoxview-syncedtabs-signin-header = Վերցրեք ներդիրները ցանկացած վայրից
 firefoxview-syncedtabs-signin-primarybutton = Մուտք գործեք կամ գրանցվեք
 firefoxview-tabpickup-adddevice-description = Ներբեռնեք { -brand-product-name } բջջային հեռախոսի համար և մուտք գործեք այնտեղ:
 firefoxview-tabpickup-adddevice-learn-how = Իմանալ ինչպես
@@ -30,6 +38,7 @@ firefoxview-tabpickup-adddevice-primarybutton = Ստացեք { -brand-product-na
 firefoxview-syncedtabs-adddevice-header = Մուտք գործեք { -brand-product-name } ձեր մյուս սարքերում
 firefoxview-syncedtabs-adddevice-primarybutton = Փորձեք { -brand-product-name }-ը բջջայինի համար
 firefoxview-tabpickup-synctabs-header = Միացնել ներդիրների համաժամացումը
+firefoxview-tabpickup-synctabs-description = Թույլատրել { -brand-short-name }-ին տարածել ներդիրները՝ սարքերի միջև:
 firefoxview-tabpickup-synctabs-learn-how = Իմանալ ինչպես
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
 firefoxview-syncedtabs-synctabs-header = Թարմացրեք ձեր համաժամացման կարգավորումները
@@ -44,9 +53,11 @@ firefoxview-tabpickup-password-locked-header = Ներդիրները դիտելո
 firefoxview-tabpickup-password-locked-description = Ձեր ներդիրները ստանալու համար պետք է մուտքագրեք Հիմնական գաղտնաբառը { -brand-short-name }-ի համար:
 firefoxview-tabpickup-password-locked-link = Իմանալ ավելին
 firefoxview-tabpickup-password-locked-primarybutton = Մուտքագրել Հիմնական գաղտնաբառը
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Իմանալ ավելին</a>
 firefoxview-tabpickup-signed-out-header = Մուտք գործեք՝ կրկին կապակցվելու համար
 firefoxview-tabpickup-signed-out-primarybutton = Մուտք գործել
 firefoxview-mobile-promo-header = Բերեք ներդիրները ձեր հեռախոսից կամ թաբլեթից
+firefoxview-mobile-promo-primarybutton = Ստացեք { -brand-product-name }-ը բջջայինի համար
 firefoxview-mobile-confirmation-header = 🎉 Լավ է գնալ:
 firefoxview-mobile-confirmation-description = Այժմ կարող եք բերել { -brand-product-name }-ի ձեր ներդիրները թաբլեթից կամ հեռախոսից:
 firefoxview-closed-tabs-title = Վերջին փակվածը
@@ -74,6 +85,10 @@ firefoxview-collapse-button-show =
     .title = Ցուցադրել ցուցակը
 firefoxview-collapse-button-hide =
     .title = Թաքցնել ցուցակը
+firefoxview-overview-nav = Վերջերս դիտարկվող
+    .title = Վերջերս դիտարկվող
+firefoxview-overview-header = Վերջերս դիտարկվող
+    .title = Վերջերս դիտարկվող
 
 ## History in this context refers to browser history
 
@@ -187,6 +202,7 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Ներմուծել պատմությունը այլ դիտարկիչից
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
@@ -194,11 +210,22 @@ firefoxview-recentlyclosed-empty-header = Շու՞տ եք փակել ներդի�
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Այս սարքում ներդիրներ չեն բացվել
+firefoxview-syncedtabs-connect-another-device = Միանալ այլ սարքի
+firefoxview-pinned-tabs =
+    .title = Ամրացված ներդիրները
+firefoxview-tabs =
+    .title = Ներդիրներ
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = Փոխարկվել { $tabTitle }-ին
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Փոխարկվել (էջանշված) { $tabTitle }-ին
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:

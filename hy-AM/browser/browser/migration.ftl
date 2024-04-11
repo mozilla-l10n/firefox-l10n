@@ -65,6 +65,7 @@ no-migration-sources = Չգտնվեց ծրագիր, որը պարունակու�
 import-source-page-title = Ներմուծել կարգավորումները ու տվյալները
 import-items-page-title = Ինչն է ներմուծվելու
 import-items-description = Ընտրեք, թե ինչ պետք է ներմուծվի՝
+import-permissions-page-title = Խնդրում ենք թույլտվություններ տրամադրել { -brand-short-name }-ին
 import-migrating-page-title = Ներմուծվում է…
 import-migrating-description = Հետևյալ բաղադրիչները ներմուծվում են…
 import-select-profile-page-title = Ընտրեք հաշիվը

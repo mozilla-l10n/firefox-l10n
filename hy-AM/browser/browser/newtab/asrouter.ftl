@@ -180,7 +180,9 @@ cookie-banner-blocker-onboarding-learn-more = Իմանալ ավելին
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-set-default-primary = Բացել իմ հղումները { -brand-short-name }-ով
 fox-doodle-pin-headline = Բարի վերադարձ
+fox-doodle-pin-primary = Բացել իմ հղումները { -brand-short-name }-ով
 fox-doodle-pin-secondary = Ոչ հիմա
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
@@ -201,6 +203,8 @@ device-migration-fxa-spotlight-older-device-primary-button = Ստեղծել հա
 
 ## Set as Default PDF Reader Infobar
 
+pdf-default-notification-set-default-button =
+    .label = Կայել որպես սկզբնադիր
 pdf-default-notification-decline-button =
     .label = Ոչ հիմա
 
@@ -215,6 +219,8 @@ launch-on-login-infobar-reject-button = Ոչ հիմա
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-reject-button = Ոչ, շնորհակալություն
+    .accesskey = N
 
 ## Tail Fox Set Default Spotlight
 
