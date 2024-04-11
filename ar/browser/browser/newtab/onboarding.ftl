@@ -118,8 +118,16 @@ mr2-onboarding-start-browsing-button-label = ابدأ التصفح
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
+onboarding-live-language-header = اختر لغتك
+mr2022-onboarding-live-language-text = { -brand-short-name } يتحدّث لغتك
 mr2022-language-mismatch-subtitle = بفضل مجتمعنا، ترجمت { -brand-short-name } بأكثر من 90 لغة. يبدو أن نظامك يستخدم { $systemLanguage }، و { -brand-short-name } يستخدم { $appLanguage }.
+onboarding-live-language-button-label-downloading = جارٍ تنزيل حزمة اللغة لـ{ $negotiatedLanguage }…
+onboarding-live-language-waiting-button = جارٍ الحصول على اللغات المتاحة...
+onboarding-live-language-installing = جارٍ تثبيت حزمة اللغة لـ{ $negotiatedLanguage }...
+mr2022-onboarding-live-language-switch-to = التبديل إلى { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = واصِل في { $appLanguage }
+onboarding-live-language-secondary-cancel-download = ألغِ
+onboarding-live-language-skip-button-label = تخطَّ
 
 ## Firefox 100 Thank You screens
 
