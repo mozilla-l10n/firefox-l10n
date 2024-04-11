@@ -598,6 +598,9 @@ search-suggestions-desc = منتخب کرو جو ڳولݨ انجݨاں کنوں 
 search-suggestions-option =
     .label = ڳولݨ دیاں تجویزاں مہیا کرو
     .accesskey = s
+search-show-suggestions-option =
+    .label = ڳولݨ تجویزاں ݙکھاؤ
+    .accesskey = S
 search-show-suggestions-url-bar-option =
     .label = ایڈریس بار دے نتیجیاں وِچ ڳولݨ دیاں تجویزاں ظاہر کرو
     .accesskey = l
@@ -896,6 +899,8 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = خودبخود بھرݨ
+autofill-addresses-checkbox = محفوظ کرو تے پتے پُر کرو
+    .accesskey = a
 autofill-saved-addresses-button = محفوظ تھئے پتے
     .accesskey = S
 
