@@ -16,6 +16,8 @@ about-webauthn-pin-section-title = Gestion du code PIN
 about-webauthn-credential-management-section-title = Gérer les informations d’authentification
 about-webauthn-pin-required-section-title = Code PIN requis
 about-webauthn-confirm-deletion-section-title = Confirmer la suppression
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Enregistrements biométriques
 
 ## Info field texts
 
@@ -25,6 +27,7 @@ about-webauthn-text-select-device = Veuillez sélectionner le jeton de sécurit�
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Impossible de gérer les options, car votre jeton de sécurité ne prend pas en charge CTAP2.
 about-webauthn-text-not-available = Non disponible sur cette plateforme.
+about-webauthn-bio-enrollment-list-subsection-title = Enregistrements :
 
 ## Results label
 
@@ -69,7 +72,9 @@ about-webauthn-update-button = Mettre à jour
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Vérification de l’utilisateur
 about-webauthn-auth-option-clientpin = Code PIN du client
+about-webauthn-auth-option-plat = Appareil de la plateforme
 about-webauthn-auth-option-ep = Attestation d’entreprise
 about-webauthn-auth-option-bioenroll = Enregistrement biométrique
 # FIDO_2_1_PRE should not be translated.
