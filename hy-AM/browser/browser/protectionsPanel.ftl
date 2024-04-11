@@ -23,17 +23,17 @@ protections-panel-etp-more-info =
     .aria-label = Հետագծումից ընդլայնված պաշտպանության մասին լրացուցիչ տեղեկություններ
 protections-panel-etp-on-header = Ընդլայնված պաշտպանությունը հետագծումից ՄԻԱՑՎԱԾ է այս կայքում
 protections-panel-etp-off-header = Ընդլայնված պաշտպանությունը հետագծումից ԱՆՋԱՏՎԱԾ է այս կայքում
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Կայքը չի՞ աշխատում:
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Կայքը չի՞ աշխատում:
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Կայքը չի՞ աշխատում:
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Կայքը չի՞ աշխատում:
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -80,6 +80,7 @@ protections-panel-site-not-working-view-issue-list-forms = Ձևեր
 protections-panel-site-not-working-view-issue-list-payments = Վճարումներ
 protections-panel-site-not-working-view-issue-list-comments = Մեկնաբանություններ
 protections-panel-site-not-working-view-issue-list-videos = Տեսանյութեր
+protections-panel-site-not-working-view-issue-list-fonts = Տառատեսակներ
 protections-panel-site-not-working-view-send-report = Ուղարկել զեկույց
 
 ##
@@ -96,7 +97,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Հաղորդել կոտրված կայքի մասին
 protections-panel-content-blocking-breakage-report-view-description = Որոշ հետևումների արգելափակումը կարող է որոշ կայքերի խնդիրների պատճառ դառնալ։ Այս խնդիրների զեկուցումը { -brand-short-name }-ը բոլորի համար ավելի լավը կդարձնի։ Այս զեկույցն ուղարկելով Mozila-ին կուղարկվի URL և ձեր զննարկչի կարգավորումների մասին տեղեկություն։ <label data-l10n-name="learn-more">Իմանալ ավելին</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Որոշ հետևումների արգելափակումը կարող է որոշ կայքերի խնդիրների պատճառ դառնալ։ Այս խնդիրների զեկուցումը { -brand-short-name }-ը բոլորի համար ավելի լավը կդարձնի։ Այս զեկույցն ուղարկելով { -vendor-short-name }-ին կուղարկվի URL և ձեր զննարկչի կարգավորումների մասին տեղեկություն։
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -110,12 +110,18 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-enabled = Միացված է այս կայքի համար
+protections-panel-cookie-banner-handling-disabled = Անջատված է այս կայքի համար
+protections-panel-cookie-banner-handling-undetected = Կայքը ներկայումս չի աջակցվում
 protections-panel-cookie-banner-view-turn-off = Անջատել
 protections-panel-cookie-banner-view-turn-on = Միացնել
 protections-panel-cookie-banner-view-turn-off-label =
     .label = Անջատել
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Միացնել
+protections-panel-report-broken-site =
+    .label = Զեկուցել խոտանված կայքի մասին
+    .title = Զեկուցել խոտանված կայքի մասին
 
 ## Protections panel info message
 
