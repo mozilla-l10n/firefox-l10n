@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = أنشِئ جلسة ولوج جديدة
+about-logins-page-title-name = كلمات السر
+about-logins-login-filter2 =
+    .placeholder = البحث في كلمات السر
+    .key = F
+create-login-button =
+    .title = أضِف كلمة سر
 fxaccounts-sign-in-text = استعمل كلمات السر لحساباتك في أجهزتك الأخرى
 fxaccounts-sign-in-sync-button = لِج كي تبدأ المزامنة
 fxaccounts-avatar-button =
@@ -23,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = استورِد من م�
 about-logins-menu-menuitem-import-from-a-file = استورِد من ملف…
 about-logins-menu-menuitem-export-logins = صدّر جلسات الولوج…
 about-logins-menu-menuitem-remove-all-logins = أزِل كل جلسات الولوج…
+about-logins-menu-menuitem-export-logins2 = صدّر كلمات السر…
+about-logins-menu-menuitem-remove-all-logins2 = أزِل كل كلمات السر…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] الخيارات
@@ -68,9 +76,11 @@ login-list-last-used-option = آخر استخدام
 login-list-intro-title = لا جلسات ولوج
 login-list-intro-description = متى ما حفظت كلمة سر في { -brand-product-name } ستظهر هنا.
 about-logins-login-list-empty-search-title = لا جلسات ولوج
+about-logins-login-list-empty-search-title2 = لم يُعثر على كلمات السر
 about-logins-login-list-empty-search-description = لا نتائج تطابق البحث.
 login-list-item-title-new-login = جلسة ولوج جديدة
 login-list-item-subtitle-new-login = أدخِل معلومات الولوج
+login-list-item-title-new-login2 = أضِف كلمة سر
 login-list-item-subtitle-missing-username = (لا اسم مستخدم)
 about-logins-list-item-breach-icon =
     .title = موقع مسرّب بياناته
@@ -98,6 +108,8 @@ about-logins-intro-import2 = إن حفظت جلسات الولوج خارج { -b
 ## Login
 
 login-item-new-login-title = أنشِئ جلسة ولوج جديدة
+# Header for adding a password
+about-logins-login-item-new-login-title = أضِف كلمة سر
 login-item-edit-button = حرِّر
 about-logins-login-item-remove-button = أزِل
 login-item-origin-label = عنوان الموقع
