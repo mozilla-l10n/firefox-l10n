@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Նոր ներդիր
+tabbrowser-empty-private-tab-title = Նոր գաղտնի ներդիր
 tabbrowser-menuitem-close-tab =
     .label = Փակել ներդիրը
 tabbrowser-menuitem-close =
@@ -81,7 +82,11 @@ tabbrowser-confirm-close-windows-button =
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+tabbrowser-confirm-close-tabs-with-key-title = Փակե՞լ պատուհանը և լքել { -brand-short-name }-ը:
 tabbrowser-confirm-close-tabs-with-key-button = Փակել { -brand-short-name }-ը
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-confirm-close-tabs-with-key-checkbox = Հաստատեք նախքան { $quitKey }-ով լքելը
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 

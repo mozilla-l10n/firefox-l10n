@@ -32,8 +32,8 @@ synced-tabs-context-open-in-window =
     .label = Բացել նոր պատուհանում
     .accesskey = N
 synced-tabs-context-open-in-private-window =
-    .label = Բացել Նոր Գաղտնի դիտարկմամբ
-    .accesskey = P
+    .label = Բացել նոր գաղտնի պատուհանում
+    .accesskey = Գ
 
 ##
 
