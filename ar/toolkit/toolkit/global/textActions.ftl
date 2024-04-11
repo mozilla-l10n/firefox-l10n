@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = ت
 text-action-search-text-box-clear =
     .title = امسح
+text-action-highlight-selection =
+    .label = لون التحديد
