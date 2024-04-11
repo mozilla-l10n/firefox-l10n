@@ -234,7 +234,7 @@ about-webrtc-frame-stats-heading = สถิติเฟรมวิดีโอ
 
 about-webrtc-save-page-msg = ได้บันทึกหน้าลงใน: { $path }
 about-webrtc-debug-mode-off-state-msg = บันทึกร่องรอยสามารถพบได้ที่: { $path }
-about-webrtc-debug-mode-on-state-msg = โหมดดีบั๊กทำงานอยู่ บันทึกการติดตามอยู่ที่: { $path }
+about-webrtc-debug-mode-on-state-msg = โหมดดีบั๊กทำงานอยู่ บันทึกการตามรอยอยู่ที่: { $path }
 about-webrtc-aec-logging-off-state-msg = ไฟล์บันทึกที่จับสามารถพบได้ใน: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
