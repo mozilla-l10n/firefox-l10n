@@ -163,3 +163,10 @@ about-webauthn-ctap2-enroll-feedback-poor-quality = ตัวอย่างม�
 # Skewed in the sense of fingerprint/iris scan was too distorted
 about-webauthn-ctap2-enroll-feedback-too-skewed = ตัวอย่างบิดเบี้ยวเกินไป
 about-webauthn-ctap2-enroll-feedback-too-short = ตัวอย่างสั้นเกินไป
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = การผสานตัวอย่างล้มเหลว
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = ตัวอย่างมีอยู่แล้ว
+about-webauthn-ctap2-enroll-feedback-no-user-activity = ไม่มีความเคลื่อนไหวจากผู้ใช้
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = ผู้ใช้ทำการเก็บตัวอย่างไม่สมบูรณ์ตามที่คาดไว้
+about-webauthn-ctap2-enroll-feedback-other = ตัวอย่างผิดพลาด

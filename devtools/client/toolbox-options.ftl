@@ -43,6 +43,11 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = ใช้ตัวเน้นสีแบบง่ายขึ้นด้วย prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
     .title = เปิดใช้งานตัวเน้นสีแบบง่ายเมื่อ prefers-reduced-motion เปิดใช้งาน วาดเส้นแทนสี่เหลี่ยมเติมสีรอบๆ อิลิเมนต์ที่เน้นสีไว้เพื่อหลีกเลี่ยงเอฟเฟกต์กะพริบ
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = โฟกัสที่อินพุตถัดไปเมื่อมีการกด <kbd>Enter</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = เมื่อเปิดใช้งาน การกดแป้น Enter เมื่อกำลังแก้ไขเครื่องมือเลือก ชื่อคุณสมบัติหรือค่าจะย้ายโฟกัสไปที่อินพุตถัดไป
 
 ## "Default Color Unit" options for the Inspector
 

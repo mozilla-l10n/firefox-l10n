@@ -26,7 +26,7 @@ about-logging-logging-to-profiler = การบันทึกลง { -profile
 about-logging-no-log-modules = ไม่มี
 about-logging-no-log-file = ไม่มี
 about-logging-logging-preset-selector-text = ค่าที่ตั้งไว้ล่วงหน้าของการบันทึก:
-about-logging-with-profiler-stacks-checkbox = เปิดใช้งานการตามรอยสแต็กสำหรับข้อความในปูม
+about-logging-with-profiler-stacks-checkbox = เปิดใช้งานการตามรอยสแตกสำหรับข้อความในปูม
 
 ## Logging presets
 
