@@ -58,10 +58,10 @@ download-utils-status-infinite-rate = { $timeLeft } – { $transfer } (Дуже 
 #   $timeLeft (string) - Time left.
 #   $transfer (string) - Transfer progress.
 download-utils-status-no-rate = { $timeLeft } – { $transfer }
-download-utils-bytes = байт
-download-utils-kilobyte = Кб
-download-utils-megabyte = Мб
-download-utils-gigabyte = Гб
+download-utils-bytes = байтів
+download-utils-kilobyte = КБ
+download-utils-megabyte = МБ
+download-utils-gigabyte = ГБ
 # example: 1.1 of 333 MB
 # Variables:
 #   $progress (string) - Progress number.
