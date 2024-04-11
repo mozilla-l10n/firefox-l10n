@@ -20,3 +20,5 @@ confirmation-hint-pin-tab = Ամրացված։
 confirmation-hint-pin-tab-description = Այն բացելու համար ներդիրին աջ-կտտացրեք։
 confirmation-hint-send-to-device = Ուղարկվեց
 confirmation-hint-firefox-relay-mask-created = Ստեղծվել է նոր դիմակ:
+confirmation-hint-firefox-relay-mask-reused = Գոյություն ունեցող դիմակը վերաօգտագործվե՛ց
+confirmation-hint-screenshot-copied = Էկրանի պատկերը պատճենվե՛ց

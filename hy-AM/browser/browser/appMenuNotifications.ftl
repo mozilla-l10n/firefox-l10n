@@ -15,6 +15,7 @@ appmenu-update-manual2 =
     .buttonaccesskey = D
     .secondarybuttonlabel = Բաց թողնել
     .secondarybuttonaccesskey = m
+appmenu-update-manual-message2 = { -brand-shorter-name }-ը չկարողացավ թարմացվել ինքնաբերաբար: Ներբեռնեք նոր տարբերակը. դուք չեք կորցնի պահված տեղեկատվությունը կամ հարմարեցումները:
 appmenu-update-unsupported2 =
     .label = Հնարավոր չէ թարմացնել
     .buttonlabel = Իմանալ ավելին

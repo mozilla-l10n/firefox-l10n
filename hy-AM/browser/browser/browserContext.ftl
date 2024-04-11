@@ -31,7 +31,7 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
-    .tooltiptext = Գնալ Հաջորդ Էջ ({ $shortcut })
+    .tooltiptext = Գնալ մեկ Էջ առաջ ({ $shortcut })
     .aria-label = Հաջորդը
     .accesskey = F
 # This menuitem is only visible on macOS
@@ -92,6 +92,16 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-page =
+    .aria-label = Էջանշել...
+    .accesskey = m
+    .tooltiptext = Էջանշել
+# This menuitem is only visible on macOS
+# Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
+# so should probably have the same access key if possible.
+main-context-menu-bookmark-page-mac =
+    .label = Էջանշել…
+    .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
 # so should probably have the same access key if possible.
@@ -115,10 +125,10 @@ main-context-menu-edit-bookmark-with-shortcut =
     .accesskey = m
     .tooltiptext = Խմբագրել { $shortcut } Էջանիշը
 main-context-menu-open-link =
-    .label = Բացել Հղումը
+    .label = Բացել հղումը
     .accesskey = Բ
 main-context-menu-open-link-new-tab =
-    .label = Հղումը Բացել Նոր Ներդիրում
+    .label = Բացել հղումը նոր ներդիրում
     .accesskey = Բ
 main-context-menu-open-link-container-tab =
     .label = Բացել հղումը Նոր Պարունակ Ներդիրում
