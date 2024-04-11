@@ -12,6 +12,7 @@ about-webauthn-page-title = À propos de WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Informations de l’appareil
+about-webauthn-info-subsection-title = Informations sur l’authentificateur
 about-webauthn-pin-section-title = Gestion du code PIN
 about-webauthn-credential-management-section-title = Gérer les informations d’authentification
 about-webauthn-pin-required-section-title = Code PIN requis
@@ -28,6 +29,7 @@ about-webauthn-text-select-device = Veuillez sélectionner le jeton de sécurit�
 about-webauthn-text-non-ctap2-device = Impossible de gérer les options, car votre jeton de sécurité ne prend pas en charge CTAP2.
 about-webauthn-text-not-available = Non disponible sur cette plateforme.
 about-webauthn-bio-enrollment-list-subsection-title = Enregistrements :
+about-webauthn-add-bio-enrollment-section-title = Ajouter un nouvel enregistrement
 
 ## Results label
 
@@ -55,6 +57,8 @@ about-webauthn-repeat-pin-label = Répétez le nouveau code PIN :
 about-webauthn-current-pin-label = Code PIN actuel :
 about-webauthn-pin-required-label = Veuillez saisir votre code PIN :
 about-webauthn-credential-list-subsection-title = Informations d’authentification :
+about-webauthn-enrollment-name-label = Nom de l’enregistrement (facultatif) :
+about-webauthn-enrollment-list-empty = Aucun enregistrement trouvé sur l’appareil.
 about-webauthn-credential-list-empty = Aucune information d’authentification trouvée sur l’appareil.
 about-webauthn-confirm-deletion-label = Vous êtes sur le point de supprimer :
 
