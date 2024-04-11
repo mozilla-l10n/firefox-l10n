@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Probeer een gebied te selecteren dat klein
 screenshots-component-retry-button =
     .title = Schermafdruk opnieuw proberen
     .aria-label = Schermafdruk opnieuw proberen
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Annuleren (esc)
+           *[other] Annuleren (Esc)
+        }
+    .aria-label = Annuleren
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Kopiëren ({ $shortcut })
+    .aria-label = Kopiëren
 screenshots-component-copy-button-label = Kopiëren
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Downloaden ({ $shortcut })
+    .aria-label = Downloaden
 screenshots-component-download-button-label = Downloaden
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
