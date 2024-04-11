@@ -12,6 +12,9 @@ permissions-address = Կայքի հասցեն
 permissions-block =
     .label = Արգելել
     .accesskey = Ա
+permissions-disable-etp =
+    .label = Ավելացնել բացառություն
+    .accesskey = E
 permissions-session =
     .label = Թույլատրել աշխատաշրջանում
     .accesskey = ա
@@ -21,6 +24,9 @@ permissions-allow =
 permissions-button-off =
     .label = Անջատել
     .accesskey = O
+permissions-button-off-temporarily =
+    .label = Ժամանակավորապես անջատել
+    .accesskey = T
 permissions-site-name =
     .label = Կայք
 permissions-status =
@@ -57,6 +63,8 @@ permissions-capabilities-listitem-allow-session =
     .value = Թույլատրել աշխատաշրջանում
 permissions-capabilities-listitem-off =
     .value = Անջ.
+permissions-capabilities-listitem-off-temporarily =
+    .value = Ժ.-ապես անջ.-ել
 
 ## Invalid Hostname Dialog
 
@@ -95,6 +103,9 @@ permissions-exceptions-saved-logins-window2 =
     .title = Բացառություններ՝ պահված մուտքագրումներ
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Հետևյալ կայքերի մուտքագրումները չեն պահպանվի
+
+## Exceptions - Saved Passwords
+
 
 ## Exceptions - Add-ons
 
@@ -168,3 +179,13 @@ permissions-exceptions-doh-window =
     .title = Կայքի բացառություններ DNS՝ HTTPS-ի միջոցով
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name }-ը չի օգտագործում անվտանգ DNS այս կայքերում և դրա ենթատիրույթներում:
+permissions-doh-entry-field = Մուտքագրեք վեբ-կայքի տիրույթի անունը
+    .accesskey = տ
+permissions-doh-col =
+    .label = Տիրույթ
+permissions-doh-remove =
+    .label = Հեռացնել
+    .accesskey = R
+permissions-doh-remove-all =
+    .label = Հեռացնել բոլորը
+    .accesskey = e

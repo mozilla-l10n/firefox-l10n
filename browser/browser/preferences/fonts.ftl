@@ -4,7 +4,6 @@
 
 fonts-window =
     .title = Տառատեսակներ
-
 fonts-window-close =
     .key = w
 
@@ -12,7 +11,6 @@ fonts-window-close =
 
 fonts-langgroup-header = Տառատեսակներ
     .accesskey = F
-
 fonts-langgroup-arabic =
     .label = Արաբերեն
 fonts-langgroup-armenian =
@@ -26,7 +24,7 @@ fonts-langgroup-trad-chinese-hk =
 fonts-langgroup-trad-chinese =
     .label = Ավանդական Չիներեն (Թայվան)
 fonts-langgroup-cyrillic =
-    .label = Կիրիլյան
+    .label = Կիրիլիցա
 fonts-langgroup-devanagari =
     .label = Դևանագարի
 fonts-langgroup-ethiopic =
@@ -57,7 +55,7 @@ fonts-langgroup-malayalam =
 fonts-langgroup-math =
     .label = Մաթեմատիկա
 fonts-langgroup-odia =
-    .label = Odia
+    .label = Օրիա
 fonts-langgroup-sinhala =
     .label = Սինգալյան
 fonts-langgroup-tamil =
@@ -77,37 +75,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Համամասնական
     .accesskey = P
-
 fonts-default-serif =
     .label = Հստակ
 fonts-default-sans-serif =
     .label = Գծիկավոր
-
 fonts-proportional-size = Չափը
     .accesskey = z
-
 fonts-serif = Հստակ
     .accesskey = S
-
 fonts-sans-serif = Հստակ-գծիկավոր
     .accesskey = n
-
 fonts-monospace = Monospace
     .accesskey = M
-
 fonts-monospace-size = Չափը
     .accesskey = ի
-
 fonts-minsize = Տառատեսակի նվազագույն չափ
     .accesskey = o
-
 fonts-minsize-none =
     .label = Չնշված
-
 fonts-allow-own =
     .label = Էջերին թույլատրել օգտագործել իրենց սեփական տառատեսակները
     .accesskey = Է
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

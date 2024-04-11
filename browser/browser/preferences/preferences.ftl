@@ -3,11 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Ուղարկել կայքերին “Չհետագծել“ ազդանշանը, որ դուք չեք ցանկանում հետագծվել
+do-not-track-description2 =
+    .label = Կայքերին ուղարկել «Չհետևել» հարցումը
+    .accesskey = d
 do-not-track-learn-more = Իմանալ ավելին
 do-not-track-option-default-content-blocking-known =
     .label = Միայն երբ { -brand-short-name }-ը սահմանված է արգելափակել հայտնի վնասները։
 do-not-track-option-always =
     .label = Միշտ
+global-privacy-control-description =
+    .label = Կայքերին հաղորդել, որ չտարածեն և չվաճառեն իմ տվյալները
+    .accesskey = չ
+non-technical-privacy-header = Կայքի գաղտնիության նախընտրանքներ
+settings-page-title = Կարգավորումներ
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -20,6 +28,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Գտնել կարգավորումներում
 managed-notice = Ձեր զննիչը կառավարում է ձեր կազմակերպութունը։
+managed-notice-info-icon =
+    .alt = Տեղեկություն
 pane-general-title = Ընդհանուր
 category-general =
     .tooltiptext = { pane-general-title }
@@ -38,6 +48,9 @@ category-experimental =
     .tooltiptext = { -brand-short-name } Փորձեր
 pane-experimental-subtitle = Շարունակեք զգուշորեն
 pane-experimental-search-results-header = { -brand-short-name }-ի փորձեր. զգուշությամբ շարունակեք
+pane-experimental-reset =
+    .label = Վերականգնել սկզբնադիրը
+    .accesskey = R
 help-button-label = { -brand-short-name }-ի աջակցում
 addons-button-label = Ընդլայնումներ և Ոճեր
 focus-search =
@@ -64,6 +77,9 @@ restart-later = Վերամեկնարկել հետո
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = <img data-l10n-name="icon"/> <strong>{ $name }-ը</strong> կառավարում է, թե ինչպես { -brand-short-name }-ը միանա համացանցին:
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -90,10 +106,18 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Բացել նախորդ պատուհանները և ներդիրները
     .accesskey = s
+windows-launch-on-login =
+    .label = Բացել { -brand-short-name }-ն ինքնաբերաբար, երբ Ձեր համակարգիչը մեկնարկում է
+    .accesskey = Բ
 startup-restore-warn-on-quit =
     .label = Զգուշացնել ինձ դիտարկիչը փակելիս:
 disable-extension =
     .label = Անջատել ընդլայնումը
+preferences-data-migration-header = Ներմուծել դիտարկիչի տվյալները
+preferences-data-migration-description = Ներմուծեք էջանիշները, գաղտնաբառերը, պատմությունը և ինքնալրացման տվյալները { -brand-short-name }-ի մեջ:
+preferences-data-migration-button =
+    .label = Ներմուծել տվյալները
+    .accesskey = մ
 tabs-group-header = Ներդիրներ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab՝ պտտվում է ներդիրների միջև՝ ըստ վերջին օգտագործածի
@@ -185,6 +209,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Դիտափոխել միայն գրվածքը
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Զգուշացում. Եթե ընտրեք «Դիտափոխել միայն գրվածքը» և Ձեր լռելյայն դիտափոխումը դրված չէ 100%, այն կարող է հանգեցնել որոշ կայքերի կամ բովանդակության խոտանի:
 language-header = Լեզուն
 choose-language-description = Ընտրեք ձեր նախընտրելի լեզուն՝ էջերը ցուցադրելու համար
 choose-button =
@@ -199,6 +225,7 @@ confirm-browser-language-change-button = Գործադրել և վերամեկն�
 translate-web-pages =
     .label = Թարգմանել բովանդակությունը
     .accesskey = Թ
+fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Թարգմանել է՝ <img data-l10n-name="logo"/>
@@ -345,6 +372,7 @@ update-application-warning-cross-user-setting = Այս կարգավորումը 
 update-application-use-service =
     .label = Թարմացումները տեղադրելիս օգտվել խորքային ծառայությունից
     .accesskey = խ
+update-setting-write-failure-title2 = Թարմացման կարգավորումների պահպանման սխալ
 update-in-progress-title = Արդիացվում է
 update-in-progress-message = Ցանկանո՞ւմ եք,որ { -brand-short-name }-ը շարունակի այս արդիացմամբ:
 update-in-progress-ok-button = &Հրաժարվել
@@ -381,6 +409,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Օգտագործել կոկիկ թերթումը
     .accesskey = ո
+browsing-always-underline-links =
+    .label = Միշտ ընդգծել հղումները
+    .accesskey = ը
 browsing-use-onscreen-keyboard =
     .label = Անհրաժեշտության դեպքում ցուցադրել հպաստեղնաշարը
     .accesskey = հ

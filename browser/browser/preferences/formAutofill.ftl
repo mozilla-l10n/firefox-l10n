@@ -7,27 +7,37 @@
 
 autofill-manage-addresses-title = Պահպանված հասցեներ
 autofill-manage-addresses-list-header = Հասցեներ
-
 autofill-manage-credit-cards-title = Պահպանված բանկային քարտեր
 autofill-manage-credit-cards-list-header = Բանկային քարտեր
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Հեռացնել
 autofill-manage-add-button = Ավելացնել…
 autofill-manage-edit-button = Խմբագրել…
 
-##
+## The address capture doorhanger
 
+address-capture-cancel-button =
+    .label = Չեղարկել
+    .accessKey = C
+address-capture-manage-address-button =
+    .label = Հասցեի կարգավորումներ
+address-capture-learn-more-button =
+    .label = Իմանալ ավելին
+address-capture-open-menu-button =
+    .aria-label = Բացել ցանկը
+address-capture-edit-address-button =
+    .aria-label = Խմբագրել հասցեն
 # The dialog title for creating addresses in browser preferences.
-autofill-add-new-address-title = Ավելացնել նոր հասցե
+autofill-add-address-title = Ավելացնել հասցե
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Խմբագրել հասցեն
-
+autofill-address-name = Անուն
 autofill-address-given-name = Անուն
 autofill-address-additional-name = Հայրանուն
 autofill-address-family-name = Ազգանուն
 autofill-address-organization = Կազմակերպություն
+autofill-address-street-address = Փողոցի հասցե
 autofill-address-street = Հասցե
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +91,22 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
+# The dialog title for creating addresses in browser preferences.
+autofill-add-new-address-title = Ավելացնել նոր հասցե
 autofill-address-country = Երկիր կամ տարածաշրջան
+autofill-address-country-only = Երկիր
 autofill-address-tel = Հեռախոս
 autofill-address-email = Էլ. փոստ
-
 autofill-cancel-button = Չեղարկել
 autofill-save-button = Պահպանել
 autofill-country-warning-message = Ինքնալրացման ձևը այժմ մատչելի է միայն որոշ երկրների համար:
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Ավելացնել նոր բանկային քարտ
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Խմբագրել բանկային քարտը
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +115,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name }-ը փորձում է ցուցադրել վարկային քարտի տեղեկություն։ Հաստատեք ստորև այս պատուհանների էջի մատչումը։
        *[other] { -brand-short-name }-ը փորձում է ցցուցադրել բանկային քարտի տեղեկությունը։
     }
-
 autofill-card-number = Քատի համարը
 autofill-card-invalid-number = Մուտքագրեք ճիշտ քարտի համար
 autofill-card-name-on-card = Անունը քարտի վրա
