@@ -1179,7 +1179,7 @@ permissions-block-popups =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = الاستثناءات…
-    .accesskey = س
+    .accesskey = ت
     .searchkeywords = popups
 permissions-addon-install-warning =
     .label = حذّرني عندما يحاول موقع وِب تثبيت إضافات
