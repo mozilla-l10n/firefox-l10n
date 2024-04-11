@@ -108,34 +108,34 @@ addon-confirm-install-message =
     }
 addon-confirm-install-unsigned-message =
     { $addonCount ->
-        [one] Застереження: Цей сайт збирається встановити { $addonCount } неперевірений додаток в { -brand-short-name }. Продовжуйте на свій ризик.
-        [few] Застереження: Цей сайт збирається встановити { $addonCount } неперевірені додатки в { -brand-short-name }. Продовжуйте на свій ризик.
-       *[many] Застереження: Цей сайт збирається встановити { $addonCount } неперевірених додатків у { -brand-short-name }. Продовжуйте на свій ризик.
+        [one] Застереження! Цей сайт збирається встановити { $addonCount } неперевірений додаток в { -brand-short-name }. Продовжуйте на свій ризик.
+        [few] Застереження! Цей сайт збирається встановити { $addonCount } неперевірені додатки в { -brand-short-name }. Продовжуйте на свій ризик.
+       *[many] Застереження! Цей сайт збирається встановити { $addonCount } неперевірених додатків у { -brand-short-name }. Продовжуйте на свій ризик.
     }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message =
     { $addonCount ->
-        [one] Застереження: Цей сайт збирається встановити { $addonCount } неперевірений додаток в { -brand-short-name }. Продовжуйте на свій ризик.
-        [few] Застереження: Цей сайт збирається встановити { $addonCount } додатки в { -brand-short-name }, деякі з яких є неперевіреними. Продовжуйте на свій ризик.
-       *[many] Застереження: Цей сайт збирається встановити { $addonCount } додатків у { -brand-short-name }, деякі з яких є неперевіреними. Продовжуйте на свій ризик.
+        [one] Застереження! Цей сайт збирається встановити { $addonCount } неперевірений додаток в { -brand-short-name }. Продовжуйте на свій ризик.
+        [few] Застереження! Цей сайт збирається встановити { $addonCount } додатки в { -brand-short-name }, деякі з яких є неперевіреними. Продовжуйте на свій ризик.
+       *[many] Застереження! Цей сайт збирається встановити { $addonCount } додатків у { -brand-short-name }, деякі з яких є неперевіреними. Продовжуйте на свій ризик.
     }
 
 ## Add-on install errors
 ## Variables:
 ##   $addonName (String): the add-on name.
 
-addon-install-error-network-failure = Додаток не може бути завантажений через збій з'єднання.
-addon-install-error-incorrect-hash = Додаток не може бути встановлений, тому що він не відповідає додатку, очікуваному { -brand-short-name }.
+addon-install-error-network-failure = Не вдалося завантажити цей додаток через збій з'єднання.
+addon-install-error-incorrect-hash = Не вдалося встановити цей додаток, оскільки він не відповідає очікуваному додатку { -brand-short-name }.
 addon-install-error-corrupt-file = Неможливо встановити завантажений з цього сайту додаток, тому що він, ймовірно, пошкоджений.
 addon-install-error-file-access = { $addonName } не вдалося встановити, тому що { -brand-short-name } не може змінити необхідний файл.
 addon-install-error-not-signed = { -brand-short-name } заблокував встановлення неперевіреного додатка з цього сайту.
 addon-install-error-invalid-domain = Неможливо встановити додаток { $addonName } звідси.
 addon-local-install-error-network-failure = Цей додаток не вдалося встановити через помилку файлової системи.
-addon-local-install-error-incorrect-hash = Цей додаток не вдалося встановити, тому що він не відповідає додатку, очікуваному { -brand-short-name }.
+addon-local-install-error-incorrect-hash = Не вдалося встановити цей додаток, оскільки він не відповідає очікуваному додатку { -brand-short-name }.
 addon-local-install-error-corrupt-file = Неможливо встановити цей додаток, тому що він, ймовірно, пошкоджений.
 addon-local-install-error-file-access = { $addonName } не вдалося встановити, тому що { -brand-short-name } не може змінити необхідний файл.
-addon-local-install-error-not-signed = Цей додаток не може бути встановлений, тому що він не був перевірений.
+addon-local-install-error-not-signed = Не вдалося встановити цей додаток, оскільки його не було перевірено.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } не вдалося встановити через його несумісність з { -brand-short-name } { $appVersion }.
