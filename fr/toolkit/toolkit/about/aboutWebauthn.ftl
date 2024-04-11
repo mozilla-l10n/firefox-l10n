@@ -13,6 +13,7 @@ about-webauthn-page-title = À propos de WebAuthn
 
 about-webauthn-info-section-title = Informations de l’appareil
 about-webauthn-info-subsection-title = Informations sur l’authentificateur
+about-webauthn-options-subsection-title = Options de l’authentificateur
 about-webauthn-pin-section-title = Gestion du code PIN
 about-webauthn-credential-management-section-title = Gérer les informations d’authentification
 about-webauthn-pin-required-section-title = Code PIN requis
@@ -95,6 +96,7 @@ about-webauthn-auth-option-bioenroll = Enregistrement biométrique
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Prototype d’enregistrement biométrique (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Autorisation d’enregistrement biométrique
+about-webauthn-auth-option-authnrcfg = Configuration de l’authentificateur
 about-webauthn-auth-option-credmgmt = Gestion des informations d’authentification
 about-webauthn-auth-option-setminpinlength = Définir la longueur minimale du code PIN
 # MakeCredential should not be translated.
@@ -132,13 +134,28 @@ about-webauthn-auth-info-null = Non pris en charge
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } échantillon est encore nécessaire.
+       *[other] { $repeatCount } échantillons sont encore nécessaires.
+    }
 # Scan (e.g. of fingerprint) was successful.
-about-webauthn-ctap2-enroll-feedback-good = Le prélèvement est valide.
+about-webauthn-ctap2-enroll-feedback-good = L’échantillon est valide.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
 
 ##
 
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Échec de fusion des échantillons.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = L’échantillon existe déjà.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Aucune activité de l’utilisateur.
-about-webauthn-ctap2-enroll-feedback-other = Erreur de prélèvement.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = L’utilisateur n’a pas prélevé l’échantillon comme prévu.
+about-webauthn-ctap2-enroll-feedback-other = Erreur d’échantillon.
