@@ -28,6 +28,7 @@ return-to-amo-add-theme-label = Ավելացնել ոճ
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Ասեք ողջույն { -brand-short-name }-ին
 mr1-return-to-amo-add-extension-label = Ավելացնել { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
