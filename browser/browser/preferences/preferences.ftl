@@ -546,6 +546,9 @@ search-suggestions-desc = Ընտրեք, թե ինչպես են որոնման ա
 search-suggestions-option =
     .label = Ցուցադրել որոնման հուշումներ
     .accesskey = ո
+search-show-suggestions-option =
+    .label = Ցուցադրել որոնման առաջարկները
+    .accesskey = S
 search-show-suggestions-url-bar-option =
     .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդյունքներում
     .accesskey = l
@@ -586,6 +589,8 @@ search-keyword-warning-bookmark = Դուք ընտրեցիք հիմնաբառ, ո
 
 ## Containers Section
 
+containers-back-button2 =
+    .aria-label = Վերադառնալ կարգավորումներին
 containers-header = Պարունակ ներդիրներ
 containers-add-button =
     .label = Ավելացել նոր պարունակ
@@ -593,6 +598,8 @@ containers-add-button =
 containers-new-tab-check =
     .label = Ընտրեք պարունակ յուրաքանչյուր նոր ներդիրի համար
     .accesskey = S
+containers-settings-button =
+    .label = Կարգավորումներ
 containers-remove-button =
     .label = Հեռացնել
 
@@ -669,8 +676,10 @@ sync-currently-syncing-bookmarks = Էջանիշեր
 sync-currently-syncing-history = Պատմություն
 sync-currently-syncing-tabs = Բաց ներդիրներ
 sync-currently-syncing-logins-passwords = Մուտքանուններ և գաղտնաբառեր
+sync-currently-syncing-passwords = Գաղտնաբառեր
 sync-currently-syncing-addresses = Հասցեներ
 sync-currently-syncing-creditcards = Բանկային քարտեր
+sync-currently-syncing-payment-methods = Վճարամիջոցներ
 sync-currently-syncing-addons = Հավելումներ
 sync-currently-syncing-settings = Կարգավորումներ
 sync-change-options =
@@ -700,6 +709,10 @@ sync-engine-logins-passwords =
     .label = Մուտքանուններ և գաղտնաբառեր
     .tooltiptext = Ձեր պահպանած օգտվողի անուններ և գաղտնաբառեր
     .accesskey = L
+sync-engine-passwords =
+    .label = Գաղտնաբառեր
+    .tooltiptext = Ձեր կողմից պահված գաղտնաբառերը
+    .accesskey = P
 sync-engine-addresses =
     .label = Հասցեներ
     .tooltiptext = Փոստային հասցեներ, որոնք դուք պահպանել եք (միայն դեսքթոփում)
@@ -757,18 +770,32 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Գաղտնաբառեր
+    .searchkeywords = մուտքեր
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Խնդրել գաղտնաբառների պահպանում
+    .accesskey = Խ
 forms-exceptions =
     .label = Բացառություններ…
     .accesskey = ա
 forms-generate-passwords =
     .label = Առաջարկեք և ստեղծեք ուժեղ գաղտնաբառեր
     .accesskey = u
+forms-suggest-passwords =
+    .label = Առաջարկել ուժեղ գաղտնաբառեր
+    .accesskey = Ա
 forms-breach-alerts =
     .label = Ցուցադրել զգուշացումներ խախտված վեբ կայքերի գաղտնաբառերի մասին
     .accesskey = b
 forms-breach-alerts-learn-more-link = Իմանալ ավելին
 preferences-relay-integration-checkbox =
     .label = Առաջարկեում է { -relay-brand-name } էլ. փոստի դիմակներ՝ պաշտպանելու ձեր էլ. փոստի հասցեն
+preferences-relay-integration-checkbox2 =
+    .label = Առաջարկել { -relay-brand-name }-ին էլ. փոստի դիմակներ՝ Ձեր էլ. հասցեն պաշտպանելու համար
+    .accesskey = r
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Մուտքանունների և գաղտնաբառերի ինքնալցում
@@ -776,6 +803,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Պահված մուտքանուններ...
     .accesskey = մ
+forms-saved-passwords =
+    .label = Պահված գաղտնաբառեր
+    .accesskey = d
 forms-primary-pw-use =
     .label = Հիմնական գաղտնաբառի օգտագործում
     .accesskey = U
@@ -796,6 +826,7 @@ forms-primary-pw-former-name = Նախկինում հայտնի էր որպես �
 forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխությունը Չհաջողվեց
 forms-windows-sso =
     .label = Թույլատրել Windows եզակի գրանցում Microsoft-ում, աշխատանքային և դպրոցական հաշիվներում:
+forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 
 ## OS Authentication dialog
@@ -811,6 +842,9 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+pane-privacy-autofill-header = Ինքնալրացում
+autofill-saved-addresses-button = Պահված հասցեներ
+    .accesskey = Պ
 
 ## Privacy Section - History
 
@@ -1148,7 +1182,13 @@ preferences-doh-setting-strict =
     .accesskey = M
 preferences-doh-strict-desc = { -brand-short-name }-ը միշտ կօգտագործի անվտանգ DNS: Դուք կտեսնեք անվտանգության վտանգի զգուշացում մինչև մենք կօգտագործենք ձեր համակարգային DNS-ը:
 preferences-doh-strict-detailed-desc-1 = Օգտագործել միայն ձեր ընտրած մատակարարին
+preferences-doh-setting-off =
+    .label = Անջատել
+    .accesskey = Ա
 preferences-doh-off-desc = Օգտագործել ձեր սկզբնադիր DNS լուծումը
+preferences-doh-checkbox-warn =
+    .label = Զգուշացնել, եթե երրորդ կողմն ակտիվորեն կանխում է անվտանգ DNS-ը
+    .accesskey = Զ
 preferences-doh-select-resolver = Ընտրել մատակարարին՝
 preferences-doh-exceptions-description = { -brand-short-name }-ը չի օգտագործում անվտանգ DNS այս կայքերում
 preferences-doh-manage-exceptions =

@@ -4,15 +4,13 @@
 
 sidebar-menu-bookmarks =
     .label = Էջանիշեր
-
 sidebar-menu-history =
     .label = Պատմություն
-
 sidebar-menu-synced-tabs =
     .label = Համաժամեցված ներդիրներ
-
+sidebar-menu-megalist =
+    .label = Գաղտնաբառեր
 sidebar-menu-close =
     .label = Փակել կողավահանակը
-
 sidebar-close-button =
     .tooltiptext = Փակել կողավահանակը
