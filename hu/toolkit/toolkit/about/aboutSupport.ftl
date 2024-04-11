@@ -437,3 +437,6 @@ pointing-device-none = Nincsenek mutatóeszközök
 content-analysis-title = Tartalomelemzés (DLP)
 content-analysis-active = Aktív
 content-analysis-connected-to-agent = Kapcsolódva az ügynökhöz
+content-analysis-agent-path = Ügynök útvonala
+content-analysis-agent-failed-signature-verification = Az ügynök nem ment át az aláírás-ellenőrzésen
+content-analysis-request-count = Kérések száma

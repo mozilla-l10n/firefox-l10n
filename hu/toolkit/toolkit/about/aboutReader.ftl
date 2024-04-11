@@ -4,7 +4,6 @@
 
 about-reader-loading = Betöltés…
 about-reader-load-error = A cikk betöltése sikertelen az oldalról
-
 about-reader-color-scheme-light = Világos
     .title = Világos színséma
 about-reader-color-scheme-dark = Sötét
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Szépia
     .title = Szépia színséma
 about-reader-color-scheme-auto = Automatikus
     .title = Automatikus színséma
-
+about-reader-color-theme-light = Világos
+    .title = Világos színű téma
+about-reader-color-theme-dark = Sötét
+    .title = Sötét színű téma
+about-reader-color-theme-sepia = Szépia
+    .title = Szépia színű téma
+about-reader-color-theme-auto = Automatikus
+    .title = Automatikus színű téma
+about-reader-color-theme-gray = Szürke
+    .title = Szürke színű téma
+about-reader-color-theme-contrast = Kontrasztos
+    .title = Kontrasztos színű téma
+about-reader-color-theme-custom = Egyéni színek
+    .title = Egyéni színeket használó téma
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -49,4 +61,27 @@ about-reader-font-type-sans-serif = Talpatlan
 
 about-reader-toolbar-close = Olvasó nézet bezárása
 about-reader-toolbar-type-controls = Szövegbeállítások
+about-reader-toolbar-color-controls = Színek
 about-reader-toolbar-savetopocket = Mentés a { -pocket-brand-name }be
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Téma
+about-reader-fxtheme-tab = Alapértelmezett
+about-reader-customtheme-tab = Egyéni
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Szöveg
+    .title = Szín szerkesztése
+about-reader-custom-colors-background = Háttér
+    .title = Szín szerkesztése
+about-reader-custom-colors-unvisited-links = Nem látogatott hivatkozások
+    .title = Szín szerkesztése
+about-reader-custom-colors-visited-links = Látogatott hivatkozások
+    .title = Szín szerkesztése
+about-reader-custom-colors-selection-highlight = Kiemelő a felolvasáshoz
+    .title = Szín szerkesztése
+about-reader-custom-colors-reset-button = Alapértelmezések visszaállítása
