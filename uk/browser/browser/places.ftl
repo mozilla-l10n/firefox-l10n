@@ -99,7 +99,7 @@ places-delete-page =
            *[other] Видалити сторінки
         }
     .accesskey = В
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Керовані закладки
 # This label is used when a managed bookmarks folder doesn't have a name.
@@ -245,7 +245,7 @@ places-forward-button =
     .tooltiptext = Перейти вперед
 places-details-pane-select-an-item-description = Додати елемент до перегляду та редагувати його властивості
 places-details-pane-no-items =
-    .value = Жодного елементу
+    .value = Немає елементів
 # Variables:
 #   $count (Number): number of items
 places-details-pane-items-count =
