@@ -50,7 +50,7 @@ browser-main-window-mac-window-titles =
 browser-main-window-title = { -brand-full-name }
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
-private-browsing-shortcut-text-2 = { -brand-shortcut-name } գաղտնի զննարկում
+private-browsing-shortcut-text-2 = { -brand-shortcut-name } գաղտնի դիտարկում
 
 ##
 
@@ -90,7 +90,7 @@ urlbar-password-notification-anchor =
 urlbar-plugins-notification-anchor =
     .tooltiptext = Կառավարել բաղադրիչների օգտագործումը
 urlbar-web-rtc-share-devices-notification-anchor =
-    .tooltiptext = Կառավարել խցիկի և/կամ բարձրախոսի համօգտագործումը այս կայքի հետ
+    .tooltiptext = Կառավարել Ձեր տեսախցիկի և/կամ խոսափողի համօգտագործումը այս կայքով
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
 urlbar-web-rtc-share-speaker-notification-anchor =
