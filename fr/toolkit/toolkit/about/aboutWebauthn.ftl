@@ -120,6 +120,7 @@ about-webauthn-auth-info-min-pin-length = Taille minimale du code PIN
 about-webauthn-auth-info-force-pin-change = Forcer le changement du code PIN
 about-webauthn-auth-info-algorithms = Algorithmes
 about-webauthn-auth-info-transports = Protocoles de transport
+about-webauthn-auth-info-max-credential-id-length = Longueur maximale des identifiants pour les informations d’authentification
 about-webauthn-auth-info-pin-protocols = Protocoles du code PIN
 about-webauthn-auth-info-max-msg-size = Taille maximale des messages
 # AAGUID should not be translated.
@@ -149,9 +150,19 @@ about-webauthn-ctap2-enroll-feedback-good = L’échantillon est valide.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = L’échantillon a été prélevé trop haut.
+about-webauthn-ctap2-enroll-feedback-too-low = L’échantillon a été prélevé trop bas.
+about-webauthn-ctap2-enroll-feedback-too-left = L’échantillon a été prélevé trop à gauche.
+about-webauthn-ctap2-enroll-feedback-too-right = L’échantillon a été prélevé trop à droite.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = L’échantillon a été prélevé trop rapidement.
+about-webauthn-ctap2-enroll-feedback-too-slow = L’échantillon a été prélevé trop lentement.
+about-webauthn-ctap2-enroll-feedback-poor-quality = L’échantillon est de mauvaise qualité.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = L’échantillon est trop déformé.
+about-webauthn-ctap2-enroll-feedback-too-short = L’échantillon est trop court.
 # Scan (e.g. of fingerprint) couldn't be merged with previous samples.
 about-webauthn-ctap2-enroll-feedback-merge-failure = Échec de fusion des échantillons.
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
