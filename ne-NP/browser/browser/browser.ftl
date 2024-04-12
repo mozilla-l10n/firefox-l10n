@@ -393,18 +393,6 @@ browser-tab-audio-pip = चित्र-भित्र-चित्र
 ## Variables:
 ##  $count (number): number of affected tabs
 
-browser-tab-mute =
-    { $count ->
-        [1] म्यूट ट्याब
-        [one] म्यूट { $count } ट्याबहरू
-       *[other] { "" }
-    }
-browser-tab-unmute =
-    { $count ->
-        [1] ट्याब अनम्यूट गर्नुहोस्
-        [one] { $count } ट्याबहरू अनम्यूट गर्नुहोस्
-       *[other] { "" }
-    }
 
 ## Bookmarks toolbar items
 
