@@ -282,3 +282,4 @@ appmenuitem-sign-in-account = Kevreit ouzh ho kont
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Gwarezit hoc’h oberiantiz enlinenn
