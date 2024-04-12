@@ -61,7 +61,7 @@ detail-update-manual =
 detail-private-browsing-label = نجی ونڈوز وِچ چلاؤ
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
-detail-private-disallowed-label = نجی ونڈوز میں اجازت کائنی
+detail-private-disallowed-label = نجی ونڈوز وچ اجازت کائنی
 detail-private-disallowed-description2 = نجی براؤزنگ دے دوران ایہ ایکسٹینشن نہیں چلدی۔ <a data-l10n-name="learn-more">ودھیک ڄاݨو</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = نجی ونڈوز تائیں رسائی دی ضرورت ہے۔
