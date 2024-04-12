@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Próbáljon egy 32 700 képpontosnál kise
 screenshots-component-retry-button =
     .title = Képernyőkép újbóli elkészítése
     .aria-label = Képernyőkép újbóli elkészítése
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Mégse (Esc)
+           *[other] Mégse (Esc)
+        }
+    .aria-label = Mégse
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Másolás ({ $shortcut })
+    .aria-label = Másolás
 screenshots-component-copy-button-label = Másolás
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Letöltés ({ $shortcut })
+    .aria-label = Letöltés
 screenshots-component-download-button-label = Letöltés
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
