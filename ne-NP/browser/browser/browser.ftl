@@ -131,15 +131,25 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = कम टाइप गर्नुहोस्, थप खोज्नुहोस्: खोज्नुहोस् { $engineName } आफ्नो ठेगाना पट्टीबाट।
 urlbar-search-tips-redirect-2 = { $engineName } र तपाईंको ब्राउजिङ इतिहासबाट सुझावहरू हेर्नको लागि ठेगाना पट्टीमा आफ्नो खोज सुरु गर्नुहोस्।
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = खोजी अझ सरल भयो। यहाँ ठेगाना पट्टी मा आफ्नो खोज थप विशिष्ट बनाउन प्रयास गर्नुहोस्। यसको सट्टा URL देखाउन, सेटिङहरूमा खोजमा जानुहोस्।
+# Prompts users to use the Urlbar when they are typing in the domain of a
+# search engine, e.g. google.com or amazon.com.
+urlbar-tabtosearch-onboard = तपाईलाई के चाहिन्छ छिटो फेला पार्न यो सर्टकट चयन गर्नुहोस्।
 
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = बुकमार्कहरु
+urlbar-search-mode-tabs = ट्याबहरू
+urlbar-search-mode-history = इतिहास
+urlbar-search-mode-actions = कार्य
 
 ##
 
 urlbar-geolocation-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि स्थान जानकारी अवरुद्ध गर्नु भएको छ।
+urlbar-xr-blocked =
+    .tooltiptext = तपाईंले यस वेबसाइटको लागि भर्चुअल वास्तविकता उपकरण पहुँच अवरुद्ध गर्नुभएको छ।
 urlbar-web-notifications-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ।
 urlbar-camera-blocked =
@@ -152,10 +162,14 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ।
 urlbar-popup-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि पपअप अवरुद्ध गर्नु भएको छ|
+urlbar-autoplay-media-blocked =
+    .tooltiptext = तपाईंले यस वेबसाइटको लागि ध्वनिको साथ स्वत: प्ले मिडिया अवरुद्ध गर्नुभएको छ।
 urlbar-canvas-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि क्यानभस डाटाको निकास अवरुद्ध गर्नु भएको छ।
 urlbar-midi-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि MIDI अवरुद्ध गर्नु भएको छ।
+urlbar-install-blocked =
+    .tooltiptext = तपाईंले यस वेबसाइटको लागि एड-अन स्थापना ब्लक गर्नुभएको छ।
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -167,6 +181,12 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
+page-action-manage-extension2 =
+    .label = एक्स्टेनसन व्यवस्थित गर्नुहोस्…
+    .accesskey = E
+page-action-remove-extension2 =
+    .label = एक्स्टेन्सन हटाउनुहोस्
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -179,6 +199,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of search shortcuts in
+# the Urlbar and searchbar.
+search-one-offs-with-title = यो पटक, यो सङ्ग खोजी गर्नुहोस्:
 search-one-offs-change-settings-compact-button =
     .tooltiptext = खोज सेटिङ परिवर्तन गर्नुहोस्
 search-one-offs-context-open-new-tab =
@@ -187,6 +210,23 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = पूर्वनिर्धारित खोजी इन्जिन बनाउनुहोस्
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = निजी विन्डोजको लागि पूर्वनिर्धारित खोज इन्जिनको रूपमा सेट गर्नुहोस्
+    .accesskey = P
+# Search engine one-off buttons with an @alias shortcut/keyword.
+# Variables:
+#  $engineName (String): The name of the engine.
+#  $alias (String): The @alias shortcut/keyword.
+search-one-offs-engine-with-alias =
+    .tooltiptext = { $engineName } ({ $alias })
+# Shown when adding new engines from the address bar shortcut buttons or context
+# menu, or from the search bar shortcut buttons.
+# Variables:
+#  $engineName (String): The name of the engine.
+search-one-offs-add-engine =
+    .label = "{ $engineName }" थप्नुहोस्
+    .tooltiptext = "{ $engineName }" थप्नुहोस्
+    .aria-label = "{ $engineName }" थप्नुहोस्
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -205,11 +245,43 @@ search-one-offs-tabs =
     .tooltiptext = ट्याबहरू ({ $restrict })
 search-one-offs-history =
     .tooltiptext = इतिहास ({ $restrict })
+search-one-offs-actions =
+    .tooltiptext = कार्यहरू ({ $restrict })
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+# Opens the about:addons page in the home / recommendations section
+quickactions-addons = एड-अनहरू हेर्नुहोस्
+quickactions-cmd-addons2 = एड-अनहरु
+# Opens the bookmarks library window
+quickactions-bookmarks2 = बुकमार्कहरू प्रबन्ध गर्नुहोस्
+quickactions-cmd-bookmarks = बुकमार्कहरू
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = इतिहास हटाउनुहोस्
+quickactions-cmd-clearhistory = इतिहास हटाउनुहोस्
+# Opens about:downloads page
+quickactions-downloads2 = डाउनलोडहरू हेर्नुहोस्
+quickactions-cmd-downloads = डाउनलोडहरू
+# Opens about:addons page in the extensions section
+quickactions-extensions = विस्तारहरू प्रबन्ध गर्नुहोस्
+quickactions-cmd-extensions = विस्तारहरू
+# Opens the devtools web inspector
+quickactions-inspector2 = विकासकर्ता उपकरणहरू खोल्नुहोस्
+quickactions-cmd-inspector = निरीक्षक, devtools
+# Opens about:logins
+quickactions-logins2 = पासवर्डहरू प्रबन्ध गर्नुहोस्
+quickactions-cmd-logins = लगइनहरू, पासवर्डहरू
+# Opens about:addons page in the plugins section
+quickactions-plugins = प्लगिनहरू व्यवस्थापन गर्नुहोस्
+quickactions-cmd-plugins = प्लगइनहरू
+# Opens the print dialog
+quickactions-print2 = पृष्ठ छाप्नुहोस्
+quickactions-cmd-print = छाप्नुहोस्
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = पृष्ठ PDF को रूपमा बचत गर्नुहोस्
+quickactions-cmd-savepdf = pdf
 
 ## Bookmark Panel
 
@@ -249,7 +321,30 @@ identity-passive-loaded = यो पृष्ठको भागहरू सु
 identity-active-loaded = तपाईँले यो पृष्ठमा संरक्षण अक्षम गर्नुभएको छ।
 identity-weak-encryption = यो पेजले कमजोर इन्क्रिप्सन प्रयोग गर्छ।
 identity-insecure-login-forms = यस पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।
+identity-https-only-connection-upgraded = (upgraded to HTTPS)
+identity-https-only-label = HTTPS-मात्र मोड
+identity-https-only-label2 = यस साइटलाई स्वचालित रूपमा सुरक्षित जडानमा अपग्रेड गर्नुहोस्
+identity-https-only-dropdown-on =
+    .label = खुल्ला
+identity-https-only-dropdown-off =
+    .label = बन्द गर्नुहोस्
+identity-https-only-dropdown-off-temporarily =
+    .label = अस्थायी रूपमा बन्द
+identity-https-only-info-turn-on2 = यदि तपाइँ सम्भव भएमा जडान अपग्रेड गर्न { -brand-short-name } चाहनुहुन्छ भने यो साइटको लागि HTTPS-मात्र मोड खोल्नुहोस्।
+identity-https-only-info-turn-off2 = यदि पृष्ठ भाँचिएको देखिन्छ भने, तपाइँ असुरक्षित HTTP प्रयोग गरेर पुन: लोड गर्न यो साइटको लागि HTTPS-मात्र मोड बन्द गर्न सक्नुहुन्छ।
+identity-https-only-info-turn-on3 = यदि तपाइँ सम्भव भएसम्म जडान अपग्रेड गर्न { -brand-short-name } चाहनुहुन्छ भने यस साइटको लागि HTTPS अपग्रेडहरू खोल्नुहोस्।
+identity-https-only-info-turn-off3 = यदि पृष्ठ भाँचिएको देखिन्छ भने, तपाइँ असुरक्षित HTTP प्रयोग गरेर पुन: लोड गर्न यो साइटको लागि HTTPS अपग्रेडहरू बन्द गर्न सक्नुहुन्छ।
+identity-https-only-info-no-upgrade = HTTP बाट जडान अपग्रेड गर्न असमर्थ।
+identity-permissions-storage-access-header = क्रस-साइट कुकीहरू
+identity-permissions-storage-access-hint = तपाईं यस साइटमा हुँदा यी पक्षहरूले क्रस-साइट कुकीहरू र साइट डेटा प्रयोग गर्न सक्छन्।
+identity-permissions-storage-access-learn-more = अझ जान्नुहोस्
 identity-permissions-reload-hint = परिवर्तनहरू लागू हुन पेज पुनः लोड गर्नुहोस्
+identity-clear-site-data =
+    .label = कुकिजहरु र साइट डाटा हटाउनुहोस्…
+identity-connection-not-secure-security-view = तपाईं यस साइटमा सुरक्षित रूपमा जडान हुनुहुन्न।
+identity-connection-verified = तपाईं यस साइटमा सुरक्षित रूपमा जडान हुनुहुन्छ।
+identity-ev-owner-label = प्रमाणपत्र जारी गरिएको:
+identity-description-custom-root2 = मोजिलाले यो प्रमाणपत्र जारीकर्तालाई पहिचान गर्दैन। यो तपाइँको अपरेटिङ सिस्टम वा प्रशासक द्वारा थपिएको हुन सक्छ।
 identity-remove-cert-exception =
     .label = एक्सेप्सन हटाउनुहोस्
     .accesskey = R
@@ -276,16 +371,40 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = सानो गर्नुहोस्
+browser-window-maximize-button =
+    .tooltiptext = अधिकतम गर्नुहोस्
+browser-window-restore-down-button =
+    .tooltiptext = Restore Down
 browser-window-close-button =
     .tooltiptext = बन्द गर्नुहोस्
 
 ## Tab actions
 
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-playing2 = खेलिरहेको
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-muted2 = म्यूट गरिएको
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-blocked = अटोप्ले अवरुद्ध
+# This label should be written in all capital letters if your locale supports them.
+browser-tab-audio-pip = चित्र-भित्र-चित्र
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] म्यूट ट्याब
+        [one] म्यूट { $count } ट्याबहरू
+       *[other] { "" }
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ट्याब अनम्यूट गर्नुहोस्
+        [one] { $count } ट्याबहरू अनम्यूट गर्नुहोस्
+       *[other] { "" }
+    }
 
 ## Bookmarks toolbar items
 
