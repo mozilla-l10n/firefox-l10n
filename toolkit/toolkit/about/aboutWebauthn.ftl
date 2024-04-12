@@ -97,6 +97,7 @@ about-webauthn-auth-option-bioenroll = Enregistrement biométrique
 about-webauthn-auth-option-userverificationmgmtpreview = Prototype d’enregistrement biométrique (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Autorisation d’enregistrement biométrique
 about-webauthn-auth-option-authnrcfg = Configuration de l’authentificateur
+about-webauthn-auth-option-uvacfg = Autorisation de configuration d’un authentificateur
 about-webauthn-auth-option-credmgmt = Gestion des informations d’authentification
 about-webauthn-auth-option-setminpinlength = Définir la longueur minimale du code PIN
 # MakeCredential should not be translated.
