@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Velocità, sicurezza e privacy sempre garan
 default-browser-prompt-button-primary-alt = Imposta come browser predefinito
 default-browser-prompt-checkbox-not-again-label = Non mostrare di nuovo questo messaggio
 default-browser-prompt-button-secondary = Non adesso
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Imposta { -brand-short-name } come predefinito
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Passo 1: Apri Impostazioni > App predefinite
+    Passo 2: Vai a “Web browser”
+    Passo 3: Seleziona e scegli { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Passo 1: Apri Impostazioni > App predefinite
+    Passo 2: Seleziona “Imposta come predefinito” per { -brand-short-name }
+default-browser-guidance-notification-info-page = Mostrami come
+default-browser-guidance-notification-dismiss = Fatto
