@@ -281,5 +281,6 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = Kevreit ouzh ho kont
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Kuzhit ho chomlec’h postel hag ho niverenn bellgomz gwirion
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Gwarezit hoc’h oberiantiz enlinenn
