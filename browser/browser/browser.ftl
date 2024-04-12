@@ -5,6 +5,22 @@
 
 ## The main browser window's title
 
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } निजी ब्राउजिङ
+    .data-content-title-default = { $content-title }—{ -brand-full-name }
+    .data-content-title-private = { $content-title }—{ -brand-full-name } निजी ब्राउजिङ
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -453,6 +469,9 @@ tabs-toolbar-list-all-tabs =
     .tooltiptext = सब ट्याबहरूको सूचि बनाउनुहोस्
 
 ## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
