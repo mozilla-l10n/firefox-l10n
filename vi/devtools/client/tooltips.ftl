@@ -38,6 +38,11 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> không có tác d�
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó không cuộn.
 inactive-css-border-image = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó không thể được áp dụng cho phần tử bảng nội bộ khi <strong>border-collapse</strong> được đặt thành <strong>collapse</strong> trên bảng phần tử mẹ.
 inactive-css-ruby-element = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó là phần tử ruby. Kích thước của nó được xác định bởi kích thước phông chữ của văn bản ruby.
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain how
+## the problem can be solved.
+
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên pseudo-elements được tô sáng.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::cue pseudo-elements.
 # Variables:
@@ -47,9 +52,11 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> khôn
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
-## the problem can be solved.
+## the problem can be solved. CSS properties and values in <strong> tags should
+## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong> hoặc <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong> hoặc <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Hãy thử thêm <strong>column-count</strong> hoặc <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, hoặc <strong>display:inline-flex</strong> vào parent của phần tử. { learn-more }
