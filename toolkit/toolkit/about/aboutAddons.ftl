@@ -222,6 +222,9 @@ shortcuts-no-addons = تہاݙے کول کوئی ایکسٹینشن فعال ک�
 shortcuts-no-commands = ہیٹھ درج ایکسٹینشنز وِچ شارٹ کٹس کائنی:
 shortcuts-input =
     .placeholder = شارٹ کٹ ٹائپ کرو
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = شارٹ کٹ ہٹاؤ
 shortcuts-browserAction2 = ٹول بار دا بٹݨ فعال کرو
 shortcuts-pageAction = ورقے دا عمل فعال کرو
 shortcuts-sidebarAction = سائیڈ بار کوں ٹوگل کرو
