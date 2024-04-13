@@ -59,10 +59,12 @@ about-reader-font-type-sans-serif = سینس-سیرف
 
 about-reader-toolbar-close = ریڈر ویو بند کرو
 about-reader-toolbar-type-controls = کنٹرول ٹائپ کرو
+about-reader-toolbar-color-controls = رنگ
 about-reader-toolbar-savetopocket = { -pocket-brand-name } تے ہتھیکڑا کرو
 
 ## Reader View colors menu
 
+about-reader-colors-menu-header = تھیم
 about-reader-fxtheme-tab = ڈیفالٹ
 about-reader-customtheme-tab = مخصوص
 
@@ -70,3 +72,7 @@ about-reader-customtheme-tab = مخصوص
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-foreground = عبارت
+    .title = رنگ وچ تبدیلی کرو
+about-reader-custom-colors-background = بیک گراؤنڈ
+    .title = رنگ وچ تبدیلی کرو

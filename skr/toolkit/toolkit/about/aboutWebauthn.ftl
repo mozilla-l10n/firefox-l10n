@@ -8,6 +8,7 @@
 
 ## Section titles
 
+about-webauthn-info-section-title = ڈیوائس معلومات
 about-webauthn-pin-section-title = PIN  منیجمنٹ
 about-webauthn-credential-management-section-title = سنداں منیج کرو
 about-webauthn-pin-required-section-title = پن ضروری ہے
@@ -59,9 +60,17 @@ about-webauthn-auth-info-null = سہارا تھیا کائنی
 
 ## Bio enrollment sample feedbacks
 
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = نمونہ چنگا ہائی۔
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = نمونہ ٻہوں اُچا ہائی۔
+about-webauthn-ctap2-enroll-feedback-too-low = نمونہ ٻہوں جھکا ہائی۔
+about-webauthn-ctap2-enroll-feedback-too-left = نمونہ ٻہوں کھٻے پاسے ہائی۔
+about-webauthn-ctap2-enroll-feedback-too-right = نمونہ ٻہوں سڄے پاسے ہائی۔
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = نمونہ ٻہوں تکھا ہائی۔
+about-webauthn-ctap2-enroll-feedback-too-slow = نمونہ ٻہوں مَٹھا ہائی۔
