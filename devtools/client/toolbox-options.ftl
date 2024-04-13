@@ -41,6 +41,11 @@ options-inspector-draggable-properties-tooltip =
 # The label for the checkbox option to enable simplified highlighting on page elements
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Sử dụng công cụ tô sáng đơn giản hơn với prefers-reduced-motion
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Focus trường nhập tiếp theo khi nhấn <kbd>Enter</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Khi được bật, nhấn phím Enter khi chỉnh sửa bộ chọn, tên hoặc giá trị thuộc tính sẽ focus sang trường nhập tiếp theo.
 
 ## "Default Color Unit" options for the Inspector
 
@@ -51,6 +56,15 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Tên màu
+
+## Web Console section
+
+# The heading
+options-webconsole-label = Bảng điều khiển Web
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Bật bảng điều khiển chia tách
+options-webconsole-split-console-tooltip =
+    .title = Mở bảng điều khiển chia tách với phím Escape
 
 ## Style Editor section
 

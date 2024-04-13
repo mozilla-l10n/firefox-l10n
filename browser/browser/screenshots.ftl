@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Thử chọn vùng có cạnh dài nhất 
 screenshots-component-retry-button =
     .title = Thử chụp ảnh màn hình lại
     .aria-label = Thử chụp ảnh màn hình lại
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Hủy bỏ (esc)
+           *[other] Hủy bỏ (Esc)
+        }
+    .aria-label = Hủy bỏ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Sao chép ({ $shortcut })
+    .aria-label = Sao chép
 screenshots-component-copy-button-label = Sao chép
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Tải xuống ({ $shortcut })
+    .aria-label = Tải xuống
 screenshots-component-download-button-label = Tải xuống
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
