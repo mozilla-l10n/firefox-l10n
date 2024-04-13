@@ -74,3 +74,7 @@ about-webauthn-ctap2-enroll-feedback-too-right = نمونہ ٻہوں سڄے پا
 
 about-webauthn-ctap2-enroll-feedback-too-fast = نمونہ ٻہوں تکھا ہائی۔
 about-webauthn-ctap2-enroll-feedback-too-slow = نمونہ ٻہوں مَٹھا ہائی۔
+about-webauthn-ctap2-enroll-feedback-poor-quality = نمونہ گھٹایا ہائی۔
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = نمونے وچ کجھ کُٻ ہائی
+about-webauthn-ctap2-enroll-feedback-too-short = نمونہ ٻہوں مختصر ہائی۔
