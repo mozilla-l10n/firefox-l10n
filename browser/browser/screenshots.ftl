@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Mēģiniet atlasīt reģionu, kura garāk�
 screenshots-component-retry-button =
     .title = Atkal mēģināt uzņemt ekrānu
     .aria-label = Atkal mēģināt uzņemt ekrānu
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Atcelt (Esc)
+           *[other] Atcelt (Esc)
+        }
+    .aria-label = Atcelt
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Kopēt ({ $shortcut })
+    .aria-label = Kopēt
 screenshots-component-copy-button-label = Kopēt
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Lejupielādēt ({ $shortcut })
+    .aria-label = Lejupielādēt
 screenshots-component-download-button-label = Lejupielādēt
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
