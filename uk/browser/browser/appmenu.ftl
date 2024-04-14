@@ -221,7 +221,7 @@ appmenu-recently-closed-windows =
     .label = Недавно закриті вікна
 # This allows to search through the browser's history.
 appmenu-search-history =
-    .label = Історія пошуку
+    .label = Шукати в історії
 
 ## Help panel
 
