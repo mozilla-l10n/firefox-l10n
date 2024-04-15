@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = Always open email links 
 protocolhandler-mailto-handler-yes-confirm = { $url } is now your default site for opening links that send email.
 protocolhandler-mailto-handler-set-message = Use <strong>{ $url } in { -brand-short-name }</strong> every time you click a link that opens your email?
 protocolhandler-mailto-handler-confirm-message = <strong>{ $url } in { -brand-short-name }</strong> is now your computer’s default email handler.
+protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } will open { $url }</strong> every time you click a link that sends email.
 
 ##
 
