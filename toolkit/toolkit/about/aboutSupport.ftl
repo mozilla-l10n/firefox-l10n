@@ -310,6 +310,7 @@ has-user-namespaces = מרחב שמות משתמש
 has-privileged-user-namespaces = מרחב שמות משתמש לתהליכים מורשים
 can-sandbox-content = ארגז חול לתהליכי תוכן
 can-sandbox-media = ארגז חול לתוספים חיצוניים עבור מדיה
+support-sandbox-gpu-level = רמת ארגז חול של תהליך GPU
 sandbox-proc-type-content = תוכן
 sandbox-proc-type-file = תוכן קובץ
 sandbox-proc-type-media-plugin = תוסף מדיה
@@ -382,3 +383,15 @@ pointing-device-mouse = עכבר
 pointing-device-touchscreen = מסך מגע
 pointing-device-pen-digitizer = לוח כתיבה אלקטרוני
 pointing-device-none = אין התקני הצבעה
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = ניתוח תוכן (DLP)
+content-analysis-active = פעיל
+content-analysis-connected-to-agent = מחובר לסוכן
+content-analysis-agent-path = נתיב הסוכן
+content-analysis-agent-failed-signature-verification = הסוכן נכשל באימות חתימה
+content-analysis-request-count = ספירת הבקשות
