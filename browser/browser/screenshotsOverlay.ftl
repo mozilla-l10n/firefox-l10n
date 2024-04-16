@@ -11,4 +11,4 @@ screenshots-overlay-copy-button = העתקה
 # Variables:
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
-screenshots-overlay-selection-region-size = ‎{ $width } x { $height }
+screenshots-overlay-selection-region-size = { $width } x { $height }
