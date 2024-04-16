@@ -283,14 +283,15 @@ newtab-wallpaper-light-red-panda = Röd panda
 newtab-wallpaper-light-mountain = Vita berg
 newtab-wallpaper-light-sky = Himmel med lila och rosa moln
 newtab-wallpaper-light-color = Blå, rosa och gula former
-newtab-wallpaper-light-beach = Strand med Palm
-newtab-wallpaper-dark-aurora = Aurora Borealis
+newtab-wallpaper-light-landscape = Berglandskap med blå dimma
+newtab-wallpaper-light-beach = Strand med palmträd
+newtab-wallpaper-dark-aurora = Norrsken
 newtab-wallpaper-dark-color = Röda och blå former
 newtab-wallpaper-dark-panda = Röd panda dold i skogen
 newtab-wallpaper-dark-sky = Stadslandskap med en natthimmel
-newtab-wallpaper-dark-mountain = Landskap berg
+newtab-wallpaper-dark-mountain = Landskap med berg
 newtab-wallpaper-dark-city = Lila stadslandskap
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
-newtab-wallpaper-attribution = Foto av <a data-l10n-name="name-link">{ $author_string }</a> på <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-attribution = Foto av <a data-l10n-name="name-link">{ $author_string }</a> från <a data-l10n-name="webpage-link">{ $webpage_string }</a>
