@@ -4,7 +4,7 @@
 
 crashreporter-branded-title = { -brand-short-name } Fejlrapportør
 crashreporter-apology = Vi beklager
-crashreporter-crashed-and-restore = { -brand-short-name } stødte på en fejl og gik ned. Firefox vil forsøge at genskabe dine faneblade og vinduer, når programmet genstarter.
+crashreporter-crashed-and-restore = { -brand-short-name } stødte på en fejl og gik ned. { -brand-short-name } vil forsøge at genskabe dine faneblade og vinduer, når programmet genstarter.
 crashreporter-plea = Du kan hjælpe os med at diagnosticere og rette problemet ved at sende os en fejlrapport.
 crashreporter-information = Dette program køres efter et nedbrud for at rapportere problemet til { -vendor-short-name }. Det bør ikke blive kørt direkte.
 crashreporter-error = { -brand-short-name } stødte på en fejl og gik ned. Desværre kan Fejlrapportøren ikke indsende en rapport om dette nedbrud.
