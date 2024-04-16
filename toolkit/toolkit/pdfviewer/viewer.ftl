@@ -337,6 +337,10 @@ pdfjs-editor-alt-text-mark-decorative-label = علّمها على أنها زخ�
 pdfjs-editor-alt-text-mark-decorative-description = يُستخدم هذا في الصور المزخرفة، مثل الحدود أو العلامات المائية.
 pdfjs-editor-alt-text-cancel-button = ألغِ
 pdfjs-editor-alt-text-save-button = احفظ
+pdfjs-editor-alt-text-decorative-tooltip = عُلّمت على أنها زخرفية
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = على سبيل المثال، "يجلس شاب على الطاولة لتناول وجبة"
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
