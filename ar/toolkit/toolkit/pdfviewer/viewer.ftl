@@ -51,12 +51,6 @@ pdfjs-download-button-label = نزّل
 pdfjs-bookmark-button =
     .title = الصفحة الحالية (عرض URL من الصفحة الحالية)
 pdfjs-bookmark-button-label = الصفحة الحالية
-# Used in Firefox for Android.
-pdfjs-open-in-app-button =
-    .title = افتح في تطبيق
-# Used in Firefox for Android.
-# Length of the translation matters since we are in a mobile context, with limited screen estate.
-pdfjs-open-in-app-button-label = افتح في تطبيق
 
 ##  Secondary toolbar and context menu
 
@@ -81,6 +75,9 @@ pdfjs-cursor-text-select-tool-button-label = أداة اختيار النص
 pdfjs-cursor-hand-tool-button =
     .title = فعّل أداة اليد
 pdfjs-cursor-hand-tool-button-label = أداة اليد
+pdfjs-scroll-page-button =
+    .title = استخدم تمرير الصفحة
+pdfjs-scroll-page-button-label = تمرير الصفحة
 pdfjs-scroll-vertical-button =
     .title = استخدم التمرير الرأسي
 pdfjs-scroll-vertical-button-label = التمرير الرأسي
@@ -187,6 +184,9 @@ pdfjs-layers-button-label = ‏‏الطبقات
 pdfjs-thumbs-button =
     .title = اعرض مُصغرات
 pdfjs-thumbs-button-label = مُصغّرات
+pdfjs-current-outline-item-button =
+    .title = ابحث عن عنصر المخطّط التفصيلي الحالي
+pdfjs-current-outline-item-button-label = عنصر المخطّط التفصيلي الحالي
 pdfjs-findbar-button =
     .title = ابحث في المستند
 pdfjs-findbar-button-label = ابحث
@@ -271,12 +271,49 @@ pdfjs-web-fonts-disabled = خطوط الوب مُعطّلة: تعذّر استخ
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = نص
+pdfjs-editor-free-text-button-label = نص
+pdfjs-editor-ink-button =
+    .title = ارسم
+pdfjs-editor-ink-button-label = ارسم
+pdfjs-editor-stamp-button =
+    .title = أضِف أو حرّر الصور
+pdfjs-editor-stamp-button-label = أضِف أو حرّر الصور
+pdfjs-editor-highlight-button =
+    .title = أبرِز
+pdfjs-editor-highlight-button-label = أبرِز
+pdfjs-highlight-floating-button =
+    .title = أبرِز
+pdfjs-highlight-floating-button1 =
+    .title = أبرِز
+    .aria-label = أبرِز
+pdfjs-highlight-floating-button-label = أبرِز
 
 ## Remove button for the various kind of editor.
 
+pdfjs-editor-remove-ink-button =
+    .title = أزِل الرسم
+pdfjs-editor-remove-freetext-button =
+    .title = أزِل النص
+pdfjs-editor-remove-stamp-button =
+    .title = أزِل الصورة
+pdfjs-editor-remove-highlight-button =
+    .title = أزِل الإبراز
 
 ##
 
+# Editor Parameters
+pdfjs-editor-free-text-color-input = اللون
+pdfjs-editor-free-text-size-input = الحجم
+pdfjs-editor-ink-color-input = اللون
+pdfjs-editor-ink-thickness-input = السماكة
+pdfjs-editor-ink-opacity-input = العتامة
+pdfjs-editor-stamp-add-image-button =
+    .title = أضِف صورة
+pdfjs-editor-stamp-add-image-button-label = أضِف صورة
+# This refers to the thickness of the line used for free highlighting (not bound to text)
+pdfjs-editor-free-highlight-thickness-input = السماكة
 
 ## Alt-text dialog
 
@@ -286,4 +323,8 @@ pdfjs-web-fonts-disabled = خطوط الوب مُعطّلة: تعذّر استخ
 
 
 ## Color picker
+
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
 
