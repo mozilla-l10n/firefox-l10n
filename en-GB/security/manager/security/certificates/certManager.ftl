@@ -110,7 +110,7 @@ choose-p12-restore-file-dialog = Certificate File to Import
 
 file-browse-certificate-spec = Certificate Files
 import-ca-certs-prompt = Select File containing CA certificate(s) to import
-import-email-cert-prompt = Select File containing somebody's Email certificate to import
+import-email-cert-prompt = Select File containing somebody’s Email certificate to import
 
 ## For editing certificates trust
 
