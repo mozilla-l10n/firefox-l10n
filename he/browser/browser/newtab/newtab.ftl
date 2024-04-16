@@ -256,9 +256,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = קיצורי דרך ממומנים
 newtab-custom-pocket-title = מומלץ על־ידי { -pocket-brand-name }
 newtab-custom-pocket-subtitle = תוכן יוצא דופן שנבחר בקפידה על־ידי { -pocket-brand-name }, חלק ממשפחת { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = מומלץ על־ידי { -pocket-brand-name }
-    .description = תוכן יוצא דופן שנבחר בקפידה על־ידי { -pocket-brand-name }, חלק ממשפחת { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = סיפורים מומלצים
     .description = תוכן יוצא דופן שנבחר בקפידה על־ידי משפחת { -brand-product-name }
@@ -271,3 +268,19 @@ newtab-custom-recent-toggle =
     .description = מבחר של אתרים ותכנים אחרונים
 newtab-custom-close-button = סגירה
 newtab-custom-settings = ניהול הגדרות נוספות
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = תמונות רקע
+newtab-wallpaper-reset = איפוס לברירת מחדל
+newtab-wallpaper-light-red-panda = פנדה אדומה
+newtab-wallpaper-light-mountain = הר לבן
+newtab-wallpaper-light-sky = שמיים עם עננים סגולים וורודים
+newtab-wallpaper-light-color = צורות כחולות, ורודות וצהובות
+newtab-wallpaper-light-landscape = נוף הררי עם ערפל כחול
+newtab-wallpaper-light-beach = חוף עם עץ דקל
+newtab-wallpaper-dark-aurora = זוהר צפוני
+newtab-wallpaper-dark-color = צורות אדומות וכחולות
+newtab-wallpaper-dark-panda = פנדה אדומה חבויה ביער
+newtab-wallpaper-dark-sky = נוף עיר עם שמי לילה
+newtab-wallpaper-dark-mountain = נוף של הר
