@@ -345,10 +345,35 @@ pdfjs-editor-alt-text-textarea =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = الزاوية اليُسرى العُليا — تغيير الحجم
+pdfjs-editor-resizer-label-top-middle = أعلى الوسط - تغيير الحجم
+pdfjs-editor-resizer-label-top-right = الزاوية اليُمنى العُليا - تغيير الحجم
+pdfjs-editor-resizer-label-middle-right = اليمين الأوسط - تغيير الحجم
+pdfjs-editor-resizer-label-bottom-middle = أسفل الوسط - تغيير الحجم
+pdfjs-editor-resizer-label-bottom-left = الزاوية اليُسرى السُفلية - تغيير الحجم
 
 ## Color picker
 
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = أبرِز اللون
+pdfjs-editor-colorpicker-button =
+    .title = غيّر اللون
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = اختيارات الألوان
+pdfjs-editor-colorpicker-yellow =
+    .title = أصفر
+pdfjs-editor-colorpicker-green =
+    .title = أخضر
+pdfjs-editor-colorpicker-blue =
+    .title = أزرق
+pdfjs-editor-colorpicker-pink =
+    .title = وردي
+pdfjs-editor-colorpicker-red =
+    .title = أحمر
 
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = أظهِر الكل
+pdfjs-editor-highlight-show-all-button =
+    .title = أظهِر الكل
