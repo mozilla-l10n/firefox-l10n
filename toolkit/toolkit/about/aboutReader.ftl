@@ -4,7 +4,6 @@
 
 about-reader-loading = Nalaganje …
 about-reader-load-error = Nalaganje članka ni uspelo
-
 about-reader-color-scheme-light = Svetlo
     .title = Svetla barvna shema
 about-reader-color-scheme-dark = Temno
@@ -13,7 +12,20 @@ about-reader-color-scheme-sepia = Sepia
     .title = Barvna shema Sepia
 about-reader-color-scheme-auto = Samodejno
     .title = Samodejna barvna shema
-
+about-reader-color-theme-light = Svetlo
+    .title = Svetla barvna tema
+about-reader-color-theme-dark = Temno
+    .title = Temna barvna tema
+about-reader-color-theme-sepia = Sepija
+    .title = Sepijasta barvna tema
+about-reader-color-theme-auto = Samod.
+    .title = Samodejna barvna tema
+about-reader-color-theme-gray = Sivo
+    .title = Siva barvna tema
+about-reader-color-theme-contrast = Kontrast
+    .title = Kontrastna barvna tema
+about-reader-color-theme-custom = Barve po meri
+    .title = Barvna tema po meri
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -51,4 +63,27 @@ about-reader-font-type-sans-serif = Sans-serif
 
 about-reader-toolbar-close = Zapri bralni pogled
 about-reader-toolbar-type-controls = Nastavitve pisave
+about-reader-toolbar-color-controls = Barve
 about-reader-toolbar-savetopocket = Shrani v { -pocket-brand-name }
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = Tema
+about-reader-fxtheme-tab = Privzeto
+about-reader-customtheme-tab = Po meri
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = Besedilo
+    .title = Nastavi barvo
+about-reader-custom-colors-background = Ozadje
+    .title = Nastavi barvo
+about-reader-custom-colors-unvisited-links = Neobiskane povezave
+    .title = Nastavi barvo
+about-reader-custom-colors-visited-links = Obiskane povezave
+    .title = Nastavi barvo
+about-reader-custom-colors-selection-highlight = Označevalnik za glasno branje
+    .title = Nastavi barvo
+about-reader-custom-colors-reset-button = Ponastavi privzeto

@@ -125,6 +125,7 @@ policy-SSLVersionMax = Nastavi najnovejšo dovoljeno različico SSL.
 policy-SSLVersionMin = Nastavi najstarejšo dovoljeno različico SSL.
 policy-StartDownloadsInTempDirectory = Vsili shranjevanje prenosov na lokalno začasno mesto namesto v privzeto mapo za prenose.
 policy-SupportMenu = Dodaj poljubno povezavo za podporo v meni Pomoč.
+policy-TranslateEnabled = Omogoči ali onemogoči prevajanje spletnih strani.
 policy-UserMessaging = Uporabniku ne prikazuj določenih sporočil.
 policy-UseSystemPrintDialog = Tiskaj s pomočjo pogovornega okna sistema.
 # “format” refers to the format used for the value of this policy.
