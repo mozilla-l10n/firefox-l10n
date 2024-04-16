@@ -314,9 +314,29 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = أضِف صورة
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = السماكة
+pdfjs-editor-free-highlight-thickness-title =
+    .title = غيّر السُمك عند إبراز عناصر أُخرى غير النص
+pdfjs-free-text =
+    .aria-label = محرِّر النص
+pdfjs-free-text-default-content = ابدأ الكتابة…
+pdfjs-ink =
+    .aria-label = محرِّر الرسم
+pdfjs-ink-canvas =
+    .aria-label = صورة أنشأها المستخدم
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = نص بديل
+pdfjs-editor-alt-text-edit-button-label = تحرير النص البديل
+pdfjs-editor-alt-text-dialog-label = اختر خيار
+pdfjs-editor-alt-text-dialog-description = يساعد النص البديل عندما لا يتمكن الأشخاص من رؤية الصورة أو عندما لا يتم تحميلها.
+pdfjs-editor-alt-text-add-description-label = أضِف وصف
+pdfjs-editor-alt-text-add-description-description = استهدف جملتين تصفان الموضوع أو الإعداد أو الإجراءات.
+pdfjs-editor-alt-text-mark-decorative-label = علّمها على أنها زخرفية
+pdfjs-editor-alt-text-mark-decorative-description = يُستخدم هذا في الصور المزخرفة، مثل الحدود أو العلامات المائية.
+pdfjs-editor-alt-text-cancel-button = ألغِ
+pdfjs-editor-alt-text-save-button = احفظ
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
