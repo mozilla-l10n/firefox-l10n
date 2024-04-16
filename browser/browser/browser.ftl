@@ -908,6 +908,15 @@ data-reporting-notification-button =
     .accesskey = ש
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = גלישה פרטית
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = מניעת אובדן נתונים (DLP) מאת { $agentName }. יש ללחוץ למידע נוסף.
+content-analysis-panel-title = הגנת נתונים
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = הארגון שלך משתמש ב־{ $agentName } כדי להגן מפני אובדן נתונים. <a data-l10n-name="info">מידע נוסף</a>
 
 ## Unified extensions (toolbar) button
 
