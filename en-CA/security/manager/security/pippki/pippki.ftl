@@ -29,7 +29,7 @@ reset-primary-password-window2 =
     .style = min-width: 40em
 reset-password-button-label =
     .label = Reset
-reset-primary-password-text = If you reset your Primary Password, all your stored web and e-mail passwords, personal certificates, and private keys will be forgotten. Are you sure you want to reset your Primary Password?
+reset-primary-password-text = If you reset your Primary Password, all your stored web and email passwords, personal certificates, and private keys will be forgotten. Are you sure you want to reset your Primary Password?
 pippki-reset-password-confirmation-title = Reset Primary Password
 pippki-reset-password-confirmation-message = Your Primary Password has been reset.
 
@@ -75,7 +75,7 @@ client-auth-cert-details-serial-number = Serial number: { $serialNumber }
 client-auth-cert-details-validity-period = Valid from { $notBefore } to { $notAfter }
 # Variables:
 # $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
-client-auth-cert-details-key-usages = Key Usages: { $keyUsages }
+client-auth-cert-details-key-usages = Key usages: { $keyUsages }
 # Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
 client-auth-cert-details-email-addresses = Email addresses: { $emailAddresses }
