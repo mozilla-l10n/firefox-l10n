@@ -262,9 +262,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsrade genvägar
 newtab-custom-pocket-title = Rekommenderas av { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Särskilt innehåll valt av { -pocket-brand-name }, en del av familjen { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Rekommenderas av { -pocket-brand-name }
-    .description = Särskilt innehåll valt av { -pocket-brand-name }, en del av familjen { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Rekommenderade berättelser
     .description = Exceptionellt innehåll kurerat av { -brand-product-name }-familjen
@@ -277,3 +274,24 @@ newtab-custom-recent-toggle =
     .description = Ett urval av senaste webbplatser och innehåll
 newtab-custom-close-button = Stäng
 newtab-custom-settings = Hantera fler inställningar
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Bakgrundsbilder
+newtab-wallpaper-reset = Återställ till standardvärden
+newtab-wallpaper-light-red-panda = Röd panda
+newtab-wallpaper-light-mountain = Vita berg
+newtab-wallpaper-light-sky = Sky med lila och rosa moln
+newtab-wallpaper-light-color = Blå, rosa och gula former
+newtab-wallpaper-light-landscape = Blått landskap för dimma
+newtab-wallpaper-light-beach = Strand med Palm
+newtab-wallpaper-dark-aurora = Aurora Borealis
+newtab-wallpaper-dark-color = Röda och blå former
+newtab-wallpaper-dark-panda = Röd panda dold i skogen
+newtab-wallpaper-dark-sky = Stadslandskap med en natthimmel
+newtab-wallpaper-dark-mountain = Landskap berg
+newtab-wallpaper-dark-city = Lila stadslandskap
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto av <a data-l10n-name="name-link">{ $author_string }</a> på <a data-l10n-name="webpage-link">{ $webpage_string }</a>
