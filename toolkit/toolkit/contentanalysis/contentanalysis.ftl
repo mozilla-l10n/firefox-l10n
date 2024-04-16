@@ -6,10 +6,6 @@ contentanalysis-alert-title = Innehållsanalys
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Innehållsanalysverktyget tar lång tid att svara för resursen "{ $content }"
-contentanalysis-slow-agent-dialog-title = Innehållsanalys pågår
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Innehållsanalys analyserar resursen "{ $content }"
 contentanalysis-slow-agent-dialog-header = Genomsökning pågår
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -22,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } granskar vad du kl
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } granskar texten du släppte mot din organisations datapolicy. Detta kan ta en stund.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } granskar vad du har skrivit ut mot din organisations datapolicy. Detta kan ta en stund.
 contentanalysis-operationtype-clipboard = urklipp
 contentanalysis-operationtype-dropped-text = släppt text
+contentanalysis-operationtype-print = skriva ut
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = uppladdning av "{ $filename }"
 contentanalysis-warndialogtitle = Det här innehållet kan vara osäkert
