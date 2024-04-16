@@ -116,7 +116,7 @@ import-email-cert-prompt = Select File containing somebody's Email certificate t
 
 # Variables:
 #   $certName: the name of certificate
-edit-trust-ca = The certificate "{ $certName }" represents a Certificate Authority.
+edit-trust-ca = The certificate “{ $certName }” represents a Certificate Authority.
 
 ## For Deleting Certificates
 
@@ -134,7 +134,7 @@ delete-ca-cert-confirm = You have requested to delete these CA certificates. For
 delete-ca-cert-impact = If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA.
 delete-email-cert-title =
     .title = Delete Email Certificates
-delete-email-cert-confirm = Are you sure you want to delete these people's email certificates?
+delete-email-cert-confirm = Are you sure you want to delete these people’s email certificates?
 delete-email-cert-impact = If you delete a person’s email certificate, you will no longer be able to send encrypted email to that person.
 # Used for semi-uniquely representing a cert.
 #
