@@ -220,6 +220,17 @@ pdfjs-find-match-diacritics-checkbox-label = طابِق الحركات
 pdfjs-find-entire-word-checkbox-label = كلمات كاملة
 pdfjs-find-reached-top = تابعت من الأسفل بعدما وصلت إلى بداية المستند
 pdfjs-find-reached-bottom = تابعت من الأعلى بعدما وصلت إلى نهاية المستند
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [zero] { $limit } مطابقة
+        [one] أكثر من { $limit } مطابقة
+        [two] أكثر من { $limit } مطابقة
+        [few] أكثر من { $limit } مطابقة
+        [many] أكثر من { $limit } مطابقة
+       *[other] أكثر من { $limit } مطابقات
+    }
 pdfjs-find-not-found = لا وجود للعبارة
 
 ## Predefined zoom values
@@ -345,12 +356,14 @@ pdfjs-editor-alt-text-textarea =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
-pdfjs-editor-resizer-label-top-left = الزاوية اليُسرى العُليا — تغيير الحجم
-pdfjs-editor-resizer-label-top-middle = أعلى الوسط - تغيير الحجم
-pdfjs-editor-resizer-label-top-right = الزاوية اليُمنى العُليا - تغيير الحجم
-pdfjs-editor-resizer-label-middle-right = اليمين الأوسط - تغيير الحجم
-pdfjs-editor-resizer-label-bottom-middle = أسفل الوسط - تغيير الحجم
-pdfjs-editor-resizer-label-bottom-left = الزاوية اليُسرى السُفلية - تغيير الحجم
+pdfjs-editor-resizer-label-top-left = الزاوية اليُسرى العُليا — غيّر الحجم
+pdfjs-editor-resizer-label-top-middle = أعلى الوسط - غيّر الحجم
+pdfjs-editor-resizer-label-top-right = الزاوية اليُمنى العُليا - غيّر الحجم
+pdfjs-editor-resizer-label-middle-right = اليمين الأوسط - غيّر الحجم
+pdfjs-editor-resizer-label-bottom-right = الزاوية اليُمنى السُفلى - غيّر الحجم
+pdfjs-editor-resizer-label-bottom-middle = أسفل الوسط - غيّر الحجم
+pdfjs-editor-resizer-label-bottom-left = الزاوية اليُسرى السُفلية - غيّر الحجم
+pdfjs-editor-resizer-label-middle-left = مُنتصف اليسار - غيّر الحجم
 
 ## Color picker
 
