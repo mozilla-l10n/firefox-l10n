@@ -6,10 +6,6 @@ contentanalysis-alert-title = Analiza vsebine
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Orodje za analizo vsebine potrebuje veliko časa za odgovor na vir "{ $content }"
-contentanalysis-slow-agent-dialog-title = Analiza vsebine poteka
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Analiza vsebine analizira vir "{ $content }"
 contentanalysis-slow-agent-dialog-header = Pregledovanje v teku
 contentanalysis-operationtype-clipboard = odložišče
 contentanalysis-operationtype-dropped-text = spuščeno besedilo
@@ -30,3 +26,6 @@ contentanalysis-block-message = Vaša organizacija uporablja programsko opremo z
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Pri komunikaciji s programsko opremo za preprečevanje izgube podatkov je prišlo do napake. Prenos vira { $content } je zavrnjen.
+contentanalysis-inprogress-quit-title = Želite zapreti { -brand-shorter-name(sklon: "tozilnik") }?
+contentanalysis-inprogress-quit-message = V teku je več dejanj. Če zdaj zaprete { -brand-shorter-name }, se ne bodo dokončala.
+contentanalysis-inprogress-quit-yesbutton = Da, zapri
