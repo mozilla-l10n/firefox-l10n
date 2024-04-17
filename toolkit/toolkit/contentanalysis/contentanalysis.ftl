@@ -18,6 +18,9 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } recense lo que tu 
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } recense le texto que tu deponeva contra le politicas del datos de tu organisation. Isto pote prender un momento.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } recense lo que tu imprimeva contra le politicas del datos de tu organisation.
 contentanalysis-operationtype-clipboard = area de transferentia
 contentanalysis-operationtype-dropped-text = texto deponite
 contentanalysis-operationtype-print = imprimer

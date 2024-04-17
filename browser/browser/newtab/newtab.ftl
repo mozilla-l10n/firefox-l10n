@@ -277,4 +277,17 @@ newtab-wallpaper-title = Fundos
 newtab-wallpaper-reset = Restaurar le predefinition
 newtab-wallpaper-light-red-panda = Panda rubie
 newtab-wallpaper-light-mountain = Montania blanc
+newtab-wallpaper-light-sky = Celo con nubes purpuree e rosate
+newtab-wallpaper-light-color = Formas blau, rosate e jalne
+newtab-wallpaper-light-landscape = Paisage montan con bruma blau
+newtab-wallpaper-light-beach = Plagia con arbore de palma
 newtab-wallpaper-dark-aurora = Aurora Boreal
+newtab-wallpaper-dark-color = Formas rubie e blau
+newtab-wallpaper-dark-panda = Panda rubie celate in bosco
+newtab-wallpaper-dark-sky = Paisage urban con un celo nocturne
+newtab-wallpaper-dark-mountain = Paisage montan
+newtab-wallpaper-dark-city = Paisage urban purpuree
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Photo per <a data-l10n-name="name-link">{ $author_string }</a> sur <a data-l10n-name="webpage-link">{ $webpage_string }</a>
