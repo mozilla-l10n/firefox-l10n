@@ -259,9 +259,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponzorované skratky
 newtab-custom-pocket-title = Odporúčané službou { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Výnimočný obsah vybraný službou { -pocket-brand-name }, ktorá je súčasťou rodiny { -brand-product-name(case: "gen") }
-newtab-custom-pocket-toggle =
-    .label = Odporúčané službou { -pocket-brand-name }
-    .description = Výnimočný obsah vybraný službou { -pocket-brand-name }, ktorá je súčasťou rodiny { -brand-product-name(case: "gen") }
 newtab-custom-stories-toggle =
     .label = Odporúčané príbehy
     .description = Výnimočný obsah spravovaný rodinou { -brand-product-name }
@@ -274,3 +271,24 @@ newtab-custom-recent-toggle =
     .description = Výber z nedávno navštívených stránok a obsahu
 newtab-custom-close-button = Zavrieť
 newtab-custom-settings = Ďalšie nastavenia
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Tapety
+newtab-wallpaper-reset = Nastaviť na predvolené
+newtab-wallpaper-light-red-panda = Červená panda
+newtab-wallpaper-light-mountain = Biela hora
+newtab-wallpaper-light-sky = Obloha s fialovými a ružovými oblakmi
+newtab-wallpaper-light-color = Modré, ružové a žlté tvary
+newtab-wallpaper-light-landscape = Scenéria zahmlenej hory
+newtab-wallpaper-light-beach = Pláž s palmou
+newtab-wallpaper-dark-aurora = Polárna žiara
+newtab-wallpaper-dark-color = Červené a modré tvary
+newtab-wallpaper-dark-panda = Panda červená ukrytá v lese
+newtab-wallpaper-dark-sky = Mestská krajina s nočnou oblohou
+newtab-wallpaper-dark-mountain = Horská scenéria
+newtab-wallpaper-dark-city = Fialová mestská krajina
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Fotografia od autora <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
