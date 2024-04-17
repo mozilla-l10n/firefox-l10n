@@ -6,10 +6,6 @@ contentanalysis-alert-title = Анализ содержимого
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Инструменту анализа содержимого требуется много времени, чтобы справиться с ресурсом «{ $content }».
-contentanalysis-slow-agent-dialog-title = Выполняется контент-анализ
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Контент-анализ анализирует ресурс «{ $content }»
 contentanalysis-slow-agent-dialog-header = Идёт сканирование
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -22,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } проверяет
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } проверяет сброшенный вами текст на соответствие политике данных вашей организации. Это может занять некоторое время.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } проверяет, что вы распечатали, на соответствие политике данных вашей организации. Это может занять некоторое время.
 contentanalysis-operationtype-clipboard = буфер обмена
 contentanalysis-operationtype-dropped-text = пропущенный текст
+contentanalysis-operationtype-print = печать
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = загрузка «{ $filename }»
 contentanalysis-warndialogtitle = Это содержимое может быть небезопасным
