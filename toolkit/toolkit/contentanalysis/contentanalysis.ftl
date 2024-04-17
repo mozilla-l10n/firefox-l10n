@@ -6,10 +6,6 @@ contentanalysis-alert-title = 콘텐츠 분석
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = 콘텐츠 분석 도구가 “{ $content }” 리소스에 응답하는 데 시간이 오래 걸립니다.
-contentanalysis-slow-agent-dialog-title = 콘텐츠 분석 진행 중
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = 콘텐츠 분석이 “{ $content }” 리소스를 분석하고 있습니다.
 contentanalysis-slow-agent-dialog-header = 스캔 진행 중
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -22,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent }이(가) 조직의 
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent }이(가) 조직의 데이터 정책에 따라 사용자가 삭제한 텍스트를 분석 중입니다. 잠시 시간이 걸릴 수 있습니다.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent }이(가) 조직의 데이터 정책에 따라 인쇄된 내용을 분석 중입니다. 잠시 시간이 걸릴 수 있습니다.
 contentanalysis-operationtype-clipboard = 클립보드
 contentanalysis-operationtype-dropped-text = 드롭된 텍스트
+contentanalysis-operationtype-print = 인쇄
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = “{ $filename }” 업로드
 contentanalysis-warndialogtitle = 이 콘텐츠는 안전하지 않을 수 있음
