@@ -21,3 +21,19 @@ default-browser-prompt-message-alt = Toute votre navigation rapide, sûre et con
 default-browser-prompt-button-primary-alt = Définir comme navigateur par défaut
 default-browser-prompt-checkbox-not-again-label = Ne plus afficher ce message
 default-browser-prompt-button-secondary = Plus tard
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Étape 1 : allez dans Paramètres > Applications par défaut
+    Étape 2 : faites défiler jusqu’à « Navigateur web »
+    Étape 3 : sélectionnez { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Étape 1 : allez dans Paramètres > Applications par défaut
+    Étape 2 : sélectionnez « Définir par défaut » pour { -brand-short-name }
+default-browser-guidance-notification-info-page = Dites m’en plus
+default-browser-guidance-notification-dismiss = Terminé
