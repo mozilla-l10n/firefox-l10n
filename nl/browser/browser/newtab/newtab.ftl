@@ -262,9 +262,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Gesponsorde snelkoppelingen
 newtab-custom-pocket-title = Aanbevolen door { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Uitzonderlijke inhoud, samengesteld door { -pocket-brand-name }, onderdeel van de { -brand-product-name }-familie
-newtab-custom-pocket-toggle =
-    .label = Aanbevolen door { -pocket-brand-name }
-    .description = Uitzonderlijke inhoud, samengesteld door { -pocket-brand-name }, onderdeel van de { -brand-product-name }-familie
 newtab-custom-stories-toggle =
     .label = Aanbevolen verhalen
     .description = Uitzonderlijke inhoud, verzameld door de { -brand-product-name }-familie
@@ -277,3 +274,24 @@ newtab-custom-recent-toggle =
     .description = Een selectie van recente websites en inhoud
 newtab-custom-close-button = Sluiten
 newtab-custom-settings = Meer instellingen beheren
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Achtergronden
+newtab-wallpaper-reset = Standaardwaarden
+newtab-wallpaper-light-red-panda = Rode panda
+newtab-wallpaper-light-mountain = Witte berg
+newtab-wallpaper-light-sky = Lucht met paarse en roze wolken
+newtab-wallpaper-light-color = Blauwe, roze en gele vormen
+newtab-wallpaper-light-landscape = Berglandschap met blauwe mist
+newtab-wallpaper-light-beach = Strand met palmboom
+newtab-wallpaper-dark-aurora = Aurora Borealis
+newtab-wallpaper-dark-color = Rode en blauwe vormen
+newtab-wallpaper-dark-panda = Rode panda verborgen in bos
+newtab-wallpaper-dark-sky = Stadslandschap met een nachtelijke hemel
+newtab-wallpaper-dark-mountain = Landschap met berg
+newtab-wallpaper-dark-city = Paars stadslandschap
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto door <a data-l10n-name="name-link">{ $author_string }</a> op <a data-l10n-name="webpage-link">{ $webpage_string }</a>
