@@ -273,7 +273,7 @@ newtab-custom-settings = Gerenciar mais configurações
 
 ## New Tab Wallpapers
 
-newtab-wallpaper-title = Fundo de tela
+newtab-wallpaper-title = Imagens de fundo
 newtab-wallpaper-reset = Restaurar padrão
 newtab-wallpaper-light-red-panda = Panda vermelho
 newtab-wallpaper-light-mountain = Montanha branca
@@ -287,3 +287,7 @@ newtab-wallpaper-dark-panda = Panda vermelho escondido na floresta
 newtab-wallpaper-dark-sky = Paisagem de cidade com céu noturno
 newtab-wallpaper-dark-mountain = Paisagem com montanhas
 newtab-wallpaper-dark-city = Paisagem de cidade em tonalidade violeta
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto de <a data-l10n-name="name-link">{ $author_string }</a> em <a data-l10n-name="webpage-link">{ $webpage_string }</a>
