@@ -53,6 +53,7 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } کنوں 
 mr1-onboarding-theme-header = اینکوں اپݨا بݨاؤ
 mr1-onboarding-theme-subtitle = ہک تھیم دے نال { -brand-short-name } کوں ذاتی بݨاؤ۔
 mr1-onboarding-theme-secondary-button-label = ہݨ کائناں
+newtab-wallpaper-onboarding-primary-button-label = وال پیپر مقرر کرو
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = نظام تھیم
 mr1-onboarding-theme-label-light = پھکا
