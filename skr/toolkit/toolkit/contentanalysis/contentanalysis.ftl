@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-operationtype-clipboard = کلپ بورڈ
+contentanalysis-operationtype-print = پرنٹ
 contentanalysis-warndialog-response-allow = مواد ورتو
 contentanalysis-warndialog-response-deny = منسوخ
 contentanalysis-notification-title = مواد تجزیہ

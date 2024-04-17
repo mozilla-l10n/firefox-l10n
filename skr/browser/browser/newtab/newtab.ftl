@@ -275,3 +275,6 @@ newtab-custom-settings = ودھیک ترتیباں دا بندوبست کرو
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = وال پیپرز
+newtab-wallpaper-reset = ڈیفالٹ تے مقرر کرو
+newtab-wallpaper-light-red-panda = رتا پانڈا
+newtab-wallpaper-light-mountain = چٹی پہاڑی
