@@ -6,10 +6,6 @@ contentanalysis-alert-title = Content Analysis
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = The Content Analysis tool is taking a long time to respond for resource “{ $content }”
-contentanalysis-slow-agent-dialog-title = Content analysis in progress
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Content Analysis is analysing resource “{ $content }”
 contentanalysis-slow-agent-dialog-header = Scan in progress
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -22,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } is reviewing what 
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } is reviewing the text you dropped against your organisation’s data policies. This may take a moment.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } is reviewing what you printed against your organisation’s data policies. This may take a moment.
 contentanalysis-operationtype-clipboard = clipboard
 contentanalysis-operationtype-dropped-text = dropped text
+contentanalysis-operationtype-print = print
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = upload of “{ $filename }”
 contentanalysis-warndialogtitle = This content may be unsafe
