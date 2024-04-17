@@ -147,7 +147,7 @@ migration-bookmarks-from-file-json-filter-title = קובץ JSON
 #  $newEntries (Number): the number of imported bookmarks.
 migration-wizard-progress-success-new-bookmarks =
     { $newEntries ->
-        [one] סימניה אחת
+        [one] סימנייה אחת
        *[other] { $newEntries } סימניות
     }
 migration-import-button-label = ייבוא
