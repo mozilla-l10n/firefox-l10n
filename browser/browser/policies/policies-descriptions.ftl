@@ -65,12 +65,57 @@ policy-DontCheckDefaultBrowser = Onemogućite provjeru zadanog pretraživača pr
 policy-DownloadDirectory = Postavite i zaključajte direktorij za preuzimanje.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Omogućite ili onemogućite blokiranje sadržaja i opcionalno ga zaključajte.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Omogućite ili onemogućite proširenja šifrovanih medija i opcionalno ih zaključajte.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Onemogućite upozorenja na osnovu ekstenzije datoteke za određene tipove datoteka na domenima.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Instalirajte, deinstalirajte ili zaključajte proširenja. Opcija Instaliraj uzima URL-ove ili putanje kao parametre. Opcije Deinstaliraj i Zaključano uzimaju ID-ove ekstenzija.
+policy-ExtensionSettings = Upravljajte svim aspektima instalacije proširenja.
+policy-ExtensionUpdate = Omogućite ili onemogućite automatsko ažuriranje ekstenzija.
+policy-FirefoxHome2 = Konfigurišite { -firefox-home-brand-name }.
+policy-FirefoxSuggest = Konfigurišite { -firefox-suggest-brand-name }.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Forsirajte direktnu intranet navigaciju umjesto pretraživanja kada kucate unose jedne riječi u adresnu traku.
+policy-Handlers = Konfigurišite zadane rukovaoce aplikacijama.
+policy-HardwareAcceleration = Ako je netačno, isključite hardversko ubrzanje.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Postavite i opciono zaključajte početnu stranicu.
+policy-InstallAddonsPermission = Dozvolite određenim web stranicama da instaliraju dodatke.
+policy-LegacyProfiles = Onemogućite funkciju koja nameće poseban profil za svaku instalaciju.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Omogući zadanu postavku ponašanja kolačića SameSite za naslijeđene podatke.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Vratite se na naslijeđe ponašanje SameSite za kolačiće na određenim web stranicama.
 
 ##
 
+policy-LocalFileLinks = Dozvolite određenim web stranicama da se povezuju na lokalne datoteke.
+policy-ManagedBookmarks = Konfiguriše listu oznaka kojima upravlja administrator i koju korisnik ne može promeniti.
+policy-ManualAppUpdateOnly = Dozvolite samo ručna ažuriranja i ne obavještavajte korisnika o ažuriranjima.
+policy-PrimaryPassword = Zahtijevati ili spriječiti korištenje primarne lozinke.
+policy-PrintingEnabled = Omogućite ili onemogućite štampanje.
+policy-NetworkPrediction = Omogućite ili onemogućite predviđanje mreže (DNS prethodno dohvaćanje).
+policy-NewTabPage = Omogućite ili onemogućite stranicu Novi tab.
+policy-NoDefaultBookmarks = Onemogućite kreiranje zadanih oznaka u paketu sa { -brand-short-name } i pametnih oznaka (najposjećenije, najnovije oznake). Napomena: ova politika je efikasna samo ako se koristi prije prvog pokretanja profila.
+policy-OfferToSaveLogins = Nametnite postavku da dozvolite { -brand-short-name } da ponudi pamćenje sačuvanih prijava i lozinki. Prihvataju se i istinite i lažne vrijednosti.
+policy-OfferToSaveLoginsDefault = Postavite zadanu vrijednost za omogućavanje { -brand-short-name } da ponudi pamćenje sačuvanih prijava i lozinki. Prihvataju se i istinite i lažne vrijednosti.
+policy-OverrideFirstRunPage = Poništi prvu stranicu za pokretanje. Postavite ovo pravilo na prazno ako želite da onemogućite stranicu prvog pokretanja.
+policy-OverridePostUpdatePage = Poništite stranicu “Šta je novo” nakon ažuriranja. Postavite ovo pravilo na prazno ako želite da onemogućite stranicu nakon ažuriranja.
+policy-PasswordManagerEnabled = Omogućite čuvanje lozinki u upravitelju lozinki.
+policy-PasswordManagerExceptions = Spriječite { -brand-short-name } da čuva lozinke za određene web stranice.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Onemogućite ili konfigurišite PDF.js, ugrađeni PDF preglednik u { -brand-short-name }.
+policy-Permissions2 = Konfigurirajte dozvole za kameru, mikrofon, lokaciju, obavještenja i automatsku reprodukciju.
+policy-PictureInPicture = Omogućite ili onemogućite Slika u slici.
+policy-PopupBlocking = Dozvolite određenim web stranicama da prikazuju iskačuće prozore prema zadanim postavkama.
+policy-Preferences = Postavite i zaključajte vrijednost za podskup preferencija.
+policy-PromptForDownloadLocation = Pitajte gdje da sačuvate datoteke prilikom preuzimanja.
+policy-Proxy = Konfigurišite postavke proxyja.
+policy-RequestedLocales = Postavite listu traženih lokaliteta za aplikaciju prema željenom redoslijedu.
+policy-SanitizeOnShutdown2 = Očistite navigacijske podatke pri isključivanju.
+policy-SearchBar = Postavite zadanu lokaciju trake za pretraživanje. Korisniku je i dalje dozvoljeno da je prilagodi.
 policy-SearchEngines = Konfigurirajte postavke tražilice. Ovo pravilo je dostupno samo na verziji proširene podrške (ESR).
 policy-SearchSuggestEnabled = Omogućite ili onemogućite prijedloge za pretraživanje.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
