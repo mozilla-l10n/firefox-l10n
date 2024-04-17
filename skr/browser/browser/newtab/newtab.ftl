@@ -271,3 +271,7 @@ newtab-custom-recent-toggle =
     .description = حالیہ سائٹاں تے مواد دی ہک چوݨ
 newtab-custom-close-button = بند کرو
 newtab-custom-settings = ودھیک ترتیباں دا بندوبست کرو
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = وال پیپرز
