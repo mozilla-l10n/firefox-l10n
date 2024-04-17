@@ -24,3 +24,4 @@ addon-post-install-message = { $addonName } je dodan.
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = Pokrenuti { $addonName } na ograničenim web stranicama?
 webext-quarantine-confirmation-line-1 = Radi zaštite vaših podataka, ova ekstenzija nije dozvoljena na ovoj stranici.
+webext-quarantine-confirmation-line-2 = Dozvolite ovoj ekstenziji ako vjerujete da čita i mijenja vaše podatke na web stranicama ograničenim { -vendor-short-name }om.
