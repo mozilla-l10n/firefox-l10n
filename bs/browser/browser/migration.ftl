@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Čarobnjak za uvoz
-
 import-from =
     { PLATFORM() ->
         [windows] Uvezi opcije, zabilješke, historiju, lozinke i druge podatke iz:
        *[other] Uvezi postavke, zabilješke, historiju, lozinke i druge podatke iz:
     }
-
 import-from-bookmarks = Uvezi zabilješke iz:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -51,32 +49,23 @@ import-from-firefox =
 import-from-360se =
     .label = 360 sigurni browser
     .accesskey = 3
-
 no-migration-sources = Nije pronađen program koji sadrži zabilješke, historiju ili lozinke.
-
 import-source-page-title = Uvezi postavke i podatke
 import-items-page-title = Stavke za uvoz
-
 import-items-description = Izaberite stavke za uvoz:
-
+import-permissions-page-title = Molimo da date { -brand-short-name }u dozvole
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS zahtijeva od vas da izričito dozvolite { -brand-short-name }u pristup podacima Safarija. Kliknite na “Nastavi”, odaberite mapu “Safari“ u dijaloškom okviru Finder-a koji se pojavi, a zatim kliknite na “Otvori”.
 import-migrating-page-title = Uvozim…
-
 import-migrating-description = Sljedeće stavke se trenutno uvoze…
-
 import-select-profile-page-title = Odaberite profil
-
 import-select-profile-description = Sljedeći profili su dostupni za uvoz iz:
-
 import-done-page-title = Uvoz završen
-
 import-done-description = Sljedeće stavke su uspješno uvezene:
-
 import-close-source-browser = Molimo da osigurate da je izabrani browser zatvoren prije nastavka.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Lista za čitanje (iz Safarija)
 imported-edge-reading-list = Lista za čitanje (iz Edge-a)
 
@@ -94,6 +83,14 @@ imported-edge-reading-list = Lista za čitanje (iz Edge-a)
 ## The various beta and development versions of edge and chrome all get
 ## normalized to just "edge" and "chrome" for these strings.
 
+browser-data-cookies-checkbox =
+    .label = Kolačići
+browser-data-cookies-label =
+    .value = Kolačići
+browser-data-formdata-checkbox =
+    .label = Historija spašenih obrazaca
+browser-data-formdata-label =
+    .value = Historija spašenih obrazaca
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -102,9 +99,15 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Spašene prijave i lozinke
-
+browser-data-otherdata-checkbox =
+    .label = Ostali podaci
+browser-data-otherdata-label =
+    .label = Ostali podaci
 browser-data-session-checkbox =
     .label = Prozori i tabovi
 browser-data-session-label =
     .value = Prozori i tabovi
-
+browser-data-payment-methods-checkbox =
+    .label = Načini plaćanja
+browser-data-payment-methods-label =
+    .value = Načini plaćanja
