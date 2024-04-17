@@ -202,9 +202,12 @@ newtab-pocket-cta-text = Sačuvajte priče koje volite u { -pocket-brand-name } 
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je dio { -brand-product-name } porodice
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Sačuvaj
+newtab-pocket-saved = Sačuvano
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
+newtab-pocket-onboarding-discover = Otkrijte najbolje od weba
+newtab-pocket-onboarding-cta = { -pocket-brand-name } istražuje raznovrsne publikacije kako bi donio najinformativniji, inspirativniji i najpouzdaniji sadržaj pravo u vaš { -brand-product-name } pretraživač.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -214,6 +217,9 @@ newtab-error-fallback-refresh-link = Osvježite stranicu da biste pokušali pono
 
 ## Customization Menu
 
+newtab-custom-shortcuts-title = Prečice
+newtab-custom-shortcuts-subtitle = Web stranice koje sačuvate ili posjetite
+newtab-custom-sponsored-sites = Sponzorisane prečice
 newtab-custom-close-button = Zatvori
 
 ## New Tab Wallpapers
