@@ -111,7 +111,7 @@ appmenu-account-header = ਖਾਤਾ
 appmenu-fxa-last-sync = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
     .label = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
 appmenu-fxa-sync-and-save-data2 = ਡਾਟਾ ਸਿੰਕ ਕਰੋ ਤੇ ਸੰਭਾਲੋ
-appmenu-fxa-signed-in-label = ਸਾਇਨ ਇਨ
+appmenu-fxa-signed-in-label = ਸਾਈਨ ਇਨ
 appmenu-fxa-setup-sync =
     .label = ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕਰੋ…
 appmenuitem-save-page =
@@ -275,7 +275,7 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
-appmenuitem-sign-in-account = ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ
+appmenuitem-sign-in-account = ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = ਡਾਟਾ ਉਲੰਘਣਾਵਾਂ ਬਾਰੇ ਚੇਤਾਵਨੀਆਂ ਲਵੋ
 appmenuitem-relay-title = { -relay-brand-short-name }
