@@ -20,6 +20,7 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } recense lo que tu 
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } recense le texto que tu deponeva contra le politicas del datos de tu organisation. Isto pote prender un momento.
 contentanalysis-operationtype-clipboard = area de transferentia
 contentanalysis-operationtype-dropped-text = texto deponite
+contentanalysis-operationtype-print = imprimer
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = cargamento de “{ $filename }”
 contentanalysis-warndialogtitle = Iste contento pote esser non secur

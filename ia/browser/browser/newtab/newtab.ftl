@@ -258,9 +258,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Accessos directe sponsorisate
 newtab-custom-pocket-title = Recommendate per { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contento exceptional a cura de { -pocket-brand-name }, parte del familia { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Recommendate per { -pocket-brand-name }
-    .description = Contento exceptional a cura de { -pocket-brand-name }, parte del familia { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Historias recommendate
     .description = Exceptional contento curate per le familia de { -brand-product-name }
@@ -273,3 +270,11 @@ newtab-custom-recent-toggle =
     .description = Un selection de sitos e contento recente
 newtab-custom-close-button = Clauder
 newtab-custom-settings = Gerer altere parametros
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Fundos
+newtab-wallpaper-reset = Restaurar le predefinition
+newtab-wallpaper-light-red-panda = Panda rubie
+newtab-wallpaper-light-mountain = Montania blanc
+newtab-wallpaper-dark-aurora = Aurora Boreal
