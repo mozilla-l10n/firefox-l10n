@@ -6,10 +6,6 @@ contentanalysis-alert-title = Ynhâldsanalyse
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Foar boarne ‘{ $content }’ duorret it lang eardat it helpprogramma Ynhâldsanalyse reagearret
-contentanalysis-slow-agent-dialog-title = Ynhâldsanalyse wurdt útfierd
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Ynhâldsanalyse analysearret boarne ‘{ $content }’
 contentanalysis-slow-agent-dialog-header = Scan wurdt útfierd
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -22,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } toetst wat jo plak
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } toetst jo plakte tekst oan it gegevensbelied fan jo organisaasje. Dit kin efkes duorje.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } toetst wat jo ôfdrukt hawwe oan it gegevensbelied fan jo organisaasje. Dit kin efkes duorje.
 contentanalysis-operationtype-clipboard = klamboerd
 contentanalysis-operationtype-dropped-text = plakte tekst
+contentanalysis-operationtype-print = ôfdrukke
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = oplaad fan ‘{ $filename }’
 contentanalysis-warndialogtitle = Dizze ynhâld is mooglik ûnfeilich
