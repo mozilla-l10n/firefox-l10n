@@ -26,5 +26,15 @@ default-browser-prompt-button-secondary = 現在不要
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = 完成將 { -brand-short-name } 設為預設瀏覽器
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    第 1 步：前往設定 > 預設應用程式
+    第 2 步：向下捲動到「網頁瀏覽器」
+    第 3 步：選擇 { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    第 1 步：前往設定 > 預設應用程式
+    第 2 步：點擊 { -brand-short-name } 的「設定為預設值」
 default-browser-guidance-notification-info-page = 顯示給我看
 default-browser-guidance-notification-dismiss = 完成
