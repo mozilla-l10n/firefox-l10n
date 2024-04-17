@@ -32,3 +32,9 @@ default-browser-guidance-notification-body-instruction-win10 =
     1단계: 설정 > 기본 앱으로 이동
     2단계: 아래로 스크롤하여 "웹 브라우저"로 이동
     3단계: { -brand-short-name }를 선택
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    1단계: 설정 > 기본 앱으로 이동
+    2단계: { -brand-short-name }에 대해 "기본값 설정"을 선택
+default-browser-guidance-notification-info-page = 더 보기
+default-browser-guidance-notification-dismiss = 완료

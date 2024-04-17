@@ -261,9 +261,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = 스폰서 바로 가기
 newtab-custom-pocket-title = { -pocket-brand-name } 추천
 newtab-custom-pocket-subtitle = { -brand-product-name } 제품군의 일부인 { -pocket-brand-name }에서 선별한 뛰어난 콘텐츠
-newtab-custom-pocket-toggle =
-    .label = { -pocket-brand-name } 추천
-    .description = { -brand-product-name } 제품군의 일부인 { -pocket-brand-name }에서 선별한 뛰어난 콘텐츠
 newtab-custom-stories-toggle =
     .label = 추천 이야기
     .description = { -brand-product-name } 제품군이 선별한 뛰어난 콘텐츠
@@ -276,3 +273,14 @@ newtab-custom-recent-toggle =
     .description = 최근 사이트 및 콘텐츠 모음
 newtab-custom-close-button = 닫기
 newtab-custom-settings = 더 많은 설정 관리
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = 배경 화면
+newtab-wallpaper-reset = 기본값으로 재설정
+newtab-wallpaper-light-red-panda = 레서판다
+newtab-wallpaper-light-mountain = 하얀 산
+newtab-wallpaper-light-sky = 보라색과 분홍색 구름이 있는 하늘
+newtab-wallpaper-light-color = 파란색, 분홍색, 노란색 모양
+newtab-wallpaper-light-landscape = 푸른 안개 산 풍경
+newtab-wallpaper-light-beach = 야자수가 있는 해변
