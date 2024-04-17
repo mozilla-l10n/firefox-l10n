@@ -276,3 +276,18 @@ newtab-custom-settings = 管理更多設定
 newtab-wallpaper-title = 背景圖
 newtab-wallpaper-reset = 還原為預設值
 newtab-wallpaper-light-red-panda = 小貓熊
+newtab-wallpaper-light-mountain = 白色山脈
+newtab-wallpaper-light-sky = 紫色與粉紅色的天空
+newtab-wallpaper-light-color = 藍色、粉紅與黃色圖型
+newtab-wallpaper-light-landscape = 藍霧山景
+newtab-wallpaper-light-beach = 棕櫚樹海灘
+newtab-wallpaper-dark-aurora = 極光
+newtab-wallpaper-dark-color = 紅色與藍色圖型
+newtab-wallpaper-dark-panda = 隱藏在森林中的小貓熊
+newtab-wallpaper-dark-sky = 城市的夜空景觀
+newtab-wallpaper-dark-mountain = 山景
+newtab-wallpaper-dark-city = 紫色城市風景
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = 相片由 <a data-l10n-name="name-link">{ $author_string }</a> 於 <a data-l10n-name="webpage-link">{ $webpage_string }</a> 提供
