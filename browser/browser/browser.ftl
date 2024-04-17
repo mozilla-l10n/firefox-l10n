@@ -919,7 +919,7 @@ private-browsing-indicator-label = Súkromné prehliadanie
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
-    .tooltiptext = Ochrana pred stratou údajov (DLP) od agenta  { $agentName }. Kliknutím zobrazíte ďalšie informácie.
+    .tooltiptext = Ochrana pred stratou údajov (DLP) od agenta { $agentName }. Kliknutím zobrazíte ďalšie informácie.
 content-analysis-panel-title = Ochrana údajov
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
