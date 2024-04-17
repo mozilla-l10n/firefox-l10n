@@ -908,6 +908,11 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navigation private
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Prevention perdita datos (DLP) per { $agentName }. Clicca pro altere info.
 content-analysis-panel-title = Protection de datos
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

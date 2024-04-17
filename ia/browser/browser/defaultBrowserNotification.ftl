@@ -26,5 +26,6 @@ default-browser-prompt-button-secondary = Non ora
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = Finir de render { -brand-short-name } tu predefinite
 default-browser-guidance-notification-info-page = Monstra me
 default-browser-guidance-notification-dismiss = Facite
