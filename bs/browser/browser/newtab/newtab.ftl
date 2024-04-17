@@ -178,14 +178,30 @@ newtab-empty-section-highlights = Započnite pretraživati i pokazat ćemo vam n
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Provjerite kasnije za više najpopularnijih priča od { $provider }. Ne možete čekati? Odaberite popularne teme kako biste pronašli više kvalitetnih priča s cijelog weba.
+# Ex. When there are no more story recommendations, in the space where there would have been stories, this is shown instead.
+newtab-empty-section-topstories-generic = U toku ste. Provjerite kasnije za više priča. Ne možete čekati? Odaberite popularnu temu da pronađete još sjajnih priča sa cijelog weba.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = U toku ste!
+newtab-discovery-empty-section-topstories-content = Provjerite kasnije za više priča.
+newtab-discovery-empty-section-topstories-try-again-button = Pokušaj ponovo
+newtab-discovery-empty-section-topstories-loading = Učitavanje…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ups! Skoro smo učitali ovu sekciju, ali ne sasvim.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularne teme:
+newtab-pocket-new-topics-title = Želite još više priča? Pogledajte ove popularne teme od { -pocket-brand-name }a
+newtab-pocket-more-recommendations = Više preporuka
+newtab-pocket-learn-more = Saznajte više
+newtab-pocket-cta-button = Preuzmite { -pocket-brand-name }
+newtab-pocket-cta-text = Sačuvajte priče koje volite u { -pocket-brand-name } i podstaknite svoj um fascinantnim čitanjem.
+newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je dio { -brand-product-name } porodice
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = Sačuvaj
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
