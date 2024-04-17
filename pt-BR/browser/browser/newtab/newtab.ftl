@@ -258,9 +258,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Atalhos patrocinados
 newtab-custom-pocket-title = Recomendado pelo { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Conteúdo excepcional selecionado pelo { -pocket-brand-name }, parte da família { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Recomendado pelo { -pocket-brand-name }
-    .description = Conteúdo excepcional selecionado pelo { -pocket-brand-name }, parte da família { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Histórias recomendadas
     .description = Conteúdo excepcional escolhido pela família { -brand-product-name }
@@ -273,3 +270,12 @@ newtab-custom-recent-toggle =
     .description = Uma seleção de sites e conteúdos recentes
 newtab-custom-close-button = Fechar
 newtab-custom-settings = Gerenciar mais configurações
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Fundo de tela
+newtab-wallpaper-reset = Restaurar padrão
+newtab-wallpaper-light-red-panda = Panda vermelho
+newtab-wallpaper-light-mountain = Montanha branca
+newtab-wallpaper-light-sky = Céu com nuvens violeta e rosa
+newtab-wallpaper-light-color = Formas azul, rosa e amarelo
