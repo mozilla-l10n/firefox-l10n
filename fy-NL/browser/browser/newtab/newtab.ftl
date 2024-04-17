@@ -262,9 +262,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsore fluchkeppelingen
 newtab-custom-pocket-title = Oanrekommandearre troch { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Utsûnderlike ynhâld, gearstald troch { -pocket-brand-name }, ûnderdiel fan de { -brand-product-name }-famylje
-newtab-custom-pocket-toggle =
-    .label = Oanrekommandearre troch { -pocket-brand-name }
-    .description = Utsûnderlike ynhâld, gearstald troch { -pocket-brand-name }, ûnderdiel fan de { -brand-product-name }-famylje
 newtab-custom-stories-toggle =
     .label = Oanrekommandearre ferhalen
     .description = Utsûnderlike ynhâld, sammele troch de { -brand-product-name }-famylje
@@ -277,3 +274,24 @@ newtab-custom-recent-toggle =
     .description = In seleksje fan resinte websites en ynhâld
 newtab-custom-close-button = Slute
 newtab-custom-settings = Mear ynstellingen beheare
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Eftergrûnen
+newtab-wallpaper-reset = Standertwearden
+newtab-wallpaper-light-red-panda = Reade panda
+newtab-wallpaper-light-mountain = Wite berch
+newtab-wallpaper-light-sky = Himel mei pearze en rôze wolken
+newtab-wallpaper-light-color = Blauwe, rôze en giele foarmen
+newtab-wallpaper-light-landscape = Berch lânskip mei blauwe mist
+newtab-wallpaper-light-beach = Strân mei palmbeam
+newtab-wallpaper-dark-aurora = Noarderljocht
+newtab-wallpaper-dark-color = Reade en blauwe foarmen
+newtab-wallpaper-dark-panda = Reade panda ferburgen yn bosk
+newtab-wallpaper-dark-sky = Stedslânskip mei in nachthimel
+newtab-wallpaper-dark-mountain = Lânskip mei berch
+newtab-wallpaper-dark-city = Pears stêdslânskip
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto troch <a data-l10n-name="name-link">{ $author_string }</a> op <a data-l10n-name="webpage-link">{ $webpage_string }</a>

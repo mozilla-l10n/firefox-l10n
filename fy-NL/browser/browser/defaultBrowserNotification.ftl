@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Untfang snelheid, feilichheid en privacy, h
 default-browser-prompt-button-primary-alt = As standertbrowser ynstelle
 default-browser-prompt-checkbox-not-again-label = Dit berjocht net mear toane
 default-browser-prompt-button-secondary = No net
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Foltôgje it ynstellen fan { -brand-short-name } as jo standertbrowser
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Stap 1: gean nei Instellingen > Standaardapps
+    Stap 2: skow omleech nei ‘Webbrowser’
+    Stap 3: selektearje en kies { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Stap 1: gean nei Instellingen > Standaardapps
+    Stap 2: Selektearje ‘Als standaard instellen’ foar { -brand-short-name }
+default-browser-guidance-notification-info-page = Toane:
+default-browser-guidance-notification-dismiss = Dien
