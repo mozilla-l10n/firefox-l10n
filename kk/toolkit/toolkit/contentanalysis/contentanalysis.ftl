@@ -6,10 +6,6 @@ contentanalysis-alert-title = Мазмұнды талдау
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Мазмұнды талдау құралы "{ $content }" ресурсына жауап беру үшін көп уақыт алады.
-contentanalysis-slow-agent-dialog-title = Мазмұнды талдау орындалуда
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Мазмұнды талдау құралы "{ $content }" ресурсын талдауда
 contentanalysis-slow-agent-dialog-header = Сканерлеу орындалуда
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -22,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } агенті сі�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } агенті сіз әкеліп тастаған мәтіннің ұйымыңыздың деректер саясаттарына сәйкес болуына қарап жатыр. Бұл біраз уақыт алуы мүмкін.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } агенті сіз баспағ шығарған нәрсенің ұйымыңыздың деректер саясаттарына сәйкес болуына қарап жатыр. Бұл біраз уақыт алуы мүмкін.
 contentanalysis-operationtype-clipboard = алмасу буфері
 contentanalysis-operationtype-dropped-text = тасталған мәтін
+contentanalysis-operationtype-print = баспаға шығару
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = "{ $filename }" жүктеп жіберу
 contentanalysis-warndialogtitle = Бұл мазмұн қауіпті болуы мүмкін
