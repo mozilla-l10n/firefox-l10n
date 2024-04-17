@@ -279,3 +279,4 @@ newtab-wallpaper-light-red-panda = Panda vermelho
 newtab-wallpaper-light-mountain = Montanha branca
 newtab-wallpaper-light-sky = Céu com nuvens violeta e rosa
 newtab-wallpaper-light-color = Formas azul, rosa e amarelo
+newtab-wallpaper-light-landscape = Paisagem azul montanhosa com neblina
