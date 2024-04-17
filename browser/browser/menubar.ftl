@@ -144,6 +144,8 @@ menu-view-history-button =
     .label = Historija
 menu-view-synced-tabs-sidebar =
     .label = Sinhronizovani tabovi
+menu-view-megalist-sidebar =
+    .label = Lozinke
 menu-view-full-zoom =
     .label = Zumiraj
     .accesskey = Z
@@ -221,12 +223,24 @@ menu-history-undo-menu =
     .label = Nedavno zatvoreni tabovi
 menu-history-undo-window-menu =
     .label = Nedavno zatvoreni prozori
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Pretraži historiju
 
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
     .label = Zabilješke
     .accesskey = b
+menu-bookmarks-manage =
+    .label = Upravljaj oznakama
+menu-bookmark-tab =
+    .label = Označite trenutni tab…
+menu-edit-bookmark =
+    .label = Uredi ovu oznaku…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Pretraži oznake
 menu-bookmarks-all-tabs =
     .label = Zabilježi sve tabove…
 menu-bookmarks-toolbar =
@@ -294,3 +308,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ovo nije obmanjujuća stranica…
     .accesskey = o
+menu-report-broken-site =
+    .label = Prijavi neispravnu stranicu
