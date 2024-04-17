@@ -261,9 +261,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Accesos directos patrocinados
 newtab-custom-pocket-title = Recomendado por { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contenido excepcional seleccionado por { -pocket-brand-name }, parte de la familia { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Recomendado por { -pocket-brand-name }
-    .description = Contenido excepcional seleccionado por { -pocket-brand-name }, parte de la familia { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Historias recomendadas
     .description = Contenido excepcional seleccionado por la familia de { -brand-product-name }
@@ -276,3 +273,24 @@ newtab-custom-recent-toggle =
     .description = Una selección de sitios y contenido recientes
 newtab-custom-close-button = Cerrar
 newtab-custom-settings = Administrar más configuraciones
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Fondos de pantalla
+newtab-wallpaper-reset = Reniciar como predeterminado
+newtab-wallpaper-light-red-panda = Panda rojo
+newtab-wallpaper-light-mountain = Montaña blanca
+newtab-wallpaper-light-sky = Cielo con nubes púrpuras y rosas
+newtab-wallpaper-light-color = Formas azules, rosas y amarillas
+newtab-wallpaper-light-landscape = Paisaje de montaña con neblina azul
+newtab-wallpaper-light-beach = Playa con palmera
+newtab-wallpaper-dark-aurora = Aurora boreal
+newtab-wallpaper-dark-color = Formas rojas y azules
+newtab-wallpaper-dark-panda = Panda rojo oculto en el bosque
+newtab-wallpaper-dark-sky = Paisaje de ciudad con cielo nocturno
+newtab-wallpaper-dark-mountain = Paisaje de montaña
+newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto de <a data-l10n-name="name-link">{ $author_string }</a> en <a data-l10n-name="webpage-link">{ $webpage_string }</a>
