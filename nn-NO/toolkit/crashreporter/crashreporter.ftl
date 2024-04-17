@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Krasjrapportering
-crashreporter-crash-message = { -brand-short-name } fekk problem og krasja.
 crashreporter-plea = For å hjelpa oss å stilla diagnose og å ordna problemet, kan du senda oss ein krasjrapport.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljar: { $details }
@@ -26,3 +24,4 @@ crashreporter-crash-identifier = Krasj-ID: { $id }
 
 # Error strings
 
+crashreporter-error-no-home-dir = Manglar heimemappe
