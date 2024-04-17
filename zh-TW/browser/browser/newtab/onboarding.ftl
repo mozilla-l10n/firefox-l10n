@@ -53,6 +53,8 @@ mr1-onboarding-import-primary-button-label-attribution = 從 { $previous } 匯�
 mr1-onboarding-theme-header = 有您的風格
 mr1-onboarding-theme-subtitle = 使用佈景主題，讓 { -brand-short-name } 有您的風格
 mr1-onboarding-theme-secondary-button-label = 現在不要
+newtab-wallpaper-onboarding-title = 試用新色彩
+newtab-wallpaper-onboarding-primary-button-label = 設定背景圖
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = 系統佈景主題
 mr1-onboarding-theme-label-light = 亮色
