@@ -21,3 +21,16 @@ default-browser-prompt-message-alt = Získajte rýchlosť, bezpečnosť a súkro
 default-browser-prompt-button-primary-alt = Nastaviť ako predvolený prehliadač
 default-browser-prompt-checkbox-not-again-label = Túto správu viac nezobrazovať
 default-browser-prompt-button-secondary = Teraz nie
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Dokončite nastavenie { -brand-short-name(case: "gen") } ako predvoleného prehliadača
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Krok 1: Prejdite do časti Nastavenia > Predvolené aplikácie
+    Krok 2: Prejdite nadol na „Webový prehliadač“
+    Krok 3: Zvoľte { -brand-short-name }
+default-browser-guidance-notification-info-page = Zobraziť viac
+default-browser-guidance-notification-dismiss = Hotovo
