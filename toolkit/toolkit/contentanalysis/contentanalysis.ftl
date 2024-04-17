@@ -6,10 +6,6 @@ contentanalysis-alert-title = Inhoudsanalyse
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Voor bron ‘{ $content }’ duurt het lang voordat het hulpprogramma Inhoudsanalyse reageert
-contentanalysis-slow-agent-dialog-title = Inhoudsanalyse wordt uitgevoerd
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Inhoudsanalyse analyseert bron ‘{ $content }’
 contentanalysis-slow-agent-dialog-header = Scan wordt uitgevoerd
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -22,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } toetst wat u hebt 
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } toetst uw geplakte tekst aan het gegevensbeleid van uw organisatie. Dit kan even duren.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } toetst wat u hebt afgedrukt aan het gegevensbeleid van uw organisatie. Dit kan even duren.
 contentanalysis-operationtype-clipboard = klembord
 contentanalysis-operationtype-dropped-text = geplakte tekst
+contentanalysis-operationtype-print = afdrukken
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = upload van ‘{ $filename }’
 contentanalysis-warndialogtitle = Deze inhoud is mogelijk onveilig
