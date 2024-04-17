@@ -258,9 +258,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsorlu kısayollar
 newtab-custom-pocket-title = { -pocket-brand-name } önerileri
 newtab-custom-pocket-subtitle = { -brand-product-name } ailesinin bir parçası olan { -pocket-brand-name }’ın seçtiği harika içerikler
-newtab-custom-pocket-toggle =
-    .label = { -pocket-brand-name } önerileri
-    .description = { -brand-product-name } ailesinin bir parçası olan { -pocket-brand-name }’ın seçtiği harika içerikler
 newtab-custom-stories-toggle =
     .label = Önerilen makaleler
     .description = { -brand-product-name } ailesinin seçtiği harika içerikler
@@ -273,3 +270,23 @@ newtab-custom-recent-toggle =
     .description = Son kullanılan siteler ve içeriklerden bir seçki
 newtab-custom-close-button = Kapat
 newtab-custom-settings = Diğer ayarları yönet
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Duvar kâğıtları
+newtab-wallpaper-reset = Varsayılana sıfırla
+newtab-wallpaper-light-red-panda = Kızıl panda
+newtab-wallpaper-light-mountain = Beyaz dağ
+newtab-wallpaper-light-sky = Mor ve pembe bulutlu gökyüzü
+newtab-wallpaper-light-color = Mavi, pembe ve sarı şekiller
+newtab-wallpaper-light-landscape = Mavi sisli dağ manzarası
+newtab-wallpaper-light-beach = Palmiye ağaçlı sahil
+newtab-wallpaper-dark-aurora = Aurora Borealis
+newtab-wallpaper-dark-color = Kırmızı ve mavi şekiller
+newtab-wallpaper-dark-panda = Ormanda saklanan kızıl panda
+newtab-wallpaper-dark-sky = Gece gökyüzüyle şehir manzarası
+newtab-wallpaper-dark-city = Mor şehir manzarası
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Fotoğraf: <a data-l10n-name="name-link">{ $author_string }</a> / <a data-l10n-name="webpage-link">{ $webpage_string }</a>

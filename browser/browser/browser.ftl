@@ -910,6 +910,10 @@ data-reporting-notification-button =
     .accesskey = N
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Gizli gezinti
+content-analysis-panel-title = Veri koruması
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Kuruluşunuz veri kaybını önlemek için { $agentName } kullanıyor. <a data-l10n-name="info">Daha fazla bilgi al</a>
 
 ## Unified extensions (toolbar) button
 
