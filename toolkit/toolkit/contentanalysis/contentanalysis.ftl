@@ -61,3 +61,4 @@ contentanalysis-warndialog-response-deny = Annulla
 contentanalysis-inprogress-quit-title = Uscire da { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Ci sono diverse azioni in corso. Uscendo adesso da { -brand-shorter-name } non sarà possibile completarle.
 contentanalysis-inprogress-quit-yesbutton = Sì, esci
+
