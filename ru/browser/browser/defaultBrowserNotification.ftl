@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Получите скорость, безо
 default-browser-prompt-button-primary-alt = Установить браузером по умолчанию
 default-browser-prompt-checkbox-not-again-label = Больше не показывать это сообщение
 default-browser-prompt-button-secondary = Не сейчас
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Завершите установку { -brand-short-name } браузером по умолчанию
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Шаг 1: Перейдите в «Настройки» > «Приложения по умолчанию»
+    Шаг 2: Прокрутите вниз до «Веб-браузер»
+    Шаг 3: Выделите и выберите { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Шаг 1: Перейдите в «Настройки» > «Приложения по умолчанию»
+    Шаг 2: Выберите «Установить по умолчанию» для { -brand-short-name }
+default-browser-guidance-notification-info-page = Показать мне
+default-browser-guidance-notification-dismiss = Готово
