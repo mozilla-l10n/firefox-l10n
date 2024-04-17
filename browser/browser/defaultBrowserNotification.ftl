@@ -21,3 +21,10 @@ default-browser-prompt-message-alt = ہر واری برزؤز کرݨ تے رفت
 default-browser-prompt-button-primary-alt = پہلوں مقرر براؤز دے طور تے سیٹ کرو
 default-browser-prompt-checkbox-not-again-label = ایہ سنیہا دوبارہ نہ ݙکھاؤ
 default-browser-prompt-button-secondary = ہݨ کائناں
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-info-page = میکوں ݙکھاؤ
+default-browser-guidance-notification-dismiss = تھی ڳیا
