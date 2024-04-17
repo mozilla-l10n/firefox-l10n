@@ -284,3 +284,13 @@ newtab-wallpaper-light-sky = 보라색과 분홍색 구름이 있는 하늘
 newtab-wallpaper-light-color = 파란색, 분홍색, 노란색 모양
 newtab-wallpaper-light-landscape = 푸른 안개 산 풍경
 newtab-wallpaper-light-beach = 야자수가 있는 해변
+newtab-wallpaper-dark-aurora = 북극 오로라
+newtab-wallpaper-dark-color = 빨간색과 파란색 모양
+newtab-wallpaper-dark-panda = 숲속에 숨어있는 레서판다
+newtab-wallpaper-dark-sky = 밤하늘이 있는 도시 풍경
+newtab-wallpaper-dark-mountain = 산 풍경
+newtab-wallpaper-dark-city = 보라색 도시 풍경
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_string }</a>에 있는 <a data-l10n-name="name-link">{ $author_string }</a>의 사진
