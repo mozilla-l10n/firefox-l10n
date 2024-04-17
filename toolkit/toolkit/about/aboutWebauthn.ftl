@@ -109,7 +109,7 @@ about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
 about-webauthn-auth-option-false = False
 # If the value is missing (null), it means a certain feature is not supported.
-about-webauthn-auth-option-null = حمایتی کائنی
+about-webauthn-auth-option-null = سہارا تھیا کائنی
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
