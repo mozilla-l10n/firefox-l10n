@@ -205,22 +205,70 @@ mr2022-upgrade-onboarding-pin-private-window-subtitle = Nema sačuvanih kolači�
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-title = Uvijek poštujemo vašu privatnost
+mr2022-onboarding-privacy-segmentation-subtitle = Od inteligentnih prijedloga do pametnijeg pretraživanja, stalno radimo na stvaranju boljeg, personalizovanijeg { -brand-product-name }a.
+mr2022-onboarding-privacy-segmentation-text-cta = Šta želite vidjeti kada ponudimo nove funkcije koje koriste vaše podatke za poboljšanje vašeg pretraživanja?
+mr2022-onboarding-privacy-segmentation-button-primary-label = Koristite preporuke { -brand-product-name }a
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Prikaži detaljne informacije
 
 ## MR2022 Multistage Gratitude screen strings
 
+mr2022-onboarding-gratitude-title = Pomažete nam da izgradimo bolji web
+mr2022-onboarding-gratitude-subtitle = Hvala vam što koristite { -brand-short-name }, uz podršku Mozilla fondacije. Uz vašu podršku, radimo na tome da internet učinimo otvorenijim, dostupnijim i boljim za sve.
+mr2022-onboarding-gratitude-primary-button-label = Pogledajte šta je novo
+mr2022-onboarding-gratitude-secondary-button-label = Započnite pretraživanje
 
 ## Onboarding spotlight for infrequent users
 
+onboarding-infrequent-import-title = Osjećajte se kao kod kuće
+onboarding-infrequent-import-subtitle = Bilo da ga samo isprobavate ili ste se obvezali na njegovo korištenje, možete uvesti oznake, lozinke i još mnogo toga.
+onboarding-infrequent-import-primary-button = Uvezi u { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
+mr2022-onboarding-pin-image-alt =
+    .aria-label = Osoba koja radi na laptopu okružena zvijezdama i cvijećem
+mr2022-onboarding-default-image-alt =
+    .aria-label = Osoba koja grli logo { -brand-product-name }a
+mr2022-onboarding-import-image-alt =
+    .aria-label = Osoba koja vozi skejtbord sa kutijom softverskih ikona
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = Žabe skaču preko lopoča, a u sredini je QR kod za preuzimanje { -brand-product-name } za mobitel
+mr2022-onboarding-pin-private-image-alt =
+    .aria-label = Čarobni štapić čini da se { -brand-product-name }ov logo privatnog pretraživanja pojavi iz šešira
+mr2022-onboarding-privacy-segmentation-image-alt =
+    .aria-label = Svijetloputi i tamnoputi daju peticu
+mr2022-onboarding-gratitude-image-alt =
+    .aria-label = Pogled na zalazak sunca kroz prozor sa lisicom i kućnom biljkom na prozorskoj dasci
+mr2022-onboarding-colorways-image-alt =
+    .aria-label = Sprej za ruke oslikava šareni kolaž zelenog oka, narandžaste patike, crvene košarkaške lopte, ljubičastih slušalica, plavog srca i žute krune
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Lisica na ekranu laptopa maše. Laptop ima uključen miš.
+onboarding-device-migration-title = Dobrodošli nazad!
+onboarding-device-migration-subtitle = Prijavite se na svoj { -fxaccount-brand-name(capitalization: "sentence") } da ponesete svoje oznake, lozinke i historiju sa sobom na svom novom uređaju.
+onboarding-device-migration-subtitle2 = Prijavite se na svoj račun da ponesete svoje oznake, lozinke i historiju sa sobom na svom novom uređaju.
+onboarding-device-migration-primary-button-label = Prijava
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Volimo da vas čuvamo
+onboarding-easy-setup-security-and-privacy-subtitle = Naš neprofitni pretraživač pomaže u sprečavanju kompanija da vas potajno prate širom interneta.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Ostanite šifrovani kada prelazite s jednog uređaja na drugi
+onboarding-mobile-download-security-and-privacy-subtitle = Kada ste sinhronizovani, { -brand-short-name } šifruje vaše lozinke, oznake i još mnogo toga. Osim toga, možete preuzeti tabove sa svojih drugih uređaja.
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } ti čuva leđa
+onboarding-gratitude-security-and-privacy-subtitle = Hvala vam što koristite { -brand-short-name }, uz podršku Mozilla fondacije. Uz vašu podršku, radimo na tome da internet učinimo sigurnijim i dostupnijim za sve.
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Koliko dugo koristite { -brand-short-name }?
+onboarding-new-user-familiarity-based-survey-title = Koliko ste upoznati sa { -brand-short-name }om?
+onboarding-new-user-survey-subtitle = Vaše povratne informacije pomažu da { -brand-short-name } bude još bolji.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Sljedeće
