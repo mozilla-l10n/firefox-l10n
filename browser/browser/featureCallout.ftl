@@ -28,6 +28,18 @@ callout-firefox-view-colorways-reminder-subtitle = Obojite svoj pretraživač ov
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Poboljšajte svoje pretraživanje uz preuzimanje taba
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Pristupite otvorenim karticama sa bilo kojeg uređaja. Plus sinhronizirajte svoje oznake, lozinke i još mnogo toga.
+continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Započni
 
 ## PDF.js Feature Tour Strings
 
+callout-pdfjs-edit-title = Uredite PDF-ove pomoću našeg novog alata za tekst
+callout-pdfjs-edit-body-a = Popunite formulare, dodajte komentare ili vodite bilješke direktno u { -brand-short-name }u.
+callout-pdfjs-edit-body-b = Preskočite pretragu besplatnih online uređivača. Popunite formulare, dodajte komentare ili vodite bilješke direktno u { -brand-short-name }u.
+callout-pdfjs-edit-button = Sljedeće
+callout-pdfjs-draw-title = Potpišite dokumente našim novim alatom za crtanje
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = Označite PDF-ove, a zatim sačuvajte promjene.
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Nema više štampanja i skeniranja. Označite PDF-ove, a zatim sačuvajte promjene.
+callout-pdfjs-draw-button = Razumijem!
