@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = 항상 { $url }을(를) 
 protocolhandler-mailto-handler-yes-confirm = { $url }은(는) 이제 이메일을 보내는 링크를 여는 기본 사이트입니다.
 protocolhandler-mailto-handler-set-message = 이메일을 여는 링크를 클릭할 때마다 </strong>{ -brand-short-name }에서 { $url }<strong> url을 사용하시겠습니까?
 protocolhandler-mailto-handler-confirm-message = <strong>{ -brand-short-name }에서 { $url }</strong> url은 이제 컴퓨터의 기본 이메일 처리기입니다.
+protocolhandler-mailto-handler-set = 이메일을 여는 링크를 클릭할 때마다 <strong>{ -brand-short-name }에서 { $url }을 열까요?</strong>
 protocolhandler-mailto-handler-confirm = 이메일을 보내는 링크를 클릭할 때마다 <strong>{ -brand-short-name }는 { $url }을 엽니다</strong>.
 
 ##
