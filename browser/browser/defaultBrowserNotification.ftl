@@ -21,3 +21,14 @@ default-browser-prompt-message-alt = 탐색할 때 속도, 안전 및 개인 정
 default-browser-prompt-button-primary-alt = 기본 브라우저로 설정
 default-browser-prompt-checkbox-not-again-label = 이 메시지를 다시 표시 안 함
 default-browser-prompt-button-secondary = 나중에
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = { -brand-short-name }를 기본 브라우저로 설정 완료
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    1단계: 설정 > 기본 앱으로 이동
+    2단계: 아래로 스크롤하여 "웹 브라우저"로 이동
+    3단계: { -brand-short-name }를 선택
