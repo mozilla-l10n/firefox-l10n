@@ -261,9 +261,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Демеушілік жарлықтары
 newtab-custom-pocket-title = { -pocket-brand-name } ұсынған
 newtab-custom-pocket-subtitle = { -brand-product-name } отбасының мүшесі болып табылатын, { -pocket-brand-name } жетекшілік ететін тамаша құрама
-newtab-custom-pocket-toggle =
-    .label = { -pocket-brand-name } ұсынған
-    .description = { -brand-product-name } отбасының мүшесі болып табылатын, { -pocket-brand-name } жетекшілік ететін тамаша құрама
 newtab-custom-stories-toggle =
     .label = Ұсынылатын оқиғалар
     .description = { -brand-product-name } жетекшілік ететін тамаша құрама
@@ -276,3 +273,20 @@ newtab-custom-recent-toggle =
     .description = Жуырдағы сайттар мен құрама таңдауы
 newtab-custom-close-button = Жабу
 newtab-custom-settings = Көбірек баптауларды басқару
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Түсқағаздар
+newtab-wallpaper-reset = Бастапқы түріне тастау
+newtab-wallpaper-light-red-panda = Қызыл панда
+newtab-wallpaper-light-mountain = Ақ тау
+newtab-wallpaper-light-sky = Күлгін және қызғылт бұлттары бар аспан
+newtab-wallpaper-light-color = Көк, қызғылт және сары пішіндер
+newtab-wallpaper-light-landscape = Көк тұман тау пейзажы
+newtab-wallpaper-light-beach = Пальма ағашы бар жағажай
+newtab-wallpaper-dark-aurora = Солтүстік шұғыласы
+newtab-wallpaper-dark-color = Қызыл және көк пішіндер
+newtab-wallpaper-dark-panda = Орманда жасырылған қызыл панда
+newtab-wallpaper-dark-sky = Түнгі аспаны бар қала пейзажы
+newtab-wallpaper-dark-mountain = Таулы пейзаж
+newtab-wallpaper-dark-city = Күлгін қала пейзажы
