@@ -106,6 +106,18 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
+downloading-file-opens-in-hours-and-minutes-2 =
+    .value = Otvaranje za { $sati }h { $minute }m…
+downloading-file-opens-in-minutes-2 =
+    .value = Otvaranje za { $minutes }m…
+downloading-file-opens-in-minutes-and-seconds-2 =
+    .value = Otvaranje za { $minutes }m { $seconds }s…
+downloading-file-opens-in-seconds-2 =
+    .value = Otvaranje za { $seconds }s…
+downloading-file-opens-in-some-time-2 =
+    .value = Otvara se kada se završi…
+downloading-file-click-to-open =
+    .value = Otvorite kada završite
 
 ##
 
@@ -133,6 +145,8 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-blocked-from-url = Preuzimanja blokirana sa { $url }.
+downloads-blocked-download-detailed-info = { $url } je pokušao automatski preuzeti više datoteka. Stranica je možda pokvarena ili pokušava pohraniti spam datoteke na vaš uređaj.
 
 ##
 
@@ -150,6 +164,11 @@ downloads-panel-empty =
 ## Download errors
 
 downloads-error-alert-title = Greška pri preuzimanju
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = Preuzimanje se ne može sačuvati jer ga blokira { $extension }.
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = Preuzimanje nije moguće sačuvati jer je blokirano ekstenzijom.
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     Preuzimanje ne može biti spašeno jer se desila nepoznata greška.
