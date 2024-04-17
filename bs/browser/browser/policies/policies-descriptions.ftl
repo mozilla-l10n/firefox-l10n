@@ -54,9 +54,35 @@ policy-DisableProfileImport = Onemogućite naredbu menija za uvoz podataka iz dr
 policy-DisableProfileRefresh = Onemogućite dugme za osvježavanje programa { -brand-short-name } na stranici about:support.
 policy-DisableSafeMode = Onemogućite funkciju za ponovno pokretanje u sigurnom načinu rada. Napomena: taster Shift za ulazak u siguran način rada može se onemogućiti samo u Windowsu pomoću smjernica grupe.
 policy-DisableSecurityBypass = Spriječite korisnika da zaobiđe određena sigurnosna upozorenja.
+policy-DisableSetAsDesktopBackground = Onemogućite naredbu menija Postavi kao pozadinu radne površine za slike.
+policy-DisableSystemAddonUpdate = Spriječite pretraživač da instalira i ažurira sistemske dodatke.
+policy-DisableTelemetry = Isključite telemetriju.
+policy-DisableThirdPartyModuleBlocking = Spriječite korisnika da blokira module treće strane koji se ubacuju u proces { -brand-short-name }.
+policy-DisplayBookmarksToolbar = Zadano prikazati traku sa alatima za oznake.
+policy-DisplayMenuBar = Zadano prikazati traku menija.
+policy-DNSOverHTTPS = Konfigurišite DNS preko HTTPS-a.
+policy-DontCheckDefaultBrowser = Onemogućite provjeru zadanog pretraživača pri pokretanju.
+policy-DownloadDirectory = Postavite i zaključajte direktorij za preuzimanje.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Omogućite ili onemogućite blokiranje sadržaja i opcionalno ga zaključajte.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 
 ##
 
+policy-SearchEngines = Konfigurirajte postavke tražilice. Ovo pravilo je dostupno samo na verziji proširene podrške (ESR).
+policy-SearchSuggestEnabled = Omogućite ili onemogućite prijedloge za pretraživanje.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Dodajte ili izbrišite PKCS #11 module.
+policy-ShowHomeButton = Prikaži početno dugme na traci sa alatima.
+policy-SSLVersionMax = Postavite maksimalnu SSL verziju.
+policy-SSLVersionMin = Postavite minimalnu SSL verziju.
+policy-StartDownloadsInTempDirectory = Natjerajte preuzimanja da počnu na lokalnoj, privremenoj lokaciji umjesto na zadanom direktoriju za preuzimanje.
+policy-SupportMenu = Dodajte prilagođenu stavku menija podrške u meni pomoći.
+policy-TranslateEnabled = Omogućite ili onemogućite prijevod web stranice.
+policy-UserMessaging = Ne prikazujte određene poruke korisniku.
+policy-UseSystemPrintDialog = Štampajte pomoću sistemskog dijaloga za štampanje.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Blokirajte posjećivanje web stranica. Pogledajte dokumentaciju za više detalja o formatu.
+policy-Windows10SSO = Dozvolite Windows jednokratnu prijavu za Microsoft, poslovne i školske račune.
