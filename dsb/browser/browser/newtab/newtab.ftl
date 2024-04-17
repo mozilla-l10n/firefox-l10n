@@ -264,9 +264,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponserowane zwězanja
 newtab-custom-pocket-title = Wót { -pocket-brand-name } dopórucone
 newtab-custom-pocket-subtitle = Wósebne wopśimjeśe, wubrane pśez { -pocket-brand-name }, źěla swójźby { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Wót { -pocket-brand-name } dopórucone
-    .description = Wósebne wopśimjeśe, wubrane pśez { -pocket-brand-name }, źěla swójźby { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Dopórucone tšojeńka
     .description = Wuwześowe wopśimjeśe, kótarež se pśez swójźbu { -brand-product-name } wótwardujo
@@ -279,3 +276,23 @@ newtab-custom-recent-toggle =
     .description = Wuběrk nejnowšych sedłow a nejnowšego wopśimjeśa
 newtab-custom-close-button = Zacyniś
 newtab-custom-settings = Dalšne nastajenja zastojaś
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Slězynowe wobraze
+newtab-wallpaper-reset = Na standard slědk stajiś
+newtab-wallpaper-light-red-panda = Cerwjeny panda
+newtab-wallpaper-light-mountain = Běła góra
+newtab-wallpaper-light-sky = Njebjo z wioletnymi a rožowymi mrokawami
+newtab-wallpaper-light-color = Módre, rožowe a žołte formy
+newtab-wallpaper-light-beach = Pśibrjog z palmu
+newtab-wallpaper-dark-aurora = Aurora Borealis
+newtab-wallpaper-dark-color = Cerwjene a módre formy
+newtab-wallpaper-dark-panda = Cerwjeny panda w lěsu schowany
+newtab-wallpaper-dark-sky = Měsćańska krajina z nocnym njebjom
+newtab-wallpaper-dark-mountain = Górinowa krajina
+newtab-wallpaper-dark-city = Wioletna měsćańska krajina
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto wót <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
