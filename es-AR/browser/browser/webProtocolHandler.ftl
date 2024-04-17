@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = ¿Abrir siempre enlaces 
 protocolhandler-mailto-handler-yes-confirm = { $url } es ahora el sitio predeterminado para abrir enlaces que envíen correos electrónicos.
 protocolhandler-mailto-handler-set-message = ¿Usar <strong>{ $url } en { -brand-short-name }</strong> cada vez que se haga clic en un enlace que abra el correo electrónico?
 protocolhandler-mailto-handler-confirm-message = <strong>{ $url } en { -brand-short-name }</strong> es ahora el controlador de correo electrónico predeterminado de su computadora.
+protocolhandler-mailto-handler-set = ¿Usar <strong>{ -brand-short-name } para abrir { $url }</strong> cada vez que se haga clic en un enlace que abra el correo electrónico?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } abrirá { $url }</strong> cada vez que haga clic en un enlace que envía un correo electrónico.
 
 ##
