@@ -6,10 +6,6 @@ contentanalysis-alert-title = Analyza wobsaha
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Nastroj Analyza wobsaha dołho trjeba, zo by za resursu „{ $content }“ wotmołwił
-contentanalysis-slow-agent-dialog-title = Analyza wobsaha běži
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Analyza wobsaha resursu „{ $content }“ analyzuje
 contentanalysis-slow-agent-dialog-header = Skenuje so
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -22,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } na zakładźe dato
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } tekst, kotryž sće zasadźił, na zakładźe datowych prawidłow wašeje organizacije přepruwuje. To wokomik traje.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } na zakładźe datowych prawidłow wašeje organizacije přepruwuje, štož sće ćišćał. To wokomik traje.
 contentanalysis-operationtype-clipboard = mjezyskład
 contentanalysis-operationtype-dropped-text = pušćeny tekst
+contentanalysis-operationtype-print = ćišćeć
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = Nahraće “{ $filename }”
 contentanalysis-warndialogtitle = Tutón wobsah je snano njewěsty
