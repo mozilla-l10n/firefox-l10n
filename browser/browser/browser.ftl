@@ -908,6 +908,10 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navigation private
+content-analysis-panel-title = Protection de datos
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Tu organisation usa { $agentName } pro proteger contra perdita de datos. <a data-l10n-name="info">Pro saper plus</a>
 
 ## Unified extensions (toolbar) button
 
