@@ -6,10 +6,6 @@ contentanalysis-alert-title = Tetepy resa’ỹijo
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Tetepy ñehesa’ỹijo rembiporu nombohovái pya’e “{ $content }” porukuaápe
-contentanalysis-slow-agent-dialog-title = Tetepy resa’ỹijo oikovahína
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Pe tetepy ñehesa’ỹijoha ohesa’ỹijo “{ $content }” mba’e
 contentanalysis-slow-agent-dialog-header = Moha’ãnga ojehúva
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -24,6 +20,7 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } ohechahína oikova
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } ohechahína moñe’ẽrã ojepoíva he’iháicha atyguasu mba’ekuaarã porureko. Kóva ipukumiekuaa.
 contentanalysis-operationtype-clipboard = kuatiajokoha
 contentanalysis-operationtype-dropped-text = moñe’ẽrã ho’áva
+contentanalysis-operationtype-print = Mbokuatia
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = “{ $filename }” ñemyanyhẽ
 contentanalysis-warndialogtitle = Ko tetepy ikatu nahekorosãi

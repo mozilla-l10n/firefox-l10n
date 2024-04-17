@@ -21,3 +21,10 @@ default-browser-prompt-message-alt = Erekosépa ipya’e, hekorosã ha hekoñem�
 default-browser-prompt-button-primary-alt = Ejapo kundahára ijypyguávarõ
 default-browser-prompt-checkbox-not-again-label = Anive ehechauka ko ñe’ẽmondo
 default-browser-prompt-button-secondary = Ani ko’ág̃a
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-info-page = Ehechaukána
+default-browser-guidance-notification-dismiss = Apopyre

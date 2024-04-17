@@ -273,3 +273,10 @@ newtab-custom-recent-toggle =
     .description = Tenda jeporavo ha tetepy ramovegua
 newtab-custom-close-button = Mboty
 newtab-custom-settings = Eñangareko hetave ñembohekóre
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Mba’erechaha rugua
+newtab-wallpaper-reset = Emoñerũjey ypyguáramo
+newtab-wallpaper-light-red-panda = Panda pytã
+newtab-wallpaper-light-mountain = Yvyty morotĩ
