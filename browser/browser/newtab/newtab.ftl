@@ -264,9 +264,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponserowane zwjazanja
 newtab-custom-pocket-title = Wot { -pocket-brand-name } doporučene
 newtab-custom-pocket-subtitle = Wosebite wobsah, wubrany přez { -pocket-brand-name }, dźěla swójby { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Wot { -pocket-brand-name } doporučene
-    .description = Wosebite wobsah, wubrany přez { -pocket-brand-name }, dźěla swójby { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Doporučene stawiznički
     .description = Wuwzaćowy wobsah, kotryž so přez swójbu { -brand-product-name } hlada
@@ -279,3 +276,10 @@ newtab-custom-recent-toggle =
     .description = Wuběr najnowšich sydłow a najnowšeho wobsaha
 newtab-custom-close-button = Začinić
 newtab-custom-settings = Dalše nastajenja rjadować
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Pozadkowe wobrazy
+newtab-wallpaper-reset = Na standard wróćo stajić
+newtab-wallpaper-light-red-panda = Čerwjeny panda
+newtab-wallpaper-light-mountain = Běła hora
