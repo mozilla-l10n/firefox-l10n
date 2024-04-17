@@ -21,3 +21,9 @@ default-browser-prompt-message-alt = Obtén velocidad, seguridad y privacidad ca
 default-browser-prompt-button-primary-alt = Establecer como navegador predeterminado
 default-browser-prompt-checkbox-not-again-label = No volver a mostrar este mensaje
 default-browser-prompt-button-secondary = Ahora no
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-dismiss = Hecho
