@@ -109,6 +109,9 @@ migration-bookmarks-from-file-json-filter-title = JSON datoteka
 migration-import-button-label = Uvoz
 migration-choose-to-import-from-file-button-label = Uvezi iz datoteke
 migration-import-from-file-button-label = Odaberite datoteku
+migration-cancel-button-label = Otkaži
+migration-done-button-label = Gotovo
+migration-continue-button-label = Nastavi
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
