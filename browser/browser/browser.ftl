@@ -911,6 +911,7 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Kundaha ñemigua
+content-analysis-panel-title = Mba’ekuaarã ñemo’ã
 
 ## Unified extensions (toolbar) button
 
