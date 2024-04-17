@@ -28,6 +28,7 @@ about-logging-logging-to-profiler = { -profiler-brand-name } تے لاگ ان ک
 about-logging-no-log-modules = کوئی وی کائنی
 about-logging-no-log-file = کوئی وی کائنی
 about-logging-logging-preset-selector-text = لاگنگ پری سیٹ:
+about-logging-with-profiler-stacks-checkbox = لاگ پیغاماں کِیتے سٹیک ٹریس کوں فعال کرو
 
 ## Logging presets
 
@@ -36,16 +37,22 @@ about-logging-preset-networking-description = نیٹ ورکنگ دے مسائل 
 about-logging-preset-networking-cookie-label = کوکیاں
 about-logging-preset-networking-cookie-description = کوکی مسائل دی تشخیص کیتے ماڈیول لاگ ان کرو۔
 about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = WebSocket مسائل دی تشخیص کیتے ماڈیول لاگ ان کرو۔
 about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = HTTP/3 اَتے QUIC مسائل دی تشخیص کیتے ماڈیولز لاگ کرو۔
+about-logging-preset-networking-http3-upload-speed-label = HTTP/3 اپ لوڈ دی رفتار
+about-logging-preset-networking-http3-upload-speed-description = HTTP/3 اپ لوڈ دی رفتار دے مسئلیاں دی تشخیص کِیتے ماڈیول لاگ کرو
 about-logging-preset-media-playback-label = میڈیا پلے بیک
 about-logging-preset-media-playback-description = میڈیا پلے بیک مسائل دی تشخیص کیتے ماڈیول لاگ کرو (ویڈیو کانفرنسنگ دے مسائل کائنی)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = WebRTC کالز دی تشخیص کِیتے ماڈیول لاگ کرو
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU مسائل دی تشخیص کیتے ماڈیول لاگ ان کرو۔
 about-logging-preset-gfx-label = گرافکس
 about-logging-preset-gfx-description = گرافکس مسائل دی تشخیص کیتے ماڈیول لاگ
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = مائیکروسافٹ ونڈوز کِیتے مخصوص مسئلیاں دی تشخیص کِیتے ماڈیول لاگ کرو
 about-logging-preset-custom-label = مخصوص
 about-logging-preset-custom-description = لاگ ماڈیولز دستی طور تے منتخب تھئے۔
 # Error handling

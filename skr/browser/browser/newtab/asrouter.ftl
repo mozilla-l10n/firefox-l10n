@@ -204,6 +204,8 @@ cfr-cbh-confirm-button = کوکی بینراں کوں مسترد کرو
     .accesskey = R
 cfr-cbh-dismiss-button = ہݨ کائناں
     .accesskey = N
+cookie-banner-blocker-onboarding-header = { -brand-short-name }نے ہُݨیں تُہاݙے کِیتے ہِک کوکی بینر کنوں انکار کر ݙِتّا ہِے
+cookie-banner-blocker-onboarding-body = گَھٹ خلفشار، گَھٹ کوکیز تُہاکُوں اِیں سائٹ اُتے ٹریک کریندیاں ہِن۔
 cookie-banner-blocker-onboarding-learn-more = ٻیا سِکھو
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
@@ -235,15 +237,19 @@ fxa-sync-cfr-secondary = میکوں بعد اِچ یاد ݙیواؤ
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-header = آپݨے ڈیٹا کوں بیک اپ کرݨ نہ بھُلو
+device-migration-fxa-spotlight-heavy-user-body = یقینی بݨاؤ جو اہم معلومات — جیویں بُک مارکس اَتے پاس ورڈز — تُہاݙے ساریاں ڈیوائسز اُتے اَپ ڈیٹ اَتے محفوظ ہِن۔
 device-migration-fxa-spotlight-heavy-user-primary-button = شروع کرو
 device-migration-fxa-spotlight-older-device-header = { -brand-product-name } نال، ذہنی سکون
 device-migration-fxa-spotlight-older-device-body = تساں جہڑی وی ڈیوائس تے کنکٹ تھیوو کھاتہ تہاݙیاں اہم معلومات اپ ڈیٹ تے حفاظت نال رکھدے۔
 device-migration-fxa-spotlight-older-device-primary-button = کھاتہ بݨاؤ
 device-migration-fxa-spotlight-getting-new-device-header-2 = تہاݙے مستقبل وچ نویں ڈیوائس؟
+device-migration-fxa-spotlight-getting-new-device-body-2 = آپݨے بُک مارکس، ہسٹری، اَتے پاس ورڈز آپݨے نال گِھن آوݨ کِیتے کُجھ سَوکھے اقدامات اُتے عمل کرو جہڑیلے تُساں کئیں نویں ڈیوائس اُتے کم شروع کرو۔
 device-migration-fxa-spotlight-getting-new-device-primary-button = میں آپݨے ڈیٹا کوں بیک اپ کین٘ویں کراں
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>{ -brand-short-name }کوں آپݨاں ڈیفالٹ پی ڈی ایف ریڈر بݨاؤ؟ </strong> آپݨے کمپیوٹر اُتے محفوظ کِیتے ڳئے پی ڈی ایفس کوں پڑھݨ اَتے اِنّھاں وِچ ترمیم کرݨ کِیتے { -brand-short-name } دا استعمال کرو۔
 pdf-default-notification-set-default-button =
     .label = بطور طے شدہ سیٹ کرو
 pdf-default-notification-decline-button =
@@ -251,6 +257,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>ہر واری جہڑیلے تُساں آپݨے کمپیوٹر کوں وَلا شروع کرو تاں { -brand-short-name } کوں کھولو؟ </strong>ہُݨ تُساں آپݨی ڈیوائس کوں وَلا شروع کرݨ اُتے آپُوں آپ کُھلّݨ کِیتے { -brand-short-name } کوں سیٹ کر سڳدے ہِیوے۔
 launch-on-login-learnmore = ٻیا سِکھو
 launch-on-login-infobar-confirm-button = جیا، { -brand-short-name } کھولو
     .accesskey = Y
@@ -260,10 +267,17 @@ launch-on-login-infobar-reject-button = ہݨ کائناں
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>ہر واری جہڑیلے تُساں آپݨے کمپیوٹر کوں وَلا شروع کرو تاں { -brand-short-name } کوں کھولو؟ </strong> آپݨی سٹارٹ اَپ ترجیحاں دا نظم کرݨ کِیتے، ترتیباں وِچ "سٹارٹ اپ" لبّھو۔
 launch-on-login-infobar-final-reject-button = کو، شکریہ
     .accesskey = N
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = پریشان کُن ٹریکرز کوں آپݨ دُم کنوں پَرے رکّھو
+tail-fox-spotlight-subtitle = پریشان کرݨ آلے اشتہاراتی ٹریکرز کوں خیرباد آکھو اَتے ہِک محفوظ، تِکّھی رفتار انٹرنیٹ تجربہ حاصل کرو۔
 tail-fox-spotlight-primary-button = { -brand-short-name } دے نال میݙے لنک کھولو
 tail-fox-spotlight-secondary-button = ہݨ کائناں

@@ -39,6 +39,9 @@ third-party-status-loaded = لوڈ تھی ڳیا
 third-party-status-blocked = بلاک تھی ڳیا
 third-party-status-redirected = ری ڈائریکٹ کیتا ڳیا
 third-party-button-copy-to-clipboard = خام ڈیٹا کوں کلپ بورڈ وِچ کاپی کرو۔
+third-party-loading-data =
+    .alt = سسٹم دی معلومات لوڈ تھین٘دی پئی ہِے…
+    .title = سسٹم دی معلومات لوڈ تھین٘دی پئی ہِے…
 third-party-button-reload = سسٹم دی معلومات دے نال دوبارہ لوڈ کرو
     .title = سسٹم دی معلومات دے نال دوبارہ لوڈ کرو
 third-party-button-open =
@@ -62,10 +65,18 @@ third-party-button-to-block-module = ایہ ماڈیول بلاک کرو
 third-party-button-to-unblock-module = ایہ ماڈیول اݨ بلاک کرو
     .title = حالیہ بلاک تھیا ہوئے۔ ایں کوں اݨ بلاک کرݨ کیتے کلک کرو۔
     .aria-label = حالیہ بلاک تھیا ہوئے۔ ایں کوں اݨ بلاک کرݨ کیتے کلک کرو۔
+third-party-button-to-unblock-module-disabled = اِیں ماڈیول کوں اَنبلاک کرو (بلاک لِسٹ اِیں ویلے غیر فعال ہِے)
+    .title =
+        اِیں ویلے بلاک تھئے ہوئے دے طور تے نشان زد کِیتا ڳِیا ہِے، بھان٘ویں جو بلاک لِسٹ اِیں رن کِیتے غیر فعال ہِے۔ 
+        { -brand-short-name } دا۔ اِیکوں اَنبلاک کرݨ کِیتے اِتّھاں دباؤ۔
+    .aria-label =
+        اِیں ویلے بلاک تھئے ہوئے دے طور تے نشان زد کِیتا ڳِیا ہِے، بھان٘ویں جو بلاک لِسٹ اِیں رن کِیتے غیر فعال ہِے۔ 
+        { -brand-short-name } دا۔ اِیکوں اَنبلاک کرݨ کِیتے اِتّھاں دباؤ۔
 third-party-button-expand =
     .title = تفصیلی معلومات ݙکھاؤ
 third-party-button-collapse =
     .title = تفصیلی معلومات ولھیٹو
+third-party-blocking-requires-restart = تِرِیجھے فریق دے ماڈیول کوں بلاک کرݨ کِیتے، { -brand-short-name } کوں وَلا شروع کرݨاں چاہِیدا ہِے۔
 third-party-should-restart-title = نویں سروں چلاؤ { -brand-short-name }
 third-party-restart-now = ہُݨ ولدا شروع کرو
 third-party-restart-later = بعد اِچ نویں سروں شروع کرو

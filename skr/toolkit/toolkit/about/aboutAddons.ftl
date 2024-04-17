@@ -171,6 +171,8 @@ extensions-warning-update-security2 =
     .message = ایڈ آن اپ ڈیٹ سیکیورٹی چیکنگ غیر فعال ہے۔ تہاݙا اپ ڈیٹاں نال سمجھوتہ کیتا ونڄ سڳدا ہے۔
 extensions-warning-update-security-button = فعال بݨاؤ
     .title = ایڈ آن سیکیورٹی چیکنگ فعال بݨاؤ
+extensions-warning-imported-addons2 =
+    .message = تھورائیت کرین٘دے ہوئے ایکسٹنشناں دی تنصیب کوں حتمی شکل ݙیؤ جہڑیاں { -brand-short-name } وِچ درآمد کِیتیاں ڳئیاں ہَن۔
 extensions-warning-imported-addons-button = ایکسٹنشناں انسٹال کرو
 
 ## Strings connected to add-on updates
@@ -399,6 +401,10 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = پابندیاں دے نال سائٹاں اُتے چلاؤ
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = اجازت مِلّݨ تے، ایکسٹنشن کوں { -vendor-short-name } دے ذریعے محدود کِیتے ڳئے سائٹاں تئیں رسائی حاصل تھیسی۔ صرف اِیں صورت وِچ اجازت ݙیؤ جہڑیلے تُہاکوں اِیں توسیع اُتّے اعتماد ہووے۔
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = اجازت ݙیوو
 addon-detail-quarantined-domains-disallow = اجازت نہ ݙیوو

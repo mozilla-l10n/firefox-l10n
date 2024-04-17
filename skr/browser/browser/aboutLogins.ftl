@@ -64,6 +64,14 @@ login-list-count2 =
         [one] { $count } پاسورڈ
        *[other] { $count } پاسورڈز
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count }وِچوں { $total }پاس ورڈ
+       *[other] { $count }وِچوں { $total } پاس ورڈز
+    }
 login-list-sort-label-text = دے مطابق چھانٹی کرو:
 login-list-name-option = ناں(A-Z)
 login-list-name-reverse-option = ناں (Z-A)
@@ -99,10 +107,14 @@ about-logins-login-intro-heading-logged-out2 = اپݨے ہتھیکڑے لاگ ا
 about-logins-login-intro-heading-logged-in = کوئی سینکڈ لاگ ان نئیں ملیا۔
 login-intro-description = جے تساں اپݨے لاگ انز { -brand-product-name } کوں کہیں ٻئے آلے تے محفوظ کیتا ہویا ہے تاں، انہیں کوں اتھاں حاصل کرݨ دا طریقہ ایویں ہے:
 login-intro-instructions-fxa = اپݨے { -fxaccount-brand-name } کوں ایں دیوائس تے بݨاؤ یا سائن ان کرو جتھاں تہاݙے کیتے لاگ ان ہتھیکڑے کیتے ڳئے ہن۔
+about-logins-login-intro-heading-message = آپݨے پاس ورڈ کوں محفوظ جاء اُتے سان٘بھو
+login-intro-description2 = اُوہ سارے پاس ورڈ جِنّھاں کوں تُساں { -brand-product-name }وِچ محفوظ کرین٘دے ہِیوے انکرپٹ تھئے ہوئے ہِن۔ این٘دے توں اَن٘ج، اَساں خلاف ورزیاں اُتے نظر رکھین٘دے ہِسے اَتے ڄیکر تُساں متاثر تھین٘دے ہِیوے تاں تُہاکوں ݙسین٘دے ہِسے۔ <a data-l10n-name="breach-alert-link">ٻِیا ڄاݨو</a>
+login-intro-instructions-fxa2 = اِیں ڈیوائس اُتے آپݨاں اکاؤنٹ بݨاؤ یا سائن اِن تِھیوو جِتّھاں تُہاݙے لاگ اِن محفوظ ہِن۔
 login-intro-instructions-fxa-settings = ترتیباں > مطابقت پذیری > مطابقت پذیری کوں آن کرو تے  ونڄو ... لاگ ان تے پاس ورڈ چیک باکس کوں منتخب کرو۔
 login-intro-instructions-fxa-passwords-help = ودھیک مدد کیتے <a data-l10n-name="passwords-help-link">پاس ورڈ سپورٹ</a> ملاحظہ کرو۔
 about-logins-intro-browser-only-import = جے تہاݙے لاگ ان کہیں ٻئے براؤزر وِچ محفوظ ہن، تاں تساں <a data-l10n-name="import-link">انہاں کوں{ -brand-product-name } وِچ درآمد کر سڳدے ہو</a>
 about-logins-intro-import2 = جے تہاݙے لاگ ان { -brand-product-name } دے ٻاہر ہتھیکڑے کیتے ڳئے ہن، تاں تساں <a data-l10n-name="import-browser-link">  انہاں کوں ٻئے براؤزر کنوں درآمد کر سڳدے او </a> یا <a data-l10n-name="import-file-link"> کنوں ہک فائل </a>
+about-logins-intro-import3 = ہُݨیں پاس ورڈ رلاوݨ کِیتے اُتّے پلس سائن بٹݨ کوں چُݨو۔ تُساں <a data-l10n-name="import-browser-link">کئیں ٻئے براؤزر کنوں پاس ورڈ درآمد کر سڳدے ہِیوے</a>یا <a data-l10n-name="import-file-link">کئیں فائل وِچوں</a>۔
 
 ## Login
 
@@ -113,6 +125,11 @@ login-item-edit-button = تبدیلی کرو
 about-logins-login-item-remove-button = ہٹاؤ
 login-item-origin-label = ویب سائٹ پتہ
 login-item-tooltip-message = پک کرو جو اے اوں ویب سائٹ دے عین مطابق ایڈریس نال میل کھان٘دے جتھاں تساں لاگ ان تھین٘دے او۔
+about-logins-origin-tooltip2 = پورا پتہ درج کرو اَتے یقینی بݨاؤ جو اِیہ تُہاݙے سائن اِن کرݨ دے اَصلُوں مطابق ہِے۔
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = یقینی بݨاؤ جو تُساں اِیں سائٹ کِیتے آپݨاں موجودہ پاس ورڈ محفوظ کرین٘دے پئے ہِیوے۔ اِتّھاں پاس ورڈ بدلݨ نال اِیہ { $webTitle }کنوں نِھیں بدلدا۔
+about-logins-add-password-tooltip = یقینی بݨاؤ جو تُساں اِیں سائٹ کِیتے آپݨاں موجودہ پاس ورڈ محفوظ کرین٘دے پئے ہِیوے۔
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ورتݨ ناں
@@ -156,6 +173,9 @@ about-logins-edit-login-os-auth-dialog-message-win = اپݨے لاگ ان وِچ
 about-logins-edit-login-os-auth-dialog-message-macosx = محفوظ تھئے لاگ ان وچ تبدیلی کرو
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = اپݨا پاس ورڈ وچ تبدیلی کرݨ کیتے، اپݨے ونڈوز لاگ ان دیاں سنداں درج کرو۔ ایندے نال تہاݙے اکاؤنٹس دی حفاظت وِچ مدد ملدی ہے
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = محفوظ تھئے ہوئے پاس ورڈ وِچ تبدیلی کرو
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = اپݨا پاس ورڈ ݙیکھݨ کیتے، اپݨے ونڈوز لاگ ان دیاں سنداں درج کرو۔ ایندے نال تہاݙے اکاؤنٹس دی حفاظت وِچ مدد ملدی ہے
 # This message can be seen when attempting to reveal a password in about:logins
@@ -171,6 +191,8 @@ about-logins-export-password-os-auth-dialog-message-win = اپݨے لاگ ان �
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = سوگھا لاگ ان تے پاس ورڈ برآمد کرو
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = آپݨے پاس ورڈ برآمد کرݨ کِیتے، آپݨے ونڈوز لاگ اِن دیاں سنداں درج کرو۔ اِین٘دے نال تُہاݙے اکاؤنٹس دی راکھی وِچ مَدت مِلدی ہِے۔
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = محفوظ تھئے پاس ورڈ ایکسپورٹ کرو
@@ -230,12 +252,49 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] ایہ تہاݙے { -fxaccount-brand-name } نال مطابقت پذیر تمام آلات تے { -brand-short-name } وِچ ہتھیکڑے لاگ ان کوں ہٹا ݙیسے۔ ایہ اتھاں ظاہر تھیوݨ والے خلاف ورزی دیاں چتاوݨیاں کوں وی ہٹا ݙیسے۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
        *[other] ایہ تہاݙے { -fxaccount-brand-name } نال مطابقت پذیر تمام آلات تے { -brand-short-name } وِچ ہتھیکڑے کیتے ڳئے تمام لاگ انز کوں ہٹا ݙیسے۔ ایہ اتھاں ظاہر تھیوݨ والیاں خلاف ورزی دیاں چتاوݨیاں کوں وی ہٹا ݙیس۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] جِیہا، پاس ورڈ ہٹاؤ
+        [one] جیہا، پاس ورڈ ہٹاؤ
+       *[other] جیہا، پاس ورڈز ہٹاؤ
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] ہٹا ݙیؤں { $count } پاس ورڈ؟
+       *[other] ہٹا ݙیؤں سبّھے { $count } پاس ورڈز؟
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] اِیہ { -brand-short-name } وِچ محفوظ پاس ورڈ اَتے کئیں وی خلاف ورزی دیاں چِتاوݨیاں کوں ہٹا ݙیسی۔ تُساں اِیں کارروائی کوں بَدل نِھیوے سڳدے۔
+        [one] اِیہ { -brand-short-name } وِچ محفوظ پاس ورڈ اَتے کئیں وی خلاف ورزی دیاں چِتاوݨیاں کوں ہٹا ݙیسی۔ تُساں اِیں کارروائی کوں بَدل نِھیوے سڳدے۔
+       *[other] اِیہ { -brand-short-name } وِچ محفوظ سبّھے پاس ورڈز اَتے کئیں وی خلاف ورزی دیاں چِتاوݨیاں کوں ہٹا ݙیسی۔ تُساں اِیں کارروائی کوں بَدل نِھیوے سڳدے۔
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] سبھے ڈیوائساں وِچوں { $count } پاس ورڈ ہَٹا ݙیؤں؟
+       *[other] سبھے ڈیوائساں وِچوں { $count } سبّھے پاس ورڈز ہَٹا ݙیؤں؟
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] اِیہ { -brand-short-name } وِچ محفوظ پاس ورڈ کوں سبّھے مطابقت پذیر ڈیوائساں وِچوں ہَٹا ݙیسی۔ اِیہ کئیں وی خلاف ورزی دیاں چِتاوݨیاں جہڑیاں اِتّھاں ظاہر تِھین٘دیاں ہِن کوں وید ہٹا ݙیسی۔ تُساں اِیں کارروائی کوں بَدل نِھیوے سڳدے۔
+        [one] اِیہ { -brand-short-name } وِچ محفوظ پاس ورڈ کوں سبّھے  مطابقت پذیر ڈیوائساں وِچوں ہَٹا ݙیسی۔ اِیہ کئیں وی خلاف ورزی دیاں چِتاوݨیاں جہڑیاں اِتّھاں ظاہر تِھین٘دیاں ہِن کوں وید ہٹا ݙیسی۔ تُساں اِیں کارروائی کوں بَدل نِھیوے سڳدے۔
+       *[other] اِیہ { -brand-short-name } وِچ محفوظ سبھے پاس ورڈز کوں سبّھے مطابقت پذیر ڈیوائساں وِچوں ہَٹا ݙیسی۔ اِیہ کئیں وی خلاف ورزی دیاں چِتاوݨیاں جہڑیاں اِتّھاں ظاہر تِھین٘دیاں ہِن کوں وید ہٹا ݙیسی۔ تُساں اِیں کارروائی کوں بَدل نِھیوے سڳدے۔
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = لاگ ان تے پاس ورڈ برآمد کرو
 about-logins-confirm-export-dialog-message = تہاݙے پاس ورڈز کوں پڑھݨ دے قابل متن دے طور تے ہتھیکڑا کیتا ویسے ( مثلاً (e.g., BadP@ssw0rd)  تاں جو جیڑھا وی برآمد شدہ فائل کوں کھول سڳدا ہے وہ انہاں کوں ݙیکھ سڳے۔
 about-logins-confirm-export-dialog-confirm-button = برآمد کرو…
+about-logins-confirm-export-dialog-title2 = پاس ورڈز برآمد کرݨ دے بارے وِچ ہِک چِتاوݨی
+about-logins-confirm-export-dialog-message2 =
+    جہڑیلے تُساں برآمد کرین٘دے ہِیوے، تاں تُہاݙے پاس ورڈز پڑھݨ دے قابل متن آلی فائل وِچ محفوظ تھی وین٘دے ہِن۔
+    جہڑیلے تُساں فائل دا استعمال کر گِھن٘دے ہِیوے، تاں اَساں اِیکوں حذف کرݨ دی صلاح ݙین٘دے ہِیوے تاں جو اِیں ڈائس کوں استعمال کرݨ آلے ٻئے تُہاݙے پاس ورڈز نہ ݙٰکھ سڳِن۔
 about-logins-confirm-export-dialog-confirm-button2 = برآمد نال جاری رکھو
 about-logins-alert-import-title = درآمد مکمل تھئی
 about-logins-alert-import-message = درآمد دا تفصیلی خلاصہ ݙیکھو
@@ -333,6 +392,21 @@ about-logins-import-dialog-items-no-change =
         [one] <span>ڈپلیکیٹ لاگ ان لبھا:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(امپورٹ کائنی تھیا)</span>
        *[other] <span>ڈپلیکیٹ لاگ انز لبھن:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(امپورٹ کائنی تھئے)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>نواں پاس ورڈ رلایا ڳِیا ہِے:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>نویں پاس ورڈز رلائے ڳئے ہِن:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>موجودہ اندراج کوں اپ ڈیٹ کِیتا ڳِیا:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>موجودہ اندراجاں کوں اپ ڈیٹ کِیتا ڳِیا:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>ݙوڑا اندراج لبّھے: </span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(درآمد نِھیں کِیتا ڳِیا)</span>
+       *[other] <span>ݙوڑے اندراجات لبِّھن: </span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(درآمد نِھیں کِیتا ڳِیا)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>خرابی:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(امپورٹ کائنی تھئی)</span>
@@ -362,6 +436,8 @@ about-logins-import-report-row-index = قطار{ $number }
 about-logins-import-report-row-description-no-change = ڈپلیکیٹ: بالکل موجودہ لاگ ان نال رلدا ملدا
 about-logins-import-report-row-description-modified = موجودہ لاگ ان کوں اپڈیٹ کر ݙتا ڳئے
 about-logins-import-report-row-description-added = نواں لاگ ان شامل تھیا
+about-logins-import-report-row-description-no-change2 = ݙوہڑا: موجودہ اندراج دے اَصلُوں مطابق
+about-logins-import-report-row-description-modified2 = موجودہ اندراج کوں اپ ڈیٹ کر ݙِتّا ڳِیا
 about-logins-import-report-row-description-added2 = نویں پاس ورڈز شامل تھی ڳیا
 about-logins-import-report-row-description-error = نقص: خانہ خالی ہے
 
@@ -389,6 +465,21 @@ about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ڈپلیکیٹ لاگ ان</div> <div data-l10n-name="not-imported">(درآمد کائنی)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ڈپلیکیٹ لاگ انز</div> <div data-l10n-name="not-imported">(درآمد کائنی)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">نواں پاس ورڈ رلایا ڳِیا</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">نویں پاس ورڈز رلائے ڳئے</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> موجودہ اندراج اپ ڈیٹ کِیتا ڳِیا</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details"> موجودہ اندراجات اپ ڈیٹ کِیتے ڳئے</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">ݙوہڑا اندراج </div><div data-l10n-name="not-imported">(درآمد نِھیں تِھیا)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div><div data-l10n-name="details">ݙوہڑے اندراجات </div><div data-l10n-name="not-imported">(درآمد نِھیں تھئے)</div>
     }
 about-logins-import-report-error =
     { $count ->

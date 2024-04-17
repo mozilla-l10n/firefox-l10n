@@ -7,6 +7,9 @@ sanitize-prefs2 =
     .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+sanitize-dialog-title2 =
+    .title = براؤزنگ ڈیٹا اَتے کوکیز کوں صاف کرو
+    .style = min-width: 34em
 sanitize-dialog-title =
     .title = حالیہ تاریخ صاف کرو
     .style = min-width: 34em
@@ -16,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = یکی تاریخ صاف کرو
     .style = min-width: 34em
 clear-data-settings-label = جݙاں بند ہووے، { -brand-short-name } سبھ کجھ آپݨے آپ خالی کر سڳدا ہے
+sanitize-on-shutdown-description = جہڑیلے { -brand-short-name }بند تھی وین٘دا ہِے تاں خود کار طریقے نال سارے ݙِٹّھے ڳئے شئیں کوں صاف کرو۔
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,24 +58,43 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = تاریخ
     .accesskey = H
+item-history-form-data-downloads-description = سائٹ  اَتے ڈاؤن لوڈ ہسٹری، محفوظ تھئے ہوئے فارم دی معلومات، اَتے ڳویڑاں کوں صاف کرین٘دا ہِے
 item-cookies =
     .label = کوکیاں
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = کوکیز اَتے سائٹ دا ڈیٹا ({ $amount }{ $unit })
+    .accesskey = e
 item-cookies-site-data =
     .label = کوکیاں تے سائٹ ڈیٹا
     .accesskey = e
+item-cookies-site-data-description = تُہاکُوں خالی سائٹاں یا خالی شاپنگ ٹوکریاں کنوں سائن آؤٹ کر سڳدا ہِے
 item-active-logins =
     .label = لاگ انز فعال کرو
     .accesskey = l
 item-cache =
     .label = کیشے
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = عارضی کیشئیڈ فائلاں اَتے پَنّے ({ $amount }{ $unit })
+    .accesskey = f
+item-cached-content =
+    .label = عارضی کیشئیڈ فائلاں اَتے پَنّے
+    .accesskey = f
+item-cached-content-description = آئٹماں کوں صاف کرین٘دا ہِے جہڑے سائٹاں کوں تِکھائی نال لوڈ کرݨ وِچ مَدَت کرین٘دے ہِن
 item-form-search-history =
     .label = فارم تے ڳولݨ تاریخ
     .accesskey = F
 item-site-prefs =
     .label = سائٹ ترتیباں
     .accesskey = 	
+item-site-prefs-description = تُہاݙی اجازت اَتے سائٹ ترجیح کوں اصل ترتبیاں اُتے وَلا سیٹ کرو
 data-section-label = ڈیٹا
 item-site-settings =
     .label = سائٹ ترتیباں

@@ -24,6 +24,8 @@ about-reader-color-theme-gray = خاکی
     .title = رنگ تھیم خاکی
 about-reader-color-theme-contrast = امتزاج
     .title = رنگ تھیم امتزاج
+about-reader-color-theme-custom = آپݨی مرضی دے رنگ
+    .title = رنگین تھیم آپݨی مرضی دے مطابق
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -76,3 +78,10 @@ about-reader-custom-colors-foreground = عبارت
     .title = رنگ وچ تبدیلی کرو
 about-reader-custom-colors-background = بیک گراؤنڈ
     .title = رنگ وچ تبدیلی کرو
+about-reader-custom-colors-unvisited-links = ملاحظہ نہ کیتے ڳئے لنکس
+    .title = رنگ وِچ ترمیم کرو
+about-reader-custom-colors-visited-links = ملاحظہ کیتے ڳئے لنکس
+    .title = رنگ وِچ ترمیم کرو
+about-reader-custom-colors-selection-highlight = اُچّی اَواز نال پڑھݨ کِیتے ہائی لائٹر
+    .title = رنگ وِچ ترمیم کرو
+about-reader-custom-colors-reset-button = طے شدہ ولا تازے کرو

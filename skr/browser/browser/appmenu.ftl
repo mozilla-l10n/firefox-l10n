@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = ودھیک ٹیبز ݙکھاؤ
     .tooltiptext = ایں ڈیوائس کنوں ودھیک ٹیبز ݙکھاؤ
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] ہِک غیر فعال ٹیب ݙِکھاؤ
+           *[other] { $count }غیر فعال ٹیبز ݙِکھاؤ
+        }
+    .tooltiptext = اِیں آلے اُتّے غیر غیر فعال ٹیبز ݙِکھاؤ
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = کوئی کھلے ٹیب  کائنی
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -267,5 +277,8 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = آپݨے کھاتے وچ سائن ان تھیوو
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = ڈیٹا دی خلاف ورزی دیاں چتاوݨیاں حاصل کرو
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = آپݨے اصلی ای میل اَتے فون کوں ماسک کرو
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = آپݨی رازداری دی راکھی کرو

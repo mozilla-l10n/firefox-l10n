@@ -18,7 +18,10 @@ support-addons-type = قسم
 support-addons-enabled = فعال تھیا
 support-addons-version = ورشن
 support-addons-id = آئی ڈی
+legacy-user-stylesheets-title = لیگیسی صارف سٹائل شیٹاں
 legacy-user-stylesheets-enabled = فعال
+legacy-user-stylesheets-stylesheet-types = سٹائل شیٹاں
+legacy-user-stylesheets-no-stylesheets-found = کُئی سٹائل شیٹاں نِھیں لبّھیاں
 security-software-title = سلامتی سافٹ ویئر
 security-software-type = قسم
 security-software-name = ناں
@@ -78,6 +81,7 @@ app-basics-key-mozilla = موزیلا لوکیشن سروس کلید
 app-basics-safe-mode = محفوظ موڈ
 app-basics-memory-size = میموری سائز (RAM)
 app-basics-disk-available = ڈسک دی جاہ دستیاب ہے۔
+app-basics-pointing-devices = اِشارہ کرݨ آلیاں ڈیوائساں
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -183,14 +187,25 @@ media-codec-support-hw-decoding = ہارڈویئر ڈی کوڈنگ
 media-codec-support-codec-name = کوڈک ناں
 media-codec-support-supported = سہارا تھیا
 media-codec-support-unsupported = سہارا تھیا کائنی
+media-codec-support-error = کوڈیک سپورٹ دی معلومات دستیاب کائنی۔ میڈیا فائل کوں چلاوݨ دے بعد وَلا کوشِش کرو۔
 media-codec-support-lack-of-extension = ایکسٹنشن انسٹال کرو
 
 ## Media Content Decryption Modules (CDM)
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-content-decryption-modules-title = مواد دی ڈکرپشن ماڈیولز دی معلومات
 media-key-system-name = اہم سسٹم ناں
+media-video-robustness = ویڈیو مضبوطی
+media-audio-robustness = آڈیو مضبوطی
 media-cdm-capabilities = صلاحیتاں
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = صاف لیڈ
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = HDCP 2.2 ہم آہنگ
 
 ##
 
@@ -270,6 +285,7 @@ try-newer-driver = تہاݙے گرافکس ڈرائیور ورژن کیتے بل
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType پیرامیٹر
 compositing = کمپوزیٹنگ
+support-font-determination = فونٹ دی مرئیت ڈیبگ دی معلومات
 hardware-h264 = ہارڈ ویئر H264 ضابطہ کشائی
 main-thread-no-omtc = مین تھریڈ، کوئی OMTC کائنی۔
 yes = جیا
@@ -413,7 +429,17 @@ support-remote-features-status = حالت
 
 pointing-device-mouse = ماؤس
 pointing-device-touchscreen = ٹچ سکرین
+pointing-device-pen-digitizer = پین ڈیجیٹائزر
+pointing-device-none = کُئی اشارہ کرݨ آلے ڈیوائساں کائنی
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = مواد تجزیہ (ڈی ایل پی)
 content-analysis-active = فعال
+content-analysis-connected-to-agent = ایجنٹ نال کنکٹ ہِے
+content-analysis-agent-path = ایجنٹ دا رستہ
+content-analysis-agent-failed-signature-verification = ایجنٹ دے دستخط دی توثیق نا کام تھی ڳئی
+content-analysis-request-count = درخواست دی ڳِݨَتری

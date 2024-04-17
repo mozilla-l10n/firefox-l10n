@@ -26,5 +26,15 @@ default-browser-prompt-button-secondary = ہݨ کائناں
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = { -brand-short-name } کوں آپݨاں ڈیفالٹ بݨاوݨ مکمل کرو
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    مرحلہ 1: ترتیباں> ڈیفالٹ ایپس تے ون٘ڄو
+    مرحلہ 2: "ویب براؤزر" تئیں تلّے کرو
+    مرحلہ 3: منتخب کرو اَتے چُݨو { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    مرحلہ 1: ترتیباں> ڈیفالٹ ایپس تے ون٘ڄو
+    مرحلہ 2: { -brand-short-name } کِیتے "ڈیفالٹ مُرتّب کرو" چُݨو
 default-browser-guidance-notification-info-page = میکوں ݙکھاؤ
 default-browser-guidance-notification-dismiss = تھی ڳیا

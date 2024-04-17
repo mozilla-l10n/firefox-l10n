@@ -26,3 +26,4 @@ identity-credential-sign-in-button =
     .label = سائن ان
     .accesskey = S
 identity-credential-policy-title = { $provider } کوں لاگ ان مہیاکار دے طور تے ورتو
+identity-credential-policy-description = { $provider }اکاؤنٹ دے نال { $host }وِچ لاگ اِن کرݨ اِنّھاں دی <label data-l10n-name="privacy-url">رازداری پالیسی</label> اَتے <label data-l10n-name="tos-url">خدمت دیاں شرطاں</label> دے نال مشروط ہِے۔

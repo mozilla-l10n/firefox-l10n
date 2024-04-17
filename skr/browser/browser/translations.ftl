@@ -10,6 +10,10 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = ایں ورقے دا ترجمہ کرو ـــ ازمائشی
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = { -brand-shorter-name } - بیٹا وِچ نجی ٻولی وٹارے دی کوشِش کرو
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -43,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = { $language } دا ہمیشہ ترجمہ کرو
 translations-panel-settings-always-translate-unknown-language =
     .label = ایں زبان دا ہمیشہ ترجمہ کرو
+translations-panel-settings-always-offer-translation =
+    .label = نِت ٻولی وٹارے دی پیشکش کرو
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -65,6 +71,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = منسوخ
 translations-panel-learn-more-link = ٻیا سِکھو
+translations-panel-intro-header = { -brand-shorter-name }وِچ ذاتی ترجمے کرݨ دی کوشِش کرو
+translations-panel-intro-description = تُہاݙی رازداری کِیتے، ترجمے تُہاݙے آلے کوں کݙان٘ہیں نِھیں چُھڑین٘دے۔ نویں ٻولیاں اَتے بہتری جَلتی آن٘دیاں پئیاں ہِن!
 translations-panel-error-translating = ترجمہ کرݨ وچ ہک مسئلہ ہائی۔ سوہݨا، ولدا کوشش کرو۔
 translations-panel-error-load-languages = زباناں لوڈ کائنی کر سڳا
 translations-panel-error-load-languages-hint = آپݨے انٹرنیٹ کنکشن دی پڑتال کرو تے ولدا کوشش کرو۔
@@ -120,6 +128,7 @@ translations-manage-download-button = ڈاؤن لوڈ
 translations-manage-delete-button = مٹاؤ
 translations-manage-error-download = زبان فائلاں ڈاؤن لوڈ کرݨ وچ ہک مسئلہ ہائی۔ سوہݨا، ولدا کوشش کرو۔
 translations-manage-error-delete = زبان فائلاں مٹاوݨ وچ ہک خرابی ہائی۔ سوہݨا، ولدا کوشش کرو۔
+translations-manage-intro = آپݨی ٻولی اَتے سائٹ دے ترجمے دیاں ترجیحاں مرتب کرو اَتے آف لائن ترجمہ کِیتے انسٹال کردہ ٻولیاں دا نظم کرو۔
 translations-manage-install-description = آف لائن ترجمے کیتے زناناں انسٹال کرو
 translations-manage-language-install-button =
     .label = انسٹال کرو
@@ -133,6 +142,7 @@ translations-manage-language-remove-all-button =
     .accesskey = e
 translations-manage-error-install = زبان فائلاں انسٹال کرݨ وچ ہک مسئلہ ہائی۔ سوہݨا، ولدا کوشش کرو۔
 translations-manage-error-remove = زبان فائلاں ہٹاوݨ وچ ہک خرابی ہائی۔ سوہݨا، ولدا کوشش کرو۔
+translations-manage-error-list = ترجمہ کِیتے دستیاب ٻولیاں دی تن٘دِیر حاصل کرݨ وِچ ناکام۔ وَلا کوشِش کرݨ کِیتے پَنّا وَلا تازہ کرو۔
 translations-settings-title =
     .title = ترجمے ترتیباں
     .style = min-width: 36em

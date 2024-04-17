@@ -46,7 +46,27 @@ screenshots-generic-error-title = واہ! { -screenshots-brand-name } دھم م�
 screenshots-generic-error-details = اساکوں یقین کائنی جو ہݨ کیا تھیا ہے۔ ولدا کوشش کرݨ یا کہیں ٻئے ورقے دا شاٹ گھنݨ دا خیال ہے؟
 screenshots-too-large-error-title = تہاݙے سکرین شاٹ کوں کراپ کیتا ڳئے کیونجو ایہ ٻہوں وݙا ہائی۔
 screenshots-too-large-error-details = ہک این٘جھا علاقہ چݨݨ دی کوشش کرو جہڑا آپݨے سب توں لمبے پاسوں32,700 پکسلاں کنوں گھٹ ہووے یا  کل رقبہ 124,900,000 پکسلاں ہووے۔
+screenshots-component-retry-button =
+    .title = سکرین شاٹ دی ولا کوشِش کرو
+    .aria-label = سکرین شاٹ دی ولا کوشِش کرو
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] منسوخ کرو (ای ایس سی)
+           *[other] منسوخ کرو (ای ایس سی)
+        }
+    .aria-label = منسوخ کرو
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = کاپی کرو({ $shortcut })
+    .aria-label = کاپی کرو
 screenshots-component-copy-button-label = نقل کرو
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = ڈاؤن لوڈ کرو ({ $shortcut })
+    .aria-label = ڈاؤن لوڈ کرو
 screenshots-component-download-button-label = ڈاؤن لوڈ
 
 ## The below strings are used to capture keydown events so the strings should

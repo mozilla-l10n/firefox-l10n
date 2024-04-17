@@ -23,6 +23,9 @@ inactive-css-not-grid-container = <strong>{ $property }</strong> دا ایں ع�
 inactive-css-not-flex-item = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر نہیں تھیندا کیوں جو ایہ فلیکس آئٹم کائنی۔
 inactive-css-not-flex-container = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایہ فلیکس کنٹینر کائنی۔
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر نہیں تھیندا کیوں جو ایہ ان لائن یا ٹیبل سیل عنصر کائنی۔
+inactive-css-first-line-pseudo-element-not-supported = ::first-line pseudo-elements اُتے <strong>{ $property }</strong> حمایت یافتہ کائنی۔
+inactive-css-first-letter-pseudo-element-not-supported = ::first-line pseudo-elements اُتے <strong>{ $property }</strong> حمایت یافتہ کائنی۔
+inactive-css-placeholder-pseudo-element-not-supported = ::placeholder pseudo-elements اُتے <strong>{ $property }</strong>حمایت یافتہ کائنی
 inactive-css-property-because-of-display = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایندے وِچ <strong>{ $display }</strong> دا ڈسپلے ہے۔
 inactive-css-not-display-block-on-floated = انجݨ دے ذریعہ <strong>ڈسپلے</strong> دی قدر کوں <strong>بلاک</strong> وِچ تبدیل کر ݙتا ڳیا ہے کیوں جو عنصر <strong>فلوٹ</strong> ہے۔
 inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</strong> پابندی سی وجہ توں <strong>{ $property }</strong> کوں اوور رائڈ کرݨ ناممکن ہے۔
@@ -31,6 +34,7 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> دا ا
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> دا اندرونی ٹیبل عناصر تے کوئی اثر نہیں تھیندا۔
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> دا ٹیبل سیلز دے علاوہ اندرونی ٹیبل عناصر تے کوئی اثر نہیں تھیندا ہے۔
 inactive-css-not-table = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایہ ٹیبل کائنی۔
+inactive-css-not-table-cell = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایہ ٹیبل دا اکّھا کائنی۔
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر نہیں تھیندا ہے کیوں جو ایہ سکرول نہیں تھیندا ہے۔
 inactive-css-border-image = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو اینکوں اندرونی ٹیبل عناصر تے لاگو نہیں کیتا ونڄ سڳدا جتھاں <strong>بارڈر-کولپس</strong> کوں <strong> ڈھاہݨ </strong> تے سیٹ کیتا ڳیا ہے۔ پیرنٹ ٹیبل عنصر۔
 inactive-css-ruby-element = <strong>{ $property }</strong> دا ایں عنصر تے کوئی اثر کائنی کیوں جو ایہ ہک روبی عنصر ہے۔ اوندا سائز روبی ٹیکسٹ دے فونٹ سائز نال طے تھیندا ہے۔
@@ -39,6 +43,16 @@ inactive-css-ruby-element = <strong>{ $property }</strong> دا ایں عنصر 
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> نمایاں کِیتے ڳئے سیوڈو عناصر اُتے حمایت یافتہ کائنی۔
+inactive-css-cue-pseudo-element-not-supported = کیو سیوڈو-عناصر:: اُتے <strong>{ $property }</strong> حمایت یافتہ کائنی
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> دا اِیں عنصر اُتّے کُئی اثر کائنی کیوں جو اِین٘دے وِچ { $lineCount } کنوں وَدھ لائن ہِے۔
+       *[other] <strong>{ $property }</strong> دا اِیں عنصر اُتّے کُئی اثر کائنی کیوں جو اِین٘دے وِچ { $lineCount } کنوں وَدھ لائناں ہِن۔
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> دا اِیں عنصر اُتّے کُئی اثر کائنی کیوں جو اِیہ کِھنݙیا ہوئیا ہِے، یعنی اِین٘دا مواد اَݨ ڳِݨَت کالماں یا پَنّیاں اُتّے ونݙیڄا ہوئیا ہِے۔
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -46,7 +60,9 @@ inactive-css-ruby-element = <strong>{ $property }</strong> دا ایں عنصر 
 ## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> یا <strong>display:flex</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = <strong>ݙِکھاؤ:گرِڈ</strong>، <strong>ݙِکھاؤ:فلیکس</strong> یا <strong>ݙِکھاؤ:بلاک</strong> شامل کرݨ دی کوشِش کرو۔ { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = یا تاں <strong>display:grid</strong>, <strong>display:flex</strong>، یا <strong>columns:2</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
+inactive-css-not-multicol-container-fix = یا تاں <strong>کالم-ڳِݨَتری</strong>یا <strong>کالم-چوڑائی</strong> شامل کرݨ دی کوشِش کرو۔ { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, or <strong>display:inline-flex</strong> شامل کرݨ دی کوشش کرو۔ عنصر دے وݙکے کوں۔ { learn-more }
 inactive-css-not-grid-item-fix-2 = عنصر دے وݙکیاں وِچ <strong>display:grid</strong> یا <strong>display:inline-grid</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-css-not-grid-container-fix = <strong>display:grid</strong> یا <strong>display:inline-grid</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
@@ -61,9 +77,12 @@ inactive-text-overflow-when-no-overflow-fix = <strong> overflow:hidden </ strong
 inactive-css-not-for-internal-table-elements-fix = ایندی <strong>ڈسپلے</strong> پراپرٹی کوں <strong>ٹیبل سیل</strong> ،<strong>ٹیبل کالم</strong>، <strong>ٹیبل قطار</strong>، <strong>ٹیبل کالم گروپ</strong> دے علاوہ کہیں ٻئی چیز تے سیٹ کرݨ دی کوشش کرو۔ , <strong>ٹیبل قطار گروپ</strong>, or <strong>ٹیبل فُٹر گروپ</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = ایندی <strong>ڈسپلے</strong> پراپرٹی کوں <strong>ٹیبل کالم</strong>، <strong>ٹیبل قطار</strong>، <strong>ٹیبل کالم گروپ</strong> دے علاوہ کہیں ٻئی چیز تے سیٹ کرݨ دی کوشش کرو۔ , <strong>table-row-group</strong>, or <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = <strong>display:table</strong> یا <strong>display:inline-table</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
+inactive-css-not-table-cell-fix = <strong>ݙِکھاؤ:ٹیبل-اکّھا</strong> شامل کرݨ دی کوشِش کرو۔ { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>، <strong>overflow:scroll</strong>، یا <strong>overflow:hidden</strong> شامل کرݨ دی کوشش کرو۔ { learn-more }
 inactive-css-border-image-fix = پیرنٹ ٹیبل عنصر تے، پراپرٹی کوں ہٹا ݙیو یا <strong>بارڈر-کولاپس</strong> دی قدر کوں <strong>کولپس</strong> دے علاوہ کہیں قدر وِچ تبدیل کرو۔ { learn-more }
 inactive-css-ruby-element-fix = روبی متن دا <strong> فونٹ سائز</strong> تبدیل کرݨ دی کوشش کرو۔ { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = لائناں دی ڳِݨَتری گَھٹ کرݨ دی کوشِش کرو۔ { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = عنصر دے مواد کوں ون٘ڈݨ کنوں گریز کرو جیویں کالم ہَٹا کے یا <strong>پَنّا-بھنّݨ-اندرُوں:گریز</strong> استعمال کر کے۔{ learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -85,3 +104,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link"> ودھیک �
 ## When this icon is hovered one or more of those messages are displayed to explain what
 ## the issue are.
 
+# :has() should not be translated
+css-selector-warning-unconstrained-has = اِیہ چُݨن آلا غیر محدود <strong>:has()</strong> استعمال کرین٘دا ہِے، جہڑا آلسی تھی سڳدا ہِے

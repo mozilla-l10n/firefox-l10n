@@ -53,6 +53,8 @@ mr1-onboarding-import-primary-button-label-attribution = { $previous } کنوں 
 mr1-onboarding-theme-header = اینکوں اپݨا بݨاؤ
 mr1-onboarding-theme-subtitle = ہک تھیم دے نال { -brand-short-name } کوں ذاتی بݨاؤ۔
 mr1-onboarding-theme-secondary-button-label = ہݨ کائناں
+newtab-wallpaper-onboarding-title = رنگ دا تُرکا ازماؤ
+newtab-wallpaper-onboarding-subtitle = آپݨے نویں ٹیب کوں تازہ شِکّل ݙیوݨ کِیتے وال پیپر چُݨو۔
 newtab-wallpaper-onboarding-primary-button-label = وال پیپر مقرر کرو
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = نظام تھیم
@@ -319,17 +321,36 @@ onboarding-device-migration-image-alt =
     .aria-label = لیپ ٹاپ کمپیوٹر دی سکرین تے ہک لومڑی لہراندی  پئی ہے۔ لیپ ٹاپ وچ ہک ماؤس لڳا ہویا ہے۔
 onboarding-device-migration-title = واپسی تے ست بسم اللہ!
 onboarding-device-migration-subtitle = آپݨیاں نشانیاں، پاس ورڈ تے تاریخ آپݨی نویں ڈیوائس تے گھن آوݨ کیتے آپݨے { -fxaccount-brand-name(capitalization: "sentence") } وچ سائن ان تھیوو۔
+onboarding-device-migration-subtitle2 = آپݨی نویں ڈیوائس اُتے آپݨے بُک مارکس، پاس ورڈز اَتے تاریخ آپݨے نال گِھن آنݨ کِیتے آپݨے اکاؤنٹ وِچ سائن اِن تھیوو۔
 onboarding-device-migration-primary-button-label = سائن ان
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = اَساکوں تُہاݙی راکھی کرݨ بھان٘دا ہِے
+onboarding-easy-setup-security-and-privacy-subtitle = اَساݙا غیر منافع بخش حمایت یافتہ براؤزر کمپنیاں کوں ویب اُتے لُکَّل طور تے تُہاݙی پیروی کرݨ کنوں روکݨ وِچ مدد کرین٘دا ہِے۔
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = جہڑیلے تُساں ڈیوائسز دے وِچالے ہاپ کرین٘دے ہِیوے تاں انکرپٹڈ رہؤو
+onboarding-mobile-download-security-and-privacy-subtitle = جہڑیلے تُساں مطابقت پذیر تھی وین٘دے ہِیوے، تاں { -brand-short-name } تُہاݙے پاس ورڈز، بک مارکس، اَتے ٻئے کوں خُفیہ کرین٘دا ہِے۔ اِین٘دے کنوں اَن٘ج تُساں آپݨیاں ٻِنّھاں ڈیوائسز کنوں ٹیبز حاصل کر سڳدے ہِیوے۔
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } تُہاݙی کن٘ڈ تے ہِے
+onboarding-gratitude-security-and-privacy-subtitle = موزیلا فاؤنڈیشن دے تعاون نال { -brand-short-name }ورتݨ کِیتے تھورا۔ تُہاݙے تعاون نال، اَساں انٹرنیٹ کوں ساریاں کِیتے محفوظ اَتے وَدھ قابلِ رسائی بݨاوݨ کِیتے کَݨ کرین٘دے پئے ہِسے۔
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = تُساں کہڑے ویلے کنوں { -brand-short-name } استعمال کرین٘دے پئے ہِیوے؟
+onboarding-new-user-familiarity-based-survey-title = تُساں { -brand-short-name } دے چوکھے سُن٘ڄاݨُوں ہِیوے؟
+onboarding-new-user-survey-subtitle = تُہاݙی راء { -brand-short-name } ٻِیا وی چَنڳاں بݨاوݨ وِچ مَدَت کرین٘دی ہِے۔
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = اڳلا
+onboarding-new-user-survey-legal-link-label = “{ onboarding-new-user-survey-next-button-label }،” کوں چُݨ کے، تُساں { -brand-product-name }'s<a data-l10n-name="privacy_notice">رازداری نوٹس</a> نال سان٘جھ کرین٘دے ہِیوے
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = میں اصلوں نواں ہاں
 onboarding-new-user-survey-time-based-option-2 = 1مہینے کنوں گھٹ
+onboarding-new-user-survey-time-based-option-3 = 1 مہینے کنوں وَدھ، باقاعدگی نال
+onboarding-new-user-survey-time-based-option-4 = 1 مہینے کنوں وَدھ، کݙان٘ہیں کݙان٘ہیں
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = میں اصلوں نواں ہاں
+onboarding-new-user-survey-familiarity-based-option-2 = میں اِیکُوں کُجھ ورتیا ہِے
+onboarding-new-user-survey-familiarity-based-option-3 = میں اِین٘دا چَنڳا ڄاݨُوں ہاں
+onboarding-new-user-survey-familiarity-based-option-4 = میں اِیکوں ماضی وِچ ورتیا ہَئی، پَر کُجھ وخت لنگھ ڳِیا ہِے

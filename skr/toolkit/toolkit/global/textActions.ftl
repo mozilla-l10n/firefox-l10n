@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = صاف کرو
+text-action-highlight-selection =
+    .label = چوݨ کوں نمایاں کرو

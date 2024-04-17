@@ -3,12 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = ویب سائٹس کوں "ٹریک نہ کرو" سگنل بھیڄو جو تساں ٹریک نہیں کرݨ چاہندے
+do-not-track-description2 =
+    .label = ویب سائٹ کوں "ٹریک نہ کرو" دی عرضی گَھلُّو
+    .accesskey = ن
 do-not-track-learn-more = ٻیا سِکھو
 do-not-track-option-default-content-blocking-known =
     .label = صرف اوں ویلھے جݙاں { -brand-short-name } کوں معلوم ٹریکرز کوں بلاک کرݨ کیتے سیٹ کیتا ڳیا ہووے۔
 do-not-track-option-always =
     .label = ہمیشاں
+global-privacy-control-description =
+    .label = ویب سائٹاں کوں آکھو جو میݙا ڈیٹا نہ ویچِن تے نہ کئیں کوں ݙِکھاوِن
+    .accesskey = ݙ
 non-technical-privacy-header = ویب سائٹ رازداری ترجیحاں
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = گلوبل پرائیویسی کنٹرول (جی پی سی)
 settings-page-title = ترتیباں
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -119,6 +129,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = پچھلی ونڈوز تے ٹیباں کھولو
     .accesskey = s
+windows-launch-on-login =
+    .label = جہڑیلے تُہاݙا کمپیوٹر شروع تِھین٘دا ہِے تاں خود کار طریقے نال { -brand-short-name } کھولو
+    .accesskey = ک
+windows-launch-on-login-disabled = اِیہ ترجیح ونڈوز وِچ غیر فعال کر ݙِتّی ڳئی ہِے۔ بَدلݨ کِیتے، سسٹم دیاں ترتیباں وِچ <a data-l10n-name="startup-link">سٹارٹ اَپ ایپس</a>تے ون٘ڄو۔
 startup-restore-warn-on-quit =
     .label = براؤزر چھوڑیندے ویلھے چتاوݨی ݙیو
 disable-extension =
@@ -191,6 +205,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = ایہ کنٹینر ہٹاؤ
 containers-remove-cancel-button = ایہ کنٹینر نہ ہٹاؤ
+settings-tabs-show-image-in-preview =
+    .label = جہڑیلے تُساں کئیں ٹیب اُتے گُھمدے ہِیوے تاں ہِک تصویری پیش نظارہ ݙیکھو
+    .accessKey = ایچ
 
 ## General Section - Language & Appearance
 
@@ -246,6 +263,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = ْصرف متن زوم کرو
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = چِتاوݨی: ڄیکر تُساں "وݙا کرو صرف مواد" چُݨدے ہِیوے اَتے تُہاݙا پہلے کنوں طے تِھیا ہوئیا زوم 100٪ اُتے سیٹ نِھیں ہون٘دا تاں، اِین٘دے نال کُجھ سائٹس یا مواد کوں تروڑݨ دا سوَب بݨ سڳدا ہِے۔
 language-header = زبان
 choose-language-description = ورقیاں دی نمائش کیتے اپݨی پسندیدہ زبان دا انتخاب کرو۔
 choose-button =
@@ -458,12 +477,18 @@ browsing-use-smooth-scrolling =
 browsing-gtk-use-non-overlay-scrollbars =
     .label = ہمیشاں سکرولنگ ݙکھاؤ
     .accesskey = o
+browsing-always-underline-links =
+    .label = نِت لِنکاں دے تَلّے لِیک لاؤ
+    .accesskey = u
 browsing-use-onscreen-keyboard =
     .label = لوڑ دے ویلھے ٹچ کی بورڈ ݙکھاؤ
     .accesskey = c
 browsing-use-cursor-navigation =
     .label = ورقیاں تے اڳو پچھوں تے ونڄݨ کیتے ہمیشاں کرسر کلیداں استعمال کرو
     .accesskey = k
+browsing-use-full-keyboard-navigation =
+    .label = فارم کنٹرول اَتے لنکس دے وِچالے بھال مرکوز کرݨ کِیتے ٹیب دے بٹݨ کوں وَرتو
+    .accesskey = t
 browsing-search-on-start-typing =
     .label = متن کیتے ڳول جݙاں تساں ٹائپنگ کرݨ شروع کرو
     .accesskey = x
@@ -545,6 +570,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = { $provider } دی طرفوں تجویز کردہ
 home-prefs-recommended-by-description-new = { $provider } دے ذریعے تیار کیتا ڳیا غیر معمولی مواد، { -brand-product-name } ٹٻری دا حصہ
+home-prefs-recommended-by-header-generic =
+    .label = تجویزہ کردہ کہاݨیاں
+home-prefs-recommended-by-description-generic = غیر معمولی مواد { -brand-product-name }ٹَٻَّر دے ذریعے تیار کِیتا ڳِیا ہِے
 
 ##
 
@@ -787,6 +815,10 @@ sync-engine-creditcards =
     .label = کریڈٹ کارڈز
     .tooltiptext = ناں، نمبر تے چھیکڑی تاریخ (صرف ڈیسک ٹاپ)
     .accesskey = C
+sync-engine-payment-methods2 =
+    .label = ادائیگی دے طریقے
+    .tooltiptext = ناں، کارڈ لمبر، اَتے معیاد مُکّݨ دیاں تَرِیخاں
+    .accesskey = n
 sync-engine-addons =
     .label = ایڈ- آنز
     .tooltiptext = فائر فاکس ڈیسک ٹاپ کیتے ایکسٹینشنز تے تھیمز
@@ -840,16 +872,28 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = پاس ورڈز
     .searchkeywords = لاگ اناں
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = پاس ورڈز محفوظ کرݨ کِیتے پُچُّھو
+    .accesskey = A
 forms-exceptions =
     .label = استثنیات …
     .accesskey = x
 forms-generate-passwords =
     .label = تجویز ݙیو تے تکڑے پاس ورڈ تیار کرو
     .accesskey = u
+forms-suggest-passwords =
+    .label = تَکڑے پاس ورڈز تجویز کرو
+    .accesskey = S
 forms-breach-alerts =
     .label = خلاف ورزی والیاں ویب سائٹاں کیتے پاس ورڈز بارے چتاوݨیاں ݙکھاؤ
     .accesskey = b
 forms-breach-alerts-learn-more-link = ٻیا سِکھو
+preferences-relay-integration-checkbox =
+    .label = آپݨے ای میل پَتے دی راکھی کِیتے { -relay-brand-name } ای میل ماسک تجویز کرو
+preferences-relay-integration-checkbox2 =
+    .label = آپݨے ای میل پَتے دی راکھی کِیتے { -relay-brand-name } ای میل ماسک تجویز کرو
+    .accesskey = r
 relay-integration-learn-more-link = ٻیا سِکھو
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -858,6 +902,10 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = ہتھیکڑے لاگ انز …
     .accesskey = L
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = صارف ناں اَتے پاس ورڈز خود کار طریقے نال پُر کرو
+    .accesskey = F
 forms-saved-passwords =
     .label = محفوظ تھئے پاس ورڈ
     .accesskey = d
@@ -884,6 +932,7 @@ forms-windows-sso =
     .label = مائیکروسافٹ، کم، تے سکول اکاؤنٹس کیتے ونڈوز سنگل سائن آن دی اجازت ݙیو۔
 forms-windows-sso-learn-more-link = ٻیا سِکھو
 forms-windows-sso-desc = اپݨے موبائل ڈیوائس وِچ اکاؤنٹس کوں منظم کرو
+windows-passkey-settings-label = سسٹم دیاں ترتیباں وِچ پاس کلیداں کوں منظم کرو
 
 ## OS Authentication dialog
 
@@ -903,6 +952,20 @@ autofill-addresses-checkbox = محفوظ کرو تے پتے پُر کرو
     .accesskey = a
 autofill-saved-addresses-button = محفوظ تھئے پتے
     .accesskey = S
+autofill-payment-methods-checkbox-message = ادائیگی دے طریقیاں کوں محفوظ اَتے پُر کرو
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = کریڈٹ اَتے ڈیبٹ کارڈز وِچ رلاؤ
+    .accesskey = I
+autofill-saved-payment-methods-button = محفوظ تھئے ادائیگی طریقے
+    .accesskey = v
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] ادائیگی دے طریقیاں کوں پُر کرݨ اَتے بَدلی کرݨ کِیتے میک او ایس دی توثیق دی لوڑ ہِے۔
+        [windows] ادائیگی دے طریقیاں کوں پُر کرݨ اَتے بَدلی کرݨ کِیتے ونڈوز دی توثیق دی لوڑ ہِے۔
+        [linux] ادائیگی دے طریقیاں کوں پُر کرݨ اَتے بَدلی کرݨ کِیتے لائنیکس دی توثیق دی لوڑ ہِے۔
+       *[other] ادائیگی دے طریقیاں کوں پُر کرݨ اَتے بَدلی کرݨ کِیتے  توثیق دی لوڑ ہِے۔
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
@@ -958,6 +1021,7 @@ sitedata-delete-on-close =
     .label = { -brand-short-name } بند تھیوݨ تے سائٹ دا ڈیٹا تے کوکیاں مٹا ݙیو
     .accesskey = c
 sitedata-delete-on-close-private-browsing = مستقل نجی براؤزنگ موڈ وِچ، { -brand-short-name } بند تھیوݨ تے کوکیاں تے سائٹ دا ڈیٹا ہمیشاں صاف تھی ویسے۔
+sitedata-delete-on-close-private-browsing2 = تُہاݙی تریخ دیاں ترتیباں دی بنیاد اُتے، جہڑیلے تُساں براؤز کوں اُچّا کرین٘دے ہِیوے تاں تُہاݙے سیشن کوکیز اَتے سائٹ دے ڈیٹا کوں { -brand-short-name } حذف کرین٘دا ہِے۔
 sitedata-allow-cookies-option =
     .label = کوکیاں تے سائٹ دا ڈیٹا قبول کرو
     .accesskey = A
@@ -998,9 +1062,12 @@ cookie-banner-handling-description = { -brand-short-name } سہارا تھیاں
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = کوکی بینر بلاک کرݨ آلا
+cookie-banner-blocker-description = جہڑیلے کُئی سائٹ پُچھدی ہِے جو بھلا اُوہ نجی براؤزنگ موڈ وِچ کوکیز استعمال کر سڳدے ہِن تاں، { -brand-short-name }خود کار طریقے نال تُہاݙے کِیتے انکار کر ݙین٘دا ہِے۔ صرف معاون سائٹاں اُتے۔
 cookie-banner-learn-more = ٻیا سِکھو
 forms-handle-cookie-banners =
     .label = کوکی بینراں کوں تھوڑا کرو
+cookie-banner-blocker-checkbox-label =
+    .label = کوکی بینرز کوں خود کار طریقے نال ہَٹَک ݙیؤ
 
 ## Privacy Section - Address Bar
 
@@ -1032,6 +1099,9 @@ addressbar-locbar-quickactions-option =
     .label = تیز عمل
     .accesskey = Q
 addressbar-suggestions-settings = ڳولݨ انجݨ تجویزاں کیتے ترجیحاں تبدیل کرو
+addressbar-locbar-showrecentsearches-option =
+    .label = حالیہ ڳویڑاں ݙِکھاؤ
+    .accesskey = r
 addressbar-quickactions-learn-more = ٻیا سِکھو
 
 ## Privacy Section - Content Blocking
@@ -1040,6 +1110,10 @@ content-blocking-enhanced-tracking-protection = بہتر ٹریکنگ حفاظت
 content-blocking-section-top-level-description = ٹریکرز تہاݙی براؤزنگ دیاں عادتاں تے دلچسپیاں دے بارے معلومات کٹھا کرݨ کیتے آن لائن تہاݙی پیروی کریندے ہن۔ { -brand-short-name } انہاں وِچوں ٻہوں سارے ٹریکرز تے ٻئے بدنیتی تے مبنی سکرپٹس کوں روکیندا ہے۔
 content-blocking-learn-more = ٻیا سِکھو
 content-blocking-fpi-incompatibility-warning = تساں فرسٹ پارٹی آئسولیشن (FPI) استعمال کریندے پئے او، جیڑھا { -brand-short-name } دیاں کجھ کوکی ترتیباں کوں اوور رائیڈ کریندا ہے۔
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = تُساں مزاحم فنگر پرنٹنگ (آر ایف پی) دا استعمال کرین٘دے پئے ہِیوے، جہڑا کُجھ { -brand-short-name }' فنگر پرنٹنگ پروٹیکشن دیاں ترتیباں دی جاہ گِھن گِھن٘دا ہِے۔ اِیں وجہ کنوں کُجھ سائٹیں تُرُٹ سڳدیاں ہِن۔
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1073,6 +1147,10 @@ content-blocking-all-windows-tracking-content = تمام ونڈوز وِچ مو�
 content-blocking-all-cross-site-cookies = ساریاں کراس سائٹ کوکیاں
 content-blocking-cryptominers = کریپٹومینرز
 content-blocking-fingerprinters = فنگر پرنٹرز
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = معلوم اَتے مشتبہ فنگر پرنٹس
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1118,6 +1196,11 @@ content-blocking-fingerprinters-label =
 content-blocking-known-fingerprinters-label =
     .label = معلوم فنگر پرنٹرز
     .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = مشتبہ فنگر پرنٹرز
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
@@ -1180,6 +1263,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } ڈیٹا کولیکشن تے استعمال
+collection-header2 = { -brand-short-name }ڈیٹا کولیکشن اَتے استعمال
+    .searchkeywords = ٹیلی میٹری
 collection-description = اساں تہاکوں انتخاب فراہم کرݨ دی کوشش کریندے ہیں تے صرف اوہو جمع کریندے ہیں جیڑھا اساکوں فراہم کرݨ تے ہر ہک کیتے { -brand-short-name } کوں بہتر بݨاوݨ دی ضرورت ہے۔ اساں ذاتی معلومات حاصل کرݨ توں پہلے ہمیشاں اجازت طلب کریندے ہیں۔
 collection-privacy-notice = رازداری نوٹس
 collection-health-report-telemetry-disabled = ہݨ تساں { -vendor-short-name } کوں تکنیکی تے تعامل دا ڈیٹا حاصل کرݨ دی اجازت نہیں ݙیندے پئے او۔ تمام پچھوکڑ دا ڈیٹا 30 ݙینہاں دے اندر حذف تھی ویسے۔
@@ -1238,6 +1323,9 @@ certs-view =
 certs-devices =
     .label = سلامتی دے آلات …
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = تُساں انسٹال کرین٘دے ہوئے ترِیجھی پارٹی دے جڑ دے سرٹیفیکیٹ اُتے خود کار طریقے نال بھرواسہ کرݨ دی{ -brand-short-name } اجازت ݙیؤ
+    .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = ترتیباں کھولو
     .accesskey = O
@@ -1260,6 +1348,7 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = HTTPS تے DNS
 preferences-doh-description = HTTPS تے ڈومین نیم سسٹم (DNS) ہک خفیہ کنکشن دے ذریعے ڈومین ناں کیتے تہاݙی ارداس پٹھیندے، ہک محفوظ DNS بݨیندا ہے تے ٻنھاں کیتے ایہ اوکھیرا بݨیندا  ہے جو تساں کہڑی ویب سائٹ تائیں رسائی حاصل کرݨ آلے ہو۔
+preferences-doh-description2 = ایچ ٹی ٹی پی ایس کنوں وَدھ ڈومین ناں دا نظام (ڈی این ایس) ہِک خفیہ کِیتے ڳئے کنکشن دے ذریعے تُہاݙی عرضی کوں ڈومین دے ناں کِیتے گَھلین٘دا ہِے، ہِک محفوظ ڈی این ایس فراہم کرین٘دا ہِے اَتے ٻِنّھاں کوں اِیہ ݙیکھݨ اَوکھا بݨین٘دا ہِے جو تُساں کہڑی ویب سائٹ تئیں رسائل حاصل کرݨ وین٘دے پئے ہِیوے۔
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = حالت: { $status }
@@ -1276,6 +1365,7 @@ preferences-doh-status-disabled = بند
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = فعال کائنی  ({ $reason })
 preferences-doh-group-message = محفوظ DNS ورتݨ فعال کرو:
+preferences-doh-group-message2 = استعمال کرین٘دے ہوئے ایچ ٹی ٹی پی ایس کنوں وَدھ ڈی این ایس کوں فعال کرو:
 preferences-doh-expand-section =
     .tooltiptext = ودھیک معلومات
 preferences-doh-setting-default =

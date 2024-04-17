@@ -654,6 +654,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = تصویر وچ تصویر ({ $shortcut }) بند کرو
 picture-in-picture-panel-header = تصویر وِچ تصویر
 picture-in-picture-panel-headline = ایہ ویب سائٹ تصویر وچ تصویر دی سفارش کائنی کریندی
+picture-in-picture-panel-body = تِھی سڳدا ہِے جو ویڈیوز اِیں طرحاں ظاہر نہ تِھیوِن جیویں جو ڈویلپر دے ارادے کنوں ہِے جݙݨ جو تصویر-وِچ-تصویر فعال ہووے۔
 picture-in-picture-enable-toggle =
     .label = ہرو بھرو فعال کرو
 
@@ -900,6 +901,7 @@ restore-session-startup-suggestion-button = میکوں ݙکھاؤ کیویں
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = تُہاݙی تنظیم نے اِیں کمپیوٹر اُتے مقامی فائلاں تئیں رسائی کوں بلاک کر ݙِتّا ہِے
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -909,6 +911,15 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = نجی براؤزنگ
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = ڈیٹا ضایا تِھیوݨ کنوں بچاء (ڈی ایل پی) بذریعہ { $agentName }۔ ودھیک معلومات کِیتے دباؤ۔
+content-analysis-panel-title = ڈیٹا حفاظت
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = تُہاݙی تنظیم ڈیٹا دے ضایا تِھیوݨ کنوں بچاوݨ کِیتے { $agentName } دا استعمال کرین٘دی ہِے۔ <a data-l10n-name="info"> ودھیک ڄاݨو</a>
 
 ## Unified extensions (toolbar) button
 
@@ -936,6 +947,11 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = ذاتی سیشن مُکاؤ
+    .tooltiptext = ذاتی سیشن مُکاؤ
+reset-pbm-panel-heading = آپݨاں ذاتی سیشن مُکاؤ؟
+reset-pbm-panel-description = سبّھے ذاتی ٹیبز بند کر ݙیؤ اَتے ہسٹری، کوکیز اَتے سائٹ دے ٻئے سارے ڈیٹا کوں حذف کر ݙیؤ۔
 reset-pbm-panel-always-ask-checkbox =
     .label = ہمیشاں میݙے کنوں پچھو
     .accesskey = A
@@ -957,6 +973,11 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = اَساݙے محفوظ، ورتݨ-وِچ-سَوکھے ماسک تُہاݙی سُن٘ڄاݨ دی راکھی کرین٘دے ہِن اَتے تُہاݙا ای میل پتہ لُکا کے سپیم کوں ݙکین٘دے ہِن۔
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = تُہاݙے ای میل ماسک اُتے بھیڄے ڳئے سارے ای میلاں کوں <strong>{ $useremail }</strong> اُتے گَھل ݙِتّا ویسی (جہڑیلے تئیں جو تُساں اِنّھاں کوں بلاک کرݨ دا فین٘صلہ نہ کرو)۔
+firefox-relay-offer-legal-notice = "ای میل ماسک استعمال کرو" اُتّے دباوݨ نال، تُساں <label data-l10n-name="tos-url">خدمت دیاں شرطاں</label>اَتے <label data-l10n-name="privacy-url">رازداری نوٹس</label> نال اتفاق کرین٘دے ہِیوے۔
 
 ## Add-on Pop-up Notifications
 

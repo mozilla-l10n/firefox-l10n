@@ -14,7 +14,6 @@ xpinstall-prompt-message = تساں { $host } کنوں ہک ایڈ آن انسٹ
 
 xpinstall-prompt-header-unknown = ہک اݨ ڄاتی سائٹ کوں ہک ایڈ آن انسٹال کرݨ دی اجازت ݙیو؟
 xpinstall-prompt-message-unknown = تساں کہیں اݨ ڄاتی سائٹ کنوں ایڈ آن انسٹال کرݨ دی کوشش کریندے پئے او۔ ایں ڳالھ کوں یقینی بݨاؤ جو جاری رکھݨ کنوں پہلے تہاکوں ایں سائٹ تے اعتماد ہے۔
-
 xpinstall-prompt-dont-allow =
     .label = اجازت نہ ݙیو
     .accesskey = D
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = ایں رسائی دے مح�
 ##
 
 xpinstall-disabled-locked = تہاݙے سسٹم دے منتظم دی طرفوں سافٹ ویئر انسٹالیشن کوں غیر فعال کر ݙتا ڳئے۔
+xpinstall-disabled-by-policy = تُہاݙی تنظیم دی طرفوں سافٹ ویئر دی تنصیب کوں غیر فعال کر ݙِتّا ڳئے۔
 xpinstall-disabled = سافٹ ویئر دی انسٹالیشن فی الحال غیر فعال ہے۔ فعال کرݨ کیتے کلک کرو تے دوبارہ کوشش کرو۔
 xpinstall-disabled-button =
     .label = قابل بݨاؤ
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,14 +52,24 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) تہاݙے سسٹم منتظم دی طرفوں بلاک کر ݙتا ڳئے.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = تہاݙے سسٹم دے منتظم ایں سائٹ کوں تہاݙے کمپیوٹر تے سافٹ ویئر انسٹال کرݨ کیتے آکھݨ توں روک ݙتا ہے۔
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName }{ $addonId }تُہاݙی تنظیم دی طرفوں بلاک کر ݙِتّا ڳئے۔
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = تہاݙی تنظیم دی طرفوں ایں سائٹ کوں تہاݙے کمپیوٹر تے سافٹ ویئر انسٹال کرݨ کیتے آکھݨ توں روک ݙتا ہے۔
 addon-install-full-screen-blocked = فل سکرین موڈ وِچ داخل تھیوݨ دے دوران یا ایں کنوں پہلے ایڈ آن انسٹال کرݨ دی اجازت کائنی
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName }وِچ شامل کرو { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } نویاں اجازتاں دی مانگ کریندا ہے
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = { -brand-short-name }وِچ درآمد کِیتے ڳئے ایکسٹینشن کوں انسٹال کرݨ کوں حتمی شکل ݙیؤ
 
 ## Add-on removal warning
 
@@ -72,7 +81,6 @@ addon-removal-title = ہٹاؤ { $name } ؟
 addon-removal-message = { -brand-shorter-name } کنوں { $name } ہٹاؤ؟
 addon-removal-button = ہٹاؤ
 addon-removal-abuse-report-checkbox = ایں توسیع دی اطلاع{ -vendor-short-name } کوں ݙیو
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,7 +89,6 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } ایڈ آنز ڈاؤن لوڈ  تے تصدیق کرݨ…
     }
 addon-download-verifying = توثیق تھیندی پئی ہے
-
 addon-install-cancel-button =
     .label = منسوخ کرو
     .accesskey = C
