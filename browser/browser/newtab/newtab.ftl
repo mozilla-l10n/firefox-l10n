@@ -283,3 +283,16 @@ newtab-wallpaper-title = Pozadkowe wobrazy
 newtab-wallpaper-reset = Na standard wróćo stajić
 newtab-wallpaper-light-red-panda = Čerwjeny panda
 newtab-wallpaper-light-mountain = Běła hora
+newtab-wallpaper-light-sky = Njebjo z wioletnymi a róžowymi mróčelemi
+newtab-wallpaper-light-color = Módre, róžowe a žołte twary
+newtab-wallpaper-light-beach = Přibrjóh z palmu
+newtab-wallpaper-dark-aurora = Aurora Borealis
+newtab-wallpaper-dark-color = Čerwjene a módre twary
+newtab-wallpaper-dark-panda = Čerwjeny panda w lěsu schowany
+newtab-wallpaper-dark-sky = Měšćanska krajina z nócnym njebjom
+newtab-wallpaper-dark-mountain = Horinska krajina
+newtab-wallpaper-dark-city = Wioletna měšćanska krajina
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto wot <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
