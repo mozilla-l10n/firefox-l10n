@@ -22,4 +22,3 @@ protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } aprirà {
 
 protocolhandler-mailto-handler-yes-button = Imposta come predefinito
 protocolhandler-mailto-handler-no-button = Non adesso
-

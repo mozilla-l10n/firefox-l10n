@@ -38,3 +38,4 @@ default-browser-guidance-notification-body-instruction-win11 =
     Passo 2: Seleziona “Imposta come predefinito” per { -brand-short-name }
 default-browser-guidance-notification-info-page = Mostrami come
 default-browser-guidance-notification-dismiss = Fatto
+
