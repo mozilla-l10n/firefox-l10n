@@ -273,5 +273,7 @@ newtab-custom-settings = Merañ muioc'h a arventennoù
 
 newtab-wallpaper-light-red-panda = Panda ruz
 newtab-wallpaper-light-mountain = Menez gwenn
+newtab-wallpaper-light-beach = Traezhenn gant ur balmezenn
+newtab-wallpaper-dark-aurora = Tarzh-gouloù
 newtab-wallpaper-dark-color = Furmoù ruz ha glas
 newtab-wallpaper-dark-panda = Panda ruz kuzhet er c’hoad
