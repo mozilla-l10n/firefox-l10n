@@ -45,7 +45,7 @@ onboarding-welcome-steps-indicator-label =
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = ਐਨੀਮੇਸ਼ਨਾਂ ਬੰਦ ਕਰੋ
 # String for the Firefox Accounts button
-mr1-onboarding-sign-in-button-label = ਸਾਇਨ ਇਨ
+mr1-onboarding-sign-in-button-label = ਸਾਈਨ ਇਨ
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome

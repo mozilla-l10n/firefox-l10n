@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ਟੈਗ ਨੂੰ ਜੋੜੋ
-
 pocket-panel-saved-error-generic = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਸੀ।
 pocket-panel-saved-error-tag-length = ਟੈਗ 25 ਅੱਖਰਾਂ ਤੱਕ ਸੀਮਿਤ ਹਨ
 pocket-panel-saved-error-only-links = ਕੇਵਲ ਲਿੰਕਾਂ ਨੂੰ ਹੀ ਸੰਭਾਲਿਆ ਜਾ ਸਕਦਾ ਹੈ
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = ਸੰਭਾਲੋ
 pocket-panel-saved-saving-tags = …ਸੰਭਾਲਿਆ ਜਾ ਰਿਹਾ ਹੈ
 pocket-panel-saved-suggested-tags = ਸੁਝਾਏ ਗਏ ਟੈਗ
 pocket-panel-saved-tags-saved = ਟੈਗਾਂ ਨੂੰ ਜੋੜਿਆ
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = ਟੈਗ ਜੋੜੋ:
 
@@ -37,14 +35,13 @@ pocket-panel-signup-add-tags = ਟੈਗ ਜੋੜੋ:
 
 pocket-panel-signup-already-have = ਪਹਿਲਾਂ ਹੀ { -pocket-brand-name } ਵਰਤੋਂਕਾਰ ਹੋ?
 pocket-panel-signup-learn-more = ਹੋਰ ਜਾਣੋ
-pocket-panel-signup-login = ਲੌਗਇਨ
+pocket-panel-signup-login = ਲਾਗ ਇਨ
 pocket-panel-signup-signup-email = ਈਮੇਲ ਨਾਲ ਸਾਈਨ ਅੱਪ ਕਰੋ
 pocket-panel-signup-signup-cta = { -pocket-brand-name } ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ। ਇਹ ਮੁਫ਼ਤ ਹੈ।
 pocket-panel-signup-signup-firefox = { -brand-product-name } ਨਾਲ ਸਾਇਨ ਅੱਪ ਕਰੋ
 pocket-panel-signup-tagline = { -brand-product-name } ਤੋਂ ਲੇਖਾਂ ਅਤੇ ਵੀਡੀਓ ਨੂੰ { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ ਤਾਂ ਕਿ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ, ਕਿਸੇ ਵੀ ਸਮੇਂ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।
 pocket-panel-signup-tagline-story-one = ਕਿਸੇ ਵੀ ਲੇਖ, ਵੀਡੀਓ ਜਾਂ ਸਫ਼ੇ ਨੂੰ { -brand-product-name } ਤੋਂ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name }ਬਟਨ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।
 pocket-panel-signup-tagline-story-two = ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ, ਕਿਸੇ ਵੀ ਸਮੇਂ { -pocket-brand-name } ਵਿੱਚ ਦੇਖੋ।
-
 pocket-panel-signup-cta-a-fix = ਇੰਟਰਨੈੱਟ ਲਈ ਤੁਹਾਡਾ ਸੰਭਾਲੋ ਬਟਨ
 pocket-panel-signup-cta-b-updated = ਲੇਖ, ਵੀਡੀਓ ਅਤੇ ਲਿੰਕਾਂ ਨੂੰ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name } ਬਟਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ। ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਕਿਸੇ ਵੀ ਵੇਲੇ ਆਪਣੇ ਸੰਭਾਲੇ ਨੂੰ ਵੇਖੋ।
 pocket-panel-signup-cta-b-short = ਲੇਖ, ਵੀਡੀਓ ਤੇ ਲਿੰਕ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name } ਬਟਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = ਤੁਸੀਂ { -pocket-brand-name } ਨੂੰ �
 pocket-panel-home-explore-popular-topics = ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ਿਆਂ ਦੀ ਪੜਚੋਲ ਕਰੋ
 pocket-panel-home-discover-more = ਹੋਰ ਲੱਭੋ
 pocket-panel-home-explore-more = ਪੜਚੋਲ
-
 pocket-panel-home-most-recent-saves = ਤੁਹਾਡੇ ਵਲੋਂ ਹਾਲ ਵਿੱਚ ਸੰਭਾਲੇ ਇੱਥੇ ਹਨ:
 pocket-panel-home-most-recent-saves-loading = …ਸੱਜਰੇ ਸੰਭਾਲੇ ਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ
 pocket-panel-home-new-user-cta = ਲੇਖ, ਵੀਡੀਓ ਅਤੇ ਲਿੰਕ ਸੰਭਾਲਣ ਲਈ { -pocket-brand-name } ਬਟਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
@@ -66,7 +62,7 @@ pocket-panel-home-new-user-message = ਤੁਹਾਡੇ ਵਲੋਂ ਹਾਲ �
 ## Pocket panel header component
 
 pocket-panel-header-my-saves = ਮੇਰੇ ਸੰਭਾਲੇ ਵੇਖੋ
-pocket-panel-header-sign-in = ਸਾਇਨ ਇਨ
+pocket-panel-header-sign-in = ਸਾਈਨ ਇਨ
 
 ## Pocket panel buttons
 

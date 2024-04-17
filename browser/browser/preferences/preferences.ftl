@@ -741,7 +741,7 @@ sync-remove-account =
     .label = ਖਾਤੇ ਨੂੰ ਹਟਾਓ
     .accesskey = R
 sync-sign-in =
-    .label = ਸਾਇਨ ਇਨ
+    .label = ਸਾਈਨ ਇਨ
     .accesskey = g
 
 ## Sync section - enabling or disabling sync.
