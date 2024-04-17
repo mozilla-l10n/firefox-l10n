@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = Sempre aperir ligamines 
 protocolhandler-mailto-handler-yes-confirm = { $url } es ora tu sito predefinite pro aperir ligamines que invia emails.
 protocolhandler-mailto-handler-set-message = Usar <strong>{ $url } in { -brand-short-name }</strong> cata vice que tu clicca un ligamine que aperi tu email?
 protocolhandler-mailto-handler-confirm-message = <strong>{ $url } in { -brand-short-name }</strong> es ora tu gestor de email predefinite de computator.
+protocolhandler-mailto-handler-set = Usar <strong>{ -brand-short-name } pro aperir { $url }</strong> cata vice que tu clicca un ligamine que aperi tu email?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } aperira { $url }</strong> cata vice que tu clicca un ligamine que invia email.
 
 ##
