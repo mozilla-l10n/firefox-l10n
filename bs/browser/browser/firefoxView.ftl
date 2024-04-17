@@ -50,12 +50,52 @@ firefoxview-tabpickup-password-locked-header = Unesite svoju primarnu lozinku za
 firefoxview-tabpickup-password-locked-description = Da biste preuzeli svoje tabove, morat ćete unijeti primarnu lozinku za { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Saznajte više
 firefoxview-tabpickup-password-locked-primarybutton = Unesite primarnu lozinku
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saznajte više</a>
+firefoxview-tabpickup-signed-out-header = Prijavite se radi ponovnog povezivanja
+firefoxview-tabpickup-signed-out-description = Da se ponovo povežete i preuzmete svoje tabove, prijavite se na svoj { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Da se ponovo povežete i preuzmete svoje tabove, prijavite se na svoj račun.
+firefoxview-tabpickup-signed-out-primarybutton = Prijava
+firefoxview-tabpickup-syncing = Sjedite mirno dok se vaši tabovi sinhronizuju. Biće to samo trenutak.
+firefoxview-mobile-promo-header = Uzmite tabove sa svog telefona ili tableta
+firefoxview-mobile-promo-description = Da vidite svoje najnovije mobilne tabove, prijavite se na { -brand-product-name } na iOS-u ili Androidu.
+firefoxview-mobile-promo-primarybutton = Preuzmite { -brand-product-name } za mobitel
+firefoxview-mobile-confirmation-header = 🎉 Sve je spremno!
+firefoxview-mobile-confirmation-description = Sada možete preuzeti svoje { -brand-product-name } tabove sa svog tableta ili telefona.
+firefoxview-closed-tabs-title = Nedavno zatvoreni tabovi
+firefoxview-closed-tabs-description2 = Ponovo otvorite stranice koje ste zatvorili u ovom prozoru.
+firefoxview-closed-tabs-placeholder-header = Nema nedavno zatvorenih kartica
+firefoxview-closed-tabs-placeholder-body = Kada zatvorite tab u ovom prozoru, možete ga preuzeti odavde.
+firefoxview-closed-tabs-placeholder-body2 = Kada zatvorite tab, možete ga preuzeti odavde.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Odbaci { $tabTitle }
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Zadnja aktivnost
+# Variables:
+#   $targetURI (string) - URL that will be opened in the new tab
+firefoxview-tabs-list-tab-button =
+    .title = Otvorite { $targetURI } u novom tabu
+firefoxview-try-colorways-button = Probajte boje
+firefoxview-change-colorway-button = Promijenite boju
+# Variables:
+#  $intensity (String): Colorway intensity
+#  $collection (String): Colorway Collection name
+firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = Još nema šta da se vidi
+firefoxview-synced-tabs-placeholder-body = Sljedeći put kada otvorite stranicu u { -brand-product-name } na drugom uređaju, zgrabite je ovdje kao magijom.
+firefoxview-collapse-button-show =
+    .title = Prikaži listu
+firefoxview-collapse-button-hide =
+    .title = Sakrij listu
 
 ## History in this context refers to browser history
 
+firefoxview-history-header = Historija
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-header = Otvoreni tabovi
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
@@ -185,3 +225,6 @@ firefoxview-opentabs-bookmarked-pinned-tab =
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Označeno) { $url }
