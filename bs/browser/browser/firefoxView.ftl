@@ -137,29 +137,49 @@ firefoxview-view-more-browsing-history = Pogledajte više historije pretraživan
 
 firefoxview-history-empty-header = Vratite se tamo gdje ste bili
 firefoxview-history-empty-description = Dok pretražujete, stranice koje posjećujete bit će navedene ovdje.
+firefoxview-history-empty-description-two = Zaštita vaše privatnosti je srž onoga što radimo. Zbog toga možete kontrolisati aktivnosti koje { -brand-short-name } pamti, u vašim <a data-l10n-name="history-settings-url">postavkama historije</a>.
 
 ##
 
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Ništa za pokazati
+firefoxview-dont-remember-history-empty-description = Zaštita vaše privatnosti je srž onoga što radimo. Zbog toga možete kontrolisati aktivnost koju { -brand-short-name } pamti.
+firefoxview-dont-remember-history-empty-description-two = Na osnovu vaših trenutnih postavki, { -brand-short-name } ne pamti vašu aktivnost dok pretražujete. Da biste to promijenili, <a data-l10n-name="history-settings-url-two">promijenite postavke historije da zapamtite historiju</a>.
 
 ##
 
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Uvezite historiju iz drugog pretraživača
+firefoxview-import-history-description = Neka { -brand-short-name } bude vaš pretraživač. Uvezite historiju pretraživanja, oznake i još mnogo toga.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Prerano ste zatvorili tab?
+firefoxview-recentlyclosed-empty-description = Ovdje ćete pronaći tabove koje ste nedavno zatvorili, tako da možete brzo ponovo otvoriti bilo koji od njih.
+firefoxview-recentlyclosed-empty-description-two = Da pronađete tabove od ranije, pogledajte svoju <a data-l10n-name="history-url">historiju pretraživanja</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Na ovom uređaju nema otvorenih tabova
+firefoxview-syncedtabs-connect-another-device = Povežite drugi uređaj
+firefoxview-pinned-tabs =
+    .title = Zakačeni tabovi
+firefoxview-tabs =
+    .title = Tabovi
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
 ##  $tabTitle (string) - Title of pinned tab that will be opened when selected
 
+firefoxview-opentabs-pinned-tab =
+    .title = Prebacite se na { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Prebaci na (Označeno) { $tabTitle }
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
