@@ -46,6 +46,17 @@ contentanalysis-no-agent-connected-message = Impossibile stabilire la connession
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Verifica della firma non riuscita per { $agent }. Trasferimento rifiutato per la risorsa: { $content }.
 
+contentanalysis-block-dialog-title-upload-file = Non hai il permesso di caricare questo file
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di caricare il file “{ $filename }”. Contatta il tuo amministratore per ulteriori informazioni.
+contentanalysis-block-dialog-title-clipboard = Non hai il permesso di incollare questo contenuto
+contentanalysis-block-dialog-body-clipboard = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di incollare questo contenuto. Contatta il tuo amministratore per ulteriori informazioni.
+contentanalysis-block-dialog-title-dropped-text = Non hai il permesso di trascinare questo contenuto
+contentanalysis-block-dialog-body-dropped-text = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di trascinare questo contenuto. Contatta il tuo amministratore per ulteriori informazioni.
+contentanalysis-block-dialog-title-print = Non hai il permesso di stampare questo documento
+contentanalysis-block-dialog-body-print = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di stampare questo documento. Contatta il tuo amministratore per ulteriori informazioni.
+
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Si è verificato un errore nella comunicazione con il software per la prevenzione della perdita di dati. Trasferimento rifiutato per la risorsa: { $content }.
