@@ -258,9 +258,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = 贊助捷徑
 newtab-custom-pocket-title = 由 { -pocket-brand-name } 推薦
 newtab-custom-pocket-subtitle = 由 { -brand-product-name } 的姊妹作 { -pocket-brand-name } 精心策展的內容
-newtab-custom-pocket-toggle =
-    .label = 由 { -pocket-brand-name } 推薦
-    .description = 由 { -brand-product-name } 的姊妹作 { -pocket-brand-name } 精心策展的內容
 newtab-custom-stories-toggle =
     .label = 推薦的文章
     .description = 由 { -brand-product-name } 產品家族精選的內容文章
@@ -273,3 +270,9 @@ newtab-custom-recent-toggle =
     .description = 近期造訪過的網站與內容精選
 newtab-custom-close-button = 關閉
 newtab-custom-settings = 管理更多設定
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = 背景圖
+newtab-wallpaper-reset = 還原為預設值
+newtab-wallpaper-light-red-panda = 小貓熊

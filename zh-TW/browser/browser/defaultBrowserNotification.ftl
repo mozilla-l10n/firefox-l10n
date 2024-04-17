@@ -21,3 +21,10 @@ default-browser-prompt-message-alt = 隨時上網都有最快速度、安全與�
 default-browser-prompt-button-primary-alt = 設為預設瀏覽器
 default-browser-prompt-checkbox-not-again-label = 不要再顯示此訊息
 default-browser-prompt-button-secondary = 現在不要
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-info-page = 顯示給我看
+default-browser-guidance-notification-dismiss = 完成
