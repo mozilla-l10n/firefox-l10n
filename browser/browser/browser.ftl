@@ -919,6 +919,7 @@ data-reporting-notification-button =
     .accesskey = u
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Priwatny modus
+content-analysis-panel-title = Šćit datow
 
 ## Unified extensions (toolbar) button
 
