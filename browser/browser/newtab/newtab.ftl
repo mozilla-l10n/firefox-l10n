@@ -268,3 +268,10 @@ newtab-custom-recent-toggle =
     .description = Un dibab lec'hiennoù ha danvezioù nevez
 newtab-custom-close-button = Serriñ
 newtab-custom-settings = Merañ muioc'h a arventennoù
+
+## New Tab Wallpapers
+
+newtab-wallpaper-light-red-panda = Panda ruz
+newtab-wallpaper-light-mountain = Menez gwenn
+newtab-wallpaper-dark-color = Furmoù ruz ha glas
+newtab-wallpaper-dark-panda = Panda ruz kuzhet er c’hoad
