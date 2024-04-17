@@ -273,3 +273,7 @@ newtab-custom-recent-toggle =
     .description = Eit utval av nylege nettstadar og innhald
 newtab-custom-close-button = Lat att
 newtab-custom-settings = Handsam fleire innstillingar
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Bakgrunnsbilde
