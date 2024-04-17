@@ -168,3 +168,11 @@ launch-on-login-infobar-final-message = <strong>Otvorite { -brand-short-name } s
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Držite dosadne tragače dalje od sebe
+tail-fox-spotlight-subtitle = Recite zbogom dosadnim alatima za praćenje oglasa i smjestite se u sigurnije, brže internet iskustvo.
+tail-fox-spotlight-primary-button = Otvori moje linkove sa { -brand-short-name }om
+tail-fox-spotlight-secondary-button = Ne sada

@@ -8,6 +8,8 @@
 newtab-page-title = Novi tab
 newtab-settings-button =
     .title = Prilagodite svoju početnu stranicu novog taba
+newtab-personalize-dialog-label =
+    .aria-label = Personalizuj
 
 ## Search box component.
 
@@ -15,10 +17,19 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Traži
     .aria-label = Traži
+# Variables:
+#   $engine (string) - The name of the user's default search engine
+newtab-search-box-handoff-text = Pretražite pomoću { $engine } ili unesite adresu
+newtab-search-box-handoff-text-no-engine = Unesite termin za pretragu ili adresu
+newtab-search-box-text = Pretraži web
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Dodaj pretraživač
+newtab-topsites-add-shortcut-header = Nova prečica
 newtab-topsites-edit-topsites-header = Uredi najbolju stranicu
+newtab-topsites-edit-shortcut-header = Uredi prečicu
+newtab-topsites-add-shortcut-label = Dodaj prečicu
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Unesi naslov
@@ -46,6 +57,7 @@ newtab-confirm-delete-history-p2 = Ova radnja se ne može opozvati.
 
 ## Top Sites - Sponsored label
 
+newtab-topsite-sponsored = Sponzorisano
 
 ## Context Menu - Action Tooltips.
 
@@ -66,9 +78,19 @@ newtab-menu-delete-history = Izbriši iz historije
 newtab-menu-save-to-pocket = Sačuvaj na { -pocket-brand-name }
 newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name }a
 newtab-menu-archive-pocket = Arhiviraj u { -pocket-brand-name }
+newtab-menu-show-privacy-info = Naši sponzori i vaša privatnost
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = Gotovo
+newtab-privacy-modal-button-manage = Upravljajte postavkama sponzorisanog sadržaja
+newtab-privacy-modal-header = Vaša privatnost je važna.
+newtab-privacy-modal-paragraph-2 =
+    Osim što donosimo zadivljujuće priče, prikazujemo vam i relevantne,
+    visoko provjereni sadržaj odabranih sponzora. Budite sigurni, <strong>vaši podaci
+    pretraživanja nikada ne napuštaju vašu ličnu kopiju { -brand-product-name }a</strong> — mi to ne vidimo, a također
+    ni naši sponzori.
+newtab-privacy-modal-link = Saznajte kako funkcioniše privatnost na novom tabu
 
 ##
 
@@ -113,6 +135,11 @@ newtab-label-sponsored = { $sponsorOrSource } · Sponzorisano
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponzorisano od { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -121,20 +148,28 @@ newtab-section-menu-remove-section = Ukloni sekciju
 newtab-section-menu-collapse-section = Skupi sekciju
 newtab-section-menu-expand-section = Proširi sekciju
 newtab-section-menu-manage-section = Upravljaj sekcijom
+newtab-section-menu-manage-webext = Upravljanje ekstenzijom
 newtab-section-menu-add-topsite = Dodajte omiljenu stranicu
+newtab-section-menu-add-search-engine = Dodaj pretraživač
 newtab-section-menu-move-up = Pomjeri gore
 newtab-section-menu-move-down = Pomjeri dole
 newtab-section-menu-privacy-notice = Polica privatnosti
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Skupi sekciju
+newtab-section-expand-section-label =
+    .aria-label = Proširi sekciju
 
 ## Section Headers.
 
 newtab-section-header-topsites = Najposjećenije stranice
+newtab-section-header-recent-activity = Nedavne aktivnosti
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Preporučeno od { $provider }
+newtab-section-header-stories = Priče koje podstiču na razmišljanje
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -164,3 +199,6 @@ newtab-error-fallback-refresh-link = Osvježite stranicu da biste pokušali pono
 ## Customization Menu
 
 newtab-custom-close-button = Zatvori
+
+## New Tab Wallpapers
+
