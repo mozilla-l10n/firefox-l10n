@@ -52,7 +52,15 @@ migration-imported-edge-reading-list = فہرست پڑھدا پیا ہے (ایج
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name }کوں اِیں ڈیوائس اُتے انسٹال کِیتے ڳئے ٻئے براؤزرز دے پروفائلز تئیں رسائی حاصل کائے نِھیں۔
+migration-no-permissions-instructions = ٻئے براؤزر کنوں ڈیٹا دی درآمد جاری رکّھݨ کِیتے، { -brand-short-name }کوں اِین٘دے پروفائل فولڈر تئیں رسائی ݙیؤ۔
 migration-no-permissions-instructions-step1 = ” جاری” چݨو
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = فائل چُݨن آلے وِچ <code>{ $permissionsPath }</code>اَتے چُݨُو“تے ون٘ڄو”
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -81,6 +89,7 @@ migration-passwords-from-file-success-header = پاس ورڈز کامیابی ن
 migration-passwords-from-file = پاس ورڈاں کیتے فائل دی پڑتال کریندا پئے
 migration-passwords-new = نویں پاس ورڈز
 migration-passwords-updated = موجود پاس ورڈز
+migration-passwords-from-file-no-valid-data = فائل وِچ کُئی درست پاس ورڈ ڈیٹا شامل کائے نِھیں۔ ٻئی فائل چُݨُو۔
 migration-passwords-from-file-picker-title = پاس ورڈز فائل امپورٹ کرو
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -120,6 +129,7 @@ migration-bookmarks-from-file-picker-title = نشانیاں دی فائل درآ
 migration-bookmarks-from-file-progress-header = نشانیاں درآمد کرݨ
 migration-bookmarks-from-file = نشانیاں
 migration-bookmarks-from-file-success-header = نشانیاں کامیابی نال امپورٹ تھی آئیاں
+migration-bookmarks-from-file-no-valid-data = فائل وِچ کُئی کتاب نشان ڈیٹا شامل کائے نِھیں۔ ٻئی فائل چُݨُو۔
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -232,6 +242,10 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $quantity } وچوں { $matched } ایکسٹنشناں
+migration-wizard-progress-extensions-support-link = سِکّھوں جو کین٘ویں { -brand-product-name } ایکسٹینشنز نال میل کھان٘دا ہِے
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = کُئی سان٘ویں ایکسٹیشنز کائے نِھیں
 migration-wizard-progress-extensions-addons-link = { -brand-short-name } کیتے ایکسٹنشناں براؤز کرو
 
 ##

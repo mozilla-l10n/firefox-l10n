@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = چیک کرو جو { -brand-short-name } 
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } اساݙے قابل اعتماد DNS حل کنندہ دے ذریعے ایں سائٹ دے پتے کیتے تہاݙی درخواست دی حفاظت نہیں کر سڳدا۔ اتھاں کیوں ہے:
+neterror-dns-not-found-trr-only-reason2 = { -brand-short-name } اَساݙے محفوظ ڈی این ایس فراہم کنندہ دے ذریعے اِیں سائٹ دے پتے کِیتے تُہاݙی عرضی دی راکھی نِھیں کر سڳدا۔ اِتّھاں کیوں ہِے:
 neterror-dns-not-found-trr-third-party-warning2 = تساں آپݨے ڈیفالٹ ڈی این ایس حل کرݨ آلے نال جاری رکھ سڳدے ہو۔ ول وی تریجھا فریق ایہ ݙیکھݨ دے قابل تھی سڳدے جو تساں کہڑیاں ویب سائٹاں تے ویندے ہو۔
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } { $trrDomain } نال جڑݨ دے قابل کائنا ہا۔
 neterror-dns-not-found-trr-only-timeout = { $trrDomain } نال کنکشن وِچ توقع توں زیادہ وقت لڳا۔
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = غیر متوقع مسئلہ
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = { -brand-short-name } اساݙے قابل اعتماد DNS حل کنندہ دے ذریعے ایں سائٹ دے پتے کیتے تہاݙی درخواست دی حفاظت نہیں کر سڳدا۔ اتھاں کیوں ہے:
+neterror-dns-not-found-native-fallback-reason2 = { -brand-short-name } اَساݙے محفوظ ڈی این ایس فراہم کنندہ دے ذریعے اِیں سائٹ دے پتے کِیتے تُہاݙی عرضی دی راکھی نِھیں کر سڳدا۔ اِتّھاں کیوں ہِے:
 neterror-dns-not-found-native-fallback-heuristic = تہاݙے نیٹ ورک تے HTTPs تے ڈی این ایس غیرفعال کر ݙتا ڳئے۔
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { $trrDomain } نال جڑݨ دے قابل کائنا ہا۔
 

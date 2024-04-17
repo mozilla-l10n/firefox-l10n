@@ -43,6 +43,11 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = prefers-reduced-motion نال سوکھا ہائی لائٹر ورتو
 options-inspector-simplified-highlighters-tooltip =
     .title = prefers-reduced-motion فعال تھیوݨ نال سادے ہائی لائٹرز فعال کریندا ہے۔ چمکدے اثرات کنوں بچݨ کیتے نمایاں تھئے عناصر دے گرد بھری ہوئی مستطیلاں دی بجائے لکیراں چھکیندا ہے۔
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = اڳلا اِن پُٹ <kbd>اینٹر</kbd>اُتے مرکوز کرو
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = فعال تِھیوݨ تے، چُݨن آلے وِچ ترمیم کرݨ ویلے اینٹر دے بٹݨ کوں دباوݨ نال پراپرٹی دا ناں یا قدر اڳلے اِن پُٹ اُتے بھال مرکوز کر ݙیسی۔
 
 ## "Default Color Unit" options for the Inspector
 
@@ -60,6 +65,8 @@ options-default-color-unit-name = رنگ دے ناں
 options-webconsole-label = ویب کنسول
 # The label for the checkbox that toggle whether the Split console is enabled
 options-webconsole-split-console-label = سپلٹ کنسول کوں فعال کرو
+options-webconsole-split-console-tooltip =
+    .title = ایسکیپ بٹݨ دے نال سپلِٹ کنسول کھولو
 
 ## Style Editor section
 
@@ -120,6 +127,10 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = ریموٹ ڈیبگنگ کوں فعال بݨاؤ
 options-enable-remote-tooltip2 =
     .title = ایں اختیار کوں آن کرݨ نال ایں براؤزر دی مثال کوں دور کنوں ڈیبگ کرݨ دی اجازت مل ویسے۔
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = ڈیو ٹولز کوں کھولݨ یا بند کرݨ کِیتے ایف12 بٹݨ استعمال کرو
+options-enable-f12-tooltip =
+    .title = اِیں اختیار کوں چالو کرݨ نال ایف12 بٹݨ ڈیو ٹولز ٹول بکس کوں کھولݨ یا بند کرݨ کنوں وان٘جھا کر ݙیسی
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = حسب ضرورت فارمیٹرز کوں فعال کرو۔
 options-enable-custom-formatters-tooltip =

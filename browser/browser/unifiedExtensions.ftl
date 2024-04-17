@@ -40,5 +40,10 @@ unified-extensions-context-menu-move-widget-down =
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = کجھ ایکسٹنشناں دی اجازت کائنی
+unified-extensions-mb-quarantined-domain-message = تُہاݙے ڈیٹا دی راکھی کِیتے اِیں سائٹ اُتے صرف { -vendor-short-name }دے ذریعے نگرانی کِیتی ون٘ڄݨ آلیاں کُجھ ایکسٹنشنز دی اجازت ہِے۔
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = کُجھ ایکسٹنشناں دی اجازت کائنی
+    .message = تُہاݙے ڈیٹا دی راکھی کِیتے، کُجھ ایکسٹنشنز اِیں سائٹ اُتے ڈیٹا کُوں پڑھ یا بَدل نِھیں سڳدیاں۔ { -vendor-short-name }دے ذریعے محدود کِیتیاں ڳئیں سائٹس اُتے اجازت ݙیوݨ کِیتے ایکسٹنشن دیاں ترتیباں دا استعمال کرو۔
 unified-extensions-mb-quarantined-domain-learn-more = ٻیا سِکھو
     .aria-label = ٻیا سِکھو: کجھ ایکسٹینشناں دی اجازت کائنی

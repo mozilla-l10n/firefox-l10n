@@ -23,17 +23,25 @@ protections-panel-etp-more-info =
     .aria-label = بہتر ٹریکنگ پروٹیکشن دے بارے وِچ ودھیک معلومات
 protections-panel-etp-on-header = ایں سائٹ کیتے بہتر ٹریکنگ پروٹیکشن آن ہے۔
 protections-panel-etp-off-header = ایں سائٹ کیتے بہتر ٹریکنگ پروٹیکشن آف ہے۔
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = سائٹ کم نہیں کریندی پئی؟
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = سائٹ کم نئیں کریندی پئی؟
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = سائٹ کم نہیں کریندی پئی؟
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = سائٹ کم نئیں کریندی پئی؟
+protections-panel-etp-toggle-on =
+    .label = بہتر ٹریکنگ حفاظت
+    .description = اِیں سائٹ کِیتے چالو
+    .aria-label = بہتر ٹریکنگ حفاظت: { $host } کِیتے چالو
+protections-panel-etp-toggle-off =
+    .label = بہتر ٹریکنگ حفاظت
+    .description = اِیں سائٹ کِیتے بند
+    .aria-label = بہتر ٹریکنگ حفاظت: { $host } کِیتے بند
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -100,7 +108,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = ترٹی ہوئی سائٹ دی رپورٹ کرو
 protections-panel-content-blocking-breakage-report-view-description = کجھ ٹریکرز کوں بلاک کرݨ نال کجھ ویب سائٹاں دے نال مسائل پیدا تھی سڳدے ہن۔ انہاں مسائل دی اطلاع ݙیوݨ نال ہر کہیں کیتے { -brand-short-name } کوں بہتر بݨاوݨ وِچ مدد ملدی ہے۔ ایں رپورٹ کوں بھیڄݨ نال موزیلا کوں تہاݙے براؤزر دیاں ترتیباں دے بارے  URL تے معلومات بھیڄی ویسے۔ <label data-l10n-name="learn-more">ودھیک ڄاݨو</label>
-protections-panel-content-blocking-breakage-report-view-description2 = کجھ ٹریکرز کوں بلاک کرݨ نال کجھ ویب سائٹاں دے نال مسائل پیدا تھی سڳدے ہن۔ انہاں مسائل دی اطلاع ݙیوݨ نال ہر کہیں کیتے { -brand-short-name } کوں بہتر بݨاوݨ وِچ مدد ملدی ہے۔ ایں رپورٹ کوں بھیڄݨ نال { -vendor-short-name } کوں تہاݙے براؤزر دیاں ترتیباں دے بارے  URL تے معلومات بھیڄی ویسے۔
 protections-panel-content-blocking-breakage-report-view-collection-url = یوآرایل
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = یوآرایل
@@ -127,11 +134,16 @@ protections-panel-cookie-banner-view-turn-off-for-site = { $host } کیتے کو
 protections-panel-cookie-banner-view-turn-on-for-site = ایں سائٹ کیتے کوکی بینر گھٹاوݨ چالو کروں؟
 protections-panel-cookie-banner-blocker-view-title =
     .title = کوکی بینر بلاک کرݨ آلا
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = { $host }کِیتے کوکی بینر بلاکر کوں بند کر ݙیؤ؟
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = اِیں سائٹ کِیتے کوکی بینر بلاکر کوں چالو کروں؟
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } ایں سائٹ دیاں کوکیاں صاف کریسی تے ورقہ تازہ کریسی۔ساریاں کوکیاں صاف کرݨ نال تساں سائن آوٹ تھی سڳدے ہو یا تہاݙی خریداری ریڑھی خالی تھی ویسی۔
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } آپݨے آپ سہارا تھیاں سائٹاں تے ساریاں کوکی ارداساں کوں مسترد کرݨ دی کوشش کریندا ہے۔
 protections-panel-cookie-banner-view-cancel = منسوخ
 protections-panel-cookie-banner-view-turn-off = بند کرو
 protections-panel-cookie-banner-view-turn-on = چالو کرو
+protections-panel-cookie-banner-blocker-view-turn-on-description = چالو کرو اَتے { -brand-short-name } اِیں سائٹ اُتے کوکی بینرز کوں خود کار طریقے نال انکار کرݨ دی کوشِت کریسی۔
 protections-panel-cookie-banner-view-cancel-label =
     .label = منسوخ
 protections-panel-cookie-banner-view-turn-off-label =

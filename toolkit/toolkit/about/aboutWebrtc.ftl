@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = AEC لاگنگ شروع کرو
 about-webrtc-aec-logging-on-state-label = AEC لاگنگ کوں روکو
 about-webrtc-aec-logging-on-state-msg = AEC لاگنگ فعال (کجھ منٹ کیتے کال کرݨ والے نال ڳالھ کرو تے ول کیپچر روک ݙیو)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC لاگنگ فعال (کجھ منٹ کیتے کال کرݨ والے نال ڳالھ کرو تے ول کیپچر روک ݙیو)
+about-webrtc-aec-logging-unavailable-sandbox = ماحولیاتی متغیر MOZ_DISABLE_CONTENT_SANDBOX=1 لاگز برآمد کرݨ کِیتے درکار ہِے۔ اِیں متغیر کوں صرف اِیں صورت وِچ مُرتب کرو جہڑیلے تُساں ممکنہ خطریاں کوں سمجھدے ہوو۔
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = کیپچر شدہ لاگ فائلاں ایندے وِچ لبھ سڳدیاں ہن: { $path }
@@ -96,6 +97,10 @@ about-webrtc-debug-mode-msg-label = ڈیبگ موڈ
 about-webrtc-debug-mode-off-state-label = ڈیبگ موڈ شروع کرو
 about-webrtc-debug-mode-on-state-label = ڈیبگ موڈ روکو
 about-webrtc-stats-heading = سیشن شماریات
+about-webrtc-enable-logging-label = WebRTC لاگ پری سیٹ کوں فعال کرو
+about-webrtc-peerconnections-section-heading = RTCPeerConnection دے اعداد و شمار
+about-webrtc-peerconnections-section-show-msg = RTCPeerConnection دے اعداد و شمار ݙِکھاؤ
+about-webrtc-peerconnections-section-hide-msg = RTCPeerConnection دے اعداد و شمار لُکاؤ
 about-webrtc-stats-clear = تاریخ میسو
 about-webrtc-log-heading = کنکشن لاگ
 about-webrtc-log-clear = لاگ صاف کرو
@@ -107,6 +112,8 @@ about-webrtc-log-section-show-msg = لاگ ݙکھاؤ
     .title = ایں سیکشن کوں پھیلاوݨ کیتے کلک کرو
 about-webrtc-log-section-hide-msg = لاگ لُکاؤ
     .title = ایں سیکشن کوں سنگوڑݨ کیتے کلک کرو
+about-webrtc-copy-report-button = رپورٹ کاپی کرو
+about-webrtc-copy-report-history-button = رپورٹ ہسٹری کاپی کرو
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -188,6 +195,17 @@ about-webrtc-configuration-element-provided = مہیا تھیا
 about-webrtc-configuration-element-not-provided = مہیا کائنی تھیا
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = یوزر سیٹ WebRTC ترجیحاں
+# The options set by the user in about:config that could impact a WebRTC call
+about-webrtc-user-modified-configuration-heading = صارف دی طرفُوں تبدیل کِیتا ڳِیا WebRTC کنفیگریشن
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+about-webrtc-user-modified-configuration-show-msg = صارف دی طرفُوں تبدیل کِیتی ڳئی کنفیگریشن ݙِکھاؤ
+about-webrtc-user-modified-configuration-hide-msg = صارف دی طرفُوں تبدیل کِیتی ڳئی کنفیگریشن لُکاؤ
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = تخمینہ شدہ بینڈوتھ
 # The ID of the MediaStreamTrack
@@ -218,12 +236,11 @@ about-webrtc-save-page-msg = ورقہ ایندے اوتے ہتھیکڑا کیت�
 about-webrtc-debug-mode-off-state-msg = ٹریس لاگ ایندے اوتے لبھیا ونڄ سڳدا ہے: { $path }
 about-webrtc-debug-mode-on-state-msg = ڈیبگ موڈ فعال، ٹریس لاگ تے: { $path }
 about-webrtc-aec-logging-off-state-msg = کیپچر شدہ لاگ فائلاں ایندے وِچ لبھ سڳدیاں ہن: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = ورقہ ایندے اوتے ہتھیکڑا کیتا ڳیا ہے: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = ٹریس لاگ ایندے اوتے لبھیا ونڄ سڳدا ہے: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = ڈیبگ موڈ فعال، ٹریس لاگ تے: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.

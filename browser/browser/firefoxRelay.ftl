@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } کوں دوبا�
 ##
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } استعمال کرݨ کیتے تہاکوں { -fxaccount-brand-name } وِچ لاگ ان کرݨا پوسے۔
+firefox-relay-must-login-to-account = آپݨے { -relay-brand-name } ای میل ماسکس ورتݨ کِیتے آپݨے اکاؤنٹ وِچ سائن ان تھیوو۔
 firefox-relay-get-unlimited-masks =
     .label = ماسک منظم کرو
     .accesskey = M

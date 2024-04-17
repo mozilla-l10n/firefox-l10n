@@ -22,12 +22,10 @@ about-private-browsing-not-private = تساں حالی نجی ونڈو وچ کا
 about-private-browsing-info-description-private-window = نجی ونڈو: { -brand-short-name } تہاݙی ڳول تے براؤزنگ دی تاریخ کوں صاف کر ݙیندی ہے جݙاں تساں تمام نجی ونڈوز بند کر ݙیندے او۔ ایہ تہاکوں گمنام نہیں بݨیدا۔
 about-private-browsing-info-description-simplified = { -brand-short-name } تہاݙی ڳول تے براؤزنگ دی تاریخ کوں مٹیندا ہے جݙاں جو تساں سبھے نجی ونڈوز بند کریندے او، پر ایہ تہاکوں گمنام نہیں بݨیندا۔
 about-private-browsing-learn-more-link = ٻیا سِکھو
-
 about-private-browsing-hide-activity = اپݨی سرگرمی تے لوکیشن لُکاؤ، جتھاں وی تساں براؤز کرو
 about-private-browsing-get-privacy = رازداری دا تحفظ حاصل کرو جتھاں وی تساں براؤز کرو
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } نال براؤزنگ دی سرگرمی تے لوکیشن لُکاؤ۔ ہک کلک محفوظ کنکشن بݨا ݙیندے، بھانویں جو پبلک وائی فائی ہووے۔
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } نال نجی راہوو
-
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ڈاؤن لوڈ کرو
 about-private-browsing-focus-promo-header = { -focus-brand-name }: چلدے پھردے نجی براؤزنگ
 about-private-browsing-focus-promo-text = اساݙی سرشار نجی براؤزنگ موبائل ایپ ہر واری تہاݙی تاریخ تے کوکیاں کوں صاف کریندیاں ہن۔
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = اپݨے فون تے نجی برا
 about-private-browsing-focus-promo-text-b = انہاں نجی ڳولݨیاں کیتے { -focus-brand-name } دا استعمال کرو جنہاں کوں تساں اپݨے مرکزی موبائل براؤزر کوں نہیں ݙیکھݨ چاہندے۔
 about-private-browsing-focus-promo-header-c = موبائل تے اڳلے درجے دی رازداری
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } تہاݙی ہسٹری میس ݙیندے جئیں ویلھے تساں ایڈز تے ٹریکرز دی ݙک ٹھل کریندے پئے ہوندو
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = بند کرو
-
 about-private-browsing-promo-close-button =
     .title = بند کرو
 
@@ -72,3 +68,13 @@ about-private-browsing-pin-promo-title = تہاݙے ڈیسک ٹاپ کنوں ک�
 about-private-browsing-cookie-banners-promo-header = کوکی بینرز شروع تھی ڳئے!
 about-private-browsing-cookie-banners-promo-button = کوکی بینراں کوں تھوڑا کرو
 about-private-browsing-cookie-banners-promo-message = { -brand-short-name } کوں خودبخود تہاݙے کیتے کوکی پوپ اپاں دا جواب ݙیوݨ ݙیوو تاں جو تساں کہیں خلفشار دے بغیر براؤزنگ تے ون٘ڄ سڳو۔ ممکن ہویا تاں { -brand-short-name } ساریاں ارداساں مسترد کر ݙیسی۔
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }تُہاݙے کِیتے کوکیز بینرز دی سن٘بھال کرین٘دے ہِن
+about-private-browsing-cookie-banners-promo-body = ہُݨ اَساں آپُوں آپ ٻہوں سارے کوکی بینرز کوں ہَٹَک ݙین٘دے ہِسے تاں جو تُہاݙی گَھٹ ڳویڑ کِیتی ون٘ڄ سڳیڄے اَتے اَڑان٘د کنوں پاک براؤزنگ اُتے وَل سڳو۔
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = اِیں آلے اُتّے کُئی نشانیاں نہ چھوڑو
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name }تُہاݙی کوکیز، احوال، اَتے سائٹ دے ڈیٹا کوں مِٹا ݙین٘دا ہِے جہڑیلے تُساں آپݨیاں ساریاں نجی ونڈوز بند کر ݙین٘دے ہِیوے۔
+about-private-browsing-felt-privacy-v1-info-link = میݙی سرگرمی بَھلا کوݨ ݙیکھ سڳدا ہِے؟

@@ -6,12 +6,13 @@ common-dialog-title-null = ایہ ورقہ آہدا ہے
 common-dialog-title-system = { -brand-short-name }
 # Title displayed when the origin of a web dialog is unknown.
 common-dialog-title-unknown = اݨ ڄاتا
-
+# An indicator showing that Firefox is waiting for an operation to finish
+common-dialog-spinner =
+    .alt = رُدّھا
 common-dialog-username =
     .value = ورتݨ ناں
 common-dialog-password =
     .value = پاس ورڈ
-
 common-dialog-copy-cmd =
     .label = نقل کرو
     .accesskey = C

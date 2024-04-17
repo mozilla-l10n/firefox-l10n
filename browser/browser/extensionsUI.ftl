@@ -20,6 +20,11 @@ addon-post-install-message = { $addonName } شامل تھی ڳیا ہا
 
 ## A modal confirmation dialog to allow an extension on quarantined domains.
 
+# Variables:
+#   $addonName (String): localized name of the extension.
+webext-quarantine-confirmation-title = { $addonName }کوں محدود سائٹس اُتّے چلاؤ؟
+webext-quarantine-confirmation-line-1 = تُہاݙے ڈیٹا دی راکھی کِیتے، اِیں سائٹ اُتّے اِیں ایکسٹینشن دی اجازت کائے نِھیں۔
+webext-quarantine-confirmation-line-2 = ڄیکر تُہاکُوں { -vendor-short-name } دی طرفُوں محدود سائٹس اُتّے آپݨاں ڈیٹا پڑھݨ اَتے بَدلݨ اُتے بھرواسہ ہِے تاں اِیں ایکسٹینشن دی اجازت ݙیؤ۔
 webext-quarantine-confirmation-allow =
     .label = اجازت ݙیوو
     .accesskey = A

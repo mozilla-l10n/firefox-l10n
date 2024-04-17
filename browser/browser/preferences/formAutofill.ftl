@@ -20,6 +20,7 @@ autofill-manage-edit-button = تدوین کرو …
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = پتہ محفوظ کروں؟
+address-capture-save-doorhanger-description = معلومات کوں { -brand-short-name } وِچ بچاؤ تاں جو تُساں فارماں کوں جلدی نال پُر کر سڳو۔
 address-capture-update-doorhanger-header = پتہ اپڈیٹ کروں؟
 address-capture-edit-doorhanger-header = پتے وچ تبدیلی کرو
 address-capture-save-button =
@@ -129,6 +130,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } کریڈٹ کارڈ دیاں معلومات ݙکھاوݨ دی کوشش کریندا پئے۔ ایں تلویں ونڈوز اکاؤنٹ رسائی دی تصدیق کرو۔
        *[other] { -brand-short-name } کریڈٹ کارڈ دیاں معلومات ݙکھاوݨ دی کوشش کریندا پئے۔
     }
+autofill-message-tooltip = خود کار طریقے نال پُر کرݨ دے بارے وِچ پیغام ݙیکھو
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-card-title = کارڈ شامل کرو
 # The dialog title for editing credit cards in browser preferences.

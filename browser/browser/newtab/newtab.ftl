@@ -262,6 +262,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = سپانسر تھئے شارٹ کٹ
 newtab-custom-pocket-title = { -pocket-brand-name } دی طرفوں سفارش کیتے ڳئے
 newtab-custom-pocket-subtitle = { -pocket-brand-name } دے ذریعے تیار تھئے غیر معمولی مواد، { -brand-product-name } ٹٻر دا حصہ
+newtab-custom-stories-toggle =
+    .label = تجویز کردہ کہاݨیاں
+    .description = { -brand-product-name }ٹَٻَّر دے ذریعے تیار کردہ غیر معمولی مواد
 newtab-custom-pocket-sponsored = سپانسر تھیاں کہاݨیاں
 newtab-custom-pocket-show-recent-saves = حالیہ ہتھیکڑیاں ظاہر کرو
 newtab-custom-recent-title = حالیہ سرگرمی
@@ -278,3 +281,17 @@ newtab-wallpaper-title = وال پیپرز
 newtab-wallpaper-reset = ڈیفالٹ تے مقرر کرو
 newtab-wallpaper-light-red-panda = رتا پانڈا
 newtab-wallpaper-light-mountain = چٹی پہاڑی
+newtab-wallpaper-light-sky = ڄُمُّوں اَتے غُلابی بَدلاں دے نال اَسمان
+newtab-wallpaper-light-color = نیلے، غُلابی اَتے پیلے رنگ دیاں شکلاں
+newtab-wallpaper-light-landscape = نیلے دُھندلے پہاڑی منظر
+newtab-wallpaper-light-beach = کھڄّی دے وݨ نال مَݨ
+newtab-wallpaper-dark-aurora = ارورہ بوریلس
+newtab-wallpaper-dark-color = رَتّے اَتے نیلے شکلاں
+newtab-wallpaper-dark-panda = جَھر وِچ لُکّیا ہوئیا رَتّا پانڈا
+newtab-wallpaper-dark-sky = رات دے اَسمان دے نال شہر دا منظر
+newtab-wallpaper-dark-mountain = پہاڑ دا منظر
+newtab-wallpaper-dark-city = ڄَمُّوں رنگ دے شہر د امنظر
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = <a data-l10n-name="name-link"> دی طرفُوں تصویر </a><a data-l10n-name="webpage-link">{ $webpage_string }</a> اُتے

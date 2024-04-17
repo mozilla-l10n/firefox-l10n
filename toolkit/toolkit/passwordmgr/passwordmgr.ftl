@@ -20,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = { $host } کیتے پاس ورڈ اپ ڈیٹ کرو؟
+password-manager-update-password-button-delete =
+    .label = محفوظ تھئے ہوئے پاس ورڈ ہٹا ڈیؤ
+    .accesskey = R
 password-manager-update-login-add-username = محفوظ تھئے پاس ورڈ وچ ورتݨ ناں شامل کروں؟
 password-manager-password-password-button-allow =
     .label = اپ ڈیٹ کرو

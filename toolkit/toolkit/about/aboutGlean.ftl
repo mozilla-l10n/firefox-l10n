@@ -3,15 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### "Glean" and "Glean SDK" should remain in English.
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } ڈیبگ پنگ ویووَر
-
 about-glean-page-title2 = { -glean-brand-name } بارے
 about-glean-header = { -glean-brand-name } بارے
 about-glean-interface-description =
@@ -19,7 +16,6 @@ about-glean-interface-description =
     ہک ڈیٹا مجموعہ لائبریری ہے جہڑی { -vendor-short-name } منصوبیاں وچ ورتیندی ہے۔
     ایہ انٹرفیس ڈیوپلپراں تے ٹیسٹراں کیتے دستی
     <a data-l10n-name="fog-link"> ٹیسٹ دے آلاتی عمل</a> کیتے ڈیزائن کیتا ڳئے۔
-
 about-glean-upload-enabled = ڈیٹا اپ لوڈ فعال تھی ڳیا ہے۔
 about-glean-upload-disabled = ڈیٹا اپ لوڈ غیرفعال تھی ڳیا ہے۔
 about-glean-upload-enabled-local = ڈیٹا اپ لوڈ صرف مقامی سرور کوں بھیڄݨ کیتے فعال ہے۔
@@ -29,7 +25,6 @@ about-glean-upload-fake-enabled =
     تاکہ ڈیٹا ہݨ وی مقامی طور تے ریکاڈ کیتا ون٘ڄے۔
     نوٹ: جے تساں ڈیبگ ٹیگ مقرر کریسو تاں پنگ ترتیباں دا خیال رکھے بغیر
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>  تے اپ لوڈ تھی ویسن۔
-
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = متعلقہ <a data-l10n-name="fog-prefs-and-defines-doc-link"> ترجیحاں تے تعریفاں </a>  وچ شامل ہن:
 # Variables:
@@ -48,7 +43,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
-
 about-glean-about-testing-header = ٹیسٹنگ بارے
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -56,11 +50,12 @@ about-glean-manual-testing =
     تے  <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } دستاویزیت</a>
     وچ پوریاں ہدایات دستاویز تھیاں ہویاں ہن
     پر، مختصراً، دستی طور تے جان٘چݨ کیتے جو تہاݙا اوزار ٹھیک کم کریندے، تہاکوں چاہیے:
-
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (کوئی وی پنگ جمع نہ کرواؤ)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = پچھلے فیلڈ وچ یقینی بݨاؤ جو اتھ ہک یادگار ڈیبگ ٹیگ ہے تاں جو تساں بعد وچ آپݨے پنگاں کوں سُن٘ڄاݨ سڳو۔
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = ہِک یادگار ڈیبگ ٹیگ مُرتب کرو <span>(20 اَکّھراں یا اِین٘دے کنوں گَھٹ، اَکّھر ڳِݨَتری اَتے - صرف)</span> تاں جو تُساں بعد وِچ آپݨے پنگز کوں پِچھاݨ سڳو۔
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
@@ -85,7 +80,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">آپݨے ٹیگ نال پنگاں کیتے{ glean-debug-ping-viewer-brand-name } تے ون٘خو</a>
     بٹݨ دباوݨ کنوں تہاݙے پنگ دے آوݨ تائیں کجھ سیکنڈاں کنوں ودھ ویلا کائنی لڳݨاں چاہیدا۔
     کہیں ویلے کجھ منٹ لڳ سڳدن۔
-
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     ٻئی <i>ایڈ ہاک</i> پڑتال کرݨ کیتے،
@@ -93,10 +87,19 @@ about-glean-adhoc-explanation =
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
     وانگوں and using the <code>testGetValue()</code> اے پی آئی ورتݨ نال
     تساں  آلے دی خاص ٹکڑے دی موجودہ قیمت دا تعین کر سڳدے ہو۔
-
-
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 =
+    ٻئی <i>ایڈ ہاک</i> پڑتال کرݨ کیتے،
+    تساں  آلے دی خاص ٹکڑے دی موجودہ قیمت دا تعین کر سڳدے ہو۔
+    اتھ  <code>about:glean</code> تے ڈیوٹول کنسول کھولݨ نال
+    اَتے <code>testGetValue()</code> اے پی آئی جیہیں دا استعمال کرین٘دے ہوئے
+    <code>Glean.metricCategory.metricName.testGetValue()</code>
+    <code>metric.category.metric_name</code> ناں آلی میٹرک کِیتے۔
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    تھورائیت کرین٘دے ہوئے نوٹ کرو جو تُساں devtools کنسول دا استعمال کر کے Glean JS API استعمال کرین٘دے پئے ہِیوے۔
+    اِین٘دا مطلب ہِتے جو میٹرک زمرہ اَتے میٹرک دا ناں فارمیٹ کِیتا ڳِیا ہِے۔ <code>camelCase</code> رسٹ اَتے C++ APIs دے برعکس۔
 controls-button-label-verbose = ترتیباں دا اطلاق کرو تے پنگ جمع کراؤ۔
-
 about-glean-about-data-header = ڈیٹا بارے
 about-glean-about-data-explanation =
     جمع تھئے ڈیٹا دی تندیر براؤز کرݨ کیتے سوہݨا 

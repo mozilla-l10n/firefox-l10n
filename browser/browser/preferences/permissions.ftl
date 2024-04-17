@@ -109,6 +109,10 @@ permissions-exceptions-saved-logins-desc = ہیٹھ درج ویب سائٹاں �
 
 ## Exceptions - Saved Passwords
 
+permissions-exceptions-saved-passwords-window =
+    .title = استثنیات - محفوظ تھئے ہوئے پاس ورڈز
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name } اِتّھاں درج سائٹاں دے کول پاس ورڈ نہ محفوظ کریسی۔
 
 ## Exceptions - Add-ons
 
