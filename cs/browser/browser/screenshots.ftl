@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Zkuste vybrat oblast s delší stranou men
 screenshots-component-retry-button =
     .title = Zkusit snímek pořídit znovu
     .aria-label = Zkusit snímek pořídit znovu
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Zrušit (esc)
+           *[other] Zrušit (esc)
+        }
+    .aria-label = Zrušit
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Kopírovat ({ $shortcut })
+    .aria-label = Kopírovat
 screenshots-component-copy-button-label = Kopírovat
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Stáhnout ({ $shortcut })
+    .aria-label = Stáhnout
 screenshots-component-download-button-label = Stáhnout
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
