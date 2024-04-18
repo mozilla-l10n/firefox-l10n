@@ -24,8 +24,16 @@ unified-extensions-item-message-manage = Կառավարել ընդլայնում
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Ամրացնել գործիքագոտուն
 unified-extensions-context-menu-manage-extension =
     .label = Կառավարել ընդլայնումը
+unified-extensions-context-menu-remove-extension =
+    .label = Հեռացնել ընդլայնումը
+unified-extensions-context-menu-report-extension =
+    .label = Զեկուցել ընդլայնման մասին
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-learn-more = Իմանալ ավելին
+    .aria-label = Իմանալ ավելին. որոշ ընդլայնումներ են թույլատրվում
