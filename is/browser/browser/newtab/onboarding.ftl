@@ -54,6 +54,7 @@ mr1-onboarding-theme-header = Gerðu það að þínu eigin
 mr1-onboarding-theme-subtitle = Sérsníddu { -brand-short-name } með þema.
 mr1-onboarding-theme-secondary-button-label = Ekki núna
 newtab-wallpaper-onboarding-title = Prófaðu skvettu af lit
+newtab-wallpaper-onboarding-subtitle = Veldu bakgrunn til að gefa nýja flipanum þínum ferskt útlit.
 newtab-wallpaper-onboarding-primary-button-label = Stilla bakgrunn
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Kerfisþema

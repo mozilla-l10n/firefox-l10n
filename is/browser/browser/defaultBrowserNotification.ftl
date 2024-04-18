@@ -26,5 +26,15 @@ default-browser-prompt-button-secondary = Ekki núna
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = Ljúktu við að gera { -brand-short-name } að sjálfgefnum vafra
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Skref 1: Farðu í Stillingar> Sjálfgefin forrit
+    Skref 2: Skrunaðu niður að „Vafri“
+    Skref 3: Veldu { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Skref 1: Farðu í Stillingar> Sjálfgefin forrit
+    Skref 2: Veldu „Setja sjálfgefið“ fyrir { -brand-short-name }
 default-browser-guidance-notification-info-page = Sýna mér
 default-browser-guidance-notification-dismiss = Lokið
