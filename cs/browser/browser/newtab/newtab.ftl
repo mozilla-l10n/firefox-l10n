@@ -292,3 +292,13 @@ newtab-wallpaper-light-sky = Obloha s fialovými a růžovými mraky
 newtab-wallpaper-light-color = Modré, růžové a žluté tvary
 newtab-wallpaper-light-landscape = Horská krajina s modrou mlhou
 newtab-wallpaper-light-beach = Pláž s palmou
+newtab-wallpaper-dark-aurora = Polární záře
+newtab-wallpaper-dark-color = Červené a modré tvary
+newtab-wallpaper-dark-panda = Panda červená ukrytá v lese
+newtab-wallpaper-dark-sky = Městská krajina s noční oblohou
+newtab-wallpaper-dark-mountain = Horská scenérie
+newtab-wallpaper-dark-city = Fialová krajina města
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Fotografie od autora <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
