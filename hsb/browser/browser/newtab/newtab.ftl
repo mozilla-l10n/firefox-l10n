@@ -285,6 +285,7 @@ newtab-wallpaper-light-red-panda = Čerwjeny panda
 newtab-wallpaper-light-mountain = Běła hora
 newtab-wallpaper-light-sky = Njebjo z wioletnymi a róžowymi mróčelemi
 newtab-wallpaper-light-color = Módre, róžowe a žołte twary
+newtab-wallpaper-light-landscape = Módra kurjawojta horinska krajina
 newtab-wallpaper-light-beach = Přibrjóh z palmu
 newtab-wallpaper-dark-aurora = Aurora Borealis
 newtab-wallpaper-dark-color = Čerwjene a módre twary
