@@ -64,6 +64,7 @@ contentanalysis-block-dialog-body-clipboard = Conforme a política de proteção
 contentanalysis-block-dialog-title-dropped-text = Você não tem permissão para arrastar e soltar este conteúdo
 contentanalysis-block-dialog-body-dropped-text = Conforme a política de proteção de dados da sua organização, você não tem permissão para arrastar e soltar este conteúdo. Entre em contato com um administrador para obter mais informações.
 contentanalysis-block-dialog-title-print = Você não tem permissão para imprimir este documento
+contentanalysis-block-dialog-body-print = Conforme a política de proteção de dados da sua organização, você não tem permissão para imprimir este documento. Entre em contato com um administrador para obter mais informações.
 contentanalysis-inprogress-quit-title = Sair do { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Várias ações estão em andamento. Se você sair do { -brand-shorter-name }, essas ações não serão concluídas.
 contentanalysis-inprogress-quit-yesbutton = Sim, sair
