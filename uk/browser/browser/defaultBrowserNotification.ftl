@@ -21,3 +21,11 @@ default-browser-prompt-message-alt = Отримайте швидкість, бе
 default-browser-prompt-button-primary-alt = Встановити типовим браузером
 default-browser-prompt-checkbox-not-again-label = Більше не показувати це повідомлення
 default-browser-prompt-button-secondary = Не зараз
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Завершіть налаштування { -brand-short-name } типовим браузером
+default-browser-guidance-notification-info-page = Показати мені
+default-browser-guidance-notification-dismiss = Готово

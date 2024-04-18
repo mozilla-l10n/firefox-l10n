@@ -275,3 +275,24 @@ newtab-custom-recent-toggle =
     .description = Добірка недавніх сайтів та вмісту
 newtab-custom-close-button = Закрити
 newtab-custom-settings = Керувати іншими налаштуваннями
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Шпалери
+newtab-wallpaper-reset = Відновити типові
+newtab-wallpaper-light-red-panda = Червона панда
+newtab-wallpaper-light-mountain = Біла гора
+newtab-wallpaper-light-sky = Небо з фіолетовими та рожевими хмарами
+newtab-wallpaper-light-color = Сині, рожеві та жовті фігури
+newtab-wallpaper-light-landscape = Гірський пейзаж із блакитним туманом
+newtab-wallpaper-light-beach = Пляж з пальмою
+newtab-wallpaper-dark-aurora = Північне сяйво
+newtab-wallpaper-dark-color = Червоні та сині фігури
+newtab-wallpaper-dark-panda = Червона панда, що ховається в лісі
+newtab-wallpaper-dark-sky = Міський пейзаж з нічним небом
+newtab-wallpaper-dark-mountain = Гірський краєвид
+newtab-wallpaper-dark-city = Фіолетовий міський пейзаж
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Фото від <a data-l10n-name="name-link">{ $author_string }</a> з <a data-l10n-name="webpage-link">{ $webpage_string }</a>
