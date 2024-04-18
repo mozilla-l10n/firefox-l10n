@@ -281,3 +281,14 @@ newtab-custom-recent-toggle =
     .description = Výběr z nedávných stránek a obsahu
 newtab-custom-close-button = Zavřít
 newtab-custom-settings = Další nastavení
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Tapety
+newtab-wallpaper-reset = Obnovit výchozí nastavení
+newtab-wallpaper-light-red-panda = Panda červená
+newtab-wallpaper-light-mountain = Bílá hora
+newtab-wallpaper-light-sky = Obloha s fialovými a růžovými mraky
+newtab-wallpaper-light-color = Modré, růžové a žluté tvary
+newtab-wallpaper-light-landscape = Horská krajina s modrou mlhou
+newtab-wallpaper-light-beach = Pláž s palmou
