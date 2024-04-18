@@ -70,6 +70,16 @@ login-list-count2 =
         [few] { $count } faclan-faire
        *[other] { $count } facal-faire
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } à { $total } fhacal-faire
+        [two] { $count } à { $total } fhacal-faire
+        [few] { $count } à { $total } faclan-faire
+       *[other] { $count } à { $total } facal-faire
+    }
 login-list-sort-label-text = Seòrsaich a-rèir:
 login-list-name-option = Ainm (A-Z)
 login-list-name-reverse-option = Ainm (Z-A)
