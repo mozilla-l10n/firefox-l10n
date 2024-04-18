@@ -291,3 +291,7 @@ newtab-wallpaper-dark-panda = جَھر وِچ لُکّیا ہوئیا رَتّا
 newtab-wallpaper-dark-sky = رات دے اَسمان دے نال شہر دا منظر
 newtab-wallpaper-dark-mountain = پہاڑ دا منظر
 newtab-wallpaper-dark-city = ڄَمُّوں رنگ دے شہر د امنظر
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = <a data-l10n-name="webpage-link"> { $webpage_string } تے <a data-l10n-name="name-link"> { $author_string } </a> ولوں فوٹو
