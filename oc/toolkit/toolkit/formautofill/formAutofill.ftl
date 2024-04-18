@@ -11,6 +11,7 @@ autofill-options-link-osx = Preferéncias d’emplenatge automatic dels formular
 
 ## The credit card capture doorhanger
 
+credit-card-save-doorhanger-description = { -brand-short-name } chifra vòstre numèro de carta. Vòstre còdi de seguretat serà pas salvat.
 credit-card-capture-save-button =
     .label = Salvar
     .accessKey = S
