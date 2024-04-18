@@ -10,3 +10,5 @@ playmaker-colorway-description = Դուք հնարավորություններ �
 expressionist-colorway-name = Էքսպրեսիոնիստ
 visionary-colorway-name = Տեսլական
 activist-colorway-name = Ակտիվությունը
+dreamer-colorway-name = Երազող
+innovator-colorway-name = Նորարար

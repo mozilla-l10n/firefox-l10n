@@ -64,9 +64,16 @@ places-bookmarks-search =
 places-delete-domain-data =
     .label = Մոռանալ Այս Կայքի Մասին
     .accesskey = F
+places-forget-domain-data =
+    .label = Մոռանալ այս կայքի մասին…
+    .accesskey = Մ
 places-sortby-name =
     .label = Խմբավորել ըստ անունների
     .accesskey = r
+# places-edit-bookmark and places-edit-generic will show one or the other and can have the same access key.
+places-edit-bookmark =
+    .label = Խմբագրել էջանիշը…
+    .accesskey = Խ
 places-edit-generic =
     .label = Խմբագրել...
     .accesskey = E
@@ -92,7 +99,7 @@ places-delete-page =
            *[other] Ջնջել էջերը
         }
     .accesskey = D
-# Managed bookmarks are created by an administrator and cannot be changed by the user.
+# Managed bookmarks are created by enterprise policy and cannot be changed by the user.
 managed-bookmarks =
     .label = Կառավարել էջանիշները
 # This label is used when a managed bookmarks folder doesn't have a name.
@@ -104,12 +111,37 @@ other-bookmarks-folder =
 places-show-in-folder =
     .label = Ցուցադրել պանակում
     .accesskey = F
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Ջնջել էջանիշը
+            [one] Ջնջել էջանիշը
+           *[other] Ջնջել էջանիշերը
+        }
+    .accesskey = Ջ
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] Էջանշել…
+            [one] Էջանշել…
+           *[other] Էջանշել…
+        }
+    .accesskey = Է
 places-untag-bookmark =
     .label = Հեռացնել պիտակը
     .accesskey = R
 places-manage-bookmarks =
     .label = Կառավարել էջանիշները
     .accesskey = M
+places-forget-about-this-site-confirmation-title = Մոռանալով այս կայքի մասին
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = Այս գործողությունը կհեռացնի { $hostOrBaseDomain }-ի հետ կապված տվյալները, ներառյալ պատմությունը, թխուկները, շտեմը և բովանդակության նախընտրանքները: Առնչվող էջանիշներն ու գաղտնաբառերը չեն հեռացվի: Վստա՞հ եք, որ ցանկանում եք շարունակել:
+places-forget-about-this-site-forget = Մոռանալ
 places-library3 =
     .title = Շտեմարան
 places-organize-button =

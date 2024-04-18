@@ -52,6 +52,7 @@ mr1-onboarding-import-primary-button-label-attribution = Ներմուծել { $p
 mr1-onboarding-theme-header = Դարձրեք այն ձերը
 mr1-onboarding-theme-subtitle = Անհատականացրեք { -brand-short-name }-ը ոճով:
 mr1-onboarding-theme-secondary-button-label = Ոչ հիմա
+newtab-wallpaper-onboarding-primary-button-label = Կայել պաստառ
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Համակարգային
 mr1-onboarding-theme-label-light = Լուսավոր
@@ -253,6 +254,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-gratitude-title = Դուք օգնում եք մեզ կառուցել ավելի լավ համացանց
 mr2022-onboarding-gratitude-subtitle = Շնորհակալություն { -brand-short-name }-ը օգտագործելու համար, Mozilla Foundation-ի կողմից: Ձեր աջակցությամբ մենք աշխատում ենք համացանցը դարձնել ավելի բաց, մատչելի և լավ բոլորի համար:
+mr2022-onboarding-gratitude-primary-button-label = Տեսեք, թե ինչն է նոր
 mr2022-onboarding-gratitude-secondary-button-label = Սկսեք զննարկել
 
 ## Onboarding spotlight for infrequent users
@@ -266,13 +268,27 @@ onboarding-infrequent-import-primary-button = Ներմուծել { -brand-short-
 ## Device migration onboarding
 
 onboarding-device-migration-title = Բարի վերադարձ
+onboarding-device-migration-primary-button-label = Մուտք գործել
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name }-ը Ձեր ողնաշարն է
 
 ## New user time and familiarity survey strings
 
+onboarding-new-user-time-based-survey-title = Որքա՞ն ժամանակ եք օգտագործում { -brand-short-name }-ը:
+onboarding-new-user-familiarity-based-survey-title = Որքանո՞վ եք ծանոթ { -brand-short-name }-ին:
+onboarding-new-user-survey-subtitle = Ձեր արձգանքն օգնում է ավելի լավը դարձնել { -brand-short-name }-ը:
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Հաջորդը
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Բոլորովին նոր եմ
 onboarding-new-user-survey-time-based-option-2 = 1 ամսից պակաս
+onboarding-new-user-survey-time-based-option-3 = 1 ամսից ավելի՝ պարբերաբար
+onboarding-new-user-survey-time-based-option-4 = 1 ամսից ավելի՝ երբեմն
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-familiarity-based-option-1 = Ես բոլորովին նոր եմ
+onboarding-new-user-survey-familiarity-based-option-2 = Օգտագործել եմ մի քանի անգամ
 onboarding-new-user-survey-familiarity-based-option-3 = Ես շատ ծանոթ եմ դրան
+onboarding-new-user-survey-familiarity-based-option-4 = Օգտագործել եմ նախկինում, բայց երկար ժամանակ է անցել

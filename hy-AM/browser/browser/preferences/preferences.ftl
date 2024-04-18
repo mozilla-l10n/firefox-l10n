@@ -30,6 +30,8 @@ search-input-box2 =
 managed-notice = Ձեր զննիչը կառավարում է ձեր կազմակերպութունը։
 managed-notice-info-icon =
     .alt = Տեղեկություն
+category-list =
+    .aria-label = Անվանակարգեր
 pane-general-title = Ընդհանուր
 category-general =
     .tooltiptext = { pane-general-title }
@@ -43,6 +45,8 @@ pane-privacy-title = Գաղտնիություն և անվտանգություն
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title3 = Համաժամեցում
+category-sync3 =
+    .tooltiptext = { pane-sync-title3 }
 pane-experimental-title = { -brand-short-name } Փորձեր
 category-experimental =
     .tooltiptext = { -brand-short-name } Փորձեր
@@ -128,6 +132,14 @@ open-new-link-as-tabs =
 confirm-on-close-multiple-tabs =
     .label = Զգուշացնել բազմակի ներդիրները փակելիս
     .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+confirm-on-quit-with-key =
+    .label = Հաստատել նախքան { $quitKey }-ով լքելը
+    .accesskey = ն
 warn-on-open-many-tabs =
     .label = Զգուշացնել բազմակի ներդիրներ բացելիս, ինչը կարող է դանդաղեցնել { -brand-short-name }-ը:
     .accesskey = դ
@@ -259,7 +271,7 @@ download-choose-folder =
         }
 download-always-ask-where =
     .label = Միշտ հարցնել ֆայլերը պահպանելու տեղը
-    .accesskey = Մ
+    .accesskey = A
 applications-header = Ծրագրեր
 applications-description = Ընտրեք, թե ինչպես { -brand-short-name }-ը վարվի ձեր ներբեռնած ֆայլերի կամ դիտարկումների ժամանակ ձեր կողմից օգտագործվող հավելվածների հետ:
 applications-filter =
@@ -645,6 +657,9 @@ sync-signedin-login-failure = Նախ մուտք գործեք { $email }
 sync-resend-verification =
     .label = Կրկին ուղարկել հաստատումը
     .accesskey = d
+sync-verify-account =
+    .label = Հաստատել հաշիվը
+    .accesskey = Հ
 sync-remove-account =
     .label = Ջնջել հաշիվը
     .accesskey = R
@@ -721,6 +736,10 @@ sync-engine-creditcards =
     .label = Բանկային քարտեր
     .tooltiptext = Անուններ, համարներ և սպառման ամսաթվեր (միայն դեսքթոփում)
     .accesskey = C
+sync-engine-payment-methods2 =
+    .label = Վճարամիջոցներ
+    .tooltiptext = Անունները, քարտի համարները և ավարման տարեթվերը
+    .accesskey = n
 sync-engine-addons =
     .label = Հավելումներ
     .tooltiptext = Ընդլայնումներ և ոճեր Firefox-ի համար
@@ -796,6 +815,7 @@ preferences-relay-integration-checkbox =
 preferences-relay-integration-checkbox2 =
     .label = Առաջարկել { -relay-brand-name }-ին էլ. փոստի դիմակներ՝ Ձեր էլ. հասցեն պաշտպանելու համար
     .accesskey = r
+relay-integration-learn-more-link = Իմանալ ավելին
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Մուտքանունների և գաղտնաբառերի ինքնալցում
@@ -843,8 +863,16 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Ինքնալրացում
+autofill-addresses-checkbox = Պահպանել և լրացնել հասցեները
+    .accesskey = a
 autofill-saved-addresses-button = Պահված հասցեներ
     .accesskey = Պ
+autofill-payment-methods-checkbox-message = Պահպանել և լրացնել վճարամիջոցները
+    .accesskey = m
+autofill-payment-methods-checkbox-submessage = Ներառում է կրեդիտ և դեբետային քարտերը
+    .accesskey = Ն
+autofill-saved-payment-methods-button = Պահված վճարամիջոցներ
+    .accesskey = v
 
 ## Privacy Section - History
 
@@ -933,6 +961,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-learn-more = Իմանալ ավելին
 
 ## Privacy Section - Address Bar
 
@@ -944,6 +973,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Էջանիշեր
     .accesskey = ի
+addressbar-locbar-clipboard-option =
+    .label = Սեղմատախտակ
+    .accesskey = Ս
 addressbar-locbar-openpage-option =
     .label = Բացել ներդիրները
     .accesskey = Բ
@@ -957,7 +989,14 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = Որոնիչներ
     .accesskey = a
+addressbar-locbar-quickactions-option =
+    .label = Արագ գործողություններ
+    .accesskey = Ա
 addressbar-suggestions-settings = Փոխել որոնիչների նախապատվությունները
+addressbar-locbar-showrecentsearches-option =
+    .label = Ցուցադրել վերջին որոնումները
+    .accesskey = վ
+addressbar-quickactions-learn-more = Իմանալ ավելին
 
 ## Privacy Section - Content Blocking
 
@@ -1002,6 +1041,7 @@ content-blocking-fingerprinters = Մատնահետքեր
 
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Թխուկների ամբողջական պաշտպանությունը պարունակում է այն կայքի թխուկները, որում դուք գտնվում եք, որպեսզի հեռագծիչները չկարողանան օգտագործել դրանք՝ կայքերի միջև ձեզ հետևելու համար:
+content-blocking-etp-standard-tcp-rollout-learn-more = Իմանալ ավելին
 content-blocking-etp-standard-tcp-title = Ներառում է Թխուկների ամբողջական պաշտպանությունը, գաղտնիության մեր ամենահզոր յուրահատկությունը
 content-blocking-warning-title = Ուշադրություն։
 content-blocking-warning-learn-how = Իմանալ ինչպես
@@ -1059,6 +1099,11 @@ permissions-microphone = Խոսափող
 permissions-microphone-settings =
     .label = Կարգավորումներ...
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = Բարձրախոսի ընտրություն
+permissions-speaker-settings =
+    .label = Կարգավորումներ...
+    .accesskey = t
 permissions-notification = Ծանուցումներ
 permissions-notification-settings =
     .label = Կարգավորումներ...
@@ -1074,6 +1119,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = Կանխել Pop-up պատուհանները
     .accesskey = Կ
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = Բացառություններ…
+    .accesskey = Բ
+    .searchkeywords = ելահուշ
 permissions-addon-install-warning =
     .label = Զգուշացնել, երբ կայքերը փորձում են տեղադրել հավելումներ
     .accesskey = W
@@ -1084,6 +1135,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name }-ի տվյալների հավաքում և օգտագործում
+collection-header2 = { -brand-short-name }-ի տվյալների հավաքում և օգտագործում
+    .searchkeywords = հեռաչափություն
 collection-description = Մենք փորձում ենք տրամադրել ձեզ ընտրություն և հավաքել միայն այն ժամանակ, երբ մեզ պետք է տրամադրել և լավարկել { -brand-short-name }-ը բոլորի համար: ՄԵնք միշտ հարցնում ենք թույլտվությյուն՝ մինչև անձնական տեղեկություններ ստանալը:
 collection-privacy-notice = Գաղտնիության ծանուցում
 collection-health-report-telemetry-disabled = Դուք այլևս թույլ չեք տալիս՝{ -vendor-short-name }֊ին գրավել տեխնիկական և միջազգային միջնորդության տվյալները։ Անցյալ բոլոր տվյալները կջնջվեն 30 օրվա ընթացքում։
@@ -1105,6 +1158,8 @@ collection-backlogged-crash-reports-with-link = Թույլատրել { -brand-sh
     .accesskey = c
 collection-backlogged-crash-reports = Թույլատրել { -brand-short-name }-ին ուղարկել հետաձգված վթարի զեկույցներ առանց ձեր գիտության
     .accesskey = c
+privacy-segmentation-radio-on =
+    .label = Ցուցադրել մանրամասն տեղեկություն
 
 ## Privacy Section - Security
 ##
@@ -1136,6 +1191,9 @@ certs-view =
 certs-devices =
     .label = Անվտանգության սարքեր...
     .accesskey = D
+space-alert-over-5gb-settings-button =
+    .label = Բացել կարգավորումները
+    .accesskey = Բ
 
 ## Privacy Section - HTTPS-Only
 
@@ -1153,15 +1211,26 @@ httpsonly-radio-disabled =
 
 preferences-doh-header = DNS՝ HTTPS-ի միջոցով
 preferences-doh-description = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջոցով ուղարկում է ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապակցմամբ՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժավացնելով տեսնել այն կայքը, որը դուք ցանկանում եք բացել:
+preferences-doh-description2 = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջով ուղարկում է Ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապով՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժարացնելով տեսնել այն կայքը, որին հասանելիություն ունենալու շեմին եք:
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Վիճակը՝ { $status }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = Մատակարար՝ { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = Անվավեր URL
+preferences-doh-steering-status = Օգտվելով տեղական մատակարարից
 preferences-doh-status-active = Ակտիվ
 preferences-doh-status-disabled = Անջ.
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Չի գործում ({ $reason })
 preferences-doh-group-message = Միացնել անվտանգ DNS-ն օգտագործելով՝
+preferences-doh-group-message2 = Միացնել DNS-ը HTTPS-ի միջովը, օգտագործելով՝
+preferences-doh-expand-section =
+    .tooltiptext = Լրացուցիչ տեղեկություններ
 preferences-doh-setting-default =
     .label = Սկզբնադիր պաշտպանություն
     .accesskey = D
@@ -1182,6 +1251,8 @@ preferences-doh-setting-strict =
     .accesskey = M
 preferences-doh-strict-desc = { -brand-short-name }-ը միշտ կօգտագործի անվտանգ DNS: Դուք կտեսնեք անվտանգության վտանգի զգուշացում մինչև մենք կօգտագործենք ձեր համակարգային DNS-ը:
 preferences-doh-strict-detailed-desc-1 = Օգտագործել միայն ձեր ընտրած մատակարարին
+preferences-doh-strict-detailed-desc-2 = Միշտ զգուշացնել, եթե ապահով DNS հասանելի չէ
+preferences-doh-strict-detailed-desc-3 = Եթե ապահով DNS հասանելի չէ, կայքերը չեն բեռնվի կամ ճիշտ չեն գործի
 preferences-doh-setting-off =
     .label = Անջատել
     .accesskey = Ա

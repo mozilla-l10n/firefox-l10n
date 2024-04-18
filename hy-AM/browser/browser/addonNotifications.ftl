@@ -38,7 +38,8 @@ xpinstall-prompt-install =
 ##
 
 xpinstall-disabled-locked = Ծրագրերի տեղակայումը պասիվացվել է ձեր համակարգի վարիչի կողմից։
-xpinstall-disabled = Ծրագրերի տեղակայումը ժամանակավորապես պասիվացված է: Սեղմեք Ակտիվացնել և կրկին փորձեք:
+xpinstall-disabled-by-policy = Ծրագրային ապահովման տեղադրումն անջատված է Ձեր կազմակերպության կողմից:
+xpinstall-disabled = Ծրագրերի տեղադրումը ժամանակավորապես պասիվացված է: Սեղմեք Ակտիվացնել և կրկին փորձեք:
 xpinstall-disabled-button =
     .label = Միացնել
     .accesskey = n

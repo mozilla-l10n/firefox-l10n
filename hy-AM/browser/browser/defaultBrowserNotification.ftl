@@ -17,3 +17,20 @@ default-browser-prompt-message-alt = Ստացեք արագություն, անվ
 default-browser-prompt-button-primary-alt = Կայել որպես սկզբնադիր դիտարկիչ
 default-browser-prompt-checkbox-not-again-label = Այլևս չցուցադրել այս հաղորդագրությունը
 default-browser-prompt-button-secondary = Ոչ հիմա
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Ավարտեք { -brand-short-name }-ին Ձեր սկզբնադիր դարձնելը
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Քայլ 1. Գնացեք Կարգավորումներ > Սկզբնադիր  հավելվածներ
+    Քայլ 2. Ոլորեք ներքև, դեպի «Վեբ դիտարկիչ»
+    Քայլ 3. Ընտրեք և նշեք { -brand-short-name }-ը
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Քայլ 1. Գնացեք Կարգավորումներ > Սկզբնադիր հավելվածներ
+    Քայլ 2. Ընտրեք «Կայել սկզբնադիր»՝ { -brand-short-name }-ի համար
+default-browser-guidance-notification-info-page = Ցուցադրել ինձ
+default-browser-guidance-notification-dismiss = Պատրաստ է

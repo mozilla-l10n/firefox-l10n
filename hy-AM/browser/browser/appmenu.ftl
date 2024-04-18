@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Ցուցադրել ավելի շատ ներդիրներ
     .tooltiptext = Ցուցադրել ավելի շատ ներդիրներ այս սարքի համար
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Ցուցադրել մեկ ոչ ակտիվ ներդիր
+           *[other] Ցուցադրել { $count } ոչ ակտիվ ներդիրներ
+        }
+    .tooltiptext = Ցուցադրել ոչ ակտիվ ներդիրներն այս սարքում
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Չկան բաց ներդիրներ
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -228,6 +238,9 @@ appmenu-help-switch-device =
 
 appmenu-help-enter-troubleshoot-mode2 =
     .label = Խափանաշտկման կերպ…
+    .accesskey = M
+appmenu-help-exit-troubleshoot-mode =
+    .label = Անջատել խափանաշտկումը
     .accesskey = M
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive

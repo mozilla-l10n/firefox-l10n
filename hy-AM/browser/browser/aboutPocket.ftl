@@ -15,6 +15,7 @@ pocket-panel-saved-error-generic = Սխալ՝ { -pocket-brand-name }-ում պա
 pocket-panel-saved-error-tag-length = Պիտակը սահմանափակված է 25 գրանշանով
 pocket-panel-saved-error-only-links = Միայն հղումները կարող են պահվել
 pocket-panel-saved-error-not-saved = Էջը չի պահպանվել
+pocket-panel-saved-error-no-internet = { -pocket-brand-name }-ում պահպանելու համար պետք է միացած լինեք համացանցին: Խնդրում ենք ստուգել կապը համացանցին և կրկին փորձել:
 pocket-panel-saved-error-remove = Այս էջը հեռացնելու ընթացքում սխալ տեղի ունեցավ։
 pocket-panel-saved-page-removed = Էջը հեռացված է
 pocket-panel-saved-page-saved = Պահպանված է { -pocket-brand-name }-ում

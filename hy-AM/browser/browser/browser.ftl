@@ -452,13 +452,13 @@ browser-import-button2 =
 ## WebRTC Pop-up notifications
 
 popup-select-camera-device =
-    .value = Խցիկ.
-    .accesskey = C
+    .value = Տեսախցիկ՝
+    .accesskey = Տ
 popup-select-camera-icon =
-    .tooltiptext = Խցիկ
+    .tooltiptext = Տեսախցիկ
 popup-select-microphone-device =
-    .value = Խոսափող.
-    .accesskey = M
+    .value = Խոսափող՝
+    .accesskey = Խ
 popup-select-microphone-icon =
     .tooltiptext = Խոսափող
 popup-select-speaker-icon =
@@ -561,6 +561,11 @@ urlbar-result-action-search-w-engine = Որոնել { $engine }-ով
 urlbar-result-action-sponsored = Հովանավորված
 urlbar-result-action-switch-tab = Փոխանջատել ներդիրը
 urlbar-result-action-visit = Այցելել
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Փոխարկել ներդիրին · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Այցելություն սեղմնատախտակից
 # Directs a user to press the Tab key to perform a search with the specified
@@ -884,6 +889,7 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Գաղտնի դիտարկում
+content-analysis-panel-title = Տվյալների պաշտպանություն
 
 ## Unified extensions (toolbar) button
 
@@ -923,6 +929,7 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button =
     .label = Ջնջել աշխատաշրջանի տվյալները
     .accesskey = D
+reset-pbm-panel-complete = Գաղտնի աշխատաշրջանի տվյալները ջնջվեցին
 
 ## Autorefresh blocker
 

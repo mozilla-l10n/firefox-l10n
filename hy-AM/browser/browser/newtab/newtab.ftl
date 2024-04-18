@@ -242,7 +242,16 @@ newtab-custom-shortcuts-subtitle = Կայքեր, որոնք պահել կամ ա
 newtab-custom-shortcuts-toggle =
     .label = Դյուրանցումներ
     .description = Կայքեր, որոնք պահել կամ այցելել եք
+# Variables
+#   $num (number) - Number of rows to display
+newtab-custom-row-selector =
+    { $num ->
+        [one] { $num } տող
+       *[other] { $num } տող
+    }
 newtab-custom-sponsored-sites = Հովանավորված դյուրանցումներ
+newtab-custom-pocket-title = Խորհուրդ է տրվում { -pocket-brand-name }-ի կողմից
+newtab-custom-pocket-show-recent-saves = Ցուցադրել վերջին պահումները
 newtab-custom-recent-title = Վերջին ակտիվություն
 newtab-custom-recent-subtitle = Վերջին կայքերի և բովանդակության ընտրում
 newtab-custom-recent-toggle =
@@ -250,3 +259,8 @@ newtab-custom-recent-toggle =
     .description = Վերջին կայքերի և բովանդակության ընտրում
 newtab-custom-close-button = Փակել
 newtab-custom-settings = Կառավարել լրացուցիչ կարգավորումները
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Պաստառներ
+newtab-wallpaper-reset = Վերակայել սկզբնադիրը

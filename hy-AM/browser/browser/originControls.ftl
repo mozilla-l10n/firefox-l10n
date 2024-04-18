@@ -8,11 +8,17 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-quarantined-allow =
+    .label = Թույլատրել սահմանափակված կայքերում
+origin-controls-option-all-domains =
+    .label = Բոլոր կայքերում
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
 
+origin-controls-state-hover-run-visit-only = Աշխատեցնել միայն այս այցելության համար
 origin-controls-state-runnable-hover-open = Բացեք ընդլայնումը
+origin-controls-state-runnable-hover-run = Աշխատեցնել ընդլայնումը
 
 ## Extension's toolbar button.
 ## Variables:

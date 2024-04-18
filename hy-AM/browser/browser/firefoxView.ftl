@@ -29,6 +29,7 @@ firefoxview-tabpickup-description = Բացեք էջերը այլ սարքերի�
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
 firefoxview-tabpickup-progress-label = { $percentValue }% ավարտված է
+firefoxview-tabpickup-step-signin-header = Անխափան փոխարկեք սարքերի միջև
 firefoxview-tabpickup-step-signin-primarybutton = Շարունակել
 firefoxview-syncedtabs-signin-header = Վերցրեք ներդիրները ցանկացած վայրից
 firefoxview-syncedtabs-signin-primarybutton = Մուտք գործեք կամ գրանցվեք
@@ -44,7 +45,11 @@ firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդ
 firefoxview-syncedtabs-synctabs-header = Թարմացրեք ձեր համաժամացման կարգավորումները
 firefoxview-syncedtabs-synctabs-checkbox = Թույլատրել բաց ներդիրներին համաժամեցնել
 firefoxview-syncedtabs-loading-header = Համաժամացում
+firefoxview-tabpickup-fxa-admin-disabled-header = Ձեր կազմակերպությունն անջատել է համաժամացումը
+firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }-ը չի կարողանում համաժամացնել ներդիրները սարքերի միջև, քանզի Ձեր ադմինիստրատորն անջատել է համաժամացումը:
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name }-ը չի կարողանում համաժամացնել ներդիրները սարքերի միջև, քանզի Ձեր կազմակերպությունն անջատել է համաժամացումը:
 firefoxview-tabpickup-network-offline-header = Ստուգեք կապակցումը համացանցին
+firefoxview-tabpickup-network-offline-description = Եթե դուք օգտվում եք հրապատից կամ փոխանորդից, ստուգեք, թե արդյոք { -brand-short-name }-ն ունի համացանցին հասանելիության թույլտվություն:
 firefoxview-tabpickup-network-offline-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-sync-error-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-sync-disconnected-header = Շարունակելու համար միացրեք համաժամացումը
@@ -112,6 +117,8 @@ firefoxview-recently-closed-header = Վերջերս փակված ներդիրն�
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Ներդիրներն այլ սարքերից
+    .title = Ներդիրներն այլ սարքերից
 firefoxview-synced-tabs-header = Ներդիրներ այլ սարքերից
 
 ##
@@ -122,6 +129,10 @@ firefoxview-view-all-link = Դիտել բոլորը
 #   $winID (Number) - The index of the owner window for this set of tabs
 firefoxview-opentabs-window-header =
     .title = Պատուհան { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Պատուհան՝ { $winID } (ընթացիկ)
 firefoxview-opentabs-focus-tab =
     .title = Փոխարկել այս ներդիրին
 firefoxview-show-more = Ցուցադրել ավելին
@@ -155,8 +166,14 @@ firefoxview-search-results-count =
         [one] { $count } կայք
        *[other] { $count } կայք
     }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = «{ $query }»-ի համար արդյունքներ չկան
 firefoxview-sort-history-by-date-label = Տեսակավորել ըստ՝ ամսաթվի
 firefoxview-sort-history-by-site-label = Տեսակավորել ըստ՝ կայքի
+firefoxview-sort-open-tabs-by-recency-label = Տեսակավորել ըստ՝ վերջին գործողության
+firefoxview-sort-open-tabs-by-order-label = Տեսակավորել ըստ` ներդիրի հերթականության
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =

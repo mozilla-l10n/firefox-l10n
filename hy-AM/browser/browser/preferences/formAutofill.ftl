@@ -17,9 +17,18 @@ autofill-manage-edit-button = Խմբագրել…
 
 ## The address capture doorhanger
 
+address-capture-save-button =
+    .label = Պահպանել
+    .accessKey = Պ
+address-capture-not-now-button =
+    .label = Ոչ հիմա
+    .accessKey = Ո
 address-capture-cancel-button =
     .label = Չեղարկել
     .accessKey = C
+address-capture-update-button =
+    .label = Թարմացնել
+    .accessKey = Թ
 address-capture-manage-address-button =
     .label = Հասցեի կարգավորումներ
 address-capture-learn-more-button =
@@ -115,6 +124,11 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name }-ը փորձում է ցուցադրել վարկային քարտի տեղեկություն։ Հաստատեք ստորև այս պատուհանների էջի մատչումը։
        *[other] { -brand-short-name }-ը փորձում է ցցուցադրել բանկային քարտի տեղեկությունը։
     }
+autofill-message-tooltip = Տեսնել ինքնալրացման մասին հաղորդագրությունը
+# The dialog title for creating credit cards in browser preferences.
+autofill-add-card-title = Ավելացնել քարտ
+# The dialog title for editing credit cards in browser preferences.
+autofill-edit-card-title2 = Խմբագրել քարտը
 autofill-card-number = Քատի համարը
 autofill-card-invalid-number = Մուտքագրեք ճիշտ քարտի համար
 autofill-card-name-on-card = Անունը քարտի վրա
