@@ -911,6 +911,7 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Huliðsvafur
+content-analysis-panel-title = Gagnavarnir
 
 ## Unified extensions (toolbar) button
 

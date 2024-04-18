@@ -274,3 +274,24 @@ newtab-custom-recent-toggle =
     .description = Úrval af nýlegum síðum og efni
 newtab-custom-close-button = Loka
 newtab-custom-settings = Sýsla með fleiri stillingar
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Bakgrunnar
+newtab-wallpaper-reset = Endurstilla á sjálfgefið
+newtab-wallpaper-light-red-panda = Rauð panda
+newtab-wallpaper-light-mountain = Hvítt fjall
+newtab-wallpaper-light-sky = Himinn með fjólubláum og bleikum skýjum
+newtab-wallpaper-light-color = Blá, bleik og gul form
+newtab-wallpaper-light-landscape = Fjallalandslag í bláu mistri
+newtab-wallpaper-light-beach = Strönd með pálmatré
+newtab-wallpaper-dark-aurora = Norðurljós
+newtab-wallpaper-dark-color = Rauð og blá form
+newtab-wallpaper-dark-panda = Rauð panda falin í skógi
+newtab-wallpaper-dark-sky = Borgarlandslag með næturhimni
+newtab-wallpaper-dark-mountain = Fjöllótt landslag
+newtab-wallpaper-dark-city = Fjólublátt borgarlandslag
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Ljósmynd eftir <a data-l10n-name="name-link">{ $author_string }</a> á <a data-l10n-name="webpage-link">{ $webpage_string }</a>

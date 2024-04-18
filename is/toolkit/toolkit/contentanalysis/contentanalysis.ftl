@@ -6,10 +6,6 @@ contentanalysis-alert-title = Greining efnis
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Efnisgreiningarverkfærið tekur langan tíma að svara vegna tilfangsins „{ $content }“
-contentanalysis-slow-agent-dialog-title = Greining efnis í gangi
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Greining efnis er að skoða tilfangið „{ $content }“
 contentanalysis-slow-agent-dialog-header = Skönnun í gangi
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -22,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } er að yfirfara þ
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } er að yfirfara textann sem þú slepptir saman við gagnastefnur stofnunarinnar þinnar. Þetta gæti tekið dálitla stund.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } er að yfirfara það sem þú skrifaðir saman við gagnastefnur stofnunarinnar þinnar. Þetta gæti tekið dálitla stund.
 contentanalysis-operationtype-clipboard = klippispjald
 contentanalysis-operationtype-dropped-text = slepptur texti
+contentanalysis-operationtype-print = skrifa
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = innsending á „{ $filename }“
 contentanalysis-warndialogtitle = Þetta efni gæti verið óöruggt
