@@ -53,6 +53,8 @@ mr1-onboarding-import-primary-button-label-attribution = Flytja inn úr { $previ
 mr1-onboarding-theme-header = Gerðu það að þínu eigin
 mr1-onboarding-theme-subtitle = Sérsníddu { -brand-short-name } með þema.
 mr1-onboarding-theme-secondary-button-label = Ekki núna
+newtab-wallpaper-onboarding-title = Prófaðu skvettu af lit
+newtab-wallpaper-onboarding-primary-button-label = Stilla bakgrunn
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Kerfisþema
 mr1-onboarding-theme-label-light = Ljóst
