@@ -26,6 +26,8 @@ protocolhandler-mailto-handler-confirm-message =
         [with-cases] <strong>{ $url } ve { -brand-short-name(case: "loc") }</strong> je nyní výchozím obslužným programem pro poštu ve vašem počítači.
        *[no-cases] <strong>{ $url } v aplikaci { -brand-short-name }</strong> je nyní výchozím obslužným programem pro poštu ve vašem počítači.
     }
+protocolhandler-mailto-handler-set = Použít <strong>{ -brand-short-name } na otevření { $url }</strong> pokaždé, když klepnete na odkaz, který otevře váš e-mail?
+protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } otevře { $url }</strong> při každém klepnutím na odkaz, který odesílá e-mail.
 
 ##
 

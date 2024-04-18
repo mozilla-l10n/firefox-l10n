@@ -45,3 +45,15 @@ default-browser-prompt-message-alt = Získejte rychlost, bezpečnost a soukromí
 default-browser-prompt-button-primary-alt = Nastavit jako výchozí prohlížeč
 default-browser-prompt-checkbox-not-again-label = Příště už nezobrazovat
 default-browser-prompt-button-secondary = Teď ne
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title =
+    { -brand-short-name.case-status ->
+        [with-cases] Dokončete nastavení { -brand-short-name(case: "gen") } jako výchozího prohlížeče
+       *[no-cases] Dokončete nastavení aplikace { -brand-short-name } jako výchozího prohlížeče
+    }
+default-browser-guidance-notification-info-page = Zobrazit
+default-browser-guidance-notification-dismiss = Hotovo
