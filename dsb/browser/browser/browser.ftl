@@ -920,6 +920,9 @@ data-reporting-notification-button =
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Priwatny modus
 content-analysis-panel-title = Šćit datow
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Waša organizacija { $agentName } wužywa, aby pśeśiwo zgubjenjeju datow šćitała. <a data-l10n-name="info">Dalšne informacije</a>
 
 ## Unified extensions (toolbar) button
 

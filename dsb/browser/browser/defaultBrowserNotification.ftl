@@ -26,5 +26,6 @@ default-browser-prompt-button-secondary = Nic něnto
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = Nastajenje { -brand-short-name } ako waš standard dokóńcyś
 default-browser-guidance-notification-info-page = Pokazaś
 default-browser-guidance-notification-dismiss = Dokóńcony
