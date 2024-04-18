@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Տեղադրման սխալ
 opensearch-error-duplicate-desc = { -brand-short-name }-ը չկարողացավ տեղադրել որոնման բաղադրիչը "{ $location-url }"-ից, քանի որ նույնանուն որոնման հանգույցը արդեն առկա է:
-
 opensearch-error-format-title = Անվավեր ձևաչափ
 opensearch-error-format-desc = { -brand-short-name }-ը չի կարող տեղադրել որոնիչ հետևյալից՝ { $location-url }
-
 opensearch-error-download-title = Բեռնման Սխալ
 opensearch-error-download-desc = { -brand-short-name }-ը չկարողացավ բեռնել որոնման բաղադրիչը { $location-url }-ից
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name }-ը չկարողացավ �
 
 searchbar-submit =
     .tooltiptext = Հաստատել որոնումը
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Որոնում
-
 searchbar-icon =
     .tooltiptext = Որոնում
 
@@ -34,4 +30,6 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+removed-search-engine-message = <strong>Ձեր սկզբնադիր որոնիչը փոխվել է:</strong> { $oldEngine }-ն այլևս չի հանդիսանում սկզբնադիր որոնիչ { -brand-short-name }-ում: { $newEngine }-ն այժմ Ձեր սկզբնադիր որոնիչն է: Որոնիչը մեկ այլով փոխելու համար՝ գնացեք կարգավորումներ: <label data-l10n-name="remove-search-engine-article">Իմանալ ավելին</label>
+removed-search-engine-message2 = <strong>Ձեր որոնիչը համակարգը փոխվել է:</strong> { $oldEngine }-ն այլևս չի հանդիսանում սկզբնադիր որոնիչ { -brand-short-name }-ում: { $newEngine }-ն այժմ Ձեր սկզբնադիր որոնիչն է: Որոնիչը մեկ այլով փոխելու համար՝ գնացեք կարգավորումներ:
 remove-search-engine-button = Լավ

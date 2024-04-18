@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-syncing2 = Համաժամեցում…
+sync-disconnect-dialog-title2 = Անջատե՞լ
 sync-disconnect-dialog-body = { -brand-product-name } կդադարի համաժամեցնել ձեր հաշիվը, բայց չի ջնջի այս սարքի ձեր զննարկման ցանկացած տվյալ։
 sync-disconnect-dialog-button = Կապախզել
 fxa-signout-dialog-title2 = Դուր՞ս գալ Ձեր հաշվից
@@ -31,3 +32,5 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Անմիջապես ուղարկեք ներդիր ցանկացած մուտք գործած սարքին։
 fxa-menu-sign-out =
     .label = Դուրս գալ…
+fxa-menu-sync-title = Համաժամեցնել
+fxa-menu-sync-description = Համացանցային հասանելիություն՝ ամեն վայրից

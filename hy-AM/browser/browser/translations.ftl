@@ -22,6 +22,11 @@
 
 ## Firefox Translations language management in about:preferences.
 
+translations-settings-title =
+    .title = Թարգմանության կարգավորումներ
+    .style = min-width: 36em
+translations-settings-languages-column =
+    .label = Լեզուներ
 translations-settings-remove-language-button =
     .label = Հեռացնել լեզուն
     .accesskey = Հ

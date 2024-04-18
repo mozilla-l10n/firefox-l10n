@@ -56,6 +56,8 @@ mobile-app-title = Արգելափակել գովազդի հետքերը ավել
 mobile-app-card-content = Օգտագործեք բջջային դիտարկիչը ներկառուցված պաշտպանությամբ `գովազդի հետևման դեմ:
 mobile-app-links = { -brand-product-name } դիտարկիչը <a data-l10n-name="android-mobile-inline-link">Android</a>-ի և <a data-l10n-name="ios-mobile-inline-link">iOS</a>-ի համար
 lockwise-title = Այլևս երբեք չմոռանալ գաղտնաբառը
+passwords-title-logged-in = Կառավարել Ձեր գաղտնաբառերը
+passwords-header-content = { -brand-product-name }-ն ապահով կերպով պահում է Ձեր գաղտնաբառերը դիտարկիչում:
 lockwise-header-content-logged-in = Ապահով պահեք և համաժամացրեք ձեր գաղտնաբառերը ձեր բոլոր սարքերում:
 protection-report-passwords-save-passwords-button = Պահել գաղտնաբառերը
     .title = Պահել գաղտնաբառերը

@@ -73,6 +73,15 @@ tabbrowser-confirm-close-tabs-checkbox = Զգուշացնել բազմակի ն�
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
+# The forms for 0 or 1 items are not considered since this string is used only for
+# multiple windows.
+# Variables:
+#   $windowCount (Number): The number of windows that will be closed.
+tabbrowser-confirm-close-windows-title =
+    { $windowCount ->
+        [one] Փակե՞լ { $windowCount } պատուհան
+       *[other] Փակե՞լ { $windowCount } պատուհան
+    }
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
         [windows] Փակեք և դուրս եկեք
@@ -126,6 +135,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Ապալռեցնել ներդիրները
     .accesskey = m
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Նվագարկում է ձայնանյութ
 
 ## Ctrl-Tab dialog
 
