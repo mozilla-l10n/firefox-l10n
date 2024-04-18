@@ -32,7 +32,13 @@ crashreporter-loading-details = Načítání…
 crashreporter-view-report-title = Obsah hlášení
 crashreporter-comment-prompt = Přidat komentář (komentáře jsou veřejně dostupné)
 crashreporter-report-info = Toto hlášení obsahuje také informace o stavu aplikace před pádem.
-crashreporter-send-report = Upozornit { -vendor-short-name(case: "acc") } ohledně tohoto pádu, aby jej mohl(a) opravit.
+crashreporter-send-report =
+    { -vendor-short-name.gender ->
+        [masculine] Upozornit { -vendor-short-name(case: "acc") } na tento pád, aby ho mohl opravit.
+        [feminine] Upozornit { -vendor-short-name(case: "acc") } na tento pád, aby ho mohla opravit.
+        [neuter] Upozornit { -vendor-short-name(case: "acc") } na tento pád, aby ho mohlo opravit.
+       *[other] Upozornit organizaci { -vendor-short-name } na tento pád, aby ho mohla opravit.
+    }
 crashreporter-include-url = Zahrnout i adresu stránky, kde došlo k pádu.
 crashreporter-submit-status = Vaše hlášení o pádu bude odesláno před ukončením či restartem aplikace
 crashreporter-submit-in-progress = Odesílání hlášení o pádu…

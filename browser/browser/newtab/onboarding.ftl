@@ -69,6 +69,9 @@ mr1-onboarding-theme-subtitle =
        *[no-cases] Přizpůsobte si vzhled aplikace { -brand-short-name }
     }
 mr1-onboarding-theme-secondary-button-label = Teď ne
+newtab-wallpaper-onboarding-title = Zkuste barevný nádech
+newtab-wallpaper-onboarding-subtitle = Vyberte si tapetu, která dodá každému novému panelu nový vzhled.
+newtab-wallpaper-onboarding-primary-button-label = Nastavit tapetu
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Podle systému
 mr1-onboarding-theme-label-light = Světlý
@@ -472,8 +475,8 @@ onboarding-device-migration-primary-button-label = Přihlásit se
 onboarding-easy-setup-security-and-privacy-title = Rádi vás udržujeme v bezpečí
 onboarding-easy-setup-security-and-privacy-subtitle = Náš neziskový prohlížeč pomáhá zabránit společnostem v tajném sledování vašeho prohlížení webu.
 # Mobile download screen
-onboarding-mobile-download-security-and-privacy-title = Při přecházení mezi zařízeními buďte šifrovaní
-onboarding-mobile-download-security-and-privacy-subtitle = Po synchronizaci { -brand-short-name } zašifruje vaše hesla, záložky a další data. Navíc si můžete otevřít panely z jiných zařízení.
+onboarding-mobile-download-security-and-privacy-title = Bezpečný přenos dat mezi zařízeními
+onboarding-mobile-download-security-and-privacy-subtitle = Při synchronizaci { -brand-short-name } vaše hesla, záložky a další data šifruje. Navíc si můžete otevřít panely z jiných zařízení.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } vám kryje záda
 onboarding-gratitude-security-and-privacy-subtitle =
