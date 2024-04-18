@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = Det gick inte att ansluta till { $a
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Misslyckad signaturverifiering för { $agent }. Överföring nekad för resurs: { $content }.
+contentanalysis-block-dialog-title-upload-file = Du har inte behörighet att ladda upp den här filen
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Enligt din organisations dataskyddspolicy har du inte tillåtelse att ladda upp filen "{ $filename }". Kontakta din administratör för mer information.
+contentanalysis-block-dialog-title-clipboard = Du har inte tillåtelse att klistra in det här innehållet
+contentanalysis-block-dialog-body-clipboard = Enligt din organisations dataskyddspolicy har du inte tillåtelse att klistra in detta innehåll. Kontakta din administratör för mer information.
+contentanalysis-block-dialog-title-dropped-text = Du har inte tillåtelse att släppa detta innehåll
+contentanalysis-block-dialog-body-dropped-text = Enligt din organisations dataskyddspolicy har du inte tillåtelse att dra och släppa detta innehåll. Kontakta din administratör för mer information.
+contentanalysis-block-dialog-title-print = Du har inte behörighet att skriva ut det här dokumentet
+contentanalysis-block-dialog-body-print = Enligt din organisations dataskyddspolicy har du inte behörighet att skriva ut det här dokumentet. Kontakta din administratör för mer information.
 contentanalysis-inprogress-quit-title = Avsluta { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Flera åtgärder pågår. Om du avslutar { -brand-shorter-name } kommer dessa åtgärder inte att slutföras.
 contentanalysis-inprogress-quit-yesbutton = Ja, avsluta
