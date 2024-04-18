@@ -131,6 +131,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Մուտքագրեք քիչ, գտեք շատ. որոնեք { $engineName }-ում անմիջապես հասցեի գոտուց:
 urlbar-search-tips-redirect-2 = Սկսեք ձեր որոնումը այստեղ՝ տեսնելու ամար { $engineName }-ի առաջարկները և դիտարկումների ձեր պատմությունը:
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = Որոնումը ավելի պարզ է դարձել: Փորձեք ավելի հստակեցնել Ձեր որոնումն այստեղ՝ հասցեագոտում: Փոխարենը հասցեն ցուցադրելու համար այցելեք «Որոնում»՝ կարգավորումներում:
 
 ## Local search mode indicator labels in the urlbar
 

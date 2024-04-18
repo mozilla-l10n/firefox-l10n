@@ -106,7 +106,10 @@ about-logins-list-section-week = Վերջին 7 օրում
 about-logins-login-intro-heading-logged-out2 = Փնտրու՞մ եք Ձեր պահպանած մուտքերը: Միացրեք համաժամեցումը կամ ներմուծեք դրանք:
 about-logins-login-intro-heading-logged-in = Համաժամեցված մուտք չի գտնվել:
 login-intro-description = Եթե պահպանել եք ձեր մուտքագրումները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպես կարող եք ստանալ դրանք.
+login-intro-instructions-fxa = Գրանցվեք կամ մուտք գործեք Ձեր { -fxaccount-brand-name } հաշիվ այն սարքով, որով պահվել են Ձեր մուտքերը:
 about-logins-login-intro-heading-message = Պահպանեք Ձեր գաղտնաբառերը ապահով տեղում
+login-intro-instructions-fxa-settings = Գնացեք Կարգավորումներ > Համաժամացում > Միացնել համաժամացումը…: Ընտրեք «Մուտքանուններ և գաղտնաբառեր» վանդակը:
+login-intro-instructions-fxa-passwords-help = Լրացուցիչ օգնության համար այցելեք <a data-l10n-name="passwords-help-link">գաղտնաբառերի աջակցություն</a>:
 
 ## Login
 
@@ -424,6 +427,11 @@ about-logins-import-report-added2 =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Նոր գաղտնաբառերն ավելացվեցին</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Նոր գաղտնաբառերն ավելացվեցին</div>
+    }
+about-logins-import-report-error =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">սխալ</div> <div data-l10n-name="not-imported" >(ներմուծված չէ)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">սխալ</div> <div data-l10n-name="not-imported" >(ներմուծված չէ)</div>
     }
 
 ## Logins import report page
