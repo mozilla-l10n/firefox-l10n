@@ -27,12 +27,14 @@ about-private-browsing-get-privacy = Ստացեք գաղտնիության պա�
 about-private-browsing-hide-activity-1 = Թաքցրեք դիտարկման գործունեությունը և գտվելու վայրը { -mozilla-vpn-brand-name }-ով: Մեկ կտտոցը ստեղծում է անվտանգ կապ՝ անգամ հանրային Wi-Fi-ում:
 about-private-browsing-prominent-cta = Մնացեք գաղտնի { -mozilla-vpn-brand-name }-ի հետ
 about-private-browsing-focus-promo-cta = Ներբեռնեք { -focus-brand-name }-ը
+about-private-browsing-focus-promo-header = { -focus-brand-name }. գաղտնի դիտարկում ընթացքի վրա
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Վերցրեք գաղտնի դիտարկումը Ձեր հեռախոսին
 about-private-browsing-focus-promo-text-b = Օգտվեք { -focus-brand-name }-ից՝ այն գաղտնի որոնումների ժամանակ, երբ չեք ցանկանում Ձեր հիմնական բջջային դիտարկիչը ծանոթանա դրանց:
 about-private-browsing-focus-promo-header-c = Հաջորդ մակարդակի գաղտնիություն բջջայինում
+about-private-browsing-focus-promo-text-c = { -focus-brand-name }-ն մաքրում է Ձեր պատմությունն ամեն անգամ՝ արգելափակելով գովազդներն ու հետևիչները:
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

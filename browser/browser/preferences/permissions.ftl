@@ -175,12 +175,19 @@ permissions-site-microphone-disable-desc = Սա կկանխի ցանկում չն
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = Կարգավորումներ. բարձրախոսի թույլտվություններ
+    .style = { permissions-window2.style }
+permissions-site-speaker-desc = Հետևյալ կայքերը պահանջել են ընտրել ձայնանյութի արտածման սարքը: Դուք կարող եք որոշել, թե որ կայքերին են թույլատրվում ընտրել ձայնանյութի արտածման սարքը:
 permissions-exceptions-doh-window =
     .title = Կայքի բացառություններ DNS՝ HTTPS-ի միջոցով
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name }-ը չի օգտագործում անվտանգ DNS այս կայքերում և դրա ենթատիրույթներում:
 permissions-doh-entry-field = Մուտքագրեք վեբ-կայքի տիրույթի անունը
     .accesskey = տ
+permissions-doh-add-exception =
+    .label = Ավելացնել
+    .accesskey = A
 permissions-doh-col =
     .label = Տիրույթ
 permissions-doh-remove =

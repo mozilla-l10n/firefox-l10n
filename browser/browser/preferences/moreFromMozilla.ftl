@@ -13,6 +13,7 @@ more-from-moz-firefox-mobile-title = { -brand-product-name } բջջային
 more-from-moz-firefox-mobile-description = Բջջային դիտարկիչ, որը առաջին տեղում է դնում Ձեր գաղտնիությունը:
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-qr-code-box-firefox-mobile-title = Ներբեռնեք ձեր բջջային սարքում: Պահեք ձեր խցիկը QR կոդի վրա: Երբ հղումը հայտնվի՝ հպեք այն:
+more-from-moz-qr-code-box-firefox-mobile-button = Փոխարենը էլ. նամակ ուղարկել Ձեր հեռախոսին
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = QR ծածկագիրը՝ { -brand-product-name } բջջայինի ներբեռնման համար
 more-from-moz-button-mozilla-vpn-2 = Ստացեք VPN
@@ -20,9 +21,12 @@ more-from-moz-learn-more-link = Իմանալ ավելին
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
+more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Պաշտպանում է ձեր էլ. փոստը և ինքնությունը՝ էլ. փոստի անվճար դիմակավորմամբ:
 more-from-moz-firefox-relay-button = Ստացեք { -relay-brand-short-name }-ը
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
 more-from-moz-mozilla-monitor-global-description = Ստացեք ծանուցումներ՝ երբ Ձեր տվյալներն արտահոսում են
+more-from-moz-mozilla-monitor-button = Ստանալ { -monitor-brand-short-name }
