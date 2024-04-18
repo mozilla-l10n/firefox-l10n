@@ -911,7 +911,15 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Huliðsvafur
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Gagnatapsvörn (DLP) með { $agentName }. Smelltu til að fá frekari upplýsingar.
 content-analysis-panel-title = Gagnavarnir
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Stofnunin þín notar { $agentName } til að verjast gagnatapi. <a data-l10n-name="info">Frekari upplýsingar</a>
 
 ## Unified extensions (toolbar) button
 
