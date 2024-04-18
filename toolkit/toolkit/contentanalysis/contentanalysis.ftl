@@ -55,6 +55,15 @@ contentanalysis-no-agent-connected-message = Não foi possível conectar com { $
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Falha na verificação de assinatura de { $agent }. Transferência do recurso negada: { $content }.
+contentanalysis-block-dialog-title-upload-file = Você não tem permissão para enviar este arquivo
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Conforme a política de proteção de dados da sua organização, você não tem permissão para enviar o arquivo “{ $filename }”. Entre em contato com um administrador para obter mais informações.
+contentanalysis-block-dialog-title-clipboard = Você não tem permissão para colar este conteúdo
+contentanalysis-block-dialog-body-clipboard = Conforme a política de proteção de dados da sua organização, você não tem permissão para colar este conteúdo. Entre em contato com um administrador para obter mais informações.
+contentanalysis-block-dialog-title-dropped-text = Você não tem permissão para arrastar e soltar este conteúdo
+contentanalysis-block-dialog-body-dropped-text = Conforme a política de proteção de dados da sua organização, você não tem permissão para arrastar e soltar este conteúdo. Entre em contato com um administrador para obter mais informações.
+contentanalysis-block-dialog-title-print = Você não tem permissão para imprimir este documento
 contentanalysis-inprogress-quit-title = Sair do { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Várias ações estão em andamento. Se você sair do { -brand-shorter-name }, essas ações não serão concluídas.
 contentanalysis-inprogress-quit-yesbutton = Sim, sair
