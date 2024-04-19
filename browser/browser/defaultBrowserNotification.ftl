@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Garantìssiti velocitât, sigurece e riserv
 default-browser-prompt-button-primary-alt = Met come navigadôr predefinît
 default-browser-prompt-checkbox-not-again-label = No sta mostrâ plui chest messaç
 default-browser-prompt-button-secondary = No cumò
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Finìs metint { -brand-short-name } come predefinît
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Pas 1: Vierç Impostazions > Aplicazions predefinidis
+    Pas 2: Scor in jù su “Navigadôr web”
+    Pas 3: Selezione e sielç { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Pas 1: Vierç Impostazions > Aplicazions predefinidis
+    Pas 2: Selezione “Met come predefinît” par { -brand-short-name }
+default-browser-guidance-notification-info-page = Mostrimi
+default-browser-guidance-notification-dismiss = Fat

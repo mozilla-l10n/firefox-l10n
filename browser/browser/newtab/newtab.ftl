@@ -263,9 +263,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Scurtis sponsorizadis
 newtab-custom-pocket-title = Conseâts di { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contignûts ecezionâi curâts di { -pocket-brand-name }, part de famee { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Conseâts di { -pocket-brand-name }
-    .description = Contignûts ecezionâi curâts di { -pocket-brand-name }, part de famee { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Storiis conseadis
     .description = Contignûts ecezionâl curât de famee di prodots { -brand-product-name }
@@ -278,3 +275,8 @@ newtab-custom-recent-toggle =
     .description = Une selezion di sîts e contignûts resints
 newtab-custom-close-button = Siere
 newtab-custom-settings = Gjestìs plui impostazions
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Fonts
+newtab-wallpaper-reset = Ripristine predefinît
