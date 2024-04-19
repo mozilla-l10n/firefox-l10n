@@ -60,6 +60,11 @@ contentanalysis-block-dialog-title-upload-file = Jo meie dit bestân net oplade
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo it bestân ‘{ $filename }’ net oplade. Nim kontakt op mei jo behearder foar mear ynfo.
 contentanalysis-block-dialog-title-clipboard = Jo meie dizze ynhâld net plakke
+contentanalysis-block-dialog-body-clipboard = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo dizze ynhâld net plakke. Nim kontakt op mei jo behearder foar mear ynfo.
+contentanalysis-block-dialog-title-dropped-text = Jo meie dizze ynhâld net ferslepe
+contentanalysis-block-dialog-body-dropped-text = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo dizze ynhâld net ferslepe. Nim kontakt op mei jo behearder foar mear ynfo.
+contentanalysis-block-dialog-title-print = Jo meie dit dokumint net ôfdrukke
+contentanalysis-block-dialog-body-print = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo dit dokumint net ôfdrukke. Nim kontakt op mei jo behearder foar mear ynfo.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } ôfslute?
 contentanalysis-inprogress-quit-message = Der binne ferskate aksjes yn útfiering. As jo { -brand-shorter-name } ôfslute, wurde dizze aksjes net foltôge.
 contentanalysis-inprogress-quit-yesbutton = Ja, ôfslute
