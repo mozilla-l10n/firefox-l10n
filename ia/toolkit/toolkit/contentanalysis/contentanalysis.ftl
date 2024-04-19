@@ -55,6 +55,10 @@ contentanalysis-no-agent-connected-message = Connexion a { $agent } impossibile.
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Verification de firma pro { $agent } fallite. Transferentia denegate pro le ressource: { $content }.
+contentanalysis-block-dialog-title-upload-file = Tu non ha permisso de cargar iste file
+contentanalysis-block-dialog-title-clipboard = Tu non ha permisso de collar iste contento
+contentanalysis-block-dialog-title-dropped-text = Tu non ha permisso de deponer iste contento
+contentanalysis-block-dialog-title-print = Tu non ha permisso de imprimer iste documento
 contentanalysis-inprogress-quit-title = Quitar { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Plure actiones es in curso. Si tu quita { -brand-shorter-name }, iste actiones non sera completate.
 contentanalysis-inprogress-quit-yesbutton = Si, quitar
