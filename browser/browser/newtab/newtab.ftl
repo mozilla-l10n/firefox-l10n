@@ -290,3 +290,9 @@ newtab-wallpaper-dark-aurora = Aurore boreâl
 newtab-wallpaper-dark-color = Formis rossis e blu
 newtab-wallpaper-dark-panda = Panda ros platât tal bosc
 newtab-wallpaper-dark-sky = Paisaç di citât cun cîl di gnot
+newtab-wallpaper-dark-mountain = Paisaç cun montagne
+newtab-wallpaper-dark-city = Paisaç citadin cun tonalitât viole
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto di <a data-l10n-name="name-link">{ $author_string }</a> su <a data-l10n-name="webpage-link">{ $webpage_string }</a>
