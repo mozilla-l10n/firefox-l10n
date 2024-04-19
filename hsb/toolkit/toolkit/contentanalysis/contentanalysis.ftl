@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = Njeje móžno z { $agent } zwjazać
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Přepruwowanje signatury za { $agent } njeje so poradźiło. Přenjesenje je so za resursu wotpokazało: { $content }.
+contentanalysis-block-dialog-title-upload-file = Njesměće tutu dataju nahrać
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Po prawidłach škita datow swojeho organizacije njesměće dataju „{ $filename }“ nahrać. Stajće so ze swojim administratorom za dalše informacije.
+contentanalysis-block-dialog-title-clipboard = Njesměće tutón wobsah zasadźić
+contentanalysis-block-dialog-body-clipboard = Po prawidłach škita datow swojeho organizacije njesměće tutón wobsah zasadźić. Stajće so ze swojim administratorom za dalše informacije.
+contentanalysis-block-dialog-title-dropped-text = Njesměće tutón wobsah pušćić
+contentanalysis-block-dialog-body-dropped-text = Po prawidłach škita datow swojeho organizacije njesměće tutón wobsah ćahnyć a pušćić. Stajće so ze swojim administratorom za dalše informacije.
+contentanalysis-block-dialog-title-print = Njesměće tutón dokument ćišćeć
+contentanalysis-block-dialog-body-print = Po prawidłach škita datow swojeho organizacije njesměće tutón dokument ćišćeć. Stajće so ze swojim administratorom za dalše informacije.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } wopušćić?
 contentanalysis-inprogress-quit-message = Někotre akcije so wuwjedu. Jeli { -brand-shorter-name } kónčiće, so tute akcije njedokónča.
 contentanalysis-inprogress-quit-yesbutton = Haj, wopušćić
