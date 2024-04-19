@@ -911,6 +911,7 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Navegación privada
+content-analysis-panel-title = Protección de Datos
 
 ## Unified extensions (toolbar) button
 
