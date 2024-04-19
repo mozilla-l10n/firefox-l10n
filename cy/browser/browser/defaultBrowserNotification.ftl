@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Cael cyflymder, diogelwch a phreifatrwydd b
 default-browser-prompt-button-primary-alt = Gosod fel y porwr ragosodedig
 default-browser-prompt-checkbox-not-again-label = Peidio â dangos y neges hon eto
 default-browser-prompt-button-secondary = Nid nawr
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Cwblhau gwneud { -brand-short-name } eich rhagosodiad
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Cam 1: Ewch i Gosodiadau> Apiau rhagosodedig
+    Cam 2: Sgroliwch i lawr i "Porwr gwe"
+    Cam 3: Dewiswch a chlicio { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Cam 1: Ewch i Gosodiadau> Apiau rhagosodedig
+    Cam 2: Dewiswch “Gosod y rhagosodiad” ar gyfer { -brand-short-name }
+default-browser-guidance-notification-info-page = Dangos i mi
+default-browser-guidance-notification-dismiss = Gorffen
