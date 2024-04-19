@@ -55,6 +55,15 @@ contentanalysis-no-agent-connected-message = Impossible de se connecter à { $ag
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Échec de la vérification de la signature pour { $agent }. Transfert refusé pour la ressource : { $content }.
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = En raison des stratégies de protection des données de votre organisation, vous n’avez pas la permission d’envoyer le fichier « { $filename } ». Contactez votre administrateur pour plus d’informations.
+contentanalysis-block-dialog-title-clipboard = Vous n’avez pas la permission de coller ce contenu
+contentanalysis-block-dialog-body-clipboard = En raison des stratégies de protection des données de votre organisation, vous n’avez pas la permission de coller ce contenu. Contactez votre administrateur pour plus d’informations.
+contentanalysis-block-dialog-title-dropped-text = Vous n’avez pas la permission de glisser-déposer ce contenu
+contentanalysis-block-dialog-body-dropped-text = En raison des stratégies de protection des données de votre organisation, vous n’avez pas la permission de glisser-déposer ce contenu. Contactez votre administrateur pour plus d’informations.
+contentanalysis-block-dialog-title-print = Vous n’avez pas la permission d’imprimer ce document
+contentanalysis-block-dialog-body-print = En raison des stratégies de protection des données de votre organisation, vous n’avez pas la permission d’imprimer ce document. Contactez votre administrateur pour plus d’informations.
 contentanalysis-inprogress-quit-title = Quitter { -brand-shorter-name } ?
 contentanalysis-inprogress-quit-message = Plusieurs actions sont en cours. Si vous quittez { -brand-shorter-name }, ces actions ne seront pas terminées.
 contentanalysis-inprogress-quit-yesbutton = Oui, quitter
