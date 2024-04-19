@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = Njejo móžno z { $agent } zwězaś
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Pśeglědanje signatury za { $agent } njejo se raźiło. Pśenjasenje jo se wótpokazało za resursu: { $content }.
+contentanalysis-block-dialog-title-upload-file = Njesmějośo toś tu dataju nagraś
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Pó pšawidłach šćita datow swójeje organizacije njesmějośo dataju „{ $filename }“ nagraś. Stajśo se ze swójim administratorom za dalšne informacije.
+contentanalysis-block-dialog-title-clipboard = Njesmějośo toś to wopśimjeśe zasajźiś
+contentanalysis-block-dialog-body-clipboard = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś to wopśimjeśe zasajźiś. Stajśo se ze swójim administratorom za dalšne informacije.
+contentanalysis-block-dialog-title-dropped-text = Njesmějośo toś to wopśimjeśe pušćiś
+contentanalysis-block-dialog-body-dropped-text = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś to wopśimjeśe śěgnuś a pušćiś. Stajśo se ze swójim administratorom za dalšne informacije.
+contentanalysis-block-dialog-title-print = Njesmějośo toś ten dokument śišćaś
+contentanalysis-block-dialog-body-print = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś ten dokument śišćaś. Stajśo se ze swójim administratorom za dalšne informacije.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } spušćiś?
 contentanalysis-inprogress-quit-message = Někotare akcije se wuwjeduju. Jolic { -brand-shorter-name } kóńcyśo, se toś te akcije njedokóńcyju.
 contentanalysis-inprogress-quit-yesbutton = Jo, spušćiś
