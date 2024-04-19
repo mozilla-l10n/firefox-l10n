@@ -56,9 +56,15 @@ contentanalysis-no-agent-connected-message = { $agent } نال جُڑݨ کنوں
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = { $agent } کِیتے دستخطی توثیق نا کام تھی ڳئی۔ وسیلیاں دی منتقلی کنوں انکار کر ݙِتّا ڳِیا: { $content }۔
 contentanalysis-block-dialog-title-upload-file = تہاکوں ایہ فائل اپ لوڈ کرݨ دی اجازت کائنی۔
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = تہاݙی تنظیم دی ڈیٹا حفاظت پالیسیاں دے تحت،  تساں فائل “{ $filename }” اپ لوڈ کرݨ دے مجاز کائنی۔ ٻیاں معلومات کیتے آپݨے ایڈمن نال رابطہ کرو
 contentanalysis-block-dialog-title-clipboard = تہاکوں ایہ مواد پیسٹ کرݨ دی اجازت کائنی۔
+contentanalysis-block-dialog-body-clipboard = تہاݙی تنظیم دی ڈیٹا حفاظت پالیسیاں دے تحت،  تساں ایہ مواد پیسٹ کرݨ دے مجاز کائنی۔ ٻیاں معلومات کیتے آپݨے ایڈمن نال رابطہ کرو
 contentanalysis-block-dialog-title-dropped-text = تہاکوں ایہ مواد سٹݨ کرݨ دی اجازت کائنی۔
+contentanalysis-block-dialog-body-dropped-text = تہاݙی تنظیم دی ڈیٹا حفاظت پالیسیاں دے تحت،  تساں ایہ مواد ڈریگ تے ڈراپ کرݨ دے مجاز کائنی۔ ٻیاں معلومات کیتے آپݨے ایڈمن نال رابطہ کرو
 contentanalysis-block-dialog-title-print = تہاکوں ایہ دستاویز پرنٹ کرݨ دی اجازت کائنی۔
+contentanalysis-block-dialog-body-print = تہاݙی تنظیم دی ڈیٹا حفاظت پالیسیاں دے تحت،  تساں ایہ دستاویز پرنٹ کرݨ دے مجاز کائنی۔ ٻیاں معلومات کیتے آپݨے ایڈمن نال رابطہ کرو۔
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } برخاست کروں؟
 contentanalysis-inprogress-quit-message = اَݨ ڳِݨَت کارروائیاں جاری ہِن۔ ڄیکر تُساں { -brand-shorter-name } کوں چھوڑ ݙین٘دے ہِیوے، تاں اِیہ کارروائیاں مکمل نہ تِھیسِن۔
 contentanalysis-inprogress-quit-yesbutton = جیا، ٻاہر نکلو
