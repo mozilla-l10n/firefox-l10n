@@ -58,7 +58,7 @@ contentanalysis-invalid-agent-signature-message = Přepruwowanje signatury za { 
 contentanalysis-block-dialog-title-upload-file = Njesměće tutu dataju nahrać
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
-contentanalysis-block-dialog-body-upload-file = Po prawidłach škita datow swojeho organizacije njesměće dataju „{ $filename }“ nahrać. Stajće so ze swojim administratorom za dalše informacije.
+contentanalysis-block-dialog-body-upload-file = Po prawidłach škita datow swojeje organizacije njesměće dataju „{ $filename }“ nahrać. Stajće so ze swojim administratorom za dalše informacije.
 contentanalysis-block-dialog-title-clipboard = Njesměće tutón wobsah zasadźić
 contentanalysis-block-dialog-body-clipboard = Po prawidłach škita datow swojeho organizacije njesměće tutón wobsah zasadźić. Stajće so ze swojim administratorom za dalše informacije.
 contentanalysis-block-dialog-title-dropped-text = Njesměće tutón wobsah pušćić
