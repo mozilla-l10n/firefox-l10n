@@ -55,7 +55,10 @@ contentanalysis-no-agent-connected-message = { $agent } نال جُڑݨ کنوں
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = { $agent } کِیتے دستخطی توثیق نا کام تھی ڳئی۔ وسیلیاں دی منتقلی کنوں انکار کر ݙِتّا ڳِیا: { $content }۔
-contentanalysis-block-dialog-title-print = تہاکوں ایہ دستاویز پرنٹ کر دی اجازت کائنی۔
+contentanalysis-block-dialog-title-upload-file = تہاکوں ایہ فائل اپ لوڈ کرݨ دی اجازت کائنی۔
+contentanalysis-block-dialog-title-clipboard = تہاکوں ایہ مواد پیسٹ کرݨ دی اجازت کائنی۔
+contentanalysis-block-dialog-title-dropped-text = تہاکوں ایہ مواد سٹݨ کرݨ دی اجازت کائنی۔
+contentanalysis-block-dialog-title-print = تہاکوں ایہ دستاویز پرنٹ کرݨ دی اجازت کائنی۔
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } برخاست کروں؟
 contentanalysis-inprogress-quit-message = اَݨ ڳِݨَت کارروائیاں جاری ہِن۔ ڄیکر تُساں { -brand-shorter-name } کوں چھوڑ ݙین٘دے ہِیوے، تاں اِیہ کارروائیاں مکمل نہ تِھیسِن۔
 contentanalysis-inprogress-quit-yesbutton = جیا، ٻاہر نکلو
