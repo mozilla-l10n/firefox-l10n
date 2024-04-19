@@ -55,6 +55,12 @@ contentanalysis-no-agent-connected-message = No sé puede conectar con { $agent 
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Falló la verificación de firma para { $agent }. Transferencia denegada para el recurso: { $content }.
+contentanalysis-block-dialog-title-upload-file = No tiene permiso para subir este archivo
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Según las políticas de protección de datos de su organización, no tiene permiso para subir el archivo "{ $filename }". Contacte a su administrador para más información.
+contentanalysis-block-dialog-title-clipboard = No tienes permiso para pegar este contenido
+contentanalysis-block-dialog-body-clipboard = Según las políticas de protección de datos de su organización, no tiene permiso para pegar este contenido. Contacte a su administrador para más información.
 contentanalysis-inprogress-quit-title = ¿Salir de { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Hay varias acciones en curso. Si sale de { -brand-shorter-name }, estas acciones no se completarán.
 contentanalysis-inprogress-quit-yesbutton = Sí, salir
