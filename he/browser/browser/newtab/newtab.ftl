@@ -283,4 +283,9 @@ newtab-wallpaper-dark-aurora = זוהר צפוני
 newtab-wallpaper-dark-color = צורות אדומות וכחולות
 newtab-wallpaper-dark-panda = פנדה אדומה חבויה ביער
 newtab-wallpaper-dark-sky = נוף עיר עם שמי לילה
-newtab-wallpaper-dark-mountain = נוף של הר
+newtab-wallpaper-dark-mountain = נוף הררי
+newtab-wallpaper-dark-city = נוף עירוני סגול
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = תמונה מאת <a data-l10n-name="name-link">{ $author_string }</a> ב־<a data-l10n-name="webpage-link">{ $webpage_string }</a>
