@@ -267,9 +267,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Llwybrau byr wedi'u noddi
 newtab-custom-pocket-title = Argymhellir gan  { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Cynnwys eithriadol wedi'i guradu gan { -pocket-brand-name }, rhan o deulu { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Argymhellir gan  { -pocket-brand-name }
-    .description = Cynnwys eithriadol wedi'i guradu gan { -pocket-brand-name }, rhan o deulu { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Straeon cymeradwy
     .description = Cynnwys eithriadol wedi'i gasglu gan deulu { -brand-product-name }
@@ -282,3 +279,16 @@ newtab-custom-recent-toggle =
     .description = Detholiad o wefannau a chynnwys diweddar
 newtab-custom-close-button = Cau
 newtab-custom-settings = Rheoli rhagor o osodiadau
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Papurau wal
+newtab-wallpaper-reset = Ailosod i'r rhagosodiad
+newtab-wallpaper-light-red-panda = Panda coch
+newtab-wallpaper-light-mountain = Mynydd gwyn
+newtab-wallpaper-light-sky = Awyr gyda chymylau porffor a phinc
+newtab-wallpaper-light-color = Siapiau glas, pinc a melyn
+newtab-wallpaper-light-landscape = Tirwedd mynydd a niwlen las
+newtab-wallpaper-light-beach = Traeth gyda phalmwydd
+newtab-wallpaper-dark-aurora = Aurora Borealis
+newtab-wallpaper-dark-color = Siapiau coch a glas
