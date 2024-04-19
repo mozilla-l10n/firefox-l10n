@@ -55,6 +55,11 @@ contentanalysis-no-agent-connected-message = Kin gjin ferbining meitsje mei { $a
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Undertekeningsferifikaaasje foar { $agent } mislearre.  Oerdracht wegere foar boarne: { $content }.
+contentanalysis-block-dialog-title-upload-file = Jo meie dit bestân net oplade
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo it bestân ‘{ $filename }’ net oplade. Nim kontakt op mei jo behearder foar mear ynfo.
+contentanalysis-block-dialog-title-clipboard = Jo meie dizze ynhâld net plakke
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } ôfslute?
 contentanalysis-inprogress-quit-message = Der binne ferskate aksjes yn útfiering. As jo { -brand-shorter-name } ôfslute, wurde dizze aksjes net foltôge.
 contentanalysis-inprogress-quit-yesbutton = Ja, ôfslute
