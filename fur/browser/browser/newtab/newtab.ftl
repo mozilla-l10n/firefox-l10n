@@ -280,3 +280,7 @@ newtab-custom-settings = Gjestìs plui impostazions
 
 newtab-wallpaper-title = Fonts
 newtab-wallpaper-reset = Ripristine predefinît
+newtab-wallpaper-light-red-panda = Panda ros
+newtab-wallpaper-light-mountain = Montagne blancje
+newtab-wallpaper-light-sky = Cîl cun nui viole e rose
+newtab-wallpaper-light-color = Formis zalis, blu e rose
