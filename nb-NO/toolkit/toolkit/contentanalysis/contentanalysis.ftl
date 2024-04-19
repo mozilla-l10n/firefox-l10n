@@ -56,6 +56,7 @@ contentanalysis-no-agent-connected-message = Kan ikke koble til { $agent }. Over
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Mislykket signaturverifisering for { $agent }. Overføring avvist for ressurs: { $content }.
 contentanalysis-block-dialog-title-upload-file = Du har ikke rettighet til å laste opp denne filen
+contentanalysis-block-dialog-title-clipboard = Du har ikke tillatelse til å lime inn dette innholdet
 contentanalysis-inprogress-quit-title = Avslutte { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Flere handlinger pågår. Hvis du avslutter { -brand-shorter-name }, vil disse handlingene ikke bli fullført.
 contentanalysis-inprogress-quit-yesbutton = Ja, avslutt
