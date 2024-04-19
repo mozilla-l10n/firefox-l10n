@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = Kan geen verbinding maken met { $ag
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Ondertekeningsverificatie voor { $agent } mislukt. Overdracht geweigerd voor bron: { $content }.
+contentanalysis-block-dialog-title-upload-file = U mag dit bestand niet uploaden
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Volgens het gegevensbeschermingsbeleid van uw organisatie mag u het bestand ‘{ $filename }’ niet uploaden. Neem contact op met uw beheerder voor meer info.
+contentanalysis-block-dialog-title-clipboard = U mag deze inhoud niet plakken
+contentanalysis-block-dialog-body-clipboard = Volgens het gegevensbeschermingsbeleid van uw organisatie mag u deze inhoud niet plakken. Neem contact op met uw beheerder voor meer info.
+contentanalysis-block-dialog-title-dropped-text = U mag deze inhoud niet verslepen
+contentanalysis-block-dialog-body-dropped-text = Volgens het gegevensbeschermingsbeleid van uw organisatie mag u deze inhoud niet verslepen. Neem contact op met uw beheerder voor meer info.
+contentanalysis-block-dialog-title-print = U mag dit document niet afdrukken
+contentanalysis-block-dialog-body-print = Volgens het gegevensbeschermingsbeleid van uw organisatie mag u dit document niet afdrukken. Neem contact op met uw beheerder voor meer info.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } afsluiten?
 contentanalysis-inprogress-quit-message = Er zijn diverse acties in uitvoering. Als u { -brand-shorter-name } afsluit, worden deze acties niet voltooid.
 contentanalysis-inprogress-quit-yesbutton = Ja, afsluiten
