@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = { $agent }에 연결할 수 없습�
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = { $agent }에 대한 서명 확인에 실패했습니다. { $content } 리소스에 대한 전송이 거부되었습니다.
+contentanalysis-block-dialog-title-upload-file = 이 파일을 업로드할 권한이 없습니다
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = 사용자 조직의 데이터 보호 정책에 따라 '{ $filename }' 파일을 업로드하는 것이 허용되지 않습니다. 자세한 내용은 관리자에게 문의하세요.
+contentanalysis-block-dialog-title-clipboard = 이 콘텐츠를 붙여넣을 수 있는 권한이 없습니다.
+contentanalysis-block-dialog-body-clipboard = 사용자 조직의 데이터 보호 정책에 따라 이 콘텐츠를 붙여넣는 것이 허용되지 않습니다. 자세한 내용은 관리자에게 문의하세요.
+contentanalysis-block-dialog-title-dropped-text = 이 콘텐츠를 끌어서 놓을 권한이 없습니다.
+contentanalysis-block-dialog-body-dropped-text = 사용자 조직의 데이터 보호 정책에 따라 이 콘텐츠를 끌어서 놓을 수 없습니다. 자세한 내용은 관리자에게 문의하세요.
+contentanalysis-block-dialog-title-print = 이 문서를 인쇄할 권한이 없습니다
+contentanalysis-block-dialog-body-print = 사용자 조직의 데이터 보호 정책에 따라 이 문서를 인쇄할 수 없습니다. 자세한 내용은 관리자에게 문의하세요.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name }를 종료하시겠습니까?
 contentanalysis-inprogress-quit-message = 여러 작업이 진행 중입니다. { -brand-shorter-name }를 종료하면 이러한 작업이 완료되지 않습니다.
 contentanalysis-inprogress-quit-yesbutton = 예, 종료
