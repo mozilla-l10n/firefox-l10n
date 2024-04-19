@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = Ekki tókst að tengjast { $agent }
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Mistókst að staðfesta undirritun fyrir { $agent }. Flutningi hafnað fyrir tilfang: { $content }.
+contentanalysis-block-dialog-title-upload-file = Þú hefur ekki leyfi til að senda inn þessa skrá
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Samkvæmt gagnaverndarstefnu fyrirtækisins hefurðu ekki leyfi til að senda inn skrána „{ $filename }“. Hafðu samband við kerfisstjórnandann þinn til að fá frekari upplýsingar.
+contentanalysis-block-dialog-title-clipboard = Þú hefur ekki leyfi til að líma þetta efni
+contentanalysis-block-dialog-body-clipboard = Samkvæmt gagnaverndarstefnu fyrirtækisins hefurðu ekki leyfi til að líma inn þetta efni. Hafðu samband við kerfisstjórnandann þinn til að fá frekari upplýsingar.
+contentanalysis-block-dialog-title-dropped-text = Þú hefur ekki leyfi til að sleppa þessu efni
+contentanalysis-block-dialog-body-dropped-text = Samkvæmt gagnaverndarstefnu fyrirtækisins hefurðu ekki leyfi til að sleppa þessu efni hér. Hafðu samband við kerfisstjórnandann þinn til að fá frekari upplýsingar.
+contentanalysis-block-dialog-title-print = Þú hefur ekki leyfi til að prenta þetta skjal
+contentanalysis-block-dialog-body-print = Samkvæmt gagnaverndarstefnu fyrirtækisins hefurðu ekki leyfi til að prenta þetta skjal. Hafðu samband við kerfisstjórnandann þinn til að fá frekari upplýsingar.
 contentanalysis-inprogress-quit-title = Hætta í { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Nokkrar aðgerðir eru í gangi. Ef þú hættir í { -brand-shorter-name } verða þessar aðgerðir ekki kláraðar.
 contentanalysis-inprogress-quit-yesbutton = Já, hætta
