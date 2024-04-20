@@ -6,10 +6,6 @@ contentanalysis-alert-title = 内容分析
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = 内容分析工具用于响应资源“{ $content }”的时间过长
-contentanalysis-slow-agent-dialog-title = 正在分析内容
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = 内容分析正在分析资源“{ $content }”
 contentanalysis-slow-agent-dialog-header = 正在扫描
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -24,6 +20,7 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } 正在审核您粘
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } 正在审核您拖放的文本是否符合您组织的数据策略，这可能需要一些时间。
 contentanalysis-operationtype-clipboard = 剪贴板
 contentanalysis-operationtype-dropped-text = 拖放的文本
+contentanalysis-operationtype-print = 打印
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = 上传“{ $filename }”
 contentanalysis-warndialogtitle = 此内容可能不安全
@@ -55,6 +52,9 @@ contentanalysis-no-agent-connected-message = 无法连接“{ $agent }”。以�
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = 验证“{ $agent }”的签名失败。以下资源的传输被拒绝：{ $content }。
+contentanalysis-block-dialog-body-dropped-text = 根据您组织的数据保护政策，您不被允许拖放此内容。请联系您的管理员了解更多信息。
+contentanalysis-block-dialog-title-print = 您无权打印此文档
+contentanalysis-block-dialog-body-print = 根据您组织的数据保护政策，您无权打印此文档。请联系您的管理员了解更多信息。
 contentanalysis-inprogress-quit-title = 确定退出 { -brand-shorter-name } 吗？
 contentanalysis-inprogress-quit-message = 有几项操作正在进行。若退出 { -brand-shorter-name }，这些操作将无法完成。
 contentanalysis-inprogress-quit-yesbutton = 是，退出
