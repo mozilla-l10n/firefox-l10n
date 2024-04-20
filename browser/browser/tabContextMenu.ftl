@@ -68,6 +68,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Chiudi più schede
     .accesskey = u
+tab-context-close-duplicate-tabs =
+    .label = Chiudi schede duplicate
+    .accesskey = e
 tab-context-share-url =
     .label = Condividi
     .accesskey = o
@@ -95,7 +98,7 @@ tab-context-move-tabs =
             [1] Sposta scheda
            *[other] Sposta schede
         }
-    .accesskey = S
+    .accesskey = t
 
 tab-context-send-tabs-to-device =
     .label =
