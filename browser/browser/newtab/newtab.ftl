@@ -262,9 +262,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Χορηγούμενες συντομεύσεις
 newtab-custom-pocket-title = Προτείνεται από το { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Εξαιρετικό περιεχόμενο από το { -pocket-brand-name }, μέρος της οικογένειας του { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Προτείνεται από το { -pocket-brand-name }
-    .description = Εξαιρετικό περιεχόμενο από το { -pocket-brand-name }, μέρος της οικογένειας του { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Προτεινόμενα άρθρα
     .description = Εξαιρετικό περιεχόμενο από την οικογένεια του { -brand-product-name }
@@ -277,3 +274,24 @@ newtab-custom-recent-toggle =
     .description = Συλλογή πρόσφατων ιστοτόπων και περιεχομένου
 newtab-custom-close-button = Κλείσιμο
 newtab-custom-settings = Διαχείριση περισσότερων ρυθμίσεων
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Ταπετσαρίες
+newtab-wallpaper-reset = Επαναφορά στην προεπιλογή
+newtab-wallpaper-light-red-panda = Κόκκινο πάντα
+newtab-wallpaper-light-mountain = Λευκό βουνό
+newtab-wallpaper-light-sky = Ουρανός με μωβ και ροζ σύννεφα
+newtab-wallpaper-light-color = Μπλε, ροζ και κίτρινα σχήματα
+newtab-wallpaper-light-landscape = Μπλε ορεινό τοπίο ομίχλης
+newtab-wallpaper-light-beach = Παραλία με φοίνικα
+newtab-wallpaper-dark-aurora = Βόρειο σέλας
+newtab-wallpaper-dark-color = Κόκκινα και μπλε σχήματα
+newtab-wallpaper-dark-panda = Κόκκινο πάντα στο δάσος
+newtab-wallpaper-dark-sky = Αστικό τοπίο με νυχτερινό ουρανό
+newtab-wallpaper-dark-mountain = Ορεινό τοπίο
+newtab-wallpaper-dark-city = Μωβ αστικό τοπίο
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Φωτογραφία από <a data-l10n-name="name-link">{ $author_string }</a> στο <a data-l10n-name="webpage-link">{ $webpage_string }</a>

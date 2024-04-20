@@ -6,10 +6,6 @@ contentanalysis-alert-title = Ανάλυση περιεχομένου
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Το εργαλείο ανάλυσης περιεχομένου χρειάζεται πολύ χρόνο για να απαντήσει για τον πόρο «{ $content }»
-contentanalysis-slow-agent-dialog-title = Ανάλυση περιεχομένου σε εξέλιξη
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Η Ανάλυση περιεχομένου αναλύει τον πόρο «{ $content }»
 contentanalysis-slow-agent-dialog-header = Σάρωση σε εξέλιξη
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -24,6 +20,7 @@ contentanalysis-slow-agent-dialog-body-clipboard = Το { $agent } ελέγχε�
 contentanalysis-slow-agent-dialog-body-dropped-text = Το { $agent } ελέγχει το κείμενα που αποθέσατε σύμφωνα με τις πολιτικές δεδομένων του οργανισμού σας. Αυτή η διαδικασία ενδέχεται διαρκέσει λίγη ώρα.
 contentanalysis-operationtype-clipboard = πρόχειρο
 contentanalysis-operationtype-dropped-text = εναποθετημένο κείμενο
+contentanalysis-operationtype-print = εκτύπωση
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = μεταφόρτωση του «{ $filename }»
 contentanalysis-warndialogtitle = Το περιεχόμενο ενδέχεται να μην είναι ασφαλές
@@ -55,6 +52,10 @@ contentanalysis-no-agent-connected-message = Αδυναμία σύνδεσης �
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Αποτυχία επαλήθευσης υπογραφής για το { $agent }. Η μεταφορά απορρίφθηκε για τον πόρο: { $content }.
+contentanalysis-block-dialog-title-upload-file = Δεν επιτρέπεται να μεταφορτώσετε αυτό το αρχείο
+contentanalysis-block-dialog-title-clipboard = Δεν επιτρέπεται να επικολλήσετε αυτό το περιεχόμενο
+contentanalysis-block-dialog-title-dropped-text = Δεν επιτρέπεται να αποθέσετε αυτό το περιεχόμενο
+contentanalysis-block-dialog-title-print = Δεν επιτρέπεται να εκτυπώσετε αυτό το περιεχόμενο
 contentanalysis-inprogress-quit-title = Έξοδος από το { -brand-shorter-name };
 contentanalysis-inprogress-quit-message = Βρίσκονται σε εξέλιξη πολλές ενέργειες. Αν κλείσετε το { -brand-shorter-name }, αυτές οι ενέργειες δεν θα ολοκληρωθούν.
 contentanalysis-inprogress-quit-yesbutton = Ναι, έξοδος
