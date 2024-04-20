@@ -910,6 +910,11 @@ data-reporting-notification-button =
     .accesskey = N
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Gizli gezinti
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = { $agentName } veri kaybı önleme (DLP). Daha fazla bilgi için tıklayın.
 content-analysis-panel-title = Veri koruması
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
