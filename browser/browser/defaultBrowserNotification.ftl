@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = 每一次浏览，都有最快速度、安�
 default-browser-prompt-button-primary-alt = 设为默认浏览器
 default-browser-prompt-checkbox-not-again-label = 不再显示此消息
 default-browser-prompt-button-secondary = 暂时不要
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = 完成设置，将 { -brand-short-name } 设为默认浏览器
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    第一步：前往“设置”>“默认应用”
+    第二步：向下滚动到“Web 浏览器”
+    第三步：选择，然后选取 { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    第一步：前往“设置”>“默认应用”
+    第二步：对 { -brand-short-name } 选择“设置默认值”
+default-browser-guidance-notification-info-page = 前往设置
+default-browser-guidance-notification-dismiss = 完成
