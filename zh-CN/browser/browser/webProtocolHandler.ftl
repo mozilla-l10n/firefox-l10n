@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = 要始终通过 { $url }
 protocolhandler-mailto-handler-yes-confirm = 已将 { $url } 设为打开邮件链接的默认网站。
 protocolhandler-mailto-handler-set-message = 每次点击邮件链接时，都使用 <strong>{ -brand-short-name }（{ $url }）</strong>打开吗？
 protocolhandler-mailto-handler-confirm-message = <strong>{ -brand-short-name }（{ $url }）</strong>现在是您计算机上的默认邮件应用。
+protocolhandler-mailto-handler-set = 每次点击邮件链接时，都使用 <strong>{ -brand-short-name }打开{ $url }</strong>打开吗？
 protocolhandler-mailto-handler-confirm = 每次点击邮件链接时，<strong>{ -brand-short-name } 将打开 { $url }</strong>。
 
 ##
