@@ -908,6 +908,7 @@ data-reporting-notification-button =
     .accesskey = ξ
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Ιδιωτική περιήγηση
+content-analysis-panel-title = Προστασία δεδομένων
 
 ## Unified extensions (toolbar) button
 
