@@ -257,9 +257,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = 赞助商网站
 newtab-custom-pocket-title = 由 { -pocket-brand-name } 推荐
 newtab-custom-pocket-subtitle = 由 { -brand-product-name } 旗下 { -pocket-brand-name } 策划的特别内容
-newtab-custom-pocket-toggle =
-    .label = 由 { -pocket-brand-name } 推荐
-    .description = 由 { -brand-product-name } 旗下 { -pocket-brand-name } 策划的特别内容
 newtab-custom-stories-toggle =
     .label = 推荐文章
     .description = 由 { -brand-product-name } 推荐的精选内容
@@ -272,3 +269,24 @@ newtab-custom-recent-toggle =
     .description = 近期访问的网站与内容精选
 newtab-custom-close-button = 关闭
 newtab-custom-settings = 管理更多设置
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = 壁纸
+newtab-wallpaper-reset = 重置为默认设置
+newtab-wallpaper-light-red-panda = 小熊猫
+newtab-wallpaper-light-mountain = 白山山脉
+newtab-wallpaper-light-sky = 漂浮着粉紫色云的天空
+newtab-wallpaper-light-color = 蓝色、粉色和黄色的形状
+newtab-wallpaper-light-landscape = 淡蓝薄雾笼罩下的山地景观
+newtab-wallpaper-light-beach = 生长着棕榈树的海滩
+newtab-wallpaper-dark-aurora = 极光
+newtab-wallpaper-dark-color = 红色和蓝色的形状
+newtab-wallpaper-dark-panda = 躲在森林里的小熊猫
+newtab-wallpaper-dark-sky = 夜空下的城市景观
+newtab-wallpaper-dark-mountain = 山地景观
+newtab-wallpaper-dark-city = 紫色城市景观
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = 照片由 <a data-l10n-name="name-link">{ $author_string }</a> 提供，来源：<a data-l10n-name="webpage-link">{ $webpage_string }</a>
