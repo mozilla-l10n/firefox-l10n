@@ -56,6 +56,9 @@ contentanalysis-no-agent-connected-message = Connexion a { $agent } impossibile.
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Verification de firma pro { $agent } fallite. Transferentia denegate pro le ressource: { $content }.
 contentanalysis-block-dialog-title-upload-file = Tu non ha permisso de cargar iste file
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Sub le politicas de protection de datos de tu organisation, tu non ha le permisso de cargar le file  “{ $filename }”. Contacta nostre administrator pro altere informationes.
 contentanalysis-block-dialog-title-clipboard = Tu non ha permisso de collar iste contento
 contentanalysis-block-dialog-title-dropped-text = Tu non ha permisso de deponer iste contento
 contentanalysis-block-dialog-title-print = Tu non ha permisso de imprimer iste documento
