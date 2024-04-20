@@ -292,3 +292,7 @@ newtab-wallpaper-light-landscape = Tirwedd mynydd a niwlen las
 newtab-wallpaper-light-beach = Traeth gyda phalmwydd
 newtab-wallpaper-dark-aurora = Aurora Borealis
 newtab-wallpaper-dark-color = Siapiau coch a glas
+newtab-wallpaper-dark-panda = Panda coch wedi'i guddio yn y goedwig
+newtab-wallpaper-dark-sky = Tirwedd y ddinas gydag awyr y nos
+newtab-wallpaper-dark-mountain = Tirwedd mynydd
+newtab-wallpaper-dark-city = Tirwedd dinas borffor
