@@ -278,3 +278,16 @@ newtab-wallpaper-reset = Restablecer a predeterminados
 newtab-wallpaper-light-red-panda = Panda rojo
 newtab-wallpaper-light-mountain = Montaña Blanca
 newtab-wallpaper-light-sky = Cielo con nubes moradas y rosas
+newtab-wallpaper-light-color = Formas azules, rosadas y amarillas
+newtab-wallpaper-light-landscape = Paisaje de montaña con neblina azul
+newtab-wallpaper-light-beach = Playa con palmera
+newtab-wallpaper-dark-aurora = Aurora boreal
+newtab-wallpaper-dark-color = Formas rojas y azules
+newtab-wallpaper-dark-panda = Panda rojo oculto en el bosque
+newtab-wallpaper-dark-sky = Paisaje de ciudad con cielo nocturno
+newtab-wallpaper-dark-mountain = Paisaje de montaña
+newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto de <a data-l10n-name="name-link">{ $author_string }</a> en <a data-l10n-name="webpage-link">{ $webpage_string }</a>
