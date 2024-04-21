@@ -262,9 +262,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsoroidut oikotiet
 newtab-custom-pocket-title = { -pocket-brand-name } suosittelee
 newtab-custom-pocket-subtitle = Poikkeuksellista, valikoitua sisältöä { -pocket-brand-name }-palvelulta, osana { -brand-product-name }-perhettä
-newtab-custom-pocket-toggle =
-    .label = { -pocket-brand-name } suosittelee
-    .description = Poikkeuksellista, valikoitua sisältöä { -pocket-brand-name }-palvelulta, osana { -brand-product-name }-perhettä
 newtab-custom-stories-toggle =
     .label = Suositellut tarinat
     .description = Poikkeuksellista { -brand-product-name }-perheen kuratoimaa sisältöä
@@ -277,3 +274,22 @@ newtab-custom-recent-toggle =
     .description = Valikoima viimeisimpiä sivustoja ja sisältöä
 newtab-custom-close-button = Sulje
 newtab-custom-settings = Muokkaa lisää asetuksia
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Taustakuvat
+newtab-wallpaper-reset = Palauta oletusarvo
+newtab-wallpaper-light-red-panda = Kultapanda
+newtab-wallpaper-light-mountain = Valkoinen vuori
+newtab-wallpaper-light-sky = Taivas violettien ja vaaleanpunaisten pilvien kera
+newtab-wallpaper-light-color = Siniset, vaaleanpunaiset ja keltaiset muodot
+newtab-wallpaper-light-beach = Ranta ja palmupuu
+newtab-wallpaper-dark-aurora = Revontulet
+newtab-wallpaper-dark-color = Punaiset ja siniset muodot
+newtab-wallpaper-dark-panda = Kultapanda metsän piilossa
+newtab-wallpaper-dark-sky = Kaupunkimaisema ja yötaivas
+newtab-wallpaper-dark-city = Purppura kaupunkimaisema
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Kuva: <a data-l10n-name="name-link">{ $author_string }</a> sivustolla <a data-l10n-name="webpage-link">{ $webpage_string }</a>
