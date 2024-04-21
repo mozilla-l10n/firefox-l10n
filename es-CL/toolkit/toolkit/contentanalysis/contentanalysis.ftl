@@ -6,10 +6,6 @@ contentanalysis-alert-title = Análisis de contenido
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = La herramienta de análisis de contenido está tardando mucho en responder al recurso "{ $content }"
-contentanalysis-slow-agent-dialog-title = Análisis de contenido en progreso
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = El análisis de contenido está analizando el recurso "{ $content }"
 contentanalysis-slow-agent-dialog-header = Escaneo en proceso
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -24,6 +20,7 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } está revisando lo
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está revisando el texto que has soltado según las políticas de datos de tu organización. Esto puede tomar un tiempo.
 contentanalysis-operationtype-clipboard = portapapeles
 contentanalysis-operationtype-dropped-text = texto descartado
+contentanalysis-operationtype-print = imprimir
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = carga de “{ $filename }”
 contentanalysis-warndialogtitle = Este contenido puede no ser seguro
@@ -55,6 +52,7 @@ contentanalysis-no-agent-connected-message = No se pudo conectar con { $agent }.
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Verificación de firma fallida para { $agent }. Transferencia denegada para el recurso: { $content }.
+contentanalysis-block-dialog-title-upload-file = No tienes permiso para subir este archivo
 contentanalysis-inprogress-quit-title = ¿Salir de { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Varias acciones están en curso. Si sales de { -brand-shorter-name }, estas acciones no serán completadas.
 contentanalysis-inprogress-quit-yesbutton = Sí, salir
