@@ -77,6 +77,12 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Tampilkan Tab Lainnya
     .tooltiptext = Tampilkan lebih banyak dari perangkat ini
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label = Tampilkan { $count } tab tidak aktif
+    .tooltiptext = Tampilkan tab tidak aktif di perangkat ini
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Tak ada tab terbuka
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -266,4 +272,8 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Masuk ke akun Anda
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Dapatkan peringatan kebocoran data
+appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Lindungi aktivitas daring Anda
