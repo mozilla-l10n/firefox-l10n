@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = Akses ini tidak dijamin aman
 ##
 
 xpinstall-disabled-locked = Pilihan pemasangan perangkat lunak telah dinonaktifkan administrator sistem Anda.
+xpinstall-disabled-by-policy = Pilihan pemasangan perangkat lunak telah dimatikan organisasi Anda.
 xpinstall-disabled = Pemasangan perangkat lunak sedang dinonaktifkan. Klik Aktifkan dan coba lagi.
 xpinstall-disabled-button =
     .label = Aktifkan
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) diblokir oleh administrator sistem Anda.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Administrator sistem Anda mencegah situs ini meminta Anda untuk memasang perangkat lunak di komputer Anda.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) diblokir oleh organisasi Anda.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Organisasi Anda telah mencegah situs ini untuk memasang perangkat lunak di komputer Anda.
 addon-install-full-screen-blocked = Instalasi pengaya tidak diizinkan saat sebelum memasuki atau berada dalam mode layar penuh.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
