@@ -26,5 +26,6 @@ default-browser-prompt-button-secondary = Ahora no
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = Termina de hacer que { -brand-short-name } sea tu predeterminado
 default-browser-guidance-notification-info-page = Mostrarme
 default-browser-guidance-notification-dismiss = Hecho

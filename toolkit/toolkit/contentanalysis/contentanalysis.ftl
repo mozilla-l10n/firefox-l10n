@@ -53,6 +53,9 @@ contentanalysis-no-agent-connected-message = No se pudo conectar con { $agent }.
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Verificación de firma fallida para { $agent }. Transferencia denegada para el recurso: { $content }.
 contentanalysis-block-dialog-title-upload-file = No tienes permiso para subir este archivo
+contentanalysis-block-dialog-title-clipboard = No tienes permitido pegar este contenido.
+contentanalysis-block-dialog-title-dropped-text = No tienes permitido soltar este contenido.
+contentanalysis-block-dialog-title-print = No tienes permitido imprimir este documento.
 contentanalysis-inprogress-quit-title = ¿Salir de { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Varias acciones están en curso. Si sales de { -brand-shorter-name }, estas acciones no serán completadas.
 contentanalysis-inprogress-quit-yesbutton = Sí, salir
