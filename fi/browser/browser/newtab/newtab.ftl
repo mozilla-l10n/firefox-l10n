@@ -283,11 +283,13 @@ newtab-wallpaper-light-red-panda = Kultapanda
 newtab-wallpaper-light-mountain = Valkoinen vuori
 newtab-wallpaper-light-sky = Taivas violettien ja vaaleanpunaisten pilvien kera
 newtab-wallpaper-light-color = Siniset, vaaleanpunaiset ja keltaiset muodot
+newtab-wallpaper-light-landscape = Sinertävän usvan vuorimaisema
 newtab-wallpaper-light-beach = Ranta ja palmupuu
 newtab-wallpaper-dark-aurora = Revontulet
 newtab-wallpaper-dark-color = Punaiset ja siniset muodot
 newtab-wallpaper-dark-panda = Kultapanda metsän piilossa
 newtab-wallpaper-dark-sky = Kaupunkimaisema ja yötaivas
+newtab-wallpaper-dark-mountain = Vuorimaisema
 newtab-wallpaper-dark-city = Purppura kaupunkimaisema
 # Variables
 #   $author_string (String) - The name of the creator of the photo.

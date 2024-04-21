@@ -21,3 +21,16 @@ default-browser-prompt-message-alt = Nopeutta, turvallisuutta ja yksityisyyttä 
 default-browser-prompt-button-primary-alt = Aseta oletusselaimeksi
 default-browser-prompt-checkbox-not-again-label = Älä näytä tätä viestiä uudelleen
 default-browser-prompt-button-secondary = Ei nyt
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Viimeistele { -brand-short-name }in asettaminen oletukseksi
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Vaihe 1: Siirry kohtaan Asetukset > Oletussovellukset
+    Vaihe 2: Vieritä alas kohtaan "Selain"
+    Vaihe 3: Valitse { -brand-short-name }
+default-browser-guidance-notification-info-page = Näytä minulle
+default-browser-guidance-notification-dismiss = Valmis
