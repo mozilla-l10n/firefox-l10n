@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = Vai vienmēr atvērt e-p
 protocolhandler-mailto-handler-yes-confirm = { $url } tagad ir jūsu noklusējuma vietne, lai atvērtu saites, kas sūta e-pastu.
 protocolhandler-mailto-handler-set-message = Vai lietot <strong>{ $url } ar { -brand-short-name }</strong> ikreiz, kad noklikšķināt uz saites, kas atver jūsu e-pastu?
 protocolhandler-mailto-handler-confirm-message = <strong>{ $url } ar { -brand-short-name }</strong> tagad ir jūsu datora noklusējuma e-pasta apstrādātājs.
+protocolhandler-mailto-handler-set = Vai izmantot <strong>{ -brand-short-name }, lai atvērtu vietni { $url }</strong> katru reizi, kad noklikšķināt uz saites, kas atver e-pastu?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } tiks atvērts { $url }</strong> ikreiz, kad noklikšķināsiet uz saites, kas nosūta e-pastu.
 
 ##
