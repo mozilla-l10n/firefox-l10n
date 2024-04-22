@@ -275,3 +275,13 @@ newtab-custom-recent-toggle =
     .description = Neseno vietņu un satura izlase
 newtab-custom-close-button = Aizvērt
 newtab-custom-settings = Pārvaldīt vēl iestatījumu
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Tapetes
+newtab-wallpaper-reset = Atiestatīt uz noklusējuma
+newtab-wallpaper-light-red-panda = Sarkana panda
+newtab-wallpaper-light-mountain = Balts kalns
+newtab-wallpaper-light-sky = Debesis ar violetiem un rozā mākoņiem
+newtab-wallpaper-light-color = Zilas, rozā un dzeltenas formas
+newtab-wallpaper-light-landscape = Zilas miglas kalnu ainava
