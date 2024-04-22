@@ -26,5 +26,15 @@ default-browser-prompt-button-secondary = Όχι τώρα
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = Ολοκλήρωση ορισμού { -brand-short-name } ως προεπιλογής
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Βήμα 1: Μεταβείτε στις Ρυθμίσεις > Προεπιλεγμένες εφαρμογές
+    Βήμα 2: Κάντε κύλιση προς τα κάτω στο «Πρόγραμμα περιήγησης Web»
+    Βήμα 3: Επιλέξτε το { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Βήμα 1: Μεταβείτε στις Ρυθμίσεις > Προεπιλεγμένες εφαρμογές
+    Βήμα 2: Επιλέξτε «Ορισμός προεπιλογής» για το { -brand-short-name }
 default-browser-guidance-notification-info-page = Εμφάνιση
 default-browser-guidance-notification-dismiss = Τέλος
