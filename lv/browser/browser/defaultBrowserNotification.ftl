@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Iegūstiet ātrumu, drošību un privātumu
 default-browser-prompt-button-primary-alt = Iestatīt par noklusējuma pārlūku
 default-browser-prompt-checkbox-not-again-label = Vairs nerādīt šo ziņojumu
 default-browser-prompt-button-secondary = Ne tagad
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Pabeigt iestatīt { -brand-short-name } kā noklusējuma
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    1. solis: atveriet sadaļu Iestatījumi > Noklusējuma lietotnes
+    2. solis: ritiniet uz leju līdz “Tīmekļa pārlūks”
+    3. solis: atlasiet un izvēlieties { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    1. solis: atveriet sadaļu Iestatījumi > Noklusējuma lietotnes
+    2. solis: atlasiet “Iestatīt noklusējumu” vienumam { -brand-short-name }
+default-browser-guidance-notification-info-page = Rādīt vairāk
+default-browser-guidance-notification-dismiss = Gatavs
