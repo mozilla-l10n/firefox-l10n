@@ -26,5 +26,15 @@ default-browser-prompt-button-secondary = Most nem
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = A { -brand-short-name } alapértelmezetté tételének befejezése
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    1. lépés: Ugorjon a Beállítások > Alapértelmezett alkalmazásokhoz
+    2. lépés: Görgessen le a „Webböngésző” részhez
+    3. lépés: Válassza a { -brand-short-name } lehetőséget
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    1. lépés: Ugorjon a Beállítások > Alapértelmezett alkalmazásokhoz
+    2. lépés: Válassza az „Alaphelyzet” lehetőséget a { -brand-short-name }hoz
 default-browser-guidance-notification-info-page = Megjelenítés
 default-browser-guidance-notification-dismiss = Kész

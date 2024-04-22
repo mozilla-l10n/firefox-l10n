@@ -289,6 +289,7 @@ newtab-wallpaper-dark-aurora = Sarki fény
 newtab-wallpaper-dark-color = Vörös és kék alakzatok
 newtab-wallpaper-dark-panda = Vörös panda elrejtve az erdőben
 newtab-wallpaper-dark-sky = Városi táj éjszakai égbolttal
+newtab-wallpaper-dark-mountain = Hegyvidéki táj
 newtab-wallpaper-dark-city = Lila városi táj
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
