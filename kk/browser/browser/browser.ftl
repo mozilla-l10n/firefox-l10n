@@ -908,6 +908,7 @@ data-reporting-notification-button =
     .accesskey = М
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Жекелік шолу
+content-analysis-panel-title = Деректерді қорғау
 
 ## Unified extensions (toolbar) button
 
