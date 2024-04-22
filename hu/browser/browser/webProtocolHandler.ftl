@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = Az e-mail-hivatkozásoka
 protocolhandler-mailto-handler-yes-confirm = A(z) { $url } mostantól az alapértelmezett webhely a levélküldési hivatkozások megnyitásához.
 protocolhandler-mailto-handler-set-message = Mindig a(z) <strong>{ $url } legyen használva a  { -brand-short-name }ban</strong>, ha olyan hivatkozásra kattint, amely megnyitja a levelezését?
 protocolhandler-mailto-handler-confirm-message = A <strong>{ -brand-short-name }ban megnyitott { $url }</strong> a számítógépe alapértelmezett levelezéskezelője.
+protocolhandler-mailto-handler-set = Mindig a <strong>{ -brand-short-name }ot használja a(z) { $url } megnyitásához</strong>, ha olyan hivatkozásra kattint, amely megnyitja a levelezését?
 protocolhandler-mailto-handler-confirm = A <strong>{ -brand-short-name } megnyitja a(z) { $url } címet</strong> minden egyes alkalommal, amikor e-mail-küldő hivatkozásra kattint.
 
 ##
