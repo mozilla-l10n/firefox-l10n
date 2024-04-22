@@ -58,13 +58,13 @@ contentanalysis-invalid-agent-signature-message = Nem sikerült az aláírás-el
 contentanalysis-block-dialog-title-upload-file = Ezt a fájlt nem töltheti fel
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
-contentanalysis-block-dialog-body-upload-file = A szervezete adatvédelmi irányelvei értelmében nem töltheti fel a(z) „{ $filename }” fájlt. További információkért forduljon a rendszergazdához.
+contentanalysis-block-dialog-body-upload-file = A szervezete adatbiztonsági irányelvei értelmében nem töltheti fel a(z) „{ $filename }” fájlt. További információkért forduljon a rendszergazdához.
 contentanalysis-block-dialog-title-clipboard = Ezt a tartalmat nem illesztheti be
-contentanalysis-block-dialog-body-clipboard = A szervezete adatvédelmi irányelvei értelmében nem illesztheti be ezt a tartalmat. További információkért forduljon a rendszergazdához.
+contentanalysis-block-dialog-body-clipboard = A szervezete adatbiztonsági irányelvei értelmében nem illesztheti be ezt a tartalmat. További információkért forduljon a rendszergazdához.
 contentanalysis-block-dialog-title-dropped-text = Ezt a tartalmat nem húzhatja ide
-contentanalysis-block-dialog-body-dropped-text = A szervezete adatvédelmi irányelvei értelmében nem húzhatja ide ezt a tartalmat. További információkért forduljon a rendszergazdához.
+contentanalysis-block-dialog-body-dropped-text = A szervezete adatbiztonsági irányelvei értelmében nem húzhatja ide ezt a tartalmat. További információkért forduljon a rendszergazdához.
 contentanalysis-block-dialog-title-print = Ezt a dokumentumot nem nyomtathatja ki
-contentanalysis-block-dialog-body-print = A szervezete adatvédelmi irányelvei értelmében nem nyomtathatja ki ezt a dokumentumot. További információkért forduljon a rendszergazdához.
+contentanalysis-block-dialog-body-print = A szervezete adatbiztonsági irányelvei értelmében nem nyomtathatja ki ezt a dokumentumot. További információkért forduljon a rendszergazdához.
 contentanalysis-inprogress-quit-title = Kilépés a { -brand-shorter-name }ból?
 contentanalysis-inprogress-quit-message = Számos művelet van folyamatban. Ha kilép a { -brand-shorter-name }ból, akkor ezek a műveletek nem fejeződnek be.
 contentanalysis-inprogress-quit-yesbutton = Igen, kilépés
