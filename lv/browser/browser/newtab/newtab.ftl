@@ -292,3 +292,7 @@ newtab-wallpaper-dark-panda = Sarkanā panda paslēpta mežā
 newtab-wallpaper-dark-sky = Pilsētas ainava ar nakts debesīm
 newtab-wallpaper-dark-mountain = Ainavisks kalns
 newtab-wallpaper-dark-city = Violeta pilsētas ainava
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Fotografēja <a data-l10n-name="name-link">{ $author_string }</a>, vietne <a data-l10n-name="webpage-link">{ $webpage_string }</a>
