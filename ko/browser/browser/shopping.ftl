@@ -180,7 +180,7 @@ shopping-survey-next-button-label = 다음
 shopping-survey-submit-button-label = 제출
 shopping-survey-terms-link = 사용 약관
 shopping-survey-thanks =
-    .heading = 피드백 주셔서 감사합니다!
+    .heading = 의견을 보내 주셔서 감사합니다!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
