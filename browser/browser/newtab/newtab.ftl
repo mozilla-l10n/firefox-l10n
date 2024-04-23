@@ -296,3 +296,7 @@ newtab-wallpaper-dark-panda = Panda coch wedi'i guddio yn y goedwig
 newtab-wallpaper-dark-sky = Tirwedd y ddinas gydag awyr y nos
 newtab-wallpaper-dark-mountain = Tirwedd mynydd
 newtab-wallpaper-dark-city = Tirwedd dinas borffor
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Llun gan <a data-l10n-name="name-link">{ $author_string }</a> ar <a data-l10n-name="webpage-link">{ $webpage_string }</a>
