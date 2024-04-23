@@ -6,10 +6,6 @@ contentanalysis-alert-title = Indholdsanalyse
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Værktøjet til indholdsanalyse er længe om at svare for ressourcen "{ $content }"
-contentanalysis-slow-agent-dialog-title = Indholdsanalyse er i gang
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Indholdsanalyse analyserer ressourcen "{ $content }"
 contentanalysis-slow-agent-dialog-header = Skanning undervejs
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -55,6 +51,15 @@ contentanalysis-no-agent-connected-message = Kunne ikke oprette forbindelse til 
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Kunne ikke verificere signaturen for { $agent }. Overførsel blev nægtet for ressourcen { $content }.
+contentanalysis-block-dialog-title-upload-file = Du har ikke tilladelse til at uploade denne fil
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file =
+    Din organisations politik for databeskyttelse tillader ikke, at du uploader filen "{ $filename }".
+    Kontakt din administrator for at få mere at vide.
+contentanalysis-block-dialog-title-clipboard = Du har ikke tilladelse til at indsætte dette indhold.
+contentanalysis-block-dialog-body-clipboard = Din organisations politik for databeskyttelse tillader ikke, at du indsætter dette indhold. Kontakt din administrator for at få mere at vide.
+contentanalysis-block-dialog-title-dropped-text = Du har ikke tilladelse til at slippe dette indhold
 contentanalysis-inprogress-quit-title = Afslut { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Flere handlinger er i gang. Hvis du afslutter { -brand-shorter-name }, vil disse handlinger ikke blive fuldført.
 contentanalysis-inprogress-quit-yesbutton = Ja, afslut
