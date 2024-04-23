@@ -50,6 +50,7 @@ account-send-tab-to-device-verify = Verifica questo account…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "uppercase") }
+account-connection-title-2 = Account
 
 # Variables:
 #   $deviceName (String): the name of the new device

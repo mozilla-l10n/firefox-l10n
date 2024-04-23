@@ -72,6 +72,7 @@ policy-DisableEncryptedClientHello = Disattiva la funzione TLS Encrypted Client 
 policy-DisableFeedbackCommands = Disattiva i comandi per inviare feedback dal menu Aiuto (“Invia feedback…” e “Segnala un sito ingannevole…”).
 
 policy-DisableFirefoxAccounts = Disattiva i servizi basati sugli { -fxaccount-brand-name }, incluso Sync.
+policy-DisableFirefoxAccounts1 = Disattiva i servizi basati su account, incluso Sync.
 
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Disattiva Firefox Screenshots.
