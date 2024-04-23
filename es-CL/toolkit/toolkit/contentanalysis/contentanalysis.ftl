@@ -18,6 +18,9 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } está revisando lo
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está revisando el texto que has soltado según las políticas de datos de tu organización. Esto puede tomar un tiempo.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } está revisando lo que has imprimido según las políticas de datos de tu organización. Esto puede tomar un tiempo.
 contentanalysis-operationtype-clipboard = portapapeles
 contentanalysis-operationtype-dropped-text = texto descartado
 contentanalysis-operationtype-print = imprimir
@@ -53,9 +56,15 @@ contentanalysis-no-agent-connected-message = No se pudo conectar con { $agent }.
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Verificación de firma fallida para { $agent }. Transferencia denegada para el recurso: { $content }.
 contentanalysis-block-dialog-title-upload-file = No tienes permiso para subir este archivo
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Según las políticas de protección de datos de tu organización, no tienes permitido subir el archivo "{ $filename }". Ponte en contacto con tu administrador para obtener más información.
 contentanalysis-block-dialog-title-clipboard = No tienes permitido pegar este contenido.
+contentanalysis-block-dialog-body-clipboard = Según las políticas de protección de datos de tu organización, no tienes permitido pegar este contenido. Ponte en contacto con tu administrador para obtener más información.
 contentanalysis-block-dialog-title-dropped-text = No tienes permitido soltar este contenido.
+contentanalysis-block-dialog-body-dropped-text = Según las políticas de protección de datos de tu organización, no tienes permitido arrastrar y soltar este contenido. Ponte en contacto con tu administrador para obtener más información.
 contentanalysis-block-dialog-title-print = No tienes permitido imprimir este documento.
+contentanalysis-block-dialog-body-print = Según las políticas de protección de datos de tu organización, no tienes permitido imprimir este documento. Ponte en contacto con tu administrador para obtener más información.
 contentanalysis-inprogress-quit-title = ¿Salir de { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Varias acciones están en curso. Si sales de { -brand-shorter-name }, estas acciones no serán completadas.
 contentanalysis-inprogress-quit-yesbutton = Sí, salir
