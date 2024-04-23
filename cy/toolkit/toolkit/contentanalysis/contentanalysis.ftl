@@ -6,10 +6,6 @@ contentanalysis-alert-title = Dadansoddi Cynnwys
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Mae'r teclyn Dadansoddi Cynnwys yn cymryd amser hir i ymateb ynghylch adnodd “{ $content }”
-contentanalysis-slow-agent-dialog-title = Wrthi'n dadansoddi cynnwys
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Mae Dadansoddi Cynnwys yn dadansoddi adnodd “{ $content }”
 contentanalysis-slow-agent-dialog-header = Wrthi'n sganio
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -22,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = Mae { $agent } yn asesu'r hyn
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = Mae { $agent } yn asesu'r testun rydych wedi'i ollwng yn erbyn polisïau data eich sefydliad. Gall hyn gymryd ychydig o amser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = Mae { $agent } yn adolygu'r hyn a argraffwyd gennych yn erbyn polisïau data eich sefydliad. Gall hyn gymryd ychydig amser.
 contentanalysis-operationtype-clipboard = clipfwrdd
 contentanalysis-operationtype-dropped-text = testun wedi'i ostwng
+contentanalysis-operationtype-print = argraffu
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = llwytho “{ $filename }” i fyny
 contentanalysis-warndialogtitle = Gall y cynnwys hwn fod yn anniogel
@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = Methu cysylltu â { $agent }. Gwrth
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Methwyd â dilysu llofnod ar gyfer { $agent }. Gwrthodwyd trosglwyddo adnodd: { $content }.
+contentanalysis-block-dialog-title-upload-file = Nid oes caniatâd i chi lwytho'r ffeil hon
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi lwytho’r ffeil “{ $filename }”. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
+contentanalysis-block-dialog-title-clipboard = Nid oes caniatâd i chi ludo'r ffeil hon
+contentanalysis-block-dialog-body-clipboard = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi ludo'r cynnwys hwn. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
+contentanalysis-block-dialog-title-dropped-text = Nid oes caniatâd i chi ollwng y cynnwys hwn
+contentanalysis-block-dialog-body-dropped-text = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi lusgo a gollwng y cynnwys hwn. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
+contentanalysis-block-dialog-title-print = Nid oes caniatâd i chi argraffu'r ddogfen hon
+contentanalysis-block-dialog-body-print = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi argraffu’r ddogfen hon. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
 contentanalysis-inprogress-quit-title = Gadael { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Mae nifer o gamau gweithredu ar waith. Os byddwch yn gadael { -brand-shorter-name }, ni fydd y gweithredoedd hyn yn cael eu cwblhau.
 contentanalysis-inprogress-quit-yesbutton = Iawn, gadael
