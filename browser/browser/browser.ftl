@@ -911,6 +911,15 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privat browsing
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Forebyggelse af datatab (DLP) fra { $agentName }. Klik for at se mere info.
+content-analysis-panel-title = Databeskyttelse
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Din organisation bruger { $agentName } til at beskytte mod tab af data. <a data-l10n-name="info">Læs mere</a>
 
 ## Unified extensions (toolbar) button
 

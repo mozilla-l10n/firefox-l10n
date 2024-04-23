@@ -18,6 +18,9 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } gennemgår, om det
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } undersøger, om teksten du har sluppet overholder din organisations data-politikker. Dette kan tage lidt tid.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } gennemgår din udskrift på baggrund af din organisations datapolitik. Dette kan tage et øjeblik.
 contentanalysis-operationtype-clipboard = udklipsholder
 contentanalysis-operationtype-dropped-text = sluppet tekst
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -60,6 +63,8 @@ contentanalysis-block-dialog-body-upload-file =
 contentanalysis-block-dialog-title-clipboard = Du har ikke tilladelse til at indsætte dette indhold.
 contentanalysis-block-dialog-body-clipboard = Din organisations politik for databeskyttelse tillader ikke, at du indsætter dette indhold. Kontakt din administrator for at få mere at vide.
 contentanalysis-block-dialog-title-dropped-text = Du har ikke tilladelse til at slippe dette indhold
+contentanalysis-block-dialog-body-dropped-text = Din organisations politik for databeskyttelse tillader ikke, at du slipper dette indhold. Kontakt din administrator for at få mere at vide.
+contentanalysis-block-dialog-title-print = Du har ikke tilladelse til at udskrive dette dokument
 contentanalysis-inprogress-quit-title = Afslut { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Flere handlinger er i gang. Hvis du afslutter { -brand-shorter-name }, vil disse handlinger ikke blive fuldført.
 contentanalysis-inprogress-quit-yesbutton = Ja, afslut
