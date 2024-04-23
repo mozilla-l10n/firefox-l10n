@@ -263,9 +263,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsorerede genveje
 newtab-custom-pocket-title = Anbefalet af { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Interessant indhold udvalgt af { -pocket-brand-name }, en del af { -brand-product-name }-familien
-newtab-custom-pocket-toggle =
-    .label = Anbefalet af { -pocket-brand-name }
-    .description = Interessant indhold udvalgt af { -pocket-brand-name }, en del af { -brand-product-name }-familien
 newtab-custom-stories-toggle =
     .label = Anbefalede historier
     .description = Interessant indhold udvalgt af { -brand-product-name }-holdet
@@ -278,3 +275,6 @@ newtab-custom-recent-toggle =
     .description = Et udvalg af seneste websteder og indhold
 newtab-custom-close-button = Luk
 newtab-custom-settings = Håndter flere indstillinger
+
+## New Tab Wallpapers
+
