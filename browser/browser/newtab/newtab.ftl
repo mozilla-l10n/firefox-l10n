@@ -278,3 +278,21 @@ newtab-custom-settings = Håndter flere indstillinger
 
 ## New Tab Wallpapers
 
+newtab-wallpaper-title = Baggrunde
+newtab-wallpaper-reset = Nulstil til standard
+newtab-wallpaper-light-red-panda = Rød panda
+newtab-wallpaper-light-mountain = Hvidt bjerg
+newtab-wallpaper-light-sky = Himmel med lilla og lyserøde skyer
+newtab-wallpaper-light-color = Blå, lyserøde og gule former
+newtab-wallpaper-light-landscape = Bjerglandskab med blå tåge
+newtab-wallpaper-light-beach = Strand med palme
+newtab-wallpaper-dark-aurora = Nordlys
+newtab-wallpaper-dark-color = Røde og blå former
+newtab-wallpaper-dark-panda = Rød panda skjult i en skov
+newtab-wallpaper-dark-sky = Udsigt over by med nattehimmel
+newtab-wallpaper-dark-mountain = Bjerglandskab
+newtab-wallpaper-dark-city = Lilla bylandskab
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto af <a data-l10n-name="name-link">{ $author_string }</a> fra <a data-l10n-name="webpage-link">{ $webpage_string }</a>

@@ -21,3 +21,10 @@ default-browser-prompt-message-alt = Altid høj hastighed, sikkerhed og beskytte
 default-browser-prompt-button-primary-alt = Angiv som standard-browser
 default-browser-prompt-checkbox-not-again-label = Vis ikke denne besked igen
 default-browser-prompt-button-secondary = Ikke nu
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-info-page = Vis mig hvordan
+default-browser-guidance-notification-dismiss = Færdig
