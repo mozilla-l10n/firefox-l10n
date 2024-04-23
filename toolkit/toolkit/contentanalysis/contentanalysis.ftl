@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = Nedá sa pripojiť k agentovi { $ag
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Overenie podpisu pre agenta { $agent } zlyhalo. Prenos bol odmietnutý pre tento zdroj: { $content }.
+contentanalysis-block-dialog-title-upload-file = Nemáte oprávnenie nahrať tento súbor
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Podľa pravidiel ochrany údajov vašej organizácie nie je povolené nahrať súbor “{ $filename }”. Ďalšie informácie získate od svojho správcu.
+contentanalysis-block-dialog-title-clipboard = Nemáte oprávnenie prilepiť tento obsah
+contentanalysis-block-dialog-body-clipboard = Podľa pravidiel ochrany údajov vašej organizácie nemáte povolené prilepiť tento obsah. Ďalšie informácie získate od svojho správcu.
+contentanalysis-block-dialog-title-dropped-text = Nemáte oprávnenie pretiahnuť tento obsah
+contentanalysis-block-dialog-body-dropped-text = Podľa pravidiel ochrany údajov vašej organizácie nemáte oprávnenie presúvať tento obsah myšou. Ďalšie informácie získate od svojho správcu.
+contentanalysis-block-dialog-title-print = Nemáte oprávnenie na tlač tohto dokumentu
+contentanalysis-block-dialog-body-print = Podľa pravidiel ochrany údajov vašej organizácie nemáte oprávnenie na tlač tohto dokumentu. Ďalšie informácie získate od svojho správcu.
 contentanalysis-inprogress-quit-title = Ukončiť { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Prebiehajú viaceré akcie. Ak teraz { -brand-shorter-name(case: "acc") } ukončíte, tieto akcie nebudú dokončené.
 contentanalysis-inprogress-quit-yesbutton = Áno, ukončiť

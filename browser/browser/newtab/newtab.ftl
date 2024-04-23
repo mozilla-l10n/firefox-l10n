@@ -275,7 +275,7 @@ newtab-custom-settings = Ďalšie nastavenia
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Tapety
-newtab-wallpaper-reset = Nastaviť na predvolené
+newtab-wallpaper-reset = Obnoviť predvolenú tapetu
 newtab-wallpaper-light-red-panda = Červená panda
 newtab-wallpaper-light-mountain = Biela hora
 newtab-wallpaper-light-sky = Obloha s fialovými a ružovými oblakmi
@@ -285,10 +285,10 @@ newtab-wallpaper-light-beach = Pláž s palmou
 newtab-wallpaper-dark-aurora = Polárna žiara
 newtab-wallpaper-dark-color = Červené a modré tvary
 newtab-wallpaper-dark-panda = Panda červená ukrytá v lese
-newtab-wallpaper-dark-sky = Mestská krajina s nočnou oblohou
+newtab-wallpaper-dark-sky = Mestská scenéria s nočnou oblohou
 newtab-wallpaper-dark-mountain = Horská scenéria
-newtab-wallpaper-dark-city = Fialová mestská krajina
+newtab-wallpaper-dark-city = Fialová mestská scenéria
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
-newtab-wallpaper-attribution = Fotografia od autora <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-attribution = Autor fotografie: <a data-l10n-name="name-link">{ $author_string }</a>, zdroj: <a data-l10n-name="webpage-link">{ $webpage_string }</a>
