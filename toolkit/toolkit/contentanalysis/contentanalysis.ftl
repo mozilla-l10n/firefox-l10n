@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = 無法連線至 { $agent }。拒絕
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = { $agent } 的簽章驗證失敗。拒絕傳輸下列資源：{ $content }。
+contentanalysis-block-dialog-title-upload-file = 您未被允許上傳此檔案
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = 根據您組織的資料保護政策，您未被允許上傳檔案「{ $filename }」。若需更多資訊，請聯絡您的管理員。
+contentanalysis-block-dialog-title-clipboard = 您未被允許貼上此內容
+contentanalysis-block-dialog-body-clipboard = 根據您組織的資料保護政策，您未被允許貼上此內容。若需更多資訊，請聯絡您的管理員。
+contentanalysis-block-dialog-title-dropped-text = 您未被允許放下此內容
+contentanalysis-block-dialog-body-dropped-text = 根據您組織的資料保護政策，您未被允許拖放此內容。若需更多資訊，請聯絡您的管理員。
+contentanalysis-block-dialog-title-print = 您未被允許列印此文件
+contentanalysis-block-dialog-body-print = 根據您組織的資料保護政策，您未被允許列印此文件。若需更多資訊，請聯絡您的管理員。
 contentanalysis-inprogress-quit-title = 要離開 { -brand-shorter-name } 嗎？
 contentanalysis-inprogress-quit-message = 有幾項操作正在進行中，若您現在離開 { -brand-shorter-name }，將不會完成這些操作。
 contentanalysis-inprogress-quit-yesbutton = 對，離開
