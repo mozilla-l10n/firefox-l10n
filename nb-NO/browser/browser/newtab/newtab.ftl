@@ -261,9 +261,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsede snarveier
 newtab-custom-pocket-title = Anbefalt av { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Eksepsjonelt innhold satt sammen av { -pocket-brand-name }, en del av { -brand-product-name }-familien
-newtab-custom-pocket-toggle =
-    .label = Anbefalt av { -pocket-brand-name }
-    .description = Eksepsjonelt innhold satt sammen av { -pocket-brand-name }, en del av { -brand-product-name }-familien
 newtab-custom-stories-toggle =
     .label = Anbefalte artikler
     .description = Enestående innhold kuratert av { -brand-product-name }-familien
@@ -276,3 +273,13 @@ newtab-custom-recent-toggle =
     .description = Et utvalg av nylige nettsteder og innhold
 newtab-custom-close-button = Lukk
 newtab-custom-settings = Behandle flere innstillinger
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Bakgrunnsbilder
+newtab-wallpaper-reset = Tilbakestill til standard
+newtab-wallpaper-light-red-panda = Rødpanda
+newtab-wallpaper-light-mountain = Hvitt fjell
+newtab-wallpaper-light-sky = Himmel med lilla og rosa skyer
+newtab-wallpaper-light-color = Blå, rosa og gule former
+newtab-wallpaper-light-landscape = Blå tåke fjellandskap
