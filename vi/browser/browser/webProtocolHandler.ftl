@@ -14,6 +14,7 @@ protocolhandler-mailto-handler-notificationbox-always = Luôn mở liên kết e
 protocolhandler-mailto-handler-yes-confirm = { $url } hiện là trang web mặc định của bạn để mở các liên kết gửi email.
 protocolhandler-mailto-handler-set-message = Sử dụng <strong>{ $url } trong { -brand-short-name }</strong> mỗi khi bạn nhấp vào liên kết mở email của bạn?
 protocolhandler-mailto-handler-confirm-message = <strong>{ $url } trong { -brand-short-name }</strong> bây giờ là trình xử lý email mặc định trên máy tính của bạn.
+protocolhandler-mailto-handler-set = Sử dụng <strong>{ -brand-short-name } để mở { $url }</strong> mỗi khi bạn nhấp vào liên kết mở email của bạn?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } sẽ mở { $url }</strong> mỗi khi bạn nhấp vào liên kết gửi email.
 
 ##
