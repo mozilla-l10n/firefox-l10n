@@ -273,3 +273,24 @@ newtab-custom-recent-toggle =
     .description = Tuyển chọn các trang và nội dung gần đây
 newtab-custom-close-button = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Hình nền
+newtab-wallpaper-reset = Đặt lại về mặc định
+newtab-wallpaper-light-red-panda = Gấu trúc đỏ
+newtab-wallpaper-light-mountain = Núi trắng
+newtab-wallpaper-light-sky = Bầu trời với những đám mây màu tím và hồng
+newtab-wallpaper-light-color = Hình dạng màu xanh, hồng và vàng
+newtab-wallpaper-light-landscape = Phong cảnh núi sương mù xanh
+newtab-wallpaper-light-beach = Bãi biển có cây cọ
+newtab-wallpaper-dark-aurora = Cực quang
+newtab-wallpaper-dark-color = Hình dạng màu đỏ và màu xanh
+newtab-wallpaper-dark-panda = Gấu trúc đỏ ẩn trong rừng
+newtab-wallpaper-dark-sky = Cảnh quan thành phố với bầu trời đêm
+newtab-wallpaper-dark-mountain = Phong cảnh núi
+newtab-wallpaper-dark-city = Phong cảnh thành phố màu tím
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Hình ảnh bởi <a data-l10n-name="name-link">{ $author_string }</a> trên <a data-l10n-name="webpage-link">{ $webpage_string }</a>
