@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Tốc độ, an toàn và quyền riêng t�
 default-browser-prompt-button-primary-alt = Đặt làm trình duyệt mặc định
 default-browser-prompt-checkbox-not-again-label = Không hiển thị lại thông báo này
 default-browser-prompt-button-secondary = Không phải bây giờ
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Hoàn tất việc đặt { -brand-short-name } làm mặc định cho bạn
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Bước 1: Đi tới Cài đặt > Ứng dụng mặc định
+    Bước 2: Cuộn xuống đến “Trình duyệt Web”
+    Bước 3: Chọn { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Bước 1: Đi tới Cài đặt > Ứng dụng mặc định
+    Bước 2: Chọn “Đặt làm mặc định” cho { -brand-short-name }
+default-browser-guidance-notification-info-page = Hiển thị cho tôi
+default-browser-guidance-notification-dismiss = Xong
