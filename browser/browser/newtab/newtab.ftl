@@ -283,3 +283,14 @@ newtab-wallpaper-light-mountain = Hvitt fjell
 newtab-wallpaper-light-sky = Himmel med lilla og rosa skyer
 newtab-wallpaper-light-color = Blå, rosa og gule former
 newtab-wallpaper-light-landscape = Blå tåke fjellandskap
+newtab-wallpaper-light-beach = Strand med palmetre
+newtab-wallpaper-dark-aurora = Nordlys
+newtab-wallpaper-dark-color = Røde og blå former
+newtab-wallpaper-dark-panda = Rødpanda gjemt i skogen
+newtab-wallpaper-dark-sky = Bylandskap med nattehimmel
+newtab-wallpaper-dark-mountain = Landskap fjell
+newtab-wallpaper-dark-city = Lilla bylandskap
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Bilde av <a data-l10n-name="name-link">{ $author_string }</a> på <a data-l10n-name="webpage-link">{ $webpage_string }</a>

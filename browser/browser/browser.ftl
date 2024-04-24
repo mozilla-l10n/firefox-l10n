@@ -908,6 +908,7 @@ data-reporting-notification-button =
     .accesskey = V
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privat nettlesing
+content-analysis-panel-title = Databeskyttelse
 
 ## Unified extensions (toolbar) button
 
