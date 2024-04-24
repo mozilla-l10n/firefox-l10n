@@ -55,9 +55,16 @@ contentanalysis-no-agent-connected-message = Kan ikke koble til { $agent }. Over
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Mislykket signaturverifisering for { $agent }. Overføring avvist for ressurs: { $content }.
-contentanalysis-block-dialog-title-upload-file = Du har ikke rettighet til å laste opp denne filen
+contentanalysis-block-dialog-title-upload-file = Du har ikke tillatelse til å laste opp denne filen
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = I henhold til organisasjonens retningslinjer for databeskyttelse har du ikke tillatelse til å laste opp filen «{ $filename }». Kontakt administratoren din for mer informasjon.
 contentanalysis-block-dialog-title-clipboard = Du har ikke tillatelse til å lime inn dette innholdet
+contentanalysis-block-dialog-body-clipboard = I henhold til organisasjonens retningslinjer for databeskyttelse har du ikke tillatelse til å lime inn dette innholdet. Kontakt administratoren din for mer informasjon.
 contentanalysis-block-dialog-title-dropped-text = Du har ikke tillatelse til å dra og slippe dette innholdet
+contentanalysis-block-dialog-body-dropped-text = I henhold til organisasjonens retningslinjer for databeskyttelse har du ikke tillatelse til å dra og slippe dette innholdet. Kontakt administratoren din for mer informasjon.
+contentanalysis-block-dialog-title-print = Du har ikke tillatelse til å skrive ut dette dokumentet
+contentanalysis-block-dialog-body-print = I henhold til organisasjonens retningslinjer for databeskyttelse har du ikke tillatelse til å skrive ut dette dokumentet. Kontakt administratoren din for mer informasjon.
 contentanalysis-inprogress-quit-title = Avslutte { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Flere handlinger pågår. Hvis du avslutter { -brand-shorter-name }, vil disse handlingene ikke bli fullført.
 contentanalysis-inprogress-quit-yesbutton = Ja, avslutt
