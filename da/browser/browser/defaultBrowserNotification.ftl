@@ -26,6 +26,7 @@ default-browser-prompt-button-secondary = Ikke nu
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = Færdiggør opsætningen af { -brand-short-name } som din standard-browser
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
     Trin 1: Gå til Indstillinger > Standardapps
