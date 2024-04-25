@@ -60,5 +60,5 @@ appmenu-tab-hide-controlled =
     .label = Gizli sekmelerinize ulaşın
     .buttonlabel = Sekmeler gizli kalsın
     .buttonaccesskey = S
-    .secondarybuttonlabel = Eklentiyi etkisizleştir
-    .secondarybuttonaccesskey = E
+    .secondarybuttonlabel = Uzantıyı etkisizleştir
+    .secondarybuttonaccesskey = U

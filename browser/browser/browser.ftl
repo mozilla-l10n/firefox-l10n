@@ -641,7 +641,7 @@ reader-view-enter-button =
     .aria-label = Okuyucu Görünümü'ne geç
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
-    .aria-label = Okuyucu Görünümü'nü kapat
+    .aria-label = Okuyucu görünümünü kapat
 
 ## Picture-in-Picture urlbar button
 ## Variables:

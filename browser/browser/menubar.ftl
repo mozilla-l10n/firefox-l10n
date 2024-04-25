@@ -197,7 +197,7 @@ menu-view-enter-readerview =
     .accesskey = O
 # This should match reader-view-close-button in browser.ftl
 menu-view-close-readerview =
-    .label = Okuyucu Görünümü'nü kapat
+    .label = Okuyucu görünümünü kapat
     .accesskey = O
 
 ##
