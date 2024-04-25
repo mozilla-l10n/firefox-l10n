@@ -140,7 +140,7 @@ about-processes-utility-actor-windows-file-dialog = Windows dosya iletişim kutu
 
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
-    .title = Toplam CPU süresi: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+    .title = Toplam CPU süresi: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (ölçülüyor)
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
