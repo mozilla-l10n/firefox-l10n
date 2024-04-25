@@ -137,7 +137,7 @@ spotlight-peace-mind-header = Yanınızdayız
 spotlight-peace-mind-body = { -brand-short-name } her ay kullanıcı başına ortalama 3.000 takip kodunu engelliyor. Çünkü bizce hiçbir şey, özellikle takip kodları gibi can sıkıcı unsurlar, iyi bir internetle aranıza girmemeli.
 spotlight-pin-primary-button =
     { PLATFORM() ->
-        [macos] Dock’a sabitle
+        [macos] Dock’ta tut
        *[other] Görev çubuğuna sabitle
     }
 spotlight-pin-secondary-button = Şimdi değil
