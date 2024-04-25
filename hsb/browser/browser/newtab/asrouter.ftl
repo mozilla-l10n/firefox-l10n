@@ -67,6 +67,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizujće swoje zapołožki wšudźe.
 cfr-doorhanger-bookmark-fxa-body = Wulkotna namakanka! Njewostawajće bjez tuteje zapołožki na swojich mobilnych gratach. Započńće z { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Wulkotna namakanka! Njewostawajće bjez tuteje zapołožki na swojich mobilnych gratach. Započńće z kontom.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizujće nětko zapołožki…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tłóčatko Začinić
@@ -210,8 +211,6 @@ cfr-cbh-confirm-button = Plackowe chorhoje wotpokazać
     .accesskey = P
 cfr-cbh-dismiss-button = Nic nětko
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } je runje placki za was zablokował
-cookie-banner-blocker-cfr-body = Awtomatisce wotpokazujemy wjele plackowych wuskakowacych woknow, zo bychmy sydłam poćežili, wam slědować.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } je runje plackowy chorhoj za was wotpokazał
 cookie-banner-blocker-onboarding-body = Mjenje wotwjedźenjow, mjenje plackow, kotrež was na sydle přesćěhuja.
 cookie-banner-blocker-onboarding-learn-more = Dalše informacije

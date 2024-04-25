@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Wjacore rajtarki začinić
     .accesskey = W
+tab-context-close-duplicate-tabs =
+    .label = Dwójne rajtarki začinić
+    .accesskey = D
 tab-context-share-url =
     .label = Dźělić
     .accesskey = D
@@ -109,7 +112,6 @@ tab-context-move-tabs =
            *[other] { $tabCount } rajtarkow přesunyć
         }
     .accesskey = s
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
