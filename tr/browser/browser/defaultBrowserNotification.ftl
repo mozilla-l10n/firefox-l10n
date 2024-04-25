@@ -21,3 +21,11 @@ default-browser-prompt-message-alt = Her seferinde hızlı, güvenli ve gizli ge
 default-browser-prompt-button-primary-alt = Varsayılan tarayıcı yap
 default-browser-prompt-checkbox-not-again-label = Bu mesajı bir daha gösterme
 default-browser-prompt-button-secondary = Şimdi değil
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = { -brand-short-name }’u varsayılan tarayıcınız yapmayı tamamlayın
+default-browser-guidance-notification-info-page = Nasıl yapacağımı göster
+default-browser-guidance-notification-dismiss = Tamam

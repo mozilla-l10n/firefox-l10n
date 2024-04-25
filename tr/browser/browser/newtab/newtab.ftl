@@ -285,6 +285,7 @@ newtab-wallpaper-dark-aurora = Aurora Borealis
 newtab-wallpaper-dark-color = Kırmızı ve mavi şekiller
 newtab-wallpaper-dark-panda = Ormanda saklanan kızıl panda
 newtab-wallpaper-dark-sky = Gece gökyüzüyle şehir manzarası
+newtab-wallpaper-dark-mountain = Manzaralı dağ
 newtab-wallpaper-dark-city = Mor şehir manzarası
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
