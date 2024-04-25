@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Clauder plure schedas
     .accesskey = a
+tab-context-close-duplicate-tabs =
+    .label = Clauder schedas duplicate
+    .accesskey = u
 tab-context-share-url =
     .label = Compartir
     .accesskey = o
@@ -102,7 +105,6 @@ tab-context-move-tabs =
            *[other] Displaciar schedas
         }
     .accesskey = i
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

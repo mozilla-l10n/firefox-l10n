@@ -41,6 +41,8 @@ policy-DisableDefaultBrowserAgent = Impedir que le agente de navigator predefini
 policy-DisableDeveloperTools = Blocar le accesso al instrumentos del disveloppamento.
 policy-DisableFeedbackCommands = Disactivar le commandos pro submitter tu commentarios in le menu Adjuta (Submitter tu opinion e Denunciar sito fraudulente).
 policy-DisableFirefoxAccounts = Disactivar le servicios basate sur { -fxaccount-brand-name }, comprendite Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Disactiva servicios que require un conto, synchronisation incluse.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Disactivar le function Firefox Screenshots.
 policy-DisableFirefoxStudies = Impedir a { -brand-short-name } de exequer studios.
