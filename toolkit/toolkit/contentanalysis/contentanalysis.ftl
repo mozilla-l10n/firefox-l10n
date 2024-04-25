@@ -55,6 +55,11 @@ contentanalysis-no-agent-connected-message = { $agent } агентімен ба�
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = { $agent } агенті үшін қолтаңбаны растау сәтсіз аяқталды. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
+contentanalysis-block-dialog-title-clipboard = Бұл мазмұнды кірістіруге рұқсатыңыз жоқ
+contentanalysis-block-dialog-body-clipboard = Ұйымыңыздың деректерді қорғау саясаттарына сәйкес бұл мазмұнды кірістіруге рұқсат етілмейді. Қосымша ақпарат алу үшін әкімшіңізге хабарласыңыз.
+contentanalysis-block-dialog-title-dropped-text = Бұл мазмұнды тастауға рұқсатыңыз жоқ
+contentanalysis-block-dialog-body-dropped-text = Ұйымыңыздың деректерді қорғау саясаттарына сәйкес бұл мазмұнды ұстап әкеліп тастауға рұқсат етілмейді. Қосымша ақпарат алу үшін әкімшіңізге хабарласыңыз.
+contentanalysis-block-dialog-title-print = Бұл құжатты басып шығаруға рұқсатыңыз жоқ
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } жұмысын аяқтау керек пе?
 contentanalysis-inprogress-quit-message = Бірнеше әрекет әлі орындалып жатыр. { -brand-shorter-name } жұмысын аяқтасаңыз, бұл әрекеттер аяқталмайтын болады.
 contentanalysis-inprogress-quit-yesbutton = Иә, шығу
