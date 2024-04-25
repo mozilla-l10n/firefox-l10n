@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisa tu marcapaginas ubique.
 cfr-doorhanger-bookmark-fxa-body = Grande discoperta! Ora non resta sin iste marcapagina sur tu apparatos mobile. Comencia con un { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Grande discoperta! Ora non resta sin iste marcapagina sur tu apparatos mobile. Comencia con un conto.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronisar marcapaginas ora…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Button Clauder
@@ -204,8 +205,6 @@ cfr-cbh-confirm-button = Rejectar bandieras pro cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Non ora
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } justo blocava cookies pro te
-cookie-banner-blocker-cfr-body = Nos automaticamente refusa plure quadros resaltante de cookie pro render difficile pro le sitos traciar te.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ha justo refusate un bandiera pro cookie pro te
 cookie-banner-blocker-onboarding-body = Minus distractiones, minus cookies traciante te sur iste sito.
 cookie-banner-blocker-onboarding-learn-more = Pro saper plus
