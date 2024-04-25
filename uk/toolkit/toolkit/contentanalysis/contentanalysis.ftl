@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = Неможливо встанови
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Не вдалося перевірити підпис для { $agent }. Передавання заборонено для ресурсу: { $content }.
+contentanalysis-block-dialog-title-upload-file = Вам не дозволено вивантажувати цей файл
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Згідно з політикою захисту даних вашої організації, вам не дозволено вивантажувати файл “{ $filename }”. Зверніться до свого адміністратора для отримання подробиць.
+contentanalysis-block-dialog-title-clipboard = Вам не дозволено вставляти цей вміст
+contentanalysis-block-dialog-body-clipboard = Згідно з політикою захисту даних вашої організації, вам не дозволено вставляти цей вміст. Зверніться до свого адміністратора для отримання подробиць.
+contentanalysis-block-dialog-title-dropped-text = Вам не дозволено перетягувати цей вміст
+contentanalysis-block-dialog-body-dropped-text = Згідно з політикою захисту даних вашої організації, вам не дозволено перетягувати цей вміст. Зверніться до свого адміністратора для отримання подробиць.
+contentanalysis-block-dialog-title-print = Вам не дозволено друкувати цей документ
+contentanalysis-block-dialog-body-print = Згідно з політикою захисту даних вашої організації, вам не дозволено друкувати цей документ. Зверніться до свого адміністратора для отримання подробиць.
 contentanalysis-inprogress-quit-title = Вийти з { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Триває виконання кількох дій. Якщо ви вийдете з { -brand-shorter-name }, вони не будуть завершені.
 contentanalysis-inprogress-quit-yesbutton = Так, вийти
