@@ -76,7 +76,7 @@ deniedPortAccess-title = Bu adrese erişim kısıtlanmış
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Aradığınız siteyi bulamıyoruz.
-dns-not-found-trr-only-title2 = Bu alan adına ulaşılması güvenlik riski taşıyabilir
+dns-not-found-trr-only-title2 = Bu alan adının sorgulanması güvenlik riski taşıyabilir
 dns-not-found-native-fallback-title2 = Bu alan adının sorgulanması güvenlik riski taşıyabilir
 fileNotFound-title = Dosya bulunamadı
 fileAccessDenied-title = Dosyaya erişim reddedildi
