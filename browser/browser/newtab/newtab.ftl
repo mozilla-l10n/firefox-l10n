@@ -290,3 +290,7 @@ newtab-wallpaper-dark-panda = Орманда жасырылған қызыл п�
 newtab-wallpaper-dark-sky = Түнгі аспаны бар қала пейзажы
 newtab-wallpaper-dark-mountain = Таулы пейзаж
 newtab-wallpaper-dark-city = Күлгін қала пейзажы
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_string }</a> ішіндегі <a data-l10n-name="name-link">{ $author_string }</a>  ұсынған фото
