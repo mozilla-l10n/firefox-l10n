@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Förhindra att webbläsaren uppdateras.
 policy-DisableBuiltinPDFViewer = Inaktivera PDF.js, den inbyggda PDF-visaren i { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Förhindra att standardwebbläsaren agerar. Gäller endast Windows; andra plattformar har inte agenten.
 policy-DisableDeveloperTools = Blockera tillgång till utvecklarverktygen.
+policy-DisableEncryptedClientHello = Inaktivera användning av TLS-funktionen ECH (Encrypted Client Hello).
 policy-DisableFeedbackCommands = Inaktivera menyalternativen att skicka feedback från hjälpmenyn (Skicka in feedback och rapportera vilseledande webbplats).
 policy-DisableFirefoxAccounts = Inaktivera { -fxaccount-brand-name }-baserade tjänster, inklusive Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Inaktivera kontobaserade tjänster, inklusive synkronisering.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Inaktivera funktionen Firefox Screenshots
 policy-DisableFirefoxStudies = Förhindra { -brand-short-name } att genomföra studier.

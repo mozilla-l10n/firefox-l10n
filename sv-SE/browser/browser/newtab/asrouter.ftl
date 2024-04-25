@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Synkronisera dina bokmärken överallt.
 cfr-doorhanger-bookmark-fxa-body = Bra fynd! Saknar du bokmärket på dina mobila enheter. Kom igång med ett { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Bra fynd! Lämnas inte detta bokmärke på dina mobila enheter. Kom igång med ett konto.
 cfr-doorhanger-bookmark-fxa-link-text = Synkronisera bokmärken nu...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Stäng knapp
@@ -204,8 +205,6 @@ cfr-cbh-confirm-button = Avvisa kakbanners
     .accesskey = A
 cfr-cbh-dismiss-button = Inte nu
     .accesskey = n
-cookie-banner-blocker-cfr-header = { -brand-short-name } blockerade precis kakor åt dig
-cookie-banner-blocker-cfr-body = Vi vägrar automatiskt många popup-fönster för kakor för att göra det svårt för webbplatser att spåra dig.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } nekade precis en kakbanner åt dig
 cookie-banner-blocker-onboarding-body = Mindre distraktioner, färre kakor som spårar dig på den här webbplatsen.
 cookie-banner-blocker-onboarding-learn-more = Läs mer
