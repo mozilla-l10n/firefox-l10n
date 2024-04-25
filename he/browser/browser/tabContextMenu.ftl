@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = סגירת לשוניות מרובות
     .accesskey = מ
+tab-context-close-duplicate-tabs =
+    .label = סגירת לשוניות כפולות
+    .accesskey = כ
 tab-context-share-url =
     .label = שיתוף
     .accesskey = ש
@@ -101,7 +104,6 @@ tab-context-move-tabs =
            *[other] העברת לשוניות
         }
     .accesskey = ע
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
