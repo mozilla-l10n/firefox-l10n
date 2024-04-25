@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Stäng flera flikar
     .accesskey = f
+tab-context-close-duplicate-tabs =
+    .label = Stäng dubbletter av flikar
+    .accesskey = S
 tab-context-share-url =
     .label = Dela
     .accesskey = D
@@ -101,7 +104,6 @@ tab-context-move-tabs =
            *[other] Flytta flikar
         }
     .accesskey = t
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
