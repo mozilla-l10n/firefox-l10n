@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Synkroniser dine bogmærker overalt.
 cfr-doorhanger-bookmark-fxa-body = Vidste du, at du automatisk kan overføre nye bogmærker til din telefon eller tablet? Få en { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Godt fundet! Husk at du også kan synkronisere faneblade med dine mobile enheder. Opret en konto for at komme i gang.
 cfr-doorhanger-bookmark-fxa-link-text = Synkroniser bogmærker nu…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Luk-knap
@@ -203,8 +204,6 @@ cfr-cbh-confirm-button = Afvis cookie-bannere
     .accesskey = A
 cfr-cbh-dismiss-button = Ikke nu
     .accesskey = n
-cookie-banner-blocker-cfr-header = { -brand-short-name } har lige blokeret cookies for dig
-cookie-banner-blocker-cfr-body = Vi afviser automatisk mange cookie-bannere for at gøre det svært for websteder at spore dig.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } har lige afvist et cookie-banner for dig
 cookie-banner-blocker-onboarding-body = Færre distraktioner og færre cookies, der sporer dig på dette websted.
 cookie-banner-blocker-onboarding-learn-more = Læs mere

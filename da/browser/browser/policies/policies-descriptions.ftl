@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Deaktiver opdatering af browseren.
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, den indbyggede PDF-viser i { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Tillad ikke at standard browser-agenten foretager handlinger. Fungerer kun på Windows; andre platforme har ikke agenten.
 policy-DisableDeveloperTools = Bloker adgang til Udviklerværktøj.
+policy-DisableEncryptedClientHello = Deaktiver TLS-funktionen Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Deaktiver kommandoer til at indsende feedback fra menuen Hjælp (Indsend feedback og Anmeld vildledende websted).
 policy-DisableFirefoxAccounts = Deaktiver tjenester baseret på { -fxaccount-brand-name }, inklusive Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Deaktiver kontobaserede tjenester, inklusive synkronisering.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Deaktiver funktionen Firefox Screenshots
 policy-DisableFirefoxStudies = Deaktiver afvikling af { -brand-short-name }-undersøgelser.
