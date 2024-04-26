@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Rhwystro'r wefan rhag diweddaru.
 policy-DisableBuiltinPDFViewer = Analluogi PDF.js, y dangosydd PDF mewnol yn { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Atal asiant y porwr rhagosodedig rhag cymryd unrhyw gamau. Dim ond yn berthnasol i Windows; nid oes gan lwyfannau eraill yr asiant.
 policy-DisableDeveloperTools = Rhwystro mynediad at yr offer datblygwr.
+policy-DisableEncryptedClientHello = Analluogi defnydd o'r nodwedd TLS wedi'i Amgryptio Cleient Hello (ECH).
 policy-DisableFeedbackCommands = Analluogi gorchmynion rhag anfon adborth o'r ddewislen Cymorth (Cyflwyno Adborth ac Adrodd ar Wefan Dwyllodrus).
 policy-DisableFirefoxAccounts = Analluogi gwasanaethau'n seiliedig ar { -fxaccount-brand-name }, gan gynnwys Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Analluogi gwasanaethau sy'n seiliedig ar gyfrifon, gan gynnwys cydweddu.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Analluogi nodwedd Firefox Screenshots.
 policy-DisableFirefoxStudies = Rhwystro { -brand-short-name } rhag rhedeg astudiaethau.

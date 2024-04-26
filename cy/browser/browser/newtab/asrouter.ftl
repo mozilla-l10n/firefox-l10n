@@ -71,6 +71,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Cydweddu eich nodau tudalen ym mhob man
 cfr-doorhanger-bookmark-fxa-body = Mae hwn yn dda! Peidiwch bod heb y nod tudalen hon ar eich dyfeisiau symudol. Dechrau arni gyda { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Mae hwn yn dda! Peidiwch bod heb y nod tudalen hon ar eich dyfeisiau symudol. Dechreuwch arni gyda chyfrif
 cfr-doorhanger-bookmark-fxa-link-text = Cydweddu nodau tudalen nawr…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Cau botwm
@@ -216,8 +217,6 @@ cfr-cbh-confirm-button = Gwrthod baneri cwci
     .accesskey = G
 cfr-cbh-dismiss-button = Nid nawr
     .accesskey = N
-cookie-banner-blocker-cfr-header = Mae { -brand-short-name } newydd rwystro cwcis ar eich cyfer
-cookie-banner-blocker-cfr-body = Rydym yn gwrthod llawer o lamlenni cwcis yn awtomatig i'w gwneud hi'n anodd i wefannau eich tracio chi.
 cookie-banner-blocker-onboarding-header = Mae { -brand-short-name } newydd wrthod baner cwci drosoch chi
 cookie-banner-blocker-onboarding-body = Llai o darfu, llai o gwcis yn eich tracio ar y wefan hon.
 cookie-banner-blocker-onboarding-learn-more = Darllen rhagor
