@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sincronize seus favoritos em qualquer lugar.
 cfr-doorhanger-bookmark-fxa-body = Ótimo achado! Agora não fique sem este favorito nos seus dispositivos móveis. Comece com uma { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Ótimo achado! Agora não fique sem este favorito em seus dispositivos móveis. Comece criando uma conta.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizar favoritos agora…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botão fechar
@@ -204,8 +205,6 @@ cfr-cbh-confirm-button = Rejeitar avisos de cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Agora não
     .accesskey = n
-cookie-banner-blocker-cfr-header = O { -brand-short-name } acabou de bloquear cookies para você
-cookie-banner-blocker-cfr-body = Recusamos automaticamente muitos avisos de cookies para dificultar aos sites rastrear você.
 cookie-banner-blocker-onboarding-header = O { -brand-short-name } recusou um aviso de cookies para você
 cookie-banner-blocker-onboarding-body = Menos distrações, menos cookies rastreando você neste site.
 cookie-banner-blocker-onboarding-learn-more = Saiba mais
