@@ -22,3 +22,6 @@ confirmation-hint-send-to-device = 보냄!
 confirmation-hint-firefox-relay-mask-created = 새로운 가리기가 생성됨!
 confirmation-hint-firefox-relay-mask-reused = 기존 가리기 재사용됨!
 confirmation-hint-screenshot-copied = 스크린샷이 복사되었습니다!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed = 탭 { $tabCount }개 닫음
