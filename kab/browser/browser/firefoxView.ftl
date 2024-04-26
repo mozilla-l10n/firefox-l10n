@@ -236,3 +236,17 @@ firefoxview-recentlyclosed-empty-header = Tmedleḍ iccer ur tfaqqeḍ?
 
 firefoxview-syncedtabs-device-notabs = Ulac accaren yeldin ɣef yibenk-a
 firefoxview-syncedtabs-connect-another-device = Qqen ibenk-nniḍen
+firefoxview-pinned-tabs =
+    .title = Accaren i yettwarzin
+firefoxview-tabs =
+    .title = Tibzimin
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
