@@ -17,6 +17,8 @@ process-type-privilegedmozilla = ਰਿਆਇਤੀ ਮੌਜ਼ੀਲਾ ਸਮੱ
 process-type-extension = ਇਕਸਟੈਨਸ਼ਨ
 # process used to open file:// URLs
 process-type-file = ਲੋਕਲ ਫਾਈਲ
+# process used to instantiate new child processes
+process-type-forkserver = ਸਰਵਰ ਨੂੰ ਵੰਡੋ
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = ਨਿਖੇੜੀ ਵੈੱਬ ਸਮੱਗਰੀ
