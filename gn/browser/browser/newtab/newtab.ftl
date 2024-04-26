@@ -283,3 +283,14 @@ newtab-wallpaper-light-mountain = Yvyty morotĩ
 newtab-wallpaper-light-sky = Ára taijarai pytãũ ha pytãngy
 newtab-wallpaper-light-color = Ysaja hovy, pytãngy ja sa’yju
 newtab-wallpaper-light-landscape = Yvyty jehecha tatatina hovýva ndive
+newtab-wallpaper-light-beach = Yrembe’y jata’i ndive
+newtab-wallpaper-dark-aurora = Kuarahyresẽ yvategua
+newtab-wallpaper-dark-color = Ysaja pytã ha hovy
+newtab-wallpaper-dark-panda = Pánda pytã okañýva ñañandýpe
+newtab-wallpaper-dark-sky = Táva jehecha ára pytũmby ndive
+newtab-wallpaper-dark-mountain = Yvyty jehecha
+newtab-wallpaper-dark-city = Táva jehecha pytãũva
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Ta’ãnga <a data-l10n-name="name-link">{ $author_string }</a> <a data-l10n-name="webpage-link">{ $webpage_string }</a>-pe
