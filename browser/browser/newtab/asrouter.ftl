@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = ہر جاہ اپݨے بک مارکس سینک کرو
 cfr-doorhanger-bookmark-fxa-body = وݙی لبھت! ہݨ اپݨے موبائل آلات تے ایں نشانی دے بغیر نہ رہو۔ ہک { -fxaccount-brand-name } دے نال شروع کرو۔
+cfr-doorhanger-bookmark-fxa-body-2 = وݙی لبھت! ہݨ اپݨے موبائل آلات تے ایں نشانی دے بغیر نہ رہو۔ ہک کھاتے نال شروع کرو۔
 cfr-doorhanger-bookmark-fxa-link-text = ہݨ بک مارکس سینک کرو …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = بٹن بند کرو

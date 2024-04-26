@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = بھیڄ ݙتا ڳئے!
 confirmation-hint-firefox-relay-mask-created = نواں ماسک تخلیق تھیا!
 confirmation-hint-firefox-relay-mask-reused = موجودہ ماسک ولدا ورتیجا!
 confirmation-hint-screenshot-copied = سکرین شاٹ نقل تھی ڳیا!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] بند تھئی { $tabCount } ٹیب
+       *[other] بند تھیاں { $tabCount } ٹیباں
+    }
