@@ -21,3 +21,9 @@ default-browser-prompt-message-alt = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰ�
 default-browser-prompt-button-primary-alt = ਮੂਲ ਬਰਾਊਜ਼ਰ ਵਜੋਂ ਨਿਯਤ ਕਰੋ
 default-browser-prompt-checkbox-not-again-label = ਇਹ ਸੁਨੇਹਾ ਮੁੜ ਨਾ ਦਿਖਾਓ
 default-browser-prompt-button-secondary = ਹੁਣੇ ਨਹੀਂ
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਣਾਉਣਾ ਪੂਰਾ ਕਰੋ
