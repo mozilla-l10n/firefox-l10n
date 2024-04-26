@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Mear ljepblêden slute
     .accesskey = M
+tab-context-close-duplicate-tabs =
+    .label = Dûbele ljepblêden slute
+    .accesskey = u
 tab-context-share-url =
     .label = Diele
     .accesskey = e
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Ljepblêden ferpleatse
         }
     .accesskey = f
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

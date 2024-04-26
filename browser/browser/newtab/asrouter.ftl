@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Syngronisearje jo blêdwizers oeral.
 cfr-doorhanger-bookmark-fxa-body = Goed fûn! Soargje der no foar dat jo net sûnder blêdwizers sitte op jo mobile apparaten. Start no mei { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Goed fûn! Soargje der no foar dat jo net sûnder blêdwizers sitte op jo mobile apparaten. Start no mei in account.
 cfr-doorhanger-bookmark-fxa-link-text = Blêdwizers no syngronisearje…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Knop Slute
@@ -204,8 +205,6 @@ cfr-cbh-confirm-button = Cookiebanners wegerje
     .accesskey = w
 cfr-cbh-dismiss-button = No net
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } hat krekt cookies foar jo blokkearre
-cookie-banner-blocker-cfr-body = Wy wegerje automatysk in protte cookiepop-ups, om it foar websites swierder te meitsjen jo te folgjen.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } hat krekt in cookiebanner foar jo wegere
 cookie-banner-blocker-onboarding-body = Minder ôfliedingen, minder cookies dy’t jo folgje op dizze website.
 cookie-banner-blocker-onboarding-learn-more = Mear ynfo
