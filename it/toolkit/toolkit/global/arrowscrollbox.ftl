@@ -22,3 +22,4 @@ overflow-scroll-button-down =
     .tooltiptext = Scorri in basso
 overflow-scroll-button-forwards =
     .tooltiptext = Scorri avanti
+

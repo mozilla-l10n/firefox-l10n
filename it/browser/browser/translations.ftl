@@ -181,5 +181,3 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Chiudi
     .buttonaccesskeyaccept = C
-
-

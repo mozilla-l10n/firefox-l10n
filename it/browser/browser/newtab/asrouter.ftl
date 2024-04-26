@@ -279,3 +279,4 @@ tail-fox-spotlight-title = Liberati dai fastidiosi elementi traccianti
 tail-fox-spotlight-subtitle = Dì addio alle irritanti pubblicità che ti seguono ovunque e vivi Internet in modo più sicuro e veloce.
 tail-fox-spotlight-primary-button = Apri i miei link con { -brand-short-name }
 tail-fox-spotlight-secondary-button = Non adesso
+
