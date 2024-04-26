@@ -23,9 +23,6 @@
 ## Firefox Translations language management in about:preferences.
 
 translations-manage-download-button = डाउनलोड करें
-translations-manage-language-download-button =
-    .label = डाउनलोड करें
-    .accesskey = D
 translations-settings-close-key =
     .key = w
 translations-settings-sites-column =
