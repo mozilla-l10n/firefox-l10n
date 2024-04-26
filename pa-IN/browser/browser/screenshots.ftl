@@ -49,12 +49,31 @@ screenshots-too-large-error-details = ਸਭ ਤੋਂ ਲੰਮੇ ਪਾਸਿ
 screenshots-component-retry-button =
     .title = ਸਕਰੀਨਸ਼ਾਟ ਦੀ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ
     .aria-label = ਸਕਰੀਨਸ਼ਾਟ ਦੀ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] ਰੱਦ ਕਰੋ (esc)
+           *[other] ਰੱਦ ਕਰੋ (Esc)
+        }
+    .aria-label = ਰੱਦ ਕਰੋ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = ਕਾਪੀ ਕਰੋ ({ $shortcut })
+    .aria-label = ਕਾਪੀ ਕਰੋ
 screenshots-component-copy-button-label = ਕਾਪੀ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = ਡਾਊਨਲੋਡ ਕਰੋ ({ $shortcut })
+    .aria-label = ਡਾਊਨਲੋਡ ਕਰੋ
 screenshots-component-download-button-label = ਡਾਊਨਲੋਡ
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
@@ -64,3 +83,9 @@ screenshots-component-download-button-label = ਡਾਊਨਲੋਡ
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
 screenshots-overlay-selection-region-size-2 = { $width } x { $height }
+# This string represents the selection size area
+# "×" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-3 = { $width } × { $height }
