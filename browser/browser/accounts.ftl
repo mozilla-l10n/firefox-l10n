@@ -45,6 +45,9 @@ account-send-tab-to-device-verify = 계정 확인…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title-2 = 계정
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = 이 컴퓨터는 이제 { $deviceName }와 연결되었습니다.
