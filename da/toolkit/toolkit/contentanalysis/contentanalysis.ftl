@@ -23,6 +23,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } undersøger, om
 contentanalysis-slow-agent-dialog-body-print = { $agent } gennemgår din udskrift på baggrund af din organisations datapolitik. Dette kan tage et øjeblik.
 contentanalysis-operationtype-clipboard = udklipsholder
 contentanalysis-operationtype-dropped-text = sluppet tekst
+contentanalysis-operationtype-print = udskrift
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = upload af "{ $filename }"
 contentanalysis-warndialogtitle = Dette indhold kan være usikkert
@@ -65,6 +66,7 @@ contentanalysis-block-dialog-body-clipboard = Din organisations politik for data
 contentanalysis-block-dialog-title-dropped-text = Du har ikke tilladelse til at slippe dette indhold
 contentanalysis-block-dialog-body-dropped-text = Din organisations politik for databeskyttelse tillader ikke, at du slipper dette indhold. Kontakt din administrator for at få mere at vide.
 contentanalysis-block-dialog-title-print = Du har ikke tilladelse til at udskrive dette dokument
+contentanalysis-block-dialog-body-print = Din organisations politik for databeskyttelse tillader ikke, at du udskriver dette dokument. Kontakt din administrator for at få mere at vide.
 contentanalysis-inprogress-quit-title = Afslut { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Flere handlinger er i gang. Hvis du afslutter { -brand-shorter-name }, vil disse handlinger ikke blive fuldført.
 contentanalysis-inprogress-quit-yesbutton = Ja, afslut
