@@ -51,6 +51,9 @@ history-section-label = Azray
 item-history-and-downloads =
     .label = Azray n tunigin d yisadaren
     .accesskey = A
+item-history-form-data-downloads =
+    .label = Azray
+    .accesskey = A
 item-cookies =
     .label = Inagan n tuqqna
     .accesskey = I
@@ -83,6 +86,8 @@ sanitize-button-ok =
     .label = Sfeḍ Tura
 sanitize-button-ok2 =
     .label = Sfeḍ
+sanitize-button-ok-on-shutdown =
+    .label = Sekles asnifel
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

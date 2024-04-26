@@ -32,6 +32,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Af deg yiɣewwaren
 managed-notice = Iminig-ik tessefrak-it tuddsa-ik.
+managed-notice-info-icon =
+    .alt = Talɣut
 category-list =
     .aria-label = Taggayin
 pane-general-title = Amatu
@@ -616,6 +618,9 @@ search-suggestions-desc = Fren amek ara d-banen isumar deg yimseddayen n unadi.
 search-suggestions-option =
     .label = Sken isumar n unadi
     .accesskey = S
+search-show-suggestions-option =
+    .label = Sken isumar n unadi
+    .accesskey = S
 search-show-suggestions-url-bar-option =
     .label = Sken isumar n unadi deg ugmuḍ n ufeggag n tansa
     .accesskey = u
@@ -700,6 +705,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Beddel tugna n umaɣnu
     .alt = Beddel tugna n umaɣnu
+fxa-login-rejected-warning =
+    .alt = Alɣu
 sync-sign-out =
     .label = Ffeɣ…
     .accesskey = F
@@ -863,6 +870,9 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Inekcumen yettwakelsen…
     .accesskey = e
+forms-saved-passwords =
+    .label = Awalen uffiren yettwakelsen
+    .accesskey = d
 forms-primary-pw-use =
     .label = Seqdec awal uffir agejdan
     .accesskey = U
@@ -901,6 +911,10 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = Taččart tawurmant
+autofill-addresses-checkbox = Sekles; teččareḍ tansiwin
+    .accesskey = a
+autofill-saved-addresses-button = Tansiwin ittwakelsen
+    .accesskey = T
 
 ## Privacy Section - History
 
