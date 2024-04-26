@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Ldi { $targetURI } deg yiccer amaynut
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Mdel { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Kkes { $tabTitle }
@@ -51,7 +55,22 @@ fxviewtabrow-move-tab-window = Senkez ɣer usfaylu amaynut
     .accesskey = U
 fxviewtabrow-send-tab = Azen iccer ɣer yibenk
     .accesskey = n
+fxviewtabrow-pin-tab = Rzi iccer-a
+    .accesskey = R
+fxviewtabrow-unpin-tab = Serreḥ i yiccer-a
+    .accesskey = s
+fxviewtabrow-mute-tab = Susem iccer
+    .accesskey = S
+fxviewtabrow-unmute-tab = Kkes tasusmi n yiccer
+    .accesskey = m
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Tixtiṛiyin i { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Susem iccer
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Kkes tasusmi n yiccer

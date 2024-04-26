@@ -74,6 +74,7 @@ migration-bookmarks-option-label = Ticraḍ n isebtar
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Ismenyifen
 migration-logins-and-passwords-option-label = Inekcam d wawalen uffiren yettwaskelsen
+migration-passwords-option-label = Awalen uffiren yettwakelsen
 migration-history-option-label = Azray n tunigin
 migration-extensions-option-label = Isiɣzaf
 migration-form-autofill-option-label = Isefka n taččart tawurmant n tferra
