@@ -26,6 +26,6 @@ confirmation-hint-screenshot-copied = Skärmdump kopierad!
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
     { $tabCount ->
-        [one] Stängd fliken { $tabCount }
-       *[other] Stängda { $tabCount } flikar
+        [one] Stängde { $tabCount } flik
+       *[other] Stängde { $tabCount } flikar
     }
