@@ -46,6 +46,8 @@ shopping-message-bar-analysis-in-progress-message2 = Aya yezmer ad yeṭṭef 60
 # Variables:
 #  $percentage (Number) - The percentage complete that the analysis is, per our servers.
 shopping-message-bar-analysis-in-progress-with-amount = Asenqed n tɣara n tamawin ({ $percentage }%)
+shopping-message-bar-keep-closed-dismiss-button = Ala, tanemmirt
+shopping-message-bar-keep-closed-accept-button = Ih, anef yemdel
 
 ## Strings for the product review snippets card
 
@@ -88,6 +90,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Amek ara nettguccul alɣu n tɣara
+shopping-analysis-explainer-review-grading-scale-mixed = Nettwali iwellihen sdukklen iwellihen inaflasen d yiwellihen arinaflasen.
 
 ## Strings for UrlBar button
 
@@ -95,14 +98,6 @@ shopping-sidebar-open-button2 =
     .tooltiptext = Ldi Amsenqed n tamiwin
 shopping-sidebar-close-button2 =
     .tooltiptext = Mdel amsenqad n teskant
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -139,6 +134,10 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-not-opted-in-revised-button = Awi-t
+shopping-callout-not-opted-in-reminder-open-button = Ldi Amsenqed n tamiwin
+shopping-callout-not-opted-in-reminder-close-button = Zgel
+shopping-callout-not-opted-in-reminder-ignore-checkbox = Ur d-skan ara tikkelt niḍen
 
 ## Onboarding message strings.
 

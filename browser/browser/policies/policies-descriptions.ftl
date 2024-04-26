@@ -37,6 +37,8 @@ policy-DisableDefaultBrowserAgent = Ad isewḥel imeggi n yiminig s wudem amezwe
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
 policy-DisableFeedbackCommands = Sens tiludna akken ad aɣ-d-tazneḍ tikti-inek/inem seg wumuɣ n tallelt ( Azen-d tikti u mmel-aɣ-d ismal ur nemɛin ara).
 policy-DisableFirefoxAccounts = Sens tanfiwin yebnan ɣef { -fxaccount-brand-name }, ula d Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Sens imeẓla i d-yessuturen amiḍan, ula d amtawi.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Sens tamahilt Firefox Screenshots.
 policy-DisableFirefoxStudies = Sewḥel aselkem n tezrawin n { -brand-short-name }.
