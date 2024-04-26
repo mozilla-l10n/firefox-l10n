@@ -48,7 +48,7 @@ translations-panel-settings-always-translate-language =
 translations-panel-settings-always-translate-unknown-language =
     .label = Traduci sempre da questa lingua
 translations-panel-settings-always-offer-translation =
-  .label = Proponi sempre la traduzione
+    .label = Proponi sempre la traduzione
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -126,15 +126,6 @@ translations-manage-description = Scarica le lingue per la traduzione non in lin
 translations-manage-all-language = Tutte le lingue
 translations-manage-download-button = Scarica
 translations-manage-delete-button = Elimina
-
-translations-manage-intro = Imposta le tue preferenze relative alla lingua e alla traduzione dei siti, gestisci le lingue installate per la traduzione non in linea.
-translations-manage-install-description = Installa lingue per la traduzione non in linea
-translations-manage-language-install-button =
-    .label = Installa
-translations-manage-language-install-all-button =
-    .label = Installa tutte
-    .accesskey = I
-
 translations-manage-intro-2 = Imposta le tue preferenze relative alla lingua e alla traduzione dei siti, gestisci le lingue scaricate per la traduzione non in linea.
 translations-manage-download-description = Scarica lingue per la traduzione non in linea
 translations-manage-language-download-button =
@@ -142,7 +133,6 @@ translations-manage-language-download-button =
 translations-manage-language-download-all-button =
     .label = Scarica tutte
     .accesskey = u
-
 translations-manage-language-remove-button =
     .label = Rimuovi
 translations-manage-language-remove-all-button =
@@ -150,9 +140,15 @@ translations-manage-language-remove-all-button =
     .accesskey = e
 translations-manage-error-install = Si è verificato un errore durante l’installazione dei file di lingua. Riprova.
 translations-manage-error-download = Si è verificato un errore durante il download dei file di lingua. Riprova.
-translations-manage-error-remove = Si è verificato un errore durante la rimozione dei file di lingua. Riprova.
-
 translations-manage-error-delete = Si è verificato un errore durante l’eliminazione dei file di lingua. Riprova.
+translations-manage-intro = Imposta le tue preferenze relative alla lingua e alla traduzione dei siti, gestisci le lingue installate per la traduzione non in linea.
+translations-manage-install-description = Installa lingue per la traduzione non in linea
+translations-manage-language-install-button =
+    .label = Installa
+translations-manage-language-install-all-button =
+    .label = Installa tutte
+    .accesskey = I
+translations-manage-error-remove = Si è verificato un errore durante la rimozione dei file di lingua. Riprova.
 translations-manage-error-list = Impossibile ottenere l’elenco delle lingue disponibili per la traduzione. Aggiorna la pagina per riprovare.
 translations-settings-title =
     .title = Impostazioni traduzione
@@ -181,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Chiudi
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = Annulla
+select-translations-panel-translate-button =
+    .label = Traduci
+select-translations-panel-try-again-button =
+    .label = Riprova
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Si è verificato un problema durante la traduzione. Riprova.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Siamo spiacenti, ma { $language } non è ancora supportato.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Siamo spiacenti, questa lingua non è ancora supportata.
