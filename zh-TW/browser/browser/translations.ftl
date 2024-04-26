@@ -112,7 +112,7 @@ translations-panel-to-label = 翻譯語言：
 #   $toLanguage (string) - The target language of the translation.
 translations-panel-revisit-header = 已將此頁面從 { $fromLanguage } 翻譯為 { $toLanguage }
 translations-panel-choose-language =
-    .label = 選擇一種語言
+    .label = 選擇語言
 translations-panel-restore-button =
     .label = 顯示原始內容
 
