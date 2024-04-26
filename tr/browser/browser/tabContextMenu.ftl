@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Birden çok sekmeyi kapat
     .accesskey = B
+tab-context-close-duplicate-tabs =
+    .label = Yinelenen sekmeleri kapat
+    .accesskey = Y
 tab-context-share-url =
     .label = Paylaş
     .accesskey = P
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Sekmeleri taşı
         }
     .accesskey = t
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
