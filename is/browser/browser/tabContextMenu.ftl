@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Loka mörgum flipum
     .accesskey = m
+tab-context-close-duplicate-tabs =
+    .label = Loka tvíteknum flipum
+    .accesskey = u
 tab-context-share-url =
     .label = Deila
     .accesskey = D
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Færa flipa
         }
     .accesskey = F
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

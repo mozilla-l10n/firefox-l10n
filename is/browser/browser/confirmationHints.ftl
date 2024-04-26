@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Sent!
 confirmation-hint-firefox-relay-mask-created = Ný tölvupósthula útbúin!
 confirmation-hint-firefox-relay-mask-reused = Fyrirliggjandi tölvupósthula endurnýtt!
 confirmation-hint-screenshot-copied = Skjámynd afrituð!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Lokaði { $tabCount } flipa
+       *[other] Lokaði { $tabCount } flipum
+    }

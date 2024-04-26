@@ -41,6 +41,8 @@ policy-DisableDefaultBrowserAgent = Koma í veg fyrir að sjálfgefið vafrakenn
 policy-DisableDeveloperTools = Loka aðgangi að þróunartólum.
 policy-DisableFeedbackCommands = Slökkva á "Senda viðbrögð" og "Tilkynna svindlsvæði" í hjálparvalmyndinni.
 policy-DisableFirefoxAccounts = Slökkva á { -fxaccount-brand-name } tengdri þjónustu, m.a. Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Slökkva á reikningstengdum þjónustum, þar með talið samstillingu.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Slökkva á eiginleikum Firefox skjámynda.
 policy-DisableFirefoxStudies = Hamla aðgang að könnunum frá { -brand-short-name }

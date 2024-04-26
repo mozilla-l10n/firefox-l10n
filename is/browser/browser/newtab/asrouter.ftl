@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Samstilltu bókamerkin þín allsstaðar.
 cfr-doorhanger-bookmark-fxa-body = Frábær fundur! Vertu ekki án þessa bókamerkis á farsímum þínum. Byrjaðu á { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Frábær fundur! Vertu ekki án þessa bókamerkis á snjalltækjunum þínum. Byrjaðu á að fá þér reikning.
 cfr-doorhanger-bookmark-fxa-link-text = Samstilla bókamerki núna ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Loka hnappur
