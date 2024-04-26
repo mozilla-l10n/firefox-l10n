@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Cau Tabiau Lluosog
     .accesskey = L
+tab-context-close-duplicate-tabs =
+    .label = Cau Tabiau Dyblyg
+    .accesskey = T
 tab-context-share-url =
     .label = Rhannu
     .accesskey = R
@@ -115,7 +118,6 @@ tab-context-move-tabs =
            *[other] Symud Tab
         }
     .accesskey = S
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
