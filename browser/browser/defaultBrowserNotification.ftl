@@ -32,5 +32,9 @@ default-browser-guidance-notification-body-instruction-win10 =
     Trin 1: Gå til Indstillinger > Standardapps
     Trin 2: Scroll ned til "Webbrowser"
     Trin 3: Vælg { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Trin 1: Gå til Indstillinger > Standardapps
+    Trin 2: Vælg "Indstil som standard" for { -brand-short-name }
 default-browser-guidance-notification-info-page = Vis mig hvordan
 default-browser-guidance-notification-dismiss = Færdig
