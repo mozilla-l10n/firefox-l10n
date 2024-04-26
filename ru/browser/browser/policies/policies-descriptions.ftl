@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Запрещает обновление браузер
 policy-DisableBuiltinPDFViewer = Отключает PDF.js, встроенный просмотрщик PDF в { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Не позволяет агенту браузера по умолчанию предпринимать какие-либо действия. Применимо только к Windows; на других платформах агента нет.
 policy-DisableDeveloperTools = Блокирует доступ к инструментам разработчика.
+policy-DisableEncryptedClientHello = Отключает использование функции TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Отключает команды отправки отзывов в меню Справка («Отправить отзыв...» и «Сообщить о поддельном сайте...»).
 policy-DisableFirefoxAccounts = Отключает службы, основанные на { -fxaccount-brand-name(case: "prepositional") }, включая Синхронизацию.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Отключает службы на основе аккаунтов, включая синхронизацию.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Отключает функцию Firefox Screenshots.
 policy-DisableFirefoxStudies = Запрещает { -brand-short-name } выполнять исследования.
