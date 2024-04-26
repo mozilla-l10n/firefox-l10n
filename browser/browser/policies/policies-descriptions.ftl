@@ -39,6 +39,7 @@ policy-DisableAppUpdate = Impedir le actualisation del navigator.
 policy-DisableBuiltinPDFViewer = Disactivar PDF.js, le visor de PDF integrate in { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Impedir que le agente de navigator predefinite exeque alcun action. Applicabile solo a Windows; altere platteformas non ha iste agente.
 policy-DisableDeveloperTools = Blocar le accesso al instrumentos del disveloppamento.
+policy-DisableEncryptedClientHello = Disactivar le uso del function TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Disactivar le commandos pro submitter tu commentarios in le menu Adjuta (Submitter tu opinion e Denunciar sito fraudulente).
 policy-DisableFirefoxAccounts = Disactivar le servicios basate sur { -fxaccount-brand-name }, comprendite Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
