@@ -63,7 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Synkronisera dina bokmärken överallt.
 cfr-doorhanger-bookmark-fxa-body = Bra fynd! Saknar du bokmärket på dina mobila enheter. Kom igång med ett { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-body-2 = Bra fynd! Lämnas inte detta bokmärke på dina mobila enheter. Kom igång med ett konto.
+cfr-doorhanger-bookmark-fxa-body-2 = Fantastiskt fynd! Bli inte utan detta bokmärke på dina mobila enheter. Kom igång med ett konto.
 cfr-doorhanger-bookmark-fxa-link-text = Synkronisera bokmärken nu...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Stäng knapp
