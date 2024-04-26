@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Yer imlerinize her yerden ulaşın.
 cfr-doorhanger-bookmark-fxa-body = Bu yer imine mobil cihazlarınızdan da ulaşmak istemez miydiniz? Hemen { -fxaccount-brand-name } açın.
+cfr-doorhanger-bookmark-fxa-body-2 = Bu yer imine mobil cihazlarınızdan da ulaşmak istemez miydiniz? Hemen hesap açın.
 cfr-doorhanger-bookmark-fxa-link-text = Yer imlerini eşitle…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Kapat düğmesi

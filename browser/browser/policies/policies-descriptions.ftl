@@ -41,6 +41,8 @@ policy-DisableDefaultBrowserAgent = Varsayılan tarayıcı agent’ının herhan
 policy-DisableDeveloperTools = Geliştirici araçlarına erişimi engelle.
 policy-DisableFeedbackCommands = Yardım menüsünden geri bildirim göndermeye olanak sağlayan komutları (“Geri bildirim gönder” ve “Aldatıcı siteyi ihbar et”) devre dışı bırak.
 policy-DisableFirefoxAccounts = { -fxaccount-brand-name } tabanlı servisleri devre dışı bırak (Sync dahil).
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Hesap tabanlı hizmetleri devre dışı bırak (eşitleme dahil).
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox Screenshots özelliğini devre dışı bırak.
 policy-DisableFirefoxStudies = { -brand-short-name } tarayıcısının araştırma yürütmesini engelle.
