@@ -610,6 +610,12 @@ urlbar-result-action-copy-to-clipboard = ਕਾਪੀ ਕਰੋ
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## Strings used for buttons in the urlbar
+
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = { $engine } ਨਾਲ ਖੋਜੋ
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -916,6 +922,15 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = { $agentName } ਵਲੋਂ ਡਾਟਾ ਨੁਕਸਾਨ ਰੋਕੂ (DLP)। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਕਲਿੱਕ ਕਰੋ।
+content-analysis-panel-title = ਡਾਟਾ ਰੋਕੂ
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = ਤੁਹਾਡਾ ਸੰਗਠਨ { $agentName } ਨੂੰ ਡਾਟਾ ਨੁਕਸਾਨ ਤੋਂ ਰੋਕਣ ਲਈ ਸੁਰੱਖਿਆ ਲਈ ਵਰਤਦੀ ਹੈ। <a data-l10n-name="info">ਹੋਰ ਜਾਣੋ</a>
 
 ## Unified extensions (toolbar) button
 

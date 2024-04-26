@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = ਭੇਜੋ!
 confirmation-hint-firefox-relay-mask-created = ਨਵਾਂ ਮਾਸਕ ਬਣਾਇਆ!
 confirmation-hint-firefox-relay-mask-reused = ਮੌਜੂਦਾ ਮਸਕਾ ਮੁੜ-ਵਰਤਿਆ!
 confirmation-hint-screenshot-copied = ਸਕਰੀਨਸ਼ਾਟ ਕਾਪੀ ਕੀਤਾ!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] ਬੰਦ ਕੀਤੀ { $tabCount } ਟੈਬ
+       *[other] ਬੰਦ ਕੀਤੀਆਂ { $tabCount } ਟੈਬਾਂ
+    }
