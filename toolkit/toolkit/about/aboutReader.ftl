@@ -12,6 +12,20 @@ about-reader-color-scheme-sepia = ਭੂਰਾ
     .title = ਰੰਗ ਸਕੀਮ ਭੂਰਾ
 about-reader-color-scheme-auto = ਆਟੋ
     .title = ਰੰਗ ਸਕੀਮ ਆਪਣੇ-ਆਪ
+about-reader-color-theme-light = ਹਲਕਾ
+    .title = ਰੰਗ ਥੀਮ ਹਲਕਾ
+about-reader-color-theme-dark = ਗੂੜ੍ਹਾ
+    .title = ਰੰਗ ਥੀਮ ਗੂੜ੍ਹਾ
+about-reader-color-theme-sepia = ਭੂਰਾ
+    .title = ਰੰਗ ਥੀਮ ਭੂਰਾ
+about-reader-color-theme-auto = ਆਟੋ
+    .title = ਰੰਗ ਥੀਮ ਆਟੋ
+about-reader-color-theme-gray = ਸਲੇਟੀ
+    .title = ਰੰਗ ਥੀਮ ਸਲੇਟੀ
+about-reader-color-theme-contrast = ਕਨਟਰਾਸਟ
+    .title = ਰੰਗ ਥੀਮ ਕਨਟਰਾਸਟ
+about-reader-color-theme-custom = ਕਸਟਮ ਰੰਗ
+    .title = ਰੰਗ ਥੀਮ ਪਸੰਦੀਦਾ
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -47,4 +61,27 @@ about-reader-font-type-sans-serif = ਸਨਜ਼-ਸੈਰੀਫ਼
 
 about-reader-toolbar-close = ਰੀਡਰ ਝਲਕ ਬੰਦ ਕਰੋ
 about-reader-toolbar-type-controls = ਟਾਈਪ ਕੰਟਰੋਲ
+about-reader-toolbar-color-controls = ਰੰਗ
 about-reader-toolbar-savetopocket = { -pocket-brand-name } ਨਾਲ ਸੰਭਾਲੋ
+
+## Reader View colors menu
+
+about-reader-colors-menu-header = ਥੀਮ
+about-reader-fxtheme-tab = ਡਿਫਾਲਟ
+about-reader-customtheme-tab = ਕਸਟਮ
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+about-reader-custom-colors-foreground = ਲਿਖਤ
+    .title = ਰੰਗ ਨੂੰ ਸੋਧੋ
+about-reader-custom-colors-background = ਬੈਕਗਰਾਊਂਡ
+    .title = ਰੰਗ ਨੂੰ ਸੋਧੋ
+about-reader-custom-colors-unvisited-links = ਨਾ-ਖੋਲ੍ਹੇ ਲਿੰਕ
+    .title = ਰੰਗ ਨੂੰ ਸੋਧੋ
+about-reader-custom-colors-visited-links = ਖੋਲ੍ਹੇ ਗਏ ਲਿੰਕ
+    .title = ਰੰਗ ਨੂੰ ਸੋਧੋ
+about-reader-custom-colors-selection-highlight = ਉੱਚਾ ਪੜ੍ਹੇ ਲਈ ਹਾਈਲਾਈਟਰ
+    .title = ਰੰਗ ਨੂੰ ਸੋਧੋ
+about-reader-custom-colors-reset-button = ਮੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ
