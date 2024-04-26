@@ -107,3 +107,4 @@ tab-context-send-tabs-to-device =
            *[other] Invia { $tabCount } schede a dispositivo
         }
     .accesskey = n
+

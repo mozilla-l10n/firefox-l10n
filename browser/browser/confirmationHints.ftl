@@ -29,3 +29,4 @@ confirmation-hint-duplicate-tabs-closed =
       [one] Chiusa { $tabCount } scheda
      *[other] Chiuse { $tabCount } schede
   }
+

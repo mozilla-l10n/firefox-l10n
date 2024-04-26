@@ -105,3 +105,4 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] è arrivata { $tabCount } scheda
        *[other] sono arrivate { $tabCount } schede
     }
+
