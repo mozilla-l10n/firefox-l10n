@@ -39,8 +39,11 @@ policy-DisableAppUpdate = 브라우저가 업데이트 되지 않도록 합니�
 policy-DisableBuiltinPDFViewer = { -brand-short-name }에 내장된 PDF 뷰어인 PDF.js를 사용 안 합니다.
 policy-DisableDefaultBrowserAgent = 기본 브라우저 에이전트가 작업을 수행하지 못하도록 합니다. Windows에만 적용되며 다른 플랫폼에는 에이전트가 없습니다.
 policy-DisableDeveloperTools = 개발자 도구 접근을 차단합니다.
+policy-DisableEncryptedClientHello = TLS 기능 ECH(Encrypted Client Hello) 사용을 비활성화합니다.
 policy-DisableFeedbackCommands = 도움말 메뉴의 의견 보내기 명령 (의견 보내기 및 가짜 사이트 신고)을 사용 안 합니다.
 policy-DisableFirefoxAccounts = 동기화를 포함한 { -fxaccount-brand-name } 기반의 서비스를 사용 안 합니다.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = 동기화를 포함한 계정 기반 서비스를 사용 안 합니다.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox 스크린샷 기능을 사용 안 합니다.
 policy-DisableFirefoxStudies = { -brand-short-name } 연구 실행을 막습니다.
