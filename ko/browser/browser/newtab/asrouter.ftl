@@ -61,6 +61,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = 어디서나 북마크 동기화
 cfr-doorhanger-bookmark-fxa-body = 멋진 발견! 이제 다른 휴대 기기에서도 이 북마크를 사용해 보세요. { -fxaccount-brand-name }로 시작해 보세요.
+cfr-doorhanger-bookmark-fxa-body-2 = 멋진 발견! 이제 다른 휴대 기기에서도 이 북마크를 사용해 보세요. 계정을 시작해 보세요.
 cfr-doorhanger-bookmark-fxa-link-text = 북마크 지금 동기화…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 닫기 버튼
@@ -201,8 +202,6 @@ cfr-cbh-confirm-button = 쿠키 배너 거부
     .accesskey = R
 cfr-cbh-dismiss-button = 나중에
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name }가 쿠키를 차단했습니다.
-cookie-banner-blocker-cfr-body = 사이트에서 사용자를 추적하기 어렵게 하기 위해 자동으로 많은 쿠키 팝업을 거부합니다.
 cookie-banner-blocker-onboarding-header = { -brand-short-name }가 쿠키 배너를 거부했습니다.
 cookie-banner-blocker-onboarding-body = 방해 요소가 줄어들고, 이 사이트에서 사용자를 추적하는 쿠키가 줄어듭니다.
 cookie-banner-blocker-onboarding-learn-more = 더 알아보기
