@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Impedir a atualização do navegador.
 policy-DisableBuiltinPDFViewer = Desativar PDF.js, o visor de PDF integrado no { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Impedir que o agente padrão do navegador execute qualquer ação. Aplicável apenas a Windows; outras plataformas não têm o agente.
 policy-DisableDeveloperTools = Bloquear acesso às ferramentas de desenvolvimento.
+policy-DisableEncryptedClientHello = Desativar o uso do recurso TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Desativar comandos de envio de comentários no menu Ajuda (Enviar opinião e Denunciar site enganoso).
 policy-DisableFirefoxAccounts = Desativar serviços baseados em { -fxaccount-brand-name }, incluindo a sincronização.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Desativar serviços baseados em conta, inclusive sincronização.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desativar o recurso de captura de tela do Firefox.
 policy-DisableFirefoxStudies = Impedir que o { -brand-short-name } execute estudos.
