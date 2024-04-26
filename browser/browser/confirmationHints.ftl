@@ -22,3 +22,11 @@ confirmation-hint-send-to-device = Отправлено!
 confirmation-hint-firefox-relay-mask-created = Создан новый псевдоним!
 confirmation-hint-firefox-relay-mask-reused = Существующий псевдоним использован повторно!
 confirmation-hint-screenshot-copied = Скриншот скопирован!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Закрыта { $tabCount } вкладка
+        [few] Закрыты { $tabCount } вкладки
+       *[many] Закрыты { $tabCount } вкладок
+    }
