@@ -22,3 +22,6 @@ confirmation-hint-send-to-device = 已送出！
 confirmation-hint-firefox-relay-mask-created = 已產生新的轉寄信箱！
 confirmation-hint-firefox-relay-mask-reused = 重複使用現有的轉寄信箱！
 confirmation-hint-screenshot-copied = 已複製擷圖！
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed = 已關閉 { $tabCount } 個分頁
