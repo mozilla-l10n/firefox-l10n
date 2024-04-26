@@ -41,6 +41,8 @@ policy-DisableDefaultBrowserAgent = ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਏ
 policy-DisableDeveloperTools = ਡਿਵੈਲਪਰ ਟੂਲਾਂ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।
 policy-DisableFeedbackCommands = ਮੱਦਦ ਮੇਨੂ ਤੋਂ ਫੀਡਬੈਕ ਭੇਜਣ ਲਈ ਕਮਾਂਡਾਂ ਨੂੰ ਅਯੋਗ ਕਰੋ (ਭੇਤ ਸੁਝਾਅ ਜਮ੍ਹਾਂ ਕਰੋ ਅਤੇ ਧੋਖੇਬਾਜ਼ਾਂ ਦੀ ਰਿਪੋਰਟ ਕਰੋ)।
 policy-DisableFirefoxAccounts = { -fxaccount-brand-name } ਅਧਾਰਿਤ ਸੇਵਾਵਾਂ, ਸਿੰਕ ਸਮੇਤ, ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = ਖਾਤਾ ਅਧਾਰਿਤ ਸੇਵਾਵਾਂ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ, ਜਿਸ ਵਿੱਚ ਸਿੰਕ ਕਰਨਾ ਵੀ ਸ਼ਾਮਲ ਹੈ।
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox Screenshots ਫੀਚਰ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableFirefoxStudies = { -brand-short-name } ਤੋਂ ਚੱਲਦੇ ਅਧਿਐਨਾਂ ਨੂੰ ਰੋਕੋ।
