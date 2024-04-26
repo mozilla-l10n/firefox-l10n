@@ -27,3 +27,14 @@ default-browser-prompt-button-secondary = ਹੁਣੇ ਨਹੀਂ
 ## Windows 10 and 11.
 
 default-browser-guidance-notification-title = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਣਾਉਣਾ ਪੂਰਾ ਕਰੋ
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    ਪੜਾਅ 1: Settings (ਸੈਟਿੰਗਾਂ) > Default apps (ਮੂਲ ਐਪਾਂ) ਉੱਤੇ ਜਾਓ
+    ਪੜਾਅ 2: “Web Browser (ਵੈੱਬ ਬਰਾਊਜ਼ਰ” ਉੱਤੇ ਹੇਠਾਂ ਵੱਲ ਸਕਰਾਓ
+    ਪੜਾਅ 3: ਚੋਣ ਕਰੋ ਅਤੇ { -brand-short-name } ਨੂੰ ਚੁਣੋ
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    ਪੜਾਅ 1: Settings (ਸੈਟਿੰਗਾਂ) > Default apps (ਮੂਲ ਐਪਾਂ) ਉੱਤੇ ਜਾਓ
+    ਪੜਾਅ 2: { -brand-short-name } ਨੂੰ “Set default (ਮੂਲ ਸੈੱਟ ਕਰੋ)“ ਚੁਣੋ
+default-browser-guidance-notification-info-page = ਮੈਨੂੰ ਵੇਖਾਓ
+default-browser-guidance-notification-dismiss = ਮੁਕੰਮਲ
