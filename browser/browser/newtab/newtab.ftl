@@ -280,3 +280,6 @@ newtab-wallpaper-title = Mba’erechaha rugua
 newtab-wallpaper-reset = Emoñerũjey ypyguáramo
 newtab-wallpaper-light-red-panda = Panda pytã
 newtab-wallpaper-light-mountain = Yvyty morotĩ
+newtab-wallpaper-light-sky = Ára taijarai pytãũ ha pytãngy
+newtab-wallpaper-light-color = Ysaja hovy, pytãngy ja sa’yju
+newtab-wallpaper-light-landscape = Yvyty jehecha tatatina hovýva ndive
