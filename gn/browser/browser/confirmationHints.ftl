@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = ¡Mondopyre!
 confirmation-hint-firefox-relay-mask-created = ¡Tovamo’ãha pyahu moheñoipyre!
 confirmation-hint-firefox-relay-mask-reused = ¡Tovamo’ãha jeporujey!
 confirmation-hint-screenshot-copied = ¡Mba’erechaha japyhypyre!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Oñemboty { $tabCount } tendayke
+       *[other] Oñemboty { $tabCount } tendaykekuéra
+    }
