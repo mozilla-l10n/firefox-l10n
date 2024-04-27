@@ -93,3 +93,12 @@ about-reader-custom-colors-selection-highlight = Evidenziatore per lettura ad al
 
 about-reader-custom-colors-reset-button = Ripristina predefiniti
 
+## Reader View improved text and layout menu
+
+about-reader-text-alignment-label = Allineamento del testo
+about-reader-text-alignment-left =
+    .title = Allinea il testo a sinistra
+about-reader-text-alignment-center =
+    .title = Allinea il testo al centro
+about-reader-text-alignment-right =
+    .title = Allinea il testo a destra
