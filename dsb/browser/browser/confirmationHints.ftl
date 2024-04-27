@@ -22,3 +22,12 @@ confirmation-hint-send-to-device = Pósłany!
 confirmation-hint-firefox-relay-mask-created = Nowa maska jo se napórała!
 confirmation-hint-firefox-relay-mask-reused = Eksistěrujuca maska wužyta!
 confirmation-hint-screenshot-copied = Foto wobrazowki kopěrowane!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] { $tabCount } rejtarik zacynjony
+        [two] { $tabCount } rejtarika zacynjonej
+        [few] { $tabCount } rejtariki zacynjone
+       *[other] { $tabCount } rejtarikow zacynjone
+    }

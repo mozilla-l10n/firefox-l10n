@@ -67,6 +67,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizěrujśo swóje cytańske znamjenja wšuźi.
 cfr-doorhanger-bookmark-fxa-body = Wjelicna namakanka! Njewóstawajśo bźez toś togo cytańskego znamjenja na swójich mobilnych rědach. Zachopśo z { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Wjelicna namakanka! Njewóstawajśo bźez toś togo cytańskego znamjenja na swójich mobilnych rědach. Zachopśo z kontom.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizěrujśo něnto cytańske znamjenja…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tłocašk Zacyniś
@@ -210,8 +211,6 @@ cfr-cbh-confirm-button = Cookiejowe chórgoji reducěrowaś
     .accesskey = C
 cfr-cbh-dismiss-button = Nic něnto
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } jo rowno blokěrował cookieje za was
-cookie-banner-blocker-cfr-body = Awtomatiski wótpokazujomy wjele cookiejowych wuskokujucych woknow, aby sedłam póśěžyli, wam slědowaś.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } jo rowno wótpokazał cookiejowy chórgoj za was
 cookie-banner-blocker-onboarding-body = Mjenjej wótchylenjow, mjenjej cookiejow, kótarež was na sedle pśeslěduju.
 cookie-banner-blocker-onboarding-learn-more = Dalšne informacije

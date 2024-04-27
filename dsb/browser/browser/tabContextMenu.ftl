@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Někotare rejtariki zacyniś
     .accesskey = N
+tab-context-close-duplicate-tabs =
+    .label = Dwójne rejtariki zacyniś
+    .accesskey = D
 tab-context-share-url =
     .label = Źěliś
     .accesskey = i
@@ -109,7 +112,6 @@ tab-context-move-tabs =
            *[other] { $tabCount } rejtarikow pśesunuś
         }
     .accesskey = s
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
