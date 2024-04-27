@@ -95,6 +95,16 @@ about-reader-custom-colors-reset-button = Ripristina predefiniti
 
 ## Reader View improved text and layout menu
 
+about-reader-advanced-layout-header = Avanzate
+
+about-reader-slider-label-spacing-standard = Normale
+about-reader-slider-label-spacing-wide = Espansa
+
+about-reader-character-spacing-label =
+  .label = Spaziatura caratteri
+about-reader-word-spacing-label =
+  .label = Spaziatura parole
+
 about-reader-text-alignment-label = Allineamento del testo
 about-reader-text-alignment-left =
     .title = Allinea il testo a sinistra
