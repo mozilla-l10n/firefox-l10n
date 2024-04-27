@@ -65,6 +65,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Majte svoje záložky všade so sebou.
 cfr-doorhanger-bookmark-fxa-body = Skvelý nález! Chcete mať túto záložku aj vo svojom mobilnom zariadení? Použite { -fxaccount-brand-name(capitalization: "sentence") }.
+cfr-doorhanger-bookmark-fxa-body-2 = Skvelý nález! Chcete mať túto záložku aj vo svojom mobilnom zariadení? Použite svoj účet.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizujte svoje záložky…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tlačidlo Zavrieť
@@ -207,8 +208,6 @@ cfr-cbh-confirm-button = Odmietnuť bannery k súborom cookie
     .accesskey = O
 cfr-cbh-dismiss-button = Teraz nie
     .accesskey = T
-cookie-banner-blocker-cfr-header = { -brand-short-name } pre vás práve zablokoval súbory cookie
-cookie-banner-blocker-cfr-body = Automaticky odmietame veľa vyskakovacích bannerov k súborom cookie, aby sme stránkam sťažili vaše sledovanie.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } pre vás práve odmietol banner k súborom cookie
 cookie-banner-blocker-onboarding-body = Menej rozptyľovania, menej súborov cookie, ktoré vás na tejto stránke sledujú.
 cookie-banner-blocker-onboarding-learn-more = Ďalšie informácie

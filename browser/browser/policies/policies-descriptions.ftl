@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.
 policy-DisableBuiltinPDFViewer = Zakáže PDF prehliadač PDF.js zabudovaný v prehliadači { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Zabráni agentovi Default browser vykonávať akékoľvek činnosti. Platí len pre Windows; iné platformy nemajú agenta Default browser.
 policy-DisableDeveloperTools = Zablokuje prístup k vývojárskym nástrojom.
+policy-DisableEncryptedClientHello = Zakázať používanie funkcie TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Zablokuje možnosť odoslať spätnú väzbu z ponuky Pomocník (možnosti Odoslať spätnú väzbu a Nahlásenie podvodnej stránky).
 policy-DisableFirefoxAccounts = Vypne funkcie súvisiace s { -fxaccount-brand-name(case: "ins", capitalization: "sentence") }, vrátane synchronizácie.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Zakáže služby vyžadujúce účty, vrátane synchronizácie.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vypne funkciu Firefox Screenshots.
 policy-DisableFirefoxStudies = Zabráni prehliadaču { -brand-short-name } spúšťať štúdie.
