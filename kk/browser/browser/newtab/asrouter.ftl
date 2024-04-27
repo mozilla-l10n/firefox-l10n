@@ -61,6 +61,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Бетбелгілерді барлық жерде синхрондаңыз.
 cfr-doorhanger-bookmark-fxa-body = Тамаша табу! Енді мобильді құрылғыларыңызда бұл бетбелгісіз қалмаңыз. { -fxaccount-brand-name } қызметімен жұмысты бастаңыз.
+cfr-doorhanger-bookmark-fxa-body-2 = Тамаша табу! Енді мобильді құрылғыларыңызда бұл бетбелгісіз қалмаңыз. Тіркелгіден бастаңыз.
 cfr-doorhanger-bookmark-fxa-link-text = Бетбелгілерді қазір синхрондау…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Жабу батырмасы
@@ -201,8 +202,6 @@ cfr-cbh-confirm-button = Cookie баннерлерін елемеу
     .accesskey = р
 cfr-cbh-dismiss-button = Қазір емес
     .accesskey = м
-cookie-banner-blocker-cfr-header = { -brand-short-name } жаңа ғана сіз үшін cookie файлдарын бұғаттады
-cookie-banner-blocker-cfr-body = Сайттардың сізді қадағалауын қиындату үшін біз көптеген cookie файлдарының қалқымалы терезелерінен автоматты түрде бас тартамыз.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } жаңа ғана сіз үшін cookie баннерінен бас тартты
 cookie-banner-blocker-onboarding-body = Бұл сайтта алаңдататын нәрселерді мен сізді бақылайтын cookie файлдарын азырақ қылу.
 cookie-banner-blocker-onboarding-learn-more = Көбірек білу

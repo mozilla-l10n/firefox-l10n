@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Бірнеше бетті жабу
     .accesskey = ш
+tab-context-close-duplicate-tabs =
+    .label = Қайталама беттерді жабу
+    .accesskey = о
 tab-context-share-url =
     .label = Бөлісу
     .accesskey = л
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Беттерді жылжыту
         }
     .accesskey = ы
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
