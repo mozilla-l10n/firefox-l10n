@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Elküldve!
 confirmation-hint-firefox-relay-mask-created = Új maszk létrehozva.
 confirmation-hint-firefox-relay-mask-reused = A meglévő maszk újrafelhasználva.
 confirmation-hint-screenshot-copied = Képernyőkép másolva.
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] { $tabCount } lap bezárva
+       *[other] { $tabCount } lap bezárva
+    }
