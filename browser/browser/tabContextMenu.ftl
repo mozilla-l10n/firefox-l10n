@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Закрыць некалькі картак
     .accesskey = ь
+tab-context-close-duplicate-tabs =
+    .label = Закрыць дублікаты картак
+    .accesskey = л
 tab-context-share-url =
     .label = Падзяліцца
     .accesskey = П
@@ -106,7 +109,6 @@ tab-context-move-tabs =
            *[many] Перамясціць карткі
         }
     .accesskey = м
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
