@@ -62,7 +62,7 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Close Reader View
 about-reader-toolbar-type-controls = Type controls
 about-reader-toolbar-color-controls = Colours
-about-reader-toolbar-savetopocket = Save To { -pocket-brand-name }
+about-reader-toolbar-savetopocket = Save to { -pocket-brand-name }
 
 ## Reader View colors menu
 
