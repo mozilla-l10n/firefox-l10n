@@ -45,6 +45,9 @@ account-send-tab-to-device-verify = Gwiriit ho kont…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title-2 = Kont
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Kennasket eo an urzhiataer-mañ gant { $deviceName }
