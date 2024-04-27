@@ -22,3 +22,13 @@ confirmation-hint-send-to-device = Kaset!
 confirmation-hint-firefox-relay-mask-created = Alias nevez krouet!
 confirmation-hint-firefox-relay-mask-reused = Aliaz adimplijet!
 confirmation-hint-screenshot-copied = Tapadenn skramm eilet!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] { $tabCount } ivinell serret
+        [two] { $tabCount } ivinell serret
+        [few] { $tabCount } ivinell serret
+        [many] { $tabCount } ivinell serret
+       *[other] { $tabCount } ivinell serret
+    }
