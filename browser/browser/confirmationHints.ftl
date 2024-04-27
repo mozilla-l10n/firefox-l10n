@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Жіберілді!
 confirmation-hint-firefox-relay-mask-created = Жаңа маска жасалды!
 confirmation-hint-firefox-relay-mask-reused = Бар болып тұрған маска қайта қолданылды!
 confirmation-hint-screenshot-copied = Скриншот көшірілді!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] { $tabCount } бет жабылды
+       *[other] { $tabCount } бет жабылды
+    }
