@@ -133,6 +133,7 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Барлығын орнату
     .accesskey = о
+translations-manage-intro-2 = Тілді және сайт аудармасының баптауларын орнатыңыз және желіден тыс аударма үшін жүктеліп алынған тілдерді басқарыңыз.
 translations-manage-download-description = Желіден тыс аударма үшін тілдерді жүктеп алу
 translations-manage-language-download-button =
     .label = Жүктеп алу

@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Браузерге жаңартылуға тыйым �
 policy-DisableBuiltinPDFViewer = PDF.js, { -brand-short-name } құрамындағы PDF шолушысын сөндіру.
 policy-DisableDefaultBrowserAgent = Браузер үнсіз келісім бойынша агентіне ешбір әрекетті таңдауға жол бермейді. Тек Windows үшін қолданылады; басқа платформаларда агент жоқ.
 policy-DisableDeveloperTools = Әзірлеуші құралдарына қатынауды бұғаттау.
+policy-DisableEncryptedClientHello = TLS Encrypted Client Hello (ECH) функциясын қолдануды сөндіреді.
 policy-DisableFeedbackCommands = Көмек мәзірінен кері байланысты жіберу командаларын сөндіру (Кері байланыс хабарламасын жіберу және Фишингті сайт туралы хабарлау).
 policy-DisableFirefoxAccounts = { -fxaccount-brand-name } негізіндегі қызметтерді, Синхрондауды қоса, сөндіру.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Тіркелгі негізіндегі қызметтерді, синхрондауды қоса, сөндіру.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox скриншоттары мүмкіндігін сөндіру.
 policy-DisableFirefoxStudies = { -brand-short-name } үшін зерттеулерді орындауға тыйым салу.
