@@ -41,6 +41,8 @@ policy-DisableDefaultBrowserAgent = Zawoborajśo standardnemu agentoju wobglědo
 policy-DisableDeveloperTools = Pśistup k wuwijaŕskim rědam blokěrowaś.
 policy-DisableFeedbackCommands = Pśikaze znjemóžniś, kótarež komentary z menija Pomoc sćelu (Pósudk pósłaś a Wobšudnikojske sedło k wěsći daś)
 policy-DisableFirefoxAccounts = Słužby na zakłaźe { -fxaccount-brand-name } znjemóžniś, inkluziwnje Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Słužby znjemóžniś, kótarež na konśe bazěruju, mjazy nimi synchronizaciju.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Funkciju Firefox Screenshots znjemóžniś.
 policy-DisableFirefoxStudies = { -brand-short-name } zakazaś, studije wuwjasć.
