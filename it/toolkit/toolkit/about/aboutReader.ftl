@@ -29,6 +29,19 @@ about-reader-color-theme-contrast = Contrasto
 about-reader-color-theme-custom = Colori personalizzati
     .title = Tema con colori personalizzati
 
+about-reader-color-light-theme = Chiaro
+    .title = Tema chiaro
+about-reader-color-dark-theme = Scuro
+    .title = Tema scuro
+about-reader-color-sepia-theme = Seppia
+    .title = Tema seppia
+about-reader-color-auto-theme = Automatico
+    .title = Tema automatico
+about-reader-color-gray-theme = Grigio
+    .title = Tema grigio
+about-reader-color-contrast-theme = Contrasto
+    .title = Tema ad alto contrasto
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -65,6 +78,8 @@ about-reader-font-type-sans-serif = Senza grazie
 about-reader-toolbar-close = Chiudi Modalità lettura
 about-reader-toolbar-type-controls = Controlli carattere
 about-reader-toolbar-color-controls = Colori
+about-reader-toolbar-text-layout-controls = Testo e layout
+about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Salva in { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -95,10 +110,19 @@ about-reader-custom-colors-reset-button = Ripristina predefiniti
 
 ## Reader View improved text and layout menu
 
+about-reader-layout-header = Layout
 about-reader-advanced-layout-header = Avanzate
 
+about-reader-slider-label-width-narrow = Stretta
+about-reader-slider-label-width-wide = Larga
+about-reader-slider-label-spacing-narrow = Ridotta
 about-reader-slider-label-spacing-standard = Normale
 about-reader-slider-label-spacing-wide = Espansa
+
+about-reader-content-width-label =
+  .label = Larghezza contenuto
+about-reader-line-spacing-label =
+  .label = Interlinea
 
 about-reader-character-spacing-label =
   .label = Spaziatura caratteri
