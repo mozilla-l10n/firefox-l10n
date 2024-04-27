@@ -39,6 +39,7 @@ policy-DisableAppUpdate = Koma í veg fyrir að vafrinn uppfærist.
 policy-DisableBuiltinPDFViewer = Óvirkja PDF.js, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Koma í veg fyrir að sjálfgefið vafrakenni (browser agent) grípi til aðgerða. Gildir aðeins fyrir Windows; önnur stýrikerfi hafa ekki slíkt kenni.
 policy-DisableDeveloperTools = Loka aðgangi að þróunartólum.
+policy-DisableEncryptedClientHello = Gerðu óvirka notkun TLS-eiginleikans Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Slökkva á "Senda viðbrögð" og "Tilkynna svindlsvæði" í hjálparvalmyndinni.
 policy-DisableFirefoxAccounts = Slökkva á { -fxaccount-brand-name } tengdri þjónustu, m.a. Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
