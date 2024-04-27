@@ -39,8 +39,11 @@ policy-DisableAppUpdate = A böngésző frissítésének megakadályozása.
 policy-DisableBuiltinPDFViewer = A PDF.js-nek, a { -brand-short-name } beépített PDF-megjelenítőjének letiltása.
 policy-DisableDefaultBrowserAgent = Akadályozza meg, hogy az alapértelmezett böngésző-ügynök bármilyen műveletet végezzen. Csak Windowsra vonatkozik, más platformokon nincs meg ez az ügynök.
 policy-DisableDeveloperTools = A fejlesztői eszközökhöz hozzáférés blokkolása.
+policy-DisableEncryptedClientHello = Az Encrypted Client Hello (ECH) TLS funkció használatának letiltása.
 policy-DisableFeedbackCommands = A visszajelzés küldési parancsok letiltása a Súgó menüben (Visszajelzés beküldése és Félrevezető oldal jelentése).
 policy-DisableFirefoxAccounts = A { -fxaccount-brand-name } alapú szolgáltatások letiltása, beleértve a Syncet.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Fiókalapú szolgáltatások, köztük a szinkronizálás letiltása.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = A Firefox Screenshots funkció letiltása.
 policy-DisableFirefoxStudies = Annak a megakadályozása, hogy a { -brand-short-name } tanulmányokat futtasson.

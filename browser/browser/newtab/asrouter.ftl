@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Szinkronizálja a könyvjelzőit mindenhol.
 cfr-doorhanger-bookmark-fxa-body = Nagyszerű találat! Ne maradjon könyvjelzők nélkül a mobileszközein sem. Kezdjen egy { -fxaccount-brand-name }kal.
+cfr-doorhanger-bookmark-fxa-body-2 = Nagyszerű találat! Ne maradjon könyvjelzők nélkül a mobileszközein sem. Kezdjen egy fiókkal.
 cfr-doorhanger-bookmark-fxa-link-text = Könyvjelzők szinkronizálása most…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Bezárás gomb
@@ -204,8 +205,6 @@ cfr-cbh-confirm-button = Sütibannerek elutasítása
     .accesskey = u
 cfr-cbh-dismiss-button = Most nem
     .accesskey = n
-cookie-banner-blocker-cfr-header = A { -brand-short-name } épp most blokkolta a sütiket
-cookie-banner-blocker-cfr-body = Számos felugró sütikérést automatikusan elutasítunk, hogy a webhelyek nehezen tudják követni Önt.
 cookie-banner-blocker-onboarding-header = A { -brand-short-name } épp most utasított el egy sütibannert Önnek
 cookie-banner-blocker-onboarding-body = Kevesebb zavaró tényező, kevesebb süti, amely követné ezen az oldalon.
 cookie-banner-blocker-onboarding-learn-more = További tudnivalók
