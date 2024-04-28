@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Đóng nhiều thẻ
     .accesskey = M
+tab-context-close-duplicate-tabs =
+    .label = Đóng các thẻ trùng
+    .accesskey = u
 tab-context-share-url =
     .label = Chia sẻ
     .accesskey = h
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Di chuyển các thẻ
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label = Gửi { $tabCount } thẻ đến thiết bị
     .accesskey = n
