@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Απεστάλη!
 confirmation-hint-firefox-relay-mask-created = Δημιουργήθηκε νέα μάσκα!
 confirmation-hint-firefox-relay-mask-reused = Επαναχρησιμοποιήθηκε υπάρχουσα μάσκα!
 confirmation-hint-screenshot-copied = Το στιγμιότυπο αντιγράφηκε!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Έκλεισε { $tabCount } καρτέλα
+       *[other] Έκλεισαν { $tabCount } καρτέλες
+    }
