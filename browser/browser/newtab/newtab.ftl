@@ -254,9 +254,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Inegzumen yettwarefden
 newtab-custom-pocket-title = yettuwelleh-d sɣur { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Agbur ufrin i s-yettusuddsen sɣur { -pocket-brand-name }, d aḥric seg twacult { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = yettuwelleh-d sɣur { -pocket-brand-name }
-    .description = Agbur ufrin i s-yettusuddsen sɣur { -pocket-brand-name }, d aḥric seg twacult { -brand-product-name }
 newtab-custom-pocket-sponsored = Tiqṣidin yettwarefden
 newtab-custom-pocket-show-recent-saves = Sken iseklas akk ineggura
 newtab-custom-recent-title = Armud n melmi kan
@@ -266,3 +263,9 @@ newtab-custom-recent-toggle =
     .description = Tafrant n yismal d ugbur n melmi kan
 newtab-custom-close-button = Mdel
 newtab-custom-settings = Sefrek ugar n yiɣewwaṛen
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Tugniwin n ugilal
+newtab-wallpaper-reset = Wennez ɣer umezwer
+newtab-wallpaper-light-mountain = Adrar amellal
