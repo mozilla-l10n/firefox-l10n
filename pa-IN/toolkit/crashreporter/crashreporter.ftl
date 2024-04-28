@@ -42,3 +42,4 @@ crashreporter-error-no-home-dir = ਹੋਮ ਡਾਇਰੈਕਟਰੀ ਗੁ�
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = { $from } ਤੋਂ { $to } ਲਈ ਭੇਜਣ ਲਈ ਅਸਫ਼ਲ ਹੈ
+crashreporter-error-version-eol = ਵਰਜ਼ਨ ਗ਼ੈਰ-ਸਹਾਇਕ: ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਹੁਣ ਮਨਜ਼ੂਰ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ।
