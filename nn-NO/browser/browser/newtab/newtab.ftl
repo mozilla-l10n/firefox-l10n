@@ -277,3 +277,16 @@ newtab-custom-settings = Handsam fleire innstillingar
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Bakgrunnsbilde
+newtab-wallpaper-reset = Still tilbake til standard
+newtab-wallpaper-light-red-panda = Raudpanda
+newtab-wallpaper-light-mountain = Kvitt fjell
+newtab-wallpaper-light-sky = Himmel med lilla og rosa skyer
+newtab-wallpaper-light-color = Blå, rosa og gule former
+newtab-wallpaper-light-landscape = Fjellandskap med blå tåke
+newtab-wallpaper-light-beach = Strand med palmetre
+newtab-wallpaper-dark-aurora = Nordlys
+newtab-wallpaper-dark-color = Raude og blå former
+newtab-wallpaper-dark-panda = Raudpanda gøymt i skogen
+newtab-wallpaper-dark-sky = Bylandskap med nattehimmel
+newtab-wallpaper-dark-mountain = Fjellandskap
+newtab-wallpaper-dark-city = Lilla bylandskap
