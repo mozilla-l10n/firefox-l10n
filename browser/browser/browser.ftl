@@ -392,7 +392,7 @@ identity-description-insecure-login-forms = Введені на цій стор�
 identity-description-weak-cipher-intro = Ваше з'єднання з цим вебсайтом використовує слабке шифрування і не є приватним.
 identity-description-weak-cipher-risk = Інші люди можуть переглядати вашу інформацію чи змінювати поведінку вебсайту.
 identity-description-active-blocked2 = { -brand-short-name } заблокував незахищені частини цієї сторінки.
-identity-description-passive-loaded = Ваше з'єднання не є приватним й інформація, якою ви ділитесь з сайтом може бути переглянута іншими.
+identity-description-passive-loaded = Ваше з'єднання не є приватним, тому інформація, якою ви ділитесь з сайтом, може бути переглянута іншими.
 identity-description-passive-loaded-insecure2 = Цей вебсайт містить незахищений вміст (наприклад, зображення).
 identity-description-passive-loaded-mixed2 = Хоча { -brand-short-name } заблокував деякий вміст, на сторінці все ще є незахищений вміст (наприклад, зображення).
 identity-description-active-loaded = Цей вебсайт має вміст, що не є безпечним (як-от скрипти) і ваше з'єднання з ним не є приватним.
@@ -605,6 +605,9 @@ urlbar-result-action-copy-to-clipboard = Копіювати
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+
+## Strings used for buttons in the urlbar
+
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
