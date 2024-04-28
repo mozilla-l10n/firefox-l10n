@@ -263,9 +263,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Спонсарскія цэтлікі
 newtab-custom-pocket-title = Рэкамендавана { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Выключнае змесціва, куратарам якога з'яўляецца { -pocket-brand-name }, частка сям'і { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Рэкамендавана { -pocket-brand-name }
-    .description = Выключнае змесціва, куратарам якога з'яўляецца { -pocket-brand-name }, частка сям'і { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Рэкамендаваныя гісторыі
     .description = Выключнае змесціва, курыраванае сямействам { -brand-product-name }
@@ -278,3 +275,24 @@ newtab-custom-recent-toggle =
     .description = Падборка нядаўніх сайтаў і змесціва
 newtab-custom-close-button = Закрыць
 newtab-custom-settings = Кіраваць дадатковымі наладамі
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Шпалеры
+newtab-wallpaper-reset = Скінуць да прадвызначаных
+newtab-wallpaper-light-red-panda = Чырвоная панда
+newtab-wallpaper-light-mountain = Белая гара
+newtab-wallpaper-light-sky = Неба з фіялетавымі і ружовымі аблокамі
+newtab-wallpaper-light-color = Сінія, ружовыя і жоўтыя формы
+newtab-wallpaper-light-landscape = Горны пейзаж з блакітнага туману
+newtab-wallpaper-light-beach = Пляж з пальмамі
+newtab-wallpaper-dark-aurora = Палярнае ззянне
+newtab-wallpaper-dark-color = Чырвоныя і сінія фігуры
+newtab-wallpaper-dark-panda = Чырвоная панда схаваная ў лесе
+newtab-wallpaper-dark-sky = Гарадскі пейзаж з начным небам
+newtab-wallpaper-dark-mountain = Горны пейзаж
+newtab-wallpaper-dark-city = Пурпурны гарадскі пейзаж
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Фота <a data-l10n-name="name-link">{ $author_string }</a> з <a data-l10n-name="webpage-link">{ $webpage_string }</a>
