@@ -39,6 +39,7 @@ policy-DisableAppUpdate = ਬਰਾਊਜ਼ਰ ਨੂੰ ਅੱਪਡੇਟ ਹੋ
 policy-DisableBuiltinPDFViewer = PDF.js, { -brand-short-name } ਵਿੱਚ ਮੌਜੂਦ PDF ਦਰਸ਼ਕ, ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableDefaultBrowserAgent = ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਏਜੰਟ ਨੂੰ ਕੋਈ ਵੀ ਕਾਰਵਾਈ ਕਰਨ ਤੋਂ ਰੋਕੋ। ਸਿਰਫ਼ ਵਿੰਡੋਜ਼ ਲਈ ਲਾਗੂ ਹੈ; ਦੂਜੇ ਪਲੇਟਫਾਰਮਾਂ ਵਿੱਚ ਏਜੰਟ ਨਹੀਂ ਹੁੰਦਾ।
 policy-DisableDeveloperTools = ਡਿਵੈਲਪਰ ਟੂਲਾਂ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।
+policy-DisableEncryptedClientHello = ਇੰਕ੍ਰਿਪਟ ਕੀਤੀ ਕਲਾਈਂਟ ਹੈਲੋ (ECH) ਫ਼ੀਚਰ ਦੀ ਵਰਤੋਂ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableFeedbackCommands = ਮੱਦਦ ਮੇਨੂ ਤੋਂ ਫੀਡਬੈਕ ਭੇਜਣ ਲਈ ਕਮਾਂਡਾਂ ਨੂੰ ਅਯੋਗ ਕਰੋ (ਭੇਤ ਸੁਝਾਅ ਜਮ੍ਹਾਂ ਕਰੋ ਅਤੇ ਧੋਖੇਬਾਜ਼ਾਂ ਦੀ ਰਿਪੋਰਟ ਕਰੋ)।
 policy-DisableFirefoxAccounts = { -fxaccount-brand-name } ਅਧਾਰਿਤ ਸੇਵਾਵਾਂ, ਸਿੰਕ ਸਮੇਤ, ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
