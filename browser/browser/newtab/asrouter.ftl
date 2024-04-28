@@ -61,6 +61,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Đồng bộ dấu trang của bạn ở mọi nơi.
 cfr-doorhanger-bookmark-fxa-body = Đã tìm thấy tuyệt vời! Bây giờ hãy đồng bộ các dấu trang này với thiết bị di động của bạn. Bắt đầu với một { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Tìm thấy một trang web tuyệt vời! Tiếp theo, đừng để dấu trang này ra khỏi thiết bị di động của bạn. Đăng ký tài khoản để bắt đầu.
 cfr-doorhanger-bookmark-fxa-link-text = Đồng bộ hóa dấu trang ngay bây giờ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Nút đóng
@@ -201,8 +202,6 @@ cfr-cbh-confirm-button = Từ chối biểu ngữ cookie
     .accesskey = R
 cfr-cbh-dismiss-button = Không phải bây giờ
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } vừa chặn cookie cho bạn
-cookie-banner-blocker-cfr-body = Chúng tôi tự động từ chối nhiều cửa sổ bật lên hỏi về cookie để gây khó khăn cho các trang web theo dõi bạn.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } vừa từ chối một biểu ngữ cookie cho bạn
 cookie-banner-blocker-onboarding-body = Ít phiền nhiễu hơn, ít cookie theo dõi bạn hơn trên trang web này.
 cookie-banner-blocker-onboarding-learn-more = Tìm hiểu thêm
