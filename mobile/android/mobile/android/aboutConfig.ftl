@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Salin Nama
 config-context-menu-copy-pref-value =
     .label = Salin Nilai
+
