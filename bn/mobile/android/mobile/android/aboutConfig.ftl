@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = নাম অনুলিপি
 config-context-menu-copy-pref-value =
     .label = মান অনুলিপি
+
