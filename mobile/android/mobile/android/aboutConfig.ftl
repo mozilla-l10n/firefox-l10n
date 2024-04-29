@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Kopa Igama
 config-context-menu-copy-pref-value =
     .label = Kopa ixabiso
+
