@@ -17,3 +17,4 @@ config-new-pref-change-button = Kyuusa
 config-pref-toggle-button = Ffula
 config-pref-reset-button = Zzayo
 
+
