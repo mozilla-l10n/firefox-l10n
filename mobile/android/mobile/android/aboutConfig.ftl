@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Mě kopěrowaś
 config-context-menu-copy-pref-value =
     .label = Gódnotu kopěrowaś
+
