@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Afrita heiti
 config-context-menu-copy-pref-value =
     .label = Afrita gildi
+
