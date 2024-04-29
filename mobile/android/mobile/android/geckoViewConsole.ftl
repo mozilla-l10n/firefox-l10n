@@ -11,3 +11,4 @@ console-stacktrace-anonymous-function = <anoniem>
 #   $functionName (String): JavaScript function name
 #   $lineNumber (String): The line number of the stacktrace call
 console-stacktrace = Stapelspoor vanaf { $filename }, funksie { $functionName }, lyn { $lineNumber }.
+
