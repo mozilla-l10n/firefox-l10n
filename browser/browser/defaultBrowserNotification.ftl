@@ -32,5 +32,9 @@ default-browser-guidance-notification-body-instruction-win10 =
     Krok 1: Přeńdźće k PC-Einstellungen > Apps > Standard-Apps
     Krok 2: Kulće dele do „Webbrowser“
     Krok 3: Wubjerće { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Krok 1: Přeńdźće k PC-Einstellungen > Apps > Standard-Apps
+    Krok 2: Wubjerće „Als Standard setzen“ za { -brand-short-name }
 default-browser-guidance-notification-info-page = Pokazać
 default-browser-guidance-notification-dismiss = Dokónčeny
