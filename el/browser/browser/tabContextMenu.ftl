@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Κλείσιμο πολλαπλών καρτελών
     .accesskey = π
+tab-context-close-duplicate-tabs =
+    .label = Κλείσιμο διπλών καρτελών
+    .accesskey = λ
 tab-context-share-url =
     .label = Κοινή χρήση
     .accesskey = χ
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Μετακίνηση καρτελών
         }
     .accesskey = τ
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
