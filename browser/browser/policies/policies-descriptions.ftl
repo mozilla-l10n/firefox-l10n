@@ -41,6 +41,8 @@ policy-DisableDefaultBrowserAgent = Omboyke pe kundahára ijypyguáva oñepyrũv
 policy-DisableDeveloperTools = Ejoko ñangarekohára rembiporúpe jeike.
 policy-DisableFeedbackCommands = Eipe’a mbohapeha emondo hag̃ua neñe’ẽ pytyvõha poravorã guive (Emondo neñe’ẽ ha emomarandu tenda imarãva).
 policy-DisableFirefoxAccounts = Eipe’a mba’epytyvõrã { -fxaccount-brand-name } pegua, oĩhápe avei Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Eipe’a umi mba’eporu mba’etegua, oikehápe ñembojuehe.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Eipe’a Firefox Screenshots rembiapoite.
 policy-DisableFirefoxStudies = Ani eheja { -brand-short-name } omomba’apo ñembokatupyry.
