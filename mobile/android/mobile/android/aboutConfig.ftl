@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Arhikua monharhintani
 config-context-menu-copy-pref-value =
     .label = Mak'u jasi monharhintani
+
