@@ -26,6 +26,14 @@ about-reader-color-theme-contrast = Contrastate
     .title = Thema de color Contrastate
 about-reader-color-theme-custom = Colores personalisate
     .title = Thema de color personalisate
+about-reader-color-light-theme = Clar
+    .title = Thema clar
+about-reader-color-dark-theme = Obscur
+    .title = Thema obscur
+about-reader-color-sepia-theme = Sepia
+    .title = Thema sepia
+about-reader-color-auto-theme = Auto
+    .title = Thema auto
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -85,3 +93,10 @@ about-reader-custom-colors-visited-links = Ligamines visitate
 about-reader-custom-colors-selection-highlight = Evidentiator pro leger in alte voce
     .title = Rediger color
 about-reader-custom-colors-reset-button = Restablir parametros predefinite
+
+## Reader View improved text and layout menu
+
+about-reader-slider-label-width-narrow = Stricte
+about-reader-slider-label-width-wide = Large
+about-reader-character-spacing-label =
+    .label = Distantia inter characteres
