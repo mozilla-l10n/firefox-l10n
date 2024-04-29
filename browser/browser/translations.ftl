@@ -126,6 +126,12 @@ translations-manage-description = Iscàrriga lìnguas pro sa tradutzione in fora
 translations-manage-all-language = Totu is lìnguas
 translations-manage-download-button = Iscàrriga
 translations-manage-delete-button = Cantzella
+translations-manage-language-remove-button =
+    .label = Boga
+translations-manage-language-remove-all-button =
+    .label = Boga totu
+    .accesskey = o
+translations-manage-error-install = Ddoe est istadu unu problema installende is archìvios de lìngua. Torra a proare.
 translations-manage-error-download = Ddoe est istadu unu problema iscarrighende is archìvios de lìngua. Torra a proare.
 translations-manage-error-delete = Ddoe est istadu unu problema cantzellende is archìvios de lìngua. Torra a proare.
 translations-manage-intro = Cunfigura is preferèntzias de lìngua e tradutzione de sitos e gesti is lìnguas installadas pro sa tradutzione a foras de lìnia.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Installa totu
     .accesskey = I
-translations-manage-language-remove-button =
-    .label = Boga
-translations-manage-language-remove-all-button =
-    .label = Boga totu
-    .accesskey = o
-translations-manage-error-install = Ddoe est istadu unu problema installende is archìvios de lìngua. Torra a proare.
 translations-manage-error-remove = Ddoe est istadu unu problema cantzellende is archìvios de lìngua. Torra a proare.
 translations-manage-error-list =
     Impossìbile otènnere sa lista de is lìnguas disponìbiles pro sa tradutzione.
@@ -172,3 +172,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Serra
     .buttonaccesskeyaccept = S
+select-translations-panel-cancel-button =
+    .label = Annulla
+select-translations-panel-translate-button =
+    .label = Tradue
+select-translations-panel-try-again-button =
+    .label = Torra a nche proare
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Ddoe est istadu unu problema cun sa tradutzione. Torra a proare.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Custa lìngua no est ancora cumpatìbile: { $language }
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Custa lìngua no est ancora cumpatìbile.
