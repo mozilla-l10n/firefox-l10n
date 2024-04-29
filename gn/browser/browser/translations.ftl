@@ -133,6 +133,7 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Emohendapa
     .accesskey = I
+translations-manage-intro-2 = Emohenda tenda ñe’ẽ ha ñemoñe’ẽasa ehayhúvéva ha eñangereko umi ñe’ẽ emboguejýva emoñe’ẽasátava ñanduti’ỹre.
 translations-manage-download-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag̃ua ñanduti’ỹre
 translations-manage-language-download-button =
     .label = Mboguejy
