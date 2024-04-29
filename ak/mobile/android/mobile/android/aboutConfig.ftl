@@ -13,3 +13,4 @@ config-new-pref-change-button = Sesa
 config-pref-toggle-button = Tɔgel
 config-pref-reset-button = Hyehyɛ-bio
 
+
