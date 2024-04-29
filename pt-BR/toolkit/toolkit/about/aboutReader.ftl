@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Contraste
     .title = Tema de cores com contraste
 about-reader-color-theme-custom = Cores personalizadas
     .title = Tema de cores personalizadas
+about-reader-color-light-theme = Claro
+    .title = Tema claro
+about-reader-color-dark-theme = Escuro
+    .title = Tema escuro
+about-reader-color-sepia-theme = Sépia
+    .title = Tema sépia
+about-reader-color-auto-theme = Automático
+    .title = Tema automático
+about-reader-color-gray-theme = Cinza
+    .title = Tema cinza
+about-reader-color-contrast-theme = Contraste
+    .title = Tema de contraste
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Sem serifa
 about-reader-toolbar-close = Fechar leitor
 about-reader-toolbar-type-controls = Controle de fontes
 about-reader-toolbar-color-controls = Cores
+about-reader-toolbar-text-layout-controls = Texto e layout
+about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Salvar no { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -85,3 +99,28 @@ about-reader-custom-colors-visited-links = Links visitados
 about-reader-custom-colors-selection-highlight = Destacador para ler em voz alta
     .title = Editar cor
 about-reader-custom-colors-reset-button = Restaurar padrão
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Layout
+about-reader-advanced-layout-header = Avançado
+about-reader-slider-label-width-narrow = Estreito
+about-reader-slider-label-width-wide = Largo
+about-reader-slider-label-spacing-narrow = Estreito
+about-reader-slider-label-spacing-standard = Normal
+about-reader-slider-label-spacing-wide = Largo
+about-reader-content-width-label =
+    .label = Largura do conteúdo
+about-reader-line-spacing-label =
+    .label = Espaçamento entre linhas
+about-reader-character-spacing-label =
+    .label = Espaçamento entre caracteres
+about-reader-word-spacing-label =
+    .label = Espaçamento entre palavras
+about-reader-text-alignment-label = Alinhamento de texto
+about-reader-text-alignment-left =
+    .title = Alinhar texto à esquerda
+about-reader-text-alignment-center =
+    .title = Centralizar texto
+about-reader-text-alignment-right =
+    .title = Alinhar texto à direita

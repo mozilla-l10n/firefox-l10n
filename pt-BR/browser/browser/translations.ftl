@@ -221,10 +221,18 @@ select-translations-panel-copy-button-copied =
     .label = Copiado
 select-translations-panel-done-button =
     .label = Pronto
+select-translations-panel-translate-full-page-button =
+    .label = Traduzir página inteira
 select-translations-panel-translate-button =
     .label = Traduzir
 select-translations-panel-try-again-button =
     .label = Tentar novamente
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = O texto traduzido aparece aqui.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Traduzindo…
+select-translations-panel-init-failure-message =
+    .message = Não foi possível carregar idiomas. Verifique sua conexão com a internet e tente novamente.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Houve um problema ao traduzir. Tente novamente.
@@ -238,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Desculpe, ainda não oferecemos suporte a { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Desculpe, ainda não oferecemos suporte a este idioma.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Configurações de tradução
