@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Kopioi nimi
 config-context-menu-copy-pref-value =
     .label = Kopioi arvo
+
