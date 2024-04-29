@@ -55,5 +55,10 @@ default-browser-guidance-notification-title =
         [with-cases] Dokončete nastavení { -brand-short-name(case: "gen") } jako výchozího prohlížeče
        *[no-cases] Dokončete nastavení aplikace { -brand-short-name } jako výchozího prohlížeče
     }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Krok 1: Přejděte do Nastavení > Výchozí aplikace
+    Krok 2: Přejděte dolů na „Webový prohlížeč“
+    Krok 3: Vyberte aplikaci { -brand-short-name }
 default-browser-guidance-notification-info-page = Zobrazit
 default-browser-guidance-notification-dismiss = Hotovo
