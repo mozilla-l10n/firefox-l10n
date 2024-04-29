@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Lí chop lél
 config-context-menu-copy-pref-value =
     .label = Lí chop ko tak ah
+
