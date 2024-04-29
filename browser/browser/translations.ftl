@@ -126,6 +126,12 @@ translations-manage-description = ᱚᱯᱷᱞᱟᱭᱤᱱ ᱛᱚᱨᱡᱚᱢᱟ
 translations-manage-all-language = ᱡᱷᱚᱛᱚ ᱯᱟᱹᱨᱥᱤᱠᱚ
 translations-manage-download-button = ᱰᱟᱣᱱᱞᱚᱰ
 translations-manage-delete-button = ᱢᱮᱴᱟᱣ ᱢᱮ
+translations-manage-language-remove-button =
+    .label = ᱚᱪᱚᱜᱽ ᱢᱮ
+translations-manage-language-remove-all-button =
+    .label = ᱡᱷᱚᱛᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = e
+translations-manage-error-install = ᱯᱟᱹᱨᱥᱤ ᱨᱚᱫᱽᱠᱚ ᱵᱚᱦᱟᱞ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱩᱭ ᱞᱮᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 translations-manage-error-download = ᱯᱟᱹᱨᱥᱤ ᱨᱚᱫᱽᱠᱚ ᱰᱟᱣᱱᱞᱚᱰ ᱨᱮ ᱵᱷᱩᱞ ᱦᱩᱭ ᱞᱮᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 translations-manage-error-delete = ᱯᱟᱹᱨᱥᱤ ᱨᱚᱫᱽᱠᱚ ᱢᱮᱴᱟᱣᱨᱮ ᱵᱷᱩᱞ ᱦᱩᱭ ᱞᱮᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 translations-manage-intro = ᱚᱯᱷᱞᱟᱭᱤᱱ ᱛᱚᱨᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱟᱨ ᱥᱟᱭᱤᱴ ᱛᱚᱨᱡᱚᱢᱟᱠᱚ ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱵᱚᱦᱟᱞ ᱠᱟᱱ ᱯᱟᱹᱨᱥᱤᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ ᱾
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = ᱡᱷᱚᱛᱚ ᱵᱚᱦᱟᱞᱢᱮ
     .accesskey = I
-translations-manage-language-remove-button =
-    .label = ᱚᱪᱚᱜᱽ ᱢᱮ
-translations-manage-language-remove-all-button =
-    .label = ᱡᱷᱚᱛᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
-    .accesskey = e
-translations-manage-error-install = ᱯᱟᱹᱨᱥᱤ ᱨᱚᱫᱽᱠᱚ ᱵᱚᱦᱟᱞ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱩᱭ ᱞᱮᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 translations-manage-error-remove = ᱯᱟᱹᱨᱥᱤ ᱨᱚᱫᱽᱠᱚ ᱚᱪᱚᱜ ᱨᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱷᱩᱞ ᱦᱩᱭ ᱞᱮᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 translations-manage-error-list = ᱛᱚᱨᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱨᱥᱤᱠᱚ ᱨᱮᱱᱟᱜ ᱞᱤᱥᱴᱤ ᱧᱟᱢᱚᱜᱨᱮ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱦᱴᱟ ᱟᱨ ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱫᱩᱦᱲᱟᱹ ᱟᱹᱨᱩᱭ ᱢᱮ ᱾
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = ᱵᱟᱹᱰᱨᱟᱹ
+select-translations-panel-translate-button =
+    .label = ᱛᱚᱨᱡᱚᱢᱟ
+select-translations-panel-try-again-button =
+    .label = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = ᱛᱚᱨᱡᱚᱢᱟ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱦᱩᱭᱮᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = ᱠᱠᱟᱹ, ᱟᱞᱮ { $language } ᱯᱟᱹᱨᱥᱤ ᱱᱤᱛ ᱫᱷᱟᱹᱵᱤᱡ ᱵᱟᱞᱮ ᱥᱚᱦᱚᱫ ᱠᱟᱫᱟ ᱾
+select-translations-panel-unsupported-language-message-unknown =
+    .message = ᱠᱠᱟᱹ, ᱟᱞᱮ { $language } ᱯᱟᱹᱨᱥᱤ ᱱᱤᱛ ᱫᱷᱟᱹᱵᱤᱡ ᱵᱟᱞᱮ ᱥᱚᱦᱚᱫ ᱠᱟᱫᱟ ᱾
