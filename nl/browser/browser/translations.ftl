@@ -126,6 +126,13 @@ translations-manage-description = Talen voor offline vertaling downloaden.
 translations-manage-all-language = Alle talen
 translations-manage-download-button = Downloaden
 translations-manage-delete-button = Verwijderen
+translations-manage-intro = Stel uw voorkeuren voor taal en websitevertaling in en beheer geïnstalleerde talen voor offline vertaling.
+translations-manage-install-description = Talen voor offline vertaling installeren
+translations-manage-language-install-button =
+    .label = Installeren
+translations-manage-language-install-all-button =
+    .label = Alle installeren
+    .accesskey = i
 translations-manage-intro-2 = Stel uw voorkeuren voor taal en websitevertaling in en beheer gedownloade talen voor offline vertaling.
 translations-manage-download-description = Talen voor offline vertaling downloaden
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Er is een probleem opgetreden bij het installeren van de taalbestanden. Probeer het opnieuw.
 translations-manage-error-download = Er is een probleem opgetreden bij het downloaden van de taalbestanden. Probeer het opnieuw.
 translations-manage-error-delete = Er is een probleem opgetreden bij het verwijderen van de taalbestanden. Probeer het opnieuw.
-translations-manage-intro = Stel uw voorkeuren voor taal en websitevertaling in en beheer geïnstalleerde talen voor offline vertaling.
-translations-manage-install-description = Talen voor offline vertaling installeren
-translations-manage-language-install-button =
-    .label = Installeren
-translations-manage-language-install-all-button =
-    .label = Alle installeren
-    .accesskey = i
 translations-manage-error-remove = Er is een probleem opgetreden bij het verwijderen van de taalbestanden. Probeer het opnieuw.
 translations-manage-error-list = Kan de lijst met beschikbare talen voor vertaling niet ophalen. Vernieuw de pagina om het opnieuw te proberen.
 translations-settings-title =
@@ -177,12 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Sluiten
     .buttonaccesskeyaccept = S
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Selectie vertalen…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Selectie vertalen naar het { $language }
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Koppelingstekst vertalen…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Koppelingstekst vertalen naar het { $language }
+    .accesskey = n
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Vertaling
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Van
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Naar
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Probeer een andere brontaal
 select-translations-panel-cancel-button =
     .label = Annuleren
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopiëren
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Gekopieerd
+select-translations-panel-done-button =
+    .label = Gereed
+select-translations-panel-translate-full-page-button =
+    .label = Volledige pagina vertalen
 select-translations-panel-translate-button =
     .label = Vertalen
 select-translations-panel-try-again-button =
     .label = Opnieuw proberen
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Vertaalde tekst verschijnt hier.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Vertalen…
+select-translations-panel-init-failure-message =
+    .message = Kan talen niet laden. Controleer uw internetverbinding en probeer het opnieuw.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Er is een probleem opgetreden bij het vertalen. Probeer het opnieuw.
@@ -196,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Sorry, we ondersteunen het { $language } nog niet.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Sorry, we ondersteunen deze taal nog niet.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Vertaalinstellingen
