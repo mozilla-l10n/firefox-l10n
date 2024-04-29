@@ -190,12 +190,49 @@ main-context-menu-translate-selection =
 main-context-menu-translate-selection-to-language =
     .label = Traducer selection in { $language }
     .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Traducer le texto del ligamine…
+    .accesskey = d
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Traducer testo del ligamine in { $language }
+    .accesskey = d
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Traduction
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Ab
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = A
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Proba un altere lingua fonte
 select-translations-panel-cancel-button =
     .label = Cancellar
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Copiar
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Copiate
+select-translations-panel-done-button =
+    .label = Facite
+select-translations-panel-translate-full-page-button =
+    .label = Traducer le pagina integre
 select-translations-panel-translate-button =
     .label = Traducer
 select-translations-panel-try-again-button =
     .label = Retentar
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Le texto traducite apparera ci
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Traducente…
+select-translations-panel-init-failure-message =
+    .message = Impossibile cargar le linguas. Controla tu connexion a internet e retenta.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Il habeva un problema traducente. Retenta.
@@ -209,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Nos regretta, nos ancora non supporta { $language }.-
 select-translations-panel-unsupported-language-message-unknown =
     .message = Nos regretta, nos ancora non supporta iste lingua.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Parametros de traduction
