@@ -126,13 +126,6 @@ translations-manage-description = 下載語言檔案，進行離線翻譯。
 translations-manage-all-language = 所有語言
 translations-manage-download-button = 下載
 translations-manage-delete-button = 刪除
-translations-manage-intro = 設定您的語言與網站翻譯偏好設定，或管理已安裝的離線翻譯語言檔。
-translations-manage-install-description = 安裝離線翻譯用的語言檔案
-translations-manage-language-install-button =
-    .label = 安裝
-translations-manage-language-install-all-button =
-    .label = 安裝全部
-    .accesskey = I
 translations-manage-intro-2 = 設定您的語言與網站翻譯偏好設定，或管理已下載的離線翻譯語言檔。
 translations-manage-download-description = 下載語言檔案進行離線翻譯
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = 安裝語言檔案時發生問題，請再試一次。
 translations-manage-error-download = 下載語言檔案時發生問題，請再試一次。
 translations-manage-error-delete = 刪除語言檔案時發生錯誤，請再試一次。
+translations-manage-intro = 設定您的語言與網站翻譯偏好設定，或管理已安裝的離線翻譯語言檔。
+translations-manage-install-description = 安裝離線翻譯用的語言檔案
+translations-manage-language-install-button =
+    .label = 安裝
+translations-manage-language-install-all-button =
+    .label = 安裝全部
+    .accesskey = I
 translations-manage-error-remove = 移除語言檔案時發生錯誤，請再試一次。
 translations-manage-error-list = 取得可下載語言清單時發生錯誤，請重新整理頁面後再試一次。
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = 關閉
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = 取消
+select-translations-panel-translate-button =
+    .label = 翻譯
+select-translations-panel-try-again-button =
+    .label = 重試
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = 翻譯時發生問題，請再試一次。
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = 抱歉，我們尚未支援 { $language }。
+select-translations-panel-unsupported-language-message-unknown =
+    .message = 抱歉，我們尚未支援此語言。
