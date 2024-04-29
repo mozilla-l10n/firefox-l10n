@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Nɣel isem
 config-context-menu-copy-pref-value =
     .label = Nɣel azal
+
