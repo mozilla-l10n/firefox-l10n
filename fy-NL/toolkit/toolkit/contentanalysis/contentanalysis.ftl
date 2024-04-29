@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = Kin gjin ferbining meitsje mei { $a
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Undertekeningsferifikaaasje foar { $agent } mislearre.  Oerdracht wegere foar boarne: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Der is in flater bard by de kommunikaasje mei { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Kin gjin ferbining meitsje mei { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Undertekeningsferifikaasje foar { $agent } mislearre. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Oplaad fan ‘{ $filename }’ wegere.
+contentanalysis-error-message-dropped-text = Slepe en delsette wegere.
+contentanalysis-error-message-clipboard = Plakke wegere.
+contentanalysis-error-message-print = Ofdrukken wegere.
 contentanalysis-block-dialog-title-upload-file = Jo meie dit bestân net oplade
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

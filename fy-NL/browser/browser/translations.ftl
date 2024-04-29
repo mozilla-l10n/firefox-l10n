@@ -126,6 +126,13 @@ translations-manage-description = Talen foar offline oersetting downloade.
 translations-manage-all-language = Alle talen
 translations-manage-download-button = Downloade
 translations-manage-delete-button = Fuortsmite
+translations-manage-intro = Stel jo foarkarren foar taal- en side-oersetting yn en behear talen dy’t ynstallearre binne foar offline oersetting.
+translations-manage-install-description = Talen foar offline oersetting ynstallearje.
+translations-manage-language-install-button =
+    .label = Ynstallearje
+translations-manage-language-install-all-button =
+    .label = Alle ynstallearje
+    .accesskey = y
 translations-manage-intro-2 = Stel jo foarkarren foar taal- en website-oersetting yn en behear talen dy’t ynstallearre binne foar offline oersetting.
 translations-manage-download-description = Talen foar offline oersetting downloade
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Der is in probleem bard by it ynstallearjen fan de taalbestannen. Probearje it opnij.
 translations-manage-error-download = Der is in probleem bard by it downloaden fan de taalbestannen. Probearje it opnij.
 translations-manage-error-delete = Der is in probleem bard by it fuortsmiten fan de taalbestannen. Probearje it opnij.
-translations-manage-intro = Stel jo foarkarren foar taal- en side-oersetting yn en behear talen dy’t ynstallearre binne foar offline oersetting.
-translations-manage-install-description = Talen foar offline oersetting ynstallearje.
-translations-manage-language-install-button =
-    .label = Ynstallearje
-translations-manage-language-install-all-button =
-    .label = Alle ynstallearje
-    .accesskey = y
 translations-manage-error-remove = Der is in probleem bard by it fuortsmiten fan de taalbestannen. Probearje it opnij.
 translations-manage-error-list = Kin de list mei beskikbere talen foar oersetting net ophelje. Fernij de side om it opnij te probearjen.
 translations-settings-title =
@@ -177,12 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Slute
     .buttonaccesskeyaccept = S
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Seleksje oersette…
+    .accesskey = o
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Seleksje oersette nei it { $language }
+    .accesskey = o
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Keppelingstekst oersette…
+    .accesskey = o
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Keppelingstekst oersette nei it { $language }
+    .accesskey = o
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Oersetting
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Fan
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Nei it
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Probearje in oare boarnetaal
 select-translations-panel-cancel-button =
     .label = Annulearje
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopiearje
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Kopiearre
+select-translations-panel-done-button =
+    .label = Dien
+select-translations-panel-translate-full-page-button =
+    .label = Folsleine side oersette
 select-translations-panel-translate-button =
     .label = Oersette
 select-translations-panel-try-again-button =
     .label = Opnij probearje
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Oersette tekst ferskynt hjir.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Oersette…
+select-translations-panel-init-failure-message =
+    .message = Kin talen net lade. Kontrolearje jo ynternetferbining en probearje it nochris.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Der is in probleem bard by it oersetten. Probearje it opnij.
@@ -196,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Sorry, wy stypje it { $language } noch net.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Sorry, wy stypje dizze taal noch net.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Oersetynstellingen

@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Kontrast
     .title = Kleurtema Kontrast
 about-reader-color-theme-custom = Oanpaste kleuren
     .title = Kleurtema Oanpaste kleuren
+about-reader-color-light-theme = Ljocht
+    .title = Ljocht tema
+about-reader-color-dark-theme = Donker
+    .title = Donker tema
+about-reader-color-sepia-theme = Sepia
+    .title = Sepia tema
+about-reader-color-auto-theme = Automatysk
+    .title = Automatysk tema
+about-reader-color-gray-theme = Griis
+    .title = Griis tema
+about-reader-color-contrast-theme = Kontrast
+    .title = Kontrast tema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Lêzerwerjefte slute
 about-reader-toolbar-type-controls = Lettertype-ynstellingen
 about-reader-toolbar-color-controls = Kleuren
+about-reader-toolbar-text-layout-controls = Tekst en opmaak
+about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Bewarje yn { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -85,3 +99,28 @@ about-reader-custom-colors-visited-links = Besochte keppelingen
 about-reader-custom-colors-selection-highlight = Markearstift foar hurdop lêze
     .title = Kleur bewurkje
 about-reader-custom-colors-reset-button = Standertynstellingen opnij ynstelle
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Yndieling
+about-reader-advanced-layout-header = Avansearre
+about-reader-slider-label-width-narrow = Smel
+about-reader-slider-label-width-wide = Breed
+about-reader-slider-label-spacing-narrow = Smel
+about-reader-slider-label-spacing-standard = Standert
+about-reader-slider-label-spacing-wide = Breed
+about-reader-content-width-label =
+    .label = Breedte fan ynhâld
+about-reader-line-spacing-label =
+    .label = Regelôfstân
+about-reader-character-spacing-label =
+    .label = Tekenôfstân
+about-reader-word-spacing-label =
+    .label = Wurdspasjearing
+about-reader-text-alignment-label = Tekstútlining
+about-reader-text-alignment-left =
+    .title = Tekst lofts rjochtsje
+about-reader-text-alignment-center =
+    .title = Tekst sintrearre rjochtsje
+about-reader-text-alignment-right =
+    .title = Tekst rjochts rjochtsje
