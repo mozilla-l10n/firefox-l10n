@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Tiwachib'ëx ri b'i'aj
 config-context-menu-copy-pref-value =
     .label = Tiwachib'ëx retal
+
