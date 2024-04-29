@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = નામની નકલ કરો
 config-context-menu-copy-pref-value =
     .label = કિંમતની નકલ કરો
+
