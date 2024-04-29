@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = სახელის ასლი
 config-context-menu-copy-pref-value =
     .label = მნიშვნელობის ასლი
+
