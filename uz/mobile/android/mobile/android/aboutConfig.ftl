@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Nomidan nusxa olish
 config-context-menu-copy-pref-value =
     .label = Qiymatdan nusxa olish
+
