@@ -34,6 +34,10 @@ about-reader-color-sepia-theme = Sepia
     .title = Thema sepia
 about-reader-color-auto-theme = Auto
     .title = Thema auto
+about-reader-color-gray-theme = Gris
+    .title = Thema gris
+about-reader-color-contrast-theme = Contrasto
+    .title = Thema contrasto
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -70,6 +74,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Clauder le vista de lectura
 about-reader-toolbar-type-controls = Controlos de typo
 about-reader-toolbar-color-controls = Colores
+about-reader-toolbar-text-layout-controls = Testo e disposition
+about-reader-toolbar-theme-controls = Thema
 about-reader-toolbar-savetopocket = Salvar in { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -96,7 +102,25 @@ about-reader-custom-colors-reset-button = Restablir parametros predefinite
 
 ## Reader View improved text and layout menu
 
+about-reader-layout-header = Disposition
+about-reader-advanced-layout-header = Avantiate
 about-reader-slider-label-width-narrow = Stricte
 about-reader-slider-label-width-wide = Large
+about-reader-slider-label-spacing-narrow = Stricte
+about-reader-slider-label-spacing-standard = Standard
+about-reader-slider-label-spacing-wide = Large
+about-reader-content-width-label =
+    .label = Largessa de contento
+about-reader-line-spacing-label =
+    .label = Interlinea
 about-reader-character-spacing-label =
     .label = Distantia inter characteres
+about-reader-word-spacing-label =
+    .label = Distantia inter parolas
+about-reader-text-alignment-label = Alineamento del testo
+about-reader-text-alignment-left =
+    .title = Alinear texto a sinistra
+about-reader-text-alignment-center =
+    .title = Alinear texto al centro
+about-reader-text-alignment-right =
+    .title = Alinear texto a dextra

@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = Connexion a { $agent } impossibile.
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Verification de firma pro { $agent } fallite. Transferentia denegate pro le ressource: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Impossibile connecter se a { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Cargamento de “{ $filename }” refusate.
+contentanalysis-error-message-dropped-text = Traher e deponer refusate.
+contentanalysis-error-message-clipboard = Collar refusate.
+contentanalysis-error-message-print = Imprimer refusate.
 contentanalysis-block-dialog-title-upload-file = Tu non ha permisso de cargar iste file
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
