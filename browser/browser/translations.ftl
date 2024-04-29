@@ -126,6 +126,20 @@ translations-manage-description = Завантажити мови для офл�
 translations-manage-all-language = Усі мови
 translations-manage-download-button = Завантажити
 translations-manage-delete-button = Видалити
+translations-manage-intro = Оберіть свою мову і налаштуйте переклад сайтів, а також керуйте мовами, що встановлюються для перекладу офлайн.
+translations-manage-install-description = Встановити мови для перекладу офлайн
+translations-manage-language-install-button =
+    .label = Встановити
+translations-manage-language-install-all-button =
+    .label = Встановити всі
+    .accesskey = т
+translations-manage-intro-2 = Налаштуйте параметри мови та перекладу сайтів, а також керуйте мовами, завантаженими для перекладу офлайн.
+translations-manage-download-description = Завантажити мови для офлайн-перекладу
+translations-manage-language-download-button =
+    .label = Завантажити
+translations-manage-language-download-all-button =
+    .label = Завантажити всі
+    .accesskey = с
 translations-manage-language-remove-button =
     .label = Вилучити
 translations-manage-language-remove-all-button =
@@ -134,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Виникла проблема під час встановлення мовних файлів. Спробуйте ще раз.
 translations-manage-error-download = Виникла проблема із завантаженням мовних файлів. Повторіть спробу.
 translations-manage-error-delete = Під час видалення мовних файлів сталася помилка. Повторіть спробу.
-translations-manage-intro = Оберіть свою мову і налаштуйте переклад сайтів, а також керуйте мовами, що встановлюються для перекладу офлайн.
-translations-manage-install-description = Встановити мови для перекладу офлайн
-translations-manage-language-install-button =
-    .label = Встановити
-translations-manage-language-install-all-button =
-    .label = Встановити всі
-    .accesskey = т
 translations-manage-error-remove = Виникла проблема під час вилучення мовних файлів. Спробуйте ще раз.
 translations-manage-error-list = Не вдалося отримати список доступних мов для перекладу. Оновіть сторінку, щоб повторити спробу.
 translations-settings-title =
@@ -170,12 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Закрити
     .buttonaccesskeyaccept = З
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Перекласти вибране…
+    .accesskey = П
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Перекласти вибране мовою { $language }
+    .accesskey = м
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Перекласти текст посилання…
+    .accesskey = о
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Перекласти текст посилання мовою { $language }
+    .accesskey = ю
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Переклад
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = З
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Мовою
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Спробуйте іншу початкову мову
 select-translations-panel-cancel-button =
     .label = Скасувати
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Копіювати
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Скопійовано
+select-translations-panel-done-button =
+    .label = Готово
+select-translations-panel-translate-full-page-button =
+    .label = Перекласти всю сторінку
 select-translations-panel-translate-button =
     .label = Перекласти
 select-translations-panel-try-again-button =
     .label = Повторити спробу
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Тут з'явиться перекладений текст.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Переклад…
+select-translations-panel-init-failure-message =
+    .message = Не вдалося завантажити мови. Перевірте інтернет-з'єднання і повторіть спробу.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Виникла проблема з перекладом. Повторіть спробу.
@@ -189,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Перепрошуємо, { $language } ще не підтримується.
 select-translations-panel-unsupported-language-message-unknown =
     .message = На жаль, ми ще не підтримуємо цю мову.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Налаштування перекладу
