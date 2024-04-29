@@ -126,13 +126,6 @@ translations-manage-description = Rěcy za pśełožowanje offline ześěgnuś.
 translations-manage-all-language = Wšykne rěcy
 translations-manage-download-button = Ześěgnuś
 translations-manage-delete-button = Lašowaś
-translations-manage-intro = Póstajśo swóje nastajenja za rěc a pśełožowanje sedłow a zastojśo rěcy, kótarež su za pśełožowanje offline instalěrowane.
-translations-manage-install-description = Rěcy za pśełožowanje offline instalěrowaś
-translations-manage-language-install-button =
-    .label = Instalěrowaś
-translations-manage-language-install-all-button =
-    .label = Wšykne instalěrowaś
-    .accesskey = k
 translations-manage-intro-2 = Póstajśo swóje nastajenja za rěc a pśełožowanje sedłow a zastojśo rěcy, kótarež su za pśełožowanje offline ześěgnjone.
 translations-manage-download-description = Rěcy za pśełožowanje offline ześěgnuś
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Pśi instalěrowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-manage-error-download = Pśi ześěgowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-manage-error-delete = Pśi lašowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
+translations-manage-intro = Póstajśo swóje nastajenja za rěc a pśełožowanje sedłow a zastojśo rěcy, kótarež su za pśełožowanje offline instalěrowane.
+translations-manage-install-description = Rěcy za pśełožowanje offline instalěrowaś
+translations-manage-language-install-button =
+    .label = Instalěrowaś
+translations-manage-language-install-all-button =
+    .label = Wšykne instalěrowaś
+    .accesskey = k
 translations-manage-error-remove = Pśi wótwónoźowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-manage-error-list = Lisćina k dispoziciji stojecych rěcow za pśełožowanje njedajo se wótwołaś. Aktualizěrujśo bok a wopytajśo hyšći raz.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Zacyniś
     .buttonaccesskeyaccept = Z
+select-translations-panel-cancel-button =
+    .label = Pśetergnuś
+select-translations-panel-translate-button =
+    .label = Pśełožyś
+select-translations-panel-try-again-button =
+    .label = Hyšći raz wopytaś
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Pśi pśełožowanju jo problem nastał. Pšosym wopytajśo hyšći raz.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Bóžko { $language } hyšći njepódpěrajomy.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Bóžko toś tu rěc hyšći njepódpěrajomy.
