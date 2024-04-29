@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Maa berandi
 config-context-menu-copy-pref-value =
     .label = Hinna berandi
+
