@@ -126,6 +126,13 @@ translations-manage-description = 下載語言檔案，進行離線翻譯。
 translations-manage-all-language = 所有語言
 translations-manage-download-button = 下載
 translations-manage-delete-button = 刪除
+translations-manage-intro = 設定您的語言與網站翻譯偏好設定，或管理已安裝的離線翻譯語言檔。
+translations-manage-install-description = 安裝離線翻譯用的語言檔案
+translations-manage-language-install-button =
+    .label = 安裝
+translations-manage-language-install-all-button =
+    .label = 安裝全部
+    .accesskey = I
 translations-manage-intro-2 = 設定您的語言與網站翻譯偏好設定，或管理已下載的離線翻譯語言檔。
 translations-manage-download-description = 下載語言檔案進行離線翻譯
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = 安裝語言檔案時發生問題，請再試一次。
 translations-manage-error-download = 下載語言檔案時發生問題，請再試一次。
 translations-manage-error-delete = 刪除語言檔案時發生錯誤，請再試一次。
-translations-manage-intro = 設定您的語言與網站翻譯偏好設定，或管理已安裝的離線翻譯語言檔。
-translations-manage-install-description = 安裝離線翻譯用的語言檔案
-translations-manage-language-install-button =
-    .label = 安裝
-translations-manage-language-install-all-button =
-    .label = 安裝全部
-    .accesskey = I
 translations-manage-error-remove = 移除語言檔案時發生錯誤，請再試一次。
 translations-manage-error-list = 取得可下載語言清單時發生錯誤，請重新整理頁面後再試一次。
 translations-settings-title =
@@ -177,12 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = 關閉
     .buttonaccesskeyaccept = C
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = 翻譯選擇範圍…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = 將選擇範圍翻譯為{ $language }
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = 翻譯鏈結文字…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = 將鏈結文字翻譯為{ $language }
+    .accesskey = n
+# Text displayed in the select translations panel header.
+select-translations-panel-header = 翻譯
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = 從
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = 翻譯為
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = 嘗試其他原始語言
 select-translations-panel-cancel-button =
     .label = 取消
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = 複製
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = 已複製！
+select-translations-panel-done-button =
+    .label = 完成
+select-translations-panel-translate-full-page-button =
+    .label = 翻譯完整頁面
 select-translations-panel-translate-button =
     .label = 翻譯
 select-translations-panel-try-again-button =
     .label = 重試
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = 翻譯好的文字將顯示於此處。
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = 翻譯中…
+select-translations-panel-init-failure-message =
+    .message = 無法載入翻譯語言，請確認您的網際網路連線是否正常後再試一次。
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = 翻譯時發生問題，請再試一次。
@@ -196,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = 抱歉，我們尚未支援 { $language }。
 select-translations-panel-unsupported-language-message-unknown =
     .message = 抱歉，我們尚未支援此語言。
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = 翻譯設定

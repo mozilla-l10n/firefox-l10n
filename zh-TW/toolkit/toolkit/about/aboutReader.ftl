@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = 對比
     .title = 對比色佈景主題
 about-reader-color-theme-custom = 自訂色彩
     .title = 自訂色彩佈景主題
+about-reader-color-light-theme = 亮色
+    .title = 亮色佈景主題
+about-reader-color-dark-theme = 暗色
+    .title = 暗色佈景主題
+about-reader-color-sepia-theme = 懷舊風
+    .title = 懷舊風佈景主題
+about-reader-color-auto-theme = 自動
+    .title = 自動切換佈景主題
+about-reader-color-gray-theme = 灰色
+    .title = 灰色佈景主題
+about-reader-color-contrast-theme = 高對比
+    .title = 高對比度佈景主題
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -58,6 +70,8 @@ about-reader-font-type-sans-serif = 無襯線字
 about-reader-toolbar-close = 關閉閱讀模式
 about-reader-toolbar-type-controls = 字體控制
 about-reader-toolbar-color-controls = 色彩
+about-reader-toolbar-text-layout-controls = 文字與版面
+about-reader-toolbar-theme-controls = 佈景主題
 about-reader-toolbar-savetopocket = 儲存到 { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -81,3 +95,28 @@ about-reader-custom-colors-visited-links = 已拜訪鏈結
 about-reader-custom-colors-selection-highlight = 為閱讀功能加上強調效果
     .title = 編輯色彩
 about-reader-custom-colors-reset-button = 重設為預設值
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = 版面
+about-reader-advanced-layout-header = 進階
+about-reader-slider-label-width-narrow = 窄小
+about-reader-slider-label-width-wide = 寬闊
+about-reader-slider-label-spacing-narrow = 窄小
+about-reader-slider-label-spacing-standard = 標準
+about-reader-slider-label-spacing-wide = 寬闊
+about-reader-content-width-label =
+    .label = 內容寬度
+about-reader-line-spacing-label =
+    .label = 行距
+about-reader-character-spacing-label =
+    .label = 字元間距
+about-reader-word-spacing-label =
+    .label = 文字間距
+about-reader-text-alignment-label = 文字對齊方式
+about-reader-text-alignment-left =
+    .title = 文字置左
+about-reader-text-alignment-center =
+    .title = 文字置中
+about-reader-text-alignment-right =
+    .title = 文字置右
