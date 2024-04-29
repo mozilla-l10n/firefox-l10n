@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Αντιγραφή ονόματος
 config-context-menu-copy-pref-value =
     .label = Αντιγραφή τιμής
+
