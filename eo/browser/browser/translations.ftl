@@ -126,6 +126,12 @@ translations-manage-description = Elŝuti lingvojn por malkonektita traduko.
 translations-manage-all-language = Ĉiuj lingvoj
 translations-manage-download-button = Elŝuti
 translations-manage-delete-button = Forigi
+translations-manage-language-remove-button =
+    .label = Forigi
+translations-manage-language-remove-all-button =
+    .label = Forigi ĉiujn
+    .accesskey = F
+translations-manage-error-install = Okazis problemo dum instalo de lingvaj dosieroj. Bonvolu provi denove.
 translations-manage-error-download = Okazis problemo dum elŝuto de lingvaj dosieroj. Bonvolu klopodi denove.
 translations-manage-error-delete = Okazis eraro dum forigo de lingvaj dosieroj. Bonvolu klopodi denove.
 translations-manage-intro = Difinu vian lingvajn kaj retejajn preferojn kaj administru instalitajn lingvojn por traduki malkonektite.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Instali ĉiujn
     .accesskey = I
-translations-manage-language-remove-button =
-    .label = Forigi
-translations-manage-language-remove-all-button =
-    .label = Forigi ĉiujn
-    .accesskey = F
-translations-manage-error-install = Okazis problemo dum instalo de lingvaj dosieroj. Bonvolu provi denove.
 translations-manage-error-remove = Okazis eraro dum forigo de lingvaj dosieroj. Bonvolu klopodi denove.
 translations-manage-error-list = Ne eblis ricevi la liston de haveblaj lingvoj por traduko. Reŝargi la paĝon por klopodi denove.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Fermi
     .buttonaccesskeyaccept = F
+select-translations-panel-cancel-button =
+    .label = Nuligi
+select-translations-panel-translate-button =
+    .label = Traduki
+select-translations-panel-try-again-button =
+    .label = Klopodi denove
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Okazis problemo dum traduko, bonvolu provi denove.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Bedaŭrinde ni ankoraŭ ne subtenas la { $language }n.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Bedaŭrinde ni ankoraŭ ne subtenas tiun ĉi lingvon.
