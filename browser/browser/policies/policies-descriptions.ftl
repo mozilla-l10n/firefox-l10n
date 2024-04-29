@@ -39,8 +39,11 @@ policy-DisableAppUpdate = מניעת עדכון הדפדפן.
 policy-DisableBuiltinPDFViewer = השבתת PDF.js, מציג ה־PDF המובנה ב־{ -brand-short-name }.
 policy-DisableDefaultBrowserAgent = למנוע מסוכן הדפדפן ברירת המחדל מלבצע פעולות כלשהן. תקף ל־Windows בלבד; בסביבות אחרות אין את הסוכן הזה.
 policy-DisableDeveloperTools = חסימת גישה לכלי הפיתוח.
+policy-DisableEncryptedClientHello = השבתת השימוש בתכונת TLS בשם Encrypted Client Hello‏ (ECH).
 policy-DisableFeedbackCommands = השבתת פקודות לשליחת משוב מתפריט העזרה (שליחת משוב ודיווח על אתר מטעה).
 policy-DisableFirefoxAccounts = השבתת שירותים מבוססי { -fxaccount-brand-name(case: "a") }, לרבות Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = השבתת שירותים מבוססי חשבון, כולל סנכרון.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = השבתת התכונה Firefox Screenshots.
 policy-DisableFirefoxStudies = למנוע מ־{ -brand-short-name } להריץ מחקרים.
