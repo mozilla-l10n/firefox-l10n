@@ -101,9 +101,6 @@ translations-manage-description = ດາວໂຫຼດພາສາສຳລັ�
 translations-manage-all-language = ພາສາທັງໝົດ
 translations-manage-download-button = ດາວໂຫລດ
 translations-manage-delete-button = ລຶບ
-translations-manage-language-delete-button =
-    .label = ລຶບ
-    .accesskey = e
 translations-manage-error-download = ມີບັນຫາໃນການດາວໂຫຼດໄຟລ໌ພາສາ. ກະລຸນາລອງອີກຄັ້ງ.
 translations-manage-error-delete = ມີຄວາມຜິດພາດໃນການລຶບໄຟລ໌ພາສາ. ກະລຸນາລອງອີກຄັ້ງ.
 translations-manage-error-list = ລົ້ມເຫລວໃນການຮັບເອົາລາຍຊື່ພາສາທີ່ມີຢູ່ສໍາລັບການແປ. ໂຫຼດໜ້ານີ້ຄືນໃໝ່ເພື່ອລອງອີກຄັ້ງ.
@@ -128,3 +125,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = ປິດ
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = ຍົກເລີກ
+select-translations-panel-translate-button =
+    .label = ແປ
+select-translations-panel-try-again-button =
+    .label = ລອງໃຫມ່ອີກຄັ້ງ
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = ມີບັນຫາໃນການແປ. ກະລຸນາລອງອີກຄັ້ງ.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = ຂໍອະໄພ, ພວກເຮົາຍັງບໍ່ຮອງຮັບ { $language } ເທື່ອ.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = ຂໍອະໄພ, ພວກເຮົາຍັງບໍ່ຮອງຮັບພາສານີ້ເທື່ອ.
