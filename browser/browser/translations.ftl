@@ -112,9 +112,6 @@ translations-manage-description = Преузмите језике за офла�
 translations-manage-all-language = Сви језици
 translations-manage-download-button = Преузми
 translations-manage-delete-button = Обриши
-translations-manage-language-delete-button =
-    .label = Избриши
-    .accesskey = И
 translations-manage-error-download = Дошло је до проблема при преузимању језичких датотека. Покушајте поново.
 translations-manage-error-delete = Дошло је до грешке при брисању језичких датотека. Покушајте поново.
 translations-manage-error-list = Није могуће добити листу доступних језика за превод. Освежите страницу да покушате поново.
@@ -145,3 +142,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Затвори
     .buttonaccesskeyaccept = З
+select-translations-panel-cancel-button =
+    .label = Откажи
+select-translations-panel-translate-button =
+    .label = Преведи
+select-translations-panel-try-again-button =
+    .label = Покушај поново
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Дошло је до проблема при превођењу. Покушајте поново касније.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Жао нам је, { $language } још увек није подржан.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Жао нам је, овај језик још увек није подржан.
