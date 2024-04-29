@@ -20,3 +20,4 @@ console-timer-start = { $name }: Đã khởi động đồng hồ
 #   $name (String): user-defined name for the timer
 #   $duration (String): number of milliseconds
 console-timer-end = { $name }: { $duration }ms
+
