@@ -101,9 +101,6 @@ translations-manage-description = Ściōng jynzyki do przekładu offline.
 translations-manage-all-language = Wszyske jynzyki
 translations-manage-download-button = Pobier
 translations-manage-delete-button = Skasuj
-translations-manage-language-delete-button =
-    .label = Skasuj
-    .accesskey = S
 translations-manage-error-download = Pokozoł sie problym przi pobiyraniu zbiorōw ôd tego jynzyka. Sprōbuj zaś.
 translations-manage-error-delete = Pokozoł sie problym przi kasowaniu zbiorōw ôd tego jynzyka. Sprōbuj zaś.
 translations-manage-error-list = Niy szło dotrzeć do wykazu przistympnych jynzykōw do przekłodanio. Ôdświyż strōna, żeby sprōbować zaś.
@@ -134,3 +131,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Zawrzij
     .buttonaccesskeyaccept = Z
+select-translations-panel-cancel-button =
+    .label = Pociep
+select-translations-panel-translate-button =
+    .label = Przekłodej
+select-translations-panel-try-again-button =
+    .label = Sprōbuj zaś
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Bōł problym ze przekłodaniym. Sprōbuj zaś.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Niystety niy spiyrōmy jeszcze { $language }.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Niystety niy spiyrōmy jeszcze tego jynzyka.
