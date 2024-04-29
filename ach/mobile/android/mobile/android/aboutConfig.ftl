@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Lok nying
 config-context-menu-copy-pref-value =
     .label = Lok wel
+
