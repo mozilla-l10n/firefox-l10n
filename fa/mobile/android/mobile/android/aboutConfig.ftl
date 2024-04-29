@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = رونوشت  از نام
 config-context-menu-copy-pref-value =
     .label = رونوشت  از مقدار
+
