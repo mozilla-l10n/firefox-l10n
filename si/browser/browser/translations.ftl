@@ -124,6 +124,12 @@ translations-manage-description = මාර්ගඅපගත පරිවර්
 translations-manage-all-language = සියළුම භාෂා
 translations-manage-download-button = බාගන්න
 translations-manage-delete-button = මකන්න
+translations-manage-language-remove-button =
+    .label = ඉවත් කරන්න
+translations-manage-language-remove-all-button =
+    .label = සියල්ල ඉවතලන්න
+    .accesskey = e
+translations-manage-error-install = භාෂා ගොනු ස්ථාපනයේ ගැටලුවක් ඇත. නැවත උත්සාහ කරන්න.
 translations-manage-error-download = භාෂා ගොනු බාගැනීමේ ගැටලුවක් ඇත. නැවත උත්සාහ කරන්න.
 translations-manage-error-delete = භාෂා ගොනු මකා දැමීමේ ගැටලුවක් ඇත. නැවත උත්සාහ කරන්න.
 translations-manage-intro = ඔබගේ භාෂාව සහ අඩවි පරිවර්තන අභිප්‍රේත සකසන්න සහ මාර්ගඅපගත පරිවර්තනය සඳහා ස්ථාපිත භාෂා කළමනාකරණය කරන්න.
@@ -133,12 +139,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = සියල්ල ස්ථාපනය
     .accesskey = I
-translations-manage-language-remove-button =
-    .label = ඉවත් කරන්න
-translations-manage-language-remove-all-button =
-    .label = සියල්ල ඉවතලන්න
-    .accesskey = e
-translations-manage-error-install = භාෂා ගොනු ස්ථාපනයේ ගැටලුවක් ඇත. නැවත උත්සාහ කරන්න.
 translations-manage-error-remove = භාෂා ගොනු ඉවත් කිරීමේ ගැටලුවක් ඇත. නැවත උත්සාහ කරන්න.
 translations-manage-error-list = පරිවර්තනය සඳහා පවතින භාෂා ලේඛනය ගැනීමට අසමත් විය. නැවත උත්සාහ කිරීමට පිටුව නැවුම් කරන්න.
 translations-settings-title =
@@ -168,3 +168,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = වසන්න
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = අවලංගු
+select-translations-panel-translate-button =
+    .label = පරිවර්තනය
+select-translations-panel-try-again-button =
+    .label = නැවත
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = පරිවර්තන ගැටලුවක් මතු විය. නැවත උත්සාහ කරන්න.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = කණගාටුයි, තවමත් { $language } සඳහා සහාය නොදක්වයි.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = කණගාටුයි, තවමත් මෙම භාෂාවට සහාය නොදක්වයි.
