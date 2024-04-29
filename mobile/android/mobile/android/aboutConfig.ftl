@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Mul tkwek tñur kyok
 config-context-menu-copy-pref-value =
     .label = Chapayt tñur kyok
+
