@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Dèan lethbhreac dhen ainm
 config-context-menu-copy-pref-value =
     .label = Dèan lethbhreac dhen luach
+
