@@ -125,12 +125,6 @@ translations-manage-description = Sader tutlayin i usuqqel aruqqin.
 translations-manage-all-language = Meṛṛa tutlayin
 translations-manage-download-button = Sader
 translations-manage-delete-button = Kkes
-translations-manage-install-description = Sebded tutlayin i usuqqel aruqqin.
-translations-manage-language-install-button =
-    .label = Sebded
-translations-manage-language-install-all-button =
-    .label = Sebded kullec
-    .accesskey = S
 translations-manage-language-download-button =
     .label = Sader
 translations-manage-language-remove-button =
@@ -141,6 +135,12 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Yella-d wugur deg usebded n yifuyla n tutlayt. Ttxil-k·m ɛreḍ tikkelt niḍen.
 translations-manage-error-download = Yella-d wugur deg usader n yifuyla n tutlayt. Ttxil-k·m ɛreḍ tikkelt niḍen.
 translations-manage-error-delete = Tella-d tuccḍa deg tukksa n yifuyla n tutlayt. ttxil-k·m ɛreḍ tikkelt niḍen.
+translations-manage-install-description = Sebded tutlayin i usuqqel aruqqin.
+translations-manage-language-install-button =
+    .label = Sebded
+translations-manage-language-install-all-button =
+    .label = Sebded kullec
+    .accesskey = S
 translations-manage-error-remove = Tella-d tuccḍa deg tukksa n yifuyla n tutlayt. ttxil-k·m ɛreḍ tikkelt niḍen.
 translations-settings-title =
     .title = Iɣewwaren n tsuqqilin
@@ -168,3 +168,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Mdel
     .buttonaccesskeyaccept = M
+select-translations-panel-cancel-button =
+    .label = Sefsex
+select-translations-panel-translate-button =
+    .label = Suqel
+select-translations-panel-try-again-button =
+    .label = Ɛreḍ tikelt nniḍen
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Yella wugur deg usuqqel. Ttxil-k ɛreḍ tikkelt niḍen.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Nesḥassef, ur nessefrak ara { $language } akka tura.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Nesḥassef, ur nessefrak ara tutlayt-a akka tura.
