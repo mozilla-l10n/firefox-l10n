@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Kopii nomon
 config-context-menu-copy-pref-value =
     .label = Kopii valoron
+
