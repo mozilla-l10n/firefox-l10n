@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = အမည် ကူးယူပါ
 config-context-menu-copy-pref-value =
     .label = တန်ဖိုး ကူးယူပါ
+
