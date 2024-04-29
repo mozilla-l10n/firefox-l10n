@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = { $agent } ile bağlantı kurulamad
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = { $agent } için imza doğrulaması başarısız oldu. Şu kaynak için aktarım reddedildi: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = { $agent } ile iletişim kurulurken bir hata oluştu. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = { $agent } ile bağlantı kurulamadı. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = { $agent } için imza doğrulanamadı. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = “{ $filename }” yüklemesi reddedildi.
+contentanalysis-error-message-dropped-text = Sürükleyip bırakma reddedildi.
+contentanalysis-error-message-clipboard = Yapıştırma reddedildi.
+contentanalysis-error-message-print = Yazdırma reddedildi.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } uygulamasından çıkılsın mı?
 contentanalysis-inprogress-quit-message = Devam eden birkaç işlem var. { -brand-shorter-name } uygulamasından çıkarsanız bu işlemler tamamlanmayacaktır.
 contentanalysis-inprogress-quit-yesbutton = Evet, çık
