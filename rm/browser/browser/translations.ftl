@@ -126,6 +126,12 @@ translations-manage-description = Telechargia las linguas per la translaziun sen
 translations-manage-all-language = Tut las linguas
 translations-manage-download-button = Telechargiar
 translations-manage-delete-button = Stizzar
+translations-manage-language-remove-button =
+    .label = Allontanar
+translations-manage-language-remove-all-button =
+    .label = Allontanar tuttas
+    .accesskey = I
+translations-manage-error-install = Igl ha dà in problem cun installar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-download = Igl ha dà in problem cun telechargiar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-delete = Igl ha dà in problem cun stizzar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-intro = Definescha las preferenzas areguard la lingua e la translaziun da websites ed administrescha las linguas installadas per la translaziun senza connexiun.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Installar tuttas
     .accesskey = I
-translations-manage-language-remove-button =
-    .label = Allontanar
-translations-manage-language-remove-all-button =
-    .label = Allontanar tuttas
-    .accesskey = I
-translations-manage-error-install = Igl ha dà in problem cun installar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-remove = Igl ha dà in problem cun allontanar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-list = I n'è betg reussì da retschaiver la glista da las linguas disponiblas per la translaziun. Rechargia la pagina per empruvar anc ina giada.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Serrar
     .buttonaccesskeyaccept = S
+select-translations-panel-cancel-button =
+    .label = Interrumper
+select-translations-panel-translate-button =
+    .label = Translatar
+select-translations-panel-try-again-button =
+    .label = Reempruvar
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Igl ha dà in problem cun translatar. Emprova per plaschair anc ina giada.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Perstgisa, { $language } na vegn anc betg sustegnì.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Perstgisa, nus na sustegnain anc betg questa lingua.
