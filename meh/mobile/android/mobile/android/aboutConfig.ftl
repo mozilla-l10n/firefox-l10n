@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Tɨɨn sivɨ
 config-context-menu-copy-pref-value =
     .label = Tɨɨn valor
+
