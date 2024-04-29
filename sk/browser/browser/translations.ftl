@@ -126,13 +126,6 @@ translations-manage-description = Môžete si stiahnuť jazyky na prekladanie v 
 translations-manage-all-language = Všetky jazyky
 translations-manage-download-button = Stiahnuť
 translations-manage-delete-button = Odstrániť
-translations-manage-intro = Nastavte si jazyk a predvoľby prekladu stránok a spravujte jazyky nainštalované na preklad v režime offline.
-translations-manage-install-description = Nainštalujte jazyky na preklad v režime offline
-translations-manage-language-install-button =
-    .label = Nainštalovať
-translations-manage-language-install-all-button =
-    .label = Nainštalovať všetky
-    .accesskey = a
 translations-manage-intro-2 = Nastavte si jazyk a predvoľby prekladu stránok a spravujte jazyky stiahnuté na preklad v režime offline.
 translations-manage-download-description = Môžete si stiahnuť jazyky na prekladanie v režime offline
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Pri inštalácii jazykových súborov sa vyskytol problém. Prosím skúste to znova.
 translations-manage-error-download = Pri sťahovaní jazykových súborov sa vyskytol problém. Prosím skúste to znova.
 translations-manage-error-delete = Pri odstraňovaní jazykových súborov sa vyskytla chyba. Prosím skúste to znova.
+translations-manage-intro = Nastavte si jazyk a predvoľby prekladu stránok a spravujte jazyky nainštalované na preklad v režime offline.
+translations-manage-install-description = Nainštalujte jazyky na preklad v režime offline
+translations-manage-language-install-button =
+    .label = Nainštalovať
+translations-manage-language-install-all-button =
+    .label = Nainštalovať všetky
+    .accesskey = a
 translations-manage-error-remove = Pri odstraňovaní jazykových súborov sa vyskytla chyba. Prosím skúste to znova.
 translations-manage-error-list = Nepodarilo sa získať zoznam dostupných jazykov na preklad. Obnovte stránku a skúste to znova.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Zavrieť
     .buttonaccesskeyaccept = Z
+select-translations-panel-cancel-button =
+    .label = Zrušiť
+select-translations-panel-translate-button =
+    .label = Preložiť
+select-translations-panel-try-again-button =
+    .label = Skúsiť znova
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Pri preklade sa vyskytol problém. Prosím skúste to znova.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Ľutujeme, jazyk { $language } zatiaľ nepodporujeme.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Ľutujeme, tento jazyk zatiaľ nepodporujeme.
