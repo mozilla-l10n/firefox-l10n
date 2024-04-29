@@ -126,13 +126,6 @@ translations-manage-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag
 translations-manage-all-language = Opaite ñe’ẽ
 translations-manage-download-button = Mboguejy
 translations-manage-delete-button = Mboguete
-translations-manage-intro = Emohenda tenda ñe’ẽ ha ñemoñe’ẽasa ehayhúvéva ha eñangereko umi ñe’ẽ emohendáva emoñe’ẽasátava ñanduti’ỹre.
-translations-manage-install-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag̃ua ñanduti’ỹre
-translations-manage-language-install-button =
-    .label = Mohenda
-translations-manage-language-install-all-button =
-    .label = Emohendapa
-    .accesskey = I
 translations-manage-download-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag̃ua ñanduti’ỹre
 translations-manage-language-download-button =
     .label = Mboguejy
@@ -147,6 +140,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Oĩ apañuãi emboguejykuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
 translations-manage-error-download = Iñapañuãi emboguejykuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃amieve.
 translations-manage-error-delete = Iñapañuãi emboguekuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
+translations-manage-intro = Emohenda tenda ñe’ẽ ha ñemoñe’ẽasa ehayhúvéva ha eñangereko umi ñe’ẽ emohendáva emoñe’ẽasátava ñanduti’ỹre.
+translations-manage-install-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag̃ua ñanduti’ỹre
+translations-manage-language-install-button =
+    .label = Mohenda
+translations-manage-language-install-all-button =
+    .label = Emohendapa
+    .accesskey = I
 translations-manage-error-remove = Oĩ apañuãi emboguekuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
 translations-manage-error-list = Ndaikatúi ereko ñe’ẽnguéra rysýi emoñe’ẽasa hag̃ua. Embohekopyahu kuatiarogue eha’ãjey hag̃ua.
 translations-settings-title =
@@ -176,3 +176,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Mboty
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = Heja
+select-translations-panel-translate-button =
+    .label = Ñe’ẽasa
+select-translations-panel-try-again-button =
+    .label = Eha’ãjey
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Iñapañuãi’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Rombyasy, noromoneĩri gueteri { $language }.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Rombyasy, noromoneĩri gueteri ko ñe’ẽ.
