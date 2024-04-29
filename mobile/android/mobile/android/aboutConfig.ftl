@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Namme kopiearje
 config-context-menu-copy-pref-value =
     .label = Wearde kopiearje
+
