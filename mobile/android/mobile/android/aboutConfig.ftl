@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = பெயரை படியெடு
 config-context-menu-copy-pref-value =
     .label = மதிப்பை படியெடு
+
