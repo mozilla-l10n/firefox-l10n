@@ -126,6 +126,12 @@ translations-manage-description = Unduh bahasa untuk terjemahan luring.
 translations-manage-all-language = Semua bahasa
 translations-manage-download-button = Unduh
 translations-manage-delete-button = Hapus
+translations-manage-language-remove-button =
+    .label = Hapus
+translations-manage-language-remove-all-button =
+    .label = Hapus semua
+    .accesskey = e
+translations-manage-error-install = Terjadi masalah saat memasang data bahasa. Silakan coba lagi.
 translations-manage-error-download = Terjadi masalah saat mengunduh data bahasa. Silakan coba lagi.
 translations-manage-error-delete = Terjadi masalah saat menghapus data bahasa. Silakan coba lagi.
 translations-manage-intro = Atur bahasa dan preferensi terjemahan situs Anda dan kelola bahasa yang terpasang untuk terjemahan luring.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Pasang semua
     .accesskey = P
-translations-manage-language-remove-button =
-    .label = Hapus
-translations-manage-language-remove-all-button =
-    .label = Hapus semua
-    .accesskey = e
-translations-manage-error-install = Terjadi masalah saat memasang data bahasa. Silakan coba lagi.
 translations-manage-error-remove = Terjadi masalah saat menghapus data bahasa. Silakan coba lagi.
 translations-manage-error-list = Gagal mendapatkan daftar bahasa yang tersedia untuk diterjemahkan. Segarkan laman untuk mencoba lagi.
 translations-settings-title =
@@ -168,3 +168,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Tutup
     .buttonaccesskeyaccept = T
+select-translations-panel-cancel-button =
+    .label = Batalkan
+select-translations-panel-translate-button =
+    .label = Terjemahkan
+select-translations-panel-try-again-button =
+    .label = Coba lagi
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Terjadi masalah saat menerjemahkan. Silakan coba lagi.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Maaf, kami belum mendukung { $language }.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Maaf, kami belum mendukung bahasa ini.
