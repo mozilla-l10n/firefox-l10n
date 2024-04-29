@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = 대비
     .title = 대비 색상 테마
 about-reader-color-theme-custom = 사용자 색상
     .title = 사용자 색상 테마
+about-reader-color-light-theme = 밝게
+    .title = 밝은 테마
+about-reader-color-dark-theme = 어둡게
+    .title = 어두운 테마
+about-reader-color-sepia-theme = 세피아
+    .title = 세피아 테마
+about-reader-color-auto-theme = 자동
+    .title = 자동 테마
+about-reader-color-gray-theme = 회색
+    .title = 회색 테마
+about-reader-color-contrast-theme = 대비
+    .title = 대비 테마
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -58,6 +70,8 @@ about-reader-font-type-sans-serif = 산세리프
 about-reader-toolbar-close = 리더뷰 닫기
 about-reader-toolbar-type-controls = 글자 조절
 about-reader-toolbar-color-controls = 색상
+about-reader-toolbar-text-layout-controls = 텍스트 및 레이아웃
+about-reader-toolbar-theme-controls = 테마
 about-reader-toolbar-savetopocket = { -pocket-brand-name }에 저장
 
 ## Reader View colors menu
@@ -81,3 +95,8 @@ about-reader-custom-colors-visited-links = 방문한 링크
 about-reader-custom-colors-selection-highlight = 소리내어 읽기 하이라이터
     .title = 색상 편집
 about-reader-custom-colors-reset-button = 기본값 재설정
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = 레이아웃
+about-reader-advanced-layout-header = 고급
