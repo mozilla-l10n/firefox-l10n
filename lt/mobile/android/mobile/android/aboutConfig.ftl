@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Kopijuoti vardą
 config-context-menu-copy-pref-value =
     .label = Kopijuoti reikšmę
+
