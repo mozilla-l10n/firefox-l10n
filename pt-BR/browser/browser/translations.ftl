@@ -126,6 +126,13 @@ translations-manage-description = Baixar idiomas para traduzir sem acessar a int
 translations-manage-all-language = Todos os idiomas
 translations-manage-download-button = Baixar
 translations-manage-delete-button = Excluir
+translations-manage-intro = Defina suas preferências de idioma e tradução de sites e gerencie os idiomas instalados para traduzir sem acessar a internet.
+translations-manage-install-description = Instalar idiomas para traduzir sem acessar a internet
+translations-manage-language-install-button =
+    .label = Instalar
+translations-manage-language-install-all-button =
+    .label = Instalar todos
+    .accesskey = I
 translations-manage-intro-2 = Defina suas preferências de idioma e tradução de sites e gerencie os idiomas baixados para tradução sem acessar a internet.
 translations-manage-download-description = Baixar idiomas para tradução sem acessar a internet.
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Houve um problema ao instalar os arquivos de idioma. Tente novamente.
 translations-manage-error-download = Houve um problema ao baixar os arquivos de idioma. Tente novamente.
 translations-manage-error-delete = Houve um erro ao excluir os arquivos de idioma. Tente novamente.
-translations-manage-intro = Defina suas preferências de idioma e tradução de sites e gerencie os idiomas instalados para traduzir sem acessar a internet.
-translations-manage-install-description = Instalar idiomas para traduzir sem acessar a internet
-translations-manage-language-install-button =
-    .label = Instalar
-translations-manage-language-install-all-button =
-    .label = Instalar todos
-    .accesskey = I
 translations-manage-error-remove = Houve um erro ao remover os arquivos de idioma. Tente novamente.
 translations-manage-error-list = Falha ao obter a lista de idiomas disponíveis para tradução. Atualize a página para tentar novamente.
 translations-settings-title =
@@ -177,8 +177,50 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Fechar
     .buttonaccesskeyaccept = F
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Traduzir seleção…
+    .accesskey = z
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Traduzir seleção para { $language }
+    .accesskey = z
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Traduzir texto do link…
+    .accesskey = z
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Traduzir texto do link para { $language }
+    .accesskey = z
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Tradução
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = De
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Para
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Experimente outro idioma de origem
 select-translations-panel-cancel-button =
     .label = Cancelar
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Copiar
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Copiado
+select-translations-panel-done-button =
+    .label = Pronto
 select-translations-panel-translate-button =
     .label = Traduzir
 select-translations-panel-try-again-button =
