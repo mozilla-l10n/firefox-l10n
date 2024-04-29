@@ -925,6 +925,11 @@ data-reporting-notification-button =
     .accesskey = u
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Priwatny modus
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Profylaksa přećiwo zhubjenju datow (DLP) přez { $agentName }. Klikńće, zo byšće wjace informacijow dóstał.
 content-analysis-panel-title = Škit datow
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
