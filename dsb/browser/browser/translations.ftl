@@ -126,6 +126,13 @@ translations-manage-description = Rěcy za pśełožowanje offline ześěgnuś.
 translations-manage-all-language = Wšykne rěcy
 translations-manage-download-button = Ześěgnuś
 translations-manage-delete-button = Lašowaś
+translations-manage-intro = Póstajśo swóje nastajenja za rěc a pśełožowanje sedłow a zastojśo rěcy, kótarež su za pśełožowanje offline instalěrowane.
+translations-manage-install-description = Rěcy za pśełožowanje offline instalěrowaś
+translations-manage-language-install-button =
+    .label = Instalěrowaś
+translations-manage-language-install-all-button =
+    .label = Wšykne instalěrowaś
+    .accesskey = k
 translations-manage-intro-2 = Póstajśo swóje nastajenja za rěc a pśełožowanje sedłow a zastojśo rěcy, kótarež su za pśełožowanje offline ześěgnjone.
 translations-manage-download-description = Rěcy za pśełožowanje offline ześěgnuś
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Pśi instalěrowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-manage-error-download = Pśi ześěgowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-manage-error-delete = Pśi lašowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
-translations-manage-intro = Póstajśo swóje nastajenja za rěc a pśełožowanje sedłow a zastojśo rěcy, kótarež su za pśełožowanje offline instalěrowane.
-translations-manage-install-description = Rěcy za pśełožowanje offline instalěrowaś
-translations-manage-language-install-button =
-    .label = Instalěrowaś
-translations-manage-language-install-all-button =
-    .label = Wšykne instalěrowaś
-    .accesskey = k
 translations-manage-error-remove = Pśi wótwónoźowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-manage-error-list = Lisćina k dispoziciji stojecych rěcow za pśełožowanje njedajo se wótwołaś. Aktualizěrujśo bok a wopytajśo hyšći raz.
 translations-settings-title =
@@ -177,12 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Zacyniś
     .buttonaccesskeyaccept = Z
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Wuběrk pśełožowaś…
+    .accesskey = b
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Wuběrk do rěcy { $language } pśełožowaś
+    .accesskey = b
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Wótkazowy tekst pśełožowaś…
+    .accesskey = k
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Wótkazowy tekst do rěcy { $language } pśełožowaś
+    .accesskey = k
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Pśełožk
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Z
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Do
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Drugu žrědłowu rěc wopytaś
 select-translations-panel-cancel-button =
     .label = Pśetergnuś
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopěrowaś
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Kopěrowane
+select-translations-panel-done-button =
+    .label = Dokóńcony
+select-translations-panel-translate-full-page-button =
+    .label = Dopołny bok pśełožowaś
 select-translations-panel-translate-button =
     .label = Pśełožyś
 select-translations-panel-try-again-button =
     .label = Hyšći raz wopytaś
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Pśełožony tekst se how zjawijo.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Pśełožujo se…
+select-translations-panel-init-failure-message =
+    .message = Rěcy njedaju se zacytaś. Pśeglědajśo swój internetny zwisk a wopytajśo hyšći raz.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Pśi pśełožowanju jo problem nastał. Pšosym wopytajśo hyšći raz.
@@ -196,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Bóžko { $language } hyšći njepódpěrajomy.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Bóžko toś tu rěc hyšći njepódpěrajomy.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Pśełožowaŕske nastajenja
