@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = انسخ الاسم
 config-context-menu-copy-pref-value =
     .label = انسخ القيمة
+
