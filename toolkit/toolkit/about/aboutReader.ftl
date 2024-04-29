@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Contrast
     .title = Kleurthema Contrast
 about-reader-color-theme-custom = Aangepaste kleuren
     .title = Kleurthema Aangepaste kleuren
+about-reader-color-light-theme = Licht
+    .title = Licht thema
+about-reader-color-dark-theme = Donker
+    .title = Donker thema
+about-reader-color-sepia-theme = Sepia
+    .title = Sepia thema
+about-reader-color-auto-theme = Automatisch
+    .title = Automatisch thema
+about-reader-color-gray-theme = Grijs
+    .title = Grijs thema
+about-reader-color-contrast-theme = Contrast
+    .title = Contrast thema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Lezerweergave sluiten
 about-reader-toolbar-type-controls = Lettertype-instellingen
 about-reader-toolbar-color-controls = Kleuren
+about-reader-toolbar-text-layout-controls = Tekst en opmaak
+about-reader-toolbar-theme-controls = Thema
 about-reader-toolbar-savetopocket = Opslaan in { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -85,3 +99,28 @@ about-reader-custom-colors-visited-links = Bezochte koppelingen
 about-reader-custom-colors-selection-highlight = Markeerstift voor hardop lezen
     .title = Kleur bewerken
 about-reader-custom-colors-reset-button = Standaardinstellingen opnieuw instellen
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Vormgeving
+about-reader-advanced-layout-header = Geavanceerd
+about-reader-slider-label-width-narrow = Smal
+about-reader-slider-label-width-wide = Breed
+about-reader-slider-label-spacing-narrow = Smal
+about-reader-slider-label-spacing-standard = Standaard
+about-reader-slider-label-spacing-wide = Breed
+about-reader-content-width-label =
+    .label = Breedte van inhoud
+about-reader-line-spacing-label =
+    .label = Regelafstand
+about-reader-character-spacing-label =
+    .label = Tekenafstand
+about-reader-word-spacing-label =
+    .label = Woordspatiëring
+about-reader-text-alignment-label = Tekstuitlijning
+about-reader-text-alignment-left =
+    .title = Tekst links uitlijnen
+about-reader-text-alignment-center =
+    .title = Tekst gecentreerd uitlijnen
+about-reader-text-alignment-right =
+    .title = Tekst rechts uitlijnen
