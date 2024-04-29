@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = नाम की नक़ल लें
 config-context-menu-copy-pref-value =
     .label = मान नक़ल करें
+
