@@ -126,13 +126,6 @@ translations-manage-description = Nyelvek letöltése a kapcsolat nélküli ford
 translations-manage-all-language = Összes nyelv
 translations-manage-download-button = Letöltés
 translations-manage-delete-button = Törlés
-translations-manage-intro = Adja meg a nyelvi és webhelyfordítási beállításokat, és kezelje az offline fordításhoz használt nyelveket.
-translations-manage-install-description = Nyelvek telepítése a kapcsolat nélküli fordításhoz
-translations-manage-language-install-button =
-    .label = Telepítés
-translations-manage-language-install-all-button =
-    .label = Összes telepítése
-    .accesskey = t
 translations-manage-intro-2 = Adja meg a nyelvi és webhelyfordítási beállításokat, és kezelje az offline fordításhoz letöltött nyelveket.
 translations-manage-download-description = Nyelvek letöltése az offline fordításhoz
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Hiba történt a nyelvi fájlok telepítése során. Próbálja meg újra.
 translations-manage-error-download = Hiba történt a nyelvi fájlok letöltése során. Próbálja meg újra.
 translations-manage-error-delete = Hiba történt a nyelvi fájlok törlése során. Próbálja meg újra.
+translations-manage-intro = Adja meg a nyelvi és webhelyfordítási beállításokat, és kezelje az offline fordításhoz használt nyelveket.
+translations-manage-install-description = Nyelvek telepítése a kapcsolat nélküli fordításhoz
+translations-manage-language-install-button =
+    .label = Telepítés
+translations-manage-language-install-all-button =
+    .label = Összes telepítése
+    .accesskey = t
 translations-manage-error-remove = Hiba történt a nyelvi fájlok eltávolítása során. Próbálja meg újra.
 translations-manage-error-list = Nem sikerült lekérni a fordításhoz elérhető nyelveket. Az újrapróbálkozáshoz frissítse az oldalt.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Bezárás
     .buttonaccesskeyaccept = B
+select-translations-panel-cancel-button =
+    .label = Mégse
+select-translations-panel-translate-button =
+    .label = Fordítás
+select-translations-panel-try-again-button =
+    .label = Próbálja újra
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Hiba történt a fordítás során. Próbálja meg újra.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Sajnos a(z) { $language } nyelv még nem támogatott.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Sajnos még nem támogatjuk ezt a nyelvet.
