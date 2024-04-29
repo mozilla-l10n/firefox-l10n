@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Duppi Tur
 config-context-menu-copy-pref-value =
     .label = Copy Value
+
