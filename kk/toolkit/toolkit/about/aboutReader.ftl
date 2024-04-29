@@ -85,3 +85,10 @@ about-reader-custom-colors-visited-links = Ашылған сілтемелер
 about-reader-custom-colors-selection-highlight = Дауыстап оқуға арналған ерекшелегіш
     .title = Түсті түзету
 about-reader-custom-colors-reset-button = Бастапқы түріне қайтару
+
+## Reader View improved text and layout menu
+
+about-reader-line-spacing-label =
+    .label = Жол аралығы
+about-reader-character-spacing-label =
+    .label = Таңбалар аралығы
