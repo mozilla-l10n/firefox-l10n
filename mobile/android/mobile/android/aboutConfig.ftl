@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = పేరును నకలుతీయి
 config-context-menu-copy-pref-value =
     .label = విలవను  నకలుతీయి
+
