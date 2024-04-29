@@ -126,13 +126,6 @@ translations-manage-description = Rěče za přełožowanje offline sćahnyć.
 translations-manage-all-language = Wšě rěče
 translations-manage-download-button = Sćahnyć
 translations-manage-delete-button = Zhašeć
-translations-manage-intro = Postajće swoje nastajenja za rěč a přełožowanje sydłow a rjadujće rěče, kotrež su za přełožowanje offline instalowane.
-translations-manage-install-description = Rěče za přełožowanje offline instalować
-translations-manage-language-install-button =
-    .label = Instalować
-translations-manage-language-install-all-button =
-    .label = Wšě instalować
-    .accesskey = i
 translations-manage-intro-2 = Postajće swoje nastajenja za rěč a přełožowanje sydłow a rjadujće rěče, kotrež su za přełožowanje offline sćehnjene.
 translations-manage-download-description = Rěče za přełožowanje offline sćahnyć
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Při instalowanju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-download = Při sćahowanju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-delete = Při zhašenju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
+translations-manage-intro = Postajće swoje nastajenja za rěč a přełožowanje sydłow a rjadujće rěče, kotrež su za přełožowanje offline instalowane.
+translations-manage-install-description = Rěče za přełožowanje offline instalować
+translations-manage-language-install-button =
+    .label = Instalować
+translations-manage-language-install-all-button =
+    .label = Wšě instalować
+    .accesskey = i
 translations-manage-error-remove = Při wotstronjenju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-list = Lisćina k dispoziciji stejacych rěčow za přełožowanje njeda so wotwołać. Aktualizujće stronu a spytajće hišće raz.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Začinić
     .buttonaccesskeyaccept = Z
+select-translations-panel-cancel-button =
+    .label = Přetorhnyć
+select-translations-panel-translate-button =
+    .label = Přełožić
+select-translations-panel-try-again-button =
+    .label = Hišće raz spytać
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Při přełožowanju je problem nastał. Prošu spytajće hišće raz.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Bohužel { $language } hišće njepodpěrujemy.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Bohužel tutu rěč hišće njepodpěrujemy.
