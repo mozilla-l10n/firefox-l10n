@@ -126,6 +126,12 @@ translations-manage-description = Deskargatu hizkuntzak lineaz kanpoko itzulpene
 translations-manage-all-language = Hizkuntza guztiak
 translations-manage-download-button = Deskargatu
 translations-manage-delete-button = Ezabatu
+translations-manage-language-remove-button =
+    .label = Kendu
+translations-manage-language-remove-all-button =
+    .label = Kendu denak
+    .accesskey = d
+translations-manage-error-install = Arazo bat gertatu da hizkuntza-fitxategiak instalatzean. Saiatu berriro mesedez.
 translations-manage-error-download = Arazo bat gertatu da hizkuntza-fitxategiak deskargatzean. Saiatu berriro mesedez.
 translations-manage-error-delete = Arazo bat gertatu da hizkuntza-fitxategiak ezabatzean. Saiatu berriro mesedez.
 translations-manage-intro = Ezarri zure hizkuntza eta guneen itzulpenerako hobespenak eta kudeatu lineaz kanpoko itzulpenerako instalatuta dauden hizkuntzak.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Instalatu denak
     .accesskey = d
-translations-manage-language-remove-button =
-    .label = Kendu
-translations-manage-language-remove-all-button =
-    .label = Kendu denak
-    .accesskey = d
-translations-manage-error-install = Arazo bat gertatu da hizkuntza-fitxategiak instalatzean. Saiatu berriro mesedez.
 translations-manage-error-remove = Errore bat gertatu da hizkuntza-fitxategiak kentzean. Saiatu berriro mesedez.
 translations-manage-error-list = Huts egin du itzultzeko erabilgarri dauden hizkuntzen zerrenda eskuratzean. Berritu orria eta saiatu berriro.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Itxi
     .buttonaccesskeyaccept = x
+select-translations-panel-cancel-button =
+    .label = Utzi
+select-translations-panel-translate-button =
+    .label = Itzuli
+select-translations-panel-try-again-button =
+    .label = Saiatu berriro
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Arazo bat gertatu da itzultzean. Saiatu berriro mesedez.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Sentitzen dugu, oraindik ez dugu { $language } onartzen.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Sentitzen dugu, oraindik ez dugu hizkuntza hau onartzen.
