@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Eilañ an anv
 config-context-menu-copy-pref-value =
     .label = Eilañ  ar werzh
+
