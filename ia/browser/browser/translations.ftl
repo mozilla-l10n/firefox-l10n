@@ -126,6 +126,13 @@ translations-manage-description = Discargar le linguas pro traducer offline.
 translations-manage-all-language = Tote le linguas
 translations-manage-download-button = Discargar
 translations-manage-delete-button = Deler
+translations-manage-intro = Defini tu preferentias de lingua e traduction de sito, e gere le linguas installate pro le traduction sin connexion.
+translations-manage-install-description = Installar linguas pro traducer offline.
+translations-manage-language-install-button =
+    .label = Installar
+translations-manage-language-install-all-button =
+    .label = Installar toto
+    .accesskey = I
 translations-manage-intro-2 = Defini tu preferentias de lingua e traduction de sito, e gere le linguas discargate pro le traduction sin connexion.
 translations-manage-download-description = Discargar linguas pro traducer offline.
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Il habeva un problema installante le files del linguas. Retenta.
 translations-manage-error-download = Il habeva un problema discargante le files del linguas. Retenta.
 translations-manage-error-delete = Il habeva un problema delente le files del linguas. Retenta.
-translations-manage-intro = Defini tu preferentias de lingua e traduction de sito, e gere le linguas installate pro le traduction sin connexion.
-translations-manage-install-description = Installar linguas pro traducer offline.
-translations-manage-language-install-button =
-    .label = Installar
-translations-manage-language-install-all-button =
-    .label = Installar toto
-    .accesskey = I
 translations-manage-error-remove = Il habeva un problema removente le files del linguas. Retenta.
 translations-manage-error-list = Impossibile obtener le lista del linguas disponibile pro le traduction. Actualisa le pagina pro retentar.
 translations-settings-title =
@@ -177,6 +177,19 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Clauder
     .buttonaccesskeyaccept = C
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Traducer selection…
+    .accesskey = d
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Traducer selection in { $language }
+    .accesskey = n
 select-translations-panel-cancel-button =
     .label = Cancellar
 select-translations-panel-translate-button =
