@@ -126,6 +126,12 @@ translations-manage-description = Pobierz języki do tłumaczenia bez dostępu d
 translations-manage-all-language = Wszystkie języki
 translations-manage-download-button = Pobierz
 translations-manage-delete-button = Usuń
+translations-manage-language-remove-button =
+    .label = Usuń
+translations-manage-language-remove-all-button =
+    .label = Usuń wszystkie
+    .accesskey = U
+translations-manage-error-install = Wystąpił problem przy instalacji plików językowych. Spróbuj ponownie.
 translations-manage-error-download = Wystąpił problem przy pobieraniu plików językowych. Spróbuj ponownie.
 translations-manage-error-delete = Wystąpił błąd podczas usuwania plików językowych. Spróbuj ponownie.
 translations-manage-intro = Ustaw preferencje dotyczące języka i tłumaczenia witryn oraz zarządzaj językami zainstalowanymi do tłumaczenia bez dostępu do Internetu.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Zainstaluj wszystkie
     .accesskey = Z
-translations-manage-language-remove-button =
-    .label = Usuń
-translations-manage-language-remove-all-button =
-    .label = Usuń wszystkie
-    .accesskey = U
-translations-manage-error-install = Wystąpił problem przy instalacji plików językowych. Spróbuj ponownie.
 translations-manage-error-remove = Wystąpił błąd podczas usuwania plików językowych. Spróbuj ponownie.
 translations-manage-error-list = Pobranie listy języków dostępnych do tłumaczenia się nie powiodło. Odśwież stronę, aby spróbować ponownie.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Zamknij
     .buttonaccesskeyaccept = Z
+select-translations-panel-cancel-button =
+    .label = Anuluj
+select-translations-panel-translate-button =
+    .label = Przetłumacz
+select-translations-panel-try-again-button =
+    .label = Spróbuj ponownie
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Wystąpił problem przy tłumaczeniu. Spróbuj ponownie.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Nie obsługujemy jeszcze tego języka ({ $language }).
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Nie obsługujemy jeszcze tego języka.
