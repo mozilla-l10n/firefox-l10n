@@ -125,6 +125,12 @@ translations-manage-description = Telecargar de lengas per la traduccion fòra l
 translations-manage-all-language = Totas les lengas
 translations-manage-download-button = Telecargar
 translations-manage-delete-button = Suprimir
+translations-manage-language-remove-button =
+    .label = Suprimir
+translations-manage-language-remove-all-button =
+    .label = Tot suprimir
+    .accesskey = T
+translations-manage-error-install = I a agut un problèma al moment d’installar los fichièrs de lenga. Ensajatz tornamai.
 translations-manage-error-download = I a agut un problèma al moment de telecargar los fichièrs de lenga. Ensajatz tornamai.
 translations-manage-error-delete = I a agut un problèma al moment de suprimir los fichièrs de lenga. Ensajatz tornamai.
 translations-manage-install-description = Installar de lengas per la traduccion fòra linha
@@ -133,12 +139,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Tot installar
     .accesskey = i
-translations-manage-language-remove-button =
-    .label = Suprimir
-translations-manage-language-remove-all-button =
-    .label = Tot suprimir
-    .accesskey = T
-translations-manage-error-install = I a agut un problèma al moment d’installar los fichièrs de lenga. Ensajatz tornamai.
 translations-manage-error-remove = I a agut un problèma al moment de levar los fichièrs de lenga. Ensajatz tornamai.
 translations-manage-error-list = Fracàs de la recuperacion de la lista de lengas disponiblas per la traduccion. Actualizatz la pagina e tornatz ensajar.
 translations-settings-title =
@@ -168,3 +168,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Tampar
     .buttonaccesskeyaccept = T
+select-translations-panel-cancel-button =
+    .label = Anullar
+select-translations-panel-translate-button =
+    .label = Traduire
+select-translations-panel-try-again-button =
+    .label = Tornar ensajar
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = I a agut un problèma al moment de traduire. Ensajatz tornamai.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = O planhèm, prenèm pas encara en carga lo { $language }.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = O planhèm, prenèm pas encara en carga aquesta lenga.
