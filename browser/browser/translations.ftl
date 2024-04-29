@@ -126,13 +126,6 @@ translations-manage-description = Sækja tungumál fyrir þýðingar án netteng
 translations-manage-all-language = Öll tungumál
 translations-manage-download-button = Sækja
 translations-manage-delete-button = Eyða
-translations-manage-intro = Stilltu tungumála- og vefþýðingastillingar þínar og stjórnaðu tungumálum sem eru uppsett fyrir þýðingar án nettengingar.
-translations-manage-install-description = Settu inn tungumál fyrir þýðingar án nettengingar.
-translations-manage-language-install-button =
-    .label = Setja inn
-translations-manage-language-install-all-button =
-    .label = Setja inn allt
-    .accesskey = i
 translations-manage-intro-2 = Stilltu tungumála- og vefþýðingastillingar þínar og stjórnaðu tungumálum sem eru sótt fyrir þýðingar án nettengingar.
 translations-manage-download-description = Sækja tungumál fyrir þýðingar án nettengingar.
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Villa kom upp við að setja inn tungumálaskrárnar. Reyndu aftur.
 translations-manage-error-download = Villa kom upp við að sækja tungumálaskrárnar. Reyndu aftur.
 translations-manage-error-delete = Villa kom upp við að eyða tungumálaskránum. Reyndu aftur.
+translations-manage-intro = Stilltu tungumála- og vefþýðingastillingar þínar og stjórnaðu tungumálum sem eru uppsett fyrir þýðingar án nettengingar.
+translations-manage-install-description = Settu inn tungumál fyrir þýðingar án nettengingar.
+translations-manage-language-install-button =
+    .label = Setja inn
+translations-manage-language-install-all-button =
+    .label = Setja inn allt
+    .accesskey = i
 translations-manage-error-remove = Villa kom upp við að fjarlægja tungumálaskrárnar. Reyndu aftur.
 translations-manage-error-list = Ekki tókst að ná í lista yfir tiltæk tungumál fyrir þýðingar. Endurnýjaðu síðuna til að reyna aftur.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Loka
     .buttonaccesskeyaccept = k
+select-translations-panel-cancel-button =
+    .label = Hætta við
+select-translations-panel-translate-button =
+    .label = Þýða
+select-translations-panel-try-again-button =
+    .label = Reyna aftur
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Vandamál kom upp við að þýða. Reyndu aftur.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Því miður styðjum við ekki { $language } ennþá.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Því miður styðjum við ekki þetta tungumál ennþá.
