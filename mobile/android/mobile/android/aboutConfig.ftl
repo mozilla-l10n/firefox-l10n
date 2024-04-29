@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = ಹೆಸರನ್ನು ನಕಲಿಸು
 config-context-menu-copy-pref-value =
     .label = ಮೌಲ್ಯವನ್ನು ನಕಲಿಸು
+
