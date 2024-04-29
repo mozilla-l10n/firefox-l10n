@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = { $agent }에 연결할 수 없습�
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = { $agent }에 대한 서명 확인에 실패했습니다. { $content } 리소스에 대한 전송이 거부되었습니다.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = { $agent } 에이전트와 통신하는 중 오류가 발생했습니다. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = { $agent } 에이전트에 연결할 수 없습니다. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = { $agent } 에이전트에 대한 서명 확인에 실패했습니다. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = “{ $filename }” 업로드가 거부되었습니다.
+contentanalysis-error-message-dropped-text = 끌어서 놓기가 거부되었습니다.
+contentanalysis-error-message-clipboard = 붙여넣기가 거부되었습니다.
+contentanalysis-error-message-print = 인쇄가 거부되었습니다.
 contentanalysis-block-dialog-title-upload-file = 이 파일을 업로드할 권한이 없습니다
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
