@@ -65,6 +65,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Синхронізуйте свої закладки всюди.
 cfr-doorhanger-bookmark-fxa-body = Гарна знахідка! Тепер синхронізуйте цю закладку зі своїми мобільними пристроями. Почніть роботу з { -fxaccount-brand-name(case: "abl") }.
+cfr-doorhanger-bookmark-fxa-body-2 = Чудова знахідка! Тепер синхронізуйте цю закладку зі своїми мобільними пристроями. Почніть роботу з обліковим записом.
 cfr-doorhanger-bookmark-fxa-link-text = Синхронізувати закладки зараз…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Кнопка закриття

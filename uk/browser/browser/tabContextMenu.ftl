@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Закрити кілька вкладок
     .accesskey = к
+tab-context-close-duplicate-tabs =
+    .label = Закрити дублікати вкладок
+    .accesskey = б
 tab-context-share-url =
     .label = Поділитися
     .accesskey = я
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[many] Перемістити { $tabCount } вкладок
         }
     .accesskey = м
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
