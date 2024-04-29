@@ -126,13 +126,6 @@ translations-manage-description = הורדת שפות לתרגום לא מקוו
 translations-manage-all-language = כל השפות
 translations-manage-download-button = הורדה
 translations-manage-delete-button = מחיקה
-translations-manage-intro = באפשרותך להגדיר את השפה שלך ואת ההעדפות שלך לתרגום האתרים, ולנהל שפות המותקנות עבור תרגום לא מקוון.
-translations-manage-install-description = התקנת שפות לתרגום לא מקוון
-translations-manage-language-install-button =
-    .label = התקנה
-translations-manage-language-install-all-button =
-    .label = התקנת הכל
-    .accesskey = ת
 translations-manage-intro-2 = באפשרותך להגדיר את השפה שלך ואת ההעדפות שלך לתרגום האתרים, ולנהל שפות שהורדו עבור תרגום לא מקוון.
 translations-manage-download-description = הורדת שפות לתרגום לא מקוון
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = אירעה שגיאה בהתקנת קובצי השפה. נא לנסות שוב.
 translations-manage-error-download = אירעה שגיאה בהורדת קובצי השפה. נא לנסות שוב.
 translations-manage-error-delete = אירעה שגיאה במחיקת קובצי השפה. נא לנסות שוב.
+translations-manage-intro = באפשרותך להגדיר את השפה שלך ואת ההעדפות שלך לתרגום האתרים, ולנהל שפות המותקנות עבור תרגום לא מקוון.
+translations-manage-install-description = התקנת שפות לתרגום לא מקוון
+translations-manage-language-install-button =
+    .label = התקנה
+translations-manage-language-install-all-button =
+    .label = התקנת הכל
+    .accesskey = ת
 translations-manage-error-remove = אירעה שגיאה בהסרת קובצי השפה. נא לנסות שוב.
 translations-manage-error-list = נכשל לקבל את רשימת השפות הזמינות לתרגום. ניתן לרענן את הדף כדי לנסות שוב.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = סגירה
     .buttonaccesskeyaccept = ס
+select-translations-panel-cancel-button =
+    .label = ביטול
+select-translations-panel-translate-button =
+    .label = תרגום
+select-translations-panel-try-again-button =
+    .label = ניסיון חוזר
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = אירעה שגיאה בתרגום. נא לנסות שוב.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = איננו תומכים ב{ $language } עדיין, עמך הסליחה.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = איננו תומכים בשפה זו עדיין, עמך הסליחה.
