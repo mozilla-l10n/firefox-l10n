@@ -126,6 +126,12 @@ translations-manage-description = Discjame lis lenghis pe traduzion fûr rêt.
 translations-manage-all-language = Dutis lis lenghis
 translations-manage-download-button = Discjame
 translations-manage-delete-button = Elimine
+translations-manage-language-remove-button =
+    .label = Gjave
+translations-manage-language-remove-all-button =
+    .label = Gjave dutis
+    .accesskey = e
+translations-manage-error-install = Al è vignût fûr un probleme tal instalâ i files de lenghe. Torne prove.
 translations-manage-error-download = Al è vignût fûr un probleme tal discjariâ i files de lenghe. Torne prove.
 translations-manage-error-delete = Al è vignût fûr un probleme tal eliminâ i files de lenghe. Torne prove.
 translations-manage-intro = Configure lis tôs preferencis relativis a lenghe e traduzion dai sîts e gjestìs lis lenghis instaladis pe traduzion fûr rêt.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Instale dutis
     .accesskey = I
-translations-manage-language-remove-button =
-    .label = Gjave
-translations-manage-language-remove-all-button =
-    .label = Gjave dutis
-    .accesskey = e
-translations-manage-error-install = Al è vignût fûr un probleme tal instalâ i files de lenghe. Torne prove.
 translations-manage-error-remove = Al è vignût fûr un probleme tal gjavâi i files de lenghe. Torne prove.
 translations-manage-error-list = Impussibil otignî la liste des lenghis disponibilis pe traduzion. Inzorne la pagjine par tornâ a provâ.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Siere
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = Anule
+select-translations-panel-translate-button =
+    .label = Tradûs
+select-translations-panel-try-again-button =
+    .label = Torne prove
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Al è vignût fûr un probleme tal tradusi. Torne prove.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Nus displâs, { $language } nol è ancjemò supuartât.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Nus displâs, no supuartìn ancjemò cheste lenghe.
