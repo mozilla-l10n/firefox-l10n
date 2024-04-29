@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Adı kopyala
 config-context-menu-copy-pref-value =
     .label = Değeri kopyala
+
