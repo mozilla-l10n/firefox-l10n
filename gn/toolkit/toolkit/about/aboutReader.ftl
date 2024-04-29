@@ -104,6 +104,12 @@ about-reader-custom-colors-reset-button = Erujey ijypykuéva
 
 about-reader-layout-header = Moha’ãnga
 about-reader-advanced-layout-header = Opapotáva
+about-reader-slider-label-width-narrow = Po’i
 about-reader-slider-label-width-wide = Ipéva
+about-reader-slider-label-spacing-narrow = Po’i
 about-reader-slider-label-spacing-standard = Ypykue
 about-reader-slider-label-spacing-wide = Ipéva
+about-reader-content-width-label =
+    .label = Tetepy pekue
+about-reader-word-spacing-label =
+    .label = Ñemomonbyry ñe’ẽ pa’ũme
