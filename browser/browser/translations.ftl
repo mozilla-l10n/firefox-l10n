@@ -208,7 +208,7 @@ select-translations-panel-header = Vertaling
 # Text displayed above the from-language dropdown menu.
 select-translations-panel-from-label = Van
 # Text displayed above the to-language dropdown menu.
-select-translations-panel-to-label = Naar
+select-translations-panel-to-label = Naar het
 # Text displayed above the try-another-source-language dropdown menu.
 select-translations-panel-try-another-language-label = Probeer een andere brontaal
 select-translations-panel-cancel-button =
