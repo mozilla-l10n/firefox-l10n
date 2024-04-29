@@ -126,13 +126,6 @@ translations-manage-description = Talen voor offline vertaling downloaden.
 translations-manage-all-language = Alle talen
 translations-manage-download-button = Downloaden
 translations-manage-delete-button = Verwijderen
-translations-manage-intro = Stel uw voorkeuren voor taal en websitevertaling in en beheer geïnstalleerde talen voor offline vertaling.
-translations-manage-install-description = Talen voor offline vertaling installeren
-translations-manage-language-install-button =
-    .label = Installeren
-translations-manage-language-install-all-button =
-    .label = Alle installeren
-    .accesskey = i
 translations-manage-intro-2 = Stel uw voorkeuren voor taal en websitevertaling in en beheer gedownloade talen voor offline vertaling.
 translations-manage-download-description = Talen voor offline vertaling downloaden
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Er is een probleem opgetreden bij het installeren van de taalbestanden. Probeer het opnieuw.
 translations-manage-error-download = Er is een probleem opgetreden bij het downloaden van de taalbestanden. Probeer het opnieuw.
 translations-manage-error-delete = Er is een probleem opgetreden bij het verwijderen van de taalbestanden. Probeer het opnieuw.
+translations-manage-intro = Stel uw voorkeuren voor taal en websitevertaling in en beheer geïnstalleerde talen voor offline vertaling.
+translations-manage-install-description = Talen voor offline vertaling installeren
+translations-manage-language-install-button =
+    .label = Installeren
+translations-manage-language-install-all-button =
+    .label = Alle installeren
+    .accesskey = i
 translations-manage-error-remove = Er is een probleem opgetreden bij het verwijderen van de taalbestanden. Probeer het opnieuw.
 translations-manage-error-list = Kan de lijst met beschikbare talen voor vertaling niet ophalen. Vernieuw de pagina om het opnieuw te proberen.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Sluiten
     .buttonaccesskeyaccept = S
+select-translations-panel-cancel-button =
+    .label = Annuleren
+select-translations-panel-translate-button =
+    .label = Vertalen
+select-translations-panel-try-again-button =
+    .label = Opnieuw proberen
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Er is een probleem opgetreden bij het vertalen. Probeer het opnieuw.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Sorry, we ondersteunen het { $language } nog niet.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Sorry, we ondersteunen deze taal nog niet.
