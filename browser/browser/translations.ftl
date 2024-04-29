@@ -126,6 +126,12 @@ translations-manage-description = Завантажити мови для офл�
 translations-manage-all-language = Усі мови
 translations-manage-download-button = Завантажити
 translations-manage-delete-button = Видалити
+translations-manage-language-remove-button =
+    .label = Вилучити
+translations-manage-language-remove-all-button =
+    .label = Вилучити всі
+    .accesskey = л
+translations-manage-error-install = Виникла проблема під час встановлення мовних файлів. Спробуйте ще раз.
 translations-manage-error-download = Виникла проблема із завантаженням мовних файлів. Повторіть спробу.
 translations-manage-error-delete = Під час видалення мовних файлів сталася помилка. Повторіть спробу.
 translations-manage-intro = Оберіть свою мову і налаштуйте переклад сайтів, а також керуйте мовами, що встановлюються для перекладу офлайн.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Встановити всі
     .accesskey = т
-translations-manage-language-remove-button =
-    .label = Вилучити
-translations-manage-language-remove-all-button =
-    .label = Вилучити всі
-    .accesskey = л
-translations-manage-error-install = Виникла проблема під час встановлення мовних файлів. Спробуйте ще раз.
 translations-manage-error-remove = Виникла проблема під час вилучення мовних файлів. Спробуйте ще раз.
 translations-manage-error-list = Не вдалося отримати список доступних мов для перекладу. Оновіть сторінку, щоб повторити спробу.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Закрити
     .buttonaccesskeyaccept = З
+select-translations-panel-cancel-button =
+    .label = Скасувати
+select-translations-panel-translate-button =
+    .label = Перекласти
+select-translations-panel-try-again-button =
+    .label = Повторити спробу
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Виникла проблема з перекладом. Повторіть спробу.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Перепрошуємо, { $language } ще не підтримується.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = На жаль, ми ще не підтримуємо цю мову.
