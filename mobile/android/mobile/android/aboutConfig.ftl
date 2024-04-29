@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Nta tava sivi
 config-context-menu-copy-pref-value =
     .label = Nta tava tu'un
+
