@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = ចម្លង​ឈ្មោះ
 config-context-menu-copy-pref-value =
     .label = ចម្លង​តម្លៃ
+
