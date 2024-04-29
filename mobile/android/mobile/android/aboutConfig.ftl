@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = نام نقل کریں
 config-context-menu-copy-pref-value =
     .label = قدر نقل کریں
+
