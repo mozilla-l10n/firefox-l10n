@@ -126,13 +126,6 @@ translations-manage-description = Загрузка языков для пере�
 translations-manage-all-language = Все языки
 translations-manage-download-button = Загрузить
 translations-manage-delete-button = Удалить
-translations-manage-intro = Задайте настройки языка и перевода сайта и управляйте языками, установленными для автономного перевода.
-translations-manage-install-description = Установите языки для автономного перевода
-translations-manage-language-install-button =
-    .label = Установить
-translations-manage-language-install-all-button =
-    .label = Установить все
-    .accesskey = е
 translations-manage-intro-2 = Задайте настройки языка и перевода сайта и управляйте языками, загруженными для автономного перевода.
 translations-manage-download-description = Загрузка языков для автономного перевода
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Возникла проблема с установкой языковых файлов. Пожалуйста, попробуйте ещё раз.
 translations-manage-error-download = При загрузке языковых файлов возникла проблема, пожалуйста, попробуйте ещё раз.
 translations-manage-error-delete = При удалении языковых файлов произошла ошибка, пожалуйста, попробуйте ещё раз.
+translations-manage-intro = Задайте настройки языка и перевода сайта и управляйте языками, установленными для автономного перевода.
+translations-manage-install-description = Установите языки для автономного перевода
+translations-manage-language-install-button =
+    .label = Установить
+translations-manage-language-install-all-button =
+    .label = Установить все
+    .accesskey = е
 translations-manage-error-remove = Произошла ошибка при удалении языковых файлов. Пожалуйста, попробуйте ещё раз.
 translations-manage-error-list = Не удалось получить список доступных языков для перевода. Обновите страницу, чтобы повторить попытку.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Закрыть
     .buttonaccesskeyaccept = ы
+select-translations-panel-cancel-button =
+    .label = Отмена
+select-translations-panel-translate-button =
+    .label = Перевести
+select-translations-panel-try-again-button =
+    .label = Попробовать снова
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = При переводе возникла проблема, пожалуйста, попробуйте ещё раз.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = К сожалению, мы пока не поддерживаем следующий язык: { $language }
+select-translations-panel-unsupported-language-message-unknown =
+    .message = К сожалению, мы пока не поддерживаем этот язык.
