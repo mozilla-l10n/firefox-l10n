@@ -176,5 +176,16 @@ select-translations-panel-translate-button =
     .label = 翻译
 select-translations-panel-try-again-button =
     .label = 重试
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = 翻译时遇到问题，请重试。
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = 抱歉，我们尚未支持{ $language }。
 select-translations-panel-unsupported-language-message-unknown =
     .message = 抱歉，我们尚未支持这种语言。
