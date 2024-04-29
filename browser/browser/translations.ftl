@@ -126,6 +126,12 @@ translations-manage-description = Shkarkoni gjuhë për përkthim jashtë linje.
 translations-manage-all-language = Krejt gjuhët
 translations-manage-download-button = Shkarkoje
 translations-manage-delete-button = Fshije
+translations-manage-language-remove-button =
+    .label = Hiqe
+translations-manage-language-remove-all-button =
+    .label = Hiqi krejt
+    .accesskey = H
+translations-manage-error-install = Pati një problem me instalimin e kartelave të gjuhës. Ju lutemi, riprovoni.
 translations-manage-error-download = Pati një problem me shkarkimin e kartelave të gjuhës. Ju lutemi, riprovoni.
 translations-manage-error-delete = Pati një problem me fshirjen e kartelave të gjuhës. Ju lutemi, riprovoni.
 translations-manage-intro = Caktoni gjuhët tuaj dhe parapëlqime për përkthim sajtesh dhe administroni gjuhë të instaluara për përkthim jashtë interneti.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Instaloji krejt
     .accesskey = I
-translations-manage-language-remove-button =
-    .label = Hiqe
-translations-manage-language-remove-all-button =
-    .label = Hiqi krejt
-    .accesskey = H
-translations-manage-error-install = Pati një problem me instalimin e kartelave të gjuhës. Ju lutemi, riprovoni.
 translations-manage-error-remove = Pati një problem me heqjen e kartelave të gjuhës. Ju lutemi, riprovoni.
 translations-manage-error-list = S’u arrit të merrej lista e gjuhëve të gatshme për përkthim. Rifreskoni faqen, që të riprovohet.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Mbylle
     .buttonaccesskeyaccept = M
+select-translations-panel-cancel-button =
+    .label = Anuloje
+select-translations-panel-translate-button =
+    .label = Përktheje
+select-translations-panel-try-again-button =
+    .label = Riprovoni
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Pati një problem me përkthimin. Ju lutemi, riprovoni.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Na ndjeni, s’e mbulojmë ende { $language }.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Na ndjeni, s’e mbulojmë ende këtë gjuhë.
