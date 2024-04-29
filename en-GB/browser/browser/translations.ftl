@@ -126,13 +126,6 @@ translations-manage-description = Download languages for offline translation.
 translations-manage-all-language = All languages
 translations-manage-download-button = Download
 translations-manage-delete-button = Delete
-translations-manage-intro = Set your language and site translation preferences and manage languages installed for offline translation.
-translations-manage-install-description = Install languages for offline translation
-translations-manage-language-install-button =
-    .label = Install
-translations-manage-language-install-all-button =
-    .label = Install all
-    .accesskey = I
 translations-manage-intro-2 = Set your language and site translation preferences and manage languages downloaded for offline translation.
 translations-manage-download-description = Download languages for offline translation
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = There was a problem installing the language files. Please try again.
 translations-manage-error-download = There was a problem downloading the language files. Please try again.
 translations-manage-error-delete = There was an error deleting the language files. Please try again.
+translations-manage-intro = Set your language and site translation preferences and manage languages installed for offline translation.
+translations-manage-install-description = Install languages for offline translation
+translations-manage-language-install-button =
+    .label = Install
+translations-manage-language-install-all-button =
+    .label = Install all
+    .accesskey = I
 translations-manage-error-remove = There was an error removing the language files. Please try again.
 translations-manage-error-list = Failed to get the list of available languages for translation. Refresh the page to try again.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Close
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = Cancel
+select-translations-panel-translate-button =
+    .label = Translate
+select-translations-panel-try-again-button =
+    .label = Try again
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = There was a problem translating. Please try again.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Sorry, we don’t support { $language } yet.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Sorry, we don’t support this language yet.
