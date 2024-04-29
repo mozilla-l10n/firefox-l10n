@@ -126,13 +126,6 @@ translations-manage-description = 오프라인 번역을 위한 언어를 다운
 translations-manage-all-language = 모든 언어
 translations-manage-download-button = 다운로드
 translations-manage-delete-button = 삭제
-translations-manage-intro = 언어 및 사이트 번역 기본 설정을 하고 오프라인 번역을 위해 설치된 언어를 관리합니다.
-translations-manage-install-description = 오프라인 번역을 위한 언어를 설치합니다.
-translations-manage-language-install-button =
-    .label = 설치
-translations-manage-language-install-all-button =
-    .label = 모두 설치
-    .accesskey = I
 translations-manage-intro-2 = 언어 및 사이트 번역 기본 설정을 하고 오프라인 번역을 위해 다운로드한 언어를 관리합니다.
 translations-manage-download-description = 오프라인 번역을 위한 언어 다운로드
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = 언어 파일을 설치하는 중에 문제가 발생했습니다. 다시 시도하세요.
 translations-manage-error-download = 언어 파일을 다운로드하는 중에 문제가 발생했습니다. 다시 시도하세요.
 translations-manage-error-delete = 언어 파일을 삭제하는 동안 오류가 발생했습니다. 다시 시도하세요.
+translations-manage-intro = 언어 및 사이트 번역 기본 설정을 하고 오프라인 번역을 위해 설치된 언어를 관리합니다.
+translations-manage-install-description = 오프라인 번역을 위한 언어를 설치합니다.
+translations-manage-language-install-button =
+    .label = 설치
+translations-manage-language-install-all-button =
+    .label = 모두 설치
+    .accesskey = I
 translations-manage-error-remove = 언어 파일을 제거하는 동안 오류가 발생했습니다. 다시 시도하세요.
 translations-manage-error-list = 번역에 사용할 수 있는 언어 목록을 가져오지 못했습니다. 다시 시도하려면 페이지를 새로 고침하세요.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = 닫기
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = 취소
+select-translations-panel-translate-button =
+    .label = 번역
+select-translations-panel-try-again-button =
+    .label = 다시 시도
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = 번역하는 중에 문제가 발생했습니다. 다시 시도하세요.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = 죄송합니다. 아직 { $language } 언어는 지원하지 않습니다.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = 죄송합니다. 아직 이 언어는 지원하지 않습니다.
