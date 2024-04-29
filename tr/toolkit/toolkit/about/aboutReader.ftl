@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Kontrast
     .title = Kontrast renk teması
 about-reader-color-theme-custom = Özel Renkler
     .title = Özel renk teması
+about-reader-color-light-theme = Açık
+    .title = Açık tema
+about-reader-color-dark-theme = Koyu
+    .title = Koyu tema
+about-reader-color-sepia-theme = Sepya
+    .title = Sepya tema
+about-reader-color-auto-theme = Otomatik
+    .title = Otomatik tema
+about-reader-color-gray-theme = Gri
+    .title = Gri tema
+about-reader-color-contrast-theme = Kontrast
+    .title = Kontrast teması
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Okuyucu görünümünü kapat
 about-reader-toolbar-type-controls = Yazı denetimleri
 about-reader-toolbar-color-controls = Renkler
+about-reader-toolbar-text-layout-controls = Metin ve yerleşim
+about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = { -pocket-brand-name }’a kaydet
 
 ## Reader View colors menu
@@ -85,3 +99,28 @@ about-reader-custom-colors-visited-links = Ziyaret edilmiş bağlantılar
 about-reader-custom-colors-selection-highlight = Sesli okuma için vurgulayıcı
     .title = Rengi düzenle
 about-reader-custom-colors-reset-button = Varsayılanlara sıfırla
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Yerleşim
+about-reader-advanced-layout-header = Gelişmiş
+about-reader-slider-label-width-narrow = Dar
+about-reader-slider-label-width-wide = Geniş
+about-reader-slider-label-spacing-narrow = Dar
+about-reader-slider-label-spacing-standard = Standart
+about-reader-slider-label-spacing-wide = Geniş
+about-reader-content-width-label =
+    .label = İçerik genişliği
+about-reader-line-spacing-label =
+    .label = Satır aralığı
+about-reader-character-spacing-label =
+    .label = Karakter aralığı
+about-reader-word-spacing-label =
+    .label = Kelime aralığı
+about-reader-text-alignment-label = Metin hizalaması
+about-reader-text-alignment-left =
+    .title = Metni sola hizala
+about-reader-text-alignment-center =
+    .title = Metni ortala
+about-reader-text-alignment-right =
+    .title = Metni sağa hizala

@@ -126,6 +126,13 @@ translations-manage-description = Çevrimdışı çeviri için dilleri indir.
 translations-manage-all-language = Tüm diller
 translations-manage-download-button = İndir
 translations-manage-delete-button = Sil
+translations-manage-intro = Dil ve site çevirisi tercihlerinizi ayarlayın, çevrimdışı çeviri için yüklenen dilleri yönetin.
+translations-manage-install-description = Çevrimdışı çeviri için dilleri yükle
+translations-manage-language-install-button =
+    .label = Yükle
+translations-manage-language-install-all-button =
+    .label = Tümünü yükle
+    .accesskey = T
 translations-manage-intro-2 = Dil ve site çevirisi tercihlerinizi ayarlayın, çevrimdışı çeviri için indirilen dilleri yönetin.
 translations-manage-download-description = Çevrimdışı çeviri için dilleri indir
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Dil dosyaları yüklenirken bir sorun oluştu. Lütfen yeniden deneyin.
 translations-manage-error-download = Dil dosyaları indirilirken bir sorun oluştu. Lütfen yeniden deneyin.
 translations-manage-error-delete = Dil dosyaları silinirken bir hata oluştu. Lütfen yeniden deneyin.
-translations-manage-intro = Dil ve site çevirisi tercihlerinizi ayarlayın, çevrimdışı çeviri için yüklenen dilleri yönetin.
-translations-manage-install-description = Çevrimdışı çeviri için dilleri yükle
-translations-manage-language-install-button =
-    .label = Yükle
-translations-manage-language-install-all-button =
-    .label = Tümünü yükle
-    .accesskey = T
 translations-manage-error-remove = Dil dosyaları kaldırılırken bir hata oluştu. Lütfen yeniden deneyin.
 translations-manage-error-list = Çeviri için mevcut dillerin listesi alınamadı. Yeniden denemek için sayfayı tazeleyin.
 translations-settings-title =
@@ -177,12 +177,36 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Kapat
     .buttonaccesskeyaccept = K
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Çeviri
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Bu dilden
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Bu dile
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Başka bir kaynak dil dene
 select-translations-panel-cancel-button =
     .label = Vazgeç
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopyala
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Kopyalandı
+select-translations-panel-done-button =
+    .label = Tamam
+select-translations-panel-translate-full-page-button =
+    .label = Tüm sayfayı çevir
 select-translations-panel-translate-button =
     .label = Çevir
 select-translations-panel-try-again-button =
     .label = Yeniden dene
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Çevrilen metin burada görünecek.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Çevriliyor…
+select-translations-panel-init-failure-message =
+    .message = Diller yüklenemedi. İnternet bağlantınızı kontrol edip yeniden deneyin.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Çeviri sırasında bir sorun oluştu. Lütfen yeniden deneyin.
@@ -196,3 +220,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Maalesef henüz { $language } dilini desteklemiyoruz.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Ne yazık ki henüz bu dili desteklemiyoruz.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Çeviri ayarları
