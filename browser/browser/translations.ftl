@@ -126,6 +126,12 @@ translations-manage-description = تنزيل اللغات من أجل الترج
 translations-manage-all-language = كل اللغات
 translations-manage-download-button = نزّل
 translations-manage-delete-button = احذف
+translations-manage-language-remove-button =
+    .label = أزِل
+translations-manage-language-remove-all-button =
+    .label = أزِل الكل
+    .accesskey = ك
+translations-manage-error-install = حدثت مشكلة أثناء تثبيت ملفات اللغة. حاول مرة اخرى.
 translations-manage-error-download = حدثت مشكلة أثناء تنزيل ملفات اللغة. من فضلك حاول ثانية.
 translations-manage-error-delete = حدثت مشكلة أثناء حذف ملفات اللغة. من فضلك حاول ثانية.
 translations-manage-intro = عيّن تفضيلات اللغة وترجمة الموقع وإدارة اللغات المثبتة للترجمة في وضع عدم الاتصال.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = تثبيت الكل
     .accesskey = ب
-translations-manage-language-remove-button =
-    .label = أزِل
-translations-manage-language-remove-all-button =
-    .label = أزِل الكل
-    .accesskey = ك
-translations-manage-error-install = حدثت مشكلة أثناء تثبيت ملفات اللغة. حاول مرة اخرى.
 translations-manage-error-remove = حدث خطأ أثناء إزالة ملفات اللغة. حاول مرة اخرى.
 translations-manage-error-list = فشل الحصول على قائمة اللغات المتاحة للترجمة. حدّث الصفحة للمحاولة مرة أخرى.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = أغلِق
     .buttonaccesskeyaccept = ق
+select-translations-panel-cancel-button =
+    .label = ألغِ
+select-translations-panel-translate-button =
+    .label = ترجم
+select-translations-panel-try-again-button =
+    .label = حاول مجددًا
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = حدثت مشكلة أثناء الترجمة. من فضلك حاول ثانية.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = للأسف، لا ندعم { $language } بعد.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = معذرةً، لا ندعم هذه اللغة بعد.
