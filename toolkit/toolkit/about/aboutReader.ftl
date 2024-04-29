@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = ניגודיות
     .title = ערכת צבעים בעלת ניגודיות
 about-reader-color-theme-custom = צבעים מותאמים אישית
     .title = ערכת צבעים מותאמת אישית
+about-reader-color-light-theme = בהירה
+    .title = ערכת נושא בהירה
+about-reader-color-dark-theme = כהה
+    .title = ערכת נושא כהה
+about-reader-color-sepia-theme = ספיה
+    .title = ערכת נושא בסגנון חום־אדמדם
+about-reader-color-auto-theme = אוטומטי
+    .title = ערכת נושא אוטומטית
+about-reader-color-gray-theme = אפור
+    .title = ערכת נושא אפורה
+about-reader-color-contrast-theme = ניגודיות
+    .title = ערכת נושא בעלת ניגודיות
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = סגירת תצוגת הקריאה
 about-reader-toolbar-type-controls = שליטה על המראה
 about-reader-toolbar-color-controls = צבעים
+about-reader-toolbar-text-layout-controls = טקסט ופריסה
+about-reader-toolbar-theme-controls = ערכת נושא
 about-reader-toolbar-savetopocket = שמירה אל { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -85,3 +99,28 @@ about-reader-custom-colors-visited-links = קישורים שביקרת בהם
 about-reader-custom-colors-selection-highlight = מדגיש להקראה בקול
     .title = עריכת צבע
 about-reader-custom-colors-reset-button = איפוס לברירות המחדל
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = פריסה
+about-reader-advanced-layout-header = מתקדם
+about-reader-slider-label-width-narrow = צר
+about-reader-slider-label-width-wide = רחב
+about-reader-slider-label-spacing-narrow = צר
+about-reader-slider-label-spacing-standard = רגיל
+about-reader-slider-label-spacing-wide = רחב
+about-reader-content-width-label =
+    .label = רוחב התוכן
+about-reader-line-spacing-label =
+    .label = מרווח בין שורות
+about-reader-character-spacing-label =
+    .label = מרווח בין תווים
+about-reader-word-spacing-label =
+    .label = מרווח בין מילים
+about-reader-text-alignment-label = יישור טקסט
+about-reader-text-alignment-left =
+    .title = יישור טקסט לצד שמאל
+about-reader-text-alignment-center =
+    .title = יישור טקסט למרכז
+about-reader-text-alignment-right =
+    .title = יישור טקסט לצד ימין
