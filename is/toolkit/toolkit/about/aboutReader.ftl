@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Birtuskil
     .title = Litastef með miklum birtuskilum
 about-reader-color-theme-custom = Sérsniðnir litir
     .title = Sérsniðið litastef
+about-reader-color-light-theme = Ljóst
+    .title = Ljóst þema
+about-reader-color-dark-theme = Dökkt
+    .title = Dökkt þema
+about-reader-color-sepia-theme = Sepía
+    .title = Sepía þema
+about-reader-color-auto-theme = Sjálfvirkt
+    .title = Sjálfvirkt þema
+about-reader-color-gray-theme = Grátt
+    .title = Grátt þema
+about-reader-color-contrast-theme = Birtuskil
+    .title = Þema með miklum birtuskilum
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Loka lesham
 about-reader-toolbar-type-controls = Stýringar fyrir tegund
 about-reader-toolbar-color-controls = Litir
+about-reader-toolbar-text-layout-controls = Texti og framsetning
+about-reader-toolbar-theme-controls = Þema
 about-reader-toolbar-savetopocket = Vista í { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -85,3 +99,26 @@ about-reader-custom-colors-visited-links = Notaðir tenglar
 about-reader-custom-colors-selection-highlight = Áherslulitun fyrir upplestur
     .title = Breyta lit
 about-reader-custom-colors-reset-button = Endurheimta sjálfgefnar stillingar
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Framsetning
+about-reader-advanced-layout-header = Ítarlegt
+about-reader-slider-label-width-narrow = Þröngt
+about-reader-slider-label-width-wide = Breitt
+about-reader-slider-label-spacing-narrow = Þröngt
+about-reader-slider-label-spacing-standard = Staðlað
+about-reader-slider-label-spacing-wide = Breitt
+about-reader-content-width-label =
+    .label = Breidd efnis
+about-reader-line-spacing-label =
+    .label = Línubil
+about-reader-character-spacing-label =
+    .label = Stafabil
+about-reader-word-spacing-label =
+    .label = Orðabil
+about-reader-text-alignment-label = Textajöfnun
+about-reader-text-alignment-left =
+    .title = Jafna texta til vinstri
+about-reader-text-alignment-center =
+    .title = Jafna texta á miðju
