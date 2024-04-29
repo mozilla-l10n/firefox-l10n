@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = ناو کریو کاپی
 config-context-menu-copy-pref-value =
     .label = ویلیو کریو کاپی
+
