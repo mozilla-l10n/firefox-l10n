@@ -43,7 +43,7 @@ contentanalysis-error-message = 与数据泄露防护软件通信时发生错误
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = 与“{ $agent }”通信时出错。以下资源的传输被拒绝：{ $content }。
+contentanalysis-unspecified-error-message = 与“{ $agent }”通信时发生错误。以下资源的传输被拒绝：{ $content }。
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
