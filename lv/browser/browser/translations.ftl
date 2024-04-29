@@ -126,6 +126,12 @@ translations-manage-description = Lejupielādēt valodas bezsaistes tulkošanai.
 translations-manage-all-language = Visas valodas
 translations-manage-download-button = Lejupielādēt
 translations-manage-delete-button = Dzēst
+translations-manage-language-remove-button =
+    .label = Izņemt
+translations-manage-language-remove-all-button =
+    .label = Izņemt visu
+    .accesskey = e
+translations-manage-error-install = Instalējot valodu datnes, radās problēma. Lūdzu mēģiniet vēlreiz.
 translations-manage-error-download = Lejupielādējot valodu datnes, radās problēma. Lūdzu mēģiniet vēlreiz.
 translations-manage-error-delete = Dzēšot valodas datnes, radās kļūda. Lūdzu, mēģiniet vēlreiz.
 translations-manage-intro = Iestatiet savas valodas un vietņu tulkošanas preferences un pārvaldiet bezsaistes tulkošanai instalētās valodas.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Instalēt visu
     .accesskey = I
-translations-manage-language-remove-button =
-    .label = Izņemt
-translations-manage-language-remove-all-button =
-    .label = Izņemt visu
-    .accesskey = e
-translations-manage-error-install = Instalējot valodu datnes, radās problēma. Lūdzu mēģiniet vēlreiz.
 translations-manage-error-remove = Izņemot valodas datnes, radās kļūda. Lūdzu, mēģiniet vēlreiz.
 translations-manage-error-list = Neizdevās iegūt tulkošanai pieejamo valodu sarakstu. Atsvaidziniet lapu, lai mēģinātu vēlreiz.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Aizvērt
     .buttonaccesskeyaccept = A
+select-translations-panel-cancel-button =
+    .label = Atcelt
+select-translations-panel-translate-button =
+    .label = Tulkot
+select-translations-panel-try-again-button =
+    .label = Mēģināt vēlreiz
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Tulkojot radās problēma. Lūdzu, mēģiniet vēlreiz.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Diemžēl mēs vēl neatbalstām valodu { $language }.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Diemžēl mēs vēl neatbalstām šo valodu.
