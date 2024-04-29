@@ -172,5 +172,20 @@ translations-settings-close-dialog =
     .buttonaccesskeyaccept = ป
 select-translations-panel-cancel-button =
     .label = ยกเลิก
+select-translations-panel-translate-button =
+    .label = แปล
 select-translations-panel-try-again-button =
     .label = ลองอีกครั้ง
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = เกิดปัญหาในการแปล โปรดลองอีกครั้ง
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = ขออภัย เรายังไม่รองรับ { $language }
+select-translations-panel-unsupported-language-message-unknown =
+    .message = ขออภัย เรายังไม่รองรับภาษานี้
