@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Namen kopieren
 config-context-menu-copy-pref-value =
     .label = Wert kopieren
+
