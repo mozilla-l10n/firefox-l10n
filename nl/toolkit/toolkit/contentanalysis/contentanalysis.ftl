@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = Kan geen verbinding maken met { $ag
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Ondertekeningsverificatie voor { $agent } mislukt. Overdracht geweigerd voor bron: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Er is een fout opgetreden bij de communicatie met { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Kan geen verbinding maken met { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Ondertekeningsverificatie voor { $agent } mislukt. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Upload van ‘{ $filename }’ geweigerd.
+contentanalysis-error-message-dropped-text = Slepen en neerzetten geweigerd.
+contentanalysis-error-message-clipboard = Plakken geweigerd.
+contentanalysis-error-message-print = Afdrukken geweigerd.
 contentanalysis-block-dialog-title-upload-file = U mag dit bestand niet uploaden
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
