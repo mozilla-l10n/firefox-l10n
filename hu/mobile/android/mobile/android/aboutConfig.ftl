@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Név másolása
 config-context-menu-copy-pref-value =
     .label = Érték másolása
+
