@@ -126,13 +126,6 @@ translations-manage-description = Hent sprog til oversættelse offline.
 translations-manage-all-language = Alle sprog
 translations-manage-download-button = Hent
 translations-manage-delete-button = Slet
-translations-manage-intro = Vælg dit sprog, indstillinger for oversættelser af websteder og håndter sprog installeret til brug for oversættelse offline.
-translations-manage-install-description = Installer sprog til offline oversættelse
-translations-manage-language-install-button =
-    .label = Installer
-translations-manage-language-install-all-button =
-    .label = Installer alle
-    .accesskey = a
 translations-manage-intro-2 = Indstil dine præferencer for sprog og oversættelse af websteder og håndter sprog som er blevet hentet for at oversætte sider, når du ikke er online.
 translations-manage-download-description = Hent sprog for at oversætte sider, når du er offline
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Der opstod et problem med at installere sprogfilerne. Prøv igen.
 translations-manage-error-download = Der opstod et problem med at hente sprogfilerne. Prøv igen.
 translations-manage-error-delete = Der opstod en fejl under sletningen af sprogfilerne. Prøv igen.
+translations-manage-intro = Vælg dit sprog, indstillinger for oversættelser af websteder og håndter sprog installeret til brug for oversættelse offline.
+translations-manage-install-description = Installer sprog til offline oversættelse
+translations-manage-language-install-button =
+    .label = Installer
+translations-manage-language-install-all-button =
+    .label = Installer alle
+    .accesskey = a
 translations-manage-error-remove = Der opstod en fejl med at fjerne sprogfilerne. Prøv igen.
 translations-manage-error-list = Kunne ikke hente listen med tilgængelige sprog til oversættelse. Genindlæs siden for at prøve igen.
 translations-settings-title =
@@ -177,3 +177,19 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Luk
     .buttonaccesskeyaccept = L
+select-translations-panel-cancel-button =
+    .label = Annuller
+select-translations-panel-translate-button =
+    .label = Oversæt
+select-translations-panel-try-again-button =
+    .label = Prøv igen
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Beklager, vi understøtter ikke { $language } endnu.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Beklager, vi understøtter ikke dette sprog endnu.
