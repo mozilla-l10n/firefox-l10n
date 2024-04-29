@@ -119,6 +119,12 @@ translations-manage-description = Baixeu llengües per a la traducció fora de l
 translations-manage-all-language = Totes les llengües
 translations-manage-download-button = Baixa
 translations-manage-delete-button = Suprimeix
+translations-manage-language-remove-button =
+    .label = Elimina
+translations-manage-language-remove-all-button =
+    .label = Elimina-ho tot
+    .accesskey = E
+translations-manage-error-install = Hi ha hagut un problema en instal·lar els fitxers de la llengua. Torneu-ho a provar.
 translations-manage-error-download = Hi ha hagut un problema en baixar els fitxers de la llengua. Torneu-ho a provar.
 translations-manage-error-delete = Hi ha hagut un problema en suprimir els fitxers de la llengua. Torneu-ho a provar.
 translations-manage-intro = Definiu les preferències de llengua i de traducció dels llocs, i gestioneu les llengües instal·lades per a la traducció fora de línia.
@@ -128,12 +134,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Instal·la-ho tot
     .accesskey = I
-translations-manage-language-remove-button =
-    .label = Elimina
-translations-manage-language-remove-all-button =
-    .label = Elimina-ho tot
-    .accesskey = E
-translations-manage-error-install = Hi ha hagut un problema en instal·lar els fitxers de la llengua. Torneu-ho a provar.
 translations-manage-error-remove = Hi ha hagut un problema en eliminar els fitxers de la llengua. Torneu-ho a provar.
 translations-manage-error-list = No s'ha pogut obtenir la llista de llengües disponibles per a la traducció. Actualitzeu la pàgina per tornar-ho a provar.
 translations-settings-title =
@@ -163,3 +163,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Tanca
     .buttonaccesskeyaccept = T
+select-translations-panel-cancel-button =
+    .label = Cancel·la
+select-translations-panel-translate-button =
+    .label = Tradueix
+select-translations-panel-try-again-button =
+    .label = Torna-ho a provar
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Hi ha hagut un problema en traduir. Torneu-ho a provar.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Aquesta llengua encara no és compatible: { $language }
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Aquesta llengua encara no és compatible.
