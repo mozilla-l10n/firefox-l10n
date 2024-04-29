@@ -126,13 +126,6 @@ translations-manage-description = Llwythwch i lawr ieithoedd ar gyfer cyfieithu 
 translations-manage-all-language = Pob iaith
 translations-manage-download-button = Llwytho i lawr
 translations-manage-delete-button = Dileu
-translations-manage-intro = Gosodwch eich dewisiadau cyfieithu iaith a gwefan a rheoli ieithoedd sydd wedi'u gosod ar gyfer cyfieithu all-lein.
-translations-manage-install-description = Gosodwch ieithoedd ar gyfer cyfieithu all-lein
-translations-manage-language-install-button =
-    .label = Gosod
-translations-manage-language-install-all-button =
-    .label = Gosod y cyfan
-    .accesskey = G
 translations-manage-intro-2 = Gosodwch eich dewisiadau iaith a chyfieithu gwefan a rheoli'r ieithoedd sydd wedi'u llwytho i lawr ar gyfer cyfieithu all-lein.
 translations-manage-download-description = Llwytho i lawr ieithoedd ar gyfer cyfieithu all-lein
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Bu anhawster wrth osod y ffeiliau iaith. Ceisiwch eto.
 translations-manage-error-download = Bu anhawster wrth lwytho'r ffeiliau iaith i lawr. Ceisiwch eto.
 translations-manage-error-delete = Bu gwall wrth ddileu'r ffeiliau iaith. Ceisiwch eto.
+translations-manage-intro = Gosodwch eich dewisiadau cyfieithu iaith a gwefan a rheoli ieithoedd sydd wedi'u gosod ar gyfer cyfieithu all-lein.
+translations-manage-install-description = Gosodwch ieithoedd ar gyfer cyfieithu all-lein
+translations-manage-language-install-button =
+    .label = Gosod
+translations-manage-language-install-all-button =
+    .label = Gosod y cyfan
+    .accesskey = G
 translations-manage-error-remove = Bu gwall wrth dynnu'r ffeiliau iaith. Ceisiwch eto.
 translations-manage-error-list = Wedi methu â chael y rhestr o ieithoedd sydd ar gael i'w cyfieithu. Ail-lwythwch y dudalen i geisio eto.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Cau
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = Diddymu
+select-translations-panel-translate-button =
+    .label = Cyfieithu
+select-translations-panel-try-again-button =
+    .label = Ceisiwch eto
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Bu anhawster wrth gyfieithu. Ceisiwch eto.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Mae'n ddrwg gennym, nid ydym yn cefnogi'r { $language } eto.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Ymddiheuriadau, nid ydym yn cefnogi'r { $language } eto.
