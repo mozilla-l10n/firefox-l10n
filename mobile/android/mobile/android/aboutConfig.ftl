@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Атын көшіріп алу
 config-context-menu-copy-pref-value =
     .label = Мәнін көшіріп алу
+
