@@ -126,6 +126,13 @@ translations-manage-description = Sækja tungumál fyrir þýðingar án netteng
 translations-manage-all-language = Öll tungumál
 translations-manage-download-button = Sækja
 translations-manage-delete-button = Eyða
+translations-manage-intro = Stilltu tungumála- og vefþýðingastillingar þínar og stjórnaðu tungumálum sem eru uppsett fyrir þýðingar án nettengingar.
+translations-manage-install-description = Settu inn tungumál fyrir þýðingar án nettengingar.
+translations-manage-language-install-button =
+    .label = Setja inn
+translations-manage-language-install-all-button =
+    .label = Setja inn allt
+    .accesskey = i
 translations-manage-intro-2 = Stilltu tungumála- og vefþýðingastillingar þínar og stjórnaðu tungumálum sem eru sótt fyrir þýðingar án nettengingar.
 translations-manage-download-description = Sækja tungumál fyrir þýðingar án nettengingar.
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Villa kom upp við að setja inn tungumálaskrárnar. Reyndu aftur.
 translations-manage-error-download = Villa kom upp við að sækja tungumálaskrárnar. Reyndu aftur.
 translations-manage-error-delete = Villa kom upp við að eyða tungumálaskránum. Reyndu aftur.
-translations-manage-intro = Stilltu tungumála- og vefþýðingastillingar þínar og stjórnaðu tungumálum sem eru uppsett fyrir þýðingar án nettengingar.
-translations-manage-install-description = Settu inn tungumál fyrir þýðingar án nettengingar.
-translations-manage-language-install-button =
-    .label = Setja inn
-translations-manage-language-install-all-button =
-    .label = Setja inn allt
-    .accesskey = i
 translations-manage-error-remove = Villa kom upp við að fjarlægja tungumálaskrárnar. Reyndu aftur.
 translations-manage-error-list = Ekki tókst að ná í lista yfir tiltæk tungumál fyrir þýðingar. Endurnýjaðu síðuna til að reyna aftur.
 translations-settings-title =
@@ -177,12 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Loka
     .buttonaccesskeyaccept = k
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Þýða valið…
+    .accesskey = { "" }
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Þýða valið yfir á { $language }
+    .accesskey = l
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Þýða texta tengils...
+    .accesskey = l
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Þýða texta tengils yfir á { $language }
+    .accesskey = l
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Þýðing
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Af
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = yfir á
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Prófa annað frummál
 select-translations-panel-cancel-button =
     .label = Hætta við
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Afrita
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Afritað
+select-translations-panel-done-button =
+    .label = Lokið
+select-translations-panel-translate-full-page-button =
+    .label = Þýða alla síðuna
 select-translations-panel-translate-button =
     .label = Þýða
 select-translations-panel-try-again-button =
     .label = Reyna aftur
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Þýddur texti mun birtast hér.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Þýðing…
+select-translations-panel-init-failure-message =
+    .message = Ekki tókst að hlaða inn tungumálum. Athugaðu nettenginguna þína og reyndu aftur.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Vandamál kom upp við að þýða. Reyndu aftur.
@@ -196,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Því miður styðjum við ekki { $language } ennþá.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Því miður styðjum við ekki þetta tungumál ennþá.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Þýðingastillingar
