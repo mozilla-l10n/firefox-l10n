@@ -183,6 +183,9 @@ select-translations-panel-translate-button =
     .label = Oversæt
 select-translations-panel-try-again-button =
     .label = Prøv igen
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Der opstod et problem med at oversætte. Prøv igen.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
