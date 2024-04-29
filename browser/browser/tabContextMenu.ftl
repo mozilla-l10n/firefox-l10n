@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zavřít několik panelů
     .accesskey = k
+tab-context-close-duplicate-tabs =
+    .label = Zavřít duplicitní panely
+    .accesskey = u
 tab-context-share-url =
     .label = Sdílet
     .accesskey = S
@@ -105,7 +108,6 @@ tab-context-move-tabs =
            *[other] { $tabCount } panelů
         }
     .accesskey = s
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
