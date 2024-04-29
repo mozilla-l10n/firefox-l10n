@@ -86,3 +86,7 @@ translations-panel-restore-button =
 translations-settings-always-translate-langs-description = Ovi jezici automatski će se prevoditi
 translations-settings-never-translate-langs-description = Prijevod neće biti ponuđen za sljedeće jezike
 translations-settings-never-translate-sites-description = Prijevod neće biti nuđen za sljedeće stranice
+select-translations-panel-cancel-button =
+    .label = Odustani
+select-translations-panel-translate-button =
+    .label = Prevedi
