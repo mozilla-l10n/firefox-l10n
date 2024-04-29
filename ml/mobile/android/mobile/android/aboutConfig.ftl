@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = പേര്‌ പകര്‍ത്തുക
 config-context-menu-copy-pref-value =
     .label = മൂല്ല്യം പകര്‍ത്തുക
+
