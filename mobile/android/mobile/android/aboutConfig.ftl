@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = ສໍາເນົາຊື່
 config-context-menu-copy-pref-value =
     .label = ສຳເນົາຄ່າ
+
