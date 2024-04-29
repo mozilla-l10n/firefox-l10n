@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Contraste
     .title = Tema de color contrastante
 about-reader-color-theme-custom = Colores personalizados
     .title = Tema de colores personalizados
+about-reader-color-light-theme = Claro
+    .title = Tema claro
+about-reader-color-dark-theme = Oscuro
+    .title = Tema oscuro
+about-reader-color-sepia-theme = Sepia
+    .title = Tema sepia
+about-reader-color-auto-theme = Auto
+    .title = Tema automático
+about-reader-color-gray-theme = Gris
+    .title = Tema gris
+about-reader-color-contrast-theme = Contraste
+    .title = Tema contrastante
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Cerrar la vista del lector
 about-reader-toolbar-type-controls = Tipografía
 about-reader-toolbar-color-controls = Colores
+about-reader-toolbar-text-layout-controls = Texto y diseño
+about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Guardar en { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -85,3 +99,28 @@ about-reader-custom-colors-visited-links = Enlaces visitados
 about-reader-custom-colors-selection-highlight = Resaltador para leer en voz alta
     .title = Editar color
 about-reader-custom-colors-reset-button = Restablecer predeterminados
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Diseño
+about-reader-advanced-layout-header = Avanzado
+about-reader-slider-label-width-narrow = Angosto
+about-reader-slider-label-width-wide = Ancho
+about-reader-slider-label-spacing-narrow = Angosto
+about-reader-slider-label-spacing-standard = Estándar
+about-reader-slider-label-spacing-wide = Ancho
+about-reader-content-width-label =
+    .label = Ancho del contenido
+about-reader-line-spacing-label =
+    .label = Espaciado entre líneas
+about-reader-character-spacing-label =
+    .label = Espaciado entre caracteres
+about-reader-word-spacing-label =
+    .label = Espaciado de palabras
+about-reader-text-alignment-label = Alineación del texto
+about-reader-text-alignment-left =
+    .title = Alinear texto a la izquierda
+about-reader-text-alignment-center =
+    .title = Alinear texto al centro
+about-reader-text-alignment-right =
+    .title = Alinear el texto a la derecha
