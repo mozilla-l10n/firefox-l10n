@@ -126,6 +126,12 @@ translations-manage-description = Барои тарҷума дар реҷаи о
 translations-manage-all-language = Ҳамаи забонҳо
 translations-manage-download-button = Боргирӣ кардан
 translations-manage-delete-button = Нест кардан
+translations-manage-language-remove-button =
+    .label = Тоза кардан
+translations-manage-language-remove-all-button =
+    .label = Ҳамаро тоза кардан
+    .accesskey = Ҳ
+translations-manage-error-install = Ҳангоми насб кардани файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-error-download = Ҳангоми боргирӣ кардани файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-error-delete = Ҳангоми несткунии файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-intro = Хусусиятҳои забон ва тарҷумаи сомонаро танзим кунед ва забонҳои насбшударо барои тарҷумаҳои офлайн идора намоед.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Ҳамаро насб кардан
     .accesskey = Ҳ
-translations-manage-language-remove-button =
-    .label = Тоза кардан
-translations-manage-language-remove-all-button =
-    .label = Ҳамаро тоза кардан
-    .accesskey = Ҳ
-translations-manage-error-install = Ҳангоми насб кардани файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-error-remove = Ҳангоми тоза кардани файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-error-list = Рӯйхати забонҳои дастрас барои тарҷума ба даст оварда нашуд. Саҳифаро аз нав бор карда, аз нав кӯшиш намоед.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Пӯшидан
     .buttonaccesskeyaccept = П
+select-translations-panel-cancel-button =
+    .label = Бекор кардан
+select-translations-panel-translate-button =
+    .label = Тарҷума кунед
+select-translations-panel-try-again-button =
+    .label = Аз нав кӯшиш кардан
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Ҳангоми тарҷума мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Мутаассифона, айни ҳол забони «{ $language }» дастгирӣ намешавад.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Мутаассифона, айни ҳол ин забон дастгирӣ намешавад.
