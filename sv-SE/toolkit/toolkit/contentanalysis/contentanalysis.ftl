@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = Det gick inte att ansluta till { $a
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Misslyckad signaturverifiering för { $agent }. Överföring nekad för resurs: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Ett fel uppstod i kommunikationen med { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Det gick inte att ansluta till { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Misslyckad signaturverifiering för { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Uppladdning av "{ $filename }" nekad.
+contentanalysis-error-message-dropped-text = Dra och släpp nekad.
+contentanalysis-error-message-clipboard = Klistra in nekad.
+contentanalysis-error-message-print = Utskrift nekad.
 contentanalysis-block-dialog-title-upload-file = Du har inte behörighet att ladda upp den här filen
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
