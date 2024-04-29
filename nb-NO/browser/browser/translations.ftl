@@ -126,6 +126,12 @@ translations-manage-description = Last ned språk for frakoblet oversettelse.
 translations-manage-all-language = Alle språk
 translations-manage-download-button = Last ned
 translations-manage-delete-button = Slett
+translations-manage-language-remove-button =
+    .label = Fjern
+translations-manage-language-remove-all-button =
+    .label = Fjern alle
+    .accesskey = e
+translations-manage-error-install = Klarte ikke å laste installere språkfilene. Prøv på nytt.
 translations-manage-error-download = Klarte ikke å laste ned språkfilene. Prøv på nytt.
 translations-manage-error-delete = Det oppstod en feil ved sletting av språkfilene. Prøv på nytt.
 translations-manage-intro = Angi innstillingene for språk og nettstedoversettelse og behandle språk som er installert for frakoblet oversettelse.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Installer alle
     .accesskey = I
-translations-manage-language-remove-button =
-    .label = Fjern
-translations-manage-language-remove-all-button =
-    .label = Fjern alle
-    .accesskey = e
-translations-manage-error-install = Klarte ikke å laste installere språkfilene. Prøv på nytt.
 translations-manage-error-remove = Det oppstod en feil ved sletting av språkfilene. Prøv på nytt.
 translations-manage-error-list = Klarte ikke å hente listen over tilgjengelige språk for oversettelse. Oppdater siden for å prøve igjen.
 translations-settings-title =
@@ -170,3 +170,19 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Lukk
     .buttonaccesskeyaccept = L
+select-translations-panel-cancel-button =
+    .label = Avbryt
+select-translations-panel-translate-button =
+    .label = Oversett
+select-translations-panel-try-again-button =
+    .label = Prøv igjen
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Beklager, vi støtter ikke { $language } ennå.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Beklager, vi støtter ikke dette språket ennå.
