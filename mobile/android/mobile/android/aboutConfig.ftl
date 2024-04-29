@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Natto Innde
 config-context-menu-copy-pref-value =
     .label = Natto Kiisol
+
