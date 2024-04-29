@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Cyferbyniad
     .title = Cyferbyniad Lliw Thema
 about-reader-color-theme-custom = Lliwiau cyfaddas
     .title = Lliwiau Thema Gyfaddas
+about-reader-color-light-theme = Golau
+    .title = Thema olau
+about-reader-color-dark-theme = Tywyll
+    .title = Thema dywyll
+about-reader-color-sepia-theme = Sepia
+    .title = Thema sepia
+about-reader-color-auto-theme = Awtomatig
+    .title = Thema awtomatig
+about-reader-color-gray-theme = Llwyd
+    .title = Thema lwyd
+about-reader-color-contrast-theme = Cyferbyniol
+    .title = Thema gyferbyniol
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -66,6 +78,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Cau'r Golwg Darllen
 about-reader-toolbar-type-controls = Rheoli'r math
 about-reader-toolbar-color-controls = Lliwiau
+about-reader-toolbar-text-layout-controls = Testun a chynllun
+about-reader-toolbar-theme-controls = Thema
 about-reader-toolbar-savetopocket = Cadw i { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -89,3 +103,28 @@ about-reader-custom-colors-visited-links = Dolenni wedi cael ymweliad
 about-reader-custom-colors-selection-highlight = Amlygwr ar gyfer darllen yn uchel
     .title = Golygu'r lliw
 about-reader-custom-colors-reset-button = Ailosod rhagosodiadau
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Cynllun
+about-reader-advanced-layout-header = Uwch
+about-reader-slider-label-width-narrow = Cul
+about-reader-slider-label-width-wide = Llydan
+about-reader-slider-label-spacing-narrow = Cul
+about-reader-slider-label-spacing-standard = Safonol
+about-reader-slider-label-spacing-wide = Llydan
+about-reader-content-width-label =
+    .label = Lled cynnwys
+about-reader-line-spacing-label =
+    .label = Bylchu llinellau
+about-reader-character-spacing-label =
+    .label = Bylchu nodau
+about-reader-word-spacing-label =
+    .label = Bylchu geiriau
+about-reader-text-alignment-label = Aliniad testun
+about-reader-text-alignment-left =
+    .title = Alinio testun i'r chwith
+about-reader-text-alignment-center =
+    .title = Alinio testun i'r canol
+about-reader-text-alignment-right =
+    .title = Alinio'r testun i'r dde
