@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Guxun si yugui ni nachrunt a'ngô hiuj u
 config-context-menu-copy-pref-value =
     .label = Guxun sa du'uee ni nachrunt a'ngô hiuj u
+
