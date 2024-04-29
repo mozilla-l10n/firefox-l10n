@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = ਨਾਂ ਨੂੰ ਕਾਪੀ ਕਰੋ
 config-context-menu-copy-pref-value =
     .label = ਮੁੱਲ ਨੂੰ ਕਾਪੀ ਕਰੋ
+
