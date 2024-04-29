@@ -133,6 +133,7 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = ਸਭ ਇੰਸਟਾਲ
     .accesskey = I
+translations-manage-intro-2 = ਆਪਣੀ ਭਾਸ਼ਾ ਅਤੇ ਸਾਈਟ ਅਨੁਵਾਦ ਪਸੰਦਾਂ ਨੂੰ ਸੈੱਟ ਕਰੋ ਅਤੇ ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਡਾਊਨਲੋਡ ਹੋਈਆਂ ਭਾਸ਼ਾਵਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ।
 translations-manage-download-description = ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਭਾਸ਼ਾਵਾਂ ਡਾਊਨਲੋਡ ਕਰੋ
 translations-manage-language-download-button =
     .label = ਡਾਊਨਲੋਡ
