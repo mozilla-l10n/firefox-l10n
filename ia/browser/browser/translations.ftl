@@ -126,13 +126,6 @@ translations-manage-description = Discargar le linguas pro traducer offline.
 translations-manage-all-language = Tote le linguas
 translations-manage-download-button = Discargar
 translations-manage-delete-button = Deler
-translations-manage-intro = Defini tu preferentias de lingua e traduction de sito, e gere le linguas installate pro le traduction sin connexion.
-translations-manage-install-description = Installar linguas pro traducer offline.
-translations-manage-language-install-button =
-    .label = Installar
-translations-manage-language-install-all-button =
-    .label = Installar toto
-    .accesskey = I
 translations-manage-intro-2 = Defini tu preferentias de lingua e traduction de sito, e gere le linguas discargate pro le traduction sin connexion.
 translations-manage-download-description = Discargar linguas pro traducer offline.
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Il habeva un problema installante le files del linguas. Retenta.
 translations-manage-error-download = Il habeva un problema discargante le files del linguas. Retenta.
 translations-manage-error-delete = Il habeva un problema delente le files del linguas. Retenta.
+translations-manage-intro = Defini tu preferentias de lingua e traduction de sito, e gere le linguas installate pro le traduction sin connexion.
+translations-manage-install-description = Installar linguas pro traducer offline.
+translations-manage-language-install-button =
+    .label = Installar
+translations-manage-language-install-all-button =
+    .label = Installar toto
+    .accesskey = I
 translations-manage-error-remove = Il habeva un problema removente le files del linguas. Retenta.
 translations-manage-error-list = Impossibile obtener le lista del linguas disponibile pro le traduction. Actualisa le pagina pro retentar.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Clauder
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = Cancellar
+select-translations-panel-translate-button =
+    .label = Traducer
+select-translations-panel-try-again-button =
+    .label = Retentar
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Il habeva un problema traducente. Retenta.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Nos regretta, nos ancora non supporta { $language }.-
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Nos regretta, nos ancora non supporta iste lingua.
