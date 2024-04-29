@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Mbojovake
     .title = Mbojovake isa’ýva
 about-reader-color-theme-custom = Sa’ykuéra momba’epyre
     .title = Sa’ykuéra momba’epyre téma
+about-reader-color-light-theme = Tesakã
+    .title = Téma vevúi
+about-reader-color-dark-theme = Ypytũ
+    .title = Táma ypytũ
+about-reader-color-sepia-theme = Sepia
+    .title = Téma Sepia
+about-reader-color-auto-theme = Jehegui
+    .title = Téma jehegui
+about-reader-color-gray-theme = Hũngy
+    .title = Téma hũngy
+about-reader-color-contrast-theme = Mbojuavy
+    .title = Téma mbojuavy
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,7 @@ about-reader-font-type-sans-serif = Sans Serif
 about-reader-toolbar-close = Moñe’ẽha jehechágui ñesẽ
 about-reader-toolbar-type-controls = Taity ha Tugua Ñangarekoha
 about-reader-toolbar-color-controls = Sa’ykuéra
+about-reader-toolbar-theme-controls = Téma
 about-reader-toolbar-savetopocket = Eñongatu { -pocket-brand-name }-pe
 
 ## Reader View colors menu
@@ -85,3 +98,8 @@ about-reader-custom-colors-visited-links = Juajuha ojeporúva
 about-reader-custom-colors-selection-highlight = Mbosa’y emoñe’ẽ hag̃ua ayvúpe
     .title = Embosako’i sa’y
 about-reader-custom-colors-reset-button = Erujey ijypykuéva
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Moha’ãnga
+about-reader-advanced-layout-header = Opapotáva
