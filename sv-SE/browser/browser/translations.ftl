@@ -126,13 +126,6 @@ translations-manage-description = Ladda ner språk för offlineöversättning.
 translations-manage-all-language = Alla språk
 translations-manage-download-button = Hämta
 translations-manage-delete-button = Ta bort
-translations-manage-intro = Ställ in dina språk- och webbplatsöversättningsinställningar och hantera språk som är installerade för offlineöversättning.
-translations-manage-install-description = Installera språk för offlineöversättning
-translations-manage-language-install-button =
-    .label = Installera
-translations-manage-language-install-all-button =
-    .label = Installera alla
-    .accesskey = a
 translations-manage-intro-2 = Ställ in dina språk- och webbplatsöversättningsinställningar och hantera språk som laddas ner för offlineöversättning.
 translations-manage-download-description = Ladda ner språk för offlineöversättning
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Det uppstod ett problem när språkfilerna skulle installeras. Var god försök igen.
 translations-manage-error-download = Det gick inte att ladda ned språkfilerna. Var god försök igen.
 translations-manage-error-delete = Det gick inte att ta bort språkfilerna. Var god försök igen.
+translations-manage-intro = Ställ in dina språk- och webbplatsöversättningsinställningar och hantera språk som är installerade för offlineöversättning.
+translations-manage-install-description = Installera språk för offlineöversättning
+translations-manage-language-install-button =
+    .label = Installera
+translations-manage-language-install-all-button =
+    .label = Installera alla
+    .accesskey = a
 translations-manage-error-remove = Det uppstod ett fel när språkfilerna skulle tas bort. Var god försök igen.
 translations-manage-error-list = Det gick inte att hämta listan över tillgängliga språk för översättning. Uppdatera sidan för att försöka igen.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Stäng
     .buttonaccesskeyaccept = S
+select-translations-panel-cancel-button =
+    .label = Avbryt
+select-translations-panel-translate-button =
+    .label = Översätt
+select-translations-panel-try-again-button =
+    .label = Försök igen
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Det uppstod ett problem med översättningen. Var god försök igen.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Tyvärr, vi stöder inte { $language } ännu.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Tyvärr, vi stöder inte detta språk ännu.
