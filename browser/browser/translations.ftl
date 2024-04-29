@@ -216,10 +216,18 @@ select-translations-panel-copy-button =
 # Text displayed on the copy button after it is clicked.
 select-translations-panel-copy-button-copied =
     .label = Monguatiapyre
+select-translations-panel-done-button =
+    .label = Japopyre
+select-translations-panel-translate-full-page-button =
+    .label = Emoñe’ẽasapa kuatiarogue
 select-translations-panel-translate-button =
     .label = Ñe’ẽasa
 select-translations-panel-try-again-button =
     .label = Eha’ãjey
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Oñemoñe’ẽasa…
+select-translations-panel-init-failure-message =
+    .message = Nahenyhẽkuaái ñe’ẽnguéra. Ehechajey oikópa ne ñanduti ha eha’ãjey ag̃ave.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Iñapañuãi’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
@@ -233,3 +241,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Rombyasy, noromoneĩri gueteri { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Rombyasy, noromoneĩri gueteri ko ñe’ẽ.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Ñemoñe’ẽasa ñemboheko
