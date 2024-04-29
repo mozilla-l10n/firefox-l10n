@@ -126,6 +126,12 @@ translations-manage-description = ენები ჩამოტვირთვ
 translations-manage-all-language = ყველა ენა
 translations-manage-download-button = ჩამოტვირთვა
 translations-manage-delete-button = წაშლა
+translations-manage-language-remove-button =
+    .label = მოცილება
+translations-manage-language-remove-all-button =
+    .label = ყველას მოცილება
+    .accesskey = ც
+translations-manage-error-install = ხარვეზი წარმოიშვა ენის ფაილების ჩადგმისას. გთხოვთ სცადოთ მოგვიანებით.
 translations-manage-error-download = ხარვეზი წარმოიშვა ენის ფაილების ჩამოტვირთვისას. გთხოვთ სცადოთ მოგვიანებით.
 translations-manage-error-delete = ხარვეზი წარმოიშვა ენის ფაილების წაშლისას. გთხოვთ სცადოთ მოგვიანებით.
 translations-manage-intro = მიუთითეთ თქვენი ენისა და საიტის თარგმნის პარამეტრები და მართეთ ხაზგარეშე თარგმნისთვის ჩაყენებული ენები.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = ყველას ჩადგმა
     .accesskey = დ
-translations-manage-language-remove-button =
-    .label = მოცილება
-translations-manage-language-remove-all-button =
-    .label = ყველას მოცილება
-    .accesskey = ც
-translations-manage-error-install = ხარვეზი წარმოიშვა ენის ფაილების ჩადგმისას. გთხოვთ სცადოთ მოგვიანებით.
 translations-manage-error-remove = ხარვეზი წარმოიშვა ენის ფაილების მოცილებისას. გთხოვთ სცადოთ მოგვიანებით.
 translations-manage-error-list = ვერ მოხერხდა თარგმნისთვის ხელმისაწვდომი ენების მოძიება. ახლიდან გახსენით გვერდი და კვლავ სცადეთ.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = დახურვა
     .buttonaccesskeyaccept = ხ
+select-translations-panel-cancel-button =
+    .label = გაუქმება
+select-translations-panel-translate-button =
+    .label = გადათარგმნა
+select-translations-panel-try-again-button =
+    .label = ხელახლა ცდა
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = ხარვეზი წარმოიშვა თარგმნისას. გთხოვთ სცადოთ მოგვიანებით.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = სამწუხაროდ, ჯერ არაა მხარდაჭერილი { $language }.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = სამწუხაროდ, ჯერ არაა მხარდაჭერილი ეს ენა.
