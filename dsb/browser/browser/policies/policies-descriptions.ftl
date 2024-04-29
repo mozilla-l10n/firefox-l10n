@@ -39,6 +39,7 @@ policy-DisableAppUpdate = Wobglědowakoju aktualizěrowanje zakazaś.
 policy-DisableBuiltinPDFViewer = PDF.js znjemóžniś, zatwarjony PDF-wobglědowak w { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Zawoborajśo standardnemu agentoju wobglědowaka wuwjedowanje akcijow. To jo jano za Windows k dispoziciji; druge platformy agent njamaju.
 policy-DisableDeveloperTools = Pśistup k wuwijaŕskim rědam blokěrowaś.
+policy-DisableEncryptedClientHello = Wužywanje TLS-funkciju Encrfypted Client Hello (ECH) znjemóžniś.
 policy-DisableFeedbackCommands = Pśikaze znjemóžniś, kótarež komentary z menija Pomoc sćelu (Pósudk pósłaś a Wobšudnikojske sedło k wěsći daś)
 policy-DisableFirefoxAccounts = Słužby na zakłaźe { -fxaccount-brand-name } znjemóžniś, inkluziwnje Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.

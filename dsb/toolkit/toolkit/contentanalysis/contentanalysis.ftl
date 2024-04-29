@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = Njejo móžno z { $agent } zwězaś
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Pśeglědanje signatury za { $agent } njejo se raźiło. Pśenjasenje jo se wótpokazało za resursu: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Zmólka jo nastała pśi komunicěrowanju z { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Njejo móžno z { $agent } zwězaś. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Pśeglědanje signatury za { $agent } njejo se raźiło. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Nagraśe “{ $filename }” jo wótpokazane.
+contentanalysis-error-message-dropped-text = Śěgnjenje a pušćenje stej se wótpokazałej.
+contentanalysis-error-message-clipboard = Zasajźenje jo se wótpokazało.
+contentanalysis-error-message-print = Śišćanje jo se wótpokazało.
 contentanalysis-block-dialog-title-upload-file = Njesmějośo toś tu dataju nagraś
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
