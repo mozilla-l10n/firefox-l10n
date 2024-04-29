@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Adı köçür
 config-context-menu-copy-pref-value =
     .label = Dəyəri köçür
+
