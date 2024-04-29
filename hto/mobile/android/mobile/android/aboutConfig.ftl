@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Mámekɨ fákadote
 config-context-menu-copy-pref-value =
     .label = Ráifide fákadote
+
