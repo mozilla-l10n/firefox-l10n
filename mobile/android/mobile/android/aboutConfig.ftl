@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Kopjoji Emrin
 config-context-menu-copy-pref-value =
     .label = Kopjoji Vlerën
+
