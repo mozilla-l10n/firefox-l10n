@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Капіяваць назву
 config-context-menu-copy-pref-value =
     .label = Капіяваць значэнне
+
