@@ -126,6 +126,12 @@ translations-manage-description = অফলাইন অনুবাদৰ ব�
 translations-manage-all-language = সকলো ভাষা
 translations-manage-download-button = ডাউনল’ড কৰক
 translations-manage-delete-button = মচক
+translations-manage-language-remove-button =
+    .label = আঁতৰাওক
+translations-manage-language-remove-all-button =
+    .label = সকলো আঁতৰাওক
+    .accesskey = e
+translations-manage-error-install = ভাষাৰ ফাইলবোৰ ইনষ্টল কৰোঁতে কিবা সমস্যা হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
 translations-manage-error-download = ভাষাৰ ফাইলবোৰ ডাউনল’ড কৰোঁতে কিবা সমস্যা হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
 translations-manage-error-delete = ভাষাৰ ফাইলবোৰ মচোঁতে কিবা ত্ৰুটি ঘটিছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
 translations-manage-intro = আপোনাৰ ভাষা আৰু ছাইট অনুবাদৰ পছন্দবোৰ নিৰ্ধাৰণ কৰক আৰু অফলাইন অনুবাদৰ বাবে ইনষ্টল কৰা ভাষাবোৰ পৰিচালনা কৰক।
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = সকলো ইনষ্টল কৰক
     .accesskey = I
-translations-manage-language-remove-button =
-    .label = আঁতৰাওক
-translations-manage-language-remove-all-button =
-    .label = সকলো আঁতৰাওক
-    .accesskey = e
-translations-manage-error-install = ভাষাৰ ফাইলবোৰ ইনষ্টল কৰোঁতে কিবা সমস্যা হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
 translations-manage-error-remove = ভাষাৰ ফাইলবোৰ আঁতৰাওঁতে কিবা ত্ৰুটি ঘটিছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
 translations-manage-error-list = অনুবাদৰ বাবে উপলব্ধ ভাষাৰ তালিকা পোৱাত বিফল। পুনৰ চেষ্টা কৰিবলৈ পৃষ্ঠাখন সতেজ কৰক।
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = বন্ধ কৰক
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = বাতিল কৰক
+select-translations-panel-translate-button =
+    .label = অনুবাদ কৰক
+select-translations-panel-try-again-button =
+    .label = পুনৰ চেষ্টা কৰক
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = অনুবাদ কৰোঁতে কিবা সমস্যা হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = ক্ষমা কৰিব, আমি এতিয়াও { $language } ভাষা সমৰ্থন নকৰোঁ।
+select-translations-panel-unsupported-language-message-unknown =
+    .message = ক্ষমা কৰিব, আমি এতিয়াও এই ভাষা সমৰ্থন নকৰোঁ।
