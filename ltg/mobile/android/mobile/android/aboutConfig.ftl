@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Kopēt nūsaukumu
 config-context-menu-copy-pref-value =
     .label = Kopēt vierteibu
+
