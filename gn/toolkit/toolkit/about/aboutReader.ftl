@@ -74,6 +74,7 @@ about-reader-font-type-sans-serif = Sans Serif
 about-reader-toolbar-close = Moñe’ẽha jehechágui ñesẽ
 about-reader-toolbar-type-controls = Taity ha Tugua Ñangarekoha
 about-reader-toolbar-color-controls = Sa’ykuéra
+about-reader-toolbar-text-layout-controls = Tetepy ha moha’ãnga
 about-reader-toolbar-theme-controls = Téma
 about-reader-toolbar-savetopocket = Eñongatu { -pocket-brand-name }-pe
 
@@ -103,3 +104,6 @@ about-reader-custom-colors-reset-button = Erujey ijypykuéva
 
 about-reader-layout-header = Moha’ãnga
 about-reader-advanced-layout-header = Opapotáva
+about-reader-slider-label-width-wide = Ipéva
+about-reader-slider-label-spacing-standard = Ypykue
+about-reader-slider-label-spacing-wide = Ipéva
