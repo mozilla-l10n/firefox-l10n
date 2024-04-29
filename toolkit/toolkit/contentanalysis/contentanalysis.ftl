@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = 無法連線至 { $agent }。拒絕
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = { $agent } 的簽章驗證失敗。拒絕傳輸下列資源：{ $content }。
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = 與 { $agent } 溝通時發生錯誤，{ $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = 無法連線至 { $agent }，{ $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = { $agent } 簽章驗證失敗，{ $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = 上傳「{ $filename }」被拒絕。
+contentanalysis-error-message-dropped-text = 被拒絕拖放檔案。
+contentanalysis-error-message-clipboard = 被拒絕貼上。
+contentanalysis-error-message-print = 被拒絕列印。
 contentanalysis-block-dialog-title-upload-file = 您未被允許上傳此檔案
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
