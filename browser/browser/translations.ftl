@@ -126,6 +126,12 @@ translations-manage-description = Lataa kieliä yhteydettömän tilan käännök
 translations-manage-all-language = Kaikki kielet
 translations-manage-download-button = Lataa
 translations-manage-delete-button = Poista
+translations-manage-language-remove-button =
+    .label = Poista
+translations-manage-language-remove-all-button =
+    .label = Poista kaikki
+    .accesskey = P
+translations-manage-error-install = Kielitiedostoja asentaessa ilmeni ongelma. Yritä uudelleen.
 translations-manage-error-download = Kielitiedostoja ladattaessa ilmeni ongelma. Yritä uudelleen.
 translations-manage-error-delete = Kielitiedostoja poistettaessa tapahtui virhe. Yritä uudelleen.
 translations-manage-intro = Aseta kieli- ja sivustokäännösasetukset ja hallitse yhteydettömän tilan käännöksiä varten asennettuja kieliä.
@@ -135,12 +141,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Asenna kaikki
     .accesskey = A
-translations-manage-language-remove-button =
-    .label = Poista
-translations-manage-language-remove-all-button =
-    .label = Poista kaikki
-    .accesskey = P
-translations-manage-error-install = Kielitiedostoja asentaessa ilmeni ongelma. Yritä uudelleen.
 translations-manage-error-remove = Kielitiedostoja poistaessa tapahtui virhe. Yritä uudelleen.
 translations-manage-error-list = Käännettävissä olevien kielten listan nouto epäonnistui. Päivitä sivu yrittääksesi uudelleen.
 translations-settings-title =
@@ -170,3 +170,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Sulje
     .buttonaccesskeyaccept = u
+select-translations-panel-cancel-button =
+    .label = Peruuta
+select-translations-panel-translate-button =
+    .label = Käännä
+select-translations-panel-try-again-button =
+    .label = Yritä uudelleen
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Käännettäessä ilmeni ongelma. Yritä uudelleen.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Kieltä { $language } ei valitettavasti tueta vielä.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Tätä kieltä ei valitettavasti tueta vielä.
