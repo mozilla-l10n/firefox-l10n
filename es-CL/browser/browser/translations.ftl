@@ -126,13 +126,6 @@ translations-manage-description = Descargar idiomas para traducción sin conexi�
 translations-manage-all-language = Todos los idiomas
 translations-manage-download-button = Bajar
 translations-manage-delete-button = Borrar
-translations-manage-intro = Establece tus preferencias de idioma y traducción del sitio y administra los idiomas instalados para la traducción sin conexión.
-translations-manage-install-description = Instalar idiomas para la traducción sin conexión
-translations-manage-language-install-button =
-    .label = Instalar
-translations-manage-language-install-all-button =
-    .label = instalar todos
-    .accesskey = I
 translations-manage-intro-2 = Establece tus preferencias de idioma y traducción del sitio y administra los idiomas descargados para la traducción sin conexión.
 translations-manage-download-description = Descargar idiomas para traducción sin conexión
 translations-manage-language-download-button =
@@ -148,6 +141,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Hubo un problema al instalar los archivos de idioma. Por favor, vuelve a intentarlo.
 translations-manage-error-download = Hubo un problema al descargar los archivos de idioma. Por favor, vuelve a intentarlo.
 translations-manage-error-delete = Hubo un error al borrar los archivos de idioma. Por favor, vuelve a intentarlo.
+translations-manage-intro = Establece tus preferencias de idioma y traducción del sitio y administra los idiomas instalados para la traducción sin conexión.
+translations-manage-install-description = Instalar idiomas para la traducción sin conexión
+translations-manage-language-install-button =
+    .label = Instalar
+translations-manage-language-install-all-button =
+    .label = instalar todos
+    .accesskey = I
 translations-manage-error-remove = Hubo un error al eliminar los archivos de idioma. Por favor, vuelve a intentarlo.
 translations-manage-error-list = No se pudo obtener la lista de idiomas disponibles para la traducción. Actualiza la página para volver a intentarlo.
 translations-settings-title =
@@ -177,3 +177,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Cerrar
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = Cancelar
+select-translations-panel-translate-button =
+    .label = Traducir
+select-translations-panel-try-again-button =
+    .label = Volver a intentarlo
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Hubo un problema al traducir. Por favor, vuelve a intentarlo.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Lo sentimos, todavía no admitimos { $language }.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Lo sentimos, todavía no admitimos este idioma.
