@@ -181,7 +181,7 @@ translations-settings-close-dialog =
 # selected text to a yet-to-be-determined language.
 main-context-menu-translate-selection =
     .label = Þýða valið…
-    .accesskey = { "" }
+    .accesskey = l
 # Text displayed in the right-click context menu for translating
 # selected text to a target language.
 #
