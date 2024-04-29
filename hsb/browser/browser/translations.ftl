@@ -126,6 +126,13 @@ translations-manage-description = Rěče za přełožowanje offline sćahnyć.
 translations-manage-all-language = Wšě rěče
 translations-manage-download-button = Sćahnyć
 translations-manage-delete-button = Zhašeć
+translations-manage-intro = Postajće swoje nastajenja za rěč a přełožowanje sydłow a rjadujće rěče, kotrež su za přełožowanje offline instalowane.
+translations-manage-install-description = Rěče za přełožowanje offline instalować
+translations-manage-language-install-button =
+    .label = Instalować
+translations-manage-language-install-all-button =
+    .label = Wšě instalować
+    .accesskey = i
 translations-manage-intro-2 = Postajće swoje nastajenja za rěč a přełožowanje sydłow a rjadujće rěče, kotrež su za přełožowanje offline sćehnjene.
 translations-manage-download-description = Rěče za přełožowanje offline sćahnyć
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Při instalowanju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-download = Při sćahowanju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-delete = Při zhašenju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
-translations-manage-intro = Postajće swoje nastajenja za rěč a přełožowanje sydłow a rjadujće rěče, kotrež su za přełožowanje offline instalowane.
-translations-manage-install-description = Rěče za přełožowanje offline instalować
-translations-manage-language-install-button =
-    .label = Instalować
-translations-manage-language-install-all-button =
-    .label = Wšě instalować
-    .accesskey = i
 translations-manage-error-remove = Při wotstronjenju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-list = Lisćina k dispoziciji stejacych rěčow za přełožowanje njeda so wotwołać. Aktualizujće stronu a spytajće hišće raz.
 translations-settings-title =
@@ -177,12 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Začinić
     .buttonaccesskeyaccept = Z
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Wuběr přełožować…
+    .accesskey = b
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Wuběr do rěče { $language } přełožować
+    .accesskey = b
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Wotkazowy tekst přełožować…
+    .accesskey = k
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Wotkazowy tekst do rěče { $language } přełožować
+    .accesskey = k
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Přełožk
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Z
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Do
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Druhu žórłowu rěč wupruwować
 select-translations-panel-cancel-button =
     .label = Přetorhnyć
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopěrować
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Kopěrowany
+select-translations-panel-done-button =
+    .label = Dokónčeny
+select-translations-panel-translate-full-page-button =
+    .label = Dospołnu stronu přełožować
 select-translations-panel-translate-button =
     .label = Přełožić
 select-translations-panel-try-again-button =
     .label = Hišće raz spytać
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Přełoženy tekst so tu zjewi.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Přełožuje so…
+select-translations-panel-init-failure-message =
+    .message = Rěče njedadźa so začitać. Přepruwujće swój internetny zwisk a spytajće hišće raz.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Při přełožowanju je problem nastał. Prošu spytajće hišće raz.
@@ -196,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Bohužel { $language } hišće njepodpěrujemy.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Bohužel tutu rěč hišće njepodpěrujemy.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Přełožowanske nastajenja
