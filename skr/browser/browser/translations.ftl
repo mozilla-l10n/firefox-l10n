@@ -126,13 +126,6 @@ translations-manage-description = آف لائن ترجمے کیتے زناناں
 translations-manage-all-language = ساریاں زباناں
 translations-manage-download-button = ڈاؤن لوڈ
 translations-manage-delete-button = مٹاؤ
-translations-manage-intro = آپݨی ٻولی اَتے سائٹ دے ترجمے دیاں ترجیحاں مرتب کرو اَتے آف لائن ترجمہ کِیتے انسٹال کردہ ٻولیاں دا نظم کرو۔
-translations-manage-install-description = آف لائن ترجمے کیتے زناناں انسٹال کرو
-translations-manage-language-install-button =
-    .label = انسٹال کرو
-translations-manage-language-install-all-button =
-    .label = سارے انسٹال کرو
-    .accesskey = I
 translations-manage-language-download-button =
     .label = ڈاؤن لوڈ
 translations-manage-language-remove-button =
@@ -143,6 +136,13 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = زبان فائلاں انسٹال کرݨ وچ ہک مسئلہ ہائی۔ سوہݨا، ولدا کوشش کرو۔
 translations-manage-error-download = زبان فائلاں ڈاؤن لوڈ کرݨ وچ ہک مسئلہ ہائی۔ سوہݨا، ولدا کوشش کرو۔
 translations-manage-error-delete = زبان فائلاں مٹاوݨ وچ ہک خرابی ہائی۔ سوہݨا، ولدا کوشش کرو۔
+translations-manage-intro = آپݨی ٻولی اَتے سائٹ دے ترجمے دیاں ترجیحاں مرتب کرو اَتے آف لائن ترجمہ کِیتے انسٹال کردہ ٻولیاں دا نظم کرو۔
+translations-manage-install-description = آف لائن ترجمے کیتے زناناں انسٹال کرو
+translations-manage-language-install-button =
+    .label = انسٹال کرو
+translations-manage-language-install-all-button =
+    .label = سارے انسٹال کرو
+    .accesskey = I
 translations-manage-error-remove = زبان فائلاں ہٹاوݨ وچ ہک خرابی ہائی۔ سوہݨا، ولدا کوشش کرو۔
 translations-manage-error-list = ترجمہ کِیتے دستیاب ٻولیاں دی تن٘دِیر حاصل کرݨ وِچ ناکام۔ وَلا کوشِش کرݨ کِیتے پَنّا وَلا تازہ کرو۔
 translations-settings-title =
@@ -172,3 +172,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = بند کرو
     .buttonaccesskeyaccept = C
+select-translations-panel-cancel-button =
+    .label = منسوخ
+select-translations-panel-translate-button =
+    .label = ترجمہ کرو
+select-translations-panel-try-again-button =
+    .label = ولدا کوشش کرو
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = ترجمہ کرݨ وچ ہک مسئلہ ہائی۔ سوہݨا، ولدا کوشش کرو۔
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = افسوس، اساں اڄݨ { $language } کوں سہارا نسے ݙیندے۔
+select-translations-panel-unsupported-language-message-unknown =
+    .message = افسوس، اساں اڄݨ ایں زبان کوں سہارا نسے ݙیندے۔
