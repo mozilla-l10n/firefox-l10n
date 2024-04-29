@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = ନାମ ନକଲ କରନ୍ତୁ
 config-context-menu-copy-pref-value =
     .label = ମୂଲ୍ୟ ନକଲ କରନ୍ତୁ
+
