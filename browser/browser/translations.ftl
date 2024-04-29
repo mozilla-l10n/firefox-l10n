@@ -179,3 +179,13 @@ select-translations-panel-try-again-button =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Beim Übersetzen ist ein Problem aufgetreten. Bitte versuchen Sie es erneut.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Leider wird { $language } noch nicht unterstützt.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Leider wird diese Sprache noch nicht unterstützt.
