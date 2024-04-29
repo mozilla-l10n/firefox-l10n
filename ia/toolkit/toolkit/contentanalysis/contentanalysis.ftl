@@ -58,7 +58,15 @@ contentanalysis-invalid-agent-signature-message = Verification de firma pro { $a
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Un error occurreva communicante con { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-no-agent-connected-message-content = Impossibile connecter se a { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Verification de firma fallite pro { $agent }. { $content }
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Cargamento de “{ $filename }” refusate.
