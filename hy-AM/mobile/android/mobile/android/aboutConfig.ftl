@@ -26,3 +26,4 @@ config-context-menu-copy-pref-name =
     .label = Պատճենել անունը
 config-context-menu-copy-pref-value =
     .label = Պատճենել արժեքը
+
