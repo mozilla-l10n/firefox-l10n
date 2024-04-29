@@ -122,3 +122,5 @@ about-reader-text-alignment-left =
     .title = Jafna texta til vinstri
 about-reader-text-alignment-center =
     .title = Jafna texta á miðju
+about-reader-text-alignment-right =
+    .title = Jafna texta til hægri
