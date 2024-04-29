@@ -168,3 +168,16 @@ select-translations-panel-translate-button =
     .label = Treiñ
 select-translations-panel-try-again-button =
     .label = Klask en-dro
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Ur gudenn zo bet en ur dreiñ. Klaskit adarre mar plij.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Hon digarezit, n’eo ket skoret ar yezh "{ $language }" c’hoazh.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Digarezit, n’eo ket skoret ar yezh-se c’hoazh.
