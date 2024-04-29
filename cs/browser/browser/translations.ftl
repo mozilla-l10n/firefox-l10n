@@ -142,6 +142,12 @@ translations-manage-description = Stažení jazyků pro offline překlad.
 translations-manage-all-language = Všechny jazyky
 translations-manage-download-button = Stáhnout
 translations-manage-delete-button = Smazat
+translations-manage-language-remove-button =
+    .label = Odebrat
+translations-manage-language-remove-all-button =
+    .label = Odebrat vše
+    .accesskey = O
+translations-manage-error-install = Při instalaci jazykových souborů došlo k chybě. Prosím zkuste to znovu.
 translations-manage-error-download = Při stahování jazykových souborů se vyskytl problém. Zkuste to prosím znovu.
 translations-manage-error-delete = Při odstraňování jazykových souborů se vyskytl problém. Zkuste to prosím znovu.
 translations-manage-intro = Nastavte předvolby jazyka a překladu webu a spravujte jazyky nainstalované pro překlad offline.
@@ -151,12 +157,6 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Nainstalovat vše
     .accesskey = N
-translations-manage-language-remove-button =
-    .label = Odebrat
-translations-manage-language-remove-all-button =
-    .label = Odebrat vše
-    .accesskey = O
-translations-manage-error-install = Při instalaci jazykových souborů došlo k chybě. Prosím zkuste to znovu.
 translations-manage-error-remove = Při odstraňování jazykových souborů došlo k chybě. Prosím zkuste to znovu.
 translations-manage-error-list = Nepodařilo se získat seznam dostupných jazyků pro překlad. Obnovte stránku a zkuste to znovu.
 translations-settings-title =
@@ -186,3 +186,22 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Zavřít
     .buttonaccesskeyaccept = Z
+select-translations-panel-cancel-button =
+    .label = Zrušit
+select-translations-panel-translate-button =
+    .label = Přeložit
+select-translations-panel-try-again-button =
+    .label = Zkusit znovu
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Při překladu došlo k chybě. Zkuste to prosím znovu.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Omlouváme se, ale jazyk { $language } zatím není podporován.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Omlouváme se, ale tento jazyk zatím není podporován.
