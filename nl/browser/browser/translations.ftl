@@ -243,7 +243,7 @@ select-translations-panel-translation-failure-message =
 # Variables:
 #   $language (string) - The language of the document.
 select-translations-panel-unsupported-language-message-known =
-    .message = Sorry, we ondersteunen het { $language } nog niet.
+    .message = Sorry, we ondersteunen nog geen { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Sorry, we ondersteunen deze taal nog niet.
 # Text displayed on the menuitem that opens the Translation Settings page.

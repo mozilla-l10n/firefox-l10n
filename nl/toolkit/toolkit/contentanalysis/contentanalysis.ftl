@@ -70,7 +70,7 @@ contentanalysis-invalid-agent-signature-message-content = Ondertekeningsverifica
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Upload van ‘{ $filename }’ geweigerd.
-contentanalysis-error-message-dropped-text = Slepen en neerzetten geweigerd.
+contentanalysis-error-message-dropped-text = Verslepen geweigerd.
 contentanalysis-error-message-clipboard = Plakken geweigerd.
 contentanalysis-error-message-print = Afdrukken geweigerd.
 contentanalysis-block-dialog-title-upload-file = U mag dit bestand niet uploaden
