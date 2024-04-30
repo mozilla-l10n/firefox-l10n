@@ -26,6 +26,14 @@ about-reader-color-theme-contrast = امتزاج
     .title = رنگ تھیم امتزاج
 about-reader-color-theme-custom = آپݨی مرضی دے رنگ
     .title = رنگین تھیم آپݨی مرضی دے مطابق
+about-reader-color-light-theme = پھکا
+    .title = پھکا تھیم
+about-reader-color-dark-theme = شوخ
+    .title = شوخ تھیم
+about-reader-color-sepia-theme = سیپیا
+    .title = سیپیا تھیم
+about-reader-color-auto-theme = آٹو
+    .title = آٹو تھیم
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -85,3 +93,6 @@ about-reader-custom-colors-visited-links = ملاحظہ کیتے ڳئے لنکس
 about-reader-custom-colors-selection-highlight = اُچّی اَواز نال پڑھݨ کِیتے ہائی لائٹر
     .title = رنگ وِچ ترمیم کرو
 about-reader-custom-colors-reset-button = طے شدہ ولا تازے کرو
+
+## Reader View improved text and layout menu
+
