@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = No sé puede conectar con { $agent 
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Falló la verificación de firma para { $agent }. Transferencia denegada para el recurso: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Ocurrió un error al comunicarse con { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = No se puede conectar a { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Falló la verificación de firma para { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Carga de  “{ $filename }” denegada.
+contentanalysis-error-message-dropped-text = Arrastrar y soltar denegado.
+contentanalysis-error-message-clipboard = Pegar denegado.
+contentanalysis-error-message-print = Impresión denegada.
 contentanalysis-block-dialog-title-upload-file = No tiene permiso para subir este archivo
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

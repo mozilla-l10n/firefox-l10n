@@ -74,6 +74,7 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Salir de vista de lectura
 about-reader-toolbar-type-controls = Controles de tipo
 about-reader-toolbar-color-controls = Colores
+about-reader-toolbar-text-layout-controls = Texto y distribución
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Guardar en { -pocket-brand-name }
 
@@ -101,6 +102,7 @@ about-reader-custom-colors-reset-button = Restablecer predeterminados
 
 ## Reader View improved text and layout menu
 
+about-reader-layout-header = Distribución
 about-reader-advanced-layout-header = Avanzadas
 about-reader-slider-label-width-narrow = Angosto
 about-reader-slider-label-width-wide = Ancho
