@@ -246,6 +246,7 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Sifeḍ inekcam d wawalen uffiren
 about-logins-confirm-export-dialog-message = Awalen-inek uffiren ad ttwaskelsen am uḍris ara d-ibanen i tɣuri (d amedya, BadP@ssw0rd) akken yal amdan ara yeldin afaylu i yettusifḍen ad yizmir ad t-iwali.
 about-logins-confirm-export-dialog-confirm-button = Kter…
+about-logins-confirm-export-dialog-confirm-button2 = Kemmel asifeḍ
 about-logins-alert-import-title = Aktar yemmed
 about-logins-alert-import-message = Sken agzul leqqayen n uktar
 confirm-discard-changes-dialog-title = Sefsex isenfal-agi?
@@ -287,6 +288,8 @@ about-logins-export-file-picker-title = Afaylu n usifeḍ n yinekcam
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = logins.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Sifeḍ awalen n uεeddi seg { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename2 = passwords.csv
@@ -303,6 +306,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Afaylu n ukter n yinekcam
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Kter awalen n uεeddi ɣer { -brand-short-name }
 about-logins-import-file-picker-import-button = Kter
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -335,6 +340,16 @@ about-logins-import-dialog-items-modified =
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Ttwafen inekcumen yellan sin iberdan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+    }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Yettwarna wawal n uεeddi amaynut:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ttwarnan wawalen n uεeddi imaynuten:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Yettwaleqqem unekcum i yellan:</span> <span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Ttuleqqmen inekcumen i yellan:</span> <span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
