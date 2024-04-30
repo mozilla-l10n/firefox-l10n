@@ -917,7 +917,15 @@ data-reporting-notification-button =
     .accesskey = C
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Kundaha ñemigua
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Mba’éicha emboykéta mba’ekuaarã ñehundi (DLP) { $agentName } rupi. Eikutu ápe eikuaave hag̃ua.
 content-analysis-panel-title = Mba’ekuaarã ñemo’ã
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Nde atyguasu oiporu { $agentName } oñemo’ã hag̃ua mba’ekuaarã ñehundígui. <a data-l10n-name="info">Eikuaave</a>
 
 ## Unified extensions (toolbar) button
 
