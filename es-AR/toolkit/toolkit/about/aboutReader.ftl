@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Contraste
     .title = Tema con contraste
 about-reader-color-theme-custom = Colores personalizados
     .title = Tema con colores personalizados
+about-reader-color-light-theme = Claro
+    .title = Tema claro
+about-reader-color-dark-theme = Oscuro
+    .title = Tema oscuro
+about-reader-color-sepia-theme = Sepia
+    .title = Tema sepia
+about-reader-color-auto-theme = Auto
+    .title = Tema automático
+about-reader-color-gray-theme = Gris
+    .title = Tema automático
+about-reader-color-contrast-theme = Contraste
+    .title = Tema con contraste
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,7 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Salir de vista de lectura
 about-reader-toolbar-type-controls = Controles de tipo
 about-reader-toolbar-color-controls = Colores
+about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Guardar en { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -88,6 +101,12 @@ about-reader-custom-colors-reset-button = Restablecer predeterminados
 
 ## Reader View improved text and layout menu
 
+about-reader-advanced-layout-header = Avanzadas
+about-reader-slider-label-width-narrow = Angosto
+about-reader-slider-label-width-wide = Ancho
+about-reader-slider-label-spacing-narrow = Angosto
+about-reader-slider-label-spacing-standard = Estándar
+about-reader-slider-label-spacing-wide = Ancho
 about-reader-content-width-label =
     .label = Ancho del contenido
 about-reader-line-spacing-label =
@@ -97,3 +116,9 @@ about-reader-character-spacing-label =
 about-reader-word-spacing-label =
     .label = Espaciado entre palabras
 about-reader-text-alignment-label = Alineación de texto
+about-reader-text-alignment-left =
+    .title = Alinear texto a la izquierda
+about-reader-text-alignment-center =
+    .title = Alinear texto centrado
+about-reader-text-alignment-right =
+    .title = Alinear texto a la derecha
