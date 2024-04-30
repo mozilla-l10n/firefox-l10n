@@ -85,3 +85,15 @@ about-reader-custom-colors-visited-links = Enlaces visitados
 about-reader-custom-colors-selection-highlight = Resaltador para leer en voz alta
     .title = Editar color
 about-reader-custom-colors-reset-button = Restablecer predeterminados
+
+## Reader View improved text and layout menu
+
+about-reader-content-width-label =
+    .label = Ancho del contenido
+about-reader-line-spacing-label =
+    .label = Espaciado de líneas
+about-reader-character-spacing-label =
+    .label = Espaciado entre caracteres
+about-reader-word-spacing-label =
+    .label = Espaciado entre palabras
+about-reader-text-alignment-label = Alineación de texto
