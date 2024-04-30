@@ -231,6 +231,8 @@ select-translations-panel-try-again-button =
 select-translations-panel-idle-placeholder-text = El texto traducido aparecerá acá.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Traduciendo…
+select-translations-panel-init-failure-message =
+    .message = No se pudieron cargar los idiomas. Verifique la conexión a Internet y pruebe de nuevo.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Hubo un problema al traducir. Intente nuevamente.
@@ -244,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Lo sentimos, { $language } todavía no está soportado.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Lo sentimos, este idioma todavía no está soportado.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Configuración de traducción
