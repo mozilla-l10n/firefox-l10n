@@ -205,6 +205,8 @@ main-context-menu-translate-link-text-to-language =
     .accesskey = n
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Ñemoñe’ẽasa
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Mba’éva
 # Text displayed above the to-language dropdown menu.
 select-translations-panel-to-label = G̃uarã
 # Text displayed above the try-another-source-language dropdown menu.
@@ -225,6 +227,8 @@ select-translations-panel-translate-button =
     .label = Ñe’ẽasa
 select-translations-panel-try-again-button =
     .label = Eha’ãjey
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Moñe’ẽrã moñe’ẽasapyre osẽta ápe.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Oñemoñe’ẽasa…
 select-translations-panel-init-failure-message =
