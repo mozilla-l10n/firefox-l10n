@@ -70,7 +70,7 @@ connection-proxy-autologin-checkbox =
     .accesskey = i
     .tooltiptext = Bu seçenek, hesap bilgilerini kaydettiğiniz vekil sunucularda kimliğinizi sessizce doğrular. Kimlik doğrulama başarısız olursa bilgileriniz sorulur.
 connection-proxy-socks-remote-dns =
-    .label = SOCKS v5 kullanırken vekil sunucu DNS’i
+    .label = SOCKS v5 kullanırken vekil sunucu DNS’ini kullan
     .accesskey = d
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider

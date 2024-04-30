@@ -6,15 +6,14 @@ protocolhandler-mailto-os-handler-notificationbox = E-posta bağlantılarını a
 protocolhandler-mailto-os-handler-yes-confirm = E-posta bağlantılarını açmak için artık varsayılan uygulamanız { -brand-short-name }.
 protocolhandler-mailto-os-handler-yes-button = Varsayılan yap
 protocolhandler-mailto-os-handler-no-button = Şimdi değil
-# Variables:
-#  $url (String): The url of a webmailer, but only its full domain name.
-protocolhandler-mailto-handler-notificationbox = E-posta bağlantıları { $url } ile açılsın mı?
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-notificationbox-always = E-posta bağlantıları her zaman { $url } ile açılsın mı?
 protocolhandler-mailto-handler-yes-confirm = E-posta bağlantılarını açmak için varsayılan siteniz artık { $url }.
+protocolhandler-mailto-handler-set-message = E-postanızı açan bağlantılara her tıkladığınızda <strong>{ -brand-short-name } tarayıcınızda { $url }</strong> açılsın mı?
+protocolhandler-mailto-handler-set = E-postanızı açan bağlantılara her tıkladığınızda <strong>{ $url } sitesini açmak için { -brand-short-name }</strong> kullanılsın mı?
 
 ##
 
