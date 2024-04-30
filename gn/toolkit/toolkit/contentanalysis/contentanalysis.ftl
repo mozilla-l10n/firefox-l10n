@@ -70,6 +70,7 @@ contentanalysis-error-message-upload-file = “{ $filename }” myanyhẽ noñem
 contentanalysis-error-message-dropped-text = Embosyryry ha epoi mbotovepyre
 contentanalysis-error-message-clipboard = Emboja mbotovepyre
 contentanalysis-error-message-print = Monguatia mbotovepyre.
+contentanalysis-block-dialog-title-upload-file = Noñemoneĩri ndéve ehupikuaa hag̃uáicha
 contentanalysis-block-dialog-title-dropped-text = Noñemoĩri ndéve epoikuaa hag̃ua ko tetepy
 contentanalysis-block-dialog-title-print = Noñemoĩri ndéve omonguatiávo ko kuatia
 contentanalysis-inprogress-quit-title = ¿Esẽ { -brand-shorter-name }-gui?
