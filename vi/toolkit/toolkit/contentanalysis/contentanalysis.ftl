@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = Không thể kết nối tới { $a
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Xác minh chữ ký không thành công cho { $agent }. Truyền dữ liệu bị từ chối cho tài nguyên: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Đã xảy ra lỗi khi giao tiếp với { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Không thể kết nối đến { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Xác minh chữ ký không thành công cho { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Tải lên “{ $filename }” bị từ chối.
+contentanalysis-error-message-dropped-text = Kéo và thả bị từ chối.
+contentanalysis-error-message-clipboard = Dán bị từ chối.
+contentanalysis-error-message-print = In bị từ chối.
 contentanalysis-block-dialog-title-upload-file = Bạn không được phép tải lên tập tin này
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
