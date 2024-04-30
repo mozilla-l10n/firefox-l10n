@@ -274,3 +274,19 @@ newtab-custom-recent-toggle =
     .description = Ina selecziun da websites e cuntegn visità dacurt
 newtab-custom-close-button = Serrar
 newtab-custom-settings = Administrar ulteriurs parameters
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Maletgs dal fund davos
+newtab-wallpaper-reset = Restaurar il standard
+newtab-wallpaper-light-red-panda = Panda cotschen
+newtab-wallpaper-light-mountain = Muntogna alva
+newtab-wallpaper-light-sky = Tschiel cun nivels violets e rosas
+newtab-wallpaper-light-color = Furmas blauas, rosas e melnas
+newtab-wallpaper-light-landscape = Cuntrada da muntognas en tschajera blaua
+newtab-wallpaper-light-beach = Splagia cun palma
+newtab-wallpaper-dark-aurora = Glisch polara
+newtab-wallpaper-dark-color = Furmas cotschnas e blauas
+newtab-wallpaper-dark-panda = Panda cotschen zuppà en il guaud
+newtab-wallpaper-dark-sky = Cuntrada da citad cun tschiel nocturn
+newtab-wallpaper-dark-mountain = Cuntrada da muntognas

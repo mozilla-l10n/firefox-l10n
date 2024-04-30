@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Va per sveltezza, segirezza e sfera privata
 default-browser-prompt-button-primary-alt = Definir sco navigatur da standard
 default-browser-prompt-checkbox-not-again-label = Betg pli mussar quest messadi
 default-browser-prompt-button-secondary = Betg ussa
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Finir da definir { -brand-short-name } sco standard
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Pass 1: Ir als parameters > Apps predefinidas
+    Pass 2: Defilar fin als navigaturs
+    Pass 3: Selecziunar e tscherner { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Pass 1: Ir als parameters > Apps predefinidas
+    Pass 2: Tscherner «Definir sco standard» per { -brand-short-name }
+default-browser-guidance-notification-info-page = Ma mussar
+default-browser-guidance-notification-dismiss = Finì

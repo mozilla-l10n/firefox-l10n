@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sincronisescha tes segnapaginas dapertut.
 cfr-doorhanger-bookmark-fxa-body = Ina buna scuverta! Fa ussa la segira che ti chattas quest segnapagina era sin tes apparats mobils. Creescha in { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Ina buna scuverta! Fa ussa la segira che ti chattas quest segnapagina era sin tes apparats mobils. Creescha in conto.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronisar ussa ils segnapaginas…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Buttun per serrar
@@ -204,8 +205,6 @@ cfr-cbh-confirm-button = Refusar las bandieras da cookies
     .accesskey = R
 cfr-cbh-dismiss-button = Betg ussa
     .accesskey = B
-cookie-banner-blocker-cfr-header = { -brand-short-name } ha gist bloccà cookies per tai
-cookie-banner-blocker-cfr-body = Nus refusain automaticamain blers pop-ups da cookies per render difficil a websites da ta fastizar.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ha gist refusà ina bandiera da cookie per tai
 cookie-banner-blocker-onboarding-body = Damain distracziun, damain cookies che ta fastizeschan sin questa website.
 cookie-banner-blocker-onboarding-learn-more = Ulteriuras infurmaziuns
