@@ -200,6 +200,7 @@ shopping-callout-not-opted-in-reminder-ignore-checkbox = Bir daha gösterme
 shopping-callout-not-opted-in-reminder-img-alt =
     .aria-label = Üç ürün incelemesinin soyut çizimi. Ürünlerin birinde güvenilir olmayabileceğini belirten bir uyarı simgesi var.
 shopping-callout-disabled-auto-open-title = Değerlendirme kontrolcüsü artık varsayılan olarak kapalı
+shopping-callout-disabled-auto-open-subtitle = Bir ürünün değerlendirmelerine güvenip güvenemeyeceğinizi görmek için  adres çubuğundaki fiyat etiketi simgesine tıklayabilirsiniz.
 shopping-callout-disabled-auto-open-button = Anladım
 shopping-callout-opted-out-title = Değerlendirme kontrolcüsü kapalı
 shopping-callout-opted-out-subtitle = Tekrar açmak isterseniz adres çubuğundaki fiyat simgesine tıklayıp yönergeleri izleyin.
