@@ -48,6 +48,28 @@ contentanalysis-unspecified-error-message = Oiko jajavy ehakuévo { $agent } ndi
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-no-agent-connected-message = Ndaikatúi eike { $agent } ndive. Noñemoneĩri ñembohasa porupyrã: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Ndoikói mboheraguapy rechajey { $agent }-pe g̃uarã. Noñemoneĩri ñembohasa porupyrã: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Oiko jajavy ehaikuévo { $agent } ndive. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Ndaikatúi eike { $agent } ndive. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Ndoikói ñemboheraguapy rechajey { $agent }-pe g̃uarã. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = “{ $filename }” myanyhẽ noñemoneĩri.
+contentanalysis-error-message-dropped-text = Embosyryry ha epoi mbotovepyre
+contentanalysis-error-message-clipboard = Emboja mbotovepyre
+contentanalysis-error-message-print = Monguatia mbotovepyre.
 contentanalysis-block-dialog-title-dropped-text = Noñemoĩri ndéve epoikuaa hag̃ua ko tetepy
 contentanalysis-block-dialog-title-print = Noñemoĩri ndéve omonguatiávo ko kuatia
 contentanalysis-inprogress-quit-title = ¿Esẽ { -brand-shorter-name }-gui?
