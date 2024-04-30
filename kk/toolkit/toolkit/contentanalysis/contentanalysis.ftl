@@ -55,6 +55,9 @@ contentanalysis-no-agent-connected-message = { $agent } агентімен ба�
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = { $agent } агенті үшін қолтаңбаны растау сәтсіз аяқталды. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
+contentanalysis-error-message-dropped-text = Ұстап апарып тастауға тыйым салынған.
+contentanalysis-error-message-clipboard = Кірістіруге тыйым салынған.
+contentanalysis-error-message-print = Баспаға шығаруға тыйым салынған.
 contentanalysis-block-dialog-title-upload-file = Бұл файлды жүктеп жіберуге рұқсатыңыз жоқ
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
