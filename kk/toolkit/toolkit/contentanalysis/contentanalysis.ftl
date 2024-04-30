@@ -55,6 +55,21 @@ contentanalysis-no-agent-connected-message = { $agent } агентімен ба�
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = { $agent } агенті үшін қолтаңбаны растау сәтсіз аяқталды. Ресурс үшін тасымалдауға тыйым салынды: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = { $agent } агентімен байланысу кезінде қате орын алды. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = { $agent } агентімен байланысу мүмкін емес. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = { $agent } агенті үшін қолтаңбаны тексеру сәтсіз аяқталды. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = "{ $filename }" файлын жүктеп жіберуге тыйымн салынған.
 contentanalysis-error-message-dropped-text = Ұстап апарып тастауға тыйым салынған.
 contentanalysis-error-message-clipboard = Кірістіруге тыйым салынған.
 contentanalysis-error-message-print = Баспаға шығаруға тыйым салынған.
