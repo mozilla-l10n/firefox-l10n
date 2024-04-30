@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Tương phản
     .title = Chủ đề tương phản
 about-reader-color-theme-custom = Màu tùy chỉnh
     .title = Chủ đề màu theo tùy chỉnh
+about-reader-color-light-theme = Sáng
+    .title = Chủ đề sáng
+about-reader-color-dark-theme = Tối
+    .title = Chủ đề tối
+about-reader-color-sepia-theme = Nâu đỏ
+    .title = Chủ đề màu nâu đỏ
+about-reader-color-auto-theme = Tự động
+    .title = Chủ đề tự động
+about-reader-color-gray-theme = Xám
+    .title = Chủ đề xám
+about-reader-color-contrast-theme = Tương phản
+    .title = Chủ đề tương phản
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -58,6 +70,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Đóng chế độ đọc sách
 about-reader-toolbar-type-controls = Kiểu hiển thị
 about-reader-toolbar-color-controls = Màu sắc
+about-reader-toolbar-text-layout-controls = Văn bản và bố cục
+about-reader-toolbar-theme-controls = Chủ đề
 about-reader-toolbar-savetopocket = Lưu vào { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -81,3 +95,28 @@ about-reader-custom-colors-visited-links = Liên kết đã truy cập
 about-reader-custom-colors-selection-highlight = Công cụ đánh dấu để đọc to
     .title = Chỉnh sửa màu
 about-reader-custom-colors-reset-button = Khôi phục về mặc định
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Bố cục
+about-reader-advanced-layout-header = Nâng cao
+about-reader-slider-label-width-narrow = Hẹp
+about-reader-slider-label-width-wide = Rộng
+about-reader-slider-label-spacing-narrow = Hẹp
+about-reader-slider-label-spacing-standard = Tiêu chuẩn
+about-reader-slider-label-spacing-wide = Rộng
+about-reader-content-width-label =
+    .label = Chiều rộng nội dung
+about-reader-line-spacing-label =
+    .label = Khoảng cách dòng
+about-reader-character-spacing-label =
+    .label = Khoảng cách kí tự
+about-reader-word-spacing-label =
+    .label = Khoảng cách từ
+about-reader-text-alignment-label = Căn chỉnh văn bản
+about-reader-text-alignment-left =
+    .title = Căn chỉnh văn bản sang trái
+about-reader-text-alignment-center =
+    .title = Căn chỉnh văn bản ở giữa
+about-reader-text-alignment-right =
+    .title = Căn chỉnh văn bản sang phải
