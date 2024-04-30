@@ -40,6 +40,14 @@ contentanalysis-block-message = Nde atyguasu oiporu software mba’ekuaarã ani 
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Oiko jajavy ehaívo pe software mba’ekuaarã mo’ãhápe. Noñemoneĩri ñembohasa porupyrã: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Oiko jajavy ehakuévo { $agent } ndive. Noñemoneĩri ñembohasa porupyrã: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Ndaikatúi eike { $agent } ndive. Noñemoneĩri ñembohasa porupyrã: { $content }.
 contentanalysis-block-dialog-title-dropped-text = Noñemoĩri ndéve epoikuaa hag̃ua ko tetepy
 contentanalysis-block-dialog-title-print = Noñemoĩri ndéve omonguatiávo ko kuatia
 contentanalysis-inprogress-quit-title = ¿Esẽ { -brand-shorter-name }-gui?
