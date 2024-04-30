@@ -53,6 +53,8 @@ mr1-onboarding-import-primary-button-label-attribution = Importo prej { $previou
 mr1-onboarding-theme-header = Bëjeni tuajin
 mr1-onboarding-theme-subtitle = Personalizojeni { -brand-short-name }-in me një temë.
 mr1-onboarding-theme-secondary-button-label = Jo tani
+newtab-wallpaper-onboarding-title = Shtoni pakëz ngjyrë
+newtab-wallpaper-onboarding-primary-button-label = Caktoni sfond
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Temë sistemi
 mr1-onboarding-theme-label-light = E çelët

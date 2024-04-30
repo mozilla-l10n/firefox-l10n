@@ -602,6 +602,12 @@ urlbar-result-action-copy-to-clipboard = Kopjoje
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## Strings used for buttons in the urlbar
+
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = Kërko me { $engine }
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -908,6 +914,7 @@ data-reporting-notification-button =
     .accesskey = Z
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Shfletim privat
+content-analysis-panel-title = Mbrojtje të dhënash
 
 ## Unified extensions (toolbar) button
 

@@ -270,3 +270,14 @@ newtab-custom-recent-toggle =
     .description = Një përzgjedhje sajtesh dhe lënde së fundi
 newtab-custom-close-button = Mbylle
 newtab-custom-settings = Administroni më tepër rregullime
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Sfonde
+newtab-wallpaper-reset = Riktheje te parazgjedhjet
+newtab-wallpaper-light-red-panda = Panda e kuqe
+newtab-wallpaper-light-mountain = Mal i bardhë
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto nga <a data-l10n-name="name-link">{ $author_string }</a> on <a data-l10n-name="webpage-link">{ $webpage_string }</a>
