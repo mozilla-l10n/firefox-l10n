@@ -408,3 +408,6 @@ pointing-device-none = Không có thiết bị điều khiển con trỏ
 # to external websites.
 content-analysis-title = Phân tích nội dung (DLP)
 content-analysis-active = Đang hoạt động
+content-analysis-connected-to-agent = Đã kết nối tới tác nhân
+content-analysis-agent-path = Đường dẫn tác nhân
+content-analysis-agent-failed-signature-verification = Xác minh chữ ký tác nhân không thành công
