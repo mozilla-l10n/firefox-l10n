@@ -152,4 +152,4 @@ tabbrowser-manager-mute-tab =
 tabbrowser-manager-unmute-tab =
     .tooltiptext = Hapjani zërin skedës
 tabbrowser-manager-close-tab =
-    .tooltiptext = Mbylle skedën
+    .tooltiptext = Mbylleni skedën
