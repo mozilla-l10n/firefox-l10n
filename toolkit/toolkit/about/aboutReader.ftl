@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Контрастты
     .title = Контрассты түстер схемасы
 about-reader-color-theme-custom = Таңдауыңызша түсті
     .title = Таңдауыңызша түсті түстер схемасы
+about-reader-color-light-theme = Ашық түсті
+    .title = Ашық түсті тема
+about-reader-color-dark-theme = Күңгірт түсті
+    .title = Күңгірт түсті тема
+about-reader-color-sepia-theme = Сепия
+    .title = Сепия темасы
+about-reader-color-auto-theme = Автоматты түрде
+    .title = Автоматты түрде тема
+about-reader-color-gray-theme = Сұр түсті
+    .title = Сұр түсті тема
+about-reader-color-contrast-theme = Контрастты
+    .title = Контрастты тема
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Оқу режимін жабу
 about-reader-toolbar-type-controls = Қаріптерді баптау
 about-reader-toolbar-color-controls = Түстер
+about-reader-toolbar-text-layout-controls = Мәтін және жайма
+about-reader-toolbar-theme-controls = Тема
 about-reader-toolbar-savetopocket = { -pocket-brand-name } ішіне сақтау
 
 ## Reader View colors menu
@@ -88,7 +102,25 @@ about-reader-custom-colors-reset-button = Бастапқы түріне қайт
 
 ## Reader View improved text and layout menu
 
+about-reader-layout-header = Жайма
+about-reader-advanced-layout-header = Кеңейтілген
+about-reader-slider-label-width-narrow = Тар
+about-reader-slider-label-width-wide = Кең
+about-reader-slider-label-spacing-narrow = Тар
+about-reader-slider-label-spacing-standard = Қалыпты
+about-reader-slider-label-spacing-wide = Кең
+about-reader-content-width-label =
+    .label = Құраманың ені
 about-reader-line-spacing-label =
     .label = Жол аралығы
 about-reader-character-spacing-label =
     .label = Таңбалар аралығы
+about-reader-word-spacing-label =
+    .label = Сөз аралығы
+about-reader-text-alignment-label = Мәтінді туралау
+about-reader-text-alignment-left =
+    .title = Мәтінді солға туралау
+about-reader-text-alignment-center =
+    .title = Мәтінді ортасымен туралау
+about-reader-text-alignment-right =
+    .title = Мәтінді оңға туралау
