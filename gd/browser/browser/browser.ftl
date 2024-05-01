@@ -5,13 +5,15 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
 #
 # default - "Mozilla Firefox"
 # private - "Mozilla Firefox (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
@@ -19,14 +21,17 @@ browser-main-window-window-titles =
     .data-title-private = Brabhsadh prìobhaideach { -brand-full-name }
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – Brabhsadh prìobhaideach { -brand-full-name }
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
 #
 # "default" - "Mozilla Firefox"
 # "private" - "Mozilla Firefox — (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
 #
 # Also note the other subtle difference here: we use a `-` to separate the
 # brand name from `(Private Browsing)`, which does not happen on other OSes.
@@ -594,6 +599,9 @@ urlbar-result-action-copy-to-clipboard = Dèan lethbhreac
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## Strings used for buttons in the urlbar
+
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -878,6 +886,9 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>A bheil thu airson tabaichean a bh’ agad roimhe ath-fhosgladh?</strong> ’S urrainn dhut tabaichean o sheann seisean aiseag o chlàr-taice aplacaid { -brand-short-name } <img data-l10n-name="icon"/>, fo “Eachdraidh”.
 restore-session-startup-suggestion-button = Seall dhomh mar a nì mi seo
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = Cuiridh { -brand-short-name } beagan dàta dha { -vendor-short-name } ach an urrainn dhuinn piseach a thoirt air.
@@ -908,6 +919,13 @@ unified-extensions-button-permissions-needed =
 
 ## Private browsing reset button
 
+reset-pbm-panel-cancel-button =
+    .label = Sguir dheth
+    .accesskey = S
+reset-pbm-panel-confirm-button =
+    .label = Sguab dàta an t-seisein às
+    .accesskey = S
+reset-pbm-panel-complete = Chaidh dàta an t-seisein phrìobhaidich a sguabadh às
 
 ## Autorefresh blocker
 
