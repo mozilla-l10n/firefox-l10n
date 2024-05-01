@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Pengoje shfletuesin të përditësohet.
 policy-DisableBuiltinPDFViewer = Çaktivizoni PDF.js, parësin e brendshëm të PDF-ve në { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Pengo agjent shfletuesi parazgjedhje të ndërmarrë ndonjë veprim. E zbatueshme vetëm për Windows; platformat e tjera s’e kanë agjentin.
 policy-DisableDeveloperTools = Bllokoni hyrje te mjetet për zhvillues.
+policy-DisableEncryptedClientHello = Çaktivizoni përdorimin e veçorisë “Encrypted Client Hello” (ECH) TLS.
 policy-DisableFeedbackCommands = Çaktivizoni te menuja Ndihmë urdhra për dërgim përshtypjesh (Parashtroni Përshtypje dhe  Raportoni Sajt të Rrejshëm).
 policy-DisableFirefoxAccounts = Çaktivizoni shërbime me bazë { -fxaccount-brand-name }, përfshi Sync-un.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Çaktivizo shërbime të bazuara në llogari, përfshi njëkohësimin.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Çaktivizoni veçorinë Foto Ekrani Firefox.
 policy-DisableFirefoxStudies = Pengojani { -brand-short-name }-it xhirimin e studimeve.
@@ -125,6 +128,7 @@ policy-SSLVersionMax = Caktoni version maksimum SSL-je.
 policy-SSLVersionMin = Caktoni version minimum SSL-je.
 policy-StartDownloadsInTempDirectory = Detyroji shkarkimet të nisin në një vendndodhje lokale të përkohshme, në vend se në drejtorinë parazgjedhje të shkarkimeve.
 policy-SupportMenu = Shtoni te menuja e ndihmës një element vetjak menuje asistence.
+policy-TranslateEnabled = Aktivizoni, ose çaktivizoni përkthim faqesh web.
 policy-UserMessaging = Mos i shfaq përdoruesit disa mesazhe të caktuara
 policy-UseSystemPrintDialog = Shtype duke përdorur dialogun e sistemit për shtypje.
 # “format” refers to the format used for the value of this policy.
