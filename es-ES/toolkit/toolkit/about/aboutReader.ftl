@@ -74,6 +74,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Cerrar vista de lectura
 about-reader-toolbar-type-controls = Controles de tipografía
 about-reader-toolbar-color-controls = Colores
+about-reader-toolbar-text-layout-controls = Texto y disposición
+about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Guardar en { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -100,3 +102,25 @@ about-reader-custom-colors-reset-button = Restablecer predeterminados
 
 ## Reader View improved text and layout menu
 
+about-reader-layout-header = Disposición
+about-reader-advanced-layout-header = Avanzado
+about-reader-slider-label-width-narrow = Estrecho
+about-reader-slider-label-width-wide = Ancho
+about-reader-slider-label-spacing-narrow = Estrecho
+about-reader-slider-label-spacing-standard = Estándar
+about-reader-slider-label-spacing-wide = Ancho
+about-reader-content-width-label =
+    .label = Anchura del contenido
+about-reader-line-spacing-label =
+    .label = Espaciado entre líneas
+about-reader-character-spacing-label =
+    .label = Espaciado entre caracteres
+about-reader-word-spacing-label =
+    .label = Espaciado entre palabras
+about-reader-text-alignment-label = Alineación de texto
+about-reader-text-alignment-left =
+    .title = Alinear texto a la izquierda
+about-reader-text-alignment-center =
+    .title = Alinear texto al centro
+about-reader-text-alignment-right =
+    .title = Alinear el texto a la derecha
