@@ -278,3 +278,4 @@ newtab-custom-settings = Weitere Einstellungen verwalten
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Hintergrundbilder
+newtab-wallpaper-reset = Standard wiederherstellen
