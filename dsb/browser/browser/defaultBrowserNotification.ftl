@@ -27,5 +27,14 @@ default-browser-prompt-button-secondary = Nic něnto
 ## Windows 10 and 11.
 
 default-browser-guidance-notification-title = Nastajenje { -brand-short-name } ako waš standard dokóńcyś
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Kšac 1: Pśejźćo k PC-Einstellungen > Apps > Standard-Apps
+    Kšac 2: Kulniśo dołoj do „Webbrowser“
+    Kšac 3: Wubjeŕśo { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Kšac 1: Pśejźćo k PC-Einstellungen > Apps > Standard-Apps
+    Kšac 2: Wubjeŕśo „Als Standard setzen“ za { -brand-short-name }
 default-browser-guidance-notification-info-page = Pokazaś
 default-browser-guidance-notification-dismiss = Dokóńcony
