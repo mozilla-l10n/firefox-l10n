@@ -277,6 +277,16 @@ newtab-wallpaper-title = Sfonde
 newtab-wallpaper-reset = Riktheje te parazgjedhjet
 newtab-wallpaper-light-red-panda = Panda e kuqe
 newtab-wallpaper-light-mountain = Mal i bardhë
+newtab-wallpaper-light-sky = Qiell me re të purpurta dhe të trëndafilta
+newtab-wallpaper-light-color = Forma në ngjyrë blu, të trëndafiltë dhe të verdhë
+newtab-wallpaper-light-landscape = Peizazh malor me mjegull të kaltër
+newtab-wallpaper-light-beach = Plazh me palma
+newtab-wallpaper-dark-aurora = Aurora Borealis
+newtab-wallpaper-dark-color = Forma në ngjyrë të kuqe dhe blu
+newtab-wallpaper-dark-panda = Panda e kuqe e fshehur në pyll
+newtab-wallpaper-dark-sky = Reliev qyteti me qiell nate
+newtab-wallpaper-dark-mountain = Peizazh malor
+newtab-wallpaper-dark-city = Peizazh qyteti i purpurt
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.

@@ -2,8 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Njoftues Vithisjesh
-crashreporter-crash-message = { -brand-short-name }-i pati një problem dhe u vithis.
+crashreporter-apology = Na Ndjeni
 crashreporter-plea = Për të na ndihmuar në diagnostikimin dhe ndreqjen e problemit, mund të na dërgoni një njoftim vithisjeje.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Hollësi: { $details }
