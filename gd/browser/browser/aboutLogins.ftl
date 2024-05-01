@@ -387,6 +387,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Ion-phortaich faidhle chlàraidhean a-steach
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Ion-phortaich na faclan-faire gu { -brand-short-name }
 about-logins-import-file-picker-import-button = Ion-phortaich
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -432,6 +434,27 @@ about-logins-import-dialog-items-no-change =
         [few] <span>Clàraidhean a-steach dùblaichte air an lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
        *[other] <span>Clàraidhean a-steach dùblaichte air an lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+        [one] <span>Chaidh faclan-faire ùra a chur ris:</span><span data-l10n-name="count">{ $count }</span>
+        [two] <span>Chaidh faclan-faire ùra a chur ris:</span><span data-l10n-name="count">{ $count }</span>
+        [few] <span>Chaidh faclan-faire ùra a chur ris:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Chaidh faclan-faire ùra a chur ris:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+        [one] <span>Chaidh innteartan làithreach ùrachadh:</span><span data-l10n-name="count">{ $count }</span>
+        [two] <span>Chaidh innteartan làithreach ùrachadh:</span><span data-l10n-name="count">{ $count }</span>
+        [few] <span>Chaidh innteartan làithreach ùrachadh:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span>Chaidh innteartan làithreach ùrachadh:</span><span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Chaidh innteartan dùblaichte a lorg:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(cha deach an ion-phortadh</span>
+        [two] <span>Chaidh innteartan dùblaichte a lorg:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(cha deach an ion-phortadh</span>
+        [few] <span>Chaidh innteartan dùblaichte a lorg:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(cha deach an ion-phortadh</span>
+       *[other] <span>Chaidh innteartan dùblaichte a lorg:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(cha deach an ion-phortadh</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [1] <span>Mearachd:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
@@ -456,6 +479,7 @@ about-logins-import-dialog-error-try-import-again = Feuch ris an ion-phortadh a-
 about-logins-import-dialog-error-cancel = Sguir dheth
 about-logins-import-report-title = Geàrr-chunntas an ion-phortaidh
 about-logins-import-report-description = Chaidh na clàraidhean a-steach ’s na faclan-faire ion-phortadh gu { -brand-short-name }.
+about-logins-import-report-description2 = Chaidh na faclan-faire ion-phortadh gu { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -463,6 +487,9 @@ about-logins-import-report-row-index = Ràgh { $number }
 about-logins-import-report-row-description-no-change = Dùblachadh: Tha seo co-ionnann ri clàradh a-steach a tha ann mu thràth
 about-logins-import-report-row-description-modified = Chaidh an clàradh a-steach a bha ann mu thràth ùrachadh
 about-logins-import-report-row-description-added = Chaidh clàradh a-steach ùr a chur ris
+about-logins-import-report-row-description-no-change2 = Dùblachadh: Tha seo co-ionnann ri innteart làithreach
+about-logins-import-report-row-description-modified2 = Chaidh an t-inneart làithreach ùrachadh
+about-logins-import-report-row-description-added2 = Chaidh facal-faire ùr a chur ris
 about-logins-import-report-row-description-error = Mearachd: Tha raon a dhìth
 
 ##
