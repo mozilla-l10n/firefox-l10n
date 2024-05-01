@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Lähetetty!
 confirmation-hint-firefox-relay-mask-created = Uusi maski luotu!
 confirmation-hint-firefox-relay-mask-reused = Olemassa oleva maski käytetty uudelleen!
 confirmation-hint-screenshot-copied = Kuvakaappaus kopioitu!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] { $tabCount } välilehti suljettu
+       *[other] { $tabCount } välilehteä suljettu
+    }

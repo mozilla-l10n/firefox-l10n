@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Synkronoi kirjanmerkkisi kaikkialla.
 cfr-doorhanger-bookmark-fxa-body = Hyvä löytö! Älä jää ilman tätä kirjanmerkkiä mobiililaitteillasi. Aloita { -fxaccount-brand-name(case: "genitive") } käyttö.
+cfr-doorhanger-bookmark-fxa-body-2 = Hieno löytö! Älä jää paitsi tästä kirjanmerkistä mobiililaitteissasi. Aloita tilin käyttö.
 cfr-doorhanger-bookmark-fxa-link-text = Synkronoi kirjanmerkit nyt…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Sulje-painike
@@ -203,8 +204,6 @@ cfr-cbh-confirm-button = Vastaa evästepyyntöihin kieltävästi
     .accesskey = V
 cfr-cbh-dismiss-button = Ei nyt
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } esti juuri evästeet
-cookie-banner-blocker-cfr-body = Estämme automaattisesti monet evästeiden ponnahdusilmoitukset, jotta sivustojen on vaikea seurata sinua.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } kieltäytyi juuri evästeilmoituksesta puolestasi
 cookie-banner-blocker-onboarding-body = Vähemmän häiriötekijöitä, vähemmän sinua tällä sivustolla seuraavia evästeitä.
 cookie-banner-blocker-onboarding-learn-more = Lue lisää

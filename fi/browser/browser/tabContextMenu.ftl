@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Sulje useita välilehtiä
     .accesskey = t
+tab-context-close-duplicate-tabs =
+    .label = Sulje välilehtien kaksoiskappaleet
+    .accesskey = u
 tab-context-share-url =
     .label = Jaa
     .accesskey = J
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Siirrä välilehdet
         }
     .accesskey = r
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

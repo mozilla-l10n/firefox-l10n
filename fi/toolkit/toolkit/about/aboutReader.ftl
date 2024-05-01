@@ -26,6 +26,14 @@ about-reader-color-theme-contrast = Kontrasti
     .title = Väriteema kontrasti
 about-reader-color-theme-custom = Mukautetut värit
     .title = Väriteema mukautettu
+about-reader-color-light-theme = Vaalea
+    .title = Vaalea teema
+about-reader-color-dark-theme = Tumma
+    .title = Tumma teema
+about-reader-color-gray-theme = Harmaa
+    .title = Harmaa teema
+about-reader-color-contrast-theme = Kontrasti
+    .title = Kontrastiteema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +70,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Sulje lukunäkymä
 about-reader-toolbar-type-controls = Kirjasinasetukset
 about-reader-toolbar-color-controls = Värit
+about-reader-toolbar-text-layout-controls = Teksti ja asettelu
+about-reader-toolbar-theme-controls = Teema
 about-reader-toolbar-savetopocket = Tallenna { -pocket-brand-name }iin
 
 ## Reader View colors menu
@@ -85,3 +95,7 @@ about-reader-custom-colors-visited-links = Avatut linkit
 about-reader-custom-colors-selection-highlight = Korostus ääneen lukua varten
     .title = Muokkaa väriä
 about-reader-custom-colors-reset-button = Palauta oletukset
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Asettelu
