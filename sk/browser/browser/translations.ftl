@@ -180,7 +180,7 @@ translations-settings-close-dialog =
 # Text displayed in the right-click context menu for translating
 # selected text to a yet-to-be-determined language.
 main-context-menu-translate-selection =
-    .label = Preložiť výber…
+    .label = Preložiť označený text…
     .accesskey = P
 # Text displayed in the right-click context menu for translating
 # selected text to a target language.
@@ -188,7 +188,7 @@ main-context-menu-translate-selection =
 # Variables:
 #   $language (string) - The localized display name of the target language
 main-context-menu-translate-selection-to-language =
-    .label = Preložiť označené do jazyka { $language }
+    .label = Preložiť označený text do jazyka { $language }
     .accesskey = l
 # Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a yet-to-be-determined language.
@@ -246,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Ľutujeme, jazyk { $language } zatiaľ nepodporujeme.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Ľutujeme, tento jazyk zatiaľ nepodporujeme.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Nastavenia prekladov

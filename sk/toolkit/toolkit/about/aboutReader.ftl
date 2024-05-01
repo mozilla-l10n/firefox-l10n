@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Kontrastná
     .title = Kontrastná téma vzhľadu
 about-reader-color-theme-custom = Vlastné farby
     .title = Vlastná téma vzhľadu
+about-reader-color-light-theme = Svetlá
+    .title = Svetlá téma
+about-reader-color-dark-theme = Tmavá
+    .title = Tmavá téma
+about-reader-color-sepia-theme = Sépia
+    .title = Téma Sépia
+about-reader-color-auto-theme = Automatická
+    .title = Automatická téma
+about-reader-color-gray-theme = Sivá
+    .title = Sivá téma
+about-reader-color-contrast-theme = Kontrastná
+    .title = Kontrastná téma
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -63,6 +75,8 @@ about-reader-font-type-sans-serif = Bezpätkové
 about-reader-toolbar-close = Zavrieť zobrazenie Čítačka
 about-reader-toolbar-type-controls = Nastavenie vzhľadu
 about-reader-toolbar-color-controls = Farby
+about-reader-toolbar-text-layout-controls = Text a rozloženie
+about-reader-toolbar-theme-controls = Téma vzhľadu
 about-reader-toolbar-savetopocket = Uložiť do služby { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -86,3 +100,28 @@ about-reader-custom-colors-visited-links = Navštívené odkazy
 about-reader-custom-colors-selection-highlight = Zvýrazňovač na čítanie nahlas
     .title = Úprava farby
 about-reader-custom-colors-reset-button = Použiť predvolené
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Rozloženie
+about-reader-advanced-layout-header = Rozšírené
+about-reader-slider-label-width-narrow = Úzke
+about-reader-slider-label-width-wide = Široké
+about-reader-slider-label-spacing-narrow = Úzke
+about-reader-slider-label-spacing-standard = Štandardné
+about-reader-slider-label-spacing-wide = Široké
+about-reader-content-width-label =
+    .label = Šírka obsahu
+about-reader-line-spacing-label =
+    .label = Riadkovanie
+about-reader-character-spacing-label =
+    .label = Rozostup znakov
+about-reader-word-spacing-label =
+    .label = Medzery medzi slovami
+about-reader-text-alignment-label = Zarovnanie textu
+about-reader-text-alignment-left =
+    .title = Zarovnanie textu doľava
+about-reader-text-alignment-center =
+    .title = Zarovnanie textu na stred
+about-reader-text-alignment-right =
+    .title = Zarovnanie textu doprava
