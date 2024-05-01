@@ -82,7 +82,7 @@ item-cache =
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size =
-    .label = 暫存的快取檔案與葉面（{ $amount } { $unit }）
+    .label = 暫存的快取檔案與頁面（{ $amount } { $unit }）
     .accesskey = f
 item-cached-content =
     .label = 暫時快取的檔案與頁面
