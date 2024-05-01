@@ -53,6 +53,9 @@ mr1-onboarding-import-primary-button-label-attribution = Aus { $previous } impor
 mr1-onboarding-theme-header = Ganz dein Style
 mr1-onboarding-theme-subtitle = Personalisiere { -brand-short-name } mit einem Theme.
 mr1-onboarding-theme-secondary-button-label = Nicht jetzt
+newtab-wallpaper-onboarding-title = Wie wäre es mit einem Farbtupfer?
+newtab-wallpaper-onboarding-subtitle = Wählen Sie ein Hintergrundbild, um Ihrem neuen Tab ein neues Aussehen zu verpassen.
+newtab-wallpaper-onboarding-primary-button-label = Hintergrundbild festlegen
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = System-Theme
 mr1-onboarding-theme-label-light = Hell
