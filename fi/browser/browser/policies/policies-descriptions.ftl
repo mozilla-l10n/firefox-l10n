@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Estä pääsy about:support-sivulle.
 policy-Bookmarks = Luo kirjanmerkkejä kirjanmerkkipalkkiin, Kirjanmerkit-valikkoon tai tiettyyn kansioon niiden sisälle.
 policy-CaptivePortal = Ota käyttöön tai poista käytöstä vahtiportaalien tuki.
 policy-CertificatesDescription = Lisää varmenteita tai käytä sisäänrakennettuja varmenteita.
+policy-ContentAnalysis = Yhdistä tai poista yhteys tietojen menetyksen estämisen agenttiin.
 policy-Cookies = Salli tai estä, että sivustot asettavat evästeitä.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Aseta eristystiloihin liittyvät käytännöt.
