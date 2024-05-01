@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Contraste
     .title = Tema con alto contraste
 about-reader-color-theme-custom = Colores personalizados
     .title = Tema con colores personalizados
+about-reader-color-light-theme = Claro
+    .title = Tema claro
+about-reader-color-dark-theme = Oscuro
+    .title = Tema oscuro
+about-reader-color-sepia-theme = Sepia
+    .title = Tema sepia
+about-reader-color-auto-theme = Auto
+    .title = Tema automático
+about-reader-color-gray-theme = Gris
+    .title = Tema gris
+about-reader-color-contrast-theme = Contraste
+    .title = Tema de contraste alto
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -85,3 +97,6 @@ about-reader-custom-colors-visited-links = Enlaces visitados
 about-reader-custom-colors-selection-highlight = Resaltador para leer en voz alta
     .title = Editar color
 about-reader-custom-colors-reset-button = Restablecer predeterminados
+
+## Reader View improved text and layout menu
+
