@@ -63,6 +63,8 @@ about-reader-font-type-sans-serif = Без засечак
 about-reader-toolbar-close = Закрыць Рэжым чытання
 about-reader-toolbar-type-controls = Налады шрыфтоў
 about-reader-toolbar-color-controls = Колеры
+about-reader-toolbar-text-layout-controls = Тэкст і выклад
+about-reader-toolbar-theme-controls = Тэма
 about-reader-toolbar-savetopocket = Захаваць у { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -86,3 +88,28 @@ about-reader-custom-colors-visited-links = Наведаныя спасылкі
 about-reader-custom-colors-selection-highlight = Падфарбоўка для чытання ўслых
     .title = Змяніць колер
 about-reader-custom-colors-reset-button = Скінуць да прадвызначаных
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Выклад
+about-reader-advanced-layout-header = Дадаткова
+about-reader-slider-label-width-narrow = Вузкі
+about-reader-slider-label-width-wide = Шырокі
+about-reader-slider-label-spacing-narrow = Вузкі
+about-reader-slider-label-spacing-standard = Стандартны
+about-reader-slider-label-spacing-wide = Шырокі
+about-reader-content-width-label =
+    .label = Шырыня змесціва
+about-reader-line-spacing-label =
+    .label = Міжрадковы інтэрвал
+about-reader-character-spacing-label =
+    .label = Інтэрвал знакаў
+about-reader-word-spacing-label =
+    .label = Інтэрвал паміж словамі
+about-reader-text-alignment-label = Выраўноўванне тэксту
+about-reader-text-alignment-left =
+    .title = Выраўнаваць тэкст па левым краі
+about-reader-text-alignment-center =
+    .title = Выраўнаваць тэкст па цэнтры
+about-reader-text-alignment-right =
+    .title = Выраўнаваць тэкст па правым краі
