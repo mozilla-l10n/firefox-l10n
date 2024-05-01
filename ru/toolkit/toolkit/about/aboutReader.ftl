@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Контрастная
     .title = Контрастная цветовая схема
 about-reader-color-theme-custom = Настраиваемые цвета
     .title = Настраиваемая цветовая схема
+about-reader-color-light-theme = Светлая
+    .title = Светлая тема
+about-reader-color-dark-theme = Тёмная
+    .title = Тёмная тема
+about-reader-color-sepia-theme = Сепия
+    .title = Тема Сепия
+about-reader-color-auto-theme = Автоматическая
+    .title = Автоматическая тема
+about-reader-color-gray-theme = Серая
+    .title = Серая тема
+about-reader-color-contrast-theme = Контрастная
+    .title = Контрастная тема
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -63,6 +75,8 @@ about-reader-font-type-sans-serif = Без засечек
 about-reader-toolbar-close = Закрыть режим чтения
 about-reader-toolbar-type-controls = Настройка шрифтов
 about-reader-toolbar-color-controls = Цвета
+about-reader-toolbar-text-layout-controls = Текст и разбивка окна
+about-reader-toolbar-theme-controls = Тема
 about-reader-toolbar-savetopocket = Сохранить в { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -86,3 +100,28 @@ about-reader-custom-colors-visited-links = Посещённые ссылки
 about-reader-custom-colors-selection-highlight = Подсветка для чтения вслух
     .title = Изменить цвет
 about-reader-custom-colors-reset-button = Восстановить по умолчанию
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Разбивка окна
+about-reader-advanced-layout-header = Дополнительно
+about-reader-slider-label-width-narrow = Узкая
+about-reader-slider-label-width-wide = Широкая
+about-reader-slider-label-spacing-narrow = Узкая
+about-reader-slider-label-spacing-standard = Стандартная
+about-reader-slider-label-spacing-wide = Широкая
+about-reader-content-width-label =
+    .label = Ширина содержимого
+about-reader-line-spacing-label =
+    .label = Межстрочный интервал
+about-reader-character-spacing-label =
+    .label = Межсимвольный интервал
+about-reader-word-spacing-label =
+    .label = Интервал между словами
+about-reader-text-alignment-label = Выравнивание текста
+about-reader-text-alignment-left =
+    .title = Выровнять по левому краю
+about-reader-text-alignment-center =
+    .title = Выровнять по центру
+about-reader-text-alignment-right =
+    .title = Выровнять по правому краю
