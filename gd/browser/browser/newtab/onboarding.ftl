@@ -338,6 +338,7 @@ onboarding-easy-setup-security-and-privacy-title = Tha e a’ toirt tlachd dhuin
 onboarding-easy-setup-security-and-privacy-subtitle = Cuiridh am brabhsair againn - fear nach eil airson prothaid - casg air companaidhean o bhith gad leantainn gu dìomhair air feadh an lìn.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Cùm rudan crioptaichte is tu a’ gluasad o uidheam gu uidheam
+onboarding-mobile-download-security-and-privacy-subtitle = Nuair a bhios an sioncronachadh deiseil, crioptaichidh { -brand-short-name } na faclan-faire, comharran-lìn is mòran a bharrachd dhut. Agus gheibh thu cothrom orra o na h-uidheaman eile agad.
 
 ## New user time and familiarity survey strings
 
