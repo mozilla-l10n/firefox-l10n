@@ -283,6 +283,23 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [few] Tha, thoiribh air falbh na faclan-faire
        *[other] Tha, thoiribh air falbh na faclan-faire
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] A bheil thu airson { $count } fhacal-faire a thoirt air falbh?
+        [two] A bheil thu airson { $count } fhacal-faire a thoirt air falbh?
+        [few] A bheil thu airson { $count } faclan-faire a thoirt air falbh?
+       *[other] A bheil thu airson { $count } facal-faire a thoirt air falbh?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Bheir seo air falbh am facal-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [one] Bheir seo air falbh am facal-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [two] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [few] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+       *[other] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+    }
 
 ##
 
