@@ -300,12 +300,34 @@ about-logins-confirm-remove-all-dialog-message2 =
         [few] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
        *[other] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
     }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] A bheil thu airson { $count } fhacal-faire a thoirt air falbh o na h-uidheaman uile?
+        [two] A bheil thu airson { $count } fhacal-faire a thoirt air falbh o na h-uidheaman uile?
+        [few] A bheil thu airson { $count } faclan-faire a thoirt air falbh o na h-uidheaman uile?
+       *[other] A bheil thu airson { $count } facal-faire a thoirt air falbh o na h-uidheaman uile?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Bheir seo air falbh am facal-faire a shàbhail thu ann am { -brand-short-name } air gach uidheam a nì shioncronachadh. Agus bheir e air falbh caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [one] Bheir seo air falbh am facal-faire a shàbhail thu ann am { -brand-short-name } air gach uidheam a nì shioncronachadh. Agus bheir e air falbh caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [two] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } air gach uidheam a nì shioncronachadh. Agus bheir e air falbh caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [few] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } air gach uidheam a nì shioncronachadh. Agus bheir e air falbh caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+       *[other] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } air gach uidheam a nì shioncronachadh. Agus bheir e air falbh caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Às-phortaich na clàraidhean a-steach agus faclan-faire agad
 about-logins-confirm-export-dialog-message = Thèid na faclan-faire agad a shàbhaladh ’nan teacsa a ghabhas leughadh (m.e. BadP@ssw0rd) agus chì duine sam bith iad as urrainn dhan fhaidhle air às-phortadh fhosgladh.
 about-logins-confirm-export-dialog-confirm-button = Às-phortaich…
+about-logins-confirm-export-dialog-title2 = Nòta mu dhèidhinn às-phortadh fhaclan-faire
+about-logins-confirm-export-dialog-message2 =
+    Nuair a thèid faclan-faire às-phortadh, thèid an sàbhaladh ann am faidhle sa bheil teacsa so-leughta.
+    Nuair a bhios tu deiseil leis an fhaidhle, mholamaid dhut a sguabadh às mus fhaic daoine eile a chleachdas an t-uidheam seo na faclan-faire agad.
+about-logins-confirm-export-dialog-confirm-button2 = Lean air adhart leis an às-phortadh
 about-logins-alert-import-title = Ion-phortadh deiseil
 about-logins-alert-import-message = Seall geàrr-chunntas mionaideach dhen ion-phortadh
 confirm-discard-changes-dialog-title = A bheil thu airson na h-atharraichean gun sàbhaladh a thilgeil air falbh?
@@ -347,6 +369,11 @@ about-logins-export-file-picker-title = Às-phortaich na clàraidhean a-steach m
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = clàraidhean a-steach.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Às-phortaich na faclan-faire o { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = faclanfaire.csv
 about-logins-export-file-picker-export-button = Às-phortaich
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
