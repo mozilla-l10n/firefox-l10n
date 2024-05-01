@@ -89,11 +89,14 @@ about-logins-login-list-alerts-option = Caismeachdan
 login-list-last-changed-option = Atharrachadh mu dheireadh
 login-list-last-used-option = Cleachdadh mu dheireadh
 login-list-intro-title = Cha deach clàradh a-steach a lorg
+login-list-intro-title2 = Cha deach facal-faire sam bith a shàbhaladh
 login-list-intro-description = Nuair a shàbhaileas tu facal-faire ann an { -brand-product-name }, nochdaidh e an-seo.
 about-logins-login-list-empty-search-title = Cha deach clàradh a-steach a lorg
+about-logins-login-list-empty-search-title2 = Cha deach facal-faire sam bith a lorg
 about-logins-login-list-empty-search-description = Chan eil toradh ann a tha a’ freagairt ris na lorg thu.
 login-list-item-title-new-login = Clàradh a-steach ùr
 login-list-item-subtitle-new-login = Cuir a-steach an t-ainm is facal-faire agad
+login-list-item-title-new-login2 = Cuir facal-faire ris
 login-list-item-subtitle-missing-username = (gun ainm-cleachdaiche)
 about-logins-list-item-breach-icon =
     .title = Làrach-lìn air an deach briseadh a-steach
@@ -112,18 +115,29 @@ about-logins-login-intro-heading-logged-out2 = A bheil na logins a shàbhail thu
 about-logins-login-intro-heading-logged-in = Cha deach clàradh a-steach sioncronaichte a lorg.
 login-intro-description = Ma shàbhail thu na clàraidhean a-steach agad ann am { -brand-product-name } air uidheam eile, seo mar a gheibh thu greim orra an-seo:
 login-intro-instructions-fxa = Cruthaich { -fxaccount-brand-name } air an uidheam far an do shàbhail thu na logins agad no cruthaich cunntas ùr.
+about-logins-login-intro-heading-message = Sàbhail na faclan-faire agad ann an àite sàbhailte
+login-intro-description2 = Thèid facak-faire sam bith a shàbhaileas tu ann am { -brand-product-name } a chrioptachadh. Agus cumaidh sinn sùil air aithisgean mu dhàta a bhriseadh a-steach air is innsidh sinn dhut ma bhios tusa nam measg. <a data-l10n-name="breach-alert-link">Barrachd fiosrachaidh</a>
+login-intro-instructions-fxa2 = Cruthaich cunntas no clàraich a-steach dhan chunntas agad air an uidheam far an deach na clàraidhean a-steach a shàbhaladh
 login-intro-instructions-fxa-settings = Tadhail air “Roghainnean” > “Sioncronachadh” > “Cuir an sioncronachadh air…” agus tagh am bogsa-cromaige “Clàraidhean a-steach ⁊ faclan-faire”.
 login-intro-instructions-fxa-passwords-help = Tadhail air <a data-l10n-name="passwords-help-link">taic nam faclan-faire</a> airson barrachd cuideachaidh.
 about-logins-intro-browser-only-import = Ma shàbhail thu na clàraidhean a-steach agad ann am brabhsair eile, ’s urrainn dhut <a data-l10n-name="import-link">an ion-phortadh gu { -brand-product-name }</a>
 about-logins-intro-import2 = Ma chaidh na clàraidhean a-steach agad a shàbhaladh taobh a-muigh { -brand-product-name }, ’s urrainn dhut an <a data-l10n-name="import-browser-link">ion-phortadh à brabhsair eile</a> no <a data-l10n-name="import-file-link">à faidhle</a>
+about-logins-intro-import3 = Briog air a’ chomharra plus gu h-àrd airson facal-faire a chur ris an-dràsta. ’S urrainn dhut <a data-l10n-name="import-browser-link">faclan-faire ion-phortadh o bhrabhsair eile cuideachd</a> no <a data-l10n-name="import-file-link">o fhaidhle</a>.
 
 ## Login
 
 login-item-new-login-title = Cruthaich clàradh a-steach ùr
+# Header for adding a password
+about-logins-login-item-new-login-title = Cuir facal-faire ris
 login-item-edit-button = Deasaich
 about-logins-login-item-remove-button = Thoir air falbh
 login-item-origin-label = Seòladh na làraich-lìn
 login-item-tooltip-message = Dèan cinnteach gur e seo an seòladh mionaideach dhen làrach-lìn far a bheil thu a’ clàradh a-steach.
+about-logins-origin-tooltip2 = Cuir a-steach an seòladh slàn is dèan cinnteach gu bheil e co-ionnann ris an fhear a chleachdas tu far an dèan thu clàradh a-steach.
+# Variables
+#   $webTitle (String) - Website title of the password being changed.
+about-logins-edit-password-tooltip = Dèan cinnteach gu bheil thu a’ sàbhaladh facal-faire làithreach na làraich seo. Ma dh’atharraicheas tu an-seo e, cha bhi buaidh aige sin air { $webTitle }.
+about-logins-add-password-tooltip = Dèan cinnteach gu bheil thu a’ sàbhaladh facal-faire làithreach na làraich seo.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Ainm-cleachdaiche
@@ -137,6 +151,7 @@ login-item-password-reveal-checkbox =
 login-item-copy-password-button-text = Lethbhreac
 login-item-copied-password-button-text = Lethbhreac air a dhèanamh!
 login-item-save-changes-button = Sàbhail na h-atharraichean
+about-logins-login-item-save-changes-button = Sàbhail
 login-item-save-new-button = Sàbhail
 login-item-cancel-button = Sguir dheth
 
@@ -164,6 +179,11 @@ about-logins-edit-login-os-auth-dialog-message-win = Airson an clàradh a-steach
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = an clàradh a-steach a shàbhail thu a dheasachadh
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Airson am facal-faire agad a dheasachadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = am facal-faire a shàbhail thu a dheasachadh
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Airson am facal-faire agad a shealltainn, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -179,6 +199,11 @@ about-logins-export-password-os-auth-dialog-message-win = Airson na clàraidhean
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = na clàraidhean a-steach ’s faclan-faire air an sàbhaladh às-phortadh
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Airson na faclan-faire agad às-phortadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = am facal-faire a shàbhail thu às-phortadh
 
 ## Primary Password notification
 
@@ -194,6 +219,10 @@ confirmation-dialog-dismiss-button =
     .title = Sguir dheth
 about-logins-confirm-remove-dialog-title = A bheil thu airson an clàradh a-steach seo a thoirt air falbh?
 confirm-delete-dialog-message = Cha ghabh seo a neo-dhèanamh.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = A bheil thu airson am facal-faire a thoirt air falbh?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = Chan urrainn dhut seo a neo-dhèanamh.
 about-logins-confirm-remove-dialog-confirm-button = Thoir air falbh
 
 ## Variables
@@ -244,6 +273,15 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [two] Bheir seo air falbh gach clàradh a-steach a shàbhail thu gu { -brand-short-name } air gach uidheam a chaidh a shioncronachadh dhan { -fxaccount-brand-name } agad. Bheir seo air falbh caismeachd sam bith air brisidhean a-steach a nochd an-seo cuideachd. Chan urrainn dhut seo a neo-dhèanamh.
         [few] Bheir seo air falbh gach clàradh a-steach a shàbhail thu gu { -brand-short-name } air gach uidheam a chaidh a shioncronachadh dhan { -fxaccount-brand-name } agad. Bheir seo air falbh caismeachd sam bith air brisidhean a-steach a nochd an-seo cuideachd. Chan urrainn dhut seo a neo-dhèanamh.
        *[other] Bheir seo air falbh gach clàradh a-steach a shàbhail thu gu { -brand-short-name } air gach uidheam a chaidh a shioncronachadh dhan { -fxaccount-brand-name } agad. Bheir seo air falbh caismeachd sam bith air brisidhean a-steach a nochd an-seo cuideachd. Chan urrainn dhut seo a neo-dhèanamh.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Tha, thoiribh air falbh am facal-faire
+        [one] Tha, thoiribh air falbh am facal-faire
+        [two] Tha, thoiribh air falbh na faclan-faire
+        [few] Tha, thoiribh air falbh na faclan-faire
+       *[other] Tha, thoiribh air falbh na faclan-faire
     }
 
 ##
