@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = Не удалось соедини�
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Не удалось проверить подпись для { $agent }. Передача запрещена для ресурса: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Произошла ошибка связи с { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Не удалось соединиться с { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Не удалось проверить подпись для { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Выгрузка «{ $filename }» запрещена.
+contentanalysis-error-message-dropped-text = Перетаскивание запрещено.
+contentanalysis-error-message-clipboard = Вставка запрещена.
+contentanalysis-error-message-print = Печать запрещена.
 contentanalysis-block-dialog-title-upload-file = Вам не разрешено загружать этот файл
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"

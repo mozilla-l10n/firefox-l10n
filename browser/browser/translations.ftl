@@ -216,10 +216,23 @@ select-translations-panel-cancel-button =
 # Text displayed on the copy button before it is clicked.
 select-translations-panel-copy-button =
     .label = Копировать
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Скопировано
+select-translations-panel-done-button =
+    .label = Готово
+select-translations-panel-translate-full-page-button =
+    .label = Перевести всю страницу
 select-translations-panel-translate-button =
     .label = Перевести
 select-translations-panel-try-again-button =
     .label = Попробовать снова
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Переведённый текст появится здесь.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Перевод…
+select-translations-panel-init-failure-message =
+    .message = Не удалось загрузить языки. Проверьте подключение к Интернету и повторите попытку.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = При переводе возникла проблема, пожалуйста, попробуйте ещё раз.
@@ -233,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = К сожалению, мы пока не поддерживаем следующий язык: { $language }
 select-translations-panel-unsupported-language-message-unknown =
     .message = К сожалению, мы пока не поддерживаем этот язык.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Настройки перевода
