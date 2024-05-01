@@ -335,6 +335,9 @@ onboarding-device-migration-primary-button-label = Clàraich a-steach
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Tha e a’ toirt tlachd dhuinn do chumail sàbhailte
+onboarding-easy-setup-security-and-privacy-subtitle = Cuiridh am brabhsair againn - fear nach eil airson prothaid - casg air companaidhean o bhith gad leantainn gu dìomhair air feadh an lìn.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Cùm rudan crioptaichte is tu a’ gluasad o uidheam gu uidheam
 
 ## New user time and familiarity survey strings
 
