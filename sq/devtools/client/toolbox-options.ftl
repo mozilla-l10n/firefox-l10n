@@ -59,6 +59,15 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Emra Ngjyrash
 
+## Web Console section
+
+# The heading
+options-webconsole-label = Konsol Web
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Aktivizo Konsolë të Ndarë
+options-webconsole-split-console-tooltip =
+    .title = Hap Konsolë të Ndarë me Tastin Esc
+
 ## Style Editor section
 
 # The heading

@@ -193,6 +193,9 @@ media-content-decryption-modules-title = Informacion Modulesh Shfshehtëzimi Lë
 media-video-robustness = Fortësi Videoje
 media-audio-robustness = Fortësi Audioje
 media-cdm-capabilities = Aftësi
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = I përputhshëm me HDCP 2.2
 
 ##
 
@@ -272,6 +275,7 @@ try-newer-driver = E bllokuar për versionin tuaj të përudhësit grafik. Provo
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametra ClearType
 compositing = Hartim
+support-font-determination = Hollësi Diagnostikimi Dukshmërie Shkronjash
 hardware-h264 = Shkodim Hardware H264
 main-thread-no-omtc = rrjedhë kryesore, jo OMTC
 yes = Po
@@ -324,6 +328,7 @@ gpu-device-reset = Rikthim i Pajisjes Në Fillimet
 gpu-device-reset-button = Shkakto Rikthim të Pajisjes Në Fillimet
 uses-tiling = Përdor Tjegullzim
 content-uses-tiling = Përdor Tjegullzim (Lëndë)
+off-main-thread-paint-enabled = Shpejtësi Kuadrosh e Synuar
 min-lib-versions = Version minimum i pritshëm
 loaded-lib-versions = Version në përdorim
 has-seccomp-bpf = Seccomp-BPF (Filtrim Thirrjesh Sistemi)
@@ -410,3 +415,14 @@ support-remote-features-status = Gjendje
 
 pointing-device-mouse = Mi
 pointing-device-touchscreen = Ekran Me Prekje
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Analizë Lënde (DLP)
+content-analysis-active = Aktive
+content-analysis-connected-to-agent = I lidhur me Agjentin
+content-analysis-agent-path = Shteg Agjenti
+content-analysis-agent-failed-signature-verification = Dështoi Verifikim Nënshkrimi Për Agjentin
