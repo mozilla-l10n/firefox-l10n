@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = Nedá sa pripojiť k agentovi { $ag
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Overenie podpisu pre agenta { $agent } zlyhalo. Prenos bol odmietnutý pre tento zdroj: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Pri komunikácii s agentom { $agent } sa vyskytla chyba. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Nedá sa pripojiť k agentovi { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Overenie podpisu pre agenta { $agent } zlyhalo. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Odovzdanie súboru “{ $filename }” bolo odmietnuté.
+contentanalysis-error-message-dropped-text = Pretiahnutie obsahu bolo odmietnuté.
+contentanalysis-error-message-clipboard = Prilepenie bolo odmietnuté.
+contentanalysis-error-message-print = Tlač bola odmietnutá.
 contentanalysis-block-dialog-title-upload-file = Nemáte oprávnenie nahrať tento súbor
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
