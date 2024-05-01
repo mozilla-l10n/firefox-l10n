@@ -40,6 +40,8 @@ policy-DisableDefaultBrowserAgent = Estä oletusselainagenttia tekemästä mitä
 policy-DisableDeveloperTools = Estä pääsy web-työkaluihin.
 policy-DisableFeedbackCommands = Estä komennot, joilla voi antaa palautetta Ohje-valikosta (Anna palautetta ja Ilmoita petollinen sivusto).
 policy-DisableFirefoxAccounts = Poista käytöstä { -fxaccount-brand-name }-pohjaiset palvelut, mukaan lukien Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Poista käytöstä tilipohjaiset palvelut, mukaan lukien synkronointi.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Poista Firefox Screenshots -ominaisuus käytöstä.
 policy-DisableFirefoxStudies = Estä { -brand-short-name } suorittamasta tutkimuksia.
