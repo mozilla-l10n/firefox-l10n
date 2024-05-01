@@ -262,9 +262,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Gesponserte Verknüpfungen
 newtab-custom-pocket-title = Empfohlen von { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Besondere Inhalte ausgewählt von { -pocket-brand-name }, Teil der { -brand-product-name }-Familie
-newtab-custom-pocket-toggle =
-    .label = Empfohlen von { -pocket-brand-name }
-    .description = Besondere Inhalte ausgewählt von { -pocket-brand-name }, Teil der { -brand-product-name }-Familie
 newtab-custom-stories-toggle =
     .label = Empfohlene Geschichten
     .description = Besondere Inhalte ausgewählt von der { -brand-product-name }-Familie
@@ -277,3 +274,7 @@ newtab-custom-recent-toggle =
     .description = Eine Auswahl kürzlich besuchter Websites und Inhalte
 newtab-custom-close-button = Schließen
 newtab-custom-settings = Weitere Einstellungen verwalten
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Hintergrundbilder
