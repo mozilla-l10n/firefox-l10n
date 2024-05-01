@@ -133,6 +133,8 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Instaloji krejt
     .accesskey = I
+translations-manage-intro-2 = Ujdisni gjuhë tuajën dhe parapëlqime përkthimi sajtesh dhe administroni gjuhë të shkarkuara për përkthim jashtë interneti.
+translations-manage-download-description = Shkarkoni gjuhë për përkthim jashtë linje
 translations-manage-language-download-button =
     .label = Shkarkoje
 translations-manage-language-download-all-button =
@@ -188,6 +190,11 @@ main-context-menu-translate-selection =
 main-context-menu-translate-selection-to-language =
     .label = Përkthe Përzgjedhjen në { $language }
     .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Përkthe Tekst Lidhjeje…
+    .accesskey = L
 # Text displayed in the right-click context menu for translating
 # the text of a hyperlink to a target language.
 #
