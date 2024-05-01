@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Faclan-faire o fhaire CSV
+migration-wizard-migrator-display-name-file-bookmarks = Comharran-lìn o fhaidhle HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -51,6 +52,9 @@ migration-imported-edge-reading-list = Liosta leughaidh (o Edge)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = Chan eil cothrom aig { -brand-short-name } air pròifilean brabhsairean eile a chaidh stàladh air an uidheam seo.
+migration-no-permissions-instructions = Airson dàta ion-phortadh o brabhsair eile fhathast, thoir cead-inntrigidh dha { -brand-short-name } do phasgan na pròifil aige.
+migration-no-permissions-instructions-step1 = Tagh “Air adhart”
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -132,6 +136,8 @@ migration-list-autofill-label = dàta fèin-lìonaidh
 ##
 
 migration-wizard-progress-header = Ag ion-phortadh dàta
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Chaidh an dàta ion-phortadh
 migration-wizard-progress-icon-in-progress =
     .aria-label = Ag ion-phortadh…

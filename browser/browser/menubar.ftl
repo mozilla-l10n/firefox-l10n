@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -38,11 +44,9 @@ menu-quit =
             [windows] F
            *[other] F
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Fàg { -brand-shorter-name }
-
 menu-about =
     .label = Mu { -brand-shorter-name }
     .accesskey = M
@@ -144,6 +148,8 @@ menu-view-history-button =
     .label = Eachdraidh
 menu-view-synced-tabs-sidebar =
     .label = Tabaichean sioncronaichte
+menu-view-megalist-sidebar =
+    .label = Faclan-faire
 menu-view-full-zoom =
     .label = Sùm
     .accesskey = S
@@ -224,6 +230,9 @@ menu-history-undo-menu =
     .label = Tabaichean a dhùin thu o chionn goirid
 menu-history-undo-window-menu =
     .label = Uinneagan a dhùin thu o chionn goirid
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Eachdraidh nan lorg
 
 ## Bookmarks Menu
 
@@ -236,6 +245,9 @@ menu-bookmark-tab =
     .label = Dèan comharra-lìn dhen taba làithreach…
 menu-edit-bookmark =
     .label = Deasaich an comharra-lìn seo…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Lorg sna comharran-lìn
 menu-bookmarks-all-tabs =
     .label = Dèan comharra-lìn de gach taba…
 menu-bookmarks-toolbar =
@@ -340,3 +352,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Chan e làrach foill a tha seo…
     .accesskey = d
+menu-report-broken-site =
+    .label = Dèan aithris air làrach bhriste
