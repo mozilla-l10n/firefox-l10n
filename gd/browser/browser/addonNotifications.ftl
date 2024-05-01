@@ -14,7 +14,6 @@ xpinstall-prompt-message = Tha thu a’ feuchainn ri tuilleadan a stàladh o { $
 
 xpinstall-prompt-header-unknown = An doir thu cead do làrach nach aithne dhuinn tuilleadan a stàladh?
 xpinstall-prompt-message-unknown = Tha thu a’ feuchainn ri tuilleadan a stàladh o làrach neo-aithnichte. Dèan cinnteach gu bheil earbsa agad san làrach seo mus lean thu air adhart.
-
 xpinstall-prompt-dont-allow =
     .label = Na ceadaich
     .accesskey = D
@@ -41,11 +40,11 @@ site-permission-install-first-prompt-midi-message = Chan eil làn-chinnt gum bi 
 ##
 
 xpinstall-disabled-locked = Chuir rianaire an t-siostaim agad casg air stàladh bathair-bhuig.
+xpinstall-disabled-by-policy = Chan eil am buidheann agad a’ leigeil leat bathar-bog a stàladh.
 xpinstall-disabled = Chan eil stàladh bathair-bhuig an comas an-dràsta. Briog air "Cuir an comas" agus feuch ris a-rithist.
 xpinstall-disabled-button =
     .label = Cuir an comas
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,8 +52,14 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = Chaidh { $addonName } ({ $addonId }) a bhacadh le rianaire an t-siostaim agad.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Cha do leig rianair an t-siostaim agad leis an làrach seo iarraidh ort bathar-bog a stàladh air a’ choimpiutair agad.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = Bhac am buidheann agad { $addonName }({ $addonId }).
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Chùm am buidheann agad an làrach seo o bhith ag iarraidh ort bathar-bog a stàladh air a’ choimpiutair agad.
 addon-install-full-screen-blocked = Chan fhaod thu tuilleadan a stàladh fhad ’s a tha thu ann am modh na làn-sgrìn no gu bhith dol ann.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Chaidh { $addonName } a chur ri { -brand-short-name }
@@ -72,7 +77,6 @@ addon-removal-title = A bheil thu airson { $name } a thoirt air falbh?
 addon-removal-message = A bheil thu airson { $name } a thoirt air falbh o { -brand-shorter-name }?
 addon-removal-button = Thoir air falbh
 addon-removal-abuse-report-checkbox = Dèan aithris air an leudachan seo gu { -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -83,7 +87,6 @@ addon-downloading-and-verifying =
        *[other] A’ luchdadh a-nuas is a’ dearbhadh { $addonCount } tuilleadan…
     }
 addon-download-verifying = 'Ga dhearbhadh
-
 addon-install-cancel-button =
     .label = Sguir dheth
     .accesskey = S
