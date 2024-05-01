@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = Cha do lorg { -relay-brand-name } masg
 ##
 
 firefox-relay-must-login-to-fxa = Feumaidh tu clàradh a-steach gu { -fxaccount-brand-name } mus urrainn dhut { -relay-brand-name } a chleachdadh.
+firefox-relay-must-login-to-account = Clàraich a-steach dhan chunntas agad airson na masgan puist-d { -relay-brand-name } agad a chleachdadh.
 firefox-relay-get-unlimited-masks =
     .label = Stiùirich na masgan
     .accesskey = S
