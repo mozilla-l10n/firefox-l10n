@@ -31,8 +31,14 @@ contentanalysis-block-message = Organisaatiosi käyttää tietojen menetyksen es
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Tietojen menetyksen esto-ohjelmiston kanssa kommunikoinnissa tapahtui virhe. Siirto evätty resurssille: { $content }.
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Tiedoston "{ $filename }" lähetys estetty.
 contentanalysis-error-message-clipboard = Liittäminen estetty.
 contentanalysis-error-message-print = Tulostus estetty.
+contentanalysis-block-dialog-title-upload-file = Sinulla ei ole lupaa lähettää tätä tiedostoa
+contentanalysis-block-dialog-title-clipboard = Sinulla ei ole lupaa liittää tätä sisältöä
+contentanalysis-block-dialog-title-print = Sinulla ei ole lupaa tulostaa tätä asiakirjaa
 contentanalysis-inprogress-quit-title = Lopetetaanko { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Useita toimintoja on meneillään. Jos lopetat { -brand-shorter-name }in, näitä toimintoja ei suoriteta loppuun.
 contentanalysis-inprogress-quit-yesbutton = Kyllä, lopeta
