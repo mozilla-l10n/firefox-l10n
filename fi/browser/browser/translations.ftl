@@ -126,6 +126,20 @@ translations-manage-description = Lataa kieliä yhteydettömän tilan käännök
 translations-manage-all-language = Kaikki kielet
 translations-manage-download-button = Lataa
 translations-manage-delete-button = Poista
+translations-manage-intro = Aseta kieli- ja sivustokäännösasetukset ja hallitse yhteydettömän tilan käännöksiä varten asennettuja kieliä.
+translations-manage-install-description = Lataa kieliä yhteydettömän tilan käännöksiä varten
+translations-manage-language-install-button =
+    .label = Asenna
+translations-manage-language-install-all-button =
+    .label = Asenna kaikki
+    .accesskey = A
+translations-manage-intro-2 = Aseta kieli- ja sivustokäännösasetukset ja hallitse yhteydettömän tilan käännöksiä varten ladattuja kieliä.
+translations-manage-download-description = Lataa kieliä yhteydettömän tilan käännöksiä varten
+translations-manage-language-download-button =
+    .label = Lataa
+translations-manage-language-download-all-button =
+    .label = Lataa kaikki
+    .accesskey = L
 translations-manage-language-remove-button =
     .label = Poista
 translations-manage-language-remove-all-button =
@@ -134,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Kielitiedostoja asentaessa ilmeni ongelma. Yritä uudelleen.
 translations-manage-error-download = Kielitiedostoja ladattaessa ilmeni ongelma. Yritä uudelleen.
 translations-manage-error-delete = Kielitiedostoja poistettaessa tapahtui virhe. Yritä uudelleen.
-translations-manage-intro = Aseta kieli- ja sivustokäännösasetukset ja hallitse yhteydettömän tilan käännöksiä varten asennettuja kieliä.
-translations-manage-install-description = Lataa kieliä yhteydettömän tilan käännöksiä varten
-translations-manage-language-install-button =
-    .label = Asenna
-translations-manage-language-install-all-button =
-    .label = Asenna kaikki
-    .accesskey = A
 translations-manage-error-remove = Kielitiedostoja poistaessa tapahtui virhe. Yritä uudelleen.
 translations-manage-error-list = Käännettävissä olevien kielten listan nouto epäonnistui. Päivitä sivu yrittääksesi uudelleen.
 translations-settings-title =
@@ -170,12 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Sulje
     .buttonaccesskeyaccept = u
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Käännä valinta…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Käännä valinta kielelle { $language }
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Käännä linkin teksti…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Käännä linkin teksti kielelle { $language }
+    .accesskey = n
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Käännös
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Kieleltä
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Kielelle
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Kokeile toista lähdekieltä
 select-translations-panel-cancel-button =
     .label = Peruuta
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopioi
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Kopioitu
+select-translations-panel-done-button =
+    .label = Valmis
+select-translations-panel-translate-full-page-button =
+    .label = Käännä koko sivu
 select-translations-panel-translate-button =
     .label = Käännä
 select-translations-panel-try-again-button =
     .label = Yritä uudelleen
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Käännetty teksti näkyy täällä.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Käännetään…
+select-translations-panel-init-failure-message =
+    .message = Kieliä ei voitu ladata. Tarkista internetyhteytesi ja yritä uudelleen.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Käännettäessä ilmeni ongelma. Yritä uudelleen.
@@ -189,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Kieltä { $language } ei valitettavasti tueta vielä.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Tätä kieltä ei valitettavasti tueta vielä.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Käännösasetukset
