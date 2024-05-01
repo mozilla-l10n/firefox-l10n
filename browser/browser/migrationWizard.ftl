@@ -55,6 +55,12 @@ migration-imported-edge-reading-list = Liosta leughaidh (o Edge)
 migration-no-permissions-message = Chan eil cothrom aig { -brand-short-name } air pròifilean brabhsairean eile a chaidh stàladh air an uidheam seo.
 migration-no-permissions-instructions = Airson dàta ion-phortadh o brabhsair eile fhathast, thoir cead-inntrigidh dha { -brand-short-name } do phasgan na pròifil aige.
 migration-no-permissions-instructions-step1 = Tagh “Air adhart”
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = Ann an ròghnaichear nam faidhlichean, tadhail air <code>{ $permissionsPath }</code> is tagh “Tagh seo”
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -70,13 +76,20 @@ migration-bookmarks-option-label = Comharran-lìn
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Annsachdan
 migration-logins-and-passwords-option-label = Clàraidhean a-steach is faclan-faire a shàbhail thu
+migration-passwords-option-label = Faclan-faire a shàbhail thu
 migration-history-option-label = An eachdraidh brabhsaidh
+migration-extensions-option-label = Leudachain
 migration-form-autofill-option-label = Dàta fèin-lìonadh fhoirmean
+migration-payment-methods-option-label = Dòighean pàighidh
+migration-cookies-option-label = Briosgaidean
+migration-session-option-label = Uinneagan is tabaichean
+migration-otherdata-option-label = Dàta eile
 migration-passwords-from-file-progress-header = Ion-phortaich faidhle fhaclan-faire
 migration-passwords-from-file-success-header = Chaidh na faclan-faire ion-phortadh
 migration-passwords-from-file = A’ toirt sùil airson faclan-faire
 migration-passwords-new = Faclan-faire ùra
 migration-passwords-updated = Faclan-faire làithreach
+migration-passwords-from-file-no-valid-data = Chan eil dàta dligheach airson faclan-faire san fhaidhle seo. Tagh faidhle eile.
 migration-passwords-from-file-picker-title = Ion-phortaich faidhle fhaclan-faire
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -110,6 +123,33 @@ migration-wizard-progress-success-new-passwords =
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
 migration-wizard-progress-success-updated-passwords = Chaidh { $updatedEntries } ùrachadh
+migration-bookmarks-from-file-picker-title = Ion-phortaich faidhle nan comharra-lìn
+migration-bookmarks-from-file-progress-header = Ag ion-phortadh nan comharran-lìn
+migration-bookmarks-from-file = Comharran-lìn
+migration-bookmarks-from-file-success-header = Chaidh na comharran-lìn ion-phortadh
+migration-bookmarks-from-file-no-valid-data = Chan eil dàta dligheach airson comharran-lìn san fhaidhle seo. Tagh faidhle eile.
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Sgrìobhainn HTML
+       *[other] Faidhle HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Faidhle JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } chomharra-lìn
+        [two] { $newEntries } chomharra-lìn
+        [few] { $newEntries } comharran-lìn
+       *[other] { $newEntries } comharra-lìn
+    }
 migration-import-button-label = Ion-phortaich
 migration-choose-to-import-from-file-button-label = Ion-phortaich o fhaidhle
 migration-import-from-file-button-label = Tagh faidhle
@@ -131,7 +171,9 @@ migration-list-bookmark-label = comharran-lìn
 migration-list-favorites-label = annsachdan
 migration-list-password-label = faclan-faire
 migration-list-history-label = eachdraidh
+migration-list-extensions-label = leudachain
 migration-list-autofill-label = dàta fèin-lìonaidh
+migration-list-payment-methods-label = dòighean pàighidh
 
 ##
 
@@ -139,6 +181,11 @@ migration-wizard-progress-header = Ag ion-phortadh dàta
 # This header appears in the final page of the migration wizard only if
 # all resources were imported successfully.
 migration-wizard-progress-done-header = Chaidh an dàta ion-phortadh
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Chaidh an dàta ion-phortadh
 migration-wizard-progress-icon-in-progress =
     .aria-label = Ag ion-phortadh…
 migration-wizard-progress-icon-completed =
@@ -182,6 +229,18 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } leudachan
+        [two] { $quantity } leudachan
+        [few] { $quantity } leudachain
+       *[other] { $quantity } leudachan
+    }
 
 ##
 
