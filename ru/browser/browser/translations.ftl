@@ -126,6 +126,13 @@ translations-manage-description = Загрузка языков для пере�
 translations-manage-all-language = Все языки
 translations-manage-download-button = Загрузить
 translations-manage-delete-button = Удалить
+translations-manage-intro = Задайте настройки языка и перевода сайта и управляйте языками, установленными для автономного перевода.
+translations-manage-install-description = Установите языки для автономного перевода
+translations-manage-language-install-button =
+    .label = Установить
+translations-manage-language-install-all-button =
+    .label = Установить все
+    .accesskey = е
 translations-manage-intro-2 = Задайте настройки языка и перевода сайта и управляйте языками, загруженными для автономного перевода.
 translations-manage-download-description = Загрузка языков для автономного перевода
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Возникла проблема с установкой языковых файлов. Пожалуйста, попробуйте ещё раз.
 translations-manage-error-download = При загрузке языковых файлов возникла проблема, пожалуйста, попробуйте ещё раз.
 translations-manage-error-delete = При удалении языковых файлов произошла ошибка, пожалуйста, попробуйте ещё раз.
-translations-manage-intro = Задайте настройки языка и перевода сайта и управляйте языками, установленными для автономного перевода.
-translations-manage-install-description = Установите языки для автономного перевода
-translations-manage-language-install-button =
-    .label = Установить
-translations-manage-language-install-all-button =
-    .label = Установить все
-    .accesskey = е
 translations-manage-error-remove = Произошла ошибка при удалении языковых файлов. Пожалуйста, попробуйте ещё раз.
 translations-manage-error-list = Не удалось получить список доступных языков для перевода. Обновите страницу, чтобы повторить попытку.
 translations-settings-title =
@@ -177,8 +177,45 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Закрыть
     .buttonaccesskeyaccept = ы
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Перевести выделенное…
+    .accesskey = т
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Перевести выделенное на { $language }
+    .accesskey = т
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Перевести текст ссылки…
+    .accesskey = т
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Перевести текст ссылки на { $language }
+    .accesskey = т
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Перевод
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = С
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = На
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Попробуйте другой исходный язык
 select-translations-panel-cancel-button =
     .label = Отмена
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Копировать
 select-translations-panel-translate-button =
     .label = Перевести
 select-translations-panel-try-again-button =
