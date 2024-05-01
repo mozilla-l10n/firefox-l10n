@@ -89,7 +89,7 @@ translations-panel-error-change-button =
 #
 # Variables:
 #   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = 抱歉，我們尚未支援 { $language }。
+translations-panel-error-unsupported-hint-known = 抱歉，我們尚未支援{ $language }。
 translations-panel-error-unsupported-hint-unknown = 抱歉，我們尚未支援此語言。
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
@@ -243,7 +243,7 @@ select-translations-panel-translation-failure-message =
 # Variables:
 #   $language (string) - The language of the document.
 select-translations-panel-unsupported-language-message-known =
-    .message = 抱歉，我們尚未支援 { $language }。
+    .message = 抱歉，我們尚未支援{ $language }。
 select-translations-panel-unsupported-language-message-unknown =
     .message = 抱歉，我們尚未支援此語言。
 # Text displayed on the menuitem that opens the Translation Settings page.
