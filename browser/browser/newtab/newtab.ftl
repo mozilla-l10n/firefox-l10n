@@ -279,3 +279,15 @@ newtab-custom-settings = Weitere Einstellungen verwalten
 
 newtab-wallpaper-title = Hintergrundbilder
 newtab-wallpaper-reset = Standard wiederherstellen
+newtab-wallpaper-light-red-panda = Roter Panda
+newtab-wallpaper-light-mountain = Weißer Berg
+newtab-wallpaper-light-sky = Himmel mit violetten und rosafarbenen Wolken
+newtab-wallpaper-light-color = Blaue, rosa und gelbe Formen
+newtab-wallpaper-light-landscape = Berglandschaft mit blauem Nebel
+newtab-wallpaper-light-beach = Strand mit Palme
+newtab-wallpaper-dark-aurora = Aurora Borealis
+newtab-wallpaper-dark-color = Rote und blaue Formen
+newtab-wallpaper-dark-panda = Roter Panda im Wald versteckt
+newtab-wallpaper-dark-sky = Stadtlandschaft mit Nachthimmel
+newtab-wallpaper-dark-mountain = Berg in der Landschaft
+newtab-wallpaper-dark-city = Violette Stadtlandschaft
