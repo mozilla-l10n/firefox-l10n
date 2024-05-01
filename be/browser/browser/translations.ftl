@@ -126,6 +126,13 @@ translations-manage-description = Сцягнуць мовы для перакл�
 translations-manage-all-language = Усе мовы
 translations-manage-download-button = Сцягнуць
 translations-manage-delete-button = Выдаліць
+translations-manage-intro = Вызначце параметры мовы і перакладу сайта і кіруйце мовамі, усталяванымі для аўтаномнага перакладу.
+translations-manage-install-description = Усталяваць мовы для перакладу па-за сеткаю
+translations-manage-language-install-button =
+    .label = Усталяваць
+translations-manage-language-install-all-button =
+    .label = Усталяваць усе
+    .accesskey = У
 translations-manage-intro-2 = Вызначце параметры мовы і перакладу сайтаў і кіруйце мовамі, сцягнутымі для аўтаномнага перакладу.
 translations-manage-download-description = Сцягванне моў для перакладу па-за сеткаю
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Пры ўсталяванні моўных файлаў узнікла праблема. Калі ласка, паспрабуйце яшчэ раз.
 translations-manage-error-download = Пры сцягванні моўных файлаў узнікла праблема. Калі ласка, паспрабуйце яшчэ раз.
 translations-manage-error-delete = Пры выдаленні моўных файлаў здарылася памылка. Калі ласка, паспрабуйце яшчэ раз.
-translations-manage-intro = Вызначце параметры мовы і перакладу сайта і кіруйце мовамі, усталяванымі для аўтаномнага перакладу.
-translations-manage-install-description = Усталяваць мовы для перакладу па-за сеткаю
-translations-manage-language-install-button =
-    .label = Усталяваць
-translations-manage-language-install-all-button =
-    .label = Усталяваць усе
-    .accesskey = У
 translations-manage-error-remove = Пры выдаленні моўных файлаў здарылася памылка. Калі ласка, паспрабуйце яшчэ раз.
 translations-manage-error-list = Не ўдалося атрымаць спіс даступных моў для перакладу. Абнавіце старонку, каб паўтарыць спробу.
 translations-settings-title =
@@ -177,12 +177,36 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Закрыць
     .buttonaccesskeyaccept = ц
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Пераклад
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = З
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = На
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Паспрабуйце іншую зыходную мову
 select-translations-panel-cancel-button =
     .label = Скасаваць
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Капіяваць
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Скапіявана
+select-translations-panel-done-button =
+    .label = Гатова
+select-translations-panel-translate-full-page-button =
+    .label = Перакласці ўсю старонку
 select-translations-panel-translate-button =
     .label = Перакласці
 select-translations-panel-try-again-button =
     .label = Паспрабаваць зноў
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Перакладзены тэкст з'явіцца тут.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Пераклад…
+select-translations-panel-init-failure-message =
+    .message = Не ўдалося загрузіць мовы. Праверце інтэрнэт-злучэнне і паўтарыце спробу.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Узнікла праблема з перакладам. Калі ласка, паспрабуйце яшчэ раз.
@@ -196,3 +220,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = На жаль, мы пакуль не падтрымліваем { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = На жаль, мы пакуль не падтрымліваем гэтую мову.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Налады перакладу
