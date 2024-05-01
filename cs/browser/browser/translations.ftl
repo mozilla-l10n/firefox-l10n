@@ -262,3 +262,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Omlouváme se, ale jazyk { $language } zatím není podporován.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Omlouváme se, ale tento jazyk zatím není podporován.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Nastavení překladu
