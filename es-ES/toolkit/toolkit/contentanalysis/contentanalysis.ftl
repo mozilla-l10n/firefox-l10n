@@ -78,6 +78,11 @@ contentanalysis-block-dialog-title-upload-file = No tiene permiso para subir est
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Según las políticas de protección de datos de su organización, no se le permite cargar el archivo “{ $filename }”. Póngase en contacto con su administrador para obtener más información.
 contentanalysis-block-dialog-title-clipboard = No tiene permiso para pegar este contenido.
+contentanalysis-block-dialog-body-clipboard = Según las políticas de protección de datos de su organización, no puede pegar este contenido. Póngase en contacto con su administrador para obtener más información.
+contentanalysis-block-dialog-title-dropped-text = No tiene permiso para soltar este contenido.
+contentanalysis-block-dialog-body-dropped-text = Según las políticas de protección de datos de su organización, no puede arrastrar y soltar este contenido. Póngase en contacto con su administrador para obtener más información.
+contentanalysis-block-dialog-title-print = No tiene permiso para imprimir este documento
+contentanalysis-block-dialog-body-print = Según las políticas de protección de datos de su organización, no tiene permiso para imprimir este documento. Póngase en contacto con su administrador para más información.
 contentanalysis-inprogress-quit-title = ¿Salir de { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Varias acciones están en marcha. Si sale de { -brand-shorter-name }, estas acciones no se completarán.
 contentanalysis-inprogress-quit-yesbutton = Sí, salir
