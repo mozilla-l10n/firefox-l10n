@@ -39,6 +39,7 @@ policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
 policy-DisableBuiltinPDFViewer = Eipe’aite PDF.js, PDF jehechaha oĩva { -brand-short-name } ndive.
 policy-DisableDefaultBrowserAgent = Omboyke pe kundahára ijypyguáva oñepyrũvo hembiapo. Kóva ojokupyty Windows ndive añoite; ambue plataforma ndorekói hesegua.
 policy-DisableDeveloperTools = Ejoko ñangarekohára rembiporúpe jeike.
+policy-DisableEncryptedClientHello = Eipe’a tembiapoite jeporu TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Eipe’a mbohapeha emondo hag̃ua neñe’ẽ pytyvõha poravorã guive (Emondo neñe’ẽ ha emomarandu tenda imarãva).
 policy-DisableFirefoxAccounts = Eipe’a mba’epytyvõrã { -fxaccount-brand-name } pegua, oĩhápe avei Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
