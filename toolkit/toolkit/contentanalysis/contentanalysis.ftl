@@ -58,7 +58,15 @@ contentanalysis-invalid-agent-signature-message = Kunne ikke verificere signatur
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Der opstod en fejl i kommunikationen med { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-no-agent-connected-message-content = Kunne ikke oprette forbindelse til { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Kunne ikke verificere signaturen for { $agent }. { $content }
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Upload af "{ $filename }" nægtet.
