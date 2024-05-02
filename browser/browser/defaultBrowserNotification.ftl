@@ -27,5 +27,14 @@ default-browser-prompt-button-secondary = Şimdi değil
 ## Windows 10 and 11.
 
 default-browser-guidance-notification-title = { -brand-short-name }’u varsayılan tarayıcınız yapmayı tamamlayın
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    1. adım: Ayarlar > Varsayılan uygulamalar kısmına gidin
+    2. adım: Aşağı inerek “Web tarayıcısı” ayarını bulun
+    3. adım: Bu ayara girip { -brand-short-name } tarayıcısını seçin
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    1. adım: Ayarlar > Varsayılan uygulamalar kısmına gidin
+    2. adım: { -brand-short-name } uygulamasını seçip “Varsayılan olarak ayarla”ya tıklayın
 default-browser-guidance-notification-info-page = Nasıl yapacağımı göster
 default-browser-guidance-notification-dismiss = Tamam
