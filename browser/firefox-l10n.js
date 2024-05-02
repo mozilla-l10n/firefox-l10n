@@ -3,5 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 #filter substitution
-
-pref("browser.startup.homepage", "chrome://browser/locale/browser.properties");
