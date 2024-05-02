@@ -56,6 +56,25 @@ contentanalysis-no-agent-connected-message = Impossible de se connecter à { $ag
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Échec de la vérification de la signature pour { $agent }. Transfert refusé pour la ressource : { $content }.
 # Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Une erreur est survenue pendant la communication avec { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Impossible de se connecter à { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Échec de la vérification de la signature pour { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Envoi de « { $filename } » refusé.
+contentanalysis-error-message-dropped-text = Glisser-déposer refusé.
+contentanalysis-error-message-clipboard = Collage refusé.
+contentanalysis-error-message-print = Impression refusée.
+contentanalysis-block-dialog-title-upload-file = Vous n’avez pas la permission d’envoyer ce fichier
+# Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = En raison des stratégies de protection des données de votre organisation, vous n’avez pas la permission d’envoyer le fichier « { $filename } ». Contactez votre administrateur pour plus d’informations.
 contentanalysis-block-dialog-title-clipboard = Vous n’avez pas la permission de coller ce contenu
