@@ -36,7 +36,7 @@ policy-DisableAccounts = Hesap tabanlı hizmetleri devre dışı bırak (eşitle
 policy-DisabledCiphers = Şifrelemeleri devre dışı bırak.
 policy-DefaultDownloadDirectory = Varsayılan indirme klasörünü ayarla.
 policy-DisableAppUpdate = Tarayıcının güncellenmesini engelle.
-policy-DisableBuiltinPDFViewer = Dahili { -brand-short-name } PDF göstericisi olan PDF.js’i devre dışı bırak.
+policy-DisableBuiltinPDFViewer = Dahili { -brand-short-name } PDF görüntüleyicisi olan PDF.js’i devre dışı bırak.
 policy-DisableDefaultBrowserAgent = Varsayılan tarayıcı agent’ının herhangi bir işlem yapmasını önle. Yalnızca Windows için geçerlidir. Diğer platformlarda agent yoktur.
 policy-DisableDeveloperTools = Geliştirici araçlarına erişimi engelle.
 policy-DisableFeedbackCommands = Yardım menüsünden geri bildirim göndermeye olanak sağlayan komutları (“Geri bildirim gönder” ve “Aldatıcı siteyi ihbar et”) devre dışı bırak.
@@ -108,7 +108,7 @@ policy-OverridePostUpdatePage = Güncelleme sonrası “Yenilikler” sayfasın�
 policy-PasswordManagerEnabled = Parolaları parola yöneticisine kaydetmeyi aç.
 policy-PasswordManagerExceptions = { -brand-short-name } tarayıcısının belirli sitelerde parola kaydetmesini engelle.
 # PDF.js and PDF should not be translated
-policy-PDFjs = Dahili { -brand-short-name } PDF göstericisi olan PDF.js’i devre dışı bırak veya yapılandır.
+policy-PDFjs = Dahili { -brand-short-name } PDF görüntüleyicisi olan PDF.js’i devre dışı bırak veya yapılandır.
 policy-Permissions2 = Kamera, mikrofon, konum, bildirim ve otomatik oynatma izinlerini yapılandır.
 policy-PictureInPicture = Görüntü içinde görüntü özelliğini aç veya kapat.
 policy-PopupBlocking = Belirli web sitelerin varsayılan olarak açılır pencere açmasına izin ver.
