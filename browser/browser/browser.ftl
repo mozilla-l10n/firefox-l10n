@@ -266,6 +266,7 @@ quickactions-extensions = Կառավարել ընդլայնումները
 quickactions-cmd-extensions = ընդլայնումներ
 # Opens the devtools web inspector
 quickactions-inspector2 = Բացել Մշակողի գործիքները
+quickactions-cmd-inspector = Զննիչ, մշակման գործիքներ
 # Opens about:logins
 quickactions-logins2 = Կառավարեք գաղտնաբառերը
 quickactions-cmd-logins = մուտքագրումներ, գաղտնաբառեր
