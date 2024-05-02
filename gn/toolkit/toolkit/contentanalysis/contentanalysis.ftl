@@ -18,6 +18,9 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } ohechahína oikova
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } ohechahína moñe’ẽrã ojepoíva he’iháicha atyguasu mba’ekuaarã porureko. Kóva ipukumiekuaa.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } ohechajeyhína omonguatiava’ekue he’iháicha atyguasu mba’ekuaarã porureko. Kóva ipukumievekuaa.
 contentanalysis-operationtype-clipboard = kuatiajokoha
 contentanalysis-operationtype-dropped-text = moñe’ẽrã ho’áva
 contentanalysis-operationtype-print = Mbokuatia
@@ -71,6 +74,7 @@ contentanalysis-error-message-dropped-text = Embosyryry ha epoi mbotovepyre
 contentanalysis-error-message-clipboard = Emboja mbotovepyre
 contentanalysis-error-message-print = Monguatia mbotovepyre.
 contentanalysis-block-dialog-title-upload-file = Noñemoneĩri ndéve ehupikuaa hag̃uáicha
+contentanalysis-block-dialog-title-clipboard = Noñemoĩri ndéve embojakuaa hag̃ua ko tetepy
 contentanalysis-block-dialog-title-dropped-text = Noñemoĩri ndéve epoikuaa hag̃ua ko tetepy
 contentanalysis-block-dialog-title-print = Noñemoĩri ndéve omonguatiávo ko kuatia
 contentanalysis-inprogress-quit-title = ¿Esẽ { -brand-shorter-name }-gui?
