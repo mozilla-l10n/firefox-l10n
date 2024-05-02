@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Contrasté
     .title = Couleurs du thème contrasté
 about-reader-color-theme-custom = Couleurs personnalisées
     .title = Couleurs du thème personnalisé
+about-reader-color-light-theme = Clair
+    .title = Thème clair
+about-reader-color-dark-theme = Sombre
+    .title = Thème sombre
+about-reader-color-sepia-theme = Sépia
+    .title = Thème sépia
+about-reader-color-auto-theme = Auto
+    .title = Thème auto
+about-reader-color-gray-theme = Gris
+    .title = Thème gris
+about-reader-color-contrast-theme = Contrasté
+    .title = Thème contrasté
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Sans sérif
 about-reader-toolbar-close = Quitter le mode lecture
 about-reader-toolbar-type-controls = Modifier la police
 about-reader-toolbar-color-controls = Couleurs
+about-reader-toolbar-text-layout-controls = Texte et mise en page
+about-reader-toolbar-theme-controls = Thème
 about-reader-toolbar-savetopocket = Enregistrer dans { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -85,3 +99,28 @@ about-reader-custom-colors-visited-links = Liens visités
 about-reader-custom-colors-selection-highlight = Surligneur pour la lecture à haute voix
     .title = Modifier la couleur
 about-reader-custom-colors-reset-button = Rétablir les valeurs par défaut
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Mise en page
+about-reader-advanced-layout-header = Avancé
+about-reader-slider-label-width-narrow = Fine
+about-reader-slider-label-width-wide = Large
+about-reader-slider-label-spacing-narrow = Fine
+about-reader-slider-label-spacing-standard = Standard
+about-reader-slider-label-spacing-wide = Large
+about-reader-content-width-label =
+    .label = De la largeur du contenu
+about-reader-line-spacing-label =
+    .label = Interligne
+about-reader-character-spacing-label =
+    .label = Espacement des caractères
+about-reader-word-spacing-label =
+    .label = Espacement des mots
+about-reader-text-alignment-label = Alignement du texte
+about-reader-text-alignment-left =
+    .title = Aligner le texte à gauche
+about-reader-text-alignment-center =
+    .title = Centrer le texte
+about-reader-text-alignment-right =
+    .title = Aligner le texte à droite
