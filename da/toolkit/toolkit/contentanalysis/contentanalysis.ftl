@@ -55,6 +55,16 @@ contentanalysis-no-agent-connected-message = Kunne ikke oprette forbindelse til 
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Kunne ikke verificere signaturen for { $agent }. Overførsel blev nægtet for ressourcen { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Kunne ikke oprette forbindelse til { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Upload af "{ $filename }" nægtet.
+contentanalysis-error-message-dropped-text = Træk og slip nægtet.
+contentanalysis-error-message-clipboard = Indsæt nægtet.
+contentanalysis-error-message-print = Udskrivning nægtet.
 contentanalysis-block-dialog-title-upload-file = Du har ikke tilladelse til at uploade denne fil
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
