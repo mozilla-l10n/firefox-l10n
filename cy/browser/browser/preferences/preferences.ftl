@@ -590,7 +590,7 @@ home-prefs-recommended-by-description-generic = Cynnwys eithriadol wedi'i gasglu
 
 home-prefs-recommended-by-learn-more = Sut mae'n gweithio
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = Straeon wedi eu Noddi
+    .label = Straeon wedi’u noddi
 home-prefs-recommended-by-option-recent-saves =
     .label = Dangos Eitemau wedi'u Cadw'n Diweddar
 home-prefs-highlights-option-visited-pages =
@@ -906,7 +906,7 @@ forms-breach-alerts =
     .accesskey = r
 forms-breach-alerts-learn-more-link = Darllen rhagor
 preferences-relay-integration-checkbox =
-    .label = Awgrymu arallewnau e-byst { -relay-brand-name } i ddiogelu eich cyfeiriad e-bost
+    .label = Awgrymu arallenwau e-byst { -relay-brand-name } i ddiogelu eich cyfeiriad e-bost
 preferences-relay-integration-checkbox2 =
     .label = Awgrymu arallenwau e-byst { -relay-brand-name } i ddiogelu eich cyfeiriad e-bost
     .accesskey = w

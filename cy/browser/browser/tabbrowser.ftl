@@ -165,7 +165,7 @@ tabbrowser-context-mute-tab =
     .label = Tewi Tab
     .accesskey = T
 tabbrowser-context-unmute-tab =
-    .label = Tab Dad-dewi
+    .label = Dad-dewi Tab
     .accesskey = D
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
