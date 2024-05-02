@@ -602,6 +602,12 @@ urlbar-result-action-copy-to-clipboard = Нусха бардоштан
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## Strings used for buttons in the urlbar
+
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = Ҷустуҷӯ тавассути { $engine }
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -896,6 +902,9 @@ tabs-toolbar-list-all-tabs =
 restore-session-startup-suggestion-message = <strong>Варақаҳои қаблиро мекушоед?</strong> Шумо метавонед ҷаласаи қаблии худро тавассути менюи барномаи «{ -brand-short-name }» <img data-l10n-name="icon"/>, дар зери «Таърих», кушоед.
 restore-session-startup-suggestion-button = Нишон медиҳад, ки чӣ тавр
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = «{ -brand-short-name }» баъзе маълумотро ба «{ -vendor-short-name }» ба таври худкор ирсол мекунад, то ки мо тавонем таҷрибаи шуморо такмил диҳем.
@@ -904,6 +913,7 @@ data-reporting-notification-button =
     .accesskey = И
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Тамошокунии махфӣ
+content-analysis-panel-title = Муҳофизати маълумот
 
 ## Unified extensions (toolbar) button
 

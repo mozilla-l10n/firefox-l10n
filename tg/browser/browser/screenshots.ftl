@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Кӯшиш карда, минтақаер�
 screenshots-component-retry-button =
     .title = Такроран гирифтани акси экран
     .aria-label = Такроран гирифтани акси экран
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Бекор кардан (тугмаи «Esc»)
+           *[other] Бекор кардан (тугмаи «Esc»)
+        }
+    .aria-label = Бекор кардан
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Нусха бардоштан (тугмаи «{ $shortcut }»)
+    .aria-label = Нусха бардоштан
 screenshots-component-copy-button-label = Нусха бардоштан
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Боргирӣ кардан (тугмаи «{ $shortcut }»)
+    .aria-label = Боргирӣ кардан
 screenshots-component-download-button-label = Боргирӣ кардан
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
