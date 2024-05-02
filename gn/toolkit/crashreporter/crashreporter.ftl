@@ -6,6 +6,8 @@ crashreporter-branded-title = { -brand-short-name } marandu jejavyguáva
 crashreporter-apology = Rombyasy
 crashreporter-crashed-and-restore = { -brand-short-name } iñapañuãi ha ndoikói. Roñeha’ãta romyatyrõ tendayke ha ovetãnguéra oñepyrũjey vove.
 crashreporter-plea = Orepytyvõ hag̃ua rojuhu ha romyatyrõ ko apañuãi, ikatu egueruka oréve marandu’i jejavy rehegua.
+crashreporter-information = Ko tembiporu’i oku’ejeýta jejavy rire omomarandu hag̃ua apañuãi { -vendor-short-name }-pe. Ndereiporuiva’erã peichaite.
+crashreporter-error = { -brand-short-name } ojuhu peteĩ apañuãi ha ndoikói. Ivaimíramo jepe, ndaikatúi oñemomarandu ko jejavy rehegua.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Mba’eju’i: { $details }
 crashreporter-no-run-message = Ko tembiporu’i oku’ejeýta jejavy rire omomarandu hag̃ua pe apañuãi tembiporu’i me’ẽhárape. Ndereiporuiva’erã pepete.
