@@ -6,20 +6,28 @@ password-quality-meter = Գաղտնաբառի ապահովությունը
 
 ## Change Password dialog
 
+change-device-password-window =
+    .title = Փոխել գաղտնաբառը
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Անվտանգության Սարք: { $tokenName }
 change-password-old = Առկա գաղտնաբառը.
 change-password-new = Նոր Գաղտնաբառը.
 change-password-reenter = Նոր գաղտնաբառ (կրկին) ՝
+pippki-failed-pw-change = Չստացվեց փոխել գաղտնաբառը:
+pippki-incorrect-pw = Դուք չեք մուտքագրել գործող վավեր գաղտնաբառը: Խնդրում ենք փորձել նորից:
+pippki-pw-change-ok = Գաղտնաբառը հաջողությամբ փոխվեց:
+pippki-pw-empty-warning = Ձեր պահված գաղտնաբառերը և փակ բանալիները պաշտպանված չեն լինի:
+pippki-pw-erased-ok = Դուք ջնջեցիք Ձեր գաղտնաբառը: { pippki-pw-empty-warning }
+pippki-pw-not-wanted = Զգուշացու՛մ, Դուք որոշեցիք գաղտնաբառ չգործածել: { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 
 reset-primary-password-window2 =
-    .title = Վերակայել Հիմնական գաղտնաբառը
+    .title = Վերակայել հիմնական գաղտնաբառը
     .style = min-width: 40em
 reset-password-button-label =
-    .label = Վերադարձնել
+    .label = Վերակայել
 reset-primary-password-text = Եթե մաքրեք Ձեր Հիմնական գաղտնաբառը, ապա բոլոր պահպանված Վեբ և Էլ. Փոստ գաղտնաբառերը, անհատական հավատարմագրերը, անձնական բանալիները կմոռացվեն: Համոզվա՞ծ եք, որ ցանկանում եք վերակայել Հիմնական գաղտնաբառը:
 pippki-reset-password-confirmation-title = Վերակայել Հիմնական գաղտնաբառը
 pippki-reset-password-confirmation-message = Ձեր հիմնական գաղտնաբառը վերակայվել է:
@@ -48,6 +56,9 @@ client-auth-window =
     .title = Օգտվողի Նույնացման Հարցում
 client-auth-site-description = Այս հանգույց պահանջում է, որ դուք Ձեր Վկայագիրը ներկայացնեք.
 client-auth-choose-cert = Ընտրեք թվային ինքնությունը ներկայացնող Վկայագիրը.
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = «{ $hostname }»-ը պահանջել է Ձեր նույնականացնումը հետևյալ արտոնագրով՝
 client-auth-cert-details = Ընտրված Վկայագրի մանրամասները.
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

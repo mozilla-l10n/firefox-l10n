@@ -210,10 +210,10 @@ main-context-menu-media-loop =
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = Ցուցադրել ղեկավարիչներին
+    .label = Ցուցադրել կառավարները
     .accesskey = Ց
 main-context-menu-media-hide-controls =
-    .label = Թաքցնել ղեկավարիչները
+    .label = Թաքցնել կառավարները
     .accesskey = Թ
 
 ##
@@ -236,10 +236,10 @@ main-context-menu-image-view-new-tab =
     .label = Բացել պատկերը նոր ներդիրում
     .accesskey = I
 main-context-menu-video-view-new-tab =
-    .label = Բացել Տեսանյութը նոր ներդիրում
-    .accesskey = i
+    .label = Բացել տեսանյութը նոր ներդիրում
+    .accesskey = ն
 main-context-menu-image-copy =
-    .label = Կրկնօրինակել Նկարը
+    .label = Պատճենել նկարը
     .accesskey = ր
 main-context-menu-image-copy-link =
     .label = Պատճենել պատկերի հղումը
@@ -281,8 +281,8 @@ main-context-menu-video-email =
     .label = Տեսանյութը ուղարկել էլ. փոստով...
     .accesskey = ս
 main-context-menu-audio-email =
-    .label = Ուղարկել էլ. փոստով...
-    .accesskey = ր
+    .label = Ուղարկել ձայնանյութն էլ. փոստով...
+    .accesskey = ձ
 main-context-menu-save-to-pocket =
     .label = Պահպանել էջը { -pocket-brand-name }-ում
     .accesskey = k
