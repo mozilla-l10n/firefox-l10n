@@ -940,7 +940,7 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = 自动填写
-autofill-addresses-checkbox = 保存和自动填写密码
+autofill-addresses-checkbox = 保存和自动填写地址
     .accesskey = a
 autofill-saved-addresses-button = 保存的地址
     .accesskey = S
