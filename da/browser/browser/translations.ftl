@@ -177,6 +177,32 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Luk
     .buttonaccesskeyaccept = L
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Oversæt det markerede…
+    .accesskey = e
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Oversæt det markerede til { $language }
+    .accesskey = e
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Oversæt linktekst…
+    .accesskey = e
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Oversæt linktekst til { $language }
+    .accesskey = e
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Oversættelse
 # Text displayed above the from-language dropdown menu.
