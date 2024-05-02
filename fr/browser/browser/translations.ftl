@@ -205,6 +205,10 @@ main-context-menu-translate-link-text-to-language =
     .accesskey = r
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Traduction
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Langue source :
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Langue cible :
 # Text displayed above the try-another-source-language dropdown menu.
 select-translations-panel-try-another-language-label = Essayer une autre langue source
 select-translations-panel-cancel-button =
