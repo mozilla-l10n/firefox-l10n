@@ -11,11 +11,25 @@ autofill-options-link-osx = Ձևը ինքնալրացնելու կարգավոր
 
 ## The credit card capture doorhanger
 
+credit-card-capture-save-button =
+    .label = Պահպանել
+    .accessKey = Պ
+credit-card-capture-cancel-button =
+    .label = Ոչ հիմա
+    .accessKey = Ա
+credit-card-capture-never-save-button =
+    .label = Երբեք չպահպանել քարտերը
+    .accessKey = Ե
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = Արդիացնե՞լ քարտը
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Մաքրել Ինքնալրացման ձևը
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-addresses-label = Կառավարել հասցեները
+# Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
+autofill-manage-payment-methods-label = Կառավարել վճարամիջոցները
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

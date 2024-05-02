@@ -16,13 +16,13 @@ videocontrols-exitfullscreen-button =
     .aria-label = Դուրս գալ Լիաէկրան վիճակից
 videocontrols-casting-button-label =
     .aria-label = Էկրանին
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Անջատել
-
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Նկար-նկարում
-
 videocontrols-error-aborted = Տեսանյութի բեռնումը կանգնեցվել է։
 videocontrols-error-network = Տեսանյութի վերարտադրումը կանգնեցվել է ցանցի սխալի պատճառով:
 videocontrols-error-decode = Տեսանյութը չի կարող վերարտադրվել, քանզի ֆայլը վնասված է:
@@ -30,7 +30,6 @@ videocontrols-error-src-not-supported = Տեսանյութի տեսակը կամ
 videocontrols-error-no-source = Չկա աջակցվող տեսանյութի և MIME-ի տեսակ:
 videocontrols-error-generic = Տեսանյութի վերարտադրումը կանգնեցվել է անհայտ սխալի պատճառով:
 videocontrols-status-picture-in-picture = Այս տեսանյութը նվագարկվում է Նկար֊Նկարում աշխատակերպում։
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -44,4 +43,12 @@ videocontrols-status-picture-in-picture = Այս տեսանյութը նվագա
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
+# This is a plain text version of the videocontrols-position-and-duration-labels
+# string, used by screenreaders.
+#
+# Variables:
+#   $position (String): The current media position
+#   $duration (String): The total video duration
+videocontrols-scrubber-position-and-duration =
+    .aria-label = Դիրքը
+    .aria-valuetext = { $position } / { $duration }

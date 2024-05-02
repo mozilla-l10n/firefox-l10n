@@ -14,12 +14,6 @@ about-processes-shutdown-tab =
 ## Process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
-##    $origin (String) The domain name for this process.
-##    $type (String) The raw type for this process. Used for unknown processes.
-
-## Process names
-## Variables:
-##    $pid (String) The process id of this process, assigned by the OS.
 
 
 ## Isolated process names
@@ -27,11 +21,14 @@ about-processes-shutdown-tab =
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 
+about-processes-web-isolated-process-private = { $origin }. գաղտնի ({ $pid })
+about-processes-with-coop-coep-process-private = { $origin }. գաղտնի ({ $pid }, մեկուսացված է կողմնակի ծագումից)
 
 ## Details within processes
 
 
 ## Utility process actor names
+
 
 ## Displaying CPU (percentage and total)
 ## Variables:

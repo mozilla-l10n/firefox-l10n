@@ -4,7 +4,6 @@
 
 page-title = Անսարքության տեղեկատվությունը
 page-subtitle = Այս էջը պարունակում է տեխնիկական ինֆորմացիա, որը կարող է օգտակար լինել, երբ դուք փորձում եք լուծել խնդիրը:Եթե դուք փնտրում եք { -brand-short-name }-ին վերաբերող ընդհանուր հարցերին պատասխաններ,փորձեք մեր <a data-l10n-name="support-link"> աջակցող կայքը </a>:
-
 crashes-title = Վթարի զեկույցներ
 crashes-id = Հաղորդագրության Համարը
 crashes-send-date = Ուղարկված
@@ -67,7 +66,6 @@ app-basics-location-service-key-google = Google Տեղադրության ծառ�
 app-basics-safebrowsing-key-google = Google անվտանգ զննարկման բանալի
 app-basics-key-mozilla = Mozilla-ի տեղադրության ծառայության բանալի
 app-basics-safe-mode = Ապահով կերպ
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Ցույց տալ Finder -ում
@@ -118,7 +116,6 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Ընթացքի տեսակը
 sandbox-sys-call-number = Համզանգ
 sandbox-sys-call-args = Փաստարկներ
-
 restart-in-troubleshoot-mode-label = Խափանաշտկման կերպ…
 clear-startup-cache-title = Փորձեք մաքրել ինքնամեկնարկի շտեմը
 clear-startup-cache-label = Մաքրել ինքնամեկնարկի շտեմը…
@@ -148,6 +145,12 @@ media-capabilities-enumerate = Վերցրեք գրառումները տվյալ�
 
 ## Codec support table
 
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+
 ##
 
 intl-title = Միջազգայնացում և տեղայնացում
@@ -155,7 +158,7 @@ intl-app-title = ՀԱվելվածի կարգավորումներ
 intl-locales-requested = Հարցված լեզուներ
 intl-locales-available = Մատչելի լեզուներ
 intl-locales-supported = Հավելվածի լեզուները
-intl-locales-default = Հիմնական լեզուն
+intl-locales-default = Սկզբնադիր լեզու
 intl-os-title = Օպերացիոն համակարգ
 intl-os-prefs-system-locales = Համակարգային լեզուներ
 intl-regional-prefs = Տաածաշրջանային նախապատվություններ
@@ -182,7 +185,6 @@ report-crash-for-days =
         [one] Վթարի զեկույցները վերջին { $days } օրում
        *[other] Վթարի զեկույցները վերջին { $days } օրում
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -190,7 +192,6 @@ crashes-time-minutes =
         [one] { $minutes } րոպե առաջ
        *[other] { $minutes } րոպե առաջ
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -198,7 +199,6 @@ crashes-time-hours =
         [one] { $hours } ժամ առաջ
        *[other] { $hours } ժամ առաջ
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -206,7 +206,6 @@ crashes-time-days =
         [one] { $days } օր առաջ
        *[other] { $days } օր առաջ
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -214,7 +213,6 @@ pending-reports =
         [one] Վթարի բոլոր զեկույցները (ներառյալ նշված ժամանակում { $reports } սպասող վթար)
        *[other] Վթարի բոլոր զեկույցները (ներառյալ նշված ժամանակում { $reports } սպասող վթարներ)
     }
-
 raw-data-copied = Չմշակված տվյալները պատճենվել են մեկուսաշրջույթ
 text-copied = Տեքստը պատճենուած է
 
@@ -227,11 +225,9 @@ blocked-mismatched-version = Արգելափակված է ձեր գրաֆիկայ
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Արգելված է տեսասարքի սարքավարի տարբերակի կողմից։ Փորձեք թարմացնել տեսաքարտի տարբերակը { $driverVersion }-ի կամ ավելի նորի։
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-ի ցուցիչները
-
 compositing = Կազմում
 hardware-h264 = Սարքաշարի H264 ապակոդավորում
 main-thread-no-omtc = հիմնական շղթա, ոչ OMTC
@@ -246,7 +242,6 @@ virtual-monitor-disp = Վիրտուալ ցուցասարքի ցուցադրու�
 
 found = Գտնվել է
 missing = Բացակայում է
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Նկարագրություն
@@ -269,15 +264,12 @@ webgl2-renderer = WebGL 2 սարքավարի նյութավորիչ
 webgl2-version = WebGL 2 սարքավարի տարբերակ
 webgl2-driver-extensions = WebGL 2 սարքավարի ընդլայնումներ
 webgl2-extensions = WebGL 2 ընդլայնումներ
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Սև ցուցակում, վթարի կոդը՝ { $failureCode }
-
 d3d11layers-crash-guard = D3D11 կազմարկիչ
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX  տեսանյութի ապակոդավորիչ
-
 reset-on-next-restart = Վերակայել հաջորդ վերամեկնարկից
 gpu-process-kill-button = Ավարտել GPU ընթացքը
 gpu-device-reset = Սարքի վերականգնում
@@ -287,10 +279,8 @@ content-uses-tiling = Կցաշարման օգտագործման (Բովանդա�
 off-main-thread-paint-enabled = Հիմնական շղթայից դուրս գծագրումը թույլատրված է
 off-main-thread-paint-worker-count = Հիմնական շղթայից դուրս Գծագրման աշխատողների թիվը
 target-frame-rate = Թիրախային կադրի արագություն
-
 min-lib-versions = Ակնկալվող նվազագույն տարբերակը
 loaded-lib-versions = Օգտագործվող տարբերակը
-
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp շղթայի համաժամեցում
 has-user-namespaces = Օգտվողի անվան բացատներ
@@ -303,23 +293,21 @@ sandbox-proc-type-content = բովանդակությունը
 sandbox-proc-type-file = ֆայլի բովանդակություն
 sandbox-proc-type-media-plugin = մեդիա բաղադրիչ
 sandbox-proc-type-data-decoder = տվյալների վերծանիչ
-
 startup-cache-title = Ինքնամեկնարկի շտեմ
 startup-cache-disk-cache-path = Հիշասարքի շտեմի ուղի
 startup-cache-ignore-disk-cache = Անտեսել հիշասարքի շտեմը
 startup-cache-found-disk-cache-on-init = Սկզբնավորման ժամանակ գտնվել է հիշասարքի շտեմ
 startup-cache-wrote-to-disk-cache = Գրվել է հիշասարքի շտեմում
-
 launcher-process-status-0 = Միացված
 launcher-process-status-1 = Անջատված է ձախողման պատճառով
 launcher-process-status-2 = Ուժով անջատված
 launcher-process-status-unknown = Անհայտ իրավիճակ
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
-
+fission-status-enabled-by-default = Միացված՝ ըստ սկզբնադիրի
+fission-status-disabled-by-default = Անջատված՝ ըստ սկզբնադիրի
 async-pan-zoom = Չհամաժամված շեղում/Դիտափոխում
 apz-none = նշում
 wheel-enabled = անիվի ներածումը միացված է
@@ -347,4 +335,10 @@ support-printing-title = Տպում է
 support-printing-troubleshoot = Խափանաշտկում
 
 ## Normandy sections
+
+
+## Pointing devices
+
+
+## Content Analysis (DLP)
 

@@ -48,6 +48,8 @@ neterror-dns-not-found-hint-firewall = Ստուգեք, որ { -brand-short-name 
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-offline = Դուք միացված չեք համացանցին:
+neterror-dns-not-found-bad-trr-url = Անվավեր URL:
 
 ## Native fallback specific messages
 ## Variables:
