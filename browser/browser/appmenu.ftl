@@ -77,6 +77,16 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Намоиш додани варақаҳои бештар
     .tooltiptext = Намоиш додани варақаҳои бештар аз ин дастгоҳ
+# This is shown when there are inactive tabs which are not being shown.
+# Variables
+# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
+appmenu-remote-tabs-showinactive =
+    .label =
+        { $count ->
+            [one] Нишон додани як варақаи ғайрифаъол
+           *[other] Нишон додани { $count } варақаи ғайрифаъол
+        }
+    .tooltiptext = Нишон додани варақаҳои ғайрифаъол дар ин дастгоҳ
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ягон варақаи кушодашуда нест
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -269,3 +279,4 @@ appmenuitem-sign-in-account = Ба ҳисоби худ ворид шавед
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Фаъолияти худро дар Интернет муҳофизат намоед
