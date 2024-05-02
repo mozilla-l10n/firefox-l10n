@@ -438,4 +438,5 @@ content-analysis-title = Tetepy resa’ỹijo (DLP)
 content-analysis-active = Myandy
 content-analysis-connected-to-agent = Ojoaju pytyvõha rehe
 content-analysis-agent-path = Pytyvõha rape
+content-analysis-agent-failed-signature-verification = Ojavy pe ñemboheraguapy jehechajey
 content-analysis-request-count = Mba’ejerure papajey
