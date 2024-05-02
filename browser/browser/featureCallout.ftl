@@ -38,4 +38,6 @@ callout-pdfjs-edit-button = Հաջորդը
 callout-pdfjs-draw-title = Ստորագրեք փաստաթղթերը մեր նոր գծագրման գործիքով
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = Նշեք PDF ֆայլերը, այնուհետև պահեք ձեր փոփոխությունները:
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-b = Այլևս ոչ մի տպագրություն և սկանավորում: Նշեք PDF ֆայլերում, այնուհետև պահպանեք Ձեր փոփոխությունները:
 callout-pdfjs-draw-button = Հասկացա

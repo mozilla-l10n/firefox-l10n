@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Ավելացնել Որոնիչ
 newtab-topsites-add-shortcut-header = Նոր դյուրանցում
 newtab-topsites-edit-topsites-header = Խմբագրել Լավագույն կայքերը
 newtab-topsites-edit-shortcut-header = Խմբագրել դյուրանցումը
+newtab-topsites-add-shortcut-label = Ավելացնել դյուրանցում
 newtab-topsites-title-label = Անվանում
 newtab-topsites-title-input =
     .placeholder = Մուտքագրեք անվանում
