@@ -15,6 +15,10 @@ global-privacy-control-description =
     .label = Կայքերին հաղորդել, որ չտարածեն և չվաճառեն իմ տվյալները
     .accesskey = չ
 non-technical-privacy-header = Կայքի գաղտնիության նախընտրանքներ
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Կարգավորումներ
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -212,8 +216,8 @@ advanced-fonts =
     .accesskey = Լ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Դիտափոխել
-preferences-default-zoom = Լռելյայն դիտափոխում
-    .accesskey = z
+preferences-default-zoom = Սկզբնադիր դիտափոխում
+    .accesskey = դ
 # Variables:
 #   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
@@ -410,16 +414,19 @@ performance-limit-content-process-blocked-desc = Հնարավոր է փոփոխ�
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
-    .label = { $num } (լռելյայն)
+    .label = { $num } (սկզբնադիր)
 
 ## General Section - Browsing
 
 browsing-title = Դիտարկում
 browsing-use-autoscroll =
-    .label = Օգտագործել ինքնաթերթումը
+    .label = Օգտվել ինքնաոլորումից
     .accesskey = ի
 browsing-use-smooth-scrolling =
-    .label = Օգտագործել կոկիկ թերթումը
+    .label = Օգտվել սահուն ոլորումից
+    .accesskey = ո
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = Միշտ ցույց տալ ոլորագոտները
     .accesskey = ո
 browsing-always-underline-links =
     .label = Միշտ ընդգծել հղումները
@@ -470,12 +477,14 @@ home-newtabs-mode-label = Նոր Ներդիրներ
 home-restore-defaults =
     .label = Վերականգնել ծրագրայինը
     .accesskey = R
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (սկզբնադիր)
 home-mode-choice-custom =
     .label = Հարմարեցված URL-ներ...
 home-mode-choice-blank =
     .label = Դատարկ էջ
 home-homepage-custom-url =
-    .placeholder = Տեղադրել URL-ն...
+    .placeholder = Փակցրեք URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -564,6 +573,11 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ցուցադրել որոնման առաջարկները հասցեի գոտու արդյունքներում
     .accesskey = l
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = Ցուցադրել որոնման եզրույթները URL-ի փոխարեն՝ սկզբնադիր որոնիչի արդյունքների էջում
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -640,6 +654,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Փոխել պրոֆիլի նկարը
     .alt = Փոխել պրոֆիլի նկարը
+fxa-login-rejected-warning =
+    .alt = Նախագուշացում
 sync-sign-out =
     .label = Դուրս գալ…
     .accesskey = g

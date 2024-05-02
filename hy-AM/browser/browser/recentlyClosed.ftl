@@ -26,5 +26,5 @@ recently-closed-undo-close-window-label =
     { $tabCount ->
         [0] { $winTitle }
         [one] { $winTitle } (և { $tabCount } այլ ներդիր)
-       *[other] { $winTitle } (և { $tabCount } այլ ներդիրներ)
+       *[other] { $winTitle } (և { $tabCount } այլ ներդիր)
     }

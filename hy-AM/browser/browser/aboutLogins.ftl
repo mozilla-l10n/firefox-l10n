@@ -379,6 +379,7 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = Պատրաստ է
 about-logins-import-dialog-error-title = Ներմուծման սխալ
+about-logins-import-dialog-error-conflicting-values-title = Մի քանի հակասող արժեքներ մեկ մուտքի համար
 about-logins-import-dialog-error-file-format-title = Ֆայլի ձևաչափի խնդիր
 about-logins-import-dialog-error-file-permission-title = Հնարավոր չէ կարդալ նիշքը
 about-logins-import-dialog-error-unable-to-read-title = Հնարավոր չէ կարդալ ֆայլը

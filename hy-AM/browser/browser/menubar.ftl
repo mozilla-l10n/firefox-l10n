@@ -60,21 +60,21 @@ menu-file-new-tab =
     .label = Նոր Ներդիր
     .accesskey = Ն
 menu-file-new-container-tab =
-    .label = Նոր Պարունակ ներդիր
-    .accesskey = դ
+    .label = Նոր պարունակ ներդիր
+    .accesskey = ր
 menu-file-new-window =
-    .label = Նոր Պատուհան
+    .label = Նոր պատուհան
     .accesskey = Ն
 menu-file-new-private-window =
-    .label = Սկսել Գաղտնի դիտարկում
-    .accesskey = Գ
+    .label = Նոր գաղտնի պատուհան
+    .accesskey = Պ
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
 menu-file-open-location =
-    .label = Բացել Հասցե…
+    .label = Բացել հասցե…
 menu-file-open-file =
-    .label = Բացել Ֆայլ…
+    .label = Բացել ֆայլ…
     .accesskey = Բ
 # Variables:
 #  $tabCount (Number): the number of tabs that are affected by the action.
@@ -87,14 +87,14 @@ menu-file-close-tab =
         }
     .accesskey = C
 menu-file-close-window =
-    .label = Փակել Պատուհանը
+    .label = Փակել պատուհանը
     .accesskey = տ
 menu-file-save-page =
     .label = Պահպանել Էջը որպես…
     .accesskey = ո
 menu-file-email-link =
-    .label = Հղումը ուղարկել էլ. փոստով...
-    .accesskey = Հ
+    .label = Ուղարկել հղումը էլ. փոստով...
+    .accesskey = Ո
 menu-file-share-url =
     .label = Համօգտագործել
     .accesskey = h

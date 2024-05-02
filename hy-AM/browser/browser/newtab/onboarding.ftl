@@ -163,6 +163,8 @@ mr2022-onboarding-secondary-skip-button-label = Բաց թողնել այս քա�
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = Պահել և շարունակել
 # Set Default action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-set-default-checkbox-label = Կայել { -brand-short-name }-ը որպես սկզբնադիր զննիչ
 
@@ -215,6 +217,7 @@ mr2022-onboarding-get-started-primary-button-label = Տեղակայեք վայր
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-primary-button-label-no-attribution = Ներմուծել նախորդ դիտարկիչից
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
@@ -224,12 +227,18 @@ mr2022-onboarding-get-started-primary-button-label = Տեղակայեք վայր
 mr2022-onboarding-colorway-title = Ընտրեք այն գույնը, որը ձեզ ոգեշնչում է
 mr2022-onboarding-colorway-subtitle = Անկախ ձայները կարող են փոխել մշակույթը:
 mr2022-onboarding-colorway-primary-button-label-continue = Սահմանել և շարունակել
+mr2022-onboarding-existing-colorway-checkbox-label = Դարձրեք { -firefox-home-brand-name }-ը Ձեր գունավոր տնէջը
 mr2022-onboarding-colorway-label-default = Սկզբնադիր
+mr2022-onboarding-colorway-tooltip-default2 =
+    .title = { -brand-short-name }-ի գործող գույները
 mr2022-onboarding-colorway-label-playmaker = Փլեյմեյքեր
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Փլեյմեյքեր (կարմիր)
 mr2022-onboarding-colorway-description-playmaker = <b>Դուք փլեյմեյքեր եք:</b> Դուք հնարավորություններ եք ստեղծում հաղթելու և օգնում եք ձեր շրջապատի բոլորին բարձրացնել իրենց խաղը:
 mr2022-onboarding-colorway-description-visionary = <b>Դուք տեսաբան եք:</b> Դուք կասկածի տակ եք դնում ստատուս քվոն և դրդում ուրիշներին պատկերացնել ավելի լավ ապագա:
+mr2022-onboarding-colorway-label-activist = Ակտիվիստ
+mr2022-onboarding-colorway-tooltip-activist2 =
+    .title = Ակտիվիստ (կապույտ)
 mr2022-onboarding-colorway-description-innovator = <b>Դուք նորարար եք:</b> Դուք տեսնում եք հնարավորություններ ամենուր և ազդեցություն եք թողնում ձեր շրջապատի բոլոր մարդկանց կյանքի վրա:
 
 ## MR2022 Multistage Mobile Download screen strings
@@ -249,6 +258,8 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 ## MR2022 Privacy Segmentation screen strings
 
+mr2022-onboarding-privacy-segmentation-button-primary-label = Օգտվել { -brand-product-name }-ի խորհուրդներից
+mr2022-onboarding-privacy-segmentation-button-secondary-label = Ցուցադրել մանրամասն տեղեկություն
 
 ## MR2022 Multistage Gratitude screen strings
 

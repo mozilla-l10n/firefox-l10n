@@ -128,6 +128,7 @@ spotlight-public-wifi-vpn-link = Ոչ հիմա
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = Լավ համացանցը սկսվում է Ձեզանից
 spotlight-pin-secondary-button = Ոչ հիմա
 
 ## MR2022 Background Update Windows native toast notification strings.
