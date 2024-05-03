@@ -32,8 +32,13 @@ unified-extensions-context-menu-remove-extension =
     .label = Հեռացնել ընդլայնումը
 unified-extensions-context-menu-report-extension =
     .label = Զեկուցել ընդլայնման մասին
+unified-extensions-context-menu-move-widget-up =
+    .label = Վեր
+unified-extensions-context-menu-move-widget-down =
+    .label = Վար
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-title = Որոշ ընդլայնումներ չեն թույլատրվում
 unified-extensions-mb-quarantined-domain-learn-more = Իմանալ ավելին
     .aria-label = Իմանալ ավելին. որոշ ընդլայնումներ են թույլատրվում

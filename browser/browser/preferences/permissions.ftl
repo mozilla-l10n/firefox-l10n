@@ -106,6 +106,10 @@ permissions-exceptions-saved-logins-desc = Հետևյալ կայքերի մու�
 
 ## Exceptions - Saved Passwords
 
+permissions-exceptions-saved-passwords-window =
+    .title = Բացառություններ. պահված գաղտնաբառեր
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = { -brand-short-name }-ը չի պահի այստեղ թվարկված կայքերի գաղտնաբառերը:
 
 ## Exceptions - Add-ons
 

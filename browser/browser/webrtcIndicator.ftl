@@ -40,6 +40,8 @@ webrtc-microphone-unmuted =
     .title = Անջատել խոսափողը
 webrtc-microphone-muted =
     .title = Միացնել խոսափողը
+webrtc-camera-unmuted =
+    .title = Անջատել տեսախցիկը
 webrtc-camera-muted =
     .title = Միացնել տեսախցիկը
 webrtc-minimize =
@@ -49,8 +51,12 @@ webrtc-minimize =
 ## device sharing state in the OS notification area. We do not use these strings
 ## on macOS, as global menu bar items do not have native tooltips.
 
+webrtc-camera-system-menu =
+    .label = Դուք տարածում եք Ձեր տեսախցիկը: Սեղմեք՝ տարածումը կառավարելու համար:
 webrtc-microphone-system-menu =
     .label = Դուք համօգտագործում եք ձեր խոսափողը: Սեղմեք՝ համօգտագործումը կառավարելու համար:
+webrtc-screen-system-menu =
+    .label = Դուք տարածում եք պատուհան կամ էկրան: Սեղմեք՝ տարածումը կառավարելու համար:
 
 ## Tooltips used by the legacy global sharing indicator
 
@@ -133,6 +139,8 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Թույլատրե՞լ { $origin }-ին լսել այս ներդիրի ձայնը:
+webrtc-allow-share-camera = Թույլատրե՞լ { $origin }-ին օգտագործել Ձեր տեսախցիկը:
 webrtc-allow-share-microphone = Թույլատրե՞լ { $origin }-ին օգտագործել Ձեր խոսափողը:
 webrtc-allow-share-screen = Թույլատրե՞լ { $origin }-ին տեսնել Ձեր էկրանը:
 # "Speakers" is used in a general sense that might include headphones or

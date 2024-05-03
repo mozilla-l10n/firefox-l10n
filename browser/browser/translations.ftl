@@ -66,6 +66,14 @@ translations-panel-error-dismiss-button =
     .label = Հասկացա
 translations-panel-error-change-button =
     .label = Փոխել աղբյուրի լեզուն
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Ներողություն, մենք դեռ չենք աջակցում { $language }-ը:
+translations-panel-error-unsupported-hint-unknown = Ներողություն, մենք դեռ չենք աջակցում այս լեզուն:
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -88,6 +96,21 @@ translations-manage-settings-button =
     .label = Կարգավորումներ...
     .accesskey = t
 translations-manage-description = Ներբեռնել լեզուներ անցանց թարգմանության համար:
+translations-manage-all-language = Բոլոր լեզուները
+translations-manage-download-button = Ներբեռնել
+translations-manage-delete-button = Ջնջել
+translations-manage-intro = Սահմանեք լեզվի և կայքի թարգմանության Ձեր նախընտրանքները և կառավարեք անցանց թարգմանության համար տեղադրված լեզուները:
+translations-manage-install-description = Տեղադրել լեզուներ անցանց թարգմանության համար
+translations-manage-language-install-button =
+    .label = Տեղադրել
+translations-manage-language-install-all-button =
+    .label = Տեղադրել բոլորը
+    .accesskey = Տ
+translations-manage-language-remove-button =
+    .label = Հեռացնել
+translations-manage-language-remove-all-button =
+    .label = Հեռացնել բոլորը
+    .accesskey = e
 translations-settings-title =
     .title = Թարգմանության կարգավորումներ
     .style = min-width: 36em
