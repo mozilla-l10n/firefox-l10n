@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Mehrere Tabs schließen
     .accesskey = M
+tab-context-close-duplicate-tabs =
+    .label = Doppelte Tabs schließen
+    .accesskey = D
 tab-context-share-url =
     .label = Teilen
     .accesskey = T
@@ -102,7 +105,6 @@ tab-context-move-tabs =
            *[other] Tabs verschieben
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
