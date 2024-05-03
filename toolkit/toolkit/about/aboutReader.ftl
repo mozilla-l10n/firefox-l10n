@@ -62,6 +62,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Κλείσιμο προβολής ανάγνωσης
 about-reader-toolbar-type-controls = Ρυθμίσεις τυπογραφίας
 about-reader-toolbar-color-controls = Χρώματα
+about-reader-toolbar-text-layout-controls = Κείμενο και διάταξη
+about-reader-toolbar-theme-controls = Θέμα
 about-reader-toolbar-savetopocket = Αποθήκευση στο { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -85,3 +87,7 @@ about-reader-custom-colors-visited-links = Σύνδεσμοι που έχετε 
 about-reader-custom-colors-selection-highlight = Επισήμανση για εκφώνηση
     .title = Επεξεργασία χρώματος
 about-reader-custom-colors-reset-button = Επαναφορά προεπιλογών
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Διάταξη
