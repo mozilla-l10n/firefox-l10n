@@ -11,7 +11,7 @@ about-private-browsing-search-btn =
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =
-    .title = Որոնեք { $engine }-ով կամ մուտքագրեք հասցեն
+    .title = Որոնեք { $engine }-ով կամ մուտքագրեք հասցե
 about-private-browsing-handoff-no-engine =
     .title = Որոնեք կամ մուտքագրեք հասցեն
 # Variables
