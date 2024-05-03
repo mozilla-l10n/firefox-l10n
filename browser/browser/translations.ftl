@@ -133,8 +133,13 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Ҳамаро насб кардан
     .accesskey = Ҳ
+translations-manage-intro-2 = Хусусиятҳои забон ва тарҷумаи сомонаро танзим кунед ва забонҳои боргиришударо барои тарҷумаҳои офлайн идора намоед.
+translations-manage-download-description = Барои тарҷума дар реҷаи офлайн бе пайвасти Интернет забонҳоро боргирӣ намоед
 translations-manage-language-download-button =
     .label = Боргирӣ кардан
+translations-manage-language-download-all-button =
+    .label = Ҳамаро боргирӣ кардан
+    .accesskey = Ҳ
 translations-manage-language-remove-button =
     .label = Тоза кардан
 translations-manage-language-remove-all-button =
@@ -172,6 +177,32 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Пӯшидан
     .buttonaccesskeyaccept = П
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Тарҷума кардани интихоб…
+    .accesskey = Т
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Тарҷума кардани интихоб ба забони { $language }
+    .accesskey = Т
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Тарҷума кардани матни пайванд…
+    .accesskey = Т
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Тарҷума кардани матни пайванд ба забони { $language }
+    .accesskey = Т
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Тарҷума
 # Text displayed above the from-language dropdown menu.

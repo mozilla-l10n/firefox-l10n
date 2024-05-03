@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Пӯшидани якчанд варақ
     .accesskey = П
+tab-context-close-duplicate-tabs =
+    .label = Пӯшидани варақаҳои такрорӣ
+    .accesskey = П
 tab-context-share-url =
     .label = Мубодила кардан
     .accesskey = М
@@ -102,7 +105,6 @@ tab-context-move-tabs =
            *[other] Ҷ
         }
     .accesskey = Ҷ
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
