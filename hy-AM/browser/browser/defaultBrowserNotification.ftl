@@ -5,16 +5,16 @@
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
 default-browser-notification-message = <strong>Կայե՞լ { -brand-short-name }-ը որպես Ձեր սկզբնադիր դիտարկիչ:</strong> Ստացեք արագ, անվտանգ և գաղտնի դիտարկում՝ երբ օգտվում եք համացանցից:
 default-browser-notification-button =
-    .label = Օգտագործել սկզբնադիր
-    .accesskey = S
+    .label = Կայել որպես սկզբնադիր
+    .accesskey = Կ
 
 ## These strings are used for the default browser prompt. There are 2 variations
 ## depending on the operating system (Windows vs other). The checkbox label and
 ## secondary button are shared between the variants.
 
-default-browser-prompt-title-pin = Դարձնե՞լ { -brand-short-name }-ը սկզբնադիր զննիչ:
+default-browser-prompt-title-pin = Դարձնե՞լ { -brand-short-name }-ը Ձեր հիմնական դիտարկիչը:
 default-browser-prompt-button-primary-pin = Դարձնել սկզբնադիր դիտարկիչ
-default-browser-prompt-title-alt = Դարձնե՞լ { -brand-short-name }-ը սկզբնադիր զննիչ:
+default-browser-prompt-title-alt = Դարձնե՞լ { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչ:
 default-browser-prompt-message-alt = Ստացեք արագություն, անվտանգություն և գաղտնիություն ամեն անգամ զննելիս:
 default-browser-prompt-button-primary-alt = Կայել որպես սկզբնադիր դիտարկիչ
 default-browser-prompt-checkbox-not-again-label = Այլևս չցուցադրել այս հաղորդագրությունը

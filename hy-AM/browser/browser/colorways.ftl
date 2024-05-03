@@ -9,6 +9,6 @@ playmaker-colorway-name = Փլեյմեյքեր
 playmaker-colorway-description = Դուք հնարավորություններ եք ստեղծում հաղթելու և օգնում եք ձեր շուրջը գտնվող բոլորին բարձրացնել իրենց խաղը:
 expressionist-colorway-name = Էքսպրեսիոնիստ
 visionary-colorway-name = Տեսլական
-activist-colorway-name = Ակտիվությունը
+activist-colorway-name = Ակտիվիստ
 dreamer-colorway-name = Երազող
 innovator-colorway-name = Նորարար

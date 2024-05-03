@@ -122,14 +122,14 @@ downloads-cmd-remove-file-panel =
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
-    .tooltiptext = Հեռացնել ֆայլը կամ Թույլատրել ներբեռնումը
+    .tooltiptext = Հեռացնել ֆայլը կամ թույլատրել ներբեռնումը
 downloads-cmd-choose-unblock-panel =
-    .aria-label = Հեռացնել ֆայլը կամ Թույլատրել ներբեռնումը
+    .aria-label = Հեռացնել ֆայլը կամ թույլատրել ներբեռնումը
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
-    .tooltiptext = Բացել կամ հեռացնել ֆայլը
+    .tooltiptext = Բացել կամ հեռացնել նիշքը
 downloads-cmd-choose-open-panel =
     .aria-label = Բացել կամ հեռացնել ֆայլը
 # Displayed when hovering a blocked download, indicates that it's possible to
@@ -150,13 +150,13 @@ downloads-open-file =
 ##   $minutes (number) - Amount of minutes till the file opens.
 
 downloading-file-opens-in-hours-and-minutes-2 =
-    .value = Կբացվի { $hours }ժ { $minutes } ր-ից...
+    .value = Կբացվի { $hours } ժ. { $minutes } ր.-ից...
 downloading-file-opens-in-minutes-2 =
     .value = Կբացվի { $minutes } ր-ից...
 downloading-file-opens-in-minutes-and-seconds-2 =
     .value = Կբացվի { $minutes } ր { $seconds } վ.-ից...
 downloading-file-opens-in-seconds-2 =
-    .value = Կբացվի { $seconds } վ-ից...
+    .value = Կբացվի { $seconds } վ.-ից...
 downloading-file-opens-in-some-time-2 =
     .value = Կբացվի ներբեռնելուց հետո…
 downloading-file-click-to-open =
@@ -219,7 +219,7 @@ downloads-more-downloading =
 
 ## Download errors
 
-downloads-error-alert-title = Բեռնման Սխալ
+downloads-error-alert-title = Ներբեռնման սխալ
 # Variables:
 #   $extension (String): the name of the blocking extension.
 downloads-error-blocked-by = Ներբեռնումը չի կարող պահպանվել, քանի որ այն արգելափակված է { $extension }-ի կողմից:
