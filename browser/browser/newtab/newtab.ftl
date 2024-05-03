@@ -277,3 +277,12 @@ newtab-custom-settings = Идоракунии танзимоти бештар
 
 newtab-wallpaper-title = Тасвирҳои замина
 newtab-wallpaper-reset = Ба ҳолати пешфарз барқарор кунед
+newtab-wallpaper-light-red-panda = Пандаи сурх
+newtab-wallpaper-light-mountain = Кӯҳи сафед
+newtab-wallpaper-light-sky = Осмон бо абрҳои лоҷувард ва гулобӣ
+newtab-wallpaper-light-color = Шаклҳои кабуд, гулобӣ ва зард
+newtab-wallpaper-light-landscape = Манзараи кӯҳӣ бо тумани кабуд
+newtab-wallpaper-light-beach = Соҳил бо дарахти хурмо
+newtab-wallpaper-dark-aurora = Дурахши қутбӣ
+newtab-wallpaper-dark-color = Шаклҳои сурх ва кабуд
+newtab-wallpaper-dark-panda = Пандаи сурх дар ҷангал пинҳон шудааст
