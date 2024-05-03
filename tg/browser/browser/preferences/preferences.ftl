@@ -564,6 +564,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Аз тарафи { $provider } тавсия дода мешавад
 home-prefs-recommended-by-description-new = Муҳтавои мустасно аз тарафи { $provider } интихоб карда шудааст ва қисми оилаи { -brand-product-name } мебошад
+home-prefs-recommended-by-header-generic =
+    .label = Ҳикояҳои тавсияшуда
 
 ##
 
@@ -704,6 +706,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Иваз кардани расми профил
     .alt = Иваз кардани расми профил
+sync-profile-picture-account-problem =
+    .alt = Расми профили ҳисоб
 fxa-login-rejected-warning =
     .alt = Огоҳӣ
 sync-sign-out =
