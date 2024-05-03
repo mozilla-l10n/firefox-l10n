@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Siere multiplis schedis
     .accesskey = M
+tab-context-close-duplicate-tabs =
+    .label = Siere schedis duplicadis
+    .accesskey = u
 tab-context-share-url =
     .label = Condivît
     .accesskey = C
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Sposte schedis
         }
     .accesskey = h
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

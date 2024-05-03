@@ -126,6 +126,19 @@ translations-manage-description = Discjame lis lenghis pe traduzion fûr rêt.
 translations-manage-all-language = Dutis lis lenghis
 translations-manage-download-button = Discjame
 translations-manage-delete-button = Elimine
+translations-manage-intro = Configure lis tôs preferencis relativis a lenghe e traduzion dai sîts e gjestìs lis lenghis instaladis pe traduzion fûr rêt.
+translations-manage-install-description = Instale lenghis pe traduzion fûr rêt
+translations-manage-language-install-button =
+    .label = Instale
+translations-manage-language-install-all-button =
+    .label = Instale dutis
+    .accesskey = I
+translations-manage-download-description = Discjame lenghis pe traduzion fûr rêt
+translations-manage-language-download-button =
+    .label = Discjame
+translations-manage-language-download-all-button =
+    .label = Discjame dutis
+    .accesskey = D
 translations-manage-language-remove-button =
     .label = Gjave
 translations-manage-language-remove-all-button =
@@ -134,13 +147,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Al è vignût fûr un probleme tal instalâ i files de lenghe. Torne prove.
 translations-manage-error-download = Al è vignût fûr un probleme tal discjariâ i files de lenghe. Torne prove.
 translations-manage-error-delete = Al è vignût fûr un probleme tal eliminâ i files de lenghe. Torne prove.
-translations-manage-intro = Configure lis tôs preferencis relativis a lenghe e traduzion dai sîts e gjestìs lis lenghis instaladis pe traduzion fûr rêt.
-translations-manage-install-description = Instale lenghis pe traduzion fûr rêt
-translations-manage-language-install-button =
-    .label = Instale
-translations-manage-language-install-all-button =
-    .label = Instale dutis
-    .accesskey = I
 translations-manage-error-remove = Al è vignût fûr un probleme tal gjavâi i files de lenghe. Torne prove.
 translations-manage-error-list = Impussibil otignî la liste des lenghis disponibilis pe traduzion. Inzorne la pagjine par tornâ a provâ.
 translations-settings-title =
@@ -170,6 +176,24 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Siere
     .buttonaccesskeyaccept = C
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Tradûs selezion…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Tradûs selezion par { $language }
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Tradûs test dal colegament…
+    .accesskey = n
 select-translations-panel-cancel-button =
     .label = Anule
 select-translations-panel-translate-button =
