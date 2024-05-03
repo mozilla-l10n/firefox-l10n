@@ -167,6 +167,8 @@ mr2022-onboarding-secondary-skip-button-label = Բաց թողնել այս քա�
 mr2022-onboarding-easy-setup-primary-button-label = Պահել և շարունակել
 # Set Default action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-set-default-checkbox-label = Կայել { -brand-short-name }-ը որպես սկզբնադիր զննիչ
+# Import action checkbox label used on new user onboarding first screen
+mr2022-onboarding-easy-setup-import-checkbox-label = Ներմուծել նախորդ դիտարկիչից
 
 ## MR2022 New User Pin Firefox screen strings
 

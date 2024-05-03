@@ -188,6 +188,7 @@ fox-doodle-pin-secondary = Ոչ հիմա
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>Ձեր PDF-ները բացվում են { -brand-short-name }-ում:</strong> Խմբագրեք կամ ստորագրեք ձևաթղթերը անմիջապես Ձեր դիտարկիչում: Սա փոխելու համար՝ որոնեք «PDF»-ը կարգավորումներում:
 set-default-pdf-handler-primary = Հասկացա
 
 ## FxA sync CFR
@@ -204,6 +205,8 @@ device-migration-fxa-spotlight-older-device-primary-button = Ստեղծել հա
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Դարձնե՞լ { -brand-short-name }-ը Ձեր սկզբնադիր PDF կարդացող:</strong> Օգտվեք { -brand-short-name }-ից՝ Ձեր համակարգիչում պահված PDF-ները կարդալու և խմբագրելու համար:
 pdf-default-notification-set-default-button =
     .label = Կայել որպես սկզբնադիր
 pdf-default-notification-decline-button =
@@ -225,4 +228,5 @@ launch-on-login-infobar-final-reject-button = Ոչ, շնորհակալությո
 
 ## Tail Fox Set Default Spotlight
 
+tail-fox-spotlight-primary-button = Բացել իմ հղումները { -brand-short-name }-ով
 tail-fox-spotlight-secondary-button = Ոչ հիմա

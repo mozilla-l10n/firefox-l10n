@@ -19,6 +19,9 @@ autofill-manage-edit-button = Խմբագրել…
 
 ## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Պահպանե՞լ հասցեն
+address-capture-update-doorhanger-header = Թարմացնե՞լ հասցեն
+address-capture-edit-doorhanger-header = Խմբագրել հասցեն
 address-capture-save-button =
     .label = Պահպանել
     .accessKey = Պ
