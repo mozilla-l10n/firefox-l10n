@@ -53,6 +53,7 @@ firefoxview-syncedtabs-loading-header = Дар ҳоли ҳамоҳангсозӣ
 firefoxview-syncedtabs-loading-description = Вақте ки раванд ба анҷом мерасад, шумо ҳамаи варақаҳоеро, ки дар дастгоҳҳои дигар кушодаед, дар ин ҷой мебинед. Ба наздикӣ ба ин ҷой баргардед.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ташкилоти шумо имкони ҳамоҳангсозиро ғайрифаъол кард
 firefoxview-tabpickup-fxa-admin-disabled-description = «{ -brand-short-name }» наметавонад, ки варақаҳоро байни дастгоҳҳо ҳамоҳанг кунад, зеро ки маъмури шумо имкони ҳамоҳангсозиро ғайрифаъол кард.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = «{ -brand-short-name }» наметавонад, ки варақаҳоро байни дастгоҳҳо ҳамоҳанг кунад, зеро ки ташкилоти шумо имкони ҳамоҳангсозиро ғайрифаъол кард.
 firefoxview-tabpickup-network-offline-header = Пайвастшавии Интернети худро тафтиш кунед
 firefoxview-tabpickup-network-offline-description = Агар шумо аз девори оташ (firewall) ё прокси (proxy) истифода баред, мутмаин шавед, ки браузери «{ -brand-short-name }» барои пайдо кардани дастрасӣ ба Интернет иҷозат дорад.
 firefoxview-tabpickup-network-offline-primarybutton = Аз нав кӯшиш кардан
