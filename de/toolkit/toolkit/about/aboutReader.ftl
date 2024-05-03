@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Kontrast
     .title = Farb-Theme Kontrast
 about-reader-color-theme-custom = Benutzerdefinierte Farben
     .title = Farb-Theme Benutzerdefiniert
+about-reader-color-light-theme = Hell
+    .title = Helles Theme
+about-reader-color-dark-theme = Dunkel
+    .title = Dunkles Theme
+about-reader-color-sepia-theme = Sepia
+    .title = Sepia-Theme
+about-reader-color-auto-theme = Automatisch
+    .title = Automatisches Theme
+about-reader-color-gray-theme = Grau
+    .title = Graues Theme
+about-reader-color-contrast-theme = Kontrast
+    .title = Kontrast-Theme
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Sans-serif
 about-reader-toolbar-close = Leseansicht schließen
 about-reader-toolbar-type-controls = Schrifteinstellungen
 about-reader-toolbar-color-controls = Farben
+about-reader-toolbar-text-layout-controls = Text und Layout
+about-reader-toolbar-theme-controls = Theme
 about-reader-toolbar-savetopocket = In { -pocket-brand-name } speichern
 
 ## Reader View colors menu
@@ -85,3 +99,28 @@ about-reader-custom-colors-visited-links = Besuchte Links
 about-reader-custom-colors-selection-highlight = Textmarker zum Vorlesen
     .title = Farbe bearbeiten
 about-reader-custom-colors-reset-button = Auf Standard zurücksetzen
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Layout
+about-reader-advanced-layout-header = Erweitert
+about-reader-slider-label-width-narrow = Eng
+about-reader-slider-label-width-wide = Breit
+about-reader-slider-label-spacing-narrow = Eng
+about-reader-slider-label-spacing-standard = Standard
+about-reader-slider-label-spacing-wide = Breit
+about-reader-content-width-label =
+    .label = Inhaltsbreite
+about-reader-line-spacing-label =
+    .label = Zeilenabstand
+about-reader-character-spacing-label =
+    .label = Zeichenabstand
+about-reader-word-spacing-label =
+    .label = Wortabstand
+about-reader-text-alignment-label = Textausrichtung
+about-reader-text-alignment-left =
+    .title = Text links ausrichten
+about-reader-text-alignment-center =
+    .title = Text zentriert ausrichten
+about-reader-text-alignment-right =
+    .title = Text rechts ausrichten
