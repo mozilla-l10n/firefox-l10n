@@ -2,3 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+config-toolbar-search =
+    .placeholder = Ҷустуҷӯ
+config-new-pref-name =
+    .placeholder = Ном
+config-new-pref-value-boolean = Мантиқӣ
+config-new-pref-value-string = Сатр
+config-new-pref-string =
+    .placeholder = Сатреро ворид намоед
+config-new-pref-number =
+    .placeholder = Рақамеро ворид намоед
+config-new-pref-cancel-button = Бекор кардан
+config-context-menu-copy-pref-name =
+    .label = Нусха бардоштани ном
+config-context-menu-copy-pref-value =
+    .label = Нусха бардоштани қимат
