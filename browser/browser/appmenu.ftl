@@ -73,6 +73,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Mostra più schede
     .tooltiptext = Visualizza altre schede da questo dispositivo
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+  .label = Schede inattive
+  .tooltiptext = Visualizza le schede inattive su questo dispositivo
 # This is shown when there are inactive tabs which are not being shown.
 # Variables
 # $count (Number) - The number of inactive tabs which are not being shown (at least 1)
