@@ -275,7 +275,7 @@ created-by-author = <a data-l10n-name="author">{ $author }</a>-ի կողմից
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
 user-count = Օգտագործողներ { $dailyUsers }
-install-extension-button = Ավելացնել { -brand-product-name }
+install-extension-button = Հավելել { -brand-product-name }-ին
 install-theme-button = Տեղադրել ոճ
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.

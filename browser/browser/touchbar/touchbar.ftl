@@ -15,11 +15,10 @@ new-tab = Նոր ներդիր
 add-bookmark = Ավելացնել Էջանիշ
 reader-view = Ընթերցողի դիտում
 # Meant to match the string displayed in an empty URL bar.
-open-location = Որոնել կամ մուտքագրել հասցե
+open-location = Որոնեք կամ մուտքագրեք հասցե
 share = Կիսվել
 close-window = Փակել Պատուհանը
 open-sidebar = Կողմնասյուներ
-
 # This string describes shortcuts for search.
 search-popover = Որոնել դյուրանցումները
 # Describes searches limited to a specific scope
