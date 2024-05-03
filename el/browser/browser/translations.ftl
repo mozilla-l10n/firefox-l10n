@@ -126,6 +126,13 @@ translations-manage-description = Λήψη γλωσσών για μετάφρα�
 translations-manage-all-language = Όλες οι γλώσσες
 translations-manage-download-button = Λήψη
 translations-manage-delete-button = Διαγραφή
+translations-manage-intro = Ορίστε τις προτιμήσεις γλώσσας και μετάφρασης ιστοτόπων και διαχειριστείτε τις γλώσσες που έχουν εγκατασταθεί για μετάφραση εκτός σύνδεσης.
+translations-manage-install-description = Εγκατάσταση γλωσσών για μετάφραση εκτός σύνδεσης
+translations-manage-language-install-button =
+    .label = Εγκατάσταση
+translations-manage-language-install-all-button =
+    .label = Εγκατάσταση όλων
+    .accesskey = Ε
 translations-manage-download-description = Λήψη γλωσσών για μετάφραση εκτός σύνδεσης
 translations-manage-language-download-button =
     .label = Λήψη
@@ -140,13 +147,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Προέκυψε πρόβλημα κατά την εγκατάσταση των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
 translations-manage-error-download = Προέκυψε πρόβλημα κατά τη λήψη του αρχείου γλώσσας. Παρακαλώ δοκιμάστε ξανά.
 translations-manage-error-delete = Προέκυψε σφάλμα κατά τη διαγραφή των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
-translations-manage-intro = Ορίστε τις προτιμήσεις γλώσσας και μετάφρασης ιστοτόπων και διαχειριστείτε τις γλώσσες που έχουν εγκατασταθεί για μετάφραση εκτός σύνδεσης.
-translations-manage-install-description = Εγκατάσταση γλωσσών για μετάφραση εκτός σύνδεσης
-translations-manage-language-install-button =
-    .label = Εγκατάσταση
-translations-manage-language-install-all-button =
-    .label = Εγκατάσταση όλων
-    .accesskey = Ε
 translations-manage-error-remove = Προέκυψε σφάλμα κατά τη αφαίρεση των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
 translations-manage-error-list = Αποτυχία λήψης της λίστας με τις διαθέσιμες γλώσσες για μετάφραση. Ανανεώστε τη σελίδα για να δοκιμάσετε ξανά.
 translations-settings-title =
@@ -176,12 +176,56 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Κλείσιμο
     .buttonaccesskeyaccept = Κ
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Μετάφραση επιλογής…
+    .accesskey = τ
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Μετάφραση επιλογής στα { $language }
+    .accesskey = τ
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Μετάφραση κειμένου συνδέσμου…
+    .accesskey = τ
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Μετάφραση κειμένου συνδέσμου στα { $language }
+    .accesskey = τ
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Μετάφραση
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Από
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Σε
 select-translations-panel-cancel-button =
     .label = Ακύρωση
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Αντιγραφή
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Αντιγράφηκε
+select-translations-panel-done-button =
+    .label = Τέλος
 select-translations-panel-translate-button =
     .label = Μετάφραση
 select-translations-panel-try-again-button =
     .label = Δοκιμή ξανά
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Μετάφραση…
+select-translations-panel-init-failure-message =
+    .message = Αδυναμία φόρτωσης γλωσσών. Ελέγξτε τη σύνδεσή σας στο διαδίκτυο και δοκιμάστε ξανά.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Προέκυψε πρόβλημα με τη μετάφραση. Παρακαλώ δοκιμάστε ξανά.
@@ -195,3 +239,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Δυστυχώς, δεν υποστηρίζουμε ακόμα τα { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Δυστυχώς, δεν υποστηρίζουμε ακόμα αυτήν τη γλώσσα.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Ρυθμίσεις μεταφράσεων
