@@ -119,6 +119,7 @@ about-webauthn-auth-info-remaining-discoverable-credentials = Kalan keşfedilebi
 about-webauthn-auth-info-certifications = Sertifikalar
 about-webauthn-auth-info-uv-modality = Kullanıcı doğrulama yöntemi
 about-webauthn-auth-info-preferred-platform-uv-attempts = Tercih edilen platform kullanıcısı doğrulama denemeleri
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Ayarlanan minimum PIN uzunluğu için maksimum taraf kimliği
 about-webauthn-auth-info-max-cred-blob-length = Maksimum kimlik bilgisi blob uzunluğu
 about-webauthn-auth-info-firmware-version = Firmware sürümü
 about-webauthn-auth-info-min-pin-length = Minimum PIN uzunluğu
