@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisieren Sie Ihre Lesezeichen, um sie überall verfügbar zu haben.
 cfr-doorhanger-bookmark-fxa-body = Jederzeit Zugriff auf dieses Lesezeichen - auch auf mobilen Geräten. Nutzen Sie dafür ein { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Jederzeit Zugriff auf dieses Lesezeichen - auch auf mobilen Geräten. Nutzen Sie dafür ein Konto.
 cfr-doorhanger-bookmark-fxa-link-text = Lesezeichen jetzt synchronisieren…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Schließen-Schaltfläche
@@ -204,8 +205,6 @@ cfr-cbh-confirm-button = Cookie-Banner ablehnen
     .accesskey = a
 cfr-cbh-dismiss-button = Nicht jetzt
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } hat gerade Cookies für Sie blockiert
-cookie-banner-blocker-cfr-body = Wir lehnen viele Cookie-Pop-ups automatisch ab, um es Websites zu erschweren, Sie zu verfolgen.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } hat gerade ein Cookie-Banner für Sie abgelehnt
 cookie-banner-blocker-onboarding-body = Weniger Ablenkungen, weniger Cookies, die Sie auf dieser Website verfolgen.
 cookie-banner-blocker-onboarding-learn-more = Weitere Informationen

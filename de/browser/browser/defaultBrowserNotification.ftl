@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Holen Sie sich Geschwindigkeit, Sicherheit 
 default-browser-prompt-button-primary-alt = Als Standardbrowser festlegen
 default-browser-prompt-checkbox-not-again-label = Diese Nachricht nicht mehr anzeigen
 default-browser-prompt-button-secondary = Nicht jetzt
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Lege { -brand-short-name } abschließend als Standard fest
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Schritt 1: Gehen Sie zu Einstellungen > Standard-Apps
+    Schritt 2: Scrollen Sie nach unten zu "Webbrowser"
+    Schritt 3: { -brand-short-name } markieren und auswählen
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Schritt 1: Gehen Sie zu Einstellungen > Standard-Apps
+    Schritt 2: "Standard festlegen" für { -brand-short-name } auswählen
+default-browser-guidance-notification-info-page = Anzeigen
+default-browser-guidance-notification-dismiss = Fertig

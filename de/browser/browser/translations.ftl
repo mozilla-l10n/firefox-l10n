@@ -133,8 +133,13 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Alle installieren
     .accesskey = i
+translations-manage-intro-2 = Legen Sie Einstellungen für Sprachen und Website-Übersetzungen fest und verwalten Sie heruntergeladene Sprachen für die Offline-Übersetzung.
+translations-manage-download-description = Sprachen für Offline-Übersetzung herunterladen
 translations-manage-language-download-button =
     .label = Herunterladen
+translations-manage-language-download-all-button =
+    .label = Alle herunterladen
+    .accesskey = h
 translations-manage-language-remove-button =
     .label = Entfernen
 translations-manage-language-remove-all-button =
@@ -172,16 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Schließen
     .buttonaccesskeyaccept = S
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Auswahl übersetzen…
+    .accesskey = ü
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Auswahl auf { $language } übersetzen
+    .accesskey = ü
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Link-Text übersetzen…
+    .accesskey = ü
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Link-Text auf { $language } übersetzen
+    .accesskey = ü
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Übersetzung
 # Text displayed above the from-language dropdown menu.
 select-translations-panel-from-label = Von
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Auf
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Andere Quellsprache ausprobieren
 select-translations-panel-cancel-button =
     .label = Abbrechen
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopieren
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Kopiert
+select-translations-panel-done-button =
+    .label = Fertig
+select-translations-panel-translate-full-page-button =
+    .label = Gesamte Seite übersetzen
 select-translations-panel-translate-button =
     .label = Übersetzen
 select-translations-panel-try-again-button =
     .label = Erneut versuchen
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Übersetzter Text wird hier angezeigt.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Wird übersetzt…
+select-translations-panel-init-failure-message =
+    .message = Sprachen konnten nicht geladen werden. Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Beim Übersetzen ist ein Problem aufgetreten. Bitte versuchen Sie es erneut.
@@ -195,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Leider wird { $language } noch nicht unterstützt.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Leider wird diese Sprache noch nicht unterstützt.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Einstellungen für die Übersetzung
