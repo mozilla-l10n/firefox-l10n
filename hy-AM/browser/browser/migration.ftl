@@ -100,14 +100,14 @@ browser-data-cookies-label =
 browser-data-history-checkbox =
     .label =
         { $browser ->
-            [firefox] Զննարկման պատմություն և Էջանիշեր
-           *[other] Զննարկման պատմություն
+            [firefox] Դիտարկման պատմություն և Էջանիշեր
+           *[other] Դիտարկման պատմություն
         }
 browser-data-history-label =
     .value =
         { $browser ->
-            [firefox] Զննարկման պատմություն և Էջանիշեր
-           *[other] Զննարկման պատմություն
+            [firefox] Դիտարկման պատմություն և Էջանիշեր
+           *[other] Դիտարկման պատմություն
         }
 browser-data-formdata-checkbox =
     .label = Պահպանված Պատմությունից

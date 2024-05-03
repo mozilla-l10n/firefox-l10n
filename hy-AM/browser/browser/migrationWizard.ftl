@@ -59,7 +59,7 @@ migration-no-permissions-instructions-step1 = Ընտրեք «Շարունակե�
 
 migration-all-available-data-label = Ներմուծել բոլոր հասանելի տվյալները
 migration-no-selected-data-label = Ներմուծման համար տվյալներ չկան
-migration-selected-data-label = Ներմուծեք ընտրված տվյալները
+migration-selected-data-label = Ներմուծել ընտրված տվյալները
 
 ##
 
@@ -70,7 +70,7 @@ migration-bookmarks-option-label = Էջանիշեր
 migration-favorites-option-label = Ընտրյալներ
 migration-logins-and-passwords-option-label = Պահված մուտքագրումներ և գաղտնաբառեր
 migration-passwords-option-label = Պահված գաղտնաբառեր
-migration-history-option-label = Զննարկման պատմությունը
+migration-history-option-label = Դիտարկման պատմություն
 migration-extensions-option-label = Ընդլայնումներ
 migration-form-autofill-option-label = Ձևաթղթի ինքնալրացման տվյալները
 migration-payment-methods-option-label = Վճարամիջոցներ

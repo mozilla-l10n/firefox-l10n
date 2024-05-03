@@ -11,7 +11,7 @@ change-device-password-window =
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Անվտանգության Սարք: { $tokenName }
-change-password-old = Առկա գաղտնաբառը.
+change-password-old = Գործող գաղտնաբառը.
 change-password-new = Նոր Գաղտնաբառը.
 change-password-reenter = Նոր գաղտնաբառ (կրկին) ՝
 pippki-failed-pw-change = Չստացվեց փոխել գաղտնաբառը:
