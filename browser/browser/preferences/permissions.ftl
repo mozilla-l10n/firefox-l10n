@@ -168,7 +168,7 @@ permissions-site-camera-disable-desc = Սա կկանխի ցանկում չնշվ
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
-    .title = Կարգավորումներ՝ խոսափողի թույլտվություններ
+    .title = Կարգավորումներ. խոսափողի թույլտվություններ
     .style = { permissions-window2.style }
 permissions-site-microphone-desc = Հետևյալ կայքերը ձեր խոսափողը մատչելու հարցում են կատարել: Դուք կարող եք հատկորոշել, թե որ կայքերը կարող են մատչել ձեր խոսափողը: Նաև՝ կարող եք արգելափակել ձեր խոսափողը մատչելու նոր հարցումները:
 permissions-site-microphone-disable-label =

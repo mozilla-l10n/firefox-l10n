@@ -9,7 +9,7 @@
 ## Default Developer Tools section
 
 # The heading
-options-select-default-tools-label = Լռելյայն Մշակողի գործիքներ
+options-select-default-tools-label = Սկզբնադիր մշակողի գործիքներ
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * Չի աջակցվում ընթացիկ գործիքներում
@@ -34,10 +34,13 @@ options-show-user-agent-styles-tooltip =
 options-collapse-attrs-label = DOM-ի հատկանիշների կարճեցում
 options-collapse-attrs-tooltip =
     .title = Երկար հատկանիշների կարճեցում տեսուչում
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Կենտրոնացել հաջորդ ներածումը <kbd>Enter</kbd>-ի վրա
 
 ## "Default Color Unit" options for the Inspector
 
-options-default-color-unit-label = Հիմնական գույնով
+options-default-color-unit-label = Սկզբնադիր գունային միավոր
 options-default-color-unit-authored = Ինչպես հեղինակ
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
@@ -61,6 +64,8 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = Էկրանի հանույթի պահվածք
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = Էկրանակադրը միայն սեղմատախտակի համար
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Նվագարկել խցիկի փակման ձայնը
 options-screenshot-audio-tooltip =

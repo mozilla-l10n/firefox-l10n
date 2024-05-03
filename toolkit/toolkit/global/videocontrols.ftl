@@ -2,8 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This label is used by screenreaders and other assistive technology to indicate
+# to users how much of the video has been loaded from the network. It will be
+# followed by the percentage of the video that has loaded (e.g. "Loading: 13%").
+videocontrols-buffer-bar-label = Բեռնում.
+videocontrols-volume-control =
+    .aria-label = Ուժգնություն
+videocontrols-closed-caption-button =
+    .aria-label = Փակ ենթագրեր
 videocontrols-play-button =
-    .aria-label = Միացնել
+    .aria-label = Նվագարկել
 videocontrols-pause-button =
     .aria-label = Ընդմիջել
 videocontrols-mute-button =
@@ -23,6 +31,9 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Նկար-նկարում
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = Հանել տեսանյութը
 videocontrols-error-aborted = Տեսանյութի բեռնումը կանգնեցվել է։
 videocontrols-error-network = Տեսանյութի վերարտադրումը կանգնեցվել է ցանցի սխալի պատճառով:
 videocontrols-error-decode = Տեսանյութը չի կարող վերարտադրվել, քանզի ֆայլը վնասված է:

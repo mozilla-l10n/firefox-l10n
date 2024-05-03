@@ -42,6 +42,9 @@ screenshots-private-window-error-title = { -screenshots-brand-name }-ը անջա
 screenshots-private-window-error-details = Ներողություն անհարմարության համար: Մենք աշխատում ենք այս յուրահատկության վրա:
 screenshots-generic-error-title = { -screenshots-brand-name }-ը գնաց գլխիվայր:
 screenshots-generic-error-details = Մենք վստահ չենք, թե ինչ է տեղի ունեցնել: Կրկին փորձեք կամ փորձեք ստանալ մեկ այլ էջի հանույթ:
+screenshots-component-retry-button =
+    .title = Կրկին նկարել էկրանը
+    .aria-label = Կրկին նկարել էկրանը
 screenshots-component-cancel-button =
     .title =
         { PLATFORM() ->
