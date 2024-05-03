@@ -187,6 +187,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Ягон натиҷа барои «{ $query }» нест
 firefoxview-sort-history-by-date-label = Мураттаб кардан аз рӯи ном
 firefoxview-sort-history-by-site-label = Мураттаб кардан аз рӯи сомона
+firefoxview-sort-open-tabs-by-recency-label = Мураттаб кардан аз рӯи фаъолияти охирин
+firefoxview-sort-open-tabs-by-order-label = Мураттаб кардан аз рӯи тартиби варақаҳо
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -249,6 +251,8 @@ firefoxview-recentlyclosed-empty-description-two = Барои дидани ва�
 
 firefoxview-syncedtabs-device-notabs = Дар ин дастгоҳ ягон варақаи кушода нест
 firefoxview-syncedtabs-connect-another-device = Пайваст кардани дастгоҳи дигар
+firefoxview-pinned-tabs =
+    .title = Варақаҳои васлшуда
 firefoxview-tabs =
     .title = Варақаҳо
 
@@ -258,8 +262,14 @@ firefoxview-tabs =
 
 firefoxview-opentabs-pinned-tab =
     .title = Гузариш ба { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Гузариш ба { $tabTitle } (Дар хатбаракҳо)
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = (Дар хатбаракҳо) { $url }

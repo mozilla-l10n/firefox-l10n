@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Хатбаракҳои худро дар куҷое, ки набошед, ҳамоҳанг кунед.
 cfr-doorhanger-bookmark-fxa-body = Бозёфти олӣ! Акнун дар дастгоҳҳои мобилии худ бе ин хатбарак намонед. Бо { -fxaccount-brand-name } оғоз кунед.
+cfr-doorhanger-bookmark-fxa-body-2 = Бозёфти олӣ! Акнун дар дастгоҳҳои мобилии худ бе ин хатбарак намонед. Бо ҳисоб оғоз кунед.
 cfr-doorhanger-bookmark-fxa-link-text = Хатбаракҳо ҳозир ҳамоҳанг карда шаванд…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Тугмаи «Пӯшидан»
@@ -203,8 +204,6 @@ cfr-cbh-confirm-button = Рад кардани баннерҳои куки
     .accesskey = Р
 cfr-cbh-dismiss-button = Ҳоло не
     .accesskey = Ҳ
-cookie-banner-blocker-cfr-header = «{ -brand-short-name }» дар ҳоли ҳозир барои шумо кукиҳоро манъ кард
-cookie-banner-blocker-cfr-body = Мо бисёр равзанаҳои зоҳиршавандаро ба таври худкор рад мекунем, то ки барои сомонаҳо пайгирии шуморо душвор созем.
 cookie-banner-blocker-onboarding-header = «{ -brand-short-name }» дар ҳоли ҳозир барои шумо баннери кукиро рад кард
 cookie-banner-blocker-onboarding-body = Камтар ҳалалҳо ва камтар кукиҳое, ки шуморо дар ин сомона пайгирӣ мекунанд.
 cookie-banner-blocker-onboarding-learn-more = Маълумоти бештар
@@ -274,5 +273,10 @@ launch-on-login-infobar-final-reject-button = Не, ташаккур
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Васоити пайгирии безоркунандаро аз худ дур нигоҳ доред
 tail-fox-spotlight-primary-button = Кушодани пайвандҳои ман ба воситаи «{ -brand-short-name }»
 tail-fox-spotlight-secondary-button = Ҳоло не
