@@ -6,3 +6,9 @@
 ## Web Console API (in GeckoViewConsole.sys.mjs)
 
 console-stacktrace-anonymous-function = <беном>
+# This string is used to display the result of the console.timeEnd() call.
+#
+# Variables:
+#   $name (String): user-defined name for the timer
+#   $duration (String): number of milliseconds
+console-timer-end = { $name }: { $duration } мс
