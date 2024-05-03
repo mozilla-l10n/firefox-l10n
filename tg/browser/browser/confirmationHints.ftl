@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Фиристода шуд!
 confirmation-hint-firefox-relay-mask-created = Ниқоби муҳофизатии нав эҷод карда шуд!
 confirmation-hint-firefox-relay-mask-reused = Ниқоби муҳофизатии мавҷудбуда такроран истифода мешавад!
 confirmation-hint-screenshot-copied = Акси экран нусха бардошта шуд!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] { $tabCount } варақа пӯшида шуд
+       *[other] { $tabCount } варақа пӯшида шуд
+    }

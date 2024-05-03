@@ -26,5 +26,15 @@ default-browser-prompt-button-secondary = Ҳоло не
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = Танзими «{ -brand-short-name }»-ро барои таъини он ҳамчун браузери пешфарз ба анҷом расонед
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Қадами 1: Ба Танзимот > Барномаҳои пешфарз гузаред
+    Қадами 2: Ба поён то «Браузери веб» ҳаракат кунед
+    Қадами 3: Барномаи «{ -brand-short-name }»-ро интихоб карда, танзим кунед
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Қадами 1: Ба Танзимот > Барномаҳои пешфарз гузаред
+    Қадами 2: Барои барномаи «{ -brand-short-name }» имкони «Ҳамчун пешфарз танзим кардан»-ро интихоб намоед
 default-browser-guidance-notification-info-page = Ба ман нишон диҳед
 default-browser-guidance-notification-dismiss = Тайёр

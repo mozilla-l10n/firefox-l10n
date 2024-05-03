@@ -920,6 +920,9 @@ private-browsing-indicator-label = Тамошокунии махфӣ
 content-analysis-indicator-tooltip =
     .tooltiptext = Пешгирӣ аз гумшавии маълумот (DLP) тавассути «{ $agentName }». Барои маълумот муфассал, зер кунед.
 content-analysis-panel-title = Муҳофизати маълумот
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Ташкилоти шумо барои муҳофизат аз гумшавии маълумот аз «{ $agentName }» истифода мебарад. <a data-l10n-name="info">Маълумоти муфассал</a>
 
 ## Unified extensions (toolbar) button
 
