@@ -10,6 +10,9 @@ search-header =
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
+list-empty-get-extensions-message = Ստացեք ընդլայնումներ և ոճեր՝ <a data-l10n-name="get-extensions">{ $domain }-ում</a>
+list-empty-get-dictionaries-message = Ստացեք բառարաններ՝ <a data-l10n-name="get-extensions">{ $domain }-ում</a>
+list-empty-get-language-packs-message = Ստացեք լեզուների փաթեթներ՝ <a data-l10n-name="get-extensions">{ $domain }-ում</a>
 
 ##
 
@@ -26,6 +29,7 @@ list-empty-button =
 help-button = Լրացուցիչ աջակցություն
 sidebar-help-button-title =
     .title = Լրացուցիչ աջակցություն
+addons-settings-button = { -brand-short-name }-ի կարգավորումներ
 show-unsigned-extensions-button =
     .label = Որոշ ընդլայնումներ չեն կարող ստուգվել:
 show-all-extensions-button =
@@ -43,8 +47,8 @@ detail-contributions-button = Աջակցել
 detail-update-type =
     .value = Ինքնաշխատ Թարմացումներ
 detail-update-default =
-    .label = Լռելյայն
-    .tooltiptext = Ինքնաբար տեղադրել թարմացումները, եթե միայն սա լռելյայն է
+    .label = Սկզբնադիր
+    .tooltiptext = Ինքնաբար տեղադրել թարմացումները, միայն եթե դրանք սկզբնադիր են
 detail-update-automatic =
     .label = Միացնել
     .tooltiptext = Տեղադրել թարմացումները ինքնաբար:
@@ -52,20 +56,20 @@ detail-update-manual =
     .label = Անջատել
     .tooltiptext = Չտեղադրել թարմացումները ինքնաբար
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Սկսել Գաղտնի դիտարկում
+detail-private-browsing-label = Աշխատեցնել գաղտնի պատուհաններում
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
-detail-private-disallowed-label = Թույլատրված չէ անձնական պատուհանում
-detail-private-disallowed-description2 = Այս ընդլայնումը չի գործի անձնական զննարկման ժամանակ։ <a data-l10n-name="learn-more">Իմանալ ավելին</a>
+detail-private-disallowed-label = Թույլատրված չէ գաղտնի պատուհաններում
+detail-private-disallowed-description2 = Այս ընդլայնումը չի գործում գաղտնի դիտարկման ժամանակ։ <a data-l10n-name="learn-more">Իմանալ ավելին</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Պահանջվում է մուտք դեպի անձնական պատուհան
 detail-private-required-description2 = Այս ընդլայնումը հասանելի է ձեր առցանց գործունության՝ անձնական զննարկման ժամանակ։ <a data-l10n-name="learn-more">Իմանալ ավելին</a>
 detail-private-browsing-on =
     .label = Թույլատրել
-    .tooltiptext = Թույլատրել
+    .tooltiptext = Միացնել գաղտնի դիտարկումում
 detail-private-browsing-off =
     .label = Չթույլատրել
-    .tooltiptext = Չթույլատրել
+    .tooltiptext = Անջատել գաղտնի դիտարկումում
 detail-home =
     .label = Կայքէջը
 detail-home-value =
@@ -272,11 +276,11 @@ created-by-author = <a data-l10n-name="author">{ $author }</a>-ի կողմից
 #   $dailyUsers (number) - The number of daily users.
 user-count = Օգտագործողներ { $dailyUsers }
 install-extension-button = Ավելացնել { -brand-product-name }
-install-theme-button = Տեղադրել ձևավորում
+install-theme-button = Տեղադրել ոճ
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Կառավարել
-find-more-addons = Գտեք ավելի շատ հավելումներ
+find-more-addons = Գտնել ավելի շատ հավելումներ
 find-more-themes = Գտնել ավելի շատ ոճեր
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.

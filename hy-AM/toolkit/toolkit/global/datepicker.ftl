@@ -42,3 +42,9 @@ date-spinner-year =
 
 date-spinner-month-previous =
     .aria-label = Նախորդ ամիս
+date-spinner-month-next =
+    .aria-label = Հաջորդ ամիս
+date-spinner-year-previous =
+    .aria-label = Նախորդ տարի
+date-spinner-year-next =
+    .aria-label = Հաջորդ տարի

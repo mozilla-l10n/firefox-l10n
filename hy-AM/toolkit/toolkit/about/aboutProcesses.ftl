@@ -15,6 +15,15 @@ about-processes-shutdown-tab =
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 
+about-processes-browser-process = { -brand-short-name } ({ $pid })
+about-processes-web-process = Տարածված վեբ գործընթացներ ({ $pid })
+about-processes-file-process = Ֆայլեր ({ $pid })
+about-processes-extension-process = Ընդլայնումներ ({ $pid })
+about-processes-privilegedmozilla-process = { -vendor-short-name }-ի կայքեր ({ $pid })
+about-processes-gpu-process = GPU ({ $pid })
+about-processes-vr-process = VR ({ $pid })
+about-processes-rdd-process = Տվյալների ապագաղտնագրիչ ({ $pid })
+about-processes-socket-process = Ցանց ({ $pid })
 
 ## Isolated process names
 ## Variables:

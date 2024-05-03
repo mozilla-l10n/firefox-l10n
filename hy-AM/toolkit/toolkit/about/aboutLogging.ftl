@@ -17,9 +17,21 @@ about-logging-info = Տեղեկություն՝
 about-logging-logging-output-selection = Մատյանի ելքագրում
 about-logging-logging-to-file = Ֆայլի մատյանավորում
 about-logging-logging-to-profiler = Մատյանավորվում { -profiler-brand-name }-ում
+about-logging-no-log-modules = Չկա
+about-logging-no-log-file = Չկա
 
 ## Logging presets
 
+about-logging-preset-networking-label = Ցանցարկում
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webgpu-label = WebGPU
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-custom-label = Հարմարեցված
+# Error handling
+about-logging-error = Սխալ՝
 
 ## Variables:
 ##   $k (String) - Variable name

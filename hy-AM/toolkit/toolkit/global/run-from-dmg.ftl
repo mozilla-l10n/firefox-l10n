@@ -13,6 +13,7 @@ prompt-to-install-no-button = Չտեղադրել
 
 ## Strings for a dialog that opens if the installation failed.
 
+install-failed-message = { -brand-short-name }-ը չհաջողվեց տեղադրել, բայց կշարունակի աշխատել:
 
 ## Strings for a dialog that recommends to the user to start an existing
 ## installation of the app in the Applications directory if one is detected,
