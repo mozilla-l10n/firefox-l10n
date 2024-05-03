@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizie i tiei segnelibris dapardut.
 cfr-doorhanger-bookmark-fxa-body = Biele pensade! Cumò no sta restâ cence chest segnelibri sui tiei dispositîfs mobii. Scomence cuntun { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Biele pensade! Cumò no sta restâ cence chest segnelibri sui tiei dispositîfs mobii. Scomence creant un account.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronize i segnelibris cumò…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Boton par sierâ
@@ -204,8 +205,6 @@ cfr-cbh-confirm-button = Refude i strissons pai cookies
     .accesskey = R
 cfr-cbh-dismiss-button = No cumò
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } al à a pene blocât i cookies par te
-cookie-banner-blocker-cfr-body = O refudìn in automatic tancj barcons a comparse pai cookies, par rindi plui dificil pai sîts stâti daûr.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } al à a pene refudât un strisson pai cookies
 cookie-banner-blocker-onboarding-body = Mancul distrazions, mancul cookies che ti stan daûr su chest sît.
 cookie-banner-blocker-onboarding-learn-more = Plui informazions

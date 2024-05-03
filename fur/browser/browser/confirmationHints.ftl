@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Mandade!
 confirmation-hint-firefox-relay-mask-created = Gnove mascare creade!
 confirmation-hint-firefox-relay-mask-reused = Mascare esistente tornade a doprâ!
 confirmation-hint-screenshot-copied = Videade copiade!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Sierade { $tabCount } schede
+       *[other] Sieradis { $tabCount } schedis
+    }

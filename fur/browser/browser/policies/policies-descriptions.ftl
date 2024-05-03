@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Impedìs al navigadôr di inzornâsi.
 policy-DisableBuiltinPDFViewer = Disabilite PDF.js, il visualizadôr PDF integrât in { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Impedìs al agjent predefinît dal navigadôr di cjapâ iniziativis e realizâ cualsisei azion. Si pues aplicâ dome su Windows; chês altris plateformis no àn l'agjent.
 policy-DisableDeveloperTools = Bloche l'acès ai struments di disvilup.
+policy-DisableEncryptedClientHello = Disative la funzion TLS “Encrypted Client Hello” (ECH).
 policy-DisableFeedbackCommands = Disabilite i comants par inviâ opinions dal menù Jutori (Invie opinion e Segnale sît ingjanôs).
 policy-DisableFirefoxAccounts = Disabilite i servizis basâts su { -fxaccount-brand-name }, includût Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Disative i servizis basâts sui accounts, sincronizazion includude.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Disabilite la funzionalitât Firefox Screenshots.
 policy-DisableFirefoxStudies = Impedìs a { -brand-short-name } di puartâ indenant studis.
