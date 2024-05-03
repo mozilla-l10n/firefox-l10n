@@ -65,6 +65,7 @@ shopping-message-bar-page-not-supported =
     .heading = Мо ин тақризҳоро тафтиш карда наметавонем
     .message = Мутаассифона, мо наметавонем сифати тақризҳоро барои баъзе намудҳои маҳсулот тафтиш кунем. Масалан, барои кортҳои ёдгорӣ, видеоҳои пахши мустақим, мусиқӣ ва бозиҳо.
 shopping-message-bar-keep-closed-dismiss-button = Не, ташаккур
+shopping-message-bar-keep-closed-accept-button = Бале, пӯшида нигоҳ доред
 
 ## Strings for the product review snippets card
 

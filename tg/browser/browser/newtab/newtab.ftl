@@ -258,9 +258,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Миёнбурҳои сарпарастӣ
 newtab-custom-pocket-title = Аз тарафи { -pocket-brand-name } тавсия дода мешавад
 newtab-custom-pocket-subtitle = Муҳтавои мустасно аз тарафи { -pocket-brand-name }, қисми оилаи { -brand-product-name } дастгирӣ карда мешавад
-newtab-custom-pocket-toggle =
-    .label = Аз тарафи { -pocket-brand-name } тавсия дода мешавад
-    .description = Муҳтавои мустасно аз тарафи { -pocket-brand-name }, қисми оилаи { -brand-product-name } дастгирӣ карда мешавад
 newtab-custom-pocket-sponsored = Мақолаҳои сарпарастӣ
 newtab-custom-pocket-show-recent-saves = Намоиш додани маводҳои охирин
 newtab-custom-recent-title = Фаъолияти охирин
@@ -270,3 +267,7 @@ newtab-custom-recent-toggle =
     .description = Интихоби сомонаҳо ва муҳтавои охирин
 newtab-custom-close-button = Пӯшидан
 newtab-custom-settings = Идоракунии танзимоти бештар
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Тасвирҳои замина

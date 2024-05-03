@@ -34,3 +34,4 @@ fxa-menu-send-tab-to-device-description = Варақаеро ба дастгоҳ
 fxa-menu-sign-out =
     .label = Баромад…
 fxa-menu-sync-title = Ҳамоҳангсозӣ
+fxa-menu-sync-description = Дар ҳама ҷо ба сомонаҳои худ дастрасӣ пайдо намоед
