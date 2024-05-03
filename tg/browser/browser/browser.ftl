@@ -904,6 +904,7 @@ restore-session-startup-suggestion-button = Нишон медиҳад, ки чӣ
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Ташкилоти шумо ба файлҳои маҳаллӣ дар ин компютер дастрасиро манъ кард
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -913,6 +914,11 @@ data-reporting-notification-button =
     .accesskey = И
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Тамошокунии махфӣ
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = Пешгирӣ аз гумшавии маълумот (DLP) тавассути «{ $agentName }». Барои маълумот муфассал, зер кунед.
 content-analysis-panel-title = Муҳофизати маълумот
 
 ## Unified extensions (toolbar) button
