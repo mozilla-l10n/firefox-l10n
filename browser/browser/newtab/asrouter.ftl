@@ -278,5 +278,6 @@ launch-on-login-infobar-final-reject-button = Не, ташаккур
 # If the localization of this message is challenging, consider using a simplified
 # alternative as a reference for translation: 'Keep unwanted trackers away'.
 tail-fox-spotlight-title = Васоити пайгирии безоркунандаро аз худ дур нигоҳ доред
+tail-fox-spotlight-subtitle = Ба васоити пайгирии таблиғотии безоркунанда хайрбод гӯед ва ба таҷрибаи бехатартар ва Интернети босуръат  мубаддал шавед.
 tail-fox-spotlight-primary-button = Кушодани пайвандҳои ман ба воситаи «{ -brand-short-name }»
 tail-fox-spotlight-secondary-button = Ҳоло не
