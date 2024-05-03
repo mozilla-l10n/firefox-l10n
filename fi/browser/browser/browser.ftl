@@ -919,6 +919,7 @@ private-browsing-indicator-label = Yksityinen selaus
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Tietojen menetyksen estäminen (DLP), tekijä { $agentName }. Napsauta saadaksesi lisätietoja.
+content-analysis-panel-title = Tietojen suojaus
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text = Organisaatiosi käyttää ohjelmistoa { $agentName } suojautuakseen tietojen menetykseltä. <a data-l10n-name="info">Lisätietoja</a>
