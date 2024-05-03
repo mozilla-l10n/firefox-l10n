@@ -286,3 +286,10 @@ newtab-wallpaper-light-beach = Соҳил бо дарахти хурмо
 newtab-wallpaper-dark-aurora = Дурахши қутбӣ
 newtab-wallpaper-dark-color = Шаклҳои сурх ва кабуд
 newtab-wallpaper-dark-panda = Пандаи сурх дар ҷангал пинҳон шудааст
+newtab-wallpaper-dark-sky = Манзараи шаҳр бо осмони шабона
+newtab-wallpaper-dark-mountain = Манзараи кӯҳӣ
+newtab-wallpaper-dark-city = Манзараи шаҳри лоҷувард
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Акс аз ҷониби <a data-l10n-name="name-link">{ $author_string }</a> дар <a data-l10n-name="webpage-link">{ $webpage_string }</a>
