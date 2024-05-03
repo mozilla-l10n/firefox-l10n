@@ -61,6 +61,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = 书签随身带着走
 cfr-doorhanger-bookmark-fxa-body = 发现好网站了！接下来也把该书签同步至移动设备吧。开始使用 { -fxaccount-brand-name }。
+cfr-doorhanger-bookmark-fxa-body-2 = 发现好网站了！接下来也把该书签同步至移动设备吧。登录账户即可开始使用。
 cfr-doorhanger-bookmark-fxa-link-text = 立即同步书签...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = 关闭按钮
@@ -201,8 +202,6 @@ cfr-cbh-confirm-button = 拒绝 Cookie 横幅
     .accesskey = R
 cfr-cbh-dismiss-button = 暂时不要
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } 刚刚为您拦截了 Cookie
-cookie-banner-blocker-cfr-body = 我们会自动拒绝许多 Cookie 弹窗，让网站难以跟踪您。
 cookie-banner-blocker-onboarding-header = { -brand-short-name } 刚刚为您拒绝了 Cookie 横幅的请求
 cookie-banner-blocker-onboarding-body = 在此网站上专注浏览，少受 Cookie 跟踪。
 cookie-banner-blocker-onboarding-learn-more = 详细了解
