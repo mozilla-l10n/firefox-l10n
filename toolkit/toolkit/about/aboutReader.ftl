@@ -91,3 +91,12 @@ about-reader-custom-colors-reset-button = Επαναφορά προεπιλογ�
 ## Reader View improved text and layout menu
 
 about-reader-layout-header = Διάταξη
+about-reader-content-width-label =
+    .label = Πλάτος περιεχομένου
+about-reader-text-alignment-label = Στοίχιση κειμένου
+about-reader-text-alignment-left =
+    .title = Στοίχιση κειμένου αριστερά
+about-reader-text-alignment-center =
+    .title = Στοίχιση κειμένου στο κέντρο
+about-reader-text-alignment-right =
+    .title = Στοίχιση κειμένου δεξιά
