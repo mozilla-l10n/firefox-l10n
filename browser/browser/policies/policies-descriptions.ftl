@@ -39,8 +39,11 @@ policy-DisableAppUpdate = 阻止浏览器更新。
 policy-DisableBuiltinPDFViewer = 禁用 { -brand-short-name } 内置的 PDF 阅读器 PDF.js。
 policy-DisableDefaultBrowserAgent = 阻止默认浏览器用户代理执行任何操作。仅适用于 Windows，其他平台没有用户代理可用。
 policy-DisableDeveloperTools = 阻止访问开发者工具。
+policy-DisableEncryptedClientHello = 禁用 TLS 功能“Encrypted Client Hello”（ECH）。
 policy-DisableFeedbackCommands = 禁用“帮助”菜单中的“发送反馈”命令（提交反馈和举报诈骗网站）。
 policy-DisableFirefoxAccounts = 禁用 { -fxaccount-brand-name }的基础服务，包含同步。
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = 禁用基于账户的服务，包括同步。
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = 禁用 Firefox 的“截图”功能。
 policy-DisableFirefoxStudies = 阻止 { -brand-short-name } 运行研究实验。

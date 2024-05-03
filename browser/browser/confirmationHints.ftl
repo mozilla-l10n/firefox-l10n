@@ -22,3 +22,6 @@ confirmation-hint-send-to-device = 发送成功！
 confirmation-hint-firefox-relay-mask-created = 马甲创建成功！
 confirmation-hint-firefox-relay-mask-reused = 已复用现有马甲！
 confirmation-hint-screenshot-copied = 截图已复制！
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed = 已关闭 { $tabCount } 个标签页
