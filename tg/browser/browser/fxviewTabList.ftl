@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Кушодани { $targetURI } дар варақаи нав
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Пӯшидани { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Қатъ гардонидани { $tabTitle }
@@ -63,14 +67,6 @@ fxviewtabrow-unmute-tab = Фаъол кардани садо дар варақа
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Имконот барои «{ $tabTitle }»
-# Variables:
-#   $tabTitle (string) - Title of tab being muted
-fxviewtabrow-mute-tab-button =
-    .title = Хомӯш кардани садои «{ $tabTitle }»
-# Variables:
-#   $tabTitle (string) - Title of tab being unmuted
-fxviewtabrow-unmute-tab-button =
-    .title = Фаъол кардани садои «{ $tabTitle }»
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
