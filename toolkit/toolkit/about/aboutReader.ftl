@@ -34,6 +34,10 @@ about-reader-color-sepia-theme = سیپیا
     .title = سیپیا تھیم
 about-reader-color-auto-theme = آٹو
     .title = آٹو تھیم
+about-reader-color-gray-theme = خاکی
+    .title = خاکی تھیم
+about-reader-color-contrast-theme = امتزاج
+    .title = امتزاج تھیم
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -70,6 +74,8 @@ about-reader-font-type-sans-serif = سینس-سیرف
 about-reader-toolbar-close = ریڈر ویو بند کرو
 about-reader-toolbar-type-controls = کنٹرول ٹائپ کرو
 about-reader-toolbar-color-controls = رنگ
+about-reader-toolbar-text-layout-controls = عبارت تے خاکہ
+about-reader-toolbar-theme-controls = تھیم
 about-reader-toolbar-savetopocket = { -pocket-brand-name } تے ہتھیکڑا کرو
 
 ## Reader View colors menu
@@ -96,3 +102,10 @@ about-reader-custom-colors-reset-button = طے شدہ ولا تازے کرو
 
 ## Reader View improved text and layout menu
 
+about-reader-layout-header = خاکہ
+about-reader-advanced-layout-header = ودھایا
+about-reader-slider-label-width-narrow = سوڑا
+about-reader-slider-label-width-wide = موکلا
+about-reader-slider-label-spacing-narrow = سوڑا
+about-reader-slider-label-spacing-standard = معیاری
+about-reader-slider-label-spacing-wide = موکلا
