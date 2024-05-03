@@ -503,11 +503,12 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } բովանդակություն
+home-prefs-content-description2 = Ընտրեք, թե ինչ բովանդակություն պետք է ունենա { -firefox-home-brand-name }-ի էկրանը:
 home-prefs-search-header =
     .label = Վեբ որոնում
 home-prefs-shortcuts-header =
     .label = Դյուրանցումներ
-home-prefs-shortcuts-description = Կայքեր, որոնք պահել կամ այցելել եք
+home-prefs-shortcuts-description = Ձեր պահպանած կամ այցելած կայքերը
 home-prefs-shortcuts-by-option-sponsored =
     .label = Հովանավորված դյուրանցումներ
 
@@ -522,6 +523,8 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-learn-more = Ինչպես է դա աշխատում
 home-prefs-recommended-by-option-sponsored-stories =
     .label = Հովանավորված կայքեր
+home-prefs-recommended-by-option-recent-saves =
+    .label = Ցուցադրել վերջին պահումները
 home-prefs-highlights-option-visited-pages =
     .label = Այցելած էջեր
 home-prefs-highlights-options-bookmarks =
