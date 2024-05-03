@@ -520,7 +520,7 @@ urlbar-placeholder-search-mode-other-tabs =
     .aria-label = Որոնել ներդիրներում
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
-    .placeholder = Մուտքագրեք որոնվող բառը
+    .placeholder = Մուտքագրեք որոնման եզրույթներ
     .aria-label = Որոնել գործողություններում
 # Variables
 #  $name (String): the name of the user's default search engine
@@ -925,8 +925,8 @@ unified-extensions-button-quarantined =
 reset-pbm-toolbar-button =
     .label = Ավարտել գաղտնի աշխատաշրջանը
     .tooltiptext = Ավարտել գաղտնի աշխատաշրջանը
-reset-pbm-panel-heading = Ավարտե՞լ ձեր անձնական աշխատաշրջանը:
-reset-pbm-panel-description = Փակեք բոլոր անձնական ներդիրները և ջնջեք պատմությունը, թխուկները և կայքի բոլոր մյուս տվյալները:
+reset-pbm-panel-heading = Ավարտե՞լ Ձեր գաղտնի աշխատաշրջանը:
+reset-pbm-panel-description = Փակել բոլոր գաղտնի ներդիրները և ջնջել պատմությունը, թխուկները և կայքի բոլոր մյուս տվյալները:
 reset-pbm-panel-always-ask-checkbox =
     .label = Միշտ հարցնել
     .accesskey = A
