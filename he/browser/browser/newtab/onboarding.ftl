@@ -299,6 +299,8 @@ onboarding-easy-setup-security-and-privacy-title = אנחנו אוהבים לש�
 onboarding-easy-setup-security-and-privacy-subtitle = הדפדפן שלנו שמגובה בקרן ללא מטרות רווח מסייע למנוע מחברות לעקוב אחריך בסתר ברחבי הרשת.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = להישאר מוצפן במעבר בין מכשירים
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } מאחוריך
 onboarding-gratitude-security-and-privacy-subtitle = תודה לך על השימוש ב־{ -brand-short-name }ֿ, שפועל בגיבוי קרן Mozilla. עם התמיכה שלך, אנו פועלים כדי להפוך את האינטרנט לבטוח ונגיש יותר למען הכלל.
 
 ## New user time and familiarity survey strings

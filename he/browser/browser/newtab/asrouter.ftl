@@ -62,6 +62,7 @@ cfr-doorhanger-extension-total-users =
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = סנכרון הסימניות שלך לכל מקום.
+cfr-doorhanger-bookmark-fxa-body = מציאה מעולה! אל תישארו ללא הסימנייה הזו במכשירים הניידים שלכם. התחילו לעבוד עם { -fxaccount-brand-name(case: "the") }.
 cfr-doorhanger-bookmark-fxa-link-text = סנכרון הסימניות כעת…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = כפתור סגירה
@@ -198,7 +199,6 @@ cfr-cbh-confirm-button = דחיית כרזות עוגיות
     .accesskey = ד
 cfr-cbh-dismiss-button = לא כעת
     .accesskey = ל
-cookie-banner-blocker-cfr-header = ‏{ -brand-short-name } חסם הרגע עוגיות עבורך
 cookie-banner-blocker-onboarding-header = ‏{ -brand-short-name } סירב הרגע לכרזת עוגיות עבורך
 cookie-banner-blocker-onboarding-body = פחות הסחות דעת, פחות מעקב עם עוגיות באתר הזה.
 cookie-banner-blocker-onboarding-learn-more = מידע נוסף
