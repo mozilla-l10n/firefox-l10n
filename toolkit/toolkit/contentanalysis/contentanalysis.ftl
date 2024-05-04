@@ -6,10 +6,6 @@ contentanalysis-alert-title = Analýza obsahu
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Odezva analýzy obsahu pro zdroj „{ $content }” trvá příliš dlouho
-contentanalysis-slow-agent-dialog-title = Probíhá analýza obsahu
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = Analýza obsahuje analyzuje zdroj  „{ $content }“
 contentanalysis-slow-agent-dialog-header = Probíhá skenování
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -55,6 +51,9 @@ contentanalysis-no-agent-connected-message = Nepodařilo se připojit k agentovi
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Neúspěšné ověření podpisu pro agenta { $agent }. Přenos byl zamítnut pro zdroj: { $content }.
+contentanalysis-error-message-dropped-text = Přetahování bylo zakázáno.
+contentanalysis-error-message-clipboard = Vložení bylo zamítnuto.
+contentanalysis-error-message-print = Tisk zamítnut.
 contentanalysis-inprogress-quit-title =
     { -brand-shorter-name.case-status ->
         [with-cases] Ukončit { -brand-shorter-name(case: "acc") }?
