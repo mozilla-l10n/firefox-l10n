@@ -29,4 +29,5 @@ more-from-moz-firefox-relay-button = Ба даст овардани «{ -relay-b
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
 more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = Ба таври худкор дархост кардани боздошти маълумоти шахсии ошкоршуда.
 more-from-moz-mozilla-monitor-button = Ба даст овардани «{ -monitor-brand-short-name }»

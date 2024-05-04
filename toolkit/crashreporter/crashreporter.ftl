@@ -2,7 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-branded-title = Гузоришдиҳандаи «{ -brand-short-name }» дар бораи вайронӣ
+crashreporter-apology = Узр мепурсем
 crashreporter-plea = Барои муайян кардани мушкилӣ ва ислоҳ кардани он, шумо метавонед дар бораи вайронии ҷорӣ гузоришеро ирсол намоед.
+crashreporter-information = Ин барнома пас аз вайроншавии ягон барнома иҷро мешавад ва гузоришро оид ба мушкилӣ ба «{ -vendor-short-name }» ирсол мекунад. Ин барнома бояд мустақилона иҷро карда нашавад.
+crashreporter-error = Барномаи «{ -brand-short-name }» бо мушкилие дучор шуд ва аз ин боис вайрон шуд. Мутаассифона, гузоришдиҳанда дар бораи ин вайронӣ гузоришеро пешниҳод карда наметавонад.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Тафсилот: { $details }
 crashreporter-no-run-message = Ин барнома пас аз вайроншавии ягон барнома иҷро мешавад ва гузоришро оид ба мушкилӣ ба истеҳсолкунандаи он барнома ирсол мекунад.  Ин барнома бояд мустақилона иҷро карда нашавад.
@@ -11,6 +15,7 @@ crashreporter-loading-details = Бор шуда истодааст…
 crashreporter-view-report-title = Мундариҷаи гузориш
 crashreporter-comment-prompt = Шарҳеро илова кунед (шарҳҳо ба ҳама намоён мешаванд)
 crashreporter-report-info = Ин гузориш, инчунин, маълумоти техникиро дар бораи вазъияти барнома ҳангоми вайроншавӣ дар бар мегирад.
+crashreporter-include-url = Нишонии саҳифаеро, ки ман дар он будам, илова кунед.
 crashreporter-submit-status = Пеш аз он ки шумо браузерро хомӯш ё аз нав оғоз мекунед, гузориши шумо дар бораи вайронӣ фиристода мешавад.
 crashreporter-submit-in-progress = Гузориши шумо интиқол дода истодааст…
 crashreporter-submit-success = Гузориш бо муваффақият интиқол дода шуд!
@@ -22,6 +27,9 @@ crashreporter-button-ok = ХУБ
 crashreporter-button-close = Пӯшидан
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Рақами мушаххаси вайроншавӣ: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Шумо метавонед тафсилоти ин вайрониро дар { $url } аз назар гузаронед.
 
 # Error strings
 
+crashreporter-error-no-home-dir = Феҳристи хонагӣ вуҷуд надорад

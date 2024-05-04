@@ -12,6 +12,20 @@ about-reader-color-scheme-sepia = Сепия
     .title = Нақшаи ранги «Сепия»
 about-reader-color-scheme-auto = Худкор
     .title = Нақшаи ранги «Худкор»
+about-reader-color-theme-light = Равшан
+    .title = Мавзуъ бо рангҳои равшан
+about-reader-color-theme-dark = Торик
+    .title = Мавзуъ бо рангҳои торик
+about-reader-color-theme-sepia = Сепия
+    .title = Мавзуъ бо рангҳои сепия
+about-reader-color-theme-auto = Худкор
+    .title = Мавзуъ бо рангҳои худкор
+about-reader-color-theme-gray = Хокистарӣ
+    .title = Мавзуъ бо рангҳои хокистарӣ
+about-reader-color-theme-contrast = Контраст
+    .title = Мавзуъ бо рангҳои контраст
+about-reader-color-theme-custom = Рангҳои фармоишӣ
+    .title = Мавзуъ бо рангҳои фармоишӣ
 about-reader-color-light-theme = Равшан
     .title = Мавзуи равшан
 about-reader-color-dark-theme = Торик
@@ -74,6 +88,14 @@ about-reader-customtheme-tab = Фармоишӣ
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-foreground = Матн
+    .title = Таҳрир кардани ранг
+about-reader-custom-colors-background = Замина
+    .title = Таҳрир кардани ранг
+about-reader-custom-colors-unvisited-links = Пайвандҳои кушоданашуда
+    .title = Таҳрир кардани ранг
+about-reader-custom-colors-visited-links = Пайвандҳои кушодашуда
+    .title = Таҳрир кардани ранг
 
 ## Reader View improved text and layout menu
 
