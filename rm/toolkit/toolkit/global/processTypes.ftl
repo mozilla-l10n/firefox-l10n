@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Cuntegn da Mozilla cun dretgs supplementars
 process-type-extension = Extensiun
 # process used to open file:// URLs
 process-type-file = Datoteca locala
+# process used to instantiate new child processes
+process-type-forkserver = Fork server
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Cuntegn web isolà

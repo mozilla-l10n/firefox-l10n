@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Serrar plirs tabs
     .accesskey = r
+tab-context-close-duplicate-tabs =
+    .label = Serrar ils tabs dublegiads
+    .accesskey = u
 tab-context-share-url =
     .label = Cundivider
     .accesskey = u
@@ -101,7 +104,6 @@ tab-context-move-tabs =
            *[other] Spustar ils tabs
         }
     .accesskey = p
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
