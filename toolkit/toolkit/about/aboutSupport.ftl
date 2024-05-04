@@ -434,6 +434,10 @@ pointing-device-none = Nagins apparats d'indicaziun
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Analisa dal cuntegn (DLP)
 content-analysis-active = Activa
 content-analysis-connected-to-agent = Connectà cun l’agent
 content-analysis-agent-path = Percurs da l’agent
