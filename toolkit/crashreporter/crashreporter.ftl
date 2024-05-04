@@ -32,4 +32,14 @@ crashreporter-crash-details = Шумо метавонед тафсилоти и�
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Абзори таҳлили вайроншавиҳои хурд иҷро нашуд
+# $path (String) - the file path
+crashreporter-error-opening-file = Файл кушода нашуд ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = Файл бор нашуд ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = Феҳрист эҷод нашуд ({ $path })
 crashreporter-error-no-home-dir = Феҳристи хонагӣ вуҷуд надорад
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Интиқоли { $from } ба { $to } иҷро нашуд
