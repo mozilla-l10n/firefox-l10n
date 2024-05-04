@@ -61,6 +61,8 @@ options-default-color-unit-name = Color Names
 
 ## Web Console section
 
+# The heading
+options-webconsole-label = Web Console
 # The label for the checkbox that toggle whether the Split console is enabled
 options-webconsole-split-console-label = Enable Split Console
 options-webconsole-split-console-tooltip =

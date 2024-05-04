@@ -126,6 +126,20 @@ translations-manage-description = Telechargia las linguas per la translaziun sen
 translations-manage-all-language = Tut las linguas
 translations-manage-download-button = Telechargiar
 translations-manage-delete-button = Stizzar
+translations-manage-intro = Definescha las preferenzas areguard la lingua e la translaziun da websites ed administrescha las linguas installadas per la translaziun senza connexiun.
+translations-manage-install-description = Installar linguas per la translaziun senza connexiun
+translations-manage-language-install-button =
+    .label = Installar
+translations-manage-language-install-all-button =
+    .label = Installar tuttas
+    .accesskey = I
+translations-manage-intro-2 = Definescha tias preferenzas areguard la lingua e la translaziun da websites ed administrescha las linguas telechargiadas per la translaziun senza connexiun.
+translations-manage-download-description = Telechargiar linguas per la translaziun senza connexiun
+translations-manage-language-download-button =
+    .label = Telechargiar
+translations-manage-language-download-all-button =
+    .label = Telechargiar tuttas
+    .accesskey = T
 translations-manage-language-remove-button =
     .label = Allontanar
 translations-manage-language-remove-all-button =
@@ -134,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Igl ha dà in problem cun installar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-download = Igl ha dà in problem cun telechargiar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-delete = Igl ha dà in problem cun stizzar las datotecas da lingua. Emprova per plaschair anc ina giada.
-translations-manage-intro = Definescha las preferenzas areguard la lingua e la translaziun da websites ed administrescha las linguas installadas per la translaziun senza connexiun.
-translations-manage-install-description = Installar linguas per la translaziun senza connexiun
-translations-manage-language-install-button =
-    .label = Installar
-translations-manage-language-install-all-button =
-    .label = Installar tuttas
-    .accesskey = I
 translations-manage-error-remove = Igl ha dà in problem cun allontanar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-list = I n'è betg reussì da retschaiver la glista da las linguas disponiblas per la translaziun. Rechargia la pagina per empruvar anc ina giada.
 translations-settings-title =
@@ -170,12 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Serrar
     .buttonaccesskeyaccept = S
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Translatar la selecziun…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Translatar la selecziun per { $language }
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Translatar il text da la colliaziun…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Translatar il text da la colliaziun per { $language }
+    .accesskey = n
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Translaziun
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Da
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = En
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Empruvar in’autra lingua da partenza
 select-translations-panel-cancel-button =
     .label = Interrumper
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Copiar
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Copià
+select-translations-panel-done-button =
+    .label = Finì
+select-translations-panel-translate-full-page-button =
+    .label = Translatar la pagina cumpletta
 select-translations-panel-translate-button =
     .label = Translatar
 select-translations-panel-try-again-button =
     .label = Reempruvar
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Il text translatà vegn a cumparair qua.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Translatar…
+select-translations-panel-init-failure-message =
+    .message = Impussibel da chargiar las linguas. Controllescha tia connexiun cun l’internet ed emprova anc ina giada.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Igl ha dà in problem cun translatar. Emprova per plaschair anc ina giada.
@@ -189,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Perstgisa, { $language } na vegn anc betg sustegnì.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Perstgisa, nus na sustegnain anc betg questa lingua.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Parameters da translaziun

@@ -4,7 +4,6 @@
 
 about-reader-loading = Chargiar…
 about-reader-load-error = Impussibel da chargiar l'artitgel da la pagina
-
 about-reader-color-scheme-light = Cler
     .title = Schema da colurs cleras
 about-reader-color-scheme-dark = Stgir
@@ -13,7 +12,14 @@ about-reader-color-scheme-sepia = Sepia
     .title = Schema da colurs sepia
 about-reader-color-scheme-auto = Automatic
     .title = Schema da colurs automatic
-
+about-reader-color-theme-light = Cler
+    .title = Design cun colurs cleras
+about-reader-color-theme-dark = Stgir
+    .title = Design cun colurs stgiras
+about-reader-color-theme-sepia = Sepia
+    .title = Design cun colurs sepia
+about-reader-color-theme-auto = Auto
+    .title = Design cun colurs tschernidas automaticamain
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -50,3 +56,14 @@ about-reader-font-type-sans-serif = Senza serifas
 about-reader-toolbar-close = Serrar la vista da lectura
 about-reader-toolbar-type-controls = Controllas da la scrittira
 about-reader-toolbar-savetopocket = Memorisar en { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View improved text and layout menu
+

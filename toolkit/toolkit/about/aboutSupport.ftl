@@ -434,3 +434,8 @@ pointing-device-none = Nagins apparats d'indicaziun
 
 ## Content Analysis (DLP)
 
+content-analysis-active = Activa
+content-analysis-connected-to-agent = Connectà cun l’agent
+content-analysis-agent-path = Percurs da l’agent
+content-analysis-agent-failed-signature-verification = Betg reussì da verifitgar la signatura da l’agent
+content-analysis-request-count = Dumber da dumondas
