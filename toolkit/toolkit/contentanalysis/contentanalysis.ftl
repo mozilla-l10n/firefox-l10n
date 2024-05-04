@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-alert-title = Таҳлили муҳтаво
-contentanalysis-slow-agent-dialog-title = Дар ҳоли таҳлили муҳтаво
+contentanalysis-slow-agent-dialog-header = Дар ҳоли тасвирбардорӣ
 contentanalysis-operationtype-clipboard = ҳофизаи муваққатӣ
 contentanalysis-warndialog-response-allow = Истифодаи муҳтаво
 contentanalysis-warndialog-response-deny = Бекор кардан
