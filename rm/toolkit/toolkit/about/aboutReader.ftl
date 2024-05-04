@@ -20,6 +20,24 @@ about-reader-color-theme-sepia = Sepia
     .title = Design cun colurs sepia
 about-reader-color-theme-auto = Auto
     .title = Design cun colurs tschernidas automaticamain
+about-reader-color-theme-gray = Grisch
+    .title = Design cun colurs grischas
+about-reader-color-theme-contrast = Cuntrast
+    .title = Design cun colurs da cuntrastantas
+about-reader-color-theme-custom = Colurs persunalisadas
+    .title = Design cun colurs persunalisadas
+about-reader-color-light-theme = Cler
+    .title = Design cun colurs cleras
+about-reader-color-dark-theme = Stgir
+    .title = Design cun colurs stgiras
+about-reader-color-sepia-theme = Sepia
+    .title = Design cun colurs sepia
+about-reader-color-auto-theme = Auto
+    .title = Design cun colurs tschernidas automaticamain
+about-reader-color-gray-theme = Grisch
+    .title = Design cun colurs grischas
+about-reader-color-contrast-theme = Cuntrast
+    .title = Design cun colurs cuntrastantas
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -55,15 +73,54 @@ about-reader-font-type-sans-serif = Senza serifas
 
 about-reader-toolbar-close = Serrar la vista da lectura
 about-reader-toolbar-type-controls = Controllas da la scrittira
+about-reader-toolbar-color-controls = Colurs
+about-reader-toolbar-text-layout-controls = Text e layout
+about-reader-toolbar-theme-controls = Design
 about-reader-toolbar-savetopocket = Memorisar en { -pocket-brand-name }
 
 ## Reader View colors menu
 
+about-reader-colors-menu-header = Design
+about-reader-fxtheme-tab = Predefinì
+about-reader-customtheme-tab = Persunalisà
 
 ## These are used as labels for the custom theme color pickers.
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-foreground = Text
+    .title = Midar la colur
+about-reader-custom-colors-background = Fund davos
+    .title = Midar la colur
+about-reader-custom-colors-unvisited-links = Colliaziuns betg visitadas
+    .title = Midar la colur
+about-reader-custom-colors-visited-links = Colliaziuns visitadas
+    .title = Midar la colur
+about-reader-custom-colors-selection-highlight = Emfasa per preleger dad aut
+    .title = Midar la colur
+about-reader-custom-colors-reset-button = Restabilir il standard
 
 ## Reader View improved text and layout menu
 
+about-reader-layout-header = Layout
+about-reader-advanced-layout-header = Avanzà
+about-reader-slider-label-width-narrow = Stretg
+about-reader-slider-label-width-wide = Lartg
+about-reader-slider-label-spacing-narrow = Stretg
+about-reader-slider-label-spacing-standard = Standard
+about-reader-slider-label-spacing-wide = Lartg
+about-reader-content-width-label =
+    .label = Ladezza dal cuntegn
+about-reader-line-spacing-label =
+    .label = Interlingia
+about-reader-character-spacing-label =
+    .label = Spazi tranter ils caracters
+about-reader-word-spacing-label =
+    .label = Spazi tranter ils pleds
+about-reader-text-alignment-label = Alingiament dal text
+about-reader-text-alignment-left =
+    .title = Alingiar il text a sanestra
+about-reader-text-alignment-center =
+    .title = Centrar il text
+about-reader-text-alignment-right =
+    .title = Alingiar il text a dretga
