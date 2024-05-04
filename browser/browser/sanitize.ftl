@@ -60,6 +60,12 @@ item-history-form-data-downloads =
 item-cookies =
     .label = Кукиҳо
     .accesskey = К
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Кукиҳо ва иттилооти сомона ({ $amount } { $unit })
+    .accesskey = К
 item-cookies-site-data =
     .label = Кукиҳо ва иттилооти сомона
     .accesskey = у
