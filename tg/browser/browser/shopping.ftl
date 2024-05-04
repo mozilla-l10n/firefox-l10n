@@ -91,6 +91,13 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Баъзе вақт шумо рекламаи тасодуфиро барои маҳсулоти дахлдор мебинед. Мо танҳо он маҳсулотеро таблиғ мекунем, ки дорои тақризҳои боэътимод мебошад. <a data-l10n-name="review-quality-url">Маълумоти бештар</a>
 shopping-settings-opt-out-button = Ғайрифаъол кардани абзори тафтиши тақризҳо
 powered-by-fakespot = Абзори тафтиши тақризҳо аз ҷониби «<a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>» таҳия карда шудааст
+shopping-settings-auto-open-toggle =
+    .label = Ба таври худкор кушодани Абзори тафтиши тақризҳо
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Ҳангоми дидани маҳсулот дар { $currentSite }
+shopping-settings-sidebar-enabled-state = Абзори тафтиши тақризҳо <strong>фаъол аст</strong>
 
 ## Strings for the adjusted rating component
 
@@ -174,6 +181,7 @@ shopping-callout-pdp-opted-in-subtitle = Барои дидани баҳодиҳ�
 shopping-callout-closed-not-opted-in-title = Барои гирифтани тақризҳои боэътимод танҳо як маротиба зер кунед
 shopping-callout-closed-not-opted-in-subtitle = Ҳар вақте ки шумо барчаспи нархро мебинед, истифодаи абзори тафтиши тақризҳоро кӯшиш намоед. Пеш аз хирид — маълумоти таҷрибавиро аз харидорони воқеи ба даст оред.
 shopping-callout-closed-not-opted-in-revised-button = Фаҳмидам
+shopping-callout-not-opted-in-reminder-title = Бо эътимод харид кунед
 shopping-callout-not-opted-in-reminder-open-button = Кушодани абзори тафтиши тақризҳо
 shopping-callout-not-opted-in-reminder-close-button = Нодида гузарондан
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Дигар нишон дода нашавад

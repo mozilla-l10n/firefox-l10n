@@ -205,6 +205,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Тоза кардани ин дарбаргиранда
 containers-remove-cancel-button = Ин дарбаргиранда тоза карда нашавад
+settings-tabs-show-image-in-preview =
+    .label = Нишон додани пешнамоиши тасвир ҳангоми гузоштани муш ба болои варақа
+    .accessKey = h
 
 ## General Section - Language & Appearance
 
