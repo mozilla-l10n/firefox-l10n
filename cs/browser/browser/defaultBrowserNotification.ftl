@@ -57,8 +57,15 @@ default-browser-guidance-notification-title =
     }
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
-    Krok 1: Přejděte do Nastavení > Výchozí aplikace
-    Krok 2: Přejděte dolů na „Webový prohlížeč“
-    Krok 3: Vyberte aplikaci { -brand-short-name }
+    { -brand-short-name.case-status ->
+        [with-cases]
+            Krok 1: Přejděte do Nastavení > Výchozí aplikace
+            Krok 2: Přejděte dolů na „Webový prohlížeč“
+            Krok 3: Vyberte { -brand-short-name(case: "acc") }
+       *[no-cases]
+            Krok 1: Přejděte do Nastavení > Výchozí aplikace
+            Krok 2: Přejděte dolů na „Webový prohlížeč“
+            Krok 3: Vyberte aplikaci { -brand-short-name }
+    }
 default-browser-guidance-notification-info-page = Zobrazit
 default-browser-guidance-notification-dismiss = Hotovo
