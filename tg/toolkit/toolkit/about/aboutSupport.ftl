@@ -428,3 +428,7 @@ pointing-device-mouse = Муш
 pointing-device-touchscreen = Экрани ламсӣ
 pointing-device-pen-digitizer = Планшети расмкашии рақамӣ
 pointing-device-none = Ягон дастгоҳҳои нуқтагузорӣ нест
+
+## Content Analysis (DLP)
+
+content-analysis-active = Фаъол
