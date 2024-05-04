@@ -351,8 +351,11 @@ onboarding-gratitude-security-and-privacy-subtitle = Баҳри истифода
 ## New user time and familiarity survey strings
 
 onboarding-new-user-time-based-survey-title = Шумо аз браузери «{ -brand-short-name }» чанд вақт боз истифода мебаред?
+onboarding-new-user-familiarity-based-survey-title = Шумо бо «{ -brand-short-name }» то чӣ андоза шинос ҳастед?
+onboarding-new-user-survey-subtitle = Изҳори назари шумо барои беҳтар кардани «{ -brand-short-name }» кумак мекунад.
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Навбатӣ
+onboarding-new-user-survey-legal-link-label = Бо интихоб кардани «{ onboarding-new-user-survey-next-button-label }», шумо бо <a data-l10n-name="privacy_notice">Огоҳномаи махфияти</a> «{ -brand-product-name }» розӣ мешавед.
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Ман комилан нав ҳастам
 onboarding-new-user-survey-time-based-option-2 = Камтар аз 1 моҳ
