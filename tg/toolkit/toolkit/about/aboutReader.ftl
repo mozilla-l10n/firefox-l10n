@@ -96,6 +96,20 @@ about-reader-custom-colors-unvisited-links = Пайвандҳои кушодан
     .title = Таҳрир кардани ранг
 about-reader-custom-colors-visited-links = Пайвандҳои кушодашуда
     .title = Таҳрир кардани ранг
+about-reader-custom-colors-selection-highlight = Нишондиҳанда барои хондани матн бо овози баланд
+    .title = Таҳрир кардани ранг
+about-reader-custom-colors-reset-button = Барқарорсозӣ ба ҳолатҳои пешфарз
 
 ## Reader View improved text and layout menu
 
+about-reader-layout-header = Тарҳрезӣ
+about-reader-advanced-layout-header = Иловагӣ
+about-reader-slider-label-width-narrow = Танг
+about-reader-slider-label-width-wide = Васеъ
+about-reader-slider-label-spacing-narrow = Танг
+about-reader-slider-label-spacing-standard = Стандартӣ
+about-reader-slider-label-spacing-wide = Васеъ
+about-reader-content-width-label =
+    .label = Васеии муҳтаво
+about-reader-line-spacing-label =
+    .label = Фосила байни сатрҳо

@@ -295,6 +295,15 @@ pdfjs-editor-ink-button-label = Расмкашӣ
 pdfjs-editor-stamp-button =
     .title = Илова ё таҳрир кардани тасвирҳо
 pdfjs-editor-stamp-button-label = Илова ё таҳрир кардани тасвирҳо
+pdfjs-editor-highlight-button =
+    .title = Ҷудокунӣ
+pdfjs-editor-highlight-button-label = Ҷудокунӣ
+pdfjs-highlight-floating-button =
+    .title = Ҷудокунӣ
+pdfjs-highlight-floating-button1 =
+    .title = Ҷудокунӣ
+    .aria-label = Ҷудокунӣ
+pdfjs-highlight-floating-button-label = Ҷудокунӣ
 
 ## Remove button for the various kind of editor.
 
