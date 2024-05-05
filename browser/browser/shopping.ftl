@@ -64,6 +64,9 @@ shopping-message-bar-analysis-in-progress-with-amount = Санҷиши сифа�
 shopping-message-bar-page-not-supported =
     .heading = Мо ин тақризҳоро тафтиш карда наметавонем
     .message = Мутаассифона, мо наметавонем сифати тақризҳоро барои баъзе намудҳои маҳсулот тафтиш кунем. Масалан, барои кортҳои ёдгорӣ, видеоҳои пахши мустақим, мусиқӣ ва бозиҳо.
+shopping-message-bar-keep-closed-header =
+    .heading = Пӯшида нигоҳ медоред?
+    .message = Шумо метавонед танзимоти худро аз нав танзим кунед, то ки Абзори тафтиши тақризҳо ба сурати пешфарз пӯшида нигоҳ дошта шавад. Ҳоли ҳозир, он ба таври худкор кушода мешавад.
 shopping-message-bar-keep-closed-dismiss-button = Не, ташаккур
 shopping-message-bar-keep-closed-accept-button = Бале, пӯшида нигоҳ доред
 
@@ -93,6 +96,12 @@ shopping-settings-opt-out-button = Ғайрифаъол кардани абзо�
 powered-by-fakespot = Абзори тафтиши тақризҳо аз ҷониби «<a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>» таҳия карда шудааст
 shopping-settings-auto-open-toggle =
     .label = Ба таври худкор кушодани Абзори тафтиши тақризҳо
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Ҳангоми дидани маҳсулот дар { $firstSite }, { $secondSite } ва { $thirdSite }
 # Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
 # Variables:
 #   $currentSite (String) - The current shopping page name
@@ -180,6 +189,8 @@ shopping-callout-pdp-opted-in-title = Оё ин тақризҳо боэътим�
 shopping-callout-pdp-opted-in-subtitle = Барои дидани баҳодиҳии санҷида дурустшуда бо тақризҳои беэътимоде, ки тоза карда шудаанд, Абзори тафтиши тақризҳоро кушоед. Илова бар ин, нуқтаҳои асосиро аз тақризҳои боэътимоди охирин аз назар гузаронед.
 shopping-callout-closed-not-opted-in-title = Барои гирифтани тақризҳои боэътимод танҳо як маротиба зер кунед
 shopping-callout-closed-not-opted-in-subtitle = Ҳар вақте ки шумо барчаспи нархро мебинед, истифодаи абзори тафтиши тақризҳоро кӯшиш намоед. Пеш аз хирид — маълумоти таҷрибавиро аз харидорони воқеи ба даст оред.
+shopping-callout-closed-not-opted-in-revised-title = Барои гирифтани тақризҳои боэътимод танҳо як маротиба зер кунед
+shopping-callout-closed-not-opted-in-revised-subtitle = Барои бозгашт ба Абзори тафтиши тақризҳо, танҳо нишони барчаспи нархро дар навори нишонӣ зер кунед.
 shopping-callout-closed-not-opted-in-revised-button = Фаҳмидам
 shopping-callout-not-opted-in-reminder-title = Бо эътимод харид кунед
 shopping-callout-not-opted-in-reminder-open-button = Кушодани абзори тафтиши тақризҳо
