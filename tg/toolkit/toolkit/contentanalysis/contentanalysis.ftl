@@ -6,6 +6,7 @@ contentanalysis-alert-title = Таҳлили муҳтаво
 contentanalysis-slow-agent-dialog-header = Дар ҳоли тасвирбардорӣ
 contentanalysis-operationtype-clipboard = ҳофизаи муваққатӣ
 contentanalysis-operationtype-print = чоп кардан
+contentanalysis-warndialogtitle = Ин муҳтаво метавонад хатарнок бошад
 contentanalysis-warndialog-response-allow = Истифодаи муҳтаво
 contentanalysis-warndialog-response-deny = Бекор кардан
 contentanalysis-notification-title = Таҳлили муҳтаво
