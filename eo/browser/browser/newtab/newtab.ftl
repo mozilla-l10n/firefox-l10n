@@ -258,9 +258,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Patronitaj ŝparvojoj
 newtab-custom-pocket-title = Rekomendita de { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Eksterordinara  enhavo reviziita de  { -pocket-brand-name }, parto de la familio { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Rekomendita de { -pocket-brand-name }
-    .description = Eksterordinara  enhavo reviziita de  { -pocket-brand-name }, parto de la familio { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Rekomenditaj artikoloj
     .description = Eksterordinara enhavo elekita de la familio de { -brand-product-name }
@@ -273,3 +270,12 @@ newtab-custom-recent-toggle =
     .description = Elekto de ĵusaj retejoj kaj enhavoj
 newtab-custom-close-button = Fermi
 newtab-custom-settings = Administri aliajn agordojn
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Ekranfonoj
+newtab-wallpaper-reset = Reŝargi normajn valorojn
+newtab-wallpaper-light-red-panda = Ruĝa pando
+newtab-wallpaper-light-mountain = Blanka monto
+newtab-wallpaper-light-sky = Ĉielo kun purpuraj kaj rozkoloraj nuboj
+newtab-wallpaper-light-color = Bluaj, rozkoloraj kaj flavaj formoj
