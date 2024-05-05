@@ -571,6 +571,7 @@ home-prefs-recommended-by-header =
 home-prefs-recommended-by-description-new = Муҳтавои мустасно аз тарафи { $provider } интихоб карда шудааст ва қисми оилаи { -brand-product-name } мебошад
 home-prefs-recommended-by-header-generic =
     .label = Ҳикояҳои тавсияшуда
+home-prefs-recommended-by-description-generic = Муҳтавои мустасно аз тарафи оилаи «{ -brand-product-name }» дастгирӣ карда мешавад
 
 ##
 
@@ -1019,6 +1020,7 @@ sitedata-delete-on-close =
     .label = Нест кардани кукиҳо ва маълумоти сомона ҳангоми пӯшидани браузери «{ -brand-short-name }»
     .accesskey = Н
 sitedata-delete-on-close-private-browsing = Дар реҷаи тамошокунии хусусии доимӣ, кукиҳо ва маълумоти сомона ҳангоми пӯшидани «{ -brand-short-name }» ҳамеша пок карда мешаванд.
+sitedata-delete-on-close-private-browsing2 = Дар асоси танзимоти таърихи шумо, «{ -brand-short-name }» ҳангоми пӯшидани браузер кукиҳо ва маълумоти сомонаро аз ҷаласаи шумо нест мекунад.
 sitedata-allow-cookies-option =
     .label = Қабул кардани кукиҳо ва иттилооти сомона
     .accesskey = Қ
