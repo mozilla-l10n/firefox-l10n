@@ -21,6 +21,12 @@ autofill-options-link-osx = Хусусиятҳои пуркунии шакл б�
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Ҳамоҳанг кардани кортҳои нигоҳдошташуда байни дастгоҳҳои ман
+# Used on the doorhanger when users submit payment with credit card.
+credit-card-save-doorhanger-header = Ин кортро ба таври бехатар нигоҳ медоред?
+credit-card-save-doorhanger-description = «{ -brand-short-name }» рақами корти шуморо рамзгузорӣ мекунад. Рамзи амниятии шумо нигоҳ дошта намешавад.
 credit-card-capture-save-button =
     .label = Нигоҳ доштан
     .accessKey = Н
@@ -34,9 +40,13 @@ credit-card-capture-never-save-button =
 # Used on the doorhanger when an credit card change is detected.
 
 credit-card-update-doorhanger-header = Кортро навсозӣ кунед?
+credit-card-update-doorhanger-description = Корте, ки аз нав нигоҳ дошта мешавад:
 credit-card-capture-save-new-button =
     .label = Нигоҳ доштан ҳамчун корти нав
     .accessKey = Д
+credit-card-capture-update-button =
+    .label = Нав кардани корти мавҷудбуда
+    .accessKey = Н
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Пок кардани шаклҳо бо пуркунии худкор
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
