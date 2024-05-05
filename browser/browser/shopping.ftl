@@ -220,6 +220,7 @@ shopping-onboarding-dynamic-subtitle-1 = Пеш аз хариди маҳсул, 
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Пеш аз хариди маҳсул, дар «<b>{ $currentSite }</b>» аз назар гузаронед, ки то чӣ андоза тақризҳо дар бораи ин маҳсул боэътимод мебошанд. Абзори тафтиши тақризҳо ҳамчун хусусияти озмоишӣ аз тарафи «{ -brand-product-name }» ба браузер дарунсохт карда шудааст.
 shopping-onboarding-body = Бо истифода аз «{ -fakespot-brand-full-name }», мо ба шумо барои истисно кардани тақризҳои ғаразнок ва ғайримуқаррарӣ кумак мекунем. Намунаи зеҳни сунъии (AI)-ии мо барои муҳофизат кардани раванди харидории шумо доим такмил дода мешавад. <a data-l10n-name="learn_more">Маълумоти бештар</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Бо интихоб кардани «{ shopping-onboarding-opt-in-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -brand-product-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифодаи</a> «{ -fakespot-brand-name }» розӣ мешавед.
 shopping-onboarding-opt-in-button = Ҳа, озмоед
 shopping-onboarding-not-now-button = Ҳоло не
 shopping-onboarding-dialog-close-button =
