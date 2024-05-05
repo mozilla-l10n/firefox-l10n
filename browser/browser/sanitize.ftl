@@ -19,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Пок кардани ҳамаи таърих
     .style = min-width: 34em
 clear-data-settings-label = Вақте ки шумо браузерро мепӯшед, «{ -brand-short-name }» ҳамаро ба таври худкор тоза мекунад
+sanitize-on-shutdown-description = Ҳангоми пӯшидани браузери «{ -brand-short-name }» ҳамаи унсурҳои интихобшуда ба таври худкор пок карда мешаванд.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -57,6 +58,7 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Таърих
     .accesskey = Т
+item-history-form-data-downloads-description = Таърихи сомонаҳо ва боргириҳо, маълумоти нигоҳдошташуда дар шаклҳо ва ҷустуҷӯҳои шумо пок карда мешаванд
 item-cookies =
     .label = Кукиҳо
     .accesskey = К
