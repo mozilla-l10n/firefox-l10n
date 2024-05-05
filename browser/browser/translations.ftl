@@ -195,6 +195,14 @@ main-context-menu-translate-selection-to-language =
 main-context-menu-translate-link-text =
     .label = Перакласці тэкст спасылкі…
     .accesskey = р
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Перакласці тэкст спасылкі на { $language }
+    .accesskey = р
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Пераклад
 # Text displayed above the from-language dropdown menu.
