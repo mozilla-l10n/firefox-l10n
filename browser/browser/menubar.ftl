@@ -124,7 +124,7 @@ menu-edit-find-again =
     .accesskey = n
 menu-edit-bidi-switch-text-direction =
     .label = Skift tekstretning
-    .accesskey = t
+    .accesskey = r
 
 ## View Menu
 
@@ -207,7 +207,7 @@ menu-view-show-all-tabs =
     .accesskey = a
 menu-view-bidi-switch-page-direction =
     .label = Skift sideretning
-    .accesskey = g
+    .accesskey = r
 
 ## History Menu
 
