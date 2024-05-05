@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Via tuta retumo rapida, sekura kaj privata.
 default-browser-prompt-button-primary-alt = Difini kiel norman retumilon
 default-browser-prompt-checkbox-not-again-label = Ne montri tiun ĉi mesaĝon denove
 default-browser-prompt-button-secondary = Ne nun
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Konfirmi la agon igi { -brand-short-name } via norma retumilo
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Paŝo 1: Iru al Agordoj > Normaj apoj
+    Paŝo 2: Rulumi malsupren ĝis “Retumilo”
+    Paŝo 3: Elektu { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Paŝo 1: Iru al Agordoj > Normaj apoj
+    Paŝo 2: Elektu “Difini kiel norman” por { -brand-short-name }
+default-browser-guidance-notification-info-page = Montri al mi
+default-browser-guidance-notification-dismiss = Farita
