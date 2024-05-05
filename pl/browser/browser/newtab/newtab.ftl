@@ -262,9 +262,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsorowane skróty
 newtab-custom-pocket-title = Polecane przez { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Wyjątkowe rzeczy wybrane przez { -pocket-brand-name }, część rodziny { -brand-product-name(case: "gen") }.
-newtab-custom-pocket-toggle =
-    .label = Polecane przez { -pocket-brand-name }
-    .description = Wyjątkowe rzeczy wybrane przez { -pocket-brand-name }, część rodziny { -brand-product-name(case: "gen") }.
 newtab-custom-stories-toggle =
     .label = Polecane artykuły
     .description = Wyjątkowe rzeczy wybrane przez rodzinę { -brand-product-name(case: "gen") }
@@ -277,3 +274,18 @@ newtab-custom-recent-toggle =
     .description = Wybierane z ostatnio odwiedzanych stron i treści.
 newtab-custom-close-button = Zamknij
 newtab-custom-settings = Więcej ustawień
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Tapety
+newtab-wallpaper-reset = Przywróć domyślne
+newtab-wallpaper-light-red-panda = Pandka ruda
+newtab-wallpaper-light-mountain = Biała góra
+newtab-wallpaper-light-sky = Niebo z fioletowymi i różowymi chmurami
+newtab-wallpaper-light-color = Niebieskie, różowe i żółte kształty
+newtab-wallpaper-light-landscape = Górski krajobraz z niebieską mgłą
+newtab-wallpaper-light-beach = Plaża z palmą
+newtab-wallpaper-dark-aurora = Zorza polarna
+newtab-wallpaper-dark-color = Czerwone i niebieskie kształty
+newtab-wallpaper-dark-panda = Pandka ruda schowana w lesie
+newtab-wallpaper-dark-sky = Miejski krajobraz z nocnym niebem
