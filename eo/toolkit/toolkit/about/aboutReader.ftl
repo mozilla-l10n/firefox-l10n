@@ -34,6 +34,10 @@ about-reader-color-sepia-theme = Sepia
     .title = Sepia etoso
 about-reader-color-auto-theme = Aŭtomata
     .title = Aŭtomata etoso
+about-reader-color-gray-theme = Griza
+    .title = Griza etoso
+about-reader-color-contrast-theme = Kontrasta
+    .title = Kontrasta etoso
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -69,15 +73,54 @@ about-reader-font-type-sans-serif = Senserifa
 
 about-reader-toolbar-close = Fermi legilan vidon
 about-reader-toolbar-type-controls = Agordi tiparon
+about-reader-toolbar-color-controls = Koloroj
+about-reader-toolbar-text-layout-controls = Teksto kaj aranĝo
+about-reader-toolbar-theme-controls = Etoso
 about-reader-toolbar-savetopocket = Konservi en { -pocket-brand-name }
 
 ## Reader View colors menu
 
+about-reader-colors-menu-header = Etoso
+about-reader-fxtheme-tab = Norma
+about-reader-customtheme-tab = Personecigita
 
 ## These are used as labels for the custom theme color pickers.
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-foreground = Teksto
+    .title = Modifi koloron
+about-reader-custom-colors-background = Fono
+    .title = Modifi koloron
+about-reader-custom-colors-unvisited-links = Nevizititaj ligiloj
+    .title = Modifi koloron
+about-reader-custom-colors-visited-links = Vizititaj ligiloj
+    .title = Modifi koloron
+about-reader-custom-colors-selection-highlight = Elstarigilo por laŭtlegado
+    .title = Modifi koloron
+about-reader-custom-colors-reset-button = Remeti normajn valorojn
 
 ## Reader View improved text and layout menu
 
+about-reader-layout-header = Aranĝo
+about-reader-advanced-layout-header = Spertula
+about-reader-slider-label-width-narrow = Mallarĝa
+about-reader-slider-label-width-wide = Larĝa
+about-reader-slider-label-spacing-narrow = Mallarĝa
+about-reader-slider-label-spacing-standard = Norma
+about-reader-slider-label-spacing-wide = Larĝa
+about-reader-content-width-label =
+    .label = Larĝo de enhavo
+about-reader-line-spacing-label =
+    .label = Spaco interlinia
+about-reader-character-spacing-label =
+    .label = Spaco intersigna
+about-reader-word-spacing-label =
+    .label = Spaco intervorta
+about-reader-text-alignment-label = Liniigo de teksto
+about-reader-text-alignment-left =
+    .title = Liniigi tekston maldekstre
+about-reader-text-alignment-center =
+    .title = Liniigi tekston centre
+about-reader-text-alignment-right =
+    .title = Liniigi tekston dekstre
