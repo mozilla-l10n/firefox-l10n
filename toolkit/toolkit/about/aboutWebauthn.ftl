@@ -37,6 +37,7 @@ about-webauthn-results-pin-invalid-error =
        *[other] Хато: Рамзи PIN нодуруст аст. Аз нав кӯшиш кунед. Шумо { $retriesLeft } кӯшиши дигар доред.
     }
 about-webauthn-results-pin-blocked-error = Хато: Шумо ягон кӯшиши дигар надоред ва дастгоҳи шумо қулф шудааст, зеро ки рамзи PIN-и нодуруст бисёр маротиба ворид карда шуд. Дастгоҳ бояд аз нав танзим карда шавад.
+about-webauthn-results-pin-not-set-error = Хато: Рамзи PIN муқаррар карда нашудааст. Ин амалиёт бояд бо рамзи PIN муҳофизат карда шавад.
 about-webauthn-results-pin-too-short-error = Хато: Рамзи PIN-и пешниҳодшуда хеле кутоҳ аст.
 about-webauthn-results-pin-too-long-error = Хато: Рамзи PIN-и пешниҳодшуда хеле дароз аст.
 about-webauthn-results-pin-auth-blocked-error = Хато: Шумо силсилаи аз ҳад зиёд кӯшишҳои номуваффақро иҷро кардед ва санҷиши ҳаққоният тавассути рамзи PIN муваққатан манъ шудааст. Ба дастгоҳи шумо як давраи қуввадиҳӣ лозим аст (онро ҷудо карда, аз нав васл кунед).
@@ -117,10 +118,33 @@ about-webauthn-auth-info-null = Дастгирӣ намешавад
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } маротибаи аксбардорӣ лозим аст.
+       *[other] { $repeatCount } маротибаи аксбардорӣ лозим аст.
+    }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Аксбардорӣ хуб буд.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-low = Аксбардорӣ хеле паст буд.
+about-webauthn-ctap2-enroll-feedback-too-left = Аксбардорӣ ба тарафи чап дур рафт.
+about-webauthn-ctap2-enroll-feedback-too-right = Аксбардорӣ ба тарафи рост дур рафт.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Аксбардорӣ хеле тез буд.
+about-webauthn-ctap2-enroll-feedback-too-slow = Аксбардорӣ хеле суст буд.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Сифати аксбардорӣ хеле паст аст.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Аксбардорӣ хеле каҷ буд.
+about-webauthn-ctap2-enroll-feedback-too-short = Аксбардорӣ хеле кутоҳ буд.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Аксбардорӣ аллакай вуҷуд дорад.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Ягон фаъолият аз корбар нест.
