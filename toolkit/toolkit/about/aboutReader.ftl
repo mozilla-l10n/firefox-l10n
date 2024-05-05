@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Кантрасная
     .title = Кантрасная колеравая схема
 about-reader-color-theme-custom = Уласныя колеры
     .title = Уласная колеравая схема
+about-reader-color-light-theme = Светлая
+    .title = Светлая тэма
+about-reader-color-dark-theme = Цёмная
+    .title = Цёмная тэма
+about-reader-color-sepia-theme = Сэпія
+    .title = Тэма "Сэпія"
+about-reader-color-auto-theme = Аўтаматычная
+    .title = Аўтаматычная тэма
+about-reader-color-gray-theme = Шэрая
+    .title = Шэрая тэма
+about-reader-color-contrast-theme = Кантрасная
+    .title = Кантрасная тэма
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
