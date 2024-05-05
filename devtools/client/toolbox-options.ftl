@@ -59,6 +59,15 @@ options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Nomoj de koloroj
 
+## Web Console section
+
+# The heading
+options-webconsole-label = Teksaĵa konzolo
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Aktivigi apartigitan konzolon
+options-webconsole-split-console-tooltip =
+    .title = Malfermi apartigitan konzolon per la eskapa klavo
+
 ## Style Editor section
 
 # The heading
