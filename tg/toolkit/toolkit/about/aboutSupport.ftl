@@ -436,3 +436,4 @@ pointing-device-none = Ягон дастгоҳҳои нуқтагузорӣ не
 
 content-analysis-active = Фаъол
 content-analysis-connected-to-agent = Ба омил пайваст шуд
+content-analysis-agent-path = Масир ба омил
