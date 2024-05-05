@@ -71,12 +71,22 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Кукиҳо ва иттилооти сомона
     .accesskey = у
+item-cookies-site-data-description = Воридшавиҳои шумо дар сомонаҳо метавонанд бекор карда шаванд ва сабадҳои харидории шумо холӣ карда шаванд
 item-active-logins =
     .label = Воридшавиҳои фаъол
     .accesskey = В
 item-cache =
     .label = Зерҳофиза
     .accesskey = З
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Файлҳо ва саҳифаҳои муваққатӣ дар зерҳофиза ({ $amount } { $unit })
+    .accesskey = Ф
+item-cached-content =
+    .label = Файлҳо ва саҳифаҳои муваққатӣ дар зерҳофиза
+    .accesskey = Ф
 item-form-search-history =
     .label = Таърихи шаклҳо ва ҷустуҷӯ
     .accesskey = Т
