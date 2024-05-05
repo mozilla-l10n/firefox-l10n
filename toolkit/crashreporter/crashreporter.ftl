@@ -2,9 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Raportisto de paneoj
-crashreporter-crash-message = { -brand-short-name } havis problemon kaj paneis.
+crashreporter-branded-title = Raporto de paneoj de { -brand-short-name }
+crashreporter-apology = Ni bedaŭras
+crashreporter-crashed-and-restore = { -brand-short-name } havis problemon kaj paneis. Ni klopodos restarigi viajn langetojn kaj fenestrojn kiam ĝi restartos.
 crashreporter-plea = Por helpi nin diagnozi kaj solvi la problemon, vi povas sendi al ni raporton de paneo.
+crashreporter-information = Tiu ĉi programo estas funkciigita post paneo por raporti la problemon al { -vendor-short-name }. Ĝi ne devus esti rekte funkciigita.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Details: { $details }
 crashreporter-no-run-message = Tiu ĉi programo estas funkciigita post paneo por raporti la problemon al la provizanto de la programo. Ĝi ne devus esti rekte funkciigita.
