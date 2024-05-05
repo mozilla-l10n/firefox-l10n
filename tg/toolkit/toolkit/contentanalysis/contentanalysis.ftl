@@ -14,3 +14,4 @@ contentanalysis-notification-title = Таҳлили муҳтаво
 #   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
 contentanalysis-genericresponse-message = Таҳлили муҳтаво бо натиҷаи «{ $response }» барои манбаи зерин ба анҷом расид: { $content }
 contentanalysis-inprogress-quit-title = «{ -brand-shorter-name }»-ро хомӯш мекунед?
+contentanalysis-inprogress-quit-yesbutton = Ҳа, хомӯш кунед

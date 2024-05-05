@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = З
 text-action-search-text-box-clear =
     .title = Пок кардан
+text-action-highlight-selection =
+    .label = Ҷудокунии интихоб
