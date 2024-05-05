@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Kontrastowy
     .title = Kontrastowy motyw kolorów
 about-reader-color-theme-custom = Inne kolory
     .title = Inny motyw kolorów
+about-reader-color-light-theme = Jasny
+    .title = Jasny motyw
+about-reader-color-dark-theme = Ciemny
+    .title = Ciemny motyw
+about-reader-color-sepia-theme = Sepia
+    .title = Motyw sepii
+about-reader-color-auto-theme = Auto
+    .title = Automatyczny motyw
+about-reader-color-gray-theme = Szary
+    .title = Szary motyw
+about-reader-color-contrast-theme = Kontrastowy
+    .title = Kontrastowy motyw
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -63,11 +75,13 @@ about-reader-font-type-sans-serif = Bezszeryfowa
 about-reader-toolbar-close = Wygląd oryginalny
 about-reader-toolbar-type-controls = Czcionki
 about-reader-toolbar-color-controls = Kolory
+about-reader-toolbar-text-layout-controls = Tekst i układ
+about-reader-toolbar-theme-controls = Motyw
 about-reader-toolbar-savetopocket = Wyślij do { -pocket-brand-name }
 
 ## Reader View colors menu
 
-about-reader-colors-menu-header = Motywy
+about-reader-colors-menu-header = Motyw
 about-reader-fxtheme-tab = Domyślny
 about-reader-customtheme-tab = Inny
 
@@ -86,3 +100,17 @@ about-reader-custom-colors-visited-links = Odwiedzone odnośniki
 about-reader-custom-colors-selection-highlight = Wyróżnianie do czytania na głos
     .title = Zmień kolor
 about-reader-custom-colors-reset-button = Przywróć domyślne
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Układ
+about-reader-advanced-layout-header = Zaawansowany
+about-reader-slider-label-width-narrow = Wąska
+about-reader-slider-label-width-wide = Szeroka
+about-reader-slider-label-spacing-narrow = Wąskie
+about-reader-slider-label-spacing-standard = Standardowy
+about-reader-slider-label-spacing-wide = Szeroki
+about-reader-content-width-label =
+    .label = Szerokość treści
+about-reader-line-spacing-label =
+    .label = Odstępy między wierszami
