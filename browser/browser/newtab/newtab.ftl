@@ -283,9 +283,15 @@ newtab-wallpaper-light-red-panda = Pandka ruda
 newtab-wallpaper-light-mountain = Biała góra
 newtab-wallpaper-light-sky = Niebo z fioletowymi i różowymi chmurami
 newtab-wallpaper-light-color = Niebieskie, różowe i żółte kształty
-newtab-wallpaper-light-landscape = Górski krajobraz z niebieską mgłą
+newtab-wallpaper-light-landscape = Górski pejzaż z niebieską mgłą
 newtab-wallpaper-light-beach = Plaża z palmą
 newtab-wallpaper-dark-aurora = Zorza polarna
 newtab-wallpaper-dark-color = Czerwone i niebieskie kształty
 newtab-wallpaper-dark-panda = Pandka ruda schowana w lesie
-newtab-wallpaper-dark-sky = Miejski krajobraz z nocnym niebem
+newtab-wallpaper-dark-sky = Miejski pejzaż z nocnym niebem
+newtab-wallpaper-dark-mountain = Górski pejzaż
+newtab-wallpaper-dark-city = Fioletowy miejski pejzaż
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Zdjęcie: <a data-l10n-name="name-link">{ $author_string }</a> z witryny <a data-l10n-name="webpage-link">{ $webpage_string }</a>

@@ -49,12 +49,31 @@ screenshots-too-large-error-details = Spróbuj zaznaczyć obszar, który ma mnie
 screenshots-component-retry-button =
     .title = Ponów zrzut ekranu
     .aria-label = Ponów zrzut ekranu
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Anuluj (esc)
+           *[other] Anuluj (Esc)
+        }
+    .aria-label = Anuluj
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Kopiuj ({ $shortcut })
+    .aria-label = Kopiuj
 screenshots-component-copy-button-label = Kopiuj
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Pobierz ({ $shortcut })
+    .aria-label = Pobierz
 screenshots-component-download-button-label = Pobierz
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
@@ -64,3 +83,9 @@ screenshots-component-download-button-label = Pobierz
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
 screenshots-overlay-selection-region-size-2 = { $width }×{ $height }
+# This string represents the selection size area
+# "×" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-3 = { $width }×{ $height }
