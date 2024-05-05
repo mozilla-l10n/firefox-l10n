@@ -60,6 +60,7 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ne ef
 ## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Provu aldoni <strong>display:grid</strong> aŭ <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Provu aldoni <strong>display:grid</strong>, <strong>display:flex</strong> aŭ<strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Provu aldoni ĉu <strong>display:grid</strong>, <strong>display:flex</strong>, ĉu <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Provu aldoni ĉu <strong>column-count</strong> ĉu <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Klopodu aldoni <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, aŭ <strong>display:inline-flex</strong> al la gepatra elmento. { learn-more }

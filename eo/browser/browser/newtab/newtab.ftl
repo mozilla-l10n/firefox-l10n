@@ -279,3 +279,15 @@ newtab-wallpaper-light-red-panda = Ruĝa pando
 newtab-wallpaper-light-mountain = Blanka monto
 newtab-wallpaper-light-sky = Ĉielo kun purpuraj kaj rozkoloraj nuboj
 newtab-wallpaper-light-color = Bluaj, rozkoloraj kaj flavaj formoj
+newtab-wallpaper-light-landscape = Pejzaĝo monta kun blua nebulo
+newtab-wallpaper-light-beach = Strando kun palmarbo
+newtab-wallpaper-dark-aurora = Polusa lumo
+newtab-wallpaper-dark-color = Ruĝaj kaj bluaj formoj
+newtab-wallpaper-dark-panda = Ruĝa pando kaŝita en arbaro
+newtab-wallpaper-dark-sky = Pejzaĝo urba kun nokta ĉielo
+newtab-wallpaper-dark-mountain = Pejzaĝo monta
+newtab-wallpaper-dark-city = Purpura pejzaĝo urba
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Fotita de <a data-l10n-name="name-link">{ $author_string }</a> en <a data-l10n-name="webpage-link">{ $webpage_string }</a>
