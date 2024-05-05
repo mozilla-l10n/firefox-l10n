@@ -59,6 +59,30 @@ contentanalysis-invalid-agent-signature-message = Malsukcesa kontrolo de subskri
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Eraro okazis dum komuniko kun { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Ne eblis konektiĝi al { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Malsukcesa kontrolo de subskribo de { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Rifuzita alŝuto de “{ $filename }”.
+contentanalysis-error-message-dropped-text = Rifuzita treno kaj faligo.
+contentanalysis-error-message-clipboard = Rifuzita algluo.
+contentanalysis-error-message-print = Rifuzita presado.
+contentanalysis-block-dialog-title-upload-file = Vi ne rajtas alŝuti tiun ĉi dosieron
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Laŭ la politikoj de protekto de datumoj de via organizo vi ne rajtas alŝuti la dosieron “{ $filename }”. Kontaktu vian administranton por havi pli da informo.
+contentanalysis-block-dialog-title-clipboard = Vi ne rajtas alglui tiun ĉi enhavon
+contentanalysis-block-dialog-body-clipboard = Laŭ la politikoj de protekto de datumoj de via organizo vi ne rajtas alglui tiun ĉi enhavon. Kontaktu vian administranton por havi pli da informo.
+contentanalysis-block-dialog-title-dropped-text = Vi ne rajtas faligi tiun ĉi enhavon
+contentanalysis-block-dialog-body-dropped-text = Laŭ la politikoj de protekto de datumoj de via organizo vi ne rajtas faligi tiun ĉi enhavon. Kontaktu vian administranton por havi pli da informo.
+contentanalysis-block-dialog-title-print = Vi ne rajtas presi tiun ĉi dokumenton
+contentanalysis-block-dialog-body-print = Laŭ la politikoj de protekto de datumoj de via organizo vi ne rajtas presi tiun ĉi dokumenton. Kontaktu vian administranton por havi pli da informo.
 contentanalysis-inprogress-quit-title = Ĉu fini { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Pluraj agoj ankoraŭ progresas. Se vi finas { -brand-shorter-name }, tiuj agoj ne estos plenumitaj.
 contentanalysis-inprogress-quit-yesbutton = Jes, fini

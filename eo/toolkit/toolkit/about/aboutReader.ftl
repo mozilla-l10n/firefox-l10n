@@ -4,7 +4,6 @@
 
 about-reader-loading = Ŝargado…
 about-reader-load-error = Ne eblis ŝargi artikolon el paĝo
-
 about-reader-color-scheme-light = Hela
     .title = Hela koloraro
 about-reader-color-scheme-dark = Malhela
@@ -13,7 +12,28 @@ about-reader-color-scheme-sepia = Sepia
     .title = Sepia koloraro
 about-reader-color-scheme-auto = Aŭtomata
     .title = Aŭtomata koloraro
-
+about-reader-color-theme-light = Hela
+    .title = Helkolora etoso
+about-reader-color-theme-dark = Malhela
+    .title = Malhelkolora etoso
+about-reader-color-theme-sepia = Sepia
+    .title = Sepikolora etoso
+about-reader-color-theme-auto = Aŭtomata
+    .title = Aŭtomataj koloroj de etoso
+about-reader-color-theme-gray = Griza
+    .title = Grizkolora etoso
+about-reader-color-theme-contrast = Kontrasta
+    .title = Kontrastkolora etoso
+about-reader-color-theme-custom = Personecigitaj koloroj
+    .title = Personecigitaj koloroj de etoso
+about-reader-color-light-theme = Hela
+    .title = Hela etoso
+about-reader-color-dark-theme = Malhela
+    .title = Malhela etoso
+about-reader-color-sepia-theme = Sepia
+    .title = Sepia etoso
+about-reader-color-auto-theme = Aŭtomata
+    .title = Aŭtomata etoso
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -50,3 +70,14 @@ about-reader-font-type-sans-serif = Senserifa
 about-reader-toolbar-close = Fermi legilan vidon
 about-reader-toolbar-type-controls = Agordi tiparon
 about-reader-toolbar-savetopocket = Konservi en { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View improved text and layout menu
+
