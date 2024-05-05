@@ -18,6 +18,8 @@ about-webauthn-pin-section-title = Идоракунии рамзҳои PIN
 about-webauthn-credential-management-section-title = Идоракунии маълумоти корбар
 about-webauthn-pin-required-section-title = Рамзи PIN ҳатмӣ аст
 about-webauthn-confirm-deletion-section-title = Тасдиқи хориҷкунӣ
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Бақайдгирии хусусиятҳои биометрӣ
 
 ## Info field texts
 
