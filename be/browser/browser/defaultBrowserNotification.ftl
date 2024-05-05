@@ -26,5 +26,15 @@ default-browser-prompt-button-secondary = Не зараз
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = Закончыце, зрабіўшы { -brand-short-name } прадвызначаным
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Крок 1: Перайдзіце ў Налады > Праграмы па змаўчанні
+    Крок 2: Пракруціце ўніз да «Вэб-браўзер»
+    Крок 3: Вылучыце і абярыце { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Крок 1: Перайдзіце ў Налады > Праграмы па змаўчанні
+    Крок 2: Выберыце «Усталяваць па змаўчанні» для { -brand-short-name }
 default-browser-guidance-notification-info-page = Паказаць мне
 default-browser-guidance-notification-dismiss = Гатова
