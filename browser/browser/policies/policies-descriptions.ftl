@@ -187,6 +187,8 @@ policy-PasswordManagerEnabled = Attiva il salvataggio delle password nel gestore
 
 policy-PasswordManagerExceptions = Impedisci a { -brand-short-name } di salvare le password per determinati siti.
 
+policy-PostQuantumKeyAgreementEnabled = Attiva l’accettazione chiave post-quantistica per TLS.
+
 # PDF.js and PDF should not be translated
 policy-PDFjs = Disattiva o configura PDF.js, il lettore integrato di PDF di { -brand-short-name }.
 
