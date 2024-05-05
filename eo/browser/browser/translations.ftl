@@ -177,12 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Fermi
     .buttonaccesskeyaccept = F
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Traduki elektaĴon…
+    .accesskey = e
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Traduki elektaĵon en la { $language }n
+    .accesskey = t
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Traduki la tekston de la ligilo…
+    .accesskey = l
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Traduki la tekston de la ligilo en la { $language }n
+    .accesskey = t
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Traduko
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = El
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Al la
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Provi alian originan lingvon
 select-translations-panel-cancel-button =
     .label = Nuligi
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopii
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Kopiita
+select-translations-panel-done-button =
+    .label = Farita
+select-translations-panel-translate-full-page-button =
+    .label = Traduki tutan paĝon
 select-translations-panel-translate-button =
     .label = Traduki
 select-translations-panel-try-again-button =
     .label = Klopodi denove
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = La tradukita teksto aperos ĉi tie.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Traduko…
+select-translations-panel-init-failure-message =
+    .message = Ne eblis ŝargi lingvojn. Kontrolu vian retaliron kaj provu denove.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Okazis problemo dum traduko, bonvolu provi denove.
@@ -196,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Bedaŭrinde ni ankoraŭ ne subtenas la { $language }n.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Bedaŭrinde ni ankoraŭ ne subtenas tiun ĉi lingvon.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Tradukaj agordoj

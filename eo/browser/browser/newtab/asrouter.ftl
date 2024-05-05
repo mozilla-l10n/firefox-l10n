@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Spegulu viajn legosignojn ĉie.
 cfr-doorhanger-bookmark-fxa-body = Bona trovaĵo! Nun, retrovu tiun ĉi legosignon en viaj poŝaparatoj. Komencu per { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Bona trovaĵo! Havu ĉemane tiun ĉi legosignon en vian porteblaj aparatoj. Por tio vi unue bezonas konton.
 cfr-doorhanger-bookmark-fxa-link-text = Speguli legosignojn nun…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Ferma butono
@@ -203,8 +204,6 @@ cfr-cbh-confirm-button = Rifuzi kuketajn anoncojn
     .accesskey = R
 cfr-cbh-dismiss-button = Ne nun
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } ĵus blokis kuketojn por vi
-cookie-banner-blocker-cfr-body = Ni aŭtomate rifuzas plurajn kuketajn ŝprucfenestrojn por malfaciligi la taskon de retejoj kiuj spuras vin.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ĵus rifuzis kuketan anoncon por vi
 cookie-banner-blocker-onboarding-body = Malpli da distro, malpli da kuketoj klopodante spuri vin en tiu ĉi retejo.
 cookie-banner-blocker-onboarding-learn-more = Pli da informo
