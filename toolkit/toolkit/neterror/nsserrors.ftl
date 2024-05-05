@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Nie można nawiązać bezpiecznego połączenia, ponieważ obsługa protokołu SSL została wyłączona.
 psmerr-ssl2-disabled = Nie można nawiązać bezpiecznego połączenia, ponieważ witryna używa niebezpiecznej, przestarzałej wersji protokołu SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Otrzymano nieprawidłowy certyfikat. Należy skontaktować się z administratorem serwera lub osobą, od której ten certyfikat pochodzi, i przekazać jej następującą informację: 
     
     Twój certyfikat zawiera taki sam numer seryjny, jak inny certyfikat wystawiony przez organ certyfikacji. Należy uzyskać nowy certyfikat zawierający unikalny numer seryjny.
-
 ssl-error-export-only-server = Nie można nawiązać bezpiecznego połączenia. Serwer nie obsługuje szyfrowania wysokiego poziomu.
 ssl-error-us-only-server = Nie można nawiązać bezpiecznego połączenia. Serwer wymaga szyfrowania wysokiego poziomu, które nie jest obsługiwane.
 ssl-error-no-cypher-overlap = Nie można nawiązać bezpiecznego połączenia: brak wspólnych algorytmów szyfrowania.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Brak skonfigurowanej obsługiwanej 
 ssl-error-unsupported-signature-algorithm = Uczestnik komunikacji użył nieobsługiwanej kombinacji sygnatury i algorytmu skrótu.
 ssl-error-missing-extended-master-secret = Uczestnik komunikacji próbował wznowić bez poprawnego rozszerzenia „extended_master_secret”.
 ssl-error-unexpected-extended-master-secret = Uczestnik komunikacji próbował wznowić z nieoczekiwanym rozszerzeniem „extended_master_secret”.
-
 sec-error-io = Podczas upoważniania wystąpił błąd wejścia/wyjścia.
 sec-error-library-failure = błąd biblioteki bezpieczeństwa.
 sec-error-bad-data = biblioteka bezpieczeństwa: otrzymano niewłaściwe dane.
@@ -255,7 +252,7 @@ sec-error-js-add-mod-failure = Nie można dodać modułu
 sec-error-js-del-mod-failure = Nie można usunąć modułu
 sec-error-old-krl = Nowa KRL nie jest późniejsza niż obecna.
 sec-error-ckl-conflict = Nowa CKL ma innego wystawcę niż obecna CKL. Należy usunąć obecną CKL.
-sec-error-cert-not-in-name-space = Organ certyfikacji tego certyfikatu nie ma zezwolenia na wydawanie certyfikatu o tej nazwie.
+sec-error-cert-not-in-name-space = Organ certyfikacji tego certyfikatu nie jest uprawniony do wydawania certyfikatu o tej nazwie.
 sec-error-krl-not-yet-valid = Lista odwołania kluczy dla tego certyfikatu nie jest jeszcze ważna.
 sec-error-crl-not-yet-valid = Lista odwołania certyfikatów dla tego certyfikatu nie jest jeszcze ważna.
 sec-error-unknown-cert = Nie udało się odnaleźć żądanego certyfikatu.
@@ -320,7 +317,6 @@ sec-error-locked-password = Hasło jest zablokowane.
 sec-error-unknown-pkcs11-error = Nieznany błąd PKCS #11.
 sec-error-bad-crl-dp-url = Nieprawidłowy lub nieobsługiwany URL w nazwie punktu dystrybucji CRL.
 sec-error-cert-signature-algorithm-disabled = Certyfikat został podpisany przy użyciu algorytmu, który został wyłączony jako niebezpieczny.
-
 mozilla-pkix-error-key-pinning-failure = Serwer używa przypinania kluczy (HPKP) jednak nie udało się utworzyć pasującego zaufanego łańcucha certyfikatów. Naruszenia przypinania certyfikatów nie mogą zostać nadpisane.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Serwer używa certyfikatu, rozszerzonego o podstawowe ograniczenia, identyfikującego go jako organ certyfikacji. Dla prawidłowo wystawionego certyfikatu taka sytuacja nie powinna mieć miejsca.
 mozilla-pkix-error-inadequate-key-size = Wielkość klucza certyfikatu przedstawionego przez serwer jest zbyt mała, aby można było nawiązać bezpieczne połączenie.
@@ -335,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Serwer zaprezentował certyfikat z
 mozilla-pkix-error-empty-issuer-name = Serwer zaprezentował certyfikat zawierający pustą nazwę DN wystawcy.
 mozilla-pkix-error-additional-policy-constraint-failed = Warunki dodatkowych zasad ograniczeń nie zostały spełnione podczas sprawdzania certyfikatu.
 mozilla-pkix-error-self-signed-cert = Certyfikat nie jest zaufany, ponieważ jest samopodpisany.
-
 xp-java-remove-principal-error = Nie udało się usunąć podmiotu zabezpieczeń
 xp-java-delete-privilege-error = Nie udało się usunąć uprawnienia
 xp-java-cert-not-exists-error = Ten podmiot zabezpieczeń nie ma certyfikatu
-
 xp-sec-fortezza-bad-card = Karta Fortezza nie została poprawnie zainicjowana. Należy ją usunąć i zwrócić do wystawcy.
 xp-sec-fortezza-no-card = Nie odnaleziono kart Fortezza
 xp-sec-fortezza-none-selected = Nie wybrano karty Fortezza
