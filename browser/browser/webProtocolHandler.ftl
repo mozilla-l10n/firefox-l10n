@@ -13,7 +13,9 @@ protocolhandler-mailto-os-handler-no-button = Şimdi değil
 protocolhandler-mailto-handler-notificationbox-always = E-posta bağlantıları her zaman { $url } ile açılsın mı?
 protocolhandler-mailto-handler-yes-confirm = E-posta bağlantılarını açmak için varsayılan siteniz artık { $url }.
 protocolhandler-mailto-handler-set-message = E-postanızı açan bağlantılara her tıkladığınızda <strong>{ -brand-short-name } tarayıcınızda { $url }</strong> açılsın mı?
+protocolhandler-mailto-handler-confirm-message = Bilgisayarınızın varsayılan e-posta işleyicisi artık <strong>{ -brand-short-name } üzerinde { $url }</strong>.
 protocolhandler-mailto-handler-set = E-postanızı açan bağlantılara her tıkladığınızda <strong>{ $url } sitesini açmak için { -brand-short-name }</strong> kullanılsın mı?
+protocolhandler-mailto-handler-confirm = E-posta gönderen her bağlantıya tıkladığınızda <strong>{ -brand-short-name } aracılığıyla { $url }</strong> açılacaktır.
 
 ##
 
