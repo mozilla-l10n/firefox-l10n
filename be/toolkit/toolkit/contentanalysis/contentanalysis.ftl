@@ -74,9 +74,15 @@ contentanalysis-error-message-dropped-text = Перацягванне забар
 contentanalysis-error-message-clipboard = Устаўка забаронена.
 contentanalysis-error-message-print = Друк забаронены.
 contentanalysis-block-dialog-title-upload-file = Вам не дазволена зацягваць гэты файл
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Згодна з палітыкай абароны дадзеных вашай арганізацыі, вам не дазволена зацягваць файл “{ $filename }”. Звярніцеся да адміністратара для атрымання дадатковай інфармацыі.
 contentanalysis-block-dialog-title-clipboard = Вам не дазволена ўстаўляць гэта змесціва
+contentanalysis-block-dialog-body-clipboard = Згодна з палітыкай абароны дадзеных вашай арганізацыі, вам не дазволена ўстаўляць гэта змесціва. Звярніцеся да адміністратара для атрымання дадатковай інфармацыі.
 contentanalysis-block-dialog-title-dropped-text = Вам не дазволена скідваць гэта змесціва
+contentanalysis-block-dialog-body-dropped-text = Згодна з палітыкай абароны дадзеных вашай арганізацыі, вам не дазволена перацягваць гэта змесціва. Звярніцеся да адміністратара для атрымання дадатковай інфармацыі.
 contentanalysis-block-dialog-title-print = Вам не дазволена друкаваць гэты дакумент
+contentanalysis-block-dialog-body-print = Згодна з палітыкай абароны дадзеных вашай арганізацыі, вам не дазволена друкаваць гэты дакумент. Звярніцеся да адміністратара для атрымання дадатковай інфармацыі.
 contentanalysis-inprogress-quit-title = Выйсці з { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Некалькі дзеянняў яшчэ ідуць. Калі вы выйдзеце з { -brand-shorter-name }, гэтыя дзеянні не будуць скончаны.
 contentanalysis-inprogress-quit-yesbutton = Так, выйсці
