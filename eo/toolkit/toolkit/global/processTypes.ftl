@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Privilegia enhavo de Mozilla
 process-type-extension = Etendaĵo
 # process used to open file:// URLs
 process-type-file = Loka dosiero
+# process used to instantiate new child processes
+process-type-forkserver = Procezkrea servilo
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Izolita enhavo de retejoj

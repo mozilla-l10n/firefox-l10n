@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Fermi plurajn langetojn
     .accesskey = F
+tab-context-close-duplicate-tabs =
+    .label = Fermi duobligitajn langetojn
+    .accesskey = d
 tab-context-share-url =
     .label = Dividi
     .accesskey = D
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Movi langetojn
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
