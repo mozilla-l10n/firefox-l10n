@@ -12,6 +12,10 @@ protocolhandler-mailto-os-handler-no-button = Ne nun
 
 protocolhandler-mailto-handler-notificationbox-always = Ĉu ĉiam malfermi retpoŝtajn ligilojn per { $url }?
 protocolhandler-mailto-handler-yes-confirm = { $url } estas ekde nun via norma retejo por ligiloj, kiuj sendas retpoŝton.
+protocolhandler-mailto-handler-set-message = Ĉu uzi <strong>{ $url } en { -brand-short-name }</strong> ĉiam, kiam vi alklakas retpoŝtan ligilon?
+protocolhandler-mailto-handler-confirm-message = <strong>{ $url } en { -brand-short-name }</strong> estas nun la norma retpoŝta programo en via komputilo.
+protocolhandler-mailto-handler-set = Ĉu uzi <strong>{ -brand-short-name } por malfermi { $url }</strong> ĉiam, kiam vi alklakas retpoŝtan ligilon?
+protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } malfermos { $url }</strong> ĉiam, kiam vi alklakas ligilon, kiu sendas retpoŝton.
 
 ##
 
