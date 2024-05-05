@@ -73,6 +73,16 @@ contentanalysis-error-message-upload-file = Odmowa przesłania pliku „{ $filen
 contentanalysis-error-message-dropped-text = Odmowa przeciągnięcia.
 contentanalysis-error-message-clipboard = Odmowa wklejenia.
 contentanalysis-error-message-print = Odmowa wydrukowania.
+contentanalysis-block-dialog-title-upload-file = Brak uprawnienia do przesłania tego pliku
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Zgodnie z zasadami ochrony danych Twojej organizacji nie masz uprawnienia do przesłania pliku „{ $filename }”. Skontaktuj się z administratorem, aby dowiedzieć się więcej.
+contentanalysis-block-dialog-title-clipboard = Brak uprawnienia do wklejenia tej treści
+contentanalysis-block-dialog-body-clipboard = Zgodnie z zasadami ochrony danych Twojej organizacji nie masz uprawnienia do wklejenia tej treści. Skontaktuj się z administratorem, aby dowiedzieć się więcej.
+contentanalysis-block-dialog-title-dropped-text = Brak uprawnienia do przeciągnięcia tej treści
+contentanalysis-block-dialog-body-dropped-text = Zgodnie z zasadami ochrony danych Twojej organizacji nie masz uprawnienia do przeciągnięcia tej treści. Skontaktuj się z administratorem, aby dowiedzieć się więcej.
+contentanalysis-block-dialog-title-print = Brak uprawnienia do wydrukowania tego dokumentu
+contentanalysis-block-dialog-body-print = Zgodnie z zasadami ochrony danych Twojej organizacji nie masz uprawnienia do wydrukowania tego dokumentu. Skontaktuj się z administratorem, aby dowiedzieć się więcej.
 contentanalysis-inprogress-quit-title = Czy zakończyć { -brand-shorter-name(case: "acc") }?
 contentanalysis-inprogress-quit-message = Trwa kilka działań. Zakończenie { -brand-shorter-name(case: "gen") } spowoduje ich nieukończenie.
 contentanalysis-inprogress-quit-yesbutton = Tak, zakończ
