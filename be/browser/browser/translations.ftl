@@ -177,6 +177,24 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Закрыць
     .buttonaccesskeyaccept = ц
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Перакласці вылучэнне…
+    .accesskey = р
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Перакласці вылучанае на { $language }
+    .accesskey = р
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Перакласці тэкст спасылкі…
+    .accesskey = р
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Пераклад
 # Text displayed above the from-language dropdown menu.
