@@ -6,10 +6,6 @@ contentanalysis-alert-title = Analizo de enhavo
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = La ilo por analizo de enhavo bezonas tro da tempo por respondi por la rimedo “{ $content }”
-contentanalysis-slow-agent-dialog-title = La analizo de enhavo estas farata
-# Variables:
-#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
-contentanalysis-slow-agent-dialog-body = La analizo de ehnavo analizas la rimedon “{ $content }”
 contentanalysis-slow-agent-dialog-header = Skanado progresas
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -22,8 +18,12 @@ contentanalysis-slow-agent-dialog-body-clipboard = { $agent } kontrolas ĉu via 
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } kontrolas ĉu la teksto, kiun vi faligis, kongruas kun la datumaj reguloj de via organizo. Tio ĉi povas bezoni iom da tempo.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } kontrolas ĉu via presaĵo kongruas kun la datumaj reguloj de via organizo. Tio ĉi povas bezoni iom da tempo.
 contentanalysis-operationtype-clipboard = tondujo
 contentanalysis-operationtype-dropped-text = demetita teksto
+contentanalysis-operationtype-print = presi
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = alŝuto de “{ $filename }”
 contentanalysis-warndialogtitle = Tiu ĉi enhavo povus esti nesekura
@@ -43,6 +43,22 @@ contentanalysis-block-message = Via organizo uzas programon kiuj evitas perdon d
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Eraro okazis dum komunikado kun la programo kiu evitas perdon de datumoj. Transporto rifuzita por rimedo: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Eraro okazis dum komunikado kun { $agent }. Transporto rifuzita por la rimedo: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Ne eblis konektiĝi al { $agent }. Transporto rifuzita por la rimedo: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Malsukcesa kontrolo de subskribo de { $agent }. Transporto rifuzita por la rimedo: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Eraro okazis dum komuniko kun { $agent }. { $content }
 contentanalysis-inprogress-quit-title = Ĉu fini { -brand-shorter-name }?
 contentanalysis-inprogress-quit-message = Pluraj agoj ankoraŭ progresas. Se vi finas { -brand-shorter-name }, tiuj agoj ne estos plenumitaj.
 contentanalysis-inprogress-quit-yesbutton = Jes, fini
