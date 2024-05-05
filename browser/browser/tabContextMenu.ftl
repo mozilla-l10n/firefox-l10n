@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Zamknij wiele kart
     .accesskey = w
+tab-context-close-duplicate-tabs =
+    .label = Zamknij podwójne karty
+    .accesskey = d
 tab-context-share-url =
     .label = Udostępnij
     .accesskey = U
@@ -102,7 +105,6 @@ tab-context-move-tabs =
            *[other] Przenieś karty
         }
     .accesskey = r
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
