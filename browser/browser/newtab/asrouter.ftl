@@ -67,6 +67,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizuj zakładki na każdym urządzeniu.
 cfr-doorhanger-bookmark-fxa-body = Wspaniałe odkrycie! Fajnie byłoby mieć tę zakładkę także na telefonie, prawda? Zacznij korzystać z { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.
+cfr-doorhanger-bookmark-fxa-body-2 = Wspaniałe odkrycie! Fajnie byłoby mieć tę zakładkę także na telefonie, prawda? Zacznij korzystać z konta.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizuj zakładki…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Przycisk zamknięcia
@@ -209,8 +210,6 @@ cfr-cbh-confirm-button = Odrzucaj prośby o akceptację ciasteczek
     .accesskey = O
 cfr-cbh-dismiss-button = Nie teraz
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } właśnie zablokował ciasteczka za Ciebie
-cookie-banner-blocker-cfr-body = Automatycznie odrzucamy wiele próśb o akceptację ciasteczek, aby utrudnić witrynom śledzenie Cię.
 cookie-banner-blocker-onboarding-header = { -brand-short-name } właśnie odrzucił prośbę o akceptację ciasteczek za Ciebie
 cookie-banner-blocker-onboarding-body = Mniej odwracania uwagi, mniej ciasteczek śledzących Cię na tej witrynie.
 cookie-banner-blocker-onboarding-learn-more = Więcej informacji

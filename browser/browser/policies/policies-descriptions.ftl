@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Uniemożliwienie aktualizowania przeglądarki.
 policy-DisableBuiltinPDFViewer = Wyłączenie PDF.js, wbudowanej przeglądarki plików PDF w programie { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Uniemożliwienie agentowi domyślnej przeglądarki wykonywania jakichkolwiek działań. Dotyczy tylko systemu Windows, inne platformy nie mają agenta.
 policy-DisableDeveloperTools = Blokowanie dostępu do narzędzi dla twórców witryn.
+policy-DisableEncryptedClientHello = Wyłączenie korzystania z funkcji TLS „Encrypted Client Hello” (ECH).
 policy-DisableFeedbackCommands = Wyłączenie poleceń do wysyłania opinii z menu Pomoc („Prześlij swoją opinię” i „Zgłoś oszustwo internetowe”).
 policy-DisableFirefoxAccounts = Wyłączenie usług korzystających z { -fxaccount-brand-name(case: "gen", capitalization: "lower") }, w tym synchronizacji.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Wyłączenie usług korzystających z konta, w tym synchronizacji.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Wyłączenie funkcji Firefox Screenshots.
 policy-DisableFirefoxStudies = Uniemożliwienie przeprowadzania badań przez program { -brand-short-name }.
