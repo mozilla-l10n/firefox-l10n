@@ -49,6 +49,7 @@ process-type-utility-actor-audio-decoder-wmf = Барномаи пуштибон
 process-type-utility-actor-mf-media-engine = Барномаи пуштибонии «Media Foundation Engine»
 process-type-utility-actor-js-oracle = Барномаи пуштибонии «JavaScript Oracle»
 process-type-utility-actor-windows-utils = Барномаи пуштибонии «Windows Utils»
+process-type-utility-actor-windows-file-dialog = Барномаи пуштибонии «Windows File Dialog»
 
 ##
 ## Other

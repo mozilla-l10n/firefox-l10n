@@ -56,6 +56,7 @@ neterror-dns-not-found-hint-firewall = Тафтиш кунед, ки брауз�
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути ҳалкунандаи боэътимоди DNS муҳофизат карда наметавонад. Сабаб:
+neterror-dns-not-found-trr-only-reason2 = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути таъминкунандаи DNS-и бехатар муҳофизат карда наметавонад. Сабаб:
 neterror-dns-not-found-trr-third-party-warning2 = Шумо метавонед кори худро бо ҳалкунандаи DNS-и пешфарз идома диҳед. Аммо, дар ин ҳолат, тарафи сеюм метавонад ҳамаи он сомонаҳоеро, ки шумо тамошо мекунед, аз назар гузаронад.
 neterror-dns-not-found-trr-only-could-not-connect = «{ -brand-short-name }» ба { $trrDomain } пайваст нашуд.
 neterror-dns-not-found-trr-only-timeout = Пайвастшавӣ ба { $trrDomain } назар ба вақти мунтазир вақти зиёдро гирифт.
@@ -70,6 +71,7 @@ neterror-dns-not-found-trr-unknown-problem = Мушкилии ногаҳон.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-native-fallback-reason = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути ҳалкунандаи боэътимоди DNS муҳофизат карда наметавонад. Сабаб:
+neterror-dns-not-found-native-fallback-reason2 = «{ -brand-short-name }» дархости шуморо барои ин нишонии сомона тавассути таъминкунандаи DNS-и бехатар муҳофизат карда наметавонад. Сабаб:
 neterror-dns-not-found-native-fallback-heuristic = DNS тавассути HTTPS дар шабакаи шумо хомӯш карда шудааст.
 neterror-dns-not-found-native-fallback-not-confirmed2 = «{ -brand-short-name }» ба { $trrDomain } пайваст нашуд.
 

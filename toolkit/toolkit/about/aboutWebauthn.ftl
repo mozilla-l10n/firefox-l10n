@@ -123,3 +123,4 @@ about-webauthn-auth-info-null = Дастгирӣ намешавад
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Ягон фаъолият аз корбар нест.
