@@ -73,6 +73,11 @@ screenshots-component-download-button-label = Emboguejy
 screenshots-component-copy-button-2 = Monguatia
     .title = Monguatia ({ $shortcut })
     .aria-label = Monguatia
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Emboguejy
+    .title = Mboguejy ({ $shortcut })
+    .aria-label = Mboguejy
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
