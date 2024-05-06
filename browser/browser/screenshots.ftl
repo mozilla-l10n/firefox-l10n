@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = Lejupielādēt ({ $shortcut })
     .aria-label = Lejupielādēt
 screenshots-component-download-button-label = Lejupielādēt
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Kopēt
+    .title = Kopēt ({ $shortcut })
+    .aria-label = Kopēt
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Lejupielādēt
+    .title = Lejupielādēt ({ $shortcut })
+    .aria-label = Lejupielādēt
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
