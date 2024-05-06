@@ -227,6 +227,12 @@ select-translations-panel-translate-button =
     .label = Tradûs
 select-translations-panel-try-again-button =
     .label = Torne prove
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Il test voltât al vignarà fûr achì.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Daûr a tradusi…
+select-translations-panel-init-failure-message =
+    .message = Impussibil cjariâ lis lenghis. Controle la tô conession a internet e torne prove.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Al è vignût fûr un probleme tal tradusi. Torne prove.
@@ -240,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Nus displâs, { $language } nol è ancjemò supuartât.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Nus displâs, no supuartìn ancjemò cheste lenghe.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Impostazions di traduzion
