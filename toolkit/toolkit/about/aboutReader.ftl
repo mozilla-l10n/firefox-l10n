@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Contrast
     .title = Teme colôrs contrast
 about-reader-color-theme-custom = Colôrs personalizâts
     .title = Teme colôrs personalizât
+about-reader-color-light-theme = Clâr
+    .title = Teme clâr
+about-reader-color-dark-theme = Scûr
+    .title = Teme scûr
+about-reader-color-sepia-theme = Sepe
+    .title = Teme colôr sepe
+about-reader-color-auto-theme = Automatic
+    .title = Teme automatic
+about-reader-color-gray-theme = Grîs
+    .title = Teme grîs
+about-reader-color-contrast-theme = Contrast
+    .title = Teme a contrast elevât
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Cence graciis (Sans-serif)
 about-reader-toolbar-close = Siere la Viodude di leture
 about-reader-toolbar-type-controls = Controi tipografics
 about-reader-toolbar-color-controls = Colôrs
+about-reader-toolbar-text-layout-controls = Test e disposizion
+about-reader-toolbar-theme-controls = Teme
 about-reader-toolbar-savetopocket = Salve in { -pocket-brand-name }
 
 ## Reader View colors menu
@@ -85,3 +99,12 @@ about-reader-custom-colors-visited-links = Colegaments visitâts
 about-reader-custom-colors-selection-highlight = Evidenziadôr pe leture a vôs alte
     .title = Modifiche colôr
 about-reader-custom-colors-reset-button = Ripristine predefinîts
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Disposizion
+about-reader-advanced-layout-header = Avanzadis
+about-reader-slider-label-width-narrow = Strete
+about-reader-slider-label-width-wide = Largje
+about-reader-slider-label-spacing-narrow = Ridote
+about-reader-slider-label-spacing-standard = Standard
