@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = ਡਾਊਨਲੋਡ ਕਰੋ ({ $shortcut })
     .aria-label = ਡਾਊਨਲੋਡ ਕਰੋ
 screenshots-component-download-button-label = ਡਾਊਨਲੋਡ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = ਕਾਪੀ
+    .title = ਕਾਪੀ ਕਰੋ ({ $shortcut })
+    .aria-label = ਕਾਪੀ ਕਰੋ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = ਡਾਊਨਲੋਡ
+    .title = ਡਾਊਨਲੋਡ ਕਰੋ ({ $shortcut })
+    .aria-label = ਡਾਊਨਲੋਡ ਕਰੋ
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
