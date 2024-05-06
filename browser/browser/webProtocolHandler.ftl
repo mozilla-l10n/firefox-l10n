@@ -12,6 +12,7 @@ protocolhandler-mailto-os-handler-no-button = Ҳоло не
 
 protocolhandler-mailto-handler-notificationbox-always = Ҳамеша пайвандҳои почтаи электрониро ба воситаи «{ $url }» мекушоед?
 protocolhandler-mailto-handler-yes-confirm = Акнун «{ $url }» барои кушодани пайвандҳое, ки паёмҳои почтаи электрониро исрол мекунанд, сомонаи пешфарзи шумо мебошад.
+protocolhandler-mailto-handler-set-message = Ҳар дафъае, ки шумо пайвандеро зер мекунед, ки почтаи электрониеро мекушояд, шумо аз <strong>{ $url } дар «{ -brand-short-name }»</strong> истифода мебаред?
 
 ##
 
