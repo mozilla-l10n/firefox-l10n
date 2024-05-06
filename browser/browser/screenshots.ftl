@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = Llwytho i lawr ( { $shortcut } )
     .aria-label = Llwytho i lawr
 screenshots-component-download-button-label = Llwytho i lawr
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Copïo
+    .title = Copïo ( { $shortcut } )
+    .aria-label = Copïo
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Llwytho i lawr
+    .title = Llwytho i lawr ( { $shortcut } )
+    .aria-label = Llwytho i lawr
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
