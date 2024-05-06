@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = Discjame ({ $shortcut })
     .aria-label = Discjame
 screenshots-component-download-button-label = Discjame
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Copie
+    .title = Copie ({ $shortcut })
+    .aria-label = Copie
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Discjame
+    .title = Discjame ({ $shortcut })
+    .aria-label = Discjame
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
