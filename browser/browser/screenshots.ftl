@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = Боргирӣ кардан (тугмаи «{ $shortcut }»)
     .aria-label = Боргирӣ кардан
 screenshots-component-download-button-label = Боргирӣ кардан
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Нусха бардоштан
+    .title = Нусха бардоштан (тугмаи «{ $shortcut }»)
+    .aria-label = Нусха бардоштан
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Боргирӣ кардан
+    .title = Боргирӣ кардан (тугмаи «{ $shortcut }»)
+    .aria-label = Боргирӣ кардан
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
