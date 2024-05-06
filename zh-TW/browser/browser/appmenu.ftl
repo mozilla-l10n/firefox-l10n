@@ -83,6 +83,10 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-showinactive =
     .label = 顯示 { $count } 個閒置中的分頁
     .tooltiptext = 在此裝置顯示閒置中的分頁
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = 閒置分頁
+    .tooltiptext = 顯示此裝置上的閒置分頁
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = 無已開啟的分頁
 # This is shown when Sync is configured but syncing tabs is disabled.
