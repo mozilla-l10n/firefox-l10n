@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = Sækja ({ $shortcut })
     .aria-label = Sækja
 screenshots-component-download-button-label = Sækja
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Afrita
+    .title = Afrita ({ $shortcut })
+    .aria-label = Afrita
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Sækja
+    .title = Sækja ({ $shortcut })
+    .aria-label = Sækja
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
