@@ -126,6 +126,20 @@ translations-manage-description = Prenesite jezike za prevajanje brez povezave.
 translations-manage-all-language = Vsi jeziki
 translations-manage-download-button = Prenesi
 translations-manage-delete-button = Izbriši
+translations-manage-intro = Upravljajte nastavitve prevajanja spletnih strani in jezike, nameščene za prevajanje brez povezave.
+translations-manage-install-description = Namestitev jezikov za prevajanje brez povezave
+translations-manage-language-install-button =
+    .label = Namesti
+translations-manage-language-install-all-button =
+    .label = Namesti vse
+    .accesskey = m
+translations-manage-intro-2 = Upravljajte nastavitve prevajanja spletnih strani in jezike, prenesene za prevajanje brez povezave.
+translations-manage-download-description = Prenos jezikov za prevajanje brez povezave
+translations-manage-language-download-button =
+    .label = Prenesi
+translations-manage-language-download-all-button =
+    .label = Prenesi vse
+    .accesskey = v
 translations-manage-language-remove-button =
     .label = Odstrani
 translations-manage-language-remove-all-button =
@@ -134,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Pri nameščanju datoteke z jezikom je prišlo do težave. Poskusite znova.
 translations-manage-error-download = Pri prenašanju datoteke z jezikom je prišlo do težave. Poskusite znova.
 translations-manage-error-delete = Pri brisanju datoteke z jezikom je prišlo do napake. Poskusite znova.
-translations-manage-intro = Upravljajte nastavitve prevajanja spletnih strani in jezike, nameščene za prevajanje brez povezave.
-translations-manage-install-description = Namestitev jezikov za prevajanje brez povezave
-translations-manage-language-install-button =
-    .label = Namesti
-translations-manage-language-install-all-button =
-    .label = Namesti vse
-    .accesskey = m
 translations-manage-error-remove = Pri odstranjevanju datoteke z jezikom je prišlo do napake. Poskusite znova.
 translations-manage-error-list = Seznama jezikov, ki jih je mogoče prevesti, ni bilo mogoče pridobiti. Osvežite stran in poskusite znova.
 translations-settings-title =
@@ -170,12 +177,33 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Zapri
     .buttonaccesskeyaccept = Z
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Prevedi izbor …
+    .accesskey = i
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Poskusi z drugim izvornim jezikom
 select-translations-panel-cancel-button =
     .label = Prekliči
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Kopiraj
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Kopirano
+select-translations-panel-done-button =
+    .label = Končano
+select-translations-panel-translate-full-page-button =
+    .label = Prevedi celotno stran
 select-translations-panel-translate-button =
     .label = Prevedi
 select-translations-panel-try-again-button =
     .label = Poskusi znova
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Tukaj se bo pojavilo prevedeno besedilo.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Prevajanje …
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Pri prevajanju je prišlo do težave. Poskusite znova.

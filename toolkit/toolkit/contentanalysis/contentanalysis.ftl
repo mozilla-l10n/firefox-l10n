@@ -26,6 +26,11 @@ contentanalysis-block-message = Vaša organizacija uporablja programsko opremo z
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-error-message = Pri komunikaciji s programsko opremo za preprečevanje izgube podatkov je prišlo do napake. Prenos vira { $content } je zavrnjen.
+contentanalysis-error-message-dropped-text = Vlečenje in spuščanje zavrnjeno.
+contentanalysis-error-message-clipboard = Lepljenje zavrnjeno.
+contentanalysis-error-message-print = Tiskanje zavrnjeno.
+contentanalysis-block-dialog-title-upload-file = Za nalaganje te datoteke nimate dovoljenja
+contentanalysis-block-dialog-title-clipboard = Za lepljenje te vsebine nimate dovoljenja
 contentanalysis-inprogress-quit-title = Želite zapreti { -brand-shorter-name(sklon: "tozilnik") }?
 contentanalysis-inprogress-quit-message = V teku je več dejanj. Če zdaj zaprete { -brand-shorter-name }, se ne bodo dokončala.
 contentanalysis-inprogress-quit-yesbutton = Da, zapri
