@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = 覆盖首次运行页面。如果您想禁用首�
 policy-OverridePostUpdatePage = 覆盖更新后的“新版变化”页面。如果您想禁用更新后页面，将此策略设为空白。
 policy-PasswordManagerEnabled = 启用密码管理器的密码保存功能。
 policy-PasswordManagerExceptions = 阻止 { -brand-short-name } 保存特定网站的密码。
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = 启用适用于 TLS 的后量子密钥协议。
 # PDF.js and PDF should not be translated
 policy-PDFjs = 禁用或配置 { -brand-short-name } 内置的 PDF 阅读器 PDF.js。
 policy-Permissions2 = 配置摄像头、麦克风、位置、通知和自动播放的权限。
