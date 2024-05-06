@@ -282,3 +282,4 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Mantieni al sicuro il tuo indirizzo email e telefono
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Proteggi la tua attività online
+
