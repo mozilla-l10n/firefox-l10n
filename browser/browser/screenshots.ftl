@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = Letöltés ({ $shortcut })
     .aria-label = Letöltés
 screenshots-component-download-button-label = Letöltés
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Másolás
+    .title = Másolás ({ $shortcut })
+    .aria-label = Másolás
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Letöltés
+    .title = Letöltés ({ $shortcut })
+    .aria-label = Letöltés
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
