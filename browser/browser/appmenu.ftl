@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] Ehechauka { $count } tendayke oiko’ỹva
         }
     .tooltiptext = Ehechauka tendayke oiko’ỹva ko mba’e’okápe
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Tendayke ojeporu’ỹva
+    .tooltiptext = Ehecha tendayke ojeporu’ỹva ko mba’e’okápe
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ndaipóri tendayke ijurujáva
 # This is shown when Sync is configured but syncing tabs is disabled.

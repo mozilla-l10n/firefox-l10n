@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = Emboyke kuatiarogue tembiapo ñepyrũguáva. Emboa
 policy-OverridePostUpdatePage = Emboyke kuatiarogue “Mba’epyahu” embohekopyahu rire. Emboaje ko porureko mba’eve’ỹre eipe’aséramo kuatiarogue embohekopyahu rire.
 policy-PasswordManagerEnabled = Embojuruja ñe’ẽñemi ñongatu ñe’ẽñemi ñangarekohápe.
 policy-PasswordManagerExceptions = Eñeha’ã { -brand-short-name } ani eñongatu pe’aha tenda ha’etévape.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Embojuruja ñe’ẽñemi jokupyty post-cuántica TLS-pe g̃uarã.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Eipe’a térã emboheko PDF.js, PDF jehechaha oĩva { -brand-short-name } ryepýpe.
 policy-Permissions2 = Emboheko ñemoneĩ ta’ãnganohẽha, ñe’ẽatãha, tendaite, marandu’í ha ñembohetápe g̃uarã.
