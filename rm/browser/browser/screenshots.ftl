@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = Telechargiar ({ $shortcut })
     .aria-label = Telechargiar
 screenshots-component-download-button-label = Telechargiar
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Copiar
+    .title = Copiar ({ $shortcut })
+    .aria-label = Copiar
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Telechargiar
+    .title = Telechargiar ({ $shortcut })
+    .aria-label = Telechargiar
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
