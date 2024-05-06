@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = ดาวน์โหลด ({ $shortcut })
     .aria-label = ดาวน์โหลด
 screenshots-component-download-button-label = ดาวน์โหลด
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = คัดลอก
+    .title = คัดลอก ({ $shortcut })
+    .aria-label = คัดลอก
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = ดาวน์โหลด
+    .title = ดาวน์โหลด ({ $shortcut })
+    .aria-label = ดาวน์โหลด
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
