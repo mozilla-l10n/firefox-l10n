@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = Last ned ({ $shortcut })
     .aria-label = Last ned
 screenshots-component-download-button-label = Last ned
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Kopier
+    .title = Kopier ({ $shortcut })
+    .aria-label = Kopier
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Last ned
+    .title = Last ned ({ $shortcut })
+    .aria-label = Last ned
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
