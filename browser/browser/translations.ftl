@@ -133,6 +133,7 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Instale dutis
     .accesskey = I
+translations-manage-intro-2 = Stabilìs la tô lenghe e lis preferencis di traduzion dai sîts, gjestìs lis lenghis discjariadis pe traduzion fûr rêt.
 translations-manage-download-description = Discjame lenghis pe traduzion fûr rêt
 translations-manage-language-download-button =
     .label = Discjame
@@ -194,8 +195,34 @@ main-context-menu-translate-selection-to-language =
 main-context-menu-translate-link-text =
     .label = Tradûs test dal colegament…
     .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Tradûs test dal colegament par { $language }
+    .accesskey = n
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Traduzion
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Di
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = A
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Prove une altre lenghe di origjin
 select-translations-panel-cancel-button =
     .label = Anule
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Copie
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Copiât
+select-translations-panel-done-button =
+    .label = Fat
+select-translations-panel-translate-full-page-button =
+    .label = Tradûs dute la pagjine
 select-translations-panel-translate-button =
     .label = Tradûs
 select-translations-panel-try-again-button =
