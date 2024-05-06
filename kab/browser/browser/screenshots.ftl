@@ -67,6 +67,16 @@ screenshots-component-download-button =
     .title = Sader ({ $shortcut })
     .aria-label = Sader
 screenshots-component-download-button-label = Sader
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Nɣel
+    .title = Nɣel ({ $shortcut })
+    .aria-label = Nɣel
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Sader
+    .title = Sader ({ $shortcut })
+    .aria-label = Sader
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
