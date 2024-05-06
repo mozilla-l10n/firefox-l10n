@@ -83,6 +83,10 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-showinactive =
     .label = 비활성 탭 { $count }개 표시
     .tooltiptext = 이 기기의 비활성 탭 표시
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = 비활성 탭
+    .tooltiptext = 이 기기의 비활성 탭 보기
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = 열린 탭이 없음
 # This is shown when Sync is configured but syncing tabs is disabled.
