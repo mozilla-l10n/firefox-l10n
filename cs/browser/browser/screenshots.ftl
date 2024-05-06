@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = Stáhnout ({ $shortcut })
     .aria-label = Stáhnout
 screenshots-component-download-button-label = Stáhnout
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Kopírovat
+    .title = Kopírovat ({ $shortcut })
+    .aria-label = Kopírovat
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Stáhnout
+    .title = Stáhnout ({ $shortcut })
+    .aria-label = Stáhnout
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
