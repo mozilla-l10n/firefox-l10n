@@ -88,6 +88,10 @@ appmenu-remote-tabs-showinactive =
            *[many] Показать { $count } неактивных вкладок
         }
     .tooltiptext = Показать неактивные вкладки на этом устройстве
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Неактивные вкладки
+    .tooltiptext = Просмотр неактивных вкладок на этом устройстве
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Нет открытых вкладок
 # This is shown when Sync is configured but syncing tabs is disabled.
