@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = Substituir a página de primeira execução. Defin
 policy-OverridePostUpdatePage = Substituir a página “Novidades” exibida após uma atualização. Defina esta diretiva como vazia se quiser desativar a exibição de uma página após atualizações.
 policy-PasswordManagerEnabled = Ativar salvamento de senhas no gerenciador de senhas.
 policy-PasswordManagerExceptions = Impedir que o { -brand-short-name } salve senhas de sites específicos.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Ativar aceitação de chave pós-quantum para TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Desativar ou configurar o PDF.js, o visor de PDF integrado no { -brand-short-name }.
 policy-Permissions2 = Configurar permissões de câmera, microfone, localização, notificações e reprodução automática.
