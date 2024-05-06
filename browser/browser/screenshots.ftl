@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = Hent ({ $shortcut })
     .aria-label = Hent
 screenshots-component-download-button-label = Hent
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Kopier
+    .title = Kopier ({ $shortcut })
+    .aria-label = Kopier
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Hent
+    .title = Hent ({ $shortcut })
+    .aria-label = Hent
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
