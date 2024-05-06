@@ -68,6 +68,16 @@ screenshots-component-download-button =
     .title = ڈاؤن لوڈ کرو ({ $shortcut })
     .aria-label = ڈاؤن لوڈ کرو
 screenshots-component-download-button-label = ڈاؤن لوڈ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = نقل کرو
+    .title = کاپی کرو({ $shortcut })
+    .aria-label = کاپی کرو
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = ڈاؤن لوڈ
+    .title = ڈاؤن لوڈ کرو ({ $shortcut })
+    .aria-label = ڈاؤن لوڈ کرو
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
