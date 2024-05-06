@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] הצגת { $count } לשוניות לא פעילות
         }
     .tooltiptext = הצגת הלשוניות שאינן פעילות במכשיר זה
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = לשוניות לא פעילות
+    .tooltiptext = הצגת לשוניות לא פעילות במכשיר זה
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = אין לשוניות פתוחות
 # This is shown when Sync is configured but syncing tabs is disabled.
