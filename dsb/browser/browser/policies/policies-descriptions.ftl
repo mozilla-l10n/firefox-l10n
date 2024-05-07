@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = Bok pśepisaś, kótaryž se pśi prědnom starśe
 policy-OverridePostUpdatePage = Bok Nowe funkcije a změny pó aktualizaciji pśepisaś. Stajśo toś to pšawidło na prozne, jolic cośo toś ten bok znjemóžniś.
 policy-PasswordManagerEnabled = Składowanje gronidłow do zastojnika gronidłow zmóžniś.
 policy-PasswordManagerExceptions = { -brand-short-name } zakazaś, gronidła za wěste sedła składowaś.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Dojadnanje wó postkwantowem klucu za TLS zmóžniś.
 # PDF.js and PDF should not be translated
 policy-PDFjs = PDF.js znjemóžniś abo konfigurěrowaś, zatwarjony PDF-wobglědowak w { -brand-short-name }.
 policy-Permissions2 = Pšawa za kameru, mikrofon, stojnišćo, powěźeńki a awtomatiske wótgraśe konfigurěrowaś.
