@@ -114,6 +114,11 @@ tabbrowser-confirm-caretbrowsing-title = Navigazione nel testo
 tabbrowser-confirm-caretbrowsing-message = Premendo il tasto F7 è possibile attivare o disattivare la Navigazione nel testo. Questa funzione visualizza un cursore all’interno della pagina web e consente la selezione del testo attraverso la tastiera. Attivare la Navigazione nel testo?
 tabbrowser-confirm-caretbrowsing-checkbox = Non visualizzare questo avviso in futuro.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Attenzione
+tabbrowser-confirm-close-duplicate-tabs-text = La scheda con attività più recente rimarrà aperta
+
 ##
 
 # Variables:
