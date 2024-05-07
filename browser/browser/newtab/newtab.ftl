@@ -262,9 +262,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Atalhos patrocinados
 newtab-custom-pocket-title = Recomendado por { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Conteúdo excecional com curadoria de { -pocket-brand-name }, parte da família { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Recomendado por { -pocket-brand-name }
-    .description = Conteúdo excecional com curadoria de { -pocket-brand-name }, parte da família { -brand-product-name }
 newtab-custom-stories-toggle =
     .label = Histórias recomendadas
     .description = Conteúdo excepcional com curadoria da família { -brand-product-name }
@@ -277,3 +274,24 @@ newtab-custom-recent-toggle =
     .description = Uma seleção de sites e conteúdos recentes
 newtab-custom-close-button = Fechar
 newtab-custom-settings = Gerir mais definições
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Fundos
+newtab-wallpaper-reset = Repor predefinições
+newtab-wallpaper-light-red-panda = Panda vermelho
+newtab-wallpaper-light-mountain = Montanha Branca
+newtab-wallpaper-light-sky = Céu com nuvens cor-de-rosa e roxas.
+newtab-wallpaper-light-color = Formas azuis, cor-de-rosa e amarelas.
+newtab-wallpaper-light-landscape = Paisagem montanhosa envolta em névoa azul.
+newtab-wallpaper-light-beach = Praia com uma palmeira
+newtab-wallpaper-dark-aurora = Aurora Boreal
+newtab-wallpaper-dark-color = Formas em vermelho e azul
+newtab-wallpaper-dark-panda = Panda-vermelho escondido na floresta
+newtab-wallpaper-dark-sky = Paisagem da cidade com um pôr do sol
+newtab-wallpaper-dark-mountain = Paisagem montanhosa
+newtab-wallpaper-dark-city = Paisagem urbana em tons de roxo
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Fotografia de <a data-l10n-name="name-link">{ $author_string }</a> em <a data-l10n-name="webpage-link">{ $webpage_string }</a>
