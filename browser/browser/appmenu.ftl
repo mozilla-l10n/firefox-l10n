@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] Sýna { $count } óvirka flipa
         }
     .tooltiptext = Sýna óvirku flipana á þessu tæki
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Óvirkir flipar
+    .tooltiptext = Skoða óvirka flipa á þessu tæki
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Engir opnir flipar
 # This is shown when Sync is configured but syncing tabs is disabled.
