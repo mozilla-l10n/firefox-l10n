@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = Contrôler la page de premier démarrage. Laissez 
 policy-OverridePostUpdatePage = Contrôler la page « Nouveautés » après une mise à jour. Laissez cette règle vide pour désactiver la page après une mise à jour.
 policy-PasswordManagerEnabled = Activer l’enregistrement des mots de passe dans le gestionnaire de mots de passe.
 policy-PasswordManagerExceptions = Empêcher { -brand-short-name } d’enregistrer les mots de passe pour certains sites.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Activer l’acceptation de clé post-quantique pour TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Désactiver ou configurer PDF.js, la visionneuse PDF intégrée dans { -brand-short-name }.
 policy-Permissions2 = Configurer les permissions pour la caméra, le microphone, la localisation, les notifications et la lecture automatique.
