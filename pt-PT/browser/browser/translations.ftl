@@ -126,6 +126,20 @@ translations-manage-description = Transferir idiomas para a tradução offline.
 translations-manage-all-language = Todos os idiomas
 translations-manage-download-button = Transferir
 translations-manage-delete-button = Eliminar
+translations-manage-intro = Defina as suas preferências de idioma e de tradução de sites e faça a gestão dos idiomas instalados para tradução offline.
+translations-manage-install-description = Instalar idiomas para tradução offline
+translations-manage-language-install-button =
+    .label = Instalar
+translations-manage-language-install-all-button =
+    .label = Instalar todos
+    .accesskey = I
+translations-manage-intro-2 = Defina o seu idioma e preferências de tradução do site e faça a gestão dos idiomas transferidos para tradução offline.
+translations-manage-download-description = Transferir idiomas para a tradução offline.
+translations-manage-language-download-button =
+    .label = Transferir
+translations-manage-language-download-all-button =
+    .label = Transferir todos
+    .accesskey = o
 translations-manage-language-remove-button =
     .label = Remover
 translations-manage-language-remove-all-button =
@@ -134,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Ocorreu um problema ao instalar os ficheiros de idioma. Por favor, tente novamente.
 translations-manage-error-download = Ocorreu um problema ao transferir os ficheiros de idioma. Por favor, tente novamente.
 translations-manage-error-delete = Ocorreu um erro ao eliminar os ficheiros de idioma. Por favor, tente novamente.
-translations-manage-intro = Defina as suas preferências de idioma e de tradução de sites e faça a gestão dos idiomas instalados para tradução offline.
-translations-manage-install-description = Instalar idiomas para tradução offline
-translations-manage-language-install-button =
-    .label = Instalar
-translations-manage-language-install-all-button =
-    .label = Instalar todos
-    .accesskey = I
 translations-manage-error-remove = Ocorreu um erro ao remover os ficheiros de idioma. Por favor, tente novamente.
 translations-manage-error-list = Não foi possível obter a lista dos idiomas disponíveis para tradução. Atualize a página para tentar novamente.
 translations-settings-title =
@@ -170,6 +177,24 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Fechar
     .buttonaccesskeyaccept = F
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Traduzir seleção…
+    .accesskey = ç
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Traduzir seleção para { $language }
+    .accesskey = ç
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Traduzir texto de ligação…
+    .accesskey = ç
 select-translations-panel-cancel-button =
     .label = Cancelar
 select-translations-panel-translate-button =

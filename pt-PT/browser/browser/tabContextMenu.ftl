@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Fechar múltiplos separadores
     .accesskey = m
+tab-context-close-duplicate-tabs =
+    .label = Fechar separadores duplicados
+    .accesskey = u
 tab-context-share-url =
     .label = Partilhar
     .accesskey = h
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Mover separadores
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

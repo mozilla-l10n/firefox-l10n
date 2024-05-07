@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Impedir o navegador de ser atualizado.
 policy-DisableBuiltinPDFViewer = Desativar o PDF.js, o leitor de PDF incorporado no { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Impedir que o agente do navegador predefinido execute qualquer ação. Aplicável apenas ao Windows; as outras plataformas não dispõem deste agente.
 policy-DisableDeveloperTools = Bloquear acesso às ferramentas de programador.
+policy-DisableEncryptedClientHello = Desativar a utilização da funcionalidade TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Desativar comandos para enviar comentários a partir do menu de Ajuda (enviar feedback e reportar sites fraudulentos)
 policy-DisableFirefoxAccounts = Desativar os serviços baseados na { -fxaccount-brand-name }, incluindo o Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Desativar os serviços baseados na conta, incluindo a sincronização.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desativar a funcionalidade Firefox Screenshots.
 policy-DisableFirefoxStudies = Impedir o { -brand-short-name } de executar estudos.
@@ -105,6 +108,9 @@ policy-OverrideFirstRunPage = Sobrepor a página de primeira execução. Defina 
 policy-OverridePostUpdatePage = Sobrepor a página "Novidades" pós-atualização. Defina esta política para blank se pretende desativar a página pós-atualização.
 policy-PasswordManagerEnabled = Ativar a opção de guardar as palavras-passe no gestor de palavras-passe.
 policy-PasswordManagerExceptions = Impedir o { -brand-short-name } de guardar palavras-passe para sites específicos.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Ativar o acordo de chaves pós-quântico para TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Desativar ou configurar o PDF.js, o visualizador integrado de PDF do { -brand-short-name }.
 policy-Permissions2 = Configurar as permissões para a câmara, microfone, localização, notificações e reprodução automática.
