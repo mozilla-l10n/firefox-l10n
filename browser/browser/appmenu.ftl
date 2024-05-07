@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] Mostre { $count } schedis inativis
         }
     .tooltiptext = Mostre lis schedis inativis su chest dispositîf
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Schedis inativis
+    .tooltiptext = Viôt lis schedis inativis su chest dispositîf
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nissune schede vierte
 # This is shown when Sync is configured but syncing tabs is disabled.
