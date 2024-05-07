@@ -83,6 +83,10 @@ appmenu-remote-tabs-showmore =
 appmenu-remote-tabs-showinactive =
     .label = Hiện { $count } thẻ không hoạt động
     .tooltiptext = Hiển thị các thẻ không hoạt động trên thiết bị này
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Thẻ không hoạt động
+    .tooltiptext = Xem các thẻ không hoạt động trên thiết bị này
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Không có thẻ đang mở
 # This is shown when Sync is configured but syncing tabs is disabled.
