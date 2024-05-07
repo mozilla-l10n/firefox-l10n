@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = Anule la pagjine de prime esecuzion. Met cheste po
 policy-OverridePostUpdatePage = Anule la pagjine “Novitâts” sucessive al inzornament. Met cheste politiche a valôr vueit se tu desideris disativâ la pagjine visualizade daspò un inzornament.
 policy-PasswordManagerEnabled = Ative il salvament des passwords tal gjestôr des passwords.
 policy-PasswordManagerExceptions = Impedìs a { -brand-short-name } di salvâ lis passwords par determinâts sîts.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Ative l'acuardi de clâf post-cuantistiche par TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Disative o configure PDF.js, il visualizadôr PDF integrât in { -brand-short-name }.
 policy-Permissions2 = Configure i permès par fotocjamare, microfon, posizion, notifichis e pe riproduzion automatiche.
