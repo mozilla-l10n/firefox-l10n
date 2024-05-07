@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Mandat !
 confirmation-hint-firefox-relay-mask-created = Àlias novèls creat !
 confirmation-hint-firefox-relay-mask-reused = Àlias existent reütilizat !
 confirmation-hint-screenshot-copied = Captura d’ecran copiada !
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Tampar { $tabCount } onglet
+       *[other] Tampar { $tabCount } onglets
+    }
