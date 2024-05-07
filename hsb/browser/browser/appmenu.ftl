@@ -89,6 +89,10 @@ appmenu-remote-tabs-showinactive =
            *[other] { $count } inaktiwnych rajtarkow pokazać
         }
     .tooltiptext = Inaktiwne rajtarki na tutym graće pokazać
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Inaktiwne rajtarki
+    .tooltiptext = Hlejće inaktiwne rajtarki na tutym graće
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Žane wočinjene rajtarki
 # This is shown when Sync is configured but syncing tabs is disabled.
