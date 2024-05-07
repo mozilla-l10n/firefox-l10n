@@ -195,12 +195,44 @@ main-context-menu-translate-selection-to-language =
 main-context-menu-translate-link-text =
     .label = Traduzir texto de ligação…
     .accesskey = ç
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Traduzir o texto da ligação para { $language }
+    .accesskey = ç
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Tradução
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = De
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Para
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Tentar outro idioma fonte
 select-translations-panel-cancel-button =
     .label = Cancelar
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Copiar
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Copiado
+select-translations-panel-done-button =
+    .label = Concluído
+select-translations-panel-translate-full-page-button =
+    .label = Traduzir página completa
 select-translations-panel-translate-button =
     .label = Traduzir
 select-translations-panel-try-again-button =
     .label = Tente novamente
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = O texto traduzido irá aparecer aqui.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = A traduzir…
+select-translations-panel-init-failure-message =
+    .message = Não foi possível carregar os idiomas. Verifique a sua ligação à Internet e tente novamente.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Ocorreu um problema com a tradução. Por favor, tente novamente.
@@ -214,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Desculpe, nós ainda não suportamos o { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Desculpe, nós ainda não suportamos este idioma.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Definições de tradução
