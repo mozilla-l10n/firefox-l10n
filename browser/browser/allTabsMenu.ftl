@@ -15,3 +15,6 @@ all-tabs-menu-hidden-tabs =
 all-tabs-menu-manage-user-context =
     .label = Gestisci contenitori
     .accesskey = G
+
+all-tabs-menu-close-duplicate-tabs =
+  .label = Chiudi schede duplicate
