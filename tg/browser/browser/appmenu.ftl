@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] Нишон додани { $count } варақаи ғайрифаъол
         }
     .tooltiptext = Нишон додани варақаҳои ғайрифаъол дар ин дастгоҳ
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Варақаҳои ғайрифаъол
+    .tooltiptext = Дидани варақаҳои ғайрифаъол дар ин дастгоҳ
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ягон варақаи кушодашуда нест
 # This is shown when Sync is configured but syncing tabs is disabled.
