@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = Breyta upphafssíðu. Tómt gildi til að slökkva
 policy-OverridePostUpdatePage = Setja aðra síðu í stað "Hvað er nýtt"-síðunnar sem birtist eftir uppfærslur. Stilltu þetta á tómt gildi til að gera síðuna óvirka.
 policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
 policy-PasswordManagerExceptions = Koma í veg fyrir að { -brand-short-name } visti lykilorð fyrir tiltekin vefsvæði.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Virkja samþykki fyrir skammtatölvulykla (post-quantum key) fyrir TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Stilla eða gera PDF.js óvirkt, innbyggða PDF-lesarann í { -brand-short-name }.
 policy-Permissions2 = Stilla heimildir fyrir myndavél, hljóðnema, staðsetningu, tilkynningar og sjálfvirka afspilun.
