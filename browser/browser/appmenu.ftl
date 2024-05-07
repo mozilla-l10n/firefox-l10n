@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] { $count } белсенді емес бетті көрсету
         }
     .tooltiptext = Бұл құрылғыда белсенді емес беттерді көрсету
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Белсенді емес беттер
+    .tooltiptext = Бұл құрылғыдағы белсенді емес беттерді қарау
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ашық беттер жоқ
 # This is shown when Sync is configured but syncing tabs is disabled.
