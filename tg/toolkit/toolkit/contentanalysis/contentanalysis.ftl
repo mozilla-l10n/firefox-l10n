@@ -18,5 +18,13 @@ contentanalysis-genericresponse-message = Таҳлили муҳтаво бо н�
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = Ҳангоми алоқабандӣ бо { $agent } хато ба миён омад. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Пайвастшавӣ бо { $agent } ғайриимкон аст. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Амали тафтиши имзо барои { $agent } иҷро нашуд. { $content }
 contentanalysis-inprogress-quit-title = «{ -brand-shorter-name }»-ро хомӯш мекунед?
 contentanalysis-inprogress-quit-yesbutton = Ҳа, хомӯш кунед
