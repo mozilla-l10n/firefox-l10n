@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = Impussibil stabilî la conession cu
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Verifiche falide de firme par { $agent }. Trasferiment dineât pe risorse: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Al è vignût fûr un erôr te comunicazion cun { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Impussibil conetisi a { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Nol è stât pussibil verificâ la firme par { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = Il cjariament in rêt di “{ $filename }” al è stât dineât.
+contentanalysis-error-message-dropped-text = Il “strissine e mole” al è stât dineât.
+contentanalysis-error-message-clipboard = Il “tache” al è stât dineât.
+contentanalysis-error-message-print = Il “stampe” al è stât dineât.
 contentanalysis-block-dialog-title-upload-file = No tu âs il permès par cjariâ in rêt chest file
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
