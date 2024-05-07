@@ -264,3 +264,7 @@ newtab-custom-recent-toggle =
     .description = Una seleccion de sites e contenguts recents
 newtab-custom-close-button = Tampar
 newtab-custom-settings = Gerir mai de paramètres
+
+## New Tab Wallpapers
+
+newtab-wallpaper-light-mountain = Montanha blanca

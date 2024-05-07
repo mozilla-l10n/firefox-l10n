@@ -77,6 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Afichar mai d’onglets
     .tooltiptext = Mostrar mai d’onglets d’aqueste periferic
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Onglets inactius
+    .tooltiptext = Veire los onglets inactius d’aqueste aparelh
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Cap d’onglet pas dobèrt
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -266,3 +270,7 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Connectatz-vos a vòstre compte
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Recebètz d’alèrtas de divulgacions de donadas
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
