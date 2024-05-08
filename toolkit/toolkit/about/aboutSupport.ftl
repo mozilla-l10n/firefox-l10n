@@ -191,6 +191,13 @@ media-codec-support-lack-of-extension = Installer utviding
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-video-robustness = Videorobustheit
+media-audio-robustness = Lydrobustheit
+media-cdm-capabilities = Eigenskapar
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Fri start
 
 ##
 
@@ -419,3 +426,5 @@ pointing-device-none = Inga peikeeining
 ## Content Analysis (DLP)
 
 content-analysis-active = Aktiv
+content-analysis-connected-to-agent = Tilkopla til agent
+content-analysis-agent-path = Sti til agent
