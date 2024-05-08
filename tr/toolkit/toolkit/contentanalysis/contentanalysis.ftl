@@ -74,9 +74,15 @@ contentanalysis-error-message-dropped-text = Sürükleyip bırakma reddedildi.
 contentanalysis-error-message-clipboard = Yapıştırma reddedildi.
 contentanalysis-error-message-print = Yazdırma reddedildi.
 contentanalysis-block-dialog-title-upload-file = Bu dosyayı yüklemenize izin verilmiyor
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Kuruluşunuzun veri koruma ilkelerine göre “{ $filename }” dosyasını yükleme izniniz bulunmuyor. Daha fazla bilgi için yöneticinizle iletişime geçin.
 contentanalysis-block-dialog-title-clipboard = Bu içeriği yapıştırmanıza izin verilmiyor
+contentanalysis-block-dialog-body-clipboard = Kuruluşunuzun veri koruma ilkelerine göre bu içeriği yapıştırma izniniz bulunmuyor. Daha fazla bilgi için yöneticinizle iletişime geçin.
 contentanalysis-block-dialog-title-dropped-text = Bu içeriği sürükleyip bırakmanıza izin verilmiyor
+contentanalysis-block-dialog-body-dropped-text = Kuruluşunuzun veri koruma ilkelerine göre bu içeriği sürükleyip bırakma izniniz bulunmuyor. Daha fazla bilgi için yöneticinizle iletişime geçin.
 contentanalysis-block-dialog-title-print = Bu belgeyi yazdırmanıza izin verilmiyor
+contentanalysis-block-dialog-body-print = Kuruluşunuzun veri koruma ilkelerine göre bu belgeyi yazdırma izniniz bulunmuyor. Daha fazla bilgi için yöneticinizle iletişime geçin.
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } uygulamasından çıkılsın mı?
 contentanalysis-inprogress-quit-message = Devam eden birkaç işlem var. { -brand-shorter-name } uygulamasından çıkarsanız bu işlemler tamamlanmayacaktır.
 contentanalysis-inprogress-quit-yesbutton = Evet, çık

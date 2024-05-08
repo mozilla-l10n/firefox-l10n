@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] { $count } pasif sekmeyi göster
         }
     .tooltiptext = Bu cihazdaki pasif sekmeleri göster
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Pasif sekmeler
+    .tooltiptext = Bu cihazdaki pasif sekmelere bak
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Açık sekme yok
 # This is shown when Sync is configured but syncing tabs is disabled.
