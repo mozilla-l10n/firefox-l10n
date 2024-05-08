@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Αντίθεση
     .title = Θέμα χρωμάτων: Αντίθεση
 about-reader-color-theme-custom = Προσαρμοσμένα χρώματα
     .title = Θέμα χρωμάτων: Προσαρμοσμένο
+about-reader-color-light-theme = Φωτεινό
+    .title = Φωτεινό θέμα
+about-reader-color-dark-theme = Σκοτεινό
+    .title = Σκοτεινό θέμα
+about-reader-color-sepia-theme = Σέπια
+    .title = Σέπια θέμα
+about-reader-color-auto-theme = Αυτόματο
+    .title = Αυτόματο θέμα
+about-reader-color-gray-theme = Γκρι
+    .title = Γκρι θέμα
+about-reader-color-contrast-theme = Αντίθεση
+    .title = Αντίθεση θέματος
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -91,8 +103,17 @@ about-reader-custom-colors-reset-button = Επαναφορά προεπιλογ�
 ## Reader View improved text and layout menu
 
 about-reader-layout-header = Διάταξη
+about-reader-advanced-layout-header = Για προχωρημένους
+about-reader-slider-label-width-narrow = Στενό
+about-reader-slider-label-spacing-standard = Τυπικό
 about-reader-content-width-label =
     .label = Πλάτος περιεχομένου
+about-reader-line-spacing-label =
+    .label = Διάστιχο
+about-reader-character-spacing-label =
+    .label = Διάστιχο χαρακτήρων
+about-reader-word-spacing-label =
+    .label = Διάστιχο λέξης
 about-reader-text-alignment-label = Στοίχιση κειμένου
 about-reader-text-alignment-left =
     .title = Στοίχιση κειμένου αριστερά

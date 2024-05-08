@@ -133,6 +133,7 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Εγκατάσταση όλων
     .accesskey = Ε
+translations-manage-intro-2 = Ορίστε τις προτιμήσεις γλώσσας και μετάφρασης ιστοτόπων και διαχειριστείτε τις γλώσσες που θα ληφθούν για μετάφραση εκτός σύνδεσης.
 translations-manage-download-description = Λήψη γλωσσών για μετάφραση εκτός σύνδεσης
 translations-manage-language-download-button =
     .label = Λήψη
@@ -208,6 +209,8 @@ select-translations-panel-header = Μετάφραση
 select-translations-panel-from-label = Από
 # Text displayed above the to-language dropdown menu.
 select-translations-panel-to-label = Σε
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Δοκιμάστε μια άλλη αρχική γλώσσα
 select-translations-panel-cancel-button =
     .label = Ακύρωση
 # Text displayed on the copy button before it is clicked.
@@ -218,10 +221,14 @@ select-translations-panel-copy-button-copied =
     .label = Αντιγράφηκε
 select-translations-panel-done-button =
     .label = Τέλος
+select-translations-panel-translate-full-page-button =
+    .label = Μετάφραση πλήρους σελίδας
 select-translations-panel-translate-button =
     .label = Μετάφραση
 select-translations-panel-try-again-button =
     .label = Δοκιμή ξανά
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = Το μεταφρασμένο κείμενο θα εμφανίζεται εδώ.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Μετάφραση…
 select-translations-panel-init-failure-message =

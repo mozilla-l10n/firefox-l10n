@@ -64,6 +64,10 @@ contentanalysis-unspecified-error-message-content = Προέκυψε σφάλμ�
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-no-agent-connected-message-content = Αδυναμία σύνδεσης στο { $agent }. { $content }
 # Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Η επαλήθευση υπογραφής για το { $agent }. { $content } απέτυχε
+# Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Η μεταφόρτωση του αρχείου «{ $filename }» απορρίφθηκε.
 contentanalysis-error-message-dropped-text = Η μεταφορά και απόθεση απορρίφθηκε.
