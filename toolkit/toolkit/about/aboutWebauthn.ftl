@@ -25,6 +25,8 @@ about-webauthn-bio-enrollment-section-title = Бақайдгирии хусус�
 
 about-webauthn-text-connect-device = Лутфан, токени бехатариро пайваст намоед.
 about-webauthn-text-not-available = Дар ин платформа дастнорас аст.
+about-webauthn-bio-enrollment-list-subsection-title = Бақайдгирӣ:
+about-webauthn-add-bio-enrollment-section-title = Илова кардани бақайдгирии нав
 
 ## Results label
 
