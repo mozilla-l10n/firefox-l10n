@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] { $count } inaktív lap megjelenítése
         }
     .tooltiptext = Az inaktív lapok megjelenítése az eszközön
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Inaktív lapok
+    .tooltiptext = Az eszköz inaktív lapjainak megtekintése
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nincsenek nyitott lapok
 # This is shown when Sync is configured but syncing tabs is disabled.
