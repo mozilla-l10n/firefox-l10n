@@ -43,6 +43,9 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Истифодаи ҷудокунандаҳои содатар бо «prefers-reduced-motion»
 options-inspector-simplified-highlighters-tooltip =
     .title = Вақте ки «prefers-reduced-motion» фаъол аст, ҷудокунандаҳои содакардашуда фаъол мешаванд. Барои истисно кардани таъсирҳои дурахш, ба ивази росткунҷаҳои рангшуда дар атрофи унсурҳои ҷудокардашуда хатҳо кашида мешаванд.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Марказонидани воридаи навбатӣ дар <kbd>Enter</kbd>
 
 ## "Default Color Unit" options for the Inspector
 
