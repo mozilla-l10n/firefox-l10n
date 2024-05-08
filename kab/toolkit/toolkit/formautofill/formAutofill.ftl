@@ -11,6 +11,9 @@ autofill-options-link-osx = Ismenyifen n usekcem s wudem awurman
 
 ## The credit card capture doorhanger
 
+credit-card-capture-cancel-button =
+    .label = Mačči tura
+    .accessKey = R
 
 # Used on the doorhanger when an credit card change is detected.
 
