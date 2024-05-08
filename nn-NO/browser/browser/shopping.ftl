@@ -166,9 +166,11 @@ shopping-survey-thanks =
 shopping-callout-pdp-opted-in-title = Er desse vurderingane pålitelege? Finn raskt ut av det.
 shopping-callout-closed-not-opted-in-title = Eitt klikk frå pålitelege vurderingar
 shopping-callout-closed-not-opted-in-revised-button = Eg forstår
+shopping-callout-not-opted-in-reminder-open-button = Opne vurderingskontrolløren
 shopping-callout-not-opted-in-reminder-close-button = Ignorer
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Ikkje vis igjen
 shopping-callout-disabled-auto-open-button = Eg forstår
+shopping-callout-opted-out-title = Vurderingskontrolløren er av
 shopping-callout-opted-out-button = Eg forstår
 
 ## Onboarding message strings.
