@@ -26,6 +26,18 @@ about-reader-color-theme-contrast = Kontrasztos
     .title = Kontrasztos színű téma
 about-reader-color-theme-custom = Egyéni színek
     .title = Egyéni színeket használó téma
+about-reader-color-light-theme = Világos
+    .title = Világos téma
+about-reader-color-dark-theme = Sötét
+    .title = Sötét téma
+about-reader-color-sepia-theme = Szépia
+    .title = Szépia téma
+about-reader-color-auto-theme = Automatikus
+    .title = Automatikus téma
+about-reader-color-gray-theme = Szürke
+    .title = Szürke téma
+about-reader-color-contrast-theme = Kontrasztos
+    .title = Kontrasztos téma
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -62,6 +74,8 @@ about-reader-font-type-sans-serif = Talpatlan
 about-reader-toolbar-close = Olvasó nézet bezárása
 about-reader-toolbar-type-controls = Szövegbeállítások
 about-reader-toolbar-color-controls = Színek
+about-reader-toolbar-text-layout-controls = Szöveg és elrendezés
+about-reader-toolbar-theme-controls = Téma
 about-reader-toolbar-savetopocket = Mentés a { -pocket-brand-name }be
 
 ## Reader View colors menu
@@ -85,3 +99,28 @@ about-reader-custom-colors-visited-links = Látogatott hivatkozások
 about-reader-custom-colors-selection-highlight = Kiemelő a felolvasáshoz
     .title = Szín szerkesztése
 about-reader-custom-colors-reset-button = Alapértelmezések visszaállítása
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Elrendezés
+about-reader-advanced-layout-header = Speciális
+about-reader-slider-label-width-narrow = Keskeny
+about-reader-slider-label-width-wide = Széles
+about-reader-slider-label-spacing-narrow = Keskeny
+about-reader-slider-label-spacing-standard = Szokásos
+about-reader-slider-label-spacing-wide = Széles
+about-reader-content-width-label =
+    .label = Tartalom szélessége
+about-reader-line-spacing-label =
+    .label = Sorköz
+about-reader-character-spacing-label =
+    .label = Karakterköz
+about-reader-word-spacing-label =
+    .label = Szóköz
+about-reader-text-alignment-label = Szöveg igazítása
+about-reader-text-alignment-left =
+    .title = Szöveg balra igazítása
+about-reader-text-alignment-center =
+    .title = Szöveg középre igazítása
+about-reader-text-alignment-right =
+    .title = Szöveg jobbra igazítása

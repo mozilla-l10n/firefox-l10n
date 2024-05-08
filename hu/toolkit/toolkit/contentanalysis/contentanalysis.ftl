@@ -55,6 +55,24 @@ contentanalysis-no-agent-connected-message = Nem lehet a következőhöz kapcsol
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-invalid-agent-signature-message = Nem sikerült az aláírás-ellenőrzés a következőnél: { $agent }. A következő erőforrás átvitele megtagadva: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = Hiba történt a(z) { $agent } ügynökkel történő kommunikáció során. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = Nem lehet a következőhöz kapcsolódni: { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Nem sikerült az aláírás-ellenőrzés a következőnél: { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = A(z) „{ $filename }” feltöltése megtagadva.
+contentanalysis-error-message-dropped-text = A fogd és vidd művelet megtagadva.
+contentanalysis-error-message-clipboard = A beillesztés megtagadva.
+contentanalysis-error-message-print = A nyomtatás megtagadva.
 contentanalysis-block-dialog-title-upload-file = Ezt a fájlt nem töltheti fel
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
