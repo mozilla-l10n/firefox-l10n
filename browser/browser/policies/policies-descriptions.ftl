@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = İlk açılış sayfasını değiştir. İlk açı
 policy-OverridePostUpdatePage = Güncelleme sonrası “Yenilikler” sayfasını değiştir. Güncelleme sonrası sayfasını devre dışı bırakmak istiyorsanız bu ilkeyi boş olarak ayarlayabilirsiniz.
 policy-PasswordManagerEnabled = Parolaları parola yöneticisine kaydetmeyi aç.
 policy-PasswordManagerExceptions = { -brand-short-name } tarayıcısının belirli sitelerde parola kaydetmesini engelle.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = TLS için post-quantum anahtar anlaşmasını etkinleştir.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Dahili { -brand-short-name } PDF görüntüleyicisi olan PDF.js’i devre dışı bırak veya yapılandır.
 policy-Permissions2 = Kamera, mikrofon, konum, bildirim ve otomatik oynatma izinlerini yapılandır.
