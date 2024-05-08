@@ -104,3 +104,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Маълум�
 ## When this icon is hovered one or more of those messages are displayed to explain what
 ## the issue are.
 
+# :has() should not be translated
+css-selector-warning-unconstrained-has = Ин интихобкунанда аз <strong>:has()</strong>-и номаҳдуд истифода мебарад, ва метавонад суст кор кунад
