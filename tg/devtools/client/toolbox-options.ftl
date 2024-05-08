@@ -46,6 +46,8 @@ options-inspector-simplified-highlighters-tooltip =
 # The label for the checkbox option to make the Enter key move the focus to the next input
 # when editing a property name or value in the Inspector rules view
 options-inspector-rules-focus-next-on-enter-label = Марказонидани воридаи навбатӣ дар <kbd>Enter</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Агар фаъол бошад, зеркунии тугмаи «Enter» ҳангоми таҳриркунии интихобкунанда, номи хусусият ё қимат ба воридаи навбатӣ марказонида мешавад.
 
 ## "Default Color Unit" options for the Inspector
 
