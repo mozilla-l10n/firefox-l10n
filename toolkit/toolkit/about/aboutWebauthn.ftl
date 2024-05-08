@@ -95,6 +95,8 @@ about-webauthn-auth-option-uvacfg = Иҷозати танзимоти «Authenti
 about-webauthn-auth-option-credmgmt = Идоракунии маълумоти корбар
 about-webauthn-auth-option-credentialmgmtpreview = Намунаи идоракунии маълумоти корбар
 about-webauthn-auth-option-setminpinlength = Танзими дарозии ҳадди ақали рамзи PIN
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = «MakeCredential» бе санҷиши ҳаққонияти корбар
 about-webauthn-auth-option-alwaysuv = Ҳамеша дархост кардани санҷиши ҳаққонияти корбар
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Дуруст
@@ -142,6 +144,7 @@ about-webauthn-ctap2-enroll-feedback-good = Аксбардорӣ хуб буд.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Аксбардорӣ хеле баланд буд.
 about-webauthn-ctap2-enroll-feedback-too-low = Аксбардорӣ хеле паст буд.
 about-webauthn-ctap2-enroll-feedback-too-left = Аксбардорӣ ба тарафи чап дур рафт.
 about-webauthn-ctap2-enroll-feedback-too-right = Аксбардорӣ ба тарафи рост дур рафт.
@@ -154,6 +157,9 @@ about-webauthn-ctap2-enroll-feedback-poor-quality = Сифати аксбард�
 # Skewed in the sense of fingerprint/iris scan was too distorted
 about-webauthn-ctap2-enroll-feedback-too-skewed = Аксбардорӣ хеле каҷ буд.
 about-webauthn-ctap2-enroll-feedback-too-short = Аксбардорӣ хеле кутоҳ буд.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Пайвасти аксбардорӣ иҷро нашуд.
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
 about-webauthn-ctap2-enroll-feedback-exists = Аксбардорӣ аллакай вуҷуд дорад.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Ягон фаъолият аз корбар нест.
+about-webauthn-ctap2-enroll-feedback-other = Хатои аксбардорӣ.
