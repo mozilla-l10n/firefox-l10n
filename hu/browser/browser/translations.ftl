@@ -126,6 +126,13 @@ translations-manage-description = Nyelvek letöltése a kapcsolat nélküli ford
 translations-manage-all-language = Összes nyelv
 translations-manage-download-button = Letöltés
 translations-manage-delete-button = Törlés
+translations-manage-intro = Adja meg a nyelvi és webhelyfordítási beállításokat, és kezelje az offline fordításhoz használt nyelveket.
+translations-manage-install-description = Nyelvek telepítése a kapcsolat nélküli fordításhoz
+translations-manage-language-install-button =
+    .label = Telepítés
+translations-manage-language-install-all-button =
+    .label = Összes telepítése
+    .accesskey = t
 translations-manage-intro-2 = Adja meg a nyelvi és webhelyfordítási beállításokat, és kezelje az offline fordításhoz letöltött nyelveket.
 translations-manage-download-description = Nyelvek letöltése az offline fordításhoz
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = Hiba történt a nyelvi fájlok telepítése során. Próbálja meg újra.
 translations-manage-error-download = Hiba történt a nyelvi fájlok letöltése során. Próbálja meg újra.
 translations-manage-error-delete = Hiba történt a nyelvi fájlok törlése során. Próbálja meg újra.
-translations-manage-intro = Adja meg a nyelvi és webhelyfordítási beállításokat, és kezelje az offline fordításhoz használt nyelveket.
-translations-manage-install-description = Nyelvek telepítése a kapcsolat nélküli fordításhoz
-translations-manage-language-install-button =
-    .label = Telepítés
-translations-manage-language-install-all-button =
-    .label = Összes telepítése
-    .accesskey = t
 translations-manage-error-remove = Hiba történt a nyelvi fájlok eltávolítása során. Próbálja meg újra.
 translations-manage-error-list = Nem sikerült lekérni a fordításhoz elérhető nyelveket. Az újrapróbálkozáshoz frissítse az oldalt.
 translations-settings-title =
@@ -177,8 +177,52 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Bezárás
     .buttonaccesskeyaccept = B
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Kijelölés fordítása…
+    .accesskey = f
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Kijelölés lefordítása { $language } nyelvre
+    .accesskey = o
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Hivatkozás szövegének lefordítása…
+    .accesskey = H
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Hivatkozás szövegének lefordítása { $language } nyelvre
+    .accesskey = v
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Fordítás
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Erről:
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = Erre:
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Másik forrásnyelv kipróbálása
 select-translations-panel-cancel-button =
     .label = Mégse
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Másolás
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Másolva
+select-translations-panel-done-button =
+    .label = Kész
+select-translations-panel-translate-full-page-button =
+    .label = Teljes oldal lefordítása
 select-translations-panel-translate-button =
     .label = Fordítás
 select-translations-panel-try-again-button =
