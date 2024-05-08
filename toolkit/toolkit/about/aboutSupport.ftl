@@ -428,3 +428,4 @@ pointing-device-none = Inga peikeeining
 content-analysis-active = Aktiv
 content-analysis-connected-to-agent = Tilkopla til agent
 content-analysis-agent-path = Sti til agent
+content-analysis-request-count = Antal førespurnadar
