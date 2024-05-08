@@ -227,6 +227,12 @@ select-translations-panel-translate-button =
     .label = Fordítás
 select-translations-panel-try-again-button =
     .label = Próbálja újra
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = A lefordított szöveg itt fog megjelenni.
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Fordítás…
+select-translations-panel-init-failure-message =
+    .message = Nem sikerült a nyelvek betöltése. Ellenőrizze az internetkapcsolatát és próbálja újra.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Hiba történt a fordítás során. Próbálja meg újra.
@@ -240,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Sajnos a(z) { $language } nyelv még nem támogatott.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Sajnos még nem támogatjuk ezt a nyelvet.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Fordítási beállítások
