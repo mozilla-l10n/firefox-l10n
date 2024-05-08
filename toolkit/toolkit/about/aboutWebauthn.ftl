@@ -52,6 +52,8 @@ about-webauthn-repeat-pin-label = Рамзи PIN-и навро такрор ку
 about-webauthn-current-pin-label = Рамзи PIN-и ҷорӣ:
 about-webauthn-pin-required-label = Лутфан, рамзи PIN-и худро ворид намоед:
 about-webauthn-credential-list-subsection-title = Маълумоти корбар:
+about-webauthn-enrollment-name-label = Номи бақайдгирӣ (интихобӣ):
+about-webauthn-enrollment-list-empty = Ягон бақайдгирӣ дар ин дастгоҳ ёфт нашуд.
 about-webauthn-credential-list-empty = Ягон маълумоти корбар дар ин дастгоҳ ёфт нашуд.
 about-webauthn-confirm-deletion-label = Шумо зеринро нест мекунед:
 
@@ -61,9 +63,13 @@ about-webauthn-current-set-pin-button = Танзим кардани рамзи P
 about-webauthn-current-change-pin-button = Иваз кардани рамзи PIN
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Рӯйхати маълумоти корбарон
+# List is a verb, as in "Show list of all enrollments"
+about-webauthn-list-bio-enrollments-button = Намоиши рӯйхати бақайдгирӣ
+about-webauthn-add-bio-enrollment-button = Илова кардани бақайдгирӣ
 about-webauthn-cancel-button = Бекор кардан
 about-webauthn-send-pin-button = ХУБ
 about-webauthn-delete-button = Нест кардан
+about-webauthn-start-enrollment-button = Оғоз кардани бақайдгирӣ
 about-webauthn-update-button = Навсозӣ кардан
 
 ## Authenticator options fields
@@ -78,6 +84,7 @@ about-webauthn-auth-option-plat = Дастгоҳи платформа
 about-webauthn-auth-option-pinuvauthtoken = Иҷозатҳои фармон (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Ягон иҷозати «MakeCredential/GetAssertion» бо рамзи PIN-и муштарӣ нест
+about-webauthn-auth-option-largeblobs = «Blob»-ҳои калон
 about-webauthn-auth-option-ep = Баҳодиҳии корхона
 about-webauthn-auth-option-bioenroll = Бақайдгирии биометрӣ
 # FIDO_2_1_PRE should not be translated.
