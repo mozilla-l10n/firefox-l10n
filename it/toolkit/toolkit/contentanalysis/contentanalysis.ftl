@@ -69,10 +69,6 @@ contentanalysis-block-dialog-body-dropped-text = I criteri per la protezione dei
 contentanalysis-block-dialog-title-print = Non hai il permesso di stampare questo documento
 contentanalysis-block-dialog-body-print = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di stampare questo documento. Contatta il tuo amministratore per ulteriori informazioni.
 
-# Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = Si è verificato un errore nella comunicazione con il software per la prevenzione della perdita di dati. Trasferimento rifiutato per la risorsa: { $content }.
-
 contentanalysis-warndialogtitle = Questi contenuti potrebbero essere non sicuri
 
 # Variables:
