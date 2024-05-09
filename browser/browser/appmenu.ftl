@@ -88,6 +88,10 @@ appmenu-remote-tabs-showinactive =
            *[many] Паказаць { $count } неактыўных картак
         }
     .tooltiptext = Паказаць колькасць неактыўных картак на гэтай прыладзе
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Неактыўныя карткі
+    .tooltiptext = Паглядзець неактыўныя карткі на гэтай прыладзе
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Няма адкрытых картак
 # This is shown when Sync is configured but syncing tabs is disabled.
