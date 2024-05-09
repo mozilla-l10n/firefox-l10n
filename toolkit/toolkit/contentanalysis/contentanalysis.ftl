@@ -5,8 +5,14 @@
 contentanalysis-alert-title = Таҳлили муҳтаво
 contentanalysis-slow-agent-dialog-header = Дар ҳоли тасвирбардорӣ
 contentanalysis-operationtype-clipboard = ҳофизаи муваққатӣ
+contentanalysis-operationtype-dropped-text = матни гузаронидашуда
 contentanalysis-operationtype-print = чоп кардан
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-customdisplaystring-description = боркунии «{ $filename }»
 contentanalysis-warndialogtitle = Ин муҳтаво метавонад хатарнок бошад
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-warndialogtext = Ташкилоти шумо аз нармафзори пешгирӣ аз гумшавии маълумот (DLP) истифода мебарад, ки ин муҳтаворо ҳамчун хатарнок қайд кард: { $content }. Онро ба ҳар ҳол истифода мебаред?
 contentanalysis-warndialog-response-allow = Истифодаи муҳтаво
 contentanalysis-warndialog-response-deny = Бекор кардан
 contentanalysis-notification-title = Таҳлили муҳтаво
@@ -14,6 +20,24 @@ contentanalysis-notification-title = Таҳлили муҳтаво
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
 #   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
 contentanalysis-genericresponse-message = Таҳлили муҳтаво бо натиҷаи «{ $response }» барои манбаи зерин ба анҷом расид: { $content }
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-block-message = Ташкилоти шумо аз нармафзори пешгирӣ аз гумшавии маълумот (DLP) истифода мебарад, ки ин муҳтаворо манъ кард: { $content }.
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-error-message = Ҳангоми алоқабандӣ бо нармафзори пешгирӣ аз гумшавии маълумот (DLP) хато ба миён омад. Интиқол барои манбаъ рад карда шуд: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-unspecified-error-message = Ҳангоми алоқабандӣ бо { $agent } хато ба миён омад. Интиқол барои манбаъ рад карда шуд: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = Алоқабандӣ бо { $agent } ғайриимкон аст. Интиқол барои манбаъ рад карда шуд: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-invalid-agent-signature-message = Амали тафтиши имзо барои { $agent } иҷро нашуд. Интиқол барои манбаъ рад карда шуд: { $content }.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
