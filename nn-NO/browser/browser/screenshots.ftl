@@ -51,10 +51,17 @@ screenshots-component-retry-button =
     .aria-label = Prøv å ta skjermbildet på nytt
 screenshots-component-copy-button-label = Kopier
 screenshots-component-download-button-label = Last ned
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Last ned
+    .title = Last ned ({ $shortcut })
+    .aria-label = Last ned
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
