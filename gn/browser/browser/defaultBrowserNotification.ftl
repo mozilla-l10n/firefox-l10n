@@ -27,5 +27,10 @@ default-browser-prompt-button-secondary = Ani ko’ág̃a
 ## Windows 10 and 11.
 
 default-browser-guidance-notification-title = Ejapo { -brand-short-name } taha’e ypyguáva
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Jeku’e 1: Eho Ñembohekópe > Tembiporu’i ijypyguáva
+    Jeku’e 2: Eho yvy gotyo "Navegador web" peve
+    Jeku’e 3: Eiporavo { -brand-short-name }
 default-browser-guidance-notification-info-page = Ehechaukána
 default-browser-guidance-notification-dismiss = Apopyre
