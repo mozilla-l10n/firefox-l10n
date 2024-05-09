@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = Diystyru y dudalen rhediad gyntaf. Gosod y polisi 
 policy-OverridePostUpdatePage = Diystyru'r dudalen ôl ddiweddaru "Beth sy'n Newydd". Gosodwch y polisi hwn i gwag os hoffech chi analluogi'r dudalen ôl ddiweddaru.
 policy-PasswordManagerEnabled = Galluogi cadw cyfrineiriau i'r rheolwr cyfrinair.
 policy-PasswordManagerExceptions = Rhwystro { -brand-short-name } rhag cadw cyfrineiriau ar gyfer gwefannau penodol.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Galluogi cytundeb allwedd ôl-cwantwm ar gyfer TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Analluogwch neu ffurfweddu PDF.js, y darllenydd PDF mewnol yn { -brand-short-name }.
 policy-Permissions2 = Ffurfweddwch y caniatâd ar gyfer camera, meicroffon, lleoliadau, hysbysiadau ac awtochwarae.
