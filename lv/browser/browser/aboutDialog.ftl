@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Pārbaudīt atjauninājumus
     .accesskey = C
 update-updateButton =
-    .label = Restartējiet, lai atjauninātu { -brand-shorter-name }
+    .label = Pārstartējiet, lai atjauninātu { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Meklē atjauninājumus…
 
