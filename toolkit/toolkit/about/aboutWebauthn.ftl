@@ -22,7 +22,7 @@ about-webauthn-confirm-deletion-section-title = Stadfest sletting
 
 about-webauthn-text-connect-device = Kople til eit sikkerheits-token
 # If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
-about-webauthn-text-select-device = Vel ønskt sikkerheits-token ved å berøre eininga.
+about-webauthn-text-select-device = Vel ønskt sikkerheits-token ved å trykkje på eininga.
 
 ## Results label
 
