@@ -32,5 +32,9 @@ default-browser-guidance-notification-body-instruction-win10 =
     Jeku’e 1: Eho Ñembohekópe > Tembiporu’i ijypyguáva
     Jeku’e 2: Eho yvy gotyo "Navegador web" peve
     Jeku’e 3: Eiporavo { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Jeku’e 1: Eho Ñembohekópe > Tembiporu’i ijypyguáva
+    Jeku’e 2: Eiporavo “Emoĩ ijypyguávarõ” { -brand-short-name }-pe g̃uarã
 default-browser-guidance-notification-info-page = Ehechaukána
 default-browser-guidance-notification-dismiss = Apopyre
