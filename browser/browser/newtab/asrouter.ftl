@@ -201,6 +201,7 @@ fxa-sync-cfr-secondary = Հիշեցնել ավելի ուշ
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-heavy-user-primary-button = Սկսեք
+device-migration-fxa-spotlight-older-device-header = Մտքի խաղաղություն { -brand-product-name }-ից
 device-migration-fxa-spotlight-older-device-primary-button = Ստեղծել հաշիվ
 
 ## Set as Default PDF Reader Infobar
