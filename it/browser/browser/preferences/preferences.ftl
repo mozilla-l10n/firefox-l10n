@@ -590,6 +590,12 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Attività recente
 home-prefs-recent-activity-description = Una selezione di siti e contenuti visualizzati di recente
+
+home-prefs-weather-header =
+  .label = Meteo
+home-prefs-weather-description = Panoramica delle previsioni meteo per oggi
+home-prefs-weather-learn-more-link = Ulteriori informazioni
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
