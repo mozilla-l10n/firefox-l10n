@@ -147,6 +147,10 @@ policy-HardwareAcceleration = Se “false”, disattiva l’accelerazione hardwa
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Imposta la pagina iniziale ed eventualmente impedisci modifiche all’opzione.
 
+policy-HttpAllowlist = Origini che non verranno aggiornate a HTTPS.
+
+policy-HttpsOnlyMode = Consenti l’attivazione della modalità solo HTTPS.
+
 policy-InstallAddonsPermission = Consenti a determinati siti web di installare componenti aggiuntivi.
 
 policy-LegacyProfiles = Disattiva la funzione che impone profili separati per ogni installazione
