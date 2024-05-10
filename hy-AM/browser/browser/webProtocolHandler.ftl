@@ -9,6 +9,7 @@ protocolhandler-mailto-os-handler-no-button = Ոչ հիմա
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
+protocolhandler-mailto-handler-notificationbox-always = Միշտ բացել էլ. նամակի հղումները օգտագործելո՞վ { $url }:
 protocolhandler-mailto-handler-yes-confirm = { $url }-ը հիմա Ձեր սկզբնադիր կայքն է էլ. նամակ ուղարկող հղումների բացման համար:
 
 ##
