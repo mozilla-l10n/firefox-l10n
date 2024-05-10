@@ -15,6 +15,7 @@ crashreporter-loading-details = Бор шуда истодааст…
 crashreporter-view-report-title = Мундариҷаи гузориш
 crashreporter-comment-prompt = Шарҳеро илова кунед (шарҳҳо ба ҳама намоён мешаванд)
 crashreporter-report-info = Ин гузориш, инчунин, маълумоти техникиро дар бораи вазъияти барнома ҳангоми вайроншавӣ дар бар мегирад.
+crashreporter-send-report = Дар бораи ин садама ба мутахассисони «{ -vendor-short-name }» хабар расонед, то онҳо онро ислоҳ кунанд.
 crashreporter-include-url = Нишонии саҳифаеро, ки ман дар он будам, илова кунед.
 crashreporter-submit-status = Пеш аз он ки шумо браузерро хомӯш ё аз нав оғоз мекунед, гузориши шумо дар бораи вайронӣ фиристода мешавад.
 crashreporter-submit-in-progress = Гузориши шумо интиқол дода истодааст…
