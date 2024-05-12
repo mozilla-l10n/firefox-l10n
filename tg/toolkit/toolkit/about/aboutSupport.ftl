@@ -286,6 +286,7 @@ try-newer-driver = Барои версияи драйвери корти гра�
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Танзимоти «ClearType»
 compositing = Созандагӣ
+support-font-determination = Маълуоти ислоҳи хатоҳои намоиши шрифт
 hardware-h264 = Рамзёбии сахтафзории H264
 main-thread-no-omtc = ҷараёни асосӣ, бе «OMTC»
 yes = Ҳа

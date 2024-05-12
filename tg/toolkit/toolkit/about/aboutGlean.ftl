@@ -51,6 +51,8 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (ягон пинг фиристода нашавад)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Мутмаин шавед, ки дар майдони қаблӣ барчаспи хотиравии ислоҳи хатоҳо танзим шудааст, то шумо тавонед дар оянда пингҳои худро муайян кунед.
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings-with-requirements = Барчаспи хотиравиро барои ислоҳи хато танзим кунед <span>(20 аломат ё камтар, танҳо дар асоси алифбо, рақамҳо ва тире - )</span>, то тавонед пингҳои худро дертар муайян намоед.
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
@@ -73,6 +75,8 @@ about-glean-li-for-visit-gdpv =
     Дар баъзе мавридҳо, ин амал метавонад якчанд дақиқа вақт гирад.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation = Барои гузаронидани санҷишҳои иловагии <i>ad hoc</i>, шумо, инчунин, метавонед ба воситаи кушоиши консоли «devtools» дар саҳифаи <code>about:glean</code> ва истифодаи рамзи <code>testGetValue()</code> API монанди <code>Glean.metricCategory.metricName.testGetValue()</code>, қимати ҷории қисми махсуси абзорҳоро муайян кунед.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation2 = Барои гузаронидани санҷишҳои иловагии <i>ad hoc</i>, шумо, инчунин, метавонед ба воситаи кушоиши консоли «devtools» дар саҳифаи <code>about:glean</code> ва истифодаи рамзи <code>testGetValue()</code> API монанди <code>Glean.metricCategory.metricName.testGetValue()</code> барои меъёр бо номи <code>metric.category.metric_name</code>, қимати ҷории қисми махсуси абзорҳоро муайян кунед.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note =
     Лутфан, таваҷҷуҳ намоед, ки шумо аз «Glean JS API» тавассути консоли «devtools» истифода мебаред.

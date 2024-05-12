@@ -24,6 +24,10 @@ about-webauthn-bio-enrollment-section-title = Бақайдгирии хусус�
 ## Info field texts
 
 about-webauthn-text-connect-device = Лутфан, токени бехатариро пайваст намоед.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Лутфан, бо ламскунии дастгоҳ, нишони амниятии дилхоҳи худро интихоб намоед.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Имконот идора карда намешавад, зеро ки нишони амниятии шумо «CTAP2»-ро дастгирӣ намекунад.
 about-webauthn-text-not-available = Дар ин платформа дастнорас аст.
 about-webauthn-bio-enrollment-list-subsection-title = Бақайдгирӣ:
 about-webauthn-add-bio-enrollment-section-title = Илова кардани бақайдгирии нав
@@ -110,13 +114,21 @@ about-webauthn-auth-option-null = Дастгирӣ намешавад
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Фармонҳои танзимоти намунаи таъминкунанда
+about-webauthn-auth-info-remaining-discoverable-credentials = Маълумоти корбарони боқимондаи дастрас
 about-webauthn-auth-info-certifications = Гувоҳномаҳо
 about-webauthn-auth-info-uv-modality = Тарзи санҷиши ҳаққонияти корбар
+about-webauthn-auth-info-preferred-platform-uv-attempts = Кӯшишҳои санҷиши ҳаққонияти корбари пазируфтаи платформа
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Ҳадди аксари муайянкунандаҳои тарафи назоратӣ барои танзими дарозии ҳадди ақали рамзи PIN
+about-webauthn-auth-info-max-cred-blob-length = Дарозии ҳадди аксари «blob»-и маълумоти корбар
 about-webauthn-auth-info-firmware-version = Версияи нармафзори дастгоҳ
 about-webauthn-auth-info-min-pin-length = Дарозии ҳадди ақали рамзи PIN
 about-webauthn-auth-info-force-pin-change = Маҷбуран иваз кардани рамзи PIN
+about-webauthn-auth-info-max-ser-large-blob-array = Андозаи ҳадди аксари ҳаҷми объектҳои «blob»
 about-webauthn-auth-info-algorithms = Алгоритмҳо
 about-webauthn-auth-info-transports = Нақлиётҳо
+about-webauthn-auth-info-max-credential-id-length = Дарозии ҳадди аксари муайянкунандаи маълумоти корбар
+about-webauthn-auth-info-max-credential-count-in-list = Шумораи ҳадди аксари маълумоти корбар дар рӯйхат
 about-webauthn-auth-info-pin-protocols = Протоколҳои рамзи PIN
 about-webauthn-auth-info-max-msg-size = Андозаи ҳадди аксари паём
 # AAGUID should not be translated.
@@ -164,4 +176,5 @@ about-webauthn-ctap2-enroll-feedback-merge-failure = Пайвасти аксба
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
 about-webauthn-ctap2-enroll-feedback-exists = Аксбардорӣ аллакай вуҷуд дорад.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Ягон фаъолият аз корбар нест.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Корбар аксбардориро мувофиқи талабот ба анҷом нарасид.
 about-webauthn-ctap2-enroll-feedback-other = Хатои аксбардорӣ.
