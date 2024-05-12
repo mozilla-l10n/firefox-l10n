@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = Anular la página de primera ejecución. Deje esta
 policy-OverridePostUpdatePage = Anular la página "Qué hay de nuevo" posterior a la actualización. Deje esta política en blanco si quiere desactivar la página posterior a la actualización.
 policy-PasswordManagerEnabled = Activar el guardado de contraseñas en el administrador de contraseñas.
 policy-PasswordManagerExceptions = Evitar que { -brand-short-name } guarde contraseñas para sitios específicos.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Activar acuerdo de claves post-quantum para TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Desactivar o configurar PDF.js, el visor de PDF integrado en { -brand-short-name }.
 policy-Permissions2 = Configurar permisos para cámara, micrófono, ubicación, notificaciones y reproducción automática.
