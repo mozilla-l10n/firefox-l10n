@@ -52,14 +52,14 @@ findbar-entire-word-status =
 findbar-found-matches =
     .value =
         { $total ->
-            [one] { $current } de { $total } acierto
-           *[other] { $current } de { $total } aciertos
+            [one] { $current } de { $total } coincidencia
+           *[other] { $current } de { $total } coincidencias
         }
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops
 findbar-found-matches-count-limit =
     .value =
         { $limit ->
-            [one] Más de { $limit } acierto
-           *[other] Más de { $limit } aciertos
+            [one] Más de { $limit } coincidencia
+           *[other] Más de { $limit } coincidencias
         }
