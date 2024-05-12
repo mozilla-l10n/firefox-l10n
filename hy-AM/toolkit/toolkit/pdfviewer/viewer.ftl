@@ -29,7 +29,7 @@ pdfjs-zoom-in-button =
     .title = Խոշորացնել
 pdfjs-zoom-in-button-label = Խոշորացնել
 pdfjs-zoom-select =
-    .title = Մասշտաբ
+    .title = Դիտափոխում
 pdfjs-presentation-mode-button =
     .title = Անցնել Ներկայացման եղանակին
 pdfjs-presentation-mode-button-label = Ներկայացման եղանակ
@@ -42,6 +42,7 @@ pdfjs-print-button-label = Տպել
 # Used in Firefox for Android as a label for the download button (“download” is a verb).
 # Length of the translation matters since we are in a mobile context, with limited screen estate.
 pdfjs-download-button-label = Ներբեռնել
+pdfjs-bookmark-button-label = Ընթացիկ էջ
 
 ##  Secondary toolbar and context menu
 

@@ -86,7 +86,7 @@ options-sourceeditor-expandtab-tooltip =
 options-sourceeditor-expandtab-label = Ներ շեղումը՝ տարածքի փոխարեն
 options-sourceeditor-tabsize-label = Ներդիրի չափը
 options-sourceeditor-keybinding-label = Ստեղների զուգորդություններ
-options-sourceeditor-keybinding-default-label = Լռելյայն
+options-sourceeditor-keybinding-default-label = Սկզբնադիր
 
 ## Advanced section
 

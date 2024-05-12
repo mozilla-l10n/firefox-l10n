@@ -10,6 +10,8 @@ about-reader-color-scheme-dark = Մուգ
     .title = Գույնի սխեմայի պարզեցում
 about-reader-color-scheme-sepia = Դարչնագույն
     .title = Գունային սխեման դարչնագույն
+about-reader-color-theme-custom = Հարմարեցված գույներ
+    .title = Հարմարեցված գույնային ոճ
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -50,6 +52,7 @@ about-reader-toolbar-savetopocket = Պահպանել { -pocket-brand-name }-ու
 ## Reader View colors menu
 
 about-reader-fxtheme-tab = Սկզբնադիր
+about-reader-customtheme-tab = Հարմարեցված
 
 ## These are used as labels for the custom theme color pickers.
 ## The .title element is used to make the editing functionality

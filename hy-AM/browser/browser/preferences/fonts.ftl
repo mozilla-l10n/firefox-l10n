@@ -99,6 +99,6 @@ fonts-allow-own =
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = Հիմնական՝ ({ $name })
+    .label = Սկզբնադիր ({ $name })
 fonts-label-default-unnamed =
-    .label = Լռելյայն
+    .label = Սկզբնադիր
