@@ -3,7 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-alert-title = Таҳлили муҳтаво
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-slow-agent-notification = Абзори таҳлили муҳтаво барои ҷавоб додан ба манбаи «{ $content }» вақти зиёдро талаб мекунад
 contentanalysis-slow-agent-dialog-header = Дар ҳоли тасвирбардорӣ
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = «{ $agent }» мувофиқи сиёсати маълумоти ташкилоти шумо «{ $filename }»-ро бозбинӣ мекунад. Ин метавонад каме вақт гирад.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = «{ $agent }» мувофиқи сиёсати маълумоти ташкилоти шумо маводи воридкардаи шуморо бозбинӣ мекунад. Ин метавонад каме вақт гирад.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = «{ $agent }» мувофиқи сиёсати маълумоти ташкилоти шумо матни воридкардаи шуморо бозбинӣ мекунад. Ин метавонад каме вақт гирад.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = «{ $agent }» мувофиқи сиёсати маълумоти ташкилоти шумо маводи чопкардаи шуморо бозбинӣ мекунад. Ин метавонад каме вақт гирад.
 contentanalysis-operationtype-clipboard = ҳофизаи муваққатӣ
 contentanalysis-operationtype-dropped-text = матни гузаронидашуда
 contentanalysis-operationtype-print = чоп кардан
