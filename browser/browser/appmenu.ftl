@@ -36,7 +36,7 @@ appmenuitem-find-in-page =
 appmenuitem-translate =
     .label = Թարգմանել էջը…
 appmenuitem-zoom =
-    .value = Մասշտաբը
+    .value = Դիտափոխում
 appmenuitem-more-tools =
     .label = Լրացուցիչ գործիքներ
 appmenuitem-help =
@@ -197,7 +197,7 @@ profiler-popup-presets-networking-label =
 profiler-popup-presets-power-label =
     .label = Հոսանք
 profiler-popup-presets-custom-label =
-    .label = Ընտրված
+    .label = Հարմարեցված
 
 ## History panel
 

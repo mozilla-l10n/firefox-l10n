@@ -11,7 +11,7 @@ basic-tab =
 advanced-tab =
     .label = Լուսանցքներ և էջագլուխ/էջատակ
 format-group-label =
-    .value = Ձեվը
+    .value = Ձևաչափ
 orientation-label =
     .value = Դիրքավորումը.
 portrait =
@@ -103,7 +103,6 @@ print-window =
     .title = Տպել
 print-complete =
     .value = Տպված է:
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

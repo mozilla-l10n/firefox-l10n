@@ -5,7 +5,7 @@
 window-minimize-command =
     .label = Նվազեցնել
 window-zoom-command =
-    .label = Մասշտաբը
+    .label = Դիտափոխում
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =
