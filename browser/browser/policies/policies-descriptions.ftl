@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = De pagina voor eerste keer uitvoeren vervangen. St
 policy-OverridePostUpdatePage = De pagina ‘Wat is er nieuw’ na een update vervangen. Stel deze beleidsregel in op leeg als u de betreffende pagina wilt uitschakelen.
 policy-PasswordManagerEnabled = Opslaan van wachtwoorden in de wachtwoordenbeheerder inschakelen.
 policy-PasswordManagerExceptions = Voorkomen dat { -brand-short-name } wachtwoorden voor specifieke websites opslaat.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Post-kwantumsleutelovereenkomst voor TLS inschakelen.
 # PDF.js and PDF should not be translated
 policy-PDFjs = PDF.js, de in { -brand-short-name } ingebouwde PDF-lezer, uitschakelen of instellen.
 policy-Permissions2 = Toestemmingen voor camera, microfoon, locatie, notificaties en automatisch afspelen configureren.
