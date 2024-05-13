@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] { $count } ynaktive ljepblêden toane
         }
     .tooltiptext = De ynaktive ljepblêden op dit apparaat toane
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Ynaktive ljepblêden
+    .tooltiptext = Ynaktive ljepblêden op dit apparaat besjen
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Gjin iepen ljepblêden
 # This is shown when Sync is configured but syncing tabs is disabled.
