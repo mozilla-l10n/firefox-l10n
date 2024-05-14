@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] Näytä { $count } passiivista välilehteä
         }
     .tooltiptext = Näytä tämä laitteen passiiviset välilehdet
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Passiiviset välilehdet
+    .tooltiptext = Katso tämän laitteen passiiviset välilehdet
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ei avoimia välilehtiä
 # This is shown when Sync is configured but syncing tabs is disabled.
