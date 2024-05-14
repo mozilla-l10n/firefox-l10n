@@ -39,8 +39,11 @@ policy-DisableAppUpdate = Forhindre oppdatering av nettleseren.
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, det innebygde PDF-visningsprogrammet i { -brand-short-name }
 policy-DisableDefaultBrowserAgent = Hindrer at standardnettleseren gjør noe. Gjelder bare for Windows; andre plattformer har ikke agenten.
 policy-DisableDeveloperTools = Blokker tilgang til utviklerverktøyene.
+policy-DisableEncryptedClientHello = Deaktiver bruk av TLS-funksjonen Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Deaktiver kommandoer for å sende tilbakemelding fra Hjelp-menyen (Gi tilbakemelding og Rapporter villedende nettsted).
 policy-DisableFirefoxAccounts = Deaktiver { -fxaccount-brand-name }-baserte tjenester, inkludert Sync.
+# This string is in the process of being deprecated in favor of policy-DisableAccounts.
+policy-DisableFirefoxAccounts1 = Deaktiver kontobaserte tjenester, inkludert synkronisering.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Deaktiver funksjonen Firefox Screenshots
 policy-DisableFirefoxStudies = Forhindre { -brand-short-name } fra å kjøre undersøkelser.
@@ -105,6 +108,9 @@ policy-OverrideFirstRunPage = Erstatt siden som vises ved første oppstart. La p
 policy-OverridePostUpdatePage = Bytt ut «Hva er nytt»-siden som blir vist etter en oppdatering. La policyen stå tom hvis sida etter oppdatering skal deaktiveres.
 policy-PasswordManagerEnabled = Slå på lagring av passord til passordbehandleren.
 policy-PasswordManagerExceptions = Forhindre { -brand-short-name } fra å lagre passord for bestemte nettsteder.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Aktiver post-kvantenøkkelavtale for TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deaktiver eller konfigurer PDF.js, det innebygde PDF-visningsprogrammet i { -brand-short-name }.
 policy-Permissions2 = Konfigurer tillatelser for kamera, mikrofon, plassering og auto-avspilling.
