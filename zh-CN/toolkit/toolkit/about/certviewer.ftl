@@ -29,7 +29,7 @@ certificate-viewer-ip-address = IP 地址
 certificate-viewer-other-name = 其他名称
 certificate-viewer-exponent = 指数
 certificate-viewer-id = 标识符
-certificate-viewer-key-exchange-group = 密钥交换组
+certificate-viewer-key-exchange-group = 密钥交换群
 certificate-viewer-key-id = 密钥标识符
 certificate-viewer-key-size = 密钥大小
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = 颁发机构信息（AIA）
 certificate-viewer-certificate-policies = 证书策略
 certificate-viewer-embedded-scts = 嵌入的 SCT 信息
 certificate-viewer-crl-endpoints = CRL 端点
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = 下载
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM（证书）
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM（证书链）
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = 此扩展字段标记为“关键”，即代表若客户端不理解此字段内容，则必须拒绝该证书。
