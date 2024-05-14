@@ -294,6 +294,21 @@ quickactions-cmd-restart = पुनः शुरु
 # Opens the screenshot tool
 quickactions-screenshot3 = स्क्रिनसट लिनुहोस्
 quickactions-cmd-screenshot = स्क्रिनसट
+# Opens about:preferences
+quickactions-settings2 = सेटिङहरू प्रबन्ध गर्नुहोस्
+quickactions-cmd-settings = सेटिङहरू, प्राथमिकताहरू, विकल्पहरू
+# Opens about:addons page in the themes section
+quickactions-themes = विषयवस्तुहरू प्रबन्ध गर्नुहोस्
+quickactions-cmd-themes = विषयवस्तुहरू
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = { -brand-short-name } अद्यावधिक गर्नुहोस्
+quickactions-cmd-update = अद्यावधिक
+# Opens the view-source UI with current pages source
+quickactions-viewsource2 = पृष्ठ श्रोत हेर्नुहोस्
+quickactions-cmd-viewsource = स्रोत हेर्नुहोस्, स्रोत
+# Tooltip text for the help button shown in the result.
+quickactions-learn-more =
+    .title = द्रुत कार्यहरू बारे थप जान्नुहोस्
 
 ## Bookmark Panel
 
@@ -325,10 +340,22 @@ bookmark-panel =
 
 ## Identity Panel
 
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-site-information = { $host } को लागि साइट जानकारी
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+identity-header-security-with-host =
+    .title = { $host } का लागि जडान सुरक्षा
+identity-connection-not-secure = जडान सुरक्षित छैन
+identity-connection-secure = जडान सुरक्षित
+identity-connection-failure = जडान विफलता
 identity-connection-internal = यो सुरक्षित { -brand-short-name } पृष्ठ हो।
 identity-connection-file = यो पृष्ठ तपाईँको कम्प्युटरमा भण्डारण छ।
+identity-connection-associated = यो पृष्ठ अर्को पृष्ठबाट लोड गरिएको छ।
 identity-extension-page = यो पृष्ठ एक्स्टेनसन बाट लोड गरिएको हो।
 identity-active-blocked = { -brand-short-name } यस पृष्ठका असुरक्षित भागहरू अवरुद्ध गरिएको छ।
+identity-custom-root = Mozilla द्वारा पहिचान नभएको प्रमाणपत्र जारीकर्ता द्वारा प्रमाणित जडान।
 identity-passive-loaded = यो पृष्ठको भागहरू सुरक्षित छैनन् (जस्तै चित्रहरू)।
 identity-active-loaded = तपाईँले यो पृष्ठमा संरक्षण अक्षम गर्नुभएको छ।
 identity-weak-encryption = यो पेजले कमजोर इन्क्रिप्सन प्रयोग गर्छ।
@@ -405,6 +432,18 @@ browser-tab-audio-pip = चित्र-भित्र-चित्र
 ## Variables:
 ##  $count (number): number of affected tabs
 
+browser-tab-mute =
+    { $count ->
+        [1] म्यूट ट्याब
+        [one] म्यूट { $count } ट्याबहरू
+       *[other] { "" }
+    }
+browser-tab-unmute =
+    { $count ->
+        [1] ट्याब अनम्यूट गर्नुहोस्
+        [one] { $count } ट्याबहरू अनम्यूट गर्नुहोस्
+       *[other] { "" }
+    }
 
 ## Bookmarks toolbar items
 
