@@ -188,6 +188,13 @@ downloads-details =
 ##   $num (number) - Number of blocked downloads.
 ##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
 
+downloads-files-not-downloaded =
+    { $num ->
+        [one] फाइल डाउनलोड भएन।
+       *[other] { $num } फाइलहरू डाउनलोड भएनन्।
+    }
+downloads-blocked-from-url = डाउनलोडहरू { $url } बाट रोकिएका छन्।
+downloads-blocked-download-detailed-info = { $url } ले धेरै फाइलहरू स्वचालित रूपमा डाउनलोड गर्ने प्रयास गर्यो। साइट भत्किएको हुन सक्छ वा तपाईंको यन्त्रमा स्प्याम फाइलहरू भण्डारण गर्ने प्रयास गरिरहेको हुन सक्छ।
 
 ##
 
@@ -201,10 +208,24 @@ downloads-list-empty =
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = यस सत्रमा केहि पनि डाउनलोड भएन।
+# This is displayed in an item at the bottom of the Downloads Panel when there
+# are more downloads than can fit in the list in the panel.
+#   $count (number) - number of files being downloaded that are not shown in the
+#                     panel list.
+downloads-more-downloading =
+    { $count ->
+        [one] { $count } थप फाइलहरू डाउनलोड हुँदैछन्
+       *[other] { $count } थप फाइलहरू डाउनलोड हुँदैछन्
+    }
 
 ## Download errors
 
 downloads-error-alert-title = डाउनलोड त्रुटि
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = डाउनलोड सुरक्षित गर्न सकिँदैन किनभने यो { $extension } द्वारा अवरुद्ध छ।
+# Used when the name of the blocking extension is unavailable.
+downloads-error-extension = डाउनलोड बचत गर्न सकिँदैन किनभने यो एक विस्तार द्वारा अवरुद्ध छ।
 # Line breaks in this message are meaningful, and should be maintained.
 downloads-error-generic =
     अज्ञात त्रुटिको कारणले डाउनलोडलाई सङ्ग्रह गर्न सकिएन ।
