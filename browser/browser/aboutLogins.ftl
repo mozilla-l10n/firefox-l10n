@@ -64,6 +64,14 @@ login-list-count2 =
         [one] { $count } पासवर्ड
        *[other] { $count } पासवर्डहरू
     }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $total } पासवर्ड मध्ये { $count }
+       *[other] { $total } पासवर्डहरू मध्ये { $count }
+    }
 login-list-sort-label-text = क्रमबद्ध गर्नुहोस्:
 login-list-name-option = नाम (क-ज्ञ)
 login-list-name-reverse-option = नाम (ज्ञ-क)
