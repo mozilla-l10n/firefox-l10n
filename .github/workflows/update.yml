@@ -32,6 +32,6 @@ jobs:
             git remote add $lc hg::https://hg.mozilla.org/l10n-central/$lc/;
             git fetch $lc;
             git branch $lc $lc/branches/default/tip;
-            git push origin $lc || [[ $lc == 'fa' ]] || [[ $lc == 'nn-NO' ]];
+            git push origin $lc
           done < firefox-locales
         shell: bash
