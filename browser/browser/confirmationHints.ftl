@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Sendt!
 confirmation-hint-firefox-relay-mask-created = Ny alias opprettet!
 confirmation-hint-firefox-relay-mask-reused = Eksisterende alias gjenbrukt!
 confirmation-hint-screenshot-copied = Skjermbilde kopiert!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Lukket { $tabCount } fane
+       *[other] Lukket { $tabCount } faner
+    }
