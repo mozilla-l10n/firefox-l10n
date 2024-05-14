@@ -282,6 +282,18 @@ quickactions-cmd-print = छाप्नुहोस्
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = पृष्ठ PDF को रूपमा बचत गर्नुहोस्
 quickactions-cmd-savepdf = pdf
+# Opens a new private browsing window
+quickactions-private2 = निजी सञ्झ्याल खोल्नुहोस्
+quickactions-cmd-private = निजी ब्राउजिङ्ग
+# Opens a SUMO article explaining how to refresh
+quickactions-refresh = { -brand-short-name } ताजा पार्नुहोस्
+quickactions-cmd-refresh = ताजा पार्नुहोस्
+# Restarts the browser
+quickactions-restart = { -brand-short-name } फेरि सुरू गर्नुहोस्
+quickactions-cmd-restart = पुनः शुरु
+# Opens the screenshot tool
+quickactions-screenshot3 = स्क्रिनसट लिनुहोस्
+quickactions-cmd-screenshot = स्क्रिनसट
 
 ## Bookmark Panel
 
@@ -440,6 +452,9 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = { $engine } संग खोज्नुहोस्
 urlbar-result-action-switch-tab = ट्याबमा स्विच गर्नुहोस्
 urlbar-result-action-visit = भ्रमण गर्नुहोस्
+
+## Strings used for buttons in the urlbar
+
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
