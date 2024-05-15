@@ -444,19 +444,51 @@ browser-tab-unmute =
         [one] { $count } ट्याबहरू अनम्यूट गर्नुहोस्
        *[other] { $count } ट्याबहरू अनम्यूट गर्नुहोस्
     }
+browser-tab-unblock =
+    { $count ->
+        [1] ट्याब प्ले गर्नुहोस्
+        [one] { $count } ट्याब प्ले गर्नुहोस्
+       *[other] { "" }
+    }
 
 ## Bookmarks toolbar items
 
+browser-import-button2 =
+    .label = बुकमार्कहरू आयात गर्नुहोस्...
+    .tooltiptext = अर्को ब्राउजरबाट { -brand-short-name } मा बुकमार्कहरू आयात गर्नुहोस्।
+bookmarks-toolbar-empty-message = द्रुत पहुँचको लागि, तपाईंको बुकमार्कहरू यहाँ बुकमार्क उपकरणपट्टीमा राख्नुहोस्। <a data-l10n-name="manage-bookmarks">बुकमार्कहरू व्यवस्थापन गर्नुहोस्...</a>
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera-device =
+    .value = क्यामेरा:
+    .accesskey = C
+popup-select-camera-icon =
+    .tooltiptext = क्यामेरा
+popup-select-microphone-device =
+    .value = माइक्रोफोन:
+    .accesskey = M
+popup-select-microphone-icon =
+    .tooltiptext = माइक्रोफोन
+popup-select-speaker-icon =
+    .tooltiptext = स्पिकरहरू
+popup-select-window-or-screen =
+    .label = विन्डो वा स्क्रिन:
+    .accesskey = W
 popup-all-windows-shared = तपाईँको स्क्रिन मा सबै देखिने सञ्झ्यालहरू साझेदारी गरिनेछ।
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = तपाईंले { -brand-short-name } साझेदारी गर्दै हुनुहुन्छ। तपाईंले नयाँ ट्याबमा स्विच गर्दा अन्य मानिसहरूले देख्न सक्छन्।
+sharing-warning-screen = तपाईं आफ्नो सम्पूर्ण स्क्रिन साझा गर्दै हुनुहुन्छ। तपाईंले नयाँ ट्याबमा स्विच गर्दा अन्य मानिसहरूले देख्न सक्छन्।
+sharing-warning-proceed-to-tab =
+    .label = ट्याबमा जानुहोस्
+sharing-warning-disable-for-session =
+    .label = यस सत्रको लागि साझेदारी सुरक्षा असक्षम गर्नुहोस्
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description2 = F12 सर्टकट प्रयोग गर्न, पहिले ब्राउजर उपकरण मेनु मार्फत DevTools खोल्नुहोस्।
 
 ## URL Bar
 
@@ -467,10 +499,49 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = खोज वा ठेगाना राखनुहोस्।
+# This placeholder is used in search mode with search engines that search the
+# entire web.
+# Variables
+#  $name (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-placeholder-search-mode-web-2 =
+    .placeholder = वेबमा खोजी गर्नुहोस्
+    .aria-label = { $name } को साथ खोज्नुहोस्
+# This placeholder is used in search mode with search engines that search a
+# specific site (e.g., Amazon).
+# Variables
+#  $name (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-placeholder-search-mode-other-engine =
+    .placeholder = खोजी स्ट्रिङ प्रविष्ट गर्नुहोस्
+    .aria-label = { $name } खोज्नुहोस्
+# This placeholder is used when searching bookmarks.
+urlbar-placeholder-search-mode-other-bookmarks =
+    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
+    .aria-label = बुकमार्कहरू खोज्नुहोस्
+# This placeholder is used when searching history.
+urlbar-placeholder-search-mode-other-history =
+    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
+    .aria-label = इतिहास खोज्नुहोस्
+# This placeholder is used when searching open tabs.
+urlbar-placeholder-search-mode-other-tabs =
+    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
+    .aria-label = ट्याबहरू खोज्नुहोस्
+# This placeholder is used when searching quick actions.
+urlbar-placeholder-search-mode-other-actions =
+    .placeholder = खोज शब्दहरू प्रविष्ट गर्नुहोस्
+    .aria-label = खोजी कार्यहरू
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } सँग खोज्नुहोस् वा ठेगाना राखनुहोस्।
+# Variables
+#  $component (String): the name of the component which forces remote control.
+#    Example: "DevTools", "Marionette", "RemoteAgent".
+urlbar-remote-control-notification-anchor2 =
+    .tooltiptext = ब्राउजर रिमोट कन्ट्रोल अन्तर्गत छ (कारण: { $component })
+urlbar-permissions-granted =
+    .tooltiptext = तपाईंले यो वेबसाइटलाई थप अनुमतिहरू दिनुभएको छ।
 urlbar-switch-to-tab =
     .value = यस ट्याबमा स्विच गर्नुहोस्:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -484,22 +555,71 @@ urlbar-page-action-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 
+# Used when the private browsing engine differs from the default engine.
+# The "with" format was chosen because the search engine name can end with
+# "Search", and we would like to avoid strings like "Search MSN Search".
+# Variables
+#  $engine (String): the name of a search engine
+urlbar-result-action-search-in-private-w-engine = निजी विन्डोमा { $engine } मार्फत खोज्नुहोस्
+# Used when the private browsing engine is the same as the default engine.
+urlbar-result-action-search-in-private = निजी विन्डोमा खोज्नुहोस्
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } संग खोज्नुहोस्
+urlbar-result-action-sponsored = प्रायोजित
 urlbar-result-action-switch-tab = ट्याबमा स्विच गर्नुहोस्
 urlbar-result-action-visit = भ्रमण गर्नुहोस्
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = ट्याबमा स्विच गर्नुहोस् · <span>{ $container }</span>
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = क्लिपबोर्डबाट जानुहोस्
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-before-tabtosearch-web = { $engine } मार्फत खोज गर्न ट्याब थिच्नुहोस्
+# Directs a user to press the Tab key to perform a search with the specified
+# engine.
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-before-tabtosearch-other = { $engine } खोज्न ट्याब थिच्नुहोस्
+# Variables
+#  $engine (String): the name of a search engine that searches the entire Web
+#  (e.g. Google).
+urlbar-result-action-tabtosearch-web = ठेगाना पट्टीबाट सिधै { $engine } सँग खोज्नुहोस्
+# Variables
+#  $engine (String): the name of a search engine that searches a specific site
+#  (e.g. Amazon).
+urlbar-result-action-tabtosearch-other-engine = ठेगाना पट्टीबाट सीधै { $engine } खोज्नुहोस्
+# Action text for copying to clipboard.
+urlbar-result-action-copy-to-clipboard = प्रतिलिपि गर्नुहोस्
+# Shows the result of a formula expression being calculated, the last = sign will be shown
+# as part of the result (e.g. "= 2").
+# Variables
+#  $result (String): the string representation for a formula result
+urlbar-result-action-calculator-result = ={ $result }
 
 ## Strings used for buttons in the urlbar
 
+# Label prompting user to search with a particular search engine.
+#  $engine (String): the name of a search engine that searches a specific site
+urlbar-result-search-with = { $engine } मार्फत खोज्नुहोस्
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = बुकमार्कहरू खोज्नुहोस्
+urlbar-result-action-search-history = खोज इतिहास
+urlbar-result-action-search-tabs = ट्याबहरू खोज्नुहोस्
+urlbar-result-action-search-actions = खोज कार्यहरू
 
 ## Labels shown above groups of urlbar results
 
@@ -507,6 +627,20 @@ urlbar-result-action-search-bookmarks = बुकमार्कहरू खो
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+# A label shown above the search suggestions group in the urlbar results. It
+# should use sentence case.
+# Variables
+#  $engine (String): the name of the search engine providing the suggestions
+urlbar-group-search-suggestions =
+    .label = { $engine } सुझावहरू
+# A label shown above Quick Actions in the urlbar results.
+urlbar-group-quickactions =
+    .label = द्रुत कार्यहरू
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = हालै गरिएका खोजहरू
 
 ## Reader View toolbar buttons
 
@@ -521,6 +655,15 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = पिक्चर-इन-पिक्चर खोल्नुहोस् ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = बन्द गर्नुहोस् Picture-in-Picture ({ $shortcut })
+picture-in-picture-panel-header = चित्रमा चित्र
+picture-in-picture-panel-headline = यो वेबसाइटले Picture-in-Picture सिफारिस गर्दैन
+picture-in-picture-panel-body = Picture-in-Picture सक्षम हुँदा भिडियोहरू विकासकर्ताले चाहेजस्तो नदेख्न सक्छन्।
+picture-in-picture-enable-toggle =
+    .label = जे भए पनि सक्षम गर्नुहोस्
 
 ## Full Screen and Pointer Lock UI
 
@@ -570,6 +713,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] पुस्तकचिनो उपकरणपट्टि लुकाउनुहोस्
            *[other] पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] बुकमार्क उपकरणपट्टी लुकाउनुहोस्
+           *[other] बुकमार्क उपकरणपट्टी देखाउनुहोस्
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -583,6 +732,8 @@ bookmarks-search =
     .label = पुस्तकचिनोहरू खोज्नुहोस्
 bookmarks-tools =
     .label = पुस्तकचिनो लगाउने उपकरणहरू
+bookmarks-subview-edit-bookmark =
+    .label = यो बुकमार्क सम्पादन गर्नुहोस्...
 bookmarks-toolbar-menu =
     .label = पुस्तकचिनो उपकरणपट्टि
 bookmarks-toolbar-placeholder =
