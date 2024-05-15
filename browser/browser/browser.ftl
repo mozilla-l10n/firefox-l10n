@@ -734,32 +734,62 @@ bookmarks-tools =
     .label = पुस्तकचिनो लगाउने उपकरणहरू
 bookmarks-subview-edit-bookmark =
     .label = यो बुकमार्क सम्पादन गर्नुहोस्...
+# The aria-label is a spoken label that should not include the word "toolbar" or
+# such, because screen readers already know that this container is a toolbar.
+# This avoids double-speaking.
+bookmarks-toolbar =
+    .toolbarname = बुकमार्क उपकरणपट्टी
+    .accesskey = B
+    .aria-label = बुकमार्कहरू
 bookmarks-toolbar-menu =
     .label = पुस्तकचिनो उपकरणपट्टि
 bookmarks-toolbar-placeholder =
     .title = उपकरणपट्टि मा वस्तुहरू पुस्तकचिनो लगाउनुहोस्
 bookmarks-toolbar-placeholder-button =
     .label = उपकरणपट्टि मा वस्तुहरू पुस्तकचिनो लगाउनुहोस्
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = हालको ट्याब बुकमार्क गर्नुहोस्...
 
 ## Library Panel items
 
 library-bookmarks-menu =
     .label = पुस्तकचिनोहरू
+library-recent-activity-title =
+    .value = हालको गतिविधि
 
 ## Pocket toolbar button
 
+save-to-pocket-button =
+    .label = { -pocket-brand-name } मा बचत गर्नुहोस्
+    .tooltiptext = { -pocket-brand-name } मा बचत गर्नुहोस्
 
 ## Repair text encoding toolbar button
 
+repair-text-encoding-button =
+    .label = पाठ एन्कोडिङ मर्मत गर्नुहोस्
+    .tooltiptext = पृष्ठ सामग्रीबाट सही पाठ इन्कोडिङ अनुमान गर्नुहोस्
 
 ## Customize Toolbar Buttons
 
+# Variables:
+#  $shortcut (String): keyboard shortcut to open settings (only on macOS)
+toolbar-settings-button =
+    .label = सेटिङहरू
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] सेटिङहरू खोल्नुहोस् ({ $shortcut })
+           *[other] सेटिङहरू खोल्नुहोस्
+        }
 toolbar-overflow-customize-button =
     .label = उपकरणपट्टि अनुकुलन गर्नुहोस्…
     .accesskey = C
 toolbar-button-email-link =
     .label = लिङ्कलाई इमेल गर्नुहोस्
     .tooltiptext = यस पृष्ठ को लिङ्क इमेल गर्नुहोस्
+toolbar-button-logins =
+    .label = पासवर्डहरू
+    .tooltiptext = तपाईंको सुरक्षित गरिएका पासवर्डहरू हेर्नुहोस् र व्यवस्थापन गर्नुहोस्
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -782,12 +812,21 @@ toolbar-button-new-private-window =
 ## EME notification panel
 
 eme-notifications-drm-content-playing = यो साइटमा रहेको केही अडियो या भिडियोले DRM प्रयोग गर्दछन्, तपाईँद्वारा { -brand-short-name } मार्फत गर्ने कुरामा कमी ल्याउन सक्छ।
+eme-notifications-drm-content-playing-manage = सेटिङहरू प्रबन्ध गर्नुहोस्
+eme-notifications-drm-content-playing-manage-accesskey = M
+eme-notifications-drm-content-playing-dismiss = खारेज गर्नुहोस्
+eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
+panel-save-update-username = प्रयोगकर्ताको नाम
+panel-save-update-password = पासवर्ड
 
 ##
 
+# "More" item in macOS share menu
+menu-share-more =
+    .label = थप…
 ui-tour-info-panel-close =
     .tooltiptext = बन्द गर्नुहोस्
 
@@ -806,16 +845,33 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = पप-अपहरू रोकिएका बेलामा यो सन्देश नदेखाउनुहोस्
     .accesskey = D
+edit-popup-settings =
+    .label = पप-अप सेटिङहरू व्यवस्थापन गर्नुहोस्...
+    .accesskey = M
+picture-in-picture-hide-toggle =
+    .label = चित्र-मा-चित्र टगल लुकाउनुहोस्
+    .accesskey = H
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
+picture-in-picture-move-toggle-right =
+    .label = पिक्चर-इन-पिक्चर टगललाई दायाँ तिर सार्नुहोस्
+    .accesskey = R
+picture-in-picture-move-toggle-left =
+    .label = पिक्चर-इन-पिक्चर टगललाई बायाँ तिर सार्नुहोस्
+    .accesskey = L
 
 ##
 
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = दिशानिर्देश
 navbar-downloads =
     .label = डाउनलोडहरू
 navbar-overflow =
@@ -825,6 +881,9 @@ navbar-overflow =
 navbar-print =
     .label = मुद्रण गर्नुहोस्
     .tooltiptext = यो पृष्ठ छाप्नुहोस्… ({ $shortcut })
+navbar-home =
+    .label = गृह
+    .tooltiptext = { -brand-short-name } गृह पृष्ठ
 navbar-library =
     .label = Library
     .tooltiptext = इतिहास, संग्रह गरिएका पुस्तकचिनोहरू, र अन्य हेर्नुहोस्
