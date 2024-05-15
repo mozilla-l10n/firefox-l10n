@@ -902,9 +902,13 @@ tabs-toolbar-list-all-tabs =
 
 ## Infobar shown at startup to suggest session-restore
 
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>अघिल्लो ट्याबहरू खोल्नुहोस्?</strong> तपाईं इतिहास अन्तर्गत { -brand-short-name } अनुप्रयोग मेनु <img data-l10n-name="icon"/> बाट आफ्नो अघिल्लो सत्र पुनर्स्थापना गर्न सक्नुहुन्छ।
+restore-session-startup-suggestion-button = कसरी देखाउनुहोस्
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = तपाईंको संगठनले यस कम्प्युटरमा स्थानीय फाइलहरूमा पहुँच रोकेको छ
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -912,20 +916,55 @@ data-reporting-notification-message = { -brand-short-name } ले केही 
 data-reporting-notification-button =
     .label = मैले बाँड्ने कुराहरू छान्छु
     .accesskey = C
+# Label for the indicator shown in the private browsing window titlebar.
+private-browsing-indicator-label = निजी ब्राउजिङ्ग
+# Tooltip for the indicator shown in the window titlebar when content analysis is active.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-indicator-tooltip =
+    .tooltiptext = { $agentName } द्वारा डेटा हानि रोकथाम (DLP)। थप जानकारीको लागि क्लिक गर्नुहोस्।
+content-analysis-panel-title = डाटा संरक्षण
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = तपाईंको संस्थाले डाटा हराउनबाट जोगाउन { $agentName } प्रयोग गर्छ। <a data-l10n-name="info">थप जान्नुहोस्</a>
 
 ## Unified extensions (toolbar) button
 
+unified-extensions-button =
+    .label = बिस्तारहरु
+    .tooltiptext = बिस्तारहरु
 
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = बिस्तारहरु
+    .tooltiptext = बिस्तारहरु
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = बिस्तारहरु
+    .tooltiptext = बिस्तारहरु
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = निजी सत्र समाप्त गर्नुहोस्
+    .tooltiptext = निजी सत्र समाप्त गर्नुहोस्
+reset-pbm-panel-heading = निजी सत्र अन्त्य गर्ने हो?
+reset-pbm-panel-description = सबै निजी ट्याबहरू बन्द गर्नुहोस् र इतिहास, कुकीहरू, र अन्य सबै साइट डेटा मेटाउनुहोस्।
+reset-pbm-panel-always-ask-checkbox =
+    .label = सधैं सोध्नुहोस्
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = रद्द गर्नुहोस्
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = सत्र डाटा मेटाउनुहोस्
+    .accesskey = D
+reset-pbm-panel-complete = निजी सत्र डाटा मेटाइयो
 
 ## Autorefresh blocker
 
@@ -937,11 +976,17 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = हाम्रो सुरक्षित, प्रयोग गर्न-सजिलो मास्कहरूले तपाईंको पहिचानलाई सुरक्षित गर्दछ र तपाईंको इमेल ठेगाना लुकाएर स्प्यामलाई रोक्छ।
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = तपाईंको इमेल मास्कहरूमा पठाइएका सबै इमेलहरू <strong>{ $useremail }</strong> मा फर्वार्ड गरिने छन् (जबसम्म तपाईंले तिनीहरूलाई रोक्ने निर्णय गर्नुभएन)।
+firefox-relay-offer-legal-notice = "इमेल मास्क प्रयोग गर्नुहोस्" क्लिक गरेर, तपाइँ <label data-l10n-name="tos-url">सेवाका सर्तहरू</label> र <label data-l10n-name="privacy-url">गोपनीयता सूचनामा सहमत हुनुहुन्छ। </label>।
 
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
     .value = (अप्रमाणित)
+popup-notification-xpinstall-prompt-learn-more = एड-अनहरू सुरक्षित रूपमा स्थापना गर्ने बारे थप जान्नुहोस्
 
 ## Pop-up warning
 
@@ -951,6 +996,14 @@ popup-warning-message =
     { $popupCount ->
         [one] { -brand-short-name } ले यो साइटलाई पप-अप सञ्झ्याल खोल्नबाट रोक्यो।
        *[other] { -brand-short-name } ले यो साइटलाई { $popupCount } पप-अप सञ्झ्यालहरू खोल्नबाट रोक्यो।
+    }
+# The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ले यो साइटलाई { $popupCount } भन्दा बढी पप-अप विन्डोहरू खोल्नबाट रोकेको छ।
+       *[other] { "" }
     }
 popup-warning-button =
     .label =
