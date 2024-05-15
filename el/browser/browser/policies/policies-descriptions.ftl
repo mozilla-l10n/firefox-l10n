@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = Παράκαμψη της σελίδας πρώτ�
 policy-OverridePostUpdatePage = Παράκαμψη της σελίδας «Τι νέο υπάρχει» μετά την ενημέρωση. Αφήστε αυτήν την πολιτική κενή αν θέλετε να απενεργοποιήσετε τη σελίδα μετά την ενημέρωση.
 policy-PasswordManagerEnabled = Ενεργοποίηση αποθήκευσης κωδικών πρόσβασης στη διαχείριση κωδικών πρόσβασης.
 policy-PasswordManagerExceptions = Αποτροπή αποθήκευσης κωδικών πρόσβασης στο { -brand-short-name } για ορισμένους ιστοτόπους.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Ενεργοποίηση μετακβαντικής συμφωνίας κλειδιού για το TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Απενεργοποίηση ή ρύθμιση του PDF.js, του ενσωματωμένου προγράμματος προβολής PDF στο { -brand-short-name }.
 policy-Permissions2 = Ρύθμιση δικαιωμάτων για κάμερα, μικρόφωνο, τοποθεσία, ειδοποιήσεις και αυτόματη αναπαραγωγή.
