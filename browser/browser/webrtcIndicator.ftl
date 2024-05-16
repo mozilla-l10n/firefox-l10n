@@ -240,6 +240,10 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Ricorda questa scelta
+webrtc-remember-allow-checkbox-camera = Ricorda per tutte le fotocamere
+webrtc-remember-allow-checkbox-microphone = Ricorda per tutti i microfoni
+webrtc-remember-allow-checkbox-camera-and-microphone = Ricorda per tutti i microfoni e le fotocamere
+
 webrtc-mute-notifications-checkbox = Disattiva notifiche dai siti web durante la condivisione
 
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } non è in grado di consentire accesso in modo permanente allo schermo.
