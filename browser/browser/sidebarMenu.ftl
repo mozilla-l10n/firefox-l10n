@@ -4,15 +4,13 @@
 
 sidebar-menu-bookmarks =
     .label = Laster-markak
-
 sidebar-menu-history =
     .label = Historia
-
 sidebar-menu-synced-tabs =
     .label = Sinkronizatutako fitxak
-
+sidebar-menu-megalist =
+    .label = Pasahitzak
 sidebar-menu-close =
     .label = Itxi alboko barra
-
 sidebar-close-button =
     .tooltiptext = Itxi alboko barra

@@ -328,3 +328,11 @@ mr2022-onboarding-colorways-image-alt =
 
 onboarding-device-migration-title = Ongi etorri!
 onboarding-device-migration-primary-button-label = Hasi saioa
+
+## The following screens have been updated to use security and privacy focused strings:
+
+
+## New user time and familiarity survey strings
+
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Hurrengoa

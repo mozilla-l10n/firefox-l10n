@@ -49,7 +49,24 @@ screenshots-too-large-error-details = Saiatu bere alderik luzeenean 32.700 pixel
 screenshots-component-retry-button =
     .title = Saiatu berriro pantaila-argazkia ateratzen
     .aria-label = Saiatu berriro pantaila-argazkia ateratzen
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Utzi (ihes)
+           *[other] Utzi (Ihes)
+        }
+    .aria-label = Utzi
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Kopiatu ({ $shortcut })
+    .aria-label = Kopiatu
 screenshots-component-copy-button-label = Kopiatu
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Deskargatu ({ $shortcut })
+    .aria-label = Deskargatu
 screenshots-component-download-button-label = Deskargatu
 
 ## The below strings are used to capture keydown events so the strings should
@@ -64,3 +81,9 @@ screenshots-component-download-button-label = Deskargatu
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
 screenshots-overlay-selection-region-size-2 = { $width } x { $height }
+# This string represents the selection size area
+# "×" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-3 = { $width } × { $height }
