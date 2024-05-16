@@ -4,7 +4,6 @@
 
 about-reader-loading = Lastar …
 about-reader-load-error = Klarte ikkje å laste inn artikkelen frå sida
-
 about-reader-color-scheme-light = Lys
     .title = Fargeskjema, lys
 about-reader-color-scheme-dark = Mørk
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = Sepia
     .title = Fargeskjema, sepia
 about-reader-color-scheme-auto = Auto
     .title = Automatisk fargeskjema
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -50,3 +48,36 @@ about-reader-font-type-sans-serif = Serifflaus
 about-reader-toolbar-close = Lat att lesevising
 about-reader-toolbar-type-controls = Skriftinnstillingar
 about-reader-toolbar-savetopocket = Lagre til { -pocket-brand-name }
+
+## Reader View colors menu
+
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+
+## Reader View improved text and layout menu
+
+about-reader-layout-header = Utforming
+about-reader-advanced-layout-header = Avansert
+about-reader-slider-label-width-narrow = Smal
+about-reader-slider-label-width-wide = Brei
+about-reader-slider-label-spacing-narrow = Smal
+about-reader-slider-label-spacing-standard = Standard
+about-reader-slider-label-spacing-wide = Brei
+about-reader-content-width-label =
+    .label = Innhaldsbreidde
+about-reader-line-spacing-label =
+    .label = Linjeavstand
+about-reader-character-spacing-label =
+    .label = Teiknavstand
+about-reader-word-spacing-label =
+    .label = Ordavstand
+about-reader-text-alignment-label = Tekstjustering
+about-reader-text-alignment-left =
+    .title = Venstrejuster tekst
+about-reader-text-alignment-center =
+    .title = Midtstill tekst
+about-reader-text-alignment-right =
+    .title = Høgrejuster tekst
