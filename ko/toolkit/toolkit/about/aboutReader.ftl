@@ -64,6 +64,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = 세리프
 about-reader-font-type-sans-serif = 산세리프
+about-reader-font-type-monospace = 고정폭
 
 ## Reader View toolbar buttons
 
@@ -95,20 +96,28 @@ about-reader-custom-colors-visited-links = 방문한 링크
 about-reader-custom-colors-selection-highlight = 소리내어 읽기 하이라이터
     .title = 색상 편집
 about-reader-custom-colors-reset-button = 기본값 재설정
+about-reader-reset-button = 기본값 재설정
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = 텍스트
+about-reader-text-size-label = 글자 크기
+about-reader-font-type-selector-label = 글꼴
+about-reader-font-weight-selector-label = 글꼴 두께
+about-reader-font-weight-light = 가늘게
+about-reader-font-weight-regular = 보통
+about-reader-font-weight-bold = 굵게
 about-reader-layout-header = 레이아웃
-about-reader-advanced-layout-header = 고급
-about-reader-slider-label-width-narrow = 좁게
-about-reader-slider-label-width-wide = 넓게
-about-reader-slider-label-spacing-narrow = 좁게
 about-reader-slider-label-spacing-standard = 기본
 about-reader-slider-label-spacing-wide = 넓게
 about-reader-content-width-label =
     .label = 콘텐츠 너비
 about-reader-line-spacing-label =
     .label = 줄 간격
+about-reader-advanced-layout-header = 고급
+about-reader-slider-label-width-narrow = 좁게
+about-reader-slider-label-width-wide = 넓게
+about-reader-slider-label-spacing-narrow = 좁게
 about-reader-character-spacing-label =
     .label = 문자 간격
 about-reader-word-spacing-label =
