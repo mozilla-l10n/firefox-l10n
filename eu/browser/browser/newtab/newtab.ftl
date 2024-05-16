@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Gehitu bilaketa-motorra
 newtab-topsites-add-shortcut-header = Lasterbide berria
 newtab-topsites-edit-topsites-header = Editatu maiz erabilitako gunea
 newtab-topsites-edit-shortcut-header = Editatu lasterbidea
+newtab-topsites-add-shortcut-label = Gehitu lasterbidea
 newtab-topsites-title-label = Izenburua
 newtab-topsites-title-input =
     .placeholder = Idatzi izenburua
@@ -256,9 +257,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Babesleen lasterbideak
 newtab-custom-pocket-title = { -pocket-brand-name }-ek gomendatua
 newtab-custom-pocket-subtitle = { -brand-product-name } familiakide den { -pocket-brand-name }-eko taldeak hautatutako aparteko edukia.
-newtab-custom-pocket-toggle =
-    .label = { -pocket-brand-name }-ek gomendatua
-    .description = { -brand-product-name } familiakide den { -pocket-brand-name }-eko taldeak hautatutako aparteko edukia.
 newtab-custom-pocket-sponsored = Babesleen istorioak
 newtab-custom-pocket-show-recent-saves = Erakutsi gordetako azkenak
 newtab-custom-recent-title = Azken jarduera
@@ -268,3 +266,10 @@ newtab-custom-recent-toggle =
     .description = Azken gune eta edukien hautapena
 newtab-custom-close-button = Itxi
 newtab-custom-settings = Kudeatu ezarpen gehiago
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Horma-paperak
+newtab-wallpaper-reset = Berrezarri lehenespenera
+newtab-wallpaper-light-red-panda = Panda gorria
+newtab-wallpaper-dark-aurora = Aurora boreala

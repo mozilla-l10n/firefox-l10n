@@ -40,17 +40,6 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Egiaztatu beharreko informazio berria
 shopping-message-bar-warning-stale-analysis-button = Egiaztatu orain
-shopping-message-bar-generic-error-title2 = Ez dago informaziorik erabilgarri
-shopping-message-bar-generic-error-message = Arazoa konpontzen saiatzen ari gara. Itzuli geroago mesedez.
-shopping-message-bar-warning-not-enough-reviews-title = Balorazio nahikorik ez oraindik
-shopping-message-bar-warning-not-enough-reviews-message2 = Produktu honek balorazio gehiago dituenean, hauen kalitatea egiaztatu ahal izango dugu.
-shopping-message-bar-warning-product-not-available-title = Produktua ez dago erabilgarri
-shopping-message-bar-warning-product-not-available-message2 = Produktua berriz ere erabilgarri dagoela ikusten baduzu, jakinaraz iezaguzu eta balorazioak egiaztatzeari ekingo diogu.
-shopping-message-bar-warning-product-not-available-button = Jakinarazi produktu hau berriz ere erabilgarri dagoela
-shopping-message-bar-thanks-for-reporting-title = Eskerrik asko jakinarazpenagatik!
-shopping-message-bar-thanks-for-reporting-message2 = Produktu honen balorazioei buruzko informazioa 24 ordu barru izan behar genuke. Itzuli geroago mesedez.
-shopping-message-bar-warning-product-not-available-reported-title2 = Informazioa laster egongo da erabilgarri
-shopping-message-bar-warning-product-not-available-reported-message2 = Produktu honen balorazioei buruzko informazioa 24 ordu barru izan behar genuke. Itzuli geroago mesedez.
 shopping-message-bar-generic-error =
     .heading = Ez dago informaziorik erabilgarri
     .message = Arazoa konpontzen saiatzen ari gara. Itzuli geroago mesedez.
@@ -69,11 +58,10 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Produktu honen balorazioei buruzko informazioa 24 ordu barru izan behar genuke. Itzuli geroago mesedez.
 shopping-message-bar-analysis-in-progress-title2 = Balorazioaren kalitatea egiaztatzen
 shopping-message-bar-analysis-in-progress-message2 = 60 bat segundo har litzake honek.
-shopping-message-bar-page-not-supported-title = Ezin ditugu balorazio hauek egiaztatu
-shopping-message-bar-page-not-supported-message = Tamalez ezin dugu zenbait produktu moten balorazioen kalitatea egiaztatu. Adibidez, opari-txartelenak eta streaming bideo, musika eta bideoenak.
 shopping-message-bar-page-not-supported =
     .heading = Ezin ditugu balorazio hauek egiaztatu
     .message = Tamalez ezin dugu zenbait produktu moten balorazioen kalitatea egiaztatu. Adibidez, opari-txartelenak eta streaming bideo, musika eta bideoenak.
+shopping-message-bar-keep-closed-dismiss-button = Ez, eskerrik asko
 
 ## Strings for the product review snippets card
 
@@ -137,14 +125,6 @@ shopping-sidebar-close-button2 =
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
@@ -174,7 +154,6 @@ shopping-survey-q2-radio-3-label = Ez dakit
 shopping-survey-next-button-label = Hurrengoa
 shopping-survey-submit-button-label = Bidali
 shopping-survey-terms-link = Erabilera-baldintzak
-shopping-survey-thanks-message = Eskerrik asko zure iritziagatik!
 shopping-survey-thanks =
     .heading = Eskerrik asko zure iritziagatik!
 
@@ -184,6 +163,9 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = Itzuli <strong>balorazioen egiaztatzaile</strong>ra prezioen ikonoa ikusten duzun aldiro.
 shopping-callout-pdp-opted-in-title = Balorazio hauek fidatzekoak dira? Ikusi di-da batean.
+shopping-callout-not-opted-in-reminder-close-button = Baztertu
+shopping-callout-disabled-auto-open-button = Ulertuta
+shopping-callout-opted-out-button = Ulertuta
 
 ## Onboarding message strings.
 

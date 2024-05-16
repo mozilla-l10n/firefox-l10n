@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Ireki { $targetURI } fitxa berrian
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Itxi { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Baztertu { $tabTitle }
@@ -51,7 +55,22 @@ fxviewtabrow-move-tab-window = Eraman leiho berrira
     .accesskey = b
 fxviewtabrow-send-tab = Bidali fitxa gailura
     .accesskey = B
+fxviewtabrow-pin-tab = Ainguratu fitxa
+    .accesskey = A
+fxviewtabrow-unpin-tab = Desainguratu fitxa
+    .accesskey = D
+fxviewtabrow-mute-tab = Mututu fitxa
+    .accesskey = M
+fxviewtabrow-unmute-tab = Ez mututu fitxa
+    .accesskey = E
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = { $tabTitle } fitxarako aukerak
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Mututu fitxa
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Ez mututu fitxa

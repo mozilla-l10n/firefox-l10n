@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Bidalita!
 confirmation-hint-firefox-relay-mask-created = Maskara berria sortuta!
 confirmation-hint-firefox-relay-mask-reused = Lehendik zegoen maskara berrerabilita!
 confirmation-hint-screenshot-copied = Pantaila-irudia kopiatuta!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Fitxa { $tabCount } itxita
+       *[other] { $tabCount } fitxa itxita
+    }

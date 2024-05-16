@@ -203,8 +203,7 @@ cfr-cbh-confirm-button = Ukatu cookie iragarki-bandak
     .accesskey = k
 cfr-cbh-dismiss-button = Une honetan ez
     .accesskey = n
-cookie-banner-blocker-cfr-header = { -brand-short-name }(e)k cookieak blokeatu berri ditu
-cookie-banner-blocker-cfr-body = Automatikoki ukatzen ditugu cookie laster-leihoak, guneentzat zailagoa izan dadin zure jarraipena egitea.
+cookie-banner-blocker-onboarding-learn-more = Argibide gehiago
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -234,10 +233,6 @@ fxa-sync-cfr-secondary = Gogora iezadazu geroago
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Gailu zaharragoa darabilzu?
-device-migration-fxa-spotlight-body = Egin zure datuen babeskopia laster-markak, pasahitzak eta bestelako informazio garrantzitsua galtzen ez dituzula ziurtatzeko — batez ere gailu berri batera aldatzen bazara.
-device-migration-fxa-spotlight-primary-button = Nola egin nire datuen babeskopia
-device-migration-fxa-spotlight-link = Gogora iezadazu geroago
 device-migration-fxa-spotlight-heavy-user-header = Ez ahaztu zure datuen babeskopia egitea
 device-migration-fxa-spotlight-heavy-user-body = Ziurtatu informazio garrantzitsua — hala nola laster-markak eta pasahitzak — egunean eta babestuta dagoela zure gailu guztien artean.
 device-migration-fxa-spotlight-heavy-user-primary-button = Hasi erabiltzen
@@ -245,7 +240,6 @@ device-migration-fxa-spotlight-older-device-header = Bakea eta lasaitasuna, { -b
 device-migration-fxa-spotlight-older-device-body = Kontuak zure informazio garrantzitsua egunean eta babestuta mantentzen du konektatzen zaren edozein gailutan.
 device-migration-fxa-spotlight-older-device-primary-button = Sortu kontua
 device-migration-fxa-spotlight-getting-new-device-header-2 = Gailu berririk ba al da zure etorkizunean?
-device-migration-fxa-spotlight-getting-new-device-body = Egin orain zure datuen babeskopia, gailu berria heltzen zaizunean dena prest izan dezazun.
 device-migration-fxa-spotlight-getting-new-device-primary-button = Nola egin nire datuen babeskopia
 
 ## Set as Default PDF Reader Infobar
@@ -272,3 +266,7 @@ launch-on-login-infobar-reject-button = Une honetan ez
 launch-on-login-infobar-final-message = <strong>Ireki { -brand-short-name } ordenagailua berrabiarazten duzun bakoitzean?</strong> Abioko hobespenak kudeatzeko, bilatu "abioa" ezarpenetan.
 launch-on-login-infobar-final-reject-button = Ez, eskerrik asko
     .accesskey = z
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-secondary-button = Une honetan ez
