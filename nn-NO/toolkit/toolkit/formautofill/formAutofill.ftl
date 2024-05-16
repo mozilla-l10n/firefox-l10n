@@ -11,6 +11,9 @@ autofill-options-link-osx = Innstillingar for autoutfylling av skjema
 
 ## The credit card capture doorhanger
 
+# If Sync is enabled and credit card sync is available,
+# this checkbox is displayed on the doorhanger shown when saving credit card.
+credit-card-doorhanger-credit-cards-sync-checkbox = Synkroniser alle lagra kort på tvers av einingane mine
 credit-card-capture-save-button =
     .label = Lagre
     .accessKey = L

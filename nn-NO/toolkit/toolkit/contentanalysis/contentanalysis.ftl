@@ -4,9 +4,11 @@
 
 contentanalysis-operationtype-clipboard = utklippstavle
 contentanalysis-operationtype-dropped-text = sleppt tekst
+contentanalysis-operationtype-print = skriv ut
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = opplasting av «{ $filename }»
 contentanalysis-warndialog-response-allow = Bruk innhald
 contentanalysis-warndialog-response-deny = Avbryt
+contentanalysis-notification-title = Innhaldsanalyse
 contentanalysis-inprogress-quit-title = Avslutte { -brand-shorter-name }?
 contentanalysis-inprogress-quit-yesbutton = Ja, avslutt
