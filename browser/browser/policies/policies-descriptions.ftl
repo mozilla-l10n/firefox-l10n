@@ -84,6 +84,8 @@ policy-Handlers = Konfigurera standardprogramhanterare.
 policy-HardwareAcceleration = Om inaktiv, stäng av hårdvaruacceleration.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ställ in och eventuellt lås startsidan.
+policy-HttpAllowlist = Ursprung som inte kommer att uppgraderas till HTTPS.
+policy-HttpsOnlyMode = Tillåt endast HTTPS-läge.
 policy-InstallAddonsPermission = Tillåt vissa webbplatser att installera tillägg.
 policy-LegacyProfiles = Inaktivera funktionen som framtvingar en separat profil för varje installation
 

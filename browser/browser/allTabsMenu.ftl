@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Sök flikar
-
 all-tabs-menu-new-user-context =
     .label = Ny innehållsflik
-
 all-tabs-menu-hidden-tabs =
     .label = Dolda flikar
-
 all-tabs-menu-manage-user-context =
     .label = Hantera behållare
     .accesskey = b
+all-tabs-menu-close-duplicate-tabs =
+    .label = Stäng dubbla flikar
