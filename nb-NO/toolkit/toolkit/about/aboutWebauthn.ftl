@@ -150,8 +150,8 @@ about-webauthn-auth-info-null = Ikke støttet
 #  $repeatCount (Number): number of tries left
 about-webauthn-samples-still-needed =
     { $repeatCount ->
-        [one] { $repeatCount } avlesning trenges fortsatt.
-       *[other] { $repeatCount } avlesninger trenges fortsatt.
+        [one] { $repeatCount } skanning trenges fortsatt.
+       *[other] { $repeatCount } skanninger trenges fortsatt.
     }
 # Scan (e.g. of fingerprint) was successful.
 about-webauthn-ctap2-enroll-feedback-good = Skanning var bra.
