@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Lukk flere faner
     .accesskey = f
+tab-context-close-duplicate-tabs =
+    .label = Lukk dupliserte faner
+    .accesskey = u
 tab-context-share-url =
     .label = Del
     .accesskey = D
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Flytt faner
         }
     .accesskey = F
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
