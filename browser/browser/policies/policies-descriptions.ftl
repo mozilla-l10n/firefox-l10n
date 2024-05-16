@@ -108,6 +108,9 @@ policy-OverrideFirstRunPage = Замінити сторінку першого �
 policy-OverridePostUpdatePage = Замінити сторінку "Що нового" після оновлення. Щоб вимкнути цю сторінку, залиште значення правила порожнім.
 policy-PasswordManagerEnabled = Увімкнути збереження паролів у менеджері паролів.
 policy-PasswordManagerExceptions = Не дозволяти { -brand-short-name } зберігати паролі для визначених сайтів.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Увімкнути постквантове узгодження ключів для TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Вимкнути або налаштувати PDF.js, вбудований засіб перегляду файлів PDF у { -brand-short-name }.
 policy-Permissions2 = Налаштувати дозволи для камери, мікрофона, розташування, сповіщень та автовідтворення.
