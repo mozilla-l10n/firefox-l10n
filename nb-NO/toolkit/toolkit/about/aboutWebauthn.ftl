@@ -153,10 +153,28 @@ about-webauthn-samples-still-needed =
         [one] { $repeatCount } avlesning trenges fortsatt.
        *[other] { $repeatCount } avlesninger trenges fortsatt.
     }
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Skanning var bra.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Skanning var for høyt oppe.
+about-webauthn-ctap2-enroll-feedback-too-low = Skanning var for lavt nede.
+about-webauthn-ctap2-enroll-feedback-too-left = Skanning var for langt til venstre.
+about-webauthn-ctap2-enroll-feedback-too-right = Skanning var for langt til høyre.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Skanning var for rask.
+about-webauthn-ctap2-enroll-feedback-too-slow = Skanning var for treg.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Skanning hadde dårlig kvalitet.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Skanning var for skjev.
+about-webauthn-ctap2-enroll-feedback-too-short = Skanning var for kort.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Kunne ikke slå sammen skanninger.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Skanning finnes allerede.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Ingen aktivitet fra bruker.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Brukeren fullførte ikke skanningen som forventet.
+about-webauthn-ctap2-enroll-feedback-other = Skannefeil.
