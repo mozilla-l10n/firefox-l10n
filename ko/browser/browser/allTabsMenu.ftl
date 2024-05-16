@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = 탭 검색
-
 all-tabs-menu-new-user-context =
     .label = 새 컨테이너 탭
-
 all-tabs-menu-hidden-tabs =
     .label = 숨겨진 탭
-
 all-tabs-menu-manage-user-context =
     .label = 컨테이너 관리
     .accesskey = O
+all-tabs-menu-close-duplicate-tabs =
+    .label = 중복 탭 닫기
