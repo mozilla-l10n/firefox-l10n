@@ -587,6 +587,10 @@ home-prefs-recent-activity-description = 최근 사이트 및 콘텐츠 선택
 home-prefs-snippets-header =
     .label = 짧은 소식
 home-prefs-snippets-description-new = { -vendor-short-name }와 { -brand-product-name }의 팁 및 뉴스
+home-prefs-weather-header =
+    .label = 날씨
+home-prefs-weather-description = 오늘의 일기예보를 한눈에
+home-prefs-weather-learn-more-link = 더 알아보기
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -928,6 +932,7 @@ primary-password-os-auth-dialog-message-win = 기본 비밀번호를 만들려�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = 기본 비밀번호 만들기
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
