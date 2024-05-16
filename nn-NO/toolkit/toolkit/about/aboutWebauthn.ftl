@@ -67,7 +67,19 @@ about-webauthn-auth-option-pinuvauthtoken = Kommando-løyve (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Ingen MakeCredential- / GetAssertion-løyve med klient-PIN-kode
 about-webauthn-auth-option-largeblobs = Store blobbar
+about-webauthn-auth-option-ep = Verksemd-sertifisering
 about-webauthn-auth-option-bioenroll = Biometrisk registrering
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototype for biometrisk registrering (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Biometrisk registreringsløyve
+about-webauthn-auth-option-authnrcfg = Autentiseringskonfigurasjon
+about-webauthn-auth-option-uvacfg = Løyve for autentiseringskonfigurasjon
+about-webauthn-auth-option-credmgmt = Handsaming av innloggingsdetaljar
+about-webauthn-auth-option-credentialmgmtpreview = Prototype-handsaming av innlogginsdetaljar
+about-webauthn-auth-option-setminpinlength = Fastset minste PIN-kodelengde
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential utan brukarstadfesting
+about-webauthn-auth-option-alwaysuv = Krev alltid brukarstadfesting
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
@@ -78,6 +90,7 @@ about-webauthn-auth-option-null = Ikkje støtta
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Leverandørprototypekonfigurasjonskommandoar
 about-webauthn-auth-info-certifications = Sertifiseringar
 about-webauthn-auth-info-firmware-version = Fastvareversjon
 about-webauthn-auth-info-extensions = Utvidingar
