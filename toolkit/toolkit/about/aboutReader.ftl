@@ -72,6 +72,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Con grazie
 about-reader-font-type-sans-serif = Senza grazie
+about-reader-font-type-monospace = Larghezza fissa
 
 ## Reader View toolbar buttons
 
@@ -107,8 +108,18 @@ about-reader-custom-colors-selection-highlight = Evidenziatore per lettura ad al
     .title = Modifica colore
 
 about-reader-custom-colors-reset-button = Ripristina predefiniti
+about-reader-reset-button = Ripristina predefiniti
 
 ## Reader View improved text and layout menu
+
+about-reader-text-header = Testo
+
+about-reader-text-size-label = Dimensione del testo
+about-reader-font-type-selector-label = Carattere
+about-reader-font-weight-selector-label = Spessore carattere
+about-reader-font-weight-light = Sottile
+about-reader-font-weight-regular = Normale
+about-reader-font-weight-bold = Grassetto
 
 about-reader-layout-header = Layout
 about-reader-advanced-layout-header = Avanzate
