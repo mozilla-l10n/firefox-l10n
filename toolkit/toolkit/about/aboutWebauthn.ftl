@@ -23,6 +23,8 @@ about-webauthn-confirm-deletion-section-title = Stadfest sletting
 about-webauthn-text-connect-device = Kople til eit sikkerheits-token
 # If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
 about-webauthn-text-select-device = Vel ønskt sikkerheits-token ved å trykkje på eininga.
+about-webauthn-bio-enrollment-list-subsection-title = Registreringar
+about-webauthn-add-bio-enrollment-section-title = Legg til ny registrering
 
 ## Results label
 
@@ -37,6 +39,7 @@ about-webauthn-current-pin-label = Gjeldande PIN-kode:
 about-webauthn-pin-required-label = Skriv inn PIN-koden din:
 about-webauthn-credential-list-subsection-title = Innloggingsdetaljar:
 about-webauthn-enrollment-name-label = Registreringsnamn (valfritt):
+about-webauthn-credential-list-empty = Fann ingen innloggingsdetaljar på eininga.
 about-webauthn-confirm-deletion-label = Du er i ferd med å slette:
 
 ## Buttons
@@ -120,3 +123,7 @@ about-webauthn-ctap2-enroll-feedback-too-slow = Skanninga var for treg.
 # Skewed in the sense of fingerprint/iris scan was too distorted
 about-webauthn-ctap2-enroll-feedback-too-skewed = Skanninga var for skeiv.
 about-webauthn-ctap2-enroll-feedback-too-short = Skanninga var for kort.
+# Scan (e.g. of fingerprint) is somehow identical to an existing sample.
+about-webauthn-ctap2-enroll-feedback-exists = Skanninga finst allereie.
+about-webauthn-ctap2-enroll-feedback-no-user-activity = Ingen aktivitet frå brukar.
+about-webauthn-ctap2-enroll-feedback-other = Skannefeil.
