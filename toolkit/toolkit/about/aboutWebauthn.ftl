@@ -86,9 +86,17 @@ about-webauthn-auth-info-null = Ikkje støtta
 
 ## Bio enrollment sample feedbacks
 
+# Scan (e.g. of fingerprint) was successful.
+about-webauthn-ctap2-enroll-feedback-good = Skanninga var bra.
 
 ## Scan (e.g. of fingerprint) was off-center (e.g. too high, too left, etc.).
 
+about-webauthn-ctap2-enroll-feedback-too-high = Skanninga var for høgt oppe.
+about-webauthn-ctap2-enroll-feedback-too-low = Skanninga var for lågt nede.
+about-webauthn-ctap2-enroll-feedback-too-left = Skanninga var for langt til venstre.
+about-webauthn-ctap2-enroll-feedback-too-right = Skanninga var for langt til høgre.
 
 ##
 
+about-webauthn-ctap2-enroll-feedback-too-fast = Skanninga var for rask.
+about-webauthn-ctap2-enroll-feedback-too-slow = Skanninga var for treg.
