@@ -310,3 +310,19 @@ newtab-weather-sponsored = { $provider } ∙ 스폰서
 newtab-weather-menu-change-location = 위치 변경
 newtab-weather-change-location-search-input = 위치 검색
 newtab-weather-menu-weather-display = 날씨 표시
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = 단순
+newtab-weather-menu-change-weather-display-simple = 단순 보기로 전환
+newtab-weather-menu-weather-display-option-detailed = 상세
+newtab-weather-menu-change-weather-display-detailed = 상세 보기로 전환
+newtab-weather-menu-temperature-units = 온도 단위
+newtab-weather-menu-temperature-option-fahrenheit = 화씨
+newtab-weather-menu-temperature-option-celsius = 섭씨
+newtab-weather-menu-change-temperature-units-fahrenheit = 화씨로 전환
+newtab-weather-menu-change-temperature-units-celsius = 섭씨로 전환
+newtab-weather-menu-hide-weather = 새 탭에서 날씨 숨기기
+newtab-weather-menu-learn-more = 더 알아보기
+# This message is shown if user is working offline
+newtab-weather-error-not-available = 지금은 날씨 데이터를 사용할 수 없습니다.
