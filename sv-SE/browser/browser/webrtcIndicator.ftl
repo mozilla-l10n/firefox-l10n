@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Kom ihåg detta beslut
+webrtc-remember-allow-checkbox-camera = Kom ihåg för alla kameror
+webrtc-remember-allow-checkbox-microphone = Kom ihåg för alla mikrofoner
+webrtc-remember-allow-checkbox-camera-and-microphone = Kom ihåg för alla kameror och mikrofoner
 webrtc-mute-notifications-checkbox = Stäng av webbplatsaviseringar när du delar
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan inte tillåta ständig tillgång till din skärm.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan inte tillåta permanent tillgång till dina flikars ljud utan att fråga vilken flik som ska delas.

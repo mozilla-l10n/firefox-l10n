@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Fast bredd
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,28 @@ about-reader-custom-colors-visited-links = Besökta länkar
 about-reader-custom-colors-selection-highlight = Markering för högläsning
     .title = Redigera färg
 about-reader-custom-colors-reset-button = Återställ standardvärdena
+about-reader-reset-button = Återställ standardvärdena
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Text
+about-reader-text-size-label = Textstorlek
+about-reader-font-type-selector-label = Teckensnitt
+about-reader-font-weight-selector-label = Teckensnittets vikt
+about-reader-font-weight-light = Ljust
+about-reader-font-weight-regular = Normal
+about-reader-font-weight-bold = Halvfet
 about-reader-layout-header = Layout
-about-reader-advanced-layout-header = Avancerat
-about-reader-slider-label-width-narrow = Smal
-about-reader-slider-label-width-wide = Bred
-about-reader-slider-label-spacing-narrow = Smal
 about-reader-slider-label-spacing-standard = Standard
 about-reader-slider-label-spacing-wide = Bred
 about-reader-content-width-label =
     .label = Innehållsbredd
 about-reader-line-spacing-label =
     .label = Radavstånd
+about-reader-advanced-layout-header = Avancerat
+about-reader-slider-label-width-narrow = Smal
+about-reader-slider-label-width-wide = Bred
+about-reader-slider-label-spacing-narrow = Smal
 about-reader-character-spacing-label =
     .label = Teckenavstånd
 about-reader-word-spacing-label =

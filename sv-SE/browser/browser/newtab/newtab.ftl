@@ -272,6 +272,9 @@ newtab-custom-recent-subtitle = Ett urval av senaste webbplatser och innehåll
 newtab-custom-recent-toggle =
     .label = Senaste aktivitet
     .description = Ett urval av senaste webbplatser och innehåll
+newtab-custom-weather-toggle =
+    .label = Väder
+    .description = Dagens prognos i korthet
 newtab-custom-close-button = Stäng
 newtab-custom-settings = Hantera fler inställningar
 
@@ -295,3 +298,32 @@ newtab-wallpaper-dark-city = Lila stadslandskap
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto av <a data-l10n-name="name-link">{ $author_string }</a> från <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Se prognos i { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsrad
+newtab-weather-menu-change-location = Ändra plats
+newtab-weather-change-location-search-input = Sök plats
+newtab-weather-menu-weather-display = Vädervisning
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Enkel
+newtab-weather-menu-change-weather-display-simple = Växla till enkel vy
+newtab-weather-menu-weather-display-option-detailed = Detaljerad
+newtab-weather-menu-change-weather-display-detailed = Växla till detaljerad vy
+newtab-weather-menu-temperature-units = Temperaturenheter
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Byt till Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Byt till Celsius
+newtab-weather-menu-hide-weather = Dölj väder på ny flik
+newtab-weather-menu-learn-more = Läs mer
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Väderdata är inte tillgänglig just nu.
