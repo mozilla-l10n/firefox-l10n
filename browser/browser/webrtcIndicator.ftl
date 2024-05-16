@@ -191,6 +191,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = 이 선택 기억하기
+webrtc-remember-allow-checkbox-camera = 모든 카메라에 대해 기억하기
+webrtc-remember-allow-checkbox-microphone = 모든 마이크에 대해 기억하기
+webrtc-remember-allow-checkbox-camera-and-microphone = 모든 카메라와 마이크에 대해 기억하기
 webrtc-mute-notifications-checkbox = 공유하는 동안 웹 사이트 알림 음소거
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name }가 더 이상 당신의 화면에 접근할 수 없습니다.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name }가 이제 어느 탭을 공유할지 더 이상 묻지 않고 탭의 소리에 접근합니다.

@@ -87,6 +87,11 @@ tabbrowser-confirm-caretbrowsing-title = 커서 브라우징
 tabbrowser-confirm-caretbrowsing-message = F7 키를 누르면 커서 브라우징을 켜거나 끕니다. 이 기능은 웹 페이지에 이동 가능한 커서를 배치하여 키보드로 텍스트를 선택할 수 있습니다. 커서 브라우징을 켜시겠습니까?
 tabbrowser-confirm-caretbrowsing-checkbox = 이 대화 상자를 다시 표시하지 않음.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = 주의하세요
+tabbrowser-confirm-close-duplicate-tabs-text = 최근 활성 탭을 계속 열어 둡니다.
+
 ##
 
 # Variables:
