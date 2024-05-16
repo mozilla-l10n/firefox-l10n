@@ -62,6 +62,10 @@ about-webauthn-auth-option-up = Brukarnærvær
 about-webauthn-auth-option-clientpin = Klient PIN-kode
 about-webauthn-auth-option-rk = Resident-nøkkel
 about-webauthn-auth-option-plat = Plattformeining
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Kommando-løyve (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Ingen MakeCredential- / GetAssertion-løyve med klient-PIN-kode
 about-webauthn-auth-option-largeblobs = Store blobbar
 about-webauthn-auth-option-bioenroll = Biometrisk registrering
 # Shows when boolean value for an option is True. True should not be translated.
@@ -100,3 +104,6 @@ about-webauthn-ctap2-enroll-feedback-too-right = Skanninga var for langt til hø
 
 about-webauthn-ctap2-enroll-feedback-too-fast = Skanninga var for rask.
 about-webauthn-ctap2-enroll-feedback-too-slow = Skanninga var for treg.
+# Skewed in the sense of fingerprint/iris scan was too distorted
+about-webauthn-ctap2-enroll-feedback-too-skewed = Skanninga var for skeiv.
+about-webauthn-ctap2-enroll-feedback-too-short = Skanninga var for kort.
