@@ -3,11 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-branded-title = { -brand-short-name } Krasjrapportering
+crashreporter-apology = Vi beklagar
 crashreporter-plea = For å hjelpa oss å stilla diagnose og å ordna problemet, kan du senda oss ein krasjrapport.
 # $details (String) - the reason that a crash report cannot be submitted
 crashreporter-error-details = Detaljar: { $details }
 crashreporter-no-run-message = Dette programmet vert køyrt etter eit krasj for å rapportera problemet til programseljaren.  -Skal ikkje køyrast direkte.
 crashreporter-button-details = Detaljar …
+crashreporter-loading-details = Lastar…
 crashreporter-view-report-title = Rapporter innhald
 crashreporter-comment-prompt = Legg til kommentar (kommentarar kan sjåast av andre)
 crashreporter-report-info = Denne rapporten inneheld og teknisk informasjon om tilstanden til programmet då det krasja.

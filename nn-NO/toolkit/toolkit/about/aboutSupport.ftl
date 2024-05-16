@@ -191,6 +191,8 @@ media-codec-support-lack-of-extension = Installer utviding
 ## See EME Spec for more explanation for following technical terms
 ## https://w3c.github.io/encrypted-media/
 
+media-content-decryption-modules-title = Informasjon om innhaldsdekrypteringsmodular
+media-key-system-name = Nøkkelsystemnamn
 media-video-robustness = Videorobustheit
 media-audio-robustness = Lydrobustheit
 media-cdm-capabilities = Eigenskapar
@@ -198,6 +200,9 @@ media-cdm-capabilities = Eigenskapar
 # are not encrypted. It allows playback to start without having to wait for
 # license response, improving video start time and user experience.
 media-cdm-clear-lead = Fri start
+# We choose 2.2 as this is the version which the video provider usually want to have in order to stream 4K video securely
+# HDCP version https://w3c.github.io/encrypted-media/#idl-def-hdcpversion
+media-hdcp-22-compatible = HDCP 2.2-kompatibel
 
 ##
 
