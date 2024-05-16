@@ -949,11 +949,14 @@ autofill-saved-payment-methods-button = 저장된 결제 방법
     .accesskey = v
 autofill-reauth-checkbox =
     { PLATFORM() ->
-        [macos] 결제 방법을 채우고 편집하려면 macOS 인증이 필요합니다.
-        [windows] 결제 방법을 채우고 편집하려면 Windows 인증이 필요합니다.
-        [linux] 결제 방법을 채우고 편집하려면 Linux 인증이 필요합니다.
-       *[other] 결제 방법을 채우고 편집하려면 인증이 필요합니다.
+        [macos] 결제 방법을 작성하고 편집하려면 macOS 인증이 필요합니다.
+        [windows] 결제 방법을 작성하고 편집하려면 Windows 인증이 필요합니다.
+        [linux] 결제 방법을 작성하고 편집하려면 Linux 인증이 필요합니다.
+       *[other] 결제 방법을 작성하고 편집하려면 인증이 필요합니다.
     }
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = 결제 방법을 작성하고 관리하려면 기기 로그인이 필요합니다.
     .accesskey = o
 
 ## Privacy Section - History
