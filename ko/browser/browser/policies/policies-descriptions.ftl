@@ -84,6 +84,7 @@ policy-Handlers = 기본 애플리케이션 핸들러를 구성합니다.
 policy-HardwareAcceleration = False 값이면 하드웨어 가속 기능을 끕니다.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = 홈페이지를 설정하고 선택적으로 잠급니다.
+policy-HttpAllowlist = HTTPS로 업그레이드되지 않는 출처입니다.
 policy-HttpsOnlyMode = HTTPS 전용 모드를 활성화하도록 허용합니다.
 policy-InstallAddonsPermission = 특정 웹 사이트가 부가 기능을 설치할 수 있게 허용합니다.
 policy-LegacyProfiles = 각 설치별로 다른 프로필 사용을 강제하는 기능을 사용 안 합니다.
