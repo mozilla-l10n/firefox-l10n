@@ -900,6 +900,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = 기본 비밀번호 사용
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = 비밀번호를 입력하고 관리하는데 기기 로그인 요구
 forms-primary-pw-learn-more-link = 더 알아보기
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -932,6 +935,12 @@ primary-password-os-auth-dialog-message-win = 기본 비밀번호를 만들려�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = 기본 비밀번호 만들기
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] 결제 방법 설정 변경
+       *[other] { -brand-short-name }가 결제 방법 설정을 변경하려고 합니다. 이를 허용하려면 기기 로그인을 사용하세요.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -941,7 +950,7 @@ autofill-addresses-checkbox = 주소 저장 및 채우기
     .accesskey = a
 autofill-saved-addresses-button = 저장된 주소
     .accesskey = S
-autofill-payment-methods-checkbox-message = 결제 방법 저장 및 채우기
+autofill-payment-methods-checkbox-message = 결제 방법 저장 및 작성
     .accesskey = m
 autofill-payment-methods-checkbox-submessage = 신용/직불 카드 포함
     .accesskey = I
