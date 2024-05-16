@@ -162,6 +162,13 @@ about-logins-edit-login-os-auth-dialog-message-win = 로그인을 편집하려�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 저장된 로그인 편집
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] 비밀번호 설정 변경
+       *[other] { -brand-short-name }가 비밀번호 설정을 변경하려고 합니다. 이를 허용하려면 기기 로그인을 사용하세요.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = 비밀번호를 편집하려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
 # This message can be seen when attempting to edit a login in about:logins
@@ -238,11 +245,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] { -fxaccount-brand-name }에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 로그인이 삭제됩니다. 또한, 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
        *[other] { -fxaccount-brand-name }에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 로그인들이 삭제됩니다. 또한, 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] 계정에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 로그인 정보가 제거됩니다. 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
-       *[other] 계정에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 로그인 정보가 제거됩니다. 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
