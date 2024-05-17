@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Nove scheda
 tabbrowser-empty-private-tab-title = Nove scheda private
-
 tabbrowser-menuitem-close-tab =
     .label = Clauder le scheda
 tabbrowser-menuitem-close =
     .label = Clauder
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +111,16 @@ tabbrowser-confirm-caretbrowsing-title = Navigation in le texto
 tabbrowser-confirm-caretbrowsing-message = Premer sur F7 activa o disactiva le navigation a cursor. Iste functionalitate placia un cursor movibile in le paginas web, permittente que tu selige texto con le claviero. Desira tu activar le navigation a cursor?
 tabbrowser-confirm-caretbrowsing-checkbox = Non monstrar me plus iste fenestra de dialogo.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Attention
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permitter que notificationes como iste de { $domain } te porta a lor scheda
-
 tabbrowser-customizemode-tab-title = Personalisar { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +139,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Non plus silentiar le schedas
     .accesskey = s
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Reproducer audios
 
