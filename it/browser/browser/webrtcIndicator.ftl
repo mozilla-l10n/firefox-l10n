@@ -249,4 +249,3 @@ webrtc-mute-notifications-checkbox = Disattiva notifiche dai siti web durante la
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } non è in grado di consentire accesso in modo permanente allo schermo.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } non è in grado di consentire accesso in modo permanente all’audio della scheda senza chiedere quale scheda condividere.
 webrtc-reason-for-no-permanent-allow-insecure = La connessione con il sito non è sicura. Per motivi di sicurezza { -brand-short-name } consentirà l’accesso solo per questa sessione.
-
