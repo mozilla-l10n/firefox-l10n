@@ -963,6 +963,9 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-to-use-relay = Gure maskara seguru eta erabilerrazak zure identitatea babesten du eta spama saihesten du zure helbide elektronikoa ezkutatuz.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Zure helbide elektronikoko maskaretara bidalitako mezu elektroniko guztiak <strong>{ $useremail }</strong> helbidera birbidaliko dira (blokeatzea erabaki ezean).
 
 ## Add-on Pop-up Notifications
 
