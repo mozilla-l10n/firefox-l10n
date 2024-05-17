@@ -955,6 +955,13 @@ primary-password-os-auth-dialog-message-win = Каб стварыць галоў
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = стварыць галоўны пароль
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] змяніць налады спосабаў аплаты
+       *[other] { -brand-short-name } спрабуе змяніць налады спосабаў аплаты. Выкарыстоўвайце ўваход на прыладзе, каб дазволіць гэта.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -976,6 +983,9 @@ autofill-reauth-checkbox =
         [linux] Патрабаваць аўтэнтыфікацыю ў Linux для запаўнення і змянення спосабаў аплаты.
        *[other] Патрабаваць аўтэнтыфікацыю для запаўнення і змянення спосабаў аплаты.
     }
+    .accesskey = ў
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Патрабаваць уваход на прыладзе для запаўнення спосабаў аплаты і кіравання імі
     .accesskey = ў
 
 ## Privacy Section - History
