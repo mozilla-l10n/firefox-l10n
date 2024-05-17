@@ -69,6 +69,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Pätkové
 about-reader-font-type-sans-serif = Bezpätkové
+about-reader-font-type-monospace = Neproporcionálne
 
 ## Reader View toolbar buttons
 
@@ -103,17 +104,24 @@ about-reader-custom-colors-reset-button = Použiť predvolené
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Text
+about-reader-text-size-label = Veľkosť textu
+about-reader-font-type-selector-label = Písmo
+about-reader-font-weight-selector-label = Hrúbka písma
+about-reader-font-weight-light = Tenké
+about-reader-font-weight-regular = Normálne
+about-reader-font-weight-bold = Tučné
 about-reader-layout-header = Rozloženie
-about-reader-advanced-layout-header = Rozšírené
-about-reader-slider-label-width-narrow = Úzke
-about-reader-slider-label-width-wide = Široké
-about-reader-slider-label-spacing-narrow = Úzke
 about-reader-slider-label-spacing-standard = Štandardné
 about-reader-slider-label-spacing-wide = Široké
 about-reader-content-width-label =
     .label = Šírka obsahu
 about-reader-line-spacing-label =
     .label = Riadkovanie
+about-reader-advanced-layout-header = Rozšírené
+about-reader-slider-label-width-narrow = Úzke
+about-reader-slider-label-width-wide = Široké
+about-reader-slider-label-spacing-narrow = Úzke
 about-reader-character-spacing-label =
     .label = Rozostup znakov
 about-reader-word-spacing-label =
