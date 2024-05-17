@@ -273,6 +273,9 @@ newtab-custom-recent-subtitle = Падборка нядаўніх сайтаў �
 newtab-custom-recent-toggle =
     .label = Апошняя актыўнасць
     .description = Падборка нядаўніх сайтаў і змесціва
+newtab-custom-weather-toggle =
+    .label = Надвор'е
+    .description = Кароткі прагноз на сёння
 newtab-custom-close-button = Закрыць
 newtab-custom-settings = Кіраваць дадатковымі наладамі
 
@@ -296,3 +299,28 @@ newtab-wallpaper-dark-city = Пурпурны гарадскі пейзаж
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Фота <a data-l10n-name="name-link">{ $author_string }</a> з <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Паглядзець прагноз у { $provider }
+newtab-weather-menu-change-location = Змяніць месцазнаходжанне
+newtab-weather-change-location-search-input = Шукаць месцазнаходжанне
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Просты
+newtab-weather-menu-change-weather-display-simple = Пераключыцца на просты выгляд
+newtab-weather-menu-weather-display-option-detailed = Падрабязны
+newtab-weather-menu-change-weather-display-detailed = Пераключыцца на падрабязны выгляд
+newtab-weather-menu-temperature-units = Адзінкі вымярэння тэмпературы
+newtab-weather-menu-temperature-option-fahrenheit = Фарэнгейт
+newtab-weather-menu-temperature-option-celsius = Цэльсій
+newtab-weather-menu-change-temperature-units-fahrenheit = Пераключыць на фарэнгейты
+newtab-weather-menu-change-temperature-units-celsius = Пераключыць на градусы Цэльсія
+newtab-weather-menu-hide-weather = Схаваць надвор'е на новай картцы
+newtab-weather-menu-learn-more = Даведацца больш
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Звесткі пра надвор'е зараз недаступныя.
