@@ -304,3 +304,22 @@ newtab-weather-see-forecast =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Patrocinado
+newtab-weather-menu-change-location = Mudar local
+newtab-weather-change-location-search-input = Pesquisar local
+newtab-weather-menu-weather-display = Exibição do tempo
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Simples
+newtab-weather-menu-change-weather-display-simple = Mudar para exibição simples
+newtab-weather-menu-weather-display-option-detailed = Detalhada
+newtab-weather-menu-change-weather-display-detailed = Mudar para exibição detalhada
+newtab-weather-menu-temperature-units = Unidades de temperatura
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Mudar para Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Mudar para Celsius
+newtab-weather-menu-hide-weather = Ocultar tempo em nova aba
+newtab-weather-menu-learn-more = Saiba mais
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Dados sobre o tempo não estão disponíveis no momento.
