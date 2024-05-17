@@ -191,6 +191,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = 記住此決定
+webrtc-remember-allow-checkbox-camera = 記住所有攝影機
+webrtc-remember-allow-checkbox-microphone = 記住所有麥克風
+webrtc-remember-allow-checkbox-camera-and-microphone = 記住所有攝影機與麥克風
 webrtc-mute-notifications-checkbox = 分享視窗或畫面時，隱藏網站通知
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } 無法永久允許存取您的畫面
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } 無法永久允許不先詢問要分享哪一個分頁就直接存取音訊內容。
