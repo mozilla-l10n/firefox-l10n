@@ -274,6 +274,9 @@ newtab-custom-recent-subtitle = Wuběrk nejnowšych sedłow a nejnowšego wopśi
 newtab-custom-recent-toggle =
     .label = Nejnowša aktiwita
     .description = Wuběrk nejnowšych sedłow a nejnowšego wopśimjeśa
+newtab-custom-weather-toggle =
+    .label = Wjedro
+    .description = Źinsajšna wjedrowa pśedpowěsć
 newtab-custom-close-button = Zacyniś
 newtab-custom-settings = Dalšne nastajenja zastojaś
 
@@ -297,3 +300,32 @@ newtab-wallpaper-dark-city = Wioletna měsćańska krajina
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto wót <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Wjedrowu pśedpowěsć w { $provider } pokazaś
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ sponserowany
+newtab-weather-menu-change-location = Městno změniś
+newtab-weather-change-location-search-input = Městno pytaś
+newtab-weather-menu-weather-display = Wjedrowe pokazanje
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Jadnory
+newtab-weather-menu-change-weather-display-simple = Jadnory naglěd wužywaś
+newtab-weather-menu-weather-display-option-detailed = Detailěrowany
+newtab-weather-menu-change-weather-display-detailed = Detailěrowany naglěd wužywaś
+newtab-weather-menu-temperature-units = Temperaturowe jadnotki
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Fahrenheit wužywaś
+newtab-weather-menu-change-temperature-units-celsius = Celsius wužywaś
+newtab-weather-menu-hide-weather = Wjedro na nowem rejtariku schowaś
+newtab-weather-menu-learn-more = Dalšne informacije
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Wjedrowe daty njejsu tuchylu k dispoziciji
