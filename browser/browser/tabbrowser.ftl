@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Варақаи нав
 tabbrowser-empty-private-tab-title = Варақаи хусусии нав
-
 tabbrowser-menuitem-close-tab =
     .label = Пӯшидани варақа
 tabbrowser-menuitem-close =
     .label = Пӯшидан
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +111,16 @@ tabbrowser-confirm-caretbrowsing-title = Паймоиш бо курсори фа
 tabbrowser-confirm-caretbrowsing-message = Пахшкунии тугмаи F7 реҷаи паймоиш бо курсори фаъолро фаъол ё хомӯш мекунад. Ин хусусият курсори ҳаракатшавандаро дар саҳифаҳои сомона ҷойгир мекунад ва ба шумо имкон медиҳад, то тавонед матнро ба воситаи клавиатура интихоб намоед. Шумо мехоҳед, ки реҷаи паймоиш бо курсори фаъолро фаъол кунед?
 tabbrowser-confirm-caretbrowsing-checkbox = Ин равзанаи гуфтугӯӣ дигар ба ман нишон дода нашавад.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Диққат
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Ба огоҳномаҳои монанди ин аз { $domain } иҷозат диҳед, ки шуморо ба варақаи онҳо гузаронанд
-
 tabbrowser-customizemode-tab-title = Танзимоти { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +139,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Фаъол кардани садо дар варақаҳо
     .accesskey = m
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Пахши аудио
 
