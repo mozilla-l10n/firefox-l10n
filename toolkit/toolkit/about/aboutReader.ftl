@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = סריף
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = רוחב קבוע
 
 ## Reader View toolbar buttons
 
@@ -107,6 +108,9 @@ about-reader-text-header = טקסט
 about-reader-text-size-label = גודל טקסט
 about-reader-font-type-selector-label = גופן
 about-reader-font-weight-selector-label = משקל גופן
+about-reader-font-weight-light = קל
+about-reader-font-weight-regular = רגיל
+about-reader-font-weight-bold = מודגש
 about-reader-layout-header = פריסה
 about-reader-slider-label-spacing-standard = רגיל
 about-reader-slider-label-spacing-wide = רחב
