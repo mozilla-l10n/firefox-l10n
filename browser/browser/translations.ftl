@@ -120,6 +120,17 @@ translations-manage-description = Pellgargañ yezhoù evit treiñ digevreet.
 translations-manage-all-language = An holl yezhoù
 translations-manage-download-button = Pellgargañ
 translations-manage-delete-button = Dilemel
+translations-manage-install-description = Staliañ yezhoù evit an droidigezh maez-linenn
+translations-manage-language-install-button =
+    .label = Staliañ
+translations-manage-language-install-all-button =
+    .label = Staliañ pep tra
+    .accesskey = S
+translations-manage-language-download-button =
+    .label = Pellgargañ
+translations-manage-language-download-all-button =
+    .label = Pellgargañ pep tra
+    .accesskey = P
 translations-manage-language-remove-button =
     .label = Dilemel
 translations-manage-language-remove-all-button =
@@ -128,12 +139,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = C'hoarvezet ez eus bet ur gudenn en ur staliañ ar restroù yezh. Klaskit adarre mar plij.
 translations-manage-error-download = C’hoarvezet ez eus bet ur gudenn en ur bellgargañ ar restroù yezh. Klaskit adarre mar plij.
 translations-manage-error-delete = C’hoarvezet ez eus bet ur fazi en ur zilemel ar restroù yezh. Klaskit adarre mar plij.
-translations-manage-install-description = Staliañ yezhoù evit an droidigezh maez-linenn
-translations-manage-language-install-button =
-    .label = Staliañ
-translations-manage-language-install-all-button =
-    .label = Staliañ pep tra
-    .accesskey = S
 translations-manage-error-remove = C'hoarvezet ez eus bet ur fazi en ur dilemel ar restroù yezh. Klaskit adarre mar plij.
 translations-settings-title =
     .title = Arventennoù an treiñ
@@ -162,12 +167,31 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Serriñ
     .buttonaccesskeyaccept = S
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Treiñ an diuzad…
+    .accesskey = n
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Troidigezh
 select-translations-panel-cancel-button =
     .label = Nullañ
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Eilañ
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Eilet
+select-translations-panel-done-button =
+    .label = Graet
+select-translations-panel-translate-full-page-button =
+    .label = Treiñ ar bajenn a-bezh
 select-translations-panel-translate-button =
     .label = Treiñ
 select-translations-panel-try-again-button =
     .label = Klask en-dro
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = O treiñ…
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Ur gudenn zo bet en ur dreiñ. Klaskit adarre mar plij.

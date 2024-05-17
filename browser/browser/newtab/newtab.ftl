@@ -280,3 +280,18 @@ newtab-wallpaper-light-beach = Traezhenn gant ur balmezenn
 newtab-wallpaper-dark-aurora = Tarzh-gouloù
 newtab-wallpaper-dark-color = Furmoù ruz ha glas
 newtab-wallpaper-dark-panda = Panda ruz kuzhet er c’hoad
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Paeroniet
+newtab-weather-menu-change-location = Cheñch al lec’hiadur
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Eeun
+newtab-weather-menu-temperature-units = Unanenn wrezverk
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-learn-more = Gouzout hiroc’h
