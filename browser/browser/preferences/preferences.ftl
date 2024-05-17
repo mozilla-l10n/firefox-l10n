@@ -232,6 +232,8 @@ preferences-web-appearance-choice-input-dark =
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Le impostazioni per l’aspetto dei siti web sono sostituite dall’attuale selezione di colori. <a data-l10n-name="colors-link">Gestisci colori</a>
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
 preferences-web-appearance-override-warning2 =
     .message = Le impostazioni per l’aspetto dei siti web sono sostituite dall’attuale selezione di colori.
 # This message contains one link. It can be moved within the sentence as needed
@@ -434,7 +436,7 @@ update-setting-write-failure-title2 = Errore durante il salvataggio delle impost
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-
+    
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -590,12 +592,6 @@ home-prefs-highlights-option-saved-to-pocket =
 home-prefs-recent-activity-header =
     .label = Attività recente
 home-prefs-recent-activity-description = Una selezione di siti e contenuti visualizzati di recente
-
-home-prefs-weather-header =
-  .label = Meteo
-home-prefs-weather-description = Panoramica delle previsioni meteo per oggi
-home-prefs-weather-learn-more-link = Ulteriori informazioni
-
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -603,6 +599,10 @@ home-prefs-weather-learn-more-link = Ulteriori informazioni
 home-prefs-snippets-header =
     .label = Snippet
 home-prefs-snippets-description-new = Consigli e notizie da { -vendor-short-name } e { -brand-product-name }
+home-prefs-weather-header =
+    .label = Meteo
+home-prefs-weather-description = Panoramica delle previsioni meteo per oggi
+home-prefs-weather-learn-more-link = Ulteriori informazioni
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -717,13 +717,10 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Cambia l’immagine del profilo
     .alt = Cambia l’immagine del profilo
-
 sync-profile-picture-account-problem =
     .alt = Immagine del profilo per l’account
-
 fxa-login-rejected-warning =
     .alt = Avviso
-
 sync-sign-out =
     .label = Disconnetti…
     .accesskey = t
@@ -922,7 +919,6 @@ forms-primary-pw-use =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Richiedi conferma dell’accesso al dispositivo per compilare automaticamente e gestire le password
-
 forms-primary-pw-learn-more-link = Ulteriori informazioni
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -955,12 +951,12 @@ primary-password-os-auth-dialog-message-win = Per creare una password principale
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = creare una password principale
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
 # The macOS string is preceded by the operating system with "Firefox is trying to ".
-autofill-creditcard-os-dialog-message = { PLATFORM () ->
-    [macos] modificare le impostazioni relative ai metodi di pagamento
-   *[other] sta cercando di modificare le impostazioni relative ai metodi di pagamento. Confermare l’accesso al dispositivo per consentire l’operazione.
-}
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] modificare le impostazioni relative ai metodi di pagamento
+       *[other] { -brand-short-name } sta cercando di modificare le impostazioni relative ai metodi di pagamento. Confermare l’accesso al dispositivo per consentire l’operazione.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -984,6 +980,7 @@ autofill-reauth-checkbox =
        *[other] Richiedi autenticazione per compilare e modificare i metodi di pagamento.
     }
     .accesskey = u
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Richiedi conferma dell’accesso al dispositivo per compilare automaticamente e gestire i metodi di pagamento
     .accesskey = u
 
@@ -1428,4 +1425,3 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
-
