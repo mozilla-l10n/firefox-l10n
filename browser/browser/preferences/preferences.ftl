@@ -605,6 +605,10 @@ home-prefs-recent-activity-description = Wuběr najnowšich sydłow a najnowšeh
 home-prefs-snippets-header =
     .label = Šlipki
 home-prefs-snippets-description-new = Pokiwy a nowinki wot { -vendor-short-name } a { -brand-product-name }
+home-prefs-weather-header =
+    .label = Wjedro
+home-prefs-weather-description = Dźensniša wjedrowa předpowědź na jedyn pohlad
+home-prefs-weather-learn-more-link = Dalše informacije
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -920,6 +924,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Hłowne hesło wužiwać
     .accesskey = H
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Gratowe přizjewjenje za wupjelnjenje a rjadowanje hesłow žadać
 forms-primary-pw-learn-more-link = Dalše informacije
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -952,6 +959,13 @@ primary-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske da
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Hłowne hesło wutworić
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] nastajenja za płaćenske metody změnić
+       *[other] { -brand-short-name } pospytuje, nastajenja za płaćenske metody změnić. Wužiwajće swoje gratowe přizjewjenje, zo byšće to dowolił.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -974,6 +988,9 @@ autofill-reauth-checkbox =
        *[other] Awtentifikaciju za wupjelnjenje a wobdźěłowanje płaćenskich metodow žadać.
     }
     .accesskey = A
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Gratowe přizjewjenje za wupjelnjenje a rjadowanje płaćenskich metodow žadać
+    .accesskey = r
 
 ## Privacy Section - History
 
