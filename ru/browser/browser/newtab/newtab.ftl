@@ -273,6 +273,9 @@ newtab-custom-recent-subtitle = Подборка недавних сайтов �
 newtab-custom-recent-toggle =
     .label = Последние действия
     .description = Подборка недавних сайтов и контента
+newtab-custom-weather-toggle =
+    .label = Погода
+    .description = Краткий прогноз на сегодня
 newtab-custom-close-button = Закрыть
 newtab-custom-settings = Управление дополнительными настройками
 
@@ -296,3 +299,32 @@ newtab-wallpaper-dark-city = Фиолетовый городской пейза�
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Фото <a data-l10n-name="name-link">{ $author_string }</a> на <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Посмотреть прогноз в { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ На правах рекламы
+newtab-weather-menu-change-location = Изменить местоположение
+newtab-weather-change-location-search-input = Поиск местоположения
+newtab-weather-menu-weather-display = Отображение погоды
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Простой
+newtab-weather-menu-change-weather-display-simple = Переключиться в простой вид
+newtab-weather-menu-weather-display-option-detailed = Подробный
+newtab-weather-menu-change-weather-display-detailed = Переключиться в подробный вид
+newtab-weather-menu-temperature-units = Единицы измерения температуры
+newtab-weather-menu-temperature-option-fahrenheit = Фаренгейт
+newtab-weather-menu-temperature-option-celsius = Цельсий
+newtab-weather-menu-change-temperature-units-fahrenheit = Переключиться на градусы Фаренгейта
+newtab-weather-menu-change-temperature-units-celsius = Переключиться на градусы Цельсия
+newtab-weather-menu-hide-weather = Скрыть погоду на новой вкладке
+newtab-weather-menu-learn-more = Подробнее
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Данные о погоде сейчас недоступны.
