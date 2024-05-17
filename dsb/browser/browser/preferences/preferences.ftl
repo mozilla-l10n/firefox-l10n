@@ -605,6 +605,10 @@ home-prefs-recent-activity-description = Wuběrk nejnowšych sedłow a nejnowše
 home-prefs-snippets-header =
     .label = Kuski
 home-prefs-snippets-description-new = Pokazki a nowosći wót { -vendor-short-name } a { -brand-product-name }
+home-prefs-weather-header =
+    .label = Wjedro
+home-prefs-weather-description = Źinsajšna wjedrowa pśedpowěsć na jadno póglědnjenje
+home-prefs-weather-learn-more-link = Dalšne informacije
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -920,6 +924,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Głowne gronidło wužywaś
     .accesskey = G
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Rědowe pśizjawjenje za wupołnjenje a zastojanje gronidłow pominaś
 forms-primary-pw-learn-more-link = Dalšne informacije
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -952,6 +959,13 @@ primary-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = głowne gronidło napóraś
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] nastajenja za płaśeńske metody změniś
+       *[other] { -brand-short-name } wopytujo, nastajenja za płaśeńske metody změniś. Wužywajśo swóje rědowe pśizjawjenje, aby to dowólił.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -974,6 +988,9 @@ autofill-reauth-checkbox =
        *[other] Awtentificěrowanje za wupołnjenje a wobźěłowanje płaśeńskich metodow pominaś.
     }
     .accesskey = t
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Rědowe pśizjawjenje za wupołnjenje a zastojanje płaśeńskcih metodow pominaś
+    .accesskey = d
 
 ## Privacy Section - History
 

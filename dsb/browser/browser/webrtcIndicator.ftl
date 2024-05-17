@@ -233,6 +233,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Toś ten rozsud se spomnjeś
+webrtc-remember-allow-checkbox-camera = Se za wšykne kamery spomnjeś
+webrtc-remember-allow-checkbox-microphone = Se za wšykne mikrofony spomnjeś
+webrtc-remember-allow-checkbox-camera-and-microphone = Se za wšykne kamery a mikrofony spomnjeś
 webrtc-mute-notifications-checkbox = Powěźeńki websedła pśi źělenju pódušyś
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } njamóžo trajny pśistup k wašej wobrazowce dopušćiś.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } njamóžo trajny pśistup k awdio wašogo rejtarika dowóliś mimo, aby se pšašał, kótary ma se źěliś.
