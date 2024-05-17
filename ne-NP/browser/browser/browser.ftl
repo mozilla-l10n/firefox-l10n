@@ -448,7 +448,7 @@ browser-tab-unblock =
     { $count ->
         [1] ट्याब प्ले गर्नुहोस्
         [one] { $count } ट्याब प्ले गर्नुहोस्
-       *[other] { "" }
+       *[other] { $count } ट्याब प्ले गर्नुहोस्
     }
 
 ## Bookmarks toolbar items
@@ -1003,7 +1003,7 @@ popup-warning-message =
 popup-warning-exceeded-message =
     { $popupCount ->
         [one] { -brand-short-name } ले यो साइटलाई { $popupCount } भन्दा बढी पप-अप विन्डोहरू खोल्नबाट रोकेको छ।
-       *[other] { "" }
+       *[other] { -brand-short-name } ले यो साइटलाई { $popupCount } भन्दा बढी पप-अप विन्डोहरू खोल्नबाट रोकेको छ।
     }
 popup-warning-button =
     .label =
