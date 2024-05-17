@@ -84,6 +84,8 @@ policy-Handlers = Standardne nałoženske předźěłaki konfigurować
 policy-HardwareAcceleration = Jeli njewěrno, hardwarowe pospěšenje znjemóžnić.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Startowu stronu nastajić a na přeće zawrěć.
+policy-HttpAllowlist = Pochady, kotrež njebudu so na HTTPS aktualizować.
+policy-HttpsOnlyMode = Zmóžnjenje modusa Jenož-HTTPS dowolić.
 policy-InstallAddonsPermission = Wěstym websydłam dowolić, přidatki instalować.
 policy-LegacyProfiles = Funkciju znjemóžnić, kotraž separatny profil za kóždu instalaciju wunuzuje
 
