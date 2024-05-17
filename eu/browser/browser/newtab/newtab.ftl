@@ -273,3 +273,25 @@ newtab-wallpaper-title = Horma-paperak
 newtab-wallpaper-reset = Berrezarri lehenespenera
 newtab-wallpaper-light-red-panda = Panda gorria
 newtab-wallpaper-dark-aurora = Aurora boreala
+
+## New Tab Weather
+
+newtab-weather-menu-change-location = Aldatu kokapena
+newtab-weather-change-location-search-input = Bilatu kokapena
+newtab-weather-menu-weather-display = Eguraldia bistaratzea
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Sinplea
+newtab-weather-menu-change-weather-display-simple = Aldatu ikuspegi sinplera
+newtab-weather-menu-weather-display-option-detailed = Xehatua
+newtab-weather-menu-change-weather-display-detailed = Aldatu ikuspegi xehatura
+newtab-weather-menu-temperature-units = Tenperatura-unitateak
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Aldatu Fahrenheit-era
+newtab-weather-menu-change-temperature-units-celsius = Aldatu Celsius-era
+newtab-weather-menu-hide-weather = Ezkutatu eguraldia fitxa berrian
+newtab-weather-menu-learn-more = Argibide gehiago
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Eguraldiari buruzko daturik ez dago erabilgarri orain.
