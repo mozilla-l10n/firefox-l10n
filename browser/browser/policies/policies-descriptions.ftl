@@ -85,6 +85,7 @@ policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Giriş sayfasını ayarla ve isteğe bağlı olarak kilitle.
 policy-HttpAllowlist = HTTPS’e yükseltilmeyecek kökenler.
+policy-HttpsOnlyMode = Yalnızca HTTPS modunun etkinleştirilmesine izin ver.
 policy-InstallAddonsPermission = Belirli web sitelerinin eklenti yüklemesine izin ver.
 policy-LegacyProfiles = Her kurulum için ayrı bir profil oluşturmayı zorunlu tutan özelliği devre dışı bırak
 

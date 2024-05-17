@@ -951,6 +951,12 @@ primary-password-os-auth-dialog-message-win = Ana parola oluşturmak için Windo
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ana parola oluşturma
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] ödeme yöntemi ayarlarını değiştirme
+       *[other] { -brand-short-name }, ödeme yöntemi ayarlarını değiştirmeye çalışıyor. Buna izin vermek için cihazınızdan giriş yapın.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -974,6 +980,9 @@ autofill-reauth-checkbox =
        *[other] Ödeme yöntemlerini doldurmak ve düzenlemek için kimlik doğrulaması iste.
     }
     .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Ödeme yöntemlerini doldurmak ve yönetmek için cihazdan giriş yapmayı zorunlu tut
+    .accesskey = Ö
 
 ## Privacy Section - History
 
