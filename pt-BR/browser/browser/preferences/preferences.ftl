@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = Uma seleção de sites e conteúdos rec
 home-prefs-snippets-header =
     .label = Snippets
 home-prefs-snippets-description-new = Dicas e novidades da { -vendor-short-name } e do { -brand-product-name }
+home-prefs-weather-header =
+    .label = Tempo
+home-prefs-weather-description = Visão geral da previsão para hoje
+home-prefs-weather-learn-more-link = Saiba mais
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
