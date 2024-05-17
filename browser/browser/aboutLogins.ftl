@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Para editar a conta, insira
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar a conta salva
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] alterar configurações de senhas
+       *[other] O { -brand-short-name } está tentando alterar configurações de senhas. Use a autenticação do dispositivo para permitir.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Para editar a senha, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
 # This message can be seen when attempting to edit a login in about:logins
