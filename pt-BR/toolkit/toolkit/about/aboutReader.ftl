@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Com serifa
 about-reader-font-type-sans-serif = Sem serifa
+about-reader-font-type-monospace = Monoespaçada
 
 ## Reader View toolbar buttons
 
@@ -99,6 +100,7 @@ about-reader-custom-colors-visited-links = Links visitados
 about-reader-custom-colors-selection-highlight = Destacador para ler em voz alta
     .title = Editar cor
 about-reader-custom-colors-reset-button = Restaurar padrão
+about-reader-reset-button = Restaurar padrão
 
 ## Reader View improved text and layout menu
 
