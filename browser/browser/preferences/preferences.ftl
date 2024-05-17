@@ -941,6 +941,7 @@ primary-password-os-auth-dialog-message-win = כדי ליצור ססמה ראש�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ליצור ססמה ראשית
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -963,6 +964,9 @@ autofill-reauth-checkbox =
        *[other] לדרוש אימות כדי למלא ולערוך אמצעי תשלום.
     }
     .accesskey = ל
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = לדרוש פרטי התחברות של המכשיר כדי למלא ולנהל אמצעי תשלום
+    .accesskey = ד
 
 ## Privacy Section - History
 
