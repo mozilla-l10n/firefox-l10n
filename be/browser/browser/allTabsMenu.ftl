@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Шукаць карткі
-
 all-tabs-menu-new-user-context =
     .label = Новая картка кантэйнера
-
 all-tabs-menu-hidden-tabs =
     .label = Схаваныя карткі
-
 all-tabs-menu-manage-user-context =
     .label = Кіраваць кантэйнерамі
     .accesskey = К
+all-tabs-menu-close-duplicate-tabs =
+    .label = Закрыць дублікаты картак
