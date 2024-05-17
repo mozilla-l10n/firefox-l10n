@@ -84,6 +84,8 @@ policy-Handlers = 設定預設應用程式處理方式。
 policy-HardwareAcceleration = 若為 false，就會關閉硬體加速。
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = 設定或鎖定首頁。
+policy-HttpAllowlist = 不升級為 HTTPS 連線的來源。
+policy-HttpsOnlyMode = 允許開啟僅 HTTPS 模式。
 policy-InstallAddonsPermission = 允許某些網站安裝附加元件。
 policy-LegacyProfiles = 停用「於每一套安裝使用不同設定檔」的功能。
 
