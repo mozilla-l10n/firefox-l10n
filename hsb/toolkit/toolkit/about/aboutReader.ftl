@@ -70,6 +70,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Monospace
 
 ## Reader View toolbar buttons
 
@@ -101,20 +102,28 @@ about-reader-custom-colors-visited-links = Wopytane wotkazy
 about-reader-custom-colors-selection-highlight = Tekstowy marker za wótře čitać
     .title = Barbu wobdźěłać
 about-reader-custom-colors-reset-button = Na standard wróćo stajić
+about-reader-reset-button = Na standard wróćo stajić
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Tekst
+about-reader-text-size-label = Tekstowa wulkosć
+about-reader-font-type-selector-label = Pismo
+about-reader-font-weight-selector-label = Pismowa waha
+about-reader-font-weight-light = Swětły
+about-reader-font-weight-regular = Normalny
+about-reader-font-weight-bold = Tučny
 about-reader-layout-header = Wuhotowanje
-about-reader-advanced-layout-header = Rozšěrjene
-about-reader-slider-label-width-narrow = Wuski
-about-reader-slider-label-width-wide = Šěroki
-about-reader-slider-label-spacing-narrow = Wuski
 about-reader-slider-label-spacing-standard = Standard
 about-reader-slider-label-spacing-wide = Šěroki
 about-reader-content-width-label =
     .label = Šěrokosć wobsaha
 about-reader-line-spacing-label =
     .label = Linkowy wotstup
+about-reader-advanced-layout-header = Rozšěrjene
+about-reader-slider-label-width-narrow = Wuski
+about-reader-slider-label-width-wide = Šěroki
+about-reader-slider-label-spacing-narrow = Wuski
 about-reader-character-spacing-label =
     .label = Znamješkowy wotstup
 about-reader-word-spacing-label =
