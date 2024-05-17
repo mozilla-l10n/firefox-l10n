@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = 搜尋分頁
-
 all-tabs-menu-new-user-context =
     .label = 新增容器分頁
-
 all-tabs-menu-hidden-tabs =
     .label = 隱藏分頁
-
 all-tabs-menu-manage-user-context =
     .label = 管理容器
     .accesskey = O
+all-tabs-menu-close-duplicate-tabs =
+    .label = 關閉重複的分頁

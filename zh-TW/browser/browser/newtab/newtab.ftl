@@ -268,6 +268,9 @@ newtab-custom-recent-subtitle = 近期造訪過的網站與內容精選
 newtab-custom-recent-toggle =
     .label = 近期動態
     .description = 近期造訪過的網站與內容精選
+newtab-custom-weather-toggle =
+    .label = 天氣
+    .description = 快速了解本日天氣
 newtab-custom-close-button = 關閉
 newtab-custom-settings = 管理更多設定
 
@@ -291,3 +294,32 @@ newtab-wallpaper-dark-city = 紫色城市風景
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = 相片由 <a data-l10n-name="name-link">{ $author_string }</a> 於 <a data-l10n-name="webpage-link">{ $webpage_string }</a> 提供
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = 到 { $provider } 檢視天氣預報
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ 贊助資訊
+newtab-weather-menu-change-location = 更改位置
+newtab-weather-change-location-search-input = 搜尋位置
+newtab-weather-menu-weather-display = 顯示天氣
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = 簡潔
+newtab-weather-menu-change-weather-display-simple = 切換為簡潔畫面
+newtab-weather-menu-weather-display-option-detailed = 詳細
+newtab-weather-menu-change-weather-display-detailed = 切換為詳細畫面
+newtab-weather-menu-temperature-units = 溫度單位
+newtab-weather-menu-temperature-option-fahrenheit = 華氏
+newtab-weather-menu-temperature-option-celsius = 攝氏
+newtab-weather-menu-change-temperature-units-fahrenheit = 切換為華氏溫度
+newtab-weather-menu-change-temperature-units-celsius = 切換為攝氏溫度
+newtab-weather-menu-hide-weather = 隱藏新分頁的天氣資訊
+newtab-weather-menu-learn-more = 更多資訊
+# This message is shown if user is working offline
+newtab-weather-error-not-available = 目前暫時無法提供天氣資訊。
