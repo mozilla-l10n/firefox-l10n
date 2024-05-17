@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Αναζήτηση καρτελών
-
 all-tabs-menu-new-user-context =
     .label = Νέα θεματική καρτέλα
-
 all-tabs-menu-hidden-tabs =
     .label = Κρυμμένες καρτέλες
-
 all-tabs-menu-manage-user-context =
     .label = Διαχείριση θεματικών ενοτήτων
     .accesskey = Θ
+all-tabs-menu-close-duplicate-tabs =
+    .label = Κλείσιμο διπλών καρτελών
