@@ -981,7 +981,7 @@ autofill-reauth-checkbox =
     }
     .accesskey = v
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Kräv enhetsinloggning för att fylla och hantera betalningsmetoder
+autofill-reauth-payment-methods-checkbox = Kräv enhetsinloggning för att fylla i och hantera betalningsmetoder
     .accesskey = K
 
 ## Privacy Section - History
