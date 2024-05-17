@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = שמירת הבחירה הזו
+webrtc-remember-allow-checkbox-camera = לזכור עבור כל המצלמות
+webrtc-remember-allow-checkbox-microphone = לזכור עבור כל המיקרופונים
+webrtc-remember-allow-checkbox-camera-and-microphone = לזכור עבור כל המצלמות והמיקרופונים
 webrtc-mute-notifications-checkbox = השתקת התרעות מאתרים בזמן שיתוף.
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } אינו יכול לאפשר גישה קבועה למסך שלך.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } אינו יכול לאפשר גישה קבועה לאודיו של לשונית מבלי לשאול איזו לשונית לשתף.

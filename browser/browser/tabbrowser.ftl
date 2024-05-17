@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = לשונית חדשה
 tabbrowser-empty-private-tab-title = לשונית פרטית חדשה
-
 tabbrowser-menuitem-close-tab =
     .label = סגירת לשונית
 tabbrowser-menuitem-close =
     .label = סגירה
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — ‏{ $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +111,17 @@ tabbrowser-confirm-caretbrowsing-title = דפדוף בעזרת סמן
 tabbrowser-confirm-caretbrowsing-message = לחיצה על F7 מפעילה או מכבה את הדפדוף בעזרת הסמן. תכונה זו ממקמת את הסמן בתוך דפים, ומאפשרת לך לסמן טקסט באמצעות המקלדת. האם ברצונך להפעיל את הדפדוף בעזרת הסמן?
 tabbrowser-confirm-caretbrowsing-checkbox = לא להציג תיבת דו־שיח זו שוב.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = לתשומת לבך
+tabbrowser-confirm-close-duplicate-tabs-text = אנחנו נשאיר את הלשונית הפעילה האחרונה פתוחה
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = לאפשר להתרעות כמו הנוכחית מ־{ $domain } לקחת אותך ללשונית שלהן
-
 tabbrowser-customizemode-tab-title = התאמה אישית של { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +140,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = ביטול השתקת לשוניות
     .accesskey = ש
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = מתנגן שמע
 
