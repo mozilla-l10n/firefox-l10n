@@ -70,6 +70,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Monospace
 
 ## Reader View toolbar buttons
 
@@ -101,20 +102,28 @@ about-reader-custom-colors-visited-links = Woglědane wótkaze
 about-reader-custom-colors-selection-highlight = Tekstowy marker za głosnje cytaś
     .title = Barwu wobźěłaś
 about-reader-custom-colors-reset-button = Na standard slědk stajiś
+about-reader-reset-button = Na standard slědk stajiś
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Tekst
+about-reader-text-size-label = Tekstowa wjelikosć
+about-reader-font-type-selector-label = Pismo
+about-reader-font-weight-selector-label = Pismowa waga
+about-reader-font-weight-light = Swětły
+about-reader-font-weight-regular = Normalny
+about-reader-font-weight-bold = Tucny
 about-reader-layout-header = Wugótowanje
-about-reader-advanced-layout-header = Rozšyrjone
-about-reader-slider-label-width-narrow = Wuski
-about-reader-slider-label-width-wide = Šyroki
-about-reader-slider-label-spacing-narrow = Wuski
 about-reader-slider-label-spacing-standard = Standard
 about-reader-slider-label-spacing-wide = Šyroki
 about-reader-content-width-label =
     .label = Šyrokosć wopśimjeśa
 about-reader-line-spacing-label =
     .label = Linijowy wótkłon
+about-reader-advanced-layout-header = Rozšyrjone
+about-reader-slider-label-width-narrow = Wuski
+about-reader-slider-label-width-wide = Šyroki
+about-reader-slider-label-spacing-narrow = Wuski
 about-reader-character-spacing-label =
     .label = Znamjenjowy wótkłon
 about-reader-word-spacing-label =
