@@ -84,6 +84,8 @@ policy-Handlers = Configurar controladores de aplicaciones predeterminados.
 policy-HardwareAcceleration = Si es falso, deshabilitar aceleración por hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Establecer y bloquear opcionalmente la página de inicio.
+policy-HttpAllowlist = Orígenes que no serán actualizados a HTTPS.
+policy-HttpsOnlyMode = Permitir que se habilite el modo HTTPS-Only.
 policy-InstallAddonsPermission = Permitir que ciertos sitios web instalen complementos.
 policy-LegacyProfiles = Deshabilitar la función que impone un perfil separado para cada instalación
 
