@@ -319,6 +319,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenhayt
 newtab-weather-menu-temperature-option-celsius = Celcius
 newtab-weather-menu-change-temperature-units-fahrenheit = Fahrenhayta geç
 newtab-weather-menu-change-temperature-units-celsius = Celsius’a geç
+newtab-weather-menu-hide-weather = Yeni sekmede hava durumunu gizle
 newtab-weather-menu-learn-more = Daha fazla bilgi al
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Hava durumu verileri şu anda mevcut değil.
