@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Pesquisar abas
-
 all-tabs-menu-new-user-context =
     .label = Nova aba contêiner
-
 all-tabs-menu-hidden-tabs =
     .label = Abas ocultas
-
 all-tabs-menu-manage-user-context =
     .label = Gerenciar contêineres
     .accesskey = O
+all-tabs-menu-close-duplicate-tabs =
+    .label = Fechar abas duplicadas
