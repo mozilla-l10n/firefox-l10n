@@ -317,3 +317,12 @@ newtab-weather-menu-weather-display-option-simple = Simple
 newtab-weather-menu-change-weather-display-simple = Cambiar a vista simple
 newtab-weather-menu-weather-display-option-detailed = Detallada
 newtab-weather-menu-change-weather-display-detailed = Cambiar a vista detallada
+newtab-weather-menu-temperature-units = Unidades de temperatura
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Cambiar a Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Cambiar a Celsius
+newtab-weather-menu-hide-weather = Ocultar clima en Nueva pestaña
+newtab-weather-menu-learn-more = Conocer más
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Los datos meteorológicos no están disponibles en este momento.
