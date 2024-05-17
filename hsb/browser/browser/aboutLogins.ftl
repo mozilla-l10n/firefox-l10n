@@ -179,6 +179,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Zapodajće swoje přizjewje
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = składowane přizjewjenje wobdźěłać
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] nastajenja za hesła změnić
+       *[other] { -brand-short-name } pospytuje, nastajenja za hesła změnić. Wužiwajće swoje gratowe přizjewjenje, zo byšće to dowolił.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće swoje hesło wobdźěłał. To wěstotu wašich kontow škita.
 # This message can be seen when attempting to edit a login in about:logins
@@ -273,14 +280,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [two] To přizjewjeni wotstroni, kotrejž sće w { -brand-short-name } na wšěch gratach składował a kotrejž stej z wašim kontom { -fxaccount-brand-name } synchronizowanej. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
         [few] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
        *[other] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] To přizjewjenje wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował, kotrež su z wašim kontom synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
-        [one] To přizjewjenje wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował, kotrež su z wašim kontom synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
-        [two] To přizjewjeni wotstroni, kotrejž sće w { -brand-short-name } na wšěch gratach składował, kotrež su z wašim kontom synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
-        [few] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował, kotrež su z wašim kontom synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
-       *[other] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował, kotrež su z wašim kontom synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
