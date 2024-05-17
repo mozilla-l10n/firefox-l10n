@@ -916,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Usar uma senha principal
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Requer confirmação de acesso ao dispositivo para preencher e gerenciar senhas
 forms-primary-pw-learn-more-link = Saiba mais
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -948,6 +951,7 @@ primary-password-os-auth-dialog-message-win = Para criar uma senha principal, in
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = criar uma senha principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -970,6 +974,9 @@ autofill-reauth-checkbox =
        *[other] Exigir autenticação para preencher e editar métodos de pagamento.
     }
     .accesskey = x
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Requer confirmação de acesso ao dispositivo para preencher e gerenciar métodos de pagamento
+    .accesskey = o
 
 ## Privacy Section - History
 
