@@ -69,6 +69,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = С засечками
 about-reader-font-type-sans-serif = Без засечек
+about-reader-font-type-monospace = Моноширинный
 
 ## Reader View toolbar buttons
 
@@ -100,20 +101,28 @@ about-reader-custom-colors-visited-links = Посещённые ссылки
 about-reader-custom-colors-selection-highlight = Подсветка для чтения вслух
     .title = Изменить цвет
 about-reader-custom-colors-reset-button = Восстановить по умолчанию
+about-reader-reset-button = Восстановить по умолчанию
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Текст
+about-reader-text-size-label = Размер текста
+about-reader-font-type-selector-label = Шрифт
+about-reader-font-weight-selector-label = Размер шрифта
+about-reader-font-weight-light = Светлый
+about-reader-font-weight-regular = Обычный
+about-reader-font-weight-bold = Полужирный
 about-reader-layout-header = Разбивка окна
-about-reader-advanced-layout-header = Дополнительно
-about-reader-slider-label-width-narrow = Узкая
-about-reader-slider-label-width-wide = Широкая
-about-reader-slider-label-spacing-narrow = Узкая
 about-reader-slider-label-spacing-standard = Стандартная
 about-reader-slider-label-spacing-wide = Широкая
 about-reader-content-width-label =
     .label = Ширина содержимого
 about-reader-line-spacing-label =
     .label = Межстрочный интервал
+about-reader-advanced-layout-header = Дополнительно
+about-reader-slider-label-width-narrow = Узкая
+about-reader-slider-label-width-wide = Широкая
+about-reader-slider-label-spacing-narrow = Узкая
 about-reader-character-spacing-label =
     .label = Межсимвольный интервал
 about-reader-word-spacing-label =

@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Новая вкладка
 tabbrowser-empty-private-tab-title = Новая приватная вкладка
-
 tabbrowser-menuitem-close-tab =
     .label = Закрыть вкладку
 tabbrowser-menuitem-close =
     .label = Закрыть
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -130,13 +127,17 @@ tabbrowser-confirm-caretbrowsing-title = Активный курсор
 tabbrowser-confirm-caretbrowsing-message = Нажатие клавиши F7 включает или выключает режим активного курсора. В этом режиме, поместив курсор на страницу, вы можете выделять текст с помощью клавиатуры. Включить этот режим?
 tabbrowser-confirm-caretbrowsing-checkbox = Больше не показывать это окно.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Внимание
+tabbrowser-confirm-close-duplicate-tabs-text = Мы будем держать открытой последнюю активную вкладку
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Разрешить таким уведомлениям от { $domain } переводить вас на их вкладку
-
 tabbrowser-customizemode-tab-title = Настройка { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -155,7 +156,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Включить звук вкладок
     .accesskey = в
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Воспроизведение звука
 
