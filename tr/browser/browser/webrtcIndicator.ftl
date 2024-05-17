@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Bu kararı hatırla
+webrtc-remember-allow-checkbox-camera = Tüm kameralar için hatırla
+webrtc-remember-allow-checkbox-microphone = Tüm mikrofonlar için hatırla
+webrtc-remember-allow-checkbox-camera-and-microphone = Tüm kameralar ve mikrofonlar için hatırla
 webrtc-mute-notifications-checkbox = Paylaşırken web sitesi bildirimlerini sessize al
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ekranınıza kalıcı erişim izni veremiyor.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } hangi sekmeyi paylacağınızı sormadan sekme sesine kalıcı erişim izni vermez.
