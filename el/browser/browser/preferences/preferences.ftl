@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = Μια συλλογή πρόσφατω�
 home-prefs-snippets-header =
     .label = Αποσπάσματα
 home-prefs-snippets-description-new = Συμβουλές και νέα από τη { -vendor-short-name } και το { -brand-product-name }
+home-prefs-weather-header =
+    .label = Καιρός
+home-prefs-weather-description = Σημερινή πρόγνωση με μια ματιά
+home-prefs-weather-learn-more-link = Μάθετε περισσότερα
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Χρήση κύριου κωδικού πρόσβασης
     .accesskey = Χ
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Απαίτηση σύνδεσης μέσω συσκευής για συμπλήρωση και διαχείριση κωδικών πρόσβασης
 forms-primary-pw-learn-more-link = Μάθετε περισσότερα
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -944,6 +951,13 @@ primary-password-os-auth-dialog-message-win = Για να δημιουργήσε
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = δημιουργήσει κύριο κωδικό πρόσβασης
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] αλλάξει τις ρυθμίσεις των μεθόδων πληρωμής
+       *[other] Το { -brand-short-name } προσπαθεί να αλλάξει τις ρυθμίσεις των μεθόδων πληρωμής. Χρησιμοποιήστε τη σύνδεση μέσω της συσκευής σας για να το επιτρέψετε.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -966,6 +980,9 @@ autofill-reauth-checkbox =
        *[other] Απαίτηση ελέγχου ταυτότητας για τη συμπλήρωση και την επεξεργασία των μεθόδων πληρωμής.
     }
     .accesskey = ο
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Απαίτηση σύνδεσης μέσω συσκευής για συμπλήρωση και διαχείριση μεθόδων πληρωμής
+    .accesskey = σ
 
 ## Privacy Section - History
 

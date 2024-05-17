@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Νέα καρτέλα
 tabbrowser-empty-private-tab-title = Νέα ιδιωτική καρτέλα
-
 tabbrowser-menuitem-close-tab =
     .label = Κλείσιμο καρτέλας
 tabbrowser-menuitem-close =
     .label = Κλείσιμο
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +111,17 @@ tabbrowser-confirm-caretbrowsing-title = Περιήγηση με κέρσορα
 tabbrowser-confirm-caretbrowsing-message = Πατώντας το F7 (απ)ενεργοποιείται η περιήγηση με κέρσορα. Αυτή η λειτουργία προβάλλει έναν κινούμενο κέρσορα στις ιστοσελίδες και σας επιτρέπει να επιλέγετε κείμενο με το πληκτρολόγιο. Θέλετε να ενεργοποιήσετε την περιήγηση με κέρσορα;
 tabbrowser-confirm-caretbrowsing-checkbox = Να μην εμφανιστεί αυτός ο διάλογος ξανά.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Προσοχή
+tabbrowser-confirm-close-duplicate-tabs-text = Θα παραμείνει ανοικτή η τελευταία ενεργή καρτέλα
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Να επιτρέπεται σε ειδοποιήσεις του { $domain } να σας μεταφέρουν στην καρτέλα τους
-
 tabbrowser-customizemode-tab-title = Προσαρμογή του { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +140,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Αναίρεση σίγασης καρτελών
     .accesskey = ν
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Αναπαραγωγή ήχου
 

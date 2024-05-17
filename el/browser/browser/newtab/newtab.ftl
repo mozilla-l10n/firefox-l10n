@@ -272,6 +272,9 @@ newtab-custom-recent-subtitle = Συλλογή πρόσφατων ιστοτόπ
 newtab-custom-recent-toggle =
     .label = Πρόσφατη δραστηριότητα
     .description = Συλλογή πρόσφατων ιστοτόπων και περιεχομένου
+newtab-custom-weather-toggle =
+    .label = Καιρός
+    .description = Σημερινή πρόγνωση με μια ματιά
 newtab-custom-close-button = Κλείσιμο
 newtab-custom-settings = Διαχείριση περισσότερων ρυθμίσεων
 
@@ -295,3 +298,32 @@ newtab-wallpaper-dark-city = Μωβ αστικό τοπίο
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Φωτογραφία από <a data-l10n-name="name-link">{ $author_string }</a> στο <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Προβολή πρόγνωσης στο { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Χορηγία
+newtab-weather-menu-change-location = Αλλαγή τοποθεσίας
+newtab-weather-change-location-search-input = Αναζήτηση τοποθεσίας
+newtab-weather-menu-weather-display = Προβολή καιρού
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Απλή
+newtab-weather-menu-change-weather-display-simple = Εναλλαγή σε απλή προβολή
+newtab-weather-menu-weather-display-option-detailed = Λεπτομερής
+newtab-weather-menu-change-weather-display-detailed = Εναλλαγή σε λεπτομερή προβολή
+newtab-weather-menu-temperature-units = Μονάδες θερμοκρασίας
+newtab-weather-menu-temperature-option-fahrenheit = Φαρενάιτ
+newtab-weather-menu-temperature-option-celsius = Κελσίου
+newtab-weather-menu-change-temperature-units-fahrenheit = Εναλλαγή σε Φαρενάιτ
+newtab-weather-menu-change-temperature-units-celsius = Εναλλαγή σε Κελσίου
+newtab-weather-menu-hide-weather = Απόκρυψη καιρού στη νέα καρτέλα
+newtab-weather-menu-learn-more = Μάθετε περισσότερα
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Τα δεδομένα καιρού δεν είναι διαθέσιμα αυτήν τη στιγμή.

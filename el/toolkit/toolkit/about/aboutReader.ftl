@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Σταθερού πλάτους
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,24 @@ about-reader-custom-colors-visited-links = Σύνδεσμοι που έχετε 
 about-reader-custom-colors-selection-highlight = Επισήμανση για εκφώνηση
     .title = Επεξεργασία χρώματος
 about-reader-custom-colors-reset-button = Επαναφορά προεπιλογών
+about-reader-reset-button = Επαναφορά προεπιλογών
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Κείμενο
+about-reader-text-size-label = Μέγεθος κειμένου
+about-reader-font-type-selector-label = Γραμματοσειρά
 about-reader-layout-header = Διάταξη
-about-reader-advanced-layout-header = Για προχωρημένους
-about-reader-slider-label-width-narrow = Στενό
-about-reader-slider-label-width-wide = Πλατύ
-about-reader-slider-label-spacing-narrow = Στενό
 about-reader-slider-label-spacing-standard = Τυπικό
 about-reader-slider-label-spacing-wide = Πλατύ
 about-reader-content-width-label =
     .label = Πλάτος περιεχομένου
 about-reader-line-spacing-label =
     .label = Διάστιχο
+about-reader-advanced-layout-header = Για προχωρημένους
+about-reader-slider-label-width-narrow = Στενό
+about-reader-slider-label-width-wide = Πλατύ
+about-reader-slider-label-spacing-narrow = Στενό
 about-reader-character-spacing-label =
     .label = Διάστιχο χαρακτήρων
 about-reader-word-spacing-label =

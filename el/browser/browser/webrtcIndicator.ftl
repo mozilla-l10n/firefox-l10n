@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Απομνημόνευση απόφασης
+webrtc-remember-allow-checkbox-camera = Απομνημόνευση για όλες τις κάμερες
+webrtc-remember-allow-checkbox-microphone = Απομνημόνευση για όλα τα μικρόφωνα
+webrtc-remember-allow-checkbox-camera-and-microphone = Απομνημόνευση για όλες τις κάμερες και τα μικρόφωνα
 webrtc-mute-notifications-checkbox = Σίγαση ειδοποιήσεων ιστοτόπου κατά την κοινή χρήση
 webrtc-reason-for-no-permanent-allow-screen = Το { -brand-short-name } δεν μπορεί να επιτρέψει μόνιμη πρόσβαση στην οθόνη σας.
 webrtc-reason-for-no-permanent-allow-audio = Το { -brand-short-name } δεν μπορεί να επιτρέψει μόνιμη πρόσβαση στον ήχο της καρτέλας σας χωρίς να ρωτήσει ποια καρτέλα θα διαμοιραστεί.
