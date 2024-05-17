@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Rechercher dans les onglets
-
 all-tabs-menu-new-user-context =
     .label = Nouvel onglet conteneur
-
 all-tabs-menu-hidden-tabs =
     .label = Onglets masqués
-
 all-tabs-menu-manage-user-context =
     .label = Gérer les conteneurs
     .accesskey = o
+all-tabs-menu-close-duplicate-tabs =
+    .label = Fermer les onglets en double

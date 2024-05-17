@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Sérif
 about-reader-font-type-sans-serif = Sans sérif
+about-reader-font-type-monospace = Largeur fixe
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,26 @@ about-reader-custom-colors-visited-links = Liens visités
 about-reader-custom-colors-selection-highlight = Surligneur pour la lecture à haute voix
     .title = Modifier la couleur
 about-reader-custom-colors-reset-button = Rétablir les valeurs par défaut
+about-reader-reset-button = Rétablir les valeurs par défaut
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Texte
+about-reader-text-size-label = Taille du texte
+about-reader-font-type-selector-label = Police de caractères
+about-reader-font-weight-regular = Normale
+about-reader-font-weight-bold = Gras
 about-reader-layout-header = Mise en page
-about-reader-advanced-layout-header = Avancé
-about-reader-slider-label-width-narrow = Fine
-about-reader-slider-label-width-wide = Large
-about-reader-slider-label-spacing-narrow = Fine
 about-reader-slider-label-spacing-standard = Standard
 about-reader-slider-label-spacing-wide = Large
 about-reader-content-width-label =
     .label = De la largeur du contenu
 about-reader-line-spacing-label =
     .label = Interligne
+about-reader-advanced-layout-header = Avancé
+about-reader-slider-label-width-narrow = Fine
+about-reader-slider-label-width-wide = Large
+about-reader-slider-label-spacing-narrow = Fine
 about-reader-character-spacing-label =
     .label = Espacement des caractères
 about-reader-word-spacing-label =

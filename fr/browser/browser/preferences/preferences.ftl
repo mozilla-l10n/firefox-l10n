@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = Une sélection de sites et de contenus 
 home-prefs-snippets-header =
     .label = Brèves
 home-prefs-snippets-description-new = Astuces et actualité de { -vendor-short-name } et { -brand-product-name }
+home-prefs-weather-header =
+    .label = Météo
+home-prefs-weather-description = Les prévisions du jour en un clin d’œil
+home-prefs-weather-learn-more-link = En savoir plus
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Utiliser un mot de passe principal
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Exiger la connexion à l’appareil pour renseigner et gérer les mots de passe
 forms-primary-pw-learn-more-link = En savoir plus
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -944,6 +951,7 @@ primary-password-os-auth-dialog-message-win = Pour créer un mot de passe princi
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = créer un mot de passe principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -966,6 +974,9 @@ autofill-reauth-checkbox =
        *[other] Exiger une authentification pour remplir ou modifier les moyens de paiement.
     }
     .accesskey = p
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Exiger la connexion à l’appareil pour renseigner et gérer les moyens de paiement
+    .accesskey = x
 
 ## Privacy Section - History
 
