@@ -84,6 +84,8 @@ policy-Handlers = Ρύθμιση παραμέτρων χειριστών προ�
 policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοποίηση επιτάχυνσης υλικού.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ορισμός και προαιρετικό κλείδωμα της αρχικής σελίδας.
+policy-HttpAllowlist = Προελεύσεις που δεν θα αναβαθμίζονται σε HTTPS.
+policy-HttpsOnlyMode = Να επιτρέπεται η ενεργοποίηση της λειτουργίας «Μόνο HTTPS».
 policy-InstallAddonsPermission = Αποδοχή εγκατάστασης προσθέτων από ορισμένους ιστοτόπους.
 policy-LegacyProfiles = Απενεργοποίηση της λειτουργίας που απαιτεί ξεχωριστό προφίλ για κάθε εγκατάσταση.
 
