@@ -226,6 +226,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Запомнить это решение
+webrtc-remember-allow-checkbox-camera = Запомнить для всех камер
+webrtc-remember-allow-checkbox-microphone = Запомнить для всех микрофонов
+webrtc-remember-allow-checkbox-camera-and-microphone = Запомнить для всех камер и микрофонов
 webrtc-mute-notifications-checkbox = Отключить уведомления веб-сайтов при предоставлении доступа
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не может предоставить постоянный доступ к вашему экрану.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не может предоставить постоянный доступ к звуку вашей вкладки без конкретного запроса.
