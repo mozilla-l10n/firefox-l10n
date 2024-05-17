@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Largor fixe
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,27 @@ about-reader-custom-colors-visited-links = Ligamines visitate
 about-reader-custom-colors-selection-highlight = Evidentiator pro leger in alte voce
     .title = Rediger color
 about-reader-custom-colors-reset-button = Restablir parametros predefinite
+about-reader-reset-button = Restablir parametros predefinite
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Texto
+about-reader-text-size-label = Dimension del texto
+about-reader-font-type-selector-label = Typo de character
+about-reader-font-weight-light = Clar
+about-reader-font-weight-regular = Regular
+about-reader-font-weight-bold = Hardite
 about-reader-layout-header = Disposition
-about-reader-advanced-layout-header = Avantiate
-about-reader-slider-label-width-narrow = Stricte
-about-reader-slider-label-width-wide = Large
-about-reader-slider-label-spacing-narrow = Stricte
 about-reader-slider-label-spacing-standard = Standard
 about-reader-slider-label-spacing-wide = Large
 about-reader-content-width-label =
     .label = Largessa de contento
 about-reader-line-spacing-label =
     .label = Interlinea
+about-reader-advanced-layout-header = Avantiate
+about-reader-slider-label-width-narrow = Stricte
+about-reader-slider-label-width-wide = Large
+about-reader-slider-label-spacing-narrow = Stricte
 about-reader-character-spacing-label =
     .label = Distantia inter characteres
 about-reader-word-spacing-label =
