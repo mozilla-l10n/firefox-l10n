@@ -1,19 +1,12 @@
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Accessi e chiavi
-
-# "Google Play" and "App Store" are both branding and should not be translated
-
 fxaccounts-sign-in-text = Vidi i to chiavi nna tutti i to dispusitivi
 fxaccounts-avatar-button =
-    .title = Gistisci cuntu
+    .title = Manija cuntu
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -30,6 +23,8 @@ about-logins-menu-menuitem-help = Ajutu
 
 login-list =
     .aria-label = Cridinziali currispunnenti â ricerca
+# Variables
+#   $count (number) - Number of logins
 login-list-count =
     { $count ->
         [one] { $count } cridinziali
@@ -80,13 +75,14 @@ login-item-cancel-button = Sfai
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+
 ## OS Authentication dialog
+
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-## Master Password notification
 
 ## Primary Password notification
 
@@ -94,20 +90,18 @@ master-password-reload-button =
     .label = Trasi
     .accesskey = T
 
-## Password Sync notification
-
 ## Dialogs
 
 confirmation-dialog-cancel-button = Sfai
 confirmation-dialog-dismiss-button =
     .title = Sfai
-
 about-logins-confirm-remove-dialog-title = Livari sta cridinziali?
 confirm-delete-dialog-message = St'azziuni nun si po sfari.
 about-logins-confirm-remove-dialog-confirm-button = Leva
 
 ## Variables
 ##   $count (number) - Number of items
+
 
 ##
 
@@ -121,6 +115,7 @@ breach-alert-text = Di l'ùrtima vota chi canciasti sta cridinziali, foru arrubb
 
 ## Vulnerable Password notification
 
+
 ## Error Messages
 
 # This is an error message that appears when a user attempts to save
@@ -128,26 +123,29 @@ breach-alert-text = Di l'ùrtima vota chi canciasti sta cridinziali, foru arrubb
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Cc'è già na cridinziali pi { $loginTitle } cu stu nomu utenti. <a data-l10n-name="duplicate-link">Vo' jiri â cridinziali prisenti?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Cci fu n'erruri pruvannu a sarbari sta chiavi.
 
-
 ## Login Export Dialog
 
+
 ## Login Import Dialog
+
 
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ##
 ## Variables:
 ##  $field (String) - The name of the field from the CSV file for example url, username or password
 
+
 ##
 ## Variables:
 ##  $count (number) - The number of affected elements
+
 
 ## Logins import report page
 
