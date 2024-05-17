@@ -266,6 +266,9 @@ newtab-custom-recent-subtitle = מבחר של אתרים ותכנים אחרונ
 newtab-custom-recent-toggle =
     .label = פעילות אחרונה
     .description = מבחר של אתרים ותכנים אחרונים
+newtab-custom-weather-toggle =
+    .label = מזג אוויר
+    .description = התחזית של היום
 newtab-custom-close-button = סגירה
 newtab-custom-settings = ניהול הגדרות נוספות
 
@@ -289,3 +292,32 @@ newtab-wallpaper-dark-city = נוף עירוני סגול
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = תמונה מאת <a data-l10n-name="name-link">{ $author_string }</a> ב־<a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = הצגת התחזית ב־{ $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = ‏{ $provider } ∙ ממומן
+newtab-weather-menu-change-location = שינוי מקום
+newtab-weather-change-location-search-input = חיפוש מקום
+newtab-weather-menu-weather-display = תצוגת מזג אוויר
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = פשוטה
+newtab-weather-menu-change-weather-display-simple = מעבר לתצוגה פשוטה
+newtab-weather-menu-weather-display-option-detailed = מפורטת
+newtab-weather-menu-change-weather-display-detailed = מעבר לתצוגה מפורטת
+newtab-weather-menu-temperature-units = יחידות טמפרטורה
+newtab-weather-menu-temperature-option-fahrenheit = פרנהייט
+newtab-weather-menu-temperature-option-celsius = צלזיוס
+newtab-weather-menu-change-temperature-units-fahrenheit = מעבר לפרנהייט
+newtab-weather-menu-change-temperature-units-celsius = מעבר לצלזיוס
+newtab-weather-menu-hide-weather = הסתרת מזג האוויר בלשונית החדשה
+newtab-weather-menu-learn-more = מידע נוסף
+# This message is shown if user is working offline
+newtab-weather-error-not-available = נתוני מזג האוויר אינם זמינים כעת.
