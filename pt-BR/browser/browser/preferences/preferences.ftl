@@ -918,7 +918,7 @@ forms-primary-pw-use =
     .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = Requer confirmação de acesso ao dispositivo para preencher e gerenciar senhas
+    .label = Requer autenticação do dispositivo para preencher e gerenciar senhas
 forms-primary-pw-learn-more-link = Saiba mais
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -951,6 +951,12 @@ primary-password-os-auth-dialog-message-win = Para criar uma senha principal, in
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = criar uma senha principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] alterar configurações de métodos de pagamento
+       *[other] O { -brand-short-name } está tentando alterar configurações de métodos de pagamento. Use a autenticação do dispositivo para permitir.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -975,7 +981,7 @@ autofill-reauth-checkbox =
     }
     .accesskey = x
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = Requer confirmação de acesso ao dispositivo para preencher e gerenciar métodos de pagamento
+autofill-reauth-payment-methods-checkbox = Requer autenticação do dispositivo para preencher e gerenciar métodos de pagamento
     .accesskey = o
 
 ## Privacy Section - History
