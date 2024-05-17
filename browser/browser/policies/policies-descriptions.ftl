@@ -84,6 +84,8 @@ policy-Handlers = Настраивает обработчики приложен
 policy-HardwareAcceleration = Отключает аппаратное ускорение, если установлена в false.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Устанавливает домашнюю страницу и, по желанию, блокирует её смену.
+policy-HttpAllowlist = Источники, которые не будут обновлены до HTTPS.
+policy-HttpsOnlyMode = Разрешает включить режим «Только HTTPS».
 policy-InstallAddonsPermission = Разрешает некоторым веб-сайтам устанавливать дополнения.
 policy-LegacyProfiles = Отключает функцию для принудительного создания отдельного профиля для каждой установки
 

@@ -602,6 +602,10 @@ home-prefs-recent-activity-description = Подборка недавних са�
 home-prefs-snippets-header =
     .label = Заметки
 home-prefs-snippets-description-new = Советы и новости от { -vendor-short-name } и { -brand-product-name }
+home-prefs-weather-header =
+    .label = Погода
+home-prefs-weather-description = Краткий прогноз на сегодня
+home-prefs-weather-learn-more-link = Подробнее
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -916,6 +920,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Использовать основной пароль
     .accesskey = с
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Требовать вход на устройстве для заполнения и управления паролями
 forms-primary-pw-learn-more-link = Подробнее
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -948,6 +955,13 @@ primary-password-os-auth-dialog-message-win = Чтобы создать осно
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = создать основной пароль
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] изменить настройки способов оплаты
+       *[other] { -brand-short-name } пытается изменить настройки способов оплаты. Используйте вход на устройстве, чтобы разрешить это.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -969,6 +983,9 @@ autofill-reauth-checkbox =
         [linux] Требовать аутентификацию Linux для заполнения и изменения способов оплаты.
        *[other] Требовать аутентификацию для заполнения и изменения способов оплаты.
     }
+    .accesskey = щ
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Требовать вход на устройстве для заполнения и управления способами оплаты
     .accesskey = щ
 
 ## Privacy Section - History

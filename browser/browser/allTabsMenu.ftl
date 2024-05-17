@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Поиск вкладок
-
 all-tabs-menu-new-user-context =
     .label = Новая вкладка в контейнере
-
 all-tabs-menu-hidden-tabs =
     .label = Скрытые вкладки
-
 all-tabs-menu-manage-user-context =
     .label = Управление контейнерами
     .accesskey = й
+all-tabs-menu-close-duplicate-tabs =
+    .label = Закрыть дублирующиеся вкладки
