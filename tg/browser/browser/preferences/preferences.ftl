@@ -915,6 +915,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Истифода кардани ниҳонвожаи асосӣ
     .accesskey = И
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Дархости ворид шудан дар дастгоҳ барои пур кардан ва идора намудани ниҳонвожаҳо
 forms-primary-pw-learn-more-link = Маълумоти бештар
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -947,6 +950,13 @@ primary-password-os-auth-dialog-message-win = Барои эҷод кардани
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ниҳонвожаи асосиро эҷод кунад
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] тағйир додани танзимоти тарзҳои пардохт
+       *[other] { -brand-short-name } кӯшиш мекунад, ки танзимоти тарзҳои пардохтро тағйир диҳад. Барои иҷозат додан ба ин амал, аз дастгоҳи худ ворид шавед.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -969,6 +979,9 @@ autofill-reauth-checkbox =
        *[other] Дархости санҷиши ҳаққоният барои пуркунӣ ва таҳриркунии тарзҳои пардохт.
     }
     .accesskey = х
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Дархости ворид шудан дар дастгоҳ барои пур кардан ва идора намудани тарзҳои пардохт
+    .accesskey = Д
 
 ## Privacy Section - History
 
