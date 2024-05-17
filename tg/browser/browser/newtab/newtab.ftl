@@ -316,3 +316,12 @@ newtab-weather-menu-weather-display-option-simple = Одӣ
 newtab-weather-menu-change-weather-display-simple = Гузариш ба намуди одӣ
 newtab-weather-menu-weather-display-option-detailed = Ботафсил
 newtab-weather-menu-change-weather-display-detailed = Гузариш ба намуди ботафсил
+newtab-weather-menu-temperature-units = Воҳидҳои ченаки ҳарорат
+newtab-weather-menu-temperature-option-fahrenheit = Фаренгейт
+newtab-weather-menu-temperature-option-celsius = Селсий
+newtab-weather-menu-change-temperature-units-fahrenheit = Гузариш ба Фаренгейт
+newtab-weather-menu-change-temperature-units-celsius = Гузариш ба Селсий
+newtab-weather-menu-hide-weather = Нинҳон кардани обу ҳаво дар варақаи нав
+newtab-weather-menu-learn-more = Маълумоти бештар
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Айни ҳол маълумот дар бораи обу ҳаво дастнорас аст.

@@ -598,6 +598,10 @@ home-prefs-recent-activity-description = Интихоби сомонаҳо ва 
 home-prefs-snippets-header =
     .label = Ёддоштҳо
 home-prefs-snippets-description-new = Маслиҳатҳо ва ахбор аз { -vendor-short-name } ва { -brand-product-name }
+home-prefs-weather-header =
+    .label = Обу ҳаво
+home-prefs-weather-description = Ҳолати обу ҳаво барои имрӯз
+home-prefs-weather-learn-more-link = Маълумоти бештар
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
