@@ -270,6 +270,9 @@ newtab-custom-recent-subtitle = Интихоби сомонаҳо ва муҳт�
 newtab-custom-recent-toggle =
     .label = Фаъолияти охирин
     .description = Интихоби сомонаҳо ва муҳтавои охирин
+newtab-custom-weather-toggle =
+    .label = Обу ҳаво
+    .description = Ҳолати обу ҳаво барои имрӯз
 newtab-custom-close-button = Пӯшидан
 newtab-custom-settings = Идоракунии танзимоти бештар
 
@@ -293,3 +296,23 @@ newtab-wallpaper-dark-city = Манзараи шаҳри лоҷувард
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Акс аз ҷониби <a data-l10n-name="name-link">{ $author_string }</a> дар <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Дидани обу ҳаво дар { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Реклама
+newtab-weather-menu-change-location = Иваз кардани макон
+newtab-weather-change-location-search-input = Ҷустуҷӯи макон
+newtab-weather-menu-weather-display = Намоиши обу ҳаво
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Одӣ
+newtab-weather-menu-change-weather-display-simple = Гузариш ба намуди одӣ
+newtab-weather-menu-weather-display-option-detailed = Ботафсил
+newtab-weather-menu-change-weather-display-detailed = Гузариш ба намуди ботафсил
