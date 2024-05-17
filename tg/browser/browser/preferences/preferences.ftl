@@ -954,7 +954,7 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 autofill-creditcard-os-dialog-message =
     { PLATFORM() ->
         [macos] тағйир додани танзимоти тарзҳои пардохт
-       *[other] { -brand-short-name } кӯшиш мекунад, ки танзимоти тарзҳои пардохтро тағйир диҳад. Барои иҷозат додан ба ин амал, аз дастгоҳи худ ворид шавед.
+       *[other] «{ -brand-short-name }» кӯшиш мекунад, ки танзимоти тарзҳои пардохтро тағйир диҳад. Барои иҷозат додан ба ин амал, аз дастгоҳи худ ворид шавед.
     }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
