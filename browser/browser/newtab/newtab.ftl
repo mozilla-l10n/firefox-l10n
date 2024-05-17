@@ -268,6 +268,9 @@ newtab-custom-recent-subtitle = Son kullanılan siteler ve içeriklerden bir se�
 newtab-custom-recent-toggle =
     .label = Son etkinlikler
     .description = Son kullanılan siteler ve içeriklerden bir seçki
+newtab-custom-weather-toggle =
+    .label = Hava durumu
+    .description = Bugünkü hava durumu tahmini
 newtab-custom-close-button = Kapat
 newtab-custom-settings = Diğer ayarları yönet
 
@@ -291,3 +294,31 @@ newtab-wallpaper-dark-city = Mor şehir manzarası
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotoğraf: <a data-l10n-name="name-link">{ $author_string }</a> / <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = { $provider } tahminlerine bak
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsorlu
+newtab-weather-menu-change-location = Konumu değiştir
+newtab-weather-change-location-search-input = Konum ara
+newtab-weather-menu-weather-display = Hava durumu göstergesi
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Basit
+newtab-weather-menu-change-weather-display-simple = Basit görünüme geç
+newtab-weather-menu-weather-display-option-detailed = Ayrıntılı
+newtab-weather-menu-change-weather-display-detailed = Ayrıntılı görünüme geç
+newtab-weather-menu-temperature-units = Sıcaklık birimi
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenhayt
+newtab-weather-menu-temperature-option-celsius = Celcius
+newtab-weather-menu-change-temperature-units-fahrenheit = Fahrenhayta geç
+newtab-weather-menu-change-temperature-units-celsius = Celsius’a geç
+newtab-weather-menu-learn-more = Daha fazla bilgi al
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Hava durumu verileri şu anda mevcut değil.

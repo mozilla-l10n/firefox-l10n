@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Sekmelerde ara
-
 all-tabs-menu-new-user-context =
     .label = Yeni kapsayıcı sekme
-
 all-tabs-menu-hidden-tabs =
     .label = Gizli sekmeler
-
 all-tabs-menu-manage-user-context =
     .label = Kapsayıcıları yönet
     .accesskey = K
+all-tabs-menu-close-duplicate-tabs =
+    .label = Yinelenen sekmeleri kapat
