@@ -4,14 +4,13 @@
 
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
-    .label = Hľadať
-
+    .label = Hľadať v kartách
 all-tabs-menu-new-user-context =
     .label = Nová kontajnerová karta
-
 all-tabs-menu-hidden-tabs =
     .label = Skryté karty
-
 all-tabs-menu-manage-user-context =
     .label = Spravovať kontajnery
     .accesskey = S
+all-tabs-menu-close-duplicate-tabs =
+    .label = Zavrieť duplicitné karty
