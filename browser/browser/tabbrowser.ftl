@@ -114,6 +114,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Осы сұхбат терезесі
 ## Confirmation dialog for closing all duplicate tabs
 
 tabbrowser-confirm-close-duplicate-tabs-title = Ескерту
+tabbrowser-confirm-close-duplicate-tabs-text = Біз соңғы белсенді бетті ашық ұстаймыз
 
 ##
 
