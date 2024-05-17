@@ -99,20 +99,28 @@ about-reader-custom-colors-visited-links = Ziyaret edilmiş bağlantılar
 about-reader-custom-colors-selection-highlight = Sesli okuma için vurgulayıcı
     .title = Rengi düzenle
 about-reader-custom-colors-reset-button = Varsayılanlara sıfırla
+about-reader-reset-button = Varsayılanlara sıfırla
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Metin
+about-reader-text-size-label = Metin boyutu
+about-reader-font-type-selector-label = Yazı tipi
+about-reader-font-weight-selector-label = Yazı tipi kalınlığı
+about-reader-font-weight-light = İnce
+about-reader-font-weight-regular = Normal
+about-reader-font-weight-bold = Kalın
 about-reader-layout-header = Yerleşim
-about-reader-advanced-layout-header = Gelişmiş
-about-reader-slider-label-width-narrow = Dar
-about-reader-slider-label-width-wide = Geniş
-about-reader-slider-label-spacing-narrow = Dar
 about-reader-slider-label-spacing-standard = Standart
 about-reader-slider-label-spacing-wide = Geniş
 about-reader-content-width-label =
     .label = İçerik genişliği
 about-reader-line-spacing-label =
     .label = Satır aralığı
+about-reader-advanced-layout-header = Gelişmiş
+about-reader-slider-label-width-narrow = Dar
+about-reader-slider-label-width-wide = Geniş
+about-reader-slider-label-spacing-narrow = Dar
 about-reader-character-spacing-label =
     .label = Karakter aralığı
 about-reader-word-spacing-label =
