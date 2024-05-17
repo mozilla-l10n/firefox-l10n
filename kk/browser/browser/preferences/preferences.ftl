@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = Жуырдағы сайттар мен 
 home-prefs-snippets-header =
     .label = Үзінділер
 home-prefs-snippets-description-new = { -vendor-short-name } және { -brand-product-name } кеңестері және жаңалықтары
+home-prefs-weather-header =
+    .label = Ауа райы
+home-prefs-weather-description = Бүгінгі қысқаша болжам
+home-prefs-weather-learn-more-link = Көбірек білу
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Басты парольді қолдану
     .accesskey = ы
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Парольдерді толтыру және басқару үшін құрылғыға кіруді талап ету
 forms-primary-pw-learn-more-link = Көбірек білу
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -944,6 +951,7 @@ primary-password-os-auth-dialog-message-win = Басты парольді жас
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = басты парольді жасау
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 

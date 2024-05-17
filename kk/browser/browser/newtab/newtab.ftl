@@ -322,3 +322,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Фаренгейт
 newtab-weather-menu-temperature-option-celsius = Цельсий
 newtab-weather-menu-change-temperature-units-fahrenheit = Фаренгейтке ауысу
 newtab-weather-menu-change-temperature-units-celsius = Цельсийге ауысу
+newtab-weather-menu-hide-weather = Жаңа бетте ауа райын жасыру
+newtab-weather-menu-learn-more = Көбірек білу
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Ауа-райы деректері қазір қолжетімді емес.
