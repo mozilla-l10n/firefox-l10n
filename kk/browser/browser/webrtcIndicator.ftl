@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Осы таңдауымды есте сақтау
+webrtc-remember-allow-checkbox-camera = Барлық камералар үшін есте сақтау
+webrtc-remember-allow-checkbox-microphone = Барлық микрофондар үшін есте сақтау
+webrtc-remember-allow-checkbox-camera-and-microphone = Барлық камералар мен микрофондар үшін есте сақтау
 webrtc-mute-notifications-checkbox = Бөлісу кезінде веб-сайт хабарламаларының дыбысын сөндіру
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } сізің экраныңызға тұрақты қатынауды рұқсат ете алмайды.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } бет аудиосына тұрақты қатынауды қай бетпен бөлісуді сұрамай рұқсат ете алмайды.

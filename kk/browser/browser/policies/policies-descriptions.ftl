@@ -84,6 +84,8 @@ policy-Handlers = Үнсіз келісім бойынша қолданба өң
 policy-HardwareAcceleration = Мәні false болса, құрылғылық үдетуді сөндіру.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Үй парағын орнату және қосымша түрде бұғаттау.
+policy-HttpAllowlist = HTTPS дейін жаңартылмайтын қайнар көздер.
+policy-HttpsOnlyMode = Тек-HTTPS режимін іске қосылуды рұқсат ету.
 policy-InstallAddonsPermission = Кейбір веб-сайттарға қосымшаларды орнатуды рұқсат ету.
 policy-LegacyProfiles = Әр орнату үшін бөлек профильді талап ететін мүмкіндікті сөндіру.
 
