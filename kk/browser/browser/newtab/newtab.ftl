@@ -271,6 +271,9 @@ newtab-custom-recent-subtitle = Жуырдағы сайттар мен құра�
 newtab-custom-recent-toggle =
     .label = Жуырдағы белсенділік
     .description = Жуырдағы сайттар мен құрама таңдауы
+newtab-custom-weather-toggle =
+    .label = Ауа райы
+    .description = Бүгінге қысқа болжам
 newtab-custom-close-button = Жабу
 newtab-custom-settings = Көбірек баптауларды басқару
 
@@ -294,3 +297,28 @@ newtab-wallpaper-dark-city = Күлгін қала пейзажы
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_string }</a> ішіндегі <a data-l10n-name="name-link">{ $author_string }</a>  ұсынған фото
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = { $provider } ішінде болжамды қарау
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Демеушілік
+newtab-weather-menu-change-location = Орналасуды ауыстыру
+newtab-weather-change-location-search-input = Орналасуды іздеу
+newtab-weather-menu-weather-display = Ауа райын көрсету
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Қарапайым
+newtab-weather-menu-change-weather-display-simple = Қарапайым көрінісіне ауысу
+newtab-weather-menu-weather-display-option-detailed = Толық ақпаратты
+newtab-weather-menu-change-weather-display-detailed = Толық ақпаратты көрінісіне ауысу
+newtab-weather-menu-temperature-units = Температураның өлшем бірліктері
+newtab-weather-menu-temperature-option-fahrenheit = Фаренгейт
+newtab-weather-menu-temperature-option-celsius = Цельсий
+newtab-weather-menu-change-temperature-units-fahrenheit = Фаренгейтке ауысу
+newtab-weather-menu-change-temperature-units-celsius = Цельсийге ауысу
