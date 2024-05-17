@@ -595,6 +595,7 @@ home-prefs-recent-activity-description = 近期访问的网站与内容精选
 home-prefs-snippets-header =
     .label = 只言片语
 home-prefs-snippets-description-new = 来自 { -vendor-short-name } 和 { -brand-product-name } 的使用窍门与快讯
+home-prefs-weather-learn-more-link = 详细了解
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
