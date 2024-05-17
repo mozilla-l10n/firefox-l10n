@@ -163,3 +163,4 @@ tabbrowser-manager-unmute-tab =
   .tooltiptext = Attiva audio nella scheda
 tabbrowser-manager-close-tab =
   .tooltiptext = Chiudi scheda
+

@@ -18,3 +18,4 @@ all-tabs-menu-manage-user-context =
 
 all-tabs-menu-close-duplicate-tabs =
   .label = Chiudi schede duplicate
+
