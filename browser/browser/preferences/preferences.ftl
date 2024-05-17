@@ -951,6 +951,13 @@ primary-password-os-auth-dialog-message-win = Para crear una contraseña maestra
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = crear una contraseña maestra
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] cambiar la configuración de métodos de pago
+       *[other] { -brand-short-name } está intentando cambiar la configuración de métodos de pago. Use el inicio de sesión del dispositivo para permitir esto.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -972,6 +979,9 @@ autofill-reauth-checkbox =
         [linux] Requerir autenticación de Linux para completar y editar métodos de pago.
        *[other] Requerir autenticación para completar y editar métodos de pago.
     }
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Requerir inicio de sesión en el dispositivo para completar y administrar métodos de pago
     .accesskey = o
 
 ## Privacy Section - History
