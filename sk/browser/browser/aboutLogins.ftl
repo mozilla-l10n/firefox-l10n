@@ -178,6 +178,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Ak chcete zobraziť svoje p
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = upraviť uložené prihlasovacie údaje
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] zmeniť nastavenie pre heslá.
+       *[other] { -brand-short-name } sa pokúša zmeniť nastavenie pre heslá. Ak to chcete povoliť, použite heslo k účtu na svojom zariadení.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Ak chcete upraviť svoje heslo, zadajte svoje prihlasovacie údaje k systému Windows. Toto opatrenie nám pomáha v zabezpečení vašich účtov.
 # This message can be seen when attempting to edit a login in about:logins
@@ -266,14 +273,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Týmto odstránite prihlásenia, ktoré ste uložili v prehliadači { -brand-short-name } na všetkých zariadeniach synchronizovaných pomocou { -fxaccount-brand-name(case: "gen", capitalization: "sentence") }. Takisto odstránite všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
         [few] Týmto odstránite prihlásenia, ktoré ste uložili v prehliadači { -brand-short-name } na všetkých zariadeniach synchronizovaných pomocou { -fxaccount-brand-name(case: "gen", capitalization: "sentence") }. Takisto odstránite všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
        *[other] Týmto odstránite prihlásenia, ktoré ste uložili v prehliadači { -brand-short-name } na všetkých zariadeniach synchronizovaných pomocou{ -fxaccount-brand-name(case: "gen", capitalization: "sentence") }. Takisto odstránite všetky upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Týmto odstránite prihlasovacie údaje, ktoré ste uložili do { -brand-short-name(case: "gen") } na všetkých zariadeniach synchronizovaných s vaším účtom. Týmto sa odstránia aj upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
-        [one] Týmto odstránite prihlasovacie údaje, ktoré ste uložili do { -brand-short-name(case: "gen") } na všetkých zariadeniach synchronizovaných s vaším účtom. Týmto sa odstránia aj upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
-        [few] Týmto odstránite všetky prihlasovacie údaje, ktoré ste uložili do { -brand-short-name(case: "gen") } na všetkých zariadeniach synchronizovaných s vaším účtom. Týmto sa odstránia aj upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
-        [many] Týmto odstránite všetky prihlasovacie údaje, ktoré ste uložili do { -brand-short-name(case: "gen") } na všetkých zariadeniach synchronizovaných s vaším účtom. Týmto sa odstránia aj upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
-       *[other] Týmto odstránite všetky prihlasovacie údaje, ktoré ste uložili do { -brand-short-name(case: "gen") } na všetkých zariadeniach synchronizovaných s vaším účtom. Týmto sa odstránia aj upozornenia na úniky, ktoré sa tu zobrazujú. Túto akciu nebudete môcť vrátiť späť.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =

@@ -269,6 +269,9 @@ newtab-custom-recent-subtitle = Výber z nedávno navštívených stránok a obs
 newtab-custom-recent-toggle =
     .label = Nedávna aktivita
     .description = Výber z nedávno navštívených stránok a obsahu
+newtab-custom-weather-toggle =
+    .label = Počasie
+    .description = Dnešná predpoveď v skratke
 newtab-custom-close-button = Zavrieť
 newtab-custom-settings = Ďalšie nastavenia
 
@@ -292,3 +295,32 @@ newtab-wallpaper-dark-city = Fialová mestská scenéria
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Autor fotografie: <a data-l10n-name="name-link">{ $author_string }</a>, zdroj: <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Pozrite si predpoveď od { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponzorované
+newtab-weather-menu-change-location = Zmeniť miesto
+newtab-weather-change-location-search-input = Hľadať miesto
+newtab-weather-menu-weather-display = Zobrazenie počasia
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Jednoduché
+newtab-weather-menu-change-weather-display-simple = Prepnúť na jednoduché zobrazenie
+newtab-weather-menu-weather-display-option-detailed = Podrobné
+newtab-weather-menu-change-weather-display-detailed = Prepnúť na podrobné zobrazenie
+newtab-weather-menu-temperature-units = Jednotky teploty
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celzius
+newtab-weather-menu-change-temperature-units-fahrenheit = Prepnúť na stupne Fahrenheita
+newtab-weather-menu-change-temperature-units-celsius = Prepnite na stupne Celzia
+newtab-weather-menu-hide-weather = Skryť počasie na novej karte
+newtab-weather-menu-learn-more = Ďalšie informácie
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Údaje o počasí nie sú momentálne k dispozícii.
