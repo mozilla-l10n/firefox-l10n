@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -36,11 +42,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } నిష్క్రమించు
-
 menu-about =
     .label = { -brand-shorter-name } గురించి
     .accesskey = A
@@ -110,6 +114,9 @@ menu-file-go-offline =
 menu-edit =
     .label = సవరణ
     .accesskey = E
+menu-edit-find-in-page =
+    .label = పేజీలో వెతుకు…
+    .accesskey = F
 menu-edit-find-again =
     .label = మళ్ళీ వెతుకు
     .accesskey = g
@@ -234,6 +241,9 @@ menu-tools =
 menu-tools-downloads =
     .label = దింపుకోళ్ళు
     .accesskey = D
+menu-tools-addons-and-themes =
+    .label = పొడగింతలు, అలంకారాలు
+    .accesskey = A
 menu-tools-sync-now =
     .label = ఇప్పుడు సింక్ చేయి
     .accesskey = S
