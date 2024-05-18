@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Remember this decision
+webrtc-remember-allow-checkbox-camera = Remember for all cameras
+webrtc-remember-allow-checkbox-microphone = Remember for all microphones
+webrtc-remember-allow-checkbox-camera-and-microphone = Remember for all cameras and microphones
 webrtc-mute-notifications-checkbox = Mute web site notifications while sharing
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } can not allow permanent access to your screen.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } can not allow permanent access to your tab’s audio without asking which tab to share.
