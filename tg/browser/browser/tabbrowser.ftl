@@ -114,6 +114,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ин равзанаи гуфтугӯ
 ## Confirmation dialog for closing all duplicate tabs
 
 tabbrowser-confirm-close-duplicate-tabs-title = Диққат
+tabbrowser-confirm-close-duplicate-tabs-text = Мо варақаи фаъоли охиринро кушода нигоҳ медорем
 
 ##
 

@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Барҷаста
 about-reader-font-type-sans-serif = Ғайрибарҷаста
+about-reader-font-type-monospace = Яклухт
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,28 @@ about-reader-custom-colors-visited-links = Пайвандҳои кушодашу
 about-reader-custom-colors-selection-highlight = Нишондиҳанда барои хондани матн бо овози баланд
     .title = Таҳрир кардани ранг
 about-reader-custom-colors-reset-button = Барқарорсозӣ ба ҳолатҳои пешфарз
+about-reader-reset-button = Барқарорсозӣ ба ҳолатҳои пешфарз
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Матн
+about-reader-text-size-label = Андозаи матн
+about-reader-font-type-selector-label = Шрифт
+about-reader-font-weight-selector-label = Миқёси шрифт
+about-reader-font-weight-light = Равшан
+about-reader-font-weight-regular = Мунтазам
+about-reader-font-weight-bold = Ғафс
 about-reader-layout-header = Тарҳрезӣ
-about-reader-advanced-layout-header = Иловагӣ
-about-reader-slider-label-width-narrow = Танг
-about-reader-slider-label-width-wide = Васеъ
-about-reader-slider-label-spacing-narrow = Танг
 about-reader-slider-label-spacing-standard = Стандартӣ
 about-reader-slider-label-spacing-wide = Васеъ
 about-reader-content-width-label =
     .label = Васеии муҳтаво
 about-reader-line-spacing-label =
     .label = Фосила байни сатрҳо
+about-reader-advanced-layout-header = Иловагӣ
+about-reader-slider-label-width-narrow = Танг
+about-reader-slider-label-width-wide = Васеъ
+about-reader-slider-label-spacing-narrow = Танг
 about-reader-character-spacing-label =
     .label = Фосилаи байни ҳарфҳо
 about-reader-word-spacing-label =

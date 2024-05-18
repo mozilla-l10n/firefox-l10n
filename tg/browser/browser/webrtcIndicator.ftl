@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Ин қарорро дар хотир доред
+webrtc-remember-allow-checkbox-camera = Барои ҳамаи камераҳо дар хотир дошта шавад
+webrtc-remember-allow-checkbox-microphone = Барои ҳамаи микрофонҳо дар хотир дошта шавад
+webrtc-remember-allow-checkbox-camera-and-microphone = Барои ҳамаи камераҳо ва микрофонҳо дар хотир дошта шавад
 webrtc-mute-notifications-checkbox = Бесадо кардани огоҳиҳои сомона ҳангоми мубодила
 webrtc-reason-for-no-permanent-allow-screen = «{ -brand-short-name }» наметавонад, ки дастрасии доимиро ба экрани шумо иҷозат диҳад.
 webrtc-reason-for-no-permanent-allow-audio = «{ -brand-short-name }» наметавонад бе дархости он, ки кадом варақа мубодила карда мешавад, дастрасии доимиро ба аудиои варақаи шумо иҷозат диҳад.
