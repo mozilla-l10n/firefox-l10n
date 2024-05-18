@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Nueva pestaña
 tabbrowser-empty-private-tab-title = Nueva pestaña privada
-
 tabbrowser-menuitem-close-tab =
     .label = Cerrar pestaña
 tabbrowser-menuitem-close =
     .label = Cerrar
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +111,17 @@ tabbrowser-confirm-caretbrowsing-title = Navegación con cursor
 tabbrowser-confirm-caretbrowsing-message = Presionando F7 se habilita o deshabilita la navegación con cursor. Esta característica coloca un cursor móvil en las páginas web, permitiendo seleccionar texto con el teclado. ¿Deseas habilitar la navegación con cursor?
 tabbrowser-confirm-caretbrowsing-checkbox = No volver a mostrar esta ventana de diálogo.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Atención
+tabbrowser-confirm-close-duplicate-tabs-text = Mantendremos abierta la última pestaña activa.
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permitir que notificaciones como esta de { $domain } te lleven a su pestaña
-
 tabbrowser-customizemode-tab-title = Personalizar { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +140,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Devolver audio a las pestañas
     .accesskey = m
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Reproducción de audio
 
