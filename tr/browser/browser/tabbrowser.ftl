@@ -122,6 +122,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Bu iletişim kutusunu bir daha göst
 ## Confirmation dialog for closing all duplicate tabs
 
 tabbrowser-confirm-close-duplicate-tabs-title = Dikkat
+tabbrowser-confirm-close-duplicate-tabs-text = Son aktif sekmeyi açık tutacağız
 
 ##
 
