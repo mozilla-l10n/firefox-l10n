@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = 향상된 추적 방지에 대한 추가 정보
 protections-panel-etp-on-header = 이 사이트에 향상된 추적 방지 켜짐
 protections-panel-etp-off-header = 이 사이트에 향상된 추적 방지 꺼짐
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = 사이트가 작동하지 않습니까?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = 사이트가 작동하지 않습니까?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = 향상된 추적 방지
     .description = 이 사이트에 꺼짐
     .aria-label = 향상된 추적 방지: { $host }에 꺼짐
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = 사이트가 작동하지 않습니까?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = 사이트가 작동하지 않습니까?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -108,7 +108,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = 깨진 사이트 신고
 protections-panel-content-blocking-breakage-report-view-description = 특정 추적기를 차단하면 일부 웹 사이트에서 문제가 발생할 수 있습니다. 이러한 문제를 보고하면 모든 사람에게 더 나은 { -brand-short-name }를 제공하는데 도움이 됩니다. 이 보고서를 보내면 URL과 브라우저 설정에 대한 정보가 Mozilla로 전송됩니다. <label data-l10n-name="learn-more">더 알아보기</label>
-protections-panel-content-blocking-breakage-report-view-description2 = 특정 추적기를 차단하면 일부 웹 사이트에서 문제가 발생할 수 있습니다. 이러한 문제를 보고하면 모든 사람에게 더 나은 { -brand-short-name }를 제공하는데 도움이 됩니다. 이 보고서를 보내면 URL과 브라우저 설정에 대한 정보가 { -vendor-short-name }로 전송됩니다.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -124,8 +123,8 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 protections-panel-cookie-banner-handling-header = 쿠키 배너 감소
 protections-panel-cookie-banner-blocker-header = 쿠키 배너 차단기
-protections-panel-cookie-banner-handling-enabled = 이 사이트에서 켜짐
-protections-panel-cookie-banner-handling-disabled = 이 사이트에서 꺼짐
+protections-panel-cookie-banner-handling-enabled = 이 사이트에 켜짐
+protections-panel-cookie-banner-handling-disabled = 이 사이트에 꺼짐
 protections-panel-cookie-banner-handling-undetected = 현재 지원되지 않는 사이트
 protections-panel-cookie-banner-view-title =
     .title = 쿠키 배너 감소
