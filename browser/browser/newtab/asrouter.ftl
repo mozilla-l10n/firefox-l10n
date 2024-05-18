@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = సిఫార్సు చేసిన సౌ
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ఇది నేను ఎందుకు చూస్తున్నాను
-
 cfr-doorhanger-extension-cancel-button = ఇప్పుడు వద్దు
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = ఇప్పుడే చేర్చు
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = సిఫారసు అమరికలను నిర్వహించండి
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = ఈ సిఫార్సును నాకు చూపించవద్దు
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = ఇంకా తెలుసుకోండి
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } నుండి
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = సిఫార్సు
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = సిఫార్సు
     .tooltiptext = పొడగింత సిఫార్సు
     .a11y-announcement = పొడగింత సిఫార్సు అందుబాటులో ఉంది
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = సిఫార్సు
     .tooltiptext = సౌలభ్యపు సిఫార్సు
     .a11y-announcement = సౌలభ్యపు సిఫార్సు అందుబాటులో ఉంది
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = ఇంకా తెలుసుకోండి
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = కొత్త విశేషం:
-
 cfr-whatsnew-button =
     .label = కొత్తవి ఏమిటి
     .tooltiptext = కొత్తవి ఏమిటి
-
 cfr-whatsnew-release-notes-link-text = విడుదల గమనికలను చదవండి
 
 ## Enhanced Tracking Protection Milestones
@@ -107,14 +99,10 @@ cfr-doorhanger-doh-primary-button-2 = సరే
 cfr-doorhanger-doh-secondary-button = అచేతనించు
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-primary-button = ఇప్పుడే తాజాకరించు
     .accesskey = U
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -124,8 +112,6 @@ cfr-doorhanger-video-support-primary-button = ఇప్పుడే తాజా
 
 spotlight-public-wifi-vpn-link = ఇప్పుడు కాదు
     .accesskey = N
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -164,13 +150,38 @@ firefoxview-spotlight-promo-secondarybutton = దాటవేయి
 
 ## Colorways expiry reminder CFR
 
+
 ## Cookie Banner Handling CFR
+
+cfr-cbh-dismiss-button = ఇప్పుడు కాదు
+    .accesskey = N
+cookie-banner-blocker-onboarding-learn-more = ఇంకా తెలుసుకోండి
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
 
 ## FxA sync CFR
 
+fxa-sync-cfr-primary = ఇంకా తెలుసుకోండి
+    .accesskey = L
+fxa-sync-cfr-secondary = నాకు తర్వాత గుర్తుచేయి
+    .accesskey = R
+
 ## Device Migration FxA Spotlight
+
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Tail Fox Set Default Spotlight
 

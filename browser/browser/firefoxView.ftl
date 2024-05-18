@@ -71,10 +71,24 @@ firefoxview-synced-tabs-header = ఇతర పరికరాల నుండి
 firefoxview-view-all-link = అన్నిటినీ చూడండి
 firefoxview-show-more = ఇంకా చూపించు
 firefoxview-show-less = కొన్నే చూపించు
+firefoxview-show-all = అన్నీ చూపించు
+firefoxview-search-text-box-clear-button =
+    .title = తుడిచివేయి
+# Placeholder for the input field to search in recent browsing ("search" is a verb).
+firefoxview-search-text-box-recentbrowsing =
+    .placeholder = వెతకండి
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = చరిత్రలో వెతకండి
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = ఇటీవల మూసిన ట్యాబులలో వెతకండి
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = ఈరోజు - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = నిన్న - { DATETIME($date, dateStyle: "full") }
 # When history is sorted by site, this heading is used in place of a domain, in
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
@@ -106,8 +120,15 @@ firefoxview-import-history-close-button =
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 
-##
-
-
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
 

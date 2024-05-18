@@ -35,6 +35,11 @@ migration-imported-edge-reading-list = చదవాల్సిన జాబి�
 
 ##
 
+migration-bookmarks-option-label = ఇష్టాంశాలు
+migration-history-option-label = విహరణ చరిత్ర
+migration-extensions-option-label = పొడగింతలు
+migration-payment-methods-option-label = చెల్లింపు పద్ధతులు
+migration-cookies-option-label = కుకీలు
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -49,6 +54,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV పత్రం
        *[other] TSV దస్త్రం
     }
+migration-bookmarks-from-file = ఇష్టాంశాలు
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -59,6 +65,7 @@ migration-passwords-from-file-tsv-filter-title =
 
 ##
 
+migration-safari-password-import-skip-button = దాటవేయి
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible

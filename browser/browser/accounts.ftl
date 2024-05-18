@@ -44,6 +44,9 @@ account-send-tab-to-device-verify = మీ ఖాతాను ధృవీకర
 
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
 account-connection-title-2 = ఖాతా
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = ఈ కంప్యూటరు ఇప్పుడు ఒక కొత్త పరికరంతో అనుసంధానమయ్యింది.
