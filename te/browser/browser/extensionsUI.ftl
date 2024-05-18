@@ -20,3 +20,6 @@ webext-default-search-no =
 webext-quarantine-confirmation-allow =
     .label = అనుమతించు
     .accesskey = A
+webext-quarantine-confirmation-deny =
+    .label = అనుమతించ వద్దు
+    .accesskey = D

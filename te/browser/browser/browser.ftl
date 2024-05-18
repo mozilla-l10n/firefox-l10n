@@ -452,6 +452,9 @@ urlbar-result-action-copy-to-clipboard = కాపీచేయి
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## Strings used for buttons in the urlbar
+
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -664,6 +667,11 @@ popups-infobar-dont-show-message =
 
 # Navigator Toolbox
 
+# This string is a spoken label that should not include
+# the word "toolbar" or such, because screen readers already know that
+# this container is a toolbar. This avoids double-speaking.
+navbar-accessible =
+    .aria-label = మార్గదర్శకం
 navbar-downloads =
     .label = దింపుకోళ్ళు
 navbar-overflow =
@@ -696,6 +704,9 @@ tabs-toolbar-list-all-tabs =
 
 restore-session-startup-suggestion-button = ఎలానో నాకు చూపించు
 
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } స్వయంచాలకంగా కొంత డాటాను { -vendor-short-name } కు పంపును అలా మేము మీ అనుభూతిని మెరుగుపరచగలము.
@@ -718,6 +729,9 @@ private-browsing-indicator-label = అంతరంగిక విహారణ
 
 ## Private browsing reset button
 
+reset-pbm-panel-cancel-button =
+    .label = రద్దుచేయి
+    .accesskey = C
 
 ## Autorefresh blocker
 
