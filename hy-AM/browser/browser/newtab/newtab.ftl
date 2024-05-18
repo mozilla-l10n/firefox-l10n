@@ -178,7 +178,7 @@ newtab-section-menu-expand-section = Ընդարձակել բաժինը
 newtab-section-menu-manage-section = Կառավարել բաժինը
 newtab-section-menu-manage-webext = Կառավարել ընդլայնումը
 newtab-section-menu-add-topsite = Ավելացնել Լավագույն կայքերին
-newtab-section-menu-add-search-engine = Ավելացնել Որոնիչին
+newtab-section-menu-add-search-engine = Ավելացնել որոնիչ
 newtab-section-menu-move-up = Վեր
 newtab-section-menu-move-down = Վար
 newtab-section-menu-privacy-notice = Գաղտնիության դրույթներ
@@ -265,3 +265,13 @@ newtab-custom-settings = Կառավարել լրացուցիչ կարգավոր�
 
 newtab-wallpaper-title = Պաստառներ
 newtab-wallpaper-reset = Վերակայել սկզբնադիրը
+
+## New Tab Weather
+
+newtab-weather-menu-change-location = Փոխել գտնվելու վայրը
+newtab-weather-change-location-search-input = Որոնել գտնվելու վայրը
+newtab-weather-menu-weather-display = Եղանակի ցուցադրում
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Պարզ
