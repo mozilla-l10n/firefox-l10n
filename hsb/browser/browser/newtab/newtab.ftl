@@ -317,9 +317,9 @@ newtab-weather-menu-weather-display = Wjedrowe pokazanje
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = Jednore
-newtab-weather-menu-change-weather-display-simple = K jednoremu napohladej přeńć
+newtab-weather-menu-change-weather-display-simple = Jednory napohlad wužiwać
 newtab-weather-menu-weather-display-option-detailed = Detailne
-newtab-weather-menu-change-weather-display-detailed = K detailnemu napohladej přeńć
+newtab-weather-menu-change-weather-display-detailed = Detailny napohlad wužiwać
 newtab-weather-menu-temperature-units = Temperaturne jednotki
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
