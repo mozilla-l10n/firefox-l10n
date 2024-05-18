@@ -94,8 +94,24 @@ about-webauthn-auth-option-null = Ikkje støtta
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-vendor-prototype-config-commands = Leverandørprototypekonfigurasjonskommandoar
+about-webauthn-auth-info-remaining-discoverable-credentials = Attståande oppdagbar innloggingsinformasjon
 about-webauthn-auth-info-certifications = Sertifiseringar
+about-webauthn-auth-info-uv-modality = Modalitet for brukarstadfesting
+about-webauthn-auth-info-preferred-platform-uv-attempts = Føretrekt plattform for forsøk på brukargodkjenning
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Maks Relying Party ID-er for å velje minimum PIN-lengde
+about-webauthn-auth-info-max-cred-blob-length = Maks lengde på innloggingsdetaljar-blobb
 about-webauthn-auth-info-firmware-version = Fastvareversjon
+about-webauthn-auth-info-min-pin-length = Minste PIN-kodelengde
+about-webauthn-auth-info-force-pin-change = Tving PIN-kodeendring
+about-webauthn-auth-info-max-ser-large-blob-array = Maksimal storleik på stor blobb-array
+about-webauthn-auth-info-algorithms = Algoritmar
+about-webauthn-auth-info-transports = Transportar
+about-webauthn-auth-info-max-credential-id-length = Maks lengde på innloggingsdetaljar-ID
+about-webauthn-auth-info-max-credential-count-in-list = Maks antal innloggingsdetaljar i lista
+about-webauthn-auth-info-pin-protocols = PIN-kodeprotokollar
+about-webauthn-auth-info-max-msg-size = Maks meldingsstorleik
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Utvidingar
 about-webauthn-auth-info-versions = Versjonar
 # Shows when boolean value for an info field is True. True should not be translated.
