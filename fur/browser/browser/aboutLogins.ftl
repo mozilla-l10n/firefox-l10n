@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Par modificâ la tô creden
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modificâ lis credenziâls salvadis
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] cambiâ lis impostazions pes passwords
+       *[other] { -brand-short-name } al sta cirint di modificâ lis impostazions pes passwords. Par permeti cheste operazion, conferme l’acès al dispositîf.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Par modificâ la password, inserìs lis credenziâls di acès a Windows. Chest al jude a garantî la sigurece dai tiei accounts.
 # This message can be seen when attempting to edit a login in about:logins
@@ -253,12 +260,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Chest al gjavarà la credenziâl salvade su { -brand-short-name } su ducj i dispositîfs sincronizâts cul to { -fxaccount-brand-name }. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
         [one] Chest al gjavarà la credenziâl salvade su { -brand-short-name } su ducj i dispositîfs sincronizâts cul to { -fxaccount-brand-name }. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
        *[other] Chest al gjavarà dutis lis credenziâls salvadis su { -brand-short-name } su ducj i dispositîfs sincronizâts cul to { -fxaccount-brand-name }. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Cheste operazion e gjavarà la credenziâl salvade su { -brand-short-name } su ducj i dispositîfs sincronizâts cul to account. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
-        [one] Cheste operazion e gjavarà la credenziâl salvade su { -brand-short-name } su ducj i dispositîfs sincronizâts cul to account. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
-       *[other] Cheste operazion e gjavarà dutis lis credenziâls salvadis su { -brand-short-name } su ducj i dispositîfs sincronizâts cul to account. Chest al gjavarà ancje i avîs di violazion. No tu podarâs tornâ indaûr di cheste azion.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
