@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] Vis { $count } uverksame fane
         }
     .tooltiptext = Vis dei uverksame fanene på denne eininga
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Inaktive faner
+    .tooltiptext = Sjå inaktive faner på denne eininga
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ingen opne faner
 # This is shown when Sync is configured but syncing tabs is disabled.
