@@ -84,6 +84,8 @@ policy-Handlers = Configure i gjestôrs di aplicazion predefinîts.
 policy-HardwareAcceleration = Se false (fals), distude la acelerazion vie hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Stabilìs e, in maniere opzionâl, bloche la pagjine iniziâl.
+policy-HttpAllowlist = Origjins che no saran inzornadis a HTTPS.
+policy-HttpsOnlyMode = Permet la ativazion de modalitât Dome-HTTPS.
 policy-InstallAddonsPermission = Permet a cierts sîts web di instalâ components adizionâi.
 policy-LegacyProfiles = Disative la funzion par sfuarçâ un profîl separât par ogni instalazion.
 

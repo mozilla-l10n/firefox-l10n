@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = Une selezion di sîts e contignûts res
 home-prefs-snippets-header =
     .label = Piçulis notis
 home-prefs-snippets-description-new = Sugjeriments e novitâts di { -vendor-short-name } e { -brand-product-name }
+home-prefs-weather-header =
+    .label = Meteo
+home-prefs-weather-description = Previsions par vuê cuntune voglade
+home-prefs-weather-learn-more-link = Plui informazions
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Dopre une password primarie
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Domande la conferme dal acès al dispositîf par compilâ in automatic e gjestî lis passwords
 forms-primary-pw-learn-more-link = Plui informazions
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -944,6 +951,13 @@ primary-password-os-auth-dialog-message-win = Par creâ une password primarie, i
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = creâ une password primarie
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] cambiâ lis impostazions pai metodis di paiament
+       *[other] { -brand-short-name } al sta cirint di modificâ lis impostazions pai metodis di paiament. Par permeti la operazion, conferme l’acès al dispositîf.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -965,6 +979,9 @@ autofill-reauth-checkbox =
         [linux] Domande la autenticazion di Linux par compilâ e modificâ metodis di paiament.
        *[other] Domande la autenticazion par compilâ e modificâ metodis di paiament.
     }
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Domande la conferme dal acès al dispositîf par compilâ in automatic e gjestî i metodis di paiament
     .accesskey = o
 
 ## Privacy Section - History
