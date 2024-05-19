@@ -710,6 +710,10 @@ home-prefs-snippets-description-new =
         [with-cases] Tipy a novinky od { -vendor-short-name(case: "gen") } a aplikace { -brand-product-name }
        *[no-cases] Tipy a novinky od organizace { -vendor-short-name } a aplikace { -brand-product-name }
     }
+home-prefs-weather-header =
+    .label = Počasí
+home-prefs-weather-description = Přehled dnešní předpovědi
+home-prefs-weather-learn-more-link = Zjistit více
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
