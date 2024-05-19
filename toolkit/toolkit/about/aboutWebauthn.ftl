@@ -13,16 +13,22 @@ about-webauthn-page-title = Om WebAuthn
 
 about-webauthn-info-section-title = Einingsinfo
 about-webauthn-info-subsection-title = Autentiseringsinformasjon
+about-webauthn-options-subsection-title = Autentiseringsalternativ
 about-webauthn-pin-section-title = PIN-kodebehandsaming
 about-webauthn-credential-management-section-title = Handsam innloggingsdetaljar
 about-webauthn-pin-required-section-title = PIN er påkravd
 about-webauthn-confirm-deletion-section-title = Stadfest sletting
+# Registered biometric features for authentication. Mostly, but not exclusively, fingerprints.
+about-webauthn-bio-enrollment-section-title = Biometriske registreringar
 
 ## Info field texts
 
 about-webauthn-text-connect-device = Kople til eit sikkerheits-token
 # If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
 about-webauthn-text-select-device = Vel ønskt sikkerheits-token ved å trykkje på eininga.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Kan ikkje behandle alternativa fordi sikkerheits-tokenet ditt ikkje støttar CTAP2.
+about-webauthn-text-not-available = Ikkje tilgjengeleg på denne plattforma.
 about-webauthn-bio-enrollment-list-subsection-title = Registreringar
 about-webauthn-add-bio-enrollment-section-title = Legg til ny registrering
 
@@ -30,6 +36,10 @@ about-webauthn-add-bio-enrollment-section-title = Legg til ny registrering
 
 about-webauthn-results-success = Vellykka!
 about-webauthn-results-general-error = Feil!
+about-webauthn-results-pin-blocked-error = Feil: Det er ingen forsøk igjen, og eininga di har blitt låst, fordi feil PIN-kode vart oppgitt for mange gongar. Eininga må tilbakestillast.
+about-webauthn-results-pin-not-set-error = Feil: PIN-kode er ikkje valt. Denne operasjonen treng PIN-kodebevern.
+about-webauthn-results-pin-too-short-error = Feil: Den valde PIN-koden er for kort.
+about-webauthn-results-pin-too-long-error = Feil: Den valde PIN-koden er for lang.
 
 ## Labels
 
@@ -39,6 +49,7 @@ about-webauthn-current-pin-label = Gjeldande PIN-kode:
 about-webauthn-pin-required-label = Skriv inn PIN-koden din:
 about-webauthn-credential-list-subsection-title = Innloggingsdetaljar:
 about-webauthn-enrollment-name-label = Registreringsnamn (valfritt):
+about-webauthn-enrollment-list-empty = Finn ingen registreringar på eininga.
 about-webauthn-credential-list-empty = Fann ingen innloggingsdetaljar på eininga.
 about-webauthn-confirm-deletion-label = Du er i ferd med å slette:
 
@@ -136,10 +147,14 @@ about-webauthn-ctap2-enroll-feedback-too-right = Skanninga var for langt til hø
 
 about-webauthn-ctap2-enroll-feedback-too-fast = Skanninga var for rask.
 about-webauthn-ctap2-enroll-feedback-too-slow = Skanninga var for treg.
+about-webauthn-ctap2-enroll-feedback-poor-quality = Skanninga hadde dårleg kvalitet.
 # Skewed in the sense of fingerprint/iris scan was too distorted
 about-webauthn-ctap2-enroll-feedback-too-skewed = Skanninga var for skeiv.
 about-webauthn-ctap2-enroll-feedback-too-short = Skanninga var for kort.
+# Scan (e.g. of fingerprint) couldn't be merged with previous samples.
+about-webauthn-ctap2-enroll-feedback-merge-failure = Klarte ikkje å slå saman skanningar.
 # Scan (e.g. of fingerprint) is somehow identical to an existing sample.
 about-webauthn-ctap2-enroll-feedback-exists = Skanninga finst allereie.
 about-webauthn-ctap2-enroll-feedback-no-user-activity = Ingen aktivitet frå brukar.
+about-webauthn-ctap2-enroll-feedback-no-user-presence-transition = Brukaren fullførte ikkje skanninga som forventa.
 about-webauthn-ctap2-enroll-feedback-other = Skannefeil.
