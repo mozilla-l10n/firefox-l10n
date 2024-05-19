@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Fast bredde
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,28 @@ about-reader-custom-colors-visited-links = Besøkte lenker
 about-reader-custom-colors-selection-highlight = Markering for høytlesning
     .title = Endre farge
 about-reader-custom-colors-reset-button = Tilbakestill standardverdier
+about-reader-reset-button = Tilbakestill standardverdier
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Tekst
+about-reader-text-size-label = Tekststørrelse
+about-reader-font-type-selector-label = Skrifttype
+about-reader-font-weight-selector-label = Skriftvekt
+about-reader-font-weight-light = Tynn
+about-reader-font-weight-regular = Vanlig
+about-reader-font-weight-bold = Fet
 about-reader-layout-header = Utforming
-about-reader-advanced-layout-header = Avansert
-about-reader-slider-label-width-narrow = Smal
-about-reader-slider-label-width-wide = Bred
-about-reader-slider-label-spacing-narrow = Smal
 about-reader-slider-label-spacing-standard = Standard
 about-reader-slider-label-spacing-wide = Bred
 about-reader-content-width-label =
     .label = Innholdsbredde
 about-reader-line-spacing-label =
     .label = Linjeavstand
+about-reader-advanced-layout-header = Avansert
+about-reader-slider-label-width-narrow = Smal
+about-reader-slider-label-width-wide = Bred
+about-reader-slider-label-spacing-narrow = Smal
 about-reader-character-spacing-label =
     .label = Tegnavstand
 about-reader-word-spacing-label =
