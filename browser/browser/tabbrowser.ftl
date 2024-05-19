@@ -114,6 +114,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ikke vis denne dialogen igjen.
 ## Confirmation dialog for closing all duplicate tabs
 
 tabbrowser-confirm-close-duplicate-tabs-title = Varsel
+tabbrowser-confirm-close-duplicate-tabs-text = Vi holder den siste aktive fanen åpen
 
 ##
 
