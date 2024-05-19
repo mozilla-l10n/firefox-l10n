@@ -226,6 +226,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Zapamätať si toto rozhodnutie
+webrtc-remember-allow-checkbox-camera = Zapamätať pre všetky kamery
+webrtc-remember-allow-checkbox-microphone = Zapamätať pre všetky mikrofóny
+webrtc-remember-allow-checkbox-camera-and-microphone = Zapamätať pre všetky kamery a mikrofóny
 webrtc-mute-notifications-checkbox = Počas zdieľania stlmiť upozornenia na webe
 webrtc-reason-for-no-permanent-allow-screen = Aplikácia { -brand-short-name } nemôže povoliť trvalý prístup k vašej obrazovke.
 webrtc-reason-for-no-permanent-allow-audio = Aplikácia { -brand-short-name } nemôže povoliť trvalý prístup k zvuku z vašej karty bez toho, aby sa spýtala ktorú kartu chcete zdieľať.
