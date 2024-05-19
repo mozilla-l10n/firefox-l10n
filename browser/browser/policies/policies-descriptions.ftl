@@ -84,6 +84,8 @@ policy-Handlers = Налаштувати стандартні обробники
 policy-HardwareAcceleration = Значення false вимикає апаратне прискорення.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Встановити і, за потреби, заблокувати домівку.
+policy-HttpAllowlist = Джерела, які не будуть оновлені до HTTPS.
+policy-HttpsOnlyMode = Дозволити ввімкнути режим лише HTTPS.
 policy-InstallAddonsPermission = Дозволити певним вебсайтам встановлювати додатки.
 policy-LegacyProfiles = Вимкнути функцію, що застосовує окремий профіль для кожного встановлення
 
