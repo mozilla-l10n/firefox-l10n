@@ -273,7 +273,7 @@ newtab-custom-recent-toggle =
     .description = Et utvalg av nylige nettsteder og innhold
 newtab-custom-weather-toggle =
     .label = Vær
-    .description = Dagens værprognose på et øyeblikk
+    .description = Dagens værmelding i korte trekk
 newtab-custom-close-button = Lukk
 newtab-custom-settings = Behandle flere innstillinger
 
@@ -303,7 +303,7 @@ newtab-wallpaper-attribution = Bilde av <a data-l10n-name="name-link">{ $author_
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast =
-    .title = Se værprognosen hos { $provider }.
+    .title = Se værmelding hos { $provider }.
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponset
@@ -322,6 +322,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Bytt til Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Bytt til Celsius
+newtab-weather-menu-hide-weather = Skjul været på ny fane
 newtab-weather-menu-learn-more = Les mer
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Værdata er ikke tilgjengelig akkurat nå.
