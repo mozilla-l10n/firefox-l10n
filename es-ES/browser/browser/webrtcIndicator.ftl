@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Recordar esta decisión
+webrtc-remember-allow-checkbox-camera = Recordar para todas las cámaras
+webrtc-remember-allow-checkbox-microphone = Recordar para todos los micrófonos
+webrtc-remember-allow-checkbox-camera-and-microphone = Recordar para todas las cámaras y micrófonos
 webrtc-mute-notifications-checkbox = Silenciar notificaciones de la página mientras se comparte
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } no puede conceder acceso permanente a su pantalla.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } no puede permitir acceso permanente al audio de su pestaña sin preguntar qué pestaña compartir.
