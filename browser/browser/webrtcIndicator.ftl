@@ -242,6 +242,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Zapamatovat si toto rozhodnutí
+webrtc-remember-allow-checkbox-camera = Zapamatovat pro všechny kamery
+webrtc-remember-allow-checkbox-microphone = Zapamatovat pro všechny mikrofony
+webrtc-remember-allow-checkbox-camera-and-microphone = Zapamatovat pro všechny kamery a mikrofony
 webrtc-mute-notifications-checkbox = Ztlumit oznámení ze serverů během sdílení
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nemůže povolit trvalý přístup k vaší obrazovce.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nemůže povolit trvalý přístup ke zvuku z vašich panelů bez dotazu, který panel sdílet.

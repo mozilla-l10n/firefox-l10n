@@ -69,6 +69,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Patkové
 about-reader-font-type-sans-serif = Bezpatkové
+about-reader-font-type-monospace = Neproporcionální
 
 ## Reader View toolbar buttons
 
@@ -100,20 +101,28 @@ about-reader-custom-colors-visited-links = Navštívené odkazy
 about-reader-custom-colors-selection-highlight = Zvýrazňovač pro čtení nahlas
     .title = Upravit barvu
 about-reader-custom-colors-reset-button = Obnovit výchozí
+about-reader-reset-button = Obnovit výchozí
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Text
+about-reader-text-size-label = Velikost textu
+about-reader-font-type-selector-label = Písmo
+about-reader-font-weight-selector-label = Tloušťka písma
+about-reader-font-weight-light = Tenké
+about-reader-font-weight-regular = Normální
+about-reader-font-weight-bold = Tučné
 about-reader-layout-header = Rozložení
-about-reader-advanced-layout-header = Rozšířené
-about-reader-slider-label-width-narrow = Úzké
-about-reader-slider-label-width-wide = Široké
-about-reader-slider-label-spacing-narrow = Úzké
 about-reader-slider-label-spacing-standard = Standardní
 about-reader-slider-label-spacing-wide = Široké
 about-reader-content-width-label =
     .label = Šířka obsahu
 about-reader-line-spacing-label =
     .label = Řádkování
+about-reader-advanced-layout-header = Rozšířené
+about-reader-slider-label-width-narrow = Úzké
+about-reader-slider-label-width-wide = Široké
+about-reader-slider-label-spacing-narrow = Úzké
 about-reader-character-spacing-label =
     .label = Rozestup znaků
 about-reader-word-spacing-label =
