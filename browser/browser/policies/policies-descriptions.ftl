@@ -84,6 +84,7 @@ policy-Handlers = Nastaví predvolené aplikácie pre odkazy a typy súborov.
 policy-HardwareAcceleration = Ak je nastavená hodnota false, vypne hardvérové urýchľovanie.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastaví a v prípade potreby uzamkne domovskú stránku.
+policy-HttpsOnlyMode = Povolí zapnutie režimu "Len HTTPS".
 policy-InstallAddonsPermission = Povolí určitým webovým stránkam inštalovať doplnky.
 policy-LegacyProfiles = Vypne funkciu, ktorá vynucuje samostatný profil pre každú inštaláciu aplikácie.
 
