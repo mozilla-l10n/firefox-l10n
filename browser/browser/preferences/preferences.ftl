@@ -599,6 +599,9 @@ home-prefs-recent-activity-description = Et utvalg av nylige nettsteder og innho
 home-prefs-snippets-header =
     .label = Snutter
 home-prefs-snippets-description-new = Tips og nyheter fra { -vendor-short-name } og { -brand-product-name }
+home-prefs-weather-header =
+    .label = Vær
+home-prefs-weather-learn-more-link = Les mer
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -944,6 +947,7 @@ primary-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = opprett et hovedpassord
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
