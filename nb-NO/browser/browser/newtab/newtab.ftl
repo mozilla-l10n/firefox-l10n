@@ -294,3 +294,9 @@ newtab-wallpaper-dark-city = Lilla bylandskap
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Bilde av <a data-l10n-name="name-link">{ $author_string }</a> på <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+newtab-weather-menu-learn-more = Les mer
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Værdata er ikke tilgjengelig akkurat nå.
