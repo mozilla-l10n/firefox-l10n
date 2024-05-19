@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Skriv inn innloggingsinform
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = rediger lagret innlogging
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] endre innstillingene for passord
+       *[other] { -brand-short-name } prøver å endre innstillingene for passord. Bruk enhetsinnlogging for å tillate dette.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Skriv inn innloggingsinformasjonen for Windows for å redigere passordet. Dette vil gjøre kontoene dine tryggere.
 # This message can be seen when attempting to edit a login in about:logins
