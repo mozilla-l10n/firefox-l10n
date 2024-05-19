@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Visiti cheste decision
+webrtc-remember-allow-checkbox-camera = Visiti par dutis lis fotocjamaris
+webrtc-remember-allow-checkbox-microphone = Visiti par ducj i microfons
+webrtc-remember-allow-checkbox-camera-and-microphone = Visiti par dutis lis fotocjamaris e i microfons
 webrtc-mute-notifications-checkbox = Cidine lis notifichis dal sît web intant che tu condividis
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nol pues permeti un acès permanent al to schermi.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nol pues permeti un acès permanent al flus audio de tô schede cence domandâ ce schede condividi.
