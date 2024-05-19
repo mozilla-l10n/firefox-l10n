@@ -36,10 +36,20 @@ about-webauthn-add-bio-enrollment-section-title = Legg til ny registrering
 
 about-webauthn-results-success = Vellykka!
 about-webauthn-results-general-error = Feil!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Feil: Feil PIN-kode. Prøv igjen.
+        [one] Feil: Feil PIN-kode. Prøv igjen. Du har eitt forsøk igjen.
+       *[other] Feil: Feil PIN-kode. Prøv igjen. Du har { $retriesLeft } forsøk igjen.
+    }
 about-webauthn-results-pin-blocked-error = Feil: Det er ingen forsøk igjen, og eininga di har blitt låst, fordi feil PIN-kode vart oppgitt for mange gongar. Eininga må tilbakestillast.
 about-webauthn-results-pin-not-set-error = Feil: PIN-kode er ikkje valt. Denne operasjonen treng PIN-kodebevern.
 about-webauthn-results-pin-too-short-error = Feil: Den valde PIN-koden er for kort.
 about-webauthn-results-pin-too-long-error = Feil: Den valde PIN-koden er for lang.
+about-webauthn-results-pin-auth-blocked-error = Feil: Det var for mange mislykka forsøk på rad, og PIN-kodeautentisering er mellombels blokkert. Eininga di treng å bli starta om (drag ut straumkabelen og set han inn igjen).
+about-webauthn-results-cancelled-by-user-error = Feil: Operasjonen er avbroten av brukaren.
 
 ## Labels
 
@@ -133,6 +143,16 @@ about-webauthn-auth-info-null = Ikkje støtta
 
 ## Bio enrollment sample feedbacks
 
+# To register a new enrollment (e.g. fingerprint) usually
+# multiple scans of the same finger have to be sampled.
+# This shows how many the user still has to do.
+# Variables:
+#  $repeatCount (Number): number of tries left
+about-webauthn-samples-still-needed =
+    { $repeatCount ->
+        [one] { $repeatCount } skanning til trengst.
+       *[other] { $repeatCount } skanningar til trengst.
+    }
 # Scan (e.g. of fingerprint) was successful.
 about-webauthn-ctap2-enroll-feedback-good = Skanninga var bra.
 
