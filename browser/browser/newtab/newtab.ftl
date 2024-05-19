@@ -268,6 +268,9 @@ newtab-custom-recent-subtitle = Una selección de sitios y contenidos recientes
 newtab-custom-recent-toggle =
     .label = Actividad reciente
     .description = Una selección de sitios y contenidos recientes
+newtab-custom-weather-toggle =
+    .label = El tiempo
+    .description = El pronóstico de hoy de un vistazo
 newtab-custom-close-button = Cerrar
 newtab-custom-settings = Administrar más ajustes
 
@@ -291,3 +294,16 @@ newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto de <a data-l10n-name="name-link">{ $author_string }</a> en <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Ver pronóstico en { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Patrocinado
+newtab-weather-menu-change-location = Cambiar ubicación
+newtab-weather-change-location-search-input = Buscar ubicación
+newtab-weather-menu-weather-display = Visualización del tiempo
