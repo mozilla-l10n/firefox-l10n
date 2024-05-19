@@ -127,6 +127,11 @@ tabbrowser-confirm-caretbrowsing-title = Перегляд з курсором
 tabbrowser-confirm-caretbrowsing-message = Натискання F7 вмикає та вимикає Перегляд з курсором. Це дає можливість помістити рухомий курсор на вебсторінку, дозволяючи вам вибирати блоки тексту клавіатурою. Хочете увімкнути Перегляд з курсором?
 tabbrowser-confirm-caretbrowsing-checkbox = Більше не показувати це вікно.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Увага
+tabbrowser-confirm-close-duplicate-tabs-text = Ми залишимо відкритою останню активну вкладку
+
 ##
 
 # Variables:

@@ -602,6 +602,10 @@ home-prefs-recent-activity-description = Добірка недавніх сай�
 home-prefs-snippets-header =
     .label = Фрагменти
 home-prefs-snippets-description-new = Поради та новини від { -vendor-short-name } та { -brand-product-name }
+home-prefs-weather-header =
+    .label = Погода
+home-prefs-weather-description = Точний прогноз погоди на сьогодні
+home-prefs-weather-learn-more-link = Докладніше
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -916,6 +920,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Використовувати головний пароль
     .accesskey = г
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Вимагати входу на пристрої для заповнення та керування паролями
 forms-primary-pw-learn-more-link = Докладніше
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -948,6 +955,13 @@ primary-password-os-auth-dialog-message-win = Щоб створити голов
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = створити головний пароль
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] змінити налаштування способів оплати
+       *[other] { -brand-short-name } намагається змінити налаштування способів оплати. Щоб дозволити це, увійдіть на своєму пристрої.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -970,6 +984,9 @@ autofill-reauth-checkbox =
        *[other] Вимагати автентифікацію для заповнення та редагування способів оплати
     }
     .accesskey = г
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Вимагати входу на пристрої для заповнення та керування способами оплати
+    .accesskey = х
 
 ## Privacy Section - History
 

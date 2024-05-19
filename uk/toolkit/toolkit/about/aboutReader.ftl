@@ -69,6 +69,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Моноширинний
 
 ## Reader View toolbar buttons
 
@@ -100,20 +101,28 @@ about-reader-custom-colors-visited-links = Відвідані посилання
 about-reader-custom-colors-selection-highlight = Маркер для читання вголос
     .title = Редагувати колір
 about-reader-custom-colors-reset-button = Відновити типові
+about-reader-reset-button = Відновити типові
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Текст
+about-reader-text-size-label = Розмір тексту
+about-reader-font-type-selector-label = Шрифт
+about-reader-font-weight-selector-label = Товщина шрифту
+about-reader-font-weight-light = Легкий
+about-reader-font-weight-regular = Звичайний
+about-reader-font-weight-bold = Жирний
 about-reader-layout-header = Макет
-about-reader-advanced-layout-header = Додатково
-about-reader-slider-label-width-narrow = Вузький
-about-reader-slider-label-width-wide = Широкий
-about-reader-slider-label-spacing-narrow = Вузький
 about-reader-slider-label-spacing-standard = Стандартний
 about-reader-slider-label-spacing-wide = Широкий
 about-reader-content-width-label =
     .label = Ширина вмісту
 about-reader-line-spacing-label =
     .label = Міжрядковий інтервал
+about-reader-advanced-layout-header = Додатково
+about-reader-slider-label-width-narrow = Вузький
+about-reader-slider-label-width-wide = Широкий
+about-reader-slider-label-spacing-narrow = Вузький
 about-reader-character-spacing-label =
     .label = Міжсимвольний інтервал
 about-reader-word-spacing-label =
