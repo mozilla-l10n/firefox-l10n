@@ -297,6 +297,15 @@ newtab-wallpaper-attribution = Bilde av <a data-l10n-name="name-link">{ $author_
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponset
+newtab-weather-menu-change-location = Endre plassering
+newtab-weather-menu-temperature-units = Temperaturenheter
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Bytt til Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Bytt til Celsius
 newtab-weather-menu-learn-more = Les mer
 # This message is shown if user is working offline
 newtab-weather-error-not-available = Værdata er ikke tilgjengelig akkurat nå.
