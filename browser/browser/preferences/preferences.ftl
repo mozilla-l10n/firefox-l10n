@@ -955,6 +955,12 @@ primary-password-os-auth-dialog-message-win = Ak chcete vytvoriť hlavné heslo,
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = vytvoriť hlavné heslo
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] zmeniť nastavenie pre spôsoby platby
+       *[other] { -brand-short-name } sa pokúša zmeniť nastavenie pre spôsoby platby. Ak to chcete povoliť, použite heslo k účtu na svojom zariadení.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -978,6 +984,9 @@ autofill-reauth-checkbox =
        *[other] Vyžadovať prihlasovacie údaje pri dopĺňaní a úprave spôsobov platby.
     }
     .accesskey = V
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Vyžadovať heslo k účtu na zariadení na vyplnenie a správu spôsobov platby
+    .accesskey = u
 
 ## Privacy Section - History
 

@@ -101,6 +101,7 @@ about-reader-custom-colors-visited-links = Navštívené odkazy
 about-reader-custom-colors-selection-highlight = Zvýrazňovač na čítanie nahlas
     .title = Úprava farby
 about-reader-custom-colors-reset-button = Použiť predvolené
+about-reader-reset-button = Použiť predvolené
 
 ## Reader View improved text and layout menu
 
