@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] { $count } inaktive Tabs anzeigen
         }
     .tooltiptext = Die inaktiven Tabs auf diesem Gerät anzeigen
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Inaktive Tabs
+    .tooltiptext = Inaktive Tabs auf diesem Gerät anschauen
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Keine offenen Tabs
 # This is shown when Sync is configured but syncing tabs is disabled.

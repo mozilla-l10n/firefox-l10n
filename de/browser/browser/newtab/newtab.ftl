@@ -272,6 +272,9 @@ newtab-custom-recent-subtitle = Eine Auswahl kürzlich besuchter Websites und In
 newtab-custom-recent-toggle =
     .label = Neueste Aktivität
     .description = Eine Auswahl kürzlich besuchter Websites und Inhalte
+newtab-custom-weather-toggle =
+    .label = Wetter
+    .description = Heutige Vorhersage auf einen Blick
 newtab-custom-close-button = Schließen
 newtab-custom-settings = Weitere Einstellungen verwalten
 
@@ -295,3 +298,32 @@ newtab-wallpaper-dark-city = Violette Stadtlandschaft
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto von <a data-l10n-name="name-link">{ $author_string }</a> auf <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Vorhersage in { $provider } ansehen
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Gesponsert
+newtab-weather-menu-change-location = Standort ändern
+newtab-weather-change-location-search-input = Standort suchen
+newtab-weather-menu-weather-display = Wetteranzeige
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Einfach
+newtab-weather-menu-change-weather-display-simple = Zur einfachen Ansicht wechseln
+newtab-weather-menu-weather-display-option-detailed = Ausführlich
+newtab-weather-menu-change-weather-display-detailed = Zur ausführlichen Ansicht wechseln
+newtab-weather-menu-temperature-units = Temperatureinheiten
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Zu Fahrenheit wechseln
+newtab-weather-menu-change-temperature-units-celsius = Zu Celsius wechseln
+newtab-weather-menu-hide-weather = Wetter bei neuem Tab ausblenden
+newtab-weather-menu-learn-more = Weitere Informationen
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Wetterdaten sind derzeit nicht verfügbar.
