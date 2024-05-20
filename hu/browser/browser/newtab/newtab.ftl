@@ -317,3 +317,4 @@ newtab-weather-menu-weather-display = Időjárás-kijelző
 newtab-weather-menu-weather-display-option-simple = Egyszerű
 newtab-weather-menu-change-weather-display-simple = Átváltás egyszerű nézetre
 newtab-weather-menu-weather-display-option-detailed = Részletek
+newtab-weather-menu-change-weather-display-detailed = Átváltás részletes nézetre
