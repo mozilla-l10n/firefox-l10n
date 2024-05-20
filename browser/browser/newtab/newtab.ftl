@@ -304,7 +304,7 @@ newtab-wallpaper-attribution = Foto troch <a data-l10n-name="name-link">{ $autho
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast =
-    .title = Waarsferwachting besjen foar { $provider }
+    .title = It waar besjen foar { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsore
@@ -323,3 +323,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Wikselje nei Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Wikselje nei Celsius
+newtab-weather-menu-hide-weather = It waar op nij ljepblêd ferstopje
+newtab-weather-menu-learn-more = Mear ynfo
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Waargegevens binne op dit stuit net beskikber.

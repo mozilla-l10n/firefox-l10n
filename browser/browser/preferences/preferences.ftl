@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = In seleksje fan resinte websites en ynh
 home-prefs-snippets-header =
     .label = Koarte ynformaasje
 home-prefs-snippets-description-new = Tips en nijs fan { -vendor-short-name } en { -brand-product-name }
+home-prefs-weather-header =
+    .label = It waar
+home-prefs-weather-description = It waar fan hjoed yn ien eachopslach.
+home-prefs-weather-learn-more-link = Mear ynfo
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = In haadwachtwurd brûke
     .accesskey = h
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Apparaatoanmelding foar ynfoljen en behearen fan wachtwurden fereaskje
 forms-primary-pw-learn-more-link = Mear ynfo
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
