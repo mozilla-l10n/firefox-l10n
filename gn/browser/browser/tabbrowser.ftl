@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Ovetã pyahu
 tabbrowser-empty-private-tab-title = Tendayke pyahu ñemigua
-
 tabbrowser-menuitem-close-tab =
     .label = Tendayke mboty
 tabbrowser-menuitem-close =
     .label = Mboty
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +111,16 @@ tabbrowser-confirm-caretbrowsing-title = Kundaha hekaha ndive
 tabbrowser-confirm-caretbrowsing-message = Ejopývo F7 emyandy térã ambogue kundaha hekaha ndive. Tembiapoite omoĩ hekaha oku’éva ñanduti kuatiaroguépe, omoneĩvo embosa’y moñe’ẽrã tairenda ndive. ¿Emyandyse kundaha hekaha ndive.
 tabbrowser-confirm-caretbrowsing-checkbox = Anive ehechaukajey ko ñomongeta.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Ema’ẽmi
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Emoneĩ marandu’i ãichagua { $domain } mba’e oguerahávo pe tendayképe
-
 tabbrowser-customizemode-tab-title = { -brand-short-name } ñemomba’ete
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +139,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Embopujey tendayke
     .accesskey = m
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Ehendu mba’epu
 
