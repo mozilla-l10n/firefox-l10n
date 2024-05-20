@@ -271,6 +271,9 @@ newtab-custom-recent-subtitle = Tenda jeporavo ha tetepy ramovegua
 newtab-custom-recent-toggle =
     .label = Tembiapo ramovegua
     .description = Tenda jeporavo ha tetepy ramovegua
+newtab-custom-weather-toggle =
+    .label = Arapytu
+    .description = Ko árape g̃uara ára
 newtab-custom-close-button = Mboty
 newtab-custom-settings = Eñangareko hetave ñembohekóre
 
@@ -294,3 +297,14 @@ newtab-wallpaper-dark-city = Táva jehecha pytãũva
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Ta’ãnga <a data-l10n-name="name-link">{ $author_string }</a> <a data-l10n-name="webpage-link">{ $webpage_string }</a>-pe
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Ehecha ára rehegua { $provider }-pe
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Oykekóva
+newtab-weather-menu-change-location = Emoambue tendatee
