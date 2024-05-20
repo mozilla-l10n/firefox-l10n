@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Dizze beslissing ûnthâlde
+webrtc-remember-allow-checkbox-camera = Unthâlde foar alle kamera’s
+webrtc-remember-allow-checkbox-microphone = Unthâlde foar alle mikrofoanen
+webrtc-remember-allow-checkbox-camera-and-microphone = Unthâlde foar alle kamera’s en mikrofoanen
 webrtc-mute-notifications-checkbox = Websitemeldingen dôvje wylst dielen
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kin gjin permaninte tagong ta jo skerm tastean.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kin gjin permaninte tagong ta it lûd fan jo ljepblêd tastean sûnder te freegjen hokker ljepblêd dield wurde moat.

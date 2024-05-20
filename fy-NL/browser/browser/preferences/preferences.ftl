@@ -951,6 +951,13 @@ primary-password-os-auth-dialog-message-win = Fier jo oanmeldgegevens foar Windo
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = in haadwachtwurd oanmeitsje
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] ynstellingen foar betellingsmetoaden wizigje
+       *[other] { -brand-short-name } probearret de ynstellingen foar betellingsmetoaden te wizigjen. Brûk jo apparaatoanmelding om dit ta te stean.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -973,6 +980,9 @@ autofill-reauth-checkbox =
        *[other] Autentikaasje fereaskje foar it ynfoljen en bewurkjen fan betellingsmetoaden.
     }
     .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Apparaatoanmelding foar ynfoljen en behearen fan betellingsmetoaden fereaskje
+    .accesskey = m
 
 ## Privacy Section - History
 
