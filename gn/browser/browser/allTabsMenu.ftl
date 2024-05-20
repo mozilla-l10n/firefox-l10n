@@ -12,3 +12,5 @@ all-tabs-menu-hidden-tabs =
 all-tabs-menu-manage-user-context =
     .label = Guerekoha ñangarekohára
     .accesskey = o
+all-tabs-menu-close-duplicate-tabs =
+    .label = Emboty tendayke ikõiva
