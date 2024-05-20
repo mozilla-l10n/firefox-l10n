@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Talpas
 about-reader-font-type-sans-serif = Talpatlan
+about-reader-font-type-monospace = Fix szélességű
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,28 @@ about-reader-custom-colors-visited-links = Látogatott hivatkozások
 about-reader-custom-colors-selection-highlight = Kiemelő a felolvasáshoz
     .title = Szín szerkesztése
 about-reader-custom-colors-reset-button = Alapértelmezések visszaállítása
+about-reader-reset-button = Alapértelmezések visszaállítása
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Szöveg
+about-reader-text-size-label = Betűméret
+about-reader-font-type-selector-label = Betűkészlet
+about-reader-font-weight-selector-label = Betűsúly
+about-reader-font-weight-light = Világos
+about-reader-font-weight-regular = Normál
+about-reader-font-weight-bold = Félkövér
 about-reader-layout-header = Elrendezés
-about-reader-advanced-layout-header = Speciális
-about-reader-slider-label-width-narrow = Keskeny
-about-reader-slider-label-width-wide = Széles
-about-reader-slider-label-spacing-narrow = Keskeny
 about-reader-slider-label-spacing-standard = Szokásos
 about-reader-slider-label-spacing-wide = Széles
 about-reader-content-width-label =
     .label = Tartalom szélessége
 about-reader-line-spacing-label =
     .label = Sorköz
+about-reader-advanced-layout-header = Speciális
+about-reader-slider-label-width-narrow = Keskeny
+about-reader-slider-label-width-wide = Széles
+about-reader-slider-label-spacing-narrow = Keskeny
 about-reader-character-spacing-label =
     .label = Karakterköz
 about-reader-word-spacing-label =
