@@ -599,6 +599,9 @@ home-prefs-recent-activity-description = Tenda jeporavo ha tetepy ramovegua
 home-prefs-snippets-header =
     .label = Mba’epehẽ
 home-prefs-snippets-description-new = Ñemoñe’ẽ ha marandu { -vendor-short-name } ha { -brand-product-name } rehegua
+home-prefs-weather-header =
+    .label = Arapytu
+home-prefs-weather-learn-more-link = Eikuaave
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -944,6 +947,7 @@ primary-password-os-auth-dialog-message-win = Emoheñói hag̃ua ñe’ẽñemi 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = emoheñói Ñe’ẽñemi Ñepyrũgua
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 

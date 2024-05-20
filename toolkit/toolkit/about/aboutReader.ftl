@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans Serif
+about-reader-font-type-monospace = Taipa’ũ
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,26 @@ about-reader-custom-colors-visited-links = Juajuha ojeporúva
 about-reader-custom-colors-selection-highlight = Mbosa’y emoñe’ẽ hag̃ua ayvúpe
     .title = Embosako’i sa’y
 about-reader-custom-colors-reset-button = Erujey ijypykuéva
+about-reader-reset-button = Erujey ijypykuéva
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Moñe’ẽrã
+about-reader-text-size-label = Moñe’ẽrã tuichakue
+about-reader-font-type-selector-label = Taity
+about-reader-font-weight-selector-label = Taity pekue
+about-reader-font-weight-light = Tesakã
 about-reader-layout-header = Moha’ãnga
-about-reader-advanced-layout-header = Opapotáva
-about-reader-slider-label-width-narrow = Po’i
-about-reader-slider-label-width-wide = Ipéva
-about-reader-slider-label-spacing-narrow = Po’i
 about-reader-slider-label-spacing-standard = Ypykue
 about-reader-slider-label-spacing-wide = Ipéva
 about-reader-content-width-label =
     .label = Tetepy pekue
 about-reader-line-spacing-label =
     .label = Tairenda ipa’ũva
+about-reader-advanced-layout-header = Opapotáva
+about-reader-slider-label-width-narrow = Po’i
+about-reader-slider-label-width-wide = Ipéva
+about-reader-slider-label-spacing-narrow = Po’i
 about-reader-character-spacing-label =
     .label = Taikuéra ipa’ũva
 about-reader-word-spacing-label =
