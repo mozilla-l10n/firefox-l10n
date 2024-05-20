@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Deze beslissing onthouden
+webrtc-remember-allow-checkbox-camera = Onthouden voor alle camera’s
+webrtc-remember-allow-checkbox-microphone = Onthouden voor alle microfoons
+webrtc-remember-allow-checkbox-camera-and-microphone = Onthouden voor alle camera’s en microfoons
 webrtc-mute-notifications-checkbox = Websitemeldingen dempen tijdens delen
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan geen permanente toegang tot uw scherm toestaan.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan geen permanente toegang tot het geluid van uw tabblad toestaan zonder te vragen welk tabblad moet worden gedeeld.
