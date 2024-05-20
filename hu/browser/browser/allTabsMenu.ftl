@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Lapok keresése
-
 all-tabs-menu-new-user-context =
     .label = Új konténerlap
-
 all-tabs-menu-hidden-tabs =
     .label = Rejtett lapok
-
 all-tabs-menu-manage-user-context =
     .label = Konténerek kezelése
     .accesskey = O
+all-tabs-menu-close-duplicate-tabs =
+    .label = Ismétlődő lapok bezárása
