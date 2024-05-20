@@ -84,6 +84,8 @@ policy-Handlers = Standaard toepassinghandlers configureren
 policy-HardwareAcceleration = Wanneer false, hardwareversnelling uitschakelen.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = De startpagina instellen en optioneel vergrendelen.
+policy-HttpAllowlist = Oorspronkelijke bronnen die niet naar HTTPS worden geüpgraded.
+policy-HttpsOnlyMode = Alleen-HTTPS-modus toestaan om in te schakelen.
 policy-InstallAddonsPermission = Toestaan dat bepaalde websites add-ons installeren.
 policy-LegacyProfiles = Functie om een afzonderlijk profiel voor elke installatie af te dwingen uitschakelen
 
