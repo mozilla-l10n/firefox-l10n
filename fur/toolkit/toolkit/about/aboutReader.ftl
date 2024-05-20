@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Cun graciis (Serif)
 about-reader-font-type-sans-serif = Cence graciis (Sans-serif)
+about-reader-font-type-monospace = Largjece fisse
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,28 @@ about-reader-custom-colors-visited-links = Colegaments visitâts
 about-reader-custom-colors-selection-highlight = Evidenziadôr pe leture a vôs alte
     .title = Modifiche colôr
 about-reader-custom-colors-reset-button = Ripristine predefinîts
+about-reader-reset-button = Ripristine predefinîts
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Test
+about-reader-text-size-label = Dimension dal test
+about-reader-font-type-selector-label = Caratar
+about-reader-font-weight-selector-label = Spessôr caratar
+about-reader-font-weight-light = Fin
+about-reader-font-weight-regular = Regolâr
+about-reader-font-weight-bold = Neret
 about-reader-layout-header = Disposizion
-about-reader-advanced-layout-header = Avanzadis
-about-reader-slider-label-width-narrow = Strete
-about-reader-slider-label-width-wide = Largje
-about-reader-slider-label-spacing-narrow = Ridote
 about-reader-slider-label-spacing-standard = Standard
 about-reader-slider-label-spacing-wide = Largje
 about-reader-content-width-label =
     .label = Largjece contignût
 about-reader-line-spacing-label =
     .label = Interlinie
+about-reader-advanced-layout-header = Avanzadis
+about-reader-slider-label-width-narrow = Strete
+about-reader-slider-label-width-wide = Largje
+about-reader-slider-label-spacing-narrow = Ridote
 about-reader-character-spacing-label =
     .label = Spaziadure caratars
 about-reader-word-spacing-label =
