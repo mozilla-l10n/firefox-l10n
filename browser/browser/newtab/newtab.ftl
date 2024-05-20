@@ -308,3 +308,12 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Oykekóva
 newtab-weather-menu-change-location = Emoambue tendatee
+newtab-weather-change-location-search-input = Eheka tendatee
+newtab-weather-menu-weather-display = Ára jehechaha
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Simple
+newtab-weather-menu-change-weather-display-simple = Eva simple jehechápe
+newtab-weather-menu-weather-display-option-detailed = Mba’emimi
+newtab-weather-menu-change-weather-display-detailed = Eva mba’emimi jehechápe
