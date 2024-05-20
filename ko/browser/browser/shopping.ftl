@@ -82,8 +82,8 @@ shopping-highlight-packaging = 포장
 
 ## Strings for show more card
 
-shopping-show-more-button = 자세히 보기
-shopping-show-less-button = 간단히 보기
+shopping-show-more-button = 더 보기
+shopping-show-less-button = 덜 보기
 
 ## Strings for the settings card
 

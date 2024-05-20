@@ -40,8 +40,8 @@ detail-version =
     .label = 버전
 detail-last-updated =
     .label = 마지막 업데이트
-addon-detail-description-expand = 자세히 보기
-addon-detail-description-collapse = 간단히 보기
+addon-detail-description-expand = 더 보기
+addon-detail-description-collapse = 덜 보기
 detail-contributions-description = 이 부가 기능의 개발자가 여러분이 작은 기여로 지속적인 개발을 지원해 줄 것을 요청합니다.
 detail-contributions-button = 기여하기
     .title = 이 부가 기능의 개발에 기여하기
@@ -251,7 +251,7 @@ shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] { $numberToShow }개 더 보기
     }
-shortcuts-card-collapse-button = 간단히 보기
+shortcuts-card-collapse-button = 덜 보기
 header-back-button =
     .title = 뒤로 가기
 
