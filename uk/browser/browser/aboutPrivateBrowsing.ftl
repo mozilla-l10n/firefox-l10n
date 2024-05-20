@@ -56,7 +56,7 @@ about-private-browsing-promo-close-button =
 about-private-browsing-pin-promo-header = Свобода приватного перегляду одним натиском
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
-        [macos] Закріпити в док
+        [macos] Закріпити в Dock
        *[other] Закріпити на панелі завдань
     }
 about-private-browsing-pin-promo-title = Жодних збережених файлів cookie чи історії на комп'ютері. Переглядайте без думки, що за вами хтось спостерігає.

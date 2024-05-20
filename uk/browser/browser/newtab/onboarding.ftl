@@ -186,7 +186,7 @@ mr2022-onboarding-welcome-pin-subtitle = Відкривайте { -brand-short-n
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
-        [macos] Закріпити { -brand-short-name } у док
+        [macos] Закріпити { -brand-short-name } у Dock
        *[other] Закріпити { -brand-short-name } на панелі завдань
     }
 # Subtitle will be used when user already has Firefox pinned, but
@@ -282,7 +282,7 @@ mr2022-upgrade-onboarding-pin-private-window-header = Отримайте сво�
 mr2022-upgrade-onboarding-pin-private-window-subtitle = Жодних збережених файлів cookie чи історії на комп'ютері. Переглядайте без думки, що за вами хтось спостерігає.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
-        [macos] Закріпити приватне вікно { -brand-short-name } у док
+        [macos] Закріпити приватне вікно { -brand-short-name } у Dock
        *[other] Закріпити приватне вікно { -brand-short-name } на панелі завдань
     }
 
