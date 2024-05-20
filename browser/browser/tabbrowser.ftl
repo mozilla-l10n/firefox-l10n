@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Nij ljepblêd
 tabbrowser-empty-private-tab-title = Nij privee­ljepblêd
-
 tabbrowser-menuitem-close-tab =
     .label = Ljepblêd slute
 tabbrowser-menuitem-close =
     .label = Slute
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +111,17 @@ tabbrowser-confirm-caretbrowsing-title = Kursornavigaasje
 tabbrowser-confirm-caretbrowsing-message = Troch op F7 te drukken, wurdt kursornavigaasje yn- of útskeakele. Dizze funksje pleatst in beweegbere kursor yn websiden, wêrmei't jo yn steat binne tekst mei it toetseboerd te selektearjen. Wolle jo kursornavigaasje ynskeakelje?
 tabbrowser-confirm-caretbrowsing-checkbox = Dit dialoochfinster net mear toane.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Let op!
+tabbrowser-confirm-close-duplicate-tabs-text = Wy hâlde it lêste aktive ljepblêd iepen
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Fergelykbere meldingen fan { $domain } om jo nei harren ljepblêd te lieden tastean
-
 tabbrowser-customizemode-tab-title = { -brand-short-name } oanpasse
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +140,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Ljepblêden dempe opheffe
     .accesskey = o
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Lûd ôfspylje
 

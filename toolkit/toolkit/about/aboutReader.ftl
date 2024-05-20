@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Monospace
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,28 @@ about-reader-custom-colors-visited-links = Besochte keppelingen
 about-reader-custom-colors-selection-highlight = Markearstift foar hurdop lêze
     .title = Kleur bewurkje
 about-reader-custom-colors-reset-button = Standertynstellingen opnij ynstelle
+about-reader-reset-button = Standertynstellingen opnij ynstelle
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Tekst
+about-reader-text-size-label = Tekstgrutte
+about-reader-font-type-selector-label = Lettertype
+about-reader-font-weight-selector-label = Lettergewicht
+about-reader-font-weight-light = Ljocht
+about-reader-font-weight-regular = Normaal
+about-reader-font-weight-bold = Fet
 about-reader-layout-header = Yndieling
-about-reader-advanced-layout-header = Avansearre
-about-reader-slider-label-width-narrow = Smel
-about-reader-slider-label-width-wide = Breed
-about-reader-slider-label-spacing-narrow = Smel
 about-reader-slider-label-spacing-standard = Standert
 about-reader-slider-label-spacing-wide = Breed
 about-reader-content-width-label =
     .label = Breedte fan ynhâld
 about-reader-line-spacing-label =
     .label = Regelôfstân
+about-reader-advanced-layout-header = Avansearre
+about-reader-slider-label-width-narrow = Smel
+about-reader-slider-label-width-wide = Breed
+about-reader-slider-label-spacing-narrow = Smel
 about-reader-character-spacing-label =
     .label = Tekenôfstân
 about-reader-word-spacing-label =
