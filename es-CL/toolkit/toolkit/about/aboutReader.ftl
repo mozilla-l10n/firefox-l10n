@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Monospace
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,28 @@ about-reader-custom-colors-visited-links = Enlaces visitados
 about-reader-custom-colors-selection-highlight = Resaltador para leer en voz alta
     .title = Editar color
 about-reader-custom-colors-reset-button = Restablecer predeterminados
+about-reader-reset-button = Restablecer predeterminados
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Texto
+about-reader-text-size-label = Tamaño del texto
+about-reader-font-type-selector-label = Tipografía
+about-reader-font-weight-selector-label = Peso de fuente
+about-reader-font-weight-light = Claro
+about-reader-font-weight-regular = Regular
+about-reader-font-weight-bold = Negrita
 about-reader-layout-header = Diseño
-about-reader-advanced-layout-header = Avanzado
-about-reader-slider-label-width-narrow = Angosto
-about-reader-slider-label-width-wide = Ancho
-about-reader-slider-label-spacing-narrow = Angosto
 about-reader-slider-label-spacing-standard = Estándar
 about-reader-slider-label-spacing-wide = Ancho
 about-reader-content-width-label =
     .label = Ancho del contenido
 about-reader-line-spacing-label =
     .label = Espaciado entre líneas
+about-reader-advanced-layout-header = Avanzado
+about-reader-slider-label-width-narrow = Angosto
+about-reader-slider-label-width-wide = Ancho
+about-reader-slider-label-spacing-narrow = Angosto
 about-reader-character-spacing-label =
     .label = Espaciado entre caracteres
 about-reader-word-spacing-label =
