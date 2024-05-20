@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Voer uw aanmeldgegevens voo
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = bewerk de opgeslagen aanmelding
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] instellingen voor wachtwoorden wijzigen
+       *[other] { -brand-short-name } probeert de instellingen voor wachtwoorden te wijzigen. Gebruik uw apparaataanmelding om dit toe te staan.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te bewerken. Hierdoor wordt de beveiliging van uw accounts beschermd.
 # This message can be seen when attempting to edit a login in about:logins

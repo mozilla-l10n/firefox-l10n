@@ -272,6 +272,9 @@ newtab-custom-recent-subtitle = Een selectie van recente websites en inhoud
 newtab-custom-recent-toggle =
     .label = Recente activiteit
     .description = Een selectie van recente websites en inhoud
+newtab-custom-weather-toggle =
+    .label = Weer
+    .description = De weersverwachting van vandaag in een oogopslag
 newtab-custom-close-button = Sluiten
 newtab-custom-settings = Meer instellingen beheren
 
@@ -295,3 +298,32 @@ newtab-wallpaper-dark-city = Paars stadslandschap
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto door <a data-l10n-name="name-link">{ $author_string }</a> op <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Weersverwachting bekijken voor { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Gesponsord
+newtab-weather-menu-change-location = Locatie wijzigen
+newtab-weather-change-location-search-input = Locatie zoeken
+newtab-weather-menu-weather-display = Weerweergave
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Eenvoudig
+newtab-weather-menu-change-weather-display-simple = Wisselen naar eenvoudige weergave
+newtab-weather-menu-weather-display-option-detailed = Gedetailleerd
+newtab-weather-menu-change-weather-display-detailed = Wisselen naar gedetailleerde weergave
+newtab-weather-menu-temperature-units = Temperatuureenheden
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Wisselen naar Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Wisselen naar Celsius
+newtab-weather-menu-hide-weather = Weer op nieuw tabblad verbergen
+newtab-weather-menu-learn-more = Meer info
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Weergegevens zijn momenteel niet beschikbaar.
