@@ -75,7 +75,7 @@ appmenu-remote-tabs-turn-on-sync =
     .label = Sync 켜기…
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
-    .label = 더 많은 탭 표시
+    .label = 탭 더 보기
     .tooltiptext = 이 기기의 탭 더 보기
 # This is shown when there are inactive tabs which are not being shown.
 # Variables

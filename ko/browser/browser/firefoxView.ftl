@@ -205,7 +205,7 @@ firefoxview-history-site-localhost = (로컬 파일)
 ##
 
 firefoxview-show-all-history = 모든 기록 보기
-firefoxview-view-more-browsing-history = 탐색 기록 더보기
+firefoxview-view-more-browsing-history = 탐색 기록 더 보기
 
 ## Message displayed in Firefox View when the user has no history data
 
