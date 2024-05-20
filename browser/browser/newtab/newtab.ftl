@@ -272,6 +272,9 @@ newtab-custom-recent-subtitle = In seleksje fan resinte websites en ynhâld
 newtab-custom-recent-toggle =
     .label = Resinte aktiviteit
     .description = In seleksje fan resinte websites en ynhâld
+newtab-custom-weather-toggle =
+    .label = It waar
+    .description = De waarsferwachting fan hjoed yn ien eachopslach
 newtab-custom-close-button = Slute
 newtab-custom-settings = Mear ynstellingen beheare
 
@@ -295,3 +298,28 @@ newtab-wallpaper-dark-city = Pears stêdslânskip
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto troch <a data-l10n-name="name-link">{ $author_string }</a> op <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Waarsferwachting besjen foar { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsore
+newtab-weather-menu-change-location = Lokaasje wizigje
+newtab-weather-change-location-search-input = Lokaasje sykje
+newtab-weather-menu-weather-display = Waarwerjefte
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Ienfâldich
+newtab-weather-menu-change-weather-display-simple = Wikselje nei ienfâldige werjefte
+newtab-weather-menu-weather-display-option-detailed = Detaillearre
+newtab-weather-menu-change-weather-display-detailed = Wikselje nei detaillearre werjefte
+newtab-weather-menu-temperature-units = Temperatuerienheden
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Wikselje nei Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Wikselje nei Celsius
