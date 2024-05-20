@@ -84,6 +84,7 @@ policy-Handlers = Emboheko tembiporu’i ñangarekoha ypykuegua.
 policy-HardwareAcceleration = Japúramo, eipe’a hardware mbopya’eha.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Emopyenda ha ejoko ejaposẽramo kuatiarogue ñepyrũha.
+policy-HttpAllowlist = Teñoiha ndahekopyahumo’ãiva HTTPS ndive.
 policy-InstallAddonsPermission = Emoneĩ ndahetái ñanduti rendápe omboguejývo moĩmbaha.
 policy-LegacyProfiles = Eipe’a tembiapoite omoĩva mba’ete mombyryguáva emohendakuévo
 

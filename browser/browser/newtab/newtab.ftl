@@ -324,3 +324,5 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Eva Fahrenheit ndive
 newtab-weather-menu-change-temperature-units-celsius = Eva Celsius ndive
 newtab-weather-menu-hide-weather = Eñomi arareko Tendayke Pyahúpe
 newtab-weather-menu-learn-more = Eikuaave
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Marandu ára rehegua ndaipóri ko’ag̃aite.
