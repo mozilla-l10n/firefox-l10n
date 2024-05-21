@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Muna þessa ákvörðun
+webrtc-remember-allow-checkbox-camera = Muna fyrir allar myndavélar
+webrtc-remember-allow-checkbox-microphone = Muna fyrir alla hljóðnema
+webrtc-remember-allow-checkbox-camera-and-microphone = Muna fyrir allar myndavélar og hljóðnema
 webrtc-mute-notifications-checkbox = Þagga niður í tilkynningum vefsvæðis meðan þú deilir
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } leyfir ekki fastan aðgang að skjánum þínum.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } leyfir ekki fastan aðgang að flipum nema að spyrja hvaða flipa á að deila.

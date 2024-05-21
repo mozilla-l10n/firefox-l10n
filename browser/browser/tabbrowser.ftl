@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Nýr flipi
 tabbrowser-empty-private-tab-title = Nýr huliðsflipi
-
 tabbrowser-menuitem-close-tab =
     .label = Loka flipa
 tabbrowser-menuitem-close =
     .label = Loka
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +111,17 @@ tabbrowser-confirm-caretbrowsing-title = Vafra með bendli
 tabbrowser-confirm-caretbrowsing-message = Takkinn F7 virkjar að vafra með bendli. Þessi aðgerð bætir við hreyfanlegum bendli á vefsíður, sem leyfir þér að velja með lyklaborðinu. Viltu virkja vafrað með bendli?
 tabbrowser-confirm-caretbrowsing-checkbox = Ekki sýna þennan glugga aftur.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Gættu þín
+tabbrowser-confirm-close-duplicate-tabs-text = Við munum halda síðasta virka flipanum opnum
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Leyfðu tilkynningum sem þessum frá { $domain } að fara með þig á flipann þeirra
-
 tabbrowser-customizemode-tab-title = Sérsníða { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +140,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Kveikja á hljóði úr flipum
     .accesskey = m
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Spilar hljóð
 

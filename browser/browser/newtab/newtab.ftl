@@ -272,6 +272,9 @@ newtab-custom-recent-subtitle = Úrval af nýlegum síðum og efni
 newtab-custom-recent-toggle =
     .label = Nýleg virkni
     .description = Úrval af nýlegum síðum og efni
+newtab-custom-weather-toggle =
+    .label = Veður
+    .description = Veðurspá dagsins í skyndi
 newtab-custom-close-button = Loka
 newtab-custom-settings = Sýsla með fleiri stillingar
 
@@ -295,3 +298,32 @@ newtab-wallpaper-dark-city = Fjólublátt borgarlandslag
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Ljósmynd eftir <a data-l10n-name="name-link">{ $author_string }</a> á <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Sjá veðurspá í { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Kostað
+newtab-weather-menu-change-location = Breyta staðsetningu
+newtab-weather-change-location-search-input = Leita að staðsetningu
+newtab-weather-menu-weather-display = Birting veðurs
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Einfalt
+newtab-weather-menu-change-weather-display-simple = Skipta yfir í einfalda sýn
+newtab-weather-menu-weather-display-option-detailed = Ítarleg
+newtab-weather-menu-change-weather-display-detailed = Skipta yfir í nákvæma sýn
+newtab-weather-menu-temperature-units = Hitastigseiningar
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Selsíus
+newtab-weather-menu-change-temperature-units-fahrenheit = Skipta yfir í Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Skipta yfir í Selsíus
+newtab-weather-menu-hide-weather = Fela veður á nýjum flipa
+newtab-weather-menu-learn-more = Kanna nánar
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Veðurgögn eru ekki tiltæk í augnablikinu.

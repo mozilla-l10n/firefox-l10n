@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Jafnbreitt
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,28 @@ about-reader-custom-colors-visited-links = Notaðir tenglar
 about-reader-custom-colors-selection-highlight = Áherslulitun fyrir upplestur
     .title = Breyta lit
 about-reader-custom-colors-reset-button = Endurheimta sjálfgefnar stillingar
+about-reader-reset-button = Endurstilla á sjálfgefið
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Texti
+about-reader-text-size-label = Stærð texta
+about-reader-font-type-selector-label = Leturgerð
+about-reader-font-weight-selector-label = Þykkt leturs
+about-reader-font-weight-light = Létt
+about-reader-font-weight-regular = Venjuleg
+about-reader-font-weight-bold = Feitletrað
 about-reader-layout-header = Framsetning
-about-reader-advanced-layout-header = Ítarlegt
-about-reader-slider-label-width-narrow = Þröngt
-about-reader-slider-label-width-wide = Breitt
-about-reader-slider-label-spacing-narrow = Þröngt
 about-reader-slider-label-spacing-standard = Staðlað
 about-reader-slider-label-spacing-wide = Breitt
 about-reader-content-width-label =
     .label = Breidd efnis
 about-reader-line-spacing-label =
     .label = Línubil
+about-reader-advanced-layout-header = Ítarlegt
+about-reader-slider-label-width-narrow = Þröngt
+about-reader-slider-label-width-wide = Breitt
+about-reader-slider-label-spacing-narrow = Þröngt
 about-reader-character-spacing-label =
     .label = Stafabil
 about-reader-word-spacing-label =
