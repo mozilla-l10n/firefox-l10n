@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] Shfaq { $count } skeda joaktive
         }
     .tooltiptext = Shfaq skedat joaktive në këtë pajisje
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Skeda jo aktive
+    .tooltiptext = Shihni skeda jo aktive në këtë pajisje
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = S'ka skeda të hapura
 # This is shown when Sync is configured but syncing tabs is disabled.
