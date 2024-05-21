@@ -114,6 +114,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Anive ehechaukajey ko ñomongeta.
 ## Confirmation dialog for closing all duplicate tabs
 
 tabbrowser-confirm-close-duplicate-tabs-title = Ema’ẽmi
+tabbrowser-confirm-close-duplicate-tabs-text = Rombojurujáta tendayke paha hendyhápe
 
 ##
 
