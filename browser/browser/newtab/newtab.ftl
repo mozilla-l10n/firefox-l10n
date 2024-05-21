@@ -268,6 +268,9 @@ newtab-custom-recent-subtitle = Një përzgjedhje sajtesh dhe lënde së fundi
 newtab-custom-recent-toggle =
     .label = Veprimtari së fundi
     .description = Një përzgjedhje sajtesh dhe lënde së fundi
+newtab-custom-weather-toggle =
+    .label = Moti
+    .description = Parashikimi për sot me një vështrim
 newtab-custom-close-button = Mbylle
 newtab-custom-settings = Administroni më tepër rregullime
 
@@ -291,3 +294,32 @@ newtab-wallpaper-dark-city = Peizazh qyteti i purpurt
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto nga <a data-l10n-name="name-link">{ $author_string }</a> on <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Shihni parashikimin në { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ E sponsorizuar
+newtab-weather-menu-change-location = Ndryshoni vendndodhje
+newtab-weather-change-location-search-input = Kërkoni për vendndodhje
+newtab-weather-menu-weather-display = Shfaqje moti
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = E thjeshtë
+newtab-weather-menu-change-weather-display-simple = Kalo te shfaqje e thjeshtë
+newtab-weather-menu-weather-display-option-detailed = E hollësishme
+newtab-weather-menu-change-weather-display-detailed = Kalo te shfaqje e hollësishme
+newtab-weather-menu-temperature-units = Njësi temperature
+newtab-weather-menu-temperature-option-fahrenheit = Farenajt
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Kalo në Farenajt
+newtab-weather-menu-change-temperature-units-celsius = Kalo në Celsius
+newtab-weather-menu-hide-weather = Fshihe motin në Skedë të Re
+newtab-weather-menu-learn-more = Mësoni më tepër
+# This message is shown if user is working offline
+newtab-weather-error-not-available = S’ka të dhëna moti tani për tani.
