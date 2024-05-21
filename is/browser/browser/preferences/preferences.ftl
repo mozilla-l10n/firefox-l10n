@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = Úrval af nýlegum síðum og efni
 home-prefs-snippets-header =
     .label = Molar
 home-prefs-snippets-description-new = Ábendingar og fréttir frá { -vendor-short-name } og { -brand-product-name }
+home-prefs-weather-header =
+    .label = Veður
+home-prefs-weather-description = Spá dagsins í hnotskurn
+home-prefs-weather-learn-more-link = Kanna nánar
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Nota aðallykilorð
     .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Krefjast innskráningar tækis til að fylla út og sýsla með lykilorð
 forms-primary-pw-learn-more-link = Frekari upplýsingar
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -944,6 +951,13 @@ primary-password-os-auth-dialog-message-win = Til að búa til aðallykilorð sk
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = búa til aðallykilorð
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] breyttu stillingum fyrir greiðslumáta
+       *[other] { -brand-short-name } er að reyna að breyta stillingum fyrir greiðslumáta. Notaðu innskráningu tækisins til að leyfa þetta.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -966,6 +980,9 @@ autofill-reauth-checkbox =
        *[other] Krefjast auðkenningar til að fylla út og breyta greiðslumáta.
     }
     .accesskey = K
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Krefjast innskráningar tækis til að fylla út og hafa umsjón með greiðslumátum
+    .accesskey = o
 
 ## Privacy Section - History
 

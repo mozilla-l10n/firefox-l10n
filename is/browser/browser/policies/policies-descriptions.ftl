@@ -84,6 +84,8 @@ policy-Handlers = Stilla meðhöndlun með sjálfgefnum forritum.
 policy-HardwareAcceleration = Ef rangt, slökkva á hröðun vélbúnaðar.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Stilla og mögulega loka upphafssíðu.
+policy-HttpAllowlist = Upprunar sem verða ekki uppfærðir í HTTPS.
+policy-HttpsOnlyMode = Leyfa að Einungis-HTTPS-hamur sé virkjaður.
 policy-InstallAddonsPermission = Leyfa tilteknum vefsvæðum að setja upp viðbætur.
 policy-LegacyProfiles = Slökkva á eiginleikanum sem framfylgir sérstöku notandasniði fyrir hverja uppsetningu.
 
