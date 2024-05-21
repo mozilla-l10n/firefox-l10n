@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Monospace
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,28 @@ about-reader-custom-colors-visited-links = Lidhje të vizituara
 about-reader-custom-colors-selection-highlight = Theksues për leximin me zë
     .title = Përpunoni ngjyrë
 about-reader-custom-colors-reset-button = Riktheje te parazgjedhjet
+about-reader-reset-button = Riktheje te parazgjedhjet
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Tekst
+about-reader-text-size-label = Madhësi teksti
+about-reader-font-type-selector-label = Shkronja
+about-reader-font-weight-selector-label = Trashësi shkronjash
+about-reader-font-weight-light = Të holla
+about-reader-font-weight-regular = Të rregullta
+about-reader-font-weight-bold = Të trasha
 about-reader-layout-header = Skemë
-about-reader-advanced-layout-header = Të mëtejshme
-about-reader-slider-label-width-narrow = E ngushtë
-about-reader-slider-label-width-wide = E gjerë
-about-reader-slider-label-spacing-narrow = E ngushtë
 about-reader-slider-label-spacing-standard = Standarde
 about-reader-slider-label-spacing-wide = E gjerë
 about-reader-content-width-label =
     .label = Gjerësi lënde
 about-reader-line-spacing-label =
     .label = Hapësirë mes rreshtash
+about-reader-advanced-layout-header = Të mëtejshme
+about-reader-slider-label-width-narrow = E ngushtë
+about-reader-slider-label-width-wide = E gjerë
+about-reader-slider-label-spacing-narrow = E ngushtë
 about-reader-character-spacing-label =
     .label = Hapësirë mes shenjash
 about-reader-word-spacing-label =
