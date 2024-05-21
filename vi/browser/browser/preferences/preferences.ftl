@@ -587,6 +587,10 @@ home-prefs-recent-activity-description = Tuyển chọn các trang và nội dun
 home-prefs-snippets-header =
     .label = Ghi chú nhỏ
 home-prefs-snippets-description-new = Mẹo và tin tức từ { -vendor-short-name } và { -brand-product-name }
+home-prefs-weather-header =
+    .label = Thời tiết
+home-prefs-weather-description = Sơ lược về dự báo hôm nay
+home-prefs-weather-learn-more-link = Tìm hiểu thêm
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -896,6 +900,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Sử dụng mật khẩu chính
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Yêu cầu thiết bị đăng nhập để điền và quản lý mật khẩu
 forms-primary-pw-learn-more-link = Tìm hiểu thêm
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -928,6 +935,13 @@ primary-password-os-auth-dialog-message-win = Để tạo mật khẩu chính, h
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = tạo một mật khẩu chính
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] thay đổi cài đặt cho phương thức thanh toán
+       *[other] { -brand-short-name } đang cố gắng thay đổi cài đặt cho phương thức thanh toán. Sử dụng thiết bị đăng nhập của bạn để cho phép điều này.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -949,6 +963,9 @@ autofill-reauth-checkbox =
         [linux] Yêu cầu xác thực trên Linux để điền và chỉnh sửa phương thức thanh toán.
        *[other] Yêu cầu xác thực để điền và chỉnh sửa phương thức thanh toán.
     }
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Yêu cầu thiết bị đăng nhập để điền và quản lý phương thức thanh toán
     .accesskey = o
 
 ## Privacy Section - History

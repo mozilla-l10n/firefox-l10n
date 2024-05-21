@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Tìm kiếm thẻ
-
 all-tabs-menu-new-user-context =
     .label = Ngăn chứa thẻ mới
-
 all-tabs-menu-hidden-tabs =
     .label = Thẻ đã ẩn
-
 all-tabs-menu-manage-user-context =
     .label = Quản lý ngăn chứa
     .accesskey = O
+all-tabs-menu-close-duplicate-tabs =
+    .label = Đóng các thẻ trùng

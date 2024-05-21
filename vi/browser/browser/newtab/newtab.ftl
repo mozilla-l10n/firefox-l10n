@@ -271,6 +271,9 @@ newtab-custom-recent-subtitle = Tuyển chọn các trang và nội dung gần �
 newtab-custom-recent-toggle =
     .label = Hoạt động gần đây
     .description = Tuyển chọn các trang và nội dung gần đây
+newtab-custom-weather-toggle =
+    .label = Thời tiết
+    .description = Sơ lược về dự báo hôm nay
 newtab-custom-close-button = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
 
@@ -294,3 +297,32 @@ newtab-wallpaper-dark-city = Phong cảnh thành phố màu tím
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Hình ảnh bởi <a data-l10n-name="name-link">{ $author_string }</a> trên <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Xem dự báo với { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Được tài trợ
+newtab-weather-menu-change-location = Thay đổi khu vực
+newtab-weather-change-location-search-input = Tìm kiếm khu vực
+newtab-weather-menu-weather-display = Cách hiển thị thời tiết
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Đơn giản
+newtab-weather-menu-change-weather-display-simple = Chuyển sang xem đơn giản
+newtab-weather-menu-weather-display-option-detailed = Chi tiết
+newtab-weather-menu-change-weather-display-detailed = Chuyển sang xem chi tiết
+newtab-weather-menu-temperature-units = Đơn vị nhiệt độ
+newtab-weather-menu-temperature-option-fahrenheit = Độ F
+newtab-weather-menu-temperature-option-celsius = Độ C
+newtab-weather-menu-change-temperature-units-fahrenheit = Chuyển sang độ F
+newtab-weather-menu-change-temperature-units-celsius = Chuyển sang độ C
+newtab-weather-menu-hide-weather = Ẩn thời tiết trên thẻ mới
+newtab-weather-menu-learn-more = Tìm hiểu thêm
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Dữ liệu thời tiết hiện không có sẵn.

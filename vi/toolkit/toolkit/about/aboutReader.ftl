@@ -64,6 +64,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Monospace
 
 ## Reader View toolbar buttons
 
@@ -95,20 +96,28 @@ about-reader-custom-colors-visited-links = Liên kết đã truy cập
 about-reader-custom-colors-selection-highlight = Công cụ đánh dấu để đọc to
     .title = Chỉnh sửa màu
 about-reader-custom-colors-reset-button = Khôi phục về mặc định
+about-reader-reset-button = Khôi phục về mặc định
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Chữ
+about-reader-text-size-label = Cỡ chữ
+about-reader-font-type-selector-label = Phông chữ
+about-reader-font-weight-selector-label = Độ dày phông chữ
+about-reader-font-weight-light = Mỏng
+about-reader-font-weight-regular = Thông thường
+about-reader-font-weight-bold = Dày
 about-reader-layout-header = Bố cục
-about-reader-advanced-layout-header = Nâng cao
-about-reader-slider-label-width-narrow = Hẹp
-about-reader-slider-label-width-wide = Rộng
-about-reader-slider-label-spacing-narrow = Hẹp
 about-reader-slider-label-spacing-standard = Tiêu chuẩn
 about-reader-slider-label-spacing-wide = Rộng
 about-reader-content-width-label =
     .label = Chiều rộng nội dung
 about-reader-line-spacing-label =
     .label = Khoảng cách dòng
+about-reader-advanced-layout-header = Nâng cao
+about-reader-slider-label-width-narrow = Hẹp
+about-reader-slider-label-width-wide = Rộng
+about-reader-slider-label-spacing-narrow = Hẹp
 about-reader-character-spacing-label =
     .label = Khoảng cách kí tự
 about-reader-word-spacing-label =
