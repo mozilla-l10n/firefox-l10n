@@ -22,7 +22,7 @@ newtab-search-box-search-button =
     .aria-label = ڳولو
 # Variables:
 #   $engine (string) - The name of the user's default search engine
-newtab-search-box-handoff-text = { $engine } نال ڳولو یا پتہ درج کرو
+newtab-search-box-handoff-text = ‏{ $engine } نال ڳولو یا پتہ درج کرو
 newtab-search-box-handoff-text-no-engine = ڳولو یا پتہ درج کرو
 # Variables:
 #   $engine (string) - The name of the user's default search engine
@@ -295,3 +295,6 @@ newtab-wallpaper-dark-city = ڄَمُّوں رنگ دے شہر د امنظر
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_string }</a> تے <a data-l10n-name="name-link">{ $author_string }</a> ولوں فوٹو
+
+## New Tab Weather
+
