@@ -601,6 +601,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = Ñemoñe’ẽ ha marandu { -vendor-short-name } ha { -brand-product-name } rehegua
 home-prefs-weather-header =
     .label = Arapytu
+home-prefs-weather-description = Ehecha arapytu reko ko ára rehegua
 home-prefs-weather-learn-more-link = Eikuaave
 # Variables:
 #   $num (number) - Number of rows displayed
