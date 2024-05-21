@@ -191,6 +191,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Ghi nhớ quyết định này
+webrtc-remember-allow-checkbox-camera = Ghi nhớ cho tất cả các máy ảnh
+webrtc-remember-allow-checkbox-microphone = Ghi nhớ cho tất cả các micrô
+webrtc-remember-allow-checkbox-camera-and-microphone = Ghi nhớ cho tất cả máy ảnh và micrô
 webrtc-mute-notifications-checkbox = Ẩn thông báo trang web khi chia sẻ
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } có thể vĩnh viễn không cho phép quyền truy cập vào màn hình của bạn.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } không thể cho phép vĩnh viễn quyền truy cập vào phần âm thanh của thẻ mà không cần yêu cầu thẻ đó chia sẻ.

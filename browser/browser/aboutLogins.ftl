@@ -158,6 +158,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Để chỉnh sửa thông 
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = chỉnh sửa thông tin đăng nhập đã lưu
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] thay đổi cài đặt cho mật khẩu
+       *[other] { -brand-short-name } đang cố gắng thay đổi cài đặt cho mật khẩu. Sử dụng thiết bị đăng nhập của bạn để cho phép điều này.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Để chỉnh sửa mật khẩu, hãy nhập thông tin đăng nhập Windows của bạn. Điều này giúp bảo vệ tính bảo mật cho tài khoản của bạn.
 # This message can be seen when attempting to edit a login in about:logins
@@ -234,11 +241,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Thao tác này sẽ xóa thông tin đăng nhập bạn đã lưu vào { -brand-short-name } trên tất cả các thiết bị được đồng bộ hóa với { -fxaccount-brand-name } của bạn. Thao tác này cũng sẽ xóa các cảnh báo rò rỉ xuất hiện ở đây. Bạn sẽ không thể hoàn tác hành động này.
        *[other] Thao tác này sẽ xóa tất cả các thông tin đăng nhập bạn đã lưu vào { -brand-short-name } trên tất cả các thiết bị được đồng bộ hóa với { -fxaccount-brand-name } của bạn. Thao tác này cũng sẽ xóa các cảnh báo rò rỉ xuất hiện ở đây. Bạn sẽ không thể hoàn tác hành động này.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Thao tác này sẽ xóa thông tin đăng nhập bạn đã lưu vào { -brand-short-name } trên tất cả các thiết bị được đồng bộ hóa với tài khoản của bạn. Thao tác này cũng sẽ xóa các cảnh báo rò rỉ dữ liệu xuất hiện ở đây. Bạn sẽ không thể hoàn tác hành động này.
-       *[other] Thao tác này sẽ xóa tất cả thông tin đăng nhập bạn đã lưu vào { -brand-short-name } trên tất cả các thiết bị được đồng bộ hóa với tài khoản của bạn. Thao tác này cũng sẽ xóa các cảnh báo rò rỉ dữ liệu xuất hiện ở đây. Bạn sẽ không thể hoàn tác hành động này.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
