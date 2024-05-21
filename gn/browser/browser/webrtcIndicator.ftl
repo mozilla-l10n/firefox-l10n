@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Eñemomandu’a mba’épepa ojepyta
+webrtc-remember-allow-checkbox-camera = Opaite ta’ãnganohẽhápe g̃uarã
+webrtc-remember-allow-checkbox-microphone = Opaite ñe’ẽatahápe g̃uarã
+webrtc-remember-allow-checkbox-camera-and-microphone = Opaite ta’ãnganohẽha ha ñe’ẽatahápe g̃uarã
 webrtc-mute-notifications-checkbox = Emokirirĩ ñanduti renda marandu’i emoherakuã aja
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ndaikatúi omoneĩ mba’erechahápe jeike tapia.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ndaikatúi omoneĩ tendayke mba’epúpe jeike tapia oporandu’ỹre mba’e tendayképa omoherakuãta.
