@@ -916,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Eiporu ñe’ẽñemi ñepyrũgua
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Emoñepyrũ tembiapo mba’e’okápe emoinge ha eñangareko hag̃ua ñe’ẽñemíre
 forms-primary-pw-learn-more-link = Eikuaave
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -948,6 +951,12 @@ primary-password-os-auth-dialog-message-win = Emoheñói hag̃ua ñe’ẽñemi 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = emoheñói Ñe’ẽñemi Ñepyrũgua
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] emoambue jehepyme’ẽrã ñemboheko
+       *[other] { -brand-short-name } omoambuese jehepyme’ẽrã ñemboheko. Emoñepyrũ tembiapo ne mba’e’okápe emoneĩ hag̃ua ko jeku’e.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -970,6 +979,9 @@ autofill-reauth-checkbox =
         [linux] Ejerure Linux ñemoneĩ emyanehẽ hag̃ua ha embosako’i mba’éicha ehepyme’ẽta.
        *[other] Ejerure ñemoneĩ emyanehẽ hag̃ua ha embosako’i mba’éicha ehepyme’ẽta.
     }
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Emoñepyrũ tembiapo mba’e’okápe emoinge ha eñangareko hag̃ua jehepyme’ẽrã
     .accesskey = o
 
 ## Privacy Section - History
