@@ -297,6 +297,8 @@ newtab-wallpaper-attribution = Photo per <a data-l10n-name="name-link">{ $author
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsorisate
+newtab-weather-menu-change-location = Cambiar loco
+newtab-weather-change-location-search-input = Cercar loco
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
