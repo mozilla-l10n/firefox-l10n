@@ -107,6 +107,7 @@ about-reader-reset-button = Restablecer predeterminados
 about-reader-text-header = Texto
 about-reader-text-size-label = Tamaño del texto
 about-reader-font-type-selector-label = Tipo de letra
+about-reader-font-weight-selector-label = Grosor de tipografía
 about-reader-font-weight-light = Claro
 about-reader-font-weight-regular = Regular
 about-reader-font-weight-bold = Negrita
