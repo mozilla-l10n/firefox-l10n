@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Mbaje mend këtë vendim
+webrtc-remember-allow-checkbox-camera = Mbaje mend për krejt kamerat
+webrtc-remember-allow-checkbox-microphone = Mbaje mend për krejt mikrofonat
+webrtc-remember-allow-checkbox-camera-and-microphone = Mbaje mend për krejt kamerat dhe mikrofonat
 webrtc-mute-notifications-checkbox = Mos shfaq njoftime sajti, kur ndahen gjëra me të tjerë
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } s’mund të lejojë hyrje të përhershme në ekranin tuaj.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } s’mund të lejojë hyrje të përhershme te audio e skedës tuaj pa pyetur se për cilën skedë.

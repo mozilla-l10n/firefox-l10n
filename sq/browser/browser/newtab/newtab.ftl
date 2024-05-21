@@ -270,7 +270,7 @@ newtab-custom-recent-toggle =
     .description = Një përzgjedhje sajtesh dhe lënde së fundi
 newtab-custom-weather-toggle =
     .label = Moti
-    .description = Parashikimi për sot me një vështrim
+    .description = Parashikimi i motit për sot me një vështrim
 newtab-custom-close-button = Mbylle
 newtab-custom-settings = Administroni më tepër rregullime
 

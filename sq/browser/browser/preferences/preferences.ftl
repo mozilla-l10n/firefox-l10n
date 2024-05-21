@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = Një përzgjedhje sajtesh dhe lënde s�
 home-prefs-snippets-header =
     .label = Copëza
 home-prefs-snippets-description-new = Ndihmëza dhe lajme nga { -vendor-short-name } dhe { -brand-product-name }
+home-prefs-weather-header =
+    .label = Moti
+home-prefs-weather-description = Parashikimi për sot me një vështrim
+home-prefs-weather-learn-more-link = Mësoni më tepër
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Përdorni një Fjalëkalim të Përgjithshëm
     .accesskey = P
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Kërko bërje hyrjeje në pajisje, për të plotësuar dhe administruar fjalëkalime
 forms-primary-pw-learn-more-link = Mësoni më tepër
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -944,6 +951,13 @@ primary-password-os-auth-dialog-message-win = Që të krijoni një Fjalëkalim t
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = të krijojë një Fjalëkalim të Përgjithshëm
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] ndrysho rregullimet për metoda pagesash
+       *[other] { -brand-short-name }-i po provon të ndryshojë rregullimet për metoda pagesash. Për ta lejuar këtë, përdorni hyrjen në pajisjen tuaj.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -966,6 +980,9 @@ autofill-reauth-checkbox =
        *[other] Kërko mirëfilltësim, për të plotësuar dhe përpunuar metoda pagimi.
     }
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Kërko bërje hyrjeje në pajisje, për të plotësuar dhe administruar metoda pagesash
+    .accesskey = o
 
 ## Privacy Section - History
 
