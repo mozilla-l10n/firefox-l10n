@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = A döntés megjegyzése
+webrtc-remember-allow-checkbox-camera = Megjegyzés az összes kameránál
+webrtc-remember-allow-checkbox-microphone = Megjegyzés az összes mikrofonnál
+webrtc-remember-allow-checkbox-camera-and-microphone = Megjegyzés az összes kameránál és mikrofonnál
 webrtc-mute-notifications-checkbox = Webhely értesítéseinek elnémítása megosztás közben
 webrtc-reason-for-no-permanent-allow-screen = A { -brand-short-name } nem teszi lehetővé a képernyőhöz történő állandó hozzáférést.
 webrtc-reason-for-no-permanent-allow-audio = A { -brand-short-name } nem teszi lehetővé a lap hangjához történő állandó hozzáférést, a megosztandó lap megkérdezése nélkül.
