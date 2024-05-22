@@ -187,6 +187,13 @@ about-logins-edit-login-os-auth-dialog-message-win = I olygu eich mewngofnod, rh
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = golygu'r mewngofnod sydd wedi'i gadw
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] newid y gosodiadau arr gyfer cyfrineiriau
+       *[other] Mae { -brand-short-name } yn ceisio newid y gosodiadau ar gyfer cyfrineiriau. Defnyddiwch fewngofnodi eich dyfais i ganiatáu hyn.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = I olygu'ch cyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i ddiogelu diogelwch eich cyfrifon.
 # This message can be seen when attempting to edit a login in about:logins
@@ -293,16 +300,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -fxaccount-brand-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
         [many] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -fxaccount-brand-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
        *[other] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -fxaccount-brand-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Bydd hyn yn tynnu'r mewngofnodion rydych wedi'i gadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
-        [zero] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
-        [one] Bydd hyn yn tynnu'r mewngofnodion rydych wedi'i gadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
-        [two] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
-        [few] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
-        [many] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
-       *[other] Bydd hyn yn tynnu'r holl fewngofnodion rydych wedi'u cadw i { -brand-short-name } ar bob dyfais sy'n cael ei gydweddu i'ch { -brand-short-name }. Bydd hyn hefyd yn dileu rhybuddion tor-data sy'n ymddangos yma. Nid oes modd i chi ddadwneud y weithred hon.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
