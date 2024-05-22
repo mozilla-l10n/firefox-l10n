@@ -325,3 +325,5 @@ newtab-weather-menu-change-temperature-units-fahrenheit = Váltás Fahrenheitre
 newtab-weather-menu-change-temperature-units-celsius = Váltás Celsiusra
 newtab-weather-menu-hide-weather = Időjárás elrejtése az Új lapon
 newtab-weather-menu-learn-more = További tudnivalók
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Az időjárásadatok most nem érhetők el

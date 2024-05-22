@@ -84,6 +84,8 @@ policy-Handlers = Alapértelmezett alkalmazáskezelők beállítása
 policy-HardwareAcceleration = Ha hamis, akkor kikapcsolja a hardveres gyorsítást.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = A kezdőlap beállítása, és választható módon, annak zárolása.
+policy-HttpAllowlist = Eredetek, amelyek nem lesznek HTTPS-re frissítve.
+policy-HttpsOnlyMode = A Csak HTTPS mód bekapcsolásának engedélyezése.
 policy-InstallAddonsPermission = Bizonyos weboldalak telepíthetnek kiegészítőket.
 policy-LegacyProfiles = A funkció letiltása, amely kikényszeríti, hogy minden telepítés külön profilt használjon
 
