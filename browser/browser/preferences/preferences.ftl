@@ -970,7 +970,7 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 # The macOS string is preceded by the operating system with "Firefox is trying to ".
 autofill-creditcard-os-dialog-message =
     { PLATFORM() ->
-        [macos] newid y gosodiadau dulliau talu
+        [macos] newid gosodiadau'r dulliau talu
        *[other] Mae { -brand-short-name } yn ceisio newid gosodiadau cyfrineiriau. Defnyddiwch fewngofnodi eich dyfais i ganiatáu hyn.
     }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
