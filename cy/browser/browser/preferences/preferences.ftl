@@ -611,6 +611,10 @@ home-prefs-recent-activity-description = Detholiad o wefannau a chynnwys diwedda
 home-prefs-snippets-header =
     .label = Pytiau
 home-prefs-snippets-description-new = Awgrymiadau a newyddion gan { -vendor-short-name } a { -brand-product-name }
+home-prefs-weather-header =
+    .label = Y Tywydd
+home-prefs-weather-description = Cipolwg ar ragolygon heddiw
+home-prefs-weather-learn-more-link = Dysgu rhagor
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -928,6 +932,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Defnyddio Prif Gyfrinair
     .accesskey = P
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Gofyn am fewngofnodi dyfais i lenwi a rheoli cyfrineiriau
 forms-primary-pw-learn-more-link = Darllen rhagor
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -960,6 +967,13 @@ primary-password-os-auth-dialog-message-win = I greu Prif Gyfrinair, nodwch fany
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = creu Prif Gyfrinair
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] newid y gosodiadau dulliau talu
+       *[other] Mae { -brand-short-name } yn ceisio newid gosodiadau cyfrineiriau. Defnyddiwch fewngofnodi eich dyfais i ganiatáu hyn.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -982,6 +996,9 @@ autofill-reauth-checkbox =
        *[other] Angen dilysu i lanw a golygu dulliau talu.
     }
     .accesskey = d
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Gofyn am fewngofnodi dyfais i lenwi a rheoli dulliau talu
+    .accesskey = t
 
 ## Privacy Section - History
 

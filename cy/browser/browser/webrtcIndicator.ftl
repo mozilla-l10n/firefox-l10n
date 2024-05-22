@@ -247,6 +247,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Cofio'r penderfyniad yma
+webrtc-remember-allow-checkbox-camera = Cofio am bob camera
+webrtc-remember-allow-checkbox-microphone = Cofio am bob meicroffon
+webrtc-remember-allow-checkbox-camera-and-microphone = Cofio am bob camera a meicroffon
 webrtc-mute-notifications-checkbox = Tewi hysbysiadau gwefan tra'n rhannu
 webrtc-reason-for-no-permanent-allow-screen = Nid yw { -brand-short-name } yn caniatáu mynediad parhaus i'ch sgrin.
 webrtc-reason-for-no-permanent-allow-audio = Nid yw { -brand-short-name } yn gallu caniatáu mynediad parhaol i sain eich tab heb ofyn pa dab i'w rannu.

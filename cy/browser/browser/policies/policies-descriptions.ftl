@@ -84,6 +84,8 @@ policy-Handlers = Ffurfweddu trinwyr rhaglenni rhagosodedig.
 policy-HardwareAcceleration = Os gau, diffodd cyflymu caledwedd.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Gosod ac o ddewis cloi'r dudalen cartref.
+policy-HttpAllowlist = Gwreiddiau na fyddant yn cael eu huwchraddio i HTTPS.
+policy-HttpsOnlyMode = Caniatáu i'r Modd HTTPS yn Unig gael ei alluogi.
 policy-InstallAddonsPermission = Caniatáu i rai gwefannau i osod ychwanegion
 policy-LegacyProfiles = Analluoga'r nodwedd gan orfodi proffil ar wahân ar gyfer pob gosodiad
 
