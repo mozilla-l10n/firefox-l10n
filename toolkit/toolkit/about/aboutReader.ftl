@@ -72,6 +72,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Monospace
 
 ## Reader View toolbar buttons
 
@@ -103,20 +104,28 @@ about-reader-custom-colors-visited-links = Dolenni wedi cael ymweliad
 about-reader-custom-colors-selection-highlight = Amlygwr ar gyfer darllen yn uchel
     .title = Golygu'r lliw
 about-reader-custom-colors-reset-button = Ailosod rhagosodiadau
+about-reader-reset-button = Ailosod rhagosodiadau
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Testun
+about-reader-text-size-label = Maint testun
+about-reader-font-type-selector-label = Ffont
+about-reader-font-weight-selector-label = Pwysau ffont
+about-reader-font-weight-light = Golau
+about-reader-font-weight-regular = Arferol
+about-reader-font-weight-bold = Trwm
 about-reader-layout-header = Cynllun
-about-reader-advanced-layout-header = Uwch
-about-reader-slider-label-width-narrow = Cul
-about-reader-slider-label-width-wide = Llydan
-about-reader-slider-label-spacing-narrow = Cul
 about-reader-slider-label-spacing-standard = Safonol
 about-reader-slider-label-spacing-wide = Llydan
 about-reader-content-width-label =
     .label = Lled cynnwys
 about-reader-line-spacing-label =
     .label = Bylchu llinellau
+about-reader-advanced-layout-header = Uwch
+about-reader-slider-label-width-narrow = Cul
+about-reader-slider-label-width-wide = Llydan
+about-reader-slider-label-spacing-narrow = Cul
 about-reader-character-spacing-label =
     .label = Bylchu nodau
 about-reader-word-spacing-label =
