@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = Válogatás a legutóbbi webhelyekből 
 home-prefs-snippets-header =
     .label = Töredékek
 home-prefs-snippets-description-new = Tippek és hírek a { -vendor-short-name } és a { -brand-product-name } felől
+home-prefs-weather-header =
+    .label = Időjárás
+home-prefs-weather-description = A mai előrejelzés egy pillantásnyira
+home-prefs-weather-learn-more-link = További tudnivalók
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Elsődleges jelszó használata
     .accesskey = E
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Az eszköz által biztosított bejelentkezés megkövetelése a jelszavak kitöltéséhez és kezeléséhez
 forms-primary-pw-learn-more-link = Tudjon meg többet
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -944,6 +951,13 @@ primary-password-os-auth-dialog-message-win = Elsődleges jelszó létrehozásá
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = elsődleges jelszó létrehozása
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] módosítani a fizetési módok beállításait
+       *[other] A { -brand-short-name } megpróbálja módosítani a fizetési módok beállításait. Ennek engedélyezéséhez jelentkezzen be az eszközére.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -965,6 +979,9 @@ autofill-reauth-checkbox =
         [linux] Linux-hitelesítés megkövetelése a kitöltéshez és a fizetési módok szerkesztéséhez.
        *[other] Hitelesítés megkövetelése a kitöltéshez és a fizetési módok szerkesztéséhez.
     }
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Az eszköz által biztosított bejelentkezés megkövetelése a fizetési módok kitöltéséhez és kezeléséhez
     .accesskey = o
 
 ## Privacy Section - History
