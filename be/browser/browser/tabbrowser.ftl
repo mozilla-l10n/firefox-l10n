@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Новая картка
 tabbrowser-empty-private-tab-title = Прыватная картка
-
 tabbrowser-menuitem-close-tab =
     .label = Закрыць картку
 tabbrowser-menuitem-close =
     .label = Закрыць
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -130,13 +127,17 @@ tabbrowser-confirm-caretbrowsing-title = Агляданне з курсорам
 tabbrowser-confirm-caretbrowsing-message = Націсканне F7 уключае ці выключае Агляданне з курсорам. Гэта магчымасць змяшчае рухомы паказальнік на старонках сеціва, дазваляючы вылучыць тэкст з дапамогай клавіятуры. Хочаце ўключыць Агляданне з курсорам?
 tabbrowser-confirm-caretbrowsing-checkbox = Не паказваць мне гэты дыялог зноў.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Увага
+tabbrowser-confirm-close-duplicate-tabs-text = Мы будзем трымаць адкрытай апошнюю актыўную картку
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Дазволіць такім абвесткам з { $domain } пераключаць вас на іхнюю картку
-
 tabbrowser-customizemode-tab-title = Уладкаванне { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -155,7 +156,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Уключыць гук картак
     .accesskey = ь
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Прайграванне гуку
 
