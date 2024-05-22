@@ -151,6 +151,11 @@ tabbrowser-confirm-caretbrowsing-title = Pori Caret
 tabbrowser-confirm-caretbrowsing-message = Mae pwyso F7 yn cychwyn a diffodd Pori Caret. Mae'r nodwedd hon yn gosod cyrchwr symudol ar dudalennau gwe, gan ganiatáu i chi ddewis testun gyda'r bysellfwrdd. Hoffech chi gychwyn Pori Caret?
 tabbrowser-confirm-caretbrowsing-checkbox = Peidio dangos y blwch deialog yma eto.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Rhybudd
+tabbrowser-confirm-close-duplicate-tabs-text = Byddwn yn cadw'r tab gweithredol olaf ar agor
+
 ##
 
 # Variables:
