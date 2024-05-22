@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Um die Zugangsdaten zu bear
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = gespeicherte Zugangsdaten bearbeiten
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] die Einstellungen für Passwörter ändern
+       *[other] { -brand-short-name } versucht, die Einstellungen für Passwörter zu ändern. Verwenden Sie die Anmeldung auf dem Gerät, um dies zu erlauben.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Um das Passwort zu bearbeiten, müssen die Anmeldedaten des Windows-Benutzerkontos eingegeben werden. Dies dient dem Schutz Ihrer Zugangsdaten.
 # This message can be seen when attempting to edit a login in about:logins
@@ -253,12 +260,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Dadurch werden die Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem { -fxaccount-brand-name } synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
         [one] Dadurch werden die Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem { -fxaccount-brand-name } synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
        *[other] Dadurch werden alle Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem { -fxaccount-brand-name } synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Dadurch werden die Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem Konto synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
-        [one] Dadurch werden die Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem Konto synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
-       *[other] Dadurch werden alle Zugangsdaten entfernt, die Sie in { -brand-short-name } auf allen Geräten gespeichert haben, die mit Ihrem Konto synchronisiert sind. Dadurch werden auch die hier angezeigten Warnungen zu Datenlecks entfernt. Sie können diese Aktion nicht rückgängig machen.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =

@@ -951,6 +951,12 @@ primary-password-os-auth-dialog-message-win = Um ein Hauptpasswort zu erstellen,
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Hauptpasswort festlegen
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] die Einstellungen für Zahlungsmethoden ändern
+       *[other] { -brand-short-name } versucht, die Einstellungen für Zahlungsmethoden zu ändern. Verwenden Sie die Anmeldung auf dem Gerät, um dies zu erlauben.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -974,6 +980,9 @@ autofill-reauth-checkbox =
        *[other] Authentifizierung anfordern, um Zahlungsmethoden auszufüllen und zu bearbeiten
     }
     .accesskey = A
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Anmeldung am Gerät zum Ausfüllen und Verwalten von Zahlungsmethoden verlangen
+    .accesskey = u
 
 ## Privacy Section - History
 

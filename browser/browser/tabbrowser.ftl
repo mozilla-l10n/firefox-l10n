@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Neuer Tab
 tabbrowser-empty-private-tab-title = Neuer privater Tab
-
 tabbrowser-menuitem-close-tab =
     .label = Tab schließen
 tabbrowser-menuitem-close =
     .label = Schließen
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } – { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +111,17 @@ tabbrowser-confirm-caretbrowsing-title = Mit Textcursor-Steuerung surfen
 tabbrowser-confirm-caretbrowsing-message = Das Drücken der Taste F7 schaltet das Surfen mit Textcursor-Steuerung an und aus. Diese Funktion fügt einen bewegbaren Textcursor in Webseiten ein, mit dem. z.B. Text ausgewählt werden kann. Soll die Textcursor-Steuerung aktiviert werden?
 tabbrowser-confirm-caretbrowsing-checkbox = Dieses Dialogfenster nicht mehr anzeigen.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Achtung
+tabbrowser-confirm-close-duplicate-tabs-text = Wir lassen den letzten aktiven Tab offen
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Tabs von { $domain } in den Vordergrund holen, wenn sie Benachrichtigungen wie diese anzeigen
-
 tabbrowser-customizemode-tab-title = { -brand-short-name } anpassen
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +140,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Stummschaltung für Tabs aufheben
     .accesskey = m
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Audiowiedergabe
 
