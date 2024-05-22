@@ -84,6 +84,8 @@ policy-Handlers = קביעת תצורה של מטפלים ביישומי ברי�
 policy-HardwareAcceleration = כיבוי האצת חומרה אם מוגדר כ־false.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = הגדרה ונעילה כרשות של דף הבית.
+policy-HttpAllowlist = כתובות שלא ישודרגו ל־HTTPS.
+policy-HttpsOnlyMode = לאפשר הפעלה של מצב HTTPS בלבד
 policy-InstallAddonsPermission = לאפשר לאתרים מסוימים להתקין תוספות.
 policy-LegacyProfiles = השבתת התכונה האוכפת פרופיל נפרד לכל התקנה
 
