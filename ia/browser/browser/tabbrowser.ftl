@@ -114,6 +114,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Non monstrar me plus iste fenestra d
 ## Confirmation dialog for closing all duplicate tabs
 
 tabbrowser-confirm-close-duplicate-tabs-title = Attention
+tabbrowser-confirm-close-duplicate-tabs-text = Nos mantenera aperte le ultime scheda active
 
 ##
 
