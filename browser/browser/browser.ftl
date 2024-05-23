@@ -909,6 +909,7 @@ data-reporting-notification-button =
     .accesskey = F
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Tunigin tusligt
+content-analysis-panel-title = Ammesten n ysefka
 
 ## Unified extensions (toolbar) button
 

@@ -269,3 +269,11 @@ newtab-custom-settings = Sefrek ugar n yiɣewwaṛen
 newtab-wallpaper-title = Tugniwin n ugilal
 newtab-wallpaper-reset = Wennez ɣer umezwer
 newtab-wallpaper-light-mountain = Adrar amellal
+
+## New Tab Weather
+
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Aḥerfi
+newtab-weather-menu-learn-more = Issin ugar
