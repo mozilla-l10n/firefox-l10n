@@ -913,6 +913,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Usar un contrasigno primari
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Requirer accesso al apparato pro compilar e gerer le contrasignos
 forms-primary-pw-learn-more-link = Saper plus
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -967,6 +970,9 @@ autofill-reauth-checkbox =
         [linux] Require le authentication de Linux pro compilar e modificar le methodos de pagamento.
        *[other] Require le authentication pro compilar e modificar le methodos de pagamento.
     }
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Requirer accesso al apparato pro compilar e gerer methodos de pagamento
     .accesskey = o
 
 ## Privacy Section - History
