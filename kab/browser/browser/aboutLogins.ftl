@@ -164,6 +164,9 @@ about-logins-edit-login-os-auth-dialog-message-win = Akken ad tbeddleḍ anekcam
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ẓreg isem n useqdac yettwaskelsen
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = Ẓreg awal uffir yettwaskelsen
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Akken ad twaliḍ awal-inek uffir, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -378,6 +381,7 @@ about-logins-import-report-row-index = Izirig { $number }
 about-logins-import-report-row-description-no-change = Uslig: yemsaḍa swaswa d unekcum yellan
 about-logins-import-report-row-description-modified = Anekcam yellan yettwaleqqem
 about-logins-import-report-row-description-added = Anekcum amaynut ittwarna
+about-logins-import-report-row-description-added2 = Awal uffir amaynut ittwarna
 about-logins-import-report-row-description-error = Tuccḍa: Urti ixuṣṣen
 
 ##
