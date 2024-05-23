@@ -13,8 +13,8 @@ customize-menu-add-to-toolbar =
     .label = Ավելացնել  գործիքավահանակում
     .accesskey = A
 customize-menu-add-to-overflowmenu =
-    .label = Ավելացնել Գերլցված ցանկ
-    .accesskey = M
+    .label = Ավելացնել լցված ցանկին
+    .accesskey = Ց
 
 ## Forget Button
 
