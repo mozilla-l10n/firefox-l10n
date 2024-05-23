@@ -17,7 +17,7 @@ jobs:
       - run: sudo apt-get install -y git-filter-repo mercurial
       - run: sudo curl -O https://raw.githubusercontent.com/glandium/git-cinnabar/master/download.py
         working-directory: /usr/local/bin
-      - run: sudo python download.py && sudo chmod a+rx git-cinnabar
+      - run: sudo python download.py --branch master && sudo chmod a+rx git-cinnabar
         working-directory: /usr/local/bin
       - uses: actions/checkout@v4
         with:
