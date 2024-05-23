@@ -289,4 +289,7 @@ newtab-wallpaper-dark-city = 紫色城市景观
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
-newtab-wallpaper-attribution = 照片由 <a data-l10n-name="name-link">{ $author_string }</a> 提供，来源：<a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-attribution = 照片由 <a data-l10n-name="name-link">{ $author_string }</a> 在 { $webpage_string } 上发布
+
+## New Tab Weather
+
