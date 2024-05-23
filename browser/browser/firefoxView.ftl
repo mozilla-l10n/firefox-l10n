@@ -128,7 +128,7 @@ firefoxview-view-all-link = Դիտել բոլորը
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
 firefoxview-opentabs-window-header =
-    .title = Պատուհան { $winID }
+    .title = Պատուհան՝ { $winID }
 # Variables:
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =

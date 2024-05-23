@@ -72,8 +72,8 @@ connection-proxy-socks-remote-dns =
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
-    .label = { $name } (Լռելյայն)
-    .tooltiptext = Օգտագործեք լռելյայն  URL ՝ DNS ֊ HTTPS լուծելու համար։
+    .label = { $name } (սկզբնադիր)
+    .tooltiptext = Օգտագործեք սկզբնադիր URL-ը՝ DNS-ը HTTPS-ի վրայով լուծման համար
 connection-dns-over-https-url-custom =
     .label = Հարմարեցված
     .accesskey = C

@@ -129,8 +129,8 @@ urlbar-result-menu-tip-get-help =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Մուտքագրեք քիչ, գտեք շատ. որոնեք { $engineName }-ում անմիջապես հասցեի գոտուց:
-urlbar-search-tips-redirect-2 = Սկսեք ձեր որոնումը այստեղ՝ տեսնելու ամար { $engineName }-ի առաջարկները և դիտարկումների ձեր պատմությունը:
+urlbar-search-tips-onboard = Մուտքագրեք քիչ, գտեք շատ. որոնեք { $engineName }-ում անմիջապես Ձեր հասցեագոտուց:
+urlbar-search-tips-redirect-2 = Սկսեք Ձեր որոնումը հասցեագոտում՝ տեսնելու համար { $engineName }-ի առաջարկները և Ձեր դիտարկումների պատմությունը:
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Որոնումը ավելի պարզ է դարձել: Փորձեք ավելի հստակեցնել Ձեր որոնումն այստեղ՝ հասցեագոտում: Փոխարենը հասցեն ցուցադրելու համար այցելեք «Որոնում»՝ կարգավորումներում:
 
@@ -150,7 +150,7 @@ urlbar-xr-blocked =
 urlbar-web-notifications-blocked =
     .tooltiptext = Դուք արգելափակել եք ծանուցումները այս կայքի համար:
 urlbar-camera-blocked =
-    .tooltiptext = Դուք արգելափակել եք ձեր տեսախցիկը այս կայքի համար:
+    .tooltiptext = Դուք արգելափակել եք Ձեր տեսախցիկը այս կայքի համար:
 urlbar-microphone-blocked =
     .tooltiptext = Դուք արգելափակել եք բարձրախոսը այս կայքի համար:
 urlbar-screen-blocked =
@@ -198,15 +198,15 @@ full-screen-exit =
 
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
-search-one-offs-with-title = Այս անգամ որոնել հետևյալի հետ.
+search-one-offs-with-title = Այս անգամ որոնել հետևյալով.
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Փոխել որոնման կարգավորումները
 search-one-offs-context-open-new-tab =
     .label = Որոնել Նոր Ներդիրում
     .accesskey = Ն
 search-one-offs-context-set-as-default =
-    .label = Հաստատել որպես սկզբնադիր որոնիչ
-    .accesskey = հ
+    .label = Կայել որպես սկզբնադիր որոնիչ
+    .accesskey = ս
 search-one-offs-context-set-as-default-private =
     .label = Կայել որպես սկզբնադիր որոնիչ գաղտնի պատուհանների համար
     .accesskey = Գ
@@ -221,13 +221,13 @@ search-one-offs-engine-with-alias =
 # Variables:
 #  $engineName (String): The name of the engine.
 search-one-offs-add-engine =
-    .label = Ավելացնել “{ $engineName }”-ը
-    .tooltiptext = Ավելանցնել “{ $engineName }” որոնիչը
-    .aria-label = Ավելանցնել “{ $engineName }” որոնիչը
+    .label = Ավելացնել «{ $engineName }»-ը
+    .tooltiptext = Ավելացնել «{ $engineName }» որոնիչը
+    .aria-label = Ավելացնել «{ $engineName }» որոնիչը
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
-    .label = Ավելացնել որոնման ծրագիր
+    .label = Ավելացնել որոնիչ
 
 ## Local search mode one-off buttons
 ## Variables:
@@ -504,19 +504,19 @@ urlbar-placeholder-search-mode-web-2 =
 #  $name (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
-    .placeholder = Մուտքագրեք որոնվող բառը
+    .placeholder = Մուտքագրեք որոնման եզրույթներ
     .aria-label = Որոնել { $name }-ում
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .placeholder = Մուտքագրեք որոնվող բառը
+    .placeholder = Մուտքագրեք որոնման եզրույթներ
     .aria-label = Որոնել էջանիշերում
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
-    .placeholder = Մուտքագրեք որոնվող բառը
+    .placeholder = Մուտքագրեք որոնման եզրույթներ
     .aria-label = Որոնել պատմությունում
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .placeholder = Մուտքագրեք որոնվող բառը
+    .placeholder = Մուտքագրեք որոնման եզրույթներ
     .aria-label = Որոնել ներդիրներում
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =

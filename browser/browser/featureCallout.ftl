@@ -11,7 +11,7 @@ callout-primary-complete-button-label = Հասկացա
 
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
-callout-firefox-view-tab-pickup-title = Անցեք սարքերի միջև՝ ներդիրների հավաքման միջոցով
+callout-firefox-view-tab-pickup-title = Անցեք սարքերի միջով՝ հավաքելով ներդիրներ
 callout-firefox-view-tab-pickup-subtitle = Արագ վերցրեք բաց ներդիրները ձեր հեռախոսից և բացեք դրանք այստեղ՝ առավելագույն հոսքի համար:
 callout-firefox-view-recently-closed-title = Վերադարձեք ձեր փակված  ներդիրները մի ակնթարթում
 callout-firefox-view-recently-closed-subtitle = Ձեր բոլոր փակ ներդիրները կախարդական կերպով կհայտնվեն այստեղ: Երբեք մի անհանգստացեք կայքի պատահական փակման մասին:
@@ -37,7 +37,7 @@ callout-pdfjs-edit-title = Խմբագրեք PDF ֆայլերը մեր նոր տ�
 callout-pdfjs-edit-button = Հաջորդը
 callout-pdfjs-draw-title = Ստորագրեք փաստաթղթերը մեր նոր գծագրման գործիքով
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
-callout-pdfjs-draw-body-a = Նշեք PDF ֆայլերը, այնուհետև պահեք ձեր փոփոխությունները:
+callout-pdfjs-draw-body-a = Նշեք PDF ֆայլերում, այնուհետև պահպանեք Ձեր փոփոխությունները:
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = Այլևս ոչ մի տպագրություն և սկանավորում: Նշեք PDF ֆայլերում, այնուհետև պահպանեք Ձեր փոփոխությունները:
 callout-pdfjs-draw-button = Հասկացա
