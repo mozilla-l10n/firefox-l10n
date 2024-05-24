@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Pro modificar le conto, ins
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = verifica le credentiales salvate
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] cambiar le parametros pro contrasignos
+       *[other] { -brand-short-name } tenta cambiar le parametros pro contrasignos. Usa le credentiales de tu apparato pro permitter lo.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Pro modificar tu contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
 # This message can be seen when attempting to edit a login in about:logins
