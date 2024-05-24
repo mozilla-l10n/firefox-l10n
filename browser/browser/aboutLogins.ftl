@@ -204,6 +204,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Pro úpravu přihlašovací
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = upravit uložené přihlašovací údaje
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] změnit nastavení pro hesla
+       *[other] { -brand-short-name } se snaží změnit nastavení hesel. Pokud to chcete povolit, použijte heslo k účtu na svém zařízení.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Chcete-li upravit heslo, zadejte přihlašovací údaje do systému Windows. To pomáhá chránit bezpečnost vašich účtů.
 # This message can be seen when attempting to edit a login in about:logins

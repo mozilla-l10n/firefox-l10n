@@ -1032,6 +1032,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Použít hlavní heslo
     .accesskey = P
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Vyžadovat heslo k účtu na zařízení na vyplnění a správu hesel
 forms-primary-pw-learn-more-link = Zjistit více
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1064,6 +1067,12 @@ primary-password-os-auth-dialog-message-win = Pro nastavení hlavního hesla pro
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = vytvořit hlavní heslo
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] změnit nastavení pro způsoby plateb
+       *[other] { -brand-short-name } se snaží změnit nastavení způsobů plateb. Pokud to chcete povolit, použijte heslo k účtu na svém zařízení.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -1086,6 +1095,9 @@ autofill-reauth-checkbox =
         [linux] K vyplnění a úpravě způsobů platby vyžadovat ověření Linux.
        *[other] K vyplnění a úpravě způsobů platby vyžadovat ověření.
     }
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Vyžadovat heslo k účtu na zařízení na vyplnění a správu způsobů plateb
     .accesskey = o
 
 ## Privacy Section - History
