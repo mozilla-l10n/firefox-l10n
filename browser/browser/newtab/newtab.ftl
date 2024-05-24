@@ -267,6 +267,9 @@ newtab-custom-recent-subtitle = 近期访问的网站与内容精选
 newtab-custom-recent-toggle =
     .label = 近期动态
     .description = 近期访问的网站与内容精选
+newtab-custom-weather-toggle =
+    .label = 天气
+    .description = 速览今日天气预报
 newtab-custom-close-button = 关闭
 newtab-custom-settings = 管理更多设置
 
@@ -286,6 +289,35 @@ newtab-wallpaper-dark-panda = 躲在森林里的小熊猫
 newtab-wallpaper-dark-sky = 夜空下的城市景观
 newtab-wallpaper-dark-mountain = 山地景观
 newtab-wallpaper-dark-city = 紫色城市景观
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = 照片由 <a data-l10n-name="name-link">{ $author_string }</a> 在 <a data-l10n-name="webpage-link">{ $webpage_string }</a> 上发布
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = 在“{ $provider }”上查看天气预报
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ 赞助
+newtab-weather-menu-change-location = 更改位置
+newtab-weather-change-location-search-input = 搜索位置
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = 简明
+newtab-weather-menu-change-weather-display-simple = 切换到简明视图
+newtab-weather-menu-weather-display-option-detailed = 详细
+newtab-weather-menu-change-weather-display-detailed = 切换到详细视图
+newtab-weather-menu-temperature-units = 温度单位
+newtab-weather-menu-temperature-option-fahrenheit = 华氏度
+newtab-weather-menu-temperature-option-celsius = 摄氏度
+newtab-weather-menu-change-temperature-units-fahrenheit = 切换为华氏度
+newtab-weather-menu-change-temperature-units-celsius = 切换为摄氏度
+newtab-weather-menu-hide-weather = 隐藏新标签页上的天气信息
+newtab-weather-menu-learn-more = 详细了解
+# This message is shown if user is working offline
+newtab-weather-error-not-available = 目前无法获取天气数据。

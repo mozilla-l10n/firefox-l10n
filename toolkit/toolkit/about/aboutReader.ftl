@@ -64,6 +64,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = 衬线
 about-reader-font-type-sans-serif = 无衬线
+about-reader-font-type-monospace = 等宽字体
 
 ## Reader View toolbar buttons
 
@@ -95,20 +96,28 @@ about-reader-custom-colors-visited-links = 访问过的链接
 about-reader-custom-colors-selection-highlight = 朗读功能的高亮标示
     .title = 编辑颜色
 about-reader-custom-colors-reset-button = 重置为默认设置
+about-reader-reset-button = 重置为默认设置
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = 文本
+about-reader-text-size-label = 字号
+about-reader-font-type-selector-label = 字体
+about-reader-font-weight-selector-label = 字重
+about-reader-font-weight-light = 纤细
+about-reader-font-weight-regular = 常规
+about-reader-font-weight-bold = 粗体
 about-reader-layout-header = 布局
-about-reader-advanced-layout-header = 高级
-about-reader-slider-label-width-narrow = 缩窄
-about-reader-slider-label-width-wide = 加宽
-about-reader-slider-label-spacing-narrow = 缩窄
 about-reader-slider-label-spacing-standard = 标准
 about-reader-slider-label-spacing-wide = 加宽
 about-reader-content-width-label =
     .label = 内容宽度
 about-reader-line-spacing-label =
     .label = 行距
+about-reader-advanced-layout-header = 高级
+about-reader-slider-label-width-narrow = 缩窄
+about-reader-slider-label-width-wide = 加宽
+about-reader-slider-label-spacing-narrow = 缩窄
 about-reader-character-spacing-label =
     .label = 字符间距
 about-reader-word-spacing-label =
