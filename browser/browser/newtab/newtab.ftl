@@ -331,3 +331,6 @@ newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Přepnout na stupně Fahrenheita
 newtab-weather-menu-change-temperature-units-celsius = Přepnout na stupně Celsia
 newtab-weather-menu-hide-weather = Skrýt počasí na novém panelu
+newtab-weather-menu-learn-more = Zjistit více
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Údaje o počasí nejsou momentálně dostupné.
