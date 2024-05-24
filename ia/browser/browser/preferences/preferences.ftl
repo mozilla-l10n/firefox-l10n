@@ -599,6 +599,9 @@ home-prefs-recent-activity-description = Un selection de sitos e contento recent
 home-prefs-snippets-header =
     .label = Breve novas
 home-prefs-snippets-description-new = Consilios e notitias de { -vendor-short-name } e { -brand-product-name }
+home-prefs-weather-header =
+    .label = Meteo
+home-prefs-weather-description = Prevision hodierne a un colpo de oculos
 home-prefs-weather-learn-more-link = Pro saper plus
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -948,6 +951,12 @@ primary-password-os-auth-dialog-message-win = Pro crear un contrasigno primari, 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Crear un contrasigno primari
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] cambiar le parametros pro le methodos de pagamento
+       *[other] { -brand-short-name } tenta cambiar le parametros pro methodos de pagamento.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
