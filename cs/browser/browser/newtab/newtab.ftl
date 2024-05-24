@@ -279,6 +279,9 @@ newtab-custom-recent-subtitle = Výběr z nedávných stránek a obsahu
 newtab-custom-recent-toggle =
     .label = Nedávná aktivita
     .description = Výběr z nedávných stránek a obsahu
+newtab-custom-weather-toggle =
+    .label = Počasí
+    .description = Dnešní předpověď ve zkratce
 newtab-custom-close-button = Zavřít
 newtab-custom-settings = Další nastavení
 
@@ -302,3 +305,29 @@ newtab-wallpaper-dark-city = Fialová krajina města
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotografie od autora <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Podívejte se na předpověď od { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙Sponzorované
+newtab-weather-menu-change-location = Změnit místo
+newtab-weather-change-location-search-input = Hledat umístění
+newtab-weather-menu-weather-display = Zobrazení počasí
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Jednoduché
+newtab-weather-menu-change-weather-display-simple = Přepnout na jednoduché rozhraní
+newtab-weather-menu-weather-display-option-detailed = Podrobné
+newtab-weather-menu-change-weather-display-detailed = Přepnout na podrobné zobrazení
+newtab-weather-menu-temperature-units = Jednotky teploty
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Přepnout na stupně Fahrenheita
+newtab-weather-menu-change-temperature-units-celsius = Přepnout na stupně Celsia
+newtab-weather-menu-hide-weather = Skrýt počasí na novém panelu
