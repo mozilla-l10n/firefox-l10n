@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = 搜索标签页
-
 all-tabs-menu-new-user-context =
     .label = 新建身份标签页
-
 all-tabs-menu-hidden-tabs =
     .label = 隐藏标签页
-
 all-tabs-menu-manage-user-context =
     .label = 管理身份
     .accesskey = O
+all-tabs-menu-close-duplicate-tabs =
+    .label = 关闭重复标签页

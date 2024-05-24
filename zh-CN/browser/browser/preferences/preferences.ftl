@@ -595,6 +595,9 @@ home-prefs-recent-activity-description = 近期访问的网站与内容精选
 home-prefs-snippets-header =
     .label = 只言片语
 home-prefs-snippets-description-new = 来自 { -vendor-short-name } 和 { -brand-product-name } 的使用窍门与快讯
+home-prefs-weather-header =
+    .label = 天气
+home-prefs-weather-description = 速览今日天气预报
 home-prefs-weather-learn-more-link = 详细了解
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -937,6 +940,13 @@ primary-password-os-auth-dialog-message-win = 请输入 Windows 登录凭据，�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = 创建主密码
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] 更改付款方式设置
+       *[other] { -brand-short-name } 正尝试更改付款方式设置。请使用设备登录来允许此操作。
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
