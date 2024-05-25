@@ -17,3 +17,7 @@ config-new-pref-create-button = بݨاؤ
 config-new-pref-change-button = وٹاؤ
 config-pref-toggle-button = ٹوگل
 config-pref-reset-button = ولدا ٹھیک کرو
+config-context-menu-copy-pref-name =
+    .label = ناں نقل کرو
+config-context-menu-copy-pref-value =
+    .label = قدر نقل کرو
