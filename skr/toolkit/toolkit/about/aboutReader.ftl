@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = سیرف
 about-reader-font-type-sans-serif = سینس-سیرف
+about-reader-font-type-monospace = مونو سپیس
 
 ## Reader View toolbar buttons
 
@@ -99,13 +100,20 @@ about-reader-custom-colors-visited-links = ملاحظہ کیتے ڳئے لنکس
 about-reader-custom-colors-selection-highlight = اُچّی اَواز نال پڑھݨ کِیتے ہائی لائٹر
     .title = رنگ وِچ ترمیم کرو
 about-reader-custom-colors-reset-button = طے شدہ ولا تازے کرو
+about-reader-reset-button = طے شدہ ولا تازے کرو
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = متن
+about-reader-text-size-label = عبارت سائز
+about-reader-font-type-selector-label = فونٹ
+about-reader-font-weight-light = پھکا
+about-reader-font-weight-regular = باقاعدہ
+about-reader-font-weight-bold = ٹھلا
 about-reader-layout-header = خاکہ
+about-reader-slider-label-spacing-standard = معیاری
+about-reader-slider-label-spacing-wide = موکلا
 about-reader-advanced-layout-header = ودھایا
 about-reader-slider-label-width-narrow = سوڑا
 about-reader-slider-label-width-wide = موکلا
 about-reader-slider-label-spacing-narrow = سوڑا
-about-reader-slider-label-spacing-standard = معیاری
-about-reader-slider-label-spacing-wide = موکلا
