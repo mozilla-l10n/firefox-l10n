@@ -298,3 +298,7 @@ newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_strin
 
 ## New Tab Weather
 
+newtab-weather-menu-weather-display-option-detailed = تفصیلی
+newtab-weather-menu-temperature-option-fahrenheit = فارن ہائیٹ
+newtab-weather-menu-temperature-option-celsius = سیلسیس
+newtab-weather-menu-learn-more = ٻیا سِکھو
