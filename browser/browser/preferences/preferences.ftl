@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = Uma seleção de sites e conteúdos rec
 home-prefs-snippets-header =
     .label = Excertos
 home-prefs-snippets-description-new = Dicas e notícias da { -vendor-short-name } e { -brand-product-name }
+home-prefs-weather-header =
+    .label = Meteorologia
+home-prefs-weather-description = Um relance da previsão para hoje
+home-prefs-weather-learn-more-link = Saber mais
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Utilizar uma palavra-passe principal
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Requerer início de sessão no dispositivo para preencher e gerir palavras-passe
 forms-primary-pw-learn-more-link = Saber mais
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -944,6 +951,13 @@ primary-password-os-auth-dialog-message-win = Para criar uma palavra-passe princ
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = criar uma palavra-passe principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] alterar as definições dos métodos de pagamento
+       *[other] O { -brand-short-name } está a tentar alterar as definições dos métodos de pagamento. Utilize o início de sessão do seu dispositivo para permitir isto.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -965,6 +979,9 @@ autofill-reauth-checkbox =
         [linux] Requer a autenticação do Linux para preencher e editar os métodos de pagamento.
        *[other] Requer a autenticação para preencher e editar os métodos de pagamento.
     }
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Requerer o início de sessão no dispositivo para preencher e gerir métodos de pagamento
     .accesskey = o
 
 ## Privacy Section - History
