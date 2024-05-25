@@ -599,6 +599,9 @@ home-prefs-recent-activity-description = حالیہ سائٹاں تے مواد �
 home-prefs-snippets-header =
     .label = ٹکڑے
 home-prefs-snippets-description-new = { -vendor-short-name } تے { -brand-product-name } کنوں تجویزاں تے خبراں
+home-prefs-weather-header =
+    .label = موسم
+home-prefs-weather-learn-more-link = ٻیا سِکھو
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
