@@ -947,6 +947,7 @@ primary-password-os-auth-dialog-message-win = ہک منڈھلا پاس ورڈ ب
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ہک منڈھلا پاس ورڈ بݨاؤ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 

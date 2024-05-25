@@ -298,6 +298,10 @@ newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_strin
 
 ## New Tab Weather
 
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = سادہ
 newtab-weather-menu-weather-display-option-detailed = تفصیلی
 newtab-weather-menu-temperature-option-fahrenheit = فارن ہائیٹ
 newtab-weather-menu-temperature-option-celsius = سیلسیس
