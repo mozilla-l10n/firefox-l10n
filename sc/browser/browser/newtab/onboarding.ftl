@@ -53,6 +53,9 @@ mr1-onboarding-import-primary-button-label-attribution = Importa dae { $previous
 mr1-onboarding-theme-header = Personaliza·ddu
 mr1-onboarding-theme-subtitle = Personaliza { -brand-short-name } cun unu tema.
 mr1-onboarding-theme-secondary-button-label = Immoe nono
+newtab-wallpaper-onboarding-title = Proa un’istrichiddu de colore
+newtab-wallpaper-onboarding-subtitle = Sèbera un'isfundu pro donare a s'ischeda noa unu tonu friscu.
+newtab-wallpaper-onboarding-primary-button-label = Cunfigura isfundu
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema de sistema
 mr1-onboarding-theme-label-light = Craru
@@ -349,6 +352,9 @@ onboarding-gratitude-security-and-privacy-subtitle = Gràtzias de impreare { -br
 onboarding-new-user-time-based-survey-title = Dae cantu tempus impreas { -brand-short-name }?
 onboarding-new-user-familiarity-based-survey-title = Cantu connosches { -brand-short-name }?
 onboarding-new-user-survey-subtitle = S’opinione tua nos agiudat a fàghere chi { -brand-short-name } siat fintzas mègius.
+# When translating "next" it means the next screen in onboarding.
+onboarding-new-user-survey-next-button-label = Imbeniente
+onboarding-new-user-survey-legal-link-label = Seberende “{ onboarding-new-user-survey-next-button-label },” atzetas s' <a data-l10n-name="privacy_notice">avisu de riservadesa</a> de { -brand-product-name }
 # When translating "brand new" it means completely new.
 onboarding-new-user-survey-time-based-option-1 = Apo cumintzadu dae pagu
 onboarding-new-user-survey-time-based-option-2 = Prus pagu de 1 mese

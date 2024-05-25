@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Aberi { $targetURI } in un’ischeda noa
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Serra { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Serra { $tabTitle }
@@ -51,15 +55,22 @@ fxviewtabrow-move-tab-window = Move a una ventana noa
     .accesskey = n
 fxviewtabrow-send-tab = Imbia s’ischeda a unu dispositivu
     .accesskey = d
+fxviewtabrow-pin-tab = Apica ischeda
+    .accesskey = A
+fxviewtabrow-unpin-tab = Boga s'ischeda
+    .accesskey = B
+fxviewtabrow-mute-tab = Pone s'ischeda a sa muda
+    .accesskey = m
+fxviewtabrow-unmute-tab = Ativa s'àudio de s'ischeda
+    .accesskey = A
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
     .title = Optziones pro { $tabTitle }
-# Variables:
-#   $tabTitle (string) - Title of tab being muted
-fxviewtabrow-mute-tab-button =
-    .title = Pone { $tabTitle } a sa muda
-# Variables:
-#   $tabTitle (string) - Title of tab being unmuted
-fxviewtabrow-unmute-tab-button =
-    .title = Ativa àudio pro { $tabTitle }
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Pone s'ischeda a sa muda
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Ativa s'àudio de s'ischeda
