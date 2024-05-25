@@ -52,9 +52,9 @@ about-reader-estimated-read-time =
 ## These are used as tooltips in Type Control
 
 about-reader-toolbar-minus =
-    .title = Decrease Font Size
+    .title = Decrease font size
 about-reader-toolbar-plus =
-    .title = Increase Font Size
+    .title = Increase font size
 about-reader-toolbar-contentwidthminus =
     .title = Decrease Content Width
 about-reader-toolbar-contentwidthplus =
