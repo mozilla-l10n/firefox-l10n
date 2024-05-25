@@ -12,6 +12,11 @@ webauthn-pin-invalid-long-prompt =
 webauthn-pin-invalid-short-prompt = PIN isballiadu. Torra a proare.
 webauthn-pin-required-prompt = Inserta su còdighe PIN pro su dispositivu tuo.
 webauthn-select-sign-result-unknown-account = Contu disconnotu
+webauthn-a-passkey-label = Imprea una crae de atzessu
+webauthn-another-passkey-label = Imprea un'àtera crae de atzessu
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Crae de atzessu pro { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

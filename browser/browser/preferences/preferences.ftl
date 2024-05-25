@@ -261,6 +261,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Ismànnia isceti su testu
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Atentzione: si sèberas “Ismànnia isceti su testu” e s'ingrandimentu predefinidu tuo no est cunfiguradu a su 100%, calicunu situ o cuntenutu diat pòdere funtzionare male.
 language-header = Limba
 choose-language-description = Sèbera sa limba preferida tua pro ammustrare pàginas
 choose-button =
@@ -567,6 +569,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Cussigiados dae { $provider }
 home-prefs-recommended-by-description-new = Cuntenutu de primore curadu dae { $provider }, parte de sa famìlia de { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Istòrias cussigiadas
+home-prefs-recommended-by-description-generic = Cuntenutu de primore curadu dae sa famìlia de { -brand-product-name }
 
 ##
 

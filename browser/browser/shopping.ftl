@@ -64,6 +64,11 @@ shopping-message-bar-analysis-in-progress-with-amount = Controllende sa calidade
 shopping-message-bar-page-not-supported =
     .heading = Non podimus verificare custas retzensiones
     .message = A dolu mannu, non podimus verificare sa calidade de sa retzensione pro tzertas genias de produtos. Pro esèmpiu, cartas regalu e trasmissione de vìdeos, mùsica e giogos.
+shopping-message-bar-keep-closed-header =
+    .heading = Ddu boles mantènnere serradu?
+    .message = Podes atualizare is cunfiguratziones pro mantènnere su verificadore de retzensiones serradu de manera predefinida. Immoe s'aberit in automàticu.
+shopping-message-bar-keep-closed-dismiss-button = No, gràtzias
+shopping-message-bar-keep-closed-accept-button = Eja, mantene serradu
 
 ## Strings for the product review snippets card
 
@@ -89,6 +94,19 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more2 = Dias pòdere bìdere publitzidades pro produtos rilevantes. Promovimus isceti produtos cun retzensiones fidadas. <a data-l10n-name="review-quality-url">Àteras informatziones</a>
 shopping-settings-opt-out-button = Disativa su verificadore de retzensiones
 powered-by-fakespot = Su verificadore de retzensiones impreat <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Aberi in automàticu su verificadore de retzensiones
+# Description text for regions where we support three sites. Sites are limited to Amazon, Walmart and Best Buy.
+# Variables:
+#   $firstSite (String) - The first shopping page name
+#   $secondSite (String) - The second shopping page name
+#   $thirdSite (String) - The third shopping page name
+shopping-settings-auto-open-description-three-sites = Cando visualizas produtos in { $firstSite }, { $secondSite } e { $thirdSite }
+# Description text for regions where we support only one site (e.g. currently used in FR/DE with Amazon).
+# Variables:
+#   $currentSite (String) - The current shopping page name
+shopping-settings-auto-open-description-single-site = Cando visualizas produtos in { $currentSite }
+shopping-settings-sidebar-enabled-state = Su verificadore de retzensiones est <strong>ativu</strong>
 
 ## Strings for the adjusted rating component
 
@@ -171,6 +189,22 @@ shopping-callout-pdp-opted-in-title = Custas retzensiones sunt fidadas? Iscoberi
 shopping-callout-pdp-opted-in-subtitle = Aberi su verificadore de retzensiones pro visualizare sa valutatzione assentada chene de retzensiones non fidadas. In prus, càstia is elementos in evidèntzia dae is retzensiones autènticas reghentes.
 shopping-callout-closed-not-opted-in-title = Retzensiones fidadas cun unu clic
 shopping-callout-closed-not-opted-in-subtitle = Prova su verificadore de retzensiones cando bides s’eticheta de su prètziu. Otene informatziones dae clientes reales a sa lestra in antis de comporare.
+shopping-callout-closed-not-opted-in-revised-title = Retzensiones fidadas cun unu clic
+shopping-callout-closed-not-opted-in-revised-subtitle = Incarca s'icona de su prètziu in sa barra de indiritzos pro torrare a su verificadore de retzensiones.
+shopping-callout-closed-not-opted-in-revised-button = Apo cumprèndidu
+shopping-callout-not-opted-in-reminder-title = Còmpora cun cunfiàntzia
+shopping-callout-not-opted-in-reminder-subtitle = No ischis si is retzensiones de unu produtu sunt veras o farsas? Su verificadore de retzensiones de { -brand-product-name } ti podet agiudare.
+shopping-callout-not-opted-in-reminder-open-button = Aberi su verificadore de retzensiones
+shopping-callout-not-opted-in-reminder-close-button = Iscarta
+shopping-callout-not-opted-in-reminder-ignore-checkbox = No ammustres prus
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Disinnos astratos de tres retzensiones de produtos. Unu tenet unu sìmbolu de avisu chi inditat chi diat pòdere èssere suspetu.
+shopping-callout-disabled-auto-open-title = Su verificadore de retzensiones immoe est serradu de manera predefinida
+shopping-callout-disabled-auto-open-subtitle = Incarca s'icona de su prètziu is sa barra de indiritzos cando boles pro bìdere si ti podes fidare de is retzensiones de unu produtu.
+shopping-callout-disabled-auto-open-button = Apo cumprèndidu
+shopping-callout-opted-out-title = Su verificadore de retzensiones est disativadu
+shopping-callout-opted-out-subtitle = Pro dd'ativare torra, incarca s'icona de su prètziu in sa barra de indiritzos e sighi is inditos.
+shopping-callout-opted-out-button = Apo cumprèndidu
 
 ## Onboarding message strings.
 
@@ -186,7 +220,6 @@ shopping-onboarding-dynamic-subtitle-1 = Iscoberi canto sunt fidadas is retzensi
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Iscoberi canto sunt fidadas is retzensiones de is produtos in <b>{ $currentSite }</b> in antis de comporare. Su verificadore de retzensiones, una funtzionalidade isperimentale de { -brand-product-name }, est integrada in su navigadore.
 shopping-onboarding-body = Impreende sa tecnologia { -fakespot-brand-full-name }, t’agiudamus a evitare is retzensiones no autènticas e no ogetivas. Su modellu nostru de IA est semper megiorende pro t’amparare cando còmporas. <a data-l10n-name="learn_more">Àteras informatziones</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Seberende “{ shopping-onboarding-opt-in-button }“ ses de acordu cun sa <a data-l10n-name="privacy_policy">polìtica de riservadesa</a> e is <a data-l10n-name="terms_of_use">cunditziones de su servìtziu</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Seberende “{ shopping-onboarding-opt-in-button }“ ses de acordu cun sa <a data-l10n-name="privacy_policy">polìtica de riservadesa</a> de { -brand-product-name } e is <a data-l10n-name="terms_of_use">cunditziones de su servìtziu</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Eja, dd'apo a proare
 shopping-onboarding-not-now-button = Immoe nono

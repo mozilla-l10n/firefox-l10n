@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Nàviga semper a sa lestra, cun seguresa e 
 default-browser-prompt-button-primary-alt = Cunfigura comente navigadore predefinidu
 default-browser-prompt-checkbox-not-again-label = No ammustres prus custu messàgiu
 default-browser-prompt-button-secondary = Immoe nono
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Agabba de cunfigurare { -brand-short-name } comente predefinidu
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Passu 1: Bae a Cunfiguratziones > Aplicatziones predefinidas 
+    Passu 2: Iscurre a bàsciu finas a “Navigadore web”
+    Passu 3: Seletziona e sèbera { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Passu 1: Bae a Cunfiguratziones > Aplicatziones predefinidas 
+    Passu 2: Sèbera “Cunfigura comente predefinidu” pro { -brand-short-name }
+default-browser-guidance-notification-info-page = Ammustra·mi·ddu
+default-browser-guidance-notification-dismiss = Fatu

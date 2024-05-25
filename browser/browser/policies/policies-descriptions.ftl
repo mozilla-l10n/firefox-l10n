@@ -17,6 +17,8 @@ policy-AppAutoUpdate = Ativa o disativa is atualizatziones in automàticu de s'a
 policy-AppUpdatePin = Impedi a { -brand-short-name } de s'atualizare prus a in antis de sa versione inditada.
 policy-AppUpdateURL = Cunfigura un'URL personalizadu de atualizatzione pro s'aplicatzione.
 policy-Authentication = Cunfigura s'autenticatzione integrada pro is sitos chi dda suportant.
+policy-AutofillAddressEnabled = Ativa su cumpletamentu automàticu pro is indiritzos.
+policy-AutofillCreditCardEnabled = Ativa su cumpletamentu automàticu pro is mètodos de pagamentu.
 policy-AutoLaunchProtocolsFromOrigins = Defini una lista de protocollos esternos chi si podent impreare dae is orìgines aprovadas chene pedire a s'utente.
 policy-BackgroundAppUpdate2 = Ativa o disativa s'atualizatzione in segundu pranu.
 policy-BlockAboutAddons = Bloca s'atzessu a su gestore de cumplementos (about:addons).
@@ -26,6 +28,7 @@ policy-BlockAboutSupport = Bloca s'atzessu a sa pàgina about:support.
 policy-Bookmarks = Crea sinnalibros in sa barra de is sinnalibros, in su menù de is sinnalibros, o in una cartella dislindada a intro de ue.
 policy-CaptivePortal = Ativa o disativa su suportu pro portales cautivos.
 policy-CertificatesDescription = Agiunghe tzertificados o imprea tzertificados integrados.
+policy-ContentAnalysis = Ativa o disativa sa connessione a s'agente pro sa preventzione de sa pèrdida de datos.
 policy-Cookies = Permite o nega a is sitos de definire testimòngios.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Cunfigura polìticas acapiadas a cuntenidores.
@@ -122,6 +125,7 @@ policy-SSLVersionMax = Sèbera sa versione màssima de SSL.
 policy-SSLVersionMin = Sèbera sa versione mìnima de SSL.
 policy-StartDownloadsInTempDirectory = Fortza s'aviu de is iscarrigamentos in una cartella temporànea locale, imbetzes chi in sa predefinida.
 policy-SupportMenu = Agiunghe un'elementu de menù de assistèntzia personalizadu a su menù de agiudu.
+policy-TranslateEnabled = Ativa o disativa sa tradutzione de pàginas web.
 policy-UserMessaging = No ammustres tzertos messàgios a s'utente.
 policy-UseSystemPrintDialog = Imprenta pro mèdiu de su diàlogu de sistema.
 # “format” refers to the format used for the value of this policy.

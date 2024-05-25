@@ -12,6 +12,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
@@ -51,6 +53,7 @@ firefoxview-syncedtabs-loading-header = Sincronizatzione in cursu
 firefoxview-syncedtabs-loading-description = Una borta fatu, is ischedas in cale si siat àteru dispositivu ant a apàrrere inoghe puru. Averìgua·ddu prus a tardu.
 firefoxview-tabpickup-fxa-admin-disabled-header = S'organizatzione tua at disativadu sa sincronizatzione
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non podet sincronizare is ischedas intre dispositivos ca s'amministratzione tua at disativadu sa sincronizatzione.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } non podet sincronizare is ischedas intre dispositivos ca s'organizatzione tua at disativadu sa sincronizatzione.
 firefoxview-tabpickup-network-offline-header = Controlla sa connessione a sa rete
 firefoxview-tabpickup-network-offline-description = Si ses imperende unu firewall o una connessione intermèdia (proxy), controlla chi { -brand-short-name } tèngiat su permissu pro atzèdere in rete.
 firefoxview-tabpickup-network-offline-primarybutton = Torra a nche proare.
@@ -184,6 +187,8 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Nissunu resurtadu pro “{ $query }”
 firefoxview-sort-history-by-date-label = Assenta dae sa data
 firefoxview-sort-history-by-site-label = Assenta dae su situ
+firefoxview-sort-open-tabs-by-recency-label = Assenta dae atividade reghente
+firefoxview-sort-open-tabs-by-order-label = Assenta dae s'òrdine de ischeda
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
@@ -246,3 +251,25 @@ firefoxview-recentlyclosed-empty-description-two = Pro agatare ischedas prus bet
 
 firefoxview-syncedtabs-device-notabs = Nissuna ischeda aberta in custu dispositivu
 firefoxview-syncedtabs-connect-another-device = Connete un'àteru dispositivu
+firefoxview-pinned-tabs =
+    .title = Ischedas apicadas
+firefoxview-tabs =
+    .title = Ischedas
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+firefoxview-opentabs-pinned-tab =
+    .title = Càmbia a { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Càmbia a { $tabTitle } (in sinnalibros)
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = { $url } (in sinnalibros)
