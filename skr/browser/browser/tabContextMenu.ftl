@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = ہک توں ودھ ٹیباں بند کرو
     .accesskey = M
+tab-context-close-duplicate-tabs =
+    .label = واڳی ٹیباں بند کرو
+    .accesskey = u
 tab-context-share-url =
     .label = سانجھا کرو
     .accesskey = h
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] ٹیباں سورو
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
