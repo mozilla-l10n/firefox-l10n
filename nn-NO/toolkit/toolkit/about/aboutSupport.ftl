@@ -282,6 +282,7 @@ try-newer-driver = Blokkert av grafikkdrivaren. Prøv å oppdatera grafikkdrivar
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-parameter
 compositing = Kompositt
+support-font-determination = Feilsøkingsinformasjon for skriftsynlegheit
 hardware-h264 = H264 hardvaredekodning
 main-thread-no-omtc = hovudtråd, ingen OMTC
 yes = Ja
@@ -430,7 +431,12 @@ pointing-device-none = Inga peikeeining
 
 ## Content Analysis (DLP)
 
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Innhaldsanalyse (DLP)
 content-analysis-active = Aktiv
 content-analysis-connected-to-agent = Tilkopla til agent
 content-analysis-agent-path = Sti til agent
+content-analysis-agent-failed-signature-verification = Agenten klarte ikkje å verifisere signaturen
 content-analysis-request-count = Antal førespurnadar

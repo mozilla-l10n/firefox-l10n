@@ -42,15 +42,22 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Seriff
 about-reader-font-type-sans-serif = Serifflaus
+about-reader-font-type-monospace = Fast breidde
 
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Lat att lesevising
 about-reader-toolbar-type-controls = Skriftinnstillingar
+about-reader-toolbar-color-controls = Fargar
+about-reader-toolbar-text-layout-controls = Tekst og utforming
+about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Lagre til { -pocket-brand-name }
 
 ## Reader View colors menu
 
+about-reader-colors-menu-header = Tema
+about-reader-fxtheme-tab = Standard
+about-reader-customtheme-tab = Tilpassa
 
 ## These are used as labels for the custom theme color pickers.
 ## The .title element is used to make the editing functionality
@@ -59,17 +66,24 @@ about-reader-toolbar-savetopocket = Lagre til { -pocket-brand-name }
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Tekst
+about-reader-text-size-label = Tekststorleik
+about-reader-font-type-selector-label = Skrifttype
+about-reader-font-weight-selector-label = Skriftvekt
+about-reader-font-weight-light = Tynn
+about-reader-font-weight-regular = Vanleg
+about-reader-font-weight-bold = Feit
 about-reader-layout-header = Utforming
-about-reader-advanced-layout-header = Avansert
-about-reader-slider-label-width-narrow = Smal
-about-reader-slider-label-width-wide = Brei
-about-reader-slider-label-spacing-narrow = Smal
 about-reader-slider-label-spacing-standard = Standard
 about-reader-slider-label-spacing-wide = Brei
 about-reader-content-width-label =
     .label = Innhaldsbreidde
 about-reader-line-spacing-label =
     .label = Linjeavstand
+about-reader-advanced-layout-header = Avansert
+about-reader-slider-label-width-narrow = Smal
+about-reader-slider-label-width-wide = Brei
+about-reader-slider-label-spacing-narrow = Smal
 about-reader-character-spacing-label =
     .label = Teiknavstand
 about-reader-word-spacing-label =

@@ -8,6 +8,9 @@
 # Variables
 #   $host (String) - Hostname for which the password is saved for.
 password-manager-save-password-message = Lagre passord for { $host }?
+password-manager-save-password-button-deny =
+    .label = Ikkje no
+    .accesskey = k
 password-manager-save-password-button-allow =
     .label = Lagre
     .accesskey = L

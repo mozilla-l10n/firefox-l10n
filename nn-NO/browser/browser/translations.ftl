@@ -135,6 +135,9 @@ translations-manage-language-install-all-button =
     .accesskey = a
 translations-manage-language-download-button =
     .label = Last ned
+translations-manage-language-download-all-button =
+    .label = Last ned alle
+    .accesskey = L
 translations-manage-language-remove-button =
     .label = Fjern
 translations-manage-language-remove-all-button =
@@ -172,6 +175,11 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Lat att
     .buttonaccesskeyaccept = L
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Omset det markerte…
+    .accesskey = m
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Omsetting
 # Text displayed above the from-language dropdown menu.
