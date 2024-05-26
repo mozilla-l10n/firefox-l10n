@@ -271,6 +271,9 @@ newtab-custom-recent-subtitle = Eit utval av nylege nettstadar og innhald
 newtab-custom-recent-toggle =
     .label = Nyleg aktivitet
     .description = Eit utval av nylege nettstadar og innhald
+newtab-custom-weather-toggle =
+    .label = Vêr
+    .description = Dagens vêrmelding i korte trekk
 newtab-custom-close-button = Lat att
 newtab-custom-settings = Handsam fleire innstillingar
 
@@ -290,3 +293,25 @@ newtab-wallpaper-dark-panda = Raudpanda gøymt i skogen
 newtab-wallpaper-dark-sky = Bylandskap med nattehimmel
 newtab-wallpaper-dark-mountain = Fjellandskap
 newtab-wallpaper-dark-city = Lilla bylandskap
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Bilde av <a data-l10n-name="name-link">{ $author_string }</a> på <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+newtab-weather-menu-change-location = Endre plassering
+newtab-weather-menu-weather-display = Vêrvising
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Enkel
+newtab-weather-menu-change-weather-display-simple = Byt til enkel vising
+newtab-weather-menu-weather-display-option-detailed = Detaljert
+newtab-weather-menu-change-weather-display-detailed = Byt til detaljert vising
+newtab-weather-menu-temperature-units = Temperatureiningar
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Byt til Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Byt til Celsius
+newtab-weather-menu-learn-more = Les meir
