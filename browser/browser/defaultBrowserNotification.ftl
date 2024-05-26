@@ -21,3 +21,20 @@ default-browser-prompt-message-alt = Izberite hitrost, varnost in zasebnost ob v
 default-browser-prompt-button-primary-alt = Nastavi kot privzeti brskalnik
 default-browser-prompt-checkbox-not-again-label = Tega sporočila ne prikaži več
 default-browser-prompt-button-secondary = Ne zdaj
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Dokončajte nastavljanje { -brand-short-name(sklon: "rodilnik") } za privzeti brskalnik
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Korak 1: Obiščite Nastavitve > Privzete aplikacije
+    Korak 2: Pomaknite se do “Spletni brskalnik”
+    Korak 3: Med ponujenimi možnostmi izberite { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Korak 1: Obiščite Nastavitve > Privzete aplikacije
+    Korak 2: Za { -brand-short-name } izberite “Nastavi kot privzeto”
+default-browser-guidance-notification-info-page = Pokaži mi
+default-browser-guidance-notification-dismiss = Urejeno

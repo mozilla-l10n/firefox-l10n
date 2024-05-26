@@ -62,6 +62,7 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ne vp
 ## not be translated.
 
 inactive-css-not-grid-or-flex-container-fix = Poskusite dodati <strong>display:grid</strong> ali <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-or-block-container-fix = Poskusite dodati <strong>display:grid</strong>, <strong>display:flex</strong> ali <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Poskusite dodati <strong>display:grid</strong>, <strong>display:flex</strong> ali <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Poskusite dodati bodisi <strong>column-count</strong> bodisi <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Poskusite starševskemu elementu dodati <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ali <strong>display:inline-flex</strong>. { learn-more }

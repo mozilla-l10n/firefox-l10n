@@ -965,6 +965,14 @@ autofill-payment-methods-checkbox-submessage = Vključuje kreditne in debetne ka
     .accesskey = k
 autofill-saved-payment-methods-button = Shranjena plačilna sredstva
     .accesskey = h
+autofill-reauth-checkbox =
+    { PLATFORM() ->
+        [macos] Pred izpolnjevanjem in urejanjem plačilnih sredstev zahtevaj preverjanje istovetnosti macOS.
+        [windows] Pred izpolnjevanjem in urejanjem plačilnih sredstev zahtevaj preverjanje istovetnosti Windows.
+        [linux] Pred izpolnjevanjem in urejanjem plačilnih sredstev zahtevaj Linuxovo preverjanje istovetnosti.
+       *[other] Pred izpolnjevanjem in urejanjem plačilnih sredstev zahtevaj preverjanje istovetnosti.
+    }
+    .accesskey = o
 
 ## Privacy Section - History
 
