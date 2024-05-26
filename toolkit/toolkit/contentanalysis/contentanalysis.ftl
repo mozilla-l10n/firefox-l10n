@@ -8,9 +8,11 @@ contentanalysis-operationtype-dropped-text = sleppt tekst
 contentanalysis-operationtype-print = skriv ut
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-customdisplaystring-description = opplasting av «{ $filename }»
+contentanalysis-warndialogtitle = Dette innhaldet kan vere utrygt
 contentanalysis-warndialog-response-allow = Bruk innhald
 contentanalysis-warndialog-response-deny = Avbryt
 contentanalysis-notification-title = Innhaldsanalyse
+contentanalysis-error-message-dropped-text = Drag og slipp nekta.
 contentanalysis-error-message-clipboard = Lim inn nekta.
 contentanalysis-error-message-print = Utskrift nekta.
 contentanalysis-inprogress-quit-title = Avslutte { -brand-shorter-name }?

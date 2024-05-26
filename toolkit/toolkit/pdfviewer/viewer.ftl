@@ -359,6 +359,10 @@ pdfjs-editor-alt-text-textarea =
 
 ## Color picker
 
+pdfjs-editor-colorpicker-button =
+    .title = Endre farge
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Fargeval
 pdfjs-editor-colorpicker-yellow =
     .title = Gul
 pdfjs-editor-colorpicker-green =
@@ -373,3 +377,6 @@ pdfjs-editor-colorpicker-red =
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = Vis alle
+pdfjs-editor-highlight-show-all-button =
+    .title = Vis alle
