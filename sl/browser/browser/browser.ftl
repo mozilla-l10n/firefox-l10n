@@ -931,6 +931,9 @@ private-browsing-indicator-label = Zasebno brskanje
 content-analysis-indicator-tooltip =
     .tooltiptext = Preprečevanje izgube podatkov, ki ga omogoča { $agentName }. Kliknite za več informacij.
 content-analysis-panel-title = Varstvo podatkov
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text = Vaša organizacija za zaščito pred izgubo podatkov uporablja { $agentName }. <a data-l10n-name="info">Več o tem</a>
 
 ## Unified extensions (toolbar) button
 

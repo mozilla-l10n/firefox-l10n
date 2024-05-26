@@ -275,3 +275,20 @@ newtab-custom-recent-toggle =
     .description = Izbor nedavnih spletnih mest in vsebin
 newtab-custom-close-button = Zapri
 newtab-custom-settings = Več nastavitev
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = Ozadja
+newtab-wallpaper-reset = Ponastavi privzeto
+newtab-wallpaper-light-red-panda = Mačji panda
+newtab-wallpaper-light-mountain = Bela gora
+newtab-wallpaper-light-sky = Nebo z vijoličastimi in rožnatimi oblaki
+newtab-wallpaper-dark-aurora = Severni sij
+newtab-wallpaper-dark-panda = Mačji panda, skrit v gozdu
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Avtor fotografije: <a data-l10n-name="name-link">{ $author_string }</a>, <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+

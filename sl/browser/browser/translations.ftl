@@ -182,6 +182,33 @@ translations-settings-close-dialog =
 main-context-menu-translate-selection =
     .label = Prevedi izbor …
     .accesskey = i
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Prevedi izbor v jezik { $language }
+    .accesskey = v
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Prevedi besedilo povezave …
+    .accesskey = v
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Prevedi besedilo povezave v jezik { $language }
+    .accesskey = v
+# Text displayed in the select translations panel header.
+select-translations-panel-header = Prevajanje
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = Iz jezika
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = V jezik
 # Text displayed above the try-another-source-language dropdown menu.
 select-translations-panel-try-another-language-label = Poskusi z drugim izvornim jezikom
 select-translations-panel-cancel-button =
@@ -204,6 +231,8 @@ select-translations-panel-try-again-button =
 select-translations-panel-idle-placeholder-text = Tukaj se bo pojavilo prevedeno besedilo.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Prevajanje …
+select-translations-panel-init-failure-message =
+    .message = Jezikov ni bilo mogoče naložiti. Preverite internetno povezavo in poskusite znova.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Pri prevajanju je prišlo do težave. Poskusite znova.
@@ -217,3 +246,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = Jezika { $language } žal še ne podpiramo.
 select-translations-panel-unsupported-language-message-unknown =
     .message = Tega jezika žal še ne podpiramo.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Nastavitve prevajanja

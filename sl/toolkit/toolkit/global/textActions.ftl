@@ -63,4 +63,4 @@ text-action-spell-dictionaries =
 text-action-search-text-box-clear =
     .title = Počisti
 text-action-highlight-selection =
-    .label = Poudari izbor
+    .label = Označi izbrano besedilo
