@@ -22,6 +22,7 @@ set-password-reenter-password = Gjenta nytt passord:
 set-password-meter = Måling av passordkvalitet
 set-password-meter-loading = Lastar
 primary-password-admin = Administratoren din krev at du har eit hovudpassord for å lagre passord.
+primary-password-required-by-policy = Organisasjonen din krev at du brukar eit hovudpassord for å lagre innloggingar og passord.
 primary-password-description = Dersom du treng å verne sensitiv informasjon, som til dømes innloggingar og passord, kan du bruke eit hovudpassord. Dersom du lagar eit hovudpassord, må du skrive inn passordet for kvar programøkt der { -brand-short-name } hentar ut lagra informasjon som er beskytta av passordet.
 primary-password-warning = Ver sikker på at du hugsar hovudpassordet.  Dersom du gløymer hovudpassordet vil du ikkje få tilgang til informasjonen som er beskytta av det på denne eininga.
 remove-primary-password =

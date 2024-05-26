@@ -111,6 +111,11 @@ tabbrowser-confirm-caretbrowsing-title = Nettlesing med tekstveljar
 tabbrowser-confirm-caretbrowsing-message = Nettlesing med tekstveljar kan slåast på eller av med F7. Denne funksjonen gjer at du kan merke tekst med tastaturet ved hjelp av ein flyttbar markør. Vil du slå på nettlesing med tekstveljar?
 tabbrowser-confirm-caretbrowsing-checkbox = Ikkje vis denne dialogen igjen.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Varsel
+tabbrowser-confirm-close-duplicate-tabs-text = Vi held den siste aktive fana open
+
 ##
 
 # Variables:
