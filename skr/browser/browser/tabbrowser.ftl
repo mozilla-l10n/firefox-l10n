@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = نواں ٹیب
 tabbrowser-empty-private-tab-title = نویں نجی ٹیب
-
 tabbrowser-menuitem-close-tab =
     .label = ٹیب بند کرو
 tabbrowser-menuitem-close =
     .label = بند کرو
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -120,13 +117,16 @@ tabbrowser-confirm-caretbrowsing-title = کیریٹ براؤزنگ
 tabbrowser-confirm-caretbrowsing-message = F7 دٻاوݨ نال کیریٹ براؤزنگ آن یا آف ویندی ہے۔ ایہ خصوصیت ویب ورقیاں وِچ ہک حرکت پذیر کرسر رکھیندا ہے، جیندے نال تساں کی بورڈ دے نال متن منتخب کر سڳدے او۔ کیا تساں کیریٹ براؤزنگ کوں آن کرݨ چاہندے او؟
 tabbrowser-confirm-caretbrowsing-checkbox = میکوں ایہ ڈائیلاگ بکس ولا نہ ݙکھاؤ۔
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = دھیان ݙیوو
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = { $domain } کنوں ایں طراں دیاں اطلاعات کوں تہاکوں انہاں دے ٹیب تک گھن ونڄݨ دی اجازت ݙیو۔
-
 tabbrowser-customizemode-tab-title = { -brand-short-name } من مرضی دا بݨاؤ
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -145,7 +145,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = ٹیباں کوں چالو کرو
     .accesskey = m
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = آڈیو چلدا پئے
 
