@@ -26,10 +26,15 @@ default-browser-prompt-button-secondary = Ikkje no
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = Fullfør oppsettev av { -brand-short-name } som standardnettlesar
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
     Steg 1: Gå til Innstillingar > Standardappar
     Steg 2: Rull ned til «Nettlesar»
     Steg 3: Vel { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Steg 1: Gå til Innstillingar > Standardappar
+    Steg 2: Vel «Bruk som standard» for { -brand-short-name }
 default-browser-guidance-notification-info-page = Vis meg
 default-browser-guidance-notification-dismiss = Ferdig
