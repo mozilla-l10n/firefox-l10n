@@ -49,8 +49,18 @@ screenshots-too-large-error-details = Prøv å velje eit område som er mindre e
 screenshots-component-retry-button =
     .title = Prøv å ta skjermbildet på nytt
     .aria-label = Prøv å ta skjermbildet på nytt
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Kopier ({ $shortcut })
+    .aria-label = Kopier
 screenshots-component-copy-button-label = Kopier
 screenshots-component-download-button-label = Last ned
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Kopier
+    .title = Kopier ({ $shortcut })
+    .aria-label = Kopier
 # Variables
 #   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
 screenshots-component-download-button-2 = Last ned
