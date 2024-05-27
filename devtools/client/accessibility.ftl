@@ -6,16 +6,13 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Fræðast meira
-
 accessibility-text-label-header = Textamerki og nöfn
-
 accessibility-keyboard-header = Lyklaborð
-
-## Text entries that are used as text alternative for icons that depict accessibility isses.
-
 
 ## These strings are used in the overlay displayed when running an audit in the accessibility panel
 
+accessibility-progress-initializing = Frumstillir…
+    .aria-valuetext = Frumstillir…
 accessibility-progress-finishing = Er að klára...
     .aria-valuetext = Er að klára...
 
@@ -23,10 +20,8 @@ accessibility-progress-finishing = Er að klára...
 
 accessibility-warning =
     .alt = Aðvörun
-
 accessibility-fail =
     .alt = Villa
-
 accessibility-best-practices =
     .alt = Góðar venjur
 
