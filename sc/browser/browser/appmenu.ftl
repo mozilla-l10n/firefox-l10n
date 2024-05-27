@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] Ammustra { $count } ischedas inativas
         }
     .tooltiptext = Ammustra is ischedas inativas in custu dispositivu
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Ischedas inativas
+    .tooltiptext = Mustra is ischedas inativas in custu dispositivu
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nissuna ischeda aberta
 # This is shown when Sync is configured but syncing tabs is disabled.
