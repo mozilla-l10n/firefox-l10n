@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-telemetry-ping-data-source = Ping 資料來源:
+about-telemetry-ping-data-source = Ping 資料來源：
 about-telemetry-show-current-data = 目前的資料
 about-telemetry-show-archived-ping-data = 已封存的 ping 資料
 about-telemetry-show-subsession-data = 顯示 subsession 資料
@@ -37,12 +37,12 @@ about-telemetry-addon-details-section = 附加元件詳情
 about-telemetry-late-writes-section = 慢速寫入
 about-telemetry-raw-payload-section = 原始酬載
 about-telemetry-raw = 原始 JSON
-about-telemetry-full-sql-warning = 註: 已開啟慢速 SQL 除錯。將在下面顯示完整 SQL 字串，但不會送出到 Telemetry。
+about-telemetry-full-sql-warning = 註：已開啟慢速 SQL 除錯。將在下面顯示完整 SQL 字串，但不會送出到 Telemetry。
 about-telemetry-fetch-stack-symbols = 取得堆疊的函數名稱
 about-telemetry-hide-stack-symbols = 顯示原始堆疊資料
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] 正式版資料
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] 開啟
@@ -58,45 +58,45 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
        *[other] { $sampleCount } 個樣本、平均 = { $prettyAverage }、加總 = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = 此頁面顯示 Telemetry 所收集到效能、硬體設定、使用程度、以及自訂選項的相關資訊。此資訊將會傳送到 { $telemetryServerOwner } 以幫助改善 { -brand-full-name }。
 about-telemetry-settings-explanation = Telemetry 正在收集{ about-telemetry-data-type }，已<a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>上傳。
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = 每組資訊將集合在「<a data-l10n-name="ping-link">pings</a>」送出，您正在看的是 { $name }, { $timestamp } ping。
 about-telemetry-data-details-current = 每組資訊將集合在「<a data-l10n-name="ping-link">pings</a>」送出，您正在看的是目前的資料。
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = 在 { $selectedTitle } 中尋找
 about-telemetry-filter-all-placeholder =
     .placeholder = 在所有段落中尋找
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = 「{ $searchTerms }」的搜尋結果
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = 抱歉！{ $sectionName } 當中沒有「{ $currentSearchText }」的結果
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = 抱歉！所有段落中都沒有「{ $searchTerms }」的搜尋結果。
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = 抱歉！目前沒有「{ $sectionName }」的資料。
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = 目前的資料
@@ -114,13 +114,13 @@ about-telemetry-slow-sql-statement = 陳述句
 about-telemetry-addon-table-id = 附加元件 ID
 about-telemetry-addon-table-details = 詳細資訊
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } 提供者
 about-telemetry-keys-header = 屬性
 about-telemetry-names-header = 名稱
 about-telemetry-values-header = 值
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = 慢速寫入 #{ $lateWriteCount }
 about-telemetry-stack-title = 堆疊:
 about-telemetry-memory-map-title = 記憶體地圖:
@@ -131,5 +131,5 @@ about-telemetry-method-header = 方法
 about-telemetry-object-header = 物件
 about-telemetry-extra-header = 更多
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } 處理程序
