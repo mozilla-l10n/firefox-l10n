@@ -21,7 +21,7 @@ abuse-report-learnmore-link = 了解關於回報擴充套件與佈景主題的�
 abuse-report-submit-description = 請描述問題（選填）
 abuse-report-textarea =
     .placeholder = 如果有更多細節，我們可以比較簡單就找到問題的根源。請描述您遇到了哪些問題，也非常感謝您協助我們，確保網路環境的健康。
-abuse-report-submit-note = 註: 請不要在回報內容中放入個人資訊（姓名、E-Mail 信箱、電話號碼、地址等）。{ -vendor-short-name } 會永久保留回報內容的相關紀錄。
+abuse-report-submit-note = 註：請不要在回報內容中放入個人資訊（姓名、E-Mail 信箱、電話號碼、地址等）。{ -vendor-short-name } 會永久保留回報內容的相關紀錄。
 
 ## Panel buttons.
 
@@ -94,7 +94,7 @@ abuse-report-broken-suggestions-extension = 聽起來您遇到 Bug 了。除了�
 abuse-report-broken-suggestions-sitepermission = 聽起來您遇到 Bug 了。除了在此回報之外，能夠解決功能問題的最佳方式是直接連絡網站的開發者。<a data-l10n-name="support-link">請造訪網站</a>來取得開發者的連絡資訊。
 abuse-report-broken-suggestions-theme = 聽起來您遇到 Bug 了。除了在此回報之外，能夠解決功能問題的最佳方式是直接連絡佈景主題的開發者。<a data-l10n-name="support-link">請造訪佈景主題網站</a>來取得開發者的連絡資訊。
 abuse-report-policy-reason-v2 = 它散播仇恨、暴力、非法內容
-abuse-report-policy-suggestions = 註: 若有著作權與商標問題，請依另一個流程處理。<a data-l10n-name="report-infringement-link">請依照本文當中的指示</a>來回報問題。
+abuse-report-policy-suggestions = 註：若有著作權與商標問題，請依另一個流程處理。<a data-l10n-name="report-infringement-link">請依照本文當中的指示</a>來回報問題。
 abuse-report-unwanted-reason-v2 = 我從未安裝此套件，也不知道如何移除
 abuse-report-unwanted-example = 例如: 電腦上的某套應用程式未經我同意就安裝了這個套件
 abuse-report-other-reason = 其他原因
