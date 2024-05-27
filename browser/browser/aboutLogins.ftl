@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Pro modificare is credentzi
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modìfica sa credentziale sarvada
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] modìfica sa cunfiguratzione de is craes
+       *[other] { -brand-short-name } est proende a modificare is cunfiguratziones de is craes. Imprea s'identificatzione de su dispositivu tuo pro ddu permìtere.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win =
     Pro cambiare sa crae tua, inserta is credentziales de atzessu a Windows.

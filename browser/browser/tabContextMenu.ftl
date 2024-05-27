@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Serra prus ischedas
     .accesskey = p
+tab-context-close-duplicate-tabs =
+    .label = Serra is ischedas duplicadas
+    .accesskey = d
 tab-context-share-url =
     .label = Cumpartzi
     .accesskey = C
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Move is ischedas
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
