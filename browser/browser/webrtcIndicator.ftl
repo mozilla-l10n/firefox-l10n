@@ -161,6 +161,9 @@ webrtc-allow-share-screen-with-file = Boles permìtere a custu archìviu locale 
 # another audio output connection.
 webrtc-allow-share-speaker-with-file = Boles permìtere a custu archìviu locale de impreare àteros altoparlantes?
 webrtc-allow-share-camera-and-microphone-with-file = Boles permìtere a custu archìviu locale de impreare sa càmera e su micròfonu?
+webrtc-allow-share-camera-and-audio-capture-with-file = Boles permìtere chi custu archìviu locale impreet sa càmera tua e ascurtet s’àudio de custa ischeda?
+webrtc-allow-share-screen-and-microphone-with-file = Boles permìtere chi custu archìviu locale impreet su micròfonu e bidat s’ischermu tuo?
+webrtc-allow-share-screen-and-audio-capture-with-file = Boles permìtere chi custu archìviu locale ascurtet s’àudio de custa ischeda e bidat s’ischermu tuo?
 
 ## Variables:
 ##   $origin (String): the first party origin.
@@ -216,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Regorda custa detzisione
+webrtc-remember-allow-checkbox-camera = Regorda pro totu is càmeras
+webrtc-remember-allow-checkbox-microphone = Regorda pro totu is micròfonos
+webrtc-remember-allow-checkbox-camera-and-microphone = Regorda pro totu is càmeras e micròfonos
 webrtc-mute-notifications-checkbox = Disativa is notìficas de is sitos web cando ses cumpartzende
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } non podet permìtere s’atzessu permanente a s’ischermu tuo.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } non podet permìtere s’atzessu permanente a s’àudio de s’ischeda chena preguntare cale ischeda cumpartzire.
