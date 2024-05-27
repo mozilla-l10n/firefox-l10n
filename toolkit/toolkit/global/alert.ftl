@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Serra custa notìfica
 alert-settings-title =
     .tooltiptext = Cunfiguratzione
+
+## Reminder Notifications
+
+notification-default-dismiss = Iscarta

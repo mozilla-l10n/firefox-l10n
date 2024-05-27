@@ -39,5 +39,11 @@ unified-extensions-context-menu-move-widget-down =
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-title = Tzertas estensiones non sunt permìtidas
+unified-extensions-mb-quarantined-domain-message = Isceti tzertas estensiones monitoradas dae { -vendor-short-name } sunt permìtidas in custu situ pro amparare is datos tuos.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Tzertas estensiones non sunt permìtidas
+    .message = Pro amparare is datos tuos, tzertas estensiones non podent lèghere o modificare datos in custu situ. Imprea sa cunfiguratzione de s’estensione pro ddas permìtere in sitos limitados dae { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-learn-more = Àteras informatziones
     .aria-label = Àteras informatziones: unas cantas estensiones non sunt permìtidas
