@@ -49,12 +49,41 @@ screenshots-too-large-error-details = Proa a seletzionare un’àrea prus pitica
 screenshots-component-retry-button =
     .title = Torra a proare a fàghere sa catura
     .aria-label = Torra a proare a fàghere sa catura
+screenshots-component-cancel-button =
+    .title =
+        { PLATFORM() ->
+            [macos] Annulla (esc)
+           *[other] Annulla (Esc)
+        }
+    .aria-label = Annulla
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button =
+    .title = Còpia ({ $shortcut })
+    .aria-label = Còpia
 screenshots-component-copy-button-label = Còpia
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button =
+    .title = Iscàrriga ({ $shortcut })
+    .aria-label = Iscàrriga
 screenshots-component-download-button-label = Iscàrriga
+# Variables
+#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
+screenshots-component-copy-button-2 = Còpia
+    .title = Còpia ({ $shortcut })
+    .aria-label = Còpia
+# Variables
+#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
+screenshots-component-download-button-2 = Iscàrriga
+    .title = Iscàrriga ({ $shortcut })
+    .aria-label = Iscàrriga
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
@@ -64,3 +93,9 @@ screenshots-component-download-button-label = Iscàrriga
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
 screenshots-overlay-selection-region-size-2 = { $width } x { $height }
+# This string represents the selection size area
+# "×" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-3 = { $width } × { $height }
