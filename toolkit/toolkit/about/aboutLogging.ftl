@@ -20,7 +20,7 @@ about-logging-some-elements-disabled = 已透過網址設定記錄功能，無�
 about-logging-info = 資訊：
 about-logging-log-modules-selection = 選擇記錄模組
 about-logging-new-log-modules = 新記錄模組：
-about-logging-logging-output-selection = 輸出記錄資料
+about-logging-logging-output-selection = 輸出紀錄資料
 about-logging-logging-to-file = 記錄到檔案
 about-logging-logging-to-profiler = 記錄到 { -profiler-brand-name }
 about-logging-no-log-modules = 無
@@ -47,12 +47,12 @@ about-logging-preset-webrtc-description = 用來診斷 WebRTC 問題的記錄模
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = 用來診斷 WebGPU 問題的記錄模組
 about-logging-preset-gfx-label = 圖形
-about-logging-preset-gfx-description = 用來診斷圖型問題的記錄模組
+about-logging-preset-gfx-description = 用來診斷圖形問題的記錄模組
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
 about-logging-preset-windows-description = 用來診斷 Microsoft Windows 問題的記錄模組
 about-logging-preset-custom-label = 自訂
-about-logging-preset-custom-description = 手動選擇的記錄模組
+about-logging-preset-custom-description = 手動選擇要記錄的模組
 # Error handling
 about-logging-error = 錯誤：
 

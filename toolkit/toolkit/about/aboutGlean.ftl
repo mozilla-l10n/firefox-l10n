@@ -19,7 +19,7 @@ about-glean-upload-disabled = 已停用資料上傳。
 about-glean-upload-enabled-local = 僅允許資料上傳至本機伺服器。
 about-glean-upload-fake-enabled = 已停用資料上傳，但我們告訴 { glean-sdk-brand-name } 本功能仍然啟用，這樣才可在本機紀錄資料。註：若您設定了除錯標籤，將無視設定一律將 ping 上傳至 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>。
 # This message is followed by a bulleted list.
-about-glean-prefs-and-defines = 相關的<a data-l10n-name="fog-prefs-and-defines-doc-link">偏好設定與軟體定義</a>包含：
+about-glean-prefs-and-defines = 相關的<a data-l10n-name="fog-prefs-and-defines-doc-link">偏好設定與定義值</a>包含：
 # Variables:
 #   $data-upload-pref-value (String): the value of the datareporting.healthreport.uploadEnabled pref. Typically "true", sometimes "false"
 # Do not translate strings between <code> </code> tags.
