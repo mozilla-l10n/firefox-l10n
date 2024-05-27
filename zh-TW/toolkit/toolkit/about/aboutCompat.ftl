@@ -5,7 +5,9 @@
 label-disable = 關閉
 label-enable = 開啟
 label-interventions = 介入
-label-more-information = 更多資訊請參考: Bug { $bug }
+# Variables:
+#   $bug (string) - Bug number
+label-more-information = 更多資訊請參考：Bug { $bug }
 label-overrides = 忽略預設使用者代理字串
 text-disabled-in-about-config = 已在 about:config 關閉此功能
 text-no-interventions = 未使用任何介入功能
