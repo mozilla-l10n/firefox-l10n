@@ -159,7 +159,7 @@ mr2022-onboarding-easy-setup-primary-button-label = 儲存並繼續
 # Set Default action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-set-default-checkbox-label = 將 { -brand-short-name } 設為預設瀏覽器
 # Import action checkbox label used on new user onboarding first screen
-mr2022-onboarding-easy-setup-import-checkbox-label = 從先前使用的瀏覽器匯入
+mr2022-onboarding-easy-setup-import-checkbox-label = 從先前使用的瀏覽器匯入資料
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -215,7 +215,7 @@ mr2022-onboarding-get-started-primary-button-label = 幾秒鐘就能設定完成
 
 mr2022-onboarding-import-header = 設定光速快
 mr2022-onboarding-import-subtitle = 根據您的喜好來設定 { -brand-short-name }。可從您的舊瀏覽器匯入書籤、密碼與更多資料。
-mr2022-onboarding-import-primary-button-label-no-attribution = 從先前使用的瀏覽器匯入
+mr2022-onboarding-import-primary-button-label-no-attribution = 從先前使用的瀏覽器匯入資料
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a
