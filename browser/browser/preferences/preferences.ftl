@@ -738,8 +738,8 @@ sync-sign-in =
 
 ## Sync section - enabling or disabling sync.
 
-prefs-syncing-on = 同步: 開啟
-prefs-syncing-off = 同步: 關閉
+prefs-syncing-on = 同步：開啟
+prefs-syncing-off = 同步：關閉
 prefs-sync-turn-on-syncing =
     .label = 開啟同步…
     .accesskey = s
@@ -756,7 +756,7 @@ prefs-syncing-button =
 
 ## The list of things currently syncing.
 
-sync-syncing-across-devices-heading = 您連線的裝置會同步下列項目:
+sync-syncing-across-devices-heading = 您連線的裝置會同步下列項目：
 sync-currently-syncing-bookmarks = 書籤
 sync-currently-syncing-history = 瀏覽紀錄
 sync-currently-syncing-tabs = 開啟的分頁
@@ -1139,7 +1139,7 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = 兼顧保護與效能。網站可正常運作。
 content-blocking-etp-strict-desc = 保護更強大，但可能會導致某些網站或內容故障。
 content-blocking-etp-custom-desc = 選擇要封鎖哪些追蹤器與指令碼。
-content-blocking-etp-blocking-desc = { -brand-short-name } 封鎖下列項目:
+content-blocking-etp-blocking-desc = { -brand-short-name } 會封鎖下列項目：
 content-blocking-private-windows = 隱私視窗中的追蹤內容
 content-blocking-cross-site-cookies-in-all-windows2 = 所有視窗中的跨網站 Cookie
 content-blocking-cross-site-tracking-cookies = 跨網站追蹤 Cookie
