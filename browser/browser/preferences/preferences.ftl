@@ -908,9 +908,6 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = 使用主密码
     .accesskey = U
-# This operation requires the user to authenticate with the operating system (device sign-in)
-forms-os-reauth =
-    .label = 需要通过设备登录，才能填写和管理密码
 forms-primary-pw-learn-more-link = 详细了解
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -971,9 +968,6 @@ autofill-reauth-checkbox =
         [linux] 需要进行 Linux 身份验证以填写和编辑付款方式。
        *[other] 需要进行身份验证以填写和编辑付款方式。
     }
-    .accesskey = o
-# This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = 需要通过设备登录，才能填写和管理付款方式。
     .accesskey = o
 
 ## Privacy Section - History
