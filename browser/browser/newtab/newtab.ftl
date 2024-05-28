@@ -276,10 +276,12 @@ newtab-wallpaper-light-red-panda = Panda ruz
 newtab-wallpaper-light-mountain = Menez gwenn
 newtab-wallpaper-light-sky = Oabl gant koumoul limestra ha roz
 newtab-wallpaper-light-color = Furmoù glas, roz ha melen
+newtab-wallpaper-light-landscape = Menezioù gant ur vrumenn c’hlas
 newtab-wallpaper-light-beach = Traezhenn gant ur balmezenn
 newtab-wallpaper-dark-aurora = Tarzh-gouloù
 newtab-wallpaper-dark-color = Furmoù ruz ha glas
 newtab-wallpaper-dark-panda = Panda ruz kuzhet er c’hoad
+newtab-wallpaper-dark-mountain = Menezioù
 
 ## New Tab Weather
 
