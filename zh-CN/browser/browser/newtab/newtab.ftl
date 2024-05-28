@@ -305,6 +305,7 @@ newtab-weather-see-forecast =
 newtab-weather-sponsored = { $provider } ∙ 赞助
 newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input = 搜索位置
+newtab-weather-menu-weather-display = 天气信息显示方式
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
