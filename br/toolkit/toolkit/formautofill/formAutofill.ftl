@@ -21,6 +21,9 @@ autofill-options-link-osx = Gwellvezioù leuniañ emgefreek ar furmskrid
 
 ## The credit card capture doorhanger
 
+credit-card-capture-save-button =
+    .label = Enrollañ
+    .accessKey = E
 credit-card-capture-cancel-button =
     .label = Diwezhatoc’h
     .accessKey = D
