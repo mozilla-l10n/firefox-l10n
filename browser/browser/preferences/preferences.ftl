@@ -591,6 +591,7 @@ home-prefs-recent-activity-description = Tafrant n yismal d ugbur n melmi kan
 home-prefs-snippets-header =
     .label = Tiwzillin
 home-prefs-snippets-description-new = Iwellihen d yisallen sɣur { -vendor-short-name } akked { -brand-product-name }
+home-prefs-weather-learn-more-link = Issin ugar
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
