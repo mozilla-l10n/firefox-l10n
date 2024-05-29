@@ -4,6 +4,7 @@
 
 about-networking-title = מידע על רכיב התקשורת
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = ניקוי מטמון HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = ניקוי מטמון DNS
