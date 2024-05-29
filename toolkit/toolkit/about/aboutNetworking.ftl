@@ -4,6 +4,7 @@
 
 about-networking-title = Ağ Hakkında
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = HTTP önbelleğini temizle
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS önbelleğini temizle
