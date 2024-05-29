@@ -4,6 +4,7 @@
 
 about-networking-title = 네트워크 정보
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = HTTP 캐시 지우기
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS 캐시 지우기
