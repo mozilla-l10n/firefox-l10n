@@ -4,6 +4,7 @@
 
 about-networking-title = Дар бораи шабака
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Пок кардани зерҳофизаи HTTP
 about-networking-sockets = Бастагоҳҳо
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Пок кардани зерҳофизаи DNS
