@@ -54,7 +54,7 @@ mr1-onboarding-theme-header = Ganz dein Style
 mr1-onboarding-theme-subtitle = Personalisiere { -brand-short-name } mit einem Theme.
 mr1-onboarding-theme-secondary-button-label = Nicht jetzt
 newtab-wallpaper-onboarding-title = Wie wäre es mit einem Farbtupfer?
-newtab-wallpaper-onboarding-subtitle = Wählen Sie ein Hintergrundbild, um Ihrem neuen Tab ein neues Aussehen zu verpassen.
+newtab-wallpaper-onboarding-subtitle = Wähle ein Hintergrundbild, um deinem neuen Tab ein neues Aussehen zu verpassen.
 newtab-wallpaper-onboarding-primary-button-label = Hintergrundbild festlegen
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = System-Theme
@@ -342,8 +342,8 @@ onboarding-device-migration-primary-button-label = Anmelden
 onboarding-easy-setup-security-and-privacy-title = Wir schützen dich gerne
 onboarding-easy-setup-security-and-privacy-subtitle = Unser gemeinnütziger Browser verhindert, dass Unternehmen heimlich deine Aktivitäten im Internet verfolgen.
 # Mobile download screen
-onboarding-mobile-download-security-and-privacy-title = Verschlüsseln Sie Ihre Daten, wenn Sie geräteübergreifend arbeiten
-onboarding-mobile-download-security-and-privacy-subtitle = Wenn Sie Ihre Daten synchronisieren, verschlüsselt { -brand-short-name } Ihre Passwörter, Lesezeichen und mehr. Außerdem können Sie Tabs von Ihren anderen Geräten holen.
+onboarding-mobile-download-security-and-privacy-title = Verschlüssle deine Daten, wenn du geräteübergreifend arbeitest
+onboarding-mobile-download-security-and-privacy-subtitle = Wenn du deine Daten synchronisierst, verschlüsselt { -brand-short-name } deine Passwörter, Lesezeichen und mehr. Außerdem kannst du Tabs von deinen anderen Geräten holen.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } gibt dir Rückendeckung
 onboarding-gratitude-security-and-privacy-subtitle = Vielen Dank, dass du { -brand-short-name } verwendest, unterstützt von der Mozilla Foundation. Mit deiner Unterstützung arbeiten wir daran, das Internet für alle sicherer und zugänglicher zu machen.
