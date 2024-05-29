@@ -4,6 +4,7 @@
 
 about-networking-title = 關於網路連線
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = 清除 HTTP Cache
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = 清除 DNS 快取
