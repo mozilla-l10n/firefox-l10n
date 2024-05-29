@@ -4,6 +4,7 @@
 
 about-networking-title = O spojeních
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Vymazat mezipaměť HTTP
 about-networking-sockets = Sockety
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Vymazat mezipaměť DNS
