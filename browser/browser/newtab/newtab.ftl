@@ -300,7 +300,11 @@ newtab-wallpaper-attribution = Bilde av <a data-l10n-name="name-link">{ $author_
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsa
 newtab-weather-menu-change-location = Endre plassering
+newtab-weather-change-location-search-input = Søk plassering
 newtab-weather-menu-weather-display = Vêrvising
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
@@ -314,4 +318,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Byt til Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Byt til Celsius
+newtab-weather-menu-hide-weather = Skjul vêret på ny fane
 newtab-weather-menu-learn-more = Les meir
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Vêrdata er ikkje tilgjengeleg akkurat no.
