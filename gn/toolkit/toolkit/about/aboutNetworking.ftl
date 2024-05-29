@@ -4,6 +4,7 @@
 
 about-networking-title = Ñanduti raperã rehegua
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Embogue HTTP kache
 about-networking-sockets = Moingeha
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Embogue DNS kache
