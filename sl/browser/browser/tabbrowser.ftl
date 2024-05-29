@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Nov zavihek
 tabbrowser-empty-private-tab-title = Nov zasebni zavihek
-
 tabbrowser-menuitem-close-tab =
     .label = Zapri zavihek
 tabbrowser-menuitem-close =
     .label = Zapri
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } – { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -136,13 +133,17 @@ tabbrowser-confirm-caretbrowsing-title = Brskanje s kazalko
 tabbrowser-confirm-caretbrowsing-message = Tipka F7 vključi ali izključi brskanje s kazalko. Ta možnost na spletne strani postavi premični kazalec, ki vam omogoča izbiro besedila s tipkovnico. Ali želite vključiti brskanje s kazalko?
 tabbrowser-confirm-caretbrowsing-checkbox = Tega pogovornega okna ne prikazuj več.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Pozor
+tabbrowser-confirm-close-duplicate-tabs-text = Obdržali bomo zadnji aktivni zavihek
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Dovoli takšnim obvestilom z { $domain }, da preklopijo na svoj zavihek
-
 tabbrowser-customizemode-tab-title = Prilagodi { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -161,7 +162,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Povrni glasnost zavihkov
     .accesskey = r
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Predvaja zvok
 
