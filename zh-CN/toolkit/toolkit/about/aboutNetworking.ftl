@@ -4,6 +4,7 @@
 
 about-networking-title = 关于网络连接
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = 清除 HTTP 缓存
 about-networking-sockets = 套接字
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = 清除 DNS 缓存
