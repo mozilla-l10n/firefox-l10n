@@ -4,6 +4,7 @@
 
 about-networking-title = Netzwerkverbindungen
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = HTTP-Cache leeren
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS-Cache leeren
