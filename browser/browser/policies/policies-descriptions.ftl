@@ -84,6 +84,7 @@ policy-Handlers = Nastavite privzete upravljalce aplikacij.
 policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastavi in po potrebi zakleni domačo stran.
+policy-HttpsOnlyMode = Dovoli omogočitev načina samo HTTPS.
 policy-InstallAddonsPermission = Določenim spletnim mestom dovoli nameščanje dodatkov.
 policy-LegacyProfiles = Onemogoči možnost ustvarjanja ločenega profila za vsako namestitev.
 

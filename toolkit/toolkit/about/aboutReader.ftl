@@ -70,6 +70,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Enoširinska pisava
 
 ## Reader View toolbar buttons
 
@@ -101,20 +102,25 @@ about-reader-custom-colors-visited-links = Obiskane povezave
 about-reader-custom-colors-selection-highlight = Označevalnik za glasno branje
     .title = Nastavi barvo
 about-reader-custom-colors-reset-button = Ponastavi privzeto
+about-reader-reset-button = Ponastavi privzeto
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Besedilo
+about-reader-text-size-label = Velikost besedila
+about-reader-font-type-selector-label = Pisava
+about-reader-font-weight-selector-label = Debelina pisave
 about-reader-layout-header = Postavitev
-about-reader-advanced-layout-header = Napredno
-about-reader-slider-label-width-narrow = Ozko
-about-reader-slider-label-width-wide = Široko
-about-reader-slider-label-spacing-narrow = Ozko
 about-reader-slider-label-spacing-standard = Običajno
 about-reader-slider-label-spacing-wide = Široko
 about-reader-content-width-label =
     .label = Širina vsebine
 about-reader-line-spacing-label =
     .label = Razmik med vrsticami
+about-reader-advanced-layout-header = Napredno
+about-reader-slider-label-width-narrow = Ozko
+about-reader-slider-label-width-wide = Široko
+about-reader-slider-label-spacing-narrow = Ozko
 about-reader-character-spacing-label =
     .label = Razmik med znaki
 about-reader-word-spacing-label =

@@ -8,28 +8,21 @@
 ##
 
 process-type-web = Spletna vsebina
-
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = Prednostna stran »about:«
-
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Prednostna vsebina Mozille
-
 process-type-extension = Razširitev
-
 # process used to open file:// URLs
 process-type-file = Krajevna datoteka
-
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Ločena spletna vsebina
-
 # process used to isolate a ServiceWorker to improve
 # performance
 process-type-webserviceworker = Ločen Service Worker
-
 # process preallocated; may change to other types
 process-type-prealloc = Vnaprej dodeljeno
 
@@ -39,19 +32,20 @@ process-type-prealloc = Vnaprej dodeljeno
 
 process-type-default = Glavni
 process-type-tab = Zavihek
-
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPE
-
 # process used to perform network operations
 process-type-socket = Vtičnica
-
 # process used to decode media
 process-type-rdd = RDD
-
 # process used to run some IPC actor in their own sandbox
 process-type-utility = Igralec IPC v peskovniku
+process-type-utility-actor-audio-decoder-applemedia = Pripomoček AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Pripomoček Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Pripomoček Media Foundation Engine
+process-type-utility-actor-js-oracle = Pripomoček JavaScript Oracle
+process-type-utility-actor-windows-utils = Pripomoček Windows Utils
 
 ##
 ## Other

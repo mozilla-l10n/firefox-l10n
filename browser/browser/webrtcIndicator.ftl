@@ -233,6 +233,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Zapomni si to odločitev
+webrtc-remember-allow-checkbox-camera = Zapomni si za vse kamere
+webrtc-remember-allow-checkbox-microphone = Zapomni si za vse mikrofone
+webrtc-remember-allow-checkbox-camera-and-microphone = Zapomni si za vse kamere in mikrofone
 webrtc-mute-notifications-checkbox = Med skupno rabo izklopi obvestila spletnega mesta
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne more dovoliti trajnega dostopa do vašega zaslona.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne more dovoliti trajnega dostopa do zvoka tega zavihka, ne da bi vprašal, kateri zavihek želite deliti.
