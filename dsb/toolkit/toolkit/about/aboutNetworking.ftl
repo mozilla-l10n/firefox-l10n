@@ -4,6 +4,7 @@
 
 about-networking-title = Wo seśowych zwiskach
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = HTTP-cache wuprozniś
 about-networking-sockets = Sokety
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS-cache wuprozniś
