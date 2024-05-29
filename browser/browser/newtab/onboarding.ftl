@@ -129,7 +129,7 @@ mr2-onboarding-start-browsing-button-label = Lossurfen
 
 onboarding-live-language-header = Wähle deine Sprache
 mr2022-onboarding-live-language-text = { -brand-short-name } spricht deine Sprache
-mr2022-language-mismatch-subtitle = Dank unserer Gemeinschaft wird { -brand-short-name } in über 90 Sprachen übersetzt. Offenbar verwendet Ihr System { $systemLanguage } und { -brand-short-name } verwendet { $appLanguage }.
+mr2022-language-mismatch-subtitle = Dank unserer Gemeinschaft wird { -brand-short-name } in über 90 Sprachen übersetzt. Offenbar verwendet dein System { $systemLanguage } und { -brand-short-name } verwendet { $appLanguage }.
 onboarding-live-language-button-label-downloading = Das Sprachpaket für { $negotiatedLanguage } wird heruntergeladen…
 onboarding-live-language-waiting-button = Verfügbare Sprachen werden abgerufen…
 onboarding-live-language-installing = Das Sprachpaket für { $negotiatedLanguage } wird installiert…
@@ -339,8 +339,8 @@ onboarding-device-migration-primary-button-label = Anmelden
 ## The following screens have been updated to use security and privacy focused strings:
 
 # Easy setup screen
-onboarding-easy-setup-security-and-privacy-title = Wir schützen Sie gerne
-onboarding-easy-setup-security-and-privacy-subtitle = Unser gemeinnütziger Browser verhindert, dass Unternehmen heimlich Ihre Aktivitäten im Internet verfolgen.
+onboarding-easy-setup-security-and-privacy-title = Wir schützen dich gerne
+onboarding-easy-setup-security-and-privacy-subtitle = Unser gemeinnütziger Browser verhindert, dass Unternehmen heimlich deine Aktivitäten im Internet verfolgen.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Verschlüsseln Sie Ihre Daten, wenn Sie geräteübergreifend arbeiten
 onboarding-mobile-download-security-and-privacy-subtitle = Wenn Sie Ihre Daten synchronisieren, verschlüsselt { -brand-short-name } Ihre Passwörter, Lesezeichen und mehr. Außerdem können Sie Tabs von Ihren anderen Geräten holen.
