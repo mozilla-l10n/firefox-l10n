@@ -916,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = שימוש בססמה ראשית
     .accesskey = ש
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = לדרוש פרטי התחברות של המכשיר כדי למלא ולנהל ססמאות
 forms-primary-pw-learn-more-link = מידע נוסף
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -945,6 +948,12 @@ primary-password-os-auth-dialog-message-win = כדי ליצור ססמה ראש�
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ליצור ססמה ראשית
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] לשנות את ההגדרות עבור אמצעי תשלום
+       *[other] ‏{ -brand-short-name } מנסה לשנות את ההגדרות עבור אמצעי תשלום. יש להשתמש בפרטי ההתחברות של המכשיר שלך כדי לאפשר זאת.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
