@@ -4,6 +4,7 @@
 
 about-networking-title = Σχετικά με τη δικτύωση
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Απαλοιφή προσωρινής μνήμης HTTP
 about-networking-sockets = Υποδοχές
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Απαλοιφή κρυφής μνήμης DNS
