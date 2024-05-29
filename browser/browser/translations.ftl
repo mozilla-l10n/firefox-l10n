@@ -268,3 +268,4 @@ select-translations-panel-open-translations-settings-menuitem =
 
 # An announcement made to assistive technology when the translation is complete
 select-translations-panel-translation-complete-announcement = Traduzione completata
+
