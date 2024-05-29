@@ -4,6 +4,7 @@
 
 about-networking-title = О сети
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Очистить HTTP-кеш
 about-networking-sockets = Сокеты
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Очистить кеш DNS
