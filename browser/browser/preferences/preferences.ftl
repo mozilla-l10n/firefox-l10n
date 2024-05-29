@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = מבחר של אתרים ותכנים �
 home-prefs-snippets-header =
     .label = פתקיות
 home-prefs-snippets-description-new = עצות וחדשות מ־{ -vendor-short-name } ו־{ -brand-product-name }
+home-prefs-weather-header =
+    .label = מזג אוויר
+home-prefs-weather-description = תחזית היום במבט חטוף
+home-prefs-weather-learn-more-link = מידע נוסף
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
