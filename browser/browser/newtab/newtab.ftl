@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Rnu amsedday n unadi
 newtab-topsites-add-shortcut-header = Anegzum amaynut
 newtab-topsites-edit-topsites-header = Ẓreg asmel ifazen
 newtab-topsites-edit-shortcut-header = Ẓreg anegzum
+newtab-topsites-add-shortcut-label = Rnu anegzum
 newtab-topsites-title-label = Azwel
 newtab-topsites-title-input =
     .placeholder = Sekcem azwel
@@ -272,8 +273,13 @@ newtab-wallpaper-light-mountain = Adrar amellal
 
 ## New Tab Weather
 
+newtab-weather-menu-change-location = Ẓreg adig
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = Aḥerfi
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Beddel ɣer Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Beddel ɣer Celsius
 newtab-weather-menu-learn-more = Issin ugar
