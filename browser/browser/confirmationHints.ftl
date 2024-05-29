@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Imbiadu
 confirmation-hint-firefox-relay-mask-created = Alias nou creadu.
 confirmation-hint-firefox-relay-mask-reused = Alias torradu a impreare.
 confirmation-hint-screenshot-copied = Catura de s’ischermu copiada.
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] { $tabCount } ischeda serrada
+       *[other] { $tabCount } ischedas serradas
+    }
