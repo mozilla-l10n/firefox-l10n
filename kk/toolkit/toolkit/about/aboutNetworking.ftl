@@ -4,6 +4,7 @@
 
 about-networking-title = Желі туралы
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = HTTP кэшін тазарту
 about-networking-sockets = Сокеттер
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS кэшін тазарту
