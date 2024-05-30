@@ -951,6 +951,12 @@ primary-password-os-auth-dialog-message-win = Pour créer un mot de passe princi
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = créer un mot de passe principal
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] modifier les paramètres des moyens de paiement
+       *[other] { -brand-short-name } tente de modifier les paramètres des moyens de paiement. Connectez-vous à l’aide de votre appareil pour autoriser cette action.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill

@@ -268,6 +268,9 @@ newtab-custom-recent-subtitle = Une sélection de sites et de contenus récents
 newtab-custom-recent-toggle =
     .label = Activité récente
     .description = Une sélection de sites et de contenus récents
+newtab-custom-weather-toggle =
+    .label = Météo
+    .description = Les prévisions du jour en un coup d’œil
 newtab-custom-close-button = Fermer
 newtab-custom-settings = Gérer plus de paramètres
 
@@ -291,3 +294,29 @@ newtab-wallpaper-dark-city = Paysage de ville avec une teinte violette
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Photo de <a data-l10n-name="name-link">{ $author_string }</a> sur <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Voir les prévisions sur { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsorisé
+newtab-weather-menu-change-location = Changer de lieu
+newtab-weather-change-location-search-input = Rechercher un lieu
+newtab-weather-menu-weather-display = Affichage météo
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Simple
+newtab-weather-menu-temperature-units = Unité des températures
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Passer en Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Passer en Celsius
+newtab-weather-menu-hide-weather = Masquer la météo sur la page Nouvel onglet
+newtab-weather-menu-learn-more = En savoir plus
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Les données météo ne sont pas disponibles pour le moment.

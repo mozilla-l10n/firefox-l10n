@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Pour modifier votre identif
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifier l’identifiant enregistré
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] modifier les paramètres des mots de passe
+       *[other] { -brand-short-name } tente de modifier les paramètres des mots de passe. Connectez-vous à l’aide de votre appareil pour autoriser cette action.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Pour modifier votre mot de passe, utilisez vos informations de connexion à Windows. Cela contribue à protéger la sécurité de vos comptes.
 # This message can be seen when attempting to edit a login in about:logins
@@ -249,11 +256,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Cette action supprimera l’identifiant enregistré pour { -brand-short-name } de tous vos appareils synchronisés à votre { -fxaccount-brand-name }. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
        *[other] Cette action supprimera tous les identifiants enregistrés pour { -brand-short-name } de tous vos appareils synchronisés à votre { -fxaccount-brand-name }. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Cette action supprimera l’identifiant enregistré dans { -brand-short-name } de tous vos appareils synchronisés à votre compte. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
-       *[other] Cette action supprimera tous les identifiants enregistrés dans { -brand-short-name } de tous vos appareils synchronisés à votre compte. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
