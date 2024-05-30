@@ -310,7 +310,10 @@ newtab-weather-menu-weather-display = Affichage météo
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
-newtab-weather-menu-weather-display-option-simple = Simple
+newtab-weather-menu-weather-display-option-simple = Vue simplifiée
+newtab-weather-menu-change-weather-display-simple = Afficher la vue simplifiée
+newtab-weather-menu-weather-display-option-detailed = Vue détaillée
+newtab-weather-menu-change-weather-display-detailed = Afficher la vue détaillée
 newtab-weather-menu-temperature-units = Unité des températures
 newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
