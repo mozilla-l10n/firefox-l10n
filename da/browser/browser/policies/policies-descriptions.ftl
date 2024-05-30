@@ -84,6 +84,8 @@ policy-Handlers = Indstil håndtering af standard-applikationer.
 policy-HardwareAcceleration = False slår hardware-acceleration fra.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Indstil og lås eventuelt startsiden.
+policy-HttpAllowlist = Kilder, som ikke vil blive opgraderet til HTTPS.
+policy-HttpsOnlyMode = Tillad at tilstanden Kun-HTTPS aktiveres.
 policy-InstallAddonsPermission = Tillad bestemte websteder at installere tilføjelser.
 policy-LegacyProfiles = Deaktiver funktionen, der gennemtvinger at hver installation har en separat profil.
 
@@ -108,6 +110,9 @@ policy-OverrideFirstRunPage = Erstat siden, der vises ved første opstart. Lad p
 policy-OverridePostUpdatePage = Erstat siden Nyheder, der vises efter opdatering. Lad politikken være tom, hvis siden efter opdatering skal deaktiveres.
 policy-PasswordManagerEnabled = Tillad at brugeren kan gemme adgangskoder i Adgangskode-håndteringen.
 policy-PasswordManagerExceptions = Tillad ikke { -brand-short-name } at gemme adgangskoder for bestemte websteder.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Aktiver nøgleaftaler for TLS, som er sikret mod angreb fra kvante-computere.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deaktiver eller konfigurer PDF.js, den indbyggede PDF-læser i { -brand-short-name }.
 policy-Permissions2 = Indstil tilladelser for kamera, mikrofon, position, beskeder og automatisk afspilning.
