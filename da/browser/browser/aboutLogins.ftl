@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Indtast dine login-informat
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = redigere det gemte login
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] ændre indstillingerne for adgangskoder
+       *[other] { -brand-short-name } forsøger at ændre indstillingerne for adgangskoder. Brug login på din enhed for at tillade dette.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = For at redigere din adgangskode skal du indtaste dine Windows-loginoplysninger. Dette hjælper med at beskytte sikkerheden på dine konti.
 # This message can be seen when attempting to edit a login in about:logins
@@ -252,12 +259,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Denne handling fjerner det login, du har gemt til { -brand-short-name } på alle enheder, der er synkroniseret med din { -fxaccount-brand-name }. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
         [one] Denne handling fjerner det login, du har gemt til { -brand-short-name } på alle enheder, der er synkroniseret med din { -fxaccount-brand-name }. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
        *[other] Denne handling fjerner de logins, du har gemt til { -brand-short-name } på alle enheder, der er synkroniseret med din { -fxaccount-brand-name }. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Denne handling fjerner det login, du har gemt i { -brand-short-name } på alle enheder, der er synkroniseret med din konto. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
-        [one] Denne handling fjerner det login, du har gemt i { -brand-short-name } på alle enheder, der er synkroniseret med din konto. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
-       *[other] Denne handling fjerner de logins, du har gemt i { -brand-short-name } på alle enheder, der er synkroniseret med din konto. Advarsler om datalæk, der optræder her, vil også blive fjernet. Du kan ikke fortryde denne handling.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
