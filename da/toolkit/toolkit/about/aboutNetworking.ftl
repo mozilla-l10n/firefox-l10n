@@ -4,6 +4,7 @@
 
 about-networking-title = Om netværk
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Ryd HTTP-cache
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Ryd DNS-cache
