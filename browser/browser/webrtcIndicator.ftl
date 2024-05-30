@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Husk dette valg
+webrtc-remember-allow-checkbox-camera = Husk for alle kameraer
+webrtc-remember-allow-checkbox-microphone = Husk for alle mikrofoner
+webrtc-remember-allow-checkbox-camera-and-microphone = Husk for alle kameraer og mikrofoner
 webrtc-mute-notifications-checkbox = Slå websteds-beskeder fra ved deling
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan ikke tillade permanent adgang til din skærm.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikke tillade permanent adgang til dit faneblads lyd uden først at spørge, hvilket faneblad der skal deles.
