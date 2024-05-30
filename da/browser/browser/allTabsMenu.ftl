@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Søg i faneblade
-
 all-tabs-menu-new-user-context =
     .label = Nyt kontekst-faneblad
-
 all-tabs-menu-hidden-tabs =
     .label = Skjulte faneblade
-
 all-tabs-menu-manage-user-context =
     .label = Håndter kontekster
     .accesskey = o
+all-tabs-menu-close-duplicate-tabs =
+    .label = Luk kopierede faneblade
