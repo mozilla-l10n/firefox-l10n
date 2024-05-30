@@ -601,6 +601,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = Tips og nyheder fra { -vendor-short-name } og { -brand-product-name }
 home-prefs-weather-header =
     .label = Vejr
+home-prefs-weather-description = Dagens vejrudsigt
 home-prefs-weather-learn-more-link = Lær mere
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -915,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Benyt en hovedadgangskode
     .accesskey = B
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Kræv login på enhed for at udfylde og håndtere adgangskoder
 forms-primary-pw-learn-more-link = Læs mere
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -947,6 +951,12 @@ primary-password-os-auth-dialog-message-win = For at oprette en hovedadgangskode
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = oprette en hovedadgangskode
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] ændre indstillingerne for betalingsmetoder
+       *[other] { -brand-short-name } forsøger at ændre indstillingerne for betalingsmetoder. Brug login på din enhed for at tillade dette.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
