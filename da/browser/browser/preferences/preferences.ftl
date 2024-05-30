@@ -980,6 +980,9 @@ autofill-reauth-checkbox =
        *[other] Kræv godkendelse for at udfylde og redigere betalingsmetoder
     }
     .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Kræv login på enhed for at udfylde og håndtere betalingsmetoder
+    .accesskey = o
 
 ## Privacy Section - History
 
