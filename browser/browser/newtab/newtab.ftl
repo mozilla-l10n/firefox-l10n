@@ -273,6 +273,9 @@ newtab-custom-recent-subtitle = Et udvalg af seneste websteder og indhold
 newtab-custom-recent-toggle =
     .label = Seneste aktivitet
     .description = Et udvalg af seneste websteder og indhold
+newtab-custom-weather-toggle =
+    .label = Vejr
+    .description = Dagens vejrudsigt
 newtab-custom-close-button = Luk
 newtab-custom-settings = Håndter flere indstillinger
 
@@ -299,6 +302,13 @@ newtab-wallpaper-attribution = Foto af <a data-l10n-name="name-link">{ $author_s
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Se vejrudsigter på { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsoreret
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
