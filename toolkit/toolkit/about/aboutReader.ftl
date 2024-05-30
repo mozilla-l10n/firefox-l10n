@@ -99,20 +99,28 @@ about-reader-custom-colors-visited-links = Besøgte links
 about-reader-custom-colors-selection-highlight = Fremhævning af oplæst tekst
     .title = Rediger farve
 about-reader-custom-colors-reset-button = Nulstil til standard-indstillingerne
+about-reader-reset-button = Nulstil til standard-indstillingerne
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Tekst
+about-reader-text-size-label = Tekststørrelse
+about-reader-font-type-selector-label = Skrifttype
+about-reader-font-weight-selector-label = Skrifttykkelse
+about-reader-font-weight-light = Let
+about-reader-font-weight-regular = Normal
+about-reader-font-weight-bold = Fed
 about-reader-layout-header = Layout
-about-reader-advanced-layout-header = Avanceret
-about-reader-slider-label-width-narrow = Smal
-about-reader-slider-label-width-wide = Bred
-about-reader-slider-label-spacing-narrow = Smal
 about-reader-slider-label-spacing-standard = Standard
 about-reader-slider-label-spacing-wide = Bred
 about-reader-content-width-label =
     .label = Indholdsbredde
 about-reader-line-spacing-label =
     .label = Linjeafstand
+about-reader-advanced-layout-header = Avanceret
+about-reader-slider-label-width-narrow = Smal
+about-reader-slider-label-width-wide = Bred
+about-reader-slider-label-spacing-narrow = Smal
 about-reader-character-spacing-label =
     .label = Afstand mellem tegn
 about-reader-word-spacing-label =
