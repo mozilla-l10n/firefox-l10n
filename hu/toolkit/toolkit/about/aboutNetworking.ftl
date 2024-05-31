@@ -4,6 +4,7 @@
 
 about-networking-title = Hálózatkezelés névjegye
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = HTTP-gyorsítótár törlése
 about-networking-sockets = Foglalatok
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS-gyorsítótár törlése
