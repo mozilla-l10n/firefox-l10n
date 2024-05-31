@@ -411,3 +411,4 @@ content-analysis-active = Đang hoạt động
 content-analysis-connected-to-agent = Đã kết nối tới tác nhân
 content-analysis-agent-path = Đường dẫn tác nhân
 content-analysis-agent-failed-signature-verification = Xác minh chữ ký tác nhân không thành công
+content-analysis-request-count = Số lượng yêu cầu

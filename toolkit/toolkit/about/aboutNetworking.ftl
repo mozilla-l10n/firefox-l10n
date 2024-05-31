@@ -4,6 +4,7 @@
 
 about-networking-title = Về thông tin mạng
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Xoá bộ nhớ đệm HTTP
 about-networking-sockets = Socket
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Xóa bộ nhớ đệm DNS

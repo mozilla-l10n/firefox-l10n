@@ -71,6 +71,8 @@ perftools-button-edit-settings = Chỉnh sửa cài đặt…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = Các tiến trình chính cho cả tiến trình gốc và tiến trình nội dung
 perftools-thread-dom-worker =
     .title = Chức năng này xử lý cả Web Workers và Service Workers
 perftools-thread-renderer =
@@ -103,6 +105,11 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Nhà phát triển Web
