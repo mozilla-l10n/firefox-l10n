@@ -22,3 +22,6 @@ confirmation-hint-send-to-device = ส่งแล้ว!
 confirmation-hint-firefox-relay-mask-created = สร้างตัวปกปิดใหม่แล้ว!
 confirmation-hint-firefox-relay-mask-reused = ใช้ตัวปกปิดที่มีอยู่ซ้ำแล้ว!
 confirmation-hint-screenshot-copied = คัดลอกภาพหน้าจอแล้ว!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed = ปิด { $tabCount } แท็บ
