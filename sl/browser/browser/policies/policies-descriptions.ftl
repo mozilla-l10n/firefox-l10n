@@ -84,6 +84,7 @@ policy-Handlers = Nastavite privzete upravljalce aplikacij.
 policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastavi in po potrebi zakleni domačo stran.
+policy-HttpAllowlist = Izvori, ki ne bodo nadgrajeni na HTTPS.
 policy-HttpsOnlyMode = Dovoli omogočitev načina samo HTTPS.
 policy-InstallAddonsPermission = Določenim spletnim mestom dovoli nameščanje dodatkov.
 policy-LegacyProfiles = Onemogoči možnost ustvarjanja ločenega profila za vsako namestitev.
@@ -109,6 +110,9 @@ policy-OverrideFirstRunPage = Preglasi stran prvega zagona. Če želite onemogo�
 policy-OverridePostUpdatePage = Preglasi stran "Kaj je novega", ki se odpre po posodobitvi. Če želite onemogočiti prikaz strani po posodobitvi, nastavite pravilnik na prazno vrednost.
 policy-PasswordManagerEnabled = Omogoči shranjevanje gesel v upravitelja gesel.
 policy-PasswordManagerExceptions = { -brand-short-name(sklon: "dajalnik") } prepreči shranjevanje gesel za določena spletna mesta.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Omogoči post-kvanten dogovor o ključu za TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Onemogoči ali nastavi PDF.js, pregledovalnik PDF brskalnika { -brand-short-name }.
 policy-Permissions2 = Nastavi dovoljenja za kamero, mikrofon, lokacijo, obvestila in samodejno predvajanje.
