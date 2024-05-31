@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Các tập tin nhật ký đã 
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Tự động làm mới
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Tự động làm mới theo mặc định
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Làm mới
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -92,8 +90,8 @@ about-webrtc-save-page-label = Lưu trang
 about-webrtc-debug-mode-msg-label = Chế độ gỡ lỗi
 about-webrtc-debug-mode-off-state-label = Bắt đầu chế độ gỡ lỗi
 about-webrtc-debug-mode-on-state-label = Dừng chế độ gỡ lỗi
-about-webrtc-enable-logging-label = Bật cài đặt nhật ký WebRTC được định trước
 about-webrtc-stats-heading = Thống kê phiên
+about-webrtc-enable-logging-label = Bật cài đặt nhật ký WebRTC được định trước
 about-webrtc-stats-clear = Xóa lịch sử
 about-webrtc-log-heading = Nhật ký kết nối
 about-webrtc-log-clear = Xóa nhật ký
@@ -168,6 +166,13 @@ about-webrtc-configuration-element-provided = Cung cấp
 about-webrtc-configuration-element-not-provided = Không cung cấp
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Người dùng thiết lập tùy chọn WebRTC
+
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+
+##
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Băng thông ước tính
 # The estimated bandwidth available for sending WebRTC media in bytes per second
@@ -265,9 +270,8 @@ about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "fa
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
-
-##
-
+about-webrtc-show-msg-sdp = Hiển thị SDP
+about-webrtc-hide-msg-sdp = Ẩn SDP
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
