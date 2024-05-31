@@ -34,3 +34,5 @@ jobs:
       - run: git merge --no-edit $(tr '\n' ' ' < firefox-locales)
         shell: bash
       - run: git push origin cthulhu
+      - run: git tag --force last-sync cthulhu
+      - run: git push --force origin last-sync
