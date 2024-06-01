@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = ਇਹ ਫ਼ੈਸਲਾ ਯਾਦ ਰੱਖੋ
+webrtc-remember-allow-checkbox-camera = ਸਾਰੇ ਕੈਮਰਿਆਂ ਲਈ ਯਾਦ ਰੱਖੋ
+webrtc-remember-allow-checkbox-microphone = ਸਾਰੇ ਮਾਈਕਰੋਫ਼ੋਨਾਂ ਲਈ ਯਾਦ ਰੱਖੋ
+webrtc-remember-allow-checkbox-camera-and-microphone = ਸਾਰੇ ਕੈਮਰਿਆਂ ਅਤੇ ਮਾਈਕਰੋਫ਼ੋਨਾਂ ਲਈ ਯਾਦ ਰੱਖੋ
 webrtc-mute-notifications-checkbox = ਜਦੋਂ ਸਾਂਝਾ ਕਰ ਰਹੇ ਹੋਵੋ ਤਾਂ ਵੈੱਬਸਾਈਟ ਨੋਟੀਫਿਕੋਸ਼ਨ ਬੰਦ ਕਰੋ
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੀ ਸਕਰੀਨ ਲਈ ਪੱਕੀ ਪਹੁੰਚ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੱਤੀ ਜਾ ਸਕਦੀ ਹੈ।
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ਤੁਹਾਡੇ ਟੈਬ ਦੀ ਆਡੀਓ ਲਈ ਇਹ ਪੁੱਛੇ ਬਿਨਾਂ ਕਿ ਕਿਹੜੀ ਟੈਬ ਸਾਂਝੀ ਕਰਨੀ ਹੈ, ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਪਹੁੰਚ ਲਈ ਸਹਿਮਤੀ ਨਹੀਂ ਦੇ ਸਕਦਾ।

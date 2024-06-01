@@ -322,3 +322,7 @@ newtab-weather-menu-temperature-option-fahrenheit = ਫਾਹਰਨਹੀਟ
 newtab-weather-menu-temperature-option-celsius = ਸੈਲਸੀਅਸ
 newtab-weather-menu-change-temperature-units-fahrenheit = ਫਾਹਰਨਹੀਟ ਵਿੱਚ ਬਦਲੋ
 newtab-weather-menu-change-temperature-units-celsius = ਸੈਲਸੀਅ ਵਿੱਚ ਬਦਲੋ
+newtab-weather-menu-hide-weather = ਨਵੀਂ ਟੈਬ ਉੱਤੇ ਮੌਸਮ ਨੂੰ ਲੁਕਾਓ
+newtab-weather-menu-learn-more = ਹੋਰ ਜਾਣੋ
+# This message is shown if user is working offline
+newtab-weather-error-not-available = ਮੌਸਮ ਦਾ ਡਾਟਾ ਹਾਲੇ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।

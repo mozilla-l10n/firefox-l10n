@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = ਤਾਜ਼ਾ ਸਾਈਟਾਂ ਤੇ 
 home-prefs-snippets-header =
     .label = ਛੋਟੇ ਟੋਟੇ
 home-prefs-snippets-description-new = { -vendor-short-name } ਅਤੇ { -brand-product-name } ਵਲੋਂ ਟੋਟਕੇ ਤੇ ਖ਼ਬਰਾਂ
+home-prefs-weather-header =
+    .label = ਮੌਸਮ
+home-prefs-weather-description = ਅੱਜ ਦੀ ਭਵਿੱਖਬਾਣੀ ਲਈ ਨਜ਼ਰਸਾਨੀ
+home-prefs-weather-learn-more-link = ਹੋਰ ਜਾਣੋ
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = ਮੁੱਖ ਪਾਸਵਰਡ ਵਰਤੋਂ
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = ਪਾਸਵਰਡ ਭਰਨ ਅਤੇ ਇੰਤਜ਼ਾਮ ਕਰਨ ਲਈ ਡਿਵਾਈਸ ਲਾਗਇਨ ਚਾਹੀਦਾ ਹੈ
 forms-primary-pw-learn-more-link = ਹੋਰ ਜਾਣੋ
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -944,6 +951,13 @@ primary-password-os-auth-dialog-message-win = ਮੁੱਖ ਪਾਸਵਰਡ �
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ਮੁੱਖ ਪਾਸਵਰਡ ਬਣਾਓ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] ਭੁਗਤਾਨ ਢੰਗਾਂ ਲਈ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਣਾ
+       *[other] { -brand-short-name } ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਲਈ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਦੀ ਮਨਜ਼ੂਰੀ ਦੇਣ ਲਈ ਆਪਣੇ ਡਿਵਾਈਸ ਸਾਈਨ ਇਨ ਨੂੰ ਵਰਤੋਂ।
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -965,6 +979,9 @@ autofill-reauth-checkbox =
         [linux] ਭੁਗਤਾਨ ਦੇ ਢੰਗ ਭਰਨ ਅਤੇ ਸੰਭਾਲਣ ਲਈ ਲੀਨਸ ਪਰਮਾਣਕਿਤਾ ਚਾਹੀਦੀ ਹੈ।
        *[other] ਭੁਗਤਾਨ ਦੇ ਢੰਗ ਭਰਨ ਅਤੇ ਸੰਭਾਲਣ ਲਈ ਪਰਮਾਣਕਿਤਾ ਚਾਹੀਦੀ ਹੈ।
     }
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਨੂੰ ਭਰਨ ਅਤੇ ਇੰਤਜ਼ਾਮ ਕਰਨ ਲਈ ਡਿਵਾਈਸ ਲਾਗਇਨ ਚਾਹੀਦਾ ਹੈ
     .accesskey = o
 
 ## Privacy Section - History
