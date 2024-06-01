@@ -300,9 +300,29 @@ newtab-wallpaper-attribution = Fotografia de <a data-l10n-name="name-link">{ $au
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Càstia is previsiones in { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Isponsorizadu
 newtab-weather-menu-change-location = Càmbia positzione
+newtab-weather-change-location-search-input = Chirca positzione
 newtab-weather-menu-weather-display = Vista de su tempus
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = Sèmplitze
+newtab-weather-menu-change-weather-display-simple = Passa a sa vista sèmplitze
+newtab-weather-menu-weather-display-option-detailed = A sa minuda
+newtab-weather-menu-change-weather-display-detailed = Passa a sa vista a sa minuda
+newtab-weather-menu-temperature-units = Unidades de temperadura
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Passa a Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Passa a Celsius
+newtab-weather-menu-hide-weather = Cua su tempus in s’ischeda noa
+newtab-weather-menu-learn-more = Àteras informatziones
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Is datos de su tempus non sunt a disponimentu immoe.
