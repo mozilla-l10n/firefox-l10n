@@ -271,6 +271,9 @@ newtab-custom-recent-subtitle = Una seletzione de sitos e cuntenutos reghentes
 newtab-custom-recent-toggle =
     .label = Atividade reghente
     .description = Una seletzione de sitos e cuntenutos reghentes
+newtab-custom-weather-toggle =
+    .label = Tempus
+    .description = Is previsiones de oe in curtzu
 newtab-custom-close-button = Serra
 newtab-custom-settings = Gesti prus cunfiguratziones
 
@@ -282,6 +285,7 @@ newtab-wallpaper-light-red-panda = Panda ruju
 newtab-wallpaper-light-mountain = Monte biancu
 newtab-wallpaper-light-sky = Chelu cun nues tanadas e colore de rosa
 newtab-wallpaper-light-color = Formas biaitas, colore de rosa e grogas
+newtab-wallpaper-light-landscape = Paesàgiu de monte cun neulita biaita
 newtab-wallpaper-light-beach = Ispiàgia cun palma
 newtab-wallpaper-dark-aurora = Aurora Borealis
 newtab-wallpaper-dark-color = Formas rujas e biaitas
@@ -296,3 +300,9 @@ newtab-wallpaper-attribution = Fotografia de <a data-l10n-name="name-link">{ $au
 
 ## New Tab Weather
 
+newtab-weather-menu-change-location = Càmbia positzione
+newtab-weather-menu-weather-display = Vista de su tempus
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Sèmplitze
