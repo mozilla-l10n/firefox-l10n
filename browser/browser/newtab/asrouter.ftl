@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = ਆਪਣੇ ਬੁੱਕਮਾਰਕ ਹਰ ਥਾਂ ਉੱਤੇ ਸਿੰਕ ਕਰੋ।
 cfr-doorhanger-bookmark-fxa-body = ਵਧੀਆ ਲੱਭੋ! ਹੁਣ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਇਸ ਬੁੱਕਮਾਰਕ ਬਿਨਾਂ ਨਾ ਰਹੋ। { -fxaccount-brand-name } ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ।
+cfr-doorhanger-bookmark-fxa-body-2 = ਵਧੀਆ ਖੋਜ! ਹੁਣ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਇਸ ਬੁੱਕਮਾਰਕ ਬਿਨਾਂ ਨਾ ਰਹੋ। ਖਾਤੇ ਨਾਲ ਸ਼ੁਰੂ ਕਰੋ।
 cfr-doorhanger-bookmark-fxa-link-text = …ਬੁੱਕਮਾਰਕ ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ਬੰਦ ਕਰੋ ਬਟਨ
@@ -203,8 +204,6 @@ cfr-cbh-confirm-button = ਕੂਕੀਜ਼ ਬੈਨਰ ਖ਼ਾਰਜ ਕਰੋ
     .accesskey = R
 cfr-cbh-dismiss-button = ਹੁਣੇ ਨਹੀਂ
     .accesskey = N
-cookie-banner-blocker-cfr-header = { -brand-short-name } ਨੇ ਤੁਹਾਡੇ ਲਈ ਕੂਕੀਜ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
-cookie-banner-blocker-cfr-body = ਸਾਈਟਾਂ ਵਲੋਂ ਤੁਹਾਡੀ ਟੋਹ ਲੈਣਾ ਔਖਾ ਬਣਾਉਣ ਵਾਸਤੇ ਅਸੀਂ ਵੱਧ ਤੋਂ ਵੱਧ ਕੂਕੀ ਪੌਪ-ਅੱਪ ਤੋਂ ਆਪਣੇ-ਆਪ ਹੀ ਨਾਂਹ ਕਰਦੇ ਹਾਂ।
 cookie-banner-blocker-onboarding-header = { -brand-short-name } ਨੇ ਹੁਣੇ ਹੀ ਤੁਹਾਡੇ ਲਈ ਕੂਕੀ ਬੈਨਰ ਤੋਂ ਇਨਕਾਰ ਕੀਤਾ
 cookie-banner-blocker-onboarding-body = ਇਸ ਸਾਈਟ ਲਈ ਤੁਹਾਡੇ ਲਈ ਘੱਟ ਧਿਆਨ ਭਟਕਣਾ, ਘੱਟ ਕੂਕੀਜ਼ ਟਰੈਕਿੰਗ ਹੈ।
 cookie-banner-blocker-onboarding-learn-more = ਹੋਰ ਜਾਣੋ

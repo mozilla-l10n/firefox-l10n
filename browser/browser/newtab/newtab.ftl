@@ -271,6 +271,9 @@ newtab-custom-recent-subtitle = ਤਾਜ਼ਾ ਸਾਈਟਾਂ ਤੇ ਸਮੱ
 newtab-custom-recent-toggle =
     .label = ਤਾਜ਼ਾ ਸਰਗਰਮੀ
     .description = ਤਾਜ਼ਾ ਸਾਈਟਾਂ ਤੇ ਸਮੱਗਰੀ ਦੀ ਚੋਣ
+newtab-custom-weather-toggle =
+    .label = ਮੌਸਮ
+    .description = ਅੱਜ ਦੇ ਮੌਸਮ ਬਾਰੇ ਝਾਤ
 newtab-custom-close-button = ਬੰਦ ਕਰੋ
 newtab-custom-settings = ਹੋਰ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 
@@ -294,3 +297,28 @@ newtab-wallpaper-dark-city = ਜਾਮਨੀ ਸ਼ਹਿਰੀ ਦ੍ਰਿਸ਼
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = <a data-l10n-name="name-link">{ $author_string }</a> ਵਲੋਂ <a data-l10n-name="webpage-link">{ $webpage_string }</a> ਉੱਤੇ ਪਾਈ ਫ਼ੋਟੋ
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = { $provider } ਵਿੱਚ ਭਵਿੱਖਬਾਣੀ ਵੇਖੋ
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ ਸਪਾਂਸਰ
+newtab-weather-menu-change-location = ਟਿਕਾਣੇ ਨੂੰ ਬਦਲੋ
+newtab-weather-change-location-search-input = ਟਿਕਾਣੇ ਨੂੰ ਖੋਜੋ
+newtab-weather-menu-weather-display = ਮੌਸਮ ਦੀ ਝਲਕ
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = ਸਧਾਰਨ
+newtab-weather-menu-change-weather-display-simple = ਸਰਲ ਝਲਕ ਲਈ ਬਦਲੋ
+newtab-weather-menu-weather-display-option-detailed = ਵੇਰਵੇ ਸਮੇਤ
+newtab-weather-menu-change-weather-display-detailed = ਵੇਰਵੇ ਸਮੇਤ ਝਲਕ ਲਈ ਬਦਲੋ
+newtab-weather-menu-temperature-units = ਤਾਪਮਾਨ ਦੀ ਇਕਾਈ
+newtab-weather-menu-temperature-option-fahrenheit = ਫਾਹਰਨਹੀਟ
+newtab-weather-menu-temperature-option-celsius = ਸੈਲਸੀਅਸ
+newtab-weather-menu-change-temperature-units-fahrenheit = ਫਾਹਰਨਹੀਟ ਵਿੱਚ ਬਦਲੋ
+newtab-weather-menu-change-temperature-units-celsius = ਸੈਲਸੀਅ ਵਿੱਚ ਬਦਲੋ
