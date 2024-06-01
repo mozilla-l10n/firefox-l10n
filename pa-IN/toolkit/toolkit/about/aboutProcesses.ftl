@@ -127,6 +127,7 @@ about-processes-utility-actor-mf-media-engine = Windows ਮੀਡੀਆ ਫਾ�
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = ਵਿੰਡੋਜ਼ ਸਹੂਲਤਾਂ
+about-processes-utility-actor-windows-file-dialog = ਵਿੰਡੋਜ਼ ਫਾਇਲ ਡਾਈਲਾਗ
 
 ## Displaying CPU (percentage and total)
 ## Variables:

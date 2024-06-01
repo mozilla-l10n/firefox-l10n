@@ -126,6 +126,13 @@ translations-manage-description = ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ �
 translations-manage-all-language = ਸਭ ਭਾਸ਼ਾਵਾਂ
 translations-manage-download-button = ਡਾਊਨਲੋਡ
 translations-manage-delete-button = ਹਟਾਓ
+translations-manage-intro = ਆਪਣੀ ਭਾਸ਼ਾ ਅਤੇ ਸਾਈਟ ਅਨੁਵਾਦ ਪਸੰਦਾਂ ਨੂੰ ਸੈੱਟ ਕਰੋ ਅਤੇ ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਇੰਸਟਾਲ ਹੋਈਆਂ ਭਾਸ਼ਾਵਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ।
+translations-manage-install-description = ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਭਾਸ਼ਾਵਾਂ ਇੰਸਟਾਲ ਕਰੋ
+translations-manage-language-install-button =
+    .label = ਇੰਸਟਾਲ ਕਰੋ
+translations-manage-language-install-all-button =
+    .label = ਸਭ ਇੰਸਟਾਲ
+    .accesskey = I
 translations-manage-intro-2 = ਆਪਣੀ ਭਾਸ਼ਾ ਅਤੇ ਸਾਈਟ ਅਨੁਵਾਦ ਪਸੰਦਾਂ ਨੂੰ ਸੈੱਟ ਕਰੋ ਅਤੇ ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਡਾਊਨਲੋਡ ਹੋਈਆਂ ਭਾਸ਼ਾਵਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ।
 translations-manage-download-description = ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਭਾਸ਼ਾਵਾਂ ਡਾਊਨਲੋਡ ਕਰੋ
 translations-manage-language-download-button =
@@ -141,13 +148,6 @@ translations-manage-language-remove-all-button =
 translations-manage-error-install = ਭਾਸ਼ਾ ਫ਼ਾਈਲਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ। ਫ਼ੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।
 translations-manage-error-download = ਭਾਸ਼ਾ ਫ਼ਾਈਲਾਂ ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-manage-error-delete = ਭਾਸ਼ਾ ਫ਼ਾਈਲ ਹਟਾਉਣ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
-translations-manage-intro = ਆਪਣੀ ਭਾਸ਼ਾ ਅਤੇ ਸਾਈਟ ਅਨੁਵਾਦ ਪਸੰਦਾਂ ਨੂੰ ਸੈੱਟ ਕਰੋ ਅਤੇ ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਇੰਸਟਾਲ ਹੋਈਆਂ ਭਾਸ਼ਾਵਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ।
-translations-manage-install-description = ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਭਾਸ਼ਾਵਾਂ ਇੰਸਟਾਲ ਕਰੋ
-translations-manage-language-install-button =
-    .label = ਇੰਸਟਾਲ ਕਰੋ
-translations-manage-language-install-all-button =
-    .label = ਸਭ ਇੰਸਟਾਲ
-    .accesskey = I
 translations-manage-error-remove = ਭਾਸ਼ਾ ਫ਼ਾਈਲ ਹਟਾਉਣ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-manage-error-list = ਅਨੁਵਾਦ ਲਈ ਮੌਜੂਦ ਭਾਸ਼ਾਵਾਂ ਦੀ ਸੂਚੀ ਲੈਣ ਲਈ ਅਸਫ਼ਲ ਹੈ। ਸਫ਼ੇ ਨੂੰ ਤਾਜ਼ਾ ਕਰਕੇ ਫ਼ੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-settings-title =
@@ -177,12 +177,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = ਬੰਦ ਕਰੋ
     .buttonaccesskeyaccept = C
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = ਚੋਣ ਦਾ ਉਲੱਥਾ…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = { $language } ਲਈ ਚੋਣ ਦਾ ਉਲੱਥਾ
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = ਲਿੰਕ ਦੀ ਲਿਖਤ ਦਾ ਉਲੱਥਾ…
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = ਲਿੰਕ ਦੀ ਲਿਖਤ ਦਾ { $language } ਵਿੱਚ ਉਲੱਥਾ
+    .accesskey = n
+# Text displayed in the select translations panel header.
+select-translations-panel-header = ਉਲੱਥਾ
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = ਤੋਂ
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = ਵਿੱਚ
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = ਹੋਰ ਸਰੋਤ ਭਾਸ਼ਾ ਅਜ਼ਮਾਓ
 select-translations-panel-cancel-button =
     .label = ਰੱਦ ਕਰੋ
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = ਕਾਪੀ ਕਰੋ
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = ਕਾਪੀ ਕੀਤਾ
+select-translations-panel-done-button =
+    .label = ਮੁਕੰਮਲ
+select-translations-panel-translate-full-page-button =
+    .label = ਪੂਰੇ ਸਫ਼ੇ ਦਾ ਉਲੱਥਾ ਕਰੋ
 select-translations-panel-translate-button =
     .label = ਅਨੁੁਵਾਦ
 select-translations-panel-try-again-button =
     .label = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = ਉਲੱਥਾ ਕੀਤੀ ਲਿਖਤ ਇੱਥੇ ਦਿਖਾਈ ਦੇਵੇਗੀ।
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = …ਉਲੱਥਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+select-translations-panel-init-failure-message =
+    .message = ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ। ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = ਅਨੁਵਾਦ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ। ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
@@ -196,3 +246,8 @@ select-translations-panel-unsupported-language-message-known =
     .message = ਅਫ਼ਸੋਸ, ਅਸੀਂ ਹਾਲੇ { $language } ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹਾਂ।
 select-translations-panel-unsupported-language-message-unknown =
     .message = ਅਫ਼ਸੋਸ, ਅਸੀਂ ਹਾਲੇ ਇਸ ਭਾਸ਼ਾ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹਾਂ।
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = ਉਲੱਥਾ ਸੈਟਿੰਗਾਂ
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = ਉਲੱਥਾ ਪੂਰਾ

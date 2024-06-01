@@ -41,12 +41,23 @@ contentanalysis-genericresponse-message = ਸਮੱਗਰੀ ਵਿਸ਼ਲੇ�
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = ਤੁਹਾਡਾ ਸੰਗਠਨ ਡਾਟਾ-ਗੁੰਮ ਹੋਣ ਤੋਂ ਰੋਕਣ ਵਾਲਾ ਸਾਫਟਵੇਅਰ ਵਰਤਦਾ ਹੈ, ਜਿਸ ਨੇ ਇਸ ਸਾਈਟ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ: { $content }।
 # Variables:
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-error-message = ਡਾਟਾ-ਗੁੰਮ ਹੋਣ ਤੋਂ ਰੋਕਣ ਵਾਲੇ ਸਾਫਟਵੇਅਰ ਨਾਲ ਸੰਚਰ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ। ਸਰੋਤ ਲਈ ਟਰਾਂਸਫਰ ਤੋਂ ਇਨਕਾਰ ਕੀਤਾ: { $content }।
-# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-unspecified-error-message = { $agent } ਨਾਲ ਸੰਚਾਰ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ। ਸਰੋਤ ਨੂੰ ਤਬਦੀਲ ਕਰਨ ਤੋਂ ਇਨਕਾਰ: { $content }।
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-no-agent-connected-message = { $agent } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ। ਸਰੋਤ ਤਬਾਦਲੇ ਤੋਂ ਇਨਕਾਰ: { $content }।
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = { $agent } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ। { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = “{ $filename }” ਦੇ ਅੱਪਲੋਡ ਤੋਂ ਇਨਕਾਰ ਹੈ।
+contentanalysis-error-message-dropped-text = ਡਰੈਗ ਅਤੇ ਡਰੌਪ ਤੋਂ ਇਨਕਾਰ ਹੈ।
+contentanalysis-error-message-clipboard = ਚੇਪਣ ਤੋਂ ਇਨਕਾਰ ਹੈ।
+contentanalysis-error-message-print = ਛਾਪਣ ਦੇਣ ਤੋਂ ਇਨਕਾਰ ਹੈ।
 contentanalysis-block-dialog-title-upload-file = ਤੁਹਾਨੂੰ ਇਹ ਫ਼ਾਇਲ ਅੱਪਲੋਡ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 contentanalysis-block-dialog-title-clipboard = ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਚੇਪਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 contentanalysis-block-dialog-title-dropped-text = ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਸੁੱਟਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ

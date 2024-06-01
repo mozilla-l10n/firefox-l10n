@@ -4,6 +4,7 @@
 
 about-networking-title = ਨੈੱਟਵਰਕਿੰਗ ਬਾਰੇ
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = HTTP ਕੈਸ਼ ਨੂੰ ਮਿਟਾਓ
 about-networking-sockets = ਸਾਕਟ
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = DNS ਕੈਸ਼ ਮਿਟਾਓ
