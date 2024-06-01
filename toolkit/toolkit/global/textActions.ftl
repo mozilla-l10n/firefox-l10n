@@ -62,3 +62,5 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = ਸਾਫ਼ ਕਰੋ
+text-action-highlight-selection =
+    .label = ਚੋਣ ਨੂੰ ਹਾਈਲਾਈਟ ਕਰੋ
