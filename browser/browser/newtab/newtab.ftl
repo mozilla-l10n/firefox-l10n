@@ -272,6 +272,9 @@ newtab-custom-recent-subtitle = Wybierane z ostatnio odwiedzanych stron i tre�
 newtab-custom-recent-toggle =
     .label = Ostatnia aktywność
     .description = Wybierane z ostatnio odwiedzanych stron i treści.
+newtab-custom-weather-toggle =
+    .label = Pogoda
+    .description = Dzisiejsza prognoza w skrócie
 newtab-custom-close-button = Zamknij
 newtab-custom-settings = Więcej ustawień
 
@@ -295,3 +298,32 @@ newtab-wallpaper-dark-city = Fioletowy miejski pejzaż
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Zdjęcie: <a data-l10n-name="name-link">{ $author_string }</a> z witryny <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Zobacz prognozę na witrynie { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsorowane
+newtab-weather-menu-change-location = Zmień położenie
+newtab-weather-change-location-search-input = Wyszukaj położenie
+newtab-weather-menu-weather-display = Wyświetlanie pogody
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Proste
+newtab-weather-menu-change-weather-display-simple = Przełącz na prosty widok
+newtab-weather-menu-weather-display-option-detailed = Szczegółowe
+newtab-weather-menu-change-weather-display-detailed = Przełącz na szczegółowy widok
+newtab-weather-menu-temperature-units = Jednostka temperatury
+newtab-weather-menu-temperature-option-fahrenheit = Stopnie Fahrenheita
+newtab-weather-menu-temperature-option-celsius = Stopnie Celsjusza
+newtab-weather-menu-change-temperature-units-fahrenheit = Przełącz na stopnie Fahrenheita
+newtab-weather-menu-change-temperature-units-celsius = Przełącz na stopnie Celsjusza
+newtab-weather-menu-hide-weather = Ukryj pogodę na stronie nowej karty
+newtab-weather-menu-learn-more = Więcej informacji
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Informacje o pogodzie nie są w tej chwili dostępne.
