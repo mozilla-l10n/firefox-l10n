@@ -69,6 +69,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Szeryfowa
 about-reader-font-type-sans-serif = Bezszeryfowa
+about-reader-font-type-monospace = O stałej szerokości znaków
 
 ## Reader View toolbar buttons
 
@@ -100,20 +101,28 @@ about-reader-custom-colors-visited-links = Odwiedzone odnośniki
 about-reader-custom-colors-selection-highlight = Wyróżnianie do czytania na głos
     .title = Zmień kolor
 about-reader-custom-colors-reset-button = Przywróć domyślne
+about-reader-reset-button = Przywróć domyślne
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Tekst
+about-reader-text-size-label = Rozmiar tekstu
+about-reader-font-type-selector-label = Czcionka
+about-reader-font-weight-selector-label = Grubość czcionki
+about-reader-font-weight-light = Lekka
+about-reader-font-weight-regular = Standardowa
+about-reader-font-weight-bold = Pogrubiona
 about-reader-layout-header = Układ
-about-reader-advanced-layout-header = Zaawansowany
-about-reader-slider-label-width-narrow = Wąska
-about-reader-slider-label-width-wide = Szeroka
-about-reader-slider-label-spacing-narrow = Wąskie
 about-reader-slider-label-spacing-standard = Standardowe
 about-reader-slider-label-spacing-wide = Szerokie
 about-reader-content-width-label =
     .label = Szerokość treści
 about-reader-line-spacing-label =
     .label = Odstępy między wierszami
+about-reader-advanced-layout-header = Zaawansowany
+about-reader-slider-label-width-narrow = Wąska
+about-reader-slider-label-width-wide = Szeroka
+about-reader-slider-label-spacing-narrow = Wąskie
 about-reader-character-spacing-label =
     .label = Odstępy między znakami
 about-reader-word-spacing-label =
