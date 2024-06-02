@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serif
 about-reader-font-type-sans-serif = Sans-serif
+about-reader-font-type-monospace = Tasavälinen
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,28 @@ about-reader-custom-colors-visited-links = Avatut linkit
 about-reader-custom-colors-selection-highlight = Korostus ääneen lukua varten
     .title = Muokkaa väriä
 about-reader-custom-colors-reset-button = Palauta oletukset
+about-reader-reset-button = Palauta oletukset
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Teksti
+about-reader-text-size-label = Tekstin koko
+about-reader-font-type-selector-label = Kirjasin
+about-reader-font-weight-selector-label = Kirjasimen paino
+about-reader-font-weight-light = Kevyt
+about-reader-font-weight-regular = Normaali
+about-reader-font-weight-bold = Lihavoitu
 about-reader-layout-header = Asettelu
-about-reader-advanced-layout-header = Lisäasetukset
-about-reader-slider-label-width-narrow = Kapea
-about-reader-slider-label-width-wide = Leveä
-about-reader-slider-label-spacing-narrow = Kapea
 about-reader-slider-label-spacing-standard = Vakio
 about-reader-slider-label-spacing-wide = Leveä
 about-reader-content-width-label =
     .label = Sisällön leveys
 about-reader-line-spacing-label =
     .label = Riviväli
+about-reader-advanced-layout-header = Lisäasetukset
+about-reader-slider-label-width-narrow = Kapea
+about-reader-slider-label-width-wide = Leveä
+about-reader-slider-label-spacing-narrow = Kapea
 about-reader-character-spacing-label =
     .label = Merkkien väli
 about-reader-word-spacing-label =

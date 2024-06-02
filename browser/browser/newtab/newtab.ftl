@@ -272,6 +272,9 @@ newtab-custom-recent-subtitle = Valikoima viimeisimpiä sivustoja ja sisältöä
 newtab-custom-recent-toggle =
     .label = Viimeisin toiminta
     .description = Valikoima viimeisimpiä sivustoja ja sisältöä
+newtab-custom-weather-toggle =
+    .label = Sää
+    .description = Päivän sääennuste yhdellä vilkaisulla
 newtab-custom-close-button = Sulje
 newtab-custom-settings = Muokkaa lisää asetuksia
 
@@ -295,3 +298,32 @@ newtab-wallpaper-dark-city = Purppura kaupunkimaisema
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Kuva: <a data-l10n-name="name-link">{ $author_string }</a> sivustolla <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Katso ennuste palvelussa { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsoroitu
+newtab-weather-menu-change-location = Vaihda sijaintia
+newtab-weather-change-location-search-input = Hae sijaintia
+newtab-weather-menu-weather-display = Sään näkymä
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Yksinkertainen
+newtab-weather-menu-change-weather-display-simple = Vaihda yksinkertaiseen näkymään
+newtab-weather-menu-weather-display-option-detailed = Yksityiskohtainen
+newtab-weather-menu-change-weather-display-detailed = Vaihda yksityiskohtaiseen näkymään
+newtab-weather-menu-temperature-units = Lämpötilayksiköt
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Vaihda Fahrenheitiin
+newtab-weather-menu-change-temperature-units-celsius = Vaihda Celsiukseen
+newtab-weather-menu-hide-weather = Piilota sää uudessa välilehdessä
+newtab-weather-menu-learn-more = Lue lisää
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Säätiedot eivät ole tällä hetkellä saatavilla.
