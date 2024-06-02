@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 report-broken-site-mainview-title = Rapporter problem med ein nettstad
+report-broken-site-panel-header =
+    .label = Rapporter problem med ein nettstad
+    .title = Rapporter problem med ein nettstad
 report-broken-site-panel-url = Nettadresse
 report-broken-site-panel-reason-label = Kva er øydelagt?
 report-broken-site-panel-reason-optional-label = Kva er øydelagt? (valfritt)
@@ -12,6 +15,8 @@ report-broken-site-panel-reason-slow =
     .label = Sida er treg eller fungerer ikkje
 report-broken-site-panel-reason-media =
     .label = Bilde eller videoar
+report-broken-site-panel-reason-content =
+    .label = Knappar, lenker og anna innhald
 report-broken-site-panel-reason-account =
     .label = Innlogging eller utlogging
 report-broken-site-panel-reason-adblockers =

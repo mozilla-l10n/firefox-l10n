@@ -205,6 +205,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Fjern denne behaldaren
 containers-remove-cancel-button = Ikkje fjern denne behaldaren
+settings-tabs-show-image-in-preview =
+    .label = Vis ei førehandsvising av eit bilde når du held musepeikaren på ei fane
+    .accessKey = f
 
 ## General Section - Language & Appearance
 
@@ -913,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Bruk eit hovudpassord
     .accesskey = B
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Krev einingsinnlogging for å fylle ut og behandle passord
 forms-primary-pw-learn-more-link = Les meir
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -945,6 +951,12 @@ primary-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = lag eit hovudpassord
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] endre innstillingane for betalingsmåtar
+       *[other] { -brand-short-name } prøver å endre innstillingane for betalingsmåtar. Bruk einingsinnlogginga di for å tillate dette.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
