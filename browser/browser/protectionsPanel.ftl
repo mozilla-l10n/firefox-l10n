@@ -134,11 +134,16 @@ protections-panel-cookie-banner-view-turn-off-for-site = Vil du deaktivere reduk
 protections-panel-cookie-banner-view-turn-on-for-site = Aktiver reduksjon av infokapselbanner på denne nettstaden
 protections-panel-cookie-banner-blocker-view-title =
     .title = Blokkering av infokapselbanner
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Vil du slå av blokkering av infokapselbanner for { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Vil du slå på blokkering av infokapselbanner for denne nettstaden?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } vill slette infokapslar og oppdatere sida. Sletting av alle infokapslar kan føre til at du blir logga ut eller at handlekorger blir tømde.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } prøver å automatisk avvise alle infokapselførespurnadar på støtta nettstadar.
 protections-panel-cookie-banner-view-cancel = Avbryt
 protections-panel-cookie-banner-view-turn-off = Slå av
 protections-panel-cookie-banner-view-turn-on = Slå på
+protections-panel-cookie-banner-blocker-view-turn-on-description = Slå på, og { -brand-short-name } vil prøve å automatisk nekte infokapselbanner på denne nettstaden.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Avbryt
 protections-panel-cookie-banner-view-turn-off-label =
