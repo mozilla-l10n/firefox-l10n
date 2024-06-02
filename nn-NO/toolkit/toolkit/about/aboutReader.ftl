@@ -24,6 +24,20 @@ about-reader-color-theme-gray = Grå
     .title = Fargetema grått
 about-reader-color-theme-contrast = Kontrast
     .title = Fargetema kontrast
+about-reader-color-theme-custom = Eigendefinerte fargar
+    .title = Fargetema eigendefinerte fargar
+about-reader-color-light-theme = Lyst
+    .title = Lyst tema
+about-reader-color-dark-theme = Mørkt
+    .title = Mørkt tema
+about-reader-color-sepia-theme = Sepia
+    .title = Sepiatema
+about-reader-color-auto-theme = Automatisk
+    .title = Automatisk tema
+about-reader-color-gray-theme = Grått
+    .title = Grått tema
+about-reader-color-contrast-theme = Kontrast
+    .title = Kontrast-tema
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -75,6 +89,18 @@ about-reader-customtheme-tab = Tilpassa
 ## The .title element is used to make the editing functionality
 ## clear and give context for screen reader users.
 
+about-reader-custom-colors-foreground = Tekst
+    .title = Endre farge
+about-reader-custom-colors-background = Bakgrunn
+    .title = Endre farge
+about-reader-custom-colors-unvisited-links = Ubesøkte lenker
+    .title = Endre farge
+about-reader-custom-colors-visited-links = Besøkte lenker
+    .title = Endre farge
+about-reader-custom-colors-selection-highlight = Markering for høgtlesing
+    .title = Endre farge
+about-reader-custom-colors-reset-button = Tilbakestill standardverdiar
+about-reader-reset-button = Tilbakestill standardverdiar
 
 ## Reader View improved text and layout menu
 
