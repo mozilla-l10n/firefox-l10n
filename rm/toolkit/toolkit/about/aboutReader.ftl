@@ -68,6 +68,7 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serifas
 about-reader-font-type-sans-serif = Senza serifas
+about-reader-font-type-monospace = Largezza fixa
 
 ## Reader View toolbar buttons
 
@@ -99,20 +100,28 @@ about-reader-custom-colors-visited-links = Colliaziuns visitadas
 about-reader-custom-colors-selection-highlight = Emfasa per preleger dad aut
     .title = Midar la colur
 about-reader-custom-colors-reset-button = Restabilir il standard
+about-reader-reset-button = Restabilir il standard
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Text
+about-reader-text-size-label = Grondezza dal text
+about-reader-font-type-selector-label = Scrittira
+about-reader-font-weight-selector-label = Grossezza da la scrittira
+about-reader-font-weight-light = Fin
+about-reader-font-weight-regular = Normal
+about-reader-font-weight-bold = Gross
 about-reader-layout-header = Layout
-about-reader-advanced-layout-header = Avanzà
-about-reader-slider-label-width-narrow = Stretg
-about-reader-slider-label-width-wide = Lartg
-about-reader-slider-label-spacing-narrow = Stretg
 about-reader-slider-label-spacing-standard = Standard
 about-reader-slider-label-spacing-wide = Lartg
 about-reader-content-width-label =
     .label = Ladezza dal cuntegn
 about-reader-line-spacing-label =
     .label = Interlingia
+about-reader-advanced-layout-header = Avanzà
+about-reader-slider-label-width-narrow = Stretg
+about-reader-slider-label-width-wide = Lartg
+about-reader-slider-label-spacing-narrow = Stretg
 about-reader-character-spacing-label =
     .label = Spazi tranter ils caracters
 about-reader-word-spacing-label =

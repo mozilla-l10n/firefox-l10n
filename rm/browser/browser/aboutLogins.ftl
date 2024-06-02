@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Per modifitgar tia infurmaz
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifitgar l'infurmaziun d'annunzia memorisada
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] midar ils parameters per pleds-clav
+       *[other] { -brand-short-name } emprova da midar ils parameters per pleds-clav. Cun l’annunzia da l’apparat pos ti permetter quai.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Per modifitgar tes pled-clav, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
 # This message can be seen when attempting to edit a login in about:logins
@@ -250,11 +257,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Uschia vegn allontanada la data d'annunzia che ti has memorisà en { -brand-short-name } sin tut ils apparats sincronisads cun il { -fxaccount-brand-name }. Era avertiments da sperditas da datas che cumparan qua vegnan allontanadas. Ti na vegns betg a pudair revocar questa acziun.
        *[other] Uschia vegnan allontanadas tut las datas d'annunzia che ti has memorisà en { -brand-short-name } sin tut ils apparats sincronisads cun il { -fxaccount-brand-name }. Era avertiments da sperditas da datas che cumparan qua vegnan allontanadas. Ti na vegns betg a pudair revocar questa acziun.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Uschia vegn allontanà l'infurmaziun d'annunzia che ti has memorisà en { -brand-short-name } sin tut ils apparats sincronisads cun tes conto. Era avertiments da sperditas da datas che cumparan qua vegnan allontanadas. Ti na vegns betg a pudair revocar questa acziun.
-       *[other] Uschia vegnan allontanadas las infurmaziuns d'annunzia che ti has memorisà en { -brand-short-name } sin tut ils apparats sincronisads cun tes conto. Era avertiments da sperditas da datas che cumparan qua vegnan allontanadas. Ti na vegns betg a pudair revocar questa acziun.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
