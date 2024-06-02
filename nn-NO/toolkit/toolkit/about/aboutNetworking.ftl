@@ -4,6 +4,7 @@
 
 about-networking-title = Om nettverk
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Tøm HTTP-snøgglager
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Tøm DNS-snøggglager

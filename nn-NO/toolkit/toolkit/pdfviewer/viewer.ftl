@@ -356,9 +356,19 @@ pdfjs-editor-alt-text-textarea =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Øvste venstre hjørne – endre størrelse
+pdfjs-editor-resizer-label-top-middle = Øvst i midten — endre størrelse
+pdfjs-editor-resizer-label-top-right = Øvste høgre hjørne – endre størrelse
+pdfjs-editor-resizer-label-middle-right = Midt til høgre – endre størrelse
+pdfjs-editor-resizer-label-bottom-right = Nedste høgre hjørne – endre størrelse
+pdfjs-editor-resizer-label-bottom-middle = Nedst i midten — endre størrelse
+pdfjs-editor-resizer-label-bottom-left = Nedste venstre hjørne – endre størrelse
+pdfjs-editor-resizer-label-middle-left = Midt til venstre — endre størrelse
 
 ## Color picker
 
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Uthevingsfarge
 pdfjs-editor-colorpicker-button =
     .title = Endre farge
 pdfjs-editor-colorpicker-dropdown =
