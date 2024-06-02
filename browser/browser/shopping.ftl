@@ -124,6 +124,10 @@ shopping-analysis-explainer-label =
     .label = Korleis vi bestemmer kvaliteten på ei vurdering
 shopping-analysis-explainer-intro2 = Vi brukar kunstig intelligens-teknologi (AI-teknologi) frå { -fakespot-brand-full-name } for å sjekke pålitelgheita til produktvurderingar. Dette vil berre hjelpe deg med å vurdere kvaliteten av vurderingar, ikkje kvaliteten på sjølve produktetet.
 shopping-analysis-explainer-adjusted-rating-description = Den <strong>justerte vurderinga</strong> er berre basert på vurderingar som vi meinar er pålitelege.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Høgdepunkt</strong> er frå { $retailer }-vurderingar i løpet av dei siste 80 dagane som vi meinar er pålitelege.
 shopping-analysis-explainer-review-grading-scale-reliable = Pålitelege vurderingar. Vi meinar at vureringane truleg kjem frå ekte kundar som har lagt att ærlege, upartiske vurderingar.
 shopping-analysis-explainer-review-grading-scale-mixed = Vi meinar at det finst ei blanding av pålitelege og upålitelege vurderingar.
 shopping-analysis-explainer-review-grading-scale-unreliable = Upålitelege vurderingar. Vi meinar at vurderingane sannsynlegvis er falske eller frå partiske vurderarar.
@@ -176,6 +180,7 @@ shopping-survey-thanks =
 ## access the feature.
 
 shopping-callout-pdp-opted-in-title = Er desse vurderingane pålitelege? Finn raskt ut av det.
+shopping-callout-pdp-opted-in-subtitle = Opne vurderingskontrolløren for å sjå ei justert vurdering med upålitelege vurderingar fjerna. I tillegg kan du sjå høgdepunkt frå nylege autentiske vurderingar.
 shopping-callout-closed-not-opted-in-title = Eitt klikk frå pålitelege vurderingar
 shopping-callout-closed-not-opted-in-revised-button = Eg forstår
 shopping-callout-not-opted-in-reminder-title = Handle med sjølvtillit
