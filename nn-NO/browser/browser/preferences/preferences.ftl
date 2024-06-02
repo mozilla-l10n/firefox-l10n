@@ -598,6 +598,7 @@ home-prefs-snippets-header =
 home-prefs-snippets-description-new = Tips og nyheiter frå { -vendor-short-name } og { -brand-product-name }
 home-prefs-weather-header =
     .label = Vêr
+home-prefs-weather-description = Vêrmeldinga i dag, i korte trekk
 home-prefs-weather-learn-more-link = Les meir
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -891,6 +892,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Les meir
 preferences-relay-integration-checkbox =
     .label = Foreslå { -relay-brand-name } e-postalias for å beskytte e-postadressa di
+preferences-relay-integration-checkbox2 =
+    .label = Føreslå { -relay-brand-name } e-postalias for å beskytte e-postadressa di
+    .accesskey = F
 relay-integration-learn-more-link = Les meir
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
