@@ -84,6 +84,8 @@ policy-Handlers = Konfiguracja domyślnych aplikacji obsługujących typy plikó
 policy-HardwareAcceleration = Wartość „fałsz” wyłącza przyspieszanie sprzętowe.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ustawienie i opcjonalna blokada strony startowej.
+policy-HttpAllowlist = Źródła, które nie będą przełączane na protokół HTTPS.
+policy-HttpsOnlyMode = Zezwalanie na włączenie trybu używania wyłącznie protokołu HTTPS.
 policy-InstallAddonsPermission = Zezwalanie pewnym witrynom na instalowanie dodatków.
 policy-LegacyProfiles = Wyłączenie funkcji wymuszającej oddzielny profil dla każdej instalacji.
 

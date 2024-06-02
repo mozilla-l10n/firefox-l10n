@@ -920,6 +920,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Hasło główne.
     .accesskey = H
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Wymaganie zalogowania się na urządzeniu, aby wypełniać hasła i zarządzać nimi
 forms-primary-pw-learn-more-link = Więcej informacji
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -952,6 +955,13 @@ primary-password-os-auth-dialog-message-win = Aby utworzyć hasło główne, wpr
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = utworzenie hasła głównego
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] zmiana ustawień metod płatności
+       *[other] { -brand-short-name } próbuje zmienić ustawienia metod płatności. Aby na to pozwolić, zaloguj się na swoim urządzeniu.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -974,6 +984,9 @@ autofill-reauth-checkbox =
        *[other] Wymaganie uwierzytelnienia przed wypełnieniem lub zmianą metod płatności.
     }
     .accesskey = u
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Wymaganie zalogowania się na urządzeniu, aby wypełniać metody płatności i zarządzać nimi
+    .accesskey = W
 
 ## Privacy Section - History
 
