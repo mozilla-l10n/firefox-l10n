@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Uusi välilehti
 tabbrowser-empty-private-tab-title = Uusi yksityinen välilehti
-
 tabbrowser-menuitem-close-tab =
     .label = Sulje välilehti
 tabbrowser-menuitem-close =
     .label = Sulje
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -114,13 +111,17 @@ tabbrowser-confirm-caretbrowsing-title = Selaus kohdistimella
 tabbrowser-confirm-caretbrowsing-message = F7-näppäimellä voit ottaa käyttöön tai poistaa käytöstä selauksen kohdistimella. Tämän toiminnon ollessa päällä verkkosivulla on liikuteltava kohdistin, jonka avulla voit näppäimistöllä valita tekstiä sivulta. Selataanko kohdistimella?
 tabbrowser-confirm-caretbrowsing-checkbox = Älä näytä tätä ikkunaa uudestaan.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Huomio
+tabbrowser-confirm-close-duplicate-tabs-text = Pidämme viimeisen aktiivisen välilehden avoinna
+
 ##
 
 # Variables:
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Salli, että tällaiset ilmoitukset sivustolta { $domain } vievät sinut heidän välilehteen
-
 tabbrowser-customizemode-tab-title = Muokkaa { -brand-short-name }-selainta
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +140,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Palauta ääni välilehtiin
     .accesskey = ä
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Toistaa ääntä
 

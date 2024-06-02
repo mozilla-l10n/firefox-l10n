@@ -599,6 +599,10 @@ home-prefs-recent-activity-description = Valikoima viimeisimpiä sivustoja ja si
 home-prefs-snippets-header =
     .label = Tiedonmuruset
 home-prefs-snippets-description-new = Vinkit ja uutiset { -vendor-short-name }lta ja { -brand-product-name }ilta
+home-prefs-weather-header =
+    .label = Sää
+home-prefs-weather-description = Tämän päivän ennuste yhdellä vilkaisulla
+home-prefs-weather-learn-more-link = Lue lisää
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +916,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Käytä pääsalasanaa
     .accesskey = K
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Vaadi laitteen sisäänkirjautuminen salasanojen täyttämistä ja hallintaa varten
 forms-primary-pw-learn-more-link = Lue lisää
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -944,6 +951,13 @@ primary-password-os-auth-dialog-message-win = Luo pääsalasana kirjoittamalla W
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = asettaa pääsalasanan
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] muuttaa maksutapojen asetuksia
+       *[other] { -brand-short-name } yrittää muuttaa maksutapojen asetuksia. Käytä laitteen sisäänkirjautumista salliaksesi tämän.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -965,6 +979,9 @@ autofill-reauth-checkbox =
         [linux] Vaadi Linux-tunnistautuminen maksutapojen täyttämiseksi ja muokkaamiseksi.
        *[other] Vaadi tunnistautuminen maksutapojen täyttämiseksi ja muokkaamiseksi.
     }
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Vaadi laitteen sisäänkirjautumista maksutapojen täyttämiseksi ja hallitsemiseksi
     .accesskey = o
 
 ## Privacy Section - History

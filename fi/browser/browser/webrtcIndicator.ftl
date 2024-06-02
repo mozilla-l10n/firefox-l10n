@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Muista valinta
+webrtc-remember-allow-checkbox-camera = Muista kaikille kameroille
+webrtc-remember-allow-checkbox-microphone = Muista kaikille mikrofoneille
+webrtc-remember-allow-checkbox-camera-and-microphone = Muista kaikille kameroille ja mikrofoneille
 webrtc-mute-notifications-checkbox = Vaimenna sivustojen ilmoitukset jakamisen aikana
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ei voi sallia pysyvää käyttöoikeutta näyttöön.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ei voi sallia pysyvää käyttöoikeutta välilehden äänien kuuntelemiseen kysymättä, mikä välilehti jaetaan.
