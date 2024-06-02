@@ -205,6 +205,10 @@ confirmation-dialog-dismiss-button =
     .title = ᱵᱟᱹᱰᱨᱟᱹ
 about-logins-confirm-remove-dialog-title = ᱱᱚᱶᱟ ᱞᱚᱜᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ?
 confirm-delete-dialog-message = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱥᱟᱹᱛ ᱵᱟᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱽᱟᱢ ᱥᱮ ?
+# Message for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-message = ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱵᱟᱝ ᱨᱩᱣᱟᱹᱲ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 about-logins-confirm-remove-dialog-confirm-button = ᱚᱪᱚᱜᱽ ᱢᱮ
 
 ## Variables
@@ -249,6 +253,21 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
         [two] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
        *[other] ᱱᱚᱶᱟ ᱫᱚ ᱟᱢᱜᱟ{ -fxaccount-brand-name } ᱨᱮ ᱥᱭᱝᱠ ᱠᱟᱱ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱠᱚᱨᱮ ᱡᱷᱚᱛᱚ { -brand-short-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱚᱪᱚᱜᱽ ᱩᱛᱟᱹᱨ ᱟᱭ ᱾
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] ᱦᱚᱭ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱽ ᱢᱮ
+        [one] ᱦᱚᱭ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱽ ᱢᱮ
+        [two] ᱦᱚᱭ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱤᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
+       *[other] ᱦᱚᱭ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] { $count } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱚᱪᱚᱜᱟᱢ ᱥᱮ ?
+        [two] { $count } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱤᱱ ᱚᱪᱚᱜᱟᱢ ᱥᱮ ?
+       *[other] { $count } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽᱠᱚ ᱚᱪᱚᱜᱟᱢ ᱥᱮ ?
     }
 
 ##
