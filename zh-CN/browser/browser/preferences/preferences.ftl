@@ -910,7 +910,7 @@ forms-primary-pw-use =
     .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = 需要通过设备登录，才能填写和管理密码
+    .label = 填写或管理密码，需登录设备验证身份
 forms-primary-pw-learn-more-link = 详细了解
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -947,7 +947,7 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 autofill-creditcard-os-dialog-message =
     { PLATFORM() ->
         [macos] 更改付款方式设置
-       *[other] { -brand-short-name } 正尝试更改付款方式设置。请使用设备登录来允许此操作。
+       *[other] { -brand-short-name } 正尝试更改付款方式设置，请登录设备以允许此操作。
     }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
@@ -973,7 +973,7 @@ autofill-reauth-checkbox =
     }
     .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
-autofill-reauth-payment-methods-checkbox = 需要通过设备登录，才能填写和管理付款方式。
+autofill-reauth-payment-methods-checkbox = 填写和管理付款方式，需登录设备验证身份。
     .accesskey = o
 
 ## Privacy Section - History
