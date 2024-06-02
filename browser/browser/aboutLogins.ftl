@@ -175,6 +175,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Aby zmienić dane logowania
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = zmiana zachowanych danych logowania
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] zmiana ustawień haseł
+       *[other] { -brand-short-name } próbuje zmienić ustawienia haseł. Aby na to pozwolić, zaloguj się na swoim urządzeniu.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Aby zmienić hasło, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
 # This message can be seen when attempting to edit a login in about:logins
@@ -255,11 +262,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
        *[other] Spowoduje to usunięcie wszystkich danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z { -fxaccount-brand-name(case: "ins", capitalization: "lower") } oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Spowoduje to usunięcie danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
-       *[other] Spowoduje to usunięcie wszystkich danych logowania zachowanych w { -brand-short-name(case: "loc") } na wszystkich urządzeniach synchronizowanych z kontem oraz widocznych tutaj powiadomień o wyciekach danych. Tego działania nie można cofnąć.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
