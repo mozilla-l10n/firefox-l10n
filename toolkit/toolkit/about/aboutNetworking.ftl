@@ -4,6 +4,7 @@
 
 about-networking-title = about:networking
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Wyczyść pamięć podręczną HTTP
 about-networking-sockets = Socket
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Wyczyść pamięć podręczną DNS
