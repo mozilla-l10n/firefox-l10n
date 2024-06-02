@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Meir informasjon om utvida sporingsvern
 protections-panel-etp-on-header = Utvida sporingsvern er slått PÅ for denne nettstaden
 protections-panel-etp-off-header = Utvida sporingsvern er slått AV for denne nettstaden
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Fungerer ikkje nettstaden?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Fungerer ikkje nettstaden?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Utvida sporingsvern
     .description = Av for denne nettstaden
     .aria-label = Utvida sporingsvern: Av for { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Fungerer ikkje nettstaden?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Fungerer ikkje nettstaden?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -108,7 +108,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Rapporter problem med ein nettstad
 protections-panel-content-blocking-breakage-report-view-description = Blokkering av visse sporarar kan føre til problem med enkelte nettstadar. Rapportering av desse problema er med på å gjere { -brand-short-name } betre for alle. Ved sending av denne rapporten vil du sende ein URL og informasjon om nettlesarinnstillingane dine, til Mozilla. <label data-l10n-name="learn-more">Les meir</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Blokkering av visse sporarar kan føre til problem med enkelte nettstadar. Rapportering av desse problema er med på å gjere { -brand-short-name } betre for alle. Ved sending av denne rapporten vil du sende ein URL og informasjon om nettlesarinnstillingane dine, til { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL-adresse
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL-adresse
@@ -146,6 +145,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Slå av
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Slå på
+protections-panel-report-broken-site =
+    .label = Rapporter problem med ein nettstad
+    .title = Rapporter problem med ein nettstad
 
 ## Protections panel info message
 

@@ -17,6 +17,8 @@ process-type-privilegedmozilla = Privilegert Mozilla-innhald
 process-type-extension = Utviding
 # process used to open file:// URLs
 process-type-file = Lokal fil
+# process used to instantiate new child processes
+process-type-forkserver = Fork-server
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Isolert nettinnhald
@@ -41,6 +43,10 @@ process-type-socket = Socket
 process-type-rdd = RDD
 # process used to run some IPC actor in their own sandbox
 process-type-utility = IPC-aktør i sandkasse
+process-type-utility-actor-audio-decoder-generic = Verktøy generisk lyddekodar
+process-type-utility-actor-audio-decoder-applemedia = Verktøy AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Verktøy Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Verktøy Media Foundation Engine
 process-type-utility-actor-js-oracle = Verktøy JavaScript Oracle
 process-type-utility-actor-windows-utils = Verktøy Windows Utils
 process-type-utility-actor-windows-file-dialog = Verktøy Windows fildialogvindauge

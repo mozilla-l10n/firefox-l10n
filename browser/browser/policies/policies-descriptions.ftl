@@ -110,6 +110,9 @@ policy-OverrideFirstRunPage = Erstatt sida som vert vist ved første oppstart. L
 policy-OverridePostUpdatePage = Byt ut «Kva er nytt»-sida som vert vist etter ei oppdatering. La policyen stå tom viss sida etter ei oppdatering skal deaktiverast.
 policy-PasswordManagerEnabled = Slå på lagring av passord til passordhandsamaren.
 policy-PasswordManagerExceptions = Hindre { -brand-short-name } frå å lagre passord for bestemte nettstadar.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Aktiver post-kvantenøkkelavtale for TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deaktiver eller konfigurer PDF.js, det innebygde PDF-visingsprogrammet i { -brand-short-name }.
 policy-Permissions2 = Konfigurer løyve for kamera, mikrofon, plassering, varsel og auto-avspeling.

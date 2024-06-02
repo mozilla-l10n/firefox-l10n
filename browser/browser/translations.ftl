@@ -224,3 +224,5 @@ select-translations-panel-unsupported-language-message-unknown =
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Innstillingar for omsetjing
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Omsettinga er fullført
