@@ -84,6 +84,7 @@ policy-Handlers = Наладзіць прадвызначаныя апрацоў
 policy-HardwareAcceleration = Калі false, адключыць апаратнае паскарэнне.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Усталяваць хатнюю старонку і па жаданні забараніць змяненне.
+policy-HttpAllowlist = Крыніцы, якія не будуць абноўлены да HTTPS.
 policy-HttpsOnlyMode = Дазволіць уключэнне рэжыму «Толькі HTTPS».
 policy-InstallAddonsPermission = Дазволіць пэўным вэб-сайтам усталёўваць дадаткі.
 policy-LegacyProfiles = Адключыць функцыю, якая забяспечвае асобны профіль для кожнай ўсталёўкі
