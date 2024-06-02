@@ -302,6 +302,10 @@ newtab-wallpaper-attribution = Bilde av <a data-l10n-name="name-link">{ $author_
 
 # Variables:
 #   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Sjå vêrmelding hos { $provider }.
+# Variables:
+#   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsa
 newtab-weather-menu-change-location = Endre plassering
 newtab-weather-change-location-search-input = Søk plassering
