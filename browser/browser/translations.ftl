@@ -133,6 +133,8 @@ translations-manage-language-install-button =
 translations-manage-language-install-all-button =
     .label = Installer alle
     .accesskey = a
+translations-manage-intro-2 = Angje innstillingar for språk og nettstadomsetting og behandle språk som er lasta ned for fråkopla omsetting.
+translations-manage-download-description = Last ned språk for fråkopla omsetting
 translations-manage-language-download-button =
     .label = Last ned
 translations-manage-language-download-all-button =
@@ -180,6 +182,27 @@ translations-settings-close-dialog =
 main-context-menu-translate-selection =
     .label = Omset det markerte…
     .accesskey = m
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Omset det markerte til { $language }
+    .accesskey = m
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = Omset lenketekst…
+    .accesskey = m
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = Omset lenketekst til { $language }
+    .accesskey = m
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Omsetting
 # Text displayed above the from-language dropdown menu.
@@ -208,6 +231,8 @@ select-translations-panel-try-again-button =
 select-translations-panel-idle-placeholder-text = Omsett tekst vil visast her.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Omset…
+select-translations-panel-init-failure-message =
+    .message = Klarte ikkje å laste inn språk. Sjekk Internett-tilkoplinga di og prøv igjen.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Det oppstod eit problem med å omsetje. Prøv på nytt.
