@@ -306,8 +306,12 @@ newtab-wallpaper-attribution = Фота <a data-l10n-name="name-link">{ $author_
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast =
     .title = Паглядзець прагноз у { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Спонсар
 newtab-weather-menu-change-location = Змяніць месцазнаходжанне
 newtab-weather-change-location-search-input = Шукаць месцазнаходжанне
+newtab-weather-menu-weather-display = Паказ надвор'я
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
