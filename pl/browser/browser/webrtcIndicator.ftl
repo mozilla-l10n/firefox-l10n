@@ -226,6 +226,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Pamiętaj tę decyzję
+webrtc-remember-allow-checkbox-camera = Pamiętaj dla wszystkich kamer
+webrtc-remember-allow-checkbox-microphone = Pamiętaj dla wszystkich mikrofonów
+webrtc-remember-allow-checkbox-camera-and-microphone = Pamiętaj dla wszystkich kamer i mikrofonów
 webrtc-mute-notifications-checkbox = Nie wyświetlaj powiadomień ze stron podczas udostępniania
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nie mógł zezwolić na trwały dostęp do obrazu ekranu.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nie mógł zezwolić na trwały dostęp do dźwięku karty bez pytania o to, której karty dźwięk udostępniać.
