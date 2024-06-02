@@ -46,9 +46,21 @@ shopping-message-bar-generic-error =
 shopping-message-bar-warning-not-enough-reviews =
     .heading = Ikkje nok vurderingar enno
     .message = Når dette produktet har fleire vurderingar, kan vi sjekke kvaliteten.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produktet er ikkje tilgjengeleg
+    .message = Om du ser at dette produkter er på lager, rapporter det til oss, så skal vi sjekke produktvurderingane.
 shopping-message-bar-warning-product-not-available-button2 = Rapporter at produktet er på lager
+shopping-message-bar-thanks-for-reporting =
+    .heading = Takk for at du rapporterte!
+    .message = Vi bør ha informasjon om vurderingar av dette produktet innan 24 timer. Sjekk gjerne seinare.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Info kjem snart
+    .message = Vi bør ha informasjon om vurderinger av dette produktet innan 24 timar. Sjekk gjerne seinare.
 shopping-message-bar-analysis-in-progress-title2 = Kontrollerer kvaliteten på vurderinga
 shopping-message-bar-analysis-in-progress-message2 = Dette vil ta omlag 60 sekund.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Kontrollerer vurderingsskvalitet ({ $percentage }%)
 shopping-message-bar-keep-closed-header =
     .heading = Halde attlaten?
     .message = Du kan oppdatere innstillingane dine for å halde vurderingskontrolløren attlaten som standard. Akkurat no vert han opna automatisk.
