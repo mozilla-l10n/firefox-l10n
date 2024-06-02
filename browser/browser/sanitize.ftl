@@ -7,6 +7,9 @@ sanitize-prefs2 =
     .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+sanitize-dialog-title2 =
+    .title = Slett nettlesardata og infokapslar
+    .style = min-width: 34em
 sanitize-dialog-title =
     .title = Slett nyleg historikk
     .style = min-width: 34em
@@ -16,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = Slett all historikk
     .style = min-width: 34em
 clear-data-settings-label = Når { -brand-short-name } avsluttar, skal følgjande slettast automatisk
+sanitize-on-shutdown-description = Fjern automatisk alle avmerkte element når { -brand-short-name } vert attlaten.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -54,6 +58,7 @@ item-history-and-downloads =
 item-history-form-data-downloads =
     .label = Historikk
     .accesskey = H
+item-history-form-data-downloads-description = Reinsar nettstad- og nedlastingshistorikken, lagra skjemainformasjon og søk
 item-cookies =
     .label = Infokapslar
     .accesskey = I
