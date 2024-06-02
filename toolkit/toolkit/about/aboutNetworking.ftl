@@ -4,6 +4,7 @@
 
 about-networking-title = Connexiuns a la rait
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Svidar il cache HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Svidar il cache dal DNS

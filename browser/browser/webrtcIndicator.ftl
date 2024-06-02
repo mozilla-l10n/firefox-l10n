@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Memorisar questa decisiun
+webrtc-remember-allow-checkbox-camera = Tegnair endament per tut las cameras
+webrtc-remember-allow-checkbox-microphone = Tegnair endament per tut ils microfons
+webrtc-remember-allow-checkbox-camera-and-microphone = Tegnair endament per tut las cameras e tut ils microfons
 webrtc-mute-notifications-checkbox = Deactivar las notificaziuns da websites durant la cundivisiun
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } na po betg permetter l'access permanent a tes visur.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } na po betg permetter l'access permanent al tun da tes tab senza dumandar tge tab che duai vegnir cundividÌ.

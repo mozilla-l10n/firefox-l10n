@@ -87,6 +87,10 @@ appmenu-remote-tabs-showinactive =
            *[other] Mussar { $count } tabs inactivs
         }
     .tooltiptext = Mussar ils tabs inactivs sin quest apparat
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Tabs inactivs
+    .tooltiptext = Vesair ils tabs inactivs sin quest apparat
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nagins tabs averts
 # This is shown when Sync is configured but syncing tabs is disabled.

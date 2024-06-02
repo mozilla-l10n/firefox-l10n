@@ -84,6 +84,8 @@ policy-Handlers = Configurar la gestiun dad applicaziuns da standard.
 policy-HardwareAcceleration = Sche «false», deactivar l'acceleraziun cun agid da la hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definir la pagina da partenza e tut tenor basegn impedir la modificaziun da l'opziun.
+policy-HttpAllowlist = Origins che na vegnan betg midads a HTTPS.
+policy-HttpsOnlyMode = Permetter l’activaziun dal modus «mo HTTPS».
 policy-InstallAddonsPermission = Permetter a tschertas websites dad installar supplements.
 policy-LegacyProfiles = Deactivar la funcziun che pretenda in profil separà per mintga installaziun
 
@@ -108,6 +110,9 @@ policy-OverrideFirstRunPage = Surscriver la pagina che vegn mussada suenter avai
 policy-OverridePostUpdatePage = Surscriver la pagina «What's New» che vegn mussada suenter actualisaziuns. Definir questa directiva cun ina valur vida per impedir che la pagina vegnia mussada.
 policy-PasswordManagerEnabled = Activar la memorisaziun da pleds-clav en l'administraziun da pleds-clav.
 policy-PasswordManagerExceptions = Impedir che { -brand-short-name } memoriseschia pleds-clav per websites specificas.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Activar l’acceptaziun da clavs post-quantum per TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Deactivar u configurar PDF.js, il lectur per PDFs integrà en { -brand-short-name }.
 policy-Permissions2 = Configurar permissiuns per camera, microfon, posiziun, notificaziuns e la reproducziun automatica.

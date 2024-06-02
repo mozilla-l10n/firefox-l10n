@@ -272,6 +272,9 @@ newtab-custom-recent-subtitle = Ina selecziun da websites e cuntegn visità dacu
 newtab-custom-recent-toggle =
     .label = Activitad recenta
     .description = Ina selecziun da websites e cuntegn visità dacurt
+newtab-custom-weather-toggle =
+    .label = Aura
+    .description = La previsiun da l’aura actuala en in’egliada
 newtab-custom-close-button = Serrar
 newtab-custom-settings = Administrar ulteriurs parameters
 
@@ -295,3 +298,32 @@ newtab-wallpaper-dark-city = Cuntrada da citad violetta
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto da <a data-l10n-name="name-link">{ $author_string }</a> sin <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Mussar la previsiun da l’aura en { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Sponsurà
+newtab-weather-menu-change-location = Midar la posiziun
+newtab-weather-change-location-search-input = Tschertgar in lieu
+newtab-weather-menu-weather-display = Visualisaziun da l’aura
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Simpla
+newtab-weather-menu-change-weather-display-simple = Midar a la vista simpla
+newtab-weather-menu-weather-display-option-detailed = Detagliada
+newtab-weather-menu-change-weather-display-detailed = Midar a la vista detagliada
+newtab-weather-menu-temperature-units = Unitads da temperatura
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Midar a fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Midar a celsius
+newtab-weather-menu-hide-weather = Zuppentar l’aura sin ils novs tabs
+newtab-weather-menu-learn-more = Ulteriuras infurmaziuns
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Datas meteorologicas n’èn actualmain betg disponiblas.
