@@ -4,6 +4,7 @@
 
 about-networking-title = About Networking
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Tyhjennä HTTP-välimuisti
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Clear DNS Cache
