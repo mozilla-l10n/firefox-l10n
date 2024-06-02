@@ -17,6 +17,7 @@ crashreporter-view-report-title = Rapporter innhald
 crashreporter-comment-prompt = Legg til kommentar (kommentarar kan sjåast av andre)
 crashreporter-report-info = Denne rapporten inneheld og teknisk informasjon om tilstanden til programmet då det krasja.
 crashreporter-send-report = Fortel { -vendor-short-name } om dette krasjet så dei kan rette det
+crashreporter-include-url = Ta med adressa til sida eg var på.
 crashreporter-submit-status = Krasjrapporten din vil bli sendt før du avsluttar eller startar på nytt.
 crashreporter-submit-in-progress = Sender inn rapporten din …
 crashreporter-submit-success = Rapporten er sendt.
@@ -28,7 +29,20 @@ crashreporter-button-ok = OK
 crashreporter-button-close = Lat att
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Krasj-ID: { $id }
+# $url (String) - the url which the user can use to view the submitted crash report
+crashreporter-crash-details = Du kan sjå detaljar om krasjet på { $url }.
 
 # Error strings
 
+crashreporter-error-minidump-analyzer = Klarte ikkje å køyre minidump-analyzer
+# $path (String) - the file path
+crashreporter-error-opening-file = Klarte ikkje å opne fila ({ $path })
+# $path (String) - the file path
+crashreporter-error-loading-file = Klarte ikkje å laste fila ({ $path })
+# $path (String) - the path
+crashreporter-error-creating-dir = Klarte ikkje å opprette katalog ({ $path })
 crashreporter-error-no-home-dir = Manglar heimemappe
+# $from (String) - the source path
+# $to (String) - the destination path
+crashreporter-error-moving-path = Klarte ikkje å flytte { $from } to { $to }
+crashreporter-error-version-eol = Versjonen er ikkje lenger stødd, og krasjrapporar vert ikkje lenger godtekne.
