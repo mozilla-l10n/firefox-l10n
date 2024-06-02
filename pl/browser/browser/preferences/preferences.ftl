@@ -602,6 +602,10 @@ home-prefs-recent-activity-description = Wybierane z ostatnio odwiedzanych stro
 home-prefs-snippets-header =
     .label = Od Mozilli
 home-prefs-snippets-description-new = Wskazówki i aktualności od { -vendor-short-name(case: "gen") } i { -brand-product-name(case: "gen") }.
+home-prefs-weather-header =
+    .label = Pogoda
+home-prefs-weather-description = Dzisiejsza prognoza w skrócie
+home-prefs-weather-learn-more-link = Więcej informacji
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
