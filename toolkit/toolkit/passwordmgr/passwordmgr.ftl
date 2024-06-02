@@ -20,6 +20,9 @@ password-manager-save-password-button-never =
 # Variables
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = Oppdater passord for { $host }?
+password-manager-update-password-button-delete =
+    .label = Slett lagra passord
+    .accesskey = S
 password-manager-update-login-add-username = Leggje til brukarnamn til lagra passord?
 password-manager-password-password-button-allow =
     .label = Oppdater
