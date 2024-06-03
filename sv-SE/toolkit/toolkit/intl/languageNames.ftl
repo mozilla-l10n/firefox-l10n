@@ -166,6 +166,7 @@ language-name-se = Samiska
 language-name-sg = Sango
 language-name-si = Singalesiska
 language-name-sk = Slovakiska
+language-name-skr = Saraiki
 language-name-sl = Slovenska
 language-name-sm = Samoanska
 language-name-sn = Shona
