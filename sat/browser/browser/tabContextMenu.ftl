@@ -22,59 +22,62 @@ duplicate-tab =
     .accesskey = ᱰ
 duplicate-tabs =
     .label = ᱴᱮᱵᱽ ᱠᱚ ᱰᱩᱯᱞᱤᱠᱮᱴ ᱢᱮ
-    .accesskey = D
+    .accesskey = ᱰ
 # The following string is displayed on a menuitem that will close the tabs from the start of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Left" and in right-to-left languages this should use "Right".
 close-tabs-to-the-start =
     .label = ᱞᱮᱝᱜᱟ ᱥᱮᱫ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-    .accesskey = l
+    .accesskey = ᱞ
 # The following string is displayed on a menuitem that will close the tabs from the end of the tabstrip to the currently targeted tab (excluding the currently targeted and any other selected tabs).
 # In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left".
 close-tabs-to-the-end =
     .label = ᱡᱚᱡᱚᱢ ᱥᱮᱫ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-    .accesskey = i
+    .accesskey = ᱡ
 close-other-tabs =
     .label = ᱵᱷᱮᱜᱟᱨ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-    .accesskey = o
+    .accesskey = ᱵ
 reload-tabs =
     .label = ᱴᱮᱵᱽ ᱠᱚ ᱫᱚᱦᱲᱟ ᱞᱟᱫᱮ ᱢᱮ
-    .accesskey = R
+    .accesskey = ᱫ
 pin-tab =
-    .label = ᱴᱟᱵᱽ ᱯᱤᱱ ᱢᱮ
-    .accesskey = P
+    .label = ᱴᱟᱵᱽ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+    .accesskey = ᱞ
 unpin-tab =
-    .label = ᱴᱮᱵᱽ ᱟᱹᱱᱯᱤᱱ ᱦᱚᱪᱚ
-    .accesskey = b
+    .label = ᱴᱮᱵᱽ ᱚᱪᱚᱜᱽ ᱢᱮ
+    .accesskey = ᱚ
 pin-selected-tabs =
-    .label = ᱴᱮᱵᱽ ᱠᱚ ᱯᱤᱱ ᱦᱚᱪᱚ
-    .accesskey = P
+    .label = ᱴᱮᱵᱽᱠᱚ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+    .accesskey = ᱞ
 unpin-selected-tabs =
-    .label = ᱴᱮᱵᱽ ᱠᱚ ᱟᱹᱱᱯᱤᱱ ᱦᱚᱪᱚ
-    .accesskey = p
+    .label = ᱴᱮᱵᱽ ᱠᱚ ᱚᱪᱚᱜᱽ ᱦᱚᱪᱚᱭ ᱢᱮ
+    .accesskey = ᱪ
 bookmark-selected-tabs =
     .label = ᱴᱮᱵᱽ ᱠᱚ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ…
-    .accesskey = B
+    .accesskey = ᱵ
 tab-context-bookmark-tab =
     .label = ᱴᱮᱵᱽ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ…
-    .accesskey = B
+    .accesskey = ᱵ
 tab-context-open-in-new-container-tab =
     .label = ᱱᱟᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
-    .accesskey = e
+    .accesskey = ᱠ
 move-to-start =
     .label = ᱮᱦᱚᱵ ᱥᱮᱫ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
-    .accesskey = S
+    .accesskey = ᱮ
 move-to-end =
     .label = ᱢᱩᱪᱟᱹᱫ ᱥᱮᱫ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
-    .accesskey = E
+    .accesskey = ᱢ
 move-to-new-window =
-    .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ ᱨᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
-    .accesskey = W
+    .label = ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
+    .accesskey = ᱩ
 tab-context-close-multiple-tabs =
-    .label = ᱟᱭᱢᱟ ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
-    .accesskey = M
+    .label = ᱟᱭᱢᱟ ᱴᱮᱵᱽᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .accesskey = ᱟ
+tab-context-close-duplicate-tabs =
+    .label = ᱰᱩᱯᱞᱤᱠᱮᱴ ᱴᱮᱵᱽᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .accesskey = ᱰ
 tab-context-share-url =
     .label = ᱦᱟᱹᱴᱤᱧ ᱢᱮ
-    .accesskey = h
+    .accesskey = ᱦ
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
@@ -87,7 +90,7 @@ tab-context-reopen-closed-tabs =
             [two] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱤᱱ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
            *[other] ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
         }
-    .accesskey = o
+    .accesskey = ᱠ
 tab-context-close-n-tabs =
     .label =
         { $tabCount ->
@@ -96,7 +99,7 @@ tab-context-close-n-tabs =
             [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
            *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
         }
-    .accesskey = C
+    .accesskey = ᱵ
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -105,7 +108,7 @@ tab-context-move-tabs =
             [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱩᱪᱟᱹᱲ ᱢᱮ
            *[other] ᱴᱮᱵᱽ ᱠᱚ ᱩᱪᱟᱹᱲ ᱢᱮ
         }
-    .accesskey = v
+    .accesskey = ᱪ
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
@@ -114,4 +117,4 @@ tab-context-send-tabs-to-device =
             [two] ᱴᱮᱵᱽ ᱠᱤᱱ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
            *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
         }
-    .accesskey = n
+    .accesskey = ᱥ
