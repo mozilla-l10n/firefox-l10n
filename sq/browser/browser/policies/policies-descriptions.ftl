@@ -84,6 +84,8 @@ policy-Handlers = Formësoni trajtues parazgjedhje aplikacionesh.
 policy-HardwareAcceleration = Në u caktoftë "false", çaktivizohet përshpejtimi përmes hardware-it.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Caktoni faqen hyrëse dhe kyçeni në daçi.
+policy-HttpAllowlist = Origjina që s’do të përmirësohen si HTTPS.
+policy-HttpsOnlyMode = Lejo të aktivizohet Mënyra Vetëm-HTTPS.
 policy-InstallAddonsPermission = Lejojuni disa sajteve të caktuar të instalojnë shtesa.
 policy-LegacyProfiles = Çaktivizo veçorinë e zbatimit me detyrim të një profili veçmas për çdo instalim
 
@@ -108,6 +110,9 @@ policy-OverrideFirstRunPage = Anashkaloni faqen e xhirimit për herë të parë.
 policy-OverridePostUpdatePage = Anashkaloni faqen “Ç’ka të Re” që shfaqet pas përditësimesh. Lëreni të zbrazët, nëse doni të çaktivizohet faqja pas-përditësim.
 policy-PasswordManagerEnabled = Aktivizoni ruajtjen e fjalëkalimeve te përgjegjësi i fjalëkalimeve.
 policy-PasswordManagerExceptions = Pengojani { -brand-short-name }-it ruajtjen e fjalëkalimeve për sajte të caktuar.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Aktivizo marrëveshje kyçesh “post-quantum” për TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Çaktivizoni pse formësoni PDF.js, parësin e brendshëm të PDF-ve në { -brand-short-name }.
 policy-Permissions2 = Formësoni lejet për kamerën, mikrofonin, vendndodhjen, njoftimet dhe vetëluajtjen.
