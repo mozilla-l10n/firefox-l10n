@@ -77,6 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = ᱟᱨᱦᱚᱸ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱟᱨᱦᱚᱸ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = ᱫᱚᱦᱚᱜᱤᱰᱤ ᱴᱮᱵᱽᱠᱚ
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱫᱚᱦᱚᱜᱤᱰᱤ ᱴᱮᱵᱽᱠᱚ ᱧᱮᱞ ᱢᱮ
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ᱠᱷᱩᱞᱟᱹᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -168,6 +172,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = ᱠᱚᱢ ᱚᱣᱟᱹᱨᱞᱳᱰ ᱥᱟᱶ ᱣᱮᱵᱽ ᱰᱮᱵᱚᱜᱤᱝ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱟᱛᱟᱣᱟᱜ ᱾
 profiler-popup-presets-web-developer-label =
     .label = ᱣᱮᱵᱽ ᱞᱟᱦᱟ ᱦᱚᱪᱚᱭᱤᱡ
@@ -255,3 +264,15 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱠᱚ
 appmenu-developer-tools-extensions =
     .label = ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱥᱱᱟᱣ ᱠᱚ
+appmenuitem-report-broken-site =
+    .label = ᱨᱟᱹᱯᱩᱫ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = ᱟᱢᱟᱜ ᱠᱷᱚᱛᱟ ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = ᱰᱟᱴᱟ ᱠᱩᱢᱵᱽᱲᱩ ᱴᱟᱴᱠᱟ ᱠᱷᱚᱵᱚᱨ ᱧᱟᱢ ᱢᱮ
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = ᱟᱢᱟᱜ ᱴᱷᱤᱠ ᱤᱢᱮᱞ ᱟᱨ ᱯᱷᱚᱱ ᱩᱠᱩᱭ ᱢᱮ
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱨᱩᱠᱷᱤᱭᱟᱹᱭᱢᱮ
