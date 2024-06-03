@@ -4,6 +4,7 @@
 
 about-networking-title = Ynghylch Rhwydweithio
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Clirio'r Storfa HTTP
 about-networking-sockets = Socedi
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Clirio'r Storfa DNS
