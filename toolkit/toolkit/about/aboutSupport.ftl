@@ -426,3 +426,4 @@ content-analysis-active = Aktive
 content-analysis-connected-to-agent = I lidhur me Agjentin
 content-analysis-agent-path = Shteg Agjenti
 content-analysis-agent-failed-signature-verification = Dështoi Verifikim Nënshkrimi Për Agjentin
+content-analysis-request-count = Numër Kërkesash
