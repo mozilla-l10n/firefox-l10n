@@ -166,6 +166,7 @@ language-name-se = Sewjerna Samišćina
 language-name-sg = Sango
 language-name-si = Singalešćina
 language-name-sk = Słowakšćina
+language-name-skr = Saraiki
 language-name-sl = Słowjenšćina
 language-name-sm = Samoašćina
 language-name-sn = Šonšćina, Šona
