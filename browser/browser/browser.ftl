@@ -279,6 +279,9 @@ quickactions-cmd-plugins = ᱯᱞᱚᱜᱤᱱ ᱠᱚ
 # Opens the print dialog
 quickactions-print2 = ᱥᱟᱦᱴᱟ ᱪᱷᱟᱯᱟᱭ ᱢᱮ
 quickactions-cmd-print = ᱪᱷᱟᱯᱟ
+# Opens the print dialog at the save to PDF option
+quickactions-savepdf = PDF ᱞᱮᱠᱟ ᱥᱟᱦᱴᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
+quickactions-cmd-savepdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱡᱷᱤᱡᱽ ᱢᱮ
 quickactions-cmd-private = ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
@@ -599,6 +602,9 @@ urlbar-result-action-copy-to-clipboard = ᱱᱚᱠᱚᱞ
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## Strings used for buttons in the urlbar
+
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -887,6 +893,9 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>ᱢᱟᱲᱟ ᱴᱮᱵᱽ ᱠᱷᱩᱞᱟᱹ ᱟᱢ?</strong> ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱢᱟᱲᱟᱝ ᱠᱟᱹᱢᱤ { -brand-short-name } ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱷᱚᱱ <img data-l10n-name="icon"/> ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱦᱤᱛᱟᱹᱞ ᱞᱟᱛᱟᱨ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 restore-session-startup-suggestion-button = ᱫᱚᱠᱷᱟᱣ ᱟᱹᱧ ᱢᱮ ᱪᱮᱞᱠᱟ
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
