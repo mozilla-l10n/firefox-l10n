@@ -166,6 +166,7 @@ language-name-se = Pódpołnocna samišćina
 language-name-sg = Sango
 language-name-si = Singalešćina
 language-name-sk = Słowakšćina
+language-name-skr = Saraiki
 language-name-sl = Słowjeńšćina
 language-name-sm = Samoašćina
 language-name-sn = Šonšćina, Šona
