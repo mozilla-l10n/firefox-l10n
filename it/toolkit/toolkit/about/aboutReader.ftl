@@ -14,21 +14,6 @@ about-reader-color-scheme-sepia = Seppia
 about-reader-color-scheme-auto = Automatico
     .title = Combinazione colori automatica
 
-about-reader-color-theme-light = Chiaro
-    .title = Tema con colori chiari
-about-reader-color-theme-dark = Scuro
-    .title = Tema con colori scuri
-about-reader-color-theme-sepia = Seppia
-    .title = Tema con colori seppia
-about-reader-color-theme-auto = Automatico
-    .title = Tema con colori scelti automaticamente
-about-reader-color-theme-gray = Grigio
-    .title = Tema con colori grigi
-about-reader-color-theme-contrast = Contrasto
-    .title = Tema con colori a contrasto elevato
-about-reader-color-theme-custom = Colori personalizzati
-    .title = Tema con colori personalizzati
-
 about-reader-color-light-theme = Chiaro
     .title = Tema chiaro
 about-reader-color-dark-theme = Scuro
@@ -78,7 +63,6 @@ about-reader-font-type-monospace = Larghezza fissa
 
 about-reader-toolbar-close = Chiudi Modalità lettura
 about-reader-toolbar-type-controls = Controlli carattere
-about-reader-toolbar-color-controls = Colori
 about-reader-toolbar-text-layout-controls = Testo e layout
 about-reader-toolbar-theme-controls = Tema
 about-reader-toolbar-savetopocket = Salva in { -pocket-brand-name }
