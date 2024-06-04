@@ -166,6 +166,7 @@ language-name-se = Sami Gogleddol
 language-name-sg = Sango
 language-name-si = Sinhala
 language-name-sk = Slofacieg
+language-name-skr = Saraiki
 language-name-sl = Slofeneg
 language-name-sm = Samoeg
 language-name-sn = Shona
