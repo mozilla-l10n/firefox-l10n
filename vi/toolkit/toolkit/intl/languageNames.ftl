@@ -166,6 +166,7 @@ language-name-se = Bắc Sami
 language-name-sg = Trung Phi
 language-name-si = Sinhala
 language-name-sk = Slovak
+language-name-skr = Saraiki
 language-name-sl = Slovenia
 language-name-sm = Samoa
 language-name-sn = Shona
