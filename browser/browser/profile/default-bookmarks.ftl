@@ -22,7 +22,7 @@ default-bookmarks-firefox-customize = Անհատականացնել Firefox-ը
 # link title for https://www.mozilla.org/contribute/
 default-bookmarks-firefox-community = Ներգրավվել
 # link title for https://www.mozilla.org/about/
-default-bookmarks-firefox-about = Մեր Մասին
+default-bookmarks-firefox-about = Մեր մասին
 # Firefox Nightly links folder name
 default-bookmarks-nightly-heading = Firefox Nightly ռեսուրսներ
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/

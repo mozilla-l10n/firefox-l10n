@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available2 =
-    .label = Թարմացում է մատչելի
+    .label = Հասանելի է թարմացում
     .buttonlabel = Ներբեռնել
-    .buttonaccesskey = D
+    .buttonaccesskey = Ն
     .secondarybuttonlabel = Բաց թողնել
-    .secondarybuttonaccesskey = m
+    .secondarybuttonaccesskey = թ
 appmenu-update-available-message2 = Ներբեռնել { -brand-shorter-name }-ի վերջին թարմացումը
 appmenu-update-manual2 =
     .label = Հասանելի է թարմացում
@@ -19,9 +19,9 @@ appmenu-update-manual-message2 = { -brand-shorter-name }-ը չկարողացավ
 appmenu-update-unsupported2 =
     .label = Հնարավոր չէ թարմացնել
     .buttonlabel = Իմանալ ավելին
-    .buttonaccesskey = L
+    .buttonaccesskey = Ի
     .secondarybuttonlabel = Բաց թողնել
-    .secondarybuttonaccesskey = m
+    .secondarybuttonaccesskey = թ
 appmenu-update-unsupported-message2 = Ձեր օպերացիոն համակարգը համատեղելի չէ { -brand-shorter-name }-ի վերջին տարբերակի հետ:
 appmenu-update-restart2 =
     .label = Թարմացում է մատչելի
