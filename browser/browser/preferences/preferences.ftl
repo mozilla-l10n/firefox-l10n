@@ -436,7 +436,7 @@ update-setting-write-failure-title2 = Errore durante il salvataggio delle impost
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-    
+
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Include carte di credito e di deb
     .accesskey = d
 autofill-saved-payment-methods-button = Metodi di pagamento salvati
     .accesskey = o
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Richiedi autenticazione con macOS per compilare e modificare i metodi di pagamento.
-        [windows] Richiedi autenticazione con Windows per compilare e modificare i metodi di pagamento.
-        [linux] Richiedi autenticazione con Linux per compilare e modificare i metodi di pagamento.
-       *[other] Richiedi autenticazione per compilare e modificare i metodi di pagamento.
-    }
-    .accesskey = u
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Richiedi conferma dell’accesso al dispositivo per compilare automaticamente e gestire i metodi di pagamento
     .accesskey = u

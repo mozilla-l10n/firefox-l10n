@@ -13,8 +13,6 @@ abuse-report-addon-authored-by = di <a data-l10n-name="author-name">{ $author-na
 abuse-report-learnmore =
     Non sei sicuro di quale tipologia di problema selezionare?
     <a data-l10n-name="learnmore-link">Scopri ulteriori informazioni relative alla segnalazione di estensioni e temi</a>
-abuse-report-learnmore-intro = Non sei sicuro di quale tipologia di problema selezionare?
-abuse-report-learnmore-link = Scopri ulteriori informazioni relative alla segnalazione di estensioni e temi
 abuse-report-submit-description = Descrivi il problema (facoltativo)
 abuse-report-textarea =
     .placeholder = È più semplice risolvere un problema se abbiamo tutti i dettagli. Descrivi il problema che hai riscontrato. Grazie per aiutarci a mantenere il Web sicuro.
@@ -41,24 +39,6 @@ abuse-report-messagebar-removed-sitepermission = Grazie per aver inviato una seg
 abuse-report-messagebar-removed-theme = Grazie per aver inviato una segnalazione. Il tema <span data-l10n-name="addon-name">{ $addon-name }</span> è stato rimosso.
 abuse-report-messagebar-error = Si è verificato un errore durante l’invio della segnalazione per <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = La segnalazione per <span data-l10n-name="addon-name">{ $addon-name }</span> non è stata inviata in quanto è stata appena inviata un’altra segnalazione.
-abuse-report-messagebar-aborted2 =
-    .message = Segnalazione per { $addon-name } annullata.
-abuse-report-messagebar-submitting2 =
-    .message = Invio segnalazione per { $addon-name }.
-abuse-report-messagebar-submitted2 =
-    .message = Grazie per aver inviato una segnalazione. Rimuovere { $addon-name }?
-abuse-report-messagebar-submitted-noremove2 =
-    .message = Grazie per aver inviato una segnalazione.
-abuse-report-messagebar-removed-extension2 =
-    .message = Grazie per aver inviato una segnalazione. L’estensione { $addon-name } è stata rimossa.
-abuse-report-messagebar-removed-sitepermission2 =
-    .message = Grazie per aver inviato una segnalazione. Il componente aggiuntivo per permessi siti { $addon-name } è stato rimosso.
-abuse-report-messagebar-removed-theme2 =
-    .message = Grazie per aver inviato una segnalazione. Il tema { $addon-name } è stato rimosso.
-abuse-report-messagebar-error2 =
-    .message = Si è verificato un errore durante l’invio della segnalazione per { $addon-name }.
-abuse-report-messagebar-error-recent-submit2 =
-    .message = La segnalazione per { $addon-name } non è stata inviata in quanto è stata appena inviata un’altra segnalazione.
 
 ## Message bars actions.
 
