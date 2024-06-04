@@ -166,6 +166,7 @@ language-name-se = 북사미어
 language-name-sg = 상고어
 language-name-si = 신할라어
 language-name-sk = 슬로바키아어
+language-name-skr = 사라이키어
 language-name-sl = 슬로베니아어
 language-name-sm = 사모아어
 language-name-sn = 쇼나어
