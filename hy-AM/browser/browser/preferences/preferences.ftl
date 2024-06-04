@@ -559,7 +559,7 @@ search-bar-hidden =
     .label = Օգտագործեք հասցեի գոտին՝ որոնման և ուղղորդման համար
 search-bar-shown =
     .label = Ավելացնել որոնման գոտին գործիքագոտիում
-search-engine-default-header = Հիմնական որոնիչը
+search-engine-default-header = Սկզբնադիր որոնիչ
 search-engine-default-desc-2 = Սա ձեր լռելյայն որոնման միջոցն է հասցեագոտում և որոնման գոտում։ Դուք կարող եք փոխել այն ցանկացած ժամանակ։
 search-engine-default-private-desc-2 = Ընտրեք այլ լռելյայն որոնման միջոց անձնական պատուհանների համար միայն
 search-separate-default-engine =
@@ -599,8 +599,8 @@ search-choose-engine-column =
 search-choose-keyword-column =
     .label = Հիմնաբառ
 search-restore-default =
-    .label = Վերականգնել հիմնական որոնիչը
-    .accesskey = հ
+    .label = Վերականգնել սկզբնադիր որոնիչները
+    .accesskey = Ս
 search-remove-engine =
     .label = Հեռացնել
     .accesskey = Հ
@@ -1028,8 +1028,8 @@ content-blocking-learn-more = Իմանալ ավելին
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Լռելյայն
-    .accesskey = d
+    .label = Սովորական
+    .accesskey = ո
 enhanced-tracking-protection-setting-strict =
     .label = Ստույգ
     .accesskey = r
@@ -1110,7 +1110,7 @@ permissions-xr = Թվացյալ իրականություն
 permissions-xr-settings =
     .label = Կարգավորումներ…
     .accesskey = t
-permissions-camera = Խցիկ
+permissions-camera = Տեսախցիկ
 permissions-camera-settings =
     .label = Կարգավորումներ...
     .accesskey = t
@@ -1228,7 +1228,7 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
-preferences-doh-header = DNS՝ HTTPS-ի միջոցով
+preferences-doh-header = DNS-ը HTTPS-ի միջով
 preferences-doh-description = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջոցով ուղարկում է ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապակցմամբ՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժավացնելով տեսնել այն կայքը, որը դուք ցանկանում եք բացել:
 preferences-doh-description2 = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջով ուղարկում է Ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապով՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժարացնելով տեսնել այն կայքը, որին հասանելիություն ունենալու շեմին եք:
 # Variables:
