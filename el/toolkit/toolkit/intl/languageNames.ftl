@@ -166,6 +166,7 @@ language-name-se = Βόρεια Σάμι
 language-name-sg = Σάνγκο
 language-name-si = Σιναλεζικά
 language-name-sk = Σλοβακικά
+language-name-skr = Σαραϊκά
 language-name-sl = Σλοβενικά
 language-name-sm = Σαμοανικά
 language-name-sn = Σόνα
