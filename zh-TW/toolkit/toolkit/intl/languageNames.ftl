@@ -166,6 +166,7 @@ language-name-se = 北薩米語 (挪威．芬蘭)
 language-name-sg = 桑戈語 (中非)
 language-name-si = 僧加羅語 (斯里蘭卡)
 language-name-sk = 斯洛伐克語
+language-name-skr = 沙賴基語
 language-name-sl = 斯洛維尼亞語
 language-name-sm = 薩摩亞語
 language-name-sn = 紹納語 (辛巴威)
