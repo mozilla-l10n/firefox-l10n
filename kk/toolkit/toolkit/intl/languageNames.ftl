@@ -166,6 +166,7 @@ language-name-se = Солтүстік Сами
 language-name-sg = Санго
 language-name-si = Сингал
 language-name-sk = Словак
+language-name-skr = Сирайки
 language-name-sl = Словен
 language-name-sm = Самоа
 language-name-sn = Сенегал
