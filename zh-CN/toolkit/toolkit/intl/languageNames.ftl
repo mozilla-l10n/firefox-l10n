@@ -166,6 +166,7 @@ language-name-se = 北萨摩语
 language-name-sg = 桑戈语
 language-name-si = 僧伽罗语
 language-name-sk = 斯洛伐克语
+language-name-skr = 西莱基语
 language-name-sl = 斯洛文尼亚语
 language-name-sm = 萨摩亚语
 language-name-sn = 修纳语
