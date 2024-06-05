@@ -1,0 +1,30 @@
+0. Malpera MySpell a kurdî:
+      http://ferheng.org 
+   Ji bo zêdetir agahî: 
+      http://ku.wikipedia.org/wiki/MySpell
+      http://ku.wikipedia.org/wiki/DicOOo
+
+1. Version 0.96
+
+2. DÎROKA VERSIYONAN
+
+0.96 23.07.2010	Changed the licensing to be compatible with Mozilla
+0.95 04.08.2008 Identical with 0.20
+0.20 30.01.2005 Gelek peyvan zêde kir, affix zêdekir. Spas ji bo alîkariya Omer Dilsoz.
+0.13 22.01.2005 ~10.000 peyv
+0.12 20.01.2005 Serastkirinên biçûk
+0.10 08.09.2004 ~9.000 peyv - versiyona ewil, gelek kemasî, ~9.000
+
+3. Copyright
+Spelling dictionary for Kurdish
+(C) Copyright Reimar Heider <hunspell at ferheng dot org>
+With contributions from Kevin P. Scannell <scannell at slu.edu>
+and Rêzan Tovjîn <retovjin at hotmail.com>
+
+  The original word list used for this package was augmented
+using Scannell's web crawling software "An Crúbadán" and 
+then hand-checked.
+
+4. License
+
+Originally GPL, relicensed on 23-07-2010 to GPLv2, LGPLv2.1, MPL 1.1

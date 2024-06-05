@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+    %brandDTD;
+]>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <rdf:Description about="urn:root">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="firefox-help" nc:name="Ikaze kuri &brandFullName; Ifashayobora" nc:link="firefox_welcome.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird" nc:name="Ukoresheje &brandFullName;" nc:link="using_firebird.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager" nc:name="Gukoresha Mucungibyimurwa" nc:link="download_manager.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="customize-firebird" nc:name="Kuboneza" nc:link="customization.xhtml"/> </rdf:li>
+        <rdf:li>
+          <rdf:Description ID="prefs-win" nc:name="Amahitamo" nc:link="prefs.xhtml" nc:platform="win os2">
+            <nc:subheadings rdf:resource="#prefs-tree"/>
+          </rdf:Description>
+        </rdf:li>
+        <rdf:li>
+          <rdf:Description ID="prefs-unix" nc:name="Ibyatoranyijwe" nc:link="prefs.xhtml" nc:platform="unix mac">
+            <nc:subheadings rdf:resource="#prefs-tree"/>
+          </rdf:Description>
+        </rdf:li>
+        <rdf:li> <rdf:Description ID="popup-blocker" nc:name="Kugenzura Ibyirambura" nc:link="popup.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="cookies" nc:name="Gucunga Dosiyenyibutsa" nc:link="cookies.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing" nc:name="Ishakisha Rishingiye ku Dufishi" nc:link="tabbed_browsing.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="firebird-keyboard-shortcuts" nc:name="Amahinanzira ya Mwandikisho" nc:link="shortcuts.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="firebird-mouse-shortcuts" nc:name="Amahinanzira y'Imbeba" nc:link="mouse_shortcuts.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y" nc:name="Ibijyana no Kugera" nc:link="accessibility.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu" nc:name="Indango y'Ibikubiyemo" nc:link="menu_reference.xhtml"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers" nc:name="Bigenewe Abakoresha Internet Explorer" nc:link="forieusers.xhtml"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="using-firebird-navigating-web-pages" nc:name="Iri Kunyura mu Mbuga za Webu" nc:link="using_firebird.xhtml#navigating_web_pages"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird-searching" nc:name="Irimo Gushakisha" nc:link="using_firebird.xhtml#searching"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-firebird-improving-speed-and-efficiency" nc:name="Kongera Umuvuduko n'Umusarueo" nc:link="using_firebird.xhtml#improving_speed_and_efficiency"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-download-manager">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="using-download-manager-whatis" nc:name="Mucungibyimurwa ni iki?" nc:link="download_manager.xhtml#what_is_download_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-can-i-do" nc:name="Ni iki nshobora gukoresha Mucungibyimurwa?" nc:link="download_manager.xhtml#do_with_download_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-prefs-win" nc:name="Amahitamo ya Mucungibyimurwa" nc:link="download_manager.xhtml#download_manager_options" nc:platform="win os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="using-download-manager-prefs-unix" nc:name="Ibyatoranyijwe bya Mucungibyimurwa" nc:link="download_manager.xhtml#download_manager_options" nc:platform="unix mac"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-navigating-web-pages">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-viewing-your-home-page" nc:name="Kureba Paji Itangira Yawe" nc:link="using_firebird.xhtml#viewing_your_home_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-moving-to-another-page" nc:name="Kujya ku yindi Paji" nc:link="using_firebird.xhtml#moving_to_another_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-clicking-a-link" nc:name="Gukanda ku Ihuza" nc:link="using_firebird.xhtml#clicking_a_link"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-retracing-your-steps" nc:name="Gusubiramo Inzira Zawe" nc:link="using_firebird.xhtml#retracing_your_steps"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-stopping-and-reloading" nc:name="Guhagarika no Kugarura" nc:link="using_firebird.xhtml#stopping_and_reloading"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-tabbed-browsing" nc:name="Ishakisha Rishingiye ku Dufishi" nc:link="tabbed_browsing.xhtml"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-sidebar" nc:name="Ukoresheje Umwanyaruhande" nc:link="using_firebird.xhtml#using_the_sidebar"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-copying-saving-and-printing-pages" nc:name="Gukoporora, Kubika no Gucapa Paji" nc:link="using_firebird.xhtml#copying_saving_and_printng_pages"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-searching">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="use-firebird-searching-the-web" nc:name="Ishakisha rya Webu" nc:link="using_firebird.xhtml#searching_the_web"/> </rdf:li>
+        <rdf:li><rdf:Description ID="use-firebird-searching-on-selected-words-in-a-web-page" nc:name="Irimo gushakisha amagambo wifuza muri paji rubuga" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="use-firebird-searching-within-a-page" nc:name="Irimi Gushakisha muri Paji" nc:link="using_firebird.xhtml#searching_within_a_page"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-copying-saving-and-printing-pages">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="using-firebird-copying-part-of-a-page" nc:name="Gukoporora Igice cya Paji" nc:link="using_firebird.xhtml#copying_part_of_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-saving-all-or-part-of-a-page" nc:name="Irimo Kubika Paji" nc:link="using_firebird.xhtml#saving_all_or_part_of_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-printing-a-page" nc:name="Irimo Gucapa Paji" nc:link="using_firebird.xhtml#printing_a_page"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-using-print-preview" nc:name="Ukoresheje Igaragazambere ry'Ibicapwa" nc:link="using_firebird.xhtml#using_print_preview" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li><rdf:Description ID="using-firebird-using-page-setup" nc:name="Ukoresheje Itunganyarupapuro" nc:link="using_firebird.xhtml#using_page_setup"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#using-firebird-improving-speed-and-efficiency">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="using-firebird-managing-different-file-types" nc:name="Ibijyanye n'Ubwoko Butandukanye bwa Dosiye" nc:link="using_firebird.xhtml#managing_different_file_types"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-making-firebird-default-browser" nc:name="Kugira Mushakisha Mburabuzi" nc:link="using_firebird.xhtml#making_firebird_your_default_browser"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-cache-prefs-win" nc:name="Amahitamo y'Ubwihisho" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="win os2"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="using-firebird-cache-prefs-unix" nc:name="Ibyatoranyijwe by'Ubwihisho" nc:link="using_firebird.xhtml#changing_cache_settings" nc:platform="mac unix"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#customize-firebird">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="customize-toolbars" nc:name="Umwanyabikoresho" nc:link="customization.xhtml#toolbars"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="themes" nc:name="Insanganyamatsiko" nc:link="customization.xhtml#themes"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="extensions" nc:name="Imigereka" nc:link="customization.xhtml#extensions"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#customize-toolbars">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="customize-toolbar-rearrange" nc:name="Kongera Gutunganya Ibiri mu Mwanyabikoresho" nc:link="customization.xhtml#rearranging_toolbar_items"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="customize-toolbars-adding" nc:name="Guhisha, Kongeraho, no Kuvanaho Imyanyabikoresho" nc:link="customization.xhtml#adding_removing_toolbars"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#themes">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="themes-getting-and-installing" nc:name="Kubona no Kwinjiza" nc:link="customization.xhtml#getting_installing_themes"/> </rdf:li>
+          <rdf:li><rdf:Description ID="themes-uninstalling" nc:name="Kuvanamo" nc:link="customization.xhtml#uninstalling_themes"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="themes-changing" nc:name="Guhinduranya Insanganyamatsiko" nc:link="customization.xhtml#changing_themes"/> </rdf:li>
+          <rdf:li><rdf:Description ID="themes-updating" nc:name="Kuvugurura Insanganyamatsiko" nc:link="customization.xhtml#updating_themes"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#extensions">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li><rdf:Description ID="extensions-installing" nc:name="Kubona no Kwinjiza" nc:link="customization.xhtml#getting_installing_extensions"/> </rdf:li>
+          <rdf:li><rdf:Description ID="extensions-uninstalling" nc:name="Kuvanamo" nc:link="customization.xhtml#uninstalling_extensions"/> </rdf:li>
+          <rdf:li><rdf:Description ID="extensions-updating" nc:name="Kuvugurura Imigereka" nc:link="customization.xhtml#updating_extensions"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#popup-blocker">
+      <nc:subheadings>
+        <rdf:Seq>
+          <rdf:li> <rdf:Description ID="popup-blocker-what-are-popups" nc:name="Ibyirambura bisobanura iki?" nc:link="popup.xhtml#what_are_popups"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="popup-blocker-prefs-win" nc:name="Muhagarikibyiramburirahejuru Amahitamo" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="win os2"/> </rdf:li>
+          <rdf:li> <rdf:Description ID="popup-blocker-prefs-unix" nc:name="Muhagarikibyiramburirahejuru Ibyatoranyijwe" nc:link="popup.xhtml#popup_blocker_preferences" nc:platform="unix mac"/> </rdf:li>
+        </rdf:Seq>
+      </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#cookies">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li><rdf:Description ID="cookies-what-is-a-cookie" nc:name="Dosiyenyibutsa ni iki?" nc:link="cookies.xhtml#what_is_a_cookie"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-setting-up-cookie-rules" nc:name="Kugena Amategeko Agenga Dosiyenyibutsa" nc:link="cookies.xhtml#setting_up_cookie_rules"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-all-the-settings" nc:name="Cookie Settings" nc:link="cookies.xhtml#all_the_settings"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-accepting-and-blocking-cookies" nc:name="Accepting and Blocking Cookies" nc:link="cookies.xhtml#accepting_and_blocking_cookies"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-exceptions" nc:name="The Cookies Exceptions Window" nc:link="cookies.xhtml#cookies_exceptions"/> </rdf:li>
+        <rdf:li><rdf:Description ID="cookies-view" nc:name="The View Cookies Window" nc:link="cookies.xhtml#view_cookies"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#tabbed-browsing">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-creating-loading-tabs" nc:name="Kurema no Gutangiza Udufishi" nc:link="tabbed_browsing.xhtml#creating_loading_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-moving-tabs" nc:name="Kwimura Udufishi Mu Dirishya" nc:link="tabbed_browsing.xhtml#moving_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-closing-tabs" nc:name="Gufunga Udufishi" nc:link="tabbed_browsing.xhtml#closing_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-customizing" nc:name="Kuboneza Ishakisha Rishingiye ku Dufishi" nc:link="tabbed_browsing.xhtml#customizing"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="tabbed-browsing-tips-tricks" nc:name="Inama n'Amacenga" nc:link="tabbed_browsing.xhtml#tips_tricks"/> </rdf:li>
+       </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-keyboard-navigation" nc:name="Gukoresha Mwandikisho" nc:link="accessibility.xhtml#using_a_keyboard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-mouse-navigation" nc:name="Gukoresha Imbeba" nc:link="accessibility.xhtml#using_a_mouse"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-fonts-and-colors" nc:name="Imyandikire n'Amabara" nc:link="accessibility.xhtml#fonts_and_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-web-content" nc:name="Gucunga Ibiri ku Rubuga" nc:link="accessibility.xhtml#controlling_web_content"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-compatibility" nc:name="Imikoranire n'Ikoranabuhanga Ribereye Abamugaye" nc:link="accessibility.xhtml#compatibility_with_assistive_technologies"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-online" nc:name="Gushaka Ifashayobora kuri Interineti" nc:link="accessibility.xhtml#finding_help_online"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-keyboard-navigation">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-keyboard-shortcuts" nc:name="Amahinanzira ya Mwandikisho" nc:link="accessibility.xhtml#keyboard_shortcuts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-caret-browsing" nc:name="Gutuma Umwandiko Utoranywa Hakoreshejwe Mwandikisho" nc:link="accessibility.xhtml#allow_text_to_be_selected_with_the_keyboard"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-typeahead-find" nc:name="Gutangira Kubona Igihe Utangiye Kwandika" nc:link="accessibility.xhtml#begin_finding_when_you_begin_typing"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-mouse-navigation">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-mouse-shortcuts" nc:name="Amahinanzira y'Imbeba Asanzwe" nc:link="accessibility.xhtml#common_mouse_shortcuts"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-fonts-and-colors">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-override-fonts" nc:name="Kwirengagiza Imyandikire ya Paji" nc:link="accessibility.xhtml#overriding_page_fonts"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-minimum-font-size" nc:name="Kugena Ingano y'Imyandikire Mitoya Ishoboka" nc:link="accessibility.xhtml#setting_a_minimum_font_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-text-zoom" nc:name="Guhindura Ingano y'Umwandiko wa Paji" nc:link="accessibility.xhtml#resizing_page_text"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-override-colors" nc:name="Kwirengagiza Amabara ya Paji" nc:link="accessibility.xhtml#overriding_page_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-high-contrast" nc:name="Gukoresha Ingingo Ifite Inyuranyamigaragarire Ihanitse" nc:link="accessibility.xhtml#using_a_high_contrast_theme"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#a11y-web-content">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="a11y-popup-windows" nc:name="Gufunga Amadirishya y'Ibyirambura" nc:link="accessibility.xhtml#blocking_popup_windows"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-java" nc:name="Gufunga Apuleti za Java" nc:link="accessibility.xhtml#turning_off_java_applets"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="a11y-javascript" nc:name="Gukumira Imyifatire ya JavaScript" nc:link="accessibility.xhtml#restricting_javascript_behavior"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-firefox" nc:name="&brandShortName;" nc:link="menu_reference.xhtml#firefox" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file" nc:name="Dosiye" nc:link="menu_reference.xhtml#file"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-edit" nc:name="Guhindura" nc:link="menu_reference.xhtml#edit"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view" nc:name="Kureba" nc:link="menu_reference.xhtml#view"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go" nc:name="Amateka" nc:link="menu_reference.xhtml#go"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks" nc:name="Utumenyetso" nc:link="menu_reference.xhtml#bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools" nc:name="Ibikoresho" nc:link="menu_reference.xhtml#tools"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window" nc:name="Dirishya" nc:link="menu_reference.xhtml#window" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help" nc:name="Ifashayobora" nc:link="menu_reference.xhtml#help"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-firefox">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-firefox-about" nc:name="Ibyerekeye &brandFullName;" nc:link="menu_reference.xhtml#about_mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-firefox-preferences" nc:name="Ibyatoranyijwe..." nc:link="menu_reference.xhtml#prefs_mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-firefox-quit" nc:name="Kuvamo &brandShortName;" nc:link="menu_reference.xhtml#quit_mac"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-file">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-file-new-window" nc:name="Idirishya Rishya" nc:link="menu_reference.xhtml#new_window"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-new-tab" nc:name="Agafishi Gashya" nc:link="menu_reference.xhtml#new_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-open-location" nc:name="Gufungura Ahantu..." nc:link="menu_reference.xhtml#open_location"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-open-file" nc:name="Gufungura Dosiye..." nc:link="menu_reference.xhtml#open_file"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-close" nc:name="Gufunga (Idirishya)" nc:link="menu_reference.xhtml#close"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-close-tab" nc:name="Gufunga Agafishi" nc:link="menu_reference.xhtml#close_tab"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-save-page-as" nc:name="Kubika Paji Muri..." nc:link="menu_reference.xhtml#save_page_as"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-send-page" nc:name="Kohereza Ihuza..." nc:link="menu_reference.xhtml#send_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-page-setup" nc:name="Itunganyarupapuro..." nc:link="menu_reference.xhtml#page_setup"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-print-preview" nc:name="Igaragazambere ry'Igicapwa" nc:link="menu_reference.xhtml#print_preview" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-print" nc:name="Gucapa..." nc:link="menu_reference.xhtml#print"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-import" nc:name="Kuvana Hanze..." nc:link="menu_reference.xhtml#import"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-file-work-offline" nc:name="Gukora Hatariho" nc:link="menu_reference.xhtml#work_offline"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-exit-win" nc:name="Kuvamo" nc:link="menu_reference.xhtml#exit" nc:platform="win os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-exit-nowin" nc:name="Kuvamo" nc:link="menu_reference.xhtml#exit" nc:platform="unix mac"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-edit">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-undo" nc:name="Kuvaho" nc:link="menu_reference.xhtml#undo"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-redo" nc:name="Gusubiramo" nc:link="menu_reference.xhtml#redo"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-cut" nc:name="Gukata" nc:link="menu_reference.xhtml#cut"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-copy" nc:name="Gukoporora" nc:link="menu_reference.xhtml#copy"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-paste" nc:name="Komeka" nc:link="menu_reference.xhtml#paste"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-delete" nc:name="Gusiba" nc:link="menu_reference.xhtml#delete"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-select-all" nc:name="Guhitamo Byose" nc:link="menu_reference.xhtml#select_all"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-find-in-this-page" nc:name="Gushaka kuri Iyi Paji..." nc:link="menu_reference.xhtml#find_in_this_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-find-again" nc:name="Kongera Gushaka" nc:link="menu_reference.xhtml#find_again"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-preferences" nc:name="Ibyatoranyijwe" nc:link="menu_reference.xhtml#prefs" nc:platform="unix"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars" nc:name="Imyanyabikoresho" nc:link="menu_reference.xhtml#toolbars"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-status-bar" nc:name="Umwanya Mimerere" nc:link="menu_reference.xhtml#status_bar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar" nc:name="Umwanyaruhande" nc:link="menu_reference.xhtml#sidebar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-stop" nc:name="Guhagarika" nc:link="menu_reference.xhtml#stop"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-reload" nc:name="Kongera Gutangiza" nc:link="menu_reference.xhtml#reload"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size" nc:name="Ingano y'Inyandiko" nc:link="menu_reference.xhtml#text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-style" nc:name="Imisusire ya Paji" nc:link="menu_reference.xhtml#page_style"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-character-encoding" nc:name="Isobekanyuguti" nc:link="menu_reference.xhtml#character_encoding"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-source" nc:name="Inkomoko ya Paji" nc:link="menu_reference.xhtml#page_source"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-full-screen" nc:name="Mugaragaza Yuzuye" nc:link="menu_reference.xhtml#full_screen" nc:platform="win unix os2"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-toolbars">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-navigation" nc:name="Umwanyabikoresho wa Mutemberezi" nc:link="menu_reference.xhtml#navigation_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-bookmarks" nc:name="Umwanyabikoresho w'Utumenyetso" nc:link="menu_reference.xhtml#bookmarks_toolbar"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-toolbars-customize" nc:name="Kuboneza" nc:link="menu_reference.xhtml#customize"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-sidebar">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar-bookmarks" nc:name="Utumenyetso" nc:link="menu_reference.xhtml#view_sidebar_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-sidebar-history" nc:name="Amateka" nc:link="menu_reference.xhtml#view_sidebar_history"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-text-size">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-increase" nc:name="Kongera" nc:link="menu_reference.xhtml#increase_text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-decrease" nc:name="Kugabanya" nc:link="menu_reference.xhtml#decrease_text_size"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-text-size-reset" nc:name="Gisanzwe" nc:link="menu_reference.xhtml#reset_text_size"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-view-page-style">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-view-page-style-no-style" nc:name="Nta Misusire" nc:link="menu_reference.xhtml#no_style"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-view-page-style-basic-page-style" nc:name="Imisusire ya Paji y'Ibanze" nc:link="menu_reference.xhtml#basic_page_style"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-go">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-go-back" nc:name="Inyuma" nc:link="menu_reference.xhtml#back"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-forward" nc:name="Imbere" nc:link="menu_reference.xhtml#forward"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-home" nc:name="Itangiriro" nc:link="menu_reference.xhtml#home"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-closed-tabs" nc:name="Udufishi Twafunze Iyimura" nc:link="menu_reference.xhtml#closed_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-go-history" nc:name="Kwerekana mu Mwanyaruhande" nc:link="menu_reference.xhtml#go_history"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-bookmarks">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-add-to-bookmarks" nc:name="Gushyira Akamenyetso Kuri Iyi Paji..." nc:link="menu_reference.xhtml#add_to_bookmarks"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-bookmark-all-tabs" nc:name="Gushyira Utumenyetso ku Dufishi Twose..." nc:link="menu_reference.xhtml#bookmark_all_tabs"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-bookmarks-manage" nc:name="Gucunga Utumenyetso..." nc:link="menu_reference.xhtml#manage_bookmarks"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-tools">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-tools-web-search" nc:name="Ishakisha Rubuga" nc:link="menu_reference.xhtml#web_search"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-downloads" nc:name="Ibikururwa" nc:link="menu_reference.xhtml#downloads"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-extensions" nc:name="Imigereka" nc:link="menu_reference.xhtml#extensions"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-themes" nc:name="Insanganyamatsiko" nc:link="menu_reference.xhtml#themes"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-javascript-console" nc:name="Konsole y'Amakosa" nc:link="menu_reference.xhtml#javascript_console"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-page-info" nc:name="Amakuru ya Paji" nc:link="menu_reference.xhtml#page_info"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-clear-private-data" nc:name="Gusiba Ibyatanzwe Bwite..." nc:link="menu_reference.xhtml#clear_private_data"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-tools-options" nc:name="Amahitamo" nc:link="menu_reference.xhtml#options" nc:platform="win os2"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-window">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-window-minimize" nc:name="Gutubya" nc:link="menu_reference.xhtml#minimize"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window-zoom" nc:name="Ihindurangano" nc:link="menu_reference.xhtml#zoom"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-window-open-windows" nc:name="(Gufungura Amadirishya)" nc:link="menu_reference.xhtml#open-windows"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#menu-help">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="menu-help-help-contents" nc:name="Ibikubiye mu Ifashayobora" nc:link="menu_reference.xhtml#help_contents" nc:platform="win unix os2"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-help-contents-mac" nc:name="&brandShortName; Help" nc:link="menu_reference.xhtml#help_contents" nc:platform="mac"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-for-ie-users" nc:name="Bigenewe Abakoresha Internet Explorer" nc:link="menu_reference.xhtml#for_ie_users" nc:platform="win"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-relnotes" nc:name="Ibisobanuro ku Cyatangajwe" nc:link="menu_reference.xhtml#relnotes"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-report-broken-web-site" nc:name="Kumenyekanisha Urubugamakuru Rwangiritse..." nc:link="menu_reference.xhtml#reporter"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-check-for-updates" nc:name="Kugenzura Ibyavuguruwe..." nc:link="menu_reference.xhtml#check_for_updates"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="menu-help-about-mozilla-firebird" nc:name="Ibyerekeye &brandFullName;" nc:link="menu_reference.xhtml#about_mozilla_firebird" nc:platform="win unix os2"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#ieusers">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="ieusers-firebird-ie-terminology-differences" nc:name="Imitandukanire y'Amuga" nc:link="forieusers.xhtml#firebird_and_internet_explorer_terminology_differences"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-about-your-ie-settings" nc:name="Ibyerekeye Amagenamiterere n'Ibyatoranyijwe bya IE Yawe" nc:link="forieusers.xhtml#about_your_ie_settings"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-firebirds-features" nc:name="Ibiranga &brandFullName;" nc:link="forieusers.xhtml#firebirds_features"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="ieusers-keyboard-shortcuts" nc:name="Amahinanzira ya Mwandikisho" nc:link="forieusers.xhtml#keyboard_shortcuts"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <!-- The following nodes are intentionally linkable but not displayable -->
+  <rdf:Description ID="prefs-languages" nc:name="Indimi" nc:link="prefs.xhtml#languages"/>
+
+  <!-- The following nodes are trees used multiple times in the hierarchy
+       (for platform-specific reasons).  To display one of these trees,
+       include an nc:subheadings element with an rdf:ID attribute set to
+       "#" plus the value of the rdf:ID for the appropriate tree within
+       the appropriate rdf:Description element. -->
+
+  <rdf:Seq rdf:ID="prefs-tree">
+    <rdf:li> <rdf:Description ID="prefs-general" nc:name="Rusange" nc:link="prefs.xhtml#general_options"/> </rdf:li>
+    <rdf:li> <rdf:Description ID="prefs-privacy" nc:name="Ubuzima Bwite" nc:link="prefs.xhtml#privacy_options"/> </rdf:li>
+    <rdf:li> <rdf:Description ID="prefs-content" nc:name="Ibikubiyemo" nc:link="prefs.xhtml#content_options"/> </rdf:li>
+    <rdf:li> <rdf:Description ID="prefs-tabs"    nc:name="Udufishi"    nc:link="prefs.xhtml#tabs_options"/> </rdf:li>
+    <rdf:li> <rdf:Description ID="prefs-downloads" nc:name="Ibikururwa" nc:link="prefs.xhtml#downloads_options"/> </rdf:li>
+    <rdf:li> <rdf:Description ID="prefs-advanced" nc:name="Bihanitse" nc:link="prefs.xhtml#advanced_options"/> </rdf:li>
+  </rdf:Seq>
+
+  <!-- The following are subnodes of trees used multiple times in the hierarchy. -->
+
+  <rdf:Description about="#prefs-general">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="prefs-home-page" nc:name="Paji Ndasukirwaho" nc:link="prefs.xhtml#home_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-default-browser" nc:name="Mucukumbuzi Mburabuzi" nc:link="prefs.xhtml#default_browser"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-connection-settings" nc:name="Amagenamiterere y'Umwinjiro" nc:link="prefs.xhtml#connection_settings"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#prefs-privacy">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="prefs-clear-private-data" nc:name="Clear Private Data Settings" nc:link="prefs.xhtml#clear_private_data"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-history" nc:name="Amateka" nc:link="prefs.xhtml#privacy_history"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-saved-forms" nc:name="Amafishi Yabitswe" nc:link="prefs.xhtml#privacy_saved_forms"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-passwords" nc:name="Amagambobanga" nc:link="prefs.xhtml#privacy_passwords"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-download-history" nc:name="Amateka y'Igikururwa" nc:link="prefs.xhtml#privacy_download_history"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-cookies" nc:name="Dosiyenyibutsa" nc:link="prefs.xhtml#privacy_cookies"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-cache" nc:name="Ubwihisho" nc:link="prefs.xhtml#privacy_cache"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#prefs-content">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="prefs-fonts-and-colors" nc:name="Imyandikire n'Amabara" nc:link="prefs.xhtml#fonts_and_colors"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-advanced-javascript" nc:name="Amagenamiterere Ahanitse ya JavaScript" nc:link="prefs.xhtml#advanced_javascript"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#prefs-downloads">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="prefs-download-folder" nc:name="Ububiko bw'Ibikururwa" nc:link="prefs.xhtml#download_folder"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-download-manager" nc:name="Mucungibikururwa" nc:link="prefs.xhtml#download_manager"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-download-actions" nc:name="Gukurura Ibikorwa" nc:link="prefs.xhtml#download_actions"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#prefs-advanced">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="prefs-advanced-general" nc:name="Rusange" nc:link="prefs.xhtml#advanced_general"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-advanced-update" nc:name="Kuvugurura" nc:link="prefs.xhtml#advanced_update"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-advanced-security" nc:name="Umutekano" nc:link="prefs.xhtml#advanced_security"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="prefs-advanced-safebrowsing" nc:name="Anti-Phishing" nc:link="prefs.xhtml#advanced_safebrowsing"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+</rdf:RDF>
+

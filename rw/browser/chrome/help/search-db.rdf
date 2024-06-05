@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:nc="http://home.netscape.com/NC-rdf#">
+
+  <Description rdf:about="urn:root">
+    <nc:subheadings>
+      <Seq>
+        <!--
+          These nodes are used for searching purposes; they display in search results but do not
+          show up in the default listing displayed when the help viewer loads.
+          DO NOT CREATE NAME COLLISIONS BETWEEN THE ITEMS HERE AND THE ITEMS IN THE TOC!
+        -->
+        <li><Description nc:name="Amahitamo y'Imikoresherezwe" nc:link="prefs.xhtml#accessibility" nc:platform="win os2"/></li>
+        <li><Description nc:name="Ibyahiswemo by'Imikoresherezwe" nc:link="prefs.xhtml#accessibility" nc:platform="unix mac"/></li>
+        <li><Description nc:name="ihamya (igisobanuro)" nc:link="glossary.xhtml#authentication"/></li>
+        <li><Description nc:name="Buto yo Inyuma" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Guhagarika Ibyirambura" nc:link="popup.xhtml"/></li>
+        <li><Description nc:name="akamenyetso (igisobanuro)" nc:link="glossary.xhtml#bookmark"/></li>
+        <li><Description nc:name="Umwanyabikoresho w'Utumenyetso (igisobanuro)" nc:link="glossary.xhtml#Bookmarks_Toolbar"/></li>
+        <li><Description nc:name="Gushakisha" nc:link="using_firebird.xhtml#navigating_web_pages"/></li>
+        <li><Description nc:name="ubwihisho (igisobanuro)" nc:link="glossary.xhtml#cache"/></li>
+        <li><Description nc:name="icyemezo (igisobanuro)" nc:link="glossary.xhtml#certificate"/></li>
+        <li><Description nc:name="Ibyemezo" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Lisiti z'Ibyemezo Byanzwe" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="umukiriya (igisobanuro)" nc:link="glossary.xhtml#client"/></li>
+        <li><Description nc:name="dosiyenyibutsa (igisobanuro)" nc:link="glossary.xhtml#cookie"/></li>
+        <li><Description nc:name="umukonobanga (igisobanuro)" nc:link="glossary.xhtml#cryptography"/></li>
+        <li><Description nc:name="isobanura (igisobanuro)" nc:link="glossary.xhtml#decryption"/></li>
+        <li><Description nc:name="indangamimereremubare (igisobanuro)" nc:link="glossary.xhtml#digital_ID"/></li>
+        <li><Description nc:name="isobeka (igisobanuro)" nc:link="glossary.xhtml#encryption"/></li>
+        <li><Description nc:name="Ururimi Nsobeka Ruhindurwa (XML) (igisobanuro)" nc:link="glossary.xhtml#XML"/></li>
+        <li><Description nc:name="kugaburira (igisobanuro)" nc:link="glossary.xhtml#feed"/></li>
+        <li><Description nc:name="Porotokole y'Iyiyimuradosiye (FTP) (igisobanuro)" nc:link="glossary.xhtml#File_Transfer_Protocol"/></li>
+        <li><Description nc:name="FIPS PUBS 140-1 (igisobanuro)" nc:link="glossary.xhtml#FIPS_PUBS_140-1"/></li>
+        <li><Description nc:name="Buto yo Imbere" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="gusubira inyuma cyangwa imbere" nc:link="using_firebird.xhtml#retracing_your_steps"/></li>
+        <li><Description nc:name="Buto yo Intangiriro" nc:link="using_firebird.xhtml#viewing_your_home_page"/></li>
+        <li><Description nc:name="Paji Ndasukirwaho (igisobanuro)" nc:link="glossary.xhtml#home_page"/></li>
+        <li><Description nc:name="Ururimi Nsobeka Mwandikonyobora (HTML) (igisobanuro)" nc:link="glossary.xhtml#Hypertext_Markup_Language"/></li>
+        <li><Description nc:name="gukurura Ibyatoranyijwe bya Internet Explorer" nc:link="forieusers.xhtml#about_your_ie_settings"/></li>
+        <li><Description nc:name="Interineti (igisobanuro)" nc:link="glossary.xhtml#Internet"/></li>
+        <li><Description nc:name="Aderesi ya porotokole ya Interineti (Aderesi IP) (igisobanuro)" nc:link="glossary.xhtml#Internet_protocol_address"/></li>
+        <li><Description nc:name="Java (igisobanuro)" nc:link="glossary.xhtml#Java"/></li>
+        <li><Description nc:name="JavaScript (igisobanuro)" nc:link="glossary.xhtml#JavaScript"/></li>
+        <li><Description nc:name="Indimi" nc:link="prefs.xhtml#languages"/></li>
+        <li><Description nc:name="Akamenyetso Myatsa (igisobanuro)" nc:link="glossary.xhtml#live_bookmark"/></li>
+        <li><Description nc:name="Umwanyahantu (igisobanuro)" nc:link="glossary.xhtml#location_bar"/></li>
+        <li><Description nc:name="ijambobanga ngenga (igisobanuro)" nc:link="glossary.xhtml#master_password"/></li>
+        <li><Description nc:name="Umw-anyabikoresho Mutemberezi (igisobanuro)" nc:link="glossary.xhtml#navigation_toolbar"/></li>
+        <li><Description nc:name="Mucungamagambobanga (igisobanuro)" nc:link="glossary.xhtml#Password_Manager"/></li>
+        <li><Description nc:name="PKCS #11 (igisobanuro)" nc:link="glossary.xhtml#PKCS_11"/></li>
+        <li><Description nc:name="Aga-comekwamo (igisobanuro)" nc:link="glossary.xhtml#Plugin"/></li>
+        <li><Description nc:name="Uducomekwamo" nc:link="using_firebird.xhtml#managing_different_file_types"/></li>
+        <li><Description nc:name="urufunguzo bwite (igisobanuro)" nc:link="glossary.xhtml#private_key"/></li>
+        <li><Description nc:name="porogisi (igisobanuro)" nc:link="glossary.xhtml#proxy"/></li>
+        <li><Description nc:name="paji rubuga uheruka gusura" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="Buto yo Kongera Gutangiza" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="mushakisha (igisobanuro)" nc:link="glossary.xhtml#search_engine"/></li>
+        <li><Description nc:name="gushakisha ukoresheje Mwanya w'Indangahantu" nc:link="using_firebird.xhtml#moving_to_another_page"/></li>
+        <li><Description nc:name="gushakisha ukoresheje Mwanya w'Ishakisha" nc:link="using_firebird.xhtml#searching_the_web"/></li>
+        <li><Description nc:name="gushakisha ukoresheje nyandiko ya paji" nc:link="using_firebird.xhtml#searching_on_selected_words_in_a_web_page"/></li>
+        <li><Description nc:name="urubuga rwizewe (igisobanuro)" nc:link="glossary.xhtml#secure_site"/></li>
+        <li><Description nc:name="Akugara ka Soketi Kizewe (SSL) (igisobanuro)" nc:link="glossary.xhtml#SSL"/></li>
+        <li><Description nc:name="seriveri (igisobanuro)" nc:link="glossary.xhtml#server"/></li>
+        <li><Description nc:name="Kugena/Guhindura Ijambobanga Ngenga" nc:link="prefs.xhtml#set_change_master_password"/></li>
+        <li><Description nc:name="Software Updates" nc:link="menu_reference.xhtml#check_for_updates"/></li>
+        <li><Description nc:name="Umw-anya Mimerere (igisobanuro)" nc:link="glossary.xhtml#Status_Bar"/></li>
+        <li><Description nc:name="Buto yo Guhagarika" nc:link="using_firebird.xhtml#stopping_and_reloading"/></li>
+        <li><Description nc:name="TLS (igisobanuro)" nc:link="glossary.xhtml#TLS"/></li>
+        <li><Description nc:name="TCP/IP (Porotokole Ngenzurahererekanya/Porotokole ya Interineti) (igisobanuro)" nc:link="glossary.xhtml#TCP_IP"/></li>
+        <li><Description nc:name="Murangibikorana Bijyaniranye (URL) (igisobanuro)" nc:link="glossary.xhtml#Uniform_Resource_Locator"/></li>
+        <li><Description nc:name="Igenzura" nc:link="prefs.xhtml#certificates"/></li>
+        <li><Description nc:name="Viewing HTML Source" nc:link="menu_reference.xhtml#page_source"/></li>
+        <li><Description nc:name="paji rubuga (igisobanuro)" nc:link="glossary.xhtml#web_page"/></li>
+        <li><Description nc:name="urubuga makuru (igisobanuro)" nc:link="glossary.xhtml#web_site"/></li>
+        <li><Description nc:name="Uru-buga Makuru Mpuzamahanga (igisobanuro)" nc:link="glossary.xhtml#World_Wide_Web"/></li>
+      </Seq>
+    </nc:subheadings>
+  </Description>
+</RDF>
