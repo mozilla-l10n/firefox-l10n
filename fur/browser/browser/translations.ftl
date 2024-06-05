@@ -126,13 +126,6 @@ translations-manage-description = Discjame lis lenghis pe traduzion fûr rêt.
 translations-manage-all-language = Dutis lis lenghis
 translations-manage-download-button = Discjame
 translations-manage-delete-button = Elimine
-translations-manage-intro = Configure lis tôs preferencis relativis a lenghe e traduzion dai sîts e gjestìs lis lenghis instaladis pe traduzion fûr rêt.
-translations-manage-install-description = Instale lenghis pe traduzion fûr rêt
-translations-manage-language-install-button =
-    .label = Instale
-translations-manage-language-install-all-button =
-    .label = Instale dutis
-    .accesskey = I
 translations-manage-intro-2 = Stabilìs la tô lenghe e lis preferencis di traduzion dai sîts, gjestìs lis lenghis discjariadis pe traduzion fûr rêt.
 translations-manage-download-description = Discjame lenghis pe traduzion fûr rêt
 translations-manage-language-download-button =
@@ -145,7 +138,6 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Gjave dutis
     .accesskey = e
-translations-manage-error-install = Al è vignût fûr un probleme tal instalâ i files de lenghe. Torne prove.
 translations-manage-error-download = Al è vignût fûr un probleme tal discjariâ i files de lenghe. Torne prove.
 translations-manage-error-delete = Al è vignût fûr un probleme tal eliminâ i files de lenghe. Torne prove.
 translations-manage-error-remove = Al è vignût fûr un probleme tal gjavâi i files de lenghe. Torne prove.
@@ -249,3 +241,5 @@ select-translations-panel-unsupported-language-message-unknown =
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Impostazions di traduzion
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Traduzion completade
