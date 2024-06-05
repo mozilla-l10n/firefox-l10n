@@ -61,6 +61,9 @@ shopping-message-bar-analysis-in-progress-message2 = Dette vil ta omlag 60 sekun
 # Variables:
 #  $percentage (Number) - The percentage complete that the analysis is, per our servers.
 shopping-message-bar-analysis-in-progress-with-amount = Kontrollerer vurderingsskvalitet ({ $percentage }%)
+shopping-message-bar-page-not-supported =
+    .heading = Vi kan ikkje sjekke desse vurderingane
+    .message = Dessverre kan vi ikkje sjekke kvaliteten på vurderingar for visse typar produkt. Eksempel på dette er gåvekort og strøyming av video, musikk og spel.
 shopping-message-bar-keep-closed-header =
     .heading = Halde attlaten?
     .message = Du kan oppdatere innstillingane dine for å halde vurderingskontrolløren attlaten som standard. Akkurat no vert han opna automatisk.
@@ -124,6 +127,7 @@ shopping-analysis-explainer-label =
     .label = Korleis vi bestemmer kvaliteten på ei vurdering
 shopping-analysis-explainer-intro2 = Vi brukar kunstig intelligens-teknologi (AI-teknologi) frå { -fakespot-brand-full-name } for å sjekke pålitelgheita til produktvurderingar. Dette vil berre hjelpe deg med å vurdere kvaliteten av vurderingar, ikkje kvaliteten på sjølve produktetet.
 shopping-analysis-explainer-adjusted-rating-description = Den <strong>justerte vurderinga</strong> er berre basert på vurderingar som vi meinar er pålitelege.
+shopping-analysis-explainer-learn-more2 = Les meir om <a data-l10n-name="review-quality-url">korleis { -fakespot-brand-name } fastset vurderingskvalitet</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -179,6 +183,7 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Gå tilbake til <strong>vurderingskontrolløren</strong> kvar gong du ser prislappen.
 shopping-callout-pdp-opted-in-title = Er desse vurderingane pålitelege? Finn raskt ut av det.
 shopping-callout-pdp-opted-in-subtitle = Opne vurderingskontrolløren for å sjå ei justert vurdering med upålitelege vurderingar fjerna. I tillegg kan du sjå høgdepunkt frå nylege autentiske vurderingar.
 shopping-callout-closed-not-opted-in-title = Eitt klikk frå pålitelege vurderingar
