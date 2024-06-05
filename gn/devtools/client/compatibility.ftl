@@ -6,7 +6,7 @@
 ## Messages used as headers in the main pane
 
 compatibility-selected-element-header = Mba’eporu poravopyre
-compatibility-all-elements-header = Opaite apañuãi
+compatibility-all-elements-header = Opaite apañuái
 
 ## Message used as labels for the type of issue
 
@@ -39,7 +39,7 @@ compatibility-issue-occurrences =
         [one] { $number } ñesẽrei
        *[other] { $number } ñesẽreikuéra
     }
-compatibility-no-issues-found = Ndaipóri apañuãi jokupytygua.
+compatibility-no-issues-found = Ndaipóri apañuái jokupytygua.
 compatibility-close-settings-button =
     .title = Embogue ñemboheko
 # Text used in the element containing the browser icons for a given compatibility issue.
@@ -48,5 +48,5 @@ compatibility-close-settings-button =
 #   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
 compatibility-issue-browsers-list =
     .title =
-        Apañuãi jokupytyguáva:
+        Apañuái jokupytyguáva:
         { $browsers }

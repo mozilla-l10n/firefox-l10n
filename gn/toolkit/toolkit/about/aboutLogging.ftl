@@ -31,26 +31,26 @@ about-logging-with-profiler-stacks-checkbox = Emyandy píla resa’ỹijoha ñe�
 ## Logging presets
 
 about-logging-preset-networking-label = Pyha
-about-logging-preset-networking-description = Mboheraguapy ra’ãha ehecha hag̃ua pyha apañuãi
+about-logging-preset-networking-description = Mboheraguapy ra’ãha ehecha hag̃ua pyha apañuái
 about-logging-preset-networking-cookie-label = Kookie
-about-logging-preset-networking-cookie-description = Mboheraguapy ra’ãha ehecha hag̃ua kookie apañuãi
+about-logging-preset-networking-cookie-description = Mboheraguapy ra’ãha ehecha hag̃ua kookie apañuái
 about-logging-preset-networking-websocket-label = WebSockets
-about-logging-preset-networking-websocket-description = Mboheraguapy ra’ãha ehecha hag̃ua WebSocket apañuãi
+about-logging-preset-networking-websocket-description = Mboheraguapy ra’ãha ehecha hag̃ua WebSocket apañuái
 about-logging-preset-networking-http3-label = HTTP/3
-about-logging-preset-networking-http3-description = Mboheraguapy ra’ãha ehecha hag̃ua HTTP/3 ha QUIC apañuãi
+about-logging-preset-networking-http3-description = Mboheraguapy ra’ãha ehecha hag̃ua HTTP/3 ha QUIC apañuái
 about-logging-preset-networking-http3-upload-speed-label = Tenyhẽ pohyikue HTTP/3
-about-logging-preset-networking-http3-upload-speed-description = Mboheraguapy ra’ãha eikuaa hag̃ua HTTP/3 apañuãi pya’ekue jehupi
+about-logging-preset-networking-http3-upload-speed-description = Mboheraguapy ra’ãha eikuaa hag̃ua HTTP/3 apañuái pya’ekue jehupi
 about-logging-preset-media-playback-label = Hekoetáva mboheta
-about-logging-preset-media-playback-description = Teraguapy ra’ãha ojehechakuaa hag̃ua apañuãi ñembohetaha (ha’e’ỹva videoconferencia apañuãi)
+about-logging-preset-media-playback-description = Teraguapy ra’ãha ojehechakuaa hag̃ua apañuái ñembohetaha (ha’e’ỹva videoconferencia apañuái)
 about-logging-preset-webrtc-label = WebRTC
-about-logging-preset-webrtc-description = Mboheraguapy ra’ãha ehecha hag̃ua WebRTC apañuãi
+about-logging-preset-webrtc-description = Mboheraguapy ra’ãha ehecha hag̃ua WebRTC apañuái
 about-logging-preset-webgpu-label = WebGPU
-about-logging-preset-webgpu-description = Mboheraguapy ra’ãha ehecha hag̃ua WebGPU apañuãi
+about-logging-preset-webgpu-description = Mboheraguapy ra’ãha ehecha hag̃ua WebGPU apañuái
 about-logging-preset-gfx-label = Ta’ãnga
-about-logging-preset-gfx-description = Mboheraguapy ra’ãha ehecha hag̃ua kookie apañuãi
+about-logging-preset-gfx-description = Mboheraguapy ra’ãha ehecha hag̃ua kookie apañuái
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
-about-logging-preset-windows-description = Jehai ra’ãha ehesa’ỹijo hag̃ua Microsoft Windows apañuãi
+about-logging-preset-windows-description = Jehai ra’ãha ehesa’ỹijo hag̃ua Microsoft Windows apañuái
 about-logging-preset-custom-label = Ñemomba’epyre
 about-logging-preset-custom-description = Mboheraguapy ra’ãha pópe poravopyre
 # Error handling
