@@ -221,7 +221,7 @@ mr2022-onboarding-set-default-subtitle = Eiporu peteĩ kundahára atyguasu viru�
 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-get-started-primary-subtitle = Ore rembiapo ipyahuvéva rojapo ndéve g̃uarã, eikundaha hag̃ua apañuãi’ỹre. Oreko heta tembiapoite ro’éva ehayhutaha.
+mr2022-onboarding-get-started-primary-subtitle = Ore rembiapo ipyahuvéva rojapo ndéve g̃uarã, eikundaha hag̃ua apañuai’ỹre. Oreko heta tembiapoite ro’éva ehayhutaha.
 mr2022-onboarding-get-started-primary-button-label = Emboheko sapy’aitépe
 
 ## MR2022 Import Settings screen strings

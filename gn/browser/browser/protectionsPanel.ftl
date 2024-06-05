@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Maranduve jehapykuehoha iporãvéva mo’ãha rehegua
 protections-panel-etp-on-header = Ñemo’ã jehapykuehoha iporãvéva ijurujáma ko tendápe g̃uarã
 protections-panel-etp-off-header = Ñemo’ã jehapykuehoha iporãvéva ndoikovéima ko tendápe g̃uarã
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ¿Ko tenda ndoikói?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ¿Ko Tenda Ndoikói?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = Tapykueho mo’ãha iporãvéva
     .description = Okápe ko tendágui
     .aria-label = Tapykuehoha ñemo’ã iporãvéva: ojepe’áma { $host }-pe g̃uarã
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = ¿Ko tenda ndoikói?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = ¿Ko Tenda Ndoikói?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -81,7 +81,7 @@ protections-panel-protectionsdashboard-label = Ñemo’ãha rupa
 ## the user is experiencing issues with any of a variety of functionality.
 
 # The header of the list
-protections-panel-site-not-working-view-header = Eipe’a umi ñemo’ãha nemoapañuãiramo:
+protections-panel-site-not-working-view-header = Eipe’a umi ñemo’ãha nemoapañuairamo:
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Tembiapo ñepyrũ rekoha
 protections-panel-site-not-working-view-issue-list-forms = Myañyhẽha
@@ -107,14 +107,13 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = Emombe’u tenda henyhẽ’ỹva
-protections-panel-content-blocking-breakage-report-view-description = Pe tapykuehoha jejoko ikatu omoapañuãi heta ñanduti rendápe. Emombe’úvo ko’ã apañuãi eipytyvõta { -brand-short-name } oikoporãvétaha opavavépe g̃uarã. Emondóvo ko marandu, og̃uahẽta Mozilla-pe peteĩ URL ha marandu ne kundaha ñemboheko rehegua. <label data-l10n-name="learn-more">Kuaave</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Pe tapykuehoha jejoko ikatu omoapañuãi heta ñanduti rendápe. Emombe’úvo ko’ã apañuãi eipytyvõta { -brand-short-name } oikoporãvétaha opavavépe g̃uarã. Emondóvo ko marandu, og̃uahẽta { -vendor-short-name }-pe peteĩ URL ha marandu ne kundaha ñemboheko rehegua.
+protections-panel-content-blocking-breakage-report-view-description = Pe tapykuehoha jejoko ikatu omoapañuái heta ñanduti rendápe. Emombe’úvo ko’ã apañuái eipytyvõta { -brand-short-name } oikoporãvétaha opavavépe g̃uarã. Emondóvo ko marandu, og̃uahẽta Mozilla-pe peteĩ URL ha marandu ne kundaha ñemboheko rehegua. <label data-l10n-name="learn-more">Kuaave</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
-protections-panel-content-blocking-breakage-report-view-collection-comments = Jeporavokuaáva: Emoha’ã apañuãi
+protections-panel-content-blocking-breakage-report-view-collection-comments = Jeporavokuaáva: Emoha’ã apañuái
 protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Jeporavokuaáva: Emoha’ã apañuãi
+    .aria-label = Jeporavokuaáva: Emoha’ã apañuái
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Heja
 protections-panel-content-blocking-breakage-report-view-send-report =

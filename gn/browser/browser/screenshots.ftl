@@ -35,8 +35,8 @@ screenshots-notification-image-copied-details = Nde japyhypy ohóma kuatiajokoh�
 screenshots-request-error-title = Ndoikói hína.
 screenshots-request-error-details = ¡Che ñyrõ! Ndaikatúi roñongatu japyhypy. Eha’ãjey ag̃ave.
 screenshots-connection-error-title = Ndaikatúi roike nde japyhypykuéra mba’erechahápe.
-screenshots-connection-error-details = Ehechajey pe Ñandutípe jeike. Eikeséramo Ñandutípe, oĩ apañuãi sapy’agua { -screenshots-brand-name } rembiapópe.
-screenshots-login-error-details = Ndaikatúi roñongatu pe japyhypy oĩ rupi apañuãi { -screenshots-brand-name } rembiapópe. Eha’ãjey ag̃amieve.
+screenshots-connection-error-details = Ehechajey pe Ñandutípe jeike. Eikeséramo Ñandutípe, oĩ apañuái sapy’agua { -screenshots-brand-name } rembiapópe.
+screenshots-login-error-details = Ndaikatúi roñongatu pe japyhypy oĩ rupi apañuái { -screenshots-brand-name } rembiapópe. Eha’ãjey ag̃amieve.
 screenshots-unshootable-page-error-title = Ndaikatúi rojapyhy ko kuatiarogue.
 screenshots-unshootable-page-error-details = Kóva ndaha’éi ñanduti kuatiarogue ypykuéva, péicha rupi ndaikatúi roñongatu japyhypy.
 screenshots-empty-selection-error-title = Pe jeporavo michĩeterei
@@ -58,18 +58,6 @@ screenshots-component-cancel-button =
     .aria-label = Heja
 # Variables
 #   $shortcut (String) - A keyboard shortcut for copying the screenshot.
-screenshots-component-copy-button =
-    .title = Monguatia ({ $shortcut })
-    .aria-label = Monguatia
-screenshots-component-copy-button-label = Monguatia
-# Variables
-#   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
-screenshots-component-download-button =
-    .title = Mboguejy ({ $shortcut })
-    .aria-label = Mboguejy
-screenshots-component-download-button-label = Emboguejy
-# Variables
-#   $shortcut (String) - A keyboard shortcut for copying the screenshot.
 screenshots-component-copy-button-2 = Monguatia
     .title = Monguatia ({ $shortcut })
     .aria-label = Monguatia
@@ -87,12 +75,6 @@ screenshots-component-copy-key = C
 
 ##
 
-# This string represents the selection size area
-# "x" here represents "by" (i.e 123 by 456)
-# Variables:
-#   $width (Number) - The width of the selection region in pixels
-#   $height (Number) - The height of the selection region in pixels
-screenshots-overlay-selection-region-size-2 = { $width } x { $height }
 # This string represents the selection size area
 # "×" here represents "by" (i.e 123 by 456)
 # Variables:

@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Oike kuatia’atã ñemurã ha vi
     .accesskey = I
 autofill-saved-payment-methods-button = Mba’éicha ehepyme’ẽta ñongatupyre
     .accesskey = v
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Ejerure macOS ñemoneĩ emyanehẽ hag̃ua ha embosako’i mba’éicha ehepyme’ẽta.
-        [windows] Ejerure Windows ñemoneĩ emyanehẽ hag̃ua ha embosako’i mba’éicha ehepyme’ẽta.
-        [linux] Ejerure Linux ñemoneĩ emyanehẽ hag̃ua ha embosako’i mba’éicha ehepyme’ẽta.
-       *[other] Ejerure ñemoneĩ emyanehẽ hag̃ua ha embosako’i mba’éicha ehepyme’ẽta.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Emoñepyrũ tembiapo mba’e’okápe emoinge ha eñangareko hag̃ua jehepyme’ẽrã
     .accesskey = o
@@ -1130,7 +1122,7 @@ content-blocking-fpi-incompatibility-warning = Eiporuhína First Party Isolation
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
-content-blocking-rfp-incompatibility-warning = Eiporu Resist Fingerprinting (RFP), omyengoviáva peteĩva umi kuãhũ ñemboheko mo’ãha { -brand-short-name } mba’évape. Kóva omoapañuãikuaa tendakuérape.
+content-blocking-rfp-incompatibility-warning = Eiporu Resist Fingerprinting (RFP), omyengoviáva peteĩva umi kuãhũ ñemboheko mo’ãha { -brand-short-name } mba’évape. Kóva omoapañuaikuaa tendakuérape.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1390,7 +1382,7 @@ preferences-doh-setting-default =
     .accesskey = D
 preferences-doh-default-desc = { -brand-short-name } oikuaa oiporúta vove DNS hekorosãva omo’ã hag̃ua nde rekoñemi.
 preferences-doh-default-detailed-desc-1 = Eiporu DNS hekorosãva tendaguasu ikatuhápe
-preferences-doh-default-detailed-desc-2 = Eiporu DNS rechaporãha ijypykuéva oĩramo apañuãi DNS hekorosãva me’ẽhára ndive
+preferences-doh-default-detailed-desc-2 = Eiporu DNS rechaporãha ijypykuéva oĩramo apañuái DNS hekorosãva me’ẽhára ndive
 preferences-doh-default-detailed-desc-3 = Eiporu me’ẽhára ag̃uigua ikatúrõ
 preferences-doh-default-detailed-desc-4 = Eipe’a pe VPN, pehẽngue jehecharã térã mba’apohaguasu oñemyandývo
 preferences-doh-default-detailed-desc-5 = Eipe’a pe pyha he’ívo { -brand-short-name }-pe ani hag̃ua oiporu DNS hekorosãva
@@ -1399,7 +1391,7 @@ preferences-doh-setting-enabled =
     .accesskey = I
 preferences-doh-enabled-desc = Nde eikuaáta araka’e eiporúta DNS hekorosãva ha eiporavo me’ẽhára.
 preferences-doh-enabled-detailed-desc-1 = Eiporu me’ẽhára poravopyre
-preferences-doh-enabled-detailed-desc-2 = Eiporu DNS rechaporãha ijypykuéva oĩramo apañuãi DNS hekorosãva me’ẽhára ndive
+preferences-doh-enabled-detailed-desc-2 = Eiporu DNS rechaporãha ijypykuéva oĩramo apañuái DNS hekorosãva me’ẽhára ndive
 preferences-doh-setting-strict =
     .label = Ñemo’ã tuichavéva
     .accesskey = M
