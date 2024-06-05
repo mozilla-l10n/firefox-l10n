@@ -166,6 +166,7 @@ language-name-se = Sami du Nord
 language-name-sg = Sango
 language-name-si = Singhalais
 language-name-sk = Slovaque
+language-name-skr = Saraiki
 language-name-sl = Slovène
 language-name-sm = Samoan
 language-name-sn = Shona
