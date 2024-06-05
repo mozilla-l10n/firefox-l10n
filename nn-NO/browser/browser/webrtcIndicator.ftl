@@ -155,6 +155,13 @@ webrtc-allow-share-screen-and-audio-capture = Tillate { $origin } å lytte på l
 
 webrtc-allow-share-audio-capture-with-file = Tillate denne lokale fila å høyre på lyden i denne fana?
 webrtc-allow-share-camera-with-file = Tillate denne lokale fila å bruke kameraet?
+webrtc-allow-share-microphone-with-file = Tillate denne lokale fila å bruke mikrofonen?
+webrtc-allow-share-screen-with-file = Tillate denne lokale fila å sjå skjermen din?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = Tillate denne lokale fila å bruke andre høgtalarar?
+webrtc-allow-share-camera-and-microphone-with-file = Tillate denne lokale fila å bruke kameraet og mikrofonen?
+webrtc-allow-share-camera-and-audio-capture-with-file = Tillate denne lokale fila å bruke kameraet og høyre på lyd i denne fana?
 
 ## Variables:
 ##   $origin (String): the first party origin.
