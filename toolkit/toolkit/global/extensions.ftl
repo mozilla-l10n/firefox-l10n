@@ -12,8 +12,8 @@
 
 webext-perms-header = Embojuaju { $extension }?
 webext-perms-header-with-perms = ¿Embojuaju { $extension }? Ko jepysokue oñemoneĩta ikatu hag̃ua:
-webext-perms-header-unsigned = ¿Embojuaju { $extension }? Ko moĩmbaha ndojehechajeýi. Umi moĩmbaha imarãva omondakuaa ne marandu ñemigua térã omoapañuãi ne mohendaha. Emohenda moĩmbaha ejeroviárõ hese.
-webext-perms-header-unsigned-with-perms = ¿Embojuaju { $extension }? Ko moĩmbaha ndojehechajeýi. Umi moĩmbaha imarãva omondakuaa ne marandu ñemigua térã omoapañuãi ne mohendaha. Emohenda moĩmbaha ejeroviárõ hese. Ko moĩmbaha oñemoneĩta ojapo hag̃ua:
+webext-perms-header-unsigned = ¿Embojuaju { $extension }? Ko moĩmbaha ndojehechajeýi. Umi moĩmbaha imarãva omondakuaa ne marandu ñemigua térã omoapañuái ne mohendaha. Emohenda moĩmbaha ejeroviárõ hese.
+webext-perms-header-unsigned-with-perms = ¿Embojuaju { $extension }? Ko moĩmbaha ndojehechajeýi. Umi moĩmbaha imarãva omondakuaa ne marandu ñemigua térã omoapañuái ne mohendaha. Emohenda moĩmbaha ejeroviárõ hese. Ko moĩmbaha oñemoneĩta ojapo hag̃ua:
 webext-perms-sideload-header = { $extension } mbojuajupyre
 webext-perms-optional-perms-header = { $extension } oikotevẽ moneĩ jo’ávare.
 
@@ -97,7 +97,7 @@ webext-site-perms-description-gated-perms-midi =
 ##   $hostname (String): will be replaced by the DNS host name for which a webextension enables permissions.
 
 webext-site-perms-header-with-perms = ¿Embojuaju { $extension }? Ko jepysokue ome’ẽ ko’ã pokatu { $hostname }-pe:
-webext-site-perms-header-unsigned-with-perms = ¿Embojuaju { $extension }? Ko jepysokue ndojehechajeýi. Umi jepysokue imarãva omondakuaa ne marandu ñemigua térã omoapañuãi ne mohendaha. Emohenda moĩmbaha ejeroviáramo hese. Ko jepysokue ome’ẽta ko’ã apokuaareko { $hostname }-pe:
+webext-site-perms-header-unsigned-with-perms = ¿Embojuaju { $extension }? Ko jepysokue ndojehechajeýi. Umi jepysokue imarãva omondakuaa ne marandu ñemigua térã omoapañuái ne mohendaha. Emohenda moĩmbaha ejeroviáramo hese. Ko jepysokue ome’ẽta ko’ã apokuaareko { $hostname }-pe:
 
 ## These should remain in sync with permissions.NAME.label in sitePermissions.properties
 
