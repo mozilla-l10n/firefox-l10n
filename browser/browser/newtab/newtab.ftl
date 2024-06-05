@@ -295,6 +295,19 @@ newtab-wallpaper-dark-city = Paesaggio cittadino con tonalità viola
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto di <a data-l10n-name="name-link">{ $author_string }</a> da <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 
+newtab-wallpaper-feature-highlight-header = Prova un tocco di colore
+newtab-wallpaper-feature-highlight-content = Dai un look diverso alle nuove schede con gli sfondi.
+newtab-wallpaper-feature-highlight-button = OK
+newtab-wallpaper-feature-highlight-dismiss = Chiudi
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Chiudi
+    .aria-label = Chiudi pop-up
+# Tooltip for dismiss button
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
 ## New Tab Weather
 
 # Variables:
