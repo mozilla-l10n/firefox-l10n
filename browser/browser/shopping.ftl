@@ -199,8 +199,11 @@ shopping-callout-not-opted-in-reminder-close-button = Ignorer
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Ikkje vis igjen
 shopping-callout-not-opted-in-reminder-img-alt =
     .aria-label = Abstrakt illustrasjon av tre produktvurderingar. Ein har eit åtvaringssymbol som indikerer at den kanskje ikkje er påliteleg.
+shopping-callout-disabled-auto-open-title = Vurderingskontrolløren er no stengd som standard
+shopping-callout-disabled-auto-open-subtitle = Klikk på prislappikonet i adresselinja når du vil sjå om du kan stole på vurderingar av eit produkt.
 shopping-callout-disabled-auto-open-button = Eg forstår
 shopping-callout-opted-out-title = Vurderingskontrolløren er av
+shopping-callout-opted-out-subtitle = For å slå han på igjen, klikk på prislappikonet i adresselinja og følg instruksjonane.
 shopping-callout-opted-out-button = Eg forstår
 
 ## Onboarding message strings.
