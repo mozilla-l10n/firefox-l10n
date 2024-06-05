@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = Marandu apañuãi oñemyatyrõ hag̃ua
-page-subtitle = Ko kuatiarogue oguereko marandu aporekoguáva ikatúva eiporu emyatyrõse jave peteĩ apañuãi. Ehekáramo mbohovái umi porandu oikovéva  { -brand-short-name } rehegua, eike <a data-l10n-name="support-link">tenda eikekuaaha</a>.
+page-title = Marandu apañuái oñemyatyrõ hag̃ua
+page-subtitle = Ko kuatiarogue oguereko marandu aporekoguáva ikatúva eiporu emyatyrõse jave peteĩ apañuái. Ehekáramo mbohovái umi porandu oikovéva  { -brand-short-name } rehegua, eike <a data-l10n-name="support-link">tenda eikekuaaha</a>.
 crashes-title = Marandu jejavyguáva
 crashes-id = ID momarandu
 crashes-send-date = Mondopyre
@@ -146,8 +146,8 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Mba’eapo peteĩchagua
 sandbox-sys-call-number = Ñehenói pumbyrýpe
 sandbox-sys-call-args = Je’ekuaaite
-troubleshoot-mode-title = Apañuãi jekuaarã
-restart-in-troubleshoot-mode-label = Mba’éicha emyatyrõta apañuãi…
+troubleshoot-mode-title = Apañuái jekuaarã
+restart-in-troubleshoot-mode-label = Mba’éicha emyatyrõta apañuái…
 clear-startup-cache-title = Emohenda kache ñepyrũha ñembogue
 clear-startup-cache-label = Embogue kache ñepyrũha…
 startup-cache-dialog-title2 = ¿Emoñepyrũjey { -brand-short-name } empotĩ hag̃ua ñepyrũha kache?
@@ -272,7 +272,7 @@ text-copied = Moñe’ẽrã oñembohasáma kuatiajokohápe
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Ojejokóva peteĩchaguápe g̃uarã ta’ãnga ñangarekohárape.
-blocked-gfx-card = Ojejoko ikuatia’atã ha’ãngávape g̃uarã oguereko rupi apañuãi ñangarekoha omoĩporã’ỹva.
+blocked-gfx-card = Ojejoko ikuatia’atã ha’ãngávape g̃uarã oguereko rupi apañuái ñangarekoha omoĩporã’ỹva.
 blocked-os-version = Ojejokóva peteĩchaguápe g̃uarã nde apopyvusu oku’éva pegua.
 blocked-mismatched-version = Ojoko ha’ãnga ñangarekoha peteĩchagua oĩporã’ỹva jehaipy ha DLL pa’ũme.
 # Variables
@@ -322,7 +322,7 @@ webgpu-default-adapter = WebGPU moñondiveha ypygua
 webgpu-fallback-adapter = WebGPU moñondiveha mokõiha
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
-support-blocklisted-bug = Tysýi jokopyre apañuãi ojekuaáva rupi: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+support-blocklisted-bug = Tysýi jokopyre apañuái ojekuaáva rupi: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Tysýi vai; ayvu jejavy { $failureCode }
@@ -406,7 +406,7 @@ policies-error = Javy
 ## Printing section
 
 support-printing-title = Ñemonguatia
-support-printing-troubleshoot = Apañuãi ñemoĩporã
+support-printing-troubleshoot = Apañuái ñemoĩporã
 support-printing-clear-settings-button = Emboguete ñemoĩporã monguatiagua ñongatupyre
 support-printing-modified-settings = Ñemoĩporã monguatiagua moabuepyre
 support-printing-prefs-name = Téra

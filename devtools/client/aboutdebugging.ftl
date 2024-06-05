@@ -117,13 +117,13 @@ about-debugging-setup-usb-step-enable-debug-firefox2 = Emyandy USB mopotĩha Fir
 about-debugging-setup-usb-step-plug-device = Embojuaju Android mba’e’oka ne mohendaha rehe.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
-about-debugging-setup-usb-troubleshoot = ¿Apañuãi eikekuévo USB mba’e’okápe? <a>Emoĩporã apañuãi</a>
+about-debugging-setup-usb-troubleshoot = ¿Apañuái eikekuévo USB mba’e’okápe? <a>Emoĩporã apañuái</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ñanduti rendaite
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
-about-debugging-setup-network-troubleshoot = ¿Apañuãi eikekuévo ñanduti rendaite rupive? <a>Emoĩporã apañuãi</a>
+about-debugging-setup-network-troubleshoot = ¿Apañuái eikekuévo ñanduti rendaite rupive? <a>Emoĩporã apañuái</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Mbojuaju
@@ -188,7 +188,7 @@ about-debugging-runtime-service-workers-not-compatible = Pe kundahára ñembohek
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = Aravo tembiaporã joajupyre oguereko itujáva ({ $runtimeVersion }). Ojokutyvéva ha’e ({ $minVersion }). Kóva ha’e peteĩ ñemboheko ndojokupytýiva ha ikatu ombyai DevTools rembiapo. Okatúpiko hembohekopyahu aravo tembiaporã joajupyre ndive. <a>Apañuãi ñemoĩporã</a>
+about-debugging-browser-version-too-old = Aravo tembiaporã joajupyre oguereko itujáva ({ $runtimeVersion }). Ojokutyvéva ha’e ({ $minVersion }). Kóva ha’e peteĩ ñemboheko ndojokupytýiva ha ikatu ombyai DevTools rembiapo. Okatúpiko hembohekopyahu aravo tembiaporã joajupyre ndive. <a>Apañuái ñemoĩporã</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Ko Firefox rembiapokue ndaikatúi omopotĩ Firefox Android (68) peg̃uarã. Roipota pemohenda Firefox Android Nightly ne pumbyrýpe eha’ãkuaa hag̃ua. <a>Mba’emimive</a>
@@ -198,7 +198,7 @@ about-debugging-browser-version-too-old-fennec = Ko Firefox rembiapokue ndaikat�
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Pe aravo eike javegua ohasa ramóva ({ $runtimeVersion }, buildID { $runtimeID }) ko { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) rehegua. Kóva ha’e ñemboheko ndojokupytýiva ha ikatúva ombojavy DevTools. Ikatúpa embohekopyahu Firefox. <a>Apañuãi ñemoĩporã</a>
+about-debugging-browser-version-too-recent = Pe aravo eike javegua ohasa ramóva ({ $runtimeVersion }, buildID { $runtimeID }) ko { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) rehegua. Kóva ha’e ñemboheko ndojokupytýiva ha ikatúva ombojavy DevTools. Ikatúpa embohekopyahu Firefox. <a>Apañuái ñemoĩporã</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
