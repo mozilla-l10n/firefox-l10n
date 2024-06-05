@@ -24,7 +24,7 @@ about-webrtc-aec-logging-off-state-label = AEC haipy moñepyrũ
 about-webrtc-aec-logging-on-state-label = AEC haipy jejoko
 about-webrtc-aec-logging-on-state-msg = Haipy AEC japyhypyre (eñe’ẽ pe tapicha ohenóiva sapy’aitemi ndive ha upéi opytáma pe japyhypyre)
 about-webrtc-aec-logging-toggled-on-state-msg = Haipy AEC japyhypyre (eñe’ẽ pe tapicha ohenóiva sapy’aitemi ndive ha upéi opytáma pe japyhypyre)
-about-webrtc-aec-logging-unavailable-sandbox = Tekotevẽ pe ambuepy MOZ_DISABLE_CONTENT_SANDBOX=1 jerére emba’ereraha hag̃ua AEC mboheraguapy. Emboheko ko ambuepy eikũmby añetérõ apañuãikuaa añoite.
+about-webrtc-aec-logging-unavailable-sandbox = Tekotevẽ pe ambuepy MOZ_DISABLE_CONTENT_SANDBOX=1 jerére emba’ereraha hag̃ua AEC mboheraguapy. Emboheko ko ambuepy eikũmby añetérõ apañuaikuaa añoite.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Marandurenda haipy japyhypyréva ikatu ejuhu amo: { $path }
@@ -33,8 +33,6 @@ about-webrtc-aec-logging-toggled-off-state-msg = Marandurenda haipy japyhypyrév
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Henyhẽjey ijehegui
-# Determines the default state of the Auto Refresh check boxes
-about-webrtc-auto-refresh-default-label = Hekopyahúta ijeheguiete
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Mbopiro’y
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -98,8 +96,8 @@ about-webrtc-save-page-label = Kuatiarogue ñongatu
 about-webrtc-debug-mode-msg-label = Mopotĩha reko
 about-webrtc-debug-mode-off-state-label = Mopotĩha reko ñepyrũ
 about-webrtc-debug-mode-on-state-label = Mopotĩha reko jejoko
-about-webrtc-enable-logging-label = Embojuruja WebRTC mboheraguapy ypygua
 about-webrtc-stats-heading = Tembiapo rehegua papapy
+about-webrtc-enable-logging-label = Embojuruja WebRTC mboheraguapy ypygua
 about-webrtc-peerconnections-section-heading = RTCPeerConnection papapykuaa
 about-webrtc-peerconnections-section-show-msg = Ehechauka RTCPeerConnection papapykuaa
 about-webrtc-peerconnections-section-hide-msg = Emokañy RTCPeerConnection papapykuaa

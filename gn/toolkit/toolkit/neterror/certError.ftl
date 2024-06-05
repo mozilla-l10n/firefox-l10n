@@ -55,7 +55,7 @@ cert-error-ssl-connection-error = Oiko jejavy eikévo { $hostname }. { $errorMes
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Umi ñanduti renda ohechauka heratee mboajepyre rupive, oguenohẽva mboajepyre moakãharakuéra. Hetave umi kundaha ndojeroviái oguenohẽva GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } oiporu peteĩ mboajepyre peteĩva ko’ã moakãhárava ha, upéicha rupi, ndaikatúi eikua pe ñanduti renda réra.
-cert-error-symantec-distrust-admin = Ikatu emomarandu ñanduti renda ñangarekohárape ko apañuãi rehegua.
+cert-error-symantec-distrust-admin = Ikatu emomarandu ñanduti renda ñangarekohárape ko apañuái rehegua.
 cert-error-old-tls-version = Ikatu ko ñanduti renda nomoneĩri pe taperekoite TLS 1.2, ha’éva tembiapokue michĩve omoneĩva { -brand-short-name }.
 # Variables:
 #   $hasHSTS (Boolean) - Indicates whether HSTS header is present.
@@ -75,7 +75,7 @@ connectionFailure-title = Ndaikatúi eike
 deniedPortAccess-title = Ko kundaharape ndaikatúi eiporu
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-dnsNotFound-title = Hmm. Oĩ apañuãi ejuhu hag̃ua ko tenda.
+dnsNotFound-title = Hmm. Oĩ apañuái ejuhu hag̃ua ko tenda.
 dns-not-found-trr-only-title2 = Tekorosã imarãkuaa ehekakuévo ko tendatee
 dns-not-found-native-fallback-title2 = Tekorosã imarãkuaa ehekakuévo ko tendatee
 fileNotFound-title = Marandurenda ndojejuhúiva
@@ -106,5 +106,5 @@ blockedByPolicy-title = Kuatiarogue jokopyre
 clockSkewError-title = Aravopapaha mohendaha rehegua oĩvai
 networkProtocolError-title = Jejavy guasu ñandutípe
 nssBadCert-title = Jesarekorã: Imarãkuaáva tenondeve
-nssBadCert-sts-title = Ndoikéi: Ikatu hína iñapañuãi tekorosãrã
+nssBadCert-sts-title = Ndoikéi: Ikatu hína iñapañuái tekorosãrã
 certerror-mitm-title = Ko software ojokohína { -brand-short-name } ani oike ko tendápe tekorasãme
