@@ -126,6 +126,7 @@ shopping-review-reliability-label =
 shopping-analysis-explainer-label =
     .label = Korleis vi bestemmer kvaliteten på ei vurdering
 shopping-analysis-explainer-intro2 = Vi brukar kunstig intelligens-teknologi (AI-teknologi) frå { -fakespot-brand-full-name } for å sjekke pålitelgheita til produktvurderingar. Dette vil berre hjelpe deg med å vurdere kvaliteten av vurderingar, ikkje kvaliteten på sjølve produktetet.
+shopping-analysis-explainer-grades-intro = Vi gir kvar produktvurdering ein <strong>bokstavkarakter</strong> frå A til F.
 shopping-analysis-explainer-adjusted-rating-description = Den <strong>justerte vurderinga</strong> er berre basert på vurderingar som vi meinar er pålitelege.
 shopping-analysis-explainer-learn-more2 = Les meir om <a data-l10n-name="review-quality-url">korleis { -fakespot-brand-name } fastset vurderingskvalitet</a>.
 # This string includes the short brand name of one of the three supported
@@ -192,9 +193,12 @@ shopping-callout-closed-not-opted-in-revised-title = Eitt klikk til pålitelege 
 shopping-callout-closed-not-opted-in-revised-subtitle = Klikk på prislappikonet i adresselinja for å gå tilbake til vurderingskontrolløren.
 shopping-callout-closed-not-opted-in-revised-button = Eg forstår
 shopping-callout-not-opted-in-reminder-title = Handle med sjølvtillit
+shopping-callout-not-opted-in-reminder-subtitle = Ikkje sikker på om vurderingar av eit produkt er ekte eller falske? Vurderingskontrolløren frå { -brand-product-name } kan hjelpe deg.
 shopping-callout-not-opted-in-reminder-open-button = Opne vurderingskontrolløren
 shopping-callout-not-opted-in-reminder-close-button = Ignorer
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Ikkje vis igjen
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstrakt illustrasjon av tre produktvurderingar. Ein har eit åtvaringssymbol som indikerer at den kanskje ikkje er påliteleg.
 shopping-callout-disabled-auto-open-button = Eg forstår
 shopping-callout-opted-out-title = Vurderingskontrolløren er av
 shopping-callout-opted-out-button = Eg forstår
