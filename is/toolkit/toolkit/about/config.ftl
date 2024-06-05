@@ -7,22 +7,18 @@
 
 about-config-intro-warning-title = Haltu áfram með varúð
 about-config-intro-warning-text = Breyting á ítarlegum kjörstillingum getur haft áhrif á afköst eða öryggi { -brand-short-name }.
-about-config-intro-warning-checkbox = Varaðu mig við þegar ég reyni að fá aðgang að þessum kjörstillingum
+about-config-intro-warning-checkbox = Vara mig við þegar ég reyni að fá aðgang að þessum kjörstillingum
 about-config-intro-warning-button = Samþykkja áhættuna og halda áfram
 
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Breytingar á þessum kjörstillingum geta haft áhrif á afköst eða öryggi { -brand-short-name }.
-
 about-config-page-title = Ítarlegar kjörstillingar
-
 about-config-search-input1 =
     .placeholder = Leita að heiti kjörstillingar
 about-config-show-all = Sýna allt
-
 about-config-show-only-modified = Sýna aðeins breyttar kjörstillingar
-
 about-config-pref-add-button =
     .title = Bæta við
 about-config-pref-toggle-button =
