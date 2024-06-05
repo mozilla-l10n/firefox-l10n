@@ -4,6 +4,7 @@
 
 about-networking-title = Informazions su le rêt
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Nete cache HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Nete cache DNS
