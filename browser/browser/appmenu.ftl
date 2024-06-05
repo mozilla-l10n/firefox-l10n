@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Birta fleiri flipa
     .tooltiptext = Birta fleiri flipa af þessu tæki
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Sýna einn óvirkan flipa
-           *[other] Sýna { $count } óvirka flipa
-        }
-    .tooltiptext = Sýna óvirku flipana á þessu tæki
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Óvirkir flipar
@@ -281,7 +271,7 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Skráðu þig inn á notandaaðganginn þinn
 appmenuitem-monitor-title = { -monitor-brand-short-name }
-appmenuitem-monitor-description = Fáðu tilkynningar um gagnainnbrot
+appmenuitem-monitor-description = Fáðu tilkynningar um gagnarán
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Hyldu raunverulegt tölvupóstfang og símanúmerið þitt
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
