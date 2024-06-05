@@ -162,6 +162,8 @@ webrtc-allow-share-screen-with-file = Tillate denne lokale fila å sjå skjermen
 webrtc-allow-share-speaker-with-file = Tillate denne lokale fila å bruke andre høgtalarar?
 webrtc-allow-share-camera-and-microphone-with-file = Tillate denne lokale fila å bruke kameraet og mikrofonen?
 webrtc-allow-share-camera-and-audio-capture-with-file = Tillate denne lokale fila å bruke kameraet og høyre på lyd i denne fana?
+webrtc-allow-share-screen-and-microphone-with-file = Tillate denne lokale fila å bruke mikrofonen, og sjå skjermen din?
+webrtc-allow-share-screen-and-audio-capture-with-file = Tillate denne lokale fila å høyre på lyd i denne fana, og å sjå skjermen din?
 
 ## Variables:
 ##   $origin (String): the first party origin.
@@ -217,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Hugs dette valet
+webrtc-remember-allow-checkbox-camera = Hugs for alle kamera
+webrtc-remember-allow-checkbox-microphone = Hugs for alle mikrofonar
+webrtc-remember-allow-checkbox-camera-and-microphone = Hugs for alle kamera og mikrofonar
 webrtc-mute-notifications-checkbox = Slå av nettstadvarsel mesn du deler
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan ikkje tillate permanent tilgang til skjermen din.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikkje tillate permanent tilgang til lyden på fana di utan å spørje kva for fane som skal delast.
