@@ -272,6 +272,9 @@ newtab-custom-recent-subtitle = حالیہ سائٹاں تے مواد دی ہک 
 newtab-custom-recent-toggle =
     .label = حالیہ سرگرمی
     .description = حالیہ سائٹاں تے مواد دی ہک چوݨ
+newtab-custom-weather-toggle =
+    .label = موسم
+    .description = اڄ دی پیش گوئی تے ہک نظر
 newtab-custom-close-button = بند کرو
 newtab-custom-settings = ودھیک ترتیباں دا بندوبست کرو
 
@@ -298,6 +301,12 @@ newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_strin
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = { $provider } وچ پیش گوئی ݙیکھو
+newtab-weather-menu-change-location = مقام وٹاؤ
+newtab-weather-change-location-search-input = مقام ڳولو
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
