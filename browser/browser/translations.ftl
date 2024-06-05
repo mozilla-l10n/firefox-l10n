@@ -73,7 +73,7 @@ translations-panel-translate-cancel =
 translations-panel-learn-more-link = Eikuaave
 translations-panel-intro-header = Eiporu ñe’ẽasa ñemiguáva { -brand-shorter-name }-pe
 translations-panel-intro-description = Nde rekorosãrã, umi ñemoñe’ẽasa ndohejái pe mba’e’oka. ¡Tenondeve oĩvéta ñe’ẽ pyahu ha mba’eporã!
-translations-panel-error-translating = Iñapañuãi’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
+translations-panel-error-translating = Iñapañuai’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
 translations-panel-error-load-languages = Noñemyanyhẽkuaái ñe’ẽnguéra
 translations-panel-error-load-languages-hint = Ehechajey ne ñanduti reko ha eha’ãjey ag̃ave.
 translations-panel-error-load-languages-hint-button =
@@ -126,13 +126,6 @@ translations-manage-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag
 translations-manage-all-language = Opaite ñe’ẽ
 translations-manage-download-button = Mboguejy
 translations-manage-delete-button = Mboguete
-translations-manage-intro = Emohenda tenda ñe’ẽ ha ñemoñe’ẽasa ehayhúvéva ha eñangereko umi ñe’ẽ emohendáva emoñe’ẽasátava ñanduti’ỹre.
-translations-manage-install-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag̃ua ñanduti’ỹre
-translations-manage-language-install-button =
-    .label = Mohenda
-translations-manage-language-install-all-button =
-    .label = Emohendapa
-    .accesskey = I
 translations-manage-intro-2 = Emohenda tenda ñe’ẽ ha ñemoñe’ẽasa ehayhúvéva ha eñangereko umi ñe’ẽ emboguejýva emoñe’ẽasátava ñanduti’ỹre.
 translations-manage-download-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag̃ua ñanduti’ỹre
 translations-manage-language-download-button =
@@ -145,10 +138,9 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Emboguepa
     .accesskey = e
-translations-manage-error-install = Oĩ apañuãi emboguejykuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
-translations-manage-error-download = Iñapañuãi emboguejykuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃amieve.
-translations-manage-error-delete = Iñapañuãi emboguekuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
-translations-manage-error-remove = Oĩ apañuãi emboguekuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
+translations-manage-error-download = Iñapañuái emboguejykuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃amieve.
+translations-manage-error-delete = Iñapañuái emboguekuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
+translations-manage-error-remove = Oĩ apañuái emboguekuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
 translations-manage-error-list = Ndaikatúi ereko ñe’ẽnguéra rysýi emoñe’ẽasa hag̃ua. Embohekopyahu kuatiarogue eha’ãjey hag̃ua.
 translations-settings-title =
     .title = Ñe’ẽasa ñemboheko
@@ -235,7 +227,7 @@ select-translations-panel-init-failure-message =
     .message = Nahenyhẽkuaái ñe’ẽnguéra. Ehechajey oikópa ne ñanduti ha eha’ãjey ag̃ave.
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
-    .message = Iñapañuãi’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
+    .message = Iñapañuai’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }

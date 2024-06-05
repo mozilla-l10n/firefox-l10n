@@ -6,7 +6,7 @@ restore-page-tab-title = Tembiapopa’ũ mbojevy
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Oreñyrõmi katu ndajaikatúi jahechauka jey ndéve togue rehechava’ekue.
-restore-page-problem-desc = Oreapañuãihína rohechaukajey hag̃ua rehechava’ekue. Eiporavomi Tembiapopa’ũ Jehechaukajey.
+restore-page-problem-desc = Oreapañuaihína rohechaukajey hag̃ua rehechava’ekue. Eiporavomi Tembiapopa’ũ Jehechaukajey.
 restore-page-try-this = Ndaikatúi gueteri reikejey rehechava’ekuépe? Sapy’ánte oĩ pe tendayke ombyaíva upéva. Ema’ẽmi tendayke rehechava’ekue, ha tysýipe eiporavomi tendayke eikotevẽva, upéi eha’ãjey.
 restore-page-hide-tabs = Tendayke Ramoitéva Ñomi
 restore-page-show-tabs = Tendayke Ramoitéva Jechauka
@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = Ovetã ha tendayke mbojevyjey
 welcome-back-restore-some-label = Embojevyjey reipotávante
-welcome-back-page-info-link = Umi moĩmbaha ha ñemomba’eguáva oñemboguepáma ha Kundahára oñemboheko porãma ojevyjeývo ijypykuetépe. Ko apañuãi guasu ñoñemoĩporãiramo, <a data-l10n-name="link-more">Reñemoaranduve upe ejaposévape.</a>
+welcome-back-page-info-link = Umi moĩmbaha ha ñemomba’eguáva oñemboguepáma ha Kundahára oñemboheko porãma ojevyjeývo ijypykuetépe. Ko apañuái guasu ñoñemoĩporãiramo, <a data-l10n-name="link-more">Reñemoaranduve upe ejaposévape.</a>

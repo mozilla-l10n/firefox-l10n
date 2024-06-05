@@ -131,4 +131,4 @@ addon-local-install-error-not-signed = Ko moĩmbaha ndaikatúi oñemohenda ndoje
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ndaikatúi oñemohenda ndojokupytýi rupi { -brand-short-name } { $appVersion } ndive.
-addon-install-error-blocklisted = { $addonName } ndaikatúi oñemohenda ikatúgui omoapañuãi mba’apoporã térã tekorosã rehegua.
+addon-install-error-blocklisted = { $addonName } ndaikatúi oñemohenda ikatúgui omoapañuái mba’apoporã térã tekorosã rehegua.
