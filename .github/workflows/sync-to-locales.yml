@@ -24,12 +24,18 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - run: |
+          ignored_folders=(".github")
           for lc in $(git diff-tree --no-commit-id --name-only last-sync main); do
-            git tag base-$lc last-sync;
-            git branch next-$lc main;
-            git filter-repo --subdirectory-filter $lc --force --refs next-$lc base-$lc;
-            git checkout --track origin/$lc;
-            git cherry-pick base-$lc..next-$lc;
+            if [[ ! " ${ignored_folders[*]} " =~ " ${lc} " ]] && [ -d $lc ];
+            then
+              git tag base-$lc last-sync;
+              git branch next-$lc main;
+              git filter-repo --subdirectory-filter $lc --force --refs next-$lc base-$lc;
+              git checkout --track origin/$lc;
+              git cherry-pick base-$lc..next-$lc;
+            else
+              echo "Ignored element: $lc"
+            fi
           done
         shell: bash
       - run: git push origin $(git diff-tree --no-commit-id --name-only last-sync main | tr '\n' ' ')
