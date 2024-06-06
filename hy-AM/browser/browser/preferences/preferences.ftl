@@ -400,7 +400,7 @@ update-in-progress-cancel-button = &Շարունակել
 
 performance-title = Արտադրողականություն
 performance-use-recommended-settings-checkbox =
-    .label = Օգտ. արտադրողականության հանձնարարելի կարգավորումները
+    .label = Օգտագործել արտադրողականության հանձնարարելի կարգավորումները
     .accesskey = Օ
 performance-use-recommended-settings-desc = Այս կարգավորումները հարմարեցված են ձեր համակարգչի սարքաշարին և օպերացիոն համակարգին:
 performance-settings-learn-more = Իմանալ ավելին
@@ -542,7 +542,7 @@ home-prefs-recent-activity-description = Վերջին կայքերի և բովա
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Հատվածներ
-home-prefs-snippets-description-new = Հուշումներ և նորություններ { -vendor-short-name }-ից և { -brand-product-name }-ից
+home-prefs-snippets-description-new = Հուշումներ, նորություններ { -vendor-short-name }-ից և { -brand-product-name }-ից
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
