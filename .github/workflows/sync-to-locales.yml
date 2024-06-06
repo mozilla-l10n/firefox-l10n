@@ -23,8 +23,10 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - id: changed-locales
+        run: echo "LIST=$(git diff-tree --no-commit-id --name-only last-sync main | grep -E '^[a-z]{2,3}(-|$)' | tr '\n' ' ')" >> $GITHUB_OUTPUT
       - run: |
-          for lc in $(git diff-tree --no-commit-id --name-only last-sync main | grep -E '^[a-z]{2,3}(-|$)'); do
+          for lc in "${{ steps.changed-locales.outputs.LIST }}"; do
             git tag base-$lc last-sync;
             git branch next-$lc main;
             git filter-repo --subdirectory-filter $lc --force --refs next-$lc base-$lc;
@@ -32,7 +34,7 @@ jobs:
             git cherry-pick base-$lc..next-$lc;
           done
         shell: bash
-      - run: git push origin $(git diff-tree --no-commit-id --name-only last-sync main | tr '\n' ' ')
+      - run: git push origin ${{ steps.changed-locales.outputs.LIST }}
         shell: bash
       - run: git tag --force last-sync main
       - run: git push --force origin last-sync
