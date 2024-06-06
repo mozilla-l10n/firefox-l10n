@@ -51,6 +51,8 @@ inactive-css-property-is-impossible-to-override-in-visited = Non è possibile ig
 
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è un elemento posizionato.
 
+inactive-css-only-replaced-elements = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto può essere applicato solo a un elemento sostituito.
+
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto <strong>overflow:hidden</strong> non è impostato.
 
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> non ha effetto sugli elementi interni di una tabella.
@@ -112,6 +114,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Provare a
 inactive-css-not-display-block-on-floated-fix = Provare a rimuovere <strong>float</strong> o aggiungere <strong>display:block</strong>. { learn-more }
 
 inactive-css-position-property-on-unpositioned-box-fix = Provare a impostare per la proprietà <strong>position</strong> un valore diverso da <strong>static</strong>. { learn-more }
+
+inactive-css-only-replaced-elements-fix = Assicurarsi di aver aggiunto la proprietà a un elemento sostituito. { learn-more }
 
 inactive-text-overflow-when-no-overflow-fix = Provare ad aggiungere <strong>overflow:hidden</strong>. { learn-more }
 
