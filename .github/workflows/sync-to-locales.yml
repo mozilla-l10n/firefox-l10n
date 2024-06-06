@@ -24,7 +24,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - run: |
-          for lc in $(git diff-tree --no-commit-id --name-only last-sync main); do
+          for lc in $(git diff-tree --no-commit-id --name-only last-sync main | grep -E '^[a-z]{2,3}(-|$)'); do
             git tag base-$lc last-sync;
             git branch next-$lc main;
             git filter-repo --subdirectory-filter $lc --force --refs next-$lc base-$lc;
