@@ -133,3 +133,5 @@ addon-local-install-error-not-signed = Impossibile installare questo componente 
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Impossibile installare { $addonName } in quanto non compatibile con { -brand-short-name } { $appVersion }.
 addon-install-error-blocklisted = Impossibile installare { $addonName } in quanto comporta un rischio elevato per la stabilità o la sicurezza.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Non è possibile installare { $addonName } come utente finale, può essere installato solo da un’organizzazione che utilizza criteri aziendali.
