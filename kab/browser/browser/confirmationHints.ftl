@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Ittwazen!
 confirmation-hint-firefox-relay-mask-created = Yettwarna ugelmus amaynut!
 confirmation-hint-firefox-relay-mask-reused = Yettwasenqed daɣen ugelmus yellan!
 confirmation-hint-screenshot-copied = Tuṭṭfa n ugdil yettwanɣel!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Yettwamdel { $tabCount } yiccer
+       *[other] Ttwamedlen { $tabCount } waccaren
+    }
