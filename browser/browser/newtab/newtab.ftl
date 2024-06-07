@@ -271,5 +271,58 @@ newtab-custom-recent-subtitle = ไซต์และเนื้อหาล่
 newtab-custom-recent-toggle =
     .label = กิจกรรมล่าสุด
     .description = ไซต์และเนื้อหาล่าสุดที่คัดสรรมา
+newtab-custom-weather-toggle =
+    .label = พยากรณ์อากาศ
+    .description = ดูพยากรณ์อากาศประจำวันนี้ได้อย่างรวดเร็ว
 newtab-custom-close-button = ปิด
 newtab-custom-settings = จัดการการตั้งค่าเพิ่มเติม
+
+## New Tab Wallpapers
+
+newtab-wallpaper-title = รูปพื้นหลัง
+newtab-wallpaper-reset = กลับเป็นค่าเริ่มต้น
+newtab-wallpaper-light-red-panda = แพนด้าแดง
+newtab-wallpaper-light-mountain = ภูเขาสีขาว
+newtab-wallpaper-light-sky = ท้องฟ้าที่มีเมฆสีม่วงและสีชมพู
+newtab-wallpaper-light-color = รูปทรงที่มีสีฟ้า สีชมพู และสีเหลือง
+newtab-wallpaper-light-landscape = วิวภูเขาที่มีหมอกสีฟ้า
+newtab-wallpaper-light-beach = ชายหาดที่มีต้นปาล์ม
+newtab-wallpaper-dark-aurora = แสงเหนือ
+newtab-wallpaper-dark-color = รูปทรงที่มีสีแดงและสีน้ำเงิน
+newtab-wallpaper-dark-panda = แพนด้าแดงที่ซ่อนตัวอยู่ในป่า
+newtab-wallpaper-dark-sky = วิวเมืองใต้ท้องฟ้ายามค่ำคืน
+newtab-wallpaper-dark-mountain = วิวภูเขา
+newtab-wallpaper-dark-city = วิวเมืองสีม่วง
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = ภาพถ่ายโดย <a data-l10n-name="name-link">{ $author_string }</a> จาก <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = ดูพยากรณ์ใน { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = สนับสนุนโดย { $provider }
+newtab-weather-menu-change-location = เปลี่ยนตำแหน่งที่ตั้ง
+newtab-weather-change-location-search-input = ค้นหาตำแหน่งที่ตั้ง
+newtab-weather-menu-weather-display = การแสดงผลพยากรณ์อากาศ
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = ธรรมดา
+newtab-weather-menu-change-weather-display-simple = สลับเป็นมุมมองธรรมดา
+newtab-weather-menu-weather-display-option-detailed = ละเอียด
+newtab-weather-menu-change-weather-display-detailed = สลับเป็นมุมมองละเอียด
+newtab-weather-menu-temperature-units = หน่วยอุณหภูมิ
+newtab-weather-menu-temperature-option-fahrenheit = ฟาเรนไฮต์
+newtab-weather-menu-temperature-option-celsius = เซลเซียส
+newtab-weather-menu-change-temperature-units-fahrenheit = เปลี่ยนเป็นฟาเรนไฮต์
+newtab-weather-menu-change-temperature-units-celsius = เปลี่ยนเป็นเซลเซียส
+newtab-weather-menu-hide-weather = ซ่อนพยากรณ์อากาศในแท็บใหม่
+newtab-weather-menu-learn-more = เรียนรู้เพิ่มเติม
+# This message is shown if user is working offline
+newtab-weather-error-not-available = ไม่มีข้อมูลพยากรณ์อากาศในขณะนี้

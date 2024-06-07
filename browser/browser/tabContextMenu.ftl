@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = ปิดหลายแท็บ
     .accesskey = ล
+tab-context-close-duplicate-tabs =
+    .label = ปิดแท็บที่ซ้ำกัน
+    .accesskey = ซ
 tab-context-share-url =
     .label = แบ่งปัน
     .accesskey = h
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] ย้ายแท็บ
         }
     .accesskey = ย
-
 tab-context-send-tabs-to-device =
     .label = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
     .accesskey = ส
