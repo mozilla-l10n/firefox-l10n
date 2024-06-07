@@ -290,6 +290,45 @@ newtab-wallpaper-dark-sky = Paesaggio cittadino con cielo notturno
 newtab-wallpaper-dark-mountain = Paesaggio con montagne
 newtab-wallpaper-dark-city = Paesaggio cittadino con tonalità viola
 
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Colori solidi
+newtab-wallpaper-blue = Blu
+newtab-wallpaper-light-blue = Blu chiaro
+newtab-wallpaper-light-purple = Viola chiaro
+newtab-wallpaper-light-green = Verde chiaro
+newtab-wallpaper-green = Verde
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Giallo
+newtab-wallpaper-orange = Arancio
+newtab-wallpaper-pink = Rosa
+newtab-wallpaper-light-pink = Rosa chiaro
+newtab-wallpaper-red = Rosso
+newtab-wallpaper-dark-blue = Blu scuro
+newtab-wallpaper-dark-purple = Viola scuro
+newtab-wallpaper-dark-green = Verde scuro
+newtab-wallpaper-brown = Marrone
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Astratto
+newtab-wallpaper-abstract-green = Forme verdi
+newtab-wallpaper-abstract-blue = Forme blu
+newtab-wallpaper-abstract-purple = Forme viola
+newtab-wallpaper-abstract-orange = Forme arancioni
+newtab-wallpaper-gradient-orange = Gradiente arancione e rosa
+newtab-wallpaper-abstract-blue-purple = Forme blu e viola
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Fotografie
+newtab-wallpaper-beach-at-sunrise = Spiaggia all’alba
+newtab-wallpaper-beach-at-sunset = Spiaggia al tramonto
+newtab-wallpaper-storm-sky = Cielo tempestoso
+newtab-wallpaper-sky-with-pink-clouds = Cielo con nuvole rosa
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda rosso che sbadiglia su un albero
+newtab-wallpaper-white-mountains = Montagne bianche
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
