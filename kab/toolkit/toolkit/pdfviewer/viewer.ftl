@@ -367,7 +367,20 @@ pdfjs-editor-colorpicker-button =
     .title = Senfel ini
 pdfjs-editor-colorpicker-dropdown =
     .aria-label = Afran n yiniten
+pdfjs-editor-colorpicker-yellow =
+    .title = Awraɣ
+pdfjs-editor-colorpicker-green =
+    .title = Azegzaw
+pdfjs-editor-colorpicker-blue =
+    .title = Amidadi
+pdfjs-editor-colorpicker-pink =
+    .title = Axuxi
+pdfjs-editor-colorpicker-red =
+    .title = Azggaɣ
 
 ## Show all highlights
 ## This is a toggle button to show/hide all the highlights.
 
+pdfjs-editor-highlight-show-all-button-label = Sken akk
+pdfjs-editor-highlight-show-all-button =
+    .title = Sken akk
