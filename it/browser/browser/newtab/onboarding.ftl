@@ -377,7 +377,7 @@ mr2022-onboarding-privacy-segmentation-image-alt =
 mr2022-onboarding-gratitude-image-alt =
     .aria-label = Vista di un tramonto attraverso una finestra, con una volpe e una pianta sul davanzale
 mr2022-onboarding-colorways-image-alt =
-    .aria-label = Una mano disegna un graffito con un collage colorato che include un occhio verde, una scarpa arancio, un pallone rosso da basket, cuffie viola, un cuore blu e una corona gialla
+    .aria-label = Una mano disegna un graffito con un collage colorato che include un occhio verde, una scarpa arancione, un pallone rosso da basket, cuffie viola, un cuore blu e una corona gialla
 
 ## Device migration onboarding
 
