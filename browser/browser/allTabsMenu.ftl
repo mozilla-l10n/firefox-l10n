@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Nadi deg yiccaren
-
 all-tabs-menu-new-user-context =
     .label = Iccer amagbar amaynut
-
 all-tabs-menu-hidden-tabs =
     .label = Iccaren ifren
-
 all-tabs-menu-manage-user-context =
     .label = Sefrek imagbaren
     .accesskey = O
+all-tabs-menu-close-duplicate-tabs =
+    .label = Mdel accaren i d-yettεawden

@@ -26,5 +26,15 @@ default-browser-prompt-button-secondary = Mačči tura
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
+default-browser-guidance-notification-title = Ḥbes tiririt n { -brand-short-name } d iminig-ik·im amezwer
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win10 =
+    Takkayt 1: Ddu ɣer yiɣewwaren > Isnasen imezwer
+    Takkayt 2: Sedrurem alamma d “ Iminig Web”
+    Takkayt 3: Fren { -brand-short-name }
+# Quoted text are keywords to look for in the Windows Settings app.
+default-browser-guidance-notification-body-instruction-win11 =
+    Takkayt 1: Ddu ɣer yiɣewwaren > Isnasen imezwer
+    Takkayt 2: Fren “Sbadu amezwer” i { -brand-short-name }
 default-browser-guidance-notification-info-page = Sken
 default-browser-guidance-notification-dismiss = Immed

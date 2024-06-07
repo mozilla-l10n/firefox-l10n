@@ -39,6 +39,7 @@ site-permission-install-first-prompt-midi-message = Taɣellist n unekcum-a ur ye
 ##
 
 xpinstall-disabled-locked = Asebded n yiseɣẓanen issewḥel-it unebdal n unagraw-ik.
+xpinstall-disabled-by-policy = Asebded n yiseɣẓanen yettwasens sɣur tkebbanit.
 xpinstall-disabled = Asebded n yiseɣẓanen yewḥel. Sit ɣef Rmed sakin ɛreḍ tikelt-nniḍen.
 xpinstall-disabled-button =
     .label = Rmed
@@ -50,6 +51,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) yesweḥl-it unedbal-ik n unagraw.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Anedbal-ik·im n unagraw ur yeǧǧi ara asmel-a ad isebded aseɣẓan ɣef uselkim-inek·inem.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = { $addonName } ({ $addonId }) yettusewḥel sɣur tkebbanit.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Takebbanit ur teǧǧi ara asmel-a ad isebded aseɣẓan ɣef uselkim-inek.
 addon-install-full-screen-blocked = Asebeddi n yizegrar ur yettwasireg ara deg uskar n ugdil aččuṛan neɣ uqbel anekcum ɣur-s.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
