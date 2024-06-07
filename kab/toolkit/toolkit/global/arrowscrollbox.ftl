@@ -13,3 +13,9 @@
 # would look like "^" and scroll the list of menuitems up.
 overflow-scroll-button-backwards =
     .tooltiptext = Sedrurem ɣer deffir
+# This button is shown at the end of the overflowing list of elements. For
+# example, in LTR language like English, on the Tabs Toolbar it would look like
+# ">" and scroll the tab list to the right, and in the overflowing menu it
+# would look like "v" and scroll the list of menuitems down.
+overflow-scroll-button-forwards =
+    .tooltiptext = Sedrurem ɣer sdat
