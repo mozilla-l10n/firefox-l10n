@@ -77,6 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Sken ugar n waccaren
     .tooltiptext = Sken ugar n waccaren seg yibenk-a
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Accaren arurmiden
+    .tooltiptext = Wali accaren irurmiden ɣef yibenk-a
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ulac accaren yeldin
 # This is shown when Sync is configured but syncing tabs is disabled.
