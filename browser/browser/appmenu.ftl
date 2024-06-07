@@ -271,5 +271,8 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Kcem ɣer umiḍan-ik
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-monitor-description = Awi alɣu mi ara ffɣen yisefka
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Ffer imayl-ik d wuṭṭun n tiliɣri n tidet
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Mmesten armud-ik srid
