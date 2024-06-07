@@ -164,6 +164,8 @@ about-logins-edit-login-os-auth-dialog-message-win = Akken ad tbeddleḍ anekcam
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ẓreg isem n useqdac yettwaskelsen
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Akken ad tbeddleḍ awal-inek uffir, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message2-macosx = Ẓreg awal uffir yettwaskelsen
@@ -182,6 +184,8 @@ about-logins-export-password-os-auth-dialog-message-win = Akken ad tketreḍ ine
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = Akter n yinekcam d wawalen uffiren yettwasekles
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Akken ad tsifḍeḍ awalen-ik n uεeddi, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = kter awal uffir yettwaskelsen
@@ -243,12 +247,32 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Aya ad yekkes anekcum i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akkaed { -fxaccount-brand-name }-inek·inem. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
        *[other] Aya ad yekkes inekcumen i teskelseḍ deg { -brand-short-name } ɣef meṛṛa ibenkan yemtawan akkaed { -fxaccount-brand-name }-inek·inem. Ad yekkes ula d talɣut n trewla n yisefka ara d-ibanen da. Ur tezmireḍ ad esfesxeḍ tigawt-a.
     }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Ih, kkes awal n uεeddi
+        [one] Ih, kkes awal n uεeddi
+       *[other] Ih, kkes awalen n uεeddi
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Ih, kkes { $count } wawal n uεeddi
+       *[other] Ih, kkes { $count } wawalen n uεeddi
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Kkes { $count } wawal n uεeddi seg meṛṛa ibenkan?
+       *[other] Kkes { $count } wawalen n uεeddi seg meṛṛa ibenkan?
+    }
 
 ##
 
 about-logins-confirm-export-dialog-title = Sifeḍ inekcam d wawalen uffiren
 about-logins-confirm-export-dialog-message = Awalen-inek uffiren ad ttwaskelsen am uḍris ara d-ibanen i tɣuri (d amedya, BadP@ssw0rd) akken yal amdan ara yeldin afaylu i yettusifḍen ad yizmir ad t-iwali.
 about-logins-confirm-export-dialog-confirm-button = Kter…
+about-logins-confirm-export-dialog-title2 = Tamawt ɣef usifeḍ n wawalen n uεeddi
 about-logins-confirm-export-dialog-confirm-button2 = Kemmel asifeḍ
 about-logins-alert-import-title = Aktar yemmed
 about-logins-alert-import-message = Sken agzul leqqayen n uktar
@@ -354,6 +378,11 @@ about-logins-import-dialog-items-modified2 =
         [one] <span>Yettwaleqqem unekcum i yellan:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Ttuleqqmen inekcumen i yellan:</span> <span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+        [one] <span>Yettwaf unekcum yellan sin iberdan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+       *[other] <span>Ttwafen inekcumen yellan sin iberdan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(not imported)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
        *[other] <span>Tuccḍiwin </span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ur d-yettukter ara)</span>
@@ -374,6 +403,7 @@ about-logins-import-dialog-error-try-import-again = Ɛreḍ aktar tikkelt-nniḍ
 about-logins-import-dialog-error-cancel = Sefsex
 about-logins-import-report-title = Agzul n uktar
 about-logins-import-report-description = Inekcam d wawalen uffiren ttwaketren ɣer { -brand-short-name }.
+about-logins-import-report-description2 = Awalen n uεeddi i yettwaktaren ɣer { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -381,6 +411,8 @@ about-logins-import-report-row-index = Izirig { $number }
 about-logins-import-report-row-description-no-change = Uslig: yemsaḍa swaswa d unekcum yellan
 about-logins-import-report-row-description-modified = Anekcam yellan yettwaleqqem
 about-logins-import-report-row-description-added = Anekcum amaynut ittwarna
+about-logins-import-report-row-description-no-change2 = Uslig: yemsaḍa swaswa d unekcum yellan
+about-logins-import-report-row-description-modified2 = Anekcam yellan yettwaleqqem
 about-logins-import-report-row-description-added2 = Awal uffir amaynut ittwarna
 about-logins-import-report-row-description-error = Tuccḍa: Urti ixuṣṣen
 
@@ -406,6 +438,21 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inekcam i d-yulsen tikkelt tis snat</div> <div data-l10n-name="not-imported">(ur yettwakter ara)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inekcam i d-yulsen tikkelt tis snat</div> <div data-l10n-name="not-imported">(ur yettwakter ara)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Yettwarna wawal n uεeddi amaynut</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ttwarnan wawalen n uεeddi imaynuten</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Yettwaleqqem unekcum i yellan</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ttwaleqqmen yinekcam yellan</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">anekcum i d-yulsen tikkelt tis snat</div> <div data-l10n-name="not-imported">(ur yettwakter ara)</div>
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inekcam i d-yulsen tikkelt tis snat</div> <div data-l10n-name="not-imported">(ur yettwakter ara)</div>
     }
 about-logins-import-report-error =
