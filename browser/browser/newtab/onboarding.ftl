@@ -323,8 +323,15 @@ onboarding-easy-setup-security-and-privacy-title = Nḥemmel ad teqqimeḍ d aɣ
 onboarding-easy-setup-security-and-privacy-subtitle = Iminig-nneɣ tettallit yiwet n tkebbanit ur nettnadi ɣef tedrimt, tessewḥal tikebbaniyin ara ak-iḍefren deg web.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Mmesten iman-ik s ttawil n uwgelhen mi ara tɛeddiḍ seg yibenk ɣer wayeḍ
+# Gratitude screen
+onboarding-gratitude-security-and-privacy-title = { -brand-short-name } mazal-it ɣer tama-k
 
 ## New user time and familiarity survey strings
 
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Ɣer zdat
+onboarding-new-user-survey-time-based-option-2 = Ur yewwiḍ ara 1 wayyur
+onboarding-new-user-survey-time-based-option-3 = Uagr n 1 wayyut, yal tikkelt
+onboarding-new-user-survey-time-based-option-4 = Uagr n 1 wayyut, sya ɣer da
+onboarding-new-user-survey-familiarity-based-option-2 = Sqedceɣ-t cwiṭ
+onboarding-new-user-survey-familiarity-based-option-3 = Ssneɣ-t akken ilaq
