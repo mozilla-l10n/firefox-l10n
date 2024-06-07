@@ -50,6 +50,7 @@ firefoxview-syncedtabs-synctabs-checkbox = Sireg accaren yeldin i umtawi
 firefoxview-syncedtabs-loading-header = Amtawi iteddu
 firefoxview-tabpickup-fxa-admin-disabled-header = Takebbanit-ik·im tessens amtawi
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ur yezmir ara ad yemtawi accaren gar yibenkan acku anedbal-ik·im issens amtawi.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ur yezmir ara ad yemtawi accaren gar yibenkan acku takebbanit-ik·im issens amtawi.
 firefoxview-tabpickup-network-offline-header = senqed tuqqna-k·m internet
 firefoxview-tabpickup-network-offline-description = Ma yella tesseqdaceḍ aɣrab n tmes neɣ apṛuksi, senqed ma yella { -brand-short-name } yesɛa tisirag ad yekcem ɣer web.
 firefoxview-tabpickup-network-offline-primarybutton = Ɛreḍ tikelt nniḍen
@@ -183,6 +184,7 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Ulac igmaḍ i “{ $query }”
 firefoxview-sort-history-by-date-label = Asmizzwer s wazemz
 firefoxview-sort-history-by-site-label = Smizzwer s usmel
+firefoxview-sort-open-tabs-by-recency-label = Smizwer s urmud aneggaru
 firefoxview-sort-open-tabs-by-order-label = Smizwer s waccaren
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
@@ -251,8 +253,14 @@ firefoxview-tabs =
 
 firefoxview-opentabs-pinned-tab =
     .title = Uɣal ɣer  { $tabTitle }
+# This tooltip will be shown for a pinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-pinned-tab =
+    .title = Uɣal ɣero  { $tabTitle } (Tecraḍ n yisebtar)
 
 ## These tooltips will be displayed when hovering over an unpinned Open Tab
 ## Variables:
 ##   $url (string) - URL of tab that will be opened when selected
 
+# This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
+firefoxview-opentabs-bookmarked-tab =
+    .title = { $url } (deg tecraḍ n yisebtar)

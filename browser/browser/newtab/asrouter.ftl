@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Mtawi ticraḍ n yisebter ar wanida tebɣiḍ.
 cfr-doorhanger-bookmark-fxa-body = Tufiḍ tiwizet! Tura, af-d tacreḍt n usebter ɣef yibenkan-ik izirazen, d lawan ad tesqedceḍ { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Tufiḍ tiwizet! Tura, af-d tacreḍt n usebter ɣef yibenkan-ik izirazen. Bdu aseqdec n umiḍan.
 cfr-doorhanger-bookmark-fxa-link-text = Mtawi ticraḍ n yisebtar tura...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Taqeffalt n umdal
@@ -263,5 +264,10 @@ launch-on-login-infobar-final-reject-button = Ala, tanemmirt
 
 ## Tail Fox Set Default Spotlight
 
+# This title is displayed together with the picture of a running fox with a long tail.
+# In English, this is a figure of speech meaning 'stop something from following you'.
+# If the localization of this message is challenging, consider using a simplified
+# alternative as a reference for translation: 'Keep unwanted trackers away'.
+tail-fox-spotlight-title = Eǧǧ yir ineḍfaṛen mbaεid
 tail-fox-spotlight-primary-button = Ldi iseɣwan-iw s { -brand-short-name }
 tail-fox-spotlight-secondary-button = Mačči tura
