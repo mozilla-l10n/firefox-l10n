@@ -63,7 +63,7 @@ neterror-dns-not-found-trr-only-timeout = La conexión a { $trrDomain } tomó m�
 neterror-dns-not-found-trr-offline = No está conectado a Internet.
 neterror-dns-not-found-trr-unknown-host2 = El sitio web no fue encontrado por { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Hubo un problema con { $trrDomain }.
-neterror-dns-not-found-bad-trr-url = URL invalida.
+neterror-dns-not-found-bad-trr-url = URL inválida.
 neterror-dns-not-found-trr-unknown-problem = Problema inesperado.
 
 ## Native fallback specific messages
