@@ -1302,6 +1302,16 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Mostra informazioni dettagliate
 
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Impostazioni per le pubblicità nei siti web
+
+website-advertising-private-attribution =
+    .label = Permetti ai siti web di effettuare misurazioni pubblicitarie nel rispetto della privacy
+    .accesskey = a
+
+website-advertising-private-attribution-description = Questo permette ai siti di valutare le prestazioni dei loro annunci senza raccogliere dati personali. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
