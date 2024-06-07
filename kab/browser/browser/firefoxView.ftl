@@ -183,6 +183,7 @@ firefoxview-search-results-count =
 firefoxview-search-results-empty = Ulac igmaḍ i “{ $query }”
 firefoxview-sort-history-by-date-label = Asmizzwer s wazemz
 firefoxview-sort-history-by-site-label = Smizzwer s usmel
+firefoxview-sort-open-tabs-by-order-label = Smizwer s waccaren
 # Variables:
 #   $url (string) - URL that will be opened in the new tab
 firefoxview-opentabs-tab-row =
