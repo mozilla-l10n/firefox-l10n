@@ -298,7 +298,6 @@ newtab-wallpaper-attribution = Foto di <a data-l10n-name="name-link">{ $author_s
 newtab-wallpaper-feature-highlight-header = Prova un tocco di colore
 newtab-wallpaper-feature-highlight-content = Dai un look diverso alle nuove schede con gli sfondi.
 newtab-wallpaper-feature-highlight-button = OK
-newtab-wallpaper-feature-highlight-dismiss = Chiudi
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
     .title = Chiudi
