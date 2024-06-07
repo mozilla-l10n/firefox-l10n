@@ -351,6 +351,7 @@ identity-connection-secure = Taɣellist n tuqqna
 identity-connection-failure = Tuqqna ur teddi ara
 identity-connection-internal = Wa d asebter { -brand-short-name } aɣelsan.
 identity-connection-file = Asebter-a yettwakles deg uselkim-inek.
+identity-connection-associated = Asebter-a yettwali-d seg usebter niḍen.
 identity-extension-page = Asebter-a yuli-d seg usiɣzef.
 identity-active-blocked = { -brand-short-name } issewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.
 identity-custom-root = Tuqqna tettwasentem sɣur amazan n uselkin ur yessin ara Mozilla.
@@ -569,6 +570,11 @@ urlbar-result-action-search-w-engine = Nadi s { $engine }:
 urlbar-result-action-sponsored = S lmendad
 urlbar-result-action-switch-tab = Ddu ɣer yiccer
 urlbar-result-action-visit = Rzu
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Uɣal ɣer yiccer · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Rzu seg tecfawt
 # Directs a user to press the Tab key to perform a search with the specified
