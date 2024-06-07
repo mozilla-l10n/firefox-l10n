@@ -4,6 +4,7 @@
 
 about-networking-title = เกี่ยวกับเครือข่าย
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = ล้างแคช HTTP
 about-networking-sockets = ซ็อกเก็ต
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = ล้างแคช DNS
