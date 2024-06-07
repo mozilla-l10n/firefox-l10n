@@ -36,5 +36,5 @@ default-browser-guidance-notification-body-instruction-win10 =
 default-browser-guidance-notification-body-instruction-win11 =
     Bước 1: Đi tới Cài đặt > Ứng dụng mặc định
     Bước 2: Chọn “Đặt làm mặc định” cho { -brand-short-name }
-default-browser-guidance-notification-info-page = Hiển thị cho tôi
+default-browser-guidance-notification-info-page = Hướng dẫn tôi
 default-browser-guidance-notification-dismiss = Xong
