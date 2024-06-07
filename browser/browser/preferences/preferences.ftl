@@ -270,7 +270,7 @@ choose-language-description = Escolha o idioma preferido para exibir páginas
 choose-button =
     .label = Selecionar…
     .accesskey = S
-choose-browser-language-description = Escolha o idioma usado para exibir os menus, mensagens e notificações do { -brand-short-name }
+choose-browser-language-description = Escolha o idioma usado para exibir menus, mensagens e notificações do { -brand-short-name }
 manage-browser-languages-button =
     .label = Definir alternativas…
     .accesskey = l
@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Incluir cartões de crédito e d�
     .accesskey = I
 autofill-saved-payment-methods-button = Métodos de pagamento salvos
     .accesskey = v
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Exigir autenticação do macOS para preencher e editar métodos de pagamento.
-        [windows] Exigir autenticação do Windows para preencher e editar métodos de pagamento.
-        [linux] Exigir autenticação do Linux para preencher e editar métodos de pagamento.
-       *[other] Exigir autenticação para preencher e editar métodos de pagamento.
-    }
-    .accesskey = x
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Requer autenticação do dispositivo para preencher e gerenciar métodos de pagamento
     .accesskey = o
