@@ -77,12 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = แสดงแท็บเพิ่มเติม
     .tooltiptext = แสดงแท็บเพิ่มเติมจากอุปกรณ์นี้
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label = แสดงแท็บที่ไม่ได้ใช้งาน { $count } แท็บ
-    .tooltiptext = แสดงแท็บที่ไม่ได้ใช้งานบนอุปกรณ์นี้
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = แท็บที่ไม่ได้ใช้งาน
+    .tooltiptext = ดูแท็บที่ไม่ได้ใช้งานในอุปกรณ์นี้
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ไม่มีแท็บที่เปิดอยู่
 # This is shown when Sync is configured but syncing tabs is disabled.

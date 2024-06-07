@@ -126,21 +126,20 @@ translations-manage-description = ดาวน์โหลดภาษาสำ�
 translations-manage-all-language = ภาษาทั้งหมด
 translations-manage-download-button = ดาวน์โหลด
 translations-manage-delete-button = ลบ
+translations-manage-intro-2 = ตั้งค่าการกำหนดลักษณะภาษาและการแปลไซต์ของคุณและจัดการภาษาที่ดาวน์โหลดสำหรับการแปลแบบออฟไลน์
+translations-manage-download-description = ดาวน์โหลดภาษาสำหรับการแปลแบบออฟไลน์
+translations-manage-language-download-button =
+    .label = ดาวน์โหลด
+translations-manage-language-download-all-button =
+    .label = ดาวน์โหลดทั้งหมด
+    .accesskey = ด
 translations-manage-language-remove-button =
     .label = ลบ
 translations-manage-language-remove-all-button =
     .label = เอาออกทั้งหมด
     .accesskey = e
-translations-manage-error-install = มีปัญหาในการติดตั้งไฟล์ภาษา โปรดลองอีกครั้ง
 translations-manage-error-download = เกิดปัญหาในการดาวน์โหลดไฟล์ภาษา โปรดลองอีกครั้ง
 translations-manage-error-delete = เกิดข้อผิดพลาดในการลบไฟล์ภาษา โปรดลองอีกครั้ง
-translations-manage-intro = ตั้งค่าการกำหนดลักษณะภาษาและการแปลไซต์ของคุณและจัดการภาษาที่ติดตั้งสำหรับการแปลแบบออฟไลน์
-translations-manage-install-description = ติดตั้งภาษาสำหรับการแปลแบบออฟไลน์
-translations-manage-language-install-button =
-    .label = ติดตั้ง
-translations-manage-language-install-all-button =
-    .label = ติดตั้งทั้งหมด
-    .accesskey = I
 translations-manage-error-remove = มีข้อผิดพลาดในการลบไฟล์ภาษาออก โปรดลองอีกครั้ง
 translations-manage-error-list = ไม่สามารถรับรายชื่อภาษาที่ใช้ได้สำหรับการแปล เรียกหน้านี้ใหม่เพื่อลองอีกครั้ง
 translations-settings-title =
@@ -170,12 +169,62 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = ปิด
     .buttonaccesskeyaccept = ป
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = แปลส่วนที่เลือก…
+    .accesskey = ป
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = แปลส่วนที่เลือกเป็นภาษา{ $language }
+    .accesskey = ป
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a yet-to-be-determined language.
+main-context-menu-translate-link-text =
+    .label = แปลข้อความลิงก์…
+    .accesskey = ป
+# Text displayed in the right-click context menu for translating
+# the text of a hyperlink to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-link-text-to-language =
+    .label = แปลข้อความลิงก์เป็นภาษา{ $language }
+    .accesskey = ป
+# Text displayed in the select translations panel header.
+select-translations-panel-header = การแปล
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = จาก
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = เป็น
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = ลองเลือกภาษาต้นฉบับอื่น
 select-translations-panel-cancel-button =
     .label = ยกเลิก
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = คัดลอก
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = คัดลอกแล้ว
+select-translations-panel-done-button =
+    .label = เสร็จสิ้น
+select-translations-panel-translate-full-page-button =
+    .label = แปลทั้งหน้า
 select-translations-panel-translate-button =
     .label = แปล
 select-translations-panel-try-again-button =
     .label = ลองอีกครั้ง
+# Text displayed as a placeholder when the panel is idle.
+select-translations-panel-idle-placeholder-text = ข้อความที่แปลจะปรากฏที่นี่
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = กำลังแปล…
+select-translations-panel-init-failure-message =
+    .message = ไม่สามารถโหลดภาษาได้ โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณแล้วลองอีกครั้ง
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = เกิดปัญหาในการแปล โปรดลองอีกครั้ง
@@ -189,3 +238,8 @@ select-translations-panel-unsupported-language-message-known =
     .message = ขออภัย เรายังไม่รองรับ { $language }
 select-translations-panel-unsupported-language-message-unknown =
     .message = ขออภัย เรายังไม่รองรับภาษานี้
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = การตั้งค่าการแปล
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = การแปลเสร็จสมบูรณ์

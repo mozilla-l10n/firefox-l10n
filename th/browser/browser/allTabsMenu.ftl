@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = ค้นหาแท็บ
-
 all-tabs-menu-new-user-context =
     .label = แท็บแยกข้อมูลใหม่
-
 all-tabs-menu-hidden-tabs =
     .label = แท็บที่ซ่อนอยู่
-
 all-tabs-menu-manage-user-context =
     .label = จัดการการแยกข้อมูล
     .accesskey = จ
+all-tabs-menu-close-duplicate-tabs =
+    .label = ปิดแท็บที่ซ้ำกัน
