@@ -20,6 +20,7 @@ contentanalysis-error-message-dropped-text = Drag og slipp nekta.
 contentanalysis-error-message-clipboard = Lim inn nekta.
 contentanalysis-error-message-print = Utskrift nekta.
 contentanalysis-block-dialog-title-upload-file = Du har ikkje løyve til å laste opp denne fila
+contentanalysis-block-dialog-title-clipboard = Du har ikkje løyve til å lime inn dette innhaldet
 contentanalysis-block-dialog-title-dropped-text = Du har ikkje løyve til å dra og sleppe dette innhaldet
 contentanalysis-inprogress-quit-title = Avslutte { -brand-shorter-name }?
 contentanalysis-inprogress-quit-yesbutton = Ja, avslutt
