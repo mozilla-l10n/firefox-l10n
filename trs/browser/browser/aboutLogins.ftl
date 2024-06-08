@@ -9,6 +9,7 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Giri 'ngo riña gayi'ì sesiûn nakàa
+about-logins-page-title-name = Da'nga' huìi
 fxaccounts-sign-in-text = Giri da'ngā huìi da' garasunt riña a'ngo aga'aj
 fxaccounts-sign-in-sync-button = Gāyi’ì sesión da’ nāgi’iaj gūñānt
 fxaccounts-avatar-button =
