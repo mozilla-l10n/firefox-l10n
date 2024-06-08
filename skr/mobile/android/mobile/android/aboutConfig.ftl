@@ -8,6 +8,7 @@ config-new-pref-name =
     .placeholder = ناں
 config-new-pref-value-boolean = بولین
 config-new-pref-value-string = تند
+config-new-pref-value-integer = صحیح عدد
 config-new-pref-string =
     .placeholder = ہک تند درج کرو
 config-new-pref-number =
