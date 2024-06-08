@@ -1310,7 +1310,7 @@ website-advertising-private-attribution =
     .label = Permetti ai siti web di effettuare misurazioni pubblicitarie nel rispetto della privacy
     .accesskey = a
 
-website-advertising-private-attribution-description = Questo permette ai siti di valutare le prestazioni dei loro annunci senza raccogliere dati personali. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
+website-advertising-private-attribution-description = Questo permette ai siti di valutare le prestazioni dei loro annunci senza raccogliere dati personali.
 
 ## Privacy Section - Security
 ##
