@@ -166,6 +166,7 @@ language-name-se = شمالی سامی
 language-name-sg = سانگو
 language-name-si = سنہالی
 language-name-sk = سلواک
+language-name-skr = سرائیکی
 language-name-sl = سلو وینی
 language-name-sm = ساموائی
 language-name-sn = شونا
