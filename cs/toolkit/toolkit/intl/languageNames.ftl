@@ -166,6 +166,7 @@ language-name-se = Severní sámština
 language-name-sg = Sangoština
 language-name-si = Sinhálština
 language-name-sk = Slovenština
+language-name-skr = Saraiki
 language-name-sl = Slovinština
 language-name-sm = Samojština
 language-name-sn = Šonština
