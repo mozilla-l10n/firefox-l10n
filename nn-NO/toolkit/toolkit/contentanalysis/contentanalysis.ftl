@@ -28,7 +28,7 @@ contentanalysis-invalid-agent-signature-message-content = Mislykka signaturstadf
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Opplasting av «{ $filename }» vart nekta.
-contentanalysis-error-message-dropped-text = Drag og slipp nekta.
+contentanalysis-error-message-dropped-text = Drag og slepp nekta.
 contentanalysis-error-message-clipboard = Lim inn nekta.
 contentanalysis-error-message-print = Utskrift nekta.
 contentanalysis-block-dialog-title-upload-file = Du har ikkje løyve til å laste opp denne fila
@@ -36,6 +36,8 @@ contentanalysis-block-dialog-title-upload-file = Du har ikkje løyve til å last
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = I samsvar med retningslinjene til organisasjonen for datavern har du ikkje løyve til å laste opp fila «{ $filename }». Kontakt administratoren din for meir informasjon.
 contentanalysis-block-dialog-title-clipboard = Du har ikkje løyve til å lime inn dette innhaldet
+contentanalysis-block-dialog-body-clipboard = I samsvar med retningslinjene til organisasjonen for datavern har du ikkje løyve til å lime inn dette innhaldet. Kontakt administratoren din for meir informasjon.
 contentanalysis-block-dialog-title-dropped-text = Du har ikkje løyve til å dra og sleppe dette innhaldet
+contentanalysis-block-dialog-body-dropped-text = I samsvar med retningslinjene til organisasjonen for datavern har du ikkje løyve til å drage og sleppe dette innhaldet. Kontakt administratoren din for meir informasjon.
 contentanalysis-inprogress-quit-title = Avslutte { -brand-shorter-name }?
 contentanalysis-inprogress-quit-yesbutton = Ja, avslutt
