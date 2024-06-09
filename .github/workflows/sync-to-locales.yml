@@ -5,6 +5,8 @@
 name: Sync from main to locale branches
 
 on:
+  schedule:
+    - cron: "0 4 * * *"
   workflow_dispatch:
 
 permissions:
