@@ -7,20 +7,20 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
-perftools-intro-title = Profiler Settings
+perftools-intro-title = Innstillingar
 perftools-intro-description =
     Recordings launch profiler.firefox.com in a new tab. All data is stored
     locally, but you can choose to upload it for sharing.
 
 ## All of the headings for the various sections.
 
-perftools-heading-settings = Full Settings
+perftools-heading-settings = Alle innstillingar
 perftools-heading-buffer = Buffer Settings
 perftools-heading-features = Features
 perftools-heading-features-default = Features (Recommended on by default)
 perftools-heading-features-disabled = Disabled Features
 perftools-heading-features-experimental = Experimental
-perftools-heading-threads = Threads
+perftools-heading-threads = Trådar
 perftools-heading-threads-jvm = JVM Threads
 perftools-heading-local-build = Local build
 
@@ -43,11 +43,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Buffer size:
-
 perftools-custom-threads-label = Add custom threads by name:
-
 perftools-devtools-interval-label = Interval:
-perftools-devtools-threads-label = Threads:
+perftools-devtools-threads-label = Trådar:
 perftools-devtools-settings-label = Settings
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
@@ -113,7 +111,6 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Bypass selections above and record all registered threads
-
 perftools-tools-threads-input-label =
     .title = These thread names are a comma separated list that is used to enable profiling of the threads in the profiler. The name needs to be only a partial match of the thread name to be included. It is whitespace sensitive.
 
@@ -121,7 +118,6 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>New</b>: { -profiler-brand-name } is now integrated into Developer Tools. <a>Learn more</a> about this powerful new tool.
-
 perftools-onboarding-close-button =
     .aria-label = Close the onboarding message
 
@@ -129,32 +125,27 @@ perftools-onboarding-close-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Web Developer
 perftools-presets-web-developer-description = Recommended preset for most web app debugging, with low overhead.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Recommended preset for profiling { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Graphics
 perftools-presets-graphics-description = Preset for investigating graphics bugs in { -brand-shorter-name }.
-
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
-
 perftools-presets-networking-label = Networking
 perftools-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Power
 perftools-presets-power-description = Preset for investigating power use bugs in { -brand-shorter-name }, with low overhead.
-
 perftools-presets-custom-label = Custom
 
 ##
