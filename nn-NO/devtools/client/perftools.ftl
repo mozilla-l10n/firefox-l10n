@@ -15,14 +15,14 @@ perftools-intro-description =
 ## All of the headings for the various sections.
 
 perftools-heading-settings = Alle innstillingar
-perftools-heading-buffer = Buffer Settings
+perftools-heading-buffer = Buffer-innstillingar
 perftools-heading-features = Features
-perftools-heading-features-default = Features (Recommended on by default)
-perftools-heading-features-disabled = Disabled Features
+perftools-heading-features-default = Funksjonar (tilrådd som standard)
+perftools-heading-features-disabled = Deaktiverte funksjonar
 perftools-heading-features-experimental = Experimental
 perftools-heading-threads = Trådar
 perftools-heading-threads-jvm = JVM Threads
-perftools-heading-local-build = Local build
+perftools-heading-local-build = Lokalt bygg
 
 ##
 
@@ -65,8 +65,8 @@ perftools-button-capture-recording = Capture recording
 perftools-button-cancel-recording = Cancel recording
 perftools-button-save-settings = Save settings and go back
 perftools-button-restart = Restart
-perftools-button-add-directory = Add a directory
-perftools-button-remove-directory = Remove selected
+perftools-button-add-directory = Legg til ei mappe
+perftools-button-remove-directory = Fjern valde
 perftools-button-edit-settings = Edit Settings…
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
