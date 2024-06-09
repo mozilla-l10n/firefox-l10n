@@ -67,5 +67,7 @@ contentanalysis-block-dialog-body-clipboard = I samsvar med retningslinjene til 
 contentanalysis-block-dialog-title-dropped-text = Du har ikkje løyve til å dra og sleppe dette innhaldet
 contentanalysis-block-dialog-body-dropped-text = I samsvar med retningslinjene til organisasjonen for datavern har du ikkje løyve til å drage og sleppe dette innhaldet. Kontakt administratoren din for meir informasjon.
 contentanalysis-block-dialog-title-print = Du har ikkje løyve til å skrive ut dette dokumentet
+contentanalysis-block-dialog-body-print = I samsvar med retningslinje til organisasjonen for datavern har du ikkje løyve til å skrive ut dette dokumentet. Kontakt administratoren din for meir informasjon.
 contentanalysis-inprogress-quit-title = Avslutte { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Fleire handlingar er i gang. Viss du avsluttar { -brand-shorter-name }, vil desse handlingene ikkje bli fullført.
 contentanalysis-inprogress-quit-yesbutton = Ja, avslutt
