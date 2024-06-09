@@ -7,6 +7,17 @@ contentanalysis-alert-title = Innhaldsanalyse
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = Innhaldsanalyseverktøyet brukar lang tid på å svare på ressursen «{ $content }»
 contentanalysis-slow-agent-dialog-header = Skanning i framdrift
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } granskar «{ $filename }» mot organisasjonens dataretningslinjer. Dette kan ta ein liten augneblink.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } granskar det du limte inn mot dataretningslinjene til organisasjonen. Dette kan ta ein liten augneblink.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } granskar teksten du har sleppt mot dataretningslinjene til organisasjonen. Dette kan ta ein liten augneblink.
 contentanalysis-operationtype-clipboard = utklippstavle
 contentanalysis-operationtype-dropped-text = sleppt tekst
 contentanalysis-operationtype-print = skriv ut
