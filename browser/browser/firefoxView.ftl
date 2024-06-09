@@ -240,6 +240,8 @@ firefoxview-recentlyclosed-empty-description = Itxitako azken fitxak hemen aurki
 
 firefoxview-syncedtabs-device-notabs = Irekitako fitxarik ez gailu honetan
 firefoxview-syncedtabs-connect-another-device = Konektatu beste gailu bat
+firefoxview-pinned-tabs =
+    .title = Ainguratutako fitxak
 firefoxview-tabs =
     .title = Fitxak
 

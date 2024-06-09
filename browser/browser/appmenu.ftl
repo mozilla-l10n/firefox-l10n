@@ -77,16 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Erakutsi fitxa gehiago
     .tooltiptext = Erakutsi gailu honetako fitxa gehiago
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Erakutsi fitxa inaktibo bat
-           *[other] Erakutsi { $count } fitxa inaktibo
-        }
-    .tooltiptext = Erakutsi gailu honetako fitxa inaktiboak
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Fitxa inaktiboak
+    .tooltiptext = Ikusi gailu honetako fitxa inaktiboak
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Irekitako fitxarik ez
 # This is shown when Sync is configured but syncing tabs is disabled.
