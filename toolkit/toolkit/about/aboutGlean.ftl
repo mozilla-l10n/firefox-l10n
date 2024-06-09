@@ -87,6 +87,11 @@ about-glean-adhoc-explanation =
     ved å opne ein devtools-konsoll her på <code>about:glean</code>
     og bruke <code>testGetValue()</code> API som
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Merk at når du brukar konsollen i utviklerverktøy, brukar du Glean JS API-et.
+    Dette betyr at analyseresultatkategoriar og namn vert formaterte
+    med <code>camelCase</code> i motsetning til i Rust- og i C++-API-ane.
 controls-button-label-verbose = Bruk innstillingar og send inn ping
 about-glean-about-data-header = Om data
 about-glean-about-data-explanation =
