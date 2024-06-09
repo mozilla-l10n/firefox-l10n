@@ -209,7 +209,18 @@ shopping-callout-opted-out-button = Eg forstår
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Prøv den pålitelege guiden vår for produktvurderingar
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Sjå kor pålitelege produktvurderingar er på <b>{ $currentSite }</b> før du handlar. Vurderingskontrolløren, ein eksperimentell funksjon frå { -brand-product-name }, er innebygd rett i nettlesaren. Han fungerer på <b>{ $secondSite }</b> og <b>{ $thirdSite }</b> også.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Sjå kor pålitelege produktvurderingar er på <b>{ $currentSite }</b> før du handlar. Vurderingskontrollør, ein eksperimentell funksjon frå { -brand-product-name }, er innebygd rett i nettlesaren.
 shopping-onboarding-body = Ved å bruke krafta i { -fakespot-brand-full-name } hjelper vi deg med å unngå einsidige og ikkje-truverdige vurderingar. AI-modellen vår vert alltid forbetra for å beskytte deg når du handlar. <a data-l10n-name="learn_more">Les meir</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Ved å velje «{ shopping-onboarding-opt-in-button }» godtek du { -brand-product-name } si <a data-l10n-name="privacy_policy">personvernerklæring</a> og { -fakespot-brand-name } sine <a data-l10n-name="terms_of_use">brukarvilkår.</a>
 shopping-onboarding-opt-in-button = Ja, prøv det
 shopping-onboarding-not-now-button = Ikkje no
 shopping-onboarding-dialog-close-button =
