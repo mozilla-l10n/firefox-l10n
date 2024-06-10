@@ -9,3 +9,9 @@ console-stacktrace-anonymous-function = <anonymous>
 # Variables:
 #   $name (String): user-defined name for the timer
 console-timer-start = { $name }: ٹائمر شروع
+# This string is used to display the result of the console.timeEnd() call.
+#
+# Variables:
+#   $name (String): user-defined name for the timer
+#   $duration (String): number of milliseconds
+console-timer-end = { $name }: { $duration }ms
