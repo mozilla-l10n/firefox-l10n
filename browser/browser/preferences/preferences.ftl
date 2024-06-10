@@ -205,6 +205,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Kendu edukiontzia
 containers-remove-cancel-button = Ez kendu edukiontzia
+settings-tabs-show-image-in-preview =
+    .label = Erakutsi aurrebista-irudia sagua fitxaren gainetik pasatzean
+    .accessKey = b
 
 ## General Section - Language & Appearance
 

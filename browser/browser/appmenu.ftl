@@ -271,3 +271,7 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = Hasi saioa zure kontuan
 appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Maskaratu zure benetako helbide elektronikoa eta telefonoa
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Babestu lineako zure jarduera
