@@ -6,3 +6,6 @@
 ## Web Console API (in GeckoViewConsole.sys.mjs)
 
 console-stacktrace-anonymous-function = <anonymous>
+# Variables:
+#   $name (String): user-defined name for the timer
+console-timer-start = { $name }: ٹائمر شروع
