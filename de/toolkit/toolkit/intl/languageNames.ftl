@@ -166,6 +166,7 @@ language-name-se = Nordsaamisch
 language-name-sg = Sango-Sprache
 language-name-si = Singhalesisch
 language-name-sk = Slowakisch
+language-name-skr = Saraiki
 language-name-sl = Slowenisch
 language-name-sm = Samoanisch
 language-name-sn = Schona-Sprache
