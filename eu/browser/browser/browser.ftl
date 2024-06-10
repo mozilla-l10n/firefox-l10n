@@ -567,6 +567,11 @@ urlbar-result-action-search-w-engine = Bilatu { $engine } erabiliz
 urlbar-result-action-sponsored = Babesleak hornituta
 urlbar-result-action-switch-tab = Aldatu fitxara
 urlbar-result-action-visit = Bisitatu
+# "Switch to tab with container" is used when the target tab is located in a
+# different container.
+# Variables
+# $container (String): the name of the target container
+urlbar-result-action-switch-tab-with-container = Aldatu fitxara · <span>{ $container }</span>
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Bisitatu arbeletik
 # Directs a user to press the Tab key to perform a search with the specified
@@ -899,6 +904,7 @@ restore-session-startup-suggestion-button = Erakuts iezadazu nola
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Zure erakundeak blokeatu egin du ordenagailu honetako fitxategi lokaletarako sarbidea
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

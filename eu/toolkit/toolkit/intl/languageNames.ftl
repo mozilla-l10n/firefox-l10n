@@ -166,6 +166,7 @@ language-name-se = Iparraldeko Samiera
 language-name-sg = Sangroa
 language-name-si = Zingaliera
 language-name-sk = Eslovakiera
+language-name-skr = Saraiki
 language-name-sl = Esloveniera
 language-name-sm = Samoera
 language-name-sn = Shonaera
