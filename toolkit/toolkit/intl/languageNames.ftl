@@ -166,6 +166,7 @@ language-name-se = Самии шимолӣ
 language-name-sg = Санго
 language-name-si = Сингалӣ
 language-name-sk = Словакӣ
+language-name-skr = Сарайкӣ
 language-name-sl = Словенӣ
 language-name-sm = Самоанӣ
 language-name-sn = Шона
