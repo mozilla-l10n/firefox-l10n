@@ -293,6 +293,37 @@ newtab-wallpaper-dark-panda = 숲속에 숨어있는 레서판다
 newtab-wallpaper-dark-sky = 밤하늘이 있는 도시 풍경
 newtab-wallpaper-dark-mountain = 산 풍경
 newtab-wallpaper-dark-city = 보라색 도시 풍경
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = 단색
+newtab-wallpaper-blue = 파란색
+newtab-wallpaper-light-blue = 하늘색
+newtab-wallpaper-light-purple = 연보라색
+newtab-wallpaper-light-green = 연두색
+newtab-wallpaper-green = 녹색
+newtab-wallpaper-beige = 베이지색
+newtab-wallpaper-yellow = 노란색
+newtab-wallpaper-orange = 주황색
+newtab-wallpaper-pink = 분홍색
+newtab-wallpaper-light-pink = 연분홍색
+newtab-wallpaper-red = 빨간색
+newtab-wallpaper-dark-blue = 진청색
+newtab-wallpaper-dark-purple = 진보라
+newtab-wallpaper-dark-green = 진녹색
+newtab-wallpaper-brown = 갈색
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = 추상
+newtab-wallpaper-abstract-green = 녹색 모양
+newtab-wallpaper-abstract-blue = 파란색 모양
+newtab-wallpaper-abstract-purple = 보라색 모양
+newtab-wallpaper-abstract-orange = 주황색 모양
+newtab-wallpaper-gradient-orange = 주황색과 분홍색 그라데이션
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
