@@ -54,6 +54,7 @@ mr1-onboarding-theme-header = Err-it d ayla-k·m
 mr1-onboarding-theme-subtitle = Err { -brand-short-name } d udmawan s usentel.
 mr1-onboarding-theme-secondary-button-label = Mačči tura
 newtab-wallpaper-onboarding-title = Ɛreḍ aṛuccu n yini
+newtab-wallpaper-onboarding-subtitle = Fren tugna n ugilal i wakken ad tmuddeḍ udem niḍen i yiccer amaynut.
 newtab-wallpaper-onboarding-primary-button-label = Sbadu tugna n ugilal
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Asentel n unagraw
@@ -333,5 +334,8 @@ onboarding-new-user-survey-next-button-label = Ɣer zdat
 onboarding-new-user-survey-time-based-option-2 = Ur yewwiḍ ara 1 wayyur
 onboarding-new-user-survey-time-based-option-3 = Uagr n 1 wayyut, yal tikkelt
 onboarding-new-user-survey-time-based-option-4 = Uagr n 1 wayyut, sya ɣer da
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-familiarity-based-option-1 = Ad bduɣ kan
 onboarding-new-user-survey-familiarity-based-option-2 = Sqedceɣ-t cwiṭ
 onboarding-new-user-survey-familiarity-based-option-3 = Ssneɣ-t akken ilaq
+onboarding-new-user-survey-familiarity-based-option-4 = Sqedceɣ-t yakan, maca ddeqs aya.
