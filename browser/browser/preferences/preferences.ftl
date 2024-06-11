@@ -879,12 +879,18 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sumer daɣen rnu awalen uffiren iǧehden
     .accesskey = S
+forms-suggest-passwords =
+    .label = SuƔer awalen n uεeddi iǧehden
+    .accesskey = S
 forms-breach-alerts =
     .label = Sken ilɣa i wawalen uffiren n yismal i teɛna trewla n yisefka
     .accesskey = k
 forms-breach-alerts-learn-more-link = Issin ugar
 preferences-relay-integration-checkbox =
     .label = Sumer igelmusen n yimayl { -relay-brand-name } i ummesten n tansa-k·m n yimayl
+preferences-relay-integration-checkbox2 =
+    .label = Sumer igelmusen n yimayl { -relay-brand-name } i ummesten n tansa-k·m n yimayl
+    .accesskey = r
 relay-integration-learn-more-link = Issin ugar
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -893,12 +899,19 @@ forms-fill-logins-and-passwords =
 forms-saved-logins =
     .label = Inekcumen yettwakelsen…
     .accesskey = e
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-usernames-and-passwords =
+    .label = Smed s wudem awurman ismawen n useqdac d wawalen n uεeddi
+    .accesskey = S
 forms-saved-passwords =
     .label = Awalen uffiren yettwakelsen
     .accesskey = d
 forms-primary-pw-use =
     .label = Seqdec awal uffir agejdan
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Ssuter tuqqna ɣer yibenk i wakken ad tesferkeḍ awalen n uεeddi
 forms-primary-pw-learn-more-link = Issin ugar
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -919,6 +932,7 @@ forms-windows-sso =
     .label = Issirig anekcum asuf n Windows i yimiḍanen n Microsoft n umahel, d uɣerbaz
 forms-windows-sso-learn-more-link = Issin ugar
 forms-windows-sso-desc = Sefrek imiḍanen deg yiɣewwaren n yibenk-ik·im
+windows-passkey-settings-label = Sefrek tisura n unekcum deg yiɣewwaren n unagraw
 
 ## OS Authentication dialog
 
@@ -930,6 +944,7 @@ primary-password-os-auth-dialog-message-win = Akken ad ternuḍ awal-inek·inem 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = rnu awal uffir agejdan
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -938,6 +953,12 @@ autofill-addresses-checkbox = Sekles; teččareḍ tansiwin
     .accesskey = a
 autofill-saved-addresses-button = Tansiwin ittwakelsen
     .accesskey = T
+autofill-payment-methods-checkbox-message = Sekles syen ččar tarrayin n uxelleṣ
+    .accesskey = r
+autofill-payment-methods-checkbox-submessage = Deg-s tikarḍiwin n lbenkat
+    .accesskey = D
+autofill-saved-payment-methods-button = Isseklas tarrayin n uxelleṣ
+    .accesskey = s
 
 ## Privacy Section - History
 
