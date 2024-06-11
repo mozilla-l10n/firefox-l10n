@@ -196,6 +196,8 @@ about-logins-export-password-os-auth-dialog-message-win = Pred izvozom prijav vn
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = export saved logins and passwords
+# This message can be seen when attempting to export a password in about:logins on Windows.
+about-logins-export-password-os-auth-dialog-message2-win = Pred izvozom gesel vnesite svoje podatke za prijavo v sistem Windows. To je ukrep za zagotavljanje varnosti vaših računov.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message2-macosx = izvoziti shranjena gesla
@@ -214,6 +216,8 @@ confirmation-dialog-dismiss-button =
     .title = Prekliči
 about-logins-confirm-remove-dialog-title = Odstranim to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
+# Title for modal to confirm the removal of one saved password
+about-logins-confirm-delete-dialog-title = Odstranim geslo?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Tega dejanja ne boste mogli razveljaviti.
 about-logins-confirm-remove-dialog-confirm-button = Odstrani
@@ -267,13 +271,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] S tem boste odstranili vse prijave, ki ste jih shranili v { -brand-short-name }, na vseh napravah, sinhroniziranih z vašim { -fxaccount-brand-name }om. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
        *[other] S tem boste odstranili vse prijave, ki ste jih shranili v { -brand-short-name }, na vseh napravah, sinhroniziranih z vašim { -fxaccount-brand-name }om. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
     }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [one] S tem boste odstranili prijavo, ki ste jo shranili v { -brand-short-name(sklon: "tozilnik") }, na vseh napravah, sinhroniziranih z vašim računom. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
-        [two] S tem boste odstranili vse prijave, ki ste jih shranili v { -brand-short-name(sklon: "tozilnik") }, na vseh napravah, sinhroniziranih z vašim računom. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
-        [few] S tem boste odstranili vse prijave, ki ste jih shranili v { -brand-short-name(sklon: "tozilnik") }, na vseh napravah, sinhroniziranih z vašim računom. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
-       *[other] S tem boste odstranili vse prijave, ki ste jih shranili v { -brand-short-name(sklon: "tozilnik") }, na vseh napravah, sinhroniziranih z vašim računom. S tem boste odstranili tudi opozorila o krajah podatkov, ki se prikažejo tukaj. Tega dejanja ne boste mogli razveljaviti.
-    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -281,6 +278,30 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [two] Da, odstrani gesli
         [few] Da, odstrani gesla
        *[other] Da, odstrani gesla
+    }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 =
+    { $count ->
+        [one] Odstranim { $count } geslo?
+        [two] Odstranim { $count } gesli?
+        [few] Odstranim vsa { $count } gesla?
+       *[other] Odstranim vseh { $count } gesel?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [one] S tem boste odstranili geslo, shranjeno v { -brand-short-name(sklon: "tozilnik") }, in vsa morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+        [two] S tem boste odstranili gesli, shranjeni v { -brand-short-name(sklon: "tozilnik") }, in vsa morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+        [few] S tem boste odstranili gesla, shranjena v { -brand-short-name(sklon: "tozilnik") }, in vsa morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+       *[other] S tem boste odstranili gesla, shranjena v { -brand-short-name(sklon: "tozilnik") }, in vsa morebitna opozorila o krajah podatkov. Dejanja ni mogoče razveljaviti.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Odstranim { $count } geslo z vseh naprav?
+        [two] Odstranim { $count } gesli z vseh naprav?
+        [few] Odstranim { $count } gesla z vseh naprav?
+       *[other] Odstranim { $count } gesel z vseh naprav?
     }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =

@@ -5,13 +5,12 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Išči zavihke
-
 all-tabs-menu-new-user-context =
     .label = Nov vsebniški zavihek
-
 all-tabs-menu-hidden-tabs =
     .label = Skriti zavihki
-
 all-tabs-menu-manage-user-context =
     .label = Upravljanje vsebnikov
     .accesskey = U
+all-tabs-menu-close-duplicate-tabs =
+    .label = Zapri podvojene zavihke

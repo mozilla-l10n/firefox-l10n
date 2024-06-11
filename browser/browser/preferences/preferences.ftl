@@ -605,6 +605,9 @@ home-prefs-recent-activity-description = Izbor nedavnih spletnih mest in vsebin
 home-prefs-snippets-header =
     .label = Izrezki
 home-prefs-snippets-description-new = Nasveti in novice od { -vendor-short-name(sklon: "rodilnik") } in { -brand-product-name(sklon: "rodilnik") }
+home-prefs-weather-header =
+    .label = Vreme
+home-prefs-weather-learn-more-link = Več o tem
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -920,6 +923,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Uporabi glavno geslo
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Zahtevaj prijavo v napravi za izpolnjevanje in upravljanje gesel
 forms-primary-pw-learn-more-link = Več o tem
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -951,6 +957,7 @@ primary-password-os-auth-dialog-message-win = Če želite ustvariti glavno geslo
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = create a Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -965,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Vključuje kreditne in debetne ka
     .accesskey = k
 autofill-saved-payment-methods-button = Shranjena plačilna sredstva
     .accesskey = h
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Pred izpolnjevanjem in urejanjem plačilnih sredstev zahtevaj preverjanje istovetnosti macOS.
-        [windows] Pred izpolnjevanjem in urejanjem plačilnih sredstev zahtevaj preverjanje istovetnosti Windows.
-        [linux] Pred izpolnjevanjem in urejanjem plačilnih sredstev zahtevaj Linuxovo preverjanje istovetnosti.
-       *[other] Pred izpolnjevanjem in urejanjem plačilnih sredstev zahtevaj preverjanje istovetnosti.
-    }
-    .accesskey = o
 
 ## Privacy Section - History
 

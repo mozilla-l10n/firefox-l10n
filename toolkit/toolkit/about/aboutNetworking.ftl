@@ -4,6 +4,7 @@
 
 about-networking-title = O omrežjih
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Počisti predpomnilnik HTTP
 about-networking-sockets = Vtičnice
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Počisti predpomnilnik DNS

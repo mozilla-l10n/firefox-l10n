@@ -24,6 +24,10 @@ contentanalysis-genericresponse-message = Analiza vsebine je na vir { $content }
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = Vaša organizacija uporablja programsko opremo za preprečevanje izgube podatkov, ki je blokirala to vsebino: { $content }.
 # Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Preverjanje podpisa za { $agent } neuspešno. { $content }
+# Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = Nalaganje datoteke "{ $filename }" zavrnjeno.
 contentanalysis-error-message-dropped-text = Vlečenje in spuščanje zavrnjeno.
