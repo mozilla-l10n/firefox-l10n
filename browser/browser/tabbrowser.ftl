@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Ново јазиче
-
 tabbrowser-menuitem-close-tab =
     .label = Затвори јазиче
 tabbrowser-menuitem-close =
@@ -13,6 +12,20 @@ tabbrowser-menuitem-close =
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+# Variables:
+#   $shortcut (String): The keyboard shortcut for "Mute tab".
+tabbrowser-mute-tab-audio-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Замолчи јазиче ({ $shortcut })
+           *[other] Замолчи { $tabCount } јазичиња ({ $shortcut })
+        }
+tabbrowser-mute-tab-audio-background-tooltip =
+    .label =
+        { $tabCount ->
+            [one] Замолчи јазиче
+           *[other] Замолчи { $tabCount } јазичиња
+        }
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -32,14 +45,27 @@ tabbrowser-confirm-close-tabs-button = Затвори ги јазичињата
 ## Confirmation dialog for enabling caret browsing
 
 
+## Confirmation dialog for closing all duplicate tabs
+
+
 ##
 
 tabbrowser-customizemode-tab-title = Прилагодување на { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
 
+tabbrowser-context-mute-tab =
+    .label = Замолчи јазиче
+    .accesskey = M
+# The accesskey should match the accesskey for tabbrowser-context-mute-tab
+tabbrowser-context-mute-selected-tabs =
+    .label = Замолчи јазичиња
+    .accesskey = M
 
 ## Ctrl-Tab dialog
 
+
 ## Tab manager menu buttons
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Замолчи јазиче
