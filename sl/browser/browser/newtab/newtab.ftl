@@ -273,6 +273,9 @@ newtab-custom-recent-subtitle = Izbor nedavnih spletnih mest in vsebin
 newtab-custom-recent-toggle =
     .label = Nedavna dejavnost
     .description = Izbor nedavnih spletnih mest in vsebin
+newtab-custom-weather-toggle =
+    .label = Vreme
+    .description = Današnja napoved vedno na očeh
 newtab-custom-close-button = Zapri
 newtab-custom-settings = Več nastavitev
 
@@ -283,7 +286,11 @@ newtab-wallpaper-reset = Ponastavi privzeto
 newtab-wallpaper-light-red-panda = Mačji panda
 newtab-wallpaper-light-mountain = Bela gora
 newtab-wallpaper-light-sky = Nebo z vijoličastimi in rožnatimi oblaki
+newtab-wallpaper-light-color = Modri, rožnati in rumeni liki
+newtab-wallpaper-light-landscape = Gorska pokrajina z modrimi meglicami
+newtab-wallpaper-light-beach = Plaža s palmo
 newtab-wallpaper-dark-aurora = Severni sij
+newtab-wallpaper-dark-color = Rdeči in modri liki
 newtab-wallpaper-dark-panda = Mačji panda, skrit v gozdu
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -292,3 +299,7 @@ newtab-wallpaper-attribution = Avtor fotografije: <a data-l10n-name="name-link">
 
 ## New Tab Weather
 
+newtab-weather-menu-hide-weather = Skrij vreme na novem zavihku
+newtab-weather-menu-learn-more = Več o tem
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Podatki o vremenu trenutno niso na voljo.
