@@ -392,6 +392,20 @@ support-printing-modified-settings = 수정한 인쇄 설정
 support-printing-prefs-name = 이름
 support-printing-prefs-value = 값
 
+## Remote Settings sections
+
+support-remote-settings-title = 원격 설정
+support-remote-settings-status = 상태
+support-remote-settings-status-ok = 확인
+# Status when synchronization is not working.
+support-remote-settings-status-broken = 작동 안 함
+support-remote-settings-last-check = 마지막 확인
+support-remote-settings-local-timestamp = 로컬 타임스탬프
+support-remote-settings-sync-history = 기록
+support-remote-settings-sync-history-status = 상태
+support-remote-settings-sync-history-datetime = 날짜
+support-remote-settings-sync-history-infos = 정보
+
 ## Normandy sections
 
 support-remote-experiments-title = 원격 실험
