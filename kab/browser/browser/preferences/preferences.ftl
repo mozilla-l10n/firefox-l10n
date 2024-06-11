@@ -565,6 +565,8 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Iwelleh-it-id { $provider }
 home-prefs-recommended-by-description-new = Agbur ufrin i s-yettusuddsen sɣur { $provider }, d aḥric seg twacult { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Tiqsiḍin yelhan
 
 ##
 
@@ -591,6 +593,8 @@ home-prefs-recent-activity-description = Tafrant n yismal d ugbur n melmi kan
 home-prefs-snippets-header =
     .label = Tiwzillin
 home-prefs-snippets-description-new = Iwellihen d yisallen sɣur { -vendor-short-name } akked { -brand-product-name }
+home-prefs-weather-header =
+    .label = Tagnawt
 home-prefs-weather-learn-more-link = Issin ugar
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -706,6 +710,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Beddel tugna n umaɣnu
     .alt = Beddel tugna n umaɣnu
+sync-profile-picture-account-problem =
+    .alt = Tugna n umaɣnu n umiḍan
 fxa-login-rejected-warning =
     .alt = Alɣu
 sync-sign-out =
@@ -794,6 +800,10 @@ sync-engine-logins-passwords =
     .label = Inekcam d wawalen uffiren
     .tooltiptext = Ismawen n yiseqdacen akked wawalen uffiren i teskelseḍ
     .accesskey = I
+sync-engine-passwords =
+    .label = Awalen n uεeddi
+    .tooltiptext = Awalen n uεeddi i teskelseḍ
+    .accesskey = A
 sync-engine-addresses =
     .label = Tansiwin
     .tooltiptext = Tansiwin n lpusṭa i teskelseḍ (aselkim kan)
@@ -802,6 +812,10 @@ sync-engine-creditcards =
     .label = Tikarḍiwin n usmad
     .tooltiptext = Ismawen, imḍanen akked yizemziyen ifaten (aselkim kan)
     .accesskey = G
+sync-engine-payment-methods2 =
+    .label = Tarrayin n uxelleṣ
+    .tooltiptext = Ismawen, uṭṭunen n tkarḍa akked wazemz n taggara
+    .accesskey = n
 sync-engine-addons =
     .label = Izegrar
     .tooltiptext = Iseɣzaf akked yisental i Firefox n uselkim
@@ -851,6 +865,14 @@ forms-ask-to-save-logins =
 
 ## Privacy Section - Passwords
 
+# "Logins" is the former term for "Passwords". Users should find password settings
+# by searching for the former term "logins". It's not displayed in the UI.
+pane-privacy-passwords-header = Awalen uffiren
+    .searchkeywords = Inekcam
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-passwords =
+    .label = Ssuter asekles n wawalen n uεeddi
+    .accesskey = S
 forms-exceptions =
     .label = Tisuraf…
     .accesskey = r
