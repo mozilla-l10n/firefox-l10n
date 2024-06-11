@@ -294,10 +294,59 @@ newtab-wallpaper-dark-panda = Röd panda dold i skogen
 newtab-wallpaper-dark-sky = Stadslandskap med en natthimmel
 newtab-wallpaper-dark-mountain = Landskap med berg
 newtab-wallpaper-dark-city = Lila stadslandskap
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Enfärgade färger
+newtab-wallpaper-blue = Blå
+newtab-wallpaper-light-blue = Ljusblå
+newtab-wallpaper-light-purple = Ljuslila
+newtab-wallpaper-light-green = Ljusgrön
+newtab-wallpaper-green = Grön
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Gul
+newtab-wallpaper-orange = Orange
+newtab-wallpaper-pink = Rosa
+newtab-wallpaper-light-pink = Ljus rosa
+newtab-wallpaper-red = Röd
+newtab-wallpaper-dark-blue = Mörkt blå
+newtab-wallpaper-dark-purple = Mörkt lila
+newtab-wallpaper-dark-green = Mörkt grön
+newtab-wallpaper-brown = Brun
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstrakt
+newtab-wallpaper-abstract-green = Gröna former
+newtab-wallpaper-abstract-blue = Blå former
+newtab-wallpaper-abstract-purple = Lila former
+newtab-wallpaper-abstract-orange = Orange former
+newtab-wallpaper-gradient-orange = Gradient orange och rosa
+newtab-wallpaper-abstract-blue-purple = Blå och lila former
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Fotografier
+newtab-wallpaper-beach-at-sunrise = Strand vid soluppgången
+newtab-wallpaper-beach-at-sunset = Strand vid solnedgången
+newtab-wallpaper-storm-sky = Storm himlen
+newtab-wallpaper-sky-with-pink-clouds = Himmel med rosa moln
+newtab-wallpaper-red-panda-yawns-in-a-tree = Röd panda gäspar i ett träd
+newtab-wallpaper-white-mountains = Vita berg
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto av <a data-l10n-name="name-link">{ $author_string }</a> från <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Prova en skvätt färg
+newtab-wallpaper-feature-highlight-content = Ge din Nya flik ett fräscht utseende med bakgrundsbilder.
+newtab-wallpaper-feature-highlight-button = Jag förstår
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Ignorera
+    .aria-label = Stäng popup
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
