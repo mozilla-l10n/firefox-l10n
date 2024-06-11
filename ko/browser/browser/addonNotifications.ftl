@@ -120,3 +120,5 @@ addon-local-install-error-not-signed = 이 부가 기능은 확인되지 않았�
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName }는 { -brand-short-name } { $appVersion }에서 돌아가지 않으므로 설치할 수 없습니다.
 addon-install-error-blocklisted = { $addonName }는 불안정하게 만들고 보안 문제를 일으킬 것으로 보여 설치할 수 없습니다.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = 최종 사용자로 { $addonName } 부가 기능을 설치할 수 없으며, 엔터프라이즈 정책을 사용하는 조직에서만 설치할 수 있습니다.
