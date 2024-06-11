@@ -198,6 +198,7 @@ newtab-section-header-recent-activity = Azken jarduera
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } hornitzaileak gomendatuta
+newtab-section-header-stories = Hausnartzeko moduko istorioak
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -264,6 +265,9 @@ newtab-custom-recent-subtitle = Azken gune eta edukien hautapena
 newtab-custom-recent-toggle =
     .label = Azken jarduera
     .description = Azken gune eta edukien hautapena
+newtab-custom-weather-toggle =
+    .label = Eguraldia
+    .description = Gaurko eguraldi-iragarpena
 newtab-custom-close-button = Itxi
 newtab-custom-settings = Kudeatu ezarpen gehiago
 
@@ -272,6 +276,7 @@ newtab-custom-settings = Kudeatu ezarpen gehiago
 newtab-wallpaper-title = Horma-paperak
 newtab-wallpaper-reset = Berrezarri lehenespenera
 newtab-wallpaper-light-red-panda = Panda gorria
+newtab-wallpaper-light-mountain = Mendi zuria
 newtab-wallpaper-dark-aurora = Aurora boreala
 
 ## New Tab Weather

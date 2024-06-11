@@ -54,6 +54,7 @@ mr1-onboarding-theme-header = Moldatu zure erara
 mr1-onboarding-theme-subtitle = Pertsonalizatu { -brand-short-name } itxura batekin.
 mr1-onboarding-theme-secondary-button-label = Une honetan ez
 newtab-wallpaper-onboarding-title = Probatu kolore ukitu bat
+newtab-wallpaper-onboarding-primary-button-label = Ezarri horma-papera
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Sistemaren itxura
 mr1-onboarding-theme-label-light = Argia
@@ -332,6 +333,11 @@ onboarding-device-migration-primary-button-label = Hasi saioa
 
 ## The following screens have been updated to use security and privacy focused strings:
 
+# Easy setup screen
+onboarding-easy-setup-security-and-privacy-title = Zu seguru mantentzea dugu xede
+onboarding-easy-setup-security-and-privacy-subtitle = Irabazi asmorik gabeko erakundeak babestutako gure nabigatzaileak laguntzen du eragozten enpresek zure webeko jarraipena sekretupean egin dezaten.
+# Mobile download screen
+onboarding-mobile-download-security-and-privacy-title = Mantendu zifratzea gailuen artean salto egitean
 
 ## New user time and familiarity survey strings
 
