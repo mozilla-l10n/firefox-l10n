@@ -321,13 +321,31 @@ newtab-wallpaper-abstract-blue = 파란색 모양
 newtab-wallpaper-abstract-purple = 보라색 모양
 newtab-wallpaper-abstract-orange = 주황색 모양
 newtab-wallpaper-gradient-orange = 주황색과 분홍색 그라데이션
+newtab-wallpaper-abstract-blue-purple = 파란색과 보라색 모양
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = 사진
+newtab-wallpaper-beach-at-sunrise = 일출의 해변
+newtab-wallpaper-beach-at-sunset = 석양의 해변
+newtab-wallpaper-storm-sky = 폭풍우 하늘
+newtab-wallpaper-sky-with-pink-clouds = 분홍색 구름의 하늘
+newtab-wallpaper-red-panda-yawns-in-a-tree = 나무 위에서 하품하는 레서판다
+newtab-wallpaper-white-mountains = 하얀 산
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_string }</a>에 있는 <a data-l10n-name="name-link">{ $author_string }</a>의 사진
+newtab-wallpaper-feature-highlight-header = 다채로운 색상 사용해보기
+newtab-wallpaper-feature-highlight-content = 배경화면으로 새 탭을 산뜻하게 꾸며보세요.
+newtab-wallpaper-feature-highlight-button = 확인
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = 닫기
+    .aria-label = 팝업 닫기
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
