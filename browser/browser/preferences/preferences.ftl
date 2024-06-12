@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Несиелік және деб�
     .accesskey = и
 autofill-saved-payment-methods-button = Сақталған төлем әдістері
     .accesskey = т
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Төлем әдістерін толтыру және түзету үшін macOS аутентификациясын талап ету.
-        [windows] Төлем әдістерін толтыру және түзету үшін Windows аутентификациясын талап ету.
-        [linux] Төлем әдістерін толтыру және түзету үшін Linux аутентификациясын талап ету.
-       *[other] Төлем әдістерін толтыру және түзету үшін аутентификацияны талап ету.
-    }
-    .accesskey = о
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Төлем әдістерін толтыру және басқару үшін құрылғыға кіруді талап ету
     .accesskey = д
@@ -1309,6 +1301,10 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ұсыныстарын қолдану
 privacy-segmentation-radio-on =
     .label = Толық ақпаратты көрсету
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Веб-сайтты жарнамалау баптаулары
 
 ## Privacy Section - Security
 ##
