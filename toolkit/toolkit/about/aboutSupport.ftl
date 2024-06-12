@@ -415,6 +415,19 @@ support-printing-modified-settings = Paramètres d’impression modifiés
 support-printing-prefs-name = Nom
 support-printing-prefs-value = Valeur
 
+## Remote Settings sections
+
+support-remote-settings-status = État
+support-remote-settings-status-ok = OK
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Ne fonctionne pas
+support-remote-settings-last-check = Dernière vérification
+support-remote-settings-local-timestamp = Horodatage local
+support-remote-settings-sync-history = Historique
+support-remote-settings-sync-history-status = État
+support-remote-settings-sync-history-datetime = Date
+support-remote-settings-sync-history-infos = Informations
+
 ## Normandy sections
 
 support-remote-experiments-title = Expériences à distance
