@@ -43,7 +43,7 @@ update-internal-error2 = Det gick inte att söka efter uppdateringar på grund a
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Du finns för närvarande på uppdateringskanalen <label data-l10n-name="current-channel">{ $channel }</label>uppdaterings kanal.
+aboutdialog-channel-description = Du finns för närvarande på uppdateringskanalen <label data-l10n-name="current-channel">{ $channel }</label>.
 warningDesc-version = { -brand-short-name } är experimentell och kan vara instabil.
 aboutdialog-help-user = { -brand-product-name } Hjälp
 aboutdialog-submit-feedback = Skicka in återkoppling
