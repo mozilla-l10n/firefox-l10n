@@ -321,13 +321,32 @@ newtab-wallpaper-abstract-green = Green shapes
 newtab-wallpaper-abstract-blue = Blue shapes
 newtab-wallpaper-abstract-purple = Purple shapes
 newtab-wallpaper-abstract-orange = Orange shapes
+newtab-wallpaper-gradient-orange = Gradient orange and pink
+newtab-wallpaper-abstract-blue-purple = Blue and purple shapes
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Photographs
+newtab-wallpaper-beach-at-sunrise = Beach at sunrise
+newtab-wallpaper-beach-at-sunset = Beach at sunset
+newtab-wallpaper-storm-sky = Storm sky
+newtab-wallpaper-sky-with-pink-clouds = Sky with pink clouds
+newtab-wallpaper-red-panda-yawns-in-a-tree = Red panda yawns in a tree
+newtab-wallpaper-white-mountains = White mountains
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Photo by <a data-l10n-name="name-link">{ $author_string }</a> on <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Try a splash of colour
+newtab-wallpaper-feature-highlight-content = Give your New Tab a fresh look with wallpapers.
+newtab-wallpaper-feature-highlight-button = Got it
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Dismiss
+    .aria-label = Close popup
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
