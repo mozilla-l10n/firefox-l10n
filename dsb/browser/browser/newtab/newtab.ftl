@@ -312,12 +312,25 @@ newtab-wallpaper-pink = Pink
 newtab-wallpaper-light-pink = Swětłopink
 newtab-wallpaper-red = Cerwjeny
 newtab-wallpaper-dark-blue = Śamnomódry
+newtab-wallpaper-dark-purple = Śamnowioletny
+newtab-wallpaper-dark-green = Śamnozeleny
+newtab-wallpaper-brown = Bruny
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstraktne
+newtab-wallpaper-abstract-green = Zelene formy
+newtab-wallpaper-abstract-blue = Módre formy
+newtab-wallpaper-abstract-purple = Wioletne formy
+newtab-wallpaper-abstract-orange = Oranžowe formy
+newtab-wallpaper-gradient-orange = Woběžk oranžowy a pink
+newtab-wallpaper-abstract-blue-purple = Módre a wioletne formy
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fota
+newtab-wallpaper-beach-at-sunrise = Pśibrjog pśi zejźenju słyńca
+newtab-wallpaper-beach-at-sunset = Pśibrjog pśi schowanju słyńca
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
