@@ -980,14 +980,6 @@ autofill-payment-methods-checkbox-submessage = Zapřijima kreditne a debetowe ka
     .accesskey = Z
 autofill-saved-payment-methods-button = Składowane płaćenske metody
     .accesskey = d
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Awtentifikaciju macOS za wupjelnjenje a wobdźěłowanje płaćenskich metodow žadać.
-        [windows] Awtentifikaciju Windows za wupjelnjenje a wobdźěłowanje płaćenskich metodow žadać.
-        [linux] Awtentifikaciju Linux za wupjelnjenje a wobdźěłowanje płaćenskich metodow žadać.
-       *[other] Awtentifikaciju za wupjelnjenje a wobdźěłowanje płaćenskich metodow žadać.
-    }
-    .accesskey = A
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Gratowe přizjewjenje za wupjelnjenje a rjadowanje płaćenskich metodow žadać
     .accesskey = r
@@ -1317,6 +1309,10 @@ privacy-segmentation-radio-off =
     .label = Doporučenja { -brand-product-name } wužiwać
 privacy-segmentation-radio-on =
     .label = Nadrobne informacije pokazać
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Nastajenja za wabjenje websydła
 
 ## Privacy Section - Security
 ##
