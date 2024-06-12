@@ -290,10 +290,59 @@ newtab-wallpaper-dark-panda = Panda roux caché dans la forêt
 newtab-wallpaper-dark-sky = Paysage de ville avec un ciel nocturne
 newtab-wallpaper-dark-mountain = Paysage de montagne
 newtab-wallpaper-dark-city = Paysage de ville avec une teinte violette
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Couleurs unies
+newtab-wallpaper-blue = Bleu
+newtab-wallpaper-light-blue = Bleu clair
+newtab-wallpaper-light-purple = Violet clair
+newtab-wallpaper-light-green = Vert clair
+newtab-wallpaper-green = Vert
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Jaune
+newtab-wallpaper-orange = Orange
+newtab-wallpaper-pink = Rose
+newtab-wallpaper-light-pink = Rose clair
+newtab-wallpaper-red = Rouge
+newtab-wallpaper-dark-blue = Bleu foncé
+newtab-wallpaper-dark-purple = Violet foncé
+newtab-wallpaper-dark-green = Vert foncé
+newtab-wallpaper-brown = Marron
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstrait
+newtab-wallpaper-abstract-green = Formes vertes
+newtab-wallpaper-abstract-blue = Formes bleues
+newtab-wallpaper-abstract-purple = Formes violettes
+newtab-wallpaper-abstract-orange = Formes oranges
+newtab-wallpaper-gradient-orange = Dégradé d’orange et de rose
+newtab-wallpaper-abstract-blue-purple = Formes bleues et violettes
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Photos
+newtab-wallpaper-beach-at-sunrise = Plage au lever du soleil
+newtab-wallpaper-beach-at-sunset = Plage au coucher du soleil
+newtab-wallpaper-storm-sky = Ciel orageux
+newtab-wallpaper-sky-with-pink-clouds = Ciel avec des nuages roses
+newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda roux qui baille sur un arbre
+newtab-wallpaper-white-mountains = Montagnes blanches
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Photo de <a data-l10n-name="name-link">{ $author_string }</a> sur <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Essayez une touche de couleur
+newtab-wallpaper-feature-highlight-content = Donnez un nouveau look à votre page Nouvel onglet avec des fonds d’écran.
+newtab-wallpaper-feature-highlight-button = J’ai compris
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Ignorer
+    .aria-label = Fermer la pop-up
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
