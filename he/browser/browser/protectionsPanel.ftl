@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = מידע נוסף על הגנת מעקב מתקדמת
 protections-panel-etp-on-header = הגנת מעקב מתקדמת פעילה עבור אתר זה
 protections-panel-etp-off-header = הגנת מעקב מתקדמת כבויה עבור אתר זה
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = האתר לא עובד?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = האתר לא עובד?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -37,11 +42,6 @@ protections-panel-etp-toggle-off =
     .label = הגנת מעקב מתקדמת
     .description = כבויה עבור אתר זה
     .aria-label = הגנת מעקב מתקדמת: כבויה עבור { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = האתר לא עובד?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = האתר לא עובד?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -106,7 +106,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = דיווח על אתר שבור
 protections-panel-content-blocking-breakage-report-view-description = חסימת רכיבי מעקב מסויימים עשויה לגרום לתקלות במגוון אתרים. דיווח על הבעיות האלה מסייע בשיפור { -brand-short-name } לטובת הכלל. בדיווח זה יישלחו ל־Mozilla כתובת האתר ומידע על הגדרות הדפדפן שלך. <label data-l10n-name="learn-more">מידע נוסף</label>
-protections-panel-content-blocking-breakage-report-view-description2 = חסימת רכיבי מעקב מסויימים עשויה לגרום לתקלות במגוון אתרים. דיווח על הבעיות האלה מסייע בשיפור { -brand-short-name } לטובת הכלל. בדיווח זה יישלחו ל־{ -vendor-short-name } כתובת האתר ומידע על הגדרות הדפדפן שלך.
 protections-panel-content-blocking-breakage-report-view-collection-url = כתובת
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = כתובת
@@ -137,7 +136,7 @@ protections-panel-cookie-banner-blocker-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = להשבית חוסם כרזות עוגיות לאתר { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = להפעיל חוסם כרזות עוגיות לאתר הזה?
-protections-panel-cookie-banner-view-cookie-clear-warning = ‏{ -brand-short-name } ינקה את העוגיות של אתר זה וירענן את הדף. ניקוי כל העוגית עשוי לנתק את החשבון שלך מהאתר או לרוקן את עגלת הקניות שלך.
+protections-panel-cookie-banner-view-cookie-clear-warning = ‏{ -brand-short-name } ינקה את העוגיות של אתר זה וירענן את הדף. ניקוי כל העוגיות עשוי לנתק את החשבון שלך מהאתר או לרוקן את עגלת הקניות שלך.
 protections-panel-cookie-banner-view-turn-on-description = ‏ { -brand-short-name } מנסה לדחות באופן אוטומטי את כל בקשות העוגיות באתרים נתמכים.
 protections-panel-cookie-banner-view-cancel = ביטול
 protections-panel-cookie-banner-view-turn-off = כיבוי
