@@ -288,6 +288,36 @@ newtab-wallpaper-dark-panda = פנדה אדומה חבויה ביער
 newtab-wallpaper-dark-sky = נוף עיר עם שמי לילה
 newtab-wallpaper-dark-mountain = נוף הררי
 newtab-wallpaper-dark-city = נוף עירוני סגול
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = צבעים אחידים
+newtab-wallpaper-blue = כחול
+newtab-wallpaper-light-blue = כחול בהיר
+newtab-wallpaper-light-purple = סגול בהיר
+newtab-wallpaper-light-green = ירוק בהיר
+newtab-wallpaper-green = ירוק
+newtab-wallpaper-beige = בז’
+newtab-wallpaper-yellow = צהוב
+newtab-wallpaper-orange = כתום
+newtab-wallpaper-pink = ורוד
+newtab-wallpaper-light-pink = ורוד בהיר
+newtab-wallpaper-red = אדום
+newtab-wallpaper-dark-blue = כחול כהה
+newtab-wallpaper-dark-purple = סגול כהה
+newtab-wallpaper-dark-green = ירוק כהה
+newtab-wallpaper-brown = חום
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = מופשט
+newtab-wallpaper-abstract-green = צורות ירוקות
+newtab-wallpaper-abstract-blue = צורות כחולות
+newtab-wallpaper-abstract-purple = צורות סגולות
+newtab-wallpaper-abstract-orange = צורות כתומות
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
