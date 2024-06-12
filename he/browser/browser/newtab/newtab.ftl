@@ -315,13 +315,32 @@ newtab-wallpaper-abstract-green = צורות ירוקות
 newtab-wallpaper-abstract-blue = צורות כחולות
 newtab-wallpaper-abstract-purple = צורות סגולות
 newtab-wallpaper-abstract-orange = צורות כתומות
+newtab-wallpaper-gradient-orange = מעברי צבע כתום וורוד
+newtab-wallpaper-abstract-blue-purple = צורות כחולות וסגולות
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = תצלומים
+newtab-wallpaper-beach-at-sunrise = זריחה בחוף הים
+newtab-wallpaper-beach-at-sunset = שקיעה בחוף הים
+newtab-wallpaper-storm-sky = שמיים סוערים
+newtab-wallpaper-sky-with-pink-clouds = שמיים עם עננים ורודים
+newtab-wallpaper-red-panda-yawns-in-a-tree = פנדה אדומה מפהקת בעץ
+newtab-wallpaper-white-mountains = הרים לבנים
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = תמונה מאת <a data-l10n-name="name-link">{ $author_string }</a> ב־<a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = אולי איזה מגע של צבע
+newtab-wallpaper-feature-highlight-content = תנו ללשונית החדשה שלכם מראה רענן עם תמונות רקע.
+newtab-wallpaper-feature-highlight-button = הבנתי
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = סגירה
+    .aria-label = סגירת ההודעה הקופצת
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
