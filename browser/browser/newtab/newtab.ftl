@@ -293,6 +293,7 @@ newtab-wallpaper-dark-city = 紫色城市風景
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = 純色
 newtab-wallpaper-blue = 藍色
 newtab-wallpaper-light-blue = 淺藍色
 newtab-wallpaper-light-purple = 淺紫色

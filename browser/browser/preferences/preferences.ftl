@@ -960,14 +960,6 @@ autofill-payment-methods-checkbox-submessage = 包含信用卡與 Debit Card
     .accesskey = I
 autofill-saved-payment-methods-button = 儲存的付款方式
     .accesskey = v
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] 需要進行 macOS 驗證才能填寫或編輯付款方式資訊。
-        [windows] 需要進行 Windows 驗證才能填寫或編輯付款方式資訊。
-        [linux] 需要進行 Linux 驗證才能填寫或編輯付款方式資訊。
-       *[other] 需要進行驗證才能填寫或編輯付款方式資訊。
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = 需要裝置登入才能填寫與管理付款資訊
     .accesskey = o
@@ -1297,6 +1289,14 @@ privacy-segmentation-radio-off =
     .label = 使用 { -brand-product-name } 推薦設定
 privacy-segmentation-radio-on =
     .label = 顯示詳細資訊
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = 網站廣告偏好設定
+website-advertising-private-attribution =
+    .label = 允許網站進行能保護隱私的廣告成效測量
+    .accesskey = a
+website-advertising-private-attribution-description = 此功能可在不收集您資料的前提下，幫助網站了解廣告成效。
 
 ## Privacy Section - Security
 ##
