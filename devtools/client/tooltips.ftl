@@ -17,6 +17,7 @@ learn-more = <span data-l10n-name="link">Dalšne informacije</span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo daniž kontejner flex daniž kontejner grid.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž njejo kontejner flex, kśidnowy kontejner abo wěcejsłupikojty kontejner.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo wěcejsłupikojty kontejner.
+inactive-css-column-span = <strong>{ $property }</strong> na toś ten element žedno wopśimujuce wustatkowanje njama, dokulaž njejo we wěcejsłupikojtem kontejnerje.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo daniž zapisk grid daniž zapisk flex.
 inactive-css-not-grid-item = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo zapisk grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo kontejner grid.

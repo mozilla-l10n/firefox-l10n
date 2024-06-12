@@ -980,14 +980,6 @@ autofill-payment-methods-checkbox-submessage = Zapśimujo kreditowe a debetowe k
     .accesskey = Z
 autofill-saved-payment-methods-button = Skłaźone płaśeńske metody
     .accesskey = k
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Awtentificěrowanje macOS za wupołnjenje a wobźěłowanje płaśeńskich metodow pominaś.
-        [windows] Awtentificěrowanje Windows za wupołnjenje a wobźěłowanje płaśeńskich metodow pominaś.
-        [linux] Awtentificěrowanje Linux za wupołnjenje a wobźěłowanje płaśeńskich metodow pominaś.
-       *[other] Awtentificěrowanje za wupołnjenje a wobźěłowanje płaśeńskich metodow pominaś.
-    }
-    .accesskey = t
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Rědowe pśizjawjenje za wupołnjenje a zastojanje płaśeńskcih metodow pominaś
     .accesskey = d
@@ -1317,6 +1309,14 @@ privacy-segmentation-radio-off =
     .label = Dopórucenja { -brand-product-name } wužywaś
 privacy-segmentation-radio-on =
     .label = Detailěrowane informacije pokazaś
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Nastajenja za wabjenje websedła
+website-advertising-private-attribution =
+    .label = Websedłam dowóliś, wabjeńske měrjenje pśewjasć, kótarež priwatnosć wobchowujo
+    .accesskey = b
+website-advertising-private-attribution-description = To websedłam pomaga rozměś, kak jich wabjenje funkcioněrujo, bźez togo aby se daty wó was gromaźili.
 
 ## Privacy Section - Security
 ##
