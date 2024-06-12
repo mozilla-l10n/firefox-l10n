@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Omvat creditcards en bankpassen
     .accesskey = a
 autofill-saved-payment-methods-button = Opgeslagen betalingsmethoden
     .accesskey = l
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] macOS-authenticatie vereisen voor het invullen en bewerken van betalingsmethoden.
-        [windows] Windows-authenticatie vereisen voor het invullen en bewerken van betalingsmethoden.
-        [linux] Linux-authenticatie vereisen voor het invullen en bewerken van betalingsmethoden.
-       *[other] Authenticatie vereisen voor het invullen en bewerken van betalingsmethoden.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Apparaataanmelding voor invullen en beheren van betalingsmethoden vereisen
     .accesskey = m
@@ -1309,6 +1301,14 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name }-aanbevelingen gebruiken
 privacy-segmentation-radio-on =
     .label = Detailinformatie tonen
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Website-advertentievoorkeuren
+website-advertising-private-attribution =
+    .label = Websites toestaan privacybeschermende advertentiemetingen uit te voeren
+    .accesskey = a
+website-advertising-private-attribution-description = Dit helpt websites te begrijpen hoe hun advertenties presteren zonder gegevens over u te verzamelen.
 
 ## Privacy Section - Security
 ##

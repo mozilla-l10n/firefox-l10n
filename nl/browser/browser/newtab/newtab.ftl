@@ -294,10 +294,59 @@ newtab-wallpaper-dark-panda = Rode panda verborgen in bos
 newtab-wallpaper-dark-sky = Stadslandschap met een nachtelijke hemel
 newtab-wallpaper-dark-mountain = Landschap met berg
 newtab-wallpaper-dark-city = Paars stadslandschap
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Effen kleuren
+newtab-wallpaper-blue = Blauw
+newtab-wallpaper-light-blue = Lichtblauw
+newtab-wallpaper-light-purple = Lichtpaars
+newtab-wallpaper-light-green = Lichtgroen
+newtab-wallpaper-green = Groen
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Geel
+newtab-wallpaper-orange = Oranje
+newtab-wallpaper-pink = Roze
+newtab-wallpaper-light-pink = Lichtroze
+newtab-wallpaper-red = Rood
+newtab-wallpaper-dark-blue = Donkerblauw
+newtab-wallpaper-dark-purple = Donkerpaars
+newtab-wallpaper-dark-green = Donkergroen
+newtab-wallpaper-brown = Bruin
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstract
+newtab-wallpaper-abstract-green = Groene vormen
+newtab-wallpaper-abstract-blue = Blauwe vormen
+newtab-wallpaper-abstract-purple = Paarse vormen
+newtab-wallpaper-abstract-orange = Oranje vormen
+newtab-wallpaper-gradient-orange = Verloop oranje en roze
+newtab-wallpaper-abstract-blue-purple = Blauwe en paarse vormen
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Foto’s
+newtab-wallpaper-beach-at-sunrise = Strand bij zonsopgang
+newtab-wallpaper-beach-at-sunset = Strand bij zonsondergang
+newtab-wallpaper-storm-sky = Onweerslucht
+newtab-wallpaper-sky-with-pink-clouds = Lucht met roze wolken
+newtab-wallpaper-red-panda-yawns-in-a-tree = Rode panda gaapt in een boom
+newtab-wallpaper-white-mountains = Witte bergen
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto door <a data-l10n-name="name-link">{ $author_string }</a> op <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Probeer een vleugje kleur
+newtab-wallpaper-feature-highlight-content = Geef uw Nieuw-tabbladpagina een frisse uitstraling met achtergronden.
+newtab-wallpaper-feature-highlight-button = Begrepen
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Sluiten
+    .aria-label = Pop-up sluiten
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
