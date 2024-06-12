@@ -298,16 +298,49 @@ newtab-wallpaper-light-blue = 淺藍色
 newtab-wallpaper-light-purple = 淺紫色
 newtab-wallpaper-light-green = 淺綠色
 newtab-wallpaper-green = 綠色
+newtab-wallpaper-beige = 米色
+newtab-wallpaper-yellow = 黃色
+newtab-wallpaper-orange = 橘色
+newtab-wallpaper-pink = 粉紅色
+newtab-wallpaper-light-pink = 淺粉紅色
+newtab-wallpaper-red = 紅色
+newtab-wallpaper-dark-blue = 深藍色
+newtab-wallpaper-dark-purple = 深紫色
+newtab-wallpaper-dark-green = 深綠色
+newtab-wallpaper-brown = 棕色
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = 抽象派
+newtab-wallpaper-abstract-green = 綠色造型
+newtab-wallpaper-abstract-blue = 藍色造型
+newtab-wallpaper-abstract-purple = 紫色造型
+newtab-wallpaper-abstract-orange = 橘色造型
+newtab-wallpaper-gradient-orange = 橘色粉紅色漸層
+newtab-wallpaper-abstract-blue-purple = 藍色紫色造型
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = 相片
+newtab-wallpaper-beach-at-sunrise = 海邊日出
+newtab-wallpaper-beach-at-sunset = 海邊日落
+newtab-wallpaper-storm-sky = 暴風雨的天空
+newtab-wallpaper-sky-with-pink-clouds = 有粉紅色雲朵的天空
+newtab-wallpaper-red-panda-yawns-in-a-tree = 在樹上打呵欠的小貓熊
+newtab-wallpaper-white-mountains = 白色山脈
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = 相片由 <a data-l10n-name="name-link">{ $author_string }</a> 於 <a data-l10n-name="webpage-link">{ $webpage_string }</a> 提供
+newtab-wallpaper-feature-highlight-header = 試用新色彩
+newtab-wallpaper-feature-highlight-button = 知道了！
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = 隱藏
+    .aria-label = 關閉彈出視窗
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
