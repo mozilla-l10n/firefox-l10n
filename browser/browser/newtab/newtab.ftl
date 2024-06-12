@@ -338,6 +338,15 @@ newtab-wallpaper-white-mountains = Hvít fjöll
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Ljósmynd eftir <a data-l10n-name="name-link">{ $author_string }</a> á <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Prófaðu skvettu af lit
+newtab-wallpaper-feature-highlight-content = Gefðu nýja flipanum þínum ferskt útlit með bakgrunnum.
+newtab-wallpaper-feature-highlight-button = Ég skil!
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Afgreiða
+    .aria-label = Loka sprettglugga
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
