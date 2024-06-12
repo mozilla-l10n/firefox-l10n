@@ -144,3 +144,5 @@ addon-local-install-error-not-signed = Tutón přidatk njeda so instalować, dok
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } njeda so instalować, dokelž z { -brand-short-name } { $appVersion } kompatibelny njeje.
 addon-install-error-blocklisted = { $addonName } njeda so instalować, dokelž je wulke riziko, zo wón stabilnostne abo wěstotne problemy zawinuje.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = NJemóžeće { $addonName } jako kónčny wužiwar instalować, da so jenož wot organizacije z pomocu předewzaćelskich prawidłow instalować.
