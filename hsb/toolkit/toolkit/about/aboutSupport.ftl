@@ -422,6 +422,19 @@ support-printing-modified-settings = Změnjene ćišćerske nastajenja
 support-printing-prefs-name = Mjeno
 support-printing-prefs-value = Hódnota
 
+## Remote Settings sections
+
+support-remote-settings-status = Status
+support-remote-settings-status-ok = W porjadku
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Njefungowacy
+support-remote-settings-last-check = Poslednja kontrola
+support-remote-settings-local-timestamp = Lokalny časowy kołk
+support-remote-settings-sync-history = Historija
+support-remote-settings-sync-history-status = Status
+support-remote-settings-sync-history-datetime = Datum
+support-remote-settings-sync-history-infos = Informacije
+
 ## Normandy sections
 
 support-remote-experiments-title = Zdalene eksperimenty

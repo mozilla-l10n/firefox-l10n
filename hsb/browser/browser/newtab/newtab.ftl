@@ -333,10 +333,22 @@ newtab-wallpaper-beach-at-sunrise = Brjóh při schadźenju słónca
 newtab-wallpaper-beach-at-sunset = Brjóh při chowanju słónca
 newtab-wallpaper-storm-sky = Wichorowe njebjo
 newtab-wallpaper-sky-with-pink-clouds = Njebjo z róžowymi mróčelemi
+newtab-wallpaper-red-panda-yawns-in-a-tree = Čerwjeny panda w štomje zywa
+newtab-wallpaper-white-mountains = Běłe hory
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto wot <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Wupruwujće barbowy woplusk
+newtab-wallpaper-feature-highlight-content = Dajće swojemu nowemu rajtarkej čerstwy napohlad z pozadkowymi wobrazami.
+newtab-wallpaper-feature-highlight-button = Sym zrozumił
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Zaćisnyć
+    .aria-label = Wuskakowace wokno začinić
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
