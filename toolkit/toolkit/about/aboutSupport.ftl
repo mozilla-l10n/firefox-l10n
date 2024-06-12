@@ -424,6 +424,7 @@ support-printing-prefs-value = Hódnota
 
 ## Remote Settings sections
 
+support-remote-settings-title = Zdalene nastajenja
 support-remote-settings-status = Status
 support-remote-settings-status-ok = W porjadku
 # Status when synchronization is not working.
