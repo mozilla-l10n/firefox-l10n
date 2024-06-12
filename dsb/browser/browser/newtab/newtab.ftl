@@ -296,6 +296,28 @@ newtab-wallpaper-dark-panda = Cerwjeny panda w lěsu schowany
 newtab-wallpaper-dark-sky = Měsćańska krajina z nocnym njebjom
 newtab-wallpaper-dark-mountain = Górinowa krajina
 newtab-wallpaper-dark-city = Wioletna měsćańska krajina
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Jadnotne barwy
+newtab-wallpaper-blue = Módry
+newtab-wallpaper-light-blue = Swětłomódry
+newtab-wallpaper-light-purple = Swětłowioletny
+newtab-wallpaper-light-green = Swětłozeleny
+newtab-wallpaper-green = Zeleny
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Žołty
+newtab-wallpaper-orange = Oranžowy
+newtab-wallpaper-pink = Pink
+newtab-wallpaper-light-pink = Swětłopink
+newtab-wallpaper-red = Cerwjeny
+newtab-wallpaper-dark-blue = Śamnomódry
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
