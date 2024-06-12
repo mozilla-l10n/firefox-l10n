@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Hitel- és bankkártyák belevét
     .accesskey = b
 autofill-saved-payment-methods-button = Mentett fizetési módok
     .accesskey = z
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] MacOS-hitelesítés megkövetelése a kitöltéshez és a fizetési módok szerkesztéséhez.
-        [windows] Windows-hitelesítés megkövetelése a kitöltéshez és a fizetési módok szerkesztéséhez.
-        [linux] Linux-hitelesítés megkövetelése a kitöltéshez és a fizetési módok szerkesztéséhez.
-       *[other] Hitelesítés megkövetelése a kitöltéshez és a fizetési módok szerkesztéséhez.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Az eszköz által biztosított bejelentkezés megkövetelése a fizetési módok kitöltéséhez és kezeléséhez
     .accesskey = o
@@ -1309,6 +1301,14 @@ privacy-segmentation-radio-off =
     .label = A{ -brand-product-name } javaslatainak használata
 privacy-segmentation-radio-on =
     .label = Részletes információk megjelenítése
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Webhely hirdetési beállításai
+website-advertising-private-attribution =
+    .label = Engedélyezés a webhelyek számára, hogy adatvédelmet védő hirdetésmérést végezzenek
+    .accesskey = E
+website-advertising-private-attribution-description = Ez anélkül segít a webhelyeknek megérteni, hogyan teljesítenek a hirdetéseik, hogy adatokat gyűjtenének Önről.
 
 ## Privacy Section - Security
 ##
