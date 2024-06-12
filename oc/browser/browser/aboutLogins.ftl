@@ -114,6 +114,7 @@ login-intro-instructions-fxa-settings = Anatz als Paramètres > Sincronizacion >
 login-intro-instructions-fxa-passwords-help = Consultatz <a data-l10n-name="passwords-help-link">l’assisténcia dels senhals</a> per mai d’ajuda.
 about-logins-intro-browser-only-import = Se vòstres identificants son salvats dins un autre navegador, podètz <a data-l10n-name="import-link">los importar dins { -brand-product-name }</a>
 about-logins-intro-import2 = Se vòstres identificants de connexion e senhals son salvats al defòra de { -brand-product-name }, podètz <a data-l10n-name="import-browser-link">los importar d‘un autre navegador estant</a> o <a data-l10n-name="import-file-link"> a partir d’un fichièr</a>
+about-logins-intro-import3 = Seleccionatz lo boton amb lo signe plus per apondre un senhal ara. Podètz tanben <a data-l10n-name="import-browser-link">los importar d‘un autre navegador estant</a> o <a data-l10n-name="import-file-link"> a partir d’un fichièr</a>.
 
 ## Login
 
@@ -124,6 +125,7 @@ login-item-edit-button = Modificar
 about-logins-login-item-remove-button = Suprimir
 login-item-origin-label = Adreça web
 login-item-tooltip-message = Asseguratz-vos que correspond a l’adreça exacta del site web ont vos autentificatz.
+about-logins-origin-tooltip2 = Picatz l’adreça exacta e asseguratz-vos que correspond exactament a çò de la connexion.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Asseguratz-vos d’enregistrar vòstre senhal actual per aqueste site. Lo cambiar aquí lo càmbia pas sus { $webTitle }.
