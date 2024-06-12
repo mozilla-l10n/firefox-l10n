@@ -327,9 +327,9 @@ newtab-wallpaper-abstract-blue-purple = Blå och lila former
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Fotografier
-newtab-wallpaper-beach-at-sunrise = Strand vid soluppgången
-newtab-wallpaper-beach-at-sunset = Strand vid solnedgången
-newtab-wallpaper-storm-sky = Storm himlen
+newtab-wallpaper-beach-at-sunrise = Strand vid soluppgång
+newtab-wallpaper-beach-at-sunset = Strand vid solnedgång
+newtab-wallpaper-storm-sky = Stormhimlen
 newtab-wallpaper-sky-with-pink-clouds = Himmel med rosa moln
 newtab-wallpaper-red-panda-yawns-in-a-tree = Röd panda gäspar i ett träd
 newtab-wallpaper-white-mountains = Vita berg

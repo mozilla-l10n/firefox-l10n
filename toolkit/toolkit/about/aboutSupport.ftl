@@ -424,7 +424,7 @@ support-remote-settings-local-timestamp = Lokal tidsstämpel
 support-remote-settings-sync-history = Historik
 support-remote-settings-sync-history-status = Status
 support-remote-settings-sync-history-datetime = Datum
-support-remote-settings-sync-history-infos = Infos
+support-remote-settings-sync-history-infos = Info
 
 ## Normandy sections
 
