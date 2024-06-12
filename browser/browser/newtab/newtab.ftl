@@ -296,6 +296,7 @@ newtab-wallpaper-dark-city = Paisagem de cidade em tonalidade violeta
 newtab-wallpaper-category-title-colors = Cores sólidas
 newtab-wallpaper-blue = Azul
 newtab-wallpaper-light-blue = Azul claro
+newtab-wallpaper-light-purple = Roxo claro
 newtab-wallpaper-light-green = Verde claro
 newtab-wallpaper-green = Verde
 newtab-wallpaper-beige = Bege
@@ -305,14 +306,16 @@ newtab-wallpaper-pink = Rosa
 newtab-wallpaper-light-pink = Rosa claro
 newtab-wallpaper-red = Vermelho
 newtab-wallpaper-dark-blue = Azul escuro
+newtab-wallpaper-dark-purple = Roxo escuro
 newtab-wallpaper-dark-green = Verde escuro
 newtab-wallpaper-brown = Marrom
 
 ## Abstract
 
 newtab-wallpaper-category-title-abstract = Abstrato
-newtab-wallpaper-abstract-green = Formas verde
-newtab-wallpaper-abstract-blue = Formas azul
+newtab-wallpaper-abstract-green = Formas em tons de verde
+newtab-wallpaper-abstract-blue = Formas em tons de azul
+newtab-wallpaper-abstract-purple = Formas em tons de roxo
 newtab-wallpaper-abstract-orange = Formas laranja
 newtab-wallpaper-gradient-orange = Gradiente laranja e rosa
 newtab-wallpaper-abstract-blue-purple = Formas azul e roxo
@@ -320,10 +323,26 @@ newtab-wallpaper-abstract-blue-purple = Formas azul e roxo
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Fotos
+newtab-wallpaper-beach-at-sunrise = Praia ao amanhecer
+newtab-wallpaper-beach-at-sunset = Praia ao pôr do sol
+newtab-wallpaper-storm-sky = Céu de tempestade
+newtab-wallpaper-sky-with-pink-clouds = Céu com nuvens cor-de-rosa.
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda vermelho boceja em uma árvore
+newtab-wallpaper-white-mountains = Montanhas brancas
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto de <a data-l10n-name="name-link">{ $author_string }</a> em <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Experimente um toque de cores
+newtab-wallpaper-feature-highlight-content = Dê um novo visual à página de nova aba com fundos de tela.
+newtab-wallpaper-feature-highlight-button = OK
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Descartar
+    .aria-label = Fechar aviso
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
