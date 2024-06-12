@@ -290,6 +290,20 @@ newtab-wallpaper-dark-panda = 隱藏在森林中的小貓熊
 newtab-wallpaper-dark-sky = 城市的夜空景觀
 newtab-wallpaper-dark-mountain = 山景
 newtab-wallpaper-dark-city = 紫色城市風景
+
+## Solid Colors
+
+newtab-wallpaper-blue = 藍色
+newtab-wallpaper-light-blue = 淺藍色
+newtab-wallpaper-light-purple = 淺紫色
+newtab-wallpaper-light-green = 淺綠色
+newtab-wallpaper-green = 綠色
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
