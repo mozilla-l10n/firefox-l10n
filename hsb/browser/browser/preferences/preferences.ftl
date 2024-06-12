@@ -1313,6 +1313,9 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Nastajenja za wabjenje websydła
+website-advertising-private-attribution =
+    .label = Websydłam dowolić, wabjenske měrjenje přewjesć, kotrež priwatnosć wobchowuje
+    .accesskey = d
 website-advertising-private-attribution-description = To websydłam pomha rozumić, kak jich wabjenje funguje, bjeztoho zo bychu so daty wo was hromadźili.
 
 ## Privacy Section - Security
