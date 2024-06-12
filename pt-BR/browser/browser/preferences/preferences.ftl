@@ -1305,7 +1305,10 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Preferências de publicidade em sites
-website-advertising-private-attribution-description = Isso ajuda a sites a entender o desempenho de seus anúncios sem coletar dados sobre você.
+website-advertising-private-attribution =
+    .label = Permitir que sites façam medição de publicidade, respeitando a privacidade.
+    .accesskey = P
+website-advertising-private-attribution-description = Isso ajuda sites a entender o desempenho de seus anúncios sem coletar dados sobre você.
 
 ## Privacy Section - Security
 ##
