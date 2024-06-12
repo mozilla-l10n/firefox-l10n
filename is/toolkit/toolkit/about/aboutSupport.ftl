@@ -412,6 +412,20 @@ support-printing-modified-settings = Breyttar prentstillingar
 support-printing-prefs-name = Heiti
 support-printing-prefs-value = Gildi
 
+## Remote Settings sections
+
+support-remote-settings-title = Fjarstillingar
+support-remote-settings-status = Staða
+support-remote-settings-status-ok = Í lagi
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Ekki að virka
+support-remote-settings-last-check = Síðasta athugun
+support-remote-settings-local-timestamp = Staðbundið tímamerki
+support-remote-settings-sync-history = Ferill
+support-remote-settings-sync-history-status = Staða
+support-remote-settings-sync-history-datetime = Dagsetning
+support-remote-settings-sync-history-infos = Upplýsingar
+
 ## Normandy sections
 
 support-remote-experiments-title = Fjartilraunir

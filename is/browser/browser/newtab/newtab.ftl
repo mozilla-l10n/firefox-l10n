@@ -294,6 +294,20 @@ newtab-wallpaper-dark-panda = Rauð panda falin í skógi
 newtab-wallpaper-dark-sky = Borgarlandslag með næturhimni
 newtab-wallpaper-dark-mountain = Fjöllótt landslag
 newtab-wallpaper-dark-city = Fjólublátt borgarlandslag
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Heillitir
+newtab-wallpaper-blue = Blátt
+newtab-wallpaper-light-blue = Ljósblátt
+newtab-wallpaper-light-purple = Ljósfjólublátt
+newtab-wallpaper-light-green = Ljósgrænt
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
