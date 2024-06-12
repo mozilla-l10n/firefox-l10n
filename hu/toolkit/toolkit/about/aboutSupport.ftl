@@ -412,6 +412,20 @@ support-printing-modified-settings = Módosított nyomtatási beállítások
 support-printing-prefs-name = Név
 support-printing-prefs-value = Érték
 
+## Remote Settings sections
+
+support-remote-settings-title = Távoli beállítások
+support-remote-settings-status = Állapot
+support-remote-settings-status-ok = Rendben
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Nem működik
+support-remote-settings-last-check = Utolsó ellenőrzés
+support-remote-settings-local-timestamp = Helyi időbélyeg
+support-remote-settings-sync-history = Előzmények
+support-remote-settings-sync-history-status = Állapot
+support-remote-settings-sync-history-datetime = Dátum
+support-remote-settings-sync-history-infos = Információk
+
 ## Normandy sections
 
 support-remote-experiments-title = Távoli kísérletek
