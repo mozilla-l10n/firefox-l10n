@@ -302,16 +302,42 @@ newtab-wallpaper-blue = Blátt
 newtab-wallpaper-light-blue = Ljósblátt
 newtab-wallpaper-light-purple = Ljósfjólublátt
 newtab-wallpaper-light-green = Ljósgrænt
+newtab-wallpaper-green = Grænt
+newtab-wallpaper-beige = Beislitt
+newtab-wallpaper-yellow = Gult
+newtab-wallpaper-orange = Appelsínugult
+newtab-wallpaper-pink = Bleikt
+newtab-wallpaper-light-pink = Ljósbleikt
+newtab-wallpaper-red = Rautt
+newtab-wallpaper-dark-blue = Dökkblátt
+newtab-wallpaper-dark-purple = Dökkfjólublátt
+newtab-wallpaper-dark-green = Dökkgrænt
+newtab-wallpaper-brown = Brúnt
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Óhlutbundið
+newtab-wallpaper-abstract-green = Græn form
+newtab-wallpaper-abstract-blue = Blá form
+newtab-wallpaper-abstract-purple = Fjólublá form
+newtab-wallpaper-abstract-orange = Appelsínugul form
+newtab-wallpaper-gradient-orange = Litstigull appelsínugult og bleikt
+newtab-wallpaper-abstract-blue-purple = Blá og fjólublá form
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Ljósmyndir
+newtab-wallpaper-beach-at-sunrise = Strönd við sólarupprás
+newtab-wallpaper-beach-at-sunset = Strönd við sólsetur
+newtab-wallpaper-storm-sky = Stormský
+newtab-wallpaper-sky-with-pink-clouds = Himinn með bleikum skýjum
+newtab-wallpaper-red-panda-yawns-in-a-tree = Rauð panda geispar í tré
+newtab-wallpaper-white-mountains = Hvít fjöll
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Ljósmynd eftir <a data-l10n-name="name-link">{ $author_string }</a> á <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Prófaðu skvettu af lit
 
 ## New Tab Weather
 
