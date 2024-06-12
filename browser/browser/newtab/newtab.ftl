@@ -290,10 +290,35 @@ newtab-wallpaper-dark-panda = Panda rubie celate in bosco
 newtab-wallpaper-dark-sky = Paisage urban con un celo nocturne
 newtab-wallpaper-dark-mountain = Paisage montan
 newtab-wallpaper-dark-city = Paisage urban purpuree
+
+## Solid Colors
+
+newtab-wallpaper-blue = Blau
+newtab-wallpaper-light-blue = Blau clar
+newtab-wallpaper-light-green = Verde clar
+newtab-wallpaper-green = Verde
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Jalne
+newtab-wallpaper-orange = Orange
+newtab-wallpaper-pink = Rosate
+newtab-wallpaper-light-pink = Rosate clar
+newtab-wallpaper-red = Rubie
+newtab-wallpaper-dark-blue = Blau obscur
+newtab-wallpaper-dark-green = Verde obscur
+newtab-wallpaper-brown = Brun
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstracte
+newtab-wallpaper-gradient-orange = Gradiente orange e rosate
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Photo per <a data-l10n-name="name-link">{ $author_string }</a> sur <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Prova un tocco de color
 
 ## New Tab Weather
 
