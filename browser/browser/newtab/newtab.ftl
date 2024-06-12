@@ -293,6 +293,31 @@ newtab-wallpaper-dark-panda = Pánda pytã okañýva ñañandýpe
 newtab-wallpaper-dark-sky = Táva jehecha ára pytũmby ndive
 newtab-wallpaper-dark-mountain = Yvyty jehecha
 newtab-wallpaper-dark-city = Táva jehecha pytãũva
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Sa’y ipeteĩva
+newtab-wallpaper-blue = Hovy
+newtab-wallpaper-light-blue = Hovy kamgy
+newtab-wallpaper-light-purple = Pytãũ kangy
+newtab-wallpaper-light-green = Hovyũ kangy
+newtab-wallpaper-green = Hovyũ
+newtab-wallpaper-beige = Morotĩngy
+newtab-wallpaper-yellow = Sa’yju
+newtab-wallpaper-orange = Naraha
+newtab-wallpaper-pink = Pytãngy
+newtab-wallpaper-light-pink = Pytãngy kangy
+newtab-wallpaper-red = Ñanduti
+newtab-wallpaper-dark-blue = Hovy pytũva
+newtab-wallpaper-dark-purple = Pytãũ pytũva
+newtab-wallpaper-dark-green = Hovyũ pytũva
+newtab-wallpaper-brown = Marrõ
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
