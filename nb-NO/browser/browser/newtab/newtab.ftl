@@ -337,7 +337,12 @@ newtab-wallpaper-white-mountains = Hvite fjell
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Bilde av <a data-l10n-name="name-link">{ $author_string }</a> på <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Prøv en fargeklatt
+newtab-wallpaper-feature-highlight-content = Gi ny fane-siden et friskt utseende med bakgrunnsbilder.
 newtab-wallpaper-feature-highlight-button = Jeg forstår
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Lukk
+    .aria-label = Lukk sprettoppvindu
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
