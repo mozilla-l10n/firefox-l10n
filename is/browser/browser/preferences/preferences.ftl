@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Inniheldur kredit- og debetkort
     .accesskey = I
 autofill-saved-payment-methods-button = Vistaðir greiðslumátar
     .accesskey = V
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Krefjast macOS-auðkenningar til að fylla út og breyta greiðslumáta.
-        [windows] Krefjast Windows-auðkenningar til að fylla út og breyta greiðslumáta.
-        [linux] Krefjast Linux-auðkenningar til að fylla út og breyta greiðslumáta.
-       *[other] Krefjast auðkenningar til að fylla út og breyta greiðslumáta.
-    }
-    .accesskey = K
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Krefjast innskráningar tækis til að fylla út og hafa umsjón með greiðslumátum
     .accesskey = o
@@ -1309,6 +1301,14 @@ privacy-segmentation-radio-off =
     .label = Nota ráðleggingar frá { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Sýna nánari upplýsingar
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Kjörstillingar fyrir auglýsingar vefsvæðis
+website-advertising-private-attribution =
+    .label = Leyfa vefsvæðum að framkvæma auglýsingamælingar sem varðveita persónuvernd
+    .accesskey = a
+website-advertising-private-attribution-description = Þetta hjálpar vefsvæðum að skilja hvernig auglýsingar þeirra skila árangri án þess að safna gögnum um þig.
 
 ## Privacy Section - Security
 ##
