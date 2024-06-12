@@ -17,6 +17,7 @@ learn-more = <span data-l10n-name="link">了解更多</span>
 inactive-css-not-grid-or-flex-container = 由於不是 Flex 容器也不是 Grid 容器，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-grid-or-flex-container-or-multicol-container = 由於不是 Flex 容器、Grid 容器，也不是多欄容器，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-multicol-container = 由於不是多欄容器，<strong>{ $property }</strong> 對此元素沒有影響。
+inactive-css-column-span = 由於不在多欄容器中，<strong>{ $property }</strong> 對此元素沒有 span 效果。
 inactive-css-not-grid-or-flex-item = 由於不是 Flex 或 Grid 項目，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-grid-item = 由於不是 Grid 項目，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-grid-container = 由於不是 Grid 容器，<strong>{ $property }</strong> 對此元素沒有影響。
