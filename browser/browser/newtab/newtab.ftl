@@ -290,10 +290,46 @@ newtab-wallpaper-dark-panda = Ormanda saklanan kızıl panda
 newtab-wallpaper-dark-sky = Gece gökyüzüyle şehir manzarası
 newtab-wallpaper-dark-mountain = Manzaralı dağ
 newtab-wallpaper-dark-city = Mor şehir manzarası
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Düz renkler
+newtab-wallpaper-blue = Mavi
+newtab-wallpaper-light-blue = Açık mavi
+newtab-wallpaper-light-purple = Açık mor
+newtab-wallpaper-light-green = Açık yeşil
+newtab-wallpaper-green = Yeşil
+newtab-wallpaper-beige = Bej
+newtab-wallpaper-yellow = Sarı
+newtab-wallpaper-orange = Turuncu
+newtab-wallpaper-pink = Pembe
+newtab-wallpaper-light-pink = Açık pembe
+newtab-wallpaper-red = Kırmızı
+newtab-wallpaper-dark-blue = Koyu mavi
+newtab-wallpaper-dark-purple = Koyu mor
+newtab-wallpaper-dark-green = Koyu yeşil
+newtab-wallpaper-brown = Kahverengi
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Soyut
+newtab-wallpaper-abstract-green = Yeşil şekiller
+newtab-wallpaper-abstract-blue = Mavi şekiller
+newtab-wallpaper-abstract-purple = Mor şekiller
+newtab-wallpaper-abstract-orange = Turuncu şekiller
+newtab-wallpaper-gradient-orange = Turuncu ve pembe renk geçişi
+newtab-wallpaper-abstract-blue-purple = Mavi ve mor şekiller
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Fotoğraflar
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotoğraf: <a data-l10n-name="name-link">{ $author_string }</a> / <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
