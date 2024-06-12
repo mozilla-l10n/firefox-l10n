@@ -1302,6 +1302,11 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Mostrar informações detalhadas
 
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Preferências de publicidade em sites
+website-advertising-private-attribution-description = Isso ajuda a sites a entender o desempenho de seus anúncios sem coletar dados sobre você.
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:

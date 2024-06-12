@@ -316,14 +316,14 @@ newtab-wallpaper-category-title-abstract = Abstrato
 newtab-wallpaper-abstract-green = Formas em tons de verde
 newtab-wallpaper-abstract-blue = Formas em tons de azul
 newtab-wallpaper-abstract-purple = Formas em tons de roxo
-newtab-wallpaper-abstract-orange = Formas laranja
+newtab-wallpaper-abstract-orange = Formas em tons de laranja
 newtab-wallpaper-gradient-orange = Gradiente laranja e rosa
-newtab-wallpaper-abstract-blue-purple = Formas azul e roxo
+newtab-wallpaper-abstract-blue-purple = Formas em tons de azul e roxo
 
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Fotos
-newtab-wallpaper-beach-at-sunrise = Praia ao amanhecer
+newtab-wallpaper-beach-at-sunrise = Praia ao ao nascer do sol
 newtab-wallpaper-beach-at-sunset = Praia ao pôr do sol
 newtab-wallpaper-storm-sky = Céu de tempestade
 newtab-wallpaper-sky-with-pink-clouds = Céu com nuvens cor-de-rosa.
