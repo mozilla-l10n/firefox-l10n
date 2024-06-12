@@ -69,6 +69,8 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 
 inactive-css-border-image = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non può essere applicato a elementi interni di una tabella il cui genitore ha la proprietà <strong>border-collapse</strong> impostata a <strong>collapse</strong>.
 
+inactive-css-resize = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto può essere applicato solo a elementi con un valore di overflow diverso da “visible” e ad alcuni elementi sostituiti (ad es. textarea).
+
 inactive-css-ruby-element = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto è un elemento per la trascrizione fonetica (ruby). La sua dimensione è determinata dalla dimensione del carattere.
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> non è supportato in pseudo-elementi della categoria “highlight”.
@@ -134,6 +136,8 @@ inactive-css-not-table-cell-fix = Provare ad aggiungere <strong>display:table-ce
 inactive-scroll-padding-when-not-scroll-container-fix = Provare ad aggiungere <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> o <strong>overflow:hidden</strong>. { learn-more }
 
 inactive-css-border-image-fix = Rimuovere la proprietà <strong>border-collapse</strong> o impostarla a un valore diverso da <strong>collapse</strong> nell’elemento genitore. { learn-more }
+
+inactive-css-resize-fix = Provare a impostare <strong>overflow</strong> a un valore diverso da <strong>visible</strong> o applicare la proprietà a un elemento sostituito che la supporti. { learn-more }
 
 inactive-css-ruby-element-fix = Provare a modificare <strong>font-size</strong> per la trascrizione fonetica. { learn-more }
 
