@@ -367,6 +367,20 @@ support-printing-modified-settings = הגדרות הדפסה ששונו
 support-printing-prefs-name = שם
 support-printing-prefs-value = ערך
 
+## Remote Settings sections
+
+support-remote-settings-title = הגדרות מרוחקות
+support-remote-settings-status = מצב
+support-remote-settings-status-ok = בסדר
+# Status when synchronization is not working.
+support-remote-settings-status-broken = לא עובד
+support-remote-settings-last-check = הבדיקה האחרונה
+support-remote-settings-local-timestamp = חותמת זמן מקומית
+support-remote-settings-sync-history = היסטוריה
+support-remote-settings-sync-history-status = מצב
+support-remote-settings-sync-history-datetime = תאריך
+support-remote-settings-sync-history-infos = מידע
+
 ## Normandy sections
 
 support-remote-experiments-title = ניסויים מרוחקים
