@@ -412,6 +412,11 @@ support-printing-modified-settings = Configuração de impressão modificada
 support-printing-prefs-name = Nome
 support-printing-prefs-value = Valor
 
+## Remote Settings sections
+
+support-remote-settings-status = Status
+support-remote-settings-status-ok = OK
+
 ## Normandy sections
 
 support-remote-experiments-title = Experimentos remotos
