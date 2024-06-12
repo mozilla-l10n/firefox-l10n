@@ -412,6 +412,19 @@ support-printing-modified-settings = Баспаға шығарудың өзге�
 support-printing-prefs-name = Аты
 support-printing-prefs-value = Мәні
 
+## Remote Settings sections
+
+support-remote-settings-status = Қалып-күйі
+support-remote-settings-status-ok = ОК
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Жұмыс істемейді
+support-remote-settings-last-check = Соңғы тексеру
+support-remote-settings-local-timestamp = Жергілікті уақыт белгісі
+support-remote-settings-sync-history = Тарихы
+support-remote-settings-sync-history-status = Қалып-күйі
+support-remote-settings-sync-history-datetime = Күн
+support-remote-settings-sync-history-infos = Ақпарат
+
 ## Normandy sections
 
 support-remote-experiments-title = Қашықтағы тәжірибелер

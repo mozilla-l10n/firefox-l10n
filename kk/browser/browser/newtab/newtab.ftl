@@ -293,6 +293,32 @@ newtab-wallpaper-dark-panda = Орманда жасырылған қызыл п�
 newtab-wallpaper-dark-sky = Түнгі аспаны бар қала пейзажы
 newtab-wallpaper-dark-mountain = Таулы пейзаж
 newtab-wallpaper-dark-city = Күлгін қала пейзажы
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Тұтас түстер
+newtab-wallpaper-blue = Көк
+newtab-wallpaper-light-blue = Ашық көк
+newtab-wallpaper-light-purple = Ашық күлгін
+newtab-wallpaper-light-green = Ашық жасыл
+newtab-wallpaper-green = Жасыл
+newtab-wallpaper-beige = Беж
+newtab-wallpaper-yellow = Сары
+newtab-wallpaper-orange = Қызғылт сары
+newtab-wallpaper-pink = Қызғылт
+newtab-wallpaper-light-pink = Ашық қызғылт
+newtab-wallpaper-red = Қызыл
+newtab-wallpaper-dark-blue = Қою көк
+newtab-wallpaper-dark-purple = Қою күлгін
+newtab-wallpaper-dark-green = Қою жасыл
+newtab-wallpaper-brown = Қоңыр
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Абстрактты
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
