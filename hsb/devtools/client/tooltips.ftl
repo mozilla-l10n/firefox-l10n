@@ -67,6 +67,7 @@ inactive-css-not-grid-or-flex-container-fix = Spytajće <strong>display:grid</st
 inactive-css-not-grid-or-flex-or-block-container-fix = Spytajće <strong>display:grid</strong>, <strong>display:flex</strong> abo <strong>display:block</strong> přidać. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Spytajće <strong>display:grid</strong>, <strong>display:flex</strong> abo <strong>columns:2</strong> přdać. { learn-more }
 inactive-css-not-multicol-container-fix = Spytajće pak <strong>column-count</strong> abo <strong>column-width</strong> přidać. { learn-more }
+inactive-css-column-span-fix = Spytajće jednomu z jeje předchadnych elementow <strong>column-count</strong> abo <strong>column-width</strong> přidać. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Spytajće nadrjadowanemu elementej elementa <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> abo <strong>display:inline-flex</strong> přidać. { learn-more }
 inactive-css-not-grid-item-fix-2 = Spytajće <strong>display:grid</strong> abo <strong>display:inline-grid</strong> nadrjadowanemu elementej zapiska přidać. { learn-more }
 inactive-css-not-grid-container-fix = Spytajće <strong>display:grid</strong> abo <strong>display:inline-grid</strong> pčidać. { learn-more }
