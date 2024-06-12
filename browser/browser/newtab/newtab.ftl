@@ -318,6 +318,7 @@ newtab-wallpaper-brown = Marrõ
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Ta’ãnga
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
