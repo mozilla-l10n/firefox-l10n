@@ -323,9 +323,16 @@ newtab-wallpaper-abstract-green = Zelene twary
 newtab-wallpaper-abstract-blue = Módre twary
 newtab-wallpaper-abstract-purple = Wioletne twary
 newtab-wallpaper-abstract-orange = Oranžowe twary
+newtab-wallpaper-gradient-orange = Přeběžk oranžowy a pink
+newtab-wallpaper-abstract-blue-purple = Módre a wioletne twary
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fota
+newtab-wallpaper-beach-at-sunrise = Brjóh při schadźenju słónca
+newtab-wallpaper-beach-at-sunset = Brjóh při chowanju słónca
+newtab-wallpaper-storm-sky = Wichorowe njebjo
+newtab-wallpaper-sky-with-pink-clouds = Njebjo z róžowymi mróčelemi
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
