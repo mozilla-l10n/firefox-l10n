@@ -316,13 +316,36 @@ newtab-wallpaper-brown = Қоңыр
 ## Abstract
 
 newtab-wallpaper-category-title-abstract = Абстрактты
+newtab-wallpaper-abstract-green = Жасыл пішіндер
+newtab-wallpaper-abstract-blue = Көк пішіндер
+newtab-wallpaper-abstract-purple = Күлгін пішіндер
+newtab-wallpaper-abstract-orange = Қызғылт сары пішіндер
+newtab-wallpaper-gradient-orange = Градиент қызғылт сары және қызғылт
+newtab-wallpaper-abstract-blue-purple = Көк және күлгін пішіндер
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Фотосуреттер
+newtab-wallpaper-beach-at-sunrise = Күн шыққанда жағажай
+newtab-wallpaper-beach-at-sunset = Күн батқанда жағажай
+newtab-wallpaper-storm-sky = Дауылды аспан
+newtab-wallpaper-sky-with-pink-clouds = Қызғылт бұлттары бар аспан
+newtab-wallpaper-red-panda-yawns-in-a-tree = Қызыл панда ағашта есінейді
+newtab-wallpaper-white-mountains = Ақ таулар
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_string }</a> ішіндегі <a data-l10n-name="name-link">{ $author_string }</a>  ұсынған фото
+newtab-wallpaper-feature-highlight-header = Түстер шашырауын қолданып көріңіз
+newtab-wallpaper-feature-highlight-content = Жаңа бетке тұсқағаздар арқылы жаңа көрініс беріңіз.
+newtab-wallpaper-feature-highlight-button = Түсіндім
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Елемеу
+    .aria-label = Қалқымалы терезені жабу
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
