@@ -17,7 +17,7 @@ learn-more = <span data-l10n-name="link">Läs mer</span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> har ingen effekt på det här elementet eftersom det varken är en flexbehållare eller en rutnätsbehållare.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> har ingen effekt på det här elementet eftersom det inte är en flexbehållare, en rutnätsbehållare eller en behållare med flera kolumner.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det inte är en behållare med flera kolumner.
-inactive-css-column-span = <strong>{ $property }</strong> har ingen spann-effekt på det här elementet eftersom det inte är i en behållare med flera kolumner.
+inactive-css-column-span = <strong>{ $property }</strong> har ingen spänneffekt på detta element eftersom det inte finns i en behållare med flera kolumner.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> har ingen effekt på det här elementet eftersom det inte är ett rutnät eller ett flex-objekt.
 inactive-css-not-grid-item = <strong>{ $property }</strong> har ingen effekt på det här elementet eftersom det inte är ett rutnätsobjekt.
 inactive-css-not-grid-container = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det inte är en rutnätsbehållare.
@@ -65,7 +65,7 @@ inactive-css-not-grid-or-flex-container-fix = Försök lägga till <strong>displ
 inactive-css-not-grid-or-flex-or-block-container-fix = Testa att lägga till <strong>display:grid</strong>, <strong>display:flex</strong> eller <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Försök lägga till antingen <strong>display:grid</strong>, <strong>display:flex</strong> eller <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Prova att lägga till antingen <strong>column-count</strong> eller <strong>column-width</strong>. { learn-more }
-inactive-css-column-span-fix = Testa att lägga till <strong>kolumnantal</strong> eller <strong>kolumnbredd</strong> till ett av dess överordnade element. { learn-more }
+inactive-css-column-span-fix = Testa att lägga till <strong>column-count</strong> eller <strong>column-width</strong> till ett av dess överordnade element. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Försök att lägga till <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> eller <strong>display:inline-flex</strong> till elementets förälder. { learn-more }
 inactive-css-not-grid-item-fix-2 = Försök lägga till <strong>display:grid</strong> eller <strong>display:inline-grid</ strong> till elementets förälder. { learn-more }
 inactive-css-not-grid-container-fix = Försök lägga till <strong>display:grid</strong> eller <strong>display:inline-grid</strong>. { learn-more }
