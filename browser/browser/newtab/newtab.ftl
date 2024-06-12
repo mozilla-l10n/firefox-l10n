@@ -296,6 +296,36 @@ newtab-wallpaper-dark-panda = Čerwjeny panda w lěsu schowany
 newtab-wallpaper-dark-sky = Měšćanska krajina z nócnym njebjom
 newtab-wallpaper-dark-mountain = Horinska krajina
 newtab-wallpaper-dark-city = Wioletna měšćanska krajina
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Jednotne barby
+newtab-wallpaper-blue = Módry
+newtab-wallpaper-light-blue = Swětłomódry
+newtab-wallpaper-light-purple = Swětłowioletny
+newtab-wallpaper-light-green = Swětłozeleny
+newtab-wallpaper-green = Zeleny
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Žołty
+newtab-wallpaper-orange = Oranžowy
+newtab-wallpaper-pink = Pink
+newtab-wallpaper-light-pink = Swětłopink
+newtab-wallpaper-red = Čerwjeny
+newtab-wallpaper-dark-blue = Ćmowomódry
+newtab-wallpaper-dark-purple = Ćmowowioletny
+newtab-wallpaper-dark-green = Ćmowozeleny
+newtab-wallpaper-brown = Bruny
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstraktne
+newtab-wallpaper-abstract-green = Zelene twary
+newtab-wallpaper-abstract-blue = Módre twary
+newtab-wallpaper-abstract-purple = Wioletne twary
+newtab-wallpaper-abstract-orange = Oranžowe twary
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
