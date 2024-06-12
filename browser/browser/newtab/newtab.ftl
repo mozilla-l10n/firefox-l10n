@@ -294,6 +294,25 @@ newtab-wallpaper-dark-panda = Vörös panda elrejtve az erdőben
 newtab-wallpaper-dark-sky = Városi táj éjszakai égbolttal
 newtab-wallpaper-dark-mountain = Hegyvidéki táj
 newtab-wallpaper-dark-city = Lila városi táj
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Egyszínű színek
+newtab-wallpaper-blue = Kék
+newtab-wallpaper-light-blue = Világoskék
+newtab-wallpaper-light-purple = Világoslila
+newtab-wallpaper-light-green = Világoszöld
+newtab-wallpaper-green = Zöld
+newtab-wallpaper-beige = Bézs
+newtab-wallpaper-yellow = Sárga
+newtab-wallpaper-orange = Narancs
+newtab-wallpaper-pink = Rózsaszín
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
