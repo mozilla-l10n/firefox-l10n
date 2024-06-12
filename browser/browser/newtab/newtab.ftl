@@ -268,3 +268,35 @@ newtab-custom-settings = Gerir mai de paramètres
 ## New Tab Wallpapers
 
 newtab-wallpaper-light-mountain = Montanha blanca
+
+## Solid Colors
+
+newtab-wallpaper-blue = Blau
+newtab-wallpaper-light-blue = Blau clar
+newtab-wallpaper-light-purple = Violet clar
+newtab-wallpaper-light-green = Verd clar
+newtab-wallpaper-green = Verd
+newtab-wallpaper-beige = Burèl
+newtab-wallpaper-yellow = Jaune
+newtab-wallpaper-orange = Irange
+newtab-wallpaper-pink = Ròse
+newtab-wallpaper-light-pink = Ròse clar
+newtab-wallpaper-red = Roge
+newtab-wallpaper-dark-blue = Blau fosc
+newtab-wallpaper-dark-purple = Violet fosc
+newtab-wallpaper-dark-green = Verd fosc
+newtab-wallpaper-brown = Marron
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstrach
+newtab-wallpaper-abstract-green = Fòrmas verdas
+newtab-wallpaper-abstract-blue = Fòrmas blavas
+newtab-wallpaper-abstract-purple = Fòrmas violetas
+newtab-wallpaper-abstract-orange = Fòrmas iranjas
+
+## Photographs
+
+
+## New Tab Weather
+
