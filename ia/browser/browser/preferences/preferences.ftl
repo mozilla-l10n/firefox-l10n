@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Include cartas de credito e debit
     .accesskey = i
 autofill-saved-payment-methods-button = Methodos de pagamento salvate
     .accesskey = v
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Require le authentication de macOS pro compilar e modificar le methodos de pagamento.
-        [windows] Require le authentication de Windows pro compilar e modificar le methodos de pagamento.
-        [linux] Require le authentication de Linux pro compilar e modificar le methodos de pagamento.
-       *[other] Require le authentication pro compilar e modificar le methodos de pagamento.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Requirer accesso al apparato pro compilar e gerer methodos de pagamento
     .accesskey = o
@@ -1309,6 +1301,11 @@ privacy-segmentation-radio-off =
     .label = Usar recommendationes de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Monstrar informationes detaliate
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Preferentias de avisos del sito
+website-advertising-private-attribution-description = Isto adjuta l sitos a comprender le prestationes de lor avisos publicitari sin colliger datos re te.
 
 ## Privacy Section - Security
 ##
