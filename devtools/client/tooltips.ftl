@@ -30,6 +30,7 @@ inactive-css-property-because-of-display = A(z) <strong>{ $property }</strong> n
 inactive-css-not-display-block-on-floated = A <strong>display</strong> értéket <strong>blokkolásra</strong> változtatta a motor, mert az elem <strong>lebegő</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = A(z) <strong>{ $property }</strong> felülbírálása a <strong>:visited</strong> korlátozás miatt lehetetlen.
 inactive-css-position-property-on-unpositioned-box = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem pozicionált elem.
+inactive-css-only-replaced-elements = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel csak lecserélt elemekre alkalmazható.
 inactive-text-overflow-when-no-overflow = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem megadva az <strong>overflow:hidden</strong>.
 inactive-css-not-for-internal-table-elements = A(z) <strong>{ $property }</strong> nincs hatással a belső táblázatelemekre.
 inactive-css-not-for-internal-table-elements-except-table-cells = A(z) <strong>{ $property }</strong> nincs hatással a belső táblázatelemekre, kivéve a táblázatcellákat.
