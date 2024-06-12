@@ -319,10 +319,14 @@ newtab-wallpaper-brown = Marrõ
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Ta’ãnga
+newtab-wallpaper-white-mountains = Yvytysyry morotĩ
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Ta’ãnga <a data-l10n-name="name-link">{ $author_string }</a> <a data-l10n-name="webpage-link">{ $webpage_string }</a>-pe
+newtab-wallpaper-feature-highlight-header = Eiporukuaa sa’y sa’imi
+newtab-wallpaper-feature-highlight-content = Eme’ẽ ne rendayke pyahúpe jehecharã ipyahúva.
+newtab-wallpaper-feature-highlight-button = Aikũmby
 
 ## New Tab Weather
 
