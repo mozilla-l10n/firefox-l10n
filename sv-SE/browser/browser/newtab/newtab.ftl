@@ -307,11 +307,11 @@ newtab-wallpaper-beige = Beige
 newtab-wallpaper-yellow = Gul
 newtab-wallpaper-orange = Orange
 newtab-wallpaper-pink = Rosa
-newtab-wallpaper-light-pink = Ljus rosa
+newtab-wallpaper-light-pink = Ljusrosa
 newtab-wallpaper-red = Röd
-newtab-wallpaper-dark-blue = Mörkt blå
-newtab-wallpaper-dark-purple = Mörkt lila
-newtab-wallpaper-dark-green = Mörkt grön
+newtab-wallpaper-dark-blue = Mörkblå
+newtab-wallpaper-dark-purple = Mörklila
+newtab-wallpaper-dark-green = Mörkgrön
 newtab-wallpaper-brown = Brun
 
 ## Abstract
