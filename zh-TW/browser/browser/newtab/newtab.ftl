@@ -334,6 +334,7 @@ newtab-wallpaper-white-mountains = 白色山脈
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = 相片由 <a data-l10n-name="name-link">{ $author_string }</a> 於 <a data-l10n-name="webpage-link">{ $webpage_string }</a> 提供
 newtab-wallpaper-feature-highlight-header = 試用新色彩
+newtab-wallpaper-feature-highlight-content = 讓您的「新分頁」耳目一新！
 newtab-wallpaper-feature-highlight-button = 知道了！
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =

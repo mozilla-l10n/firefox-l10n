@@ -120,3 +120,5 @@ addon-local-install-error-not-signed = 因為此附加元件尚未經過驗證�
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = 因為與 { -brand-short-name } { $appVersion } 不相容，無法安裝 { $addonName }。
 addon-install-error-blocklisted = 無法安裝 { $addonName }，因為它很可能會造成穩定性或安全性問題。
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = 無法以使用者身分安裝 { $addonName }，該元件僅能透過組織的企業政策安裝。
