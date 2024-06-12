@@ -327,6 +327,13 @@ newtab-wallpaper-attribution = Ta’ãnga <a data-l10n-name="name-link">{ $autho
 newtab-wallpaper-feature-highlight-header = Eiporukuaa sa’y sa’imi
 newtab-wallpaper-feature-highlight-content = Eme’ẽ ne rendayke pyahúpe jehecharã ipyahúva.
 newtab-wallpaper-feature-highlight-button = Aikũmby
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Mboyke
+    .aria-label = Emboty mba’e iñapysẽva
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
