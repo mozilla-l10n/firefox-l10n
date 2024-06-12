@@ -331,10 +331,15 @@ newtab-wallpaper-abstract-blue-purple = Módre a wioletne formy
 newtab-wallpaper-category-title-photographs = Fota
 newtab-wallpaper-beach-at-sunrise = Pśibrjog pśi zejźenju słyńca
 newtab-wallpaper-beach-at-sunset = Pśibrjog pśi schowanju słyńca
+newtab-wallpaper-storm-sky = Wichorowe njebjo
+newtab-wallpaper-sky-with-pink-clouds = Njebjo z rožowymi mrokami
+newtab-wallpaper-red-panda-yawns-in-a-tree = Cerwjeny panda w bomje zewa
+newtab-wallpaper-white-mountains = Běłe góry
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto wót <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Wopytajśo chrapku barwy
 
 ## New Tab Weather
 
