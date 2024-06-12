@@ -293,6 +293,21 @@ newtab-wallpaper-dark-panda = Raudpanda gøymt i skogen
 newtab-wallpaper-dark-sky = Bylandskap med nattehimmel
 newtab-wallpaper-dark-mountain = Fjellandskap
 newtab-wallpaper-dark-city = Lilla bylandskap
+
+## Solid Colors
+
+newtab-wallpaper-blue = Blå
+newtab-wallpaper-green = Grøn
+newtab-wallpaper-yellow = Gul
+newtab-wallpaper-orange = Oransje
+newtab-wallpaper-pink = Rosa
+newtab-wallpaper-red = Raud
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
