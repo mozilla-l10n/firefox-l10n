@@ -132,3 +132,5 @@ addon-local-install-error-not-signed = Бұл кеңейту расталмағ�
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } орнату мүмкін емес, өйткені ол{ -brand-short-name } { $appVersion } нұсқасымен үйлеспейді.
 addon-install-error-blocklisted = { $addonName } орнату мүмкін емес, өйткені ол тұрақтылық не қауіпсіздік мәселелерін туғызуы мүмкін.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = { $addonName } қосымшасын қалыпты пайдаланушы ретінде орнату мүмкін емес, оны кәсіпорын саясаттарын пайдаланатын ұйым ғана орната алады.
