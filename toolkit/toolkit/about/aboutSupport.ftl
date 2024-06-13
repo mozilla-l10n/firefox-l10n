@@ -415,6 +415,15 @@ support-printing-modified-settings = Wizige ôfdrukynstellingen
 support-printing-prefs-name = Namme
 support-printing-prefs-value = Wearde
 
+## Remote Settings sections
+
+support-remote-settings-title = Eksterne ynstellingen
+support-remote-settings-status = Steat
+support-remote-settings-status-ok = OK
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Wurket net
+support-remote-settings-last-check = Lêste kontrôle
+
 ## Normandy sections
 
 support-remote-experiments-title = Eksterne eksperiminten
