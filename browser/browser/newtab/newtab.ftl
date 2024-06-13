@@ -294,10 +294,59 @@ newtab-wallpaper-dark-panda = Reade panda ferburgen yn bosk
 newtab-wallpaper-dark-sky = Stedslânskip mei in nachthimel
 newtab-wallpaper-dark-mountain = Lânskip mei berch
 newtab-wallpaper-dark-city = Pears stêdslânskip
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Effen kleuren
+newtab-wallpaper-blue = Blau
+newtab-wallpaper-light-blue = Ljochtblau
+newtab-wallpaper-light-purple = Ljochtpears
+newtab-wallpaper-light-green = Ljochtgrien
+newtab-wallpaper-green = Grien
+newtab-wallpaper-beige = Bêzje
+newtab-wallpaper-yellow = Giel
+newtab-wallpaper-orange = Oranje
+newtab-wallpaper-pink = Rôze
+newtab-wallpaper-light-pink = Ljochtrôze
+newtab-wallpaper-red = Read
+newtab-wallpaper-dark-blue = Donkerblau
+newtab-wallpaper-dark-purple = Donkerpears
+newtab-wallpaper-dark-green = Donkergrien
+newtab-wallpaper-brown = Brún
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstrakt
+newtab-wallpaper-abstract-green = Griene foarmen
+newtab-wallpaper-abstract-blue = Blauwe foarmen
+newtab-wallpaper-abstract-purple = Pearze foarmen
+newtab-wallpaper-abstract-orange = Oranje foarmen
+newtab-wallpaper-gradient-orange = Ferrin oranje en rôze
+newtab-wallpaper-abstract-blue-purple = Blauwe en pearze foarmen
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Foto’s
+newtab-wallpaper-beach-at-sunrise = Strân by sinneopgong
+newtab-wallpaper-beach-at-sunset = Strân by sinneûndergong
+newtab-wallpaper-storm-sky = Tongerloft
+newtab-wallpaper-sky-with-pink-clouds = Loft mei rôze wolken
+newtab-wallpaper-red-panda-yawns-in-a-tree = Reade panda gappet yn in beam
+newtab-wallpaper-white-mountains = Wite bergen
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto troch <a data-l10n-name="name-link">{ $author_string }</a> op <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Probearje in bytsje kleur
+newtab-wallpaper-feature-highlight-content = Jou jo Nije-ljepblêdside in frisse útstrieling mei eftergrûnen.
+newtab-wallpaper-feature-highlight-button = Begrepen
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Slute
+    .aria-label = Pop-up slute
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 

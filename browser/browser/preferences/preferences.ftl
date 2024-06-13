@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Omfettet creditcards en bankpasse
     .accesskey = a
 autofill-saved-payment-methods-button = Bewarre betellingsmetoaden
     .accesskey = l
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] macOS-autentikaasje fereaskje foar it ynfoljen en bewurkjen fan betellingsmetoaden.
-        [windows] Windows-autentikaasje fereaskje foar it ynfoljen en bewurkjen fan betellingsmetoaden.
-        [linux] Linux-autentikaasje fereaskje foar it ynfoljen en bewurkjen fan betellingsmetoaden.
-       *[other] Autentikaasje fereaskje foar it ynfoljen en bewurkjen fan betellingsmetoaden.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Apparaatoanmelding foar ynfoljen en behearen fan betellingsmetoaden fereaskje
     .accesskey = m
@@ -1309,6 +1301,10 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name }-oanrekommandaasjes brûke
 privacy-segmentation-radio-on =
     .label = Detailynformaasje toane
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Website-advertinsjefoarkarren
 
 ## Privacy Section - Security
 ##
