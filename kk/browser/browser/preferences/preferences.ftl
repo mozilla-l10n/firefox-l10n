@@ -1305,6 +1305,9 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Веб-сайтты жарнамалау баптаулары
+website-advertising-private-attribution =
+    .label = Веб-сайттарға жекелікті сақтап, жарнаманы өлшеуге рұқсат беру
+    .accesskey = а
 
 ## Privacy Section - Security
 ##
