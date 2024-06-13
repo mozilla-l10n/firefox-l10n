@@ -423,6 +423,11 @@ support-remote-settings-status-ok = Aceptar
 # Status when synchronization is not working.
 support-remote-settings-status-broken = No funcionando
 support-remote-settings-last-check = Última verificación
+support-remote-settings-local-timestamp = Horario local
+support-remote-settings-sync-history = Historial
+support-remote-settings-sync-history-status = Estado
+support-remote-settings-sync-history-datetime = Fecha
+support-remote-settings-sync-history-infos = Información
 
 ## Normandy sections
 
