@@ -1305,6 +1305,9 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Website-advertinsjefoarkarren
+website-advertising-private-attribution =
+    .label = Websites tastean privacybeskermende advertinsjemjittingen út te fieren
+    .accesskey = a
 
 ## Privacy Section - Security
 ##
