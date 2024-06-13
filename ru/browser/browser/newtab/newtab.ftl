@@ -308,6 +308,7 @@ newtab-wallpaper-beige = Бежевый
 newtab-wallpaper-yellow = Жёлтый
 newtab-wallpaper-orange = Оранжевый
 newtab-wallpaper-pink = Розовый
+newtab-wallpaper-light-pink = Светло-розовый
 newtab-wallpaper-red = Красный
 newtab-wallpaper-dark-blue = Темно-синий
 newtab-wallpaper-dark-purple = Темно-фиолетовый
@@ -316,13 +317,37 @@ newtab-wallpaper-brown = Коричневый
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Абстракция
+newtab-wallpaper-abstract-green = Зеленые формы
+newtab-wallpaper-abstract-blue = Синие формы
+newtab-wallpaper-abstract-purple = Фиолетовые формы
+newtab-wallpaper-abstract-orange = Оранжевые формы
+newtab-wallpaper-gradient-orange = Градиент оранжевого и розового
+newtab-wallpaper-abstract-blue-purple = Синие и фиолетовые формы
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Фотографии
+newtab-wallpaper-beach-at-sunrise = Пляж на восходе
+newtab-wallpaper-beach-at-sunset = Пляж на закате
+newtab-wallpaper-storm-sky = Грозовое небо
+newtab-wallpaper-sky-with-pink-clouds = Небо с розовыми облаками
+newtab-wallpaper-red-panda-yawns-in-a-tree = Красная панда зевает на дереве
+newtab-wallpaper-white-mountains = Белые горы
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Фото <a data-l10n-name="name-link">{ $author_string }</a> на <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Попробуйте всплеск цвета
+newtab-wallpaper-feature-highlight-content = Обновите вид Новой вкладки с помощью обоев.
+newtab-wallpaper-feature-highlight-button = Понятно
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Убрать
+    .aria-label = Закрыть окно
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
