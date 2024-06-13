@@ -215,6 +215,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Բացե՞լ { -brand-short-name }-ը ամեն անգամ համակարգիչը վերամեկնարկելիս:</strong> Այժմ կարող եք կայել { -brand-short-name }-ը, որպեսզի այն ինքնաբար բացվի ձեր սարքը վերամեկնարկելուց հետո:
 launch-on-login-learnmore = Իմանալ ավելին
 launch-on-login-infobar-confirm-button = Այո, բացել { -brand-short-name }-ը
     .accesskey = Y
@@ -224,6 +225,7 @@ launch-on-login-infobar-reject-button = Ոչ հիմա
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Բացե՞լ { -brand-short-name }-ը ամեն անգամ համակարգիչը վերամեկնարկելիս:</strong> Մեկնարկի նախապատվությունները կառավարելու համար կարգավորումներում որոնեք «մեկնարկ»:
 launch-on-login-infobar-final-reject-button = Ոչ, շնորհակալություն
     .accesskey = N
 
