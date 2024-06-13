@@ -295,6 +295,30 @@ newtab-wallpaper-dark-panda = Красная панда, прячущаяся в
 newtab-wallpaper-dark-sky = Городской пейзаж с ночным небом
 newtab-wallpaper-dark-mountain = Горный пейзаж
 newtab-wallpaper-dark-city = Фиолетовый городской пейзаж
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Сплошные цвета
+newtab-wallpaper-blue = Синий
+newtab-wallpaper-light-blue = Голубой
+newtab-wallpaper-light-purple = Светло-фиолетовый
+newtab-wallpaper-light-green = Светло-зеленый
+newtab-wallpaper-green = Зелёный
+newtab-wallpaper-beige = Бежевый
+newtab-wallpaper-yellow = Жёлтый
+newtab-wallpaper-orange = Оранжевый
+newtab-wallpaper-pink = Розовый
+newtab-wallpaper-red = Красный
+newtab-wallpaper-dark-blue = Темно-синий
+newtab-wallpaper-dark-purple = Темно-фиолетовый
+newtab-wallpaper-dark-green = Темно-зеленый
+newtab-wallpaper-brown = Коричневый
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
