@@ -956,14 +956,6 @@ autofill-payment-methods-checkbox-submessage = Bao gồm thẻ tín dụng và t
     .accesskey = I
 autofill-saved-payment-methods-button = Phương thức thanh toán đã lưu
     .accesskey = v
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Yêu cầu xác thực trên macOS để điền và chỉnh sửa phương thức thanh toán.
-        [windows] Yêu cầu xác thực trên Windows để điền và chỉnh sửa phương thức thanh toán.
-        [linux] Yêu cầu xác thực trên Linux để điền và chỉnh sửa phương thức thanh toán.
-       *[other] Yêu cầu xác thực để điền và chỉnh sửa phương thức thanh toán.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Yêu cầu thiết bị đăng nhập để điền và quản lý phương thức thanh toán
     .accesskey = o
@@ -1293,6 +1285,14 @@ privacy-segmentation-radio-off =
     .label = Sử dụng các đề xuất của { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Hiển thị thông tin chi tiết
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Tùy chọn quảng cáo cho trang web
+website-advertising-private-attribution =
+    .label = Cho phép các trang web thực hiện đo lường quảng cáo đảm bảo quyền riêng tư
+    .accesskey = a
+website-advertising-private-attribution-description = Điều này giúp các trang web hiểu quảng cáo của họ hoạt động như thế nào mà không thu thập dữ liệu về bạn.
 
 ## Privacy Section - Security
 ##
