@@ -293,8 +293,10 @@ newtab-wallpaper-dark-city = Paisage urban purpuree
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Colores unite
 newtab-wallpaper-blue = Blau
 newtab-wallpaper-light-blue = Blau clar
+newtab-wallpaper-light-purple = Violette clar
 newtab-wallpaper-light-green = Verde clar
 newtab-wallpaper-green = Verde
 newtab-wallpaper-beige = Beige
@@ -304,22 +306,38 @@ newtab-wallpaper-pink = Rosate
 newtab-wallpaper-light-pink = Rosate clar
 newtab-wallpaper-red = Rubie
 newtab-wallpaper-dark-blue = Blau obscur
+newtab-wallpaper-dark-purple = Violette obscur
 newtab-wallpaper-dark-green = Verde obscur
 newtab-wallpaper-brown = Brun
 
 ## Abstract
 
 newtab-wallpaper-category-title-abstract = Abstracte
+newtab-wallpaper-abstract-green = Formas verde
+newtab-wallpaper-abstract-blue = Formas blau
+newtab-wallpaper-abstract-purple = Formas violette
+newtab-wallpaper-abstract-orange = Formas orange
 newtab-wallpaper-gradient-orange = Gradiente orange e rosate
+newtab-wallpaper-abstract-blue-purple = Formas blau e violette
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Photos
 newtab-wallpaper-beach-at-sunrise = Plagia al levar del sol
+newtab-wallpaper-beach-at-sunset = Plagia al poner del sol
+newtab-wallpaper-storm-sky = Celo tempestuose
+newtab-wallpaper-sky-with-pink-clouds = Celo con nubes rosate
+newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda rubie que balla sur un arbore
+newtab-wallpaper-white-mountains = Montanias blanc
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Photo per <a data-l10n-name="name-link">{ $author_string }</a> sur <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Prova un tocco de color
+newtab-wallpaper-feature-highlight-button = OK
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
