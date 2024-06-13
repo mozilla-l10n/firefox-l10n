@@ -384,6 +384,18 @@ support-printing-modified-settings = Đã sửa đổi cài đặt in
 support-printing-prefs-name = Tên
 support-printing-prefs-value = Giá trị
 
+## Remote Settings sections
+
+support-remote-settings-title = Cài đặt từ xa
+support-remote-settings-status = Trạng thái
+support-remote-settings-status-ok = OK
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Không hoạt động
+support-remote-settings-last-check = Lần kiểm tra cuối
+support-remote-settings-sync-history = Lịch sử
+support-remote-settings-sync-history-status = Trạng thái
+support-remote-settings-sync-history-datetime = Ngày
+
 ## Normandy sections
 
 support-remote-experiments-title = Thử nghiệm từ xa

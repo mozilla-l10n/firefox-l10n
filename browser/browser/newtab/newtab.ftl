@@ -293,10 +293,59 @@ newtab-wallpaper-dark-panda = Gấu trúc đỏ ẩn trong rừng
 newtab-wallpaper-dark-sky = Cảnh quan thành phố với bầu trời đêm
 newtab-wallpaper-dark-mountain = Phong cảnh núi
 newtab-wallpaper-dark-city = Phong cảnh thành phố màu tím
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Màu
+newtab-wallpaper-blue = Xanh dương
+newtab-wallpaper-light-blue = Xanh dương nhạt
+newtab-wallpaper-light-purple = Tím nhạt
+newtab-wallpaper-light-green = Xanh lục nhạt
+newtab-wallpaper-green = Xanh lục
+newtab-wallpaper-beige = Be
+newtab-wallpaper-yellow = Vàng
+newtab-wallpaper-orange = Da cam
+newtab-wallpaper-pink = Hồng
+newtab-wallpaper-light-pink = Hồng nhạt
+newtab-wallpaper-red = Đỏ
+newtab-wallpaper-dark-blue = Xanh dương đậm
+newtab-wallpaper-dark-purple = Tím đậm
+newtab-wallpaper-dark-green = Xanh lục đậm
+newtab-wallpaper-brown = Nâu
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Trừu tượng
+newtab-wallpaper-abstract-green = Hình dạng màu xanh lục
+newtab-wallpaper-abstract-blue = Hình dạng màu xanh dương
+newtab-wallpaper-abstract-purple = Hình dạng màu tím
+newtab-wallpaper-abstract-orange = Hình dạng màu cam
+newtab-wallpaper-gradient-orange = Gradient màu cam và màu hồng
+newtab-wallpaper-abstract-blue-purple = Hình dạng màu xanh dương và màu tím
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Hình ảnh
+newtab-wallpaper-beach-at-sunrise = Bãi biển lúc bình minh
+newtab-wallpaper-beach-at-sunset = Bãi biển lúc hoàng hôn
+newtab-wallpaper-storm-sky = Trời giông bão
+newtab-wallpaper-sky-with-pink-clouds = Bầu trời với đám mây màu hồng
+newtab-wallpaper-red-panda-yawns-in-a-tree = Gấu trúc đỏ ngáp trên cây
+newtab-wallpaper-white-mountains = Núi trắng
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Hình ảnh bởi <a data-l10n-name="name-link">{ $author_string }</a> trên <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Thử một chút màu sắc
+newtab-wallpaper-feature-highlight-content = Mang lại diện mạo mới cho thẻ mới của bạn bằng hình nền.
+newtab-wallpaper-feature-highlight-button = Đã hiểu
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Bỏ qua
+    .aria-label = Đóng cửa sổ bật lên
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
