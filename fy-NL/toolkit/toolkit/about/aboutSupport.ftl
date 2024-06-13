@@ -423,6 +423,11 @@ support-remote-settings-status-ok = OK
 # Status when synchronization is not working.
 support-remote-settings-status-broken = Wurket net
 support-remote-settings-last-check = Lêste kontrôle
+support-remote-settings-local-timestamp = Lokale tiidstimpel
+support-remote-settings-sync-history = Skiednis
+support-remote-settings-sync-history-status = Steat
+support-remote-settings-sync-history-datetime = Datum
+support-remote-settings-sync-history-infos = Ynformaasje
 
 ## Normandy sections
 
