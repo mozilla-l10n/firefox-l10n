@@ -314,6 +314,7 @@ newtab-wallpaper-gradient-orange = Gradiente orange e rosate
 
 ## Photographs
 
+newtab-wallpaper-beach-at-sunrise = Plagia al levar del sol
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
