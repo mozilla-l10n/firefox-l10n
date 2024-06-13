@@ -1308,6 +1308,7 @@ website-advertising-header = Веб-сайтты жарнамалау бапта
 website-advertising-private-attribution =
     .label = Веб-сайттарға жекелікті сақтап, жарнаманы өлшеуге рұқсат беру
     .accesskey = а
+website-advertising-private-attribution-description = Бұл сайттарға сіз туралы деректерді жинамай-ақ жарнамаларының қалай орындалатынын түсінуге көмектеседі.
 
 ## Privacy Section - Security
 ##

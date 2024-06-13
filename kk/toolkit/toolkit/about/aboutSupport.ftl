@@ -414,6 +414,7 @@ support-printing-prefs-value = Мәні
 
 ## Remote Settings sections
 
+support-remote-settings-title = Қашықтан басқару баптаулары
 support-remote-settings-status = Қалып-күйі
 support-remote-settings-status-ok = ОК
 # Status when synchronization is not working.
