@@ -132,3 +132,5 @@ addon-local-install-error-not-signed = Le additivo non ha potite esser installat
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } non ha potite esser installate perque illo non es compatibile con { -brand-short-name } { $appVersion }.
 addon-install-error-blocklisted = { $addonName } non ha potite esser installate perque illo ha un alte risco de causar problemas de stabilitate o de securitate.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Tu non pote installar { $addonName } como usator final, illo pote esser installate solo  per un organisation con politicas de interprisa.
