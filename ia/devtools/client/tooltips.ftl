@@ -17,6 +17,7 @@ learn-more = <span data-l10n-name="link">Saper plus</span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> non ha effecto sur iste elemento perque non es un contentor Flex o contentor de grillia.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> non ha effecto sur iste elemento perque non es un contentor Flex, contentor de grillia o contentor multi-columna.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> non ha effecto sur iste elemento perque non es un contentor multi-columnas.
+inactive-css-column-span = <strong>{ $property }</strong> non ha alcun effecto de extension sur iste elemento pois que illo non es in un contentor multi-columnas.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un elemento de flex ni de grillia.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un elemento de grillia.
 inactive-css-not-grid-container = <strong>{ $property }</strong> non ha effecto sur iste elemento perque non es un contentor de grillia.
