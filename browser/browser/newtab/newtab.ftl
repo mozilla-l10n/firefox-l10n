@@ -334,6 +334,7 @@ newtab-wallpaper-white-mountains = Montanias blanc
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Photo per <a data-l10n-name="name-link">{ $author_string }</a> sur <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Prova un tocco de color
+newtab-wallpaper-feature-highlight-content = Da a tu nove schedas un apparentia fresc con le fundos.
 newtab-wallpaper-feature-highlight-button = OK
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
