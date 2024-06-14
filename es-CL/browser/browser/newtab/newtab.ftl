@@ -290,6 +290,18 @@ newtab-wallpaper-dark-panda = Panda rojo oculto en el bosque
 newtab-wallpaper-dark-sky = Paisaje de ciudad con cielo nocturno
 newtab-wallpaper-dark-mountain = Paisaje de montaña
 newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Colores sólidos
+newtab-wallpaper-blue = Azul
+newtab-wallpaper-light-blue = Azul claro
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
