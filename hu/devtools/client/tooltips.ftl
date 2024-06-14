@@ -17,6 +17,7 @@ learn-more = <span data-l10n-name="link">További tudnivalók</span>
 inactive-css-not-grid-or-flex-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem flexibilis vagy rácstároló.
 inactive-css-not-grid-or-flex-container-or-multicol-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel ez nem flex konténer, rács- vagy többoszlopos tároló.
 inactive-css-not-multicol-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem többoszlopos tároló.
+inactive-css-column-span = A(z) <strong>{ $property }</strong> tulajdonságnak nincs átfedő hatása erre az elemre, mivel nem többoszlopos tároló.
 inactive-css-not-grid-or-flex-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem rács vagy flexibilis elem.
 inactive-css-not-grid-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem egy rácselem.
 inactive-css-not-grid-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem rácstároló.
