@@ -208,3 +208,5 @@ addon-install-error-incompatible =
        *[no-cases] Doplněk { $addonName } nemohl být nainstalován, protože není kompatibilní s aplikací { -brand-short-name } { $appVersion }.
     }
 addon-install-error-blocklisted = Doplněk { $addonName } nemohl být nainstalován, protože přináší vysoké riziko nestability nebo bezpečnostních problémů.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Doplněk { $addonName } nelze nainstalovat jako koncový uživatel, může jej nainstalovat pouze organizace pomocí zásad podniku.
