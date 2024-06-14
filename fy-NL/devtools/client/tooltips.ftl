@@ -76,6 +76,7 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Probearje <stro
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Probearje <strong>display:inline-block</ strong> ta te foegjen. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Probearje <strong>float</strong> fuort te smiten of <strong>display:block</strong> ta te foegjen. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Probearje de eigenskip <strong>position</strong> op wat oars as <strong>static</strong> yn te stellen. { learn-more }
+inactive-css-only-replaced-elements-fix = Soargje derfoar dat jo de eigenskip oan in ferfongen elemint tafoegje. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Probearje <strong>overflow:hidden</ strong> ta te foegjen. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Probearje de property <strong>display</strong> op wat oars as <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> of <strong>table-footer-group</strong> yn te stellen. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Probearje de property <strong>display</strong> op wat oars as <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> of <strong>table-footer-group</strong> yn te stellen. { learn-more }
