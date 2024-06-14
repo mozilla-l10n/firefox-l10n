@@ -294,10 +294,59 @@ newtab-wallpaper-dark-panda = Panda cotschen zuppà en il guaud
 newtab-wallpaper-dark-sky = Cuntrada da citad cun tschiel nocturn
 newtab-wallpaper-dark-mountain = Cuntrada da muntognas
 newtab-wallpaper-dark-city = Cuntrada da citad violetta
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Colurs uni
+newtab-wallpaper-blue = Blau
+newtab-wallpaper-light-blue = Blau cler
+newtab-wallpaper-light-purple = Violet cler
+newtab-wallpaper-light-green = Verd cler
+newtab-wallpaper-green = Verd
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Mellen
+newtab-wallpaper-orange = Oransch
+newtab-wallpaper-pink = Rosa
+newtab-wallpaper-light-pink = Rosa cler
+newtab-wallpaper-red = Cotschen
+newtab-wallpaper-dark-blue = Blau stgir
+newtab-wallpaper-dark-purple = Violet stgir
+newtab-wallpaper-dark-green = Verd stgir
+newtab-wallpaper-brown = Brin
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstract
+newtab-wallpaper-abstract-green = Furmas verdas
+newtab-wallpaper-abstract-blue = Furmas blauas
+newtab-wallpaper-abstract-purple = Furmas violetas
+newtab-wallpaper-abstract-orange = Furmas oranschas
+newtab-wallpaper-gradient-orange = Dissoluziun dad oransch e rosa
+newtab-wallpaper-abstract-blue-purple = Furmas blauas e violetas
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Fotografias
+newtab-wallpaper-beach-at-sunrise = Splagia sin il far di
+newtab-wallpaper-beach-at-sunset = Splagia sin il far notg
+newtab-wallpaper-storm-sky = Tschiel stemprà
+newtab-wallpaper-sky-with-pink-clouds = Tschiel cun nivels rosa
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda cotschen che susda sin ina planta
+newtab-wallpaper-white-mountains = Muntognas alvas
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto da <a data-l10n-name="name-link">{ $author_string }</a> sin <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Emprova cun in zic colur
+newtab-wallpaper-feature-highlight-content = Embellescha tes nov tab cun in nov look e maletgs dal fund davos.
+newtab-wallpaper-feature-highlight-button = Chapì
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Serrar
+    .aria-label = Serrar il pop-up
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
