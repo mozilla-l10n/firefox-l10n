@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Comprend les cartes bancaires
     .accesskey = C
 autofill-saved-payment-methods-button = Moyens de paiement enregistrés
     .accesskey = M
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Exiger l’authentification macOS pour remplir ou modifier les moyens de paiement.
-        [windows] Exiger l’authentification Windows pour remplir ou modifier les moyens de paiement.
-        [linux] Exiger l’authentification Linux pour remplir ou modifier les moyens de paiement.
-       *[other] Exiger une authentification pour remplir ou modifier les moyens de paiement.
-    }
-    .accesskey = p
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Exiger la connexion à l’appareil pour renseigner et gérer les moyens de paiement
     .accesskey = x
@@ -1309,6 +1301,10 @@ privacy-segmentation-radio-off =
     .label = Utiliser les recommandations de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Afficher les informations détaillées
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Préférences publicitaires des sites web
 
 ## Privacy Section - Security
 ##
