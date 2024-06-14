@@ -1308,6 +1308,7 @@ website-advertising-header = Website-advertinsjefoarkarren
 website-advertising-private-attribution =
     .label = Websites tastean privacybeskermende advertinsjemjittingen út te fieren
     .accesskey = a
+website-advertising-private-attribution-description = Dit helpt websites te begripen hoe’t harren advertinsjes prestearje sûnder gegevens oer jo te sammeljen.
 
 ## Privacy Section - Security
 ##
