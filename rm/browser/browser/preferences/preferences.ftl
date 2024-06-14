@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Inclus cartas da credit e cartas 
     .accesskey = I
 autofill-saved-payment-methods-button = Metodas da pajament memorisadas
     .accesskey = p
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Pretender ina autentificaziun da macOS per endatar automaticamain e modifitgar metodas da pajament.
-        [windows] Pretender ina autentificaziun da Windows per endatar automaticamain e modifitgar metodas da pajament.
-        [linux] Pretender ina autentificaziun da Linux per endatar automaticamain e modifitgar metodas da pajament.
-       *[other] Pretender ina autentificaziun per endatar automaticamain e modifitgar metodas da pajament.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Pretender l’endataziun da las datas d’annunzia da l’apparat per laschar endatar automaticamain metodas da pajament e per las administrar
     .accesskey = o
@@ -1309,6 +1301,14 @@ privacy-segmentation-radio-off =
     .label = Utilisar recumandaziuns da { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mussar infurmaziuns detagliadas
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Preferenzas per la reclama sin websites
+website-advertising-private-attribution =
+    .label = Permetter a websites da mesirar reclamas cun respectar la protecziun da datas
+    .accesskey = a
+website-advertising-private-attribution-description = Quai gida a websites da valitar la prestaziun da lur reclamas senza rimnar datas persunalas.
 
 ## Privacy Section - Security
 ##

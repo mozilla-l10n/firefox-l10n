@@ -415,6 +415,20 @@ support-printing-modified-settings = Parameters da stampa modifitgads
 support-printing-prefs-name = Num
 support-printing-prefs-value = Valur
 
+## Remote Settings sections
+
+support-remote-settings-title = Parameters a distanza
+support-remote-settings-status = Status
+support-remote-settings-status-ok = OK
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Na funcziuna betg
+support-remote-settings-last-check = Ultima controlla
+support-remote-settings-local-timestamp = Timestamp local
+support-remote-settings-sync-history = Cronologia
+support-remote-settings-sync-history-status = Status
+support-remote-settings-sync-history-datetime = Data
+support-remote-settings-sync-history-infos = Infus
+
 ## Normandy sections
 
 support-remote-experiments-title = Experiments a distanza
