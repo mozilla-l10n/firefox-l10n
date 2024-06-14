@@ -267,6 +267,7 @@ newtab-custom-settings = Gerir mai de paramètres
 
 ## New Tab Wallpapers
 
+newtab-wallpaper-title = Fonzes
 newtab-wallpaper-light-mountain = Montanha blanca
 
 ## Solid Colors
