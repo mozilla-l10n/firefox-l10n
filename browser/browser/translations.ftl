@@ -165,10 +165,18 @@ translations-settings-close-dialog =
 select-translations-panel-header = Traduccion
 select-translations-panel-cancel-button =
     .label = Anullar
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Copiar
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = Copiat
 select-translations-panel-translate-button =
     .label = Traduire
 select-translations-panel-try-again-button =
     .label = Tornar ensajar
+# Text displayed as a placeholder when the panel is actively translating.
+select-translations-panel-translating-placeholder-text = Traduccions…
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = I a agut un problèma al moment de traduire. Ensajatz tornamai.
@@ -182,3 +190,6 @@ select-translations-panel-unsupported-language-message-known =
     .message = O planhèm, prenèm pas encara en carga lo { $language }.
 select-translations-panel-unsupported-language-message-unknown =
     .message = O planhèm, prenèm pas encara en carga aquesta lenga.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Paramètres de traduccion
