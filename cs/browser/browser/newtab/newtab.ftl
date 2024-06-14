@@ -301,10 +301,52 @@ newtab-wallpaper-dark-panda = Panda červená ukrytá v lese
 newtab-wallpaper-dark-sky = Městská krajina s noční oblohou
 newtab-wallpaper-dark-mountain = Horská scenérie
 newtab-wallpaper-dark-city = Fialová krajina města
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Plné barvy
+newtab-wallpaper-blue = Modrá
+newtab-wallpaper-light-blue = Světle modrá
+newtab-wallpaper-light-purple = Světle fialová
+newtab-wallpaper-light-green = Světle zelená
+newtab-wallpaper-green = Zelená
+newtab-wallpaper-beige = Béžová
+newtab-wallpaper-yellow = Žlutá
+newtab-wallpaper-orange = Oranžová
+newtab-wallpaper-pink = Růžová
+newtab-wallpaper-light-pink = Světle růžová
+newtab-wallpaper-red = Červená
+newtab-wallpaper-dark-blue = Tmavě modrá
+newtab-wallpaper-dark-purple = Tmavě fialová
+newtab-wallpaper-dark-green = Tmavě zelená
+newtab-wallpaper-brown = Hnědá
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstraktní
+newtab-wallpaper-abstract-green = Zelené tvary
+newtab-wallpaper-abstract-blue = Modré tvary
+newtab-wallpaper-abstract-purple = Fialové tvary
+newtab-wallpaper-abstract-orange = Oranžové tvary
+newtab-wallpaper-gradient-orange = Přechod oranžové a růžové
+newtab-wallpaper-abstract-blue-purple = Modré a fialové tvary
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Fotografie
+newtab-wallpaper-beach-at-sunrise = Pláž při východu slunce
+newtab-wallpaper-beach-at-sunset = Pláž při západu slunce
+newtab-wallpaper-storm-sky = Bouřková obloha
+newtab-wallpaper-sky-with-pink-clouds = Obloha s růžovými obláčky
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda červená zívá na stromě
+newtab-wallpaper-white-mountains = Bílé hory
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotografie od autora <a data-l10n-name="name-link">{ $author_string }</a> na <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Zkuste barevný nádech
+newtab-wallpaper-feature-highlight-content = Dejte svému novému panelu svěží vzhled pomocí tapet.
+newtab-wallpaper-feature-highlight-button = Rozumím
 
 ## New Tab Weather
 
