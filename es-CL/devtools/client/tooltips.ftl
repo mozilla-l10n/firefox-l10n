@@ -17,6 +17,7 @@ learn-more = <span data-l10n-name="link">Aprender más</span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un contenedor flex ni un contenedor de cuadrícula.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un contenedor flex, un contenedor de cuadrilla o un contenedor multi-columna.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un contenedor multicolumna.
+inactive-css-column-span = <strong>{ $property }</strong> no tiene efecto extensor en este elemento ya que no está dentro de un contenedor multicolumna.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento de cuadrícula o flex.
 inactive-css-not-grid-item = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento de cuadrícula.
 inactive-css-not-grid-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un contenedor de cuadrícula.
