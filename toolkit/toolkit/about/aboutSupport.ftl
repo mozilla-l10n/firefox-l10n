@@ -430,6 +430,20 @@ support-printing-modified-settings = Upravená nastavení tisku
 support-printing-prefs-name = Název
 support-printing-prefs-value = Hodnota
 
+## Remote Settings sections
+
+support-remote-settings-title = Vzdálené nastavení
+support-remote-settings-status = Stav
+support-remote-settings-status-ok = OK
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Nefunkční
+support-remote-settings-last-check = Poslední kontrola
+support-remote-settings-local-timestamp = Místní časová značka
+support-remote-settings-sync-history = Historie
+support-remote-settings-sync-history-status = Stav
+support-remote-settings-sync-history-datetime = Datum
+support-remote-settings-sync-history-infos = Informace
+
 ## Normandy sections
 
 support-remote-experiments-title = Vzdálené experimenty
