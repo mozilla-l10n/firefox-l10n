@@ -296,22 +296,49 @@ newtab-wallpaper-dark-city = Lilla bylandskap
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Solide fargar
 newtab-wallpaper-blue = Blå
+newtab-wallpaper-light-blue = Lyseblå
+newtab-wallpaper-light-purple = Lyselilla
+newtab-wallpaper-light-green = Lysegrøn
 newtab-wallpaper-green = Grøn
+newtab-wallpaper-beige = Beige
 newtab-wallpaper-yellow = Gul
 newtab-wallpaper-orange = Oransje
 newtab-wallpaper-pink = Rosa
+newtab-wallpaper-light-pink = Lyserosa
 newtab-wallpaper-red = Raud
+newtab-wallpaper-dark-blue = Mørkeblå
+newtab-wallpaper-dark-purple = Mørkelilla
+newtab-wallpaper-dark-green = Mørkegrøn
+newtab-wallpaper-brown = Brun
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstrakt
+newtab-wallpaper-abstract-green = Grøne former
+newtab-wallpaper-abstract-blue = Blåe former
+newtab-wallpaper-abstract-purple = Lilla former
+newtab-wallpaper-abstract-orange = Oransje former
+newtab-wallpaper-gradient-orange = Fargeovergang oransje og rosa
+newtab-wallpaper-abstract-blue-purple = Blå og lilla former
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotografi
+newtab-wallpaper-beach-at-sunrise = Strand ved soloppgang
+newtab-wallpaper-beach-at-sunset = Strand ved solnedgang
+newtab-wallpaper-storm-sky = Stormhimmel
+newtab-wallpaper-sky-with-pink-clouds = Himmel med rosa skyer
+newtab-wallpaper-red-panda-yawns-in-a-tree = Raud panda som geispar i eit tre
+newtab-wallpaper-white-mountains = Kvite fjell
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Bilde av <a data-l10n-name="name-link">{ $author_string }</a> på <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Prøv ein fargeklatt
+newtab-wallpaper-feature-highlight-content = Gje ny fane-sida ein friskt utsjånad med bakgrunnsbilde.
+newtab-wallpaper-feature-highlight-button = Eg forstår
 
 ## New Tab Weather
 
