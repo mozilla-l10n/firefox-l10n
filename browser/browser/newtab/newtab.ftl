@@ -294,6 +294,44 @@ newtab-wallpaper-dark-panda = Panda-vermelho escondido na floresta
 newtab-wallpaper-dark-sky = Paisagem da cidade com um pôr do sol
 newtab-wallpaper-dark-mountain = Paisagem montanhosa
 newtab-wallpaper-dark-city = Paisagem urbana em tons de roxo
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Cores sólidas
+newtab-wallpaper-blue = Azul
+newtab-wallpaper-light-blue = Azul claro
+newtab-wallpaper-light-purple = Roxo claro
+newtab-wallpaper-light-green = Verde claro
+newtab-wallpaper-green = Verde
+newtab-wallpaper-beige = Bege
+newtab-wallpaper-yellow = Amarelo
+newtab-wallpaper-orange = Laranja
+newtab-wallpaper-pink = Rosa
+newtab-wallpaper-light-pink = Rosa claro
+newtab-wallpaper-red = Vermelho
+newtab-wallpaper-dark-blue = Azul escuro
+newtab-wallpaper-dark-purple = Roxo escuro
+newtab-wallpaper-dark-green = Verde escuro
+newtab-wallpaper-brown = Castanho
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstrato
+newtab-wallpaper-abstract-green = Formas verdes
+newtab-wallpaper-abstract-blue = Formas azuis
+newtab-wallpaper-abstract-purple = Formas roxas
+newtab-wallpaper-abstract-orange = Formas alaranjadas
+newtab-wallpaper-gradient-orange = Gradiente laranja e rosa
+newtab-wallpaper-abstract-blue-purple = Formas azuis e roxas
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Fotografias
+newtab-wallpaper-beach-at-sunrise = Praia ao nascer do sol
+newtab-wallpaper-beach-at-sunset = Praia ao pôr do sol
+newtab-wallpaper-storm-sky = Céu tempestuoso
+newtab-wallpaper-sky-with-pink-clouds = Céu com nuvens rosa.
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda vermelho boceja numa árvore
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
