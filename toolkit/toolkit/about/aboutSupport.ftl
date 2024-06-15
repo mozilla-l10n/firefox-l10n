@@ -412,6 +412,11 @@ support-printing-modified-settings = Endra utskriftsinnstillingar
 support-printing-prefs-name = Namn
 support-printing-prefs-value = Verdi
 
+## Remote Settings sections
+
+support-remote-settings-status = Status
+support-remote-settings-status-ok = OK
+
 ## Normandy sections
 
 support-remote-experiments-title = Eksterne eksperiment
