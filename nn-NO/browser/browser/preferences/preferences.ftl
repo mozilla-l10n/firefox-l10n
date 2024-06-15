@@ -1305,6 +1305,10 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Annonseinnstillingar for nettstad
+website-advertising-private-attribution =
+    .label = Tillat nettsteadar å utføre personvernbevarande annonsemåling
+    .accesskey = a
+website-advertising-private-attribution-description = Dette hjelper nettstadar med å forstå korleis annonsane deira fungerer utan å samle inn data om deg.
 
 ## Privacy Section - Security
 ##
