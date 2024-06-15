@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Inclui os cartões de débito e c
     .accesskey = I
 autofill-saved-payment-methods-button = Métodos de pagamento guardados
     .accesskey = t
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Requer a autenticação do macOS para preencher e editar os métodos de pagamento.
-        [windows] Requer a autenticação do Windows para preencher e editar os métodos de pagamento.
-        [linux] Requer a autenticação do Linux para preencher e editar os métodos de pagamento.
-       *[other] Requer a autenticação para preencher e editar os métodos de pagamento.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Requerer o início de sessão no dispositivo para preencher e gerir métodos de pagamento
     .accesskey = o
@@ -1309,6 +1301,10 @@ privacy-segmentation-radio-off =
     .label = Usar as recomendações do { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar informações detalhadas
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Preferências de publicidade de sites
 
 ## Privacy Section - Security
 ##
