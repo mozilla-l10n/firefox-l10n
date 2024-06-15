@@ -294,10 +294,36 @@ newtab-wallpaper-dark-panda = جَھر وِچ لُکّیا ہوئیا رَتّا
 newtab-wallpaper-dark-sky = رات دے اَسمان دے نال شہر دا منظر
 newtab-wallpaper-dark-mountain = پہاڑ دا منظر
 newtab-wallpaper-dark-city = ڄَمُّوں رنگ دے شہر د امنظر
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = ٹھوس رنگ
+newtab-wallpaper-blue = نیلا
+newtab-wallpaper-light-blue = پھکا نیلا
+newtab-wallpaper-light-purple = پھکا بادامى
+newtab-wallpaper-light-green = پھکا ساوا
+newtab-wallpaper-green = ساوا
+newtab-wallpaper-beige = مٹیالا
+newtab-wallpaper-yellow = پیلا
+newtab-wallpaper-orange = نارنجی
+newtab-wallpaper-pink = گلابی
+newtab-wallpaper-light-pink = پھکا گلابی
+newtab-wallpaper-red = لال
+newtab-wallpaper-dark-blue = شوخ نیلا
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_string }</a> تے <a data-l10n-name="name-link">{ $author_string }</a> ولوں فوٹو
+newtab-wallpaper-feature-highlight-button = سمجھ گھدے
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
