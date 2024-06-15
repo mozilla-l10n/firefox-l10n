@@ -17,6 +17,7 @@ learn-more = <span data-l10n-name="link">Saber mais</span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> não tem efeito neste elemento porque não é um contentor flex ou contentor grid.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> não tem efeito neste elemento pois este não é um contentor flex, contentor grid, ou um contentor multi-colunas.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> não tem efeito neste elemento, pois não é um contentor de várias colunas.
+inactive-css-column-span = <strong>{ $property }</strong> não efeito de expansão neste elemento, pois não está dentro de um contentor de várias colunas.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> não tem efeito neste elemento porque não é um um item grid ou flex.
 inactive-css-not-grid-item = <strong>{ $property }</strong> não tem efeito neste elemento porque não é um item grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> não tem efeito neste elemento porque não é um contentor grid.
@@ -30,6 +31,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> não t
 inactive-css-not-display-block-on-floated = O valor de <strong>display</strong> foi alterado pelo motor para <strong>block</strong> porque o elemento é <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = É impossível substituir <strong> { $property } </strong> devido à restrição <strong>:visited </strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> não tem efeito neste elemento porque não é um elemento posicional.
+inactive-css-only-replaced-elements = <strong>{ $property }</strong> não tem efeito neste elemento dado que só pode ser aplicado para ser substituído
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> não tem qualquer efeito neste elemento dado que <strong>overflow:hidden</strong> não está definido.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> não tem qualquer efeito em elementos de tabelas.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> não tem qualquer efeito em elementos internos de tabelas com excepção das células da tabela.
