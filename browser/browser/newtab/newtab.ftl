@@ -294,6 +294,34 @@ newtab-wallpaper-dark-panda = Roter Panda im Wald versteckt
 newtab-wallpaper-dark-sky = Stadtlandschaft mit Nachthimmel
 newtab-wallpaper-dark-mountain = Berg in der Landschaft
 newtab-wallpaper-dark-city = Violette Stadtlandschaft
+
+## Solid Colors
+
+newtab-wallpaper-blue = Blau
+newtab-wallpaper-light-blue = Hellblau
+newtab-wallpaper-light-purple = Helllila
+newtab-wallpaper-light-green = Hellgrün
+newtab-wallpaper-green = Grün
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Gelb
+newtab-wallpaper-orange = Orange
+newtab-wallpaper-pink = Rosa
+newtab-wallpaper-light-pink = Hellrosa
+newtab-wallpaper-red = Rot
+newtab-wallpaper-dark-blue = Dunkelblau
+newtab-wallpaper-dark-purple = Dunkellila
+newtab-wallpaper-dark-green = Dunkelgrün
+newtab-wallpaper-brown = Braun
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstrakt
+newtab-wallpaper-abstract-green = Grüne Formen
+newtab-wallpaper-abstract-blue = Blaue Formen
+newtab-wallpaper-abstract-purple = Lila Formen
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
