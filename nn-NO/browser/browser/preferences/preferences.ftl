@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Inkluderer kreditt- og debetkort
     .accesskey = I
 autofill-saved-payment-methods-button = Lagra betaslingsmetodar
     .accesskey = a
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Krev macOS-autentisering for å fylle ut og redigere betalingsmåtar.
-        [windows] Krev Windows-autentisering for å fylle ut og redigere betalingsmåtar.
-        [linux] Krev Linux-autentisering for å fylle ut og redigere betalingsmåtar.
-       *[other] Krev autentisering for å fylle ut og redigere betalingsmåtar.
-    }
-    .accesskey = a
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Krev einingsinnlogging for å fylle ut og behandle betalingsmåtar
     .accesskey = o
@@ -1309,6 +1301,10 @@ privacy-segmentation-radio-off =
     .label = Bruk { -brand-product-name }-tilrådingar
 privacy-segmentation-radio-on =
     .label = Vis detaljert informasjon
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Annonseinnstillingar for nettstad
 
 ## Privacy Section - Security
 ##
