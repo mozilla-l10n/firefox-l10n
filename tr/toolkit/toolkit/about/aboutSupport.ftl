@@ -415,6 +415,19 @@ support-printing-modified-settings = Değiştirilmiş yazdırma ayarları
 support-printing-prefs-name = Ad
 support-printing-prefs-value = Değer
 
+## Remote Settings sections
+
+support-remote-settings-status = Durum
+support-remote-settings-status-ok = Tamam
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Çalışmıyor
+support-remote-settings-last-check = Son kontrol
+support-remote-settings-local-timestamp = Yerel zaman damgası
+support-remote-settings-sync-history = Geçmiş
+support-remote-settings-sync-history-status = Durum
+support-remote-settings-sync-history-datetime = Tarih
+support-remote-settings-sync-history-infos = Bilgiler
+
 ## Normandy sections
 
 support-remote-experiments-title = Uzak deneyler
