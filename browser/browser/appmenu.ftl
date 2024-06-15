@@ -192,6 +192,11 @@ profiler-popup-presets-power-description = Preset per la diagnosi di problemi re
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+
+profiler-popup-presets-debug-description = Preset per il debug di { -brand-shorter-name }. Overhead elevato, non utilizzare per analisi delle prestazioni ma solo per comprendere il comportamento del browser.
+profiler-popup-presets-debug-label =
+  .label = Debug
+
 profiler-popup-presets-custom-label =
     .label = Personalizzato
 

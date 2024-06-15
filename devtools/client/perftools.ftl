@@ -165,6 +165,9 @@ perftools-presets-networking-description = Preset per la diagnosi di problemi di
 perftools-presets-power-label = Energia
 perftools-presets-power-description = Preset per la diagnosi di problemi relativi al consumo di energia in { -brand-shorter-name }, con overhead limitato.
 
+perftools-presets-debug-label = Debug
+perftools-presets-debug-description = Preset per il debug di { -brand-shorter-name }. Overhead elevato, non utilizzare per analisi delle prestazioni ma solo per comprendere il comportamento del browser.
+
 perftools-presets-custom-label = Personalizzato
 
 ##
