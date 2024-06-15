@@ -339,6 +339,13 @@ newtab-wallpaper-attribution = Bilde av <a data-l10n-name="name-link">{ $author_
 newtab-wallpaper-feature-highlight-header = Prøv ein fargeklatt
 newtab-wallpaper-feature-highlight-content = Gje ny fane-sida ein friskt utsjånad med bakgrunnsbilde.
 newtab-wallpaper-feature-highlight-button = Eg forstår
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Lat att
+    .aria-label = Lat att sprettoppvindauge
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
