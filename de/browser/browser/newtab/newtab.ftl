@@ -297,6 +297,7 @@ newtab-wallpaper-dark-city = Violette Stadtlandschaft
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Einfarbig
 newtab-wallpaper-blue = Blau
 newtab-wallpaper-light-blue = Hellblau
 newtab-wallpaper-light-purple = Helllila
