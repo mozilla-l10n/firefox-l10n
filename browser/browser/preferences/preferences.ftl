@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Kredi ve banka kartları dahil
     .accesskey = K
 autofill-saved-payment-methods-button = Kayıtlı ödeme yöntemleri
     .accesskey = ö
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Ödeme yöntemlerini doldurmak ve düzenlemek için macOS kimlik doğrulaması iste.
-        [windows] Ödeme yöntemlerini doldurmak ve düzenlemek için Windows kimlik doğrulaması iste.
-        [linux] Ödeme yöntemlerini doldurmak ve düzenlemek için Linux kimlik doğrulaması iste.
-       *[other] Ödeme yöntemlerini doldurmak ve düzenlemek için kimlik doğrulaması iste.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Ödeme yöntemlerini doldurmak ve yönetmek için cihazdan giriş yapmayı zorunlu tut
     .accesskey = Ö
@@ -1060,7 +1052,7 @@ sitedata-option-block-unvisited =
 sitedata-option-block-all-cross-site-cookies =
     .label = Tüm siteler arası çerezler (Bazı siteler düzgün çalışmayabilir)
 sitedata-option-block-all =
-    .label = Tüm çerezler (Bazı siteler bozulabilir.)
+    .label = Tüm çerezler (Birçok site düzgün çalışmayabilir)
 sitedata-clear =
     .label = Verileri temizle…
     .accesskey = l
@@ -1309,6 +1301,14 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } önerilerini kullan
 privacy-segmentation-radio-on =
     .label = Ayrıntılı bilgileri göster
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Web sitesi reklam tercihleri
+website-advertising-private-attribution =
+    .label = Web sitelerinin gizliliği koruyan reklam ölçümleri yapmasına izin ver
+    .accesskey = W
+website-advertising-private-attribution-description = Bu sayede siteler sizin hakkınızda veri toplamadan reklamlarının nasıl performans gösterdiğini daha iyi anlayabilir.
 
 ## Privacy Section - Security
 ##

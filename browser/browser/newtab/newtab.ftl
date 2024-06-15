@@ -323,10 +323,23 @@ newtab-wallpaper-abstract-blue-purple = Mavi ve mor şekiller
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Fotoğraflar
+newtab-wallpaper-beach-at-sunrise = Gün doğumunda sahil
+newtab-wallpaper-beach-at-sunset = Gün batımında sahil
+newtab-wallpaper-storm-sky = Fırtınalı gökyüzü
+newtab-wallpaper-sky-with-pink-clouds = Pembe bulutlarla kaplı gökyüzü
+newtab-wallpaper-red-panda-yawns-in-a-tree = Ağaçta esneyen kızıl panda
+newtab-wallpaper-white-mountains = Beyaz dağlar
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotoğraf: <a data-l10n-name="name-link">{ $author_string }</a> / <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Farklı renkleri deneyin
+newtab-wallpaper-feature-highlight-content = Duvar kâğıtlarıyla yeni sekme sayfanıza yeni bir görünüm kazandırın.
+newtab-wallpaper-feature-highlight-button = Anladım
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Kapat
+    .aria-label = Açılır pencereyi kapat
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
