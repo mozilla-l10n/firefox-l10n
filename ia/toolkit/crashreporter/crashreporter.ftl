@@ -4,7 +4,7 @@
 
 crashreporter-branded-title = Reporter de crash de { -brand-short-name }
 crashreporter-apology = Nos regretta
-crashreporter-crashed-and-restore = { -brand-short-name } habeva un problema e collabeva. Nos tentara de restaurar tu schedas e fenestras quando illo se reinitiara.
+crashreporter-crashed-and-restore = { -brand-short-name } ha incontrate un problema e ha collabite. Nos tentara restaurar tu schedas e fenestras quando illo se reinitiara.
 crashreporter-plea = Pro adjutar nos a diagnosticar e corriger le problema, tu pote inviar nos un reporto de collapso.
 crashreporter-information = Iste application es exequite post un crash pro reportar le problema a { -vendor-short-name }. Illo non deberea esser exequite directemente.
 crashreporter-error = { -brand-short-name } habeva un problema e collabeva. Infortunatemente, le reporter de crash  non pote inviar un reporto pro iste crash.
