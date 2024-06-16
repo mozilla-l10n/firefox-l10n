@@ -321,7 +321,7 @@ newtab-wallpaper-abstract-green = Grüne Formen
 newtab-wallpaper-abstract-blue = Blaue Formen
 newtab-wallpaper-abstract-purple = Lila Formen
 newtab-wallpaper-abstract-orange = Orangefarbene Formen
-newtab-wallpaper-gradient-orange = Farbverlauf orange und pink
+newtab-wallpaper-gradient-orange = Farbverlauf orange und rosa
 newtab-wallpaper-abstract-blue-purple = Blaue und lila Formen
 
 ## Photographs
