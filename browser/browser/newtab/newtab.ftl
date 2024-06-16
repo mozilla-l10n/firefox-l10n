@@ -290,6 +290,41 @@ newtab-wallpaper-dark-panda = Panda rojo escondido en el bosque
 newtab-wallpaper-dark-sky = Paisaje de ciudad con cielo nocturno
 newtab-wallpaper-dark-mountain = Paisaje de montaña
 newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Colores sólidos
+newtab-wallpaper-blue = Azul
+newtab-wallpaper-light-blue = Azul claro
+newtab-wallpaper-light-purple = Púrpura claro
+newtab-wallpaper-light-green = Verde claro
+newtab-wallpaper-green = Verde
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Amarillo
+newtab-wallpaper-orange = Naranja
+newtab-wallpaper-pink = Rosa
+newtab-wallpaper-light-pink = Rosa claro
+newtab-wallpaper-red = Rojo
+newtab-wallpaper-dark-blue = Azul oscuro
+newtab-wallpaper-dark-purple = Púrpura oscuro
+newtab-wallpaper-dark-green = Verde oscuro
+newtab-wallpaper-brown = Marrón
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstracto
+newtab-wallpaper-abstract-green = Formas verdes
+newtab-wallpaper-abstract-blue = Formas azules
+newtab-wallpaper-abstract-purple = Formas púrpuras
+newtab-wallpaper-abstract-orange = Formas naranjas
+newtab-wallpaper-gradient-orange = Degradado naranja y rosa
+newtab-wallpaper-abstract-blue-purple = Formas azules y púrpuras
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Fotografías
+newtab-wallpaper-beach-at-sunrise = Playa al amanecer
+newtab-wallpaper-beach-at-sunset = Playa al atardecer
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
