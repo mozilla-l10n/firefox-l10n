@@ -307,9 +307,9 @@ browser-tab-audio-pip = СЛИКА-ВО-СЛИКА
 
 browser-tab-mute =
     { $count ->
-        [1] ИСКЛУЧИ ТАБ
-        [one] ИСКЛУЧИ ТАБ
-       *[other] ИСКЛУЧИ ТАБОВИ { $count }
+        [1] ЗАМОЛЧИ ЈАЗИЧЕ
+        [one] ЗАМОЛЧИ ЈАЗИЧЕ
+       *[other] ЗАМОЛЧИ { $count } ЈАЗИЧИЊА
     }
 browser-tab-unmute =
     { $count ->
@@ -463,6 +463,9 @@ urlbar-result-action-copy-to-clipboard = Копирај
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+
+## Strings used for buttons in the urlbar
+
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -725,6 +728,9 @@ tabs-toolbar-list-all-tabs =
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Отворете ги претходните јазичиња?</strong> Можете да ја вратите претходната сесија од менито на апликацијата { -brand-short-name } <img data-l10n-name="icon"/>, под Историја.
 restore-session-startup-suggestion-button = Покажи ми како.
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
