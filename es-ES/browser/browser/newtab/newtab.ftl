@@ -325,10 +325,24 @@ newtab-wallpaper-abstract-blue-purple = Formas azules y púrpuras
 newtab-wallpaper-category-title-photographs = Fotografías
 newtab-wallpaper-beach-at-sunrise = Playa al amanecer
 newtab-wallpaper-beach-at-sunset = Playa al atardecer
+newtab-wallpaper-storm-sky = Cielo tormentoso
+newtab-wallpaper-sky-with-pink-clouds = Cielo con nubes rosas
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda rojo bosteza en un árbol
+newtab-wallpaper-white-mountains = Montañas blancas
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto de <a data-l10n-name="name-link">{ $author_string }</a> en <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Pruebe un toque de color
+newtab-wallpaper-feature-highlight-content = Dele a su nueva pestaña una apariencia renovada con fondos de pantalla.
+newtab-wallpaper-feature-highlight-button = Entendido
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Descartar
+    .aria-label = Cerrar ventana emergente
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
