@@ -1302,6 +1302,10 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = Eike marandurenda hesa’ỹijopyrévape
 
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Ñanduti rogue maranduñemurãva
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:

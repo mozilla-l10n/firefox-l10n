@@ -412,6 +412,20 @@ support-printing-modified-settings = Ñemoĩporã monguatiagua moabuepyre
 support-printing-prefs-name = Téra
 support-printing-prefs-value = Tepykue
 
+## Remote Settings sections
+
+support-remote-settings-title = Ñemboheko okágui
+support-remote-settings-status = Tekotee
+support-remote-settings-status-ok = MONEĨ
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Ndoikói
+support-remote-settings-last-check = Jehechajey ramovéva
+support-remote-settings-local-timestamp = Aravo apegua
+support-remote-settings-sync-history = Tembiasakue
+support-remote-settings-sync-history-status = Tekotee
+support-remote-settings-sync-history-datetime = Mba’ekuaarã
+support-remote-settings-sync-history-infos = Marandu
+
 ## Normandy sections
 
 support-remote-experiments-title = Okayguágui jehekapyahu

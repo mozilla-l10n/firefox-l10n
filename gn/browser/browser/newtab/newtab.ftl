@@ -315,6 +315,7 @@ newtab-wallpaper-brown = Marrõ
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Hecha’ỹva
 newtab-wallpaper-abstract-green = Hovyũva rehegua
 newtab-wallpaper-abstract-blue = Hovýva rehegua
 newtab-wallpaper-abstract-purple = Pytãũva rehegua
