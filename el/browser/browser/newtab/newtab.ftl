@@ -294,10 +294,48 @@ newtab-wallpaper-dark-panda = Κόκκινο πάντα στο δάσος
 newtab-wallpaper-dark-sky = Αστικό τοπίο με νυχτερινό ουρανό
 newtab-wallpaper-dark-mountain = Ορεινό τοπίο
 newtab-wallpaper-dark-city = Μωβ αστικό τοπίο
+
+## Solid Colors
+
+newtab-wallpaper-blue = Μπλε
+newtab-wallpaper-light-blue = Ανοιχτό μπλε
+newtab-wallpaper-light-purple = Ανοιχτό μωβ
+newtab-wallpaper-light-green = Ανοιχτό πράσινο
+newtab-wallpaper-green = Πράσινο
+newtab-wallpaper-beige = Μπεζ
+newtab-wallpaper-yellow = Κίτρινο
+newtab-wallpaper-orange = Πορτοκαλί
+newtab-wallpaper-pink = Ροζ
+newtab-wallpaper-light-pink = Ανοιχτό ροζ
+newtab-wallpaper-red = Κόκκινο
+newtab-wallpaper-dark-blue = Σκούρο μπλε
+newtab-wallpaper-dark-purple = Σκούρο μωβ
+newtab-wallpaper-dark-green = Σκούρο πράσινο
+newtab-wallpaper-brown = Καφέ
+
+## Abstract
+
+newtab-wallpaper-abstract-green = Πράσινα σχήματα
+newtab-wallpaper-abstract-blue = Μπλε σχήματα
+newtab-wallpaper-abstract-purple = Μωβ σχήματα
+newtab-wallpaper-abstract-orange = Πορτοκαλί σχήματα
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Φωτογραφίες
+newtab-wallpaper-sky-with-pink-clouds = Ουρανός με ροζ σύννεφα
+newtab-wallpaper-white-mountains = Λευκά βουνά
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Φωτογραφία από <a data-l10n-name="name-link">{ $author_string }</a> στο <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Απόρριψη
+    .aria-label = Κλείσιμο αναδυόμενου παραθύρου
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
