@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Περιλαμβάνει πιστ
     .accesskey = Π
 autofill-saved-payment-methods-button = Αποθηκευμένες μέθοδοι πληρωμής
     .accesskey = κ
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Απαίτηση ελέγχου ταυτότητας από το macOS για τη συμπλήρωση και την επεξεργασία των μεθόδων πληρωμής.
-        [windows] Απαίτηση ελέγχου ταυτότητας από τα Windows για τη συμπλήρωση και την επεξεργασία των μεθόδων πληρωμής.
-        [linux] Απαίτηση ελέγχου ταυτότητας από το Linux για τη συμπλήρωση και την επεξεργασία των μεθόδων πληρωμής.
-       *[other] Απαίτηση ελέγχου ταυτότητας για τη συμπλήρωση και την επεξεργασία των μεθόδων πληρωμής.
-    }
-    .accesskey = ο
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Απαίτηση σύνδεσης μέσω συσκευής για συμπλήρωση και διαχείριση μεθόδων πληρωμής
     .accesskey = σ
@@ -1309,6 +1301,10 @@ privacy-segmentation-radio-off =
     .label = Χρήση προτάσεων του { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Εμφάνιση λεπτομερών πληροφοριών
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Προτιμήσεις διαφημίσεων ιστοτόπων
 
 ## Privacy Section - Security
 ##
