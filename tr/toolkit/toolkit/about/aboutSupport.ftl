@@ -417,6 +417,7 @@ support-printing-prefs-value = Değer
 
 ## Remote Settings sections
 
+support-remote-settings-title = Uzak ayarlar
 support-remote-settings-status = Durum
 support-remote-settings-status-ok = Tamam
 # Status when synchronization is not working.
