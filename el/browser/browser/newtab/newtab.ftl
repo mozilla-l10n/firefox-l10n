@@ -324,6 +324,7 @@ newtab-wallpaper-abstract-orange = Πορτοκαλί σχήματα
 
 newtab-wallpaper-category-title-photographs = Φωτογραφίες
 newtab-wallpaper-sky-with-pink-clouds = Ουρανός με ροζ σύννεφα
+newtab-wallpaper-red-panda-yawns-in-a-tree = Κόκκινο πάντα που χασμουριέται σε ένα δέντρο
 newtab-wallpaper-white-mountains = Λευκά βουνά
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
