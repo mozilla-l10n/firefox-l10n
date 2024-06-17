@@ -315,6 +315,10 @@ newtab-wallpaper-brown = Marrõ
 
 ## Abstract
 
+newtab-wallpaper-abstract-green = Hovyũva rehegua
+newtab-wallpaper-abstract-blue = Hovýva rehegua
+newtab-wallpaper-abstract-purple = Pytãũva rehegua
+newtab-wallpaper-abstract-orange = Ñarã rehegua
 
 ## Photographs
 
