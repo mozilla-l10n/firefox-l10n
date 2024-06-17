@@ -116,16 +116,8 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Elimină toate
     .accesskey = e
-translations-manage-error-install = A apărut o problemă la instalarea fișierelor lingvistice. Te rugăm să încerci din nou.
 translations-manage-error-download = A apărut o problemă la descărcarea fișierelor lingvistice. Te rugăm să încerci din nou.
 translations-manage-error-delete = A apărut o problemă la ștergerea fișierelor lingvistice. Te rugăm să încerci din nou.
-translations-manage-intro = Setează preferințele de traducere pentru limbă și site-uri și gestionează limbile instalate pentru traducerea offline.
-translations-manage-install-description = Instalează limbi pentru traducere offline
-translations-manage-language-install-button =
-    .label = Instalează
-translations-manage-language-install-all-button =
-    .label = Instalează toate
-    .accesskey = I
 translations-manage-error-remove = A apărut o problemă la eliminarea fișierelor lingvistice. Te rugăm să încerci din nou.
 translations-manage-error-list = Nu s-a putut obține lista de limbi disponibile pentru traducere. Reîmprospătează pagina pentru a încerca din nou.
 translations-settings-title =
@@ -155,6 +147,19 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Închide
     .buttonaccesskeyaccept = C
+# Text displayed in the right-click context menu for translating
+# selected text to a yet-to-be-determined language.
+main-context-menu-translate-selection =
+    .label = Tradu selecția...
+    .accesskey = n
+# Text displayed in the right-click context menu for translating
+# selected text to a target language.
+#
+# Variables:
+#   $language (string) - The localized display name of the target language
+main-context-menu-translate-selection-to-language =
+    .label = Tradu selecția în { $language }
+    .accesskey = n
 select-translations-panel-cancel-button =
     .label = Renunță
 select-translations-panel-translate-button =
