@@ -319,10 +319,17 @@ newtab-wallpaper-abstract-green = Hovyũva rehegua
 newtab-wallpaper-abstract-blue = Hovýva rehegua
 newtab-wallpaper-abstract-purple = Pytãũva rehegua
 newtab-wallpaper-abstract-orange = Ñarã rehegua
+newtab-wallpaper-gradient-orange = Oguejýva narãgui pytãngýpe
+newtab-wallpaper-abstract-blue-purple = Hovy ha pytãũva rehegua
 
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Ta’ãnga
+newtab-wallpaper-beach-at-sunrise = Jejahuha ko’ẽmbotávo
+newtab-wallpaper-beach-at-sunset = Jejahuha ka’arupytũvo
+newtab-wallpaper-storm-sky = Ára vai
+newtab-wallpaper-sky-with-pink-clouds = Ára arai pytãngy ndive
+newtab-wallpaper-red-panda-yawns-in-a-tree = Pánda pytã hopehýi yvyráre
 newtab-wallpaper-white-mountains = Yvytysyry morotĩ
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
