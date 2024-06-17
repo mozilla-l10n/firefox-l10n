@@ -417,6 +417,20 @@ support-printing-modified-settings = Spremenjene nastavitve tiskanja
 support-printing-prefs-name = Ime
 support-printing-prefs-value = Vrednost
 
+## Remote Settings sections
+
+support-remote-settings-title = Oddaljene nastavitve
+support-remote-settings-status = Stanje
+support-remote-settings-status-ok = V redu
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Ne deluje
+support-remote-settings-last-check = Zadnje preverjanje
+support-remote-settings-local-timestamp = Lokalni časovni žig
+support-remote-settings-sync-history = Zgodovina
+support-remote-settings-sync-history-status = Stanje
+support-remote-settings-sync-history-datetime = Datum
+support-remote-settings-sync-history-infos = Informacije
+
 ## Normandy sections
 
 support-remote-experiments-title = Oddaljeni poskusi
