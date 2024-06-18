@@ -319,6 +319,8 @@ newtab-wallpaper-abstract-green = Πράσινα σχήματα
 newtab-wallpaper-abstract-blue = Μπλε σχήματα
 newtab-wallpaper-abstract-purple = Μωβ σχήματα
 newtab-wallpaper-abstract-orange = Πορτοκαλί σχήματα
+newtab-wallpaper-gradient-orange = Διαβάθμιση πορτοκαλί και ροζ
+newtab-wallpaper-abstract-blue-purple = Μπλε και μωβ σχήματα
 
 ## Photographs
 
