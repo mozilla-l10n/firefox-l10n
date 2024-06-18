@@ -1299,9 +1299,9 @@ addon-recommendations-link = Dalše informacije
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datowe rozprawjenje je znjemóžnjene za tutu programowu konfiguraciju
-collection-backlogged-crash-reports-with-link = { -brand-short-name } dowolić, zo bychu so njepósłane spadowe rozprawy we wašim mjenje pósłali <a data-l10n-name="crash-reports-link">Dalše informacije</a>
+collection-backlogged-crash-reports-with-link = { -brand-short-name } dowolić, zo by njepósłane spadowe rozprawy we wašim mjenje pósłał <a data-l10n-name="crash-reports-link">Dalše informacije</a>
     .accesskey = d
-collection-backlogged-crash-reports = { -brand-short-name } dowolić, zo bychu so njepósłane spadowe rozprawy we wašim mjenje pósłali
+collection-backlogged-crash-reports = { -brand-short-name } dowolić, zo by njepósłane spadowe rozprawy we wašim mjenje pósłał
     .accesskey = d
 privacy-segmentation-section-header = Nowe funkcije, kotrež waše přehladowanje polěpšeja
 privacy-segmentation-section-description = Hdyž funkcije poskicámy, kotrež waše daty wužiwaja, zo bychmy wam bóle wosobinske dožiwjenje skićili:
