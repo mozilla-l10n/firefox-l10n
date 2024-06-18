@@ -5,7 +5,7 @@
 print-setup =
     .title = Uppsetning síðu
 custom-prompt-title = Sérsniðið…
-custom-prompt-prompt = Sláðu inn sérsniðinn síðuhaus/síðufót texta
+custom-prompt-prompt = Settu inn sérsniðinn síðuhaus/síðufót texta
 basic-tab =
     .label = Snið og stillingar
 advanced-tab =
@@ -103,7 +103,6 @@ print-window =
     .title = Prentun
 print-complete =
     .value = Prentun er lokið.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
