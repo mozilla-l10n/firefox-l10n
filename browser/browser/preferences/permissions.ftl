@@ -69,7 +69,7 @@ permissions-capabilities-listitem-off-temporarily =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Ólöglegt vistfang slegið inn
-permissions-invalid-uri-label = Sláðu inn löglegt vistfang
+permissions-invalid-uri-label = Settu inn löglegt vélarheiti.
 
 ## Exceptions - Tracking Protection
 
@@ -119,7 +119,7 @@ permissions-exceptions-saved-passwords-desc = { -brand-short-name } mun ekki vis
 permissions-exceptions-addons-window2 =
     .title = Leyfð vefsvæði - Uppsetning á viðbótum
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að setja inn viðbætur. Sláðu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á að leyfa.
+permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að setja inn viðbætur. Settu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á að leyfa.
 
 ## Site Permissions - Autoplay
 
