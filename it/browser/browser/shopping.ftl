@@ -119,6 +119,7 @@ shopping-settings-sidebar-enabled-state = Verifica recensioni è <strong>attiva<
 shopping-adjusted-rating-label =
     .label = Valutazione rettificata
 shopping-adjusted-rating-unreliable-reviews = Recensioni inaffidabili rimosse
+shopping-adjusted-rating-based-reliable-reviews = Basato su recensioni affidabili
 
 ## Strings for the review reliability component
 
