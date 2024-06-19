@@ -139,6 +139,7 @@ perftools-presets-networking-description = 於 { -brand-shorter-name } 診斷網
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = 電源
 perftools-presets-power-description = 於 { -brand-shorter-name } 診斷耗電量時的預設值，額外負荷較低。
+perftools-presets-debug-label = 除錯
 perftools-presets-custom-label = 自訂
 
 ##

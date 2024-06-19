@@ -77,12 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = 顯示更多分頁
     .tooltiptext = 顯示來自此裝置的更多分頁
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label = 顯示 { $count } 個閒置中的分頁
-    .tooltiptext = 在此裝置顯示閒置中的分頁
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = 閒置分頁
@@ -202,6 +196,8 @@ profiler-popup-presets-power-description = 於 { -brand-shorter-name } 診斷耗
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = 電源
+profiler-popup-presets-debug-label =
+    .label = 除錯
 profiler-popup-presets-custom-label =
     .label = 自訂
 
