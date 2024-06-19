@@ -170,6 +170,7 @@ shopping-callout-closed-opted-in-subtitle = Kembali ke <strong>Review Checker</s
 shopping-callout-pdp-opted-in-title = Apakah ulasan ini dapat diandalkan? Temukan dengan cepat.
 shopping-callout-pdp-opted-in-subtitle = Buka Review Checker untuk melihat peringkat yang disesuaikan dengan ulasan yang tidak dapat diandalkan dihapus. Juga, lihat sorotan dari ulasan otentik terbaru.
 shopping-callout-closed-not-opted-in-title = Satu klik untuk ulasan yang andal
+shopping-callout-closed-not-opted-in-subtitle = Cobalah Review Checker setiap kali Anda melihat label harga. Dapatkan masukan dari pembeli nyata dengan cepat — sebelum Anda membeli.
 
 ## Onboarding message strings.
 
