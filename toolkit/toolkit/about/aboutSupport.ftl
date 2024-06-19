@@ -423,6 +423,7 @@ support-remote-settings-status-ok = OK
 # Status when synchronization is not working.
 support-remote-settings-status-broken = Δεν λειτουργεί
 support-remote-settings-last-check = Τελευταίος έλεγχος
+support-remote-settings-local-timestamp = Τοπική χρονική σήμανση
 support-remote-settings-sync-history = Ιστορικό
 support-remote-settings-sync-history-status = Κατάσταση
 support-remote-settings-sync-history-datetime = Ημερομηνία
