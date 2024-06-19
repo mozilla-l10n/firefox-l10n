@@ -415,6 +415,15 @@ support-printing-modified-settings = ترمیم شدہ پرنٹ دیاں ترت�
 support-printing-prefs-name = ناں
 support-printing-prefs-value = قدر
 
+## Remote Settings sections
+
+support-remote-settings-status = حالت
+support-remote-settings-status-ok = ٹھیک ہے
+support-remote-settings-sync-history = تاریخ
+support-remote-settings-sync-history-status = حیثیت
+support-remote-settings-sync-history-datetime = تریخ
+support-remote-settings-sync-history-infos = معلومات
+
 ## Normandy sections
 
 support-remote-experiments-title = پروبھرے تجربے
