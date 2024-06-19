@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = El verificador de reseñas está <stro
 shopping-adjusted-rating-label =
     .label = Calificación ajustada
 shopping-adjusted-rating-unreliable-reviews = Se eliminaron las reseñas poco confiables
+shopping-adjusted-rating-based-reliable-reviews = Basado en revisiones confiables
 
 ## Strings for the review reliability component
 
