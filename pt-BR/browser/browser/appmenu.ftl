@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Mostrar mais abas
     .tooltiptext = Mostrar mais abas deste dispositivo
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Mostrar uma aba inativa
-           *[other] Mostrar { $count } abas inativas
-        }
-    .tooltiptext = Mostrar abas inativas neste dispositivo
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Abas inativas
@@ -206,6 +196,8 @@ profiler-popup-presets-power-description = Ajuste prévio para investigar bugs d
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+profiler-popup-presets-debug-label =
+    .label = Debug
 profiler-popup-presets-custom-label =
     .label = Personalizado
 
