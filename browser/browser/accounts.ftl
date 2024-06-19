@@ -99,3 +99,16 @@ account-multiple-tabs-arriving-from-unknown-device =
         [few] Получено { $tabCount } вкладки
        *[many] Получено { $tabCount } вкладок
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Просмотр недавно закрытых вкладок
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } вкладка { -brand-short-name } закрыта
+        [few] { $closedCount } вкладки { -brand-short-name } закрыты
+       *[many] { $closedCount } вкладок { -brand-short-name } закрыто
+    }
