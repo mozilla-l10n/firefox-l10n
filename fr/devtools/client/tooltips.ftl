@@ -17,6 +17,7 @@ learn-more = <span data-l10n-name="link">En savoir plus </ span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit ni d’un conteneur flex, ni d’un conteneur de grille.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car ce n’est ni un conteneur flex, ni un conteneur de grille ni un conteneur de plusieurs colonnes.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un conteneur multicolonne.
+inactive-css-column-span = La propriété <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un conteneur multicolonne.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit ni d’un élément de grille ni d’un élément flexible.
 inactive-css-not-grid-item = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un élément de grille.
 inactive-css-not-grid-container = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un conteneur de grille.
@@ -30,6 +31,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> n’a 
 inactive-css-not-display-block-on-floated = La valeur <strong>display</strong> a été modifiée par le moteur en <strong>block</strong> car l’élément est <strong>flottant</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Il n’est pas possible de redéfinir <strong>{ $property }</strong> en raison de restrictions sur <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un élément positionné.
+inactive-css-only-replaced-elements = La propriété <strong>{ $property }</strong> n’a aucun effet sur cet élément, car elle ne peut s’appliquer qu’aux éléments remplacés.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car <strong>overflow:hidden</strong> n’est pas défini.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> n’a aucun effet sur les éléments contenus dans un élément table.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> n’a aucun effet sur les éléments contenus dans un élément table à l’exception de ses cellules.
@@ -37,6 +39,7 @@ inactive-css-not-table = <strong>{ $property }</strong> n’a aucun effet sur ce
 inactive-css-not-table-cell = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’une cellule de tableau.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il ne s’agit pas d’un élément défilable.
 inactive-css-border-image = </strong>{ $property }<strong> n’a aucun effet sur cet élément comme cette propriété ne peut s’appliquer à des éléments internes d’un tableau quand <strong>border-collapse</strong> est défini à <strong>collapse</strong> sur l’élément parent dans le tableau.
+inactive-css-resize = La propriété <strong>{ $property }</strong> n’a aucun effet sur cet élément, car elle ne peut s’appliquer qu’aux éléments dont la valeur de débordement (overflow) est différente de visible et à certains éléments remplacés comme les zones de texte textarea.
 inactive-css-ruby-element = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il s’agit d’un élément ruby. Sa taille est déterminée par celle de la police utilisée pour le texte ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
