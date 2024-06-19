@@ -103,3 +103,8 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = הצגת לשוניות שנסגרו לאחרונה
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] לשונית אחת ב־{ -brand-short-name } נסגרה
+       *[other] { $closedCount } לשוניות ב־{ -brand-short-name } נסגרו
+    }

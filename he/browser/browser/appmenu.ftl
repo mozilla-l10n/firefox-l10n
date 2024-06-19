@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = הצגת לשוניות נוספות
     .tooltiptext = הצגת לשוניות נוספות ממכשיר זה
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] הצגת לשונית לא פעילה אחת
-           *[other] הצגת { $count } לשוניות לא פעילות
-        }
-    .tooltiptext = הצגת הלשוניות שאינן פעילות במכשיר זה
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = לשוניות לא פעילות
@@ -205,6 +195,9 @@ profiler-popup-presets-power-description = ערכה לחקירת באגים של
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = צריכת חשמל
+profiler-popup-presets-debug-description = ערכה לניפוי שגיאות ב־{ -brand-shorter-name }. בעל תקורה גבוהה, אין להשתמש לעבודה על ביצועים אלא להשתמש להתמקדות על התנהגות הדפדפן.
+profiler-popup-presets-debug-label =
+    .label = ניפוי שגיאות
 profiler-popup-presets-custom-label =
     .label = התאמה אישית
 
