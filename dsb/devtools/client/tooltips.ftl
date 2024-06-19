@@ -88,6 +88,7 @@ inactive-css-not-table-fix = Wopytajśo <strong>display:table</strong> abo <stro
 inactive-css-not-table-cell-fix = Wopytajśo <strong>display:table-cell</strong> pśidaś. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Wopytajśo, <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> abo <strong>overflow:hidden</strong> pśidaś. { learn-more }
 inactive-css-border-image-fix = Wótwónoźćo na nadrědowanem elemenśe tabele kakosć abo změńśo gódnotu kakosći <strong>border-collapse</strong> do gódnoty, kótaraž se wót <strong>collapse</strong> rozeznawa. { learn-more }
+inactive-css-resize-fix = Wopytajśo <strong>overflow</strong> na drugu gódnotu ako <strong>visible</strong> stajaś abo se na wuměnjony element měriś, kótaryž jen pódpěra. { learn-more }
 inactive-css-ruby-element-fix = Wopytajśo <strong>font-size</strong> teksta ruby změniś. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Wopytajśo licbu smužkow reducěrowaś. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Wótwónoźćo słupy abo wužywajśo <strong>page-break-inside:avoid</strong>, aby se rozdźělenja elementowego wopśimjeśa wobinuł. { learn-more }
