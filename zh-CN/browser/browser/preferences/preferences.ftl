@@ -964,14 +964,6 @@ autofill-payment-methods-checkbox-submessage = 包括信用卡和借记卡
     .accesskey = I
 autofill-saved-payment-methods-button = 保存的付款方式
     .accesskey = v
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] 需要进行 macOS 身份验证以填写和编辑付款方式。
-        [windows] 需要进行 Windows 身份验证以填写和编辑付款方式。
-        [linux] 需要进行 Linux 身份验证以填写和编辑付款方式。
-       *[other] 需要进行身份验证以填写和编辑付款方式。
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = 要填写和管理付款方式，需登录设备验证身份。
     .accesskey = o
@@ -1301,6 +1293,14 @@ privacy-segmentation-radio-off =
     .label = 使用 { -brand-product-name } 推荐
 privacy-segmentation-radio-on =
     .label = 显示详细信息
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = 网站广告首选项
+website-advertising-private-attribution =
+    .label = 允许网站进行隐私保护下的广告监测
+    .accesskey = a
+website-advertising-private-attribution-description = 此选项可帮助网站了解其广告表现，而无需收集关于您的数据。
 
 ## Privacy Section - Security
 ##
