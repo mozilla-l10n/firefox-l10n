@@ -297,6 +297,7 @@ newtab-wallpaper-dark-city = Μωβ αστικό τοπίο
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Συμπαγή χρώματα
 newtab-wallpaper-blue = Μπλε
 newtab-wallpaper-light-blue = Ανοιχτό μπλε
 newtab-wallpaper-light-purple = Ανοιχτό μωβ
@@ -315,6 +316,7 @@ newtab-wallpaper-brown = Καφέ
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Αφηρημένο
 newtab-wallpaper-abstract-green = Πράσινα σχήματα
 newtab-wallpaper-abstract-blue = Μπλε σχήματα
 newtab-wallpaper-abstract-purple = Μωβ σχήματα
@@ -332,6 +334,8 @@ newtab-wallpaper-white-mountains = Λευκά βουνά
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Φωτογραφία από <a data-l10n-name="name-link">{ $author_string }</a> στο <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Δοκιμάστε μια πινελιά χρώματος
+newtab-wallpaper-feature-highlight-button = Το κατάλαβα
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
     .title = Απόρριψη
