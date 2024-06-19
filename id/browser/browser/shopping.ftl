@@ -175,6 +175,17 @@ shopping-callout-closed-not-opted-in-subtitle = Cobalah Review Checker setiap ka
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Coba panduan tepercaya kami untuk ulasan produk
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Lihat seberapa andal ulasan produk di <b>{ $currentSite }</b> sebelum Anda membeli. Review Checker, sebuah fitur eksperimental dari { -brand-product-name }, sudah terpasang dalam peramban. Ini juga bekerja pada <b>{ $secondSite }</b> dan <b>{ $thirdSite }</b>.
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Lihat seberapa andal ulasan produk di <b>{ $currentSite }</b> sebelum Anda membeli. Review Checker, fitur eksperimental dari { -brand-product-name }, dibangun langsung ke dalam peramban.
+shopping-onboarding-body = Menggunakan kekuatan { -fakespot-brand-full-name }, kami membantu Anda menghindari ulasan yang bias dan tidak otentik. Model AI kami selalu berkembang untuk melindungi Anda saat berbelanja. <a data-l10n-name="learn_more">Pelajari Lebih Lanjut</a>
 shopping-onboarding-opt-in-button = Ya, coba!
 shopping-onboarding-not-now-button = Jangan sekarang
 shopping-onboarding-dialog-close-button =

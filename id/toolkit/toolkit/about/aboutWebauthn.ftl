@@ -37,10 +37,23 @@ about-webauthn-results-pin-too-long-error = Kesalahan: PIN yang diberikan terlal
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = Benar
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = Salah
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-algorithms = Algoritma
+about-webauthn-auth-info-pin-protocols = Protokol PIN
+about-webauthn-auth-info-extensions = Ekstensi
+about-webauthn-auth-info-versions = Versi
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = Benar
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = Salah
+about-webauthn-auth-info-null = Tidak didukung
 
 ## Bio enrollment sample feedbacks
 
