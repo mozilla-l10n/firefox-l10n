@@ -39,6 +39,7 @@ inactive-css-not-table = <strong>{ $property }</strong> hat gjin effekt op dit e
 inactive-css-not-table-cell = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it gjin tabelsel is.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> hat gjin effekt op dit elemint omdat it net skowt.
 inactive-css-border-image = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it net tapast wurde kin op ynterne tabeleleminten wêr <strong>border-collapse</strong> ynsteld is op <strong>collapse</strong> op it boppelizzende tabelelemint.
+inactive-css-resize = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it allinnich tapast wurde kin op eleminten mei in oare oerrinwearde as sichtber, en op bepaalde ferfongen eleminten, lykas tekstfjilden.
 inactive-css-ruby-element = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it in ruby-elemint is. De grutte wurdt bepaald troch de lettertypegrutte fan de rubytekst.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -55,6 +56,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it mear as { $lineCount } rigels befettet.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat it fragmintearre is, d.w.s. de ynhâld is ferdield oer meardere kolommen of siden.
+inactive-css-no-width-height = <strong>{ $property }</strong> hat gjin effekt op dit elemint, omdat de breedte en hichte net ynsteld wurde kinne.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
