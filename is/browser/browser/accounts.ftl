@@ -96,3 +96,15 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] Tók á móti { $tabCount } flipa
        *[other] Tók á móti { $tabCount } flipum
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Skoða nýjustu flipa sem var lokað
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } { -brand-short-name } flipa lokað
+       *[other] { $closedCount } { -brand-short-name } flipum lokað
+    }
