@@ -21,3 +21,11 @@ default-browser-prompt-message-alt = Dapatkan kecepatan, keamanan, dan privasi s
 default-browser-prompt-button-primary-alt = Setel sebagai peramban baku
 default-browser-prompt-checkbox-not-again-label = Jangan tampilkan lagi
 default-browser-prompt-button-secondary = Jangan sekarang
+
+## Strings for a Windows native guidance notification when the user is forced to
+## use Windows Settings to set the default browser. Instructions differ for
+## Windows 10 and 11.
+
+default-browser-guidance-notification-title = Selesai menjadikan { -brand-short-name } peramban baku Anda
+default-browser-guidance-notification-info-page = Tampilkan
+default-browser-guidance-notification-dismiss = Selesai
