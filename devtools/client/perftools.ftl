@@ -146,6 +146,7 @@ perftools-presets-networking-description = Pśednastajenje za wuslěźenje seśo
 perftools-presets-power-label = Energija
 perftools-presets-power-description = Pśednastajenje za wuslěźenje zmólkow wužywanja energije w { -brand-shorter-name }, z niskeju pótrjebu.
 perftools-presets-debug-label = Za zmólkami pytaś
+perftools-presets-debug-description = Pśednastajenje za pytanje zmólkow w { -brand-shorter-name }. Wusoka dodatna śěža, njewužywajśo jo za wugbaśowe źěło, ale wužywajśo jo, aby se na rozměśe zaźaržanja wobglědowaka fokusěrował.
 perftools-presets-custom-label = Swójski
 
 ##
