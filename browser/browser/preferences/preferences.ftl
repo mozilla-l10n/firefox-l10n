@@ -969,14 +969,6 @@ autofill-payment-methods-checkbox-submessage = כולל כרטיסי אשראי 
     .accesskey = כ
 autofill-saved-payment-methods-button = אמצעי תשלום שמורים
     .accesskey = א
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] לדרוש אימות של macOS כדי למלא ולערוך אמצעי תשלום.
-        [windows] לדרוש אימות של Windows כדי למלא ולערוך אמצעי תשלום.
-        [linux] לדרוש אימות של Linux כדי למלא ולערוך אמצעי תשלום.
-       *[other] לדרוש אימות כדי למלא ולערוך אמצעי תשלום.
-    }
-    .accesskey = ל
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = לדרוש פרטי התחברות של המכשיר כדי למלא ולנהל אמצעי תשלום
     .accesskey = ד
@@ -1305,6 +1297,14 @@ privacy-segmentation-radio-off =
     .label = שימוש בהצעות של { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = הצגת מידע מפורט
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = העדפות פרסום באתרים
+website-advertising-private-attribution =
+    .label = לאפשר לאתרים לבצע מדידות על פרסומות באופן ששומר על הפרטיות
+    .accesskey = מ
+website-advertising-private-attribution-description = אפשרות זו מסייעת לאתרים להבין את ביצועי הפרסומות שלהם מבלי לאסוף עליך מידע.
 
 ## Privacy Section - Security
 ##
