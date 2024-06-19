@@ -289,10 +289,59 @@ newtab-wallpaper-dark-panda = 躲在森林里的小熊猫
 newtab-wallpaper-dark-sky = 夜空下的城市景观
 newtab-wallpaper-dark-mountain = 山地景观
 newtab-wallpaper-dark-city = 紫色城市景观
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = 纯色
+newtab-wallpaper-blue = 蓝色
+newtab-wallpaper-light-blue = 淡蓝色
+newtab-wallpaper-light-purple = 淡紫色
+newtab-wallpaper-light-green = 淡绿色
+newtab-wallpaper-green = 绿色
+newtab-wallpaper-beige = 米色
+newtab-wallpaper-yellow = 黄色
+newtab-wallpaper-orange = 橙色
+newtab-wallpaper-pink = 粉色
+newtab-wallpaper-light-pink = 淡粉色
+newtab-wallpaper-red = 红色
+newtab-wallpaper-dark-blue = 深蓝色
+newtab-wallpaper-dark-purple = 深紫色
+newtab-wallpaper-dark-green = 深绿色
+newtab-wallpaper-brown = 棕色
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = 抽象
+newtab-wallpaper-abstract-green = 绿色形状
+newtab-wallpaper-abstract-blue = 蓝色形状
+newtab-wallpaper-abstract-purple = 紫色形状
+newtab-wallpaper-abstract-orange = 橙色形状
+newtab-wallpaper-gradient-orange = 橙粉渐变
+newtab-wallpaper-abstract-blue-purple = 蓝紫渐变
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = 摄影
+newtab-wallpaper-beach-at-sunrise = 海滩日出
+newtab-wallpaper-beach-at-sunset = 海滩日落
+newtab-wallpaper-storm-sky = 电闪雷鸣
+newtab-wallpaper-sky-with-pink-clouds = 飘着粉色云朵的天空
+newtab-wallpaper-red-panda-yawns-in-a-tree = 在树上打哈欠的小熊猫
+newtab-wallpaper-white-mountains = 皑白山脉
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = 照片由 <a data-l10n-name="name-link">{ $author_string }</a> 在 <a data-l10n-name="webpage-link">{ $webpage_string }</a> 上发布
+newtab-wallpaper-feature-highlight-header = 试用新色彩
+newtab-wallpaper-feature-highlight-content = 选张壁纸，给新标签页加点新鲜感。
+newtab-wallpaper-feature-highlight-button = 知道了
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = 知道了
+    .aria-label = 关闭弹窗
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
