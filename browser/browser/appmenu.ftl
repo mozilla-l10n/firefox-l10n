@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = 於 { -brand-shorter-name } 診斷耗
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = 電源
+profiler-popup-presets-debug-description = { -brand-shorter-name } 的預設除錯選項。額外負荷較高，請只在需要了解瀏覽器行為時使用，勿用於需要較高效能的情境。
 profiler-popup-presets-debug-label =
     .label = 除錯
 profiler-popup-presets-custom-label =
