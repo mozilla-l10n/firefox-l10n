@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Проверка отзывов <stron
 shopping-adjusted-rating-label =
     .label = Скорректированный рейтинг
 shopping-adjusted-rating-unreliable-reviews = Недостоверные отзывы удалены
+shopping-adjusted-rating-based-reliable-reviews = На основе достоверных отзывов
 
 ## Strings for the review reliability component
 
