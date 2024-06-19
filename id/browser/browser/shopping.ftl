@@ -116,6 +116,7 @@ shopping-analysis-explainer-learn-more2 = Pelajari lebih lanjut tentang <a data-
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Sorotan</strong> berasal dari ulasan { $retailer } dalam 80 hari terakhir yang kami yakini dapat diandalkan.
 shopping-analysis-explainer-review-grading-scale-reliable = Ulasan terpercaya. Kami yakin ulasan tersebut boleh jadi berasal dari pelanggan tulen yang meninggalkan ulasan yang jujur dan tidak bias.
+shopping-analysis-explainer-review-grading-scale-mixed = Kami percaya ada percampuran ulasan yang terpercaya dan yang tidak dapat diandalkan.
 shopping-analysis-explainer-review-grading-scale-unreliable = Ulasan yang tidak dapat diandalkan. Kami yakin ulasan tersebut kemungkinan palsu atau dari pengulas yang bias.
 
 ## Strings for UrlBar button
@@ -138,6 +139,8 @@ shopping-unanalyzed-product-analyze-button = Periksa kualitas ulasan
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Lebih banyak untuk dipertimbangkan
 ad-by-fakespot = Iklan oleh { -fakespot-brand-name }
 
 ## Shopping survey strings.
@@ -165,6 +168,7 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = Kembali ke <strong>Review Checker</strong> kapan saja Anda melihat harga.
 shopping-callout-pdp-opted-in-title = Apakah ulasan ini dapat diandalkan? Temukan dengan cepat.
+shopping-callout-pdp-opted-in-subtitle = Buka Review Checker untuk melihat peringkat yang disesuaikan dengan ulasan yang tidak dapat diandalkan dihapus. Juga, lihat sorotan dari ulasan otentik terbaru.
 shopping-callout-closed-not-opted-in-title = Satu klik untuk ulasan yang andal
 
 ## Onboarding message strings.
