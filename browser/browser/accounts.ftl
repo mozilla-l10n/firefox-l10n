@@ -96,3 +96,15 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } pestaña ha llegado
        *[other] { $tabCount } pestañas han llegado
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Ver las pestañas cerradas recientemente
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount }{ -brand-short-name } pestaña cerrada
+       *[other] { $closedCount }{ -brand-short-name } pestañas cerradas
+    }
