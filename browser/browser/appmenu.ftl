@@ -196,6 +196,9 @@ profiler-popup-presets-power-description = Forstilling til að rannsaka orkunotk
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Afl
+profiler-popup-presets-debug-description = Forstillt fyrir villuleit í { -brand-shorter-name }. Kemur niður á afköstum, ekki notað fyrir verk sem krefjast mikilla afkasta heldur til að einbeita sér að því að greina hegðun vafrans.
+profiler-popup-presets-debug-label =
+    .label = Villuleita
 profiler-popup-presets-custom-label =
     .label = Sérsniðið
 

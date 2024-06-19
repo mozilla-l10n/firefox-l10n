@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Umsagnaskoðun er <strong>virk</strong
 shopping-adjusted-rating-label =
     .label = Aðlöguð einkunn
 shopping-adjusted-rating-unreliable-reviews = Óáreiðanlegar umsagnir fjarlægðar
+shopping-adjusted-rating-based-reliable-reviews = Byggt á áreiðanlegum umsögnum
 
 ## Strings for the review reliability component
 
