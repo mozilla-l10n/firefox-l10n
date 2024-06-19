@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = 商品評論檢查器<strong>已開啟
 shopping-adjusted-rating-label =
     .label = 調整後評分
 shopping-adjusted-rating-unreliable-reviews = 已移除不可靠的評論
+shopping-adjusted-rating-based-reliable-reviews = 根據可靠評論調整
 
 ## Strings for the review reliability component
 
