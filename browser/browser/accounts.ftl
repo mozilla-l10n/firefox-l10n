@@ -96,3 +96,15 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } aba chegou
        *[other] { $tabCount } abas chegaram
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Ver abas fechadas recentemente
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } aba do { -brand-short-name } fechada
+       *[other] { $closedCount } abas do { -brand-short-name } fechadas
+    }
