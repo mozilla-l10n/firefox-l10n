@@ -86,7 +86,9 @@ shopping-settings-label =
     .label = Pengaturan
 shopping-settings-recommendations-toggle =
     .label = Tampilkan iklan di Pemeriksa Ulasan
+shopping-settings-recommendations-learn-more2 = Kadang Anda akan melihat iklan untuk produk yang relevan. Kami hanya mengiklankan produk dengan ulasan yang dapat diandalkan. <a data-l10n-name="review-quality-url">Pelajari lebih lanjut</a>
 shopping-settings-opt-out-button = Matikan Pemeriksa Ulasan
+powered-by-fakespot = Review Checker didukung oleh <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
@@ -94,12 +96,26 @@ shopping-settings-opt-out-button = Matikan Pemeriksa Ulasan
 # reliable reviews.
 shopping-adjusted-rating-label =
     .label = Peringkat yang disesuaikan
+shopping-adjusted-rating-unreliable-reviews = Ulasan yang tidak dapat diandalkan dihapus
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Seberapa andalkah ulasan ini?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Bagaimana kami menentukan kualitas ulasan
+shopping-analysis-explainer-intro2 = Kami menggunakan teknologi kecerdasan buatan dari { -fakespot-brand-full-name } untuk memeriksa keandalan ulasan produk. Hal ini hanya akan membantu Anda menilai kualitas ulasan, bukan kualitas produk.
+shopping-analysis-explainer-grades-intro = Kami menetapkan <strong>nilai huruf</strong> untuk setiap ulasan produk dari A hingga F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Peringkat yang disesuaikan</strong> hanya didasarkan pada ulasan yang kami yakini dapat diandalkan.
+shopping-analysis-explainer-learn-more2 = Pelajari lebih lanjut tentang <a data-l10n-name="review-quality-url">bagaimana { -fakespot-brand-name } menentukan kualitas ulasan</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Sorotan</strong> berasal dari ulasan { $retailer } dalam 80 hari terakhir yang kami yakini dapat diandalkan.
+shopping-analysis-explainer-review-grading-scale-reliable = Ulasan terpercaya. Kami yakin ulasan tersebut boleh jadi berasal dari pelanggan tulen yang meninggalkan ulasan yang jujur dan tidak bias.
 shopping-analysis-explainer-review-grading-scale-unreliable = Ulasan yang tidak dapat diandalkan. Kami yakin ulasan tersebut kemungkinan palsu atau dari pengulas yang bias.
 
 ## Strings for UrlBar button
