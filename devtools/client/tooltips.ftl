@@ -39,6 +39,7 @@ inactive-css-not-table = 由於不是表格，<strong>{ $property }</strong> 對
 inactive-css-not-table-cell = 由於不是表格欄位，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-scroll-padding-when-not-scroll-container = 由於不會捲動，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-border-image = 由於父階層表格元素的 <strong>border-collapse</strong> 設定為 <strong>collapse</strong>，無法套用到內部的表格元素，<strong>{ $property }</strong> 對此元素無效。
+inactive-css-resize = <strong>{ $property }</strong> 僅可用於 overflow 是除了 visible 以外的值，以及某些會被替換的元素（例如 textarea），對此元素沒有效果。
 inactive-css-ruby-element = 由於此元素是 ruby 元素，<strong>{ $property }</strong> 無效。此元素大小是由 ruby 文字的大小所決定的。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -51,6 +52,7 @@ inactive-css-cue-pseudo-element-not-supported = ::cue 偽元素不支援 <strong
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded = 由於行數超過 { $lineCount } 行，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-text-wrap-balance-fragmented = 由於是分段的元素（內容拆分在不同欄或頁面中），<strong>{ $property }</strong> 對此元素沒有影響。
+inactive-css-no-width-height = 由於無法設定寬度與高度，<strong>{ $property }</strong> 對此元素沒有影響。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -80,6 +82,7 @@ inactive-css-not-table-fix = 請嘗試加入 <strong>display:table</strong> 或 
 inactive-css-not-table-cell-fix = 請嘗試加入 <strong>display:table-cell</strong>。{ learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = 請嘗試加入 <strong>overflow:auto</strong>、<strong>overflow:scroll</strong> 或<strong>overflow:hidden</strong>。{ learn-more }
 inactive-css-border-image-fix = 請於父表格元素移除該屬性，或將 <strong>border-collapse</strong> 的值更改為 <strong>collapse</strong> 以外的值。{ learn-more }
+inactive-css-resize-fix = 可試著將 <strong>overflow</strong> 設定為 <strong>visible</strong> 以外的值，或是將其目標改設定支援此樣式的的元素。{ learn-more }
 inactive-css-ruby-element-fix = 請嘗試調整 ruby 文字的 <strong>font-size</strong>。{ learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = 請試著減少行數。{ learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = 請避免分割元素內容，例如將欄位移除，或是使用 <strong>page-break-inside:avoid</strong>。{ learn-more }
