@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Pre-configuration pro investigar erro
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+profiler-popup-presets-debug-description = Predefinir pro depuration in { -brand-shorter-name }. Alte supercarga, non usar pro analyses del prestationes, ma usar solo pro comprender le comportamento del navigator.
 profiler-popup-presets-debug-label =
     .label = Depurar
 profiler-popup-presets-custom-label =
