@@ -947,7 +947,7 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 autofill-creditcard-os-dialog-message =
     { PLATFORM() ->
         [macos] 更改付款方式设置
-       *[other] { -brand-short-name } 正尝试更改付款方式设置，请登录设备以允许此操作。
+       *[other] { -brand-short-name } 正尝试更改付款方式设置，请验证设备登录信息以允许此操作。
     }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
