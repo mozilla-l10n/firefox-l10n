@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Review Checker is <strong>On</strong>
 shopping-adjusted-rating-label =
     .label = Adjusted rating
 shopping-adjusted-rating-unreliable-reviews = Unreliable reviews removed
+shopping-adjusted-rating-based-reliable-reviews = Based on reliable reviews
 
 ## Strings for the review reliability component
 
