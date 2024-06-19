@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Пікірлерді тексеру қ
 shopping-adjusted-rating-label =
     .label = Түзетілген рейтинг
 shopping-adjusted-rating-unreliable-reviews = Сенімсіз пікірлер өшірілді
+shopping-adjusted-rating-based-reliable-reviews = Сенімді пікірлерге негізделген
 
 ## Strings for the review reliability component
 

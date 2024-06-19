@@ -39,6 +39,7 @@ inactive-css-not-table = <strong>{ $property }</strong> бұл элементк�
 inactive-css-not-table-cell = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол кесте ұяшығы емес.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол айналмайды.
 inactive-css-border-image = <strong>{ $property }</strong> бұл элементке әсер етпейді, себебі оны аталық кесте элементінде <strong>border-collapse</strong> үшін <strong>collapse</strong> мәні орнатылған ішкі кесте элементтері үшін іске асыру мүмкін емес.
+inactive-css-resize = <strong>{ $property }</strong> бұл элементке әсер етпейді, себебі оны тек көрінетіннен басқа толып кету мәні бар элементтерге және мәтіндік аумақтар сияқты кейбір алмастырылатын элементтерге іске асыруға болады.
 inactive-css-ruby-element = <strong>{ $property }</strong> бұл элементке әсер етпейді, себебі ол ruby элементі. Оның өлшемі ruby мәтінінің қаріп өлшемімен анықталады.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -55,6 +56,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені онда { $lineCount } жолдан көп жол бар.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол фрагменттелген, яғни оның мазмұны бірнеше бағандар немесе беттерге бөлінген.
+inactive-css-no-width-height = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені оның енін мен биіктігін орнату мүмкін емес.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -84,6 +86,7 @@ inactive-css-not-table-fix = <strong>display:table</strong> немесе <strong
 inactive-css-not-table-cell-fix = <strong>display:table-cell</strong> қосып көріңіз. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, немесе <strong>overflow:hidden</strong> қосып көріңіз. { learn-more }
 inactive-css-border-image-fix = Атылқ кесте элементінде, осы қасиетті өшіріңіз немесе <strong>border-collapse</strong> мәнін <strong>collapse</strong> мәнінен басқа мәнге орнатыңыз. { learn-more }
+inactive-css-resize-fix = <strong>overflow</strong> параметрін <strong>visible</strong> мәнінен басқа мәнге немесе оны қолдайтын алмастырылатын элементке бағыттап көріңіз. { learn-more }
 inactive-css-ruby-element-fix = Ruby мәтінінің <strong>font-size</strong> қасиетін өзгертіп көріңіз. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Жолдар санын азайтып көріңіз. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Элемент мазмұнын бөлуге жол бермеңіз, мысалы: бағандарды өшіру арқылы немесе <strong>page-break-inside:avoid</strong> арқылы. { learn-more }
