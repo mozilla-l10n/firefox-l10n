@@ -316,6 +316,7 @@ newtab-wallpaper-brown = بھورا
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = خلاصہ
 newtab-wallpaper-abstract-green = ساویاں شکلاں
 newtab-wallpaper-abstract-blue = نیلیاں شکلاں
 newtab-wallpaper-abstract-purple = جامنی شکلاں
@@ -328,6 +329,10 @@ newtab-wallpaper-category-title-photographs = فوٹو
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = <a data-l10n-name="webpage-link">{ $webpage_string }</a> تے <a data-l10n-name="name-link">{ $author_string }</a> ولوں فوٹو
 newtab-wallpaper-feature-highlight-button = سمجھ گھدے
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = فارغ کرو
+    .aria-label = پوپ اپ بند کرو
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }

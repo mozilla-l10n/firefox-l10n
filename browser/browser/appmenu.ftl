@@ -196,6 +196,8 @@ profiler-popup-presets-power-description = گھٹ اوور ہیڈ دے نال { 
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = بجلی
+profiler-popup-presets-debug-label =
+    .label = ڈیبگ
 profiler-popup-presets-custom-label =
     .label = مخصوص
 
