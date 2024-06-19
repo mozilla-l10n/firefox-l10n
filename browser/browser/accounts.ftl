@@ -84,3 +84,11 @@ account-multiple-tabs-arriving-from-single-device = { $deviceName }에서 탭 { 
 account-multiple-tabs-arriving-from-multiple-devices = 연결된 기기에서 탭 { $tabCount }개 도착
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device = 탭 { $tabCount }개 도착
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = 최근에 닫은 탭 보기
+account-tabs-closed-remotely = { -brand-short-name } 탭 { $closedCount }개 닫힘
