@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Beoordelingscontrole is <strong>Aan</s
 shopping-adjusted-rating-label =
     .label = Aangepaste waardering
 shopping-adjusted-rating-unreliable-reviews = Onbetrouwbare beoordelingen verwijderd
+shopping-adjusted-rating-based-reliable-reviews = Gebaseerd op betrouwbare beoordelingen
 
 ## Strings for the review reliability component
 
