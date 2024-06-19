@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Kontrola pohódnoćenjow je <strong>zm
 shopping-adjusted-rating-label =
     .label = Přiměrjene hódnoćenje
 shopping-adjusted-rating-unreliable-reviews = Njespušćomne pohódnoćenja wotstronjene
+shopping-adjusted-rating-based-reliable-reviews = Bazuje na spušćomnych pohódnoćenjach
 
 ## Strings for the review reliability component
 
