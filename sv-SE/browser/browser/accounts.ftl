@@ -105,6 +105,6 @@ account-multiple-tabs-arriving-from-unknown-device =
 account-view-recently-closed-tabs = Visa nyligen stängda flikar
 account-tabs-closed-remotely =
     { $closedCount ->
-        [one] { $closedCount } fliken { -brand-short-name } stängdes
-       *[other] { $closedCount } { -brand-short-name } flikar stängdes
+        [one] { $closedCount } { -brand-short-name } flik stängd
+       *[other] { $closedCount } { -brand-short-name } flikar stängda
     }
