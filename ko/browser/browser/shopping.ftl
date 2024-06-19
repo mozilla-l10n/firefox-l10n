@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = 리뷰 검사기가 <strong>켜짐</st
 shopping-adjusted-rating-label =
     .label = 조정된 평점
 shopping-adjusted-rating-unreliable-reviews = 신뢰할 수 없는 리뷰는 삭제됨
+shopping-adjusted-rating-based-reliable-reviews = 신뢰할 수 있는 리뷰에 바탕
 
 ## Strings for the review reliability component
 

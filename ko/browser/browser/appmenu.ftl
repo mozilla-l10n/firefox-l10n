@@ -77,12 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = 탭 더 보기
     .tooltiptext = 이 기기의 탭 더 보기
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label = 비활성 탭 { $count }개 표시
-    .tooltiptext = 이 기기의 비활성 탭 표시
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = 비활성 탭
@@ -202,6 +196,9 @@ profiler-popup-presets-power-description = 오버헤드가 낮은 { -brand-short
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = 전력
+profiler-popup-presets-debug-description = { -brand-shorter-name }에서 디버깅을 위한 프리셋입니다. 오버헤드가 높으므로 성능 작업에 사용하지 말고 브라우저 동작을 이해하는 데 중점을 두는 데 사용하세요.
+profiler-popup-presets-debug-label =
+    .label = 디버그
 profiler-popup-presets-custom-label =
     .label = 사용자 지정
 
