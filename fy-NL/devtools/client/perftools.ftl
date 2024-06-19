@@ -147,6 +147,7 @@ perftools-presets-networking-description = Foarynstelling foar it ûndersykjen f
 perftools-presets-power-label = Fermogen
 perftools-presets-power-description = Foarynstelling foar it ûndersykjen fan stroomferbrûkbugs yn { -brand-shorter-name }, mei lege overhead.
 perftools-presets-debug-label = Debugge
+perftools-presets-debug-description = Foarynstelling foar debugging yn { -brand-shorter-name }. Hege overhead, net brûke foar prestaasjewurk, mar om te fokussen op it begripen fan browsergedrach.
 perftools-presets-custom-label = Oanpast
 
 ##

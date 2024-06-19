@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Foarynstelling foar it ûndersykjen f
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Fermogen
+profiler-popup-presets-debug-description = Foarynstelling foar debugging yn { -brand-shorter-name }. Hege overhead, net brûke foar prestaasjewurk, mar om te fokussen op it begripen fan browsergedrach.
 profiler-popup-presets-debug-label =
     .label = Debugge
 profiler-popup-presets-custom-label =
