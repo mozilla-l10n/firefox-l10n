@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Kontrola pógódnośenjow jo <strong>z
 shopping-adjusted-rating-label =
     .label = Pśměrjone pógódnośowanje
 shopping-adjusted-rating-unreliable-reviews = Njespušćobne pógódnośenja wótwónoźone
+shopping-adjusted-rating-based-reliable-reviews = Bazěrujo na spušćobnych pógódnośenjach
 
 ## Strings for the review reliability component
 

@@ -57,6 +57,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njama wěcej ako { $lineCount } smužki.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž jo fragmentěrowany, t. gr. jogo wopśimjeśe jo na někotare słupy abo boki rozdźělone.
+inactive-css-no-width-height = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž jogo šyrokosć a wusokosć njedajotej se nastajiś tabela.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

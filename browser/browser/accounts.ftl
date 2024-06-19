@@ -102,3 +102,17 @@ account-multiple-tabs-arriving-from-unknown-device =
         [few] { $tabCount } rejtariki su pśišli
        *[other] { $tabCount } rejtarikow jo pśišło
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Rowno zacynjone rejtariki pokazaś
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } rejtarik { -brand-short-name } zacynjony
+        [two] { $closedCount } rejtarika { -brand-short-name } zacynjonej
+        [few] { $closedCount } rejtariki { -brand-short-name } zacynjone
+       *[other] { $closedCount } rejtarikow { -brand-short-name } zacynjone
+    }

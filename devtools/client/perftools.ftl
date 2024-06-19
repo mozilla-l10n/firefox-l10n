@@ -42,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Wjelikosć pufrowaka:
-
 perftools-custom-threads-label = Pśidajśo swójske nitki pó mjenju:
-
 perftools-devtools-interval-label = Interwal:
 perftools-devtools-threads-label = Nitki:
 perftools-devtools-settings-label = Nastajenja
@@ -112,7 +110,6 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Wuběrki górjejce wobejś a wšě zregistrěrowane nitki nagraś
-
 perftools-tools-threads-input-label =
     .title = Toś te nitkowe mjenja su pśez komu źělona lisćina, kótaraž se wužywa, aby pśepytowanje nitkow w profilowaku zmóžnił. Mě trjeba se jano pó źělach z mjenim nitki makaś, kótarež se ma zapśimjeś. Na prozne znamjenja se źiwa.
 
@@ -120,7 +117,6 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nowy</b>: { -profiler-brand-name } jo něnto we wuwijaŕskich rědach integrěrowany. <a>Dalšne informacije</a> wó toś tom mócnem nowem rěźe.
-
 perftools-onboarding-close-button =
     .aria-label = Zapokazowańsku powěsć zacyniś
 
@@ -128,32 +124,28 @@ perftools-onboarding-close-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Webwuwijaŕ
 perftools-presets-web-developer-description = Dopórucone pśednastajenje za pytanje zmólkow za nejwecej webnałoženjow z mało zastojańskimi datami.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Dopórucone pśednastajenje za profilěrowanje { -brand-shorter-name }
-
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description = Pśednastajenje za wuslěźenje zmólkow grafiki w { -brand-shorter-name }.
-
 perftools-presets-media-label = Medije
 perftools-presets-media-description2 = Pśednastajenje za wuslěźenje zmólkow awdio a wideo w { -brand-shorter-name }.
-
 perftools-presets-networking-label = Seś
 perftools-presets-networking-description = Pśednastajenje za wuslěźenje seśowych zmólkow w { -brand-shorter-name }.
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energija
 perftools-presets-power-description = Pśednastajenje za wuslěźenje zmólkow wužywanja energije w { -brand-shorter-name }, z niskeju pótrjebu.
-
+perftools-presets-debug-label = Za zmólkami pytaś
 perftools-presets-custom-label = Swójski
 
 ##
