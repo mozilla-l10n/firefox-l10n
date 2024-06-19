@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Visa fler flikar
     .tooltiptext = Visa flikar från denna enhet
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Visa en inaktiv flik
-           *[other] Visa { $count } inaktiva flikar
-        }
-    .tooltiptext = Visa de inaktiva flikarna på den här enheten
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Inaktiva flikar
@@ -206,6 +196,9 @@ profiler-popup-presets-power-description = Förinställd för att undersöka bug
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energi
+profiler-popup-presets-debug-description = Förinställd för felsökning i { -brand-shorter-name }. Hög omkostnad, använd inte för prestandaarbete men för att fokusera på att förstå webbläsarens beteende.
+profiler-popup-presets-debug-label =
+    .label = Felsök
 profiler-popup-presets-custom-label =
     .label = Anpassad
 
