@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Přednastajenje za wuslědźenje zmyl
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energija
+profiler-popup-presets-debug-description = Přednastajenje za pytanje zmylkow w { -brand-shorter-name }. Wysoka přidatna ćeža, njewužiwajće jo za wukonowe dźěło, ale wužiwajće jo, zo byšće so na rozumjenje zadźerženja wobhladowaka fokusěrował.
 profiler-popup-presets-debug-label =
     .label = Za zmylkami pytać
 profiler-popup-presets-custom-label =

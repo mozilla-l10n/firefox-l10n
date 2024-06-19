@@ -146,6 +146,7 @@ perftools-presets-networking-description = Přednastajenje za wuslědźenje syć
 perftools-presets-power-label = Energija
 perftools-presets-power-description = Přednastajenje za wuslědźenje zmylkow wužiwanja energije w { -brand-shorter-name }, z niskej potrjebu.
 perftools-presets-debug-label = Za zmylkami pytać
+perftools-presets-debug-description = Přednastajenje za pytanje zmylkow w { -brand-shorter-name }. Wysoka přidatna ćeža, njewužiwajće jo za wukonowe dźěło, ale wužiwajće jo, zo byšće so na rozumjenje zadźerženja wobhladowaka fokusěrował.
 perftools-presets-custom-label = Swójski
 
 ##

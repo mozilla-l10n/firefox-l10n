@@ -88,6 +88,7 @@ inactive-css-not-table-fix = Spytajće <strong>display:table</strong> abo <stron
 inactive-css-not-table-cell-fix = Spytajće <strong>display:table-cell</strong> přidać. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Spytajće, <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> abo <strong>overflow:hidden</strong> přidać. { learn-more }
 inactive-css-border-image-fix = Wotstrońće na nadrjadowanym elemenće tabele kajkosć abo změńće hódnotu kajkosće <strong>border-collapse</strong> do hódnoty, kotraž so wot <strong>collapse</strong> rozeznawa. { learn-more }
+inactive-css-resize-fix = Spytajće <strong>overflow</strong> na druhu hódnotu hač <strong>visible</strong> stajeć abo so na wuměnjeny element měrić, kotryž jón podpěruje. { learn-more }
 inactive-css-ruby-element-fix = Spytajće <strong>font-size</strong> teksta ruby změnić. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Spytajće ličbu linkow redukować. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Wotstrońće špalty abo wužiwajće <strong>page-break-inside:avoid</strong>, zo byšće rozdźělenje elementoweho wobsaha wobešoł. { learn-more }
