@@ -4,6 +4,7 @@
 
 about-networking-title = نیٹ ورکنگ دے بارے
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = HTTP کیشے خالی کرو
 about-networking-sockets = ساکٹس
 about-networking-dns = ڈی این ایس
 about-networking-dns-clear-cache-button = DNS کیشے خالی کرو
