@@ -43,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Dimension del buffer:
-
 perftools-custom-threads-label = Adder filos personalisate per nomine:
-
 perftools-devtools-interval-label = Intervallo:
 perftools-devtools-threads-label = Filos:
 perftools-devtools-settings-label = Parametros
@@ -113,7 +111,6 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Ignorar selectiones supra e memorar tote le filos registrate
-
 perftools-tools-threads-input-label =
     .title = Iste nomines de filo forma un lista separate per commas que es usate pro activar le profilation del filos in le profilator. Es sufficiente un correspondentia partial con le nomine del filo a includer. Le spatios es significative.
 
@@ -121,7 +118,6 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Nove</b>: { -profiler-brand-name } es ora integrate in Utensiles de disveloppator. <a>Saper plus</a> re iste potente nove instrumento.
-
 perftools-onboarding-close-button =
     .aria-label = Clauder le message introductive
 
@@ -129,32 +125,28 @@ perftools-onboarding-close-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Disveloppamento web
 perftools-presets-web-developer-description = Pre-configuration recommendate pro le depuration del major parte de applicationes web, con poc supercarga.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Pre-configuration recommendate pro profilar { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Graphica
 perftools-presets-graphics-description = Pre-configuration pro investigar errores de graphica in { -brand-shorter-name }.
-
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description2 = Pre-configuration pro investigar errores audio e video in { -brand-shorter-name }.
-
 perftools-presets-networking-label = Rete
 perftools-presets-networking-description = Pre-configuration pro investigar errores de rete in { -brand-shorter-name }.
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energia
 perftools-presets-power-description = Pre-configuration pro investigar errores in le uso del energia in { -brand-shorter-name }, con basse supercarga.
-
+perftools-presets-debug-label = Depurar
 perftools-presets-custom-label = Personalisate
 
 ##
