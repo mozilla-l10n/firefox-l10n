@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Le vérificateur d’avis est <strong>
 shopping-adjusted-rating-label =
     .label = Évaluation corrigée
 shopping-adjusted-rating-unreliable-reviews = Avis non fiables supprimés
+shopping-adjusted-rating-based-reliable-reviews = Sur la base d’avis fiables
 
 ## Strings for the review reliability component
 
