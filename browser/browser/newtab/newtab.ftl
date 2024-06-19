@@ -310,12 +310,19 @@ newtab-wallpaper-pink = گلابی
 newtab-wallpaper-light-pink = پھکا گلابی
 newtab-wallpaper-red = لال
 newtab-wallpaper-dark-blue = شوخ نیلا
+newtab-wallpaper-dark-purple = شوخ جامنی
+newtab-wallpaper-dark-green = شوخ ساوا
+newtab-wallpaper-brown = بھورا
 
 ## Abstract
 
+newtab-wallpaper-abstract-green = ساویاں شکلاں
+newtab-wallpaper-abstract-blue = نیلیاں شکلاں
+newtab-wallpaper-abstract-purple = جامنی شکلاں
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = فوٹو
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
