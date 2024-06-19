@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Verificator de recension es <strong>Ac
 shopping-adjusted-rating-label =
     .label = Classification adjustate
 shopping-adjusted-rating-unreliable-reviews = Recensiones non fidabile removite
+shopping-adjusted-rating-based-reliable-reviews = Basate sur recensiones fidabile
 
 ## Strings for the review reliability component
 

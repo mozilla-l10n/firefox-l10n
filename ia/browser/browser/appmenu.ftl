@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Monstrar plus schedas
     .tooltiptext = Monstrar plus schedas de iste apparato
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Monstrar un scheda inactive
-           *[other] Monstrar { $count } schedas inactive
-        }
-    .tooltiptext = Monstrar le schedas inactive  sur iste sito.
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Schedas inactive
@@ -206,6 +196,8 @@ profiler-popup-presets-power-description = Pre-configuration pro investigar erro
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+profiler-popup-presets-debug-label =
+    .label = Depurar
 profiler-popup-presets-custom-label =
     .label = Personalisate
 
