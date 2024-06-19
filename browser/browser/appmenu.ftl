@@ -77,12 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Hiển thị thêm các thẻ
     .tooltiptext = Hiển thị các thẻ từ thiết bị này
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label = Hiện { $count } thẻ không hoạt động
-    .tooltiptext = Hiển thị các thẻ không hoạt động trên thiết bị này
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Thẻ không hoạt động
@@ -202,6 +196,9 @@ profiler-popup-presets-power-description = Giá trị đặt trước để đi�
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Nguồn điện
+profiler-popup-presets-debug-description = Giá trị đặt trước để gỡ lỗi trong { -brand-shorter-name }. Tải thêm cao, không sử dụng cho công việc về hiệu suất mà sử dụng để tập trung vào việc tìm hiểu hành vi của trình duyệt.
+profiler-popup-presets-debug-label =
+    .label = Gỡ lỗi
 profiler-popup-presets-custom-label =
     .label = Tùy chỉnh
 
