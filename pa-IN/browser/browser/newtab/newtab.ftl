@@ -293,6 +293,34 @@ newtab-wallpaper-dark-panda = ਜੰਗਲ ਵਿੱਚ ਲੁਕਿਆ ਫਿ�
 newtab-wallpaper-dark-sky = ਨੀਲੇ ਅੰਬਰ ਨਾਲ ਸ਼ਹਿਰ ਦਾ ਦ੍ਰਿਸ਼
 newtab-wallpaper-dark-mountain = ਲੈਂਡਸਕੇਪ ਪਹਾੜ
 newtab-wallpaper-dark-city = ਜਾਮਨੀ ਸ਼ਹਿਰੀ ਦ੍ਰਿਸ਼
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = ਗੂੜ੍ਹੇ ਰੰਗ
+newtab-wallpaper-blue = ਨੀਲਾ
+newtab-wallpaper-light-blue = ਹਲਕਾ ਨੀਲਾ
+newtab-wallpaper-light-purple = ਹਲਕਾ ਜਾਮਨੀ
+newtab-wallpaper-light-green = ਹਲਕਾ ਹਰਾ
+newtab-wallpaper-green = ਹਰਾ
+newtab-wallpaper-beige = ਬਿਸਕੁਟੀ
+newtab-wallpaper-yellow = ਪੀਲਾ
+newtab-wallpaper-orange = ਸੰਤਰੀ
+newtab-wallpaper-pink = ਗੁਲਾਬੀ
+newtab-wallpaper-light-pink = ਹਲਕਾ ਗੁਲਾਬੀ
+newtab-wallpaper-red = ਲਾਲ
+newtab-wallpaper-dark-blue = ਗੂੜ੍ਹਾ ਨੀਲਾ
+newtab-wallpaper-dark-purple = ਗੂੜ੍ਹਾ ਜਾਮਨੀ
+newtab-wallpaper-dark-green = ਗੂੜ੍ਹਾ ਹਰਾ
+newtab-wallpaper-brown = ਭੂਰਾ
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = ਸੰਖੇਪ
+newtab-wallpaper-abstract-green = ਹਰੀਆਂ ਸ਼ਕਲਾਂ
+newtab-wallpaper-abstract-blue = ਨੀਲੀਆਂ ਸ਼ਕਲਾਂ
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
