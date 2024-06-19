@@ -52,6 +52,7 @@ inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong>�
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded = <strong>{ $property }</strong>는 이 요소에 { $lineCount }개 이상의 행이 있으므로 이 요소에 영향을 주지 않습니다.
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong>는 조각화되어 있으므로(예: 해당 콘텐츠가 여러 열이나 페이지에 걸쳐 분할되어 있으므로) 이 요소에 영향을 주지 않습니다.
+inactive-css-no-width-height = <strong>{ $property }</strong>는 너비와 높이를 설정할 수 없으므로 이 요소에 영향을 미치지 않습니다.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -81,6 +82,7 @@ inactive-css-not-table-fix = <strong>display:table</strong> 또는 <strong>displ
 inactive-css-not-table-cell-fix = <strong>display:table-cell</strong>을 추가해보세요. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, 또는 <strong>overflow:hidden</strong>을 추가해보세요. { learn-more }
 inactive-css-border-image-fix = 부모 테이블 요소에서 속성을 제거하거나 <strong>border-collapse</strong> 값을 <strong>collapse</strong> 이외의 값으로 변경합니다. { learn-more }
+inactive-css-resize-fix = <strong>overflow</strong>를 <strong>visible</strong> 이외의 값으로 설정하거나 이를 지원하는 대체 요소를 타겟팅해 보세요. { learn-more }
 inactive-css-ruby-element-fix = 윗주 텍스트의 <strong>font-size</strong>를 변경해 보세요. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = 줄 수를 줄여보세요. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = 요소의 콘텐츠를 분할하지 마세요(예: 열을 제거하거나 <strong>page-break-inside:avoid</strong>를 사용하는 경우). { learn-more }
