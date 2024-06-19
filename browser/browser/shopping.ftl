@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Recensionsgranskaren är <strong>På</
 shopping-adjusted-rating-label =
     .label = Justerat betyg
 shopping-adjusted-rating-unreliable-reviews = Opålitliga recensioner har tagits bort
+shopping-adjusted-rating-based-reliable-reviews = Baserat på tillförlitliga recensioner
 
 ## Strings for the review reliability component
 

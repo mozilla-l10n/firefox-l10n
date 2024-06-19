@@ -96,3 +96,15 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } flik har kommit
        *[other] { $tabCount } flikar har kommit
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Visa nyligen stängda flikar
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } fliken { -brand-short-name } stängdes
+       *[other] { $closedCount } { -brand-short-name } flikar stängdes
+    }
