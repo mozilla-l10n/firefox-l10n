@@ -158,6 +158,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Untuk mengubah info masuk A
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = mengedit info masuk tersimpan
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] ubah setelan sandi
+       *[other] { -brand-short-name } mencoba mengubah setelan sandi. Gunakan perangkat masuk Anda untuk mengizinkan ini.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Untuk mengedit kata sandi Anda, masukkan kredensial masuk Windows Anda. Ini membantu melindungi keamanan akun Anda.
 # This message can be seen when attempting to edit a login in about:logins
@@ -230,11 +237,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } di semua perangkat yang disinkronkan ke { -fxaccount-brand-name } Anda. Ini juga akan menghapus peringatan pembobolan yang muncul di sini. Anda tidak akan dapat mengurungkan tindakan ini.
        *[other] Ini akan menghapus info masuk yang Anda simpan ke { -brand-short-name } di semua perangkat yang disinkronkan ke { -fxaccount-brand-name } Anda. Ini juga akan menghapus peringatan pembobolan yang muncul di sini. Anda tidak akan dapat mengurungkan tindakan ini.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Ini akan menghapus informasi masuk yang telah Anda simpan ke { -brand-short-name } di semua perangkat yang tersinkronisasi dengan akun Anda. Ini juga akan menghapus peringatan keamanan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
-       *[other] Ini akan menghapus semua informasi masuk yang telah Anda simpan ke { -brand-short-name } di semua perangkat yang tersinkronisasi dengan akun Anda. Ini juga akan menghapus peringatan keamanan yang muncul di sini. Anda tidak akan dapat membatalkan tindakan ini.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
