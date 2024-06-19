@@ -412,6 +412,20 @@ support-printing-modified-settings = ਸੋਧੀਆਂ ਪਰਿੰਟ ਸੈ�
 support-printing-prefs-name = ਨਾਂ
 support-printing-prefs-value = ਮੁੱਲ
 
+## Remote Settings sections
+
+support-remote-settings-title = ਰਿਮੋਟ ਸੈਟਿੰਗਾਂ
+support-remote-settings-status = ਹਾਲਤ
+support-remote-settings-status-ok = ਠੀਕ ਹੈ
+# Status when synchronization is not working.
+support-remote-settings-status-broken = ਨਹੀਂ ਕੰਮ ਕਰਦਾ
+support-remote-settings-last-check = ਆਖਰੀ ਵਾਰ ਜਾਂਚ
+support-remote-settings-local-timestamp = ਲੋਕਲ ਸਮਾਂ
+support-remote-settings-sync-history = ਅਤੀਤ
+support-remote-settings-sync-history-status = ਹਾਲਤ
+support-remote-settings-sync-history-datetime = ਤਾਰੀਖ
+support-remote-settings-sync-history-infos = ਜਾਣਕਾਰੀ
+
 ## Normandy sections
 
 support-remote-experiments-title = ਰਿਮੋਟ ਤਜਰਬੇ

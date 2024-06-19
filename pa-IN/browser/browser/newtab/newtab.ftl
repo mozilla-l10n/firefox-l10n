@@ -296,7 +296,7 @@ newtab-wallpaper-dark-city = ਜਾਮਨੀ ਸ਼ਹਿਰੀ ਦ੍ਰਿਸ਼
 
 ## Solid Colors
 
-newtab-wallpaper-category-title-colors = ਗੂੜ੍ਹੇ ਰੰਗ
+newtab-wallpaper-category-title-colors = ਇਕਸਾਰ ਰੰਗ
 newtab-wallpaper-blue = ਨੀਲਾ
 newtab-wallpaper-light-blue = ਹਲਕਾ ਨੀਲਾ
 newtab-wallpaper-light-purple = ਹਲਕਾ ਜਾਮਨੀ
@@ -318,13 +318,34 @@ newtab-wallpaper-brown = ਭੂਰਾ
 newtab-wallpaper-category-title-abstract = ਸੰਖੇਪ
 newtab-wallpaper-abstract-green = ਹਰੀਆਂ ਸ਼ਕਲਾਂ
 newtab-wallpaper-abstract-blue = ਨੀਲੀਆਂ ਸ਼ਕਲਾਂ
+newtab-wallpaper-abstract-purple = ਜਾਮਨੀ ਸ਼ਕਲਾਂ
+newtab-wallpaper-abstract-orange = ਸੰਤਰੀ ਸ਼ਕਲਾਂ
+newtab-wallpaper-gradient-orange = ਗਰੇਡੀਐਂਟ ਸੰਤਰੀ ਤੇ ਗੁਲਾਬੀ
+newtab-wallpaper-abstract-blue-purple = ਨੀਲੀਆਂ ਤੇ ਜਾਮਨੀ ਸ਼ਕਲਾਂ
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = ਫ਼ੋਟੋਗਰਾਫ਼
+newtab-wallpaper-beach-at-sunrise = ਬੀਚ ਉੱਤੇ ਚੜ੍ਹਦਾ ਸੂਰਜ
+newtab-wallpaper-beach-at-sunset = ਬੀਚ ਉੱਤੇ ਡੁੱਬਦਾ ਸੂਰਜ
+newtab-wallpaper-storm-sky = ਤੂਫ਼ਾਨੀ ਅੰਬਰ
+newtab-wallpaper-sky-with-pink-clouds = ਗੁਲਾਬੀ ਬੱਦਲਾਂ ਨਾਲ ਅੰਬਰ
+newtab-wallpaper-red-panda-yawns-in-a-tree = ਲਾਲ ਪਾਂਡਾ ਰੁੱਖ ਹੇਠ ਉਬਾਸੀਆਂ ਲੈਂਦਾ ਹੋਇਆ
+newtab-wallpaper-white-mountains = ਚਿੱਟੇ ਪਹਾੜ
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = <a data-l10n-name="name-link">{ $author_string }</a> ਵਲੋਂ <a data-l10n-name="webpage-link">{ $webpage_string }</a> ਉੱਤੇ ਪਾਈ ਫ਼ੋਟੋ
+newtab-wallpaper-feature-highlight-header = ਰੰਗ ਪਾ ਕੇ ਵੇਖੋ
+newtab-wallpaper-feature-highlight-content = ਆਪਣੀ ਨਵੀਂ ਟੈਬ ਨੂੰ ਵਾਲਪੇਪਰ ਨਾਲ ਤਾਜ਼ਾ ਦਿੱਖ ਦਿਓ।
+newtab-wallpaper-feature-highlight-button = ਸਮਝੇ
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = ਖ਼ਾਰਜ ਕਰੋ
+    .aria-label = ਪੌਪ-ਅੱਪ ਨੂੰ ਬੰਦ ਕਰੋ
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
