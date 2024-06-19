@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = ਰੀਵਿਊ ਚੈਕਰ <strong>�
 shopping-adjusted-rating-label =
     .label = ਅਡਜੱਸਟ ਕੀਤੀ ਰੇਟਿੰਗ
 shopping-adjusted-rating-unreliable-reviews = ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ ਹਟਾਏ
+shopping-adjusted-rating-based-reliable-reviews = ਭਰੋਸੇਯੋਗ ਰੀਵਿਊਆਂ ਉੱਤੇ ਅਧਾਰਿਤ
 
 ## Strings for the review reliability component
 
