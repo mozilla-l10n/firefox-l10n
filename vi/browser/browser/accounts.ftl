@@ -84,3 +84,11 @@ account-multiple-tabs-arriving-from-single-device = { $tabCount } thẻ đã t�
 account-multiple-tabs-arriving-from-multiple-devices = { $tabCount } đã tới từ thiết bị đã kết nối của bạn
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device = { $tabCount } thẻ đã đến
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Xem thẻ đã đóng gần đây
+account-tabs-closed-remotely = { $closedCount } thẻ { -brand-short-name } đã bị đóng

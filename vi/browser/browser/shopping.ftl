@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Trình kiểm tra đánh giá đang <s
 shopping-adjusted-rating-label =
     .label = Đánh giá đã được điều chỉnh
 shopping-adjusted-rating-unreliable-reviews = Đã xóa các đánh giá không đáng tin cậy
+shopping-adjusted-rating-based-reliable-reviews = Dựa trên những đánh giá đáng tin cậy
 
 ## Strings for the review reliability component
 
