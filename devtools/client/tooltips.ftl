@@ -39,6 +39,7 @@ inactive-css-not-table = 테이블이 아니기 때문에 <strong>{ $property }<
 inactive-css-not-table-cell = 테이블 셀이 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-scroll-padding-when-not-scroll-container = 스크롤하지 않으므로 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-border-image = <strong>{ $property }</strong>는 부모 테이블 요소에서 <strong>border-collapse</strong>가 <strong>collapse</strong>로 설정된 내부 테이블 요소에 적용할 수 없으므로 이 요소에 영향을 미치지 않습니다.
+inactive-css-resize = <strong>{ $property }</strong>는 표시 이외의 오버플로 값이 있는 요소와 텍스트 영역과 같은 대체된 특정 요소에만 적용될 수 있으므로 이 요소에는 영향을 미치지 않습니다.
 inactive-css-ruby-element = <strong>{ $property }</strong>는 윗주 요소이므로 이 요소에 영향을 미치지 않습니다. 크기는 윗주 텍스트의 글꼴 크기에 따라 결정됩니다.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
