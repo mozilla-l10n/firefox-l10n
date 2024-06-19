@@ -96,3 +96,15 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } ljepblêd ûntfongen
        *[other] { $tabCount } ljepblêden ûntfongen
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Koartlyn sluten ljepblêden besjen
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } { -brand-short-name }-ljepblêd sluten
+       *[other] { $closedCount } { -brand-short-name }-ljepblêden sluten
+    }

@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Beoardielingskontrôle is <strong>Oan<
 shopping-adjusted-rating-label =
     .label = Oanpaste wurdearring
 shopping-adjusted-rating-unreliable-reviews = Unbetroubere beoardielingen fuortsmiten
+shopping-adjusted-rating-based-reliable-reviews = Basearre op betroubere beoardielingen
 
 ## Strings for the review reliability component
 
