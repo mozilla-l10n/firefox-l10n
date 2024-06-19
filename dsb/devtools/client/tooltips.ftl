@@ -39,6 +39,7 @@ inactive-css-not-table = <strong>{ $property }</strong> njama efekt na toś ten 
 inactive-css-not-table-cell = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo tabelowa cela.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> na toś ten element efekt njama, dokulaž se njekula.
 inactive-css-border-image = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž njedajo se na nutśikowne tabelowe elementy nałožyś, źož <strong>border-collapse</strong> jo na <strong>collapse</strong> na nadrědowanem elemenśe tabele stajony.
+inactive-css-resize = <strong>{ $property }</strong> na toś ten element wustatkowanje njama, dokulaž dajo se jano na elementy z drugeju gódnotu za overflow ako visible nałožyś, a na wěste wuměnjone elementy, na pśikład tekstowe póla.
 inactive-css-ruby-element = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž jo element ruby. Jeje wjelikosć se pśez wjelikosć pisma teksta ruby póstaja.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
