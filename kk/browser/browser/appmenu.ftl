@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Көбірек беттерді көрсету
     .tooltiptext = Бұл құрылғыдан көбірек беттерді көрсету
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Бір белсенді емес бетті көрсету
-           *[other] { $count } белсенді емес бетті көрсету
-        }
-    .tooltiptext = Бұл құрылғыда белсенді емес беттерді көрсету
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Белсенді емес беттер
@@ -206,6 +196,8 @@ profiler-popup-presets-power-description = { -brand-shorter-name } ішінде 
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Қуат
+profiler-popup-presets-debug-label =
+    .label = Жөндеу
 profiler-popup-presets-custom-label =
     .label = Таңдауыңызша
 
