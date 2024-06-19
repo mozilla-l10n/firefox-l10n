@@ -86,6 +86,7 @@ inactive-css-not-table-fix = Probearje <strong>display:flex</strong> of <strong>
 inactive-css-not-table-cell-fix = Probearje <strong>display:table-cell</strong> ta te foegjen. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Probearje <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> of <strong>overflow:hidden</strong> ta te foegjen. { learn-more }
 inactive-css-border-image-fix = Smyt yn it boppelizzende tabelelemint de eigenskip fuort, of wizigje de wearde fan <strong>border-collapse</strong> yn in oare wearde as <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Probearje <strong>overflow</strong> yn te stellen op in oare wearde as <strong>visible</strong> of te rjochtsjen op in ferfongen elemint dat dizze stipet. { learn-more }
 inactive-css-ruby-element-fix = Probearje de <strong>lettertypegrutte</strong> fan de rubytekst te wizigjen. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Probearje it oantal rigels te ferminderjen. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Mij it splitsen fan de ynhâld fan it elemint, byg. troch de kolommen fuort te smiten of troch <strong>page-break-inside:avoid</strong> te brûken. { learn-more }
