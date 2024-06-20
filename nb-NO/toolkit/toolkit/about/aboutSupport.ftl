@@ -414,6 +414,7 @@ support-printing-prefs-value = Verdi
 
 ## Remote Settings sections
 
+support-remote-settings-title = Fjerninnstillinger
 support-remote-settings-status = Status
 support-remote-settings-status-ok = OK
 # Status when synchronization is not working.
@@ -423,6 +424,7 @@ support-remote-settings-local-timestamp = Lokalt tidsstempel
 support-remote-settings-sync-history = Historikk
 support-remote-settings-sync-history-status = Status
 support-remote-settings-sync-history-datetime = Dato
+support-remote-settings-sync-history-infos = Info
 
 ## Normandy sections
 
