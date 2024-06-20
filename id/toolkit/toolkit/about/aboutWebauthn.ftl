@@ -32,7 +32,10 @@ about-webauthn-results-pin-too-long-error = Kesalahan: PIN yang diberikan terlal
 
 about-webauthn-new-pin-label = PIN baru:
 about-webauthn-repeat-pin-label = Ulangi PIN baru:
+about-webauthn-current-pin-label = PIN saat ini:
+about-webauthn-pin-required-label = Masukkan PIN Anda:
 about-webauthn-credential-list-subsection-title = Kredensial:
+about-webauthn-credential-list-empty = Tidak ada kredensial yang ditemukan pada perangkat.
 about-webauthn-confirm-deletion-label = Anda akan menghapus:
 
 ## Buttons
