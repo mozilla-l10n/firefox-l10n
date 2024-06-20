@@ -342,7 +342,7 @@ onboarding-easy-setup-security-and-privacy-title = A nos place mantener te secur
 onboarding-easy-setup-security-and-privacy-subtitle = Nostre navigator supportate per un organisation sin fin d lucro adjuta stoppar le companias de sequer secretemente tu movimentos circum le web.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Resta cryptate dum tu passa inter tu apparatos
-onboarding-mobile-download-security-and-privacy-subtitle = Quando tu es synchronisate, { -brand-short-name } crypta tu contrasignos, marcapaginas, e altero. In addition tu pote recuperar schedas ab tu altere apparatos.
+onboarding-mobile-download-security-and-privacy-subtitle = Quando tu es synchronisate, { -brand-short-name } crypta tu contrasignos, marcapaginas, e altero. In addition tu pote recuperar le schedas de tu altere apparatos.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } es tu supporto
 onboarding-gratitude-security-and-privacy-subtitle = Gratias pro usar { -brand-short-name }, supportate per Mozilla Foundation. Con tu supporto, nos labora pro render internet plus secur r plus accessibile pro totes.
