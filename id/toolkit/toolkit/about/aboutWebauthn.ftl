@@ -30,21 +30,38 @@ about-webauthn-results-pin-too-long-error = Kesalahan: PIN yang diberikan terlal
 
 ## Labels
 
+about-webauthn-new-pin-label = PIN baru:
+about-webauthn-repeat-pin-label = Ulangi PIN baru:
+about-webauthn-credential-list-subsection-title = Kredensial:
+about-webauthn-confirm-deletion-label = Anda akan menghapus:
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = Setel PIN
+about-webauthn-current-change-pin-button = Ubah PIN
+about-webauthn-cancel-button = Batal
+about-webauthn-send-pin-button = OK
+about-webauthn-delete-button = Hapus
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Verifikasi pengguna
+about-webauthn-auth-option-clientpin = PIN Klien
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Benar
 # Shows when boolean value of an option is False. False should not be translated.
 about-webauthn-auth-option-false = Salah
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Tidak didukung
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Sertifikasi
+about-webauthn-auth-info-firmware-version = Versi firmware
+about-webauthn-auth-info-min-pin-length = Panjang PIN minimum
+about-webauthn-auth-info-force-pin-change = Paksa perubahan PIN
 about-webauthn-auth-info-algorithms = Algoritma
 about-webauthn-auth-info-pin-protocols = Protokol PIN
 about-webauthn-auth-info-extensions = Ekstensi
