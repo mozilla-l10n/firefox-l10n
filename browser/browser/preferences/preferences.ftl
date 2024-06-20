@@ -1305,6 +1305,9 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Ñanduti rogue maranduñemurãva
+website-advertising-private-attribution =
+    .label = Emoneĩ ñanduti rogue oha’ãvo maranduñemurã omomba’évo tekoñemi
+    .accesskey = a
 
 ## Privacy Section - Security
 ##
