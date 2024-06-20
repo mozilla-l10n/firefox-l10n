@@ -147,6 +147,7 @@ perftools-presets-networking-description = Προτεινόμενη προεπι
 perftools-presets-power-label = Ενέργεια
 perftools-presets-power-description = Προκαθορισμένη ρύθμιση για τη διερεύνηση σφαλμάτων χρήσης ενέργειας στο { -brand-shorter-name }, με μικρή επιβάρυνση.
 perftools-presets-debug-label = Έλεγχος σφαλμάτων
+perftools-presets-debug-description = Προκαθορισμένη ρύθμιση για έλεγχο σφαλμάτων στο { -brand-shorter-name }. Υψηλός φόρτος, μην τη χρησιμοποιείτε για εργασίες υψηλών επιδόσεων, αλλά για την εστίαση στην κατανόηση της συμπεριφοράς του προγράμματος περιήγησης.
 perftools-presets-custom-label = Προσαρμογή
 
 ##

@@ -327,6 +327,9 @@ newtab-wallpaper-abstract-blue-purple = Μπλε και μωβ σχήματα
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Φωτογραφίες
+newtab-wallpaper-beach-at-sunrise = Παραλία στην ανατολή του ήλιου
+newtab-wallpaper-beach-at-sunset = Παραλία στη δύση του ήλιου
+newtab-wallpaper-storm-sky = Ουρανός με καταιγίδα
 newtab-wallpaper-sky-with-pink-clouds = Ουρανός με ροζ σύννεφα
 newtab-wallpaper-red-panda-yawns-in-a-tree = Κόκκινο πάντα που χασμουριέται σε ένα δέντρο
 newtab-wallpaper-white-mountains = Λευκά βουνά
@@ -335,6 +338,7 @@ newtab-wallpaper-white-mountains = Λευκά βουνά
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Φωτογραφία από <a data-l10n-name="name-link">{ $author_string }</a> στο <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Δοκιμάστε μια πινελιά χρώματος
+newtab-wallpaper-feature-highlight-content = Δώστε νέα εμφάνιση στη νέα σας καρτέλα με ταπετσαρίες.
 newtab-wallpaper-feature-highlight-button = Το κατάλαβα
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =

@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Προκαθορισμένη ρύθμ
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Ενέργεια
+profiler-popup-presets-debug-description = Προκαθορισμένη ρύθμιση για έλεγχο σφαλμάτων στο { -brand-shorter-name }. Υψηλός φόρτος, μην τη χρησιμοποιείτε για εργασίες υψηλών επιδόσεων, αλλά για την εστίαση στην κατανόηση της συμπεριφοράς του προγράμματος περιήγησης.
 profiler-popup-presets-debug-label =
     .label = Έλεγχος σφαλμάτων
 profiler-popup-presets-custom-label =

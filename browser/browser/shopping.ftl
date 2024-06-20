@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Ο έλεγχος κριτικών ε�
 shopping-adjusted-rating-label =
     .label = Αναπροσαρμοσμένη βαθμολογία
 shopping-adjusted-rating-unreliable-reviews = Οι αναξιόπιστες κριτικές αφαιρέθηκαν
+shopping-adjusted-rating-based-reliable-reviews = Με βάση αξιόπιστες κριτικές
 
 ## Strings for the review reliability component
 
