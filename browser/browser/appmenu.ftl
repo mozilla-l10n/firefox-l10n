@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = { -brand-shorter-name } ішінде 
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Қуат
+profiler-popup-presets-debug-description = { -brand-shorter-name } ішінде жөндеуге арналған алдын ала жасалған баптау. Жоғары шығынды, өнімділік жұмысы үшін емес, браузер әрекетін түсіну үшін пайдаланыңыз.
 profiler-popup-presets-debug-label =
     .label = Жөндеу
 profiler-popup-presets-custom-label =
