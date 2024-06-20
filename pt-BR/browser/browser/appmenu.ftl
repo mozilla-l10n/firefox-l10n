@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Ajuste prévio para investigar bugs d
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+profiler-popup-presets-debug-description = Configuração prévia de depuração no { -brand-shorter-name }. Alta sobrecarga, não usar para analisar desempenho, útil para se concentrar em entender o comportamento do navegador.
 profiler-popup-presets-debug-label =
     .label = Debug
 profiler-popup-presets-custom-label =
