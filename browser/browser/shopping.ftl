@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Vurderingskontrollør er <strong>på</
 shopping-adjusted-rating-label =
     .label = Justert vurdering
 shopping-adjusted-rating-unreliable-reviews = Upålitelige vuderinger er fjernet
+shopping-adjusted-rating-based-reliable-reviews = Basert på pålitelige vurderinger
 
 ## Strings for the review reliability component
 
