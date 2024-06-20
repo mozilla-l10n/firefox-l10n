@@ -186,6 +186,7 @@ shopping-onboarding-dynamic-subtitle-1 = Lihat seberapa andal ulasan produk di <
 #   $currentSite (str) - The current shopping page name
 shopping-onboarding-single-subtitle = Lihat seberapa andal ulasan produk di <b>{ $currentSite }</b> sebelum Anda membeli. Review Checker, fitur eksperimental dari { -brand-product-name }, dibangun langsung ke dalam peramban.
 shopping-onboarding-body = Menggunakan kekuatan { -fakespot-brand-full-name }, kami membantu Anda menghindari ulasan yang bias dan tidak otentik. Model AI kami selalu berkembang untuk melindungi Anda saat berbelanja. <a data-l10n-name="learn_more">Pelajari Lebih Lanjut</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use3 = Dengan memilih “{ shopping-onboarding-opt-in-button }“ Anda menyetujui { -brand-product-name }’s <a data-l10n-name="privacy_policy">kebijakan privasi</a> dan { -fakespot-brand-name }’s <a data-l10n-name="terms_of_use">ketentuan penggunaan.</a>
 shopping-onboarding-opt-in-button = Ya, coba!
 shopping-onboarding-not-now-button = Jangan sekarang
 shopping-onboarding-dialog-close-button =
