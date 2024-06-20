@@ -30,3 +30,14 @@ fxviewtabrow-copy-link = Salin Tautan
     .accesskey = S
 fxviewtabrow-close-tab = Tutup Tab
     .accesskey = T
+fxviewtabrow-move-tab = Pindahkan Tab
+    .accesskey = V
+fxviewtabrow-move-tab-start = Pindahkan ke Awal
+    .accesskey = S
+fxviewtabrow-move-tab-end = Pindahkan ke Akhir
+    .accesskey = E
+fxviewtabrow-move-tab-window = Pindahkan ke Jendela Baru
+    .accesskey = W
+
+## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
+

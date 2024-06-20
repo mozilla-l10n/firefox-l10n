@@ -76,6 +76,7 @@ migration-continue-button-label = Lanjutkan
 
 ##
 
+migration-safari-password-import-skip-button = Lewati
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
@@ -84,4 +85,5 @@ migration-continue-button-label = Lanjutkan
 
 ##
 
+migration-wizard-progress-success-formdata = Riwayat formulir
 migration-wizard-safari-instructions-continue = Pilih “Lanjutkan”
