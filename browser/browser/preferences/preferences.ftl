@@ -1308,6 +1308,7 @@ website-advertising-header = Ñanduti rogue maranduñemurãva
 website-advertising-private-attribution =
     .label = Emoneĩ ñanduti rogue oha’ãvo maranduñemurã omomba’évo tekoñemi
     .accesskey = a
+website-advertising-private-attribution-description = Kóva oipytyvõta tendakuérape oikumbývo maranduñemurã ombyaty’ỹre poruhára mba’ekuaarã.
 
 ## Privacy Section - Security
 ##

@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Pe marandu’i rechajeyha <strong>hend
 shopping-adjusted-rating-label =
     .label = Ñeha’ãmby ha’etéva
 shopping-adjusted-rating-unreliable-reviews = Oñemboguéta marandu’i jerovia’ỹha
+shopping-adjusted-rating-based-reliable-reviews = Oiko hechajey jeroviahápe
 
 ## Strings for the review reliability component
 
