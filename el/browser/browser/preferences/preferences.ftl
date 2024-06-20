@@ -1308,6 +1308,7 @@ website-advertising-header = Προτιμήσεις διαφημίσεων ισ�
 website-advertising-private-attribution =
     .label = Να επιτρέπεται στους ιστοτόπους η εκτέλεση διαφημιστικών μετρήσεων με σεβασμό στο απόρρητο
     .accesskey = α
+website-advertising-private-attribution-description = Αυτή η επιλογή βοηθά τους ιστοτόπους να κατανοήσουν την απόδοση των διαφημίσεών τους, χωρίς να συλλέγονται δεδομένα σχετικά με εσάς.
 
 ## Privacy Section - Security
 ##

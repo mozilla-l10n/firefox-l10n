@@ -17,6 +17,7 @@ learn-more = <span data-l10n-name="link">Μάθετε περισσότερα</sp
 inactive-css-not-grid-or-flex-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης flex ούτε περιέκτης πλέγματος.
 inactive-css-not-grid-or-flex-container-or-multicol-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης flex, περιέκτης πλέγματος ή περιέκτης πολλαπλών στηλών.
 inactive-css-not-multicol-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης πολλαπλών στηλών.
+inactive-css-column-span = Το <strong>{ $property }</strong> δεν έχει επίδραση διαστήματος σε αυτό το στοιχείο, αφού δεν βρίσκεται εντός περιέκτη πολλαπλών στηλών.
 inactive-css-not-grid-or-flex-item = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι στοιχείο flex ή πλέγματος.
 inactive-css-not-grid-item = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι στοιχείο πλέγματος.
 inactive-css-not-grid-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης πλέγματος.
