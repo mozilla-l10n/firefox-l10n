@@ -111,6 +111,7 @@ login-item-edit-button = ແກ້ໄຂ
 about-logins-login-item-remove-button = ລຶບ
 login-item-origin-label = ທີ່ຢູ່ເວັບໄຊທ໌
 login-item-tooltip-message = ໃຫ້ແນ່ໃຈວ່ານີ້ກົງກັບທີ່ຢູ່ທີ່ແນ່ນອນຂອງເວັບໄຊທ໌ທີ່ທ່ານເຂົ້າສູ່ລະບົບ.
+about-logins-origin-tooltip2 = ໃສ່ທີ່ຢູ່ເຕັມ ແລະ ໃຫ້ແນ່ໃຈວ່າມັນກົງກັນແທ້ສໍາລັບບ່ອນທີ່ທ່ານເຂົ້າສູ່ລະບົບ.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ຊື່ຜູ້ໃຊ້
@@ -152,6 +153,9 @@ about-logins-edit-login-os-auth-dialog-message-win = ເພື່ອແກ້ໄ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ແກ້ໄຂການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = ແກ້ໄຂລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = ເພື່ອເບິ່ງລະຫັດຜ່ານຂອງທ່ານ, ກະລຸນາໃສ່ຂໍ້ມູນການເຂົ້າສູ່ລະບົບ Windows ຂອງທ່ານ. ນີ້ຊ່ວຍປົກປ້ອງຄວາມປອດໄພຂອງບັນຊີຂອງທ່ານ.
 # This message can be seen when attempting to reveal a password in about:logins
@@ -221,6 +225,12 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] ການດຳເນີນການນີ້ຈະເອົາການເຂົ້າສູ່ລະບົບທີ່ເຈົ້າບັນທຶກໄວ້ໃນ { -brand-short-name } ເທິງອຸປະກອນທັງໝົດທີ່ຊິ້ງກັບ{ -fxaccount-brand-name } ຂອງທ່ານ. ການດຳເນີນການນີ້ຈະເອົາການແຈ້ງເຕືອນກ່ຽວກັບການຮົ່ວໄຫຼທີ່ປາກົດບ່ອນນີ້ອອກນຳ. ທ່ານຈະບໍ່ສາມາດຍົກເລີກການດຳເນີນການນີ້ໄດ້.
        *[other] ການດຳເນີນການນີ້ຈະເອົາການເຂົ້າສູ່ລະບົບທີ່ເຈົ້າບັນທຶກໄວ້ໃນ { -brand-short-name } ເທິງອຸປະກອນທັງໝົດທີ່ຊິ້ງກັບ{ -fxaccount-brand-name } ຂອງທ່ານ. ການດຳເນີນການນີ້ຈະເອົາການແຈ້ງເຕືອນກ່ຽວກັບການຮົ່ວໄຫຼທີ່ປາກົດບ່ອນນີ້ອອກນຳ. ທ່ານຈະບໍ່ສາມາດຍົກເລີກການດຳເນີນການນີ້ໄດ້.
+    }
+# Checkbox for modal to confirm the removal of saved passwords
+about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] ແມ່ນແລ້ວ, ເອົາລະຫັດຜ່ານອອກ
+       *[other] ແມ່ນແລ້ວ, ເອົາລະຫັດຜ່ານອອກ
     }
 
 ##
