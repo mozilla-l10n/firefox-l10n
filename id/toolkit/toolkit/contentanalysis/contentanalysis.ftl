@@ -19,3 +19,6 @@ contentanalysis-notification-title = Analisis Konten
 #   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
 #   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
 contentanalysis-genericresponse-message = Analisis Konten ditanggapi dengan { $response } untuk sumber daya: { $content }
+# Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-block-message = Organisasi Anda menggunakan perangkat lunak pencegah kehilangan data yang telah memblokir konten ini: { $content }.

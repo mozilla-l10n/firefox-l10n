@@ -77,12 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Tampilkan Tab Lainnya
     .tooltiptext = Tampilkan lebih banyak dari perangkat ini
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label = Tampilkan { $count } tab tidak aktif
-    .tooltiptext = Tampilkan tab tidak aktif di perangkat ini
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Tab nonaktif
+    .tooltiptext = Lihat tab nonaktif pada perangkat ini
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Tak ada tab terbuka
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -198,6 +196,8 @@ profiler-popup-presets-power-description = Prasetel untuk menyelidiki bug penggu
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Daya
+profiler-popup-presets-debug-label =
+    .label = Debug
 profiler-popup-presets-custom-label =
     .label = Khusus
 
