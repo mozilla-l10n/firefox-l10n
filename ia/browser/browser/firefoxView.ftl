@@ -132,9 +132,9 @@ firefoxview-recently-closed-header = Schedas claudite recentemente
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
-firefoxview-synced-tabs-nav = Schedas ab altere apparatos
-    .title = Schedas ab altere apparatos
-firefoxview-synced-tabs-header = Schedas ab altere apparatos
+firefoxview-synced-tabs-nav = Schedas de altere apparatos
+    .title = Schedas de altere apparatos
+firefoxview-synced-tabs-header = Schedas de altere apparatos
 
 ##
 
