@@ -147,6 +147,7 @@ perftools-presets-networking-description = { -brand-shorter-name } ішінде 
 perftools-presets-power-label = Эл. қорегі
 perftools-presets-power-description = { -brand-shorter-name } ішінде эл. қорегін қолдану ақаулықтарын зерттеуге арналған баптаулар жиынтығы, қосымша жүктемесі аз.
 perftools-presets-debug-label = Жөндеу
+perftools-presets-debug-description = { -brand-shorter-name } ішінде жөндеуге арналған алдын ала жасалған баптау. Жоғары шығынды, өнімділік жұмысы үшін емес, браузер әрекетін түсіну үшін пайдаланыңыз.
 perftools-presets-custom-label = Таңдауыңызша
 
 ##
