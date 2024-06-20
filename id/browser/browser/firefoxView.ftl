@@ -104,6 +104,8 @@ firefoxview-collapse-button-hide =
     .title = Sembunyikan daftar
 firefoxview-overview-nav = Baru saja dijelajahi
     .title = Baru saja dijelajahi
+firefoxview-overview-header = Baru saja dijelajahi
+    .title = Baru saja dijelajahi
 
 ## History in this context refers to browser history
 
@@ -121,6 +123,9 @@ firefoxview-opentabs-header = Tab terbuka
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Tab yang baru saja ditutup
+    .title = Tab yang baru saja ditutup
+firefoxview-recently-closed-header = Tab yang Baru Saja Ditutup
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
@@ -136,6 +141,10 @@ firefoxview-view-all-link = Tampilkan semua
 #   $winID (Number) - The index of the owner window for this set of tabs
 firefoxview-opentabs-window-header =
     .title = Jendela { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Jendela { $winID } (Saat Ini)
 firefoxview-opentabs-focus-tab =
     .title = Pindah ke tab ini
 firefoxview-show-more = Tampilkan lebih banyak
@@ -149,8 +158,19 @@ firefoxview-search-text-box-recentbrowsing =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Riwayat pencarian
+# Placeholder for the input field to search in recently closed tabs ("search" is a verb).
+firefoxview-search-text-box-recentlyclosed =
+    .placeholder = Cari tab yang baru saja ditutup
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-syncedtabs =
+    .placeholder = Cari tab tersinkron
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = Cari tab terbuka
 firefoxview-sort-history-by-date-label = Urut berdasarkan tanggal
 firefoxview-sort-history-by-site-label = Urut berdasarkan situs
+firefoxview-sort-open-tabs-by-recency-label = Sortir berdasarkan aktivitas terbaru
+firefoxview-sort-open-tabs-by-order-label = Sortir berdasarkan urutan tab
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale

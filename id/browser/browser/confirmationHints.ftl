@@ -22,3 +22,10 @@ confirmation-hint-send-to-device = Terkirim!
 confirmation-hint-firefox-relay-mask-created = Topeng baru dibuat!
 confirmation-hint-firefox-relay-mask-reused = Topeng yang ada digunakan kembali!
 confirmation-hint-screenshot-copied = Tangkapan layar disalin!
+# Variables:
+#   $tabCount (Number): The number of duplicate tabs closed, at least 1.
+confirmation-hint-duplicate-tabs-closed =
+    { $tabCount ->
+        [one] Tutup { $tabCount } tab
+       *[other] Tutup { $tabCount } tabs
+    }
