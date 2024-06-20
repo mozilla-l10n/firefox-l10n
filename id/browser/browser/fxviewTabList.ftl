@@ -38,6 +38,16 @@ fxviewtabrow-move-tab-end = Pindahkan ke Akhir
     .accesskey = E
 fxviewtabrow-move-tab-window = Pindahkan ke Jendela Baru
     .accesskey = W
+fxviewtabrow-send-tab = Kirim Tab ke Perangkat
+    .accesskey = n
+fxviewtabrow-pin-tab = Sematkan Tab
+    .accesskey = P
+fxviewtabrow-unpin-tab = Lepas Sematan Tab
+    .accesskey = p
+fxviewtabrow-mute-tab = Senyapkan Tab
+    .accesskey = M
+fxviewtabrow-unmute-tab = Bunyikan Tab
+    .accesskey = m
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
