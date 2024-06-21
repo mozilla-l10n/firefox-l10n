@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Değerlendirme kontrolcüsü <strong>a
 shopping-adjusted-rating-label =
     .label = Düzeltilmiş puan
 shopping-adjusted-rating-unreliable-reviews = Güvenilmez değerlendirmeler kaldırıldı
+shopping-adjusted-rating-based-reliable-reviews = Güvenilir değerlendirmelere dayanarak
 
 ## Strings for the review reliability component
 

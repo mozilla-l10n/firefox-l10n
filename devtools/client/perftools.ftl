@@ -139,6 +139,7 @@ perftools-presets-networking-description = { -brand-shorter-name } tarayıcısı
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Güç
 perftools-presets-power-description = { -brand-shorter-name } tarayıcısında güç tüketimi hatalarını araştırma ayarı, düşük ek yük.
+perftools-presets-debug-label = Hata ayıklama
 perftools-presets-custom-label = Özel
 
 ##
