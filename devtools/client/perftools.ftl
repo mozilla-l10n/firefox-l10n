@@ -140,6 +140,7 @@ perftools-presets-networking-description = Ajuste prévio para investigar bugs d
 perftools-presets-power-label = Energia
 perftools-presets-power-description = Ajuste prévio para investigar bugs de uso de energia no { -brand-shorter-name }, com baixa sobrecarga.
 perftools-presets-debug-label = Debug
+perftools-presets-debug-description = Configuração prévia de depuração no { -brand-shorter-name }. Alta sobrecarga, não usar para analisar desempenho, útil para se concentrar em entender o comportamento do navegador.
 perftools-presets-custom-label = Personalizado
 
 ##
