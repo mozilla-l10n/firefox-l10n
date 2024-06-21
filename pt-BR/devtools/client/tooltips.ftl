@@ -39,6 +39,7 @@ inactive-css-not-table = <strong>{ $property }</strong> não tem efeito neste el
 inactive-css-not-table-cell = <strong>{ $property }</strong> não tem efeito neste elemento, pois não é uma célula de tabela.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> não tem efeito neste elemento, pois não desliza (scroll).
 inactive-css-border-image = <strong>{ $property }</strong> não tem efeito sobre este elemento, pois não pode ser aplicado a elementos internos de tabela em que <strong>border-collapse</strong> esteja definido como <strong>collapse</strong> no elemento superior da tabela.
+inactive-css-resize = <strong>{ $property }</strong> não tem efeito sobre este elemento, pois só pode ser aplicado a elementos com valor de overflow diferente de 'visible' e em determinados elementos substituídos, como alguns textarea.
 inactive-css-ruby-element = <strong>{ $property }</strong> não tem efeito sobre este elemento, pois é um elemento ruby. Seu tamanho é determinado pelo tamanho da fonte do texto ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
