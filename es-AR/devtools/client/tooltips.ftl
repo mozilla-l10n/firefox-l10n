@@ -86,6 +86,7 @@ inactive-css-not-table-fix = Intente agregar <strong>display:table</strong> o <s
 inactive-css-not-table-cell-fix = Intente agregar <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Intente agregar <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = En el elemento de la tabla principal, se debe eliminar la propiedad o cambiar el valor de <strong>border-collapse</strong> a un valor que no sea <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Intente configurar <strong>overflow</strong> a un valor diferente a <strong>visible</strong> o apuntar a un elemento reemplazado soportado. { learn-more }
 inactive-css-ruby-element-fix = Intente cambiar <strong>font-size</strong> del texto ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Intente reducir el número de líneas. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evite dividir el contenido del elemento, ej: eliminando las columnas o usando <strong>page-break-inside:avoid</strong>. { learn-more }
