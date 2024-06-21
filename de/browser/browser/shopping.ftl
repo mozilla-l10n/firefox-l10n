@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Rezensionsprüfer ist <strong>aktiv</s
 shopping-adjusted-rating-label =
     .label = Bewertungen angepasst
 shopping-adjusted-rating-unreliable-reviews = Unzuverlässige Bewertungen entfernt
+shopping-adjusted-rating-based-reliable-reviews = Basierend auf zuverlässigen Bewertungen
 
 ## Strings for the review reliability component
 
