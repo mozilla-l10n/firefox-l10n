@@ -417,6 +417,7 @@ support-printing-prefs-value = Wert
 
 ## Remote Settings sections
 
+support-remote-settings-title = Externe Einstellungen
 support-remote-settings-status = Status
 support-remote-settings-status-ok = OK
 # Status when synchronization is not working.
