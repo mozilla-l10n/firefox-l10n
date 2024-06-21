@@ -56,6 +56,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] <strong>{ $property }</strong> não tem efeito neste elemento, pois tem mais de { $lineCount } linhas.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> não tem efeito neste elemento, pois está fragmentado, ou seja, seu conteúdo está separado em várias colunas ou páginas.
+inactive-css-no-width-height = <strong>{ $property }</strong> não tem efeito neste elemento, pois sua largura e altura não podem ser definidas.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -85,6 +86,7 @@ inactive-css-not-table-fix = Experimente adicionar <strong>display:table</strong
 inactive-css-not-table-cell-fix = Experimente adicionar <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Experimente adicionar <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ou <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = No elemento superior da tabela, remova a propriedade ou altere o valor de <strong>border-collapse</strong> para um valor diferente de <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Experimente definir <strong>overflow</strong> com um valor diferente de <strong>visible</strong>, ou direcionar para um elemento substituído que ofereça suporte a isso. { learn-more }
 inactive-css-ruby-element-fix = Experimente alterar o <strong>font-size</strong> do texto ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Experimente reduzir o número de linhas. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evite a separação do conteúdo do elemento, por exemplo. removendo colunas ou usando <strong>page-break-inside:avoid</strong>. { learn-more }
