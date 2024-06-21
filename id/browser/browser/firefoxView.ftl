@@ -66,6 +66,7 @@ firefoxview-tabpickup-password-locked-header = Masukkan Sandi Utama Anda untuk m
 firefoxview-tabpickup-password-locked-description = Untuk mengambil tab Anda, Anda harus memasukkan Sandi Utama untuk { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Pelajari lebih lanjut
 firefoxview-tabpickup-password-locked-primarybutton = Masukkan Sandi Utama
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Pelajari lebih lanjut</a>
 firefoxview-tabpickup-signed-out-header = Masuk untuk menghubungkan ulang
 firefoxview-tabpickup-signed-out-description = Untuk menyambungkan ulang dan mengambil tab Anda, masuk ke { -fxaccount-brand-name } Anda.
 firefoxview-tabpickup-signed-out-primarybutton = Masuk
@@ -195,12 +196,21 @@ firefoxview-opentabs-tab-row =
 ##   $date (string) - Date to be formatted based on locale
 
 firefoxview-history-date-today = Hari ini - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Kemarin - { DATETIME($date, dateStyle: "full") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (berkas lokal)
 
 ##
 
+firefoxview-show-all-history = Tampilkan seluruh riwayat
+firefoxview-view-more-browsing-history = Tampilkan lebih banyak riwayat penelusuran
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Kembali ke tempat Anda sebelumnya
+firefoxview-history-empty-description = Saat Anda menjelajah, laman yang Anda kunjungi akan terdaftar di sini.
 
 ##
 
@@ -226,9 +236,16 @@ firefoxview-import-history-header = Impor riwayat dari peramban lainnya
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Menutup tab terlalu cepat?
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Tak ada tab terbuka di perangkat ini
+firefoxview-syncedtabs-connect-another-device = Hubungkan perangkat lain
+firefoxview-pinned-tabs =
+    .title = Tab Tersemat
+firefoxview-tabs =
+    .title = Tab
 
 ## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
 ## Variables:
