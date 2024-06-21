@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Einschließlich Kredit- und Debit
     .accesskey = E
 autofill-saved-payment-methods-button = Gespeicherte Zahlungsmethoden
     .accesskey = G
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] macOS-Authentifizierung anfordern, um Zahlungsmethoden auszufüllen und zu bearbeiten
-        [windows] Windows-Authentifizierung anfordern, um Zahlungsmethoden auszufüllen und zu bearbeiten
-        [linux] Linux-Authentifizierung anfordern, um Zahlungsmethoden auszufüllen und zu bearbeiten
-       *[other] Authentifizierung anfordern, um Zahlungsmethoden auszufüllen und zu bearbeiten
-    }
-    .accesskey = A
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Anmeldung am Gerät zum Ausfüllen und Verwalten von Zahlungsmethoden verlangen
     .accesskey = u
@@ -1309,6 +1301,14 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name }-Empfehlungen verwenden
 privacy-segmentation-radio-on =
     .label = Detaillierte Informationen anzeigen
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Werbeeinstellungen für Websites
+website-advertising-private-attribution =
+    .label = Websites erlauben, datenschutzfreundliche Werbe-Messungen durchzuführen
+    .accesskey = e
+website-advertising-private-attribution-description = Dies hilft Websites, die Leistung ihrer Anzeigen zu verstehen, ohne Daten über Sie zu sammeln.
 
 ## Privacy Section - Security
 ##
