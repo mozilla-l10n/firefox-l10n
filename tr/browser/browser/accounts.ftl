@@ -96,3 +96,15 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } sekme geldi
        *[other] { $tabCount } sekme geldi
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Son kapatılan sekmeleri göster
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } { -brand-short-name } sekmesi kapatıldı
+       *[other] { $closedCount } { -brand-short-name } sekmesi kapatıldı
+    }
