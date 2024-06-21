@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Penuntun Impor
-
 import-from =
     { PLATFORM() ->
         [windows] Impor Pengaturan, Markah (Bookmark), Riwayat, Sandi, dan data lainnya dari:
        *[other] Impor Pengaturan, Markah (Bookmark), Riwayat, Sandi, dan data lainnya dari:
     }
-
 import-from-bookmarks = Impor Markah dari:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -63,34 +61,23 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = O
-
 no-migration-sources = Tidak ada program yang berisi markah, riwayat atau sandi yang bisa ditemukan.
-
 import-source-page-title = Impor Pengaturan dan Data
 import-items-page-title = Pilih yang akan diimpor
-
 import-items-description = Pilih yang akan diimpor:
-
 import-permissions-page-title = Mohon beri izin kepada { -brand-short-name }
-
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = macOS memerlukan Anda secara eksplisit mengizinkan { -brand-short-name } untuk mengakses data dari Safari. Klik “Lanjutkan”, pilih berkas “Safari“ dalam dialog Finder yang muncul dan kemudian klik “Buka”.
 import-migrating-page-title = Mengimpor…
-
 import-migrating-description = Berikut ini yang sedang diimpor…
-
 import-select-profile-page-title = Pilih Profil
-
 import-select-profile-description = Profil berikut ini bisa diimpor dari:
-
 import-done-page-title = Proses Impor Selesai
-
 import-done-description = Item berikut sukses diimpor:
-
 import-close-source-browser = Pastikan peramban terpilih telah ditutup sebelum melanjutkan.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Daftar Bacaan (Dari Safari)
 imported-edge-reading-list = Daftar Bacaan (Dari Edge)
 
@@ -112,7 +99,6 @@ browser-data-cookies-checkbox =
     .label = Kuki
 browser-data-cookies-label =
     .value = Kuki
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -125,12 +111,10 @@ browser-data-history-label =
             [firefox] Riwayat Jelajah dan Markah
            *[other] Riwayat Jelajah
         }
-
 browser-data-formdata-checkbox =
     .label = Riwayat Formulir Tersimpan
 browser-data-formdata-label =
     .value = Riwayat Formulir Tersimpan
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -139,7 +123,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Riwayat Info Masuk dan Sandi
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -154,14 +137,15 @@ browser-data-bookmarks-label =
             [edge] Favorit
            *[other] Markah
         }
-
 browser-data-otherdata-checkbox =
     .label = Data Lain
 browser-data-otherdata-label =
     .label = Data Lain
-
 browser-data-session-checkbox =
     .label = Jendela dan Tab
 browser-data-session-label =
     .value = Jendela dan Tab
-
+browser-data-payment-methods-checkbox =
+    .label = Metode pembayaran
+browser-data-payment-methods-label =
+    .value = Metode pembayaran

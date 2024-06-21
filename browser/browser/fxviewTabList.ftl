@@ -48,6 +48,14 @@ fxviewtabrow-mute-tab = Senyapkan Tab
     .accesskey = M
 fxviewtabrow-unmute-tab = Bunyikan Tab
     .accesskey = m
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Opsi untuk { $tabTitle }
 
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
+fxviewtabrow-mute-tab-button-no-context =
+    .title = Senyapkan tab
+fxviewtabrow-unmute-tab-button-no-context =
+    .title = Bunyikan tab

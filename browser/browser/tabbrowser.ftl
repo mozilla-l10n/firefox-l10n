@@ -87,6 +87,10 @@ tabbrowser-confirm-caretbrowsing-title = Jelajah Caret
 tabbrowser-confirm-caretbrowsing-message = Tekan F7 untuk mengaktifkan/menonaktifkan Penjelajahan Caret. Fitur ini menempatkan kursor dalam laman web sehingga Anda bisa memilih teks dengan papan ketik. Ingin mengaktifkan Penjelajahan Caret?
 tabbrowser-confirm-caretbrowsing-checkbox = Jangan tampilkan kotak dialog ini lagi.
 
+## Confirmation dialog for closing all duplicate tabs
+
+tabbrowser-confirm-close-duplicate-tabs-title = Perhatian
+
 ##
 
 # Variables:
@@ -123,5 +127,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab manager menu buttons
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Senyapkan tab
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Bunyikan tab
 tabbrowser-manager-close-tab =
     .tooltiptext = Tutup tab

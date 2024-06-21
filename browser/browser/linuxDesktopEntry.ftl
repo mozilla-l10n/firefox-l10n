@@ -11,6 +11,8 @@ desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment = Jelajahi World Wide Web
 desktop-entry-generic-name = Peramban Web
+# Combine Name and GenericName. This string is specific to GNOME.
+desktop-entry-x-gnome-full-name = { -brand-shortcut-name } Peramban Web
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.
@@ -20,3 +22,6 @@ desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.
 
+desktop-action-new-window-name = Jendela Baru
+desktop-action-new-private-window-name = Jendela Mode Pribadi Baru
+desktop-action-open-profile-manager = Buka Pengelola Profil
