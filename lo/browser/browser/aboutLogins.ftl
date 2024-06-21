@@ -232,12 +232,15 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
         [1] ແມ່ນແລ້ວ, ເອົາລະຫັດຜ່ານອອກ
        *[other] ແມ່ນແລ້ວ, ເອົາລະຫັດຜ່ານອອກ
     }
+# Title for modal to confirm the removal of all saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-title2 = ລຶບລະຫັດຜ່ານ { $count } ທັງໝົດອອກບໍ?
 
 ##
 
 about-logins-confirm-export-dialog-title = ສົ່ງອອກເຂົ້າສູ່ລະບົບ ແລະລະຫັດຜ່ານ
 about-logins-confirm-export-dialog-message = ລະຫັດຜ່ານຂອງທ່ານຈະຖືກບັນທຶກໄວ້ເປັນຂໍ້ຄວາມທີ່ສາມາດອ່ານໄດ້ (ເຊັ່ນ: BadP@ssw0rd) ດັ່ງນັ້ນທຸກຄົນທີ່ສາມາດເປີດໄຟລ໌ທີ່ສົ່ງອອກສາມາດເບິ່ງໄດ້.
 about-logins-confirm-export-dialog-confirm-button = ສົ່ງອອກ...
+about-logins-confirm-export-dialog-confirm-button2 = ສືບຕໍ່ການສົ່ງອອກ
 about-logins-alert-import-title = ນໍາເຂົ້າສໍາເລັດ
 about-logins-alert-import-message = ເບິ່ງລາຍລະອຽດການນໍາເຂົ້າ
 confirm-discard-changes-dialog-title = ຍົກເລີກການປ່ຽນແປງທີ່ບໍ່ໄດ້ບັນທຶກໄວ້ບໍ?
