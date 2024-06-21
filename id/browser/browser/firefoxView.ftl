@@ -167,14 +167,34 @@ firefoxview-search-text-box-syncedtabs =
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
     .placeholder = Cari tab terbuka
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Hasil pencarian untuk “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } situs
+       *[other] { $count } situs
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Tak ada hasil untuk “{ $query }”
 firefoxview-sort-history-by-date-label = Urut berdasarkan tanggal
 firefoxview-sort-history-by-site-label = Urut berdasarkan situs
 firefoxview-sort-open-tabs-by-recency-label = Sortir berdasarkan aktivitas terbaru
 firefoxview-sort-open-tabs-by-order-label = Sortir berdasarkan urutan tab
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Beralih ke { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Hari ini - { DATETIME($date, dateStyle: "full") }
 
 ##
 

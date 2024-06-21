@@ -900,6 +900,7 @@ restore-session-startup-suggestion-button = Tunjukkan caranya
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
+filepicker-blocked-infobar = Organisasi Anda telah memblokir akses ke berkas lokal di komputer ini
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

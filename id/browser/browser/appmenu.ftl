@@ -275,5 +275,6 @@ appmenuitem-sign-in-account = Masuk ke akun Anda
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dapatkan peringatan kebocoran data
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = Tutupi surel dan telepon asli Anda
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Lindungi aktivitas daring Anda
