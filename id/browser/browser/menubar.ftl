@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -139,6 +145,8 @@ menu-view-history-button =
     .label = Riwayat
 menu-view-synced-tabs-sidebar =
     .label = Tab yang Disinkronkan
+menu-view-megalist-sidebar =
+    .label = Sandi
 menu-view-full-zoom =
     .label = Perbesaran
     .accesskey = b
@@ -219,6 +227,9 @@ menu-history-undo-menu =
     .label = Tab yang Baru Saja Ditutup
 menu-history-undo-window-menu =
     .label = Jendela yang Baru Saja Ditutup
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Riwayat Pencarian
 
 ## Bookmarks Menu
 
@@ -231,6 +242,9 @@ menu-bookmark-tab =
     .label = Markahi Tab Saat Ini…
 menu-edit-bookmark =
     .label = Ubah Markah Ini…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Cari Markah
 menu-bookmarks-all-tabs =
     .label = Markahi Semua Tab…
 menu-bookmarks-toolbar =
@@ -335,3 +349,5 @@ menu-help-report-deceptive-site =
 menu-help-not-deceptive =
     .label = Ini bukan situs tipuan…
     .accesskey = d
+menu-report-broken-site =
+    .label = Laporkan Situs yang Rusak
