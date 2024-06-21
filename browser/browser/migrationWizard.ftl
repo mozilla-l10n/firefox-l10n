@@ -77,12 +77,46 @@ migration-continue-button-label = Lanjutkan
 
 ##
 
+migration-safari-password-import-step3 = Simpan berkas sandi
 migration-safari-password-import-skip-button = Lewati
+migration-safari-password-import-select-button = Pilih Berkas
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } markah
+       *[other] { $quantity } markah
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } favorit
+       *[other] { $quantity } favorit
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } ekstensi
+       *[other] { $quantity } ekstensi
+    }
 
 ##
 
