@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Weitere Tabs anzeigen
     .tooltiptext = Mehr Tabs von diesem Gerät anzeigen
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Einen inaktiven Tab anzeigen
-           *[other] { $count } inaktive Tabs anzeigen
-        }
-    .tooltiptext = Die inaktiven Tabs auf diesem Gerät anzeigen
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Inaktive Tabs
@@ -206,6 +196,9 @@ profiler-popup-presets-power-description = Voreinstellung für die Untersuchung 
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Leistung
+profiler-popup-presets-debug-description = Voreinstellung für das Debuggen in { -brand-shorter-name }. Großer Overhead, nicht für Arbeiten an der Leistung verwenden, sondern für Fokus auf das Verständnis des Browser-Verhaltens.
+profiler-popup-presets-debug-label =
+    .label = Debuggen
 profiler-popup-presets-custom-label =
     .label = Benutzerdefiniert
 
