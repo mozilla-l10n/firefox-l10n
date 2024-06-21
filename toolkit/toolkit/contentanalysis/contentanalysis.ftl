@@ -59,9 +59,15 @@ contentanalysis-error-message-dropped-text = Embosyryry ha epoi mbotovepyre
 contentanalysis-error-message-clipboard = Emboja mbotovepyre
 contentanalysis-error-message-print = Monguatia mbotovepyre.
 contentanalysis-block-dialog-title-upload-file = Noñemoneĩri ndéve ehupikuaa hag̃uáicha
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Tendaguasu mba’ekuaarã ñemo’ã porureko he’iháicha, ndaikatumo’ãi emyanyhẽ marandurenda “{ $filename }”. Eñe’ẽ iñangarekohára ndive eikuaave hag̃ua.
 contentanalysis-block-dialog-title-clipboard = Noñemoĩri ndéve embojakuaa hag̃ua ko tetepy
+contentanalysis-block-dialog-body-clipboard = Tendaguasu mba’ekuaarã ñemo’ã porureko he’iháicha, ndaikatumo’ãi emboja ko tetepy. Eñe’ẽ iñangarekohára ndive eikuaave hag̃ua.
 contentanalysis-block-dialog-title-dropped-text = Noñemoĩri ndéve epoikuaa hag̃ua ko tetepy
+contentanalysis-block-dialog-body-dropped-text = Tendaguasu mba’ekuaarã ñemo’ã porureko he’iháicha, ndaikatumo’ãi embosyryry ha epoi ko tetepy. Eñe’ẽ iñangarekohára ndive eikuaave hag̃ua.
 contentanalysis-block-dialog-title-print = Noñemoĩri ndéve omonguatiávo ko kuatia
+contentanalysis-block-dialog-body-print = Tendaguasu mba’ekuaarã ñemo’ã porureko he’iháicha, ndaikatumo’ãi embokuatia ko kuatiaite. Eñe’ẽ iñangarekohára ndive eikuaave hag̃ua.
 contentanalysis-inprogress-quit-title = ¿Esẽ { -brand-shorter-name }-gui?
 contentanalysis-inprogress-quit-message = Heta tembiapo oñemongu’ehína. Osẽramo { -brand-shorter-name } guive, ko’ã tembiapo noĩmbamoãi.
 contentanalysis-inprogress-quit-yesbutton = Héẽ, esẽ
