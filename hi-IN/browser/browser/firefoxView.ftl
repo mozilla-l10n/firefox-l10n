@@ -9,6 +9,10 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = बंद करें
     .aria-label = बंद करें
@@ -42,6 +46,7 @@ firefoxview-history-header = इतिहास
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = आज - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
@@ -71,5 +76,15 @@ firefoxview-import-history-close-button =
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 
-##
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
 

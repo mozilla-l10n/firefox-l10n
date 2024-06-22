@@ -37,11 +37,18 @@ screenshots-empty-selection-error-title = आपका चयन बहुत �
 screenshots-private-window-error-details = असुविधा के लिए खेद हैं. हमलोग भविष्य संस्करण के लिए इस सुविधा पर काम कर रहे हैं.
 screenshots-generic-error-title = ओह! { -screenshots-brand-name } स्क्रीनशॉट बिगड़ गया.
 screenshots-generic-error-details = हम सुनिश्चित नहीं हैं कि अभी क्या हुआ. पुन: प्रयास या एक भिन्न पृष्ठ का एक शॉट लेना चाहते हैं?
-screenshots-component-download-button-label = डाउनलोड करें
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
 
+screenshots-component-download-key = S
+screenshots-component-copy-key = C
 
 ##
 
+# This string represents the selection size area
+# "×" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size-3 = { $width } × { $height }

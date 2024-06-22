@@ -12,6 +12,7 @@
 
 onboarding-welcome-header = { -brand-short-name } में स्वागत है
 onboarding-start-browsing-button-label = ब्राउज़िंग शुरू करें
+onboarding-not-now-button-label = अभी नहीं
 
 ## Custom Return To AMO onboarding strings
 
@@ -103,4 +104,10 @@ mr1-onboarding-theme-label-system = सिस्टम थीम
 
 
 ## Device migration onboarding
+
+
+## The following screens have been updated to use security and privacy focused strings:
+
+
+## New user time and familiarity survey strings
 
