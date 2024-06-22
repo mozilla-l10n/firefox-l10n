@@ -42,16 +42,16 @@ contentanalysis-genericresponse-message = ਸਮੱਗਰੀ ਵਿਸ਼ਲੇ�
 contentanalysis-block-message = ਤੁਹਾਡਾ ਸੰਗਠਨ ਡਾਟਾ-ਗੁੰਮ ਹੋਣ ਤੋਂ ਰੋਕਣ ਵਾਲਾ ਸਾਫਟਵੇਅਰ ਵਰਤਦਾ ਹੈ, ਜਿਸ ਨੇ ਇਸ ਸਾਈਟ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ: { $content }।
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-unspecified-error-message = { $agent } ਨਾਲ ਸੰਚਾਰ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ। ਸਰੋਤ ਨੂੰ ਤਬਦੀਲ ਕਰਨ ਤੋਂ ਇਨਕਾਰ: { $content }।
-# Variables:
-#   $agent - The name of the DLP agent doing the analysis
-#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
-contentanalysis-no-agent-connected-message = { $agent } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ। ਸਰੋਤ ਤਬਾਦਲੇ ਤੋਂ ਇਨਕਾਰ: { $content }।
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = { $agent } ਨਾਲ ਸੰਚਾਰ ਦੌਰਾਨ ਗਲਤੀ ਆਈ। { $content }
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-no-agent-connected-message-content = { $agent } ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ। { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = { $agent } ਲਈ ਦਸਤਖ਼ਤ ਜਾਂਚਣ ਲਈ ਅਸਫ਼ਲ ਹੈ। { $content }
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = “{ $filename }” ਦੇ ਅੱਪਲੋਡ ਤੋਂ ਇਨਕਾਰ ਹੈ।
@@ -63,4 +63,5 @@ contentanalysis-block-dialog-title-clipboard = ਤੁਹਾਨੂੰ ਇਹ ਸ�
 contentanalysis-block-dialog-title-dropped-text = ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਸੁੱਟਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 contentanalysis-block-dialog-title-print = ਤੁਹਾਨੂੰ ਇਸ ਦਸਤਾਵੇਜ਼ ਨੂੰ ਪਰਿੰਟ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 contentanalysis-inprogress-quit-title = { -brand-shorter-name } ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?
+contentanalysis-inprogress-quit-message = ਕਈ ਕਾਰਵਾਈਆਂ ਚੱਲ ਰਹੀਆਂ ਹਨ। ਜੇ ਤੁਸੀਂ { -brand-shorter-name } ਨੂੰ ਬੰਦ ਕੀਤਾ ਤਾਂ ਇਹ ਕਾਰਵਾਈਆਂ ਪੂਰੀਆਂ ਨਹੀਂ ਹੋਣਗੀਆਂ।
 contentanalysis-inprogress-quit-yesbutton = ਹਾਂ, ਬਾਹਰ
