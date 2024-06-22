@@ -96,3 +96,15 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } separador chegou
        *[other] { $tabCount } separadores chegaram
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Ver separadores fechados recentemente
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } separador do { -brand-short-name } fechado
+       *[other] { $closedCount } separadores do { -brand-short-name } fechados
+    }
