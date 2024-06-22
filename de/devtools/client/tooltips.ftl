@@ -17,6 +17,7 @@ learn-more = <span data-l10n-name="link">Weitere Informationen</span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil das Element weder ein Flex- noch ein Grid-Container ist.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Flex-, Grid- oder Mehrspalten-Container ist.
 inactive-css-not-multicol-container = <strong>{ $property }</strong>  hat bei diesem Element keine Wirkung, weil es kein Mehrspalten-Container ist.
+inactive-css-column-span = <strong>{ $property }</strong> hat bei diesem Element keine spaltenübergreifende Wirkung, weil es nicht in einem mehrspaltigen Container ist.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil das Element weder ein Flex- noch ein Grid-Element ist.
 inactive-css-not-grid-item = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Grid-Element ist.
 inactive-css-not-grid-container = <strong>{ $property }</strong>  hat bei diesem Element keine Wirkung, weil es kein Grid-Container ist.
