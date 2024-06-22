@@ -166,6 +166,7 @@ language-name-se = เซมีเหนือ
 language-name-sg = แซงโก
 language-name-si = สิงหล
 language-name-sk = สโลวัก
+language-name-skr = ซะราอีกี
 language-name-sl = สโลวีเนีย
 language-name-sm = ซามัว
 language-name-sn = โชนา
