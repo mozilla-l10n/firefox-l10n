@@ -12,3 +12,9 @@ more-from-moz-learn-more-link = अधिक जानें
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
+more-from-moz-firefox-relay-button = { -relay-brand-short-name } पाएं
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-button = { -monitor-brand-short-name } पाएं

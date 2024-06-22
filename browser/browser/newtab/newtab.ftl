@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = खोजें
     .aria-label = खोजें
-
 newtab-search-box-input =
     .placeholder = वेब पर खोजें
     .aria-label = वेब पर खोजें
@@ -29,12 +28,10 @@ newtab-topsites-edit-shortcut-header = शॉर्टकट संपादि�
 newtab-topsites-title-label = शीर्षक
 newtab-topsites-title-input =
     .placeholder = एक शीर्षक दर्ज करें
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = एक URL टाइप करें अथवा पेस्ट करें
 newtab-topsites-url-validation = मान्य URL आवश्यक
-
 newtab-topsites-image-url-label = कस्टम छवि URL
 newtab-topsites-use-image-link = कस्टम छवि का उपयोग करें…
 newtab-topsites-image-validation = छवि लोड करने में विफल । किसी भिंन URL का प्रयास करें ।
@@ -62,15 +59,13 @@ newtab-confirm-delete-history-p2 = इस क्रिया को पहले
 newtab-menu-section-tooltip =
     .title = मेन्यू खोलें
     .aria-label = मेन्यू खोलें
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = हटाएं
     .aria-label = हटाएं
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = मेन्यू खोलें
     .aria-label = { $title } के लिए कॉन्टेक्स्ट मेनू खोलें
@@ -134,21 +129,18 @@ newtab-label-removed-bookmark = बुकमार्क हटाया गय�
 newtab-label-recommended = लोकप्रिय
 newtab-label-saved = { -pocket-brand-name } में सहेजा
 newtab-label-download = डाउनलोड की गई
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } . द्वारा प्रायोजित
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = { $sponsor } द्वारा प्रायोजित
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } मिनट
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -176,16 +168,15 @@ newtab-section-expand-section-label =
 
 newtab-section-header-topsites = सर्वोच्च साइटें
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = { $provider } द्वारा अनुशंसित
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ब्राउज़िंग प्रारंभ करें, और हम कुछ प्रमुख आलेख, विडियो, तथा अन्य पृष्ठों को प्रदर्शित करेंगे जिन्हें आपने हाल ही में देखा या पुस्तचिन्हित किया है.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = आप अंत तक आ गए हैं. { $provider } से और शीर्ष घटनाओं के लिए कुछ समय में पुनः आइए. इंतज़ार नहीं कर सकते? वेब से और प्रमुख घटनाएं ढूंढने के लिए एक लोकप्रिय विषय चुनें.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -204,11 +195,8 @@ newtab-pocket-learn-more = अधिक जानें
 newtab-pocket-cta-button = { -pocket-brand-name } प्राप्त करें
 newtab-pocket-cta-text = अपने पसंदीद कहानियाँ { -pocket-brand-name } में सहेजें, और आकर्षक पढ़ाई के साथ अपने दिमाग को शक्ति दें।
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
-
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -217,4 +205,32 @@ newtab-error-fallback-info = उफ़, कुछ गलत इस सामग�
 newtab-error-fallback-refresh-link = पुन: प्रयास करने के लिए पृष्ठ ताज़ा करें ।
 
 ## Customization Menu
+
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+newtab-wallpaper-blue = नीला
+newtab-wallpaper-light-blue = हल्का नीला
+newtab-wallpaper-light-green = हल्का हरा
+newtab-wallpaper-green = हरा
+newtab-wallpaper-yellow = पीला
+newtab-wallpaper-orange = नारंगी
+newtab-wallpaper-pink = गुलाबी
+newtab-wallpaper-light-pink = हल्का गुलाबी
+newtab-wallpaper-red = लाल
+newtab-wallpaper-brown = भूरा
+
+## Abstract
+
+
+## Photographs
+
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## New Tab Weather
 
