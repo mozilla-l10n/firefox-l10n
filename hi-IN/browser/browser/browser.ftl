@@ -188,6 +188,7 @@ search-one-offs-history =
 quickactions-cmd-addons2 = ऐड-ऑन
 quickactions-cmd-bookmarks = बुकमार्क
 quickactions-cmd-print = प्रिंट करें
+quickactions-cmd-savepdf = pdf
 # Opens the screenshot tool
 quickactions-screenshot3 = स्क्रीनशॉट लें
 quickactions-cmd-screenshot = स्क्रीनशॉट
@@ -374,6 +375,9 @@ urlbar-result-action-visit = भ्रमण करें
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+
+## Strings used for buttons in the urlbar
+
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -591,6 +595,9 @@ tabs-toolbar-list-all-tabs =
     .tooltiptext = सभी टैब सूचीबद्ध करें
 
 ## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
