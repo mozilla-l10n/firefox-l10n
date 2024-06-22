@@ -6,6 +6,7 @@
 about-logins-page-title = लॉगिन और पासवर्ड
 create-new-login-button =
     .title = नया लॉगिन बनाएं
+about-logins-page-title-name = पासवर्ड
 fxaccounts-sign-in-text = अपने पासवर्ड को अपने अन्य उपकरणों पर प्राप्त करें
 fxaccounts-sign-in-sync-button = सिंक करने के लिए साइन इन करें
 fxaccounts-avatar-button =
