@@ -432,6 +432,20 @@ support-printing-modified-settings = Gosodiadau argraffu wedi'u haddasu
 support-printing-prefs-name = Enw
 support-printing-prefs-value = Gwerth
 
+## Remote Settings sections
+
+support-remote-settings-title = Gosodiadau Pell
+support-remote-settings-status = Statws
+support-remote-settings-status-ok = Iawn
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Ddim yn gweithio
+support-remote-settings-last-check = Gwiriad olaf
+support-remote-settings-local-timestamp = Stamp amser lleol
+support-remote-settings-sync-history = Hanes
+support-remote-settings-sync-history-status = Statws
+support-remote-settings-sync-history-datetime = Dyddiad
+support-remote-settings-sync-history-infos = Gwybodaeth
+
 ## Normandy sections
 
 support-remote-experiments-title = Arbrofion Pell
