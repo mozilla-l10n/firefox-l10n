@@ -294,16 +294,56 @@ newtab-wallpaper-dark-city = Fialová mestská scenéria
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Plné farby
+newtab-wallpaper-blue = Modrá
+newtab-wallpaper-light-blue = Svetlomodrá
+newtab-wallpaper-light-purple = Svetlofialová
+newtab-wallpaper-light-green = Svetlozelená
+newtab-wallpaper-green = Zelená
+newtab-wallpaper-beige = Béžová
+newtab-wallpaper-yellow = Žltá
+newtab-wallpaper-orange = Oranžová
+newtab-wallpaper-pink = Ružová
+newtab-wallpaper-light-pink = Svetloružová
+newtab-wallpaper-red = Červená
+newtab-wallpaper-dark-blue = Tmavomodrá
+newtab-wallpaper-dark-purple = Tmavofialová
+newtab-wallpaper-dark-green = Tmavozelená
+newtab-wallpaper-brown = Hnedá
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstraktné
+newtab-wallpaper-abstract-green = Zelené tvary
+newtab-wallpaper-abstract-blue = Modré tvary
+newtab-wallpaper-abstract-purple = Fialové tvary
+newtab-wallpaper-abstract-orange = Oranžové tvary
+newtab-wallpaper-gradient-orange = Prechod oranžový a ružový
+newtab-wallpaper-abstract-blue-purple = Modré a fialové tvary
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotografie
+newtab-wallpaper-beach-at-sunrise = Pláž pri východe slnka
+newtab-wallpaper-beach-at-sunset = Pláž pri západe slnka
+newtab-wallpaper-storm-sky = Búrková obloha
+newtab-wallpaper-sky-with-pink-clouds = Obloha s ružovými oblakmi
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda červená zíva na strome
+newtab-wallpaper-white-mountains = Biele hory
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Autor fotografie: <a data-l10n-name="name-link">{ $author_string }</a>, zdroj: <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Vyskúšajte nádych farieb
+newtab-wallpaper-feature-highlight-content = Dodajte svojej novej karte svieži vzhľad pomocou tapiet.
+newtab-wallpaper-feature-highlight-button = Rozumiem
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Zavrieť
+    .aria-label = Zavrieť vyskakovacie okno
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 

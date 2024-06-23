@@ -976,14 +976,6 @@ autofill-payment-methods-checkbox-submessage = Zahŕňa kreditné a debetné kar
     .accesskey = h
 autofill-saved-payment-methods-button = Uložené spôsoby platby
     .accesskey = l
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Vyžadovať prihlasovacie údaje do systému macOS pri dopĺňaní a úprave spôsobov platby.
-        [windows] Vyžadovať prihlasovacie údaje do systému Windows pri dopĺňaní a úprave spôsobov platby.
-        [linux] Vyžadovať prihlasovacie údaje do systému Linux pri dopĺňaní a úprave spôsobov platby.
-       *[other] Vyžadovať prihlasovacie údaje pri dopĺňaní a úprave spôsobov platby.
-    }
-    .accesskey = V
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Vyžadovať heslo k účtu na zariadení na vyplnenie a správu spôsobov platby
     .accesskey = u
@@ -1313,6 +1305,10 @@ privacy-segmentation-radio-off =
     .label = Použiť odporúčania { -brand-product-name(case: "gen") }
 privacy-segmentation-radio-on =
     .label = Zobraziť podrobné informácie
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Predvoľby inzercie na webových stránkach
 
 ## Privacy Section - Security
 ##
