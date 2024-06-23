@@ -108,3 +108,19 @@ account-multiple-tabs-arriving-from-unknown-device =
         [many] Mae { $tabCount } tab wedi cyrraedd
        *[other] Mae { $tabCount } tab wedi cyrraedd
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Gweld tabiau a gaewyd yn ddiweddar
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [zero] Mae { $closedCount } tabiau { -brand-short-name } wedi cau
+        [one] Mae { $closedCount } tab { -brand-short-name } wedi cau
+        [two] Mae { $closedCount } dab { -brand-short-name } wedi cau
+        [few] Mae { $closedCount } thab { -brand-short-name } wedi cau
+        [many] Mae { $closedCount } thab { -brand-short-name } wedi cau
+       *[other] Mae { $closedCount } tab { -brand-short-name } wedi cau
+    }

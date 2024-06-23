@@ -299,6 +299,44 @@ newtab-wallpaper-dark-panda = Panda coch wedi'i guddio yn y goedwig
 newtab-wallpaper-dark-sky = Tirwedd y ddinas gydag awyr y nos
 newtab-wallpaper-dark-mountain = Tirwedd mynydd
 newtab-wallpaper-dark-city = Tirwedd dinas borffor
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Lliwiau solet
+newtab-wallpaper-blue = Glas
+newtab-wallpaper-light-blue = Glas golau
+newtab-wallpaper-light-purple = Porffor golau
+newtab-wallpaper-light-green = Gwyrdd golau
+newtab-wallpaper-green = Gwyrdd
+newtab-wallpaper-beige = Llwydfelyn
+newtab-wallpaper-yellow = Melyn
+newtab-wallpaper-orange = Oren
+newtab-wallpaper-pink = Pinc
+newtab-wallpaper-light-pink = Pinc golau
+newtab-wallpaper-red = Coch
+newtab-wallpaper-dark-blue = Glas tywyll
+newtab-wallpaper-dark-purple = Porffor tywyll
+newtab-wallpaper-dark-green = Gwyrdd tywyll
+newtab-wallpaper-brown = Brown
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Haniaethol
+newtab-wallpaper-abstract-green = Siapiau gwyrdd
+newtab-wallpaper-abstract-blue = Siapiau glas
+newtab-wallpaper-abstract-purple = Siapiau porffor
+newtab-wallpaper-abstract-orange = Siapiau oren
+newtab-wallpaper-gradient-orange = Graddiant oren a phinc
+newtab-wallpaper-abstract-blue-purple = Siapiau glas a phorffor
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Ffotograffau
+newtab-wallpaper-beach-at-sunrise = Traeth ar godiad haul
+newtab-wallpaper-beach-at-sunset = Traeth ar fachlud haul
+newtab-wallpaper-storm-sky = Awyr stormus
+newtab-wallpaper-sky-with-pink-clouds = Awyr gyda chymylau pinc
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda coch yn dylyfu mewn coeden
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.

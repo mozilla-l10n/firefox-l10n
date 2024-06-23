@@ -77,20 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Dangos Rhagor o Dabiau
     .tooltiptext = Dangos rhagor o dabiau o'r ddyfais hon
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [zero] Dangos dim tabiau anweithredol
-            [one] Dangos un tab anweithredol
-            [two] Dangos { $count } tab anweithredol
-            [few] Dangos { $count } dab anweithredol
-            [many] Dangos { $count } thab anweithredol
-           *[other] Dangos { $count } tab anweithredol
-        }
-    .tooltiptext = Dangos tabiau anweithredol ar y ddyfais hon
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Tabiau anweithredol
@@ -210,6 +196,9 @@ profiler-popup-presets-power-description = Y rhagosodiad ar gyfer ymchwilio i wa
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Pŵer
+profiler-popup-presets-debug-description = Rhagosodiad ar gyfer dadfygio yn { -brand-shorter-name }. Gorbenion uchel, peidiwch â'i ddefnyddio ar gyfer gwaith perfformiad ond yn hytrach ei ddefnyddio ar gyfer canolbwyntio ar ddeall ymddygiad porwyr.
+profiler-popup-presets-debug-label =
+    .label = Dadfygio
 profiler-popup-presets-custom-label =
     .label = Cyfaddas
 
