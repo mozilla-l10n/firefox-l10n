@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Sisältää luotto- ja pankkikort
     .accesskey = l
 autofill-saved-payment-methods-button = Tallennetut maksutavat
     .accesskey = v
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Vaadi macOS-tunnistautuminen maksutapojen täyttämiseksi ja muokkaamiseksi.
-        [windows] Vaadi Windows-tunnistautuminen maksutapojen täyttämiseksi ja muokkaamiseksi.
-        [linux] Vaadi Linux-tunnistautuminen maksutapojen täyttämiseksi ja muokkaamiseksi.
-       *[other] Vaadi tunnistautuminen maksutapojen täyttämiseksi ja muokkaamiseksi.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Vaadi laitteen sisäänkirjautumista maksutapojen täyttämiseksi ja hallitsemiseksi
     .accesskey = o
@@ -1309,6 +1301,10 @@ privacy-segmentation-radio-off =
     .label = Käytä { -brand-product-name }-suosituksia
 privacy-segmentation-radio-on =
     .label = Näytä yksityiskohtaiset tiedot
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Verkkosivustojen mainosasetukset
 
 ## Privacy Section - Security
 ##

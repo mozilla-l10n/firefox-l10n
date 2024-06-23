@@ -294,10 +294,30 @@ newtab-wallpaper-dark-panda = Kultapanda metsän piilossa
 newtab-wallpaper-dark-sky = Kaupunkimaisema ja yötaivas
 newtab-wallpaper-dark-mountain = Vuorimaisema
 newtab-wallpaper-dark-city = Purppura kaupunkimaisema
+
+## Solid Colors
+
+newtab-wallpaper-blue = Sininen
+newtab-wallpaper-green = Vihreä
+newtab-wallpaper-yellow = Keltainen
+newtab-wallpaper-orange = Oranssi
+newtab-wallpaper-red = Punainen
+newtab-wallpaper-brown = Ruskea
+
+## Abstract
+
+
+## Photographs
+
+newtab-wallpaper-category-title-photographs = Valokuvat
+newtab-wallpaper-beach-at-sunrise = Ranta auringonnousun aikaan
+newtab-wallpaper-beach-at-sunset = Ranta auringonlaskun aikaan
+newtab-wallpaper-white-mountains = Valkoiset vuoret
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Kuva: <a data-l10n-name="name-link">{ $author_string }</a> sivustolla <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-button = Selvä
 
 ## New Tab Weather
 
