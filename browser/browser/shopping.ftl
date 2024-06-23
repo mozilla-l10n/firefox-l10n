@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Értékelés-ellenőrző <strong>be</s
 shopping-adjusted-rating-label =
     .label = Módosított értékelés
 shopping-adjusted-rating-unreliable-reviews = A nem megbízható értékelések eltávolítva
+shopping-adjusted-rating-based-reliable-reviews = Megbízható értékelések alapján
 
 ## Strings for the review reliability component
 
