@@ -99,3 +99,17 @@ account-multiple-tabs-arriving-from-unknown-device =
         [few] { $tabCount } karty boli prijaté
        *[other] { $tabCount } kariet bolo prijatých
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Zobraziť nedávno zatvorené karty
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } karta { -brand-short-name(case: "gen") } bola zatvorená
+        [few] { $closedCount } karty { -brand-short-name(case: "gen") } boli zatvorené
+        [many] { $closedCount } kariet { -brand-short-name(case: "gen") } bolo zatvorených
+       *[other] { $closedCount } kariet { -brand-short-name(case: "gen") } bolo zatvorených
+    }
