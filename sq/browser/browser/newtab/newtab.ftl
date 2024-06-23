@@ -307,9 +307,16 @@ newtab-wallpaper-light-pink = Rozë e çelët
 newtab-wallpaper-red = E kuqe
 newtab-wallpaper-dark-blue = Blu e errët
 newtab-wallpaper-dark-purple = E purpur e errët
+newtab-wallpaper-dark-green = E gjelbër e errët
+newtab-wallpaper-brown = Bojë kafe
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstrakte
+newtab-wallpaper-abstract-green = Forma të gjelbra
+newtab-wallpaper-abstract-blue = Forma blu
+newtab-wallpaper-abstract-purple = Forma të purpurta
+newtab-wallpaper-abstract-orange = Forma portokalli
 
 ## Photographs
 
@@ -317,6 +324,14 @@ newtab-wallpaper-dark-purple = E purpur e errët
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto nga <a data-l10n-name="name-link">{ $author_string }</a> on <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-button = E mora vesh
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Hidhe tej
+    .aria-label = Mbylleni flluskën
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
