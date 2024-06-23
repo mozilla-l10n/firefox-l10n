@@ -153,4 +153,4 @@ addon-local-install-error-not-signed = Nid oedd modd gosod yr ychwanegyn am nad 
 addon-install-error-incompatible = Nid oedd modd gosod { $addonName } am nad yw'n cydweddu â { -brand-short-name } { $appVersion }.
 addon-install-error-blocklisted = Nid oedd modd gosod { $addonName } am fod risg uchel iddo achosi problemau sefydlogrwydd a diogelwch.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
-addon-install-error-admin-install-only = Nid oes mod i chi osod { $addonName } fel defnyddiwr terfynol, dim ond sefydliad sy'n defnyddio polisïau menter all ei osod.
+addon-install-error-admin-install-only = Nid oes mod i chi osod { $addonName } fel defnyddiwr cyffredin, dim ond sefydliad sy'n defnyddio polisïau menter all ei osod.

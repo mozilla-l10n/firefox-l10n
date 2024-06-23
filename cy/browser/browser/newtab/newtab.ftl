@@ -337,10 +337,21 @@ newtab-wallpaper-beach-at-sunset = Traeth ar fachlud haul
 newtab-wallpaper-storm-sky = Awyr stormus
 newtab-wallpaper-sky-with-pink-clouds = Awyr gyda chymylau pinc
 newtab-wallpaper-red-panda-yawns-in-a-tree = Panda coch yn dylyfu mewn coeden
+newtab-wallpaper-white-mountains = Mynyddoedd gwyn
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Llun gan <a data-l10n-name="name-link">{ $author_string }</a> ar <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Ychwanegwch bach o liw
+newtab-wallpaper-feature-highlight-content = Rhowch olwg newydd i'ch Tab Newydd gyda phapurau wal.
+newtab-wallpaper-feature-highlight-button = Iawn
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Cau
+    .aria-label = Cau'r llamlen
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 

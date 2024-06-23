@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Mae'r Gwirydd Adolygiadau <strong>Ymla
 shopping-adjusted-rating-label =
     .label = Gradd wedi'i haddasu
 shopping-adjusted-rating-unreliable-reviews = Wedi dileu adolygiadau annibynadwy
+shopping-adjusted-rating-based-reliable-reviews = Ar sail adolygiadau dibynadwy
 
 ## Strings for the review reliability component
 
