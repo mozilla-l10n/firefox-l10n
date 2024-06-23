@@ -988,14 +988,6 @@ autofill-payment-methods-checkbox-submessage = Yn cynnwys cardiau credyd a debyd
     .accesskey = Y
 autofill-saved-payment-methods-button = Dulliau talu wedi'u cadw
     .accesskey = D
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Angen dilysu macOSi lanw a golygu dulliau talu.
-        [windows] Angen dilysu Windows i lanw a golygu dulliau talu.
-        [linux] Angen dilysu Linux i lanw a golygu dulliau talu.
-       *[other] Angen dilysu i lanw a golygu dulliau talu.
-    }
-    .accesskey = d
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Gofyn am fewngofnodi dyfais i lenwi a rheoli dulliau talu
     .accesskey = t
@@ -1325,6 +1317,14 @@ privacy-segmentation-radio-off =
     .label = Defnyddio argymhellion { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Dangos gwybodaeth fanwl
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Dewisiadau Preifatrwydd Gwefan
+website-advertising-private-attribution =
+    .label = Caniatáu i wefannau fesur hysbysebion sy'n cadw preifatrwydd
+    .accesskey = h
+website-advertising-private-attribution-description = Mae hyn yn helpu gwefannau i ddeall sut mae eu hysbysebion yn perfformio heb gasglu data amdanoch chi.
 
 ## Privacy Section - Security
 ##
