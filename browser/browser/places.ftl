@@ -80,6 +80,20 @@ places-edit-generic =
 places-edit-folder2 =
     .label = حرّر المجلد…
     .accesskey = ح
+# Variables
+#   $count (number) - Number of folders to delete
+places-delete-folder =
+    .label =
+        { $count ->
+            [1] احذف المجلد
+            [zero] احذف المجلد
+            [one] احذف المجلد
+            [two] احذف المجلدات
+            [few] احذف المجلدات
+            [many] احذف المجلدات
+           *[other] احذف المجلدات
+        }
+    .accesskey = ح
 # Variables:
 #   $count (number) - The number of pages selected for removal.
 places-delete-page =
@@ -115,6 +129,20 @@ places-delete-bookmark =
            *[other] احذف العلامات
         }
     .accesskey = ذ
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] علِّم الصفحة…
+            [zero] علِّم الصفحة…
+            [one] علِّم الصفحة…
+            [two] علِّم الصفحات
+            [few] علِّم الصفحات
+            [many] علِّم الصفحات
+           *[other] علِّم الصفحات
+        }
+    .accesskey = ف
 places-untag-bookmark =
     .label = أزل الوسم
     .accesskey = ز
