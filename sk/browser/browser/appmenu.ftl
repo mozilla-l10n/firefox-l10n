@@ -77,18 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Zobraziť ďalšie karty
     .tooltiptext = Zobrazí ďalšie karty z tohto zariadenia
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Zobraziť neaktívnu kartu
-            [few] Zobraziť { $count } neaktívne karty
-            [many] Zobraziť { $count } neaktívnych kariet
-           *[other] Zobraziť { $count } neaktívnych kariet
-        }
-    .tooltiptext = Zobrazí neaktívne karty na tomto zariadení
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Neaktívne karty
@@ -208,6 +196,9 @@ profiler-popup-presets-power-description = Predvoľba pre diagnostiku chýb zvy�
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Napájanie
+profiler-popup-presets-debug-description = Nastavenia pre ladenie vo { -brand-shorter-name(case: "loc") }. Vysoká réžia, nepoužívajte na výkonnú prácu, ale na pochopenie správania sa prehliadača.
+profiler-popup-presets-debug-label =
+    .label = Ladenie
 profiler-popup-presets-custom-label =
     .label = Vlastné
 
