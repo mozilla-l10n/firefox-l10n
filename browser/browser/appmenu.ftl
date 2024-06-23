@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Shfaq Më Tepër Skeda
     .tooltiptext = Shfaqni më tepër skeda nga kjo pajisje
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Shfaq një skedë joaktive
-           *[other] Shfaq { $count } skeda joaktive
-        }
-    .tooltiptext = Shfaq skedat joaktive në këtë pajisje
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Skeda jo aktive
@@ -206,6 +196,8 @@ profiler-popup-presets-power-description = Paracaktim për hetim të metash për
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energji
+profiler-popup-presets-debug-label =
+    .label = Diagnostikoje
 profiler-popup-presets-custom-label =
     .label = Vetjak
 
