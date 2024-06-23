@@ -1481,6 +1481,9 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Reklamní předvolby webových stránek
+website-advertising-private-attribution =
+    .label = Umožnit webům použití sledující reklamy, která je šetrná k soukromí
+    .accesskey = a
 
 ## Privacy Section - Security
 ##
