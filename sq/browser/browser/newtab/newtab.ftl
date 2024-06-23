@@ -290,6 +290,29 @@ newtab-wallpaper-dark-panda = Panda e kuqe e fshehur në pyll
 newtab-wallpaper-dark-sky = Reliev qyteti me qiell nate
 newtab-wallpaper-dark-mountain = Peizazh malor
 newtab-wallpaper-dark-city = Peizazh qyteti i purpurt
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Ngjyra të plota
+newtab-wallpaper-blue = Blu
+newtab-wallpaper-light-blue = Blu e çelët
+newtab-wallpaper-light-purple = E purpur e çelët
+newtab-wallpaper-light-green = E gjelbër e çelët
+newtab-wallpaper-green = E gjelbër
+newtab-wallpaper-beige = Bezhë
+newtab-wallpaper-yellow = E verdhë
+newtab-wallpaper-orange = Portokalli
+newtab-wallpaper-pink = Rozë
+newtab-wallpaper-light-pink = Rozë e çelët
+newtab-wallpaper-red = E kuqe
+newtab-wallpaper-dark-blue = Blu e errët
+newtab-wallpaper-dark-purple = E purpur e errët
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
