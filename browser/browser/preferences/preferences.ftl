@@ -1088,14 +1088,6 @@ autofill-payment-methods-checkbox-submessage = Zahrnuje kreditní a debetní kar
     .accesskey = Z
 autofill-saved-payment-methods-button = Uložené platební metody
     .accesskey = U
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] K vyplnění a úpravě způsobů platby vyžadovat ověření macOS.
-        [windows] K vyplnění a úpravě způsobů platby vyžadovat ověření Windows.
-        [linux] K vyplnění a úpravě způsobů platby vyžadovat ověření Linux.
-       *[other] K vyplnění a úpravě způsobů platby vyžadovat ověření.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Vyžadovat heslo k účtu na zařízení na vyplnění a správu způsobů plateb
     .accesskey = o
@@ -1485,6 +1477,10 @@ privacy-segmentation-radio-off =
         }
 privacy-segmentation-radio-on =
     .label = Zobrazit podrobnosti
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Reklamní předvolby webových stránek
 
 ## Privacy Section - Security
 ##
