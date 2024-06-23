@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Kontrola recenzií je <strong>zapnutá
 shopping-adjusted-rating-label =
     .label = Upravené hodnotenie
 shopping-adjusted-rating-unreliable-reviews = Nespoľahlivé recenzie boli odstránené
+shopping-adjusted-rating-based-reliable-reviews = Na základe spoľahlivých recenzií
 
 ## Strings for the review reliability component
 
