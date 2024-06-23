@@ -125,6 +125,8 @@ perftools-presets-networking-description = Giá trị đặt trước để đi�
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Điện năng
 perftools-presets-power-description = Giá trị đặt trước để điều tra lỗi sử dụng điện năng trong { -brand-shorter-name }, với chi phí thấp.
+perftools-presets-debug-label = Gỡ lỗi
+perftools-presets-debug-description = Giá trị đặt trước để gỡ lỗi trong { -brand-shorter-name }. Tải thêm cao, không sử dụng cho công việc về hiệu suất mà sử dụng để tập trung vào việc tìm hiểu hành vi của trình duyệt.
 perftools-presets-custom-label = Tùy chọn
 
 ##
