@@ -8,6 +8,9 @@ places-open =
 places-open-in-tab =
     .label = افتح في لسان جديد
     .accesskey = س
+places-open-in-container-tab =
+    .label = افتح في لسانٍ حاوٍ جديد
+    .accesskey = ف
 places-open-all-bookmarks =
     .label = افتح كل العلامات
     .accesskey = ف
@@ -61,6 +64,9 @@ places-bookmarks-search =
 places-delete-domain-data =
     .label = انسَ هذا الموقع
     .accesskey = ن
+places-forget-domain-data =
+    .label = انسَ هذا الموقع…
+    .accesskey = ق
 places-sortby-name =
     .label = رتّب بالاسم
     .accesskey = ر
@@ -95,6 +101,20 @@ other-bookmarks-folder =
 places-show-in-folder =
     .label = اعرض في المجلد
     .accesskey = ع
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] احذف العلامة
+            [zero] احذف العلامة
+            [one] احذف العلامة
+            [two] احذف العلامات
+            [few] احذف العلامات
+            [many] احذف العلامات
+           *[other] احذف العلامات
+        }
+    .accesskey = ذ
 places-untag-bookmark =
     .label = أزل الوسم
     .accesskey = ز
@@ -102,6 +122,9 @@ places-manage-bookmarks =
     .label = أدِر العلامات
     .accesskey = د
 places-forget-about-this-site-confirmation-title = نسيان هذا الموقع
+# Variables:
+# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
+places-forget-about-this-site-confirmation-msg = سيؤدي هذا الإجراء إلى إزالة البيانات المتعلقة بـ { $hostOrBaseDomain } بما في ذلك السجل وملفات تعريف الارتباط وذاكرة التخزين المؤقت وتفضيلات المحتوى. لن تُزيل العلامات وكلمات المرور ذات الصلة. هل انت متأكد انك تريد المتابعة؟
 places-forget-about-this-site-forget = انسَ
 places-library3 =
     .title = المكتبة
