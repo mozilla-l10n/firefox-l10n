@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Mostrar mais separadores
     .tooltiptext = Mostrar mais separadores deste dispositivo
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Mostrar um separador inativo
-           *[other] Mostrar { $count } separadores inativos
-        }
-    .tooltiptext = Mostrar os separadores inativos neste dispositivo
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Separadores inativos
@@ -206,6 +196,9 @@ profiler-popup-presets-power-description = Predefinição para investigar bugs r
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Potência
+profiler-popup-presets-debug-description = Configuração pré-definida para depuração no { -brand-shorter-name }. Apresenta grande sobrecarga, não recomendada para tarefas de desempenho, mas sim para se concentrar em compreender o comportamento do navegador.
+profiler-popup-presets-debug-label =
+    .label = Depuração
 profiler-popup-presets-custom-label =
     .label = Personalizada
 
