@@ -103,3 +103,8 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = Shihni skeda të mbyllura së fundi
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] U mbyll { $closedCount } skedë { -brand-short-name }
+       *[other] U mbyllën { $closedCount } skeda { -brand-short-name }
+    }

@@ -317,9 +317,16 @@ newtab-wallpaper-abstract-green = Forma të gjelbra
 newtab-wallpaper-abstract-blue = Forma blu
 newtab-wallpaper-abstract-purple = Forma të purpurta
 newtab-wallpaper-abstract-orange = Forma portokalli
+newtab-wallpaper-gradient-orange = Gradient portokalli dhe rozë
+newtab-wallpaper-abstract-blue-purple = Forma blu dhe të purpurta
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotografi
+newtab-wallpaper-beach-at-sunrise = Plazh në agim
+newtab-wallpaper-beach-at-sunset = Plazh në perëndim
+newtab-wallpaper-storm-sky = Qiell me furtunë
+newtab-wallpaper-sky-with-pink-clouds = Qiell me re rozë
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
