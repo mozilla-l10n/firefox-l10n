@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Kontrollori i Shqyrtimeve është <str
 shopping-adjusted-rating-label =
     .label = Vlerësim i rregulluar
 shopping-adjusted-rating-unreliable-reviews = U hoqën shqyrtime jo të besueshme
+shopping-adjusted-rating-based-reliable-reviews = Bazuar në shqyrtime të besueshme
 
 ## Strings for the review reliability component
 

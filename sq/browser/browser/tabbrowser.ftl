@@ -113,6 +113,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Mos ma shfaq më këtë kuti dialogu
 
 ## Confirmation dialog for closing all duplicate tabs
 
+tabbrowser-confirm-close-duplicate-tabs-title = Kujdes
 tabbrowser-confirm-close-duplicate-tabs-text = Do të mbajmë të hapur skedën e fundit aktive
 
 ##

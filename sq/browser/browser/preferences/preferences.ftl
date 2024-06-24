@@ -972,14 +972,6 @@ autofill-payment-methods-checkbox-submessage = Përfshin karta krediti dhe debit
     .accesskey = P
 autofill-saved-payment-methods-button = Metoda pagesash të ruajtura
     .accesskey = u
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Kërko mirëfilltësim macOS, për të plotësuar dhe përpunuar metoda pagimi.
-        [windows] Kërko mirëfilltësim Windows, për të plotësuar dhe përpunuar metoda pagimi.
-        [linux] Kërko mirëfilltësim Linux, për të plotësuar dhe përpunuar metoda pagimi.
-       *[other] Kërko mirëfilltësim, për të plotësuar dhe përpunuar metoda pagimi.
-    }
-    .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Kërko bërje hyrjeje në pajisje, për të plotësuar dhe administruar metoda pagesash
     .accesskey = o
@@ -1309,6 +1301,14 @@ privacy-segmentation-radio-off =
     .label = Përdorni rekomandime { -brand-product-name }-i
 privacy-segmentation-radio-on =
     .label = Shfaq të dhëna të hollësishme
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Parapëlqime Mbi Reklama Në Sajt
+website-advertising-private-attribution =
+    .label = Lejoji sajtet të kryejnë matje reklamash me ruajtje privatësie
+    .accesskey = a
+website-advertising-private-attribution-description = Kjo i ndihmon sajtet të kuptojnë se si shkon puna me reklamat e tyre, pa grumbulluar të dhëna nga ju.
 
 ## Privacy Section - Security
 ##

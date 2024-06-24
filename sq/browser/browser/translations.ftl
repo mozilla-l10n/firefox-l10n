@@ -126,13 +126,6 @@ translations-manage-description = Shkarkoni gjuhë për përkthim jashtë linje.
 translations-manage-all-language = Krejt gjuhët
 translations-manage-download-button = Shkarkoje
 translations-manage-delete-button = Fshije
-translations-manage-intro = Caktoni gjuhët tuaj dhe parapëlqime për përkthim sajtesh dhe administroni gjuhë të instaluara për përkthim jashtë interneti.
-translations-manage-install-description = Instaloni gjuhë për përkthim jashtë linje.
-translations-manage-language-install-button =
-    .label = Instaloje
-translations-manage-language-install-all-button =
-    .label = Instaloji krejt
-    .accesskey = I
 translations-manage-intro-2 = Ujdisni gjuhë tuajën dhe parapëlqime përkthimi sajtesh dhe administroni gjuhë të shkarkuara për përkthim jashtë interneti.
 translations-manage-download-description = Shkarkoni gjuhë për përkthim jashtë linje
 translations-manage-language-download-button =
@@ -145,7 +138,6 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Hiqi krejt
     .accesskey = H
-translations-manage-error-install = Pati një problem me instalimin e kartelave të gjuhës. Ju lutemi, riprovoni.
 translations-manage-error-download = Pati një problem me shkarkimin e kartelave të gjuhës. Ju lutemi, riprovoni.
 translations-manage-error-delete = Pati një problem me fshirjen e kartelave të gjuhës. Ju lutemi, riprovoni.
 translations-manage-error-remove = Pati një problem me heqjen e kartelave të gjuhës. Ju lutemi, riprovoni.
@@ -249,3 +241,5 @@ select-translations-panel-unsupported-language-message-unknown =
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Rregullime përkthimi
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Përkthim i plotë
