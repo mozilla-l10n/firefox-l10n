@@ -297,21 +297,41 @@ newtab-wallpaper-dark-city = Purppura kaupunkimaisema
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Yhtenäiset värit
 newtab-wallpaper-blue = Sininen
+newtab-wallpaper-light-blue = Vaaleansininen
+newtab-wallpaper-light-purple = Vaaleanvioletti
+newtab-wallpaper-light-green = Vaaleanvihreä
 newtab-wallpaper-green = Vihreä
+newtab-wallpaper-beige = Beige
 newtab-wallpaper-yellow = Keltainen
 newtab-wallpaper-orange = Oranssi
+newtab-wallpaper-pink = Pinkki
+newtab-wallpaper-light-pink = Vaaleanpinkki
 newtab-wallpaper-red = Punainen
+newtab-wallpaper-dark-blue = Tummansininen
+newtab-wallpaper-dark-purple = Tummanvioletti
+newtab-wallpaper-dark-green = Tummanvihreä
 newtab-wallpaper-brown = Ruskea
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstrakti
+newtab-wallpaper-abstract-green = Vihreät muodot
+newtab-wallpaper-abstract-blue = Siniset muodot
+newtab-wallpaper-abstract-purple = Violetit muodot
+newtab-wallpaper-abstract-orange = Oranssit muodot
+newtab-wallpaper-gradient-orange = Oranssi ja pinkki liukuväreissä
+newtab-wallpaper-abstract-blue-purple = Sinisiä ja violetteja muotoja
 
 ## Photographs
 
 newtab-wallpaper-category-title-photographs = Valokuvat
 newtab-wallpaper-beach-at-sunrise = Ranta auringonnousun aikaan
 newtab-wallpaper-beach-at-sunset = Ranta auringonlaskun aikaan
+newtab-wallpaper-storm-sky = Myrskyinen taivas
+newtab-wallpaper-sky-with-pink-clouds = Taivas ja vaaleanpunaiset pilvet
+newtab-wallpaper-red-panda-yawns-in-a-tree = Kultapanda haukottelee puussa
 newtab-wallpaper-white-mountains = Valkoiset vuoret
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
