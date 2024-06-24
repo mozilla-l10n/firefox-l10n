@@ -73,16 +73,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Afficher davantage d’onglets
     .tooltiptext = Afficher plus d’onglets de cet appareil
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Afficher un onglet inactif
-           *[other] Afficher { $count } onglets inactifs
-        }
-    .tooltiptext = Afficher les onglets inactifs sur cet appareil
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Onglets inactifs
@@ -202,6 +192,9 @@ profiler-popup-presets-power-description = Réglage conçu pour examiner les bug
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Énergie
+profiler-popup-presets-debug-description = Réglage conçu pour le débogage dans { -brand-shorter-name }. Sa surcharge est importante, à utiliser non pour étudier les performances, mais pour comprendre le comportement du navigateur.
+profiler-popup-presets-debug-label =
+    .label = Débogage
 profiler-popup-presets-custom-label =
     .label = Personnalisés
 
