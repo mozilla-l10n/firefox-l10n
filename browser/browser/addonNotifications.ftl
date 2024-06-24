@@ -119,6 +119,7 @@ addon-confirm-install-unsigned-message =
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
 addon-confirm-install-some-unsigned-message =
     { $addonCount ->
+        [one] Glědajśo: Toś to sedło by rady { $addonCount } dodank w { -brand-short-name } instalěrowało, někotare z nich su njewobkšuśone. Pókšacujśo z tym na swójo riziko.
         [two] Glědajśo: Toś to sedło by rady { $addonCount } dodanka w { -brand-short-name } instalěrowało, někotare z nich su njewobkšuśone. Pókšacujśo z tym na swójo riziko.
         [few] Glědajśo: Toś to sedło by rady { $addonCount } dodanki w { -brand-short-name } instalěrowało, někotare z nich su njewobkšuśone. Pókšacujśo z tym na swójo riziko.
        *[other] Glědajśo: Toś to sedło by rady { $addonCount } dodankow w { -brand-short-name } instalěrowało, někotare z nich su njewobkšuśone. Pókšacujśo z tym na swójo riziko.

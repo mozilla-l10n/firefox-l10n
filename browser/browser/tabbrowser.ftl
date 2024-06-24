@@ -81,6 +81,7 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title =
     { $tabCount ->
+        [one] { $tabCount } rejtarik zacyniś?
         [two] { $tabCount } rejtarika zacyniś?
         [few] { $tabCount } rejtariki zacyniś?
        *[other] { $tabCount } rejtarikow zacyniś?
@@ -96,6 +97,7 @@ tabbrowser-confirm-close-tabs-checkbox = Wobkšuśiś, nježli až se někotare 
 #   $windowCount (Number): The number of windows that will be closed.
 tabbrowser-confirm-close-windows-title =
     { $windowCount ->
+        [one] { $windowCount } wokno zacyniś?
         [two] { $windowCount } woknje zacyniś?
         [few] { $windowCount } wokna zacyniś?
        *[other] { $windowCount } woknow zacyniś?
@@ -172,6 +174,7 @@ tabbrowser-tab-audio-playing-description = Awdio wótgraś
 tabbrowser-ctrl-tab-list-all-tabs =
     .label =
         { $tabCount ->
+            [one] { $tabCount } rejtarik nalicyś
             [two] Wobej { $tabCount } rejtarika nalicyś
             [few] Wšě { $tabCount } rejtariki nalicyś
            *[other] Wšych { $tabCount } rejtarikow nalicyś
