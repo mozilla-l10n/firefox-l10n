@@ -337,7 +337,16 @@ newtab-wallpaper-white-mountains = Valkoiset vuoret
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Kuva: <a data-l10n-name="name-link">{ $author_string }</a> sivustolla <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Lisää ripaus väriä
+newtab-wallpaper-feature-highlight-content = Anna uudelle välilehdelle uusi ilme taustakuvien avulla.
 newtab-wallpaper-feature-highlight-button = Selvä
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Hylkää
+    .aria-label = Sulje ilmoitus
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 

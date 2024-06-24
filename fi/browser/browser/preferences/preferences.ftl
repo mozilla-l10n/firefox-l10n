@@ -1305,6 +1305,10 @@ privacy-segmentation-radio-on =
 ## Privacy Section - Website Advertising Preferences
 
 website-advertising-header = Verkkosivustojen mainosasetukset
+website-advertising-private-attribution =
+    .label = Salli verkkosivustojen suorittaa yksityisyyden säilyttävien mainosten mittausta
+    .accesskey = a
+website-advertising-private-attribution-description = Tämä auttaa sivustoja ymmärtämään, kuinka heidän mainokset toimivat keräämättä tietoja sinusta.
 
 ## Privacy Section - Security
 ##
