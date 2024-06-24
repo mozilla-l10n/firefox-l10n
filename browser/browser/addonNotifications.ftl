@@ -132,3 +132,5 @@ addon-local-install-error-not-signed = Tätä lisäosaa ei voitu asentaa koska s
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Lisäosaa { $addonName } ei voitu asentaa, koska lisäosa ei ole yhteensopiva { -brand-short-name }in version { $appVersion } kanssa.
 addon-install-error-blocklisted = { $addonName } ei voitu asentaa, koska sen on raportoitu aiheuttavan vakaus- tai tietosuojaongelmia.
+# Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
+addon-install-error-admin-install-only = Et voi asentaa lisäosaa { $addonName } loppukäyttäjänä. Sen voi asentaa vain yrityskäytäntöjä käyttävä organisaatio.
