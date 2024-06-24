@@ -114,6 +114,7 @@ shopping-settings-sidebar-enabled-state = Arvostelujen tarkistus on <strong>pä�
 shopping-adjusted-rating-label =
     .label = Oikaistu arvosana
 shopping-adjusted-rating-unreliable-reviews = Epäluotettavat arvostelut poistettu
+shopping-adjusted-rating-based-reliable-reviews = Luotettavien arvostelujen pohjalta
 
 ## Strings for the review reliability component
 
