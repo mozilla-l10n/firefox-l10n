@@ -39,6 +39,7 @@ inactive-css-not-table = <strong>{ $property }</strong> não tem efeito neste el
 inactive-css-not-table-cell = <strong>{ $property }</strong> não tem efeito neste elemento, pois não é uma célula de tabela.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> não tem efeito neste elemento porque o mesmo não desliza.
 inactive-css-border-image = <strong>{ $property }</strong> não afeta este elemento, pois a propriedade não pode ser aplicada a elementos de tabela interna em que <strong>border-collapse</strong> esteja definido como <strong>collapse</strong> no elemento da tabela pai.
+inactive-css-resize = <strong>{ $property }</strong> não tem efeito neste elemento, uma vez que só pode ser utilizado em elementos cujo valor de overflow seja diferente de visible, bem como em alguns elementos substituíveis como, por exemplo, as áreas de texto.
 inactive-css-ruby-element = <strong>{ $property }</strong> não tem efeito sobre este elemento, pois é um elemento rubi. O seu tamanho é determinado pelo tamanho da fonte do texto rubi.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -55,6 +56,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] <strong>{ $property }</strong> não tem efeito neste elemento porque tem mais de { $lineCount } linhas.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> não tem efeito neste elemento porque está fragmentado, ou seja, o seu conteúdo está dividido em várias colunas ou páginas.
+inactive-css-no-width-height = <strong>{ $property }</strong> não tem efeito neste elemento dado que não é possível definir a sua largura e altura.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -84,6 +86,7 @@ inactive-css-not-table-fix = Experimente adicionar <strong>display:table</strong
 inactive-css-not-table-cell-fix = Tente adicionar <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Experimente adicionar <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ou <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = No elemento da tabela pai, remova a propriedade ou altere o valor de <strong>border-collapse</strong> para um valor diferente de <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Tente definir <strong>overflow</strong> para um valor diferente de <strong>visible</strong> ou aponte para um elemento substituído que o suporte. { learn-more }
 inactive-css-ruby-element-fix = Tente alterar o <strong>font-size</strong> do texto rubi. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Tente reduzir o número de linhas. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evite dividir o conteúdo do elemento, por exemplo, removendo as colunas ou utilizando <strong>page-break-inside:avoid</strong>. { learn-more }
