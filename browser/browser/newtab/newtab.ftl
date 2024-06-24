@@ -327,10 +327,14 @@ newtab-wallpaper-beach-at-sunrise = Plazh në agim
 newtab-wallpaper-beach-at-sunset = Plazh në perëndim
 newtab-wallpaper-storm-sky = Qiell me furtunë
 newtab-wallpaper-sky-with-pink-clouds = Qiell me re rozë
+newtab-wallpaper-red-panda-yawns-in-a-tree = Pandë e kuqe në majë të pemës
+newtab-wallpaper-white-mountains = Male të bardhë
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto nga <a data-l10n-name="name-link">{ $author_string }</a> on <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Shtoni pakëz ngjyrë
+newtab-wallpaper-feature-highlight-content = Jepini Skedës tuaj të Re një pamje të freskët me sfonde.
 newtab-wallpaper-feature-highlight-button = E mora vesh
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
