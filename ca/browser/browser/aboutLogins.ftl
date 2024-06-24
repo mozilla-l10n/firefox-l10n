@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Crea un inici de sessió
+about-logins-page-title-name = Contrasenyes
+about-logins-login-filter2 =
+    .placeholder = Cerca contrasenyes
+    .key = F
+create-login-button =
+    .title = Afegeix una contrasenya
 fxaccounts-sign-in-text = Accediu a les contrasenyes en tots els vostres dispositius
 fxaccounts-sign-in-sync-button = Inicia la sessió per sincronitzar
 fxaccounts-avatar-button =
@@ -23,6 +29,8 @@ about-logins-menu-menuitem-import-from-another-browser = Importa d'un altre nave
 about-logins-menu-menuitem-import-from-a-file = Importa d'un fitxer…
 about-logins-menu-menuitem-export-logins = Exporta els inicis de sessió…
 about-logins-menu-menuitem-remove-all-logins = Elimina tots els inicis de sessió…
+about-logins-menu-menuitem-export-logins2 = Exporta les contrasenyes…
+about-logins-menu-menuitem-remove-all-logins2 = Elimina totes les contrasenyes…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
@@ -50,6 +58,21 @@ login-list-filtered-count =
         [one] { $count } d'{ $total } inici de sessió
        *[other] { $count } de { $total } inicis de sessió
     }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } contrasenya
+       *[other] { $count } contrasenyes
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $count } d'{ $total } contrasenya
+       *[other] { $count } de { $total } contrasenyes
+    }
 login-list-sort-label-text = Ordena per:
 login-list-name-option = Nom (A-Z)
 login-list-name-reverse-option = Nom (Z-A)
@@ -59,11 +82,14 @@ about-logins-login-list-alerts-option = Alertes
 login-list-last-changed-option = Darrera modificació
 login-list-last-used-option = Darrer ús
 login-list-intro-title = No s'ha trobat cap inici de sessió
+login-list-intro-title2 = No s'ha desat cap contrasenya
 login-list-intro-description = Aquí es mostren les contrasenyes que deseu en el { -brand-product-name }.
 about-logins-login-list-empty-search-title = No s'ha trobat cap inici de sessió
+about-logins-login-list-empty-search-title2 = No s'ha trobat cap contrasenya
 about-logins-login-list-empty-search-description = No hi ha cap resultat que coincideixi amb la cerca.
 login-list-item-title-new-login = Inici de sessió nou
 login-list-item-subtitle-new-login = Introduïu les credencials d'inici de sessió
+login-list-item-title-new-login2 = Afegeix una contrasenya
 login-list-item-subtitle-missing-username = (cap nom d'usuari)
 about-logins-list-item-breach-icon =
     .title = Lloc web amb filtració de dades
@@ -82,6 +108,8 @@ about-logins-login-intro-heading-logged-out2 = Cerqueu els vostres inicis de ses
 about-logins-login-intro-heading-logged-in = No s'ha trobat cap inici de sessió sincronitzat.
 login-intro-description = Si heu desat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, aquesta és la manera de tenir-los també aquí:
 login-intro-instructions-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu desats els vostres inicis de sessió.
+about-logins-login-intro-heading-message = Deseu les contrasenyes en un lloc segur
+login-intro-description2 = Totes les contrasenyes que deseu en el { -brand-product-name } són xifrades. A més, estem pendents de les filtracions i us alertarem si esteu afectat. <a data-l10n-name="breach-alert-link">Més informació</a>
 login-intro-instructions-fxa2 = Creeu un compte o inicieu la sessió des del dispositiu on teniu desats els vostres inicis de sessió.
 login-intro-instructions-fxa-settings = Aneu a Paràmetres > Sync > Activa la sincronització… Marqueu la casella de selecció «Inicis de sessió i contrasenyes».
 login-intro-instructions-fxa-passwords-help = Visiteu l'<a data-l10n-name="passwords-help-link">assistència de contrasenyes</a> per a obtenir més ajuda.
@@ -203,11 +231,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Això eliminarà l'inici de sessió desat pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
         [one] Això eliminarà l'inici de sessió desat pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
        *[other] Això eliminarà tots els inicis de sessió desats pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Això eliminarà l'inici de sessió que heu desat en el { -brand-short-name } en tots els dispositius sincronitzats amb el vostre compte. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
-       *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
     }
 
 ##
