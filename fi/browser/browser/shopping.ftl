@@ -187,6 +187,7 @@ shopping-survey-thanks =
 shopping-callout-closed-opted-in-subtitle = Palaa <strong>arvostelujen tarkistukseen</strong> aina, kun näet hintalappukuvakkeen.
 shopping-callout-pdp-opted-in-title = Ovatko nämä arvostelut luotettavia? Ota selvää nopeasti.
 shopping-callout-closed-not-opted-in-title = Luotettavat arvostelut yhdellä napsautuksella
+shopping-callout-closed-not-opted-in-subtitle = Kokeile arvostelujen tarkistinta aina, kun näet hintamerkkinnän. Hanki oivalluksia todellisilta ostajilta nopeasti — ennen kuin ostat.
 shopping-callout-closed-not-opted-in-revised-title = Luotettavat arvostelut yhdellä napsautuksella
 shopping-callout-closed-not-opted-in-revised-subtitle = Napsauta hintalappukuvaketta osoitepalkissa päästäksesi takaisin arvostelujen tarkistukseen.
 shopping-callout-closed-not-opted-in-revised-button = Selvä
@@ -194,6 +195,8 @@ shopping-callout-not-opted-in-reminder-title = Tee ostoksia luottavaisin mielin
 shopping-callout-not-opted-in-reminder-open-button = Avaa arvostelujen tarkistus
 shopping-callout-not-opted-in-reminder-close-button = Hylkää
 shopping-callout-not-opted-in-reminder-ignore-checkbox = Älä kysy uudestaan
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Abstrakti kuva kolmesta tuotearvostelusta. Yhdessä on varoitussymboli, joka osoittaa, että se ei ehkä ole luotettava.
 shopping-callout-disabled-auto-open-title = Arvostelujen tarkistus on nyt oletuksena suljettu
 shopping-callout-disabled-auto-open-subtitle = Napsauta osoitepalkissa olevaa hintalappukuvaketta aina, kun haluat nähdä, voitko luottaa tuotteen arvosteluihin.
 shopping-callout-disabled-auto-open-button = Selvä
@@ -203,6 +206,7 @@ shopping-callout-opted-out-button = Selvä
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Kokeile luotettavaa tuotearvosteluopastamme
 shopping-onboarding-opt-in-button = Kyllä, kokeile
 shopping-onboarding-not-now-button = Ei nyt
 shopping-onboarding-dialog-close-button =
