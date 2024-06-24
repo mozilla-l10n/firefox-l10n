@@ -258,9 +258,9 @@ about-logins-confirm-remove-all-sync-dialog-title =
     }
 about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
-        [1] Això eliminarà l'inici de sessió desat pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
-        [one] Això eliminarà l'inici de sessió desat pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
-       *[other] Això eliminarà tots els inicis de sessió desats pel { -brand-short-name } en tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
+        [1] Això eliminarà l'inici de sessió que heu desat al { -brand-short-name } de tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
+        [one] Això eliminarà l'inici de sessió que heu desat al { -brand-short-name } de tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
+       *[other] Això eliminarà tots els inicis de sessió que heu desat al { -brand-short-name } de tots els dispositius sincronitzats amb el vostre { -fxaccount-brand-name }. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
@@ -274,6 +274,24 @@ about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
         [one] Voleu eliminar { $count } contrasenya?
        *[other] Voleu eliminar totes les { $count } contrasenyes?
+    }
+# Message for modal to confirm the removal of saved passwords when user is NOT synced
+about-logins-confirm-remove-all-dialog-message2 =
+    { $count ->
+        [1] Això eliminarà la contrasenya desada al { -brand-short-name } i les alertes de filtració. Aquesta acció no es pot desfer.
+       *[other] Això eliminarà les contrasenyes desades al { -brand-short-name } i les alertes de filtració. Aquesta acció no es pot desfer.
+    }
+# Title for modal to confirm the removal of all saved passwords when user IS SYNCED
+about-logins-confirm-remove-all-sync-dialog-title2 =
+    { $count ->
+        [one] Voleu eliminar { $count } contrasenya de tots els dispositius?
+       *[other] Voleu eliminar totes les { $count } contrasenyes de tots els dispositius?
+    }
+# Message for modal to confirm the removal of saved passwords when user IS synced.
+about-logins-confirm-remove-all-sync-dialog-message3 =
+    { $count ->
+        [1] Això eliminarà la contrasenya desada al { -brand-short-name } de tots els dispositius sincronitzats. També eliminarà les alertes de filtracions que apareixen aquí. Aquesta acció no es pot desfer.
+       *[other] This will remove all passwords saved to { -brand-short-name } on all your synced devices. This will also remove any breach alerts that appear here. You cannot undo this action.
     }
 
 ##
