@@ -103,3 +103,8 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = Vis nyligt lukkede faneblade
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } faneblad i { -brand-short-name } lukket
+       *[other] { $closedCount } faneblade i { -brand-short-name } lukket
+    }
