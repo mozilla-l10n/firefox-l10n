@@ -36,6 +36,7 @@ migration-imported-edge-reading-list = Daftar Bacaan (Dari Edge)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-instructions-step1 = Pilih “Lanjutkan”
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -51,8 +52,18 @@ migration-bookmarks-option-label = Markah
 migration-favorites-option-label = Favorit
 migration-logins-and-passwords-option-label = Info masuk dan sandi tersimpan
 migration-passwords-option-label = Sandi tersimpan
+migration-history-option-label = Riwayat penjelajahan
+migration-extensions-option-label = Ekstensi
 migration-payment-methods-option-label = Metode pembayaran
 migration-cookies-option-label = Kuki
+migration-session-option-label = Jendela dan tab
+migration-otherdata-option-label = Data lainnya
+migration-passwords-from-file-progress-header = Impor Berkas Sandi
+migration-passwords-from-file-success-header = Sandi Berhasil Diimpor
+migration-passwords-from-file = Memeriksa berkas sandi
+migration-passwords-new = Sandi baru
+migration-passwords-updated = Sandi yang ada
+migration-passwords-from-file-picker-title = Impor Berkas Sandi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -67,7 +78,31 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Berkas TSV
        *[other] Berkas TSV
     }
+migration-bookmarks-from-file = Markah
+migration-bookmarks-from-file-success-header = Markah Berhasil Diimpor
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Dokumen HTML
+       *[other] Berkas HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Berkas JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } markah
+       *[other] { $newEntries } markah
+    }
 migration-import-button-label = Impor
+migration-choose-to-import-from-file-button-label = Diimpor Dari Berkas
+migration-import-from-file-button-label = Pilih Berkas
 migration-cancel-button-label = Batalkan
 migration-done-button-label = Selesai
 migration-continue-button-label = Lanjutkan
@@ -78,6 +113,10 @@ migration-continue-button-label = Lanjutkan
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = markah
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = favorit
 
 ##
 
