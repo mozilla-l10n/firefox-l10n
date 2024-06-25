@@ -301,6 +301,7 @@ newtab-wallpaper-dark-city = Lilla bylandskab
 newtab-wallpaper-category-title-colors = Ensfarvede
 newtab-wallpaper-blue = Blå
 newtab-wallpaper-light-blue = Lyseblå
+newtab-wallpaper-light-purple = Lyslilla
 newtab-wallpaper-light-green = Lysegrøn
 newtab-wallpaper-green = Grøn
 newtab-wallpaper-beige = Beige
@@ -310,16 +311,23 @@ newtab-wallpaper-pink = Pink
 newtab-wallpaper-light-pink = Lyserød
 newtab-wallpaper-red = Rød
 newtab-wallpaper-dark-blue = Mørkeblå
+newtab-wallpaper-dark-purple = Mørklilla
 newtab-wallpaper-dark-green = Mørkegrøn
 newtab-wallpaper-brown = Brun
 
 ## Abstract
 
 newtab-wallpaper-category-title-abstract = Abstrakt
+newtab-wallpaper-abstract-green = Grønne former
+newtab-wallpaper-abstract-blue = Blå former
+newtab-wallpaper-abstract-purple = Lilla former
+newtab-wallpaper-abstract-orange = Orange former
 newtab-wallpaper-gradient-orange = Farveforløb i orange og pink
+newtab-wallpaper-abstract-blue-purple = Blå og lilla former
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotografier
 newtab-wallpaper-beach-at-sunrise = Strand ved solopgang
 newtab-wallpaper-beach-at-sunset = Strand ved solnedgang
 newtab-wallpaper-storm-sky = Stormfuld himmel
@@ -330,7 +338,13 @@ newtab-wallpaper-white-mountains = Hvide bjerge
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto af <a data-l10n-name="name-link">{ $author_string }</a> fra <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Tilføj lidt farve
+newtab-wallpaper-feature-highlight-content = Opdater siden Nyt faneblad med baggrundsbilleder.
 newtab-wallpaper-feature-highlight-button = Forstået
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Annuller
+    .aria-label = Luk pop op
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
