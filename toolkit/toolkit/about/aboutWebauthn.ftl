@@ -113,6 +113,7 @@ about-webauthn-auth-option-null = Non pris en charge
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Commandes de configuration de prototype par un fournisseur
 about-webauthn-auth-info-remaining-discoverable-credentials = Informations d’authentification détectables restantes
 about-webauthn-auth-info-certifications = Certifications
 about-webauthn-auth-info-uv-modality = Modalité de vérification de l’utilisateur
