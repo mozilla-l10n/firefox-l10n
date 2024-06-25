@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Праверка водгукаў <str
 shopping-adjusted-rating-label =
     .label = Скарэктаваны рэйтынг
 shopping-adjusted-rating-unreliable-reviews = Ненадзейныя агляды выдалены
+shopping-adjusted-rating-based-reliable-reviews = На аснове надзейных водгукаў
 
 ## Strings for the review reliability component
 

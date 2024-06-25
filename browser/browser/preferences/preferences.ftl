@@ -976,14 +976,6 @@ autofill-payment-methods-checkbox-submessage = Уключаючы крэдытн
     .accesskey = д
 autofill-saved-payment-methods-button = Захаваныя спосабы аплаты
     .accesskey = с
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Патрабаваць аўтэнтыфікацыю ў macOS для запаўнення і змянення спосабаў аплаты.
-        [windows] Патрабаваць аўтэнтыфікацыю Windows Linux для запаўнення і змянення спосабаў аплаты.
-        [linux] Патрабаваць аўтэнтыфікацыю ў Linux для запаўнення і змянення спосабаў аплаты.
-       *[other] Патрабаваць аўтэнтыфікацыю для запаўнення і змянення спосабаў аплаты.
-    }
-    .accesskey = ў
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Патрабаваць уваход на прыладзе для запаўнення спосабаў аплаты і кіравання імі
     .accesskey = ў
@@ -1313,6 +1305,10 @@ privacy-segmentation-radio-off =
     .label = Выкарыстоўваць рэкамендацыі { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Паказваць падрабязную інфармацыю
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Налады рэкламы для сайтаў
 
 ## Privacy Section - Security
 ##

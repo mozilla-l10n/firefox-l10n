@@ -298,6 +298,7 @@ newtab-wallpaper-dark-city = Пурпурны гарадскі пейзаж
 
 ## Solid Colors
 
+newtab-wallpaper-category-title-colors = Аднатонныя колеры
 newtab-wallpaper-blue = Сіні
 newtab-wallpaper-light-blue = Блакітны
 newtab-wallpaper-light-purple = Светла-фіялетавы
@@ -318,13 +319,28 @@ newtab-wallpaper-brown = Карычневы
 
 newtab-wallpaper-category-title-abstract = Абстракцыя
 newtab-wallpaper-abstract-green = Зялёныя формы
+newtab-wallpaper-abstract-blue = Сінія формы
+newtab-wallpaper-abstract-purple = Фіялетавыя формы
+newtab-wallpaper-abstract-orange = Аранжавыя формы
+newtab-wallpaper-gradient-orange = Градыент аранжавага і ружовага
+newtab-wallpaper-abstract-blue-purple = Сінія і фіялетавыя формы
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Фатаграфіі
+newtab-wallpaper-beach-at-sunrise = Пляж на ўсходзе сонца
+newtab-wallpaper-beach-at-sunset = Пляж на заходзе сонца
+newtab-wallpaper-storm-sky = Навальнічнае неба
+newtab-wallpaper-sky-with-pink-clouds = Неба з ружовымі аблокамі
+newtab-wallpaper-red-panda-yawns-in-a-tree = Чырвоная панда пазяхае на дрэве
+newtab-wallpaper-white-mountains = Белыя горы
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Фота <a data-l10n-name="name-link">{ $author_string }</a> з <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Паспрабуйце ўсплёск колеру
+newtab-wallpaper-feature-highlight-content = Абнавіце выгляд новай карткі з дапамогай шпалер.
+newtab-wallpaper-feature-highlight-button = Зразумела
 
 ## New Tab Weather
 
