@@ -23,8 +23,8 @@ error-long-desc3 = Robots are Your Plastic Pal Who's Fun To Be With
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
 error-long-desc4 = Robots have shiny metal posteriors which should not be bitten.
 # TV: Battlestar Galactica (2004 series). From the opening text.
-error-trailer-desc-text = And they have a plan.
+error-trailer-desc-text = Og de har en plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
 # Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Prøv igen
-    .label2 = Please do not press this button again.
+    .label2 = Tryk ikke på denne knap igen, tak.
