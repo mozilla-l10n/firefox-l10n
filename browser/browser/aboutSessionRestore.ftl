@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = Gendan alle vinduer og faneblade
 welcome-back-restore-some-label = Gendan kun dem, du ønsker
-welcome-back-page-info-link = Dine tilføjelser og tilpasninger er blevet nulstillet til deres standard-indstillinger. Hvis det ikke løste dit problem <a data-l10n-name="link-more">kan du læse mere om, hvad du kan gøre.</a>
+welcome-back-page-info-link = Dine tilføjelser og tilpasninger er blevet fjernet, og dine browserindstillinger er blevet gendannet til standardindstillingerne. Hvis det ikke løste dit problem <a data-l10n-name="link-more">kan du læse mere om, hvad du kan gøre.</a>
