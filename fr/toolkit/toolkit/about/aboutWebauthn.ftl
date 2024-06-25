@@ -116,6 +116,7 @@ about-webauthn-auth-option-null = Non pris en charge
 about-webauthn-auth-info-remaining-discoverable-credentials = Informations d’authentification détectables restantes
 about-webauthn-auth-info-certifications = Certifications
 about-webauthn-auth-info-uv-modality = Modalité de vérification de l’utilisateur
+about-webauthn-auth-info-preferred-platform-uv-attempts = Préférence du nombre de tentatives de vérification de l’utilisateur par la plateforme
 about-webauthn-auth-info-max-cred-blob-length = Longueur maximale des blobs pour les informations d’authentification
 about-webauthn-auth-info-firmware-version = Version du micrologiciel
 about-webauthn-auth-info-min-pin-length = Taille minimale du code PIN
