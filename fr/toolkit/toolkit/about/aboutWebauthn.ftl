@@ -99,6 +99,7 @@ about-webauthn-auth-option-uvbioenroll = Autorisation d’enregistrement biomét
 about-webauthn-auth-option-authnrcfg = Configuration de l’authentificateur
 about-webauthn-auth-option-uvacfg = Autorisation de configuration d’un authentificateur
 about-webauthn-auth-option-credmgmt = Gestion des informations d’authentification
+about-webauthn-auth-option-credentialmgmtpreview = Gestion des prototypes d’informations d’authentification
 about-webauthn-auth-option-setminpinlength = Définir la longueur minimale du code PIN
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential sans vérification de l’utilisateur
@@ -118,6 +119,7 @@ about-webauthn-auth-info-remaining-discoverable-credentials = Informations d’a
 about-webauthn-auth-info-certifications = Certifications
 about-webauthn-auth-info-uv-modality = Modalité de vérification de l’utilisateur
 about-webauthn-auth-info-preferred-platform-uv-attempts = Préférence du nombre de tentatives de vérification de l’utilisateur par la plateforme
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Nombre maximum d’identifiants de Relying Party pour définir la longueur minimale du code PIN
 about-webauthn-auth-info-max-cred-blob-length = Longueur maximale des blobs pour les informations d’authentification
 about-webauthn-auth-info-firmware-version = Version du micrologiciel
 about-webauthn-auth-info-min-pin-length = Taille minimale du code PIN
