@@ -295,6 +295,30 @@ newtab-wallpaper-dark-panda = Rød panda skjult i en skov
 newtab-wallpaper-dark-sky = Udsigt over by med nattehimmel
 newtab-wallpaper-dark-mountain = Bjerglandskab
 newtab-wallpaper-dark-city = Lilla bylandskab
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Ensfarvede
+newtab-wallpaper-blue = Blå
+newtab-wallpaper-light-blue = Lyseblå
+newtab-wallpaper-light-green = Lysegrøn
+newtab-wallpaper-green = Grøn
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Gul
+newtab-wallpaper-orange = Orange
+newtab-wallpaper-pink = Pink
+newtab-wallpaper-light-pink = Lyserød
+newtab-wallpaper-red = Rød
+newtab-wallpaper-dark-blue = Mørkeblå
+newtab-wallpaper-dark-green = Mørkegrøn
+newtab-wallpaper-brown = Brun
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstrakt
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
