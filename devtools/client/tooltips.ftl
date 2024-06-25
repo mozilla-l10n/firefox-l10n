@@ -56,6 +56,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] La propriété <strong>{ $property }</strong> n’a pas d’effet sur cet élément, car il a plus de { $lineCount } lignes.
     }
 inactive-css-text-wrap-balance-fragmented = La propriété <strong>{ $property }</strong> n’a pas d’effet sur cet élément, car il est fragmenté (son contenu est réparti sur plusieurs colonnes ou pages).
+inactive-css-no-width-height = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car sa largeur et sa hauteur ne peuvent pas être définies.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +67,7 @@ inactive-css-not-grid-or-flex-container-fix = Essayez d’ajouter <strong>displa
 inactive-css-not-grid-or-flex-or-block-container-fix = Essayez d’ajouter <strong>display:grid</strong>, <strong>display:flex</strong>, ou <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Essayez d’ajouter <strong>display:grid</strong>, <strong>display:flex</strong>, ou <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Essayez d’ajouter <strong>column-count</strong> ou <strong>column-width</strong>. { learn-more }
+inactive-css-column-span-fix = Essayez d’ajouter <strong>column-count</strong> ou <strong>column-width</strong> à l’un de ses éléments parents. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Essayez en ajoutant <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ou <strong>display:inline-flex</strong> à l’élément parent. { learn-more }
 inactive-css-not-grid-item-fix-2 = Essayez d’ajouter <strong>display:grid</strong> ou <strong>display:inline-grid</strong> au parent de l’élément. { learn-more }
 inactive-css-not-grid-container-fix = Essayez d’ajouter <strong>display: grid</strong> ou <strong>display:inline-grid</strong>. { learn-more }
@@ -84,6 +86,7 @@ inactive-css-not-table-fix = Essayez d’ajouter <strong>display:table</strong> 
 inactive-css-not-table-cell-fix = Essayez d’ajouter <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Essayez d’ajouter <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ou <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Sur l’élément parent dans le tableau, supprimez la propriété <strong>border-collapse</strong> ou modifiez sa valeur pour autre chose que <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Essayez de définir une valeur différente de <strong>visible</strong> pour la propriété <strong>overflow</strong> ou de cibler un élément remplacé qui prend en charge cette valeur. { learn-more }
 inactive-css-ruby-element-fix = Essayez de modifier la <strong>taille de police</strong> du texte ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Essayez de réduire le nombre de lignes. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Évitez de fragmenter le contenu de l’élément, p. ex. en supprimant les colonnes ou en utilisant la règle <strong>page-break-inside:avoid</strong>. { learn-more }
