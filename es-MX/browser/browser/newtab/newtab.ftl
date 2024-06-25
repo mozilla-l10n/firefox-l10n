@@ -254,9 +254,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Accesos directos patrocinados
 newtab-custom-pocket-title = Recomendado por { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contenido excepcional seleccionado por { -pocket-brand-name }, parte de la familia { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Recomendado por { -pocket-brand-name }
-    .description = Contenido excepcional seleccionado por { -pocket-brand-name }, parte de la familia { -brand-product-name }
 newtab-custom-pocket-sponsored = Historias patrocinadas
 newtab-custom-pocket-show-recent-saves = Mostrar guardados recientemente
 newtab-custom-recent-title = Actividad reciente
@@ -266,3 +263,74 @@ newtab-custom-recent-toggle =
     .description = Una selección de sitios y contenidos recientes
 newtab-custom-close-button = Cerrar
 newtab-custom-settings = Administrar más ajustes
+
+## New Tab Wallpapers
+
+newtab-wallpaper-light-red-panda = Panda rojo
+newtab-wallpaper-light-mountain = Montaña Blanca
+newtab-wallpaper-light-sky = Cielo con nubes moradas y rosas
+newtab-wallpaper-light-color = Formas azules, rosas y amarillas.
+newtab-wallpaper-light-landscape = Paisaje de montaña con niebla azulada
+newtab-wallpaper-light-beach = Playa con palmera
+newtab-wallpaper-dark-aurora = Aurora Boreal
+newtab-wallpaper-dark-color = Formas azules y rojas
+newtab-wallpaper-dark-panda = Panda rojo escondido en el bosque
+newtab-wallpaper-dark-sky = Paisaje citadino con un cielo nocturno
+newtab-wallpaper-dark-mountain = Paisaje montañoso
+newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Colores sólidos
+newtab-wallpaper-blue = Azul
+newtab-wallpaper-light-blue = Azul claro
+newtab-wallpaper-light-purple = Morado claro
+newtab-wallpaper-light-green = Verde claro
+newtab-wallpaper-green = Verde
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Amarillo
+newtab-wallpaper-orange = Naranja
+newtab-wallpaper-pink = Rosa
+newtab-wallpaper-light-pink = Rosa claro
+newtab-wallpaper-red = Rojo
+newtab-wallpaper-dark-blue = Azul oscuro
+newtab-wallpaper-dark-purple = Morado oscuro
+newtab-wallpaper-dark-green = Verde oscuro
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstracto
+newtab-wallpaper-abstract-green = Formas verdes
+newtab-wallpaper-abstract-blue = Formas azules
+newtab-wallpaper-abstract-purple = Formas moradas
+newtab-wallpaper-abstract-orange = Formas naranjas
+
+## Photographs
+
+newtab-wallpaper-beach-at-sunset = Playa al atardecer
+newtab-wallpaper-storm-sky = Cielo de tormenta
+newtab-wallpaper-sky-with-pink-clouds = Cielo con nubes rosadas
+newtab-wallpaper-red-panda-yawns-in-a-tree = El panda rojo bosteza en un árbol
+newtab-wallpaper-white-mountains = Montañas blancas
+
+## New Tab Weather
+
+newtab-weather-menu-change-location = Cambiar ubicación
+newtab-weather-change-location-search-input = Buscar ubicación
+newtab-weather-menu-weather-display = Mostrar el clima
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Simple
+newtab-weather-menu-change-weather-display-simple = Cambiar a vista simple
+newtab-weather-menu-weather-display-option-detailed = Detallado
+newtab-weather-menu-change-weather-display-detailed = Cambiar a vista detallada
+newtab-weather-menu-temperature-units = Unidades de temperatura
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Cambiar a Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Cambiar a Celsius
+newtab-weather-menu-hide-weather = Ocultar el clima en la nueva pestaña
+newtab-weather-menu-learn-more = Saber más
+# This message is shown if user is working offline
+newtab-weather-error-not-available = Los datos meteorológicos no están disponibles de momento.

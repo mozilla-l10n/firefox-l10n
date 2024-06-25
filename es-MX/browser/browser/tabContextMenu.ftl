@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Cerrar varias pestañas
     .accesskey = v
+tab-context-close-duplicate-tabs =
+    .label = Cerarr Pestañas Duplicadas
+    .accesskey = u
 tab-context-share-url =
     .label = Compartir
     .accesskey = C
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Mover pestañas
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

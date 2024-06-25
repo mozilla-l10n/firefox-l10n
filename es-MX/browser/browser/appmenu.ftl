@@ -168,6 +168,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Configuración recomendada para la depuración de la mayoría de aplicaciones web, con poca sobrecarga.
 profiler-popup-presets-web-developer-label =
     .label = Desarrollador web
@@ -187,6 +192,8 @@ profiler-popup-presets-power-description = Preestablecido para investigar errore
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energía
+profiler-popup-presets-debug-label =
+    .label = Depurar
 profiler-popup-presets-custom-label =
     .label = Personalizado
 
@@ -257,3 +264,6 @@ appmenu-developer-tools-extensions =
     .label = Extensiones para desarrolladores
 appmenuitem-report-broken-site =
     .label = Informar de problemas con un sitio
+
+## Panel for privacy and security products
+
