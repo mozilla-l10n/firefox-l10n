@@ -316,13 +316,21 @@ newtab-wallpaper-brown = Brun
 ## Abstract
 
 newtab-wallpaper-category-title-abstract = Abstrakt
+newtab-wallpaper-gradient-orange = Farveforløb i orange og pink
 
 ## Photographs
 
+newtab-wallpaper-beach-at-sunrise = Strand ved solopgang
+newtab-wallpaper-beach-at-sunset = Strand ved solnedgang
+newtab-wallpaper-storm-sky = Stormfuld himmel
+newtab-wallpaper-sky-with-pink-clouds = Himmel med lyserøde skyer
+newtab-wallpaper-red-panda-yawns-in-a-tree = Rød panda gaber i et træ
+newtab-wallpaper-white-mountains = Hvide bjerge
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto af <a data-l10n-name="name-link">{ $author_string }</a> fra <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-button = Forstået
 
 ## New Tab Weather
 
