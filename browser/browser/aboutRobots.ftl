@@ -11,7 +11,7 @@
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
 page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
-error-title-text = Welcome Humans!
+error-title-text = Velkommen, mennesker!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = We have come to visit you in peace and with goodwill!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
@@ -25,5 +25,6 @@ error-long-desc4 = Robots have shiny metal posteriors which should not be bitten
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = And they have a plan.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = Prøv igen
     .label2 = Please do not press this button again.
