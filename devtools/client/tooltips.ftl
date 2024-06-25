@@ -30,6 +30,7 @@ inactive-css-property-because-of-display = <strong>{ $property }</strong> har in
 inactive-css-not-display-block-on-floated = Værdien <strong>display</strong> er blevet ændret til <strong>block</strong> fordi elementet er <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Det er umuligt at tilsidesætte <strong>{ $property }</strong> på grund af begrænsning for <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et placeret element.
+inactive-css-only-replaced-elements = <strong>{ $property }</strong> har ingen effekt på dette element, da egenskaben kun kan anvendes på erstattede elementer.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> har ingen effekt på dette element, fordi <strong>overflow:hidden</strong> ikke er sat.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong>  har ingen effekt på interne tabel-elementer.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> har ingen effekt på interne tabel-elementer, bortset fra tabel-celler.
