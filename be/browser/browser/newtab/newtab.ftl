@@ -341,6 +341,13 @@ newtab-wallpaper-attribution = Фота <a data-l10n-name="name-link">{ $author_
 newtab-wallpaper-feature-highlight-header = Паспрабуйце ўсплёск колеру
 newtab-wallpaper-feature-highlight-content = Абнавіце выгляд новай карткі з дапамогай шпалер.
 newtab-wallpaper-feature-highlight-button = Зразумела
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Адхіліць
+    .aria-label = Закрыць выплыўное акно
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
