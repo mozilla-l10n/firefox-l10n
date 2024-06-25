@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Impor Data Peramban
+migration-wizard-selection-list = Pilih data yang ingin Anda impor.
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -44,9 +45,12 @@ migration-selected-data-label = Impor data terpilih
 ##
 
 migration-select-all-option-label = Pilih semua
+migration-bookmarks-option-label = Markah
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favorit
+migration-logins-and-passwords-option-label = Info masuk dan sandi tersimpan
+migration-passwords-option-label = Sandi tersimpan
 migration-payment-methods-option-label = Metode pembayaran
 migration-cookies-option-label = Kuki
 # A description for the .csv file format that may be shown as the file type

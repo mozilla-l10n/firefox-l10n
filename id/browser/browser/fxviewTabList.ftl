@@ -15,6 +15,10 @@ fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
 fxviewtabrow-tabs-list-tab =
     .title = Buka { $targetURI } di tab baru
 # Variables:
+#   $tabTitle (string) - Title of tab being closed
+fxviewtabrow-close-tab-button =
+    .title = Tutup { $tabTitle }
+# Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Tutup { $tabTitle }
@@ -26,6 +30,17 @@ fxviewtabrow-just-now-timestamp = Baru saja
 
 fxviewtabrow-delete = Hapus
     .accesskey = H
+fxviewtabrow-forget-about-this-site = Lupakan Situs Ini…
+    .accesskey = F
+fxviewtabrow-open-in-window = Buka di Jendela Baru
+    .accesskey = N
+fxviewtabrow-open-in-private-window = Buka di Jendela Pribadi Baru
+    .accesskey = P
+# “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
+fxviewtabrow-add-bookmark = Tandai…
+    .accesskey = B
+fxviewtabrow-save-to-pocket = Simpan ke { -pocket-brand-name }
+    .accesskey = o
 fxviewtabrow-copy-link = Salin Tautan
     .accesskey = S
 fxviewtabrow-close-tab = Tutup Tab
