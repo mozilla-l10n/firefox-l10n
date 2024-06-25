@@ -295,6 +295,32 @@ newtab-wallpaper-dark-panda = Чырвоная панда схаваная ў л
 newtab-wallpaper-dark-sky = Гарадскі пейзаж з начным небам
 newtab-wallpaper-dark-mountain = Горны пейзаж
 newtab-wallpaper-dark-city = Пурпурны гарадскі пейзаж
+
+## Solid Colors
+
+newtab-wallpaper-blue = Сіні
+newtab-wallpaper-light-blue = Блакітны
+newtab-wallpaper-light-purple = Светла-фіялетавы
+newtab-wallpaper-light-green = Светла-зялёны
+newtab-wallpaper-green = Зялёны
+newtab-wallpaper-beige = Бэжавы
+newtab-wallpaper-yellow = Жоўты
+newtab-wallpaper-orange = Аранжавы
+newtab-wallpaper-pink = Ружовы
+newtab-wallpaper-light-pink = Светла-ружовы
+newtab-wallpaper-red = Чырвоны
+newtab-wallpaper-dark-blue = Цёмна-сіні
+newtab-wallpaper-dark-purple = Цёмна-фіялетавы
+newtab-wallpaper-dark-green = Цёмна-зялёны
+newtab-wallpaper-brown = Карычневы
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Абстракцыя
+newtab-wallpaper-abstract-green = Зялёныя формы
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
