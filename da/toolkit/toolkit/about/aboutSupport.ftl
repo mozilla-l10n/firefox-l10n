@@ -74,7 +74,7 @@ app-basics-launcher-process-status = Launcher Process
 app-basics-multi-process-support = Multiproces-vinduer
 app-basics-fission-support = Fission-vinduer
 app-basics-remote-processes-count = Fjern-processer
-app-basics-enterprise-policies = Virksomheds-politikker
+app-basics-enterprise-policies = Virksomhedspolitikker
 app-basics-location-service-key-google = Google Location Service-nøgle
 app-basics-safebrowsing-key-google = Google Safebrowsing-nøgle
 app-basics-key-mozilla = Mozilla Location Service-nøgle
@@ -417,10 +417,12 @@ support-printing-prefs-value = Værdi
 
 ## Remote Settings sections
 
+support-remote-settings-title = Fjernindstillinger
 support-remote-settings-status = Status
 support-remote-settings-status-ok = OK
 # Status when synchronization is not working.
 support-remote-settings-status-broken = Virker ikke
+support-remote-settings-last-check = Seneste tjek
 support-remote-settings-local-timestamp = Lokalt tidsstempel
 support-remote-settings-sync-history = Historik
 support-remote-settings-sync-history-status = Status
