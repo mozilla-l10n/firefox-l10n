@@ -10,7 +10,7 @@ about-unloads-page-title = Nedlukning af faneblade
 about-unloads-intro =
     { -brand-short-name } har en funktion, der automatisk lukker faneblade 
     ned for at forhindre programmet i at gå ned som følge af manglende 
-    hukommelse, når system ikke har meget tilgængelig hukommelse. En 
+    hukommelse, når systemet ikke har meget tilgængelig hukommelse. En 
     række kriterier bestemmer, hvilket faneblad, der lukkes ned først. Denne
     side viser, hvordan { -brand-short-name } prioriterer mellem faneblade, og 
     hvilket faneblad, der vil blive lukket ned, når nedlukning af faneblade udløses.
