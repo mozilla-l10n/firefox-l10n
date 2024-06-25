@@ -420,6 +420,20 @@ support-printing-modified-settings = Змененыя параметры дру�
 support-printing-prefs-name = Назва
 support-printing-prefs-value = Значэнне
 
+## Remote Settings sections
+
+support-remote-settings-title = Аддаленыя налады
+support-remote-settings-status = Статус
+support-remote-settings-status-ok = OK
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Не працуе
+support-remote-settings-last-check = Апошняя праверка
+support-remote-settings-local-timestamp = Метка мясцовага часу
+support-remote-settings-sync-history = Гісторыя
+support-remote-settings-sync-history-status = Статус
+support-remote-settings-sync-history-datetime = Дата
+support-remote-settings-sync-history-infos = Інфармацыя
+
 ## Normandy sections
 
 support-remote-experiments-title = Аддаленыя эксперыменты
