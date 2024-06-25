@@ -568,6 +568,10 @@ home-prefs-recent-activity-description = Una selección de sitios y contenidos r
 home-prefs-snippets-header =
     .label = Fragmentos
 home-prefs-snippets-description-new = Consejos y noticias de { -vendor-short-name } y { -brand-product-name }
+home-prefs-weather-header =
+    .label = Clima
+home-prefs-weather-description = Pronóstico estimado para hoy
+home-prefs-weather-learn-more-link = Saber más
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1165,6 +1169,10 @@ privacy-segmentation-radio-off =
     .label = Usa las recomendaciones de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar información detallada
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Preferencias de publicidad para el sitio web
 
 ## Privacy Section - Security
 ##
