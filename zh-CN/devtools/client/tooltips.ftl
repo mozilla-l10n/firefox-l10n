@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">详细了解</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = 由于不是弹性容器或网格容器，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-grid-or-flex-container-or-multicol-container = 由于不是 Flex 容器、Grid 容器或多栏容器， <strong>{ $property }</strong> 对此元素没有影响。
 inactive-css-not-multicol-container = 由于不是多列容器，<strong>{ $property }</strong> 对此元素无效。
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = ::first-letter 伪元�
 inactive-css-placeholder-pseudo-element-not-supported = ::placeholder 伪元素不支持 <strong>{ $property }</strong>。
 inactive-css-property-because-of-display = 由于其有 <strong>{ $display }</strong> 的 display 属性，<strong>{ $property }</strong> 对此元素没有影响。
 inactive-css-not-display-block-on-floated = 由于是 <strong>floated</strong> 元素，引擎已将 <strong>display</strong> 值更改为 <strong>block</strong>。
+inactive-css-not-display-block-on-floated-2 = 由于该元素是 <strong>floated</strong>引擎，所以 <strong>display</strong> 值已被更改为 <strong>{ $display }</strong>。
 inactive-css-property-is-impossible-to-override-in-visited = 由于 <strong>:visited</strong> 的限制，无法覆盖 <strong>{ $property }</strong>。
 inactive-css-position-property-on-unpositioned-box = 由于不是定位元素，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> 对此元素无效，因为其只能对可替换元素应用。
@@ -39,6 +50,7 @@ inactive-css-not-table = 由于不是表格项目，<strong>{ $property }</stron
 inactive-css-not-table-cell = 由于不是单元格，<strong>{ $property }</strong> 对此元素无效。
 inactive-scroll-padding-when-not-scroll-container = 由于不会滚动，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-border-image = 由于父表格元素的 <strong>border-collapse</strong> 已设为 <strong>collapse</strong>，无法应用至内部表格元素，<strong>{ $property }</strong> 对此元素无效。
+inactive-css-resize = <strong>{ $property }</strong> 对此元素无效，因为其只能对 overflow 值不为 visible 的元素，以及特定的可替换元素（例如 textareas）应用。
 inactive-css-ruby-element = <strong>{ $property }</strong> 对此 ruby 元素无效。此元素大小由 ruby 字体大小决定。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -51,6 +63,7 @@ inactive-css-cue-pseudo-element-not-supported = ::cue 伪元素不支持 <strong
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded = 由于超过 { $lineCount } 行，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> 对此元素没有影响，因为它是分割的，即它的内容分布在多个栏或页中。
+inactive-css-no-width-height = 由于此元素的宽度和高度无法被设置，<strong>{ $property }</strong> 对此元素无效。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -80,6 +93,7 @@ inactive-css-not-table-fix = 请尝试添加 <strong>display:table</strong> 或 
 inactive-css-not-table-cell-fix = 请尝试添加<strong>display:table-cell</strong>。{ learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = 请尝试添加 <strong>overflow:auto</strong>、<strong>overflow:scroll</strong> 或 <strong>overflow:hidden</strong>。{ learn-more }
 inactive-css-border-image-fix = 请在父表格元素上移除该属性，或将 <strong>border-collapse</strong> 的值更改为 <strong>collapse</strong> 以外的值。{ learn-more }
+inactive-css-resize-fix = 请尝试将 <strong>overflow</strong> 的值由 <strong>visible</strong> 改为其他值，或将其目标更改为支持其的可替换元素。{ learn-more }
 inactive-css-ruby-element-fix = 请尝试调整 ruby 文本的 <strong>font-size</strong>。{ learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = 请尝试减少行数。{ learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = 避免分割元素的内容，比如移除横栏或使用 <strong>page-break-inside:avoid</strong>。{ learn-more }
