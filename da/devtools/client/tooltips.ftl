@@ -14,9 +14,20 @@ learn-more = <span data-l10n-name="link">Læs mere</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er en flex-container eller en grid-container.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er en flex-container, grid-container eller en container, der strækker sig over flere kolonner.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> har ingen effekt på dette element, eftersom det ikke er en container med flere kolonner.
+inactive-css-column-span = <strong>{ $property }</strong> har ingen effekt på tværs af kolonner, eftersom elementet ikke befinder sig i en beholder med flere kolonner.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et grid-element eller et flex-element.
 inactive-css-not-grid-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et grid-element.
 inactive-css-not-grid-container = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er en grid-container.
@@ -38,6 +49,7 @@ inactive-css-not-table = <strong>{ $property }</strong> har ingen effekt på det
 inactive-css-not-table-cell = <strong>{ $property }</strong> har ingen effekt på dette element, eftersom det ikke er en tabelcelle.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke kan scrolles.
 inactive-css-border-image = <strong>{ $property }</strong>  har ingen effekt på dette element, eftersom den ikke kan anvendes på interne tabel-elementer, hvor <strong>border-collapse</strong> er sat til <strong>collapse</strong> på det overordnede element.
+inactive-css-resize = <strong>{ $property }</strong> har ingen effekt på elementet, fordi egenskaben kun kan anvendes på elementer med en anden værdi for overflow end "visible" samt for visse erstattede elementer som textarea.
 inactive-css-ruby-element = <strong>{ $property }</strong> har ingen effekt på dette element, da det er et ruby-element. Dets størrelse er afgjort af ruby-elementets skriftstørrelse.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -84,6 +96,7 @@ inactive-css-not-table-fix = Prøv at tilføje <strong>display:table</strong> el
 inactive-css-not-table-cell-fix = Prøv at tilføje <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Prøv at tilføje <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> eller <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Fjern egenskaben<strong>border-collapse</strong> eller vælg anden værdi for den end <strong>collapse</strong> for det overordnede tabel-element. { learn-more }
+inactive-css-resize-fix = Prøv at sætte <strong>overflow</strong> til en værdi, der ikke er <strong>visible</strong>, eller peg på et erstattet element, der understøtter dette. { learn-more }
 inactive-css-ruby-element-fix = Prøv at ændre ruby-tekstens <strong>skriftstørrelse</strong>. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Prøv at reducere antallet af linjer. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Undgå at opdele elementets indhold, fx ved at fjerne kolonner eller bruge <strong>page-break-inside:avoid</strong>. { learn-more }
