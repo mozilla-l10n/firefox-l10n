@@ -5,7 +5,7 @@
 crashreporter-branded-title = { -brand-short-name } Krasjrapportering
 crashreporter-apology = Vi beklagar
 crashreporter-crashed-and-restore = { -brand-short-name } hadde eit problem og krasja. { -brand-short-name } vil prøve å gjenopprette fanene og vindauga dine når programmet startar på nytt.
-crashreporter-plea = For å hjelpa oss å stilla diagnose og å ordna problemet, kan du senda oss ein krasjrapport.
+crashreporter-plea = For å hjelpe oss å stille diagnose og å ordne problemet, kan du sende oss ein krasjrapport.
 crashreporter-information = Dette programmet køyrer etter at eit programkrasj oppstår for å rapportere problemet til { -vendor-short-name }.  Det bør ikkje køyrast direkte.
 crashreporter-error = Eit uventa problem har oppstått og { -brand-short-name } krasja. Desverre er krasjrapportering ikkje i stand til å sende rapporten om krasjet.
 # $details (String) - the reason that a crash report cannot be submitted
