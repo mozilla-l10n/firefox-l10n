@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">了解更多</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = 由於不是 Flex 容器也不是 Grid 容器，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-grid-or-flex-container-or-multicol-container = 由於不是 Flex 容器、Grid 容器，也不是多欄容器，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-multicol-container = 由於不是多欄容器，<strong>{ $property }</strong> 對此元素沒有影響。
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = ::first-letter 偽元�
 inactive-css-placeholder-pseudo-element-not-supported = ::placeholder 偽元素不支援 <strong>{ $property }</strong>。
 inactive-css-property-because-of-display = 由於此元素的 display 屬性值為 <strong>{ $display }</strong>，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-display-block-on-floated = 由於是 <strong>floated</strong> 元素，繪圖引擎已將 <strong>display</strong> 值更改為 <strong>block</strong>。
+inactive-css-not-display-block-on-floated-2 = 由於是 <strong>floated</strong> 元素，繪圖引擎已將 <strong>display</strong> 值更改為 <strong>{ $display }</strong>。
 inactive-css-property-is-impossible-to-override-in-visited = 由於 <strong>:visited</strong> 的限制，無法蓋過 <strong>{ $property }</strong>。
 inactive-css-position-property-on-unpositioned-box = 由於元素未置入，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-only-replaced-elements = 由於僅可套用到被置換的元素，<strong>{ $property }</strong> 對此元素沒有影響。
