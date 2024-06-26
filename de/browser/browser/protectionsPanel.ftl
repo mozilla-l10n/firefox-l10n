@@ -23,6 +23,11 @@ protections-panel-etp-more-info =
     .aria-label = Weitere Informationen zum verbesserten Schutz vor Aktivitätenverfolgung
 protections-panel-etp-on-header = Verbesserter Schutz vor Aktivitätenverfolgung ist für diese Website AKTIVIERT
 protections-panel-etp-off-header = Verbesserter Schutz vor Aktivitätenverfolgung ist für diese Website DEAKTIVIERT
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Funktioniert die Website nicht richtig?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Funktioniert die Website nicht richtig?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -31,17 +36,12 @@ protections-panel-etp-off-header = Verbesserter Schutz vor Aktivitätenverfolgun
 
 protections-panel-etp-toggle-on =
     .label = Verbesserter Tracking-Schutz
-    .description = Aktiviert für dieser Website
+    .description = Aktiviert für diese Website
     .aria-label = Verbesserter Tracking-Schutz: Aktiviert für { $host }
 protections-panel-etp-toggle-off =
     .label = Verbesserter Tracking-Schutz
     .description = Deaktiviert für diese Website
     .aria-label = Verbesserter Tracking-Schutz: Deaktiviert für { $host }
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Funktioniert die Website nicht richtig?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Funktioniert die Website nicht richtig?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -108,7 +108,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Problem mit Website melden
 protections-panel-content-blocking-breakage-report-view-description = Das Blockieren bestimmter Skripte zur Aktivitätenverfolgung kann bei einigen Websites zu Problemen führen. Wenn Sie Probleme melden, helfen Sie { -brand-short-name } für alle besser zu machen. Beim Senden des Berichts werden eine Adresse sowie Informationen über Ihre Browser-Einstellungen an Mozilla gesendet. <label data-l10n-name="learn-more">Weitere Informationen</label>
-protections-panel-content-blocking-breakage-report-view-description2 = Das Blockieren bestimmter Skripte zur Aktivitätenverfolgung kann bei einigen Websites zu Problemen führen. Wenn Sie Probleme melden, helfen Sie { -brand-short-name } für alle besser zu machen. Beim Senden des Berichts werden eine Adresse sowie Informationen über Ihre Browser-Einstellungen an { -vendor-short-name } gesendet.
 protections-panel-content-blocking-breakage-report-view-collection-url = Adresse
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = Adresse
