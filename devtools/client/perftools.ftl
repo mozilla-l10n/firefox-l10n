@@ -86,6 +86,11 @@ perftools-onboarding-message = <b>חדש</b>: { -profiler-brand-name } משול�
 # devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# The same labels and descriptions are also defined in appmenu.ftl.
+
 perftools-presets-web-developer-label = Web Developer
 perftools-presets-web-developer-description = ערכה מומלצת עבור רוב ניפויי השגיאות של יישומוני רשת, עם תקורה נמוכה.
 perftools-presets-firefox-label = { -brand-shorter-name }
@@ -99,6 +104,8 @@ perftools-presets-networking-description = ערכה לחקירת באגים של
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = צריכת חשמל
 perftools-presets-power-description = ערכה לחקירת באגים של צריכת חשמל ב־{ -brand-shorter-name }, עם תקורה נמוכה.
+perftools-presets-debug-label = ניפוי שגיאות
+perftools-presets-debug-description = ערכה לניפוי שגיאות ב־{ -brand-shorter-name }. בעל תקורה גבוהה, אין להשתמש לעבודה על ביצועים אלא להשתמש להתמקדות על התנהגות הדפדפן.
 perftools-presets-custom-label = התאמה אישית
 
 ##
