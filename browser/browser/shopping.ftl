@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = 核查评价已<strong>开启</strong>
 shopping-adjusted-rating-label =
     .label = 调整后的评分
 shopping-adjusted-rating-unreliable-reviews = 已排除不可信的评价
+shopping-adjusted-rating-based-reliable-reviews = 基于可信评价调整
 
 ## Strings for the review reliability component
 
@@ -133,6 +134,8 @@ shopping-analysis-explainer-learn-more2 = 详细了解 <a data-l10n-name="review
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>最有帮助的评价</strong>选自我们认为可信的最近 80 天内的 { $retailer } 评价。
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>高亮部分</strong>来自过去80天内我们认为可靠的评价。
 shopping-analysis-explainer-review-grading-scale-reliable = 评价可信。分析认为这些评价大概率是由真实消费者作出的诚实公正的评价。
 shopping-analysis-explainer-review-grading-scale-mixed = 分析认为对此商品的评价鱼龙混杂。
 shopping-analysis-explainer-review-grading-scale-unreliable = 评价不可信。分析认为这些评价大概率不实，或是由“水军”所作出。

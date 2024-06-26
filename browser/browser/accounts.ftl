@@ -84,3 +84,11 @@ account-multiple-tabs-arriving-from-single-device = 收到从 { $deviceName } �
 account-multiple-tabs-arriving-from-multiple-devices = 收到从其他设备发来的 { $tabCount } 个标签页
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device = 收到 { $tabCount } 个标签页
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = 查看最近关闭的标签页
+account-tabs-closed-remotely = 已关闭 { $closedCount } 个 { -brand-short-name } 标签页
