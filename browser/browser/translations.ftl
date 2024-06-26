@@ -83,5 +83,23 @@ select-translations-panel-try-again-button =
 select-translations-panel-idle-placeholder-text = El texto traducido aparecerá aquí.
 # Text displayed as a placeholder when the panel is actively translating.
 select-translations-panel-translating-placeholder-text = Traduciendo…
+select-translations-panel-init-failure-message =
+    .message = No se pudieron cargar los idiomas. Cheque su conexión a internet e intente de nuevo.
+# Text displayed when the translation fails to complete.
+select-translations-panel-translation-failure-message =
+    .message = Hubo un problema con la traducción. Por favor, inténtalo de nuevo.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known =
+    .message = Lo sentimos, no manejamos { $language } todavía.
+select-translations-panel-unsupported-language-message-unknown =
+    .message = Lo sentimos, todavía no manejamos este idioma.
+# Text displayed on the menuitem that opens the Translation Settings page.
+select-translations-panel-open-translations-settings-menuitem =
+    .label = Configuración de traducción.
 # An announcement made to assistive technology when the translation is complete
 select-translations-panel-translation-complete-announcement = Traducción completa
