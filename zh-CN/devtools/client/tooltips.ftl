@@ -39,7 +39,6 @@ inactive-css-first-letter-pseudo-element-not-supported = ::first-letter 伪元�
 inactive-css-placeholder-pseudo-element-not-supported = ::placeholder 伪元素不支持 <strong>{ $property }</strong>。
 inactive-css-property-because-of-display = 由于其有 <strong>{ $display }</strong> 的 display 属性，<strong>{ $property }</strong> 对此元素没有影响。
 inactive-css-not-display-block-on-floated = 由于是 <strong>floated</strong> 元素，引擎已将 <strong>display</strong> 值更改为 <strong>block</strong>。
-inactive-css-not-display-block-on-floated-2 = 由于该元素是 <strong>floated</strong>引擎，所以 <strong>display</strong> 值已被更改为 <strong>{ $display }</strong>。
 inactive-css-property-is-impossible-to-override-in-visited = 由于 <strong>:visited</strong> 的限制，无法覆盖 <strong>{ $property }</strong>。
 inactive-css-position-property-on-unpositioned-box = 由于不是定位元素，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> 对此元素无效，因为其只能对可替换元素应用。
