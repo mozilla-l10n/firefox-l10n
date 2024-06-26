@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Μάθετε περισσότερα</sp
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης flex ούτε περιέκτης πλέγματος.
 inactive-css-not-grid-or-flex-container-or-multicol-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης flex, περιέκτης πλέγματος ή περιέκτης πολλαπλών στηλών.
 inactive-css-not-multicol-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης πολλαπλών στηλών.
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = Το <strong>{ $propert
 inactive-css-placeholder-pseudo-element-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται σε ψευδοστοιχεία ::placeholder.
 inactive-css-property-because-of-display = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν έχει προβολή του <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Η τιμή <strong>display</strong> έχει αλλάξει από τη μηχανή σε <strong>block</strong> επειδή το στοιχείο είναι <strong>floated</strong>.
+inactive-css-not-display-block-on-floated-2 = Η τιμή <strong>display</strong> έχει αλλάξει από τη μηχανή σε <strong>{ $display }</strong> επειδή το στοιχείο είναι <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Είναι αδύνατο να παρακάμψετε το <strong>{ $property }</strong> λόγω του περιορισμού <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι τοποθετημένο στοιχείο.
 inactive-css-only-replaced-elements = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού μπορεί να εφαρμοστεί μόνο σε στοιχεία που έχουν αντικατασταθεί.
