@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">더 알아보기</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = 플렉스 컨테이너도 그리드 컨테이너도 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-grid-or-flex-container-or-multicol-container = 플렉스 컨테이너, 그리드 컨테이너 또는 다중 열 컨테이너가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-multicol-container = 다중 열 컨테이너가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong>는 ::placeholder 가상 요소에서 지원되지 않습니다.
 inactive-css-property-because-of-display = <strong>{ $display }</strong>의 표시가 있으므로 <strong>{ $property }</strong>은 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-display-block-on-floated = 요소가 <strong>floated</strong>이므로 <strong>display</strong> 값이 엔진에 의해 <strong>block</strong>으로 변경되었습니다.
+inactive-css-not-display-block-on-floated-2 = 요소가 <strong>floated</strong>이므로 <strong>display</strong> 값이 엔진에 의해 <strong>{ $display }</strong>로 변경되었습니다.
 inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</strong> 제한으로 인해 <strong>{ $property }</strong>를 재정의 할 수 없습니다.
 inactive-css-position-property-on-unpositioned-box = 위치가 지정된 요소가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong>는 교체된 요소에만 적용할 수 있으므로 이 요소에는 영향을 주지 않습니다.
