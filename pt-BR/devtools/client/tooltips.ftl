@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Saiba mais</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> não tem efeito neste elemento, pois não é um flex container nem grid container.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> não tem efeito neste elemento, pois não é um flex container, grid container, nem multi-column container.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> não tem efeito neste elemento, pois não é um multi-column container.
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = Não há suporte para<s
 inactive-css-placeholder-pseudo-element-not-supported = Não há suporte para<strong>{ $property }</strong> em pseudo-elementos ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> não tem efeito neste elemento, pois tem um display de <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = O valor de <strong>display</strong> foi alterado pelo mecanismo para <strong>block</strong> porque o elemento é <strong>floated</strong>.
+inactive-css-not-display-block-on-floated-2 = O valor de <strong>display</strong> foi alterado pelo mecanismo para <strong>{ $display }</strong> porque o elemento é <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Não é possível substituir <strong>{ $property }</strong> devido à restrição <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> não tem efeito neste elemento, pois não é um elemento posicionado.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> não tem efeito neste elemento, pois só pode ser aplicado a elementos substituídos.
