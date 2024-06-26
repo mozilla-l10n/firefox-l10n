@@ -136,6 +136,8 @@ shopping-analysis-explainer-learn-more2 = Zhońće wjace wo tym, <a data-l10n-na
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Wjerški</strong> su z pohódnoćenjow { $retailer } w běhu poslednich 80 dnjow, kotrež mamy za spušćomne.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Wjerški</strong> su z pohódnoćenjow w běhu poslednich 80 dnjow, kotrež mamy za spušćomne.
 shopping-analysis-explainer-review-grading-scale-reliable = Spušćomne pohódnoćenja. Myslimy sej, zo pohódnoćenja su najskerje wot woprawdźitych kupcow, kotřiž su sprawne, bjezpředsudne pohódnoćenja zawostajili.
 shopping-analysis-explainer-review-grading-scale-mixed = Wěrimy, zo je měšeńca spušćomnych a njespušćomnych pohódnoćenjow.
 shopping-analysis-explainer-review-grading-scale-unreliable = Njespušćomne pohódnoćenja. Myslimy sej, zo pohódnoćenja su najskerje sfalšowane abo wot pohódnoćowacych z předsudkami.
