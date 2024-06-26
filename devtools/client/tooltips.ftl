@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Подробнее</span>>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является flex- или сеточным контейнером.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является flex-, сеточным или многоколоночным контейнером.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является многоколоночным контейнером.
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> не поддерживается в псевдоэлементах ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> не сработает для элемента, так как его свойство display задано как <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Значение свойства <strong>display</strong> было изменено движком на <strong>block</strong>, так как элемент <strong>плавающий</strong>.
+inactive-css-not-display-block-on-floated-2 = Значение <strong>display</strong> было изменено движком на <strong>{ $display }</strong>, так как элемент <strong>плавающий</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Нельзя переопределить <strong>{ $property }</strong> из-за ограничений псевдокласса <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> не сработает для элемента, так как он не является позиционированным элементом.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> не сработает для элемента, так как его можно применить только к замещаемым элементам.
