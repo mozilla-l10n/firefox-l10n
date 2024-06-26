@@ -136,6 +136,8 @@ shopping-analysis-explainer-learn-more2 = <a data-l10n-name="review-quality-url"
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>하이라이트</strong>는 지난 80일 동안 신뢰할 수 있는 { $retailer } 리뷰에서 나온 것입니다.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>하이라이트</strong>는 지난 80일 동안 신뢰할 수 있는 리뷰에서 나온 것입니다.
 shopping-analysis-explainer-review-grading-scale-reliable = 신뢰할 수 있는 리뷰. 솔직하고 공정한 리뷰를 남긴 실제 고객의 리뷰일 가능성이 높다고 생각합니다.
 shopping-analysis-explainer-review-grading-scale-mixed = 신뢰할 수 있는 리뷰와 신뢰할 수 없는 리뷰가 혼합되어 있다고 생각합니다.
 shopping-analysis-explainer-review-grading-scale-unreliable = 신뢰할 수 없는 리뷰. 리뷰가 가짜이거나 편향된 리뷰어의 리뷰일 가능성이 있다고 생각합니다.
