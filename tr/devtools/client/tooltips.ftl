@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Daha fazla bilgi al</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = Bu eleman flex kapsayıcı veya grid kapsayıcı olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-grid-or-flex-container-or-multicol-container = Bu eleman flex kapsayıcı, grid kapsayıcı veya çok sütunlu kapsayıcı olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-multicol-container = Bu eleman bir çok sütunlu kapsayıcı olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::placeholder sözde elemanlarında desteklenmez.
 inactive-css-property-because-of-display = Bu eleman <strong>{ $display }</strong> olarak görüntülendiği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-display-block-on-floated = Bu eleman <strong>floated</strong> olduğu için <strong>display</strong> değeri motor tarafından <strong>block</strong> olarak değiştirildi.
+inactive-css-not-display-block-on-floated-2 = Bu eleman <strong>floated</strong> olduğu için <strong>display</strong> değeri motor tarafından <strong>{ $display }</strong> olarak değiştirildi.
 inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</strong> kısıtlaması nedeniyle <strong>{ $property }</strong> geçersiz kılınamaz.
 inactive-css-position-property-on-unpositioned-box = Bu elemanın pozisyonu olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-only-replaced-elements = Yalnızca değiştirilen elemanlara uygulanabileceği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
