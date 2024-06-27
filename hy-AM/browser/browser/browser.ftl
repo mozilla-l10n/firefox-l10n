@@ -646,6 +646,8 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Բացեք նկարը նկարում ({ $shortcut })
 picture-in-picture-panel-header = Նկար-նկարում
 picture-in-picture-enable-toggle =
     .label = Միացնել ամեն դեպքում

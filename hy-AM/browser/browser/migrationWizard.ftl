@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = Ներմուծել դիտարկիչի տվյալները
+migration-wizard-selection-list = Ընտրեք այն տվյալները, որոնք ցանկանում եք ներմուծել:
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
