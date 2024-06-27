@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Haltu áfram með varúð
 pane-experimental-search-results-header = { -brand-short-name } tilraunir: Haltu áfram með varúð
 pane-experimental-description2 = Breyting á ítarlegum stillingum getur haft áhrif á afköst eða öryggi { -brand-short-name }.
+pane-experimental-description3 = Prófaðu tilraunaeiginleikana okkar! Þeir eru í vinnslu og þróun, sem gæti haft áhrif á hvernig { -brand-short-name } virkar.
 pane-experimental-reset =
     .label = Endurheimta sjálfgefin gildi
     .accesskey = r
