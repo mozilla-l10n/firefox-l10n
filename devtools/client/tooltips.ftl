@@ -14,9 +14,20 @@ learn-more = <span data-l10n-name="link">Plui informazions</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è ni un contignidôr flex ni un contignidôr gridele.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è ni un contignidôr flex ni un contignidôr gridele ni un contignidôr multi-colone.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> nol à efiet su chest element viodût che nol è un contignidôr multi-colone.
+inactive-css-column-span = <strong>{ $property }</strong> nol à nissun efiet di spanning su chest element viodût che no si cjate intun contignidôr multi-colone.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è un element gridele o flex.
 inactive-css-not-grid-item = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è un element gridele.
 inactive-css-not-grid-container = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è un contignidôr gridele.
@@ -28,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> nol è supuartât tai pseudo-elements “::placeholder”.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> nol à efiets su chest element viodût che il valôr de proprietât “display” al è <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Il valôr di <strong>display</strong> al è stât cambiât a <strong>block</strong> dal motôr, parcè che l'element al è <strong>floated</strong>.
+inactive-css-not-display-block-on-floated-2 = Il valôr di <strong>display</strong> al è stât modificât in <strong>{ $display }</strong> viodût che l’element al è <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Nol è pussibil passâ parsore di <strong>{ $property }</strong> par vie de restrizion <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è un element posizionât.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> nol à efiets su chest element viodût che <strong>overflow:hidden</strong> nol è definît.

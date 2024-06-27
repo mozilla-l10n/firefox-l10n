@@ -412,6 +412,20 @@ support-printing-modified-settings = Impostazions di stampe modificadis
 support-printing-prefs-name = Non
 support-printing-prefs-value = Valôr
 
+## Remote Settings sections
+
+support-remote-settings-title = Impostazions lontanis
+support-remote-settings-status = Stât
+support-remote-settings-status-ok = Va ben
+# Status when synchronization is not working.
+support-remote-settings-status-broken = No funzione
+support-remote-settings-last-check = Ultin control
+support-remote-settings-local-timestamp = Marche temporâl locâl
+support-remote-settings-sync-history = Cronologjie
+support-remote-settings-sync-history-status = Stât
+support-remote-settings-sync-history-datetime = Date
+support-remote-settings-sync-history-infos = Informazions
+
 ## Normandy sections
 
 support-remote-experiments-title = Esperiments di lontan
