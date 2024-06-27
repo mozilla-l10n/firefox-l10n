@@ -304,16 +304,50 @@ newtab-wallpaper-light-blue = Blu clâr
 newtab-wallpaper-light-purple = Viole clâr
 newtab-wallpaper-light-green = Vert clâr
 newtab-wallpaper-green = Vert
+newtab-wallpaper-beige = Beige
+newtab-wallpaper-yellow = Zâl
+newtab-wallpaper-orange = Naranç
+newtab-wallpaper-pink = Rose
+newtab-wallpaper-light-pink = Rose clâr
+newtab-wallpaper-red = Ros
+newtab-wallpaper-dark-blue = Blu scûr
+newtab-wallpaper-dark-purple = Viole scûr
+newtab-wallpaper-dark-green = Vert scûr
+newtab-wallpaper-brown = Maron
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Astrat
+newtab-wallpaper-abstract-green = Formis verdis
+newtab-wallpaper-abstract-blue = Formis blu
+newtab-wallpaper-abstract-purple = Formis viole
+newtab-wallpaper-abstract-orange = Formis naranç
+newtab-wallpaper-gradient-orange = Gradient naranç e rose
+newtab-wallpaper-abstract-blue-purple = Formis blu e viole
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotografiis
+newtab-wallpaper-beach-at-sunrise = Splaze al cricâ dal dì
+newtab-wallpaper-beach-at-sunset = Splaze al tramont
+newtab-wallpaper-storm-sky = Cîl di tampieste
+newtab-wallpaper-sky-with-pink-clouds = Cîl cun nui rose
+newtab-wallpaper-red-panda-yawns-in-a-tree = Panda ros che al sossede suntun arbul
+newtab-wallpaper-white-mountains = Montagnis blancjis
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Foto di <a data-l10n-name="name-link">{ $author_string }</a> su <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Prove une man di colôr
+newtab-wallpaper-feature-highlight-content = Da un aspiet diviers aes tôs gnovis schedis cui fonts.
+newtab-wallpaper-feature-highlight-button = Capît
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Siere
+    .aria-label = Siere barcon a comparse
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
