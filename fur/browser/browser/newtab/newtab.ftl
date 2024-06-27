@@ -295,6 +295,21 @@ newtab-wallpaper-dark-panda = Panda ros platât tal bosc
 newtab-wallpaper-dark-sky = Paisaç di citât cun cîl di gnot
 newtab-wallpaper-dark-mountain = Paisaç cun montagne
 newtab-wallpaper-dark-city = Paisaç citadin cun tonalitât viole
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Colôr solit
+newtab-wallpaper-blue = Blu
+newtab-wallpaper-light-blue = Blu clâr
+newtab-wallpaper-light-purple = Viole clâr
+newtab-wallpaper-light-green = Vert clâr
+newtab-wallpaper-green = Vert
+
+## Abstract
+
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
