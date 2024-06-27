@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Avançar com cuidado
 pane-experimental-search-results-header = Experiências { -brand-short-name }: Prosseguir com cuidado
 pane-experimental-description2 = Alterar definições de configuração avançadas pode interferir com o desempenho ou segurança do { -brand-short-name }.
+pane-experimental-description3 = Experimente as nossas funcionalidades em fase experimental! Estão ainda em desenvolvimento e a evoluir, o que pode influenciar o funcionamento do { -brand-short-name }.
 pane-experimental-reset =
     .label = Repor predefinições
     .accesskey = R
