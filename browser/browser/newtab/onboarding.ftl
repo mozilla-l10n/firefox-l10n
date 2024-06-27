@@ -331,6 +331,8 @@ onboarding-gratitude-security-and-privacy-title = { -brand-short-name } mazal-it
 
 # When translating "next" it means the next screen in onboarding.
 onboarding-new-user-survey-next-button-label = Ɣer zdat
+# When translating "brand new" it means completely new.
+onboarding-new-user-survey-time-based-option-1 = Ad bduɣ kan
 onboarding-new-user-survey-time-based-option-2 = Ur yewwiḍ ara 1 wayyur
 onboarding-new-user-survey-time-based-option-3 = Uagr n 1 wayyut, yal tikkelt
 onboarding-new-user-survey-time-based-option-4 = Uagr n 1 wayyut, sya ɣer da

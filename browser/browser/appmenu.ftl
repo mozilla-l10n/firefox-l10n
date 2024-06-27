@@ -196,6 +196,8 @@ profiler-popup-presets-power-description = Uzwirfren yettufeṣṣlen i usekyed 
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Tazmert
+profiler-popup-presets-debug-label =
+    .label = Taseɣtit
 profiler-popup-presets-custom-label =
     .label = Udmawan
 
