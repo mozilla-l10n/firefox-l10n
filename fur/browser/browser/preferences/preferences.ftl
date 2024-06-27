@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Continue cun cautele
 pane-experimental-search-results-header = Esperiments di { -brand-short-name }: continue cun cautele
 pane-experimental-description2 = La modifiche des impostazions di configurazion avanzadis e pues influî su lis prestazions o la sigurece di { -brand-short-name }.
+pane-experimental-description3 = Prove lis nestris funzions sperimentâls! A son in disvilup e in continue evoluzion, chest al podarès lâ a tocjâ il mût di funzionâ di { -brand-short-name }.
 pane-experimental-reset =
     .label = Ripristine predefinîts
     .accesskey = R
@@ -972,14 +973,6 @@ autofill-payment-methods-checkbox-submessage = Al inclût cjartis di credit e di
     .accesskey = I
 autofill-saved-payment-methods-button = Metodis di paiament salvâts
     .accesskey = v
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Domande la autenticazion di macOS par compilâ e modificâ metodis di paiament.
-        [windows] Domande la autenticazion di Windows par compilâ e modificâ metodis di paiament.
-        [linux] Domande la autenticazion di Linux par compilâ e modificâ metodis di paiament.
-       *[other] Domande la autenticazion par compilâ e modificâ metodis di paiament.
-    }
-    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Domande la conferme dal acès al dispositîf par compilâ in automatic e gjestî i metodis di paiament
     .accesskey = o
@@ -1309,6 +1302,13 @@ privacy-segmentation-radio-off =
     .label = Dopre lis impostazions conseadis di { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostre informazions detaiadis
+
+## Privacy Section - Website Advertising Preferences
+
+website-advertising-header = Impostazions pes publicitâts tai sîts web
+website-advertising-private-attribution =
+    .label = Permet ai sîts web di fâ misurazions publicitariis tal rispiet de riservatece
+    .accesskey = a
 
 ## Privacy Section - Security
 ##

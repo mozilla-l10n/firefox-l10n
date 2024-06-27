@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Pre-configurazion par investigâ sui 
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energjie
+profiler-popup-presets-debug-description = Impostazion prestabilide pal debug in { -brand-shorter-name }. Overhead elevât, no sta doprâlu pes analisis des prestazions, ma dome par capî il compuartament dal navigadôr.
 profiler-popup-presets-debug-label =
     .label = Debug
 profiler-popup-presets-custom-label =
