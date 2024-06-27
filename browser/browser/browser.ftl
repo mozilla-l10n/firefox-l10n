@@ -928,6 +928,9 @@ unified-extensions-button-permissions-needed =
 
 ## Private browsing reset button
 
+reset-pbm-panel-cancel-button =
+    .label = Cancelar
+    .accesskey = C
 
 ## Autorefresh blocker
 

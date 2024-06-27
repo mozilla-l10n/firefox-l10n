@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = No se garantiza que este acc
 ##
 
 xpinstall-disabled-locked = El administrador del sistema desactivó la instalación de software.
+xpinstall-disabled-by-policy = La instalación del software ha sido deshabilitada por su organización.
 xpinstall-disabled = La instalación de software está desactivada. Haz clic en Activar y vuelve a intentarlo.
 xpinstall-disabled-button =
     .label = Activar
