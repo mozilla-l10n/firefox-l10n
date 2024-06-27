@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = 주의해서 사용하세요
 pane-experimental-search-results-header = { -brand-short-name } 실험: 주의해서 사용하세요
 pane-experimental-description2 = 고급 설정을 변경하면 { -brand-short-name }의 성능 또는 보안에 영향을 줄 수 있습니다.
+pane-experimental-description3 = 실험 기능을 사용해 보세요! 개발 및 진화 중이므로 { -brand-short-name } 작동 방식에 영향을 미칠 수 있습니다.
 pane-experimental-reset =
     .label = 기본값으로 복원
     .accesskey = R
