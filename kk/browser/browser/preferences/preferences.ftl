@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Абайлап жалғастырыңыз
 pane-experimental-search-results-header = { -brand-short-name } тәжірибелері: Абайлап жалғастырыңыз
 pane-experimental-description2 = Кеңейтілген баптауларды өзгерту { -brand-short-name } өнімділік немесе қауіпсіздігіне әсерін тигізуі мүмкін.
+pane-experimental-description3 = Эксперименттік мүмкіндіктерімізді қолданып көріңіз! Олар өңделуде және даму үстінде, бұл { -brand-short-name } жұмысына әсер етуі мүмкін.
 pane-experimental-reset =
     .label = Бастапқы мәндерін қайтару
     .accesskey = р

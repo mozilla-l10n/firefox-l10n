@@ -134,6 +134,8 @@ shopping-analysis-explainer-learn-more2 = <a data-l10n-name="review-quality-url"
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Маңызды сәттер</strong> { $retailer } ішінен соңғы 80 күнде алынған, біз сенімді деп ойлайтын пікірлер негізінде алынды.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Маңызды сәттер</strong> соңғы 80 күнде алынған, біз сенімді деп ойлайтын пікірлер негізінде алынды.
 shopping-analysis-explainer-review-grading-scale-reliable = Сенімді пікірлер. Бұл пікірлерді шын, бейтарап пікірлер қалдырған шынайы тұтынушылар жазған деп санаймыз.
 shopping-analysis-explainer-review-grading-scale-mixed = Осында сенімді және сенімсіз пікірлер араласқан деп санаймыз.
 shopping-analysis-explainer-review-grading-scale-unreliable = Сенімсіз пікірлер. Бұл пікірлер жалған немесе біржақты шолушылар қалдырды деп санаймыз.
