@@ -43,9 +43,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Dimension mem. tampon:
-
 perftools-custom-threads-label = Zonte dai threads personalizâts par non:
-
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Threads:
 perftools-devtools-settings-label = Impostazions
@@ -113,7 +111,6 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Salte lis selezions chi parsore e regjistre ducj i threads regjistrâts
-
 perftools-tools-threads-input-label =
     .title = Chescj nons di thread a son une liste separade di virgulis che e ven doprade par ativâ la profilazion dai threads intal profiladôr. Par includi il non, chest al à di jessi dome une corispondence parziâl dal non efetîf dal thread. Al è sensibil ai spazis.
 
@@ -121,7 +118,6 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novitât</b>: { -profiler-brand-name } al è cumò integrât intai struments di disvilup. <a>Scuvierç altris informazions</a> su chest gnûf e potent strument.
-
 perftools-onboarding-close-button =
     .aria-label = Siere il messaç di introduzion
 
@@ -129,32 +125,29 @@ perftools-onboarding-close-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
+# devtools/client/performance-new/shared/background.sys.mjs
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Svilupadôr Web
 perftools-presets-web-developer-description = Preconfigurazion conseade pe plui part dai debug des web-app, cun basse sorecjame.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Preconfigurazion conseade pe profilazion di { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Grafiche
 perftools-presets-graphics-description = Preconfigurazion par investigâ sui erôrs grafics in { -brand-shorter-name }.
-
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Preconfigurazion par investigâ su erôrs audio e video in { -brand-shorter-name }.
-
 perftools-presets-networking-label = Rêt
 perftools-presets-networking-description = Preconfigurazion par investigâ su erôrs di rêt in { -brand-shorter-name }.
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energjie
 perftools-presets-power-description = Pre-configurazion par investigâ sui erôrs di consum di energjie in { -brand-shorter-name }, cun basse sorecjame.
-
+perftools-presets-debug-label = Debug
+perftools-presets-debug-description = Impostazion prestabilide pal debug in { -brand-shorter-name }. Overhead elevât, no sta doprâlu pes analisis des prestazions, ma dome par capî il compuartament dal navigadôr.
 perftools-presets-custom-label = Personalizât
 
 ##

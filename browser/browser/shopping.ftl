@@ -115,6 +115,7 @@ shopping-settings-sidebar-enabled-state = Verifiche recensions e je <strong>ativ
 shopping-adjusted-rating-label =
     .label = Valutazion retificade
 shopping-adjusted-rating-unreliable-reviews = Recensions inafidabilis gjavadis
+shopping-adjusted-rating-based-reliable-reviews = Basât su recensions afidabilis
 
 ## Strings for the review reliability component
 
@@ -133,6 +134,8 @@ shopping-analysis-explainer-learn-more2 = Scuvierç altris informazions su <a da
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = I elements <strong>in evidence</strong> a rivin des recensions su { $retailer } dai ultins 80 dîs che o ritignìn afidabilis.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = I elements <strong>in evidence</strong> a rivin des recensions dai ultims 80 dîs che o crodìn afidabilis.
 shopping-analysis-explainer-review-grading-scale-reliable = Recensions afidabilis. O crodìn che lis recensions a rivedin cun buine probabilitât di clients reâi che a àn lassât recensions onestis e imparziâls.
 shopping-analysis-explainer-review-grading-scale-mixed = O crodìn che e sedi une misture di recensions afidabilis e inafidabilis.
 shopping-analysis-explainer-review-grading-scale-unreliable = Recensions inafidabilis. O crodìn che lis recensions a sedin falsis o che a rivedin di recensôrs di part.

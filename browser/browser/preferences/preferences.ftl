@@ -1309,6 +1309,7 @@ website-advertising-header = Impostazions pes publicitâts tai sîts web
 website-advertising-private-attribution =
     .label = Permet ai sîts web di fâ misurazions publicitariis tal rispiet de riservatece
     .accesskey = a
+website-advertising-private-attribution-description = Chest al permet ai sîts di valutâ lis prestazions dai lôr anuncis cence tirâ dongje dâts personâi.
 
 ## Privacy Section - Security
 ##
