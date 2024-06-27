@@ -135,7 +135,7 @@ shopping-analysis-explainer-learn-more2 = Læs mere om, <a data-l10n-name="revie
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Højdepunkter</strong> stammer fra { $retailer }-anmeldelser fra de seneste 80 dage, som vi vurderer er pålidelige.
 # Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Højdepunkter</strong> stammer fra de seneste 80 dage, som vi vurderer er pålidelige.
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Højdepunkter</strong> stammer fra anmeldelser fra de seneste 80 dage, som vi vurderer er pålidelige.
 shopping-analysis-explainer-review-grading-scale-reliable = Pålidelige anmeldelser. Vi vurderer, at anmeldelserne sandsynligvis stammer fra rigtige kunder, der har givet ærlige og upartiske anmeldelser.
 shopping-analysis-explainer-review-grading-scale-mixed = Vi vurderer, at der findes en blanding af pålidelige og upålidelige anmeldelser.
 shopping-analysis-explainer-review-grading-scale-unreliable = Upålidelige anmeldelser. Vi vurderer, at anmeldelserne sandsynligvis er forfalskede eller stammer fra partiske anmeldere.
