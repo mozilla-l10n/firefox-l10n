@@ -175,6 +175,7 @@ firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Թույլատրե՞լ { -brand-short-name }-ին մերժել թխուկների պաստառները:
 cfr-cbh-dismiss-button = Ոչ հիմա
     .accesskey = N
 cookie-banner-blocker-onboarding-learn-more = Իմանալ ավելին
@@ -193,6 +194,7 @@ set-default-pdf-handler-primary = Հասկացա
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Ձեր ապագայում նոր սարք:
 fxa-sync-cfr-primary = Իմանալ ավելին
     .accesskey = L
 fxa-sync-cfr-secondary = Հիշեցնել ավելի ուշ
@@ -200,9 +202,12 @@ fxa-sync-cfr-secondary = Հիշեցնել ավելի ուշ
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-heavy-user-header = Մի մոռացեք կրկնօրինակել ձեր տվյալները
 device-migration-fxa-spotlight-heavy-user-primary-button = Սկսեք
 device-migration-fxa-spotlight-older-device-header = Մտքի խաղաղություն { -brand-product-name }-ից
 device-migration-fxa-spotlight-older-device-primary-button = Ստեղծել հաշիվ
+device-migration-fxa-spotlight-getting-new-device-header-2 = Ձեր ապագայում նոր սարք:
+device-migration-fxa-spotlight-getting-new-device-primary-button = Ինչպես պահուստավորել իմ տվյալները
 
 ## Set as Default PDF Reader Infobar
 
