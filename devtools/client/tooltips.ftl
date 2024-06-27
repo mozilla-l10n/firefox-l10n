@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name="link">Көбірек білу</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол flex немесе тор контейнері емес.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол flex, тор немесе көпбағандық контейнері емес.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол көпбағанды контейнер емес.
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> қасиеті үшін ::placeholder псевдо-элементтерде қолдау жоқ.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені оның display қасиеті <strong>{ $display }</strong> етіп берілген.
 inactive-css-not-display-block-on-floated = <strong>display</strong> қасиетінің мәні қозғалтқышпен <strong>block</strong> етіп өзгертілді, өйткені элемент <strong>қалқымалы</strong>.
+inactive-css-not-display-block-on-floated-2 = <strong>display</strong> қасиетінің мәні қозғалтқышпен <strong>{ $display }</strong> етіп өзгертілді, өйткені элемент <strong>қалқымалы</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property }</strong> қасиетін <strong>:visited</strong> шектеуі салдарынан үстінен жазу мүмкін емес.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол орны бекітілген элементі емес.
 inactive-css-only-replaced-elements = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол тек ауыстырылған элементтер үшін іске асырылуы мүмкін.
