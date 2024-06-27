@@ -267,3 +267,5 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
+appmenuitem-sign-in-account = Inicie sesión en tu cuenta
+appmenuitem-monitor-title = { -monitor-brand-short-name }
