@@ -42,6 +42,7 @@ inactive-css-not-display-block-on-floated = Il valôr di <strong>display</strong
 inactive-css-not-display-block-on-floated-2 = Il valôr di <strong>display</strong> al è stât modificât in <strong>{ $display }</strong> viodût che l’element al è <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Nol è pussibil passâ parsore di <strong>{ $property }</strong> par vie de restrizion <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è un element posizionât.
+inactive-css-only-replaced-elements = <strong>{ $property }</strong> nol à efiets su chest element viodût che si pues aplicâ dome a un element sostituît.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> nol à efiets su chest element viodût che <strong>overflow:hidden</strong> nol è definît.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> nol à efiets sui elements internis de tabele.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> no à efiets sui elements internis de tabele gjavadis lis celis de tabele.
@@ -49,6 +50,7 @@ inactive-css-not-table = <strong>{ $property }</strong> no à efiets su chest el
 inactive-css-not-table-cell = <strong>{ $property }</strong> nol à efiet su chest element viodût che nol è une cele di une tabele.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> no à efiets su chest element viodût che nol scor.
 inactive-css-border-image = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è pussibil aplicâlu ai elements de tabele interne dulà che <strong>border-collapse</strong> al è metût come <strong>collapse</strong> sul element de tabele dal gjenitôr.
+inactive-css-resize = <strong>{ $property }</strong> nol à efiets su chest element viodût che si pues aplicâ dome a elements cun valôr di overflow diviers di “visible” e a cualchi element sostituît (par es. textarea).
 inactive-css-ruby-element = <strong>{ $property }</strong> nol à efiets su chest element viodût che al è un element pe trascrizion fonetiche (ruby). La sô dimension e je determinade de grandece dal caratar dal test ruby.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -65,6 +67,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] <strong>{ $property }</strong> nol à efiets su chest element par vie che al à plui di { $lineCount } riis.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> nol à efiets su chest element par vie che al è fruçonât, vâl a dî che il so contignût al è distribuît su plui colonis o pagjinis.
+inactive-css-no-width-height = <strong>{ $property }</strong> nol à efiets su chest element viodût che no si pues configurâ la largjece o la altece.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
