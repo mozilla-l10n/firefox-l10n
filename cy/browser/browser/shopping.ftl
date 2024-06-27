@@ -136,6 +136,8 @@ shopping-analysis-explainer-learn-more2 = Darllen rhagor am <a data-l10n-name="r
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Daw <strong>Uchafbwyntiau</strong> o adolygiadau { $retailer } o fewn yr 80 diwrnod diwethaf rydym yn credu eu bod yn ddibynadwy.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = Mae <strong>Uchafbwyntiau</strong> yn dod o adolygiadau o fewn yr 80 diwrnod diwethaf y credwn eu bod yn ddibynadwy.
 shopping-analysis-explainer-review-grading-scale-reliable = Adolygiadau dibynadwy. Rydym yn credu fod yr adolygiadau'n debygol o fod gan gwsmeriaid go iawn sydd wedi gadael adolygiadau gonest, diduedd.
 shopping-analysis-explainer-review-grading-scale-mixed = Rydym yn credu fod yna gymysgedd o adolygiadau dibynadwy ac annibynadwy.
 shopping-analysis-explainer-review-grading-scale-unreliable = Adolygiadau annibynadwy. Rydym yn credu fod yr adolygiadau yn debygol o fod yn rhai ffug neu gan adolygwyr rhagfarnllyd.

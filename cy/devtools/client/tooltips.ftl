@@ -14,6 +14,16 @@ learn-more = <span data-l10n-name ="link">Darllen rhagor</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n gynhwysydd flex nac yn gynhwysydd grid.
 inactive-css-not-grid-or-flex-container-or-multicol-container = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n gynhwysydd fflecs, yn gynhwysydd grid, neu'n gynhwysydd aml-golofn.
 inactive-css-not-multicol-container = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan nad yw'n gynhwysydd aml-golofn.
@@ -29,6 +39,7 @@ inactive-css-first-letter-pseudo-element-not-supported = Nid yw <strong>{ $prope
 inactive-css-placeholder-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar ::placeholder pseudo-elements.
 inactive-css-property-because-of-display = Nid oes gan <strong>{ $property }</strong> unrhyw effaith ar yr elfen hon gan ei bod yn dangos  <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Mae'r peiriant wedi newid y gwerth <strong>display</strong> i <strong>block</strong> oherwydd bod yr elfen yn <strong>arnofio</strong>.
+inactive-css-not-display-block-on-floated-2 = Mae'r gwerth <strong>dangos</strong> wedi ei newid gan yr injan i <strong>{ $display }</strong> oherwydd bod yr elfen yn <strong>arnofio</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Mae'n amhosib diystyru <strong>{ $property }</strong> oherwydd cyfyngiadau <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n eitem wedi'i lleoli.
 inactive-css-only-replaced-elements = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan mai dim ond i elfennau sydd wedi'u disodli y mae modd ei chymhwyso.
@@ -71,6 +82,7 @@ inactive-css-not-grid-or-flex-container-fix = Ceisiwch ychwanegu <strong>display
 inactive-css-not-grid-or-flex-or-block-container-fix = Ceisiwch ychwanegu <strong>display:grid</strong>, <strong>display:flex</strong> neu <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Ceisiwch ychwanegu naill ai <strong>display:grid</strong>, <strong>display:flex</strong>, neu <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Ceisiwch ychwanegu <strong>column-count</strong> neu <strong>column-width</strong>. { learn-more }
+inactive-css-column-span-fix = Ceisiwch ychwanegu <strong>column-count</strong> neu <strong>column-width</strong> at un o'i elfennau hynafiaid . { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Ceisiwch ychwanegu <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> neu <strong>display:inline-flex</strong> i riant yr elfen. { learn-more }
 inactive-css-not-grid-item-fix-2 = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong> at riant yr elfen. { learn-more }
 inactive-css-not-grid-container-fix = Ceisiwch ychwanegu <strong>display:grid</strong> neu <strong>display:inline-grid</strong>. { learn-more }
@@ -81,6 +93,7 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Ceisiwch ychwan
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Ceisiwch ychwanegu <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Ceisiwch dynnu <strong>float</strong> neu <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Ceisiwch osod priodwedd ei <strong>leoliad</strong> i rywbeth arall heblaw <strong>statig</strong>. { learn-more }
+inactive-css-only-replaced-elements-fix = Gwnewch yn siŵr eich bod yn ychwanegu'r briodwedd at elfen newydd. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Ceisiwch ychwanegu <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>cell-tabl</strong>, <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ceisiwch osod ei briodwedd <strong>arddangos</strong> i rywbeth arall heblaw <strong>colofn-tabl</strong>, <strong>rhes-tabl</strong>, <strong>tabl-colofn-grŵp</strong>, <strong>tabl-rhes-grŵp</strong>, neu <strong>tabl-troedyn-grŵp</strong>. { learn-more }
@@ -88,6 +101,7 @@ inactive-css-not-table-fix = Ceisiwch ychwanegu <strong>display:table</strong> n
 inactive-css-not-table-cell-fix = Ceisiwch ychwanegu <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Ceisiwch ychwanegu <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> neu <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Ar yr elfen tabl rhiant, tynnwch y briodwedd neu newidiwch werth <strong>cwymp-ffiniol</strong> i werth heblaw <strong>cwymp</strong>. { learn-more }
+inactive-css-resize-fix = Ceisiwch osod <strong>gorlif</strong> i werth heblaw <strong>gweladwy</strong> neu dargedu elfen newydd sy'n ei gynnal. { learn-more }
 inactive-css-ruby-element-fix = Ceisio newid <strong>maint ffont</strong> y testun ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Ceisiwch leihau nifer y llinellau.{ learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Osgowch hollti cynnwys yr elfen e.e. drwy dynnu'r colofnau neu drwy ddefnyddio <strong>page-break-inside:avoid</strong>.{ learn-more }
