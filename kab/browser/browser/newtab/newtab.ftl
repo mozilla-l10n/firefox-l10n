@@ -272,10 +272,29 @@ newtab-wallpaper-reset = Wennez ɣer umezwer
 newtab-wallpaper-light-red-panda = Apunda azewwaɣ
 newtab-wallpaper-light-mountain = Adrar amellal
 newtab-wallpaper-dark-mountain = Tugna n yidurar
+
+## Solid Colors
+
+newtab-wallpaper-blue = Amidadi
+newtab-wallpaper-green = Azegzaw
+newtab-wallpaper-yellow = Awraɣ
+newtab-wallpaper-orange = Ačinawi
+newtab-wallpaper-pink = Axuxi
+newtab-wallpaper-red = Azggaɣ
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Amadwan
+
+## Photographs
+
+newtab-wallpaper-white-mountains = Idurar imellalen
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Tawlaft s <a data-l10n-name="name-link">{ $author_string }</a> ɣef <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Ɛreḍ aṛuccu n yini
+newtab-wallpaper-feature-highlight-button = Awi-t
 
 ## New Tab Weather
 
