@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = 三思而后行
 pane-experimental-search-results-header = { -brand-short-name } 实验：三思而后行
 pane-experimental-description2 = 更改高级配置的设置可能会影响 { -brand-short-name } 的性能和安全性。
+pane-experimental-description3 = 欢迎试用我们的实验性功能！这些功能尚在开发和改进，可能会影响 { -brand-short-name } 的运作方式。
 pane-experimental-reset =
     .label = 恢复默认设置
     .accesskey = R
