@@ -5,9 +5,45 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Traducir esta página
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Traducir esta página - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Prueba traducciones privadas en { -brand-shorter-name } - Beta
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = Página traducida del { $fromLanguage } al { $toLanguage }
+urlbar-translations-button-loading =
+    .tooltiptext = Traducción en progreso
+translations-panel-settings-button =
+    .aria-label = Administrar los ajustes de traducción
+# Text displayed on a language dropdown when the language is in beta
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-displayname-beta =
+    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
+translations-panel-settings-manage-languages =
+    .label = Administrar idiomas
+translations-panel-settings-about = Acerca de las traducciones en { -brand-shorter-name }
+translations-panel-settings-about2 =
+    .label = Acerca de las traducciones en { -brand-shorter-name }
+translations-panel-settings-always-translate-unknown-language =
+    .label = Siempre traduce este idioma
+translations-panel-settings-always-offer-translation =
+    .label = Siempre ofrecer traducir
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
