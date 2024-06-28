@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Tiến hành thận trọng
 pane-experimental-search-results-header = Thử nghiệm { -brand-short-name }: Tiến hành thận trọng
 pane-experimental-description2 = Thay đổi cài đặt cấu hình nâng cao có thể ảnh hưởng đến hiệu suất hoặc bảo mật của { -brand-short-name }.
+pane-experimental-description3 = Hãy dùng thử các tính năng thử nghiệm của chúng tôi! Chúng đang trong quá trình phát triển, điều này có thể ảnh hưởng đến cách { -brand-short-name } hoạt động.
 pane-experimental-reset =
     .label = Khôi phục về mặc định
     .accesskey = R
