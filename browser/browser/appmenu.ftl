@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Mussar dapli tabs
     .tooltiptext = Mussar ulteriurs tabs da quest apparat
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Mussar in tab inactiv
-           *[other] Mussar { $count } tabs inactivs
-        }
-    .tooltiptext = Mussar ils tabs inactivs sin quest apparat
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Tabs inactivs
@@ -206,6 +196,9 @@ profiler-popup-presets-power-description = Preselecziun per examinar sbagls en c
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+profiler-popup-presets-debug-description = Configuraziun predefinida per il debugadi en { -brand-shorter-name }. In grond overhead, betg utilisar per analisar la prestaziun, ma per chapir il cumportament dal navigatur.
+profiler-popup-presets-debug-label =
+    .label = Debugadi
 profiler-popup-presets-custom-label =
     .label = Persunalisà
 
