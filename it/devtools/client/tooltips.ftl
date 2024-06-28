@@ -64,6 +64,8 @@ inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $pro
 
 inactive-css-not-table = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è una tabella.
 
+inactive-css-collapsed-table-borders = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto è una tabella con bordi collassati.
+
 inactive-css-not-table-cell = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è una cella di una tabella.
 
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non prevede scorrimento (”scroll”).
@@ -133,6 +135,8 @@ inactive-css-not-for-internal-table-elements-fix = Provare a impostare per la pr
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Provare a impostare per la proprietà <strong>display</strong> un valore diverso da <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
 
 inactive-css-not-table-fix = Provare ad aggiungere <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
+
+inactive-css-collapsed-table-borders-fix = Provare ad aggiungere <strong>border-collapse:separate</strong>. { learn-more }
 
 inactive-css-not-table-cell-fix = Provare ad aggiungere <strong>display:table-cell</strong>. { learn-more }
 
