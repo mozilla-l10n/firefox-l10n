@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Jatka varoen
 pane-experimental-search-results-header = { -brand-short-name }-kokeilut: jatka varoen
 pane-experimental-description2 = Lisäasetusten muuttaminen voi vaikuttaa { -brand-short-name }in suorituskykyyn tai tietoturvaan.
+pane-experimental-description3 = Kokeile kokeellisia ominaisuuksiamme! Niitä kehitetään, mikä saattaa vaikuttaa siihen, miten { -brand-short-name } toimii.
 pane-experimental-reset =
     .label = Palauta oletukset
     .accesskey = P
