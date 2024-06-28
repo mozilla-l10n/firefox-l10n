@@ -393,6 +393,7 @@ about-logins-import-report-row-index = Cholaj { $number }
 about-logins-import-report-row-description-no-change = Kamulun: ütz nuk'äm ri' ri retal ruwujil k'o
 about-logins-import-report-row-description-modified = K'exon rutikirib'al molojri'ïl k'o wakami
 about-logins-import-report-row-description-added = Xtz'aqatisäx k'ak'a' tikirib'äl molojri'ïl
+about-logins-import-report-row-description-added2 = K'ak'a' ewan tzij xtz'aqatisäx
 about-logins-import-report-row-description-error = Sachoj: K'ojlib'äl k'a k'o na
 
 ##

@@ -22,12 +22,10 @@ about-private-browsing-not-private = Wakami man at k'o ta chupam jun ichinan tzu
 about-private-browsing-info-description-private-window = Ichinan tzuwäch: { -brand-short-name } nuyüj ri runatab'al xakanoj chuqa' awokik'amaya'l toq ye'atz'apij ri ichinan taq tzuwäch, po man yatrewaj ta.
 about-private-browsing-info-description-simplified = { -brand-short-name } nuyüj ri runatab'al xakanoj chuqa' awokik'amaya'l toq ye'atz'apij ri ichinan taq tzuwäch, po man yatrewaj ta.
 about-private-browsing-learn-more-link = Tetamäx ch'aqa' chik
-
 about-private-browsing-hide-activity = Tawewaj ri asamaj chuqa' ri ak'ojlib'al, xab'akuchi' at k'o wi
 about-private-browsing-get-privacy = Tak'ulu' ato'ik pa ruwi' ichinanem xab'akuchi' yatok wi pa k'amaya'l
 about-private-browsing-hide-activity-1 = Tawewaj ri asamaj pa ruwi' okem pa k'amaya'l chuqa' ri ak'ojlib'al rik'in { -mozilla-vpn-brand-name }. Jun pitz'oj nunük' jun jikïl okem, achi'el chuqa' pa winaqil Wi-Fi.
 about-private-browsing-prominent-cta = Tachajij ri awichinanem rik'in { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Tiqasäx { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ichinan okem xab'akuchi'
 about-private-browsing-focus-promo-text = Ri ruchokoy qoyonib'al nusamajij ichinan okem junelik yeruyüj ri taq natab'äl chuqa' taq koki.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Tak'waj ri ichinan okem pa k'amaya
 about-private-browsing-focus-promo-text-b = Tawokisaj { -focus-brand-name } toq yakanon pan ewäl, ri man nawajo' ta chi nutzu' ri nab'ey awokik'amaya'l.
 about-private-browsing-focus-promo-header-c = Nïm runimilem ichinanem pa taq oyonib'äl
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } jantape' yeruyüj ri taq anatab'al toq yeruq'ät taq rutzijol chuqa' taq ojqanela'.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Titz'apïx
-
 about-private-browsing-promo-close-button =
     .title = Titz'apïx
 
@@ -72,3 +68,9 @@ about-private-browsing-pin-promo-title = Majun kuki chuqa' natab'äl eyakon, jum
 about-private-browsing-cookie-banners-promo-header = Xek'is ri taq kib'aner koki!
 about-private-browsing-cookie-banners-promo-button = Kech'utinär ri taq kib'aner koki
 about-private-browsing-cookie-banners-promo-message = Tiya' q'ij chi ri { -brand-short-name } pa ruyonil tutzolij kitzij ri elenel taq kuki richin majun nimejo' ri awokem pa k'amaya'l.{ -brand-short-name } xkeruxutuj ronojel ri taq taqoj xkekik'utuj we k'amonel.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = Man taya' kan awetal pa re okisaxel re'
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } yeruyüj ri taq acookie, natab'äl chuqa' taq rutzij ruxaq k'amaya'l toq ye'atz'apij ronojel ri ichinan taq atzuwäch.
+about-private-browsing-felt-privacy-v1-info-link = ¿Achike taq k'a nitz'eton ri nasamajij?
