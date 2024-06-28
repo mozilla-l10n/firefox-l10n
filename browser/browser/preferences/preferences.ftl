@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Prossiga com cautela
 pane-experimental-search-results-header = Experimentos no { -brand-short-name }: Prossiga com cautela
 pane-experimental-description2 = Alterar configurações avançadas pode afetar o desempenho ou segurança do { -brand-short-name }.
+pane-experimental-description3 = Experimente nossos recursos experimentais! Eles estão em desenvolvimento e em evolução, o que pode afetar o funcionamento do { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar padrão
     .accesskey = R
