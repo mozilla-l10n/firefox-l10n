@@ -96,3 +96,15 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } tab è arrivà
        *[other] { $tabCount } tabs èn arrivads
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Mussar ils tabs serrads dacurt
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] Serrà { $closedCount } tab da { -brand-short-name }
+       *[other] Serrà { $closedCount } tabs da { -brand-short-name }
+    }
