@@ -168,6 +168,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Chilab'en runuk'ulem richin yesamajïx b'ama konojel ri taq ruchokoy okik'amaya'l, rik'in jub'a' uchuq'ab'il.
 profiler-popup-presets-web-developer-label =
     .label = Nuk'unel ajk'amaya'l
@@ -187,6 +192,8 @@ profiler-popup-presets-power-description = Runuk'ulem richin yekanöx sachoj rok
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Uchuq'a'
+profiler-popup-presets-debug-label =
+    .label = Tichojmirisäx
 profiler-popup-presets-custom-label =
     .label = Ichinan
 
@@ -255,3 +262,9 @@ appmenu-customizetoolbar =
 appmenu-developer-tools-subheader = Rusamajib'al Okik'amaya'l
 appmenu-developer-tools-extensions =
     .label = Kik'amal B'anonela'
+appmenuitem-report-broken-site =
+    .label = Tiya' rutzijol jun ruxaq man nisamäj ta
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Katok pa rub'i' ataqoya'l

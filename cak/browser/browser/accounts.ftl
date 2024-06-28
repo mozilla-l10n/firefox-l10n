@@ -103,3 +103,8 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = Ketz'et taq ruwi' k'a b'a' ketz'apïx
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } { -brand-short-name } ruwi' xtz'apïx
+       *[other] { $closedCount } { -brand-short-name } ruwi' xetz'apïx
+    }

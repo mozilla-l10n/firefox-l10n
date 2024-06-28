@@ -49,6 +49,8 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) q'aton ruma ri runuk'samajel q'inoj.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ri runuk'samajel aq'inoj xuq'ät chi re ruxaq k'amaya'l re' nuk'utuj chawe chi nuyäk qa solkema' pan akematz'ib'.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = Ri amoloj xuq'ät chi re ruxaq k'amaya'l re' nuk'utuj chawe chi nuyäk qa solkema' pan akematz'ib'.
 addon-install-full-screen-blocked = Man okel ta yeyak taq tz'aqat toq o chuwäch nib'an okem pa chijun ruwäch.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
