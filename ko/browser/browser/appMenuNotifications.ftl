@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available2 =
-    .label = 업데이트 가능
+    .label = 업데이트 있음
     .buttonlabel = 다운로드
     .buttonaccesskey = D
     .secondarybuttonlabel = 닫기
     .secondarybuttonaccesskey = m
 appmenu-update-available-message2 = 최신 버전의 { -brand-shorter-name }를 다운로드하세요.
 appmenu-update-manual2 =
-    .label = 업데이트 가능
+    .label = 업데이트 있음
     .buttonlabel = 다운로드
     .buttonaccesskey = D
     .secondarybuttonlabel = 닫기
@@ -24,7 +24,7 @@ appmenu-update-unsupported2 =
     .secondarybuttonaccesskey = m
 appmenu-update-unsupported-message2 = 운영 체제가 최신 버전의 { -brand-shorter-name }와 호환되지 않습니다.
 appmenu-update-restart2 =
-    .label = 업데이트 가능
+    .label = 업데이트 있음
     .buttonlabel = 업데이트하고 다시 시작
     .buttonaccesskey = U
     .secondarybuttonlabel = 닫기

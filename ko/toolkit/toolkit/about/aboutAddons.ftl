@@ -137,9 +137,9 @@ addon-category-dictionary-title =
 addon-category-locale = 언어팩
 addon-category-locale-title =
     .title = 언어팩
-addon-category-available-updates = 업데이트 가능
+addon-category-available-updates = 업데이트 있음
 addon-category-available-updates-title =
-    .title = 업데이트 가능
+    .title = 업데이트 있음
 addon-category-recent-updates = 최근 업데이트
 addon-category-recent-updates-title =
     .title = 최근 업데이트
@@ -199,7 +199,7 @@ addon-updates-reset-updates-to-manual = 모든 부가 기능을 수동 업데이
 addon-updates-updating = 업데이트 확인 중…
 addon-updates-installed = 업데이트 완료
 addon-updates-none-found = 업데이트 없음
-addon-updates-manual-updates-found = 업데이트 가능 항목 보기
+addon-updates-manual-updates-found = 업데이트 있는 항목 보기
 
 ## Add-on install/debug strings for page options menu
 
@@ -413,7 +413,7 @@ addon-badge-verified2 =
 
 ##
 
-available-updates-heading = 업데이트 가능
+available-updates-heading = 업데이트 있음
 recent-updates-heading = 최근 업데이트
 release-notes-loading = 로드 중…
 release-notes-error = 죄송합니다. 출시 정보를 로드하는 중에 오류가 발생했습니다.
