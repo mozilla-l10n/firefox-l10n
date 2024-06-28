@@ -8,13 +8,13 @@
 appmenuitem-banner-update-downloading =
     .label = { -brand-shorter-name } 업데이트 다운로드 중
 appmenuitem-banner-update-available =
-    .label = 업데이트 가능 — 지금 다운로드
+    .label = 업데이트 있음 — 지금 다운로드
 appmenuitem-banner-update-manual =
-    .label = 업데이트 가능 — 지금 다운로드
+    .label = 업데이트 있음 — 지금 다운로드
 appmenuitem-banner-update-unsupported =
     .label = 업데이트할 수 없음 — 시스템이 호환되지 않음
 appmenuitem-banner-update-restart =
-    .label = 업데이트 가능 — 지금 다시 시작
+    .label = 업데이트 있음 — 지금 다시 시작
 appmenuitem-new-tab =
     .label = 새 탭
 appmenuitem-new-window =
