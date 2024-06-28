@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Proceder con precaución
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: proceder con precaución
 pane-experimental-description2 = Cambiar las preferencias de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
+pane-experimental-description3 = ¡Pruebe nuestras características experimentales! Están en desarrollo y evolucionando, lo que podría tener impacto en el funcionamiento de { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaurar predeterminados
     .accesskey = R
