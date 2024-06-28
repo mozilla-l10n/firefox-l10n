@@ -134,6 +134,8 @@ shopping-analysis-explainer-learn-more2 = Tìm hiểu thêm về <a data-l10n-na
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Điểm nổi bật</strong> từ { $retailer } đánh giá trong vòng 80 ngày qua mà chúng tôi tin là đáng tin cậy.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = <strong>Điểm nổi bật</strong> từ đánh giá trong vòng 80 ngày qua mà chúng tôi tin là đáng tin cậy.
 shopping-analysis-explainer-review-grading-scale-reliable = Đánh giá đáng tin cậy. Chúng tôi tin rằng các đánh giá có thể đến từ những khách hàng thực sự đã để lại những đánh giá trung thực, không thiên vị.
 shopping-analysis-explainer-review-grading-scale-mixed = Chúng tôi tin rằng có sự kết hợp giữa các đánh giá đáng tin cậy và không đáng tin cậy.
 shopping-analysis-explainer-review-grading-scale-unreliable = Đánh giá không đáng tin cậy. Chúng tôi tin rằng các đánh giá có thể là giả mạo hoặc từ những người đánh giá thiên vị.
