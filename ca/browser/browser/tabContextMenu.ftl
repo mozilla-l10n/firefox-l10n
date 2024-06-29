@@ -72,6 +72,9 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Tanca diverses pestanyes
     .accesskey = a
+tab-context-close-duplicate-tabs =
+    .label = Tanca les pestanyes duplicades
+    .accesskey = u
 tab-context-share-url =
     .label = Comparteix
     .accesskey = x
@@ -100,7 +103,6 @@ tab-context-move-tabs =
            *[other] Mou les pestanyes
         }
     .accesskey = M
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
