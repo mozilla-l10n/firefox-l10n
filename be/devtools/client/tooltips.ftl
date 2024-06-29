@@ -68,6 +68,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[many] <strong>{ $property }</strong> не ўплывае на гэты элемент, бо ён мае больш за { $lineCount } радкоў.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> не ўплывае на гэты элемент, таму што ён фрагментаваны, г.зн. яго змесціва падзелена на некалькі слупкоў ці старонак.
+inactive-css-no-width-height = <strong>{ $property }</strong> не ўплывае на гэты элемент, паколькі яго шырыню і вышыню нельга ўсталяваць.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -78,6 +79,7 @@ inactive-css-not-grid-or-flex-container-fix = Паспрабуйце дадац�
 inactive-css-not-grid-or-flex-or-block-container-fix = Паспрабуйце дадаць <strong>display:grid</strong>, <strong>display:flex</strong> або <strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Паспрабуйце дадаць <strong>display:grid</strong>, <strong>display:flex</strong>, або <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Паспрабуйце дадаць <strong>column-count</strong> або <strong>column-width</strong>. { learn-more }
+inactive-css-column-span-fix = Паспрабуйце дадаць <strong>column-count</strong> або <strong>column-width</strong> да аднаго з бацькоўскіх элементаў. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Паспрабуйце дадаць <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> цi <strong>display:inline-flex</strong> да бацькоўскага элемента. { learn-more }
 inactive-css-not-grid-item-fix-2 = Паспрабуйце дадаць <strong>display:grid</strong> ці <strong>display:inline-grid</strong> да бацькоўскага элемента. { learn-more }
 inactive-css-not-grid-container-fix = Паспрабуйце дадаць <strong>display:grid</strong> ці <strong>display:inline-grid</strong>. { learn-more }
@@ -88,6 +90,7 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Паспраб�
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Паспрабуйце дадаць <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Паспрабуйце выдаліць <strong>float</strong> або дадаць <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Паспрабуйце ўсталяваць яго ўласцівасць <strong>position</strong> на што-небудзь іншае, ніж <strong>static</strong>. { learn-more }
+inactive-css-only-replaced-elements-fix = Пераканайцеся, што дадаяце ўласцівасць да замененага элемента. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Паспрабуйце дадаць <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Паспрабуйце ўстанавіць для ўласцівасці <strong>display</strong> нешта іншае, ніж <strong>table-cell </strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ці <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Паспрабуйце ўстанавіць для ўласцівасці <strong>display</strong> нешта іншае, ніж <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ці <strong>table-footer-group</strong>. { learn-more }
@@ -95,6 +98,7 @@ inactive-css-not-table-fix = Паспрабуйце дадаць <strong>display
 inactive-css-not-table-cell-fix = Паспрабуйце дадаць <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Паспрабуйце дадаць <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> альбо <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = У элеменце бацькоўскай табліцы выдаліце ўласцівасць або змяніце значэнне <strong>border-collapse</strong> на іншае, ніж <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Паспрабуйце ўсталяваць для <strong>overflow</strong> значэнне, адрознае ад <strong>visible</strong>, ці нацэліць на заменены элемент, які падтрымлівае яго. { learn-more }
 inactive-css-ruby-element-fix = Паспрабуйце змяніць <strong>font-size</strong> тэксту ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Паспрабуйце паменшыць колькасць радкоў. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Пазбягайце падзелу змесціва элемента, напрыклад. шляхам выдалення слупкоў або выкарыстання <strong>page-break-inside:avoid</strong>. { learn-more }
