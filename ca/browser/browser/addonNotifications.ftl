@@ -40,6 +40,7 @@ site-permission-install-first-prompt-midi-message = No es garanteix que aquest a
 ##
 
 xpinstall-disabled-locked = L'administrador del sistema ha inhabilitat la instal·lació de programari.
+xpinstall-disabled-by-policy = La vostra organització ha inhabilitat la instal·lació de programari.
 xpinstall-disabled = Actualment la instal·lació de programari està inhabilitada. Feu clic a Habilita i torneu-ho a provar.
 xpinstall-disabled-button =
     .label = Habilita
@@ -51,6 +52,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = L'administrador del sistema ha blocat { $addonName } ({ $addonId }).
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = L'administrador del sistema ha evitat que aquest lloc us demani instal·lar programari al vostre ordinador.
+# This message is shown when the installation of an add-on is blocked by enterprise policy.
+# Variables:
+#   $addonName (String): the name of the add-on.
+#   $addonId (String): the ID of add-on.
+addon-installation-blocked-by-policy = La vostra organització ha blocat { $addonName } ({ $addonId })
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-install-domain-blocked-by-policy = La vostra organització ha evitat que aquest lloc us demani instal·lar programari a l'ordinador.
 addon-install-full-screen-blocked = No es permet instal·lar cap complement mentre estigueu en el mode de pantalla completa, o abans d'entrar-hi.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.

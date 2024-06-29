@@ -63,6 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = Sincronitzeu les adreces d'interès a tot arreu.
 cfr-doorhanger-bookmark-fxa-body = Una gran troballa! No us quedeu sense aquesta adreça d'interès en els vostres dispositius mòbils. Creeu un { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body-2 = Una gran troballa! No us quedeu sense aquesta adreça d'interès en els vostres dispositius mòbils. Creeu un compte per començar.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronitza ara les adreces d'interès…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botó Tanca
@@ -203,8 +204,9 @@ cfr-cbh-confirm-button = Rebutja els bàners de galetes
     .accesskey = R
 cfr-cbh-dismiss-button = Ara no
     .accesskey = n
-cookie-banner-blocker-cfr-header = El { -brand-short-name } ha blocat galetes
-cookie-banner-blocker-cfr-body = Rebutgem automàticament moltes finestres emergents de galetes perquè sigui difícil que els llocs us facin un seguiment.
+cookie-banner-blocker-onboarding-header = El { -brand-short-name } ha rebutjat un bàner de galetes
+cookie-banner-blocker-onboarding-body = Menys distraccions, menys galetes que us fan el seguiment en aquest lloc.
+cookie-banner-blocker-onboarding-learn-more = Més informació
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
@@ -234,10 +236,9 @@ fxa-sync-cfr-secondary = Recorda-m'ho més tard
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = Utilitzeu un dispositiu més antic?
-device-migration-fxa-spotlight-body = Feu una còpia de seguretat de les vostres dades per assegurar-vos de no perdre informació important, com les adreces d'interès i les contrasenyes, sobretot si canvieu a un dispositiu nou.
-device-migration-fxa-spotlight-primary-button = Com puc fer una còpia de seguretat de les meves dades
-device-migration-fxa-spotlight-link = Recorda-m'ho més tard
+device-migration-fxa-spotlight-heavy-user-header = No oblideu fer una còpia de seguretat de les vostres dades
+device-migration-fxa-spotlight-heavy-user-primary-button = Inicia
+device-migration-fxa-spotlight-older-device-primary-button = Crea un compte
 device-migration-fxa-spotlight-getting-new-device-header-2 = Penseu adquirir un dispositiu nou en el futur?
 device-migration-fxa-spotlight-getting-new-device-primary-button = Com puc fer una còpia de seguretat de les meves dades
 
@@ -265,3 +266,8 @@ launch-on-login-infobar-reject-button = Ara no
 launch-on-login-infobar-final-message = <strong>Voleu que s'obri el { -brand-short-name } cada vegada que reinicieu l'ordinador?</strong> Per gestionar les preferències d'inici, cerqueu «inici» en els paràmetres.
 launch-on-login-infobar-final-reject-button = No, gràcies
     .accesskey = N
+
+## Tail Fox Set Default Spotlight
+
+tail-fox-spotlight-primary-button = Obre els enllaços amb el { -brand-short-name }
+tail-fox-spotlight-secondary-button = Ara no
