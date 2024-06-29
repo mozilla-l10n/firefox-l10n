@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Daŭrigu singarde
 pane-experimental-search-results-header = Eksperimentoj de { -brand-short-name }: daŭrigu singarde
 pane-experimental-description2 = Ŝanĝo de spertulaj agordoj povas influi la efikecon aŭ sekurecon de { -brand-short-name }.
+pane-experimental-description3 = Provu niajn eksperimentajn trajtojn! Ili disvolviĝas kaj evoluas, kio povus efiki sur la maniero funkcii de { -brand-short-name }.
 pane-experimental-reset =
     .label = Remeti normojn
     .accesskey = R
@@ -599,6 +600,10 @@ home-prefs-recent-activity-description = Elekto de ĵusaj retejoj kaj enhavoj
 home-prefs-snippets-header =
     .label = Fragmentoj
 home-prefs-snippets-description-new = Konsiletoj kaj novaĵoj de { -vendor-short-name } kaj { -brand-product-name }
+home-prefs-weather-header =
+    .label = Vetero
+home-prefs-weather-description = Rapida rigardo al la veterprognozo hodiaŭa
+home-prefs-weather-learn-more-link = Pli da informo
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -912,6 +917,9 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Uzi ĉefan pasvorton
     .accesskey = U
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = Postuli komencon de seanco en  la aparato por enigi kaj administri pasvortojn
 forms-primary-pw-learn-more-link = Pli da informo
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -958,14 +966,6 @@ autofill-payment-methods-checkbox-submessage = Inkluzivi kreditajn kaj debetajn 
     .accesskey = k
 autofill-saved-payment-methods-button = Konservitaj pagmetodoj
     .accesskey = p
-autofill-reauth-checkbox =
-    { PLATFORM() ->
-        [macos] Aŭtentigado de macOS postulata por plenigi kaj redakti pagmetodojn.
-        [windows] Aŭtentigado de Windows postulata por plenigi kaj redakti pagmetodojn.
-        [linux] Aŭtentigado de Linux postulata por plenigi kaj redakti pagmetodojn.
-       *[other] Aŭtentigado postulata por plenigi kaj redakti pagmetodojn.
-    }
-    .accesskey = A
 
 ## Privacy Section - History
 
@@ -1292,6 +1292,9 @@ privacy-segmentation-radio-off =
     .label = Uzi la rekomendojn de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Montri detalan informon
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##
