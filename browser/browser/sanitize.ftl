@@ -28,6 +28,9 @@ clear-data-settings-label = En tancar el { -brand-short-name }, esborra automàt
 clear-time-duration-prefix =
     .value = Interval de temps que s'esborrarà:{ " " }
     .accesskey = r
+clear-time-duration-prefix2 =
+    .value = Quan:
+    .accesskey = Q
 clear-time-duration-value-last-hour =
     .label = La darrera hora
 clear-time-duration-value-last-2-hours =
@@ -48,9 +51,22 @@ history-section-label = Historial
 item-history-and-downloads =
     .label = Historial de navegació i de baixades
     .accesskey = H
+item-history-form-data-downloads =
+    .label = Historial
+    .accesskey = H
 item-cookies =
     .label = Galetes
     .accesskey = G
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Galetes i dades dels llocs ({ $amount } { $unit })
+    .accesskey = G
+item-cookies-site-data =
+    .label = Galetes i dades dels llocs
+    .accesskey = G
+item-cookies-site-data-description = Pot fer que se us tanquin les sessions o que se us buidin els carros de la compra
 item-active-logins =
     .label = Sessions actives
     .accesskey = S
@@ -60,6 +76,9 @@ item-cache =
 item-form-search-history =
     .label = Historial de formularis i de cerques
     .accesskey = F
+item-site-prefs =
+    .label = Paràmetres del lloc
+    .accesskey = P
 data-section-label = Dades
 item-site-settings =
     .label = Paràmetres del lloc
@@ -72,6 +91,10 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Esborra-ho ara
+sanitize-button-ok2 =
+    .label = Esborra
+sanitize-button-ok-on-shutdown =
+    .label = Desa els canvis
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

@@ -107,6 +107,13 @@ permissions-exceptions-saved-logins-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = No es desaran les dades d'inici de sessió dels llocs web següents:
 
+## Exceptions - Saved Passwords
+
+permissions-exceptions-saved-passwords-window =
+    .title = Excepcions - Contrasenyes desades
+    .style = { permissions-window2.style }
+permissions-exceptions-saved-passwords-desc = El { -brand-short-name } no desarà les contrasenyes dels llocs llistats aquí.
+
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =

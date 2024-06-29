@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Compres en el { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Verificador de ressenyes
@@ -55,10 +56,18 @@ shopping-message-bar-thanks-for-reporting =
 shopping-message-bar-warning-product-not-available-reported =
     .heading = Informació disponible pròximament
     .message = Hauríem de tenir informació sobre les ressenyes d'aquest producte en un termini de 24 hores. Torneu a comprovar-ho.
+shopping-message-bar-analysis-in-progress-title2 = S'està comprovant la qualitat de la ressenya
 shopping-message-bar-analysis-in-progress-message2 = Això podria trigar uns 60 segons.
+# Variables:
+#  $percentage (Number) - The percentage complete that the analysis is, per our servers.
+shopping-message-bar-analysis-in-progress-with-amount = Comprovació de la qualitat de les ressenyes ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = No podem comprovar aquestes ressenyes
     .message = Malauradament, no podem comprovar la qualitat de les ressenyes per certs tipus de productes. Per exemple, targetes de regal, transmissions de vídeo, música i jocs.
+shopping-message-bar-keep-closed-header =
+    .heading = Voleu tancar-ho?
+    .message = Podeu actualitzar els paràmetres per tal que el Verificador de ressenyes estigui tancat per defecte. Ara s'obre automàticament.
+shopping-message-bar-keep-closed-dismiss-button = No, gràcies
 
 ## Strings for the product review snippets card
 
@@ -101,14 +110,6 @@ shopping-analysis-explainer-label =
     .label = Com es determina la qualitat de la ressenya
 
 ## Strings for UrlBar button
-
-
-## Strings for the unanalyzed product card.
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
 
 
 ## Strings for the unanalyzed product card.
