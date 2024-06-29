@@ -14,9 +14,20 @@ learn-more = <span data-l10n-name="link">Pli da informo</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## The variables are all passed from the same place, in `InactiveCssTooltipHelper#getTemplate`
+## (devtools/client/shared/widgets/tooltip/inactive-css-tooltip-helper.js#95)
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento, ĉar ĝi estas nek ingo flex nek ingo krada.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas ingo flex, ingo krada aŭ ingo plurkolumna.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas plurkolumna ingo.
+inactive-css-column-span = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas ene de plurkolumna ingo.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas ingo flex aŭ ingo krada.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas krada elemento.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas ingo krada.
@@ -28,8 +39,10 @@ inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> ne estas subtenata en kazaŭelementoj ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝia atributo "display" estas <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = La valoro de <strong>display</strong> estis ŝanĝita de la motoro al <strong>block</strong> ĉar la elemento estas <strong>floated</strong>.
+inactive-css-not-display-block-on-floated-2 = La valoro de <strong>display</strong> estis ŝanĝita de la motoro al <strong>{ $display }</strong> ĉar la elemento estas <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Ne eblas superregi <strong>{ $property }</strong> pro limigo de <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas lokita elemento.
+inactive-css-only-replaced-elements = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi povas esti aplikita nur al anstataŭitaj elementoj.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar <strong>overflow:hidden</strong> ne havas valoron.
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ne efikas sur internaj elementoj de tabelo.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ne efikas sur internaj elementoj de tabelo, krom se ili estas ĉeloj.
