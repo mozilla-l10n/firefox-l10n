@@ -135,7 +135,7 @@ shopping-analysis-explainer-learn-more2 = Eikuaave <a data-l10n-name="review-qua
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Umi <strong>momba’eguasupyre</strong> ou { $retailer } jehechajeýgui 80 ára ohasaramóvape roikuaáva ejeroviakuaaha.
 # Fallback for analysis highlights explainer if the retailer is ever unknown
-shopping-analysis-explainer-highlights-description-unknown-retailer = Umi <b>mba’eguasúva</b> ou jehechajey 80 ára ohasaramovévagui ikatúvare ejerovia.
+shopping-analysis-explainer-highlights-description-unknown-retailer = Umi <strong>mba’eguasúva</strong> ou jehechajey 80 ára ohasaramovévagui ikatúvare ejerovia.
 shopping-analysis-explainer-review-grading-scale-reliable = Hechajey jeroviaha. Roguerovia marandu’i ouha joguaháragui ohejáva umi marandu’i oñanduháicha ha ñaña’ỹre.
 shopping-analysis-explainer-review-grading-scale-mixed = Roikuaa oĩha marandu’i jeroviaha ha jerovia’ỹha.
 shopping-analysis-explainer-review-grading-scale-unreliable = Marandu’i jerovia’iveha. Roikuaa marandu’i ikatuha japu térã ou hechajeyhára iñañávagui.
