@@ -313,13 +313,59 @@ newtab-wallpaper-brown = Bruna
 ## Abstract
 
 newtab-wallpaper-category-title-abstract = Abstrakta
+newtab-wallpaper-abstract-green = Verdaj formoj
+newtab-wallpaper-abstract-blue = Bluaj formoj
+newtab-wallpaper-abstract-purple = Purpuraj formoj
+newtab-wallpaper-abstract-orange = Oranĝaj formoj
+newtab-wallpaper-gradient-orange = Gamo oranĝa kaj roza
+newtab-wallpaper-abstract-blue-purple = Bluaj kaj purpuraj formoj
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotoj
+newtab-wallpaper-beach-at-sunrise = Strando dum suneliro
+newtab-wallpaper-beach-at-sunset = Strando dum sunsubiro
+newtab-wallpaper-storm-sky = Ŝtorma ĉielo
+newtab-wallpaper-sky-with-pink-clouds = Ĉielo kun rozkoloraj nuboj
+newtab-wallpaper-red-panda-yawns-in-a-tree = Ruĝa pando oscedas sur arbo
+newtab-wallpaper-white-mountains = Blankaj montoj
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotita de <a data-l10n-name="name-link">{ $author_string }</a> en <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Provu koloran tuŝeton
+newtab-wallpaper-feature-highlight-content = Donu al viaj langetoj novan aspekton per fonoj.
+newtab-wallpaper-feature-highlight-button = Mi komprenis
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Ignori
+    .aria-label = Fermi elŝprucaĵon
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Vidi veterprognozon en { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Patronita
+newtab-weather-menu-change-location = Ŝanĝi lokon
+newtab-weather-change-location-search-input = Serĉi lokon
+newtab-weather-menu-weather-display = Montro de vetero
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Simpla
+newtab-weather-menu-change-weather-display-simple = Montri la simplan vidon
+newtab-weather-menu-weather-display-option-detailed = Detala
+newtab-weather-menu-change-weather-display-detailed = Montri la detalan vidon
+newtab-weather-menu-temperature-units = Temperaturaj unuoj
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
+newtab-weather-menu-temperature-option-celsius = Celsius
+newtab-weather-menu-change-temperature-units-fahrenheit = Ŝanĝi al Fahrenheit
+newtab-weather-menu-change-temperature-units-celsius = Ŝanĝi al Celsius
+newtab-weather-menu-hide-weather = Kaŝi veteron en nova langeto
