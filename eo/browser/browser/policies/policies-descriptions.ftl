@@ -84,6 +84,8 @@ policy-Handlers = Agordi la normajn programajn traktilojn.
 policy-HardwareAcceleration = Se estas "malvera" la aparata akcelo estos malŝaltita.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Difini kaj havi la eblon ŝlosi la ekan paĝon.
+policy-HttpAllowlist = Originoj, kiuj ne estos ŝanĝitaj al HTTPS.
+policy-HttpsOnlyMode = Permesi aktivigon de HTTPS-nuran reĝimon.
 policy-InstallAddonsPermission = Permesi al kelkaj retejoj la instalon de aldonaĵoj.
 policy-LegacyProfiles = Malaktivigi la trajton, kiu postulas malsamajn profilojn por ĉiu instalaĵo.
 
@@ -108,6 +110,9 @@ policy-OverrideFirstRunPage = Ŝanĝi la paĝon de unua starto. Lasu tiun ĉi po
 policy-OverridePostUpdatePage = Ŝanĝi la postĝisdatigan paĝon "Kio estas nova". Lasu tiun ĉi politikon malplena se vi volas malaktivigi la paĝon post ĝisdatigo.
 policy-PasswordManagerEnabled = Aktivigi konservadon de pasvortoj en la pasvorta administrilo.
 policy-PasswordManagerExceptions = Malpermesi al { -brand-short-name } konservi pasvortojn por specifaj retejoj.
+# Post-quantum refers to cryptography that is safe from attacks by quantum
+# computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
+policy-PostQuantumKeyAgreementEnabled = Aktivigi la akcepton de postkvantuma ŝlosilo por TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Malaktivigi aŭ agordi PDF.js, la integritan legilon de PDF en { -brand-short-name }.
 policy-Permissions2 = Agordi permesojn por filmilo, mikrofono, pozicio,sciigoj kaj aŭtomata ludado.
