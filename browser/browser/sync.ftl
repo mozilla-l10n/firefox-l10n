@@ -33,3 +33,4 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = Envieu una pestanya instantàniament a qualsevol dispositiu on hàgiu iniciat la sessió.
 fxa-menu-sign-out =
     .label = Tanca la sessió…
+fxa-menu-sync-title = Sincronització

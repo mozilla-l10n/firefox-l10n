@@ -65,9 +65,10 @@ shopping-message-bar-page-not-supported =
     .heading = No podem comprovar aquestes ressenyes
     .message = Malauradament, no podem comprovar la qualitat de les ressenyes per certs tipus de productes. Per exemple, targetes de regal, transmissions de vídeo, música i jocs.
 shopping-message-bar-keep-closed-header =
-    .heading = Voleu tancar-ho?
-    .message = Podeu actualitzar els paràmetres per tal que el Verificador de ressenyes estigui tancat per defecte. Ara s'obre automàticament.
+    .heading = Voleu tancar-lo?
+    .message = Podeu actualitzar els paràmetres per tal que el verificador de ressenyes estigui tancat per defecte. Ara s'obre automàticament.
 shopping-message-bar-keep-closed-dismiss-button = No, gràcies
+shopping-message-bar-keep-closed-accept-button = Sí, manteniu-lo tancat
 
 ## Strings for the product review snippets card
 
@@ -88,8 +89,12 @@ shopping-show-less-button = Mostra'n menys
 
 shopping-settings-label =
     .label = Paràmetres
+shopping-settings-recommendations-toggle =
+    .label = Mostra anuncis al verificador de ressenyes
 shopping-settings-opt-out-button = Desactiva el verificador de ressenyes
 powered-by-fakespot = El verificador de ressenyes funciona amb tecnologia de <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-auto-open-toggle =
+    .label = Obre automàticament el verificador de ressenyes
 
 ## Strings for the adjusted rating component
 
@@ -131,9 +136,32 @@ shopping-unanalyzed-product-message-2 = Per saber si les ressenyes són fiables,
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-not-opted-in-revised-button = Entesos
+shopping-callout-not-opted-in-reminder-title = Compreu amb tota confiança
+shopping-callout-not-opted-in-reminder-subtitle = No esteu segur de si les ressenyes d'un producte són reals o falses? El verificador de ressenyes del { -brand-product-name } us pot ajudar.
+shopping-callout-not-opted-in-reminder-open-button = Obre el verificador de ressenyes
+shopping-callout-not-opted-in-reminder-close-button = Descarta
+shopping-callout-not-opted-in-reminder-ignore-checkbox = No tornis a mostrar-ho
+shopping-callout-not-opted-in-reminder-img-alt =
+    .aria-label = Il·lustració abstracta de tres ressenyes de productes. Una té un símbol d'avís que indica que potser no és fiable.
+shopping-callout-disabled-auto-open-title = Ara el verificador de ressenyes està tancat per defecte
+shopping-callout-disabled-auto-open-subtitle = Feu clic a la icona de l'etiqueta de preu a la barra d'adreces sempre que vulgueu saber si podeu confiar en les ressenyes d'un producte.
+shopping-callout-disabled-auto-open-button = Entesos
+shopping-callout-opted-out-title = El verificador de ressenyes està desactivat
+shopping-callout-opted-out-subtitle = Per tornar-lo a activar, feu clic a la icona de l'etiqueta de preu a la barra d'adreces i seguiu les instruccions.
+shopping-callout-opted-out-button = Entesos
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Proveu la nostra guia de confiança per a ressenyes de productes
+shopping-onboarding-opt-in-button = Sí, prova-ho
+shopping-onboarding-not-now-button = Ara no
 shopping-onboarding-dialog-close-button =
     .title = Tanca
     .aria-label = Tanca
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progrés: pas { $current } de { $total }
