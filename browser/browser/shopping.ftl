@@ -95,6 +95,7 @@ shopping-settings-opt-out-button = Desactiva el verificador de ressenyes
 powered-by-fakespot = El verificador de ressenyes funciona amb tecnologia de <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 shopping-settings-auto-open-toggle =
     .label = Obre automàticament el verificador de ressenyes
+shopping-settings-sidebar-enabled-state = El verificador de ressenyes està <strong>activat</strong>
 
 ## Strings for the adjusted rating component
 
@@ -103,6 +104,7 @@ shopping-settings-auto-open-toggle =
 shopping-adjusted-rating-label =
     .label = Valoració ajustada
 shopping-adjusted-rating-unreliable-reviews = S’han eliminat les ressenyes poc fiables
+shopping-adjusted-rating-based-reliable-reviews = Basat en ressenyes fiables
 
 ## Strings for the review reliability component
 
@@ -113,9 +115,26 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Com es determina la qualitat de la ressenya
+shopping-analysis-explainer-intro2 = Usem tecnologia d'IA de { -fakespot-brand-full-name } per a comprovar la fiabilitat de les ressenyes de productes. Això només us ajudarà a avaluar la qualitat de la ressenya, no la qualitat del producte.
+shopping-analysis-explainer-grades-intro = Assignem a les ressenyes de cada producte una <strong>puntuació alfabètica</strong> de la A a la F.
+shopping-analysis-explainer-adjusted-rating-description = La <strong>puntuació ajustada</strong> només es basa en les ressenyes que creiem fiables.
+shopping-analysis-explainer-learn-more2 = Més informació sobre <a data-l10n-name="review-quality-url">com { -fakespot-brand-name } determina la qualitat de les ressenyes</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = Els <strong>destacats</strong> provenen de ressenyes de { $retailer } dels darrers 80 dies que creiem que són fiables.
+# Fallback for analysis highlights explainer if the retailer is ever unknown
+shopping-analysis-explainer-highlights-description-unknown-retailer = Els <strong>destacats</strong> provenen de ressenyes dels darrers 80 dies que creiem que són fiables.
+shopping-analysis-explainer-review-grading-scale-reliable = Les ressenyes són fiables. Creiem que probablement són de clients reals honestos i no estan esbiaixades.
+shopping-analysis-explainer-review-grading-scale-mixed = Creiem que hi ha una barreja de ressenyes fiables i poc fiables.
+shopping-analysis-explainer-review-grading-scale-unreliable = Les ressenyes són poc fiables. Creiem que poden ser falses o esbiaixades.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Obre el verificador de ressenyes
+shopping-sidebar-close-button2 =
+    .tooltiptext = Tanca el verificador de ressenyes
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -124,18 +143,40 @@ shopping-analysis-explainer-label =
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Encara no hi ha informació sobre aquestes ressenyes
 shopping-unanalyzed-product-message-2 = Per saber si les ressenyes són fiables, comproveu-ne la qualitat. Només són 60 segons.
+shopping-unanalyzed-product-analyze-button = Comprova la qualitat de les ressenyes
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Més productes a tenir en compte
+ad-by-fakespot = Anunci de { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Ajudeu a millorar el { -brand-product-name }
+shopping-survey-question-one = Esteu satisfet/a de l'experiència del verificador de ressenyes del { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Molt satisfet/a
+shopping-survey-q1-radio-2-label = Satisfet/a
+shopping-survey-q1-radio-3-label = Neutre/a
+shopping-survey-q1-radio-4-label = Insatisfet/a
+shopping-survey-q1-radio-5-label = Molt insatisfet/a
+shopping-survey-question-two = El verificador de ressenyes us facilita prendre decisions de compra?
+shopping-survey-q2-radio-1-label = Sí
+shopping-survey-q2-radio-2-label = No
+shopping-survey-q2-radio-3-label = No ho sé
+shopping-survey-next-button-label = Següent
+shopping-survey-submit-button-label = Envia
+shopping-survey-terms-link = Condicions d'ús
+shopping-survey-thanks =
+    .heading = Gràcies per la vostra opinió
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Podeu tornar al <strong>verificador de ressenyes</strong> quan vegeu l'etiqueta de preu.
 shopping-callout-closed-not-opted-in-revised-button = Entesos
 shopping-callout-not-opted-in-reminder-title = Compreu amb tota confiança
 shopping-callout-not-opted-in-reminder-subtitle = No esteu segur de si les ressenyes d'un producte són reals o falses? El verificador de ressenyes del { -brand-product-name } us pot ajudar.
