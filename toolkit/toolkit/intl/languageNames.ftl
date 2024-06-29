@@ -166,6 +166,7 @@ language-name-se = Nord-samia
 language-name-sg = Sangoa
 language-name-si = Sinhala
 language-name-sk = Slovaka
+language-name-skr = Sarajkia
 language-name-sl = Slovena
 language-name-sm = Samoa
 language-name-sn = Ŝona
