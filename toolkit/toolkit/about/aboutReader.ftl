@@ -12,20 +12,6 @@ about-reader-color-scheme-sepia = Sepia
     .title = Sepia koloraro
 about-reader-color-scheme-auto = Aŭtomata
     .title = Aŭtomata koloraro
-about-reader-color-theme-light = Hela
-    .title = Helkolora etoso
-about-reader-color-theme-dark = Malhela
-    .title = Malhelkolora etoso
-about-reader-color-theme-sepia = Sepia
-    .title = Sepikolora etoso
-about-reader-color-theme-auto = Aŭtomata
-    .title = Aŭtomataj koloroj de etoso
-about-reader-color-theme-gray = Griza
-    .title = Grizkolora etoso
-about-reader-color-theme-contrast = Kontrasta
-    .title = Kontrastkolora etoso
-about-reader-color-theme-custom = Personecigitaj koloroj
-    .title = Personecigitaj koloroj de etoso
 about-reader-color-light-theme = Hela
     .title = Hela etoso
 about-reader-color-dark-theme = Malhela
@@ -68,12 +54,12 @@ about-reader-toolbar-lineheightplus =
 
 about-reader-font-type-serif = Serifa
 about-reader-font-type-sans-serif = Senserifa
+about-reader-font-type-monospace = Egallarĝa
 
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = Fermi legilan vidon
 about-reader-toolbar-type-controls = Agordi tiparon
-about-reader-toolbar-color-controls = Koloroj
 about-reader-toolbar-text-layout-controls = Teksto kaj aranĝo
 about-reader-toolbar-theme-controls = Etoso
 about-reader-toolbar-savetopocket = Konservi en { -pocket-brand-name }
@@ -99,20 +85,24 @@ about-reader-custom-colors-visited-links = Vizititaj ligiloj
 about-reader-custom-colors-selection-highlight = Elstarigilo por laŭtlegado
     .title = Modifi koloron
 about-reader-custom-colors-reset-button = Remeti normajn valorojn
+about-reader-reset-button = Remeti normajn valorojn
 
 ## Reader View improved text and layout menu
 
+about-reader-text-header = Teksto
+about-reader-text-size-label = Grando de teksto
+about-reader-font-type-selector-label = Tiparo
 about-reader-layout-header = Aranĝo
-about-reader-advanced-layout-header = Spertula
-about-reader-slider-label-width-narrow = Mallarĝa
-about-reader-slider-label-width-wide = Larĝa
-about-reader-slider-label-spacing-narrow = Mallarĝa
 about-reader-slider-label-spacing-standard = Norma
 about-reader-slider-label-spacing-wide = Larĝa
 about-reader-content-width-label =
     .label = Larĝo de enhavo
 about-reader-line-spacing-label =
     .label = Spaco interlinia
+about-reader-advanced-layout-header = Spertula
+about-reader-slider-label-width-narrow = Mallarĝa
+about-reader-slider-label-width-wide = Larĝa
+about-reader-slider-label-spacing-narrow = Mallarĝa
 about-reader-character-spacing-label =
     .label = Spaco intersigna
 about-reader-word-spacing-label =

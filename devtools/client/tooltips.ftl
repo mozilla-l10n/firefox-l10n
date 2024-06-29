@@ -97,6 +97,7 @@ inactive-css-not-table-fix = Provu aldoni <strong>display:table</strong> aŭ <st
 inactive-css-not-table-cell-fix = Provu aldoni <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Provu aldoni <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, aŭ <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = En la gepatra tabula elemento, forigu la atributon aŭ ŝanĝu la valoron de <strong>border-collapse</strong> por alia, kiu ne estas <strong>collapse</strong>. { learn-more }
+inactive-css-resize-fix = Provu difini <strong>overflow</strong> kiel valoro malsama ol <strong>visible</strong> aŭ celi anstataŭitan elementon kiu subtenas ĝin. { learn-more }
 inactive-css-ruby-element-fix = Provu ŝanĝi la <strong>font-size</strong> de la teksto 'ruby'. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Provu redukti la kvanton de linioj. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evitu apartigi la enhavon de la elemento, ekzemple per forigo de kolumnoj aŭ per uzo de <strong>page-break-inside:avoid</strong>. { learn-more }
