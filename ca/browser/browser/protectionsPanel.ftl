@@ -23,17 +23,25 @@ protections-panel-etp-more-info =
     .aria-label = Més informació sobre la protecció contra el seguiment millorada
 protections-panel-etp-on-header = S'ha ACTIVAT la protecció contra el seguiment millorada en aquest lloc
 protections-panel-etp-off-header = S'ha DESACTIVAT la protecció contra el seguiment millorada en aquest lloc
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = El lloc no funciona?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = El lloc no funciona?
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = El lloc no funciona?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = El lloc no funciona?
+protections-panel-etp-toggle-on =
+    .label = Protecció contra el seguiment millorada
+    .description = Activada per a aquest lloc
+    .aria-label = Protecció contra el seguiment millorada: Activada per a { $host }
+protections-panel-etp-toggle-off =
+    .label = Protecció contra el seguiment millorada
+    .description = Desactivada per a aquest lloc
+    .aria-label = Protecció contra el seguiment millorada: Desactivada per a { $host }
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -100,7 +108,6 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Informeu sobre un lloc que no funciona
 protections-panel-content-blocking-breakage-report-view-description = El bloqueig d'alguns elements de seguiment pot causar problemes en alguns llocs web. Notificar aquests problemes ajuda a millorar el { -brand-short-name } per a tothom. Juntament amb l'informe, també s'enviarà a Mozilla un URL i informació de la configuració del vostre navegador. <label data-l10n-name="learn-more">Més informació</label>
-protections-panel-content-blocking-breakage-report-view-description2 = El bloqueig d'alguns elements de seguiment pot causar problemes en alguns llocs web. Notificar aquests problemes ajuda a millorar el { -brand-short-name } per a tothom. Juntament amb l'informe, també s'enviarà a { -vendor-short-name } un URL i informació de la configuració del vostre navegador.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
@@ -115,6 +122,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Reducció de bàners de galetes
+protections-panel-cookie-banner-blocker-header = Blocador de bàners de galetes
 protections-panel-cookie-banner-handling-enabled = Activada en aquest lloc
 protections-panel-cookie-banner-handling-disabled = Desactivada en aquest lloc
 protections-panel-cookie-banner-handling-undetected = Aquest lloc no és compatible ara per ara
@@ -124,6 +132,12 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Voleu desactivar la reducció de bàners de galetes per a { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Voleu activar la reducció de bàners de galetes per a aquest lloc?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Blocador de bàners de galetes
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Voleu desactivar el blocador de bàners de galetes per a { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Voleu activar el blocador de bàners de galetes per a aquest lloc?
 protections-panel-cookie-banner-view-cookie-clear-warning = El { -brand-short-name } esborrarà les galetes d’aquest lloc i actualitzarà la pàgina. En esborrar totes les galetes, pot ser que se us tanquin les sessions o que se us buidin els carros de la compra.
 protections-panel-cookie-banner-view-turn-on-description = El { -brand-short-name } intenta rebutjar automàticament totes les sol·licituds de galetes de tots els llocs compatibles.
 protections-panel-cookie-banner-view-cancel = Cancel·la
