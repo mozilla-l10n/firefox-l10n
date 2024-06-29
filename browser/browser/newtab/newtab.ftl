@@ -369,3 +369,6 @@ newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Ŝanĝi al Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Ŝanĝi al Celsius
 newtab-weather-menu-hide-weather = Kaŝi veteron en nova langeto
+newtab-weather-menu-learn-more = Pli da informo
+# This message is shown if user is working offline
+newtab-weather-error-not-available = En tiu ĉi momento ne haveblas veteraj datumoj.
