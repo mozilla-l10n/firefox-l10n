@@ -32,6 +32,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Cerca en els paràmetres
 managed-notice = El navegador està gestionat per la vostra organització.
+managed-notice-info-icon =
+    .alt = Informació
 category-list =
     .aria-label = Categories
 pane-general-title = General
@@ -563,6 +565,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header =
     .label = Recomanat per { $provider }
 home-prefs-recommended-by-description-new = Contingut excepcional seleccionat per { $provider }, part de la família de { -brand-product-name }
+home-prefs-recommended-by-header-generic =
+    .label = Articles recomanats
+home-prefs-recommended-by-description-generic = Contingut excepcional seleccionat per la família del { -brand-product-name }
 
 ##
 
@@ -589,6 +594,7 @@ home-prefs-recent-activity-description = Una selecció de continguts i llocs rec
 home-prefs-snippets-header =
     .label = Retalls
 home-prefs-snippets-description-new = Consells i novetats de { -vendor-short-name } i del { -brand-product-name }
+home-prefs-weather-learn-more-link = Més informació
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1250,6 +1256,9 @@ privacy-segmentation-radio-off =
     .label = Utilitza les recomanacions del { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostra informació detallada
+
+## Privacy Section - Website Advertising Preferences
+
 
 ## Privacy Section - Security
 ##

@@ -25,3 +25,7 @@ more-from-moz-learn-more-link = Més informació
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Protegiu la safata d'entrada i la vostra identitat amb màscares d'adreça electrònica gratuïtes.
 more-from-moz-firefox-relay-button = Prova el { -relay-brand-short-name }
+
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
