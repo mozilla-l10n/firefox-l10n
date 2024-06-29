@@ -12,11 +12,15 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-heading =
+    .heading = { -firefoxview-brand-name }
 firefoxview-page-label =
     .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Tanca
     .aria-label = Tanca
+firefoxview-empty-state-icon =
+    .alt = Atenció:
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Ara mateix
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
@@ -49,6 +53,7 @@ firefoxview-syncedtabs-loading-header = S'està sincronitzant…
 firefoxview-syncedtabs-loading-description = Quan hagi acabat, veureu les pestanyes que tingueu obertes en altres dispositius. Torneu-ho a comprovar més tard.
 firefoxview-tabpickup-fxa-admin-disabled-header = La vostra organització ha desactivat la sincronització
 firefoxview-tabpickup-fxa-admin-disabled-description = El { -brand-short-name } no pot sincronitzar les pestanyes entre dispositius perquè el vostre administrador ha desactivat la sincronització.
+firefoxview-tabpickup-fxa-disabled-by-policy-description = El { -brand-short-name } no pot sincronitzar les pestanyes entre dispositius perquè la vostra organització ha desactivat la sincronització.
 firefoxview-tabpickup-network-offline-header = Comproveu la connexió a Internet
 firefoxview-tabpickup-network-offline-description = Si utilitzeu un tallafoc o un servidor intermediari, comproveu que el { -brand-short-name } tingui permís per accedir al web.
 firefoxview-tabpickup-network-offline-primarybutton = Torna-ho a provar
@@ -231,3 +236,13 @@ firefoxview-recentlyclosed-empty-description-two = Per trobar pestanyes més ant
 
 firefoxview-syncedtabs-device-notabs = No hi ha cap pestanya oberta en aquest dispositiu
 firefoxview-syncedtabs-connect-another-device = Connecta un altre dispositiu
+
+## These tooltips will be displayed when hovering over a pinned tab on the Open Tabs page
+## Variables:
+##  $tabTitle (string) - Title of pinned tab that will be opened when selected
+
+
+## These tooltips will be displayed when hovering over an unpinned Open Tab
+## Variables:
+##   $url (string) - URL of tab that will be opened when selected
+

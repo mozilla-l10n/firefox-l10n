@@ -45,6 +45,7 @@ newtab-topsites-add-search-engine-header = Afegeix un motor de cerca
 newtab-topsites-add-shortcut-header = Drecera nova
 newtab-topsites-edit-topsites-header = Edita el lloc principal
 newtab-topsites-edit-shortcut-header = Edita la drecera
+newtab-topsites-add-shortcut-label = Afegeix una drecera
 newtab-topsites-title-label = Títol
 newtab-topsites-title-input =
     .placeholder = Escriviu el títol
@@ -198,6 +199,7 @@ newtab-section-header-recent-activity = Activitat recent
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recomanat per { $provider }
+newtab-section-header-stories = Articles suggerents
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -258,9 +260,6 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Dreceres patrocinades
 newtab-custom-pocket-title = Recomanat per { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contingut excepcional seleccionat per { -pocket-brand-name }, part de la família de { -brand-product-name }
-newtab-custom-pocket-toggle =
-    .label = Recomanat per { -pocket-brand-name }
-    .description = Contingut excepcional seleccionat per { -pocket-brand-name }, part de la família de { -brand-product-name }
 newtab-custom-pocket-sponsored = Articles patrocinats
 newtab-custom-pocket-show-recent-saves = Mostra els elements desats recentment
 newtab-custom-recent-title = Activitat recent
@@ -270,3 +269,18 @@ newtab-custom-recent-toggle =
     .description = Una selecció de llocs i continguts recents
 newtab-custom-close-button = Tanca
 newtab-custom-settings = Gestiona més paràmetres
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Photographs
+
+
+## New Tab Weather
+

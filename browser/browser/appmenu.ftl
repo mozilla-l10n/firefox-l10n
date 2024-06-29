@@ -168,6 +168,11 @@ profiler-popup-capture-shortcut =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 profiler-popup-presets-web-developer-description = Preconfiguració recomanada per a depuració de la majoria d'aplicacions web, amb poca sobrecàrrega.
 profiler-popup-presets-web-developer-label =
     .label = Desenvolupador web
@@ -187,6 +192,8 @@ profiler-popup-presets-power-description = Preconfiguració recomanada per a inv
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
+profiler-popup-presets-debug-label =
+    .label = Depuració
 profiler-popup-presets-custom-label =
     .label = Personalitzat
 
@@ -257,3 +264,11 @@ appmenu-developer-tools-extensions =
     .label = Extensions per a desenvolupadors
 appmenuitem-report-broken-site =
     .label = Informeu sobre un lloc que no funciona
+
+## Panel for privacy and security products
+
+appmenuitem-sign-in-account = Inicieu la sessió al vostre compte
+appmenuitem-monitor-title = { -monitor-brand-short-name }
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description = Protegiu la vostra activitat a la xarxa
