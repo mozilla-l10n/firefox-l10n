@@ -164,6 +164,7 @@ perftools-presets-power-description =
        *[no-cases] Doporučené nastavení pro ladění chyb ve spotřebě aplikace { -brand-shorter-name }.
     }
 perftools-presets-debug-label = Ladění
+perftools-presets-debug-description = Přednastaveno pro ladění v aplikaci { -brand-shorter-name }. Vysoká režie, nepoužívat pro zlepšení výkonu, ale spíše pro pochopení chování prohlížeče.
 perftools-presets-custom-label = Vlastní
 
 ##
