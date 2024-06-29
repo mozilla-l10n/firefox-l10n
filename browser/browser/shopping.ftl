@@ -195,6 +195,10 @@ shopping-callout-opted-out-button = Entesos
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Proveu la nostra guia de confiança per a ressenyes de productes
+# Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
+# Variables:
+#   $currentSite (str) - The current shopping page name
+shopping-onboarding-single-subtitle = Vegeu com de fiables són les ressenyes de productes a <b>{ $currentSite }</b> abans de comprar. El verificador de ressenyes, una funció experimental del { -brand-product-name }, està integrada directament en el navegador.
 shopping-onboarding-opt-in-button = Sí, prova-ho
 shopping-onboarding-not-now-button = Ara no
 shopping-onboarding-dialog-close-button =
