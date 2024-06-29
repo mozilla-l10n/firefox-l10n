@@ -111,13 +111,13 @@ addon-confirm-install-some-unsigned-message = Precaució: Aquest lloc vol instal
 
 addon-install-error-network-failure = No s'ha pogut baixar el complement perquè s'ha produït un problema de connexió.
 addon-install-error-incorrect-hash = No s'ha pogut instal·lar el complement perquè no coincideix amb el complement que esperava el { -brand-short-name }.
-addon-install-error-corrupt-file = No s'ha pogut instal·lar el complement baixat perquè sembla que era defectuós.
+addon-install-error-corrupt-file = No s'ha pogut instal·lar el complement baixat d'aquest lloc perquè sembla que està malmès.
 addon-install-error-file-access = No s'ha pogut instal·lar el complement «{ $addonName }» perquè el { -brand-short-name } no ha pogut modificar un fitxer necessari.
 addon-install-error-not-signed = El { -brand-short-name } ha evitat que aquest lloc instal·li un complement no verificat.
 addon-install-error-invalid-domain = El complement { $addonName } no es pot instal·lar des d'aquesta ubicació.
 addon-local-install-error-network-failure = No s'ha pogut instal·lar el complement per un error del sistema de fitxers.
 addon-local-install-error-incorrect-hash = No s'ha pogut instal·lar aquest complement perquè no coincideix amb el complement que esperava el { -brand-short-name }.
-addon-local-install-error-corrupt-file = No es pot instal·lar el complement perquè sembla estar malmès.
+addon-local-install-error-corrupt-file = No s'ha pogut instal·lar aquest complement perquè sembla que està malmès.
 addon-local-install-error-file-access = No s'ha pogut instal·lar el complement «{ $addonName }» perquè el { -brand-short-name } no ha pogut modificar un fitxer necessari.
 addon-local-install-error-not-signed = No es pot instal·lar aquest complement perquè no està verificat.
 # Variables:
