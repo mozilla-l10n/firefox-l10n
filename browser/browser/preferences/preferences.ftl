@@ -919,7 +919,7 @@ forms-primary-pw-use =
     .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
-    .label = Postuli komencon de seanco en  la aparato por enigi kaj administri pasvortojn
+    .label = Postuli komencon de seanco en la aparato por enigi kaj administri pasvortojn
 forms-primary-pw-learn-more-link = Pli da informo
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -952,6 +952,13 @@ primary-password-os-auth-dialog-message-win = Por krei ĉefan pasvorton vi devas
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = krei ĉefan pasvorton
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] ŝanĝi la agordojn por pagmetodoj
+       *[other] { -brand-short-name } klopodas ŝanĝi la agordojn por pagmetodoj. Komencu seancon per via aparato por permesi la ŝanĝon.
+    }
+autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
@@ -965,6 +972,9 @@ autofill-payment-methods-checkbox-message = Konservi kaj aŭtomate plenigi pagme
 autofill-payment-methods-checkbox-submessage = Inkluzivi kreditajn kaj debetajn kartojn
     .accesskey = k
 autofill-saved-payment-methods-button = Konservitaj pagmetodoj
+    .accesskey = p
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox = Postuli komencon de seanco en la aparato por enigi kaj administri pagmetodojn
     .accesskey = p
 
 ## Privacy Section - History
@@ -1295,6 +1305,11 @@ privacy-segmentation-radio-on =
 
 ## Privacy Section - Website Advertising Preferences
 
+website-advertising-header = Preferoj pri reklamoj en retejoj
+website-advertising-private-attribution =
+    .label = Permesi al retejoj reklamrilatajn mezurojn, kiuj protektas privatecon
+    .accesskey = p
+website-advertising-private-attribution-description = Tio ĉi permesas al retejoj kompreni kiel siaj reklamoj efikas, sen kolekti datumojn pri vi.
 
 ## Privacy Section - Security
 ##
