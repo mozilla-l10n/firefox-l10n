@@ -268,6 +268,9 @@ newtab-custom-recent-subtitle = Elekto de ĵusaj retejoj kaj enhavoj
 newtab-custom-recent-toggle =
     .label = Ĵusa agado
     .description = Elekto de ĵusaj retejoj kaj enhavoj
+newtab-custom-weather-toggle =
+    .label = Vetero
+    .description = Rapida rigardo al la veterprognozo hodiaŭa
 newtab-custom-close-button = Fermi
 newtab-custom-settings = Administri aliajn agordojn
 
@@ -287,7 +290,36 @@ newtab-wallpaper-dark-panda = Ruĝa pando kaŝita en arbaro
 newtab-wallpaper-dark-sky = Pejzaĝo urba kun nokta ĉielo
 newtab-wallpaper-dark-mountain = Pejzaĝo monta
 newtab-wallpaper-dark-city = Purpura pejzaĝo urba
+
+## Solid Colors
+
+newtab-wallpaper-category-title-colors = Solidaj koloroj
+newtab-wallpaper-blue = Blua
+newtab-wallpaper-light-blue = Helblua
+newtab-wallpaper-light-purple = Helpurpura
+newtab-wallpaper-light-green = Helverda
+newtab-wallpaper-green = Verda
+newtab-wallpaper-beige = Grizflava
+newtab-wallpaper-yellow = Flava
+newtab-wallpaper-orange = Oranĝa
+newtab-wallpaper-pink = Roza
+newtab-wallpaper-light-pink = Helroza
+newtab-wallpaper-red = Ruĝa
+newtab-wallpaper-dark-blue = Malhelblua
+newtab-wallpaper-dark-purple = Malhelpurpura
+newtab-wallpaper-dark-green = Malhelverda
+newtab-wallpaper-brown = Bruna
+
+## Abstract
+
+newtab-wallpaper-category-title-abstract = Abstrakta
+
+## Photographs
+
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = Fotita de <a data-l10n-name="name-link">{ $author_string }</a> en <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+
+## New Tab Weather
+
