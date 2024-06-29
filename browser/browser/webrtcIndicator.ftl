@@ -219,6 +219,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = Memori tiun ĉi decidon
+webrtc-remember-allow-checkbox-camera = Memori tion ĉi por ĉiuj filmiloj
+webrtc-remember-allow-checkbox-microphone = Memori tion ĉi por ĉiuj mikrofonoj
+webrtc-remember-allow-checkbox-camera-and-microphone = Memori tion ĉi por ĉiuj filmiloj kaj mikrofonoj
 webrtc-mute-notifications-checkbox = Malaktivigi retejejan sciigojn dum divido
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne povas permesi konstantan aliron al via ekrano.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne povas permesi konstantan aliron al la sono de via langeto sen demandi, kiu langeto.

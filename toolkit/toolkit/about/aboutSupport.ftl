@@ -412,6 +412,20 @@ support-printing-modified-settings = Modifitaj presaj agordoj
 support-printing-prefs-name = Nomo
 support-printing-prefs-value = Valoro
 
+## Remote Settings sections
+
+support-remote-settings-title = Foraj agordoj
+support-remote-settings-status = Stato
+support-remote-settings-status-ok = Akcepti
+# Status when synchronization is not working.
+support-remote-settings-status-broken = Nefunkcianta
+support-remote-settings-last-check = Lasta kontrolo
+support-remote-settings-local-timestamp = Loka horo
+support-remote-settings-sync-history = Historio
+support-remote-settings-sync-history-status = Stato
+support-remote-settings-sync-history-datetime = Dato
+support-remote-settings-sync-history-infos = Informoj
+
 ## Normandy sections
 
 support-remote-experiments-title = Forigi eksperimentojn
