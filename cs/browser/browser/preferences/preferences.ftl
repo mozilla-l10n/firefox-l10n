@@ -1484,6 +1484,7 @@ website-advertising-header = Reklamní předvolby webových stránek
 website-advertising-private-attribution =
     .label = Umožnit webům použití sledující reklamy, která je šetrná k soukromí
     .accesskey = a
+website-advertising-private-attribution-description = Pomůžete tím webům pochopit, jak si jejich reklamy vedou, aniž by o vás shromažďovaly data.
 
 ## Privacy Section - Security
 ##

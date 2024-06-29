@@ -125,6 +125,11 @@ perftools-onboarding-close-button =
 # devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# The same labels and descriptions are also defined in appmenu.ftl.
+
 perftools-presets-web-developer-label = Vývoj webu
 perftools-presets-web-developer-description = Doporučené nastavení s minimální režií pro ladění většiny webových aplikací.
 perftools-presets-firefox-label = { -brand-shorter-name }
@@ -158,6 +163,7 @@ perftools-presets-power-description =
         [with-cases] Doporučené nastavení pro ladění chyb ve spotřebě { -brand-shorter-name(case: "gen") }.
        *[no-cases] Doporučené nastavení pro ladění chyb ve spotřebě aplikace { -brand-shorter-name }.
     }
+perftools-presets-debug-label = Ladění
 perftools-presets-custom-label = Vlastní
 
 ##
