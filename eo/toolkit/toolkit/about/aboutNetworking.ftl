@@ -4,6 +4,7 @@
 
 about-networking-title = Pri retkonektado
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Viŝi staplon de HTTP
 about-networking-sockets = Konektingo
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Viŝi staplon DNS

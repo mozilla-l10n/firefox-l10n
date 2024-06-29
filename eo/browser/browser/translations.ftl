@@ -126,13 +126,6 @@ translations-manage-description = Elŝuti lingvojn por malkonektita traduko.
 translations-manage-all-language = Ĉiuj lingvoj
 translations-manage-download-button = Elŝuti
 translations-manage-delete-button = Forigi
-translations-manage-intro = Difinu vian lingvajn kaj retejajn preferojn kaj administru instalitajn lingvojn por traduki malkonektite.
-translations-manage-install-description = Instali lingvojn por traduki malkonektite
-translations-manage-language-install-button =
-    .label = Instali
-translations-manage-language-install-all-button =
-    .label = Instali ĉiujn
-    .accesskey = I
 translations-manage-intro-2 = Difinu vian lingvajn kaj retejajn preferojn kaj administru elŝutitajn lingvojn por traduki malkonektite.
 translations-manage-download-description = Elŝuti lingvojn por malkonektita traduko.
 translations-manage-language-download-button =
@@ -145,7 +138,6 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Forigi ĉiujn
     .accesskey = F
-translations-manage-error-install = Okazis problemo dum instalo de lingvaj dosieroj. Bonvolu provi denove.
 translations-manage-error-download = Okazis problemo dum elŝuto de lingvaj dosieroj. Bonvolu klopodi denove.
 translations-manage-error-delete = Okazis eraro dum forigo de lingvaj dosieroj. Bonvolu klopodi denove.
 translations-manage-error-remove = Okazis eraro dum forigo de lingvaj dosieroj. Bonvolu klopodi denove.
@@ -249,3 +241,5 @@ select-translations-panel-unsupported-language-message-unknown =
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Tradukaj agordoj
+# An announcement made to assistive technology when the translation is complete
+select-translations-panel-translation-complete-announcement = Traduko kompleta

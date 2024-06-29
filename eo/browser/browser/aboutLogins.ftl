@@ -171,6 +171,13 @@ about-logins-edit-login-os-auth-dialog-message-win = Por redakti viajn legitimil
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifi la konservitan legitimilon
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to disable osauth in about:preferences.
+about-logins-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] ŝanĝi la agordojn por pasvortoj
+       *[other] { -brand-short-name } klopodas ŝanĝi la agordojn por pasvortoj. Komencu seancon per via aparato por permesi la ŝanĝon.
+    }
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message2-win = Por modifi vian pasvorton vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to edit a login in about:logins
@@ -251,11 +258,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] Tio ĉi forigos la legitimilon konservitan de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via { -fxaccount-brand-name }. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
        *[other] Tio ĉi forigos la legitimilojn konservitajn de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via { -fxaccount-brand-name }. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
-    }
-about-logins-confirm-remove-all-sync-dialog-message2 =
-    { $count ->
-        [1] Tio ĉi forigos la legitimilon konservita de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
-       *[other] Tio ĉi forigos la legitimilojn konservita de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
     }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
