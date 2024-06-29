@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = S'ha enviat l'informe. Gràcies!
 confirmation-hint-login-removed = S'ha eliminat l'inici de sessió
+confirmation-hint-password-removed = S'ha eliminat la contrasenya
 confirmation-hint-page-bookmarked = S'ha desat a les adreces d'interès
 confirmation-hint-password-saved = S'ha desat la contrasenya
 confirmation-hint-password-created = S'ha desat la contrasenya

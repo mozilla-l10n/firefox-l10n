@@ -299,6 +299,8 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 about-logins-confirm-export-dialog-title = Exporta els inicis de sessió i contrasenyes
 about-logins-confirm-export-dialog-message = Les contrasenyes es desaran com a text llegible (per exemple, «malaC0ntr@senya»), de manera que qualsevol que pugui obrir el fitxer exportat les podrà veure.
 about-logins-confirm-export-dialog-confirm-button = Exporta…
+about-logins-confirm-export-dialog-title2 = Nota sobre l'exportació de contrasenyes
+about-logins-confirm-export-dialog-confirm-button2 = Continua l'exportació
 about-logins-alert-import-title = Fi de la importació
 about-logins-alert-import-message = Mostra un resum detallat de la importació
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no desats?
@@ -340,6 +342,11 @@ about-logins-export-file-picker-title = Exporta el fitxer d'inicis de sessió
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
 about-logins-export-file-picker-default-filename = inicis_sessio.csv
+# Title of the file picker dialog
+about-logins-export-file-picker-title2 = Exporteu les contrasenyes del { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# This must end in .csv
+about-logins-export-file-picker-default-filename2 = contrasenyes.csv
 about-logins-export-file-picker-export-button = Exporta
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -353,6 +360,8 @@ about-logins-export-file-picker-csv-filter-title =
 
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Importa el fitxer d'inicis de sessió
+# Title of the file picker dialog
+about-logins-import-file-picker-title2 = Importa les contrasenyes en el { -brand-short-name }
 about-logins-import-file-picker-import-button = Importa
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -389,6 +398,18 @@ about-logins-import-dialog-items-no-change =
         [one] <span>Inicis de sessió duplicats:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importat)</span>
        *[other] <span>Inicis de sessió duplicats:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no importats)</span>
     }
+about-logins-import-dialog-items-added2 =
+    { $count ->
+       *[other] <span>Contrasenyes noves afegides:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-modified2 =
+    { $count ->
+       *[other] <span>Entrades existents actualitzades:</span> <span data-l10n-name="count">{ $count }</span>
+    }
+about-logins-import-dialog-items-no-change2 =
+    { $count ->
+       *[other] <span>Entrades duplicades:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(no importades)</span>
+    }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Errors:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(no s'ha importat)</span>
@@ -410,6 +431,7 @@ about-logins-import-dialog-error-try-import-again = Torna a provar d'importar…
 about-logins-import-dialog-error-cancel = Cancel·la
 about-logins-import-report-title = Resum de la importació
 about-logins-import-report-description = Inicis de sessió i contrasenyes importats en el { -brand-short-name }.
+about-logins-import-report-description2 = S'han importat les contrasenyes en el { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -417,6 +439,9 @@ about-logins-import-report-row-index = Fila { $number }
 about-logins-import-report-row-description-no-change = Duplicat: Coincidència exacta amb un inici de sessió existent
 about-logins-import-report-row-description-modified = Inici de sessió existent actualitzat
 about-logins-import-report-row-description-added = Inici de sessió nou afegit
+about-logins-import-report-row-description-no-change2 = Duplicat: Coincidència exacta amb una entrada existent
+about-logins-import-report-row-description-modified2 = Entrada existent actualitzada
+about-logins-import-report-row-description-added2 = Contrasenya nova afegida
 about-logins-import-report-row-description-error = Error: Falta un camp
 
 ##
@@ -441,6 +466,18 @@ about-logins-import-report-modified =
 about-logins-import-report-no-change =
     { $count ->
        *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">inicis de sessió duplicats</div> <div data-l10n-name="not-imported">(no importats)</div>
+    }
+about-logins-import-report-added2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">contrasenyes noves afegides</div>
+    }
+about-logins-import-report-modified2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">entrades existents actualitzades</div>
+    }
+about-logins-import-report-no-change2 =
+    { $count ->
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">entrades duplicades</div> <div data-l10n-name="not-imported">(no importades)</div>
     }
 about-logins-import-report-error =
     { $count ->
