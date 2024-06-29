@@ -195,6 +195,12 @@ shopping-callout-opted-out-button = Entesos
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Proveu la nostra guia de confiança per a ressenyes de productes
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Vegeu com de fiables són les ressenyes de productes a <b>{ $currentSite }</b> abans de comprar. El verificador de ressenyes, una funció experimental del { -brand-product-name }, està integrada directament en el navegador. També funciona a <b>{ $secondSite }</b> i <b>{ $thirdSite }</b>.
 # Subtitle for countries where we only support one shopping website (e.g. currently used in FR/DE with Amazon)
 # Variables:
 #   $currentSite (str) - The current shopping page name
