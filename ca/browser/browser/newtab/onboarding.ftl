@@ -54,6 +54,7 @@ mr1-onboarding-theme-header = Feu-lo vostre
 mr1-onboarding-theme-subtitle = Personalitzeu el { -brand-short-name } amb un tema.
 mr1-onboarding-theme-secondary-button-label = Ara no
 newtab-wallpaper-onboarding-title = Afegiu-hi un toc de color
+newtab-wallpaper-onboarding-subtitle = Trieu un fons de pantalla per donar un aspecte més fresc a les pestanyes noves.
 newtab-wallpaper-onboarding-primary-button-label = Defineix un fons de pantalla
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema del sistema

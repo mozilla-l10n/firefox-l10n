@@ -304,18 +304,72 @@ newtab-wallpaper-beige = Beix
 newtab-wallpaper-yellow = Groc
 newtab-wallpaper-orange = Taronja
 newtab-wallpaper-pink = Rosa
+newtab-wallpaper-light-pink = Rosa clar
+newtab-wallpaper-red = Vermell
+newtab-wallpaper-dark-blue = Blau fosc
+newtab-wallpaper-dark-purple = Lila fosc
+newtab-wallpaper-dark-green = Verd fosc
+newtab-wallpaper-brown = Marró
 
 ## Abstract
 
+newtab-wallpaper-category-title-abstract = Abstracte
+newtab-wallpaper-abstract-green = Formes verdes
+newtab-wallpaper-abstract-blue = Formes blaves
+newtab-wallpaper-abstract-purple = Formes liles
+newtab-wallpaper-abstract-orange = Formes taronges
+newtab-wallpaper-gradient-orange = Degradat taronja i rosa
+newtab-wallpaper-abstract-blue-purple = Formes blaves i liles
 
 ## Photographs
 
+newtab-wallpaper-category-title-photographs = Fotografies
+newtab-wallpaper-beach-at-sunrise = Platja a l'alba
+newtab-wallpaper-beach-at-sunset = Platja al capvespre
+newtab-wallpaper-storm-sky = Cel tempestuós
+newtab-wallpaper-sky-with-pink-clouds = Cel amb núvols rosats
+newtab-wallpaper-red-panda-yawns-in-a-tree = Un panda vermell badalla en un arbre
+newtab-wallpaper-white-mountains = Muntanyes blanques
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = Foto de <a data-l10n-name="name-link">{ $author_string }</a> a <a data-l10n-name="webpage-link">{ $webpage_string }</a>
+newtab-wallpaper-feature-highlight-header = Afegiu-hi un toc de color
+newtab-wallpaper-feature-highlight-content = Doneu un aspecte més fresc a les pestanyes noves amb els fons de pantalla.
+newtab-wallpaper-feature-highlight-button = Entesos
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = Tanca
+    .aria-label = Tanca la finestra emergent
+feature-highlight-wallpaper =
+    .title = { -newtab-wallpaper-feature-highlight-header }
+    .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
 ## New Tab Weather
 
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-see-forecast =
+    .title = Mostra la previsió meteorològica de { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ Patrocinat
+newtab-weather-menu-change-location = Canvia la ubicació
+newtab-weather-change-location-search-input = Cerca la ubicació
+newtab-weather-menu-weather-display = Visualització de la informació meteorològica
+# Display options are:
+# - Simple: Displays a current weather condition icon and the current temperature
+# - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
+newtab-weather-menu-weather-display-option-simple = Senzilla
+newtab-weather-menu-change-weather-display-simple = Canvia a la vista senzilla
+newtab-weather-menu-weather-display-option-detailed = Detallada
+newtab-weather-menu-change-weather-display-detailed = Canvia a la vista detallada
+newtab-weather-menu-temperature-units = Unitats de temperatura
+newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Canvia a Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Canvia a Celsius
+newtab-weather-menu-hide-weather = Amaga la informació meteorològica en les pestanyes noves
 newtab-weather-menu-learn-more = Més informació
 # This message is shown if user is working offline
 newtab-weather-error-not-available = La informació meteorològica no està disponible ara mateix.

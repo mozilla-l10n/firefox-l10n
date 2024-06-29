@@ -205,6 +205,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Elimina aquest contenidor
 containers-remove-cancel-button = No eliminis aquest contenidor
+settings-tabs-show-image-in-preview =
+    .label = Mostra una vista prèvia de la imatge en passar el cursor per sobre d'una pestanya
+    .accessKey = M
 
 ## General Section - Language & Appearance
 
@@ -594,6 +597,8 @@ home-prefs-recent-activity-description = Una selecció de continguts i llocs rec
 home-prefs-snippets-header =
     .label = Retalls
 home-prefs-snippets-description-new = Consells i novetats de { -vendor-short-name } i del { -brand-product-name }
+home-prefs-weather-header =
+    .label = Informació meteorològica
 home-prefs-weather-learn-more-link = Més informació
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -709,6 +714,8 @@ sync-profile-picture =
 sync-profile-picture-with-alt =
     .tooltiptext = Canvia la imatge de perfil
     .alt = Canvia la imatge de perfil
+fxa-login-rejected-warning =
+    .alt = Avís
 sync-sign-out =
     .label = Tanca la sessió…
     .accesskey = T
