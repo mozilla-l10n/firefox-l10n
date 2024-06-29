@@ -197,8 +197,24 @@ main-context-menu-translate-link-text-to-language =
     .accesskey = T
 # Text displayed in the select translations panel header.
 select-translations-panel-header = Traducció
+# Text displayed above the from-language dropdown menu.
+select-translations-panel-from-label = De
+# Text displayed above the to-language dropdown menu.
+select-translations-panel-to-label = A
+# Text displayed above the try-another-source-language dropdown menu.
+select-translations-panel-try-another-language-label = Proveu una altra la llengua d’origen
 select-translations-panel-cancel-button =
     .label = Cancel·la
+# Text displayed on the copy button before it is clicked.
+select-translations-panel-copy-button =
+    .label = Copia
+# Text displayed on the copy button after it is clicked.
+select-translations-panel-copy-button-copied =
+    .label = S'ha copiat
+select-translations-panel-done-button =
+    .label = Fet
+select-translations-panel-translate-full-page-button =
+    .label = Tradueix tota la pàgina
 select-translations-panel-translate-button =
     .label = Tradueix
 select-translations-panel-try-again-button =

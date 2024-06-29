@@ -77,6 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Mostra més pestanyes
     .tooltiptext = Mostra més pestanyes d'aquest dispositiu
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Pestanyes inactives
+    .tooltiptext = Mostra les pestanyes inactives d'aquest dispositiu
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = No hi ha cap pestanya oberta
 # This is shown when Sync is configured but syncing tabs is disabled.

@@ -103,3 +103,8 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = Mostra les pestanyes tancades recentment
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } pestanya del { -brand-short-name } tancada
+       *[other] { $closedCount } pestanyes del { -brand-short-name } tancades
+    }
