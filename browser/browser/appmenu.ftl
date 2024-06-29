@@ -77,16 +77,10 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Montri pli da langetoj
     .tooltiptext = Montri pli da langetoj el tiu ĉi aparato
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Montri unu neaktivan langeton
-           *[other] Montri { $count } neaktivajn langetojn
-        }
-    .tooltiptext = Montri la neaktivajn langetojn en tiu ĉi aparato
+# This is shown as the label for an element to show inactive tabs from this device.
+appmenu-remote-tabs-show-inactive-tabs =
+    .label = Neaktivaj langetoj
+    .tooltiptext = Montri neaktivajn langetojn en tiu ĉi aparato
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Neniu spegulita langeto
 # This is shown when Sync is configured but syncing tabs is disabled.
@@ -202,6 +196,9 @@ profiler-popup-presets-power-description = Agordoj por senerarigo de uzo de ener
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energio
+profiler-popup-presets-debug-description = Antaŭagordo por senerarigo en { -brand-shorter-name }. Tio postulas multe pli da rimedoj, ne uzu por mezuri efikecon sed por pli koncentriĝe kompreni la konduton de la retumilo.
+profiler-popup-presets-debug-label =
+    .label = Senerarigi
 profiler-popup-presets-custom-label =
     .label = Personecigita
 
