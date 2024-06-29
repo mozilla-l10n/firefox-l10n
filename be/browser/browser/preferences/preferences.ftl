@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Працягвайце з асцярожнасцю
 pane-experimental-search-results-header = Эксперыменты { -brand-short-name }: працягвайце з асцярожнасцю
 pane-experimental-description2 = Змена пашыраных налад канфігурацыі можа паўплываць на прадукцыйнасць і бяспеку { -brand-short-name }.
+pane-experimental-description3 = Паспрабуйце нашы эксперыментальныя функцыі! Яны знаходзяцца ў стадыі распрацоўкі і развіцця, што можа паўплываць на працу { -brand-short-name }.
 pane-experimental-reset =
     .label = Аднавіць прадвызначаныя
     .accesskey = А
