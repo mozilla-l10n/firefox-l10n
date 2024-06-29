@@ -77,16 +77,6 @@ appmenu-remote-tabs-turn-on-sync =
 appmenu-remote-tabs-showmore =
     .label = Vis fleire faner
     .tooltiptext = Vis fleire faner frå denne eininga
-# This is shown when there are inactive tabs which are not being shown.
-# Variables
-# $count (Number) - The number of inactive tabs which are not being shown (at least 1)
-appmenu-remote-tabs-showinactive =
-    .label =
-        { $count ->
-            [one] Vis ei uverksam fane
-           *[other] Vis { $count } uverksame fane
-        }
-    .tooltiptext = Vis dei uverksame fanene på denne eininga
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
     .label = Inaktive faner
@@ -206,6 +196,9 @@ profiler-popup-presets-power-description = Førehandsinnstilt til å undersøke 
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energi
+profiler-popup-presets-debug-description = Førehandsinnstilt for feilsøking i { -brand-shorter-name }. Høg overhead, ikkje bruk for ytingsarbeid, men bruk for å fokusere på å forstå åtferda til nettlesaren.
+profiler-popup-presets-debug-label =
+    .label = Feilsøk
 profiler-popup-presets-custom-label =
     .label = Tilpassa
 
