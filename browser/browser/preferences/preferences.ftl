@@ -57,6 +57,7 @@ category-experimental =
 pane-experimental-subtitle = Aneu amb compte
 pane-experimental-search-results-header = Experiments del { -brand-short-name }: Aneu amb compte
 pane-experimental-description2 = La modificació dels paràmetres avançats de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
+pane-experimental-description3 = Proveu les nostres funcions experimentals! Estan en constant desenvolupament i evolució, i podrien afectar el funcionament del { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaura els valors per defecte
     .accesskey = R
@@ -263,6 +264,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = Amplia només el text
     .accesskey = t
+preferences-text-zoom-override-warning =
+    .message = Avís: si seleccioneu "Amplia només el text" i el zoom per defecte no és 100%, pot ser que alguns llocs o continguts no funcionin correctament.
 language-header = Llengua
 choose-language-description = Trieu la llengua en què es mostraran preferentment les pàgines
 choose-button =
@@ -893,6 +896,9 @@ forms-breach-alerts =
 forms-breach-alerts-learn-more-link = Més informació
 preferences-relay-integration-checkbox =
     .label = Suggereix màscares d'adreça electrònica del { -relay-brand-name } per a protegir la vostra adreça electrònica
+preferences-relay-integration-checkbox2 =
+    .label = Suggereix màscares d'adreça electrònica del { -relay-brand-name } per a protegir la vostra adreça electrònica
+    .accesskey = r
 relay-integration-learn-more-link = Més informació
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -1303,6 +1309,7 @@ website-advertising-header = Preferències de publicitat dels llocs web
 website-advertising-private-attribution =
     .label = Permet que els llocs web facin mesures publicitàries que respectin la privadesa
     .accesskey = P
+website-advertising-private-attribution-description = Això ajuda els llocs a entendre el rendiment dels seus anuncis sense recollir les vostres dades.
 
 ## Privacy Section - Security
 ##
