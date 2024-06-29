@@ -50,6 +50,7 @@ inactive-css-not-table = <strong>{ $property }</strong> ne efikas sur tiu ĉi el
 inactive-css-not-table-cell = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas tabla ĉelo.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas rulumebla.
 inactive-css-border-image = <strong>{ $property }</strong> ne efikas sur tiun ĉi elementon ĉar ĝi ne povas esti aplikita al internaj tabulaj elementoj, por kiuj <strong>border-collapse</strong> havas la valoron <strong>collapse</strong> en la gepatra tabula elemento.
+inactive-css-resize = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi povas esti aplikita nur al al elementoj kies valoro por troo ne estas "visible" kaj al aliaj specifaj anstataŭitaj elementoj, ekzemple tekstaj areoj.
 inactive-css-ruby-element = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi estas elemento 'ruby'. Ĝia grando estas difinita de la tipara grando de la teksto 'ruby'.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -66,6 +67,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
        *[other] <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi havas pli ol { $lineCount } liniojn.
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi estas fragmenta, tio estas, ĝia enhavo estas disdividita inter pluraj kolumnoj aŭ paĝoj.
+inactive-css-no-width-height = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝiaj alto kaj larĝo ne povas esti difinitaj.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -76,6 +78,7 @@ inactive-css-not-grid-or-flex-container-fix = Provu aldoni <strong>display:grid<
 inactive-css-not-grid-or-flex-or-block-container-fix = Provu aldoni <strong>display:grid</strong>, <strong>display:flex</strong> aŭ<strong>display:block</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Provu aldoni ĉu <strong>display:grid</strong>, <strong>display:flex</strong>, ĉu <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Provu aldoni ĉu <strong>column-count</strong> ĉu <strong>column-width</strong>. { learn-more }
+inactive-css-column-span-fix = Provu aldoni ĉu <strong>column-count</strong> ĉu <strong>column-width</strong> al praa elemento. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Klopodu aldoni <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, aŭ <strong>display:inline-flex</strong> al la gepatra elmento. { learn-more }
 inactive-css-not-grid-item-fix-2 = Provu aldoni <strong>display:grid</strong> aŭ <strong>display:inline-grid</strong> al la gepatro de la elemento. { learn-more }
 inactive-css-not-grid-container-fix = Provu aldoni <strong>display:grid</strong> aŭ <strong>display:inline-grid</strong>. { learn-more }
@@ -86,6 +89,7 @@ inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Provu aldoni <s
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Provu aldoni <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Provu forigi <strong>float</strong> aŭ aldoni <strong>display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Klopodu difini ĝian atributon <strong>position</strong> per valoro diferenca de <strong>static</strong>. { learn-more }
+inactive-css-only-replaced-elements-fix = Certu aldoni la atributon al anstataŭita elemento. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Provu aldoni <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Provu difini ĝian atributon <strong>display</strong> per valoro malsama ol <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Provu difini ĝian atributon <strong>display</strong> per valoro malsama ol <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, or <strong>table-footer-group</strong>. { learn-more }
