@@ -140,6 +140,7 @@ perftools-presets-networking-description = Rekomendita agordaro por esploro de r
 perftools-presets-power-label = Energio
 perftools-presets-power-description = Agordoj por senerarigo de uzo de energio en { -brand-shorter-name }, kun malmulte da aldona kromprocezado.
 perftools-presets-debug-label = Senerarigi
+perftools-presets-debug-description = Antaŭagordo por senerarigo en { -brand-shorter-name }. Tio postulas multe pli da rimedoj, ne uzu por mezuri efikecon sed por pli koncentriĝe kompreni la konduton de la retumilo.
 perftools-presets-custom-label = Personecigita
 
 ##
