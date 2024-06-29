@@ -106,3 +106,10 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = Zobrazit nedávno zavřené panely
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } panel aplikace { -brand-short-name } byl zavřen
+        [few] { $closedCount } panely aplikace { -brand-short-name } byly zavřeny
+        [many] { $closedCount } panelů aplikace { -brand-short-name } bylo zavřeno
+       *[other] { $closedCount } panelů aplikace { -brand-short-name } bylo zavřeno
+    }
