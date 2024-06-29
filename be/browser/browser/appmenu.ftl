@@ -196,6 +196,7 @@ profiler-popup-presets-power-description = Папярэднія налады д�
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Сілкаванне
+profiler-popup-presets-debug-description = Папярэднія налады для адладкі ў { -brand-shorter-name }. Вялікія накладныя выдаткі, выкарыстоўвайце не для павышэння прадукцыйнасці, а для канцэнтрацыі ўвагі на разуменні паводзін браўзера.
 profiler-popup-presets-debug-label =
     .label = Адладка
 profiler-popup-presets-custom-label =
